@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440" width="1280" height="440" role="img" aria-label="TemplatesGrokBot: 3,000+ ready-made Grok Bot templates">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070C16"/><stop offset=".6" stop-color="#0B1A33"/><stop offset="1" stop-color="#0A2D5E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".85" cy=".2" r=".5"><stop offset="0" stop-color="#E67E22" stop-opacity=".22"/><stop offset="1" stop-color="#E67E22" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".04"/></pattern>
+  </defs>
+  <rect width="1280" height="440" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="440" rx="18" fill="url(#grid)"/>
+  <rect width="1280" height="440" rx="18" fill="url(#glow)"/>
+  
+  <g transform="translate(64 58) scale(1.75)">
+    <rect width="32" height="32" rx="3" fill="#0852A8" stroke="#1767C9" stroke-width=".6"/>
+    <path d="M16 6.5 V9" stroke="#F29A3E" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="16" cy="5" r="2" fill="#F29A3E"/>
+    <rect x="7" y="9.5" width="18" height="15" rx="5" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <circle cx="12.5" cy="16" r="2.1" fill="#F29A3E"/>
+    <circle cx="19.5" cy="16" r="2.1" fill="#F29A3E"/>
+    <path d="M12.5 20.5 H19.5" stroke="#FFFFFF" stroke-opacity=".8" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+  <text x="136" y="92" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-.5"><tspan fill="#5A9DF0">templates</tspan><tspan fill="#E67E22">grokbot</tspan></text>
+  <text x="137" y="113" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8A9AB3">by CompleteAiAgents.com</text>
+  <text x="64" y="208" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#FFFFFF" letter-spacing="-1.6">3,000+ ready-made</text>
+  <text x="64" y="270" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#E67E22" letter-spacing="-1.6">Grok Bot templates</text>
+  <text x="64" y="318" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#B8C6D6">Search by task or job title · install in minutes · connect via MCP</text>
+  
+  <g transform="translate(64 352)"><rect width="158" height="36" rx="18" fill="#0852A8" fill-opacity=".35" stroke="#1767C9"/><text x="79" y="23.5" text-anchor="middle" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#DCE7F5">21 job fields</text></g>
+  <g transform="translate(234 352)"><rect width="186" height="36" rx="18" fill="#0852A8" fill-opacity=".35" stroke="#1767C9"/><text x="93" y="23.5" text-anchor="middle" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#DCE7F5">27 kinds of work</text></g>
+  <g transform="translate(432 352)"><rect width="132" height="36" rx="18" fill="#0852A8" fill-opacity=".35" stroke="#1767C9"/><text x="66" y="23.5" text-anchor="middle" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#DCE7F5">Free to use</text></g>
+  
+  <g transform="translate(800 70)">
+    <rect width="400" height="78" rx="10" fill="#101A2C" stroke="#22324D"/>
+    <text x="18" y="24" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#E67E22">## Identity</text>
+    <rect x="18" y="38" width="300" height="8" rx="4" fill="#2A3B58"/><rect x="18" y="60" width="220" height="8" rx="4" fill="#2A3B58"/>
+  </g>
+  
+  <g transform="translate(840 162)">
+    <rect width="380" height="100" rx="10" fill="#101A2C" stroke="#22324D"/>
+    <text x="18" y="24" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#F29A3E">## Capabilities</text>
+    <rect x="18" y="38" width="280" height="8" rx="4" fill="#2A3B58"/><rect x="18" y="60" width="320" height="8" rx="4" fill="#2A3B58"/><rect x="18" y="82" width="200" height="8" rx="4" fill="#2A3B58"/>
+  </g>
+  
+  <g transform="translate(820 276)">
+    <rect width="400" height="78" rx="10" fill="#101A2C" stroke="#22324D"/>
+    <text x="18" y="24" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#5A9DF0">## Boundaries</text>
+    <rect x="18" y="38" width="340" height="8" rx="4" fill="#2A3B58"/><rect x="18" y="60" width="180" height="8" rx="4" fill="#2A3B58"/>
+  </g>
+</svg>

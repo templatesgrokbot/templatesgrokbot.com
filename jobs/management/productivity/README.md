@@ -1,0 +1,101 @@
+# Productivity templates for Management
+
+Plan, prioritise and clear the recurring admin. 91 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
+
+**[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
+
+| Template | What it does |
+|---|---|
+| [Acceptance Orchestrator](../../it-and-development/productivity/acceptance-orchestrator.md) | Drive coding tasks from issue intake to acceptance verification with minimal re-intervention. |
+| [Accint Commitments](accint-commitments.md) | Triage open promises and close them with honest verdicts via acc_act(runtime="outcome"). |
+| [Agent Organizer](agent-organizer.md) | Assembles and coordinates multi-agent teams for complex projects by matching capabilities to tasks. |
+| [Agent Squad](../../it-and-development/productivity/agent-squad.md) | Orchestrates a squad of specialized agents to manage software projects step by step. |
+| [Agile Product Owner](../../product-development/productivity/agile-product-owner.md) | Generates INVEST-compliant user stories and manages sprint backlog for a product owner. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Alex](alex.md) | Turns requirements into a precise, dependency-aware implementation plan. |
+| [Alfred](alfred.md) | Designs and governs your Grok Bot organization to keep it useful and maintainable. |
+| [Antigravity Workflows](antigravity-workflows.md) | Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints. |
+| [Asana Automation](../../operations/productivity/asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
+| [Basecamp Automation](../../operations/productivity/basecamp-automation.md) | Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP. |
+| [Before You Build](../../product-development/productivity/before-you-build.md) | Pause before coding to check demand, alternatives, and switching costs. |
+| [Brainstorming](brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
+| [Brave Man](brave-man.md) | Runs a clarifying interview for new projects, then outputs a ready prompt.md for execution. |
+| [Build](../../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
+| [Bulletmind](../../education/productivity/bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
+| [Calendly Automation](../../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
+| [Clickup Automation](../../operations/productivity/clickup-automation.md) | Automate ClickUp project management via Rube MCP — tasks, hierarchy, comments. |
+| [Coda Automation](../../operations/productivity/coda-automation.md) | Automate Coda docs, tables, formulas, permissions, and publishing via MCP. |
+| [Conductor New Track](conductor-new-track.md) | Create a new track with specification and phased implementation plan. |
+| [Conductor Status](conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
+| [Daily Meeting Update](../../it-and-development/productivity/daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
+| [Deadline Prep](deadline-prep.md) | Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you |
+| [Decision Navigator](decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
+| [Diary](../../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
+| [Doordash Group Orders](../../operations/productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
+| [Famulor](../../operations/productivity/famulor-skill.md) | Operate Famulor assistants, calls, campaigns, messaging, and workspace settings through its MCP server. |
+| [File Organizer](../../operations/productivity/file-organizer.md) | Analyzes, deduplicates, and restructures your files into a logical folder hierarchy. |
+| [Find Complementary Founders](../../executives-and-strategy/productivity/find-complementary-founders.md) | Match founders by evidence, not claims — publish only your own owner's profile. |
+| [Flowhunt](../../operations/productivity/flowhunt-skill.md) | Guides a 5-question intake then audits tools to rank automation quick wins. |
+| [Game Changing Features](../../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
+| [Git Pr Workflows Onboard](../../human-resources/productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
+| [Google Calendar Automation](google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
+| [Hackathon Ai Strategist](hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
+| [Hr Pro](../../human-resources/productivity/hr-pro.md) | HR partner for hiring, onboarding, PTO, performance, and compliant policies. |
+| [Idea Autopsy](../../executives-and-strategy/productivity/idea-autopsy.md) | Autopsy a business idea before you build it: kill-list check, five hard filters, a free-AI one-prompt test, live ad-market verification, and a verdict |
+| [Idea Os](../../product-development/productivity/idea-os.md) | Five-phase pipeline turning raw ideas into PRD, research, and execution plans. |
+| [Idea Refine](../../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
+| [Inbox Triage](inbox-triage.md) | Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe. |
+| [Jira](jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
+| [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
+| [Kody](kody.md) | Coordinates priorities across people, projects, and assistants. |
+| [Linear Automation](../../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
+| [Linear for Claude](../../product-development/productivity/linear-claude-skill.md) | Manage Linear issues, projects, and teams via API. |
+| [Meal Prep](../../operations/productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
+| [Meeting Notes](../../operations/productivity/meeting-notes.md) | Turns a transcript into decisions and owned actions, dropping everything that was just talk. |
+| [Monday Automation](../../operations/productivity/monday-automation.md) | Automate Monday.com work management with board, item, column, group, and subitem operations via Rube MCP. |
+| [Multi Advisor](../../executives-and-strategy/productivity/multi-advisor.md) | Consult multiple specialists in parallel for multi-perspective analysis and decision synthesis. |
+| [Multi Agent Brainstorming](../../product-development/productivity/multi-agent-brainstorming.md) | Simulate a structured peer-review process to validate designs and catch failure modes early. |
+| [Not A Vibe Coder](../../product-development/productivity/not-a-vibe-coder.md) | Turns vague project ideas into 8 structured planning files for new projects only. |
+| [Notion Meeting Intelligence](notion-meeting-intelligence.md) | Prep meeting agendas and pre-reads using Notion context and Codex research. |
+| [Odoo Manufacturing Advisor](../../operations/productivity/odoo-manufacturing-advisor.md) | Configure Odoo Manufacturing: BoMs, work centers, routings, MRP runs, and production order workflows. |
+| [Odoo Project Timesheet](../../operations/productivity/odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
+| [Onboarding](../../product-development/productivity/onboarding.md) | Optimize post-signup onboarding to speed users to their aha moment and boost activation. |
+| [Onboarding Cro](../../product-development/productivity/onboarding-cro.md) | Audits and optimizes user onboarding to reduce time-to-value and increase activation rates. |
+| [Osterwalder Canvas Architect](../../executives-and-strategy/productivity/osterwalder-canvas-architect.md) | Iteratively build and audit logically consistent 9-block Business Model Canvases. |
+| [Outlook Automation](../../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
+| [Outlook Calendar Automation](outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
+| [Plan Writing](plan-writing.md) | Breaks down multi-step work into clear, verifiable tasks and saves the plan as a markdown file. |
+| [Planning](planning.md) | Creates and maintains markdown planning files to track complex multi-step tasks. No context loss, no goal drift. Always reads before deciding, updates |
+| [Planning And Task Breakdown](planning-and-task-breakdown.md) | Breaks specs into ordered, verifiable tasks with acceptance criteria. |
+| [Planning With Files](planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
+| [Power User Cultivation](../../product-development/productivity/power-user-cultivation.md) | Identify engaged developers and turn them into advocates and contributors. |
+| [Prd](../../product-development/productivity/prd.md) | Synthesize conversation into PRD and publish to issue tracker. |
+| [Product Manager](../../product-development/productivity/product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
+| [Project Manager](project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
+| [Project Supervisor Orchestrator](../../operations/productivity/project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
+| [Requirements Clarity](../../product-development/productivity/requirements-clarity.md) | Turns vague feature requests into clear, actionable PRDs through structured questioning. |
+| [Schedule Tasks](../../operations/productivity/anthropic-schedule.md) | Run recurring tasks automatically: a briefing every morning, a weekly plan every Monday, an inbox check every hour. |
+| [Scrum Master](scrum-master.md) | Facilitates agile teams, removes impediments, and drives continuous improvement through Scrum ceremonies. |
+| [Se Product Manager Advisor](../../product-development/productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
+| [Sendblue Notify](../../it-and-development/productivity/sendblue-notify.md) | Text your phone when a long task finishes, via Sendblue iMessage notifications. No chatter, no spam. |
+| [Session Handoff](../../operations/productivity/session-handoff.md) | Creates and resumes handoff documents so fresh sessions continue work without losing context. |
+| [Speed](speed.md) | Launch RSVP speed reader with Spritz-style word-by-word display. |
+| [Sred Work Summary](../../operations/productivity/sred-work-summary.md) | Collect a year of PRs, docs, and tickets into a grouped Notion doc for SRED. |
+| [Task Decomposition Expert](task-decomposition-expert.md) | Breaks complex goals into actionable work breakdowns with dependencies and effort estimates. |
+| [Task Distributor](../../operations/productivity/task-distributor.md) | Distributes tasks across workers to maximize throughput while respecting priorities and deadlines. No hype, no emoji, no 'leverage'/'empower'/'seamles |
+| [Task Intelligence](task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |
+| [Task Planner](task-planner.md) | Creates actionable implementation plans from verified research findings. |
+| [Team Collaboration Standup Notes](team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |
+| [Template Router](../../operations/productivity/skill-router.md) | Interviews users and recommends the best installed capability for their goal. |
+| [Time Ledger](../../operations/productivity/time-ledger.md) | Parse natural-language time reports into your Notion database, asking when unsure. |
+| [To Issues](../../product-development/productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
+| [Todoist Automation](../../operations/productivity/todoist-automation.md) | Automate Todoist tasks, projects, sections, and filters via Rube MCP. |
+| [Track Management](../../it-and-development/productivity/track-management.md) | Manage Conductor tracks from spec to completion. |
+| [Trello Automation](../../operations/productivity/trello-automation.md) | Automate Trello boards, cards, lists, and assignments via Rube MCP. |
+| [Triage](../../it-and-development/productivity/triage.md) | Triage issues and PRs through a state machine to agent-ready briefs. |
+| [Vendor Watch](../../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
+| [Web Project Brainstorming](../../product-development/productivity/web-project-brainstorming.md) | Structured framework for brainstorming web project concepts, UX, styling, tech stack, and SEO. |
+| [Workflow Orchestrator](../../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
+| [Wrike Automation](../../operations/productivity/wrike-automation.md) | Automate Wrike tasks, folders, projects, and assignments via Rube MCP. |
+| [Zapier Workflows](../../operations/productivity/zapier-workflows.md) | Manages and triggers your Zapier workflows and MCP tool orchestrations from chat. |
+
+[← All Management templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/management)

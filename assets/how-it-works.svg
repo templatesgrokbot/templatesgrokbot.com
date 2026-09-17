@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-label="How it works: describe your job, get matched templates, Grok Bot sets them up">
+  <rect width="1280" height="280" rx="18" fill="#070C16"/>
+  
+  <g transform="translate(40 40)">
+    <rect width="360" height="200" rx="16" fill="#101A2C" stroke="#22324D"/>
+    <circle cx="44" cy="46" r="20" fill="#0852A8"/>
+    <text x="44" y="52.5" text-anchor="middle" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF">1</text>
+    <text x="24" y="104" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">Describe your job</text>
+    <text x="24" y="136" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#B8C6D6">Your job title and the work</text><text x="24" y="160" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#B8C6D6">that repeats every week.</text>
+  </g>
+  <path d="M412 140 h28 m-10 -9 l10 9 -10 9" fill="none" stroke="#E67E22" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <g transform="translate(460 40)">
+    <rect width="360" height="200" rx="16" fill="#101A2C" stroke="#22324D"/>
+    <circle cx="44" cy="46" r="20" fill="#1767C9"/>
+    <text x="44" y="52.5" text-anchor="middle" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF">2</text>
+    <text x="24" y="104" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">Get matched templates</text>
+    <text x="24" y="136" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#B8C6D6">We search all 3,031 templates</text><text x="24" y="160" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#B8C6D6">for the tasks you described.</text>
+  </g>
+  <path d="M832 140 h28 m-10 -9 l10 9 -10 9" fill="none" stroke="#E67E22" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <g transform="translate(880 40)">
+    <rect width="360" height="200" rx="16" fill="#101A2C" stroke="#22324D"/>
+    <circle cx="44" cy="46" r="20" fill="#E67E22"/>
+    <text x="44" y="52.5" text-anchor="middle" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF">3</text>
+    <text x="24" y="104" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">Grok Bot sets them up</text>
+    <text x="24" y="136" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#B8C6D6">Connected via MCP, it installs</text><text x="24" y="160" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#B8C6D6">them and checks for new ones weekly.</text>
+  </g>
+</svg>
