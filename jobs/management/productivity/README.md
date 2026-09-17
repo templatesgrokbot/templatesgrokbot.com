@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 91 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 92 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Plan, prioritise and clear the recurring admin. 91 Grok Bot templates, 29 of the
 | [Brave Man](brave-man.md) | Runs a clarifying interview for new projects, then outputs a ready prompt.md for execution. |
 | [Build](../../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Bulletmind](../../education/productivity/bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
+| [Calendar Defragmenter](calendar-defragmenter.md) | Audit your calendar, reclaim your week with focus blocks and diplomatic meeting cuts. |
 | [Calendly Automation](../../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Clickup Automation](../../operations/productivity/clickup-automation.md) | Automate ClickUp project management via Rube MCP — tasks, hierarchy, comments. |
 | [Coda Automation](../../operations/productivity/coda-automation.md) | Automate Coda docs, tables, formulas, permissions, and publishing via MCP. |

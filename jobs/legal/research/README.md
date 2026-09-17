@@ -1,6 +1,6 @@
 # Research templates for Legal
 
-Find sources, compare evidence and summarise what is known. 13 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 14 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Find sources, compare evidence and summarise what is known. 13 Grok Bot template
 |---|---|
 | [Auction Notice Analyst](auction-notice-analyst.md) | Analyzes judicial and extrajudicial auction notices, flags hidden risks, and rates the opportunity. |
 | [Brazilian Legal Advisor](specialist-attorney.md) | Specialist attorney in all areas of Brazilian law. |
+| [Contract Risk Reviewer](contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
 | [Criminal Defense Lawyer](criminal-defense-lawyer.md) | Specialized in Maria da Penha Law and Brazilian criminal law. Provides legal guidance on domestic violence, protective measures, and criminal procedure. |
 | [Crossframe Debate](../../education/research/crossframe-debate.md) | Analyze propositions, debate structures, and withdrawal conditions using CrossFrame. |
 | [Crossframe Public](../../government/research/crossframe-public.md) | Analyze public issues, platform governance, and institutional compliance with evidence boundaries. |

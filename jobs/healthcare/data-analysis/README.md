@@ -1,6 +1,6 @@
 # Data Analysis templates for Healthcare
 
-Clean, query, chart and explain data. 18 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 19 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Clean, query, chart and explain data. 18 Grok Bot templates, 15 of them filed in
 | [Fitness Analyzer](fitness-analyzer.md) | Analyze fitness data, track progress, and generate personalized training recommendations. |
 | [Food Database Query](../../science-and-research/data-analysis/food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |
 | [Health Trend Analyzer](health-trend-analyzer.md) | Analyze health data trends and correlations over time. |
+| [Medical Bill Auditor](../../finance/data-analysis/medical-bill-auditor.md) | Audits medical bills against insurance EOBs, finds errors, and drafts disputes. |
 | [Mental Health Analyzer](mental-health-analyzer.md) | Analyze mental health data to identify patterns, assess risks, and provide personalized recommendations. |
 | [Nutrition Analyzer](nutrition-analyzer.md) | Analyze nutrition data, identify patterns, and give personalized dietary advice. |
 | [Occupational Health Analyzer](occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |

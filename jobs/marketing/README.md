@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **378 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **384 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,12 +12,12 @@ Campaigns, SEO, content and growth. **378 ready-made Grok Bot templates** for th
 | Kind of work | Templates |
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 128 |
-| [Research](research/README.md) | 53 |
-| [Writing & Content](writing-and-content/README.md) | 40 |
-| [Data Analysis](data-analysis/README.md) | 33 |
+| [Research](research/README.md) | 54 |
+| [Writing & Content](writing-and-content/README.md) | 41 |
+| [Data Analysis](data-analysis/README.md) | 36 |
 | [Social Media](social-media/README.md) | 23 |
 | [Generative Art](generative-art/README.md) | 21 |
-| [Design](design/README.md) | 16 |
+| [Design](design/README.md) | 17 |
 | [Coding](coding/README.md) | 13 |
 | [Productivity](productivity/README.md) | 10 |
 | [Generative Code](generative-code/README.md) | 7 |
@@ -181,6 +181,7 @@ Campaigns, SEO, content and growth. **378 ready-made Grok Bot templates** for th
 | [Competitor Analysis](research/competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
 | [Competitor Profiling](research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Tracking](research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
+| [Contact Hunter](../sales/research/contact-hunter.md) | Finds and verifies public contact details for people and companies. |
 | [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Customer Psychographic Profiler](research/customer-psychographic-profiler.md) | Build deep psychographic profiles of target customers based on identity, needs, and fears. |
 | [Customer Research](research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
@@ -256,6 +257,7 @@ Campaigns, SEO, content and growth. **378 ready-made Grok Bot templates** for th
 | [Portfolio Case Study Writer](../creatives/writing-and-content/portfolio-case-study-writer.md) | Transforms resume bullets into detailed portfolio case studies with context, action, and outcome. |
 | [Professional Proofreader](../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 | [Resume Bullet Writer](../human-resources/writing-and-content/resume-bullet-writer.md) | Transform weak resume bullets into achievement-focused statements with metrics and impact. |
+| [RFP Compliance Drafter](../sales/writing-and-content/rfp-compliance-drafter.md) | Turns RFPs and your past proposals into a compliance matrix and drafted response, flagging disqualifiers first. |
 | [Seo Aeo Blog Writer](writing-and-content/seo-aeo-blog-writer.md) | Write structured blog posts optimized for SEO ranking and AI extraction. |
 | [Seo Aeo Landing Page Writer](writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [Seo Content](writing-and-content/seo-content.md) | Audit content quality and E-E-A-T signals for SEO and AI citation readiness. |
@@ -288,7 +290,9 @@ Campaigns, SEO, content and growth. **378 ready-made Grok Bot templates** for th
 | [Apify Lead Generation](../sales/data-analysis/apify-lead-generation.md) | Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors. |
 | [Apify Trend Analysis](data-analysis/apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
 | [Buywhere Product Catalog](../sales/data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
+| [Champion Identifier](../sales/data-analysis/champion-identifier.md) | Finds the internal advocate most likely to push your solution through a target account. |
 | [Churn Radar](../sales/data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
+| [Customer Panel Debate](data-analysis/customer-panel-debate.md) | Assemble a data-grounded customer panel to debate your high-stakes decisions. |
 | [Data Analyst](../science-and-research/data-analysis/data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
 | [Data Researcher](../science-and-research/data-analysis/data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
 | [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
@@ -304,6 +308,7 @@ Campaigns, SEO, content and growth. **378 ready-made Grok Bot templates** for th
 | [Performance Report](../executives-and-strategy/data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Podcast Content Analyzer](../operations/data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
 | [Posthog Automation](data-analysis/posthog-automation.md) | Automate PostHog analytics, feature flags, and project management via Rube MCP. |
+| [Quarterly Business Review Builder](data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Talivia Agent Kit](data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [X Twitter Scraper](../operations/data-analysis/x-twitter-scraper.md) | X data extraction and giveaway draws via the Xquik API, read-only. |
 
@@ -373,6 +378,7 @@ Campaigns, SEO, content and growth. **378 ready-made Grok Bot templates** for th
 | [Brand Guidelines Community](../creatives/design/brand-guidelines-community.md) | Applies Anthropic brand colors and typography to artifacts on request. |
 | [Brandkit](../creatives/design/brandkit.md) | Builds a complete brand board with logo concepts, color palette, typography, and mockups from a short briefing. |
 | [Canvas Design](../creatives/design/anthropic-canvas-design.md) | Create original PNG and PDF designs grounded in design philosophy. |
+| [Color Palette Extractor](../creatives/design/color-palette-extractor.md) | Extract accessible color palettes from images, websites, or designs and export in multiple formats. |
 | [Creative Portfolio Resume](../creatives/design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
 | [Design](../creatives/design/design.md) | Design brand assets, logos, UI tokens, banners, icons, and social photos from your requests. |
 | [Image Enhancer](../creatives/design/image-enhancer.md) | Enhances image resolution, sharpness, and clarity for presentations, documentation, or social media. |

@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 83 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 84 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Interfaces, brands, layouts and visual systems. 83 Grok Bot templates, 30 of the
 | [Code Showcase Core Components](code-showcase-core-components.md) | Use design tokens and core components for consistent UI. |
 | [Color Blocking](../../creatives/design/color-blocking.md) | Build Mondrian-style layouts with bold color blocks and thick grid lines. |
 | [Command Center Ui](command-center-ui.md) | Generate dark-themed monitoring UI code for NOCs and global maps. |
+| [CSS Animation Creator](../../creatives/design/css-animation-creator.md) | Create production-grade CSS animations, transitions, and micro-interactions for web UIs. |
 | [Cyberpunk Ui](../../creatives/design/cyberpunk-ui.md) | Generate neon-on-black UI with clipped corners and glitch accents. |
 | [Dark Mode](dark-mode.md) | Dark mode design guide: surfaces, typography, and accent rules. |
 | [Data Dense Design](data-dense-design.md) | Build expert UIs with maximum data density like Bloomberg terminals or IDEs. |

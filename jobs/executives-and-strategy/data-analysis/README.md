@@ -1,14 +1,20 @@
 # Data Analysis templates for Executives and Strategy
 
-Clean, query, chart and explain data. 24 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 30 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Ai Dev Jobs Mcp](../../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
+| [AI Readiness Assessor](ai-readiness-assessor.md) | Assesses a business's AI readiness across six dimensions and produces a prioritized action report. |
 | [Analytics Product](../../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
+| [Board Deck Generator](board-deck-generator.md) | Generates institutional-quality board meeting decks with financials, updates, and asks. |
+| [Cash Flow Forecaster](../../finance/data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your financial exports and flags crunch weeks. |
+| [Champion Identifier](../../sales/data-analysis/champion-identifier.md) | Finds the internal advocate most likely to push your solution through a target account. |
+| [Customer Panel Debate](../../marketing/data-analysis/customer-panel-debate.md) | Assemble a data-grounded customer panel to debate your high-stakes decisions. |
 | [Data Storytelling](data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
+| [Deal Room Risk Analyst](../../finance/data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
 | [Kpi Dashboard Design](../../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
 | [Longbridge](../../finance/data-analysis/longbridge.md) | 125+ read-only market data capabilities for HK/US/A-share/SG stocks via Longbridge. |
 | [Longbridge Fundamentals](../../finance/data-analysis/longbridge-fundamentals.md) | Pull financial statements, valuation multiples, and company profiles for HK/US/A-share/Singapore stocks via Longbridge. |

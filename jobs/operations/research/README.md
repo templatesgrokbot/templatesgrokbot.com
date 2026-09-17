@@ -1,6 +1,6 @@
 # Research templates for Operations
 
-Find sources, compare evidence and summarise what is known. 31 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 33 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,8 @@ Find sources, compare evidence and summarise what is known. 31 Grok Bot template
 | [Apple Notes Search](apple-notes-search.md) | Semantic + keyword search and connection-discovery across your own Apple Notes. |
 | [Axiom](../../executives-and-strategy/research/axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
 | [Brightdata Local Search](../../science-and-research/research/brightdata-local-search.md) | Run local web searches via Bright Data SERP API with query expansion and reranking. |
+| [Contact Hunter](../../sales/research/contact-hunter.md) | Finds and verifies public contact details for people and companies. |
+| [Contract Risk Reviewer](../../legal/research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
 | [Crypto Bd Agent](../../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Customs Trade Compliance](customs-trade-compliance.md) | Classify goods, manage customs docs, screen parties, and optimize duties across US, EU, UK, and APAC. |
 | [Daily News Report](daily-news-report.md) | Scrape preset URLs, filter high-quality tech news, and output a daily Markdown report. |

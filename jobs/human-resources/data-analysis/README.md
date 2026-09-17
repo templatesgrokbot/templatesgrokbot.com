@@ -1,6 +1,6 @@
 # Data Analysis templates for Human Resources
 
-Clean, query, chart and explain data. 8 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 9 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Clean, query, chart and explain data. 8 Grok Bot templates, 4 of them filed in t
 |---|---|
 | [Ai Dev Jobs Mcp](../../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Ditto](../../it-and-development/data-analysis/ditto.md) | Mine private work profiles from local coding-agent session logs. |
+| [Hiring Screener](hiring-screener.md) | Screens resumes against a job description and returns a ranked, evidence-backed shortlist. |
 | [Job Description Analyzer](job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
 | [Meeting Insights Analyzer](../../management/data-analysis/meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
 | [Occupational Health Analyzer](../../healthcare/data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |

@@ -1,6 +1,6 @@
 # Knowledge Management templates for Management
 
-Notes, documents, PDFs and knowledge bases kept in order. 17 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 18 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 17 Grok Bot templates,
 | [Context Driven Development](../../it-and-development/knowledge-management/context-driven-development.md) | Manage project context as a living artifact for consistent AI and team alignment. |
 | [Context Management Context Restore](../../it-and-development/knowledge-management/context-management-context-restore.md) | Restore project context from saved handoffs and current evidence. |
 | [Context Management Context Save](../../it-and-development/knowledge-management/context-management-context-save.md) | Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks. |
+| [Contract Renewal Radar](../../legal/knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
 | [Crossframe Casebook](../../operations/knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
 | [Domain Modeling](../../it-and-development/knowledge-management/domain-modeling.md) | Build and sharpen a project's domain model by resolving terminology, recording decisions, and cross-referencing code. |
 | [Notion Knowledge Capture](../../operations/knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |

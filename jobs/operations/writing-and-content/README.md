@@ -1,6 +1,6 @@
 # Writing & Content templates for Operations
 
-Plan, write and edit articles, copy and documentation. 12 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 14 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,8 @@ Plan, write and edit articles, copy and documentation. 12 Grok Bot templates, 5 
 | [Ocr Quality Assurance](ocr-quality-assurance.md) | Validates OCR-corrected text against original images for accuracy and completeness. |
 | [Resume Quantifier](../../human-resources/writing-and-content/resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |
 | [Resume Tailor](resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
+| [RFP Compliance Drafter](../../sales/writing-and-content/rfp-compliance-drafter.md) | Turns RFPs and your past proposals into a compliance matrix and drafted response, flagging disqualifiers first. |
+| [SOP Writer](sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
 | [Unslop File](../../writers/writing-and-content/unslop-file.md) | Rewrite memory files to sound human-written while preserving code, URLs, and headings exactly. |
 
 [← All Operations templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/operations)

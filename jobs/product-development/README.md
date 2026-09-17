@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **885 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **889 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,14 +12,14 @@ Product managers and the teams that ship. **885 ready-made Grok Bot templates** 
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 397 |
-| [Design](design/README.md) | 75 |
+| [Design](design/README.md) | 76 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
 | [Generative Code](generative-code/README.md) | 65 |
-| [Productivity](productivity/README.md) | 50 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
+| [Productivity](productivity/README.md) | 51 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 49 |
 | [Research](research/README.md) | 39 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 25 |
-| [Data Analysis](data-analysis/README.md) | 22 |
+| [Data Analysis](data-analysis/README.md) | 23 |
 | [Prompt Engineering](prompt-engineering/README.md) | 22 |
 | [Security & Compliance](security-and-compliance/README.md) | 19 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
@@ -60,7 +60,7 @@ Product managers and the teams that ship. **885 ready-made Grok Bot templates** 
 | [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 
-[All 75 Design templates →](design/README.md)
+[All 76 Design templates →](design/README.md)
 
 ## Generative AI and LLM
 
@@ -105,7 +105,7 @@ Product managers and the teams that ship. **885 ready-made Grok Bot templates** 
 | [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [Not A Vibe Coder](productivity/not-a-vibe-coder.md) | Turns vague project ideas into 8 structured planning files for new projects only. |
 
-[All 50 Productivity templates →](productivity/README.md)
+[All 51 Productivity templates →](productivity/README.md)
 
 ## Cloud & DevOps
 
@@ -116,11 +116,11 @@ Product managers and the teams that ship. **885 ready-made Grok Bot templates** 
 | [Azure Ai Ml Py](../it-and-development/cloud-and-devops/azure-ai-ml-py.md) | Manage Azure ML workspaces, jobs, models, data, compute, and pipelines via SDK v2. |
 | [Power Platform Expert](../it-and-development/cloud-and-devops/power-platform-expert.md) | Provides expert guidance on Power Platform development, architecture, and best practices. |
 | [Azure Appconfiguration Java](../it-and-development/cloud-and-devops/azure-appconfiguration-java.md) | Centralized config management with key-values, feature flags, and snapshots. |
+| [Database Migration Planner](../it-and-development/cloud-and-devops/database-migration-planner.md) | Plan and validate cross-provider database migrations with auditable step-by-step guides. |
 | [Terraform Module Library](../it-and-development/cloud-and-devops/terraform-module-library.md) | Build reusable Terraform modules for AWS, Azure, and GCP with standardized patterns and tests. |
 | [Github Actions Expert](../it-and-development/cloud-and-devops/github-actions-expert.md) | Designs and secures GitHub Actions workflows with least privilege and supply-chain safety. |
-| [Agents V2 Py](../it-and-development/cloud-and-devops/agents-v2-py.md) | Provision container-based hosted agents in Azure AI Foundry using the Python SDK. |
 
-[All 48 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 49 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Research
 
@@ -165,7 +165,7 @@ Product managers and the teams that ship. **885 ready-made Grok Bot templates** 
 | [Data Scientist](../it-and-development/data-analysis/data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
 | [Product Manager Toolkit](data-analysis/product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
 
-[All 22 Data Analysis templates →](data-analysis/README.md)
+[All 23 Data Analysis templates →](data-analysis/README.md)
 
 ## Prompt Engineering
 

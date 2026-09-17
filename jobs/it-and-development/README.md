@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,270 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,277 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,17 +12,17 @@ Engineers, DevOps, security and IT teams. **2,270 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 993 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 321 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 322 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 175 |
 | [Security & Compliance](security-and-compliance/README.md) | 168 |
-| [Data Analysis](data-analysis/README.md) | 136 |
+| [Data Analysis](data-analysis/README.md) | 139 |
 | [Generative Code](generative-code/README.md) | 86 |
-| [Design](design/README.md) | 83 |
+| [Design](design/README.md) | 84 |
 | [Research](research/README.md) | 77 |
-| [Productivity](productivity/README.md) | 68 |
+| [Productivity](productivity/README.md) | 69 |
 | [Knowledge Management](knowledge-management/README.md) | 37 |
 | [Prompt Engineering](prompt-engineering/README.md) | 33 |
-| [Writing & Content](writing-and-content/README.md) | 23 |
+| [Writing & Content](writing-and-content/README.md) | 24 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 17 |
 | [Generative Art](generative-art/README.md) | 12 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,270 ready-made Grok Bot templates*
 | [Upstash Redis](cloud-and-devops/upstash-redis.md) | Use Upstash Redis over HTTPS from serverless and edge runtimes. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 321 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 322 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Generative AI and LLM
 
@@ -110,7 +110,7 @@ Engineers, DevOps, security and IT teams. **2,270 ready-made Grok Bot templates*
 | [Plotly](data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Nosql Specialist](data-analysis/nosql-specialist.md) | Designs and optimizes NoSQL databases for MongoDB, Redis, Cassandra, and key-value stores. |
 
-[All 136 Data Analysis templates →](data-analysis/README.md)
+[All 139 Data Analysis templates →](data-analysis/README.md)
 
 ## Generative Code
 
@@ -140,7 +140,7 @@ Engineers, DevOps, security and IT teams. **2,270 ready-made Grok Bot templates*
 | [Design System](design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
 | [Ux Flow](../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 
-[All 83 Design templates →](design/README.md)
+[All 84 Design templates →](design/README.md)
 
 ## Research
 
@@ -170,7 +170,7 @@ Engineers, DevOps, security and IT teams. **2,270 ready-made Grok Bot templates*
 | [Sendblue Cli](productivity/sendblue-cli.md) | Send iMessage and SMS from the shell using the Sendblue CLI. |
 | [Planning With Files](../management/productivity/planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
 
-[All 68 Productivity templates →](productivity/README.md)
+[All 69 Productivity templates →](productivity/README.md)
 
 ## Knowledge Management
 
@@ -215,7 +215,7 @@ Engineers, DevOps, security and IT teams. **2,270 ready-made Grok Bot templates*
 | [Se Technical Writer](writing-and-content/se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
 | [Tech Resume Optimizer](writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 
-[All 23 Writing & Content templates →](writing-and-content/README.md)
+[All 24 Writing & Content templates →](writing-and-content/README.md)
 
 ## Marketing & Growth
 

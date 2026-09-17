@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 3031,
+ "count": 3061,
  "templates": [
   {
    "slug": "007",
@@ -1143,6 +1143,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "agent-team-builder",
+   "name": "Agent Team Builder",
+   "tagline": "Designs custom multi-agent team configurations for your business workflows.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations",
+    "product-development"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/productivity/agent-team-builder.md",
+   "url": "https://templatesgrokbot.com/bot/agent-team-builder",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/agent-team-builder",
+   "source_license": "MIT"
+  },
+  {
    "slug": "agent-tool-builder",
    "name": "Agent Tool Builder",
    "tagline": "Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too",
@@ -1754,6 +1772,24 @@
    "path": "jobs/it-and-development/generative-ai-and-llm/ai-product.md",
    "url": "https://templatesgrokbot.com/bot/ai-product",
    "adapted_from": "https://www.aitmpl.com/component/skills/business-marketing/ai-product",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "ai-readiness-assessor",
+   "name": "AI Readiness Assessor",
+   "tagline": "Assesses a business's AI readiness across six dimensions and produces a prioritized action report.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/ai-readiness-assessor.md",
+   "url": "https://templatesgrokbot.com/bot/ai-readiness-assessor",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/ai-readiness-assessment",
    "source_license": "MIT"
   },
   {
@@ -7718,6 +7754,25 @@
    "source_license": "MIT"
   },
   {
+   "slug": "board-deck-generator",
+   "name": "Board Deck Generator",
+   "tagline": "Generates institutional-quality board meeting decks with financials, updates, and asks.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "management",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/board-deck-generator.md",
+   "url": "https://templatesgrokbot.com/bot/board-deck-generator",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/board-deck-generator",
+   "source_license": "MIT"
+  },
+  {
    "slug": "boost-asio-pro",
    "name": "Boost Asio Pro",
    "tagline": "Write async C++ networking code with Boost.Asio or standalone Asio, matching the correct API style to the user's toolchain.",
@@ -8860,6 +8915,25 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "calendar-defragmenter",
+   "name": "Calendar Defragmenter",
+   "tagline": "Audit your calendar, reclaim your week with focus blocks and diplomatic meeting cuts.",
+   "category": "personal",
+   "jobs": [
+    "management",
+    "executives-and-strategy",
+    "operations"
+   ],
+   "topics": [
+    "productivity",
+    "self-improvement"
+   ],
+   "path": "jobs/management/productivity/calendar-defragmenter.md",
+   "url": "https://templatesgrokbot.com/bot/calendar-defragmenter",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-calendar-defrag",
+   "source_license": "MIT"
+  },
+  {
    "slug": "calendly-automation",
    "name": "Calendly Automation",
    "tagline": "Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP.",
@@ -9053,6 +9127,25 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "cash-flow-forecaster",
+   "name": "Cash Flow Forecaster",
+   "tagline": "Builds a 13-week cash flow forecast from your financial exports and flags crunch weeks.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/finance/data-analysis/cash-flow-forecaster.md",
+   "url": "https://templatesgrokbot.com/bot/cash-flow-forecaster",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cash-flow-forecaster",
+   "source_license": "MIT"
+  },
+  {
    "slug": "cdk-patterns",
    "name": "Cdk Patterns",
    "tagline": "Build reusable AWS CDK constructs and production-grade infrastructure stacks with TypeScript, Python, or Java. No raw CloudFormation, Terraform, or on",
@@ -9123,6 +9216,26 @@
    "path": "jobs/operations/data-analysis/cf-crawl.md",
    "url": "https://templatesgrokbot.com/bot/cf-crawl",
    "adapted_from": "https://www.aitmpl.com/component/skills/utilities/cf-crawl",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "champion-identifier",
+   "name": "Champion Identifier",
+   "tagline": "Finds the internal advocate most likely to push your solution through a target account.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "marketing",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "sales-and-negotiation",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/champion-identifier.md",
+   "url": "https://templatesgrokbot.com/bot/champion-identifier",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/champion-identifier",
    "source_license": "MIT"
   },
   {
@@ -9298,6 +9411,24 @@
    "url": "https://templatesgrokbot.com/bot/chrome-extension-developer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "churn-autopsy-analyst",
+   "name": "Churn Autopsy Analyst",
+   "tagline": "Analyze client churn to find root causes and build a retention playbook.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/customer-support/data-analysis/churn-autopsy-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/churn-autopsy-analyst",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/churn-autopsy",
+   "source_license": "MIT"
   },
   {
    "slug": "churn-prevention",
@@ -9882,6 +10013,24 @@
    "url": "https://templatesgrokbot.com/bot/clickup-automation",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "client-health-dashboard",
+   "name": "Client Health Dashboard",
+   "tagline": "Generates a prioritized client health report with RAG status and recommendations.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/customer-support/data-analysis/client-health-dashboard.md",
+   "url": "https://templatesgrokbot.com/bot/client-health-dashboard",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/client-health-dashboard",
+   "source_license": "MIT"
   },
   {
    "slug": "cline-delegate",
@@ -11032,6 +11181,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "color-palette-extractor",
+   "name": "Color Palette Extractor",
+   "tagline": "Extract accessible color palettes from images, websites, or designs and export in multiple formats.",
+   "category": "operations",
+   "jobs": [
+    "creatives",
+    "marketing"
+   ],
+   "topics": [
+    "design",
+    "generative-art"
+   ],
+   "path": "jobs/creatives/design/color-palette-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/color-palette-extractor",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/color-palette-extractor",
+   "source_license": "MIT"
+  },
+  {
    "slug": "comet-opik",
    "name": "Comet Opik",
    "tagline": "Instrument LLM apps with Opik, manage prompts, and investigate traces/metrics via MCP.",
@@ -11855,6 +12022,45 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "consulting-proposal-generator",
+   "name": "Consulting Proposal Generator",
+   "tagline": "Turns a brief into a complete consulting proposal with research and pricing.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/consulting-proposal-generator.md",
+   "url": "https://templatesgrokbot.com/bot/consulting-proposal-generator",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/client-proposal-generator",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "contact-hunter",
+   "name": "Contact Hunter",
+   "tagline": "Finds and verifies public contact details for people and companies.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "marketing",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "sales-and-negotiation"
+   ],
+   "path": "jobs/sales/research/contact-hunter.md",
+   "url": "https://templatesgrokbot.com/bot/contact-hunter",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/contact-hunter",
+   "source_license": "MIT"
+  },
+  {
    "slug": "container-security-hardening",
    "name": "Container Security Hardening",
    "tagline": "Hardens container images and runtime against production threats.",
@@ -12261,6 +12467,59 @@
    "url": "https://templatesgrokbot.com/bot/cc-skill-continuous-learning",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "contract-redliner",
+   "name": "Contract Redliner",
+   "tagline": "Reads contracts and produces clause-by-clause redline suggestions with replacement language and negotiation points.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "management"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/writing-and-content/contract-redliner.md",
+   "url": "https://templatesgrokbot.com/bot/contract-redliner",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/contract-redliner",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "contract-renewal-radar",
+   "name": "Contract Renewal Radar",
+   "tagline": "Sweeps your contracts folder and calendars every renewal decision deadline before it's too late.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/knowledge-management/contract-renewal-radar.md",
+   "url": "https://templatesgrokbot.com/bot/contract-renewal-radar",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-contract-renewal-radar",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "contract-risk-reviewer",
+   "name": "Contract Risk Reviewer",
+   "tagline": "Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/legal/research/contract-risk-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/contract-risk-reviewer",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/contract-analyzer",
+   "source_license": "MIT"
   },
   {
    "slug": "conversation-memory",
@@ -13162,6 +13421,26 @@
    "source_license": "MIT"
   },
   {
+   "slug": "css-animation-creator",
+   "name": "CSS Animation Creator",
+   "tagline": "Create production-grade CSS animations, transitions, and micro-interactions for web UIs.",
+   "category": "engineering",
+   "jobs": [
+    "creatives",
+    "it-and-development",
+    "product-development"
+   ],
+   "topics": [
+    "design",
+    "generative-code",
+    "coding"
+   ],
+   "path": "jobs/creatives/design/css-animation-creator.md",
+   "url": "https://templatesgrokbot.com/bot/css-animation-creator",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/css-animation-creator",
+   "source_license": "MIT"
+  },
+  {
    "slug": "cto-advisor",
    "name": "Cto Advisor",
    "tagline": "Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy.",
@@ -13230,6 +13509,26 @@
    "path": "jobs/it-and-development/coding/custom-agent-foundry.md",
    "url": "https://templatesgrokbot.com/bot/custom-agent-foundry",
    "adapted_from": "https://www.aitmpl.com/component/agents/expert-advisors/custom-agent-foundry",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "customer-panel-debate",
+   "name": "Customer Panel Debate",
+   "tagline": "Assemble a data-grounded customer panel to debate your high-stakes decisions.",
+   "category": "operations",
+   "jobs": [
+    "marketing",
+    "product-development",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/marketing/data-analysis/customer-panel-debate.md",
+   "url": "https://templatesgrokbot.com/bot/customer-panel-debate",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/customer-panel-of-experts",
    "source_license": "MIT"
   },
   {
@@ -13791,6 +14090,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "data-room-builder",
+   "name": "Data Room Builder",
+   "tagline": "Builds a diligence-ready data room: checklist, gap report, and organized folder structure.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "executives-and-strategy",
+    "legal"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/finance/knowledge-management/data-room-builder.md",
+   "url": "https://templatesgrokbot.com/bot/data-room-builder",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-data-room-builder",
+   "source_license": "MIT"
+  },
+  {
    "slug": "data-scientist",
    "name": "Data Scientist",
    "tagline": "Analyzes data, builds models, and delivers actionable business insights from complex datasets.",
@@ -13966,6 +14283,26 @@
    "url": "https://templatesgrokbot.com/bot/database-migration",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "database-migration-planner",
+   "name": "Database Migration Planner",
+   "tagline": "Plan and validate cross-provider database migrations with auditable step-by-step guides.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "operations",
+    "product-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "coding",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/database-migration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/database-migration-planner",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/database-migrator",
+   "source_license": "MIT"
   },
   {
    "slug": "database-migrations-migration-observability",
@@ -14294,6 +14631,25 @@
    ],
    "path": "jobs/finance/sales-and-negotiation/deal-desk.md",
    "url": "https://templatesgrokbot.com/bot/deal-desk"
+  },
+  {
+   "slug": "deal-room-risk-analyst",
+   "name": "Deal Room Risk Analyst",
+   "tagline": "Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "legal",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/deal-room-risk-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/deal-room-risk-analyst",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-deal-room",
+   "source_license": "MIT"
   },
   {
    "slug": "debate-review",
@@ -18464,6 +18820,25 @@
    "path": "jobs/human-resources/writing-and-content/executive-resume-writer.md",
    "url": "https://templatesgrokbot.com/bot/executive-resume-writer",
    "adapted_from": "https://www.aitmpl.com/component/skills/career/executive-resume-writer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "expense-folder-auditor",
+   "name": "Expense Folder Auditor",
+   "tagline": "Audits expense folders: reconciles receipts to statements, categorizes, flags issues, and reports.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "finance",
+    "management"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/operations/data-analysis/expense-folder-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/expense-folder-auditor",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-expense-audit",
    "source_license": "MIT"
   },
   {
@@ -23667,6 +24042,25 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "hiring-screener",
+   "name": "Hiring Screener",
+   "tagline": "Screens resumes against a job description and returns a ranked, evidence-backed shortlist.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/human-resources/data-analysis/hiring-screener.md",
+   "url": "https://templatesgrokbot.com/bot/hiring-screener",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-hiring-screener",
+   "source_license": "MIT"
+  },
+  {
    "slug": "histolab",
    "name": "Histolab",
    "tagline": "Extracts informative tiles from whole slide pathology images for deep learning pipelines.",
@@ -23736,6 +24130,25 @@
    "url": "https://templatesgrokbot.com/bot/holographic-ui",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "home-inventory-builder",
+   "name": "Home Inventory Builder",
+   "tagline": "Builds an insurance-grade home inventory from photos and receipts, with values and gap analysis.",
+   "category": "personal",
+   "jobs": [
+    "operations",
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/operations/data-analysis/home-inventory-builder.md",
+   "url": "https://templatesgrokbot.com/bot/home-inventory-builder",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-home-inventory",
+   "source_license": "MIT"
   },
   {
    "slug": "home-ops",
@@ -29762,6 +30175,25 @@
    "path": "jobs/science-and-research/data-analysis/medchem.md",
    "url": "https://templatesgrokbot.com/bot/medchem",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/medchem",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "medical-bill-auditor",
+   "name": "Medical Bill Auditor",
+   "tagline": "Audits medical bills against insurance EOBs, finds errors, and drafts disputes.",
+   "category": "personal",
+   "jobs": [
+    "finance",
+    "healthcare",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/finance/data-analysis/medical-bill-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/medical-bill-auditor",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-medical-bill-auditor",
    "source_license": "MIT"
   },
   {
@@ -38706,6 +39138,27 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "quarterly-business-review-builder",
+   "name": "Quarterly Business Review Builder",
+   "tagline": "Builds a client QBR from a folder of artifacts, proving value and surfacing risks.",
+   "category": "operations",
+   "jobs": [
+    "marketing",
+    "sales",
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/quarterly-business-review-builder.md",
+   "url": "https://templatesgrokbot.com/bot/quarterly-business-review-builder",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-qbr-builder",
+   "source_license": "MIT"
+  },
+  {
    "slug": "query-clarifier",
    "name": "Query Clarifier",
    "tagline": "Analyzes research queries for clarity and decides if clarification is needed before research starts.",
@@ -40517,6 +40970,27 @@
    "url": "https://templatesgrokbot.com/bot/rex",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "rfp-compliance-drafter",
+   "name": "RFP Compliance Drafter",
+   "tagline": "Turns RFPs and your past proposals into a compliance matrix and drafted response, flagging disqualifiers first.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "marketing",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "writing-and-content",
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/sales/writing-and-content/rfp-compliance-drafter.md",
+   "url": "https://templatesgrokbot.com/bot/rfp-compliance-drafter",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-rfp-response",
+   "source_license": "MIT"
   },
   {
    "slug": "rich-elicitation",
@@ -44835,6 +45309,25 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "sop-writer",
+   "name": "SOP Writer",
+   "tagline": "Turns process walkthroughs into clean, consistent standard operating procedures.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "management",
+    "it-and-development"
+   ],
+   "topics": [
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/operations/writing-and-content/sop-writer.md",
+   "url": "https://templatesgrokbot.com/bot/sop-writer",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-sop-writer",
+   "source_license": "MIT"
+  },
+  {
    "slug": "sora",
    "name": "Sora",
    "tagline": "Generates and manages Sora video clips via OpenAI's API using a bundled CLI.",
@@ -45116,6 +45609,25 @@
    "path": "jobs/finance/data-analysis/spreadsheet.md",
    "url": "https://templatesgrokbot.com/bot/spreadsheet",
    "adapted_from": "https://www.aitmpl.com/component/skills/document-processing/spreadsheet",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "spreadsheet-merger",
+   "name": "Spreadsheet Merger",
+   "tagline": "Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "it-and-development",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/operations/data-analysis/spreadsheet-merger.md",
+   "url": "https://templatesgrokbot.com/bot/spreadsheet-merger",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/csv-excel-merger",
    "source_license": "MIT"
   },
   {
@@ -46093,6 +46605,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "swarm-data-processor",
+   "name": "Swarm Data Processor",
+   "tagline": "Launches parallel sub-agents to process large batches of independent data items and merges results.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/data-analysis/swarm-data-processor.md",
+   "url": "https://templatesgrokbot.com/bot/swarm-data-processor",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/agent-swarm-deployer",
+   "source_license": "MIT"
+  },
+  {
    "slug": "swarmvault",
    "name": "Swarmvault",
    "tagline": "Build and maintain a local-first knowledge vault from books, notes, code, and recurring sources.",
@@ -46592,6 +47121,25 @@
    "url": "https://templatesgrokbot.com/bot/tavily-web",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "tax-document-organizer",
+   "name": "Tax Document Organizer",
+   "tagline": "Sweeps your folders for tax documents and builds a CPA-ready package with a chase list.",
+   "category": "personal",
+   "jobs": [
+    "finance",
+    "operations",
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/finance/data-analysis/tax-document-organizer.md",
+   "url": "https://templatesgrokbot.com/bot/tax-document-organizer",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-tax-prep-organizer",
+   "source_license": "MIT"
   },
   {
    "slug": "tcm-constitution-analyzer",
@@ -50481,6 +51029,26 @@
    "url": "https://templatesgrokbot.com/bot/vector-index-tuning",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "vendor-proposal-comparator",
+   "name": "Vendor Proposal Comparator",
+   "tagline": "Normalize vendor quotes and SOWs into a comparison matrix, compute true TCO, and surface negotiation leverage.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "finance",
+    "management"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "sales-and-negotiation"
+   ],
+   "path": "jobs/operations/data-analysis/vendor-proposal-comparator.md",
+   "url": "https://templatesgrokbot.com/bot/vendor-proposal-comparator",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-vendor-comparison",
+   "source_license": "MIT"
   },
   {
    "slug": "vendor-watch",

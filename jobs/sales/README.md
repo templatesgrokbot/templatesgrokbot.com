@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **99 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **104 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,10 +12,10 @@ Prospecting, pipeline and closing. **99 ready-made Grok Bot templates** for this
 | Kind of work | Templates |
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 44 |
-| [Research](research/README.md) | 16 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 14 |
-| [Data Analysis](data-analysis/README.md) | 9 |
-| [Writing & Content](writing-and-content/README.md) | 5 |
+| [Research](research/README.md) | 17 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 15 |
+| [Data Analysis](data-analysis/README.md) | 11 |
+| [Writing & Content](writing-and-content/README.md) | 6 |
 | [Productivity](productivity/README.md) | 4 |
 | [Coding](coding/README.md) | 2 |
 | [Social Media](social-media/README.md) | 2 |
@@ -81,6 +81,7 @@ Prospecting, pipeline and closing. **99 ready-made Grok Bot templates** for this
 | [Competitive Intelligence Analyst](../executives-and-strategy/research/competitive-intelligence-analyst.md) | Monitors competitors and market trends to produce structured intelligence reports. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Tracking](../marketing/research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
+| [Contact Hunter](research/contact-hunter.md) | Finds and verifies public contact details for people and companies. |
 | [Crypto Bd Agent](research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Customer Psychographic Profiler](../marketing/research/customer-psychographic-profiler.md) | Build deep psychographic profiles of target customers based on identity, needs, and fears. |
 | [Find Matching Tenders](research/find-matching-tenders.md) | Find and rank live AU/NZ government tenders matching a company's capabilities. |
@@ -99,6 +100,7 @@ Prospecting, pipeline and closing. **99 ready-made Grok Bot templates** for this
 |---|---|
 | [Close Automation](sales-and-negotiation/close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
 | [Cold Outreach](sales-and-negotiation/cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
+| [Consulting Proposal Generator](sales-and-negotiation/consulting-proposal-generator.md) | Turns a brief into a complete consulting proposal with research and pricing. |
 | [Deal Desk](../finance/sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
 | [Harvey Specter](sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
 | [Hubspot Automation](sales-and-negotiation/hubspot-automation.md) | Automate HubSpot CRM operations via Rube MCP and Composio integration. |
@@ -120,10 +122,12 @@ Prospecting, pipeline and closing. **99 ready-made Grok Bot templates** for this
 | [Apify Lead Generation](data-analysis/apify-lead-generation.md) | Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors. |
 | [Bettoredge Value Finder](../finance/data-analysis/bettoredge-value-finder.md) | Finds +EV betting opportunities on BettorEdge prediction markets using Kelly criterion and bankroll limits. |
 | [Buywhere Product Catalog](data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
+| [Champion Identifier](data-analysis/champion-identifier.md) | Finds the internal advocate most likely to push your solution through a target account. |
 | [Churn Radar](data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 | [Footballbin Predictions](../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
 | [Google Ads Performance Analyzer](../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
+| [Quarterly Business Review Builder](../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Trading Risk Manager](../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
 
 ## Writing & Content
@@ -135,6 +139,7 @@ Prospecting, pipeline and closing. **99 ready-made Grok Bot templates** for this
 | [Email Composer](../operations/writing-and-content/email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
 | [Founder Pitch Deck Coach](../executives-and-strategy/writing-and-content/founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
 | [Linkedin Profile Optimizer](../marketing/writing-and-content/linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
+| [RFP Compliance Drafter](writing-and-content/rfp-compliance-drafter.md) | Turns RFPs and your past proposals into a compliance matrix and drafted response, flagging disqualifiers first. |
 
 ## Productivity
 

@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 68 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 69 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,7 @@ Plan, prioritise and clear the recurring admin. 68 Grok Bot templates, 23 of the
 | [Accint Frames](accint-frames.md) | Drain acc's deliberation queue by resolving open brain frames via continue runtime calls. No logic lives here — just routing sugar over two MCP verbs. |
 | [Agent Organizer](../../management/productivity/agent-organizer.md) | Assembles and coordinates multi-agent teams for complex projects by matching capabilities to tasks. |
 | [Agent Squad](agent-squad.md) | Orchestrates a squad of specialized agents to manage software projects step by step. |
+| [Agent Team Builder](agent-team-builder.md) | Designs custom multi-agent team configurations for your business workflows. |
 | [Agile Product Owner](../../product-development/productivity/agile-product-owner.md) | Generates INVEST-compliant user stories and manages sprint backlog for a product owner. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Alex](../../management/productivity/alex.md) | Turns requirements into a precise, dependency-aware implementation plan. |
 | [Alfred](../../management/productivity/alfred.md) | Designs and governs your Grok Bot organization to keep it useful and maintainable. |

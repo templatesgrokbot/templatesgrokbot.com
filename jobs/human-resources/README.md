@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **44 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **45 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Recruiting, onboarding and people operations. **44 ready-made Grok Bot templates
 | Kind of work | Templates |
 |---|---:|
 | [Writing & Content](writing-and-content/README.md) | 15 |
-| [Data Analysis](data-analysis/README.md) | 8 |
+| [Data Analysis](data-analysis/README.md) | 9 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
 | [Productivity](productivity/README.md) | 5 |
 | [Research](research/README.md) | 4 |
@@ -49,6 +49,7 @@ Recruiting, onboarding and people operations. **44 ready-made Grok Bot templates
 |---|---|
 | [Ai Dev Jobs Mcp](../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Ditto](../it-and-development/data-analysis/ditto.md) | Mine private work profiles from local coding-agent session logs. |
+| [Hiring Screener](data-analysis/hiring-screener.md) | Screens resumes against a job description and returns a ranked, evidence-backed shortlist. |
 | [Job Description Analyzer](data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
 | [Meeting Insights Analyzer](../management/data-analysis/meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
 | [Occupational Health Analyzer](../healthcare/data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |

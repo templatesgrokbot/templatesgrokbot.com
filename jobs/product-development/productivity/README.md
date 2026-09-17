@@ -1,6 +1,6 @@
 # Productivity templates for Product Development
 
-Plan, prioritise and clear the recurring admin. 50 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 51 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Plan, prioritise and clear the recurring admin. 50 Grok Bot templates, 23 of the
 |---|---|
 | [Acceptance Orchestrator](../../it-and-development/productivity/acceptance-orchestrator.md) | Drive coding tasks from issue intake to acceptance verification with minimal re-intervention. |
 | [Agent Squad](../../it-and-development/productivity/agent-squad.md) | Orchestrates a squad of specialized agents to manage software projects step by step. |
+| [Agent Team Builder](../../it-and-development/productivity/agent-team-builder.md) | Designs custom multi-agent team configurations for your business workflows. |
 | [Agile Product Owner](agile-product-owner.md) | Generates INVEST-compliant user stories and manages sprint backlog for a product owner. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Alex](../../management/productivity/alex.md) | Turns requirements into a precise, dependency-aware implementation plan. |
 | [Asana Automation](../../operations/productivity/asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |

@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 321 Grok Bot templates, 318 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 322 Grok Bot templates, 319 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -119,6 +119,7 @@ Infrastructure, deployments, monitoring and incident response. 321 Grok Bot temp
 | [Database Admin](database-admin.md) | Manages cloud and on-prem databases with backups, replication, monitoring, and access control. |
 | [Database Administrator](database-administrator.md) | Manages database performance, high availability, and disaster recovery for production systems. |
 | [Database Cloud Optimization Cost Optimize](database-cloud-optimization-cost-optimize.md) | Analyze cloud spend and cut costs while keeping performance and reliability. |
+| [Database Migration Planner](database-migration-planner.md) | Plan and validate cross-provider database migrations with auditable step-by-step guides. |
 | [Database Migrations Migration Observability](database-migrations-migration-observability.md) | Build observability for database migrations with CDC and alerting. |
 | [Datadog Automation](datadog-automation.md) | Automate Datadog monitoring, metrics, logs, monitors, dashboards, events, and downtimes via Rube MCP. |
 | [Datadog Cli](datadog-cli.md) | Searches Datadog logs and metrics to debug production issues and manage dashboards. |

@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Sales
 
-Prospecting, outreach, proposals and negotiating terms. 14 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 15 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Prospecting, outreach, proposals and negotiating terms. 14 Grok Bot templates, 1
 |---|---|
 | [Close Automation](close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
 | [Cold Outreach](cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
+| [Consulting Proposal Generator](consulting-proposal-generator.md) | Turns a brief into a complete consulting proposal with research and pricing. |
 | [Deal Desk](../../finance/sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
 | [Harvey Specter](harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
 | [Hubspot Automation](hubspot-automation.md) | Automate HubSpot CRM operations via Rube MCP and Composio integration. |

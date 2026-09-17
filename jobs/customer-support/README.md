@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **31 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **33 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,9 +13,9 @@ Answering, routing and resolving customer requests. **31 ready-made Grok Bot tem
 |---|---:|
 | [Support & Community](support-and-community/README.md) | 9 |
 | [Productivity](productivity/README.md) | 8 |
+| [Data Analysis](data-analysis/README.md) | 4 |
 | [Coding](coding/README.md) | 3 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 2 |
-| [Data Analysis](data-analysis/README.md) | 2 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 2 |
 | [Research](research/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
@@ -50,6 +50,15 @@ Answering, routing and resolving customer requests. **31 ready-made Grok Bot tem
 | [Telegram Automation](../operations/productivity/telegram-automation.md) | Automate Telegram messaging, chat management, and bot commands via MCP tools. |
 | [Telegram Bot Messaging](../operations/productivity/telegram-bot-messaging.md) | Send Telegram messages, files, alerts, and approval prompts via bot API. |
 
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Churn Autopsy Analyst](data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
+| [Client Health Dashboard](data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
+| [Customer Success Manager](data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
+| [Shopify Review Triage](data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
+
 ## Coding
 
 | Template | What it does |
@@ -64,13 +73,6 @@ Answering, routing and resolving customer requests. **31 ready-made Grok Bot tem
 |---|---|
 | [Pagerduty Automation](../it-and-development/cloud-and-devops/pagerduty-automation.md) | Automate PagerDuty incident, service, schedule, and escalation management via Rube MCP. |
 | [WhatsApp Cloud API](../it-and-development/cloud-and-devops/whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |
-
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Customer Success Manager](data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
-| [Shopify Review Triage](data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
 
 ## Generative AI and LLM
 

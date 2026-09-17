@@ -1,6 +1,6 @@
 # Knowledge Management templates for Operations
 
-Notes, documents, PDFs and knowledge bases kept in order. 21 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 22 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 21 Grok Bot templates,
 | [Confluence Automation](confluence-automation.md) | Automate Confluence page creation, search, space management, and labels via Rube MCP. |
 | [Connection Agent](connection-agent.md) | Analyzes an Obsidian vault to suggest links between notes and identify orphaned content. |
 | [Content Curator](content-curator.md) | Curates Obsidian vault content by detecting duplicates, stubs, and outdated notes. |
+| [Contract Renewal Radar](../../legal/knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
 | [Crossframe Casebook](crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
 | [Ingest Youtube](ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
 | [Maintain Codex Wiki](../../it-and-development/knowledge-management/maintain-codex-wiki.md) | Maintain a review-first engineering wiki with provenance and citation-aware queries. |

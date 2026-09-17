@@ -1,6 +1,6 @@
 # Grok Bot templates for Healthcare
 
-Clinicians, care teams and health administrators. **41 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Clinicians, care teams and health administrators. **42 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Clinicians, care teams and health administrators. **41 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 18 |
+| [Data Analysis](data-analysis/README.md) | 19 |
 | [Research](research/README.md) | 12 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
 | [Security & Compliance](security-and-compliance/README.md) | 2 |
@@ -28,6 +28,7 @@ Clinicians, care teams and health administrators. **41 ready-made Grok Bot templ
 | [Fitness Analyzer](data-analysis/fitness-analyzer.md) | Analyze fitness data, track progress, and generate personalized training recommendations. |
 | [Food Database Query](../science-and-research/data-analysis/food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |
 | [Health Trend Analyzer](data-analysis/health-trend-analyzer.md) | Analyze health data trends and correlations over time. |
+| [Medical Bill Auditor](../finance/data-analysis/medical-bill-auditor.md) | Audits medical bills against insurance EOBs, finds errors, and drafts disputes. |
 | [Mental Health Analyzer](data-analysis/mental-health-analyzer.md) | Analyze mental health data to identify patterns, assess risks, and provide personalized recommendations. |
 | [Nutrition Analyzer](data-analysis/nutrition-analyzer.md) | Analyze nutrition data, identify patterns, and give personalized dietary advice. |
 | [Occupational Health Analyzer](data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |

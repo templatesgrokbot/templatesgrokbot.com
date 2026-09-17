@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Operations
 
-Infrastructure, deployments, monitoring and incident response. 168 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 169 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -48,6 +48,7 @@ Infrastructure, deployments, monitoring and incident response. 168 Grok Bot temp
 | [Database](../../it-and-development/cloud-and-devops/database.md) | Adds Railway database services (Postgres, Redis, MySQL, MongoDB) and provides connection variable references. |
 | [Database Administrator](../../it-and-development/cloud-and-devops/database-administrator.md) | Manages database performance, high availability, and disaster recovery for production systems. |
 | [Database Cloud Optimization Cost Optimize](../../it-and-development/cloud-and-devops/database-cloud-optimization-cost-optimize.md) | Analyze cloud spend and cut costs while keeping performance and reliability. |
+| [Database Migration Planner](../../it-and-development/cloud-and-devops/database-migration-planner.md) | Plan and validate cross-provider database migrations with auditable step-by-step guides. |
 | [Database Migrations Migration Observability](../../it-and-development/cloud-and-devops/database-migrations-migration-observability.md) | Build observability for database migrations with CDC and alerting. |
 | [Datadog Automation](../../it-and-development/cloud-and-devops/datadog-automation.md) | Automate Datadog monitoring, metrics, logs, monitors, dashboards, events, and downtimes via Rube MCP. |
 | [Datadog Cli](../../it-and-development/cloud-and-devops/datadog-cli.md) | Searches Datadog logs and metrics to debug production issues and manage dashboards. |

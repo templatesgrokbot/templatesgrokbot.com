@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **305 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **307 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Designers, artists and content creators. **305 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 122 |
+| [Design](design/README.md) | 124 |
 | [Generative Art](generative-art/README.md) | 44 |
 | [Coding](coding/README.md) | 33 |
 | [Generative Code](generative-code/README.md) | 30 |
@@ -56,7 +56,9 @@ Designers, artists and content creators. **305 ready-made Grok Bot templates** f
 | [Cli Ui Designer](design/cli-ui-designer.md) | Creates terminal-inspired web interfaces with authentic CLI aesthetics. |
 | [Code Showcase Core Components](../it-and-development/design/code-showcase-core-components.md) | Use design tokens and core components for consistent UI. |
 | [Color Blocking](design/color-blocking.md) | Build Mondrian-style layouts with bold color blocks and thick grid lines. |
+| [Color Palette Extractor](design/color-palette-extractor.md) | Extract accessible color palettes from images, websites, or designs and export in multiple formats. |
 | [Creative Portfolio Resume](design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
+| [CSS Animation Creator](design/css-animation-creator.md) | Create production-grade CSS animations, transitions, and micro-interactions for web UIs. |
 | [Cyberpunk Ui](design/cyberpunk-ui.md) | Generate neon-on-black UI with clipped corners and glitch accents. |
 | [Dark Mode](../it-and-development/design/dark-mode.md) | Dark mode design guide: surfaces, typography, and accent rules. |
 | [Design](design/design.md) | Design brand assets, logos, UI tokens, banners, icons, and social photos from your requests. |

@@ -1,11 +1,12 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 94 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 96 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Agent Team Builder](../../it-and-development/productivity/agent-team-builder.md) | Designs custom multi-agent team configurations for your business workflows. |
 | [Anti Sleep](../../it-and-development/productivity/anti-sleep.md) | Keep a Mac awake with caffeinate during long builds, downloads, or automation runs. |
 | [Antigravity Workflows](../../management/productivity/antigravity-workflows.md) | Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints. |
 | [Asana Automation](asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
@@ -14,6 +15,7 @@ Plan, prioritise and clear the recurring admin. 94 Grok Bot templates, 57 of the
 | [Basecamp Automation](basecamp-automation.md) | Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP. |
 | [Billing Automation](billing-automation.md) | Implement automated billing, invoicing, and payment recovery for SaaS subscriptions. |
 | [Cal Com Automation](cal-com-automation.md) | Automate Cal.com scheduling: bookings, availability, webhooks, and teams via Composio. |
+| [Calendar Defragmenter](../../management/productivity/calendar-defragmenter.md) | Audit your calendar, reclaim your week with focus blocks and diplomatic meeting cuts. |
 | [Calendly Automation](calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Chieeeeefy](chieeeeefy.md) | Manages calendar and email for a field engineer, converting timezones and protecting attention. (124 chars) No hype, no emoji. Rewritten: |
 | [Claude Win11 Speckit Update](../../it-and-development/productivity/claude-win11-speckit-update-skill.md) | Manage Windows 11 system settings and updates. |

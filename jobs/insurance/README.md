@@ -1,6 +1,6 @@
 # Grok Bot templates for Insurance
 
-Underwriting, claims and policy work. **1 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Underwriting, claims and policy work. **2 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,14 @@ Underwriting, claims and policy work. **1 ready-made Grok Bot templates** for th
 
 | Kind of work | Templates |
 |---|---:|
+| [Data Analysis](data-analysis/README.md) | 1 |
 | [Security & Compliance](security-and-compliance/README.md) | 1 |
+
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Home Inventory Builder](../operations/data-analysis/home-inventory-builder.md) | Builds an insurance-grade home inventory from photos and receipts, with values and gap analysis. |
 
 ## Security & Compliance
 

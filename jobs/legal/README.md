@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **40 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **45 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,13 +12,13 @@ Contracts, research, compliance and review. **40 ready-made Grok Bot templates**
 | Kind of work | Templates |
 |---|---:|
 | [Security & Compliance](security-and-compliance/README.md) | 19 |
-| [Research](research/README.md) | 13 |
-| [Writing & Content](writing-and-content/README.md) | 2 |
+| [Research](research/README.md) | 14 |
+| [Knowledge Management](knowledge-management/README.md) | 3 |
+| [Writing & Content](writing-and-content/README.md) | 3 |
+| [Data Analysis](data-analysis/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
-| [Data Analysis](data-analysis/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Art](generative-art/README.md) | 1 |
-| [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
 
 ## Security & Compliance
@@ -51,6 +51,7 @@ Contracts, research, compliance and review. **40 ready-made Grok Bot templates**
 |---|---|
 | [Auction Notice Analyst](research/auction-notice-analyst.md) | Analyzes judicial and extrajudicial auction notices, flags hidden risks, and rates the opportunity. |
 | [Brazilian Legal Advisor](research/specialist-attorney.md) | Specialist attorney in all areas of Brazilian law. |
+| [Contract Risk Reviewer](research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
 | [Criminal Defense Lawyer](research/criminal-defense-lawyer.md) | Specialized in Maria da Penha Law and Brazilian criminal law. Provides legal guidance on domestic violence, protective measures, and criminal procedure. |
 | [Crossframe Debate](../education/research/crossframe-debate.md) | Analyze propositions, debate structures, and withdrawal conditions using CrossFrame. |
 | [Crossframe Public](../government/research/crossframe-public.md) | Analyze public issues, platform governance, and institutional compliance with evidence boundaries. |
@@ -63,24 +64,34 @@ Contracts, research, compliance and review. **40 ready-made Grok Bot templates**
 | [Screen Adverse Media](../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
 | [Uspto Database](research/uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |
 
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Contract Renewal Radar](knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
+| [Crossframe Casebook](../operations/knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
+| [Data Room Builder](../finance/knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
+
 ## Writing & Content
 
 | Template | What it does |
 |---|---|
+| [Contract Redliner](writing-and-content/contract-redliner.md) | Reads contracts and produces clause-by-clause redline suggestions with replacement language and negotiation points. |
 | [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Legal Advisor](writing-and-content/legal-advisor.md) | Draft contracts, privacy policies, and compliance documents for tech businesses. |
+
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Deal Room Risk Analyst](../finance/data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
+| [Extract Document Data](../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
 
 ## Coding
 
 | Template | What it does |
 |---|---|
 | [Smart Contract Specialist](../it-and-development/coding/smart-contract-specialist.md) | Designs smart contract architecture: proxy patterns, storage layout, module boundaries, and standards selection. Handles off implementation and securi |
-
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Extract Document Data](../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
 
 ## Generative AI and LLM
 
@@ -93,12 +104,6 @@ Contracts, research, compliance and review. **40 ready-made Grok Bot templates**
 | Template | What it does |
 |---|---|
 | [Patentfig](../creatives/generative-art/patentfig.md) | Generate patent-office-compliant figures from text or images via the PatentFig API. |
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Crossframe Casebook](../operations/knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
 
 ## Office Tools
 
