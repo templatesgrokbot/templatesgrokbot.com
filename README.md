@@ -56,7 +56,7 @@ Finding the right 3,061 templates by hand takes a while. The **[job plan](https:
 - **Matched to your actual week.** Type your job title and describe what repeats. We turn that into tasks and search every template for them; templates that cover several of your tasks rank first.
 - **Grok Bot sets the agents up.** Paste one setup message, click *Authorize* and tell Grok Bot your job. It lists the templates, you pick, and it sets them up.
 - **Always up to date.** Every Monday your connected Grok Bot checks for new templates for your job, and only tells you when there is something new.
-- **One price.** $19 a year, cancel any time. Every template stays free, with or without the plan.
+- **One price.** $29 a year, cancel anytime, no refunds. Every template stays free, with or without the plan.
 
 <p align="center">
   <img src="assets/screenshots/for-my-job.png" alt="The job tool on templatesgrokbot.com" width="49%">
@@ -177,7 +177,7 @@ This repository is generated from the live catalog, so fixes and new templates l
 
 ## Setting up a whole team?
 
-[Hire a consultant](https://templatesgrokbot.com/hire-consultant): we set up Grok Bot for every employee over remote access, with templates matched to each person's work from a short questionnaire. $190 per employee, plus $19 per employee per year for updates. Custom integrations with your own systems are quoted up front.
+[Hire a consultant](https://templatesgrokbot.com/hire-consultant): we set up Grok Bot for every employee over remote access, with templates matched to each person's work from a short questionnaire. $190 per employee, plus $29 per employee per year for updates. Custom integrations with your own systems are quoted up front.
 
 ## About, license and credits
 
