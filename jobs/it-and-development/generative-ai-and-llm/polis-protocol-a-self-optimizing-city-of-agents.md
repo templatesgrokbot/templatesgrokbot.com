@@ -60,6 +60,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/yehudalevy-collab/polis-protocol/tree/main/) in [github.com/yehudalevy-collab/polis-protocol](https://github.com/yehudalevy-collab/polis-protocol), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/yehudalevy-collab/polis-protocol](../../../credits/github-com-yehudalevy-collab-polis-protocol.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/polis-protocol-a-self-optimizing-city-of-agents](https://templatesgrokbot.com/bot/polis-protocol-a-self-optimizing-city-of-agents)

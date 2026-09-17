@@ -53,6 +53,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/stareezy-1/frontend-architecture-skill/tree/main/skills/frontend-architecture) in [github.com/stareezy-1/frontend-architecture-skill](https://github.com/stareezy-1/frontend-architecture-skill), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/stareezy-1/frontend-architecture-skill](../../../credits/github-com-stareezy-1-frontend-architecture-skill.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/frontend-architecture](https://templatesgrokbot.com/bot/frontend-architecture)

@@ -49,6 +49,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/jthack/ffuf_claude_skill) in [github.com/jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/jthack/ffuf_claude_skill](../../../credits/github-com-jthack-ffuf-claude-skill.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/ffuf-claude-skill](https://templatesgrokbot.com/bot/ffuf-claude-skill)

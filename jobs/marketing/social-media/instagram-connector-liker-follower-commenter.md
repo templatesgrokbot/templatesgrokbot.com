@@ -58,6 +58,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://x.ai/bot/m6f6B1hONvrzPrvFEIw7y) in [x.ai](https://x.ai), licensed under [see the original](../../../LICENSES/README.md). The original author keeps the credit for the work this template builds on; see [all credits for x.ai](../../../credits/x-ai.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/instagram-connector-liker-follower-commenter](https://templatesgrokbot.com/bot/instagram-connector-liker-follower-commenter)

@@ -185,23 +185,23 @@ TemplatesGrokBot is made by Jeroen at [Nexibeo](https://nexibeo.com), together w
 
 **Not affiliated with xAI, Grok, or X.** Grok Bot is a product of xAI; we cannot control how it interprets a template, so review what a Bot does before you rely on it.
 
-**License.** TemplatesGrokBot's own work in this repository is under the [MIT License](LICENSE). Many templates are adapted from open-source work; each of those files names its source (`adapted_from`) and that source's license (`source_license`) in its front matter, and those terms still apply to it. The largest sources:
+**License.** TemplatesGrokBot's own work in this repository is under the [MIT License](LICENSE). 2,971 templates are adapted from work other people published: each of those files names its original (`adapted_from`) and license (`source_license`), ends with a credits line, and those terms still apply to it. **[All credits → CREDITS.md](CREDITS.md)** · [License texts](LICENSES/README.md). The largest sources:
 
-| Source | Templates | License |
-|---|---:|---|
-| [github.com/sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 1,649 | CC BY 4.0 |
-| [aitmpl.com](https://www.aitmpl.com) | 817 | MIT, CC BY 4.0, Apache-2.0 |
-| [collectivebrain.de](https://collectivebrain.de) | 61 | see source |
-| [github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 43 | CC BY 4.0 |
-| [github.com/jonathimer/devmarketing-skills](https://github.com/jonathimer/devmarketing-skills) | 24 | CC BY 4.0 |
-| [github.com/LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 24 | CC BY 4.0 |
-| [github.com/huggingface/skills](https://github.com/huggingface/skills) | 22 | CC BY 4.0 |
-| [github.com/coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 21 | CC BY 4.0 |
-| [github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 20 | CC BY 4.0 |
-| [github.com/amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) | 18 | CC BY 4.0 |
-| [github.com/bitjaru/styleseed](https://github.com/bitjaru/styleseed) | 15 | CC BY 4.0 |
-| [github.com/AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 12 | CC BY 4.0 |
+| Source | Templates | License | Credits |
+|---|---:|---|---|
+| [github.com/sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 1,649 | CC BY 4.0 | [list](credits/github-com-sickn33-agentic-awesome-skills.md) |
+| [aitmpl.com](https://www.aitmpl.com) | 817 | MIT, CC BY 4.0, Apache-2.0 | [list](credits/aitmpl-com.md) |
+| [collectivebrain.de](https://collectivebrain.de) | 61 | see the original | [list](credits/collectivebrain-de.md) |
+| [github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 43 | CC BY 4.0 | [list](credits/github-com-zhaoxuya520-reverse-skill.md) |
+| [github.com/jonathimer/devmarketing-skills](https://github.com/jonathimer/devmarketing-skills) | 24 | CC BY 4.0 | [list](credits/github-com-jonathimer-devmarketing-skills.md) |
+| [github.com/LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 24 | CC BY 4.0 | [list](credits/github-com-lambdatest-agent-skills.md) |
+| [github.com/huggingface/skills](https://github.com/huggingface/skills) | 22 | CC BY 4.0 | [list](credits/github-com-huggingface-skills.md) |
+| [github.com/coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 21 | CC BY 4.0 | [list](credits/github-com-coreyhaines31-marketingskills.md) |
+| [github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 20 | CC BY 4.0 | [list](credits/github-com-addyosmani-agent-skills.md) |
+| [github.com/amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) | 18 | CC BY 4.0 | [list](credits/github-com-amelnagdy-delegate-skills.md) |
+| [github.com/bitjaru/styleseed](https://github.com/bitjaru/styleseed) | 15 | CC BY 4.0 | [list](credits/github-com-bitjaru-styleseed.md) |
+| [github.com/AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 12 | CC BY 4.0 | [list](credits/github-com-agricidaniel-claude-seo.md) |
 
-…and 105 more, credited in the files themselves. Thank you to everyone who published the work these templates build on.
+…and 105 more in [CREDITS.md](CREDITS.md). Thank you to everyone who published the work these templates build on.
 
 <p align="center"><a href="https://templatesgrokbot.com"><img src="https://img.shields.io/badge/Browse%20all%203%2C031%20templates-templatesgrokbot.com-E67E22?style=for-the-badge" alt="Browse all templates on templatesgrokbot.com"></a></p>

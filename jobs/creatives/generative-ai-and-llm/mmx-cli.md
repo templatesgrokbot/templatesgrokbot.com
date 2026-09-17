@@ -60,6 +60,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/MiniMax-AI/cli) in [github.com/MiniMax-AI/cli](https://github.com/MiniMax-AI/cli), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/MiniMax-AI/cli](../../../credits/github-com-minimax-ai-cli.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/mmx-cli](https://templatesgrokbot.com/bot/mmx-cli)

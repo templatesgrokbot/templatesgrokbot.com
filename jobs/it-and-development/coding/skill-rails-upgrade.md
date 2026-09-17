@@ -60,6 +60,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/robzolkos/skill-rails-upgrade) in [github.com/robzolkos/skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/robzolkos/skill-rails-upgrade](../../../credits/github-com-robzolkos-skill-rails-upgrade.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/skill-rails-upgrade](https://templatesgrokbot.com/bot/skill-rails-upgrade)

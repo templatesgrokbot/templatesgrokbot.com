@@ -54,6 +54,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/abhinaykrupa/cowork-to-code-bridge/tree/97f515d425df587c281effb02cda9ad0fd470790) in [github.com/abhinaykrupa/cowork-to-code-bridge](https://github.com/abhinaykrupa/cowork-to-code-bridge), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/abhinaykrupa/cowork-to-code-bridge](../../../credits/github-com-abhinaykrupa-cowork-to-code-bridge.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/cowork-to-code-bridge](https://templatesgrokbot.com/bot/cowork-to-code-bridge)

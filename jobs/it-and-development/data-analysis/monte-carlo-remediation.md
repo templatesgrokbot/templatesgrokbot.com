@@ -57,6 +57,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/remediation) in [github.com/monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/monte-carlo-data/mc-agent-toolkit](../../../credits/github-com-monte-carlo-data-mc-agent-toolkit.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/monte-carlo-remediation](https://templatesgrokbot.com/bot/monte-carlo-remediation)

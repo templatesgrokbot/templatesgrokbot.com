@@ -54,6 +54,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/vostride/agent-qa/tree/main/skills/agent-qa-result-triage) in [github.com/vostride/agent-qa](https://github.com/vostride/agent-qa), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/vostride/agent-qa](../../../credits/github-com-vostride-agent-qa.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/agent-qa-result-triage](https://templatesgrokbot.com/bot/agent-qa-result-triage)

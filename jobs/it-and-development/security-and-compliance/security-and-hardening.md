@@ -57,6 +57,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/addyosmani/agent-skills/tree/main/skills/security-and-hardening) in [github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/addyosmani/agent-skills](../../../credits/github-com-addyosmani-agent-skills.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/security-and-hardening](https://templatesgrokbot.com/bot/security-and-hardening)

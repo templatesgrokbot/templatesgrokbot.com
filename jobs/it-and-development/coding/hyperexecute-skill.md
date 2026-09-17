@@ -60,6 +60,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/LambdaTest/agent-skills/tree/main/hyperexecute-skill) in [github.com/LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/LambdaTest/agent-skills](../../../credits/github-com-lambdatest-agent-skills.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/hyperexecute-skill](https://templatesgrokbot.com/bot/hyperexecute-skill)

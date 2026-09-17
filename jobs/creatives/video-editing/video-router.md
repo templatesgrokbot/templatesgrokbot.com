@@ -56,6 +56,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/dd4a0f40b2bc6c6b0fe6f2e732c9540ffffefe08/packages/skills/video-router) in [github.com/Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/Orkas-AI/Orkas-VideoStudio](../../../credits/github-com-orkas-ai-orkas-videostudio.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/video-router](https://templatesgrokbot.com/bot/video-router)

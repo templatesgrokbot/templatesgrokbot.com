@@ -60,6 +60,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/expo/skills/tree/main/plugins/expo/skills/building-native-ui) in [github.com/expo/skills](https://github.com/expo/skills), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/expo/skills](../../../credits/github-com-expo-skills.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/building-native-ui](https://templatesgrokbot.com/bot/building-native-ui)

@@ -60,6 +60,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 
 ---
 
+**Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/Phelan164/codex-howto/tree/47f36fd8aacfe6f222935e5c2e1d972ef06dcb99/skills/maintain-codex-wiki) in [github.com/Phelan164/codex-howto](https://github.com/Phelan164/codex-howto), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/Phelan164/codex-howto](../../../credits/github-com-phelan164-codex-howto.md) and [CREDITS.md](../../../CREDITS.md).
+
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
 **This template on TemplatesGrokBot:** [https://templatesgrokbot.com/bot/maintain-codex-wiki](https://templatesgrokbot.com/bot/maintain-codex-wiki)
