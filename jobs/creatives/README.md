@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **307 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **310 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Designers, artists and content creators. **307 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 124 |
+| [Design](design/README.md) | 126 |
 | [Generative Art](generative-art/README.md) | 44 |
 | [Coding](coding/README.md) | 33 |
 | [Generative Code](generative-code/README.md) | 30 |
@@ -20,9 +20,9 @@ Designers, artists and content creators. **307 ready-made Grok Bot templates** f
 | [Marketing & Growth](marketing-and-growth/README.md) | 10 |
 | [Video Editing](video-editing/README.md) | 10 |
 | [Generative Video](generative-video/README.md) | 7 |
+| [Research](research/README.md) | 4 |
 | [Text-To-Speech](text-to-speech/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
-| [Research](research/README.md) | 3 |
 | [Data Analysis](data-analysis/README.md) | 2 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Productivity](productivity/README.md) | 1 |
@@ -57,11 +57,13 @@ Designers, artists and content creators. **307 ready-made Grok Bot templates** f
 | [Code Showcase Core Components](../it-and-development/design/code-showcase-core-components.md) | Use design tokens and core components for consistent UI. |
 | [Color Blocking](design/color-blocking.md) | Build Mondrian-style layouts with bold color blocks and thick grid lines. |
 | [Color Palette Extractor](design/color-palette-extractor.md) | Extract accessible color palettes from images, websites, or designs and export in multiple formats. |
+| [Color Theory Design Assistant](design/color-theory-design-assistant.md) | Color theory guidance and palette generation for UX/UI designers. |
 | [Creative Portfolio Resume](design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
 | [CSS Animation Creator](design/css-animation-creator.md) | Create production-grade CSS animations, transitions, and micro-interactions for web UIs. |
 | [Cyberpunk Ui](design/cyberpunk-ui.md) | Generate neon-on-black UI with clipped corners and glitch accents. |
 | [Dark Mode](../it-and-development/design/dark-mode.md) | Dark mode design guide: surfaces, typography, and accent rules. |
 | [Design](design/design.md) | Design brand assets, logos, UI tokens, banners, icons, and social photos from your requests. |
+| [Design Concept Development Assistant](design/design-concept-development-assistant.md) | Guides UX/UI designers through research, ideation, and testing to refine design concepts. |
 | [Design Critique](design/design-design-critique.md) | Gives structured, honest design feedback on usability, hierarchy, consistency, and accessibility. |
 | [Design It](design/design-it.md) | Routes frontend design tasks to 48 specific UI styles with curated palettes. |
 | [Design Md](design/design-md.md) | Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files |
@@ -365,6 +367,15 @@ Designers, artists and content creators. **307 ready-made Grok Bot templates** f
 | [Riffkit](generative-video/riffkit.md) | Transform a winning TikTok's formula into your own branded short video in 9 languages. |
 | [Sora](generative-video/sora.md) | Generates and manages Sora video clips via OpenAI's API using a bundled CLI. |
 
+## Research
+
+| Template | What it does |
+|---|---|
+| [Usability Testing Assistant](research/usability-testing-assistant.md) | Plans, runs, and analyzes usability tests to improve your product's UX. |
+| [Ux Researcher](research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
+| [Ux Researcher Designer](../product-development/research/ux-researcher-designer.md) | Turns user research data into personas, journey maps, and actionable insights. |
+| [Web Media Getter](research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
+
 ## Text-To-Speech
 
 | Template | What it does |
@@ -381,14 +392,6 @@ Designers, artists and content creators. **307 ready-made Grok Bot templates** f
 | [Ai Native Ui](../it-and-development/generative-ai-and-llm/ai-native-ui.md) | Generate conversational UI with adaptive layouts and generative aesthetics. |
 | [Elon Musk](generative-ai-and-llm/elon-musk.md) | Simulates Elon Musk with high-fidelity psychological and communication depth. |
 | [Mmx Cli](generative-ai-and-llm/mmx-cli.md) | Generate text, images, video, speech, and music via the MiniMax CLI. |
-
-## Research
-
-| Template | What it does |
-|---|---|
-| [Ux Researcher](research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
-| [Ux Researcher Designer](../product-development/research/ux-researcher-designer.md) | Generates research-backed personas and journey maps from user data. |
-| [Web Media Getter](research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
 
 ## Data Analysis
 

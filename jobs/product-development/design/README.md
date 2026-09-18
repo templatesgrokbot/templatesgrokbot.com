@@ -1,6 +1,6 @@
 # Design templates for Product Development
 
-Interfaces, brands, layouts and visual systems. 76 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 78 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,8 +16,10 @@ Interfaces, brands, layouts and visual systems. 76 Grok Bot templates, 7 of them
 | [C4 Context](c4-context.md) | Creates C4 system context diagrams, personas, user journeys, and external dependencies. |
 | [Card Based Design](../../creatives/design/card-based-design.md) | Generate card-based UI layouts with responsive grids and encapsulated content containers. |
 | [Ckw Design](../../creatives/design/ckw-design.md) | Production-grade web UI design with spatial rigor and usability critique. |
+| [Color Theory Design Assistant](../../creatives/design/color-theory-design-assistant.md) | Color theory guidance and palette generation for UX/UI designers. |
 | [CSS Animation Creator](../../creatives/design/css-animation-creator.md) | Create production-grade CSS animations, transitions, and micro-interactions for web UIs. |
 | [Data Dense Design](../../it-and-development/design/data-dense-design.md) | Build expert UIs with maximum data density like Bloomberg terminals or IDEs. |
+| [Design Concept Development Assistant](../../creatives/design/design-concept-development-assistant.md) | Guides UX/UI designers through research, ideation, and testing to refine design concepts. |
 | [Design Critique](../../creatives/design/design-design-critique.md) | Gives structured, honest design feedback on usability, hierarchy, consistency, and accessibility. |
 | [Design Handoff Spec](../../it-and-development/design/design-design-handoff.md) | Generate developer handoff specs from a design, covering tokens, props, states, and edge cases. |
 | [Design Md](../../creatives/design/design-md.md) | Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files |

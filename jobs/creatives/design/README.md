@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 124 Grok Bot templates, 101 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 126 Grok Bot templates, 103 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,11 +30,13 @@ Interfaces, brands, layouts and visual systems. 124 Grok Bot templates, 101 of t
 | [Code Showcase Core Components](../../it-and-development/design/code-showcase-core-components.md) | Use design tokens and core components for consistent UI. |
 | [Color Blocking](color-blocking.md) | Build Mondrian-style layouts with bold color blocks and thick grid lines. |
 | [Color Palette Extractor](color-palette-extractor.md) | Extract accessible color palettes from images, websites, or designs and export in multiple formats. |
+| [Color Theory Design Assistant](color-theory-design-assistant.md) | Color theory guidance and palette generation for UX/UI designers. |
 | [Creative Portfolio Resume](creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
 | [CSS Animation Creator](css-animation-creator.md) | Create production-grade CSS animations, transitions, and micro-interactions for web UIs. |
 | [Cyberpunk Ui](cyberpunk-ui.md) | Generate neon-on-black UI with clipped corners and glitch accents. |
 | [Dark Mode](../../it-and-development/design/dark-mode.md) | Dark mode design guide: surfaces, typography, and accent rules. |
 | [Design](design.md) | Design brand assets, logos, UI tokens, banners, icons, and social photos from your requests. |
+| [Design Concept Development Assistant](design-concept-development-assistant.md) | Guides UX/UI designers through research, ideation, and testing to refine design concepts. |
 | [Design Critique](design-design-critique.md) | Gives structured, honest design feedback on usability, hierarchy, consistency, and accessibility. |
 | [Design It](design-it.md) | Routes frontend design tasks to 48 specific UI styles with curated palettes. |
 | [Design Md](design-md.md) | Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files |

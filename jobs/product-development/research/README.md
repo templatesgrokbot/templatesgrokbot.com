@@ -1,6 +1,6 @@
 # Research templates for Product Development
 
-Find sources, compare evidence and summarise what is known. 39 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 40 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -37,12 +37,13 @@ Find sources, compare evidence and summarise what is known. 39 Grok Bot template
 | [Task Researcher](../../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 | [Technical Researcher](../../it-and-development/research/technical-researcher.md) | Analyzes code repositories, documentation, and technical implementations for informed decisions. |
 | [Think Tank](../../executives-and-strategy/research/think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
+| [Usability Testing Assistant](../../creatives/research/usability-testing-assistant.md) | Plans, runs, and analyzes usability tests to improve your product's UX. |
 | [User Research Planning](design-user-research.md) | Plan user research that produces honest, actionable insights from start to finish. |
 | [User Research Synthesis](design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
 | [Uspto Database](../../legal/research/uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |
 | [UX Research Interview Kit](ux-research-interview-kit.md) | Builds structured interview kits: screener, guide, notes, and analysis grid for UX research. |
 | [Ux Researcher](../../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
-| [Ux Researcher Designer](ux-researcher-designer.md) | Generates research-backed personas and journey maps from user data. |
+| [Ux Researcher Designer](ux-researcher-designer.md) | Turns user research data into personas, journey maps, and actionable insights. |
 | [Wiki Researcher](../../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
 | [Youtube Full](../../it-and-development/research/youtube-full.md) | Fetch YouTube transcripts, search videos, browse channels, and extract playlists via TranscriptAPI. |
 

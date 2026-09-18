@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 84 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 85 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Interfaces, brands, layouts and visual systems. 84 Grok Bot templates, 30 of the
 | [Cyberpunk Ui](../../creatives/design/cyberpunk-ui.md) | Generate neon-on-black UI with clipped corners and glitch accents. |
 | [Dark Mode](dark-mode.md) | Dark mode design guide: surfaces, typography, and accent rules. |
 | [Data Dense Design](data-dense-design.md) | Build expert UIs with maximum data density like Bloomberg terminals or IDEs. |
+| [Design Concept Development Assistant](../../creatives/design/design-concept-development-assistant.md) | Guides UX/UI designers through research, ideation, and testing to refine design concepts. |
 | [Design Handoff Spec](design-design-handoff.md) | Generate developer handoff specs from a design, covering tokens, props, states, and edge cases. |
 | [Design It](../../creatives/design/design-it.md) | Routes frontend design tasks to 48 specific UI styles with curated palettes. |
 | [Design Mirror](../../creatives/design/design-mirror.md) | Replicates any website's visual style and applies it to your existing codebase. |

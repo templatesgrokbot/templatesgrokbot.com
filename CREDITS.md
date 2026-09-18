@@ -1,6 +1,6 @@
 # Credits
 
-3,001 of the 3,061 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
+3,001 of the 3,064 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
 
 Every adapted template also names its original (`adapted_from`) and its license (`source_license`) in its front matter, and links back here at the end of the file.
 

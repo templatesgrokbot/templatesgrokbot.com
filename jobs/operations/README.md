@@ -40,8 +40,8 @@ Processes, logistics and the systems that run a business. **618 ready-made Grok 
 | Template | What it does |
 |---|---|
 | [Monitoring Specialist](../it-and-development/cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
-| [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 | [Kubernetes Architect](../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
+| [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 | [Zapier Make Patterns](../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
@@ -70,8 +70,8 @@ Processes, logistics and the systems that run a business. **618 ready-made Grok 
 | Template | What it does |
 |---|---|
 | [Power Bi Performance Expert](../it-and-development/data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
-| [Podcast Content Analyzer](data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
 | [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
+| [Podcast Content Analyzer](data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
 | [Monte Carlo Performance Diagnosis](../it-and-development/data-analysis/monte-carlo-performance-diagnosis.md) | Diagnoses pipeline performance issues using Monte Carlo observability data. |
 | [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
@@ -236,8 +236,8 @@ Processes, logistics and the systems that run a business. **618 ready-made Grok 
 |---|---|
 | [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
 | [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
-| [Close Automation](../sales/sales-and-negotiation/close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
 | [Odoo Sales Crm Expert](../sales/sales-and-negotiation/odoo-sales-crm-expert.md) | Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions. |
+| [Close Automation](../sales/sales-and-negotiation/close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
 | [Salesforce Automation](../sales/sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
 | [Hubspot Automation](../sales/sales-and-negotiation/hubspot-automation.md) | Automate HubSpot CRM operations via Rube MCP and Composio integration. |
 | [Lead Research Assistant](../sales/sales-and-negotiation/lead-research-assistant.md) | Finds and prioritizes companies that match your ideal customer profile for sales outreach. |
@@ -250,8 +250,8 @@ Processes, logistics and the systems that run a business. **618 ready-made Grok 
 | [N8n Node Configuration](../it-and-development/generative-code/n8n-node-configuration.md) | Configure n8n nodes with operation-aware property dependencies. |
 | [Azure Storage Queue Py](../it-and-development/generative-code/azure-storage-queue-py.md) | Manage Azure Queue Storage messages: send, receive, peek, update, delete. |
 | [Webflow Automation](../it-and-development/generative-code/webflow-automation.md) | Automate Webflow CMS, publishing, pages, assets, and ecommerce via Rube MCP. |
-| [Odoo Edi Connector](../it-and-development/generative-code/odoo-edi-connector.md) | Map EDI X12/EDIFACT to Odoo objects and automate B2B document flows. |
 | [Macos Spm App Packaging](../it-and-development/generative-code/macos-spm-app-packaging.md) | Scaffold, build, sign, and package SwiftPM macOS apps without Xcode. |
+| [Odoo Edi Connector](../it-and-development/generative-code/odoo-edi-connector.md) | Map EDI X12/EDIFACT to Odoo objects and automate B2B document flows. |
 | [Python Pptx Generator](../it-and-development/generative-code/python-pptx-generator.md) | Generate complete Python scripts that build polished PowerPoint decks with python-pptx. |
 | [2slides Ppt Generator](../marketing/generative-code/2slides-ppt-generator.md) | Generate slides from text, documents, or reference images via the 2slides API. |
 

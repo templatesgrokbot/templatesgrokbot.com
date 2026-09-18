@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 3061,
+ "count": 3064,
  "templates": [
   {
    "slug": "007",
@@ -11199,6 +11199,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "color-theory-design-assistant",
+   "name": "Color Theory Design Assistant",
+   "tagline": "Color theory guidance and palette generation for UX/UI designers.",
+   "category": "creative",
+   "jobs": [
+    "creatives",
+    "product-development"
+   ],
+   "topics": [
+    "design",
+    "generative-art"
+   ],
+   "path": "jobs/creatives/design/color-theory-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/color-theory-design-assistant"
+  },
+  {
    "slug": "comet-opik",
    "name": "Comet Opik",
    "tagline": "Instrument LLM apps with Opik, manage prompts, and investigate traces/metrics via MCP.",
@@ -15289,6 +15305,24 @@
    "url": "https://templatesgrokbot.com/bot/design",
    "adapted_from": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "design-concept-development-assistant",
+   "name": "Design Concept Development Assistant",
+   "tagline": "Guides UX/UI designers through research, ideation, and testing to refine design concepts.",
+   "category": "creative",
+   "jobs": [
+    "creatives",
+    "product-development",
+    "it-and-development"
+   ],
+   "topics": [
+    "design",
+    "research",
+    "productivity"
+   ],
+   "path": "jobs/creatives/design/design-concept-development-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/design-concept-development-assistant"
   },
   {
    "slug": "design-design-critique",
@@ -50479,6 +50513,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "usability-testing-assistant",
+   "name": "Usability Testing Assistant",
+   "tagline": "Plans, runs, and analyzes usability tests to improve your product's UX.",
+   "category": "research",
+   "jobs": [
+    "creatives",
+    "product-development",
+    "it-and-development"
+   ],
+   "topics": [
+    "research",
+    "design",
+    "data-analysis"
+   ],
+   "path": "jobs/creatives/research/usability-testing-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/usability-testing-assistant"
+  },
+  {
    "slug": "usage-based-pricing",
    "name": "Usage Based Pricing",
    "tagline": "Design developer-friendly usage-based pricing models with clear metrics and predictable costs.",
@@ -50857,7 +50909,7 @@
   {
    "slug": "ux-researcher-designer",
    "name": "Ux Researcher Designer",
-   "tagline": "Generates research-backed personas and journey maps from user data.",
+   "tagline": "Turns user research data into personas, journey maps, and actionable insights.",
    "category": "research",
    "jobs": [
     "product-development",
