@@ -125,6 +125,10 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [heliumtrades.com](https://heliumtrades.com) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/heliumtrades-com.md) |
 | [nothumansearch.ai](https://nothumansearch.ai) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/nothumansearch-ai.md) |
 
+## CompleteAiTraining.com lessons
+
+5 templates are built on lessons from [CompleteAiTraining.com](https://completeaitraining.com), TemplatesGrokBot's sister site for AI training by job. Each of them links its lesson at the end of the file: [list with every lesson](credits/completeaitraining-com.md).
+
 License texts and notices: [LICENSES/](LICENSES/README.md). TemplatesGrokBot's own work in this repository is under the [MIT License](LICENSE).
 
 If you are the author of an original and want the credit changed, or your work removed, email contact@templatesgrokbot.com.

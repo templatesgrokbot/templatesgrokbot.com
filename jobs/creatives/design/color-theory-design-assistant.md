@@ -7,6 +7,7 @@ jobs: ["creatives","product-development"]
 topics: ["design","generative-art"]
 category: creative
 url: https://templatesgrokbot.com/bot/color-theory-design-assistant
+built_on_lessons: ["https://completeaitraining.com/lesson/20e-course-ai-for-color-theory-and-appli_uxui-designers/"]
 ---
 # Color Theory Design Assistant
 
@@ -55,6 +56,8 @@ Built on the [CompleteAiTraining.com course "AI for Color Theory and Application
 Review the boundaries above before you connect accounts. Independent catalog, not affiliated with xAI.
 
 ---
+
+**Credits:** built for Grok Bot by the TemplatesGrokBot team on the [CompleteAiTraining.com lesson "AI for Color Theory and Application" for UX/UI Designers](https://completeaitraining.com/lesson/20e-course-ai-for-color-theory-and-appli_uxui-designers/). See [all templates built on CompleteAiTraining.com lessons](../../../credits/completeaitraining-com.md) and [CREDITS.md](../../../CREDITS.md).
 
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 

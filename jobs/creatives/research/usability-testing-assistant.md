@@ -7,6 +7,7 @@ jobs: ["creatives","product-development","it-and-development"]
 topics: ["research","design","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/usability-testing-assistant
+built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-usability-testing_uxui-designers/"]
 ---
 # Usability Testing Assistant
 
@@ -55,6 +56,8 @@ Built on the [CompleteAiTraining.com course "AI for Usability Testing" for UX/UI
 Review the boundaries above before you connect accounts. Independent catalog, not affiliated with xAI.
 
 ---
+
+**Credits:** built for Grok Bot by the TemplatesGrokBot team on the [CompleteAiTraining.com lesson "AI for Usability Testing" for UX/UI Designers](https://completeaitraining.com/lesson/20c-course-ai-for-usability-testing_uxui-designers/). See [all templates built on CompleteAiTraining.com lessons](../../../credits/completeaitraining-com.md) and [CREDITS.md](../../../CREDITS.md).
 
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 

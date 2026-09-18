@@ -9,6 +9,7 @@ category: research
 url: https://templatesgrokbot.com/bot/ux-researcher-designer
 adapted_from: https://www.aitmpl.com/component/skills/creative-design/ux-researcher-designer
 source_license: "MIT"
+built_on_lessons: ["https://completeaitraining.com/lesson/20a-course-ai-for-user-research_uxui-designers/"]
 ---
 # Ux Researcher Designer
 
@@ -60,6 +61,8 @@ Review the boundaries above before you connect accounts. Independent catalog, no
 ---
 
 **Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://www.aitmpl.com/component/skills/creative-design/ux-researcher-designer) in [aitmpl.com](https://www.aitmpl.com), licensed under [MIT](../../../LICENSES/MIT.md). The original author keeps the credit for the work this template builds on; see [all credits for aitmpl.com](../../../credits/aitmpl-com.md) and [CREDITS.md](../../../CREDITS.md).
+
+Also built on the [CompleteAiTraining.com lesson "AI for User Research" for UX/UI Designers](https://completeaitraining.com/lesson/20a-course-ai-for-user-research_uxui-designers/); see [all templates built on CompleteAiTraining.com lessons](../../../credits/completeaitraining-com.md).
 
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 
