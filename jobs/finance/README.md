@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **85 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **96 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,16 +11,16 @@ Accounting, budgeting, analysis and risk. **85 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 48 |
+| [Data Analysis](data-analysis/README.md) | 55 |
 | [Coding](coding/README.md) | 9 |
-| [Research](research/README.md) | 8 |
-| [Productivity](productivity/README.md) | 6 |
+| [Research](research/README.md) | 9 |
+| [Productivity](productivity/README.md) | 7 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 4 |
 | [Office Tools](office-tools/README.md) | 4 |
+| [Security & Compliance](security-and-compliance/README.md) | 3 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
-| [Security & Compliance](security-and-compliance/README.md) | 1 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 | [Writing & Content](writing-and-content/README.md) | 1 |
 
@@ -29,6 +29,7 @@ Accounting, budgeting, analysis and risk. **85 ready-made Grok Bot templates** f
 | Template | What it does |
 |---|---|
 | [Alpha Vantage](data-analysis/alpha-vantage.md) | Fetch 20+ years of equities, forex, crypto, commodities, and economic data via Alpha Vantage API. |
+| [AML Due Diligence Drafter](../legal/data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
 | [Auction Analyst AI](../real-estate-and-construction/data-analysis/auction-analyst-ai.md) | Analyzes notices, risks, and property value in judicial and extrajudicial auctions. |
 | [Auction Appraiser](../real-estate-and-construction/data-analysis/auction-appraiser.md) | Appraises auction properties using comparative, income, and cost methods per ABNT NBR 14653. |
 | [Auction Market Analyst](data-analysis/auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |
@@ -39,6 +40,8 @@ Accounting, budgeting, analysis and risk. **85 ready-made Grok Bot templates** f
 | [Board Deck Generator](../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates institutional-quality board meeting decks with financials, updates, and asks. |
 | [Bounty Hunter](data-analysis/bounty-hunter.md) | Identifies unclaimed, owed, or wasted money and recommends how to recover it. |
 | [Cash Flow Forecaster](data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your financial exports and flags crunch weeks. |
+| [Compliance Cost Analyst](../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
+| [Contract Report Builder](../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Data Analyst](../science-and-research/data-analysis/data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
 | [Data Cleaner](../it-and-development/data-analysis/data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
 | [Deal Room Risk Analyst](data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
@@ -48,6 +51,8 @@ Accounting, budgeting, analysis and risk. **85 ready-made Grok Bot templates** f
 | [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, categorizes, flags issues, and reports. |
 | [Home Inventory Builder](../operations/data-analysis/home-inventory-builder.md) | Builds an insurance-grade home inventory from photos and receipts, with values and gap analysis. |
 | [Invoice Organizer](../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
+| [Legal Billing Systems Assistant](../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
+| [Licensing and Royalty Manager](../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
 | [Longbridge](data-analysis/longbridge.md) | 125+ read-only market data capabilities for HK/US/A-share/SG stocks via Longbridge. |
 | [Longbridge Fundamentals](data-analysis/longbridge-fundamentals.md) | Pull financial statements, valuation multiples, and company profiles for HK/US/A-share/Singapore stocks via Longbridge. |
 | [Longbridge Market Data](data-analysis/longbridge-market-data.md) | Real-time quotes, K-lines, order book, trades, capital flow, sentiment, and IPO data for HK/US/A/SG markets via Longbridge. |
@@ -58,11 +63,13 @@ Accounting, budgeting, analysis and risk. **85 ready-made Grok Bot templates** f
 | [Offer Comparison Analyzer](../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
 | [Open Banking Io](data-analysis/open-banking-io.md) | Read balances and transactions from EU/UK bank accounts via the open-banking.io PSD2 API. |
 | [Options Flow Analyzer](data-analysis/options-flow-analyzer.md) | Separates real options flow from lottery noise to prevent P/C ratio inversion. |
+| [Patent Valuation Analyst](../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Performance Report](../executives-and-strategy/data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Portfolio Digest](data-analysis/portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
 | [Quant Analyst](data-analysis/quant-analyst.md) | Builds and backtests quantitative trading strategies with transaction costs and risk analytics for portfolios and derivatives. |
 | [Risk Manager](data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
+| [Spend Analysis Assistant](../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Spreadsheet](data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
 | [Spreadsheet Merger](../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Sql Sentinel](../it-and-development/data-analysis/sql-sentinel.md) | Audits SQL for cost and performance anti-patterns, scores warehouse health 0-100, and outputs a prioritized cost-reduction plan. Works with BigQuery, |
@@ -103,6 +110,7 @@ Accounting, budgeting, analysis and risk. **85 ready-made Grok Bot templates** f
 | [Screen Adverse Media](../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
 | [SRED Project Organizer](../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
 | [Term Sheet Reader](research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
+| [Third-Party Compliance Evaluator](../legal/research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 
 ## Productivity
 
@@ -111,6 +119,7 @@ Accounting, budgeting, analysis and risk. **85 ready-made Grok Bot templates** f
 | [Billing Automation](../operations/productivity/billing-automation.md) | Implement automated billing, invoicing, and payment recovery for SaaS subscriptions. |
 | [Credit Card Max](productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
 | [Invoice Chaser](productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
+| [Legal Billing and Timekeeping Assistant](../legal/productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
 | [Odoo Project Timesheet](../operations/productivity/odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
 | [Stripe Automation](productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [Vendor Watch](../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
@@ -133,6 +142,14 @@ Accounting, budgeting, analysis and risk. **85 ready-made Grok Bot templates** f
 | [Excel Spreadsheets](../operations/office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
 | [Odoo Accounting Setup](../operations/office-tools/odoo-accounting-setup.md) | Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation. |
 
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [AML Compliance Assistant](../legal/security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
+| [Pci Compliance](security-and-compliance/pci-compliance.md) | Guide PCI DSS compliance for secure payment processing and cardholder data handling. |
+| [Risk Assessment and Analysis Assistant](../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
+
 ## Knowledge Management
 
 | Template | What it does |
@@ -150,12 +167,6 @@ Accounting, budgeting, analysis and risk. **85 ready-made Grok Bot templates** f
 | Template | What it does |
 |---|---|
 | [Deal Desk](sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Pci Compliance](security-and-compliance/pci-compliance.md) | Guide PCI DSS compliance for secure payment processing and cardholder data handling. |
 
 ## Teaching & Tutoring
 

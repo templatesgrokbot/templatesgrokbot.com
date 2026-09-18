@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **106 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **109 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,8 +13,8 @@ Prospecting, pipeline and closing. **106 ready-made Grok Bot templates** for thi
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 44 |
 | [Research](research/README.md) | 17 |
+| [Data Analysis](data-analysis/README.md) | 15 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 15 |
-| [Data Analysis](data-analysis/README.md) | 12 |
 | [Writing & Content](writing-and-content/README.md) | 6 |
 | [Productivity](productivity/README.md) | 4 |
 | [Coding](coding/README.md) | 2 |
@@ -95,6 +95,26 @@ Prospecting, pipeline and closing. **106 ready-made Grok Bot templates** for thi
 | [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Us Property Data](../real-estate-and-construction/research/us-property-data.md) | Retrieve real U.S. property valuations, listings, and history from Zillow data. No guessing. |
 
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Apify Competitor Intelligence](../marketing/data-analysis/apify-competitor-intelligence.md) | Extract competitor data from Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok. |
+| [Apify Lead Generation](data-analysis/apify-lead-generation.md) | Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors. |
+| [Bettoredge Value Finder](../finance/data-analysis/bettoredge-value-finder.md) | Finds +EV betting opportunities on BettorEdge prediction markets using Kelly criterion and bankroll limits. |
+| [Buywhere Product Catalog](data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
+| [Champion Identifier](data-analysis/champion-identifier.md) | Finds the internal advocate most likely to push your solution through a target account. |
+| [Churn Radar](data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
+| [Customer Engagement Assistant](../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
+| [Customer Report Generator](../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
+| [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
+| [Footballbin Predictions](../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
+| [Google Ads Performance Analyzer](../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
+| [Licensing and Royalty Manager](../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
+| [Quarterly Business Review Builder](../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
+| [Trading Risk Manager](../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
+| [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+
 ## Sales & Negotiation
 
 | Template | What it does |
@@ -114,23 +134,6 @@ Prospecting, pipeline and closing. **106 ready-made Grok Bot templates** for thi
 | [Sales Engineer](sales-and-negotiation/sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
 | [Salesforce Automation](sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
 | [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
-
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Apify Competitor Intelligence](../marketing/data-analysis/apify-competitor-intelligence.md) | Extract competitor data from Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok. |
-| [Apify Lead Generation](data-analysis/apify-lead-generation.md) | Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors. |
-| [Bettoredge Value Finder](../finance/data-analysis/bettoredge-value-finder.md) | Finds +EV betting opportunities on BettorEdge prediction markets using Kelly criterion and bankroll limits. |
-| [Buywhere Product Catalog](data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
-| [Champion Identifier](data-analysis/champion-identifier.md) | Finds the internal advocate most likely to push your solution through a target account. |
-| [Churn Radar](data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
-| [Customer Engagement Assistant](../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
-| [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
-| [Footballbin Predictions](../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
-| [Google Ads Performance Analyzer](../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
-| [Quarterly Business Review Builder](../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
-| [Trading Risk Manager](../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
 
 ## Writing & Content
 

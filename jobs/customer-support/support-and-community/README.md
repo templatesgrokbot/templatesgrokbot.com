@@ -1,12 +1,14 @@
 # Support & Community templates for Customer Support
 
-Triage tickets, answer customers and moderate communities. 12 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 14 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Client Communication Manager](../../legal/support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
 | [Community Mod](../../operations/support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
+| [Contract Query Resolution Assistant](../../legal/support-and-community/contract-query-resolution-assistant.md) | Resolves contract queries from triage to follow-up, tracking every step and reporting metrics. |
 | [Crisis Management Playbook Builder](crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
 | [Customer Issue Resolution Assistant](customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
 | [Customer Success Response Manager](customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |

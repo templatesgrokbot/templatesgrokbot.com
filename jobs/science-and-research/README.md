@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **332 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **334 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Scientists, analysts and academic researchers. **332 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Research](research/README.md) | 132 |
+| [Research](research/README.md) | 134 |
 | [Data Analysis](data-analysis/README.md) | 79 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 64 |
 | [Coding](coding/README.md) | 30 |
@@ -122,11 +122,13 @@ Scientists, analysts and academic researchers. **332 ready-made Grok Bot templat
 | [Opentargets Database](research/opentargets-database.md) | Queries Open Targets Platform for target-disease associations, drug discovery, and safety data. |
 | [Paper 2 Web](research/paper-2-web.md) | Converts academic papers into interactive websites, presentation videos, and conference posters. |
 | [Papers](research/papers-skill.md) | Search academic papers, inspect citations, download arXiv PDFs, and extract text. |
+| [Patent Research Assistant](../legal/research/patent-research-assistant.md) | Runs patent research tasks: searches, analyses, drafting support, and monitoring updates. |
 | [Pdb Database](research/pdb-database.md) | Search RCSB PDB for 3D structures by text, sequence, or shape, then retrieve coordinates and metadata. |
 | [Peer Review](research/peer-review.md) | Systematically evaluate scientific manuscripts and grant proposals for rigor, reproducibility, and reporting standards. |
 | [Perplexity](research/perplexity.md) | Searches the web and answers questions using Perplexity AI. |
 | [Perplexity Search](research/perplexity-search.md) | Searches the web for current information and returns grounded answers with source citations. |
 | [Pi Web Search](../it-and-development/research/pi-web-search.md) | Web search and fetch for Pi Agents using pi-web-access package. |
+| [Prior Art Analysis Assistant](../legal/research/prior-art-analysis-assistant.md) | Streamlines prior art search, analysis, and reporting for patent agents. |
 | [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Pubmed Database](research/pubmed-database.md) | Searches PubMed via E-utilities API for structured biomedical literature results. |
 | [Pyhealth](../healthcare/research/pyhealth.md) | Build and deploy clinical ML models for EHR data, mortality prediction, and drug recommendation. |

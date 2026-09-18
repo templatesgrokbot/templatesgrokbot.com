@@ -4,7 +4,7 @@ slug: customer-success-manager
 language: en
 tagline: "Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data."
 jobs: ["customer-support","sales","operations"]
-topics: ["data-analysis","support-and-community"]
+topics: ["data-analysis","support-and-community","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/customer-success-manager
 adapted_from: https://www.aitmpl.com/component/agents/business-marketing/customer-success-manager

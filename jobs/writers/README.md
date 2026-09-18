@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **88 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **89 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Authors, copywriters, editors and journalists. **88 ready-made Grok Bot template
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 46 |
+| [Writing & Content](writing-and-content/README.md) | 47 |
 | [Research](research/README.md) | 15 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 10 |
 | [Coding](coding/README.md) | 5 |
@@ -51,6 +51,7 @@ Authors, copywriters, editors and journalists. **88 ready-made Grok Bot template
 | [Documentation Expert](../it-and-development/writing-and-content/documentation-expert.md) | Creates, improves, and maintains project documentation from code and specs. |
 | [Documentation Templates](../it-and-development/writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
 | [Humanizer](writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
+| [Legal Document Drafter](../legal/writing-and-content/legal-document-drafter.md) | Drafts, reviews, and researches legal documents for lawyers. |
 | [Markdown Syntax Formatter](writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Microsoft Learn Contributor](../education/writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
 | [Ocr Grammar Fixer](writing-and-content/ocr-grammar-fixer.md) | Cleans up garbled OCR text into clean, professional copy. No explanations, just corrections. No inventing meaning. No touching formatting like bullets |

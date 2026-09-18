@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 3088,
+ "count": 3175,
  "templates": [
   {
    "slug": "007",
@@ -682,6 +682,21 @@
    "url": "https://templatesgrokbot.com/bot/advanced-evaluation",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "advanced-routing-protocol-assistant",
+   "name": "Advanced Routing Protocol Assistant",
+   "tagline": "Guides network engineers through advanced routing protocol configuration, troubleshooting, and optimization.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/advanced-routing-protocol-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/advanced-routing-protocol-assistant"
   },
   {
    "slug": "aegisops-ai",
@@ -2056,6 +2071,60 @@
    "url": "https://templatesgrokbot.com/bot/amazon-alexa",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "amendment-and-variation-tracker",
+   "name": "Amendment and Variation Tracker",
+   "tagline": "Tracks contract amendments and variations from log to approval, with alerts and reports.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "knowledge-management",
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/legal/knowledge-management/amendment-and-variation-tracker.md",
+   "url": "https://templatesgrokbot.com/bot/amendment-and-variation-tracker"
+  },
+  {
+   "slug": "aml-compliance-assistant",
+   "name": "AML Compliance Assistant",
+   "tagline": "Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/legal/security-and-compliance/aml-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/aml-compliance-assistant"
+  },
+  {
+   "slug": "aml-due-diligence-drafter",
+   "name": "AML Due Diligence Drafter",
+   "tagline": "Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "finance",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "security-and-compliance"
+   ],
+   "path": "jobs/legal/data-analysis/aml-due-diligence-drafter.md",
+   "url": "https://templatesgrokbot.com/bot/aml-due-diligence-drafter"
   },
   {
    "slug": "amplitude-automation",
@@ -8122,6 +8191,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "brief-counsel-legal-research",
+   "name": "Brief Counsel Legal Research",
+   "tagline": "Handles legal research tasks from case analysis to citation checks and drafting support.",
+   "category": "operations",
+   "jobs": [
+    "legal"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/research/brief-counsel-legal-research.md",
+   "url": "https://templatesgrokbot.com/bot/brief-counsel-legal-research"
+  },
+  {
    "slug": "bright-data-best-practices",
    "name": "Bright Data Best Practices",
    "tagline": "Reference for developers building Bright Data integrations with best practices.",
@@ -9110,6 +9194,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "case-law-research-assistant",
+   "name": "Case Law Research Assistant",
+   "tagline": "Find, analyze, and organize case law for your legal research and memos.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/case-law-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/case-law-research-assistant"
+  },
+  {
    "slug": "case-review",
    "name": "Case Review",
    "tagline": "Audit reverse-engineering case packages for traceability and completeness before handoff.",
@@ -10033,6 +10134,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "client-communication-manager",
+   "name": "Client Communication Manager",
+   "tagline": "Manages client communication for paralegals from intake to follow-up.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "customer-support"
+   ],
+   "topics": [
+    "support-and-community",
+    "productivity"
+   ],
+   "path": "jobs/legal/support-and-community/client-communication-manager.md",
+   "url": "https://templatesgrokbot.com/bot/client-communication-manager"
+  },
+  {
    "slug": "client-health-dashboard",
    "name": "Client Health Dashboard",
    "tagline": "Generates a prioritized client health report with RAG status and recommendations.",
@@ -10049,6 +10166,23 @@
    "url": "https://templatesgrokbot.com/bot/client-health-dashboard",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/client-health-dashboard",
    "source_license": "MIT"
+  },
+  {
+   "slug": "client-interview-prep-assistant",
+   "name": "Client Interview Prep Assistant",
+   "tagline": "Prepares legal assistants for client interviews with questions, agendas, and follow-ups.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "customer-support"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/legal/research/client-interview-prep-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/client-interview-prep-assistant"
   },
   {
    "slug": "cline-delegate",
@@ -11703,6 +11837,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "compliance-audit-preparation-assistant",
+   "name": "Compliance Audit Preparation Assistant",
+   "tagline": "Prepares compliance audits by organizing documents, assessing risks, and drafting required materials.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/security-and-compliance/compliance-audit-preparation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-audit-preparation-assistant"
+  },
+  {
    "slug": "compliance-auditor",
    "name": "Compliance Auditor",
    "tagline": "Audits compliance across GDPR, HIPAA, SOC 2, PCI DSS, and ISO frameworks.",
@@ -11719,6 +11871,133 @@
    "url": "https://templatesgrokbot.com/bot/compliance-auditor",
    "adapted_from": "https://www.aitmpl.com/component/agents/security/compliance-auditor",
    "source_license": "MIT"
+  },
+  {
+   "slug": "compliance-benchmarking-analyst",
+   "name": "Compliance Benchmarking Analyst",
+   "tagline": "Benchmarks your compliance practices against industry standards and peers.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "security-and-compliance"
+   ],
+   "path": "jobs/legal/data-analysis/compliance-benchmarking-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-benchmarking-analyst"
+  },
+  {
+   "slug": "compliance-communication-planner",
+   "name": "Compliance Communication Planner",
+   "tagline": "Plans, drafts, and evaluates all compliance communications for your organization.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "pr-and-communications",
+    "operations",
+    "human-resources"
+   ],
+   "topics": [
+    "writing-and-content",
+    "marketing-and-growth",
+    "teaching-and-tutoring",
+    "security-and-compliance"
+   ],
+   "path": "jobs/legal/writing-and-content/compliance-communication-planner.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-communication-planner"
+  },
+  {
+   "slug": "compliance-cost-analyst",
+   "name": "Compliance Cost Analyst",
+   "tagline": "Analyzes, forecasts, and optimizes compliance costs for compliance analysts.",
+   "category": "finance",
+   "jobs": [
+    "legal",
+    "finance",
+    "operations",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/legal/data-analysis/compliance-cost-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-cost-analyst"
+  },
+  {
+   "slug": "compliance-docket-analyst",
+   "name": "Compliance Docket Analyst",
+   "tagline": "Regulatory filing assistant for compliance analysts: research, draft, validate, track, and submit compliant documents.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/legal/research/compliance-docket-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-docket-analyst"
+  },
+  {
+   "slug": "compliance-monitoring-inspector",
+   "name": "Compliance Monitoring Inspector",
+   "tagline": "Monitor, assess, and report on compliance activities with precision and clarity.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "security-and-compliance"
+   ],
+   "path": "jobs/legal/data-analysis/compliance-monitoring-inspector.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-monitoring-inspector"
+  },
+  {
+   "slug": "compliance-query-resolution-assistant",
+   "name": "Compliance Query Resolution Assistant",
+   "tagline": "Resolves legal compliance queries, research, audits, and reports for compliance officers.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "customer-support"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "support-and-community"
+   ],
+   "path": "jobs/legal/security-and-compliance/compliance-query-resolution-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-query-resolution-assistant"
+  },
+  {
+   "slug": "compliance-reporting-automation-assistant",
+   "name": "Compliance Reporting Automation Assistant",
+   "tagline": "Automates compliance reporting from data extraction to audit prep and alerts.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/legal/data-analysis/compliance-reporting-automation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-reporting-automation-assistant"
   },
   {
    "slug": "compliance-specialist",
@@ -11738,6 +12017,62 @@
    "url": "https://templatesgrokbot.com/bot/compliance-specialist",
    "adapted_from": "https://www.aitmpl.com/component/agents/security/compliance-specialist",
    "source_license": "MIT"
+  },
+  {
+   "slug": "compliance-technology-integration-assistant",
+   "name": "Compliance Technology Integration Assistant",
+   "tagline": "Integrates compliance technology, automates monitoring, and manages risks for compliance analysts.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "cloud-and-devops",
+    "security-and-compliance"
+   ],
+   "path": "jobs/legal/data-analysis/compliance-technology-integration-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-technology-integration-assistant"
+  },
+  {
+   "slug": "compliance-training-material-creator",
+   "name": "Compliance Training Material Creator",
+   "tagline": "Creates compliance training materials from research to final review.",
+   "category": "education",
+   "jobs": [
+    "legal",
+    "education",
+    "human-resources",
+    "operations"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/legal/teaching-and-tutoring/compliance-training-material-creator.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-training-material-creator"
+  },
+  {
+   "slug": "compliance-training-program-developer",
+   "name": "Compliance Training Program Developer",
+   "tagline": "Builds and maintains compliance training programs for compliance analysts.",
+   "category": "education",
+   "jobs": [
+    "legal",
+    "education",
+    "human-resources",
+    "operations"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/teaching-and-tutoring/compliance-training-program-developer.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-training-program-developer"
   },
   {
    "slug": "composition-patterns",
@@ -12503,6 +12838,42 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "contract-drafting-assistant",
+   "name": "Contract Drafting Assistant",
+   "tagline": "Guides contract drafting, review, compliance, and management from template to execution.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/legal/research/contract-drafting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/contract-drafting-assistant"
+  },
+  {
+   "slug": "contract-query-resolution-assistant",
+   "name": "Contract Query Resolution Assistant",
+   "tagline": "Resolves contract queries from triage to follow-up, tracking every step and reporting metrics.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "customer-support",
+    "operations"
+   ],
+   "topics": [
+    "support-and-community",
+    "knowledge-management",
+    "productivity"
+   ],
+   "path": "jobs/legal/support-and-community/contract-query-resolution-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/contract-query-resolution-assistant"
+  },
+  {
    "slug": "contract-redliner",
    "name": "Contract Redliner",
    "tagline": "Reads contracts and produces clause-by-clause redline suggestions with replacement language and negotiation points.",
@@ -12530,12 +12901,69 @@
     "management"
    ],
    "topics": [
-    "knowledge-management"
+    "knowledge-management",
+    "productivity",
+    "office-tools"
    ],
    "path": "jobs/legal/knowledge-management/contract-renewal-radar.md",
    "url": "https://templatesgrokbot.com/bot/contract-renewal-radar",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-contract-renewal-radar",
    "source_license": "MIT"
+  },
+  {
+   "slug": "contract-report-builder",
+   "name": "Contract Report Builder",
+   "tagline": "Builds and runs automated contract reports from data to distribution.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity",
+    "office-tools"
+   ],
+   "path": "jobs/legal/data-analysis/contract-report-builder.md",
+   "url": "https://templatesgrokbot.com/bot/contract-report-builder"
+  },
+  {
+   "slug": "contract-repository-manager",
+   "name": "Contract Repository Manager",
+   "tagline": "Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "knowledge-management",
+    "productivity",
+    "security-and-compliance"
+   ],
+   "path": "jobs/legal/knowledge-management/contract-repository-manager.md",
+   "url": "https://templatesgrokbot.com/bot/contract-repository-manager"
+  },
+  {
+   "slug": "contract-risk-assessment-assistant",
+   "name": "Contract Risk Assessment Assistant",
+   "tagline": "Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "research",
+    "knowledge-management",
+    "security-and-compliance"
+   ],
+   "path": "jobs/legal/research/contract-risk-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/contract-risk-assessment-assistant"
   },
   {
    "slug": "contract-risk-reviewer",
@@ -12548,12 +12976,31 @@
     "operations"
    ],
    "topics": [
-    "research"
+    "research",
+    "security-and-compliance",
+    "sales-and-negotiation"
    ],
    "path": "jobs/legal/research/contract-risk-reviewer.md",
    "url": "https://templatesgrokbot.com/bot/contract-risk-reviewer",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/contract-analyzer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "contract-termination-guidance",
+   "name": "Contract Termination Guidance",
+   "tagline": "Guides contract administrators through termination processes with clear steps, documents, and risk checks.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research"
+   ],
+   "path": "jobs/legal/security-and-compliance/contract-termination-guidance.md",
+   "url": "https://templatesgrokbot.com/bot/contract-termination-guidance"
   },
   {
    "slug": "conversation-memory",
@@ -12773,6 +13220,23 @@
    "url": "https://templatesgrokbot.com/bot/cost-optimization",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "court-filing-paralegal-assistant",
+   "name": "Court Filing Paralegal Assistant",
+   "tagline": "Prepares, files, and tracks court documents while keeping deadlines and rules straight.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/court-filing-paralegal-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/court-filing-paralegal-assistant"
   },
   {
    "slug": "cover-letter-generator",
@@ -13067,7 +13531,9 @@
     "management"
    ],
    "topics": [
-    "support-and-community"
+    "support-and-community",
+    "productivity",
+    "knowledge-management"
    ],
    "path": "jobs/customer-support/support-and-community/crisis-management-playbook-builder.md",
    "url": "https://templatesgrokbot.com/bot/crisis-management-playbook-builder"
@@ -13142,6 +13608,24 @@
    "url": "https://templatesgrokbot.com/bot/cross-platform-contract-propagation-audit",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "cross-jurisdictional-compliance-assistant",
+   "name": "Cross-Jurisdictional Compliance Assistant",
+   "tagline": "Guides compliance analysts through cross-jurisdictional regulations, from research to audits.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "government"
+   ],
+   "topics": [
+    "research",
+    "security-and-compliance",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/cross-jurisdictional-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/cross-jurisdictional-compliance-assistant"
   },
   {
    "slug": "crossframe-casebook",
@@ -13562,6 +14046,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "custom-clause-generator",
+   "name": "Custom Clause Generator",
+   "tagline": "Generates, reviews, and manages custom contract clauses for Contract Administrators.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/legal/writing-and-content/custom-clause-generator.md",
+   "url": "https://templatesgrokbot.com/bot/custom-clause-generator"
+  },
+  {
    "slug": "customer-engagement-assistant",
    "name": "Customer Engagement Assistant",
    "tagline": "Personalized customer engagement for Customer Success Managers.",
@@ -13586,10 +14086,13 @@
    "category": "operations",
    "jobs": [
     "customer-support",
-    "operations"
+    "operations",
+    "marketing"
    ],
    "topics": [
-    "data-analysis"
+    "data-analysis",
+    "support-and-community",
+    "productivity"
    ],
    "path": "jobs/customer-support/data-analysis/customer-feedback-insight-assistant.md",
    "url": "https://templatesgrokbot.com/bot/customer-feedback-insight-assistant"
@@ -13677,7 +14180,8 @@
    "jobs": [
     "customer-support",
     "operations",
-    "management"
+    "management",
+    "sales"
    ],
    "topics": [
     "data-analysis",
@@ -13734,7 +14238,8 @@
    ],
    "topics": [
     "data-analysis",
-    "support-and-community"
+    "support-and-community",
+    "sales-and-negotiation"
    ],
    "path": "jobs/customer-support/data-analysis/customer-success-manager.md",
    "url": "https://templatesgrokbot.com/bot/customer-success-manager",
@@ -13752,7 +14257,9 @@
     "sales"
    ],
    "topics": [
-    "support-and-community"
+    "support-and-community",
+    "productivity",
+    "knowledge-management"
    ],
    "path": "jobs/customer-support/support-and-community/customer-success-response-manager.md",
    "url": "https://templatesgrokbot.com/bot/customer-success-response-manager"
@@ -14097,6 +14604,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "data-center-network-assistant",
+   "name": "Data Center Network Assistant",
+   "tagline": "Guides data center network design, configuration, security, and optimization for network engineers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/data-center-network-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/data-center-network-assistant"
+  },
+  {
    "slug": "data-cleaner",
    "name": "Data Cleaner",
    "tagline": "Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it.",
@@ -14210,7 +14733,8 @@
    "jobs": [
     "legal",
     "operations",
-    "it-and-development"
+    "it-and-development",
+    "government"
    ],
    "topics": [
     "security-and-compliance",
@@ -15459,6 +15983,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "deposition-preparation-assistant",
+   "name": "Deposition Preparation Assistant",
+   "tagline": "Prepares depositions from documents to strategy for paralegals.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/research/deposition-preparation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/deposition-preparation-assistant"
+  },
+  {
    "slug": "deprecation-and-migration",
    "name": "Deprecation And Migration",
    "tagline": "Remove old systems and migrate users safely to new implementations.",
@@ -16421,6 +16962,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "disaster-recovery-and-backup-planner",
+   "name": "Disaster Recovery and Backup Planner",
+   "tagline": "Designs and validates backup and disaster recovery plans for network engineers.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/disaster-recovery-and-backup-planner.md",
+   "url": "https://templatesgrokbot.com/bot/disaster-recovery-and-backup-planner"
+  },
+  {
    "slug": "discord-automation",
    "name": "Discord Automation",
    "tagline": "Automate Discord messages, roles, webhooks, and reactions via Rube MCP.",
@@ -16475,6 +17032,22 @@
    "adapted_from": "https://collectivebrain.de/en/skills/brand-voice-discover-brand/"
   },
   {
+   "slug": "discovery-management-assistant",
+   "name": "Discovery Management Assistant",
+   "tagline": "Organizes, reviews, and drafts discovery documents for paralegals.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/discovery-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/discovery-management-assistant"
+  },
+  {
    "slug": "dispatch",
    "name": "Dispatch",
    "tagline": "Delegate tasks to Codex CLI and Antigravity CLI from Claude Code with topic-aware sessions.",
@@ -16510,6 +17083,22 @@
    "url": "https://templatesgrokbot.com/bot/dispatching-parallel-agents",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "dispute-resolution-support-assistant",
+   "name": "Dispute Resolution Support Assistant",
+   "tagline": "Supports contract administrators through every stage of dispute resolution.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/research/dispute-resolution-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/dispute-resolution-support-assistant"
   },
   {
    "slug": "distribute-skill-to-all-agents",
@@ -17738,6 +18327,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "e-discovery-project-coordinator",
+   "name": "E-Discovery Project Coordinator",
+   "tagline": "Assists legal assistants with e-discovery tasks from collection to reporting.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/data-analysis/e-discovery-project-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/e-discovery-project-coordinator"
+  },
+  {
    "slug": "e2e-testing",
    "name": "E2e Testing",
    "tagline": "End-to-end testing with Playwright: browser automation, visual regression, cross-browser, CI/CD.",
@@ -18517,6 +19124,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "environmental-compliance-assistant",
+   "name": "Environmental Compliance Assistant",
+   "tagline": "Supports environmental compliance officers with research, documentation, audits, and reporting.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "government",
+    "operations"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/legal/security-and-compliance/environmental-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/environmental-compliance-assistant"
+  },
+  {
    "slug": "episode-orchestrator",
    "name": "Episode Orchestrator",
    "tagline": "Orchestrates multi-agent episode workflows from payload validation to final output.",
@@ -18741,6 +19366,42 @@
    "source_license": "MIT"
   },
   {
+   "slug": "ethical-compliance-assessment-assistant",
+   "name": "Ethical Compliance Assessment Assistant",
+   "tagline": "Assesses ethical compliance, manages risks, and documents actions for compliance officers.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/legal/security-and-compliance/ethical-compliance-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/ethical-compliance-assessment-assistant"
+  },
+  {
+   "slug": "ethical-compliance-monitor",
+   "name": "Ethical Compliance Monitor",
+   "tagline": "Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/security-and-compliance/ethical-compliance-monitor.md",
+   "url": "https://templatesgrokbot.com/bot/ethical-compliance-monitor"
+  },
+  {
    "slug": "ethical-hacking-methodology",
    "name": "Ethical Hacking Methodology",
    "tagline": "Guide users through the five-stage ethical hacking lifecycle from recon to reporting for authorized testing.",
@@ -18882,6 +19543,24 @@
    "url": "https://templatesgrokbot.com/bot/event-store-design",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "evidence-organization-assistant",
+   "name": "Evidence Organization Assistant",
+   "tagline": "Organizes, tracks, and prepares legal evidence for paralegals from collection to trial.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/legal/knowledge-management/evidence-organization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/evidence-organization-assistant"
   },
   {
    "slug": "evolution",
@@ -20399,10 +21078,13 @@
    "category": "engineering",
    "jobs": [
     "it-and-development",
-    "creatives"
+    "creatives",
+    "product-development"
    ],
    "topics": [
-    "coding"
+    "coding",
+    "design",
+    "security-and-compliance"
    ],
    "path": "jobs/it-and-development/coding/fixing-accessibility.md",
    "url": "https://templatesgrokbot.com/bot/fixing-accessibility",
@@ -21061,6 +21743,22 @@
    "url": "https://templatesgrokbot.com/bot/free-tool-strategy",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "freedom-to-operate-analyst",
+   "name": "Freedom to Operate Analyst",
+   "tagline": "Finds patent risks and opportunities before you commit to a product.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "it-and-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/legal/research/freedom-to-operate-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/freedom-to-operate-analyst"
   },
   {
    "slug": "freshdesk-automation",
@@ -25516,6 +26214,25 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "incident-response-planning-assistant",
+   "name": "Incident Response Planning Assistant",
+   "tagline": "Guides compliance analysts through incident response planning, from detection to review.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/security-and-compliance/incident-response-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/incident-response-planning-assistant"
+  },
+  {
    "slug": "incident-response-smart-fix",
    "name": "Incident Response Smart Fix",
    "tagline": "Diagnose and resolve production incidents with multi-agent orchestration.",
@@ -26010,6 +26727,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "international-patent-filing-assistant",
+   "name": "International Patent Filing Assistant",
+   "tagline": "Guides patent agents through international filing, from search to strategy.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "it-and-development"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/international-patent-filing-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/international-patent-filing-assistant"
+  },
+  {
    "slug": "internet-court",
    "name": "Internet Court",
    "tagline": "Routes agent-to-agent commerce tasks to identity, negotiation, escrow, payment, verification, and dispute layers.",
@@ -26218,6 +26953,56 @@
    "url": "https://templatesgrokbot.com/bot/iot-engineer",
    "adapted_from": "https://www.aitmpl.com/component/agents/programming-languages/iot-engineer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "iot-network-integration-assistant",
+   "name": "IoT Network Integration Assistant",
+   "tagline": "Guides IoT network integration from configuration to monitoring and security.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/iot-network-integration-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/iot-network-integration-assistant"
+  },
+  {
+   "slug": "ip-paralegal-assistant",
+   "name": "IP Paralegal Assistant",
+   "tagline": "Handles trademark, patent, copyright, and trade secret tasks for paralegals.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "product-development"
+   ],
+   "topics": [
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/ip-paralegal-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/ip-paralegal-assistant"
+  },
+  {
+   "slug": "ip-subnetting-assistant",
+   "name": "IP Subnetting Assistant",
+   "tagline": "Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "operations",
+    "education"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/ip-subnetting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/ip-subnetting-assistant"
   },
   {
    "slug": "isms-audit-expert",
@@ -26982,11 +27767,14 @@
    "tagline": "Builds and maintains your knowledge base and FAQ content from customer data.",
    "category": "operations",
    "jobs": [
-    "customer-support"
+    "customer-support",
+    "marketing",
+    "operations"
    ],
    "topics": [
     "knowledge-management",
-    "support-and-community"
+    "support-and-community",
+    "writing-and-content"
    ],
    "path": "jobs/customer-support/knowledge-management/knowledge-base-builder.md",
    "url": "https://templatesgrokbot.com/bot/knowledge-base-builder"
@@ -27695,6 +28483,111 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "legal-billing-and-timekeeping-assistant",
+   "name": "Legal Billing and Timekeeping Assistant",
+   "tagline": "Tracks billable time, expenses, and invoices for paralegals.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "finance"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools",
+    "data-analysis"
+   ],
+   "path": "jobs/legal/productivity/legal-billing-and-timekeeping-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/legal-billing-and-timekeeping-assistant"
+  },
+  {
+   "slug": "legal-billing-systems-assistant",
+   "name": "Legal Billing Systems Assistant",
+   "tagline": "Builds and refines legal billing and accounting systems for law firm operations.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "finance",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/legal/data-analysis/legal-billing-systems-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/legal-billing-systems-assistant"
+  },
+  {
+   "slug": "legal-compliance-review-assistant",
+   "name": "Legal Compliance Review Assistant",
+   "tagline": "Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research"
+   ],
+   "path": "jobs/legal/security-and-compliance/legal-compliance-review-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/legal-compliance-review-assistant"
+  },
+  {
+   "slug": "legal-document-drafter",
+   "name": "Legal Document Drafter",
+   "tagline": "Drafts, reviews, and researches legal documents for lawyers.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "writers",
+    "operations"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/writing-and-content/legal-document-drafter.md",
+   "url": "https://templatesgrokbot.com/bot/legal-document-drafter"
+  },
+  {
+   "slug": "legal-document-drafting-assistant",
+   "name": "Legal Document Drafting Assistant",
+   "tagline": "Drafts, reviews, and manages legal documents for paralegals.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/writing-and-content/legal-document-drafting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/legal-document-drafting-assistant"
+  },
+  {
+   "slug": "legal-education-and-training-assistant",
+   "name": "Legal Education and Training Assistant",
+   "tagline": "Legal education and training support for legal assistants, from research to career growth.",
+   "category": "education",
+   "jobs": [
+    "legal",
+    "education",
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/teaching-and-tutoring/legal-education-and-training-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/legal-education-and-training-assistant"
+  },
+  {
    "slug": "legal-intake",
    "name": "Legal Intake",
    "tagline": "Structures a messy client enquiry into a complete intake record and flags what is missing.",
@@ -27709,6 +28602,55 @@
    ],
    "path": "jobs/legal/research/legal-intake.md",
    "url": "https://templatesgrokbot.com/bot/legal-intake"
+  },
+  {
+   "slug": "legal-marketing-and-research-assistant",
+   "name": "Legal Marketing and Research Assistant",
+   "tagline": "Legal marketing and research assistant for legal assistants.",
+   "category": "marketing",
+   "jobs": [
+    "legal",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "social-media"
+   ],
+   "path": "jobs/legal/marketing-and-growth/legal-marketing-and-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/legal-marketing-and-research-assistant"
+  },
+  {
+   "slug": "legal-research-and-drafting-assistant",
+   "name": "Legal Research and Drafting Assistant",
+   "tagline": "Handles legal research, drafting, review, and citation checks for paralegals.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/research/legal-research-and-drafting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/legal-research-and-drafting-assistant"
+  },
+  {
+   "slug": "legal-research-assistant",
+   "name": "Legal Research Assistant",
+   "tagline": "Legal research and document support for contract administrators.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/research/legal-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/legal-research-assistant"
   },
   {
    "slug": "lemmaly",
@@ -27760,6 +28702,24 @@
    "url": "https://templatesgrokbot.com/bot/lex",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "licensing-and-royalty-manager",
+   "name": "Licensing and Royalty Manager",
+   "tagline": "Manages patent licensing and royalty workflows for patent agents.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "finance",
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "sales-and-negotiation",
+    "research"
+   ],
+   "path": "jobs/legal/data-analysis/licensing-and-royalty-manager.md",
+   "url": "https://templatesgrokbot.com/bot/licensing-and-royalty-manager"
   },
   {
    "slug": "lightning-architecture-review",
@@ -28089,6 +29049,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "litigation-support-assistant",
+   "name": "Litigation Support Assistant",
+   "tagline": "Manages litigation support tasks from document organization to trial preparation.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/legal/research/litigation-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/litigation-support-assistant"
+  },
+  {
    "slug": "llm-app-patterns",
    "name": "Llm App Patterns",
    "tagline": "Production patterns for RAG, agents, and LLMOps with architectural advice and code examples.",
@@ -28321,6 +29298,20 @@
    "url": "https://templatesgrokbot.com/bot/llms-maintainer",
    "adapted_from": "https://www.aitmpl.com/component/agents/ai-specialists/llms-maintainer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "load-balancing-advisor",
+   "name": "Load Balancing Advisor",
+   "tagline": "Explains and plans load balancing techniques for network engineers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/load-balancing-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/load-balancing-advisor"
   },
   {
    "slug": "load-testing-specialist",
@@ -33024,6 +34015,55 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "network-automation-workflow-designer",
+   "name": "Network Automation Workflow Designer",
+   "tagline": "Automates network monitoring, provisioning, security, troubleshooting, documentation, optimization, change, capacity, reporting, and compliance tasks.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "generative-code",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/network-automation-workflow-designer.md",
+   "url": "https://templatesgrokbot.com/bot/network-automation-workflow-designer"
+  },
+  {
+   "slug": "network-capacity-planner",
+   "name": "Network Capacity Planner",
+   "tagline": "Analyses network data, forecasts capacity, and plans upgrades for efficient scaling.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/data-analysis/network-capacity-planner.md",
+   "url": "https://templatesgrokbot.com/bot/network-capacity-planner"
+  },
+  {
+   "slug": "network-compliance-planner",
+   "name": "Network Compliance Planner",
+   "tagline": "Guides network engineers through compliance tasks with step-by-step plans and checks.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/network-compliance-planner.md",
+   "url": "https://templatesgrokbot.com/bot/network-compliance-planner"
+  },
+  {
    "slug": "network-engineer",
    "name": "Network Engineer",
    "tagline": "Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security.",
@@ -33042,6 +34082,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "network-monitoring-assistant",
+   "name": "Network Monitoring Assistant",
+   "tagline": "Network monitoring setup, analysis, and troubleshooting assistant for engineers.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/network-monitoring-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/network-monitoring-assistant"
+  },
+  {
    "slug": "network-security-protocol-advisor",
    "name": "Network Security Protocol Advisor",
    "tagline": "Explains, configures, and troubleshoots network security protocols for engineers.",
@@ -33050,7 +34107,8 @@
     "it-and-development"
    ],
    "topics": [
-    "security-and-compliance"
+    "security-and-compliance",
+    "cloud-and-devops"
    ],
    "path": "jobs/it-and-development/security-and-compliance/network-security-protocol-advisor.md",
    "url": "https://templatesgrokbot.com/bot/network-security-protocol-advisor"
@@ -33064,7 +34122,8 @@
     "it-and-development"
    ],
    "topics": [
-    "cloud-and-devops"
+    "cloud-and-devops",
+    "security-and-compliance"
    ],
    "path": "jobs/it-and-development/cloud-and-devops/network-troubleshooting-assistant.md",
    "url": "https://templatesgrokbot.com/bot/network-troubleshooting-assistant"
@@ -35455,6 +36514,147 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "patent-application-drafting-assistant",
+   "name": "Patent Application Drafting Assistant",
+   "tagline": "Drafts, reviews, and files patent applications with precision and compliance.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "it-and-development",
+    "product-development"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/patent-application-drafting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/patent-application-drafting-assistant"
+  },
+  {
+   "slug": "patent-classification-assistant",
+   "name": "Patent Classification Assistant",
+   "tagline": "Classifies patents, analyzes prior art, and manages classification workflows for patent agents.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "it-and-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/patent-classification-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/patent-classification-assistant"
+  },
+  {
+   "slug": "patent-client-communication-assistant",
+   "name": "Patent Client Communication Assistant",
+   "tagline": "Handles client communication for patent agents, from intake to follow-up.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "customer-support",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "writing-and-content",
+    "support-and-community",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/writing-and-content/patent-client-communication-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/patent-client-communication-assistant"
+  },
+  {
+   "slug": "patent-document-drafter",
+   "name": "Patent Document Drafter",
+   "tagline": "Drafts and manages patent documents, from applications to litigation support, for patent agents.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "it-and-development",
+    "product-development"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/writing-and-content/patent-document-drafter.md",
+   "url": "https://templatesgrokbot.com/bot/patent-document-drafter"
+  },
+  {
+   "slug": "patent-infringement-analysis-assistant",
+   "name": "Patent Infringement Analysis Assistant",
+   "tagline": "Patent infringement analysis assistant for patent agents, from prior art to litigation support.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "it-and-development",
+    "product-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/legal/research/patent-infringement-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/patent-infringement-analysis-assistant"
+  },
+  {
+   "slug": "patent-portfolio-analyst",
+   "name": "Patent Portfolio Analyst",
+   "tagline": "Analyzes patent portfolios for value, risk, and strategic opportunities.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "it-and-development",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/data-analysis/patent-portfolio-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/patent-portfolio-analyst"
+  },
+  {
+   "slug": "patent-research-assistant",
+   "name": "Patent Research Assistant",
+   "tagline": "Runs patent research tasks: searches, analyses, drafting support, and monitoring updates.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "it-and-development",
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/patent-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/patent-research-assistant"
+  },
+  {
+   "slug": "patent-valuation-analyst",
+   "name": "Patent Valuation Analyst",
+   "tagline": "Assists patent agents with prior art, market, portfolio, and valuation analyses.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/legal/data-analysis/patent-valuation-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/patent-valuation-analyst"
+  },
+  {
    "slug": "patentfig",
    "name": "Patentfig",
    "tagline": "Generate patent-office-compliant figures from text or images via the PatentFig API.",
@@ -36912,6 +38112,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "policy-development-support",
+   "name": "Policy Development Support",
+   "tagline": "Develops, reviews, and manages compliant policies with data-driven support.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "government",
+    "operations"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/security-and-compliance/policy-development-support.md",
+   "url": "https://templatesgrokbot.com/bot/policy-development-support"
+  },
+  {
    "slug": "polis-protocol",
    "name": "Polis Protocol",
    "tagline": "Coordinate multi-vendor AI agents as a self-improving team with learning routing and amendable rules.",
@@ -37894,6 +39112,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "prior-art-analysis-assistant",
+   "name": "Prior Art Analysis Assistant",
+   "tagline": "Streamlines prior art search, analysis, and reporting for patent agents.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "it-and-development",
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/prior-art-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/prior-art-analysis-assistant"
+  },
+  {
    "slug": "prisma-expert",
    "name": "Prisma Expert",
    "tagline": "Designs Prisma schemas, fixes migrations, and optimizes queries for your database layer.",
@@ -38115,7 +39351,9 @@
     "product-development"
    ],
    "topics": [
-    "data-analysis"
+    "data-analysis",
+    "productivity",
+    "research"
    ],
    "path": "jobs/customer-support/data-analysis/product-usage-analytics-assistant.md",
    "url": "https://templatesgrokbot.com/bot/product-usage-analytics-assistant"
@@ -38634,6 +39872,24 @@
    "url": "https://templatesgrokbot.com/bot/protect-mcp-governance",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "protected-disclosure-compass",
+   "name": "Protected Disclosure Compass",
+   "tagline": "Manages whistleblower policy, complaints, investigations, training, and compliance reporting.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "human-resources",
+    "operations"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/security-and-compliance/protected-disclosure-compass.md",
+   "url": "https://templatesgrokbot.com/bot/protected-disclosure-compass"
   },
   {
    "slug": "protocol-reverse",
@@ -39361,6 +40617,22 @@
    "url": "https://templatesgrokbot.com/bot/qoder-delegate",
    "adapted_from": "https://github.com/amElnagdy/delegate-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "qos-policy-designer",
+   "name": "QoS Policy Designer",
+   "tagline": "Designs and tunes QoS policies for network performance and user experience.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/qos-policy-designer.md",
+   "url": "https://templatesgrokbot.com/bot/qos-policy-designer"
   },
   {
    "slug": "quality-documentation-manager",
@@ -40267,6 +41539,24 @@
    "url": "https://templatesgrokbot.com/bot/recipe-rescuer"
   },
   {
+   "slug": "record-keeping-compliance-optimizer",
+   "name": "Record-Keeping Compliance Optimizer",
+   "tagline": "Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management",
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/legal/knowledge-management/record-keeping-compliance-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/record-keeping-compliance-optimizer"
+  },
+  {
    "slug": "recsys-pipeline-architect",
    "name": "Recsys Pipeline Architect",
    "tagline": "Design composable recommendation and ranking pipelines using the six-stage framework.",
@@ -40493,6 +41783,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "regulatory-affairs-assistant",
+   "name": "Regulatory Affairs Assistant",
+   "tagline": "Handles regulatory research, compliance tracking, reporting, audits, and training for legal assistants.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "government"
+   ],
+   "topics": [
+    "research",
+    "security-and-compliance",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/regulatory-affairs-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-affairs-assistant"
+  },
+  {
    "slug": "regulatory-affairs-head",
    "name": "Regulatory Affairs Head",
    "tagline": "Manages regulatory strategy and submissions for HealthTech and MedTech devices.",
@@ -40511,6 +41819,59 @@
    "source_license": "MIT"
   },
   {
+   "slug": "regulatory-communication-assistant",
+   "name": "Regulatory Communication Assistant",
+   "tagline": "Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "security-and-compliance"
+   ],
+   "path": "jobs/legal/research/regulatory-communication-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-communication-assistant"
+  },
+  {
+   "slug": "regulatory-filing-assistant",
+   "name": "Regulatory Filing Assistant",
+   "tagline": "Prepares, checks, and tracks regulatory filings for paralegals.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/regulatory-filing-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-filing-assistant"
+  },
+  {
+   "slug": "regulatory-research-assistant",
+   "name": "Regulatory Research Assistant",
+   "tagline": "Tracks, interprets, and applies regulatory changes for compliance officers.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "government"
+   ],
+   "topics": [
+    "research",
+    "security-and-compliance",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/regulatory-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-research-assistant"
+  },
+  {
    "slug": "regulatory-threat-model",
    "name": "Regulatory Threat Model",
    "tagline": "Runs server-enforced STRIDE and LINDDUN threat models with live CVE data and EU regulatory grounding.",
@@ -40525,6 +41886,24 @@
    "url": "https://templatesgrokbot.com/bot/regulatory-threat-model",
    "adapted_from": "https://www.aitmpl.com/component/skills/security/regulatory-threat-model",
    "source_license": "CC-BY-4.0"
+  },
+  {
+   "slug": "regulatory-update-analyst",
+   "name": "Regulatory Update Analyst",
+   "tagline": "Tracks regulatory changes, assesses impacts, and prepares compliance reports and training.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "research",
+    "security-and-compliance",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/regulatory-update-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-update-analyst"
   },
   {
    "slug": "rehabilitation-analyzer",
@@ -40944,10 +42323,12 @@
    "category": "creative",
    "jobs": [
     "creatives",
-    "product-development"
+    "product-development",
+    "it-and-development"
    ],
    "topics": [
-    "design"
+    "design",
+    "coding"
    ],
    "path": "jobs/creatives/design/responsive-web-design-assistant.md",
    "url": "https://templatesgrokbot.com/bot/responsive-web-design-assistant"
@@ -41355,6 +42736,42 @@
    "url": "https://templatesgrokbot.com/bot/riffkit",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "risk-assessment-and-analysis-assistant",
+   "name": "Risk Assessment and Analysis Assistant",
+   "tagline": "Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "insurance",
+    "finance",
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/legal/security-and-compliance/risk-assessment-and-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/risk-assessment-and-analysis-assistant"
+  },
+  {
+   "slug": "risk-assessment-workflow-assistant",
+   "name": "Risk Assessment Workflow Assistant",
+   "tagline": "Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "security-and-compliance"
+   ],
+   "path": "jobs/legal/data-analysis/risk-assessment-workflow-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/risk-assessment-workflow-assistant"
   },
   {
    "slug": "risk-management-specialist",
@@ -45922,6 +47339,25 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "spend-analysis-assistant",
+   "name": "Spend Analysis Assistant",
+   "tagline": "Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "finance",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "productivity"
+   ],
+   "path": "jobs/legal/data-analysis/spend-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/spend-analysis-assistant"
+  },
+  {
    "slug": "spline-3d-integration",
    "name": "Spline 3d Integration",
    "tagline": "Embed interactive 3D Spline scenes into web projects with React, Vue, or vanilla JS.",
@@ -47923,6 +49359,25 @@
    "source_license": "MIT"
   },
   {
+   "slug": "technology-trend-intelligence-assistant",
+   "name": "Technology Trend Intelligence Assistant",
+   "tagline": "Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents.",
+   "category": "research",
+   "jobs": [
+    "legal",
+    "it-and-development",
+    "executives-and-strategy",
+    "product-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/legal/research/technology-trend-intelligence-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/technology-trend-intelligence-assistant"
+  },
+  {
    "slug": "telegram-automation",
    "name": "Telegram Automation",
    "tagline": "Automate Telegram messaging, chat management, and bot commands via MCP tools.",
@@ -48892,6 +50347,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "third-party-compliance-evaluator",
+   "name": "Third-Party Compliance Evaluator",
+   "tagline": "Evaluates third-party compliance end-to-end, from documentation to audits.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "finance"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/legal/research/third-party-compliance-evaluator.md",
+   "url": "https://templatesgrokbot.com/bot/third-party-compliance-evaluator"
+  },
+  {
    "slug": "thread-writer",
    "name": "Thread Writer",
    "tagline": "Turns a long piece into an X thread that stands on its own instead of teasing a link.",
@@ -49713,6 +51186,23 @@
    "url": "https://templatesgrokbot.com/bot/triage",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "trial-preparation-paralegal-assistant",
+   "name": "Trial Preparation Paralegal Assistant",
+   "tagline": "Trial prep assistant for paralegals: research, organize, draft, and strategize.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/research/trial-preparation-paralegal-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/trial-preparation-paralegal-assistant"
   },
   {
    "slug": "trigger-dev",
@@ -51259,11 +52749,13 @@
    "category": "research",
    "jobs": [
     "product-development",
-    "creatives"
+    "creatives",
+    "marketing"
    ],
    "topics": [
     "research",
-    "design"
+    "design",
+    "data-analysis"
    ],
    "path": "jobs/product-development/research/ux-researcher-designer.md",
    "url": "https://templatesgrokbot.com/bot/ux-researcher-designer",
@@ -51445,6 +52937,24 @@
    "url": "https://templatesgrokbot.com/bot/vector-index-tuning",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "vendor-performance-analyst",
+   "name": "Vendor Performance Analyst",
+   "tagline": "Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management",
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/legal/data-analysis/vendor-performance-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/vendor-performance-analyst"
   },
   {
    "slug": "vendor-proposal-comparator",
@@ -52210,6 +53720,23 @@
    "adapted_from": "https://collectivebrain.de/en/skills/vopixsounds/"
   },
   {
+   "slug": "vpn-configuration-and-management-assistant",
+   "name": "VPN Configuration and Management Assistant",
+   "tagline": "Configures, troubleshoots, secures, and optimizes VPNs with step-by-step guidance.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/vpn-configuration-and-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/vpn-configuration-and-management-assistant"
+  },
+  {
    "slug": "vps-server-management",
    "name": "Vps Server Management",
    "tagline": "Manage authorized VPS hosts and server-side agents via SSH and cautious operations workflows.",
@@ -52896,6 +54423,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "whistleblower-policy-manager",
+   "name": "Whistleblower Policy Manager",
+   "tagline": "Manages whistleblower policies, reports, and investigations for compliance officers.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "human-resources",
+    "operations"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "support-and-community"
+   ],
+   "path": "jobs/legal/security-and-compliance/whistleblower-policy-manager.md",
+   "url": "https://templatesgrokbot.com/bot/whistleblower-policy-manager"
+  },
+  {
    "slug": "widget-based-design",
    "name": "Widget Based Design",
    "tagline": "Build modular, glanceable widget UI blocks for web and mobile apps.",
@@ -53163,10 +54707,12 @@
    "tagline": "Optimizes wireless networks through analysis, planning, and configuration recommendations.",
    "category": "engineering",
    "jobs": [
-    "it-and-development"
+    "it-and-development",
+    "operations"
    ],
    "topics": [
-    "cloud-and-devops"
+    "cloud-and-devops",
+    "security-and-compliance"
    ],
    "path": "jobs/it-and-development/cloud-and-devops/wireless-network-optimization-assistant.md",
    "url": "https://templatesgrokbot.com/bot/wireless-network-optimization-assistant"

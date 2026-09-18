@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 78 Grok Bot templates, 41 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 86 Grok Bot templates, 41 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,7 @@ Find sources, compare evidence and summarise what is known. 78 Grok Bot template
 | [Entropy Box](entropy-box.md) | Compiles embodied-AI knowledge into grounded, source-linked implementation paths. |
 | [Esm](../../science-and-research/research/esm.md) | Designs and analyzes proteins using ESM language models for sequence, structure, and function tasks. |
 | [Exa Search](exa-search.md) | Search the web semantically and discover similar content using the Exa API. You retrieve results; you do not summarize or analyze beyond what the API |
+| [Freedom to Operate Analyst](../../legal/research/freedom-to-operate-analyst.md) | Finds patent risks and opportunities before you commit to a product. |
 | [Geniml](../../science-and-research/research/geniml.md) | Trains machine learning models on genomic interval data from BED files for region and cell embeddings. |
 | [Gepetto](../../product-development/research/gepetto.md) | Creates detailed, sectionized implementation plans through research, stakeholder interviews, and multi-LLM review. |
 | [Get Available Resources](get-available-resources.md) | Detects system resources and recommends optimal computational strategies for scientific tasks. |
@@ -38,6 +39,7 @@ Find sources, compare evidence and summarise what is known. 78 Grok Bot template
 | [Hugging Face Papers](../../science-and-research/research/hugging-face-papers.md) | Fetch, summarize, and explore AI research papers from Hugging Face and arXiv. |
 | [Ii Commons](../../science-and-research/research/ii-commons.md) | Deterministic search across arXiv, PubMed/PMC, and US policy corpora with daily freshness cutoffs. |
 | [Indexing Issue Auditor](indexing-issue-auditor.md) | Scan and fix crawl, indexing, and site architecture issues. |
+| [International Patent Filing Assistant](../../legal/research/international-patent-filing-assistant.md) | Guides patent agents through international filing, from search to strategy. |
 | [Isms Audit Expert](isms-audit-expert.md) | Conducts ISO 27001 ISMS audits, manages audit programs, and assesses security controls for compliance verification. No certification decisions made. A |
 | [Lightning Architecture Review](lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 | [Longbridge Content](../../finance/research/longbridge-content.md) | Fetches stock news, filings, community topics, and SEC EDGAR analysis via Longbridge, no login, in your language. |
@@ -55,9 +57,14 @@ Find sources, compare evidence and summarise what is known. 78 Grok Bot template
 | [Openai Docs](openai-docs.md) | Answers build questions about OpenAI products using official docs with citations. |
 | [Oss Hunter](oss-hunter.md) | Find high-impact, mergeable open source issues in trending repos. |
 | [Parallel Agents](parallel-agents.md) | Orchestrates multiple specialized agents for comprehensive code analysis. |
+| [Patent Application Drafting Assistant](../../legal/research/patent-application-drafting-assistant.md) | Drafts, reviews, and files patent applications with precision and compliance. |
+| [Patent Classification Assistant](../../legal/research/patent-classification-assistant.md) | Classifies patents, analyzes prior art, and manages classification workflows for patent agents. |
+| [Patent Infringement Analysis Assistant](../../legal/research/patent-infringement-analysis-assistant.md) | Patent infringement analysis assistant for patent agents, from prior art to litigation support. |
+| [Patent Research Assistant](../../legal/research/patent-research-assistant.md) | Runs patent research tasks: searches, analyses, drafting support, and monitoring updates. |
 | [Pdb Database](../../science-and-research/research/pdb-database.md) | Search RCSB PDB for 3D structures by text, sequence, or shape, then retrieve coordinates and metadata. |
 | [Perplexity](../../science-and-research/research/perplexity.md) | Searches the web and answers questions using Perplexity AI. |
 | [Pi Web Search](pi-web-search.md) | Web search and fetch for Pi Agents using pi-web-access package. |
+| [Prior Art Analysis Assistant](../../legal/research/prior-art-analysis-assistant.md) | Streamlines prior art search, analysis, and reporting for patent agents. |
 | [Project Template Audit](project-skill-audit.md) | Audit project workflows and recommend capability updates or additions from session evidence. |
 | [Pubchem Database](../../science-and-research/research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Qms Audit Expert](../../operations/research/qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
@@ -74,6 +81,7 @@ Find sources, compare evidence and summarise what is known. 78 Grok Bot template
 | [Task Researcher](task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 | [Tavily Web](tavily-web.md) | Searches the web, extracts content, and crawls sites via Tavily API. |
 | [Technical Researcher](technical-researcher.md) | Analyzes code repositories, documentation, and technical implementations for informed decisions. |
+| [Technology Trend Intelligence Assistant](../../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Threat Intelligence](threat-intelligence.md) | Enrich IOCs and profile threats from public sources with verified evidence. |
 | [Tools Page Seo Optimizer](../../marketing/research/tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |
 | [Url Context Validator](url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |

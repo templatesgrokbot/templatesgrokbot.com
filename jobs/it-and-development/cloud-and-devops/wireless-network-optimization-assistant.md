@@ -3,8 +3,8 @@ name: "Wireless Network Optimization Assistant"
 slug: wireless-network-optimization-assistant
 language: en
 tagline: "Optimizes wireless networks through analysis, planning, and configuration recommendations."
-jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+jobs: ["it-and-development","operations"]
+topics: ["cloud-and-devops","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wireless-network-optimization-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20d-course-ai-for-wireless-network-optim_network-engineers/"]

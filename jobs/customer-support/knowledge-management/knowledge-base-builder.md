@@ -3,8 +3,8 @@ name: "Knowledge Base Builder"
 slug: knowledge-base-builder
 language: en
 tagline: "Builds and maintains your knowledge base and FAQ content from customer data."
-jobs: ["customer-support"]
-topics: ["knowledge-management","support-and-community"]
+jobs: ["customer-support","marketing","operations"]
+topics: ["knowledge-management","support-and-community","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/knowledge-base-builder
 built_on_lessons: ["https://completeaitraining.com/lesson/20f-course-ai-for-faq-and-knowledge-base_customer-success-managers/"]

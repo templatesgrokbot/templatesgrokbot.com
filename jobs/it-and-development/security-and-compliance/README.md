@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 169 Grok Bot templates, 165 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 172 Grok Bot templates, 166 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -77,6 +77,7 @@ Authorised security testing, audits and regulatory work. 169 Grok Bot templates,
 | [Identity Federation](identity-federation.md) | Test identity federation flows for signature, redirect, and token-confusion flaws |
 | [Idor Testing](idor-testing.md) | Guides systematic IDOR detection, exploitation, and remediation in web apps. |
 | [Incident Reporting Navigator](incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
+| [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Jfrog Sec](jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |
 | [K8s Security Policies](k8s-security-policies.md) | Implement defense-in-depth Kubernetes security with network policies, RBAC, and pod standards. |
 | [Linux Privilege Escalation](linux-privilege-escalation.md) | Guide systematic Linux privilege escalation from low-privilege shell to root. |
@@ -90,6 +91,7 @@ Authorised security testing, audits and regulatory work. 169 Grok Bot templates,
 | [Mobile Reverse](mobile-reverse.md) | Authorized Android/iOS app reverse engineering and security testing per OWASP MASTG. |
 | [Mtls Configuration](mtls-configuration.md) | Configure mutual TLS for zero-trust service-to-service communication. |
 | [Network 101](network-101.md) | Configure HTTP, HTTPS, SNMP, and SMB services in isolated lab environments for penetration testing practice. |
+| [Network Compliance Planner](network-compliance-planner.md) | Guides network engineers through compliance tasks with step-by-step plans and checks. |
 | [Network Security Protocol Advisor](network-security-protocol-advisor.md) | Explains, configures, and troubleshoots network security protocols for engineers. |
 | [Ot Ics](ot-ics.md) | Authorized OT/ICS security assessment with passive-first evaluation. |
 | [Patch Diff Exploit](patch-diff-exploit.md) | Diff vendor patches to locate vulnerability fixes and build N-day PoCs for authorized research. |
@@ -117,6 +119,7 @@ Authorised security testing, audits and regulatory work. 169 Grok Bot templates,
 | [Regulatory Threat Model](regulatory-threat-model.md) | Runs server-enforced STRIDE and LINDDUN threat models with live CVE data and EU regulatory grounding. |
 | [Repo Publication Auditor](repo-publication-auditor.md) | Audits what a repository exposes before it goes public, checking history not just the working tree. |
 | [Reverse Engineer](reverse-engineer.md) | Binary reverse engineering for authorized security analysis and CTF challenges. |
+| [Risk Assessment and Analysis Assistant](../../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
 | [Safety Alignment Nemo Guardrails](safety-alignment-nemo-guardrails.md) | Adds programmable safety rails to LLM applications at runtime. |
 | [Sast Configuration](sast-configuration.md) | Configure SAST tools, custom rules, and CI/CD integration for security scanning. |
 | [Scanning Tools](scanning-tools.md) | Guide users through security scanning with Nmap, Nessus, Burp Suite, Aircrack-ng, and Prowler. |

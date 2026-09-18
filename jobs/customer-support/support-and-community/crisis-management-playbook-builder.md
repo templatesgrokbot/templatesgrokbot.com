@@ -4,7 +4,7 @@ slug: crisis-management-playbook-builder
 language: en
 tagline: "Plans, executes, and evaluates crisis communication and customer success strategies."
 jobs: ["customer-support","operations","management"]
-topics: ["support-and-community"]
+topics: ["support-and-community","productivity","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/crisis-management-playbook-builder
 built_on_lessons: ["https://completeaitraining.com/lesson/20o-course-ai-for-crisis-management-stra_customer-success-managers/"]

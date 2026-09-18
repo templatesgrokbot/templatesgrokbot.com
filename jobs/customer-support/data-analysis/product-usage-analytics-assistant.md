@@ -4,7 +4,7 @@ slug: product-usage-analytics-assistant
 language: en
 tagline: "Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers."
 jobs: ["customer-support","operations","product-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","productivity","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/product-usage-analytics-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20l-course-ai-for-product-usage-analytic_customer-success-managers/"]

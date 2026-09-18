@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,286 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,316 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,17 +12,17 @@ Engineers, DevOps, security and IT teams. **2,286 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 993 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 325 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 335 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 175 |
-| [Security & Compliance](security-and-compliance/README.md) | 169 |
-| [Data Analysis](data-analysis/README.md) | 140 |
-| [Design](design/README.md) | 87 |
+| [Security & Compliance](security-and-compliance/README.md) | 172 |
+| [Data Analysis](data-analysis/README.md) | 145 |
+| [Design](design/README.md) | 88 |
 | [Generative Code](generative-code/README.md) | 86 |
-| [Research](research/README.md) | 78 |
+| [Research](research/README.md) | 86 |
 | [Productivity](productivity/README.md) | 69 |
-| [Knowledge Management](knowledge-management/README.md) | 37 |
+| [Knowledge Management](knowledge-management/README.md) | 39 |
 | [Prompt Engineering](prompt-engineering/README.md) | 33 |
-| [Writing & Content](writing-and-content/README.md) | 24 |
+| [Writing & Content](writing-and-content/README.md) | 25 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 17 |
 | [Generative Art](generative-art/README.md) | 12 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,286 ready-made Grok Bot templates*
 | [Upstash Redis](cloud-and-devops/upstash-redis.md) | Use Upstash Redis over HTTPS from serverless and edge runtimes. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 325 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 335 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Generative AI and LLM
 
@@ -95,7 +95,7 @@ Engineers, DevOps, security and IT teams. **2,286 ready-made Grok Bot templates*
 | [Ethical Hacking Methodology](security-and-compliance/ethical-hacking-methodology.md) | Guide users through the five-stage ethical hacking lifecycle from recon to reporting for authorized testing. |
 | [Smart Contract Auditor](security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
 
-[All 169 Security & Compliance templates →](security-and-compliance/README.md)
+[All 172 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Data Analysis
 
@@ -110,7 +110,7 @@ Engineers, DevOps, security and IT teams. **2,286 ready-made Grok Bot templates*
 | [Ai Dev Jobs Mcp](data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Nosql Specialist](data-analysis/nosql-specialist.md) | Designs and optimizes NoSQL databases for MongoDB, Redis, Cassandra, and key-value stores. |
 
-[All 140 Data Analysis templates →](data-analysis/README.md)
+[All 145 Data Analysis templates →](data-analysis/README.md)
 
 ## Design
 
@@ -125,7 +125,7 @@ Engineers, DevOps, security and IT teams. **2,286 ready-made Grok Bot templates*
 | [Design System](design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
 | [Ux Flow](../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 
-[All 87 Design templates →](design/README.md)
+[All 88 Design templates →](design/README.md)
 
 ## Generative Code
 
@@ -155,7 +155,7 @@ Engineers, DevOps, security and IT teams. **2,286 ready-made Grok Bot templates*
 | [Esm](../science-and-research/research/esm.md) | Designs and analyzes proteins using ESM language models for sequence, structure, and function tasks. |
 | [Lightning Architecture Review](research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 
-[All 78 Research templates →](research/README.md)
+[All 86 Research templates →](research/README.md)
 
 ## Productivity
 
@@ -185,7 +185,7 @@ Engineers, DevOps, security and IT teams. **2,286 ready-made Grok Bot templates*
 | [Atlas Ledger](knowledge-management/atlas-ledger.md) | Distills caught drift into WHEN/DON'T/INSTEAD clauses for Atlas.md. |
 | [Mesh Memory](knowledge-management/mesh-memory.md) | Self-hosted semantic memory for AI agents via MCP, saving and recalling worklogs, decisions, and notes by meaning. |
 
-[All 37 Knowledge Management templates →](knowledge-management/README.md)
+[All 39 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Prompt Engineering
 
@@ -215,7 +215,7 @@ Engineers, DevOps, security and IT teams. **2,286 ready-made Grok Bot templates*
 | [Se Technical Writer](writing-and-content/se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
 | [Tech Resume Optimizer](writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 
-[All 24 Writing & Content templates →](writing-and-content/README.md)
+[All 25 Writing & Content templates →](writing-and-content/README.md)
 
 ## Marketing & Growth
 

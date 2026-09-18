@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **45 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **51 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,23 +11,24 @@ Recruiting, onboarding and people operations. **45 ready-made Grok Bot templates
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 15 |
+| [Writing & Content](writing-and-content/README.md) | 16 |
 | [Data Analysis](data-analysis/README.md) | 9 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
 | [Productivity](productivity/README.md) | 5 |
 | [Research](research/README.md) | 4 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
+| [Security & Compliance](security-and-compliance/README.md) | 3 |
 | [Design](design/README.md) | 1 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
-| [Security & Compliance](security-and-compliance/README.md) | 1 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 
 ## Writing & Content
 
 | Template | What it does |
 |---|---|
 | [Academic Cv Builder](../education/writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
+| [Compliance Communication Planner](../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Cover Letter Generator](writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Cv Generator](writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [Employment Contract Templates](writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
@@ -87,6 +88,23 @@ Recruiting, onboarding and people operations. **45 ready-made Grok Bot templates
 | [People Data](../sales/research/people-data.md) | Research LinkedIn profiles and public business contacts via MCP. |
 | [Salary Negotiation Prep](research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
+| [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
+| [Interview Prep](../education/teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
+| [Legal Education and Training Assistant](../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Event Staffing Compliance](security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
+| [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
+| [Whistleblower Policy Manager](../legal/security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
+
 ## Design
 
 | Template | What it does |
@@ -110,17 +128,5 @@ Recruiting, onboarding and people operations. **45 ready-made Grok Bot templates
 | Template | What it does |
 |---|---|
 | [Workorai](sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Event Staffing Compliance](security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
-
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Interview Prep](../education/teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
 
 [← All job fields](../../README.md#browse-by-job) · [Human Resources on the website](https://templatesgrokbot.com/jobs/human-resources)

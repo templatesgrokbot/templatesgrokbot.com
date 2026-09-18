@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Operations
 
-Infrastructure, deployments, monitoring and incident response. 169 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 178 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -45,6 +45,7 @@ Infrastructure, deployments, monitoring and incident response. 169 Grok Bot temp
 | [Cloud Sql Basics](../../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Cloudflare Deploy](../../it-and-development/cloud-and-devops/cloudflare-deploy.md) | Deploys apps and infrastructure to Cloudflare Workers, Pages, and related services. |
 | [Cost Optimization](../../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
+| [Data Center Network Assistant](../../it-and-development/cloud-and-devops/data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
 | [Database](../../it-and-development/cloud-and-devops/database.md) | Adds Railway database services (Postgres, Redis, MySQL, MongoDB) and provides connection variable references. |
 | [Database Administrator](../../it-and-development/cloud-and-devops/database-administrator.md) | Manages database performance, high availability, and disaster recovery for production systems. |
 | [Database Cloud Optimization Cost Optimize](../../it-and-development/cloud-and-devops/database-cloud-optimization-cost-optimize.md) | Analyze cloud spend and cut costs while keeping performance and reliability. |
@@ -62,6 +63,7 @@ Infrastructure, deployments, monitoring and incident response. 169 Grok Bot temp
 | [Devops Iac Engineer](../../it-and-development/cloud-and-devops/devops-iac-engineer.md) | Designs and implements cloud infrastructure using Terraform, Kubernetes, and CI/CD pipelines. |
 | [Devops Incident Responder](../../it-and-development/cloud-and-devops/devops-incident-responder.md) | Responds to production incidents, diagnoses failures, and drives postmortems to prevent recurrence. |
 | [Devops Troubleshooter](../../it-and-development/cloud-and-devops/devops-troubleshooter.md) | Diagnoses production incidents using logs, metrics, and traces with systematic root cause analysis. |
+| [Disaster Recovery and Backup Planner](../../it-and-development/cloud-and-devops/disaster-recovery-and-backup-planner.md) | Designs and validates backup and disaster recovery plans for network engineers. |
 | [Distributed Debugging Debug Trace](../../it-and-development/cloud-and-devops/distributed-debugging-debug-trace.md) | Configure distributed tracing and debugging environments for multi-service systems. |
 | [Distributed Tracing](../../it-and-development/cloud-and-devops/distributed-tracing.md) | Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices. |
 | [Domain](../../it-and-development/cloud-and-devops/domain.md) | Manage custom and Railway-provided domains for your Railway services. |
@@ -90,6 +92,8 @@ Infrastructure, deployments, monitoring and incident response. 169 Grok Bot temp
 | [Incident Runbook Templates](incident-runbook-templates.md) | Generate incident response runbooks with detection, triage, and mitigation steps. |
 | [Infrastructure Skypilot](../../it-and-development/cloud-and-devops/infrastructure-skypilot.md) | Orchestrates ML workloads across clouds with automatic cost optimization. |
 | [Iot Engineer](../../it-and-development/cloud-and-devops/iot-engineer.md) | Designs and deploys large-scale IoT solutions from edge to cloud. |
+| [IoT Network Integration Assistant](../../it-and-development/cloud-and-devops/iot-network-integration-assistant.md) | Guides IoT network integration from configuration to monitoring and security. |
+| [IP Subnetting Assistant](../../it-and-development/cloud-and-devops/ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
 | [Istio Traffic Management](../../it-and-development/cloud-and-devops/istio-traffic-management.md) | Configure Istio traffic management for production service mesh deployments. |
 | [It Operations](../../it-and-development/cloud-and-devops/it-operations.md) | Manages IT infrastructure, monitoring, incident response, and service reliability for operations teams. |
 | [It Ops Orchestrator](../../it-and-development/cloud-and-devops/it-ops-orchestrator.md) | Coordinates multi-domain IT operations by routing work to specialized agents and merging results. |
@@ -116,7 +120,9 @@ Infrastructure, deployments, monitoring and incident response. 169 Grok Bot temp
 | [Neon Instagres](../../it-and-development/cloud-and-devops/neon-instagres.md) | Provisions temporary Neon Postgres databases on demand and manages their lifecycle. |
 | [Neon Migration Specialist](../../it-and-development/cloud-and-devops/neon-migration-specialist.md) | Safely test and apply Postgres schema changes using Neon branching, with zero-downtime. |
 | [Netlify Deploy](../../it-and-development/cloud-and-devops/netlify-deploy.md) | Deploys web projects to Netlify for preview or production after verifying authentication and linking. No unscheduled deploys. No site creation without |
+| [Network Automation Workflow Designer](../../it-and-development/cloud-and-devops/network-automation-workflow-designer.md) | Automates network monitoring, provisioning, security, troubleshooting, documentation, optimization, change, capacity, reporting, and compliance tasks. |
 | [Network Engineer](../../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
+| [Network Monitoring Assistant](../../it-and-development/cloud-and-devops/network-monitoring-assistant.md) | Network monitoring setup, analysis, and troubleshooting assistant for engineers. |
 | [Observability And Instrumentation](../../it-and-development/cloud-and-devops/observability-and-instrumentation.md) | Instruments production code so behavior is visible and diagnosable via telemetry. |
 | [Observability Engineer](../../it-and-development/cloud-and-devops/observability-engineer.md) | Designs and maintains production monitoring, logging, and tracing systems for reliability. |
 | [Observability Monitoring Monitor Setup](../../it-and-development/cloud-and-devops/observability-monitoring-monitor-setup.md) | Design and deploy comprehensive monitoring stacks with metrics, logs, and traces. |
@@ -140,6 +146,7 @@ Infrastructure, deployments, monitoring and incident response. 169 Grok Bot temp
 | [Powershell 7 Expert](../../it-and-development/cloud-and-devops/powershell-7-expert.md) | Builds cross-platform PowerShell 7 automation for cloud, CI/CD, and enterprise operations. |
 | [Pre Release Review](../../it-and-development/cloud-and-devops/pre-release-review.md) | Read-only pre-release review for deploy readiness, migrations, config, secrets, rollout order, rollback risk, and launch blockers. |
 | [Prometheus Configuration](../../it-and-development/cloud-and-devops/prometheus-configuration.md) | Configure Prometheus for metric collection, scrape targets, recording rules, and alert rules. |
+| [QoS Policy Designer](../../it-and-development/cloud-and-devops/qos-policy-designer.md) | Designs and tunes QoS policies for network performance and user experience. |
 | [Rclone Cli](../../it-and-development/cloud-and-devops/rclone-cli.md) | Terminal-based cloud file operations using rclone CLI. |
 | [Redis Cli](../../it-and-development/cloud-and-devops/redis-cli.md) | Redis CLI reference for querying, inspecting, and managing Redis from the command line. |
 | [Release Captain](../../it-and-development/cloud-and-devops/release-captain.md) | Runs the release checklist and refuses to skip the step everyone always skips. |
@@ -169,9 +176,11 @@ Infrastructure, deployments, monitoring and incident response. 169 Grok Bot temp
 | [Vercel Deploy](../../it-and-development/cloud-and-devops/vercel-deploy.md) | Deploys projects to Vercel as preview or production. |
 | [Vercel Deployment Specialist](../../it-and-development/cloud-and-devops/vercel-deployment-specialist.md) | Configures and deploys projects to Vercel with edge functions, performance tuning, and monitoring. |
 | [Vercel Optimize](../../it-and-development/cloud-and-devops/vercel-optimize.md) | Audit Vercel apps for cost and performance using metrics, config, and code scans. |
+| [VPN Configuration and Management Assistant](../../it-and-development/cloud-and-devops/vpn-configuration-and-management-assistant.md) | Configures, troubleshoots, secures, and optimizes VPNs with step-by-step guidance. |
 | [Vps Server Management](../../it-and-development/cloud-and-devops/vps-server-management.md) | Manage authorized VPS hosts and server-side agents via SSH and cautious operations workflows. |
 | [Web Scraper](../../it-and-development/cloud-and-devops/web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
 | [Windows Infra Admin](../../it-and-development/cloud-and-devops/windows-infra-admin.md) | Automates safe Windows Server, AD, DNS, DHCP, and GPO changes with pre-flight validation and rollback. |
+| [Wireless Network Optimization Assistant](../../it-and-development/cloud-and-devops/wireless-network-optimization-assistant.md) | Optimizes wireless networks through analysis, planning, and configuration recommendations. |
 | [Workflow Automation](../../it-and-development/cloud-and-devops/workflow-automation.md) | Designs durable workflow automations that survive failures and scale reliably. |
 | [Zapier Make Patterns](../../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Zoom Automation](../../it-and-development/cloud-and-devops/zoom-automation.md) | Automate Zoom meetings, webinars, recordings, and participant reports via Composio MCP. |

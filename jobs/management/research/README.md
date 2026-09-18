@@ -1,6 +1,6 @@
 # Research templates for Management
 
-Find sources, compare evidence and summarise what is known. 34 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 38 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,8 @@ Find sources, compare evidence and summarise what is known. 34 Grok Bot template
 | [Axiom](../../executives-and-strategy/research/axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
 | [Capability Ecosystem Sentinel](../../it-and-development/research/capability-ecosystem-sentinel.md) | Audits and evolves the capability ecosystem across 7 dimensions, generating health reports and recommendations. |
 | [Comprehensive Researcher](../../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
+| [Contract Drafting Assistant](../../legal/research/contract-drafting-assistant.md) | Guides contract drafting, review, compliance, and management from template to execution. |
+| [Contract Risk Assessment Assistant](../../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
 | [Contract Risk Reviewer](../../legal/research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
 | [Crossframe Review](../../science-and-research/research/crossframe-review.md) | CrossFrame Review — audits reasoning chains, evidence boundaries, and source-anchor integrity |
 | [Crossframe Structural Diagnosis](../../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
@@ -28,6 +30,8 @@ Find sources, compare evidence and summarise what is known. 34 Grok Bot template
 | [Project Template Audit](../../it-and-development/research/project-skill-audit.md) | Audit project workflows and recommend capability updates or additions from session evidence. |
 | [Qms Audit Expert](../../operations/research/qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
 | [Reading Pile](../../science-and-research/research/reading-pile.md) | Works through your saved-articles backlog and tells you which three are worth your time. |
+| [Regulatory Communication Assistant](../../legal/research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
+| [Regulatory Update Analyst](../../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
 | [Report Generator](../../science-and-research/research/report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |
 | [Research Analyst](../../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
 | [Research Coordinator](../../science-and-research/research/research-coordinator.md) | Plans and coordinates complex research tasks across multiple specialist researchers. |

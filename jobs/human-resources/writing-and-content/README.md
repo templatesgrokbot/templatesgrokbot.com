@@ -1,12 +1,13 @@
 # Writing & Content templates for Human Resources
 
-Plan, write and edit articles, copy and documentation. 15 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 16 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Academic Cv Builder](../../education/writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
+| [Compliance Communication Planner](../../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Cover Letter Generator](cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Cv Generator](cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [Employment Contract Templates](employment-contract-templates.md) | Generate employment contract templates with compliance checks. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **47 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **52 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,39 @@ Answering, routing and resolving customer requests. **47 ready-made Grok Bot tem
 
 | Kind of work | Templates |
 |---|---:|
+| [Support & Community](support-and-community/README.md) | 14 |
 | [Data Analysis](data-analysis/README.md) | 13 |
-| [Support & Community](support-and-community/README.md) | 12 |
 | [Productivity](productivity/README.md) | 8 |
 | [Coding](coding/README.md) | 3 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 2 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 2 |
+| [Research](research/README.md) | 2 |
+| [Writing & Content](writing-and-content/README.md) | 2 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
-| [Research](research/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
+| [Security & Compliance](security-and-compliance/README.md) | 1 |
 | [Social Media](social-media/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
-| [Writing & Content](writing-and-content/README.md) | 1 |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Client Communication Manager](../legal/support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
+| [Community Mod](../operations/support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
+| [Contract Query Resolution Assistant](../legal/support-and-community/contract-query-resolution-assistant.md) | Resolves contract queries from triage to follow-up, tracking every step and reporting metrics. |
+| [Crisis Management Playbook Builder](support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
+| [Customer Issue Resolution Assistant](support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
+| [Customer Success Response Manager](support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
+| [Customer Support](support-and-community/customer-support.md) | Resolves support tickets and creates help documentation from confirmed facts only. |
+| [Freshdesk Automation](support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
+| [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
+| [Helpdesk Automation](support-and-community/helpdesk-automation.md) | Browse helpdesk tickets, views, canned responses, and custom fields via Rube MCP. |
+| [Intercom Automation](support-and-community/intercom-automation.md) | Automate Intercom conversations, contacts, companies, and admins via Composio. |
+| [Returns Reverse Logistics](../operations/support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
+| [Support Triage](support-and-community/support-triage.md) | Reads the support queue, groups the duplicates, and surfaces the one bug behind twelve tickets. |
+| [Zendesk Automation](support-and-community/zendesk-automation.md) | Automate Zendesk ticket, user, and organization workflows with Rube MCP. |
 
 ## Data Analysis
 
@@ -42,23 +62,6 @@ Answering, routing and resolving customer requests. **47 ready-made Grok Bot tem
 | [Product Usage Analytics Assistant](data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
 | [Sentiment Insight Compiler](data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Shopify Review Triage](data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Community Mod](../operations/support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
-| [Crisis Management Playbook Builder](support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
-| [Customer Issue Resolution Assistant](support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
-| [Customer Success Response Manager](support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
-| [Customer Support](support-and-community/customer-support.md) | Resolves support tickets and creates help documentation from confirmed facts only. |
-| [Freshdesk Automation](support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
-| [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
-| [Helpdesk Automation](support-and-community/helpdesk-automation.md) | Browse helpdesk tickets, views, canned responses, and custom fields via Rube MCP. |
-| [Intercom Automation](support-and-community/intercom-automation.md) | Automate Intercom conversations, contacts, companies, and admins via Composio. |
-| [Returns Reverse Logistics](../operations/support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
-| [Support Triage](support-and-community/support-triage.md) | Reads the support queue, groups the duplicates, and surfaces the one bug behind twelve tickets. |
-| [Zendesk Automation](support-and-community/zendesk-automation.md) | Automate Zendesk ticket, user, and organization workflows with Rube MCP. |
 
 ## Productivity
 
@@ -95,23 +98,37 @@ Answering, routing and resolving customer requests. **47 ready-made Grok Bot tem
 | [Azure Ai Contentsafety Py](../it-and-development/generative-ai-and-llm/azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
 | [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
 
+## Research
+
+| Template | What it does |
+|---|---|
+| [Client Interview Prep Assistant](../legal/research/client-interview-prep-assistant.md) | Prepares legal assistants for client interviews with questions, agendas, and follow-ups. |
+| [Logistics Exception Management](../operations/research/logistics-exception-management.md) | Resolve freight exceptions, delays, damages, and carrier disputes with structured workflows. |
+
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Crossframe Dialogue](../writers/writing-and-content/crossframe-dialogue.md) | Short, structured replies for reader questions, editorial responses, and consultation-style answers. |
+| [Patent Client Communication Assistant](../legal/writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
+
 ## Knowledge Management
 
 | Template | What it does |
 |---|---|
 | [Knowledge Base Builder](knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
 
-## Research
-
-| Template | What it does |
-|---|---|
-| [Logistics Exception Management](../operations/research/logistics-exception-management.md) | Resolve freight exceptions, delays, damages, and carrier disputes with structured workflows. |
-
 ## Sales & Negotiation
 
 | Template | What it does |
 |---|---|
 | [Salesforce Automation](../sales/sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Compliance Query Resolution Assistant](../legal/security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
 
 ## Social Media
 
@@ -130,11 +147,5 @@ Answering, routing and resolving customer requests. **47 ready-made Grok Bot tem
 | Template | What it does |
 |---|---|
 | [Customer Training Content Developer](teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Crossframe Dialogue](../writers/writing-and-content/crossframe-dialogue.md) | Short, structured replies for reader questions, editorial responses, and consultation-style answers. |
 
 [← All job fields](../../README.md#browse-by-job) · [Customer Support on the website](https://templatesgrokbot.com/jobs/customer-support)

@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 96 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 97 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -47,6 +47,7 @@ Plan, prioritise and clear the recurring admin. 96 Grok Bot templates, 57 of the
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
 | [Jobgpt](../../human-resources/productivity/jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |
+| [Legal Billing and Timekeeping Assistant](../../legal/productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
 | [Mac Storage Cleaner](../../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 | [Markdown Rendering](../../it-and-development/productivity/markdown-rendering.md) | Open Markdown files reliably in cmux panes without blank rendering. |
 | [Markitdown](markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |

@@ -4,7 +4,7 @@ slug: network-troubleshooting-assistant
 language: en
 tagline: "Diagnose and resolve network issues with structured troubleshooting guidance and documentation support."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/network-troubleshooting-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20b-course-ai-for-troubleshooting-networ_network-engineers/"]

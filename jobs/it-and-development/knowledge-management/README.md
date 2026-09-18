@@ -1,6 +1,6 @@
 # Knowledge Management templates for IT and Development
 
-Notes, documents, PDFs and knowledge bases kept in order. 37 Grok Bot templates, 26 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 39 Grok Bot templates, 26 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 37 Grok Bot templates,
 | [Docs Search](docs-search.md) | Search auto-generated codebase docs for function signatures, API docs, class definitions, and code comments. |
 | [Documentation And Adrs](documentation-and-adrs.md) | Records the why behind architectural decisions and code changes. |
 | [Domain Modeling](domain-modeling.md) | Build and sharpen a project's domain model by resolving terminology, recording decisions, and cross-referencing code. |
+| [Evidence Organization Assistant](../../legal/knowledge-management/evidence-organization-assistant.md) | Organizes, tracks, and prepares legal evidence for paralegals from collection to trial. |
 | [Feature Tracking](feature-tracking.md) | Maintain durable feature-level memory across AI coding sessions with lightweight Markdown tracks. |
 | [Handoff](handoff.md) | Compacts a conversation into a handoff document for another agent. |
 | [Hig Project Context](../../creatives/knowledge-management/hig-project-context.md) | Create or update a shared Apple design context document for HIG capabilities. |
@@ -34,6 +35,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 37 Grok Bot templates,
 | [Moc Agent](../../operations/knowledge-management/moc-agent.md) | Creates and maintains Obsidian Maps of Content to keep your vault navigable. |
 | [Quality Documentation Manager](../../operations/knowledge-management/quality-documentation-manager.md) | Manages document control, change control, and regulatory documentation compliance for medical device organizations. |
 | [Read All Adrs](read-all-adrs.md) | Read all ADR files in a project to understand architectural decisions. |
+| [Record-Keeping Compliance Optimizer](../../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
 | [Review Agent](../../operations/knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
 | [Swarmvault](swarmvault.md) | Build and maintain a local-first knowledge vault from books, notes, code, and recurring sources. |
 | [Tag Agent](../../operations/knowledge-management/tag-agent.md) | Standardizes Obsidian tags to a hierarchical taxonomy, consolidates duplicates, and generates analysis reports. |

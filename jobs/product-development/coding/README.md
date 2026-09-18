@@ -1,6 +1,6 @@
 # Coding templates for Product Development
 
-Write, review, test and debug software. 397 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 398 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -150,6 +150,7 @@ Write, review, test and debug software. 397 Grok Bot templates, 2 of them filed 
 | [Feature Design Assistant](feature-design-assistant.md) | Turn ideas into fully formed designs and specs through structured collaborative dialogue. |
 | [Figma to Code](../../it-and-development/coding/figma-to-code.md) | Converts Figma designs into clean, semantic HTML/CSS or React code. |
 | [Filesystem Context](../../it-and-development/coding/filesystem-context.md) | Manage context via filesystem: offload, retrieve, and persist agent state on demand. |
+| [Fixing Accessibility](../../it-and-development/coding/fixing-accessibility.md) | Audit and fix HTML accessibility issues: ARIA, keyboard, focus, contrast, forms. |
 | [Fixing Motion Performance](../../it-and-development/coding/fixing-motion-performance.md) | Audit and fix animation jank by enforcing compositor-only motion and layout-safe patterns. |
 | [Flutter Go Reviewer](../../it-and-development/coding/flutter-go-reviewer.md) | Review pull request code changes for backend and frontend quality standards. |
 | [Formik Patterns](../../it-and-development/coding/formik-patterns.md) | Formik form handling with Yup validation patterns for React forms. |

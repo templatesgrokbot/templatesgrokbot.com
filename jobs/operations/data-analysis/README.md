@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 100 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 113 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Clean, query, chart and explain data. 100 Grok Bot templates, 31 of them filed i
 |---|---|
 | [Abc Xyz Segmentation](abc-xyz-segmentation.md) | Segment SKUs by value and demand variability, assign planning policies, and reallocate planner attention. |
 | [AI Readiness Assessor](../../executives-and-strategy/data-analysis/ai-readiness-assessor.md) | Assesses a business's AI readiness across six dimensions and produces a prioritized action report. |
+| [AML Due Diligence Drafter](../../legal/data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
 | [Analytics Tracking](../../it-and-development/data-analysis/analytics-tracking.md) | Set up, audit, and improve analytics tracking for reliable decision data. |
 | [Apify Brand Reputation Monitoring](../../marketing/data-analysis/apify-brand-reputation-monitoring.md) | Scrape reviews, ratings, and brand mentions from multiple platforms via Apify Actors. |
 | [Apify Lead Generation](../../sales/data-analysis/apify-lead-generation.md) | Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors. |
@@ -27,6 +28,12 @@ Clean, query, chart and explain data. 100 Grok Bot templates, 31 of them filed i
 | [Churn Prediction and Retention Assistant](../../customer-support/data-analysis/churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
 | [Churn Radar](../../sales/data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
 | [Client Health Dashboard](../../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
+| [Compliance Benchmarking Analyst](../../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
+| [Compliance Cost Analyst](../../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
+| [Compliance Monitoring Inspector](../../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
+| [Compliance Reporting Automation Assistant](../../legal/data-analysis/compliance-reporting-automation-assistant.md) | Automates compliance reporting from data extraction to audit prep and alerts. |
+| [Compliance Technology Integration Assistant](../../legal/data-analysis/compliance-technology-integration-assistant.md) | Integrates compliance technology, automates monitoring, and manages risks for compliance analysts. |
+| [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Customer Engagement Assistant](../../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
 | [Customer Feedback Insight Assistant](../../customer-support/data-analysis/customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |
 | [Customer Report Generator](../../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
@@ -37,6 +44,7 @@ Clean, query, chart and explain data. 100 Grok Bot templates, 31 of them filed i
 | [Data Feeds](data-feeds.md) | Extract structured JSON data from 40+ websites via Bright Data APIs. |
 | [Doordash Order Ledger](doordash-order-ledger.md) | Answers questions about DoorDash spending and ordering history from an audit log. |
 | [Dynatrace Expert](../../it-and-development/data-analysis/dynatrace-expert.md) | Analyzes Dynatrace observability and security data to investigate incidents, validate deployments, and triage errors within GitHub workflows. |
+| [E-Discovery Project Coordinator](../../legal/data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Elasticsearch Observability](../../it-and-development/data-analysis/elasticsearch-observability.md) | Debug code, optimize search, and remediate threats using live Elastic data. |
 | [Energy Procurement](energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
 | [Excel Analysis](../../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
@@ -54,6 +62,7 @@ Clean, query, chart and explain data. 100 Grok Bot templates, 31 of them filed i
 | [Junta Auctioneers](junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Knowledge Synthesizer](../../it-and-development/data-analysis/knowledge-synthesizer.md) | Extracts actionable patterns from agent interactions to enable organizational learning. |
 | [Kpi Dashboard Design](../../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
+| [Legal Billing Systems Assistant](../../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
 | [Medical Bill Auditor](../../finance/data-analysis/medical-bill-auditor.md) | Audits medical bills against insurance EOBs, finds errors, and drafts disputes. |
 | [Meeting Insights Analyzer](../../management/data-analysis/meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
 | [Mongodb Performance Advisor](../../it-and-development/data-analysis/mongodb-performance-advisor.md) | Analyze MongoDB performance and recommend query and index optimizations. |
@@ -65,6 +74,7 @@ Clean, query, chart and explain data. 100 Grok Bot templates, 31 of them filed i
 | [Monte Carlo Remediation](../../it-and-development/data-analysis/monte-carlo-remediation.md) | Investigate and fix data quality alerts using Monte Carlo MCP tools. |
 | [Monte Carlo Storage Cost Analysis](monte-carlo-storage-cost-analysis.md) | Analyze a data warehouse for stale, unused, or redundant tables to reduce storage costs. |
 | [Ms Sql Dba](../../it-and-development/data-analysis/ms-sql-dba.md) | Manage and maintain Microsoft SQL Server databases on demand. |
+| [Network Capacity Planner](../../it-and-development/data-analysis/network-capacity-planner.md) | Analyses network data, forecasts capacity, and plans upgrades for efficient scaling. |
 | [Occupational Health Analyzer](../../healthcare/data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |
 | [Otif Analysis](otif-analysis.md) | Audit delivery OTIF from order data, find metric gaps, and pinpoint where lateness concentrates. |
 | [Pdf Conversion Router](pdf-conversion-router.md) | Classifies PDFs then selects the best conversion route for faithful output. No universal defaults. Validates before delivery. Requires approval before |
@@ -79,6 +89,7 @@ Clean, query, chart and explain data. 100 Grok Bot templates, 31 of them filed i
 | [Production Scheduling](production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Quarterly Business Review Builder](../../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Rehabilitation Analyzer](../../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
+| [Risk Assessment Workflow Assistant](../../legal/data-analysis/risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |
 | [Risk Management Specialist](risk-management-specialist.md) | Manages ISO 14971 risk management files for medical devices throughout the product lifecycle. |
 | [Root Cause Pareto](root-cause-pareto.md) | Build a decision-grade Pareto for downtime, defects, complaints, or delays with unit discipline and exposure normalization. |
 | [Safety Stock Review](safety-stock-review.md) | Sizes or audits safety stock using the z*sigma*sqrt(LT) formula with empirical stress tests per variability class. |
@@ -89,6 +100,7 @@ Clean, query, chart and explain data. 100 Grok Bot templates, 31 of them filed i
 | [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Shopify Review Triage](../../customer-support/data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
 | [Simpy](../../it-and-development/data-analysis/simpy.md) | Builds and runs discrete-event simulations of systems with queues, resources, and timed processes. |
+| [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Spreadsheet](../../finance/data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
 | [Spreadsheet Merger](spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Startup Metrics Framework](../../executives-and-strategy/data-analysis/startup-metrics-framework.md) | Track and optimize startup KPIs from seed through Series A. |
@@ -99,6 +111,7 @@ Clean, query, chart and explain data. 100 Grok Bot templates, 31 of them filed i
 | [Text Comparison Validator](text-comparison-validator.md) | Compares extracted text to a reference file and reports all discrepancies. |
 | [Tune Monitor](tune-monitor.md) | Analyze Monte Carlo monitors and recommend config changes to reduce alert noise. |
 | [Vaex](../../it-and-development/data-analysis/vaex.md) | Process and analyze large tabular datasets that exceed available RAM using Vaex's out-of-core capabilities. |
+| [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Vendor Proposal Comparator](vendor-proposal-comparator.md) | Normalize vendor quotes and SOWs into a comparison matrix, compute true TCO, and surface negotiation leverage. |
 | [Video Content Extractor](../../it-and-development/data-analysis/video-content-extractor.md) | Extract text from MP4 videos via key frames and OCR into Markdown reports. |
 | [Warehouse](../../it-and-development/data-analysis/warehouse.md) | Plan and review read-only warehouse analysis with explicit scope and validation checks. No schema guessing or write operations. Hand off admin, pipeli |

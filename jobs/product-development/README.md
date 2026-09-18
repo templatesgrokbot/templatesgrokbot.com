@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **900 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **906 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,19 @@ Product managers and the teams that ship. **900 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Coding](coding/README.md) | 397 |
+| [Coding](coding/README.md) | 398 |
 | [Design](design/README.md) | 84 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
 | [Generative Code](generative-code/README.md) | 65 |
 | [Productivity](productivity/README.md) | 51 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 49 |
-| [Research](research/README.md) | 40 |
+| [Research](research/README.md) | 44 |
 | [Data Analysis](data-analysis/README.md) | 25 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 25 |
 | [Prompt Engineering](prompt-engineering/README.md) | 22 |
 | [Security & Compliance](security-and-compliance/README.md) | 19 |
+| [Writing & Content](writing-and-content/README.md) | 17 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
-| [Writing & Content](writing-and-content/README.md) | 16 |
 | [Generative Art](generative-art/README.md) | 9 |
 | [Self-Improvement](self-improvement/README.md) | 4 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
@@ -45,7 +45,7 @@ Product managers and the teams that ship. **900 ready-made Grok Bot templates** 
 | [Web3 Testing](../it-and-development/coding/web3-testing.md) | Write and run unit, integration, fuzz, and gas tests for Solidity smart contracts. |
 | [Fp Ts React](../it-and-development/coding/fp-ts-react.md) | Practical fp-ts patterns for React apps: state, forms, data fetching. |
 
-[All 397 Coding templates →](coding/README.md)
+[All 398 Coding templates →](coding/README.md)
 
 ## Design
 
@@ -135,7 +135,7 @@ Product managers and the teams that ship. **900 ready-made Grok Bot templates** 
 | [Rex](research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [Wiki Researcher](../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
 
-[All 40 Research templates →](research/README.md)
+[All 44 Research templates →](research/README.md)
 
 ## Data Analysis
 
@@ -197,6 +197,21 @@ Product managers and the teams that ship. **900 ready-made Grok Bot templates** 
 
 [All 19 Security & Compliance templates →](security-and-compliance/README.md)
 
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
+| [Seo Content Refresher](../marketing/writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
+| [Documentation Templates](../it-and-development/writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
+| [Doc Co-Authoring Workflow](../writers/writing-and-content/doc-coauthoring.md) | Guides users through co-authoring docs with context, refinement, and reader testing. |
+| [Reference Builder](../it-and-development/writing-and-content/reference-builder.md) | Generate exhaustive technical references and API documentation from code and specs. |
+| [App Store Changelog](../it-and-development/writing-and-content/app-store-changelog.md) | Generate App Store release notes from git history since the last tag. |
+| [UX Copy](../creatives/writing-and-content/design-ux-copy.md) | Write or review UX copy for buttons, errors, empty states, and toasts. |
+| [Documentation Engineer](../it-and-development/writing-and-content/documentation-engineer.md) | Architect and automate documentation systems that stay synchronized with code changes. |
+
+[All 17 Writing & Content templates →](writing-and-content/README.md)
+
 ## Knowledge Management
 
 | Template | What it does |
@@ -211,21 +226,6 @@ Product managers and the teams that ship. **900 ready-made Grok Bot templates** 
 | [User Thoughts](../it-and-development/knowledge-management/user-thoughts.md) | Persist user decisions and project constraints into a local memory base for reuse across sessions. |
 
 [All 16 Knowledge Management templates →](knowledge-management/README.md)
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
-| [Seo Content Refresher](../marketing/writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
-| [Documentation Templates](../it-and-development/writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
-| [Doc Co-Authoring Workflow](../writers/writing-and-content/doc-coauthoring.md) | Guides users through co-authoring docs with context, refinement, and reader testing. |
-| [Reference Builder](../it-and-development/writing-and-content/reference-builder.md) | Generate exhaustive technical references and API documentation from code and specs. |
-| [App Store Changelog](../it-and-development/writing-and-content/app-store-changelog.md) | Generate App Store release notes from git history since the last tag. |
-| [UX Copy](../creatives/writing-and-content/design-ux-copy.md) | Write or review UX copy for buttons, errors, empty states, and toasts. |
-| [Documentation Engineer](../it-and-development/writing-and-content/documentation-engineer.md) | Architect and automate documentation systems that stay synchronized with code changes. |
-
-[All 16 Writing & Content templates →](writing-and-content/README.md)
 
 ## Generative Art
 

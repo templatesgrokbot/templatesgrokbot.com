@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 132 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 134 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -99,11 +99,13 @@ Find sources, compare evidence and summarise what is known. 132 Grok Bot templat
 | [Opentargets Database](opentargets-database.md) | Queries Open Targets Platform for target-disease associations, drug discovery, and safety data. |
 | [Paper 2 Web](paper-2-web.md) | Converts academic papers into interactive websites, presentation videos, and conference posters. |
 | [Papers](papers-skill.md) | Search academic papers, inspect citations, download arXiv PDFs, and extract text. |
+| [Patent Research Assistant](../../legal/research/patent-research-assistant.md) | Runs patent research tasks: searches, analyses, drafting support, and monitoring updates. |
 | [Pdb Database](pdb-database.md) | Search RCSB PDB for 3D structures by text, sequence, or shape, then retrieve coordinates and metadata. |
 | [Peer Review](peer-review.md) | Systematically evaluate scientific manuscripts and grant proposals for rigor, reproducibility, and reporting standards. |
 | [Perplexity](perplexity.md) | Searches the web and answers questions using Perplexity AI. |
 | [Perplexity Search](perplexity-search.md) | Searches the web for current information and returns grounded answers with source citations. |
 | [Pi Web Search](../../it-and-development/research/pi-web-search.md) | Web search and fetch for Pi Agents using pi-web-access package. |
+| [Prior Art Analysis Assistant](../../legal/research/prior-art-analysis-assistant.md) | Streamlines prior art search, analysis, and reporting for patent agents. |
 | [Pubchem Database](pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Pubmed Database](pubmed-database.md) | Searches PubMed via E-utilities API for structured biomedical literature results. |
 | [Pyhealth](../../healthcare/research/pyhealth.md) | Build and deploy clinical ML models for EHR data, mortality prediction, and drug recommendation. |

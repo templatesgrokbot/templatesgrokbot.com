@@ -1,6 +1,6 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 54 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 55 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -59,6 +59,7 @@ Find sources, compare evidence and summarise what is known. 54 Grok Bot template
 | [Tools Page Seo Optimizer](tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |
 | [Trend Analyst](trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Ux Researcher](../../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
+| [Ux Researcher Designer](../../product-development/research/ux-researcher-designer.md) | Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships. |
 | [Web Media Getter](../../creatives/research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

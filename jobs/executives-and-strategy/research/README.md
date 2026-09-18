@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 35 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 36 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -38,6 +38,7 @@ Find sources, compare evidence and summarise what is known. 35 Grok Bot template
 | [Salary Negotiation Prep](../../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 | [SEO Competitive Analysis](../../marketing/research/seo-wettbewerbsanalyse.md) | Reverse-engineer ranking competitors to produce a content gap map, keyword steal list, and three pages to write first. |
 | [Startup Business Analyst Market Opportunity](startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Technology Trend Intelligence Assistant](../../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Term Sheet Reader](../../finance/research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
 | [Think Tank](think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
 | [Trend Analyst](../../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |

@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 87 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 88 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -71,6 +71,7 @@ Interfaces, brands, layouts and visual systems. 87 Grok Bot templates, 30 of the
 | [Premium Web Design](../../creatives/design/premium-web-design.md) | Generates award-quality React website components with unique, intentional design. |
 | [Radix Ui Design System](../../creatives/design/radix-ui-design-system.md) | Build accessible, unstyled React component libraries with Radix UI primitives. |
 | [Redesign Existing Projects](redesign-existing-projects.md) | Audit and upgrade existing UI with premium design fixes, no rewrites. |
+| [Responsive Web Design Assistant](../../creatives/design/responsive-web-design-assistant.md) | Guides UX/UI designers through every stage of responsive web design, from setup to maintenance. |
 | [Retro Design](../../creatives/design/retro-design.md) | Generate retro 60s-80s UI with warm muted colors, grain, and classic typography. |
 | [Retro Futurism](../../creatives/design/retro-futurism.md) | Generate retro-futurist UI with 1950s space-age aesthetics and atompunk vibes. |
 | [Soft Pastel](../../creatives/design/soft-pastel.md) | Implement soft pastel UI with desaturated colors, rounded edges, and airy spacing. |

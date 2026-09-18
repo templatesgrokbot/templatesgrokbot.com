@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **81 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **85 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Teachers, trainers and students. **81 ready-made Grok Bot templates** for this f
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 23 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 26 |
 | [Research](research/README.md) | 19 |
 | [Writing & Content](writing-and-content/README.md) | 12 |
 | [Coding](coding/README.md) | 5 |
@@ -22,6 +22,7 @@ Teachers, trainers and students. **81 ready-made Grok Bot templates** for this f
 | [Design](design/README.md) | 2 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 2 |
 | [Knowledge Management](knowledge-management/README.md) | 2 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Generative Code](generative-code/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
 
@@ -30,6 +31,8 @@ Teachers, trainers and students. **81 ready-made Grok Bot templates** for this f
 | Template | What it does |
 |---|---|
 | [Code Documentation Code Explain](teaching-and-tutoring/code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |
+| [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
+| [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 | [Crossframe Teach](teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
 | [Customer Training Content Developer](../customer-support/teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
 | [Demonstrate Understanding](teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
@@ -38,6 +41,7 @@ Teachers, trainers and students. **81 ready-made Grok Bot templates** for this f
 | [Geoffrey Hinton](teaching-and-tutoring/geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
 | [Interview Prep](teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
 | [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
+| [Legal Education and Training Assistant](../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
 | [Lesson Generator](teaching-and-tutoring/lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
 | [Lightning Factory Explainer](teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
 | [Microsoft Study Mode](teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
@@ -158,6 +162,12 @@ Teachers, trainers and students. **81 ready-made Grok Bot templates** for this f
 |---|---|
 | [Obsidian Markdown](knowledge-management/obsidian-markdown.md) | Create and edit Obsidian Flavored Markdown with wikilinks, callouts, and properties |
 | [Wiki Onboarding](../it-and-development/knowledge-management/wiki-onboarding.md) | Generate two onboarding documents for any codebase, from principal-level to zero-to-hero. |
+
+## Cloud & DevOps
+
+| Template | What it does |
+|---|---|
+| [IP Subnetting Assistant](../it-and-development/cloud-and-devops/ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
 
 ## Generative Code
 

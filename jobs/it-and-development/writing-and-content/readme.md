@@ -1,6 +1,6 @@
 # Writing & Content templates for IT and Development
 
-Plan, write and edit articles, copy and documentation. 24 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, write and edit articles, copy and documentation. 24 Grok Bot templates, 13
 | [Documentation Expert](documentation-expert.md) | Creates, improves, and maintains project documentation from code and specs. |
 | [Documentation Templates](documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
 | [Microsoft Learn Contributor](../../education/writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
+| [Patent Document Drafter](../../legal/writing-and-content/patent-document-drafter.md) | Drafts and manages patent documents, from applications to litigation support, for patent agents. |
 | [README](readme.md) | Generate thorough README documentation for any project. No code execution. No deployment. No production changes. All changes require your approval. |
 | [Reference Builder](reference-builder.md) | Generate exhaustive technical references and API documentation from code and specs. |
 | [Reference List Builder](../../human-resources/writing-and-content/reference-list-builder.md) | Formats professional reference lists and prepares reference materials for job applications. |

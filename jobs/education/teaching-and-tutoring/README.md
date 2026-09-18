@@ -1,12 +1,14 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 23 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 26 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Code Documentation Code Explain](code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |
+| [Compliance Training Material Creator](../../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
+| [Compliance Training Program Developer](../../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 | [Crossframe Teach](crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
 | [Customer Training Content Developer](../../customer-support/teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
 | [Demonstrate Understanding](demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
@@ -15,6 +17,7 @@ Explain, quiz and guide someone through a subject. 23 Grok Bot templates, 22 of 
 | [Geoffrey Hinton](geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
 | [Interview Prep](interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
 | [Learn](learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
+| [Legal Education and Training Assistant](../../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
 | [Lesson Generator](lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
 | [Lightning Factory Explainer](lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
 | [Microsoft Study Mode](microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |

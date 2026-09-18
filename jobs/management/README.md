@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **305 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **321 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,14 +13,14 @@ Team leads and project managers. **305 ready-made Grok Bot templates** for this 
 |---|---:|
 | [Productivity](productivity/README.md) | 92 |
 | [Coding](coding/README.md) | 44 |
-| [Research](research/README.md) | 34 |
-| [Data Analysis](data-analysis/README.md) | 33 |
-| [Knowledge Management](knowledge-management/README.md) | 18 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 12 |
+| [Research](research/README.md) | 38 |
+| [Data Analysis](data-analysis/README.md) | 37 |
+| [Knowledge Management](knowledge-management/README.md) | 20 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 13 |
+| [Security & Compliance](security-and-compliance/README.md) | 13 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
 | [Writing & Content](writing-and-content/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
-| [Security & Compliance](security-and-compliance/README.md) | 8 |
 | [Prompt Engineering](prompt-engineering/README.md) | 5 |
 | [Design](design/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 4 |
@@ -187,6 +187,8 @@ Team leads and project managers. **305 ready-made Grok Bot templates** for this 
 | [Axiom](../executives-and-strategy/research/axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
 | [Capability Ecosystem Sentinel](../it-and-development/research/capability-ecosystem-sentinel.md) | Audits and evolves the capability ecosystem across 7 dimensions, generating health reports and recommendations. |
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
+| [Contract Drafting Assistant](../legal/research/contract-drafting-assistant.md) | Guides contract drafting, review, compliance, and management from template to execution. |
+| [Contract Risk Assessment Assistant](../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
 | [Contract Risk Reviewer](../legal/research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
 | [Crossframe Review](../science-and-research/research/crossframe-review.md) | CrossFrame Review — audits reasoning chains, evidence boundaries, and source-anchor integrity |
 | [Crossframe Structural Diagnosis](../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
@@ -203,6 +205,8 @@ Team leads and project managers. **305 ready-made Grok Bot templates** for this 
 | [Project Template Audit](../it-and-development/research/project-skill-audit.md) | Audit project workflows and recommend capability updates or additions from session evidence. |
 | [Qms Audit Expert](../operations/research/qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
 | [Reading Pile](../science-and-research/research/reading-pile.md) | Works through your saved-articles backlog and tells you which three are worth your time. |
+| [Regulatory Communication Assistant](../legal/research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
+| [Regulatory Update Analyst](../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
 | [Report Generator](../science-and-research/research/report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |
 | [Research Analyst](../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
 | [Research Coordinator](../science-and-research/research/research-coordinator.md) | Plans and coordinates complex research tasks across multiple specialist researchers. |
@@ -227,6 +231,8 @@ Team leads and project managers. **305 ready-made Grok Bot templates** for this 
 | [Carrier Relationship Management](../operations/data-analysis/carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
 | [Churn Autopsy Analyst](../customer-support/data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
 | [Client Health Dashboard](../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
+| [Compliance Monitoring Inspector](../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
+| [Contract Report Builder](../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Customer Report Generator](../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
 | [Dashboard Design](../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
 | [Developer Churn](../product-development/data-analysis/developer-churn.md) | Analyze developer churn and design retention strategies. |
@@ -248,9 +254,11 @@ Team leads and project managers. **305 ready-made Grok Bot templates** for this 
 | [Rehabilitation Analyzer](../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
 | [Root Cause Pareto](../operations/data-analysis/root-cause-pareto.md) | Build a decision-grade Pareto for downtime, defects, complaints, or delays with unit discipline and exposure normalization. |
 | [Safety Stock Review](../operations/data-analysis/safety-stock-review.md) | Sizes or audits safety stock using the z*sigma*sqrt(LT) formula with empirical stress tests per variability class. |
+| [Spend Analysis Assistant](../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Trading Ledger](../finance/data-analysis/trading-ledger.md) | Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L. |
+| [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Normalize vendor quotes and SOWs into a comparison matrix, compute true TCO, and surface negotiation leverage. |
 | [Weekly Ops Report](data-analysis/weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |
 
@@ -259,6 +267,7 @@ Team leads and project managers. **305 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Adr Generator](../it-and-development/knowledge-management/adr-generator.md) | Formalizes technical decisions into structured Architectural Decision Records. |
+| [Amendment and Variation Tracker](../legal/knowledge-management/amendment-and-variation-tracker.md) | Tracks contract amendments and variations from log to approval, with alerts and reports. |
 | [Atlas Ledger](../it-and-development/knowledge-management/atlas-ledger.md) | Distills caught drift into WHEN/DON'T/INSTEAD clauses for Atlas.md. |
 | [Brain To Docs](../it-and-development/knowledge-management/brain-to-docs.md) | Interview users to extract project vision and decisions into README and ADR docs. |
 | [Capa Officer](../operations/knowledge-management/capa-officer.md) | Manage CAPA records from initiation to closure, tracking root cause analysis and effectiveness verification. |
@@ -267,6 +276,7 @@ Team leads and project managers. **305 ready-made Grok Bot templates** for this 
 | [Context Management Context Restore](../it-and-development/knowledge-management/context-management-context-restore.md) | Restore project context from saved handoffs and current evidence. |
 | [Context Management Context Save](../it-and-development/knowledge-management/context-management-context-save.md) | Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks. |
 | [Contract Renewal Radar](../legal/knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
+| [Contract Repository Manager](../legal/knowledge-management/contract-repository-manager.md) | Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access. |
 | [Crossframe Casebook](../operations/knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
 | [Domain Modeling](../it-and-development/knowledge-management/domain-modeling.md) | Build and sharpen a project's domain model by resolving terminology, recording decisions, and cross-referencing code. |
 | [Notion Knowledge Capture](../operations/knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
@@ -293,6 +303,25 @@ Team leads and project managers. **305 ready-made Grok Bot templates** for this 
 | [Itil Expert](../it-and-development/cloud-and-devops/itil-expert.md) | Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management. |
 | [On Call Handoff Patterns](../it-and-development/cloud-and-devops/on-call-handoff-patterns.md) | Structured on-call shift handoffs with incident context and continuity. |
 | [Sshepherd](../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
+| [VPN Configuration and Management Assistant](../it-and-development/cloud-and-devops/vpn-configuration-and-management-assistant.md) | Configures, troubleshoots, secures, and optimizes VPNs with step-by-step guidance. |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Compliance Audit Preparation Assistant](../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
+| [Contract Termination Guidance](../legal/security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
+| [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
+| [Ethical Compliance Assessment Assistant](../legal/security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
+| [Ethical Compliance Monitor](../legal/security-and-compliance/ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
+| [Google Cloud Waf Security](../it-and-development/security-and-compliance/google-cloud-waf-security.md) | Evaluates Google Cloud workloads against the Well-Architected Framework security pillar and gives actionable recommendations. |
+| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Quality Manager Qmr](../operations/security-and-compliance/quality-manager-qmr.md) | Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies. |
+| [Quality Manager Qms Iso13485](../operations/security-and-compliance/quality-manager-qms-iso13485.md) | Helps you implement and maintain an ISO 13485 QMS for medical devices. |
+| [Quality Nonconformance](../operations/security-and-compliance/quality-nonconformance.md) | Manage non-conformance lifecycle, root cause analysis, and CAPA in regulated manufacturing. |
+| [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
+| [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
+| [Varlock Claude](../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
 
 ## Self-Improvement
 
@@ -343,19 +372,6 @@ Team leads and project managers. **305 ready-made Grok Bot templates** for this 
 | [Pptx Deck Creation](../marketing/office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
 | [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
 | [Word Document Creation](../operations/office-tools/anthropic-docx.md) | Generate formatted Word documents with TOC, headers, page numbers, and letterhead from structured input. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
-| [Google Cloud Waf Security](../it-and-development/security-and-compliance/google-cloud-waf-security.md) | Evaluates Google Cloud workloads against the Well-Architected Framework security pillar and gives actionable recommendations. |
-| [Quality Manager Qmr](../operations/security-and-compliance/quality-manager-qmr.md) | Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies. |
-| [Quality Manager Qms Iso13485](../operations/security-and-compliance/quality-manager-qms-iso13485.md) | Helps you implement and maintain an ISO 13485 QMS for medical devices. |
-| [Quality Nonconformance](../operations/security-and-compliance/quality-nonconformance.md) | Manage non-conformance lifecycle, root cause analysis, and CAPA in regulated manufacturing. |
-| [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
-| [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
-| [Varlock Claude](../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
 
 ## Prompt Engineering
 

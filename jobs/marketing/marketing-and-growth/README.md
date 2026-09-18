@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 128 Grok Bot templates, 123 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 129 Grok Bot templates, 123 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -55,6 +55,7 @@ Campaigns, ads, conversion and launch plans. 128 Grok Bot templates, 123 of them
 | [Klaviyo Automation](klaviyo-automation.md) | Automate Klaviyo email/SMS campaign management, inspection, and monitoring. |
 | [Launch Strategy](launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
 | [Lead Magnets](lead-magnets.md) | Plan lead magnets that capture emails and convert subscribers. |
+| [Legal Marketing and Research Assistant](../../legal/marketing-and-growth/legal-marketing-and-research-assistant.md) | Legal marketing and research assistant for legal assistants. |
 | [Local Legal Seo Audit](local-legal-seo-audit.md) | Audit and improve local SEO for law firms, attorneys, and legal professionals. |
 | [Local SEO Audit](local-seo-audit.md) | Audits local ranking pillars and prescribes the five highest-impact fixes for a business. |
 | [Loss Aversion Designer](loss-aversion-designer.md) | Frame messages using loss aversion to drive action without fear-mongering. |

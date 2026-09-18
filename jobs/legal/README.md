@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **45 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **120 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,39 +11,19 @@ Contracts, research, compliance and review. **45 ready-made Grok Bot templates**
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 19 |
-| [Research](research/README.md) | 14 |
-| [Knowledge Management](knowledge-management/README.md) | 3 |
-| [Writing & Content](writing-and-content/README.md) | 3 |
-| [Data Analysis](data-analysis/README.md) | 2 |
+| [Research](research/README.md) | 44 |
+| [Security & Compliance](security-and-compliance/README.md) | 32 |
+| [Data Analysis](data-analysis/README.md) | 17 |
+| [Writing & Content](writing-and-content/README.md) | 9 |
+| [Knowledge Management](knowledge-management/README.md) | 7 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 3 |
+| [Support & Community](support-and-community/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Art](generative-art/README.md) | 1 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Ai Ethics Advisor](../it-and-development/security-and-compliance/ai-ethics-advisor.md) | Audits AI systems for bias, fairness, and regulatory compliance before deployment. |
-| [Akf Trust Metadata](../it-and-development/security-and-compliance/akf-trust-metadata.md) | Stamp, inspect, and audit AI file provenance and trust metadata for compliance. |
-| [Check Identity Pack](../operations/security-and-compliance/check-identity-pack.md) | Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing. |
-| [Compliance Auditor](../it-and-development/security-and-compliance/compliance-auditor.md) | Audits compliance across GDPR, HIPAA, SOC 2, PCI DSS, and ISO frameworks. |
-| [Compliance Specialist](security-and-compliance/compliance-specialist.md) | Assesses compliance gaps and prepares audit evidence for regulatory frameworks. |
-| [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
-| [Data Privacy Compliance](security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
-| [Docs Generator](../it-and-development/security-and-compliance/docs-generator.md) | Generate structured security reports from completed analysis with evidence-backed templates. |
-| [Event Staffing Compliance](../human-resources/security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
-| [Fda Consultant Specialist](../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
-| [Fda Medtech Compliance Auditor](security-and-compliance/fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |
-| [Gdpr Data Handling](../it-and-development/security-and-compliance/gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
-| [Gdpr Dsgvo Expert](security-and-compliance/gdpr-dsgvo-expert.md) | Advises on GDPR/DSGVO compliance, conducts privacy impact assessments, and audits data protection practices. |
-| [Incident Reporting Navigator](../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
-| [Privacy By Design](../it-and-development/security-and-compliance/privacy-by-design.md) | Build apps with built-in privacy protections from the start. |
-| [Se Responsible Ai Code](../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
-| [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
-| [Security Compliance Compliance Check](../it-and-development/security-and-compliance/security-compliance-compliance-check.md) | Audits software systems against GDPR, HIPAA, SOC2, PCI-DSS and guides remediation. |
-| [Verify Document](../operations/security-and-compliance/verify-document.md) | Check PDFs and images for tampering signals before relying on them. |
+| [Productivity](productivity/README.md) | 1 |
 
 ## Research
 
@@ -51,41 +31,148 @@ Contracts, research, compliance and review. **45 ready-made Grok Bot templates**
 |---|---|
 | [Auction Notice Analyst](research/auction-notice-analyst.md) | Analyzes judicial and extrajudicial auction notices, flags hidden risks, and rates the opportunity. |
 | [Brazilian Legal Advisor](research/specialist-attorney.md) | Specialist attorney in all areas of Brazilian law. |
+| [Brief Counsel Legal Research](research/brief-counsel-legal-research.md) | Handles legal research tasks from case analysis to citation checks and drafting support. |
+| [Case Law Research Assistant](research/case-law-research-assistant.md) | Find, analyze, and organize case law for your legal research and memos. |
+| [Client Interview Prep Assistant](research/client-interview-prep-assistant.md) | Prepares legal assistants for client interviews with questions, agendas, and follow-ups. |
+| [Compliance Docket Analyst](research/compliance-docket-analyst.md) | Regulatory filing assistant for compliance analysts: research, draft, validate, track, and submit compliant documents. |
+| [Contract Drafting Assistant](research/contract-drafting-assistant.md) | Guides contract drafting, review, compliance, and management from template to execution. |
+| [Contract Risk Assessment Assistant](research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
 | [Contract Risk Reviewer](research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
+| [Court Filing Paralegal Assistant](research/court-filing-paralegal-assistant.md) | Prepares, files, and tracks court documents while keeping deadlines and rules straight. |
 | [Criminal Defense Lawyer](research/criminal-defense-lawyer.md) | Specialized in Maria da Penha Law and Brazilian criminal law. Provides legal guidance on domestic violence, protective measures, and criminal procedure. |
+| [Cross-Jurisdictional Compliance Assistant](research/cross-jurisdictional-compliance-assistant.md) | Guides compliance analysts through cross-jurisdictional regulations, from research to audits. |
 | [Crossframe Debate](../education/research/crossframe-debate.md) | Analyze propositions, debate structures, and withdrawal conditions using CrossFrame. |
 | [Crossframe Public](../government/research/crossframe-public.md) | Analyze public issues, platform governance, and institutional compliance with evidence boundaries. |
 | [Customs Trade Compliance](../operations/research/customs-trade-compliance.md) | Classify goods, manage customs docs, screen parties, and optimize duties across US, EU, UK, and APAC. |
+| [Deposition Preparation Assistant](research/deposition-preparation-assistant.md) | Prepares depositions from documents to strategy for paralegals. |
+| [Discovery Management Assistant](research/discovery-management-assistant.md) | Organizes, reviews, and drafts discovery documents for paralegals. |
+| [Dispute Resolution Support Assistant](research/dispute-resolution-support-assistant.md) | Supports contract administrators through every stage of dispute resolution. |
+| [Freedom to Operate Analyst](research/freedom-to-operate-analyst.md) | Finds patent risks and opportunities before you commit to a product. |
+| [International Patent Filing Assistant](research/international-patent-filing-assistant.md) | Guides patent agents through international filing, from search to strategy. |
+| [IP Paralegal Assistant](research/ip-paralegal-assistant.md) | Handles trademark, patent, copyright, and trade secret tasks for paralegals. |
 | [Lease Reader](research/lease-reader.md) | Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on. |
 | [Legal Auction Analyst](research/legal-auction-analyst.md) | Analyzes nullities, family homestead and fiduciary alienation in real estate auctions under the CPC and Law 9.514/97. |
 | [Legal Intake](research/legal-intake.md) | Structures a messy client enquiry into a complete intake record and flags what is missing. |
+| [Legal Research and Drafting Assistant](research/legal-research-and-drafting-assistant.md) | Handles legal research, drafting, review, and citation checks for paralegals. |
+| [Legal Research Assistant](research/legal-research-assistant.md) | Legal research and document support for contract administrators. |
 | [Lex](research/lex.md) | Ground legal drafting in verified government references across US, EU, and CA jurisdictions. |
+| [Litigation Support Assistant](research/litigation-support-assistant.md) | Manages litigation support tasks from document organization to trial preparation. |
 | [Mdr 745 Specialist](../operations/research/mdr-745-specialist.md) | Guides medical device manufacturers through EU MDR 2017/745 compliance, from classification to post-market surveillance. |
+| [Patent Application Drafting Assistant](research/patent-application-drafting-assistant.md) | Drafts, reviews, and files patent applications with precision and compliance. |
+| [Patent Classification Assistant](research/patent-classification-assistant.md) | Classifies patents, analyzes prior art, and manages classification workflows for patent agents. |
+| [Patent Infringement Analysis Assistant](research/patent-infringement-analysis-assistant.md) | Patent infringement analysis assistant for patent agents, from prior art to litigation support. |
+| [Patent Research Assistant](research/patent-research-assistant.md) | Runs patent research tasks: searches, analyses, drafting support, and monitoring updates. |
+| [Prior Art Analysis Assistant](research/prior-art-analysis-assistant.md) | Streamlines prior art search, analysis, and reporting for patent agents. |
+| [Regulatory Affairs Assistant](research/regulatory-affairs-assistant.md) | Handles regulatory research, compliance tracking, reporting, audits, and training for legal assistants. |
+| [Regulatory Communication Assistant](research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
+| [Regulatory Filing Assistant](research/regulatory-filing-assistant.md) | Prepares, checks, and tracks regulatory filings for paralegals. |
+| [Regulatory Research Assistant](research/regulatory-research-assistant.md) | Tracks, interprets, and applies regulatory changes for compliance officers. |
+| [Regulatory Update Analyst](research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
 | [Screen Adverse Media](../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
+| [Technology Trend Intelligence Assistant](research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
+| [Third-Party Compliance Evaluator](research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
+| [Trial Preparation Paralegal Assistant](research/trial-preparation-paralegal-assistant.md) | Trial prep assistant for paralegals: research, organize, draft, and strategize. |
 | [Uspto Database](research/uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |
 
-## Knowledge Management
+## Security & Compliance
 
 | Template | What it does |
 |---|---|
-| [Contract Renewal Radar](knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
-| [Crossframe Casebook](../operations/knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
-| [Data Room Builder](../finance/knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Contract Redliner](writing-and-content/contract-redliner.md) | Reads contracts and produces clause-by-clause redline suggestions with replacement language and negotiation points. |
-| [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
-| [Legal Advisor](writing-and-content/legal-advisor.md) | Draft contracts, privacy policies, and compliance documents for tech businesses. |
+| [Ai Ethics Advisor](../it-and-development/security-and-compliance/ai-ethics-advisor.md) | Audits AI systems for bias, fairness, and regulatory compliance before deployment. |
+| [Akf Trust Metadata](../it-and-development/security-and-compliance/akf-trust-metadata.md) | Stamp, inspect, and audit AI file provenance and trust metadata for compliance. |
+| [AML Compliance Assistant](security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
+| [Check Identity Pack](../operations/security-and-compliance/check-identity-pack.md) | Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing. |
+| [Compliance Audit Preparation Assistant](security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
+| [Compliance Auditor](../it-and-development/security-and-compliance/compliance-auditor.md) | Audits compliance across GDPR, HIPAA, SOC 2, PCI DSS, and ISO frameworks. |
+| [Compliance Query Resolution Assistant](security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
+| [Compliance Specialist](security-and-compliance/compliance-specialist.md) | Assesses compliance gaps and prepares audit evidence for regulatory frameworks. |
+| [Contract Termination Guidance](security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
+| [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
+| [Data Privacy Compliance](security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
+| [Docs Generator](../it-and-development/security-and-compliance/docs-generator.md) | Generate structured security reports from completed analysis with evidence-backed templates. |
+| [Environmental Compliance Assistant](security-and-compliance/environmental-compliance-assistant.md) | Supports environmental compliance officers with research, documentation, audits, and reporting. |
+| [Ethical Compliance Assessment Assistant](security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
+| [Ethical Compliance Monitor](security-and-compliance/ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
+| [Event Staffing Compliance](../human-resources/security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
+| [Fda Consultant Specialist](../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
+| [Fda Medtech Compliance Auditor](security-and-compliance/fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |
+| [Gdpr Data Handling](../it-and-development/security-and-compliance/gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
+| [Gdpr Dsgvo Expert](security-and-compliance/gdpr-dsgvo-expert.md) | Advises on GDPR/DSGVO compliance, conducts privacy impact assessments, and audits data protection practices. |
+| [Incident Reporting Navigator](../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
+| [Incident Response Planning Assistant](security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Legal Compliance Review Assistant](security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
+| [Policy Development Support](security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
+| [Privacy By Design](../it-and-development/security-and-compliance/privacy-by-design.md) | Build apps with built-in privacy protections from the start. |
+| [Protected Disclosure Compass](security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
+| [Risk Assessment and Analysis Assistant](security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
+| [Se Responsible Ai Code](../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
+| [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
+| [Security Compliance Compliance Check](../it-and-development/security-and-compliance/security-compliance-compliance-check.md) | Audits software systems against GDPR, HIPAA, SOC2, PCI-DSS and guides remediation. |
+| [Verify Document](../operations/security-and-compliance/verify-document.md) | Check PDFs and images for tampering signals before relying on them. |
+| [Whistleblower Policy Manager](security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 
 ## Data Analysis
 
 | Template | What it does |
 |---|---|
+| [AML Due Diligence Drafter](data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
+| [Compliance Benchmarking Analyst](data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
+| [Compliance Cost Analyst](data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
+| [Compliance Monitoring Inspector](data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
+| [Compliance Reporting Automation Assistant](data-analysis/compliance-reporting-automation-assistant.md) | Automates compliance reporting from data extraction to audit prep and alerts. |
+| [Compliance Technology Integration Assistant](data-analysis/compliance-technology-integration-assistant.md) | Integrates compliance technology, automates monitoring, and manages risks for compliance analysts. |
+| [Contract Report Builder](data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Deal Room Risk Analyst](../finance/data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
+| [E-Discovery Project Coordinator](data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Extract Document Data](../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
+| [Legal Billing Systems Assistant](data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
+| [Licensing and Royalty Manager](data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
+| [Patent Portfolio Analyst](data-analysis/patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
+| [Patent Valuation Analyst](data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
+| [Risk Assessment Workflow Assistant](data-analysis/risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |
+| [Spend Analysis Assistant](data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
+| [Vendor Performance Analyst](data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Compliance Communication Planner](writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
+| [Contract Redliner](writing-and-content/contract-redliner.md) | Reads contracts and produces clause-by-clause redline suggestions with replacement language and negotiation points. |
+| [Custom Clause Generator](writing-and-content/custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
+| [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
+| [Legal Advisor](writing-and-content/legal-advisor.md) | Draft contracts, privacy policies, and compliance documents for tech businesses. |
+| [Legal Document Drafter](writing-and-content/legal-document-drafter.md) | Drafts, reviews, and researches legal documents for lawyers. |
+| [Legal Document Drafting Assistant](writing-and-content/legal-document-drafting-assistant.md) | Drafts, reviews, and manages legal documents for paralegals. |
+| [Patent Client Communication Assistant](writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
+| [Patent Document Drafter](writing-and-content/patent-document-drafter.md) | Drafts and manages patent documents, from applications to litigation support, for patent agents. |
+
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Amendment and Variation Tracker](knowledge-management/amendment-and-variation-tracker.md) | Tracks contract amendments and variations from log to approval, with alerts and reports. |
+| [Contract Renewal Radar](knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
+| [Contract Repository Manager](knowledge-management/contract-repository-manager.md) | Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access. |
+| [Crossframe Casebook](../operations/knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
+| [Data Room Builder](../finance/knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
+| [Evidence Organization Assistant](knowledge-management/evidence-organization-assistant.md) | Organizes, tracks, and prepares legal evidence for paralegals from collection to trial. |
+| [Record-Keeping Compliance Optimizer](knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Compliance Training Material Creator](teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
+| [Compliance Training Program Developer](teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
+| [Legal Education and Training Assistant](teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Client Communication Manager](support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
+| [Contract Query Resolution Assistant](support-and-community/contract-query-resolution-assistant.md) | Resolves contract queries from triage to follow-up, tracking every step and reporting metrics. |
 
 ## Coding
 
@@ -105,10 +192,22 @@ Contracts, research, compliance and review. **45 ready-made Grok Bot templates**
 |---|---|
 | [Patentfig](../creatives/generative-art/patentfig.md) | Generate patent-office-compliant figures from text or images via the PatentFig API. |
 
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Legal Marketing and Research Assistant](marketing-and-growth/legal-marketing-and-research-assistant.md) | Legal marketing and research assistant for legal assistants. |
+
 ## Office Tools
 
 | Template | What it does |
 |---|---|
 | [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Legal Billing and Timekeeping Assistant](productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
 
 [← All job fields](../../README.md#browse-by-job) · [Legal on the website](https://templatesgrokbot.com/jobs/legal)

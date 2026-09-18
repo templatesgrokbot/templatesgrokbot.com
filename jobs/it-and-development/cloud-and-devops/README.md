@@ -1,12 +1,13 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 325 Grok Bot templates, 322 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 335 Grok Bot templates, 332 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Accessibility Auditor](accessibility-auditor.md) | Audits websites for WCAG compliance and fixes accessibility issues. |
+| [Advanced Routing Protocol Assistant](advanced-routing-protocol-assistant.md) | Guides network engineers through advanced routing protocol configuration, troubleshooting, and optimization. |
 | [Agent Management](agent-management.md) | Manage AI agent lifecycle through the AI Maestro CLI. |
 | [Agent Manager](agent-manager-skill.md) | Manage multiple local CLI agents in tmux sessions with cron-friendly scheduling. |
 | [Agentmail](agentmail.md) | Provision AgentMail accounts, send/receive email, and manage webhooks via REST API. |
@@ -115,6 +116,7 @@ Infrastructure, deployments, monitoring and incident response. 325 Grok Bot temp
 | [Conductor Setup](conductor-setup.md) | Configure Rails projects for Conductor parallel coding agents with isolated ports and Redis. |
 | [Cost Optimization](cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Cto Advisor](cto-advisor.md) | Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy. |
+| [Data Center Network Assistant](data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
 | [Database](database.md) | Adds Railway database services (Postgres, Redis, MySQL, MongoDB) and provides connection variable references. |
 | [Database Admin](database-admin.md) | Manages cloud and on-prem databases with backups, replication, monitoring, and access control. |
 | [Database Administrator](database-administrator.md) | Manages database performance, high availability, and disaster recovery for production systems. |
@@ -139,6 +141,7 @@ Infrastructure, deployments, monitoring and incident response. 325 Grok Bot temp
 | [Devops Iac Engineer](devops-iac-engineer.md) | Designs and implements cloud infrastructure using Terraform, Kubernetes, and CI/CD pipelines. |
 | [Devops Incident Responder](devops-incident-responder.md) | Responds to production incidents, diagnoses failures, and drives postmortems to prevent recurrence. |
 | [Devops Troubleshooter](devops-troubleshooter.md) | Diagnoses production incidents using logs, metrics, and traces with systematic root cause analysis. |
+| [Disaster Recovery and Backup Planner](disaster-recovery-and-backup-planner.md) | Designs and validates backup and disaster recovery plans for network engineers. |
 | [Distributed Debugging Debug Trace](distributed-debugging-debug-trace.md) | Configure distributed tracing and debugging environments for multi-service systems. |
 | [Distributed Tracing](distributed-tracing.md) | Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices. |
 | [Distributed Training Deepspeed](distributed-training-deepspeed.md) | Guides users through configuring and optimizing DeepSpeed for distributed training. |
@@ -193,6 +196,8 @@ Infrastructure, deployments, monitoring and incident response. 325 Grok Bot temp
 | [Infrastructure Modal](infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [Infrastructure Skypilot](infrastructure-skypilot.md) | Orchestrates ML workloads across clouds with automatic cost optimization. |
 | [Iot Engineer](iot-engineer.md) | Designs and deploys large-scale IoT solutions from edge to cloud. |
+| [IoT Network Integration Assistant](iot-network-integration-assistant.md) | Guides IoT network integration from configuration to monitoring and security. |
+| [IP Subnetting Assistant](ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
 | [Istio Traffic Management](istio-traffic-management.md) | Configure Istio traffic management for production service mesh deployments. |
 | [It Manager Hospital](../../healthcare/cloud-and-devops/it-manager-hospital.md) | Advises hospital IT managers on clinical safety, digital maturity, and HIS/PEP integration. |
 | [It Manager Pro](../../management/cloud-and-devops/it-manager-pro.md) | Strategic IT leadership advisor bridging data, finance, and human-centric management. |
@@ -207,6 +212,7 @@ Infrastructure, deployments, monitoring and incident response. 325 Grok Bot temp
 | [Latchbio Integration](latchbio-integration.md) | Build and deploy bioinformatics workflows as serverless pipelines on the Latch platform. |
 | [Linkerd Patterns](linkerd-patterns.md) | Deploy and manage Linkerd service mesh on Kubernetes with production patterns. |
 | [Linux Troubleshooting](linux-troubleshooting.md) | Diagnose and resolve Linux system issues with structured troubleshooting phases. |
+| [Load Balancing Advisor](load-balancing-advisor.md) | Explains and plans load balancing techniques for network engineers. |
 | [Load Testing Specialist](load-testing-specialist.md) | Designs and executes load tests to find system bottlenecks and capacity limits. |
 | [M365 Admin](m365-admin.md) | Automates Microsoft 365 provisioning, auditing, and compliance across Exchange, Teams, SharePoint, and licensing. |
 | [M365 Agents Dotnet](m365-agents-dotnet.md) | Build multichannel agents for Microsoft 365, Teams, and Copilot Studio with .NET. |
@@ -237,7 +243,9 @@ Infrastructure, deployments, monitoring and incident response. 325 Grok Bot temp
 | [Neon Object Storage](neon-object-storage.md) | Branch-aware S3 storage that stays in sync with your Neon Postgres across every environment. |
 | [Neon Postgres Branches](neon-postgres-branches.md) | Create Neon Postgres branches for testing and development. |
 | [Netlify Deploy](netlify-deploy.md) | Deploys web projects to Netlify for preview or production after verifying authentication and linking. No unscheduled deploys. No site creation without |
+| [Network Automation Workflow Designer](network-automation-workflow-designer.md) | Automates network monitoring, provisioning, security, troubleshooting, documentation, optimization, change, capacity, reporting, and compliance tasks. |
 | [Network Engineer](network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
+| [Network Monitoring Assistant](network-monitoring-assistant.md) | Network monitoring setup, analysis, and troubleshooting assistant for engineers. |
 | [Network Troubleshooting Assistant](network-troubleshooting-assistant.md) | Diagnose and resolve network issues with structured troubleshooting guidance and documentation support. |
 | [New](new.md) | Creates Railway projects, services, and databases with proper configuration from GitHub or scaffolding. |
 | [Nx Workspace Patterns](nx-workspace-patterns.md) | Configure and optimize Nx monorepo workspaces with project boundaries and caching. |
@@ -272,6 +280,7 @@ Infrastructure, deployments, monitoring and incident response. 325 Grok Bot temp
 | [Projects](projects.md) | Lists, switches, and configures Railway projects from the CLI. |
 | [Prometheus Configuration](prometheus-configuration.md) | Configure Prometheus for metric collection, scrape targets, recording rules, and alert rules. |
 | [Push Template To Github](push-skill-to-github.md) | Commit and push capability changes to the configured capabilities repo after review. |
+| [QoS Policy Designer](qos-policy-designer.md) | Designs and tunes QoS policies for network performance and user experience. |
 | [Rclone Cli](rclone-cli.md) | Terminal-based cloud file operations using rclone CLI. |
 | [Redis Cli](redis-cli.md) | Redis CLI reference for querying, inspecting, and managing Redis from the command line. |
 | [Release Captain](release-captain.md) | Runs the release checklist and refuses to skip the step everyone always skips. |
@@ -323,6 +332,7 @@ Infrastructure, deployments, monitoring and incident response. 325 Grok Bot temp
 | [Vercel Optimize](vercel-optimize.md) | Audit Vercel apps for cost and performance using metrics, config, and code scans. |
 | [Vexor Cli](vexor-cli.md) | Semantic file discovery in large repos via vexor CLI. |
 | [VLAN Configuration Assistant](vlan-configuration-assistant.md) | Design, configure, troubleshoot, and document VLANs across your network. |
+| [VPN Configuration and Management Assistant](vpn-configuration-and-management-assistant.md) | Configures, troubleshoots, secures, and optimizes VPNs with step-by-step guidance. |
 | [Vps Server Management](vps-server-management.md) | Manage authorized VPS hosts and server-side agents via SSH and cautious operations workflows. |
 | [Web Scraper](web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
 | [WhatsApp Cloud API](whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |

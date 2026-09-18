@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 40 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 41 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Clean, query, chart and explain data. 40 Grok Bot templates, 21 of them filed in
 | [Champion Identifier](../../sales/data-analysis/champion-identifier.md) | Finds the internal advocate most likely to push your solution through a target account. |
 | [Churn Prediction and Retention Assistant](../../customer-support/data-analysis/churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
 | [Churn Radar](../../sales/data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
+| [Customer Feedback Insight Assistant](../../customer-support/data-analysis/customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |
 | [Customer Journey Mapping Assistant](../../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
 | [Customer Panel Debate](customer-panel-debate.md) | Assemble a data-grounded customer panel to debate your high-stakes decisions. |
 | [Customer Segmentation Insights Assistant](../../customer-support/data-analysis/customer-segmentation-insights-assistant.md) | Turns customer data into segments, insights, and actions for Customer Success Managers. |

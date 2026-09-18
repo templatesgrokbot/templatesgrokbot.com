@@ -1,12 +1,13 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 48 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 55 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Alpha Vantage](alpha-vantage.md) | Fetch 20+ years of equities, forex, crypto, commodities, and economic data via Alpha Vantage API. |
+| [AML Due Diligence Drafter](../../legal/data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
 | [Auction Analyst AI](../../real-estate-and-construction/data-analysis/auction-analyst-ai.md) | Analyzes notices, risks, and property value in judicial and extrajudicial auctions. |
 | [Auction Appraiser](../../real-estate-and-construction/data-analysis/auction-appraiser.md) | Appraises auction properties using comparative, income, and cost methods per ABNT NBR 14653. |
 | [Auction Market Analyst](auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |
@@ -17,6 +18,8 @@ Clean, query, chart and explain data. 48 Grok Bot templates, 28 of them filed in
 | [Board Deck Generator](../../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates institutional-quality board meeting decks with financials, updates, and asks. |
 | [Bounty Hunter](bounty-hunter.md) | Identifies unclaimed, owed, or wasted money and recommends how to recover it. |
 | [Cash Flow Forecaster](cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your financial exports and flags crunch weeks. |
+| [Compliance Cost Analyst](../../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
+| [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Data Analyst](../../science-and-research/data-analysis/data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
 | [Data Cleaner](../../it-and-development/data-analysis/data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
 | [Deal Room Risk Analyst](deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
@@ -26,6 +29,8 @@ Clean, query, chart and explain data. 48 Grok Bot templates, 28 of them filed in
 | [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, categorizes, flags issues, and reports. |
 | [Home Inventory Builder](../../operations/data-analysis/home-inventory-builder.md) | Builds an insurance-grade home inventory from photos and receipts, with values and gap analysis. |
 | [Invoice Organizer](../../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
+| [Legal Billing Systems Assistant](../../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
+| [Licensing and Royalty Manager](../../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
 | [Longbridge](longbridge.md) | 125+ read-only market data capabilities for HK/US/A-share/SG stocks via Longbridge. |
 | [Longbridge Fundamentals](longbridge-fundamentals.md) | Pull financial statements, valuation multiples, and company profiles for HK/US/A-share/Singapore stocks via Longbridge. |
 | [Longbridge Market Data](longbridge-market-data.md) | Real-time quotes, K-lines, order book, trades, capital flow, sentiment, and IPO data for HK/US/A/SG markets via Longbridge. |
@@ -36,11 +41,13 @@ Clean, query, chart and explain data. 48 Grok Bot templates, 28 of them filed in
 | [Offer Comparison Analyzer](../../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
 | [Open Banking Io](open-banking-io.md) | Read balances and transactions from EU/UK bank accounts via the open-banking.io PSD2 API. |
 | [Options Flow Analyzer](options-flow-analyzer.md) | Separates real options flow from lottery noise to prevent P/C ratio inversion. |
+| [Patent Valuation Analyst](../../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Performance Report](../../executives-and-strategy/data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Portfolio Digest](portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
 | [Quant Analyst](quant-analyst.md) | Builds and backtests quantitative trading strategies with transaction costs and risk analytics for portfolios and derivatives. |
 | [Risk Manager](risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
+| [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Spreadsheet](spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Sql Sentinel](../../it-and-development/data-analysis/sql-sentinel.md) | Audits SQL for cost and performance anti-patterns, scores warehouse health 0-100, and outputs a prioritized cost-reduction plan. Works with BigQuery, |

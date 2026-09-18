@@ -1,6 +1,6 @@
 # Writing & Content templates for Writers
 
-Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 47 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,6 +26,7 @@ Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 16
 | [Documentation Expert](../../it-and-development/writing-and-content/documentation-expert.md) | Creates, improves, and maintains project documentation from code and specs. |
 | [Documentation Templates](../../it-and-development/writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
 | [Humanizer](humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
+| [Legal Document Drafter](../../legal/writing-and-content/legal-document-drafter.md) | Drafts, reviews, and researches legal documents for lawyers. |
 | [Markdown Syntax Formatter](markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Microsoft Learn Contributor](../../education/writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
 | [Ocr Grammar Fixer](ocr-grammar-fixer.md) | Cleans up garbled OCR text into clean, professional copy. No explanations, just corrections. No inventing meaning. No touching formatting like bullets |

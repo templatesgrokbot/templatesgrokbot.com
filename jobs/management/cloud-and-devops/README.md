@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Management
 
-Infrastructure, deployments, monitoring and incident response. 12 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 13 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,5 +18,6 @@ Infrastructure, deployments, monitoring and incident response. 12 Grok Bot templ
 | [Itil Expert](../../it-and-development/cloud-and-devops/itil-expert.md) | Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management. |
 | [On Call Handoff Patterns](../../it-and-development/cloud-and-devops/on-call-handoff-patterns.md) | Structured on-call shift handoffs with incident context and continuity. |
 | [Sshepherd](../../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
+| [VPN Configuration and Management Assistant](../../it-and-development/cloud-and-devops/vpn-configuration-and-management-assistant.md) | Configures, troubleshoots, secures, and optimizes VPNs with step-by-step guidance. |
 
 [← All Management templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/management)

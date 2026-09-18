@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **130 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **135 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Leaders making decisions from the whole picture. **130 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Research](research/README.md) | 35 |
-| [Data Analysis](data-analysis/README.md) | 30 |
+| [Research](research/README.md) | 36 |
+| [Data Analysis](data-analysis/README.md) | 34 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 26 |
 | [Productivity](productivity/README.md) | 20 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 5 |
@@ -61,6 +61,7 @@ Leaders making decisions from the whole picture. **130 ready-made Grok Bot templ
 | [Salary Negotiation Prep](../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 | [SEO Competitive Analysis](../marketing/research/seo-wettbewerbsanalyse.md) | Reverse-engineer ranking competitors to produce a content gap map, keyword steal list, and three pages to write first. |
 | [Startup Business Analyst Market Opportunity](research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Technology Trend Intelligence Assistant](../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Term Sheet Reader](../finance/research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
 | [Think Tank](research/think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
 | [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
@@ -75,6 +76,8 @@ Leaders making decisions from the whole picture. **130 ready-made Grok Bot templ
 | [Board Deck Generator](data-analysis/board-deck-generator.md) | Generates institutional-quality board meeting decks with financials, updates, and asks. |
 | [Cash Flow Forecaster](../finance/data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your financial exports and flags crunch weeks. |
 | [Champion Identifier](../sales/data-analysis/champion-identifier.md) | Finds the internal advocate most likely to push your solution through a target account. |
+| [Compliance Benchmarking Analyst](../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
+| [Compliance Cost Analyst](../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Customer Panel Debate](../marketing/data-analysis/customer-panel-debate.md) | Assemble a data-grounded customer panel to debate your high-stakes decisions. |
 | [Data Storytelling](data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Deal Room Risk Analyst](../finance/data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
@@ -85,6 +88,8 @@ Leaders making decisions from the whole picture. **130 ready-made Grok Bot templ
 | [Marketing Attribution Analyst](../marketing/data-analysis/marketing-attribution-analyst.md) | Models multi-touch attribution, validates channel performance with incrementality testing, and optimizes budget allocation. Uses confirmed data only. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 | [Offer Comparison Analyzer](../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
+| [Patent Portfolio Analyst](../legal/data-analysis/patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
+| [Patent Valuation Analyst](../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Performance Report](data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Portfolio Digest](../finance/data-analysis/portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
 | [Risk Manager](../finance/data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |

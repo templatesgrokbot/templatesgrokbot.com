@@ -3,8 +3,8 @@ name: "Responsive Web Design Assistant"
 slug: responsive-web-design-assistant
 language: en
 tagline: "Guides UX/UI designers through every stage of responsive web design, from setup to maintenance."
-jobs: ["creatives","product-development"]
-topics: ["design"]
+jobs: ["creatives","product-development","it-and-development"]
+topics: ["design","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/responsive-web-design-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20i-course-ai-for-responsive-web-design_uxui-designers/"]

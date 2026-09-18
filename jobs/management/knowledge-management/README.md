@@ -1,12 +1,13 @@
 # Knowledge Management templates for Management
 
-Notes, documents, PDFs and knowledge bases kept in order. 18 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 20 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Adr Generator](../../it-and-development/knowledge-management/adr-generator.md) | Formalizes technical decisions into structured Architectural Decision Records. |
+| [Amendment and Variation Tracker](../../legal/knowledge-management/amendment-and-variation-tracker.md) | Tracks contract amendments and variations from log to approval, with alerts and reports. |
 | [Atlas Ledger](../../it-and-development/knowledge-management/atlas-ledger.md) | Distills caught drift into WHEN/DON'T/INSTEAD clauses for Atlas.md. |
 | [Brain To Docs](../../it-and-development/knowledge-management/brain-to-docs.md) | Interview users to extract project vision and decisions into README and ADR docs. |
 | [Capa Officer](../../operations/knowledge-management/capa-officer.md) | Manage CAPA records from initiation to closure, tracking root cause analysis and effectiveness verification. |
@@ -15,6 +16,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 18 Grok Bot templates,
 | [Context Management Context Restore](../../it-and-development/knowledge-management/context-management-context-restore.md) | Restore project context from saved handoffs and current evidence. |
 | [Context Management Context Save](../../it-and-development/knowledge-management/context-management-context-save.md) | Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks. |
 | [Contract Renewal Radar](../../legal/knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
+| [Contract Repository Manager](../../legal/knowledge-management/contract-repository-manager.md) | Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access. |
 | [Crossframe Casebook](../../operations/knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
 | [Domain Modeling](../../it-and-development/knowledge-management/domain-modeling.md) | Build and sharpen a project's domain model by resolving terminology, recording decisions, and cross-referencing code. |
 | [Notion Knowledge Capture](../../operations/knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |

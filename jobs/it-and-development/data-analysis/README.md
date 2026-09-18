@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 140 Grok Bot templates, 97 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 145 Grok Bot templates, 98 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,6 +28,8 @@ Clean, query, chart and explain data. 140 Grok Bot templates, 97 of them filed i
 | [Cf Crawl](../../operations/data-analysis/cf-crawl.md) | Crawl websites via Cloudflare Browser Rendering and save pages as markdown files. |
 | [ClickHouse IO](cc-skill-clickhouse-io.md) | Designs ClickHouse schemas, optimizes queries, and builds analytics pipelines for OLAP workloads. |
 | [Cobrapy](../../science-and-research/data-analysis/cobrapy.md) | Run constraint-based metabolic modeling and analysis on genome-scale models. |
+| [Compliance Reporting Automation Assistant](../../legal/data-analysis/compliance-reporting-automation-assistant.md) | Automates compliance reporting from data extraction to audit prep and alerts. |
+| [Compliance Technology Integration Assistant](../../legal/data-analysis/compliance-technology-integration-assistant.md) | Integrates compliance technology, automates monitoring, and manages risks for compliance analysts. |
 | [Customer Success Trend Analyst](../../customer-support/data-analysis/customer-success-trend-analyst.md) | Turns customer data into trend insights and proactive success actions. |
 | [Dashboard Design](dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
 | [Dask](dask.md) | Scales pandas and NumPy operations to datasets larger than RAM using parallel and distributed computing. |
@@ -51,6 +53,7 @@ Clean, query, chart and explain data. 140 Grok Bot templates, 97 of them filed i
 | [Ditto](ditto.md) | Mine private work profiles from local coding-agent session logs. |
 | [Doc2math](doc2math.md) | Convert narrative technical docs into grounded mathematical problem specifications. |
 | [Dynatrace Expert](dynatrace-expert.md) | Analyzes Dynatrace observability and security data to investigate incidents, validate deployments, and triage errors within GitHub workflows. |
+| [E-Discovery Project Coordinator](../../legal/data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Elasticsearch Observability](elasticsearch-observability.md) | Debug code, optimize search, and remediate threats using live Elastic data. |
 | [Extract Document Data](../../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
 | [Firecrawl Scraper](firecrawl-scraper.md) | Extracts web content, screenshots, PDFs, and crawl results via Firecrawl API. |
@@ -85,11 +88,13 @@ Clean, query, chart and explain data. 140 Grok Bot templates, 97 of them filed i
 | [Monte Carlo Validation Notebook](monte-carlo-validation-notebook.md) | Generates SQL validation notebooks for dbt PR changes with before/after comparison queries. |
 | [Ms Sql Dba](ms-sql-dba.md) | Manage and maintain Microsoft SQL Server databases on demand. |
 | [Neon Optimization Analyzer](neon-optimization-analyzer.md) | Analyze slow Postgres queries and test optimizations in isolated Neon database branches. |
+| [Network Capacity Planner](network-capacity-planner.md) | Analyses network data, forecasts capacity, and plans upgrades for efficient scaling. |
 | [Networkx](networkx.md) | Build, analyze, and visualize network graphs from data using NetworkX, with no code execution outside sandbox. |
 | [Nosql Expert](nosql-expert.md) | Design Cassandra and DynamoDB schemas using query-first modeling and single-table design. |
 | [Nosql Specialist](nosql-specialist.md) | Designs and optimizes NoSQL databases for MongoDB, Redis, Cassandra, and key-value stores. |
 | [Options Flow Analyzer](../../finance/data-analysis/options-flow-analyzer.md) | Separates real options flow from lottery noise to prevent P/C ratio inversion. |
 | [Orca Replay](orca-replay.md) | Read, replay, and compare recorded agent runs to answer questions about past behavior without guessing. |
+| [Patent Portfolio Analyst](../../legal/data-analysis/patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
 | [Pdf Conversion Router](../../operations/data-analysis/pdf-conversion-router.md) | Classifies PDFs then selects the best conversion route for faithful output. No universal defaults. Validates before delivery. Requires approval before |
 | [Pdf Processing Pro](../../operations/data-analysis/pdf-processing-pro.md) | Extracts text, tables, and form data from PDFs with validation and batch processing. |
 | [Plotly](plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |

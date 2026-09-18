@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **628 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **695 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,17 @@ Processes, logistics and the systems that run a business. **628 ready-made Grok 
 
 | Kind of work | Templates |
 |---|---:|
-| [Cloud & DevOps](cloud-and-devops/README.md) | 169 |
-| [Data Analysis](data-analysis/README.md) | 100 |
-| [Productivity](productivity/README.md) | 96 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 178 |
+| [Data Analysis](data-analysis/README.md) | 113 |
+| [Productivity](productivity/README.md) | 97 |
 | [Coding](coding/README.md) | 59 |
-| [Research](research/README.md) | 33 |
+| [Research](research/README.md) | 53 |
+| [Security & Compliance](security-and-compliance/README.md) | 38 |
+| [Knowledge Management](knowledge-management/README.md) | 27 |
 | [Office Tools](office-tools/README.md) | 27 |
-| [Security & Compliance](security-and-compliance/README.md) | 26 |
-| [Knowledge Management](knowledge-management/README.md) | 22 |
+| [Writing & Content](writing-and-content/README.md) | 18 |
+| [Support & Community](support-and-community/README.md) | 15 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 14 |
-| [Support & Community](support-and-community/README.md) | 14 |
-| [Writing & Content](writing-and-content/README.md) | 14 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 13 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 8 |
@@ -30,6 +30,7 @@ Processes, logistics and the systems that run a business. **628 ready-made Grok 
 | [Video Editing](video-editing/README.md) | 4 |
 | [Design](design/README.md) | 2 |
 | [Prompt Engineering](prompt-engineering/README.md) | 2 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Translation](translation/README.md) | 2 |
 | [Generative Art](generative-art/README.md) | 1 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
@@ -48,7 +49,7 @@ Processes, logistics and the systems that run a business. **628 ready-made Grok 
 | [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
 
-[All 169 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 178 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Data Analysis
 
@@ -63,7 +64,7 @@ Processes, logistics and the systems that run a business. **628 ready-made Grok 
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 100 Data Analysis templates →](data-analysis/README.md)
+[All 113 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -78,7 +79,7 @@ Processes, logistics and the systems that run a business. **628 ready-made Grok 
 | [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 96 Productivity templates →](productivity/README.md)
+[All 97 Productivity templates →](productivity/README.md)
 
 ## Coding
 
@@ -108,7 +109,37 @@ Processes, logistics and the systems that run a business. **628 ready-made Grok 
 | [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 | [Hasdata Cli](../it-and-development/research/hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
 
-[All 33 Research templates →](research/README.md)
+[All 53 Research templates →](research/README.md)
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Powershell Security Hardening](../it-and-development/security-and-compliance/powershell-security-hardening.md) | Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie |
+| [Jfrog Sec](../it-and-development/security-and-compliance/jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |
+| [Regulatory Affairs Head](security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
+| [Windows Ad](../it-and-development/security-and-compliance/windows-ad.md) | Run authorized Active Directory attacks: Kerberos, AD CS, BloodHound, NTLM relay. |
+| [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
+| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Digital Forensics](../it-and-development/security-and-compliance/digital-forensics.md) | Authorized digital forensics: memory, disk, PCAP, and artifact triage for incident response. |
+| [Senior Secops](../it-and-development/security-and-compliance/senior-secops.md) | Scans code, assesses vulnerabilities, and checks compliance for your projects. |
+
+[All 38 Security & Compliance templates →](security-and-compliance/README.md)
+
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Crossframe Casebook](knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
+| [Maintain Codex Wiki](../it-and-development/knowledge-management/maintain-codex-wiki.md) | Maintain a review-first engineering wiki with provenance and citation-aware queries. |
+| [Content Curator](knowledge-management/content-curator.md) | Curates Obsidian vault content by detecting duplicates, stubs, and outdated notes. |
+| [Connection Agent](knowledge-management/connection-agent.md) | Analyzes an Obsidian vault to suggest links between notes and identify orphaned content. |
+| [Ingest Youtube](knowledge-management/ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
+| [Review Agent](knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
+| [Vault Optimizer](knowledge-management/vault-optimizer.md) | Analyzes and optimizes Obsidian vault performance, file sizes, and search indexing. |
+| [Notion Knowledge Capture](knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
+
+[All 27 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Office Tools
 
@@ -125,35 +156,35 @@ Processes, logistics and the systems that run a business. **628 ready-made Grok 
 
 [All 27 Office Tools templates →](office-tools/README.md)
 
-## Security & Compliance
+## Writing & Content
 
 | Template | What it does |
 |---|---|
-| [Powershell Security Hardening](../it-and-development/security-and-compliance/powershell-security-hardening.md) | Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie |
-| [Jfrog Sec](../it-and-development/security-and-compliance/jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |
-| [Regulatory Affairs Head](security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
-| [Windows Ad](../it-and-development/security-and-compliance/windows-ad.md) | Run authorized Active Directory attacks: Kerberos, AD CS, BloodHound, NTLM relay. |
-| [Digital Forensics](../it-and-development/security-and-compliance/digital-forensics.md) | Authorized digital forensics: memory, disk, PCAP, and artifact triage for incident response. |
-| [Senior Secops](../it-and-development/security-and-compliance/senior-secops.md) | Scans code, assesses vulnerabilities, and checks compliance for your projects. |
-| [Threat Mitigation Mapping](../it-and-development/security-and-compliance/threat-mitigation-mapping.md) | Map threats to security controls for prioritized remediation and coverage validation. |
-| [Vulnerability Scanner](../it-and-development/security-and-compliance/vulnerability-scanner.md) | Scans codebases for vulnerabilities using OWASP 2025 and supply chain risk analysis with prioritized fixes. |
+| [Resume Tailor](writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
+| [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
+| [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
+| [Custom Clause Generator](../legal/writing-and-content/custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
+| [Email Issue Fixer](writing-and-content/email-issue-fixer.md) | Proofread emails and strip tracking from links on request, preserving voice. |
+| [Resume Quantifier](../human-resources/writing-and-content/resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |
+| [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
+| [Ocr Quality Assurance](writing-and-content/ocr-quality-assurance.md) | Validates OCR-corrected text against original images for accuracy and completeness. |
 
-[All 26 Security & Compliance templates →](security-and-compliance/README.md)
+[All 18 Writing & Content templates →](writing-and-content/README.md)
 
-## Knowledge Management
+## Support & Community
 
 | Template | What it does |
 |---|---|
-| [Crossframe Casebook](knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
-| [Maintain Codex Wiki](../it-and-development/knowledge-management/maintain-codex-wiki.md) | Maintain a review-first engineering wiki with provenance and citation-aware queries. |
-| [Content Curator](knowledge-management/content-curator.md) | Curates Obsidian vault content by detecting duplicates, stubs, and outdated notes. |
-| [Connection Agent](knowledge-management/connection-agent.md) | Analyzes an Obsidian vault to suggest links between notes and identify orphaned content. |
-| [Ingest Youtube](knowledge-management/ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
-| [Review Agent](knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
-| [Vault Optimizer](knowledge-management/vault-optimizer.md) | Analyzes and optimizes Obsidian vault performance, file sizes, and search indexing. |
-| [Notion Knowledge Capture](knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
+| [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
+| [Contract Query Resolution Assistant](../legal/support-and-community/contract-query-resolution-assistant.md) | Resolves contract queries from triage to follow-up, tracking every step and reporting metrics. |
+| [Returns Reverse Logistics](support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
+| [Community Building](support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
+| [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
+| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
+| [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
+| [Community Mod](support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
 
-[All 22 Knowledge Management templates →](knowledge-management/README.md)
+[All 15 Support & Community templates →](support-and-community/README.md)
 
 ## Marketing & Growth
 
@@ -169,36 +200,6 @@ Processes, logistics and the systems that run a business. **628 ready-made Grok 
 | [Convertkit Automation](../marketing/marketing-and-growth/convertkit-automation.md) | Automate ConvertKit subscriber, tag, and broadcast management via Rube MCP. |
 
 [All 14 Marketing & Growth templates →](marketing-and-growth/README.md)
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
-| [Returns Reverse Logistics](support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
-| [Community Building](support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
-| [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
-| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
-| [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
-| [Community Mod](support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
-| [Freshdesk Automation](../customer-support/support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
-
-[All 14 Support & Community templates →](support-and-community/README.md)
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Resume Tailor](writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
-| [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
-| [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
-| [Email Issue Fixer](writing-and-content/email-issue-fixer.md) | Proofread emails and strip tracking from links on request, preserving voice. |
-| [Resume Quantifier](../human-resources/writing-and-content/resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |
-| [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
-| [Ocr Quality Assurance](writing-and-content/ocr-quality-assurance.md) | Validates OCR-corrected text against original images for accuracy and completeness. |
-| [RFP Compliance Drafter](../sales/writing-and-content/rfp-compliance-drafter.md) | Turns RFPs and your past proposals into a compliance matrix and drafted response, flagging disqualifiers first. |
-
-[All 14 Writing & Content templates →](writing-and-content/README.md)
 
 ## Generative AI and LLM
 
@@ -286,6 +287,13 @@ Processes, logistics and the systems that run a business. **628 ready-made Grok 
 |---|---|
 | [Template Builder](prompt-engineering/template-skill.md) | Replace with description of the template and when Claude should use it. |
 | [Rich Elicitation](prompt-engineering/rich-elicitation.md) | Asks targeted clarifying questions when a task has 2+ ambiguous dimensions with 3+ viable answers each. |
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
+| [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 
 ## Translation
 

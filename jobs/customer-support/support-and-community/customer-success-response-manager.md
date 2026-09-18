@@ -4,7 +4,7 @@ slug: customer-success-response-manager
 language: en
 tagline: "Handles customer conversations, support, and retention for Customer Success Managers."
 jobs: ["customer-support","operations","sales"]
-topics: ["support-and-community"]
+topics: ["support-and-community","productivity","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/customer-success-response-manager
 built_on_lessons: ["https://completeaitraining.com/lesson/20a-course-ai-for-automated-customer-res_customer-success-managers/"]

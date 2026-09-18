@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **49 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **51 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Press, internal comms and reputation. **49 ready-made Grok Bot templates** for t
 | Kind of work | Templates |
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 18 |
-| [Writing & Content](writing-and-content/README.md) | 9 |
+| [Writing & Content](writing-and-content/README.md) | 11 |
 | [Research](research/README.md) | 8 |
 | [Social Media](social-media/README.md) | 8 |
 | [Data Analysis](data-analysis/README.md) | 4 |
@@ -49,11 +49,13 @@ Press, internal comms and reputation. **49 ready-made Grok Bot templates** for t
 | [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 | [Brand Voice Enforcement](../marketing/writing-and-content/brand-voice-enforcement.md) | Applies your brand guidelines to every email, pitch deck, and social post. |
 | [Communication Excellence Coach](../marketing/writing-and-content/communication-excellence-coach.md) | Review drafts, calibrate tone, roleplay conversations, and improve presentations using proven frameworks. |
+| [Compliance Communication Planner](../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Crossframe Dialogue](../writers/writing-and-content/crossframe-dialogue.md) | Short, structured replies for reader questions, editorial responses, and consultation-style answers. |
 | [Developer Advocacy](../marketing/writing-and-content/developer-advocacy.md) | Prep conference talks, live demos, podcast pitches, and public builds with structured checklists and templates. |
 | [Internal Comms Anthropic](writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Internal Comms Community](writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Internal Comms Drafter](writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
+| [Patent Client Communication Assistant](../legal/writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
 
 ## Research
 

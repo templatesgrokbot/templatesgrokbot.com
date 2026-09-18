@@ -1,11 +1,13 @@
 # Writing & Content templates for Operations
 
-Plan, write and edit articles, copy and documentation. 14 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 18 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Compliance Communication Planner](../../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
+| [Custom Clause Generator](../../legal/writing-and-content/custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
 | [Cv Generator](../../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [Doc Chaser Lite](doc-chaser-lite.md) | Drafts one friendly document-request email for a tax client from a brief and practice profile. |
 | [Email Composer](email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
@@ -13,6 +15,8 @@ Plan, write and edit articles, copy and documentation. 14 Grok Bot templates, 6 
 | [Employment Contract Templates](../../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Interview Style Doc Building](../../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
 | [Legal Advisor](../../legal/writing-and-content/legal-advisor.md) | Draft contracts, privacy policies, and compliance documents for tech businesses. |
+| [Legal Document Drafter](../../legal/writing-and-content/legal-document-drafter.md) | Drafts, reviews, and researches legal documents for lawyers. |
+| [Legal Document Drafting Assistant](../../legal/writing-and-content/legal-document-drafting-assistant.md) | Drafts, reviews, and manages legal documents for paralegals. |
 | [Ocr Grammar Fixer](../../writers/writing-and-content/ocr-grammar-fixer.md) | Cleans up garbled OCR text into clean, professional copy. No explanations, just corrections. No inventing meaning. No touching formatting like bullets |
 | [Ocr Quality Assurance](ocr-quality-assurance.md) | Validates OCR-corrected text against original images for accuracy and completeness. |
 | [Resume Quantifier](../../human-resources/writing-and-content/resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |

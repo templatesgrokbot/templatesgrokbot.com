@@ -3,8 +3,8 @@ name: "Ux Researcher Designer"
 slug: ux-researcher-designer
 language: en
 tagline: "Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships."
-jobs: ["product-development","creatives"]
-topics: ["research","design"]
+jobs: ["product-development","creatives","marketing"]
+topics: ["research","design","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/ux-researcher-designer
 adapted_from: https://www.aitmpl.com/component/skills/creative-design/ux-researcher-designer

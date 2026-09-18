@@ -1,6 +1,6 @@
 # Research templates for Product Development
 
-Find sources, compare evidence and summarise what is known. 40 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 44 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,7 @@ Find sources, compare evidence and summarise what is known. 40 Grok Bot template
 | [Deep Research Notebooklm](../../science-and-research/research/deep-research-notebooklm.md) | Runs structured multi-source research via NotebookLM and delivers formatted briefs with optional studio artifacts. |
 | [Entropy Box](../../it-and-development/research/entropy-box.md) | Compiles embodied-AI knowledge into grounded, source-linked implementation paths. |
 | [Gepetto](gepetto.md) | Creates detailed, sectionized implementation plans through research, stakeholder interviews, and multi-LLM review. |
+| [IP Paralegal Assistant](../../legal/research/ip-paralegal-assistant.md) | Handles trademark, patent, copyright, and trade secret tasks for paralegals. |
 | [Jobs To Be Done Analyst](jobs-to-be-done-analyst.md) | Uncover the real progress customers hire a product to make. |
 | [Lightning Architecture Review](../../it-and-development/research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 | [Market Research Analyst](../../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
@@ -29,6 +30,8 @@ Find sources, compare evidence and summarise what is known. 40 Grok Bot template
 | [Onboarding Psychologist](onboarding-psychologist.md) | Design onboarding flows that build habits through early wins and identity shift. |
 | [Oss Hunter](../../it-and-development/research/oss-hunter.md) | Find high-impact, mergeable open source issues in trending repos. |
 | [Parallel Agents](../../it-and-development/research/parallel-agents.md) | Orchestrates multiple specialized agents for comprehensive code analysis. |
+| [Patent Application Drafting Assistant](../../legal/research/patent-application-drafting-assistant.md) | Drafts, reviews, and files patent applications with precision and compliance. |
+| [Patent Infringement Analysis Assistant](../../legal/research/patent-infringement-analysis-assistant.md) | Patent infringement analysis assistant for patent agents, from prior art to litigation support. |
 | [Persona Workshop Facilitator](../../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Product Strategist](product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |
 | [Research Brief Generator](../../science-and-research/research/research-brief-generator.md) | Transforms a research query into a structured brief with questions, keywords, and source preferences. |
@@ -36,6 +39,7 @@ Find sources, compare evidence and summarise what is known. 40 Grok Bot template
 | [Startup Business Analyst Market Opportunity](../../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
 | [Task Researcher](../../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 | [Technical Researcher](../../it-and-development/research/technical-researcher.md) | Analyzes code repositories, documentation, and technical implementations for informed decisions. |
+| [Technology Trend Intelligence Assistant](../../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Think Tank](../../executives-and-strategy/research/think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
 | [Usability Testing Assistant](../../creatives/research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
 | [User Research Planning](design-user-research.md) | Plan user research that produces honest, actionable insights from start to finish. |
