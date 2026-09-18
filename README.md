@@ -25,10 +25,23 @@
   <a href="https://templatesgrokbot.com/browse"><b>Search the website</b></a>
 </p>
 
+## Watch: set up a team of AI agents for your job in 5 minutes
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Mcufgujl38Y"><img src="https://i.ytimg.com/vi/Mcufgujl38Y/maxresdefault.jpg" alt="Watch on YouTube: How to Set Up a Team of AI Agents in Grokbot for Any Job (Step by Step)" width="720"></a>
+</p>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=Mcufgujl38Y"><b>▶ How to Set Up a Team of AI Agents in Grokbot for Any Job (Step by Step)</b></a> (1:25)</p>
+
+A step-by-step walkthrough, with a recruiter as the example; it works the same for any job. Install Grok Bot at x.ai/bot and create a bot called *Template Creator*. Connect it to the TemplatesGrokBot MCP server and paste the API key from your [account](https://templatesgrokbot.com/account). Then tell it your job title: it finds every relevant template and installs each one as its own bot, in shared channels so they can work together. Finally, add one coordinator bot (here a *Recruitment Coordinator*) to run the team, and ask it to check every week for new and updated templates. Connecting needs the [job plan](https://templatesgrokbot.com/for-my-job), $29 a year.
+
+**Recruiter?** Watch the 37-second short **[Recruiters: Build a 12-Agent AI Hiring Team in Grokbot](https://www.youtube.com/watch?v=Q0rnR4pce5c)**. It shows the hiring team one message sets up: sourcing, CV screening, candidate outreach, interview prep, job descriptions and offer comparison, with a coordinator on top.
+
 <p align="center"><img src="assets/screenshots/home.png" alt="The TemplatesGrokBot homepage" width="100%"></p>
 
 ## Contents
 
+- [Watch: set up a team of AI agents in 5 minutes](#watch-set-up-a-team-of-ai-agents-for-your-job-in-5-minutes)
 - [Use a template in three steps](#use-a-template-in-three-steps)
 - [Get every template for your job, set up for you](#get-every-template-for-your-job-set-up-for-you)
 - [Browse by job](#browse-by-job)
