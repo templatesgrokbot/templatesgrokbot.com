@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 139 Grok Bot templates, 97 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 140 Grok Bot templates, 97 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,6 +28,7 @@ Clean, query, chart and explain data. 139 Grok Bot templates, 97 of them filed i
 | [Cf Crawl](../../operations/data-analysis/cf-crawl.md) | Crawl websites via Cloudflare Browser Rendering and save pages as markdown files. |
 | [ClickHouse IO](cc-skill-clickhouse-io.md) | Designs ClickHouse schemas, optimizes queries, and builds analytics pipelines for OLAP workloads. |
 | [Cobrapy](../../science-and-research/data-analysis/cobrapy.md) | Run constraint-based metabolic modeling and analysis on genome-scale models. |
+| [Customer Success Trend Analyst](../../customer-support/data-analysis/customer-success-trend-analyst.md) | Turns customer data into trend insights and proactive success actions. |
 | [Dashboard Design](dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
 | [Dask](dask.md) | Scales pandas and NumPy operations to datasets larger than RAM using parallel and distributed computing. |
 | [Data Analyst](../../science-and-research/data-analysis/data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |

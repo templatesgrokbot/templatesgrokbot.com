@@ -1,6 +1,6 @@
 # Data Analysis templates for Sales
 
-Clean, query, chart and explain data. 11 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 12 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Clean, query, chart and explain data. 11 Grok Bot templates, 4 of them filed in 
 | [Buywhere Product Catalog](buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
 | [Champion Identifier](champion-identifier.md) | Finds the internal advocate most likely to push your solution through a target account. |
 | [Churn Radar](churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
+| [Customer Engagement Assistant](../../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
 | [Customer Success Manager](../../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 | [Footballbin Predictions](../../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
 | [Google Ads Performance Analyzer](../../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |

@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 22 Grok Bot templates.
+Explain, quiz and guide someone through a subject. 23 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Explain, quiz and guide someone through a subject. 22 Grok Bot templates.
 |---|---|
 | [Code Documentation Code Explain](code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |
 | [Crossframe Teach](crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
+| [Customer Training Content Developer](../../customer-support/teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
 | [Demonstrate Understanding](demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Examprep Ai](examprep-ai.md) | Turns syllabi and past papers into a ranked study roadmap ordered Easy to Hard. |
 | [Explain Like Socrates](explain-like-socrates.md) | Explain ideas through Socratic dialogue and guided reasoning. |

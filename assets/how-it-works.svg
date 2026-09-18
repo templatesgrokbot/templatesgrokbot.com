@@ -15,7 +15,7 @@
     <circle cx="44" cy="46" r="20" fill="#1767C9"/>
     <text x="44" y="52.5" text-anchor="middle" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF">2</text>
     <text x="24" y="104" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">Get matched templates</text>
-    <text x="24" y="136" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#B8C6D6">We search all 3,064 templates</text><text x="24" y="160" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#B8C6D6">for the tasks you described.</text>
+    <text x="24" y="136" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#B8C6D6">We search all 3,088 templates</text><text x="24" y="160" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#B8C6D6">for the tasks you described.</text>
   </g>
   <path d="M832 140 h28 m-10 -9 l10 9 -10 9" fill="none" stroke="#E67E22" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   

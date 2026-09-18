@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 23 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 25 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Clean, query, chart and explain data. 23 Grok Bot templates, 4 of them filed in 
 | [Analytics](../../marketing/data-analysis/analytics.md) | Set up, audit, and improve analytics tracking for actionable marketing and product insights. |
 | [Analytics Product](../../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
 | [Business Analyst](../../operations/data-analysis/business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
+| [Customer Journey Mapping Assistant](../../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
 | [Customer Panel Debate](../../marketing/data-analysis/customer-panel-debate.md) | Assemble a data-grounded customer panel to debate your high-stakes decisions. |
 | [Dashboard Design](../../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
 | [Data Engineering Data Driven Feature](data-engineering-data-driven-feature.md) | Build features guided by data insights, A/B testing, and continuous measurement. |
@@ -23,6 +24,7 @@ Clean, query, chart and explain data. 23 Grok Bot templates, 4 of them filed in 
 | [Posthog Automation](../../marketing/data-analysis/posthog-automation.md) | Automate PostHog analytics, feature flags, and project management via Rube MCP. |
 | [Product Decision Agent](product-decision-agent.md) | Diagnose product problems and get actionable next decisions and actions |
 | [Product Manager Toolkit](product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
+| [Product Usage Analytics Assistant](../../customer-support/data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
 | [Production Scheduling](../../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Screenshot Business Analyzer](../../operations/data-analysis/screenshot-business-analyzer.md) | Extracts business logic, functional modules, and data entities from UI screenshots. No code, just what the system does. No output if no screenshot pro |
 | [Shopify Review Triage](../../customer-support/data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |

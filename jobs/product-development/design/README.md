@@ -1,6 +1,6 @@
 # Design templates for Product Development
 
-Interfaces, brands, layouts and visual systems. 78 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 84 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,6 +26,7 @@ Interfaces, brands, layouts and visual systems. 78 Grok Bot templates, 7 of them
 | [Design Philosophy](../../creatives/design/design-philosophy.md) | Generate a named visual philosophy and art-direction for high-concept frontend work. |
 | [Design System](../../it-and-development/design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
 | [Design System Audit & Extend](../../it-and-development/design/design-design-system.md) | Audits your design system for hardcoded values, inconsistencies, and drift, then proposes new patterns that fit. |
+| [Design System Companion](../../creatives/design/design-system-companion.md) | Builds and keeps your design system consistent, documented, and adopted. |
 | [Design System Starter](../../creatives/design/design-system-starter.md) | Generate design tokens, component specs, and accessibility guidelines for a consistent UI system. |
 | [Design Ux](../../it-and-development/design/design-ux.md) | Heuristic usability audit of interactive UIs against Nielsen's 10 and interaction add-ons. Scores live rendered artifact, not mockups. Fixes then re-a |
 | [Deterministic Design](../../creatives/design/deterministic-design.md) | Render UI, measure balance with math, and run a Nielsen usability audit. |
@@ -50,6 +51,7 @@ Interfaces, brands, layouts and visual systems. 78 Grok Bot templates, 7 of them
 | [Iconsax Library](../../creatives/design/iconsax-library.md) | Iconsax provides premium icons and AI generation for cohesive, modern UI/UX design. |
 | [imagegen-frontend-mobile](../../creatives/design/imagegen-frontend-mobile.md) | Generates realistic mobile app screen mockups for pitches and product previews. |
 | [Industrial Brutalist Ui](../../creatives/design/industrial-brutalist-ui.md) | Create raw industrial or tactical telemetry UIs with rigid grids and stark typography. |
+| [Interaction Design Assistant](../../creatives/design/interaction-design-assistant.md) | Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff. |
 | [Lookdev](../../creatives/design/lookdev.md) | Build interactive studios for tuning, editing, and annotating creative work by eye. |
 | [Minimalism](../../creatives/design/minimalism.md) | Generate minimal layouts with extreme whitespace, strict typography, and no decoration. |
 | [Mobile Design](mobile-design.md) | Guide mobile-first design decisions for iOS and Android with platform conventions and touch psychology. |
@@ -58,6 +60,7 @@ Interfaces, brands, layouts and visual systems. 78 Grok Bot templates, 7 of them
 | [Premium Web Design](../../creatives/design/premium-web-design.md) | Generates award-quality React website components with unique, intentional design. |
 | [Product Design Bot](../../creatives/design/product-design.md) | Creates visual systems, design tokens, and UX flows with Apple standards. |
 | [Product Inventor](../../creatives/design/product-inventor.md) | Invent digital products by combining design thinking, systems, and psychology. |
+| [Responsive Web Design Assistant](../../creatives/design/responsive-web-design-assistant.md) | Guides UX/UI designers through every stage of responsive web design, from setup to maintenance. |
 | [Sci Fi Interface](../../creatives/design/sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Screenshot Reviewer](../../operations/design/screenshot-reviewer.md) | Reviews task lists against screenshots for completeness, consistency, and quality. |
 | [Screenshot Synthesizer](screenshot-synthesizer.md) | Combines UI, interaction, and business analyses into a unified feature list and task breakdown. |
@@ -70,6 +73,7 @@ Interfaces, brands, layouts and visual systems. 78 Grok Bot templates, 7 of them
 | [Stitch Ui Design](../../creatives/design/stitch-ui-design.md) | Crafts precise Google Stitch prompts for high-quality UI designs, no code or deployment. |
 | [Swiss Design](../../creatives/design/swiss-design.md) | Generate web/app layouts using strict grids, sans-serif type, and asymmetrical alignment. |
 | [Theme Factory](../../creatives/design/theme-factory.md) | Generate or apply curated slide-deck themes with color scales, fonts, and WCAG AA contrast. |
+| [Typography UI Design Assistant](../../creatives/design/typography-ui-design-assistant.md) | Typography guidance and tools for UI designers, from font pairing to accessibility checks. |
 | [Ui Design System](../../creatives/design/ui-design-system.md) | Generates design tokens, component docs, responsive calculations, and handoff files for a senior UI designer. |
 | [Ui Designer](../../creatives/design/ui-designer.md) | Designs visual interfaces, design systems, and component libraries with accessibility and brand alignment. |
 | [Ui Score](../../creatives/design/ui-score.md) | Score UI files 0-100 against StyleSeed design language with fix priorities. |
@@ -81,6 +85,8 @@ Interfaces, brands, layouts and visual systems. 78 Grok Bot templates, 7 of them
 | [Ux Flow](../../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 | [UX Flow & Wireframer](ux-flow-wireframer.md) | Sketches user flows and low-fidelity wireframes as text layouts and Mermaid diagrams before visual design begins. |
 | [Ux Persuasion Engineer](ux-persuasion-engineer.md) | Redesign UX flows to guide decisions by reducing friction and staging commitment, ethically. |
+| [UX Prototyping Assistant](../../creatives/design/ux-prototyping-assistant.md) | Turns wireframes and prototypes into tested, documented designs ready for handoff. |
+| [UX/UI Trend Analyst](../../creatives/design/ux-ui-trend-analyst.md) | Tracks UX/UI design trends and turns them into actionable design guidance for your projects. |
 | [Uxui Principles](../../creatives/design/uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
 | [Vercel Web Design Guidelines](../../creatives/design/vercel-web-design-guidelines.md) | Audits web UIs against 100+ heuristics for UX, layout, and accessibility, returning prioritized fixes. |
 | [Widget Based Design](../../creatives/design/widget-based-design.md) | Build modular, glanceable widget UI blocks for web and mobile apps. |

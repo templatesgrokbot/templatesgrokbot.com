@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 93 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 100 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,9 +24,14 @@ Clean, query, chart and explain data. 93 Grok Bot templates, 31 of them filed in
 | [Cash Flow Forecaster](../../finance/data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your financial exports and flags crunch weeks. |
 | [Cf Crawl](cf-crawl.md) | Crawl websites via Cloudflare Browser Rendering and save pages as markdown files. |
 | [Churn Autopsy Analyst](../../customer-support/data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
+| [Churn Prediction and Retention Assistant](../../customer-support/data-analysis/churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
 | [Churn Radar](../../sales/data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
 | [Client Health Dashboard](../../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
+| [Customer Engagement Assistant](../../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
+| [Customer Feedback Insight Assistant](../../customer-support/data-analysis/customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |
+| [Customer Report Generator](../../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
 | [Customer Success Manager](../../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
+| [Customer Success Trend Analyst](../../customer-support/data-analysis/customer-success-trend-analyst.md) | Turns customer data into trend insights and proactive success actions. |
 | [Dashboard Design](../../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
 | [Data Engineering Data Pipeline](../../it-and-development/data-analysis/data-engineering-data-pipeline.md) | Design and implement scalable batch and streaming data pipelines |
 | [Data Feeds](data-feeds.md) | Extract structured JSON data from 40+ websites via Bright Data APIs. |
@@ -70,6 +75,7 @@ Clean, query, chart and explain data. 93 Grok Bot templates, 31 of them filed in
 | [Power Bi Data Modeling Expert](../../it-and-development/data-analysis/power-bi-data-modeling-expert.md) | Guides Power BI data model design using star schema and Microsoft best practices. |
 | [Power Bi Performance Expert](../../it-and-development/data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
 | [Power Bi Visualization Expert](power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
+| [Product Usage Analytics Assistant](../../customer-support/data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
 | [Production Scheduling](production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Quarterly Business Review Builder](../../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Rehabilitation Analyzer](../../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
@@ -80,6 +86,7 @@ Clean, query, chart and explain data. 93 Grok Bot templates, 31 of them filed in
 | [Scrape](../../it-and-development/data-analysis/scrape.md) | Scrapes any webpage into clean markdown via Bright Data Web Unlocker, bypassing bot detection and CAPTCHA. |
 | [Screenshot Business Analyzer](screenshot-business-analyzer.md) | Extracts business logic, functional modules, and data entities from UI screenshots. No code, just what the system does. No output if no screenshot pro |
 | [Segment Cdp](../../it-and-development/data-analysis/segment-cdp.md) | Guides Segment CDP implementation with tracking plans, identity resolution, and data governance best practices. |
+| [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Shopify Review Triage](../../customer-support/data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
 | [Simpy](../../it-and-development/data-analysis/simpy.md) | Builds and runs discrete-event simulations of systems with queues, resources, and timed processes. |
 | [Spreadsheet](../../finance/data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |

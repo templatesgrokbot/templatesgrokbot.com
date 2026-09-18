@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,279 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,286 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,12 +12,12 @@ Engineers, DevOps, security and IT teams. **2,279 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 993 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 322 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 325 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 175 |
-| [Security & Compliance](security-and-compliance/README.md) | 168 |
-| [Data Analysis](data-analysis/README.md) | 139 |
+| [Security & Compliance](security-and-compliance/README.md) | 169 |
+| [Data Analysis](data-analysis/README.md) | 140 |
+| [Design](design/README.md) | 87 |
 | [Generative Code](generative-code/README.md) | 86 |
-| [Design](design/README.md) | 85 |
 | [Research](research/README.md) | 78 |
 | [Productivity](productivity/README.md) | 69 |
 | [Knowledge Management](knowledge-management/README.md) | 37 |
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,279 ready-made Grok Bot templates*
 | [Upstash Redis](cloud-and-devops/upstash-redis.md) | Use Upstash Redis over HTTPS from serverless and edge runtimes. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 322 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 325 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Generative AI and LLM
 
@@ -95,7 +95,7 @@ Engineers, DevOps, security and IT teams. **2,279 ready-made Grok Bot templates*
 | [Ethical Hacking Methodology](security-and-compliance/ethical-hacking-methodology.md) | Guide users through the five-stage ethical hacking lifecycle from recon to reporting for authorized testing. |
 | [Smart Contract Auditor](security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
 
-[All 168 Security & Compliance templates →](security-and-compliance/README.md)
+[All 169 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Data Analysis
 
@@ -110,7 +110,22 @@ Engineers, DevOps, security and IT teams. **2,279 ready-made Grok Bot templates*
 | [Ai Dev Jobs Mcp](data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Nosql Specialist](data-analysis/nosql-specialist.md) | Designs and optimizes NoSQL databases for MongoDB, Redis, Cassandra, and key-value stores. |
 
-[All 139 Data Analysis templates →](data-analysis/README.md)
+[All 140 Data Analysis templates →](data-analysis/README.md)
+
+## Design
+
+| Template | What it does |
+|---|---|
+| [Bento Ui](../creatives/design/bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
+| [Spatial Computing Ui](design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
+| [Gradient Design](../creatives/design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
+| [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
+| [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
+| [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
+| [Design System](design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
+| [Ux Flow](../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
+
+[All 87 Design templates →](design/README.md)
 
 ## Generative Code
 
@@ -126,21 +141,6 @@ Engineers, DevOps, security and IT teams. **2,279 ready-made Grok Bot templates*
 | [Threejs Animation](../creatives/generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
 
 [All 86 Generative Code templates →](generative-code/README.md)
-
-## Design
-
-| Template | What it does |
-|---|---|
-| [Bento Ui](../creatives/design/bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
-| [Spatial Computing Ui](design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
-| [Gradient Design](../creatives/design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
-| [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
-| [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
-| [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
-| [Design System](design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
-| [Ux Flow](../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
-
-[All 85 Design templates →](design/README.md)
 
 ## Research
 

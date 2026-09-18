@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **892 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **900 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,14 +12,14 @@ Product managers and the teams that ship. **892 ready-made Grok Bot templates** 
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 397 |
-| [Design](design/README.md) | 78 |
+| [Design](design/README.md) | 84 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
 | [Generative Code](generative-code/README.md) | 65 |
 | [Productivity](productivity/README.md) | 51 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 49 |
 | [Research](research/README.md) | 40 |
+| [Data Analysis](data-analysis/README.md) | 25 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 25 |
-| [Data Analysis](data-analysis/README.md) | 23 |
 | [Prompt Engineering](prompt-engineering/README.md) | 22 |
 | [Security & Compliance](security-and-compliance/README.md) | 19 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
@@ -60,7 +60,7 @@ Product managers and the teams that ship. **892 ready-made Grok Bot templates** 
 | [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
 
-[All 78 Design templates →](design/README.md)
+[All 84 Design templates →](design/README.md)
 
 ## Generative AI and LLM
 
@@ -137,6 +137,21 @@ Product managers and the teams that ship. **892 ready-made Grok Bot templates** 
 
 [All 40 Research templates →](research/README.md)
 
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Amplitude Automation](../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
+| [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
+| [Database Design](../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
+| [Zinc Database](../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
+| [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
+| [Customer Journey Mapping Assistant](../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
+| [Analytics](../marketing/data-analysis/analytics.md) | Set up, audit, and improve analytics tracking for actionable marketing and product insights. |
+| [Data Scientist](../it-and-development/data-analysis/data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
+
+[All 25 Data Analysis templates →](data-analysis/README.md)
+
 ## Marketing & Growth
 
 | Template | What it does |
@@ -151,21 +166,6 @@ Product managers and the teams that ship. **892 ready-made Grok Bot templates** 
 | [Signup Flow Cro](../marketing/marketing-and-growth/signup-flow-cro.md) | Analyze and improve signup flows to reduce friction and boost completion rates. |
 
 [All 25 Marketing & Growth templates →](marketing-and-growth/README.md)
-
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Amplitude Automation](../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
-| [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
-| [Database Design](../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
-| [Zinc Database](../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
-| [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
-| [Analytics](../marketing/data-analysis/analytics.md) | Set up, audit, and improve analytics tracking for actionable marketing and product insights. |
-| [Data Scientist](../it-and-development/data-analysis/data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
-| [Product Manager Toolkit](data-analysis/product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
-
-[All 23 Data Analysis templates →](data-analysis/README.md)
 
 ## Prompt Engineering
 

@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **302 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **305 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,7 @@ Team leads and project managers. **302 ready-made Grok Bot templates** for this 
 | [Productivity](productivity/README.md) | 92 |
 | [Coding](coding/README.md) | 44 |
 | [Research](research/README.md) | 34 |
-| [Data Analysis](data-analysis/README.md) | 32 |
+| [Data Analysis](data-analysis/README.md) | 33 |
 | [Knowledge Management](knowledge-management/README.md) | 18 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 12 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
@@ -28,6 +28,7 @@ Team leads and project managers. **302 ready-made Grok Bot templates** for this 
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 3 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
+| [Support & Community](support-and-community/README.md) | 2 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
 
 ## Productivity
@@ -226,6 +227,7 @@ Team leads and project managers. **302 ready-made Grok Bot templates** for this 
 | [Carrier Relationship Management](../operations/data-analysis/carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
 | [Churn Autopsy Analyst](../customer-support/data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
 | [Client Health Dashboard](../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
+| [Customer Report Generator](../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
 | [Dashboard Design](../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
 | [Developer Churn](../product-development/data-analysis/developer-churn.md) | Analyze developer churn and design retention strategies. |
 | [Developer Growth Analysis](../it-and-development/data-analysis/developer-growth-analysis.md) | Analyzes recent coding chats to identify growth areas and curates learning resources. |
@@ -415,6 +417,13 @@ Team leads and project managers. **302 ready-made Grok Bot templates** for this 
 |---|---|
 | [Consulting Proposal Generator](../sales/sales-and-negotiation/consulting-proposal-generator.md) | Turns a brief into a complete consulting proposal with research and pricing. |
 | [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
+| [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
 
 ## Speech-To-Text
 

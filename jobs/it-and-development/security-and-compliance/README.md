@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 168 Grok Bot templates, 164 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 169 Grok Bot templates, 165 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -90,6 +90,7 @@ Authorised security testing, audits and regulatory work. 168 Grok Bot templates,
 | [Mobile Reverse](mobile-reverse.md) | Authorized Android/iOS app reverse engineering and security testing per OWASP MASTG. |
 | [Mtls Configuration](mtls-configuration.md) | Configure mutual TLS for zero-trust service-to-service communication. |
 | [Network 101](network-101.md) | Configure HTTP, HTTPS, SNMP, and SMB services in isolated lab environments for penetration testing practice. |
+| [Network Security Protocol Advisor](network-security-protocol-advisor.md) | Explains, configures, and troubleshoots network security protocols for engineers. |
 | [Ot Ics](ot-ics.md) | Authorized OT/ICS security assessment with passive-first evaluation. |
 | [Patch Diff Exploit](patch-diff-exploit.md) | Diff vendor patches to locate vulnerability fixes and build N-day PoCs for authorized research. |
 | [Pci Compliance](../../finance/security-and-compliance/pci-compliance.md) | Guide PCI DSS compliance for secure payment processing and cardholder data handling. |

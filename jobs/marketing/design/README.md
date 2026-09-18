@@ -1,6 +1,6 @@
 # Design templates for Marketing
 
-Interfaces, brands, layouts and visual systems. 17 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 18 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,6 +20,7 @@ Interfaces, brands, layouts and visual systems. 17 Grok Bot templates, 3 of them
 | [Image Enhancer](../../creatives/design/image-enhancer.md) | Enhances image resolution, sharpness, and clarity for presentations, documentation, or social media. |
 | [Interactive Portfolio](../../creatives/design/interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
 | [Theme Factory](../../creatives/design/theme-factory.md) | Generate or apply curated slide-deck themes with color scales, fonts, and WCAG AA contrast. |
+| [UX/UI Trend Analyst](../../creatives/design/ux-ui-trend-analyst.md) | Tracks UX/UI design trends and turns them into actionable design guidance for your projects. |
 | [Vaporwave](../../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Visual Emotion Engineer](../../creatives/design/visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
 | [Y2k Design](../../creatives/design/y2k-design.md) | Generate Y2K aesthetic UI with chrome, blobs, and neon glow. |

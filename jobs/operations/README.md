@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **618 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **628 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,17 +12,17 @@ Processes, logistics and the systems that run a business. **618 ready-made Grok 
 | Kind of work | Templates |
 |---|---:|
 | [Cloud & DevOps](cloud-and-devops/README.md) | 169 |
+| [Data Analysis](data-analysis/README.md) | 100 |
 | [Productivity](productivity/README.md) | 96 |
-| [Data Analysis](data-analysis/README.md) | 93 |
 | [Coding](coding/README.md) | 59 |
 | [Research](research/README.md) | 33 |
 | [Office Tools](office-tools/README.md) | 27 |
 | [Security & Compliance](security-and-compliance/README.md) | 26 |
 | [Knowledge Management](knowledge-management/README.md) | 22 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 14 |
+| [Support & Community](support-and-community/README.md) | 14 |
 | [Writing & Content](writing-and-content/README.md) | 14 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 13 |
-| [Support & Community](support-and-community/README.md) | 11 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 8 |
 | [Generative Code](generative-code/README.md) | 7 |
@@ -50,6 +50,21 @@ Processes, logistics and the systems that run a business. **618 ready-made Grok 
 
 [All 169 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Power Bi Performance Expert](../it-and-development/data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
+| [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
+| [Podcast Content Analyzer](data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
+| [Monte Carlo Performance Diagnosis](../it-and-development/data-analysis/monte-carlo-performance-diagnosis.md) | Diagnoses pipeline performance issues using Monte Carlo observability data. |
+| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
+| [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
+| [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
+| [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
+
+[All 100 Data Analysis templates →](data-analysis/README.md)
+
 ## Productivity
 
 | Template | What it does |
@@ -64,21 +79,6 @@ Processes, logistics and the systems that run a business. **618 ready-made Grok 
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
 [All 96 Productivity templates →](productivity/README.md)
-
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Power Bi Performance Expert](../it-and-development/data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
-| [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
-| [Podcast Content Analyzer](data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
-| [Monte Carlo Performance Diagnosis](../it-and-development/data-analysis/monte-carlo-performance-diagnosis.md) | Diagnoses pipeline performance issues using Monte Carlo observability data. |
-| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
-| [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
-| [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
-| [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
-
-[All 93 Data Analysis templates →](data-analysis/README.md)
 
 ## Coding
 
@@ -170,6 +170,21 @@ Processes, logistics and the systems that run a business. **618 ready-made Grok 
 
 [All 14 Marketing & Growth templates →](marketing-and-growth/README.md)
 
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
+| [Returns Reverse Logistics](support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
+| [Community Building](support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
+| [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
+| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
+| [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
+| [Community Mod](support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
+| [Freshdesk Automation](../customer-support/support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
+
+[All 14 Support & Community templates →](support-and-community/README.md)
+
 ## Writing & Content
 
 | Template | What it does |
@@ -199,21 +214,6 @@ Processes, logistics and the systems that run a business. **618 ready-made Grok 
 | [Loopy](../it-and-development/generative-ai-and-llm/loopy.md) | Discover, craft, audit, and publish bounded AI-agent loops from engineering work. |
 
 [All 13 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
-| [Returns Reverse Logistics](support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
-| [Community Building](support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
-| [Community Mod](support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
-| [Freshdesk Automation](../customer-support/support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
-| [Agentphone](support-and-community/agentphone.md) | Manage phone numbers, voice agents, calls, and SMS via the AgentPhone API. |
-| [Doordash Allergy Shield](support-and-community/doordash-allergy-shield.md) | Vets DoorDash carts against a stored household dietary profile before checkout. |
-| [Intercom Automation](../customer-support/support-and-community/intercom-automation.md) | Automate Intercom conversations, contacts, companies, and admins via Composio. |
-
-[All 11 Support & Community templates →](support-and-community/README.md)
 
 ## Speech-To-Text
 

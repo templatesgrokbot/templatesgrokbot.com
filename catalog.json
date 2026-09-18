@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 3064,
+ "count": 3088,
  "templates": [
   {
    "slug": "007",
@@ -9431,6 +9431,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "churn-prediction-and-retention-assistant",
+   "name": "Churn Prediction and Retention Assistant",
+   "tagline": "Predict churn, segment at-risk customers, and generate retention actions from your customer data.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "marketing",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "generative-ai-and-llm",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/customer-support/data-analysis/churn-prediction-and-retention-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/churn-prediction-and-retention-assistant"
+  },
+  {
    "slug": "churn-prevention",
    "name": "Churn Prevention",
    "tagline": "Reduce voluntary and involuntary churn with cancel flows, save offers, and dunning strategies.",
@@ -13039,6 +13057,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "crisis-management-playbook-builder",
+   "name": "Crisis Management Playbook Builder",
+   "tagline": "Plans, executes, and evaluates crisis communication and customer success strategies.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "support-and-community"
+   ],
+   "path": "jobs/customer-support/support-and-community/crisis-management-playbook-builder.md",
+   "url": "https://templatesgrokbot.com/bot/crisis-management-playbook-builder"
+  },
+  {
    "slug": "critical-thinking",
    "name": "Critical Thinking",
    "tagline": "Challenge assumptions and probe reasoning to find the best solution.",
@@ -13528,6 +13562,75 @@
    "source_license": "MIT"
   },
   {
+   "slug": "customer-engagement-assistant",
+   "name": "Customer Engagement Assistant",
+   "tagline": "Personalized customer engagement for Customer Success Managers.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "sales",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth",
+    "support-and-community"
+   ],
+   "path": "jobs/customer-support/data-analysis/customer-engagement-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/customer-engagement-assistant"
+  },
+  {
+   "slug": "customer-feedback-insight-assistant",
+   "name": "Customer Feedback Insight Assistant",
+   "tagline": "Turns customer feedback into actionable insights and responses for customer success managers.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/customer-support/data-analysis/customer-feedback-insight-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/customer-feedback-insight-assistant"
+  },
+  {
+   "slug": "customer-issue-resolution-assistant",
+   "name": "Customer Issue Resolution Assistant",
+   "tagline": "Guides customer success managers through issue triage, resolution, and proactive monitoring.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "support-and-community",
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/customer-support/support-and-community/customer-issue-resolution-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/customer-issue-resolution-assistant"
+  },
+  {
+   "slug": "customer-journey-mapping-assistant",
+   "name": "Customer Journey Mapping Assistant",
+   "tagline": "Maps customer journeys, finds pain points, and suggests improvements from your data.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "product-development",
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/customer-support/data-analysis/customer-journey-mapping-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/customer-journey-mapping-assistant"
+  },
+  {
    "slug": "customer-panel-debate",
    "name": "Customer Panel Debate",
    "tagline": "Assemble a data-grounded customer panel to debate your high-stakes decisions.",
@@ -13567,6 +13670,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "customer-report-generator",
+   "name": "Customer Report Generator",
+   "tagline": "Generates, customizes, and tracks customer reports from data collection to delivery.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools",
+    "productivity"
+   ],
+   "path": "jobs/customer-support/data-analysis/customer-report-generator.md",
+   "url": "https://templatesgrokbot.com/bot/customer-report-generator"
+  },
+  {
    "slug": "customer-research",
    "name": "Customer Research",
    "tagline": "Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities.",
@@ -13584,6 +13705,22 @@
    "url": "https://templatesgrokbot.com/bot/customer-research",
    "adapted_from": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/customer-research",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "customer-segmentation-insights-assistant",
+   "name": "Customer Segmentation Insights Assistant",
+   "tagline": "Turns customer data into segments, insights, and actions for Customer Success Managers.",
+   "category": "marketing",
+   "jobs": [
+    "customer-support",
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/customer-support/data-analysis/customer-segmentation-insights-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/customer-segmentation-insights-assistant"
   },
   {
    "slug": "customer-success-manager",
@@ -13605,6 +13742,40 @@
    "source_license": "MIT"
   },
   {
+   "slug": "customer-success-response-manager",
+   "name": "Customer Success Response Manager",
+   "tagline": "Handles customer conversations, support, and retention for Customer Success Managers.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "operations",
+    "sales"
+   ],
+   "topics": [
+    "support-and-community"
+   ],
+   "path": "jobs/customer-support/support-and-community/customer-success-response-manager.md",
+   "url": "https://templatesgrokbot.com/bot/customer-success-response-manager"
+  },
+  {
+   "slug": "customer-success-trend-analyst",
+   "name": "Customer Success Trend Analyst",
+   "tagline": "Turns customer data into trend insights and proactive success actions.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "operations",
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/customer-support/data-analysis/customer-success-trend-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/customer-success-trend-analyst"
+  },
+  {
    "slug": "customer-support",
    "name": "Customer Support",
    "tagline": "Resolves support tickets and creates help documentation from confirmed facts only.",
@@ -13621,6 +13792,22 @@
    "url": "https://templatesgrokbot.com/bot/customer-support",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "customer-training-content-developer",
+   "name": "Customer Training Content Developer",
+   "tagline": "Training content development assistant for Customer Success Managers, from research to delivery.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/customer-support/teaching-and-tutoring/customer-training-content-developer.md",
+   "url": "https://templatesgrokbot.com/bot/customer-training-content-developer"
   },
   {
    "slug": "cowork-cowork-plugin-customizer",
@@ -15514,6 +15701,24 @@
    "path": "jobs/it-and-development/design/design-design-system.md",
    "url": "https://templatesgrokbot.com/bot/design-design-system",
    "adapted_from": "https://collectivebrain.de/en/skills/design-design-system/"
+  },
+  {
+   "slug": "design-system-companion",
+   "name": "Design System Companion",
+   "tagline": "Builds and keeps your design system consistent, documented, and adopted.",
+   "category": "creative",
+   "jobs": [
+    "creatives",
+    "product-development",
+    "it-and-development"
+   ],
+   "topics": [
+    "design",
+    "generative-art",
+    "knowledge-management"
+   ],
+   "path": "jobs/creatives/design/design-system-companion.md",
+   "url": "https://templatesgrokbot.com/bot/design-system-companion"
   },
   {
    "slug": "design-system-starter",
@@ -20193,7 +20398,8 @@
    "tagline": "Audit and fix HTML accessibility issues: ARIA, keyboard, focus, contrast, forms.",
    "category": "engineering",
    "jobs": [
-    "it-and-development"
+    "it-and-development",
+    "creatives"
    ],
    "topics": [
     "coding"
@@ -25696,6 +25902,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "interaction-design-assistant",
+   "name": "Interaction Design Assistant",
+   "tagline": "Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff.",
+   "category": "creative",
+   "jobs": [
+    "creatives",
+    "product-development"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/creatives/design/interaction-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/interaction-design-assistant"
+  },
+  {
    "slug": "interactive-portfolio",
    "name": "Interactive Portfolio",
    "tagline": "Builds project portfolios that convert visitors into job leads or client inquiries.",
@@ -26754,6 +26975,21 @@
    "url": "https://templatesgrokbot.com/bot/klaviyo-automation",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "knowledge-base-builder",
+   "name": "Knowledge Base Builder",
+   "tagline": "Builds and maintains your knowledge base and FAQ content from customer data.",
+   "category": "operations",
+   "jobs": [
+    "customer-support"
+   ],
+   "topics": [
+    "knowledge-management",
+    "support-and-community"
+   ],
+   "path": "jobs/customer-support/knowledge-management/knowledge-base-builder.md",
+   "url": "https://templatesgrokbot.com/bot/knowledge-base-builder"
   },
   {
    "slug": "knowledge-synthesizer",
@@ -32806,6 +33042,34 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "network-security-protocol-advisor",
+   "name": "Network Security Protocol Advisor",
+   "tagline": "Explains, configures, and troubleshoots network security protocols for engineers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/network-security-protocol-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/network-security-protocol-advisor"
+  },
+  {
+   "slug": "network-troubleshooting-assistant",
+   "name": "Network Troubleshooting Assistant",
+   "tagline": "Diagnose and resolve network issues with structured troubleshooting guidance and documentation support.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/network-troubleshooting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/network-troubleshooting-assistant"
+  },
+  {
    "slug": "networkx",
    "name": "Networkx",
    "tagline": "Build, analyze, and visualize network graphs from data using NetworkX, with no code execution outside sandbox.",
@@ -37841,6 +38105,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "product-usage-analytics-assistant",
+   "name": "Product Usage Analytics Assistant",
+   "tagline": "Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "operations",
+    "product-development"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/customer-support/data-analysis/product-usage-analytics-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/product-usage-analytics-assistant"
+  },
+  {
    "slug": "production-audit",
    "name": "Production Audit",
    "tagline": "Audits deployed repos for production-readiness gaps across security, infra, and UX.",
@@ -40658,6 +40938,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "responsive-web-design-assistant",
+   "name": "Responsive Web Design Assistant",
+   "tagline": "Guides UX/UI designers through every stage of responsive web design, from setup to maintenance.",
+   "category": "creative",
+   "jobs": [
+    "creatives",
+    "product-development"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/creatives/design/responsive-web-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/responsive-web-design-assistant"
+  },
+  {
    "slug": "resume-ats-optimizer",
    "name": "Resume Ats Optimizer",
    "tagline": "Analyzes resumes for ATS compatibility and optimizes keyword match against job descriptions.",
@@ -43420,6 +43715,24 @@
    "url": "https://templatesgrokbot.com/bot/senior-security",
    "adapted_from": "https://www.aitmpl.com/component/skills/development/senior-security",
    "source_license": "MIT"
+  },
+  {
+   "slug": "sentiment-insight-compiler",
+   "name": "Sentiment Insight Compiler",
+   "tagline": "Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "marketing",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/customer-support/data-analysis/sentiment-insight-compiler.md",
+   "url": "https://templatesgrokbot.com/bot/sentiment-insight-compiler"
   },
   {
    "slug": "sentry-automation",
@@ -49700,6 +50013,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "typography-ui-design-assistant",
+   "name": "Typography UI Design Assistant",
+   "tagline": "Typography guidance and tools for UI designers, from font pairing to accessibility checks.",
+   "category": "creative",
+   "jobs": [
+    "creatives",
+    "product-development"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/creatives/design/typography-ui-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/typography-ui-design-assistant"
+  },
+  {
    "slug": "ui-a11y",
    "name": "Ui A11y",
    "tagline": "Audit a component or page for WCAG 2.2 AA compliance and apply fixes.",
@@ -50870,6 +51198,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "ux-prototyping-assistant",
+   "name": "UX Prototyping Assistant",
+   "tagline": "Turns wireframes and prototypes into tested, documented designs ready for handoff.",
+   "category": "creative",
+   "jobs": [
+    "creatives",
+    "product-development",
+    "it-and-development"
+   ],
+   "topics": [
+    "design",
+    "generative-art",
+    "prompt-engineering"
+   ],
+   "path": "jobs/creatives/design/ux-prototyping-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/ux-prototyping-assistant"
+  },
+  {
    "slug": "ux-research-interview-kit",
    "name": "UX Research Interview Kit",
    "tagline": "Builds structured interview kits: screener, guide, notes, and analysis grid for UX research.",
@@ -50923,6 +51269,24 @@
    "url": "https://templatesgrokbot.com/bot/ux-researcher-designer",
    "adapted_from": "https://www.aitmpl.com/component/skills/creative-design/ux-researcher-designer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "ux-ui-trend-analyst",
+   "name": "UX/UI Trend Analyst",
+   "tagline": "Tracks UX/UI design trends and turns them into actionable design guidance for your projects.",
+   "category": "creative",
+   "jobs": [
+    "creatives",
+    "marketing",
+    "product-development"
+   ],
+   "topics": [
+    "design",
+    "research",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/creatives/design/ux-ui-trend-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/ux-ui-trend-analyst"
   },
   {
    "slug": "uxui-principles",
@@ -51739,6 +52103,21 @@
    "url": "https://templatesgrokbot.com/bot/vizcom",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "vlan-configuration-assistant",
+   "name": "VLAN Configuration Assistant",
+   "tagline": "Design, configure, troubleshoot, and document VLANs across your network.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/vlan-configuration-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/vlan-configuration-assistant"
   },
   {
    "slug": "voice-agents",
@@ -52777,6 +53156,20 @@
    "url": "https://templatesgrokbot.com/bot/winformsexpert",
    "adapted_from": "https://www.aitmpl.com/component/agents/expert-advisors/WinFormsExpert",
    "source_license": "MIT"
+  },
+  {
+   "slug": "wireless-network-optimization-assistant",
+   "name": "Wireless Network Optimization Assistant",
+   "tagline": "Optimizes wireless networks through analysis, planning, and configuration recommendations.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/wireless-network-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/wireless-network-optimization-assistant"
   },
   {
    "slug": "wireshark-analysis",

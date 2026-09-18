@@ -1,6 +1,6 @@
 # Coding templates for Creatives
 
-Write, review, test and debug software. 33 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 34 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Write, review, test and debug software. 33 Grok Bot templates, 2 of them filed i
 | [Develop Web Game](../../it-and-development/coding/develop-web-game.md) | Build and test web games in small, validated steps with automated Playwright checks. |
 | [Favicon](../../it-and-development/coding/favicon.md) | Generate a complete favicon set from a source image and inject HTML tags. |
 | [Figma to Code](../../it-and-development/coding/figma-to-code.md) | Converts Figma designs into clean, semantic HTML/CSS or React code. |
+| [Fixing Accessibility](../../it-and-development/coding/fixing-accessibility.md) | Audit and fix HTML accessibility issues: ARIA, keyboard, focus, contrast, forms. |
 | [Fixing Motion Performance](../../it-and-development/coding/fixing-motion-performance.md) | Audit and fix animation jank by enforcing compositor-only motion and layout-safe patterns. |
 | [Frontend Ui Dark Ts](../../it-and-development/coding/frontend-ui-dark-ts.md) | Dark-themed React UI system with Tailwind CSS and Framer Motion for dashboards. |
 | [Game Developer](../../it-and-development/coding/game-developer.md) | Optimizes and builds game systems, graphics, networking, and mechanics for target platforms. |

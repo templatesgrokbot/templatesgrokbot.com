@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 32 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 33 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Clean, query, chart and explain data. 32 Grok Bot templates, 3 of them filed in 
 | [Carrier Relationship Management](../../operations/data-analysis/carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
 | [Churn Autopsy Analyst](../../customer-support/data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
 | [Client Health Dashboard](../../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
+| [Customer Report Generator](../../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
 | [Dashboard Design](../../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
 | [Developer Churn](../../product-development/data-analysis/developer-churn.md) | Analyze developer churn and design retention strategies. |
 | [Developer Growth Analysis](../../it-and-development/data-analysis/developer-growth-analysis.md) | Analyzes recent coding chats to identify growth areas and curates learning resources. |

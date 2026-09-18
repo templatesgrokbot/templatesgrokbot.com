@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 126 Grok Bot templates, 103 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 132 Grok Bot templates, 109 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -46,6 +46,7 @@ Interfaces, brands, layouts and visual systems. 126 Grok Bot templates, 103 of t
 | [Design Spatial](design-spatial.md) | Render, critique, and fix spatial layout until horizontal overflow is zero. |
 | [Design Spells](design-spells.md) | Curated micro-interactions and UX patterns to add magic to web interfaces. |
 | [Design System Audit & Extend](../../it-and-development/design/design-design-system.md) | Audits your design system for hardcoded values, inconsistencies, and drift, then proposes new patterns that fit. |
+| [Design System Companion](design-system-companion.md) | Builds and keeps your design system consistent, documented, and adopted. |
 | [Design System Starter](design-system-starter.md) | Generate design tokens, component specs, and accessibility guidelines for a consistent UI system. |
 | [Design Thinking](design-thinking.md) | Define frontend purpose, tone, and domain before coding. |
 | [Design Ux](../../it-and-development/design/design-ux.md) | Heuristic usability audit of interactive UIs against Nielsen's 10 and interaction add-ons. Scores live rendered artifact, not mockups. Fixes then re-a |
@@ -83,6 +84,7 @@ Interfaces, brands, layouts and visual systems. 126 Grok Bot templates, 103 of t
 | [Image Enhancer](image-enhancer.md) | Enhances image resolution, sharpness, and clarity for presentations, documentation, or social media. |
 | [imagegen-frontend-mobile](imagegen-frontend-mobile.md) | Generates realistic mobile app screen mockups for pitches and product previews. |
 | [Industrial Brutalist Ui](industrial-brutalist-ui.md) | Create raw industrial or tactical telemetry UIs with rigid grids and stark typography. |
+| [Interaction Design Assistant](interaction-design-assistant.md) | Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff. |
 | [Interactive Portfolio](interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
 | [Isometric Design](isometric-design.md) | Guides implementing isometric 3D views without vanishing points for web and apps. |
 | [Lookdev](lookdev.md) | Build interactive studios for tuning, editing, and annotating creative work by eye. |
@@ -100,6 +102,7 @@ Interfaces, brands, layouts and visual systems. 126 Grok Bot templates, 103 of t
 | [Product Inventor](product-inventor.md) | Invent digital products by combining design thinking, systems, and psychology. |
 | [Radix Ui Design System](radix-ui-design-system.md) | Build accessible, unstyled React component libraries with Radix UI primitives. |
 | [Redesign Existing Projects](../../it-and-development/design/redesign-existing-projects.md) | Audit and upgrade existing UI with premium design fixes, no rewrites. |
+| [Responsive Web Design Assistant](responsive-web-design-assistant.md) | Guides UX/UI designers through every stage of responsive web design, from setup to maintenance. |
 | [Retro Design](retro-design.md) | Generate retro 60s-80s UI with warm muted colors, grain, and classic typography. |
 | [Retro Futurism](retro-futurism.md) | Generate retro-futurist UI with 1950s space-age aesthetics and atompunk vibes. |
 | [Sci Fi Interface](sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
@@ -113,6 +116,7 @@ Interfaces, brands, layouts and visual systems. 126 Grok Bot templates, 103 of t
 | [Synthwave](synthwave.md) | Build 80s neon web and app interfaces with dark backgrounds, glowing grids, and synthwave aesthetics. |
 | [Theme Factory](theme-factory.md) | Generate or apply curated slide-deck themes with color scales, fonts, and WCAG AA contrast. |
 | [Tile Design](../../it-and-development/design/tile-design.md) | Build sharp-cornered Metro UI tiles with horizontal scrolling and live data for web and mobile. |
+| [Typography UI Design Assistant](typography-ui-design-assistant.md) | Typography guidance and tools for UI designers, from font pairing to accessibility checks. |
 | [Ui Design System](ui-design-system.md) | Generates design tokens, component docs, responsive calculations, and handoff files for a senior UI designer. |
 | [Ui Designer](ui-designer.md) | Designs visual interfaces, design systems, and component libraries with accessibility and brand alignment. |
 | [Ui Pattern](ui-pattern.md) | Generate a composed UI pattern from design system primitives. |
@@ -124,6 +128,8 @@ Interfaces, brands, layouts and visual systems. 126 Grok Bot templates, 103 of t
 | [Ux Audit](ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 | [Ux Flow](ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 | [Ux Persuasion Engineer](../../product-development/design/ux-persuasion-engineer.md) | Redesign UX flows to guide decisions by reducing friction and staging commitment, ethically. |
+| [UX Prototyping Assistant](ux-prototyping-assistant.md) | Turns wireframes and prototypes into tested, documented designs ready for handoff. |
+| [UX/UI Trend Analyst](ux-ui-trend-analyst.md) | Tracks UX/UI design trends and turns them into actionable design guidance for your projects. |
 | [Uxui Principles](uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
 | [Vaporwave](vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Vercel Web Design Guidelines](vercel-web-design-guidelines.md) | Audits web UIs against 100+ heuristics for UX, layout, and accessibility, returning prioritized fixes. |

@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 36 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 40 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,8 +22,11 @@ Clean, query, chart and explain data. 36 Grok Bot templates, 21 of them filed in
 | [Apify Trend Analysis](apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
 | [Buywhere Product Catalog](../../sales/data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
 | [Champion Identifier](../../sales/data-analysis/champion-identifier.md) | Finds the internal advocate most likely to push your solution through a target account. |
+| [Churn Prediction and Retention Assistant](../../customer-support/data-analysis/churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
 | [Churn Radar](../../sales/data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
+| [Customer Journey Mapping Assistant](../../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
 | [Customer Panel Debate](customer-panel-debate.md) | Assemble a data-grounded customer panel to debate your high-stakes decisions. |
+| [Customer Segmentation Insights Assistant](../../customer-support/data-analysis/customer-segmentation-insights-assistant.md) | Turns customer data into segments, insights, and actions for Customer Success Managers. |
 | [Data Analyst](../../science-and-research/data-analysis/data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
 | [Data Researcher](../../science-and-research/data-analysis/data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
 | [Data Storytelling](../../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
@@ -40,6 +43,7 @@ Clean, query, chart and explain data. 36 Grok Bot templates, 21 of them filed in
 | [Podcast Content Analyzer](../../operations/data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
 | [Posthog Automation](posthog-automation.md) | Automate PostHog analytics, feature flags, and project management via Rube MCP. |
 | [Quarterly Business Review Builder](quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
+| [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Talivia Agent Kit](talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [X Twitter Scraper](../../operations/data-analysis/x-twitter-scraper.md) | X data extraction and giveaway draws via the Xquik API, read-only. |
 

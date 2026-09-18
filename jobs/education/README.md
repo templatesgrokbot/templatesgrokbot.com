@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **80 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **81 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Teachers, trainers and students. **80 ready-made Grok Bot templates** for this f
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 22 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 23 |
 | [Research](research/README.md) | 19 |
 | [Writing & Content](writing-and-content/README.md) | 12 |
 | [Coding](coding/README.md) | 5 |
@@ -31,6 +31,7 @@ Teachers, trainers and students. **80 ready-made Grok Bot templates** for this f
 |---|---|
 | [Code Documentation Code Explain](teaching-and-tutoring/code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |
 | [Crossframe Teach](teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
+| [Customer Training Content Developer](../customer-support/teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
 | [Demonstrate Understanding](teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Examprep Ai](teaching-and-tutoring/examprep-ai.md) | Turns syllabi and past papers into a ranked study roadmap ordered Easy to Hard. |
 | [Explain Like Socrates](teaching-and-tutoring/explain-like-socrates.md) | Explain ideas through Socratic dialogue and guided reasoning. |

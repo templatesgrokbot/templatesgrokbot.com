@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **310 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **317 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,9 +11,9 @@ Designers, artists and content creators. **310 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 126 |
+| [Design](design/README.md) | 132 |
 | [Generative Art](generative-art/README.md) | 44 |
-| [Coding](coding/README.md) | 33 |
+| [Coding](coding/README.md) | 34 |
 | [Generative Code](generative-code/README.md) | 30 |
 | [Writing & Content](writing-and-content/README.md) | 22 |
 | [Social Media](social-media/README.md) | 11 |
@@ -73,6 +73,7 @@ Designers, artists and content creators. **310 ready-made Grok Bot templates** f
 | [Design Spatial](design/design-spatial.md) | Render, critique, and fix spatial layout until horizontal overflow is zero. |
 | [Design Spells](design/design-spells.md) | Curated micro-interactions and UX patterns to add magic to web interfaces. |
 | [Design System Audit & Extend](../it-and-development/design/design-design-system.md) | Audits your design system for hardcoded values, inconsistencies, and drift, then proposes new patterns that fit. |
+| [Design System Companion](design/design-system-companion.md) | Builds and keeps your design system consistent, documented, and adopted. |
 | [Design System Starter](design/design-system-starter.md) | Generate design tokens, component specs, and accessibility guidelines for a consistent UI system. |
 | [Design Thinking](design/design-thinking.md) | Define frontend purpose, tone, and domain before coding. |
 | [Design Ux](../it-and-development/design/design-ux.md) | Heuristic usability audit of interactive UIs against Nielsen's 10 and interaction add-ons. Scores live rendered artifact, not mockups. Fixes then re-a |
@@ -110,6 +111,7 @@ Designers, artists and content creators. **310 ready-made Grok Bot templates** f
 | [Image Enhancer](design/image-enhancer.md) | Enhances image resolution, sharpness, and clarity for presentations, documentation, or social media. |
 | [imagegen-frontend-mobile](design/imagegen-frontend-mobile.md) | Generates realistic mobile app screen mockups for pitches and product previews. |
 | [Industrial Brutalist Ui](design/industrial-brutalist-ui.md) | Create raw industrial or tactical telemetry UIs with rigid grids and stark typography. |
+| [Interaction Design Assistant](design/interaction-design-assistant.md) | Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff. |
 | [Interactive Portfolio](design/interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
 | [Isometric Design](design/isometric-design.md) | Guides implementing isometric 3D views without vanishing points for web and apps. |
 | [Lookdev](design/lookdev.md) | Build interactive studios for tuning, editing, and annotating creative work by eye. |
@@ -127,6 +129,7 @@ Designers, artists and content creators. **310 ready-made Grok Bot templates** f
 | [Product Inventor](design/product-inventor.md) | Invent digital products by combining design thinking, systems, and psychology. |
 | [Radix Ui Design System](design/radix-ui-design-system.md) | Build accessible, unstyled React component libraries with Radix UI primitives. |
 | [Redesign Existing Projects](../it-and-development/design/redesign-existing-projects.md) | Audit and upgrade existing UI with premium design fixes, no rewrites. |
+| [Responsive Web Design Assistant](design/responsive-web-design-assistant.md) | Guides UX/UI designers through every stage of responsive web design, from setup to maintenance. |
 | [Retro Design](design/retro-design.md) | Generate retro 60s-80s UI with warm muted colors, grain, and classic typography. |
 | [Retro Futurism](design/retro-futurism.md) | Generate retro-futurist UI with 1950s space-age aesthetics and atompunk vibes. |
 | [Sci Fi Interface](design/sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
@@ -140,6 +143,7 @@ Designers, artists and content creators. **310 ready-made Grok Bot templates** f
 | [Synthwave](design/synthwave.md) | Build 80s neon web and app interfaces with dark backgrounds, glowing grids, and synthwave aesthetics. |
 | [Theme Factory](design/theme-factory.md) | Generate or apply curated slide-deck themes with color scales, fonts, and WCAG AA contrast. |
 | [Tile Design](../it-and-development/design/tile-design.md) | Build sharp-cornered Metro UI tiles with horizontal scrolling and live data for web and mobile. |
+| [Typography UI Design Assistant](design/typography-ui-design-assistant.md) | Typography guidance and tools for UI designers, from font pairing to accessibility checks. |
 | [Ui Design System](design/ui-design-system.md) | Generates design tokens, component docs, responsive calculations, and handoff files for a senior UI designer. |
 | [Ui Designer](design/ui-designer.md) | Designs visual interfaces, design systems, and component libraries with accessibility and brand alignment. |
 | [Ui Pattern](design/ui-pattern.md) | Generate a composed UI pattern from design system primitives. |
@@ -151,6 +155,8 @@ Designers, artists and content creators. **310 ready-made Grok Bot templates** f
 | [Ux Audit](design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 | [Ux Flow](design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 | [Ux Persuasion Engineer](../product-development/design/ux-persuasion-engineer.md) | Redesign UX flows to guide decisions by reducing friction and staging commitment, ethically. |
+| [UX Prototyping Assistant](design/ux-prototyping-assistant.md) | Turns wireframes and prototypes into tested, documented designs ready for handoff. |
+| [UX/UI Trend Analyst](design/ux-ui-trend-analyst.md) | Tracks UX/UI design trends and turns them into actionable design guidance for your projects. |
 | [Uxui Principles](design/uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
 | [Vaporwave](design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Vercel Web Design Guidelines](design/vercel-web-design-guidelines.md) | Audits web UIs against 100+ heuristics for UX, layout, and accessibility, returning prioritized fixes. |
@@ -222,6 +228,7 @@ Designers, artists and content creators. **310 ready-made Grok Bot templates** f
 | [Develop Web Game](../it-and-development/coding/develop-web-game.md) | Build and test web games in small, validated steps with automated Playwright checks. |
 | [Favicon](../it-and-development/coding/favicon.md) | Generate a complete favicon set from a source image and inject HTML tags. |
 | [Figma to Code](../it-and-development/coding/figma-to-code.md) | Converts Figma designs into clean, semantic HTML/CSS or React code. |
+| [Fixing Accessibility](../it-and-development/coding/fixing-accessibility.md) | Audit and fix HTML accessibility issues: ARIA, keyboard, focus, contrast, forms. |
 | [Fixing Motion Performance](../it-and-development/coding/fixing-motion-performance.md) | Audit and fix animation jank by enforcing compositor-only motion and layout-safe patterns. |
 | [Frontend Ui Dark Ts](../it-and-development/coding/frontend-ui-dark-ts.md) | Dark-themed React UI system with Tailwind CSS and Framer Motion for dashboards. |
 | [Game Developer](../it-and-development/coding/game-developer.md) | Optimizes and builds game systems, graphics, networking, and mechanics for target platforms. |

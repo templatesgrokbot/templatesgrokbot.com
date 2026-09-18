@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **33 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **47 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,23 +11,46 @@ Answering, routing and resolving customer requests. **33 ready-made Grok Bot tem
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 9 |
+| [Data Analysis](data-analysis/README.md) | 13 |
+| [Support & Community](support-and-community/README.md) | 12 |
 | [Productivity](productivity/README.md) | 8 |
-| [Data Analysis](data-analysis/README.md) | 4 |
 | [Coding](coding/README.md) | 3 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 2 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 2 |
+| [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Research](research/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 | [Social Media](social-media/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 | [Writing & Content](writing-and-content/README.md) | 1 |
+
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Churn Autopsy Analyst](data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
+| [Churn Prediction and Retention Assistant](data-analysis/churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
+| [Client Health Dashboard](data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
+| [Customer Engagement Assistant](data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
+| [Customer Feedback Insight Assistant](data-analysis/customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |
+| [Customer Journey Mapping Assistant](data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
+| [Customer Report Generator](data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
+| [Customer Segmentation Insights Assistant](data-analysis/customer-segmentation-insights-assistant.md) | Turns customer data into segments, insights, and actions for Customer Success Managers. |
+| [Customer Success Manager](data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
+| [Customer Success Trend Analyst](data-analysis/customer-success-trend-analyst.md) | Turns customer data into trend insights and proactive success actions. |
+| [Product Usage Analytics Assistant](data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
+| [Sentiment Insight Compiler](data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
+| [Shopify Review Triage](data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
 
 ## Support & Community
 
 | Template | What it does |
 |---|---|
 | [Community Mod](../operations/support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
+| [Crisis Management Playbook Builder](support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
+| [Customer Issue Resolution Assistant](support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
+| [Customer Success Response Manager](support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 | [Customer Support](support-and-community/customer-support.md) | Resolves support tickets and creates help documentation from confirmed facts only. |
 | [Freshdesk Automation](support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
 | [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
@@ -50,15 +73,6 @@ Answering, routing and resolving customer requests. **33 ready-made Grok Bot tem
 | [Telegram Automation](../operations/productivity/telegram-automation.md) | Automate Telegram messaging, chat management, and bot commands via MCP tools. |
 | [Telegram Bot Messaging](../operations/productivity/telegram-bot-messaging.md) | Send Telegram messages, files, alerts, and approval prompts via bot API. |
 
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Churn Autopsy Analyst](data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
-| [Client Health Dashboard](data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
-| [Customer Success Manager](data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
-| [Shopify Review Triage](data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
-
 ## Coding
 
 | Template | What it does |
@@ -80,6 +94,12 @@ Answering, routing and resolving customer requests. **33 ready-made Grok Bot tem
 |---|---|
 | [Azure Ai Contentsafety Py](../it-and-development/generative-ai-and-llm/azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
 | [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
+
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Knowledge Base Builder](knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
 
 ## Research
 
@@ -104,6 +124,12 @@ Answering, routing and resolving customer requests. **33 ready-made Grok Bot tem
 | Template | What it does |
 |---|---|
 | [Audio Transcriber](../operations/speech-to-text/audio-transcriber.md) | Transcribe audio to Markdown with speaker IDs and summaries. |
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Customer Training Content Developer](teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
 
 ## Writing & Content
 

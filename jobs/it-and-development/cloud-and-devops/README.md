@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 322 Grok Bot templates, 319 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 325 Grok Bot templates, 322 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -238,6 +238,7 @@ Infrastructure, deployments, monitoring and incident response. 322 Grok Bot temp
 | [Neon Postgres Branches](neon-postgres-branches.md) | Create Neon Postgres branches for testing and development. |
 | [Netlify Deploy](netlify-deploy.md) | Deploys web projects to Netlify for preview or production after verifying authentication and linking. No unscheduled deploys. No site creation without |
 | [Network Engineer](network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
+| [Network Troubleshooting Assistant](network-troubleshooting-assistant.md) | Diagnose and resolve network issues with structured troubleshooting guidance and documentation support. |
 | [New](new.md) | Creates Railway projects, services, and databases with proper configuration from GitHub or scaffolding. |
 | [Nx Workspace Patterns](nx-workspace-patterns.md) | Configure and optimize Nx monorepo workspaces with project boundaries and caching. |
 | [Observability And Instrumentation](observability-and-instrumentation.md) | Instruments production code so behavior is visible and diagnosable via telemetry. |
@@ -321,10 +322,12 @@ Infrastructure, deployments, monitoring and incident response. 322 Grok Bot temp
 | [Vercel Deployment Specialist](vercel-deployment-specialist.md) | Configures and deploys projects to Vercel with edge functions, performance tuning, and monitoring. |
 | [Vercel Optimize](vercel-optimize.md) | Audit Vercel apps for cost and performance using metrics, config, and code scans. |
 | [Vexor Cli](vexor-cli.md) | Semantic file discovery in large repos via vexor CLI. |
+| [VLAN Configuration Assistant](vlan-configuration-assistant.md) | Design, configure, troubleshoot, and document VLANs across your network. |
 | [Vps Server Management](vps-server-management.md) | Manage authorized VPS hosts and server-side agents via SSH and cautious operations workflows. |
 | [Web Scraper](web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
 | [WhatsApp Cloud API](whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |
 | [Windows Infra Admin](windows-infra-admin.md) | Automates safe Windows Server, AD, DNS, DHCP, and GPO changes with pre-flight validation and rollback. |
+| [Wireless Network Optimization Assistant](wireless-network-optimization-assistant.md) | Optimizes wireless networks through analysis, planning, and configuration recommendations. |
 | [Workflow Automation](workflow-automation.md) | Designs durable workflow automations that survive failures and scale reliably. |
 | [Zapier Make Patterns](zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Zoom Automation](zoom-automation.md) | Automate Zoom meetings, webinars, recordings, and participant reports via Composio MCP. |

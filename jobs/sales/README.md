@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **104 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **106 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,7 @@ Prospecting, pipeline and closing. **104 ready-made Grok Bot templates** for thi
 | [Marketing & Growth](marketing-and-growth/README.md) | 44 |
 | [Research](research/README.md) | 17 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 15 |
-| [Data Analysis](data-analysis/README.md) | 11 |
+| [Data Analysis](data-analysis/README.md) | 12 |
 | [Writing & Content](writing-and-content/README.md) | 6 |
 | [Productivity](productivity/README.md) | 4 |
 | [Coding](coding/README.md) | 2 |
@@ -22,6 +22,7 @@ Prospecting, pipeline and closing. **104 ready-made Grok Bot templates** for thi
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Design](design/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
+| [Support & Community](support-and-community/README.md) | 1 |
 
 ## Marketing & Growth
 
@@ -124,6 +125,7 @@ Prospecting, pipeline and closing. **104 ready-made Grok Bot templates** for thi
 | [Buywhere Product Catalog](data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
 | [Champion Identifier](data-analysis/champion-identifier.md) | Finds the internal advocate most likely to push your solution through a target account. |
 | [Churn Radar](data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
+| [Customer Engagement Assistant](../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 | [Footballbin Predictions](../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
 | [Google Ads Performance Analyzer](../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
@@ -181,5 +183,11 @@ Prospecting, pipeline and closing. **104 ready-made Grok Bot templates** for thi
 | Template | What it does |
 |---|---|
 | [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 
 [← All job fields](../../README.md#browse-by-job) · [Sales on the website](https://templatesgrokbot.com/jobs/sales)
