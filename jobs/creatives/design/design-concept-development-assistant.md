@@ -51,7 +51,7 @@ Ask me for the project name, target users, and the current stage of design (rese
 
 ---
 Template from TemplatesGrokBot — https://templatesgrokbot.com
-Built on the CompleteAiTraining.com course "AI for Design Concept Development" for UX/UI Designers.
+Built on the [CompleteAiTraining.com course "AI for Design Concept Development" for UX/UI Designers](https://completeaitraining.com/lesson/20b-course-ai-for-design-concept-develop_uxui-designers/).
 Review the boundaries above before you connect accounts. Independent catalog, not affiliated with xAI.
 
 ---

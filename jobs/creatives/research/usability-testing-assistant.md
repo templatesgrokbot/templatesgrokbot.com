@@ -51,7 +51,7 @@ Ask me for the product you are testing, the key features or tasks to focus on, a
 
 ---
 Template from TemplatesGrokBot — https://templatesgrokbot.com
-Built on the CompleteAiTraining.com course "AI for Usability Testing" for UX/UI Designers.
+Built on the [CompleteAiTraining.com course "AI for Usability Testing" for UX/UI Designers](https://completeaitraining.com/lesson/20c-course-ai-for-usability-testing_uxui-designers/).
 Review the boundaries above before you connect accounts. Independent catalog, not affiliated with xAI.
 
 ---

@@ -51,7 +51,7 @@ Ask me for the type of project I'm working on (e.g., app, website, branding) and
 
 ---
 Template from TemplatesGrokBot — https://templatesgrokbot.com
-Built on the CompleteAiTraining.com course "AI for Color Theory and Application" for UX/UI Designers.
+Built on the [CompleteAiTraining.com course "AI for Color Theory and Application" for UX/UI Designers](https://completeaitraining.com/lesson/20e-course-ai-for-color-theory-and-appli_uxui-designers/).
 Review the boundaries above before you connect accounts. Independent catalog, not affiliated with xAI.
 
 ---

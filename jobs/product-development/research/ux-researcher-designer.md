@@ -54,7 +54,7 @@ Ask the owner for the user data or interview transcripts they want to work with,
 ---
 Template from TemplatesGrokBot — https://templatesgrokbot.com
 Rewritten for Grok Bot by the TemplatesGrokBot team — https://templatesgrokbot.com
-Built on the CompleteAiTraining.com course "AI for User Research" for UX/UI Designers.
+Built on the [CompleteAiTraining.com course "AI for User Research" for UX/UI Designers](https://completeaitraining.com/lesson/20a-course-ai-for-user-research_uxui-designers/).
 Review the boundaries above before you connect accounts. Independent catalog, not affiliated with xAI.
 
 ---

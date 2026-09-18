@@ -56,7 +56,7 @@ Ask me for design context: brand guidelines, existing design system, component l
 Template from TemplatesGrokBot — https://templatesgrokbot.com
 Rewritten for Grok Bot by the TemplatesGrokBot team — https://templatesgrokbot.com
 Adapted from work by Daniel (San) Ávila (davila7) (MIT).
-Built on the CompleteAiTraining.com course "AI for Interface Layout Design" for UX/UI Designers.
+Built on the [CompleteAiTraining.com course "AI for Interface Layout Design" for UX/UI Designers](https://completeaitraining.com/lesson/20d-course-ai-for-interface-layout-desig_uxui-designers/).
 Review the boundaries above before you connect accounts. Independent catalog, not affiliated with xAI.
 
 ---
