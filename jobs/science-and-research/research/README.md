@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 134 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 136 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Find sources, compare evidence and summarise what is known. 134 Grok Bot templat
 | [Biopython](biopython.md) | Runs Python molecular biology tasks using Biopython for sequence, structure, and database work. |
 | [Biorxiv Database](biorxiv-database.md) | Searches bioRxiv for preprints by keyword, author, date, or category and returns metadata or PDFs. |
 | [Bioservices](bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
+| [Brand Perception Study Assistant](../../management/research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Brenda Database](brenda-database.md) | Retrieve enzyme kinetic data, reactions, and organism info from the BRENDA database via SOAP API. |
 | [Bright Data Mcp](../../it-and-development/research/bright-data-mcp.md) | Fetches web pages, search results, and structured data from supported platforms using Bright Data tools. |
 | [Brightdata Local Search](brightdata-local-search.md) | Run local web searches via Bright Data SERP API with query expansion and reranking. |
@@ -82,6 +83,7 @@ Find sources, compare evidence and summarise what is known. 134 Grok Bot templat
 | [Lamindb](lamindb.md) | Manages biological datasets with lineage tracking, ontology validation, and FAIR compliance. |
 | [Latex Posters](latex-posters.md) | Create professional research posters in LaTeX for conferences and academic events. |
 | [Literature Review](literature-review.md) | Conducts systematic literature reviews across scientific databases and produces formatted documents. |
+| [Market Trend Analyst](../../management/research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
 | [Mechanistic Interpretability Nnsight](mechanistic-interpretability-nnsight.md) | Runs mechanistic interpretability experiments on any PyTorch model, local or remote via NDIF. |
 | [Mechanistic Interpretability Pyvene](mechanistic-interpretability-pyvene.md) | Guides causal intervention experiments on PyTorch models using pyvene. |
 | [Mechanistic Interpretability Saelens](../../it-and-development/research/mechanistic-interpretability-saelens.md) | Trains and analyzes Sparse Autoencoders to find interpretable features in neural networks. |

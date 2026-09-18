@@ -1,6 +1,6 @@
 # Grok Bot templates for Hospitality and Events
 
-Hotels, venues, travel and event teams. **4 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Hotels, venues, travel and event teams. **5 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,10 +11,17 @@ Hotels, venues, travel and event teams. **4 ready-made Grok Bot templates** for 
 
 | Kind of work | Templates |
 |---|---:|
+| [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Productivity](productivity/README.md) | 1 |
 | [Research](research/README.md) | 1 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 | [Writing & Content](writing-and-content/README.md) | 1 |
+
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Event Promotion Planner](../management/marketing-and-growth/event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
 
 ## Productivity
 

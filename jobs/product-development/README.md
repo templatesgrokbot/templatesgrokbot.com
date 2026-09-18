@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **906 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **924 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,14 +12,14 @@ Product managers and the teams that ship. **906 ready-made Grok Bot templates** 
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 398 |
-| [Design](design/README.md) | 84 |
+| [Design](design/README.md) | 85 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
 | [Generative Code](generative-code/README.md) | 65 |
 | [Productivity](productivity/README.md) | 51 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 49 |
-| [Research](research/README.md) | 44 |
-| [Data Analysis](data-analysis/README.md) | 25 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 25 |
+| [Research](research/README.md) | 48 |
+| [Data Analysis](data-analysis/README.md) | 32 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 31 |
 | [Prompt Engineering](prompt-engineering/README.md) | 22 |
 | [Security & Compliance](security-and-compliance/README.md) | 19 |
 | [Writing & Content](writing-and-content/README.md) | 17 |
@@ -60,7 +60,7 @@ Product managers and the teams that ship. **906 ready-made Grok Bot templates** 
 | [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
 
-[All 84 Design templates →](design/README.md)
+[All 85 Design templates →](design/README.md)
 
 ## Generative AI and LLM
 
@@ -135,7 +135,7 @@ Product managers and the teams that ship. **906 ready-made Grok Bot templates** 
 | [Rex](research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [Wiki Researcher](../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
 
-[All 44 Research templates →](research/README.md)
+[All 48 Research templates →](research/README.md)
 
 ## Data Analysis
 
@@ -148,9 +148,9 @@ Product managers and the teams that ship. **906 ready-made Grok Bot templates** 
 | [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Customer Journey Mapping Assistant](../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
 | [Analytics](../marketing/data-analysis/analytics.md) | Set up, audit, and improve analytics tracking for actionable marketing and product insights. |
-| [Data Scientist](../it-and-development/data-analysis/data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
+| [E-commerce Recommendation Optimizer](../management/data-analysis/e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
 
-[All 25 Data Analysis templates →](data-analysis/README.md)
+[All 32 Data Analysis templates →](data-analysis/README.md)
 
 ## Marketing & Growth
 
@@ -162,10 +162,10 @@ Product managers and the teams that ship. **906 ready-made Grok Bot templates** 
 | [Pricing](../marketing/marketing-and-growth/pricing.md) | Design SaaS pricing tiers, value metrics, and monetization strategy based on customer willingness to pay. |
 | [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
 | [Pricing Strategy](../marketing/marketing-and-growth/pricing-strategy.md) | Designs pricing, packaging, and monetization strategy based on customer willingness to pay and growth objectives. |
+| [Personalized Marketing Strategist](../management/marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
 | [Seo Aeo Content Cluster](../marketing/marketing-and-growth/seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |
-| [Signup Flow Cro](../marketing/marketing-and-growth/signup-flow-cro.md) | Analyze and improve signup flows to reduce friction and boost completion rates. |
 
-[All 25 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 31 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Prompt Engineering
 

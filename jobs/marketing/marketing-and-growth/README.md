@@ -1,12 +1,13 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 129 Grok Bot templates, 123 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 140 Grok Bot templates, 123 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Activecampaign Automation](activecampaign-automation.md) | Automate ActiveCampaign contacts, tags, lists, automations, and tasks via Rube MCP. |
+| [Ad Copy Generator](../../management/marketing-and-growth/ad-copy-generator.md) | Generates, refines, and optimizes ad copy for marketing campaigns. |
 | [Ad Copy Lab](ad-copy-lab.md) | Writes ad variants that test one different idea each, so the results mean something. |
 | [Ad Creative](ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
 | [AI Marketing Team](ai-marketing-team.md) | Runs campaign ideas through three marketing roles to catch blind spots before launch. |
@@ -16,6 +17,7 @@ Campaigns, ads, conversion and launch plans. 129 Grok Bot templates, 123 of them
 | [Awareness Stage Mapper](awareness-stage-mapper.md) | Diagnose audience awareness stage and calibrate persuasion strategy. |
 | [B2B Value Proposition Mapper](b2b-value-proposition-mapper.md) | Maps product features to customer pain points and delivers ranked value propositions per persona. |
 | [Brand Perception Psychologist](brand-perception-psychologist.md) | Diagnose brand perception gaps and prescribe alignment changes using psychological frameworks. |
+| [Brand Positioning Strategist](../../management/marketing-and-growth/brand-positioning-strategist.md) | Turns market data into a clear, differentiated brand position and keeps it sharp. |
 | [Brand Review](marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
 | [Brand Voice Guidelines Generator](brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Brevo Automation](brevo-automation.md) | Automate Brevo email campaigns, templates, and senders via Rube MCP. |
@@ -30,14 +32,20 @@ Campaigns, ads, conversion and launch plans. 129 Grok Bot templates, 123 of them
 | [Convertkit Automation](convertkit-automation.md) | Automate ConvertKit subscriber, tag, and broadcast management via Rube MCP. |
 | [Copywriting Psychologist](copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
 | [Cro](cro.md) | Analyze marketing pages and forms to improve conversion rates with actionable recommendations. |
+| [Customer Persona Builder](../../management/marketing-and-growth/customer-persona-builder.md) | Builds and refines customer personas from research to presentation for marketing managers. |
 | [Developer Audience Context](developer-audience-context.md) | Maintain a living document that captures your target developer audience for consistent marketing. |
 | [Developer Listening](developer-listening.md) | Monitor developer conversations across GitHub, Hacker News, Reddit, and more. |
 | [Developer Seo](developer-seo.md) | SEO strategy for technical queries and developer audiences. |
+| [Digital Marketing Strategy Formulator](../../management/marketing-and-growth/digital-marketing-strategy-formulator.md) | Formulates data-driven digital marketing strategies from market research to performance reporting. |
 | [Docs As Marketing](docs-as-marketing.md) | Turn developer docs into a marketing channel that attracts, converts, and retains users. |
 | [Domain Name Brainstormer](domain-name-brainstormer.md) | Generates creative domain name ideas for your project and checks availability across multiple TLDs. |
+| [E-commerce Launch Strategist](../../management/marketing-and-growth/e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
+| [Email Campaign Performance Analyst](../../management/marketing-and-growth/email-campaign-performance-analyst.md) | Analyzes email campaign performance and returns actionable insights for e-commerce managers. |
+| [Email Campaign Strategist](../../management/marketing-and-growth/email-campaign-strategist.md) | Plans and drafts email campaigns that engage, convert, and respect your readers. |
 | [Email Sequence](email-sequence.md) | Designs and optimizes email sequences that nurture leads and drive conversions. |
 | [Email Sequence Planner](marketing-email-sequence.md) | Design and draft multi-email sequences with timing, branching, and exit conditions. |
 | [Emotional Arc Designer](emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
+| [Event Promotion Planner](../../management/marketing-and-growth/event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
 | [Executing Marketing Campaigns](executing-marketing-campaigns.md) | Plans, creates, and optimizes marketing campaigns across channels with measurable results. |
 | [Form Cro](form-cro.md) | Audit and optimize non-signup forms to maximize completion rates. |
 | [Free Tier Strategy](../../product-development/marketing-and-growth/free-tier-strategy.md) | Design free tiers that developers love and that convert to paid naturally. |
@@ -49,6 +57,7 @@ Campaigns, ads, conversion and launch plans. 129 Grok Bot templates, 123 of them
 | [Headline Psychologist](headline-psychologist.md) | Engineer headlines that create curiosity gaps and trigger attention without clickbait. |
 | [Identity Mirror](identity-mirror.md) | Mirror audience identity to make brand messages feel personally resonant. |
 | [Indexing Audit](indexierungs-audit.md) | Audits every URL in your index and prescribes the exact directive to keep, deindex, consolidate, or add it. |
+| [Influencer Collaboration Manager](../../management/marketing-and-growth/influencer-collaboration-manager.md) | Manages influencer collaborations from discovery to reporting, with approval gates for all external actions. |
 | [Keyword Extractor](keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
 | [Keyword Research with Topic Clusters](keyword-recherche-cluster.md) | Finds keywords your site can win with current authority and groups them into topic clusters. |
 | [Keyword Strategy Planner](keyword-strategy-planner.md) | Turns a keyword CSV into a prioritized content and SEO strategy with intent mapping. |
@@ -75,6 +84,7 @@ Campaigns, ads, conversion and launch plans. 129 Grok Bot templates, 123 of them
 | [Page Cro](page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Paid Ads](paid-ads.md) | Plan, draft, and optimize paid ad campaigns across platforms to hit target CPA and ROAS. |
 | [Paywall Upgrade Cro](paywall-upgrade-cro.md) | Audit in-app paywalls and upgrade screens to convert free users to paid subscribers. |
+| [Personalized Marketing Strategist](../../management/marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
 | [Pitch Psychologist](pitch-psychologist.md) | Structure sales pitches using psychological sequencing to build desire before solution. |
 | [Plan Internal Linking](interne-verlinkung.md) | Delivers a copy-paste-ready internal link plan with exact anchor text and placement for every row. |
 | [Popup Cro](popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
@@ -128,6 +138,7 @@ Campaigns, ads, conversion and launch plans. 129 Grok Bot templates, 123 of them
 | [Set Up a Backlink Campaign](backlink-kampagne.md) | Plans a clean link campaign across five prospect categories and ships outreach mails with it. |
 | [Signup Flow Cro](signup-flow-cro.md) | Analyze and improve signup flows to reduce friction and boost completion rates. |
 | [Site Architecture](site-architecture.md) | Plan and restructure website hierarchy, navigation, URL patterns, and internal linking. |
+| [Social Media Strategy Planner](../../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Social Metadata Hardening](social-metadata-hardening.md) | Fix social sharing previews so URLs render as rich cards on all platforms. |
 | [Social Proof Architect](social-proof-architect.md) | Match social proof type to audience trust gap for maximum credibility. |
 | [Subject Line Psychologist](subject-line-psychologist.md) | Craft email subject lines that earn opens through honest psychological triggers. |

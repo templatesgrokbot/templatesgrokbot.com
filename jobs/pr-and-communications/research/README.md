@@ -1,11 +1,12 @@
 # Research templates for PR and Communications
 
-Find sources, compare evidence and summarise what is known. 8 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 9 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Brand Perception Study Assistant](../../management/research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Competitive Ads Extractor](../../marketing/research/competitive-ads-extractor.md) | Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns. |
 | [Daily News Report](../../operations/research/daily-news-report.md) | Scrape preset URLs, filter high-quality tech news, and output a daily Markdown report. |
 | [Discover Brand Materials](../../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |

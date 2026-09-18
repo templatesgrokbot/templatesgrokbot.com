@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 26 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 27 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Explain, quiz and guide someone through a subject. 26 Grok Bot templates, 22 of 
 | [Interview Prep](interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
 | [Learn](learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Legal Education and Training Assistant](../../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
+| [Legal Training Material Creator](../../legal/teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
 | [Lesson Generator](lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
 | [Lightning Factory Explainer](lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
 | [Microsoft Study Mode](microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |

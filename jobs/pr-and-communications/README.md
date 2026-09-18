@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **51 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **55 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,11 @@ Press, internal comms and reputation. **51 ready-made Grok Bot templates** for t
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 18 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 20 |
 | [Writing & Content](writing-and-content/README.md) | 11 |
-| [Research](research/README.md) | 8 |
+| [Research](research/README.md) | 9 |
 | [Social Media](social-media/README.md) | 8 |
-| [Data Analysis](data-analysis/README.md) | 4 |
+| [Data Analysis](data-analysis/README.md) | 5 |
 | [Design](design/README.md) | 2 |
 
 ## Marketing & Growth
@@ -28,8 +28,10 @@ Press, internal comms and reputation. **51 ready-made Grok Bot templates** for t
 | [Brevo Automation](../marketing/marketing-and-growth/brevo-automation.md) | Automate Brevo email campaigns, templates, and senders via Rube MCP. |
 | [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
 | [Content Strategy](../marketing/marketing-and-growth/content-strategy.md) | Plan content strategy, topic clusters, and editorial roadmap for traffic and leads. |
+| [Event Promotion Planner](../management/marketing-and-growth/event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
 | [Executing Marketing Campaigns](../marketing/marketing-and-growth/executing-marketing-campaigns.md) | Plans, creates, and optimizes marketing campaigns across channels with measurable results. |
 | [Headline Psychologist](../marketing/marketing-and-growth/headline-psychologist.md) | Engineer headlines that create curiosity gaps and trigger attention without clickbait. |
+| [Influencer Collaboration Manager](../management/marketing-and-growth/influencer-collaboration-manager.md) | Manages influencer collaborations from discovery to reporting, with approval gates for all external actions. |
 | [Loss Aversion Designer](../marketing/marketing-and-growth/loss-aversion-designer.md) | Frame messages using loss aversion to drive action without fear-mongering. |
 | [Open Source Marketing](../marketing/marketing-and-growth/open-source-marketing.md) | Market open source projects authentically with GitHub optimization and community building. |
 | [Optimize Your Brand SERP](../marketing/marketing-and-growth/brand-serp-optimierung.md) | Audits your brand's Google SERP and prescribes the five highest-impact fixes to improve it. |
@@ -61,6 +63,7 @@ Press, internal comms and reputation. **51 ready-made Grok Bot templates** for t
 
 | Template | What it does |
 |---|---|
+| [Brand Perception Study Assistant](../management/research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Competitive Ads Extractor](../marketing/research/competitive-ads-extractor.md) | Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns. |
 | [Daily News Report](../operations/research/daily-news-report.md) | Scrape preset URLs, filter high-quality tech news, and output a daily Markdown report. |
 | [Discover Brand Materials](../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
@@ -90,6 +93,7 @@ Press, internal comms and reputation. **51 ready-made Grok Bot templates** for t
 | [Apify Brand Reputation Monitoring](../marketing/data-analysis/apify-brand-reputation-monitoring.md) | Scrape reviews, ratings, and brand mentions from multiple platforms via Apify Actors. |
 | [Apify Content Analytics](../marketing/data-analysis/apify-content-analytics.md) | Track engagement metrics and analyze content performance across social platforms using Apify Actors. |
 | [Apify Trend Analysis](../marketing/data-analysis/apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
+| [Brand Image Analyst](../management/data-analysis/brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 
 ## Design

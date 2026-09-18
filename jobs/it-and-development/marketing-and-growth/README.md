@@ -1,6 +1,6 @@
 # Marketing & Growth templates for IT and Development
 
-Campaigns, ads, conversion and launch plans. 17 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 18 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Campaigns, ads, conversion and launch plans. 17 Grok Bot templates, 0 of them fi
 | [SEO Auditor](../../marketing/marketing-and-growth/seo-auditor.md) | Audits a page against what actually ranks for its target query and lists fixes in priority order. |
 | [Seo Hreflang](../../marketing/marketing-and-growth/seo-hreflang.md) | Validate and generate hreflang tags for international SEO. |
 | [Seo Page](../../marketing/marketing-and-growth/seo-page.md) | Analyzes a single URL for on-page SEO, content quality, and technical signals, scoring and recommending fixes. |
+| [Seo Specialist](../../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [Seoagent](../../marketing/marketing-and-growth/seoagent.md) | Run persistent SEO audits, keyword strategies, content briefs, and article drafts that accumulate across sessions. |
 | [Social Metadata Hardening](../../marketing/marketing-and-growth/social-metadata-hardening.md) | Fix social sharing previews so URLs render as rich cards on all platforms. |
 

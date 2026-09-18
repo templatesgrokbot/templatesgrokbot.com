@@ -1,6 +1,6 @@
 # Research templates for Management
 
-Find sources, compare evidence and summarise what is known. 38 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 51 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,7 +10,9 @@ Find sources, compare evidence and summarise what is known. 38 Grok Bot template
 | [Apple Notes Search](../../operations/research/apple-notes-search.md) | Semantic + keyword search and connection-discovery across your own Apple Notes. |
 | [Auto Research](../../science-and-research/research/auto-research.md) | Research uncertain questions via web or ChatGPT with user approval before implementation. |
 | [Axiom](../../executives-and-strategy/research/axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
+| [Brand Perception Study Assistant](brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Capability Ecosystem Sentinel](../../it-and-development/research/capability-ecosystem-sentinel.md) | Audits and evolves the capability ecosystem across 7 dimensions, generating health reports and recommendations. |
+| [Competitive Analyst](../../marketing/research/competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
 | [Comprehensive Researcher](../../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Contract Drafting Assistant](../../legal/research/contract-drafting-assistant.md) | Guides contract drafting, review, compliance, and management from template to execution. |
 | [Contract Risk Assessment Assistant](../../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
@@ -23,9 +25,13 @@ Find sources, compare evidence and summarise what is known. 38 Grok Bot template
 | [Go In Depth](../../science-and-research/research/go-in-depth.md) | Fan-out web searches, fetch sources, adversarially verify claims, and synthesize a cited report. |
 | [Kotler Macro Analyzer](../../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
 | [Logistics Exception Management](../../operations/research/logistics-exception-management.md) | Resolve freight exceptions, delays, damages, and carrier disputes with structured workflows. |
+| [Market Research Analyst](../../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
+| [Market Researcher](../../marketing/research/market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
+| [Market Trend Analyst](market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
 | [Moatmri](../../executives-and-strategy/research/moatmri.md) | Analyze AI disruption pressure across a business and produce a 90-day defensive action plan. |
 | [Multi Source Search](../../science-and-research/research/multi-source-search.md) | Cross-validate web research into a confidence-scored evidence ledger with source diversity. |
 | [Notion Research Documentation](../../operations/research/notion-research-documentation.md) | Researches your Notion workspace and produces cited briefs, comparisons, or reports. |
+| [Product Development Insight Assistant](product-development-insight-assistant.md) | Guides market research managers through AI-powered product development insights. |
 | [Product Strategist](../../product-development/research/product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |
 | [Project Template Audit](../../it-and-development/research/project-skill-audit.md) | Audit project workflows and recommend capability updates or additions from session evidence. |
 | [Qms Audit Expert](../../operations/research/qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
@@ -39,7 +45,14 @@ Find sources, compare evidence and summarise what is known. 38 Grok Bot template
 | [Research Synthesizer](../../science-and-research/research/research-synthesizer.md) | Merges findings from multiple researchers into a structured, sourced analysis. |
 | [Rex](../../product-development/research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [SRED Project Organizer](../../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
+| [Supplier Dispute Resolution Framework Builder](supplier-dispute-resolution-framework-builder.md) | Builds and maintains a structured supplier dispute resolution framework from process design to training and feedback. |
+| [Supplier Diversification Planner](supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
+| [Supplier Innovation Program Assistant](supplier-innovation-program-assistant.md) | Finds, evaluates, and nurtures supplier innovation with structured programs and tracking. |
+| [Supplier Relationship Builder](supplier-relationship-builder.md) | Builds and strengthens supplier relationships through structured communication, engagement, and partnership strategies. |
+| [Supplier Selection Assistant](supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |
+| [Survey Design and Analysis Assistant](survey-design-and-analysis-assistant.md) | Designs, distributes, analyzes, and reports surveys for market research managers. |
 | [Think Tank](../../executives-and-strategy/research/think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
+| [Trend Analyst](../../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Trip Planner](../../operations/research/trip-planner.md) | Builds a day-by-day itinerary that respects your budget, your pace, and opening hours. |
 | [User Research Planning](../../product-development/research/design-user-research.md) | Plan user research that produces honest, actionable insights from start to finish. |
 | [User Research Synthesis](../../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |

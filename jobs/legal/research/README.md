@@ -1,6 +1,6 @@
 # Research templates for Legal
 
-Find sources, compare evidence and summarise what is known. 44 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 48 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Find sources, compare evidence and summarise what is known. 44 Grok Bot template
 | [Auction Notice Analyst](auction-notice-analyst.md) | Analyzes judicial and extrajudicial auction notices, flags hidden risks, and rates the opportunity. |
 | [Brazilian Legal Advisor](specialist-attorney.md) | Specialist attorney in all areas of Brazilian law. |
 | [Brief Counsel Legal Research](brief-counsel-legal-research.md) | Handles legal research tasks from case analysis to citation checks and drafting support. |
+| [Case Brief Organizer for Litigators](case-brief-organizer-for-litigators.md) | Summarizes, analyzes, and organizes case law for legal research and client support. |
 | [Case Law Research Assistant](case-law-research-assistant.md) | Find, analyze, and organize case law for your legal research and memos. |
 | [Client Interview Prep Assistant](client-interview-prep-assistant.md) | Prepares legal assistants for client interviews with questions, agendas, and follow-ups. |
 | [Compliance Docket Analyst](compliance-docket-analyst.md) | Regulatory filing assistant for compliance analysts: research, draft, validate, track, and submit compliant documents. |
@@ -26,6 +27,7 @@ Find sources, compare evidence and summarise what is known. 44 Grok Bot template
 | [Dispute Resolution Support Assistant](dispute-resolution-support-assistant.md) | Supports contract administrators through every stage of dispute resolution. |
 | [Freedom to Operate Analyst](freedom-to-operate-analyst.md) | Finds patent risks and opportunities before you commit to a product. |
 | [International Patent Filing Assistant](international-patent-filing-assistant.md) | Guides patent agents through international filing, from search to strategy. |
+| [IP Management Assistant](ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
 | [IP Paralegal Assistant](ip-paralegal-assistant.md) | Handles trademark, patent, copyright, and trade secret tasks for paralegals. |
 | [Lease Reader](lease-reader.md) | Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on. |
 | [Legal Auction Analyst](legal-auction-analyst.md) | Analyzes nullities, family homestead and fiduciary alienation in real estate auctions under the CPC and Law 9.514/97. |
@@ -33,8 +35,10 @@ Find sources, compare evidence and summarise what is known. 44 Grok Bot template
 | [Legal Research and Drafting Assistant](legal-research-and-drafting-assistant.md) | Handles legal research, drafting, review, and citation checks for paralegals. |
 | [Legal Research Assistant](legal-research-assistant.md) | Legal research and document support for contract administrators. |
 | [Lex](lex.md) | Ground legal drafting in verified government references across US, EU, and CA jurisdictions. |
+| [Litigation Paralegal Copilot](litigation-paralegal-copilot.md) | Handles document review, research, drafting, and trial prep for litigation lawyers. |
 | [Litigation Support Assistant](litigation-support-assistant.md) | Manages litigation support tasks from document organization to trial preparation. |
 | [Mdr 745 Specialist](../../operations/research/mdr-745-specialist.md) | Guides medical device manufacturers through EU MDR 2017/745 compliance, from classification to post-market surveillance. |
+| [Online Dispute Resolution Assistant](online-dispute-resolution-assistant.md) | Assists lawyers with online dispute resolution tasks from case evaluation to settlement drafting. |
 | [Patent Application Drafting Assistant](patent-application-drafting-assistant.md) | Drafts, reviews, and files patent applications with precision and compliance. |
 | [Patent Classification Assistant](patent-classification-assistant.md) | Classifies patents, analyzes prior art, and manages classification workflows for patent agents. |
 | [Patent Infringement Analysis Assistant](patent-infringement-analysis-assistant.md) | Patent infringement analysis assistant for patent agents, from prior art to litigation support. |

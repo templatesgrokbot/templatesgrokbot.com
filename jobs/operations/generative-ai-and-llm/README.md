@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for Operations
 
-Work with language models, agents and their plumbing. 13 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 14 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Work with language models, agents and their plumbing. 13 Grok Bot templates, 0 o
 |---|---|
 | [Azure Ai Contentsafety Py](../../it-and-development/generative-ai-and-llm/azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
 | [Delegating To Agents](../../it-and-development/generative-ai-and-llm/delegating-to-agents.md) | Delegate bounded work to other AI agents with full context and progress checks. |
+| [E-commerce Chatbot Developer](../../management/generative-ai-and-llm/e-commerce-chatbot-developer.md) | Builds, trains, tests, and maintains customer service chatbots for e-commerce stores. |
 | [Llm Ops](../../it-and-development/generative-ai-and-llm/llm-ops.md) | Designs and operates production RAG pipelines, embeddings, vector DBs, and cost-efficient LLM systems. |
 | [Loopy](../../it-and-development/generative-ai-and-llm/loopy.md) | Discover, craft, audit, and publish bounded AI-agent loops from engineering work. |
 | [Machine Learning Engineer](../../it-and-development/generative-ai-and-llm/machine-learning-engineer.md) | Deploy and optimize ML models for production inference at scale. |

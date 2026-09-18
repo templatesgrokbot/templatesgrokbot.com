@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **321 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **384 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,21 +12,21 @@ Team leads and project managers. **321 ready-made Grok Bot templates** for this 
 | Kind of work | Templates |
 |---|---:|
 | [Productivity](productivity/README.md) | 92 |
+| [Data Analysis](data-analysis/README.md) | 68 |
+| [Research](research/README.md) | 51 |
 | [Coding](coding/README.md) | 44 |
-| [Research](research/README.md) | 38 |
-| [Data Analysis](data-analysis/README.md) | 37 |
 | [Knowledge Management](knowledge-management/README.md) | 20 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 13 |
-| [Security & Compliance](security-and-compliance/README.md) | 13 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 18 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 14 |
+| [Security & Compliance](security-and-compliance/README.md) | 14 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
 | [Writing & Content](writing-and-content/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
+| [Design](design/README.md) | 5 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 5 |
 | [Prompt Engineering](prompt-engineering/README.md) | 5 |
-| [Design](design/README.md) | 4 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 4 |
 | [Generative Code](generative-code/README.md) | 4 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 3 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Support & Community](support-and-community/README.md) | 2 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
@@ -128,6 +128,135 @@ Team leads and project managers. **321 ready-made Grok Bot templates** for this 
 | [Wrike Automation](../operations/productivity/wrike-automation.md) | Automate Wrike tasks, folders, projects, and assignments via Rube MCP. |
 | [Zapier Workflows](../operations/productivity/zapier-workflows.md) | Manages and triggers your Zapier workflows and MCP tool orchestrations from chat. |
 
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Abc Xyz Segmentation](../operations/data-analysis/abc-xyz-segmentation.md) | Segment SKUs by value and demand variability, assign planning policies, and reallocate planner attention. |
+| [AI Readiness Assessor](../executives-and-strategy/data-analysis/ai-readiness-assessor.md) | Assesses a business's AI readiness across six dimensions and produces a prioritized action report. |
+| [Board Deck Generator](../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates institutional-quality board meeting decks with financials, updates, and asks. |
+| [Brand Image Analyst](data-analysis/brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
+| [Business Analyst](../operations/data-analysis/business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
+| [Campaign Effectiveness Analyst](data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
+| [Carrier Relationship Management](../operations/data-analysis/carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
+| [Churn Autopsy Analyst](../customer-support/data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
+| [Client Health Dashboard](../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
+| [Compliance Monitoring Inspector](../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
+| [Contract Report Builder](../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
+| [Customer Demographic Insight Engine](data-analysis/customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
+| [Customer Feedback Insight Analyst](data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
+| [Customer Lifetime Value Analyst](data-analysis/customer-lifetime-value-analyst.md) | Turns your customer data into CLV insights and action plans for growth. |
+| [Customer Report Generator](../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
+| [Customer Segmentation Analyst](data-analysis/customer-segmentation-analyst.md) | Turns customer data into actionable segments and profiles for targeted marketing. |
+| [Customer Sentiment Analyst](data-analysis/customer-sentiment-analyst.md) | Analyzes customer sentiment across channels to guide e-commerce decisions. |
+| [Dashboard Design](../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
+| [Demand Forecasting Analyst](data-analysis/demand-forecasting-analyst.md) | Forecasts product demand from market data, sentiment, and trends for market research managers. |
+| [Developer Churn](../product-development/data-analysis/developer-churn.md) | Analyze developer churn and design retention strategies. |
+| [Developer Growth Analysis](../it-and-development/data-analysis/developer-growth-analysis.md) | Analyzes recent coding chats to identify growth areas and curates learning resources. |
+| [E-commerce Fraud Detection Assistant](data-analysis/e-commerce-fraud-detection-assistant.md) | Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud. |
+| [E-commerce Pricing Optimizer](data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
+| [E-commerce Recommendation Optimizer](data-analysis/e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
+| [E-commerce UX Improvement Assistant](data-analysis/e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
+| [Energy Procurement](../operations/data-analysis/energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
+| [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, categorizes, flags issues, and reports. |
+| [Feedback Insight for Service Managers](data-analysis/feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
+| [Forecast Accuracy Review](../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
+| [Hiring Screener](../human-resources/data-analysis/hiring-screener.md) | Screens resumes against a job description and returns a ranked, evidence-backed shortlist. |
+| [Inventory Demand Planning](../operations/data-analysis/inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
+| [Inventory Optimization Assistant](data-analysis/inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
+| [Job Description Analyzer](../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
+| [Kpi Dashboard Design](data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
+| [Market Trend Analyzer](data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
+| [Marketing Metrics Analyst](data-analysis/marketing-metrics-analyst.md) | Turns your marketing data into clear metrics, insights, and decisions. |
+| [Meeting Insights Analyzer](data-analysis/meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
+| [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
+| [Otif Analysis](../operations/data-analysis/otif-analysis.md) | Audit delivery OTIF from order data, find metric gaps, and pinpoint where lateness concentrates. |
+| [Pricing Strategy Analyst](data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
+| [Product Decision Agent](../product-development/data-analysis/product-decision-agent.md) | Diagnose product problems and get actionable next decisions and actions |
+| [Product Manager Toolkit](../product-development/data-analysis/product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
+| [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
+| [Quarterly Business Review Builder](../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
+| [Rehabilitation Analyzer](../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
+| [Return Refund Optimizer](data-analysis/return-refund-optimizer.md) | Optimizes e-commerce return and refund processes using data analysis and automation. |
+| [Root Cause Pareto](../operations/data-analysis/root-cause-pareto.md) | Build a decision-grade Pareto for downtime, defects, complaints, or delays with unit discipline and exposure normalization. |
+| [Safety Stock Review](../operations/data-analysis/safety-stock-review.md) | Sizes or audits safety stock using the z*sigma*sqrt(LT) formula with empirical stress tests per variability class. |
+| [Service Quality Enhancement Assistant](data-analysis/service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |
+| [Social Media Performance Analyst](data-analysis/social-media-performance-analyst.md) | Analyzes your social media performance and gives actionable insights for e-commerce growth. |
+| [Spend Analysis Assistant](../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
+| [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
+| [Supplier Cost Savings Planner](data-analysis/supplier-cost-savings-planner.md) | Turns supplier cost data into savings plans, negotiation tactics, and stakeholder reports. |
+| [Supplier Crisis Management Planner](data-analysis/supplier-crisis-management-planner.md) | Plans and executes supplier crisis management, from risk assessment to recovery. |
+| [Supplier Feedback Loop Manager](data-analysis/supplier-feedback-loop-manager.md) | Collects, analyzes, and acts on supplier feedback to improve relationships and performance. |
+| [Supplier Market Trend Tracker](data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
+| [Supplier Performance Monitor](data-analysis/supplier-performance-monitor.md) | Track supplier performance, spot issues, and drive improvements from one dashboard. |
+| [Supplier Reporting Assistant](data-analysis/supplier-reporting-assistant.md) | Turns supplier data into tailored reports, dashboards, and scorecards. |
+| [Supplier Risk Management Assistant](data-analysis/supplier-risk-management-assistant.md) | Assesses supplier risks, analyzes contracts, and builds mitigation plans for supplier relationship managers. |
+| [Supplier Sustainability and Compliance Assistant](data-analysis/supplier-sustainability-and-compliance-assistant.md) | Assesses and improves supplier sustainability and compliance with data-driven tools. |
+| [Supply Chain Impact Assessor](data-analysis/supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |
+| [Supply Chain Optimizer](data-analysis/supply-chain-optimizer.md) | Optimizes supplier performance, inventory, logistics, and costs for e-commerce operations. |
+| [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
+| [Team Performance Monitor](data-analysis/team-performance-monitor.md) | Turns team performance data into insights, reports, and action plans for service managers. |
+| [Trading Ledger](../finance/data-analysis/trading-ledger.md) | Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L. |
+| [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+| [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Normalize vendor quotes and SOWs into a comparison matrix, compute true TCO, and surface negotiation leverage. |
+| [Weekly Ops Report](data-analysis/weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |
+
+## Research
+
+| Template | What it does |
+|---|---|
+| [Andruia AI Consultant](../executives-and-strategy/research/andruia-ai-consultant.md) | Diagnoses AI projects and outlines the technical roadmap. |
+| [Apple Notes Search](../operations/research/apple-notes-search.md) | Semantic + keyword search and connection-discovery across your own Apple Notes. |
+| [Auto Research](../science-and-research/research/auto-research.md) | Research uncertain questions via web or ChatGPT with user approval before implementation. |
+| [Axiom](../executives-and-strategy/research/axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
+| [Brand Perception Study Assistant](research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
+| [Capability Ecosystem Sentinel](../it-and-development/research/capability-ecosystem-sentinel.md) | Audits and evolves the capability ecosystem across 7 dimensions, generating health reports and recommendations. |
+| [Competitive Analyst](../marketing/research/competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
+| [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
+| [Contract Drafting Assistant](../legal/research/contract-drafting-assistant.md) | Guides contract drafting, review, compliance, and management from template to execution. |
+| [Contract Risk Assessment Assistant](../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
+| [Contract Risk Reviewer](../legal/research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
+| [Crossframe Review](../science-and-research/research/crossframe-review.md) | CrossFrame Review — audits reasoning chains, evidence boundaries, and source-anchor integrity |
+| [Crossframe Structural Diagnosis](../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
+| [Crossframe Suite](../science-and-research/research/crossframe-suite.md) | Routes Chinese structural diagnosis workflows across relationships, organizations, public issues, philosophy, research, or essay output. |
+| [generation questions](../human-resources/research/generation-questions.md) | Generates interview questions from a job description and candidate profile. |
+| [Gepetto](../product-development/research/gepetto.md) | Creates detailed, sectionized implementation plans through research, stakeholder interviews, and multi-LLM review. |
+| [Go In Depth](../science-and-research/research/go-in-depth.md) | Fan-out web searches, fetch sources, adversarially verify claims, and synthesize a cited report. |
+| [Kotler Macro Analyzer](../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
+| [Logistics Exception Management](../operations/research/logistics-exception-management.md) | Resolve freight exceptions, delays, damages, and carrier disputes with structured workflows. |
+| [Market Research Analyst](../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
+| [Market Researcher](../marketing/research/market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
+| [Market Trend Analyst](research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
+| [Moatmri](../executives-and-strategy/research/moatmri.md) | Analyze AI disruption pressure across a business and produce a 90-day defensive action plan. |
+| [Multi Source Search](../science-and-research/research/multi-source-search.md) | Cross-validate web research into a confidence-scored evidence ledger with source diversity. |
+| [Notion Research Documentation](../operations/research/notion-research-documentation.md) | Researches your Notion workspace and produces cited briefs, comparisons, or reports. |
+| [Product Development Insight Assistant](research/product-development-insight-assistant.md) | Guides market research managers through AI-powered product development insights. |
+| [Product Strategist](../product-development/research/product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |
+| [Project Template Audit](../it-and-development/research/project-skill-audit.md) | Audit project workflows and recommend capability updates or additions from session evidence. |
+| [Qms Audit Expert](../operations/research/qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
+| [Reading Pile](../science-and-research/research/reading-pile.md) | Works through your saved-articles backlog and tells you which three are worth your time. |
+| [Regulatory Communication Assistant](../legal/research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
+| [Regulatory Update Analyst](../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
+| [Report Generator](../science-and-research/research/report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |
+| [Research Analyst](../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
+| [Research Coordinator](../science-and-research/research/research-coordinator.md) | Plans and coordinates complex research tasks across multiple specialist researchers. |
+| [Research Orchestrator](../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
+| [Research Synthesizer](../science-and-research/research/research-synthesizer.md) | Merges findings from multiple researchers into a structured, sourced analysis. |
+| [Rex](../product-development/research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
+| [SRED Project Organizer](../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
+| [Supplier Dispute Resolution Framework Builder](research/supplier-dispute-resolution-framework-builder.md) | Builds and maintains a structured supplier dispute resolution framework from process design to training and feedback. |
+| [Supplier Diversification Planner](research/supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
+| [Supplier Innovation Program Assistant](research/supplier-innovation-program-assistant.md) | Finds, evaluates, and nurtures supplier innovation with structured programs and tracking. |
+| [Supplier Relationship Builder](research/supplier-relationship-builder.md) | Builds and strengthens supplier relationships through structured communication, engagement, and partnership strategies. |
+| [Supplier Selection Assistant](research/supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |
+| [Survey Design and Analysis Assistant](research/survey-design-and-analysis-assistant.md) | Designs, distributes, analyzes, and reports surveys for market research managers. |
+| [Think Tank](../executives-and-strategy/research/think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
+| [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
+| [Trip Planner](../operations/research/trip-planner.md) | Builds a day-by-day itinerary that respects your budget, your pace, and opening hours. |
+| [User Research Planning](../product-development/research/design-user-research.md) | Plan user research that produces honest, actionable insights from start to finish. |
+| [User Research Synthesis](../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
+| [UX Research Interview Kit](../product-development/research/ux-research-interview-kit.md) | Builds structured interview kits: screener, guide, notes, and analysis grid for UX research. |
+
 ## Coding
 
 | Template | What it does |
@@ -177,91 +306,6 @@ Team leads and project managers. **321 ready-made Grok Bot templates** for this 
 | [Workflow Patterns](../it-and-development/coding/workflow-patterns.md) | Guide for implementing tasks with TDD workflow, phase checkpoints, and git commits. |
 | [Writing Plans](../it-and-development/coding/writing-plans.md) | Convert specs into granular implementation plans with exact file paths and TDD steps. |
 
-## Research
-
-| Template | What it does |
-|---|---|
-| [Andruia AI Consultant](../executives-and-strategy/research/andruia-ai-consultant.md) | Diagnoses AI projects and outlines the technical roadmap. |
-| [Apple Notes Search](../operations/research/apple-notes-search.md) | Semantic + keyword search and connection-discovery across your own Apple Notes. |
-| [Auto Research](../science-and-research/research/auto-research.md) | Research uncertain questions via web or ChatGPT with user approval before implementation. |
-| [Axiom](../executives-and-strategy/research/axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
-| [Capability Ecosystem Sentinel](../it-and-development/research/capability-ecosystem-sentinel.md) | Audits and evolves the capability ecosystem across 7 dimensions, generating health reports and recommendations. |
-| [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
-| [Contract Drafting Assistant](../legal/research/contract-drafting-assistant.md) | Guides contract drafting, review, compliance, and management from template to execution. |
-| [Contract Risk Assessment Assistant](../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
-| [Contract Risk Reviewer](../legal/research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
-| [Crossframe Review](../science-and-research/research/crossframe-review.md) | CrossFrame Review — audits reasoning chains, evidence boundaries, and source-anchor integrity |
-| [Crossframe Structural Diagnosis](../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
-| [Crossframe Suite](../science-and-research/research/crossframe-suite.md) | Routes Chinese structural diagnosis workflows across relationships, organizations, public issues, philosophy, research, or essay output. |
-| [generation questions](../human-resources/research/generation-questions.md) | Generates interview questions from a job description and candidate profile. |
-| [Gepetto](../product-development/research/gepetto.md) | Creates detailed, sectionized implementation plans through research, stakeholder interviews, and multi-LLM review. |
-| [Go In Depth](../science-and-research/research/go-in-depth.md) | Fan-out web searches, fetch sources, adversarially verify claims, and synthesize a cited report. |
-| [Kotler Macro Analyzer](../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
-| [Logistics Exception Management](../operations/research/logistics-exception-management.md) | Resolve freight exceptions, delays, damages, and carrier disputes with structured workflows. |
-| [Moatmri](../executives-and-strategy/research/moatmri.md) | Analyze AI disruption pressure across a business and produce a 90-day defensive action plan. |
-| [Multi Source Search](../science-and-research/research/multi-source-search.md) | Cross-validate web research into a confidence-scored evidence ledger with source diversity. |
-| [Notion Research Documentation](../operations/research/notion-research-documentation.md) | Researches your Notion workspace and produces cited briefs, comparisons, or reports. |
-| [Product Strategist](../product-development/research/product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |
-| [Project Template Audit](../it-and-development/research/project-skill-audit.md) | Audit project workflows and recommend capability updates or additions from session evidence. |
-| [Qms Audit Expert](../operations/research/qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
-| [Reading Pile](../science-and-research/research/reading-pile.md) | Works through your saved-articles backlog and tells you which three are worth your time. |
-| [Regulatory Communication Assistant](../legal/research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
-| [Regulatory Update Analyst](../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
-| [Report Generator](../science-and-research/research/report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |
-| [Research Analyst](../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
-| [Research Coordinator](../science-and-research/research/research-coordinator.md) | Plans and coordinates complex research tasks across multiple specialist researchers. |
-| [Research Orchestrator](../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
-| [Research Synthesizer](../science-and-research/research/research-synthesizer.md) | Merges findings from multiple researchers into a structured, sourced analysis. |
-| [Rex](../product-development/research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
-| [SRED Project Organizer](../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
-| [Think Tank](../executives-and-strategy/research/think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
-| [Trip Planner](../operations/research/trip-planner.md) | Builds a day-by-day itinerary that respects your budget, your pace, and opening hours. |
-| [User Research Planning](../product-development/research/design-user-research.md) | Plan user research that produces honest, actionable insights from start to finish. |
-| [User Research Synthesis](../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
-| [UX Research Interview Kit](../product-development/research/ux-research-interview-kit.md) | Builds structured interview kits: screener, guide, notes, and analysis grid for UX research. |
-
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Abc Xyz Segmentation](../operations/data-analysis/abc-xyz-segmentation.md) | Segment SKUs by value and demand variability, assign planning policies, and reallocate planner attention. |
-| [AI Readiness Assessor](../executives-and-strategy/data-analysis/ai-readiness-assessor.md) | Assesses a business's AI readiness across six dimensions and produces a prioritized action report. |
-| [Board Deck Generator](../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates institutional-quality board meeting decks with financials, updates, and asks. |
-| [Business Analyst](../operations/data-analysis/business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
-| [Carrier Relationship Management](../operations/data-analysis/carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
-| [Churn Autopsy Analyst](../customer-support/data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
-| [Client Health Dashboard](../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
-| [Compliance Monitoring Inspector](../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
-| [Contract Report Builder](../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
-| [Customer Report Generator](../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
-| [Dashboard Design](../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
-| [Developer Churn](../product-development/data-analysis/developer-churn.md) | Analyze developer churn and design retention strategies. |
-| [Developer Growth Analysis](../it-and-development/data-analysis/developer-growth-analysis.md) | Analyzes recent coding chats to identify growth areas and curates learning resources. |
-| [Energy Procurement](../operations/data-analysis/energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
-| [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, categorizes, flags issues, and reports. |
-| [Forecast Accuracy Review](../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
-| [Hiring Screener](../human-resources/data-analysis/hiring-screener.md) | Screens resumes against a job description and returns a ranked, evidence-backed shortlist. |
-| [Inventory Demand Planning](../operations/data-analysis/inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
-| [Job Description Analyzer](../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
-| [Kpi Dashboard Design](data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
-| [Meeting Insights Analyzer](data-analysis/meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
-| [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
-| [Otif Analysis](../operations/data-analysis/otif-analysis.md) | Audit delivery OTIF from order data, find metric gaps, and pinpoint where lateness concentrates. |
-| [Product Decision Agent](../product-development/data-analysis/product-decision-agent.md) | Diagnose product problems and get actionable next decisions and actions |
-| [Product Manager Toolkit](../product-development/data-analysis/product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
-| [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
-| [Quarterly Business Review Builder](../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
-| [Rehabilitation Analyzer](../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
-| [Root Cause Pareto](../operations/data-analysis/root-cause-pareto.md) | Build a decision-grade Pareto for downtime, defects, complaints, or delays with unit discipline and exposure normalization. |
-| [Safety Stock Review](../operations/data-analysis/safety-stock-review.md) | Sizes or audits safety stock using the z*sigma*sqrt(LT) formula with empirical stress tests per variability class. |
-| [Spend Analysis Assistant](../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
-| [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
-| [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
-| [Trading Ledger](../finance/data-analysis/trading-ledger.md) | Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L. |
-| [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
-| [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Normalize vendor quotes and SOWs into a comparison matrix, compute true TCO, and surface negotiation leverage. |
-| [Weekly Ops Report](data-analysis/weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |
-
 ## Knowledge Management
 
 | Template | What it does |
@@ -287,6 +331,29 @@ Team leads and project managers. **321 ready-made Grok Bot templates** for this 
 | [User Thoughts](../it-and-development/knowledge-management/user-thoughts.md) | Persist user decisions and project constraints into a local memory base for reuse across sessions. |
 | [Using Lwc](../it-and-development/knowledge-management/using-lwc.md) | Persist project decisions and code context across coding-agent sessions via LWC memory and graph indexes. |
 
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Ad Copy Generator](marketing-and-growth/ad-copy-generator.md) | Generates, refines, and optimizes ad copy for marketing campaigns. |
+| [Brand Positioning Strategist](marketing-and-growth/brand-positioning-strategist.md) | Turns market data into a clear, differentiated brand position and keeps it sharp. |
+| [Churn Prevention](../marketing/marketing-and-growth/churn-prevention.md) | Reduce voluntary and involuntary churn with cancel flows, save offers, and dunning strategies. |
+| [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
+| [Customer Persona Builder](marketing-and-growth/customer-persona-builder.md) | Builds and refines customer personas from research to presentation for marketing managers. |
+| [Digital Marketing Strategy Formulator](marketing-and-growth/digital-marketing-strategy-formulator.md) | Formulates data-driven digital marketing strategies from market research to performance reporting. |
+| [E-commerce Launch Strategist](marketing-and-growth/e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
+| [Email Campaign Performance Analyst](marketing-and-growth/email-campaign-performance-analyst.md) | Analyzes email campaign performance and returns actionable insights for e-commerce managers. |
+| [Email Campaign Strategist](marketing-and-growth/email-campaign-strategist.md) | Plans and drafts email campaigns that engage, convert, and respect your readers. |
+| [Event Promotion Planner](marketing-and-growth/event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
+| [Influencer Collaboration Manager](marketing-and-growth/influencer-collaboration-manager.md) | Manages influencer collaborations from discovery to reporting, with approval gates for all external actions. |
+| [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
+| [Personalized Marketing Strategist](marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
+| [Product Marketing](../marketing/marketing-and-growth/product-marketing.md) | Build and maintain a product marketing context document from codebase or conversation. |
+| [Seo Optimizer](../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
+| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
+| [Social Media Strategy Planner](marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
+| [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
+
 ## Cloud & DevOps
 
 | Template | What it does |
@@ -303,6 +370,7 @@ Team leads and project managers. **321 ready-made Grok Bot templates** for this 
 | [Itil Expert](../it-and-development/cloud-and-devops/itil-expert.md) | Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management. |
 | [On Call Handoff Patterns](../it-and-development/cloud-and-devops/on-call-handoff-patterns.md) | Structured on-call shift handoffs with incident context and continuity. |
 | [Sshepherd](../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
+| [Technology Integration Coordinator](cloud-and-devops/technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |
 | [VPN Configuration and Management Assistant](../it-and-development/cloud-and-devops/vpn-configuration-and-management-assistant.md) | Configures, troubleshoots, secures, and optimizes VPNs with step-by-step guidance. |
 
 ## Security & Compliance
@@ -310,6 +378,7 @@ Team leads and project managers. **321 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Compliance Audit Preparation Assistant](../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
+| [Compliance Monitoring Assistant](../legal/security-and-compliance/compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
 | [Contract Termination Guidance](../legal/security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
 | [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
 | [Ethical Compliance Assessment Assistant](../legal/security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
@@ -373,6 +442,26 @@ Team leads and project managers. **321 ready-made Grok Bot templates** for this 
 | [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
 | [Word Document Creation](../operations/office-tools/anthropic-docx.md) | Generate formatted Word documents with TOC, headers, page numbers, and letterhead from structured input. |
 
+## Design
+
+| Template | What it does |
+|---|---|
+| [C4 Context](../product-development/design/c4-context.md) | Creates C4 system context diagrams, personas, user journeys, and external dependencies. |
+| [Command Center Ui](../it-and-development/design/command-center-ui.md) | Generate dark-themed monitoring UI code for NOCs and global maps. |
+| [Design Orchestration](../creatives/design/design-orchestration.md) | Routes design work through brainstorming, review, and execution readiness checks. |
+| [Screenshot Synthesizer](../product-development/design/screenshot-synthesizer.md) | Combines UI, interaction, and business analyses into a unified feature list and task breakdown. |
+| [Visual Content Ideation Assistant](design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
+
+## Generative AI and LLM
+
+| Template | What it does |
+|---|---|
+| [Ai Engineering Toolkit](../it-and-development/generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
+| [Dispatch](../it-and-development/generative-ai-and-llm/dispatch.md) | Delegate tasks to Codex CLI and Antigravity CLI from Claude Code with topic-aware sessions. |
+| [E-commerce Chatbot Developer](generative-ai-and-llm/e-commerce-chatbot-developer.md) | Builds, trains, tests, and maintains customer service chatbots for e-commerce stores. |
+| [Orchestrate](../it-and-development/generative-ai-and-llm/orchestrate.md) | Coordinate focused subagents on substantial work and integrate their verified results. |
+| [Polis Protocol](../it-and-development/generative-ai-and-llm/polis-protocol.md) | Coordinate multi-vendor AI agents as a self-improving team with learning routing and amendable rules. |
+
 ## Prompt Engineering
 
 | Template | What it does |
@@ -382,24 +471,6 @@ Team leads and project managers. **321 ready-made Grok Bot templates** for this 
 | [Rich Elicitation](../operations/prompt-engineering/rich-elicitation.md) | Asks targeted clarifying questions when a task has 2+ ambiguous dimensions with 3+ viable answers each. |
 | [Template Development](../it-and-development/prompt-engineering/skill-development.md) | Create, edit, and evaluate templates for an AI runtime, with iterative improvement. |
 | [Yao Meta Template](../it-and-development/prompt-engineering/yao-meta-skill.md) | Turn workflows, prompts, and docs into reusable agent capabilities with evaluation and packaging. |
-
-## Design
-
-| Template | What it does |
-|---|---|
-| [C4 Context](../product-development/design/c4-context.md) | Creates C4 system context diagrams, personas, user journeys, and external dependencies. |
-| [Command Center Ui](../it-and-development/design/command-center-ui.md) | Generate dark-themed monitoring UI code for NOCs and global maps. |
-| [Design Orchestration](../creatives/design/design-orchestration.md) | Routes design work through brainstorming, review, and execution readiness checks. |
-| [Screenshot Synthesizer](../product-development/design/screenshot-synthesizer.md) | Combines UI, interaction, and business analyses into a unified feature list and task breakdown. |
-
-## Generative AI and LLM
-
-| Template | What it does |
-|---|---|
-| [Ai Engineering Toolkit](../it-and-development/generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
-| [Dispatch](../it-and-development/generative-ai-and-llm/dispatch.md) | Delegate tasks to Codex CLI and Antigravity CLI from Claude Code with topic-aware sessions. |
-| [Orchestrate](../it-and-development/generative-ai-and-llm/orchestrate.md) | Coordinate focused subagents on substantial work and integrate their verified results. |
-| [Polis Protocol](../it-and-development/generative-ai-and-llm/polis-protocol.md) | Coordinate multi-vendor AI agents as a self-improving team with learning routing and amendable rules. |
 
 ## Generative Code
 
@@ -418,14 +489,6 @@ Team leads and project managers. **321 ready-made Grok Bot templates** for this 
 | [Interview Prep](../education/teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
 | [Pitch Rehearsal](../education/teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
 | [Ship Learn Next](../education/teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
-
-## Marketing & Growth
-
-| Template | What it does |
-|---|---|
-| [Churn Prevention](../marketing/marketing-and-growth/churn-prevention.md) | Reduce voluntary and involuntary churn with cancel flows, save offers, and dunning strategies. |
-| [Product Marketing](../marketing/marketing-and-growth/product-marketing.md) | Build and maintain a product marketing context document from codebase or conversation. |
-| [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
 
 ## Sales & Negotiation
 

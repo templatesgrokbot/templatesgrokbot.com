@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **109 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **117 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,23 +11,24 @@ Prospecting, pipeline and closing. **109 ready-made Grok Bot templates** for thi
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 44 |
-| [Research](research/README.md) | 17 |
-| [Data Analysis](data-analysis/README.md) | 15 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 48 |
+| [Research](research/README.md) | 18 |
+| [Data Analysis](data-analysis/README.md) | 17 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 15 |
 | [Writing & Content](writing-and-content/README.md) | 6 |
 | [Productivity](productivity/README.md) | 4 |
 | [Coding](coding/README.md) | 2 |
 | [Social Media](social-media/README.md) | 2 |
+| [Support & Community](support-and-community/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Design](design/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
-| [Support & Community](support-and-community/README.md) | 1 |
 
 ## Marketing & Growth
 
 | Template | What it does |
 |---|---|
+| [Ad Copy Generator](../management/marketing-and-growth/ad-copy-generator.md) | Generates, refines, and optimizes ad copy for marketing campaigns. |
 | [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
 | [Alternatives Pages](../marketing/marketing-and-growth/alternatives-pages.md) | Create honest, high-converting competitor comparison pages for developer tools. |
 | [Apify Influencer Discovery](../marketing/marketing-and-growth/apify-influencer-discovery.md) | Find and evaluate influencers for brand partnerships across Instagram, Facebook, YouTube, and TikTok. |
@@ -41,9 +42,12 @@ Prospecting, pipeline and closing. **109 ready-made Grok Bot templates** for thi
 | [Convertkit Automation](../marketing/marketing-and-growth/convertkit-automation.md) | Automate ConvertKit subscriber, tag, and broadcast management via Rube MCP. |
 | [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
 | [Cro](../marketing/marketing-and-growth/cro.md) | Analyze marketing pages and forms to improve conversion rates with actionable recommendations. |
+| [Customer Persona Builder](../management/marketing-and-growth/customer-persona-builder.md) | Builds and refines customer personas from research to presentation for marketing managers. |
+| [Email Campaign Strategist](../management/marketing-and-growth/email-campaign-strategist.md) | Plans and drafts email campaigns that engage, convert, and respect your readers. |
 | [Email Sequence](../marketing/marketing-and-growth/email-sequence.md) | Designs and optimizes email sequences that nurture leads and drive conversions. |
 | [Email Sequence Planner](../marketing/marketing-and-growth/marketing-email-sequence.md) | Design and draft multi-email sequences with timing, branching, and exit conditions. |
 | [Executing Marketing Campaigns](../marketing/marketing-and-growth/executing-marketing-campaigns.md) | Plans, creates, and optimizes marketing campaigns across channels with measurable results. |
+| [Influencer Collaboration Manager](../management/marketing-and-growth/influencer-collaboration-manager.md) | Manages influencer collaborations from discovery to reporting, with approval gates for all external actions. |
 | [Keyword Research with Topic Clusters](../marketing/marketing-and-growth/keyword-recherche-cluster.md) | Finds keywords your site can win with current authority and groups them into topic clusters. |
 | [Keyword Strategy Planner](../marketing/marketing-and-growth/keyword-strategy-planner.md) | Turns a keyword CSV into a prioritized content and SEO strategy with intent mapping. |
 | [Klaviyo Automation](../marketing/marketing-and-growth/klaviyo-automation.md) | Automate Klaviyo email/SMS campaign management, inspection, and monitoring. |
@@ -92,6 +96,7 @@ Prospecting, pipeline and closing. **109 ready-made Grok Bot templates** for thi
 | [Prospecting bot](research/prospecting-bot.md) | Researches accounts and builds outreach lists using CRM data and public content. |
 | [Salary Negotiation Prep](../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 | [Seo Dataforseo](../marketing/research/seo-dataforseo.md) | Fetch live SERPs, keyword metrics, backlinks, and competitor data via DataForSEO. |
+| [Supplier Selection Assistant](../management/research/supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |
 | [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Us Property Data](../real-estate-and-construction/research/us-property-data.md) | Retrieve real U.S. property valuations, listings, and history from Zillow data. No guessing. |
 
@@ -108,10 +113,12 @@ Prospecting, pipeline and closing. **109 ready-made Grok Bot templates** for thi
 | [Customer Engagement Assistant](../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
 | [Customer Report Generator](../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
+| [E-commerce Pricing Optimizer](../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [Footballbin Predictions](../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
 | [Google Ads Performance Analyzer](../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 | [Licensing and Royalty Manager](../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
 | [Quarterly Business Review Builder](../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
+| [Supplier Market Trend Tracker](../management/data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
 | [Trading Risk Manager](../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
@@ -169,6 +176,13 @@ Prospecting, pipeline and closing. **109 ready-made Grok Bot templates** for thi
 | [Linkedin Cli](../marketing/social-media/linkedin-cli.md) | Automate LinkedIn tasks like profile fetching, messaging, and posting via CLI. |
 | [Whatsapp Automation](../marketing/social-media/whatsapp-automation.md) | Automate WhatsApp Business messaging, templates, media, and contacts via Rube MCP. |
 
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
+| [Personalized Insurance Service Assistant](../customer-support/support-and-community/personalized-insurance-service-assistant.md) | Personalized insurance service assistant for customer service representatives. |
+
 ## Cloud & DevOps
 
 | Template | What it does |
@@ -186,11 +200,5 @@ Prospecting, pipeline and closing. **109 ready-made Grok Bot templates** for thi
 | Template | What it does |
 |---|---|
 | [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 
 [← All job fields](../../README.md#browse-by-job) · [Sales on the website](https://templatesgrokbot.com/jobs/sales)

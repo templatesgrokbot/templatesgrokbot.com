@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 335 Grok Bot templates, 332 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 336 Grok Bot templates, 332 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -310,6 +310,7 @@ Infrastructure, deployments, monitoring and incident response. 335 Grok Bot temp
 | [Status](status.md) | Check Railway project status, deployments, and uptime for this directory. |
 | [Supabase](supabase.md) | Manage Supabase projects: database, auth, RLS, storage, edge functions. |
 | [Supabase Schema Architect](supabase-schema-architect.md) | Designs Supabase schemas, migrations, and RLS policies for production-ready databases. |
+| [Technology Integration Coordinator](../../management/cloud-and-devops/technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |
 | [Templates](templates.md) | Search and deploy templates from Railway's marketplace. |
 | [Terraform](terraform.md) | Generates compliant Terraform code and manages HCP workspaces with registry lookups. |
 | [Terraform Azure Planning](terraform-azure-planning.md) | Creates a detailed, machine-readable Azure Terraform implementation plan from specs or codebase analysis. |

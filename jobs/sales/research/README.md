@@ -1,6 +1,6 @@
 # Research templates for Sales
 
-Find sources, compare evidence and summarise what is known. 17 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 18 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Find sources, compare evidence and summarise what is known. 17 Grok Bot template
 | [Prospecting bot](prospecting-bot.md) | Researches accounts and builds outreach lists using CRM data and public content. |
 | [Salary Negotiation Prep](../../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 | [Seo Dataforseo](../../marketing/research/seo-dataforseo.md) | Fetch live SERPs, keyword metrics, backlinks, and competitor data via DataForSEO. |
+| [Supplier Selection Assistant](../../management/research/supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |
 | [Travel Planner](../../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Us Property Data](../../real-estate-and-construction/research/us-property-data.md) | Retrieve real U.S. property valuations, listings, and history from Zillow data. No guessing. |
 

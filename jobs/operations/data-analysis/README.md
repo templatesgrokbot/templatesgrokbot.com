@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 113 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 142 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Clean, query, chart and explain data. 113 Grok Bot templates, 31 of them filed i
 | [Bounty Hunter](../../finance/data-analysis/bounty-hunter.md) | Identifies unclaimed, owed, or wasted money and recommends how to recover it. |
 | [Business Analyst](business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
 | [Buywhere Product Catalog](../../sales/data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
+| [Campaign Effectiveness Analyst](../../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Carrier Relationship Management](carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
 | [Cash Flow Forecaster](../../finance/data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your financial exports and flags crunch weeks. |
 | [Cf Crawl](cf-crawl.md) | Crawl websites via Cloudflare Browser Rendering and save pages as markdown files. |
@@ -34,16 +35,22 @@ Clean, query, chart and explain data. 113 Grok Bot templates, 31 of them filed i
 | [Compliance Reporting Automation Assistant](../../legal/data-analysis/compliance-reporting-automation-assistant.md) | Automates compliance reporting from data extraction to audit prep and alerts. |
 | [Compliance Technology Integration Assistant](../../legal/data-analysis/compliance-technology-integration-assistant.md) | Integrates compliance technology, automates monitoring, and manages risks for compliance analysts. |
 | [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
+| [Customer Demographic Insight Engine](../../management/data-analysis/customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
 | [Customer Engagement Assistant](../../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
 | [Customer Feedback Insight Assistant](../../customer-support/data-analysis/customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |
+| [Customer Lifetime Value Analyst](../../management/data-analysis/customer-lifetime-value-analyst.md) | Turns your customer data into CLV insights and action plans for growth. |
 | [Customer Report Generator](../../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
+| [Customer Sentiment Analyst](../../management/data-analysis/customer-sentiment-analyst.md) | Analyzes customer sentiment across channels to guide e-commerce decisions. |
 | [Customer Success Manager](../../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 | [Customer Success Trend Analyst](../../customer-support/data-analysis/customer-success-trend-analyst.md) | Turns customer data into trend insights and proactive success actions. |
 | [Dashboard Design](../../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
 | [Data Engineering Data Pipeline](../../it-and-development/data-analysis/data-engineering-data-pipeline.md) | Design and implement scalable batch and streaming data pipelines |
 | [Data Feeds](data-feeds.md) | Extract structured JSON data from 40+ websites via Bright Data APIs. |
+| [Demand Forecasting Analyst](../../management/data-analysis/demand-forecasting-analyst.md) | Forecasts product demand from market data, sentiment, and trends for market research managers. |
 | [Doordash Order Ledger](doordash-order-ledger.md) | Answers questions about DoorDash spending and ordering history from an audit log. |
 | [Dynatrace Expert](../../it-and-development/data-analysis/dynatrace-expert.md) | Analyzes Dynatrace observability and security data to investigate incidents, validate deployments, and triage errors within GitHub workflows. |
+| [E-commerce Fraud Detection Assistant](../../management/data-analysis/e-commerce-fraud-detection-assistant.md) | Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud. |
+| [E-commerce Pricing Optimizer](../../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [E-Discovery Project Coordinator](../../legal/data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Elasticsearch Observability](../../it-and-development/data-analysis/elasticsearch-observability.md) | Debug code, optimize search, and remediate threats using live Elastic data. |
 | [Energy Procurement](energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
@@ -51,18 +58,26 @@ Clean, query, chart and explain data. 113 Grok Bot templates, 31 of them filed i
 | [Expense Folder Auditor](expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, categorizes, flags issues, and reports. |
 | [Exploratory Data Analysis](../../science-and-research/data-analysis/exploratory-data-analysis.md) | Analyze scientific data files across 200+ formats and generate markdown reports. No file? No action. Never repeat an analysis on the same file. Draft |
 | [Extract Document Data](extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
+| [Feedback Insight for Service Managers](../../management/data-analysis/feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
 | [Food Database Query](../../science-and-research/data-analysis/food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |
 | [Forecast Accuracy Review](forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 | [Google Analytics](../../marketing/data-analysis/google-analytics.md) | Analyze Google Analytics data to find traffic patterns and suggest improvements. |
 | [Google Analytics Automation](../../marketing/data-analysis/google-analytics-automation.md) | Automate GA4 reporting, property listing, funnels, pivots, and key events via Rube MCP—always search tools first. |
 | [Hiring Screener](../../human-resources/data-analysis/hiring-screener.md) | Screens resumes against a job description and returns a ranked, evidence-backed shortlist. |
 | [Home Inventory Builder](home-inventory-builder.md) | Builds an insurance-grade home inventory from photos and receipts, with values and gap analysis. |
+| [Insurance Document Verification Assistant](../../customer-support/data-analysis/insurance-document-verification-assistant.md) | Verifies, updates, and tracks insurance documents for customer service reps. |
+| [Insurance Feedback Analyzer](../../customer-support/data-analysis/insurance-feedback-analyzer.md) | Collects, analyzes, and reports insurance customer feedback for service improvements. |
+| [Insurance Fraud Detection Assistant](../../customer-support/data-analysis/insurance-fraud-detection-assistant.md) | Detects and investigates insurance fraud across claims, policies, and transactions. |
+| [Insurance Risk Assessment Assistant](../../customer-support/data-analysis/insurance-risk-assessment-assistant.md) | Guides insurance CSRs through risk assessment, from data collection to customer communication. |
 | [Inventory Demand Planning](inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
+| [Inventory Optimization Assistant](../../management/data-analysis/inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
 | [Invoice Organizer](invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
 | [Junta Auctioneers](junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Knowledge Synthesizer](../../it-and-development/data-analysis/knowledge-synthesizer.md) | Extracts actionable patterns from agent interactions to enable organizational learning. |
 | [Kpi Dashboard Design](../../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
 | [Legal Billing Systems Assistant](../../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
+| [Legal Risk Assessment Assistant](../../legal/data-analysis/legal-risk-assessment-assistant.md) | Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers. |
+| [Market Trend Analyzer](../../management/data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
 | [Medical Bill Auditor](../../finance/data-analysis/medical-bill-auditor.md) | Audits medical bills against insurance EOBs, finds errors, and drafts disputes. |
 | [Meeting Insights Analyzer](../../management/data-analysis/meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
 | [Mongodb Performance Advisor](../../it-and-development/data-analysis/mongodb-performance-advisor.md) | Analyze MongoDB performance and recommend query and index optimizations. |
@@ -85,10 +100,12 @@ Clean, query, chart and explain data. 113 Grok Bot templates, 31 of them filed i
 | [Power Bi Data Modeling Expert](../../it-and-development/data-analysis/power-bi-data-modeling-expert.md) | Guides Power BI data model design using star schema and Microsoft best practices. |
 | [Power Bi Performance Expert](../../it-and-development/data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
 | [Power Bi Visualization Expert](power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
+| [Premium Calculation Assistant](../../customer-support/data-analysis/premium-calculation-assistant.md) | Handles insurance premium calculations from data collection to quotes and customer education. |
 | [Product Usage Analytics Assistant](../../customer-support/data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
 | [Production Scheduling](production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Quarterly Business Review Builder](../../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Rehabilitation Analyzer](../../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
+| [Return Refund Optimizer](../../management/data-analysis/return-refund-optimizer.md) | Optimizes e-commerce return and refund processes using data analysis and automation. |
 | [Risk Assessment Workflow Assistant](../../legal/data-analysis/risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |
 | [Risk Management Specialist](risk-management-specialist.md) | Manages ISO 14971 risk management files for medical devices throughout the product lifecycle. |
 | [Root Cause Pareto](root-cause-pareto.md) | Build a decision-grade Pareto for downtime, defects, complaints, or delays with unit discipline and exposure normalization. |
@@ -98,16 +115,28 @@ Clean, query, chart and explain data. 113 Grok Bot templates, 31 of them filed i
 | [Screenshot Business Analyzer](screenshot-business-analyzer.md) | Extracts business logic, functional modules, and data entities from UI screenshots. No code, just what the system does. No output if no screenshot pro |
 | [Segment Cdp](../../it-and-development/data-analysis/segment-cdp.md) | Guides Segment CDP implementation with tracking plans, identity resolution, and data governance best practices. |
 | [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
+| [Service Quality Enhancement Assistant](../../management/data-analysis/service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |
 | [Shopify Review Triage](../../customer-support/data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
 | [Simpy](../../it-and-development/data-analysis/simpy.md) | Builds and runs discrete-event simulations of systems with queues, resources, and timed processes. |
 | [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Spreadsheet](../../finance/data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
 | [Spreadsheet Merger](spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Startup Metrics Framework](../../executives-and-strategy/data-analysis/startup-metrics-framework.md) | Track and optimize startup KPIs from seed through Series A. |
+| [Supplier Cost Savings Planner](../../management/data-analysis/supplier-cost-savings-planner.md) | Turns supplier cost data into savings plans, negotiation tactics, and stakeholder reports. |
+| [Supplier Crisis Management Planner](../../management/data-analysis/supplier-crisis-management-planner.md) | Plans and executes supplier crisis management, from risk assessment to recovery. |
+| [Supplier Feedback Loop Manager](../../management/data-analysis/supplier-feedback-loop-manager.md) | Collects, analyzes, and acts on supplier feedback to improve relationships and performance. |
+| [Supplier Market Trend Tracker](../../management/data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
+| [Supplier Performance Monitor](../../management/data-analysis/supplier-performance-monitor.md) | Track supplier performance, spot issues, and drive improvements from one dashboard. |
+| [Supplier Reporting Assistant](../../management/data-analysis/supplier-reporting-assistant.md) | Turns supplier data into tailored reports, dashboards, and scorecards. |
+| [Supplier Risk Management Assistant](../../management/data-analysis/supplier-risk-management-assistant.md) | Assesses supplier risks, analyzes contracts, and builds mitigation plans for supplier relationship managers. |
+| [Supplier Sustainability and Compliance Assistant](../../management/data-analysis/supplier-sustainability-and-compliance-assistant.md) | Assesses and improves supplier sustainability and compliance with data-driven tools. |
+| [Supply Chain Impact Assessor](../../management/data-analysis/supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |
+| [Supply Chain Optimizer](../../management/data-analysis/supply-chain-optimizer.md) | Optimizes supplier performance, inventory, logistics, and costs for e-commerce operations. |
 | [Swarm Data Processor](../../it-and-development/data-analysis/swarm-data-processor.md) | Launches parallel sub-agents to process large batches of independent data items and merges results. |
 | [Talivia Agent Kit](../../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Tax Document Organizer](../../finance/data-analysis/tax-document-organizer.md) | Sweeps your folders for tax documents and builds a CPA-ready package with a chase list. |
 | [Team Composition Analysis](../../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
+| [Team Performance Monitor](../../management/data-analysis/team-performance-monitor.md) | Turns team performance data into insights, reports, and action plans for service managers. |
 | [Text Comparison Validator](text-comparison-validator.md) | Compares extracted text to a reference file and reports all discrepancies. |
 | [Tune Monitor](tune-monitor.md) | Analyze Monte Carlo monitors and recommend config changes to reduce alert noise. |
 | [Vaex](../../it-and-development/data-analysis/vaex.md) | Process and analyze large tabular datasets that exceed available RAM using Vaex's out-of-core capabilities. |

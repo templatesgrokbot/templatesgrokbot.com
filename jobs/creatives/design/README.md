@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 132 Grok Bot templates, 109 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 133 Grok Bot templates, 109 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -134,6 +134,7 @@ Interfaces, brands, layouts and visual systems. 132 Grok Bot templates, 109 of t
 | [Vaporwave](vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Vercel Web Design Guidelines](vercel-web-design-guidelines.md) | Audits web UIs against 100+ heuristics for UX, layout, and accessibility, returning prioritized fixes. |
 | [Vibrant Maximalism](vibrant-maximalism.md) | Generate loud, clashing, dense web/app designs where every pixel carries pattern, color, and type. |
+| [Visual Content Ideation Assistant](../../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
 | [Visual Emotion Engineer](visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
 | [Web Design Guidelines](../../it-and-development/design/web-design-guidelines.md) | Audits UI code against the latest Web Interface Guidelines. |
 | [Widget Based Design](widget-based-design.md) | Build modular, glanceable widget UI blocks for web and mobile apps. |

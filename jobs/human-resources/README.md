@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **51 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **52 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,8 +18,8 @@ Recruiting, onboarding and people operations. **51 ready-made Grok Bot templates
 | [Research](research/README.md) | 4 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
 | [Security & Compliance](security-and-compliance/README.md) | 3 |
+| [Knowledge Management](knowledge-management/README.md) | 2 |
 | [Design](design/README.md) | 1 |
-| [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 
@@ -105,17 +105,18 @@ Recruiting, onboarding and people operations. **51 ready-made Grok Bot templates
 | [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Whistleblower Policy Manager](../legal/security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Insurance Training and Knowledge Manager](../customer-support/knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
+| [Resume Version Manager](knowledge-management/resume-version-manager.md) | Track resume versions, maintain a master resume, and manage tailored variants. |
+
 ## Design
 
 | Template | What it does |
 |---|---|
 | [Creative Portfolio Resume](../creatives/design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Resume Version Manager](knowledge-management/resume-version-manager.md) | Track resume versions, maintain a master resume, and manage tailored variants. |
 
 ## Office Tools
 

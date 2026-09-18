@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **334 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **336 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Scientists, analysts and academic researchers. **334 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Research](research/README.md) | 134 |
+| [Research](research/README.md) | 136 |
 | [Data Analysis](data-analysis/README.md) | 79 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 64 |
 | [Coding](coding/README.md) | 30 |
@@ -44,6 +44,7 @@ Scientists, analysts and academic researchers. **334 ready-made Grok Bot templat
 | [Biopython](research/biopython.md) | Runs Python molecular biology tasks using Biopython for sequence, structure, and database work. |
 | [Biorxiv Database](research/biorxiv-database.md) | Searches bioRxiv for preprints by keyword, author, date, or category and returns metadata or PDFs. |
 | [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
+| [Brand Perception Study Assistant](../management/research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Brenda Database](research/brenda-database.md) | Retrieve enzyme kinetic data, reactions, and organism info from the BRENDA database via SOAP API. |
 | [Bright Data Mcp](../it-and-development/research/bright-data-mcp.md) | Fetches web pages, search results, and structured data from supported platforms using Bright Data tools. |
 | [Brightdata Local Search](research/brightdata-local-search.md) | Run local web searches via Bright Data SERP API with query expansion and reranking. |
@@ -105,6 +106,7 @@ Scientists, analysts and academic researchers. **334 ready-made Grok Bot templat
 | [Lamindb](research/lamindb.md) | Manages biological datasets with lineage tracking, ontology validation, and FAIR compliance. |
 | [Latex Posters](research/latex-posters.md) | Create professional research posters in LaTeX for conferences and academic events. |
 | [Literature Review](research/literature-review.md) | Conducts systematic literature reviews across scientific databases and produces formatted documents. |
+| [Market Trend Analyst](../management/research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
 | [Mechanistic Interpretability Nnsight](research/mechanistic-interpretability-nnsight.md) | Runs mechanistic interpretability experiments on any PyTorch model, local or remote via NDIF. |
 | [Mechanistic Interpretability Pyvene](research/mechanistic-interpretability-pyvene.md) | Guides causal intervention experiments on PyTorch models using pyvene. |
 | [Mechanistic Interpretability Saelens](../it-and-development/research/mechanistic-interpretability-saelens.md) | Trains and analyzes Sparse Autoencoders to find interpretable features in neural networks. |

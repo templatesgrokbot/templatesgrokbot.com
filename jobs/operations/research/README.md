@@ -1,6 +1,6 @@
 # Research templates for Operations
 
-Find sources, compare evidence and summarise what is known. 53 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 62 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Find sources, compare evidence and summarise what is known. 53 Grok Bot template
 | [Apple Notes Search](apple-notes-search.md) | Semantic + keyword search and connection-discovery across your own Apple Notes. |
 | [Axiom](../../executives-and-strategy/research/axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
 | [Brightdata Local Search](../../science-and-research/research/brightdata-local-search.md) | Run local web searches via Bright Data SERP API with query expansion and reranking. |
+| [Case Brief Organizer for Litigators](../../legal/research/case-brief-organizer-for-litigators.md) | Summarizes, analyzes, and organizes case law for legal research and client support. |
 | [Case Law Research Assistant](../../legal/research/case-law-research-assistant.md) | Find, analyze, and organize case law for your legal research and memos. |
 | [Compliance Docket Analyst](../../legal/research/compliance-docket-analyst.md) | Regulatory filing assistant for compliance analysts: research, draft, validate, track, and submit compliant documents. |
 | [Contact Hunter](../../sales/research/contact-hunter.md) | Finds and verifies public contact details for people and companies. |
@@ -32,10 +33,12 @@ Find sources, compare evidence and summarise what is known. 53 Grok Bot template
 | [Hasdata Cli](../../it-and-development/research/hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
 | [Indexing Issue Auditor](../../it-and-development/research/indexing-issue-auditor.md) | Scan and fix crawl, indexing, and site architecture issues. |
 | [International Patent Filing Assistant](../../legal/research/international-patent-filing-assistant.md) | Guides patent agents through international filing, from search to strategy. |
+| [IP Management Assistant](../../legal/research/ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
 | [Isms Audit Expert](../../it-and-development/research/isms-audit-expert.md) | Conducts ISO 27001 ISMS audits, manages audit programs, and assesses security controls for compliance verification. No certification decisions made. A |
 | [Legal Intake](../../legal/research/legal-intake.md) | Structures a messy client enquiry into a complete intake record and flags what is missing. |
 | [Legal Research and Drafting Assistant](../../legal/research/legal-research-and-drafting-assistant.md) | Handles legal research, drafting, review, and citation checks for paralegals. |
 | [Legal Research Assistant](../../legal/research/legal-research-assistant.md) | Legal research and document support for contract administrators. |
+| [Litigation Paralegal Copilot](../../legal/research/litigation-paralegal-copilot.md) | Handles document review, research, drafting, and trial prep for litigation lawyers. |
 | [Litigation Support Assistant](../../legal/research/litigation-support-assistant.md) | Manages litigation support tasks from document organization to trial preparation. |
 | [Logistics Exception Management](logistics-exception-management.md) | Resolve freight exceptions, delays, damages, and carrier disputes with structured workflows. |
 | [Maxia](maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
@@ -43,6 +46,7 @@ Find sources, compare evidence and summarise what is known. 53 Grok Bot template
 | [Moatmri](../../executives-and-strategy/research/moatmri.md) | Analyze AI disruption pressure across a business and produce a 90-day defensive action plan. |
 | [Multi Source Search](../../science-and-research/research/multi-source-search.md) | Cross-validate web research into a confidence-scored evidence ledger with source diversity. |
 | [Notion Research Documentation](notion-research-documentation.md) | Researches your Notion workspace and produces cited briefs, comparisons, or reports. |
+| [Online Dispute Resolution Assistant](../../legal/research/online-dispute-resolution-assistant.md) | Assists lawyers with online dispute resolution tasks from case evaluation to settlement drafting. |
 | [Qms Audit Expert](qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
 | [Regulatory Affairs Assistant](../../legal/research/regulatory-affairs-assistant.md) | Handles regulatory research, compliance tracking, reporting, audits, and training for legal assistants. |
 | [Regulatory Communication Assistant](../../legal/research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
@@ -53,6 +57,11 @@ Find sources, compare evidence and summarise what is known. 53 Grok Bot template
 | [Research Orchestrator](../../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
 | [Screen Adverse Media](screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
 | [SRED Project Organizer](sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
+| [Supplier Dispute Resolution Framework Builder](../../management/research/supplier-dispute-resolution-framework-builder.md) | Builds and maintains a structured supplier dispute resolution framework from process design to training and feedback. |
+| [Supplier Diversification Planner](../../management/research/supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
+| [Supplier Innovation Program Assistant](../../management/research/supplier-innovation-program-assistant.md) | Finds, evaluates, and nurtures supplier innovation with structured programs and tracking. |
+| [Supplier Relationship Builder](../../management/research/supplier-relationship-builder.md) | Builds and strengthens supplier relationships through structured communication, engagement, and partnership strategies. |
+| [Supplier Selection Assistant](../../management/research/supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |
 | [Third-Party Compliance Evaluator](../../legal/research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 | [Travel Planner](travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Trial Preparation Paralegal Assistant](../../legal/research/trial-preparation-paralegal-assistant.md) | Trial prep assistant for paralegals: research, organize, draft, and strategize. |

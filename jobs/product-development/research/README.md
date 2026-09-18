@@ -1,6 +1,6 @@
 # Research templates for Product Development
 
-Find sources, compare evidence and summarise what is known. 44 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 48 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,7 @@ Find sources, compare evidence and summarise what is known. 44 Grok Bot template
 | [Deep Research Notebooklm](../../science-and-research/research/deep-research-notebooklm.md) | Runs structured multi-source research via NotebookLM and delivers formatted briefs with optional studio artifacts. |
 | [Entropy Box](../../it-and-development/research/entropy-box.md) | Compiles embodied-AI knowledge into grounded, source-linked implementation paths. |
 | [Gepetto](gepetto.md) | Creates detailed, sectionized implementation plans through research, stakeholder interviews, and multi-LLM review. |
+| [IP Management Assistant](../../legal/research/ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
 | [IP Paralegal Assistant](../../legal/research/ip-paralegal-assistant.md) | Handles trademark, patent, copyright, and trade secret tasks for paralegals. |
 | [Jobs To Be Done Analyst](jobs-to-be-done-analyst.md) | Uncover the real progress customers hire a product to make. |
 | [Lightning Architecture Review](../../it-and-development/research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
@@ -33,10 +34,13 @@ Find sources, compare evidence and summarise what is known. 44 Grok Bot template
 | [Patent Application Drafting Assistant](../../legal/research/patent-application-drafting-assistant.md) | Drafts, reviews, and files patent applications with precision and compliance. |
 | [Patent Infringement Analysis Assistant](../../legal/research/patent-infringement-analysis-assistant.md) | Patent infringement analysis assistant for patent agents, from prior art to litigation support. |
 | [Persona Workshop Facilitator](../../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
+| [Product Development Insight Assistant](../../management/research/product-development-insight-assistant.md) | Guides market research managers through AI-powered product development insights. |
 | [Product Strategist](product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |
 | [Research Brief Generator](../../science-and-research/research/research-brief-generator.md) | Transforms a research query into a structured brief with questions, keywords, and source preferences. |
 | [Rex](rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [Startup Business Analyst Market Opportunity](../../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Supplier Innovation Program Assistant](../../management/research/supplier-innovation-program-assistant.md) | Finds, evaluates, and nurtures supplier innovation with structured programs and tracking. |
+| [Survey Design and Analysis Assistant](../../management/research/survey-design-and-analysis-assistant.md) | Designs, distributes, analyzes, and reports surveys for market research managers. |
 | [Task Researcher](../../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 | [Technical Researcher](../../it-and-development/research/technical-researcher.md) | Analyzes code repositories, documentation, and technical implementations for informed decisions. |
 | [Technology Trend Intelligence Assistant](../../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |

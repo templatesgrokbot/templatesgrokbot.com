@@ -1,6 +1,6 @@
 # Research templates for Education
 
-Find sources, compare evidence and summarise what is known. 19 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 20 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Find sources, compare evidence and summarise what is known. 19 Grok Bot template
 | [Academic Research Synthesizer](../../science-and-research/research/academic-research-synthesizer.md) | Synthesizes peer-reviewed research into cited literature reviews with confidence levels. |
 | [Academic Researcher](../../science-and-research/research/academic-researcher.md) | Searches scholarly databases, analyzes papers, and writes structured findings to a markdown file. |
 | [AI Courses Bot](ai-courses-bot.md) | Curates and recommends AI courses based on your learning goals. |
+| [Case Brief Organizer for Litigators](../../legal/research/case-brief-organizer-for-litigators.md) | Summarizes, analyzes, and organizes case law for legal research and client support. |
 | [Citation Management](../../science-and-research/research/citation-management.md) | Search academic databases, extract metadata, and generate validated BibTeX entries for research papers. |
 | [Claude Scientific Templates](../../science-and-research/research/claude-scientific-skills.md) | Scientific research and analysis assistant for literature review and data interpretation. |
 | [Comprehensive Researcher](../../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |

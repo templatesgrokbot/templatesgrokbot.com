@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **85 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **87 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Teachers, trainers and students. **85 ready-made Grok Bot templates** for this f
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 26 |
-| [Research](research/README.md) | 19 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 27 |
+| [Research](research/README.md) | 20 |
 | [Writing & Content](writing-and-content/README.md) | 12 |
 | [Coding](coding/README.md) | 5 |
 | [Security & Compliance](security-and-compliance/README.md) | 4 |
@@ -42,6 +42,7 @@ Teachers, trainers and students. **85 ready-made Grok Bot templates** for this f
 | [Interview Prep](teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
 | [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Legal Education and Training Assistant](../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
+| [Legal Training Material Creator](../legal/teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
 | [Lesson Generator](teaching-and-tutoring/lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
 | [Lightning Factory Explainer](teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
 | [Microsoft Study Mode](teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
@@ -64,6 +65,7 @@ Teachers, trainers and students. **85 ready-made Grok Bot templates** for this f
 | [Academic Research Synthesizer](../science-and-research/research/academic-research-synthesizer.md) | Synthesizes peer-reviewed research into cited literature reviews with confidence levels. |
 | [Academic Researcher](../science-and-research/research/academic-researcher.md) | Searches scholarly databases, analyzes papers, and writes structured findings to a markdown file. |
 | [AI Courses Bot](research/ai-courses-bot.md) | Curates and recommends AI courses based on your learning goals. |
+| [Case Brief Organizer for Litigators](../legal/research/case-brief-organizer-for-litigators.md) | Summarizes, analyzes, and organizes case law for legal research and client support. |
 | [Citation Management](../science-and-research/research/citation-management.md) | Search academic databases, extract metadata, and generate validated BibTeX entries for research papers. |
 | [Claude Scientific Templates](../science-and-research/research/claude-scientific-skills.md) | Scientific research and analysis assistant for literature review and data interpretation. |
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |

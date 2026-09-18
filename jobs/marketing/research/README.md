@@ -1,6 +1,6 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 55 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 59 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Find sources, compare evidence and summarise what is known. 55 Grok Bot template
 | [AI News finding Bot](../../science-and-research/research/ai-news-finding-bot.md) | Finds and summarizes AI news from trusted sources daily. |
 | [Apify Ecommerce](../../it-and-development/research/apify-ecommerce.md) | Extract product data, prices, reviews, and sellers from e-commerce sites via Apify. |
 | [Apify Market Research](apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
+| [Brand Perception Study Assistant](../../management/research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Brightdata Local Search](../../science-and-research/research/brightdata-local-search.md) | Run local web searches via Bright Data SERP API with query expansion and reranking. |
 | [Competitive Ads Extractor](competitive-ads-extractor.md) | Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns. |
 | [Competitive Analyst](competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
@@ -39,6 +40,7 @@ Find sources, compare evidence and summarise what is known. 55 Grok Bot template
 | [Market Research Reports](market-research-reports.md) | Generates 50+ page consulting-grade market research reports with LaTeX formatting, visuals, and strategic frameworks. |
 | [Market Researcher](market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
 | [Market Scout](market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
+| [Market Trend Analyst](../../management/research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
 | [Multi Source Searcher](../../science-and-research/research/multi-source-searcher.md) | Finds precise information across multiple sources using optimized search strategies and systematic retrieval. |
 | [Niche Intelligence Dossier](../../science-and-research/research/niche-intelligence-dossier.md) | Generates domain intelligence dossiers for specific niches, including regulations, UX, and industry stack. |
 | [Onboarding Psychologist](../../product-development/research/onboarding-psychologist.md) | Design onboarding flows that build habits through early wins and identity shift. |
@@ -46,6 +48,7 @@ Find sources, compare evidence and summarise what is known. 55 Grok Bot template
 | [Perplexity](../../science-and-research/research/perplexity.md) | Searches the web and answers questions using Perplexity AI. |
 | [Persona Workshop Facilitator](persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Podcast Trend Scout](podcast-trend-scout.md) | Scouts 3-5 emerging tech topics weekly for The Build podcast episodes. |
+| [Product Development Insight Assistant](../../management/research/product-development-insight-assistant.md) | Guides market research managers through AI-powered product development insights. |
 | [Prospecting bot](../../sales/research/prospecting-bot.md) | Researches accounts and builds outreach lists using CRM data and public content. |
 | [Research Analyst](../../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
 | [Research Brief Generator](../../science-and-research/research/research-brief-generator.md) | Transforms a research query into a structured brief with questions, keywords, and source preferences. |
@@ -56,6 +59,7 @@ Find sources, compare evidence and summarise what is known. 55 Grok Bot template
 | [Seo Geo](seo-geo.md) | Analyze content visibility and optimization for AI search systems like ChatGPT, Perplexity, and Google AI Overviews. |
 | [Seo Images](seo-images.md) | Audit image SEO, alt text, sizes, formats, and lazy loading for web pages. |
 | [Startup Business Analyst Market Opportunity](../../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Survey Design and Analysis Assistant](../../management/research/survey-design-and-analysis-assistant.md) | Designs, distributes, analyzes, and reports surveys for market research managers. |
 | [Tools Page Seo Optimizer](tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |
 | [Trend Analyst](trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Ux Researcher](../../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |

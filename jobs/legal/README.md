@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **120 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **132 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,13 @@ Contracts, research, compliance and review. **120 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Research](research/README.md) | 44 |
-| [Security & Compliance](security-and-compliance/README.md) | 32 |
-| [Data Analysis](data-analysis/README.md) | 17 |
+| [Research](research/README.md) | 48 |
+| [Security & Compliance](security-and-compliance/README.md) | 34 |
+| [Data Analysis](data-analysis/README.md) | 19 |
 | [Writing & Content](writing-and-content/README.md) | 9 |
-| [Knowledge Management](knowledge-management/README.md) | 7 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 3 |
-| [Support & Community](support-and-community/README.md) | 2 |
+| [Knowledge Management](knowledge-management/README.md) | 8 |
+| [Support & Community](support-and-community/README.md) | 4 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
 | [Coding](coding/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Art](generative-art/README.md) | 1 |
@@ -32,6 +32,7 @@ Contracts, research, compliance and review. **120 ready-made Grok Bot templates*
 | [Auction Notice Analyst](research/auction-notice-analyst.md) | Analyzes judicial and extrajudicial auction notices, flags hidden risks, and rates the opportunity. |
 | [Brazilian Legal Advisor](research/specialist-attorney.md) | Specialist attorney in all areas of Brazilian law. |
 | [Brief Counsel Legal Research](research/brief-counsel-legal-research.md) | Handles legal research tasks from case analysis to citation checks and drafting support. |
+| [Case Brief Organizer for Litigators](research/case-brief-organizer-for-litigators.md) | Summarizes, analyzes, and organizes case law for legal research and client support. |
 | [Case Law Research Assistant](research/case-law-research-assistant.md) | Find, analyze, and organize case law for your legal research and memos. |
 | [Client Interview Prep Assistant](research/client-interview-prep-assistant.md) | Prepares legal assistants for client interviews with questions, agendas, and follow-ups. |
 | [Compliance Docket Analyst](research/compliance-docket-analyst.md) | Regulatory filing assistant for compliance analysts: research, draft, validate, track, and submit compliant documents. |
@@ -49,6 +50,7 @@ Contracts, research, compliance and review. **120 ready-made Grok Bot templates*
 | [Dispute Resolution Support Assistant](research/dispute-resolution-support-assistant.md) | Supports contract administrators through every stage of dispute resolution. |
 | [Freedom to Operate Analyst](research/freedom-to-operate-analyst.md) | Finds patent risks and opportunities before you commit to a product. |
 | [International Patent Filing Assistant](research/international-patent-filing-assistant.md) | Guides patent agents through international filing, from search to strategy. |
+| [IP Management Assistant](research/ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
 | [IP Paralegal Assistant](research/ip-paralegal-assistant.md) | Handles trademark, patent, copyright, and trade secret tasks for paralegals. |
 | [Lease Reader](research/lease-reader.md) | Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on. |
 | [Legal Auction Analyst](research/legal-auction-analyst.md) | Analyzes nullities, family homestead and fiduciary alienation in real estate auctions under the CPC and Law 9.514/97. |
@@ -56,8 +58,10 @@ Contracts, research, compliance and review. **120 ready-made Grok Bot templates*
 | [Legal Research and Drafting Assistant](research/legal-research-and-drafting-assistant.md) | Handles legal research, drafting, review, and citation checks for paralegals. |
 | [Legal Research Assistant](research/legal-research-assistant.md) | Legal research and document support for contract administrators. |
 | [Lex](research/lex.md) | Ground legal drafting in verified government references across US, EU, and CA jurisdictions. |
+| [Litigation Paralegal Copilot](research/litigation-paralegal-copilot.md) | Handles document review, research, drafting, and trial prep for litigation lawyers. |
 | [Litigation Support Assistant](research/litigation-support-assistant.md) | Manages litigation support tasks from document organization to trial preparation. |
 | [Mdr 745 Specialist](../operations/research/mdr-745-specialist.md) | Guides medical device manufacturers through EU MDR 2017/745 compliance, from classification to post-market surveillance. |
+| [Online Dispute Resolution Assistant](research/online-dispute-resolution-assistant.md) | Assists lawyers with online dispute resolution tasks from case evaluation to settlement drafting. |
 | [Patent Application Drafting Assistant](research/patent-application-drafting-assistant.md) | Drafts, reviews, and files patent applications with precision and compliance. |
 | [Patent Classification Assistant](research/patent-classification-assistant.md) | Classifies patents, analyzes prior art, and manages classification workflows for patent agents. |
 | [Patent Infringement Analysis Assistant](research/patent-infringement-analysis-assistant.md) | Patent infringement analysis assistant for patent agents, from prior art to litigation support. |
@@ -84,6 +88,7 @@ Contracts, research, compliance and review. **120 ready-made Grok Bot templates*
 | [Check Identity Pack](../operations/security-and-compliance/check-identity-pack.md) | Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing. |
 | [Compliance Audit Preparation Assistant](security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
 | [Compliance Auditor](../it-and-development/security-and-compliance/compliance-auditor.md) | Audits compliance across GDPR, HIPAA, SOC 2, PCI DSS, and ISO frameworks. |
+| [Compliance Monitoring Assistant](security-and-compliance/compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
 | [Compliance Query Resolution Assistant](security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
 | [Compliance Specialist](security-and-compliance/compliance-specialist.md) | Assesses compliance gaps and prepares audit evidence for regulatory frameworks. |
 | [Contract Termination Guidance](security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
@@ -104,6 +109,7 @@ Contracts, research, compliance and review. **120 ready-made Grok Bot templates*
 | [Policy Development Support](security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
 | [Privacy By Design](../it-and-development/security-and-compliance/privacy-by-design.md) | Build apps with built-in privacy protections from the start. |
 | [Protected Disclosure Compass](security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
+| [Regulatory Compliance Assistant](../customer-support/security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
 | [Risk Assessment and Analysis Assistant](security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
 | [Se Responsible Ai Code](../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
 | [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
@@ -125,7 +131,9 @@ Contracts, research, compliance and review. **120 ready-made Grok Bot templates*
 | [Deal Room Risk Analyst](../finance/data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
 | [E-Discovery Project Coordinator](data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Extract Document Data](../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
+| [Legal Analytics Assistant](data-analysis/legal-analytics-assistant.md) | Turns legal documents and case data into clear insights, drafts, and risk assessments for lawyers. |
 | [Legal Billing Systems Assistant](data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
+| [Legal Risk Assessment Assistant](data-analysis/legal-risk-assessment-assistant.md) | Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers. |
 | [Licensing and Royalty Manager](data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
 | [Patent Portfolio Analyst](data-analysis/patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
 | [Patent Valuation Analyst](data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
@@ -157,7 +165,17 @@ Contracts, research, compliance and review. **120 ready-made Grok Bot templates*
 | [Crossframe Casebook](../operations/knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
 | [Data Room Builder](../finance/knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
 | [Evidence Organization Assistant](knowledge-management/evidence-organization-assistant.md) | Organizes, tracks, and prepares legal evidence for paralegals from collection to trial. |
+| [Legal Knowledge Base Builder](knowledge-management/legal-knowledge-base-builder.md) | Builds and maintains a legal knowledge base with research, drafting, and compliance support. |
 | [Record-Keeping Compliance Optimizer](knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Client Communication Manager](support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
+| [Contract Query Resolution Assistant](support-and-community/contract-query-resolution-assistant.md) | Resolves contract queries from triage to follow-up, tracking every step and reporting metrics. |
+| [Insurance Dispute Resolution Assistant](../customer-support/support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
+| [Legal Intake Concierge](support-and-community/legal-intake-concierge.md) | Manages client communication for lawyers, from intake to follow-up, with approval gates. |
 
 ## Teaching & Tutoring
 
@@ -166,13 +184,7 @@ Contracts, research, compliance and review. **120 ready-made Grok Bot templates*
 | [Compliance Training Material Creator](teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
 | [Compliance Training Program Developer](teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 | [Legal Education and Training Assistant](teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Client Communication Manager](support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
-| [Contract Query Resolution Assistant](support-and-community/contract-query-resolution-assistant.md) | Resolves contract queries from triage to follow-up, tracking every step and reporting metrics. |
+| [Legal Training Material Creator](teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
 
 ## Coding
 

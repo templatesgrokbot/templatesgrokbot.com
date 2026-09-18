@@ -1,6 +1,6 @@
 # Knowledge Management templates for Operations
 
-Notes, documents, PDFs and knowledge bases kept in order. 27 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 28 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 27 Grok Bot templates,
 | [Evidence Organization Assistant](../../legal/knowledge-management/evidence-organization-assistant.md) | Organizes, tracks, and prepares legal evidence for paralegals from collection to trial. |
 | [Ingest Youtube](ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
 | [Knowledge Base Builder](../../customer-support/knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
+| [Legal Knowledge Base Builder](../../legal/knowledge-management/legal-knowledge-base-builder.md) | Builds and maintains a legal knowledge base with research, drafting, and compliance support. |
 | [Maintain Codex Wiki](../../it-and-development/knowledge-management/maintain-codex-wiki.md) | Maintain a review-first engineering wiki with provenance and citation-aware queries. |
 | [Memory Search](../../it-and-development/knowledge-management/memory-search.md) | Search conversation history and semantic memory to recall past discussions and decisions. |
 | [Metadata Agent](metadata-agent.md) | Standardizes and maintains frontmatter metadata across an Obsidian vault. |

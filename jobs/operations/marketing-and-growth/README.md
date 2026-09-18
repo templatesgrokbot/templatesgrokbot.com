@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Operations
 
-Campaigns, ads, conversion and launch plans. 14 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 17 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,9 @@ Campaigns, ads, conversion and launch plans. 14 Grok Bot templates, 1 of them fi
 | [Activecampaign Automation](../../marketing/marketing-and-growth/activecampaign-automation.md) | Automate ActiveCampaign contacts, tags, lists, automations, and tasks via Rube MCP. |
 | [Churn Prevention](../../marketing/marketing-and-growth/churn-prevention.md) | Reduce voluntary and involuntary churn with cancel flows, save offers, and dunning strategies. |
 | [Convertkit Automation](../../marketing/marketing-and-growth/convertkit-automation.md) | Automate ConvertKit subscriber, tag, and broadcast management via Rube MCP. |
+| [Digital Marketing Strategy Formulator](../../management/marketing-and-growth/digital-marketing-strategy-formulator.md) | Formulates data-driven digital marketing strategies from market research to performance reporting. |
+| [E-commerce Launch Strategist](../../management/marketing-and-growth/e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
+| [Email Campaign Performance Analyst](../../management/marketing-and-growth/email-campaign-performance-analyst.md) | Analyzes email campaign performance and returns actionable insights for e-commerce managers. |
 | [Klaviyo Automation](../../marketing/marketing-and-growth/klaviyo-automation.md) | Automate Klaviyo email/SMS campaign management, inspection, and monitoring. |
 | [Mailtrap Managing Contacts](../../marketing/marketing-and-growth/mailtrap-managing-contacts.md) | Manage Mailtrap contacts, lists, segments, custom fields, imports, and CRM syncs via API. |
 | [Odoo Ecommerce Configurator](odoo-ecommerce-configurator.md) | Step-by-step Odoo eCommerce setup: products, payments, shipping, SEO, and order fulfillment. |

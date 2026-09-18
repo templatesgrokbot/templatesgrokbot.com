@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 175 Grok Bot templates, 159 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 176 Grok Bot templates, 159 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -62,6 +62,7 @@ Work with language models, agents and their plumbing. 175 Grok Bot templates, 15
 | [Distributed Training Megatron Core](../../science-and-research/generative-ai-and-llm/distributed-training-megatron-core.md) | Trains large language models from 2B to 462B parameters using NVIDIA Megatron-Core with advanced parallelism strategies. |
 | [Distributed Training Pytorch Fsdp](distributed-training-pytorch-fsdp.md) | Provides expert guidance for implementing Fully Sharded Data Parallel training with PyTorch FSDP. |
 | [Distributed Training Ray Train](distributed-training-ray-train.md) | Scales PyTorch, TensorFlow, and HuggingFace training from one GPU to thousands of nodes across a cluster. |
+| [E-commerce Chatbot Developer](../../management/generative-ai-and-llm/e-commerce-chatbot-developer.md) | Builds, trains, tests, and maintains customer service chatbots for e-commerce stores. |
 | [Ejentum Reasoning Harness](ejentum-reasoning-harness.md) | Cognitive harnesses for reasoning, code, anti-deception, and memory. |
 | [Embedding Strategies](embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
 | [Emerging Techniques Knowledge Distillation](emerging-techniques-knowledge-distillation.md) | Compress large language models by distilling knowledge from a teacher to a smaller student model. |

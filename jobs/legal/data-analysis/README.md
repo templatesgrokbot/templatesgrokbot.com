@@ -1,6 +1,6 @@
 # Data Analysis templates for Legal
 
-Clean, query, chart and explain data. 17 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 19 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,7 +16,9 @@ Clean, query, chart and explain data. 17 Grok Bot templates, 15 of them filed in
 | [Deal Room Risk Analyst](../../finance/data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
 | [E-Discovery Project Coordinator](e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Extract Document Data](../../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
+| [Legal Analytics Assistant](legal-analytics-assistant.md) | Turns legal documents and case data into clear insights, drafts, and risk assessments for lawyers. |
 | [Legal Billing Systems Assistant](legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
+| [Legal Risk Assessment Assistant](legal-risk-assessment-assistant.md) | Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers. |
 | [Licensing and Royalty Manager](licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
 | [Patent Portfolio Analyst](patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
 | [Patent Valuation Analyst](patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |

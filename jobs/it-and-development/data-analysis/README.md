@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 145 Grok Bot templates, 98 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 151 Grok Bot templates, 98 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -53,6 +53,9 @@ Clean, query, chart and explain data. 145 Grok Bot templates, 98 of them filed i
 | [Ditto](ditto.md) | Mine private work profiles from local coding-agent session logs. |
 | [Doc2math](doc2math.md) | Convert narrative technical docs into grounded mathematical problem specifications. |
 | [Dynatrace Expert](dynatrace-expert.md) | Analyzes Dynatrace observability and security data to investigate incidents, validate deployments, and triage errors within GitHub workflows. |
+| [E-commerce Fraud Detection Assistant](../../management/data-analysis/e-commerce-fraud-detection-assistant.md) | Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud. |
+| [E-commerce Recommendation Optimizer](../../management/data-analysis/e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
+| [E-commerce UX Improvement Assistant](../../management/data-analysis/e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
 | [E-Discovery Project Coordinator](../../legal/data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Elasticsearch Observability](elasticsearch-observability.md) | Debug code, optimize search, and remediate threats using live Elastic data. |
 | [Extract Document Data](../../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
@@ -135,6 +138,9 @@ Clean, query, chart and explain data. 145 Grok Bot templates, 98 of them filed i
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Sql Sentinel](sql-sentinel.md) | Audits SQL for cost and performance anti-patterns, scores warehouse health 0-100, and outputs a prioritized cost-reduction plan. Works with BigQuery, |
 | [Statsmodels](../../science-and-research/data-analysis/statsmodels.md) | Fits and diagnoses statistical models for rigorous inference and forecasting. |
+| [Supplier Performance Monitor](../../management/data-analysis/supplier-performance-monitor.md) | Track supplier performance, spot issues, and drive improvements from one dashboard. |
+| [Supplier Reporting Assistant](../../management/data-analysis/supplier-reporting-assistant.md) | Turns supplier data into tailored reports, dashboards, and scorecards. |
+| [Supplier Sustainability and Compliance Assistant](../../management/data-analysis/supplier-sustainability-and-compliance-assistant.md) | Assesses and improves supplier sustainability and compliance with data-driven tools. |
 | [Swarm Data Processor](swarm-data-processor.md) | Launches parallel sub-agents to process large batches of independent data items and merges results. |
 | [Tax Document Organizer](../../finance/data-analysis/tax-document-organizer.md) | Sweeps your folders for tax documents and builds a CPA-ready package with a chase list. |
 | [Template Suggester](skill-suggester.md) | Mines prompt history for repeated workflows and suggests new reusable capabilities. |

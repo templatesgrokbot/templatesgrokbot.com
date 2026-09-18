@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 3175,
+ "count": 3257,
  "templates": [
   {
    "slug": "007",
@@ -510,6 +510,25 @@
    "url": "https://templatesgrokbot.com/bot/ad-campaign-analyzer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "ad-copy-generator",
+   "name": "Ad Copy Generator",
+   "tagline": "Generates, refines, and optimizes ad copy for marketing campaigns.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "sales",
+    "product-development"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "prompt-engineering"
+   ],
+   "path": "jobs/management/marketing-and-growth/ad-copy-generator.md",
+   "url": "https://templatesgrokbot.com/bot/ad-copy-generator"
   },
   {
    "slug": "ad-copy-lab",
@@ -8015,6 +8034,25 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "brand-image-analyst",
+   "name": "Brand Image Analyst",
+   "tagline": "Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "pr-and-communications",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/management/data-analysis/brand-image-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/brand-image-analyst"
+  },
+  {
    "slug": "brand-perception-psychologist",
    "name": "Brand Perception Psychologist",
    "tagline": "Diagnose brand perception gaps and prescribe alignment changes using psychological frameworks.",
@@ -8032,6 +8070,44 @@
    "url": "https://templatesgrokbot.com/bot/brand-perception-psychologist",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "brand-perception-study-assistant",
+   "name": "Brand Perception Study Assistant",
+   "tagline": "Turns customer feedback into brand perception insights and reports for market research managers.",
+   "category": "research",
+   "jobs": [
+    "management",
+    "marketing",
+    "science-and-research",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/management/research/brand-perception-study-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/brand-perception-study-assistant"
+  },
+  {
+   "slug": "brand-positioning-strategist",
+   "name": "Brand Positioning Strategist",
+   "tagline": "Turns market data into a clear, differentiated brand position and keeps it sharp.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "executives-and-strategy",
+    "product-development"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/management/marketing-and-growth/brand-positioning-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/brand-positioning-strategist"
   },
   {
    "slug": "marketing-brand-review",
@@ -9037,6 +9113,25 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "campaign-effectiveness-analyst",
+   "name": "Campaign Effectiveness Analyst",
+   "tagline": "Analyzes marketing campaign data to reveal what drives results and what to do next.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "operations",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth",
+    "research"
+   ],
+   "path": "jobs/management/data-analysis/campaign-effectiveness-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/campaign-effectiveness-analyst"
+  },
+  {
    "slug": "marketing-campaign-plan",
    "name": "Campaign Plan",
    "tagline": "Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu",
@@ -9192,6 +9287,24 @@
    "url": "https://templatesgrokbot.com/bot/carrier-relationship-management",
    "adapted_from": "https://github.com/ai-evos/agent-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "case-brief-organizer-for-litigators",
+   "name": "Case Brief Organizer for Litigators",
+   "tagline": "Summarizes, analyzes, and organizes case law for legal research and client support.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "education"
+   ],
+   "topics": [
+    "research",
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/research/case-brief-organizer-for-litigators.md",
+   "url": "https://templatesgrokbot.com/bot/case-brief-organizer-for-litigators"
   },
   {
    "slug": "case-law-research-assistant",
@@ -9712,6 +9825,24 @@
    "url": "https://templatesgrokbot.com/bot/claimable-postgres",
    "adapted_from": "https://github.com/neondatabase/agent-skills/tree/main/skills/claimable-postgres",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "claims-processing-assistant",
+   "name": "Claims Processing Assistant",
+   "tagline": "Handles claim inquiries, document collection, status updates, and appeals for insurance customer service.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "operations"
+   ],
+   "topics": [
+    "support-and-community",
+    "data-analysis",
+    "knowledge-management"
+   ],
+   "path": "jobs/customer-support/support-and-community/claims-processing-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/claims-processing-assistant"
   },
   {
    "slug": "clarity-gate",
@@ -11640,11 +11771,13 @@
    "category": "marketing",
    "jobs": [
     "marketing",
-    "executives-and-strategy"
+    "executives-and-strategy",
+    "management"
    ],
    "topics": [
     "research",
-    "marketing-and-growth"
+    "marketing-and-growth",
+    "data-analysis"
    ],
    "path": "jobs/marketing/research/competitive-analyst.md",
    "url": "https://templatesgrokbot.com/bot/competitive-analyst",
@@ -11944,6 +12077,24 @@
    ],
    "path": "jobs/legal/research/compliance-docket-analyst.md",
    "url": "https://templatesgrokbot.com/bot/compliance-docket-analyst"
+  },
+  {
+   "slug": "compliance-monitoring-assistant",
+   "name": "Compliance Monitoring Assistant",
+   "tagline": "Monitors legal changes, audits compliance, and drafts reports and training for your legal practice.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/security-and-compliance/compliance-monitoring-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-monitoring-assistant"
   },
   {
    "slug": "compliance-monitoring-inspector",
@@ -12509,7 +12660,8 @@
    "category": "marketing",
    "jobs": [
     "marketing",
-    "pr-and-communications"
+    "pr-and-communications",
+    "management"
    ],
    "topics": [
     "marketing-and-growth",
@@ -13256,6 +13408,22 @@
    "url": "https://templatesgrokbot.com/bot/cover-letter-generator",
    "adapted_from": "https://www.aitmpl.com/component/skills/career/cover-letter-generator",
    "source_license": "MIT"
+  },
+  {
+   "slug": "coverage-inquiry-assistant",
+   "name": "Coverage Inquiry Assistant",
+   "tagline": "Handles insurance coverage inquiries from verification to resolution for customer service reps.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance"
+   ],
+   "topics": [
+    "support-and-community",
+    "data-analysis"
+   ],
+   "path": "jobs/customer-support/support-and-community/coverage-inquiry-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/coverage-inquiry-assistant"
   },
   {
    "slug": "cowork-to-code-bridge",
@@ -14062,6 +14230,25 @@
    "url": "https://templatesgrokbot.com/bot/custom-clause-generator"
   },
   {
+   "slug": "customer-demographic-insight-engine",
+   "name": "Customer Demographic Insight Engine",
+   "tagline": "Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "marketing",
+    "operations",
+    "product-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth",
+    "research"
+   ],
+   "path": "jobs/management/data-analysis/customer-demographic-insight-engine.md",
+   "url": "https://templatesgrokbot.com/bot/customer-demographic-insight-engine"
+  },
+  {
    "slug": "customer-engagement-assistant",
    "name": "Customer Engagement Assistant",
    "tagline": "Personalized customer engagement for Customer Success Managers.",
@@ -14078,6 +14265,25 @@
    ],
    "path": "jobs/customer-support/data-analysis/customer-engagement-assistant.md",
    "url": "https://templatesgrokbot.com/bot/customer-engagement-assistant"
+  },
+  {
+   "slug": "customer-feedback-insight-analyst",
+   "name": "Customer Feedback Insight Analyst",
+   "tagline": "Turns customer feedback into clear insights, trends, and reports for marketing decisions.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "product-development",
+    "customer-support"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/management/data-analysis/customer-feedback-insight-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/customer-feedback-insight-analyst"
   },
   {
    "slug": "customer-feedback-insight-assistant",
@@ -14134,6 +14340,43 @@
    "url": "https://templatesgrokbot.com/bot/customer-journey-mapping-assistant"
   },
   {
+   "slug": "customer-lifetime-value-analyst",
+   "name": "Customer Lifetime Value Analyst",
+   "tagline": "Turns your customer data into CLV insights and action plans for growth.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "marketing",
+    "operations",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth",
+    "productivity"
+   ],
+   "path": "jobs/management/data-analysis/customer-lifetime-value-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/customer-lifetime-value-analyst"
+  },
+  {
+   "slug": "customer-onboarding-assistant",
+   "name": "Customer Onboarding Assistant",
+   "tagline": "Guides new insurance customers through onboarding with personalized, step-by-step support.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "operations"
+   ],
+   "topics": [
+    "support-and-community",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/customer-support/support-and-community/customer-onboarding-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/customer-onboarding-assistant"
+  },
+  {
    "slug": "customer-panel-debate",
    "name": "Customer Panel Debate",
    "tagline": "Assemble a data-grounded customer panel to debate your high-stakes decisions.",
@@ -14152,6 +14395,25 @@
    "url": "https://templatesgrokbot.com/bot/customer-panel-debate",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/customer-panel-of-experts",
    "source_license": "MIT"
+  },
+  {
+   "slug": "customer-persona-builder",
+   "name": "Customer Persona Builder",
+   "tagline": "Builds and refines customer personas from research to presentation for marketing managers.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "product-development",
+    "sales"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/management/marketing-and-growth/customer-persona-builder.md",
+   "url": "https://templatesgrokbot.com/bot/customer-persona-builder"
   },
   {
    "slug": "customer-psychographic-profiler",
@@ -14211,6 +14473,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "customer-segmentation-analyst",
+   "name": "Customer Segmentation Analyst",
+   "tagline": "Turns customer data into actionable segments and profiles for targeted marketing.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "product-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth",
+    "research"
+   ],
+   "path": "jobs/management/data-analysis/customer-segmentation-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/customer-segmentation-analyst"
+  },
+  {
    "slug": "customer-segmentation-insights-assistant",
    "name": "Customer Segmentation Insights Assistant",
    "tagline": "Turns customer data into segments, insights, and actions for Customer Success Managers.",
@@ -14225,6 +14505,24 @@
    ],
    "path": "jobs/customer-support/data-analysis/customer-segmentation-insights-assistant.md",
    "url": "https://templatesgrokbot.com/bot/customer-segmentation-insights-assistant"
+  },
+  {
+   "slug": "customer-sentiment-analyst",
+   "name": "Customer Sentiment Analyst",
+   "tagline": "Analyzes customer sentiment across channels to guide e-commerce decisions.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "marketing",
+    "operations",
+    "product-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/management/data-analysis/customer-sentiment-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/customer-sentiment-analyst"
   },
   {
    "slug": "customer-success-manager",
@@ -15724,6 +16022,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "demand-forecasting-analyst",
+   "name": "Demand Forecasting Analyst",
+   "tagline": "Forecasts product demand from market data, sentiment, and trends for market research managers.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "product-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/management/data-analysis/demand-forecasting-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/demand-forecasting-analyst"
+  },
+  {
    "slug": "demonstrate-understanding",
    "name": "Demonstrate Understanding",
    "tagline": "Validates your understanding of code and design through guided questioning.",
@@ -16960,6 +17275,25 @@
    "url": "https://templatesgrokbot.com/bot/digital-forensics",
    "adapted_from": "https://github.com/zhaoxuya520/reverse-skill",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "digital-marketing-strategy-formulator",
+   "name": "Digital Marketing Strategy Formulator",
+   "tagline": "Formulates data-driven digital marketing strategies from market research to performance reporting.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "operations",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/management/marketing-and-growth/digital-marketing-strategy-formulator.md",
+   "url": "https://templatesgrokbot.com/bot/digital-marketing-strategy-formulator"
   },
   {
    "slug": "disaster-recovery-and-backup-planner",
@@ -18327,6 +18661,118 @@
    "source_license": "MIT"
   },
   {
+   "slug": "e-commerce-chatbot-developer",
+   "name": "E-commerce Chatbot Developer",
+   "tagline": "Builds, trains, tests, and maintains customer service chatbots for e-commerce stores.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "it-and-development",
+    "customer-support",
+    "operations"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "support-and-community",
+    "productivity"
+   ],
+   "path": "jobs/management/generative-ai-and-llm/e-commerce-chatbot-developer.md",
+   "url": "https://templatesgrokbot.com/bot/e-commerce-chatbot-developer"
+  },
+  {
+   "slug": "e-commerce-fraud-detection-assistant",
+   "name": "E-commerce Fraud Detection Assistant",
+   "tagline": "Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "it-and-development",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/management/data-analysis/e-commerce-fraud-detection-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/e-commerce-fraud-detection-assistant"
+  },
+  {
+   "slug": "e-commerce-launch-strategist",
+   "name": "E-commerce Launch Strategist",
+   "tagline": "Plans and executes e-commerce product launches with data-driven strategy and content.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "marketing",
+    "operations",
+    "product-development"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/management/marketing-and-growth/e-commerce-launch-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/e-commerce-launch-strategist"
+  },
+  {
+   "slug": "e-commerce-pricing-optimizer",
+   "name": "E-commerce Pricing Optimizer",
+   "tagline": "Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "marketing",
+    "operations",
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/management/data-analysis/e-commerce-pricing-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/e-commerce-pricing-optimizer"
+  },
+  {
+   "slug": "e-commerce-recommendation-optimizer",
+   "name": "E-commerce Recommendation Optimizer",
+   "tagline": "Builds and tunes personalized product recommendations for your e-commerce store.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "marketing",
+    "it-and-development",
+    "product-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth",
+    "productivity"
+   ],
+   "path": "jobs/management/data-analysis/e-commerce-recommendation-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/e-commerce-recommendation-optimizer"
+  },
+  {
+   "slug": "e-commerce-ux-improvement-assistant",
+   "name": "E-commerce UX Improvement Assistant",
+   "tagline": "Analyzes e-commerce user data and builds personalized, friction-free website experiences.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "product-development",
+    "marketing",
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "design",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/management/data-analysis/e-commerce-ux-improvement-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/e-commerce-ux-improvement-assistant"
+  },
+  {
    "slug": "e-discovery-project-coordinator",
    "name": "E-Discovery Project Coordinator",
    "tagline": "Assists legal assistants with e-discovery tasks from collection to reporting.",
@@ -18645,6 +19091,42 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "email-campaign-performance-analyst",
+   "name": "Email Campaign Performance Analyst",
+   "tagline": "Analyzes email campaign performance and returns actionable insights for e-commerce managers.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "operations"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/management/marketing-and-growth/email-campaign-performance-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/email-campaign-performance-analyst"
+  },
+  {
+   "slug": "email-campaign-strategist",
+   "name": "Email Campaign Strategist",
+   "tagline": "Plans and drafts email campaigns that engage, convert, and respect your readers.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "sales",
+    "product-development"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/management/marketing-and-growth/email-campaign-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/email-campaign-strategist"
+  },
+  {
    "slug": "email-composer",
    "name": "Email Composer",
    "tagline": "Drafts professional emails for business, technical, and customer contexts.",
@@ -18818,6 +19300,24 @@
    "url": "https://templatesgrokbot.com/bot/emergency-card",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "emergency-response-coordinator",
+   "name": "Emergency Response Coordinator",
+   "tagline": "Coordinates emergency response support for insurance policyholders from first contact to claim resolution.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "operations"
+   ],
+   "topics": [
+    "support-and-community",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/customer-support/support-and-community/emergency-response-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/emergency-response-coordinator"
   },
   {
    "slug": "emerging-techniques-knowledge-distillation",
@@ -19472,6 +19972,25 @@
    "url": "https://templatesgrokbot.com/bot/evaluation-nemo-evaluator",
    "adapted_from": "https://www.aitmpl.com/component/skills/ai-research/evaluation-nemo-evaluator",
    "source_license": "MIT"
+  },
+  {
+   "slug": "event-promotion-planner",
+   "name": "Event Promotion Planner",
+   "tagline": "Plans and creates event promotions across social, email, content, ads, and partnerships.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "pr-and-communications",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "social-media",
+    "writing-and-content"
+   ],
+   "path": "jobs/management/marketing-and-growth/event-promotion-planner.md",
+   "url": "https://templatesgrokbot.com/bot/event-promotion-planner"
   },
   {
    "slug": "event-sourcing-architect",
@@ -20599,6 +21118,24 @@
    "url": "https://templatesgrokbot.com/bot/fedora-hyprland-installer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "feedback-insight-for-service-managers",
+   "name": "Feedback Insight for Service Managers",
+   "tagline": "Turns customer feedback into actionable insights for service managers.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "customer-support"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "support-and-community"
+   ],
+   "path": "jobs/management/data-analysis/feedback-insight-for-service-managers.md",
+   "url": "https://templatesgrokbot.com/bot/feedback-insight-for-service-managers"
   },
   {
    "slug": "feedback-mastery",
@@ -26444,6 +26981,25 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "influencer-collaboration-manager",
+   "name": "Influencer Collaboration Manager",
+   "tagline": "Manages influencer collaborations from discovery to reporting, with approval gates for all external actions.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "pr-and-communications",
+    "sales"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/management/marketing-and-growth/influencer-collaboration-manager.md",
+   "url": "https://templatesgrokbot.com/bot/influencer-collaboration-manager"
+  },
+  {
    "slug": "information-security-manager-iso27001",
    "name": "Information Security Manager Iso27001",
    "tagline": "Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies.",
@@ -26617,6 +27173,132 @@
    "url": "https://templatesgrokbot.com/bot/instructree",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "insurance-dispute-resolution-assistant",
+   "name": "Insurance Dispute Resolution Assistant",
+   "tagline": "Guides insurance customer service reps through dispute resolution from intake to escalation.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "support-and-community",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/customer-support/support-and-community/insurance-dispute-resolution-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-dispute-resolution-assistant"
+  },
+  {
+   "slug": "insurance-document-verification-assistant",
+   "name": "Insurance Document Verification Assistant",
+   "tagline": "Verifies, updates, and tracks insurance documents for customer service reps.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "support-and-community",
+    "knowledge-management"
+   ],
+   "path": "jobs/customer-support/data-analysis/insurance-document-verification-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-document-verification-assistant"
+  },
+  {
+   "slug": "insurance-feedback-analyzer",
+   "name": "Insurance Feedback Analyzer",
+   "tagline": "Collects, analyzes, and reports insurance customer feedback for service improvements.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "marketing",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/customer-support/data-analysis/insurance-feedback-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-feedback-analyzer"
+  },
+  {
+   "slug": "insurance-fraud-detection-assistant",
+   "name": "Insurance Fraud Detection Assistant",
+   "tagline": "Detects and investigates insurance fraud across claims, policies, and transactions.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance",
+    "research"
+   ],
+   "path": "jobs/customer-support/data-analysis/insurance-fraud-detection-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-fraud-detection-assistant"
+  },
+  {
+   "slug": "insurance-payment-assistance-assistant",
+   "name": "Insurance Payment Assistance Assistant",
+   "tagline": "Handles insurance payment assistance: plans, extensions, reminders, processing, history, confirmations, and more.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance"
+   ],
+   "topics": [
+    "support-and-community",
+    "office-tools"
+   ],
+   "path": "jobs/customer-support/support-and-community/insurance-payment-assistance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-payment-assistance-assistant"
+  },
+  {
+   "slug": "insurance-risk-assessment-assistant",
+   "name": "Insurance Risk Assessment Assistant",
+   "tagline": "Guides insurance CSRs through risk assessment, from data collection to customer communication.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "support-and-community"
+   ],
+   "path": "jobs/customer-support/data-analysis/insurance-risk-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-risk-assessment-assistant"
+  },
+  {
+   "slug": "insurance-training-and-knowledge-manager",
+   "name": "Insurance Training and Knowledge Manager",
+   "tagline": "Training and knowledge management assistant for insurance customer service teams.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "human-resources"
+   ],
+   "topics": [
+    "knowledge-management",
+    "support-and-community",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/customer-support/knowledge-management/insurance-training-and-knowledge-manager.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-training-and-knowledge-manager"
   },
   {
    "slug": "interaction-design-assistant",
@@ -26872,6 +27554,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "inventory-optimization-assistant",
+   "name": "Inventory Optimization Assistant",
+   "tagline": "Manages inventory levels, forecasts demand, and optimizes stock for service managers.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/management/data-analysis/inventory-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/inventory-optimization-assistant"
+  },
+  {
    "slug": "invoice-chaser",
    "name": "Invoice Chaser",
    "tagline": "Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client.",
@@ -26969,6 +27667,24 @@
    ],
    "path": "jobs/it-and-development/cloud-and-devops/iot-network-integration-assistant.md",
    "url": "https://templatesgrokbot.com/bot/iot-network-integration-assistant"
+  },
+  {
+   "slug": "ip-management-assistant",
+   "name": "IP Management Assistant",
+   "tagline": "Manages IP tasks from registration to enforcement, with drafts and research for lawyers.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "product-development",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/ip-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/ip-management-assistant"
   },
   {
    "slug": "ip-paralegal-assistant",
@@ -28465,6 +29181,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "legal-analytics-assistant",
+   "name": "Legal Analytics Assistant",
+   "tagline": "Turns legal documents and case data into clear insights, drafts, and risk assessments for lawyers.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/data-analysis/legal-analytics-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/legal-analytics-assistant"
+  },
+  {
    "slug": "legal-auction-analyst",
    "name": "Legal Auction Analyst",
    "tagline": "Analyzes nullities, family homestead and fiduciary alienation in real estate auctions under the CPC and Law 9.514/97.",
@@ -28604,6 +29337,43 @@
    "url": "https://templatesgrokbot.com/bot/legal-intake"
   },
   {
+   "slug": "legal-intake-concierge",
+   "name": "Legal Intake Concierge",
+   "tagline": "Manages client communication for lawyers, from intake to follow-up, with approval gates.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "customer-support",
+    "operations"
+   ],
+   "topics": [
+    "support-and-community",
+    "productivity",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/support-and-community/legal-intake-concierge.md",
+   "url": "https://templatesgrokbot.com/bot/legal-intake-concierge"
+  },
+  {
+   "slug": "legal-knowledge-base-builder",
+   "name": "Legal Knowledge Base Builder",
+   "tagline": "Builds and maintains a legal knowledge base with research, drafting, and compliance support.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations",
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/knowledge-management/legal-knowledge-base-builder.md",
+   "url": "https://templatesgrokbot.com/bot/legal-knowledge-base-builder"
+  },
+  {
    "slug": "legal-marketing-and-research-assistant",
    "name": "Legal Marketing and Research Assistant",
    "tagline": "Legal marketing and research assistant for legal assistants.",
@@ -28651,6 +29421,41 @@
    ],
    "path": "jobs/legal/research/legal-research-assistant.md",
    "url": "https://templatesgrokbot.com/bot/legal-research-assistant"
+  },
+  {
+   "slug": "legal-risk-assessment-assistant",
+   "name": "Legal Risk Assessment Assistant",
+   "tagline": "Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "executives-and-strategy",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/data-analysis/legal-risk-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/legal-risk-assessment-assistant"
+  },
+  {
+   "slug": "legal-training-material-creator",
+   "name": "Legal Training Material Creator",
+   "tagline": "Creates legal training materials, research summaries, and practice tools for lawyers and educators.",
+   "category": "education",
+   "jobs": [
+    "legal",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/legal/teaching-and-tutoring/legal-training-material-creator.md",
+   "url": "https://templatesgrokbot.com/bot/legal-training-material-creator"
   },
   {
    "slug": "lemmaly",
@@ -29047,6 +29852,23 @@
    "url": "https://templatesgrokbot.com/bot/literature-review",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/literature-review",
    "source_license": "MIT"
+  },
+  {
+   "slug": "litigation-paralegal-copilot",
+   "name": "Litigation Paralegal Copilot",
+   "tagline": "Handles document review, research, drafting, and trial prep for litigation lawyers.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/legal/research/litigation-paralegal-copilot.md",
+   "url": "https://templatesgrokbot.com/bot/litigation-paralegal-copilot"
   },
   {
    "slug": "litigation-support-assistant",
@@ -30488,7 +31310,8 @@
    "jobs": [
     "marketing",
     "executives-and-strategy",
-    "product-development"
+    "product-development",
+    "management"
    ],
    "topics": [
     "research",
@@ -30525,11 +31348,13 @@
    "jobs": [
     "marketing",
     "executives-and-strategy",
-    "product-development"
+    "product-development",
+    "management"
    ],
    "topics": [
     "research",
-    "data-analysis"
+    "data-analysis",
+    "productivity"
    ],
    "path": "jobs/marketing/research/market-researcher.md",
    "url": "https://templatesgrokbot.com/bot/market-researcher",
@@ -30571,6 +31396,44 @@
    "url": "https://templatesgrokbot.com/bot/market-sizing-analysis",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "market-trend-analyst",
+   "name": "Market Trend Analyst",
+   "tagline": "Turns market data into trend insights and reports for market research managers.",
+   "category": "research",
+   "jobs": [
+    "management",
+    "marketing",
+    "science-and-research",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/management/research/market-trend-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/market-trend-analyst"
+  },
+  {
+   "slug": "market-trend-analyzer",
+   "name": "Market Trend Analyzer",
+   "tagline": "Analyzes market trends and data to guide e-commerce decisions.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "marketing",
+    "operations",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/management/data-analysis/market-trend-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/market-trend-analyzer"
   },
   {
    "slug": "marketing-attribution-analyst",
@@ -30629,6 +31492,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "marketing-metrics-analyst",
+   "name": "Marketing Metrics Analyst",
+   "tagline": "Turns your marketing data into clear metrics, insights, and decisions.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth",
+    "productivity"
+   ],
+   "path": "jobs/management/data-analysis/marketing-metrics-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/marketing-metrics-analyst"
+  },
+  {
    "slug": "marketing-plan",
    "name": "Marketing Plan",
    "tagline": "Produce a 12-month AARRR marketing plan tailored to a client's budget, team, and stage. Hand off single-channel tactics to channel-specific capabilities. Do",
@@ -30671,7 +31552,8 @@
    "jobs": [
     "marketing",
     "product-development",
-    "executives-and-strategy"
+    "executives-and-strategy",
+    "management"
    ],
    "topics": [
     "marketing-and-growth",
@@ -33242,6 +34124,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "multi-channel-insurance-communication-assistant",
+   "name": "Multi-Channel Insurance Communication Assistant",
+   "tagline": "Handles multi-channel insurance customer communication with drafting, translation, and insights.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "marketing"
+   ],
+   "topics": [
+    "translation",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/customer-support/translation/multi-channel-insurance-communication-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/multi-channel-insurance-communication-assistant"
+  },
+  {
    "slug": "code-reviewer-2",
    "name": "Multi-Language Code Reviewer",
    "tagline": "Reviews pull requests for TypeScript, JavaScript, Python, Swift, Kotlin, and Go code.",
@@ -35695,6 +36595,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "online-dispute-resolution-assistant",
+   "name": "Online Dispute Resolution Assistant",
+   "tagline": "Assists lawyers with online dispute resolution tasks from case evaluation to settlement drafting.",
+   "category": "operations",
+   "jobs": [
+    "legal",
+    "customer-support",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "support-and-community"
+   ],
+   "path": "jobs/legal/research/online-dispute-resolution-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/online-dispute-resolution-assistant"
+  },
+  {
    "slug": "ontoly-software-graph",
    "name": "Ontoly Software Graph",
    "tagline": "Analyze TypeScript architecture via Ontoly's deterministic Software Graph queries.",
@@ -37387,6 +38305,41 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "personalized-insurance-service-assistant",
+   "name": "Personalized Insurance Service Assistant",
+   "tagline": "Personalized insurance service assistant for customer service representatives.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "sales"
+   ],
+   "topics": [
+    "support-and-community",
+    "data-analysis",
+    "sales-and-negotiation"
+   ],
+   "path": "jobs/customer-support/support-and-community/personalized-insurance-service-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/personalized-insurance-service-assistant"
+  },
+  {
+   "slug": "personalized-marketing-strategist",
+   "name": "Personalized Marketing Strategist",
+   "tagline": "Turns customer data into personalized marketing strategies for e-commerce managers.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "product-development"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/management/marketing-and-growth/personalized-marketing-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/personalized-marketing-strategist"
+  },
+  {
    "slug": "phase-gated-debugging",
    "name": "Phase Gated Debugging",
    "tagline": "Enforces a 5-phase protocol where code edits are blocked until root cause is confirmed.",
@@ -38112,6 +39065,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "policy-customization-assistant",
+   "name": "Policy Customization Assistant",
+   "tagline": "Guides insurance customers through customizing policies, from coverage options to claims assistance.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance"
+   ],
+   "topics": [
+    "support-and-community",
+    "data-analysis"
+   ],
+   "path": "jobs/customer-support/support-and-community/policy-customization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/policy-customization-assistant"
+  },
+  {
    "slug": "policy-development-support",
    "name": "Policy Development Support",
    "tagline": "Develops, reviews, and manages compliant policies with data-driven support.",
@@ -38128,6 +39097,41 @@
    ],
    "path": "jobs/legal/security-and-compliance/policy-development-support.md",
    "url": "https://templatesgrokbot.com/bot/policy-development-support"
+  },
+  {
+   "slug": "policy-explanation-assistant",
+   "name": "Policy Explanation Assistant",
+   "tagline": "Explains insurance policies clearly and guides customers through coverage, claims, and renewals.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "operations"
+   ],
+   "topics": [
+    "support-and-community",
+    "writing-and-content",
+    "translation"
+   ],
+   "path": "jobs/customer-support/support-and-community/policy-explanation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/policy-explanation-assistant"
+  },
+  {
+   "slug": "policy-renewal-and-updates-assistant",
+   "name": "Policy Renewal and Updates Assistant",
+   "tagline": "Handles policy renewals, updates, and customer inquiries for insurance service reps.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance"
+   ],
+   "topics": [
+    "support-and-community",
+    "productivity",
+    "office-tools"
+   ],
+   "path": "jobs/customer-support/support-and-community/policy-renewal-and-updates-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/policy-renewal-and-updates-assistant"
   },
   {
    "slug": "polis-protocol",
@@ -39022,6 +40026,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "premium-calculation-assistant",
+   "name": "Premium Calculation Assistant",
+   "tagline": "Handles insurance premium calculations from data collection to quotes and customer education.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "support-and-community",
+    "productivity"
+   ],
+   "path": "jobs/customer-support/data-analysis/premium-calculation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/premium-calculation-assistant"
+  },
+  {
    "slug": "premium-web-design",
    "name": "Premium Web Design",
    "tagline": "Generates award-quality React website components with unique, intentional design.",
@@ -39094,6 +40116,25 @@
    "url": "https://templatesgrokbot.com/bot/pricing-strategy",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "pricing-strategy-analyst",
+   "name": "Pricing Strategy Analyst",
+   "tagline": "Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/management/data-analysis/pricing-strategy-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/pricing-strategy-analyst"
   },
   {
    "slug": "principal-software-engineer",
@@ -39231,6 +40272,24 @@
    "url": "https://templatesgrokbot.com/bot/product-design",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "product-development-insight-assistant",
+   "name": "Product Development Insight Assistant",
+   "tagline": "Guides market research managers through AI-powered product development insights.",
+   "category": "research",
+   "jobs": [
+    "management",
+    "product-development",
+    "marketing"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/management/research/product-development-insight-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/product-development-insight-assistant"
   },
   {
    "slug": "product-inventor",
@@ -41837,6 +42896,24 @@
    "url": "https://templatesgrokbot.com/bot/regulatory-communication-assistant"
   },
   {
+   "slug": "regulatory-compliance-assistant",
+   "name": "Regulatory Compliance Assistant",
+   "tagline": "Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "insurance",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/customer-support/security-and-compliance/regulatory-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-compliance-assistant"
+  },
+  {
    "slug": "regulatory-filing-assistant",
    "name": "Regulatory Filing Assistant",
    "tagline": "Prepares, checks, and tracks regulatory filings for paralegals.",
@@ -42487,6 +43564,24 @@
    "url": "https://templatesgrokbot.com/bot/retro-futurism",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "return-refund-optimizer",
+   "name": "Return Refund Optimizer",
+   "tagline": "Optimizes e-commerce return and refund processes using data analysis and automation.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "customer-support"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity",
+    "support-and-community"
+   ],
+   "path": "jobs/management/data-analysis/return-refund-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/return-refund-optimizer"
   },
   {
    "slug": "returns-reverse-logistics",
@@ -45758,10 +46853,13 @@
    "tagline": "Optimizes website content and technical setup to improve organic search rankings.",
    "category": "marketing",
    "jobs": [
-    "marketing"
+    "marketing",
+    "management"
    ],
    "topics": [
-    "marketing-and-growth"
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
    ],
    "path": "jobs/marketing/marketing-and-growth/seo-optimizer.md",
    "url": "https://templatesgrokbot.com/bot/seo-optimizer",
@@ -45904,7 +47002,9 @@
    "jobs": [
     "marketing",
     "sales",
-    "executives-and-strategy"
+    "executives-and-strategy",
+    "management",
+    "it-and-development"
    ],
    "topics": [
     "marketing-and-growth",
@@ -46074,6 +47174,24 @@
    "url": "https://templatesgrokbot.com/bot/service-mesh-observability",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "service-quality-enhancement-assistant",
+   "name": "Service Quality Enhancement Assistant",
+   "tagline": "Analyzes feedback, monitors performance, and drives service quality improvements for service managers.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "customer-support"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "productivity"
+   ],
+   "path": "jobs/management/data-analysis/service-quality-enhancement-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/service-quality-enhancement-assistant"
   },
   {
    "slug": "session-handoff",
@@ -46914,6 +48032,41 @@
    "url": "https://templatesgrokbot.com/bot/social-media-copywriter",
    "adapted_from": "https://www.aitmpl.com/component/agents/podcast-creator-team/social-media-copywriter",
    "source_license": "MIT"
+  },
+  {
+   "slug": "social-media-performance-analyst",
+   "name": "Social Media Performance Analyst",
+   "tagline": "Analyzes your social media performance and gives actionable insights for e-commerce growth.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth",
+    "social-media"
+   ],
+   "path": "jobs/management/data-analysis/social-media-performance-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/social-media-performance-analyst"
+  },
+  {
+   "slug": "social-media-strategy-planner",
+   "name": "Social Media Strategy Planner",
+   "tagline": "Plans, creates, and optimizes your social media strategy from research to reporting.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "marketing",
+    "creatives"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "social-media",
+    "writing-and-content"
+   ],
+   "path": "jobs/management/marketing-and-growth/social-media-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/social-media-strategy-planner"
   },
   {
    "slug": "social-metadata-hardening",
@@ -48283,6 +49436,223 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "supplier-cost-savings-planner",
+   "name": "Supplier Cost Savings Planner",
+   "tagline": "Turns supplier cost data into savings plans, negotiation tactics, and stakeholder reports.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/management/data-analysis/supplier-cost-savings-planner.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-cost-savings-planner"
+  },
+  {
+   "slug": "supplier-crisis-management-planner",
+   "name": "Supplier Crisis Management Planner",
+   "tagline": "Plans and executes supplier crisis management, from risk assessment to recovery.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/management/data-analysis/supplier-crisis-management-planner.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-crisis-management-planner"
+  },
+  {
+   "slug": "supplier-dispute-resolution-framework-builder",
+   "name": "Supplier Dispute Resolution Framework Builder",
+   "tagline": "Builds and maintains a structured supplier dispute resolution framework from process design to training and feedback.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "productivity"
+   ],
+   "path": "jobs/management/research/supplier-dispute-resolution-framework-builder.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-dispute-resolution-framework-builder"
+  },
+  {
+   "slug": "supplier-diversification-planner",
+   "name": "Supplier Diversification Planner",
+   "tagline": "Finds, vets, and onboards new suppliers to diversify your supply chain.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/management/research/supplier-diversification-planner.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-diversification-planner"
+  },
+  {
+   "slug": "supplier-feedback-loop-manager",
+   "name": "Supplier Feedback Loop Manager",
+   "tagline": "Collects, analyzes, and acts on supplier feedback to improve relationships and performance.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "productivity"
+   ],
+   "path": "jobs/management/data-analysis/supplier-feedback-loop-manager.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-feedback-loop-manager"
+  },
+  {
+   "slug": "supplier-innovation-program-assistant",
+   "name": "Supplier Innovation Program Assistant",
+   "tagline": "Finds, evaluates, and nurtures supplier innovation with structured programs and tracking.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "product-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/management/research/supplier-innovation-program-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-innovation-program-assistant"
+  },
+  {
+   "slug": "supplier-market-trend-tracker",
+   "name": "Supplier Market Trend Tracker",
+   "tagline": "Tracks market trends and supplier performance for Supplier Relationship Managers.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/management/data-analysis/supplier-market-trend-tracker.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-market-trend-tracker"
+  },
+  {
+   "slug": "supplier-performance-monitor",
+   "name": "Supplier Performance Monitor",
+   "tagline": "Track supplier performance, spot issues, and drive improvements from one dashboard.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/management/data-analysis/supplier-performance-monitor.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-performance-monitor"
+  },
+  {
+   "slug": "supplier-relationship-builder",
+   "name": "Supplier Relationship Builder",
+   "tagline": "Builds and strengthens supplier relationships through structured communication, engagement, and partnership strategies.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/management/research/supplier-relationship-builder.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-relationship-builder"
+  },
+  {
+   "slug": "supplier-reporting-assistant",
+   "name": "Supplier Reporting Assistant",
+   "tagline": "Turns supplier data into tailored reports, dashboards, and scorecards.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity",
+    "office-tools"
+   ],
+   "path": "jobs/management/data-analysis/supplier-reporting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-reporting-assistant"
+  },
+  {
+   "slug": "supplier-risk-management-assistant",
+   "name": "Supplier Risk Management Assistant",
+   "tagline": "Assesses supplier risks, analyzes contracts, and builds mitigation plans for supplier relationship managers.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/management/data-analysis/supplier-risk-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-risk-management-assistant"
+  },
+  {
+   "slug": "supplier-selection-assistant",
+   "name": "Supplier Selection Assistant",
+   "tagline": "Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "sales"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/management/research/supplier-selection-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-selection-assistant"
+  },
+  {
+   "slug": "supplier-sustainability-and-compliance-assistant",
+   "name": "Supplier Sustainability and Compliance Assistant",
+   "tagline": "Assesses and improves supplier sustainability and compliance with data-driven tools.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "security-and-compliance"
+   ],
+   "path": "jobs/management/data-analysis/supplier-sustainability-and-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-sustainability-and-compliance-assistant"
+  },
+  {
    "slug": "supply-chain-guard",
    "name": "Supply Chain Guard",
    "tagline": "Scan project dependencies for known supply chain attacks and guide remediation.",
@@ -48298,6 +49668,38 @@
    "url": "https://templatesgrokbot.com/bot/supply-chain-guard",
    "adapted_from": "https://www.aitmpl.com/component/skills/security/supply-chain-guard",
    "source_license": "MIT"
+  },
+  {
+   "slug": "supply-chain-impact-assessor",
+   "name": "Supply Chain Impact Assessor",
+   "tagline": "Turns supply chain data into impact assessments and recommendations for market research managers.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/management/data-analysis/supply-chain-impact-assessor.md",
+   "url": "https://templatesgrokbot.com/bot/supply-chain-impact-assessor"
+  },
+  {
+   "slug": "supply-chain-optimizer",
+   "name": "Supply Chain Optimizer",
+   "tagline": "Optimizes supplier performance, inventory, logistics, and costs for e-commerce operations.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/management/data-analysis/supply-chain-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/supply-chain-optimizer"
   },
   {
    "slug": "supply-chain-risk-auditor",
@@ -48350,6 +49752,24 @@
    ],
    "path": "jobs/customer-support/support-and-community/support-triage.md",
    "url": "https://templatesgrokbot.com/bot/support-triage"
+  },
+  {
+   "slug": "survey-design-and-analysis-assistant",
+   "name": "Survey Design and Analysis Assistant",
+   "tagline": "Designs, distributes, analyzes, and reports surveys for market research managers.",
+   "category": "research",
+   "jobs": [
+    "management",
+    "marketing",
+    "product-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/management/research/survey-design-and-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/survey-design-and-analysis-assistant"
   },
   {
    "slug": "survey-generator",
@@ -49200,6 +50620,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "team-performance-monitor",
+   "name": "Team Performance Monitor",
+   "tagline": "Turns team performance data into insights, reports, and action plans for service managers.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/management/data-analysis/team-performance-monitor.md",
+   "url": "https://templatesgrokbot.com/bot/team-performance-monitor"
+  },
+  {
    "slug": "tech-debt-remediation-plan",
    "name": "Tech Debt Remediation Plan",
    "tagline": "Analyze code, tests, and docs to produce a prioritized technical debt remediation plan.",
@@ -49357,6 +50793,24 @@
    "url": "https://templatesgrokbot.com/bot/technical-writer",
    "adapted_from": "https://www.aitmpl.com/component/agents/documentation/technical-writer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "technology-integration-coordinator",
+   "name": "Technology Integration Coordinator",
+   "tagline": "Guides technology integration with suppliers from vendor assessment to post-implementation evaluation.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "operations",
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/management/cloud-and-devops/technology-integration-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/technology-integration-coordinator"
   },
   {
    "slug": "technology-trend-intelligence-assistant",
@@ -51157,7 +52611,8 @@
    "category": "marketing",
    "jobs": [
     "marketing",
-    "executives-and-strategy"
+    "executives-and-strategy",
+    "management"
    ],
    "topics": [
     "research",
@@ -53561,6 +55016,25 @@
    "url": "https://templatesgrokbot.com/bot/visual-analysis-ocr",
    "adapted_from": "https://www.aitmpl.com/component/agents/ocr-extraction-team/visual-analysis-ocr",
    "source_license": "MIT"
+  },
+  {
+   "slug": "visual-content-ideation-assistant",
+   "name": "Visual Content Ideation Assistant",
+   "tagline": "Generates and refines visual content ideas and design concepts for marketing campaigns.",
+   "category": "marketing",
+   "jobs": [
+    "management",
+    "creatives",
+    "marketing",
+    "product-development"
+   ],
+   "topics": [
+    "design",
+    "generative-art",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/management/design/visual-content-ideation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/visual-content-ideation-assistant"
   },
   {
    "slug": "visual-emotion-engineer",

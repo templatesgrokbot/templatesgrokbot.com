@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **317 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **319 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,13 @@ Designers, artists and content creators. **317 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 132 |
+| [Design](design/README.md) | 133 |
 | [Generative Art](generative-art/README.md) | 44 |
 | [Coding](coding/README.md) | 34 |
 | [Generative Code](generative-code/README.md) | 30 |
 | [Writing & Content](writing-and-content/README.md) | 22 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 11 |
 | [Social Media](social-media/README.md) | 11 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 10 |
 | [Video Editing](video-editing/README.md) | 10 |
 | [Generative Video](generative-video/README.md) | 7 |
 | [Research](research/README.md) | 4 |
@@ -161,6 +161,7 @@ Designers, artists and content creators. **317 ready-made Grok Bot templates** f
 | [Vaporwave](design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Vercel Web Design Guidelines](design/vercel-web-design-guidelines.md) | Audits web UIs against 100+ heuristics for UX, layout, and accessibility, returning prioritized fixes. |
 | [Vibrant Maximalism](design/vibrant-maximalism.md) | Generate loud, clashing, dense web/app designs where every pixel carries pattern, color, and type. |
+| [Visual Content Ideation Assistant](../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
 | [Visual Emotion Engineer](design/visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
 | [Web Design Guidelines](../it-and-development/design/web-design-guidelines.md) | Audits UI code against the latest Web Interface Guidelines. |
 | [Widget Based Design](design/widget-based-design.md) | Build modular, glanceable widget UI blocks for web and mobile apps. |
@@ -316,6 +317,22 @@ Designers, artists and content creators. **317 ready-made Grok Bot templates** f
 | [Video Script writer](writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
 | [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
 
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
+| [Brand Review](../marketing/marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
+| [Domain Name Brainstormer](../marketing/marketing-and-growth/domain-name-brainstormer.md) | Generates creative domain name ideas for your project and checks availability across multiple TLDs. |
+| [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
+| [Identity Mirror](../marketing/marketing-and-growth/identity-mirror.md) | Mirror audience identity to make brand messages feel personally resonant. |
+| [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
+| [Popup Cro](../marketing/marketing-and-growth/popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
+| [Seo Image Gen](../marketing/marketing-and-growth/seo-image-gen.md) | Generate SEO-optimized images like OG cards, hero images, and infographics. |
+| [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
+| [Social Media Strategy Planner](../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
+| [Youtube Seo Optimizer](../marketing/marketing-and-growth/youtube-seo-optimizer.md) | Optimize YouTube and podcast metadata for search and discovery. |
+
 ## Social Media
 
 | Template | What it does |
@@ -331,21 +348,6 @@ Designers, artists and content creators. **317 ready-made Grok Bot templates** f
 | [Tiktok Automation](../marketing/social-media/tiktok-automation.md) | Upload, publish, and manage TikTok videos and photos via Composio's TikTok toolkit. |
 | [Xiaohongshu Content Strategist](../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
 | [Youtube Automation](../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
-
-## Marketing & Growth
-
-| Template | What it does |
-|---|---|
-| [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
-| [Brand Review](../marketing/marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
-| [Domain Name Brainstormer](../marketing/marketing-and-growth/domain-name-brainstormer.md) | Generates creative domain name ideas for your project and checks availability across multiple TLDs. |
-| [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
-| [Identity Mirror](../marketing/marketing-and-growth/identity-mirror.md) | Mirror audience identity to make brand messages feel personally resonant. |
-| [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
-| [Popup Cro](../marketing/marketing-and-growth/popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
-| [Seo Image Gen](../marketing/marketing-and-growth/seo-image-gen.md) | Generate SEO-optimized images like OG cards, hero images, and infographics. |
-| [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
-| [Youtube Seo Optimizer](../marketing/marketing-and-growth/youtube-seo-optimizer.md) | Optimize YouTube and podcast metadata for search and discovery. |
 
 ## Video Editing
 

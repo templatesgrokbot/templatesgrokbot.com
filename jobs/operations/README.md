@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **695 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **746 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,18 +11,18 @@ Processes, logistics and the systems that run a business. **695 ready-made Grok 
 
 | Kind of work | Templates |
 |---|---:|
-| [Cloud & DevOps](cloud-and-devops/README.md) | 178 |
-| [Data Analysis](data-analysis/README.md) | 113 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 179 |
+| [Data Analysis](data-analysis/README.md) | 142 |
 | [Productivity](productivity/README.md) | 97 |
+| [Research](research/README.md) | 62 |
 | [Coding](coding/README.md) | 59 |
-| [Research](research/README.md) | 53 |
-| [Security & Compliance](security-and-compliance/README.md) | 38 |
-| [Knowledge Management](knowledge-management/README.md) | 27 |
+| [Security & Compliance](security-and-compliance/README.md) | 39 |
+| [Knowledge Management](knowledge-management/README.md) | 28 |
 | [Office Tools](office-tools/README.md) | 27 |
+| [Support & Community](support-and-community/README.md) | 21 |
 | [Writing & Content](writing-and-content/README.md) | 18 |
-| [Support & Community](support-and-community/README.md) | 15 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 14 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 13 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 17 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 14 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 8 |
 | [Generative Code](generative-code/README.md) | 7 |
@@ -49,7 +49,7 @@ Processes, logistics and the systems that run a business. **695 ready-made Grok 
 | [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
 
-[All 178 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 179 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Data Analysis
 
@@ -64,7 +64,7 @@ Processes, logistics and the systems that run a business. **695 ready-made Grok 
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 113 Data Analysis templates →](data-analysis/README.md)
+[All 142 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -81,6 +81,21 @@ Processes, logistics and the systems that run a business. **695 ready-made Grok 
 
 [All 97 Productivity templates →](productivity/README.md)
 
+## Research
+
+| Template | What it does |
+|---|---|
+| [Maxia](research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
+| [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
+| [Url Context Validator](../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
+| [Discover Brand Materials](../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
+| [Research Orchestrator](../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
+| [Grant Finder](../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
+| [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
+| [Hasdata Cli](../it-and-development/research/hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
+
+[All 62 Research templates →](research/README.md)
+
 ## Coding
 
 | Template | What it does |
@@ -96,21 +111,6 @@ Processes, logistics and the systems that run a business. **695 ready-made Grok 
 
 [All 59 Coding templates →](coding/README.md)
 
-## Research
-
-| Template | What it does |
-|---|---|
-| [Maxia](research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
-| [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
-| [Url Context Validator](../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
-| [Discover Brand Materials](../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
-| [Research Orchestrator](../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
-| [Grant Finder](../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
-| [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
-| [Hasdata Cli](../it-and-development/research/hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
-
-[All 53 Research templates →](research/README.md)
-
 ## Security & Compliance
 
 | Template | What it does |
@@ -124,7 +124,7 @@ Processes, logistics and the systems that run a business. **695 ready-made Grok 
 | [Digital Forensics](../it-and-development/security-and-compliance/digital-forensics.md) | Authorized digital forensics: memory, disk, PCAP, and artifact triage for incident response. |
 | [Senior Secops](../it-and-development/security-and-compliance/senior-secops.md) | Scans code, assesses vulnerabilities, and checks compliance for your projects. |
 
-[All 38 Security & Compliance templates →](security-and-compliance/README.md)
+[All 39 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Knowledge Management
 
@@ -139,7 +139,7 @@ Processes, logistics and the systems that run a business. **695 ready-made Grok 
 | [Vault Optimizer](knowledge-management/vault-optimizer.md) | Analyzes and optimizes Obsidian vault performance, file sizes, and search indexing. |
 | [Notion Knowledge Capture](knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
 
-[All 27 Knowledge Management templates →](knowledge-management/README.md)
+[All 28 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Office Tools
 
@@ -156,6 +156,21 @@ Processes, logistics and the systems that run a business. **695 ready-made Grok 
 
 [All 27 Office Tools templates →](office-tools/README.md)
 
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
+| [Contract Query Resolution Assistant](../legal/support-and-community/contract-query-resolution-assistant.md) | Resolves contract queries from triage to follow-up, tracking every step and reporting metrics. |
+| [Returns Reverse Logistics](support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
+| [Insurance Dispute Resolution Assistant](../customer-support/support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
+| [Community Building](support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
+| [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
+| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
+| [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
+
+[All 21 Support & Community templates →](support-and-community/README.md)
+
 ## Writing & Content
 
 | Template | What it does |
@@ -171,21 +186,6 @@ Processes, logistics and the systems that run a business. **695 ready-made Grok 
 
 [All 18 Writing & Content templates →](writing-and-content/README.md)
 
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
-| [Contract Query Resolution Assistant](../legal/support-and-community/contract-query-resolution-assistant.md) | Resolves contract queries from triage to follow-up, tracking every step and reporting metrics. |
-| [Returns Reverse Logistics](support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
-| [Community Building](support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
-| [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
-| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
-| [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
-| [Community Mod](support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
-
-[All 15 Support & Community templates →](support-and-community/README.md)
-
 ## Marketing & Growth
 
 | Template | What it does |
@@ -195,11 +195,11 @@ Processes, logistics and the systems that run a business. **695 ready-made Grok 
 | [Mailtrap Managing Contacts](../marketing/marketing-and-growth/mailtrap-managing-contacts.md) | Manage Mailtrap contacts, lists, segments, custom fields, imports, and CRM syncs via API. |
 | [Site Architecture](../marketing/marketing-and-growth/site-architecture.md) | Plan and restructure website hierarchy, navigation, URL patterns, and internal linking. |
 | [Seo Drift](../marketing/marketing-and-growth/seo-drift.md) | Monitor a site's SEO state over time and surface ranking, indexation, metadata, canonical, robots, and schema regressions. |
+| [E-commerce Launch Strategist](../management/marketing-and-growth/e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
 | [Klaviyo Automation](../marketing/marketing-and-growth/klaviyo-automation.md) | Automate Klaviyo email/SMS campaign management, inspection, and monitoring. |
 | [Churn Prevention](../marketing/marketing-and-growth/churn-prevention.md) | Reduce voluntary and involuntary churn with cancel flows, save offers, and dunning strategies. |
-| [Convertkit Automation](../marketing/marketing-and-growth/convertkit-automation.md) | Automate ConvertKit subscriber, tag, and broadcast management via Rube MCP. |
 
-[All 14 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 17 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Generative AI and LLM
 
@@ -214,7 +214,7 @@ Processes, logistics and the systems that run a business. **695 ready-made Grok 
 | [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
 | [Loopy](../it-and-development/generative-ai-and-llm/loopy.md) | Discover, craft, audit, and publish bounded AI-agent loops from engineering work. |
 
-[All 13 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 14 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
 ## Speech-To-Text
 
