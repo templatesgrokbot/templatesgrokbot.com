@@ -37,13 +37,13 @@ Find sources, compare evidence and summarise what is known. 40 Grok Bot template
 | [Task Researcher](../../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 | [Technical Researcher](../../it-and-development/research/technical-researcher.md) | Analyzes code repositories, documentation, and technical implementations for informed decisions. |
 | [Think Tank](../../executives-and-strategy/research/think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
-| [Usability Testing Assistant](../../creatives/research/usability-testing-assistant.md) | Plans, runs, and analyzes usability tests to improve your product's UX. |
+| [Usability Testing Assistant](../../creatives/research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
 | [User Research Planning](design-user-research.md) | Plan user research that produces honest, actionable insights from start to finish. |
 | [User Research Synthesis](design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
 | [Uspto Database](../../legal/research/uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |
 | [UX Research Interview Kit](ux-research-interview-kit.md) | Builds structured interview kits: screener, guide, notes, and analysis grid for UX research. |
 | [Ux Researcher](../../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
-| [Ux Researcher Designer](ux-researcher-designer.md) | Turns user research data into personas, journey maps, and actionable insights. |
+| [Ux Researcher Designer](ux-researcher-designer.md) | Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships. |
 | [Wiki Researcher](../../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
 | [Youtube Full](../../it-and-development/research/youtube-full.md) | Fetch YouTube transcripts, search videos, browse channels, and extract playlists via TranscriptAPI. |
 

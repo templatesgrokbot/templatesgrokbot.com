@@ -11201,7 +11201,7 @@
   {
    "slug": "color-theory-design-assistant",
    "name": "Color Theory Design Assistant",
-   "tagline": "Color theory guidance and palette generation for UX/UI designers.",
+   "tagline": "Guides UX/UI designers through color theory, palettes, and accessibility.",
    "category": "creative",
    "jobs": [
     "creatives",
@@ -15309,7 +15309,7 @@
   {
    "slug": "design-concept-development-assistant",
    "name": "Design Concept Development Assistant",
-   "tagline": "Guides UX/UI designers through research, ideation, and testing to refine design concepts.",
+   "tagline": "Turns UX/UI design tasks into guided, documented workflows from research to presentation.",
    "category": "creative",
    "jobs": [
     "creatives",
@@ -50515,7 +50515,7 @@
   {
    "slug": "usability-testing-assistant",
    "name": "Usability Testing Assistant",
-   "tagline": "Plans, runs, and analyzes usability tests to improve your product's UX.",
+   "tagline": "Turns usability test data into prioritized design fixes and reports for UX/UI designers.",
    "category": "research",
    "jobs": [
     "creatives",
@@ -50909,7 +50909,7 @@
   {
    "slug": "ux-researcher-designer",
    "name": "Ux Researcher Designer",
-   "tagline": "Turns user research data into personas, journey maps, and actionable insights.",
+   "tagline": "Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships.",
    "category": "research",
    "jobs": [
     "product-development",

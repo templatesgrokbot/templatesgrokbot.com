@@ -57,13 +57,13 @@ Designers, artists and content creators. **310 ready-made Grok Bot templates** f
 | [Code Showcase Core Components](../it-and-development/design/code-showcase-core-components.md) | Use design tokens and core components for consistent UI. |
 | [Color Blocking](design/color-blocking.md) | Build Mondrian-style layouts with bold color blocks and thick grid lines. |
 | [Color Palette Extractor](design/color-palette-extractor.md) | Extract accessible color palettes from images, websites, or designs and export in multiple formats. |
-| [Color Theory Design Assistant](design/color-theory-design-assistant.md) | Color theory guidance and palette generation for UX/UI designers. |
+| [Color Theory Design Assistant](design/color-theory-design-assistant.md) | Guides UX/UI designers through color theory, palettes, and accessibility. |
 | [Creative Portfolio Resume](design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
 | [CSS Animation Creator](design/css-animation-creator.md) | Create production-grade CSS animations, transitions, and micro-interactions for web UIs. |
 | [Cyberpunk Ui](design/cyberpunk-ui.md) | Generate neon-on-black UI with clipped corners and glitch accents. |
 | [Dark Mode](../it-and-development/design/dark-mode.md) | Dark mode design guide: surfaces, typography, and accent rules. |
 | [Design](design/design.md) | Design brand assets, logos, UI tokens, banners, icons, and social photos from your requests. |
-| [Design Concept Development Assistant](design/design-concept-development-assistant.md) | Guides UX/UI designers through research, ideation, and testing to refine design concepts. |
+| [Design Concept Development Assistant](design/design-concept-development-assistant.md) | Turns UX/UI design tasks into guided, documented workflows from research to presentation. |
 | [Design Critique](design/design-design-critique.md) | Gives structured, honest design feedback on usability, hierarchy, consistency, and accessibility. |
 | [Design It](design/design-it.md) | Routes frontend design tasks to 48 specific UI styles with curated palettes. |
 | [Design Md](design/design-md.md) | Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files |
@@ -371,9 +371,9 @@ Designers, artists and content creators. **310 ready-made Grok Bot templates** f
 
 | Template | What it does |
 |---|---|
-| [Usability Testing Assistant](research/usability-testing-assistant.md) | Plans, runs, and analyzes usability tests to improve your product's UX. |
+| [Usability Testing Assistant](research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
 | [Ux Researcher](research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
-| [Ux Researcher Designer](../product-development/research/ux-researcher-designer.md) | Turns user research data into personas, journey maps, and actionable insights. |
+| [Ux Researcher Designer](../product-development/research/ux-researcher-designer.md) | Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships. |
 | [Web Media Getter](research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
 
 ## Text-To-Speech

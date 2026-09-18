@@ -77,7 +77,7 @@ Find sources, compare evidence and summarise what is known. 78 Grok Bot template
 | [Threat Intelligence](threat-intelligence.md) | Enrich IOCs and profile threats from public sources with verified evidence. |
 | [Tools Page Seo Optimizer](../../marketing/research/tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |
 | [Url Context Validator](url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
-| [Usability Testing Assistant](../../creatives/research/usability-testing-assistant.md) | Plans, runs, and analyzes usability tests to improve your product's UX. |
+| [Usability Testing Assistant](../../creatives/research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
 | [Vexor](vexor.md) | Search files semantically using a vector-powered CLI with Claude/Codex integration. No file editing or code generation. No autonomous execution withou |
 | [Web To Markdown](web-to-markdown.md) | Converts webpage URLs to clean Markdown using a local browser-based CLI. |
 | [Wiki Builder](../../science-and-research/research/wiki-builder.md) | Create and maintain reusable research wikis with source provenance and local markdown outputs. |
