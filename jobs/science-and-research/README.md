@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **343 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **346 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Scientists, analysts and academic researchers. **343 ready-made Grok Bot templat
 | Kind of work | Templates |
 |---|---:|
 | [Research](research/README.md) | 137 |
-| [Data Analysis](data-analysis/README.md) | 83 |
+| [Data Analysis](data-analysis/README.md) | 86 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 64 |
 | [Coding](coding/README.md) | 30 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 10 |
@@ -184,6 +184,7 @@ Scientists, analysts and academic researchers. **343 ready-made Grok Bot templat
 | [Benchling Integration](data-analysis/benchling-integration.md) | Automates Benchling lab data management via API for registry, inventory, and ELN operations. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [ClickHouse IO](../it-and-development/data-analysis/cc-skill-clickhouse-io.md) | Designs ClickHouse schemas, optimizes queries, and builds analytics pipelines for OLAP workloads. |
 | [Cobrapy](data-analysis/cobrapy.md) | Run constraint-based metabolic modeling and analysis on genome-scale models. |
+| [Data Analysis Assistant](../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
 | [Data Analyst](data-analysis/data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
 | [Data Cleaner](../it-and-development/data-analysis/data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
 | [Data Engineer](../it-and-development/data-analysis/data-engineer.md) | Designs and builds scalable data pipelines, warehouses, and streaming architectures for reliable analytics infrastructure. |
@@ -193,6 +194,7 @@ Scientists, analysts and academic researchers. **343 ready-made Grok Bot templat
 | [Data Report Generator](data-analysis/data-report-generator.md) | Turns CSV, Excel, or JSON data into a polished visual report page. |
 | [Data Researcher](data-analysis/data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
 | [Data Scientist](../it-and-development/data-analysis/data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
+| [Data Validation Assistant](../operations/data-analysis/data-validation-assistant.md) | Validates and cleans data entry work with routines for formatting, duplicates, consistency, and quality. |
 | [Datacommons Client](data-analysis/datacommons-client.md) | Queries public statistical data from Data Commons for analysis. |
 | [Doc2math](../it-and-development/data-analysis/doc2math.md) | Convert narrative technical docs into grounded mathematical problem specifications. |
 | [Experiment Readout](../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
@@ -247,6 +249,7 @@ Scientists, analysts and academic researchers. **343 ready-made Grok Bot templat
 | [Spreadsheet Merger](../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Statistical Analysis](data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 | [Statsmodels](data-analysis/statsmodels.md) | Fits and diagnoses statistical models for rigorous inference and forecasting. |
+| [Survey Data Processing Assistant](../operations/data-analysis/survey-data-processing-assistant.md) | Cleans, enters, validates, analyzes, and reports survey data with accuracy and insight. |
 | [Tcm Constitution Analyzer](../healthcare/data-analysis/tcm-constitution-analyzer.md) | Analyze TCM constitution data and provide personalized wellness recommendations. |
 | [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 | [Torchdrug](data-analysis/torchdrug.md) | Run graph-based drug discovery tasks on molecules, proteins, and biomedical graphs. No code execution. You plan and guide the user through TorchDrug w |

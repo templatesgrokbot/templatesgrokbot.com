@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 115 Grok Bot templates, 48 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 120 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -56,6 +56,7 @@ Plan, prioritise and clear the recurring admin. 115 Grok Bot templates, 48 of th
 | [Idea Os](../../product-development/productivity/idea-os.md) | Five-phase pipeline turning raw ideas into PRD, research, and execution plans. |
 | [Idea Refine](../../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
 | [Inbox Triage](inbox-triage.md) | Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe. |
+| [Innovation Ideation Partner](innovation-ideation-partner.md) | Innovation ideation partner for senior managers: generate, evaluate, and track ideas from brainstorm to execution. |
 | [Insurance Digital Transformation Planner](insurance-digital-transformation-planner.md) | Plans and oversees your agency's digital transformation, from customer analytics to automated processes. |
 | [Jira](jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
@@ -86,6 +87,9 @@ Plan, prioritise and clear the recurring admin. 115 Grok Bot templates, 48 of th
 | [Power User Cultivation](../../product-development/productivity/power-user-cultivation.md) | Identify engaged developers and turn them into advocates and contributors. |
 | [Prd](../../product-development/productivity/prd.md) | Synthesize conversation into PRD and publish to issue tracker. |
 | [Product Manager](../../product-development/productivity/product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
+| [Production Resource Allocation Planner](../../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
+| [Production Schedule Optimizer](../../operations/productivity/production-schedule-optimizer.md) | Builds, monitors, and optimizes production schedules, resolving conflicts and keeping stakeholders informed. |
+| [Production Technology Integration Planner](../../operations/productivity/production-technology-integration-planner.md) | Plans and optimizes production technology integration from selection to monitoring. |
 | [Project Management Guidance Assistant](project-management-guidance-assistant.md) | Guides management consultants through every project management task, from planning to reporting. |
 | [Project Manager](project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
 | [Project Supervisor Orchestrator](../../operations/productivity/project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
@@ -119,6 +123,7 @@ Plan, prioritise and clear the recurring admin. 115 Grok Bot templates, 48 of th
 | [Vendor Watch](../../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
 | [Web Project Brainstorming](../../product-development/productivity/web-project-brainstorming.md) | Structured framework for brainstorming web project concepts, UX, styling, tech stack, and SEO. |
 | [Workflow Orchestrator](../../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
+| [Workforce Planning Assistant](../../operations/productivity/workforce-planning-assistant.md) | Optimizes workforce scheduling, allocation, and planning for production planners. |
 | [Wrike Automation](../../operations/productivity/wrike-automation.md) | Automate Wrike tasks, folders, projects, and assignments via Rube MCP. |
 | [Zapier Workflows](../../operations/productivity/zapier-workflows.md) | Manages and triggers your Zapier workflows and MCP tool orchestrations from chat. |
 

@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 153 Grok Bot templates, 125 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 154 Grok Bot templates, 126 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -149,6 +149,7 @@ Campaigns, ads, conversion and launch plans. 153 Grok Bot templates, 125 of them
 | [Set Up a Backlink Campaign](backlink-kampagne.md) | Plans a clean link campaign across five prospect categories and ships outreach mails with it. |
 | [Signup Flow Cro](signup-flow-cro.md) | Analyze and improve signup flows to reduce friction and boost completion rates. |
 | [Site Architecture](site-architecture.md) | Plan and restructure website hierarchy, navigation, URL patterns, and internal linking. |
+| [Social Media Ad Insights Assistant](social-media-ad-insights-assistant.md) | Turns social media ad data into targeting, creative, and budget decisions. |
 | [Social Media Strategy Planner](../../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Social Metadata Hardening](social-metadata-hardening.md) | Fix social sharing previews so URLs render as rich cards on all platforms. |
 | [Social Proof Architect](social-proof-architect.md) | Match social proof type to audience trust gap for maximum credibility. |

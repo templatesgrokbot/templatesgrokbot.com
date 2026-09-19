@@ -1,6 +1,6 @@
 # Data Analysis templates for Insurance
 
-Clean, query, chart and explain data. 18 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 20 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,8 @@ Clean, query, chart and explain data. 18 Grok Bot templates, 0 of them filed in 
 | [Claims Fraud Sentinel](../../management/data-analysis/claims-fraud-sentinel.md) | Detects and prevents insurance fraud through data analysis, monitoring, and investigation support. |
 | [Claims Insights Analyst](../../management/data-analysis/claims-insights-analyst.md) | Turns insurance claims data into clear reports, forecasts, and risk insights for claims managers. |
 | [Compliance Monitoring Inspector](../../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
+| [Data Entry Automation Assistant](../../operations/data-analysis/data-entry-automation-assistant.md) | Automates data entry tasks from extraction to integration, with approval gates. |
+| [Data Quality Control Assistant](../../operations/data-analysis/data-quality-control-assistant.md) | Runs quality control checks on entered data and reports issues for correction. |
 | [Home Inventory Builder](../../operations/data-analysis/home-inventory-builder.md) | Turns your photos and receipts into an insurance-grade home inventory. |
 | [Insurance Competitive Intelligence Assistant](../../management/data-analysis/insurance-competitive-intelligence-assistant.md) | Turns competitor data into actionable insurance market intelligence for agency managers. |
 | [Insurance Document Verification Assistant](../../customer-support/data-analysis/insurance-document-verification-assistant.md) | Verifies, updates, and tracks insurance documents for customer service reps. |

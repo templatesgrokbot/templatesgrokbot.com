@@ -1,6 +1,6 @@
 # Grok Bot templates for Hospitality and Events
 
-Hotels, venues, travel and event teams. **51 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Hotels, venues, travel and event teams. **66 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,14 +11,16 @@ Hotels, venues, travel and event teams. **51 ready-made Grok Bot templates** for
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 16 |
-| [Productivity](productivity/README.md) | 14 |
+| [Data Analysis](data-analysis/README.md) | 18 |
+| [Productivity](productivity/README.md) | 15 |
+| [Social Media](social-media/README.md) | 9 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 7 |
+| [Research](research/README.md) | 4 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
-| [Research](research/README.md) | 3 |
-| [Support & Community](support-and-community/README.md) | 2 |
+| [Support & Community](support-and-community/README.md) | 3 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Design](design/README.md) | 1 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 | [Security & Compliance](security-and-compliance/README.md) | 1 |
 | [Translation](translation/README.md) | 1 |
 
@@ -37,7 +39,9 @@ Hotels, venues, travel and event teams. **51 ready-made Grok Bot templates** for
 | [Hotel Staff Scheduling Optimizer](data-analysis/hotel-staff-scheduling-optimizer.md) | Analyzes hotel data to build balanced staff schedules, reduce costs, and ensure compliance. |
 | [Inventory Analysis Optimizer](../management/data-analysis/inventory-analysis-optimizer.md) | Analyzes inventory data to optimize stock levels, cut costs, and prevent stockouts for business unit managers. |
 | [Inventory Optimization Assistant](../management/data-analysis/inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
+| [Procurement Cost Analyzer](../operations/data-analysis/procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |
 | [Purchasing Budget and Cost Analyst](../management/data-analysis/purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
+| [Seasonal Inventory Planner](../operations/data-analysis/seasonal-inventory-planner.md) | Forecast, plan, and optimize seasonal inventory with data-driven insights. |
 | [Sentiment Insight Compiler](../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Service Journey Optimizer](../management/data-analysis/service-journey-optimizer.md) | Maps, analyzes, and optimizes customer journeys for service managers. |
 | [Service Quality Enhancement Assistant](../management/data-analysis/service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |
@@ -59,8 +63,23 @@ Hotels, venues, travel and event teams. **51 ready-made Grok Bot templates** for
 | [Hotel Sustainability Implementation Planner](productivity/hotel-sustainability-implementation-planner.md) | Turns hotel operations into a sustainability action plan with research, policies, and tracking. |
 | [Inventory Tracking Assistant](../customer-support/productivity/inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |
 | [Itinerary Optimizer](productivity/itinerary-optimizer.md) | Optimizes multi-stop trips with realistic timing, reservations, and buffer time. |
+| [Production Resource Allocation Planner](../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
 | [Travel Arrangement Coordinator](../customer-support/productivity/travel-arrangement-coordinator.md) | Plans and books client travel from flights to insurance in one place. |
 | [Visitor Management Assistant](../customer-support/productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
+
+## Social Media
+
+| Template | What it does |
+|---|---|
+| [Brand Reputation Monitor](../marketing/social-media/brand-reputation-monitor.md) | Monitors brand sentiment, trends, competitors, and crises on social media, delivering reports and alerts. |
+| [Brand Voice and Messaging Assistant](../marketing/social-media/brand-voice-and-messaging-assistant.md) | Crafts and keeps your brand's voice consistent across social media, from captions to strategy. |
+| [Hashtag Strategy Assistant](../marketing/social-media/hashtag-strategy-assistant.md) | Researches, optimizes, and tracks hashtags for social media campaigns and engagement. |
+| [Social Content](../marketing/social-media/social-content.md) | Creates, schedules, and optimizes content across LinkedIn, Twitter/X, Instagram, TikTok, and Facebook. |
+| [Social Content Scheduling Planner](../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
+| [Social Listening and Sentiment Analyst](../marketing/social-media/social-listening-and-sentiment-analyst.md) | Turns social media chatter into actionable insights for your brand. |
+| [Social Media Campaign Manager](../marketing/social-media/social-media-campaign-manager.md) | Plan, execute, and optimize social media campaigns with data-backed insights and content support. |
+| [Social Media Campaign Planner](../marketing/social-media/social-media-campaign-planner.md) | Plans and executes social media campaigns from research to reporting. |
+| [Social Media SEO Optimizer](../marketing/social-media/social-media-seo-optimizer.md) | Optimizes social media content for search engines and tracks SEO performance. |
 
 ## Marketing & Growth
 
@@ -74,6 +93,15 @@ Hotels, venues, travel and event teams. **51 ready-made Grok Bot templates** for
 | [Pricing Strategy Formulation Assistant](../management/marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
 | [Social Media Strategy Planner](../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 
+## Research
+
+| Template | What it does |
+|---|---|
+| [Hotel Competitor Intelligence Assistant](research/hotel-competitor-intelligence-assistant.md) | Tracks competitor pricing, marketing, reviews, and performance to sharpen your hotel's strategy. |
+| [Supplier Research and Analysis Assistant](../operations/research/supplier-research-and-analysis-assistant.md) | Finds, vets, and manages suppliers with data-backed analysis and clear recommendations. |
+| [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
+| [Vendor Research and Evaluation Assistant](../management/research/vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |
+
 ## Writing & Content
 
 | Template | What it does |
@@ -83,18 +111,11 @@ Hotels, venues, travel and event teams. **51 ready-made Grok Bot templates** for
 | [Receptionist Communication Assistant](../customer-support/writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
 | [Recipe Rescuer](../creatives/writing-and-content/recipe-rescuer.md) | Adapts a recipe to what you actually have, and tells you when a substitution will not work. |
 
-## Research
-
-| Template | What it does |
-|---|---|
-| [Hotel Competitor Intelligence Assistant](research/hotel-competitor-intelligence-assistant.md) | Tracks competitor pricing, marketing, reviews, and performance to sharpen your hotel's strategy. |
-| [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
-| [Vendor Research and Evaluation Assistant](../management/research/vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |
-
 ## Support & Community
 
 | Template | What it does |
 |---|---|
+| [Customer Inquiry Response Assistant](../customer-support/support-and-community/customer-inquiry-response-assistant.md) | Drafts, translates, and tracks customer support replies across channels. |
 | [Feedback Loop Manager](../management/support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
 | [Review Response Writer](../pr-and-communications/support-and-community/review-response-writer.md) | Writes review responses in your voice, triages each review, and flags escalations. |
 
@@ -110,6 +131,12 @@ Hotels, venues, travel and event teams. **51 ready-made Grok Bot templates** for
 | Template | What it does |
 |---|---|
 | [Visual Content Ideation Assistant](../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Vendor Relationship Management Assistant](../operations/sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
 
 ## Security & Compliance
 

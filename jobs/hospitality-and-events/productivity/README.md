@@ -1,6 +1,6 @@
 # Productivity templates for Hospitality and Events
 
-Plan, prioritise and clear the recurring admin. 14 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 15 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, prioritise and clear the recurring admin. 14 Grok Bot templates, 6 of them
 | [Hotel Sustainability Implementation Planner](hotel-sustainability-implementation-planner.md) | Turns hotel operations into a sustainability action plan with research, policies, and tracking. |
 | [Inventory Tracking Assistant](../../customer-support/productivity/inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |
 | [Itinerary Optimizer](itinerary-optimizer.md) | Optimizes multi-stop trips with realistic timing, reservations, and buffer time. |
+| [Production Resource Allocation Planner](../../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
 | [Travel Arrangement Coordinator](../../customer-support/productivity/travel-arrangement-coordinator.md) | Plans and books client travel from flights to insurance in one place. |
 | [Visitor Management Assistant](../../customer-support/productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
 

@@ -1,14 +1,23 @@
 # Social Media templates for PR and Communications
 
-Plan, write and measure posts across networks. 9 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 18 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Brand Reputation Monitor](../../marketing/social-media/brand-reputation-monitor.md) | Monitors brand sentiment, trends, competitors, and crises on social media, delivering reports and alerts. |
+| [Content Calendar Organizer](../../marketing/social-media/content-calendar-organizer.md) | Plans and organizes your social media content calendar with research, creation, and scheduling support. |
+| [Crisis Communication Manager](../../marketing/social-media/crisis-communication-manager.md) | Monitors social media, drafts crisis responses, and builds playbooks for social media coordinators. |
+| [Crisis Management Guide](../../marketing/social-media/crisis-management-guide.md) | Guides social media managers through every phase of a crisis, from monitoring to recovery. |
 | [Instagram Automation](../../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [Linkedin Automation](../../marketing/social-media/linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
+| [Social Content](../../marketing/social-media/social-content.md) | Creates, schedules, and optimizes content across LinkedIn, Twitter/X, Instagram, TikTok, and Facebook. |
+| [Social Content Scheduling Planner](../../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
+| [Social Listening and Sentiment Analyst](../../marketing/social-media/social-listening-and-sentiment-analyst.md) | Turns social media chatter into actionable insights for your brand. |
+| [Social Media Campaign Planner](../../marketing/social-media/social-media-campaign-planner.md) | Plans and executes social media campaigns from research to reporting. |
 | [Social Media Copywriter](../../marketing/social-media/social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |
+| [Social Media Trend Analyst](../../marketing/social-media/social-media-trend-analyst.md) | Tracks social media trends and turns them into reports, content, and campaign plans. |
 | [Social Orchestrator](../../marketing/social-media/social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |
 | [Twitter Ai Influencer Manager](../../marketing/social-media/twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
 | [Twitter Automation](../../marketing/social-media/twitter-automation.md) | Automate Twitter/X posts, search, users, bookmarks, lists, and media via Rube MCP. |

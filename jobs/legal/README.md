@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **138 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **147 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,10 +12,10 @@ Contracts, research, compliance and review. **138 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Research](research/README.md) | 48 |
-| [Security & Compliance](security-and-compliance/README.md) | 39 |
-| [Data Analysis](data-analysis/README.md) | 20 |
+| [Security & Compliance](security-and-compliance/README.md) | 44 |
+| [Data Analysis](data-analysis/README.md) | 21 |
+| [Knowledge Management](knowledge-management/README.md) | 9 |
 | [Writing & Content](writing-and-content/README.md) | 9 |
-| [Knowledge Management](knowledge-management/README.md) | 8 |
 | [Support & Community](support-and-community/README.md) | 4 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
 | [Coding](coding/README.md) | 1 |
@@ -24,6 +24,8 @@ Contracts, research, compliance and review. **138 ready-made Grok Bot templates*
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Productivity](productivity/README.md) | 1 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
+| [Speech-To-Text](speech-to-text/README.md) | 1 |
 
 ## Research
 
@@ -108,9 +110,12 @@ Contracts, research, compliance and review. **138 ready-made Grok Bot templates*
 | [Incident Response Planning Assistant](security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Insurance Compliance Assistant](../management/security-and-compliance/insurance-compliance-assistant.md) | Keeps insurance claims compliant with regulations through monitoring, review, training, and audits. |
 | [Insurance Compliance Manager](../management/security-and-compliance/insurance-compliance-manager.md) | Tracks regulatory changes, reviews policies, trains staff, and prepares compliance reports and audits for your insurance agency. |
+| [International Procurement Compliance Guide](../operations/security-and-compliance/international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
 | [Legal Compliance Review Assistant](security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
 | [Policy Development Support](security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
 | [Privacy By Design](../it-and-development/security-and-compliance/privacy-by-design.md) | Build apps with built-in privacy protections from the start. |
+| [Procurement Compliance Assistant](../operations/security-and-compliance/procurement-compliance-assistant.md) | Keeps procurement compliant by tracking regulations, audits, reports, and vendor oversight. |
+| [Production Compliance Auditor](../operations/security-and-compliance/production-compliance-auditor.md) | Streamlines compliance monitoring, audits, training, and reporting for production coordinators. |
 | [Protected Disclosure Compass](security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Purchasing Compliance Assistant](../management/security-and-compliance/purchasing-compliance-assistant.md) | Regulatory compliance support for purchasing managers: research, monitor, audit, and report. |
 | [Regulatory Compliance Assistant](../customer-support/security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
@@ -119,6 +124,8 @@ Contracts, research, compliance and review. **138 ready-made Grok Bot templates*
 | [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
 | [Security Compliance Compliance Check](../it-and-development/security-and-compliance/security-compliance-compliance-check.md) | Audits software systems against GDPR, HIPAA, SOC2, PCI-DSS and guides remediation. |
 | [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
+| [Shipping Rule Compliance Drafts](../operations/security-and-compliance/shipping-rule-compliance-drafts.md) | Ensures shipping compliance by researching rules, drafting documents, and monitoring risks. |
+| [Supply Chain Compliance Guide](../operations/security-and-compliance/supply-chain-compliance-guide.md) | Guides supply chain analysts through regulatory compliance, from rules to audits. |
 | [Verify Document](../operations/security-and-compliance/verify-document.md) | Check PDFs and images for tampering signals before relying on them. |
 | [Whistleblower Policy Manager](security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 
@@ -142,10 +149,25 @@ Contracts, research, compliance and review. **138 ready-made Grok Bot templates*
 | [Licensing and Royalty Manager](data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
 | [Patent Portfolio Analyst](data-analysis/patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
 | [Patent Valuation Analyst](data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
+| [Procurement Risk Management Assistant](../operations/data-analysis/procurement-risk-management-assistant.md) | Procurement risk management assistant that assesses, mitigates, and monitors supplier, contract, and supply chain risks. |
 | [Risk Assessment Workflow Assistant](data-analysis/risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |
 | [Spend Analysis Assistant](data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Supplier Risk Management Assistant](../management/data-analysis/supplier-risk-management-assistant.md) | Assesses supplier risks, analyzes contracts, and builds mitigation plans for supplier relationship managers. |
 | [Vendor Performance Analyst](data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Amendment and Variation Tracker](knowledge-management/amendment-and-variation-tracker.md) | Tracks contract amendments and variations from log to approval, with alerts and reports. |
+| [Contract Renewal Radar](knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
+| [Contract Repository Manager](knowledge-management/contract-repository-manager.md) | Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access. |
+| [Crossframe Casebook](../operations/knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
+| [Data Room Builder](../finance/knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
+| [Document Digitization Assistant](../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
+| [Evidence Organization Assistant](knowledge-management/evidence-organization-assistant.md) | Organizes, tracks, and prepares legal evidence for paralegals from collection to trial. |
+| [Legal Knowledge Base Builder](knowledge-management/legal-knowledge-base-builder.md) | Builds and maintains a legal knowledge base with research, drafting, and compliance support. |
+| [Record-Keeping Compliance Optimizer](knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
 
 ## Writing & Content
 
@@ -160,19 +182,6 @@ Contracts, research, compliance and review. **138 ready-made Grok Bot templates*
 | [Legal Document Drafting Assistant](writing-and-content/legal-document-drafting-assistant.md) | Drafts, reviews, and manages legal documents for paralegals. |
 | [Patent Client Communication Assistant](writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
 | [Patent Document Drafter](writing-and-content/patent-document-drafter.md) | Drafts and manages patent documents, from applications to litigation support, for patent agents. |
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Amendment and Variation Tracker](knowledge-management/amendment-and-variation-tracker.md) | Tracks contract amendments and variations from log to approval, with alerts and reports. |
-| [Contract Renewal Radar](knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
-| [Contract Repository Manager](knowledge-management/contract-repository-manager.md) | Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access. |
-| [Crossframe Casebook](../operations/knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
-| [Data Room Builder](../finance/knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
-| [Evidence Organization Assistant](knowledge-management/evidence-organization-assistant.md) | Organizes, tracks, and prepares legal evidence for paralegals from collection to trial. |
-| [Legal Knowledge Base Builder](knowledge-management/legal-knowledge-base-builder.md) | Builds and maintains a legal knowledge base with research, drafting, and compliance support. |
-| [Record-Keeping Compliance Optimizer](knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
 
 ## Support & Community
 
@@ -227,5 +236,17 @@ Contracts, research, compliance and review. **138 ready-made Grok Bot templates*
 | Template | What it does |
 |---|---|
 | [Legal Billing and Timekeeping Assistant](productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Contract Negotiation Strategist](../operations/sales-and-negotiation/contract-negotiation-strategist.md) | Prepares and guides procurement contract negotiations from research to final agreement. |
+
+## Speech-To-Text
+
+| Template | What it does |
+|---|---|
+| [Transcription Services Assistant](../operations/speech-to-text/transcription-services-assistant.md) | Turns audio and video files into accurate, formatted text for data entry specialists. |
 
 [← All job fields](../../README.md#browse-by-job) · [Legal on the website](https://templatesgrokbot.com/jobs/legal)

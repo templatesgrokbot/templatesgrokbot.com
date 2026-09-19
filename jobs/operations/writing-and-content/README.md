@@ -1,6 +1,6 @@
 # Writing & Content templates for Operations
 
-Plan, write and edit articles, copy and documentation. 17 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 18 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Plan, write and edit articles, copy and documentation. 17 Grok Bot templates, 6 
 | [Email Issue Fixer](email-issue-fixer.md) | Proofread emails and strip tracking from links on request, preserving voice. |
 | [Employment Contract Templates](../../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Interview Style Doc Building](../../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
+| [Lean Manufacturing Strategies Assistant](lean-manufacturing-strategies-assistant.md) | Lean production planning assistant for waste reduction, standardization, and continuous improvement. |
 | [Legal Advisor](../../legal/writing-and-content/legal-advisor.md) | Draft contracts, privacy policies, and compliance documents for tech businesses. |
 | [Legal Document Drafter](../../legal/writing-and-content/legal-document-drafter.md) | Drafts, reviews, and researches legal documents for lawyers. |
 | [Legal Document Drafting Assistant](../../legal/writing-and-content/legal-document-drafting-assistant.md) | Drafts, reviews, and manages legal documents for paralegals. |

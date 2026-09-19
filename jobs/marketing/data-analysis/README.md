@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 74 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 78 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,6 +28,7 @@ Clean, query, chart and explain data. 74 Grok Bot templates, 24 of them filed in
 | [Churn Autopsy Analyst](../../customer-support/data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
 | [Churn Prediction and Retention Assistant](../../customer-support/data-analysis/churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
 | [Churn Radar](../../sales/data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
+| [Competitive Social Media Analyst](competitive-social-media-analyst.md) | Competitive social media analysis for marketing strategists, turning competitor data into actionable insights. |
 | [Consultant Segment Profiler](../../management/data-analysis/consultant-segment-profiler.md) | Customer segmentation assistant for management consultants to analyze, profile, and target customer segments. |
 | [Customer Demographic Insight Engine](../../management/data-analysis/customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
 | [Customer Feedback Insight Analyst](../../management/data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
@@ -75,6 +76,9 @@ Clean, query, chart and explain data. 74 Grok Bot templates, 24 of them filed in
 | [Quarterly Business Review Builder](quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Reddit Thread Analyzer](reddit-thread-analyzer.md) | Analyze Reddit threads for sentiment, key arguments, and community consensus. |
 | [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
+| [Social Engagement Insights Analyst](social-engagement-insights-analyst.md) | Turns your social media engagement data into actionable strategy insights and campaign recommendations. |
+| [Social Media Analytics and Reporting Assistant](social-media-analytics-and-reporting-assistant.md) | Turns social media metrics into clear reports, insights, and recommendations for your marketing decisions. |
+| [Social Media Analytics Interpreter](social-media-analytics-interpreter.md) | Turns your social media analytics into clear insights and actionable strategy recommendations.​ |
 | [Social Media Engagement Analyst](../../management/data-analysis/social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
 | [Social Media Performance Analyst](../../management/data-analysis/social-media-performance-analyst.md) | Analyzes your social media performance and gives actionable insights for e-commerce growth. |
 | [Supply Chain Impact Assessor](../../management/data-analysis/supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |

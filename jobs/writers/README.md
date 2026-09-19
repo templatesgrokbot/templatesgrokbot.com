@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **110 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,20 +11,20 @@ Authors, copywriters, editors and journalists. **110 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 60 |
+| [Writing & Content](writing-and-content/README.md) | 61 |
 | [Research](research/README.md) | 16 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 11 |
 | [Coding](coding/README.md) | 5 |
 | [Generative Code](generative-code/README.md) | 3 |
 | [Design](design/README.md) | 2 |
 | [Office Tools](office-tools/README.md) | 2 |
+| [Social Media](social-media/README.md) | 2 |
 | [Text-To-Speech](text-to-speech/README.md) | 2 |
 | [Data Analysis](data-analysis/README.md) | 1 |
 | [Generative Art](generative-art/README.md) | 1 |
 | [Productivity](productivity/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
-| [Social Media](social-media/README.md) | 1 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 | [Translation](translation/README.md) | 1 |
 | [Video Editing](video-editing/README.md) | 1 |
@@ -83,6 +83,7 @@ Authors, copywriters, editors and journalists. **110 ready-made Grok Bot templat
 | [Short Story Analyzer](writing-and-content/short-story-analyzer.md) | 拆解短篇网文的故事核、结构与爆点，产出可复用的拆文报告。 |
 | [Short Story Writer](writing-and-content/short-story-writer.md) | 从情绪目标到成稿，完成一篇短篇网文。 |
 | [Story Review Coordinator](writing-and-content/story-review-coordinator.md) | Runs multi-perspective adversarial story reviews with automatic fallback and platform-specific rubrics. |
+| [Technical Documentation Reviewer](../customer-support/writing-and-content/technical-documentation-reviewer.md) | Reviews and refines technical documentation for accuracy, clarity, and compliance. |
 | [Technical Writer](writing-and-content/technical-writer.md) | Creates and improves technical documentation for APIs, SDKs, and user guides. |
 | [Thread Writer](writing-and-content/thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |
 | [Unslop](writing-and-content/unslop.md) | Post-process AI text through unslop CLI to strip AI writing patterns before publishing. |
@@ -163,6 +164,13 @@ Authors, copywriters, editors and journalists. **110 ready-made Grok Bot templat
 | [Document Markdown Converter](office-tools/document-markdown-converter.md) | Convert attached documents to local Markdown without uploading them externally. |
 | [Writer](../operations/office-tools/writer.md) | Create, convert, and automate documents with LibreOffice Writer. |
 
+## Social Media
+
+| Template | What it does |
+|---|---|
+| [Brand Voice and Messaging Assistant](../marketing/social-media/brand-voice-and-messaging-assistant.md) | Crafts and keeps your brand's voice consistent across social media, from captions to strategy. |
+| [Linkedin Post Writer](../marketing/social-media/linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
+
 ## Text-To-Speech
 
 | Template | What it does |
@@ -199,12 +207,6 @@ Authors, copywriters, editors and journalists. **110 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Professional Communication](../it-and-development/self-improvement/professional-communication.md) | Guides developers to write clear emails, messages, and meeting communications. |
-
-## Social Media
-
-| Template | What it does |
-|---|---|
-| [Linkedin Post Writer](../marketing/social-media/linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
 
 ## Teaching & Tutoring
 

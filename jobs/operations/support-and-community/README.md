@@ -1,6 +1,6 @@
 # Support & Community templates for Operations
 
-Triage tickets, answer customers and moderate communities. 21 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 23 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,8 +23,10 @@ Triage tickets, answer customers and moderate communities. 21 Grok Bot templates
 | [Insurance Dispute Resolution Assistant](../../customer-support/support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
 | [Intercom Automation](../../customer-support/support-and-community/intercom-automation.md) | Automate Intercom conversations, contacts, companies, and admins via Composio. |
 | [Legal Intake Concierge](../../legal/support-and-community/legal-intake-concierge.md) | Manages client communication for lawyers, from intake to follow-up, with approval gates. |
+| [Logistics Customer Service Improver](logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
 | [Policy Explanation Assistant](../../customer-support/support-and-community/policy-explanation-assistant.md) | Explains insurance policies clearly and guides customers through coverage, claims, and renewals. |
 | [Returns Reverse Logistics](returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
+| [Supply Chain Customer Service Assistant](supply-chain-customer-service-assistant.md) | Handles customer service for logistics planners: tracking, issues, docs, returns, feedback, and proactive supply chain communication. |
 | [Support Triage](../../customer-support/support-and-community/support-triage.md) | Reads the support queue, groups the duplicates, and surfaces the one bug behind twelve tickets. |
 | [Zendesk Automation](../../customer-support/support-and-community/zendesk-automation.md) | Automate Zendesk ticket, user, and organization workflows with Rube MCP. |
 

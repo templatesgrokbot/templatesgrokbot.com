@@ -1,6 +1,6 @@
 # Data Analysis templates for Hospitality and Events
 
-Clean, query, chart and explain data. 16 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 18 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,7 +17,9 @@ Clean, query, chart and explain data. 16 Grok Bot templates, 3 of them filed in 
 | [Hotel Staff Scheduling Optimizer](hotel-staff-scheduling-optimizer.md) | Analyzes hotel data to build balanced staff schedules, reduce costs, and ensure compliance. |
 | [Inventory Analysis Optimizer](../../management/data-analysis/inventory-analysis-optimizer.md) | Analyzes inventory data to optimize stock levels, cut costs, and prevent stockouts for business unit managers. |
 | [Inventory Optimization Assistant](../../management/data-analysis/inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
+| [Procurement Cost Analyzer](../../operations/data-analysis/procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |
 | [Purchasing Budget and Cost Analyst](../../management/data-analysis/purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
+| [Seasonal Inventory Planner](../../operations/data-analysis/seasonal-inventory-planner.md) | Forecast, plan, and optimize seasonal inventory with data-driven insights. |
 | [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Service Journey Optimizer](../../management/data-analysis/service-journey-optimizer.md) | Maps, analyzes, and optimizes customer journeys for service managers. |
 | [Service Quality Enhancement Assistant](../../management/data-analysis/service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |

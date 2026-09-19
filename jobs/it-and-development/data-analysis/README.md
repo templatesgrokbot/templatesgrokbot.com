@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 149 Grok Bot templates, 98 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 152 Grok Bot templates, 98 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -39,13 +39,16 @@ Clean, query, chart and explain data. 149 Grok Bot templates, 98 of them filed i
 | [Data Engineering Data Driven Feature](../../product-development/data-analysis/data-engineering-data-driven-feature.md) | Build features guided by data insights, A/B testing, and continuous measurement. |
 | [Data Engineering Data Pipeline](data-engineering-data-pipeline.md) | Design and implement scalable batch and streaming data pipelines |
 | [Data Feeds](../../operations/data-analysis/data-feeds.md) | Extract structured JSON data from 40+ websites via Bright Data APIs. |
+| [Data Migration Support Assistant](../../operations/data-analysis/data-migration-support-assistant.md) | Guides data entry specialists through every step of a data migration, from mapping to post-migration support. |
 | [Data Processing Nemo Curator](../../science-and-research/data-analysis/data-processing-nemo-curator.md) | GPU-accelerated data curation for LLM training datasets. |
 | [Data Processing Ray Data](data-processing-ray-data.md) | Process large ML datasets with Ray Data across CPU/GPU clusters. |
 | [Data Quality Frameworks](data-quality-frameworks.md) | Build data quality validation with Great Expectations, dbt tests, and data contracts. |
 | [Data Researcher](../../science-and-research/data-analysis/data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
 | [Data Scientist](data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
+| [Data Validation Assistant](../../operations/data-analysis/data-validation-assistant.md) | Validates and cleans data entry work with routines for formatting, duplicates, consistency, and quality. |
 | [Database Architect](database-architect.md) | Designs scalable, performant data layers from scratch or re-architects existing ones. |
 | [Database Design](database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
+| [Database Management Assistant](../../operations/data-analysis/database-management-assistant.md) | Manage your database end-to-end: entry, cleaning, validation, migration, security, reporting, backup, tuning, archiving, and compliance. |
 | [Database Optimization](database-optimization.md) | Optimizes database query performance, indexing, and schema for faster response times. |
 | [Database Optimizer](database-optimizer.md) | Tune queries, indexes, and architecture for measurable database performance gains. |
 | [Datacommons Client](../../science-and-research/data-analysis/datacommons-client.md) | Queries public statistical data from Data Commons for analysis. |

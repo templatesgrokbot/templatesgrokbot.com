@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **121 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **126 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Accounting, budgeting, analysis and risk. **121 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 74 |
+| [Data Analysis](data-analysis/README.md) | 79 |
 | [Research](research/README.md) | 10 |
 | [Coding](coding/README.md) | 9 |
 | [Productivity](productivity/README.md) | 7 |
@@ -46,8 +46,10 @@ Accounting, budgeting, analysis and risk. **121 ready-made Grok Bot templates** 
 | [Contract Report Builder](../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Cost Reduction Analyst](../management/data-analysis/cost-reduction-analyst.md) | Finds and validates cost reduction opportunities for service managers. |
 | [Customer Lifetime Value Analyst](../management/data-analysis/customer-lifetime-value-analyst.md) | Turns your customer data into CLV insights and action plans for growth. |
+| [Data Analysis Assistant](../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
 | [Data Analyst](../science-and-research/data-analysis/data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
 | [Data Cleaner](../it-and-development/data-analysis/data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
+| [Data Reporting Assistant](../operations/data-analysis/data-reporting-assistant.md) | Turns raw data into clean, analyzed, and presentation-ready reports for data entry specialists. |
 | [Deal Room Risk Analyst](data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
 | [Doordash Order Ledger](../operations/data-analysis/doordash-order-ledger.md) | Answers questions about DoorDash spending and ordering history from an audit log. |
 | [E-commerce Fraud Detection Assistant](../management/data-analysis/e-commerce-fraud-detection-assistant.md) | Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud. |
@@ -80,6 +82,9 @@ Accounting, budgeting, analysis and risk. **121 ready-made Grok Bot templates** 
 | [Performance Report](../executives-and-strategy/data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Portfolio Digest](data-analysis/portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
 | [Pricing Strategy Analyst](../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
+| [Procurement Cost Analyzer](../operations/data-analysis/procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |
+| [Production Budget Forecaster](../operations/data-analysis/production-budget-forecaster.md) | Forecast production budgets and track spending for accurate financial planning. |
+| [Production Cost Analyst](../operations/data-analysis/production-cost-analyst.md) | Analyzes production costs, forecasts trends, and recommends optimizations for production planners. |
 | [Purchasing Budget and Cost Analyst](../management/data-analysis/purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
 | [Quant Analyst](data-analysis/quant-analyst.md) | Builds and backtests quantitative trading strategies with transaction costs and risk analytics for portfolios and derivatives. |
 | [Quarterly Finance Report](data-analysis/quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |

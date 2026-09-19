@@ -1,6 +1,6 @@
 # Grok Bot templates for Insurance
 
-Underwriting, claims and policy work. **54 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Underwriting, claims and policy work. **58 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,15 @@ Underwriting, claims and policy work. **54 ready-made Grok Bot templates** for t
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 18 |
+| [Data Analysis](data-analysis/README.md) | 20 |
 | [Security & Compliance](security-and-compliance/README.md) | 12 |
 | [Support & Community](support-and-community/README.md) | 10 |
 | [Productivity](productivity/README.md) | 6 |
-| [Knowledge Management](knowledge-management/README.md) | 3 |
+| [Knowledge Management](knowledge-management/README.md) | 4 |
 | [Research](research/README.md) | 2 |
+| [Writing & Content](writing-and-content/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 | [Translation](translation/README.md) | 1 |
-| [Writing & Content](writing-and-content/README.md) | 1 |
 
 ## Data Analysis
 
@@ -34,6 +34,8 @@ Underwriting, claims and policy work. **54 ready-made Grok Bot templates** for t
 | [Claims Fraud Sentinel](../management/data-analysis/claims-fraud-sentinel.md) | Detects and prevents insurance fraud through data analysis, monitoring, and investigation support. |
 | [Claims Insights Analyst](../management/data-analysis/claims-insights-analyst.md) | Turns insurance claims data into clear reports, forecasts, and risk insights for claims managers. |
 | [Compliance Monitoring Inspector](../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
+| [Data Entry Automation Assistant](../operations/data-analysis/data-entry-automation-assistant.md) | Automates data entry tasks from extraction to integration, with approval gates. |
+| [Data Quality Control Assistant](../operations/data-analysis/data-quality-control-assistant.md) | Runs quality control checks on entered data and reports issues for correction. |
 | [Home Inventory Builder](../operations/data-analysis/home-inventory-builder.md) | Turns your photos and receipts into an insurance-grade home inventory. |
 | [Insurance Competitive Intelligence Assistant](../management/data-analysis/insurance-competitive-intelligence-assistant.md) | Turns competitor data into actionable insurance market intelligence for agency managers. |
 | [Insurance Document Verification Assistant](../customer-support/data-analysis/insurance-document-verification-assistant.md) | Verifies, updates, and tracks insurance documents for customer service reps. |
@@ -91,6 +93,7 @@ Underwriting, claims and policy work. **54 ready-made Grok Bot templates** for t
 
 | Template | What it does |
 |---|---|
+| [Document Digitization Assistant](../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
 | [Insurance Product Knowledge Manager](../management/knowledge-management/insurance-product-knowledge-manager.md) | Keeps insurance agency managers and their agents product-smart and ready to advise. |
 | [Insurance Training and Knowledge Manager](../customer-support/knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
 | [Record-Keeping Compliance Optimizer](../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
@@ -101,6 +104,13 @@ Underwriting, claims and policy work. **54 ready-made Grok Bot templates** for t
 |---|---|
 | [Regulatory Research Assistant](../legal/research/regulatory-research-assistant.md) | Tracks, interprets, and applies regulatory changes for compliance officers. |
 | [Regulatory Update Analyst](../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
+
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Claims Dispute Evidence Kit](../management/writing-and-content/claims-dispute-evidence-kit.md) | Prepares evidence, drafts correspondence, and guides dispute resolution for insurance claims managers. |
+| [Policy Update Communications Assistant](../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
 
 ## Teaching & Tutoring
 
@@ -113,11 +123,5 @@ Underwriting, claims and policy work. **54 ready-made Grok Bot templates** for t
 | Template | What it does |
 |---|---|
 | [Multi-Channel Insurance Communication Assistant](../customer-support/translation/multi-channel-insurance-communication-assistant.md) | Handles multi-channel insurance customer communication with drafting, translation, and insights. |
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Claims Dispute Evidence Kit](../management/writing-and-content/claims-dispute-evidence-kit.md) | Prepares evidence, drafts correspondence, and guides dispute resolution for insurance claims managers. |
 
 [← All job fields](../../README.md#browse-by-job) · [Insurance on the website](https://templatesgrokbot.com/jobs/insurance)

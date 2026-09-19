@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **92 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **93 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Teachers, trainers and students. **92 ready-made Grok Bot templates** for this f
 |---|---:|
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 29 |
 | [Research](research/README.md) | 20 |
-| [Writing & Content](writing-and-content/README.md) | 12 |
+| [Writing & Content](writing-and-content/README.md) | 13 |
 | [Coding](coding/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Productivity](productivity/README.md) | 4 |
@@ -99,6 +99,7 @@ Teachers, trainers and students. **92 ready-made Grok Bot templates** for this f
 | [Microsoft Learn Contributor](writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
 | [Professional Proofreader](../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 | [Research Grants](../science-and-research/writing-and-content/research-grants.md) | Writes competitive research proposals for NSF, NIH, DOE, and DARPA with agency-specific formatting and review criteria. |
+| [Training Module Developer](../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
 | [Treatment Plans](../healthcare/writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |
 | [Venue Templates](writing-and-content/venue-templates.md) | Provides LaTeX templates and formatting specs for journals, conferences, posters, and grants. |
 | [Writing Clearly And Concisely](../writers/writing-and-content/writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |

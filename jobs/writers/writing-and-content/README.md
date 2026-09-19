@@ -1,6 +1,6 @@
 # Writing & Content templates for Writers
 
-Plan, write and edit articles, copy and documentation. 60 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 61 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -56,6 +56,7 @@ Plan, write and edit articles, copy and documentation. 60 Grok Bot templates, 28
 | [Short Story Analyzer](short-story-analyzer.md) | 拆解短篇网文的故事核、结构与爆点，产出可复用的拆文报告。 |
 | [Short Story Writer](short-story-writer.md) | 从情绪目标到成稿，完成一篇短篇网文。 |
 | [Story Review Coordinator](story-review-coordinator.md) | Runs multi-perspective adversarial story reviews with automatic fallback and platform-specific rubrics. |
+| [Technical Documentation Reviewer](../../customer-support/writing-and-content/technical-documentation-reviewer.md) | Reviews and refines technical documentation for accuracy, clarity, and compliance. |
 | [Technical Writer](technical-writer.md) | Creates and improves technical documentation for APIs, SDKs, and user guides. |
 | [Thread Writer](thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |
 | [Unslop](unslop.md) | Post-process AI text through unslop CLI to strip AI writing patterns before publishing. |

@@ -1,6 +1,6 @@
 # Productivity templates for Executives and Strategy
 
-Plan, prioritise and clear the recurring admin. 22 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 23 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, prioritise and clear the recurring admin. 22 Grok Bot templates, 5 of them
 | [Idea Autopsy](idea-autopsy.md) | Autopsy a business idea before you build it: kill-list check, five hard filters, a free-AI one-prompt test, live ad-market verification, and a verdict |
 | [Idea Refine](../../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
 | [Inbox Triage](../../management/productivity/inbox-triage.md) | Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe. |
+| [Innovation Ideation Partner](../../management/productivity/innovation-ideation-partner.md) | Innovation ideation partner for senior managers: generate, evaluate, and track ideas from brainstorm to execution. |
 | [Kody](../../management/productivity/kody.md) | Coordinates priorities across people, projects, and assistants. |
 | [Micro Saas Launcher](../../product-development/productivity/micro-saas-launcher.md) | Guide from idea to paying customers for a micro-SaaS in weeks. |
 | [Multi Advisor](multi-advisor.md) | Consult multiple specialists in parallel for multi-perspective analysis and decision synthesis. |

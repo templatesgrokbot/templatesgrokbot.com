@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,479 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,483 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,10 +12,10 @@ Engineers, DevOps, security and IT teams. **2,479 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 1,012 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 356 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 357 |
 | [Security & Compliance](security-and-compliance/README.md) | 240 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 208 |
-| [Data Analysis](data-analysis/README.md) | 149 |
+| [Data Analysis](data-analysis/README.md) | 152 |
 | [Design](design/README.md) | 89 |
 | [Generative Code](generative-code/README.md) | 88 |
 | [Research](research/README.md) | 87 |
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,479 ready-made Grok Bot templates*
 | [Zapier Make Patterns](cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 356 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 357 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Security & Compliance
 
@@ -110,7 +110,7 @@ Engineers, DevOps, security and IT teams. **2,479 ready-made Grok Bot templates*
 | [Ai Dev Jobs Mcp](data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Nosql Specialist](data-analysis/nosql-specialist.md) | Designs and optimizes NoSQL databases for MongoDB, Redis, Cassandra, and key-value stores. |
 
-[All 149 Data Analysis templates →](data-analysis/README.md)
+[All 152 Data Analysis templates →](data-analysis/README.md)
 
 ## Design
 

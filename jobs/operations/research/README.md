@@ -1,6 +1,6 @@
 # Research templates for Operations
 
-Find sources, compare evidence and summarise what is known. 63 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 68 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Find sources, compare evidence and summarise what is known. 63 Grok Bot template
 | [Discover Brand Materials](../../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
 | [Discovery Management Assistant](../../legal/research/discovery-management-assistant.md) | Organizes, reviews, and drafts discovery documents for paralegals. |
 | [Dispute Resolution Support Assistant](../../legal/research/dispute-resolution-support-assistant.md) | Supports contract administrators through every stage of dispute resolution. |
+| [E-Procurement Solutions Exploration Assistant](e-procurement-solutions-exploration-assistant.md) | Researches and evaluates e-procurement solutions to support your selection decisions. |
 | [Find Matching Tenders](../../sales/research/find-matching-tenders.md) | Find and rank live AU/NZ government tenders matching a company's capabilities. |
 | [Flight Watch](flight-watch.md) | Watches a route you care about and tells you when the price is genuinely worth acting on. |
 | [Grant Finder](../../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
@@ -31,6 +32,7 @@ Find sources, compare evidence and summarise what is known. 63 Grok Bot template
 | [Hasdata Cli](../../it-and-development/research/hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
 | [Indexing Issue Auditor](../../it-and-development/research/indexing-issue-auditor.md) | Scan and fix crawl, indexing, and site architecture issues. |
 | [International Patent Filing Assistant](../../legal/research/international-patent-filing-assistant.md) | Guides patent agents through international filing, from search to strategy. |
+| [Inventory Technology Integration Guide](inventory-technology-integration-guide.md) | Guides inventory specialists through technology integration for inventory control. |
 | [IP Management Assistant](../../legal/research/ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
 | [Isms Audit Expert](../../it-and-development/research/isms-audit-expert.md) | Conducts ISO 27001 ISMS audits, manages audit programs, and assesses security controls for compliance verification. No certification decisions made. A |
 | [Legal Intake](../../legal/research/legal-intake.md) | Structures a messy client enquiry into a complete intake record and flags what is missing. |
@@ -60,7 +62,10 @@ Find sources, compare evidence and summarise what is known. 63 Grok Bot template
 | [Supplier Diversification Planner](../../management/research/supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
 | [Supplier Innovation Program Assistant](../../management/research/supplier-innovation-program-assistant.md) | Finds, evaluates, and nurtures supplier innovation with structured programs and tracking. |
 | [Supplier Relationship Builder](../../management/research/supplier-relationship-builder.md) | Builds and strengthens supplier relationships through structured communication, engagement, and partnership strategies. |
+| [Supplier Research and Analysis Assistant](supplier-research-and-analysis-assistant.md) | Finds, vets, and manages suppliers with data-backed analysis and clear recommendations. |
 | [Supplier Selection Assistant](../../management/research/supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |
+| [Supply Chain Collaboration Planner](supply-chain-collaboration-planner.md) | Finds and vets suppliers, drafts partner communications, and plans collaborative supply chain improvements. |
+| [Sustainable Procurement Advisor](sustainable-procurement-advisor.md) | Guides sustainable procurement decisions from supplier evaluation to circular economy implementation. |
 | [Sustainable Purchasing Assistant](../../management/research/sustainable-purchasing-assistant.md) | Helps purchasing managers make sustainable procurement decisions and track their impact. |
 | [Third-Party Compliance Evaluator](../../legal/research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 | [Travel Planner](travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |

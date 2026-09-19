@@ -1,6 +1,6 @@
 # Security & Compliance templates for Operations
 
-Authorised security testing, audits and regulatory work. 43 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 57 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,23 +25,37 @@ Authorised security testing, audits and regulatory work. 43 Grok Bot templates, 
 | [Fda Food Safety Auditor](fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
 | [Gdpr Data Handling](../../it-and-development/security-and-compliance/gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
 | [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [International Procurement Compliance Guide](international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
 | [Jfrog Sec](../../it-and-development/security-and-compliance/jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |
 | [Legal Compliance Review Assistant](../../legal/security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
+| [Logistics Safety Planner](logistics-safety-planner.md) | Turns logistics safety tasks into guidelines, training, risk assessments, and compliance checks. |
+| [Loss Prevention Planning Assistant](loss-prevention-planning-assistant.md) | Loss prevention planning and investigation support for inventory control specialists. |
+| [Loss Prevention Program Assistant](loss-prevention-program-assistant.md) | Helps inventory managers build and run a complete loss prevention program. |
 | [Network Compliance Planner](../../it-and-development/security-and-compliance/network-compliance-planner.md) | Guides network engineers through compliance tasks with step-by-step plans and checks. |
 | [Ot Ics](../../it-and-development/security-and-compliance/ot-ics.md) | Authorized OT/ICS security assessment with passive-first evaluation. |
 | [Pci Compliance](../../finance/security-and-compliance/pci-compliance.md) | Guide PCI DSS compliance for secure payment processing and cardholder data handling. |
 | [Policy Development Support](../../legal/security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
 | [Powershell Security Hardening](../../it-and-development/security-and-compliance/powershell-security-hardening.md) | Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie |
+| [Procurement Compliance Assistant](procurement-compliance-assistant.md) | Keeps procurement compliant by tracking regulations, audits, reports, and vendor oversight. |
 | [Product Quality Assurance Assistant](../../management/security-and-compliance/product-quality-assurance-assistant.md) | Guides quality assurance for purchasing managers: supplier checks, testing, audits, and improvements. |
 | [Production Audit](../../it-and-development/security-and-compliance/production-audit.md) | Audits deployed repos for production-readiness gaps across security, infra, and UX. |
+| [Production Compliance Auditor](production-compliance-auditor.md) | Streamlines compliance monitoring, audits, training, and reporting for production coordinators. |
+| [Production Risk Assessment Assistant](production-risk-assessment-assistant.md) | Identifies, assesses, and mitigates production risks with data-backed reports and safety protocols. |
+| [Production Sustainability Planner](production-sustainability-planner.md) | Guides production planners through environmental impact assessments and sustainable production practices. |
 | [Protected Disclosure Compass](../../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
+| [Quality Control Planning Assistant](quality-control-planning-assistant.md) | Plans and manages quality control from objectives to audits, with approvals for anything that ships or contacts others. |
 | [Quality Manager Qmr](quality-manager-qmr.md) | Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies. |
 | [Quality Manager Qms Iso13485](quality-manager-qms-iso13485.md) | Helps you implement and maintain an ISO 13485 QMS for medical devices. |
 | [Quality Nonconformance](quality-nonconformance.md) | Manage non-conformance lifecycle, root cause analysis, and CAPA in regulated manufacturing. |
 | [Reception Confidentiality Assistant](../../customer-support/security-and-compliance/reception-confidentiality-assistant.md) | Helps receptionists protect confidential information across calls, visitors, documents, and emails. |
 | [Regulatory Affairs Head](regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
+| [Safety and Compliance Planner](safety-and-compliance-planner.md) | Safety and compliance support for production planners: reviews, audits, training, and incident response. |
+| [Safety Protocol Implementation Coordinator](safety-protocol-implementation-coordinator.md) | Coordinates safety training, equipment, documentation, audits, and compliance for production staff. |
 | [Security Compliance Compliance Check](../../it-and-development/security-and-compliance/security-compliance-compliance-check.md) | Audits software systems against GDPR, HIPAA, SOC2, PCI-DSS and guides remediation. |
 | [Senior Secops](../../it-and-development/security-and-compliance/senior-secops.md) | Scans code, assesses vulnerabilities, and checks compliance for your projects. |
+| [Shipping Compliance Assistant](shipping-compliance-assistant.md) | Keeps your shipments compliant with current shipping regulations and documentation. |
+| [Shipping Rule Compliance Drafts](shipping-rule-compliance-drafts.md) | Ensures shipping compliance by researching rules, drafting documents, and monitoring risks. |
+| [Supply Chain Compliance Guide](supply-chain-compliance-guide.md) | Guides supply chain analysts through regulatory compliance, from rules to audits. |
 | [Thick Client](../../it-and-development/security-and-compliance/thick-client.md) | Authorized security testing of desktop thick clients: local storage, update channels, IPC, traffic interception, and client-side trust-boundary review |
 | [Threat Mitigation Mapping](../../it-and-development/security-and-compliance/threat-mitigation-mapping.md) | Map threats to security controls for prioritized remediation and coverage validation. |
 | [Varlock Claude](../../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |

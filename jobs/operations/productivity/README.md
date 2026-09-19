@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 109 Grok Bot templates, 58 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 126 Grok Bot templates, 75 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,6 +25,7 @@ Plan, prioritise and clear the recurring admin. 109 Grok Bot templates, 58 of th
 | [Conductor Status](../../management/productivity/conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
 | [Credit Card Max](../../finance/productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
 | [Crisis Management Planner](../../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
+| [Cross-Border Logistics Planner](cross-border-logistics-planner.md) | Plans and optimizes cross-border logistics, from customs to warehousing. |
 | [Daily Meeting Update](../../it-and-development/productivity/daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Decision Navigator](../../management/productivity/decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
 | [Diary](diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
@@ -35,6 +36,7 @@ Plan, prioritise and clear the recurring admin. 109 Grok Bot templates, 58 of th
 | [Dropbox Automation](dropbox-automation.md) | Automate Dropbox file management, sharing, search, uploads, downloads, and folder operations. |
 | [Emergency Card Generator](../../healthcare/productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
 | [Emergency Preparedness Assistant](../../customer-support/productivity/emergency-preparedness-assistant.md) | Prepares emergency plans, contacts, supplies, and drills for your workplace. |
+| [Emergency Response Planning Assistant](emergency-response-planning-assistant.md) | Prepares logistics emergency response plans, contacts, drills, and continuity strategies. |
 | [Event Staffing Ordering](event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
 | [Famulor](famulor-skill.md) | Operate Famulor assistants, calls, campaigns, messaging, and workspace settings through its MCP server. |
 | [File Organizer](file-organizer.md) | Analyzes, deduplicates, and restructures your files into a logical folder hierarchy. |
@@ -50,13 +52,17 @@ Plan, prioritise and clear the recurring admin. 109 Grok Bot templates, 58 of th
 | [Hotel Maintenance Schedule Coordinator](../../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
 | [Hotel Sustainability Implementation Planner](../../hospitality-and-events/productivity/hotel-sustainability-implementation-planner.md) | Turns hotel operations into a sustainability action plan with research, policies, and tracking. |
 | [Inbox Triage](../../management/productivity/inbox-triage.md) | Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe. |
+| [Inventory Coordination Assistant](inventory-coordination-assistant.md) | Coordinates inventory control across departments with clear updates and approvals. |
+| [Inventory Management Assistant](inventory-management-assistant.md) | Automates inventory tracking, forecasting, ordering, and reporting for inventory managers. |
 | [Inventory Tracking Assistant](../../customer-support/productivity/inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |
 | [Invoice Chaser](../../finance/productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
 | [Jobgpt](../../human-resources/productivity/jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |
 | [Legal Billing and Timekeeping Assistant](../../legal/productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
+| [Logistics Operations Coordinator](logistics-operations-coordinator.md) | Handles logistics coordination tasks from shipment tracking to fleet management. |
 | [Mac Storage Cleaner](../../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
+| [Maintenance Planning Coordinator](maintenance-planning-coordinator.md) | Plans equipment upkeep, tracks maintenance, and coordinates vendors for production reliability. |
 | [Markdown Rendering](../../it-and-development/productivity/markdown-rendering.md) | Open Markdown files reliably in cmux panes without blank rendering. |
 | [Markitdown](markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
 | [Meal Prep](meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
@@ -82,9 +88,16 @@ Plan, prioritise and clear the recurring admin. 109 Grok Bot templates, 58 of th
 | [Plan Writing](../../management/productivity/plan-writing.md) | Breaks down multi-step work into clear, verifiable tasks and saves the plan as a markdown file. |
 | [Planning](../../management/productivity/planning.md) | Creates and maintains markdown planning files to track complex multi-step tasks. No context loss, no goal drift. Always reads before deciding, updates |
 | [Postmark Automation](../../marketing/productivity/postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |
+| [Product Lifecycle Inventory Assistant](product-lifecycle-inventory-assistant.md) | Manages product lifecycle data, inventory, suppliers, quality, pricing, compliance, and returns for inventory control specialists. |
+| [Production Communication Coordinator](production-communication-coordinator.md) | Coordinates all production communication: emails, meetings, calls, documents, crises, and stakeholder updates. |
+| [Production Resource Allocation Planner](production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
+| [Production Schedule Optimizer](production-schedule-optimizer.md) | Builds, monitors, and optimizes production schedules, resolving conflicts and keeping stakeholders informed. |
+| [Production Supplier Lifecycle Copilot](production-supplier-lifecycle-copilot.md) | Manages supplier relationships end-to-end: selection, contracts, performance, risk, and communication. |
+| [Production Technology Integration Planner](production-technology-integration-planner.md) | Plans and optimizes production technology integration from selection to monitoring. |
 | [Project Manager](../../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
 | [Project Supervisor Orchestrator](project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
 | [Protocolsio Integration](../../science-and-research/productivity/protocolsio-integration.md) | Manage scientific protocols on protocols.io via API: search, create, update, publish, and organize. No hype, no emoji, no 'leverage'/'empower'/'seamle |
+| [Purchase Order Management Assistant](purchase-order-management-assistant.md) | Manages purchase orders from creation to compliance, keeping procurement smooth and within budget. |
 | [Purchasing Digital Transformation Assistant](../../management/productivity/purchasing-digital-transformation-assistant.md) | Guides purchasing managers through digital transformation, from supplier research to performance monitoring. |
 | [Raffle Winner Picker](../../marketing/productivity/raffle-winner-picker.md) | Picks random winners from lists, spreadsheets, or Google Sheets for giveaways and contests. |
 | [Revops](revops.md) | Design and optimize revenue operations, lead lifecycle, scoring, routing, and CRM automation. |
@@ -98,6 +111,9 @@ Plan, prioritise and clear the recurring admin. 109 Grok Bot templates, 58 of th
 | [Spark](spark.md) | Guides new users through a short questionnaire, then automatically creates the bots and connectors they need. |
 | [Sred Work Summary](sred-work-summary.md) | Collect a year of PRs, docs, and tickets into a grouped Notion doc for SRED. |
 | [Stripe Automation](../../finance/productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
+| [Supplier Coordination Assistant](supplier-coordination-assistant.md) | Coordinates supplier research, qualification, performance, risk, and collaboration for production planners. |
+| [Supply Chain Crisis Manager](supply-chain-crisis-manager.md) | Turns crisis disruptions into clear risks, plans, and actions for supply chain analysts. |
+| [Sustainable Logistics Planner](sustainable-logistics-planner.md) | Optimizes logistics for lower emissions, waste, and cost while keeping operations compliant. |
 | [Task Decomposition Expert](../../management/productivity/task-decomposition-expert.md) | Breaks complex goals into actionable work breakdowns with dependencies and effort estimates. |
 | [Task Distributor](task-distributor.md) | Distributes tasks across workers to maximize throughput while respecting priorities and deadlines. No hype, no emoji, no 'leverage'/'empower'/'seamles |
 | [Team Collaboration Standup Notes](../../management/productivity/team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |
@@ -112,6 +128,7 @@ Plan, prioritise and clear the recurring admin. 109 Grok Bot templates, 58 of th
 | [VopixSounds](../../it-and-development/productivity/vopixsounds.md) | Plays sounds when Claude needs you or finishes a task so you can work in another window. |
 | [Workflow Chain Designer](workflow-chain-designer.md) | Analyzes your conversation, checks available tools, and recommends step-by-step task chains. |
 | [Workflow Orchestrator](workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
+| [Workforce Planning Assistant](workforce-planning-assistant.md) | Optimizes workforce scheduling, allocation, and planning for production planners. |
 | [Wrike Automation](wrike-automation.md) | Automate Wrike tasks, folders, projects, and assignments via Rube MCP. |
 | [Zapier Workflows](zapier-workflows.md) | Manages and triggers your Zapier workflows and MCP tool orchestrations from chat. |
 | [Zoho Crm Automation](zoho-crm-automation.md) | Automate Zoho CRM record creation, search, update, and lead conversion via Rube MCP. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **168 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **169 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,7 @@ Leaders making decisions from the whole picture. **168 ready-made Grok Bot templ
 | [Data Analysis](data-analysis/README.md) | 52 |
 | [Research](research/README.md) | 41 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 30 |
-| [Productivity](productivity/README.md) | 22 |
+| [Productivity](productivity/README.md) | 23 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
@@ -180,6 +180,7 @@ Leaders making decisions from the whole picture. **168 ready-made Grok Bot templ
 | [Idea Autopsy](productivity/idea-autopsy.md) | Autopsy a business idea before you build it: kill-list check, five hard filters, a free-AI one-prompt test, live ad-market verification, and a verdict |
 | [Idea Refine](../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
 | [Inbox Triage](../management/productivity/inbox-triage.md) | Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe. |
+| [Innovation Ideation Partner](../management/productivity/innovation-ideation-partner.md) | Innovation ideation partner for senior managers: generate, evaluate, and track ideas from brainstorm to execution. |
 | [Kody](../management/productivity/kody.md) | Coordinates priorities across people, projects, and assistants. |
 | [Micro Saas Launcher](../product-development/productivity/micro-saas-launcher.md) | Guide from idea to paying customers for a micro-SaaS in weeks. |
 | [Multi Advisor](productivity/multi-advisor.md) | Consult multiple specialists in parallel for multi-perspective analysis and decision synthesis. |

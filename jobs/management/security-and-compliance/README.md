@@ -1,6 +1,6 @@
 # Security & Compliance templates for Management
 
-Authorised security testing, audits and regulatory work. 24 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 26 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,7 +20,9 @@ Authorised security testing, audits and regulatory work. 24 Grok Bot templates, 
 | [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Insurance Compliance Assistant](insurance-compliance-assistant.md) | Keeps insurance claims compliant with regulations through monitoring, review, training, and audits. |
 | [Insurance Compliance Manager](insurance-compliance-manager.md) | Tracks regulatory changes, reviews policies, trains staff, and prepares compliance reports and audits for your insurance agency. |
+| [Logistics Safety Planner](../../operations/security-and-compliance/logistics-safety-planner.md) | Turns logistics safety tasks into guidelines, training, risk assessments, and compliance checks. |
 | [Product Quality Assurance Assistant](product-quality-assurance-assistant.md) | Guides quality assurance for purchasing managers: supplier checks, testing, audits, and improvements. |
+| [Production Risk Assessment Assistant](../../operations/security-and-compliance/production-risk-assessment-assistant.md) | Identifies, assesses, and mitigates production risks with data-backed reports and safety protocols. |
 | [Purchasing Compliance Assistant](purchasing-compliance-assistant.md) | Regulatory compliance support for purchasing managers: research, monitor, audit, and report. |
 | [Quality Manager Qmr](../../operations/security-and-compliance/quality-manager-qmr.md) | Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies. |
 | [Quality Manager Qms Iso13485](../../operations/security-and-compliance/quality-manager-qms-iso13485.md) | Helps you implement and maintain an ISO 13485 QMS for medical devices. |

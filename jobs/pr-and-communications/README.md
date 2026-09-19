@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **70 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **81 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,12 +12,12 @@ Press, internal comms and reputation. **70 ready-made Grok Bot templates** for t
 | Kind of work | Templates |
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 24 |
-| [Writing & Content](writing-and-content/README.md) | 13 |
+| [Social Media](social-media/README.md) | 18 |
+| [Writing & Content](writing-and-content/README.md) | 14 |
 | [Research](research/README.md) | 11 |
-| [Social Media](social-media/README.md) | 9 |
 | [Data Analysis](data-analysis/README.md) | 8 |
+| [Productivity](productivity/README.md) | 3 |
 | [Design](design/README.md) | 2 |
-| [Productivity](productivity/README.md) | 2 |
 | [Support & Community](support-and-community/README.md) | 1 |
 
 ## Marketing & Growth
@@ -49,6 +49,29 @@ Press, internal comms and reputation. **70 ready-made Grok Bot templates** for t
 | [Subject Line Psychologist](../marketing/marketing-and-growth/subject-line-psychologist.md) | Craft email subject lines that earn opens through honest psychological triggers. |
 | [UTM Link Generator](../marketing/marketing-and-growth/utm-link-generator.md) | Generates consistent UTM-tagged links and maintains a registry to prevent duplicates. |
 
+## Social Media
+
+| Template | What it does |
+|---|---|
+| [Brand Reputation Monitor](../marketing/social-media/brand-reputation-monitor.md) | Monitors brand sentiment, trends, competitors, and crises on social media, delivering reports and alerts. |
+| [Content Calendar Organizer](../marketing/social-media/content-calendar-organizer.md) | Plans and organizes your social media content calendar with research, creation, and scheduling support. |
+| [Crisis Communication Manager](../marketing/social-media/crisis-communication-manager.md) | Monitors social media, drafts crisis responses, and builds playbooks for social media coordinators. |
+| [Crisis Management Guide](../marketing/social-media/crisis-management-guide.md) | Guides social media managers through every phase of a crisis, from monitoring to recovery. |
+| [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
+| [Linkedin Automation](../marketing/social-media/linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
+| [Social Content](../marketing/social-media/social-content.md) | Creates, schedules, and optimizes content across LinkedIn, Twitter/X, Instagram, TikTok, and Facebook. |
+| [Social Content Scheduling Planner](../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
+| [Social Listening and Sentiment Analyst](../marketing/social-media/social-listening-and-sentiment-analyst.md) | Turns social media chatter into actionable insights for your brand. |
+| [Social Media Campaign Planner](../marketing/social-media/social-media-campaign-planner.md) | Plans and executes social media campaigns from research to reporting. |
+| [Social Media Copywriter](../marketing/social-media/social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |
+| [Social Media Trend Analyst](../marketing/social-media/social-media-trend-analyst.md) | Tracks social media trends and turns them into reports, content, and campaign plans. |
+| [Social Orchestrator](../marketing/social-media/social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |
+| [Twitter Ai Influencer Manager](../marketing/social-media/twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
+| [Twitter Automation](../marketing/social-media/twitter-automation.md) | Automate Twitter/X posts, search, users, bookmarks, lists, and media via Rube MCP. |
+| [Twitter Share Card Maker](../marketing/social-media/twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |
+| [X Article Publisher](../marketing/social-media/x-article-publisher-skill.md) | Publish articles to X/Twitter with formatted posts and media. |
+| [X Brief](../marketing/social-media/x-brief.md) | Connects to X, analyzes your recent posts to identify your beat, and flags relevant events with a daily wrap-up. |
+
 ## Writing & Content
 
 | Template | What it does |
@@ -64,6 +87,7 @@ Press, internal comms and reputation. **70 ready-made Grok Bot templates** for t
 | [Internal Comms Community](writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Internal Comms Drafter](writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
 | [Patent Client Communication Assistant](../legal/writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
+| [Policy Update Communications Assistant](../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
 | [Press Conference Simulator](writing-and-content/press-conference-simulator.md) | Generates authentic coach and player press conference responses for any sports scenario. |
 | [Receptionist Communication Assistant](../customer-support/writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
 
@@ -83,20 +107,6 @@ Press, internal comms and reputation. **70 ready-made Grok Bot templates** for t
 | [Search Specialist](../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
 | [Stock Photo Finder](../creatives/research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 
-## Social Media
-
-| Template | What it does |
-|---|---|
-| [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
-| [Linkedin Automation](../marketing/social-media/linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
-| [Social Media Copywriter](../marketing/social-media/social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |
-| [Social Orchestrator](../marketing/social-media/social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |
-| [Twitter Ai Influencer Manager](../marketing/social-media/twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
-| [Twitter Automation](../marketing/social-media/twitter-automation.md) | Automate Twitter/X posts, search, users, bookmarks, lists, and media via Rube MCP. |
-| [Twitter Share Card Maker](../marketing/social-media/twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |
-| [X Article Publisher](../marketing/social-media/x-article-publisher-skill.md) | Publish articles to X/Twitter with formatted posts and media. |
-| [X Brief](../marketing/social-media/x-brief.md) | Connects to X, analyzes your recent posts to identify your beat, and flags relevant events with a daily wrap-up. |
-
 ## Data Analysis
 
 | Template | What it does |
@@ -110,19 +120,20 @@ Press, internal comms and reputation. **70 ready-made Grok Bot templates** for t
 | [Sentiment Insight Compiler](../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Social Media Engagement Analyst](../management/data-analysis/social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
 
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Hotel Crisis Management Planner](../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
+| [Production Communication Coordinator](../operations/productivity/production-communication-coordinator.md) | Coordinates all production communication: emails, meetings, calls, documents, crises, and stakeholder updates. |
+| [Stakeholder Communication Planner](../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
+
 ## Design
 
 | Template | What it does |
 |---|---|
 | [Anthropic Brand Application](../creatives/design/anthropic-brand-guidelines.md) | Applies Anthropic brand standards to artifacts: colors, typography, visual language. |
 | [Brand Guidelines](../marketing/design/brand-guidelines.md) | Apply brand colors, typography, and tone to user-facing content and artifacts. |
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Hotel Crisis Management Planner](../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
-| [Stakeholder Communication Planner](../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
 
 ## Support & Community
 

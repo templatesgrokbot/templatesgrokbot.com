@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **515 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **535 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,15 @@ Team leads and project managers. **515 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 126 |
-| [Productivity](productivity/README.md) | 115 |
+| [Data Analysis](data-analysis/README.md) | 136 |
+| [Productivity](productivity/README.md) | 120 |
 | [Research](research/README.md) | 61 |
 | [Coding](coding/README.md) | 44 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 29 |
-| [Security & Compliance](security-and-compliance/README.md) | 24 |
+| [Security & Compliance](security-and-compliance/README.md) | 26 |
 | [Knowledge Management](knowledge-management/README.md) | 22 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 15 |
-| [Writing & Content](writing-and-content/README.md) | 14 |
+| [Writing & Content](writing-and-content/README.md) | 15 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
 | [Design](design/README.md) | 8 |
@@ -28,7 +28,7 @@ Team leads and project managers. **515 ready-made Grok Bot templates** for this 
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 5 |
 | [Generative Code](generative-code/README.md) | 5 |
 | [Prompt Engineering](prompt-engineering/README.md) | 5 |
-| [Support & Community](support-and-community/README.md) | 3 |
+| [Support & Community](support-and-community/README.md) | 5 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
 
 ## Data Analysis
@@ -41,10 +41,10 @@ Team leads and project managers. **515 ready-made Grok Bot templates** for this 
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Forecast Accuracy Review](../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+| [Warehouse Layout Optimizer](../operations/data-analysis/warehouse-layout-optimizer.md) | Optimizes warehouse layouts for space, flow, and efficiency. |
 | [Supplier Market Trend Tracker](data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
-| [Insurance Finance Reporting Assistant](data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 
-[All 126 Data Analysis templates →](data-analysis/README.md)
+[All 136 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **515 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 115 Productivity templates →](productivity/README.md)
+[All 120 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -119,7 +119,7 @@ Team leads and project managers. **515 ready-made Grok Bot templates** for this 
 | [Quality Nonconformance](../operations/security-and-compliance/quality-nonconformance.md) | Manage non-conformance lifecycle, root cause analysis, and CAPA in regulated manufacturing. |
 | [Product Quality Assurance Assistant](security-and-compliance/product-quality-assurance-assistant.md) | Guides quality assurance for purchasing managers: supplier checks, testing, audits, and improvements. |
 
-[All 24 Security & Compliance templates →](security-and-compliance/README.md)
+[All 26 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Knowledge Management
 
@@ -164,7 +164,7 @@ Team leads and project managers. **515 ready-made Grok Bot templates** for this 
 | [RFP Compliance Drafter](../sales/writing-and-content/rfp-compliance-drafter.md) | Turns an RFP and your past proposals into a compliance matrix and a drafted response, flagging gaps before you write. |
 | [Executive Resume Writer](../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 
-[All 14 Writing & Content templates →](writing-and-content/README.md)
+[All 15 Writing & Content templates →](writing-and-content/README.md)
 
 ## Self-Improvement
 
@@ -270,7 +270,9 @@ Team leads and project managers. **515 ready-made Grok Bot templates** for this 
 |---|---|
 | [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
 | [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
+| [Logistics Customer Service Improver](../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
 | [Feedback Loop Manager](support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
+| [Support Crisis Prep Kit](../customer-support/support-and-community/support-crisis-prep-kit.md) | Plans and prepares crisis management materials for user support teams. |
 
 ## Speech-To-Text
 

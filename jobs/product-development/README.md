@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **928 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **929 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,7 +15,7 @@ Product managers and the teams that ship. **928 ready-made Grok Bot templates** 
 | [Design](design/README.md) | 84 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
 | [Generative Code](generative-code/README.md) | 65 |
-| [Productivity](productivity/README.md) | 51 |
+| [Productivity](productivity/README.md) | 52 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
 | [Research](research/README.md) | 48 |
 | [Data Analysis](data-analysis/README.md) | 34 |
@@ -105,7 +105,7 @@ Product managers and the teams that ship. **928 ready-made Grok Bot templates** 
 | [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [Not A Vibe Coder](productivity/not-a-vibe-coder.md) | Turns vague project ideas into 8 structured planning files for new projects only. |
 
-[All 51 Productivity templates →](productivity/README.md)
+[All 52 Productivity templates →](productivity/README.md)
 
 ## Cloud & DevOps
 

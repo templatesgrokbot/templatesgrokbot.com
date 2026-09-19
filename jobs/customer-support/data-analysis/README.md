@@ -1,6 +1,6 @@
 # Data Analysis templates for Customer Support
 
-Clean, query, chart and explain data. 23 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 26 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Clean, query, chart and explain data. 23 Grok Bot templates, 19 of them filed in
 | [Customer Success Manager](customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 | [Customer Success Trend Analyst](customer-success-trend-analyst.md) | Turns customer data into trend insights and proactive success actions. |
 | [Feedback Collection Assistant](feedback-collection-assistant.md) | Collects, analyzes, and reports customer feedback for receptionists to improve service quality. |
+| [Feedback Insight Analyst](feedback-insight-analyst.md) | Turns customer feedback into clear insights and actions for support teams. |
 | [Feedback Insight for Service Managers](../../management/data-analysis/feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
 | [Insurance Document Verification Assistant](insurance-document-verification-assistant.md) | Verifies, updates, and tracks insurance documents for customer service reps. |
 | [Insurance Feedback Analyzer](insurance-feedback-analyzer.md) | Collects, analyzes, and reports insurance customer feedback for service improvements. |
@@ -29,5 +30,7 @@ Clean, query, chart and explain data. 23 Grok Bot templates, 19 of them filed in
 | [Sentiment Insight Compiler](sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Service Quality Enhancement Assistant](../../management/data-analysis/service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |
 | [Shopify Review Triage](shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
+| [Support Metrics Analyst](support-metrics-analyst.md) | Analyzes support performance metrics and delivers insights for decision-making. |
+| [Support Survey Insight Builder](support-survey-insight-builder.md) | Designs, analyzes, and reports on customer satisfaction surveys for support teams. |
 
 [← All Customer Support templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/customer-support)

@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **362 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **365 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,7 +16,7 @@ Designers, artists and content creators. **362 ready-made Grok Bot templates** f
 | [Generative Code](generative-code/README.md) | 45 |
 | [Coding](coding/README.md) | 34 |
 | [Writing & Content](writing-and-content/README.md) | 26 |
-| [Social Media](social-media/README.md) | 13 |
+| [Social Media](social-media/README.md) | 16 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 11 |
 | [Video Editing](video-editing/README.md) | 11 |
 | [Generative Video](generative-video/README.md) | 9 |
@@ -356,12 +356,15 @@ Designers, artists and content creators. **362 ready-made Grok Bot templates** f
 | [Instagram Manager](../marketing/social-media/instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
 | [Linkedin Content Generator](../marketing/social-media/linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
 | [Linkedin Post Writer](../marketing/social-media/linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
+| [Social Content](../marketing/social-media/social-content.md) | Creates, schedules, and optimizes content across LinkedIn, Twitter/X, Instagram, TikTok, and Facebook. |
+| [Social Content Scheduling Planner](../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
 | [Social Media Copywriter](../marketing/social-media/social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |
 | [Social Post Writer Seo](../marketing/social-media/social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |
 | [Socialclaw](../marketing/social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
 | [Taisly Social Media Posting](../marketing/social-media/taisly-social-media-posting.md) | Prepare and publish approved short-form videos across major social platforms. Requires explicit user approval before any posting action. |
 | [Tiktok Automation](../marketing/social-media/tiktok-automation.md) | Upload, publish, and manage TikTok videos and photos via Composio's TikTok toolkit. |
 | [Twitter Share Card Maker](../marketing/social-media/twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |
+| [Visual Storytelling Campaign Planner](../marketing/social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
 | [Xiaohongshu Card Deck Generator](../marketing/social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
 | [Xiaohongshu Content Strategist](../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
 | [Youtube Automation](../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
