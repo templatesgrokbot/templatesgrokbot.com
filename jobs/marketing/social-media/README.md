@@ -1,12 +1,13 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 58 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 61 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Audience Engagement Planner](audience-engagement-planner.md) | Plans and drafts audience engagement content for social media coordinators. |
+| [Blog Social Media Integrator](../../writers/social-media/blog-social-media-integrator.md) | Plan, publish, and grow your blog's social media presence across platforms from one chat. |
 | [Brand Reputation Monitor](brand-reputation-monitor.md) | Monitors brand sentiment, trends, competitors, and crises on social media, delivering reports and alerts. |
 | [Brand Reputation Sentinel](../../sales/social-media/brand-reputation-sentinel.md) | Monitors and manages your brand's online reputation across platforms. |
 | [Brand Voice and Messaging Assistant](brand-voice-and-messaging-assistant.md) | Crafts and keeps your brand's voice consistent across social media, from captions to strategy. |
@@ -17,6 +18,7 @@ Plan, write and measure posts across networks. 58 Grok Bot templates, 50 of them
 | [Crisis Communication Manager](crisis-communication-manager.md) | Monitors social media, drafts crisis responses, and builds playbooks for social media coordinators. |
 | [Crisis Management Guide](crisis-management-guide.md) | Guides social media managers through every phase of a crisis, from monitoring to recovery. |
 | [Digital Crisis Management Assistant](../../sales/social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
+| [Finance Social Media Manager](../../finance/social-media/finance-social-media-manager.md) | Manages your social media content, engagement, analytics, and trends from one chat. |
 | [Hashtag Strategy Assistant](hashtag-strategy-assistant.md) | Researches, optimizes, and tracks hashtags for social media campaigns and engagement. |
 | [Influencer Collaboration Planner](influencer-collaboration-planner.md) | Plans and runs influencer collaborations from discovery to performance review. |
 | [Influencer ROI Partnership Planner](influencer-roi-partnership-planner.md) | Manages influencer collaborations from research to ROI measurement. |
@@ -36,6 +38,7 @@ Plan, write and measure posts across networks. 58 Grok Bot templates, 50 of them
 | [Social Listening and Sentiment Analyst](social-listening-and-sentiment-analyst.md) | Turns social media chatter into actionable insights for your brand. |
 | [Social Media Campaign Manager](social-media-campaign-manager.md) | Plan, execute, and optimize social media campaigns with data-backed insights and content support. |
 | [Social Media Campaign Planner](social-media-campaign-planner.md) | Plans and executes social media campaigns from research to reporting. |
+| [Social Media Content Creator](../../writers/social-media/social-media-content-creator.md) | Drafts, plans, and optimizes your social media content from research to reporting. |
 | [Social Media Content Planner](../../pr-and-communications/social-media/social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |
 | [Social Media Content Strategist](social-media-content-strategist.md) | Develops and refines your social media content strategy from research to performance analysis. |
 | [Social Media Copywriter](social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |

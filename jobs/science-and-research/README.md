@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **556 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **570 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,15 @@ Scientists, analysts and academic researchers. **556 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 189 |
-| [Research](research/README.md) | 181 |
+| [Data Analysis](data-analysis/README.md) | 195 |
+| [Research](research/README.md) | 186 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 67 |
 | [Coding](coding/README.md) | 31 |
-| [Security & Compliance](security-and-compliance/README.md) | 24 |
+| [Security & Compliance](security-and-compliance/README.md) | 26 |
 | [Writing & Content](writing-and-content/README.md) | 16 |
 | [Productivity](productivity/README.md) | 13 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 10 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 9 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 10 |
 | [Design](design/README.md) | 6 |
 | [Knowledge Management](knowledge-management/README.md) | 3 |
 | [Support & Community](support-and-community/README.md) | 2 |
@@ -42,7 +42,7 @@ Scientists, analysts and academic researchers. **556 ready-made Grok Bot templat
 | [Statistical Analysis](data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 | [Astropy](data-analysis/astropy.md) | Astronomical data analysis with Astropy: coordinates, units, FITS, cosmology, time, tables, WCS. |
 
-[All 189 Data Analysis templates →](data-analysis/README.md)
+[All 195 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
@@ -57,7 +57,7 @@ Scientists, analysts and academic researchers. **556 ready-made Grok Bot templat
 | [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Academic Researcher](research/academic-researcher.md) | Searches scholarly databases, analyzes papers, and writes structured findings to a markdown file. |
 
-[All 181 Research templates →](research/README.md)
+[All 186 Research templates →](research/README.md)
 
 ## Generative AI and LLM
 
@@ -96,13 +96,13 @@ Scientists, analysts and academic researchers. **556 ready-made Grok Bot templat
 | [Chemical Compliance Assistant](security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
 | [Chemical Safety Documentation Assistant](security-and-compliance/chemical-safety-documentation-assistant.md) | Keeps lab chemical safety documents current and ready for review. |
 | [R&D Regulatory Navigator](../product-development/security-and-compliance/r-d-regulatory-navigator.md) | Regulatory compliance guidance for R&D engineers: research, interpret, document, monitor, audit, train. |
+| [Laboratory Safety and Protocol Design Assistant](security-and-compliance/laboratory-safety-and-protocol-design-assistant.md) | Designs and maintains lab safety protocols, training, and compliance for microbiologists. |
+| [Chemical Safety Information Manager](security-and-compliance/chemical-safety-information-manager.md) | Manages chemical safety data, procedures, and compliance for biochemistry labs. |
 | [Consultant Compliance Research](security-and-compliance/consultant-compliance-research.md) | Environmental compliance research, audits, permits, training, and reporting support for consultants. |
 | [Environmental Monitoring Manager](security-and-compliance/environmental-monitoring-manager.md) | Environmental monitoring assistant for laboratory managers, from data collection to compliance and audits. |
 | [Biohazard Safety Protocol Assistant](security-and-compliance/biohazard-safety-protocol-assistant.md) | Biohazard management assistant for laboratory technicians: protocols, labels, training, and risk assessment. |
-| [Lab Safety Checklist Generator](security-and-compliance/lab-safety-checklist-generator.md) | Generates and verifies lab safety compliance checklists for laboratory technicians. |
-| [Regulation Risk Drafts for Engineers](security-and-compliance/regulation-risk-drafts-for-engineers.md) | Tracks environmental laws, flags compliance risks, and drafts the paperwork to stay legal. |
 
-[All 24 Security & Compliance templates →](security-and-compliance/README.md)
+[All 26 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Writing & Content
 
@@ -162,7 +162,7 @@ Scientists, analysts and academic researchers. **556 ready-made Grok Bot templat
 | [Chemical Engineering Study Assistant](teaching-and-tutoring/chemical-engineering-study-assistant.md) | Supports chemical engineering students and professionals with study help, research, and career guidance. |
 | [Culture Protocol Assistant](teaching-and-tutoring/culture-protocol-assistant.md) | Aseptic culture assistant for microbiologists—media, isolation, preservation, scale-up and quality control. |
 
-[All 9 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+[All 10 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Design
 

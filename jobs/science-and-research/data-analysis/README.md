@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 189 Grok Bot templates, 137 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 195 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,8 +20,11 @@ Clean, query, chart and explain data. 189 Grok Bot templates, 137 of them filed 
 | [Big Data Analysis Guide](big-data-analysis-guide.md) | Guides data scientists through big data analysis from cleaning to visualization. |
 | [Big Data Analysis Planner](big-data-analysis-planner.md) | Big data analysis assistant for research associates, from collection to insight. |
 | [Biochemical Engineering Support](biochemical-engineering-support.md) | Optimize biochemical processes, analyze data, and support research for chemical engineers. |
+| [Biochemical Simulation Interpreter](biochemical-simulation-interpreter.md) | Interprets biochemical simulation data and models to accelerate research insights. |
+| [Biochemical Statistical Analysis Assistant](biochemical-statistical-analysis-assistant.md) | Statistical analysis assistant for biochemical data, from cleaning to reporting. |
 | [Biodiversity Conservation Planner](biodiversity-conservation-planner.md) | Plans and monitors biodiversity conservation with data analysis and stakeholder input. |
 | [Biodiversity Impact Analyst](biodiversity-impact-analyst.md) | Turns biodiversity data into impact analyses, reports, and conservation strategies. |
+| [Bioinformatics Data Processing Assistant](bioinformatics-data-processing-assistant.md) | Bioinformatics data processing assistant for biochemists, from sequence alignment to drug target identification. |
 | [Brand Perception Insight Finder](brand-perception-insight-finder.md) | Analyzes brand perception from public and internal data to deliver actionable insights. |
 | [Carbon Footprint Analysis Assistant](carbon-footprint-analysis-assistant.md) | Turns your company's activity data into a carbon footprint analysis with reduction strategies and stakeholder-ready reports. |
 | [Carbon Footprint Assessment Assistant](carbon-footprint-assessment-assistant.md) | Guides energy engineers through carbon footprint assessment and reduction strategies. |
@@ -64,6 +67,7 @@ Clean, query, chart and explain data. 189 Grok Bot templates, 137 of them filed 
 | [Environmental GIS Assistant](environmental-gis-assistant.md) | Turns GIS data into maps, analyses, and reports for environmental consulting. |
 | [Environmental Impact Analysis Assistant](environmental-impact-analysis-assistant.md) | Environmental impact analysis companion for engineers, turning data into assessments and reports. |
 | [Environmental Risk Assessment Assistant](environmental-risk-assessment-assistant.md) | Assists environmental engineers with risk assessment, analysis, reporting, and compliance. |
+| [Enzyme Kinetics Modeling Assistant](enzyme-kinetics-modeling-assistant.md) | Analyzes enzyme kinetics data, fits models, and drafts reports for biochemists. |
 | [ESG Analysis Assistant](esg-analysis-assistant.md) | Turns ESG data into clear reports, risk checks, and improvement plans for sustainability analysts. |
 | [Experiment Readout](../../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Exploratory Data Analysis](exploratory-data-analysis.md) | Analyze scientific data files across 200+ formats and generate markdown reports. No file? No action. Never repeat an analysis on the same file. Draft |
@@ -73,6 +77,7 @@ Clean, query, chart and explain data. 189 Grok Bot templates, 137 of them filed 
 | [Fermentation Optimization Assistant](fermentation-optimization-assistant.md) | Optimizes fermentation processes from data analysis to scale-up for microbiologists. |
 | [Flowio](flowio.md) | Parse FCS files v2.0-3.1, extract events as arrays, and convert to CSV or DataFrame. |
 | [Food Database Query](food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |
+| [Genomic Sequence Analysis Assistant](genomic-sequence-analysis-assistant.md) | Analyzes genomic sequences for alignment, variants, phylogeny, function, and more, returning detailed reports. |
 | [Geochemical Analysis Assistant](geochemical-analysis-assistant.md) | Geochemical data analysis, interpretation, and reporting assistant for geologists. |
 | [Geological Data Interpretation Assistant](geological-data-interpretation-assistant.md) | Turns geological survey data into interpreted structures, maps, models, and reports for geologists. |
 | [Geological EIA Assistant](geological-eia-assistant.md) | Streamlines environmental impact assessments for geologists from data gathering to report delivery. |
@@ -111,6 +116,7 @@ Clean, query, chart and explain data. 189 Grok Bot templates, 137 of them filed 
 | [Mathguard](../../it-and-development/data-analysis/mathguard.md) | Math-heavy optimization for large-scale data (n ≥ 10⁶) using probabilistic structures, transforms, and geometry. |
 | [Matplotlib](../../it-and-development/data-analysis/matplotlib.md) | Generate publication-quality Matplotlib plot code from your data descriptions. |
 | [Medchem](medchem.md) | Filter compound libraries by drug-likeness rules and structural alerts for prioritization. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Metabolic Pathway Analyst](metabolic-pathway-analyst.md) | Analyzes metabolic pathways from data to insights for biochemists. |
 | [Metabolomics Workbench Database](metabolomics-workbench-database.md) | Query the NIH Metabolomics Workbench for metabolite data, study metadata, and MS/NMR searches. |
 | [Microbial Ecology Analysis Assistant](microbial-ecology-analysis-assistant.md) | Analyzes microbial ecology data from collection to visualization for microbiologists. |
 | [Microbial Genome Analysis Assistant](microbial-genome-analysis-assistant.md) | Microbial genome analysis assistant for assembly, annotation, comparison, and insight generation. |

@@ -1,12 +1,13 @@
 # Research templates for Creatives
 
-Find sources, compare evidence and summarise what is known. 7 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 8 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Competitor UX Analyst](../../product-development/research/competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
+| [Content Research Assistant](../../writers/research/content-research-assistant.md) | Research assistant for content writers: gathers data, checks facts, reviews literature, and polishes output. |
 | [Stock Photo Finder](stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 | [Usability Testing Assistant](usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
 | [Usability Testing Questionnaires Assistant](../../product-development/research/usability-testing-questionnaires-assistant.md) | Drafts usability testing questionnaires and analyzes feedback to improve product user experience. |

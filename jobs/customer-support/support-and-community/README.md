@@ -1,6 +1,6 @@
 # Support & Community templates for Customer Support
 
-Triage tickets, answer customers and moderate communities. 40 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 41 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Triage tickets, answer customers and moderate communities. 40 Grok Bot templates
 | [Customer Issue Resolution Assistant](customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
 | [Customer Onboarding Assistant](customer-onboarding-assistant.md) | Guides new insurance customers through onboarding with personalized, step-by-step support. |
 | [Customer Service Improvement Assistant](../../operations/support-and-community/customer-service-improvement-assistant.md) | Analyzes logistics customer feedback and automates support workflows to improve satisfaction. |
+| [Customer Service Support Assistant](../../finance/support-and-community/customer-service-support-assistant.md) | Handles customer service tasks from inquiry to analysis for an administrative assistant. |
 | [Customer Success Response Manager](customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 | [Customer Support](customer-support.md) | Resolves support tickets and creates help documentation from confirmed facts only. |
 | [Emergency Response Coordinator](emergency-response-coordinator.md) | Coordinates emergency response support for insurance policyholders from first contact to claim resolution. |

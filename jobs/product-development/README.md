@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **1,008 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **1,010 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,11 +17,11 @@ Product managers and the teams that ship. **1,008 ready-made Grok Bot templates*
 | [Data Analysis](data-analysis/README.md) | 66 |
 | [Generative Code](generative-code/README.md) | 65 |
 | [Research](research/README.md) | 64 |
-| [Productivity](productivity/README.md) | 58 |
+| [Productivity](productivity/README.md) | 59 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 34 |
 | [Security & Compliance](security-and-compliance/README.md) | 25 |
-| [Writing & Content](writing-and-content/README.md) | 23 |
+| [Writing & Content](writing-and-content/README.md) | 24 |
 | [Prompt Engineering](prompt-engineering/README.md) | 22 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
 | [Generative Art](generative-art/README.md) | 9 |
@@ -135,7 +135,7 @@ Product managers and the teams that ship. **1,008 ready-made Grok Bot templates*
 | [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [Not A Vibe Coder](productivity/not-a-vibe-coder.md) | Turns vague project ideas into 8 structured planning files for new projects only. |
 
-[All 58 Productivity templates →](productivity/README.md)
+[All 59 Productivity templates →](productivity/README.md)
 
 ## Cloud & DevOps
 
@@ -195,7 +195,7 @@ Product managers and the teams that ship. **1,008 ready-made Grok Bot templates*
 | [Doc Co-Authoring Workflow](../writers/writing-and-content/doc-coauthoring.md) | Guides users through co-authoring docs with context, refinement, and reader testing. |
 | [Reference Builder](../it-and-development/writing-and-content/reference-builder.md) | Generate exhaustive technical references and API documentation from code and specs. |
 
-[All 23 Writing & Content templates →](writing-and-content/README.md)
+[All 24 Writing & Content templates →](writing-and-content/README.md)
 
 ## Prompt Engineering
 

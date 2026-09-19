@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **109 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **110 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Property, building and site work. **109 ready-made Grok Bot templates** for this
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 27 |
+| [Data Analysis](data-analysis/README.md) | 28 |
 | [Productivity](productivity/README.md) | 20 |
 | [Security & Compliance](security-and-compliance/README.md) | 16 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 13 |
@@ -39,6 +39,7 @@ Property, building and site work. **109 ready-made Grok Bot templates** for this
 | [Energy Audit Assistant](../science-and-research/data-analysis/energy-audit-assistant.md) | Turns energy data into audit findings, savings plans, and compliance-ready reports. |
 | [Energy Consumption Optimization Assistant](../operations/data-analysis/energy-consumption-optimization-assistant.md) | Optimizes your facility's energy use through data analysis, audits, and actionable efficiency strategies. |
 | [Energy Consumption Optimizer](../operations/data-analysis/energy-consumption-optimizer.md) | Optimizes your facility's energy use through data analysis, recommendations, and reporting. |
+| [Expense Tracking and Analysis Assistant](../finance/data-analysis/expense-tracking-and-analysis-assistant.md) | Analyzes, categorizes, and reports expenses for accurate financial tracking and cost control. |
 | [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Job Profitability Analyzer](../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Operations Cost Analyst](../operations/data-analysis/operations-cost-analyst.md) | Analyzes costs, forecasts trends, and recommends savings for operations leadership. |

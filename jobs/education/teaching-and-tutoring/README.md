@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 73 Grok Bot templates, 60 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 85 Grok Bot templates, 71 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,7 +23,9 @@ Explain, quiz and guide someone through a subject. 73 Grok Bot templates, 60 of 
 | [Curriculum Planning Assistant](curriculum-planning-assistant.md) | Helps teachers plan, align, and differentiate curriculum with AI support. |
 | [Customer Training Content Developer](../../customer-support/teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
 | [Demonstrate Understanding](demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
+| [Digital Teaching Tools Assistant](digital-teaching-tools-assistant.md) | Helps primary teachers plan, run, and assess digital lessons with tools and resources. |
 | [Educational Game Design Assistant](educational-game-design-assistant.md) | Turns your teaching goals into playable educational game concepts, mechanics, and content. |
+| [Educational Game Selector](educational-game-selector.md) | Recommends and integrates educational games for primary school classrooms. |
 | [Employee Training Program Coordinator](../../operations/teaching-and-tutoring/employee-training-program-coordinator.md) | Designs, runs, and improves your team's training programs end to end. |
 | [Environmental Education Content Creator](../../science-and-research/teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
 | [Essay Feedback Assistant](essay-feedback-assistant.md) | Analyzes student essays and returns structured feedback for teachers. |
@@ -34,6 +36,7 @@ Explain, quiz and guide someone through a subject. 73 Grok Bot templates, 60 of 
 | [Geoffrey Hinton](geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
 | [Grading Assistant for Teachers](grading-assistant-for-teachers.md) | Handles grade calculations, feedback, rubrics, and analytics for secondary school teachers. |
 | [History Visualization Assistant](history-visualization-assistant.md) | Turns historical events into vivid, interactive visual lessons for secondary school students. |
+| [Instructional Design Assistant](../../writers/teaching-and-tutoring/instructional-design-assistant.md) | Designs instructional content, assessments, and learning experiences from research to evaluation. |
 | [Interactive Quiz Designer](interactive-quiz-designer.md) | Designs engaging, interactive quizzes for training instructors. |
 | [Interactive Training Designer](interactive-training-designer.md) | Designs and evaluates interactive training modules, materials, and tools for engaging learning. |
 | [Interview Prep](interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
@@ -41,6 +44,7 @@ Explain, quiz and guide someone through a subject. 73 Grok Bot templates, 60 of 
 | [Learn](learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Learner Engagement Designer](learner-engagement-designer.md) | Designs engaging training activities, materials, and feedback loops for instructors. |
 | [Learning Path Architect for HR](learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
+| [Learning Style Identifier for Teachers](learning-style-identifier-for-teachers.md) | Identifies each student's learning style and turns it into tailored teaching plans. |
 | [Legal Education and Training Assistant](../../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
 | [Legal Training Material Creator](../../legal/teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
 | [Lesson Generator](lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
@@ -54,6 +58,13 @@ Explain, quiz and guide someone through a subject. 73 Grok Bot templates, 60 of 
 | [Personalized Learning Designer](personalized-learning-designer.md) | Designs personalized eLearning experiences through content analysis, learner profiling, and adaptive recommendations. |
 | [Personalized Learning Path Builder](personalized-learning-path-builder.md) | Personalized learning path builder for training instructors to tailor education to each learner. No hype, just adaptive teaching support. |
 | [Pitch Rehearsal](pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
+| [Primary Curriculum Alignment Assistant](primary-curriculum-alignment-assistant.md) | Aligns primary school lessons, materials, and assessments to curriculum standards. |
+| [Primary Grade Grader](primary-grade-grader.md) | Helps primary school teachers grade, give feedback, and communicate student progress. |
+| [Primary Math Problem Generator](primary-math-problem-generator.md) | Generates custom math problems, worksheets, and challenges for primary school classes. |
+| [Primary School Writing Prompter](primary-school-writing-prompter.md) | Creative writing prompts, story starters, and feedback for primary school classrooms. |
+| [Primary Science Experiment Planner](primary-science-experiment-planner.md) | Designs safe, curriculum-aligned science experiments for primary school classes. |
+| [Primary Teaching Assistant](primary-teaching-assistant.md) | Plans lessons, manages classrooms, and differentiates instruction for primary school teachers. |
+| [Principal Curriculum Architect](principal-curriculum-architect.md) | Designs, aligns, and refines school curricula with research-backed, personalized, and engaging learning experiences. |
 | [Process Engineer Training Developer](../../product-development/teaching-and-tutoring/process-engineer-training-developer.md) | Builds and manages training and educational resources for process engineers. |
 | [Puzzle Activity Planner](puzzle-activity-planner.md) | Plan puzzle-based activities with pre-configured generator links for classrooms, parties, and events. |
 | [Question Generation Assistant](question-generation-assistant.md) | Generates diverse questions for quizzes, exams, and classroom activities. |
@@ -64,6 +75,7 @@ Explain, quiz and guide someone through a subject. 73 Grok Bot templates, 60 of 
 | [Science Experiment Planner](science-experiment-planner.md) | Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment. |
 | [Ship Learn Next](ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Staff Training Module Builder](staff-training-module-builder.md) | Builds and manages staff training modules for headteachers, from planning to evaluation. |
+| [Student Behavior Management Assistant](student-behavior-management-assistant.md) | Helps primary school teachers manage student behavior with plans, tracking, and communication. |
 | [Study Buddy](study-buddy.md) | Drills you on your own material with spaced repetition instead of re-reading notes. |
 | [Study Guide Creator for Teachers](study-guide-creator-for-teachers.md) | Creates and refines study guides for secondary school teachers and their students. |
 | [Subject Explanation Assistant](subject-explanation-assistant.md) | Prepares engaging lessons and resources for secondary school subject teaching. |

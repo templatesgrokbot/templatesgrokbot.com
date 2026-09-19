@@ -1,12 +1,13 @@
 # Research templates for Writers
 
-Find sources, compare evidence and summarise what is known. 17 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 20 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Citation Management](../../science-and-research/research/citation-management.md) | Search academic databases, extract metadata, and generate validated BibTeX entries for research papers. |
+| [Content Research Assistant](content-research-assistant.md) | Research assistant for content writers: gathers data, checks facts, reviews literature, and polishes output. |
 | [Crossframe Essay](crossframe-essay.md) | Generate CrossFrame critical insight articles for general readers, from structural diagnosis to full-length essays. |
 | [Crossframe Notebook](../../science-and-research/research/crossframe-notebook.md) | Structured bidirectional reading notes for books, theories, and articles with CrossFrame mapping. |
 | [Crossframe Suite](../../science-and-research/research/crossframe-suite.md) | Routes Chinese structural diagnosis workflows across relationships, organizations, public issues, philosophy, research, or essay output. |
@@ -20,7 +21,9 @@ Find sources, compare evidence and summarise what is known. 17 Grok Bot template
 | [Ml Paper Writing](../../science-and-research/research/ml-paper-writing.md) | Drafts publication-ready ML/AI papers for top conferences from research repos and results. |
 | [Podcast Trend Scout](../../marketing/research/podcast-trend-scout.md) | Scouts 3-5 emerging tech topics weekly for The Build podcast episodes. |
 | [Report Generator](../../science-and-research/research/report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |
+| [Script Authenticity Researcher](script-authenticity-researcher.md) | Authenticity research for scriptwriters, verifying facts and cultural details before you write. |
 | [Short Story Trend Scanner](short-story-trend-scanner.md) | 扫描短篇网文平台榜单，捕捉风口题材并输出可执行选题建议。 |
+| [Trend Scout for Bloggers](trend-scout-for-bloggers.md) | Researches and analyzes trends for timely, insightful blog content. |
 | [Web Media Getter](../../creatives/research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
 | [Web To Markdown](../../it-and-development/research/web-to-markdown.md) | Converts webpage URLs to clean Markdown using a local browser-based CLI. |
 

@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **96 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **97 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,7 +18,7 @@ Recruiting, onboarding and people operations. **96 ready-made Grok Bot templates
 | [Self-Improvement](self-improvement/README.md) | 6 |
 | [Research](research/README.md) | 5 |
 | [Security & Compliance](security-and-compliance/README.md) | 4 |
-| [Knowledge Management](knowledge-management/README.md) | 2 |
+| [Knowledge Management](knowledge-management/README.md) | 3 |
 | [Office Tools](office-tools/README.md) | 2 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Design](design/README.md) | 1 |
@@ -152,6 +152,7 @@ Recruiting, onboarding and people operations. **96 ready-made Grok Bot templates
 | Template | What it does |
 |---|---|
 | [Insurance Training and Knowledge Manager](../customer-support/knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
+| [Record Keeping and Filing Assistant](../finance/knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
 | [Resume Version Manager](knowledge-management/resume-version-manager.md) | Track resume versions, maintain a master resume, and manage tailored variants. |
 
 ## Office Tools

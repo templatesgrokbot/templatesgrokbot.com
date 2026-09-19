@@ -1,12 +1,13 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 155 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 157 Grok Bot templates, 117 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Accessibility Compliance Accessibility Audit](accessibility-compliance-accessibility-audit.md) | Run WCAG audits, find barriers, and guide fixes for accessible digital products. |
+| [Animation and Motion Graphics Planner](animation-and-motion-graphics-planner.md) | Turns animation and motion graphics briefs into scripts, storyboards, and visual specs for video editors. |
 | [Anthropic Brand Application](anthropic-brand-guidelines.md) | Applies Anthropic brand standards to artifacts: colors, typography, visual language. |
 | [Anthropic Frontend Design](../../it-and-development/design/anthropic-frontend-design.md) | Designs and codes distinctive, production-ready UI layouts with a committed visual direction. |
 | [Anti Ui Slop](anti-ui-slop.md) | Build product-specific UI from your design system, not generic patterns. |
@@ -70,6 +71,7 @@ Interfaces, brands, layouts and visual systems. 155 Grok Bot templates, 116 of t
 | [Flat Design](../../it-and-development/design/flat-design.md) | Generate UI code with zero shadows, sharp edges, and bold solid colors. |
 | [Flat Design 2](../../it-and-development/design/flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
 | [Font Pairing Suggester](font-pairing-suggester.md) | Recommends font pairings and Google Fonts alternatives with hierarchy examples. |
+| [Format and Layout Optimizer](../../writers/design/format-and-layout-optimizer.md) | Optimizes content format and layout for readability, engagement, and accessibility. |
 | [Frontend Design](frontend-design.md) | Distinctive frontend design that avoids AI defaults and follows the brief. |
 | [Game Art](game-art.md) | Guide game art style, asset pipeline, and animation workflow decisions. |
 | [Game Designer](game-designer.md) | Designs game mechanics, balancing, and player progression systems. |

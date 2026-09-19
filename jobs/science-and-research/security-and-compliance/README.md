@@ -1,6 +1,6 @@
 # Security & Compliance templates for Science and Research
 
-Authorised security testing, audits and regulatory work. 24 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 26 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Authorised security testing, audits and regulatory work. 24 Grok Bot templates, 
 | [Calibration Assistant for Lab Technicians](calibration-assistant-for-lab-technicians.md) | Guides lab technicians through calibration tasks, from equipment selection to compliance. |
 | [Chemical Compliance Assistant](chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
 | [Chemical Safety Documentation Assistant](chemical-safety-documentation-assistant.md) | Keeps lab chemical safety documents current and ready for review. |
+| [Chemical Safety Information Manager](chemical-safety-information-manager.md) | Manages chemical safety data, procedures, and compliance for biochemistry labs. |
 | [Chemical Safety Protocol Developer](chemical-safety-protocol-developer.md) | Develops and maintains chemical safety protocols from hazard ID to audits. |
 | [Compliance Report Drafting for Chemical Engineers](compliance-report-drafting-for-chemical-engineers.md) | Analyzes environmental impact data and drafts compliance-ready reports for chemical engineers. |
 | [Consultant Compliance Research](consultant-compliance-research.md) | Environmental compliance research, audits, permits, training, and reporting support for consultants. |
@@ -21,6 +22,7 @@ Authorised security testing, audits and regulatory work. 24 Grok Bot templates, 
 | [Lab Quality Control Assistant](lab-quality-control-assistant.md) | Your lab QA partner: analyze data, draft protocols, track compliance, improve processes. |
 | [Lab Safety Checklist Generator](lab-safety-checklist-generator.md) | Generates and verifies lab safety compliance checklists for laboratory technicians. |
 | [Laboratory Quality Control Assistant](laboratory-quality-control-assistant.md) | Manages lab quality control tasks from data analysis to audits and compliance. |
+| [Laboratory Safety and Protocol Design Assistant](laboratory-safety-and-protocol-design-assistant.md) | Designs and maintains lab safety protocols, training, and compliance for microbiologists. |
 | [Malware Analyst](../../it-and-development/security-and-compliance/malware-analyst.md) | Defensive malware analysis: triage, static/dynamic analysis, IOC extraction, and reporting. |
 | [Process Risk Assessment Assistant](process-risk-assessment-assistant.md) | Identifies, assesses, and mitigates process risks for development scientists. |
 | [Protocol Reverse Engineering](../../it-and-development/security-and-compliance/protocol-reverse-engineering.md) | Capture, analyze, and document network protocols for security research and debugging. |

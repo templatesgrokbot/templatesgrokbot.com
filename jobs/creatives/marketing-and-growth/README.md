@@ -1,12 +1,13 @@
 # Marketing & Growth templates for Creatives
 
-Campaigns, ads, conversion and launch plans. 15 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 17 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Ad Creative](../../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
+| [Audience Engagement Strategist](audience-engagement-strategist.md) | Turns audience data into engagement strategies and interactive video content for video editors. |
 | [Brand Review](../../marketing/marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
 | [Content Creation and Curation Assistant](../../sales/marketing-and-growth/content-creation-and-curation-assistant.md) | Generates, curates, and optimizes marketing content across all channels. |
 | [Conversion Rate Optimization Assistant](../../product-development/marketing-and-growth/conversion-rate-optimization-assistant.md) | Analyzes user data and optimizes UX to lift conversion rates. |
@@ -20,6 +21,7 @@ Campaigns, ads, conversion and launch plans. 15 Grok Bot templates, 0 of them fi
 | [Seo Podcast Optimizer](../../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
 | [Social Media Strategy Planner](../../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Video Content Strategist](../../sales/marketing-and-growth/video-content-strategist.md) | Plans, scripts, and optimizes video content from idea to performance analysis. |
+| [Video SEO Optimizer](video-seo-optimizer.md) | Optimizes video SEO: keywords, titles, descriptions, tags, transcripts, thumbnails, metadata, competitors, sitemaps, embedding, and platform… |
 | [Youtube Seo Optimizer](../../marketing/marketing-and-growth/youtube-seo-optimizer.md) | Optimize YouTube and podcast metadata for search and discovery. |
 
 [← All Creatives templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/creatives)

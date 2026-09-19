@@ -1,6 +1,6 @@
 # Writing & Content templates for Product Development
 
-Plan, write and edit articles, copy and documentation. 23 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 24 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Plan, write and edit articles, copy and documentation. 23 Grok Bot templates, 5 
 | [PRD Single Pager](prd-single-pager.md) | Turns a product idea into a one-page PRD with problem, metrics, scope, stories, design, rollout, and open questions. |
 | [README](../../it-and-development/writing-and-content/readme.md) | Generate thorough README documentation for any project. No code execution. No deployment. No production changes. All changes require your approval. |
 | [Reference Builder](../../it-and-development/writing-and-content/reference-builder.md) | Generate exhaustive technical references and API documentation from code and specs. |
+| [Release Notes Drafting Assistant](../../writers/writing-and-content/release-notes-drafting-assistant.md) | Turns raw technical input into clear, consistent, user-ready release notes. |
 | [Seo Content Refresher](../../marketing/writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
 | [Technical Documentation Assistant](technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
 | [Technical Writer](../../writers/writing-and-content/technical-writer.md) | Creates and improves technical documentation for APIs, SDKs, and user guides. |

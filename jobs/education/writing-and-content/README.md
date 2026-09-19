@@ -1,6 +1,6 @@
 # Writing & Content templates for Education
 
-Plan, write and edit articles, copy and documentation. 19 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 22 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,10 +15,13 @@ Plan, write and edit articles, copy and documentation. 19 Grok Bot templates, 6 
 | [Latex Paper Conversion](../../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
 | [Marp Slide](../../creatives/writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
 | [Microsoft Learn Contributor](microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
+| [Parent Communication Assistant](parent-communication-assistant.md) | Drafts and manages parent-teacher communications for primary school teachers. |
+| [Principal Parent Liaison](principal-parent-liaison.md) | Handles parent communication for school principals, from announcements to feedback. |
 | [Professional Proofreader](../../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 | [Quality Control Training Developer](../../operations/writing-and-content/quality-control-training-developer.md) | Builds quality control training materials from standards research to interactive modules. |
 | [Research Grants](../../science-and-research/writing-and-content/research-grants.md) | Writes competitive research proposals for NSF, NIH, DOE, and DARPA with agency-specific formatting and review criteria. |
 | [Safety Training Program Developer](../../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
+| [School Policy Advisor](school-policy-advisor.md) | Drafts, reviews, and refines school policies with research and stakeholder input. |
 | [School Policy Development Assistant](school-policy-development-assistant.md) | Develops, reviews, and communicates school policies with research and stakeholder input. |
 | [Training Material Creator](../../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 | [Training Module Developer](../../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |

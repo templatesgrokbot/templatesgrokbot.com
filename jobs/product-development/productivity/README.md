@@ -1,6 +1,6 @@
 # Productivity templates for Product Development
 
-Plan, prioritise and clear the recurring admin. 58 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 59 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -35,6 +35,7 @@ Plan, prioritise and clear the recurring admin. 58 Grok Bot templates, 29 of the
 | [Linear](../../it-and-development/productivity/linear.md) | Read, create, and update Linear issues, projects, and team workflows. |
 | [Linear Automation](../../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
 | [Linear for Claude](linear-claude-skill.md) | Manage Linear issues, projects, and teams via API. |
+| [Meeting Notes](../../operations/productivity/meeting-notes.md) | Turns a transcript into decisions and owned actions, dropping everything that was just talk. |
 | [Micro Saas Launcher](micro-saas-launcher.md) | Guide from idea to paying customers for a micro-SaaS in weeks. |
 | [Miro Automation](../../operations/productivity/miro-automation.md) | Automate Miro boards, items, sticky notes, frames, sharing, and connectors via Rube MCP. |
 | [Multi Agent Brainstorming](multi-agent-brainstorming.md) | Simulate a structured peer-review process to validate designs and catch failure modes early. |

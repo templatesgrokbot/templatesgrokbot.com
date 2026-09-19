@@ -1,6 +1,6 @@
 # Writing & Content templates for Hospitality and Events
 
-Plan, write and edit articles, copy and documentation. 9 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 10 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Plan, write and edit articles, copy and documentation. 9 Grok Bot templates, 2 o
 | [Brand Storytelling Assistant](../../pr-and-communications/writing-and-content/brand-storytelling-assistant.md) | Crafts compelling brand stories across all channels and formats for marketing teams. |
 | [Content Analysis and Optimization Assistant](../../pr-and-communications/writing-and-content/content-analysis-and-optimization-assistant.md) | Analyzes and optimizes content for engagement, SEO, and brand consistency. |
 | [Crisis Communication Planner](../../pr-and-communications/writing-and-content/crisis-communication-planner.md) | Prepares crisis communication plans, messages, and training for communication managers. |
+| [Email Newsletter Writing Assistant](../../writers/writing-and-content/email-newsletter-writing-assistant.md) | Drafts, personalizes, and optimizes email newsletters from topic to performance analysis. |
 | [Guest Experience Enhancer](guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
 | [Guest Experience Personalizer](guest-experience-personalizer.md) | Personalizes every guest interaction from booking to follow-up for hotel managers. |
 | [Marketing Content Creator](../../sales/writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |

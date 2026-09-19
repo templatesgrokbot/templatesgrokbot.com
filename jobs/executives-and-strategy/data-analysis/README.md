@@ -1,6 +1,6 @@
 # Data Analysis templates for Executives and Strategy
 
-Clean, query, chart and explain data. 73 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 74 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -70,6 +70,7 @@ Clean, query, chart and explain data. 73 Grok Bot templates, 9 of them filed in 
 | [Startup Business Analyst Financial Projections](../../finance/data-analysis/startup-business-analyst-financial-projections.md) | Build 3-5 year financial models with revenue, costs, cash, and scenarios for startups. |
 | [Startup Financial Modeling](../../finance/data-analysis/startup-financial-modeling.md) | Build 3-5 year financial models with revenue, cost, cash flow, and scenario planning for startups. |
 | [Startup Metrics Framework](startup-metrics-framework.md) | Track and optimize startup KPIs from seed through Series A. |
+| [Student Performance Analysis Assistant](../../education/data-analysis/student-performance-analysis-assistant.md) | Analyzes student data to guide interventions, reports, and school strategy. |
 | [Supply Chain Optimization Assistant](../../management/data-analysis/supply-chain-optimization-assistant.md) | Optimizes your supply chain with data-driven insights and recommendations. |
 | [Talivia Agent Kit](../../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Team Composition Analysis](../../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |

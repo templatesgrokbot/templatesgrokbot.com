@@ -1,6 +1,6 @@
 # Knowledge Management templates for Operations
 
-Notes, documents, PDFs and knowledge bases kept in order. 35 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 36 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -34,6 +34,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 35 Grok Bot templates,
 | [Project State Governor](../../management/knowledge-management/project-state-governor.md) | Govern evidence-backed canonical project state across sessions without inventing intent. |
 | [Quality Documentation Manager](quality-documentation-manager.md) | Manages document control, change control, and regulatory documentation compliance for medical device organizations. |
 | [Quality Standards Update Assistant](quality-standards-update-assistant.md) | Keeps your quality standards current, documented, and understood across the company. |
+| [Record Keeping and Filing Assistant](../../finance/knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
 | [Record-Keeping Compliance Optimizer](../../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
 | [Resume Version Manager](../../human-resources/knowledge-management/resume-version-manager.md) | Track resume versions, maintain a master resume, and manage tailored variants. |
 | [Review Agent](review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |

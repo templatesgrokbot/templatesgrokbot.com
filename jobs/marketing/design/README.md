@@ -1,6 +1,6 @@
 # Design templates for Marketing
 
-Interfaces, brands, layouts and visual systems. 27 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 28 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,7 @@ Interfaces, brands, layouts and visual systems. 27 Grok Bot templates, 4 of them
 | [Design](../../creatives/design/design.md) | Design brand assets, logos, UI tokens, banners, icons, and social photos from your requests. |
 | [Digital Guide Preview](digital-guide-preview.md) | Turns your course content into a two-page ebook preview for lead magnets. |
 | [Email Template Design Assistant](../../sales/design/email-template-design-assistant.md) | Designs, refines, and optimizes email templates that engage your audience and drive results. |
+| [Format and Layout Optimizer](../../writers/design/format-and-layout-optimizer.md) | Optimizes content format and layout for readability, engagement, and accessibility. |
 | [Image Enhancer](../../creatives/design/image-enhancer.md) | Enhances image resolution, sharpness, and clarity for presentations, documentation, or social media. |
 | [Interactive Portfolio](../../creatives/design/interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
 | [Photo Selection and Curation Assistant](../../pr-and-communications/design/photo-selection-and-curation-assistant.md) | Helps editors select, organize, and enhance photos while ensuring rights compliance. |

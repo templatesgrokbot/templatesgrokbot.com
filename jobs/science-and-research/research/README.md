@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 181 Grok Bot templates, 151 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 186 Grok Bot templates, 156 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,8 @@ Find sources, compare evidence and summarise what is known. 181 Grok Bot templat
 | [Arboreto](arboreto.md) | Infer gene regulatory networks from gene expression data using GRNBoost2 or GENIE3. |
 | [Auto Research](auto-research.md) | Research uncertain questions via web or ChatGPT with user approval before implementation. |
 | [Bdistill Knowledge Extraction](bdistill-knowledge-extraction.md) | Extract structured, quality-scored domain knowledge from AI models without API keys. No training data generation. |
+| [Biochemical Literature Review Assistant](biochemical-literature-review-assistant.md) | Guides biochemists through literature reviews from search to synthesis. |
+| [Biofilm Research Assistant](biofilm-research-assistant.md) | Your biofilm research assistant for literature, data, design, and reporting. |
 | [Biomni](biomni.md) | Executes multi-step biomedical research tasks using an autonomous AI agent framework. |
 | [Biopython](biopython.md) | Runs Python molecular biology tasks using Biopython for sequence, structure, and database work. |
 | [Bioremediation Research Assistant](bioremediation-research-assistant.md) | Supports microbiologists with bioremediation research, data analysis, and strategy design. |
@@ -55,6 +57,7 @@ Find sources, compare evidence and summarise what is known. 181 Grok Bot templat
 | [Denario](denario.md) | Automates scientific research from data analysis to publication-ready LaTeX papers. |
 | [Detect Ai Text](detect-ai-text.md) | Estimate AI-written probability in prose documents with linguistic tells and honest abstention on non-prose. |
 | [Diffdock](diffdock.md) | Predicts 3D binding poses of small molecules to proteins using diffusion models. |
+| [Drug Interaction Prediction Assistant](drug-interaction-prediction-assistant.md) | Predicts and manages drug interactions for biochemists from data to reports. |
 | [Drugbank Database](drugbank-database.md) | Query and analyze DrugBank data for drug properties, interactions, targets, and chemical structures. |
 | [Dsh Deepread](../../education/research/dsh-deepread.md) | Evidence-first reading reports with knowledge maps and Feynman checks. |
 | [Efficient Web Research](efficient-web-research.md) | Token-efficient web research protocol that fetches minimum needed to answer. |
@@ -139,6 +142,8 @@ Find sources, compare evidence and summarise what is known. 181 Grok Bot templat
 | [Pi Web Search](../../it-and-development/research/pi-web-search.md) | Web search and fetch for Pi Agents using pi-web-access package. |
 | [Prior Art Analysis Assistant](../../legal/research/prior-art-analysis-assistant.md) | Streamlines prior art search, analysis, and reporting for patent agents. |
 | [Probiotic Research Assistant](probiotic-research-assistant.md) | Accelerates probiotic and prebiotic research from literature review to clinical trial design. |
+| [Protein Function Prediction Assistant](protein-function-prediction-assistant.md) | Predicts protein function, structure, interactions, and drug targets from sequence data. |
+| [Protein-DNA Interaction Analyst](protein-dna-interaction-analyst.md) | Analyze protein-DNA interactions from literature to experimental design with AI-assisted workflows. Complete biochemical research tasks efficiently. |
 | [Pubchem Database](pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Pubmed Database](pubmed-database.md) | Searches PubMed via E-utilities API for structured biomedical literature results. |
 | [Pyhealth](../../healthcare/research/pyhealth.md) | Build and deploy clinical ML models for EHR data, mortality prediction, and drug recommendation. |

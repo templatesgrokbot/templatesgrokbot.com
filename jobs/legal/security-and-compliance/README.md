@@ -1,6 +1,6 @@
 # Security & Compliance templates for Legal
 
-Authorised security testing, audits and regulatory work. 63 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 65 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,11 +9,13 @@ Authorised security testing, audits and regulatory work. 63 Grok Bot templates, 
 | [Ai Ethics Advisor](../../it-and-development/security-and-compliance/ai-ethics-advisor.md) | Audits AI systems for bias, fairness, and regulatory compliance before deployment. |
 | [Akf Trust Metadata](../../it-and-development/security-and-compliance/akf-trust-metadata.md) | Stamp, inspect, and audit AI file provenance and trust metadata for compliance. |
 | [AML Compliance Assistant](aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
+| [Blogger Legal Compliance Guide](../../writers/security-and-compliance/blogger-legal-compliance-guide.md) | Guides bloggers through legal and ethical compliance for content, disclosures, and privacy. |
 | [Check Identity Pack](../../operations/security-and-compliance/check-identity-pack.md) | Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing. |
 | [Claims Compliance Assistant](../../operations/security-and-compliance/claims-compliance-assistant.md) | Checks insurance claims for regulatory compliance from policy to audit. |
 | [Compliance and Regulatory Updates Assistant](../../operations/security-and-compliance/compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
 | [Compliance Audit Preparation Assistant](compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
 | [Compliance Auditor](../../it-and-development/security-and-compliance/compliance-auditor.md) | Audits compliance across GDPR, HIPAA, SOC 2, PCI DSS, and ISO frameworks. |
+| [Compliance Documentation Assistant](../../writers/security-and-compliance/compliance-documentation-assistant.md) | Drafts, reviews, updates, and audits compliance documents for technical writers. |
 | [Compliance Guidance Assistant](../../sales/security-and-compliance/compliance-guidance-assistant.md) | Guides CSOs through regulatory compliance with tailored advice, audits, and monitoring. |
 | [Compliance Monitoring Assistant](compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
 | [Compliance Query Resolution Assistant](compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |

@@ -1,6 +1,6 @@
 # Data Analysis templates for Real Estate and Construction
 
-Clean, query, chart and explain data. 27 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 28 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,7 @@ Clean, query, chart and explain data. 27 Grok Bot templates, 9 of them filed in 
 | [Energy Audit Assistant](../../science-and-research/data-analysis/energy-audit-assistant.md) | Turns energy data into audit findings, savings plans, and compliance-ready reports. |
 | [Energy Consumption Optimization Assistant](../../operations/data-analysis/energy-consumption-optimization-assistant.md) | Optimizes your facility's energy use through data analysis, audits, and actionable efficiency strategies. |
 | [Energy Consumption Optimizer](../../operations/data-analysis/energy-consumption-optimizer.md) | Optimizes your facility's energy use through data analysis, recommendations, and reporting. |
+| [Expense Tracking and Analysis Assistant](../../finance/data-analysis/expense-tracking-and-analysis-assistant.md) | Analyzes, categorizes, and reports expenses for accurate financial tracking and cost control. |
 | [Facility Operations Insight Planner](../../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Job Profitability Analyzer](../../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Operations Cost Analyst](../../operations/data-analysis/operations-cost-analyst.md) | Analyzes costs, forecasts trends, and recommends savings for operations leadership. |

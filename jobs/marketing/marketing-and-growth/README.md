@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 224 Grok Bot templates, 126 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 231 Grok Bot templates, 126 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,17 @@ Campaigns, ads, conversion and launch plans. 224 Grok Bot templates, 126 of them
 | [Ad Copy Generator](../../management/marketing-and-growth/ad-copy-generator.md) | Generates, refines, and optimizes ad copy for marketing campaigns. |
 | [Ad Copy Lab](ad-copy-lab.md) | Writes ad variants that test one different idea each, so the results mean something. |
 | [Ad Creative](ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
+| [Affiliate Marketing Content Planner](../../writers/marketing-and-growth/affiliate-marketing-content-planner.md) | Plan, create, and optimize affiliate content that converts, with research and performance insights. |
 | [AI Marketing Team](ai-marketing-team.md) | Runs campaign ideas through three marketing roles to catch blind spots before launch. |
 | [Alternatives Pages](alternatives-pages.md) | Create honest, high-converting competitor comparison pages for developer tools. |
 | [Apify Influencer Discovery](apify-influencer-discovery.md) | Find and evaluate influencers for brand partnerships across Instagram, Facebook, YouTube, and TikTok. |
 | [App Store Optimization](app-store-optimization.md) | Research, optimize, and track mobile app performance on both app stores. |
+| [Audience Engagement Strategist](../../creatives/marketing-and-growth/audience-engagement-strategist.md) | Turns audience data into engagement strategies and interactive video content for video editors. |
 | [Audience Segmentation Strategist](../../pr-and-communications/marketing-and-growth/audience-segmentation-strategist.md) | Turns customer data into audience segments and targeted marketing strategies. |
 | [Awareness Stage Mapper](awareness-stage-mapper.md) | Diagnose audience awareness stage and calibrate persuasion strategy. |
 | [B2B Value Proposition Mapper](b2b-value-proposition-mapper.md) | Maps product features to customer pain points and delivers ranked value propositions per persona. |
+| [Blog Revenue Strategist](../../writers/marketing-and-growth/blog-revenue-strategist.md) | Turns your blog content into revenue with research, planning, and promotion across channels. |
+| [Blog SEO Optimizer](../../writers/marketing-and-growth/blog-seo-optimizer.md) | Optimizes blog SEO through keyword research, on-page fixes, audits, and link strategies. |
 | [Brand Development Manager](../../sales/marketing-and-growth/brand-development-manager.md) | Develops and manages a brand's voice, content, and reputation across digital channels. |
 | [Brand Messaging Alignment Assistant](../../pr-and-communications/marketing-and-growth/brand-messaging-alignment-assistant.md) | Aligns your brand messaging across all channels and teams. |
 | [Brand Perception Psychologist](brand-perception-psychologist.md) | Diagnose brand perception gaps and prescribe alignment changes using psychological frameworks. |
@@ -92,6 +96,7 @@ Campaigns, ads, conversion and launch plans. 224 Grok Bot templates, 126 of them
 | [Geo Fundamentals](geo-fundamentals.md) | Audits content for citation by AI search engines like ChatGPT, Claude, and Perplexity. |
 | [Github Presence](github-presence.md) | Optimize GitHub profiles, READMEs, and project discoverability. |
 | [Growth Engine](growth-engine.md) | Growth engine for digital products with growth hacking, SEO, and viral loops. |
+| [Guest Blogging Manager](../../writers/marketing-and-growth/guest-blogging-manager.md) | Finds guest blogging targets, pitches, writes, tracks, and promotes posts to grow your blog's reach. |
 | [Headline Psychologist](headline-psychologist.md) | Engineer headlines that create curiosity gaps and trigger attention without clickbait. |
 | [Hotel Marketing Strategist](../../hospitality-and-events/marketing-and-growth/hotel-marketing-strategist.md) | Marketing strategy assistant for hotel managers, from research to campaign optimization. |
 | [Identity Mirror](identity-mirror.md) | Mirror audience identity to make brand messages feel personally resonant. |
@@ -163,6 +168,7 @@ Campaigns, ads, conversion and launch plans. 224 Grok Bot templates, 126 of them
 | [Product Placement Optimizer](../../management/marketing-and-growth/product-placement-optimizer.md) | Optimizes retail product placement using sales data, customer insights, and traffic patterns. |
 | [Programmatic Seo](programmatic-seo.md) | Design programmatic SEO strategies that scale quality, not thin content. |
 | [Public Relations](../../pr-and-communications/marketing-and-growth/public-relations.md) | Help you earn press coverage through journalist pitching and media strategy. |
+| [Reader Engagement Planner](../../writers/marketing-and-growth/reader-engagement-planner.md) | Plans and drafts reader engagement activities for bloggers, from quizzes to events. |
 | [Real Estate Lead Generator](../../real-estate-and-construction/marketing-and-growth/real-estate-lead-generator.md) | Generates and nurtures real estate leads through content, outreach, and data analysis. |
 | [Real Estate Marketing Planner](../../real-estate-and-construction/marketing-and-growth/real-estate-marketing-planner.md) | Plan and produce real estate marketing content, campaigns, and brand assets. |
 | [Referral Program](referral-program.md) | Designs and optimizes referral and affiliate programs to turn customers into growth engines. |
@@ -227,6 +233,7 @@ Campaigns, ads, conversion and launch plans. 224 Grok Bot templates, 126 of them
 | [Video Content Strategist](../../sales/marketing-and-growth/video-content-strategist.md) | Plans, scripts, and optimizes video content from idea to performance analysis. |
 | [Video Marketing Campaign Assistant](../../pr-and-communications/marketing-and-growth/video-marketing-campaign-assistant.md) | Plans, scripts, optimizes, and analyzes video marketing campaigns from idea to distribution. |
 | [Video Marketing Strategy Planner](../../sales/marketing-and-growth/video-marketing-strategy-planner.md) | Plans, scripts, optimizes, and analyzes video marketing for digital marketing managers. |
+| [Video SEO Optimizer](../../creatives/marketing-and-growth/video-seo-optimizer.md) | Optimizes video SEO: keywords, titles, descriptions, tags, transcripts, thumbnails, metadata, competitors, sitemaps, embedding, and platform… |
 | [Wechat Official Account Strategist](wechat-official-account-strategist.md) | Grow WeChat Official Accounts with high-conversion content strategy and title formulas. |
 | [Write SEO Articles](seo-artikel-schreiben.md) | Writes SEO articles that rank by analyzing live SERPs and matching search intent. |
 | [Youtube Seo Optimizer](youtube-seo-optimizer.md) | Optimize YouTube and podcast metadata for search and discovery. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,492 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,493 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,7 +28,7 @@ Engineers, DevOps, security and IT teams. **2,492 ready-made Grok Bot templates*
 | [Office Tools](office-tools/README.md) | 11 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 7 |
-| [Support & Community](support-and-community/README.md) | 5 |
+| [Support & Community](support-and-community/README.md) | 6 |
 | [Self-Improvement](self-improvement/README.md) | 4 |
 | [Video Editing](video-editing/README.md) | 3 |
 | [Generative Video](generative-video/README.md) | 2 |
@@ -295,6 +295,7 @@ Engineers, DevOps, security and IT teams. **2,492 ready-made Grok Bot templates*
 |---|---|
 | [Freshservice Automation](support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
 | [Community Building](../operations/support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
+| [Office Tech Troubleshooter](../finance/support-and-community/office-tech-troubleshooter.md) | Guides you through office tech fixes step by step, from printers to cloud storage. |
 | [Intercom Automation](../customer-support/support-and-community/intercom-automation.md) | Automate Intercom conversations, contacts, companies, and admins via Composio. |
 | [Man Page Reference](support-and-community/man-page-reference.md) | Answers questions about the golden_man_kw command-line tools and their man pages. |
 | [Golden Man Reference](support-and-community/golden-man-reference.md) | Answers questions about golden_man command-line tools and their man pages. |

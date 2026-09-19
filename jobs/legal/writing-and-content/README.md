@@ -1,6 +1,6 @@
 # Writing & Content templates for Legal
 
-Plan, write and edit articles, copy and documentation. 9 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 10 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,5 +15,6 @@ Plan, write and edit articles, copy and documentation. 9 Grok Bot templates, 8 o
 | [Legal Document Drafting Assistant](legal-document-drafting-assistant.md) | Drafts, reviews, and manages legal documents for paralegals. |
 | [Patent Client Communication Assistant](patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
 | [Patent Document Drafter](patent-document-drafter.md) | Drafts and manages patent documents, from applications to litigation support, for patent agents. |
+| [Professional Proofreader](../../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 
 [← All Legal templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/legal)

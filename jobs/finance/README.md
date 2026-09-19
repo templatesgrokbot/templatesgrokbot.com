@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **173 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,21 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 89 |
-| [Research](research/README.md) | 11 |
+| [Data Analysis](data-analysis/README.md) | 100 |
+| [Productivity](productivity/README.md) | 17 |
+| [Research](research/README.md) | 12 |
 | [Coding](coding/README.md) | 9 |
-| [Productivity](productivity/README.md) | 7 |
-| [Security & Compliance](security-and-compliance/README.md) | 5 |
+| [Security & Compliance](security-and-compliance/README.md) | 9 |
+| [Office Tools](office-tools/README.md) | 8 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 4 |
-| [Office Tools](office-tools/README.md) | 4 |
-| [Writing & Content](writing-and-content/README.md) | 3 |
+| [Writing & Content](writing-and-content/README.md) | 4 |
+| [Knowledge Management](knowledge-management/README.md) | 2 |
+| [Support & Community](support-and-community/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
-| [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
+| [Social Media](social-media/README.md) | 1 |
 
 ## Data Analysis
 
@@ -42,7 +44,10 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 | [Board Deck Generator](../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates professional board meeting presentation content with executive summary, financials, and strategic updates. |
 | [Bounty Hunter](data-analysis/bounty-hunter.md) | Identifies unclaimed, owed, or wasted money and recommends how to recover it. |
 | [Budget Forecast Assistant](../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
+| [Budget Forecasting Assistant](data-analysis/budget-forecasting-assistant.md) | Build and maintain accurate budget forecasts from your financial data. |
 | [Cash Flow Forecaster](data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your bank, AR, AP, and payroll data, flagging crunch weeks. |
+| [Cash Flow Management Assistant](data-analysis/cash-flow-management-assistant.md) | Cash flow forecasting, tracking, reporting, and optimization for accountants, from data to decisions. |
+| [Client Financial Advisory Assistant](data-analysis/client-financial-advisory-assistant.md) | Prepares client financial advice across statements, budgets, taxes, investments, retirement, risk, cash flow, debt, valuation, succession, estate,… |
 | [Compliance Cost Analyst](../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Contract Report Builder](../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Cost Reduction Analyst](../management/data-analysis/cost-reduction-analyst.md) | Finds and validates cost reduction opportunities for service managers. |
@@ -51,6 +56,7 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 | [Data Analysis Assistant](../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
 | [Data Analyst](../science-and-research/data-analysis/data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
 | [Data Cleaner](../it-and-development/data-analysis/data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
+| [Data Entry and Database Management Assistant](data-analysis/data-entry-and-database-management-assistant.md) | Handles data entry, database upkeep, validation, migration, analysis, reporting, security, and backups for administrative assistants. |
 | [Data Reporting Assistant](../operations/data-analysis/data-reporting-assistant.md) | Turns raw data into clean, analyzed, and presentation-ready reports for data entry specialists. |
 | [Deal Room Risk Analyst](data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
 | [Doordash Order Ledger](../operations/data-analysis/doordash-order-ledger.md) | Answers questions about DoorDash spending and ordering history from an audit log. |
@@ -63,11 +69,16 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 | [Executive Forecast Report Builder](../management/data-analysis/executive-forecast-report-builder.md) | Turns financial data into forecasts, scenarios, and reports for senior management decisions. |
 | [Executive Market Trend Forecaster](../management/data-analysis/executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
 | [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
+| [Expense Tracking and Analysis Assistant](data-analysis/expense-tracking-and-analysis-assistant.md) | Analyzes, categorizes, and reports expenses for accurate financial tracking and cost control. |
+| [Financial Data Interpreter](data-analysis/financial-data-interpreter.md) | Interprets financial data and drafts reports for accountants. |
 | [Financial Document Parser](data-analysis/financial-document-parser.md) | Extracts structured data from financial documents and categorizes expenses. |
 | [Financial Forecasting Assistant](../management/data-analysis/financial-forecasting-assistant.md) | Turns your business unit's financial data into forecasts, reports, and risk insights. |
+| [Financial Modeling Assistant](data-analysis/financial-modeling-assistant.md) | Builds financial models and analyses for accounting decisions. |
 | [Financial Modeling Consultant](../management/data-analysis/financial-modeling-consultant.md) | Builds and analyzes financial models for management consulting decisions. |
+| [Financial Reporting Assistant](data-analysis/financial-reporting-assistant.md) | Prepares, analyzes, and reviews financial reports with compliance and stakeholder insights. |
 | [Freight Broker Financial Analyst](../sales/data-analysis/freight-broker-financial-analyst.md) | Analyzes freight brokerage finances and market data to guide profitable decisions. |
 | [Insurance Finance Reporting Assistant](../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
+| [Investment Analysis Assistant](data-analysis/investment-analysis-assistant.md) | Analyzes investments, builds valuations, and drafts reports for accountant decisions. |
 | [Invoice Organizer](../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
 | [Job Profitability Analyzer](data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Legal Billing Systems Assistant](../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
@@ -76,6 +87,7 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 | [Longbridge Fundamentals](data-analysis/longbridge-fundamentals.md) | Pull financial statements, valuation multiples, and company profiles for HK/US/A-share/Singapore stocks via Longbridge. |
 | [Longbridge Market Data](data-analysis/longbridge-market-data.md) | Real-time quotes, K-lines, order book, trades, capital flow, sentiment, and IPO data for HK/US/A/SG markets via Longbridge. |
 | [M&A Evaluation Assistant](../management/data-analysis/m-a-evaluation-assistant.md) | M&A evaluation assistant for senior managers: screening, due diligence, valuation, integration, and post-merger analysis. |
+| [M&A Financial Analysis Assistant](data-analysis/m-a-financial-analysis-assistant.md) | Supports accountants through every stage of M&A, from due diligence to post-merger analysis. |
 | [Market Sizing Analysis](../executives-and-strategy/data-analysis/market-sizing-analysis.md) | Calculate TAM, SAM, and SOM for startup market sizing with three methodologies. |
 | [Mathguard](../it-and-development/data-analysis/mathguard.md) | Math-heavy optimization for large-scale data (n ≥ 10⁶) using probabilistic structures, transforms, and geometry. |
 | [Medical Bill Auditor](data-analysis/medical-bill-auditor.md) | Audits medical bills against insurance EOBs, finds errors, and drafts disputes. |
@@ -102,6 +114,7 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 | [Risk Manager](data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
 | [School Budget Analysis Assistant](../education/data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
+| [School Budget Forecaster](../education/data-analysis/school-budget-forecaster.md) | Turns your school's financial data into clear, defensible budget forecasts and reports. |
 | [Senior Manager Decision Support](../management/data-analysis/senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
 | [Spend Analysis Assistant](../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Spreadsheet](data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
@@ -119,6 +132,28 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 | [Xvary Stock Research](data-analysis/xvary-stock-research.md) | Thesis-driven equity analysis from public SEC EDGAR and market data. No advice, no non-public data. |
 | [Yield Intelligence](data-analysis/yield-intelligence.md) | Analyze passive income opportunities and build yield-optimized portfolios. |
 
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Admin Task Prioritizer](productivity/admin-task-prioritizer.md) | Prioritizes tasks, tracks deadlines, and coordinates schedules for administrative assistants. |
+| [Billing Automation](../operations/productivity/billing-automation.md) | Implement automated billing, invoicing, and payment recovery for SaaS subscriptions. |
+| [Credit Card Max](productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
+| [Expense Reporting Assistant](productivity/expense-reporting-assistant.md) | Manages expense tracking, reporting, compliance, and vendor communication for administrative assistants. |
+| [Finance Event Orchestrator](productivity/finance-event-orchestrator.md) | Plans, coordinates, and tracks every detail of your events from venue to post-event feedback. |
+| [Internal Communication Coordinator](productivity/internal-communication-coordinator.md) | Manages internal communications for administrative assistants in finance. |
+| [Inventory and Supply Manager](productivity/inventory-and-supply-manager.md) | Manages inventory, orders, vendors, budgets, and reports for administrative assistants. |
+| [Invoice Chaser](productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
+| [Legal Billing and Timekeeping Assistant](../legal/productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
+| [Meeting Coordination Assistant](productivity/meeting-coordination-assistant.md) | Handles scheduling, invitations, logistics, agendas, reminders, RSVPs, minutes, virtual setups, materials, follow-ups, surveys, and travel for… |
+| [Meeting Notes](../operations/productivity/meeting-notes.md) | Turns a transcript into decisions and owned actions, dropping everything that was just talk. |
+| [Odoo Project Timesheet](../operations/productivity/odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
+| [Payroll Process Assistant](productivity/payroll-process-assistant.md) | Assists accountants in managing payroll tasks from data entry to year-end filings. |
+| [Project Coordination Assistant](productivity/project-coordination-assistant.md) | Handles project scheduling, documents, communication, budgets, research, reports, and coordination for administrative assistants. |
+| [Stripe Automation](productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
+| [Travel Arrangements Assistant](productivity/travel-arrangements-assistant.md) | Plans and books business travel, tracks expenses, and keeps trips compliant. |
+| [Vendor Watch](../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
+
 ## Research
 
 | Template | What it does |
@@ -128,6 +163,7 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 | [Helium Mcp](../science-and-research/research/helium-mcp.md) | Search news with bias analysis, get balanced perspectives, and look up live stock/options data. |
 | [Longbridge Content](research/longbridge-content.md) | Fetches stock news, filings, community topics, and SEC EDGAR analysis via Longbridge, no login, in your language. |
 | [Maxia](../operations/research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
+| [Research and Reporting Assistant](research/research-and-reporting-assistant.md) | Gathers, analyzes, and reports research data for administrative finance support. |
 | [Screen Adverse Media](../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
 | [SRED Project Organizer](../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
 | [Sustainable Investment Research Assistant](../science-and-research/research/sustainable-investment-research-assistant.md) | Sustainable investment research assistant for sustainability analysts. |
@@ -149,27 +185,32 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 | [Stripe Integration](../it-and-development/coding/stripe-integration.md) | Implement Stripe payments, subscriptions, webhooks and refunds with verified server-side authorization. |
 | [X402 Express Wrapper](../it-and-development/coding/x402-express-wrapper.md) | Monetize APIs and MCP servers with USDC micropayments via x402 middleware. |
 
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Billing Automation](../operations/productivity/billing-automation.md) | Implement automated billing, invoicing, and payment recovery for SaaS subscriptions. |
-| [Credit Card Max](productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
-| [Invoice Chaser](productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
-| [Legal Billing and Timekeeping Assistant](../legal/productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
-| [Odoo Project Timesheet](../operations/productivity/odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
-| [Stripe Automation](productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
-| [Vendor Watch](../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
-
 ## Security & Compliance
 
 | Template | What it does |
 |---|---|
+| [Accounting Compliance Review Copilot](security-and-compliance/accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: review, audit, report, and train. |
 | [AML Compliance Assistant](../legal/security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
+| [Audit Ready File Builder](security-and-compliance/audit-ready-file-builder.md) | Prepares audit files, documents, and responses so your audit runs smoothly and nothing is missed. |
 | [Business Unit Risk Manager](../management/security-and-compliance/business-unit-risk-manager.md) | Risk management assistant for business unit managers covering identification, assessment, mitigation, monitoring, and reporting. |
 | [Pci Compliance](security-and-compliance/pci-compliance.md) | Guide PCI DSS compliance for secure payment processing and cardholder data handling. |
 | [Risk Assessment and Analysis Assistant](../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
+| [Risk Assessment Assistant](security-and-compliance/risk-assessment-assistant.md) | Identifies, evaluates, and documents risks for accountants, with mitigation and reporting support. |
 | [Risk Management Analysis Assistant](../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
+| [Tax Regulation Monitor](security-and-compliance/tax-regulation-monitor.md) | Monitors tax regulation changes and produces compliance tools for accountants. |
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Bilig Workpaper](office-tools/bilig-workpaper.md) | Use formula-backed WorkPaper JSON and MCP tools for agent spreadsheet tasks without driving Excel or a browser UI. |
+| [Calc](../operations/office-tools/calc.md) | Create, convert, and automate spreadsheets with LibreOffice Calc. |
+| [Document Preparation and Formatting Assistant](office-tools/document-preparation-and-formatting-assistant.md) | Prepares, formats, and polishes all business documents for administrative assistants. |
+| [Email Management Assistant](office-tools/email-management-assistant.md) | Manages your inbox end-to-end: sorting, drafting, scheduling, tracking, and securing email. |
+| [Excel Spreadsheets](../operations/office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
+| [Finance Calendar Concierge](office-tools/finance-calendar-concierge.md) | Manages your calendar, bookings, reminders, and scheduling conflicts end to end. |
+| [Odoo Accounting Setup](../operations/office-tools/odoo-accounting-setup.md) | Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation. |
+| [Presentation Preparation Assistant](office-tools/presentation-preparation-assistant.md) | Prepares complete presentations for administrative assistants in finance, from research to follow-up. |
 
 ## Cloud & DevOps
 
@@ -180,15 +221,6 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 | [Odoo L10n Compliance](../operations/cloud-and-devops/odoo-l10n-compliance.md) | Configure Odoo localization and e-invoicing for country-specific tax compliance. |
 | [Square Automation](../it-and-development/cloud-and-devops/square-automation.md) | Automate Square payments, orders, invoices, and locations via Rube MCP. |
 
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [Bilig Workpaper](office-tools/bilig-workpaper.md) | Use formula-backed WorkPaper JSON and MCP tools for agent spreadsheet tasks without driving Excel or a browser UI. |
-| [Calc](../operations/office-tools/calc.md) | Create, convert, and automate spreadsheets with LibreOffice Calc. |
-| [Excel Spreadsheets](../operations/office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
-| [Odoo Accounting Setup](../operations/office-tools/odoo-accounting-setup.md) | Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation. |
-
 ## Writing & Content
 
 | Template | What it does |
@@ -196,6 +228,21 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 | [Doc Chaser Lite](../operations/writing-and-content/doc-chaser-lite.md) | Drafts one friendly document-request email for a tax client from a brief and practice profile. |
 | [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
 | [Sustainability Report Builder](../science-and-research/writing-and-content/sustainability-report-builder.md) | Turns ESG data into accurate, compliant sustainability reports for analysts. |
+| [Sustainability Reporting Assistant](writing-and-content/sustainability-reporting-assistant.md) | Guides accountants through every stage of sustainability reporting, from data to disclosure. |
+
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Data Room Builder](knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
+| [Record Keeping and Filing Assistant](knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Customer Service Support Assistant](support-and-community/customer-service-support-assistant.md) | Handles customer service tasks from inquiry to analysis for an administrative assistant. |
+| [Office Tech Troubleshooter](support-and-community/office-tech-troubleshooter.md) | Guides you through office tech fixes step by step, from printers to cloud storage. |
 
 ## Teaching & Tutoring
 
@@ -203,12 +250,6 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 |---|---|
 | [Tax Strategy Optimizer](teaching-and-tutoring/tax-strategy-optimizer.md) | Optimize your tax strategy with clear, actionable recommendations. |
 | [Warren Buffett](../education/teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Data Room Builder](knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
 
 ## Marketing & Growth
 
@@ -227,5 +268,11 @@ Accounting, budgeting, analysis and risk. **138 ready-made Grok Bot templates** 
 | Template | What it does |
 |---|---|
 | [Financial Goal Planner](self-improvement/financial-goal-planner.md) | Turns savings goals into timelines, monthly targets, and investment plans. |
+
+## Social Media
+
+| Template | What it does |
+|---|---|
+| [Finance Social Media Manager](social-media/finance-social-media-manager.md) | Manages your social media content, engagement, analytics, and trends from one chat. |
 
 [← All job fields](../../README.md#browse-by-job) · [Finance on the website](https://templatesgrokbot.com/jobs/finance)

@@ -1,6 +1,6 @@
 # Grok Bot templates for Insurance
 
-Underwriting, claims and policy work. **88 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Underwriting, claims and policy work. **89 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,7 +15,7 @@ Underwriting, claims and policy work. **88 ready-made Grok Bot templates** for t
 | [Security & Compliance](security-and-compliance/README.md) | 15 |
 | [Support & Community](support-and-community/README.md) | 14 |
 | [Productivity](productivity/README.md) | 9 |
-| [Knowledge Management](knowledge-management/README.md) | 4 |
+| [Knowledge Management](knowledge-management/README.md) | 5 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
 | [Research](research/README.md) | 3 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
@@ -121,6 +121,7 @@ Underwriting, claims and policy work. **88 ready-made Grok Bot templates** for t
 | [Document Digitization Assistant](../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
 | [Insurance Product Knowledge Manager](../management/knowledge-management/insurance-product-knowledge-manager.md) | Keeps insurance agency managers and their agents product-smart and ready to advise. |
 | [Insurance Training and Knowledge Manager](../customer-support/knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
+| [Record Keeping and Filing Assistant](../finance/knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
 | [Record-Keeping Compliance Optimizer](../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
 
 ## Writing & Content

@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 97 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 100 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,8 @@ Clean, query, chart and explain data. 97 Grok Bot templates, 28 of them filed in
 | [Apify Lead Generation](../../sales/data-analysis/apify-lead-generation.md) | Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors. |
 | [Apify Trend Analysis](apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
 | [Audience Compass Strategist](../../pr-and-communications/data-analysis/audience-compass-strategist.md) | Analyzes audience data to sharpen communication strategy and engagement. |
+| [Blog Analytics Interpreter](../../writers/data-analysis/blog-analytics-interpreter.md) | Turns your blog and marketing data into clear, actionable insights for better decisions. |
+| [Blog Audience Insight Analyst](../../writers/data-analysis/blog-audience-insight-analyst.md) | Analyze your blog audience and tailor content with data-driven insights. |
 | [Brand Image Analyst](../../management/data-analysis/brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
 | [Brand Loyalty Insights Assistant](../../management/data-analysis/brand-loyalty-insights-assistant.md) | Analyzes brand loyalty data and delivers actionable insights for strategic brand management. |
 | [Brand Perception Analyst](../../management/data-analysis/brand-perception-analyst.md) | Analyzes brand perception from reviews, social media, and surveys to guide strategy. |
@@ -100,6 +102,7 @@ Clean, query, chart and explain data. 97 Grok Bot templates, 28 of them filed in
 | [Social Pulse Insight Scout](../../science-and-research/data-analysis/social-pulse-insight-scout.md) | Analyzes social media data to reveal trends, sentiment, and influencers for market research. |
 | [Supply Chain Impact Assessor](../../management/data-analysis/supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |
 | [Talivia Agent Kit](talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
+| [Trend Analysis Content Assistant](../../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
 | [Web Analytics Monitoring Assistant](../../sales/data-analysis/web-analytics-monitoring-assistant.md) | Turns your web analytics data into clear insights and actions for better marketing decisions. |
 | [Website Analytics Optimizer](../../sales/data-analysis/website-analytics-optimizer.md) | Analyzes website data and delivers optimization recommendations for digital marketing specialists. |
 | [X Twitter Scraper](../../operations/data-analysis/x-twitter-scraper.md) | X data extraction and giveaway draws via the Xquik API, read-only. |

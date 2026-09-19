@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **175 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **185 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,13 +12,13 @@ Press, internal comms and reputation. **175 ready-made Grok Bot templates** for 
 | Kind of work | Templates |
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 50 |
-| [Writing & Content](writing-and-content/README.md) | 40 |
+| [Writing & Content](writing-and-content/README.md) | 46 |
 | [Social Media](social-media/README.md) | 26 |
-| [Data Analysis](data-analysis/README.md) | 21 |
+| [Data Analysis](data-analysis/README.md) | 22 |
 | [Research](research/README.md) | 16 |
-| [Productivity](productivity/README.md) | 9 |
-| [Design](design/README.md) | 5 |
-| [Support & Community](support-and-community/README.md) | 3 |
+| [Productivity](productivity/README.md) | 10 |
+| [Design](design/README.md) | 6 |
+| [Support & Community](support-and-community/README.md) | 4 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 3 |
 | [Security & Compliance](security-and-compliance/README.md) | 2 |
 
@@ -81,6 +81,7 @@ Press, internal comms and reputation. **175 ready-made Grok Bot templates** for 
 
 | Template | What it does |
 |---|---|
+| [Audience Insight and Content Planner](../writers/writing-and-content/audience-insight-and-content-planner.md) | Turns audience data into content plans that fit your readers. |
 | [Blog Writing Guide](../marketing/writing-and-content/blog-writing-guide.md) | Draft and edit Sentry blog posts with a senior-engineer voice, technical depth, and zero marketing fluff. |
 | [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 | [Brand Storytelling Assistant](writing-and-content/brand-storytelling-assistant.md) | Crafts compelling brand stories across all channels and formats for marketing teams. |
@@ -90,12 +91,15 @@ Press, internal comms and reputation. **175 ready-made Grok Bot templates** for 
 | [Compliance Communication Planner](../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Content Analysis and Optimization Assistant](writing-and-content/content-analysis-and-optimization-assistant.md) | Analyzes and optimizes content for engagement, SEO, and brand consistency. |
 | [Content Editing Assistant](writing-and-content/content-editing-assistant.md) | Edits content for grammar, style, clarity, facts, and audience fit. |
+| [Content Idea Generator](../writers/writing-and-content/content-idea-generator.md) | Generates content ideas, trends, keywords, and formats for writers. |
+| [Content Repurposing Assistant](../writers/writing-and-content/content-repurposing-assistant.md) | Repurposes your existing content into fresh formats for wider reach and engagement. |
 | [Copywriting Support Assistant](writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
 | [Crisis Communication Content Creator](writing-and-content/crisis-communication-content-creator.md) | Crisis content creator for communication managers, drafting and coordinating all crisis messaging. |
 | [Crisis Communication Planner](writing-and-content/crisis-communication-planner.md) | Prepares crisis communication plans, messages, and training for communication managers. |
 | [Crossframe Dialogue](../writers/writing-and-content/crossframe-dialogue.md) | Short, structured replies for reader questions, editorial responses, and consultation-style answers. |
 | [Developer Advocacy](../marketing/writing-and-content/developer-advocacy.md) | Prep conference talks, live demos, podcast pitches, and public builds with structured checklists and templates. |
 | [Digital Content Creation Workspace](writing-and-content/digital-content-creation-workspace.md) | Turns research and ideas into polished, scheduled content across all digital platforms for PR specialists. |
+| [Drafting Content Assistant](../writers/writing-and-content/drafting-content-assistant.md) | Drafts, refines, and optimizes your written content from research to final polish. |
 | [Editorial Trend Analyst](writing-and-content/editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
 | [Headline Crafting Assistant](writing-and-content/headline-crafting-assistant.md) | Crafts and optimizes headlines for editors using research, testing, and performance data. |
 | [Internal Comms Anthropic](writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
@@ -115,12 +119,14 @@ Press, internal comms and reputation. **175 ready-made Grok Bot templates** for 
 | [PR Speech Architect](writing-and-content/pr-speech-architect.md) | Drafts, refines, and tailors speeches for any occasion, from product launches to crisis responses. |
 | [Press Conference Simulator](writing-and-content/press-conference-simulator.md) | Generates authentic coach and player press conference responses for any sports scenario. |
 | [Press Release Writer and Distributor](writing-and-content/press-release-writer-and-distributor.md) | Drafts, distributes, and analyzes press releases for PR professionals. |
+| [Professional Proofreader](../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 | [Receptionist Communication Assistant](../customer-support/writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
 | [Reputation Management Assistant](writing-and-content/reputation-management-assistant.md) | Reputation monitoring, response drafting, and crisis planning for media relations specialists. |
 | [Speech Writing Assistant](writing-and-content/speech-writing-assistant.md) | Crafts, refines, and tailors speeches for public relations professionals. |
 | [Stakeholder Communication Assistant](writing-and-content/stakeholder-communication-assistant.md) | Drafts, plans, and coordinates all stakeholder communications for PR specialists. |
 | [Stakeholder Communication Coordinator](../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
 | [Stakeholder Engagement Strategist](../science-and-research/writing-and-content/stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
+| [Title and Headline Creation Assistant](../writers/writing-and-content/title-and-headline-creation-assistant.md) | Generates and optimizes titles and headlines for content writers. |
 
 ## Social Media
 
@@ -178,6 +184,7 @@ Press, internal comms and reputation. **175 ready-made Grok Bot templates** for 
 | [Sentiment Insight Compiler](../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Social Media Engagement Analyst](../management/data-analysis/social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
 | [Social Pulse Insight Scout](../science-and-research/data-analysis/social-pulse-insight-scout.md) | Analyzes social media data to reveal trends, sentiment, and influencers for market research. |
+| [Trend Analysis Content Assistant](../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
 
 ## Research
 
@@ -210,6 +217,7 @@ Press, internal comms and reputation. **175 ready-made Grok Bot templates** for 
 | [Event Planning and Management Assistant](productivity/event-planning-and-management-assistant.md) | Plans, promotes, and runs your events from venue to post-event report. |
 | [Event Planning Coordinator](productivity/event-planning-coordinator.md) | Plans and coordinates events end-to-end for PR specialists, from venue to evaluation. |
 | [Hotel Crisis Management Planner](../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
+| [Internal Communication Coordinator](../finance/productivity/internal-communication-coordinator.md) | Manages internal communications for administrative assistants in finance. |
 | [Operations Crisis Blueprint](../operations/productivity/operations-crisis-blueprint.md) | Crisis management planning assistant for global operations heads, from risk assessment to post-crisis evaluation. |
 | [Production Communication Coordinator](../operations/productivity/production-communication-coordinator.md) | Coordinates all production communication: emails, meetings, calls, documents, crises, and stakeholder updates. |
 | [Stakeholder Communication Planner](../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
@@ -221,6 +229,7 @@ Press, internal comms and reputation. **175 ready-made Grok Bot templates** for 
 | [Anthropic Brand Application](../creatives/design/anthropic-brand-guidelines.md) | Applies Anthropic brand standards to artifacts: colors, typography, visual language. |
 | [Brand Guidelines](../marketing/design/brand-guidelines.md) | Apply brand colors, typography, and tone to user-facing content and artifacts. |
 | [Editorial Layout Design Assistant](design/editorial-layout-design-assistant.md) | Design layout and typography suggestions for editors, from fonts to responsive grids. |
+| [Format and Layout Optimizer](../writers/design/format-and-layout-optimizer.md) | Optimizes content format and layout for readability, engagement, and accessibility. |
 | [Photo Selection and Curation Assistant](design/photo-selection-and-curation-assistant.md) | Helps editors select, organize, and enhance photos while ensuring rights compliance. |
 | [Visual Brand Identity Designer](design/visual-brand-identity-designer.md) | Visual brand identity assistant for logos, palettes, typography, and all design collateral. |
 
@@ -228,6 +237,7 @@ Press, internal comms and reputation. **175 ready-made Grok Bot templates** for 
 
 | Template | What it does |
 |---|---|
+| [Comment Moderation Assistant](../writers/support-and-community/comment-moderation-assistant.md) | Moderate blog comments efficiently while keeping your community safe and engaged. |
 | [Community Outreach Planner](support-and-community/community-outreach-planner.md) | Plans, drafts, and tracks community outreach for crisis communications managers. |
 | [Review Response Writer](support-and-community/review-response-writer.md) | Writes review responses in your voice, triages each review, and flags escalations. |
 | [School Community Engagement Coordinator](../education/support-and-community/school-community-engagement-coordinator.md) | Plans and runs community engagement for your school, from events to newsletters. |

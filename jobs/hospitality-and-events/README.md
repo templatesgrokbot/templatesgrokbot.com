@@ -1,6 +1,6 @@
 # Grok Bot templates for Hospitality and Events
 
-Hotels, venues, travel and event teams. **128 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Hotels, venues, travel and event teams. **131 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,10 +12,10 @@ Hotels, venues, travel and event teams. **128 ready-made Grok Bot templates** fo
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 41 |
-| [Productivity](productivity/README.md) | 25 |
+| [Productivity](productivity/README.md) | 27 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 23 |
 | [Social Media](social-media/README.md) | 15 |
-| [Writing & Content](writing-and-content/README.md) | 9 |
+| [Writing & Content](writing-and-content/README.md) | 10 |
 | [Research](research/README.md) | 4 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
 | [Support & Community](support-and-community/README.md) | 3 |
@@ -74,6 +74,7 @@ Hotels, venues, travel and event teams. **128 ready-made Grok Bot templates** fo
 
 | Template | What it does |
 |---|---|
+| [Admin Task Prioritizer](../finance/productivity/admin-task-prioritizer.md) | Prioritizes tasks, tracks deadlines, and coordinates schedules for administrative assistants. |
 | [Call Handling Assistant](../customer-support/productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
 | [Crisis Management Operations Assistant](../operations/productivity/crisis-management-operations-assistant.md) | Prepares, coordinates, and reviews crisis management for operations managers. |
 | [Crisis Management Planner](../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
@@ -97,6 +98,7 @@ Hotels, venues, travel and event teams. **128 ready-made Grok Bot templates** fo
 | [Production Resource Allocation Planner](../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
 | [Project Management Support Assistant](../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
 | [School Event Planner](../education/productivity/school-event-planner.md) | Plans and runs school events from venue to evaluation for headteachers. |
+| [School Event Planning Assistant](../education/productivity/school-event-planning-assistant.md) | Plans and coordinates school events from venue to follow-up. |
 | [Travel Arrangement Coordinator](../customer-support/productivity/travel-arrangement-coordinator.md) | Plans and books client travel from flights to insurance in one place. |
 | [Visitor Management Assistant](../customer-support/productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
 
@@ -155,6 +157,7 @@ Hotels, venues, travel and event teams. **128 ready-made Grok Bot templates** fo
 | [Brand Storytelling Assistant](../pr-and-communications/writing-and-content/brand-storytelling-assistant.md) | Crafts compelling brand stories across all channels and formats for marketing teams. |
 | [Content Analysis and Optimization Assistant](../pr-and-communications/writing-and-content/content-analysis-and-optimization-assistant.md) | Analyzes and optimizes content for engagement, SEO, and brand consistency. |
 | [Crisis Communication Planner](../pr-and-communications/writing-and-content/crisis-communication-planner.md) | Prepares crisis communication plans, messages, and training for communication managers. |
+| [Email Newsletter Writing Assistant](../writers/writing-and-content/email-newsletter-writing-assistant.md) | Drafts, personalizes, and optimizes email newsletters from topic to performance analysis. |
 | [Guest Experience Enhancer](writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
 | [Guest Experience Personalizer](writing-and-content/guest-experience-personalizer.md) | Personalizes every guest interaction from booking to follow-up for hotel managers. |
 | [Marketing Content Creator](../sales/writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |

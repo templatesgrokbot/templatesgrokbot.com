@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,228 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,231 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,11 +13,11 @@ Processes, logistics and the systems that run a business. **1,228 ready-made Gro
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 411 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 182 |
-| [Productivity](productivity/README.md) | 171 |
+| [Productivity](productivity/README.md) | 173 |
 | [Security & Compliance](security-and-compliance/README.md) | 95 |
 | [Research](research/README.md) | 82 |
 | [Coding](coding/README.md) | 60 |
-| [Knowledge Management](knowledge-management/README.md) | 35 |
+| [Knowledge Management](knowledge-management/README.md) | 36 |
 | [Support & Community](support-and-community/README.md) | 31 |
 | [Writing & Content](writing-and-content/README.md) | 28 |
 | [Office Tools](office-tools/README.md) | 27 |
@@ -79,7 +79,7 @@ Processes, logistics and the systems that run a business. **1,228 ready-made Gro
 | [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 171 Productivity templates →](productivity/README.md)
+[All 173 Productivity templates →](productivity/README.md)
 
 ## Security & Compliance
 
@@ -139,7 +139,7 @@ Processes, logistics and the systems that run a business. **1,228 ready-made Gro
 | [Review Agent](knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
 | [Data Storage and Management Assistant](../science-and-research/knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
 
-[All 35 Knowledge Management templates →](knowledge-management/README.md)
+[All 36 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Support & Community
 

@@ -1,6 +1,6 @@
 # Research templates for Finance
 
-Find sources, compare evidence and summarise what is known. 11 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 12 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Find sources, compare evidence and summarise what is known. 11 Grok Bot template
 | [Helium Mcp](../../science-and-research/research/helium-mcp.md) | Search news with bias analysis, get balanced perspectives, and look up live stock/options data. |
 | [Longbridge Content](longbridge-content.md) | Fetches stock news, filings, community topics, and SEC EDGAR analysis via Longbridge, no login, in your language. |
 | [Maxia](../../operations/research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
+| [Research and Reporting Assistant](research-and-reporting-assistant.md) | Gathers, analyzes, and reports research data for administrative finance support. |
 | [Screen Adverse Media](../../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
 | [SRED Project Organizer](../../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
 | [Sustainable Investment Research Assistant](../../science-and-research/research/sustainable-investment-research-assistant.md) | Sustainable investment research assistant for sustainability analysts. |

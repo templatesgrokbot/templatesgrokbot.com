@@ -1,11 +1,12 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 171 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 173 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Admin Task Prioritizer](../../finance/productivity/admin-task-prioritizer.md) | Prioritizes tasks, tracks deadlines, and coordinates schedules for administrative assistants. |
 | [Anti Sleep](../../it-and-development/productivity/anti-sleep.md) | Keep a Mac awake with caffeinate during long builds, downloads, or automation runs. |
 | [Antigravity Workflows](../../management/productivity/antigravity-workflows.md) | Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints. |
 | [Asana Automation](asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
@@ -70,6 +71,7 @@ Plan, prioritise and clear the recurring admin. 171 Grok Bot templates, 110 of t
 | [Hotel Maintenance Schedule Coordinator](../../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
 | [Hotel Sustainability Implementation Planner](../../hospitality-and-events/productivity/hotel-sustainability-implementation-planner.md) | Turns hotel operations into a sustainability action plan with research, policies, and tracking. |
 | [Inbox Triage](../../management/productivity/inbox-triage.md) | Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe. |
+| [Inventory and Supply Manager](../../finance/productivity/inventory-and-supply-manager.md) | Manages inventory, orders, vendors, budgets, and reports for administrative assistants. |
 | [Inventory Coordination Assistant](inventory-coordination-assistant.md) | Coordinates inventory control across departments with clear updates and approvals. |
 | [Inventory Management Assistant](inventory-management-assistant.md) | Automates inventory tracking, forecasting, ordering, and reporting for inventory managers. |
 | [Inventory Tracking Assistant](../../customer-support/productivity/inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |
