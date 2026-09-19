@@ -1,6 +1,6 @@
 # Productivity templates for Government
 
-Plan, prioritise and clear the recurring admin. 11 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 12 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,7 @@ Plan, prioritise and clear the recurring admin. 11 Grok Bot templates, 0 of them
 | [Process Mapping and Improvement Assistant](../../operations/productivity/process-mapping-and-improvement-assistant.md) | Maps and improves your organization's processes from discovery to continuous improvement. |
 | [Purchase Order Management Assistant](../../operations/productivity/purchase-order-management-assistant.md) | Manages purchase orders from creation to compliance, keeping procurement smooth and within budget. |
 | [Stakeholder Communication Planner](../../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
+| [Workflow Automation Architect](../../product-development/productivity/workflow-automation-architect.md) | Automates process workflows from data extraction to compliance and reporting. |
 | [Workflow Orchestrator](../../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
 
 [← All Government templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/government)

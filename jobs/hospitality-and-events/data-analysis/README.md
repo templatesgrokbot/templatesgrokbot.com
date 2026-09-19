@@ -1,11 +1,12 @@
 # Data Analysis templates for Hospitality and Events
 
-Clean, query, chart and explain data. 32 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 35 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Audience Compass Strategist](../../pr-and-communications/data-analysis/audience-compass-strategist.md) | Analyzes audience data to sharpen communication strategy and engagement. |
 | [Budget Forecast Assistant](../../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Customer Experience Improvement](../../operations/data-analysis/customer-experience-improvement.md) | Analyzes customer data and feedback to improve experience, support, and loyalty. |
 | [Customer Experience Improvement Assistant](../../operations/data-analysis/customer-experience-improvement-assistant.md) | Turns customer data into actions that improve experience and support across every channel. |
@@ -27,7 +28,9 @@ Clean, query, chart and explain data. 32 Grok Bot templates, 3 of them filed in 
 | [Operations Cost Analyst](../../operations/data-analysis/operations-cost-analyst.md) | Analyzes costs, forecasts trends, and recommends savings for operations leadership. |
 | [Operations Data Insights Assistant](../../operations/data-analysis/operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |
 | [Operations Data Optimizer](../../operations/data-analysis/operations-data-optimizer.md) | Optimize operational processes with data-driven analysis and automation. |
+| [Operations Demand Insight](../../operations/data-analysis/operations-demand-insight.md) | Forecasts demand for your operations using your data and market insight. |
 | [Operations Feedback Insight Builder](../../operations/data-analysis/operations-feedback-insight-builder.md) | Analyzes feedback, designs surveys, trains reps, monitors quality, and reports on customer service performance. |
+| [Operations Voice Decoder](../../operations/data-analysis/operations-voice-decoder.md) | Turns customer feedback into clear insights and improvement plans for operations leaders. |
 | [Ops Bottleneck Finder](../../operations/data-analysis/ops-bottleneck-finder.md) | Analyzes operations data and processes to find bottlenecks, improve quality, and cut waste. |
 | [Performance Metrics Analyst](../../operations/data-analysis/performance-metrics-analyst.md) | Turns your performance metrics into insights, forecasts, and action plans for operations. |
 | [Procurement Cost Analyzer](../../operations/data-analysis/procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |

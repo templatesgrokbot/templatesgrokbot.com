@@ -1,6 +1,6 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 41 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 42 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,6 +28,7 @@ Clean, query, chart and explain data. 41 Grok Bot templates, 0 of them filed in 
 | [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Junta Auctioneers](../../operations/data-analysis/junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Market Trend Analysis Assistant](../../operations/data-analysis/market-trend-analysis-assistant.md) | Analyzes market trends and compiles reports to support procurement decisions. |
+| [Media Monitoring Assistant](../../pr-and-communications/data-analysis/media-monitoring-assistant.md) | Audits crisis communication plans, media coverage, and team performance to strengthen crisis response. |
 | [Operational KPI Dashboard Designer](../../operations/data-analysis/operational-kpi-dashboard-designer.md) | Designs and maintains operational KPI dashboards with data integration, analysis, and reporting. |
 | [Performance Metrics Manager](../../management/data-analysis/performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Procurement Risk Assessor](../../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |

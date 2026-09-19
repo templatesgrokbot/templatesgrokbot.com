@@ -1,6 +1,6 @@
 # Grok Bot templates for Government
 
-Public services, policy and compliance. **131 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Public services, policy and compliance. **146 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,18 @@ Public services, policy and compliance. **131 ready-made Grok Bot templates** fo
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 41 |
+| [Data Analysis](data-analysis/README.md) | 42 |
 | [Security & Compliance](security-and-compliance/README.md) | 39 |
-| [Research](research/README.md) | 22 |
-| [Productivity](productivity/README.md) | 11 |
-| [Writing & Content](writing-and-content/README.md) | 7 |
+| [Research](research/README.md) | 23 |
+| [Writing & Content](writing-and-content/README.md) | 13 |
+| [Productivity](productivity/README.md) | 12 |
 | [Knowledge Management](knowledge-management/README.md) | 5 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 3 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
+| [Social Media](social-media/README.md) | 1 |
+| [Support & Community](support-and-community/README.md) | 1 |
 | [Translation](translation/README.md) | 1 |
 
 ## Data Analysis
@@ -48,6 +51,7 @@ Public services, policy and compliance. **131 ready-made Grok Bot templates** fo
 | [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Junta Auctioneers](../operations/data-analysis/junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Market Trend Analysis Assistant](../operations/data-analysis/market-trend-analysis-assistant.md) | Analyzes market trends and compiles reports to support procurement decisions. |
+| [Media Monitoring Assistant](../pr-and-communications/data-analysis/media-monitoring-assistant.md) | Audits crisis communication plans, media coverage, and team performance to strengthen crisis response. |
 | [Operational KPI Dashboard Designer](../operations/data-analysis/operational-kpi-dashboard-designer.md) | Designs and maintains operational KPI dashboards with data integration, analysis, and reporting. |
 | [Performance Metrics Manager](../management/data-analysis/performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Procurement Risk Assessor](../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
@@ -131,6 +135,7 @@ Public services, policy and compliance. **131 ready-made Grok Bot templates** fo
 | [Regulatory Communication Assistant](../legal/research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
 | [Regulatory Research Assistant](../legal/research/regulatory-research-assistant.md) | Tracks, interprets, and applies regulatory changes for compliance officers. |
 | [Regulatory Update Analyst](../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
+| [Rumor and Misinformation Manager](../pr-and-communications/research/rumor-and-misinformation-manager.md) | Tracks, debunks, and counters rumors and misinformation for crisis communications teams. |
 | [Supplier Evaluation and Management Assistant](../operations/research/supplier-evaluation-and-management-assistant.md) | Evaluates and manages suppliers from identification through performance monitoring and improvement. |
 | [Supplier Research and Analysis Assistant](../operations/research/supplier-research-and-analysis-assistant.md) | Finds, vets, and manages suppliers with data-backed analysis and clear recommendations. |
 | [Sustainable Procurement Advisor](../operations/research/sustainable-procurement-advisor.md) | Guides sustainable procurement decisions from supplier evaluation to circular economy implementation. |
@@ -138,6 +143,24 @@ Public services, policy and compliance. **131 ready-made Grok Bot templates** fo
 | [Third-Party Compliance Evaluator](../legal/research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 | [Threat Intelligence](../it-and-development/research/threat-intelligence.md) | Enrich IOCs and profile threats from public sources with verified evidence. |
 | [Vendor Research and Evaluation Assistant](../management/research/vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |
+
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Compliance Communication Planner](../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
+| [Crisis Communication Content Creator](../pr-and-communications/writing-and-content/crisis-communication-content-creator.md) | Crisis content creator for communication managers, drafting and coordinating all crisis messaging. |
+| [Crisis Communication Planner](../pr-and-communications/writing-and-content/crisis-communication-planner.md) | Prepares crisis communication plans, messages, and training for communication managers. |
+| [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
+| [Internal Communication Planner](../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
+| [Media Crisis Drill Builder](../pr-and-communications/writing-and-content/media-crisis-drill-builder.md) | Plans, tests, and updates crisis communication for media relations specialists. |
+| [Policy Update Communications Assistant](../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
+| [PR Content Creator](../pr-and-communications/writing-and-content/pr-content-creator.md) | Drafts and plans all your PR content, from press releases to crisis messaging. |
+| [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
+| [SOP Writer](../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
+| [Stakeholder Communication Coordinator](../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
+| [Technical Documentation Reviewer](../customer-support/writing-and-content/technical-documentation-reviewer.md) | Reviews and refines technical documentation for accuracy, clarity, and compliance. |
+| [Training Material Creator](../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 
 ## Productivity
 
@@ -153,19 +176,8 @@ Public services, policy and compliance. **131 ready-made Grok Bot templates** fo
 | [Process Mapping and Improvement Assistant](../operations/productivity/process-mapping-and-improvement-assistant.md) | Maps and improves your organization's processes from discovery to continuous improvement. |
 | [Purchase Order Management Assistant](../operations/productivity/purchase-order-management-assistant.md) | Manages purchase orders from creation to compliance, keeping procurement smooth and within budget. |
 | [Stakeholder Communication Planner](../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
+| [Workflow Automation Architect](../product-development/productivity/workflow-automation-architect.md) | Automates process workflows from data extraction to compliance and reporting. |
 | [Workflow Orchestrator](../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Compliance Communication Planner](../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
-| [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
-| [Policy Update Communications Assistant](../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
-| [SOP Writer](../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
-| [Stakeholder Communication Coordinator](../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
-| [Technical Documentation Reviewer](../customer-support/writing-and-content/technical-documentation-reviewer.md) | Reviews and refines technical documentation for accuracy, clarity, and compliance. |
-| [Training Material Creator](../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 
 ## Knowledge Management
 
@@ -177,11 +189,20 @@ Public services, policy and compliance. **131 ready-made Grok Bot templates** fo
 | [Document Organization Assistant](../customer-support/knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
 | [Record-Keeping Compliance Optimizer](../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
 
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Crisis Communication Strategist](../pr-and-communications/marketing-and-growth/crisis-communication-strategist.md) | Builds and runs your crisis communication strategy, from monitoring to recovery. |
+| [Public Relations](../pr-and-communications/marketing-and-growth/public-relations.md) | Help you earn press coverage through journalist pitching and media strategy. |
+| [Stakeholder Communication Strategist](../pr-and-communications/marketing-and-growth/stakeholder-communication-strategist.md) | Builds and runs your stakeholder communication strategy from analysis to evaluation. |
+
 ## Sales & Negotiation
 
 | Template | What it does |
 |---|---|
 | [Contract Negotiation Strategist](../operations/sales-and-negotiation/contract-negotiation-strategist.md) | Prepares and guides procurement contract negotiations from research to final agreement. |
+| [Vendor Evaluation Manager](../operations/sales-and-negotiation/vendor-evaluation-manager.md) | Manages vendor evaluation from research to onboarding and performance tracking. |
 | [Vendor Relationship Management Assistant](../operations/sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
 
 ## Teaching & Tutoring
@@ -196,6 +217,18 @@ Public services, policy and compliance. **131 ready-made Grok Bot templates** fo
 | Template | What it does |
 |---|---|
 | [Fixing Accessibility](../it-and-development/coding/fixing-accessibility.md) | Audit and fix HTML accessibility issues: ARIA, keyboard, focus, contrast, forms. |
+
+## Social Media
+
+| Template | What it does |
+|---|---|
+| [Content Command Center](../pr-and-communications/social-media/content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Community Outreach Planner](../pr-and-communications/support-and-community/community-outreach-planner.md) | Plans, drafts, and tracks community outreach for crisis communications managers. |
 
 ## Translation
 

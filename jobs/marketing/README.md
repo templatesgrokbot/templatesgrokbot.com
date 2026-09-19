@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **507 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,15 @@ Campaigns, SEO, content and growth. **507 ready-made Grok Bot templates** for th
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 154 |
-| [Data Analysis](data-analysis/README.md) | 78 |
-| [Research](research/README.md) | 62 |
-| [Social Media](social-media/README.md) | 50 |
-| [Writing & Content](writing-and-content/README.md) | 43 |
-| [Design](design/README.md) | 22 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 168 |
+| [Data Analysis](data-analysis/README.md) | 81 |
+| [Research](research/README.md) | 63 |
+| [Social Media](social-media/README.md) | 53 |
+| [Writing & Content](writing-and-content/README.md) | 52 |
+| [Design](design/README.md) | 23 |
 | [Generative Art](generative-art/README.md) | 21 |
 | [Coding](coding/README.md) | 13 |
-| [Productivity](productivity/README.md) | 11 |
+| [Productivity](productivity/README.md) | 12 |
 | [Generative Code](generative-code/README.md) | 10 |
 | [Generative Video](generative-video/README.md) | 9 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 9 |
@@ -48,7 +48,7 @@ Campaigns, SEO, content and growth. **507 ready-made Grok Bot templates** for th
 | [Seo Fundamentals](marketing-and-growth/seo-fundamentals.md) | Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles. |
 | [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 
-[All 154 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 168 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Data Analysis
 
@@ -63,7 +63,7 @@ Campaigns, SEO, content and growth. **507 ready-made Grok Bot templates** for th
 | [Analytics Product](data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
 | [Google Ads Performance Analyzer](data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 
-[All 78 Data Analysis templates →](data-analysis/README.md)
+[All 81 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
@@ -78,7 +78,7 @@ Campaigns, SEO, content and growth. **507 ready-made Grok Bot templates** for th
 | [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Search Specialist](../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
 
-[All 62 Research templates →](research/README.md)
+[All 63 Research templates →](research/README.md)
 
 ## Social Media
 
@@ -87,13 +87,13 @@ Campaigns, SEO, content and growth. **507 ready-made Grok Bot templates** for th
 | [X Brief](social-media/x-brief.md) | Connects to X, analyzes your recent posts to identify your beat, and flags relevant events with a daily wrap-up. |
 | [Socialclaw](social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
 | [Instagram Automation](social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
+| [Content Command Center](../pr-and-communications/social-media/content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
 | [Youtube Automation](social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 | [Xiaohongshu Card Deck Generator](social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
 | [Visual Storytelling Campaign Planner](social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
-| [Xiaohongshu Content Strategist](social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
-| [Social Content Scheduling Planner](social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
+| [Presence Audit Optimizer](../pr-and-communications/social-media/presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |
 
-[All 50 Social Media templates →](social-media/README.md)
+[All 53 Social Media templates →](social-media/README.md)
 
 ## Writing & Content
 
@@ -108,7 +108,7 @@ Campaigns, SEO, content and growth. **507 ready-made Grok Bot templates** for th
 | [Seo Content Auditor](writing-and-content/seo-content-auditor.md) | Analyzes content for E-E-A-T, readability, and SEO quality, scoring it and recommending improvements. |
 | [Devrel Content](writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 
-[All 43 Writing & Content templates →](writing-and-content/README.md)
+[All 52 Writing & Content templates →](writing-and-content/README.md)
 
 ## Design
 
@@ -123,7 +123,7 @@ Campaigns, SEO, content and growth. **507 ready-made Grok Bot templates** for th
 | [Vaporwave](../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Social Carousel Designer](../creatives/design/social-carousel-designer.md) | Turns a headline into a three-card social carousel with brand mark and numbering. |
 
-[All 22 Design templates →](design/README.md)
+[All 23 Design templates →](design/README.md)
 
 ## Generative Art
 
@@ -168,7 +168,7 @@ Campaigns, SEO, content and growth. **507 ready-made Grok Bot templates** for th
 | [Power User Cultivation](../product-development/productivity/power-user-cultivation.md) | Identify engaged developers and turn them into advocates and contributors. |
 | [Onboarding Cro](../product-development/productivity/onboarding-cro.md) | Audits and optimizes user onboarding to reduce time-to-value and increase activation rates. |
 
-[All 11 Productivity templates →](productivity/README.md)
+[All 12 Productivity templates →](productivity/README.md)
 
 ## Generative Code
 

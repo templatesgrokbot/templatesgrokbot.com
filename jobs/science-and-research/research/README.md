@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 137 Grok Bot templates, 111 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 140 Grok Bot templates, 111 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -84,7 +84,9 @@ Find sources, compare evidence and summarise what is known. 137 Grok Bot templat
 | [Lamindb](lamindb.md) | Manages biological datasets with lineage tracking, ontology validation, and FAIR compliance. |
 | [Latex Posters](latex-posters.md) | Create professional research posters in LaTeX for conferences and academic events. |
 | [Literature Review](literature-review.md) | Conducts systematic literature reviews across scientific databases and produces formatted documents. |
+| [Literature Review Assistant](../../product-development/research/literature-review-assistant.md) | Literature review assistant for R&D engineers: finds, summarizes, synthesizes, and manages research. |
 | [Market Trend Analyst](../../management/research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
+| [Material Selection Guide](../../product-development/research/material-selection-guide.md) | Guides R&D engineers through material selection with data-backed research, analysis, and tools. |
 | [Mechanistic Interpretability Nnsight](mechanistic-interpretability-nnsight.md) | Runs mechanistic interpretability experiments on any PyTorch model, local or remote via NDIF. |
 | [Mechanistic Interpretability Pyvene](mechanistic-interpretability-pyvene.md) | Guides causal intervention experiments on PyTorch models using pyvene. |
 | [Mechanistic Interpretability Saelens](../../it-and-development/research/mechanistic-interpretability-saelens.md) | Trains and analyzes Sparse Autoencoders to find interpretable features in neural networks. |
@@ -102,6 +104,7 @@ Find sources, compare evidence and summarise what is known. 137 Grok Bot templat
 | [Opentargets Database](opentargets-database.md) | Queries Open Targets Platform for target-disease associations, drug discovery, and safety data. |
 | [Paper 2 Web](paper-2-web.md) | Converts academic papers into interactive websites, presentation videos, and conference posters. |
 | [Papers](papers-skill.md) | Search academic papers, inspect citations, download arXiv PDFs, and extract text. |
+| [Patent Research and Analysis Assistant](../../product-development/research/patent-research-and-analysis-assistant.md) | Patent research and analysis assistant for R&D engineers, from prior art to strategy. |
 | [Patent Research Assistant](../../legal/research/patent-research-assistant.md) | Runs patent research tasks: searches, analyses, drafting support, and monitoring updates. |
 | [Pdb Database](pdb-database.md) | Search RCSB PDB for 3D structures by text, sequence, or shape, then retrieve coordinates and metadata. |
 | [Peer Review](peer-review.md) | Systematically evaluate scientific manuscripts and grant proposals for rigor, reproducibility, and reporting standards. |

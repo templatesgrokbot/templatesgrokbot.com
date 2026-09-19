@@ -1,6 +1,6 @@
 # Security & Compliance templates for Product Development
 
-Authorised security testing, audits and regulatory work. 19 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 24 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,8 +12,13 @@ Authorised security testing, audits and regulatory work. 19 Grok Bot templates, 
 | [Auth Implementation Patterns](../../it-and-development/security-and-compliance/auth-implementation-patterns.md) | Implement or review auth with token, session, and resource-access boundaries. |
 | [Backend Security Coder](../../it-and-development/security-and-compliance/backend-security-coder.md) | Secure backend coding expert for input validation, authentication, and API security. |
 | [Fda Consultant Specialist](../../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
+| [Packaging Compliance Assistant](packaging-compliance-assistant.md) | Turns packaging regulations into clear, actionable compliance steps for your products. |
 | [Privacy By Design](../../it-and-development/security-and-compliance/privacy-by-design.md) | Build apps with built-in privacy protections from the start. |
+| [Process Safety Risk Assessor](process-safety-risk-assessor.md) | Turns process data into hazard insights, risk assessments, and safety actions for process engineers. |
 | [Production Audit](../../it-and-development/security-and-compliance/production-audit.md) | Audits deployed repos for production-readiness gaps across security, infra, and UX. |
+| [R&D EIA Report Builder](r-d-eia-report-builder.md) | Streamlines environmental impact assessments from data collection to reporting and monitoring. |
+| [R&D Regulatory Navigator](r-d-regulatory-navigator.md) | Regulatory compliance guidance for R&D engineers: research, interpret, document, monitor, audit, train. |
+| [Regulatory Compliance Guidance Assistant](regulatory-compliance-guidance-assistant.md) | Guides process engineers through regulatory compliance research, documentation, reporting, training, audits, and risk management. |
 | [Repo Publication Auditor](../../it-and-development/security-and-compliance/repo-publication-auditor.md) | Audits what a repository exposes before it goes public, checking history not just the working tree. |
 | [Screen Reader Testing](../../it-and-development/security-and-compliance/screen-reader-testing.md) | Guide for testing web apps with screen readers to validate accessibility. |
 | [Se Responsible Ai Code](../../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Insurance
 
-Underwriting, claims and policy work. **85 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Underwriting, claims and policy work. **87 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,10 +14,10 @@ Underwriting, claims and policy work. **85 ready-made Grok Bot templates** for t
 | [Data Analysis](data-analysis/README.md) | 34 |
 | [Security & Compliance](security-and-compliance/README.md) | 15 |
 | [Support & Community](support-and-community/README.md) | 14 |
-| [Productivity](productivity/README.md) | 8 |
+| [Productivity](productivity/README.md) | 9 |
 | [Knowledge Management](knowledge-management/README.md) | 4 |
+| [Writing & Content](writing-and-content/README.md) | 4 |
 | [Research](research/README.md) | 3 |
-| [Writing & Content](writing-and-content/README.md) | 3 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Translation](translation/README.md) | 2 |
 
@@ -110,6 +110,7 @@ Underwriting, claims and policy work. **85 ready-made Grok Bot templates** for t
 | [Crisis Management and Response Assistant](../management/productivity/crisis-management-and-response-assistant.md) | Guides insurance agency managers through crisis preparation, response, and recovery. |
 | [Fleet Insurance Manager](../operations/productivity/fleet-insurance-manager.md) | Manages fleet insurance renewals, claims, coverage, costs, compliance, and safety from one chat. |
 | [Insurance Digital Transformation Planner](../management/productivity/insurance-digital-transformation-planner.md) | Plans and oversees your agency's digital transformation, from customer analytics to automated processes. |
+| [Workflow Automation Architect](../product-development/productivity/workflow-automation-architect.md) | Automates process workflows from data extraction to compliance and reporting. |
 | [Workflow Orchestrator](../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
 
 ## Knowledge Management
@@ -121,14 +122,6 @@ Underwriting, claims and policy work. **85 ready-made Grok Bot templates** for t
 | [Insurance Training and Knowledge Manager](../customer-support/knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
 | [Record-Keeping Compliance Optimizer](../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
 
-## Research
-
-| Template | What it does |
-|---|---|
-| [Insurance Competitive Intelligence Analyst](../operations/research/insurance-competitive-intelligence-analyst.md) | Tracks competitors and market shifts to sharpen insurance operations strategy. |
-| [Regulatory Research Assistant](../legal/research/regulatory-research-assistant.md) | Tracks, interprets, and applies regulatory changes for compliance officers. |
-| [Regulatory Update Analyst](../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
-
 ## Writing & Content
 
 | Template | What it does |
@@ -136,6 +129,15 @@ Underwriting, claims and policy work. **85 ready-made Grok Bot templates** for t
 | [Claims Dispute Evidence Kit](../management/writing-and-content/claims-dispute-evidence-kit.md) | Prepares evidence, drafts correspondence, and guides dispute resolution for insurance claims managers. |
 | [Claims Training Update Coordinator](../operations/writing-and-content/claims-training-update-coordinator.md) | Keeps insurance claims training and guidelines current and compliant. |
 | [Policy Update Communications Assistant](../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
+| [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
+
+## Research
+
+| Template | What it does |
+|---|---|
+| [Insurance Competitive Intelligence Analyst](../operations/research/insurance-competitive-intelligence-analyst.md) | Tracks competitors and market shifts to sharpen insurance operations strategy. |
+| [Regulatory Research Assistant](../legal/research/regulatory-research-assistant.md) | Tracks, interprets, and applies regulatory changes for compliance officers. |
+| [Regulatory Update Analyst](../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
 
 ## Teaching & Tutoring
 

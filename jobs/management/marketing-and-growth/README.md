@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Management
 
-Campaigns, ads, conversion and launch plans. 29 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 31 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Campaigns, ads, conversion and launch plans. 29 Grok Bot templates, 22 of them f
 | [Email Campaign Strategist](email-campaign-strategist.md) | Plans and drafts email campaigns that engage, convert, and respect your readers. |
 | [Event Promotion Planner](event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
 | [Influencer Collaboration Manager](influencer-collaboration-manager.md) | Manages influencer collaborations from discovery to reporting, with approval gates for all external actions. |
+| [Influencer Partnership Manager](../../pr-and-communications/marketing-and-growth/influencer-partnership-manager.md) | Run your influencer partnerships from discovery to reporting with reliable workflows and approval gates. |
 | [Insurance Marketing Strategist](insurance-marketing-strategist.md) | Develops and executes your insurance agency's marketing strategy from research to performance tracking. |
 | [Market Trend Forecasting Assistant](market-trend-forecasting-assistant.md) | Forecast market trends and plan strategy from data, competitor, and consumer insights. |
 | [Marketing Strategy Pmm](../../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
@@ -34,6 +35,7 @@ Campaigns, ads, conversion and launch plans. 29 Grok Bot templates, 22 of them f
 | [Seo Optimizer](../../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
 | [Seo Specialist](../../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [Social Media Strategy Planner](social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
+| [Stakeholder Communication Strategist](../../pr-and-communications/marketing-and-growth/stakeholder-communication-strategist.md) | Builds and runs your stakeholder communication strategy from analysis to evaluation. |
 | [Startup Business Analyst Business Case](../../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
 
 [← All Management templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/management)

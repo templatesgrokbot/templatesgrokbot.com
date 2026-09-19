@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 372 Grok Bot templates, 247 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 395 Grok Bot templates, 257 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -98,13 +98,17 @@ Clean, query, chart and explain data. 372 Grok Bot templates, 247 of them filed 
 | [Efficiency Metrics Development Assistant](efficiency-metrics-development-assistant.md) | Turns raw process data into efficiency metrics, dashboards, and improvement plans for process improvement analysts. |
 | [Elasticsearch Observability](../../it-and-development/data-analysis/elasticsearch-observability.md) | Debug code, optimize search, and remediate threats using live Elastic data. |
 | [Employee Productivity Analyst](employee-productivity-analyst.md) | Analyzes employee productivity data and delivers actionable insights for operations leaders. |
+| [Employee Productivity Assessment Assistant](employee-productivity-assessment-assistant.md) | Analyzes employee productivity data and delivers actionable insights for operations leaders. |
+| [Energy Consumption Analyst](../../product-development/data-analysis/energy-consumption-analyst.md) | Analyzes energy data, forecasts usage, and recommends savings for process engineers. |
 | [Energy Consumption Optimization Assistant](energy-consumption-optimization-assistant.md) | Optimizes your facility's energy use through data analysis, audits, and actionable efficiency strategies. |
 | [Energy Consumption Optimizer](energy-consumption-optimizer.md) | Optimizes your facility's energy use through data analysis, recommendations, and reporting. |
 | [Energy Procurement](energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
+| [Environmental Impact Analyst](../../product-development/data-analysis/environmental-impact-analyst.md) | Environmental impact analysis and sustainability recommendations for process engineers. |
 | [Excel Analysis](../../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Expense Folder Auditor](expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Exploratory Data Analysis](../../science-and-research/data-analysis/exploratory-data-analysis.md) | Analyze scientific data files across 200+ formats and generate markdown reports. No file? No action. Never repeat an analysis on the same file. Draft |
 | [Extract Document Data](extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
+| [Facility Layout Optimization Assistant](facility-layout-optimization-assistant.md) | Optimizes facility layouts for space, workflow, safety, and growth with data-driven recommendations. |
 | [Facility Operations Insight Planner](facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Feedback Insight for Service Managers](../../management/data-analysis/feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
 | [Feedback Insights for Ops](feedback-insights-for-ops.md) | Turns customer feedback into actionable insights and responses for operations managers. |
@@ -154,6 +158,7 @@ Clean, query, chart and explain data. 372 Grok Bot templates, 247 of them filed 
 | [Inventory Manager Supplier Risk Scorecard](inventory-manager-supplier-risk-scorecard.md) | Evaluates supplier performance, flags risks, and drives improvement plans for inventory managers. |
 | [Inventory Operations Assistant](inventory-operations-assistant.md) | Tracks and optimizes inventory with forecasting, reorder and safety stock advice. |
 | [Inventory Operations Manager](inventory-operations-manager.md) | Inventory management assistant for operations managers: tracking, forecasting, replenishment, and optimization in one place. |
+| [Inventory Ops Forecaster](inventory-ops-forecaster.md) | Turns your inventory data into operational insights, forecasts, and action plans. |
 | [Inventory Optimization Analyst](inventory-optimization-analyst.md) | Analyzes inventory data to optimize stock levels, reduce costs, and improve supply chain efficiency for logistics consultants. |
 | [Inventory Optimization Assistant](../../management/data-analysis/inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
 | [Inventory Optimization Planner](inventory-optimization-planner.md) | Optimizes inventory with demand forecasts, stock calculations, and supplier strategies. |
@@ -190,6 +195,7 @@ Clean, query, chart and explain data. 372 Grok Bot templates, 247 of them filed 
 | [Logistics Technology Integration Planner](logistics-technology-integration-planner.md) | Plans and oversees technology integration across logistics operations, from analysis to adoption. |
 | [Logistics Warehouse Space Planner](logistics-warehouse-space-planner.md) | Optimizes warehouse layouts for space, flow, safety, and cost. |
 | [Loss Prevention Insight Analyst](../../management/data-analysis/loss-prevention-insight-analyst.md) | Analyzes retail loss prevention data to uncover patterns, risks, and improvement strategies. |
+| [Manufacturing Cost Savings Finder](../../product-development/data-analysis/manufacturing-cost-savings-finder.md) | Finds and validates cost reduction opportunities across manufacturing operations. |
 | [Market Analysis Strategist](market-analysis-strategist.md) | Turns market data into clear analysis and strategy for global operations. |
 | [Market Trend Analysis Assistant](market-trend-analysis-assistant.md) | Analyzes market trends and compiles reports to support procurement decisions. |
 | [Market Trend Analyst for Purchasing](../../management/data-analysis/market-trend-analyst-for-purchasing.md) | Turns market data into purchasing decisions for procurement teams. |
@@ -219,6 +225,8 @@ Clean, query, chart and explain data. 372 Grok Bot templates, 247 of them filed 
 | [Operations Data Insights Assistant](operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |
 | [Operations Data Optimizer](operations-data-optimizer.md) | Optimize operational processes with data-driven analysis and automation. |
 | [Operations Demand Forecaster](operations-demand-forecaster.md) | Optimizes inventory, forecasts demand, manages suppliers, and streamlines logistics for operations directors. |
+| [Operations Demand Insight](operations-demand-insight.md) | Forecasts demand for your operations using your data and market insight. |
+| [Operations Efficiency Analyst](operations-efficiency-analyst.md) | Analyzes operations data, maps processes, and drives efficiency improvements for VPs of Operations. All in one assistant. No hype, just results. |
 | [Operations Feedback Insight Builder](operations-feedback-insight-builder.md) | Analyzes feedback, designs surveys, trains reps, monitors quality, and reports on customer service performance. |
 | [Operations Financial Forecaster](operations-financial-forecaster.md) | Builds, checks, and reports financial forecasts for operations decisions. |
 | [Operations Insight Report Builder](operations-insight-report-builder.md) | Supply chain analysis assistant for operations managers, turning data into actionable insights and recommendations. No hype, just analysis. |
@@ -226,11 +234,16 @@ Clean, query, chart and explain data. 372 Grok Bot templates, 247 of them filed 
 | [Operations Manager Supply Chain Advisor](operations-manager-supply-chain-advisor.md) | Optimizes supply chain operations with data-driven insights and recommendations. |
 | [Operations Process Optimizer](operations-process-optimizer.md) | Analyzes operational data to find bottlenecks, waste, and automation opportunities. |
 | [Operations QC Insight Partner](operations-qc-insight-partner.md) | Quality control analysis assistant for operations managers. |
+| [Operations Trend Decoder](operations-trend-decoder.md) | Delivers market trend analysis for VP of Operations decisions. |
+| [Operations Voice Decoder](operations-voice-decoder.md) | Turns customer feedback into clear insights and improvement plans for operations leaders. |
 | [Operations Workflow Optimizer](operations-workflow-optimizer.md) | Optimizes global operations workflows through data analysis, automation, and continuous improvement. |
 | [Ops Bottleneck Finder](ops-bottleneck-finder.md) | Analyzes operations data and processes to find bottlenecks, improve quality, and cut waste. |
+| [Ops Cost Cut Finder](ops-cost-cut-finder.md) | Analyzes operations data to find and implement cost reduction opportunities for a VP of Operations. |
 | [Ops Market Trend Forecaster](ops-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategy recommendations for operations managers. |
 | [Ops Performance Forecaster](ops-performance-forecaster.md) | Turns employee performance data into clear insights, forecasts, and recommendations for operations leaders. |
 | [Otif Analysis](otif-analysis.md) | Audit delivery OTIF from order data, find metric gaps, and pinpoint where lateness concentrates. |
+| [Packaging Cost Reduction Analyst](../../product-development/data-analysis/packaging-cost-reduction-analyst.md) | Analyzes packaging costs and identifies savings across materials, design, suppliers, and processes. |
+| [Packaging Damage Prevention Analyst](../../product-development/data-analysis/packaging-damage-prevention-analyst.md) | Analyze packaging designs for damage prevention and recommend improvements. |
 | [Pdf Conversion Router](pdf-conversion-router.md) | Classifies PDFs then selects the best conversion route for faithful output. No universal defaults. Validates before delivery. Requires approval before |
 | [Pdf Processing Pro](pdf-processing-pro.md) | Extracts text, tables, and form data from PDFs with validation and batch processing. |
 | [Performance Metrics Analyst](performance-metrics-analyst.md) | Turns your performance metrics into insights, forecasts, and action plans for operations. |
@@ -243,9 +256,14 @@ Clean, query, chart and explain data. 372 Grok Bot templates, 247 of them filed 
 | [Predictive Maintenance Analyst](predictive-maintenance-analyst.md) | Predict equipment failures and optimize maintenance schedules from your logistics data. |
 | [Predictive Maintenance Scheduler](../../management/data-analysis/predictive-maintenance-scheduler.md) | Analyzes equipment data, predicts failures, and schedules maintenance to maximize uptime. |
 | [Premium Calculation Assistant](../../customer-support/data-analysis/premium-calculation-assistant.md) | Handles insurance premium calculations from data collection to quotes and customer education. |
+| [Process Efficiency Analyst](../../product-development/data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
+| [Process Engineer Supply Chain Optimizer](../../product-development/data-analysis/process-engineer-supply-chain-optimizer.md) | Optimizes supply chains with data-driven forecasting, supplier, transportation, and process improvements. |
 | [Process Improvement Recommendation Assistant](process-improvement-recommendation-assistant.md) | Turns production data into process improvement recommendations for quality control inspectors. |
+| [Process Monitoring and Control Assistant](../../product-development/data-analysis/process-monitoring-and-control-assistant.md) | Monitors and optimizes your process with real-time data analysis and predictive insights. |
+| [Process Optimization Analyst](../../product-development/data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
 | [Process Optimization Assistant](process-optimization-assistant.md) | Optimizes production quality by analyzing data, finding root causes, and driving improvements. |
 | [Process Reengineering Consultant](../../management/data-analysis/process-reengineering-consultant.md) | Maps, analyzes, and improves business processes for management consultants. |
+| [Process Simulation Assistant](../../product-development/data-analysis/process-simulation-assistant.md) | Simulation and modeling assistant for process engineers, from data to optimization. |
 | [Procurement Cost Analyzer](procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |
 | [Procurement Risk Assessor](../../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
 | [Procurement Risk Management Assistant](procurement-risk-management-assistant.md) | Procurement risk management assistant that assesses, mitigates, and monitors supplier, contract, and supply chain risks. |
@@ -268,6 +286,7 @@ Clean, query, chart and explain data. 372 Grok Bot templates, 247 of them filed 
 | [Psychological Safety Assessment Assistant](psychological-safety-assessment-assistant.md) | Assesses and improves workplace psychological safety through surveys, analysis, and guidance. |
 | [QC Root Cause Navigator](qc-root-cause-navigator.md) | Guides quality control specialists through root cause analysis from data collection to validated fixes. |
 | [Quality Control Analysis Assistant](quality-control-analysis-assistant.md) | Analyzes production data, detects defects, and drives quality improvements for production coordinators. |
+| [Quality Control Data Analyst](../../product-development/data-analysis/quality-control-data-analyst.md) | Analyzes QC data and runs quality engineering analyses for process engineers. |
 | [Quality Control Operations Assistant](quality-control-operations-assistant.md) | Quality control assistant for operations managers: defect analysis, audits, and continuous improvement. |
 | [Quality Control Reporting Assistant](quality-control-reporting-assistant.md) | Analyzes quality data, generates reports, and tracks compliance for quality control inspectors. |
 | [Quality Trend Analyst](quality-trend-analyst.md) | Analyzes quality data, spots trends, and drafts reports and action plans for quality control specialists. |
@@ -339,6 +358,7 @@ Clean, query, chart and explain data. 372 Grok Bot templates, 247 of them filed 
 | [Supply Chain Data Analyst](supply-chain-data-analyst.md) | Turn your supply chain data into clear forecasts, risk flags, and cost-saving actions. |
 | [Supply Chain Disruption Playbook](supply-chain-disruption-playbook.md) | Turns supply chain data into crisis plans, forecasts, and stakeholder updates for operations managers. |
 | [Supply Chain Forecast Planner](supply-chain-forecast-planner.md) | Turns demand data into forecasts, insights, and plans for supply chain analysts. |
+| [Supply Chain Impact Analyst](../../product-development/data-analysis/supply-chain-impact-analyst.md) | Analyzes packaging supply chain impacts and recommends sustainable, cost-effective improvements. |
 | [Supply Chain Impact Assessor](../../management/data-analysis/supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |
 | [Supply Chain Integration Assistant](supply-chain-integration-assistant.md) | Guides supply chain analysts through technology integration and advanced supply chain optimization. |
 | [Supply Chain Metrics Analyst](supply-chain-metrics-analyst.md) | Analyzes supply chain metrics from your data and returns insights for operational decisions. |
@@ -367,12 +387,15 @@ Clean, query, chart and explain data. 372 Grok Bot templates, 247 of them filed 
 | [Vendor Proposal Comparator](vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Video Content Extractor](../../it-and-development/data-analysis/video-content-extractor.md) | Extract text from MP4 videos via key frames and OCR into Markdown reports. |
 | [VMI Inventory Optimizer](vmi-inventory-optimizer.md) | Optimizes vendor-managed inventory through forecasting, monitoring, and supplier collaboration. |
+| [VP Operations Risk Advisor](vp-operations-risk-advisor.md) | Identifies, assesses, and mitigates operational risks with data-driven insights and clear communication. |
+| [VP Supply Chain Insight Engine](vp-supply-chain-insight-engine.md) | Optimizes your supply chain with data-driven insights and recommendations. |
 | [Warehouse](../../it-and-development/data-analysis/warehouse.md) | Plan and review read-only warehouse analysis with explicit scope and validation checks. No schema guessing or write operations. Hand off admin, pipeli |
 | [Warehouse Automation Planner](warehouse-automation-planner.md) | Optimizes automated warehouse operations from inventory to maintenance for logistics planners. |
 | [Warehouse Flow Layout Analyst](warehouse-flow-layout-analyst.md) | Optimizes warehouse layouts for space, flow, and cost using your data. |
 | [Warehouse Layout Efficiency Advisor](warehouse-layout-efficiency-advisor.md) | Optimizes warehouse space through data-driven layout, inventory, and process recommendations. |
 | [Warehouse Layout Optimizer](warehouse-layout-optimizer.md) | Optimizes warehouse layouts for space, flow, and efficiency. |
 | [Warehouse Space Optimizer](warehouse-space-optimizer.md) | Analyzes and optimizes warehouse space utilization for inventory control specialists. |
+| [Waste Management Optimization Assistant](../../product-development/data-analysis/waste-management-optimization-assistant.md) | Analyzes waste streams, ensures compliance, and optimizes waste management for process engineers. |
 | [Waste Reduction Analyst](waste-reduction-analyst.md) | Turns waste data into reduction plans, reports, and compliance checks for quality control specialists. |
 | [Weekly Ops Report](../../management/data-analysis/weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |
 | [Wellally Tech](../../healthcare/data-analysis/wellally-tech.md) | Import health data and query WellAlly knowledge base for personal health management. |

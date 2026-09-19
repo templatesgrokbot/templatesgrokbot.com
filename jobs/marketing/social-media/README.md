@@ -1,6 +1,6 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 50 Grok Bot templates.
+Plan, write and measure posts across networks. 53 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Plan, write and measure posts across networks. 50 Grok Bot templates.
 | [Community Engagement Assistant](community-engagement-assistant.md) | Builds and nurtures online communities through engagement, content, and recognition. |
 | [Community Engagement Planner](community-engagement-planner.md) | Builds and nurtures online communities through content, engagement, and member programs. |
 | [Content Calendar Organizer](content-calendar-organizer.md) | Plans and organizes your social media content calendar with research, creation, and scheduling support. |
+| [Content Command Center](../../pr-and-communications/social-media/content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
 | [Crisis Communication Manager](crisis-communication-manager.md) | Monitors social media, drafts crisis responses, and builds playbooks for social media coordinators. |
 | [Crisis Management Guide](crisis-management-guide.md) | Guides social media managers through every phase of a crisis, from monitoring to recovery. |
 | [Hashtag Strategy Assistant](hashtag-strategy-assistant.md) | Researches, optimizes, and tracks hashtags for social media campaigns and engagement. |
@@ -25,6 +26,7 @@ Plan, write and measure posts across networks. 50 Grok Bot templates.
 | [Linkedin Content Generator](linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
 | [Linkedin Post Writer](linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
 | [Platform Strategy Developer](platform-strategy-developer.md) | Develops platform-specific social media strategies from content to ads to analytics. |
+| [Presence Audit Optimizer](../../pr-and-communications/social-media/presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |
 | [Reddit Automation](reddit-automation.md) | Search, post, comment, and browse Reddit via Rube MCP. |
 | [Seo Keyword Strategist](seo-keyword-strategist.md) | Analyzes keyword density, entities, and LSI for content optimization. |
 | [Social Content](social-content.md) | Creates, schedules, and optimizes content across LinkedIn, Twitter/X, Instagram, TikTok, and Facebook. |
@@ -32,6 +34,7 @@ Plan, write and measure posts across networks. 50 Grok Bot templates.
 | [Social Listening and Sentiment Analyst](social-listening-and-sentiment-analyst.md) | Turns social media chatter into actionable insights for your brand. |
 | [Social Media Campaign Manager](social-media-campaign-manager.md) | Plan, execute, and optimize social media campaigns with data-backed insights and content support. |
 | [Social Media Campaign Planner](social-media-campaign-planner.md) | Plans and executes social media campaigns from research to reporting. |
+| [Social Media Content Planner](../../pr-and-communications/social-media/social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |
 | [Social Media Content Strategist](social-media-content-strategist.md) | Develops and refines your social media content strategy from research to performance analysis. |
 | [Social Media Copywriter](social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |
 | [Social Media Reporting Assistant](social-media-reporting-assistant.md) | Turns social media data into clear reports, insights, and strategy recommendations. |

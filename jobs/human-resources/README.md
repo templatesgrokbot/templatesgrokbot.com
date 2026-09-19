@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **71 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **73 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Recruiting, onboarding and people operations. **71 ready-made Grok Bot templates
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 20 |
+| [Writing & Content](writing-and-content/README.md) | 21 |
 | [Data Analysis](data-analysis/README.md) | 15 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 9 |
 | [Productivity](productivity/README.md) | 6 |
@@ -22,6 +22,7 @@ Recruiting, onboarding and people operations. **71 ready-made Grok Bot templates
 | [Office Tools](office-tools/README.md) | 2 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Design](design/README.md) | 1 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 
 ## Writing & Content
 
@@ -35,6 +36,7 @@ Recruiting, onboarding and people operations. **71 ready-made Grok Bot templates
 | [Employment Contract Templates](writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Executive Resume Writer](writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 | [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
+| [Internal Communication Planner](../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
 | [Interview Prep Generator](writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Job Application Optimizer](writing-and-content/job-application-optimizer.md) | Tailor resumes, cover letters, and interview prep to each job posting. |
 | [Job Post Writer](writing-and-content/job-post-writer.md) | Writes honest, effective job posts that attract the right candidates for small businesses. |
@@ -148,5 +150,11 @@ Recruiting, onboarding and people operations. **71 ready-made Grok Bot templates
 | Template | What it does |
 |---|---|
 | [Creative Portfolio Resume](../creatives/design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
+
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Employee Engagement Campaign Coordinator](../pr-and-communications/marketing-and-growth/employee-engagement-campaign-coordinator.md) | Plans and runs employee engagement campaigns, from surveys to events, with data-backed insights. |
 
 [← All job fields](../../README.md#browse-by-job) · [Human Resources on the website](https://templatesgrokbot.com/jobs/human-resources)

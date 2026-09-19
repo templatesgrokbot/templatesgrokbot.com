@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **158 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **160 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Contracts, research, compliance and review. **158 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 53 |
-| [Research](research/README.md) | 48 |
+| [Security & Compliance](security-and-compliance/README.md) | 54 |
+| [Research](research/README.md) | 49 |
 | [Data Analysis](data-analysis/README.md) | 22 |
 | [Knowledge Management](knowledge-management/README.md) | 9 |
 | [Writing & Content](writing-and-content/README.md) | 9 |
@@ -51,6 +51,7 @@ Contracts, research, compliance and review. **158 ready-made Grok Bot templates*
 | [Environmental Compliance Assistant](security-and-compliance/environmental-compliance-assistant.md) | Supports environmental compliance officers with research, documentation, audits, and reporting. |
 | [Ethical Compliance Assessment Assistant](security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
 | [Ethical Compliance Monitor](security-and-compliance/ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
+| [Ethical Review Assistant](../pr-and-communications/security-and-compliance/ethical-review-assistant.md) | Guides editors through ethical review of content, from literature to certification. |
 | [Event Staffing Compliance](../human-resources/security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
 | [Fda Consultant Specialist](../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
 | [Fda Medtech Compliance Auditor](security-and-compliance/fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |
@@ -125,6 +126,7 @@ Contracts, research, compliance and review. **158 ready-made Grok Bot templates*
 | [Patent Application Drafting Assistant](research/patent-application-drafting-assistant.md) | Drafts, reviews, and files patent applications with precision and compliance. |
 | [Patent Classification Assistant](research/patent-classification-assistant.md) | Classifies patents, analyzes prior art, and manages classification workflows for patent agents. |
 | [Patent Infringement Analysis Assistant](research/patent-infringement-analysis-assistant.md) | Patent infringement analysis assistant for patent agents, from prior art to litigation support. |
+| [Patent Research and Analysis Assistant](../product-development/research/patent-research-and-analysis-assistant.md) | Patent research and analysis assistant for R&D engineers, from prior art to strategy. |
 | [Patent Research Assistant](research/patent-research-assistant.md) | Runs patent research tasks: searches, analyses, drafting support, and monitoring updates. |
 | [Prior Art Analysis Assistant](research/prior-art-analysis-assistant.md) | Streamlines prior art search, analysis, and reporting for patent agents. |
 | [Regulatory Affairs Assistant](research/regulatory-affairs-assistant.md) | Handles regulatory research, compliance tracking, reporting, audits, and training for legal assistants. |

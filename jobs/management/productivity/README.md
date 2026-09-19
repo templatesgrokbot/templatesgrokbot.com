@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 135 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 136 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -40,6 +40,7 @@ Plan, prioritise and clear the recurring admin. 135 Grok Bot templates, 49 of th
 | [Decision Navigator](decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
 | [Diary](../../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Doordash Group Orders](../../operations/productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
+| [Editorial Calendar Management Assistant](../../pr-and-communications/productivity/editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |
 | [Employee Scheduling Optimizer](../../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
 | [Facility Ops Chat Manager](../../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
 | [Famulor](../../operations/productivity/famulor-skill.md) | Operate Famulor assistants, calls, campaigns, messaging, and workspace settings through its MCP server. |

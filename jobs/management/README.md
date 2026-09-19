@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **593 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **598 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,14 +12,14 @@ Team leads and project managers. **593 ready-made Grok Bot templates** for this 
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 168 |
-| [Productivity](productivity/README.md) | 135 |
-| [Research](research/README.md) | 62 |
+| [Productivity](productivity/README.md) | 136 |
+| [Research](research/README.md) | 63 |
 | [Coding](coding/README.md) | 44 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 31 |
 | [Security & Compliance](security-and-compliance/README.md) | 31 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 29 |
 | [Knowledge Management](knowledge-management/README.md) | 22 |
+| [Writing & Content](writing-and-content/README.md) | 17 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 16 |
-| [Writing & Content](writing-and-content/README.md) | 16 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
 | [Design](design/README.md) | 8 |
@@ -59,7 +59,7 @@ Team leads and project managers. **593 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 135 Productivity templates →](productivity/README.md)
+[All 136 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -74,7 +74,7 @@ Team leads and project managers. **593 ready-made Grok Bot templates** for this 
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Supplier Diversification Planner](research/supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
 
-[All 62 Research templates →](research/README.md)
+[All 63 Research templates →](research/README.md)
 
 ## Coding
 
@@ -91,6 +91,21 @@ Team leads and project managers. **593 ready-made Grok Bot templates** for this 
 
 [All 44 Coding templates →](coding/README.md)
 
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
+| [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
+| [Seo Optimizer](../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
+| [Pricing Strategy Formulation Assistant](marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
+| [Personalized Marketing Strategist](marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
+| [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
+| [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
+| [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
+
+[All 31 Marketing & Growth templates →](marketing-and-growth/README.md)
+
 ## Security & Compliance
 
 | Template | What it does |
@@ -105,21 +120,6 @@ Team leads and project managers. **593 ready-made Grok Bot templates** for this 
 | [Quality Nonconformance](../operations/security-and-compliance/quality-nonconformance.md) | Manage non-conformance lifecycle, root cause analysis, and CAPA in regulated manufacturing. |
 
 [All 31 Security & Compliance templates →](security-and-compliance/README.md)
-
-## Marketing & Growth
-
-| Template | What it does |
-|---|---|
-| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
-| [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
-| [Seo Optimizer](../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
-| [Pricing Strategy Formulation Assistant](marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
-| [Personalized Marketing Strategist](marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
-| [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
-| [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
-| [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
-
-[All 29 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Knowledge Management
 
@@ -136,6 +136,21 @@ Team leads and project managers. **593 ready-made Grok Bot templates** for this 
 
 [All 22 Knowledge Management templates →](knowledge-management/README.md)
 
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Internal Comms Anthropic](../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
+| [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
+| [Interview Style Doc Building](writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
+| [Internal Comms Drafter](../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
+| [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
+| [Guest Experience Enhancer](../hospitality-and-events/writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
+| [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
+| [RFP Compliance Drafter](../sales/writing-and-content/rfp-compliance-drafter.md) | Turns an RFP and your past proposals into a compliance matrix and a drafted response, flagging gaps before you write. |
+
+[All 17 Writing & Content templates →](writing-and-content/README.md)
+
 ## Cloud & DevOps
 
 | Template | What it does |
@@ -150,21 +165,6 @@ Team leads and project managers. **593 ready-made Grok Bot templates** for this 
 | [Error Diagnostics Error Trace](../it-and-development/cloud-and-devops/error-diagnostics-error-trace.md) | Implement error tracking, structured logging, and intelligent alerting for production systems. |
 
 [All 16 Cloud & DevOps templates →](cloud-and-devops/README.md)
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Internal Comms Anthropic](../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
-| [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
-| [Interview Style Doc Building](writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
-| [Internal Comms Drafter](../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
-| [Guest Experience Enhancer](../hospitality-and-events/writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
-| [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
-| [RFP Compliance Drafter](../sales/writing-and-content/rfp-compliance-drafter.md) | Turns an RFP and your past proposals into a compliance matrix and a drafted response, flagging gaps before you write. |
-| [Executive Resume Writer](../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
-
-[All 16 Writing & Content templates →](writing-and-content/README.md)
 
 ## Self-Improvement
 

@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 87 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 91 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -60,12 +60,15 @@ Clean, query, chart and explain data. 87 Grok Bot templates, 39 of them filed in
 | [Omero Integration](omero-integration.md) | Manage microscopy images and metadata via OMERO Python API. |
 | [Oral Health Analyzer](../../healthcare/data-analysis/oral-health-analyzer.md) | Analyze oral health data to identify risks and provide personalized care advice. |
 | [Pathml](../../healthcare/data-analysis/pathml.md) | Analyze whole-slide pathology images and multiparametric imaging data. |
+| [Prototype Testing Analysis Assistant](../../product-development/data-analysis/prototype-testing-analysis-assistant.md) | Analyzes prototype test data and generates reports for R&D engineers. |
 | [Pydeseq2](pydeseq2.md) | Run differential expression analysis on bulk RNA-seq count data using PyDESeq2. |
 | [Pymatgen](pymatgen.md) | Analyzes crystal structures, phase diagrams, and electronic structure for computational materials science. |
 | [Pymc](pymc.md) | Build, fit, validate, and compare Bayesian models with PyMC for probabilistic inference. |
 | [Pyopenms](pyopenms.md) | Analyze mass spectrometry data for proteomics and metabolomics using PyOpenMS. |
 | [Pysam](pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
 | [Qutip](qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
+| [R&D Cost-Benefit Analyst](../../product-development/data-analysis/r-d-cost-benefit-analyst.md) | Runs cost-benefit analysis for R&D projects from data collection to decision support. |
+| [R&D Data Analysis Assistant](../../product-development/data-analysis/r-d-data-analysis-assistant.md) | Collects, cleans, analyzes, and visualizes data for R&D engineers, from scraping to dashboards. |
 | [Rag Chroma](../../it-and-development/data-analysis/rag-chroma.md) | Manages a local Chroma vector database for storing embeddings and performing semantic search. |
 | [Rag Faiss](../../it-and-development/data-analysis/rag-faiss.md) | Build and query billion-scale vector indexes for similarity search. No metadata filtering. No database features. Just fast nearest-neighbor search. Yo |
 | [Rag Sentence Transformers](../../it-and-development/data-analysis/rag-sentence-transformers.md) | Generates high-quality text embeddings for semantic search and RAG using local models. |
@@ -79,6 +82,7 @@ Clean, query, chart and explain data. 87 Grok Bot templates, 39 of them filed in
 | [Seaborn](../../it-and-development/data-analysis/seaborn.md) | Generate publication-quality Seaborn statistical plots from DataFrames with code only. |
 | [Senior Data Scientist](senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
 | [Shap](../../it-and-development/data-analysis/shap.md) | Explains machine learning model predictions using SHAP values and visualizations. |
+| [Simulation Model Development Assistant](../../product-development/data-analysis/simulation-model-development-assistant.md) | Simulation model development assistant for R&D engineers, from data to validation and reporting. |
 | [Simulation Modeling Assistant](../../operations/data-analysis/simulation-modeling-assistant.md) | Builds and runs simulation models to optimize processes, resources, and decisions. |
 | [Skin Health Analyzer](../../healthcare/data-analysis/skin-health-analyzer.md) | Analyze skin health data to identify patterns and assess status. |
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |

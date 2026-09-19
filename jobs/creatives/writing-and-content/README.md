@@ -1,6 +1,6 @@
 # Writing & Content templates for Creatives
 
-Plan, write and edit articles, copy and documentation. 26 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,10 +10,13 @@ Plan, write and edit articles, copy and documentation. 26 Grok Bot templates, 8 
 | [Avoid Ai Writing](../../writers/writing-and-content/avoid-ai-writing.md) | Audit and rewrite text to remove 21 categories of AI writing patterns. |
 | [Beautiful Prose](../../writers/writing-and-content/beautiful-prose.md) | A style contract for clean, exact, forceful English prose without AI tics. |
 | [Brand Guard](../../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
+| [Brand Storytelling Assistant](../../pr-and-communications/writing-and-content/brand-storytelling-assistant.md) | Crafts compelling brand stories across all channels and formats for marketing teams. |
 | [Content Creation](../../marketing/writing-and-content/marketing-content-creation.md) | Draft channel-specific marketing content that is SEO-aware and free of buzzwords. |
 | [Content Creator](../../marketing/writing-and-content/content-creator.md) | Draft and review audience-specific content using brand examples and channel templates. |
+| [Content Editing Assistant](../../pr-and-communications/writing-and-content/content-editing-assistant.md) | Edits content for grammar, style, clarity, facts, and audience fit. |
 | [Content Research Writer](../../writers/writing-and-content/content-research-writer.md) | Research, outline, and refine written content while preserving the author's voice. |
 | [Copy Editing](../../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
+| [Copywriting Support Assistant](../../pr-and-communications/writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
 | [Devrel Content](../../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Humanizer](../../writers/writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Magazine Blog Post Editor](../../writers/writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |

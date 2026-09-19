@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **56 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **57 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,8 +16,8 @@ Property, building and site work. **56 ready-made Grok Bot templates** for this 
 | [Productivity](productivity/README.md) | 10 |
 | [Research](research/README.md) | 9 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
 | [Knowledge Management](knowledge-management/README.md) | 2 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 
 ## Data Analysis
 
@@ -96,18 +96,19 @@ Property, building and site work. **56 ready-made Grok Bot templates** for this 
 | [Custom Clause Generator](../legal/writing-and-content/custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
 | [Safety Culture Program Builder](../operations/writing-and-content/safety-culture-program-builder.md) | Builds and runs your safety culture program, from training to campaigns to metrics. |
 
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Vendor Evaluation Manager](../operations/sales-and-negotiation/vendor-evaluation-manager.md) | Manages vendor evaluation from research to onboarding and performance tracking. |
+| [Vendor Negotiation Strategist](../operations/sales-and-negotiation/vendor-negotiation-strategist.md) | Prepares, runs, and reviews vendor negotiations from research to contract for a Director of Operations. |
+| [Vendor Relationship Management Assistant](../operations/sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
+
 ## Knowledge Management
 
 | Template | What it does |
 |---|---|
 | [Amendment and Variation Tracker](../legal/knowledge-management/amendment-and-variation-tracker.md) | Tracks contract amendments and variations from log to approval, with alerts and reports. |
 | [Contract Renewal Radar](../legal/knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Vendor Negotiation Strategist](../operations/sales-and-negotiation/vendor-negotiation-strategist.md) | Prepares, runs, and reviews vendor negotiations from research to contract for a Director of Operations. |
-| [Vendor Relationship Management Assistant](../operations/sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
 
 [← All job fields](../../README.md#browse-by-job) · [Real Estate and Construction on the website](https://templatesgrokbot.com/jobs/real-estate-and-construction)

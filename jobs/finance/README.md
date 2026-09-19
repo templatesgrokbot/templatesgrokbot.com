@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **130 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **131 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Accounting, budgeting, analysis and risk. **130 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 83 |
+| [Data Analysis](data-analysis/README.md) | 84 |
 | [Research](research/README.md) | 10 |
 | [Coding](coding/README.md) | 9 |
 | [Productivity](productivity/README.md) | 7 |
@@ -91,6 +91,7 @@ Accounting, budgeting, analysis and risk. **130 ready-made Grok Bot templates** 
 | [Purchasing Budget and Cost Analyst](../management/data-analysis/purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
 | [Quant Analyst](data-analysis/quant-analyst.md) | Builds and backtests quantitative trading strategies with transaction costs and risk analytics for portfolios and derivatives. |
 | [Quarterly Finance Report](data-analysis/quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |
+| [R&D Cost-Benefit Analyst](../product-development/data-analysis/r-d-cost-benefit-analyst.md) | Runs cost-benefit analysis for R&D projects from data collection to decision support. |
 | [Risk Assessment Analyst](../operations/data-analysis/risk-assessment-analyst.md) | Turns your risk data into assessed, prioritized, and actionable risk intelligence for process improvement. |
 | [Risk Assessment and Mitigation Consultant](../management/data-analysis/risk-assessment-and-mitigation-consultant.md) | Identifies, analyzes, and mitigates risks across your organization with structured assessments and plans. |
 | [Risk Assessment Workflow Assistant](../legal/data-analysis/risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |

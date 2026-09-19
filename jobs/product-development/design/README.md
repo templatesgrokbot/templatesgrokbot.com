@@ -1,6 +1,6 @@
 # Design templates for Product Development
 
-Interfaces, brands, layouts and visual systems. 84 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 88 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,11 +17,13 @@ Interfaces, brands, layouts and visual systems. 84 Grok Bot templates, 7 of them
 | [Card Based Design](../../creatives/design/card-based-design.md) | Generate card-based UI layouts with responsive grids and encapsulated content containers. |
 | [Ckw Design](../../creatives/design/ckw-design.md) | Production-grade web UI design with spatial rigor and usability critique. |
 | [Color Theory Design Assistant](../../creatives/design/color-theory-design-assistant.md) | Guides UX/UI designers through color theory, palettes, and accessibility. |
+| [Custom Packaging Design Assistant](custom-packaging-design-assistant.md) | Designs, tests, and sources custom packaging solutions for packaging engineers. |
 | [Data Dense Design](../../it-and-development/design/data-dense-design.md) | Build expert UIs with maximum data density like Bloomberg terminals or IDEs. |
 | [Design Concept Development Assistant](../../creatives/design/design-concept-development-assistant.md) | Turns UX/UI design tasks into guided, documented workflows from research to presentation. |
 | [Design Critique](../../creatives/design/design-design-critique.md) | Gives structured, honest design feedback on usability, hierarchy, consistency, and accessibility. |
 | [Design Handoff Spec](../../it-and-development/design/design-design-handoff.md) | Generate developer handoff specs from a design, covering tokens, props, states, and edge cases. |
 | [Design Md](../../creatives/design/design-md.md) | Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files |
+| [Design Optimization Assistant](design-optimization-assistant.md) | Optimize product designs through simulation, analysis, and material selection. |
 | [Design Philosophy](../../creatives/design/design-philosophy.md) | Generate a named visual philosophy and art-direction for high-concept frontend work. |
 | [Design System](../../it-and-development/design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
 | [Design System Audit & Extend](../../it-and-development/design/design-design-system.md) | Audits your design system for hardcoded values, inconsistencies, and drift, then proposes new patterns that fit. |
@@ -56,6 +58,8 @@ Interfaces, brands, layouts and visual systems. 84 Grok Bot templates, 7 of them
 | [Mobile Design](mobile-design.md) | Guide mobile-first design decisions for iOS and Android with platform conventions and touch psychology. |
 | [Neumorphism](../../creatives/design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Opal or Obsidian UI Builder](../../creatives/design/opal-or-obsidian-ui-builder.md) | Builds parameterized opal or obsidian UI with OKLCH, WebGL/CSS fallback, and measured color reports. |
+| [Packaging Design Optimizer](packaging-design-optimizer.md) | Optimizes packaging designs for materials, cost, sustainability, compliance, and consumer appeal. |
+| [Packaging Innovation Assistant](packaging-innovation-assistant.md) | Turns consumer insights into packaging concepts that sell and satisfy. |
 | [Premium Web Design](../../creatives/design/premium-web-design.md) | Generates award-quality React website components with unique, intentional design. |
 | [Product Design Bot](../../creatives/design/product-design.md) | Creates visual systems, design tokens, and UX flows with Apple standards. |
 | [Product Inventor](../../creatives/design/product-inventor.md) | Invent digital products by combining design thinking, systems, and psychology. |

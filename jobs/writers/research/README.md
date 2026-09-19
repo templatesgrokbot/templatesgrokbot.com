@@ -1,6 +1,6 @@
 # Research templates for Writers
 
-Find sources, compare evidence and summarise what is known. 16 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 17 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Find sources, compare evidence and summarise what is known. 16 Grok Bot template
 | [Defuddle](../../it-and-development/research/defuddle.md) | Extract clean markdown from web pages using Defuddle CLI. |
 | [Denario](../../science-and-research/research/denario.md) | Automates scientific research from data analysis to publication-ready LaTeX papers. |
 | [Detect Ai Text](../../science-and-research/research/detect-ai-text.md) | Estimate AI-written probability in prose documents with linguistic tells and honest abstention on non-prose. |
+| [Editorial Fact-Check Assistant](../../pr-and-communications/research/editorial-fact-check-assistant.md) | Verifies facts, sources, and claims in your content before publication. |
 | [Fact Check X Complete](../../science-and-research/research/fact-check-x-complete.md) | Compare AI answer claims, verify citations against primary sources, and produce an evidence-linked fact-check report. |
 | [Fact Checker](fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
 | [Hugging Face Paper Publisher](../../science-and-research/research/hugging-face-paper-publisher.md) | Publish and manage research papers on Hugging Face Hub with markdown, linking, and authorship. |

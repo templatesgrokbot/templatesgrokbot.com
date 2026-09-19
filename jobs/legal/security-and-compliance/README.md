@@ -1,6 +1,6 @@
 # Security & Compliance templates for Legal
 
-Authorised security testing, audits and regulatory work. 53 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 54 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,6 +26,7 @@ Authorised security testing, audits and regulatory work. 53 Grok Bot templates, 
 | [Environmental Compliance Assistant](environmental-compliance-assistant.md) | Supports environmental compliance officers with research, documentation, audits, and reporting. |
 | [Ethical Compliance Assessment Assistant](ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
 | [Ethical Compliance Monitor](ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
+| [Ethical Review Assistant](../../pr-and-communications/security-and-compliance/ethical-review-assistant.md) | Guides editors through ethical review of content, from literature to certification. |
 | [Event Staffing Compliance](../../human-resources/security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
 | [Fda Consultant Specialist](../../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
 | [Fda Medtech Compliance Auditor](fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |

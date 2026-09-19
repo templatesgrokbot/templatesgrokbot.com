@@ -1,6 +1,6 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 62 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 63 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Find sources, compare evidence and summarise what is known. 62 Grok Bot template
 | [Brightdata Local Search](../../science-and-research/research/brightdata-local-search.md) | Run local web searches via Bright Data SERP API with query expansion and reranking. |
 | [Business Unit Market Scout](../../management/research/business-unit-market-scout.md) | Tracks market trends and competitors for business unit decisions. |
 | [Competitive Ads Extractor](competitive-ads-extractor.md) | Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns. |
+| [Competitive Analysis Analyst](../../pr-and-communications/research/competitive-analysis-analyst.md) | Turns competitor data into strategic insights to outmaneuver rivals. |
 | [Competitive Analyst](competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
 | [Competitive Brief](marketing-competitive-brief.md) | Compare five competitors on messaging, visuals, pricing signals, and open market niches. |
 | [Competitive Intelligence Analyst](../../executives-and-strategy/research/competitive-intelligence-analyst.md) | Monitors competitors and market trends to produce structured intelligence reports. |

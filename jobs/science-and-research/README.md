@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **347 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **358 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,20 +11,21 @@ Scientists, analysts and academic researchers. **347 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Research](research/README.md) | 137 |
-| [Data Analysis](data-analysis/README.md) | 87 |
+| [Research](research/README.md) | 140 |
+| [Data Analysis](data-analysis/README.md) | 91 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 64 |
 | [Coding](coding/README.md) | 30 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 10 |
-| [Writing & Content](writing-and-content/README.md) | 5 |
+| [Writing & Content](writing-and-content/README.md) | 6 |
+| [Security & Compliance](security-and-compliance/README.md) | 5 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
-| [Security & Compliance](security-and-compliance/README.md) | 3 |
 | [Design](design/README.md) | 2 |
 | [Generative Art](generative-art/README.md) | 1 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Productivity](productivity/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 
 ## Research
 
@@ -108,7 +109,9 @@ Scientists, analysts and academic researchers. **347 ready-made Grok Bot templat
 | [Lamindb](research/lamindb.md) | Manages biological datasets with lineage tracking, ontology validation, and FAIR compliance. |
 | [Latex Posters](research/latex-posters.md) | Create professional research posters in LaTeX for conferences and academic events. |
 | [Literature Review](research/literature-review.md) | Conducts systematic literature reviews across scientific databases and produces formatted documents. |
+| [Literature Review Assistant](../product-development/research/literature-review-assistant.md) | Literature review assistant for R&D engineers: finds, summarizes, synthesizes, and manages research. |
 | [Market Trend Analyst](../management/research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
+| [Material Selection Guide](../product-development/research/material-selection-guide.md) | Guides R&D engineers through material selection with data-backed research, analysis, and tools. |
 | [Mechanistic Interpretability Nnsight](research/mechanistic-interpretability-nnsight.md) | Runs mechanistic interpretability experiments on any PyTorch model, local or remote via NDIF. |
 | [Mechanistic Interpretability Pyvene](research/mechanistic-interpretability-pyvene.md) | Guides causal intervention experiments on PyTorch models using pyvene. |
 | [Mechanistic Interpretability Saelens](../it-and-development/research/mechanistic-interpretability-saelens.md) | Trains and analyzes Sparse Autoencoders to find interpretable features in neural networks. |
@@ -126,6 +129,7 @@ Scientists, analysts and academic researchers. **347 ready-made Grok Bot templat
 | [Opentargets Database](research/opentargets-database.md) | Queries Open Targets Platform for target-disease associations, drug discovery, and safety data. |
 | [Paper 2 Web](research/paper-2-web.md) | Converts academic papers into interactive websites, presentation videos, and conference posters. |
 | [Papers](research/papers-skill.md) | Search academic papers, inspect citations, download arXiv PDFs, and extract text. |
+| [Patent Research and Analysis Assistant](../product-development/research/patent-research-and-analysis-assistant.md) | Patent research and analysis assistant for R&D engineers, from prior art to strategy. |
 | [Patent Research Assistant](../legal/research/patent-research-assistant.md) | Runs patent research tasks: searches, analyses, drafting support, and monitoring updates. |
 | [Pdb Database](research/pdb-database.md) | Search RCSB PDB for 3D structures by text, sequence, or shape, then retrieve coordinates and metadata. |
 | [Peer Review](research/peer-review.md) | Systematically evaluate scientific manuscripts and grant proposals for rigor, reproducibility, and reporting standards. |
@@ -226,12 +230,15 @@ Scientists, analysts and academic researchers. **347 ready-made Grok Bot templat
 | [Omero Integration](data-analysis/omero-integration.md) | Manage microscopy images and metadata via OMERO Python API. |
 | [Oral Health Analyzer](../healthcare/data-analysis/oral-health-analyzer.md) | Analyze oral health data to identify risks and provide personalized care advice. |
 | [Pathml](../healthcare/data-analysis/pathml.md) | Analyze whole-slide pathology images and multiparametric imaging data. |
+| [Prototype Testing Analysis Assistant](../product-development/data-analysis/prototype-testing-analysis-assistant.md) | Analyzes prototype test data and generates reports for R&D engineers. |
 | [Pydeseq2](data-analysis/pydeseq2.md) | Run differential expression analysis on bulk RNA-seq count data using PyDESeq2. |
 | [Pymatgen](data-analysis/pymatgen.md) | Analyzes crystal structures, phase diagrams, and electronic structure for computational materials science. |
 | [Pymc](data-analysis/pymc.md) | Build, fit, validate, and compare Bayesian models with PyMC for probabilistic inference. |
 | [Pyopenms](data-analysis/pyopenms.md) | Analyze mass spectrometry data for proteomics and metabolomics using PyOpenMS. |
 | [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
 | [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
+| [R&D Cost-Benefit Analyst](../product-development/data-analysis/r-d-cost-benefit-analyst.md) | Runs cost-benefit analysis for R&D projects from data collection to decision support. |
+| [R&D Data Analysis Assistant](../product-development/data-analysis/r-d-data-analysis-assistant.md) | Collects, cleans, analyzes, and visualizes data for R&D engineers, from scraping to dashboards. |
 | [Rag Chroma](../it-and-development/data-analysis/rag-chroma.md) | Manages a local Chroma vector database for storing embeddings and performing semantic search. |
 | [Rag Faiss](../it-and-development/data-analysis/rag-faiss.md) | Build and query billion-scale vector indexes for similarity search. No metadata filtering. No database features. Just fast nearest-neighbor search. Yo |
 | [Rag Sentence Transformers](../it-and-development/data-analysis/rag-sentence-transformers.md) | Generates high-quality text embeddings for semantic search and RAG using local models. |
@@ -245,6 +252,7 @@ Scientists, analysts and academic researchers. **347 ready-made Grok Bot templat
 | [Seaborn](../it-and-development/data-analysis/seaborn.md) | Generate publication-quality Seaborn statistical plots from DataFrames with code only. |
 | [Senior Data Scientist](data-analysis/senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
 | [Shap](../it-and-development/data-analysis/shap.md) | Explains machine learning model predictions using SHAP values and visualizations. |
+| [Simulation Model Development Assistant](../product-development/data-analysis/simulation-model-development-assistant.md) | Simulation model development assistant for R&D engineers, from data to validation and reporting. |
 | [Simulation Modeling Assistant](../operations/data-analysis/simulation-modeling-assistant.md) | Builds and runs simulation models to optimize processes, resources, and decisions. |
 | [Skin Health Analyzer](../healthcare/data-analysis/skin-health-analyzer.md) | Analyze skin health data to identify patterns and assess status. |
 | [Spreadsheet Merger](../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
@@ -387,7 +395,18 @@ Scientists, analysts and academic researchers. **347 ready-made Grok Bot templat
 | [Latex Paper Conversion](writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
 | [Research Grants](writing-and-content/research-grants.md) | Writes competitive research proposals for NSF, NIH, DOE, and DARPA with agency-specific formatting and review criteria. |
 | [Scientific Writing](writing-and-content/scientific-writing.md) | Drafts full-paragraph scientific manuscripts using IMRAD structure with verified citations and figures. |
+| [Technical Documentation Assistant](../product-development/writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
 | [Venue Templates](../education/writing-and-content/venue-templates.md) | Provides LaTeX templates and formatting specs for journals, conferences, posters, and grants. |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Anti Reversing Techniques](../it-and-development/security-and-compliance/anti-reversing-techniques.md) | Analyze anti-debugging and obfuscation in binaries with written authorization only. |
+| [Malware Analyst](../it-and-development/security-and-compliance/malware-analyst.md) | Defensive malware analysis: triage, static/dynamic analysis, IOC extraction, and reporting. |
+| [Protocol Reverse Engineering](../it-and-development/security-and-compliance/protocol-reverse-engineering.md) | Capture, analyze, and document network protocols for security research and debugging. |
+| [R&D EIA Report Builder](../product-development/security-and-compliance/r-d-eia-report-builder.md) | Streamlines environmental impact assessments from data collection to reporting and monitoring. |
+| [R&D Regulatory Navigator](../product-development/security-and-compliance/r-d-regulatory-navigator.md) | Regulatory compliance guidance for R&D engineers: research, interpret, document, monitor, audit, train. |
 
 ## Teaching & Tutoring
 
@@ -397,14 +416,6 @@ Scientists, analysts and academic researchers. **347 ready-made Grok Bot templat
 | [Lightning Factory Explainer](../education/teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
 | [Yann LeCun Debate](../education/teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
 | [Yann LeCun Philosophy](../education/teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Anti Reversing Techniques](../it-and-development/security-and-compliance/anti-reversing-techniques.md) | Analyze anti-debugging and obfuscation in binaries with written authorization only. |
-| [Malware Analyst](../it-and-development/security-and-compliance/malware-analyst.md) | Defensive malware analysis: triage, static/dynamic analysis, IOC extraction, and reporting. |
-| [Protocol Reverse Engineering](../it-and-development/security-and-compliance/protocol-reverse-engineering.md) | Capture, analyze, and document network protocols for security research and debugging. |
 
 ## Design
 
@@ -442,5 +453,11 @@ Scientists, analysts and academic researchers. **347 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Prompt Engineering Dspy](../it-and-development/prompt-engineering/prompt-engineering-dspy.md) | Build and optimize modular AI pipelines using DSPy's declarative framework. |
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Collaboration Network Expander](../product-development/sales-and-negotiation/collaboration-network-expander.md) | Expands your professional network and collaboration opportunities through targeted research, outreach, and partnership coordination. |
 
 [← All job fields](../../README.md#browse-by-job) · [Science and Research on the website](https://templatesgrokbot.com/jobs/science-and-research)

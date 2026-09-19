@@ -1,6 +1,6 @@
 # Social Media templates for Writers
 
-Plan, write and measure posts across networks. 2 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 3 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,5 +8,6 @@ Plan, write and measure posts across networks. 2 Grok Bot templates, 0 of them f
 |---|---|
 | [Brand Voice and Messaging Assistant](../../marketing/social-media/brand-voice-and-messaging-assistant.md) | Crafts and keeps your brand's voice consistent across social media, from captions to strategy. |
 | [Linkedin Post Writer](../../marketing/social-media/linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
+| [Social Media Content Planner](../../pr-and-communications/social-media/social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |
 
 [← All Writers templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/writers)

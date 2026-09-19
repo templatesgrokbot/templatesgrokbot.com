@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **371 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **375 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,11 @@ Designers, artists and content creators. **371 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 146 |
+| [Design](design/README.md) | 147 |
 | [Generative Art](generative-art/README.md) | 46 |
 | [Generative Code](generative-code/README.md) | 45 |
 | [Coding](coding/README.md) | 34 |
-| [Writing & Content](writing-and-content/README.md) | 26 |
+| [Writing & Content](writing-and-content/README.md) | 29 |
 | [Social Media](social-media/README.md) | 16 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 11 |
 | [Video Editing](video-editing/README.md) | 11 |
@@ -175,6 +175,7 @@ Designers, artists and content creators. **371 ready-made Grok Bot templates** f
 | [Vaporwave](design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Vercel Web Design Guidelines](design/vercel-web-design-guidelines.md) | Audits web UIs against 100+ heuristics for UX, layout, and accessibility, returning prioritized fixes. |
 | [Vibrant Maximalism](design/vibrant-maximalism.md) | Generate loud, clashing, dense web/app designs where every pixel carries pattern, color, and type. |
+| [Visual Brand Identity Designer](../pr-and-communications/design/visual-brand-identity-designer.md) | Visual brand identity assistant for logos, palettes, typography, and all design collateral. |
 | [Visual Content Ideation Assistant](../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
 | [Visual Emotion Engineer](design/visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
 | [VR Learning Content Designer](../education/design/vr-learning-content-designer.md) | Designs and develops VR learning content from storyboard to QA. |
@@ -330,10 +331,13 @@ Designers, artists and content creators. **371 ready-made Grok Bot templates** f
 | [Avoid Ai Writing](../writers/writing-and-content/avoid-ai-writing.md) | Audit and rewrite text to remove 21 categories of AI writing patterns. |
 | [Beautiful Prose](../writers/writing-and-content/beautiful-prose.md) | A style contract for clean, exact, forceful English prose without AI tics. |
 | [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
+| [Brand Storytelling Assistant](../pr-and-communications/writing-and-content/brand-storytelling-assistant.md) | Crafts compelling brand stories across all channels and formats for marketing teams. |
 | [Content Creation](../marketing/writing-and-content/marketing-content-creation.md) | Draft channel-specific marketing content that is SEO-aware and free of buzzwords. |
 | [Content Creator](../marketing/writing-and-content/content-creator.md) | Draft and review audience-specific content using brand examples and channel templates. |
+| [Content Editing Assistant](../pr-and-communications/writing-and-content/content-editing-assistant.md) | Edits content for grammar, style, clarity, facts, and audience fit. |
 | [Content Research Writer](../writers/writing-and-content/content-research-writer.md) | Research, outline, and refine written content while preserving the author's voice. |
 | [Copy Editing](../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
+| [Copywriting Support Assistant](../pr-and-communications/writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
 | [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Humanizer](../writers/writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Magazine Blog Post Editor](../writers/writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |

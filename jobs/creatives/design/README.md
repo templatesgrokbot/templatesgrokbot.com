@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 146 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 147 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -146,6 +146,7 @@ Interfaces, brands, layouts and visual systems. 146 Grok Bot templates, 116 of t
 | [Vaporwave](vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Vercel Web Design Guidelines](vercel-web-design-guidelines.md) | Audits web UIs against 100+ heuristics for UX, layout, and accessibility, returning prioritized fixes. |
 | [Vibrant Maximalism](vibrant-maximalism.md) | Generate loud, clashing, dense web/app designs where every pixel carries pattern, color, and type. |
+| [Visual Brand Identity Designer](../../pr-and-communications/design/visual-brand-identity-designer.md) | Visual brand identity assistant for logos, palettes, typography, and all design collateral. |
 | [Visual Content Ideation Assistant](../../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
 | [Visual Emotion Engineer](visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
 | [VR Learning Content Designer](../../education/design/vr-learning-content-designer.md) | Designs and develops VR learning content from storyboard to QA. |

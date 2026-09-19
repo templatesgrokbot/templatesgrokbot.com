@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 36 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 39 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Explain, quiz and guide someone through a subject. 36 Grok Bot templates, 30 of 
 |---|---|
 | [Adaptive Learning Pathway Designer](adaptive-learning-pathway-designer.md) | Personalizes eLearning pathways, assessments, and feedback for each learner. |
 | [Code Documentation Code Explain](code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |
+| [Communication Workshop Manager](../../pr-and-communications/teaching-and-tutoring/communication-workshop-manager.md) | Plans, runs, and improves communication training workshops from start to finish. |
 | [Compliance Training Material Creator](../../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
 | [Compliance Training Program Developer](../../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 | [Crossframe Teach](crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
@@ -26,10 +27,12 @@ Explain, quiz and guide someone through a subject. 36 Grok Bot templates, 30 of 
 | [Legal Training Material Creator](../../legal/teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
 | [Lesson Generator](lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
 | [Lightning Factory Explainer](lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
+| [Media Training Program Builder](../../pr-and-communications/teaching-and-tutoring/media-training-program-builder.md) | Builds and runs media training programs for spokespersons and executives. |
 | [Microsoft Study Mode](microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
 | [Personalized Learning Designer](personalized-learning-designer.md) | Designs personalized eLearning experiences through content analysis, learner profiling, and adaptive recommendations. |
 | [Personalized Learning Path Builder](personalized-learning-path-builder.md) | Personalized learning path builder for training instructors to tailor education to each learner. No hype, just adaptive teaching support. |
 | [Pitch Rehearsal](pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
+| [Process Engineer Training Developer](../../product-development/teaching-and-tutoring/process-engineer-training-developer.md) | Builds and manages training and educational resources for process engineers. |
 | [Puzzle Activity Planner](puzzle-activity-planner.md) | Plan puzzle-based activities with pre-configured generator links for classrooms, parties, and events. |
 | [Quiz Maker](quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Role-Play Scenario Development Assistant](role-play-scenario-development-assistant.md) | Builds realistic, objective-aligned role-play scenarios for training instructors and their trainees. |

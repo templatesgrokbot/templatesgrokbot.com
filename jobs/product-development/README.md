@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **930 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **976 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,23 +12,23 @@ Product managers and the teams that ship. **930 ready-made Grok Bot templates** 
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 398 |
-| [Design](design/README.md) | 84 |
+| [Design](design/README.md) | 88 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
 | [Generative Code](generative-code/README.md) | 65 |
-| [Productivity](productivity/README.md) | 52 |
+| [Research](research/README.md) | 57 |
+| [Data Analysis](data-analysis/README.md) | 56 |
+| [Productivity](productivity/README.md) | 55 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
-| [Research](research/README.md) | 48 |
-| [Data Analysis](data-analysis/README.md) | 35 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 33 |
+| [Security & Compliance](security-and-compliance/README.md) | 24 |
 | [Prompt Engineering](prompt-engineering/README.md) | 22 |
-| [Security & Compliance](security-and-compliance/README.md) | 19 |
-| [Writing & Content](writing-and-content/README.md) | 19 |
+| [Writing & Content](writing-and-content/README.md) | 20 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
 | [Generative Art](generative-art/README.md) | 9 |
 | [Self-Improvement](self-improvement/README.md) | 4 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Office Tools](office-tools/README.md) | 1 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 | [Translation](translation/README.md) | 1 |
 | [Video Editing](video-editing/README.md) | 1 |
 
@@ -60,7 +60,7 @@ Product managers and the teams that ship. **930 ready-made Grok Bot templates** 
 | [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
 
-[All 84 Design templates →](design/README.md)
+[All 88 Design templates →](design/README.md)
 
 ## Generative AI and LLM
 
@@ -92,6 +92,36 @@ Product managers and the teams that ship. **930 ready-made Grok Bot templates** 
 
 [All 65 Generative Code templates →](generative-code/README.md)
 
+## Research
+
+| Template | What it does |
+|---|---|
+| [Ux Researcher](../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
+| [Mcp Registry Navigator](../it-and-development/research/mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
+| [Customer Research](../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
+| [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Task Researcher](../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
+| [Lightning Architecture Review](../it-and-development/research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
+| [Rex](research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
+| [Wiki Researcher](../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
+
+[All 57 Research templates →](research/README.md)
+
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Amplitude Automation](../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
+| [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
+| [Database Design](../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
+| [Zinc Database](../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
+| [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
+| [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
+| [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
+| [Product Feedback Aggregator](../management/data-analysis/product-feedback-aggregator.md) | Turns scattered customer feedback into prioritized, actionable product insights. |
+
+[All 56 Data Analysis templates →](data-analysis/README.md)
+
 ## Productivity
 
 | Template | What it does |
@@ -105,7 +135,7 @@ Product managers and the teams that ship. **930 ready-made Grok Bot templates** 
 | [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [Not A Vibe Coder](productivity/not-a-vibe-coder.md) | Turns vague project ideas into 8 structured planning files for new projects only. |
 
-[All 52 Productivity templates →](productivity/README.md)
+[All 55 Productivity templates →](productivity/README.md)
 
 ## Cloud & DevOps
 
@@ -122,36 +152,6 @@ Product managers and the teams that ship. **930 ready-made Grok Bot templates** 
 
 [All 48 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
-## Research
-
-| Template | What it does |
-|---|---|
-| [Ux Researcher](../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
-| [Mcp Registry Navigator](../it-and-development/research/mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
-| [Customer Research](../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
-| [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
-| [Task Researcher](../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
-| [Lightning Architecture Review](../it-and-development/research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
-| [Rex](research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
-| [Wiki Researcher](../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
-
-[All 48 Research templates →](research/README.md)
-
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Amplitude Automation](../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
-| [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
-| [Database Design](../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
-| [Zinc Database](../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
-| [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
-| [Product Feedback Aggregator](../management/data-analysis/product-feedback-aggregator.md) | Turns scattered customer feedback into prioritized, actionable product insights. |
-| [Experiment Readout](data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
-| [Customer Journey Mapping Assistant](../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
-
-[All 35 Data Analysis templates →](data-analysis/README.md)
-
 ## Marketing & Growth
 
 | Template | What it does |
@@ -166,6 +166,21 @@ Product managers and the teams that ship. **930 ready-made Grok Bot templates** 
 | [Seo Aeo Content Cluster](../marketing/marketing-and-growth/seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |
 
 [All 33 Marketing & Growth templates →](marketing-and-growth/README.md)
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Fda Consultant Specialist](../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
+| [Smart Contract Auditor](../it-and-development/security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
+| [Security Threat Model](../it-and-development/security-and-compliance/security-threat-model.md) | Threat model a codebase from its source, producing a grounded Markdown report. |
+| [Backend Security Coder](../it-and-development/security-and-compliance/backend-security-coder.md) | Secure backend coding expert for input validation, authentication, and API security. |
+| [Regulatory Compliance Guidance Assistant](security-and-compliance/regulatory-compliance-guidance-assistant.md) | Guides process engineers through regulatory compliance research, documentation, reporting, training, audits, and risk management. |
+| [R&D Regulatory Navigator](security-and-compliance/r-d-regulatory-navigator.md) | Regulatory compliance guidance for R&D engineers: research, interpret, document, monitor, audit, train. |
+| [Security And Hardening](../it-and-development/security-and-compliance/security-and-hardening.md) | Hardens code against vulnerabilities by threat modeling and applying OWASP prevention patterns. |
+| [Se Responsible Ai Code](../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
+
+[All 24 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Prompt Engineering
 
@@ -182,21 +197,6 @@ Product managers and the teams that ship. **930 ready-made Grok Bot templates** 
 
 [All 22 Prompt Engineering templates →](prompt-engineering/README.md)
 
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Fda Consultant Specialist](../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
-| [Smart Contract Auditor](../it-and-development/security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
-| [Security Threat Model](../it-and-development/security-and-compliance/security-threat-model.md) | Threat model a codebase from its source, producing a grounded Markdown report. |
-| [Backend Security Coder](../it-and-development/security-and-compliance/backend-security-coder.md) | Secure backend coding expert for input validation, authentication, and API security. |
-| [Security And Hardening](../it-and-development/security-and-compliance/security-and-hardening.md) | Hardens code against vulnerabilities by threat modeling and applying OWASP prevention patterns. |
-| [Se Responsible Ai Code](../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
-| [Accessibility Tester](../it-and-development/security-and-compliance/accessibility-tester.md) | Test web and mobile apps for WCAG compliance and assistive technology support. |
-| [Production Audit](../it-and-development/security-and-compliance/production-audit.md) | Audits deployed repos for production-readiness gaps across security, infra, and UX. |
-
-[All 19 Security & Compliance templates →](security-and-compliance/README.md)
-
 ## Writing & Content
 
 | Template | What it does |
@@ -205,12 +205,12 @@ Product managers and the teams that ship. **930 ready-made Grok Bot templates** 
 | [Seo Content Refresher](../marketing/writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
 | [Documentation Templates](../it-and-development/writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
 | [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
+| [Technical Documentation Assistant](writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
 | [Doc Co-Authoring Workflow](../writers/writing-and-content/doc-coauthoring.md) | Guides users through co-authoring docs with context, refinement, and reader testing. |
 | [Reference Builder](../it-and-development/writing-and-content/reference-builder.md) | Generate exhaustive technical references and API documentation from code and specs. |
 | [App Store Changelog](../it-and-development/writing-and-content/app-store-changelog.md) | Generate App Store release notes from git history since the last tag. |
-| [PRD Single Pager](writing-and-content/prd-single-pager.md) | Turns a product idea into a one-page PRD with problem, metrics, scope, stories, design, rollout, and open questions. |
 
-[All 19 Writing & Content templates →](writing-and-content/README.md)
+[All 20 Writing & Content templates →](writing-and-content/README.md)
 
 ## Knowledge Management
 
@@ -257,18 +257,21 @@ Product managers and the teams that ship. **930 ready-made Grok Bot templates** 
 |---|---|
 | [Demonstrate Understanding](../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Lesson Generator](../education/teaching-and-tutoring/lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
+| [Process Engineer Training Developer](teaching-and-tutoring/process-engineer-training-developer.md) | Builds and manages training and educational resources for process engineers. |
+| [Technology Integration Assistant](teaching-and-tutoring/technology-integration-assistant.md) | Guides packaging engineers through technology integration from material selection to smart packaging. |
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Collaboration Network Expander](sales-and-negotiation/collaboration-network-expander.md) | Expands your professional network and collaboration opportunities through targeted research, outreach, and partnership coordination. |
+| [Sales Engineer](../sales/sales-and-negotiation/sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
 
 ## Office Tools
 
 | Template | What it does |
 |---|---|
 | [Notion Ops Connector](../operations/office-tools/notion-ops-connector.md) | Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Sales Engineer](../sales/sales-and-negotiation/sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
 
 ## Translation
 

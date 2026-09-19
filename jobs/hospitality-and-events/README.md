@@ -1,6 +1,6 @@
 # Grok Bot templates for Hospitality and Events
 
-Hotels, venues, travel and event teams. **88 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Hotels, venues, travel and event teams. **107 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,12 +11,12 @@ Hotels, venues, travel and event teams. **88 ready-made Grok Bot templates** for
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 32 |
-| [Productivity](productivity/README.md) | 22 |
-| [Social Media](social-media/README.md) | 9 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 7 |
+| [Data Analysis](data-analysis/README.md) | 35 |
+| [Productivity](productivity/README.md) | 23 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 15 |
+| [Social Media](social-media/README.md) | 13 |
+| [Writing & Content](writing-and-content/README.md) | 7 |
 | [Research](research/README.md) | 4 |
-| [Writing & Content](writing-and-content/README.md) | 4 |
 | [Support & Community](support-and-community/README.md) | 3 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
@@ -28,6 +28,7 @@ Hotels, venues, travel and event teams. **88 ready-made Grok Bot templates** for
 
 | Template | What it does |
 |---|---|
+| [Audience Compass Strategist](../pr-and-communications/data-analysis/audience-compass-strategist.md) | Analyzes audience data to sharpen communication strategy and engagement. |
 | [Budget Forecast Assistant](../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Customer Experience Improvement](../operations/data-analysis/customer-experience-improvement.md) | Analyzes customer data and feedback to improve experience, support, and loyalty. |
 | [Customer Experience Improvement Assistant](../operations/data-analysis/customer-experience-improvement-assistant.md) | Turns customer data into actions that improve experience and support across every channel. |
@@ -49,7 +50,9 @@ Hotels, venues, travel and event teams. **88 ready-made Grok Bot templates** for
 | [Operations Cost Analyst](../operations/data-analysis/operations-cost-analyst.md) | Analyzes costs, forecasts trends, and recommends savings for operations leadership. |
 | [Operations Data Insights Assistant](../operations/data-analysis/operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |
 | [Operations Data Optimizer](../operations/data-analysis/operations-data-optimizer.md) | Optimize operational processes with data-driven analysis and automation. |
+| [Operations Demand Insight](../operations/data-analysis/operations-demand-insight.md) | Forecasts demand for your operations using your data and market insight. |
 | [Operations Feedback Insight Builder](../operations/data-analysis/operations-feedback-insight-builder.md) | Analyzes feedback, designs surveys, trains reps, monitors quality, and reports on customer service performance. |
+| [Operations Voice Decoder](../operations/data-analysis/operations-voice-decoder.md) | Turns customer feedback into clear insights and improvement plans for operations leaders. |
 | [Ops Bottleneck Finder](../operations/data-analysis/ops-bottleneck-finder.md) | Analyzes operations data and processes to find bottlenecks, improve quality, and cut waste. |
 | [Performance Metrics Analyst](../operations/data-analysis/performance-metrics-analyst.md) | Turns your performance metrics into insights, forecasts, and action plans for operations. |
 | [Procurement Cost Analyzer](../operations/data-analysis/procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |
@@ -72,6 +75,7 @@ Hotels, venues, travel and event teams. **88 ready-made Grok Bot templates** for
 | [Emergency Preparedness Assistant](../customer-support/productivity/emergency-preparedness-assistant.md) | Prepares emergency plans, contacts, supplies, and drills for your workplace. |
 | [Employee Scheduling Optimizer](../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
 | [Event Coordination Assistant](../customer-support/productivity/event-coordination-assistant.md) | Plans and runs events from scheduling to post-event follow-up. |
+| [Event Planning and Management Assistant](../pr-and-communications/productivity/event-planning-and-management-assistant.md) | Plans, promotes, and runs your events from venue to post-event report. |
 | [Event Staffing Ordering](../operations/productivity/event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
 | [Facility Operations Planner](../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
 | [Facility Ops Chat Manager](../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
@@ -88,31 +92,55 @@ Hotels, venues, travel and event teams. **88 ready-made Grok Bot templates** for
 | [Travel Arrangement Coordinator](../customer-support/productivity/travel-arrangement-coordinator.md) | Plans and books client travel from flights to insurance in one place. |
 | [Visitor Management Assistant](../customer-support/productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
 
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Audience Segmentation Strategist](../pr-and-communications/marketing-and-growth/audience-segmentation-strategist.md) | Turns customer data into audience segments and targeted marketing strategies. |
+| [Content Marketing Assistant](../pr-and-communications/marketing-and-growth/content-marketing-assistant.md) | Drafts, optimizes, and plans all your content marketing from research to distribution. |
+| [Content Strategy](../marketing/marketing-and-growth/content-strategy.md) | Plan content strategy, topic clusters, and editorial roadmap for traffic and leads. |
+| [Content Strategy Planner](../management/marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
+| [Customer Persona Builder](../management/marketing-and-growth/customer-persona-builder.md) | Builds and refines customer personas from research to presentation for marketing managers. |
+| [Email Marketing Campaign Assistant](../pr-and-communications/marketing-and-growth/email-marketing-campaign-assistant.md) | Plans, writes, and analyzes email campaigns to lift engagement and ROI. |
+| [Event Lifecycle Orchestrator](../pr-and-communications/marketing-and-growth/event-lifecycle-orchestrator.md) | Plans, promotes, and evaluates your events from invitations to post-event analysis. |
+| [Event Promotion Planner](../management/marketing-and-growth/event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
+| [Hotel Marketing Strategist](marketing-and-growth/hotel-marketing-strategist.md) | Marketing strategy assistant for hotel managers, from research to campaign optimization. |
+| [Hotel Reputation Manager](marketing-and-growth/hotel-reputation-manager.md) | Manages hotel online reputation from review monitoring to crisis response. |
+| [Journey Map Content Builder](../pr-and-communications/marketing-and-growth/journey-map-content-builder.md) | Maps and improves customer journeys from data to content. |
+| [Pricing Strategy Formulation Assistant](../management/marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
+| [Reputation Management Monitor](../pr-and-communications/marketing-and-growth/reputation-management-monitor.md) | Monitors brand sentiment, manages crises, and builds reputation strategies from social and review data. |
+| [Social Media Strategy Planner](../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
+| [Stakeholder Communication Strategist](../pr-and-communications/marketing-and-growth/stakeholder-communication-strategist.md) | Builds and runs your stakeholder communication strategy from analysis to evaluation. |
+
 ## Social Media
 
 | Template | What it does |
 |---|---|
 | [Brand Reputation Monitor](../marketing/social-media/brand-reputation-monitor.md) | Monitors brand sentiment, trends, competitors, and crises on social media, delivering reports and alerts. |
 | [Brand Voice and Messaging Assistant](../marketing/social-media/brand-voice-and-messaging-assistant.md) | Crafts and keeps your brand's voice consistent across social media, from captions to strategy. |
+| [Content Command Center](../pr-and-communications/social-media/content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
 | [Hashtag Strategy Assistant](../marketing/social-media/hashtag-strategy-assistant.md) | Researches, optimizes, and tracks hashtags for social media campaigns and engagement. |
+| [Presence Audit Optimizer](../pr-and-communications/social-media/presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |
+| [Reputation Monitoring Assistant](../pr-and-communications/social-media/reputation-monitoring-assistant.md) | Monitors and analyzes online reputation across platforms for PR specialists. |
 | [Social Content](../marketing/social-media/social-content.md) | Creates, schedules, and optimizes content across LinkedIn, Twitter/X, Instagram, TikTok, and Facebook. |
 | [Social Content Scheduling Planner](../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
 | [Social Listening and Sentiment Analyst](../marketing/social-media/social-listening-and-sentiment-analyst.md) | Turns social media chatter into actionable insights for your brand. |
 | [Social Media Campaign Manager](../marketing/social-media/social-media-campaign-manager.md) | Plan, execute, and optimize social media campaigns with data-backed insights and content support. |
 | [Social Media Campaign Planner](../marketing/social-media/social-media-campaign-planner.md) | Plans and executes social media campaigns from research to reporting. |
+| [Social Media Content Planner](../pr-and-communications/social-media/social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |
 | [Social Media SEO Optimizer](../marketing/social-media/social-media-seo-optimizer.md) | Optimizes social media content for search engines and tracks SEO performance. |
 
-## Marketing & Growth
+## Writing & Content
 
 | Template | What it does |
 |---|---|
-| [Content Strategy Planner](../management/marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
-| [Customer Persona Builder](../management/marketing-and-growth/customer-persona-builder.md) | Builds and refines customer personas from research to presentation for marketing managers. |
-| [Event Promotion Planner](../management/marketing-and-growth/event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
-| [Hotel Marketing Strategist](marketing-and-growth/hotel-marketing-strategist.md) | Marketing strategy assistant for hotel managers, from research to campaign optimization. |
-| [Hotel Reputation Manager](marketing-and-growth/hotel-reputation-manager.md) | Manages hotel online reputation from review monitoring to crisis response. |
-| [Pricing Strategy Formulation Assistant](../management/marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
-| [Social Media Strategy Planner](../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
+| [Brand Storytelling Assistant](../pr-and-communications/writing-and-content/brand-storytelling-assistant.md) | Crafts compelling brand stories across all channels and formats for marketing teams. |
+| [Content Analysis and Optimization Assistant](../pr-and-communications/writing-and-content/content-analysis-and-optimization-assistant.md) | Analyzes and optimizes content for engagement, SEO, and brand consistency. |
+| [Crisis Communication Planner](../pr-and-communications/writing-and-content/crisis-communication-planner.md) | Prepares crisis communication plans, messages, and training for communication managers. |
+| [Guest Experience Enhancer](writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
+| [Guest Experience Personalizer](writing-and-content/guest-experience-personalizer.md) | Personalizes every guest interaction from booking to follow-up for hotel managers. |
+| [Receptionist Communication Assistant](../customer-support/writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
+| [Recipe Rescuer](../creatives/writing-and-content/recipe-rescuer.md) | Adapts a recipe to what you actually have, and tells you when a substitution will not work. |
 
 ## Research
 
@@ -122,15 +150,6 @@ Hotels, venues, travel and event teams. **88 ready-made Grok Bot templates** for
 | [Supplier Research and Analysis Assistant](../operations/research/supplier-research-and-analysis-assistant.md) | Finds, vets, and manages suppliers with data-backed analysis and clear recommendations. |
 | [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Vendor Research and Evaluation Assistant](../management/research/vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Guest Experience Enhancer](writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
-| [Guest Experience Personalizer](writing-and-content/guest-experience-personalizer.md) | Personalizes every guest interaction from booking to follow-up for hotel managers. |
-| [Receptionist Communication Assistant](../customer-support/writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
-| [Recipe Rescuer](../creatives/writing-and-content/recipe-rescuer.md) | Adapts a recipe to what you actually have, and tells you when a substitution will not work. |
 
 ## Support & Community
 

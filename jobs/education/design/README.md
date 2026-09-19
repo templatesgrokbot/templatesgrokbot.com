@@ -1,6 +1,6 @@
 # Design templates for Education
 
-Interfaces, brands, layouts and visual systems. 10 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 11 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Interfaces, brands, layouts and visual systems. 10 Grok Bot templates, 9 of them
 |---|---|
 | [AR Learning Experience Designer](ar-learning-experience-designer.md) | Designs and refines AR learning experiences from research to assessment. |
 | [Gamified Learning Designer](gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
+| [Interactive Learning Game Designer](interactive-learning-game-designer.md) | Designs interactive learning games and gamified training experiences for instructors. |
 | [Interactive Learning Tools Design Assistant](interactive-learning-tools-design-assistant.md) | Designs and builds interactive learning tools for eLearning developers. |
 | [Interactive Webinar Designer](interactive-webinar-designer.md) | Designs and builds interactive webinars from research to evaluation. |
 | [Mobile Learning App Designer](mobile-learning-app-designer.md) | Designs and refines mobile learning apps with AI-assisted content, features, and user experience guidance. |

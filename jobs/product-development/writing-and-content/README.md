@@ -1,6 +1,6 @@
 # Writing & Content templates for Product Development
 
-Plan, write and edit articles, copy and documentation. 19 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 20 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,6 +22,7 @@ Plan, write and edit articles, copy and documentation. 19 Grok Bot templates, 1 
 | [README](../../it-and-development/writing-and-content/readme.md) | Generate thorough README documentation for any project. No code execution. No deployment. No production changes. All changes require your approval. |
 | [Reference Builder](../../it-and-development/writing-and-content/reference-builder.md) | Generate exhaustive technical references and API documentation from code and specs. |
 | [Seo Content Refresher](../../marketing/writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
+| [Technical Documentation Assistant](technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
 | [Technical Writer](../../writers/writing-and-content/technical-writer.md) | Creates and improves technical documentation for APIs, SDKs, and user guides. |
 | [UX Copy](../../creatives/writing-and-content/design-ux-copy.md) | Write or review UX copy for buttons, errors, empty states, and toasts. |
 | [UX Copy Refiner](../../creatives/writing-and-content/ux-copy-refiner.md) | Rewrites UI microcopy so users instantly understand what happens next and what to do. |

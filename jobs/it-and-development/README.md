@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,486 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,489 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,10 +19,10 @@ Engineers, DevOps, security and IT teams. **2,486 ready-made Grok Bot templates*
 | [Design](design/README.md) | 89 |
 | [Generative Code](generative-code/README.md) | 88 |
 | [Research](research/README.md) | 87 |
-| [Productivity](productivity/README.md) | 73 |
+| [Productivity](productivity/README.md) | 75 |
 | [Knowledge Management](knowledge-management/README.md) | 44 |
 | [Prompt Engineering](prompt-engineering/README.md) | 33 |
-| [Writing & Content](writing-and-content/README.md) | 25 |
+| [Writing & Content](writing-and-content/README.md) | 26 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 18 |
 | [Generative Art](generative-art/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
@@ -170,7 +170,7 @@ Engineers, DevOps, security and IT teams. **2,486 ready-made Grok Bot templates*
 | [Sendblue Cli](productivity/sendblue-cli.md) | Send iMessage and SMS from the shell using the Sendblue CLI. |
 | [Planning With Files](../management/productivity/planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
 
-[All 73 Productivity templates →](productivity/README.md)
+[All 75 Productivity templates →](productivity/README.md)
 
 ## Knowledge Management
 
@@ -215,7 +215,7 @@ Engineers, DevOps, security and IT teams. **2,486 ready-made Grok Bot templates*
 | [Se Technical Writer](writing-and-content/se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
 | [Tech Resume Optimizer](writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 
-[All 25 Writing & Content templates →](writing-and-content/README.md)
+[All 26 Writing & Content templates →](writing-and-content/README.md)
 
 ## Marketing & Growth
 

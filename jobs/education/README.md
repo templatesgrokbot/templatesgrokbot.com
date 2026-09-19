@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **122 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **128 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,11 @@ Teachers, trainers and students. **122 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 36 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 39 |
 | [Research](research/README.md) | 20 |
 | [Writing & Content](writing-and-content/README.md) | 16 |
-| [Design](design/README.md) | 10 |
-| [Data Analysis](data-analysis/README.md) | 8 |
+| [Design](design/README.md) | 11 |
+| [Data Analysis](data-analysis/README.md) | 10 |
 | [Coding](coding/README.md) | 6 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Knowledge Management](knowledge-management/README.md) | 4 |
@@ -35,6 +35,7 @@ Teachers, trainers and students. **122 ready-made Grok Bot templates** for this 
 |---|---|
 | [Adaptive Learning Pathway Designer](teaching-and-tutoring/adaptive-learning-pathway-designer.md) | Personalizes eLearning pathways, assessments, and feedback for each learner. |
 | [Code Documentation Code Explain](teaching-and-tutoring/code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |
+| [Communication Workshop Manager](../pr-and-communications/teaching-and-tutoring/communication-workshop-manager.md) | Plans, runs, and improves communication training workshops from start to finish. |
 | [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
 | [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 | [Crossframe Teach](teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
@@ -53,10 +54,12 @@ Teachers, trainers and students. **122 ready-made Grok Bot templates** for this 
 | [Legal Training Material Creator](../legal/teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
 | [Lesson Generator](teaching-and-tutoring/lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
 | [Lightning Factory Explainer](teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
+| [Media Training Program Builder](../pr-and-communications/teaching-and-tutoring/media-training-program-builder.md) | Builds and runs media training programs for spokespersons and executives. |
 | [Microsoft Study Mode](teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
 | [Personalized Learning Designer](teaching-and-tutoring/personalized-learning-designer.md) | Designs personalized eLearning experiences through content analysis, learner profiling, and adaptive recommendations. |
 | [Personalized Learning Path Builder](teaching-and-tutoring/personalized-learning-path-builder.md) | Personalized learning path builder for training instructors to tailor education to each learner. No hype, just adaptive teaching support. |
 | [Pitch Rehearsal](teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
+| [Process Engineer Training Developer](../product-development/teaching-and-tutoring/process-engineer-training-developer.md) | Builds and manages training and educational resources for process engineers. |
 | [Puzzle Activity Planner](teaching-and-tutoring/puzzle-activity-planner.md) | Plan puzzle-based activities with pre-configured generator links for classrooms, parties, and events. |
 | [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Role-Play Scenario Development Assistant](teaching-and-tutoring/role-play-scenario-development-assistant.md) | Builds realistic, objective-aligned role-play scenarios for training instructors and their trainees. |
@@ -122,6 +125,7 @@ Teachers, trainers and students. **122 ready-made Grok Bot templates** for this 
 |---|---|
 | [AR Learning Experience Designer](design/ar-learning-experience-designer.md) | Designs and refines AR learning experiences from research to assessment. |
 | [Gamified Learning Designer](design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
+| [Interactive Learning Game Designer](design/interactive-learning-game-designer.md) | Designs interactive learning games and gamified training experiences for instructors. |
 | [Interactive Learning Tools Design Assistant](design/interactive-learning-tools-design-assistant.md) | Designs and builds interactive learning tools for eLearning developers. |
 | [Interactive Webinar Designer](design/interactive-webinar-designer.md) | Designs and builds interactive webinars from research to evaluation. |
 | [Mobile Learning App Designer](design/mobile-learning-app-designer.md) | Designs and refines mobile learning apps with AI-assisted content, features, and user experience guidance. |
@@ -139,10 +143,12 @@ Teachers, trainers and students. **122 ready-made Grok Bot templates** for this 
 | [Job Description Analyzer](../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
 | [Jupyter Notebook](data-analysis/jupyter-notebook.md) | Creates and edits reproducible Jupyter notebooks for experiments or tutorials. |
 | [Learning Analytics Assistant](data-analysis/learning-analytics-assistant.md) | Turns eLearning data into insights, predictions, and personalized learning paths. |
+| [Learning Outcome Forecaster](data-analysis/learning-outcome-forecaster.md) | Forecasts learning outcomes from training data and turns insights into action for instructors. |
 | [Statistical Analysis](../science-and-research/data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 | [Template Gap Analysis Assistant](data-analysis/template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
 | [Training Effectiveness Evaluator](data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |
 | [Training Feedback Analyst](data-analysis/training-feedback-analyst.md) | Analyzes training feedback to surface trends, insights, and actionable steps for instructors. |
+| [Training Report Generator](data-analysis/training-report-generator.md) | Turns training data into automated reports for instructors. |
 
 ## Coding
 

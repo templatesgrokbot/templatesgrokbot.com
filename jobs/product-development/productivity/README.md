@@ -1,6 +1,6 @@
 # Productivity templates for Product Development
 
-Plan, prioritise and clear the recurring admin. 52 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 55 Grok Bot templates, 26 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -46,6 +46,7 @@ Plan, prioritise and clear the recurring admin. 52 Grok Bot templates, 23 of the
 | [Planning And Task Breakdown](../../management/productivity/planning-and-task-breakdown.md) | Breaks specs into ordered, verifiable tasks with acceptance criteria. |
 | [Power User Cultivation](power-user-cultivation.md) | Identify engaged developers and turn them into advocates and contributors. |
 | [Prd](prd.md) | Synthesize conversation into PRD and publish to issue tracker. |
+| [Process Engineer Project Tracker](process-engineer-project-tracker.md) | Project management support for process engineers: schedules, risks, budgets, reports, and stakeholder updates. |
 | [Product Manager](product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
 | [Project Manager](../../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
 | [Refine Issue](../../it-and-development/productivity/refine-issue.md) | Enriches GitHub issues with acceptance criteria, edge cases, and technical notes. |
@@ -53,10 +54,12 @@ Plan, prioritise and clear the recurring admin. 52 Grok Bot templates, 23 of the
 | [Se Product Manager Advisor](se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
 | [Task Decomposition Expert](../../management/productivity/task-decomposition-expert.md) | Breaks complex goals into actionable work breakdowns with dependencies and effort estimates. |
 | [Task Intelligence](../../management/productivity/task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |
+| [Technology Roadmap Planner](technology-roadmap-planner.md) | Builds and maintains technology roadmaps for R&D engineers from market data to execution plans. |
 | [To Issues](to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
 | [Track Management](../../it-and-development/productivity/track-management.md) | Manage Conductor tracks from spec to completion. |
 | [Triage](../../it-and-development/productivity/triage.md) | Triage issues and PRs through a state machine to agent-ready briefs. |
 | [Usage Based Pricing](usage-based-pricing.md) | Design developer-friendly usage-based pricing models with clear metrics and predictable costs. |
 | [Web Project Brainstorming](web-project-brainstorming.md) | Structured framework for brainstorming web project concepts, UX, styling, tech stack, and SEO. |
+| [Workflow Automation Architect](workflow-automation-architect.md) | Automates process workflows from data extraction to compliance and reporting. |
 
 [← All Product Development templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/product-development)

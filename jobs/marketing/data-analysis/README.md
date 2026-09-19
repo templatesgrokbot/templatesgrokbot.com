@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 78 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 81 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,6 +20,7 @@ Clean, query, chart and explain data. 78 Grok Bot templates, 28 of them filed in
 | [Apify Content Analytics](apify-content-analytics.md) | Track engagement metrics and analyze content performance across social platforms using Apify Actors. |
 | [Apify Lead Generation](../../sales/data-analysis/apify-lead-generation.md) | Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors. |
 | [Apify Trend Analysis](apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
+| [Audience Compass Strategist](../../pr-and-communications/data-analysis/audience-compass-strategist.md) | Analyzes audience data to sharpen communication strategy and engagement. |
 | [Brand Image Analyst](../../management/data-analysis/brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
 | [Brand Loyalty Insights Assistant](../../management/data-analysis/brand-loyalty-insights-assistant.md) | Analyzes brand loyalty data and delivers actionable insights for strategic brand management. |
 | [Brand Perception Analyst](../../management/data-analysis/brand-perception-analyst.md) | Analyzes brand perception from reviews, social media, and surveys to guide strategy. |
@@ -30,6 +31,7 @@ Clean, query, chart and explain data. 78 Grok Bot templates, 28 of them filed in
 | [Churn Radar](../../sales/data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
 | [Competitive Social Media Analyst](competitive-social-media-analyst.md) | Competitive social media analysis for marketing strategists, turning competitor data into actionable insights. |
 | [Consultant Segment Profiler](../../management/data-analysis/consultant-segment-profiler.md) | Customer segmentation assistant for management consultants to analyze, profile, and target customer segments. |
+| [Content Analytics Strategist](../../pr-and-communications/data-analysis/content-analytics-strategist.md) | Analyzes content performance, audience, and trends to guide your content strategy. |
 | [Customer Demographic Insight Engine](../../management/data-analysis/customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
 | [Customer Feedback Insight Analyst](../../management/data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
 | [Customer Feedback Insight Analyzer](../../management/data-analysis/customer-feedback-insight-analyzer.md) | Turns customer feedback into prioritized insights and actions for brand strategy. |
@@ -71,6 +73,7 @@ Clean, query, chart and explain data. 78 Grok Bot templates, 28 of them filed in
 | [Performance Report](../../executives-and-strategy/data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Podcast Content Analyzer](../../operations/data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
 | [Posthog Automation](posthog-automation.md) | Automate PostHog analytics, feature flags, and project management via Rube MCP. |
+| [PR Campaign Analytics Assistant](../../pr-and-communications/data-analysis/pr-campaign-analytics-assistant.md) | Turns PR campaign data into actionable insights, reports, and optimization recommendations. |
 | [Pricing Strategy Analyst](../../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
 | [Promotional Effectiveness Analyst](../../management/data-analysis/promotional-effectiveness-analyst.md) | Analyzes promotional effectiveness from sales, feedback, and competitor data to recommend improvements and optimize budget. |
 | [Quarterly Business Review Builder](quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |

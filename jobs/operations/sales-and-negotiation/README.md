@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Operations
 
-Prospecting, outreach, proposals and negotiating terms. 23 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 24 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Prospecting, outreach, proposals and negotiating terms. 23 Grok Bot templates, 1
 | [Supplier Relationship Manager](../../management/sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
 | [Supplier Selection and Management Assistant](supplier-selection-and-management-assistant.md) | Comprehensive supplier selection and management assistant for logistics engineers. |
 | [Territory Planning Optimizer](../../sales/sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
+| [Vendor Evaluation Manager](vendor-evaluation-manager.md) | Manages vendor evaluation from research to onboarding and performance tracking. |
 | [Vendor Management and Negotiation Assistant](vendor-management-and-negotiation-assistant.md) | Manages vendor research, negotiation, contracts, performance, and risk for logistics planners. |
 | [Vendor Management Assistant](vendor-management-assistant.md) | Manages vendor evaluation, selection, negotiation, performance, risk, and development for supply chain analysts. |
 | [Vendor Negotiation Assistant](vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |

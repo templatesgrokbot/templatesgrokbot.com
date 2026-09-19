@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 159 Grok Bot templates, 108 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 163 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -100,6 +100,8 @@ Plan, prioritise and clear the recurring admin. 159 Grok Bot templates, 108 of t
 | [Onboarding Checklist Generator](../../management/productivity/onboarding-checklist-generator.md) | Generates customized client onboarding checklists with phases, owners, dependencies, and email templates. |
 | [Operations Crisis Blueprint](operations-crisis-blueprint.md) | Crisis management planning assistant for global operations heads, from risk assessment to post-crisis evaluation. |
 | [Operations Risk Assessment Guide](operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
+| [Operations Sustainability Blueprint](operations-sustainability-blueprint.md) | Sustainability advisor for operations VPs, turning green goals into concrete programs. |
+| [Ops Crisis Drill Architect](ops-crisis-drill-architect.md) | Plans, runs, and learns from crisis management for a VP of Operations. |
 | [Ops Tech Integration Planner](ops-tech-integration-planner.md) | Plans and manages technology integration projects for operations managers. |
 | [Outlook Automation](outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Outlook Calendar Automation](../../management/productivity/outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
@@ -108,6 +110,7 @@ Plan, prioritise and clear the recurring admin. 159 Grok Bot templates, 108 of t
 | [Plan Writing](../../management/productivity/plan-writing.md) | Breaks down multi-step work into clear, verifiable tasks and saves the plan as a markdown file. |
 | [Planning](../../management/productivity/planning.md) | Creates and maintains markdown planning files to track complex multi-step tasks. No context loss, no goal drift. Always reads before deciding, updates |
 | [Postmark Automation](../../marketing/productivity/postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |
+| [Process Engineer Project Tracker](../../product-development/productivity/process-engineer-project-tracker.md) | Project management support for process engineers: schedules, risks, budgets, reports, and stakeholder updates. |
 | [Process Improvement Comms Architect](process-improvement-comms-architect.md) | Plans stakeholder communication for process improvement projects, from stakeholder mapping to risk assessment. |
 | [Process Mapping and Improvement Assistant](process-mapping-and-improvement-assistant.md) | Maps and improves your organization's processes from discovery to continuous improvement. |
 | [Product Lifecycle Inventory Assistant](product-lifecycle-inventory-assistant.md) | Manages product lifecycle data, inventory, suppliers, quality, pricing, compliance, and returns for inventory control specialists. |
@@ -158,6 +161,7 @@ Plan, prioritise and clear the recurring admin. 159 Grok Bot templates, 108 of t
 | [Visitor Management Assistant](../../customer-support/productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
 | [VopixSounds](../../it-and-development/productivity/vopixsounds.md) | Plays sounds when Claude needs you or finishes a task so you can work in another window. |
 | [Workflow Automation Advisor](workflow-automation-advisor.md) | Finds, evaluates, and rolls out workflow automation for operations managers. |
+| [Workflow Automation Architect](../../product-development/productivity/workflow-automation-architect.md) | Automates process workflows from data extraction to compliance and reporting. |
 | [Workflow Automation Planner](workflow-automation-planner.md) | Finds and implements workflow automation opportunities for operations managers. |
 | [Workflow Chain Designer](workflow-chain-designer.md) | Analyzes your conversation, checks available tools, and recommends step-by-step task chains. |
 | [Workflow Orchestrator](workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |

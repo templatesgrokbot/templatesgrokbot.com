@@ -1,6 +1,6 @@
 # Security & Compliance templates for Operations
 
-Authorised security testing, audits and regulatory work. 86 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 88 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -54,6 +54,7 @@ Authorised security testing, audits and regulatory work. 86 Grok Bot templates, 
 | [Policy Development Support](../../legal/security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
 | [PolicyOps Compliance Aligner](policyops-compliance-aligner.md) | Helps insurance operations managers keep policies, staff, and reports aligned with regulations. |
 | [Powershell Security Hardening](../../it-and-development/security-and-compliance/powershell-security-hardening.md) | Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie |
+| [Process Safety Risk Assessor](../../product-development/security-and-compliance/process-safety-risk-assessor.md) | Turns process data into hazard insights, risk assessments, and safety actions for process engineers. |
 | [Procurement Compliance Assistant](procurement-compliance-assistant.md) | Keeps procurement compliant by tracking regulations, audits, reports, and vendor oversight. |
 | [Product Compliance Verification Assistant](product-compliance-verification-assistant.md) | Verifies product compliance across specs, materials, labeling, safety, environment, and regulations with documentation and audit support. |
 | [Product Quality Assurance Assistant](../../management/security-and-compliance/product-quality-assurance-assistant.md) | Guides quality assurance for purchasing managers: supplier checks, testing, audits, and improvements. |
@@ -70,6 +71,7 @@ Authorised security testing, audits and regulatory work. 86 Grok Bot templates, 
 | [Quality Nonconformance](quality-nonconformance.md) | Manage non-conformance lifecycle, root cause analysis, and CAPA in regulated manufacturing. |
 | [Reception Confidentiality Assistant](../../customer-support/security-and-compliance/reception-confidentiality-assistant.md) | Helps receptionists protect confidential information across calls, visitors, documents, and emails. |
 | [Regulatory Affairs Head](regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
+| [Regulatory Compliance Guidance Assistant](../../product-development/security-and-compliance/regulatory-compliance-guidance-assistant.md) | Guides process engineers through regulatory compliance research, documentation, reporting, training, audits, and risk management. |
 | [Regulatory Compliance Monitor](regulatory-compliance-monitor.md) | Tracks regulatory changes, audits compliance, and reports status for global operations. |
 | [Safety and Compliance Planner](safety-and-compliance-planner.md) | Safety and compliance support for production planners: reviews, audits, training, and incident response. |
 | [Safety Compliance Assistant](safety-compliance-assistant.md) | Safety compliance assistant that turns regulations into policies, audits, training, and reports for safety engineers. |

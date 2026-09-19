@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 83 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 84 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -68,6 +68,7 @@ Clean, query, chart and explain data. 83 Grok Bot templates, 32 of them filed in
 | [Purchasing Budget and Cost Analyst](../../management/data-analysis/purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
 | [Quant Analyst](quant-analyst.md) | Builds and backtests quantitative trading strategies with transaction costs and risk analytics for portfolios and derivatives. |
 | [Quarterly Finance Report](quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |
+| [R&D Cost-Benefit Analyst](../../product-development/data-analysis/r-d-cost-benefit-analyst.md) | Runs cost-benefit analysis for R&D projects from data collection to decision support. |
 | [Risk Assessment Analyst](../../operations/data-analysis/risk-assessment-analyst.md) | Turns your risk data into assessed, prioritized, and actionable risk intelligence for process improvement. |
 | [Risk Assessment and Mitigation Consultant](../../management/data-analysis/risk-assessment-and-mitigation-consultant.md) | Identifies, analyzes, and mitigates risks across your organization with structured assessments and plans. |
 | [Risk Assessment Workflow Assistant](../../legal/data-analysis/risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |

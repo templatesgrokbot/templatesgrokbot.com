@@ -1,6 +1,6 @@
 # Research templates for Operations
 
-Find sources, compare evidence and summarise what is known. 76 Grok Bot templates, 26 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 79 Grok Bot templates, 27 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Find sources, compare evidence and summarise what is known. 76 Grok Bot template
 | [Discovery Management Assistant](../../legal/research/discovery-management-assistant.md) | Organizes, reviews, and drafts discovery documents for paralegals. |
 | [Dispute Resolution Support Assistant](../../legal/research/dispute-resolution-support-assistant.md) | Supports contract administrators through every stage of dispute resolution. |
 | [E-Procurement Solutions Exploration Assistant](e-procurement-solutions-exploration-assistant.md) | Researches and evaluates e-procurement solutions to support your selection decisions. |
+| [Equipment Selection Guide](../../product-development/research/equipment-selection-guide.md) | Guides process engineers through equipment selection with research, analysis, and compliance checks. |
 | [Find Matching Tenders](../../sales/research/find-matching-tenders.md) | Find and rank live AU/NZ government tenders matching a company's capabilities. |
 | [Flight Watch](flight-watch.md) | Watches a route you care about and tells you when the price is genuinely worth acting on. |
 | [Grant Finder](../../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
@@ -53,6 +54,8 @@ Find sources, compare evidence and summarise what is known. 76 Grok Bot template
 | [Notion Research Documentation](notion-research-documentation.md) | Researches your Notion workspace and produces cited briefs, comparisons, or reports. |
 | [Online Dispute Resolution Assistant](../../legal/research/online-dispute-resolution-assistant.md) | Assists lawyers with online dispute resolution tasks from case evaluation to settlement drafting. |
 | [Operations Risk Intel Scout](operations-risk-intel-scout.md) | Competitive intelligence for Global Heads of Operations, from market scans to risk mitigation. |
+| [Operations Tech Integration Guide](operations-tech-integration-guide.md) | Guides technology integration for operations, from evaluation to optimization. |
+| [Packaging Automation Advisor](../../product-development/research/packaging-automation-advisor.md) | Selects, optimizes, and troubleshoots packaging automation for engineers. |
 | [Price Comparison Analyst](../../management/research/price-comparison-analyst.md) | Market research and price comparison assistant for purchasing managers. |
 | [Qms Audit Expert](qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
 | [Regulatory Affairs Assistant](../../legal/research/regulatory-affairs-assistant.md) | Handles regulatory research, compliance tracking, reporting, audits, and training for legal assistants. |

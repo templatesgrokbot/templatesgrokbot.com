@@ -1,6 +1,6 @@
 # Research templates for Management
 
-Find sources, compare evidence and summarise what is known. 62 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 63 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -36,6 +36,7 @@ Find sources, compare evidence and summarise what is known. 62 Grok Bot template
 | [Moatmri](../../executives-and-strategy/research/moatmri.md) | Analyze AI disruption pressure across a business and produce a 90-day defensive action plan. |
 | [Multi Source Search](../../science-and-research/research/multi-source-search.md) | Cross-validate web research into a confidence-scored evidence ledger with source diversity. |
 | [Notion Research Documentation](../../operations/research/notion-research-documentation.md) | Researches your Notion workspace and produces cited briefs, comparisons, or reports. |
+| [Operations Tech Integration Guide](../../operations/research/operations-tech-integration-guide.md) | Guides technology integration for operations, from evaluation to optimization. |
 | [Price Comparison Analyst](price-comparison-analyst.md) | Market research and price comparison assistant for purchasing managers. |
 | [Product Development Insight Assistant](product-development-insight-assistant.md) | Guides market research managers through AI-powered product development insights. |
 | [Product Strategist](../../product-development/research/product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |

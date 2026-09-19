@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **131 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,20 @@ Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 61 |
-| [Research](research/README.md) | 16 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 11 |
+| [Writing & Content](writing-and-content/README.md) | 70 |
+| [Research](research/README.md) | 17 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 13 |
 | [Coding](coding/README.md) | 5 |
+| [Design](design/README.md) | 4 |
+| [Data Analysis](data-analysis/README.md) | 3 |
 | [Generative Code](generative-code/README.md) | 3 |
-| [Design](design/README.md) | 2 |
+| [Social Media](social-media/README.md) | 3 |
 | [Office Tools](office-tools/README.md) | 2 |
-| [Social Media](social-media/README.md) | 2 |
+| [Productivity](productivity/README.md) | 2 |
 | [Text-To-Speech](text-to-speech/README.md) | 2 |
-| [Data Analysis](data-analysis/README.md) | 1 |
 | [Generative Art](generative-art/README.md) | 1 |
-| [Productivity](productivity/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
+| [Security & Compliance](security-and-compliance/README.md) | 1 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 | [Translation](translation/README.md) | 1 |
@@ -39,11 +40,15 @@ Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templat
 | [Blog Writing Guide](../marketing/writing-and-content/blog-writing-guide.md) | Draft and edit Sentry blog posts with a senior-engineer voice, technical depth, and zero marketing fluff. |
 | [Brand Voice Enforcement](../marketing/writing-and-content/brand-voice-enforcement.md) | Applies your brand guidelines to every email, pitch deck, and social post. |
 | [Changelog Updates](../it-and-development/writing-and-content/changelog-updates.md) | Write release notes and changelogs developers actually read, with clear versioning and breaking-change flags. |
+| [Collaborative Writing Editor](../pr-and-communications/writing-and-content/collaborative-writing-editor.md) | Guides editors through every stage of collaborative writing projects, from brainstorming to finalization. |
+| [Content Analysis and Optimization Assistant](../pr-and-communications/writing-and-content/content-analysis-and-optimization-assistant.md) | Analyzes and optimizes content for engagement, SEO, and brand consistency. |
 | [Content Creation](../marketing/writing-and-content/marketing-content-creation.md) | Draft channel-specific marketing content that is SEO-aware and free of buzzwords. |
 | [Content Creator](../marketing/writing-and-content/content-creator.md) | Draft and review audience-specific content using brand examples and channel templates. |
+| [Content Editing Assistant](../pr-and-communications/writing-and-content/content-editing-assistant.md) | Edits content for grammar, style, clarity, facts, and audience fit. |
 | [Content Research Writer](writing-and-content/content-research-writer.md) | Research, outline, and refine written content while preserving the author's voice. |
 | [Copy Editing](../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
 | [Copywriting](../marketing/writing-and-content/copywriting.md) | Write conversion-focused marketing copy for landing pages and emails, with mandatory brief confirmation. |
+| [Copywriting Support Assistant](../pr-and-communications/writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
 | [Crossframe Critical](writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
 | [Crossframe Dialogue](writing-and-content/crossframe-dialogue.md) | Short, structured replies for reader questions, editorial responses, and consultation-style answers. |
 | [Dev To Hashnode](../marketing/writing-and-content/dev-to-hashnode.md) | Publish and cross-post developer content to Dev.to and Hashnode. |
@@ -52,13 +57,17 @@ Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templat
 | [Docs Architect](../it-and-development/writing-and-content/docs-architect.md) | Analyzes codebases to produce long-form technical manuals and ebooks. |
 | [Documentation Expert](../it-and-development/writing-and-content/documentation-expert.md) | Creates, improves, and maintains project documentation from code and specs. |
 | [Documentation Templates](../it-and-development/writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
+| [Editorial Trend Analyst](../pr-and-communications/writing-and-content/editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
 | [Game Recap Generator](writing-and-content/game-recap-generator.md) | Turn game stats and highlights into engaging recaps for any platform. |
+| [Headline Crafting Assistant](../pr-and-communications/writing-and-content/headline-crafting-assistant.md) | Crafts and optimizes headlines for editors using research, testing, and performance data. |
 | [Humanizer](writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Legal Document Drafter](../legal/writing-and-content/legal-document-drafter.md) | Drafts, reviews, and researches legal documents for lawyers. |
 | [Long Novel Deconstructor](writing-and-content/long-novel-deconstructor.md) | 深度拆解长篇网文，产出可复用的写作框架与节奏地图。 |
 | [Long-Form Story Writer](writing-and-content/long-form-story-writer.md) | Plans and writes long web novels from premise to chapters, with structure-first control. |
 | [Magazine Blog Post Editor](writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
+| [Manuscript Evaluation Assistant](../pr-and-communications/writing-and-content/manuscript-evaluation-assistant.md) | Manuscript evaluation assistant for editors: assess quality, verify sources, and guide revisions. |
 | [Markdown Syntax Formatter](writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
+| [Media Content Creation Assistant](../pr-and-communications/writing-and-content/media-content-creation-assistant.md) | Drafts and plans media content—press releases, posts, scripts, and more—for media relations specialists. |
 | [Microsoft Learn Contributor](../education/writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
 | [MVP Case Builder](writing-and-content/mvp-case-builder.md) | Builds data-backed MVP and awards cases with narratives and counter-arguments. |
 | [Novel Reverse Importer](writing-and-content/novel-reverse-importer.md) | Reverse-import an existing novel into a writable story project structure. |
@@ -69,6 +78,7 @@ Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templat
 | [Podcast Content Suite](../marketing/writing-and-content/podcast-content-suite.md) | Turn podcast transcripts into a full content marketing suite: blog, social, newsletter, show notes, audiograms, and SEO. |
 | [Podcast Editor](../creatives/writing-and-content/podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |
 | [Podcast Metadata Specialist](../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
+| [Press Release Writer and Distributor](../pr-and-communications/writing-and-content/press-release-writer-and-distributor.md) | Drafts, distributes, and analyzes press releases for PR professionals. |
 | [Professional Proofreader](writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 | [README](../it-and-development/writing-and-content/readme.md) | Generate thorough README documentation for any project. No code execution. No deployment. No production changes. All changes require your approval. |
 | [Scientific Writing](../science-and-research/writing-and-content/scientific-writing.md) | Drafts full-paragraph scientific manuscripts using IMRAD structure with verified citations and figures. |
@@ -106,6 +116,7 @@ Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templat
 | [Defuddle](../it-and-development/research/defuddle.md) | Extract clean markdown from web pages using Defuddle CLI. |
 | [Denario](../science-and-research/research/denario.md) | Automates scientific research from data analysis to publication-ready LaTeX papers. |
 | [Detect Ai Text](../science-and-research/research/detect-ai-text.md) | Estimate AI-written probability in prose documents with linguistic tells and honest abstention on non-prose. |
+| [Editorial Fact-Check Assistant](../pr-and-communications/research/editorial-fact-check-assistant.md) | Verifies facts, sources, and claims in your content before publication. |
 | [Fact Check X Complete](../science-and-research/research/fact-check-x-complete.md) | Compare AI answer claims, verify citations against primary sources, and produce an evidence-linked fact-check report. |
 | [Fact Checker](research/fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
 | [Hugging Face Paper Publisher](../science-and-research/research/hugging-face-paper-publisher.md) | Publish and manage research papers on Hugging Face Hub with markdown, linking, and authorship. |
@@ -121,6 +132,7 @@ Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Ad Copy Generator](../management/marketing-and-growth/ad-copy-generator.md) | Generates, refines, and optimizes ad copy for marketing campaigns. |
+| [Content Marketing Assistant](../pr-and-communications/marketing-and-growth/content-marketing-assistant.md) | Drafts, optimizes, and plans all your content marketing from research to distribution. |
 | [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
 | [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
 | [Seo Aeo Content Cluster](../marketing/marketing-and-growth/seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |
@@ -129,6 +141,7 @@ Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templat
 | [Seo Authority Builder](../marketing/marketing-and-growth/seo-authority-builder.md) | Audit content for E-E-A-T signals and build topical authority. |
 | [Seo Competitor Pages](../marketing/marketing-and-growth/seo-competitor-pages.md) | Create SEO comparison and alternatives pages that convert competitive intent traffic with verified, accurate content. |
 | [Seo Meta Optimizer](../marketing/marketing-and-growth/seo-meta-optimizer.md) | Generate SEO metadata with character limits and best practices. |
+| [SEO Optimization Assistant](../pr-and-communications/marketing-and-growth/seo-optimization-assistant.md) | SEO optimization assistant for editors: research, optimize, audit, and report on search performance. All in one place. |
 | [Write SEO Articles](../marketing/marketing-and-growth/seo-artikel-schreiben.md) | Writes SEO articles that rank by analyzing live SERPs and matching search intent. |
 | [Youtube Seo Optimizer](../marketing/marketing-and-growth/youtube-seo-optimizer.md) | Optimize YouTube and podcast metadata for search and discovery. |
 
@@ -142,6 +155,23 @@ Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templat
 | [Hugo To Markdown](../it-and-development/coding/hugo-to-markdown.md) | Convert Hugo documentation sites into standard Markdown by inspecting local config and templates. |
 | [Wiki Vitepress](../it-and-development/coding/wiki-vitepress.md) | Transform wiki Markdown into a polished VitePress site with dark Mermaid diagrams. |
 
+## Design
+
+| Template | What it does |
+|---|---|
+| [Editorial Design](../creatives/design/editorial-design.md) | Generate magazine-inspired layouts with serif headlines, drop caps, and columnar text. |
+| [Editorial Layout Design Assistant](../pr-and-communications/design/editorial-layout-design-assistant.md) | Design layout and typography suggestions for editors, from fonts to responsive grids. |
+| [Kami Parchment Document Designer](design/kami-parchment-document-designer.md) | Turns notes and data into composed, print-ready editorial documents. |
+| [Photo Selection and Curation Assistant](../pr-and-communications/design/photo-selection-and-curation-assistant.md) | Helps editors select, organize, and enhance photos while ensuring rights compliance. |
+
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Content Analytics Strategist](../pr-and-communications/data-analysis/content-analytics-strategist.md) | Analyzes content performance, audience, and trends to guide your content strategy. |
+| [Editor Audience Data Strategist](../pr-and-communications/data-analysis/editor-audience-data-strategist.md) | Analyzes audience data to guide content strategy for editors. |
+| [Long-Form Web Novel Trend Scanner](data-analysis/long-form-web-novel-trend-scanner.md) | 分析起点、番茄、晋江等平台排行榜，提炼长篇网文市场趋势与热门题材。 |
+
 ## Generative Code
 
 | Template | What it does |
@@ -150,12 +180,13 @@ Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templat
 | [Magazine Article Formatter](generative-code/magazine-article-formatter.md) | Turns Markdown drafts into polished magazine-style HTML for blogs and newsletters. — 将 Markdown 草稿转为适合博客和新闻通讯的杂志风格 HTML。 |
 | [NYT Frame Chart Maker](generative-code/nyt-frame-chart-maker.md) | Turns your data into a New York Times-style single-frame or animated chart for video or social cards. |
 
-## Design
+## Social Media
 
 | Template | What it does |
 |---|---|
-| [Editorial Design](../creatives/design/editorial-design.md) | Generate magazine-inspired layouts with serif headlines, drop caps, and columnar text. |
-| [Kami Parchment Document Designer](design/kami-parchment-document-designer.md) | Turns notes and data into composed, print-ready editorial documents. |
+| [Brand Voice and Messaging Assistant](../marketing/social-media/brand-voice-and-messaging-assistant.md) | Crafts and keeps your brand's voice consistent across social media, from captions to strategy. |
+| [Linkedin Post Writer](../marketing/social-media/linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
+| [Social Media Content Planner](../pr-and-communications/social-media/social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |
 
 ## Office Tools
 
@@ -164,12 +195,12 @@ Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templat
 | [Document Markdown Converter](office-tools/document-markdown-converter.md) | Convert attached documents to local Markdown without uploading them externally. |
 | [Writer](../operations/office-tools/writer.md) | Create, convert, and automate documents with LibreOffice Writer. |
 
-## Social Media
+## Productivity
 
 | Template | What it does |
 |---|---|
-| [Brand Voice and Messaging Assistant](../marketing/social-media/brand-voice-and-messaging-assistant.md) | Crafts and keeps your brand's voice consistent across social media, from captions to strategy. |
-| [Linkedin Post Writer](../marketing/social-media/linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
+| [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Editorial Calendar Management Assistant](../pr-and-communications/productivity/editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |
 
 ## Text-To-Speech
 
@@ -178,29 +209,23 @@ Authors, copywriters, editors and journalists. **112 ready-made Grok Bot templat
 | [Podcast Generation](../creatives/text-to-speech/podcast-generation.md) | Generate spoken audio from text using Azure OpenAI Realtime API. No editing or mixing. |
 | [Speech](../creatives/text-to-speech/speech.md) | Generate spoken audio from text for narration, voiceovers, prompts, or accessibility reads. |
 
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Long-Form Web Novel Trend Scanner](data-analysis/long-form-web-novel-trend-scanner.md) | 分析起点、番茄、晋江等平台排行榜，提炼长篇网文市场趋势与热门题材。 |
-
 ## Generative Art
 
 | Template | What it does |
 |---|---|
 | [Article Illustrations](../creatives/generative-art/article-illustrations.md) | Generate hand-drawn 16:9 article illustrations with Grav character and sparse annotations. |
 
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
-
 ## Prompt Engineering
 
 | Template | What it does |
 |---|---|
 | [Prompt Library](prompt-engineering/prompt-library.md) | Curated prompt templates for coding, writing, analysis, and creative tasks. |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Ethical Review Assistant](../pr-and-communications/security-and-compliance/ethical-review-assistant.md) | Guides editors through ethical review of content, from literature to certification. |
 
 ## Self-Improvement
 

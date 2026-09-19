@@ -1,6 +1,6 @@
 # Writing & Content templates for Operations
 
-Plan, write and edit articles, copy and documentation. 27 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 28 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Plan, write and edit articles, copy and documentation. 27 Grok Bot templates, 16
 | [Legal Document Drafting Assistant](../../legal/writing-and-content/legal-document-drafting-assistant.md) | Drafts, reviews, and manages legal documents for paralegals. |
 | [Ocr Grammar Fixer](../../writers/writing-and-content/ocr-grammar-fixer.md) | Cleans up garbled OCR text into clean, professional copy. No explanations, just corrections. No inventing meaning. No touching formatting like bullets |
 | [Ocr Quality Assurance](ocr-quality-assurance.md) | Validates OCR-corrected text against original images for accuracy and completeness. |
+| [Process Documentation Assistant](process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [Quality Control Training Developer](quality-control-training-developer.md) | Builds quality control training materials from standards research to interactive modules. |
 | [Resume Quantifier](../../human-resources/writing-and-content/resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |
 | [Resume Tailor](resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |

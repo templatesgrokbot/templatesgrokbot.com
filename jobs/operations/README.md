@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,153 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,187 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,17 @@ Processes, logistics and the systems that run a business. **1,153 ready-made Gro
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 372 |
+| [Data Analysis](data-analysis/README.md) | 395 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 182 |
-| [Productivity](productivity/README.md) | 159 |
-| [Security & Compliance](security-and-compliance/README.md) | 86 |
-| [Research](research/README.md) | 76 |
+| [Productivity](productivity/README.md) | 163 |
+| [Security & Compliance](security-and-compliance/README.md) | 88 |
+| [Research](research/README.md) | 79 |
 | [Coding](coding/README.md) | 60 |
 | [Knowledge Management](knowledge-management/README.md) | 33 |
 | [Support & Community](support-and-community/README.md) | 31 |
+| [Writing & Content](writing-and-content/README.md) | 28 |
 | [Office Tools](office-tools/README.md) | 27 |
-| [Writing & Content](writing-and-content/README.md) | 27 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 23 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 24 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 17 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 14 |
 | [Speech-To-Text](speech-to-text/README.md) | 10 |
@@ -49,7 +49,7 @@ Processes, logistics and the systems that run a business. **1,153 ready-made Gro
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 372 Data Analysis templates →](data-analysis/README.md)
+[All 395 Data Analysis templates →](data-analysis/README.md)
 
 ## Cloud & DevOps
 
@@ -79,7 +79,7 @@ Processes, logistics and the systems that run a business. **1,153 ready-made Gro
 | [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 159 Productivity templates →](productivity/README.md)
+[All 163 Productivity templates →](productivity/README.md)
 
 ## Security & Compliance
 
@@ -94,7 +94,7 @@ Processes, logistics and the systems that run a business. **1,153 ready-made Gro
 | [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Safety Technology Implementation Guide](security-and-compliance/safety-technology-implementation-guide.md) | Guides safety engineers through researching, implementing, and maintaining workplace safety technology. |
 
-[All 86 Security & Compliance templates →](security-and-compliance/README.md)
+[All 88 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Research
 
@@ -109,7 +109,7 @@ Processes, logistics and the systems that run a business. **1,153 ready-made Gro
 | [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 | [Hasdata Cli](../it-and-development/research/hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
 
-[All 76 Research templates →](research/README.md)
+[All 79 Research templates →](research/README.md)
 
 ## Coding
 
@@ -156,6 +156,21 @@ Processes, logistics and the systems that run a business. **1,153 ready-made Gro
 
 [All 31 Support & Community templates →](support-and-community/README.md)
 
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Resume Tailor](writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
+| [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
+| [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
+| [Custom Clause Generator](../legal/writing-and-content/custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
+| [Email Issue Fixer](writing-and-content/email-issue-fixer.md) | Proofread emails and strip tracking from links on request, preserving voice. |
+| [Stakeholder Communication Coordinator](writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
+| [Process Documentation Assistant](writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
+| [Resume Quantifier](../human-resources/writing-and-content/resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |
+
+[All 28 Writing & Content templates →](writing-and-content/README.md)
+
 ## Office Tools
 
 | Template | What it does |
@@ -171,21 +186,6 @@ Processes, logistics and the systems that run a business. **1,153 ready-made Gro
 
 [All 27 Office Tools templates →](office-tools/README.md)
 
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Resume Tailor](writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
-| [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
-| [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
-| [Custom Clause Generator](../legal/writing-and-content/custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
-| [Email Issue Fixer](writing-and-content/email-issue-fixer.md) | Proofread emails and strip tracking from links on request, preserving voice. |
-| [Stakeholder Communication Coordinator](writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
-| [Resume Quantifier](../human-resources/writing-and-content/resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |
-| [Safety Training Program Developer](writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
-
-[All 27 Writing & Content templates →](writing-and-content/README.md)
-
 ## Sales & Negotiation
 
 | Template | What it does |
@@ -199,7 +199,7 @@ Processes, logistics and the systems that run a business. **1,153 ready-made Gro
 | [Contract Negotiation Assistant](sales-and-negotiation/contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
 | [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
 
-[All 23 Sales & Negotiation templates →](sales-and-negotiation/README.md)
+[All 24 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Marketing & Growth
 

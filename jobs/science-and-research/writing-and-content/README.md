@@ -1,6 +1,6 @@
 # Writing & Content templates for Science and Research
 
-Plan, write and edit articles, copy and documentation. 5 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 6 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,7 @@ Plan, write and edit articles, copy and documentation. 5 Grok Bot templates, 3 o
 | [Latex Paper Conversion](latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
 | [Research Grants](research-grants.md) | Writes competitive research proposals for NSF, NIH, DOE, and DARPA with agency-specific formatting and review criteria. |
 | [Scientific Writing](scientific-writing.md) | Drafts full-paragraph scientific manuscripts using IMRAD structure with verified citations and figures. |
+| [Technical Documentation Assistant](../../product-development/writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
 | [Venue Templates](../../education/writing-and-content/venue-templates.md) | Provides LaTeX templates and formatting specs for journals, conferences, posters, and grants. |
 
 [← All Science and Research templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/science-and-research)
