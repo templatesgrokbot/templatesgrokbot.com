@@ -1,6 +1,6 @@
 # Writing & Content templates for Management
 
-Plan, write and edit articles, copy and documentation. 17 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 18 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, write and edit articles, copy and documentation. 17 Grok Bot templates, 3 
 | [Interview Prep Generator](../../human-resources/writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Interview Style Doc Building](interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
 | [Lean Manufacturing Strategies Assistant](../../operations/writing-and-content/lean-manufacturing-strategies-assistant.md) | Lean production planning assistant for waste reduction, standardization, and continuous improvement. |
+| [PM Stakeholder Comms Kit](../../product-development/writing-and-content/pm-stakeholder-comms-kit.md) | Drafts, summarizes, and plans all stakeholder communications for product managers. |
 | [PRD Single Pager](../../product-development/writing-and-content/prd-single-pager.md) | Turns a product idea into a one-page PRD with problem, metrics, scope, stories, design, rollout, and open questions. |
 | [Process Documentation Assistant](../../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [RFP Compliance Drafter](../../sales/writing-and-content/rfp-compliance-drafter.md) | Turns an RFP and your past proposals into a compliance matrix and a drafted response, flagging gaps before you write. |

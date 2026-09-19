@@ -1,14 +1,18 @@
 # Sales & Negotiation templates for Sales
 
-Prospecting, outreach, proposals and negotiating terms. 27 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 38 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Client Communication Assistant](../../real-estate-and-construction/sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
 | [Close Automation](close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
 | [Cold Outreach](cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
+| [Competitive Analysis Assistant](competitive-analysis-assistant.md) | Turns competitor data into sales-ready insights and strategies. |
 | [Consulting Proposal Generator](consulting-proposal-generator.md) | Turns a brief into a complete, personalized consulting proposal. |
+| [CRM Sales and Marketing Assistant](crm-sales-and-marketing-assistant.md) | CRM assistant that manages leads, segments customers, and analyzes sales performance for your team. |
+| [Cross-Sell Upsell Strategist](cross-sell-upsell-strategist.md) | Finds cross-sell and upsell opportunities, then drafts the pitches, answers, and follow-ups to close them. |
 | [Deal Closer Playbook](deal-closer-playbook.md) | Turns deal context into a tactical closing playbook with research, stakeholder mapping, and next actions. |
 | [Deal Desk](../../finance/sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
 | [Deal Momentum Analyzer](deal-momentum-analyzer.md) | Score deal velocity and predict close probability from engagement patterns. |
@@ -18,20 +22,27 @@ Prospecting, outreach, proposals and negotiating terms. 27 Grok Bot templates, 2
 | [Inbound Lead Qualifier](inbound-lead-qualifier.md) | Qualifies inbound leads, scores them, and routes to the right rep with context. |
 | [Intent Signal Monitor](intent-signal-monitor.md) | Tracks web signals to alert when prospects show buying intent. |
 | [John Wick](john-wick.md) | Finds the right decision-maker at a target company and gets you into their conversation. |
+| [Lead Lifecycle Manager](lead-lifecycle-manager.md) | Finds, qualifies, and nurtures leads, then tracks and reports on them for sales. |
 | [Lead Pipeline Processor](lead-pipeline-processor.md) | Reads Gmail leads, scores them by fit, drafts replies, and logs them to your CRM. |
 | [Lead Research Assistant](lead-research-assistant.md) | Finds and prioritizes companies that match your ideal customer profile for sales outreach. |
 | [Objection Pattern Detector](objection-pattern-detector.md) | Mines lost deal notes to find objection patterns and builds response playbooks from won deals. |
 | [Odoo Sales Crm Expert](odoo-sales-crm-expert.md) | Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions. |
 | [Outbound Sales](outbound-sales.md) | Owns the full outbound prospecting pipeline so AEs can focus on closing. |
 | [Outreachagent](outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
+| [Proposal Customization Assistant](proposal-customization-assistant.md) | Customizes sales proposals to fit each client's needs and brand. |
 | [Prospect Panel Simulator](prospect-panel-simulator.md) | Simulate a panel of your real prospects to pressure-test sales and marketing artifacts before they go out. |
 | [Quota Setting Calculator](quota-setting-calculator.md) | Designs fair, achievable sales quotas with clear methodology and territory adjustments. |
+| [Sales CRM Operations Assistant](sales-crm-operations-assistant.md) | Turns customer data into leads, forecasts, and retention plans for sales reps. |
 | [Sales Enablement](sales-enablement.md) | Create sales collateral that reps actually use to close deals. |
 | [Sales Engineer](sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
 | [Sales Forecast Builder](sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
 | [Sales Methodology Implementer](sales-methodology-implementer.md) | Implements proven sales methodologies (MEDDIC, BANT, Sandler, Challenger, SPIN) across your team. |
+| [Sales Process Automation Assistant](sales-process-automation-assistant.md) | Automates your sales workflow from lead generation to contract management and forecasting. |
+| [Sales Product Information Assistant](sales-product-information-assistant.md) | Turns product data into sales-ready insights, comparisons, and materials for your customers. |
 | [Salesforce Automation](salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
+| [Sustainable Property Assistant](../../real-estate-and-construction/sales-and-negotiation/sustainable-property-assistant.md) | Helps real estate brokers market, advise on, and close deals for sustainable and green properties. |
 | [Territory Planning Optimizer](territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
+| [Virtual Sales Assistant Builder](virtual-sales-assistant-builder.md) | Builds and runs your virtual sales assistant for leads, outreach, pitches, and follow-ups. |
 | [Workorai](../../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
 
 [← All Sales templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/sales)

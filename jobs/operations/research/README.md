@@ -1,6 +1,6 @@
 # Research templates for Operations
 
-Find sources, compare evidence and summarise what is known. 79 Grok Bot templates, 27 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 80 Grok Bot templates, 27 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -47,6 +47,7 @@ Find sources, compare evidence and summarise what is known. 79 Grok Bot template
 | [Logistics Exception Management](logistics-exception-management.md) | Resolve freight exceptions, delays, damages, and carrier disputes with structured workflows. |
 | [Logistics Tech Stack Optimizer](logistics-tech-stack-optimizer.md) | Researches, integrates, and optimizes logistics technology systems end-to-end. |
 | [Market Researcher](../../marketing/research/market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
+| [Material Requirement Analyst](../../real-estate-and-construction/research/material-requirement-analyst.md) | Material analysis, cost, availability, compliance, and logistics for construction contractors. |
 | [Maxia](maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
 | [Mdr 745 Specialist](mdr-745-specialist.md) | Guides medical device manufacturers through EU MDR 2017/745 compliance, from classification to post-market surveillance. |
 | [Moatmri](../../executives-and-strategy/research/moatmri.md) | Analyze AI disruption pressure across a business and produce a 90-day defensive action plan. |

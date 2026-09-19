@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **598 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **614 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,18 +11,18 @@ Team leads and project managers. **598 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 168 |
-| [Productivity](productivity/README.md) | 136 |
+| [Data Analysis](data-analysis/README.md) | 172 |
+| [Productivity](productivity/README.md) | 142 |
 | [Research](research/README.md) | 63 |
 | [Coding](coding/README.md) | 44 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 31 |
-| [Security & Compliance](security-and-compliance/README.md) | 31 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 33 |
+| [Security & Compliance](security-and-compliance/README.md) | 33 |
 | [Knowledge Management](knowledge-management/README.md) | 22 |
-| [Writing & Content](writing-and-content/README.md) | 17 |
+| [Writing & Content](writing-and-content/README.md) | 18 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 16 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
-| [Design](design/README.md) | 8 |
+| [Design](design/README.md) | 9 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 8 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
 | [Support & Community](support-and-community/README.md) | 7 |
@@ -42,9 +42,9 @@ Team leads and project managers. **598 ready-made Grok Bot templates** for this 
 | [Forecast Accuracy Review](../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 | [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
-| [Warehouse Layout Optimizer](../operations/data-analysis/warehouse-layout-optimizer.md) | Optimizes warehouse layouts for space, flow, and efficiency. |
+| [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 
-[All 168 Data Analysis templates →](data-analysis/README.md)
+[All 172 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **598 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 136 Productivity templates →](productivity/README.md)
+[All 142 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -104,7 +104,7 @@ Team leads and project managers. **598 ready-made Grok Bot templates** for this 
 | [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
 | [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
 
-[All 31 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 33 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Security & Compliance
 
@@ -114,12 +114,12 @@ Team leads and project managers. **598 ready-made Grok Bot templates** for this 
 | [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
 | [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
+| [Construction Quality Control Assistant](../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
 | [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
 | [Varlock Claude](../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
 | [Google Cloud Waf Security](../it-and-development/security-and-compliance/google-cloud-waf-security.md) | Evaluates Google Cloud workloads against the Well-Architected Framework security pillar and gives actionable recommendations. |
-| [Quality Nonconformance](../operations/security-and-compliance/quality-nonconformance.md) | Manage non-conformance lifecycle, root cause analysis, and CAPA in regulated manufacturing. |
 
-[All 31 Security & Compliance templates →](security-and-compliance/README.md)
+[All 33 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Knowledge Management
 
@@ -147,9 +147,9 @@ Team leads and project managers. **598 ready-made Grok Bot templates** for this 
 | [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [Guest Experience Enhancer](../hospitality-and-events/writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
 | [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
-| [RFP Compliance Drafter](../sales/writing-and-content/rfp-compliance-drafter.md) | Turns an RFP and your past proposals into a compliance matrix and a drafted response, flagging gaps before you write. |
+| [PM Stakeholder Comms Kit](../product-development/writing-and-content/pm-stakeholder-comms-kit.md) | Drafts, summarizes, and plans all stakeholder communications for product managers. |
 
-[All 17 Writing & Content templates →](writing-and-content/README.md)
+[All 18 Writing & Content templates →](writing-and-content/README.md)
 
 ## Cloud & DevOps
 
@@ -207,7 +207,9 @@ Team leads and project managers. **598 ready-made Grok Bot templates** for this 
 | [Design Orchestration](../creatives/design/design-orchestration.md) | Routes design work through brainstorming, review, and execution readiness checks. |
 | [Visual Brand Identity Reviewer](design/visual-brand-identity-reviewer.md) | Reviews and improves your brand's visual identity across all touchpoints. |
 | [Visual Branding Consultant](design/visual-branding-consultant.md) | Guides and evaluates visual branding for a business unit, from audit to implementation. |
-| [Visual Merchandising Planner](design/visual-merchandising-planner.md) | Assists retail managers with visual merchandising planning, design, and standards. |
+| [Site Layout Planner](../real-estate-and-construction/design/site-layout-planner.md) | Optimizes construction site layouts and utilization for contractors. |
+
+[All 9 Design templates →](design/README.md)
 
 ## Sales & Negotiation
 

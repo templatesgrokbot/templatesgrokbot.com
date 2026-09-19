@@ -1,6 +1,6 @@
 # Productivity templates for Product Development
 
-Plan, prioritise and clear the recurring admin. 55 Grok Bot templates, 26 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 58 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,6 +20,7 @@ Plan, prioritise and clear the recurring admin. 55 Grok Bot templates, 26 of the
 | [Conductor New Track](../../management/productivity/conductor-new-track.md) | Create a new track with specification and phased implementation plan. |
 | [Deadline Prep](../../management/productivity/deadline-prep.md) | Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you |
 | [Developer Signup Flow](developer-signup-flow.md) | Design frictionless developer signup flows with OAuth, instant API keys, and progressive profiling. |
+| [Feature Prioritization Assistant](feature-prioritization-assistant.md) | Turns user feedback, market data, and business goals into scored, defensible feature priorities. |
 | [Find Complementary Founders](../../executives-and-strategy/productivity/find-complementary-founders.md) | Match founders by evidence, not claims — publish only your own owner's profile. |
 | [Frontend To Backend Requirements](../../it-and-development/productivity/frontend-to-backend-requirements.md) | Document frontend data needs for backend developers. |
 | [Game Changing Features](../../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
@@ -48,6 +49,8 @@ Plan, prioritise and clear the recurring admin. 55 Grok Bot templates, 26 of the
 | [Prd](prd.md) | Synthesize conversation into PRD and publish to issue tracker. |
 | [Process Engineer Project Tracker](process-engineer-project-tracker.md) | Project management support for process engineers: schedules, risks, budgets, reports, and stakeholder updates. |
 | [Product Manager](product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
+| [Product Risk Assessment Assistant](product-risk-assessment-assistant.md) | Identifies, evaluates, and communicates product risks with structured assessments and stakeholder-ready reports. |
+| [Product Roadmap Assistant](product-roadmap-assistant.md) | Turns market, user, and competitor data into a prioritized, visual product roadmap. |
 | [Project Manager](../../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
 | [Refine Issue](../../it-and-development/productivity/refine-issue.md) | Enriches GitHub issues with acceptance criteria, edge cases, and technical notes. |
 | [Requirements Clarity](requirements-clarity.md) | Turns vague feature requests into clear, actionable PRDs through structured questioning. |

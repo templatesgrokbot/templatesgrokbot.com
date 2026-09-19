@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 56 Grok Bot templates, 26 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 64 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,8 @@ Clean, query, chart and explain data. 56 Grok Bot templates, 26 of them filed in
 | [Environmental Impact Analyst](environmental-impact-analyst.md) | Environmental impact analysis and sustainability recommendations for process engineers. |
 | [Experiment Readout](experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Failure Analysis Assistant](failure-analysis-assistant.md) | Turns failure data into root causes, risks, and fixes for R&D engineers. |
+| [Feedback Prioritization Compass](feedback-prioritization-compass.md) | Turns scattered customer feedback into clear, prioritized insights for product decisions. |
+| [Lean Manufacturing Improvement Planner](lean-manufacturing-improvement-planner.md) | Lean manufacturing analysis and improvement planning for process engineers. |
 | [Manufacturing Cost Savings Finder](manufacturing-cost-savings-finder.md) | Finds and validates cost reduction opportunities across manufacturing operations. |
 | [Mixpanel Automation](../../it-and-development/data-analysis/mixpanel-automation.md) | Automate Mixpanel analytics: events, funnels, cohorts, profiles, and JQL queries via Rube MCP. |
 | [Mock Hunter](../../it-and-development/data-analysis/mock-hunter.md) | Audits live web pages to classify every visible value as real, mock, hardcoded, LLM, broken, or unknown. |
@@ -38,15 +40,19 @@ Clean, query, chart and explain data. 56 Grok Bot templates, 26 of them filed in
 | [Packaging Damage Prevention Analyst](packaging-damage-prevention-analyst.md) | Analyze packaging designs for damage prevention and recommend improvements. |
 | [Packaging Sustainability Assessment](packaging-sustainability-assessment.md) | Sustainability assessments and reporting for packaging engineers. |
 | [Posthog Automation](../../marketing/data-analysis/posthog-automation.md) | Automate PostHog analytics, feature flags, and project management via Rube MCP. |
+| [Predictive UX Behavior Analyst](predictive-ux-behavior-analyst.md) | Turns user behavior data into predictive insights and personalized UX actions. |
+| [Pricing Strategy Assistant](pricing-strategy-assistant.md) | Analyzes markets, segments customers, and builds pricing models to optimize your product pricing. |
 | [Process Efficiency Analyst](process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
 | [Process Engineer Supply Chain Optimizer](process-engineer-supply-chain-optimizer.md) | Optimizes supply chains with data-driven forecasting, supplier, transportation, and process improvements. |
 | [Process Monitoring and Control Assistant](process-monitoring-and-control-assistant.md) | Monitors and optimizes your process with real-time data analysis and predictive insights. |
 | [Process Optimization Analyst](process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
+| [Process Scaling Optimizer](process-scaling-optimizer.md) | Analyzes process data and models to optimize scaling, efficiency, and compliance. |
 | [Process Simulation Assistant](process-simulation-assistant.md) | Simulation and modeling assistant for process engineers, from data to optimization. |
 | [Product Decision Agent](product-decision-agent.md) | Diagnose product problems and get actionable next decisions and actions |
 | [Product Feedback Aggregation Assistant](../../management/data-analysis/product-feedback-aggregation-assistant.md) | Turns scattered product feedback into prioritized insights and reports for senior managers. |
 | [Product Feedback Aggregator](../../management/data-analysis/product-feedback-aggregator.md) | Turns scattered customer feedback into prioritized, actionable product insights. |
 | [Product Manager Toolkit](product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
+| [Product Metrics Analyst](product-metrics-analyst.md) | Turns product metrics into clear insights, reports, and recommendations. |
 | [Product Usage Analytics Assistant](../../customer-support/data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
 | [Production Scheduling](../../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Prototype Testing Analysis Assistant](prototype-testing-analysis-assistant.md) | Analyzes prototype test data and generates reports for R&D engineers. |
@@ -54,12 +60,14 @@ Clean, query, chart and explain data. 56 Grok Bot templates, 26 of them filed in
 | [Quality Control Data Analyst](quality-control-data-analyst.md) | Analyzes QC data and runs quality engineering analyses for process engineers. |
 | [R&D Cost-Benefit Analyst](r-d-cost-benefit-analyst.md) | Runs cost-benefit analysis for R&D projects from data collection to decision support. |
 | [R&D Data Analysis Assistant](r-d-data-analysis-assistant.md) | Collects, cleans, analyzes, and visualizes data for R&D engineers, from scraping to dashboards. |
+| [Reliability Maintenance Planner](reliability-maintenance-planner.md) | Analyzes equipment data to plan maintenance, optimize inventory, and improve reliability. |
 | [Screenshot Business Analyzer](../../operations/data-analysis/screenshot-business-analyzer.md) | Extracts business logic, functional modules, and data entities from UI screenshots. No code, just what the system does. No output if no screenshot pro |
 | [Shopify Review Triage](../../customer-support/data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
 | [Simpy](../../it-and-development/data-analysis/simpy.md) | Builds and runs discrete-event simulations of systems with queues, resources, and timed processes. |
 | [Simulation Model Development Assistant](simulation-model-development-assistant.md) | Simulation model development assistant for R&D engineers, from data to validation and reporting. |
 | [Supply Chain Impact Analyst](supply-chain-impact-analyst.md) | Analyzes packaging supply chain impacts and recommends sustainable, cost-effective improvements. |
 | [Template Suggester](../../it-and-development/data-analysis/skill-suggester.md) | Mines prompt history for repeated workflows and suggests new reusable capabilities. |
+| [User Feedback Insight Assistant](user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
 | [Waste Management Optimization Assistant](waste-management-optimization-assistant.md) | Analyzes waste streams, ensures compliance, and optimizes waste management for process engineers. |
 | [Zinc Database](../../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
 

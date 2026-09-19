@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 395 Grok Bot templates, 257 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 398 Grok Bot templates, 257 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -170,6 +170,7 @@ Clean, query, chart and explain data. 395 Grok Bot templates, 257 of them filed 
 | [Junta Auctioneers](junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Knowledge Synthesizer](../../it-and-development/data-analysis/knowledge-synthesizer.md) | Extracts actionable patterns from agent interactions to enable organizational learning. |
 | [Kpi Dashboard Design](../../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
+| [Lean Manufacturing Improvement Planner](../../product-development/data-analysis/lean-manufacturing-improvement-planner.md) | Lean manufacturing analysis and improvement planning for process engineers. |
 | [Legal Billing Systems Assistant](../../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
 | [Legal Risk Assessment Assistant](../../legal/data-analysis/legal-risk-assessment-assistant.md) | Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers. |
 | [Logistics and Distribution Planner](logistics-and-distribution-planner.md) | Optimizes your logistics and distribution planning across routes, inventory, warehouses, carriers, and more. |
@@ -263,6 +264,7 @@ Clean, query, chart and explain data. 395 Grok Bot templates, 257 of them filed 
 | [Process Optimization Analyst](../../product-development/data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
 | [Process Optimization Assistant](process-optimization-assistant.md) | Optimizes production quality by analyzing data, finding root causes, and driving improvements. |
 | [Process Reengineering Consultant](../../management/data-analysis/process-reengineering-consultant.md) | Maps, analyzes, and improves business processes for management consultants. |
+| [Process Scaling Optimizer](../../product-development/data-analysis/process-scaling-optimizer.md) | Analyzes process data and models to optimize scaling, efficiency, and compliance. |
 | [Process Simulation Assistant](../../product-development/data-analysis/process-simulation-assistant.md) | Simulation and modeling assistant for process engineers, from data to optimization. |
 | [Procurement Cost Analyzer](procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |
 | [Procurement Risk Assessor](../../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
@@ -294,6 +296,7 @@ Clean, query, chart and explain data. 395 Grok Bot templates, 257 of them filed 
 | [Real-Time Inventory Tracker](real-time-inventory-tracker.md) | Real-time inventory tracking, alerts, forecasting, and reporting for inventory managers. |
 | [Real-Time Logistics Monitor](real-time-logistics-monitor.md) | Real-time logistics monitoring and analysis for a logistics planner's operations. |
 | [Rehabilitation Analyzer](../../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
+| [Reliability Maintenance Planner](../../product-development/data-analysis/reliability-maintenance-planner.md) | Analyzes equipment data to plan maintenance, optimize inventory, and improve reliability. |
 | [Retail Inventory Optimizer](../../management/data-analysis/retail-inventory-optimizer.md) | Forecasts demand, optimizes stock, and prevents shrinkage for retail managers. |
 | [Retail Sustainability Analyst](../../management/data-analysis/retail-sustainability-analyst.md) | Analyzes retail sustainability data and generates actionable recommendations for greener operations. |
 | [Return Refund Optimizer](../../management/data-analysis/return-refund-optimizer.md) | Optimizes e-commerce return and refund processes using data analysis and automation. |

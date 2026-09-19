@@ -1,11 +1,12 @@
 # Security & Compliance templates for Product Development
 
-Authorised security testing, audits and regulatory work. 24 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 25 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Accessibility Compliance Auditor](accessibility-compliance-auditor.md) | Audits and improves web accessibility for UX designers, from code review to compliance reports. |
 | [Accessibility Tester](../../it-and-development/security-and-compliance/accessibility-tester.md) | Test web and mobile apps for WCAG compliance and assistive technology support. |
 | [Ai Ethics Advisor](../../it-and-development/security-and-compliance/ai-ethics-advisor.md) | Audits AI systems for bias, fairness, and regulatory compliance before deployment. |
 | [Api Security Best Practices](../../it-and-development/security-and-compliance/api-security-best-practices.md) | Guide developers in building secure APIs with authentication, validation, and protection patterns. |

@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Management
 
-Campaigns, ads, conversion and launch plans. 31 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 33 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,10 +22,12 @@ Campaigns, ads, conversion and launch plans. 31 Grok Bot templates, 22 of them f
 | [Event Promotion Planner](event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
 | [Influencer Collaboration Manager](influencer-collaboration-manager.md) | Manages influencer collaborations from discovery to reporting, with approval gates for all external actions. |
 | [Influencer Partnership Manager](../../pr-and-communications/marketing-and-growth/influencer-partnership-manager.md) | Run your influencer partnerships from discovery to reporting with reliable workflows and approval gates. |
+| [Influencer ROI Campaign Orchestrator](../../sales/marketing-and-growth/influencer-roi-campaign-orchestrator.md) | Manages influencer collaborations from discovery to ROI analysis. |
 | [Insurance Marketing Strategist](insurance-marketing-strategist.md) | Develops and executes your insurance agency's marketing strategy from research to performance tracking. |
 | [Market Trend Forecasting Assistant](market-trend-forecasting-assistant.md) | Forecast market trends and plan strategy from data, competitor, and consumer insights. |
 | [Marketing Strategy Pmm](../../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Personalized Marketing Strategist](personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
+| [PPC Campaign Manager](../../sales/marketing-and-growth/ppc-campaign-manager.md) | Manages PPC campaigns from keyword research to performance reporting for better ROI. |
 | [Pricing Strategy Formulation Assistant](pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
 | [Product Launch Planner](product-launch-planner.md) | Plans and executes product launches from market research to post-launch monitoring. |
 | [Product Marketing](../../marketing/marketing-and-growth/product-marketing.md) | Build and maintain a product marketing context document from codebase or conversation. |

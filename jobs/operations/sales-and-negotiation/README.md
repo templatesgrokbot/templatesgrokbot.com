@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Operations
 
-Prospecting, outreach, proposals and negotiating terms. 24 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 25 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Prospecting, outreach, proposals and negotiating terms. 24 Grok Bot templates, 1
 | [Odoo Sales Crm Expert](../../sales/sales-and-negotiation/odoo-sales-crm-expert.md) | Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions. |
 | [Outreachagent](../../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
 | [Quota Setting Calculator](../../sales/sales-and-negotiation/quota-setting-calculator.md) | Designs fair, achievable sales quotas with clear methodology and territory adjustments. |
+| [Sales CRM Operations Assistant](../../sales/sales-and-negotiation/sales-crm-operations-assistant.md) | Turns customer data into leads, forecasts, and retention plans for sales reps. |
 | [Sales Forecast Builder](../../sales/sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
 | [Salesforce Automation](../../sales/sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
 | [Supplier Diversity Program Assistant](../../management/sales-and-negotiation/supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |

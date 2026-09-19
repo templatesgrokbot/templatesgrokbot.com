@@ -1,6 +1,6 @@
 # Data Analysis templates for Hospitality and Events
 
-Clean, query, chart and explain data. 35 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 37 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,6 +25,7 @@ Clean, query, chart and explain data. 35 Grok Bot templates, 3 of them filed in 
 | [Hotel Staff Scheduling Optimizer](hotel-staff-scheduling-optimizer.md) | Analyzes hotel data to build balanced staff schedules, reduce costs, and ensure compliance. |
 | [Inventory Analysis Optimizer](../../management/data-analysis/inventory-analysis-optimizer.md) | Analyzes inventory data to optimize stock levels, cut costs, and prevent stockouts for business unit managers. |
 | [Inventory Optimization Assistant](../../management/data-analysis/inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
+| [Marketing Analytics and Reporting Assistant](../../sales/data-analysis/marketing-analytics-and-reporting-assistant.md) | Turns your marketing data into clear reports, forecasts, and spend recommendations. |
 | [Operations Cost Analyst](../../operations/data-analysis/operations-cost-analyst.md) | Analyzes costs, forecasts trends, and recommends savings for operations leadership. |
 | [Operations Data Insights Assistant](../../operations/data-analysis/operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |
 | [Operations Data Optimizer](../../operations/data-analysis/operations-data-optimizer.md) | Optimize operational processes with data-driven analysis and automation. |
@@ -36,6 +37,7 @@ Clean, query, chart and explain data. 35 Grok Bot templates, 3 of them filed in 
 | [Procurement Cost Analyzer](../../operations/data-analysis/procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |
 | [Project Management Insight Assistant](../../operations/data-analysis/project-management-insight-assistant.md) | Tracks project tasks, resources, risks, budgets, timelines, quality, and stakeholder communication for operations directors. |
 | [Purchasing Budget and Cost Analyst](../../management/data-analysis/purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
+| [Revenue Pricing Advisor](../../sales/data-analysis/revenue-pricing-advisor.md) | Analyzes pricing data and builds strategies to maximize revenue and competitive advantage. |
 | [Seasonal Inventory Planner](../../operations/data-analysis/seasonal-inventory-planner.md) | Forecast, plan, and optimize seasonal inventory with data-driven insights. |
 | [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Service Journey Optimizer](../../management/data-analysis/service-journey-optimizer.md) | Maps, analyzes, and optimizes customer journeys for service managers. |

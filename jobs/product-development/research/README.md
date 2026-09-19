@@ -1,6 +1,6 @@
 # Research templates for Product Development
 
-Find sources, compare evidence and summarise what is known. 57 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 63 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,10 @@ Find sources, compare evidence and summarise what is known. 57 Grok Bot template
 | [Apify Ecommerce](../../it-and-development/research/apify-ecommerce.md) | Extract product data, prices, reviews, and sellers from e-commerce sites via Apify. |
 | [Auto Research](../../science-and-research/research/auto-research.md) | Research uncertain questions via web or ChatGPT with user approval before implementation. |
 | [Clarvia Aeo Check](../../it-and-development/research/clarvia-aeo-check.md) | Score any MCP server, API, or CLI for agent-readiness using Clarvia AEO. |
+| [Competitive Analyst](../../marketing/research/competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
 | [Competitor Analysis](../../marketing/research/competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
 | [Competitor Tracking](../../marketing/research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
+| [Competitor UX Analyst](competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
 | [Context7](../../it-and-development/research/context7.md) | Answers library and framework questions using only current official documentation. |
 | [Customer Psychographic Profiler](../../marketing/research/customer-psychographic-profiler.md) | Build deep psychographic profiles of target customers based on identity, needs, and fears. |
 | [Customer Research](../../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
@@ -45,6 +47,7 @@ Find sources, compare evidence and summarise what is known. 57 Grok Bot template
 | [Persona Workshop Facilitator](../../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Product Development Insight Assistant](../../management/research/product-development-insight-assistant.md) | Guides market research managers through AI-powered product development insights. |
 | [Product Strategist](product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |
+| [Product Trend Brief Builder](product-trend-brief-builder.md) | Market trend analysis and reporting for product managers, from data collection to stakeholder-ready summaries. |
 | [Research Brief Generator](../../science-and-research/research/research-brief-generator.md) | Transforms a research query into a structured brief with questions, keywords, and source preferences. |
 | [Rex](rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [Startup Business Analyst Market Opportunity](../../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
@@ -55,6 +58,9 @@ Find sources, compare evidence and summarise what is known. 57 Grok Bot template
 | [Technology Trend Intelligence Assistant](../../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Think Tank](../../executives-and-strategy/research/think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
 | [Usability Testing Assistant](../../creatives/research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
+| [Usability Testing Coordinator](usability-testing-coordinator.md) | Coordinates usability testing from recruitment to follow-up actions for product managers. |
+| [Usability Testing Questionnaires Assistant](usability-testing-questionnaires-assistant.md) | Drafts usability testing questionnaires and analyzes feedback to improve product user experience. |
+| [User Persona Development Assistant](user-persona-development-assistant.md) | Builds and maintains user personas from research to strategy for product managers. |
 | [User Research Planning](design-user-research.md) | Plan user research that produces honest, actionable insights from start to finish. |
 | [User Research Synthesis](design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
 | [Uspto Database](../../legal/research/uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |

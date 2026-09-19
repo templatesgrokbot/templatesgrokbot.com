@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Product Development
 
-Campaigns, ads, conversion and launch plans. 33 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 34 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Campaigns, ads, conversion and launch plans. 33 Grok Bot templates, 3 of them fi
 | [B2B Value Proposition Mapper](../../marketing/marketing-and-growth/b2b-value-proposition-mapper.md) | Maps product features to customer pain points and delivers ranked value propositions per persona. |
 | [Brand Positioning Strategist](../../management/marketing-and-growth/brand-positioning-strategist.md) | Turns market data into a clear, differentiated brand position and keeps it sharp. |
 | [Competitive Landscape](../../marketing/marketing-and-growth/competitive-landscape.md) | Map competitors, find gaps, and craft defensible market positioning strategies. |
+| [Conversion Rate Optimization Assistant](conversion-rate-optimization-assistant.md) | Analyzes user data and optimizes UX to lift conversion rates. |
 | [Customer Persona Builder](../../management/marketing-and-growth/customer-persona-builder.md) | Builds and refines customer personas from research to presentation for marketing managers. |
 | [Developer Audience Context](../../marketing/marketing-and-growth/developer-audience-context.md) | Maintain a living document that captures your target developer audience for consistent marketing. |
 | [Developer Listening](../../marketing/marketing-and-growth/developer-listening.md) | Monitor developer conversations across GitHub, Hacker News, Reddit, and more. |

@@ -1,6 +1,6 @@
 # Security & Compliance templates for Management
 
-Authorised security testing, audits and regulatory work. 31 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 33 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,8 @@ Authorised security testing, audits and regulatory work. 31 Grok Bot templates, 
 | [Client Risk Assessment Assistant](client-risk-assessment-assistant.md) | Streamlines client risk assessment from data collection to monitoring and reporting. |
 | [Compliance Audit Preparation Assistant](../../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
 | [Compliance Monitoring Assistant](../../legal/security-and-compliance/compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
+| [Construction Quality Control Assistant](../../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
+| [Construction Safety Compliance Assistant](../../real-estate-and-construction/security-and-compliance/construction-safety-compliance-assistant.md) | Safety compliance assistant for construction contractors managing OSHA, PPE, inspections, and training. |
 | [Consulting Compliance Research Copilot](consulting-compliance-research-copilot.md) | Streamlines industry-specific regulatory compliance research, analysis, and reporting for management consultants. |
 | [Contract Termination Guidance](../../legal/security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
 | [Cra Vulnerability Obligations](../../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |

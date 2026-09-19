@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **582 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,18 +11,18 @@ Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for th
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 168 |
-| [Data Analysis](data-analysis/README.md) | 81 |
-| [Research](research/README.md) | 63 |
-| [Social Media](social-media/README.md) | 53 |
-| [Writing & Content](writing-and-content/README.md) | 52 |
-| [Design](design/README.md) | 23 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 198 |
+| [Data Analysis](data-analysis/README.md) | 85 |
+| [Research](research/README.md) | 64 |
+| [Social Media](social-media/README.md) | 55 |
+| [Writing & Content](writing-and-content/README.md) | 54 |
+| [Design](design/README.md) | 25 |
 | [Generative Art](generative-art/README.md) | 21 |
 | [Coding](coding/README.md) | 13 |
 | [Productivity](productivity/README.md) | 12 |
 | [Generative Code](generative-code/README.md) | 10 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 10 |
 | [Generative Video](generative-video/README.md) | 9 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 9 |
 | [Office Tools](office-tools/README.md) | 5 |
 | [Video Editing](video-editing/README.md) | 4 |
 | [Text-To-Speech](text-to-speech/README.md) | 3 |
@@ -32,6 +32,7 @@ Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for th
 | [Support & Community](support-and-community/README.md) | 2 |
 | [Translation](translation/README.md) | 2 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
+| [Security & Compliance](security-and-compliance/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
 | [Text-To-Video](text-to-video/README.md) | 1 |
 
@@ -48,7 +49,7 @@ Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for th
 | [Seo Fundamentals](marketing-and-growth/seo-fundamentals.md) | Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles. |
 | [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 
-[All 168 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 198 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Data Analysis
 
@@ -63,7 +64,7 @@ Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for th
 | [Analytics Product](data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
 | [Google Ads Performance Analyzer](data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 
-[All 81 Data Analysis templates →](data-analysis/README.md)
+[All 85 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
@@ -78,7 +79,7 @@ Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for th
 | [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Search Specialist](../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
 
-[All 63 Research templates →](research/README.md)
+[All 64 Research templates →](research/README.md)
 
 ## Social Media
 
@@ -93,7 +94,7 @@ Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for th
 | [Visual Storytelling Campaign Planner](social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
 | [Presence Audit Optimizer](../pr-and-communications/social-media/presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |
 
-[All 53 Social Media templates →](social-media/README.md)
+[All 55 Social Media templates →](social-media/README.md)
 
 ## Writing & Content
 
@@ -108,7 +109,7 @@ Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for th
 | [Seo Content Auditor](writing-and-content/seo-content-auditor.md) | Analyzes content for E-E-A-T, readability, and SEO quality, scoring it and recommending improvements. |
 | [Devrel Content](writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 
-[All 52 Writing & Content templates →](writing-and-content/README.md)
+[All 54 Writing & Content templates →](writing-and-content/README.md)
 
 ## Design
 
@@ -123,7 +124,7 @@ Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for th
 | [Vaporwave](../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Social Carousel Designer](../creatives/design/social-carousel-designer.md) | Turns a headline into a three-card social carousel with brand mark and numbering. |
 
-[All 23 Design templates →](design/README.md)
+[All 25 Design templates →](design/README.md)
 
 ## Generative Art
 
@@ -185,6 +186,21 @@ Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for th
 
 [All 10 Generative Code templates →](generative-code/README.md)
 
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Brand Collaboration Opportunity Finder](../management/sales-and-negotiation/brand-collaboration-opportunity-finder.md) | Finds, evaluates, and manages brand collaboration opportunities for brand managers. |
+| [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
+| [John Wick](../sales/sales-and-negotiation/john-wick.md) | Finds the right decision-maker at a target company and gets you into their conversation. |
+| [Outbound Sales](../sales/sales-and-negotiation/outbound-sales.md) | Owns the full outbound prospecting pipeline so AEs can focus on closing. |
+| [Sales Enablement](../sales/sales-and-negotiation/sales-enablement.md) | Create sales collateral that reps actually use to close deals. |
+| [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
+| [Cold Outreach](../sales/sales-and-negotiation/cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
+| [Prospect Panel Simulator](../sales/sales-and-negotiation/prospect-panel-simulator.md) | Simulate a panel of your real prospects to pressure-test sales and marketing artifacts before they go out. |
+
+[All 10 Sales & Negotiation templates →](sales-and-negotiation/README.md)
+
 ## Generative Video
 
 | Template | What it does |
@@ -199,21 +215,6 @@ Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for th
 | [Testimonial Video Builder](generative-video/testimonial-video-builder.md) | Turn real customer reviews into polished social-proof videos with HyperFrames. |
 
 [All 9 Generative Video templates →](generative-video/README.md)
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Brand Collaboration Opportunity Finder](../management/sales-and-negotiation/brand-collaboration-opportunity-finder.md) | Finds, evaluates, and manages brand collaboration opportunities for brand managers. |
-| [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
-| [John Wick](../sales/sales-and-negotiation/john-wick.md) | Finds the right decision-maker at a target company and gets you into their conversation. |
-| [Outbound Sales](../sales/sales-and-negotiation/outbound-sales.md) | Owns the full outbound prospecting pipeline so AEs can focus on closing. |
-| [Sales Enablement](../sales/sales-and-negotiation/sales-enablement.md) | Create sales collateral that reps actually use to close deals. |
-| [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
-| [Cold Outreach](../sales/sales-and-negotiation/cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
-| [Prospect Panel Simulator](../sales/sales-and-negotiation/prospect-panel-simulator.md) | Simulate a panel of your real prospects to pressure-test sales and marketing artifacts before they go out. |
-
-[All 9 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Office Tools
 
@@ -282,6 +283,12 @@ Campaigns, SEO, content and growth. **539 ready-made Grok Bot templates** for th
 | Template | What it does |
 |---|---|
 | [Knowledge Base Builder](../customer-support/knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [GDPR Email Compliance Assistant](../sales/security-and-compliance/gdpr-email-compliance-assistant.md) | Guides email marketers through GDPR compliance for campaigns, from audits to breach response. |
 
 ## Speech-To-Text
 

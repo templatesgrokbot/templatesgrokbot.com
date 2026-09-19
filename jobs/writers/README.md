@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **131 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **134 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,9 +11,9 @@ Authors, copywriters, editors and journalists. **131 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 70 |
+| [Writing & Content](writing-and-content/README.md) | 72 |
 | [Research](research/README.md) | 17 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 13 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 14 |
 | [Coding](coding/README.md) | 5 |
 | [Design](design/README.md) | 4 |
 | [Data Analysis](data-analysis/README.md) | 3 |
@@ -67,9 +67,11 @@ Authors, copywriters, editors and journalists. **131 ready-made Grok Bot templat
 | [Magazine Blog Post Editor](writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
 | [Manuscript Evaluation Assistant](../pr-and-communications/writing-and-content/manuscript-evaluation-assistant.md) | Manuscript evaluation assistant for editors: assess quality, verify sources, and guide revisions. |
 | [Markdown Syntax Formatter](writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
+| [Marketing Content Creator](../sales/writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |
 | [Media Content Creation Assistant](../pr-and-communications/writing-and-content/media-content-creation-assistant.md) | Drafts and plans media content—press releases, posts, scripts, and more—for media relations specialists. |
 | [Microsoft Learn Contributor](../education/writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
 | [MVP Case Builder](writing-and-content/mvp-case-builder.md) | Builds data-backed MVP and awards cases with narratives and counter-arguments. |
+| [Newsletter Content Creator](../sales/writing-and-content/newsletter-content-creator.md) | Drafts, optimizes, and repurposes newsletter content from research to performance analysis. |
 | [Novel Reverse Importer](writing-and-content/novel-reverse-importer.md) | Reverse-import an existing novel into a writable story project structure. |
 | [Novel Writing Router](writing-and-content/novel-writing-router.md) | Routes your novel-writing requests to the right tool and manages your author preferences. |
 | [Ocr Grammar Fixer](writing-and-content/ocr-grammar-fixer.md) | Cleans up garbled OCR text into clean, professional copy. No explanations, just corrections. No inventing meaning. No touching formatting like bullets |
@@ -134,6 +136,7 @@ Authors, copywriters, editors and journalists. **131 ready-made Grok Bot templat
 | [Ad Copy Generator](../management/marketing-and-growth/ad-copy-generator.md) | Generates, refines, and optimizes ad copy for marketing campaigns. |
 | [Content Marketing Assistant](../pr-and-communications/marketing-and-growth/content-marketing-assistant.md) | Drafts, optimizes, and plans all your content marketing from research to distribution. |
 | [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
+| [Email Campaign Copywriter](../sales/marketing-and-growth/email-campaign-copywriter.md) | Drafts, personalizes, and tests email campaign copy for higher engagement and conversions. |
 | [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
 | [Seo Aeo Content Cluster](../marketing/marketing-and-growth/seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |
 | [Seo Aeo Content Quality Auditor](../marketing/marketing-and-growth/seo-aeo-content-quality-auditor.md) | Audit any page or post for SEO and AEO, get scored reports and fix lists. |

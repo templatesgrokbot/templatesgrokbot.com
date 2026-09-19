@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 136 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 142 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Plan, prioritise and clear the recurring admin. 136 Grok Bot templates, 49 of th
 | [Calendar Defragmenter](calendar-defragmenter.md) | Audits your calendar, proposes consolidations and focus blocks, and drafts the messages to reclaim your week. |
 | [Calendly Automation](../../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Change Management Consultant](change-management-consultant.md) | Guides management consultants through every stage of organizational change, from stakeholder analysis to sustainability planning. |
+| [Change Order Manager](../../real-estate-and-construction/productivity/change-order-manager.md) | Manages construction change orders from documentation to compliance and performance tracking. |
 | [Claims Processing Automation Assistant](claims-processing-automation-assistant.md) | Automates claims intake, assessment, fraud checks, updates, and reporting for insurance claims managers. |
 | [Claims Processing Automation Manager](../../operations/productivity/claims-processing-automation-manager.md) | Automates insurance claims intake, assessment, routing, communication, and audit for operations managers. |
 | [Claims Processing Efficiency Assistant](claims-processing-efficiency-assistant.md) | Streamlines insurance claims processing from intake to payment with AI assistance. |
@@ -32,6 +33,9 @@ Plan, prioritise and clear the recurring admin. 136 Grok Bot templates, 49 of th
 | [Coda Automation](../../operations/productivity/coda-automation.md) | Automate Coda docs, tables, formulas, permissions, and publishing via MCP. |
 | [Conductor New Track](conductor-new-track.md) | Create a new track with specification and phased implementation plan. |
 | [Conductor Status](conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
+| [Construction Progress Monitor](../../real-estate-and-construction/productivity/construction-progress-monitor.md) | Tracks construction progress, budgets, risks, and reports for contractors. |
+| [Construction Project Planner](../../real-estate-and-construction/productivity/construction-project-planner.md) | Plans, schedules, and tracks construction projects from site assessment to completion. |
+| [Construction Workforce Allocator](../../real-estate-and-construction/productivity/construction-workforce-allocator.md) | Optimizes construction workforce scheduling, allocation, tracking, and development. |
 | [Crisis Management and Response Assistant](crisis-management-and-response-assistant.md) | Guides insurance agency managers through crisis preparation, response, and recovery. |
 | [Crisis Management Planner](crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
 | [Crisis Management Strategist](crisis-management-strategist.md) | Crisis management strategist: assess risks, plan responses, and guide recovery for senior managers. |
@@ -97,6 +101,8 @@ Plan, prioritise and clear the recurring admin. 136 Grok Bot templates, 49 of th
 | [Prd](../../product-development/productivity/prd.md) | Synthesize conversation into PRD and publish to issue tracker. |
 | [Product Lifecycle Manager](../../operations/productivity/product-lifecycle-manager.md) | Manages product lifecycle data, forecasts, quality, compliance, suppliers, and launches for supply chain managers. |
 | [Product Manager](../../product-development/productivity/product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
+| [Product Risk Assessment Assistant](../../product-development/productivity/product-risk-assessment-assistant.md) | Identifies, evaluates, and communicates product risks with structured assessments and stakeholder-ready reports. |
+| [Product Roadmap Assistant](../../product-development/productivity/product-roadmap-assistant.md) | Turns market, user, and competitor data into a prioritized, visual product roadmap. |
 | [Production Deadline Planner](../../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
 | [Production Resource Allocation Planner](../../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
 | [Production Schedule Optimizer](../../operations/productivity/production-schedule-optimizer.md) | Builds, monitors, and optimizes production schedules, resolving conflicts and keeping stakeholders informed. |

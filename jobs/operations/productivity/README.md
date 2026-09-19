@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 163 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 166 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Plan, prioritise and clear the recurring admin. 163 Grok Bot templates, 110 of t
 | [Calendly Automation](calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Calibration and Maintenance Scheduler](calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
 | [Change Management Strategist](change-management-strategist.md) | Plans and manages organizational change from stakeholder analysis to sustainability. |
+| [Change Order Manager](../../real-estate-and-construction/productivity/change-order-manager.md) | Manages construction change orders from documentation to compliance and performance tracking. |
 | [Chieeeeefy](chieeeeefy.md) | Manages calendar and email for a field engineer, converting timezones and protecting attention. (124 chars) No hype, no emoji. Rewritten: |
 | [Claims Processing Automation Assistant](../../management/productivity/claims-processing-automation-assistant.md) | Automates claims intake, assessment, fraud checks, updates, and reporting for insurance claims managers. |
 | [Claims Processing Automation Manager](claims-processing-automation-manager.md) | Automates insurance claims intake, assessment, routing, communication, and audit for operations managers. |
@@ -26,6 +27,7 @@ Plan, prioritise and clear the recurring admin. 163 Grok Bot templates, 110 of t
 | [Coda Automation](coda-automation.md) | Automate Coda docs, tables, formulas, permissions, and publishing via MCP. |
 | [Conductor Manage](conductor-manage.md) | Manage Conductor track lifecycle: archive, restore, delete, rename, and cleanup. |
 | [Conductor Status](../../management/productivity/conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
+| [Construction Workforce Allocator](../../real-estate-and-construction/productivity/construction-workforce-allocator.md) | Optimizes construction workforce scheduling, allocation, tracking, and development. |
 | [Credit Card Max](../../finance/productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
 | [Crisis Management Logistics Assistant](crisis-management-logistics-assistant.md) | Crisis management support for logistics engineers, from risk assessment to recovery planning. |
 | [Crisis Management Operations Assistant](crisis-management-operations-assistant.md) | Prepares, coordinates, and reviews crisis management for operations managers. |
@@ -129,6 +131,7 @@ Plan, prioritise and clear the recurring admin. 163 Grok Bot templates, 110 of t
 | [Purchase Order Management Assistant](purchase-order-management-assistant.md) | Manages purchase orders from creation to compliance, keeping procurement smooth and within budget. |
 | [Purchasing Digital Transformation Assistant](../../management/productivity/purchasing-digital-transformation-assistant.md) | Guides purchasing managers through digital transformation, from supplier research to performance monitoring. |
 | [Raffle Winner Picker](../../marketing/productivity/raffle-winner-picker.md) | Picks random winners from lists, spreadsheets, or Google Sheets for giveaways and contests. |
+| [Real Estate Transaction Coordinator](../../real-estate-and-construction/productivity/real-estate-transaction-coordinator.md) | Organizes, tracks, and coordinates every real estate transaction from contract to closing. |
 | [Revops](revops.md) | Design and optimize revenue operations, lead lifecycle, scoring, routing, and CRM automation. |
 | [Schedule Tasks](anthropic-schedule.md) | Run recurring tasks automatically: a briefing every morning, a weekly plan every Monday, an inbox check every hour. |
 | [Scrum Master](../../management/productivity/scrum-master.md) | Facilitates agile teams, removes impediments, and drives continuous improvement through Scrum ceremonies. |

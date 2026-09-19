@@ -1,6 +1,6 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 42 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 44 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Clean, query, chart and explain data. 42 Grok Bot templates, 0 of them filed in 
 | [Data Quality Control Assistant](../../operations/data-analysis/data-quality-control-assistant.md) | Runs quality control checks on entered data and reports issues for correction. |
 | [Data Reporting Assistant](../../operations/data-analysis/data-reporting-assistant.md) | Turns raw data into clean, analyzed, and presentation-ready reports for data entry specialists. |
 | [Data Validation Assistant](../../operations/data-analysis/data-validation-assistant.md) | Validates and cleans data entry work with routines for formatting, duplicates, consistency, and quality. |
+| [Employee Template Tracking Planner](../../education/data-analysis/employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Junta Auctioneers](../../operations/data-analysis/junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
@@ -46,6 +47,7 @@ Clean, query, chart and explain data. 42 Grok Bot templates, 0 of them filed in 
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Supplier Evaluation Analyst](../../management/data-analysis/supplier-evaluation-analyst.md) | Evaluates supplier performance, risk, and compliance to support procurement decisions. |
 | [Survey Data Processing Assistant](../../operations/data-analysis/survey-data-processing-assistant.md) | Cleans, enters, validates, analyzes, and reports survey data with accuracy and insight. |
+| [Training Needs Analysis Assistant](../../education/data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
 | [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Vendor Proposal Comparator](../../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 

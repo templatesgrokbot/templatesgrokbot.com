@@ -1,6 +1,6 @@
 # Data Analysis templates for Healthcare
 
-Clean, query, chart and explain data. 23 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 24 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Clean, query, chart and explain data. 23 Grok Bot templates, 15 of them filed in
 |---|---|
 | [Ai Analyzer](ai-analyzer.md) | AI-driven health analysis with risk prediction and personalized recommendations. |
 | [Continuous Improvement Planner](../../operations/data-analysis/continuous-improvement-planner.md) | Turns quality control data into improvement plans and tracks their impact. |
+| [Employee Template Tracking Planner](../../education/data-analysis/employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
 | [Family Health Analyzer](family-health-analyzer.md) | Analyze family health history for genetic risk and prevention advice. |
 | [Fitness Analyzer](fitness-analyzer.md) | Analyze fitness data, track progress, and generate personalized training recommendations. |
 | [Food Database Query](../../science-and-research/data-analysis/food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |

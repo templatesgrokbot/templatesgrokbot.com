@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 168 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 172 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,6 +28,8 @@ Clean, query, chart and explain data. 168 Grok Bot templates, 93 of them filed i
 | [Cold Chain Logistics Optimizer](../../operations/data-analysis/cold-chain-logistics-optimizer.md) | Optimizes cold chain logistics: routes, packaging, inventory, compliance, suppliers, risks, and quality. |
 | [Compliance Monitoring Inspector](../../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
 | [Compliance Route Planner](../../operations/data-analysis/compliance-route-planner.md) | Optimizes delivery routes from data analysis to compliance for logistics managers. |
+| [Construction Budget Estimator](../../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
+| [Construction Risk Assessment Assistant](../../real-estate-and-construction/data-analysis/construction-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates construction project risks with AI-driven insights. |
 | [Consultant Segment Profiler](consultant-segment-profiler.md) | Customer segmentation assistant for management consultants to analyze, profile, and target customer segments. |
 | [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Cost Reduction Analyst](cost-reduction-analyst.md) | Finds and validates cost reduction opportunities for service managers. |
@@ -66,6 +68,7 @@ Clean, query, chart and explain data. 168 Grok Bot templates, 93 of them filed i
 | [Facility Operations Insight Planner](../../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Feedback Insight for Service Managers](feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
 | [Feedback Insights for Ops](../../operations/data-analysis/feedback-insights-for-ops.md) | Turns customer feedback into actionable insights and responses for operations managers. |
+| [Feedback Prioritization Compass](../../product-development/data-analysis/feedback-prioritization-compass.md) | Turns scattered customer feedback into clear, prioritized insights for product decisions. |
 | [Financial Forecasting Assistant](financial-forecasting-assistant.md) | Turns your business unit's financial data into forecasts, reports, and risk insights. |
 | [Financial Modeling Consultant](financial-modeling-consultant.md) | Builds and analyzes financial models for management consulting decisions. |
 | [Fleet Performance Reporting Assistant](../../operations/data-analysis/fleet-performance-reporting-assistant.md) | Turns fleet data into performance reports, trend analyses, and improvement recommendations. |
@@ -150,6 +153,7 @@ Clean, query, chart and explain data. 168 Grok Bot templates, 93 of them filed i
 | [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Startup Analyst](../../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Store Layout Optimization Assistant](store-layout-optimization-assistant.md) | Optimizes retail store layouts using data-driven insights for better flow and sales. |
+| [Subcontractor Evaluation Assistant](../../real-estate-and-construction/data-analysis/subcontractor-evaluation-assistant.md) | Evaluates and selects subcontractors for construction projects through structured assessments. |
 | [Supplier Cost Savings Planner](supplier-cost-savings-planner.md) | Turns supplier cost data into savings plans, negotiation tactics, and stakeholder reports. |
 | [Supplier Crisis Management Planner](supplier-crisis-management-planner.md) | Plans and executes supplier crisis management, from risk assessment to recovery. |
 | [Supplier Evaluation Analyst](supplier-evaluation-analyst.md) | Evaluates supplier performance, risk, and compliance to support procurement decisions. |

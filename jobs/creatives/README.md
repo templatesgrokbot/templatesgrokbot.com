@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **375 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **394 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,24 +11,25 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 147 |
+| [Design](design/README.md) | 154 |
 | [Generative Art](generative-art/README.md) | 46 |
 | [Generative Code](generative-code/README.md) | 45 |
 | [Coding](coding/README.md) | 34 |
-| [Writing & Content](writing-and-content/README.md) | 29 |
+| [Writing & Content](writing-and-content/README.md) | 34 |
 | [Social Media](social-media/README.md) | 16 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 11 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 13 |
 | [Video Editing](video-editing/README.md) | 11 |
 | [Generative Video](generative-video/README.md) | 9 |
+| [Research](research/README.md) | 7 |
 | [Office Tools](office-tools/README.md) | 6 |
-| [Research](research/README.md) | 5 |
+| [Data Analysis](data-analysis/README.md) | 4 |
 | [Text-To-Speech](text-to-speech/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
 | [Text-To-Video](text-to-video/README.md) | 3 |
-| [Data Analysis](data-analysis/README.md) | 2 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Productivity](productivity/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
+| [Security & Compliance](security-and-compliance/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
 
 ## Design
@@ -40,6 +41,7 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 | [Anthropic Frontend Design](../it-and-development/design/anthropic-frontend-design.md) | Designs and codes distinctive, production-ready UI layouts with a committed visual direction. |
 | [Anti Ui Slop](design/anti-ui-slop.md) | Build product-specific UI from your design system, not generic patterns. |
 | [Antigravity Design Expert](design/antigravity-design-expert.md) | Build spatial, glassmorphic, motion-heavy web interfaces with GSAP and 3D CSS. |
+| [AR Experience Design Assistant](../product-development/design/ar-experience-design-assistant.md) | Turns AR research and ideas into tested, documented experience concepts for UX designers. |
 | [AR Learning Experience Designer](../education/design/ar-learning-experience-designer.md) | Designs and refines AR learning experiences from research to assessment. |
 | [Aurora Ui](design/aurora-ui.md) | Build ethereal aurora UI with glowing orbs, glassmorphism, and slow drift. |
 | [Banner Design](../marketing/design/banner-design.md) | Design banners for social media, ads, website heroes, creative assets, and print. |
@@ -68,6 +70,7 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 | [Design](design/design.md) | Design brand assets, logos, UI tokens, banners, icons, and social photos from your requests. |
 | [Design Concept Development Assistant](design/design-concept-development-assistant.md) | Turns UX/UI design tasks into guided, documented workflows from research to presentation. |
 | [Design Critique](design/design-design-critique.md) | Gives structured, honest design feedback on usability, hierarchy, consistency, and accessibility. |
+| [Design Critique Coordinator](../product-development/design/design-critique-coordinator.md) | Runs your design critique workflow from feedback questions to performance tracking. |
 | [Design It](design/design-it.md) | Routes frontend design tasks to 48 specific UI styles with curated palettes. |
 | [Design Md](design/design-md.md) | Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files |
 | [Design Mirror](design/design-mirror.md) | Replicates any website's visual style and applies it to your existing codebase. |
@@ -89,7 +92,9 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 | [Editorial Design](design/editorial-design.md) | Generate magazine-inspired layouts with serif headlines, drop caps, and columnar text. |
 | [Editorial Sketchnote Composer](design/editorial-sketchnote-composer.md) | Turns a concept into a magazine-style visual narrative with six layout templates. |
 | [Editorial Web Prototyper](design/editorial-web-prototyper.md) | Creates editorial-minimalist web prototypes with warm monochrome canvas and serif typography. |
+| [Email Template Design Assistant](../sales/design/email-template-design-assistant.md) | Designs, refines, and optimizes email templates that engage your audience and drive results. |
 | [Emil Design Eng](design/emil-design-eng.md) | UI polish, animation direction, and high-craft component decisions for product interfaces. |
+| [Ethical UX Design Advisor](../product-development/design/ethical-ux-design-advisor.md) | Guides ethical UX design decisions, from privacy to inclusivity, for responsible products. |
 | [Figma Automation](design/figma-automation.md) | Automate Figma file inspection, component extraction, token export, and image rendering via Rube MCP. |
 | [Flat Design](../it-and-development/design/flat-design.md) | Generate UI code with zero shadows, sharp edges, and bold solid colors. |
 | [Flat Design 2](../it-and-development/design/flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
@@ -116,6 +121,7 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 | [High End Visual Design](design/high-end-visual-design.md) | Awwwards-tier UI architecture and motion design for premium, agency-grade interfaces. |
 | [Holographic Ui](../it-and-development/design/holographic-ui.md) | Generate CSS, SwiftUI, or Flutter code for translucent, light-based holographic interfaces. |
 | [Iconsax Library](design/iconsax-library.md) | Iconsax provides premium icons and AI generation for cohesive, modern UI/UX design. |
+| [Ideation Session Facilitator](../product-development/design/ideation-session-facilitator.md) | Runs your UX ideation and brainstorming sessions from agenda to follow-up. |
 | [Image Enhancer](design/image-enhancer.md) | Enhances image resolution, sharpness, and clarity for presentations, documentation, or social media. |
 | [imagegen-frontend-mobile](design/imagegen-frontend-mobile.md) | Generates realistic mobile app screen mockups for pitches and product previews. |
 | [Industrial Brutalist Ui](design/industrial-brutalist-ui.md) | Create raw industrial or tactical telemetry UIs with rigid grids and stark typography. |
@@ -170,6 +176,8 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 | [Ux Flow](design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 | [Ux Persuasion Engineer](../product-development/design/ux-persuasion-engineer.md) | Redesign UX flows to guide decisions by reducing friction and staging commitment, ethically. |
 | [UX Prototyping Assistant](design/ux-prototyping-assistant.md) | Turns wireframes and prototypes into tested, documented designs ready for handoff. |
+| [UX SEO Optimization Assistant](../product-development/design/ux-seo-optimization-assistant.md) | Optimizes UX design for SEO with keyword, content, and technical guidance. |
+| [UX Wireframe and Prototype Assistant](../product-development/design/ux-wireframe-and-prototype-assistant.md) | Turns design briefs into wireframes, prototypes, and test plans for UX designers. |
 | [UX/UI Trend Analyst](design/ux-ui-trend-analyst.md) | Tracks UX/UI design trends and turns them into actionable design guidance for your projects. |
 | [Uxui Principles](design/uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
 | [Vaporwave](design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
@@ -338,11 +346,15 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 | [Content Research Writer](../writers/writing-and-content/content-research-writer.md) | Research, outline, and refine written content while preserving the author's voice. |
 | [Copy Editing](../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
 | [Copywriting Support Assistant](../pr-and-communications/writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
+| [Design System Documentation Assistant](../product-development/writing-and-content/design-system-documentation-assistant.md) | Turns your design system into clear, current, and consistent documentation your whole team can use. |
 | [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
+| [E-Learning Content Creator](../education/writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
 | [Humanizer](../writers/writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Magazine Blog Post Editor](../writers/writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
 | [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
+| [Marketing Content Creator](../sales/writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |
 | [Marp Slide](writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
+| [Newsletter Content Creator](../sales/writing-and-content/newsletter-content-creator.md) | Drafts, optimizes, and repurposes newsletter content from research to performance analysis. |
 | [Podcast Content Suite](../marketing/writing-and-content/podcast-content-suite.md) | Turn podcast transcripts into a full content marketing suite: blog, social, newsletter, show notes, audiograms, and SEO. |
 | [Podcast Editor](writing-and-content/podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |
 | [Podcast Metadata Specialist](../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
@@ -352,6 +364,7 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 | [Short Story Analyzer](../writers/writing-and-content/short-story-analyzer.md) | 拆解短篇网文的故事核、结构与爆点，产出可复用的拆文报告。 |
 | [Sports Trivia Builder](writing-and-content/sports-trivia-builder.md) | Generates sports trivia questions by sport, era, and difficulty with explanations. |
 | [Thread Writer](../writers/writing-and-content/thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |
+| [UX Content Strategy Planner](../product-development/writing-and-content/ux-content-strategy-planner.md) | Builds and manages a complete content strategy for UX designers, from research to governance. |
 | [UX Copy](writing-and-content/design-ux-copy.md) | Write or review UX copy for buttons, errors, empty states, and toasts. |
 | [UX Copy Refiner](writing-and-content/ux-copy-refiner.md) | Rewrites UI microcopy so users instantly understand what happens next and what to do. |
 | [Video Script writer](writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
@@ -384,11 +397,13 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 |---|---|
 | [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
 | [Brand Review](../marketing/marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
+| [Conversion Rate Optimization Assistant](../product-development/marketing-and-growth/conversion-rate-optimization-assistant.md) | Analyzes user data and optimizes UX to lift conversion rates. |
 | [Domain Name Brainstormer](../marketing/marketing-and-growth/domain-name-brainstormer.md) | Generates creative domain name ideas for your project and checks availability across multiple TLDs. |
 | [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
 | [Identity Mirror](../marketing/marketing-and-growth/identity-mirror.md) | Mirror audience identity to make brand messages feel personally resonant. |
 | [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
 | [Popup Cro](../marketing/marketing-and-growth/popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
+| [Real Estate Marketing Planner](../real-estate-and-construction/marketing-and-growth/real-estate-marketing-planner.md) | Plan and produce real estate marketing content, campaigns, and brand assets. |
 | [Seo Image Gen](../marketing/marketing-and-growth/seo-image-gen.md) | Generate SEO-optimized images like OG cards, hero images, and infographics. |
 | [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
 | [Social Media Strategy Planner](../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
@@ -424,6 +439,18 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 | [Sora](generative-video/sora.md) | Generates and manages Sora video clips via OpenAI's API using a bundled CLI. |
 | [Testimonial Video Builder](../marketing/generative-video/testimonial-video-builder.md) | Turn real customer reviews into polished social-proof videos with HyperFrames. |
 
+## Research
+
+| Template | What it does |
+|---|---|
+| [Competitor UX Analyst](../product-development/research/competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
+| [Stock Photo Finder](research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
+| [Usability Testing Assistant](research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
+| [Usability Testing Questionnaires Assistant](../product-development/research/usability-testing-questionnaires-assistant.md) | Drafts usability testing questionnaires and analyzes feedback to improve product user experience. |
+| [Ux Researcher](research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
+| [Ux Researcher Designer](../product-development/research/ux-researcher-designer.md) | Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships. |
+| [Web Media Getter](research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
+
 ## Office Tools
 
 | Template | What it does |
@@ -435,15 +462,14 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 | [Replit Slides Deck Builder](office-tools/replit-slides-deck-builder.md) | Turn your content into a Replit Slides-style horizontal-swipe deck with one of eight themes. No mixing, no fuss. |
 | [Visual Asset Placer](office-tools/visual-asset-placer.md) | Selects and places approved visual assets in editable PPTX decks. |
 
-## Research
+## Data Analysis
 
 | Template | What it does |
 |---|---|
-| [Stock Photo Finder](research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
-| [Usability Testing Assistant](research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
-| [Ux Researcher](research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
-| [Ux Researcher Designer](../product-development/research/ux-researcher-designer.md) | Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships. |
-| [Web Media Getter](research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
+| [Apify Trend Analysis](../marketing/data-analysis/apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
+| [Predictive UX Behavior Analyst](../product-development/data-analysis/predictive-ux-behavior-analyst.md) | Turns user behavior data into predictive insights and personalized UX actions. |
+| [Scientific Visualization](../science-and-research/data-analysis/scientific-visualization.md) | Create publication-ready scientific figures from data. |
+| [User Feedback Insight Assistant](../product-development/data-analysis/user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
 
 ## Text-To-Speech
 
@@ -470,13 +496,6 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 | [Video Frame Generator](text-to-video/video-frame-generator.md) | Turns your script into a cinematic, auto-playing video frame sequence. |
 | [Video Lecture Production Assistant](../education/text-to-video/video-lecture-production-assistant.md) | Produces complete video lectures from script to delivery for eLearning developers. |
 
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Apify Trend Analysis](../marketing/data-analysis/apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
-| [Scientific Visualization](../science-and-research/data-analysis/scientific-visualization.md) | Create publication-ready scientific figures from data. |
-
 ## Knowledge Management
 
 | Template | What it does |
@@ -494,6 +513,12 @@ Designers, artists and content creators. **375 ready-made Grok Bot templates** f
 | Template | What it does |
 |---|---|
 | [Enhance Prompt](../it-and-development/prompt-engineering/enhance-prompt.md) | Turns vague UI ideas into structured, Stitch-optimized prompts with design system context. |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Accessibility Compliance Auditor](../product-development/security-and-compliance/accessibility-compliance-auditor.md) | Audits and improves web accessibility for UX designers, from code review to compliance reports. |
 
 ## Speech-To-Text
 

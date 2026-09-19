@@ -1,6 +1,6 @@
 # Design templates for Product Development
 
-Interfaces, brands, layouts and visual systems. 88 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 95 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Interfaces, brands, layouts and visual systems. 88 Grok Bot templates, 11 of the
 | [Accessibility Review (WCAG 2.1 AA)](../../it-and-development/design/design-accessibility-review.md) | Audits designs and pages for WCAG 2.1 AA accessibility compliance before launch. |
 | [Anthropic Frontend Design](../../it-and-development/design/anthropic-frontend-design.md) | Designs and codes distinctive, production-ready UI layouts with a committed visual direction. |
 | [Antigravity Design Expert](../../creatives/design/antigravity-design-expert.md) | Build spatial, glassmorphic, motion-heavy web interfaces with GSAP and 3D CSS. |
+| [AR Experience Design Assistant](ar-experience-design-assistant.md) | Turns AR research and ideas into tested, documented experience concepts for UX designers. |
 | [Ascii Ui Mockup Generator](../../it-and-development/design/ascii-ui-mockup-generator.md) | Turns UI concepts into 3-5 ASCII mockups for pre-implementation design review. |
 | [Brutalist Typography](../../creatives/design/brutalist-typography.md) | Generate brutalist typography with oversized system fonts, negative margins, and aggressive layout collisions. |
 | [C4 Context](c4-context.md) | Creates C4 system context diagrams, personas, user journeys, and external dependencies. |
@@ -21,6 +22,7 @@ Interfaces, brands, layouts and visual systems. 88 Grok Bot templates, 11 of the
 | [Data Dense Design](../../it-and-development/design/data-dense-design.md) | Build expert UIs with maximum data density like Bloomberg terminals or IDEs. |
 | [Design Concept Development Assistant](../../creatives/design/design-concept-development-assistant.md) | Turns UX/UI design tasks into guided, documented workflows from research to presentation. |
 | [Design Critique](../../creatives/design/design-design-critique.md) | Gives structured, honest design feedback on usability, hierarchy, consistency, and accessibility. |
+| [Design Critique Coordinator](design-critique-coordinator.md) | Runs your design critique workflow from feedback questions to performance tracking. |
 | [Design Handoff Spec](../../it-and-development/design/design-design-handoff.md) | Generate developer handoff specs from a design, covering tokens, props, states, and edge cases. |
 | [Design Md](../../creatives/design/design-md.md) | Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files |
 | [Design Optimization Assistant](design-optimization-assistant.md) | Optimize product designs through simulation, analysis, and material selection. |
@@ -34,6 +36,7 @@ Interfaces, brands, layouts and visual systems. 88 Grok Bot templates, 11 of the
 | [Diagrammer](../../it-and-development/design/diagrammer.md) | Turns plain-English diagram requests into clean blueprint-style SVG files for docs and slides. |
 | [Draw Io](../../it-and-development/design/draw-io.md) | Creates, edits, and reviews draw.io diagrams from .drawio XML files. |
 | [Emil Design Eng](../../creatives/design/emil-design-eng.md) | UI polish, animation direction, and high-craft component decisions for product interfaces. |
+| [Ethical UX Design Advisor](ethical-ux-design-advisor.md) | Guides ethical UX design decisions, from privacy to inclusivity, for responsible products. |
 | [Flat Design 2](../../it-and-development/design/flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
 | [Floating Ui](../../it-and-development/design/floating-ui.md) | Implement floating, detached UI elements with soft shadows and pill shapes. |
 | [Game Art](../../creatives/design/game-art.md) | Guide game art style, asset pipeline, and animation workflow decisions. |
@@ -50,6 +53,7 @@ Interfaces, brands, layouts and visual systems. 88 Grok Bot templates, 11 of the
 | [Hig Technologies](../../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [High End Visual Design](../../creatives/design/high-end-visual-design.md) | Awwwards-tier UI architecture and motion design for premium, agency-grade interfaces. |
 | [Iconsax Library](../../creatives/design/iconsax-library.md) | Iconsax provides premium icons and AI generation for cohesive, modern UI/UX design. |
+| [Ideation Session Facilitator](ideation-session-facilitator.md) | Runs your UX ideation and brainstorming sessions from agenda to follow-up. |
 | [imagegen-frontend-mobile](../../creatives/design/imagegen-frontend-mobile.md) | Generates realistic mobile app screen mockups for pitches and product previews. |
 | [Industrial Brutalist Ui](../../creatives/design/industrial-brutalist-ui.md) | Create raw industrial or tactical telemetry UIs with rigid grids and stark typography. |
 | [Interaction Design Assistant](../../creatives/design/interaction-design-assistant.md) | Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff. |
@@ -61,6 +65,7 @@ Interfaces, brands, layouts and visual systems. 88 Grok Bot templates, 11 of the
 | [Packaging Design Optimizer](packaging-design-optimizer.md) | Optimizes packaging designs for materials, cost, sustainability, compliance, and consumer appeal. |
 | [Packaging Innovation Assistant](packaging-innovation-assistant.md) | Turns consumer insights into packaging concepts that sell and satisfy. |
 | [Premium Web Design](../../creatives/design/premium-web-design.md) | Generates award-quality React website components with unique, intentional design. |
+| [Process Design Innovation Assistant](process-design-innovation-assistant.md) | Innovation partner for process engineers, turning data and ideas into better designs. |
 | [Product Design Bot](../../creatives/design/product-design.md) | Creates visual systems, design tokens, and UX flows with Apple standards. |
 | [Product Inventor](../../creatives/design/product-inventor.md) | Invent digital products by combining design thinking, systems, and psychology. |
 | [Responsive Web Design Assistant](../../creatives/design/responsive-web-design-assistant.md) | Guides UX/UI designers through every stage of responsive web design, from setup to maintenance. |
@@ -89,6 +94,8 @@ Interfaces, brands, layouts and visual systems. 88 Grok Bot templates, 11 of the
 | [UX Flow & Wireframer](ux-flow-wireframer.md) | Sketches user flows and low-fidelity wireframes as text layouts and Mermaid diagrams before visual design begins. |
 | [Ux Persuasion Engineer](ux-persuasion-engineer.md) | Redesign UX flows to guide decisions by reducing friction and staging commitment, ethically. |
 | [UX Prototyping Assistant](../../creatives/design/ux-prototyping-assistant.md) | Turns wireframes and prototypes into tested, documented designs ready for handoff. |
+| [UX SEO Optimization Assistant](ux-seo-optimization-assistant.md) | Optimizes UX design for SEO with keyword, content, and technical guidance. |
+| [UX Wireframe and Prototype Assistant](ux-wireframe-and-prototype-assistant.md) | Turns design briefs into wireframes, prototypes, and test plans for UX designers. |
 | [UX/UI Trend Analyst](../../creatives/design/ux-ui-trend-analyst.md) | Tracks UX/UI design trends and turns them into actionable design guidance for your projects. |
 | [Uxui Principles](../../creatives/design/uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
 | [Vercel Web Design Guidelines](../../creatives/design/vercel-web-design-guidelines.md) | Audits web UIs against 100+ heuristics for UX, layout, and accessibility, returning prioritized fixes. |

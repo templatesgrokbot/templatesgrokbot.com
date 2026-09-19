@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 147 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 154 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Interfaces, brands, layouts and visual systems. 147 Grok Bot templates, 116 of t
 | [Anthropic Frontend Design](../../it-and-development/design/anthropic-frontend-design.md) | Designs and codes distinctive, production-ready UI layouts with a committed visual direction. |
 | [Anti Ui Slop](anti-ui-slop.md) | Build product-specific UI from your design system, not generic patterns. |
 | [Antigravity Design Expert](antigravity-design-expert.md) | Build spatial, glassmorphic, motion-heavy web interfaces with GSAP and 3D CSS. |
+| [AR Experience Design Assistant](../../product-development/design/ar-experience-design-assistant.md) | Turns AR research and ideas into tested, documented experience concepts for UX designers. |
 | [AR Learning Experience Designer](../../education/design/ar-learning-experience-designer.md) | Designs and refines AR learning experiences from research to assessment. |
 | [Aurora Ui](aurora-ui.md) | Build ethereal aurora UI with glowing orbs, glassmorphism, and slow drift. |
 | [Banner Design](../../marketing/design/banner-design.md) | Design banners for social media, ads, website heroes, creative assets, and print. |
@@ -39,6 +40,7 @@ Interfaces, brands, layouts and visual systems. 147 Grok Bot templates, 116 of t
 | [Design](design.md) | Design brand assets, logos, UI tokens, banners, icons, and social photos from your requests. |
 | [Design Concept Development Assistant](design-concept-development-assistant.md) | Turns UX/UI design tasks into guided, documented workflows from research to presentation. |
 | [Design Critique](design-design-critique.md) | Gives structured, honest design feedback on usability, hierarchy, consistency, and accessibility. |
+| [Design Critique Coordinator](../../product-development/design/design-critique-coordinator.md) | Runs your design critique workflow from feedback questions to performance tracking. |
 | [Design It](design-it.md) | Routes frontend design tasks to 48 specific UI styles with curated palettes. |
 | [Design Md](design-md.md) | Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files |
 | [Design Mirror](design-mirror.md) | Replicates any website's visual style and applies it to your existing codebase. |
@@ -60,7 +62,9 @@ Interfaces, brands, layouts and visual systems. 147 Grok Bot templates, 116 of t
 | [Editorial Design](editorial-design.md) | Generate magazine-inspired layouts with serif headlines, drop caps, and columnar text. |
 | [Editorial Sketchnote Composer](editorial-sketchnote-composer.md) | Turns a concept into a magazine-style visual narrative with six layout templates. |
 | [Editorial Web Prototyper](editorial-web-prototyper.md) | Creates editorial-minimalist web prototypes with warm monochrome canvas and serif typography. |
+| [Email Template Design Assistant](../../sales/design/email-template-design-assistant.md) | Designs, refines, and optimizes email templates that engage your audience and drive results. |
 | [Emil Design Eng](emil-design-eng.md) | UI polish, animation direction, and high-craft component decisions for product interfaces. |
+| [Ethical UX Design Advisor](../../product-development/design/ethical-ux-design-advisor.md) | Guides ethical UX design decisions, from privacy to inclusivity, for responsible products. |
 | [Figma Automation](figma-automation.md) | Automate Figma file inspection, component extraction, token export, and image rendering via Rube MCP. |
 | [Flat Design](../../it-and-development/design/flat-design.md) | Generate UI code with zero shadows, sharp edges, and bold solid colors. |
 | [Flat Design 2](../../it-and-development/design/flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
@@ -87,6 +91,7 @@ Interfaces, brands, layouts and visual systems. 147 Grok Bot templates, 116 of t
 | [High End Visual Design](high-end-visual-design.md) | Awwwards-tier UI architecture and motion design for premium, agency-grade interfaces. |
 | [Holographic Ui](../../it-and-development/design/holographic-ui.md) | Generate CSS, SwiftUI, or Flutter code for translucent, light-based holographic interfaces. |
 | [Iconsax Library](iconsax-library.md) | Iconsax provides premium icons and AI generation for cohesive, modern UI/UX design. |
+| [Ideation Session Facilitator](../../product-development/design/ideation-session-facilitator.md) | Runs your UX ideation and brainstorming sessions from agenda to follow-up. |
 | [Image Enhancer](image-enhancer.md) | Enhances image resolution, sharpness, and clarity for presentations, documentation, or social media. |
 | [imagegen-frontend-mobile](imagegen-frontend-mobile.md) | Generates realistic mobile app screen mockups for pitches and product previews. |
 | [Industrial Brutalist Ui](industrial-brutalist-ui.md) | Create raw industrial or tactical telemetry UIs with rigid grids and stark typography. |
@@ -141,6 +146,8 @@ Interfaces, brands, layouts and visual systems. 147 Grok Bot templates, 116 of t
 | [Ux Flow](ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 | [Ux Persuasion Engineer](../../product-development/design/ux-persuasion-engineer.md) | Redesign UX flows to guide decisions by reducing friction and staging commitment, ethically. |
 | [UX Prototyping Assistant](ux-prototyping-assistant.md) | Turns wireframes and prototypes into tested, documented designs ready for handoff. |
+| [UX SEO Optimization Assistant](../../product-development/design/ux-seo-optimization-assistant.md) | Optimizes UX design for SEO with keyword, content, and technical guidance. |
+| [UX Wireframe and Prototype Assistant](../../product-development/design/ux-wireframe-and-prototype-assistant.md) | Turns design briefs into wireframes, prototypes, and test plans for UX designers. |
 | [UX/UI Trend Analyst](ux-ui-trend-analyst.md) | Tracks UX/UI design trends and turns them into actionable design guidance for your projects. |
 | [Uxui Principles](uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
 | [Vaporwave](vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |

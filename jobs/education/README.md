@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **128 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **148 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,16 +11,16 @@ Teachers, trainers and students. **128 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 39 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 48 |
 | [Research](research/README.md) | 20 |
-| [Writing & Content](writing-and-content/README.md) | 16 |
+| [Writing & Content](writing-and-content/README.md) | 17 |
+| [Data Analysis](data-analysis/README.md) | 15 |
 | [Design](design/README.md) | 11 |
-| [Data Analysis](data-analysis/README.md) | 10 |
+| [Productivity](productivity/README.md) | 8 |
 | [Coding](coding/README.md) | 6 |
+| [Security & Compliance](security-and-compliance/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Knowledge Management](knowledge-management/README.md) | 4 |
-| [Productivity](productivity/README.md) | 4 |
-| [Security & Compliance](security-and-compliance/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Generative Code](generative-code/README.md) | 1 |
@@ -38,36 +38,45 @@ Teachers, trainers and students. **128 ready-made Grok Bot templates** for this 
 | [Communication Workshop Manager](../pr-and-communications/teaching-and-tutoring/communication-workshop-manager.md) | Plans, runs, and improves communication training workshops from start to finish. |
 | [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
 | [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
+| [Crisis Training Designer](teaching-and-tutoring/crisis-training-designer.md) | Designs and runs crisis management training materials, simulations, and evaluations. |
 | [Crossframe Teach](teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
+| [Curriculum Development Assistant](teaching-and-tutoring/curriculum-development-assistant.md) | Builds and refines training curricula from research to evaluation. |
 | [Customer Training Content Developer](../customer-support/teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
 | [Demonstrate Understanding](teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Employee Training Program Coordinator](../operations/teaching-and-tutoring/employee-training-program-coordinator.md) | Designs, runs, and improves your team's training programs end to end. |
 | [Examprep Ai](teaching-and-tutoring/examprep-ai.md) | Turns syllabi and past papers into a ranked study roadmap ordered Easy to Hard. |
 | [Explain Like Socrates](teaching-and-tutoring/explain-like-socrates.md) | Explain ideas through Socratic dialogue and guided reasoning. |
 | [Flashcard Generator](teaching-and-tutoring/flashcard-generator.md) | Turns any content into spaced-repetition flashcards in multiple formats. |
+| [Gamified Training Program Designer](teaching-and-tutoring/gamified-training-program-designer.md) | Designs and runs gamified training programs, from content to rewards, for training coordinators. |
 | [Geoffrey Hinton](teaching-and-tutoring/geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
 | [Interactive Quiz Designer](teaching-and-tutoring/interactive-quiz-designer.md) | Designs engaging, interactive quizzes for training instructors. |
+| [Interactive Training Designer](teaching-and-tutoring/interactive-training-designer.md) | Designs and evaluates interactive training modules, materials, and tools for engaging learning. |
 | [Interview Prep](teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
 | [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Learner Engagement Designer](teaching-and-tutoring/learner-engagement-designer.md) | Designs engaging training activities, materials, and feedback loops for instructors. |
+| [Learning Path Architect for HR](teaching-and-tutoring/learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
 | [Legal Education and Training Assistant](../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
 | [Legal Training Material Creator](../legal/teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
 | [Lesson Generator](teaching-and-tutoring/lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
 | [Lightning Factory Explainer](teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
 | [Media Training Program Builder](../pr-and-communications/teaching-and-tutoring/media-training-program-builder.md) | Builds and runs media training programs for spokespersons and executives. |
 | [Microsoft Study Mode](teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
+| [Onboarding Program Enhancer](teaching-and-tutoring/onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
 | [Personalized Learning Designer](teaching-and-tutoring/personalized-learning-designer.md) | Designs personalized eLearning experiences through content analysis, learner profiling, and adaptive recommendations. |
 | [Personalized Learning Path Builder](teaching-and-tutoring/personalized-learning-path-builder.md) | Personalized learning path builder for training instructors to tailor education to each learner. No hype, just adaptive teaching support. |
 | [Pitch Rehearsal](teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
 | [Process Engineer Training Developer](../product-development/teaching-and-tutoring/process-engineer-training-developer.md) | Builds and manages training and educational resources for process engineers. |
 | [Puzzle Activity Planner](teaching-and-tutoring/puzzle-activity-planner.md) | Plan puzzle-based activities with pre-configured generator links for classrooms, parties, and events. |
 | [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
+| [Remote Training Program Designer](teaching-and-tutoring/remote-training-program-designer.md) | Designs and runs remote training programs that engage, assess, and develop your team. |
 | [Role-Play Scenario Development Assistant](teaching-and-tutoring/role-play-scenario-development-assistant.md) | Builds realistic, objective-aligned role-play scenarios for training instructors and their trainees. |
 | [Ship Learn Next](teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Study Buddy](teaching-and-tutoring/study-buddy.md) | Drills you on your own material with spaced repetition instead of re-reading notes. |
 | [Teach](teaching-and-tutoring/teach.md) | Teach any topic through structured lessons, reference docs, and learning records. |
 | [Technical Content Evaluator](teaching-and-tutoring/technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
 | [Technical Tutorials](teaching-and-tutoring/technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
+| [Technology Adoption Training Planner](teaching-and-tutoring/technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
+| [Training Accessibility Assistant](teaching-and-tutoring/training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
 | [Tutorial Engineer](teaching-and-tutoring/tutorial-engineer.md) | Turns code into step-by-step tutorials with hands-on exercises and progressive learning. |
 | [Warren Buffett](teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
 | [Yann LeCun Debate](teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
@@ -105,6 +114,7 @@ Teachers, trainers and students. **128 ready-made Grok Bot templates** for this 
 | [Academic Cv Builder](writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
 | [Cover Letter Generator](../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Crossframe Critical](../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
+| [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
 | [Interview Prep Generator](../human-resources/writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
 | [Marp Slide](../creatives/writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
@@ -118,6 +128,26 @@ Teachers, trainers and students. **128 ready-made Grok Bot templates** for this 
 | [Treatment Plans](../healthcare/writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |
 | [Venue Templates](writing-and-content/venue-templates.md) | Provides LaTeX templates and formatting specs for journals, conferences, posters, and grants. |
 | [Writing Clearly And Concisely](../writers/writing-and-content/writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |
+
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [eLearning Feedback Analyzer](data-analysis/elearning-feedback-analyzer.md) | Turns eLearning user feedback into categorized insights, prioritized fixes, and clear reports. |
+| [Employee Template Tracking Planner](data-analysis/employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
+| [Feedback Insight Report Builder](data-analysis/feedback-insight-report-builder.md) | Collects, analyzes, and reports on training feedback to drive program improvements. |
+| [Job Description Analyzer](../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
+| [Jupyter Notebook](data-analysis/jupyter-notebook.md) | Creates and edits reproducible Jupyter notebooks for experiments or tutorials. |
+| [Learning Analytics Assistant](data-analysis/learning-analytics-assistant.md) | Turns eLearning data into insights, predictions, and personalized learning paths. |
+| [Learning Analytics Insights Assistant](data-analysis/learning-analytics-insights-assistant.md) | Turns training data into insights, forecasts, and improvement plans for learning programs.​ |
+| [Learning Outcome Forecaster](data-analysis/learning-outcome-forecaster.md) | Forecasts learning outcomes from training data and turns insights into action for instructors. |
+| [Statistical Analysis](../science-and-research/data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
+| [Template Gap Analysis Assistant](data-analysis/template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
+| [Training Effectiveness Evaluator](data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |
+| [Training Feedback Action Planner](data-analysis/training-feedback-action-planner.md) | Evaluates training effectiveness and turns feedback into improvement plans. |
+| [Training Feedback Analyst](data-analysis/training-feedback-analyst.md) | Analyzes training feedback to surface trends, insights, and actionable steps for instructors. |
+| [Training Needs Analysis Assistant](data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
+| [Training Report Generator](data-analysis/training-report-generator.md) | Turns training data into automated reports for instructors. |
 
 ## Design
 
@@ -135,20 +165,18 @@ Teachers, trainers and students. **128 ready-made Grok Bot templates** for this 
 | [Virtual Training Design Assistant](design/virtual-training-design-assistant.md) | Designs and improves virtual training environments for instructors. |
 | [VR Learning Content Designer](design/vr-learning-content-designer.md) | Designs and develops VR learning content from storyboard to QA. |
 
-## Data Analysis
+## Productivity
 
 | Template | What it does |
 |---|---|
-| [eLearning Feedback Analyzer](data-analysis/elearning-feedback-analyzer.md) | Turns eLearning user feedback into categorized insights, prioritized fixes, and clear reports. |
-| [Job Description Analyzer](../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
-| [Jupyter Notebook](data-analysis/jupyter-notebook.md) | Creates and edits reproducible Jupyter notebooks for experiments or tutorials. |
-| [Learning Analytics Assistant](data-analysis/learning-analytics-assistant.md) | Turns eLearning data into insights, predictions, and personalized learning paths. |
-| [Learning Outcome Forecaster](data-analysis/learning-outcome-forecaster.md) | Forecasts learning outcomes from training data and turns insights into action for instructors. |
-| [Statistical Analysis](../science-and-research/data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
-| [Template Gap Analysis Assistant](data-analysis/template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
-| [Training Effectiveness Evaluator](data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |
-| [Training Feedback Analyst](data-analysis/training-feedback-analyst.md) | Analyzes training feedback to surface trends, insights, and actionable steps for instructors. |
-| [Training Report Generator](data-analysis/training-report-generator.md) | Turns training data into automated reports for instructors. |
+| [Bulletmind](productivity/bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
+| [Claude Speed Reader](productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Instructor Lifecycle Manager](productivity/instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
+| [Learning Culture Builder](productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
+| [Practice Plan Creator](productivity/practice-plan-creator.md) | Designs sport-specific practice sessions with drills, timing, and progression. |
+| [Speed](../management/productivity/speed.md) | Launch RSVP speed reader with Spritz-style word-by-word display. |
+| [Training Budget Optimizer](productivity/training-budget-optimizer.md) | Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators. |
+| [Virtual Training Coordinator Assistant](productivity/virtual-training-coordinator-assistant.md) | Manages virtual training setup, content, engagement, and evaluation for training coordinators. |
 
 ## Coding
 
@@ -160,6 +188,16 @@ Teachers, trainers and students. **128 ready-made Grok Bot templates** for this 
 | [Javascript Mastery](../it-and-development/coding/javascript-mastery.md) | Explains JS concepts, debugs code, and teaches fundamentals on demand. |
 | [Sympy](../it-and-development/coding/sympy.md) | Performs exact symbolic math using SymPy in Python. |
 | [Yann Lecun Tecnico](../it-and-development/coding/yann-lecun-tecnico.md) | Implement and explain LeCun's deep learning techniques with PyTorch. |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Compliance Training Manager](security-and-compliance/compliance-training-manager.md) | Manages compliance training from needs assessment to certification and reporting. |
+| [Ethical Hacking Methodology](../it-and-development/security-and-compliance/ethical-hacking-methodology.md) | Guide users through the five-stage ethical hacking lifecycle from recon to reporting for authorized testing. |
+| [Network 101](../it-and-development/security-and-compliance/network-101.md) | Configure HTTP, HTTPS, SNMP, and SMB services in isolated lab environments for penetration testing practice. |
+| [Top Web Vulnerabilities](../it-and-development/security-and-compliance/top-web-vulnerabilities.md) | Reference the top 100 web vulnerabilities by category for assessment and remediation. No scanning or testing. Authorized use only. Educational referen |
+| [Web Security Testing](../it-and-development/security-and-compliance/web-security-testing.md) | Guide structured OWASP Top 10 web application security assessments step by step. |
 
 ## Self-Improvement
 
@@ -179,24 +217,6 @@ Teachers, trainers and students. **128 ready-made Grok Bot templates** for this 
 | [Educational Resource Curator](knowledge-management/educational-resource-curator.md) | Curates, evaluates, and organizes educational resources for eLearning developers. |
 | [Obsidian Markdown](knowledge-management/obsidian-markdown.md) | Create and edit Obsidian Flavored Markdown with wikilinks, callouts, and properties |
 | [Wiki Onboarding](../it-and-development/knowledge-management/wiki-onboarding.md) | Generate two onboarding documents for any codebase, from principal-level to zero-to-hero. |
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Bulletmind](productivity/bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
-| [Claude Speed Reader](productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
-| [Practice Plan Creator](productivity/practice-plan-creator.md) | Designs sport-specific practice sessions with drills, timing, and progression. |
-| [Speed](../management/productivity/speed.md) | Launch RSVP speed reader with Spritz-style word-by-word display. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Ethical Hacking Methodology](../it-and-development/security-and-compliance/ethical-hacking-methodology.md) | Guide users through the five-stage ethical hacking lifecycle from recon to reporting for authorized testing. |
-| [Network 101](../it-and-development/security-and-compliance/network-101.md) | Configure HTTP, HTTPS, SNMP, and SMB services in isolated lab environments for penetration testing practice. |
-| [Top Web Vulnerabilities](../it-and-development/security-and-compliance/top-web-vulnerabilities.md) | Reference the top 100 web vulnerabilities by category for assessment and remediation. No scanning or testing. Authorized use only. Educational referen |
-| [Web Security Testing](../it-and-development/security-and-compliance/web-security-testing.md) | Guide structured OWASP Top 10 web application security assessments step by step. |
 
 ## Generative AI and LLM
 

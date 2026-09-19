@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **73 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **90 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,12 +12,12 @@ Recruiting, onboarding and people operations. **73 ready-made Grok Bot templates
 | Kind of work | Templates |
 |---|---:|
 | [Writing & Content](writing-and-content/README.md) | 21 |
-| [Data Analysis](data-analysis/README.md) | 15 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 9 |
-| [Productivity](productivity/README.md) | 6 |
+| [Data Analysis](data-analysis/README.md) | 20 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 16 |
+| [Productivity](productivity/README.md) | 10 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
 | [Research](research/README.md) | 5 |
-| [Security & Compliance](security-and-compliance/README.md) | 3 |
+| [Security & Compliance](security-and-compliance/README.md) | 4 |
 | [Knowledge Management](knowledge-management/README.md) | 2 |
 | [Office Tools](office-tools/README.md) | 2 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
@@ -57,9 +57,12 @@ Recruiting, onboarding and people operations. **73 ready-made Grok Bot templates
 | [Ai Dev Jobs Mcp](../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Ditto](../it-and-development/data-analysis/ditto.md) | Mine private work profiles from local coding-agent session logs. |
 | [Employee Performance Analytics Assistant](../management/data-analysis/employee-performance-analytics-assistant.md) | Turns employee performance data into analytics, reviews, dashboards, and improvement plans. |
+| [Employee Template Tracking Planner](../education/data-analysis/employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
+| [Feedback Insight Report Builder](../education/data-analysis/feedback-insight-report-builder.md) | Collects, analyzes, and reports on training feedback to drive program improvements. |
 | [Hiring Screener](data-analysis/hiring-screener.md) | Screens resumes against a job description and returns a ranked, evidence-backed shortlist. |
 | [HR Analytics Insights](../operations/data-analysis/hr-analytics-insights.md) | Turns HR data into clear insights for workforce decisions. |
 | [Job Description Analyzer](data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
+| [Learning Analytics Insights Assistant](../education/data-analysis/learning-analytics-insights-assistant.md) | Turns training data into insights, forecasts, and improvement plans for learning programs.​ |
 | [Meeting Insights Analyzer](../management/data-analysis/meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
 | [Occupational Health Analyzer](../healthcare/data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |
 | [Offer Comparison Analyzer](data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
@@ -69,6 +72,8 @@ Recruiting, onboarding and people operations. **73 ready-made Grok Bot templates
 | [Team Composition Analysis](data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Template Gap Analysis Assistant](../education/data-analysis/template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
 | [Training Effectiveness Evaluator](../education/data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |
+| [Training Feedback Action Planner](../education/data-analysis/training-feedback-action-planner.md) | Evaluates training effectiveness and turns feedback into improvement plans. |
+| [Training Needs Analysis Assistant](../education/data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
 
 ## Teaching & Tutoring
 
@@ -78,10 +83,17 @@ Recruiting, onboarding and people operations. **73 ready-made Grok Bot templates
 | [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 | [Customer Service Training Builder](../management/teaching-and-tutoring/customer-service-training-builder.md) | Builds and maintains customer service training modules from planning to feedback. |
 | [Employee Training Program Coordinator](../operations/teaching-and-tutoring/employee-training-program-coordinator.md) | Designs, runs, and improves your team's training programs end to end. |
+| [Gamified Training Program Designer](../education/teaching-and-tutoring/gamified-training-program-designer.md) | Designs and runs gamified training programs, from content to rewards, for training coordinators. |
+| [Interactive Training Designer](../education/teaching-and-tutoring/interactive-training-designer.md) | Designs and evaluates interactive training modules, materials, and tools for engaging learning. |
 | [Interview Prep](../education/teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
+| [Learning Path Architect for HR](../education/teaching-and-tutoring/learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
 | [Legal Education and Training Assistant](../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
 | [Logistics Training Program Coordinator](../operations/teaching-and-tutoring/logistics-training-program-coordinator.md) | Builds and runs staff training programs for logistics teams, from needs assessment to evaluation. |
+| [Onboarding Program Enhancer](../education/teaching-and-tutoring/onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
+| [Remote Training Program Designer](../education/teaching-and-tutoring/remote-training-program-designer.md) | Designs and runs remote training programs that engage, assess, and develop your team. |
 | [Staff Training Planner](../management/teaching-and-tutoring/staff-training-planner.md) | Plans and runs staff training for insurance agency managers, from needs assessment to effectiveness evaluation. |
+| [Technology Adoption Training Planner](../education/teaching-and-tutoring/technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
+| [Training Accessibility Assistant](../education/teaching-and-tutoring/training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
 | [Training Program Designer](../management/teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
 
 ## Productivity
@@ -93,7 +105,11 @@ Recruiting, onboarding and people operations. **73 ready-made Grok Bot templates
 | [Git Pr Workflows Onboard](productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
 | [Hiring Scorecard Builder](productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
 | [Hr Pro](productivity/hr-pro.md) | HR partner for hiring, onboarding, PTO, performance, and compliant policies. |
+| [Instructor Lifecycle Manager](../education/productivity/instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
 | [Jobgpt](productivity/jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |
+| [Learning Culture Builder](../education/productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
+| [Training Budget Optimizer](../education/productivity/training-budget-optimizer.md) | Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators. |
+| [Virtual Training Coordinator Assistant](../education/productivity/virtual-training-coordinator-assistant.md) | Manages virtual training setup, content, engagement, and evaluation for training coordinators. |
 
 ## Self-Improvement
 
@@ -120,6 +136,7 @@ Recruiting, onboarding and people operations. **73 ready-made Grok Bot templates
 
 | Template | What it does |
 |---|---|
+| [Compliance Training Manager](../education/security-and-compliance/compliance-training-manager.md) | Manages compliance training from needs assessment to certification and reporting. |
 | [Event Staffing Compliance](security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
 | [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Whistleblower Policy Manager](../legal/security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |

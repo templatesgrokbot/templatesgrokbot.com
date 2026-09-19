@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,187 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,197 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,23 +11,23 @@ Processes, logistics and the systems that run a business. **1,187 ready-made Gro
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 395 |
+| [Data Analysis](data-analysis/README.md) | 398 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 182 |
-| [Productivity](productivity/README.md) | 163 |
+| [Productivity](productivity/README.md) | 166 |
 | [Security & Compliance](security-and-compliance/README.md) | 88 |
-| [Research](research/README.md) | 79 |
+| [Research](research/README.md) | 80 |
 | [Coding](coding/README.md) | 60 |
 | [Knowledge Management](knowledge-management/README.md) | 33 |
 | [Support & Community](support-and-community/README.md) | 31 |
 | [Writing & Content](writing-and-content/README.md) | 28 |
 | [Office Tools](office-tools/README.md) | 27 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 24 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 25 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 17 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 14 |
 | [Speech-To-Text](speech-to-text/README.md) | 10 |
 | [Generative Code](generative-code/README.md) | 8 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
-| [Design](design/README.md) | 4 |
+| [Design](design/README.md) | 6 |
 | [Social Media](social-media/README.md) | 4 |
 | [Video Editing](video-editing/README.md) | 4 |
 | [Translation](translation/README.md) | 3 |
@@ -49,7 +49,7 @@ Processes, logistics and the systems that run a business. **1,187 ready-made Gro
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 395 Data Analysis templates →](data-analysis/README.md)
+[All 398 Data Analysis templates →](data-analysis/README.md)
 
 ## Cloud & DevOps
 
@@ -79,7 +79,7 @@ Processes, logistics and the systems that run a business. **1,187 ready-made Gro
 | [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 163 Productivity templates →](productivity/README.md)
+[All 166 Productivity templates →](productivity/README.md)
 
 ## Security & Compliance
 
@@ -109,7 +109,7 @@ Processes, logistics and the systems that run a business. **1,187 ready-made Gro
 | [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 | [Hasdata Cli](../it-and-development/research/hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
 
-[All 79 Research templates →](research/README.md)
+[All 80 Research templates →](research/README.md)
 
 ## Coding
 
@@ -199,7 +199,7 @@ Processes, logistics and the systems that run a business. **1,187 ready-made Gro
 | [Contract Negotiation Assistant](sales-and-negotiation/contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
 | [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
 
-[All 24 Sales & Negotiation templates →](sales-and-negotiation/README.md)
+[All 25 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Marketing & Growth
 
@@ -279,7 +279,9 @@ Processes, logistics and the systems that run a business. **1,187 ready-made Gro
 | [Ergonomic Workspace Design Assistant](design/ergonomic-workspace-design-assistant.md) | Ergonomic workplace design assistant for safety engineers, from layout to compliance. |
 | [Command Center Ui](../it-and-development/design/command-center-ui.md) | Generate dark-themed monitoring UI code for NOCs and global maps. |
 | [Screenshot Reviewer](design/screenshot-reviewer.md) | Reviews task lists against screenshots for completeness, consistency, and quality. |
+| [Process Design Innovation Assistant](../product-development/design/process-design-innovation-assistant.md) | Innovation partner for process engineers, turning data and ideas into better designs. |
 | [Warehouse Flow Architect](design/warehouse-flow-architect.md) | Optimizes warehouse layouts for space, flow, safety, and future growth. |
+| [Site Layout Planner](../real-estate-and-construction/design/site-layout-planner.md) | Optimizes construction site layouts and utilization for contractors. |
 
 ## Social Media
 

@@ -1,6 +1,6 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 63 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 64 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -61,6 +61,7 @@ Find sources, compare evidence and summarise what is known. 63 Grok Bot template
 | [Seo Dataforseo](seo-dataforseo.md) | Fetch live SERPs, keyword metrics, backlinks, and competitor data via DataForSEO. |
 | [Seo Geo](seo-geo.md) | Analyze content visibility and optimization for AI search systems like ChatGPT, Perplexity, and Google AI Overviews. |
 | [Seo Images](seo-images.md) | Audit image SEO, alt text, sizes, formats, and lazy loading for web pages. |
+| [Social Media Market Research Analyst](../../sales/research/social-media-market-research-analyst.md) | Turns social media data into market research insights and strategy for sales and marketing teams. |
 | [Startup Business Analyst Market Opportunity](../../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
 | [Stock Photo Finder](../../creatives/research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 | [Survey Design and Analysis Assistant](../../management/research/survey-design-and-analysis-assistant.md) | Designs, distributes, analyzes, and reports surveys for market research managers. |

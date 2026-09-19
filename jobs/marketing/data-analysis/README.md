@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 81 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 85 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -52,9 +52,11 @@ Clean, query, chart and explain data. 81 Grok Bot templates, 28 of them filed in
 | [E-commerce Pricing Optimizer](../../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [E-commerce Recommendation Optimizer](../../management/data-analysis/e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
 | [E-commerce UX Improvement Assistant](../../management/data-analysis/e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
+| [Email Marketing Analytics Assistant](../../sales/data-analysis/email-marketing-analytics-assistant.md) | Turns your email campaign data into clear insights and reports. |
 | [Excel Analysis](../../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Experiment Readout](../../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
+| [Feedback to Sales Actions](../../sales/data-analysis/feedback-to-sales-actions.md) | Turns customer feedback into clear insights and actions for sales and marketing. |
 | [Footballbin Predictions](footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
 | [Google Ads Performance Analyzer](google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 | [Google Analytics](google-analytics.md) | Analyze Google Analytics data to find traffic patterns and suggest improvements. |
@@ -66,7 +68,9 @@ Clean, query, chart and explain data. 81 Grok Bot templates, 28 of them filed in
 | [Market Basket Insights Assistant](../../management/data-analysis/market-basket-insights-assistant.md) | Turns retail transaction data into cross-selling, promotion, and inventory insights. |
 | [Market Sizing Analysis](../../executives-and-strategy/data-analysis/market-sizing-analysis.md) | Calculate TAM, SAM, and SOM for startup market sizing with three methodologies. |
 | [Market Trend Analyzer](../../management/data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
+| [Marketing Analytics and Reporting Assistant](../../sales/data-analysis/marketing-analytics-and-reporting-assistant.md) | Turns your marketing data into clear reports, forecasts, and spend recommendations. |
 | [Marketing Attribution Analyst](marketing-attribution-analyst.md) | Models multi-touch attribution, validates channel performance with incrementality testing, and optimizes budget allocation. Uses confirmed data only. |
+| [Marketing Data Analyst](../../sales/data-analysis/marketing-data-analyst.md) | Turns marketing data into insights, reports, and dashboards for digital marketing managers. |
 | [Marketing Metrics Analyst](../../management/data-analysis/marketing-metrics-analyst.md) | Turns your marketing data into clear metrics, insights, and decisions. |
 | [Mixpanel Automation](../../it-and-development/data-analysis/mixpanel-automation.md) | Automate Mixpanel analytics: events, funnels, cohorts, profiles, and JQL queries via Rube MCP. |
 | [News Sentiment Engine](news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |

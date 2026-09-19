@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **976 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **1,005 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,17 +12,17 @@ Product managers and the teams that ship. **976 ready-made Grok Bot templates** 
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 398 |
-| [Design](design/README.md) | 88 |
+| [Design](design/README.md) | 95 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
 | [Generative Code](generative-code/README.md) | 65 |
-| [Research](research/README.md) | 57 |
-| [Data Analysis](data-analysis/README.md) | 56 |
-| [Productivity](productivity/README.md) | 55 |
+| [Data Analysis](data-analysis/README.md) | 64 |
+| [Research](research/README.md) | 63 |
+| [Productivity](productivity/README.md) | 58 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 33 |
-| [Security & Compliance](security-and-compliance/README.md) | 24 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 34 |
+| [Security & Compliance](security-and-compliance/README.md) | 25 |
+| [Writing & Content](writing-and-content/README.md) | 23 |
 | [Prompt Engineering](prompt-engineering/README.md) | 22 |
-| [Writing & Content](writing-and-content/README.md) | 20 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
 | [Generative Art](generative-art/README.md) | 9 |
 | [Self-Improvement](self-improvement/README.md) | 4 |
@@ -60,7 +60,7 @@ Product managers and the teams that ship. **976 ready-made Grok Bot templates** 
 | [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
 
-[All 88 Design templates →](design/README.md)
+[All 95 Design templates →](design/README.md)
 
 ## Generative AI and LLM
 
@@ -92,6 +92,21 @@ Product managers and the teams that ship. **976 ready-made Grok Bot templates** 
 
 [All 65 Generative Code templates →](generative-code/README.md)
 
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Amplitude Automation](../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
+| [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
+| [Database Design](../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
+| [User Feedback Insight Assistant](data-analysis/user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
+| [Zinc Database](../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
+| [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
+| [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
+| [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
+
+[All 64 Data Analysis templates →](data-analysis/README.md)
+
 ## Research
 
 | Template | What it does |
@@ -105,22 +120,7 @@ Product managers and the teams that ship. **976 ready-made Grok Bot templates** 
 | [Rex](research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [Wiki Researcher](../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
 
-[All 57 Research templates →](research/README.md)
-
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Amplitude Automation](../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
-| [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
-| [Database Design](../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
-| [Zinc Database](../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
-| [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
-| [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
-| [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
-| [Product Feedback Aggregator](../management/data-analysis/product-feedback-aggregator.md) | Turns scattered customer feedback into prioritized, actionable product insights. |
-
-[All 56 Data Analysis templates →](data-analysis/README.md)
+[All 63 Research templates →](research/README.md)
 
 ## Productivity
 
@@ -135,7 +135,7 @@ Product managers and the teams that ship. **976 ready-made Grok Bot templates** 
 | [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [Not A Vibe Coder](productivity/not-a-vibe-coder.md) | Turns vague project ideas into 8 structured planning files for new projects only. |
 
-[All 55 Productivity templates →](productivity/README.md)
+[All 58 Productivity templates →](productivity/README.md)
 
 ## Cloud & DevOps
 
@@ -165,7 +165,7 @@ Product managers and the teams that ship. **976 ready-made Grok Bot templates** 
 | [Personalized Marketing Strategist](../management/marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
 | [Seo Aeo Content Cluster](../marketing/marketing-and-growth/seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |
 
-[All 33 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 34 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Security & Compliance
 
@@ -180,7 +180,22 @@ Product managers and the teams that ship. **976 ready-made Grok Bot templates** 
 | [Security And Hardening](../it-and-development/security-and-compliance/security-and-hardening.md) | Hardens code against vulnerabilities by threat modeling and applying OWASP prevention patterns. |
 | [Se Responsible Ai Code](../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
 
-[All 24 Security & Compliance templates →](security-and-compliance/README.md)
+[All 25 Security & Compliance templates →](security-and-compliance/README.md)
+
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
+| [Seo Content Refresher](../marketing/writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
+| [Documentation Templates](../it-and-development/writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
+| [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
+| [PM Stakeholder Comms Kit](writing-and-content/pm-stakeholder-comms-kit.md) | Drafts, summarizes, and plans all stakeholder communications for product managers. |
+| [Technical Documentation Assistant](writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
+| [Doc Co-Authoring Workflow](../writers/writing-and-content/doc-coauthoring.md) | Guides users through co-authoring docs with context, refinement, and reader testing. |
+| [Reference Builder](../it-and-development/writing-and-content/reference-builder.md) | Generate exhaustive technical references and API documentation from code and specs. |
+
+[All 23 Writing & Content templates →](writing-and-content/README.md)
 
 ## Prompt Engineering
 
@@ -196,21 +211,6 @@ Product managers and the teams that ship. **976 ready-made Grok Bot templates** 
 | [Context Fundamentals](../it-and-development/prompt-engineering/context-fundamentals.md) | Engineer minimal, high-signal context for reliable agent behavior. |
 
 [All 22 Prompt Engineering templates →](prompt-engineering/README.md)
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
-| [Seo Content Refresher](../marketing/writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
-| [Documentation Templates](../it-and-development/writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
-| [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
-| [Technical Documentation Assistant](writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
-| [Doc Co-Authoring Workflow](../writers/writing-and-content/doc-coauthoring.md) | Guides users through co-authoring docs with context, refinement, and reader testing. |
-| [Reference Builder](../it-and-development/writing-and-content/reference-builder.md) | Generate exhaustive technical references and API documentation from code and specs. |
-| [App Store Changelog](../it-and-development/writing-and-content/app-store-changelog.md) | Generate App Store release notes from git history since the last tag. |
-
-[All 20 Writing & Content templates →](writing-and-content/README.md)
 
 ## Knowledge Management
 

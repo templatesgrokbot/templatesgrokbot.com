@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Writers
 
-Campaigns, ads, conversion and launch plans. 13 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 14 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Campaigns, ads, conversion and launch plans. 13 Grok Bot templates, 0 of them fi
 | [Ad Copy Generator](../../management/marketing-and-growth/ad-copy-generator.md) | Generates, refines, and optimizes ad copy for marketing campaigns. |
 | [Content Marketing Assistant](../../pr-and-communications/marketing-and-growth/content-marketing-assistant.md) | Drafts, optimizes, and plans all your content marketing from research to distribution. |
 | [Copywriting Psychologist](../../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
+| [Email Campaign Copywriter](../../sales/marketing-and-growth/email-campaign-copywriter.md) | Drafts, personalizes, and tests email campaign copy for higher engagement and conversions. |
 | [Keyword Extractor](../../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
 | [Seo Aeo Content Cluster](../../marketing/marketing-and-growth/seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |
 | [Seo Aeo Content Quality Auditor](../../marketing/marketing-and-growth/seo-aeo-content-quality-auditor.md) | Audit any page or post for SEO and AEO, get scored reports and fix lists. |

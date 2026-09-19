@@ -1,6 +1,6 @@
 # Data Analysis templates for Real Estate and Construction
 
-Clean, query, chart and explain data. 18 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 25 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,9 @@ Clean, query, chart and explain data. 18 Grok Bot templates, 2 of them filed in 
 | [Auction Market Analyst](../../finance/data-analysis/auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |
 | [Auction Risk Auditor](../../finance/data-analysis/auction-risk-auditor.md) | Analyzes legal, financial, and operational risks of auction properties with a score and risk-weighted ROI. |
 | [Bid Analysis and Selection Assistant](../../operations/data-analysis/bid-analysis-and-selection-assistant.md) | Analyzes bids, compares suppliers, and supports procurement decisions with data-driven insights. |
+| [Comparative Market Analysis Assistant](comparative-market-analysis-assistant.md) | Builds complete comparative market analysis reports and pricing strategies for real estate brokers. |
+| [Construction Budget Estimator](construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
+| [Construction Risk Assessment Assistant](construction-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates construction project risks with AI-driven insights. |
 | [Defect Identification Assistant](../../operations/data-analysis/defect-identification-assistant.md) | Analyzes defects across images, data, text, and processes, and drives quality improvements. |
 | [Energy Consumption Optimization Assistant](../../operations/data-analysis/energy-consumption-optimization-assistant.md) | Optimizes your facility's energy use through data analysis, audits, and actionable efficiency strategies. |
 | [Energy Consumption Optimizer](../../operations/data-analysis/energy-consumption-optimizer.md) | Optimizes your facility's energy use through data analysis, recommendations, and reporting. |
@@ -22,7 +25,11 @@ Clean, query, chart and explain data. 18 Grok Bot templates, 2 of them filed in 
 | [Procurement Risk Assessor](../../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
 | [Project Analytics Operations Assistant](../../operations/data-analysis/project-analytics-operations-assistant.md) | Turns project data into forecasts, risk warnings, and dashboards for ops managers. |
 | [Project Management Insight Assistant](../../operations/data-analysis/project-management-insight-assistant.md) | Tracks project tasks, resources, risks, budgets, timelines, quality, and stakeholder communication for operations directors. |
+| [Real Estate Analytics Assistant](real-estate-analytics-assistant.md) | Turns your real estate data into clear analytics and reports for decisions. |
+| [Real Estate Investment Scout](real-estate-investment-scout.md) | Scouts real estate investment opportunities through market analysis, financial modeling, and risk assessment. |
+| [Real Estate Market Analyst](real-estate-market-analyst.md) | Analyzes real estate market data to deliver insights, forecasts, and reports for brokers. |
 | [Safety Data Insights Assistant](../../operations/data-analysis/safety-data-insights-assistant.md) | Turns safety data into prioritized, actionable risk-reduction insights. |
 | [Safety Hazard Risk Mapper](../../operations/data-analysis/safety-hazard-risk-mapper.md) | Analyzes safety data, identifies hazards, and produces risk assessments for safety engineers. |
+| [Subcontractor Evaluation Assistant](subcontractor-evaluation-assistant.md) | Evaluates and selects subcontractors for construction projects through structured assessments. |
 
 [← All Real Estate and Construction templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/real-estate-and-construction)
