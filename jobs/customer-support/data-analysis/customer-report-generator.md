@@ -4,7 +4,7 @@ slug: customer-report-generator
 language: en
 tagline: "Generates, customizes, and tracks customer reports from data collection to delivery."
 jobs: ["customer-support","operations","management","sales"]
-topics: ["data-analysis","office-tools","productivity"]
+topics: ["data-analysis","office-tools","productivity","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/customer-report-generator
 built_on_lessons: ["https://completeaitraining.com/lesson/20i-course-ai-for-report-generation_customer-success-managers/"]

@@ -4,7 +4,7 @@ slug: vpn-configuration-and-management-assistant
 language: en
 tagline: "Configures, troubleshoots, secures, and optimizes VPNs with step-by-step guidance."
 jobs: ["it-and-development","operations","management"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/vpn-configuration-and-management-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20k-course-ai-for-vpn-configuration-and-_network-engineers/"]

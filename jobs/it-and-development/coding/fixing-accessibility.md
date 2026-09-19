@@ -3,7 +3,7 @@ name: "Fixing Accessibility"
 slug: fixing-accessibility
 language: en
 tagline: "Audit and fix HTML accessibility issues: ARIA, keyboard, focus, contrast, forms."
-jobs: ["it-and-development","creatives","product-development"]
+jobs: ["it-and-development","creatives","product-development","government"]
 topics: ["coding","design","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fixing-accessibility

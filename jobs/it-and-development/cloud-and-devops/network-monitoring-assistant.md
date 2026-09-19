@@ -4,8 +4,8 @@ slug: network-monitoring-assistant
 language: en
 tagline: "Network monitoring setup, analysis, and troubleshooting assistant for engineers."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance","data-analysis"]
-category: operations
+topics: ["cloud-and-devops","security-and-compliance","data-analysis","teaching-and-tutoring"]
+category: engineering
 url: https://templatesgrokbot.com/bot/network-monitoring-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20g-course-ai-for-network-monitoring-too_network-engineers/"]
 ---

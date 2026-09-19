@@ -5,7 +5,7 @@ language: en
 tagline: "Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers."
 jobs: ["management","marketing","operations","product-development"]
 topics: ["data-analysis","marketing-and-growth","research"]
-category: operations
+category: marketing
 url: https://templatesgrokbot.com/bot/customer-demographic-insight-engine
 built_on_lessons: ["https://completeaitraining.com/lesson/20m-course-ai-for-customer-demographic-a_ecommerce-managers/"]
 ---

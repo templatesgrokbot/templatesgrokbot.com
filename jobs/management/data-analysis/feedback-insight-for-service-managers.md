@@ -3,8 +3,8 @@ name: "Feedback Insight for Service Managers"
 slug: feedback-insight-for-service-managers
 language: en
 tagline: "Turns customer feedback into actionable insights for service managers."
-jobs: ["management","operations","customer-support"]
-topics: ["data-analysis","research","support-and-community"]
+jobs: ["management","operations","customer-support","hospitality-and-events"]
+topics: ["data-analysis","research","support-and-community","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/feedback-insight-for-service-managers
 built_on_lessons: ["https://completeaitraining.com/lesson/20a-course-ai-for-customer-feedback-anal_service-managers/"]

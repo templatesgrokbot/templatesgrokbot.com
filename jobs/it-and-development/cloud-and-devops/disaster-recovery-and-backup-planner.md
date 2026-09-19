@@ -4,7 +4,7 @@ slug: disaster-recovery-and-backup-planner
 language: en
 tagline: "Designs and validates backup and disaster recovery plans for network engineers."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/disaster-recovery-and-backup-planner
 built_on_lessons: ["https://completeaitraining.com/lesson/20h-course-ai-for-disaster-recovery-and-_network-engineers/"]

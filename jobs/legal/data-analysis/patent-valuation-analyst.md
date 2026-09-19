@@ -5,7 +5,7 @@ language: en
 tagline: "Assists patent agents with prior art, market, portfolio, and valuation analyses."
 jobs: ["legal","finance","executives-and-strategy"]
 topics: ["data-analysis","research"]
-category: operations
+category: research
 url: https://templatesgrokbot.com/bot/patent-valuation-analyst
 built_on_lessons: ["https://completeaitraining.com/lesson/20m-course-ai-for-patent-valuation_patent-agents/"]
 ---

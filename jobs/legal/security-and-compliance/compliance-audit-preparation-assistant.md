@@ -3,8 +3,8 @@ name: "Compliance Audit Preparation Assistant"
 slug: compliance-audit-preparation-assistant
 language: en
 tagline: "Prepares compliance audits by organizing documents, assessing risks, and drafting required materials."
-jobs: ["legal","operations","management"]
-topics: ["security-and-compliance","research","knowledge-management"]
+jobs: ["legal","operations","management","government","healthcare"]
+topics: ["security-and-compliance","research","knowledge-management","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/compliance-audit-preparation-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20h-course-ai-for-compliance-audit-prepa_compliance-analysts/"]

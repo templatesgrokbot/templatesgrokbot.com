@@ -3,7 +3,7 @@ name: "Ad Copy Generator"
 slug: ad-copy-generator
 language: en
 tagline: "Generates, refines, and optimizes ad copy for marketing campaigns."
-jobs: ["management","marketing","sales","product-development"]
+jobs: ["management","marketing","sales","product-development","writers"]
 topics: ["marketing-and-growth","writing-and-content","prompt-engineering"]
 category: marketing
 url: https://templatesgrokbot.com/bot/ad-copy-generator

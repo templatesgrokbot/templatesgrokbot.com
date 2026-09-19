@@ -3,8 +3,8 @@ name: "Customer Persona Builder"
 slug: customer-persona-builder
 language: en
 tagline: "Builds and refines customer personas from research to presentation for marketing managers."
-jobs: ["management","marketing","product-development","sales"]
-topics: ["marketing-and-growth","data-analysis","research"]
+jobs: ["management","marketing","product-development","sales","hospitality-and-events"]
+topics: ["marketing-and-growth","data-analysis","research","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/customer-persona-builder
 built_on_lessons: ["https://completeaitraining.com/lesson/20i-course-ai-for-customer-persona-creat_marketing-managers/"]

@@ -4,7 +4,7 @@ slug: insurance-payment-assistance-assistant
 language: en
 tagline: "Handles insurance payment assistance: plans, extensions, reminders, processing, history, confirmations, and more."
 jobs: ["customer-support","insurance"]
-topics: ["support-and-community","office-tools"]
+topics: ["support-and-community","office-tools","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/insurance-payment-assistance-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20j-course-ai-for-payment-assistance_insurance-customer-service-representatives/"]

@@ -3,8 +3,8 @@ name: "Protected Disclosure Compass"
 slug: protected-disclosure-compass
 language: en
 tagline: "Manages whistleblower policy, complaints, investigations, training, and compliance reporting."
-jobs: ["legal","human-resources","operations"]
-topics: ["security-and-compliance","research","writing-and-content"]
+jobs: ["legal","human-resources","operations","government"]
+topics: ["security-and-compliance","research","writing-and-content","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/protected-disclosure-compass
 built_on_lessons: ["https://completeaitraining.com/lesson/20s-course-ai-for-whistleblower-policy-m_compliance-analysts/"]

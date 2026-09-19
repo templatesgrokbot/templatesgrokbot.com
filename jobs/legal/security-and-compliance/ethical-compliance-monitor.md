@@ -3,8 +3,8 @@ name: "Ethical Compliance Monitor"
 slug: ethical-compliance-monitor
 language: en
 tagline: "Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts."
-jobs: ["legal","operations","management"]
-topics: ["security-and-compliance","research","knowledge-management"]
+jobs: ["legal","operations","management","government","insurance"]
+topics: ["security-and-compliance","research","knowledge-management","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/ethical-compliance-monitor
 built_on_lessons: ["https://completeaitraining.com/lesson/20m-course-ai-for-ethical-compliance-mon_compliance-analysts/","https://completeaitraining.com/lesson/20d-course-ai-for-policy-review-and-upda_compliance-analysts/"]

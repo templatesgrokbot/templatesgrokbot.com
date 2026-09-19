@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Product Development
 
-Campaigns, ads, conversion and launch plans. 32 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 33 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -32,6 +32,7 @@ Campaigns, ads, conversion and launch plans. 32 Grok Bot templates, 3 of them fi
 | [Personalized Marketing Strategist](../../management/marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
 | [Pricing](../../marketing/marketing-and-growth/pricing.md) | Design SaaS pricing tiers, value metrics, and monetization strategy based on customer willingness to pay. |
 | [Pricing Strategy](../../marketing/marketing-and-growth/pricing-strategy.md) | Designs pricing, packaging, and monetization strategy based on customer willingness to pay and growth objectives. |
+| [Product Launch Planner](../../management/marketing-and-growth/product-launch-planner.md) | Plans and executes product launches from market research to post-launch monitoring. |
 | [Product Marketing](../../marketing/marketing-and-growth/product-marketing.md) | Build and maintain a product marketing context document from codebase or conversation. |
 | [SaaS Monetization Strategist](monetization.md) | SaaS monetization strategy and implementation with Stripe, pricing, and churn prevention. Use for integrating Stripe, creating subscription plans, configuring |
 | [Seo Aeo Content Cluster](../../marketing/marketing-and-growth/seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |

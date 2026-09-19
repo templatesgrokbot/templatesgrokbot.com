@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **61 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **70 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,27 +11,31 @@ Press, internal comms and reputation. **61 ready-made Grok Bot templates** for t
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 21 |
-| [Writing & Content](writing-and-content/README.md) | 12 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 24 |
+| [Writing & Content](writing-and-content/README.md) | 13 |
 | [Research](research/README.md) | 11 |
 | [Social Media](social-media/README.md) | 9 |
-| [Data Analysis](data-analysis/README.md) | 5 |
+| [Data Analysis](data-analysis/README.md) | 8 |
 | [Design](design/README.md) | 2 |
+| [Productivity](productivity/README.md) | 2 |
 | [Support & Community](support-and-community/README.md) | 1 |
 
 ## Marketing & Growth
 
 | Template | What it does |
 |---|---|
+| [Brand Crisis Response Manager](../management/marketing-and-growth/brand-crisis-response-manager.md) | Prepares and guides brand crisis responses from monitoring to recovery. |
 | [Brand Perception Psychologist](../marketing/marketing-and-growth/brand-perception-psychologist.md) | Diagnose brand perception gaps and prescribe alignment changes using psychological frameworks. |
 | [Brand Review](../marketing/marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
 | [Brand Voice Guidelines Generator](../marketing/marketing-and-growth/brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Brevo Automation](../marketing/marketing-and-growth/brevo-automation.md) | Automate Brevo email campaigns, templates, and senders via Rube MCP. |
 | [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
 | [Content Strategy](../marketing/marketing-and-growth/content-strategy.md) | Plan content strategy, topic clusters, and editorial roadmap for traffic and leads. |
+| [Content Strategy Planner](../management/marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
 | [Event Promotion Planner](../management/marketing-and-growth/event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
 | [Executing Marketing Campaigns](../marketing/marketing-and-growth/executing-marketing-campaigns.md) | Plans, creates, and optimizes marketing campaigns across channels with measurable results. |
 | [Headline Psychologist](../marketing/marketing-and-growth/headline-psychologist.md) | Engineer headlines that create curiosity gaps and trigger attention without clickbait. |
+| [Hotel Reputation Manager](../hospitality-and-events/marketing-and-growth/hotel-reputation-manager.md) | Manages hotel online reputation from review monitoring to crisis response. |
 | [Influencer Collaboration Manager](../management/marketing-and-growth/influencer-collaboration-manager.md) | Manages influencer collaborations from discovery to reporting, with approval gates for all external actions. |
 | [Loss Aversion Designer](../marketing/marketing-and-growth/loss-aversion-designer.md) | Frame messages using loss aversion to drive action without fear-mongering. |
 | [Open Source Marketing](../marketing/marketing-and-growth/open-source-marketing.md) | Market open source projects authentically with GitHub optimization and community building. |
@@ -61,6 +65,7 @@ Press, internal comms and reputation. **61 ready-made Grok Bot templates** for t
 | [Internal Comms Drafter](writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
 | [Patent Client Communication Assistant](../legal/writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
 | [Press Conference Simulator](writing-and-content/press-conference-simulator.md) | Generates authentic coach and player press conference responses for any sports scenario. |
+| [Receptionist Communication Assistant](../customer-support/writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
 
 ## Research
 
@@ -100,7 +105,10 @@ Press, internal comms and reputation. **61 ready-made Grok Bot templates** for t
 | [Apify Content Analytics](../marketing/data-analysis/apify-content-analytics.md) | Track engagement metrics and analyze content performance across social platforms using Apify Actors. |
 | [Apify Trend Analysis](../marketing/data-analysis/apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
 | [Brand Image Analyst](../management/data-analysis/brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
+| [Brand Perception Analyst](../management/data-analysis/brand-perception-analyst.md) | Analyzes brand perception from reviews, social media, and surveys to guide strategy. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
+| [Sentiment Insight Compiler](../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
+| [Social Media Engagement Analyst](../management/data-analysis/social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
 
 ## Design
 
@@ -108,6 +116,13 @@ Press, internal comms and reputation. **61 ready-made Grok Bot templates** for t
 |---|---|
 | [Anthropic Brand Application](../creatives/design/anthropic-brand-guidelines.md) | Applies Anthropic brand standards to artifacts: colors, typography, visual language. |
 | [Brand Guidelines](../marketing/design/brand-guidelines.md) | Apply brand colors, typography, and tone to user-facing content and artifacts. |
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Hotel Crisis Management Planner](../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
+| [Stakeholder Communication Planner](../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
 
 ## Support & Community
 

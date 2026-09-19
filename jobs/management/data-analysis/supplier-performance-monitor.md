@@ -4,7 +4,7 @@ slug: supplier-performance-monitor
 language: en
 tagline: "Track supplier performance, spot issues, and drive improvements from one dashboard."
 jobs: ["management","operations","it-and-development"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/supplier-performance-monitor
 built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-performance-monitoring_supplier-relationship-managers/"]

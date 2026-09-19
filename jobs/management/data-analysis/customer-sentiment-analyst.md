@@ -4,7 +4,7 @@ slug: customer-sentiment-analyst
 language: en
 tagline: "Analyzes customer sentiment across channels to guide e-commerce decisions."
 jobs: ["management","marketing","operations","product-development"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","marketing-and-growth"]
 category: operations
 url: https://templatesgrokbot.com/bot/customer-sentiment-analyst
 built_on_lessons: ["https://completeaitraining.com/lesson/20b-course-ai-for-customer-sentiment-ana_ecommerce-managers/"]

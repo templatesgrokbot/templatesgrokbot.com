@@ -4,7 +4,7 @@ slug: usability-testing-assistant
 language: en
 tagline: "Turns usability test data into prioritized design fixes and reports for UX/UI designers."
 jobs: ["creatives","product-development","it-and-development"]
-topics: ["research","design","data-analysis"]
+topics: ["research","design","data-analysis","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/usability-testing-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-usability-testing_uxui-designers/"]

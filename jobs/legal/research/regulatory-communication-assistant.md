@@ -3,8 +3,8 @@ name: "Regulatory Communication Assistant"
 slug: regulatory-communication-assistant
 language: en
 tagline: "Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead."
-jobs: ["legal","operations","management"]
-topics: ["research","writing-and-content","security-and-compliance"]
+jobs: ["legal","operations","management","government"]
+topics: ["research","writing-and-content","security-and-compliance","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/regulatory-communication-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20i-course-ai-for-regulatory-communicati_compliance-officers/"]

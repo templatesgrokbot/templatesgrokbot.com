@@ -4,7 +4,7 @@ slug: cross-jurisdictional-compliance-assistant
 language: en
 tagline: "Guides compliance analysts through cross-jurisdictional regulations, from research to audits."
 jobs: ["legal","operations","government"]
-topics: ["research","security-and-compliance","knowledge-management"]
+topics: ["research","security-and-compliance","knowledge-management","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/cross-jurisdictional-compliance-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20r-course-ai-for-crossjurisdictional-co_compliance-analysts/"]

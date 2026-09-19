@@ -4,7 +4,7 @@ slug: customer-engagement-assistant
 language: en
 tagline: "Personalized customer engagement for Customer Success Managers."
 jobs: ["customer-support","sales","operations"]
-topics: ["data-analysis","marketing-and-growth","support-and-community"]
+topics: ["data-analysis","marketing-and-growth","support-and-community","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/customer-engagement-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20b-course-ai-for-personalized-customer-_customer-success-managers/"]

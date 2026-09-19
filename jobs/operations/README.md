@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **738 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **783 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,19 @@ Processes, logistics and the systems that run a business. **738 ready-made Grok 
 
 | Kind of work | Templates |
 |---|---:|
-| [Cloud & DevOps](cloud-and-devops/README.md) | 178 |
-| [Data Analysis](data-analysis/README.md) | 134 |
-| [Productivity](productivity/README.md) | 98 |
-| [Research](research/README.md) | 60 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 179 |
+| [Data Analysis](data-analysis/README.md) | 155 |
+| [Productivity](productivity/README.md) | 109 |
+| [Research](research/README.md) | 63 |
 | [Coding](coding/README.md) | 59 |
-| [Security & Compliance](security-and-compliance/README.md) | 39 |
-| [Knowledge Management](knowledge-management/README.md) | 28 |
+| [Security & Compliance](security-and-compliance/README.md) | 43 |
+| [Knowledge Management](knowledge-management/README.md) | 30 |
 | [Office Tools](office-tools/README.md) | 27 |
 | [Support & Community](support-and-community/README.md) | 21 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 17 |
 | [Writing & Content](writing-and-content/README.md) | 17 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 14 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 10 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 13 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
 | [Generative Code](generative-code/README.md) | 8 |
 | [Social Media](social-media/README.md) | 4 |
@@ -49,7 +49,7 @@ Processes, logistics and the systems that run a business. **738 ready-made Grok 
 | [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
 
-[All 178 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 179 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Data Analysis
 
@@ -64,7 +64,7 @@ Processes, logistics and the systems that run a business. **738 ready-made Grok 
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 134 Data Analysis templates →](data-analysis/README.md)
+[All 155 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -79,7 +79,7 @@ Processes, logistics and the systems that run a business. **738 ready-made Grok 
 | [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 98 Productivity templates →](productivity/README.md)
+[All 109 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -94,7 +94,7 @@ Processes, logistics and the systems that run a business. **738 ready-made Grok 
 | [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 | [Hasdata Cli](../it-and-development/research/hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
 
-[All 60 Research templates →](research/README.md)
+[All 63 Research templates →](research/README.md)
 
 ## Coding
 
@@ -124,7 +124,7 @@ Processes, logistics and the systems that run a business. **738 ready-made Grok 
 | [Digital Forensics](../it-and-development/security-and-compliance/digital-forensics.md) | Authorized digital forensics: memory, disk, PCAP, and artifact triage for incident response. |
 | [Senior Secops](../it-and-development/security-and-compliance/senior-secops.md) | Scans code, assesses vulnerabilities, and checks compliance for your projects. |
 
-[All 39 Security & Compliance templates →](security-and-compliance/README.md)
+[All 43 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Knowledge Management
 
@@ -139,7 +139,7 @@ Processes, logistics and the systems that run a business. **738 ready-made Grok 
 | [Notion Knowledge Capture](knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
 | [Vault Optimizer](knowledge-management/vault-optimizer.md) | Analyzes and optimizes Obsidian vault performance, file sizes, and search indexing. |
 
-[All 28 Knowledge Management templates →](knowledge-management/README.md)
+[All 30 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Office Tools
 
@@ -222,14 +222,14 @@ Processes, logistics and the systems that run a business. **738 ready-made Grok 
 |---|---|
 | [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
 | [Territory Planning Optimizer](../sales/sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
+| [Supplier Relationship Manager](../management/sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
 | [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
+| [Supplier Diversity Program Assistant](../management/sales-and-negotiation/supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
 | [Odoo Sales Crm Expert](../sales/sales-and-negotiation/odoo-sales-crm-expert.md) | Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions. |
 | [Close Automation](../sales/sales-and-negotiation/close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
 | [Salesforce Automation](../sales/sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
-| [Sales Forecast Builder](../sales/sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
-| [Quota Setting Calculator](../sales/sales-and-negotiation/quota-setting-calculator.md) | Designs fair, achievable sales quotas with clear methodology and territory adjustments. |
 
-[All 10 Sales & Negotiation templates →](sales-and-negotiation/README.md)
+[All 13 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Speech-To-Text
 

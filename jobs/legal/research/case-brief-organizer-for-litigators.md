@@ -5,7 +5,7 @@ language: en
 tagline: "Summarizes, analyzes, and organizes case law for legal research and client support."
 jobs: ["legal","operations","education"]
 topics: ["research","knowledge-management","writing-and-content"]
-category: operations
+category: research
 url: https://templatesgrokbot.com/bot/case-brief-organizer-for-litigators
 built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-case-law-summarization_lawyers/"]
 ---

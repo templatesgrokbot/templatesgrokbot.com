@@ -3,7 +3,7 @@ name: "Compliance Cost Analyst"
 slug: compliance-cost-analyst
 language: en
 tagline: "Analyzes, forecasts, and optimizes compliance costs for compliance analysts."
-jobs: ["legal","finance","operations","executives-and-strategy"]
+jobs: ["legal","finance","operations","executives-and-strategy","government"]
 topics: ["data-analysis","research"]
 category: finance
 url: https://templatesgrokbot.com/bot/compliance-cost-analyst

@@ -3,7 +3,7 @@ name: "Contract Repository Manager"
 slug: contract-repository-manager
 language: en
 tagline: "Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access."
-jobs: ["legal","operations","management"]
+jobs: ["legal","operations","management","government"]
 topics: ["knowledge-management","productivity","security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/contract-repository-manager

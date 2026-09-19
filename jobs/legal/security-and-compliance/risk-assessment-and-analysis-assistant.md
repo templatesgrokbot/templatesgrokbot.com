@@ -3,8 +3,8 @@ name: "Risk Assessment and Analysis Assistant"
 slug: risk-assessment-and-analysis-assistant
 language: en
 tagline: "Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers."
-jobs: ["legal","insurance","finance","it-and-development"]
-topics: ["security-and-compliance","data-analysis","research"]
+jobs: ["legal","insurance","finance","it-and-development","government"]
+topics: ["security-and-compliance","data-analysis","research","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/risk-assessment-and-analysis-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-risk-assessment-and-an_compliance-officers/","https://completeaitraining.com/lesson/20j-course-ai-for-compliance-trend-analy_compliance-officers/"]

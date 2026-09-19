@@ -4,7 +4,7 @@ slug: supplier-crisis-management-planner
 language: en
 tagline: "Plans and executes supplier crisis management, from risk assessment to recovery."
 jobs: ["management","operations"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","productivity","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/supplier-crisis-management-planner
 built_on_lessons: ["https://completeaitraining.com/lesson/20n-course-ai-for-crisis-management-plan_supplier-relationship-managers/"]

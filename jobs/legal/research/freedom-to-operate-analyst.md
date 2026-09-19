@@ -5,7 +5,7 @@ language: en
 tagline: "Finds patent risks and opportunities before you commit to a product."
 jobs: ["legal","it-and-development"]
 topics: ["research","data-analysis"]
-category: operations
+category: research
 url: https://templatesgrokbot.com/bot/freedom-to-operate-analyst
 built_on_lessons: ["https://completeaitraining.com/lesson/20n-course-ai-for-freedom-to-operate-ana_patent-agents/"]
 ---

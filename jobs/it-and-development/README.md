@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,477 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,479 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,13 +12,13 @@ Engineers, DevOps, security and IT teams. **2,477 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 1,012 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 355 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 356 |
 | [Security & Compliance](security-and-compliance/README.md) | 240 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 208 |
 | [Data Analysis](data-analysis/README.md) | 149 |
 | [Design](design/README.md) | 89 |
 | [Generative Code](generative-code/README.md) | 88 |
-| [Research](research/README.md) | 86 |
+| [Research](research/README.md) | 87 |
 | [Productivity](productivity/README.md) | 72 |
 | [Knowledge Management](knowledge-management/README.md) | 44 |
 | [Prompt Engineering](prompt-engineering/README.md) | 33 |
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,477 ready-made Grok Bot templates*
 | [Zapier Make Patterns](cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 355 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 356 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Security & Compliance
 
@@ -155,7 +155,7 @@ Engineers, DevOps, security and IT teams. **2,477 ready-made Grok Bot templates*
 | [Esm](../science-and-research/research/esm.md) | Designs and analyzes proteins using ESM language models for sequence, structure, and function tasks. |
 | [Lightning Architecture Review](research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 
-[All 86 Research templates →](research/README.md)
+[All 87 Research templates →](research/README.md)
 
 ## Productivity
 

@@ -4,7 +4,7 @@ slug: e-discovery-project-coordinator
 language: en
 tagline: "Assists legal assistants with e-discovery tasks from collection to reporting."
 jobs: ["legal","it-and-development","operations"]
-topics: ["data-analysis","research","knowledge-management"]
+topics: ["data-analysis","research","knowledge-management","security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/e-discovery-project-coordinator
 built_on_lessons: ["https://completeaitraining.com/lesson/20e-course-ai-for-ediscovery-management_legal-assistants/"]

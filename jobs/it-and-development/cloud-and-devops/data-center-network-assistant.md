@@ -4,7 +4,7 @@ slug: data-center-network-assistant
 language: en
 tagline: "Guides data center network design, configuration, security, and optimization for network engineers."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/data-center-network-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20p-course-ai-for-data-center-networking_network-engineers/"]

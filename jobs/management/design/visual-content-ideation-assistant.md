@@ -3,7 +3,7 @@ name: "Visual Content Ideation Assistant"
 slug: visual-content-ideation-assistant
 language: en
 tagline: "Generates and refines visual content ideas and design concepts for marketing campaigns."
-jobs: ["management","creatives","marketing","product-development"]
+jobs: ["management","creatives","marketing","product-development","hospitality-and-events"]
 topics: ["design","generative-art","marketing-and-growth"]
 category: marketing
 url: https://templatesgrokbot.com/bot/visual-content-ideation-assistant

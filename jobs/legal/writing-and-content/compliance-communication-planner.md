@@ -3,7 +3,7 @@ name: "Compliance Communication Planner"
 slug: compliance-communication-planner
 language: en
 tagline: "Plans, drafts, and evaluates all compliance communications for your organization."
-jobs: ["legal","pr-and-communications","operations","human-resources"]
+jobs: ["legal","pr-and-communications","operations","human-resources","government"]
 topics: ["writing-and-content","marketing-and-growth","teaching-and-tutoring","security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/compliance-communication-planner

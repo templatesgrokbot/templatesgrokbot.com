@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 58 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 109 Grok Bot templates, 58 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,8 @@ Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 58 of the
 | [Cal Com Automation](cal-com-automation.md) | Automate Cal.com scheduling: bookings, availability, webhooks, and teams via Composio. |
 | [Calendly Automation](calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Chieeeeefy](chieeeeefy.md) | Manages calendar and email for a field engineer, converting timezones and protecting attention. (124 chars) No hype, no emoji. Rewritten: |
+| [Claims Processing Automation Assistant](../../management/productivity/claims-processing-automation-assistant.md) | Automates claims intake, assessment, fraud checks, updates, and reporting for insurance claims managers. |
+| [Claims Processing Efficiency Assistant](../../management/productivity/claims-processing-efficiency-assistant.md) | Streamlines insurance claims processing from intake to payment with AI assistance. |
 | [Claude Win11 Speckit Update](../../it-and-development/productivity/claude-win11-speckit-update-skill.md) | Manage Windows 11 system settings and updates. |
 | [Clickup Automation](clickup-automation.md) | Automate ClickUp project management via Rube MCP — tasks, hierarchy, comments. |
 | [Coda Automation](coda-automation.md) | Automate Coda docs, tables, formulas, permissions, and publishing via MCP. |
@@ -32,6 +34,7 @@ Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 58 of the
 | [Doordash Spend Guard](doordash-spend-guard.md) | Enforces hard spending caps on DoorDash orders through a deterministic wrapper. |
 | [Dropbox Automation](dropbox-automation.md) | Automate Dropbox file management, sharing, search, uploads, downloads, and folder operations. |
 | [Emergency Card Generator](../../healthcare/productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
+| [Emergency Preparedness Assistant](../../customer-support/productivity/emergency-preparedness-assistant.md) | Prepares emergency plans, contacts, supplies, and drills for your workplace. |
 | [Event Staffing Ordering](event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
 | [Famulor](famulor-skill.md) | Operate Famulor assistants, calls, campaigns, messaging, and workspace settings through its MCP server. |
 | [File Organizer](file-organizer.md) | Analyzes, deduplicates, and restructures your files into a logical folder hierarchy. |
@@ -41,7 +44,13 @@ Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 58 of the
 | [Google Calendar Automation](../../management/productivity/google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
 | [Google Drive Automation](google-drive-automation.md) | Full read/write access to Google Drive with standalone OAuth. |
 | [Home Ops](home-ops.md) | Keeps a maintenance schedule for your house so nothing expensive fails unannounced. |
+| [Hotel Crisis Management Planner](../../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
+| [Hotel Event Planning Assistant](../../hospitality-and-events/productivity/hotel-event-planning-assistant.md) | Plans and manages hotel events from venue selection to post-event feedback. |
+| [Hotel Inventory Manager](../../hospitality-and-events/productivity/hotel-inventory-manager.md) | Manages hotel inventory from tracking to reordering, audits, and cost control. |
+| [Hotel Maintenance Schedule Coordinator](../../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
+| [Hotel Sustainability Implementation Planner](../../hospitality-and-events/productivity/hotel-sustainability-implementation-planner.md) | Turns hotel operations into a sustainability action plan with research, policies, and tracking. |
 | [Inbox Triage](../../management/productivity/inbox-triage.md) | Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe. |
+| [Inventory Tracking Assistant](../../customer-support/productivity/inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |
 | [Invoice Chaser](../../finance/productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
@@ -76,6 +85,7 @@ Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 58 of the
 | [Project Manager](../../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
 | [Project Supervisor Orchestrator](project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
 | [Protocolsio Integration](../../science-and-research/productivity/protocolsio-integration.md) | Manage scientific protocols on protocols.io via API: search, create, update, publish, and organize. No hype, no emoji, no 'leverage'/'empower'/'seamle |
+| [Purchasing Digital Transformation Assistant](../../management/productivity/purchasing-digital-transformation-assistant.md) | Guides purchasing managers through digital transformation, from supplier research to performance monitoring. |
 | [Raffle Winner Picker](../../marketing/productivity/raffle-winner-picker.md) | Picks random winners from lists, spreadsheets, or Google Sheets for giveaways and contests. |
 | [Revops](revops.md) | Design and optimize revenue operations, lead lifecycle, scoring, routing, and CRM automation. |
 | [Schedule Tasks](anthropic-schedule.md) | Run recurring tasks automatically: a briefing every morning, a weekly plan every Monday, an inbox check every hour. |
@@ -98,6 +108,7 @@ Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 58 of the
 | [Todoist Automation](todoist-automation.md) | Automate Todoist tasks, projects, sections, and filters via Rube MCP. |
 | [Trello Automation](trello-automation.md) | Automate Trello boards, cards, lists, and assignments via Rube MCP. |
 | [Vendor Watch](vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
+| [Visitor Management Assistant](../../customer-support/productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
 | [VopixSounds](../../it-and-development/productivity/vopixsounds.md) | Plays sounds when Claude needs you or finishes a task so you can work in another window. |
 | [Workflow Chain Designer](workflow-chain-designer.md) | Analyzes your conversation, checks available tools, and recommends step-by-step task chains. |
 | [Workflow Orchestrator](workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |

@@ -4,7 +4,7 @@ slug: brand-positioning-strategist
 language: en
 tagline: "Turns market data into a clear, differentiated brand position and keeps it sharp."
 jobs: ["management","marketing","executives-and-strategy","product-development"]
-topics: ["marketing-and-growth","research","data-analysis"]
+topics: ["marketing-and-growth","research","data-analysis","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/brand-positioning-strategist
 built_on_lessons: ["https://completeaitraining.com/lesson/20d-course-ai-for-brand-positioning_marketing-managers/"]

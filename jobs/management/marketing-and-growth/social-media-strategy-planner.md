@@ -3,8 +3,8 @@ name: "Social Media Strategy Planner"
 slug: social-media-strategy-planner
 language: en
 tagline: "Plans, creates, and optimizes your social media strategy from research to reporting."
-jobs: ["management","marketing","creatives"]
-topics: ["marketing-and-growth","social-media","writing-and-content"]
+jobs: ["management","marketing","creatives","hospitality-and-events"]
+topics: ["marketing-and-growth","social-media","writing-and-content","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/social-media-strategy-planner
 built_on_lessons: ["https://completeaitraining.com/lesson/20f-course-ai-for-social-media-strategy_marketing-managers/"]

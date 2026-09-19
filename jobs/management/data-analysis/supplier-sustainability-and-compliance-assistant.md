@@ -4,7 +4,7 @@ slug: supplier-sustainability-and-compliance-assistant
 language: en
 tagline: "Assesses and improves supplier sustainability and compliance with data-driven tools."
 jobs: ["management","operations","it-and-development"]
-topics: ["data-analysis","research","security-and-compliance"]
+topics: ["data-analysis","research","security-and-compliance","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/supplier-sustainability-and-compliance-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20j-course-ai-for-sustainability-and-com_supplier-relationship-managers/"]

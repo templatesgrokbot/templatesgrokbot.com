@@ -3,8 +3,8 @@ name: "Compliance Training Program Developer"
 slug: compliance-training-program-developer
 language: en
 tagline: "Builds and maintains compliance training programs for compliance analysts."
-jobs: ["legal","education","human-resources","operations"]
-topics: ["teaching-and-tutoring","research","writing-and-content"]
+jobs: ["legal","education","human-resources","operations","government"]
+topics: ["teaching-and-tutoring","research","writing-and-content","security-and-compliance"]
 category: education
 url: https://templatesgrokbot.com/bot/compliance-training-program-developer
 built_on_lessons: ["https://completeaitraining.com/lesson/20e-course-ai-for-training-program-devel_compliance-analysts/"]

@@ -1,6 +1,6 @@
 # Data Analysis templates for Real Estate and Construction
 
-Clean, query, chart and explain data. 6 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 7 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,5 +12,6 @@ Clean, query, chart and explain data. 6 Grok Bot templates, 2 of them filed in t
 | [Auction Risk Auditor](../../finance/data-analysis/auction-risk-auditor.md) | Analyzes legal, financial, and operational risks of auction properties with a score and risk-weighted ROI. |
 | [Job Profitability Analyzer](../../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Predictive Maintenance Scheduler](../../management/data-analysis/predictive-maintenance-scheduler.md) | Analyzes equipment data, predicts failures, and schedules maintenance to maximize uptime. |
+| [Procurement Risk Assessor](../../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
 
 [← All Real Estate and Construction templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/real-estate-and-construction)

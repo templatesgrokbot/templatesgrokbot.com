@@ -4,7 +4,7 @@ slug: evidence-organization-assistant
 language: en
 tagline: "Organizes, tracks, and prepares legal evidence for paralegals from collection to trial."
 jobs: ["legal","operations","it-and-development"]
-topics: ["knowledge-management","research","data-analysis"]
+topics: ["knowledge-management","research","data-analysis","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/evidence-organization-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-evidence-organization_paralegals/"]

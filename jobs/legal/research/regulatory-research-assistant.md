@@ -3,7 +3,7 @@ name: "Regulatory Research Assistant"
 slug: regulatory-research-assistant
 language: en
 tagline: "Tracks, interprets, and applies regulatory changes for compliance officers."
-jobs: ["legal","operations","government"]
+jobs: ["legal","operations","government","insurance"]
 topics: ["research","security-and-compliance","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/regulatory-research-assistant

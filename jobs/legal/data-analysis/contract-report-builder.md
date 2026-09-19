@@ -3,7 +3,7 @@ name: "Contract Report Builder"
 slug: contract-report-builder
 language: en
 tagline: "Builds and runs automated contract reports from data to distribution."
-jobs: ["legal","operations","management","finance"]
+jobs: ["legal","operations","management","finance","government"]
 topics: ["data-analysis","productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/contract-report-builder

@@ -3,8 +3,8 @@ name: "Policy Development Support"
 slug: policy-development-support
 language: en
 tagline: "Develops, reviews, and manages compliant policies with data-driven support."
-jobs: ["legal","government","operations"]
-topics: ["security-and-compliance","research","writing-and-content"]
+jobs: ["legal","government","operations","insurance"]
+topics: ["security-and-compliance","research","writing-and-content","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/policy-development-support
 built_on_lessons: ["https://completeaitraining.com/lesson/20d-course-ai-for-policy-development-sup_compliance-officers/"]

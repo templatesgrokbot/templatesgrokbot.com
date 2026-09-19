@@ -4,7 +4,7 @@ slug: supplier-innovation-program-assistant
 language: en
 tagline: "Finds, evaluates, and nurtures supplier innovation with structured programs and tracking."
 jobs: ["management","operations","product-development"]
-topics: ["research","data-analysis","productivity"]
+topics: ["research","data-analysis","productivity","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/supplier-innovation-program-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20o-course-ai-for-supplier-innovation-en_supplier-relationship-managers/"]

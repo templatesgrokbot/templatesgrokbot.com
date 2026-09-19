@@ -3,8 +3,8 @@ name: "Legal Compliance Review Assistant"
 slug: legal-compliance-review-assistant
 language: en
 tagline: "Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes."
-jobs: ["legal","operations"]
-topics: ["security-and-compliance","research"]
+jobs: ["legal","operations","government","insurance"]
+topics: ["security-and-compliance","research","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/legal-compliance-review-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20f-course-ai-for-legal-compliance-revie_paralegals/"]

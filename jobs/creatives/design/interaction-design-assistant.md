@@ -4,7 +4,7 @@ slug: interaction-design-assistant
 language: en
 tagline: "Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff."
 jobs: ["creatives","product-development"]
-topics: ["design"]
+topics: ["design","research"]
 category: creative
 url: https://templatesgrokbot.com/bot/interaction-design-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20g-course-ai-for-interaction-design_uxui-designers/"]

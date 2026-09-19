@@ -3,8 +3,8 @@ name: "Compliance Reporting Automation Assistant"
 slug: compliance-reporting-automation-assistant
 language: en
 tagline: "Automates compliance reporting from data extraction to audit prep and alerts."
-jobs: ["legal","operations","it-and-development"]
-topics: ["data-analysis","security-and-compliance","cloud-and-devops"]
+jobs: ["legal","operations","it-and-development","government"]
+topics: ["data-analysis","security-and-compliance","cloud-and-devops","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/compliance-reporting-automation-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20b-course-ai-for-compliance-reporting-a_compliance-analysts/"]

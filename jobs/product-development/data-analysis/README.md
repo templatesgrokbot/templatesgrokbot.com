@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 32 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 34 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,8 @@ Clean, query, chart and explain data. 32 Grok Bot templates, 5 of them filed in 
 | [Orca Replay](../../it-and-development/data-analysis/orca-replay.md) | Read, replay, and compare recorded agent runs to answer questions about past behavior without guessing. |
 | [Posthog Automation](../../marketing/data-analysis/posthog-automation.md) | Automate PostHog analytics, feature flags, and project management via Rube MCP. |
 | [Product Decision Agent](product-decision-agent.md) | Diagnose product problems and get actionable next decisions and actions |
+| [Product Feedback Aggregation Assistant](../../management/data-analysis/product-feedback-aggregation-assistant.md) | Turns scattered product feedback into prioritized insights and reports for senior managers. |
+| [Product Feedback Aggregator](../../management/data-analysis/product-feedback-aggregator.md) | Turns scattered customer feedback into prioritized, actionable product insights. |
 | [Product Manager Toolkit](product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
 | [Product Usage Analytics Assistant](../../customer-support/data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
 | [Production Scheduling](../../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |

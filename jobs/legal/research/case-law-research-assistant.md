@@ -5,7 +5,7 @@ language: en
 tagline: "Find, analyze, and organize case law for your legal research and memos."
 jobs: ["legal","operations"]
 topics: ["research","writing-and-content","knowledge-management"]
-category: operations
+category: research
 url: https://templatesgrokbot.com/bot/case-law-research-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20b-course-ai-for-case-law-research_paralegals/"]
 ---

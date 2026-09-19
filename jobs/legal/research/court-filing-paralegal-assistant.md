@@ -4,7 +4,7 @@ slug: court-filing-paralegal-assistant
 language: en
 tagline: "Prepares, files, and tracks court documents while keeping deadlines and rules straight."
 jobs: ["legal","operations"]
-topics: ["research","writing-and-content","knowledge-management"]
+topics: ["research","writing-and-content","knowledge-management","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/court-filing-paralegal-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20g-course-ai-for-court-filing-procedure_paralegals/"]

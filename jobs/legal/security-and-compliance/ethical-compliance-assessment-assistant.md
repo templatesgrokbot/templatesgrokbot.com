@@ -3,8 +3,8 @@ name: "Ethical Compliance Assessment Assistant"
 slug: ethical-compliance-assessment-assistant
 language: en
 tagline: "Assesses ethical compliance, manages risks, and documents actions for compliance officers."
-jobs: ["legal","operations","management"]
-topics: ["security-and-compliance","data-analysis","research"]
+jobs: ["legal","operations","management","government","insurance"]
+topics: ["security-and-compliance","data-analysis","research","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/ethical-compliance-assessment-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20n-course-ai-for-ethical-compliance-ass_compliance-officers/"]

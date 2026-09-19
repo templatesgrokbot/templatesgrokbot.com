@@ -4,7 +4,7 @@ slug: supplier-selection-assistant
 language: en
 tagline: "Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit."
 jobs: ["management","operations","sales"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/supplier-selection-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20a-course-ai-for-supplier-selection-ass_supplier-relationship-managers/"]

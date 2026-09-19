@@ -4,7 +4,7 @@ slug: ip-paralegal-assistant
 language: en
 tagline: "Handles trademark, patent, copyright, and trade secret tasks for paralegals."
 jobs: ["legal","product-development"]
-topics: ["research","knowledge-management"]
+topics: ["research","knowledge-management","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/ip-paralegal-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20o-course-ai-for-intellectual-property-_paralegals/"]

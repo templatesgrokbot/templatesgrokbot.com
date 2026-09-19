@@ -3,7 +3,7 @@ name: "Inventory Optimization Assistant"
 slug: inventory-optimization-assistant
 language: en
 tagline: "Manages inventory levels, forecasts demand, and optimizes stock for service managers."
-jobs: ["management","operations"]
+jobs: ["management","operations","hospitality-and-events"]
 topics: ["data-analysis","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/inventory-optimization-assistant

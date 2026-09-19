@@ -5,7 +5,7 @@ language: en
 tagline: "Handles legal research, drafting, review, and citation checks for paralegals."
 jobs: ["legal","operations"]
 topics: ["research","writing-and-content"]
-category: operations
+category: research
 url: https://templatesgrokbot.com/bot/legal-research-and-drafting-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20l-course-ai-for-legal-research-and-wri_paralegals/"]
 ---

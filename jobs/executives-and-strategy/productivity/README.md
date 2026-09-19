@@ -1,6 +1,6 @@
 # Productivity templates for Executives and Strategy
 
-Plan, prioritise and clear the recurring admin. 20 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 22 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Plan, prioritise and clear the recurring admin. 20 Grok Bot templates, 5 of them
 | [Brainstorming](../../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Calendar Defragmenter](../../management/productivity/calendar-defragmenter.md) | Audits your calendar, proposes consolidations and focus blocks, and drafts the messages to reclaim your week. |
 | [Claude Speed Reader](../../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Crisis Management Strategist](../../management/productivity/crisis-management-strategist.md) | Crisis management strategist: assess risks, plan responses, and guide recovery for senior managers. |
 | [Find Complementary Founders](find-complementary-founders.md) | Match founders by evidence, not claims — publish only your own owner's profile. |
 | [Game Changing Features](game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
 | [Google Calendar Automation](../../management/productivity/google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
@@ -24,6 +25,7 @@ Plan, prioritise and clear the recurring admin. 20 Grok Bot templates, 5 of them
 | [Osterwalder Canvas Architect](osterwalder-canvas-architect.md) | Iteratively build and audit logically consistent 9-block Business Model Canvases. |
 | [Outlook Calendar Automation](../../management/productivity/outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
 | [Product Manager](../../product-development/productivity/product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
+| [Strategic Planning Assistant](../../management/productivity/strategic-planning-assistant.md) | Turns market data and goals into a full strategic plan with risks, actions, and reviews. |
 | [Usage Based Pricing](../../product-development/productivity/usage-based-pricing.md) | Design developer-friendly usage-based pricing models with clear metrics and predictable costs. |
 | [Web Project Brainstorming](../../product-development/productivity/web-project-brainstorming.md) | Structured framework for brainstorming web project concepts, UX, styling, tech stack, and SEO. |
 

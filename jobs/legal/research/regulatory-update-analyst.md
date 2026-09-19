@@ -3,8 +3,8 @@ name: "Regulatory Update Analyst"
 slug: regulatory-update-analyst
 language: en
 tagline: "Tracks regulatory changes, assesses impacts, and prepares compliance reports and training."
-jobs: ["legal","operations","management"]
-topics: ["research","security-and-compliance","knowledge-management"]
+jobs: ["legal","operations","management","government","insurance"]
+topics: ["research","security-and-compliance","knowledge-management","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/regulatory-update-analyst
 built_on_lessons: ["https://completeaitraining.com/lesson/20a-course-ai-for-regulatory-update-anal_compliance-analysts/"]

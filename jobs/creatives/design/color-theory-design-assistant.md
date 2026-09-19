@@ -4,7 +4,7 @@ slug: color-theory-design-assistant
 language: en
 tagline: "Guides UX/UI designers through color theory, palettes, and accessibility."
 jobs: ["creatives","product-development"]
-topics: ["design","generative-art"]
+topics: ["design","generative-art","teaching-and-tutoring"]
 category: creative
 url: https://templatesgrokbot.com/bot/color-theory-design-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20e-course-ai-for-color-theory-and-appli_uxui-designers/"]

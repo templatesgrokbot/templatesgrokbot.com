@@ -3,8 +3,8 @@ name: "Risk Assessment Workflow Assistant"
 slug: risk-assessment-workflow-assistant
 language: en
 tagline: "Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring."
-jobs: ["legal","operations"]
-topics: ["data-analysis","research","security-and-compliance"]
+jobs: ["legal","operations","government","finance","insurance"]
+topics: ["data-analysis","research","security-and-compliance","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/risk-assessment-workflow-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-risk-assessment_compliance-analysts/"]

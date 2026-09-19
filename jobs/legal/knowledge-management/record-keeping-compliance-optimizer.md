@@ -3,8 +3,8 @@ name: "Record-Keeping Compliance Optimizer"
 slug: record-keeping-compliance-optimizer
 language: en
 tagline: "Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility."
-jobs: ["legal","operations","it-and-development"]
-topics: ["knowledge-management","data-analysis","security-and-compliance"]
+jobs: ["legal","operations","it-and-development","government","insurance"]
+topics: ["knowledge-management","data-analysis","security-and-compliance","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/record-keeping-compliance-optimizer
 built_on_lessons: ["https://completeaitraining.com/lesson/20p-course-ai-for-recordkeeping-optimiza_compliance-analysts/"]

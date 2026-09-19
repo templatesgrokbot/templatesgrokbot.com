@@ -3,7 +3,7 @@ name: "Sentiment Insight Compiler"
 slug: sentiment-insight-compiler
 language: en
 tagline: "Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities."
-jobs: ["customer-support","marketing","operations"]
+jobs: ["customer-support","marketing","operations","hospitality-and-events","pr-and-communications"]
 topics: ["data-analysis","research","marketing-and-growth"]
 category: operations
 url: https://templatesgrokbot.com/bot/sentiment-insight-compiler

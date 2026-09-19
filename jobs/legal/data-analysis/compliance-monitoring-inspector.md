@@ -3,8 +3,8 @@ name: "Compliance Monitoring Inspector"
 slug: compliance-monitoring-inspector
 language: en
 tagline: "Monitor, assess, and report on compliance activities with precision and clarity."
-jobs: ["legal","operations","management"]
-topics: ["data-analysis","research","security-and-compliance"]
+jobs: ["legal","operations","management","government","insurance"]
+topics: ["data-analysis","research","security-and-compliance","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/compliance-monitoring-inspector
 built_on_lessons: ["https://completeaitraining.com/lesson/20b-course-ai-for-compliance-monitoring_compliance-officers/"]

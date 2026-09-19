@@ -4,7 +4,7 @@ slug: design-concept-development-assistant
 language: en
 tagline: "Turns UX/UI design tasks into guided, documented workflows from research to presentation."
 jobs: ["creatives","product-development","it-and-development"]
-topics: ["design","research","productivity"]
+topics: ["design","research","productivity","teaching-and-tutoring"]
 category: creative
 url: https://templatesgrokbot.com/bot/design-concept-development-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20b-course-ai-for-design-concept-develop_uxui-designers/"]

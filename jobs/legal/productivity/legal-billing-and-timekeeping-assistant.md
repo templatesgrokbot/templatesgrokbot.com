@@ -5,7 +5,7 @@ language: en
 tagline: "Tracks billable time, expenses, and invoices for paralegals."
 jobs: ["legal","operations","finance"]
 topics: ["productivity","office-tools","data-analysis"]
-category: operations
+category: finance
 url: https://templatesgrokbot.com/bot/legal-billing-and-timekeeping-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20j-course-ai-for-legal-billing-and-time_paralegals/"]
 ---

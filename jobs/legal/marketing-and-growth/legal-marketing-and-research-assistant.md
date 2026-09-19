@@ -4,7 +4,7 @@ slug: legal-marketing-and-research-assistant
 language: en
 tagline: "Legal marketing and research assistant for legal assistants."
 jobs: ["legal","marketing"]
-topics: ["marketing-and-growth","writing-and-content","social-media"]
+topics: ["marketing-and-growth","writing-and-content","social-media","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/legal-marketing-and-research-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-legal-marketing-and-re_legal-assistants/"]

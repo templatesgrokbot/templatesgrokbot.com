@@ -5,7 +5,7 @@ language: en
 tagline: "Tracks market trends and supplier performance for Supplier Relationship Managers."
 jobs: ["management","operations","sales"]
 topics: ["data-analysis","research"]
-category: operations
+category: research
 url: https://templatesgrokbot.com/bot/supplier-market-trend-tracker
 built_on_lessons: ["https://completeaitraining.com/lesson/20f-course-ai-for-market-trend-analysis_supplier-relationship-managers/"]
 ---

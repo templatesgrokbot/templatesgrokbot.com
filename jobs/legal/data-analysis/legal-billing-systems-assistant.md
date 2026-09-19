@@ -5,7 +5,7 @@ language: en
 tagline: "Builds and refines legal billing and accounting systems for law firm operations."
 jobs: ["legal","finance","operations"]
 topics: ["data-analysis","productivity","cloud-and-devops"]
-category: operations
+category: finance
 url: https://templatesgrokbot.com/bot/legal-billing-systems-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20a-course-ai-for-legal-research_legal-assistants/"]
 ---

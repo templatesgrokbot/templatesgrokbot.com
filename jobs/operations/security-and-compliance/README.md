@@ -1,6 +1,6 @@
 # Security & Compliance templates for Operations
 
-Authorised security testing, audits and regulatory work. 39 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 43 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Authorised security testing, audits and regulatory work. 39 Grok Bot templates, 
 |---|---|
 | [Akf Trust Metadata](../../it-and-development/security-and-compliance/akf-trust-metadata.md) | Stamp, inspect, and audit AI file provenance and trust metadata for compliance. |
 | [Aws Compliance Checker](../../it-and-development/security-and-compliance/aws-compliance-checker.md) | Automated compliance checks against CIS, PCI-DSS, HIPAA, and SOC 2 for AWS. |
+| [Business Unit Risk Manager](../../management/security-and-compliance/business-unit-risk-manager.md) | Risk management assistant for business unit managers covering identification, assessment, mitigation, monitoring, and reporting. |
 | [Check Identity Pack](check-identity-pack.md) | Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing. |
 | [Compliance Audit Preparation Assistant](../../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
 | [Compliance Monitoring Assistant](../../legal/security-and-compliance/compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
@@ -17,6 +18,7 @@ Authorised security testing, audits and regulatory work. 39 Grok Bot templates, 
 | [Data Privacy Compliance](../../legal/security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
 | [Digital Forensics](../../it-and-development/security-and-compliance/digital-forensics.md) | Authorized digital forensics: memory, disk, PCAP, and artifact triage for incident response. |
 | [Environmental Compliance Assistant](../../legal/security-and-compliance/environmental-compliance-assistant.md) | Supports environmental compliance officers with research, documentation, audits, and reporting. |
+| [Environmental Impact Assessment Assistant](../../management/security-and-compliance/environmental-impact-assessment-assistant.md) | Environmental impact assessments and compliance for plant managers, from data to reports. |
 | [Ethical Compliance Assessment Assistant](../../legal/security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
 | [Ethical Compliance Monitor](../../legal/security-and-compliance/ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
 | [Event Staffing Compliance](../../human-resources/security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
@@ -30,11 +32,13 @@ Authorised security testing, audits and regulatory work. 39 Grok Bot templates, 
 | [Pci Compliance](../../finance/security-and-compliance/pci-compliance.md) | Guide PCI DSS compliance for secure payment processing and cardholder data handling. |
 | [Policy Development Support](../../legal/security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
 | [Powershell Security Hardening](../../it-and-development/security-and-compliance/powershell-security-hardening.md) | Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie |
+| [Product Quality Assurance Assistant](../../management/security-and-compliance/product-quality-assurance-assistant.md) | Guides quality assurance for purchasing managers: supplier checks, testing, audits, and improvements. |
 | [Production Audit](../../it-and-development/security-and-compliance/production-audit.md) | Audits deployed repos for production-readiness gaps across security, infra, and UX. |
 | [Protected Disclosure Compass](../../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Quality Manager Qmr](quality-manager-qmr.md) | Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies. |
 | [Quality Manager Qms Iso13485](quality-manager-qms-iso13485.md) | Helps you implement and maintain an ISO 13485 QMS for medical devices. |
 | [Quality Nonconformance](quality-nonconformance.md) | Manage non-conformance lifecycle, root cause analysis, and CAPA in regulated manufacturing. |
+| [Reception Confidentiality Assistant](../../customer-support/security-and-compliance/reception-confidentiality-assistant.md) | Helps receptionists protect confidential information across calls, visitors, documents, and emails. |
 | [Regulatory Affairs Head](regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
 | [Security Compliance Compliance Check](../../it-and-development/security-and-compliance/security-compliance-compliance-check.md) | Audits software systems against GDPR, HIPAA, SOC2, PCI-DSS and guides remediation. |
 | [Senior Secops](../../it-and-development/security-and-compliance/senior-secops.md) | Scans code, assesses vulnerabilities, and checks compliance for your projects. |

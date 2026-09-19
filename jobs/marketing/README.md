@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **446 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **476 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,18 +11,18 @@ Campaigns, SEO, content and growth. **446 ready-made Grok Bot templates** for th
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 142 |
-| [Data Analysis](data-analysis/README.md) | 61 |
-| [Research](research/README.md) | 59 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 153 |
+| [Data Analysis](data-analysis/README.md) | 74 |
+| [Research](research/README.md) | 62 |
 | [Writing & Content](writing-and-content/README.md) | 43 |
 | [Social Media](social-media/README.md) | 25 |
+| [Design](design/README.md) | 22 |
 | [Generative Art](generative-art/README.md) | 21 |
-| [Design](design/README.md) | 20 |
 | [Coding](coding/README.md) | 13 |
 | [Productivity](productivity/README.md) | 11 |
 | [Generative Code](generative-code/README.md) | 10 |
 | [Generative Video](generative-video/README.md) | 9 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 8 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 9 |
 | [Office Tools](office-tools/README.md) | 5 |
 | [Video Editing](video-editing/README.md) | 4 |
 | [Text-To-Speech](text-to-speech/README.md) | 3 |
@@ -48,7 +48,7 @@ Campaigns, SEO, content and growth. **446 ready-made Grok Bot templates** for th
 | [Seo Fundamentals](marketing-and-growth/seo-fundamentals.md) | Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles. |
 | [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 
-[All 142 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 153 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Data Analysis
 
@@ -63,7 +63,7 @@ Campaigns, SEO, content and growth. **446 ready-made Grok Bot templates** for th
 | [Analytics Product](data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
 | [Google Ads Performance Analyzer](data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 
-[All 61 Data Analysis templates →](data-analysis/README.md)
+[All 74 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
@@ -78,7 +78,7 @@ Campaigns, SEO, content and growth. **446 ready-made Grok Bot templates** for th
 | [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Search Specialist](../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
 
-[All 59 Research templates →](research/README.md)
+[All 62 Research templates →](research/README.md)
 
 ## Writing & Content
 
@@ -110,6 +110,21 @@ Campaigns, SEO, content and growth. **446 ready-made Grok Bot templates** for th
 
 [All 25 Social Media templates →](social-media/README.md)
 
+## Design
+
+| Template | What it does |
+|---|---|
+| [Brandkit](../creatives/design/brandkit.md) | Builds a complete brand board with logo concepts, color palette, typography, and mockups from a short briefing. |
+| [Visual Emotion Engineer](../creatives/design/visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
+| [Creative Portfolio Resume](../creatives/design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
+| [Visual Content Ideation Assistant](../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
+| [Brand Guidelines Anthropic](../creatives/design/brand-guidelines-anthropic.md) | Applies Anthropic brand colors and typography to existing artifacts. |
+| [Theme Factory](../creatives/design/theme-factory.md) | Generate or apply curated slide-deck themes with color scales, fonts, and WCAG AA contrast. |
+| [Vaporwave](../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
+| [Social Carousel Designer](../creatives/design/social-carousel-designer.md) | Turns a headline into a three-card social carousel with brand mark and numbering. |
+
+[All 22 Design templates →](design/README.md)
+
 ## Generative Art
 
 | Template | What it does |
@@ -124,21 +139,6 @@ Campaigns, SEO, content and growth. **446 ready-made Grok Bot templates** for th
 | [Muapi Media](../creatives/generative-art/muapi-media.md) | Generate images and videos via MuAPI's async API with key protection, polling, and safe downloads. |
 
 [All 21 Generative Art templates →](generative-art/README.md)
-
-## Design
-
-| Template | What it does |
-|---|---|
-| [Brandkit](../creatives/design/brandkit.md) | Builds a complete brand board with logo concepts, color palette, typography, and mockups from a short briefing. |
-| [Visual Emotion Engineer](../creatives/design/visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
-| [Creative Portfolio Resume](../creatives/design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
-| [Visual Content Ideation Assistant](../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
-| [Brand Guidelines Anthropic](../creatives/design/brand-guidelines-anthropic.md) | Applies Anthropic brand colors and typography to existing artifacts. |
-| [Theme Factory](../creatives/design/theme-factory.md) | Generate or apply curated slide-deck themes with color scales, fonts, and WCAG AA contrast. |
-| [Vaporwave](../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
-| [Social Carousel Designer](../creatives/design/social-carousel-designer.md) | Turns a headline into a three-card social carousel with brand mark and numbering. |
-
-[All 20 Design templates →](design/README.md)
 
 ## Coding
 
@@ -204,6 +204,7 @@ Campaigns, SEO, content and growth. **446 ready-made Grok Bot templates** for th
 
 | Template | What it does |
 |---|---|
+| [Brand Collaboration Opportunity Finder](../management/sales-and-negotiation/brand-collaboration-opportunity-finder.md) | Finds, evaluates, and manages brand collaboration opportunities for brand managers. |
 | [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
 | [John Wick](../sales/sales-and-negotiation/john-wick.md) | Finds the right decision-maker at a target company and gets you into their conversation. |
 | [Outbound Sales](../sales/sales-and-negotiation/outbound-sales.md) | Owns the full outbound prospecting pipeline so AEs can focus on closing. |
@@ -211,7 +212,8 @@ Campaigns, SEO, content and growth. **446 ready-made Grok Bot templates** for th
 | [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
 | [Cold Outreach](../sales/sales-and-negotiation/cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
 | [Prospect Panel Simulator](../sales/sales-and-negotiation/prospect-panel-simulator.md) | Simulate a panel of your real prospects to pressure-test sales and marketing artifacts before they go out. |
-| [Hubspot Automation](../sales/sales-and-negotiation/hubspot-automation.md) | Automate HubSpot CRM operations via Rube MCP and Composio integration. |
+
+[All 9 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Office Tools
 

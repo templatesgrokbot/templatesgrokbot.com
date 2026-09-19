@@ -4,7 +4,7 @@ slug: influencer-collaboration-manager
 language: en
 tagline: "Manages influencer collaborations from discovery to reporting, with approval gates for all external actions."
 jobs: ["management","marketing","pr-and-communications","sales"]
-topics: ["marketing-and-growth","social-media","research"]
+topics: ["marketing-and-growth","social-media","research","data-analysis"]
 category: marketing
 url: https://templatesgrokbot.com/bot/influencer-collaboration-manager
 built_on_lessons: ["https://completeaitraining.com/lesson/20n-course-ai-for-influencer-collaborati_marketing-managers/"]

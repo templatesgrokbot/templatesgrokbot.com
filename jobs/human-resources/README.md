@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **59 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **65 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,11 +12,11 @@ Recruiting, onboarding and people operations. **59 ready-made Grok Bot templates
 | Kind of work | Templates |
 |---|---:|
 | [Writing & Content](writing-and-content/README.md) | 20 |
-| [Data Analysis](data-analysis/README.md) | 9 |
+| [Data Analysis](data-analysis/README.md) | 11 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 7 |
 | [Productivity](productivity/README.md) | 6 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
-| [Research](research/README.md) | 4 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
+| [Research](research/README.md) | 5 |
 | [Security & Compliance](security-and-compliance/README.md) | 3 |
 | [Knowledge Management](knowledge-management/README.md) | 2 |
 | [Office Tools](office-tools/README.md) | 2 |
@@ -54,13 +54,27 @@ Recruiting, onboarding and people operations. **59 ready-made Grok Bot templates
 |---|---|
 | [Ai Dev Jobs Mcp](../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Ditto](../it-and-development/data-analysis/ditto.md) | Mine private work profiles from local coding-agent session logs. |
+| [Employee Performance Analytics Assistant](../management/data-analysis/employee-performance-analytics-assistant.md) | Turns employee performance data into analytics, reviews, dashboards, and improvement plans. |
 | [Hiring Screener](data-analysis/hiring-screener.md) | Screens resumes against a job description and returns a ranked, evidence-backed shortlist. |
 | [Job Description Analyzer](data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
 | [Meeting Insights Analyzer](../management/data-analysis/meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
 | [Occupational Health Analyzer](../healthcare/data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |
 | [Offer Comparison Analyzer](data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
+| [Performance Metrics Manager](../management/data-analysis/performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Resume Ats Optimizer](data-analysis/resume-ats-optimizer.md) | Analyzes resumes for ATS compatibility and optimizes keyword match against job descriptions. |
 | [Team Composition Analysis](data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
+| [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
+| [Customer Service Training Builder](../management/teaching-and-tutoring/customer-service-training-builder.md) | Builds and maintains customer service training modules from planning to feedback. |
+| [Interview Prep](../education/teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
+| [Legal Education and Training Assistant](../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
+| [Staff Training Planner](../management/teaching-and-tutoring/staff-training-planner.md) | Plans and runs staff training for insurance agency managers, from needs assessment to effectiveness evaluation. |
+| [Training Program Designer](../management/teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
 
 ## Productivity
 
@@ -90,17 +104,9 @@ Recruiting, onboarding and people operations. **59 ready-made Grok Bot templates
 |---|---|
 | [AI Courses Bot](../education/research/ai-courses-bot.md) | Curates and recommends AI courses based on your learning goals. |
 | [generation questions](research/generation-questions.md) | Generates interview questions from a job description and candidate profile. |
+| [HR Talent Management Advisor](../management/research/hr-talent-management-advisor.md) | HR and talent management advisor for consultants: retention, performance, succession, diversity, hiring, engagement, training, compensation,… |
 | [People Data](../sales/research/people-data.md) | Research LinkedIn profiles and public business contacts via MCP. |
 | [Salary Negotiation Prep](research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
-
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
-| [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
-| [Interview Prep](../education/teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
-| [Legal Education and Training Assistant](../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
 
 ## Security & Compliance
 

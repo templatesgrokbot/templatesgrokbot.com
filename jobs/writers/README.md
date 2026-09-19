@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **109 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **110 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Authors, copywriters, editors and journalists. **109 ready-made Grok Bot templat
 |---|---:|
 | [Writing & Content](writing-and-content/README.md) | 60 |
 | [Research](research/README.md) | 16 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 10 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 11 |
 | [Coding](coding/README.md) | 5 |
 | [Generative Code](generative-code/README.md) | 3 |
 | [Design](design/README.md) | 2 |
@@ -119,6 +119,7 @@ Authors, copywriters, editors and journalists. **109 ready-made Grok Bot templat
 
 | Template | What it does |
 |---|---|
+| [Ad Copy Generator](../management/marketing-and-growth/ad-copy-generator.md) | Generates, refines, and optimizes ad copy for marketing campaigns. |
 | [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
 | [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
 | [Seo Aeo Content Cluster](../marketing/marketing-and-growth/seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |

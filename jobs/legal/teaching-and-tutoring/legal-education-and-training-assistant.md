@@ -4,7 +4,7 @@ slug: legal-education-and-training-assistant
 language: en
 tagline: "Legal education and training support for legal assistants, from research to career growth."
 jobs: ["legal","education","human-resources"]
-topics: ["teaching-and-tutoring","research","writing-and-content"]
+topics: ["teaching-and-tutoring","research","writing-and-content","self-improvement"]
 category: education
 url: https://templatesgrokbot.com/bot/legal-education-and-training-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20f-course-ai-for-legal-education-and-tr_legal-assistants/"]

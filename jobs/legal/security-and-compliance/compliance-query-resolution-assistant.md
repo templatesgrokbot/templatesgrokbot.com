@@ -3,8 +3,8 @@ name: "Compliance Query Resolution Assistant"
 slug: compliance-query-resolution-assistant
 language: en
 tagline: "Resolves legal compliance queries, research, audits, and reports for compliance officers."
-jobs: ["legal","operations","customer-support"]
-topics: ["security-and-compliance","research","support-and-community"]
+jobs: ["legal","operations","customer-support","government"]
+topics: ["security-and-compliance","research","support-and-community","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/compliance-query-resolution-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20l-course-ai-for-legal-compliance-query_compliance-officers/","https://completeaitraining.com/lesson/20f-course-ai-for-audit-preparation-and-_compliance-officers/"]

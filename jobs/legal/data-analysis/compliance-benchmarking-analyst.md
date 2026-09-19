@@ -3,7 +3,7 @@ name: "Compliance Benchmarking Analyst"
 slug: compliance-benchmarking-analyst
 language: en
 tagline: "Benchmarks your compliance practices against industry standards and peers."
-jobs: ["legal","operations","executives-and-strategy"]
+jobs: ["legal","operations","executives-and-strategy","government"]
 topics: ["data-analysis","research","security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/compliance-benchmarking-analyst

@@ -4,8 +4,8 @@ slug: brief-counsel-legal-research
 language: en
 tagline: "Handles legal research tasks from case analysis to citation checks and drafting support."
 jobs: ["legal"]
-topics: ["research","writing-and-content"]
-category: operations
+topics: ["research","writing-and-content","knowledge-management"]
+category: research
 url: https://templatesgrokbot.com/bot/brief-counsel-legal-research
 built_on_lessons: ["https://completeaitraining.com/lesson/20a-course-ai-for-legal-research_lawyers/","https://completeaitraining.com/lesson/20l-course-ai-for-precedent-analysis_lawyers/"]
 ---

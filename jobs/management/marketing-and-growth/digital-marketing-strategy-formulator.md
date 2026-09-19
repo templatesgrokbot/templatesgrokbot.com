@@ -4,7 +4,7 @@ slug: digital-marketing-strategy-formulator
 language: en
 tagline: "Formulates data-driven digital marketing strategies from market research to performance reporting."
 jobs: ["management","marketing","operations","executives-and-strategy"]
-topics: ["marketing-and-growth","data-analysis","research"]
+topics: ["marketing-and-growth","data-analysis","research","social-media"]
 category: marketing
 url: https://templatesgrokbot.com/bot/digital-marketing-strategy-formulator
 built_on_lessons: ["https://completeaitraining.com/lesson/20o-course-ai-for-digital-marketing-stra_market-research-managers/"]

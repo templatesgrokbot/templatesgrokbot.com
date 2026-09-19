@@ -4,7 +4,7 @@ slug: advanced-routing-protocol-assistant
 language: en
 tagline: "Guides network engineers through advanced routing protocol configuration, troubleshooting, and optimization."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/advanced-routing-protocol-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20n-course-ai-for-advanced-routing-proto_network-engineers/"]

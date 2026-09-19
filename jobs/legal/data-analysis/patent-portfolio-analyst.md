@@ -5,7 +5,7 @@ language: en
 tagline: "Analyzes patent portfolios for value, risk, and strategic opportunities."
 jobs: ["legal","it-and-development","executives-and-strategy"]
 topics: ["data-analysis","research","knowledge-management"]
-category: operations
+category: research
 url: https://templatesgrokbot.com/bot/patent-portfolio-analyst
 built_on_lessons: ["https://completeaitraining.com/lesson/20j-course-ai-for-patent-portfolio-analy_patent-agents/"]
 ---

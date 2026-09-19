@@ -3,7 +3,7 @@ name: "Service Quality Enhancement Assistant"
 slug: service-quality-enhancement-assistant
 language: en
 tagline: "Analyzes feedback, monitors performance, and drives service quality improvements for service managers."
-jobs: ["management","operations","customer-support"]
+jobs: ["management","operations","customer-support","hospitality-and-events"]
 topics: ["data-analysis","research","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/service-quality-enhancement-assistant

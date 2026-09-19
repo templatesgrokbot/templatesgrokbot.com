@@ -4,7 +4,7 @@ slug: compliance-specialist
 language: en
 tagline: "Assesses compliance gaps and prepares audit evidence for regulatory frameworks."
 jobs: ["legal","operations","government"]
-topics: ["security-and-compliance","research"]
+topics: ["security-and-compliance","research","knowledge-management","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/compliance-specialist
 adapted_from: https://www.aitmpl.com/component/agents/security/compliance-specialist

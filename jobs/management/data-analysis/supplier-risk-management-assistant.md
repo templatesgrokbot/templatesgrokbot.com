@@ -3,8 +3,8 @@ name: "Supplier Risk Management Assistant"
 slug: supplier-risk-management-assistant
 language: en
 tagline: "Assesses supplier risks, analyzes contracts, and builds mitigation plans for supplier relationship managers."
-jobs: ["management","operations"]
-topics: ["data-analysis","research"]
+jobs: ["management","operations","legal"]
+topics: ["data-analysis","research","security-and-compliance","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/supplier-risk-management-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20d-course-ai-for-risk-management_supplier-relationship-managers/"]

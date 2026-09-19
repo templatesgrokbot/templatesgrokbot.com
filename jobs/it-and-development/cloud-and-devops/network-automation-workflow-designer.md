@@ -4,7 +4,7 @@ slug: network-automation-workflow-designer
 language: en
 tagline: "Automates network monitoring, provisioning, security, troubleshooting, documentation, optimization, change, capacity, reporting, and compliance tasks."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","generative-code","security-and-compliance"]
+topics: ["cloud-and-devops","generative-code","security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/network-automation-workflow-designer
 built_on_lessons: ["https://completeaitraining.com/lesson/20l-course-ai-for-network-automation-str_network-engineers/"]

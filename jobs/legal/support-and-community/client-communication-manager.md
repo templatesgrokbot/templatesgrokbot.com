@@ -4,7 +4,7 @@ slug: client-communication-manager
 language: en
 tagline: "Manages client communication for paralegals from intake to follow-up."
 jobs: ["legal","customer-support"]
-topics: ["support-and-community","productivity"]
+topics: ["support-and-community","productivity","knowledge-management","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/client-communication-manager
 built_on_lessons: ["https://completeaitraining.com/lesson/20e-course-ai-for-client-communication-m_paralegals/"]

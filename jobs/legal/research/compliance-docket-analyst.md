@@ -3,8 +3,8 @@ name: "Compliance Docket Analyst"
 slug: compliance-docket-analyst
 language: en
 tagline: "Regulatory filing assistant for compliance analysts: research, draft, validate, track, and submit compliant documents."
-jobs: ["legal","operations"]
-topics: ["research","data-analysis","security-and-compliance"]
+jobs: ["legal","operations","government"]
+topics: ["research","data-analysis","security-and-compliance","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/compliance-docket-analyst
 built_on_lessons: ["https://completeaitraining.com/lesson/20i-course-ai-for-regulatory-filing-assi_compliance-analysts/"]

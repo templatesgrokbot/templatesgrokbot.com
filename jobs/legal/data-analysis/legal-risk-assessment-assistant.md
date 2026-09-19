@@ -4,7 +4,7 @@ slug: legal-risk-assessment-assistant
 language: en
 tagline: "Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers."
 jobs: ["legal","executives-and-strategy","operations"]
-topics: ["data-analysis","research","writing-and-content"]
+topics: ["data-analysis","research","writing-and-content","security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/legal-risk-assessment-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20m-course-ai-for-risk-assessment_lawyers/"]

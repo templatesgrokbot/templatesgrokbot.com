@@ -4,7 +4,7 @@ slug: policy-renewal-and-updates-assistant
 language: en
 tagline: "Handles policy renewals, updates, and customer inquiries for insurance service reps."
 jobs: ["customer-support","insurance"]
-topics: ["support-and-community","productivity","office-tools"]
+topics: ["support-and-community","productivity","office-tools","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/policy-renewal-and-updates-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20e-course-ai-for-renewal-and-updates_insurance-customer-service-representatives/"]

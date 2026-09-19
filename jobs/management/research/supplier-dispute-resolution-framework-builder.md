@@ -4,7 +4,7 @@ slug: supplier-dispute-resolution-framework-builder
 language: en
 tagline: "Builds and maintains a structured supplier dispute resolution framework from process design to training and feedback."
 jobs: ["management","operations"]
-topics: ["research","productivity"]
+topics: ["research","productivity","writing-and-content","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/supplier-dispute-resolution-framework-builder
 built_on_lessons: ["https://completeaitraining.com/lesson/20i-course-ai-for-dispute-resolution-fra_supplier-relationship-managers/"]

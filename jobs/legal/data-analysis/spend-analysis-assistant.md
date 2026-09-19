@@ -3,7 +3,7 @@ name: "Spend Analysis Assistant"
 slug: spend-analysis-assistant
 language: en
 tagline: "Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions."
-jobs: ["legal","finance","operations","management"]
+jobs: ["legal","finance","operations","management","government"]
 topics: ["data-analysis","research","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/spend-analysis-assistant

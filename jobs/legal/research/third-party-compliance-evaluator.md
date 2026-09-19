@@ -3,8 +3,8 @@ name: "Third-Party Compliance Evaluator"
 slug: third-party-compliance-evaluator
 language: en
 tagline: "Evaluates third-party compliance end-to-end, from documentation to audits."
-jobs: ["legal","operations","finance"]
-topics: ["research","data-analysis","security-and-compliance"]
+jobs: ["legal","operations","finance","government"]
+topics: ["research","data-analysis","security-and-compliance","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/third-party-compliance-evaluator
 built_on_lessons: ["https://completeaitraining.com/lesson/20l-course-ai-for-thirdparty-compliance-_compliance-analysts/"]

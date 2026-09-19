@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Management
 
-Infrastructure, deployments, monitoring and incident response. 14 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 15 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Infrastructure, deployments, monitoring and incident response. 14 Grok Bot templ
 | [Cto Advisor](../../it-and-development/cloud-and-devops/cto-advisor.md) | Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy. |
 | [Error Diagnostics Error Trace](../../it-and-development/cloud-and-devops/error-diagnostics-error-trace.md) | Implement error tracking, structured logging, and intelligent alerting for production systems. |
 | [Gh Review Requests](../../it-and-development/cloud-and-devops/gh-review-requests.md) | Fetch unread GitHub review requests for a specified team. |
+| [Incident Response Coordinator](incident-response-coordinator.md) | Coordinates incident response: triage, communication, documentation, analysis, and continuous improvement for service managers. |
 | [Incident Response Incident Response](../../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [It Manager Hospital](../../healthcare/cloud-and-devops/it-manager-hospital.md) | Advises hospital IT managers on clinical safety, digital maturity, and HIS/PEP integration. |
 | [It Manager Pro](it-manager-pro.md) | Strategic IT leadership advisor bridging data, finance, and human-centric management. |

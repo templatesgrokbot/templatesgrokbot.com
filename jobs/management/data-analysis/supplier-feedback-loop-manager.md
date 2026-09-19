@@ -4,7 +4,7 @@ slug: supplier-feedback-loop-manager
 language: en
 tagline: "Collects, analyzes, and acts on supplier feedback to improve relationships and performance."
 jobs: ["management","operations"]
-topics: ["data-analysis","research","productivity"]
+topics: ["data-analysis","research","productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/supplier-feedback-loop-manager
 built_on_lessons: ["https://completeaitraining.com/lesson/20l-course-ai-for-feedback-and-improveme_supplier-relationship-managers/"]

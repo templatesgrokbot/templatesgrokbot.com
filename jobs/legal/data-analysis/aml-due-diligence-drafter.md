@@ -3,8 +3,8 @@ name: "AML Due Diligence Drafter"
 slug: aml-due-diligence-drafter
 language: en
 tagline: "Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep."
-jobs: ["legal","finance","operations"]
-topics: ["data-analysis","research","security-and-compliance"]
+jobs: ["legal","finance","operations","government"]
+topics: ["data-analysis","research","security-and-compliance","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/aml-due-diligence-drafter
 built_on_lessons: ["https://completeaitraining.com/lesson/20g-course-ai-for-antimoney-laundering-c_compliance-analysts/"]

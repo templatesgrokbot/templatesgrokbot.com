@@ -4,7 +4,7 @@ slug: emergency-response-coordinator
 language: en
 tagline: "Coordinates emergency response support for insurance policyholders from first contact to claim resolution."
 jobs: ["customer-support","insurance","operations"]
-topics: ["support-and-community","research","writing-and-content"]
+topics: ["support-and-community","research","writing-and-content","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/emergency-response-coordinator
 built_on_lessons: ["https://completeaitraining.com/lesson/20l-course-ai-for-emergency-response-coo_insurance-customer-service-representatives/"]

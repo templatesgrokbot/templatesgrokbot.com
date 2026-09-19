@@ -4,7 +4,7 @@ slug: legal-document-drafting-assistant
 language: en
 tagline: "Drafts, reviews, and manages legal documents for paralegals."
 jobs: ["legal","operations"]
-topics: ["writing-and-content","research","knowledge-management"]
+topics: ["writing-and-content","research","knowledge-management","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/legal-document-drafting-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20a-course-ai-for-legal-document-draftin_paralegals/"]

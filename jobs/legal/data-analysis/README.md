@@ -1,6 +1,6 @@
 # Data Analysis templates for Legal
 
-Clean, query, chart and explain data. 19 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 20 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Clean, query, chart and explain data. 19 Grok Bot templates, 17 of them filed in
 | [Patent Valuation Analyst](patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Risk Assessment Workflow Assistant](risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |
 | [Spend Analysis Assistant](spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
+| [Supplier Risk Management Assistant](../../management/data-analysis/supplier-risk-management-assistant.md) | Assesses supplier risks, analyzes contracts, and builds mitigation plans for supplier relationship managers. |
 | [Vendor Performance Analyst](vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
 [← All Legal templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/legal)

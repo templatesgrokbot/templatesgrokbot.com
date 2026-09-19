@@ -4,7 +4,7 @@ slug: network-security-protocol-advisor
 language: en
 tagline: "Explains, configures, and troubleshoots network security protocols for engineers."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","cloud-and-devops"]
+topics: ["security-and-compliance","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/network-security-protocol-advisor
 built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-network-security-proto_network-engineers/"]

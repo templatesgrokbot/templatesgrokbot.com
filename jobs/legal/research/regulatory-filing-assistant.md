@@ -4,7 +4,7 @@ slug: regulatory-filing-assistant
 language: en
 tagline: "Prepares, checks, and tracks regulatory filings for paralegals."
 jobs: ["legal","operations"]
-topics: ["research","writing-and-content","knowledge-management"]
+topics: ["research","writing-and-content","knowledge-management","security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/regulatory-filing-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20n-course-ai-for-regulatory-filing-assi_paralegals/"]

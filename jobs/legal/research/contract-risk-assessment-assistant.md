@@ -3,8 +3,8 @@ name: "Contract Risk Assessment Assistant"
 slug: contract-risk-assessment-assistant
 language: en
 tagline: "Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates."
-jobs: ["legal","operations","management"]
-topics: ["research","knowledge-management","security-and-compliance"]
+jobs: ["legal","operations","management","real-estate-and-construction","government"]
+topics: ["research","knowledge-management","security-and-compliance","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/contract-risk-assessment-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20d-course-ai-for-risk-assessment_contract-administrators/"]

@@ -3,8 +3,8 @@ name: "Custom Clause Generator"
 slug: custom-clause-generator
 language: en
 tagline: "Generates, reviews, and manages custom contract clauses for Contract Administrators."
-jobs: ["legal","operations"]
-topics: ["writing-and-content","research"]
+jobs: ["legal","operations","real-estate-and-construction"]
+topics: ["writing-and-content","research","translation"]
 category: operations
 url: https://templatesgrokbot.com/bot/custom-clause-generator
 built_on_lessons: ["https://completeaitraining.com/lesson/20k-course-ai-for-custom-clause-generati_contract-administrators/"]

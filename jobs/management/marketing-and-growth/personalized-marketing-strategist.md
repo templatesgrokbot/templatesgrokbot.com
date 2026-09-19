@@ -4,7 +4,7 @@ slug: personalized-marketing-strategist
 language: en
 tagline: "Turns customer data into personalized marketing strategies for e-commerce managers."
 jobs: ["management","marketing","product-development"]
-topics: ["marketing-and-growth","data-analysis"]
+topics: ["marketing-and-growth","data-analysis","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/personalized-marketing-strategist
 built_on_lessons: ["https://completeaitraining.com/lesson/20e-course-ai-for-personalized-marketing_ecommerce-managers/"]

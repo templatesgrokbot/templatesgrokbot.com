@@ -3,9 +3,9 @@ name: "Demand Forecasting Analyst"
 slug: demand-forecasting-analyst
 language: en
 tagline: "Forecasts product demand from market data, sentiment, and trends for market research managers."
-jobs: ["management","operations","product-development"]
+jobs: ["management","operations","product-development","marketing"]
 topics: ["data-analysis","research"]
-category: operations
+category: research
 url: https://templatesgrokbot.com/bot/demand-forecasting-analyst
 built_on_lessons: ["https://completeaitraining.com/lesson/20e-course-ai-for-product-demand-forecas_market-research-managers/"]
 ---

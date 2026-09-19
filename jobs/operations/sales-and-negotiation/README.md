@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Operations
 
-Prospecting, outreach, proposals and negotiating terms. 10 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 13 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,9 @@ Prospecting, outreach, proposals and negotiating terms. 10 Grok Bot templates, 0
 | [Quota Setting Calculator](../../sales/sales-and-negotiation/quota-setting-calculator.md) | Designs fair, achievable sales quotas with clear methodology and territory adjustments. |
 | [Sales Forecast Builder](../../sales/sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
 | [Salesforce Automation](../../sales/sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
+| [Supplier Diversity Program Assistant](../../management/sales-and-negotiation/supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
+| [Supplier Negotiation Strategist](../../management/sales-and-negotiation/supplier-negotiation-strategist.md) | Prepares and guides purchasing managers through supplier negotiations from objectives to post-negotiation review. |
+| [Supplier Relationship Manager](../../management/sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
 | [Territory Planning Optimizer](../../sales/sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
 | [Workorai](../../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
 

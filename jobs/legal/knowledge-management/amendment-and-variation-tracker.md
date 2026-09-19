@@ -3,7 +3,7 @@ name: "Amendment and Variation Tracker"
 slug: amendment-and-variation-tracker
 language: en
 tagline: "Tracks contract amendments and variations from log to approval, with alerts and reports."
-jobs: ["legal","operations","management"]
+jobs: ["legal","operations","management","real-estate-and-construction","government"]
 topics: ["knowledge-management","productivity","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/amendment-and-variation-tracker

@@ -3,8 +3,8 @@ name: "AML Compliance Assistant"
 slug: aml-compliance-assistant
 language: en
 tagline: "Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance."
-jobs: ["legal","finance","insurance"]
-topics: ["security-and-compliance","data-analysis","research"]
+jobs: ["legal","finance","insurance","government"]
+topics: ["security-and-compliance","data-analysis","research","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/aml-compliance-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20m-course-ai-for-antimoney-laundering-a_compliance-officers/","https://completeaitraining.com/lesson/20g-course-ai-for-reporting-and-document_compliance-officers/"]

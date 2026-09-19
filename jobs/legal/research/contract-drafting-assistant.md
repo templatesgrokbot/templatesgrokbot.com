@@ -3,7 +3,7 @@ name: "Contract Drafting Assistant"
 slug: contract-drafting-assistant
 language: en
 tagline: "Guides contract drafting, review, compliance, and management from template to execution."
-jobs: ["legal","operations","management"]
+jobs: ["legal","operations","management","government","real-estate-and-construction"]
 topics: ["research","writing-and-content","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/contract-drafting-assistant

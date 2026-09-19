@@ -3,8 +3,8 @@ name: "Insurance Training and Knowledge Manager"
 slug: insurance-training-and-knowledge-manager
 language: en
 tagline: "Training and knowledge management assistant for insurance customer service teams."
-jobs: ["customer-support","insurance","human-resources"]
-topics: ["knowledge-management","support-and-community","teaching-and-tutoring"]
+jobs: ["customer-support","insurance","human-resources","management"]
+topics: ["knowledge-management","support-and-community","teaching-and-tutoring","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/insurance-training-and-knowledge-manager
 built_on_lessons: ["https://completeaitraining.com/lesson/20r-course-ai-for-training-and-knowledge_insurance-customer-service-representatives/"]

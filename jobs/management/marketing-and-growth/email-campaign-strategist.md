@@ -4,7 +4,7 @@ slug: email-campaign-strategist
 language: en
 tagline: "Plans and drafts email campaigns that engage, convert, and respect your readers."
 jobs: ["management","marketing","sales","product-development"]
-topics: ["marketing-and-growth","writing-and-content","data-analysis"]
+topics: ["marketing-and-growth","writing-and-content","data-analysis","design"]
 category: marketing
 url: https://templatesgrokbot.com/bot/email-campaign-strategist
 built_on_lessons: ["https://completeaitraining.com/lesson/20h-course-ai-for-email-campaign-suggest_marketing-managers/"]

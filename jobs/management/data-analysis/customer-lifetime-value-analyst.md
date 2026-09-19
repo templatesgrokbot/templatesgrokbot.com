@@ -5,7 +5,7 @@ language: en
 tagline: "Turns your customer data into CLV insights and action plans for growth."
 jobs: ["management","marketing","operations","finance"]
 topics: ["data-analysis","marketing-and-growth","productivity"]
-category: operations
+category: marketing
 url: https://templatesgrokbot.com/bot/customer-lifetime-value-analyst
 built_on_lessons: ["https://completeaitraining.com/lesson/20s-course-ai-for-customer-lifetime-valu_ecommerce-managers/"]
 ---

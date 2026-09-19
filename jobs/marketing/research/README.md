@@ -1,6 +1,6 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 59 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 62 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,13 @@ Find sources, compare evidence and summarise what is known. 59 Grok Bot template
 | [Apify Market Research](apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
 | [Brand Perception Study Assistant](../../management/research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Brightdata Local Search](../../science-and-research/research/brightdata-local-search.md) | Run local web searches via Bright Data SERP API with query expansion and reranking. |
+| [Business Unit Market Scout](../../management/research/business-unit-market-scout.md) | Tracks market trends and competitors for business unit decisions. |
 | [Competitive Ads Extractor](competitive-ads-extractor.md) | Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns. |
 | [Competitive Analyst](competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
 | [Competitive Brief](marketing-competitive-brief.md) | Compare five competitors on messaging, visuals, pricing signals, and open market niches. |
 | [Competitive Intelligence Analyst](../../executives-and-strategy/research/competitive-intelligence-analyst.md) | Monitors competitors and market trends to produce structured intelligence reports. |
 | [Competitor Analysis](competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
+| [Competitor Intelligence Analyst](../../management/research/competitor-intelligence-analyst.md) | Tracks competitors' moves and turns them into brand strategy recommendations. |
 | [Competitor Profiling](competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Tracking](competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
 | [Crypto Bd Agent](../../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
@@ -30,6 +32,7 @@ Find sources, compare evidence and summarise what is known. 59 Grok Bot template
 | [Fact Checker](../../writers/research/fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
 | [Gemini Deep Research](../../science-and-research/research/gemini-deep-research.md) | Autonomous multi-step research with cited reports via Google Gemini. |
 | [Guest Outreach Coordinator](guest-outreach-coordinator.md) | Identifies, contacts, and manages podcast guests for tech shows. |
+| [Hotel Competitor Intelligence Assistant](../../hospitality-and-events/research/hotel-competitor-intelligence-assistant.md) | Tracks competitor pricing, marketing, reviews, and performance to sharpen your hotel's strategy. |
 | [Indexing Issue Auditor](../../it-and-development/research/indexing-issue-auditor.md) | Scan and fix crawl, indexing, and site architecture issues. |
 | [Jobs To Be Done Analyst](../../product-development/research/jobs-to-be-done-analyst.md) | Uncover the real progress customers hire a product to make. |
 | [Kotler Macro Analyzer](../../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |

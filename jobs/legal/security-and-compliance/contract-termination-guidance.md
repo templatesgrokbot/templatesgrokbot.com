@@ -3,8 +3,8 @@ name: "Contract Termination Guidance"
 slug: contract-termination-guidance
 language: en
 tagline: "Guides contract administrators through termination processes with clear steps, documents, and risk checks."
-jobs: ["legal","operations","management"]
-topics: ["security-and-compliance","research"]
+jobs: ["legal","operations","management","government"]
+topics: ["security-and-compliance","research","writing-and-content","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/contract-termination-guidance
 built_on_lessons: ["https://completeaitraining.com/lesson/20n-course-ai-for-contract-termination-g_contract-administrators/"]

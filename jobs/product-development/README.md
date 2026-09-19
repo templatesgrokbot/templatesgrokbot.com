@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **925 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **928 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,8 +18,8 @@ Product managers and the teams that ship. **925 ready-made Grok Bot templates** 
 | [Productivity](productivity/README.md) | 51 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
 | [Research](research/README.md) | 48 |
-| [Data Analysis](data-analysis/README.md) | 32 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 32 |
+| [Data Analysis](data-analysis/README.md) | 34 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 33 |
 | [Prompt Engineering](prompt-engineering/README.md) | 22 |
 | [Security & Compliance](security-and-compliance/README.md) | 19 |
 | [Writing & Content](writing-and-content/README.md) | 19 |
@@ -146,11 +146,11 @@ Product managers and the teams that ship. **925 ready-made Grok Bot templates** 
 | [Database Design](../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
 | [Zinc Database](../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
 | [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
+| [Product Feedback Aggregator](../management/data-analysis/product-feedback-aggregator.md) | Turns scattered customer feedback into prioritized, actionable product insights. |
 | [Experiment Readout](data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Customer Journey Mapping Assistant](../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
-| [Analytics](../marketing/data-analysis/analytics.md) | Set up, audit, and improve analytics tracking for actionable marketing and product insights. |
 
-[All 32 Data Analysis templates →](data-analysis/README.md)
+[All 34 Data Analysis templates →](data-analysis/README.md)
 
 ## Marketing & Growth
 
@@ -165,7 +165,7 @@ Product managers and the teams that ship. **925 ready-made Grok Bot templates** 
 | [Personalized Marketing Strategist](../management/marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
 | [Seo Aeo Content Cluster](../marketing/marketing-and-growth/seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |
 
-[All 32 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 33 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Prompt Engineering
 

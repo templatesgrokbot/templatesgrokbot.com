@@ -4,7 +4,7 @@ slug: patent-client-communication-assistant
 language: en
 tagline: "Handles client communication for patent agents, from intake to follow-up."
 jobs: ["legal","customer-support","pr-and-communications"]
-topics: ["writing-and-content","support-and-community","knowledge-management"]
+topics: ["writing-and-content","support-and-community","knowledge-management","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/patent-client-communication-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20h-course-ai-for-client-communication_patent-agents/"]

@@ -4,7 +4,7 @@ slug: multi-channel-insurance-communication-assistant
 language: en
 tagline: "Handles multi-channel insurance customer communication with drafting, translation, and insights."
 jobs: ["customer-support","insurance","marketing"]
-topics: ["translation","data-analysis","writing-and-content"]
+topics: ["translation","data-analysis","writing-and-content","support-and-community"]
 category: operations
 url: https://templatesgrokbot.com/bot/multi-channel-insurance-communication-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20p-course-ai-for-multichannel-communica_insurance-customer-service-representatives/"]

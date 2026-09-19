@@ -3,7 +3,7 @@ name: "Compliance Training Material Creator"
 slug: compliance-training-material-creator
 language: en
 tagline: "Creates compliance training materials from research to final review."
-jobs: ["legal","education","human-resources","operations"]
+jobs: ["legal","education","human-resources","operations","government"]
 topics: ["teaching-and-tutoring","writing-and-content","research"]
 category: education
 url: https://templatesgrokbot.com/bot/compliance-training-material-creator

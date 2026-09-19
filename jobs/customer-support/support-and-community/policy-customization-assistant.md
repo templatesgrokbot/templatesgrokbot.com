@@ -4,7 +4,7 @@ slug: policy-customization-assistant
 language: en
 tagline: "Guides insurance customers through customizing policies, from coverage options to claims assistance."
 jobs: ["customer-support","insurance"]
-topics: ["support-and-community","data-analysis"]
+topics: ["support-and-community","data-analysis","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/policy-customization-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20k-course-ai-for-policy-customization_insurance-customer-service-representatives/"]

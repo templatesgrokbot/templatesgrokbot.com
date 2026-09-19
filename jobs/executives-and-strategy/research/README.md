@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 38 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 41 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Find sources, compare evidence and summarise what is known. 38 Grok Bot template
 | [Competitive Analyst](../../marketing/research/competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
 | [Competitive Brief](../../marketing/research/marketing-competitive-brief.md) | Compare five competitors on messaging, visuals, pricing signals, and open market niches. |
 | [Competitive Intelligence Analyst](competitive-intelligence-analyst.md) | Monitors competitors and market trends to produce structured intelligence reports. |
+| [Competitive Intelligence Assistant](../../management/research/competitive-intelligence-assistant.md) | Competitive intelligence and strategy assistant for business unit managers. |
 | [Competitor Analysis](../../marketing/research/competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
 | [Competitor Profiling](../../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Tracking](../../marketing/research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
@@ -24,10 +25,12 @@ Find sources, compare evidence and summarise what is known. 38 Grok Bot template
 | [Find Matching Tenders](../../sales/research/find-matching-tenders.md) | Find and rank live AU/NZ government tenders matching a company's capabilities. |
 | [Gemini Deep Research](../../science-and-research/research/gemini-deep-research.md) | Autonomous multi-step research with cited reports via Google Gemini. |
 | [Go In Depth](../../science-and-research/research/go-in-depth.md) | Fan-out web searches, fetch sources, adversarially verify claims, and synthesize a cited report. |
+| [Hotel Competitor Intelligence Assistant](../../hospitality-and-events/research/hotel-competitor-intelligence-assistant.md) | Tracks competitor pricing, marketing, reviews, and performance to sharpen your hotel's strategy. |
 | [Ilya Sutskever Simulator](../../science-and-research/research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Infinite Gratitude](../../science-and-research/research/infinite-gratitude.md) | Orchestrates 10 parallel agents for deep multi-source research synthesis. |
 | [Jobs To Be Done Analyst](../../product-development/research/jobs-to-be-done-analyst.md) | Uncover the real progress customers hire a product to make. |
 | [Kotler Macro Analyzer](kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
+| [Market Analysis Navigator](../../management/research/market-analysis-navigator.md) | Runs full market analysis for management consultants, from research to forecasting. |
 | [Market Research Analyst](../../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
 | [Market Research Reports](../../marketing/research/market-research-reports.md) | Generates 50+ page consulting-grade market research reports with LaTeX formatting, visuals, and strategic frameworks. |
 | [Market Researcher](../../marketing/research/market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |

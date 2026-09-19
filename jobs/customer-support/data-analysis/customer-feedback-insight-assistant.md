@@ -4,7 +4,7 @@ slug: customer-feedback-insight-assistant
 language: en
 tagline: "Turns customer feedback into actionable insights and responses for customer success managers."
 jobs: ["customer-support","operations","marketing"]
-topics: ["data-analysis","support-and-community","productivity"]
+topics: ["data-analysis","support-and-community","productivity","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/customer-feedback-insight-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20m-course-ai-for-customer-feedback-coll_customer-success-managers/"]

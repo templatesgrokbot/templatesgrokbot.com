@@ -3,7 +3,7 @@ name: "Compliance Technology Integration Assistant"
 slug: compliance-technology-integration-assistant
 language: en
 tagline: "Integrates compliance technology, automates monitoring, and manages risks for compliance analysts."
-jobs: ["legal","operations","it-and-development"]
+jobs: ["legal","operations","it-and-development","government"]
 topics: ["data-analysis","cloud-and-devops","security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/compliance-technology-integration-assistant

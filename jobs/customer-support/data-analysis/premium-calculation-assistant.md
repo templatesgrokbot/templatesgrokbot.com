@@ -4,7 +4,7 @@ slug: premium-calculation-assistant
 language: en
 tagline: "Handles insurance premium calculations from data collection to quotes and customer education."
 jobs: ["customer-support","insurance","operations"]
-topics: ["data-analysis","support-and-community","productivity"]
+topics: ["data-analysis","support-and-community","productivity","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/premium-calculation-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20d-course-ai-for-premium-calculation_insurance-customer-service-representatives/"]

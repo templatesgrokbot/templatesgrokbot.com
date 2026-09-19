@@ -4,8 +4,8 @@ slug: e-commerce-chatbot-developer
 language: en
 tagline: "Builds, trains, tests, and maintains customer service chatbots for e-commerce stores."
 jobs: ["management","it-and-development","customer-support","operations"]
-topics: ["generative-ai-and-llm","support-and-community","productivity"]
-category: operations
+topics: ["generative-ai-and-llm","support-and-community","productivity","coding"]
+category: engineering
 url: https://templatesgrokbot.com/bot/e-commerce-chatbot-developer
 built_on_lessons: ["https://completeaitraining.com/lesson/20o-course-ai-for-chatbot-development-fo_ecommerce-managers/"]
 ---

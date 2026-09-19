@@ -4,7 +4,7 @@ slug: international-patent-filing-assistant
 language: en
 tagline: "Guides patent agents through international filing, from search to strategy."
 jobs: ["legal","operations","it-and-development"]
-topics: ["research","writing-and-content","knowledge-management"]
+topics: ["research","writing-and-content","knowledge-management","translation"]
 category: operations
 url: https://templatesgrokbot.com/bot/international-patent-filing-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20k-course-ai-for-international-patent-f_patent-agents/"]

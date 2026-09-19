@@ -4,7 +4,7 @@ slug: typography-ui-design-assistant
 language: en
 tagline: "Typography guidance and tools for UI designers, from font pairing to accessibility checks."
 jobs: ["creatives","product-development"]
-topics: ["design"]
+topics: ["design","teaching-and-tutoring"]
 category: creative
 url: https://templatesgrokbot.com/bot/typography-ui-design-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20f-course-ai-for-typography-in-ui-desig_uxui-designers/"]

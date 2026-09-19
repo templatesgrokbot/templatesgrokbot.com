@@ -4,7 +4,7 @@ slug: ip-subnetting-assistant
 language: en
 tagline: "Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers."
 jobs: ["it-and-development","operations","education"]
-topics: ["cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
+topics: ["cloud-and-devops","security-and-compliance","teaching-and-tutoring","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ip-subnetting-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20f-course-ai-for-ip-addressing-and-subn_network-engineers/"]

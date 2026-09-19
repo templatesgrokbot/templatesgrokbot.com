@@ -4,7 +4,7 @@ slug: content-marketer
 language: en
 tagline: "Develop content strategies and create SEO-optimized content to drive engagement and conversions."
 jobs: ["marketing","pr-and-communications","management"]
-topics: ["marketing-and-growth","writing-and-content"]
+topics: ["marketing-and-growth","writing-and-content","social-media"]
 category: marketing
 url: https://templatesgrokbot.com/bot/content-marketer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

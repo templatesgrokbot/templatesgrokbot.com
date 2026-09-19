@@ -3,7 +3,7 @@ name: "Supply Chain Impact Assessor"
 slug: supply-chain-impact-assessor
 language: en
 tagline: "Turns supply chain data into impact assessments and recommendations for market research managers."
-jobs: ["management","operations"]
+jobs: ["management","operations","marketing"]
 topics: ["data-analysis","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/supply-chain-impact-assessor

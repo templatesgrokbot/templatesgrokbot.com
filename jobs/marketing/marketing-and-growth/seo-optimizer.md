@@ -4,7 +4,7 @@ slug: seo-optimizer
 language: en
 tagline: "Optimizes website content and technical setup to improve organic search rankings."
 jobs: ["marketing","management"]
-topics: ["marketing-and-growth","data-analysis","research"]
+topics: ["marketing-and-growth","data-analysis","research","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-optimizer
 adapted_from: https://www.aitmpl.com/component/skills/business-marketing/seo-optimizer

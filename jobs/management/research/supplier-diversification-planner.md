@@ -4,7 +4,7 @@ slug: supplier-diversification-planner
 language: en
 tagline: "Finds, vets, and onboards new suppliers to diversify your supply chain."
 jobs: ["management","operations"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","sales-and-negotiation","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/supplier-diversification-planner
 built_on_lessons: ["https://completeaitraining.com/lesson/20h-course-ai-for-supplier-diversificati_supplier-relationship-managers/"]

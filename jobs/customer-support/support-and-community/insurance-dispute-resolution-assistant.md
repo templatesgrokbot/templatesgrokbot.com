@@ -4,7 +4,7 @@ slug: insurance-dispute-resolution-assistant
 language: en
 tagline: "Guides insurance customer service reps through dispute resolution from intake to escalation."
 jobs: ["customer-support","insurance","legal","operations"]
-topics: ["support-and-community","writing-and-content","research"]
+topics: ["support-and-community","writing-and-content","research","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/insurance-dispute-resolution-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20f-course-ai-for-dispute-resolution_insurance-customer-service-representatives/"]

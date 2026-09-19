@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **151 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **168 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,14 +11,14 @@ Leaders making decisions from the whole picture. **151 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 42 |
-| [Research](research/README.md) | 38 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 29 |
-| [Productivity](productivity/README.md) | 20 |
+| [Data Analysis](data-analysis/README.md) | 52 |
+| [Research](research/README.md) | 41 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 30 |
+| [Productivity](productivity/README.md) | 22 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
-| [Security & Compliance](security-and-compliance/README.md) | 2 |
+| [Security & Compliance](security-and-compliance/README.md) | 3 |
 | [Coding](coding/README.md) | 1 |
 | [Design](design/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
@@ -33,21 +33,29 @@ Leaders making decisions from the whole picture. **151 ready-made Grok Bot templ
 | [Ai Dev Jobs Mcp](../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [AI Readiness Assessor](data-analysis/ai-readiness-assessor.md) | Assesses a business's AI readiness across six dimensions and produces a prioritized action report. |
 | [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
+| [Benchmarking Analysis Assistant](../management/data-analysis/benchmarking-analysis-assistant.md) | Benchmarking analysis assistant for management consultants, turning data into strategic insights and client-ready reports. |
 | [Board Deck Generator](data-analysis/board-deck-generator.md) | Generates professional board meeting presentation content with executive summary, financials, and strategic updates. |
 | [Brand Image Analyst](../management/data-analysis/brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
+| [Business Strategy Analyst](../management/data-analysis/business-strategy-analyst.md) | Turns market data and company inputs into strategic analysis, goals, and plans for management consultants. |
 | [Campaign Effectiveness Analyst](../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Compliance Benchmarking Analyst](../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
 | [Compliance Cost Analyst](../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Customer Panel Debate](../marketing/data-analysis/customer-panel-debate.md) | Runs a structured debate among your buyer personas to test any decision before you commit. |
 | [Data Storytelling](data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
+| [Data Visualization Presentation Assistant](../management/data-analysis/data-visualization-presentation-assistant.md) | Turns raw data into clear, compelling visuals and narratives for client presentations. |
 | [Executive Dashboard Generator](data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
+| [Executive Forecast Report Builder](../management/data-analysis/executive-forecast-report-builder.md) | Turns financial data into forecasts, scenarios, and reports for senior management decisions. |
+| [Executive Market Trend Forecaster](../management/data-analysis/executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
 | [Game Strategy Simulator](data-analysis/game-strategy-simulator.md) | Simulates sports game scenarios for play-calling, clock management, and risk/reward decisions. |
+| [Insurance Competitive Intelligence Assistant](../management/data-analysis/insurance-competitive-intelligence-assistant.md) | Turns competitor data into actionable insurance market intelligence for agency managers. |
+| [Insurance Finance Reporting Assistant](../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Job Profitability Analyzer](../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Kpi Dashboard Design](../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
 | [Legal Analytics Assistant](../legal/data-analysis/legal-analytics-assistant.md) | Turns legal documents and case data into clear insights, drafts, and risk assessments for lawyers. |
 | [Legal Risk Assessment Assistant](../legal/data-analysis/legal-risk-assessment-assistant.md) | Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers. |
 | [Longbridge](../finance/data-analysis/longbridge.md) | 125+ read-only market data capabilities for HK/US/A-share/SG stocks via Longbridge. |
 | [Longbridge Fundamentals](../finance/data-analysis/longbridge-fundamentals.md) | Pull financial statements, valuation multiples, and company profiles for HK/US/A-share/Singapore stocks via Longbridge. |
+| [M&A Evaluation Assistant](../management/data-analysis/m-a-evaluation-assistant.md) | M&A evaluation assistant for senior managers: screening, due diligence, valuation, integration, and post-merger analysis. |
 | [Market Sizing Analysis](data-analysis/market-sizing-analysis.md) | Calculate TAM, SAM, and SOM for startup market sizing with three methodologies. |
 | [Market Trend Analyzer](../management/data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
 | [Marketing Attribution Analyst](../marketing/data-analysis/marketing-attribution-analyst.md) | Models multi-touch attribution, validates channel performance with incrementality testing, and optimizes budget allocation. Uses confirmed data only. |
@@ -62,10 +70,12 @@ Leaders making decisions from the whole picture. **151 ready-made Grok Bot templ
 | [Quarterly Finance Report](../finance/data-analysis/quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |
 | [Risk Manager](../finance/data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](../finance/data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
+| [Senior Manager Decision Support](../management/data-analysis/senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
 | [Startup Analyst](data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Startup Business Analyst Financial Projections](../finance/data-analysis/startup-business-analyst-financial-projections.md) | Build 3-5 year financial models with revenue, costs, cash, and scenarios for startups. |
 | [Startup Financial Modeling](../finance/data-analysis/startup-financial-modeling.md) | Build 3-5 year financial models with revenue, cost, cash flow, and scenario planning for startups. |
 | [Startup Metrics Framework](data-analysis/startup-metrics-framework.md) | Track and optimize startup KPIs from seed through Series A. |
+| [Supply Chain Optimization Assistant](../management/data-analysis/supply-chain-optimization-assistant.md) | Optimizes your supply chain with data-driven insights and recommendations. |
 | [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Trading Risk Manager](../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
@@ -84,6 +94,7 @@ Leaders making decisions from the whole picture. **151 ready-made Grok Bot templ
 | [Competitive Analyst](../marketing/research/competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
 | [Competitive Brief](../marketing/research/marketing-competitive-brief.md) | Compare five competitors on messaging, visuals, pricing signals, and open market niches. |
 | [Competitive Intelligence Analyst](research/competitive-intelligence-analyst.md) | Monitors competitors and market trends to produce structured intelligence reports. |
+| [Competitive Intelligence Assistant](../management/research/competitive-intelligence-assistant.md) | Competitive intelligence and strategy assistant for business unit managers. |
 | [Competitor Analysis](../marketing/research/competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Tracking](../marketing/research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
@@ -95,10 +106,12 @@ Leaders making decisions from the whole picture. **151 ready-made Grok Bot templ
 | [Find Matching Tenders](../sales/research/find-matching-tenders.md) | Find and rank live AU/NZ government tenders matching a company's capabilities. |
 | [Gemini Deep Research](../science-and-research/research/gemini-deep-research.md) | Autonomous multi-step research with cited reports via Google Gemini. |
 | [Go In Depth](../science-and-research/research/go-in-depth.md) | Fan-out web searches, fetch sources, adversarially verify claims, and synthesize a cited report. |
+| [Hotel Competitor Intelligence Assistant](../hospitality-and-events/research/hotel-competitor-intelligence-assistant.md) | Tracks competitor pricing, marketing, reviews, and performance to sharpen your hotel's strategy. |
 | [Ilya Sutskever Simulator](../science-and-research/research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Infinite Gratitude](../science-and-research/research/infinite-gratitude.md) | Orchestrates 10 parallel agents for deep multi-source research synthesis. |
 | [Jobs To Be Done Analyst](../product-development/research/jobs-to-be-done-analyst.md) | Uncover the real progress customers hire a product to make. |
 | [Kotler Macro Analyzer](research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
+| [Market Analysis Navigator](../management/research/market-analysis-navigator.md) | Runs full market analysis for management consultants, from research to forecasting. |
 | [Market Research Analyst](../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
 | [Market Research Reports](../marketing/research/market-research-reports.md) | Generates 50+ page consulting-grade market research reports with LaTeX formatting, visuals, and strategic frameworks. |
 | [Market Researcher](../marketing/research/market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
@@ -134,6 +147,7 @@ Leaders making decisions from the whole picture. **151 ready-made Grok Bot templ
 | [Launch Strategy](../marketing/marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
 | [Launch War Room](../product-development/marketing-and-growth/launch-war-room.md) | Run an adversarial go/no-go war room and phased rollout plan for any launch. |
 | [Local Legal Seo Audit](../marketing/marketing-and-growth/local-legal-seo-audit.md) | Audit and improve local SEO for law firms, attorneys, and legal professionals. |
+| [Market Trend Forecasting Assistant](../management/marketing-and-growth/market-trend-forecasting-assistant.md) | Forecast market trends and plan strategy from data, competitor, and consumer insights. |
 | [Marketing Demand Acquisition](../marketing/marketing-and-growth/marketing-demand-acquisition.md) | Generates and optimizes multi-channel demand for B2B SaaS startups scaling internationally. |
 | [Marketing Ideas](../marketing/marketing-and-growth/marketing-ideas.md) | Scores and prioritizes 140 marketing ideas for SaaS products by feasibility. |
 | [Marketing Plan](../marketing/marketing-and-growth/marketing-plan.md) | Produce a 12-month AARRR marketing plan tailored to a client's budget, team, and stage. Hand off single-channel tactics to channel-specific capabilities. Do |
@@ -159,6 +173,7 @@ Leaders making decisions from the whole picture. **151 ready-made Grok Bot templ
 | [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Calendar Defragmenter](../management/productivity/calendar-defragmenter.md) | Audits your calendar, proposes consolidations and focus blocks, and drafts the messages to reclaim your week. |
 | [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Crisis Management Strategist](../management/productivity/crisis-management-strategist.md) | Crisis management strategist: assess risks, plan responses, and guide recovery for senior managers. |
 | [Find Complementary Founders](productivity/find-complementary-founders.md) | Match founders by evidence, not claims — publish only your own owner's profile. |
 | [Game Changing Features](productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
 | [Google Calendar Automation](../management/productivity/google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
@@ -172,6 +187,7 @@ Leaders making decisions from the whole picture. **151 ready-made Grok Bot templ
 | [Osterwalder Canvas Architect](productivity/osterwalder-canvas-architect.md) | Iteratively build and audit logically consistent 9-block Business Model Canvases. |
 | [Outlook Calendar Automation](../management/productivity/outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
 | [Product Manager](../product-development/productivity/product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
+| [Strategic Planning Assistant](../management/productivity/strategic-planning-assistant.md) | Turns market data and goals into a full strategic plan with risks, actions, and reviews. |
 | [Usage Based Pricing](../product-development/productivity/usage-based-pricing.md) | Design developer-friendly usage-based pricing models with clear metrics and predictable costs. |
 | [Web Project Brainstorming](../product-development/productivity/web-project-brainstorming.md) | Structured framework for brainstorming web project concepts, UX, styling, tech stack, and SEO. |
 
@@ -210,6 +226,7 @@ Leaders making decisions from the whole picture. **151 ready-made Grok Bot templ
 |---|---|
 | [Quality Manager Qmr](../operations/security-and-compliance/quality-manager-qmr.md) | Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies. |
 | [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
+| [Risk Management Analysis Assistant](../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
 
 ## Coding
 

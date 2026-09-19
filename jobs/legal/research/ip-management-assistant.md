@@ -4,7 +4,7 @@ slug: ip-management-assistant
 language: en
 tagline: "Manages IP tasks from registration to enforcement, with drafts and research for lawyers."
 jobs: ["legal","product-development","operations"]
-topics: ["research","writing-and-content","knowledge-management"]
+topics: ["research","writing-and-content","knowledge-management","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/ip-management-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20j-course-ai-for-intellectual-property-_lawyers/"]

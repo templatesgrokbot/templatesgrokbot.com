@@ -4,7 +4,7 @@ slug: return-refund-optimizer
 language: en
 tagline: "Optimizes e-commerce return and refund processes using data analysis and automation."
 jobs: ["management","operations","customer-support"]
-topics: ["data-analysis","productivity","support-and-community"]
+topics: ["data-analysis","productivity","support-and-community","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/return-refund-optimizer
 built_on_lessons: ["https://completeaitraining.com/lesson/20q-course-ai-for-return-and-refund-proc_ecommerce-managers/"]

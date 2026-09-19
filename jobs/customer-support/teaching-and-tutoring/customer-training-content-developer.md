@@ -4,8 +4,8 @@ slug: customer-training-content-developer
 language: en
 tagline: "Training content development assistant for Customer Success Managers, from research to delivery."
 jobs: ["customer-support","education"]
-topics: ["teaching-and-tutoring","writing-and-content"]
-category: operations
+topics: ["teaching-and-tutoring","writing-and-content","research","office-tools"]
+category: education
 url: https://templatesgrokbot.com/bot/customer-training-content-developer
 built_on_lessons: ["https://completeaitraining.com/lesson/20h-course-ai-for-training-content-devel_customer-success-managers/"]
 ---

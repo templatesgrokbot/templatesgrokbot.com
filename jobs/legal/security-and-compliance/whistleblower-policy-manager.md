@@ -3,8 +3,8 @@ name: "Whistleblower Policy Manager"
 slug: whistleblower-policy-manager
 language: en
 tagline: "Manages whistleblower policies, reports, and investigations for compliance officers."
-jobs: ["legal","human-resources","operations"]
-topics: ["security-and-compliance","support-and-community"]
+jobs: ["legal","human-resources","operations","government"]
+topics: ["security-and-compliance","support-and-community","writing-and-content","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/whistleblower-policy-manager
 built_on_lessons: ["https://completeaitraining.com/lesson/20k-course-ai-for-whistleblower-policy-m_compliance-officers/"]

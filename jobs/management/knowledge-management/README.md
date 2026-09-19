@@ -1,6 +1,6 @@
 # Knowledge Management templates for Management
 
-Notes, documents, PDFs and knowledge bases kept in order. 19 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 22 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,11 +18,14 @@ Notes, documents, PDFs and knowledge bases kept in order. 19 Grok Bot templates,
 | [Contract Repository Manager](../../legal/knowledge-management/contract-repository-manager.md) | Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access. |
 | [Crossframe Casebook](../../operations/knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
 | [Domain Modeling](../../it-and-development/knowledge-management/domain-modeling.md) | Build and sharpen a project's domain model by resolving terminology, recording decisions, and cross-referencing code. |
+| [Insurance Product Knowledge Manager](insurance-product-knowledge-manager.md) | Keeps insurance agency managers and their agents product-smart and ready to advise. |
+| [Insurance Training and Knowledge Manager](../../customer-support/knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
 | [Notion Knowledge Capture](../../operations/knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
 | [Obsidian Bases](../../operations/knowledge-management/obsidian-bases.md) | Create and edit Obsidian .base files with views, filters, formulas, and summaries. |
 | [Project State Governor](project-state-governor.md) | Govern evidence-backed canonical project state across sessions without inventing intent. |
 | [Quality Documentation Manager](../../operations/knowledge-management/quality-documentation-manager.md) | Manages document control, change control, and regulatory documentation compliance for medical device organizations. |
 | [Read All Adrs](../../it-and-development/knowledge-management/read-all-adrs.md) | Read all ADR files in a project to understand architectural decisions. |
+| [Service Catalogue Refinement Assistant](service-catalogue-refinement-assistant.md) | Refines and maintains your service catalogue with analysis, standardization, and customer-focused improvements. |
 | [User Thoughts](../../it-and-development/knowledge-management/user-thoughts.md) | Persist user decisions and project constraints into a local memory base for reuse across sessions. |
 | [Using Lwc](../../it-and-development/knowledge-management/using-lwc.md) | Persist project decisions and code context across coding-agent sessions via LWC memory and graph indexes. |
 

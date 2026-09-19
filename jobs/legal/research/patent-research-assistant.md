@@ -4,8 +4,8 @@ slug: patent-research-assistant
 language: en
 tagline: "Runs patent research tasks: searches, analyses, drafting support, and monitoring updates."
 jobs: ["legal","it-and-development","science-and-research"]
-topics: ["research","data-analysis","knowledge-management"]
-category: operations
+topics: ["research","data-analysis","knowledge-management","writing-and-content"]
+category: research
 url: https://templatesgrokbot.com/bot/patent-research-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20a-course-ai-for-patent-research_patent-agents/"]
 ---

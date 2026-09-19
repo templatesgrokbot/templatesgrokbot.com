@@ -3,9 +3,9 @@ name: "Legal Research Assistant"
 slug: legal-research-assistant
 language: en
 tagline: "Legal research and document support for contract administrators."
-jobs: ["legal","operations"]
-topics: ["research","writing-and-content"]
-category: operations
+jobs: ["legal","operations","government"]
+topics: ["research","writing-and-content","knowledge-management"]
+category: research
 url: https://templatesgrokbot.com/bot/legal-research-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20l-course-ai-for-legal-research-assista_contract-administrators/"]
 ---

@@ -1,6 +1,6 @@
 # Research templates for Operations
 
-Find sources, compare evidence and summarise what is known. 60 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 63 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -45,6 +45,7 @@ Find sources, compare evidence and summarise what is known. 60 Grok Bot template
 | [Multi Source Search](../../science-and-research/research/multi-source-search.md) | Cross-validate web research into a confidence-scored evidence ledger with source diversity. |
 | [Notion Research Documentation](notion-research-documentation.md) | Researches your Notion workspace and produces cited briefs, comparisons, or reports. |
 | [Online Dispute Resolution Assistant](../../legal/research/online-dispute-resolution-assistant.md) | Assists lawyers with online dispute resolution tasks from case evaluation to settlement drafting. |
+| [Price Comparison Analyst](../../management/research/price-comparison-analyst.md) | Market research and price comparison assistant for purchasing managers. |
 | [Qms Audit Expert](qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
 | [Regulatory Affairs Assistant](../../legal/research/regulatory-affairs-assistant.md) | Handles regulatory research, compliance tracking, reporting, audits, and training for legal assistants. |
 | [Regulatory Communication Assistant](../../legal/research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
@@ -60,11 +61,13 @@ Find sources, compare evidence and summarise what is known. 60 Grok Bot template
 | [Supplier Innovation Program Assistant](../../management/research/supplier-innovation-program-assistant.md) | Finds, evaluates, and nurtures supplier innovation with structured programs and tracking. |
 | [Supplier Relationship Builder](../../management/research/supplier-relationship-builder.md) | Builds and strengthens supplier relationships through structured communication, engagement, and partnership strategies. |
 | [Supplier Selection Assistant](../../management/research/supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |
+| [Sustainable Purchasing Assistant](../../management/research/sustainable-purchasing-assistant.md) | Helps purchasing managers make sustainable procurement decisions and track their impact. |
 | [Third-Party Compliance Evaluator](../../legal/research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 | [Travel Planner](travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Trial Preparation Paralegal Assistant](../../legal/research/trial-preparation-paralegal-assistant.md) | Trial prep assistant for paralegals: research, organize, draft, and strategize. |
 | [Trip Planner](trip-planner.md) | Builds a day-by-day itinerary that respects your budget, your pace, and opening hours. |
 | [Url Context Validator](../../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
+| [Vendor Research and Evaluation Assistant](../../management/research/vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |
 | [Youtube Transcript](youtube-transcript.md) | Fetch YouTube transcripts via DeepAPI or yt-dlp and save as clean text files. |
 
 [← All Operations templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/operations)

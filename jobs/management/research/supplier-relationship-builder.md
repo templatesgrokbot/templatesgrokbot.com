@@ -4,7 +4,7 @@ slug: supplier-relationship-builder
 language: en
 tagline: "Builds and strengthens supplier relationships through structured communication, engagement, and partnership strategies."
 jobs: ["management","operations"]
-topics: ["research"]
+topics: ["research","sales-and-negotiation","productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/supplier-relationship-builder
 built_on_lessons: ["https://completeaitraining.com/lesson/20e-course-ai-for-relationship-building-_supplier-relationship-managers/"]

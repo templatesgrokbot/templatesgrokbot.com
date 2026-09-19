@@ -3,8 +3,8 @@ name: "Compliance Monitoring Assistant"
 slug: compliance-monitoring-assistant
 language: en
 tagline: "Monitors legal changes, audits compliance, and drafts reports and training for your legal practice."
-jobs: ["legal","operations","management"]
-topics: ["security-and-compliance","research","writing-and-content"]
+jobs: ["legal","operations","management","government"]
+topics: ["security-and-compliance","research","writing-and-content","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/compliance-monitoring-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20h-course-ai-for-compliance-monitoring_lawyers/"]

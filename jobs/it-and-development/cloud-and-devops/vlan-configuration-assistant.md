@@ -4,8 +4,8 @@ slug: vlan-configuration-assistant
 language: en
 tagline: "Design, configure, troubleshoot, and document VLANs across your network."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","security-and-compliance"]
-category: operations
+topics: ["cloud-and-devops","security-and-compliance","writing-and-content","knowledge-management"]
+category: engineering
 url: https://templatesgrokbot.com/bot/vlan-configuration-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20e-course-ai-for-vlan-configuration_network-engineers/"]
 ---

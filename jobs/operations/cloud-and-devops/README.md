@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Operations
 
-Infrastructure, deployments, monitoring and incident response. 178 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 179 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -86,6 +86,7 @@ Infrastructure, deployments, monitoring and incident response. 178 Grok Bot temp
 | [Hybrid Cloud Architect](../../it-and-development/cloud-and-devops/hybrid-cloud-architect.md) | Designs and manages hybrid multi-cloud infrastructure across AWS, Azure, GCP, and private clouds. |
 | [Hybrid Cloud Networking](../../it-and-development/cloud-and-devops/hybrid-cloud-networking.md) | Configure secure hybrid cloud networking with VPN, Direct Connect, and ExpressRoute. |
 | [Incident Responder](../../it-and-development/cloud-and-devops/incident-responder.md) | Assess severity, stabilize systems, coordinate communication, and produce blameless post-incident reports. |
+| [Incident Response Coordinator](../../management/cloud-and-devops/incident-response-coordinator.md) | Coordinates incident response: triage, communication, documentation, analysis, and continuous improvement for service managers. |
 | [Incident Response Incident Response](../../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Incident Response Smart Fix](../../it-and-development/cloud-and-devops/incident-response-smart-fix.md) | Diagnose and resolve production incidents with multi-agent orchestration. |
 | [Incident Runbook Templates](incident-runbook-templates.md) | Generate incident response runbooks with detection, triage, and mitigation steps. |

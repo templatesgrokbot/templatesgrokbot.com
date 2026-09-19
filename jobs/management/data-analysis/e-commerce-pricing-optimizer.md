@@ -4,7 +4,7 @@ slug: e-commerce-pricing-optimizer
 language: en
 tagline: "Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies."
 jobs: ["management","marketing","operations","sales"]
-topics: ["data-analysis","marketing-and-growth"]
+topics: ["data-analysis","marketing-and-growth","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/e-commerce-pricing-optimizer
 built_on_lessons: ["https://completeaitraining.com/lesson/20f-course-ai-for-price-optimization_ecommerce-managers/"]

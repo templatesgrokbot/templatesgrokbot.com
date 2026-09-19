@@ -4,7 +4,7 @@ slug: customer-issue-resolution-assistant
 language: en
 tagline: "Guides customer success managers through issue triage, resolution, and proactive monitoring."
 jobs: ["customer-support","operations","management"]
-topics: ["support-and-community","data-analysis","productivity"]
+topics: ["support-and-community","data-analysis","productivity","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/customer-issue-resolution-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20j-course-ai-for-issue-resolution-strat_customer-success-managers/"]

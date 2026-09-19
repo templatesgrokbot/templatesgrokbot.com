@@ -4,7 +4,7 @@ slug: discovery-management-assistant
 language: en
 tagline: "Organizes, reviews, and drafts discovery documents for paralegals."
 jobs: ["legal","operations"]
-topics: ["research","knowledge-management"]
+topics: ["research","knowledge-management","writing-and-content","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/discovery-management-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20h-course-ai-for-discovery-management_paralegals/"]

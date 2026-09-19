@@ -4,8 +4,8 @@ slug: e-commerce-launch-strategist
 language: en
 tagline: "Plans and executes e-commerce product launches with data-driven strategy and content."
 jobs: ["management","marketing","operations","product-development"]
-topics: ["marketing-and-growth","data-analysis","research"]
-category: operations
+topics: ["marketing-and-growth","data-analysis","research","writing-and-content"]
+category: marketing
 url: https://templatesgrokbot.com/bot/e-commerce-launch-strategist
 built_on_lessons: ["https://completeaitraining.com/lesson/20r-course-ai-for-product-launch-strateg_ecommerce-managers/"]
 ---

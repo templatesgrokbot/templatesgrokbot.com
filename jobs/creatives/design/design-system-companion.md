@@ -4,7 +4,7 @@ slug: design-system-companion
 language: en
 tagline: "Builds and keeps your design system consistent, documented, and adopted."
 jobs: ["creatives","product-development","it-and-development"]
-topics: ["design","generative-art","knowledge-management"]
+topics: ["design","generative-art","knowledge-management","writing-and-content"]
 category: creative
 url: https://templatesgrokbot.com/bot/design-system-companion
 built_on_lessons: ["https://completeaitraining.com/lesson/20k-course-ai-for-design-system-developm_uxui-designers/"]

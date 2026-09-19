@@ -3,8 +3,8 @@ name: "Dispute Resolution Support Assistant"
 slug: dispute-resolution-support-assistant
 language: en
 tagline: "Supports contract administrators through every stage of dispute resolution."
-jobs: ["legal","operations"]
-topics: ["research","writing-and-content"]
+jobs: ["legal","operations","real-estate-and-construction"]
+topics: ["research","writing-and-content","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/dispute-resolution-support-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20m-course-ai-for-dispute-resolution-sup_contract-administrators/"]

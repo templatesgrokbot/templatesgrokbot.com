@@ -4,7 +4,7 @@ slug: policy-explanation-assistant
 language: en
 tagline: "Explains insurance policies clearly and guides customers through coverage, claims, and renewals."
 jobs: ["customer-support","insurance","operations"]
-topics: ["support-and-community","writing-and-content","translation"]
+topics: ["support-and-community","writing-and-content","translation","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/policy-explanation-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20a-course-ai-for-policy-explanation_insurance-customer-service-representatives/"]

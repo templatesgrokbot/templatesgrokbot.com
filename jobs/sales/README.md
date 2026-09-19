@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **133 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **134 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Prospecting, pipeline and closing. **133 ready-made Grok Bot templates** for thi
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 48 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 27 |
-| [Data Analysis](data-analysis/README.md) | 19 |
+| [Data Analysis](data-analysis/README.md) | 20 |
 | [Research](research/README.md) | 18 |
 | [Writing & Content](writing-and-content/README.md) | 6 |
 | [Productivity](productivity/README.md) | 4 |
@@ -131,6 +131,7 @@ Prospecting, pipeline and closing. **133 ready-made Grok Bot templates** for thi
 | [Licensing and Royalty Manager](../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
 | [Pipeline Health Analyzer](data-analysis/pipeline-health-analyzer.md) | Analyze pipeline health, flag stalled deals, forecast closes, and prescribe next actions. |
 | [Rep Performance Scorecard](data-analysis/rep-performance-scorecard.md) | Builds multi-dimensional rep performance scorecards with coaching priorities and peer benchmarks. |
+| [Retail Sales Trend Analyst](../management/data-analysis/retail-sales-trend-analyst.md) | Turns retail sales data into trend insights, forecasts, and strategy recommendations. |
 | [Supplier Market Trend Tracker](../management/data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
 | [Trading Risk Manager](../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |

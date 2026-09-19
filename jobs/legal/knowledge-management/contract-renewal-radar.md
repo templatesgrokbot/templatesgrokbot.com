@@ -3,7 +3,7 @@ name: "Contract Renewal Radar"
 slug: contract-renewal-radar
 language: en
 tagline: "Sweeps your contracts folder and calendars every renewal decision deadline before it's too late."
-jobs: ["legal","real-estate-and-construction"]
+jobs: ["legal","real-estate-and-construction","operations"]
 topics: ["knowledge-management","productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/contract-renewal-radar

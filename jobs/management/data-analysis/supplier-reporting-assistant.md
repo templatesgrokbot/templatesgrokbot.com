@@ -4,7 +4,7 @@ slug: supplier-reporting-assistant
 language: en
 tagline: "Turns supplier data into tailored reports, dashboards, and scorecards."
 jobs: ["management","operations","it-and-development"]
-topics: ["data-analysis","productivity","office-tools"]
+topics: ["data-analysis","productivity","office-tools","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/supplier-reporting-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20m-course-ai-for-customized-reporting_supplier-relationship-managers/"]

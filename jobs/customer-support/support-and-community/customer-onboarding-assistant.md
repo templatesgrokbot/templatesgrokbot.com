@@ -4,7 +4,7 @@ slug: customer-onboarding-assistant
 language: en
 tagline: "Guides new insurance customers through onboarding with personalized, step-by-step support."
 jobs: ["customer-support","insurance","operations"]
-topics: ["support-and-community","writing-and-content","productivity"]
+topics: ["support-and-community","writing-and-content","productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/customer-onboarding-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20g-course-ai-for-customer-onboarding_insurance-customer-service-representatives/"]

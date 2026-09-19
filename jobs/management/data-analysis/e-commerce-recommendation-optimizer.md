@@ -4,7 +4,7 @@ slug: e-commerce-recommendation-optimizer
 language: en
 tagline: "Builds and tunes personalized product recommendations for your e-commerce store."
 jobs: ["management","marketing","it-and-development","product-development"]
-topics: ["data-analysis","marketing-and-growth","productivity"]
+topics: ["data-analysis","marketing-and-growth","productivity","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/e-commerce-recommendation-optimizer
 built_on_lessons: ["https://completeaitraining.com/lesson/20k-course-ai-for-product-recommendation_ecommerce-managers/"]

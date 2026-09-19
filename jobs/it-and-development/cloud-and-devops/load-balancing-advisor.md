@@ -4,7 +4,7 @@ slug: load-balancing-advisor
 language: en
 tagline: "Explains and plans load balancing techniques for network engineers."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/load-balancing-advisor
 built_on_lessons: ["https://completeaitraining.com/lesson/20i-course-ai-for-load-balancing-techniq_network-engineers/"]

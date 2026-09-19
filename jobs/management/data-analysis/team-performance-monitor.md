@@ -3,8 +3,8 @@ name: "Team Performance Monitor"
 slug: team-performance-monitor
 language: en
 tagline: "Turns team performance data into insights, reports, and action plans for service managers."
-jobs: ["management","operations"]
-topics: ["data-analysis","productivity"]
+jobs: ["management","operations","hospitality-and-events","healthcare"]
+topics: ["data-analysis","productivity","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/team-performance-monitor
 built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-team-performance-monit_service-managers/"]

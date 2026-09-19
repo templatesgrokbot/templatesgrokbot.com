@@ -5,7 +5,7 @@ language: en
 tagline: "Streamlines prior art search, analysis, and reporting for patent agents."
 jobs: ["legal","it-and-development","science-and-research"]
 topics: ["research","data-analysis","knowledge-management"]
-category: operations
+category: research
 url: https://templatesgrokbot.com/bot/prior-art-analysis-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-prior-art-analysis_patent-agents/"]
 ---

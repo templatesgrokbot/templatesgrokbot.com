@@ -4,7 +4,7 @@ slug: litigation-support-assistant
 language: en
 tagline: "Manages litigation support tasks from document organization to trial preparation."
 jobs: ["legal","operations"]
-topics: ["research","writing-and-content","productivity"]
+topics: ["research","writing-and-content","productivity","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/litigation-support-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20d-course-ai-for-litigation-support_paralegals/"]

@@ -4,7 +4,7 @@ slug: supplier-cost-savings-planner
 language: en
 tagline: "Turns supplier cost data into savings plans, negotiation tactics, and stakeholder reports."
 jobs: ["management","operations","finance"]
-topics: ["data-analysis"]
+topics: ["data-analysis","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/supplier-cost-savings-planner
 built_on_lessons: ["https://completeaitraining.com/lesson/20g-course-ai-for-cost-analysis-and-redu_supplier-relationship-managers/"]

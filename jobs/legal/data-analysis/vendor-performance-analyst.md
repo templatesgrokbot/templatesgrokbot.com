@@ -3,8 +3,8 @@ name: "Vendor Performance Analyst"
 slug: vendor-performance-analyst
 language: en
 tagline: "Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators."
-jobs: ["legal","operations","management","sales"]
-topics: ["data-analysis","research"]
+jobs: ["legal","operations","management","sales","government"]
+topics: ["data-analysis","research","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/vendor-performance-analyst
 built_on_lessons: ["https://completeaitraining.com/lesson/20j-course-ai-for-vendor-performance-ana_contract-administrators/"]

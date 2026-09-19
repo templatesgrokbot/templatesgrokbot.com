@@ -4,7 +4,7 @@ slug: online-dispute-resolution-assistant
 language: en
 tagline: "Assists lawyers with online dispute resolution tasks from case evaluation to settlement drafting."
 jobs: ["legal","customer-support","operations"]
-topics: ["research","writing-and-content","support-and-community"]
+topics: ["research","writing-and-content","support-and-community","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/online-dispute-resolution-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20n-course-ai-for-online-dispute-resolut_lawyers/"]

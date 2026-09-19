@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 86 Grok Bot templates, 41 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 87 Grok Bot templates, 41 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -81,6 +81,7 @@ Find sources, compare evidence and summarise what is known. 86 Grok Bot template
 | [Task Researcher](task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 | [Tavily Web](tavily-web.md) | Searches the web, extracts content, and crawls sites via Tavily API. |
 | [Technical Researcher](technical-researcher.md) | Analyzes code repositories, documentation, and technical implementations for informed decisions. |
+| [Technology Integration Assessment Assistant](../../management/research/technology-integration-assessment-assistant.md) | Guides technology integration assessments from data analysis to implementation planning. |
 | [Technology Trend Intelligence Assistant](../../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Threat Intelligence](threat-intelligence.md) | Enrich IOCs and profile threats from public sources with verified evidence. |
 | [Tools Page Seo Optimizer](../../marketing/research/tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |

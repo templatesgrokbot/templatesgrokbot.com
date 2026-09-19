@@ -3,7 +3,7 @@ name: "Customer Feedback Insight Analyst"
 slug: customer-feedback-insight-analyst
 language: en
 tagline: "Turns customer feedback into clear insights, trends, and reports for marketing decisions."
-jobs: ["management","marketing","product-development","customer-support"]
+jobs: ["management","marketing","product-development","customer-support","hospitality-and-events"]
 topics: ["data-analysis","research","marketing-and-growth"]
 category: marketing
 url: https://templatesgrokbot.com/bot/customer-feedback-insight-analyst

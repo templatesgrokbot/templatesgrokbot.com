@@ -3,7 +3,7 @@ name: "Insurance Feedback Analyzer"
 slug: insurance-feedback-analyzer
 language: en
 tagline: "Collects, analyzes, and reports insurance customer feedback for service improvements."
-jobs: ["customer-support","insurance","marketing","operations"]
+jobs: ["customer-support","insurance","marketing","operations","management"]
 topics: ["data-analysis","research","marketing-and-growth"]
 category: operations
 url: https://templatesgrokbot.com/bot/insurance-feedback-analyzer

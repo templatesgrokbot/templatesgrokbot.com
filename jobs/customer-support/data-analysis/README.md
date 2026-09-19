@@ -1,6 +1,6 @@
 # Data Analysis templates for Customer Support
 
-Clean, query, chart and explain data. 22 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 23 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Clean, query, chart and explain data. 22 Grok Bot templates, 18 of them filed in
 | [Customer Segmentation Insights Assistant](customer-segmentation-insights-assistant.md) | Turns customer data into segments, insights, and actions for Customer Success Managers. |
 | [Customer Success Manager](customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 | [Customer Success Trend Analyst](customer-success-trend-analyst.md) | Turns customer data into trend insights and proactive success actions. |
+| [Feedback Collection Assistant](feedback-collection-assistant.md) | Collects, analyzes, and reports customer feedback for receptionists to improve service quality. |
 | [Feedback Insight for Service Managers](../../management/data-analysis/feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
 | [Insurance Document Verification Assistant](insurance-document-verification-assistant.md) | Verifies, updates, and tracks insurance documents for customer service reps. |
 | [Insurance Feedback Analyzer](insurance-feedback-analyzer.md) | Collects, analyzes, and reports insurance customer feedback for service improvements. |

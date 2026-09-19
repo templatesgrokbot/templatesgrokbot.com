@@ -5,7 +5,7 @@ language: en
 tagline: "Tracks UX/UI design trends and turns them into actionable design guidance for your projects."
 jobs: ["creatives","marketing","product-development"]
 topics: ["design","research","marketing-and-growth"]
-category: creative
+category: research
 url: https://templatesgrokbot.com/bot/ux-ui-trend-analyst
 built_on_lessons: ["https://completeaitraining.com/lesson/20n-course-ai-for-uxui-design-trends-ana_uxui-designers/"]
 ---

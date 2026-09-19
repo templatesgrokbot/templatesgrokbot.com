@@ -4,8 +4,8 @@ slug: patent-infringement-analysis-assistant
 language: en
 tagline: "Patent infringement analysis assistant for patent agents, from prior art to litigation support."
 jobs: ["legal","it-and-development","product-development"]
-topics: ["research","data-analysis"]
-category: operations
+topics: ["research","data-analysis","writing-and-content"]
+category: research
 url: https://templatesgrokbot.com/bot/patent-infringement-analysis-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20d-course-ai-for-infringement-analysis_patent-agents/","https://completeaitraining.com/lesson/20l-course-ai-for-patent-litigation-supp_patent-agents/"]
 ---

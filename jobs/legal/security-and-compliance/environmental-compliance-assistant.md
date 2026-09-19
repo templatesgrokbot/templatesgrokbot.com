@@ -4,7 +4,7 @@ slug: environmental-compliance-assistant
 language: en
 tagline: "Supports environmental compliance officers with research, documentation, audits, and reporting."
 jobs: ["legal","government","operations"]
-topics: ["security-and-compliance","research","data-analysis"]
+topics: ["security-and-compliance","research","data-analysis","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/environmental-compliance-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20o-course-ai-for-environmental-complian_compliance-officers/"]

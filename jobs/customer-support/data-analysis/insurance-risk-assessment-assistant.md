@@ -4,7 +4,7 @@ slug: insurance-risk-assessment-assistant
 language: en
 tagline: "Guides insurance CSRs through risk assessment, from data collection to customer communication."
 jobs: ["customer-support","insurance","operations"]
-topics: ["data-analysis","research","support-and-community"]
+topics: ["data-analysis","research","support-and-community","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/insurance-risk-assessment-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20h-course-ai-for-risk-assessment_insurance-customer-service-representatives/"]

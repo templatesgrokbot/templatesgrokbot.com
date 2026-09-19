@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 355 Grok Bot templates, 351 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 356 Grok Bot templates, 351 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -194,6 +194,7 @@ Infrastructure, deployments, monitoring and incident response. 355 Grok Bot temp
 | [Hybrid Cloud Networking](hybrid-cloud-networking.md) | Configure secure hybrid cloud networking with VPN, Direct Connect, and ExpressRoute. |
 | [iMessage Channel Installer](imessage-channel-installer.md) | Adds iMessage to NanoClaw with local or hosted backend. |
 | [Incident Responder](incident-responder.md) | Assess severity, stabilize systems, coordinate communication, and produce blameless post-incident reports. |
+| [Incident Response Coordinator](../../management/cloud-and-devops/incident-response-coordinator.md) | Coordinates incident response: triage, communication, documentation, analysis, and continuous improvement for service managers. |
 | [Incident Response Incident Response](incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Incident Response Smart Fix](incident-response-smart-fix.md) | Diagnose and resolve production incidents with multi-agent orchestration. |
 | [Incident Runbook Templates](../../operations/cloud-and-devops/incident-runbook-templates.md) | Generate incident response runbooks with detection, triage, and mitigation steps. |

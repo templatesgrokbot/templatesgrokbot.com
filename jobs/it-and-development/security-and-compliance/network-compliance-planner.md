@@ -4,7 +4,7 @@ slug: network-compliance-planner
 language: en
 tagline: "Guides network engineers through compliance tasks with step-by-step plans and checks."
 jobs: ["it-and-development","operations"]
-topics: ["security-and-compliance","cloud-and-devops"]
+topics: ["security-and-compliance","cloud-and-devops","writing-and-content","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/network-compliance-planner
 built_on_lessons: ["https://completeaitraining.com/lesson/20r-course-ai-for-network-compliance-and_network-engineers/"]

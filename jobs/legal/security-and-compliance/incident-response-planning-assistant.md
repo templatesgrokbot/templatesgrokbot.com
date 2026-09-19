@@ -3,8 +3,8 @@ name: "Incident Response Planning Assistant"
 slug: incident-response-planning-assistant
 language: en
 tagline: "Guides compliance analysts through incident response planning, from detection to review."
-jobs: ["legal","operations","it-and-development","management"]
-topics: ["security-and-compliance","research","knowledge-management"]
+jobs: ["legal","operations","it-and-development","management","government"]
+topics: ["security-and-compliance","research","knowledge-management","cloud-and-devops"]
 category: operations
 url: https://templatesgrokbot.com/bot/incident-response-planning-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20k-course-ai-for-incident-response-plan_compliance-analysts/"]
