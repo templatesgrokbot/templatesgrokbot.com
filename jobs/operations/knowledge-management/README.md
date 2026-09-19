@@ -1,6 +1,6 @@
 # Knowledge Management templates for Operations
 
-Notes, documents, PDFs and knowledge bases kept in order. 34 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 35 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 34 Grok Bot templates,
 | [Contract Renewal Radar](../../legal/knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
 | [Contract Repository Manager](../../legal/knowledge-management/contract-repository-manager.md) | Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access. |
 | [Crossframe Casebook](crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
+| [Data Storage and Management Assistant](../../science-and-research/knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
 | [Document Digitization Assistant](document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
 | [Document Organization Assistant](../../customer-support/knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
 | [E-Library Operations Assistant](../../education/knowledge-management/e-library-operations-assistant.md) | Manages e-library user accounts, catalog, search, reservations, recommendations, feedback, and reports. |

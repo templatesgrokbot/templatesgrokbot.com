@@ -1,6 +1,6 @@
 # Grok Bot templates for Healthcare
 
-Clinicians, care teams and health administrators. **60 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Clinicians, care teams and health administrators. **65 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,10 +11,10 @@ Clinicians, care teams and health administrators. **60 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 24 |
-| [Research](research/README.md) | 12 |
-| [Security & Compliance](security-and-compliance/README.md) | 8 |
-| [Productivity](productivity/README.md) | 6 |
+| [Data Analysis](data-analysis/README.md) | 26 |
+| [Research](research/README.md) | 13 |
+| [Security & Compliance](security-and-compliance/README.md) | 9 |
+| [Productivity](productivity/README.md) | 7 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
 | [Writing & Content](writing-and-content/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
@@ -31,6 +31,7 @@ Clinicians, care teams and health administrators. **60 ready-made Grok Bot templ
 | [Fitness Analyzer](data-analysis/fitness-analyzer.md) | Analyze fitness data, track progress, and generate personalized training recommendations. |
 | [Food Database Query](../science-and-research/data-analysis/food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |
 | [Health Trend Analyzer](data-analysis/health-trend-analyzer.md) | Analyze health data trends and correlations over time. |
+| [Lab Data Analysis Assistant](../science-and-research/data-analysis/lab-data-analysis-assistant.md) | Turns lab data into clear analyses, charts, and recommendations for lab managers. |
 | [Medical Bill Auditor](../finance/data-analysis/medical-bill-auditor.md) | Audits medical bills against insurance EOBs, finds errors, and drafts disputes. |
 | [Mental Health Analyzer](data-analysis/mental-health-analyzer.md) | Analyze mental health data to identify patterns, assess risks, and provide personalized recommendations. |
 | [Nutrition Analyzer](data-analysis/nutrition-analyzer.md) | Analyze nutrition data, identify patterns, and give personalized dietary advice. |
@@ -47,6 +48,7 @@ Clinicians, care teams and health administrators. **60 ready-made Grok Bot templ
 | [Skin Health Analyzer](data-analysis/skin-health-analyzer.md) | Analyze skin health data to identify patterns and assess status. |
 | [Tcm Constitution Analyzer](data-analysis/tcm-constitution-analyzer.md) | Analyze TCM constitution data and provide personalized wellness recommendations. |
 | [Team Performance Monitor](../management/data-analysis/team-performance-monitor.md) | Turns team performance data into insights, reports, and action plans for service managers. |
+| [Test Result Interpretation Assistant](../science-and-research/data-analysis/test-result-interpretation-assistant.md) | Interprets lab test results, flags abnormalities, and drafts reports for laboratory technicians. |
 | [Wellally Tech](data-analysis/wellally-tech.md) | Import health data and query WellAlly knowledge base for personal health management. |
 
 ## Research
@@ -60,6 +62,7 @@ Clinicians, care teams and health administrators. **60 ready-made Grok Bot templ
 | [Clinvar Database](../science-and-research/research/clinvar-database.md) | Query ClinVar for variant clinical significance and pathogenicity classifications. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Fda Database](../science-and-research/research/fda-database.md) | Query openFDA for drug, device, adverse event, recall, and regulatory data. |
 | [Histolab](../science-and-research/research/histolab.md) | Extracts informative tiles from whole slide pathology images for deep learning pipelines. |
+| [Infection Control Strategist](../science-and-research/research/infection-control-strategist.md) | Infection control research, policy, training, and outbreak response support for microbiologists. |
 | [Neurokit2](../science-and-research/research/neurokit2.md) | Processes physiological signals (ECG, EEG, EDA, RSP, EMG, EOG) into clean metrics and analyses for research or clinical use. |
 | [Pyhealth](research/pyhealth.md) | Build and deploy clinical ML models for EHR data, mortality prediction, and drug recommendation. |
 | [String Database](../science-and-research/research/string-database.md) | Fetch protein-protein interactions and functional enrichment from the STRING database. |
@@ -76,6 +79,7 @@ Clinicians, care teams and health administrators. **60 ready-made Grok Bot templ
 | [Compliance Training Manager](../education/security-and-compliance/compliance-training-manager.md) | Manages compliance training from needs assessment to certification and reporting. |
 | [Fda Food Safety Auditor](../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
 | [Information Security Manager Iso27001](security-and-compliance/information-security-manager-iso27001.md) | Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies. |
+| [Laboratory Quality Control Assistant](../science-and-research/security-and-compliance/laboratory-quality-control-assistant.md) | Manages lab quality control tasks from data analysis to audits and compliance. |
 | [QC Compliance Report Builder](../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
 | [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
 
@@ -88,6 +92,7 @@ Clinicians, care teams and health administrators. **60 ready-made Grok Bot templ
 | [Crisis Management Planner](../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
 | [Emergency Card Generator](productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
 | [Employee Scheduling Optimizer](../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
+| [Lab Stock Forecast Alerts](../science-and-research/productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
 | [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
 
 ## Self-Improvement

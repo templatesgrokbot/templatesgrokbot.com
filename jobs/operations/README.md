@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,210 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,228 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,13 @@ Processes, logistics and the systems that run a business. **1,210 ready-made Gro
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 403 |
+| [Data Analysis](data-analysis/README.md) | 411 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 182 |
-| [Productivity](productivity/README.md) | 167 |
-| [Security & Compliance](security-and-compliance/README.md) | 91 |
+| [Productivity](productivity/README.md) | 171 |
+| [Security & Compliance](security-and-compliance/README.md) | 95 |
 | [Research](research/README.md) | 82 |
 | [Coding](coding/README.md) | 60 |
-| [Knowledge Management](knowledge-management/README.md) | 34 |
+| [Knowledge Management](knowledge-management/README.md) | 35 |
 | [Support & Community](support-and-community/README.md) | 31 |
 | [Writing & Content](writing-and-content/README.md) | 28 |
 | [Office Tools](office-tools/README.md) | 27 |
@@ -27,7 +27,7 @@ Processes, logistics and the systems that run a business. **1,210 ready-made Gro
 | [Speech-To-Text](speech-to-text/README.md) | 10 |
 | [Generative Code](generative-code/README.md) | 8 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
-| [Design](design/README.md) | 6 |
+| [Design](design/README.md) | 7 |
 | [Social Media](social-media/README.md) | 4 |
 | [Video Editing](video-editing/README.md) | 4 |
 | [Translation](translation/README.md) | 3 |
@@ -49,7 +49,7 @@ Processes, logistics and the systems that run a business. **1,210 ready-made Gro
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 403 Data Analysis templates →](data-analysis/README.md)
+[All 411 Data Analysis templates →](data-analysis/README.md)
 
 ## Cloud & DevOps
 
@@ -79,7 +79,7 @@ Processes, logistics and the systems that run a business. **1,210 ready-made Gro
 | [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 167 Productivity templates →](productivity/README.md)
+[All 171 Productivity templates →](productivity/README.md)
 
 ## Security & Compliance
 
@@ -89,12 +89,12 @@ Processes, logistics and the systems that run a business. **1,210 ready-made Gro
 | [Jfrog Sec](../it-and-development/security-and-compliance/jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |
 | [Regulatory Affairs Head](security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
 | [Windows Ad](../it-and-development/security-and-compliance/windows-ad.md) | Run authorized Active Directory attacks: Kerberos, AD CS, BloodHound, NTLM relay. |
+| [Chemical Compliance Assistant](../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
 | [Hazardous Material Management Assistant](security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
 | [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
-| [Safety Technology Implementation Guide](security-and-compliance/safety-technology-implementation-guide.md) | Guides safety engineers through researching, implementing, and maintaining workplace safety technology. |
 
-[All 91 Security & Compliance templates →](security-and-compliance/README.md)
+[All 95 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Research
 
@@ -137,9 +137,9 @@ Processes, logistics and the systems that run a business. **1,210 ready-made Gro
 | [Connection Agent](knowledge-management/connection-agent.md) | Analyzes an Obsidian vault to suggest links between notes and identify orphaned content. |
 | [Ingest Youtube](knowledge-management/ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
 | [Review Agent](knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
-| [Notion Knowledge Capture](knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
+| [Data Storage and Management Assistant](../science-and-research/knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
 
-[All 34 Knowledge Management templates →](knowledge-management/README.md)
+[All 35 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Support & Community
 
@@ -280,6 +280,7 @@ Processes, logistics and the systems that run a business. **1,210 ready-made Gro
 | [Command Center Ui](../it-and-development/design/command-center-ui.md) | Generate dark-themed monitoring UI code for NOCs and global maps. |
 | [Screenshot Reviewer](design/screenshot-reviewer.md) | Reviews task lists against screenshots for completeness, consistency, and quality. |
 | [Process Design Innovation Assistant](../product-development/design/process-design-innovation-assistant.md) | Innovation partner for process engineers, turning data and ideas into better designs. |
+| [Chemical Plant Design Assistant](../science-and-research/design/chemical-plant-design-assistant.md) | Supports chemical engineers with plant design tasks from material selection to troubleshooting. |
 | [Warehouse Flow Architect](design/warehouse-flow-architect.md) | Optimizes warehouse layouts for space, flow, safety, and future growth. |
 | [Site Layout Planner](../real-estate-and-construction/design/site-layout-planner.md) | Optimizes construction site layouts and utilization for contractors. |
 

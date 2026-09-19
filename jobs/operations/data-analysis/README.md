@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 403 Grok Bot templates, 257 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 411 Grok Bot templates, 257 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,9 @@ Clean, query, chart and explain data. 403 Grok Bot templates, 257 of them filed 
 | [Cargo Handling Optimization Assistant](cargo-handling-optimization-assistant.md) | Optimizes cargo handling operations through data analysis and predictive insights for logistics engineers. |
 | [Carrier Relationship Management](carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
 | [Cf Crawl](cf-crawl.md) | Crawl websites via Cloudflare Browser Rendering and save pages as markdown files. |
+| [Chemical Process Optimizer](../../science-and-research/data-analysis/chemical-process-optimizer.md) | Optimizes chemical processes through data analysis, simulation, and improvement recommendations. |
+| [Chemical Process Troubleshooter](../../science-and-research/data-analysis/chemical-process-troubleshooter.md) | Diagnose chemical process issues from data and recommend fixes for your plant. |
+| [Chemical Supply Chain Analyst](../../science-and-research/data-analysis/chemical-supply-chain-analyst.md) | Analyzes chemical supply chain data to deliver insights, forecasts, and recommendations for engineers. |
 | [Churn Prediction and Retention Assistant](../../customer-support/data-analysis/churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
 | [Churn Radar](../../sales/data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
 | [Claim Document Verification Assistant](claim-document-verification-assistant.md) | Verifies insurance claim documents by extracting, cross-checking, and flagging issues before approval. |
@@ -102,6 +105,7 @@ Clean, query, chart and explain data. 403 Grok Bot templates, 257 of them filed 
 | [Energy Consumption Analyst](../../product-development/data-analysis/energy-consumption-analyst.md) | Analyzes energy data, forecasts usage, and recommends savings for process engineers. |
 | [Energy Consumption Optimization Assistant](energy-consumption-optimization-assistant.md) | Optimizes your facility's energy use through data analysis, audits, and actionable efficiency strategies. |
 | [Energy Consumption Optimizer](energy-consumption-optimizer.md) | Optimizes your facility's energy use through data analysis, recommendations, and reporting. |
+| [Energy Efficiency Analyst](../../science-and-research/data-analysis/energy-efficiency-analyst.md) | Analyzes energy data, simulates processes, and recommends efficiency improvements for chemical plants. |
 | [Energy Procurement](energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
 | [Environmental Impact Analyst](../../product-development/data-analysis/environmental-impact-analyst.md) | Environmental impact analysis and sustainability recommendations for process engineers. |
 | [Excel Analysis](../../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
@@ -133,6 +137,7 @@ Clean, query, chart and explain data. 403 Grok Bot templates, 257 of them filed 
 | [Home Inventory Builder](home-inventory-builder.md) | Turns your photos and receipts into an insurance-grade home inventory. |
 | [Hotel Staff Scheduling Optimizer](../../hospitality-and-events/data-analysis/hotel-staff-scheduling-optimizer.md) | Analyzes hotel data to build balanced staff schedules, reduce costs, and ensure compliance. |
 | [HR Analytics Insights](hr-analytics-insights.md) | Turns HR data into clear insights for workforce decisions. |
+| [Industrial Energy Management Assistant](../../science-and-research/data-analysis/industrial-energy-management-assistant.md) | Optimize industrial energy use, cut costs, and meet compliance through data-driven analysis and recommendations. |
 | [Insurance Document Verification Assistant](../../customer-support/data-analysis/insurance-document-verification-assistant.md) | Verifies, updates, and tracks insurance documents for customer service reps. |
 | [Insurance Feedback Analyzer](../../customer-support/data-analysis/insurance-feedback-analyzer.md) | Collects, analyzes, and reports insurance customer feedback for service improvements. |
 | [Insurance Fraud Detection Analyst](insurance-fraud-detection-analyst.md) | Analyzes insurance claims data and documents to detect fraud patterns and risks. |
@@ -175,6 +180,7 @@ Clean, query, chart and explain data. 403 Grok Bot templates, 257 of them filed 
 | [Junta Auctioneers](junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Knowledge Synthesizer](../../it-and-development/data-analysis/knowledge-synthesizer.md) | Extracts actionable patterns from agent interactions to enable organizational learning. |
 | [Kpi Dashboard Design](../../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
+| [Laboratory Inventory Manager](../../science-and-research/data-analysis/laboratory-inventory-manager.md) | Manages lab inventory from tracking to forecasting, audits, and supplier coordination. |
 | [Lean Manufacturing Improvement Planner](../../product-development/data-analysis/lean-manufacturing-improvement-planner.md) | Lean manufacturing analysis and improvement planning for process engineers. |
 | [Legal Billing Systems Assistant](../../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
 | [Legal Risk Assessment Assistant](../../legal/data-analysis/legal-risk-assessment-assistant.md) | Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers. |
@@ -259,9 +265,11 @@ Clean, query, chart and explain data. 403 Grok Bot templates, 257 of them filed 
 | [Power Bi Data Modeling Expert](../../it-and-development/data-analysis/power-bi-data-modeling-expert.md) | Guides Power BI data model design using star schema and Microsoft best practices. |
 | [Power Bi Performance Expert](../../it-and-development/data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
 | [Power Bi Visualization Expert](power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
+| [Power Grid Analysis Assistant](../../science-and-research/data-analysis/power-grid-analysis-assistant.md) | Analyzes power grid data for load flow, faults, stability, renewables, and modernization planning. |
 | [Predictive Maintenance Analyst](predictive-maintenance-analyst.md) | Predict equipment failures and optimize maintenance schedules from your logistics data. |
 | [Predictive Maintenance Scheduler](../../management/data-analysis/predictive-maintenance-scheduler.md) | Analyzes equipment data, predicts failures, and schedules maintenance to maximize uptime. |
 | [Premium Calculation Assistant](../../customer-support/data-analysis/premium-calculation-assistant.md) | Handles insurance premium calculations from data collection to quotes and customer education. |
+| [Process Data Analyst](../../science-and-research/data-analysis/process-data-analyst.md) | Analyzes process data to uncover patterns, trends, and risks for process development scientists. |
 | [Process Efficiency Analyst](../../product-development/data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
 | [Process Engineer Supply Chain Optimizer](../../product-development/data-analysis/process-engineer-supply-chain-optimizer.md) | Optimizes supply chains with data-driven forecasting, supplier, transportation, and process improvements. |
 | [Process Improvement Recommendation Assistant](process-improvement-recommendation-assistant.md) | Turns production data into process improvement recommendations for quality control inspectors. |

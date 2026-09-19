@@ -1,6 +1,6 @@
 # Productivity templates for Real Estate and Construction
 
-Plan, prioritise and clear the recurring admin. 19 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 20 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Plan, prioritise and clear the recurring admin. 19 Grok Bot templates, 9 of them
 | [Construction Progress Monitor](construction-progress-monitor.md) | Tracks construction progress, budgets, risks, and reports for contractors. |
 | [Construction Project Planner](construction-project-planner.md) | Plans, schedules, and tracks construction projects from site assessment to completion. |
 | [Construction Workforce Allocator](construction-workforce-allocator.md) | Optimizes construction workforce scheduling, allocation, tracking, and development. |
+| [Electrification Project Planner](../../science-and-research/productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Facility Operations Planner](../../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
 | [Facility Ops Chat Manager](../../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
 | [Hotel Maintenance Schedule Coordinator](../../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |

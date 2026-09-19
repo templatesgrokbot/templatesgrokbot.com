@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,490 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,492 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,8 +14,8 @@ Engineers, DevOps, security and IT teams. **2,490 ready-made Grok Bot templates*
 | [Coding](coding/README.md) | 1,013 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 357 |
 | [Security & Compliance](security-and-compliance/README.md) | 241 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 209 |
-| [Data Analysis](data-analysis/README.md) | 152 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 210 |
+| [Data Analysis](data-analysis/README.md) | 153 |
 | [Design](design/README.md) | 89 |
 | [Generative Code](generative-code/README.md) | 88 |
 | [Research](research/README.md) | 87 |
@@ -95,7 +95,7 @@ Engineers, DevOps, security and IT teams. **2,490 ready-made Grok Bot templates*
 | [Agent Tool Builder](generative-ai-and-llm/agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
 | [Mcp Integration Engineer](generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
 
-[All 209 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 210 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
 ## Data Analysis
 
@@ -110,7 +110,7 @@ Engineers, DevOps, security and IT teams. **2,490 ready-made Grok Bot templates*
 | [Ai Dev Jobs Mcp](data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Nosql Specialist](data-analysis/nosql-specialist.md) | Designs and optimizes NoSQL databases for MongoDB, Redis, Cassandra, and key-value stores. |
 
-[All 152 Data Analysis templates →](data-analysis/README.md)
+[All 153 Data Analysis templates →](data-analysis/README.md)
 
 ## Design
 

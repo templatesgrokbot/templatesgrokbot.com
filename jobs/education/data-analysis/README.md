@@ -1,6 +1,6 @@
 # Data Analysis templates for Education
 
-Clean, query, chart and explain data. 18 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 19 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Clean, query, chart and explain data. 18 Grok Bot templates, 16 of them filed in
 | [eLearning Feedback Analyzer](elearning-feedback-analyzer.md) | Turns eLearning user feedback into categorized insights, prioritized fixes, and clear reports. |
 | [Employee Template Tracking Planner](employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
 | [Feedback Insight Report Builder](feedback-insight-report-builder.md) | Collects, analyzes, and reports on training feedback to drive program improvements. |
+| [Grade Analysis Assistant](grade-analysis-assistant.md) | Analyzes student grades to uncover patterns, gaps, and strategies for better teaching. |
 | [Job Description Analyzer](../../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
 | [Jupyter Notebook](jupyter-notebook.md) | Creates and edits reproducible Jupyter notebooks for experiments or tutorials. |
 | [Learning Analytics Assistant](learning-analytics-assistant.md) | Turns eLearning data into insights, predictions, and personalized learning paths. |

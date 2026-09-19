@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Human Resources
 
-Explain, quiz and guide someone through a subject. 20 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 21 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Explain, quiz and guide someone through a subject. 20 Grok Bot templates, 0 of t
 | [Gamified Training Program Designer](../../education/teaching-and-tutoring/gamified-training-program-designer.md) | Designs and runs gamified training programs, from content to rewards, for training coordinators. |
 | [Interactive Training Designer](../../education/teaching-and-tutoring/interactive-training-designer.md) | Designs and evaluates interactive training modules, materials, and tools for engaging learning. |
 | [Interview Prep](../../education/teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
+| [Laboratory Training and Onboarding Assistant](../../science-and-research/teaching-and-tutoring/laboratory-training-and-onboarding-assistant.md) | Designs and manages lab training and onboarding from materials to evaluation. |
 | [Learning Path Architect for HR](../../education/teaching-and-tutoring/learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
 | [Legal Education and Training Assistant](../../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
 | [Logistics Training Program Coordinator](../../operations/teaching-and-tutoring/logistics-training-program-coordinator.md) | Builds and runs staff training programs for logistics teams, from needs assessment to evaluation. |

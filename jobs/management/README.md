@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **625 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **636 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,13 @@ Team leads and project managers. **625 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 176 |
-| [Productivity](productivity/README.md) | 142 |
-| [Research](research/README.md) | 63 |
+| [Data Analysis](data-analysis/README.md) | 177 |
+| [Productivity](productivity/README.md) | 148 |
+| [Research](research/README.md) | 64 |
 | [Coding](coding/README.md) | 44 |
+| [Security & Compliance](security-and-compliance/README.md) | 35 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 34 |
-| [Security & Compliance](security-and-compliance/README.md) | 33 |
-| [Knowledge Management](knowledge-management/README.md) | 22 |
+| [Knowledge Management](knowledge-management/README.md) | 23 |
 | [Writing & Content](writing-and-content/README.md) | 19 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 16 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 13 |
@@ -44,7 +44,7 @@ Team leads and project managers. **625 ready-made Grok Bot templates** for this 
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 
-[All 176 Data Analysis templates →](data-analysis/README.md)
+[All 177 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **625 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 142 Productivity templates →](productivity/README.md)
+[All 148 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -74,7 +74,7 @@ Team leads and project managers. **625 ready-made Grok Bot templates** for this 
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Supplier Diversification Planner](research/supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
 
-[All 63 Research templates →](research/README.md)
+[All 64 Research templates →](research/README.md)
 
 ## Coding
 
@@ -91,6 +91,21 @@ Team leads and project managers. **625 ready-made Grok Bot templates** for this 
 
 [All 44 Coding templates →](coding/README.md)
 
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
+| [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
+| [Chemical Compliance Assistant](../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
+| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
+| [Construction Quality Control Assistant](../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
+| [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
+| [Varlock Claude](../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
+
+[All 35 Security & Compliance templates →](security-and-compliance/README.md)
+
 ## Marketing & Growth
 
 | Template | What it does |
@@ -106,21 +121,6 @@ Team leads and project managers. **625 ready-made Grok Bot templates** for this 
 
 [All 34 Marketing & Growth templates →](marketing-and-growth/README.md)
 
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
-| [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
-| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
-| [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
-| [Construction Quality Control Assistant](../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
-| [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
-| [Varlock Claude](../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
-| [Google Cloud Waf Security](../it-and-development/security-and-compliance/google-cloud-waf-security.md) | Evaluates Google Cloud workloads against the Well-Architected Framework security pillar and gives actionable recommendations. |
-
-[All 33 Security & Compliance templates →](security-and-compliance/README.md)
-
 ## Knowledge Management
 
 | Template | What it does |
@@ -130,11 +130,11 @@ Team leads and project managers. **625 ready-made Grok Bot templates** for this 
 | [Atlas Ledger](../it-and-development/knowledge-management/atlas-ledger.md) | Distills caught drift into WHEN/DON'T/INSTEAD clauses for Atlas.md. |
 | [Context Driven Development](../it-and-development/knowledge-management/context-driven-development.md) | Manage project context as a living artifact for consistent AI and team alignment. |
 | [Adr Generator](../it-and-development/knowledge-management/adr-generator.md) | Formalizes technical decisions into structured Architectural Decision Records. |
+| [Data Storage and Management Assistant](../science-and-research/knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
 | [Notion Knowledge Capture](../operations/knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
 | [Context Management Context Save](../it-and-development/knowledge-management/context-management-context-save.md) | Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks. |
-| [Capa Officer](../operations/knowledge-management/capa-officer.md) | Manage CAPA records from initiation to closure, tracking root cause analysis and effectiveness verification. |
 
-[All 22 Knowledge Management templates →](knowledge-management/README.md)
+[All 23 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Writing & Content
 

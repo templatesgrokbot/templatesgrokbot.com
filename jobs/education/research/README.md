@@ -1,6 +1,6 @@
 # Research templates for Education
 
-Find sources, compare evidence and summarise what is known. 21 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 22 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,6 +25,7 @@ Find sources, compare evidence and summarise what is known. 21 Grok Bot template
 | [Scholar Evaluation](scholar-evaluation.md) | Evaluates scholarly work using the ScholarEval framework across multiple quality dimensions. |
 | [Scientific Critical Thinking](../../science-and-research/research/scientific-critical-thinking.md) | Evaluates scientific research rigor, methodology, and evidence quality for critical analysis. |
 | [Survey Generator](../../science-and-research/research/survey-generator.md) | Generate source-backed AI/ML survey papers as self-contained HTML with curated bibliographies. |
+| [Teacher Research Assistant](teacher-research-assistant.md) | Research assistant for teachers: literature, data, citations, proposals, and presentations from start to publication. |
 | [Youtube Notetaker](youtube-notetaker.md) | Turn YouTube talks into local markdown study notes with slides and transcripts. |
 | [Youtube Summarizer](youtube-summarizer.md) | Extract YouTube transcripts and generate detailed summaries using the STAR + R-I-S-E framework. |
 

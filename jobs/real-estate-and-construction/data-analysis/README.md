@@ -1,6 +1,6 @@
 # Data Analysis templates for Real Estate and Construction
 
-Clean, query, chart and explain data. 26 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 27 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Clean, query, chart and explain data. 26 Grok Bot templates, 9 of them filed in 
 | [Construction Budget Estimator](construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Construction Risk Assessment Assistant](construction-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates construction project risks with AI-driven insights. |
 | [Defect Identification Assistant](../../operations/data-analysis/defect-identification-assistant.md) | Analyzes defects across images, data, text, and processes, and drives quality improvements. |
+| [Energy Audit Analyst](../../science-and-research/data-analysis/energy-audit-analyst.md) | Turns energy data into audit findings, savings, and reports for energy engineers. |
 | [Energy Audit Assistant](../../science-and-research/data-analysis/energy-audit-assistant.md) | Turns energy data into audit findings, savings plans, and compliance-ready reports. |
 | [Energy Consumption Optimization Assistant](../../operations/data-analysis/energy-consumption-optimization-assistant.md) | Optimizes your facility's energy use through data analysis, audits, and actionable efficiency strategies. |
 | [Energy Consumption Optimizer](../../operations/data-analysis/energy-consumption-optimizer.md) | Optimizes your facility's energy use through data analysis, recommendations, and reporting. |

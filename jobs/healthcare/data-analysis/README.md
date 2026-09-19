@@ -1,6 +1,6 @@
 # Data Analysis templates for Healthcare
 
-Clean, query, chart and explain data. 24 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 26 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Clean, query, chart and explain data. 24 Grok Bot templates, 15 of them filed in
 | [Fitness Analyzer](fitness-analyzer.md) | Analyze fitness data, track progress, and generate personalized training recommendations. |
 | [Food Database Query](../../science-and-research/data-analysis/food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |
 | [Health Trend Analyzer](health-trend-analyzer.md) | Analyze health data trends and correlations over time. |
+| [Lab Data Analysis Assistant](../../science-and-research/data-analysis/lab-data-analysis-assistant.md) | Turns lab data into clear analyses, charts, and recommendations for lab managers. |
 | [Medical Bill Auditor](../../finance/data-analysis/medical-bill-auditor.md) | Audits medical bills against insurance EOBs, finds errors, and drafts disputes. |
 | [Mental Health Analyzer](mental-health-analyzer.md) | Analyze mental health data to identify patterns, assess risks, and provide personalized recommendations. |
 | [Nutrition Analyzer](nutrition-analyzer.md) | Analyze nutrition data, identify patterns, and give personalized dietary advice. |
@@ -29,6 +30,7 @@ Clean, query, chart and explain data. 24 Grok Bot templates, 15 of them filed in
 | [Skin Health Analyzer](skin-health-analyzer.md) | Analyze skin health data to identify patterns and assess status. |
 | [Tcm Constitution Analyzer](tcm-constitution-analyzer.md) | Analyze TCM constitution data and provide personalized wellness recommendations. |
 | [Team Performance Monitor](../../management/data-analysis/team-performance-monitor.md) | Turns team performance data into insights, reports, and action plans for service managers. |
+| [Test Result Interpretation Assistant](../../science-and-research/data-analysis/test-result-interpretation-assistant.md) | Interprets lab test results, flags abnormalities, and drafts reports for laboratory technicians. |
 | [Wellally Tech](wellally-tech.md) | Import health data and query WellAlly knowledge base for personal health management. |
 
 [← All Healthcare templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/healthcare)

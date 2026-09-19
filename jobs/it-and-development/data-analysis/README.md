@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 152 Grok Bot templates, 98 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -136,6 +136,7 @@ Clean, query, chart and explain data. 152 Grok Bot templates, 98 of them filed i
 | [Senior Data Scientist](../../science-and-research/data-analysis/senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
 | [Shap](shap.md) | Explains machine learning model predictions using SHAP values and visualizations. |
 | [Simpy](simpy.md) | Builds and runs discrete-event simulations of systems with queues, resources, and timed processes. |
+| [Smart Grid Integration Planner](../../science-and-research/data-analysis/smart-grid-integration-planner.md) | Analyzes smart grid data and plans grid improvements for energy engineers. |
 | [Snowflake Development](snowflake-development.md) | Snowflake SQL, pipelines, Cortex AI, and Snowpark development assistant. |
 | [Spreadsheet](../../finance/data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
 | [Sql Sentinel](sql-sentinel.md) | Audits SQL for cost and performance anti-patterns, scores warehouse health 0-100, and outputs a prioritized cost-reduction plan. Works with BigQuery, |

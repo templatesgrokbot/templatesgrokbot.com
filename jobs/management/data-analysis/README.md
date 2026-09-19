@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 176 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 177 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -92,6 +92,7 @@ Clean, query, chart and explain data. 176 Grok Bot templates, 93 of them filed i
 | [Inventory Optimization Assistant](inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
 | [Job Description Analyzer](../../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
 | [Kpi Dashboard Design](kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
+| [Lab Data Analysis Assistant](../../science-and-research/data-analysis/lab-data-analysis-assistant.md) | Turns lab data into clear analyses, charts, and recommendations for lab managers. |
 | [Logistics Demand Forecaster](../../operations/data-analysis/logistics-demand-forecaster.md) | Turns sales data into demand forecasts, risk checks, and stakeholder reports for logistics managers. |
 | [Logistics Performance Metrics Analyzer](../../operations/data-analysis/logistics-performance-metrics-analyzer.md) | Turns your logistics performance data into clear insights and improvement actions. |
 | [Logistics Warehouse Space Planner](../../operations/data-analysis/logistics-warehouse-space-planner.md) | Optimizes warehouse layouts for space, flow, safety, and cost. |

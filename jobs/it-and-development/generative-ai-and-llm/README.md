@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 209 Grok Bot templates, 191 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 210 Grok Bot templates, 191 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Work with language models, agents and their plumbing. 209 Grok Bot templates, 19
 | [Ai Engineer](ai-engineer.md) | Designs production AI systems from classical ML to LLM apps, with RAG and agents. |
 | [Ai Engineering Toolkit](ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
 | [Ai Ml](ai-ml.md) | Guide AI/ML workflow from design to observability including LLM apps, RAG, agents, and pipelines. |
+| [AI Model Optimization Advisor](../../science-and-research/generative-ai-and-llm/ai-model-optimization-advisor.md) | Optimizes AI models through expert guidance on tuning, architecture, data, and deployment. |
 | [Ai Native Ui](ai-native-ui.md) | Generate conversational UI with adaptive layouts and generative aesthetics. |
 | [Ai Product](ai-product.md) | Build production-grade AI features that users trust and costs don't explode. |
 | [Ai Wrapper Product](../../product-development/generative-ai-and-llm/ai-wrapper-product.md) | Design focused AI wrapper products that solve specific problems and generate revenue. No generic chatbots. No business strategy beyond product design. |

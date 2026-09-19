@@ -1,16 +1,19 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 50 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 58 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Air Quality Monitoring Assistant](../../science-and-research/data-analysis/air-quality-monitoring-assistant.md) | Turns air quality data into forecasts, compliance reports, and public alerts for environmental engineers. |
 | [AML Due Diligence Drafter](../../legal/data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
 | [Bid Analysis and Selection Assistant](../../operations/data-analysis/bid-analysis-and-selection-assistant.md) | Analyzes bids, compares suppliers, and supports procurement decisions with data-driven insights. |
 | [Big Data Analysis Planner](../../science-and-research/data-analysis/big-data-analysis-planner.md) | Big data analysis assistant for research associates, from collection to insight. |
+| [Biodiversity Conservation Planner](../../science-and-research/data-analysis/biodiversity-conservation-planner.md) | Plans and monitors biodiversity conservation with data analysis and stakeholder input. |
 | [Biodiversity Impact Analyst](../../science-and-research/data-analysis/biodiversity-impact-analyst.md) | Turns biodiversity data into impact analyses, reports, and conservation strategies. |
 | [Budget Forecast Assistant](../../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
+| [Climate Impact Study Assistant](../../science-and-research/data-analysis/climate-impact-study-assistant.md) | Turns climate data and policy into impact studies, risk assessments, and adaptation plans. |
 | [Climate Risk Assessment Assistant](../../science-and-research/data-analysis/climate-risk-assessment-assistant.md) | Turns climate data into risk assessments, reports, and resilience plans for sustainability analysts. |
 | [Compliance Benchmarking Analyst](../../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
 | [Compliance Cost Analyst](../../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
@@ -28,11 +31,14 @@ Clean, query, chart and explain data. 50 Grok Bot templates, 0 of them filed in 
 | [Data Reporting Assistant](../../operations/data-analysis/data-reporting-assistant.md) | Turns raw data into clean, analyzed, and presentation-ready reports for data entry specialists. |
 | [Data Validation Assistant](../../operations/data-analysis/data-validation-assistant.md) | Validates and cleans data entry work with routines for formatting, duplicates, consistency, and quality. |
 | [Employee Template Tracking Planner](../../education/data-analysis/employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
+| [Environmental Risk Assessment Assistant](../../science-and-research/data-analysis/environmental-risk-assessment-assistant.md) | Assists environmental engineers with risk assessment, analysis, reporting, and compliance. |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
+| [Hydrogeology Data Analyst](../../science-and-research/data-analysis/hydrogeology-data-analyst.md) | Analyzes hydrogeological data and drafts reports, models, and plans for groundwater work. |
 | [Junta Auctioneers](../../operations/data-analysis/junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Market Trend Analysis Assistant](../../operations/data-analysis/market-trend-analysis-assistant.md) | Analyzes market trends and compiles reports to support procurement decisions. |
 | [Media Monitoring Assistant](../../pr-and-communications/data-analysis/media-monitoring-assistant.md) | Audits crisis communication plans, media coverage, and team performance to strengthen crisis response. |
+| [Natural Hazard Analysis Assistant](../../science-and-research/data-analysis/natural-hazard-analysis-assistant.md) | Turns geological and climate data into hazard analyses, maps, and preparedness plans. |
 | [Operational KPI Dashboard Designer](../../operations/data-analysis/operational-kpi-dashboard-designer.md) | Designs and maintains operational KPI dashboards with data integration, analysis, and reporting. |
 | [Performance Metrics Manager](../../management/data-analysis/performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Procurement Risk Assessor](../../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
@@ -56,5 +62,7 @@ Clean, query, chart and explain data. 50 Grok Bot templates, 0 of them filed in 
 | [Urban Sustainability Analyst](../../science-and-research/data-analysis/urban-sustainability-analyst.md) | Analyzes urban data and recommends sustainable planning actions for sustainability analysts. |
 | [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Vendor Proposal Comparator](../../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
+| [Waste Management Analyst](../../science-and-research/data-analysis/waste-management-analyst.md) | Analyzes waste streams, ensures compliance, and optimizes sustainable waste management for environmental engineers. |
+| [Water Quality Assessment Assistant](../../science-and-research/data-analysis/water-quality-assessment-assistant.md) | Assesses water quality data, ensures compliance, and designs monitoring tools for environmental engineers. |
 
 [← All Government templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/government)

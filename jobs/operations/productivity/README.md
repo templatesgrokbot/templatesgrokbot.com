@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 167 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 171 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -77,6 +77,10 @@ Plan, prioritise and clear the recurring admin. 167 Grok Bot templates, 110 of t
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
 | [Jobgpt](../../human-resources/productivity/jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |
+| [Lab Maintenance Scheduler](../../science-and-research/productivity/lab-maintenance-scheduler.md) | Builds and manages lab equipment maintenance schedules, checklists, and records for technicians. |
+| [Lab Stock Forecast Alerts](../../science-and-research/productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
+| [Lab Supply Chain Manager](../../science-and-research/productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |
+| [Laboratory Equipment Maintenance Scheduler](../../science-and-research/productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
 | [Legal Billing and Timekeeping Assistant](../../legal/productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
 | [Logistics Crisis Planner](logistics-crisis-planner.md) | Turns logistics crisis data into risk reports, plans, and drills. |
 | [Logistics Operations Coordinator](logistics-operations-coordinator.md) | Handles logistics coordination tasks from shipment tracking to fleet management. |

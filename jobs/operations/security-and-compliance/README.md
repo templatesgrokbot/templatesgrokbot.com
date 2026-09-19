@@ -1,6 +1,6 @@
 # Security & Compliance templates for Operations
 
-Authorised security testing, audits and regulatory work. 91 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 95 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,8 @@ Authorised security testing, audits and regulatory work. 91 Grok Bot templates, 
 | [Aws Compliance Checker](../../it-and-development/security-and-compliance/aws-compliance-checker.md) | Automated compliance checks against CIS, PCI-DSS, HIPAA, and SOC 2 for AWS. |
 | [Business Unit Risk Manager](../../management/security-and-compliance/business-unit-risk-manager.md) | Risk management assistant for business unit managers covering identification, assessment, mitigation, monitoring, and reporting. |
 | [Check Identity Pack](check-identity-pack.md) | Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing. |
+| [Chemical Compliance Assistant](../../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
+| [Chemical Safety Protocol Developer](../../science-and-research/security-and-compliance/chemical-safety-protocol-developer.md) | Develops and maintains chemical safety protocols from hazard ID to audits. |
 | [Claims Compliance Assistant](claims-compliance-assistant.md) | Checks insurance claims for regulatory compliance from policy to audit. |
 | [Compliance and Regulatory Updates Assistant](compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
 | [Compliance Audit Preparation Assistant](../../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
@@ -25,6 +27,7 @@ Authorised security testing, audits and regulatory work. 91 Grok Bot templates, 
 | [Digital Forensics](../../it-and-development/security-and-compliance/digital-forensics.md) | Authorized digital forensics: memory, disk, PCAP, and artifact triage for incident response. |
 | [EHS Safety Assistant](ehs-safety-assistant.md) | Handles EHS hazard checks, training, compliance, and incident analysis for safety engineers. |
 | [Emergency Response Planner](emergency-response-planner.md) | Emergency response planning assistant for safety engineers, from risk assessment to post-emergency review. |
+| [Environmental Audit Assistant](../../science-and-research/security-and-compliance/environmental-audit-assistant.md) | Builds environmental audit tools and analyzes data for consultants. |
 | [Environmental Compliance Assistant](../../legal/security-and-compliance/environmental-compliance-assistant.md) | Supports environmental compliance officers with research, documentation, audits, and reporting. |
 | [Environmental Impact Assessment Assistant](../../management/security-and-compliance/environmental-impact-assessment-assistant.md) | Environmental impact assessments and compliance for plant managers, from data to reports. |
 | [Ethical Compliance Assessment Assistant](../../legal/security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
@@ -95,6 +98,7 @@ Authorised security testing, audits and regulatory work. 91 Grok Bot templates, 
 | [Varlock Claude](../../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
 | [Verify Document](verify-document.md) | Check PDFs and images for tampering signals before relying on them. |
 | [Vulnerability Scanner](../../it-and-development/security-and-compliance/vulnerability-scanner.md) | Scans codebases for vulnerabilities using OWASP 2025 and supply chain risk analysis with prioritized fixes. |
+| [Waste Management Consulting Assistant](../../science-and-research/security-and-compliance/waste-management-consulting-assistant.md) | Analyzes waste streams, ensures compliance, and builds tailored reduction plans for environmental consultants. |
 | [Whistleblower Policy Manager](../../legal/security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 | [Windows Ad](../../it-and-development/security-and-compliance/windows-ad.md) | Run authorized Active Directory attacks: Kerberos, AD CS, BloodHound, NTLM relay. |
 

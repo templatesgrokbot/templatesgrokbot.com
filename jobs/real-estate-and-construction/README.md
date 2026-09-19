@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **103 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **109 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,15 @@ Property, building and site work. **103 ready-made Grok Bot templates** for this
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 26 |
-| [Productivity](productivity/README.md) | 19 |
+| [Data Analysis](data-analysis/README.md) | 27 |
+| [Productivity](productivity/README.md) | 20 |
 | [Security & Compliance](security-and-compliance/README.md) | 16 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 13 |
-| [Research](research/README.md) | 11 |
+| [Research](research/README.md) | 12 |
 | [Writing & Content](writing-and-content/README.md) | 7 |
+| [Design](design/README.md) | 5 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 5 |
 | [Knowledge Management](knowledge-management/README.md) | 3 |
-| [Design](design/README.md) | 2 |
 | [Support & Community](support-and-community/README.md) | 1 |
 
 ## Data Analysis
@@ -35,6 +35,7 @@ Property, building and site work. **103 ready-made Grok Bot templates** for this
 | [Construction Budget Estimator](data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Construction Risk Assessment Assistant](data-analysis/construction-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates construction project risks with AI-driven insights. |
 | [Defect Identification Assistant](../operations/data-analysis/defect-identification-assistant.md) | Analyzes defects across images, data, text, and processes, and drives quality improvements. |
+| [Energy Audit Analyst](../science-and-research/data-analysis/energy-audit-analyst.md) | Turns energy data into audit findings, savings, and reports for energy engineers. |
 | [Energy Audit Assistant](../science-and-research/data-analysis/energy-audit-assistant.md) | Turns energy data into audit findings, savings plans, and compliance-ready reports. |
 | [Energy Consumption Optimization Assistant](../operations/data-analysis/energy-consumption-optimization-assistant.md) | Optimizes your facility's energy use through data analysis, audits, and actionable efficiency strategies. |
 | [Energy Consumption Optimizer](../operations/data-analysis/energy-consumption-optimizer.md) | Optimizes your facility's energy use through data analysis, recommendations, and reporting. |
@@ -63,6 +64,7 @@ Property, building and site work. **103 ready-made Grok Bot templates** for this
 | [Construction Progress Monitor](productivity/construction-progress-monitor.md) | Tracks construction progress, budgets, risks, and reports for contractors. |
 | [Construction Project Planner](productivity/construction-project-planner.md) | Plans, schedules, and tracks construction projects from site assessment to completion. |
 | [Construction Workforce Allocator](productivity/construction-workforce-allocator.md) | Optimizes construction workforce scheduling, allocation, tracking, and development. |
+| [Electrification Project Planner](../science-and-research/productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Facility Operations Planner](../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
 | [Facility Ops Chat Manager](../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
 | [Hotel Maintenance Schedule Coordinator](../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
@@ -126,6 +128,7 @@ Property, building and site work. **103 ready-made Grok Bot templates** for this
 | [Contract Risk Assessment Assistant](../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
 | [Contract Risk Reviewer](../legal/research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
 | [Dispute Resolution Support Assistant](../legal/research/dispute-resolution-support-assistant.md) | Supports contract administrators through every stage of dispute resolution. |
+| [Green Infrastructure Planning Assistant](../science-and-research/research/green-infrastructure-planning-assistant.md) | Green infrastructure planning assistant for environmental consultants, from site analysis to funding and monitoring. |
 | [Lease Reader](../legal/research/lease-reader.md) | Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on. |
 | [Legal Auction Analyst](../legal/research/legal-auction-analyst.md) | Analyzes nullities, family homestead and fiduciary alienation in real estate auctions under the CPC and Law 9.514/97. |
 | [Material Requirement Analyst](research/material-requirement-analyst.md) | Material analysis, cost, availability, compliance, and logistics for construction contractors. |
@@ -144,6 +147,16 @@ Property, building and site work. **103 ready-made Grok Bot templates** for this
 | [Property Listing Description Assistant](writing-and-content/property-listing-description-assistant.md) | Crafts compelling, optimized property listings that attract the right buyers and close faster. |
 | [Safety Culture Program Builder](../operations/writing-and-content/safety-culture-program-builder.md) | Builds and runs your safety culture program, from training to campaigns to metrics. |
 
+## Design
+
+| Template | What it does |
+|---|---|
+| [Design and Architecture Consultation Assistant](design/design-and-architecture-consultation-assistant.md) | Guides construction contractors through design, compliance, and material choices for building projects. |
+| [Green Infrastructure Planner](../science-and-research/design/green-infrastructure-planner.md) | Plans green infrastructure projects from site analysis to community engagement. |
+| [Site Layout Planner](design/site-layout-planner.md) | Optimizes construction site layouts and utilization for contractors. |
+| [Sustainable Building Design Assistant](../science-and-research/design/sustainable-building-design-assistant.md) | Sustainable building design assistant for energy engineers, covering modeling, materials, and certifications. |
+| [Sustainable Design Advisor](../science-and-research/design/sustainable-design-advisor.md) | Guides environmental engineers through eco-friendly design decisions and certifications. |
+
 ## Marketing & Growth
 
 | Template | What it does |
@@ -161,13 +174,6 @@ Property, building and site work. **103 ready-made Grok Bot templates** for this
 | [Amendment and Variation Tracker](../legal/knowledge-management/amendment-and-variation-tracker.md) | Tracks contract amendments and variations from log to approval, with alerts and reports. |
 | [Contract Renewal Radar](../legal/knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
 | [Real Estate CE Resource Finder](knowledge-management/real-estate-ce-resource-finder.md) | Finds and tracks continuing education resources for real estate brokers. |
-
-## Design
-
-| Template | What it does |
-|---|---|
-| [Design and Architecture Consultation Assistant](design/design-and-architecture-consultation-assistant.md) | Guides construction contractors through design, compliance, and material choices for building projects. |
-| [Site Layout Planner](design/site-layout-planner.md) | Optimizes construction site layouts and utilization for contractors. |
 
 ## Support & Community
 

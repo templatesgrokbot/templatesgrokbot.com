@@ -1,6 +1,6 @@
 # Research templates for Real Estate and Construction
 
-Find sources, compare evidence and summarise what is known. 11 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 12 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Find sources, compare evidence and summarise what is known. 11 Grok Bot template
 | [Contract Risk Assessment Assistant](../../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
 | [Contract Risk Reviewer](../../legal/research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
 | [Dispute Resolution Support Assistant](../../legal/research/dispute-resolution-support-assistant.md) | Supports contract administrators through every stage of dispute resolution. |
+| [Green Infrastructure Planning Assistant](../../science-and-research/research/green-infrastructure-planning-assistant.md) | Green infrastructure planning assistant for environmental consultants, from site analysis to funding and monitoring. |
 | [Lease Reader](../../legal/research/lease-reader.md) | Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on. |
 | [Legal Auction Analyst](../../legal/research/legal-auction-analyst.md) | Analyzes nullities, family homestead and fiduciary alienation in real estate auctions under the CPC and Law 9.514/97. |
 | [Material Requirement Analyst](material-requirement-analyst.md) | Material analysis, cost, availability, compliance, and logistics for construction contractors. |

@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 142 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 148 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -31,6 +31,7 @@ Plan, prioritise and clear the recurring admin. 142 Grok Bot templates, 49 of th
 | [Clickup Automation](../../operations/productivity/clickup-automation.md) | Automate ClickUp project management via Rube MCP — tasks, hierarchy, comments. |
 | [Client Relationship Manager](client-relationship-manager.md) | Manages all client relationship tasks for an insurance agency manager, from tracking to retention. |
 | [Coda Automation](../../operations/productivity/coda-automation.md) | Automate Coda docs, tables, formulas, permissions, and publishing via MCP. |
+| [Collaborative Project Coordinator](../../science-and-research/productivity/collaborative-project-coordinator.md) | Coordinates collaborative project tasks, communication, and reporting for process development teams. |
 | [Conductor New Track](conductor-new-track.md) | Create a new track with specification and phased implementation plan. |
 | [Conductor Status](conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
 | [Construction Progress Monitor](../../real-estate-and-construction/productivity/construction-progress-monitor.md) | Tracks construction progress, budgets, risks, and reports for contractors. |
@@ -44,8 +45,11 @@ Plan, prioritise and clear the recurring admin. 142 Grok Bot templates, 49 of th
 | [Decision Navigator](decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
 | [Diary](../../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Doordash Group Orders](../../operations/productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
+| [Ecosystem Restoration Planner](../../science-and-research/productivity/ecosystem-restoration-planner.md) | Plans ecosystem restoration projects from data gathering to long-term management. |
 | [Editorial Calendar Management Assistant](../../pr-and-communications/productivity/editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |
+| [Electrification Project Planner](../../science-and-research/productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Employee Scheduling Optimizer](../../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
+| [Experiment Planning Assistant](../../science-and-research/productivity/experiment-planning-assistant.md) | Plans experiments from literature to approval, with budget, risk, and team coordination. |
 | [Facility Ops Chat Manager](../../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
 | [Famulor](../../operations/productivity/famulor-skill.md) | Operate Famulor assistants, calls, campaigns, messaging, and workspace settings through its MCP server. |
 | [File Organizer](../../operations/productivity/file-organizer.md) | Analyzes, deduplicates, and restructures your files into a logical folder hierarchy. |
@@ -71,6 +75,8 @@ Plan, prioritise and clear the recurring admin. 142 Grok Bot templates, 49 of th
 | [Jira](jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
 | [Kody](kody.md) | Coordinates priorities across people, projects, and assistants. |
+| [Lab Collaboration Coordinator](../../science-and-research/productivity/lab-collaboration-coordinator.md) | Coordinates lab communication, collaboration, and reporting for smooth team operations. |
+| [Laboratory Equipment Maintenance Scheduler](../../science-and-research/productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
 | [Linear Automation](../../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
 | [Linear for Claude](../../product-development/productivity/linear-claude-skill.md) | Manage Linear issues, projects, and teams via API. |
 | [Logistics Crisis Planner](../../operations/productivity/logistics-crisis-planner.md) | Turns logistics crisis data into risk reports, plans, and drills. |

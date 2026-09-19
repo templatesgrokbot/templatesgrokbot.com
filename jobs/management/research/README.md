@@ -1,6 +1,6 @@
 # Research templates for Management
 
-Find sources, compare evidence and summarise what is known. 63 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 64 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,6 +28,7 @@ Find sources, compare evidence and summarise what is known. 63 Grok Bot template
 | [Go In Depth](../../science-and-research/research/go-in-depth.md) | Fan-out web searches, fetch sources, adversarially verify claims, and synthesize a cited report. |
 | [HR Talent Management Advisor](hr-talent-management-advisor.md) | HR and talent management advisor for consultants: retention, performance, succession, diversity, hiring, engagement, training, compensation,… |
 | [Kotler Macro Analyzer](../../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
+| [Laboratory Protocol Optimizer](../../science-and-research/research/laboratory-protocol-optimizer.md) | Optimizes laboratory protocols from literature review to validation, with data-driven recommendations and approval gates. |
 | [Logistics Exception Management](../../operations/research/logistics-exception-management.md) | Resolve freight exceptions, delays, damages, and carrier disputes with structured workflows. |
 | [Market Analysis Navigator](market-analysis-navigator.md) | Runs full market analysis for management consultants, from research to forecasting. |
 | [Market Research Analyst](../../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |

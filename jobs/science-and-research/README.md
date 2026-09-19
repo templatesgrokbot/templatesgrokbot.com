@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **420 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **556 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,37 +11,23 @@ Scientists, analysts and academic researchers. **420 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Research](research/README.md) | 160 |
-| [Data Analysis](data-analysis/README.md) | 122 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 65 |
+| [Data Analysis](data-analysis/README.md) | 189 |
+| [Research](research/README.md) | 181 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 67 |
 | [Coding](coding/README.md) | 31 |
-| [Writing & Content](writing-and-content/README.md) | 12 |
+| [Security & Compliance](security-and-compliance/README.md) | 24 |
+| [Writing & Content](writing-and-content/README.md) | 16 |
+| [Productivity](productivity/README.md) | 13 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 10 |
-| [Security & Compliance](security-and-compliance/README.md) | 6 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
-| [Design](design/README.md) | 2 |
-| [Productivity](productivity/README.md) | 2 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 9 |
+| [Design](design/README.md) | 6 |
+| [Knowledge Management](knowledge-management/README.md) | 3 |
+| [Support & Community](support-and-community/README.md) | 2 |
 | [Generative Art](generative-art/README.md) | 1 |
-| [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
-
-## Research
-
-| Template | What it does |
-|---|---|
-| [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
-| [Labarchive Integration](research/labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
-| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
-| [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
-| [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
-| [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
-| [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
-| [Academic Researcher](research/academic-researcher.md) | Searches scholarly databases, analyzes papers, and writes structured findings to a markdown file. |
-
-[All 160 Research templates →](research/README.md)
 
 ## Data Analysis
 
@@ -56,7 +42,22 @@ Scientists, analysts and academic researchers. **420 ready-made Grok Bot templat
 | [Statistical Analysis](data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 | [Astropy](data-analysis/astropy.md) | Astronomical data analysis with Astropy: coordinates, units, FITS, cosmology, time, tables, WCS. |
 
-[All 122 Data Analysis templates →](data-analysis/README.md)
+[All 189 Data Analysis templates →](data-analysis/README.md)
+
+## Research
+
+| Template | What it does |
+|---|---|
+| [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
+| [Labarchive Integration](research/labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
+| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
+| [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
+| [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
+| [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
+| [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
+| [Academic Researcher](research/academic-researcher.md) | Searches scholarly databases, analyzes papers, and writes structured findings to a markdown file. |
+
+[All 181 Research templates →](research/README.md)
 
 ## Generative AI and LLM
 
@@ -71,7 +72,7 @@ Scientists, analysts and academic researchers. **420 ready-made Grok Bot templat
 | [Post Training Verl](../it-and-development/generative-ai-and-llm/post-training-verl.md) | Guides reinforcement learning post-training of LLMs using the verl library. |
 | [Nlp Engineer](../it-and-development/generative-ai-and-llm/nlp-engineer.md) | Builds production NLP pipelines for classification, extraction, translation, and sentiment analysis. |
 
-[All 65 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 67 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
 ## Coding
 
@@ -88,6 +89,21 @@ Scientists, analysts and academic researchers. **420 ready-made Grok Bot templat
 
 [All 31 Coding templates →](coding/README.md)
 
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Chemical Compliance Assistant](security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
+| [Chemical Safety Documentation Assistant](security-and-compliance/chemical-safety-documentation-assistant.md) | Keeps lab chemical safety documents current and ready for review. |
+| [R&D Regulatory Navigator](../product-development/security-and-compliance/r-d-regulatory-navigator.md) | Regulatory compliance guidance for R&D engineers: research, interpret, document, monitor, audit, train. |
+| [Consultant Compliance Research](security-and-compliance/consultant-compliance-research.md) | Environmental compliance research, audits, permits, training, and reporting support for consultants. |
+| [Environmental Monitoring Manager](security-and-compliance/environmental-monitoring-manager.md) | Environmental monitoring assistant for laboratory managers, from data collection to compliance and audits. |
+| [Biohazard Safety Protocol Assistant](security-and-compliance/biohazard-safety-protocol-assistant.md) | Biohazard management assistant for laboratory technicians: protocols, labels, training, and risk assessment. |
+| [Lab Safety Checklist Generator](security-and-compliance/lab-safety-checklist-generator.md) | Generates and verifies lab safety compliance checklists for laboratory technicians. |
+| [Regulation Risk Drafts for Engineers](security-and-compliance/regulation-risk-drafts-for-engineers.md) | Tracks environmental laws, flags compliance risks, and drafts the paperwork to stay legal. |
+
+[All 24 Security & Compliance templates →](security-and-compliance/README.md)
+
 ## Writing & Content
 
 | Template | What it does |
@@ -97,11 +113,26 @@ Scientists, analysts and academic researchers. **420 ready-made Grok Bot templat
 | [Technical Documentation Assistant](../product-development/writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
 | [Scientific Writing](writing-and-content/scientific-writing.md) | Drafts full-paragraph scientific manuscripts using IMRAD structure with verified citations and figures. |
 | [Latex Paper Conversion](writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
+| [Permit-Ready EIA Report Builder](writing-and-content/permit-ready-eia-report-builder.md) | Supports environmental consultants with impact assessments from data collection to permit-ready reports. |
 | [Stakeholder Engagement Strategist](writing-and-content/stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
 | [Grant Proposal Support Assistant](writing-and-content/grant-proposal-support-assistant.md) | Finds funding, drafts, budgets, reviews, and aligns grant proposals for research projects. |
-| [Research Grants](writing-and-content/research-grants.md) | Writes competitive research proposals for NSF, NIH, DOE, and DARPA with agency-specific formatting and review criteria. |
 
-[All 12 Writing & Content templates →](writing-and-content/README.md)
+[All 16 Writing & Content templates →](writing-and-content/README.md)
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Laboratory Equipment Maintenance Scheduler](productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
+| [Lab Stock Forecast Alerts](productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
+| [Lab Supply Chain Manager](productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |
+| [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
+| [Geological Fieldwork Planner](productivity/geological-fieldwork-planner.md) | Plans geological fieldwork from site research to permits, logistics, and safety. |
+| [Process Development Time Optimizer](productivity/process-development-time-optimizer.md) | Plans and tracks a process development scientist's day to cut wasted time. |
+| [Experiment Planning Assistant](productivity/experiment-planning-assistant.md) | Plans experiments from literature to approval, with budget, risk, and team coordination. |
+| [CSR Planning Assistant](productivity/csr-planning-assistant.md) | Plans and manages corporate social responsibility initiatives from stakeholder input to impact reporting. |
+
+[All 13 Productivity templates →](productivity/README.md)
 
 ## Cloud & DevOps
 
@@ -118,25 +149,20 @@ Scientists, analysts and academic researchers. **420 ready-made Grok Bot templat
 
 [All 10 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [R&D Regulatory Navigator](../product-development/security-and-compliance/r-d-regulatory-navigator.md) | Regulatory compliance guidance for R&D engineers: research, interpret, document, monitor, audit, train. |
-| [Malware Analyst](../it-and-development/security-and-compliance/malware-analyst.md) | Defensive malware analysis: triage, static/dynamic analysis, IOC extraction, and reporting. |
-| [Ethical Compliance Guidance Assistant](security-and-compliance/ethical-compliance-guidance-assistant.md) | Guides ethical compliance in research with guidelines, training, audits, and reporting. |
-| [Protocol Reverse Engineering](../it-and-development/security-and-compliance/protocol-reverse-engineering.md) | Capture, analyze, and document network protocols for security research and debugging. |
-| [R&D EIA Report Builder](../product-development/security-and-compliance/r-d-eia-report-builder.md) | Streamlines environmental impact assessments from data collection to reporting and monitoring. |
-| [Anti Reversing Techniques](../it-and-development/security-and-compliance/anti-reversing-techniques.md) | Analyze anti-debugging and obfuscation in binaries with written authorization only. |
-
 ## Teaching & Tutoring
 
 | Template | What it does |
 |---|---|
 | [Lightning Factory Explainer](../education/teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
+| [Environmental Education Content Creator](teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
 | [Yann LeCun Philosophy](../education/teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
 | [Geoffrey Hinton](../education/teaching-and-tutoring/geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
-| [Yann LeCun Debate](../education/teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
+| [Laboratory Training and Onboarding Assistant](teaching-and-tutoring/laboratory-training-and-onboarding-assistant.md) | Designs and manages lab training and onboarding from materials to evaluation. |
+| [Reinforcement Learning Strategist](teaching-and-tutoring/reinforcement-learning-strategist.md) | Designs and explains reinforcement learning strategies for data scientists, from theory to applied systems. No hype, just the math and the build. |
+| [Chemical Engineering Study Assistant](teaching-and-tutoring/chemical-engineering-study-assistant.md) | Supports chemical engineering students and professionals with study help, research, and career guidance. |
+| [Culture Protocol Assistant](teaching-and-tutoring/culture-protocol-assistant.md) | Aseptic culture assistant for microbiologists—media, isolation, preservation, scale-up and quality control. |
+
+[All 9 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Design
 
@@ -144,25 +170,31 @@ Scientists, analysts and academic researchers. **420 ready-made Grok Bot templat
 |---|---|
 | [Pptx Posters](../creatives/design/pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Scientific Slides](../education/design/scientific-slides.md) | Build slide decks and presentations for research talks. |
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [CSR Planning Assistant](productivity/csr-planning-assistant.md) | Plans and manages corporate social responsibility initiatives from stakeholder input to impact reporting. |
-| [Protocolsio Integration](productivity/protocolsio-integration.md) | Manage scientific protocols on protocols.io via API: search, create, update, publish, and organize. No hype, no emoji, no 'leverage'/'empower'/'seamle |
-
-## Generative Art
-
-| Template | What it does |
-|---|---|
-| [Scientific Schematics](generative-art/scientific-schematics.md) | Generate publication-quality scientific diagrams from natural language descriptions. |
+| [Sustainable Design Advisor](design/sustainable-design-advisor.md) | Guides environmental engineers through eco-friendly design decisions and certifications. |
+| [Chemical Plant Design Assistant](design/chemical-plant-design-assistant.md) | Supports chemical engineers with plant design tasks from material selection to troubleshooting. |
+| [Green Infrastructure Planner](design/green-infrastructure-planner.md) | Plans green infrastructure projects from site analysis to community engagement. |
+| [Sustainable Building Design Assistant](design/sustainable-building-design-assistant.md) | Sustainable building design assistant for energy engineers, covering modeling, materials, and certifications. |
 
 ## Knowledge Management
 
 | Template | What it does |
 |---|---|
 | [Compile Knowledge](../it-and-development/knowledge-management/compile-knowledge.md) | Compile durable, non-obvious findings into interlinked markdown knowledge files with an index. |
+| [Data Storage and Management Assistant](knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
+| [Laboratory SOP Manager](knowledge-management/laboratory-sop-manager.md) | Creates, reviews, and manages lab SOPs with version control and compliance checks. |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Lab Equipment Troubleshooting Assistant](support-and-community/lab-equipment-troubleshooting-assistant.md) | Guides lab technicians through equipment troubleshooting, maintenance, and documentation. |
+| [Chemical Engineering Software Advisor](support-and-community/chemical-engineering-software-advisor.md) | Guides chemical engineers through software selection, troubleshooting, and optimization workflows. |
+
+## Generative Art
+
+| Template | What it does |
+|---|---|
+| [Scientific Schematics](generative-art/scientific-schematics.md) | Generate publication-quality scientific diagrams from natural language descriptions. |
 
 ## Marketing & Growth
 

@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 4671,
+ "count": 4817,
  "templates": [
   {
    "slug": "007",
@@ -545,6 +545,21 @@
    "url": "https://templatesgrokbot.com/bot/activecampaign-automation",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "activity-ideas-assistant",
+   "name": "Activity Ideas Assistant",
+   "tagline": "Generates classroom activity ideas across subjects and formats for teachers.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "generative-art"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/activity-ideas-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/activity-ideas-assistant"
   },
   {
    "slug": "ad-campaign-analyzer",
@@ -1887,6 +1902,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "ai-model-optimization-advisor",
+   "name": "AI Model Optimization Advisor",
+   "tagline": "Optimizes AI models through expert guidance on tuning, architecture, data, and deployment.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/science-and-research/generative-ai-and-llm/ai-model-optimization-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/ai-model-optimization-advisor"
+  },
+  {
    "slug": "ai-native-cli",
    "name": "Ai Native Cli",
    "tagline": "Design CLI tools that AI agents can safely invoke and parse.",
@@ -2041,6 +2072,21 @@
    "url": "https://templatesgrokbot.com/bot/aider-delegate",
    "adapted_from": "https://github.com/amElnagdy/delegate-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "air-quality-monitoring-assistant",
+   "name": "Air Quality Monitoring Assistant",
+   "tagline": "Turns air quality data into forecasts, compliance reports, and public alerts for environmental engineers.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "government"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/air-quality-monitoring-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/air-quality-monitoring-assistant"
   },
   {
    "slug": "airflow-dag-patterns",
@@ -2231,6 +2277,22 @@
    "url": "https://templatesgrokbot.com/bot/alphafold-database",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/alphafold-database",
    "source_license": "MIT"
+  },
+  {
+   "slug": "alternative-fuel-research-assistant",
+   "name": "Alternative Fuel Research Assistant",
+   "tagline": "Accelerates alternative fuel research by analyzing data, summarizing studies, and drafting proposals.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/alternative-fuel-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/alternative-fuel-research-assistant"
   },
   {
    "slug": "alternatives-pages",
@@ -2879,6 +2941,22 @@
    "url": "https://templatesgrokbot.com/bot/anti-ui-slop",
    "adapted_from": "https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "antibiotic-resistance-research-assistant",
+   "name": "Antibiotic Resistance Research Assistant",
+   "tagline": "Supports microbiologists in antibiotic resistance research from literature to publication.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/antibiotic-resistance-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/antibiotic-resistance-research-assistant"
   },
   {
    "slug": "antigravity-agent-manager",
@@ -8001,6 +8079,21 @@
    "url": "https://templatesgrokbot.com/bot/bid-analysis-and-selection-assistant"
   },
   {
+   "slug": "big-data-analysis-guide",
+   "name": "Big Data Analysis Guide",
+   "tagline": "Guides data scientists through big data analysis from cleaning to visualization.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/science-and-research/data-analysis/big-data-analysis-guide.md",
+   "url": "https://templatesgrokbot.com/bot/big-data-analysis-guide"
+  },
+  {
    "slug": "big-data-analysis-planner",
    "name": "Big Data Analysis Planner",
    "tagline": "Big data analysis assistant for research associates, from collection to insight.",
@@ -8124,6 +8217,39 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "biochemical-engineering-support",
+   "name": "Biochemical Engineering Support",
+   "tagline": "Optimize biochemical processes, analyze data, and support research for chemical engineers.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/science-and-research/data-analysis/biochemical-engineering-support.md",
+   "url": "https://templatesgrokbot.com/bot/biochemical-engineering-support"
+  },
+  {
+   "slug": "biodiversity-conservation-planner",
+   "name": "Biodiversity Conservation Planner",
+   "tagline": "Plans and monitors biodiversity conservation with data analysis and stakeholder input.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/biodiversity-conservation-planner.md",
+   "url": "https://templatesgrokbot.com/bot/biodiversity-conservation-planner"
+  },
+  {
    "slug": "biodiversity-impact-analyst",
    "name": "Biodiversity Impact Analyst",
    "tagline": "Turns biodiversity data into impact analyses, reports, and conservation strategies.",
@@ -8139,6 +8265,22 @@
    ],
    "path": "jobs/science-and-research/data-analysis/biodiversity-impact-analyst.md",
    "url": "https://templatesgrokbot.com/bot/biodiversity-impact-analyst"
+  },
+  {
+   "slug": "biohazard-safety-protocol-assistant",
+   "name": "Biohazard Safety Protocol Assistant",
+   "tagline": "Biohazard management assistant for laboratory technicians: protocols, labels, training, and risk assessment.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/biohazard-safety-protocol-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/biohazard-safety-protocol-assistant"
   },
   {
    "slug": "biomni",
@@ -8175,6 +8317,21 @@
    "url": "https://templatesgrokbot.com/bot/biopython",
    "adapted_from": "https://github.com/biopython/biopython",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "bioremediation-research-assistant",
+   "name": "Bioremediation Research Assistant",
+   "tagline": "Supports microbiologists with bioremediation research, data analysis, and strategy design.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/research/bioremediation-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/bioremediation-research-assistant"
   },
   {
    "slug": "biorxiv-database",
@@ -10107,6 +10264,23 @@
    "url": "https://templatesgrokbot.com/bot/calibration-and-maintenance-scheduler"
   },
   {
+   "slug": "calibration-assistant-for-lab-technicians",
+   "name": "Calibration Assistant for Lab Technicians",
+   "tagline": "Guides lab technicians through calibration tasks, from equipment selection to compliance.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/calibration-assistant-for-lab-technicians.md",
+   "url": "https://templatesgrokbot.com/bot/calibration-assistant-for-lab-technicians"
+  },
+  {
    "slug": "call-handling-assistant",
    "name": "Call Handling Assistant",
    "tagline": "Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more.",
@@ -10346,6 +10520,20 @@
    "url": "https://templatesgrokbot.com/bot/carbon-footprint-analysis-assistant"
   },
   {
+   "slug": "carbon-footprint-assessment-assistant",
+   "name": "Carbon Footprint Assessment Assistant",
+   "tagline": "Guides energy engineers through carbon footprint assessment and reduction strategies.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/carbon-footprint-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/carbon-footprint-assessment-assistant"
+  },
+  {
    "slug": "card-based-design",
    "name": "Card Based Design",
    "tagline": "Generate card-based UI layouts with responsive grids and encapsulated content containers.",
@@ -10479,6 +10667,21 @@
    "url": "https://templatesgrokbot.com/bot/cash-flow-forecaster",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cash-flow-forecaster",
    "source_license": "MIT"
+  },
+  {
+   "slug": "catalyst-design-and-testing-assistant",
+   "name": "Catalyst Design and Testing Assistant",
+   "tagline": "Catalyst design and testing assistant for chemical engineers, from screening to scale-up.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/research/catalyst-design-and-testing-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/catalyst-design-and-testing-assistant"
   },
   {
    "slug": "cdk-patterns",
@@ -10829,6 +11032,229 @@
    "url": "https://templatesgrokbot.com/bot/chembl-database",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/chembl-database",
    "source_license": "MIT"
+  },
+  {
+   "slug": "chemical-compliance-assistant",
+   "name": "Chemical Compliance Assistant",
+   "tagline": "Manages chemical compliance: inventory, permits, reports, audits, and training.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/chemical-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-compliance-assistant"
+  },
+  {
+   "slug": "chemical-data-visualization-assistant",
+   "name": "Chemical Data Visualization Assistant",
+   "tagline": "Turns chemical data into clear visualizations for engineers and researchers.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "design"
+   ],
+   "path": "jobs/science-and-research/data-analysis/chemical-data-visualization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-data-visualization-assistant"
+  },
+  {
+   "slug": "chemical-database-manager",
+   "name": "Chemical Database Manager",
+   "tagline": "Manages chemical databases end-to-end: entry, validation, maintenance, analysis, reporting, and compliance tracking for chemical engineers.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/science-and-research/data-analysis/chemical-database-manager.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-database-manager"
+  },
+  {
+   "slug": "chemical-engineering-software-advisor",
+   "name": "Chemical Engineering Software Advisor",
+   "tagline": "Guides chemical engineers through software selection, troubleshooting, and optimization workflows.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "support-and-community",
+    "data-analysis",
+    "teaching-and-tutoring",
+    "research"
+   ],
+   "path": "jobs/science-and-research/support-and-community/chemical-engineering-software-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-engineering-software-advisor"
+  },
+  {
+   "slug": "chemical-engineering-study-assistant",
+   "name": "Chemical Engineering Study Assistant",
+   "tagline": "Supports chemical engineering students and professionals with study help, research, and career guidance.",
+   "category": "education",
+   "jobs": [
+    "science-and-research",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/teaching-and-tutoring/chemical-engineering-study-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-engineering-study-assistant"
+  },
+  {
+   "slug": "chemical-plant-design-assistant",
+   "name": "Chemical Plant Design Assistant",
+   "tagline": "Supports chemical engineers with plant design tasks from material selection to troubleshooting.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/science-and-research/design/chemical-plant-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-plant-design-assistant"
+  },
+  {
+   "slug": "chemical-process-optimizer",
+   "name": "Chemical Process Optimizer",
+   "tagline": "Optimizes chemical processes through data analysis, simulation, and improvement recommendations.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/chemical-process-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-process-optimizer"
+  },
+  {
+   "slug": "chemical-process-troubleshooter",
+   "name": "Chemical Process Troubleshooter",
+   "tagline": "Diagnose chemical process issues from data and recommend fixes for your plant.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/chemical-process-troubleshooter.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-process-troubleshooter"
+  },
+  {
+   "slug": "chemical-reaction-simulation-assistant",
+   "name": "Chemical Reaction Simulation Assistant",
+   "tagline": "Simulates and optimizes chemical reactions for chemical engineers.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/chemical-reaction-simulation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-reaction-simulation-assistant"
+  },
+  {
+   "slug": "chemical-safety-documentation-assistant",
+   "name": "Chemical Safety Documentation Assistant",
+   "tagline": "Keeps lab chemical safety documents current and ready for review.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "knowledge-management",
+    "productivity"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/chemical-safety-documentation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-safety-documentation-assistant"
+  },
+  {
+   "slug": "chemical-safety-protocol-developer",
+   "name": "Chemical Safety Protocol Developer",
+   "tagline": "Develops and maintains chemical safety protocols from hazard ID to audits.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/chemical-safety-protocol-developer.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-safety-protocol-developer"
+  },
+  {
+   "slug": "chemical-sensor-development-assistant",
+   "name": "Chemical Sensor Development Assistant",
+   "tagline": "Guides chemical sensor development from literature review through design, testing, and compliance.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/science-and-research/research/chemical-sensor-development-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-sensor-development-assistant"
+  },
+  {
+   "slug": "chemical-supply-chain-analyst",
+   "name": "Chemical Supply Chain Analyst",
+   "tagline": "Analyzes chemical supply chain data to deliver insights, forecasts, and recommendations for engineers.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/chemical-supply-chain-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-supply-chain-analyst"
+  },
+  {
+   "slug": "chemical-waste-optimization",
+   "name": "Chemical Waste Optimization",
+   "tagline": "Waste management analysis and optimization for chemical engineers, from audits to circular economy strategies.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/science-and-research/data-analysis/chemical-waste-optimization.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-waste-optimization"
   },
   {
    "slug": "chieeeeefy",
@@ -11486,6 +11912,21 @@
    "url": "https://templatesgrokbot.com/bot/classroom-management-assistant"
   },
   {
+   "slug": "classroom-routine-architect",
+   "name": "Classroom Routine Architect",
+   "tagline": "Manages classroom routines, behavior, and instruction with AI-assisted planning and tracking.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "productivity"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/classroom-routine-architect.md",
+   "url": "https://templatesgrokbot.com/bot/classroom-routine-architect"
+  },
+  {
    "slug": "classroom-visual-aids-designer",
    "name": "Classroom Visual Aids Designer",
    "tagline": "Designs clear, engaging visual aids for secondary school lessons.",
@@ -12052,6 +12493,37 @@
    "url": "https://templatesgrokbot.com/bot/client-risk-assessment-assistant"
   },
   {
+   "slug": "climate-impact-study-assistant",
+   "name": "Climate Impact Study Assistant",
+   "tagline": "Turns climate data and policy into impact studies, risk assessments, and adaptation plans.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/climate-impact-study-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/climate-impact-study-assistant"
+  },
+  {
+   "slug": "climate-mitigation-analyst",
+   "name": "Climate Mitigation Analyst",
+   "tagline": "Analyzes climate data and develops mitigation strategies for environmental consultants.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/climate-mitigation-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/climate-mitigation-analyst"
+  },
+  {
    "slug": "climate-risk-assessment-assistant",
    "name": "Climate Risk Assessment Assistant",
    "tagline": "Turns climate data into risk assessments, reports, and resilience plans for sustainability analysts.",
@@ -12122,6 +12594,20 @@
    "url": "https://templatesgrokbot.com/bot/clinical-reports",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/clinical-reports",
    "source_license": "MIT"
+  },
+  {
+   "slug": "clinical-trial-data-analyst",
+   "name": "Clinical Trial Data Analyst",
+   "tagline": "Analyzes clinical trial data for microbiologists, from cleaning to reporting.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/clinical-trial-data-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-trial-data-analyst"
   },
   {
    "slug": "clinicaltrials-database",
@@ -13334,6 +13820,23 @@
    "url": "https://templatesgrokbot.com/bot/collaboration-network-expander"
   },
   {
+   "slug": "collaborative-project-coordinator",
+   "name": "Collaborative Project Coordinator",
+   "tagline": "Coordinates collaborative project tasks, communication, and reporting for process development teams.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "knowledge-management",
+    "office-tools"
+   ],
+   "path": "jobs/science-and-research/productivity/collaborative-project-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/collaborative-project-coordinator"
+  },
+  {
    "slug": "collaborative-research-networking-assistant",
    "name": "Collaborative Research Networking Assistant",
    "tagline": "Find collaborators, manage projects, and share research securely from one chat.",
@@ -14349,6 +14852,23 @@
    "url": "https://templatesgrokbot.com/bot/compliance-query-resolution-assistant"
   },
   {
+   "slug": "compliance-report-drafting-for-chemical-engineers",
+   "name": "Compliance Report Drafting for Chemical Engineers",
+   "tagline": "Analyzes environmental impact data and drafts compliance-ready reports for chemical engineers.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/compliance-report-drafting-for-chemical-engineers.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-report-drafting-for-chemical-engineers"
+  },
+  {
    "slug": "compliance-reporting-automation-assistant",
    "name": "Compliance Reporting Automation Assistant",
    "tagline": "Automates compliance reporting from data extraction to audit prep and alerts.",
@@ -15043,6 +15563,23 @@
    ],
    "path": "jobs/real-estate-and-construction/productivity/construction-workforce-allocator.md",
    "url": "https://templatesgrokbot.com/bot/construction-workforce-allocator"
+  },
+  {
+   "slug": "consultant-compliance-research",
+   "name": "Consultant Compliance Research",
+   "tagline": "Environmental compliance research, audits, permits, training, and reporting support for consultants.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/consultant-compliance-research.md",
+   "url": "https://templatesgrokbot.com/bot/consultant-compliance-research"
   },
   {
    "slug": "consultant-logistics-savings-blueprint",
@@ -17651,6 +18188,20 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "culture-protocol-assistant",
+   "name": "Culture Protocol Assistant",
+   "tagline": "Aseptic culture assistant for microbiologists—media, isolation, preservation, scale-up and quality control.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/science-and-research/teaching-and-tutoring/culture-protocol-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/culture-protocol-assistant"
+  },
+  {
    "slug": "curriculum-design-assistant",
    "name": "Curriculum Design Assistant",
    "tagline": "Designs and refines your school's curriculum from research to assessment.",
@@ -17698,6 +18249,22 @@
    ],
    "path": "jobs/education/teaching-and-tutoring/curriculum-mapping-assistant.md",
    "url": "https://templatesgrokbot.com/bot/curriculum-mapping-assistant"
+  },
+  {
+   "slug": "curriculum-planning-assistant",
+   "name": "Curriculum Planning Assistant",
+   "tagline": "Helps teachers plan, align, and differentiate curriculum with AI support.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/curriculum-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/curriculum-planning-assistant"
   },
   {
    "slug": "cursor-delegate",
@@ -19235,6 +19802,25 @@
    "url": "https://templatesgrokbot.com/bot/data-scientist",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "data-storage-and-management-assistant",
+   "name": "Data Storage and Management Assistant",
+   "tagline": "Plans and audits lab data storage, security, and retrieval workflows.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "management",
+    "operations"
+   ],
+   "topics": [
+    "knowledge-management",
+    "security-and-compliance",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/science-and-research/knowledge-management/data-storage-and-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/data-storage-and-management-assistant"
   },
   {
    "slug": "data-storytelling",
@@ -23781,6 +24367,23 @@
    "url": "https://templatesgrokbot.com/bot/economic-impact-analysis-assistant"
   },
   {
+   "slug": "ecosystem-restoration-planner",
+   "name": "Ecosystem Restoration Planner",
+   "tagline": "Plans ecosystem restoration projects from data gathering to long-term management.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/productivity/ecosystem-restoration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/ecosystem-restoration-planner"
+  },
+  {
    "slug": "editor-audience-data-strategist",
    "name": "Editor Audience Data Strategist",
    "tagline": "Analyzes audience data to guide content strategy for editors.",
@@ -23966,6 +24569,21 @@
    "url": "https://templatesgrokbot.com/bot/educational-chatbot-builder"
   },
   {
+   "slug": "educational-game-design-assistant",
+   "name": "Educational Game Design Assistant",
+   "tagline": "Turns your teaching goals into playable educational game concepts, mechanics, and content.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/educational-game-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/educational-game-design-assistant"
+  },
+  {
    "slug": "educational-resource-curator",
    "name": "Educational Resource Curator",
    "tagline": "Curates, evaluates, and organizes educational resources for eLearning developers.",
@@ -24100,6 +24718,24 @@
    ],
    "path": "jobs/education/data-analysis/elearning-feedback-analyzer.md",
    "url": "https://templatesgrokbot.com/bot/elearning-feedback-analyzer"
+  },
+  {
+   "slug": "electrification-project-planner",
+   "name": "Electrification Project Planner",
+   "tagline": "Plans electrification projects from site assessment to performance monitoring.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "real-estate-and-construction",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/productivity/electrification-project-planner.md",
+   "url": "https://templatesgrokbot.com/bot/electrification-project-planner"
   },
   {
    "slug": "electron-angular-native",
@@ -25024,6 +25660,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "energy-audit-analyst",
+   "name": "Energy Audit Analyst",
+   "tagline": "Turns energy data into audit findings, savings, and reports for energy engineers.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/energy-audit-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/energy-audit-analyst"
+  },
+  {
    "slug": "energy-audit-assistant",
    "name": "Energy Audit Assistant",
    "tagline": "Turns energy data into audit findings, savings plans, and compliance-ready reports.",
@@ -25089,6 +25741,82 @@
    "url": "https://templatesgrokbot.com/bot/energy-consumption-optimizer"
   },
   {
+   "slug": "energy-efficiency-analysis-assistant",
+   "name": "Energy Efficiency Analysis Assistant",
+   "tagline": "Analyzes energy data and guides efficiency projects for environmental engineers.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/energy-efficiency-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/energy-efficiency-analysis-assistant"
+  },
+  {
+   "slug": "energy-efficiency-analyst",
+   "name": "Energy Efficiency Analyst",
+   "tagline": "Analyzes energy data, simulates processes, and recommends efficiency improvements for chemical plants.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/energy-efficiency-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/energy-efficiency-analyst"
+  },
+  {
+   "slug": "energy-impact-analysis-assistant",
+   "name": "Energy Impact Analysis Assistant",
+   "tagline": "Analyzes environmental impact of energy systems and proposes sustainable solutions for energy engineers.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/energy-impact-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/energy-impact-analysis-assistant"
+  },
+  {
+   "slug": "energy-market-analysis-assistant",
+   "name": "Energy Market Analysis Assistant",
+   "tagline": "Analyzes energy market data, forecasts trends, and assesses risks for energy engineers.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/energy-market-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/energy-market-analysis-assistant"
+  },
+  {
+   "slug": "energy-policy-analysis-assistant",
+   "name": "Energy Policy Analysis Assistant",
+   "tagline": "Energy policy analysis, from data to recommendations, for energy engineers.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "government"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/research/energy-policy-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/energy-policy-analysis-assistant"
+  },
+  {
    "slug": "energy-procurement",
    "name": "Energy Procurement",
    "tagline": "Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities.",
@@ -25106,6 +25834,21 @@
    "url": "https://templatesgrokbot.com/bot/energy-procurement",
    "adapted_from": "https://github.com/ai-evos/agent-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "energy-storage-solutions-analyst",
+   "name": "Energy Storage Solutions Analyst",
+   "tagline": "Research, analyze, and optimize energy storage solutions for engineering projects.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/research/energy-storage-solutions-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/energy-storage-solutions-analyst"
   },
   {
    "slug": "engine-selection",
@@ -25230,6 +25973,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "environmental-audit-assistant",
+   "name": "Environmental Audit Assistant",
+   "tagline": "Builds environmental audit tools and analyzes data for consultants.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/environmental-audit-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/environmental-audit-assistant"
+  },
+  {
    "slug": "environmental-compliance-assistant",
    "name": "Environmental Compliance Assistant",
    "tagline": "Supports environmental compliance officers with research, documentation, audits, and reporting.",
@@ -25247,6 +26007,53 @@
    ],
    "path": "jobs/legal/security-and-compliance/environmental-compliance-assistant.md",
    "url": "https://templatesgrokbot.com/bot/environmental-compliance-assistant"
+  },
+  {
+   "slug": "environmental-education-content-creator",
+   "name": "Environmental Education Content Creator",
+   "tagline": "Creates environmental education content and training programs for consultants.",
+   "category": "education",
+   "jobs": [
+    "science-and-research",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/science-and-research/teaching-and-tutoring/environmental-education-content-creator.md",
+   "url": "https://templatesgrokbot.com/bot/environmental-education-content-creator"
+  },
+  {
+   "slug": "environmental-gis-assistant",
+   "name": "Environmental GIS Assistant",
+   "tagline": "Turns GIS data into maps, analyses, and reports for environmental consulting.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/environmental-gis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/environmental-gis-assistant"
+  },
+  {
+   "slug": "environmental-impact-analysis-assistant",
+   "name": "Environmental Impact Analysis Assistant",
+   "tagline": "Environmental impact analysis companion for engineers, turning data into assessments and reports.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/data-analysis/environmental-impact-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/environmental-impact-analysis-assistant"
   },
   {
    "slug": "environmental-impact-analyst",
@@ -25282,6 +26089,37 @@
    "url": "https://templatesgrokbot.com/bot/environmental-impact-assessment-assistant"
   },
   {
+   "slug": "environmental-microbial-sampling-planner",
+   "name": "Environmental Microbial Sampling Planner",
+   "tagline": "Plans environmental microbial sampling, guides collection, and analyzes data for microbiologists.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/research/environmental-microbial-sampling-planner.md",
+   "url": "https://templatesgrokbot.com/bot/environmental-microbial-sampling-planner"
+  },
+  {
+   "slug": "environmental-monitoring-manager",
+   "name": "Environmental Monitoring Manager",
+   "tagline": "Environmental monitoring assistant for laboratory managers, from data collection to compliance and audits.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/environmental-monitoring-manager.md",
+   "url": "https://templatesgrokbot.com/bot/environmental-monitoring-manager"
+  },
+  {
    "slug": "environmental-policy-analyst",
    "name": "Environmental Policy Analyst",
    "tagline": "Environmental policy analysis and stakeholder engagement for sustainability analysts.",
@@ -25297,6 +26135,39 @@
    ],
    "path": "jobs/science-and-research/research/environmental-policy-analyst.md",
    "url": "https://templatesgrokbot.com/bot/environmental-policy-analyst"
+  },
+  {
+   "slug": "environmental-policy-development-assistant",
+   "name": "Environmental Policy Development Assistant",
+   "tagline": "Develops and refines environmental policy from research to public outreach.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "government"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/science-and-research/writing-and-content/environmental-policy-development-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/environmental-policy-development-assistant"
+  },
+  {
+   "slug": "environmental-risk-assessment-assistant",
+   "name": "Environmental Risk Assessment Assistant",
+   "tagline": "Assists environmental engineers with risk assessment, analysis, reporting, and compliance.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/data-analysis/environmental-risk-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/environmental-risk-assessment-assistant"
   },
   {
    "slug": "episode-orchestrator",
@@ -25329,6 +26200,21 @@
    ],
    "path": "jobs/product-development/research/equipment-selection-guide.md",
    "url": "https://templatesgrokbot.com/bot/equipment-selection-guide"
+  },
+  {
+   "slug": "equipment-technology-advisor",
+   "name": "Equipment Technology Advisor",
+   "tagline": "Guides process development scientists through equipment and technology selection, evaluation, and implementation.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/research/equipment-technology-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/equipment-technology-advisor"
   },
   {
    "slug": "ergonomic-workspace-design-assistant",
@@ -25567,6 +26453,21 @@
    "url": "https://templatesgrokbot.com/bot/esm",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/esm",
    "source_license": "MIT"
+  },
+  {
+   "slug": "essay-feedback-assistant",
+   "name": "Essay Feedback Assistant",
+   "tagline": "Analyzes student essays and returns structured feedback for teachers.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/essay-feedback-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/essay-feedback-assistant"
   },
   {
    "slug": "etetoolkit",
@@ -26274,6 +27175,23 @@
    ],
    "path": "jobs/science-and-research/research/experiment-design-planner.md",
    "url": "https://templatesgrokbot.com/bot/experiment-design-planner"
+  },
+  {
+   "slug": "experiment-planning-assistant",
+   "name": "Experiment Planning Assistant",
+   "tagline": "Plans experiments from literature to approval, with budget, risk, and team coordination.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/science-and-research/productivity/experiment-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/experiment-planning-assistant"
   },
   {
    "slug": "experiment-readout",
@@ -27494,6 +28412,22 @@
    ],
    "path": "jobs/sales/data-analysis/feedback-to-sales-actions.md",
    "url": "https://templatesgrokbot.com/bot/feedback-to-sales-actions"
+  },
+  {
+   "slug": "fermentation-optimization-assistant",
+   "name": "Fermentation Optimization Assistant",
+   "tagline": "Optimizes fermentation processes from data analysis to scale-up for microbiologists.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/data-analysis/fermentation-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/fermentation-optimization-assistant"
   },
   {
    "slug": "ffuf-claude-skill",
@@ -30437,6 +31371,20 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "geochemical-analysis-assistant",
+   "name": "Geochemical Analysis Assistant",
+   "tagline": "Geochemical data analysis, interpretation, and reporting assistant for geologists.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/geochemical-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/geochemical-analysis-assistant"
+  },
+  {
    "slug": "geoffrey-hinton",
    "name": "Geoffrey Hinton",
    "tagline": "Simulates Geoffrey Hinton, explaining deep learning concepts and his research.",
@@ -30453,6 +31401,67 @@
    "url": "https://templatesgrokbot.com/bot/geoffrey-hinton",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "geological-data-interpretation-assistant",
+   "name": "Geological Data Interpretation Assistant",
+   "tagline": "Turns geological survey data into interpreted structures, maps, models, and reports for geologists.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/geological-data-interpretation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/geological-data-interpretation-assistant"
+  },
+  {
+   "slug": "geological-eia-assistant",
+   "name": "Geological EIA Assistant",
+   "tagline": "Streamlines environmental impact assessments for geologists from data gathering to report delivery.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/data-analysis/geological-eia-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/geological-eia-assistant"
+  },
+  {
+   "slug": "geological-fieldwork-planner",
+   "name": "Geological Fieldwork Planner",
+   "tagline": "Plans geological fieldwork from site research to permits, logistics, and safety.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "productivity",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/science-and-research/productivity/geological-fieldwork-planner.md",
+   "url": "https://templatesgrokbot.com/bot/geological-fieldwork-planner"
+  },
+  {
+   "slug": "geological-mapping-assistant",
+   "name": "Geological Mapping Assistant",
+   "tagline": "Turns geological data into accurate, layered maps and hazard assessments.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/geological-mapping-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/geological-mapping-assistant"
   },
   {
    "slug": "geopandas",
@@ -31866,6 +32875,20 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "grade-analysis-assistant",
+   "name": "Grade Analysis Assistant",
+   "tagline": "Analyzes student grades to uncover patterns, gaps, and strategies for better teaching.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/education/data-analysis/grade-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/grade-analysis-assistant"
+  },
+  {
    "slug": "gradient-design",
    "name": "Gradient Design",
    "tagline": "Generate gradient-heavy UI with animated backgrounds, text, and borders.",
@@ -32072,6 +33095,41 @@
    "url": "https://templatesgrokbot.com/bot/graphql-security-specialist",
    "adapted_from": "https://www.aitmpl.com/component/agents/api-graphql/graphql-security-specialist",
    "source_license": "MIT"
+  },
+  {
+   "slug": "green-infrastructure-planner",
+   "name": "Green Infrastructure Planner",
+   "tagline": "Plans green infrastructure projects from site analysis to community engagement.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "real-estate-and-construction",
+    "government"
+   ],
+   "topics": [
+    "design",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/design/green-infrastructure-planner.md",
+   "url": "https://templatesgrokbot.com/bot/green-infrastructure-planner"
+  },
+  {
+   "slug": "green-infrastructure-planning-assistant",
+   "name": "Green Infrastructure Planning Assistant",
+   "tagline": "Green infrastructure planning assistant for environmental consultants, from site analysis to funding and monitoring.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/green-infrastructure-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/green-infrastructure-planning-assistant"
   },
   {
    "slug": "green-ops-tracker",
@@ -32396,6 +33454,21 @@
    "source_license": "MIT"
   },
   {
+   "slug": "habitat-restoration-planner",
+   "name": "Habitat Restoration Planner",
+   "tagline": "Supports environmental engineers in planning, designing, and monitoring habitat restoration projects.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/habitat-restoration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/habitat-restoration-planner"
+  },
+  {
    "slug": "hackathon-ai-strategist",
    "name": "Hackathon Ai Strategist",
    "tagline": "Guides teams through hackathon strategy from ideation to pitch delivery.",
@@ -32620,6 +33693,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "health-and-safety-compliance-assistant",
+   "name": "Health and Safety Compliance Assistant",
+   "tagline": "Manages lab safety compliance: training, waste, equipment, incidents, audits, and more.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "management"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/health-and-safety-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/health-and-safety-compliance-assistant"
+  },
+  {
    "slug": "health-trend-analyzer",
    "name": "Health Trend Analyzer",
    "tagline": "Analyze health data trends and correlations over time.",
@@ -32636,6 +33726,21 @@
    "url": "https://templatesgrokbot.com/bot/health-trend-analyzer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "healthcare-data-analysis-assistant",
+   "name": "Healthcare Data Analysis Assistant",
+   "tagline": "Analyzes healthcare data to uncover patterns, predict outcomes, and support clinical decisions.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/healthcare-data-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/healthcare-data-analysis-assistant"
   },
   {
    "slug": "helium-mcp",
@@ -34119,6 +35224,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "hydrogeology-data-analyst",
+   "name": "Hydrogeology Data Analyst",
+   "tagline": "Analyzes hydrogeological data and drafts reports, models, and plans for groundwater work.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/data-analysis/hydrogeology-data-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/hydrogeology-data-analyst"
+  },
+  {
    "slug": "hyperexecute-skill",
    "name": "Hyperexecute",
    "tagline": "Analyze projects, create YAML, validate, and run HyperExecute cloud tests on LambdaTest.",
@@ -34482,6 +35603,21 @@
    "url": "https://templatesgrokbot.com/bot/ilya-sutskever-simulator",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "image-analysis-assistant",
+   "name": "Image Analysis Assistant",
+   "tagline": "Analyzes images with deep learning for classification, detection, segmentation, generation, and more.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "generative-art"
+   ],
+   "path": "jobs/science-and-research/data-analysis/image-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/image-analysis-assistant"
   },
   {
    "slug": "image-enhancer",
@@ -34926,6 +36062,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "industrial-energy-management-assistant",
+   "name": "Industrial Energy Management Assistant",
+   "tagline": "Optimize industrial energy use, cut costs, and meet compliance through data-driven analysis and recommendations.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/industrial-energy-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/industrial-energy-management-assistant"
+  },
+  {
    "slug": "industry-trend-analyst",
    "name": "Industry Trend Analyst",
    "tagline": "Turns market data into trend forecasts and stakeholder-ready reports.",
@@ -34940,6 +36091,24 @@
    ],
    "path": "jobs/science-and-research/data-analysis/industry-trend-analyst.md",
    "url": "https://templatesgrokbot.com/bot/industry-trend-analyst"
+  },
+  {
+   "slug": "infection-control-strategist",
+   "name": "Infection Control Strategist",
+   "tagline": "Infection control research, policy, training, and outbreak response support for microbiologists.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "healthcare",
+    "government"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/science-and-research/research/infection-control-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/infection-control-strategist"
   },
   {
    "slug": "inference-serving-llama-cpp",
@@ -36909,6 +38078,21 @@
    "source_license": "MIT"
   },
   {
+   "slug": "iot-data-science-assistant",
+   "name": "IoT Data Science Assistant",
+   "tagline": "Turns IoT sensor data into decisions, predictions, and automations for data scientists.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/science-and-research/data-analysis/iot-data-science-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/iot-data-science-assistant"
+  },
+  {
    "slug": "iot-engineer",
    "name": "Iot Engineer",
    "tagline": "Designs and deploys large-scale IoT solutions from edge to cloud.",
@@ -38230,6 +39414,183 @@
    "source_license": "MIT"
   },
   {
+   "slug": "lab-collaboration-coordinator",
+   "name": "Lab Collaboration Coordinator",
+   "tagline": "Coordinates lab communication, collaboration, and reporting for smooth team operations.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools"
+   ],
+   "path": "jobs/science-and-research/productivity/lab-collaboration-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/lab-collaboration-coordinator"
+  },
+  {
+   "slug": "lab-data-analysis-assistant",
+   "name": "Lab Data Analysis Assistant",
+   "tagline": "Turns lab data into clear analyses, charts, and recommendations for lab managers.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "healthcare",
+    "management"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/lab-data-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/lab-data-analysis-assistant"
+  },
+  {
+   "slug": "lab-data-recording-assistant",
+   "name": "Lab Data Recording Assistant",
+   "tagline": "Manages lab data recording, validation, reporting, and compliance for laboratory technicians.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/science-and-research/data-analysis/lab-data-recording-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/lab-data-recording-assistant"
+  },
+  {
+   "slug": "lab-equipment-troubleshooting-assistant",
+   "name": "Lab Equipment Troubleshooting Assistant",
+   "tagline": "Guides lab technicians through equipment troubleshooting, maintenance, and documentation.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "support-and-community",
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/support-and-community/lab-equipment-troubleshooting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/lab-equipment-troubleshooting-assistant"
+  },
+  {
+   "slug": "lab-literature-review-companion",
+   "name": "Lab Literature Review Companion",
+   "tagline": "Literature review assistant for laboratory technicians: search, summarize, analyze, and write with precision.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/lab-literature-review-companion.md",
+   "url": "https://templatesgrokbot.com/bot/lab-literature-review-companion"
+  },
+  {
+   "slug": "lab-maintenance-scheduler",
+   "name": "Lab Maintenance Scheduler",
+   "tagline": "Builds and manages lab equipment maintenance schedules, checklists, and records for technicians.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/science-and-research/productivity/lab-maintenance-scheduler.md",
+   "url": "https://templatesgrokbot.com/bot/lab-maintenance-scheduler"
+  },
+  {
+   "slug": "lab-quality-control-assistant",
+   "name": "Lab Quality Control Assistant",
+   "tagline": "Your lab QA partner: analyze data, draft protocols, track compliance, improve processes.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/lab-quality-control-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/lab-quality-control-assistant"
+  },
+  {
+   "slug": "lab-safety-checklist-generator",
+   "name": "Lab Safety Checklist Generator",
+   "tagline": "Generates and verifies lab safety compliance checklists for laboratory technicians.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/lab-safety-checklist-generator.md",
+   "url": "https://templatesgrokbot.com/bot/lab-safety-checklist-generator"
+  },
+  {
+   "slug": "lab-sample-analysis-assistant",
+   "name": "Lab Sample Analysis Assistant",
+   "tagline": "Streamlines lab sample analysis from data entry to reporting with AI assistance.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/science-and-research/data-analysis/lab-sample-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/lab-sample-analysis-assistant"
+  },
+  {
+   "slug": "lab-stock-forecast-alerts",
+   "name": "Lab Stock Forecast Alerts",
+   "tagline": "Manages lab inventory from tracking to forecasting, with alerts and reports.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "operations",
+    "healthcare"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/productivity/lab-stock-forecast-alerts.md",
+   "url": "https://templatesgrokbot.com/bot/lab-stock-forecast-alerts"
+  },
+  {
+   "slug": "lab-supply-chain-manager",
+   "name": "Lab Supply Chain Manager",
+   "tagline": "Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "productivity",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/science-and-research/productivity/lab-supply-chain-manager.md",
+   "url": "https://templatesgrokbot.com/bot/lab-supply-chain-manager"
+  },
+  {
    "slug": "labarchive-integration",
    "name": "Labarchive Integration",
    "tagline": "Automate LabArchives electronic lab notebook operations via API.",
@@ -38244,6 +39605,121 @@
    "url": "https://templatesgrokbot.com/bot/labarchive-integration",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/labarchive-integration",
    "source_license": "MIT"
+  },
+  {
+   "slug": "laboratory-data-analysis-assistant",
+   "name": "Laboratory Data Analysis Assistant",
+   "tagline": "Analyzes lab data, builds models, and reports findings for laboratory technicians.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/laboratory-data-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/laboratory-data-analysis-assistant"
+  },
+  {
+   "slug": "laboratory-equipment-maintenance-scheduler",
+   "name": "Laboratory Equipment Maintenance Scheduler",
+   "tagline": "Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis",
+    "knowledge-management"
+   ],
+   "path": "jobs/science-and-research/productivity/laboratory-equipment-maintenance-scheduler.md",
+   "url": "https://templatesgrokbot.com/bot/laboratory-equipment-maintenance-scheduler"
+  },
+  {
+   "slug": "laboratory-inventory-manager",
+   "name": "Laboratory Inventory Manager",
+   "tagline": "Manages lab inventory from tracking to forecasting, audits, and supplier coordination.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools",
+    "productivity"
+   ],
+   "path": "jobs/science-and-research/data-analysis/laboratory-inventory-manager.md",
+   "url": "https://templatesgrokbot.com/bot/laboratory-inventory-manager"
+  },
+  {
+   "slug": "laboratory-protocol-optimizer",
+   "name": "Laboratory Protocol Optimizer",
+   "tagline": "Optimizes laboratory protocols from literature review to validation, with data-driven recommendations and approval gates.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "management"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/research/laboratory-protocol-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/laboratory-protocol-optimizer"
+  },
+  {
+   "slug": "laboratory-quality-control-assistant",
+   "name": "Laboratory Quality Control Assistant",
+   "tagline": "Manages lab quality control tasks from data analysis to audits and compliance.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "healthcare"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/laboratory-quality-control-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/laboratory-quality-control-assistant"
+  },
+  {
+   "slug": "laboratory-sop-manager",
+   "name": "Laboratory SOP Manager",
+   "tagline": "Creates, reviews, and manages lab SOPs with version control and compliance checks.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "knowledge-management",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/science-and-research/knowledge-management/laboratory-sop-manager.md",
+   "url": "https://templatesgrokbot.com/bot/laboratory-sop-manager"
+  },
+  {
+   "slug": "laboratory-training-and-onboarding-assistant",
+   "name": "Laboratory Training and Onboarding Assistant",
+   "tagline": "Designs and manages lab training and onboarding from materials to evaluation.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/science-and-research/teaching-and-tutoring/laboratory-training-and-onboarding-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/laboratory-training-and-onboarding-assistant"
   },
   {
    "slug": "lambda-lang",
@@ -42083,6 +43559,21 @@
    "url": "https://templatesgrokbot.com/bot/manufacturing-cost-savings-finder"
   },
   {
+   "slug": "manufacturing-experiment-designer",
+   "name": "Manufacturing Experiment Designer",
+   "tagline": "Analyzes process data and designs experiments to optimize manufacturing workflows.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/manufacturing-experiment-designer.md",
+   "url": "https://templatesgrokbot.com/bot/manufacturing-experiment-designer"
+  },
+  {
    "slug": "manuscript-evaluation-assistant",
    "name": "Manuscript Evaluation Assistant",
    "tagline": "Manuscript evaluation assistant for editors: assess quality, verify sources, and guide revisions.",
@@ -43200,6 +44691,21 @@
    "url": "https://templatesgrokbot.com/bot/material-design",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "material-property-prediction-assistant",
+   "name": "Material Property Prediction Assistant",
+   "tagline": "Predicts material properties and guides development for chemical engineers.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/science-and-research/data-analysis/material-property-prediction-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/material-property-prediction-assistant"
   },
   {
    "slug": "material-requirement-analyst",
@@ -44358,6 +45864,50 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "microbial-ecology-analysis-assistant",
+   "name": "Microbial Ecology Analysis Assistant",
+   "tagline": "Analyzes microbial ecology data from collection to visualization for microbiologists.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/microbial-ecology-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/microbial-ecology-analysis-assistant"
+  },
+  {
+   "slug": "microbial-genetics-research-assistant",
+   "name": "Microbial Genetics Research Assistant",
+   "tagline": "Assists microbiologists with genetic data analysis, literature review, and research writing.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/microbial-genetics-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/microbial-genetics-research-assistant"
+  },
+  {
+   "slug": "microbial-genome-analysis-assistant",
+   "name": "Microbial Genome Analysis Assistant",
+   "tagline": "Microbial genome analysis assistant for assembly, annotation, comparison, and insight generation.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/microbial-genome-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/microbial-genome-analysis-assistant"
+  },
+  {
    "slug": "microservices-architect",
    "name": "Microservices Architect",
    "tagline": "Designs and evolves microservice architectures from monoliths to production-hardened distributed systems. Uses domain-driven design to identify servic",
@@ -44565,6 +46115,20 @@
    "url": "https://templatesgrokbot.com/bot/minecraft-bukkit-pro",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "mineral-exploration-analyst",
+   "name": "Mineral Exploration Analyst",
+   "tagline": "Analyzes geological data and guides mineral exploration from target to report.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/mineral-exploration-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/mineral-exploration-analyst"
   },
   {
    "slug": "minimalism",
@@ -46070,6 +47634,23 @@
    "url": "https://templatesgrokbot.com/bot/multilingual-support-documentation-assistant"
   },
   {
+   "slug": "multimedia-integration-planner",
+   "name": "Multimedia Integration Planner",
+   "tagline": "Helps teachers integrate multimedia into lessons, projects, and assessments.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "text-to-speech",
+    "video-editing",
+    "text-to-video"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/multimedia-integration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/multimedia-integration-planner"
+  },
+  {
    "slug": "multimodal-audiocraft",
    "name": "Multimodal Audiocraft",
    "tagline": "Generates music and sound effects from text descriptions using AudioCraft models.",
@@ -46575,6 +48156,22 @@
    "url": "https://templatesgrokbot.com/bot/native-data-fetching",
    "adapted_from": "https://github.com/expo/skills/tree/main/plugins/expo/skills/native-data-fetching",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "natural-hazard-analysis-assistant",
+   "name": "Natural Hazard Analysis Assistant",
+   "tagline": "Turns geological and climate data into hazard analyses, maps, and preparedness plans.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/natural-hazard-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/natural-hazard-analysis-assistant"
   },
   {
    "slug": "neo-brutalism",
@@ -47459,6 +49056,22 @@
    "url": "https://templatesgrokbot.com/bot/nlp-engineer",
    "adapted_from": "https://www.aitmpl.com/component/agents/data-ai/nlp-engineer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "nlp-text-processing-assistant",
+   "name": "NLP Text Processing Assistant",
+   "tagline": "NLP analysis and generation assistant for data scientists, turning text into structured insights and content.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "translation",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/generative-ai-and-llm/nlp-text-processing-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/nlp-text-processing-assistant"
   },
   {
    "slug": "node-js-vulnerability-hunter",
@@ -50503,6 +52116,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "paleontological-analysis-assistant",
+   "name": "Paleontological Analysis Assistant",
+   "tagline": "Assists geologists with fossil identification, stratigraphy, paleoecology, and research drafting.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/paleontological-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/paleontological-analysis-assistant"
+  },
+  {
    "slug": "paper-2-web",
    "name": "Paper 2 Web",
    "tagline": "Converts academic papers into interactive websites, presentation videos, and conference posters.",
@@ -50884,6 +52513,22 @@
    "url": "https://templatesgrokbot.com/bot/pathml",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/pathml",
    "source_license": "MIT"
+  },
+  {
+   "slug": "pathogen-identification-assistant",
+   "name": "Pathogen Identification Assistant",
+   "tagline": "Supports microbiologists in pathogen identification from literature review to reporting and system design.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/pathogen-identification-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/pathogen-identification-assistant"
   },
   {
    "slug": "patient-advocacy-support-coordinator",
@@ -51576,6 +53221,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "permit-ready-eia-report-builder",
+   "name": "Permit-Ready EIA Report Builder",
+   "tagline": "Supports environmental consultants with impact assessments from data collection to permit-ready reports.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "writing-and-content",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/writing-and-content/permit-ready-eia-report-builder.md",
+   "url": "https://templatesgrokbot.com/bot/permit-ready-eia-report-builder"
+  },
+  {
    "slug": "perplexity",
    "name": "Perplexity",
    "tagline": "Searches the web and answers questions using Perplexity AI.",
@@ -51746,6 +53407,20 @@
    ],
    "path": "jobs/sales/sales-and-negotiation/personalized-sales-strategy-assistant.md",
    "url": "https://templatesgrokbot.com/bot/personalized-sales-strategy-assistant"
+  },
+  {
+   "slug": "petroleum-geology-analyst",
+   "name": "Petroleum Geology Analyst",
+   "tagline": "Interprets geological data to locate and characterize petroleum reservoirs.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/petroleum-geology-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/petroleum-geology-analyst"
   },
   {
    "slug": "pharma-client-profiling-assistant",
@@ -52995,6 +54670,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "pollution-control-consultant-assistant",
+   "name": "Pollution Control Consultant Assistant",
+   "tagline": "Analyzes pollution data, ensures compliance, and develops control strategies for environmental consultants.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/pollution-control-consultant-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/pollution-control-consultant-assistant"
+  },
+  {
    "slug": "popup-cro",
    "name": "Popup Cro",
    "tagline": "Designs and optimizes popups, modals, and banners to convert visitors without annoying them.",
@@ -53525,6 +55215,21 @@
    "source_license": "MIT"
   },
   {
+   "slug": "power-grid-analysis-assistant",
+   "name": "Power Grid Analysis Assistant",
+   "tagline": "Analyzes power grid data for load flow, faults, stability, renewables, and modernization planning.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/power-grid-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/power-grid-analysis-assistant"
+  },
+  {
    "slug": "power-platform-expert",
    "name": "Power Platform Expert",
    "tagline": "Provides expert guidance on Power Platform development, architecture, and best practices.",
@@ -54012,6 +55717,20 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "predictive-analytics-workflow-assistant",
+   "name": "Predictive Analytics Workflow Assistant",
+   "tagline": "Guides data scientists through the full predictive analytics workflow, from data prep to deployment and forecasting.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/predictive-analytics-workflow-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/predictive-analytics-workflow-assistant"
+  },
+  {
    "slug": "predictive-maintenance-analyst",
    "name": "Predictive Maintenance Analyst",
    "tagline": "Predict equipment failures and optimize maintenance schedules from your logistics data.",
@@ -54474,6 +56193,37 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "probiotic-research-assistant",
+   "name": "Probiotic Research Assistant",
+   "tagline": "Accelerates probiotic and prebiotic research from literature review to clinical trial design.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/probiotic-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/probiotic-research-assistant"
+  },
+  {
+   "slug": "process-data-analyst",
+   "name": "Process Data Analyst",
+   "tagline": "Analyzes process data to uncover patterns, trends, and risks for process development scientists.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/process-data-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/process-data-analyst"
+  },
+  {
    "slug": "process-design-innovation-assistant",
    "name": "Process Design Innovation Assistant",
    "tagline": "Innovation partner for process engineers, turning data and ideas into better designs.",
@@ -54489,6 +56239,22 @@
    ],
    "path": "jobs/product-development/design/process-design-innovation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/process-design-innovation-assistant"
+  },
+  {
+   "slug": "process-development-time-optimizer",
+   "name": "Process Development Time Optimizer",
+   "tagline": "Plans and tracks a process development scientist's day to cut wasted time.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools",
+    "self-improvement"
+   ],
+   "path": "jobs/science-and-research/productivity/process-development-time-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/process-development-time-optimizer"
   },
   {
    "slug": "process-documentation-assistant",
@@ -54668,6 +56434,20 @@
    "url": "https://templatesgrokbot.com/bot/process-optimization-assistant"
   },
   {
+   "slug": "process-qc-statistical-reports",
+   "name": "Process QC Statistical Reports",
+   "tagline": "Analyzes quality control data, runs statistical tests, and generates reports to improve manufacturing processes.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/process-qc-statistical-reports.md",
+   "url": "https://templatesgrokbot.com/bot/process-qc-statistical-reports"
+  },
+  {
    "slug": "process-reengineering-consultant",
    "name": "Process Reengineering Consultant",
    "tagline": "Maps, analyzes, and improves business processes for management consultants.",
@@ -54681,6 +56461,22 @@
    ],
    "path": "jobs/management/data-analysis/process-reengineering-consultant.md",
    "url": "https://templatesgrokbot.com/bot/process-reengineering-consultant"
+  },
+  {
+   "slug": "process-risk-assessment-assistant",
+   "name": "Process Risk Assessment Assistant",
+   "tagline": "Identifies, assesses, and mitigates process risks for development scientists.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/process-risk-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/process-risk-assessment-assistant"
   },
   {
    "slug": "process-safety-risk-assessor",
@@ -57760,6 +59556,20 @@
    "source_license": "MIT"
   },
   {
+   "slug": "question-generation-assistant",
+   "name": "Question Generation Assistant",
+   "tagline": "Generates diverse questions for quizzes, exams, and classroom activities.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/question-generation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/question-generation-assistant"
+  },
+  {
    "slug": "quinn",
    "name": "Quinn",
    "tagline": "Writes and executes test suites to verify system correctness against requirements.",
@@ -58816,6 +60626,20 @@
    "url": "https://templatesgrokbot.com/bot/real-estate-transaction-coordinator"
   },
   {
+   "slug": "real-time-decision-support-assistant",
+   "name": "Real-Time Decision Support Assistant",
+   "tagline": "Analyzes real-time data streams to flag anomalies, predict failures, detect fraud, and recommend actions for data scientists.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/real-time-decision-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/real-time-decision-support-assistant"
+  },
+  {
    "slug": "real-time-demand-forecaster",
    "name": "Real-Time Demand Forecaster",
    "tagline": "Forecasts demand from sales, market, and real-time data for logistics engineers.",
@@ -59336,6 +61160,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "regulation-risk-drafts-for-engineers",
+   "name": "Regulation Risk Drafts for Engineers",
+   "tagline": "Tracks environmental laws, flags compliance risks, and drafts the paperwork to stay legal.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/regulation-risk-drafts-for-engineers.md",
+   "url": "https://templatesgrokbot.com/bot/regulation-risk-drafts-for-engineers"
+  },
+  {
    "slug": "regulatory-affairs-assistant",
    "name": "Regulatory Affairs Assistant",
    "tagline": "Handles regulatory research, compliance tracking, reporting, audits, and training for legal assistants.",
@@ -59390,6 +61231,22 @@
    ],
    "path": "jobs/legal/research/regulatory-communication-assistant.md",
    "url": "https://templatesgrokbot.com/bot/regulatory-communication-assistant"
+  },
+  {
+   "slug": "regulatory-compliance-advice-assistant",
+   "name": "Regulatory Compliance Advice Assistant",
+   "tagline": "Regulatory compliance support for process development scientists.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/regulatory-compliance-advice-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-compliance-advice-assistant"
   },
   {
    "slug": "regulatory-compliance-assistant",
@@ -59537,6 +61394,21 @@
    "url": "https://templatesgrokbot.com/bot/rehabilitation-analyzer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "reinforcement-learning-strategist",
+   "name": "Reinforcement Learning Strategist",
+   "tagline": "Designs and explains reinforcement learning strategies for data scientists, from theory to applied systems. No hype, just the math and the build.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "coding"
+   ],
+   "path": "jobs/science-and-research/teaching-and-tutoring/reinforcement-learning-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/reinforcement-learning-strategist"
   },
   {
    "slug": "relationship-management-assistant",
@@ -59691,6 +61563,52 @@
    "source_license": "MIT"
   },
   {
+   "slug": "renewable-energy-consulting-assistant",
+   "name": "Renewable Energy Consulting Assistant",
+   "tagline": "Analyzes renewable energy data, drafts reports, and supports compliance and planning for environmental consultants.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/renewable-energy-consulting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/renewable-energy-consulting-assistant"
+  },
+  {
+   "slug": "renewable-energy-design-assistant",
+   "name": "Renewable Energy Design Assistant",
+   "tagline": "Renewable energy system design assistant for energy engineers, from resource assessment to hybrid integration.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/renewable-energy-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/renewable-energy-design-assistant"
+  },
+  {
+   "slug": "renewable-energy-financial-modeler",
+   "name": "Renewable Energy Financial Modeler",
+   "tagline": "Builds and checks financial models for renewable energy projects from data to reports.",
+   "category": "finance",
+   "jobs": [
+    "science-and-research",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/science-and-research/data-analysis/renewable-energy-financial-modeler.md",
+   "url": "https://templatesgrokbot.com/bot/renewable-energy-financial-modeler"
+  },
+  {
    "slug": "renewable-energy-strategy-analyst",
    "name": "Renewable Energy Strategy Analyst",
    "tagline": "Analyzes renewable energy markets, technologies, and policies for sustainability analysts.",
@@ -59704,6 +61622,22 @@
    ],
    "path": "jobs/science-and-research/research/renewable-energy-strategy-analyst.md",
    "url": "https://templatesgrokbot.com/bot/renewable-energy-strategy-analyst"
+  },
+  {
+   "slug": "renewable-feasibility-study-assistant",
+   "name": "Renewable Feasibility Study Assistant",
+   "tagline": "Guides environmental engineers through renewable energy feasibility studies from resource assessment to report writing.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/renewable-feasibility-study-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/renewable-feasibility-study-assistant"
   },
   {
    "slug": "rep-performance-scorecard",
@@ -60053,6 +61987,21 @@
    "source_license": "MIT"
   },
   {
+   "slug": "research-ideation-partner",
+   "name": "Research Ideation Partner",
+   "tagline": "Generates and refines research ideas, methods, and proposals for process development scientists.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/research-ideation-partner.md",
+   "url": "https://templatesgrokbot.com/bot/research-ideation-partner"
+  },
+  {
    "slug": "research-impact-assessment-assistant",
    "name": "Research Impact Assessment Assistant",
    "tagline": "Assesses research impact from literature to long-term forecasting for Research Associates.",
@@ -60101,6 +62050,21 @@
    "url": "https://templatesgrokbot.com/bot/research-orchestrator",
    "adapted_from": "https://www.aitmpl.com/component/agents/deep-research-team/research-orchestrator",
    "source_license": "MIT"
+  },
+  {
+   "slug": "research-paper-summarizer",
+   "name": "Research Paper Summarizer",
+   "tagline": "Summarizes research papers for laboratory managers to speed up literature review and decision-making.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/research-paper-summarizer.md",
+   "url": "https://templatesgrokbot.com/bot/research-paper-summarizer"
   },
   {
    "slug": "research-prompt",
@@ -60218,6 +62182,21 @@
    "url": "https://templatesgrokbot.com/bot/resolving-merge-conflicts",
    "adapted_from": "https://github.com/mattpocock/skills/tree/main/skills/engineering/resolving-merge-conflicts",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "responsible-ai-practice-assistant",
+   "name": "Responsible AI Practice Assistant",
+   "tagline": "Guides data scientists through ethical AI design, bias checks, and compliance reviews before deployment.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/responsible-ai-practice-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/responsible-ai-practice-assistant"
   },
   {
    "slug": "responsive-layout-builder",
@@ -66977,6 +68956,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "smart-grid-integration-planner",
+   "name": "Smart Grid Integration Planner",
+   "tagline": "Analyzes smart grid data and plans grid improvements for energy engineers.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/smart-grid-integration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/smart-grid-integration-planner"
+  },
+  {
    "slug": "smartui-skill",
    "name": "Smartui",
    "tagline": "Generate SmartUI visual regression test configs for TestMu AI cloud.",
@@ -67650,6 +69644,37 @@
    "url": "https://templatesgrokbot.com/bot/software-engineer-agent-v1",
    "adapted_from": "https://www.aitmpl.com/component/agents/data-ai/software-engineer-agent-v1",
    "source_license": "MIT"
+  },
+  {
+   "slug": "soil-and-water-analysis-assistant",
+   "name": "Soil and Water Analysis Assistant",
+   "tagline": "Plans, interprets, and reports soil and water analyses for environmental consultants.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/data-analysis/soil-and-water-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/soil-and-water-analysis-assistant"
+  },
+  {
+   "slug": "soil-contamination-analysis-assistant",
+   "name": "Soil Contamination Analysis Assistant",
+   "tagline": "Soil contamination analysis assistant for environmental engineers.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/soil-contamination-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/soil-contamination-analysis-assistant"
   },
   {
    "slug": "solidity-security",
@@ -68803,6 +70828,21 @@
    "url": "https://templatesgrokbot.com/bot/statistical-analysis",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/statistical-analysis",
    "source_license": "MIT"
+  },
+  {
+   "slug": "statistical-analysis-guide",
+   "name": "Statistical Analysis Guide",
+   "tagline": "Guides process development scientists through statistical analysis from data prep to interpretation.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/science-and-research/data-analysis/statistical-analysis-guide.md",
+   "url": "https://templatesgrokbot.com/bot/statistical-analysis-guide"
   },
   {
    "slug": "statistical-analysis-workflow-assistant",
@@ -70628,6 +72668,21 @@
    "url": "https://templatesgrokbot.com/bot/sustainability-and-csr-consulting-assistant"
   },
   {
+   "slug": "sustainability-assessment-analyst",
+   "name": "Sustainability Assessment Analyst",
+   "tagline": "Sustainability assessments for process development scientists, from LCA to stakeholder communication.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/data-analysis/sustainability-assessment-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/sustainability-assessment-analyst"
+  },
+  {
    "slug": "sustainability-logistics-analyst",
    "name": "Sustainability Logistics Analyst",
    "tagline": "Analyzes logistics data and drives eco-friendly initiatives for sustainability-focused engineers.",
@@ -70673,6 +72728,21 @@
    "url": "https://templatesgrokbot.com/bot/sustainability-planning-analyst"
   },
   {
+   "slug": "sustainability-planning-assistant",
+   "name": "Sustainability Planning Assistant",
+   "tagline": "Turns environmental data into sustainability plans and recommendations for consultants.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/sustainability-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/sustainability-planning-assistant"
+  },
+  {
    "slug": "sustainability-report-builder",
    "name": "Sustainability Report Builder",
    "tagline": "Turns ESG data into accurate, compliant sustainability reports for analysts.",
@@ -70706,6 +72776,39 @@
    ],
    "path": "jobs/operations/productivity/sustainability-strategy-planner.md",
    "url": "https://templatesgrokbot.com/bot/sustainability-strategy-planner"
+  },
+  {
+   "slug": "sustainable-building-design-assistant",
+   "name": "Sustainable Building Design Assistant",
+   "tagline": "Sustainable building design assistant for energy engineers, covering modeling, materials, and certifications.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "design",
+    "research"
+   ],
+   "path": "jobs/science-and-research/design/sustainable-building-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/sustainable-building-design-assistant"
+  },
+  {
+   "slug": "sustainable-design-advisor",
+   "name": "Sustainable Design Advisor",
+   "tagline": "Guides environmental engineers through eco-friendly design decisions and certifications.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "design",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/design/sustainable-design-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/sustainable-design-advisor"
   },
   {
    "slug": "sustainable-investment-research-assistant",
@@ -70805,6 +72908,21 @@
    ],
    "path": "jobs/management/research/sustainable-purchasing-assistant.md",
    "url": "https://templatesgrokbot.com/bot/sustainable-purchasing-assistant"
+  },
+  {
+   "slug": "sustainable-urban-development-assistant",
+   "name": "Sustainable Urban Development Assistant",
+   "tagline": "Analyzes urban data and designs sustainable solutions for environmental engineers.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/sustainable-urban-development-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/sustainable-urban-development-assistant"
   },
   {
    "slug": "sveltekit",
@@ -71646,6 +73764,37 @@
    "url": "https://templatesgrokbot.com/bot/teacher-feedback-assistant"
   },
   {
+   "slug": "teacher-professional-development-assistant",
+   "name": "Teacher Professional Development Assistant",
+   "tagline": "Professional development planner and classroom strategies assistant for teachers.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "self-improvement"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/teacher-professional-development-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/teacher-professional-development-assistant"
+  },
+  {
+   "slug": "teacher-research-assistant",
+   "name": "Teacher Research Assistant",
+   "tagline": "Research assistant for teachers: literature, data, citations, proposals, and presentations from start to publication.",
+   "category": "research",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/research/teacher-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/teacher-research-assistant"
+  },
+  {
    "slug": "team-chemistry-evaluator",
    "name": "Team Chemistry Evaluator",
    "tagline": "Analyzes roster fit, leadership, role clarity, and locker room culture for sports teams.",
@@ -71990,6 +74139,22 @@
    "url": "https://templatesgrokbot.com/bot/technical-due-diligence-reporter",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/tech-due-diligence",
    "source_license": "MIT"
+  },
+  {
+   "slug": "technical-report-drafter",
+   "name": "Technical Report Drafter",
+   "tagline": "Turns experimental data and notes into polished, citation-ready technical reports for process development scientists.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "writing-and-content",
+    "data-analysis",
+    "knowledge-management"
+   ],
+   "path": "jobs/science-and-research/writing-and-content/technical-report-drafter.md",
+   "url": "https://templatesgrokbot.com/bot/technical-report-drafter"
   },
   {
    "slug": "technical-researcher",
@@ -73202,6 +75367,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "test-result-interpretation-assistant",
+   "name": "Test Result Interpretation Assistant",
+   "tagline": "Interprets lab test results, flags abnormalities, and drafts reports for laboratory technicians.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/data-analysis/test-result-interpretation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/test-result-interpretation-assistant"
+  },
+  {
    "slug": "test-runner",
    "name": "Test Runner",
    "tagline": "Runs your project's test suite, diagnoses failures, and suggests fixes until all tests pass.",
@@ -73359,6 +75540,20 @@
    "url": "https://templatesgrokbot.com/bot/theme-factory",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "thermal-system-optimization-assistant",
+   "name": "Thermal System Optimization Assistant",
+   "tagline": "Optimizes thermal systems through data analysis, modeling, and efficiency recommendations.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/data-analysis/thermal-system-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/thermal-system-optimization-assistant"
   },
   {
    "slug": "thick-client",
@@ -74206,6 +76401,21 @@
    ],
    "path": "jobs/operations/writing-and-content/training-material-creator.md",
    "url": "https://templatesgrokbot.com/bot/training-material-creator"
+  },
+  {
+   "slug": "training-material-development-assistant",
+   "name": "Training Material Development Assistant",
+   "tagline": "Builds complete training materials for process development scientists, from research to final review.",
+   "category": "education",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/science-and-research/writing-and-content/training-material-development-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/training-material-development-assistant"
   },
   {
    "slug": "training-materials-translator",
@@ -76483,6 +78693,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "vaccine-development-research-assistant",
+   "name": "Vaccine Development Research Assistant",
+   "tagline": "Supports vaccine development research from literature review to market analysis.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/vaccine-development-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/vaccine-development-research-assistant"
+  },
+  {
    "slug": "vaex",
    "name": "Vaex",
    "tagline": "Process and analyze large tabular datasets that exceed available RAM using Vaex's out-of-core capabilities.",
@@ -78262,6 +80488,40 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "waste-management-analyst",
+   "name": "Waste Management Analyst",
+   "tagline": "Analyzes waste streams, ensures compliance, and optimizes sustainable waste management for environmental engineers.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/waste-management-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/waste-management-analyst"
+  },
+  {
+   "slug": "waste-management-consulting-assistant",
+   "name": "Waste Management Consulting Assistant",
+   "tagline": "Analyzes waste streams, ensures compliance, and builds tailored reduction plans for environmental consultants.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research",
+    "operations"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/security-and-compliance/waste-management-consulting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/waste-management-consulting-assistant"
+  },
+  {
    "slug": "waste-management-optimization-assistant",
    "name": "Waste Management Optimization Assistant",
    "tagline": "Analyzes waste streams, ensures compliance, and optimizes waste management for process engineers.",
@@ -78306,6 +80566,22 @@
    ],
    "path": "jobs/science-and-research/data-analysis/water-footprint-assessment-assistant.md",
    "url": "https://templatesgrokbot.com/bot/water-footprint-assessment-assistant"
+  },
+  {
+   "slug": "water-quality-assessment-assistant",
+   "name": "Water Quality Assessment Assistant",
+   "tagline": "Assesses water quality data, ensures compliance, and designs monitoring tools for environmental engineers.",
+   "category": "research",
+   "jobs": [
+    "science-and-research",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/science-and-research/data-analysis/water-quality-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/water-quality-assessment-assistant"
   },
   {
    "slug": "wcag-audit-patterns",
@@ -79182,6 +81458,22 @@
    "url": "https://templatesgrokbot.com/bot/wiki-vitepress",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "wildlife-and-habitat-analysis-assistant",
+   "name": "Wildlife and Habitat Analysis Assistant",
+   "tagline": "Analyzes wildlife data and generates habitat, threat, and conservation reports for environmental consultants.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/data-analysis/wildlife-and-habitat-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/wildlife-and-habitat-analysis-assistant"
   },
   {
    "slug": "windows-ad",
