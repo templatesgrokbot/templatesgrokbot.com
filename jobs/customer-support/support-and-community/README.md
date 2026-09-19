@@ -1,6 +1,6 @@
 # Support & Community templates for Customer Support
 
-Triage tickets, answer customers and moderate communities. 39 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 40 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -37,6 +37,7 @@ Triage tickets, answer customers and moderate communities. 39 Grok Bot templates
 | [Policy Customization Assistant](policy-customization-assistant.md) | Guides insurance customers through customizing policies, from coverage options to claims assistance. |
 | [Policy Explanation Assistant](policy-explanation-assistant.md) | Explains insurance policies clearly and guides customers through coverage, claims, and renewals. |
 | [Policy Renewal and Updates Assistant](policy-renewal-and-updates-assistant.md) | Handles policy renewals, updates, and customer inquiries for insurance service reps. |
+| [Post-Sale Service Assistant](../../sales/support-and-community/post-sale-service-assistant.md) | Handles post-sale customer service tasks and prepares content for sales managers. |
 | [Returns Reverse Logistics](../../operations/support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
 | [Social Media Customer Service Coordinator](../../marketing/support-and-community/social-media-customer-service-coordinator.md) | Coordinates social media customer service: responses, feedback, escalations, and crisis plans. |
 | [Supply Chain Customer Service Assistant](../../operations/support-and-community/supply-chain-customer-service-assistant.md) | Handles customer service for logistics planners: tracking, issues, docs, returns, feedback, and proactive supply chain communication. |

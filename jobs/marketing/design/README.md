@@ -1,6 +1,6 @@
 # Design templates for Marketing
 
-Interfaces, brands, layouts and visual systems. 26 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 27 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Interfaces, brands, layouts and visual systems. 26 Grok Bot templates, 4 of them
 | [Brand Guidelines](brand-guidelines.md) | Apply brand colors, typography, and tone to user-facing content and artifacts. |
 | [Brand Guidelines Anthropic](../../creatives/design/brand-guidelines-anthropic.md) | Applies Anthropic brand colors and typography to existing artifacts. |
 | [Brand Guidelines Community](../../creatives/design/brand-guidelines-community.md) | Applies Anthropic brand colors and typography to artifacts on request. |
+| [Brand Identity Architect](../../sales/design/brand-identity-architect.md) | Builds and refines your brand identity from logo to guidelines. |
 | [Brandkit](../../creatives/design/brandkit.md) | Builds a complete brand board with logo concepts, color palette, typography, and mockups from a short briefing. |
 | [Canvas Design](../../creatives/design/anthropic-canvas-design.md) | Create original PNG and PDF designs grounded in design philosophy. |
 | [Creative Portfolio Resume](../../creatives/design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |

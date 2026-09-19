@@ -1,11 +1,12 @@
 # Coding templates for Science and Research
 
-Write, review, test and debug software. 30 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 31 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Algorithm Development Assistant](algorithm-development-assistant.md) | Guides research scientists through algorithm development from data prep to documentation. |
 | [Cirq](../../it-and-development/coding/cirq.md) | Design, simulate, and run quantum circuits with Cirq. |
 | [Claude D3.js](../../it-and-development/coding/claude-d3js-skill.md) | Create custom interactive D3.js visualizations for any JavaScript environment. |
 | [Cocoindex](../../it-and-development/coding/cocoindex.md) | Build and run CocoIndex data transformation pipelines (flows) for AI indexing. |

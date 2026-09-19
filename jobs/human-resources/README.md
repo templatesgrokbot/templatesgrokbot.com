@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **94 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **95 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Recruiting, onboarding and people operations. **94 ready-made Grok Bot templates
 |---|---:|
 | [Writing & Content](writing-and-content/README.md) | 22 |
 | [Data Analysis](data-analysis/README.md) | 20 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 19 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 20 |
 | [Productivity](productivity/README.md) | 10 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
 | [Research](research/README.md) | 5 |
@@ -99,6 +99,7 @@ Recruiting, onboarding and people operations. **94 ready-made Grok Bot templates
 | [Technology Adoption Training Planner](../education/teaching-and-tutoring/technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
 | [Training Accessibility Assistant](../education/teaching-and-tutoring/training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
 | [Training Program Designer](../management/teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
+| [Training Program Developer](../sales/teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
 
 ## Productivity
 

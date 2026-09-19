@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **1,005 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **1,008 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,9 +14,9 @@ Product managers and the teams that ship. **1,005 ready-made Grok Bot templates*
 | [Coding](coding/README.md) | 398 |
 | [Design](design/README.md) | 95 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
+| [Data Analysis](data-analysis/README.md) | 66 |
 | [Generative Code](generative-code/README.md) | 65 |
-| [Data Analysis](data-analysis/README.md) | 64 |
-| [Research](research/README.md) | 63 |
+| [Research](research/README.md) | 64 |
 | [Productivity](productivity/README.md) | 58 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 34 |
@@ -77,6 +77,21 @@ Product managers and the teams that ship. **1,005 ready-made Grok Bot templates*
 
 [All 72 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Amplitude Automation](../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
+| [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
+| [Database Design](../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
+| [User Feedback Insight Assistant](data-analysis/user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
+| [Zinc Database](../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
+| [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
+| [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
+| [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
+
+[All 66 Data Analysis templates →](data-analysis/README.md)
+
 ## Generative Code
 
 | Template | What it does |
@@ -92,21 +107,6 @@ Product managers and the teams that ship. **1,005 ready-made Grok Bot templates*
 
 [All 65 Generative Code templates →](generative-code/README.md)
 
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Amplitude Automation](../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
-| [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
-| [Database Design](../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
-| [User Feedback Insight Assistant](data-analysis/user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
-| [Zinc Database](../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
-| [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
-| [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
-| [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
-
-[All 64 Data Analysis templates →](data-analysis/README.md)
-
 ## Research
 
 | Template | What it does |
@@ -120,7 +120,7 @@ Product managers and the teams that ship. **1,005 ready-made Grok Bot templates*
 | [Rex](research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [Wiki Researcher](../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
 
-[All 63 Research templates →](research/README.md)
+[All 64 Research templates →](research/README.md)
 
 ## Productivity
 

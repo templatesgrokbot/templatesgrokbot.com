@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **163 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **178 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,18 @@ Teachers, trainers and students. **163 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 59 |
-| [Research](research/README.md) | 20 |
-| [Writing & Content](writing-and-content/README.md) | 17 |
-| [Data Analysis](data-analysis/README.md) | 16 |
-| [Design](design/README.md) | 12 |
-| [Productivity](productivity/README.md) | 10 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 63 |
+| [Research](research/README.md) | 21 |
+| [Writing & Content](writing-and-content/README.md) | 19 |
+| [Data Analysis](data-analysis/README.md) | 18 |
+| [Design](design/README.md) | 13 |
+| [Productivity](productivity/README.md) | 12 |
 | [Coding](coding/README.md) | 6 |
 | [Security & Compliance](security-and-compliance/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Knowledge Management](knowledge-management/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
+| [Support & Community](support-and-community/README.md) | 3 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Generative Code](generative-code/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
@@ -41,6 +42,7 @@ Teachers, trainers and students. **163 ready-made Grok Bot templates** for this 
 | [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 | [Crisis Training Designer](teaching-and-tutoring/crisis-training-designer.md) | Designs and runs crisis management training materials, simulations, and evaluations. |
 | [Crossframe Teach](teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
+| [Curriculum Design Assistant](teaching-and-tutoring/curriculum-design-assistant.md) | Designs and refines your school's curriculum from research to assessment. |
 | [Curriculum Development Assistant](teaching-and-tutoring/curriculum-development-assistant.md) | Builds and refines training curricula from research to evaluation. |
 | [Curriculum Mapping Assistant](teaching-and-tutoring/curriculum-mapping-assistant.md) | Turns your curriculum into standards-aligned, engaging, and personalized learning plans. |
 | [Customer Training Content Developer](../customer-support/teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
@@ -80,14 +82,17 @@ Teachers, trainers and students. **163 ready-made Grok Bot templates** for this 
 | [Sales Training Program Architect](../sales/teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
 | [Science Experiment Planner](teaching-and-tutoring/science-experiment-planner.md) | Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment. |
 | [Ship Learn Next](teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
+| [Staff Training Module Builder](teaching-and-tutoring/staff-training-module-builder.md) | Builds and manages staff training modules for headteachers, from planning to evaluation. |
 | [Study Buddy](teaching-and-tutoring/study-buddy.md) | Drills you on your own material with spaced repetition instead of re-reading notes. |
 | [Study Guide Creator for Teachers](teaching-and-tutoring/study-guide-creator-for-teachers.md) | Creates and refines study guides for secondary school teachers and their students. |
 | [Subject Explanation Assistant](teaching-and-tutoring/subject-explanation-assistant.md) | Prepares engaging lessons and resources for secondary school subject teaching. |
 | [Teach](teaching-and-tutoring/teach.md) | Teach any topic through structured lessons, reference docs, and learning records. |
+| [Teacher Feedback Assistant](teaching-and-tutoring/teacher-feedback-assistant.md) | Delivers structured feedback and recommendations from classroom observations to headteachers. |
 | [Technical Content Evaluator](teaching-and-tutoring/technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
 | [Technical Tutorials](teaching-and-tutoring/technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
 | [Technology Adoption Training Planner](teaching-and-tutoring/technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
 | [Training Accessibility Assistant](teaching-and-tutoring/training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
+| [Training Program Developer](../sales/teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
 | [Tutorial Engineer](teaching-and-tutoring/tutorial-engineer.md) | Turns code into step-by-step tutorials with hands-on exercises and progressive learning. |
 | [Warren Buffett](teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
 | [Yann LeCun Debate](teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
@@ -112,6 +117,7 @@ Teachers, trainers and students. **163 ready-made Grok Bot templates** for this 
 | [Literature Review](../science-and-research/research/literature-review.md) | Conducts systematic literature reviews across scientific databases and produces formatted documents. |
 | [Papers](../science-and-research/research/papers-skill.md) | Search academic papers, inspect citations, download arXiv PDFs, and extract text. |
 | [Research Prompt](../science-and-research/research/research-prompt.md) | Turn vague research needs into one precise deep-research prompt with context and output criteria. |
+| [Research-to-Decision Assistant](research/research-to-decision-assistant.md) | Turns research into decisions for your school, from literature to action plans. |
 | [Scholar Evaluation](research/scholar-evaluation.md) | Evaluates scholarly work using the ScholarEval framework across multiple quality dimensions. |
 | [Scientific Critical Thinking](../science-and-research/research/scientific-critical-thinking.md) | Evaluates scientific research rigor, methodology, and evidence quality for critical analysis. |
 | [Survey Generator](../science-and-research/research/survey-generator.md) | Generate source-backed AI/ML survey papers as self-contained HTML with curated bibliographies. |
@@ -126,6 +132,7 @@ Teachers, trainers and students. **163 ready-made Grok Bot templates** for this 
 | [Cover Letter Generator](../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Crossframe Critical](../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
 | [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
+| [Grant Writing Assistant for Headteachers](writing-and-content/grant-writing-assistant-for-headteachers.md) | Guides headteachers through the full grant lifecycle, from research to renewal. |
 | [Interview Prep Generator](../human-resources/writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
 | [Marp Slide](../creatives/writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
@@ -134,6 +141,7 @@ Teachers, trainers and students. **163 ready-made Grok Bot templates** for this 
 | [Quality Control Training Developer](../operations/writing-and-content/quality-control-training-developer.md) | Builds quality control training materials from standards research to interactive modules. |
 | [Research Grants](../science-and-research/writing-and-content/research-grants.md) | Writes competitive research proposals for NSF, NIH, DOE, and DARPA with agency-specific formatting and review criteria. |
 | [Safety Training Program Developer](../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
+| [School Policy Development Assistant](writing-and-content/school-policy-development-assistant.md) | Develops, reviews, and communicates school policies with research and stakeholder input. |
 | [Training Material Creator](../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 | [Training Module Developer](../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
 | [Treatment Plans](../healthcare/writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |
@@ -152,6 +160,8 @@ Teachers, trainers and students. **163 ready-made Grok Bot templates** for this 
 | [Learning Analytics Assistant](data-analysis/learning-analytics-assistant.md) | Turns eLearning data into insights, predictions, and personalized learning paths. |
 | [Learning Analytics Insights Assistant](data-analysis/learning-analytics-insights-assistant.md) | Turns training data into insights, forecasts, and improvement plans for learning programs.​ |
 | [Learning Outcome Forecaster](data-analysis/learning-outcome-forecaster.md) | Forecasts learning outcomes from training data and turns insights into action for instructors. |
+| [School Budget Analysis Assistant](data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
+| [School Data Insights Assistant](data-analysis/school-data-insights-assistant.md) | Turns your school's data into clear insights and decisions you can act on confidently. |
 | [Statistical Analysis](../science-and-research/data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 | [Student Feedback Analyst](data-analysis/student-feedback-analyst.md) | Analyzes student feedback and generates reports and personalized responses for secondary school teachers. |
 | [Template Gap Analysis Assistant](data-analysis/template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
@@ -176,6 +186,7 @@ Teachers, trainers and students. **163 ready-made Grok Bot templates** for this 
 | [Scientific Slides](design/scientific-slides.md) | Build slide decks and presentations for research talks. |
 | [Training Visuals Enhancer](design/training-visuals-enhancer.md) | Elevates training presentation visuals with AI-driven design, data, and engagement guidance. |
 | [Virtual Training Design Assistant](design/virtual-training-design-assistant.md) | Designs and improves virtual training environments for instructors. |
+| [Visual Learning Materials Creator](design/visual-learning-materials-creator.md) | Turns lesson concepts into visual learning materials across formats for headteachers. |
 | [VR Learning Content Designer](design/vr-learning-content-designer.md) | Designs and develops VR learning content from storyboard to QA. |
 
 ## Productivity
@@ -189,6 +200,8 @@ Teachers, trainers and students. **163 ready-made Grok Bot templates** for this 
 | [Instructor Lifecycle Manager](productivity/instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
 | [Learning Culture Builder](productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
 | [Practice Plan Creator](productivity/practice-plan-creator.md) | Designs sport-specific practice sessions with drills, timing, and progression. |
+| [School Event Planner](productivity/school-event-planner.md) | Plans and runs school events from venue to evaluation for headteachers. |
+| [School Facility Coordinator](productivity/school-facility-coordinator.md) | Central hub for school facility management, from maintenance to emergency prep. |
 | [Speed](../management/productivity/speed.md) | Launch RSVP speed reader with Spritz-style word-by-word display. |
 | [Training Budget Optimizer](productivity/training-budget-optimizer.md) | Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators. |
 | [Virtual Training Coordinator Assistant](productivity/virtual-training-coordinator-assistant.md) | Manages virtual training setup, content, engagement, and evaluation for training coordinators. |
@@ -240,6 +253,14 @@ Teachers, trainers and students. **163 ready-made Grok Bot templates** for this 
 | [Educational Chatbot Builder](generative-ai-and-llm/educational-chatbot-builder.md) | Builds and improves educational chatbots for eLearning platforms. |
 | [Model Architecture Nanogpt](generative-ai-and-llm/model-architecture-nanogpt.md) | Trains and samples from a minimalist GPT implementation for learning transformer architecture. |
 | [Yann LeCun Simulator](generative-ai-and-llm/yann-lecun-simulator.md) | Simulate Yann LeCun's views on AI, CNNs, and deep learning. |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Parent Communication Coordinator](support-and-community/parent-communication-coordinator.md) | Handles parent communication for headteachers: drafts, schedules, and answers. |
+| [School Community Engagement Coordinator](support-and-community/school-community-engagement-coordinator.md) | Plans and runs community engagement for your school, from events to newsletters. |
+| [Student Counseling Support Coordinator](support-and-community/student-counseling-support-coordinator.md) | Helps headteachers organize and deliver student counseling support across all channels. |
 
 ## Cloud & DevOps
 

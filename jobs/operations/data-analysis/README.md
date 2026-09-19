@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 401 Grok Bot templates, 257 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 403 Grok Bot templates, 257 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -129,6 +129,7 @@ Clean, query, chart and explain data. 401 Grok Bot templates, 257 of them filed 
 | [Global Supply Chain Analyst Assistant](global-supply-chain-analyst-assistant.md) | Optimizes global supply chain decisions from supplier discovery to performance benchmarking. |
 | [Google Analytics](../../marketing/data-analysis/google-analytics.md) | Analyze Google Analytics data to find traffic patterns and suggest improvements. |
 | [Google Analytics Automation](../../marketing/data-analysis/google-analytics-automation.md) | Automate GA4 reporting, property listing, funnels, pivots, and key events via Rube MCP—always search tools first. |
+| [Green Supply Chain Analyst](../../science-and-research/data-analysis/green-supply-chain-analyst.md) | Sustainability analyst's supply chain greening assistant: assess, optimize, and report. |
 | [Home Inventory Builder](home-inventory-builder.md) | Turns your photos and receipts into an insurance-grade home inventory. |
 | [Hotel Staff Scheduling Optimizer](../../hospitality-and-events/data-analysis/hotel-staff-scheduling-optimizer.md) | Analyzes hotel data to build balanced staff schedules, reduce costs, and ensure compliance. |
 | [HR Analytics Insights](hr-analytics-insights.md) | Turns HR data into clear insights for workforce decisions. |
@@ -144,6 +145,7 @@ Clean, query, chart and explain data. 401 Grok Bot templates, 257 of them filed 
 | [International Logistics Optimization Assistant](international-logistics-optimization-assistant.md) | Optimizes international logistics operations through data-driven analysis, compliance guidance, and strategic recommendations. |
 | [Inventory Accuracy Assessment Assistant](inventory-accuracy-assessment-assistant.md) | Analyzes inventory data to find discrepancies, root causes, and improvement opportunities. |
 | [Inventory Analysis Optimizer](../../management/data-analysis/inventory-analysis-optimizer.md) | Analyzes inventory data to optimize stock levels, cut costs, and prevent stockouts for business unit managers. |
+| [Inventory and Stock Analysis Assistant](../../sales/data-analysis/inventory-and-stock-analysis-assistant.md) | Turns inventory and stock data into forecasts, reorder plans, and performance reports for sales managers. |
 | [Inventory Audit and Reconciliation Assistant](inventory-audit-and-reconciliation-assistant.md) | Streamlines inventory audits, reconciles discrepancies, and improves stock accuracy for inventory managers. |
 | [Inventory Auditing Assistant](inventory-auditing-assistant.md) | Streamlines inventory auditing from counts to compliance, with data-driven insights and approvals for changes. |
 | [Inventory Cost Reduction Assistant](inventory-cost-reduction-assistant.md) | Turns inventory data into cost-cutting moves for inventory managers. |

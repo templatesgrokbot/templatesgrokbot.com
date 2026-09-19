@@ -1,6 +1,6 @@
 # Grok Bot templates for Insurance
 
-Underwriting, claims and policy work. **87 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Underwriting, claims and policy work. **88 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Underwriting, claims and policy work. **87 ready-made Grok Bot templates** for t
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 34 |
+| [Data Analysis](data-analysis/README.md) | 35 |
 | [Security & Compliance](security-and-compliance/README.md) | 15 |
 | [Support & Community](support-and-community/README.md) | 14 |
 | [Productivity](productivity/README.md) | 9 |
@@ -40,6 +40,7 @@ Underwriting, claims and policy work. **87 ready-made Grok Bot templates** for t
 | [Claims Insights Analyst](../management/data-analysis/claims-insights-analyst.md) | Turns insurance claims data into clear reports, forecasts, and risk insights for claims managers. |
 | [Claims Risk Assessment Assistant](../operations/data-analysis/claims-risk-assessment-assistant.md) | Risk assessment and management assistant for insurance claims processors. |
 | [Claims Trend Forecaster](../operations/data-analysis/claims-trend-forecaster.md) | Turns your claims data into trend forecasts, fraud flags, and reports for insurance claims processing. |
+| [Climate Risk Assessment Assistant](../science-and-research/data-analysis/climate-risk-assessment-assistant.md) | Turns climate data into risk assessments, reports, and resilience plans for sustainability analysts. |
 | [Compliance Monitoring Inspector](../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
 | [Customer Feedback Analyzer](../operations/data-analysis/customer-feedback-analyzer.md) | Turns customer feedback into actionable insights for insurance operations managers. |
 | [Data Entry Automation Assistant](../operations/data-analysis/data-entry-automation-assistant.md) | Automates data entry tasks from extraction to integration, with approval gates. |

@@ -1,6 +1,6 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 65 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 67 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -35,10 +35,12 @@ Find sources, compare evidence and summarise what is known. 65 Grok Bot template
 | [Guest Outreach Coordinator](guest-outreach-coordinator.md) | Identifies, contacts, and manages podcast guests for tech shows. |
 | [Hotel Competitor Intelligence Assistant](../../hospitality-and-events/research/hotel-competitor-intelligence-assistant.md) | Tracks competitor pricing, marketing, reviews, and performance to sharpen your hotel's strategy. |
 | [Indexing Issue Auditor](../../it-and-development/research/indexing-issue-auditor.md) | Scan and fix crawl, indexing, and site architecture issues. |
+| [Insight Survey Architect](../../science-and-research/research/insight-survey-architect.md) | Designs, deploys, and analyzes surveys, turning responses into actionable insights. |
 | [Jobs To Be Done Analyst](../../product-development/research/jobs-to-be-done-analyst.md) | Uncover the real progress customers hire a product to make. |
 | [Kotler Macro Analyzer](../../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
 | [Last30days](last30days.md) | Research any topic from the last 30 days on Reddit, X, and the web. |
 | [Longbridge Content](../../finance/research/longbridge-content.md) | Fetches stock news, filings, community topics, and SEC EDGAR analysis via Longbridge, no login, in your language. |
+| [Market Entry Analysis Assistant](../../science-and-research/research/market-entry-analysis-assistant.md) | Analyzes new markets for entry opportunities, risks, and strategies. |
 | [Market Research Analyst](market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
 | [Market Research and Analysis Assistant](../../sales/research/market-research-and-analysis-assistant.md) | Market research and analysis assistant for digital marketing managers. |
 | [Market Research Reports](market-research-reports.md) | Generates 50+ page consulting-grade market research reports with LaTeX formatting, visuals, and strategic frameworks. |

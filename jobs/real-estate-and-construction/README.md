@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **98 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **103 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,11 @@ Property, building and site work. **98 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 25 |
+| [Data Analysis](data-analysis/README.md) | 26 |
 | [Productivity](productivity/README.md) | 19 |
-| [Security & Compliance](security-and-compliance/README.md) | 15 |
+| [Security & Compliance](security-and-compliance/README.md) | 16 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 13 |
 | [Research](research/README.md) | 11 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 10 |
 | [Writing & Content](writing-and-content/README.md) | 7 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 5 |
 | [Knowledge Management](knowledge-management/README.md) | 3 |
@@ -35,6 +35,7 @@ Property, building and site work. **98 ready-made Grok Bot templates** for this 
 | [Construction Budget Estimator](data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Construction Risk Assessment Assistant](data-analysis/construction-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates construction project risks with AI-driven insights. |
 | [Defect Identification Assistant](../operations/data-analysis/defect-identification-assistant.md) | Analyzes defects across images, data, text, and processes, and drives quality improvements. |
+| [Energy Audit Assistant](../science-and-research/data-analysis/energy-audit-assistant.md) | Turns energy data into audit findings, savings plans, and compliance-ready reports. |
 | [Energy Consumption Optimization Assistant](../operations/data-analysis/energy-consumption-optimization-assistant.md) | Optimizes your facility's energy use through data analysis, audits, and actionable efficiency strategies. |
 | [Energy Consumption Optimizer](../operations/data-analysis/energy-consumption-optimizer.md) | Optimizes your facility's energy use through data analysis, recommendations, and reporting. |
 | [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
@@ -91,10 +92,29 @@ Property, building and site work. **98 ready-made Grok Bot templates** for this 
 | [Operations Risk Assessment Planner](../operations/security-and-compliance/operations-risk-assessment-planner.md) | Identifies, analyzes, prioritizes, and plans mitigation for operational risks, from supply chain to compliance, with prepared monitoring and… |
 | [Production Risk Assessment Assistant](../operations/security-and-compliance/production-risk-assessment-assistant.md) | Identifies, assesses, and mitigates production risks with data-backed reports and safety protocols. |
 | [Real Estate Compliance Assistant](security-and-compliance/real-estate-compliance-assistant.md) | Legal and ethical compliance assistant for real estate brokers, from research to policy drafting. |
+| [Risk Assessment Navigator](../sales/security-and-compliance/risk-assessment-navigator.md) | Guides business development managers through complete risk assessment, from identifying risks to building automated assessment tools. |
 | [Risk Management Analysis Assistant](../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
 | [Safety Compliance Assistant](../operations/security-and-compliance/safety-compliance-assistant.md) | Safety compliance assistant that turns regulations into policies, audits, training, and reports for safety engineers. |
 | [Safety Compliance Planner](../operations/security-and-compliance/safety-compliance-planner.md) | Turns safety standards into checklists, training, and audit plans for quality control inspectors. |
 | [Safety Protocol Development Assistant](../operations/security-and-compliance/safety-protocol-development-assistant.md) | Develops, reviews, and updates workplace safety protocols from research to training. |
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [BDM Networking Follow-Up](../sales/sales-and-negotiation/bdm-networking-follow-up.md) | Plan, execute, and follow up on your networking to grow valuable professional connections. |
+| [Client Communication Assistant](sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
+| [CRM Sales and Marketing Assistant](../sales/sales-and-negotiation/crm-sales-and-marketing-assistant.md) | CRM assistant that manages leads, segments customers, and analyzes sales performance for your team. |
+| [Lead Lifecycle Manager](../sales/sales-and-negotiation/lead-lifecycle-manager.md) | Finds, qualifies, and nurtures leads, then tracks and reports on them for sales. |
+| [Personalized Sales Strategy Assistant](../sales/sales-and-negotiation/personalized-sales-strategy-assistant.md) | Personalized sales strategies from customer data to tailored pitches and follow-ups. |
+| [Real Estate Negotiation Prep](sales-and-negotiation/real-estate-negotiation-prep.md) | Prepares real estate brokers for negotiations with market data, strategy, and documentation. |
+| [Real Estate Networking Partner](sales-and-negotiation/real-estate-networking-partner.md) | Finds events, partners, and contacts; drafts outreach; and builds your real estate network. |
+| [Sales Call Script Builder](../sales/sales-and-negotiation/sales-call-script-builder.md) | Builds and refines personalized sales call scripts that engage and convert. |
+| [Sales Script Builder](../sales/sales-and-negotiation/sales-script-builder.md) | Crafts and refines sales scripts for sales managers, from research to follow-up. |
+| [Sustainable Property Assistant](sales-and-negotiation/sustainable-property-assistant.md) | Helps real estate brokers market, advise on, and close deals for sustainable and green properties. |
+| [Vendor Evaluation Manager](../operations/sales-and-negotiation/vendor-evaluation-manager.md) | Manages vendor evaluation from research to onboarding and performance tracking. |
+| [Vendor Negotiation Strategist](../operations/sales-and-negotiation/vendor-negotiation-strategist.md) | Prepares, runs, and reviews vendor negotiations from research to contract for a Director of Operations. |
+| [Vendor Relationship Management Assistant](../operations/sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
 
 ## Research
 
@@ -111,21 +131,6 @@ Property, building and site work. **98 ready-made Grok Bot templates** for this 
 | [Material Requirement Analyst](research/material-requirement-analyst.md) | Material analysis, cost, availability, compliance, and logistics for construction contractors. |
 | [Us Property Data](research/us-property-data.md) | Retrieve real U.S. property valuations, listings, and history from Zillow data. No guessing. |
 | [Vendor Research and Evaluation Assistant](../management/research/vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Client Communication Assistant](sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
-| [CRM Sales and Marketing Assistant](../sales/sales-and-negotiation/crm-sales-and-marketing-assistant.md) | CRM assistant that manages leads, segments customers, and analyzes sales performance for your team. |
-| [Lead Lifecycle Manager](../sales/sales-and-negotiation/lead-lifecycle-manager.md) | Finds, qualifies, and nurtures leads, then tracks and reports on them for sales. |
-| [Personalized Sales Strategy Assistant](../sales/sales-and-negotiation/personalized-sales-strategy-assistant.md) | Personalized sales strategies from customer data to tailored pitches and follow-ups. |
-| [Real Estate Negotiation Prep](sales-and-negotiation/real-estate-negotiation-prep.md) | Prepares real estate brokers for negotiations with market data, strategy, and documentation. |
-| [Real Estate Networking Partner](sales-and-negotiation/real-estate-networking-partner.md) | Finds events, partners, and contacts; drafts outreach; and builds your real estate network. |
-| [Sustainable Property Assistant](sales-and-negotiation/sustainable-property-assistant.md) | Helps real estate brokers market, advise on, and close deals for sustainable and green properties. |
-| [Vendor Evaluation Manager](../operations/sales-and-negotiation/vendor-evaluation-manager.md) | Manages vendor evaluation from research to onboarding and performance tracking. |
-| [Vendor Negotiation Strategist](../operations/sales-and-negotiation/vendor-negotiation-strategist.md) | Prepares, runs, and reviews vendor negotiations from research to contract for a Director of Operations. |
-| [Vendor Relationship Management Assistant](../operations/sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
 
 ## Writing & Content
 

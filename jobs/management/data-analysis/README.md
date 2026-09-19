@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 173 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 176 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -33,6 +33,7 @@ Clean, query, chart and explain data. 173 Grok Bot templates, 93 of them filed i
 | [Consultant Segment Profiler](consultant-segment-profiler.md) | Customer segmentation assistant for management consultants to analyze, profile, and target customer segments. |
 | [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Cost Reduction Analyst](cost-reduction-analyst.md) | Finds and validates cost reduction opportunities for service managers. |
+| [CRM Data Interpretation Assistant](../../sales/data-analysis/crm-data-interpretation-assistant.md) | Turns CRM data into clear sales insights and forecasts for sales managers. |
 | [Cross-Docking Efficiency Assistant](../../operations/data-analysis/cross-docking-efficiency-assistant.md) | Streamlines cross-docking logistics from inventory tracking to continuous improvement. |
 | [Customer Demographic Insight Engine](customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
 | [Customer Experience Improvement](../../operations/data-analysis/customer-experience-improvement.md) | Analyzes customer data and feedback to improve experience, support, and loyalty. |
@@ -145,7 +146,9 @@ Clean, query, chart and explain data. 173 Grok Bot templates, 93 of them filed i
 | [Route Optimization Assistant](../../operations/data-analysis/route-optimization-assistant.md) | Optimizes delivery routes, estimates times, cuts costs, and monitors fleet performance. |
 | [Route Optimization Planner](../../operations/data-analysis/route-optimization-planner.md) | Optimizes delivery routes, cuts costs, and flags risks for supply chain managers. |
 | [Safety Stock Review](../../operations/data-analysis/safety-stock-review.md) | Sizes or audits safety stock using the z*sigma*sqrt(LT) formula with empirical stress tests per variability class. |
+| [Sales Data Coach](../../sales/data-analysis/sales-data-coach.md) | Turns your sales data into performance insights, forecasts, and coaching for your team. |
 | [Sales Feedback Action Planner](../../sales/data-analysis/sales-feedback-action-planner.md) | Turns customer feedback into sales insights, trends, and actions. |
+| [Sales Feedback Insight Compass](../../sales/data-analysis/sales-feedback-insight-compass.md) | Turns customer feedback into actionable insights for sales strategy and product decisions. |
 | [Senior Manager Decision Support](senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
 | [Service Journey Optimizer](service-journey-optimizer.md) | Maps, analyzes, and optimizes customer journeys for service managers. |
 | [Service Quality Enhancement Assistant](service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |

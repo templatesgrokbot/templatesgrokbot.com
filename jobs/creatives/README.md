@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **395 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **399 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,17 @@ Designers, artists and content creators. **395 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 154 |
+| [Design](design/README.md) | 155 |
 | [Generative Art](generative-art/README.md) | 46 |
 | [Generative Code](generative-code/README.md) | 45 |
+| [Writing & Content](writing-and-content/README.md) | 35 |
 | [Coding](coding/README.md) | 34 |
-| [Writing & Content](writing-and-content/README.md) | 34 |
 | [Social Media](social-media/README.md) | 16 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 14 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 15 |
 | [Video Editing](video-editing/README.md) | 11 |
 | [Generative Video](generative-video/README.md) | 9 |
+| [Office Tools](office-tools/README.md) | 7 |
 | [Research](research/README.md) | 7 |
-| [Office Tools](office-tools/README.md) | 6 |
 | [Data Analysis](data-analysis/README.md) | 4 |
 | [Text-To-Speech](text-to-speech/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
@@ -51,6 +51,7 @@ Designers, artists and content creators. **395 ready-made Grok Bot templates** f
 | [Brand Guidelines](../marketing/design/brand-guidelines.md) | Apply brand colors, typography, and tone to user-facing content and artifacts. |
 | [Brand Guidelines Anthropic](design/brand-guidelines-anthropic.md) | Applies Anthropic brand colors and typography to existing artifacts. |
 | [Brand Guidelines Community](design/brand-guidelines-community.md) | Applies Anthropic brand colors and typography to artifacts on request. |
+| [Brand Identity Architect](../sales/design/brand-identity-architect.md) | Builds and refines your brand identity from logo to guidelines. |
 | [Brandkit](design/brandkit.md) | Builds a complete brand board with logo concepts, color palette, typography, and mockups from a short briefing. |
 | [Brutalism](design/brutalism.md) | Implement raw, intentionally unfinished web and app interfaces in the Brutalism style. |
 | [Brutalist Typography](design/brutalist-typography.md) | Generate brutalist typography with oversized system fonts, negative margins, and aggressive layout collisions. |
@@ -292,6 +293,46 @@ Designers, artists and content creators. **395 ready-made Grok Bot templates** f
 | [Ui Component](../it-and-development/generative-code/ui-component.md) | Generate a new UI component following StyleSeed design conventions. |
 | [VFX Text Cursor Generator](generative-code/vfx-text-cursor-generator.md) | Generates a video opening frame with typewriter text, chromatic trails, and light leaks. |
 
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [AI Copywriter](../marketing/writing-and-content/ai-copywriter.md) | Writes marketing copy in Dan Koe's voice and runs every draft through Humanizer before delivery. |
+| [Avoid Ai Writing](../writers/writing-and-content/avoid-ai-writing.md) | Audit and rewrite text to remove 21 categories of AI writing patterns. |
+| [Beautiful Prose](../writers/writing-and-content/beautiful-prose.md) | A style contract for clean, exact, forceful English prose without AI tics. |
+| [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
+| [Brand Storytelling Assistant](../pr-and-communications/writing-and-content/brand-storytelling-assistant.md) | Crafts compelling brand stories across all channels and formats for marketing teams. |
+| [Content Creation](../marketing/writing-and-content/marketing-content-creation.md) | Draft channel-specific marketing content that is SEO-aware and free of buzzwords. |
+| [Content Creator](../marketing/writing-and-content/content-creator.md) | Draft and review audience-specific content using brand examples and channel templates. |
+| [Content Editing Assistant](../pr-and-communications/writing-and-content/content-editing-assistant.md) | Edits content for grammar, style, clarity, facts, and audience fit. |
+| [Content Research Writer](../writers/writing-and-content/content-research-writer.md) | Research, outline, and refine written content while preserving the author's voice. |
+| [Copy Editing](../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
+| [Copywriting Support Assistant](../pr-and-communications/writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
+| [Design System Documentation Assistant](../product-development/writing-and-content/design-system-documentation-assistant.md) | Turns your design system into clear, current, and consistent documentation your whole team can use. |
+| [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
+| [E-Learning Content Creator](../education/writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
+| [Humanizer](../writers/writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
+| [Magazine Blog Post Editor](../writers/writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
+| [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
+| [Marketing Content Creator](../sales/writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |
+| [Marketing Content Polisher](../sales/writing-and-content/marketing-content-polisher.md) | Plan, write, and polish marketing content across formats with AI assistance. |
+| [Marp Slide](writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
+| [Newsletter Content Creator](../sales/writing-and-content/newsletter-content-creator.md) | Drafts, optimizes, and repurposes newsletter content from research to performance analysis. |
+| [Podcast Content Suite](../marketing/writing-and-content/podcast-content-suite.md) | Turn podcast transcripts into a full content marketing suite: blog, social, newsletter, show notes, audiograms, and SEO. |
+| [Podcast Editor](writing-and-content/podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |
+| [Podcast Metadata Specialist](../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
+| [Portfolio Case Study Writer](writing-and-content/portfolio-case-study-writer.md) | Transforms resume bullets into detailed portfolio case studies with context, action, and outcome. |
+| [Recipe Rescuer](writing-and-content/recipe-rescuer.md) | Adapts a recipe to what you actually have, and tells you when a substitution will not work. |
+| [Seo Aeo Landing Page Writer](../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
+| [Short Story Analyzer](../writers/writing-and-content/short-story-analyzer.md) | 拆解短篇网文的故事核、结构与爆点，产出可复用的拆文报告。 |
+| [Sports Trivia Builder](writing-and-content/sports-trivia-builder.md) | Generates sports trivia questions by sport, era, and difficulty with explanations. |
+| [Thread Writer](../writers/writing-and-content/thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |
+| [UX Content Strategy Planner](../product-development/writing-and-content/ux-content-strategy-planner.md) | Builds and manages a complete content strategy for UX designers, from research to governance. |
+| [UX Copy](writing-and-content/design-ux-copy.md) | Write or review UX copy for buttons, errors, empty states, and toasts. |
+| [UX Copy Refiner](writing-and-content/ux-copy-refiner.md) | Rewrites UI microcopy so users instantly understand what happens next and what to do. |
+| [Video Script writer](writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
+| [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
+
 ## Coding
 
 | Template | What it does |
@@ -331,45 +372,6 @@ Designers, artists and content creators. **395 ready-made Grok Bot templates** f
 | [Wiki Vitepress](../it-and-development/coding/wiki-vitepress.md) | Transform wiki Markdown into a polished VitePress site with dark Mermaid diagrams. |
 | [Wordpress Theme Development](../it-and-development/coding/wordpress-theme-development.md) | Build custom WordPress themes with block editor and 7.0 features. |
 
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [AI Copywriter](../marketing/writing-and-content/ai-copywriter.md) | Writes marketing copy in Dan Koe's voice and runs every draft through Humanizer before delivery. |
-| [Avoid Ai Writing](../writers/writing-and-content/avoid-ai-writing.md) | Audit and rewrite text to remove 21 categories of AI writing patterns. |
-| [Beautiful Prose](../writers/writing-and-content/beautiful-prose.md) | A style contract for clean, exact, forceful English prose without AI tics. |
-| [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
-| [Brand Storytelling Assistant](../pr-and-communications/writing-and-content/brand-storytelling-assistant.md) | Crafts compelling brand stories across all channels and formats for marketing teams. |
-| [Content Creation](../marketing/writing-and-content/marketing-content-creation.md) | Draft channel-specific marketing content that is SEO-aware and free of buzzwords. |
-| [Content Creator](../marketing/writing-and-content/content-creator.md) | Draft and review audience-specific content using brand examples and channel templates. |
-| [Content Editing Assistant](../pr-and-communications/writing-and-content/content-editing-assistant.md) | Edits content for grammar, style, clarity, facts, and audience fit. |
-| [Content Research Writer](../writers/writing-and-content/content-research-writer.md) | Research, outline, and refine written content while preserving the author's voice. |
-| [Copy Editing](../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
-| [Copywriting Support Assistant](../pr-and-communications/writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
-| [Design System Documentation Assistant](../product-development/writing-and-content/design-system-documentation-assistant.md) | Turns your design system into clear, current, and consistent documentation your whole team can use. |
-| [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
-| [E-Learning Content Creator](../education/writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
-| [Humanizer](../writers/writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
-| [Magazine Blog Post Editor](../writers/writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
-| [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
-| [Marketing Content Creator](../sales/writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |
-| [Marp Slide](writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
-| [Newsletter Content Creator](../sales/writing-and-content/newsletter-content-creator.md) | Drafts, optimizes, and repurposes newsletter content from research to performance analysis. |
-| [Podcast Content Suite](../marketing/writing-and-content/podcast-content-suite.md) | Turn podcast transcripts into a full content marketing suite: blog, social, newsletter, show notes, audiograms, and SEO. |
-| [Podcast Editor](writing-and-content/podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |
-| [Podcast Metadata Specialist](../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
-| [Portfolio Case Study Writer](writing-and-content/portfolio-case-study-writer.md) | Transforms resume bullets into detailed portfolio case studies with context, action, and outcome. |
-| [Recipe Rescuer](writing-and-content/recipe-rescuer.md) | Adapts a recipe to what you actually have, and tells you when a substitution will not work. |
-| [Seo Aeo Landing Page Writer](../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
-| [Short Story Analyzer](../writers/writing-and-content/short-story-analyzer.md) | 拆解短篇网文的故事核、结构与爆点，产出可复用的拆文报告。 |
-| [Sports Trivia Builder](writing-and-content/sports-trivia-builder.md) | Generates sports trivia questions by sport, era, and difficulty with explanations. |
-| [Thread Writer](../writers/writing-and-content/thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |
-| [UX Content Strategy Planner](../product-development/writing-and-content/ux-content-strategy-planner.md) | Builds and manages a complete content strategy for UX designers, from research to governance. |
-| [UX Copy](writing-and-content/design-ux-copy.md) | Write or review UX copy for buttons, errors, empty states, and toasts. |
-| [UX Copy Refiner](writing-and-content/ux-copy-refiner.md) | Rewrites UI microcopy so users instantly understand what happens next and what to do. |
-| [Video Script writer](writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
-| [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
-
 ## Social Media
 
 | Template | What it does |
@@ -408,6 +410,7 @@ Designers, artists and content creators. **395 ready-made Grok Bot templates** f
 | [Seo Image Gen](../marketing/marketing-and-growth/seo-image-gen.md) | Generate SEO-optimized images like OG cards, hero images, and infographics. |
 | [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
 | [Social Media Strategy Planner](../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
+| [Video Content Strategist](../sales/marketing-and-growth/video-content-strategist.md) | Plans, scripts, and optimizes video content from idea to performance analysis. |
 | [Youtube Seo Optimizer](../marketing/marketing-and-growth/youtube-seo-optimizer.md) | Optimize YouTube and podcast metadata for search and discovery. |
 
 ## Video Editing
@@ -440,6 +443,18 @@ Designers, artists and content creators. **395 ready-made Grok Bot templates** f
 | [Sora](generative-video/sora.md) | Generates and manages Sora video clips via OpenAI's API using a bundled CLI. |
 | [Testimonial Video Builder](../marketing/generative-video/testimonial-video-builder.md) | Turn real customer reviews into polished social-proof videos with HyperFrames. |
 
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Canvas Deck Builder](office-tools/canvas-deck-builder.md) | 把内容排进锁死的 1920×1080 画布, 每页一个视觉重心, 不绑模板。 |
+| [Deck Export Repair](office-tools/deck-export-repair.md) | Repairs broken AI-generated slide decks and PDFs, restoring clean text, fonts, and structure. |
+| [Manifesto Deck Builder](office-tools/manifesto-deck-builder.md) | Turns your outline into a bold color-block manifesto deck, word-for-word unchanged. |
+| [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
+| [PPTX Reference Analyzer](office-tools/pptx-reference-analyzer.md) | Analyzes reference PPTX decks for structure, theme, and design evidence without modifying them. |
+| [Replit Slides Deck Builder](office-tools/replit-slides-deck-builder.md) | Turn your content into a Replit Slides-style horizontal-swipe deck with one of eight themes. No mixing, no fuss. |
+| [Visual Asset Placer](office-tools/visual-asset-placer.md) | Selects and places approved visual assets in editable PPTX decks. |
+
 ## Research
 
 | Template | What it does |
@@ -451,17 +466,6 @@ Designers, artists and content creators. **395 ready-made Grok Bot templates** f
 | [Ux Researcher](research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
 | [Ux Researcher Designer](../product-development/research/ux-researcher-designer.md) | Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships. |
 | [Web Media Getter](research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
-
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [Canvas Deck Builder](office-tools/canvas-deck-builder.md) | 把内容排进锁死的 1920×1080 画布, 每页一个视觉重心, 不绑模板。 |
-| [Deck Export Repair](office-tools/deck-export-repair.md) | Repairs broken AI-generated slide decks and PDFs, restoring clean text, fonts, and structure. |
-| [Manifesto Deck Builder](office-tools/manifesto-deck-builder.md) | Turns your outline into a bold color-block manifesto deck, word-for-word unchanged. |
-| [PPTX Reference Analyzer](office-tools/pptx-reference-analyzer.md) | Analyzes reference PPTX decks for structure, theme, and design evidence without modifying them. |
-| [Replit Slides Deck Builder](office-tools/replit-slides-deck-builder.md) | Turn your content into a Replit Slides-style horizontal-swipe deck with one of eight themes. No mixing, no fuss. |
-| [Visual Asset Placer](office-tools/visual-asset-placer.md) | Selects and places approved visual assets in editable PPTX decks. |
 
 ## Data Analysis
 

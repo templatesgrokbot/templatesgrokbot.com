@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **132 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **136 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,15 @@ Accounting, budgeting, analysis and risk. **132 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 85 |
-| [Research](research/README.md) | 10 |
+| [Data Analysis](data-analysis/README.md) | 87 |
+| [Research](research/README.md) | 11 |
 | [Coding](coding/README.md) | 9 |
 | [Productivity](productivity/README.md) | 7 |
 | [Security & Compliance](security-and-compliance/README.md) | 5 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 4 |
 | [Office Tools](office-tools/README.md) | 4 |
+| [Writing & Content](writing-and-content/README.md) | 3 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
-| [Writing & Content](writing-and-content/README.md) | 2 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
@@ -56,6 +56,7 @@ Accounting, budgeting, analysis and risk. **132 ready-made Grok Bot templates** 
 | [Doordash Order Ledger](../operations/data-analysis/doordash-order-ledger.md) | Answers questions about DoorDash spending and ordering history from an audit log. |
 | [E-commerce Fraud Detection Assistant](../management/data-analysis/e-commerce-fraud-detection-assistant.md) | Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud. |
 | [Energy Procurement](../operations/data-analysis/energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
+| [ESG Analysis Assistant](../science-and-research/data-analysis/esg-analysis-assistant.md) | Turns ESG data into clear reports, risk checks, and improvement plans for sustainability analysts. |
 | [Excel Analysis](data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Executive Dashboard Generator](../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Executive Forecast Report Builder](../management/data-analysis/executive-forecast-report-builder.md) | Turns financial data into forecasts, scenarios, and reports for senior management decisions. |
@@ -98,6 +99,7 @@ Accounting, budgeting, analysis and risk. **132 ready-made Grok Bot templates** 
 | [Risk Assessment Workflow Assistant](../legal/data-analysis/risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |
 | [Risk Manager](data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
+| [School Budget Analysis Assistant](../education/data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
 | [Senior Manager Decision Support](../management/data-analysis/senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
 | [Spend Analysis Assistant](../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Spreadsheet](data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
@@ -126,6 +128,7 @@ Accounting, budgeting, analysis and risk. **132 ready-made Grok Bot templates** 
 | [Maxia](../operations/research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
 | [Screen Adverse Media](../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
 | [SRED Project Organizer](../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
+| [Sustainable Investment Research Assistant](../science-and-research/research/sustainable-investment-research-assistant.md) | Sustainable investment research assistant for sustainability analysts. |
 | [Technical Due Diligence Reporter](research/technical-due-diligence-reporter.md) | Analyzes a target codebase and produces an investment-grade technical due diligence report. |
 | [Term Sheet Reader](research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
 | [Third-Party Compliance Evaluator](../legal/research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
@@ -184,19 +187,20 @@ Accounting, budgeting, analysis and risk. **132 ready-made Grok Bot templates** 
 | [Excel Spreadsheets](../operations/office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
 | [Odoo Accounting Setup](../operations/office-tools/odoo-accounting-setup.md) | Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation. |
 
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Tax Strategy Optimizer](teaching-and-tutoring/tax-strategy-optimizer.md) | Optimize your tax strategy with clear, actionable recommendations. |
-| [Warren Buffett](../education/teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
-
 ## Writing & Content
 
 | Template | What it does |
 |---|---|
 | [Doc Chaser Lite](../operations/writing-and-content/doc-chaser-lite.md) | Drafts one friendly document-request email for a tax client from a brief and practice profile. |
 | [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
+| [Sustainability Report Builder](../science-and-research/writing-and-content/sustainability-report-builder.md) | Turns ESG data into accurate, compliant sustainability reports for analysts. |
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Tax Strategy Optimizer](teaching-and-tutoring/tax-strategy-optimizer.md) | Optimize your tax strategy with clear, actionable recommendations. |
+| [Warren Buffett](../education/teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
 
 ## Knowledge Management
 

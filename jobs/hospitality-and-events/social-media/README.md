@@ -1,6 +1,6 @@
 # Social Media templates for Hospitality and Events
 
-Plan, write and measure posts across networks. 14 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 15 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,5 +20,6 @@ Plan, write and measure posts across networks. 14 Grok Bot templates, 0 of them 
 | [Social Media Campaign Planner](../../marketing/social-media/social-media-campaign-planner.md) | Plans and executes social media campaigns from research to reporting. |
 | [Social Media Content Planner](../../pr-and-communications/social-media/social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |
 | [Social Media SEO Optimizer](../../marketing/social-media/social-media-seo-optimizer.md) | Optimizes social media content for search engines and tracks SEO performance. |
+| [Social Media Strategy Optimizer](../../sales/social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 
 [← All Hospitality and Events templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/hospitality-and-events)

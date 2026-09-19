@@ -1,6 +1,6 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 57 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 58 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -43,6 +43,7 @@ Plan, write and measure posts across networks. 57 Grok Bot templates, 50 of them
 | [Social Media Reporting Assistant](social-media-reporting-assistant.md) | Turns social media data into clear reports, insights, and strategy recommendations. |
 | [Social Media Sales Intelligence](../../sales/social-media/social-media-sales-intelligence.md) | Turns social media chatter into sales intelligence: competitors, trends, sentiment, influencers, and campaign impact. |
 | [Social Media SEO Optimizer](social-media-seo-optimizer.md) | Optimizes social media content for search engines and tracks SEO performance. |
+| [Social Media Strategy Optimizer](../../sales/social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Social Media Trend Analyst](social-media-trend-analyst.md) | Tracks social media trends and turns them into reports, content, and campaign plans. |
 | [Social Orchestrator](social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |
 | [Social Post Writer Seo](social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |

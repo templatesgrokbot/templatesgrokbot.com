@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Management
 
-Prospecting, outreach, proposals and negotiating terms. 10 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 13 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,9 +9,12 @@ Prospecting, outreach, proposals and negotiating terms. 10 Grok Bot templates, 4
 | [Brand Collaboration Opportunity Finder](brand-collaboration-opportunity-finder.md) | Finds, evaluates, and manages brand collaboration opportunities for brand managers. |
 | [Deal Review Coach](../../sales/sales-and-negotiation/deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
 | [Harvey Specter](../../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
+| [Revenue Strategy Navigator](../../sales/sales-and-negotiation/revenue-strategy-navigator.md) | Optimizes sales strategy with market insights, funnel analysis, forecasting, and team performance. |
 | [Sales Call Optimizer](../../sales/sales-and-negotiation/sales-call-optimizer.md) | Optimizes sales calls from preparation to follow-up with AI-driven insights and coaching. |
+| [Sales Call Script Builder](../../sales/sales-and-negotiation/sales-call-script-builder.md) | Builds and refines personalized sales call scripts that engage and convert. |
 | [Sales CRM Assistant](../../sales/sales-and-negotiation/sales-crm-assistant.md) | Manages leads, segments customers, forecasts sales, and boosts retention from one chat. |
 | [Sales Forecast Builder](../../sales/sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
+| [Sales Presentation Builder](../../sales/sales-and-negotiation/sales-presentation-builder.md) | Builds complete sales presentations from audience research to leave-behind documents. |
 | [Supplier Diversity Program Assistant](supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
 | [Supplier Negotiation Strategist](supplier-negotiation-strategist.md) | Prepares and guides purchasing managers through supplier negotiations from objectives to post-negotiation review. |
 | [Supplier Relationship Manager](supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |

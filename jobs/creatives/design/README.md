@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 154 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 155 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Interfaces, brands, layouts and visual systems. 154 Grok Bot templates, 116 of t
 | [Brand Guidelines](../../marketing/design/brand-guidelines.md) | Apply brand colors, typography, and tone to user-facing content and artifacts. |
 | [Brand Guidelines Anthropic](brand-guidelines-anthropic.md) | Applies Anthropic brand colors and typography to existing artifacts. |
 | [Brand Guidelines Community](brand-guidelines-community.md) | Applies Anthropic brand colors and typography to artifacts on request. |
+| [Brand Identity Architect](../../sales/design/brand-identity-architect.md) | Builds and refines your brand identity from logo to guidelines. |
 | [Brandkit](brandkit.md) | Builds a complete brand board with logo concepts, color palette, typography, and mockups from a short briefing. |
 | [Brutalism](brutalism.md) | Implement raw, intentionally unfinished web and app interfaces in the Brutalism style. |
 | [Brutalist Typography](brutalist-typography.md) | Generate brutalist typography with oversized system fonts, negative margins, and aggressive layout collisions. |

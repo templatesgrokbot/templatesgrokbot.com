@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **618 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **625 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,18 +11,18 @@ Team leads and project managers. **618 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 173 |
+| [Data Analysis](data-analysis/README.md) | 176 |
 | [Productivity](productivity/README.md) | 142 |
 | [Research](research/README.md) | 63 |
 | [Coding](coding/README.md) | 44 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 34 |
 | [Security & Compliance](security-and-compliance/README.md) | 33 |
 | [Knowledge Management](knowledge-management/README.md) | 22 |
-| [Writing & Content](writing-and-content/README.md) | 18 |
+| [Writing & Content](writing-and-content/README.md) | 19 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 16 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 13 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 10 |
 | [Design](design/README.md) | 9 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
 | [Support & Community](support-and-community/README.md) | 7 |
@@ -44,7 +44,7 @@ Team leads and project managers. **618 ready-made Grok Bot templates** for this 
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 
-[All 173 Data Analysis templates →](data-analysis/README.md)
+[All 176 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -149,7 +149,7 @@ Team leads and project managers. **618 ready-made Grok Bot templates** for this 
 | [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [PM Stakeholder Comms Kit](../product-development/writing-and-content/pm-stakeholder-comms-kit.md) | Drafts, summarizes, and plans all stakeholder communications for product managers. |
 
-[All 18 Writing & Content templates →](writing-and-content/README.md)
+[All 19 Writing & Content templates →](writing-and-content/README.md)
 
 ## Cloud & DevOps
 
@@ -165,6 +165,21 @@ Team leads and project managers. **618 ready-made Grok Bot templates** for this 
 | [Error Diagnostics Error Trace](../it-and-development/cloud-and-devops/error-diagnostics-error-trace.md) | Implement error tracking, structured logging, and intelligent alerting for production systems. |
 
 [All 16 Cloud & DevOps templates →](cloud-and-devops/README.md)
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Brand Collaboration Opportunity Finder](sales-and-negotiation/brand-collaboration-opportunity-finder.md) | Finds, evaluates, and manages brand collaboration opportunities for brand managers. |
+| [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
+| [Vendor Negotiation Assistant](../operations/sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
+| [Deal Review Coach](../sales/sales-and-negotiation/deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
+| [Supplier Relationship Manager](sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
+| [Sales Call Optimizer](../sales/sales-and-negotiation/sales-call-optimizer.md) | Optimizes sales calls from preparation to follow-up with AI-driven insights and coaching. |
+| [Supplier Diversity Program Assistant](sales-and-negotiation/supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
+| [Revenue Strategy Navigator](../sales/sales-and-negotiation/revenue-strategy-navigator.md) | Optimizes sales strategy with market insights, funnel analysis, forecasting, and team performance. |
+
+[All 13 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Self-Improvement
 
@@ -195,21 +210,6 @@ Team leads and project managers. **618 ready-made Grok Bot templates** for this 
 | [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
 
 [All 11 Office Tools templates →](office-tools/README.md)
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Brand Collaboration Opportunity Finder](sales-and-negotiation/brand-collaboration-opportunity-finder.md) | Finds, evaluates, and manages brand collaboration opportunities for brand managers. |
-| [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
-| [Vendor Negotiation Assistant](../operations/sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
-| [Deal Review Coach](../sales/sales-and-negotiation/deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
-| [Supplier Relationship Manager](sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
-| [Sales Call Optimizer](../sales/sales-and-negotiation/sales-call-optimizer.md) | Optimizes sales calls from preparation to follow-up with AI-driven insights and coaching. |
-| [Supplier Diversity Program Assistant](sales-and-negotiation/supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
-| [Sales Forecast Builder](../sales/sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
-
-[All 10 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Design
 

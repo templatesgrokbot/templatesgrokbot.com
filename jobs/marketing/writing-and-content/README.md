@@ -1,6 +1,6 @@
 # Writing & Content templates for Marketing
 
-Plan, write and edit articles, copy and documentation. 54 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 55 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -37,6 +37,7 @@ Plan, write and edit articles, copy and documentation. 54 Grok Bot templates, 24
 | [Linkedin Profile Optimizer](linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
 | [Magazine Blog Post Editor](../../writers/writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
 | [Marketing Content Creator](../../sales/writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |
+| [Marketing Content Polisher](../../sales/writing-and-content/marketing-content-polisher.md) | Plan, write, and polish marketing content across formats with AI assistance. |
 | [Marp Slide](../../creatives/writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
 | [Media Content Creation Assistant](../../pr-and-communications/writing-and-content/media-content-creation-assistant.md) | Drafts and plans media content—press releases, posts, scripts, and more—for media relations specialists. |
 | [Newsletter Content Creator](../../sales/writing-and-content/newsletter-content-creator.md) | Drafts, optimizes, and repurposes newsletter content from research to performance analysis. |

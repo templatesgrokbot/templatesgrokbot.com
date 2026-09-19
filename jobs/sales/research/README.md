@@ -1,6 +1,6 @@
 # Research templates for Sales
 
-Find sources, compare evidence and summarise what is known. 29 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 32 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Find sources, compare evidence and summarise what is known. 29 Grok Bot template
 | [Apify Market Research](../../marketing/research/apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
 | [Competitive Ads Extractor](../../marketing/research/competitive-ads-extractor.md) | Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns. |
 | [Competitive Intelligence Analyst](../../executives-and-strategy/research/competitive-intelligence-analyst.md) | Monitors competitors and market trends to produce structured intelligence reports. |
+| [Competitor Edge Monitor](competitor-edge-monitor.md) | Tracks competitors and turns their moves into your advantage. |
 | [Competitor Profiling](../../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Tracking](../../marketing/research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
 | [Contact Hunter](contact-hunter.md) | Finds and verifies public contact details for people and companies. |
@@ -27,8 +28,10 @@ Find sources, compare evidence and summarise what is known. 29 Grok Bot template
 | [Persona Workshop Facilitator](../../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Pharma Competitive Intelligence Assistant](pharma-competitive-intelligence-assistant.md) | Competitive intelligence for pharmaceutical sales reps, from market research to strategy. |
 | [Pharmaceutical Product Knowledge Assistant](pharmaceutical-product-knowledge-assistant.md) | Builds and refreshes your pharmaceutical product knowledge for sales conversations and training materials. |
+| [Product Development Insights Assistant](product-development-insights-assistant.md) | Turns market and customer data into product development decisions for business development managers. |
 | [Prospecting bot](prospecting-bot.md) | Researches accounts and builds outreach lists using CRM data and public content. |
 | [Salary Negotiation Prep](../../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
+| [Sales Rival Radar](sales-rival-radar.md) | Tracks competitors and turns market data into sales strategy for sales managers. |
 | [Seo Dataforseo](../../marketing/research/seo-dataforseo.md) | Fetch live SERPs, keyword metrics, backlinks, and competitor data via DataForSEO. |
 | [Social Media Market Research Analyst](social-media-market-research-analyst.md) | Turns social media data into market research insights and strategy for sales and marketing teams. |
 | [Supplier Selection Assistant](../../management/research/supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |

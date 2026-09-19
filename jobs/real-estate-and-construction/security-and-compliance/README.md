@@ -1,6 +1,6 @@
 # Security & Compliance templates for Real Estate and Construction
 
-Authorised security testing, audits and regulatory work. 15 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 16 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Authorised security testing, audits and regulatory work. 15 Grok Bot templates, 
 | [Operations Risk Assessment Planner](../../operations/security-and-compliance/operations-risk-assessment-planner.md) | Identifies, analyzes, prioritizes, and plans mitigation for operational risks, from supply chain to compliance, with prepared monitoring and… |
 | [Production Risk Assessment Assistant](../../operations/security-and-compliance/production-risk-assessment-assistant.md) | Identifies, assesses, and mitigates production risks with data-backed reports and safety protocols. |
 | [Real Estate Compliance Assistant](real-estate-compliance-assistant.md) | Legal and ethical compliance assistant for real estate brokers, from research to policy drafting. |
+| [Risk Assessment Navigator](../../sales/security-and-compliance/risk-assessment-navigator.md) | Guides business development managers through complete risk assessment, from identifying risks to building automated assessment tools. |
 | [Risk Management Analysis Assistant](../../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
 | [Safety Compliance Assistant](../../operations/security-and-compliance/safety-compliance-assistant.md) | Safety compliance assistant that turns regulations into policies, audits, training, and reports for safety engineers. |
 | [Safety Compliance Planner](../../operations/security-and-compliance/safety-compliance-planner.md) | Turns safety standards into checklists, training, and audit plans for quality control inspectors. |

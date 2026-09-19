@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 64 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 66 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -33,6 +33,7 @@ Clean, query, chart and explain data. 64 Grok Bot templates, 34 of them filed in
 | [Feedback Prioritization Compass](feedback-prioritization-compass.md) | Turns scattered customer feedback into clear, prioritized insights for product decisions. |
 | [Lean Manufacturing Improvement Planner](lean-manufacturing-improvement-planner.md) | Lean manufacturing analysis and improvement planning for process engineers. |
 | [Manufacturing Cost Savings Finder](manufacturing-cost-savings-finder.md) | Finds and validates cost reduction opportunities across manufacturing operations. |
+| [Market Data Product Strategist](../../science-and-research/data-analysis/market-data-product-strategist.md) | Turns market and customer data into product development insights and recommendations. |
 | [Mixpanel Automation](../../it-and-development/data-analysis/mixpanel-automation.md) | Automate Mixpanel analytics: events, funnels, cohorts, profiles, and JQL queries via Rube MCP. |
 | [Mock Hunter](../../it-and-development/data-analysis/mock-hunter.md) | Audits live web pages to classify every visible value as real, mock, hardcoded, LLM, broken, or unknown. |
 | [Orca Replay](../../it-and-development/data-analysis/orca-replay.md) | Read, replay, and compare recorded agent runs to answer questions about past behavior without guessing. |
@@ -51,6 +52,7 @@ Clean, query, chart and explain data. 64 Grok Bot templates, 34 of them filed in
 | [Product Decision Agent](product-decision-agent.md) | Diagnose product problems and get actionable next decisions and actions |
 | [Product Feedback Aggregation Assistant](../../management/data-analysis/product-feedback-aggregation-assistant.md) | Turns scattered product feedback into prioritized insights and reports for senior managers. |
 | [Product Feedback Aggregator](../../management/data-analysis/product-feedback-aggregator.md) | Turns scattered customer feedback into prioritized, actionable product insights. |
+| [Product Feedback Insight Analyst](../../science-and-research/data-analysis/product-feedback-insight-analyst.md) | Turns customer feedback into clear insights and trend reports for product decisions. |
 | [Product Manager Toolkit](product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
 | [Product Metrics Analyst](product-metrics-analyst.md) | Turns product metrics into clear insights, reports, and recommendations. |
 | [Product Usage Analytics Assistant](../../customer-support/data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |

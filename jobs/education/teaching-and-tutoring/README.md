@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 59 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 63 Grok Bot templates, 52 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Explain, quiz and guide someone through a subject. 59 Grok Bot templates, 49 of 
 | [Compliance Training Program Developer](../../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 | [Crisis Training Designer](crisis-training-designer.md) | Designs and runs crisis management training materials, simulations, and evaluations. |
 | [Crossframe Teach](crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
+| [Curriculum Design Assistant](curriculum-design-assistant.md) | Designs and refines your school's curriculum from research to assessment. |
 | [Curriculum Development Assistant](curriculum-development-assistant.md) | Builds and refines training curricula from research to evaluation. |
 | [Curriculum Mapping Assistant](curriculum-mapping-assistant.md) | Turns your curriculum into standards-aligned, engaging, and personalized learning plans. |
 | [Customer Training Content Developer](../../customer-support/teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
@@ -53,14 +54,17 @@ Explain, quiz and guide someone through a subject. 59 Grok Bot templates, 49 of 
 | [Sales Training Program Architect](../../sales/teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
 | [Science Experiment Planner](science-experiment-planner.md) | Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment. |
 | [Ship Learn Next](ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
+| [Staff Training Module Builder](staff-training-module-builder.md) | Builds and manages staff training modules for headteachers, from planning to evaluation. |
 | [Study Buddy](study-buddy.md) | Drills you on your own material with spaced repetition instead of re-reading notes. |
 | [Study Guide Creator for Teachers](study-guide-creator-for-teachers.md) | Creates and refines study guides for secondary school teachers and their students. |
 | [Subject Explanation Assistant](subject-explanation-assistant.md) | Prepares engaging lessons and resources for secondary school subject teaching. |
 | [Teach](teach.md) | Teach any topic through structured lessons, reference docs, and learning records. |
+| [Teacher Feedback Assistant](teacher-feedback-assistant.md) | Delivers structured feedback and recommendations from classroom observations to headteachers. |
 | [Technical Content Evaluator](technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
 | [Technical Tutorials](technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
 | [Technology Adoption Training Planner](technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
 | [Training Accessibility Assistant](training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
+| [Training Program Developer](../../sales/teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
 | [Tutorial Engineer](tutorial-engineer.md) | Turns code into step-by-step tutorials with hands-on exercises and progressive learning. |
 | [Warren Buffett](warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
 | [Yann LeCun Debate](yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |

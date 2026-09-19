@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 91 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 122 Grok Bot templates, 70 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,43 +16,65 @@ Clean, query, chart and explain data. 91 Grok Bot templates, 39 of them filed in
 | [Azure Ai Contentunderstanding Py](../../it-and-development/data-analysis/azure-ai-contentunderstanding-py.md) | Extract structured content from documents, images, audio, and video using Azure AI. |
 | [Azure Ai Textanalytics Py](../../it-and-development/data-analysis/azure-ai-textanalytics-py.md) | Analyze text for sentiment, entities, key phrases, language, PII, and healthcare insights using Azure AI Language. |
 | [Benchling Integration](benchling-integration.md) | Automates Benchling lab data management via API for registry, inventory, and ELN operations. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Big Data Analysis Planner](big-data-analysis-planner.md) | Big data analysis assistant for research associates, from collection to insight. |
+| [Biodiversity Impact Analyst](biodiversity-impact-analyst.md) | Turns biodiversity data into impact analyses, reports, and conservation strategies. |
+| [Brand Perception Insight Finder](brand-perception-insight-finder.md) | Analyzes brand perception from public and internal data to deliver actionable insights. |
+| [Carbon Footprint Analysis Assistant](carbon-footprint-analysis-assistant.md) | Turns your company's activity data into a carbon footprint analysis with reduction strategies and stakeholder-ready reports. |
 | [ClickHouse IO](../../it-and-development/data-analysis/cc-skill-clickhouse-io.md) | Designs ClickHouse schemas, optimizes queries, and builds analytics pipelines for OLAP workloads. |
+| [Climate Risk Assessment Assistant](climate-risk-assessment-assistant.md) | Turns climate data into risk assessments, reports, and resilience plans for sustainability analysts. |
 | [Cobrapy](cobrapy.md) | Run constraint-based metabolic modeling and analysis on genome-scale models. |
 | [Data Analysis Assistant](../../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
 | [Data Analyst](data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
 | [Data Cleaner](../../it-and-development/data-analysis/data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
 | [Data Engineer](../../it-and-development/data-analysis/data-engineer.md) | Designs and builds scalable data pipelines, warehouses, and streaming architectures for reliable analytics infrastructure. |
 | [Data Engineering Data Pipeline](../../it-and-development/data-analysis/data-engineering-data-pipeline.md) | Design and implement scalable batch and streaming data pipelines |
+| [Data Interpretation Assistant](data-interpretation-assistant.md) | Turns complex datasets into clear insights, visualizations, and decisions for research scientists. |
+| [Data Preprocessing Advisor](data-preprocessing-advisor.md) | Guides data scientists through every data preprocessing step, from cleaning to feature engineering. |
 | [Data Processing Nemo Curator](data-processing-nemo-curator.md) | GPU-accelerated data curation for LLM training datasets. |
 | [Data Processing Ray Data](../../it-and-development/data-analysis/data-processing-ray-data.md) | Process large ML datasets with Ray Data across CPU/GPU clusters. |
 | [Data Report Generator](data-report-generator.md) | Turns CSV, Excel, or JSON data into a polished visual report page. |
 | [Data Researcher](data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
 | [Data Scientist](../../it-and-development/data-analysis/data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
 | [Data Validation Assistant](../../operations/data-analysis/data-validation-assistant.md) | Validates and cleans data entry work with routines for formatting, duplicates, consistency, and quality. |
+| [Data Visualization Assistant](data-visualization-assistant.md) | Turns raw research data into clear, interactive visual stories with AI guidance. |
 | [Datacommons Client](datacommons-client.md) | Queries public statistical data from Data Commons for analysis. |
 | [Doc2math](../../it-and-development/data-analysis/doc2math.md) | Convert narrative technical docs into grounded mathematical problem specifications. |
+| [Economic Impact Analysis Assistant](economic-impact-analysis-assistant.md) | Economic impact analysis for market research analysts, from data to report. |
+| [Energy Audit Assistant](energy-audit-assistant.md) | Turns energy data into audit findings, savings plans, and compliance-ready reports. |
+| [ESG Analysis Assistant](esg-analysis-assistant.md) | Turns ESG data into clear reports, risk checks, and improvement plans for sustainability analysts. |
 | [Experiment Readout](../../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Exploratory Data Analysis](exploratory-data-analysis.md) | Analyze scientific data files across 200+ formats and generate markdown reports. No file? No action. Never repeat an analysis on the same file. Draft |
 | [Family Health Analyzer](../../healthcare/data-analysis/family-health-analyzer.md) | Analyze family health history for genetic risk and prevention advice. |
 | [Fantasy Lineup Optimizer](fantasy-lineup-optimizer.md) | Analyzes matchups, injuries, weather, and Vegas lines to recommend fantasy sit/start decisions with confidence levels. |
+| [Feature Engineering Advisor](feature-engineering-advisor.md) | Guides data scientists through feature engineering and selection tasks with practical techniques and example requests. |
 | [Flowio](flowio.md) | Parse FCS files v2.0-3.1, extract events as arrays, and convert to CSV or DataFrame. |
 | [Food Database Query](food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |
 | [Geopandas](../../it-and-development/data-analysis/geopandas.md) | Reads, analyzes, and transforms geospatial vector data using Python. |
 | [Gget](gget.md) | Runs bioinformatics queries across 20+ genomic databases from chat. |
+| [Green Supply Chain Analyst](green-supply-chain-analyst.md) | Sustainability analyst's supply chain greening assistant: assess, optimize, and report. |
 | [Gtars](gtars.md) | Analyze genomic intervals with high-performance Rust tools for overlap, coverage, tokenization, and fragment processing. |
 | [Health Trend Analyzer](../../healthcare/data-analysis/health-trend-analyzer.md) | Analyze health data trends and correlations over time. |
 | [Hf Mem](../../it-and-development/data-analysis/hf-mem.md) | Estimate VRAM or memory for Hugging Face models without downloading them. |
 | [Hugging Face Dataset Viewer](hugging-face-dataset-viewer.md) | Read-only exploration of Hugging Face datasets via the Dataset Viewer API. |
 | [Hugging Face Datasets](../../it-and-development/data-analysis/hugging-face-datasets.md) | Create, query, and transform Hugging Face Hub datasets via SQL and push results back. |
+| [Industry Trend Analyst](industry-trend-analyst.md) | Turns market data into trend forecasts and stakeholder-ready reports. |
+| [Journey Insight Optimizer](journey-insight-optimizer.md) | Analyzes customer data to map, optimize, and report on the customer journey. |
 | [Jupyter Notebook](../../education/data-analysis/jupyter-notebook.md) | Creates and edits reproducible Jupyter notebooks for experiments or tutorials. |
 | [Kusto Assistant](../../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
+| [Life Cycle Assessment Assistant](life-cycle-assessment-assistant.md) | Conducts life cycle assessments and sustainability analyses for products and supply chains. |
+| [Market Data Product Strategist](market-data-product-strategist.md) | Turns market and customer data into product development insights and recommendations. |
+| [Market Price Optimizer](market-price-optimizer.md) | Analyzes market data to develop and recommend profitable pricing strategies. |
+| [Market Research Sales Forecaster](market-research-sales-forecaster.md) | Turns sales data into forecasts and reports for market research analysts. |
+| [Marketing Campaign Effectiveness Analyst](marketing-campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to measure effectiveness and guide strategy. |
 | [Matchms](matchms.md) | Process mass spectrometry data: import, filter, compare spectra, and identify compounds. |
 | [Mathguard](../../it-and-development/data-analysis/mathguard.md) | Math-heavy optimization for large-scale data (n ≥ 10⁶) using probabilistic structures, transforms, and geometry. |
 | [Matplotlib](../../it-and-development/data-analysis/matplotlib.md) | Generate publication-quality Matplotlib plot code from your data descriptions. |
 | [Medchem](medchem.md) | Filter compound libraries by drug-likeness rules and structural alerts for prioritization. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Metabolomics Workbench Database](metabolomics-workbench-database.md) | Query the NIH Metabolomics Workbench for metabolite data, study metadata, and MS/NMR searches. |
+| [ML Algorithm Selection Assistant](ml-algorithm-selection-assistant.md) | Guides data scientists in choosing, comparing, and tuning machine learning algorithms for their projects. |
 | [Mlops Mlflow](../../it-and-development/data-analysis/mlops-mlflow.md) | Track ML experiments, manage model registry, and deploy models using MLflow. |
 | [Mlops Tensorboard](mlops-tensorboard.md) | Visualize training metrics, debug models, and compare experiments with TensorBoard. |
+| [Model Evaluation Analyst](model-evaluation-analyst.md) | Evaluates AI models end-to-end: metrics, bias, robustness, and improvement plans from your data and labels. |
 | [Molfeat](molfeat.md) | Converts molecular SMILES strings into numerical feature vectors for machine learning. |
 | [Monte Carlo Validation Notebook](../../it-and-development/data-analysis/monte-carlo-validation-notebook.md) | Generates SQL validation notebooks for dbt PR changes with before/after comparison queries. |
 | [Networkx](../../it-and-development/data-analysis/networkx.md) | Build, analyze, and visualize network graphs from data using NetworkX, with no code execution outside sandbox. |
@@ -60,12 +82,14 @@ Clean, query, chart and explain data. 91 Grok Bot templates, 39 of them filed in
 | [Omero Integration](omero-integration.md) | Manage microscopy images and metadata via OMERO Python API. |
 | [Oral Health Analyzer](../../healthcare/data-analysis/oral-health-analyzer.md) | Analyze oral health data to identify risks and provide personalized care advice. |
 | [Pathml](../../healthcare/data-analysis/pathml.md) | Analyze whole-slide pathology images and multiparametric imaging data. |
+| [Product Feedback Insight Analyst](product-feedback-insight-analyst.md) | Turns customer feedback into clear insights and trend reports for product decisions. |
 | [Prototype Testing Analysis Assistant](../../product-development/data-analysis/prototype-testing-analysis-assistant.md) | Analyzes prototype test data and generates reports for R&D engineers. |
 | [Pydeseq2](pydeseq2.md) | Run differential expression analysis on bulk RNA-seq count data using PyDESeq2. |
 | [Pymatgen](pymatgen.md) | Analyzes crystal structures, phase diagrams, and electronic structure for computational materials science. |
 | [Pymc](pymc.md) | Build, fit, validate, and compare Bayesian models with PyMC for probabilistic inference. |
 | [Pyopenms](pyopenms.md) | Analyze mass spectrometry data for proteomics and metabolomics using PyOpenMS. |
 | [Pysam](pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
+| [Qualitative Data Analysis Assistant](qualitative-data-analysis-assistant.md) | Analyzes qualitative data to surface themes, sentiments, and insights for research associates. |
 | [Qutip](qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
 | [R&D Cost-Benefit Analyst](../../product-development/data-analysis/r-d-cost-benefit-analyst.md) | Runs cost-benefit analysis for R&D projects from data collection to decision support. |
 | [R&D Data Analysis Assistant](../../product-development/data-analysis/r-d-data-analysis-assistant.md) | Collects, cleans, analyzes, and visualizes data for R&D engineers, from scraping to dashboards. |
@@ -73,6 +97,8 @@ Clean, query, chart and explain data. 91 Grok Bot templates, 39 of them filed in
 | [Rag Faiss](../../it-and-development/data-analysis/rag-faiss.md) | Build and query billion-scale vector indexes for similarity search. No metadata filtering. No database features. Just fast nearest-neighbor search. Yo |
 | [Rag Sentence Transformers](../../it-and-development/data-analysis/rag-sentence-transformers.md) | Generates high-quality text embeddings for semantic search and RAG using local models. |
 | [Rdkit](rdkit.md) | Performs molecular analysis and manipulation for cheminformatics research. |
+| [Research Data Analyst](research-data-analyst.md) | Collects, cleans, organizes, analyzes, visualizes, and reports data for research associates. |
+| [Research Data Visualization Assistant](research-data-visualization-assistant.md) | Turns your research data into clear, interactive visual stories. |
 | [Scanpy](scanpy.md) | Guide single-cell RNA-seq analysis from loading through cell type annotation and trajectory inference. |
 | [Scientific Visualization](scientific-visualization.md) | Create publication-ready scientific figures from data. |
 | [Scikit Bio](scikit-bio.md) | Analyzes biological sequences, alignments, trees, and diversity metrics for microbiome studies. |
@@ -85,15 +111,20 @@ Clean, query, chart and explain data. 91 Grok Bot templates, 39 of them filed in
 | [Simulation Model Development Assistant](../../product-development/data-analysis/simulation-model-development-assistant.md) | Simulation model development assistant for R&D engineers, from data to validation and reporting. |
 | [Simulation Modeling Assistant](../../operations/data-analysis/simulation-modeling-assistant.md) | Builds and runs simulation models to optimize processes, resources, and decisions. |
 | [Skin Health Analyzer](../../healthcare/data-analysis/skin-health-analyzer.md) | Analyze skin health data to identify patterns and assess status. |
+| [Social Pulse Insight Scout](social-pulse-insight-scout.md) | Analyzes social media data to reveal trends, sentiment, and influencers for market research. |
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Statistical Analysis](statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
+| [Statistical Analysis Workflow Assistant](statistical-analysis-workflow-assistant.md) | Statistical analysis assistant for research scientists, from data cleaning to meta-analysis. |
+| [Statistical Modeling Assistant](statistical-modeling-assistant.md) | Guides research associates through statistical modeling and prediction workflows. |
 | [Statsmodels](statsmodels.md) | Fits and diagnoses statistical models for rigorous inference and forecasting. |
 | [Survey Data Processing Assistant](../../operations/data-analysis/survey-data-processing-assistant.md) | Cleans, enters, validates, analyzes, and reports survey data with accuracy and insight. |
 | [Tcm Constitution Analyzer](../../healthcare/data-analysis/tcm-constitution-analyzer.md) | Analyze TCM constitution data and provide personalized wellness recommendations. |
 | [Tokenization Sentencepiece](../../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 | [Torchdrug](torchdrug.md) | Run graph-based drug discovery tasks on molecules, proteins, and biomedical graphs. No code execution. You plan and guide the user through TorchDrug w |
 | [Umap Learn](../../it-and-development/data-analysis/umap-learn.md) | Reduce high-dimensional data to 2D/3D for visualization or clustering preprocessing. Uses UMAP algorithm. No training needed on new data after fit. Ke |
+| [Urban Sustainability Analyst](urban-sustainability-analyst.md) | Analyzes urban data and recommends sustainable planning actions for sustainability analysts. |
 | [Vaex](../../it-and-development/data-analysis/vaex.md) | Process and analyze large tabular datasets that exceed available RAM using Vaex's out-of-core capabilities. |
+| [Water Footprint Assessment Assistant](water-footprint-assessment-assistant.md) | Water footprint assessment assistant for sustainability analysts, from data collection to stakeholder reporting. |
 | [Xvary Stock Research](../../finance/data-analysis/xvary-stock-research.md) | Thesis-driven equity analysis from public SEC EDGAR and market data. No advice, no non-public data. |
 | [Zarr Python](../../it-and-development/data-analysis/zarr-python.md) | Store and access large N-dimensional arrays with chunking, compression, and cloud storage backends. |
 | [Zinc Database](zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |

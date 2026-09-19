@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 140 Grok Bot templates, 111 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 160 Grok Bot templates, 130 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -34,6 +34,7 @@ Find sources, compare evidence and summarise what is known. 140 Grok Bot templat
 | [Clinicaltrials Database](clinicaltrials-database.md) | Search and retrieve clinical trial data from ClinicalTrials.gov API v2. |
 | [Clinpgx Database](clinpgx-database.md) | Queries ClinPGx pharmacogenomics data for gene-drug interactions, CPIC guidelines, and allele functions. |
 | [Clinvar Database](clinvar-database.md) | Query ClinVar for variant clinical significance and pathogenicity classifications. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Collaborative Research Networking Assistant](collaborative-research-networking-assistant.md) | Find collaborators, manage projects, and share research securely from one chat. |
 | [Comprehensive Researcher](comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Context7 Auto Research](../../it-and-development/research/context7-auto-research.md) | Fetches latest library/framework documentation via Context7 API on demand. |
 | [Cosmic Database](cosmic-database.md) | Downloads and queries cancer mutation data from the COSMIC database for research. |
@@ -55,8 +56,11 @@ Find sources, compare evidence and summarise what is known. 140 Grok Bot templat
 | [Ena Database](ena-database.md) | Retrieve nucleotide sequences, raw reads, and genome assemblies from the European Nucleotide Archive. |
 | [Ensembl Database](ensembl-database.md) | Query Ensembl genome database for gene lookups, sequences, variants, and comparative genomics across 250+ species. |
 | [Entropy Box](../../it-and-development/research/entropy-box.md) | Compiles embodied-AI knowledge into grounded, source-linked implementation paths. |
+| [Environmental Policy Analyst](environmental-policy-analyst.md) | Environmental policy analysis and stakeholder engagement for sustainability analysts. |
 | [Esm](esm.md) | Designs and analyzes proteins using ESM language models for sequence, structure, and function tasks. |
 | [Etetoolkit](etetoolkit.md) | Analyze phylogenetic trees: manipulate, detect events, integrate NCBI taxonomy, and visualize. |
+| [Experiment Design Planner](experiment-design-planner.md) | Design rigorous experiments from variables to analysis plans, with statistical and ethical guidance. |
+| [Experimental Design Planner](experimental-design-planner.md) | Designs and plans experiments from hypothesis to analysis for research associates. |
 | [Fact Check X Complete](fact-check-x-complete.md) | Compare AI answer claims, verify citations against primary sources, and produce an evidence-linked fact-check report. |
 | [Falsify](falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
 | [Fda Database](fda-database.md) | Query openFDA for drug, device, adverse event, recall, and regulatory data. |
@@ -74,17 +78,21 @@ Find sources, compare evidence and summarise what is known. 140 Grok Bot templat
 | [Hugging Face Paper Publisher](hugging-face-paper-publisher.md) | Publish and manage research papers on Hugging Face Hub with markdown, linking, and authorship. |
 | [Hugging Face Papers](hugging-face-papers.md) | Fetch, summarize, and explore AI research papers from Hugging Face and arXiv. |
 | [Hypogenic](hypogenic.md) | Generates and tests scientific hypotheses from your datasets using LLMs. |
+| [Hypothesis Formulation Assistant](hypothesis-formulation-assistant.md) | Turns research questions into testable hypotheses with evidence review and study design guidance. |
 | [Hypothesis Generation](hypothesis-generation.md) | Generates testable hypotheses from observations, designs experiments, and produces a structured LaTeX report. |
 | [Hypothesis Testing Engine](hypothesis-testing-engine.md) | Designs and executes research protocols to test any claim with a confidence verdict. |
 | [Ii Commons](ii-commons.md) | Deterministic search across arXiv, PubMed/PMC, and US policy corpora with daily freshness cutoffs. |
 | [Ilya Sutskever Simulator](ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Infinite Gratitude](infinite-gratitude.md) | Orchestrates 10 parallel agents for deep multi-source research synthesis. |
+| [Insight Survey Architect](insight-survey-architect.md) | Designs, deploys, and analyzes surveys, turning responses into actionable insights. |
 | [Kegg Database](kegg-database.md) | Query KEGG pathways, genes, compounds, and drugs via REST API for academic research. |
 | [Labarchive Integration](labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
 | [Lamindb](lamindb.md) | Manages biological datasets with lineage tracking, ontology validation, and FAIR compliance. |
 | [Latex Posters](latex-posters.md) | Create professional research posters in LaTeX for conferences and academic events. |
 | [Literature Review](literature-review.md) | Conducts systematic literature reviews across scientific databases and produces formatted documents. |
 | [Literature Review Assistant](../../product-development/research/literature-review-assistant.md) | Literature review assistant for R&D engineers: finds, summarizes, synthesizes, and manages research. |
+| [Market Entry Analysis Assistant](market-entry-analysis-assistant.md) | Analyzes new markets for entry opportunities, risks, and strategies. |
+| [Market Research Analyst](../../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
 | [Market Trend Analyst](../../management/research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
 | [Material Selection Guide](../../product-development/research/material-selection-guide.md) | Guides R&D engineers through material selection with data-backed research, analysis, and tools. |
 | [Mechanistic Interpretability Nnsight](mechanistic-interpretability-nnsight.md) | Runs mechanistic interpretability experiments on any PyTorch model, local or remote via NDIF. |
@@ -105,7 +113,9 @@ Find sources, compare evidence and summarise what is known. 140 Grok Bot templat
 | [Paper 2 Web](paper-2-web.md) | Converts academic papers into interactive websites, presentation videos, and conference posters. |
 | [Papers](papers-skill.md) | Search academic papers, inspect citations, download arXiv PDFs, and extract text. |
 | [Patent Research and Analysis Assistant](../../product-development/research/patent-research-and-analysis-assistant.md) | Patent research and analysis assistant for R&D engineers, from prior art to strategy. |
+| [Patent Research and Guidance Assistant](patent-research-and-guidance-assistant.md) | Patent research and guidance assistant for research associates. |
 | [Patent Research Assistant](../../legal/research/patent-research-assistant.md) | Runs patent research tasks: searches, analyses, drafting support, and monitoring updates. |
+| [Patent Scout for Scientists](patent-scout-for-scientists.md) | Patent research and advice assistant for research scientists. |
 | [Pdb Database](pdb-database.md) | Search RCSB PDB for 3D structures by text, sequence, or shape, then retrieve coordinates and metadata. |
 | [Peer Review](peer-review.md) | Systematically evaluate scientific manuscripts and grant proposals for rigor, reproducibility, and reporting standards. |
 | [Perplexity](perplexity.md) | Searches the web and answers questions using Perplexity AI. |
@@ -119,25 +129,35 @@ Find sources, compare evidence and summarise what is known. 140 Grok Bot templat
 | [Query Clarifier](query-clarifier.md) | Analyzes research queries for clarity and decides if clarification is needed before research starts. |
 | [Reactome Database](reactome-database.md) | Query Reactome REST API for pathway analysis, enrichment, and gene-pathway mapping. |
 | [Reading Pile](reading-pile.md) | Works through your saved-articles backlog and tells you which three are worth your time. |
+| [Renewable Energy Strategy Analyst](renewable-energy-strategy-analyst.md) | Analyzes renewable energy markets, technologies, and policies for sustainability analysts. |
 | [Report Generator](report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |
 | [Research Analyst](research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
+| [Research Associate Lit Review Copilot](research-associate-lit-review-copilot.md) | Assists research associates with literature review tasks from search to synthesis. |
 | [Research Brief Generator](research-brief-generator.md) | Transforms a research query into a structured brief with questions, keywords, and source preferences. |
+| [Research Collaboration Facilitator](research-collaboration-facilitator.md) | Coordinates research collaboration tasks, from literature review to impact assessment. |
 | [Research Coordinator](research-coordinator.md) | Plans and coordinates complex research tasks across multiple specialist researchers. |
 | [Research Engineer](../../it-and-development/research/research-engineer.md) | Bridges theoretical computer science and high-performance implementation with absolute scientific rigor. |
+| [Research Ethics Navigator](research-ethics-navigator.md) | Guides research scientists through ethics reviews, consent, privacy, bias, and integrity. |
+| [Research Impact Assessment Assistant](research-impact-assessment-assistant.md) | Assesses research impact from literature to long-term forecasting for Research Associates. |
 | [Research Lookup](research-lookup.md) | Looks up current research using Perplexity Sonar models via OpenRouter, selecting the best model based on query complexity. Returns citations. Never i |
 | [Research Orchestrator](research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
 | [Research Prompt](research-prompt.md) | Turn vague research needs into one precise deep-research prompt with context and output criteria. |
 | [Research Synthesizer](research-synthesizer.md) | Merges findings from multiple researchers into a structured, sourced analysis. |
 | [Research Technical Spike](../../it-and-development/research/research-technical-spike.md) | Exhaustively research and validate technical spike documents through systematic investigation. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Research Trend Analyst](research-trend-analyst.md) | Comprehensive research trend analysis for scientists |
 | [Reverse Browser Automation](../../it-and-development/research/reverse-browser-automation.md) | Automate browsers and Windows desktop apps for reverse-engineering evidence collection. |
 | [Scholar Evaluation](../../education/research/scholar-evaluation.md) | Evaluates scholarly work using the ScholarEval framework across multiple quality dimensions. |
 | [Scientific Brainstorming](scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
 | [Scientific Critical Thinking](scientific-critical-thinking.md) | Evaluates scientific research rigor, methodology, and evidence quality for critical analysis. |
 | [Search Specialist](search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
 | [Seek And Analyze Video](../../it-and-development/research/seek-and-analyze-video.md) | Search, import, and analyze video content with persistent memory across sessions. |
+| [Simulation and Modeling Research Assistant](simulation-and-modeling-research-assistant.md) | Simulation and modeling assistant for research scientists to optimize, validate, and analyze models. |
 | [String Database](string-database.md) | Fetch protein-protein interactions and functional enrichment from the STRING database. |
 | [Survey Generator](survey-generator.md) | Generate source-backed AI/ML survey papers as self-contained HTML with curated bibliographies. |
+| [Survey Research Assistant](survey-research-assistant.md) | Builds, distributes, analyzes, and reports surveys for research studies. |
+| [Sustainable Investment Research Assistant](sustainable-investment-research-assistant.md) | Sustainable investment research assistant for sustainability analysts. |
 | [Technical Researcher](../../it-and-development/research/technical-researcher.md) | Analyzes code repositories, documentation, and technical implementations for informed decisions. |
+| [Technology Scouting Assistant](technology-scouting-assistant.md) | Scans, evaluates, and forecasts tech trends for research scientists. |
 | [Travel Health Analyzer](../../healthcare/research/travel-health-analyzer.md) | Analyze travel health risks, recommend vaccines, and generate multilingual emergency cards using WHO/CDC data. All advice requires doctor review. No d |
 | [Uniprot Database](uniprot-database.md) | Retrieve protein sequences, annotations, and ID mappings from UniProt via REST API. |
 | [User Research Synthesis](../../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |

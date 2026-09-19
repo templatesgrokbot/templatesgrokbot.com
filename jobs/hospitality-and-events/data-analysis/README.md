@@ -1,6 +1,6 @@
 # Data Analysis templates for Hospitality and Events
 
-Clean, query, chart and explain data. 39 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 41 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,6 +26,8 @@ Clean, query, chart and explain data. 39 Grok Bot templates, 3 of them filed in 
 | [Hotel Staff Scheduling Optimizer](hotel-staff-scheduling-optimizer.md) | Analyzes hotel data to build balanced staff schedules, reduce costs, and ensure compliance. |
 | [Inventory Analysis Optimizer](../../management/data-analysis/inventory-analysis-optimizer.md) | Analyzes inventory data to optimize stock levels, cut costs, and prevent stockouts for business unit managers. |
 | [Inventory Optimization Assistant](../../management/data-analysis/inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
+| [Journey Insight Optimizer](../../science-and-research/data-analysis/journey-insight-optimizer.md) | Analyzes customer data to map, optimize, and report on the customer journey. |
+| [Market Price Optimizer](../../science-and-research/data-analysis/market-price-optimizer.md) | Analyzes market data to develop and recommend profitable pricing strategies. |
 | [Marketing Analytics and Reporting Assistant](../../sales/data-analysis/marketing-analytics-and-reporting-assistant.md) | Turns your marketing data into clear reports, forecasts, and spend recommendations. |
 | [Operations Cost Analyst](../../operations/data-analysis/operations-cost-analyst.md) | Analyzes costs, forecasts trends, and recommends savings for operations leadership. |
 | [Operations Data Insights Assistant](../../operations/data-analysis/operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |

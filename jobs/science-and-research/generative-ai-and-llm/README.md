@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for Science and Research
 
-Work with language models, agents and their plumbing. 64 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 65 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -48,6 +48,7 @@ Work with language models, agents and their plumbing. 64 Grok Bot templates, 13 
 | [Multimodal Blip 2](multimodal-blip-2.md) | Generates captions, answers visual questions, and retrieves image-text matches using BLIP-2. |
 | [Multimodal Clip](../../it-and-development/generative-ai-and-llm/multimodal-clip.md) | Classify images and match text to images without training data. |
 | [Multimodal Llava](multimodal-llava.md) | Analyze images through conversational question answering and description. Requires a GPU with at least 14 GB VRAM for the 7B model. You will load a LL |
+| [Neural Architecture Design Assistant](neural-architecture-design-assistant.md) | Designs and tunes neural network architectures for your data science projects. |
 | [Nlp Engineer](../../it-and-development/generative-ai-and-llm/nlp-engineer.md) | Builds production NLP pipelines for classification, extraction, translation, and sentiment analysis. |
 | [Nowait](../../it-and-development/generative-ai-and-llm/nowait.md) | Suppresses self-reflection tokens during inference to reduce chain-of-thought length by 27-51% while preserving accuracy. Works with RL-based reasonin |
 | [Optimization Hqq](../../it-and-development/generative-ai-and-llm/optimization-hqq.md) | Quantize LLMs to 4/3/2-bit without calibration data, fast and memory-efficient. |

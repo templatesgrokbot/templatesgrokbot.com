@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **114 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **115 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Answering, routing and resolving customer requests. **114 ready-made Grok Bot te
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 39 |
+| [Support & Community](support-and-community/README.md) | 40 |
 | [Data Analysis](data-analysis/README.md) | 26 |
 | [Productivity](productivity/README.md) | 15 |
 | [Writing & Content](writing-and-content/README.md) | 6 |
@@ -63,6 +63,7 @@ Answering, routing and resolving customer requests. **114 ready-made Grok Bot te
 | [Policy Customization Assistant](support-and-community/policy-customization-assistant.md) | Guides insurance customers through customizing policies, from coverage options to claims assistance. |
 | [Policy Explanation Assistant](support-and-community/policy-explanation-assistant.md) | Explains insurance policies clearly and guides customers through coverage, claims, and renewals. |
 | [Policy Renewal and Updates Assistant](support-and-community/policy-renewal-and-updates-assistant.md) | Handles policy renewals, updates, and customer inquiries for insurance service reps. |
+| [Post-Sale Service Assistant](../sales/support-and-community/post-sale-service-assistant.md) | Handles post-sale customer service tasks and prepares content for sales managers. |
 | [Returns Reverse Logistics](../operations/support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
 | [Social Media Customer Service Coordinator](../marketing/support-and-community/social-media-customer-service-coordinator.md) | Coordinates social media customer service: responses, feedback, escalations, and crisis plans. |
 | [Supply Chain Customer Service Assistant](../operations/support-and-community/supply-chain-customer-service-assistant.md) | Handles customer service for logistics planners: tracking, issues, docs, returns, feedback, and proactive supply chain communication. |

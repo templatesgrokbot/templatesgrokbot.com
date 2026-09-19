@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **170 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **175 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,15 +12,15 @@ Press, internal comms and reputation. **170 ready-made Grok Bot templates** for 
 | Kind of work | Templates |
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 50 |
-| [Writing & Content](writing-and-content/README.md) | 39 |
+| [Writing & Content](writing-and-content/README.md) | 40 |
 | [Social Media](social-media/README.md) | 26 |
-| [Data Analysis](data-analysis/README.md) | 19 |
+| [Data Analysis](data-analysis/README.md) | 21 |
 | [Research](research/README.md) | 16 |
-| [Productivity](productivity/README.md) | 8 |
+| [Productivity](productivity/README.md) | 9 |
 | [Design](design/README.md) | 5 |
+| [Support & Community](support-and-community/README.md) | 3 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 3 |
 | [Security & Compliance](security-and-compliance/README.md) | 2 |
-| [Support & Community](support-and-community/README.md) | 2 |
 
 ## Marketing & Growth
 
@@ -120,6 +120,7 @@ Press, internal comms and reputation. **170 ready-made Grok Bot templates** for 
 | [Speech Writing Assistant](writing-and-content/speech-writing-assistant.md) | Crafts, refines, and tailors speeches for public relations professionals. |
 | [Stakeholder Communication Assistant](writing-and-content/stakeholder-communication-assistant.md) | Drafts, plans, and coordinates all stakeholder communications for PR specialists. |
 | [Stakeholder Communication Coordinator](../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
+| [Stakeholder Engagement Strategist](../science-and-research/writing-and-content/stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
 
 ## Social Media
 
@@ -163,6 +164,7 @@ Press, internal comms and reputation. **170 ready-made Grok Bot templates** for 
 | [Audience Insight Analyst](data-analysis/audience-insight-analyst.md) | Analyzes audiences for PR campaigns and turns insights into communication strategies. |
 | [Brand Image Analyst](../management/data-analysis/brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
 | [Brand Perception Analyst](../management/data-analysis/brand-perception-analyst.md) | Analyzes brand perception from reviews, social media, and surveys to guide strategy. |
+| [Brand Perception Insight Finder](../science-and-research/data-analysis/brand-perception-insight-finder.md) | Analyzes brand perception from public and internal data to deliver actionable insights. |
 | [Communication Metrics Analyst](data-analysis/communication-metrics-analyst.md) | Tracks and analyzes corporate communication metrics across media, social, web, and internal channels. |
 | [Content Analytics Strategist](data-analysis/content-analytics-strategist.md) | Analyzes content performance, audience, and trends to guide your content strategy. |
 | [Editor Audience Data Strategist](data-analysis/editor-audience-data-strategist.md) | Analyzes audience data to guide content strategy for editors. |
@@ -175,6 +177,7 @@ Press, internal comms and reputation. **170 ready-made Grok Bot templates** for 
 | [PR Feedback Insight Engine](data-analysis/pr-feedback-insight-engine.md) | Turns feedback data into PR insights, reports, and early warnings. |
 | [Sentiment Insight Compiler](../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Social Media Engagement Analyst](../management/data-analysis/social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
+| [Social Pulse Insight Scout](../science-and-research/data-analysis/social-pulse-insight-scout.md) | Analyzes social media data to reveal trends, sentiment, and influencers for market research. |
 
 ## Research
 
@@ -202,6 +205,7 @@ Press, internal comms and reputation. **170 ready-made Grok Bot templates** for 
 | Template | What it does |
 |---|---|
 | [Crisis Management Planning Assistant](../operations/productivity/crisis-management-planning-assistant.md) | Builds and maintains your crisis management plans, protocols, and training. |
+| [CSR Planning Assistant](../science-and-research/productivity/csr-planning-assistant.md) | Plans and manages corporate social responsibility initiatives from stakeholder input to impact reporting. |
 | [Editorial Calendar Management Assistant](productivity/editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |
 | [Event Planning and Management Assistant](productivity/event-planning-and-management-assistant.md) | Plans, promotes, and runs your events from venue to post-event report. |
 | [Event Planning Coordinator](productivity/event-planning-coordinator.md) | Plans and coordinates events end-to-end for PR specialists, from venue to evaluation. |
@@ -220,6 +224,14 @@ Press, internal comms and reputation. **170 ready-made Grok Bot templates** for 
 | [Photo Selection and Curation Assistant](design/photo-selection-and-curation-assistant.md) | Helps editors select, organize, and enhance photos while ensuring rights compliance. |
 | [Visual Brand Identity Designer](design/visual-brand-identity-designer.md) | Visual brand identity assistant for logos, palettes, typography, and all design collateral. |
 
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Community Outreach Planner](support-and-community/community-outreach-planner.md) | Plans, drafts, and tracks community outreach for crisis communications managers. |
+| [Review Response Writer](support-and-community/review-response-writer.md) | Writes review responses in your voice, triages each review, and flags escalations. |
+| [School Community Engagement Coordinator](../education/support-and-community/school-community-engagement-coordinator.md) | Plans and runs community engagement for your school, from events to newsletters. |
+
 ## Teaching & Tutoring
 
 | Template | What it does |
@@ -234,12 +246,5 @@ Press, internal comms and reputation. **170 ready-made Grok Bot templates** for 
 |---|---|
 | [Data Privacy Crisis Communications Assistant](security-and-compliance/data-privacy-crisis-communications-assistant.md) | Prepares and guides crisis communications teams through data privacy incidents. |
 | [Ethical Review Assistant](security-and-compliance/ethical-review-assistant.md) | Guides editors through ethical review of content, from literature to certification. |
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Community Outreach Planner](support-and-community/community-outreach-planner.md) | Plans, drafts, and tracks community outreach for crisis communications managers. |
-| [Review Response Writer](support-and-community/review-response-writer.md) | Writes review responses in your voice, triages each review, and flags escalations. |
 
 [← All job fields](../../README.md#browse-by-job) · [PR and Communications on the website](https://templatesgrokbot.com/jobs/pr-and-communications)

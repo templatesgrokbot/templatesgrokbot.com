@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 166 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 167 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -134,6 +134,7 @@ Plan, prioritise and clear the recurring admin. 166 Grok Bot templates, 110 of t
 | [Real Estate Transaction Coordinator](../../real-estate-and-construction/productivity/real-estate-transaction-coordinator.md) | Organizes, tracks, and coordinates every real estate transaction from contract to closing. |
 | [Revops](revops.md) | Design and optimize revenue operations, lead lifecycle, scoring, routing, and CRM automation. |
 | [Schedule Tasks](anthropic-schedule.md) | Run recurring tasks automatically: a briefing every morning, a weekly plan every Monday, an inbox check every hour. |
+| [School Facility Coordinator](../../education/productivity/school-facility-coordinator.md) | Central hub for school facility management, from maintenance to emergency prep. |
 | [Scrum Master](../../management/productivity/scrum-master.md) | Facilitates agile teams, removes impediments, and drives continuous improvement through Scrum ceremonies. |
 | [Sendblue Cli](../../it-and-development/productivity/sendblue-cli.md) | Send iMessage and SMS from the shell using the Sendblue CLI. |
 | [Session Handoff](session-handoff.md) | Creates and resumes handoff documents so fresh sessions continue work without losing context. |

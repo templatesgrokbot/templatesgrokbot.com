@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Executives and Strategy
 
-Prospecting, outreach, proposals and negotiating terms. 8 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 9 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,5 +14,6 @@ Prospecting, outreach, proposals and negotiating terms. 8 Grok Bot templates, 0 
 | [Sales Process Optimizer](../../sales/sales-and-negotiation/sales-process-optimizer.md) | Analyzes sales data, segments customers, optimizes pipelines, and generates tailored sales materials. |
 | [Sales Strategy Optimizer](../../sales/sales-and-negotiation/sales-strategy-optimizer.md) | Sales strategy optimizer: market analysis, forecasting, and personalized outreach for CSOs. Turn data into decisions. |
 | [Sales War Room Intel](../../sales/sales-and-negotiation/sales-war-room-intel.md) | Turns competitor data into actionable sales intelligence for global sales leaders. |
+| [VP Sales Pricing Strategist](../../sales/sales-and-negotiation/vp-sales-pricing-strategist.md) | Analyzes markets, customers, and competitors to recommend pricing strategies that maximize revenue and profitability. |
 
 [← All Executives and Strategy templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/executives-and-strategy)

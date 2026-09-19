@@ -1,6 +1,6 @@
 # Grok Bot templates for Hospitality and Events
 
-Hotels, venues, travel and event teams. **122 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Hotels, venues, travel and event teams. **128 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,14 +11,14 @@ Hotels, venues, travel and event teams. **122 ready-made Grok Bot templates** fo
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 39 |
-| [Productivity](productivity/README.md) | 24 |
+| [Data Analysis](data-analysis/README.md) | 41 |
+| [Productivity](productivity/README.md) | 25 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 23 |
-| [Social Media](social-media/README.md) | 14 |
-| [Writing & Content](writing-and-content/README.md) | 8 |
+| [Social Media](social-media/README.md) | 15 |
+| [Writing & Content](writing-and-content/README.md) | 9 |
 | [Research](research/README.md) | 4 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
 | [Support & Community](support-and-community/README.md) | 3 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Design](design/README.md) | 1 |
 | [Security & Compliance](security-and-compliance/README.md) | 1 |
@@ -48,6 +48,8 @@ Hotels, venues, travel and event teams. **122 ready-made Grok Bot templates** fo
 | [Hotel Staff Scheduling Optimizer](data-analysis/hotel-staff-scheduling-optimizer.md) | Analyzes hotel data to build balanced staff schedules, reduce costs, and ensure compliance. |
 | [Inventory Analysis Optimizer](../management/data-analysis/inventory-analysis-optimizer.md) | Analyzes inventory data to optimize stock levels, cut costs, and prevent stockouts for business unit managers. |
 | [Inventory Optimization Assistant](../management/data-analysis/inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
+| [Journey Insight Optimizer](../science-and-research/data-analysis/journey-insight-optimizer.md) | Analyzes customer data to map, optimize, and report on the customer journey. |
+| [Market Price Optimizer](../science-and-research/data-analysis/market-price-optimizer.md) | Analyzes market data to develop and recommend profitable pricing strategies. |
 | [Marketing Analytics and Reporting Assistant](../sales/data-analysis/marketing-analytics-and-reporting-assistant.md) | Turns your marketing data into clear reports, forecasts, and spend recommendations. |
 | [Operations Cost Analyst](../operations/data-analysis/operations-cost-analyst.md) | Analyzes costs, forecasts trends, and recommends savings for operations leadership. |
 | [Operations Data Insights Assistant](../operations/data-analysis/operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |
@@ -94,6 +96,7 @@ Hotels, venues, travel and event teams. **122 ready-made Grok Bot templates** fo
 | [Production Deadline Planner](../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
 | [Production Resource Allocation Planner](../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
 | [Project Management Support Assistant](../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
+| [School Event Planner](../education/productivity/school-event-planner.md) | Plans and runs school events from venue to evaluation for headteachers. |
 | [Travel Arrangement Coordinator](../customer-support/productivity/travel-arrangement-coordinator.md) | Plans and books client travel from flights to insurance in one place. |
 | [Visitor Management Assistant](../customer-support/productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
 
@@ -143,6 +146,7 @@ Hotels, venues, travel and event teams. **122 ready-made Grok Bot templates** fo
 | [Social Media Campaign Planner](../marketing/social-media/social-media-campaign-planner.md) | Plans and executes social media campaigns from research to reporting. |
 | [Social Media Content Planner](../pr-and-communications/social-media/social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |
 | [Social Media SEO Optimizer](../marketing/social-media/social-media-seo-optimizer.md) | Optimizes social media content for search engines and tracks SEO performance. |
+| [Social Media Strategy Optimizer](../sales/social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 
 ## Writing & Content
 
@@ -154,6 +158,7 @@ Hotels, venues, travel and event teams. **122 ready-made Grok Bot templates** fo
 | [Guest Experience Enhancer](writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
 | [Guest Experience Personalizer](writing-and-content/guest-experience-personalizer.md) | Personalizes every guest interaction from booking to follow-up for hotel managers. |
 | [Marketing Content Creator](../sales/writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |
+| [Marketing Content Polisher](../sales/writing-and-content/marketing-content-polisher.md) | Plan, write, and polish marketing content across formats with AI assistance. |
 | [Receptionist Communication Assistant](../customer-support/writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
 | [Recipe Rescuer](../creatives/writing-and-content/recipe-rescuer.md) | Adapts a recipe to what you actually have, and tells you when a substitution will not work. |
 
@@ -166,6 +171,14 @@ Hotels, venues, travel and event teams. **122 ready-made Grok Bot templates** fo
 | [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Vendor Research and Evaluation Assistant](../management/research/vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |
 
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Relationship Management Assistant](../sales/sales-and-negotiation/relationship-management-assistant.md) | Turns customer data into relationship actions for business development managers. |
+| [Vendor Negotiation Assistant](../operations/sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
+| [Vendor Relationship Management Assistant](../operations/sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
+
 ## Support & Community
 
 | Template | What it does |
@@ -173,13 +186,6 @@ Hotels, venues, travel and event teams. **122 ready-made Grok Bot templates** fo
 | [Customer Inquiry Response Assistant](../customer-support/support-and-community/customer-inquiry-response-assistant.md) | Drafts, translates, and tracks customer support replies across channels. |
 | [Feedback Loop Manager](../management/support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
 | [Review Response Writer](../pr-and-communications/support-and-community/review-response-writer.md) | Writes review responses in your voice, triages each review, and flags escalations. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Vendor Negotiation Assistant](../operations/sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
-| [Vendor Relationship Management Assistant](../operations/sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
 
 ## Teaching & Tutoring
 

@@ -1,6 +1,6 @@
 # Research templates for Product Development
 
-Find sources, compare evidence and summarise what is known. 63 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 64 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -46,6 +46,7 @@ Find sources, compare evidence and summarise what is known. 63 Grok Bot template
 | [Patent Research and Analysis Assistant](patent-research-and-analysis-assistant.md) | Patent research and analysis assistant for R&D engineers, from prior art to strategy. |
 | [Persona Workshop Facilitator](../../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Product Development Insight Assistant](../../management/research/product-development-insight-assistant.md) | Guides market research managers through AI-powered product development insights. |
+| [Product Development Insights Assistant](../../sales/research/product-development-insights-assistant.md) | Turns market and customer data into product development decisions for business development managers. |
 | [Product Strategist](product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |
 | [Product Trend Brief Builder](product-trend-brief-builder.md) | Market trend analysis and reporting for product managers, from data collection to stakeholder-ready summaries. |
 | [Research Brief Generator](../../science-and-research/research/research-brief-generator.md) | Transforms a research query into a structured brief with questions, keywords, and source preferences. |

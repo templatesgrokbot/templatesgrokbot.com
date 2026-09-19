@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **135 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **136 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Authors, copywriters, editors and journalists. **135 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 72 |
+| [Writing & Content](writing-and-content/README.md) | 73 |
 | [Research](research/README.md) | 17 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 15 |
 | [Coding](coding/README.md) | 5 |
@@ -68,6 +68,7 @@ Authors, copywriters, editors and journalists. **135 ready-made Grok Bot templat
 | [Manuscript Evaluation Assistant](../pr-and-communications/writing-and-content/manuscript-evaluation-assistant.md) | Manuscript evaluation assistant for editors: assess quality, verify sources, and guide revisions. |
 | [Markdown Syntax Formatter](writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Marketing Content Creator](../sales/writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |
+| [Marketing Content Polisher](../sales/writing-and-content/marketing-content-polisher.md) | Plan, write, and polish marketing content across formats with AI assistance. |
 | [Media Content Creation Assistant](../pr-and-communications/writing-and-content/media-content-creation-assistant.md) | Drafts and plans media content—press releases, posts, scripts, and more—for media relations specialists. |
 | [Microsoft Learn Contributor](../education/writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
 | [MVP Case Builder](writing-and-content/mvp-case-builder.md) | Builds data-backed MVP and awards cases with narratives and counter-arguments. |

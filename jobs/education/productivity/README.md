@@ -1,6 +1,6 @@
 # Productivity templates for Education
 
-Plan, prioritise and clear the recurring admin. 10 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 12 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,8 @@ Plan, prioritise and clear the recurring admin. 10 Grok Bot templates, 9 of them
 | [Instructor Lifecycle Manager](instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
 | [Learning Culture Builder](learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
 | [Practice Plan Creator](practice-plan-creator.md) | Designs sport-specific practice sessions with drills, timing, and progression. |
+| [School Event Planner](school-event-planner.md) | Plans and runs school events from venue to evaluation for headteachers. |
+| [School Facility Coordinator](school-facility-coordinator.md) | Central hub for school facility management, from maintenance to emergency prep. |
 | [Speed](../../management/productivity/speed.md) | Launch RSVP speed reader with Spritz-style word-by-word display. |
 | [Training Budget Optimizer](training-budget-optimizer.md) | Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators. |
 | [Virtual Training Coordinator Assistant](virtual-training-coordinator-assistant.md) | Manages virtual training setup, content, engagement, and evaluation for training coordinators. |

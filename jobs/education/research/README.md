@@ -1,6 +1,6 @@
 # Research templates for Education
 
-Find sources, compare evidence and summarise what is known. 20 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 21 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Find sources, compare evidence and summarise what is known. 20 Grok Bot template
 | [Literature Review](../../science-and-research/research/literature-review.md) | Conducts systematic literature reviews across scientific databases and produces formatted documents. |
 | [Papers](../../science-and-research/research/papers-skill.md) | Search academic papers, inspect citations, download arXiv PDFs, and extract text. |
 | [Research Prompt](../../science-and-research/research/research-prompt.md) | Turn vague research needs into one precise deep-research prompt with context and output criteria. |
+| [Research-to-Decision Assistant](research-to-decision-assistant.md) | Turns research into decisions for your school, from literature to action plans. |
 | [Scholar Evaluation](scholar-evaluation.md) | Evaluates scholarly work using the ScholarEval framework across multiple quality dimensions. |
 | [Scientific Critical Thinking](../../science-and-research/research/scientific-critical-thinking.md) | Evaluates scientific research rigor, methodology, and evidence quality for critical analysis. |
 | [Survey Generator](../../science-and-research/research/survey-generator.md) | Generate source-backed AI/ML survey papers as self-contained HTML with curated bibliographies. |

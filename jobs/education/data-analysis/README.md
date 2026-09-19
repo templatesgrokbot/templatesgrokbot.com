@@ -1,6 +1,6 @@
 # Data Analysis templates for Education
 
-Clean, query, chart and explain data. 16 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 18 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,8 @@ Clean, query, chart and explain data. 16 Grok Bot templates, 14 of them filed in
 | [Learning Analytics Assistant](learning-analytics-assistant.md) | Turns eLearning data into insights, predictions, and personalized learning paths. |
 | [Learning Analytics Insights Assistant](learning-analytics-insights-assistant.md) | Turns training data into insights, forecasts, and improvement plans for learning programs.​ |
 | [Learning Outcome Forecaster](learning-outcome-forecaster.md) | Forecasts learning outcomes from training data and turns insights into action for instructors. |
+| [School Budget Analysis Assistant](school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
+| [School Data Insights Assistant](school-data-insights-assistant.md) | Turns your school's data into clear insights and decisions you can act on confidently. |
 | [Statistical Analysis](../../science-and-research/data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 | [Student Feedback Analyst](student-feedback-analyst.md) | Analyzes student feedback and generates reports and personalized responses for secondary school teachers. |
 | [Template Gap Analysis Assistant](template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
