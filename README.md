@@ -15,7 +15,7 @@
 <p align="center">
   <b>TemplatesGrokBot.com</b> is a library of 4,000+ ready-made Grok Bot templates. Search by task or job title,
   install any bot in Grok Bot in minutes, and connect the whole catalog to your agents via MCP.
-  Made by Jeroen / <a href="https://nexibeo.com">Nexibeo.com</a> to help anyone build a full team of AI agents for their job.
+  Made by <a href="https://www.linkedin.com/in/jeroenerne/">Jeroen</a> / <a href="https://nexibeo.com">Nexibeo.com</a> to help anyone build a full team of AI agents for their job.
 </p>
 
 <p align="center">
@@ -194,7 +194,7 @@ This repository is generated from the live catalog, so fixes and new templates l
 
 ## About, license and credits
 
-TemplatesGrokBot is made by Jeroen at [Nexibeo](https://nexibeo.com), together with [CompleteAiTraining.com](https://completeaitraining.com) and [CompleteAiAgents.com](https://completeaiagents.com).
+TemplatesGrokBot is made by [Jeroen Erne](https://www.linkedin.com/in/jeroenerne/) at [Nexibeo](https://nexibeo.com), together with [CompleteAiTraining.com](https://completeaitraining.com) and [CompleteAiAgents.com](https://completeaiagents.com).
 
 **Not affiliated with xAI, Grok, or X.** Grok Bot is a product of xAI; we cannot control how it interprets a template, so review what a Bot does before you rely on it.
 
