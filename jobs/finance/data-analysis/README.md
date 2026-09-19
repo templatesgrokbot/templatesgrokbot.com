@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 84 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 85 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -41,6 +41,7 @@ Clean, query, chart and explain data. 84 Grok Bot templates, 32 of them filed in
 | [Financial Document Parser](financial-document-parser.md) | Extracts structured data from financial documents and categorizes expenses. |
 | [Financial Forecasting Assistant](../../management/data-analysis/financial-forecasting-assistant.md) | Turns your business unit's financial data into forecasts, reports, and risk insights. |
 | [Financial Modeling Consultant](../../management/data-analysis/financial-modeling-consultant.md) | Builds and analyzes financial models for management consulting decisions. |
+| [Freight Broker Financial Analyst](../../sales/data-analysis/freight-broker-financial-analyst.md) | Analyzes freight brokerage finances and market data to guide profitable decisions. |
 | [Insurance Finance Reporting Assistant](../../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Invoice Organizer](../../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
 | [Job Profitability Analyzer](job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |

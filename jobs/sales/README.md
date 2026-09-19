@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **328 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,22 +11,23 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 78 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 38 |
-| [Data Analysis](data-analysis/README.md) | 29 |
-| [Research](research/README.md) | 19 |
-| [Writing & Content](writing-and-content/README.md) | 9 |
-| [Productivity](productivity/README.md) | 5 |
-| [Social Media](social-media/README.md) | 4 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 96 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 77 |
+| [Data Analysis](data-analysis/README.md) | 67 |
+| [Research](research/README.md) | 29 |
+| [Writing & Content](writing-and-content/README.md) | 14 |
+| [Security & Compliance](security-and-compliance/README.md) | 9 |
+| [Productivity](productivity/README.md) | 7 |
+| [Social Media](social-media/README.md) | 6 |
+| [Support & Community](support-and-community/README.md) | 5 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 5 |
+| [Design](design/README.md) | 3 |
+| [Knowledge Management](knowledge-management/README.md) | 3 |
 | [Coding](coding/README.md) | 2 |
-| [Design](design/README.md) | 2 |
-| [Support & Community](support-and-community/README.md) | 2 |
+| [Office Tools](office-tools/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Video](generative-video/README.md) | 1 |
-| [Office Tools](office-tools/README.md) | 1 |
-| [Security & Compliance](security-and-compliance/README.md) | 1 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 
 ## Marketing & Growth
 
@@ -46,6 +47,7 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 | [Cold Email Outreach Planner](marketing-and-growth/cold-email-outreach-planner.md) | Plans and drafts personalized cold email campaigns that get opened and answered. |
 | [Competitor Ad Intelligence](../marketing/marketing-and-growth/competitor-ad-intelligence.md) | Research public competitor ads, analyze creative patterns and landing pages, and produce an evidence-labeled strategic teardown. |
 | [Competitor Alternatives](../marketing/marketing-and-growth/competitor-alternatives.md) | Build SEO-optimized competitor comparison and alternative pages that help buyers decide. |
+| [Content Creation and Curation Assistant](marketing-and-growth/content-creation-and-curation-assistant.md) | Generates, curates, and optimizes marketing content across all channels. |
 | [Convertkit Automation](../marketing/marketing-and-growth/convertkit-automation.md) | Automate ConvertKit subscriber, tag, and broadcast management via Rube MCP. |
 | [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
 | [Cro](../marketing/marketing-and-growth/cro.md) | Analyze marketing pages and forms to improve conversion rates with actionable recommendations. |
@@ -55,6 +57,9 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 | [Deliverability Focused Email Architect](marketing-and-growth/deliverability-focused-email-architect.md) | Plans, builds, and tunes email campaigns from segmentation to deliverability. |
 | [Deliverability Optimization Assistant](marketing-and-growth/deliverability-optimization-assistant.md) | Optimizes email deliverability by managing authentication, list hygiene, content, testing, and sender reputation. |
 | [Digital Ad Campaign Assistant](marketing-and-growth/digital-ad-campaign-assistant.md) | Plans, writes, targets, and optimizes digital ad campaigns from research to reporting. |
+| [Digital Marketing Optimization Assistant](marketing-and-growth/digital-marketing-optimization-assistant.md) | Optimizes digital marketing campaigns with AI-driven insights and automation. |
+| [Digital Marketing Strategy Builder](marketing-and-growth/digital-marketing-strategy-builder.md) | Builds and refines your digital marketing strategy from research to reporting. |
+| [Digital Marketing Strategy Planner](marketing-and-growth/digital-marketing-strategy-planner.md) | Plans and optimizes digital marketing strategy from research to reporting. |
 | [Email A/B Testing Assistant](marketing-and-growth/email-a-b-testing-assistant.md) | Designs, runs, and analyzes email A/B tests to boost engagement and conversions. |
 | [Email Campaign Automation Assistant](marketing-and-growth/email-campaign-automation-assistant.md) | Builds, automates, and optimizes email campaigns with personalization, testing, and analytics. |
 | [Email Campaign Copywriter](marketing-and-growth/email-campaign-copywriter.md) | Drafts, personalizes, and tests email campaign copy for higher engagement and conversions. |
@@ -69,16 +74,26 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 | [Email Sequence Planner](../marketing/marketing-and-growth/marketing-email-sequence.md) | Design and draft multi-email sequences with timing, branching, and exit conditions. |
 | [Event Planning and Promotion Assistant](marketing-and-growth/event-planning-and-promotion-assistant.md) | Plans and promotes events from research to follow-up, with drafts for approval. |
 | [Executing Marketing Campaigns](../marketing/marketing-and-growth/executing-marketing-campaigns.md) | Plans, creates, and optimizes marketing campaigns across channels with measurable results. |
+| [Freight Broker Marketing Strategist](marketing-and-growth/freight-broker-marketing-strategist.md) | Develops and executes freight brokerage marketing strategies from research to campaigns. |
 | [Influencer Collaboration Manager](../management/marketing-and-growth/influencer-collaboration-manager.md) | Manages influencer collaborations from discovery to reporting, with approval gates for all external actions. |
+| [Influencer Partnership Strategist](marketing-and-growth/influencer-partnership-strategist.md) | Finds, pitches, and manages influencer partnerships from discovery to ROI. |
 | [Influencer ROI Campaign Orchestrator](marketing-and-growth/influencer-roi-campaign-orchestrator.md) | Manages influencer collaborations from discovery to ROI analysis. |
 | [Interactive Email Elements Assistant](marketing-and-growth/interactive-email-elements-assistant.md) | Designs and builds interactive email elements to boost engagement and conversions. |
+| [International Market Entry Planner](marketing-and-growth/international-market-entry-planner.md) | Plans and de-risks your international market entry, from research to rollout. |
+| [Journey Insight Mapper](marketing-and-growth/journey-insight-mapper.md) | Maps customer journeys from data to insight, turning touchpoints into action. |
 | [Keyword Research with Topic Clusters](../marketing/marketing-and-growth/keyword-recherche-cluster.md) | Finds keywords your site can win with current authority and groups them into topic clusters. |
 | [Keyword Strategy Planner](../marketing/marketing-and-growth/keyword-strategy-planner.md) | Turns a keyword CSV into a prioritized content and SEO strategy with intent mapping. |
 | [Klaviyo Automation](../marketing/marketing-and-growth/klaviyo-automation.md) | Automate Klaviyo email/SMS campaign management, inspection, and monitoring. |
+| [Lead Generation Strategist](marketing-and-growth/lead-generation-strategist.md) | Turns market research, content, and outreach into a steady flow of qualified leads for your sales team. |
 | [Lead Magnets](../marketing/marketing-and-growth/lead-magnets.md) | Plan lead magnets that capture emails and convert subscribers. |
 | [Local Legal Seo Audit](../marketing/marketing-and-growth/local-legal-seo-audit.md) | Audit and improve local SEO for law firms, attorneys, and legal professionals. |
 | [Local SEO Audit](../marketing/marketing-and-growth/local-seo-audit.md) | Audits local ranking pillars and prescribes the five highest-impact fixes for a business. |
+| [Market Data Brand Positioner](marketing-and-growth/market-data-brand-positioner.md) | Turns market data into a sharp brand position with messaging, guidelines, and tracking. |
+| [Market Segmentation Strategist](marketing-and-growth/market-segmentation-strategist.md) | Turns customer data into segment insights, targeting strategies, and sales actions for global sales leaders. |
+| [Marketing Automation Workflow Designer](marketing-and-growth/marketing-automation-workflow-designer.md) | Automates digital marketing workflows from content to analytics for Digital Marketing Managers. |
+| [Marketing Conversion Insight Drafts](marketing-and-growth/marketing-conversion-insight-drafts.md) | Analyzes conversion data and generates optimization recommendations for digital marketing managers. |
 | [Marketing Demand Acquisition](../marketing/marketing-and-growth/marketing-demand-acquisition.md) | Generates and optimizes multi-channel demand for B2B SaaS startups scaling internationally. |
+| [Marketing Rival Decoder](marketing-and-growth/marketing-rival-decoder.md) | Competitive intelligence assistant for digital marketing managers, turning competitor data into actionable strategy. |
 | [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Mobile Email Optimizer](marketing-and-growth/mobile-email-optimizer.md) | Optimizes email campaigns for mobile devices to boost readability, engagement, and conversions. |
 | [Objection Preemptor](../marketing/marketing-and-growth/objection-preemptor.md) | Surface and neutralize customer objections before they block conversion. |
@@ -87,6 +102,7 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 | [Paid Ads](../marketing/marketing-and-growth/paid-ads.md) | Plan, draft, and optimize paid ad campaigns across platforms to hit target CPA and ROAS. |
 | [Paywall Upgrade Cro](../marketing/marketing-and-growth/paywall-upgrade-cro.md) | Audit in-app paywalls and upgrade screens to convert free users to paid subscribers. |
 | [Performance Email Campaign Builder](marketing-and-growth/performance-email-campaign-builder.md) | Plans, writes, and refines email campaigns from segmentation to performance analysis. |
+| [Pharma Digital Marketing Planner](marketing-and-growth/pharma-digital-marketing-planner.md) | Digital marketing assistant for pharmaceutical sales reps, from content to compliance. |
 | [Pitch Psychologist](../marketing/marketing-and-growth/pitch-psychologist.md) | Structure sales pitches using psychological sequencing to build desire before solution. |
 | [PPC Campaign Manager](marketing-and-growth/ppc-campaign-manager.md) | Manages PPC campaigns from keyword research to performance reporting for better ROI. |
 | [Price Psychology Strategist](../marketing/marketing-and-growth/price-psychology-strategist.md) | Apply behavioral pricing psychology to frame offers for value and fairness. |
@@ -95,6 +111,7 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 | [Referral Program](../marketing/marketing-and-growth/referral-program.md) | Designs and optimizes referral and affiliate programs to turn customers into growth engines. |
 | [SaaS Monetization Strategist](../product-development/marketing-and-growth/monetization.md) | SaaS monetization strategy and implementation with Stripe, pricing, and churn prevention. Use for integrating Stripe, creating subscription plans, configuring |
 | [Sales Automator](marketing-and-growth/sales-automator.md) | Drafts compliant cold email sequences, proposals, and sales scripts with personalization. |
+| [Sales Campaign Content Creation Assistant](marketing-and-growth/sales-campaign-content-creation-assistant.md) | Sales campaign content assistant for a sales manager, handling research to final assets. |
 | [Sales Enablement Pack](../marketing/marketing-and-growth/sales-enablement-pack.md) | Builds one-pagers, battlecards, and objection handling docs from product information whenever sales collateral is needed. |
 | [Scarcity Urgency Psychologist](../marketing/marketing-and-growth/scarcity-urgency-psychologist.md) | Design genuine scarcity and urgency that motivates action without manipulation. |
 | [Search Ranking Fixer](marketing-and-growth/search-ranking-fixer.md) | Optimizes your website's search ranking with keyword research, content, and technical fixes. |
@@ -109,7 +126,9 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 | [Strategy Lifecycle Content Copilot](marketing-and-growth/strategy-lifecycle-content-copilot.md) | Builds and refines your content strategy from research to performance analysis. |
 | [Subject Line Psychologist](../marketing/marketing-and-growth/subject-line-psychologist.md) | Craft email subject lines that earn opens through honest psychological triggers. |
 | [Subscriber Email Growth Planner](marketing-and-growth/subscriber-email-growth-planner.md) | Plan, write, and optimize email campaigns that engage subscribers and drive conversions. |
+| [SWOT Analysis Guide](marketing-and-growth/swot-analysis-guide.md) | Guides business development managers through complete SWOT analyses with data-driven insights. |
 | [Trust Calibrator](../marketing/marketing-and-growth/trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
+| [Video Marketing Strategy Planner](marketing-and-growth/video-marketing-strategy-planner.md) | Plans, scripts, optimizes, and analyzes video marketing for digital marketing managers. |
 
 ## Sales & Negotiation
 
@@ -119,37 +138,76 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 | [Close Automation](sales-and-negotiation/close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
 | [Cold Outreach](sales-and-negotiation/cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
 | [Competitive Analysis Assistant](sales-and-negotiation/competitive-analysis-assistant.md) | Turns competitor data into sales-ready insights and strategies. |
+| [Competitor Move Sales Strategist](sales-and-negotiation/competitor-move-sales-strategist.md) | Tracks competitors and turns their moves into your sales strategy. |
 | [Consulting Proposal Generator](sales-and-negotiation/consulting-proposal-generator.md) | Turns a brief into a complete, personalized consulting proposal. |
+| [Contract Review Assistant](sales-and-negotiation/contract-review-assistant.md) | Analyzes, drafts, and manages contracts for business development managers. |
 | [CRM Sales and Marketing Assistant](sales-and-negotiation/crm-sales-and-marketing-assistant.md) | CRM assistant that manages leads, segments customers, and analyzes sales performance for your team. |
+| [CRM Sales Insights Assistant](sales-and-negotiation/crm-sales-insights-assistant.md) | Turns CRM data into leads, forecasts, and personalized outreach for global sales heads. |
 | [Cross-Sell Upsell Strategist](sales-and-negotiation/cross-sell-upsell-strategist.md) | Finds cross-sell and upsell opportunities, then drafts the pitches, answers, and follow-ups to close them. |
+| [Customer Needs Analysis Assistant](sales-and-negotiation/customer-needs-analysis-assistant.md) | Turns customer data into needs analysis and sales strategy for technical sales reps. |
 | [Deal Closer Playbook](sales-and-negotiation/deal-closer-playbook.md) | Turns deal context into a tactical closing playbook with research, stakeholder mapping, and next actions. |
 | [Deal Desk](../finance/sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
 | [Deal Momentum Analyzer](sales-and-negotiation/deal-momentum-analyzer.md) | Score deal velocity and predict close probability from engagement patterns. |
 | [Deal Review Coach](sales-and-negotiation/deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
+| [Digital Sales Strategy Assistant](sales-and-negotiation/digital-sales-strategy-assistant.md) | Turns sales data into strategy: research, segment, create, and optimize digital sales. |
+| [Feedback Insight and Response Assistant](sales-and-negotiation/feedback-insight-and-response-assistant.md) | Turns customer feedback into insights, responses, and action plans for technical sales teams. |
+| [Freight Dispute Resolution Assistant](sales-and-negotiation/freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
+| [Freight Load Matching Assistant](sales-and-negotiation/freight-load-matching-assistant.md) | Matches loads to carriers, negotiates rates, and manages freight documentation from search to delivery. |
+| [Global Sales Cross-Sell Upsell Planner](sales-and-negotiation/global-sales-cross-sell-upsell-planner.md) | Turns sales data into cross-sell and upsell actions for global sales leaders. |
 | [Harvey Specter](sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
 | [Hubspot Automation](sales-and-negotiation/hubspot-automation.md) | Automate HubSpot CRM operations via Rube MCP and Composio integration. |
 | [Inbound Lead Qualifier](sales-and-negotiation/inbound-lead-qualifier.md) | Qualifies inbound leads, scores them, and routes to the right rep with context. |
 | [Intent Signal Monitor](sales-and-negotiation/intent-signal-monitor.md) | Tracks web signals to alert when prospects show buying intent. |
 | [John Wick](sales-and-negotiation/john-wick.md) | Finds the right decision-maker at a target company and gets you into their conversation. |
+| [Lead Generation Insights Assistant](sales-and-negotiation/lead-generation-insights-assistant.md) | Turns sales data into lead generation insights and actions for a CSO. |
+| [Lead Identification Assistant](sales-and-negotiation/lead-identification-assistant.md) | Finds, scores, and nurtures high-quality leads for business development managers. |
 | [Lead Lifecycle Manager](sales-and-negotiation/lead-lifecycle-manager.md) | Finds, qualifies, and nurtures leads, then tracks and reports on them for sales. |
 | [Lead Pipeline Processor](sales-and-negotiation/lead-pipeline-processor.md) | Reads Gmail leads, scores them by fit, drafts replies, and logs them to your CRM. |
 | [Lead Research Assistant](sales-and-negotiation/lead-research-assistant.md) | Finds and prioritizes companies that match your ideal customer profile for sales outreach. |
+| [Networking Strategy Planner](sales-and-negotiation/networking-strategy-planner.md) | Your networking strategist: research, outreach, events, and follow-up for business development managers. |
 | [Objection Pattern Detector](sales-and-negotiation/objection-pattern-detector.md) | Mines lost deal notes to find objection patterns and builds response playbooks from won deals. |
 | [Odoo Sales Crm Expert](sales-and-negotiation/odoo-sales-crm-expert.md) | Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions. |
 | [Outbound Sales](sales-and-negotiation/outbound-sales.md) | Owns the full outbound prospecting pipeline so AEs can focus on closing. |
 | [Outreachagent](sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
+| [Partnership Outreach Manager](sales-and-negotiation/partnership-outreach-manager.md) | Finds, courts, and manages business partnerships from first contact to expansion. |
+| [Personalized Sales Strategy Assistant](sales-and-negotiation/personalized-sales-strategy-assistant.md) | Personalized sales strategies from customer data to tailored pitches and follow-ups. |
+| [Pharma Client Profiling Assistant](sales-and-negotiation/pharma-client-profiling-assistant.md) | Builds deep client profiles and sales strategies for pharmaceutical sales reps. |
+| [Pharma Health Economics Insight](sales-and-negotiation/pharma-health-economics-insight.md) | Turns health economics data into sales-ready insights for pharmaceutical reps. |
+| [Pharma Relationship Builder](sales-and-negotiation/pharma-relationship-builder.md) | Build and strengthen healthcare professional relationships with personalized outreach and follow-up. |
+| [Pharma Sales Strategy Assistant](sales-and-negotiation/pharma-sales-strategy-assistant.md) | Analyzes pharma market data and crafts sales strategies, pitches, and forecasts for representatives. |
+| [Product Customization Advisor](sales-and-negotiation/product-customization-advisor.md) | Guides technical sales reps through product customization advice from analysis to post-sales support. |
+| [Product Presentation Builder](sales-and-negotiation/product-presentation-builder.md) | Build and run product presentations that persuade, engage, and convert. |
+| [Proposal Creation Assistant](sales-and-negotiation/proposal-creation-assistant.md) | Crafts tailored, winning proposals from research to follow-up for business development managers. |
 | [Proposal Customization Assistant](sales-and-negotiation/proposal-customization-assistant.md) | Customizes sales proposals to fit each client's needs and brand. |
 | [Prospect Panel Simulator](sales-and-negotiation/prospect-panel-simulator.md) | Simulate a panel of your real prospects to pressure-test sales and marketing artifacts before they go out. |
 | [Quota Setting Calculator](sales-and-negotiation/quota-setting-calculator.md) | Designs fair, achievable sales quotas with clear methodology and territory adjustments. |
+| [Real-Time Sales Assistant](sales-and-negotiation/real-time-sales-assistant.md) | Real-time sales assistant that qualifies leads, recommends products, and closes deals. |
+| [Rival Edge Sales Tracker](sales-and-negotiation/rival-edge-sales-tracker.md) | Tracks rivals and turns their moves into your sales edge. |
+| [Sales Call Optimizer](sales-and-negotiation/sales-call-optimizer.md) | Optimizes sales calls from preparation to follow-up with AI-driven insights and coaching. |
+| [Sales Crisis Management Assistant](sales-and-negotiation/sales-crisis-management-assistant.md) | Guides sales managers through crisis preparation, response, and recovery with data-driven insights. |
+| [Sales CRM Assistant](sales-and-negotiation/sales-crm-assistant.md) | Manages leads, segments customers, forecasts sales, and boosts retention from one chat. |
 | [Sales CRM Operations Assistant](sales-and-negotiation/sales-crm-operations-assistant.md) | Turns customer data into leads, forecasts, and retention plans for sales reps. |
+| [Sales Data Lead Finder](sales-and-negotiation/sales-data-lead-finder.md) | Turns sales data and market signals into targeted lead generation campaigns and outreach. |
 | [Sales Enablement](sales-and-negotiation/sales-enablement.md) | Create sales collateral that reps actually use to close deals. |
 | [Sales Engineer](sales-and-negotiation/sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
 | [Sales Forecast Builder](sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
+| [Sales Incentive Plan Designer](sales-and-negotiation/sales-incentive-plan-designer.md) | Designs and manages sales incentive plans from data analysis to rollout. |
 | [Sales Methodology Implementer](sales-and-negotiation/sales-methodology-implementer.md) | Implements proven sales methodologies (MEDDIC, BANT, Sandler, Challenger, SPIN) across your team. |
 | [Sales Process Automation Assistant](sales-and-negotiation/sales-process-automation-assistant.md) | Automates your sales workflow from lead generation to contract management and forecasting. |
+| [Sales Process Optimizer](sales-and-negotiation/sales-process-optimizer.md) | Analyzes sales data, segments customers, optimizes pipelines, and generates tailored sales materials. |
 | [Sales Product Information Assistant](sales-and-negotiation/sales-product-information-assistant.md) | Turns product data into sales-ready insights, comparisons, and materials for your customers. |
+| [Sales Strategy Optimizer](sales-and-negotiation/sales-strategy-optimizer.md) | Sales strategy optimizer: market analysis, forecasting, and personalized outreach for CSOs. Turn data into decisions. |
+| [Sales War Room Intel](sales-and-negotiation/sales-war-room-intel.md) | Turns competitor data into actionable sales intelligence for global sales leaders. |
 | [Salesforce Automation](sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
 | [Sustainable Property Assistant](../real-estate-and-construction/sales-and-negotiation/sustainable-property-assistant.md) | Helps real estate brokers market, advise on, and close deals for sustainable and green properties. |
+| [Technical Cross-Sell Upsell Assistant](sales-and-negotiation/technical-cross-sell-upsell-assistant.md) | Cross-sell and upsell technical products with personalized recommendations and persuasive follow-ups. |
+| [Technical Sales CRM Assistant](sales-and-negotiation/technical-sales-crm-assistant.md) | Manages client relationships end-to-end for technical sales reps. |
+| [Technical Sales Enablement Assistant](sales-and-negotiation/technical-sales-enablement-assistant.md) | Turns sales data and customer interactions into leads, proposals, and forecasts for technical sales reps. |
+| [Technical Sales Lead Generator](sales-and-negotiation/technical-sales-lead-generator.md) | Generates and refines lead generation content and strategies for technical sales representatives. |
+| [Technical Sales Negotiation Prep](sales-and-negotiation/technical-sales-negotiation-prep.md) | Prepares technical sales reps for negotiations with AI-driven strategy and objection handling. |
+| [Technical Sales Presentation Assistant](sales-and-negotiation/technical-sales-presentation-assistant.md) | Prepares technical sales presentations, demos, and supporting materials for client meetings. |
+| [Technical Sales Pricing Architect](sales-and-negotiation/technical-sales-pricing-architect.md) | Develops and refines pricing strategies from market data and customer insights. |
+| [Technical Sales Rival Intel](sales-and-negotiation/technical-sales-rival-intel.md) | Competitive intelligence assistant for technical sales reps, turning market data into actionable strategies. |
 | [Territory Planning Optimizer](sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
 | [Virtual Sales Assistant Builder](sales-and-negotiation/virtual-sales-assistant-builder.md) | Builds and runs your virtual sales assistant for leads, outreach, pitches, and follow-ups. |
 | [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
@@ -165,28 +223,66 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 | [Champion Identifier](data-analysis/champion-identifier.md) | Identify the internal champion most likely to advocate for your solution at a target account. |
 | [Churn Radar](data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
 | [Client Health Dashboard](../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
+| [CRM Sales Intelligence Analyst](data-analysis/crm-sales-intelligence-analyst.md) | Turn CRM data into sales decisions: clean, segment, forecast, score, and act. |
+| [CSO Market Trend Intel](data-analysis/cso-market-trend-intel.md) | Market trend intelligence for CSOs: gather, analyze, forecast, and report on market movements. |
+| [CSO Pipeline Forecaster](data-analysis/cso-pipeline-forecaster.md) | Turns sales data into forecasts, scenarios, and pipeline insights for a CSO's decisions. No hype, just analysis. |
+| [CSO Pricing Insight Advisor](data-analysis/cso-pricing-insight-advisor.md) | Analyzes pricing data to sharpen strategy and boost revenue for sales leaders. |
+| [CSO Segment Architect](data-analysis/cso-segment-architect.md) | Turns customer data into segments, profiles, and sales strategies for CSOs. |
 | [Customer Engagement Assistant](../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
+| [Customer Feedback Insight Engine](data-analysis/customer-feedback-insight-engine.md) | Turns customer feedback into actionable insights and response plans for sales leadership. |
+| [Customer Feedback Insights Analyst](data-analysis/customer-feedback-insights-analyst.md) | Analyzes customer feedback to extract insights, track trends, and guide business development decisions. |
 | [Customer Report Generator](../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
+| [Dynamic Pricing Strategist](data-analysis/dynamic-pricing-strategist.md) | Analyzes market data and adjusts prices dynamically to maximize revenue for sales managers. |
 | [E-commerce Pricing Optimizer](../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [Email Marketing Analytics Assistant](data-analysis/email-marketing-analytics-assistant.md) | Turns your email campaign data into clear insights and reports. |
 | [Feedback to Sales Actions](data-analysis/feedback-to-sales-actions.md) | Turns customer feedback into clear insights and actions for sales and marketing. |
 | [Footballbin Predictions](../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
+| [Forecast Insight Report Builder](data-analysis/forecast-insight-report-builder.md) | Turns sales data into forecasts, insights, and reports for confident planning. |
+| [Forecast Modeling for Reps](data-analysis/forecast-modeling-for-reps.md) | Analyzes sales data and market signals to produce accurate, scenario-tested forecasts. |
+| [Freight Broker Financial Analyst](data-analysis/freight-broker-financial-analyst.md) | Analyzes freight brokerage finances and market data to guide profitable decisions. |
+| [Freight Data Analyst](data-analysis/freight-data-analyst.md) | Turns your freight data into clear reports, forecasts, and cost-saving insights. |
+| [Freight Rate Estimation Assistant](data-analysis/freight-rate-estimation-assistant.md) | Analyzes freight rates, forecasts trends, and supports negotiations for freight brokers. |
+| [Freight Route Optimizer](data-analysis/freight-route-optimizer.md) | Optimizes freight routes, cuts costs, and ensures compliance for freight brokers. |
+| [Global Sales Feedback Analyst](data-analysis/global-sales-feedback-analyst.md) | Turns customer feedback into actionable insights for global sales leadership. |
+| [Global Sales Insight Drafts](data-analysis/global-sales-insight-drafts.md) | Turns sales data into forecasts, segment insights, and performance reports for global sales leadership. |
 | [Google Ads Performance Analyzer](../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
+| [KPI Performance Analyst](data-analysis/kpi-performance-analyst.md) | Analyzes performance metrics and KPIs for business development managers, turning data into insights and reports. |
+| [Lead Scoring Strategist](data-analysis/lead-scoring-strategist.md) | Builds and refines lead scoring models, segments leads, and tracks performance for sales managers. |
 | [Licensing and Royalty Manager](../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
+| [Market Trend Analyst for Technical Sales](data-analysis/market-trend-analyst-for-technical-sales.md) | Analyzes market trends, competitors, and customer sentiment to guide technical sales strategy. |
 | [Marketing Analytics and Reporting Assistant](data-analysis/marketing-analytics-and-reporting-assistant.md) | Turns your marketing data into clear reports, forecasts, and spend recommendations. |
 | [Marketing Data Analyst](data-analysis/marketing-data-analyst.md) | Turns marketing data into insights, reports, and dashboards for digital marketing managers. |
+| [Pharma Feedback Collector](data-analysis/pharma-feedback-collector.md) | Collects, analyzes, and reports product feedback from healthcare professionals and patients. |
+| [Pharma Market Insight Assistant](data-analysis/pharma-market-insight-assistant.md) | Turns market data into actionable insights for pharmaceutical sales strategy. |
+| [Pharma Sales Forecasting Assistant](data-analysis/pharma-sales-forecasting-assistant.md) | Turns sales data into forecasts and plans for pharmaceutical sales reps. |
+| [Pipeline Forecast Compass](data-analysis/pipeline-forecast-compass.md) | Analyzes sales data and market signals to produce accurate, actionable sales forecasts. |
 | [Pipeline Health Analyzer](data-analysis/pipeline-health-analyzer.md) | Analyze pipeline health, flag stalled deals, forecast closes, and prescribe next actions. |
+| [Pricing Data Optimizer](data-analysis/pricing-data-optimizer.md) | Analyzes pricing data to optimize strategies for profitability and competitiveness. |
+| [Product Performance Insights Assistant](data-analysis/product-performance-insights-assistant.md) | Analyzes product performance data and delivers actionable sales insights for global heads of sales. |
+| [Product Performance Review Assistant](data-analysis/product-performance-review-assistant.md) | Analyzes product performance data and delivers actionable insights for CSOs. |
 | [Rep Performance Scorecard](data-analysis/rep-performance-scorecard.md) | Builds multi-dimensional rep performance scorecards with coaching priorities and peer benchmarks. |
 | [Retail Sales Trend Analyst](../management/data-analysis/retail-sales-trend-analyst.md) | Turns retail sales data into trend insights, forecasts, and strategy recommendations. |
 | [Revenue Pricing Advisor](data-analysis/revenue-pricing-advisor.md) | Analyzes pricing data and builds strategies to maximize revenue and competitive advantage. |
+| [Revenue Pricing Strategist](data-analysis/revenue-pricing-strategist.md) | Develops and optimizes pricing strategies from market data to revenue forecasts. |
+| [Sales Channel Optimization Analyst](data-analysis/sales-channel-optimization-analyst.md) | Optimizes sales channels with data-driven insights and strategic recommendations. |
+| [Sales Data Insight Engine](data-analysis/sales-data-insight-engine.md) | Turns your sales data into forecasts, segments, and dashboards for smarter decisions. |
+| [Sales Data Insights Assistant](data-analysis/sales-data-insights-assistant.md) | Turns raw sales data into clean, analyzed, and visualized insights for strategic decisions. |
+| [Sales Feedback Action Planner](data-analysis/sales-feedback-action-planner.md) | Turns customer feedback into sales insights, trends, and actions. |
 | [Sales Feedback Signal Analyzer](data-analysis/sales-feedback-signal-analyzer.md) | Turns customer feedback into clear insights and actions for sales teams. |
+| [Sales Forecast Review Copilot](data-analysis/sales-forecast-review-copilot.md) | Turns sales data and market signals into forecasts, targets, and variance reviews for the sales manager. |
+| [Sales Forecasting Analyst](data-analysis/sales-forecasting-analyst.md) | Turns sales data into accurate forecasts and strategic insights for global sales leaders. |
 | [Sales Forecasting Assistant](data-analysis/sales-forecasting-assistant.md) | Turns your sales data and market context into forecasts, targets, and reports you can act on. |
 | [Sales Performance Analyst](data-analysis/sales-performance-analyst.md) | Turns sales data into performance insights, forecasts, and coaching for sales teams. |
+| [Sales Performance Tracking Assistant](data-analysis/sales-performance-tracking-assistant.md) | Turns your sales data into targets, forecasts, dashboards, and review reports. |
+| [Sales Strategy Trend Advisor](data-analysis/sales-strategy-trend-advisor.md) | Turns market data into trend insights, forecasts, and sales strategy recommendations. |
+| [Sales Team Performance Analyst](data-analysis/sales-team-performance-analyst.md) | Analyze sales team performance and drive strategy with data-backed insights and recommendations. |
 | [Sales Trend Forecaster](data-analysis/sales-trend-forecaster.md) | Turns market data into trend insights and forecasts for sales reps. |
 | [Supplier Market Trend Tracker](../management/data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
+| [Territory Sales Analyzer](data-analysis/territory-sales-analyzer.md) | Analyzes territory sales data to uncover insights and recommend strategies for CSOs. |
 | [Trading Risk Manager](../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+| [Web Analytics Monitoring Assistant](data-analysis/web-analytics-monitoring-assistant.md) | Turns your web analytics data into clear insights and actions for better marketing decisions. |
 
 ## Research
 
@@ -198,17 +294,27 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Tracking](../marketing/research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
 | [Contact Hunter](research/contact-hunter.md) | Finds and verifies public contact details for people and companies. |
+| [Crisis Management Support for CSOs](research/crisis-management-support-for-csos.md) | Real-time crisis monitoring, assessment, communication, and recovery support for Chief Sales Officers. |
 | [Crypto Bd Agent](research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
+| [CSO Competitor Intel Briefs](research/cso-competitor-intel-briefs.md) | Turns competitor data into strategic sales intelligence for CSOs. |
 | [Customer Psychographic Profiler](../marketing/research/customer-psychographic-profiler.md) | Build deep psychographic profiles of target customers based on identity, needs, and fears. |
 | [Find Matching Tenders](research/find-matching-tenders.md) | Find and rank live AU/NZ government tenders matching a company's capabilities. |
+| [Freight Market Research Assistant](research/freight-market-research-assistant.md) | Market research for freight brokers: trends, competitors, pricing, routes, regulations, and more. |
+| [Freight Technology Integration Planner](research/freight-technology-integration-planner.md) | Plans and guides technology integration for freight brokerage operations. |
+| [Market Research Analyst for CSOs](research/market-research-analyst-for-csos.md) | Market research analysis for Chief Sales Officers: competitor, customer, trend, pricing, and opportunity insights. |
+| [Market Research and Analysis Assistant](research/market-research-and-analysis-assistant.md) | Market research and analysis assistant for digital marketing managers. |
 | [Market Scout](../marketing/research/market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
+| [Medical Literature Summarizer for Pharma Sales](research/medical-literature-summarizer-for-pharma-sales.md) | Searches, summarizes, and organizes medical literature for pharmaceutical sales discussions. |
 | [People Data](research/people-data.md) | Research LinkedIn profiles and public business contacts via MCP. |
 | [Persona Workshop Facilitator](../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
+| [Pharma Competitive Intelligence Assistant](research/pharma-competitive-intelligence-assistant.md) | Competitive intelligence for pharmaceutical sales reps, from market research to strategy. |
+| [Pharmaceutical Product Knowledge Assistant](research/pharmaceutical-product-knowledge-assistant.md) | Builds and refreshes your pharmaceutical product knowledge for sales conversations and training materials. |
 | [Prospecting bot](research/prospecting-bot.md) | Researches accounts and builds outreach lists using CRM data and public content. |
 | [Salary Negotiation Prep](../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 | [Seo Dataforseo](../marketing/research/seo-dataforseo.md) | Fetch live SERPs, keyword metrics, backlinks, and competitor data via DataForSEO. |
 | [Social Media Market Research Analyst](research/social-media-market-research-analyst.md) | Turns social media data into market research insights and strategy for sales and marketing teams. |
 | [Supplier Selection Assistant](../management/research/supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |
+| [Technology Adoption Advisor](research/technology-adoption-advisor.md) | Guides CSOs through technology evaluation and adoption, from research to roadmap. |
 | [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Us Property Data](../real-estate-and-construction/research/us-property-data.md) | Retrieve real U.S. property valuations, listings, and history from Zillow data. No guessing. |
 
@@ -220,30 +326,89 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 | [Cover Letter Generator](../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Email Composer](../operations/writing-and-content/email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
 | [Founder Pitch Deck Coach](../executives-and-strategy/writing-and-content/founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
+| [Freight Brokerage Training Developer](writing-and-content/freight-brokerage-training-developer.md) | Builds and runs freight brokerage training programs from onboarding to ongoing development. |
 | [Linkedin Profile Optimizer](../marketing/writing-and-content/linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
 | [Marketing Content Creator](writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |
 | [Newsletter Content Creator](writing-and-content/newsletter-content-creator.md) | Drafts, optimizes, and repurposes newsletter content from research to performance analysis. |
+| [Pharma Training Material Creator](writing-and-content/pharma-training-material-creator.md) | Pharmaceutical sales training material creator: research, draft, review, and format compliant educational content. |
+| [Product Knowledge and Sales Enablement Assistant](writing-and-content/product-knowledge-and-sales-enablement-assistant.md) | Deepens product knowledge and creates sales enablement content for technical sales reps. |
 | [RFP Compliance Drafter](writing-and-content/rfp-compliance-drafter.md) | Turns an RFP and your past proposals into a compliance matrix and a drafted response, flagging gaps before you write. |
+| [Sales Training Content Builder](writing-and-content/sales-training-content-builder.md) | Builds and refines sales training content, from market research to performance analysis. |
 | [Sales Training Material Builder](writing-and-content/sales-training-material-builder.md) | Builds and maintains a complete library of sales training materials from research to rollout. |
+| [Sales Training Material Creator](writing-and-content/sales-training-material-creator.md) | Builds complete sales training materials from research to certification for technical sales teams. |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Compliance Guidance Assistant](security-and-compliance/compliance-guidance-assistant.md) | Guides CSOs through regulatory compliance with tailored advice, audits, and monitoring. |
+| [Cybersecurity Consultation Assistant](security-and-compliance/cybersecurity-consultation-assistant.md) | Cybersecurity consultation assistant for CSOs: assess risks, build policies, plan responses, and more. |
+| [Freight Broker Compliance Assistant](security-and-compliance/freight-broker-compliance-assistant.md) | Freight broker compliance assistant for carrier checks, audits, and regulatory updates. |
+| [Freight Environmental Compliance Assistant](security-and-compliance/freight-environmental-compliance-assistant.md) | Turns freight brokerage environmental compliance work into research, plans, audits, and reports. |
+| [Freight Risk Assessment Assistant](security-and-compliance/freight-risk-assessment-assistant.md) | Freight broker risk management assistant for vetting, contracts, claims, compliance, and planning. |
+| [GDPR Email Compliance Assistant](security-and-compliance/gdpr-email-compliance-assistant.md) | Guides email marketers through GDPR compliance for campaigns, from audits to breach response. |
+| [Pharma Compliance Assistant](security-and-compliance/pharma-compliance-assistant.md) | Keeps pharmaceutical sales compliant with regulations, audits, and reporting. |
+| [Sales Compliance and Ethics Assistant](security-and-compliance/sales-compliance-and-ethics-assistant.md) | Guides technical sales reps to keep every deal compliant, ethical, and audit-ready. |
+| [Security Risk Assessment Planner](security-and-compliance/security-risk-assessment-planner.md) | Risk assessment and mitigation assistant for Chief Sales Officers, turning security data into actionable plans and reports. No hype, just the work. |
 
 ## Productivity
 
 | Template | What it does |
 |---|---|
+| [Pharma Event Planning Assistant](productivity/pharma-event-planning-assistant.md) | Plans, promotes, and manages pharmaceutical events and conferences end-to-end. |
 | [Pipedrive Automation](../operations/productivity/pipedrive-automation.md) | Automate Pipedrive CRM deals, contacts, activities, and notes via Rube MCP. |
 | [Real Estate Time Efficiency Planner](../real-estate-and-construction/productivity/real-estate-time-efficiency-planner.md) | Organizes your real estate schedule, priorities, and workflows to save time and boost productivity. |
 | [Revops](../operations/productivity/revops.md) | Design and optimize revenue operations, lead lifecycle, scoring, routing, and CRM automation. |
 | [Shopify Automation](../operations/productivity/shopify-automation.md) | Automate Shopify product, order, customer, inventory, and collection tasks via Rube MCP. |
+| [Strategic Planning Facilitator](productivity/strategic-planning-facilitator.md) | Facilitates strategic planning for CSOs from goal setting to review. |
 | [Zoho Crm Automation](../operations/productivity/zoho-crm-automation.md) | Automate Zoho CRM record creation, search, update, and lead conversion via Rube MCP. |
 
 ## Social Media
 
 | Template | What it does |
 |---|---|
+| [Brand Reputation Sentinel](social-media/brand-reputation-sentinel.md) | Monitors and manages your brand's online reputation across platforms. |
+| [Digital Crisis Management Assistant](social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
 | [Linkedin Cli](../marketing/social-media/linkedin-cli.md) | Automate LinkedIn tasks like profile fetching, messaging, and posting via CLI. |
 | [Social Media Management Assistant](social-media/social-media-management-assistant.md) | Plans, creates, and manages social media content and engagement for digital marketing managers. |
 | [Social Media Sales Intelligence](social-media/social-media-sales-intelligence.md) | Turns social media chatter into sales intelligence: competitors, trends, sentiment, influencers, and campaign impact. |
 | [Whatsapp Automation](../marketing/social-media/whatsapp-automation.md) | Automate WhatsApp Business messaging, templates, media, and contacts via Rube MCP. |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [After-Sales Service Assistant](support-and-community/after-sales-service-assistant.md) | Handles after-sales service tasks: follow-ups, troubleshooting, feedback, and more. |
+| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
+| [Freight Broker Customer Communication Assistant](support-and-community/freight-broker-customer-communication-assistant.md) | Handles customer inquiries, quotes, updates, complaints, and education for freight brokerage clients. |
+| [Patient Advocacy Support Coordinator](support-and-community/patient-advocacy-support-coordinator.md) | Coordinates patient support, education, and advocacy resources for pharmaceutical sales reps. |
+| [Personalized Insurance Service Assistant](../customer-support/support-and-community/personalized-insurance-service-assistant.md) | Personalized insurance service assistant for customer service representatives. |
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Sales Onboarding Program Builder](teaching-and-tutoring/sales-onboarding-program-builder.md) | Designs and runs complete sales onboarding and training programs for new staff. |
+| [Sales Training Program Architect](teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
+| [Sales Training Program Builder](teaching-and-tutoring/sales-training-program-builder.md) | Builds and runs a complete sales training program with coaching, materials, and performance tracking. |
+| [Sales Training Program Designer](teaching-and-tutoring/sales-training-program-designer.md) | Designs and manages employee training and development programs for a sales organization. |
+| [Team Training Program Designer](teaching-and-tutoring/team-training-program-designer.md) | Designs and runs team training programs for business development managers. |
+
+## Design
+
+| Template | What it does |
+|---|---|
+| [Email Template Design Assistant](design/email-template-design-assistant.md) | Designs, refines, and optimizes email templates that engage your audience and drive results. |
+| [Interactive Portfolio](../creatives/design/interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
+| [UX Enhancement Analyst](design/ux-enhancement-analyst.md) | Enhances user experience across web and mobile through feedback, testing, and optimization. |
+
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Freight Contract and Document Manager](knowledge-management/freight-contract-and-document-manager.md) | Manages freight contracts and documents from creation to renewal, keeping you compliant and audit-ready. |
+| [Product Knowledge Base Builder](knowledge-management/product-knowledge-base-builder.md) | Builds and maintains a complete product knowledge base for sales teams, from specs to scripts. |
+| [Sales Product Knowledge Base Builder](knowledge-management/sales-product-knowledge-base-builder.md) | Builds and maintains a complete product knowledge base for sales teams. |
 
 ## Coding
 
@@ -252,19 +417,12 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 | [Internet Court](../it-and-development/coding/internet-court.md) | Routes agent-to-agent commerce tasks to identity, negotiation, escrow, payment, verification, and dispute layers. |
 | [Paypal Integration](../it-and-development/coding/paypal-integration.md) | Integrate PayPal payments, subscriptions, IPN, and refunds. |
 
-## Design
+## Office Tools
 
 | Template | What it does |
 |---|---|
-| [Email Template Design Assistant](design/email-template-design-assistant.md) | Designs, refines, and optimizes email templates that engage your audience and drive results. |
-| [Interactive Portfolio](../creatives/design/interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
-| [Personalized Insurance Service Assistant](../customer-support/support-and-community/personalized-insurance-service-assistant.md) | Personalized insurance service assistant for customer service representatives. |
+| [CSO Stakeholder Comms Assistant](office-tools/cso-stakeholder-comms-assistant.md) | Handles stakeholder communication tasks from scheduling to analytics for a Chief Sales Officer. |
+| [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
 
 ## Cloud & DevOps
 
@@ -283,23 +441,5 @@ Prospecting, pipeline and closing. **194 ready-made Grok Bot templates** for thi
 | Template | What it does |
 |---|---|
 | [Sales Demo Builder](generative-video/sales-demo-builder.md) | Build personalized product-demo videos for specific prospects in HyperFrames. |
-
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [GDPR Email Compliance Assistant](security-and-compliance/gdpr-email-compliance-assistant.md) | Guides email marketers through GDPR compliance for campaigns, from audits to breach response. |
-
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Sales Training Program Builder](teaching-and-tutoring/sales-training-program-builder.md) | Builds and runs a complete sales training program with coaching, materials, and performance tracking. |
 
 [← All job fields](../../README.md#browse-by-job) · [Sales on the website](https://templatesgrokbot.com/jobs/sales)

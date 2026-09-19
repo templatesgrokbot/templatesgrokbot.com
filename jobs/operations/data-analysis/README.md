@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 398 Grok Bot templates, 257 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 401 Grok Bot templates, 257 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -122,6 +122,9 @@ Clean, query, chart and explain data. 398 Grok Bot templates, 257 of them filed 
 | [Forecast Accuracy Review](forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 | [Freight Cost Analysis Assistant](freight-cost-analysis-assistant.md) | Freight cost analysis and optimization for logistics managers, from data to recommendations. |
 | [Freight Cost Analyst](freight-cost-analyst.md) | Analyzes freight costs, optimizes routes, and supports negotiations for logistics engineers. |
+| [Freight Data Analyst](../../sales/data-analysis/freight-data-analyst.md) | Turns your freight data into clear reports, forecasts, and cost-saving insights. |
+| [Freight Rate Estimation Assistant](../../sales/data-analysis/freight-rate-estimation-assistant.md) | Analyzes freight rates, forecasts trends, and supports negotiations for freight brokers. |
+| [Freight Route Optimizer](../../sales/data-analysis/freight-route-optimizer.md) | Optimizes freight routes, cuts costs, and ensures compliance for freight brokers. |
 | [Global Ops Forecast Architect](global-ops-forecast-architect.md) | Turns financial data into forecasts, scenarios, and decisions for global operations heads. |
 | [Global Supply Chain Analyst Assistant](global-supply-chain-analyst-assistant.md) | Optimizes global supply chain decisions from supplier discovery to performance benchmarking. |
 | [Google Analytics](../../marketing/data-analysis/google-analytics.md) | Analyze Google Analytics data to find traffic patterns and suggest improvements. |

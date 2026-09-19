@@ -1,16 +1,18 @@
 # Social Media templates for PR and Communications
 
-Plan, write and measure posts across networks. 24 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 26 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Brand Reputation Monitor](../../marketing/social-media/brand-reputation-monitor.md) | Monitors brand sentiment, trends, competitors, and crises on social media, delivering reports and alerts. |
+| [Brand Reputation Sentinel](../../sales/social-media/brand-reputation-sentinel.md) | Monitors and manages your brand's online reputation across platforms. |
 | [Content Calendar Organizer](../../marketing/social-media/content-calendar-organizer.md) | Plans and organizes your social media content calendar with research, creation, and scheduling support. |
 | [Content Command Center](content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
 | [Crisis Communication Manager](../../marketing/social-media/crisis-communication-manager.md) | Monitors social media, drafts crisis responses, and builds playbooks for social media coordinators. |
 | [Crisis Management Guide](../../marketing/social-media/crisis-management-guide.md) | Guides social media managers through every phase of a crisis, from monitoring to recovery. |
+| [Digital Crisis Management Assistant](../../sales/social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
 | [Instagram Automation](../../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [Linkedin Automation](../../marketing/social-media/linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
 | [PR Social Media Cycle Partner](pr-social-media-cycle-partner.md) | Social media strategy partner for PR specialists—research, plan, create, track, and optimize content. |

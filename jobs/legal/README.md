@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **161 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **169 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,14 +11,14 @@ Contracts, research, compliance and review. **161 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 55 |
+| [Security & Compliance](security-and-compliance/README.md) | 60 |
 | [Research](research/README.md) | 49 |
 | [Data Analysis](data-analysis/README.md) | 22 |
-| [Knowledge Management](knowledge-management/README.md) | 9 |
+| [Knowledge Management](knowledge-management/README.md) | 10 |
 | [Writing & Content](writing-and-content/README.md) | 9 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
 | [Support & Community](support-and-community/README.md) | 4 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Art](generative-art/README.md) | 1 |
@@ -39,6 +39,7 @@ Contracts, research, compliance and review. **161 ready-made Grok Bot templates*
 | [Compliance and Regulatory Updates Assistant](../operations/security-and-compliance/compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
 | [Compliance Audit Preparation Assistant](security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
 | [Compliance Auditor](../it-and-development/security-and-compliance/compliance-auditor.md) | Audits compliance across GDPR, HIPAA, SOC 2, PCI DSS, and ISO frameworks. |
+| [Compliance Guidance Assistant](../sales/security-and-compliance/compliance-guidance-assistant.md) | Guides CSOs through regulatory compliance with tailored advice, audits, and monitoring. |
 | [Compliance Monitoring Assistant](security-and-compliance/compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
 | [Compliance Query Resolution Assistant](security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
 | [Compliance Specialist](security-and-compliance/compliance-specialist.md) | Assesses compliance gaps and prepares audit evidence for regulatory frameworks. |
@@ -55,6 +56,9 @@ Contracts, research, compliance and review. **161 ready-made Grok Bot templates*
 | [Event Staffing Compliance](../human-resources/security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
 | [Fda Consultant Specialist](../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
 | [Fda Medtech Compliance Auditor](security-and-compliance/fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |
+| [Freight Broker Compliance Assistant](../sales/security-and-compliance/freight-broker-compliance-assistant.md) | Freight broker compliance assistant for carrier checks, audits, and regulatory updates. |
+| [Freight Environmental Compliance Assistant](../sales/security-and-compliance/freight-environmental-compliance-assistant.md) | Turns freight brokerage environmental compliance work into research, plans, audits, and reports. |
+| [Freight Risk Assessment Assistant](../sales/security-and-compliance/freight-risk-assessment-assistant.md) | Freight broker risk management assistant for vetting, contracts, claims, compliance, and planning. |
 | [Gdpr Data Handling](../it-and-development/security-and-compliance/gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
 | [Gdpr Dsgvo Expert](security-and-compliance/gdpr-dsgvo-expert.md) | Advises on GDPR/DSGVO compliance, conducts privacy impact assessments, and audits data protection practices. |
 | [Incident Reporting Navigator](../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
@@ -65,6 +69,7 @@ Contracts, research, compliance and review. **161 ready-made Grok Bot templates*
 | [Legal Compliance Review Assistant](security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
 | [Logistics Compliance Advisor](../operations/security-and-compliance/logistics-compliance-advisor.md) | Logistics compliance research, documentation, and audit support in one chat. |
 | [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
+| [Pharma Compliance Assistant](../sales/security-and-compliance/pharma-compliance-assistant.md) | Keeps pharmaceutical sales compliant with regulations, audits, and reporting. |
 | [Policy Development Support](security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
 | [Privacy By Design](../it-and-development/security-and-compliance/privacy-by-design.md) | Build apps with built-in privacy protections from the start. |
 | [Procurement Compliance Assistant](../operations/security-and-compliance/procurement-compliance-assistant.md) | Keeps procurement compliant by tracking regulations, audits, reports, and vendor oversight. |
@@ -179,6 +184,7 @@ Contracts, research, compliance and review. **161 ready-made Grok Bot templates*
 | [Data Room Builder](../finance/knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
 | [Document Digitization Assistant](../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
 | [Evidence Organization Assistant](knowledge-management/evidence-organization-assistant.md) | Organizes, tracks, and prepares legal evidence for paralegals from collection to trial. |
+| [Freight Contract and Document Manager](../sales/knowledge-management/freight-contract-and-document-manager.md) | Manages freight contracts and documents from creation to renewal, keeping you compliant and audit-ready. |
 | [Legal Knowledge Base Builder](knowledge-management/legal-knowledge-base-builder.md) | Builds and maintains a legal knowledge base with research, drafting, and compliance support. |
 | [Record-Keeping Compliance Optimizer](knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
 
@@ -195,6 +201,15 @@ Contracts, research, compliance and review. **161 ready-made Grok Bot templates*
 | [Legal Document Drafting Assistant](writing-and-content/legal-document-drafting-assistant.md) | Drafts, reviews, and manages legal documents for paralegals. |
 | [Patent Client Communication Assistant](writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
 | [Patent Document Drafter](writing-and-content/patent-document-drafter.md) | Drafts and manages patent documents, from applications to litigation support, for patent agents. |
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Contract Negotiation Assistant](../operations/sales-and-negotiation/contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
+| [Contract Negotiation Strategist](../operations/sales-and-negotiation/contract-negotiation-strategist.md) | Prepares and guides procurement contract negotiations from research to final agreement. |
+| [Contract Review Assistant](../sales/sales-and-negotiation/contract-review-assistant.md) | Analyzes, drafts, and manages contracts for business development managers. |
+| [Freight Dispute Resolution Assistant](../sales/sales-and-negotiation/freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
 
 ## Support & Community
 
@@ -213,13 +228,6 @@ Contracts, research, compliance and review. **161 ready-made Grok Bot templates*
 | [Compliance Training Program Developer](teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 | [Legal Education and Training Assistant](teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
 | [Legal Training Material Creator](teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Contract Negotiation Assistant](../operations/sales-and-negotiation/contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
-| [Contract Negotiation Strategist](../operations/sales-and-negotiation/contract-negotiation-strategist.md) | Prepares and guides procurement contract negotiations from research to final agreement. |
 
 ## Coding
 

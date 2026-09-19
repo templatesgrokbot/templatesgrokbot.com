@@ -1,6 +1,6 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 55 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 57 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Plan, write and measure posts across networks. 55 Grok Bot templates, 50 of them
 |---|---|
 | [Audience Engagement Planner](audience-engagement-planner.md) | Plans and drafts audience engagement content for social media coordinators. |
 | [Brand Reputation Monitor](brand-reputation-monitor.md) | Monitors brand sentiment, trends, competitors, and crises on social media, delivering reports and alerts. |
+| [Brand Reputation Sentinel](../../sales/social-media/brand-reputation-sentinel.md) | Monitors and manages your brand's online reputation across platforms. |
 | [Brand Voice and Messaging Assistant](brand-voice-and-messaging-assistant.md) | Crafts and keeps your brand's voice consistent across social media, from captions to strategy. |
 | [Community Engagement Assistant](community-engagement-assistant.md) | Builds and nurtures online communities through engagement, content, and recognition. |
 | [Community Engagement Planner](community-engagement-planner.md) | Builds and nurtures online communities through content, engagement, and member programs. |
@@ -15,6 +16,7 @@ Plan, write and measure posts across networks. 55 Grok Bot templates, 50 of them
 | [Content Command Center](../../pr-and-communications/social-media/content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
 | [Crisis Communication Manager](crisis-communication-manager.md) | Monitors social media, drafts crisis responses, and builds playbooks for social media coordinators. |
 | [Crisis Management Guide](crisis-management-guide.md) | Guides social media managers through every phase of a crisis, from monitoring to recovery. |
+| [Digital Crisis Management Assistant](../../sales/social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
 | [Hashtag Strategy Assistant](hashtag-strategy-assistant.md) | Researches, optimizes, and tracks hashtags for social media campaigns and engagement. |
 | [Influencer Collaboration Planner](influencer-collaboration-planner.md) | Plans and runs influencer collaborations from discovery to performance review. |
 | [Influencer ROI Partnership Planner](influencer-roi-partnership-planner.md) | Manages influencer collaborations from research to ROI measurement. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,489 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,490 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Engineers, DevOps, security and IT teams. **2,489 ready-made Grok Bot templates*
 |---|---:|
 | [Coding](coding/README.md) | 1,013 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 357 |
-| [Security & Compliance](security-and-compliance/README.md) | 240 |
+| [Security & Compliance](security-and-compliance/README.md) | 241 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 209 |
 | [Data Analysis](data-analysis/README.md) | 152 |
 | [Design](design/README.md) | 89 |
@@ -80,7 +80,7 @@ Engineers, DevOps, security and IT teams. **2,489 ready-made Grok Bot templates*
 | [Ethical Hacking Methodology](security-and-compliance/ethical-hacking-methodology.md) | Guide users through the five-stage ethical hacking lifecycle from recon to reporting for authorized testing. |
 | [Smart Contract Auditor](security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
 
-[All 240 Security & Compliance templates →](security-and-compliance/README.md)
+[All 241 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Generative AI and LLM
 

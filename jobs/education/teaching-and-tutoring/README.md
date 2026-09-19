@@ -1,12 +1,13 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 48 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 59 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Adaptive Learning Pathway Designer](adaptive-learning-pathway-designer.md) | Personalizes eLearning pathways, assessments, and feedback for each learner. |
+| [Classroom Activity Generator](classroom-activity-generator.md) | Generates classroom activity ideas and interactive learning experiences for secondary school teachers. |
 | [Code Documentation Code Explain](code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |
 | [Communication Workshop Manager](../../pr-and-communications/teaching-and-tutoring/communication-workshop-manager.md) | Plans, runs, and improves communication training workshops from start to finish. |
 | [Compliance Training Material Creator](../../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
@@ -14,6 +15,7 @@ Explain, quiz and guide someone through a subject. 48 Grok Bot templates, 39 of 
 | [Crisis Training Designer](crisis-training-designer.md) | Designs and runs crisis management training materials, simulations, and evaluations. |
 | [Crossframe Teach](crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
 | [Curriculum Development Assistant](curriculum-development-assistant.md) | Builds and refines training curricula from research to evaluation. |
+| [Curriculum Mapping Assistant](curriculum-mapping-assistant.md) | Turns your curriculum into standards-aligned, engaging, and personalized learning plans. |
 | [Customer Training Content Developer](../../customer-support/teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
 | [Demonstrate Understanding](demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Employee Training Program Coordinator](../../operations/teaching-and-tutoring/employee-training-program-coordinator.md) | Designs, runs, and improves your team's training programs end to end. |
@@ -22,9 +24,12 @@ Explain, quiz and guide someone through a subject. 48 Grok Bot templates, 39 of 
 | [Flashcard Generator](flashcard-generator.md) | Turns any content into spaced-repetition flashcards in multiple formats. |
 | [Gamified Training Program Designer](gamified-training-program-designer.md) | Designs and runs gamified training programs, from content to rewards, for training coordinators. |
 | [Geoffrey Hinton](geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
+| [Grading Assistant for Teachers](grading-assistant-for-teachers.md) | Handles grade calculations, feedback, rubrics, and analytics for secondary school teachers. |
+| [History Visualization Assistant](history-visualization-assistant.md) | Turns historical events into vivid, interactive visual lessons for secondary school students. |
 | [Interactive Quiz Designer](interactive-quiz-designer.md) | Designs engaging, interactive quizzes for training instructors. |
 | [Interactive Training Designer](interactive-training-designer.md) | Designs and evaluates interactive training modules, materials, and tools for engaging learning. |
 | [Interview Prep](interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
+| [Language Practice Activity Generator](language-practice-activity-generator.md) | Creates language practice activities and feedback for secondary school students. |
 | [Learn](learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Learner Engagement Designer](learner-engagement-designer.md) | Designs engaging training activities, materials, and feedback loops for instructors. |
 | [Learning Path Architect for HR](learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
@@ -32,6 +37,8 @@ Explain, quiz and guide someone through a subject. 48 Grok Bot templates, 39 of 
 | [Legal Training Material Creator](../../legal/teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
 | [Lesson Generator](lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
 | [Lightning Factory Explainer](lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
+| [Literary Analysis Assistant](literary-analysis-assistant.md) | Helps secondary school teachers analyze literature and build student strengths in literary analysis. |
+| [Math Teaching Assistant](math-teaching-assistant.md) | Prepares math lessons, analyzes errors, and creates practice problems for secondary students. |
 | [Media Training Program Builder](../../pr-and-communications/teaching-and-tutoring/media-training-program-builder.md) | Builds and runs media training programs for spokespersons and executives. |
 | [Microsoft Study Mode](microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
 | [Onboarding Program Enhancer](onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
@@ -43,8 +50,12 @@ Explain, quiz and guide someone through a subject. 48 Grok Bot templates, 39 of 
 | [Quiz Maker](quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Remote Training Program Designer](remote-training-program-designer.md) | Designs and runs remote training programs that engage, assess, and develop your team. |
 | [Role-Play Scenario Development Assistant](role-play-scenario-development-assistant.md) | Builds realistic, objective-aligned role-play scenarios for training instructors and their trainees. |
+| [Sales Training Program Architect](../../sales/teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
+| [Science Experiment Planner](science-experiment-planner.md) | Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment. |
 | [Ship Learn Next](ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Study Buddy](study-buddy.md) | Drills you on your own material with spaced repetition instead of re-reading notes. |
+| [Study Guide Creator for Teachers](study-guide-creator-for-teachers.md) | Creates and refines study guides for secondary school teachers and their students. |
+| [Subject Explanation Assistant](subject-explanation-assistant.md) | Prepares engaging lessons and resources for secondary school subject teaching. |
 | [Teach](teach.md) | Teach any topic through structured lessons, reference docs, and learning records. |
 | [Technical Content Evaluator](technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
 | [Technical Tutorials](technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |

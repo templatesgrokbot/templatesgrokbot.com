@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 42 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 45 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,8 +17,10 @@ Find sources, compare evidence and summarise what is known. 42 Grok Bot template
 | [Competitor Analysis](../../marketing/research/competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
 | [Competitor Profiling](../../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Tracking](../../marketing/research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
+| [Crisis Management Support for CSOs](../../sales/research/crisis-management-support-for-csos.md) | Real-time crisis monitoring, assessment, communication, and recovery support for Chief Sales Officers. |
 | [Crossframe Public](../../government/research/crossframe-public.md) | Analyze public issues, platform governance, and institutional compliance with evidence boundaries. |
 | [Crossframe Structural Diagnosis](crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
+| [CSO Competitor Intel Briefs](../../sales/research/cso-competitor-intel-briefs.md) | Turns competitor data into strategic sales intelligence for CSOs. |
 | [Customer Research](../../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Expert Panel Analyzer](expert-panel-analyzer.md) | Assembles 2-3 complementary expert perspectives to analyze any topic collaboratively. |
 | [Falsify](../../science-and-research/research/falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
@@ -44,6 +46,7 @@ Find sources, compare evidence and summarise what is known. 42 Grok Bot template
 | [Salary Negotiation Prep](../../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 | [SEO Competitive Analysis](../../marketing/research/seo-wettbewerbsanalyse.md) | Reverse-engineer ranking competitors to produce a content gap map, keyword steal list, and three pages to write first. |
 | [Startup Business Analyst Market Opportunity](startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Technology Adoption Advisor](../../sales/research/technology-adoption-advisor.md) | Guides CSOs through technology evaluation and adoption, from research to roadmap. |
 | [Technology Trend Intelligence Assistant](../../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Term Sheet Reader](../../finance/research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
 | [Think Tank](think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |

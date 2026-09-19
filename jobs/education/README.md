@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **148 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **163 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,12 +11,12 @@ Teachers, trainers and students. **148 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 48 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 59 |
 | [Research](research/README.md) | 20 |
 | [Writing & Content](writing-and-content/README.md) | 17 |
-| [Data Analysis](data-analysis/README.md) | 15 |
-| [Design](design/README.md) | 11 |
-| [Productivity](productivity/README.md) | 8 |
+| [Data Analysis](data-analysis/README.md) | 16 |
+| [Design](design/README.md) | 12 |
+| [Productivity](productivity/README.md) | 10 |
 | [Coding](coding/README.md) | 6 |
 | [Security & Compliance](security-and-compliance/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
@@ -34,6 +34,7 @@ Teachers, trainers and students. **148 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Adaptive Learning Pathway Designer](teaching-and-tutoring/adaptive-learning-pathway-designer.md) | Personalizes eLearning pathways, assessments, and feedback for each learner. |
+| [Classroom Activity Generator](teaching-and-tutoring/classroom-activity-generator.md) | Generates classroom activity ideas and interactive learning experiences for secondary school teachers. |
 | [Code Documentation Code Explain](teaching-and-tutoring/code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |
 | [Communication Workshop Manager](../pr-and-communications/teaching-and-tutoring/communication-workshop-manager.md) | Plans, runs, and improves communication training workshops from start to finish. |
 | [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
@@ -41,6 +42,7 @@ Teachers, trainers and students. **148 ready-made Grok Bot templates** for this 
 | [Crisis Training Designer](teaching-and-tutoring/crisis-training-designer.md) | Designs and runs crisis management training materials, simulations, and evaluations. |
 | [Crossframe Teach](teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
 | [Curriculum Development Assistant](teaching-and-tutoring/curriculum-development-assistant.md) | Builds and refines training curricula from research to evaluation. |
+| [Curriculum Mapping Assistant](teaching-and-tutoring/curriculum-mapping-assistant.md) | Turns your curriculum into standards-aligned, engaging, and personalized learning plans. |
 | [Customer Training Content Developer](../customer-support/teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
 | [Demonstrate Understanding](teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Employee Training Program Coordinator](../operations/teaching-and-tutoring/employee-training-program-coordinator.md) | Designs, runs, and improves your team's training programs end to end. |
@@ -49,9 +51,12 @@ Teachers, trainers and students. **148 ready-made Grok Bot templates** for this 
 | [Flashcard Generator](teaching-and-tutoring/flashcard-generator.md) | Turns any content into spaced-repetition flashcards in multiple formats. |
 | [Gamified Training Program Designer](teaching-and-tutoring/gamified-training-program-designer.md) | Designs and runs gamified training programs, from content to rewards, for training coordinators. |
 | [Geoffrey Hinton](teaching-and-tutoring/geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
+| [Grading Assistant for Teachers](teaching-and-tutoring/grading-assistant-for-teachers.md) | Handles grade calculations, feedback, rubrics, and analytics for secondary school teachers. |
+| [History Visualization Assistant](teaching-and-tutoring/history-visualization-assistant.md) | Turns historical events into vivid, interactive visual lessons for secondary school students. |
 | [Interactive Quiz Designer](teaching-and-tutoring/interactive-quiz-designer.md) | Designs engaging, interactive quizzes for training instructors. |
 | [Interactive Training Designer](teaching-and-tutoring/interactive-training-designer.md) | Designs and evaluates interactive training modules, materials, and tools for engaging learning. |
 | [Interview Prep](teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
+| [Language Practice Activity Generator](teaching-and-tutoring/language-practice-activity-generator.md) | Creates language practice activities and feedback for secondary school students. |
 | [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Learner Engagement Designer](teaching-and-tutoring/learner-engagement-designer.md) | Designs engaging training activities, materials, and feedback loops for instructors. |
 | [Learning Path Architect for HR](teaching-and-tutoring/learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
@@ -59,6 +64,8 @@ Teachers, trainers and students. **148 ready-made Grok Bot templates** for this 
 | [Legal Training Material Creator](../legal/teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
 | [Lesson Generator](teaching-and-tutoring/lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
 | [Lightning Factory Explainer](teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
+| [Literary Analysis Assistant](teaching-and-tutoring/literary-analysis-assistant.md) | Helps secondary school teachers analyze literature and build student strengths in literary analysis. |
+| [Math Teaching Assistant](teaching-and-tutoring/math-teaching-assistant.md) | Prepares math lessons, analyzes errors, and creates practice problems for secondary students. |
 | [Media Training Program Builder](../pr-and-communications/teaching-and-tutoring/media-training-program-builder.md) | Builds and runs media training programs for spokespersons and executives. |
 | [Microsoft Study Mode](teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
 | [Onboarding Program Enhancer](teaching-and-tutoring/onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
@@ -70,8 +77,12 @@ Teachers, trainers and students. **148 ready-made Grok Bot templates** for this 
 | [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Remote Training Program Designer](teaching-and-tutoring/remote-training-program-designer.md) | Designs and runs remote training programs that engage, assess, and develop your team. |
 | [Role-Play Scenario Development Assistant](teaching-and-tutoring/role-play-scenario-development-assistant.md) | Builds realistic, objective-aligned role-play scenarios for training instructors and their trainees. |
+| [Sales Training Program Architect](../sales/teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
+| [Science Experiment Planner](teaching-and-tutoring/science-experiment-planner.md) | Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment. |
 | [Ship Learn Next](teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Study Buddy](teaching-and-tutoring/study-buddy.md) | Drills you on your own material with spaced repetition instead of re-reading notes. |
+| [Study Guide Creator for Teachers](teaching-and-tutoring/study-guide-creator-for-teachers.md) | Creates and refines study guides for secondary school teachers and their students. |
+| [Subject Explanation Assistant](teaching-and-tutoring/subject-explanation-assistant.md) | Prepares engaging lessons and resources for secondary school subject teaching. |
 | [Teach](teaching-and-tutoring/teach.md) | Teach any topic through structured lessons, reference docs, and learning records. |
 | [Technical Content Evaluator](teaching-and-tutoring/technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
 | [Technical Tutorials](teaching-and-tutoring/technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
@@ -142,6 +153,7 @@ Teachers, trainers and students. **148 ready-made Grok Bot templates** for this 
 | [Learning Analytics Insights Assistant](data-analysis/learning-analytics-insights-assistant.md) | Turns training data into insights, forecasts, and improvement plans for learning programs.​ |
 | [Learning Outcome Forecaster](data-analysis/learning-outcome-forecaster.md) | Forecasts learning outcomes from training data and turns insights into action for instructors. |
 | [Statistical Analysis](../science-and-research/data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
+| [Student Feedback Analyst](data-analysis/student-feedback-analyst.md) | Analyzes student feedback and generates reports and personalized responses for secondary school teachers. |
 | [Template Gap Analysis Assistant](data-analysis/template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
 | [Training Effectiveness Evaluator](data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |
 | [Training Feedback Action Planner](data-analysis/training-feedback-action-planner.md) | Evaluates training effectiveness and turns feedback into improvement plans. |
@@ -154,6 +166,7 @@ Teachers, trainers and students. **148 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [AR Learning Experience Designer](design/ar-learning-experience-designer.md) | Designs and refines AR learning experiences from research to assessment. |
+| [Classroom Visual Aids Designer](design/classroom-visual-aids-designer.md) | Designs clear, engaging visual aids for secondary school lessons. |
 | [Gamified Learning Designer](design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
 | [Interactive Learning Game Designer](design/interactive-learning-game-designer.md) | Designs interactive learning games and gamified training experiences for instructors. |
 | [Interactive Learning Tools Design Assistant](design/interactive-learning-tools-design-assistant.md) | Designs and builds interactive learning tools for eLearning developers. |
@@ -170,7 +183,9 @@ Teachers, trainers and students. **148 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Bulletmind](productivity/bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
+| [Classroom Management Assistant](productivity/classroom-management-assistant.md) | Manages your secondary classroom from attendance to conflict resolution. |
 | [Claude Speed Reader](productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Extracurricular Program Planner](productivity/extracurricular-program-planner.md) | Helps secondary school teachers plan and run extracurricular clubs and activities. |
 | [Instructor Lifecycle Manager](productivity/instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
 | [Learning Culture Builder](productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
 | [Practice Plan Creator](productivity/practice-plan-creator.md) | Designs sport-specific practice sessions with drills, timing, and progression. |

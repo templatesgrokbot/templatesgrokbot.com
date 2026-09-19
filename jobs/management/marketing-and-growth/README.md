@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Management
 
-Campaigns, ads, conversion and launch plans. 33 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 34 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -33,6 +33,7 @@ Campaigns, ads, conversion and launch plans. 33 Grok Bot templates, 22 of them f
 | [Product Marketing](../../marketing/marketing-and-growth/product-marketing.md) | Build and maintain a product marketing context document from codebase or conversation. |
 | [Product Placement Optimizer](product-placement-optimizer.md) | Optimizes retail product placement using sales data, customer insights, and traffic patterns. |
 | [Retail Digital Marketing Optimizer](retail-digital-marketing-optimizer.md) | Optimizes digital marketing for retail managers: content, social, email, ads, and analytics. |
+| [Sales Campaign Content Creation Assistant](../../sales/marketing-and-growth/sales-campaign-content-creation-assistant.md) | Sales campaign content assistant for a sales manager, handling research to final assets. |
 | [Segment Targeting Planner](segment-targeting-planner.md) | Turns customer data into actionable segments and targeting strategies for business unit managers. |
 | [Seo Optimizer](../../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
 | [Seo Specialist](../../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |

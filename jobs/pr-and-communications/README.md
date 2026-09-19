@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **168 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **170 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Press, internal comms and reputation. **168 ready-made Grok Bot templates** for 
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 50 |
 | [Writing & Content](writing-and-content/README.md) | 39 |
-| [Social Media](social-media/README.md) | 24 |
+| [Social Media](social-media/README.md) | 26 |
 | [Data Analysis](data-analysis/README.md) | 19 |
 | [Research](research/README.md) | 16 |
 | [Productivity](productivity/README.md) | 8 |
@@ -126,10 +126,12 @@ Press, internal comms and reputation. **168 ready-made Grok Bot templates** for 
 | Template | What it does |
 |---|---|
 | [Brand Reputation Monitor](../marketing/social-media/brand-reputation-monitor.md) | Monitors brand sentiment, trends, competitors, and crises on social media, delivering reports and alerts. |
+| [Brand Reputation Sentinel](../sales/social-media/brand-reputation-sentinel.md) | Monitors and manages your brand's online reputation across platforms. |
 | [Content Calendar Organizer](../marketing/social-media/content-calendar-organizer.md) | Plans and organizes your social media content calendar with research, creation, and scheduling support. |
 | [Content Command Center](social-media/content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
 | [Crisis Communication Manager](../marketing/social-media/crisis-communication-manager.md) | Monitors social media, drafts crisis responses, and builds playbooks for social media coordinators. |
 | [Crisis Management Guide](../marketing/social-media/crisis-management-guide.md) | Guides social media managers through every phase of a crisis, from monitoring to recovery. |
+| [Digital Crisis Management Assistant](../sales/social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
 | [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [Linkedin Automation](../marketing/social-media/linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
 | [PR Social Media Cycle Partner](social-media/pr-social-media-cycle-partner.md) | Social media strategy partner for PR specialists—research, plan, create, track, and optimize content. |

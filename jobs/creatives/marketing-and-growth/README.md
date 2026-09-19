@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Creatives
 
-Campaigns, ads, conversion and launch plans. 13 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 14 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Campaigns, ads, conversion and launch plans. 13 Grok Bot templates, 0 of them fi
 |---|---|
 | [Ad Creative](../../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
 | [Brand Review](../../marketing/marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
+| [Content Creation and Curation Assistant](../../sales/marketing-and-growth/content-creation-and-curation-assistant.md) | Generates, curates, and optimizes marketing content across all channels. |
 | [Conversion Rate Optimization Assistant](../../product-development/marketing-and-growth/conversion-rate-optimization-assistant.md) | Analyzes user data and optimizes UX to lift conversion rates. |
 | [Domain Name Brainstormer](../../marketing/marketing-and-growth/domain-name-brainstormer.md) | Generates creative domain name ideas for your project and checks availability across multiple TLDs. |
 | [Emotional Arc Designer](../../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |

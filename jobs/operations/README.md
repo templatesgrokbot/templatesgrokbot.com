@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,197 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,207 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,17 @@ Processes, logistics and the systems that run a business. **1,197 ready-made Gro
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 398 |
+| [Data Analysis](data-analysis/README.md) | 401 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 182 |
 | [Productivity](productivity/README.md) | 166 |
-| [Security & Compliance](security-and-compliance/README.md) | 88 |
-| [Research](research/README.md) | 80 |
+| [Security & Compliance](security-and-compliance/README.md) | 91 |
+| [Research](research/README.md) | 82 |
 | [Coding](coding/README.md) | 60 |
-| [Knowledge Management](knowledge-management/README.md) | 33 |
+| [Knowledge Management](knowledge-management/README.md) | 34 |
 | [Support & Community](support-and-community/README.md) | 31 |
 | [Writing & Content](writing-and-content/README.md) | 28 |
 | [Office Tools](office-tools/README.md) | 27 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 25 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 26 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 17 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 14 |
 | [Speech-To-Text](speech-to-text/README.md) | 10 |
@@ -49,7 +49,7 @@ Processes, logistics and the systems that run a business. **1,197 ready-made Gro
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 398 Data Analysis templates →](data-analysis/README.md)
+[All 401 Data Analysis templates →](data-analysis/README.md)
 
 ## Cloud & DevOps
 
@@ -94,7 +94,7 @@ Processes, logistics and the systems that run a business. **1,197 ready-made Gro
 | [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Safety Technology Implementation Guide](security-and-compliance/safety-technology-implementation-guide.md) | Guides safety engineers through researching, implementing, and maintaining workplace safety technology. |
 
-[All 88 Security & Compliance templates →](security-and-compliance/README.md)
+[All 91 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Research
 
@@ -109,7 +109,7 @@ Processes, logistics and the systems that run a business. **1,197 ready-made Gro
 | [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 | [Hasdata Cli](../it-and-development/research/hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
 
-[All 80 Research templates →](research/README.md)
+[All 82 Research templates →](research/README.md)
 
 ## Coding
 
@@ -139,7 +139,7 @@ Processes, logistics and the systems that run a business. **1,197 ready-made Gro
 | [Review Agent](knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
 | [Notion Knowledge Capture](knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
 
-[All 33 Knowledge Management templates →](knowledge-management/README.md)
+[All 34 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Support & Community
 
@@ -199,7 +199,7 @@ Processes, logistics and the systems that run a business. **1,197 ready-made Gro
 | [Contract Negotiation Assistant](sales-and-negotiation/contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
 | [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
 
-[All 25 Sales & Negotiation templates →](sales-and-negotiation/README.md)
+[All 26 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Marketing & Growth
 

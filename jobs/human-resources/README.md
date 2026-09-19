@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **90 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **94 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,9 +11,9 @@ Recruiting, onboarding and people operations. **90 ready-made Grok Bot templates
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 21 |
+| [Writing & Content](writing-and-content/README.md) | 22 |
 | [Data Analysis](data-analysis/README.md) | 20 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 16 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 19 |
 | [Productivity](productivity/README.md) | 10 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
 | [Research](research/README.md) | 5 |
@@ -35,6 +35,7 @@ Recruiting, onboarding and people operations. **90 ready-made Grok Bot templates
 | [Employee Handbook Builder](writing-and-content/employee-handbook-builder.md) | Builds a plain-English employee handbook for small businesses, flagging state-law checks for attorney review. |
 | [Employment Contract Templates](writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Executive Resume Writer](writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
+| [Freight Brokerage Training Developer](../sales/writing-and-content/freight-brokerage-training-developer.md) | Builds and runs freight brokerage training programs from onboarding to ongoing development. |
 | [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Internal Communication Planner](../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
 | [Interview Prep Generator](writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
@@ -91,7 +92,10 @@ Recruiting, onboarding and people operations. **90 ready-made Grok Bot templates
 | [Logistics Training Program Coordinator](../operations/teaching-and-tutoring/logistics-training-program-coordinator.md) | Builds and runs staff training programs for logistics teams, from needs assessment to evaluation. |
 | [Onboarding Program Enhancer](../education/teaching-and-tutoring/onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
 | [Remote Training Program Designer](../education/teaching-and-tutoring/remote-training-program-designer.md) | Designs and runs remote training programs that engage, assess, and develop your team. |
+| [Sales Onboarding Program Builder](../sales/teaching-and-tutoring/sales-onboarding-program-builder.md) | Designs and runs complete sales onboarding and training programs for new staff. |
+| [Sales Training Program Designer](../sales/teaching-and-tutoring/sales-training-program-designer.md) | Designs and manages employee training and development programs for a sales organization. |
 | [Staff Training Planner](../management/teaching-and-tutoring/staff-training-planner.md) | Plans and runs staff training for insurance agency managers, from needs assessment to effectiveness evaluation. |
+| [Team Training Program Designer](../sales/teaching-and-tutoring/team-training-program-designer.md) | Designs and runs team training programs for business development managers. |
 | [Technology Adoption Training Planner](../education/teaching-and-tutoring/technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
 | [Training Accessibility Assistant](../education/teaching-and-tutoring/training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
 | [Training Program Designer](../management/teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |

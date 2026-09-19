@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 4396,
+ "count": 4544,
  "templates": [
   {
    "slug": "007",
@@ -852,6 +852,23 @@
    "url": "https://templatesgrokbot.com/bot/aeon",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/aeon",
    "source_license": "MIT"
+  },
+  {
+   "slug": "after-sales-service-assistant",
+   "name": "After-Sales Service Assistant",
+   "tagline": "Handles after-sales service tasks: follow-ups, troubleshooting, feedback, and more.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "customer-support"
+   ],
+   "topics": [
+    "support-and-community",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/sales/support-and-community/after-sales-service-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/after-sales-service-assistant"
   },
   {
    "slug": "agency-performance-analyst",
@@ -8678,6 +8695,25 @@
    "url": "https://templatesgrokbot.com/bot/brand-reputation-monitor"
   },
   {
+   "slug": "brand-reputation-sentinel",
+   "name": "Brand Reputation Sentinel",
+   "tagline": "Monitors and manages your brand's online reputation across platforms.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "pr-and-communications",
+    "marketing",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "social-media",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/social-media/brand-reputation-sentinel.md",
+   "url": "https://templatesgrokbot.com/bot/brand-reputation-sentinel"
+  },
+  {
    "slug": "marketing-brand-review",
    "name": "Brand Review",
    "tagline": "Review content against brand voice, style, and legal guidelines before publishing.",
@@ -11274,6 +11310,48 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "classroom-activity-generator",
+   "name": "Classroom Activity Generator",
+   "tagline": "Generates classroom activity ideas and interactive learning experiences for secondary school teachers.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/classroom-activity-generator.md",
+   "url": "https://templatesgrokbot.com/bot/classroom-activity-generator"
+  },
+  {
+   "slug": "classroom-management-assistant",
+   "name": "Classroom Management Assistant",
+   "tagline": "Manages your secondary classroom from attendance to conflict resolution.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/education/productivity/classroom-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/classroom-management-assistant"
+  },
+  {
+   "slug": "classroom-visual-aids-designer",
+   "name": "Classroom Visual Aids Designer",
+   "tagline": "Designs clear, engaging visual aids for secondary school lessons.",
+   "category": "operations",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/education/design/classroom-visual-aids-designer.md",
+   "url": "https://templatesgrokbot.com/bot/classroom-visual-aids-designer"
+  },
+  {
    "slug": "claude-ally-health",
    "name": "Claude Ally Health",
    "tagline": "Analyzes medical info, tracks symptoms, and guides wellness—no diagnosis, no treatment plans, no prescriptions.",
@@ -13724,6 +13802,22 @@
    "url": "https://templatesgrokbot.com/bot/competitor-intelligence-analyst"
   },
   {
+   "slug": "competitor-move-sales-strategist",
+   "name": "Competitor Move Sales Strategist",
+   "tagline": "Tracks competitors and turns their moves into your sales strategy.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/competitor-move-sales-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/competitor-move-sales-strategist"
+  },
+  {
    "slug": "competitor-profiling",
    "name": "Competitor Profiling",
    "tagline": "Produce structured competitor profiles from URLs using live site scraping and SEO data.",
@@ -13948,6 +14042,23 @@
    ],
    "path": "jobs/legal/research/compliance-docket-analyst.md",
    "url": "https://templatesgrokbot.com/bot/compliance-docket-analyst"
+  },
+  {
+   "slug": "compliance-guidance-assistant",
+   "name": "Compliance Guidance Assistant",
+   "tagline": "Guides CSOs through regulatory compliance with tailored advice, audits, and monitoring.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/sales/security-and-compliance/compliance-guidance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-guidance-assistant"
   },
   {
    "slug": "compliance-monitoring-assistant",
@@ -14925,6 +15036,26 @@
    "adapted_from": "https://collectivebrain.de/en/skills/marketing-content-creation/"
   },
   {
+   "slug": "content-creation-and-curation-assistant",
+   "name": "Content Creation and Curation Assistant",
+   "tagline": "Generates, curates, and optimizes marketing content across all channels.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing",
+    "hospitality-and-events",
+    "writers",
+    "creatives"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "social-media"
+   ],
+   "path": "jobs/sales/marketing-and-growth/content-creation-and-curation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/content-creation-and-curation-assistant"
+  },
+  {
    "slug": "content-creator",
    "name": "Content Creator",
    "tagline": "Draft and review audience-specific content using brand examples and channel templates.",
@@ -15540,6 +15671,24 @@
    ],
    "path": "jobs/legal/knowledge-management/contract-repository-manager.md",
    "url": "https://templatesgrokbot.com/bot/contract-repository-manager"
+  },
+  {
+   "slug": "contract-review-assistant",
+   "name": "Contract Review Assistant",
+   "tagline": "Analyzes, drafts, and manages contracts for business development managers.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "legal"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "knowledge-management",
+    "productivity",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/contract-review-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/contract-review-assistant"
   },
   {
    "slug": "contract-risk-assessment-assistant",
@@ -16469,6 +16618,22 @@
    "url": "https://templatesgrokbot.com/bot/crisis-management-strategist"
   },
   {
+   "slug": "crisis-management-support-for-csos",
+   "name": "Crisis Management Support for CSOs",
+   "tagline": "Real-time crisis monitoring, assessment, communication, and recovery support for Chief Sales Officers.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/research/crisis-management-support-for-csos.md",
+   "url": "https://templatesgrokbot.com/bot/crisis-management-support-for-csos"
+  },
+  {
    "slug": "crisis-ops-simulator",
    "name": "Crisis Ops Simulator",
    "tagline": "Plans, simulates, and evaluates crisis response for operations directors.",
@@ -16534,6 +16699,37 @@
    ],
    "path": "jobs/sales/sales-and-negotiation/crm-sales-and-marketing-assistant.md",
    "url": "https://templatesgrokbot.com/bot/crm-sales-and-marketing-assistant"
+  },
+  {
+   "slug": "crm-sales-insights-assistant",
+   "name": "CRM Sales Insights Assistant",
+   "tagline": "Turns CRM data into leads, forecasts, and personalized outreach for global sales heads.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/crm-sales-insights-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/crm-sales-insights-assistant"
+  },
+  {
+   "slug": "crm-sales-intelligence-analyst",
+   "name": "CRM Sales Intelligence Analyst",
+   "tagline": "Turn CRM data into sales decisions: clean, segment, forecast, score, and act.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/crm-sales-intelligence-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/crm-sales-intelligence-analyst"
   },
   {
    "slug": "cro",
@@ -16999,6 +17195,99 @@
    "source_license": "MIT"
   },
   {
+   "slug": "cso-competitor-intel-briefs",
+   "name": "CSO Competitor Intel Briefs",
+   "tagline": "Turns competitor data into strategic sales intelligence for CSOs.",
+   "category": "research",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/research/cso-competitor-intel-briefs.md",
+   "url": "https://templatesgrokbot.com/bot/cso-competitor-intel-briefs"
+  },
+  {
+   "slug": "cso-market-trend-intel",
+   "name": "CSO Market Trend Intel",
+   "tagline": "Market trend intelligence for CSOs: gather, analyze, forecast, and report on market movements.",
+   "category": "research",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/cso-market-trend-intel.md",
+   "url": "https://templatesgrokbot.com/bot/cso-market-trend-intel"
+  },
+  {
+   "slug": "cso-pipeline-forecaster",
+   "name": "CSO Pipeline Forecaster",
+   "tagline": "Turns sales data into forecasts, scenarios, and pipeline insights for a CSO's decisions. No hype, just analysis.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/cso-pipeline-forecaster.md",
+   "url": "https://templatesgrokbot.com/bot/cso-pipeline-forecaster"
+  },
+  {
+   "slug": "cso-pricing-insight-advisor",
+   "name": "CSO Pricing Insight Advisor",
+   "tagline": "Analyzes pricing data to sharpen strategy and boost revenue for sales leaders.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/cso-pricing-insight-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/cso-pricing-insight-advisor"
+  },
+  {
+   "slug": "cso-segment-architect",
+   "name": "CSO Segment Architect",
+   "tagline": "Turns customer data into segments, profiles, and sales strategies for CSOs.",
+   "category": "marketing",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/cso-segment-architect.md",
+   "url": "https://templatesgrokbot.com/bot/cso-segment-architect"
+  },
+  {
+   "slug": "cso-stakeholder-comms-assistant",
+   "name": "CSO Stakeholder Comms Assistant",
+   "tagline": "Handles stakeholder communication tasks from scheduling to analytics for a Chief Sales Officer.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "office-tools",
+    "social-media",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/office-tools/cso-stakeholder-comms-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/cso-stakeholder-comms-assistant"
+  },
+  {
    "slug": "css-animation-creator",
    "name": "CSS Animation Creator",
    "tagline": "Create production-grade, accessible CSS animations and motion design for web UIs.",
@@ -17068,6 +17357,22 @@
    ],
    "path": "jobs/education/teaching-and-tutoring/curriculum-development-assistant.md",
    "url": "https://templatesgrokbot.com/bot/curriculum-development-assistant"
+  },
+  {
+   "slug": "curriculum-mapping-assistant",
+   "name": "Curriculum Mapping Assistant",
+   "tagline": "Turns your curriculum into standards-aligned, engaging, and personalized learning plans.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/curriculum-mapping-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/curriculum-mapping-assistant"
   },
   {
    "slug": "cursor-delegate",
@@ -17310,6 +17615,22 @@
    "url": "https://templatesgrokbot.com/bot/customer-feedback-insight-assistant"
   },
   {
+   "slug": "customer-feedback-insight-engine",
+   "name": "Customer Feedback Insight Engine",
+   "tagline": "Turns customer feedback into actionable insights and response plans for sales leadership.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/data-analysis/customer-feedback-insight-engine.md",
+   "url": "https://templatesgrokbot.com/bot/customer-feedback-insight-engine"
+  },
+  {
    "slug": "customer-feedback-insight-generator",
    "name": "Customer Feedback Insight Generator",
    "tagline": "Turns customer feedback into clear insights and reports for quality control.",
@@ -17323,6 +17644,21 @@
    ],
    "path": "jobs/operations/data-analysis/customer-feedback-insight-generator.md",
    "url": "https://templatesgrokbot.com/bot/customer-feedback-insight-generator"
+  },
+  {
+   "slug": "customer-feedback-insights-analyst",
+   "name": "Customer Feedback Insights Analyst",
+   "tagline": "Analyzes customer feedback to extract insights, track trends, and guide business development decisions.",
+   "category": "research",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/customer-feedback-insights-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/customer-feedback-insights-analyst"
   },
   {
    "slug": "customer-feedback-insights-assistant",
@@ -17444,6 +17780,22 @@
    ],
    "path": "jobs/management/data-analysis/customer-lifetime-value-analyst.md",
    "url": "https://templatesgrokbot.com/bot/customer-lifetime-value-analyst"
+  },
+  {
+   "slug": "customer-needs-analysis-assistant",
+   "name": "Customer Needs Analysis Assistant",
+   "tagline": "Turns customer data into needs analysis and sales strategy for technical sales reps.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/customer-needs-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/customer-needs-analysis-assistant"
   },
   {
    "slug": "customer-onboarding-assistant",
@@ -17893,6 +18245,21 @@
    "url": "https://templatesgrokbot.com/bot/cyberpunk-ui",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "cybersecurity-consultation-assistant",
+   "name": "Cybersecurity Consultation Assistant",
+   "tagline": "Cybersecurity consultation assistant for CSOs: assess risks, build policies, plan responses, and more.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/sales/security-and-compliance/cybersecurity-consultation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/cybersecurity-consultation-assistant"
   },
   {
    "slug": "cypress-skill",
@@ -21108,6 +21475,24 @@
    "url": "https://templatesgrokbot.com/bot/digital-content-creation-workspace"
   },
   {
+   "slug": "digital-crisis-management-assistant",
+   "name": "Digital Crisis Management Assistant",
+   "tagline": "Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "social-media",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/social-media/digital-crisis-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/digital-crisis-management-assistant"
+  },
+  {
    "slug": "digital-forensics",
    "name": "Digital Forensics",
    "tagline": "Authorized digital forensics: memory, disk, PCAP, and artifact triage for incident response.",
@@ -21144,6 +21529,41 @@
    "source_license": "Apache-2.0"
   },
   {
+   "slug": "digital-marketing-optimization-assistant",
+   "name": "Digital Marketing Optimization Assistant",
+   "tagline": "Optimizes digital marketing campaigns with AI-driven insights and automation.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/marketing-and-growth/digital-marketing-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/digital-marketing-optimization-assistant"
+  },
+  {
+   "slug": "digital-marketing-strategy-builder",
+   "name": "Digital Marketing Strategy Builder",
+   "tagline": "Builds and refines your digital marketing strategy from research to reporting.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/sales/marketing-and-growth/digital-marketing-strategy-builder.md",
+   "url": "https://templatesgrokbot.com/bot/digital-marketing-strategy-builder"
+  },
+  {
    "slug": "digital-marketing-strategy-formulator",
    "name": "Digital Marketing Strategy Formulator",
    "tagline": "Formulates data-driven digital marketing strategies from market research to performance reporting.",
@@ -21162,6 +21582,41 @@
    ],
    "path": "jobs/management/marketing-and-growth/digital-marketing-strategy-formulator.md",
    "url": "https://templatesgrokbot.com/bot/digital-marketing-strategy-formulator"
+  },
+  {
+   "slug": "digital-marketing-strategy-planner",
+   "name": "Digital Marketing Strategy Planner",
+   "tagline": "Plans and optimizes digital marketing strategy from research to reporting.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "social-media"
+   ],
+   "path": "jobs/sales/marketing-and-growth/digital-marketing-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/digital-marketing-strategy-planner"
+  },
+  {
+   "slug": "digital-sales-strategy-assistant",
+   "name": "Digital Sales Strategy Assistant",
+   "tagline": "Turns sales data into strategy: research, segment, create, and optimize digital sales.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/digital-sales-strategy-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/digital-sales-strategy-assistant"
   },
   {
    "slug": "disaster-recovery-and-backup-planner",
@@ -22629,6 +23084,22 @@
    "url": "https://templatesgrokbot.com/bot/dx-optimizer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "dynamic-pricing-strategist",
+   "name": "Dynamic Pricing Strategist",
+   "tagline": "Analyzes market data and adjusts prices dynamically to maximize revenue for sales managers.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/dynamic-pricing-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/dynamic-pricing-strategist"
   },
   {
    "slug": "dynatrace-expert",
@@ -25698,6 +26169,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "extracurricular-program-planner",
+   "name": "Extracurricular Program Planner",
+   "tagline": "Helps secondary school teachers plan and run extracurricular clubs and activities.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "productivity",
+    "self-improvement"
+   ],
+   "path": "jobs/education/productivity/extracurricular-program-planner.md",
+   "url": "https://templatesgrokbot.com/bot/extracurricular-program-planner"
+  },
+  {
    "slug": "fable-safe-prompt",
    "name": "Fable Safe Prompt",
    "tagline": "Rewrite prompts to bypass safety classifiers without changing intent or breaking policy.",
@@ -26357,6 +26843,21 @@
    ],
    "path": "jobs/customer-support/data-analysis/feedback-insight-analyst.md",
    "url": "https://templatesgrokbot.com/bot/feedback-insight-analyst"
+  },
+  {
+   "slug": "feedback-insight-and-response-assistant",
+   "name": "Feedback Insight and Response Assistant",
+   "tagline": "Turns customer feedback into insights, responses, and action plans for technical sales teams.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/feedback-insight-and-response-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/feedback-insight-and-response-assistant"
   },
   {
    "slug": "feedback-insight-for-service-managers",
@@ -27613,6 +28114,34 @@
    "source_license": "MIT"
   },
   {
+   "slug": "forecast-insight-report-builder",
+   "name": "Forecast Insight Report Builder",
+   "tagline": "Turns sales data into forecasts, insights, and reports for confident planning.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/forecast-insight-report-builder.md",
+   "url": "https://templatesgrokbot.com/bot/forecast-insight-report-builder"
+  },
+  {
+   "slug": "forecast-modeling-for-reps",
+   "name": "Forecast Modeling for Reps",
+   "tagline": "Analyzes sales data and market signals to produce accurate, scenario-tested forecasts.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/forecast-modeling-for-reps.md",
+   "url": "https://templatesgrokbot.com/bot/forecast-modeling-for-reps"
+  },
+  {
    "slug": "form-cro",
    "name": "Form Cro",
    "tagline": "Audit and optimize non-signup forms to maximize completion rates.",
@@ -28022,6 +28551,108 @@
    "url": "https://templatesgrokbot.com/bot/freedom-to-operate-analyst"
   },
   {
+   "slug": "freight-broker-compliance-assistant",
+   "name": "Freight Broker Compliance Assistant",
+   "tagline": "Freight broker compliance assistant for carrier checks, audits, and regulatory updates.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "operations",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "knowledge-management",
+    "research"
+   ],
+   "path": "jobs/sales/security-and-compliance/freight-broker-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/freight-broker-compliance-assistant"
+  },
+  {
+   "slug": "freight-broker-customer-communication-assistant",
+   "name": "Freight Broker Customer Communication Assistant",
+   "tagline": "Handles customer inquiries, quotes, updates, complaints, and education for freight brokerage clients.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "customer-support"
+   ],
+   "topics": [
+    "support-and-community",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/sales/support-and-community/freight-broker-customer-communication-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/freight-broker-customer-communication-assistant"
+  },
+  {
+   "slug": "freight-broker-financial-analyst",
+   "name": "Freight Broker Financial Analyst",
+   "tagline": "Analyzes freight brokerage finances and market data to guide profitable decisions.",
+   "category": "finance",
+   "jobs": [
+    "sales",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/freight-broker-financial-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/freight-broker-financial-analyst"
+  },
+  {
+   "slug": "freight-broker-marketing-strategist",
+   "name": "Freight Broker Marketing Strategist",
+   "tagline": "Develops and executes freight brokerage marketing strategies from research to campaigns.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/marketing-and-growth/freight-broker-marketing-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/freight-broker-marketing-strategist"
+  },
+  {
+   "slug": "freight-brokerage-training-developer",
+   "name": "Freight Brokerage Training Developer",
+   "tagline": "Builds and runs freight brokerage training programs from onboarding to ongoing development.",
+   "category": "education",
+   "jobs": [
+    "sales",
+    "human-resources"
+   ],
+   "topics": [
+    "writing-and-content",
+    "knowledge-management",
+    "office-tools"
+   ],
+   "path": "jobs/sales/writing-and-content/freight-brokerage-training-developer.md",
+   "url": "https://templatesgrokbot.com/bot/freight-brokerage-training-developer"
+  },
+  {
+   "slug": "freight-contract-and-document-manager",
+   "name": "Freight Contract and Document Manager",
+   "tagline": "Manages freight contracts and documents from creation to renewal, keeping you compliant and audit-ready.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "legal",
+    "operations"
+   ],
+   "topics": [
+    "knowledge-management",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/sales/knowledge-management/freight-contract-and-document-manager.md",
+   "url": "https://templatesgrokbot.com/bot/freight-contract-and-document-manager"
+  },
+  {
    "slug": "freight-cost-analysis-assistant",
    "name": "Freight Cost Analysis Assistant",
    "tagline": "Freight cost analysis and optimization for logistics managers, from data to recommendations.",
@@ -28049,6 +28680,155 @@
    ],
    "path": "jobs/operations/data-analysis/freight-cost-analyst.md",
    "url": "https://templatesgrokbot.com/bot/freight-cost-analyst"
+  },
+  {
+   "slug": "freight-data-analyst",
+   "name": "Freight Data Analyst",
+   "tagline": "Turns your freight data into clear reports, forecasts, and cost-saving insights.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/freight-data-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/freight-data-analyst"
+  },
+  {
+   "slug": "freight-dispute-resolution-assistant",
+   "name": "Freight Dispute Resolution Assistant",
+   "tagline": "Resolve freight disputes from contract research to settlement documentation in one workflow.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "legal"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "research",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/freight-dispute-resolution-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/freight-dispute-resolution-assistant"
+  },
+  {
+   "slug": "freight-environmental-compliance-assistant",
+   "name": "Freight Environmental Compliance Assistant",
+   "tagline": "Turns freight brokerage environmental compliance work into research, plans, audits, and reports.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "operations",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/security-and-compliance/freight-environmental-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/freight-environmental-compliance-assistant"
+  },
+  {
+   "slug": "freight-load-matching-assistant",
+   "name": "Freight Load Matching Assistant",
+   "tagline": "Matches loads to carriers, negotiates rates, and manages freight documentation from search to delivery.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "operations"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/freight-load-matching-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/freight-load-matching-assistant"
+  },
+  {
+   "slug": "freight-market-research-assistant",
+   "name": "Freight Market Research Assistant",
+   "tagline": "Market research for freight brokers: trends, competitors, pricing, routes, regulations, and more.",
+   "category": "research",
+   "jobs": [
+    "sales",
+    "operations"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/research/freight-market-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/freight-market-research-assistant"
+  },
+  {
+   "slug": "freight-rate-estimation-assistant",
+   "name": "Freight Rate Estimation Assistant",
+   "tagline": "Analyzes freight rates, forecasts trends, and supports negotiations for freight brokers.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "sales-and-negotiation",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/freight-rate-estimation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/freight-rate-estimation-assistant"
+  },
+  {
+   "slug": "freight-risk-assessment-assistant",
+   "name": "Freight Risk Assessment Assistant",
+   "tagline": "Freight broker risk management assistant for vetting, contracts, claims, compliance, and planning.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "operations",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/security-and-compliance/freight-risk-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/freight-risk-assessment-assistant"
+  },
+  {
+   "slug": "freight-route-optimizer",
+   "name": "Freight Route Optimizer",
+   "tagline": "Optimizes freight routes, cuts costs, and ensures compliance for freight brokers.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/freight-route-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/freight-route-optimizer"
+  },
+  {
+   "slug": "freight-technology-integration-planner",
+   "name": "Freight Technology Integration Planner",
+   "tagline": "Plans and guides technology integration for freight brokerage operations.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "operations"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/sales/research/freight-technology-integration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/freight-technology-integration-planner"
   },
   {
    "slug": "freshdesk-automation",
@@ -29920,6 +30700,53 @@
    "url": "https://templatesgrokbot.com/bot/global-ops-forecast-architect"
   },
   {
+   "slug": "global-sales-cross-sell-upsell-planner",
+   "name": "Global Sales Cross-Sell Upsell Planner",
+   "tagline": "Turns sales data into cross-sell and upsell actions for global sales leaders.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "office-tools",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/global-sales-cross-sell-upsell-planner.md",
+   "url": "https://templatesgrokbot.com/bot/global-sales-cross-sell-upsell-planner"
+  },
+  {
+   "slug": "global-sales-feedback-analyst",
+   "name": "Global Sales Feedback Analyst",
+   "tagline": "Turns customer feedback into actionable insights for global sales leadership.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/global-sales-feedback-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/global-sales-feedback-analyst"
+  },
+  {
+   "slug": "global-sales-insight-drafts",
+   "name": "Global Sales Insight Drafts",
+   "tagline": "Turns sales data into forecasts, segment insights, and performance reports for global sales leadership.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/global-sales-insight-drafts.md",
+   "url": "https://templatesgrokbot.com/bot/global-sales-insight-drafts"
+  },
+  {
    "slug": "global-supply-chain-analyst-assistant",
    "name": "Global Supply Chain Analyst Assistant",
    "tagline": "Optimizes global supply chain decisions from supplier discovery to performance benchmarking.",
@@ -30539,6 +31366,23 @@
    "url": "https://templatesgrokbot.com/bot/gradient-design",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "grading-assistant-for-teachers",
+   "name": "Grading Assistant for Teachers",
+   "tagline": "Handles grade calculations, feedback, rubrics, and analytics for secondary school teachers.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "data-analysis",
+    "productivity",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/grading-assistant-for-teachers.md",
+   "url": "https://templatesgrokbot.com/bot/grading-assistant-for-teachers"
   },
   {
    "slug": "grafana-dashboards",
@@ -31722,6 +32566,23 @@
    "url": "https://templatesgrokbot.com/bot/histolab",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/histolab",
    "source_license": "MIT"
+  },
+  {
+   "slug": "history-visualization-assistant",
+   "name": "History Visualization Assistant",
+   "tagline": "Turns historical events into vivid, interactive visual lessons for secondary school students.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "design",
+    "data-analysis",
+    "generative-art"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/history-visualization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/history-visualization-assistant"
   },
   {
    "slug": "hlbpa",
@@ -33700,6 +34561,24 @@
    "url": "https://templatesgrokbot.com/bot/influencer-partnership-manager"
   },
   {
+   "slug": "influencer-partnership-strategist",
+   "name": "Influencer Partnership Strategist",
+   "tagline": "Finds, pitches, and manages influencer partnerships from discovery to ROI.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "sales-and-negotiation",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/marketing-and-growth/influencer-partnership-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/influencer-partnership-strategist"
+  },
+  {
    "slug": "influencer-roi-campaign-orchestrator",
    "name": "Influencer ROI Campaign Orchestrator",
    "tagline": "Manages influencer collaborations from discovery to ROI analysis.",
@@ -34649,6 +35528,23 @@
    ],
    "path": "jobs/operations/data-analysis/international-logistics-optimization-assistant.md",
    "url": "https://templatesgrokbot.com/bot/international-logistics-optimization-assistant"
+  },
+  {
+   "slug": "international-market-entry-planner",
+   "name": "International Market Entry Planner",
+   "tagline": "Plans and de-risks your international market entry, from research to rollout.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/marketing-and-growth/international-market-entry-planner.md",
+   "url": "https://templatesgrokbot.com/bot/international-market-entry-planner"
   },
   {
    "slug": "international-patent-filing-assistant",
@@ -35982,6 +36878,23 @@
    "url": "https://templatesgrokbot.com/bot/john-wick"
   },
   {
+   "slug": "journey-insight-mapper",
+   "name": "Journey Insight Mapper",
+   "tagline": "Maps customer journeys from data to insight, turning touchpoints into action.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/marketing-and-growth/journey-insight-mapper.md",
+   "url": "https://templatesgrokbot.com/bot/journey-insight-mapper"
+  },
+  {
    "slug": "journey-map-content-builder",
    "name": "Journey Map Content Builder",
    "tagline": "Maps and improves customer journeys from data to content.",
@@ -36524,6 +37437,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "kpi-performance-analyst",
+   "name": "KPI Performance Analyst",
+   "tagline": "Analyzes performance metrics and KPIs for business development managers, turning data into insights and reports.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/sales/data-analysis/kpi-performance-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/kpi-performance-analyst"
+  },
+  {
    "slug": "kubernetes-architect",
    "name": "Kubernetes Architect",
    "tagline": "Designs Kubernetes platform architecture and GitOps workflows for production clusters.",
@@ -36790,6 +37718,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "language-practice-activity-generator",
+   "name": "Language Practice Activity Generator",
+   "tagline": "Creates language practice activities and feedback for secondary school students.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/language-practice-activity-generator.md",
+   "url": "https://templatesgrokbot.com/bot/language-practice-activity-generator"
+  },
+  {
    "slug": "laravel-development-workflow",
    "name": "Laravel Development Workflow",
    "tagline": "Diagnose, fix, and build Laravel features with root-cause rigor and regression coverage. No production changes or credential access.",
@@ -37037,6 +37980,56 @@
    "source_license": "MIT"
   },
   {
+   "slug": "lead-generation-insights-assistant",
+   "name": "Lead Generation Insights Assistant",
+   "tagline": "Turns sales data into lead generation insights and actions for a CSO.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/lead-generation-insights-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/lead-generation-insights-assistant"
+  },
+  {
+   "slug": "lead-generation-strategist",
+   "name": "Lead Generation Strategist",
+   "tagline": "Turns market research, content, and outreach into a steady flow of qualified leads for your sales team.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/marketing-and-growth/lead-generation-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/lead-generation-strategist"
+  },
+  {
+   "slug": "lead-identification-assistant",
+   "name": "Lead Identification Assistant",
+   "tagline": "Finds, scores, and nurtures high-quality leads for business development managers.",
+   "category": "marketing",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/lead-identification-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/lead-identification-assistant"
+  },
+  {
    "slug": "lead-lifecycle-manager",
    "name": "Lead Lifecycle Manager",
    "tagline": "Finds, qualifies, and nurtures leads, then tracks and reports on them for sales.",
@@ -37122,6 +38115,21 @@
    "url": "https://templatesgrokbot.com/bot/lead-scoring-model-builder",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/lead-scoring-model",
    "source_license": "MIT"
+  },
+  {
+   "slug": "lead-scoring-strategist",
+   "name": "Lead Scoring Strategist",
+   "tagline": "Builds and refines lead scoring models, segments leads, and tracks performance for sales managers.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/lead-scoring-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/lead-scoring-strategist"
   },
   {
    "slug": "lean-manufacturing-improvement-planner",
@@ -38014,6 +39022,20 @@
    "url": "https://templatesgrokbot.com/bot/linux-troubleshooting",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "literary-analysis-assistant",
+   "name": "Literary Analysis Assistant",
+   "tagline": "Helps secondary school teachers analyze literature and build student strengths in literary analysis.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/literary-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/literary-analysis-assistant"
   },
   {
    "slug": "literature-review",
@@ -40455,6 +41477,22 @@
    "url": "https://templatesgrokbot.com/bot/market-basket-insights-assistant"
   },
   {
+   "slug": "market-data-brand-positioner",
+   "name": "Market Data Brand Positioner",
+   "tagline": "Turns market data into a sharp brand position with messaging, guidelines, and tracking.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/marketing-and-growth/market-data-brand-positioner.md",
+   "url": "https://templatesgrokbot.com/bot/market-data-brand-positioner"
+  },
+  {
    "slug": "market-research-analyst",
    "name": "Market Research Analyst",
    "tagline": "Delivers structured market intelligence and competitive analysis from public sources.",
@@ -40473,6 +41511,37 @@
    "url": "https://templatesgrokbot.com/bot/market-research-analyst",
    "adapted_from": "https://www.aitmpl.com/component/agents/podcast-creator-team/market-research-analyst",
    "source_license": "MIT"
+  },
+  {
+   "slug": "market-research-analyst-for-csos",
+   "name": "Market Research Analyst for CSOs",
+   "tagline": "Market research analysis for Chief Sales Officers: competitor, customer, trend, pricing, and opportunity insights.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/research/market-research-analyst-for-csos.md",
+   "url": "https://templatesgrokbot.com/bot/market-research-analyst-for-csos"
+  },
+  {
+   "slug": "market-research-and-analysis-assistant",
+   "name": "Market Research and Analysis Assistant",
+   "tagline": "Market research and analysis assistant for digital marketing managers.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/research/market-research-and-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/market-research-and-analysis-assistant"
   },
   {
    "slug": "market-research-reports",
@@ -40530,6 +41599,22 @@
    ],
    "path": "jobs/marketing/research/market-scout.md",
    "url": "https://templatesgrokbot.com/bot/market-scout"
+  },
+  {
+   "slug": "market-segmentation-strategist",
+   "name": "Market Segmentation Strategist",
+   "tagline": "Turns customer data into segment insights, targeting strategies, and sales actions for global sales leaders.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/marketing-and-growth/market-segmentation-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/market-segmentation-strategist"
   },
   {
    "slug": "market-sizing-analysis",
@@ -40600,6 +41685,21 @@
    ],
    "path": "jobs/management/data-analysis/market-trend-analyst-for-purchasing.md",
    "url": "https://templatesgrokbot.com/bot/market-trend-analyst-for-purchasing"
+  },
+  {
+   "slug": "market-trend-analyst-for-technical-sales",
+   "name": "Market Trend Analyst for Technical Sales",
+   "tagline": "Analyzes market trends, competitors, and customer sentiment to guide technical sales strategy.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/market-trend-analyst-for-technical-sales.md",
+   "url": "https://templatesgrokbot.com/bot/market-trend-analyst-for-technical-sales"
   },
   {
    "slug": "market-trend-analyzer",
@@ -40706,6 +41806,23 @@
    "url": "https://templatesgrokbot.com/bot/marketing-automation-assistant"
   },
   {
+   "slug": "marketing-automation-workflow-designer",
+   "name": "Marketing Automation Workflow Designer",
+   "tagline": "Automates digital marketing workflows from content to analytics for Digital Marketing Managers.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "social-media",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/marketing-and-growth/marketing-automation-workflow-designer.md",
+   "url": "https://templatesgrokbot.com/bot/marketing-automation-workflow-designer"
+  },
+  {
    "slug": "marketing-content-creator",
    "name": "Marketing Content Creator",
    "tagline": "Plans, writes, and repurposes marketing content across channels with AI assistance.",
@@ -40724,6 +41841,23 @@
    ],
    "path": "jobs/sales/writing-and-content/marketing-content-creator.md",
    "url": "https://templatesgrokbot.com/bot/marketing-content-creator"
+  },
+  {
+   "slug": "marketing-conversion-insight-drafts",
+   "name": "Marketing Conversion Insight Drafts",
+   "tagline": "Analyzes conversion data and generates optimization recommendations for digital marketing managers.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/marketing-and-growth/marketing-conversion-insight-drafts.md",
+   "url": "https://templatesgrokbot.com/bot/marketing-conversion-insight-drafts"
   },
   {
    "slug": "marketing-data-analyst",
@@ -40830,6 +41964,23 @@
    "url": "https://templatesgrokbot.com/bot/marketing-psychology",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "marketing-rival-decoder",
+   "name": "Marketing Rival Decoder",
+   "tagline": "Competitive intelligence assistant for digital marketing managers, turning competitor data into actionable strategy.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/marketing-and-growth/marketing-rival-decoder.md",
+   "url": "https://templatesgrokbot.com/bot/marketing-rival-decoder"
   },
   {
    "slug": "marketing-strategy-pmm",
@@ -41176,6 +42327,21 @@
    ],
    "path": "jobs/product-development/research/material-selection-guide.md",
    "url": "https://templatesgrokbot.com/bot/material-selection-guide"
+  },
+  {
+   "slug": "math-teaching-assistant",
+   "name": "Math Teaching Assistant",
+   "tagline": "Prepares math lessons, analyzes errors, and creates practice problems for secondary students.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/math-teaching-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/math-teaching-assistant"
   },
   {
    "slug": "mathematician-tao",
@@ -41867,6 +43033,22 @@
    "url": "https://templatesgrokbot.com/bot/medical-bill-auditor",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-medical-bill-auditor",
    "source_license": "MIT"
+  },
+  {
+   "slug": "medical-literature-summarizer-for-pharma-sales",
+   "name": "Medical Literature Summarizer for Pharma Sales",
+   "tagline": "Searches, summarizes, and organizes medical literature for pharmaceutical sales discussions.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "research",
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/research/medical-literature-summarizer-for-pharma-sales.md",
+   "url": "https://templatesgrokbot.com/bot/medical-literature-summarizer-for-pharma-sales"
   },
   {
    "slug": "meeting-insights-analyzer",
@@ -44897,6 +46079,22 @@
    ],
    "path": "jobs/it-and-development/cloud-and-devops/network-troubleshooting-assistant.md",
    "url": "https://templatesgrokbot.com/bot/network-troubleshooting-assistant"
+  },
+  {
+   "slug": "networking-strategy-planner",
+   "name": "Networking Strategy Planner",
+   "tagline": "Your networking strategist: research, outreach, events, and follow-up for business development managers.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/networking-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/networking-strategy-planner"
   },
   {
    "slug": "networkx",
@@ -48428,6 +49626,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "partnership-outreach-manager",
+   "name": "Partnership Outreach Manager",
+   "tagline": "Finds, courts, and manages business partnerships from first contact to expansion.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/partnership-outreach-manager.md",
+   "url": "https://templatesgrokbot.com/bot/partnership-outreach-manager"
+  },
+  {
    "slug": "password-reset-flaw-hunter",
    "name": "Password Reset Flaw Hunter",
    "tagline": "Finds and proves password reset and account recovery authentication flaws.",
@@ -48658,6 +49872,23 @@
    "url": "https://templatesgrokbot.com/bot/pathml",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/pathml",
    "source_license": "MIT"
+  },
+  {
+   "slug": "patient-advocacy-support-coordinator",
+   "name": "Patient Advocacy Support Coordinator",
+   "tagline": "Coordinates patient support, education, and advocacy resources for pharmaceutical sales reps.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "support-and-community",
+    "writing-and-content",
+    "office-tools",
+    "productivity"
+   ],
+   "path": "jobs/sales/support-and-community/patient-advocacy-support-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/patient-advocacy-support-coordinator"
   },
   {
    "slug": "patterns",
@@ -49488,6 +50719,230 @@
    "url": "https://templatesgrokbot.com/bot/personalized-marketing-strategist"
   },
   {
+   "slug": "personalized-sales-strategy-assistant",
+   "name": "Personalized Sales Strategy Assistant",
+   "tagline": "Personalized sales strategies from customer data to tailored pitches and follow-ups.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/personalized-sales-strategy-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/personalized-sales-strategy-assistant"
+  },
+  {
+   "slug": "pharma-client-profiling-assistant",
+   "name": "Pharma Client Profiling Assistant",
+   "tagline": "Builds deep client profiles and sales strategies for pharmaceutical sales reps.",
+   "category": "marketing",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/pharma-client-profiling-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/pharma-client-profiling-assistant"
+  },
+  {
+   "slug": "pharma-competitive-intelligence-assistant",
+   "name": "Pharma Competitive Intelligence Assistant",
+   "tagline": "Competitive intelligence for pharmaceutical sales reps, from market research to strategy.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/research/pharma-competitive-intelligence-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/pharma-competitive-intelligence-assistant"
+  },
+  {
+   "slug": "pharma-compliance-assistant",
+   "name": "Pharma Compliance Assistant",
+   "tagline": "Keeps pharmaceutical sales compliant with regulations, audits, and reporting.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/security-and-compliance/pharma-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/pharma-compliance-assistant"
+  },
+  {
+   "slug": "pharma-digital-marketing-planner",
+   "name": "Pharma Digital Marketing Planner",
+   "tagline": "Digital marketing assistant for pharmaceutical sales reps, from content to compliance.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "social-media"
+   ],
+   "path": "jobs/sales/marketing-and-growth/pharma-digital-marketing-planner.md",
+   "url": "https://templatesgrokbot.com/bot/pharma-digital-marketing-planner"
+  },
+  {
+   "slug": "pharma-event-planning-assistant",
+   "name": "Pharma Event Planning Assistant",
+   "tagline": "Plans, promotes, and manages pharmaceutical events and conferences end-to-end.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "productivity",
+    "social-media",
+    "office-tools",
+    "research"
+   ],
+   "path": "jobs/sales/productivity/pharma-event-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/pharma-event-planning-assistant"
+  },
+  {
+   "slug": "pharma-feedback-collector",
+   "name": "Pharma Feedback Collector",
+   "tagline": "Collects, analyzes, and reports product feedback from healthcare professionals and patients.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/sales/data-analysis/pharma-feedback-collector.md",
+   "url": "https://templatesgrokbot.com/bot/pharma-feedback-collector"
+  },
+  {
+   "slug": "pharma-health-economics-insight",
+   "name": "Pharma Health Economics Insight",
+   "tagline": "Turns health economics data into sales-ready insights for pharmaceutical reps.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/pharma-health-economics-insight.md",
+   "url": "https://templatesgrokbot.com/bot/pharma-health-economics-insight"
+  },
+  {
+   "slug": "pharma-market-insight-assistant",
+   "name": "Pharma Market Insight Assistant",
+   "tagline": "Turns market data into actionable insights for pharmaceutical sales strategy.",
+   "category": "marketing",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/pharma-market-insight-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/pharma-market-insight-assistant"
+  },
+  {
+   "slug": "pharma-relationship-builder",
+   "name": "Pharma Relationship Builder",
+   "tagline": "Build and strengthen healthcare professional relationships with personalized outreach and follow-up.",
+   "category": "marketing",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/pharma-relationship-builder.md",
+   "url": "https://templatesgrokbot.com/bot/pharma-relationship-builder"
+  },
+  {
+   "slug": "pharma-sales-forecasting-assistant",
+   "name": "Pharma Sales Forecasting Assistant",
+   "tagline": "Turns sales data into forecasts and plans for pharmaceutical sales reps.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/pharma-sales-forecasting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/pharma-sales-forecasting-assistant"
+  },
+  {
+   "slug": "pharma-sales-strategy-assistant",
+   "name": "Pharma Sales Strategy Assistant",
+   "tagline": "Analyzes pharma market data and crafts sales strategies, pitches, and forecasts for representatives.",
+   "category": "marketing",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/pharma-sales-strategy-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/pharma-sales-strategy-assistant"
+  },
+  {
+   "slug": "pharma-training-material-creator",
+   "name": "Pharma Training Material Creator",
+   "tagline": "Pharmaceutical sales training material creator: research, draft, review, and format compliant educational content.",
+   "category": "education",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/sales/writing-and-content/pharma-training-material-creator.md",
+   "url": "https://templatesgrokbot.com/bot/pharma-training-material-creator"
+  },
+  {
+   "slug": "pharmaceutical-product-knowledge-assistant",
+   "name": "Pharmaceutical Product Knowledge Assistant",
+   "tagline": "Builds and refreshes your pharmaceutical product knowledge for sales conversations and training materials.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/sales/research/pharmaceutical-product-knowledge-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/pharmaceutical-product-knowledge-assistant"
+  },
+  {
    "slug": "phase-gated-debugging",
    "name": "Phase Gated Debugging",
    "tagline": "Enforces a 5-phase protocol where code edits are blocked until root cause is confirmed.",
@@ -49698,6 +51153,20 @@
    "url": "https://templatesgrokbot.com/bot/pipedrive-automation",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "pipeline-forecast-compass",
+   "name": "Pipeline Forecast Compass",
+   "tagline": "Analyzes sales data and market signals to produce accurate, actionable sales forecasts.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/pipeline-forecast-compass.md",
+   "url": "https://templatesgrokbot.com/bot/pipeline-forecast-compass"
   },
   {
    "slug": "pipeline-health-analyzer",
@@ -51737,6 +53206,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "pricing-data-optimizer",
+   "name": "Pricing Data Optimizer",
+   "tagline": "Analyzes pricing data to optimize strategies for profitability and competitiveness.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/pricing-data-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/pricing-data-optimizer"
+  },
+  {
    "slug": "pricing-strategy",
    "name": "Pricing Strategy",
    "tagline": "Designs pricing, packaging, and monetization strategy based on customer willingness to pay and growth objectives.",
@@ -52300,6 +53784,21 @@
    "url": "https://templatesgrokbot.com/bot/product-compliance-verification-assistant"
   },
   {
+   "slug": "product-customization-advisor",
+   "name": "Product Customization Advisor",
+   "tagline": "Guides technical sales reps through product customization advice from analysis to post-sales support.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "research"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/product-customization-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/product-customization-advisor"
+  },
+  {
    "slug": "product-decision-agent",
    "name": "Product Decision Agent",
    "tagline": "Diagnose product problems and get actionable next decisions and actions",
@@ -52400,6 +53899,38 @@
    "url": "https://templatesgrokbot.com/bot/product-inventor",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "product-knowledge-and-sales-enablement-assistant",
+   "name": "Product Knowledge and Sales Enablement Assistant",
+   "tagline": "Deepens product knowledge and creates sales enablement content for technical sales reps.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/sales/writing-and-content/product-knowledge-and-sales-enablement-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/product-knowledge-and-sales-enablement-assistant"
+  },
+  {
+   "slug": "product-knowledge-base-builder",
+   "name": "Product Knowledge Base Builder",
+   "tagline": "Builds and maintains a complete product knowledge base for sales teams, from specs to scripts.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "knowledge-management",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/sales/knowledge-management/product-knowledge-base-builder.md",
+   "url": "https://templatesgrokbot.com/bot/product-knowledge-base-builder"
   },
   {
    "slug": "product-launch-email-builder",
@@ -52575,6 +54106,38 @@
    "url": "https://templatesgrokbot.com/bot/product-metrics-analyst"
   },
   {
+   "slug": "product-performance-insights-assistant",
+   "name": "Product Performance Insights Assistant",
+   "tagline": "Analyzes product performance data and delivers actionable sales insights for global heads of sales.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/product-performance-insights-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/product-performance-insights-assistant"
+  },
+  {
+   "slug": "product-performance-review-assistant",
+   "name": "Product Performance Review Assistant",
+   "tagline": "Analyzes product performance data and delivers actionable insights for CSOs.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/product-performance-review-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/product-performance-review-assistant"
+  },
+  {
    "slug": "product-placement-optimizer",
    "name": "Product Placement Optimizer",
    "tagline": "Optimizes retail product placement using sales data, customer insights, and traffic patterns.",
@@ -52589,6 +54152,23 @@
    ],
    "path": "jobs/management/marketing-and-growth/product-placement-optimizer.md",
    "url": "https://templatesgrokbot.com/bot/product-placement-optimizer"
+  },
+  {
+   "slug": "product-presentation-builder",
+   "name": "Product Presentation Builder",
+   "tagline": "Build and run product presentations that persuade, engage, and convert.",
+   "category": "marketing",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "writing-and-content",
+    "translation",
+    "design"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/product-presentation-builder.md",
+   "url": "https://templatesgrokbot.com/bot/product-presentation-builder"
   },
   {
    "slug": "product-quality-assurance-assistant",
@@ -53612,6 +55192,22 @@
    ],
    "path": "jobs/real-estate-and-construction/productivity/property-staging-planner.md",
    "url": "https://templatesgrokbot.com/bot/property-staging-planner"
+  },
+  {
+   "slug": "proposal-creation-assistant",
+   "name": "Proposal Creation Assistant",
+   "tagline": "Crafts tailored, winning proposals from research to follow-up for business development managers.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/proposal-creation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/proposal-creation-assistant"
   },
   {
    "slug": "proposal-customization-assistant",
@@ -56091,6 +57687,21 @@
    "url": "https://templatesgrokbot.com/bot/real-time-logistics-monitor"
   },
   {
+   "slug": "real-time-sales-assistant",
+   "name": "Real-Time Sales Assistant",
+   "tagline": "Real-time sales assistant that qualifies leads, recommends products, and closes deals.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/real-time-sales-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/real-time-sales-assistant"
+  },
+  {
    "slug": "real-time-tracking-setup-assistant",
    "name": "Real-Time Tracking Setup Assistant",
    "tagline": "Guides logistics coordinators through setting up and optimizing real-time tracking systems.",
@@ -57617,6 +59228,21 @@
    "url": "https://templatesgrokbot.com/bot/revenue-pricing-advisor"
   },
   {
+   "slug": "revenue-pricing-strategist",
+   "name": "Revenue Pricing Strategist",
+   "tagline": "Develops and optimizes pricing strategies from market data to revenue forecasts.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/revenue-pricing-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/revenue-pricing-strategist"
+  },
+  {
    "slug": "reverse-browser-automation",
    "name": "Reverse Browser Automation",
    "tagline": "Automate browsers and Windows desktop apps for reverse-engineering evidence collection.",
@@ -58055,6 +59681,23 @@
    ],
    "path": "jobs/operations/data-analysis/risk-radar-for-qc-teams.md",
    "url": "https://templatesgrokbot.com/bot/risk-radar-for-qc-teams"
+  },
+  {
+   "slug": "rival-edge-sales-tracker",
+   "name": "Rival Edge Sales Tracker",
+   "tagline": "Tracks rivals and turns their moves into your sales edge.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "research",
+    "data-analysis",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/rival-edge-sales-tracker.md",
+   "url": "https://templatesgrokbot.com/bot/rival-edge-sales-tracker"
   },
   {
    "slug": "robius-app-architecture",
@@ -58939,6 +60582,56 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "sales-call-optimizer",
+   "name": "Sales Call Optimizer",
+   "tagline": "Optimizes sales calls from preparation to follow-up with AI-driven insights and coaching.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "management"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "speech-to-text"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/sales-call-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/sales-call-optimizer"
+  },
+  {
+   "slug": "sales-campaign-content-creation-assistant",
+   "name": "Sales Campaign Content Creation Assistant",
+   "tagline": "Sales campaign content assistant for a sales manager, handling research to final assets.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "management"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "research",
+    "social-media"
+   ],
+   "path": "jobs/sales/marketing-and-growth/sales-campaign-content-creation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/sales-campaign-content-creation-assistant"
+  },
+  {
+   "slug": "sales-channel-optimization-analyst",
+   "name": "Sales Channel Optimization Analyst",
+   "tagline": "Optimizes sales channels with data-driven insights and strategic recommendations.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/sales-channel-optimization-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/sales-channel-optimization-analyst"
+  },
+  {
    "slug": "sales-comp-plan-designer",
    "name": "Sales Comp Plan Designer",
    "tagline": "Designs sales compensation plans with pay mixes, accelerators, quotas, and cost tracking.",
@@ -58954,6 +60647,55 @@
    "url": "https://templatesgrokbot.com/bot/sales-comp-plan-designer",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/sales-comp-plan-designer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "sales-compliance-and-ethics-assistant",
+   "name": "Sales Compliance and Ethics Assistant",
+   "tagline": "Guides technical sales reps to keep every deal compliant, ethical, and audit-ready.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/sales/security-and-compliance/sales-compliance-and-ethics-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/sales-compliance-and-ethics-assistant"
+  },
+  {
+   "slug": "sales-crisis-management-assistant",
+   "name": "Sales Crisis Management Assistant",
+   "tagline": "Guides sales managers through crisis preparation, response, and recovery with data-driven insights.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/sales-crisis-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/sales-crisis-management-assistant"
+  },
+  {
+   "slug": "sales-crm-assistant",
+   "name": "Sales CRM Assistant",
+   "tagline": "Manages leads, segments customers, forecasts sales, and boosts retention from one chat.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "management"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/sales-crm-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/sales-crm-assistant"
   },
   {
    "slug": "sales-crm-operations-assistant",
@@ -58972,6 +60714,50 @@
    ],
    "path": "jobs/sales/sales-and-negotiation/sales-crm-operations-assistant.md",
    "url": "https://templatesgrokbot.com/bot/sales-crm-operations-assistant"
+  },
+  {
+   "slug": "sales-data-insight-engine",
+   "name": "Sales Data Insight Engine",
+   "tagline": "Turns your sales data into forecasts, segments, and dashboards for smarter decisions.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/sales-data-insight-engine.md",
+   "url": "https://templatesgrokbot.com/bot/sales-data-insight-engine"
+  },
+  {
+   "slug": "sales-data-insights-assistant",
+   "name": "Sales Data Insights Assistant",
+   "tagline": "Turns raw sales data into clean, analyzed, and visualized insights for strategic decisions.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/sales-data-insights-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/sales-data-insights-assistant"
+  },
+  {
+   "slug": "sales-data-lead-finder",
+   "name": "Sales Data Lead Finder",
+   "tagline": "Turns sales data and market signals into targeted lead generation campaigns and outreach.",
+   "category": "marketing",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/sales-data-lead-finder.md",
+   "url": "https://templatesgrokbot.com/bot/sales-data-lead-finder"
   },
   {
    "slug": "sales-demo-builder",
@@ -59047,6 +60833,21 @@
    "source_license": "MIT"
   },
   {
+   "slug": "sales-feedback-action-planner",
+   "name": "Sales Feedback Action Planner",
+   "tagline": "Turns customer feedback into sales insights, trends, and actions.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "management"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/sales-feedback-action-planner.md",
+   "url": "https://templatesgrokbot.com/bot/sales-feedback-action-planner"
+  },
+  {
    "slug": "sales-feedback-signal-analyzer",
    "name": "Sales Feedback Signal Analyzer",
    "tagline": "Turns customer feedback into clear insights and actions for sales teams.",
@@ -59080,6 +60881,35 @@
    "source_license": "MIT"
   },
   {
+   "slug": "sales-forecast-review-copilot",
+   "name": "Sales Forecast Review Copilot",
+   "tagline": "Turns sales data and market signals into forecasts, targets, and variance reviews for the sales manager.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/sales-forecast-review-copilot.md",
+   "url": "https://templatesgrokbot.com/bot/sales-forecast-review-copilot"
+  },
+  {
+   "slug": "sales-forecasting-analyst",
+   "name": "Sales Forecasting Analyst",
+   "tagline": "Turns sales data into accurate forecasts and strategic insights for global sales leaders.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/sales-forecasting-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/sales-forecasting-analyst"
+  },
+  {
    "slug": "sales-forecasting-assistant",
    "name": "Sales Forecasting Assistant",
    "tagline": "Turns your sales data and market context into forecasts, targets, and reports you can act on.",
@@ -59092,6 +60922,23 @@
    ],
    "path": "jobs/sales/data-analysis/sales-forecasting-assistant.md",
    "url": "https://templatesgrokbot.com/bot/sales-forecasting-assistant"
+  },
+  {
+   "slug": "sales-incentive-plan-designer",
+   "name": "Sales Incentive Plan Designer",
+   "tagline": "Designs and manages sales incentive plans from data analysis to rollout.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "office-tools",
+    "research"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/sales-incentive-plan-designer.md",
+   "url": "https://templatesgrokbot.com/bot/sales-incentive-plan-designer"
   },
   {
    "slug": "sales-methodology-implementer",
@@ -59113,6 +60960,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "sales-onboarding-program-builder",
+   "name": "Sales Onboarding Program Builder",
+   "tagline": "Designs and runs complete sales onboarding and training programs for new staff.",
+   "category": "education",
+   "jobs": [
+    "sales",
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "sales-and-negotiation"
+   ],
+   "path": "jobs/sales/teaching-and-tutoring/sales-onboarding-program-builder.md",
+   "url": "https://templatesgrokbot.com/bot/sales-onboarding-program-builder"
+  },
+  {
    "slug": "sales-performance-analyst",
    "name": "Sales Performance Analyst",
    "tagline": "Turns sales data into performance insights, forecasts, and coaching for sales teams.",
@@ -59126,6 +60990,20 @@
    ],
    "path": "jobs/sales/data-analysis/sales-performance-analyst.md",
    "url": "https://templatesgrokbot.com/bot/sales-performance-analyst"
+  },
+  {
+   "slug": "sales-performance-tracking-assistant",
+   "name": "Sales Performance Tracking Assistant",
+   "tagline": "Turns your sales data into targets, forecasts, dashboards, and review reports.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/sales-performance-tracking-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/sales-performance-tracking-assistant"
   },
   {
    "slug": "sales-process-automation-assistant",
@@ -59142,6 +61020,23 @@
    ],
    "path": "jobs/sales/sales-and-negotiation/sales-process-automation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/sales-process-automation-assistant"
+  },
+  {
+   "slug": "sales-process-optimizer",
+   "name": "Sales Process Optimizer",
+   "tagline": "Analyzes sales data, segments customers, optimizes pipelines, and generates tailored sales materials.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/sales-process-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/sales-process-optimizer"
   },
   {
    "slug": "sales-product-information-assistant",
@@ -59161,6 +61056,84 @@
    "url": "https://templatesgrokbot.com/bot/sales-product-information-assistant"
   },
   {
+   "slug": "sales-product-knowledge-base-builder",
+   "name": "Sales Product Knowledge Base Builder",
+   "tagline": "Builds and maintains a complete product knowledge base for sales teams.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "knowledge-management",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/sales/knowledge-management/sales-product-knowledge-base-builder.md",
+   "url": "https://templatesgrokbot.com/bot/sales-product-knowledge-base-builder"
+  },
+  {
+   "slug": "sales-strategy-optimizer",
+   "name": "Sales Strategy Optimizer",
+   "tagline": "Sales strategy optimizer: market analysis, forecasting, and personalized outreach for CSOs. Turn data into decisions.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/sales-strategy-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/sales-strategy-optimizer"
+  },
+  {
+   "slug": "sales-strategy-trend-advisor",
+   "name": "Sales Strategy Trend Advisor",
+   "tagline": "Turns market data into trend insights, forecasts, and sales strategy recommendations.",
+   "category": "marketing",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/sales-strategy-trend-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/sales-strategy-trend-advisor"
+  },
+  {
+   "slug": "sales-team-performance-analyst",
+   "name": "Sales Team Performance Analyst",
+   "tagline": "Analyze sales team performance and drive strategy with data-backed insights and recommendations.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/sales/data-analysis/sales-team-performance-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/sales-team-performance-analyst"
+  },
+  {
+   "slug": "sales-training-content-builder",
+   "name": "Sales Training Content Builder",
+   "tagline": "Builds and refines sales training content, from market research to performance analysis.",
+   "category": "education",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "sales-and-negotiation"
+   ],
+   "path": "jobs/sales/writing-and-content/sales-training-content-builder.md",
+   "url": "https://templatesgrokbot.com/bot/sales-training-content-builder"
+  },
+  {
    "slug": "sales-training-material-builder",
    "name": "Sales Training Material Builder",
    "tagline": "Builds and maintains a complete library of sales training materials from research to rollout.",
@@ -59175,6 +61148,39 @@
    ],
    "path": "jobs/sales/writing-and-content/sales-training-material-builder.md",
    "url": "https://templatesgrokbot.com/bot/sales-training-material-builder"
+  },
+  {
+   "slug": "sales-training-material-creator",
+   "name": "Sales Training Material Creator",
+   "tagline": "Builds complete sales training materials from research to certification for technical sales teams.",
+   "category": "education",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "sales-and-negotiation"
+   ],
+   "path": "jobs/sales/writing-and-content/sales-training-material-creator.md",
+   "url": "https://templatesgrokbot.com/bot/sales-training-material-creator"
+  },
+  {
+   "slug": "sales-training-program-architect",
+   "name": "Sales Training Program Architect",
+   "tagline": "Builds and runs a complete sales training program from content to coaching to evaluation.",
+   "category": "education",
+   "jobs": [
+    "sales",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/sales/teaching-and-tutoring/sales-training-program-architect.md",
+   "url": "https://templatesgrokbot.com/bot/sales-training-program-architect"
   },
   {
    "slug": "sales-training-program-builder",
@@ -59193,6 +61199,24 @@
    "url": "https://templatesgrokbot.com/bot/sales-training-program-builder"
   },
   {
+   "slug": "sales-training-program-designer",
+   "name": "Sales Training Program Designer",
+   "tagline": "Designs and manages employee training and development programs for a sales organization.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "sales-and-negotiation",
+    "knowledge-management"
+   ],
+   "path": "jobs/sales/teaching-and-tutoring/sales-training-program-designer.md",
+   "url": "https://templatesgrokbot.com/bot/sales-training-program-designer"
+  },
+  {
    "slug": "sales-trend-forecaster",
    "name": "Sales Trend Forecaster",
    "tagline": "Turns market data into trend insights and forecasts for sales reps.",
@@ -59206,6 +61230,23 @@
    ],
    "path": "jobs/sales/data-analysis/sales-trend-forecaster.md",
    "url": "https://templatesgrokbot.com/bot/sales-trend-forecaster"
+  },
+  {
+   "slug": "sales-war-room-intel",
+   "name": "Sales War Room Intel",
+   "tagline": "Turns competitor data into actionable sales intelligence for global sales leaders.",
+   "category": "research",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/sales-war-room-intel.md",
+   "url": "https://templatesgrokbot.com/bot/sales-war-room-intel"
   },
   {
    "slug": "salesforce-automation",
@@ -59503,6 +61544,21 @@
    "url": "https://templatesgrokbot.com/bot/sci-fi-interface",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "science-experiment-planner",
+   "name": "Science Experiment Planner",
+   "tagline": "Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/science-experiment-planner.md",
+   "url": "https://templatesgrokbot.com/bot/science-experiment-planner"
   },
   {
    "slug": "scientific-brainstorming",
@@ -60475,6 +62531,23 @@
    "url": "https://templatesgrokbot.com/bot/cc-skill-security-review",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "security-risk-assessment-planner",
+   "name": "Security Risk Assessment Planner",
+   "tagline": "Risk assessment and mitigation assistant for Chief Sales Officers, turning security data into actionable plans and reports. No hype, just the work.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/security-and-compliance/security-risk-assessment-planner.md",
+   "url": "https://templatesgrokbot.com/bot/security-risk-assessment-planner"
   },
   {
    "slug": "security-scanning-security-dependencies",
@@ -65204,6 +67277,22 @@
    "url": "https://templatesgrokbot.com/bot/strategic-planning-assistant"
   },
   {
+   "slug": "strategic-planning-facilitator",
+   "name": "Strategic Planning Facilitator",
+   "tagline": "Facilitates strategic planning for CSOs from goal setting to review.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "productivity",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/sales/productivity/strategic-planning-facilitator.md",
+   "url": "https://templatesgrokbot.com/bot/strategic-planning-facilitator"
+  },
+  {
    "slug": "strategy-lifecycle-content-copilot",
    "name": "Strategy Lifecycle Content Copilot",
    "tagline": "Builds and refines your content strategy from research to performance analysis.",
@@ -65295,6 +67384,20 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "student-feedback-analyst",
+   "name": "Student Feedback Analyst",
+   "tagline": "Analyzes student feedback and generates reports and personalized responses for secondary school teachers.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/education/data-analysis/student-feedback-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/student-feedback-analyst"
+  },
+  {
    "slug": "study-buddy",
    "name": "Study Buddy",
    "tagline": "Drills you on your own material with spaced repetition instead of re-reading notes.",
@@ -65308,6 +67411,21 @@
    ],
    "path": "jobs/education/teaching-and-tutoring/study-buddy.md",
    "url": "https://templatesgrokbot.com/bot/study-buddy"
+  },
+  {
+   "slug": "study-guide-creator-for-teachers",
+   "name": "Study Guide Creator for Teachers",
+   "tagline": "Creates and refines study guides for secondary school teachers and their students.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/study-guide-creator-for-teachers.md",
+   "url": "https://templatesgrokbot.com/bot/study-guide-creator-for-teachers"
   },
   {
    "slug": "styleseed-design-review",
@@ -65393,6 +67511,21 @@
    "url": "https://templatesgrokbot.com/bot/subdomain-takeover-hunter",
    "adapted_from": "https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/hunt-subdomain",
    "source_license": "MIT"
+  },
+  {
+   "slug": "subject-explanation-assistant",
+   "name": "Subject Explanation Assistant",
+   "tagline": "Prepares engaging lessons and resources for secondary school subject teaching.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/subject-explanation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/subject-explanation-assistant"
   },
   {
    "slug": "subject-line-psychologist",
@@ -67019,6 +69152,24 @@
    "source_license": "Apache-2.0"
   },
   {
+   "slug": "swot-analysis-guide",
+   "name": "SWOT Analysis Guide",
+   "tagline": "Guides business development managers through complete SWOT analyses with data-driven insights.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/sales/marketing-and-growth/swot-analysis-guide.md",
+   "url": "https://templatesgrokbot.com/bot/swot-analysis-guide"
+  },
+  {
    "slug": "sympy",
    "name": "Sympy",
    "tagline": "Performs exact symbolic math using SymPy in Python.",
@@ -67729,6 +69880,23 @@
    "url": "https://templatesgrokbot.com/bot/team-productivity-analysis-assistant"
   },
   {
+   "slug": "team-training-program-designer",
+   "name": "Team Training Program Designer",
+   "tagline": "Designs and runs team training programs for business development managers.",
+   "category": "education",
+   "jobs": [
+    "sales",
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "self-improvement"
+   ],
+   "path": "jobs/sales/teaching-and-tutoring/team-training-program-designer.md",
+   "url": "https://templatesgrokbot.com/bot/team-training-program-designer"
+  },
+  {
    "slug": "tech-debt-remediation-plan",
    "name": "Tech Debt Remediation Plan",
    "tagline": "Analyze code, tests, and docs to produce a prioritized technical debt remediation plan.",
@@ -67814,6 +69982,21 @@
    "url": "https://templatesgrokbot.com/bot/technical-content-evaluator",
    "adapted_from": "https://www.aitmpl.com/component/agents/programming-languages/technical-content-evaluator",
    "source_license": "MIT"
+  },
+  {
+   "slug": "technical-cross-sell-upsell-assistant",
+   "name": "Technical Cross-Sell Upsell Assistant",
+   "tagline": "Cross-sell and upsell technical products with personalized recommendations and persuasive follow-ups.",
+   "category": "marketing",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/technical-cross-sell-upsell-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/technical-cross-sell-upsell-assistant"
   },
   {
    "slug": "technical-debt-manager",
@@ -67919,6 +70102,117 @@
    "source_license": "MIT"
   },
   {
+   "slug": "technical-sales-crm-assistant",
+   "name": "Technical Sales CRM Assistant",
+   "tagline": "Manages client relationships end-to-end for technical sales reps.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/technical-sales-crm-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/technical-sales-crm-assistant"
+  },
+  {
+   "slug": "technical-sales-enablement-assistant",
+   "name": "Technical Sales Enablement Assistant",
+   "tagline": "Turns sales data and customer interactions into leads, proposals, and forecasts for technical sales reps.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/technical-sales-enablement-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/technical-sales-enablement-assistant"
+  },
+  {
+   "slug": "technical-sales-lead-generator",
+   "name": "Technical Sales Lead Generator",
+   "tagline": "Generates and refines lead generation content and strategies for technical sales representatives.",
+   "category": "marketing",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "writing-and-content",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/technical-sales-lead-generator.md",
+   "url": "https://templatesgrokbot.com/bot/technical-sales-lead-generator"
+  },
+  {
+   "slug": "technical-sales-negotiation-prep",
+   "name": "Technical Sales Negotiation Prep",
+   "tagline": "Prepares technical sales reps for negotiations with AI-driven strategy and objection handling.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/technical-sales-negotiation-prep.md",
+   "url": "https://templatesgrokbot.com/bot/technical-sales-negotiation-prep"
+  },
+  {
+   "slug": "technical-sales-presentation-assistant",
+   "name": "Technical Sales Presentation Assistant",
+   "tagline": "Prepares technical sales presentations, demos, and supporting materials for client meetings.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "writing-and-content",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/technical-sales-presentation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/technical-sales-presentation-assistant"
+  },
+  {
+   "slug": "technical-sales-pricing-architect",
+   "name": "Technical Sales Pricing Architect",
+   "tagline": "Develops and refines pricing strategies from market data and customer insights.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/technical-sales-pricing-architect.md",
+   "url": "https://templatesgrokbot.com/bot/technical-sales-pricing-architect"
+  },
+  {
+   "slug": "technical-sales-rival-intel",
+   "name": "Technical Sales Rival Intel",
+   "tagline": "Competitive intelligence assistant for technical sales reps, turning market data into actionable strategies.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/sales-and-negotiation/technical-sales-rival-intel.md",
+   "url": "https://templatesgrokbot.com/bot/technical-sales-rival-intel"
+  },
+  {
    "slug": "technical-tutorials",
    "name": "Technical Tutorials",
    "tagline": "Create step-by-step technical tutorials, quickstarts, and code walkthroughs.",
@@ -67955,6 +70249,21 @@
    "url": "https://templatesgrokbot.com/bot/technical-writer",
    "adapted_from": "https://www.aitmpl.com/component/agents/documentation/technical-writer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "technology-adoption-advisor",
+   "name": "Technology Adoption Advisor",
+   "tagline": "Guides CSOs through technology evaluation and adoption, from research to roadmap.",
+   "category": "research",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/sales/research/technology-adoption-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/technology-adoption-advisor"
   },
   {
    "slug": "technology-adoption-training-planner",
@@ -68825,6 +71134,22 @@
    "url": "https://templatesgrokbot.com/bot/territory-planning-optimizer",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/territory-planning-optimizer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "territory-sales-analyzer",
+   "name": "Territory Sales Analyzer",
+   "tagline": "Analyzes territory sales data to uncover insights and recommend strategies for CSOs.",
+   "category": "operations",
+   "jobs": [
+    "sales",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/territory-sales-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/territory-sales-analyzer"
   },
   {
    "slug": "test-automator",
@@ -71974,6 +74299,22 @@
    "adapted_from": "https://collectivebrain.de/en/skills/ux-copy-refiner/"
   },
   {
+   "slug": "ux-enhancement-analyst",
+   "name": "UX Enhancement Analyst",
+   "tagline": "Enhances user experience across web and mobile through feedback, testing, and optimization.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "design",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/design/ux-enhancement-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/ux-enhancement-analyst"
+  },
+  {
    "slug": "ux-feedback",
    "name": "Ux Feedback",
    "tagline": "Add loading, empty, error, and success states to UI components",
@@ -73051,6 +75392,23 @@
    "url": "https://templatesgrokbot.com/bot/video-marketing-campaign-assistant"
   },
   {
+   "slug": "video-marketing-strategy-planner",
+   "name": "Video Marketing Strategy Planner",
+   "tagline": "Plans, scripts, optimizes, and analyzes video marketing for digital marketing managers.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/sales/marketing-and-growth/video-marketing-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/video-marketing-strategy-planner"
+  },
+  {
    "slug": "video-router",
    "name": "Video Router",
    "tagline": "Route video briefs to generate, compose, edit, or AUTO before production starts.",
@@ -73998,6 +76356,22 @@
    "url": "https://templatesgrokbot.com/bot/web-accessibility-checker",
    "adapted_from": "https://www.aitmpl.com/component/agents/web-tools/web-accessibility-checker",
    "source_license": "MIT"
+  },
+  {
+   "slug": "web-analytics-monitoring-assistant",
+   "name": "Web Analytics Monitoring Assistant",
+   "tagline": "Turns your web analytics data into clear insights and actions for better marketing decisions.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/sales/data-analysis/web-analytics-monitoring-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/web-analytics-monitoring-assistant"
   },
   {
    "slug": "web-artifacts-builder",

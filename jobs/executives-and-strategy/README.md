@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **180 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **202 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,20 +11,20 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 60 |
-| [Research](research/README.md) | 42 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 30 |
-| [Productivity](productivity/README.md) | 25 |
+| [Data Analysis](data-analysis/README.md) | 68 |
+| [Research](research/README.md) | 45 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 32 |
+| [Productivity](productivity/README.md) | 26 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 8 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
+| [Security & Compliance](security-and-compliance/README.md) | 4 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
-| [Security & Compliance](security-and-compliance/README.md) | 3 |
 | [Coding](coding/README.md) | 1 |
 | [Design](design/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Code](generative-code/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 
 ## Data Analysis
 
@@ -40,6 +40,10 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 | [Campaign Effectiveness Analyst](../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Compliance Benchmarking Analyst](../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
 | [Compliance Cost Analyst](../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
+| [CSO Market Trend Intel](../sales/data-analysis/cso-market-trend-intel.md) | Market trend intelligence for CSOs: gather, analyze, forecast, and report on market movements. |
+| [CSO Pipeline Forecaster](../sales/data-analysis/cso-pipeline-forecaster.md) | Turns sales data into forecasts, scenarios, and pipeline insights for a CSO's decisions. No hype, just analysis. |
+| [CSO Pricing Insight Advisor](../sales/data-analysis/cso-pricing-insight-advisor.md) | Analyzes pricing data to sharpen strategy and boost revenue for sales leaders. |
+| [Customer Feedback Insight Engine](../sales/data-analysis/customer-feedback-insight-engine.md) | Turns customer feedback into actionable insights and response plans for sales leadership. |
 | [Customer Panel Debate](../marketing/data-analysis/customer-panel-debate.md) | Runs a structured debate among your buyer personas to test any decision before you commit. |
 | [Data Storytelling](data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Data Visualization Presentation Assistant](../management/data-analysis/data-visualization-presentation-assistant.md) | Turns raw data into clear, compelling visuals and narratives for client presentations. |
@@ -48,6 +52,7 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 | [Executive Market Trend Forecaster](../management/data-analysis/executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
 | [Game Strategy Simulator](data-analysis/game-strategy-simulator.md) | Simulates sports game scenarios for play-calling, clock management, and risk/reward decisions. |
 | [Global Ops Forecast Architect](../operations/data-analysis/global-ops-forecast-architect.md) | Turns financial data into forecasts, scenarios, and decisions for global operations heads. |
+| [Global Sales Insight Drafts](../sales/data-analysis/global-sales-insight-drafts.md) | Turns sales data into forecasts, segment insights, and performance reports for global sales leadership. |
 | [Insurance Competitive Intelligence Assistant](../management/data-analysis/insurance-competitive-intelligence-assistant.md) | Turns competitor data into actionable insurance market intelligence for agency managers. |
 | [Insurance Finance Reporting Assistant](../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Inventory Ops Forecaster](../operations/data-analysis/inventory-ops-forecaster.md) | Turns your inventory data into operational insights, forecasts, and action plans. |
@@ -74,6 +79,8 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 | [Performance Report](data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Portfolio Digest](../finance/data-analysis/portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
 | [Pricing Strategy Analyst](../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
+| [Product Performance Insights Assistant](../sales/data-analysis/product-performance-insights-assistant.md) | Analyzes product performance data and delivers actionable sales insights for global heads of sales. |
+| [Product Performance Review Assistant](../sales/data-analysis/product-performance-review-assistant.md) | Analyzes product performance data and delivers actionable insights for CSOs. |
 | [Quarterly Finance Report](../finance/data-analysis/quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |
 | [Risk Manager](../finance/data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](../finance/data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
@@ -85,6 +92,7 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 | [Supply Chain Optimization Assistant](../management/data-analysis/supply-chain-optimization-assistant.md) | Optimizes your supply chain with data-driven insights and recommendations. |
 | [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
+| [Territory Sales Analyzer](../sales/data-analysis/territory-sales-analyzer.md) | Analyzes territory sales data to uncover insights and recommend strategies for CSOs. |
 | [Trading Risk Manager](../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
 | [VP Supply Chain Insight Engine](../operations/data-analysis/vp-supply-chain-insight-engine.md) | Optimizes your supply chain with data-driven insights and recommendations. |
 | [Weekly Ops Report](../management/data-analysis/weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |
@@ -106,8 +114,10 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 | [Competitor Analysis](../marketing/research/competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Tracking](../marketing/research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
+| [Crisis Management Support for CSOs](../sales/research/crisis-management-support-for-csos.md) | Real-time crisis monitoring, assessment, communication, and recovery support for Chief Sales Officers. |
 | [Crossframe Public](../government/research/crossframe-public.md) | Analyze public issues, platform governance, and institutional compliance with evidence boundaries. |
 | [Crossframe Structural Diagnosis](research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
+| [CSO Competitor Intel Briefs](../sales/research/cso-competitor-intel-briefs.md) | Turns competitor data into strategic sales intelligence for CSOs. |
 | [Customer Research](../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Expert Panel Analyzer](research/expert-panel-analyzer.md) | Assembles 2-3 complementary expert perspectives to analyze any topic collaboratively. |
 | [Falsify](../science-and-research/research/falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
@@ -133,6 +143,7 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 | [Salary Negotiation Prep](../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 | [SEO Competitive Analysis](../marketing/research/seo-wettbewerbsanalyse.md) | Reverse-engineer ranking competitors to produce a content gap map, keyword steal list, and three pages to write first. |
 | [Startup Business Analyst Market Opportunity](research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Technology Adoption Advisor](../sales/research/technology-adoption-advisor.md) | Guides CSOs through technology evaluation and adoption, from research to roadmap. |
 | [Technology Trend Intelligence Assistant](../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Term Sheet Reader](../finance/research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
 | [Think Tank](research/think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
@@ -153,6 +164,7 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 | [Digital Marketing Strategy Formulator](../management/marketing-and-growth/digital-marketing-strategy-formulator.md) | Formulates data-driven digital marketing strategies from market research to performance reporting. |
 | [Free Tier Strategy](../product-development/marketing-and-growth/free-tier-strategy.md) | Design free tiers that developers love and that convert to paid naturally. |
 | [Free Tool Strategy](../marketing/marketing-and-growth/free-tool-strategy.md) | Plan and evaluate free tools for lead gen, SEO, and brand awareness. |
+| [International Market Entry Planner](../sales/marketing-and-growth/international-market-entry-planner.md) | Plans and de-risks your international market entry, from research to rollout. |
 | [Launch Strategy](../marketing/marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
 | [Launch War Room](../product-development/marketing-and-growth/launch-war-room.md) | Run an adversarial go/no-go war room and phased rollout plan for any launch. |
 | [Local Legal Seo Audit](../marketing/marketing-and-growth/local-legal-seo-audit.md) | Audit and improve local SEO for law firms, attorneys, and legal professionals. |
@@ -171,6 +183,7 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 | [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [SEO Strategy: 90-Day Roadmap](../marketing/marketing-and-growth/seo-strategie-roadmap.md) | Turns your current SEO situation into a 90-day roadmap with ICE scores and a not-doing list. |
 | [Startup Business Analyst Business Case](marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
+| [SWOT Analysis Guide](../sales/marketing-and-growth/swot-analysis-guide.md) | Guides business development managers through complete SWOT analyses with data-driven insights. |
 | [Trust Calibrator](../marketing/marketing-and-growth/trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
 
 ## Productivity
@@ -199,9 +212,23 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 | [Product Manager](../product-development/productivity/product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
 | [Project Management Efficiency Assistant](../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Strategic Planning Assistant](../management/productivity/strategic-planning-assistant.md) | Turns market data and goals into a full strategic plan with risks, actions, and reviews. |
+| [Strategic Planning Facilitator](../sales/productivity/strategic-planning-facilitator.md) | Facilitates strategic planning for CSOs from goal setting to review. |
 | [Sustainability Strategy Planner](../operations/productivity/sustainability-strategy-planner.md) | Turns your operations data into a complete sustainability strategy, from trends to action plans. |
 | [Usage Based Pricing](../product-development/productivity/usage-based-pricing.md) | Design developer-friendly usage-based pricing models with clear metrics and predictable costs. |
 | [Web Project Brainstorming](../product-development/productivity/web-project-brainstorming.md) | Structured framework for brainstorming web project concepts, UX, styling, tech stack, and SEO. |
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Consulting Proposal Generator](../sales/sales-and-negotiation/consulting-proposal-generator.md) | Turns a brief into a complete, personalized consulting proposal. |
+| [CRM Sales Insights Assistant](../sales/sales-and-negotiation/crm-sales-insights-assistant.md) | Turns CRM data into leads, forecasts, and personalized outreach for global sales heads. |
+| [Digital Sales Strategy Assistant](../sales/sales-and-negotiation/digital-sales-strategy-assistant.md) | Turns sales data into strategy: research, segment, create, and optimize digital sales. |
+| [Global Sales Cross-Sell Upsell Planner](../sales/sales-and-negotiation/global-sales-cross-sell-upsell-planner.md) | Turns sales data into cross-sell and upsell actions for global sales leaders. |
+| [Lead Generation Insights Assistant](../sales/sales-and-negotiation/lead-generation-insights-assistant.md) | Turns sales data into lead generation insights and actions for a CSO. |
+| [Sales Process Optimizer](../sales/sales-and-negotiation/sales-process-optimizer.md) | Analyzes sales data, segments customers, optimizes pipelines, and generates tailored sales materials. |
+| [Sales Strategy Optimizer](../sales/sales-and-negotiation/sales-strategy-optimizer.md) | Sales strategy optimizer: market analysis, forecasting, and personalized outreach for CSOs. Turn data into decisions. |
+| [Sales War Room Intel](../sales/sales-and-negotiation/sales-war-room-intel.md) | Turns competitor data into actionable sales intelligence for global sales leaders. |
 
 ## Cloud & DevOps
 
@@ -223,6 +250,15 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 | [Morpheus](../management/self-improvement/morpheus.md) | Analyzes options and makes decisions when you are stuck between choices. |
 | [Sam Altman](self-improvement/sam-altman.md) | Simulates Sam Altman's perspective on startups, AI, and AGI. |
 
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Cybersecurity Consultation Assistant](../sales/security-and-compliance/cybersecurity-consultation-assistant.md) | Cybersecurity consultation assistant for CSOs: assess risks, build policies, plan responses, and more. |
+| [Quality Manager Qmr](../operations/security-and-compliance/quality-manager-qmr.md) | Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies. |
+| [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
+| [Risk Management Analysis Assistant](../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
+
 ## Writing & Content
 
 | Template | What it does |
@@ -231,14 +267,6 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 | [Executive Resume Writer](../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 | [Founder Pitch Deck Coach](writing-and-content/founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
 | [Investor Update Writer](writing-and-content/investor-update-writer.md) | Turns your KPIs, milestones, and financials into a polished investor update. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Quality Manager Qmr](../operations/security-and-compliance/quality-manager-qmr.md) | Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies. |
-| [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
-| [Risk Management Analysis Assistant](../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
 
 ## Coding
 
@@ -269,11 +297,5 @@ Leaders making decisions from the whole picture. **180 ready-made Grok Bot templ
 | Template | What it does |
 |---|---|
 | [Investor Pitch Deck Builder](office-tools/investor-pitch-deck-builder.md) | Turns your startup facts into a 10-page investor-ready pitch deck. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Consulting Proposal Generator](../sales/sales-and-negotiation/consulting-proposal-generator.md) | Turns a brief into a complete, personalized consulting proposal. |
 
 [← All job fields](../../README.md#browse-by-job) · [Executives and Strategy on the website](https://templatesgrokbot.com/jobs/executives-and-strategy)

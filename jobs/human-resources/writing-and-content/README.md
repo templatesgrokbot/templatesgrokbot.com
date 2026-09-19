@@ -1,6 +1,6 @@
 # Writing & Content templates for Human Resources
 
-Plan, write and edit articles, copy and documentation. 21 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 22 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Plan, write and edit articles, copy and documentation. 21 Grok Bot templates, 13
 | [Employee Handbook Builder](employee-handbook-builder.md) | Builds a plain-English employee handbook for small businesses, flagging state-law checks for attorney review. |
 | [Employment Contract Templates](employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Executive Resume Writer](executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
+| [Freight Brokerage Training Developer](../../sales/writing-and-content/freight-brokerage-training-developer.md) | Builds and runs freight brokerage training programs from onboarding to ongoing development. |
 | [Internal Comms Community](../../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Internal Communication Planner](../../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
 | [Interview Prep Generator](interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |

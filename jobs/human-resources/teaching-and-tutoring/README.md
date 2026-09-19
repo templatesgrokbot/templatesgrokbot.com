@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Human Resources
 
-Explain, quiz and guide someone through a subject. 16 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 19 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,7 +18,10 @@ Explain, quiz and guide someone through a subject. 16 Grok Bot templates, 0 of t
 | [Logistics Training Program Coordinator](../../operations/teaching-and-tutoring/logistics-training-program-coordinator.md) | Builds and runs staff training programs for logistics teams, from needs assessment to evaluation. |
 | [Onboarding Program Enhancer](../../education/teaching-and-tutoring/onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
 | [Remote Training Program Designer](../../education/teaching-and-tutoring/remote-training-program-designer.md) | Designs and runs remote training programs that engage, assess, and develop your team. |
+| [Sales Onboarding Program Builder](../../sales/teaching-and-tutoring/sales-onboarding-program-builder.md) | Designs and runs complete sales onboarding and training programs for new staff. |
+| [Sales Training Program Designer](../../sales/teaching-and-tutoring/sales-training-program-designer.md) | Designs and manages employee training and development programs for a sales organization. |
 | [Staff Training Planner](../../management/teaching-and-tutoring/staff-training-planner.md) | Plans and runs staff training for insurance agency managers, from needs assessment to effectiveness evaluation. |
+| [Team Training Program Designer](../../sales/teaching-and-tutoring/team-training-program-designer.md) | Designs and runs team training programs for business development managers. |
 | [Technology Adoption Training Planner](../../education/teaching-and-tutoring/technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
 | [Training Accessibility Assistant](../../education/teaching-and-tutoring/training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
 | [Training Program Designer](../../management/teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |

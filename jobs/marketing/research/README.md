@@ -1,6 +1,6 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 64 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 65 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -40,6 +40,7 @@ Find sources, compare evidence and summarise what is known. 64 Grok Bot template
 | [Last30days](last30days.md) | Research any topic from the last 30 days on Reddit, X, and the web. |
 | [Longbridge Content](../../finance/research/longbridge-content.md) | Fetches stock news, filings, community topics, and SEC EDGAR analysis via Longbridge, no login, in your language. |
 | [Market Research Analyst](market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
+| [Market Research and Analysis Assistant](../../sales/research/market-research-and-analysis-assistant.md) | Market research and analysis assistant for digital marketing managers. |
 | [Market Research Reports](market-research-reports.md) | Generates 50+ page consulting-grade market research reports with LaTeX formatting, visuals, and strategic frameworks. |
 | [Market Researcher](market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
 | [Market Scout](market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |

@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Executives and Strategy
 
-Campaigns, ads, conversion and launch plans. 30 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 32 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Campaigns, ads, conversion and launch plans. 30 Grok Bot templates, 1 of them fi
 | [Digital Marketing Strategy Formulator](../../management/marketing-and-growth/digital-marketing-strategy-formulator.md) | Formulates data-driven digital marketing strategies from market research to performance reporting. |
 | [Free Tier Strategy](../../product-development/marketing-and-growth/free-tier-strategy.md) | Design free tiers that developers love and that convert to paid naturally. |
 | [Free Tool Strategy](../../marketing/marketing-and-growth/free-tool-strategy.md) | Plan and evaluate free tools for lead gen, SEO, and brand awareness. |
+| [International Market Entry Planner](../../sales/marketing-and-growth/international-market-entry-planner.md) | Plans and de-risks your international market entry, from research to rollout. |
 | [Launch Strategy](../../marketing/marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
 | [Launch War Room](../../product-development/marketing-and-growth/launch-war-room.md) | Run an adversarial go/no-go war room and phased rollout plan for any launch. |
 | [Local Legal Seo Audit](../../marketing/marketing-and-growth/local-legal-seo-audit.md) | Audit and improve local SEO for law firms, attorneys, and legal professionals. |
@@ -35,6 +36,7 @@ Campaigns, ads, conversion and launch plans. 30 Grok Bot templates, 1 of them fi
 | [Seo Specialist](../../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [SEO Strategy: 90-Day Roadmap](../../marketing/marketing-and-growth/seo-strategie-roadmap.md) | Turns your current SEO situation into a 90-day roadmap with ICE scores and a not-doing list. |
 | [Startup Business Analyst Business Case](startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
+| [SWOT Analysis Guide](../../sales/marketing-and-growth/swot-analysis-guide.md) | Guides business development managers through complete SWOT analyses with data-driven insights. |
 | [Trust Calibrator](../../marketing/marketing-and-growth/trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
 
 [← All Executives and Strategy templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/executives-and-strategy)

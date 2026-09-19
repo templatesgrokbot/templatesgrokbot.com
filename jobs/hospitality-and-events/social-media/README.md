@@ -1,12 +1,13 @@
 # Social Media templates for Hospitality and Events
 
-Plan, write and measure posts across networks. 13 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 14 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Brand Reputation Monitor](../../marketing/social-media/brand-reputation-monitor.md) | Monitors brand sentiment, trends, competitors, and crises on social media, delivering reports and alerts. |
+| [Brand Reputation Sentinel](../../sales/social-media/brand-reputation-sentinel.md) | Monitors and manages your brand's online reputation across platforms. |
 | [Brand Voice and Messaging Assistant](../../marketing/social-media/brand-voice-and-messaging-assistant.md) | Crafts and keeps your brand's voice consistent across social media, from captions to strategy. |
 | [Content Command Center](../../pr-and-communications/social-media/content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
 | [Hashtag Strategy Assistant](../../marketing/social-media/hashtag-strategy-assistant.md) | Researches, optimizes, and tracks hashtags for social media campaigns and engagement. |

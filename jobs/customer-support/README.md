@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **112 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **114 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Answering, routing and resolving customer requests. **112 ready-made Grok Bot te
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 37 |
+| [Support & Community](support-and-community/README.md) | 39 |
 | [Data Analysis](data-analysis/README.md) | 26 |
 | [Productivity](productivity/README.md) | 15 |
 | [Writing & Content](writing-and-content/README.md) | 6 |
@@ -32,6 +32,7 @@ Answering, routing and resolving customer requests. **112 ready-made Grok Bot te
 
 | Template | What it does |
 |---|---|
+| [After-Sales Service Assistant](../sales/support-and-community/after-sales-service-assistant.md) | Handles after-sales service tasks: follow-ups, troubleshooting, feedback, and more. |
 | [Claims Processing Assistant](support-and-community/claims-processing-assistant.md) | Handles claim inquiries, document collection, status updates, and appeals for insurance customer service. |
 | [Client Communication Manager](../legal/support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
 | [Community Mod](../operations/support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
@@ -47,6 +48,7 @@ Answering, routing and resolving customer requests. **112 ready-made Grok Bot te
 | [Emergency Response Coordinator](support-and-community/emergency-response-coordinator.md) | Coordinates emergency response support for insurance policyholders from first contact to claim resolution. |
 | [Escalation Handling Assistant](support-and-community/escalation-handling-assistant.md) | Manages customer escalations from detection to resolution with structured procedures and insights. |
 | [Feedback Loop Manager](../management/support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
+| [Freight Broker Customer Communication Assistant](../sales/support-and-community/freight-broker-customer-communication-assistant.md) | Handles customer inquiries, quotes, updates, complaints, and education for freight brokerage clients. |
 | [Freshdesk Automation](support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
 | [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
 | [Helpdesk Automation](support-and-community/helpdesk-automation.md) | Browse helpdesk tickets, views, canned responses, and custom fields via Rube MCP. |

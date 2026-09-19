@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **96 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **98 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,9 +15,9 @@ Property, building and site work. **96 ready-made Grok Bot templates** for this 
 | [Productivity](productivity/README.md) | 19 |
 | [Security & Compliance](security-and-compliance/README.md) | 15 |
 | [Research](research/README.md) | 11 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 9 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 10 |
 | [Writing & Content](writing-and-content/README.md) | 7 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 4 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 5 |
 | [Knowledge Management](knowledge-management/README.md) | 3 |
 | [Design](design/README.md) | 2 |
 | [Support & Community](support-and-community/README.md) | 1 |
@@ -119,6 +119,7 @@ Property, building and site work. **96 ready-made Grok Bot templates** for this 
 | [Client Communication Assistant](sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
 | [CRM Sales and Marketing Assistant](../sales/sales-and-negotiation/crm-sales-and-marketing-assistant.md) | CRM assistant that manages leads, segments customers, and analyzes sales performance for your team. |
 | [Lead Lifecycle Manager](../sales/sales-and-negotiation/lead-lifecycle-manager.md) | Finds, qualifies, and nurtures leads, then tracks and reports on them for sales. |
+| [Personalized Sales Strategy Assistant](../sales/sales-and-negotiation/personalized-sales-strategy-assistant.md) | Personalized sales strategies from customer data to tailored pitches and follow-ups. |
 | [Real Estate Negotiation Prep](sales-and-negotiation/real-estate-negotiation-prep.md) | Prepares real estate brokers for negotiations with market data, strategy, and documentation. |
 | [Real Estate Networking Partner](sales-and-negotiation/real-estate-networking-partner.md) | Finds events, partners, and contacts; drafts outreach; and builds your real estate network. |
 | [Sustainable Property Assistant](sales-and-negotiation/sustainable-property-assistant.md) | Helps real estate brokers market, advise on, and close deals for sustainable and green properties. |
@@ -146,6 +147,7 @@ Property, building and site work. **96 ready-made Grok Bot templates** for this 
 | [Real Estate Lead Generator](marketing-and-growth/real-estate-lead-generator.md) | Generates and nurtures real estate leads through content, outreach, and data analysis. |
 | [Real Estate Marketing Planner](marketing-and-growth/real-estate-marketing-planner.md) | Plan and produce real estate marketing content, campaigns, and brand assets. |
 | [Sales Automator](../sales/marketing-and-growth/sales-automator.md) | Drafts compliant cold email sequences, proposals, and sales scripts with personalization. |
+| [SWOT Analysis Guide](../sales/marketing-and-growth/swot-analysis-guide.md) | Guides business development managers through complete SWOT analyses with data-driven insights. |
 
 ## Knowledge Management
 

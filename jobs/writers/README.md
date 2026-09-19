@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **134 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **135 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Authors, copywriters, editors and journalists. **134 ready-made Grok Bot templat
 |---|---:|
 | [Writing & Content](writing-and-content/README.md) | 72 |
 | [Research](research/README.md) | 17 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 14 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 15 |
 | [Coding](coding/README.md) | 5 |
 | [Design](design/README.md) | 4 |
 | [Data Analysis](data-analysis/README.md) | 3 |
@@ -134,6 +134,7 @@ Authors, copywriters, editors and journalists. **134 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Ad Copy Generator](../management/marketing-and-growth/ad-copy-generator.md) | Generates, refines, and optimizes ad copy for marketing campaigns. |
+| [Content Creation and Curation Assistant](../sales/marketing-and-growth/content-creation-and-curation-assistant.md) | Generates, curates, and optimizes marketing content across all channels. |
 | [Content Marketing Assistant](../pr-and-communications/marketing-and-growth/content-marketing-assistant.md) | Drafts, optimizes, and plans all your content marketing from research to distribution. |
 | [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
 | [Email Campaign Copywriter](../sales/marketing-and-growth/email-campaign-copywriter.md) | Drafts, personalizes, and tests email campaign copy for higher engagement and conversions. |

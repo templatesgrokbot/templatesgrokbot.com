@@ -1,6 +1,6 @@
 # Design templates for Marketing
 
-Interfaces, brands, layouts and visual systems. 25 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 26 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Interfaces, brands, layouts and visual systems. 25 Grok Bot templates, 4 of them
 | [Photo Selection and Curation Assistant](../../pr-and-communications/design/photo-selection-and-curation-assistant.md) | Helps editors select, organize, and enhance photos while ensuring rights compliance. |
 | [Social Carousel Designer](../../creatives/design/social-carousel-designer.md) | Turns a headline into a three-card social carousel with brand mark and numbering. |
 | [Theme Factory](../../creatives/design/theme-factory.md) | Generate or apply curated slide-deck themes with color scales, fonts, and WCAG AA contrast. |
+| [UX Enhancement Analyst](../../sales/design/ux-enhancement-analyst.md) | Enhances user experience across web and mobile through feedback, testing, and optimization. |
 | [UX SEO Optimization Assistant](../../product-development/design/ux-seo-optimization-assistant.md) | Optimizes UX design for SEO with keyword, content, and technical guidance. |
 | [UX/UI Trend Analyst](../../creatives/design/ux-ui-trend-analyst.md) | Tracks UX/UI design trends and turns them into actionable design guidance for your projects. |
 | [Vaporwave](../../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |

@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 240 Grok Bot templates, 234 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 241 Grok Bot templates, 234 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -189,6 +189,7 @@ Authorised security testing, audits and regulatory work. 240 Grok Bot templates,
 | [Security Pentest Planner](security-pentest-planner.md) | Plans authorized web application penetration tests from codebase analysis. Authorized testing only. No exploits. |
 | [Security Requirement Extraction](security-requirement-extraction.md) | Translate threat models into actionable security requirements and test cases. |
 | [Security Review](cc-skill-security-review.md) | Reviews code for security vulnerabilities and suggests concrete fixes. |
+| [Security Risk Assessment Planner](../../sales/security-and-compliance/security-risk-assessment-planner.md) | Risk assessment and mitigation assistant for Chief Sales Officers, turning security data into actionable plans and reports. No hype, just the work. |
 | [Security Scanning Security Dependencies](security-scanning-security-dependencies.md) | Scan project dependencies for vulnerabilities and generate SBOMs. |
 | [Security Scanning Security Hardening](security-scanning-security-hardening.md) | Coordinate multi-layer security scanning and hardening across application, infrastructure, and compliance controls. |
 | [Security Scanning Security Sast](security-scanning-security-sast.md) | Static code analysis for vulnerabilities across languages and frameworks. |

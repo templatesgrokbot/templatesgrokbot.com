@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **394 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **395 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,7 +17,7 @@ Designers, artists and content creators. **394 ready-made Grok Bot templates** f
 | [Coding](coding/README.md) | 34 |
 | [Writing & Content](writing-and-content/README.md) | 34 |
 | [Social Media](social-media/README.md) | 16 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 13 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 14 |
 | [Video Editing](video-editing/README.md) | 11 |
 | [Generative Video](generative-video/README.md) | 9 |
 | [Research](research/README.md) | 7 |
@@ -397,6 +397,7 @@ Designers, artists and content creators. **394 ready-made Grok Bot templates** f
 |---|---|
 | [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
 | [Brand Review](../marketing/marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
+| [Content Creation and Curation Assistant](../sales/marketing-and-growth/content-creation-and-curation-assistant.md) | Generates, curates, and optimizes marketing content across all channels. |
 | [Conversion Rate Optimization Assistant](../product-development/marketing-and-growth/conversion-rate-optimization-assistant.md) | Analyzes user data and optimizes UX to lift conversion rates. |
 | [Domain Name Brainstormer](../marketing/marketing-and-growth/domain-name-brainstormer.md) | Generates creative domain name ideas for your project and checks availability across multiple TLDs. |
 | [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |

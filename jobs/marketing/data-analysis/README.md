@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 85 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 88 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -36,6 +36,7 @@ Clean, query, chart and explain data. 85 Grok Bot templates, 28 of them filed in
 | [Customer Feedback Insight Analyst](../../management/data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
 | [Customer Feedback Insight Analyzer](../../management/data-analysis/customer-feedback-insight-analyzer.md) | Turns customer feedback into prioritized insights and actions for brand strategy. |
 | [Customer Feedback Insight Assistant](../../customer-support/data-analysis/customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |
+| [Customer Feedback Insights Analyst](../../sales/data-analysis/customer-feedback-insights-analyst.md) | Analyzes customer feedback to extract insights, track trends, and guide business development decisions. |
 | [Customer Insights Analyst](../../management/data-analysis/customer-insights-analyst.md) | Turns customer data into actionable insights for strategy and engagement. |
 | [Customer Journey Mapping Assistant](../../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
 | [Customer Lifetime Value Analyst](../../management/data-analysis/customer-lifetime-value-analyst.md) | Turns your customer data into CLV insights and action plans for growth. |
@@ -65,6 +66,7 @@ Clean, query, chart and explain data. 85 Grok Bot templates, 28 of them filed in
 | [Influencer Partnership Analyst](../../management/data-analysis/influencer-partnership-analyst.md) | Analyzes influencer partnerships from discovery to ROI, with fraud checks and crisis plans. |
 | [Insurance Feedback Analyzer](../../customer-support/data-analysis/insurance-feedback-analyzer.md) | Collects, analyzes, and reports insurance customer feedback for service improvements. |
 | [Lead Scoring Model Builder](lead-scoring-model-builder.md) | Builds a custom lead scoring model from your win/loss data and scores current leads. |
+| [Lead Scoring Strategist](../../sales/data-analysis/lead-scoring-strategist.md) | Builds and refines lead scoring models, segments leads, and tracks performance for sales managers. |
 | [Market Basket Insights Assistant](../../management/data-analysis/market-basket-insights-assistant.md) | Turns retail transaction data into cross-selling, promotion, and inventory insights. |
 | [Market Sizing Analysis](../../executives-and-strategy/data-analysis/market-sizing-analysis.md) | Calculate TAM, SAM, and SOM for startup market sizing with three methodologies. |
 | [Market Trend Analyzer](../../management/data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
@@ -90,6 +92,7 @@ Clean, query, chart and explain data. 85 Grok Bot templates, 28 of them filed in
 | [Social Media Performance Analyst](../../management/data-analysis/social-media-performance-analyst.md) | Analyzes your social media performance and gives actionable insights for e-commerce growth. |
 | [Supply Chain Impact Assessor](../../management/data-analysis/supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |
 | [Talivia Agent Kit](talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
+| [Web Analytics Monitoring Assistant](../../sales/data-analysis/web-analytics-monitoring-assistant.md) | Turns your web analytics data into clear insights and actions for better marketing decisions. |
 | [X Twitter Scraper](../../operations/data-analysis/x-twitter-scraper.md) | X data extraction and giveaway draws via the Xquik API, read-only. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

@@ -1,6 +1,6 @@
 # Knowledge Management templates for Legal
 
-Notes, documents, PDFs and knowledge bases kept in order. 9 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 10 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 9 Grok Bot templates, 
 | [Data Room Builder](../../finance/knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
 | [Document Digitization Assistant](../../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
 | [Evidence Organization Assistant](evidence-organization-assistant.md) | Organizes, tracks, and prepares legal evidence for paralegals from collection to trial. |
+| [Freight Contract and Document Manager](../../sales/knowledge-management/freight-contract-and-document-manager.md) | Manages freight contracts and documents from creation to renewal, keeping you compliant and audit-ready. |
 | [Legal Knowledge Base Builder](legal-knowledge-base-builder.md) | Builds and maintains a legal knowledge base with research, drafting, and compliance support. |
 | [Record-Keeping Compliance Optimizer](record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
 

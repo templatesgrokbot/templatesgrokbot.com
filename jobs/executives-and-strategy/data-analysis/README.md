@@ -1,6 +1,6 @@
 # Data Analysis templates for Executives and Strategy
 
-Clean, query, chart and explain data. 60 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 68 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,10 @@ Clean, query, chart and explain data. 60 Grok Bot templates, 9 of them filed in 
 | [Campaign Effectiveness Analyst](../../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Compliance Benchmarking Analyst](../../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
 | [Compliance Cost Analyst](../../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
+| [CSO Market Trend Intel](../../sales/data-analysis/cso-market-trend-intel.md) | Market trend intelligence for CSOs: gather, analyze, forecast, and report on market movements. |
+| [CSO Pipeline Forecaster](../../sales/data-analysis/cso-pipeline-forecaster.md) | Turns sales data into forecasts, scenarios, and pipeline insights for a CSO's decisions. No hype, just analysis. |
+| [CSO Pricing Insight Advisor](../../sales/data-analysis/cso-pricing-insight-advisor.md) | Analyzes pricing data to sharpen strategy and boost revenue for sales leaders. |
+| [Customer Feedback Insight Engine](../../sales/data-analysis/customer-feedback-insight-engine.md) | Turns customer feedback into actionable insights and response plans for sales leadership. |
 | [Customer Panel Debate](../../marketing/data-analysis/customer-panel-debate.md) | Runs a structured debate among your buyer personas to test any decision before you commit. |
 | [Data Storytelling](data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Data Visualization Presentation Assistant](../../management/data-analysis/data-visualization-presentation-assistant.md) | Turns raw data into clear, compelling visuals and narratives for client presentations. |
@@ -24,6 +28,7 @@ Clean, query, chart and explain data. 60 Grok Bot templates, 9 of them filed in 
 | [Executive Market Trend Forecaster](../../management/data-analysis/executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
 | [Game Strategy Simulator](game-strategy-simulator.md) | Simulates sports game scenarios for play-calling, clock management, and risk/reward decisions. |
 | [Global Ops Forecast Architect](../../operations/data-analysis/global-ops-forecast-architect.md) | Turns financial data into forecasts, scenarios, and decisions for global operations heads. |
+| [Global Sales Insight Drafts](../../sales/data-analysis/global-sales-insight-drafts.md) | Turns sales data into forecasts, segment insights, and performance reports for global sales leadership. |
 | [Insurance Competitive Intelligence Assistant](../../management/data-analysis/insurance-competitive-intelligence-assistant.md) | Turns competitor data into actionable insurance market intelligence for agency managers. |
 | [Insurance Finance Reporting Assistant](../../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Inventory Ops Forecaster](../../operations/data-analysis/inventory-ops-forecaster.md) | Turns your inventory data into operational insights, forecasts, and action plans. |
@@ -50,6 +55,8 @@ Clean, query, chart and explain data. 60 Grok Bot templates, 9 of them filed in 
 | [Performance Report](marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Portfolio Digest](../../finance/data-analysis/portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
 | [Pricing Strategy Analyst](../../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
+| [Product Performance Insights Assistant](../../sales/data-analysis/product-performance-insights-assistant.md) | Analyzes product performance data and delivers actionable sales insights for global heads of sales. |
+| [Product Performance Review Assistant](../../sales/data-analysis/product-performance-review-assistant.md) | Analyzes product performance data and delivers actionable insights for CSOs. |
 | [Quarterly Finance Report](../../finance/data-analysis/quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |
 | [Risk Manager](../../finance/data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](../../finance/data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
@@ -61,6 +68,7 @@ Clean, query, chart and explain data. 60 Grok Bot templates, 9 of them filed in 
 | [Supply Chain Optimization Assistant](../../management/data-analysis/supply-chain-optimization-assistant.md) | Optimizes your supply chain with data-driven insights and recommendations. |
 | [Talivia Agent Kit](../../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Team Composition Analysis](../../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
+| [Territory Sales Analyzer](../../sales/data-analysis/territory-sales-analyzer.md) | Analyzes territory sales data to uncover insights and recommend strategies for CSOs. |
 | [Trading Risk Manager](../../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
 | [VP Supply Chain Insight Engine](../../operations/data-analysis/vp-supply-chain-insight-engine.md) | Optimizes your supply chain with data-driven insights and recommendations. |
 | [Weekly Ops Report](../../management/data-analysis/weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |

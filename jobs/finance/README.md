@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **131 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **132 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Accounting, budgeting, analysis and risk. **131 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 84 |
+| [Data Analysis](data-analysis/README.md) | 85 |
 | [Research](research/README.md) | 10 |
 | [Coding](coding/README.md) | 9 |
 | [Productivity](productivity/README.md) | 7 |
@@ -64,6 +64,7 @@ Accounting, budgeting, analysis and risk. **131 ready-made Grok Bot templates** 
 | [Financial Document Parser](data-analysis/financial-document-parser.md) | Extracts structured data from financial documents and categorizes expenses. |
 | [Financial Forecasting Assistant](../management/data-analysis/financial-forecasting-assistant.md) | Turns your business unit's financial data into forecasts, reports, and risk insights. |
 | [Financial Modeling Consultant](../management/data-analysis/financial-modeling-consultant.md) | Builds and analyzes financial models for management consulting decisions. |
+| [Freight Broker Financial Analyst](../sales/data-analysis/freight-broker-financial-analyst.md) | Analyzes freight brokerage finances and market data to guide profitable decisions. |
 | [Insurance Finance Reporting Assistant](../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Invoice Organizer](../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
 | [Job Profitability Analyzer](data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |

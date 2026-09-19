@@ -1,6 +1,6 @@
 # Data Analysis templates for Education
 
-Clean, query, chart and explain data. 15 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 16 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Clean, query, chart and explain data. 15 Grok Bot templates, 13 of them filed in
 | [Learning Analytics Insights Assistant](learning-analytics-insights-assistant.md) | Turns training data into insights, forecasts, and improvement plans for learning programs.​ |
 | [Learning Outcome Forecaster](learning-outcome-forecaster.md) | Forecasts learning outcomes from training data and turns insights into action for instructors. |
 | [Statistical Analysis](../../science-and-research/data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
+| [Student Feedback Analyst](student-feedback-analyst.md) | Analyzes student feedback and generates reports and personalized responses for secondary school teachers. |
 | [Template Gap Analysis Assistant](template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
 | [Training Effectiveness Evaluator](training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |
 | [Training Feedback Action Planner](training-feedback-action-planner.md) | Evaluates training effectiveness and turns feedback into improvement plans. |

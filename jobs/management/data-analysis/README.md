@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 172 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 173 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -145,6 +145,7 @@ Clean, query, chart and explain data. 172 Grok Bot templates, 93 of them filed i
 | [Route Optimization Assistant](../../operations/data-analysis/route-optimization-assistant.md) | Optimizes delivery routes, estimates times, cuts costs, and monitors fleet performance. |
 | [Route Optimization Planner](../../operations/data-analysis/route-optimization-planner.md) | Optimizes delivery routes, cuts costs, and flags risks for supply chain managers. |
 | [Safety Stock Review](../../operations/data-analysis/safety-stock-review.md) | Sizes or audits safety stock using the z*sigma*sqrt(LT) formula with empirical stress tests per variability class. |
+| [Sales Feedback Action Planner](../../sales/data-analysis/sales-feedback-action-planner.md) | Turns customer feedback into sales insights, trends, and actions. |
 | [Senior Manager Decision Support](senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
 | [Service Journey Optimizer](service-journey-optimizer.md) | Maps, analyzes, and optimizes customer journeys for service managers. |
 | [Service Quality Enhancement Assistant](service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |

@@ -1,11 +1,12 @@
 # Support & Community templates for Customer Support
 
-Triage tickets, answer customers and moderate communities. 37 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 39 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [After-Sales Service Assistant](../../sales/support-and-community/after-sales-service-assistant.md) | Handles after-sales service tasks: follow-ups, troubleshooting, feedback, and more. |
 | [Claims Processing Assistant](claims-processing-assistant.md) | Handles claim inquiries, document collection, status updates, and appeals for insurance customer service. |
 | [Client Communication Manager](../../legal/support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
 | [Community Mod](../../operations/support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
@@ -21,6 +22,7 @@ Triage tickets, answer customers and moderate communities. 37 Grok Bot templates
 | [Emergency Response Coordinator](emergency-response-coordinator.md) | Coordinates emergency response support for insurance policyholders from first contact to claim resolution. |
 | [Escalation Handling Assistant](escalation-handling-assistant.md) | Manages customer escalations from detection to resolution with structured procedures and insights. |
 | [Feedback Loop Manager](../../management/support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
+| [Freight Broker Customer Communication Assistant](../../sales/support-and-community/freight-broker-customer-communication-assistant.md) | Handles customer inquiries, quotes, updates, complaints, and education for freight brokerage clients. |
 | [Freshdesk Automation](freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
 | [Freshservice Automation](../../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
 | [Helpdesk Automation](helpdesk-automation.md) | Browse helpdesk tickets, views, canned responses, and custom fields via Rube MCP. |
