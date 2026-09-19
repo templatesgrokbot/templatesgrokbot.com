@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **659 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **689 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,12 +11,12 @@ Campaigns, SEO, content and growth. **659 ready-made Grok Bot templates** for th
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 231 |
-| [Data Analysis](data-analysis/README.md) | 100 |
-| [Research](research/README.md) | 69 |
-| [Writing & Content](writing-and-content/README.md) | 69 |
-| [Social Media](social-media/README.md) | 61 |
-| [Design](design/README.md) | 28 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 250 |
+| [Data Analysis](data-analysis/README.md) | 103 |
+| [Writing & Content](writing-and-content/README.md) | 73 |
+| [Research](research/README.md) | 70 |
+| [Social Media](social-media/README.md) | 63 |
+| [Design](design/README.md) | 29 |
 | [Generative Art](generative-art/README.md) | 21 |
 | [Coding](coding/README.md) | 13 |
 | [Productivity](productivity/README.md) | 12 |
@@ -49,7 +49,7 @@ Campaigns, SEO, content and growth. **659 ready-made Grok Bot templates** for th
 | [Seo Fundamentals](marketing-and-growth/seo-fundamentals.md) | Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles. |
 | [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 
-[All 231 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 250 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Data Analysis
 
@@ -64,22 +64,7 @@ Campaigns, SEO, content and growth. **659 ready-made Grok Bot templates** for th
 | [Analytics Product](data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
 | [Google Ads Performance Analyzer](data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 
-[All 100 Data Analysis templates →](data-analysis/README.md)
-
-## Research
-
-| Template | What it does |
-|---|---|
-| [Ux Researcher](../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
-| [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
-| [Customer Research](research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
-| [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
-| [Kotler Macro Analyzer](../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
-| [Discover Brand Materials](research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
-| [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
-| [Search Specialist](../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
-
-[All 69 Research templates →](research/README.md)
+[All 103 Data Analysis templates →](data-analysis/README.md)
 
 ## Writing & Content
 
@@ -94,7 +79,22 @@ Campaigns, SEO, content and growth. **659 ready-made Grok Bot templates** for th
 | [Seo Content Auditor](writing-and-content/seo-content-auditor.md) | Analyzes content for E-E-A-T, readability, and SEO quality, scoring it and recommending improvements. |
 | [Devrel Content](writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 
-[All 69 Writing & Content templates →](writing-and-content/README.md)
+[All 73 Writing & Content templates →](writing-and-content/README.md)
+
+## Research
+
+| Template | What it does |
+|---|---|
+| [Ux Researcher](../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
+| [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
+| [Customer Research](research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
+| [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Kotler Macro Analyzer](../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
+| [Discover Brand Materials](research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
+| [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
+| [Search Specialist](../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
+
+[All 70 Research templates →](research/README.md)
 
 ## Social Media
 
@@ -109,7 +109,7 @@ Campaigns, SEO, content and growth. **659 ready-made Grok Bot templates** for th
 | [Social Media Strategy Optimizer](../sales/social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Visual Storytelling Campaign Planner](social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
 
-[All 61 Social Media templates →](social-media/README.md)
+[All 63 Social Media templates →](social-media/README.md)
 
 ## Design
 
@@ -124,7 +124,7 @@ Campaigns, SEO, content and growth. **659 ready-made Grok Bot templates** for th
 | [Theme Factory](../creatives/design/theme-factory.md) | Generate or apply curated slide-deck themes with color scales, fonts, and WCAG AA contrast. |
 | [Vaporwave](../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 
-[All 28 Design templates →](design/README.md)
+[All 29 Design templates →](design/README.md)
 
 ## Generative Art
 

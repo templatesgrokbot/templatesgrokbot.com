@@ -1,6 +1,6 @@
 # Writing & Content templates for Writers
 
-Plan, write and edit articles, copy and documentation. 107 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 108 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -101,6 +101,7 @@ Plan, write and edit articles, copy and documentation. 107 Grok Bot templates, 6
 | [Technical Proposal Assistant](technical-proposal-assistant.md) | Drafts, refines, and manages technical proposals from research to archive. |
 | [Technical Research Documentation Assistant](technical-research-documentation-assistant.md) | Research and documentation assistant for technical writers, from gathering to publishing. |
 | [Technical Writer](technical-writer.md) | Creates and improves technical documentation for APIs, SDKs, and user guides. |
+| [Thought Leadership Content Planner](../../marketing/writing-and-content/thought-leadership-content-planner.md) | Turns your ideas into polished thought leadership content, from research to publication. |
 | [Thread Writer](thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |
 | [Title and Headline Creation Assistant](title-and-headline-creation-assistant.md) | Generates and optimizes titles and headlines for content writers. |
 | [Unslop](unslop.md) | Post-process AI text through unslop CLI to strip AI writing patterns before publishing. |

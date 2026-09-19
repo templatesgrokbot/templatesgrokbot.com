@@ -1,11 +1,12 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 195 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 196 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Academic Research Data Analyst](../../education/data-analysis/academic-research-data-analyst.md) | Cleans, analyzes, visualizes, and interprets academic research data for teaching assistants. |
 | [Aeon](aeon.md) | Runs time series ML tasks using the aeon Python toolkit. |
 | [Agent Evaluation Reporting](../../it-and-development/data-analysis/agent-evaluation-reporting.md) | Turn raw agent evaluation runs into decision-ready reports with explicit outcome categories and denominators. |
 | [Ai Analyzer](../../healthcare/data-analysis/ai-analyzer.md) | AI-driven health analysis with risk prediction and personalized recommendations. |

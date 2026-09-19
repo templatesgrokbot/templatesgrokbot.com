@@ -1,6 +1,6 @@
 # Security & Compliance templates for Operations
 
-Authorised security testing, audits and regulatory work. 95 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 96 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -41,6 +41,7 @@ Authorised security testing, audits and regulatory work. 95 Grok Bot templates, 
 | [Gdpr Data Handling](../../it-and-development/security-and-compliance/gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
 | [Hazard Identification Assistant](hazard-identification-assistant.md) | Turns workplace data and documents into hazard identifications, risk assessments, and safety actions. |
 | [Hazardous Material Management Assistant](hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
+| [Health & Safety Compliance Assistant](health-safety-compliance-assistant.md) | Helps Heads of Operations run health and safety compliance: inspections, policies, training, risk, audits, incidents, and reporting. |
 | [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [International Procurement Compliance Guide](international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
 | [Jfrog Sec](../../it-and-development/security-and-compliance/jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |

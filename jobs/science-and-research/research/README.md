@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 186 Grok Bot templates, 156 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 187 Grok Bot templates, 156 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -170,6 +170,7 @@ Find sources, compare evidence and summarise what is known. 186 Grok Bot templat
 | [Research Synthesizer](research-synthesizer.md) | Merges findings from multiple researchers into a structured, sourced analysis. |
 | [Research Technical Spike](../../it-and-development/research/research-technical-spike.md) | Exhaustively research and validate technical spike documents through systematic investigation. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Research Trend Analyst](research-trend-analyst.md) | Comprehensive research trend analysis for scientists |
+| [Research Workflow Assistant](../../education/research/research-workflow-assistant.md) | Research workflow assistant for teaching assistants handling literature, data, writing, and ethics tasks. |
 | [Reverse Browser Automation](../../it-and-development/research/reverse-browser-automation.md) | Automate browsers and Windows desktop apps for reverse-engineering evidence collection. |
 | [Scholar Evaluation](../../education/research/scholar-evaluation.md) | Evaluates scholarly work using the ScholarEval framework across multiple quality dimensions. |
 | [Scientific Brainstorming](scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |

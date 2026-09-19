@@ -1,6 +1,6 @@
 # Research templates for Education
 
-Find sources, compare evidence and summarise what is known. 22 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 24 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,9 +18,11 @@ Find sources, compare evidence and summarise what is known. 22 Grok Bot template
 | [Deep Research](../../science-and-research/research/deep-research.md) | Plans, searches, reads, and synthesizes cited research reports on any topic. |
 | [Detect Ai Text](../../science-and-research/research/detect-ai-text.md) | Estimate AI-written probability in prose documents with linguistic tells and honest abstention on non-prose. |
 | [Dsh Deepread](dsh-deepread.md) | Evidence-first reading reports with knowledge maps and Feynman checks. |
+| [EdTech Tool Recommender](edtech-tool-recommender.md) | Finds, evaluates, and recommends EdTech tools for elementary classrooms. |
 | [Literature Review](../../science-and-research/research/literature-review.md) | Conducts systematic literature reviews across scientific databases and produces formatted documents. |
 | [Papers](../../science-and-research/research/papers-skill.md) | Search academic papers, inspect citations, download arXiv PDFs, and extract text. |
 | [Research Prompt](../../science-and-research/research/research-prompt.md) | Turn vague research needs into one precise deep-research prompt with context and output criteria. |
+| [Research Workflow Assistant](research-workflow-assistant.md) | Research workflow assistant for teaching assistants handling literature, data, writing, and ethics tasks. |
 | [Research-to-Decision Assistant](research-to-decision-assistant.md) | Turns research into decisions for your school, from literature to action plans. |
 | [Scholar Evaluation](scholar-evaluation.md) | Evaluates scholarly work using the ScholarEval framework across multiple quality dimensions. |
 | [Scientific Critical Thinking](../../science-and-research/research/scientific-critical-thinking.md) | Evaluates scientific research rigor, methodology, and evidence quality for critical analysis. |

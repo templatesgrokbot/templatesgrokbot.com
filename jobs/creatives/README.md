@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **435 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **438 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,13 +12,13 @@ Designers, artists and content creators. **435 ready-made Grok Bot templates** f
 | Kind of work | Templates |
 |---|---:|
 | [Design](design/README.md) | 157 |
-| [Writing & Content](writing-and-content/README.md) | 51 |
+| [Writing & Content](writing-and-content/README.md) | 52 |
 | [Generative Art](generative-art/README.md) | 46 |
 | [Generative Code](generative-code/README.md) | 45 |
 | [Coding](coding/README.md) | 34 |
 | [Video Editing](video-editing/README.md) | 20 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 19 |
 | [Social Media](social-media/README.md) | 18 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 17 |
 | [Generative Video](generative-video/README.md) | 9 |
 | [Research](research/README.md) | 8 |
 | [Office Tools](office-tools/README.md) | 7 |
@@ -53,15 +53,15 @@ Designers, artists and content creators. **435 ready-made Grok Bot templates** f
 | Template | What it does |
 |---|---|
 | [Podcast Metadata Specialist](../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
+| [Seo Content Writer](../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Seo Aeo Landing Page Writer](../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
 | [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 | [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Content Creation](../marketing/writing-and-content/marketing-content-creation.md) | Draft channel-specific marketing content that is SEO-aware and free of buzzwords. |
-| [Video Script writer](writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
 
-[All 51 Writing & Content templates →](writing-and-content/README.md)
+[All 52 Writing & Content templates →](writing-and-content/README.md)
 
 ## Generative Art
 
@@ -123,6 +123,21 @@ Designers, artists and content creators. **435 ready-made Grok Bot templates** f
 
 [All 20 Video Editing templates →](video-editing/README.md)
 
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Brand Review](../marketing/marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
+| [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
+| [Popup Cro](../marketing/marketing-and-growth/popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
+| [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
+| [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
+| [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
+| [Video SEO Optimizer](marketing-and-growth/video-seo-optimizer.md) | Optimizes video SEO: keywords, titles, descriptions, tags, transcripts, thumbnails, metadata, competitors, sitemaps, embedding, and platform… |
+| [Content Repurposing Planner](../marketing/marketing-and-growth/content-repurposing-planner.md) | Repurpose existing content into fresh formats across platforms, from research to distribution. |
+
+[All 19 Marketing & Growth templates →](marketing-and-growth/README.md)
+
 ## Social Media
 
 | Template | What it does |
@@ -137,21 +152,6 @@ Designers, artists and content creators. **435 ready-made Grok Bot templates** f
 | [Social Post Writer Seo](../marketing/social-media/social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |
 
 [All 18 Social Media templates →](social-media/README.md)
-
-## Marketing & Growth
-
-| Template | What it does |
-|---|---|
-| [Brand Review](../marketing/marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
-| [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
-| [Popup Cro](../marketing/marketing-and-growth/popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
-| [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
-| [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
-| [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
-| [Video SEO Optimizer](marketing-and-growth/video-seo-optimizer.md) | Optimizes video SEO: keywords, titles, descriptions, tags, transcripts, thumbnails, metadata, competitors, sitemaps, embedding, and platform… |
-| [Identity Mirror](../marketing/marketing-and-growth/identity-mirror.md) | Mirror audience identity to make brand messages feel personally resonant. |
-
-[All 17 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Generative Video
 

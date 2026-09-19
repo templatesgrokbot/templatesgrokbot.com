@@ -1,6 +1,6 @@
 # Writing & Content templates for Human Resources
 
-Plan, write and edit articles, copy and documentation. 22 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,12 +8,18 @@ Plan, write and edit articles, copy and documentation. 22 Grok Bot templates, 13
 |---|---|
 | [Academic Cv Builder](../../education/writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
 | [Compliance Communication Planner](../../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
+| [Conflict Resolution Advisor](conflict-resolution-advisor.md) | Helps HR directors analyze, resolve, and prevent workplace conflicts with tailored advice and resources. |
+| [Conflict Resolution Strategist](conflict-resolution-strategist.md) | Builds conflict resolution strategies, policies, training, and tools for HR consultants. |
 | [Cover Letter Generator](cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Cv Generator](cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [Employee Handbook Builder](employee-handbook-builder.md) | Builds a plain-English employee handbook for small businesses, flagging state-law checks for attorney review. |
+| [Employee Relations Policy Assistant](employee-relations-policy-assistant.md) | Develops, reviews, and communicates employee relations policies with research, drafting, and stakeholder support. |
+| [Employee Wellness Program Assistant](employee-wellness-program-assistant.md) | Designs and runs employee wellness programs from surveys to challenges. |
 | [Employment Contract Templates](employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Executive Resume Writer](executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 | [Freight Brokerage Training Developer](../../sales/writing-and-content/freight-brokerage-training-developer.md) | Builds and runs freight brokerage training programs from onboarding to ongoing development. |
+| [HR Policy Clarification Assistant](hr-policy-clarification-assistant.md) | Clarifies policies for HR directors by drafting, explaining, and auditing company procedures. |
+| [HR Policy Development Assistant](hr-policy-development-assistant.md) | Develops, reviews, and rolls out HR policies for consultants. |
 | [Internal Comms Community](../../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Internal Communication Planner](../../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
 | [Interview Prep Generator](interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
@@ -27,6 +33,7 @@ Plan, write and edit articles, copy and documentation. 22 Grok Bot templates, 13
 | [Resume Section Builder](resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
 | [Resume Tailor](../../operations/writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
 | [SOP Writer](../../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
+| [Talent Acquisition Strategy Assistant](talent-acquisition-strategy-assistant.md) | Streamlines talent acquisition from sourcing to onboarding with AI-driven insights and content. |
 | [Tech Resume Optimizer](../../it-and-development/writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 
 [← All Human Resources templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/human-resources)

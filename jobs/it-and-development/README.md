@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,493 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,510 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,8 +12,8 @@ Engineers, DevOps, security and IT teams. **2,493 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 1,013 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 357 |
-| [Security & Compliance](security-and-compliance/README.md) | 241 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 369 |
+| [Security & Compliance](security-and-compliance/README.md) | 244 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 210 |
 | [Data Analysis](data-analysis/README.md) | 153 |
 | [Design](design/README.md) | 89 |
@@ -22,12 +22,12 @@ Engineers, DevOps, security and IT teams. **2,493 ready-made Grok Bot templates*
 | [Productivity](productivity/README.md) | 75 |
 | [Knowledge Management](knowledge-management/README.md) | 44 |
 | [Prompt Engineering](prompt-engineering/README.md) | 33 |
-| [Writing & Content](writing-and-content/README.md) | 26 |
+| [Writing & Content](writing-and-content/README.md) | 27 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 18 |
 | [Generative Art](generative-art/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 7 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
 | [Support & Community](support-and-community/README.md) | 6 |
 | [Self-Improvement](self-improvement/README.md) | 4 |
 | [Video Editing](video-editing/README.md) | 3 |
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,493 ready-made Grok Bot templates*
 | [Zapier Make Patterns](cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 357 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 369 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Security & Compliance
 
@@ -80,7 +80,7 @@ Engineers, DevOps, security and IT teams. **2,493 ready-made Grok Bot templates*
 | [Ethical Hacking Methodology](security-and-compliance/ethical-hacking-methodology.md) | Guide users through the five-stage ethical hacking lifecycle from recon to reporting for authorized testing. |
 | [Smart Contract Auditor](security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
 
-[All 241 Security & Compliance templates →](security-and-compliance/README.md)
+[All 244 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Generative AI and LLM
 
@@ -215,7 +215,7 @@ Engineers, DevOps, security and IT teams. **2,493 ready-made Grok Bot templates*
 | [Se Technical Writer](writing-and-content/se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
 | [Tech Resume Optimizer](writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 
-[All 26 Writing & Content templates →](writing-and-content/README.md)
+[All 27 Writing & Content templates →](writing-and-content/README.md)
 
 ## Marketing & Growth
 
@@ -284,6 +284,7 @@ Engineers, DevOps, security and IT teams. **2,493 ready-made Grok Bot templates*
 | [Microsoft Study Mode](../education/teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
 | [Demonstrate Understanding](../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Technical Content Evaluator](../education/teaching-and-tutoring/technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
+| [IT Training Content Builder](teaching-and-tutoring/it-training-content-builder.md) | Builds and maintains staff training materials and interactive support for IT systems. |
 | [Yann LeCun Philosophy](../education/teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
 | [Technical Tutorials](../education/teaching-and-tutoring/technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
 | [Code Documentation Code Explain](../education/teaching-and-tutoring/code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |

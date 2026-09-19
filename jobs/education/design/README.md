@@ -1,6 +1,6 @@
 # Design templates for Education
 
-Interfaces, brands, layouts and visual systems. 14 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 15 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Interfaces, brands, layouts and visual systems. 14 Grok Bot templates, 13 of the
 | [Scientific Slides](scientific-slides.md) | Build slide decks and presentations for research talks. |
 | [Training Visuals Enhancer](training-visuals-enhancer.md) | Elevates training presentation visuals with AI-driven design, data, and engagement guidance. |
 | [Virtual Training Design Assistant](virtual-training-design-assistant.md) | Designs and improves virtual training environments for instructors. |
+| [Visual Aid Design Assistant](visual-aid-design-assistant.md) | Creates visual aids for teaching assistants from slides to VR experiences. |
 | [Visual Learning Materials Creator](visual-learning-materials-creator.md) | Turns lesson concepts into visual learning materials across formats for headteachers. |
 | [VR Learning Content Designer](vr-learning-content-designer.md) | Designs and develops VR learning content from storyboard to QA. |
 

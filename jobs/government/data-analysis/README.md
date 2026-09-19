@@ -1,6 +1,6 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 58 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 61 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -34,12 +34,14 @@ Clean, query, chart and explain data. 58 Grok Bot templates, 0 of them filed in 
 | [Environmental Risk Assessment Assistant](../../science-and-research/data-analysis/environmental-risk-assessment-assistant.md) | Assists environmental engineers with risk assessment, analysis, reporting, and compliance. |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
+| [Gap Closure Training Planner](../../human-resources/data-analysis/gap-closure-training-planner.md) | Identifies training needs and aligns development programs with organizational goals. |
 | [Hydrogeology Data Analyst](../../science-and-research/data-analysis/hydrogeology-data-analyst.md) | Analyzes hydrogeological data and drafts reports, models, and plans for groundwater work. |
 | [Junta Auctioneers](../../operations/data-analysis/junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Market Trend Analysis Assistant](../../operations/data-analysis/market-trend-analysis-assistant.md) | Analyzes market trends and compiles reports to support procurement decisions. |
 | [Media Monitoring Assistant](../../pr-and-communications/data-analysis/media-monitoring-assistant.md) | Audits crisis communication plans, media coverage, and team performance to strengthen crisis response. |
 | [Natural Hazard Analysis Assistant](../../science-and-research/data-analysis/natural-hazard-analysis-assistant.md) | Turns geological and climate data into hazard analyses, maps, and preparedness plans. |
 | [Operational KPI Dashboard Designer](../../operations/data-analysis/operational-kpi-dashboard-designer.md) | Designs and maintains operational KPI dashboards with data integration, analysis, and reporting. |
+| [Performance Management Guidance](../../human-resources/data-analysis/performance-management-guidance.md) | Guides HR directors through every step of performance management, from criteria to communication. |
 | [Performance Metrics Manager](../../management/data-analysis/performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Procurement Risk Assessor](../../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
 | [Procurement Risk Management Assistant](../../operations/data-analysis/procurement-risk-management-assistant.md) | Procurement risk management assistant that assesses, mitigates, and monitors supplier, contract, and supply chain risks. |
@@ -64,5 +66,6 @@ Clean, query, chart and explain data. 58 Grok Bot templates, 0 of them filed in 
 | [Vendor Proposal Comparator](../../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Waste Management Analyst](../../science-and-research/data-analysis/waste-management-analyst.md) | Analyzes waste streams, ensures compliance, and optimizes sustainable waste management for environmental engineers. |
 | [Water Quality Assessment Assistant](../../science-and-research/data-analysis/water-quality-assessment-assistant.md) | Assesses water quality data, ensures compliance, and designs monitoring tools for environmental engineers. |
+| [Workplace Culture Assessment Assistant](../../human-resources/data-analysis/workplace-culture-assessment-assistant.md) | Designs, runs, and analyzes workplace culture assessments, from surveys to action plans. |
 
 [← All Government templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/government)

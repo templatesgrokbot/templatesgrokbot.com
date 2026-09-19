@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 100 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 103 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -35,6 +35,8 @@ Clean, query, chart and explain data. 100 Grok Bot templates, 28 of them filed i
 | [Competitive Social Media Analyst](competitive-social-media-analyst.md) | Competitive social media analysis for marketing strategists, turning competitor data into actionable insights. |
 | [Consultant Segment Profiler](../../management/data-analysis/consultant-segment-profiler.md) | Customer segmentation assistant for management consultants to analyze, profile, and target customer segments. |
 | [Content Analytics Strategist](../../pr-and-communications/data-analysis/content-analytics-strategist.md) | Analyzes content performance, audience, and trends to guide your content strategy. |
+| [Content Performance Analyzer](content-performance-analyzer.md) | Analyzes content performance across channels and metrics to guide strategy. |
+| [Content ROI Analyst](content-roi-analyst.md) | Analyzes content performance and ROI to guide marketing decisions. |
 | [Customer Demographic Insight Engine](../../management/data-analysis/customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
 | [Customer Feedback Insight Analyst](../../management/data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
 | [Customer Feedback Insight Analyzer](../../management/data-analysis/customer-feedback-insight-analyzer.md) | Turns customer feedback into prioritized insights and actions for brand strategy. |
@@ -82,6 +84,7 @@ Clean, query, chart and explain data. 100 Grok Bot templates, 28 of them filed i
 | [Marketing Campaign Effectiveness Analyst](../../science-and-research/data-analysis/marketing-campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to measure effectiveness and guide strategy. |
 | [Marketing Data Analyst](../../sales/data-analysis/marketing-data-analyst.md) | Turns marketing data into insights, reports, and dashboards for digital marketing managers. |
 | [Marketing Feedback Analyzer](../../sales/data-analysis/marketing-feedback-analyzer.md) | Turns customer feedback into actionable insights for marketing strategies. |
+| [Marketing Feedback Insight Analyst](../../executives-and-strategy/data-analysis/marketing-feedback-insight-analyst.md) | Analyzes customer feedback to deliver actionable marketing insights. |
 | [Marketing Metrics Analyst](../../management/data-analysis/marketing-metrics-analyst.md) | Turns your marketing data into clear metrics, insights, and decisions. |
 | [Mixpanel Automation](../../it-and-development/data-analysis/mixpanel-automation.md) | Automate Mixpanel analytics: events, funnels, cohorts, profiles, and JQL queries via Rube MCP. |
 | [News Sentiment Engine](news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |

@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Real Estate and Construction
 
-Prospecting, outreach, proposals and negotiating terms. 13 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 14 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Prospecting, outreach, proposals and negotiating terms. 13 Grok Bot templates, 4
 | [Real Estate Networking Partner](real-estate-networking-partner.md) | Finds events, partners, and contacts; drafts outreach; and builds your real estate network. |
 | [Sales Call Script Builder](../../sales/sales-and-negotiation/sales-call-script-builder.md) | Builds and refines personalized sales call scripts that engage and convert. |
 | [Sales Script Builder](../../sales/sales-and-negotiation/sales-script-builder.md) | Crafts and refines sales scripts for sales managers, from research to follow-up. |
+| [Supplier Negotiation Assistant](../../operations/sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
 | [Sustainable Property Assistant](sustainable-property-assistant.md) | Helps real estate brokers market, advise on, and close deals for sustainable and green properties. |
 | [Vendor Evaluation Manager](../../operations/sales-and-negotiation/vendor-evaluation-manager.md) | Manages vendor evaluation from research to onboarding and performance tracking. |
 | [Vendor Negotiation Strategist](../../operations/sales-and-negotiation/vendor-negotiation-strategist.md) | Prepares, runs, and reviews vendor negotiations from research to contract for a Director of Operations. |

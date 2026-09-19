@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 148 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 150 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -49,6 +49,7 @@ Plan, prioritise and clear the recurring admin. 148 Grok Bot templates, 49 of th
 | [Editorial Calendar Management Assistant](../../pr-and-communications/productivity/editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |
 | [Electrification Project Planner](../../science-and-research/productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Employee Scheduling Optimizer](../../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
+| [Equipment Maintenance Program Builder](../../operations/productivity/equipment-maintenance-program-builder.md) | Builds and runs a complete equipment maintenance program from inspection to compliance tracking. |
 | [Experiment Planning Assistant](../../science-and-research/productivity/experiment-planning-assistant.md) | Plans experiments from literature to approval, with budget, risk, and team coordination. |
 | [Facility Ops Chat Manager](../../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
 | [Famulor](../../operations/productivity/famulor-skill.md) | Operate Famulor assistants, calls, campaigns, messaging, and workspace settings through its MCP server. |
@@ -94,6 +95,7 @@ Plan, prioritise and clear the recurring admin. 148 Grok Bot templates, 49 of th
 | [Onboarding Checklist Generator](onboarding-checklist-generator.md) | Generates customized client onboarding checklists with phases, owners, dependencies, and email templates. |
 | [Onboarding Cro](../../product-development/productivity/onboarding-cro.md) | Audits and optimizes user onboarding to reduce time-to-value and increase activation rates. |
 | [Operations Risk Assessment Guide](../../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
+| [Operations Risk Mitigation Planner](../../operations/productivity/operations-risk-mitigation-planner.md) | Identifies, assesses, and mitigates operational risks with structured plans and monitoring. |
 | [Ops Tech Integration Planner](../../operations/productivity/ops-tech-integration-planner.md) | Plans and manages technology integration projects for operations managers. |
 | [Osterwalder Canvas Architect](../../executives-and-strategy/productivity/osterwalder-canvas-architect.md) | Iteratively build and audit logically consistent 9-block Business Model Canvases. |
 | [Outlook Automation](../../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |

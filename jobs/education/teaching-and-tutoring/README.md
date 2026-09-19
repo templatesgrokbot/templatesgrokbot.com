@@ -1,15 +1,19 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 85 Grok Bot templates, 71 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 108 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Academic Integrity Assistant](academic-integrity-assistant.md) | Detects plagiarism, verifies citations, and educates on academic integrity for teaching assistants. |
+| [Accessibility Adjustments Assistant](accessibility-adjustments-assistant.md) | Makes teaching materials accessible for all students. |
 | [Activity Ideas Assistant](activity-ideas-assistant.md) | Generates classroom activity ideas across subjects and formats for teachers. |
 | [Adaptive Learning Pathway Designer](adaptive-learning-pathway-designer.md) | Personalizes eLearning pathways, assessments, and feedback for each learner. |
+| [Art and Craft Project Planner](art-and-craft-project-planner.md) | Generates art and craft project ideas, plans, and guidance for elementary classrooms. |
 | [Chemical Engineering Study Assistant](../../science-and-research/teaching-and-tutoring/chemical-engineering-study-assistant.md) | Supports chemical engineering students and professionals with study help, research, and career guidance. |
 | [Classroom Activity Generator](classroom-activity-generator.md) | Generates classroom activity ideas and interactive learning experiences for secondary school teachers. |
+| [Classroom Reading Planner](classroom-reading-planner.md) | Finds books, builds questions, and plans reading activities for your elementary classroom. |
 | [Classroom Routine Architect](classroom-routine-architect.md) | Manages classroom routines, behavior, and instruction with AI-assisted planning and tracking. |
 | [Code Documentation Code Explain](code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |
 | [Communication Workshop Manager](../../pr-and-communications/teaching-and-tutoring/communication-workshop-manager.md) | Plans, runs, and improves communication training workshops from start to finish. |
@@ -24,21 +28,33 @@ Explain, quiz and guide someone through a subject. 85 Grok Bot templates, 71 of 
 | [Customer Training Content Developer](../../customer-support/teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
 | [Demonstrate Understanding](demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Digital Teaching Tools Assistant](digital-teaching-tools-assistant.md) | Helps primary teachers plan, run, and assess digital lessons with tools and resources. |
+| [Diversity Training Program Assistant](../../human-resources/teaching-and-tutoring/diversity-training-program-assistant.md) | Designs, runs, and evaluates inclusive workplace diversity training programs. |
 | [Educational Game Design Assistant](educational-game-design-assistant.md) | Turns your teaching goals into playable educational game concepts, mechanics, and content. |
 | [Educational Game Selector](educational-game-selector.md) | Recommends and integrates educational games for primary school classrooms. |
+| [Elementary Fun Fact Activity Maker](elementary-fun-fact-activity-maker.md) | Turns fun facts into ready-to-use classroom activities for elementary teachers. |
+| [Elementary Grading Assistant](elementary-grading-assistant.md) | Grades student work, builds rubrics, and tracks progress for elementary teachers. |
+| [Elementary Homework Support](elementary-homework-support.md) | Homework support for elementary teachers: clarify, plan, solve, and review assignments. |
+| [Elementary Quiz Creator](elementary-quiz-creator.md) | Creates, formats, and reviews quizzes and tests for elementary classrooms, with answer keys and grading support. |
+| [Elementary Teaching Resource Organizer](elementary-teaching-resource-organizer.md) | Organize lessons, materials, and assessments for your elementary classroom with AI assistance. |
+| [Elementary Worksheet Creator](elementary-worksheet-creator.md) | Builds complete, personalized worksheets for elementary classrooms from topic to final proof. |
 | [Employee Training Program Coordinator](../../operations/teaching-and-tutoring/employee-training-program-coordinator.md) | Designs, runs, and improves your team's training programs end to end. |
 | [Environmental Education Content Creator](../../science-and-research/teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
 | [Essay Feedback Assistant](essay-feedback-assistant.md) | Analyzes student essays and returns structured feedback for teachers. |
+| [Exam Question Generator](exam-question-generator.md) | Generate, refine, and tailor exam questions for your courses from topic to final review. |
 | [Examprep Ai](examprep-ai.md) | Turns syllabi and past papers into a ranked study roadmap ordered Easy to Hard. |
 | [Explain Like Socrates](explain-like-socrates.md) | Explain ideas through Socratic dialogue and guided reasoning. |
 | [Flashcard Generator](flashcard-generator.md) | Turns any content into spaced-repetition flashcards in multiple formats. |
 | [Gamified Training Program Designer](gamified-training-program-designer.md) | Designs and runs gamified training programs, from content to rewards, for training coordinators. |
 | [Geoffrey Hinton](geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
 | [Grading Assistant for Teachers](grading-assistant-for-teachers.md) | Handles grade calculations, feedback, rubrics, and analytics for secondary school teachers. |
+| [History Storytelling Assistant](history-storytelling-assistant.md) | Turns history topics into engaging, accurate stories and interactive lessons for primary students. |
 | [History Visualization Assistant](history-visualization-assistant.md) | Turns historical events into vivid, interactive visual lessons for secondary school students. |
+| [Homework Support Assistant](homework-support-assistant.md) | Homework help for teaching assistants: clarify, guide, proofread, and support students. |
 | [Instructional Design Assistant](../../writers/teaching-and-tutoring/instructional-design-assistant.md) | Designs instructional content, assessments, and learning experiences from research to evaluation. |
+| [Interactive Module Creator](interactive-module-creator.md) | Interactive learning module creator for teaching assistants, from research to adaptive content. |
 | [Interactive Quiz Designer](interactive-quiz-designer.md) | Designs engaging, interactive quizzes for training instructors. |
 | [Interactive Training Designer](interactive-training-designer.md) | Designs and evaluates interactive training modules, materials, and tools for engaging learning. |
+| [Interactive Training Module Designer](../../human-resources/teaching-and-tutoring/interactive-training-module-designer.md) | Designs and builds interactive training modules with AI-generated content, scenarios, and assessments. |
 | [Interview Prep](interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
 | [Language Practice Activity Generator](language-practice-activity-generator.md) | Creates language practice activities and feedback for secondary school students. |
 | [Learn](learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
@@ -74,20 +90,27 @@ Explain, quiz and guide someone through a subject. 85 Grok Bot templates, 71 of 
 | [Sales Training Program Architect](../../sales/teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
 | [Science Experiment Planner](science-experiment-planner.md) | Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment. |
 | [Ship Learn Next](ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
+| [Soft Templates Workshop Designer](../../human-resources/teaching-and-tutoring/soft-templates-workshop-designer.md) | Designs, runs, and improves soft strengths development workshops for training specialists. |
 | [Staff Training Module Builder](staff-training-module-builder.md) | Builds and manages staff training modules for headteachers, from planning to evaluation. |
 | [Student Behavior Management Assistant](student-behavior-management-assistant.md) | Helps primary school teachers manage student behavior with plans, tracking, and communication. |
+| [Student Feedback Generator](student-feedback-generator.md) | Generates constructive feedback on student work and participation for teaching assistants. |
 | [Study Buddy](study-buddy.md) | Drills you on your own material with spaced repetition instead of re-reading notes. |
 | [Study Guide Creator for Teachers](study-guide-creator-for-teachers.md) | Creates and refines study guides for secondary school teachers and their students. |
 | [Subject Explanation Assistant](subject-explanation-assistant.md) | Prepares engaging lessons and resources for secondary school subject teaching. |
 | [Teach](teach.md) | Teach any topic through structured lessons, reference docs, and learning records. |
 | [Teacher Feedback Assistant](teacher-feedback-assistant.md) | Delivers structured feedback and recommendations from classroom observations to headteachers. |
 | [Teacher Professional Development Assistant](teacher-professional-development-assistant.md) | Professional development planner and classroom strategies assistant for teachers. |
+| [Teaching Assistant Content Generator](teaching-assistant-content-generator.md) | Creates teaching materials and assessments for a teaching assistant's classroom needs. |
+| [Tech Upskilling Program Coordinator](../../human-resources/teaching-and-tutoring/tech-upskilling-program-coordinator.md) | Designs, runs, and evaluates tech upskilling programs for your organization. |
 | [Technical Content Evaluator](technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
 | [Technical Tutorials](technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
 | [Technology Adoption Training Planner](technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
 | [Training Accessibility Assistant](training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
 | [Training Program Developer](../../sales/teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
+| [Training Program Implementation Assistant](../../human-resources/teaching-and-tutoring/training-program-implementation-assistant.md) | Designs, delivers, and improves training programs from needs analysis to follow-up. |
 | [Tutorial Engineer](tutorial-engineer.md) | Turns code into step-by-step tutorials with hands-on exercises and progressive learning. |
+| [Virtual Field Trip Planner](virtual-field-trip-planner.md) | Plans and prepares virtual field trips for elementary classrooms, from research to troubleshooting. |
+| [Virtual Training Facilitator](../../human-resources/teaching-and-tutoring/virtual-training-facilitator.md) | Plans, runs, and improves virtual training sessions for training specialists. |
 | [Warren Buffett](warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
 | [Yann LeCun Debate](yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
 | [Yann LeCun Philosophy](yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |

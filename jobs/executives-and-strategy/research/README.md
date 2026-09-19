@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 46 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 47 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -34,6 +34,7 @@ Find sources, compare evidence and summarise what is known. 46 Grok Bot template
 | [Kotler Macro Analyzer](kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
 | [Market Analysis Navigator](../../management/research/market-analysis-navigator.md) | Runs full market analysis for management consultants, from research to forecasting. |
 | [Market Research Analyst](../../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
+| [Market Research Insight Assistant](market-research-insight-assistant.md) | Turns market research data into actionable insights for marketing leaders. |
 | [Market Research Reports](../../marketing/research/market-research-reports.md) | Generates 50+ page consulting-grade market research reports with LaTeX formatting, visuals, and strategic frameworks. |
 | [Market Researcher](../../marketing/research/market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
 | [Market Scout](../../marketing/research/market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **190 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **192 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Authors, copywriters, editors and journalists. **190 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 107 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 20 |
+| [Writing & Content](writing-and-content/README.md) | 108 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 21 |
 | [Research](research/README.md) | 20 |
 | [Data Analysis](data-analysis/README.md) | 7 |
 | [Design](design/README.md) | 6 |
@@ -130,6 +130,7 @@ Authors, copywriters, editors and journalists. **190 ready-made Grok Bot templat
 | [Technical Proposal Assistant](writing-and-content/technical-proposal-assistant.md) | Drafts, refines, and manages technical proposals from research to archive. |
 | [Technical Research Documentation Assistant](writing-and-content/technical-research-documentation-assistant.md) | Research and documentation assistant for technical writers, from gathering to publishing. |
 | [Technical Writer](writing-and-content/technical-writer.md) | Creates and improves technical documentation for APIs, SDKs, and user guides. |
+| [Thought Leadership Content Planner](../marketing/writing-and-content/thought-leadership-content-planner.md) | Turns your ideas into polished thought leadership content, from research to publication. |
 | [Thread Writer](writing-and-content/thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |
 | [Title and Headline Creation Assistant](writing-and-content/title-and-headline-creation-assistant.md) | Generates and optimizes titles and headlines for content writers. |
 | [Unslop](writing-and-content/unslop.md) | Post-process AI text through unslop CLI to strip AI writing patterns before publishing. |
@@ -157,6 +158,7 @@ Authors, copywriters, editors and journalists. **190 ready-made Grok Bot templat
 | [Email Campaign Copywriter](../sales/marketing-and-growth/email-campaign-copywriter.md) | Drafts, personalizes, and tests email campaign copy for higher engagement and conversions. |
 | [Guest Blogging Manager](marketing-and-growth/guest-blogging-manager.md) | Finds guest blogging targets, pitches, writes, tracks, and promotes posts to grow your blog's reach. |
 | [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
+| [Marketing Content Ideation Assistant](../executives-and-strategy/marketing-and-growth/marketing-content-ideation-assistant.md) | Generates and refines content ideas, outlines, and scripts for marketing campaigns. |
 | [Reader Engagement Planner](marketing-and-growth/reader-engagement-planner.md) | Plans and drafts reader engagement activities for bloggers, from quizzes to events. |
 | [Seo Aeo Content Cluster](../marketing/marketing-and-growth/seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |
 | [Seo Aeo Content Quality Auditor](../marketing/marketing-and-growth/seo-aeo-content-quality-auditor.md) | Audit any page or post for SEO and AEO, get scored reports and fix lists. |

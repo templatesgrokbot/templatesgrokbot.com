@@ -1,6 +1,6 @@
 # Grok Bot templates for Healthcare
 
-Clinicians, care teams and health administrators. **65 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Clinicians, care teams and health administrators. **68 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,10 +11,10 @@ Clinicians, care teams and health administrators. **65 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 26 |
+| [Data Analysis](data-analysis/README.md) | 27 |
 | [Research](research/README.md) | 13 |
+| [Productivity](productivity/README.md) | 9 |
 | [Security & Compliance](security-and-compliance/README.md) | 9 |
-| [Productivity](productivity/README.md) | 7 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
 | [Writing & Content](writing-and-content/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
@@ -42,6 +42,7 @@ Clinicians, care teams and health administrators. **65 ready-made Grok Bot templ
 | [Pydicom](data-analysis/pydicom.md) | Read, write, and anonymize DICOM medical imaging files using Python. No image analysis or AI inference. You are a DICOM file handler. You can read, wr |
 | [Rdkit](../science-and-research/data-analysis/rdkit.md) | Performs molecular analysis and manipulation for cheminformatics research. |
 | [Rehabilitation Analyzer](data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
+| [Resource Allocation Optimizer](../operations/data-analysis/resource-allocation-optimizer.md) | Analyzes resources, forecasts demand, and optimizes allocation for operations leaders. |
 | [Risk Management Specialist](../operations/data-analysis/risk-management-specialist.md) | Manages ISO 14971 risk management files for medical devices throughout the product lifecycle. |
 | [Senior Manager Decision Support](../management/data-analysis/senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
 | [Sexual Health Analyzer](data-analysis/sexual-health-analyzer.md) | Analyze sexual health records and identify risk patterns requiring medical evaluation. |
@@ -69,6 +70,20 @@ Clinicians, care teams and health administrators. **65 ready-made Grok Bot templ
 | [Travel Health Analyzer](research/travel-health-analyzer.md) | Analyze travel health risks, recommend vaccines, and generate multilingual emergency cards using WHO/CDC data. All advice requires doctor review. No d |
 | [Uniprot Database](../science-and-research/research/uniprot-database.md) | Retrieve protein sequences, annotations, and ID mappings from UniProt via REST API. |
 
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Calibration and Maintenance Scheduler](../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
+| [Call Handling Assistant](../customer-support/productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
+| [Crisis Management Planner](../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
+| [Emergency Card Generator](productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
+| [Employee Scheduling Optimizer](../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
+| [Lab Stock Forecast Alerts](../science-and-research/productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
+| [Operations Crisis Navigator](../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
+| [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
+| [Professional Development Tracker](../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
+
 ## Security & Compliance
 
 | Template | What it does |
@@ -82,18 +97,6 @@ Clinicians, care teams and health administrators. **65 ready-made Grok Bot templ
 | [Laboratory Quality Control Assistant](../science-and-research/security-and-compliance/laboratory-quality-control-assistant.md) | Manages lab quality control tasks from data analysis to audits and compliance. |
 | [QC Compliance Report Builder](../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
 | [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Calibration and Maintenance Scheduler](../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
-| [Call Handling Assistant](../customer-support/productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
-| [Crisis Management Planner](../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
-| [Emergency Card Generator](productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
-| [Employee Scheduling Optimizer](../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
-| [Lab Stock Forecast Alerts](../science-and-research/productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
-| [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
 
 ## Self-Improvement
 

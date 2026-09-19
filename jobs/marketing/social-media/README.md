@@ -1,6 +1,6 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 61 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 63 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -39,6 +39,7 @@ Plan, write and measure posts across networks. 61 Grok Bot templates, 50 of them
 | [Social Media Campaign Manager](social-media-campaign-manager.md) | Plan, execute, and optimize social media campaigns with data-backed insights and content support. |
 | [Social Media Campaign Planner](social-media-campaign-planner.md) | Plans and executes social media campaigns from research to reporting. |
 | [Social Media Content Creator](../../writers/social-media/social-media-content-creator.md) | Drafts, plans, and optimizes your social media content from research to reporting. |
+| [Social Media Content Manager](social-media-content-manager.md) | Plans, writes, schedules, and analyzes social media content for marketing managers. |
 | [Social Media Content Planner](../../pr-and-communications/social-media/social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |
 | [Social Media Content Strategist](social-media-content-strategist.md) | Develops and refines your social media content strategy from research to performance analysis. |
 | [Social Media Copywriter](social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |
@@ -46,6 +47,7 @@ Plan, write and measure posts across networks. 61 Grok Bot templates, 50 of them
 | [Social Media Reporting Assistant](social-media-reporting-assistant.md) | Turns social media data into clear reports, insights, and strategy recommendations. |
 | [Social Media Sales Intelligence](../../sales/social-media/social-media-sales-intelligence.md) | Turns social media chatter into sales intelligence: competitors, trends, sentiment, influencers, and campaign impact. |
 | [Social Media SEO Optimizer](social-media-seo-optimizer.md) | Optimizes social media content for search engines and tracks SEO performance. |
+| [Social Media Strategy Architect](../../executives-and-strategy/social-media/social-media-strategy-architect.md) | Builds and refines your social media strategy from audit to reporting. |
 | [Social Media Strategy Optimizer](../../sales/social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Social Media Trend Analyst](social-media-trend-analyst.md) | Tracks social media trends and turns them into reports, content, and campaign plans. |
 | [Social Orchestrator](social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |

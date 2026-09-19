@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **185 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **187 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Press, internal comms and reputation. **185 ready-made Grok Bot templates** for 
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 50 |
-| [Writing & Content](writing-and-content/README.md) | 46 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 51 |
+| [Writing & Content](writing-and-content/README.md) | 47 |
 | [Social Media](social-media/README.md) | 26 |
 | [Data Analysis](data-analysis/README.md) | 22 |
 | [Research](research/README.md) | 16 |
@@ -59,6 +59,7 @@ Press, internal comms and reputation. **185 ready-made Grok Bot templates** for 
 | [Journey Map Content Builder](marketing-and-growth/journey-map-content-builder.md) | Maps and improves customer journeys from data to content. |
 | [Loss Aversion Designer](../marketing/marketing-and-growth/loss-aversion-designer.md) | Frame messages using loss aversion to drive action without fear-mongering. |
 | [Marketing Automation Assistant](marketing-and-growth/marketing-automation-assistant.md) | Automates your marketing campaigns, content, and analytics from one chat. |
+| [Marketing VP Crisis Response](../executives-and-strategy/marketing-and-growth/marketing-vp-crisis-response.md) | Plans and executes crisis communication for marketing VPs, from scenario prep to live response support. |
 | [Media Relations Assistant](marketing-and-growth/media-relations-assistant.md) | Builds media lists, drafts press materials, and tracks coverage for PR specialists. |
 | [Open Source Marketing](../marketing/marketing-and-growth/open-source-marketing.md) | Market open source projects authentically with GitHub optimization and community building. |
 | [Optimize Your Brand SERP](../marketing/marketing-and-growth/brand-serp-optimierung.md) | Audits your brand's Google SERP and prescribes the five highest-impact fixes to improve it. |
@@ -96,6 +97,7 @@ Press, internal comms and reputation. **185 ready-made Grok Bot templates** for 
 | [Copywriting Support Assistant](writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
 | [Crisis Communication Content Creator](writing-and-content/crisis-communication-content-creator.md) | Crisis content creator for communication managers, drafting and coordinating all crisis messaging. |
 | [Crisis Communication Planner](writing-and-content/crisis-communication-planner.md) | Prepares crisis communication plans, messages, and training for communication managers. |
+| [Crisis Content Manager](../marketing/writing-and-content/crisis-content-manager.md) | Plan, respond, and recover from crises with structured content and communication support. |
 | [Crossframe Dialogue](../writers/writing-and-content/crossframe-dialogue.md) | Short, structured replies for reader questions, editorial responses, and consultation-style answers. |
 | [Developer Advocacy](../marketing/writing-and-content/developer-advocacy.md) | Prep conference talks, live demos, podcast pitches, and public builds with structured checklists and templates. |
 | [Digital Content Creation Workspace](writing-and-content/digital-content-creation-workspace.md) | Turns research and ideas into polished, scheduled content across all digital platforms for PR specialists. |

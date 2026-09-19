@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 173 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 177 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -48,6 +48,7 @@ Plan, prioritise and clear the recurring admin. 173 Grok Bot templates, 110 of t
 | [Emergency Preparedness Assistant](../../customer-support/productivity/emergency-preparedness-assistant.md) | Prepares emergency plans, contacts, supplies, and drills for your workplace. |
 | [Emergency Response Planning Assistant](emergency-response-planning-assistant.md) | Prepares logistics emergency response plans, contacts, drills, and continuity strategies. |
 | [Employee Scheduling Optimizer](employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
+| [Equipment Maintenance Program Builder](equipment-maintenance-program-builder.md) | Builds and runs a complete equipment maintenance program from inspection to compliance tracking. |
 | [Event Staffing Ordering](event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
 | [Facility Operations Planner](facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
 | [Facility Ops Chat Manager](facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
@@ -107,7 +108,9 @@ Plan, prioritise and clear the recurring admin. 173 Grok Bot templates, 110 of t
 | [Odoo Project Timesheet](odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
 | [Onboarding Checklist Generator](../../management/productivity/onboarding-checklist-generator.md) | Generates customized client onboarding checklists with phases, owners, dependencies, and email templates. |
 | [Operations Crisis Blueprint](operations-crisis-blueprint.md) | Crisis management planning assistant for global operations heads, from risk assessment to post-crisis evaluation. |
+| [Operations Crisis Navigator](operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
 | [Operations Risk Assessment Guide](operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
+| [Operations Risk Mitigation Planner](operations-risk-mitigation-planner.md) | Identifies, assesses, and mitigates operational risks with structured plans and monitoring. |
 | [Operations Sustainability Blueprint](operations-sustainability-blueprint.md) | Sustainability advisor for operations VPs, turning green goals into concrete programs. |
 | [Ops Crisis Drill Architect](ops-crisis-drill-architect.md) | Plans, runs, and learns from crisis management for a VP of Operations. |
 | [Ops Tech Integration Planner](ops-tech-integration-planner.md) | Plans and manages technology integration projects for operations managers. |
@@ -167,6 +170,7 @@ Plan, prioritise and clear the recurring admin. 173 Grok Bot templates, 110 of t
 | [Time Ledger](time-ledger.md) | Parse natural-language time reports into your Notion database, asking when unsure. |
 | [Todoist Automation](todoist-automation.md) | Automate Todoist tasks, projects, sections, and filters via Rube MCP. |
 | [Trello Automation](trello-automation.md) | Automate Trello boards, cards, lists, and assignments via Rube MCP. |
+| [Vendor Lifecycle Manager](vendor-lifecycle-manager.md) | Streamlines vendor evaluation from research to exit with structured analysis and approvals. |
 | [Vendor Watch](vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
 | [Visitor Management Assistant](../../customer-support/productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
 | [VopixSounds](../../it-and-development/productivity/vopixsounds.md) | Plays sounds when Claude needs you or finishes a task so you can work in another window. |

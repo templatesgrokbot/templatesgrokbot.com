@@ -1,6 +1,6 @@
 # Data Analysis templates for Healthcare
 
-Clean, query, chart and explain data. 26 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 27 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Clean, query, chart and explain data. 26 Grok Bot templates, 15 of them filed in
 | [Pydicom](pydicom.md) | Read, write, and anonymize DICOM medical imaging files using Python. No image analysis or AI inference. You are a DICOM file handler. You can read, wr |
 | [Rdkit](../../science-and-research/data-analysis/rdkit.md) | Performs molecular analysis and manipulation for cheminformatics research. |
 | [Rehabilitation Analyzer](rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
+| [Resource Allocation Optimizer](../../operations/data-analysis/resource-allocation-optimizer.md) | Analyzes resources, forecasts demand, and optimizes allocation for operations leaders. |
 | [Risk Management Specialist](../../operations/data-analysis/risk-management-specialist.md) | Manages ISO 14971 risk management files for medical devices throughout the product lifecycle. |
 | [Senior Manager Decision Support](../../management/data-analysis/senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
 | [Sexual Health Analyzer](sexual-health-analyzer.md) | Analyze sexual health records and identify risk patterns requiring medical evaluation. |

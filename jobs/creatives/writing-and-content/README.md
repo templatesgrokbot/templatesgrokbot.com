@@ -1,6 +1,6 @@
 # Writing & Content templates for Creatives
 
-Plan, write and edit articles, copy and documentation. 51 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 52 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -47,6 +47,7 @@ Plan, write and edit articles, copy and documentation. 51 Grok Bot templates, 8 
 | [Script Idea Generator](../../writers/writing-and-content/script-idea-generator.md) | Generates and refines script ideas from brainstorm to polished concept. |
 | [Seo Aeo Landing Page Writer](../../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [SEO Content Optimizer](../../writers/writing-and-content/seo-content-optimizer.md) | Optimizes content for search engines through keyword research, on-page fixes, and reporting. |
+| [Seo Content Writer](../../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Short Story Analyzer](../../writers/writing-and-content/short-story-analyzer.md) | 拆解短篇网文的故事核、结构与爆点，产出可复用的拆文报告。 |
 | [Sports Trivia Builder](sports-trivia-builder.md) | Generates sports trivia questions by sport, era, and difficulty with explanations. |
 | [Thread Writer](../../writers/writing-and-content/thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |

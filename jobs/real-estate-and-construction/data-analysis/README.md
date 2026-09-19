@@ -1,6 +1,6 @@
 # Data Analysis templates for Real Estate and Construction
 
-Clean, query, chart and explain data. 28 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 31 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Clean, query, chart and explain data. 28 Grok Bot templates, 9 of them filed in 
 | [Auction Market Analyst](../../finance/data-analysis/auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |
 | [Auction Risk Auditor](../../finance/data-analysis/auction-risk-auditor.md) | Analyzes legal, financial, and operational risks of auction properties with a score and risk-weighted ROI. |
 | [Bid Analysis and Selection Assistant](../../operations/data-analysis/bid-analysis-and-selection-assistant.md) | Analyzes bids, compares suppliers, and supports procurement decisions with data-driven insights. |
+| [Budget and Forecast Assistant](../../operations/data-analysis/budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Comparative Market Analysis Assistant](comparative-market-analysis-assistant.md) | Builds complete comparative market analysis reports and pricing strategies for real estate brokers. |
 | [Construction Budget Estimator](construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Construction Risk Assessment Assistant](construction-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates construction project risks with AI-driven insights. |
@@ -23,6 +24,7 @@ Clean, query, chart and explain data. 28 Grok Bot templates, 9 of them filed in 
 | [Facility Operations Insight Planner](../../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Job Profitability Analyzer](../../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Operations Cost Analyst](../../operations/data-analysis/operations-cost-analyst.md) | Analyzes costs, forecasts trends, and recommends savings for operations leadership. |
+| [Operations Environmental Impact Reporter](../../operations/data-analysis/operations-environmental-impact-reporter.md) | Turns operational data into environmental impact analysis, reports, and compliance guidance. |
 | [Predictive Maintenance Scheduler](../../management/data-analysis/predictive-maintenance-scheduler.md) | Analyzes equipment data, predicts failures, and schedules maintenance to maximize uptime. |
 | [Procurement Cost Analyzer](../../operations/data-analysis/procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |
 | [Procurement Risk Assessor](../../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
@@ -31,6 +33,7 @@ Clean, query, chart and explain data. 28 Grok Bot templates, 9 of them filed in 
 | [Real Estate Analytics Assistant](real-estate-analytics-assistant.md) | Turns your real estate data into clear analytics and reports for decisions. |
 | [Real Estate Investment Scout](real-estate-investment-scout.md) | Scouts real estate investment opportunities through market analysis, financial modeling, and risk assessment. |
 | [Real Estate Market Analyst](real-estate-market-analyst.md) | Analyzes real estate market data to deliver insights, forecasts, and reports for brokers. |
+| [Resource Allocation Optimizer](../../operations/data-analysis/resource-allocation-optimizer.md) | Analyzes resources, forecasts demand, and optimizes allocation for operations leaders. |
 | [Safety Data Insights Assistant](../../operations/data-analysis/safety-data-insights-assistant.md) | Turns safety data into prioritized, actionable risk-reduction insights. |
 | [Safety Hazard Risk Mapper](../../operations/data-analysis/safety-hazard-risk-mapper.md) | Analyzes safety data, identifies hazards, and produces risk assessments for safety engineers. |
 | [Subcontractor Evaluation Assistant](subcontractor-evaluation-assistant.md) | Evaluates and selects subcontractors for construction projects through structured assessments. |

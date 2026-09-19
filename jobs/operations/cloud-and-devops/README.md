@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Operations
 
-Infrastructure, deployments, monitoring and incident response. 182 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 188 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -46,6 +46,7 @@ Infrastructure, deployments, monitoring and incident response. 182 Grok Bot temp
 | [Cloudflare Deploy](../../it-and-development/cloud-and-devops/cloudflare-deploy.md) | Deploys apps and infrastructure to Cloudflare Workers, Pages, and related services. |
 | [Cost Optimization](../../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Data Center Network Assistant](../../it-and-development/cloud-and-devops/data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
+| [Data Center Power Optimizer](../../it-and-development/cloud-and-devops/data-center-power-optimizer.md) | Optimizes data center power usage, forecasting, and compliance for systems administrators. |
 | [Database](../../it-and-development/cloud-and-devops/database.md) | Adds Railway database services (Postgres, Redis, MySQL, MongoDB) and provides connection variable references. |
 | [Database Administrator](../../it-and-development/cloud-and-devops/database-administrator.md) | Manages database performance, high availability, and disaster recovery for production systems. |
 | [Database Cloud Optimization Cost Optimize](../../it-and-development/cloud-and-devops/database-cloud-optimization-cost-optimize.md) | Analyze cloud spend and cut costs while keeping performance and reliability. |
@@ -57,12 +58,14 @@ Infrastructure, deployments, monitoring and incident response. 182 Grok Bot temp
 | [Deploy](../../it-and-development/cloud-and-devops/deploy.md) | Deploys code from the current directory to Railway using railway up. |
 | [Deployment Pipeline Design](../../it-and-development/cloud-and-devops/deployment-pipeline-design.md) | Design multi-stage CI/CD pipelines with approval gates and deployment strategies. |
 | [Deployment Procedures](../../it-and-development/cloud-and-devops/deployment-procedures.md) | Guides safe production deployments with rollback planning and verification. |
+| [Deployment Strategy Guide](../../it-and-development/cloud-and-devops/deployment-strategy-guide.md) | Guides systems administrators through software deployment planning, automation, and troubleshooting. |
 | [Devops Deploy](../../it-and-development/cloud-and-devops/devops-deploy.md) | Dockerize, deploy, and monitor applications with CI/CD pipelines on AWS. |
 | [Devops Expert](../../it-and-development/cloud-and-devops/devops-expert.md) | Guides teams through the full DevOps lifecycle with automation, collaboration, and continuous improvement. |
 | [Devops Iac Engineer](../../it-and-development/cloud-and-devops/devops-iac-engineer.md) | Designs and implements cloud infrastructure using Terraform, Kubernetes, and CI/CD pipelines. |
 | [Devops Incident Responder](../../it-and-development/cloud-and-devops/devops-incident-responder.md) | Responds to production incidents, diagnoses failures, and drives postmortems to prevent recurrence. |
 | [Devops Troubleshooter](../../it-and-development/cloud-and-devops/devops-troubleshooter.md) | Diagnoses production incidents using logs, metrics, and traces with systematic root cause analysis. |
 | [Disaster Recovery and Backup Planner](../../it-and-development/cloud-and-devops/disaster-recovery-and-backup-planner.md) | Designs and validates backup and disaster recovery plans for network engineers. |
+| [Disaster Recovery Plan Builder](../../it-and-development/cloud-and-devops/disaster-recovery-plan-builder.md) | Builds and maintains your disaster recovery plan from risk assessment to continuous improvement. |
 | [Distributed Debugging Debug Trace](../../it-and-development/cloud-and-devops/distributed-debugging-debug-trace.md) | Configure distributed tracing and debugging environments for multi-service systems. |
 | [Distributed Tracing](../../it-and-development/cloud-and-devops/distributed-tracing.md) | Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices. |
 | [Domain](../../it-and-development/cloud-and-devops/domain.md) | Manage custom and Railway-provided domains for your Railway services. |
@@ -122,6 +125,7 @@ Infrastructure, deployments, monitoring and incident response. 182 Grok Bot temp
 | [Neon Migration Specialist](../../it-and-development/cloud-and-devops/neon-migration-specialist.md) | Safely test and apply Postgres schema changes using Neon branching, with zero-downtime. |
 | [Netlify Deploy](../../it-and-development/cloud-and-devops/netlify-deploy.md) | Deploys web projects to Netlify for preview or production after verifying authentication and linking. No unscheduled deploys. No site creation without |
 | [Network Automation Workflow Designer](../../it-and-development/cloud-and-devops/network-automation-workflow-designer.md) | Automates network monitoring, provisioning, security, troubleshooting, documentation, optimization, change, capacity, reporting, and compliance tasks. |
+| [Network Capacity Planning Assistant](../../it-and-development/cloud-and-devops/network-capacity-planning-assistant.md) | Analyzes network capacity, forecasts growth, and plans upgrades for systems administrators. No hype, just data-driven infrastructure planning. |
 | [Network Engineer](../../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 | [Network Monitoring Assistant](../../it-and-development/cloud-and-devops/network-monitoring-assistant.md) | Network monitoring setup, analysis, and troubleshooting assistant for engineers. |
 | [Observability And Instrumentation](../../it-and-development/cloud-and-devops/observability-and-instrumentation.md) | Instruments production code so behavior is visible and diagnosable via telemetry. |
@@ -159,6 +163,7 @@ Infrastructure, deployments, monitoring and incident response. 182 Grok Bot temp
 | [Senior Devops](../../it-and-development/cloud-and-devops/senior-devops.md) | Sets up CI/CD pipelines, scaffolds infrastructure as code, and manages cloud deployments across AWS, GCP, and Azure. |
 | [Sentry Automation](../../it-and-development/cloud-and-devops/sentry-automation.md) | Automate Sentry error tracking, alerts, releases, and team monitoring via Rube MCP. |
 | [Server Management](../../it-and-development/cloud-and-devops/server-management.md) | Guides server management decisions without running commands. |
+| [Server Optimization Advisor](../../it-and-development/cloud-and-devops/server-optimization-advisor.md) | Analyzes server metrics and recommends optimization strategies for peak performance. |
 | [Service](../../it-and-development/cloud-and-devops/service.md) | Manage Railway services: check status, rename, change icons, link, or create from Docker images. |
 | [Service Mesh Expert](../../it-and-development/cloud-and-devops/service-mesh-expert.md) | Design and implement service mesh architectures with Istio and Linkerd. |
 | [Service Mesh Observability](../../it-and-development/cloud-and-devops/service-mesh-observability.md) | Configure Istio/Linkerd observability: metrics, traces, dashboards, and SLOs. |
@@ -169,6 +174,7 @@ Infrastructure, deployments, monitoring and incident response. 182 Grok Bot temp
 | [Sre Engineer](../../it-and-development/cloud-and-devops/sre-engineer.md) | Define SLOs, manage error budgets, and reduce toil for system reliability. |
 | [Sshepherd](../../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
 | [Status](../../it-and-development/cloud-and-devops/status.md) | Check Railway project status, deployments, and uptime for this directory. |
+| [Tech Stack Evaluation Assistant](tech-stack-evaluation-assistant.md) | Evaluates and optimizes your company's tech stack for performance, cost, security, and future readiness. |
 | [Technology Integration Coordinator](../../management/cloud-and-devops/technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |
 | [Technology Integration Operations Assistant](technology-integration-operations-assistant.md) | Guides technology integration from evaluation to optimization for operations leaders. |
 | [Technology Integration Strategist](technology-integration-strategist.md) | Plans and oversees technology integration across global operations, from analysis to optimization. |

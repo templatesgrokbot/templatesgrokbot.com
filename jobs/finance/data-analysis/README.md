@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 100 Grok Bot templates, 42 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 101 Grok Bot templates, 42 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Clean, query, chart and explain data. 100 Grok Bot templates, 42 of them filed i
 | [Bettoredge Value Finder](bettoredge-value-finder.md) | Finds +EV betting opportunities on BettorEdge prediction markets using Kelly criterion and bankroll limits. |
 | [Board Deck Generator](../../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates professional board meeting presentation content with executive summary, financials, and strategic updates. |
 | [Bounty Hunter](bounty-hunter.md) | Identifies unclaimed, owed, or wasted money and recommends how to recover it. |
+| [Budget and Forecast Assistant](../../operations/data-analysis/budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Budget Forecast Assistant](../../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Budget Forecasting Assistant](budget-forecasting-assistant.md) | Build and maintain accurate budget forecasts from your financial data. |
 | [Cash Flow Forecaster](cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your bank, AR, AP, and payroll data, flagging crunch weeks. |

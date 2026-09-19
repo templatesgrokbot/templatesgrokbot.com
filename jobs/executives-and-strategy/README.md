@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **210 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **229 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,20 +11,21 @@ Leaders making decisions from the whole picture. **210 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 74 |
-| [Research](research/README.md) | 46 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 32 |
+| [Data Analysis](data-analysis/README.md) | 77 |
+| [Research](research/README.md) | 47 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 45 |
 | [Productivity](productivity/README.md) | 26 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 9 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Security & Compliance](security-and-compliance/README.md) | 4 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
+| [Design](design/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
-| [Design](design/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Code](generative-code/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
+| [Social Media](social-media/README.md) | 1 |
 
 ## Data Analysis
 
@@ -58,6 +59,7 @@ Leaders making decisions from the whole picture. **210 ready-made Grok Bot templ
 | [Insurance Finance Reporting Assistant](../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Inventory Ops Forecaster](../operations/data-analysis/inventory-ops-forecaster.md) | Turns your inventory data into operational insights, forecasts, and action plans. |
 | [Job Profitability Analyzer](../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
+| [KPI Analysis and Forecasting Assistant](../operations/data-analysis/kpi-analysis-and-forecasting-assistant.md) | Turns your KPI data into clear insights, forecasts, and action plans for operations decisions. |
 | [Kpi Dashboard Design](../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
 | [Legal Analytics Assistant](../legal/data-analysis/legal-analytics-assistant.md) | Turns legal documents and case data into clear insights, drafts, and risk assessments for lawyers. |
 | [Legal Risk Assessment Assistant](../legal/data-analysis/legal-risk-assessment-assistant.md) | Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers. |
@@ -69,12 +71,14 @@ Leaders making decisions from the whole picture. **210 ready-made Grok Bot templ
 | [Market Trend Analyzer](../management/data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
 | [Market Trend Navigator](../sales/data-analysis/market-trend-navigator.md) | Market trend analysis and sales intelligence for Vice Presidents of Sales. |
 | [Marketing Attribution Analyst](../marketing/data-analysis/marketing-attribution-analyst.md) | Models multi-touch attribution, validates channel performance with incrementality testing, and optimizes budget allocation. Uses confirmed data only. |
+| [Marketing Feedback Insight Analyst](data-analysis/marketing-feedback-insight-analyst.md) | Analyzes customer feedback to deliver actionable marketing insights. |
 | [Marketing Metrics Analyst](../management/data-analysis/marketing-metrics-analyst.md) | Turns your marketing data into clear metrics, insights, and decisions. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 | [Offer Comparison Analyzer](../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
 | [Operational Risk Management Assistant](../operations/data-analysis/operational-risk-management-assistant.md) | Turns operational data into risk insights, plans, and reports for global operations heads. |
 | [Operations Data Insights Assistant](../operations/data-analysis/operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |
 | [Operations Trend Decoder](../operations/data-analysis/operations-trend-decoder.md) | Delivers market trend analysis for VP of Operations decisions. |
+| [Operations Trend Strategist](../operations/data-analysis/operations-trend-strategist.md) | Market trend analysis and strategic insights for Heads of Operations. |
 | [Operations Voice Decoder](../operations/data-analysis/operations-voice-decoder.md) | Turns customer feedback into clear insights and improvement plans for operations leaders. |
 | [Patent Portfolio Analyst](../legal/data-analysis/patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
 | [Patent Valuation Analyst](../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
@@ -137,6 +141,7 @@ Leaders making decisions from the whole picture. **210 ready-made Grok Bot templ
 | [Kotler Macro Analyzer](research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
 | [Market Analysis Navigator](../management/research/market-analysis-navigator.md) | Runs full market analysis for management consultants, from research to forecasting. |
 | [Market Research Analyst](../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
+| [Market Research Insight Assistant](research/market-research-insight-assistant.md) | Turns market research data into actionable insights for marketing leaders. |
 | [Market Research Reports](../marketing/research/market-research-reports.md) | Generates 50+ page consulting-grade market research reports with LaTeX formatting, visuals, and strategic frameworks. |
 | [Market Researcher](../marketing/research/market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
 | [Market Scout](../marketing/research/market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
@@ -160,15 +165,20 @@ Leaders making decisions from the whole picture. **210 ready-made Grok Bot templ
 
 | Template | What it does |
 |---|---|
+| [Affiliate Marketing Optimizer](marketing-and-growth/affiliate-marketing-optimizer.md) | Optimizes affiliate marketing campaigns from keyword research to performance reporting. |
 | [AI Marketing Team](../marketing/marketing-and-growth/ai-marketing-team.md) | Runs campaign ideas through three marketing roles to catch blind spots before launch. |
 | [Brand Perception Psychologist](../marketing/marketing-and-growth/brand-perception-psychologist.md) | Diagnose brand perception gaps and prescribe alignment changes using psychological frameworks. |
 | [Brand Positioning Strategist](../management/marketing-and-growth/brand-positioning-strategist.md) | Turns market data into a clear, differentiated brand position and keeps it sharp. |
 | [Brand Voice Guidelines Generator](../marketing/marketing-and-growth/brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Campaign Plan](../marketing/marketing-and-growth/marketing-campaign-plan.md) | Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu |
+| [Campaign ROI Orchestrator](marketing-and-growth/campaign-roi-orchestrator.md) | Plans, runs, and optimizes influencer partnerships from discovery to ROI. |
 | [Co Marketing](../marketing/marketing-and-growth/co-marketing.md) | Find co-marketing partners and plan joint campaigns for SaaS products. |
 | [Competitive Landscape](../marketing/marketing-and-growth/competitive-landscape.md) | Map competitors, find gaps, and craft defensible market positioning strategies. |
 | [Competitor Ad Intelligence](../marketing/marketing-and-growth/competitor-ad-intelligence.md) | Research public competitor ads, analyze creative patterns and landing pages, and produce an evidence-labeled strategic teardown. |
+| [Customer Persona Architect](marketing-and-growth/customer-persona-architect.md) | Builds, validates, and refines customer personas for marketing strategy. |
 | [Digital Marketing Strategy Formulator](../management/marketing-and-growth/digital-marketing-strategy-formulator.md) | Formulates data-driven digital marketing strategies from market research to performance reporting. |
+| [Email Marketing Campaign Planner](marketing-and-growth/email-marketing-campaign-planner.md) | Plans, writes, and optimizes email campaigns for marketing VPs. |
+| [Event Marketing Strategy Planner](marketing-and-growth/event-marketing-strategy-planner.md) | Plans and runs your event marketing strategy from audience to post-event follow-up. (under 130 characters) Wait, that's 130? Let me count: |
 | [Free Tier Strategy](../product-development/marketing-and-growth/free-tier-strategy.md) | Design free tiers that developers love and that convert to paid naturally. |
 | [Free Tool Strategy](../marketing/marketing-and-growth/free-tool-strategy.md) | Plan and evaluate free tools for lead gen, SEO, and brand awareness. |
 | [International Market Entry Planner](../sales/marketing-and-growth/international-market-entry-planner.md) | Plans and de-risks your international market entry, from research to rollout. |
@@ -176,22 +186,30 @@ Leaders making decisions from the whole picture. **210 ready-made Grok Bot templ
 | [Launch War Room](../product-development/marketing-and-growth/launch-war-room.md) | Run an adversarial go/no-go war room and phased rollout plan for any launch. |
 | [Local Legal Seo Audit](../marketing/marketing-and-growth/local-legal-seo-audit.md) | Audit and improve local SEO for law firms, attorneys, and legal professionals. |
 | [Market Trend Forecasting Assistant](../management/marketing-and-growth/market-trend-forecasting-assistant.md) | Forecast market trends and plan strategy from data, competitor, and consumer insights. |
+| [Marketing Channel Optimizer](marketing-and-growth/marketing-channel-optimizer.md) | Optimizes marketing channels with data-driven insights and content creation. |
+| [Marketing Content Ideation Assistant](marketing-and-growth/marketing-content-ideation-assistant.md) | Generates and refines content ideas, outlines, and scripts for marketing campaigns. |
 | [Marketing Demand Acquisition](../marketing/marketing-and-growth/marketing-demand-acquisition.md) | Generates and optimizes multi-channel demand for B2B SaaS startups scaling internationally. |
 | [Marketing Ideas](../marketing/marketing-and-growth/marketing-ideas.md) | Scores and prioritizes 140 marketing ideas for SaaS products by feasibility. |
 | [Marketing Plan](../marketing/marketing-and-growth/marketing-plan.md) | Produce a 12-month AARRR marketing plan tailored to a client's budget, team, and stage. Hand off single-channel tactics to channel-specific capabilities. Do |
 | [Marketing Psychology](../marketing/marketing-and-growth/marketing-psychology.md) | Apply behavioral science to marketing decisions with a prioritization scoring system. |
 | [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
+| [Marketing VP Competitive Intel](marketing-and-growth/marketing-vp-competitive-intel.md) | Competitive intelligence and strategy support for marketing VPs. |
+| [Marketing VP Crisis Response](marketing-and-growth/marketing-vp-crisis-response.md) | Plans and executes crisis communication for marketing VPs, from scenario prep to live response support. |
+| [Marketing VP Journey Mapper](marketing-and-growth/marketing-vp-journey-mapper.md) | Maps customer journeys from data to strategy for marketing VPs. |
 | [Page Cro](../marketing/marketing-and-growth/page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Pricing Strategy](../marketing/marketing-and-growth/pricing-strategy.md) | Designs pricing, packaging, and monetization strategy based on customer willingness to pay and growth objectives. |
+| [Product Launch Strategist](marketing-and-growth/product-launch-strategist.md) | Plans and executes product launches from market research to performance review. |
 | [Referral Program](../marketing/marketing-and-growth/referral-program.md) | Designs and optimizes referral and affiliate programs to turn customers into growth engines. |
 | [Scarcity Urgency Psychologist](../marketing/marketing-and-growth/scarcity-urgency-psychologist.md) | Design genuine scarcity and urgency that motivates action without manipulation. |
 | [Search Console Analysis: Find Quick Wins](../marketing/marketing-and-growth/search-console-analyse.md) | Finds quick SEO wins in your Google Search Console export with concrete URLs and fixes. |
 | [Seo Forensic Incident Response](../marketing/marketing-and-growth/seo-forensic-incident-response.md) | Investigate sudden organic traffic drops with forensic triage, root-cause analysis, and a recovery plan. |
 | [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
+| [SEO Strategy Planner](marketing-and-growth/seo-strategy-planner.md) | Builds and executes a complete SEO strategy for marketing leadership. |
 | [SEO Strategy: 90-Day Roadmap](../marketing/marketing-and-growth/seo-strategie-roadmap.md) | Turns your current SEO situation into a 90-day roadmap with ICE scores and a not-doing list. |
 | [Startup Business Analyst Business Case](marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
 | [SWOT Analysis Guide](../sales/marketing-and-growth/swot-analysis-guide.md) | Guides business development managers through complete SWOT analyses with data-driven insights. |
 | [Trust Calibrator](../marketing/marketing-and-growth/trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
+| [Video Strategy Retargeting Builder](marketing-and-growth/video-strategy-retargeting-builder.md) | Builds and runs your video marketing strategy from research to retargeting. |
 
 ## Productivity
 
@@ -276,17 +294,18 @@ Leaders making decisions from the whole picture. **210 ready-made Grok Bot templ
 | [Founder Pitch Deck Coach](writing-and-content/founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
 | [Investor Update Writer](writing-and-content/investor-update-writer.md) | Turns your KPIs, milestones, and financials into a polished investor update. |
 
+## Design
+
+| Template | What it does |
+|---|---|
+| [Brand Guidelines Architect](design/brand-guidelines-architect.md) | Builds and maintains your brand guidelines across all marketing materials and channels. |
+| [Steve Jobs Advisor](../creatives/design/steve-jobs.md) | Simulates Steve Jobs for product, design, and presentation advice. |
+
 ## Coding
 
 | Template | What it does |
 |---|---|
 | [Senior Architect](../it-and-development/coding/senior-architect.md) | Designs scalable systems with diagrams, dependency analysis, and tech stack trade-offs. |
-
-## Design
-
-| Template | What it does |
-|---|---|
-| [Steve Jobs Advisor](../creatives/design/steve-jobs.md) | Simulates Steve Jobs for product, design, and presentation advice. |
 
 ## Generative AI and LLM
 
@@ -305,5 +324,11 @@ Leaders making decisions from the whole picture. **210 ready-made Grok Bot templ
 | Template | What it does |
 |---|---|
 | [Investor Pitch Deck Builder](office-tools/investor-pitch-deck-builder.md) | Turns your startup facts into a 10-page investor-ready pitch deck. |
+
+## Social Media
+
+| Template | What it does |
+|---|---|
+| [Social Media Strategy Architect](social-media/social-media-strategy-architect.md) | Builds and refines your social media strategy from audit to reporting. |
 
 [← All job fields](../../README.md#browse-by-job) · [Executives and Strategy on the website](https://templatesgrokbot.com/jobs/executives-and-strategy)

@@ -1,6 +1,6 @@
 # Marketing & Growth templates for PR and Communications
 
-Campaigns, ads, conversion and launch plans. 50 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 51 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -39,6 +39,7 @@ Campaigns, ads, conversion and launch plans. 50 Grok Bot templates, 23 of them f
 | [Journey Map Content Builder](journey-map-content-builder.md) | Maps and improves customer journeys from data to content. |
 | [Loss Aversion Designer](../../marketing/marketing-and-growth/loss-aversion-designer.md) | Frame messages using loss aversion to drive action without fear-mongering. |
 | [Marketing Automation Assistant](marketing-automation-assistant.md) | Automates your marketing campaigns, content, and analytics from one chat. |
+| [Marketing VP Crisis Response](../../executives-and-strategy/marketing-and-growth/marketing-vp-crisis-response.md) | Plans and executes crisis communication for marketing VPs, from scenario prep to live response support. |
 | [Media Relations Assistant](media-relations-assistant.md) | Builds media lists, drafts press materials, and tracks coverage for PR specialists. |
 | [Open Source Marketing](../../marketing/marketing-and-growth/open-source-marketing.md) | Market open source projects authentically with GitHub optimization and community building. |
 | [Optimize Your Brand SERP](../../marketing/marketing-and-growth/brand-serp-optimierung.md) | Audits your brand's Google SERP and prescribes the five highest-impact fixes to improve it. |

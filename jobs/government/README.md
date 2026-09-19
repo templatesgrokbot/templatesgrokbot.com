@@ -1,6 +1,6 @@
 # Grok Bot templates for Government
 
-Public services, policy and compliance. **187 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Public services, policy and compliance. **204 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,16 @@ Public services, policy and compliance. **187 ready-made Grok Bot templates** fo
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 58 |
-| [Security & Compliance](security-and-compliance/README.md) | 43 |
+| [Data Analysis](data-analysis/README.md) | 61 |
+| [Security & Compliance](security-and-compliance/README.md) | 46 |
 | [Research](research/README.md) | 29 |
-| [Productivity](productivity/README.md) | 17 |
-| [Writing & Content](writing-and-content/README.md) | 17 |
+| [Productivity](productivity/README.md) | 23 |
+| [Writing & Content](writing-and-content/README.md) | 20 |
 | [Knowledge Management](knowledge-management/README.md) | 6 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 5 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 6 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 3 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Coding](coding/README.md) | 1 |
 | [Design](design/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
@@ -59,12 +60,14 @@ Public services, policy and compliance. **187 ready-made Grok Bot templates** fo
 | [Environmental Risk Assessment Assistant](../science-and-research/data-analysis/environmental-risk-assessment-assistant.md) | Assists environmental engineers with risk assessment, analysis, reporting, and compliance. |
 | [Executive Dashboard Generator](../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
+| [Gap Closure Training Planner](../human-resources/data-analysis/gap-closure-training-planner.md) | Identifies training needs and aligns development programs with organizational goals. |
 | [Hydrogeology Data Analyst](../science-and-research/data-analysis/hydrogeology-data-analyst.md) | Analyzes hydrogeological data and drafts reports, models, and plans for groundwater work. |
 | [Junta Auctioneers](../operations/data-analysis/junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Market Trend Analysis Assistant](../operations/data-analysis/market-trend-analysis-assistant.md) | Analyzes market trends and compiles reports to support procurement decisions. |
 | [Media Monitoring Assistant](../pr-and-communications/data-analysis/media-monitoring-assistant.md) | Audits crisis communication plans, media coverage, and team performance to strengthen crisis response. |
 | [Natural Hazard Analysis Assistant](../science-and-research/data-analysis/natural-hazard-analysis-assistant.md) | Turns geological and climate data into hazard analyses, maps, and preparedness plans. |
 | [Operational KPI Dashboard Designer](../operations/data-analysis/operational-kpi-dashboard-designer.md) | Designs and maintains operational KPI dashboards with data integration, analysis, and reporting. |
+| [Performance Management Guidance](../human-resources/data-analysis/performance-management-guidance.md) | Guides HR directors through every step of performance management, from criteria to communication. |
 | [Performance Metrics Manager](../management/data-analysis/performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Procurement Risk Assessor](../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
 | [Procurement Risk Management Assistant](../operations/data-analysis/procurement-risk-management-assistant.md) | Procurement risk management assistant that assesses, mitigates, and monitors supplier, contract, and supply chain risks. |
@@ -89,6 +92,7 @@ Public services, policy and compliance. **187 ready-made Grok Bot templates** fo
 | [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Waste Management Analyst](../science-and-research/data-analysis/waste-management-analyst.md) | Analyzes waste streams, ensures compliance, and optimizes sustainable waste management for environmental engineers. |
 | [Water Quality Assessment Assistant](../science-and-research/data-analysis/water-quality-assessment-assistant.md) | Assesses water quality data, ensures compliance, and designs monitoring tools for environmental engineers. |
+| [Workplace Culture Assessment Assistant](../human-resources/data-analysis/workplace-culture-assessment-assistant.md) | Designs, runs, and analyzes workplace culture assessments, from surveys to action plans. |
 
 ## Security & Compliance
 
@@ -105,6 +109,7 @@ Public services, policy and compliance. **187 ready-made Grok Bot templates** fo
 | [Compliance Specialist](../legal/security-and-compliance/compliance-specialist.md) | Assesses compliance gaps and prepares audit evidence for regulatory frameworks. |
 | [Compliance Tracking Assistant](../operations/security-and-compliance/compliance-tracking-assistant.md) | Tracks regulatory changes, audits, training, and reports to keep operations compliant. |
 | [Compliance Training Manager](../education/security-and-compliance/compliance-training-manager.md) | Manages compliance training from needs assessment to certification and reporting. |
+| [Compliance Training Oversight Assistant](../human-resources/security-and-compliance/compliance-training-oversight-assistant.md) | Builds, tracks, and improves compliance training programs for HR specialists. |
 | [Contract Termination Guidance](../legal/security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
 | [Corrective Action Planning Assistant](../operations/security-and-compliance/corrective-action-planning-assistant.md) | Turns inspection data into prioritized, compliant corrective action plans with progress tracking. |
 | [Data Privacy Compliance](../legal/security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
@@ -136,6 +141,8 @@ Public services, policy and compliance. **187 ready-made Grok Bot templates** fo
 | [Safety Compliance Planner](../operations/security-and-compliance/safety-compliance-planner.md) | Turns safety standards into checklists, training, and audit plans for quality control inspectors. |
 | [Safety Protocol Development Assistant](../operations/security-and-compliance/safety-protocol-development-assistant.md) | Develops, reviews, and updates workplace safety protocols from research to training. |
 | [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
+| [SysAdmin Compliance Documentation](../it-and-development/security-and-compliance/sysadmin-compliance-documentation.md) | Compliance guidance and documentation support for systems administrators. |
+| [User Access and Permissions Manager](../it-and-development/security-and-compliance/user-access-and-permissions-manager.md) | Manages user access, permissions, and audits for systems administrators. |
 | [Whistleblower Policy Manager](../legal/security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 
 ## Research
@@ -186,10 +193,16 @@ Public services, policy and compliance. **187 ready-made Grok Bot templates** fo
 | [Learning Culture Builder](../education/productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
 | [Meeting Coordination Assistant](../finance/productivity/meeting-coordination-assistant.md) | Handles scheduling, invitations, logistics, agendas, reminders, RSVPs, minutes, virtual setups, materials, follow-ups, surveys, and travel for… |
 | [Meeting Notes](../operations/productivity/meeting-notes.md) | Turns a transcript into decisions and owned actions, dropping everything that was just talk. |
+| [Operations Crisis Navigator](../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
+| [Operations Risk Mitigation Planner](../operations/productivity/operations-risk-mitigation-planner.md) | Identifies, assesses, and mitigates operational risks with structured plans and monitoring. |
+| [Performance Review Cycle Assistant](../human-resources/productivity/performance-review-cycle-assistant.md) | Prepares, runs, and follows up on performance reviews for employee relations specialists. |
 | [Process Improvement Comms Architect](../operations/productivity/process-improvement-comms-architect.md) | Plans stakeholder communication for process improvement projects, from stakeholder mapping to risk assessment. |
 | [Process Mapping and Improvement Assistant](../operations/productivity/process-mapping-and-improvement-assistant.md) | Maps and improves your organization's processes from discovery to continuous improvement. |
+| [Professional Development Tracker](../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
 | [Purchase Order Management Assistant](../operations/productivity/purchase-order-management-assistant.md) | Manages purchase orders from creation to compliance, keeping procurement smooth and within budget. |
 | [Stakeholder Communication Planner](../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
+| [Training Program Advisor](../human-resources/productivity/training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |
+| [Vendor Lifecycle Manager](../operations/productivity/vendor-lifecycle-manager.md) | Streamlines vendor evaluation from research to exit with structured analysis and approvals. |
 | [Virtual Training Coordinator Assistant](../education/productivity/virtual-training-coordinator-assistant.md) | Manages virtual training setup, content, engagement, and evaluation for training coordinators. |
 | [Workflow Automation Architect](../product-development/productivity/workflow-automation-architect.md) | Automates process workflows from data extraction to compliance and reporting. |
 | [Workflow Orchestrator](../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
@@ -201,6 +214,7 @@ Public services, policy and compliance. **187 ready-made Grok Bot templates** fo
 | [Compliance Communication Planner](../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Crisis Communication Content Creator](../pr-and-communications/writing-and-content/crisis-communication-content-creator.md) | Crisis content creator for communication managers, drafting and coordinating all crisis messaging. |
 | [Crisis Communication Planner](../pr-and-communications/writing-and-content/crisis-communication-planner.md) | Prepares crisis communication plans, messages, and training for communication managers. |
+| [Employee Relations Policy Assistant](../human-resources/writing-and-content/employee-relations-policy-assistant.md) | Develops, reviews, and communicates employee relations policies with research, drafting, and stakeholder support. |
 | [Environmental Policy Development Assistant](../science-and-research/writing-and-content/environmental-policy-development-assistant.md) | Develops and refines environmental policy from research to public outreach. |
 | [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
 | [Internal Communication Planner](../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
@@ -211,9 +225,11 @@ Public services, policy and compliance. **187 ready-made Grok Bot templates** fo
 | [SOP Writer](../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
 | [Stakeholder Communication Coordinator](../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
 | [Stakeholder Engagement Strategist](../science-and-research/writing-and-content/stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
+| [Systems Documentation Assistant](../it-and-development/writing-and-content/systems-documentation-assistant.md) | Turns system admin notes into clear, structured documentation and reports. |
 | [Technical Documentation Reviewer](../customer-support/writing-and-content/technical-documentation-reviewer.md) | Reviews and refines technical documentation for accuracy, clarity, and compliance. |
 | [Technical Manual Writing Assistant](../writers/writing-and-content/technical-manual-writing-assistant.md) | Draft, structure, and refine technical manuals from research to final review. |
 | [Technical Proposal Assistant](../writers/writing-and-content/technical-proposal-assistant.md) | Drafts, refines, and manages technical proposals from research to archive. |
+| [Training Material Creation Assistant](../operations/writing-and-content/training-material-creation-assistant.md) | Creates and manages all training materials for operations teams from research to assessment. |
 | [Training Material Creator](../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 
 ## Knowledge Management
@@ -235,6 +251,7 @@ Public services, policy and compliance. **187 ready-made Grok Bot templates** fo
 | [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 | [Crisis Training Designer](../education/teaching-and-tutoring/crisis-training-designer.md) | Designs and runs crisis management training materials, simulations, and evaluations. |
 | [Curriculum Development Assistant](../education/teaching-and-tutoring/curriculum-development-assistant.md) | Builds and refines training curricula from research to evaluation. |
+| [Interactive Training Module Designer](../human-resources/teaching-and-tutoring/interactive-training-module-designer.md) | Designs and builds interactive training modules with AI-generated content, scenarios, and assessments. |
 | [Learning Path Architect for HR](../education/teaching-and-tutoring/learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
 
 ## Marketing & Growth
@@ -252,6 +269,12 @@ Public services, policy and compliance. **187 ready-made Grok Bot templates** fo
 | [Contract Negotiation Strategist](../operations/sales-and-negotiation/contract-negotiation-strategist.md) | Prepares and guides procurement contract negotiations from research to final agreement. |
 | [Vendor Evaluation Manager](../operations/sales-and-negotiation/vendor-evaluation-manager.md) | Manages vendor evaluation from research to onboarding and performance tracking. |
 | [Vendor Relationship Management Assistant](../operations/sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
+
+## Cloud & DevOps
+
+| Template | What it does |
+|---|---|
+| [Disaster Recovery Plan Builder](../it-and-development/cloud-and-devops/disaster-recovery-plan-builder.md) | Builds and maintains your disaster recovery plan from risk assessment to continuous improvement. |
 
 ## Coding
 

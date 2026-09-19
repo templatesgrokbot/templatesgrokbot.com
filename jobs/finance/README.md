@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **173 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **174 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Accounting, budgeting, analysis and risk. **173 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 100 |
+| [Data Analysis](data-analysis/README.md) | 101 |
 | [Productivity](productivity/README.md) | 17 |
 | [Research](research/README.md) | 12 |
 | [Coding](coding/README.md) | 9 |
@@ -43,6 +43,7 @@ Accounting, budgeting, analysis and risk. **173 ready-made Grok Bot templates** 
 | [Bettoredge Value Finder](data-analysis/bettoredge-value-finder.md) | Finds +EV betting opportunities on BettorEdge prediction markets using Kelly criterion and bankroll limits. |
 | [Board Deck Generator](../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates professional board meeting presentation content with executive summary, financials, and strategic updates. |
 | [Bounty Hunter](data-analysis/bounty-hunter.md) | Identifies unclaimed, owed, or wasted money and recommends how to recover it. |
+| [Budget and Forecast Assistant](../operations/data-analysis/budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Budget Forecast Assistant](../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Budget Forecasting Assistant](data-analysis/budget-forecasting-assistant.md) | Build and maintain accurate budget forecasts from your financial data. |
 | [Cash Flow Forecaster](data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your bank, AR, AP, and payroll data, flagging crunch weeks. |

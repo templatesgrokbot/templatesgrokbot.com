@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 4957,
+ "count": 5101,
  "templates": [
   {
    "slug": "007",
@@ -222,6 +222,35 @@
    "source_license": "MIT"
   },
   {
+   "slug": "academic-integrity-assistant",
+   "name": "Academic Integrity Assistant",
+   "tagline": "Detects plagiarism, verifies citations, and educates on academic integrity for teaching assistants.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/academic-integrity-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/academic-integrity-assistant"
+  },
+  {
+   "slug": "academic-research-data-analyst",
+   "name": "Academic Research Data Analyst",
+   "tagline": "Cleans, analyzes, visualizes, and interprets academic research data for teaching assistants.",
+   "category": "research",
+   "jobs": [
+    "education",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/education/data-analysis/academic-research-data-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/academic-research-data-analyst"
+  },
+  {
    "slug": "academic-research-synthesizer",
    "name": "Academic Research Synthesizer",
    "tagline": "Synthesizes peer-reviewed research into cited literature reviews with confidence levels.",
@@ -293,6 +322,22 @@
    "url": "https://templatesgrokbot.com/bot/accessibility",
    "adapted_from": "https://www.aitmpl.com/component/skills/development/accessibility",
    "source_license": "MIT"
+  },
+  {
+   "slug": "accessibility-adjustments-assistant",
+   "name": "Accessibility Adjustments Assistant",
+   "tagline": "Makes teaching materials accessible for all students.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "speech-to-text",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/accessibility-adjustments-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/accessibility-adjustments-assistant"
   },
   {
    "slug": "accessibility-auditor",
@@ -953,6 +998,23 @@
    ],
    "path": "jobs/writers/marketing-and-growth/affiliate-marketing-content-planner.md",
    "url": "https://templatesgrokbot.com/bot/affiliate-marketing-content-planner"
+  },
+  {
+   "slug": "affiliate-marketing-optimizer",
+   "name": "Affiliate Marketing Optimizer",
+   "tagline": "Optimizes affiliate marketing campaigns from keyword research to performance reporting.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/affiliate-marketing-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/affiliate-marketing-optimizer"
   },
   {
    "slug": "after-sales-service-assistant",
@@ -4174,6 +4236,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "art-and-craft-project-planner",
+   "name": "Art and Craft Project Planner",
+   "tagline": "Generates art and craft project ideas, plans, and guidance for elementary classrooms.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/art-and-craft-project-planner.md",
+   "url": "https://templatesgrokbot.com/bot/art-and-craft-project-planner"
+  },
+  {
    "slug": "article-illustrations",
    "name": "Article Illustrations",
    "tagline": "Generate hand-drawn 16:9 article illustrations with Grav character and sparse annotations.",
@@ -4650,6 +4727,22 @@
    ],
    "path": "jobs/writers/writing-and-content/audience-insight-and-content-planner.md",
    "url": "https://templatesgrokbot.com/bot/audience-insight-and-content-planner"
+  },
+  {
+   "slug": "audience-insight-strategist",
+   "name": "Audience Insight Strategist",
+   "tagline": "Turns audience data into content strategy for content marketing managers.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/audience-insight-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/audience-insight-strategist"
   },
   {
    "slug": "audience-segmentation-strategist",
@@ -9178,6 +9271,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "brand-guidelines-architect",
+   "name": "Brand Guidelines Architect",
+   "tagline": "Builds and maintains your brand guidelines across all marketing materials and channels.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "design",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/design/brand-guidelines-architect.md",
+   "url": "https://templatesgrokbot.com/bot/brand-guidelines-architect"
+  },
+  {
    "slug": "brand-guidelines-community",
    "name": "Brand Guidelines Community",
    "tagline": "Applies Anthropic brand colors and typography to artifacts on request.",
@@ -9462,6 +9572,24 @@
    ],
    "path": "jobs/pr-and-communications/writing-and-content/brand-storytelling-assistant.md",
    "url": "https://templatesgrokbot.com/bot/brand-storytelling-assistant"
+  },
+  {
+   "slug": "brand-storytelling-content-assistant",
+   "name": "Brand Storytelling Content Assistant",
+   "tagline": "Turns your brand's story into a full content engine, from ideas to performance tracking.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "management",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "writing-and-content",
+    "social-media",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/writing-and-content/brand-storytelling-content-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/brand-storytelling-content-assistant"
   },
   {
    "slug": "brand-strategy-assistant",
@@ -9992,6 +10120,23 @@
    "url": "https://templatesgrokbot.com/bot/brute-force-hunter",
    "adapted_from": "https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/hunt-brute-force",
    "source_license": "MIT"
+  },
+  {
+   "slug": "budget-and-forecast-assistant",
+   "name": "Budget and Forecast Assistant",
+   "tagline": "Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders.",
+   "category": "finance",
+   "jobs": [
+    "operations",
+    "finance",
+    "hospitality-and-events",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/operations/data-analysis/budget-and-forecast-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/budget-and-forecast-assistant"
   },
   {
    "slug": "budget-forecast-assistant",
@@ -10804,6 +10949,23 @@
    "path": "jobs/marketing/marketing-and-growth/marketing-campaign-plan.md",
    "url": "https://templatesgrokbot.com/bot/marketing-campaign-plan",
    "adapted_from": "https://collectivebrain.de/en/skills/marketing-campaign-plan/"
+  },
+  {
+   "slug": "campaign-roi-orchestrator",
+   "name": "Campaign ROI Orchestrator",
+   "tagline": "Plans, runs, and optimizes influencer partnerships from discovery to ROI.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "sales-and-negotiation",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/campaign-roi-orchestrator.md",
+   "url": "https://templatesgrokbot.com/bot/campaign-roi-orchestrator"
   },
   {
    "slug": "canva-automation",
@@ -12409,6 +12571,20 @@
    "url": "https://templatesgrokbot.com/bot/classroom-management-assistant"
   },
   {
+   "slug": "classroom-reading-planner",
+   "name": "Classroom Reading Planner",
+   "tagline": "Finds books, builds questions, and plans reading activities for your elementary classroom.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/classroom-reading-planner.md",
+   "url": "https://templatesgrokbot.com/bot/classroom-reading-planner"
+  },
+  {
    "slug": "classroom-routine-architect",
    "name": "Classroom Routine Architect",
    "tagline": "Manages classroom routines, behavior, and instruction with AI-assisted planning and tracking.",
@@ -13277,6 +13453,21 @@
    "source_license": "MIT"
   },
   {
+   "slug": "cloud-integration-navigator",
+   "name": "Cloud Integration Navigator",
+   "tagline": "Guides cloud integration, migration, security, and cost optimization for systems administrators.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/cloud-integration-navigator.md",
+   "url": "https://templatesgrokbot.com/bot/cloud-integration-navigator"
+  },
+  {
    "slug": "cloud-k8s",
    "name": "Cloud K8s",
    "tagline": "Authorized cloud, container, and Kubernetes security assessment.",
@@ -13360,6 +13551,21 @@
    "url": "https://templatesgrokbot.com/bot/cloud-run-basics",
    "adapted_from": "https://www.aitmpl.com/component/skills/development/cloud-run-basics",
    "source_license": "MIT"
+  },
+  {
+   "slug": "cloud-security-planning-assistant",
+   "name": "Cloud Security Planning Assistant",
+   "tagline": "Cloud security planning and response assistant for systems administrators.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/cloud-security-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/cloud-security-planning-assistant"
   },
   {
    "slug": "cloud-sql-basics",
@@ -14843,6 +15049,21 @@
    "url": "https://templatesgrokbot.com/bot/comparative-market-analysis-assistant"
   },
   {
+   "slug": "compensation-and-benefits-analyst",
+   "name": "Compensation and Benefits Analyst",
+   "tagline": "Analyzes compensation and benefits data to inform HR strategy and ensure competitive, compliant packages.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/human-resources/data-analysis/compensation-and-benefits-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/compensation-and-benefits-analyst"
+  },
+  {
    "slug": "competitive-ads-extractor",
    "name": "Competitive Ads Extractor",
    "tagline": "Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns.",
@@ -15581,6 +15802,24 @@
    "url": "https://templatesgrokbot.com/bot/compliance-training-material-creator"
   },
   {
+   "slug": "compliance-training-oversight-assistant",
+   "name": "Compliance Training Oversight Assistant",
+   "tagline": "Builds, tracks, and improves compliance training programs for HR specialists.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "office-tools",
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/security-and-compliance/compliance-training-oversight-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-training-oversight-assistant"
+  },
+  {
    "slug": "compliance-training-program-developer",
    "name": "Compliance Training Program Developer",
    "tagline": "Builds and maintains compliance training programs for compliance analysts.",
@@ -15883,6 +16122,49 @@
    "url": "https://templatesgrokbot.com/bot/conductor-validator",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "conflict-resolution-advisor",
+   "name": "Conflict Resolution Advisor",
+   "tagline": "Helps HR directors analyze, resolve, and prevent workplace conflicts with tailored advice and resources.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/writing-and-content/conflict-resolution-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/conflict-resolution-advisor"
+  },
+  {
+   "slug": "conflict-resolution-strategist",
+   "name": "Conflict Resolution Strategist",
+   "tagline": "Builds conflict resolution strategies, policies, training, and tools for HR consultants.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/writing-and-content/conflict-resolution-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/conflict-resolution-strategist"
+  },
+  {
+   "slug": "conflict-resolution-support-assistant",
+   "name": "Conflict Resolution Support Assistant",
+   "tagline": "Guides employee relations specialists through conflict resolution from assessment to follow-up.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "support-and-community",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/human-resources/support-and-community/conflict-resolution-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/conflict-resolution-support-assistant"
   },
   {
    "slug": "confluence-automation",
@@ -16530,6 +16812,21 @@
    "url": "https://templatesgrokbot.com/bot/content-marketing-assistant"
   },
   {
+   "slug": "content-performance-analyzer",
+   "name": "Content Performance Analyzer",
+   "tagline": "Analyzes content performance across channels and metrics to guide strategy.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/marketing/data-analysis/content-performance-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/content-performance-analyzer"
+  },
+  {
    "slug": "content-personalization-planner",
    "name": "Content Personalization Planner",
    "tagline": "Personalizes content across channels using audience data and behavioral insights.",
@@ -16564,6 +16861,24 @@
    ],
    "path": "jobs/writers/writing-and-content/content-repurposing-assistant.md",
    "url": "https://templatesgrokbot.com/bot/content-repurposing-assistant"
+  },
+  {
+   "slug": "content-repurposing-planner",
+   "name": "Content Repurposing Planner",
+   "tagline": "Repurpose existing content into fresh formats across platforms, from research to distribution.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "creatives"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "social-media",
+    "text-to-speech"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/content-repurposing-planner.md",
+   "url": "https://templatesgrokbot.com/bot/content-repurposing-planner"
   },
   {
    "slug": "content-research-assistant",
@@ -16601,6 +16916,20 @@
    "url": "https://templatesgrokbot.com/bot/content-research-writer",
    "adapted_from": "https://www.aitmpl.com/component/skills/business-marketing/content-research-writer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "content-roi-analyst",
+   "name": "Content ROI Analyst",
+   "tagline": "Analyzes content performance and ROI to guide marketing decisions.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/data-analysis/content-roi-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/content-roi-analyst"
   },
   {
    "slug": "content-strategy",
@@ -17910,6 +18239,22 @@
    "url": "https://templatesgrokbot.com/bot/crisis-communication-strategist"
   },
   {
+   "slug": "crisis-content-manager",
+   "name": "Crisis Content Manager",
+   "tagline": "Plan, respond, and recover from crises with structured content and communication support.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/marketing/writing-and-content/crisis-content-manager.md",
+   "url": "https://templatesgrokbot.com/bot/crisis-content-manager"
+  },
+  {
    "slug": "crisis-management-and-response-assistant",
    "name": "Crisis Management and Response Assistant",
    "tagline": "Guides insurance agency managers through crisis preparation, response, and recovery.",
@@ -18822,6 +19167,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "culture-assessment-and-transformation-planner",
+   "name": "Culture Assessment and Transformation Planner",
+   "tagline": "Designs and analyzes culture assessments, then builds action plans for HR consultants.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/human-resources/data-analysis/culture-assessment-and-transformation-planner.md",
+   "url": "https://templatesgrokbot.com/bot/culture-assessment-and-transformation-planner"
+  },
+  {
    "slug": "culture-protocol-assistant",
    "name": "Culture Protocol Assistant",
    "tagline": "Aseptic culture assistant for microbiologists—media, isolation, preservation, scale-up and quality control.",
@@ -19202,6 +19563,21 @@
    "url": "https://templatesgrokbot.com/bot/customer-feedback-insights-assistant"
   },
   {
+   "slug": "customer-feedback-intelligence-analyst",
+   "name": "Customer Feedback Intelligence Analyst",
+   "tagline": "Turns raw customer feedback into prioritized, actionable insights for operations leaders.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/operations/data-analysis/customer-feedback-intelligence-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/customer-feedback-intelligence-analyst"
+  },
+  {
    "slug": "customer-inquiry-response-assistant",
    "name": "Customer Inquiry Response Assistant",
    "tagline": "Drafts, translates, and tracks customer support replies across channels.",
@@ -19359,6 +19735,23 @@
    "url": "https://templatesgrokbot.com/bot/customer-panel-debate",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/customer-panel-of-experts",
    "source_license": "MIT"
+  },
+  {
+   "slug": "customer-persona-architect",
+   "name": "Customer Persona Architect",
+   "tagline": "Builds, validates, and refines customer personas for marketing strategy.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/customer-persona-architect.md",
+   "url": "https://templatesgrokbot.com/bot/customer-persona-architect"
   },
   {
    "slug": "customer-persona-builder",
@@ -19822,6 +20215,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "d-i-strategy-planner",
+   "name": "D&I Strategy Planner",
+   "tagline": "Plans, builds, and tracks your organization's diversity and inclusion strategy from research to reporting.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "research",
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/productivity/d-i-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/d-i-strategy-planner"
+  },
+  {
    "slug": "daily",
    "name": "Daily",
    "tagline": "Build real-time voice and multimodal AI agents with Pipecat.",
@@ -19839,6 +20249,21 @@
    "url": "https://templatesgrokbot.com/bot/daily",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "daily-elementary-classroom-manager",
+   "name": "Daily Elementary Classroom Manager",
+   "tagline": "Manages daily classroom routines, behavior, and parent communication for elementary teachers.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools"
+   ],
+   "path": "jobs/education/productivity/daily-elementary-classroom-manager.md",
+   "url": "https://templatesgrokbot.com/bot/daily-elementary-classroom-manager"
   },
   {
    "slug": "daily-gift",
@@ -20038,6 +20463,22 @@
    ],
    "path": "jobs/it-and-development/cloud-and-devops/data-center-network-assistant.md",
    "url": "https://templatesgrokbot.com/bot/data-center-network-assistant"
+  },
+  {
+   "slug": "data-center-power-optimizer",
+   "name": "Data Center Power Optimizer",
+   "tagline": "Optimizes data center power usage, forecasting, and compliance for systems administrators.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/data-center-power-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/data-center-power-optimizer"
   },
   {
    "slug": "data-cleaner",
@@ -20606,6 +21047,23 @@
    "url": "https://templatesgrokbot.com/bot/database-admin",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "database-administration-advisor",
+   "name": "Database Administration Advisor",
+   "tagline": "Guides database administrators through backup, tuning, security, and growth planning.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "productivity",
+    "security-and-compliance",
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/database-administration-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/database-administration-advisor"
   },
   {
    "slug": "database-administrator",
@@ -21928,6 +22386,23 @@
    "url": "https://templatesgrokbot.com/bot/deployment-procedures",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "deployment-strategy-guide",
+   "name": "Deployment Strategy Guide",
+   "tagline": "Guides systems administrators through software deployment planning, automation, and troubleshooting.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/deployment-strategy-guide.md",
+   "url": "https://templatesgrokbot.com/bot/deployment-strategy-guide"
   },
   {
    "slug": "deployment-validation-config-validate",
@@ -23303,6 +23778,23 @@
    "url": "https://templatesgrokbot.com/bot/disaster-recovery-and-backup-planner"
   },
   {
+   "slug": "disaster-recovery-plan-builder",
+   "name": "Disaster Recovery Plan Builder",
+   "tagline": "Builds and maintains your disaster recovery plan from risk assessment to continuous improvement.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations",
+    "government"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/disaster-recovery-plan-builder.md",
+   "url": "https://templatesgrokbot.com/bot/disaster-recovery-plan-builder"
+  },
+  {
    "slug": "discord-automation",
    "name": "Discord Automation",
    "tagline": "Automate Discord messages, roles, webhooks, and reactions via Rube MCP.",
@@ -23426,6 +23918,21 @@
    "url": "https://templatesgrokbot.com/bot/dispatching-parallel-agents",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "dispute-mediation-assistant",
+   "name": "Dispute Mediation Assistant",
+   "tagline": "Guides employee relations specialists through workplace dispute mediation from intake to follow-up.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "knowledge-management"
+   ],
+   "path": "jobs/human-resources/sales-and-negotiation/dispute-mediation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/dispute-mediation-assistant"
   },
   {
    "slug": "dispute-resolution-support-assistant",
@@ -23623,6 +24130,37 @@
    "url": "https://templatesgrokbot.com/bot/ditto",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "diversity-analytics-consultant",
+   "name": "Diversity Analytics Consultant",
+   "tagline": "Analyze diversity data, benchmark, report, and improve inclusion initiatives for HR consultants.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/data-analysis/diversity-analytics-consultant.md",
+   "url": "https://templatesgrokbot.com/bot/diversity-analytics-consultant"
+  },
+  {
+   "slug": "diversity-training-program-assistant",
+   "name": "Diversity Training Program Assistant",
+   "tagline": "Designs, runs, and evaluates inclusive workplace diversity training programs.",
+   "category": "education",
+   "jobs": [
+    "human-resources",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/human-resources/teaching-and-tutoring/diversity-training-program-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/diversity-training-program-assistant"
   },
   {
    "slug": "anthropic-divi-edit",
@@ -24990,6 +25528,21 @@
    "url": "https://templatesgrokbot.com/bot/e-learning-content-creator"
   },
   {
+   "slug": "e-learning-strategy-planner",
+   "name": "E-Learning Strategy Planner",
+   "tagline": "Helps Training and Development Specialists plan, build, and improve e-learning programs.",
+   "category": "education",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/teaching-and-tutoring/e-learning-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/e-learning-strategy-planner"
+  },
+  {
    "slug": "e-library-operations-assistant",
    "name": "E-Library Operations Assistant",
    "tagline": "Manages e-library user accounts, catalog, search, reservations, recommendations, feedback, and reports.",
@@ -25179,6 +25732,24 @@
    "url": "https://templatesgrokbot.com/bot/editorial-calendar-management-assistant"
   },
   {
+   "slug": "editorial-calendar-planner",
+   "name": "Editorial Calendar Planner",
+   "tagline": "Plans your editorial calendar from topic research to performance tracking.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "management"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "productivity",
+    "social-media"
+   ],
+   "path": "jobs/marketing/writing-and-content/editorial-calendar-planner.md",
+   "url": "https://templatesgrokbot.com/bot/editorial-calendar-planner"
+  },
+  {
    "slug": "editorial-design",
    "name": "Editorial Design",
    "tagline": "Generate magazine-inspired layouts with serif headlines, drop caps, and columnar text.",
@@ -25311,6 +25882,20 @@
    "url": "https://templatesgrokbot.com/bot/edr-bypass-re",
    "adapted_from": "https://github.com/zhaoxuya520/reverse-skill",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "edtech-tool-recommender",
+   "name": "EdTech Tool Recommender",
+   "tagline": "Finds, evaluates, and recommends EdTech tools for elementary classrooms.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/education/research/edtech-tool-recommender.md",
+   "url": "https://templatesgrokbot.com/bot/edtech-tool-recommender"
   },
   {
    "slug": "educational-chatbot-builder",
@@ -25567,6 +26152,117 @@
    "source_license": "MIT"
   },
   {
+   "slug": "elementary-fun-fact-activity-maker",
+   "name": "Elementary Fun Fact Activity Maker",
+   "tagline": "Turns fun facts into ready-to-use classroom activities for elementary teachers.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/elementary-fun-fact-activity-maker.md",
+   "url": "https://templatesgrokbot.com/bot/elementary-fun-fact-activity-maker"
+  },
+  {
+   "slug": "elementary-grading-assistant",
+   "name": "Elementary Grading Assistant",
+   "tagline": "Grades student work, builds rubrics, and tracks progress for elementary teachers.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "data-analysis"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/elementary-grading-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/elementary-grading-assistant"
+  },
+  {
+   "slug": "elementary-homework-support",
+   "name": "Elementary Homework Support",
+   "tagline": "Homework support for elementary teachers: clarify, plan, solve, and review assignments.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "research",
+    "productivity"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/elementary-homework-support.md",
+   "url": "https://templatesgrokbot.com/bot/elementary-homework-support"
+  },
+  {
+   "slug": "elementary-insights-for-teachers",
+   "name": "Elementary Insights For Teachers",
+   "tagline": "Turns student performance data into insights, plans, and reports for elementary teachers.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/education/data-analysis/elementary-insights-for-teachers.md",
+   "url": "https://templatesgrokbot.com/bot/elementary-insights-for-teachers"
+  },
+  {
+   "slug": "elementary-quiz-creator",
+   "name": "Elementary Quiz Creator",
+   "tagline": "Creates, formats, and reviews quizzes and tests for elementary classrooms, with answer keys and grading support.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/elementary-quiz-creator.md",
+   "url": "https://templatesgrokbot.com/bot/elementary-quiz-creator"
+  },
+  {
+   "slug": "elementary-teaching-resource-organizer",
+   "name": "Elementary Teaching Resource Organizer",
+   "tagline": "Organize lessons, materials, and assessments for your elementary classroom with AI assistance.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "productivity",
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/elementary-teaching-resource-organizer.md",
+   "url": "https://templatesgrokbot.com/bot/elementary-teaching-resource-organizer"
+  },
+  {
+   "slug": "elementary-worksheet-creator",
+   "name": "Elementary Worksheet Creator",
+   "tagline": "Builds complete, personalized worksheets for elementary classrooms from topic to final proof.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "design",
+    "generative-art"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/elementary-worksheet-creator.md",
+   "url": "https://templatesgrokbot.com/bot/elementary-worksheet-creator"
+  },
+  {
    "slug": "elixir-expert",
    "name": "Elixir Expert",
    "tagline": "Build fault-tolerant, concurrent systems with Elixir, OTP, and Phoenix.",
@@ -25648,6 +26344,21 @@
    ],
    "path": "jobs/sales/marketing-and-growth/email-campaign-automation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/email-campaign-automation-assistant"
+  },
+  {
+   "slug": "email-campaign-builder",
+   "name": "Email Campaign Builder",
+   "tagline": "Builds, sends, and optimizes email campaigns that engage subscribers and drive conversions.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/email-campaign-builder.md",
+   "url": "https://templatesgrokbot.com/bot/email-campaign-builder"
   },
   {
    "slug": "email-campaign-copywriter",
@@ -25836,6 +26547,23 @@
    ],
    "path": "jobs/pr-and-communications/marketing-and-growth/email-marketing-campaign-assistant.md",
    "url": "https://templatesgrokbot.com/bot/email-marketing-campaign-assistant"
+  },
+  {
+   "slug": "email-marketing-campaign-planner",
+   "name": "Email Marketing Campaign Planner",
+   "tagline": "Plans, writes, and optimizes email campaigns for marketing VPs.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/email-marketing-campaign-planner.md",
+   "url": "https://templatesgrokbot.com/bot/email-marketing-campaign-planner"
   },
   {
    "slug": "email-metrics-insight-for-marketers",
@@ -26301,6 +27029,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "employee-benefits-assistant",
+   "name": "Employee Benefits Assistant",
+   "tagline": "Explains and supports employee benefits questions, enrollment, and communication for HR Directors.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "support-and-community",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/human-resources/support-and-community/employee-benefits-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/employee-benefits-assistant"
+  },
+  {
    "slug": "employee-engagement-campaign-coordinator",
    "name": "Employee Engagement Campaign Coordinator",
    "tagline": "Plans and runs employee engagement campaigns, from surveys to events, with data-backed insights.",
@@ -26317,6 +27061,37 @@
    ],
    "path": "jobs/pr-and-communications/marketing-and-growth/employee-engagement-campaign-coordinator.md",
    "url": "https://templatesgrokbot.com/bot/employee-engagement-campaign-coordinator"
+  },
+  {
+   "slug": "employee-engagement-strategist",
+   "name": "Employee Engagement Strategist",
+   "tagline": "Turns survey data and employee input into engagement plans, events, and recognition programs.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/data-analysis/employee-engagement-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/employee-engagement-strategist"
+  },
+  {
+   "slug": "employee-feedback-compilation-assistant",
+   "name": "Employee Feedback Compilation Assistant",
+   "tagline": "Turns employee feedback into clear themes, reports, and action plans for HR teams.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/data-analysis/employee-feedback-compilation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/employee-feedback-compilation-assistant"
   },
   {
    "slug": "employee-handbook-builder",
@@ -26380,6 +27155,23 @@
    "url": "https://templatesgrokbot.com/bot/employee-productivity-assessment-assistant"
   },
   {
+   "slug": "employee-relations-policy-assistant",
+   "name": "Employee Relations Policy Assistant",
+   "tagline": "Develops, reviews, and communicates employee relations policies with research, drafting, and stakeholder support.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "government"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/writing-and-content/employee-relations-policy-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/employee-relations-policy-assistant"
+  },
+  {
    "slug": "employee-scheduling-optimizer",
    "name": "Employee Scheduling Optimizer",
    "tagline": "Turns employee availability, strengths, and business data into fair, compliant schedules.",
@@ -26396,6 +27188,49 @@
    ],
    "path": "jobs/operations/productivity/employee-scheduling-optimizer.md",
    "url": "https://templatesgrokbot.com/bot/employee-scheduling-optimizer"
+  },
+  {
+   "slug": "employee-survey-insight-assistant",
+   "name": "Employee Survey Insight Assistant",
+   "tagline": "Turns employee survey data into questions, insights, reports, and action plans.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/data-analysis/employee-survey-insight-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/employee-survey-insight-assistant"
+  },
+  {
+   "slug": "employee-survey-insights-assistant",
+   "name": "Employee Survey Insights Assistant",
+   "tagline": "Turns employee survey data into clear insights and action plans for HR.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/data-analysis/employee-survey-insights-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/employee-survey-insights-assistant"
+  },
+  {
+   "slug": "employee-template-analytics-assistant",
+   "name": "Employee Template Analytics Assistant",
+   "tagline": "Analyzes employee strengths, finds gaps, and plans development for HR teams.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/data-analysis/employee-template-analytics-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/employee-template-analytics-assistant"
   },
   {
    "slug": "employee-template-tracking-planner",
@@ -26432,6 +27267,53 @@
    ],
    "path": "jobs/operations/teaching-and-tutoring/employee-training-program-coordinator.md",
    "url": "https://templatesgrokbot.com/bot/employee-training-program-coordinator"
+  },
+  {
+   "slug": "employee-training-support-assistant",
+   "name": "Employee Training Support Assistant",
+   "tagline": "Designs, runs, and evaluates employee training programs with AI support.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "office-tools",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/teaching-and-tutoring/employee-training-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/employee-training-support-assistant"
+  },
+  {
+   "slug": "employee-turnover-analyst",
+   "name": "Employee Turnover Analyst",
+   "tagline": "Analyzes employee turnover data and delivers retention strategies for HR consultants.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/data-analysis/employee-turnover-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/employee-turnover-analyst"
+  },
+  {
+   "slug": "employee-wellness-program-assistant",
+   "name": "Employee Wellness Program Assistant",
+   "tagline": "Designs and runs employee wellness programs from surveys to challenges.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/writing-and-content/employee-wellness-program-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/employee-wellness-program-assistant"
   },
   {
    "slug": "employment-contract-templates",
@@ -27009,6 +27891,25 @@
    "source_license": "MIT"
   },
   {
+   "slug": "equipment-maintenance-program-builder",
+   "name": "Equipment Maintenance Program Builder",
+   "tagline": "Builds and runs a complete equipment maintenance program from inspection to compliance tracking.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "real-estate-and-construction",
+    "hospitality-and-events",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/operations/productivity/equipment-maintenance-program-builder.md",
+   "url": "https://templatesgrokbot.com/bot/equipment-maintenance-program-builder"
+  },
+  {
    "slug": "equipment-selection-guide",
    "name": "Equipment Selection Guide",
    "tagline": "Guides process engineers through equipment selection with research, analysis, and compliance checks.",
@@ -27526,6 +28427,23 @@
    "url": "https://templatesgrokbot.com/bot/event-lifecycle-orchestrator"
   },
   {
+   "slug": "event-marketing-strategy-planner",
+   "name": "Event Marketing Strategy Planner",
+   "tagline": "Plans and runs your event marketing strategy from audience to post-event follow-up. (under 130 characters) Wait, that's 130? Let me count:",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "social-media"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/event-marketing-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/event-marketing-strategy-planner"
+  },
+  {
    "slug": "event-planning-and-management-assistant",
    "name": "Event Planning and Management Assistant",
    "tagline": "Plans, promotes, and runs your events from venue to post-event report.",
@@ -27716,6 +28634,21 @@
    "url": "https://templatesgrokbot.com/bot/exa-search",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "exam-question-generator",
+   "name": "Exam Question Generator",
+   "tagline": "Generate, refine, and tailor exam questions for your courses from topic to final review.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/exam-question-generator.md",
+   "url": "https://templatesgrokbot.com/bot/exam-question-generator"
   },
   {
    "slug": "examiner",
@@ -27964,6 +28897,35 @@
    "url": "https://templatesgrokbot.com/bot/executive-resume-writer",
    "adapted_from": "https://www.aitmpl.com/component/skills/career/executive-resume-writer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "exit-interview-insights-analyst",
+   "name": "Exit Interview Insights Analyst",
+   "tagline": "Turns exit interview feedback into clear themes, trends, and retention actions.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/data-analysis/exit-interview-insights-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/exit-interview-insights-analyst"
+  },
+  {
+   "slug": "exit-interview-insights-assistant",
+   "name": "Exit Interview Insights Assistant",
+   "tagline": "Turns exit interview data into retention insights and action plans for HR.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/data-analysis/exit-interview-insights-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/exit-interview-insights-assistant"
   },
   {
    "slug": "expense-folder-auditor",
@@ -29117,6 +30079,22 @@
    "url": "https://templatesgrokbot.com/bot/fedora-hyprland-installer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "feedback-analysis-and-reporting-assistant",
+   "name": "Feedback Analysis and Reporting Assistant",
+   "tagline": "Collects, analyzes, and reports on training feedback to improve programs.",
+   "category": "education",
+   "jobs": [
+    "human-resources",
+    "education"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/data-analysis/feedback-analysis-and-reporting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/feedback-analysis-and-reporting-assistant"
   },
   {
    "slug": "feedback-collection-assistant",
@@ -31947,6 +32925,22 @@
    "url": "https://templatesgrokbot.com/bot/gamified-training-program-designer"
   },
   {
+   "slug": "gap-closure-training-planner",
+   "name": "Gap Closure Training Planner",
+   "tagline": "Identifies training needs and aligns development programs with organizational goals.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/human-resources/data-analysis/gap-closure-training-planner.md",
+   "url": "https://templatesgrokbot.com/bot/gap-closure-training-planner"
+  },
+  {
    "slug": "gcp-cloud-run",
    "name": "Gcp Cloud Run",
    "tagline": "Guides building and optimizing serverless apps on GCP Cloud Run and Functions.",
@@ -34731,6 +35725,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "health-safety-compliance-assistant",
+   "name": "Health & Safety Compliance Assistant",
+   "tagline": "Helps Heads of Operations run health and safety compliance: inspections, policies, training, risk, audits, incidents, and reporting.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "real-estate-and-construction",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/operations/security-and-compliance/health-safety-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/health-safety-compliance-assistant"
+  },
+  {
    "slug": "health-and-safety-compliance-assistant",
    "name": "Health and Safety Compliance Assistant",
    "tagline": "Manages lab safety compliance: training, waste, equipment, incidents, audits, and more.",
@@ -35274,6 +36285,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "history-storytelling-assistant",
+   "name": "History Storytelling Assistant",
+   "tagline": "Turns history topics into engaging, accurate stories and interactive lessons for primary students.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/history-storytelling-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/history-storytelling-assistant"
+  },
+  {
    "slug": "history-visualization-assistant",
    "name": "History Visualization Assistant",
    "tagline": "Turns historical events into vivid, interactive visual lessons for secondary school students.",
@@ -35376,6 +36403,22 @@
    ],
    "path": "jobs/operations/productivity/home-ops.md",
    "url": "https://templatesgrokbot.com/bot/home-ops"
+  },
+  {
+   "slug": "homework-support-assistant",
+   "name": "Homework Support Assistant",
+   "tagline": "Homework help for teaching assistants: clarify, guide, proofread, and support students.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/homework-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/homework-support-assistant"
   },
   {
    "slug": "hono",
@@ -35684,6 +36727,35 @@
    ],
    "path": "jobs/operations/data-analysis/hr-analytics-insights.md",
    "url": "https://templatesgrokbot.com/bot/hr-analytics-insights"
+  },
+  {
+   "slug": "hr-policy-clarification-assistant",
+   "name": "HR Policy Clarification Assistant",
+   "tagline": "Clarifies policies for HR directors by drafting, explaining, and auditing company procedures.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/writing-and-content/hr-policy-clarification-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/hr-policy-clarification-assistant"
+  },
+  {
+   "slug": "hr-policy-development-assistant",
+   "name": "HR Policy Development Assistant",
+   "tagline": "Develops, reviews, and rolls out HR policies for consultants.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/human-resources/writing-and-content/hr-policy-development-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/hr-policy-development-assistant"
   },
   {
    "slug": "hr-pro",
@@ -37397,6 +38469,23 @@
    "url": "https://templatesgrokbot.com/bot/influencer-partnership-strategist"
   },
   {
+   "slug": "influencer-partnership-tracker",
+   "name": "Influencer Partnership Tracker",
+   "tagline": "Manages influencer collaborations from discovery to reporting.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "management"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "sales-and-negotiation",
+    "productivity"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/influencer-partnership-tracker.md",
+   "url": "https://templatesgrokbot.com/bot/influencer-partnership-tracker"
+  },
+  {
    "slug": "influencer-roi-campaign-orchestrator",
    "name": "Influencer ROI Campaign Orchestrator",
    "tagline": "Manages influencer collaborations from discovery to ROI analysis.",
@@ -38228,6 +39317,22 @@
    "url": "https://templatesgrokbot.com/bot/interactive-learning-tools-design-assistant"
   },
   {
+   "slug": "interactive-module-creator",
+   "name": "Interactive Module Creator",
+   "tagline": "Interactive learning module creator for teaching assistants, from research to adaptive content.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "research",
+    "design"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/interactive-module-creator.md",
+   "url": "https://templatesgrokbot.com/bot/interactive-module-creator"
+  },
+  {
    "slug": "interactive-portfolio",
    "name": "Interactive Portfolio",
    "tagline": "Builds project portfolios that convert visitors into job leads or client inquiries.",
@@ -38276,6 +39381,25 @@
    ],
    "path": "jobs/education/teaching-and-tutoring/interactive-training-designer.md",
    "url": "https://templatesgrokbot.com/bot/interactive-training-designer"
+  },
+  {
+   "slug": "interactive-training-module-designer",
+   "name": "Interactive Training Module Designer",
+   "tagline": "Designs and builds interactive training modules with AI-generated content, scenarios, and assessments.",
+   "category": "education",
+   "jobs": [
+    "human-resources",
+    "education",
+    "government"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "design",
+    "translation"
+   ],
+   "path": "jobs/human-resources/teaching-and-tutoring/interactive-training-module-designer.md",
+   "url": "https://templatesgrokbot.com/bot/interactive-training-module-designer"
   },
   {
    "slug": "interactive-video-elements-planner",
@@ -38560,6 +39684,21 @@
    "source_license": "MIT"
   },
   {
+   "slug": "interview-scheduling-coordinator",
+   "name": "Interview Scheduling Coordinator",
+   "tagline": "Coordinates candidate and interviewer schedules, communication, and logistics for smooth interviews.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "office-tools",
+    "productivity"
+   ],
+   "path": "jobs/human-resources/office-tools/interview-scheduling-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/interview-scheduling-coordinator"
+  },
+  {
    "slug": "interview-style-doc-building",
    "name": "Interview Style Doc Building",
    "tagline": "Build strategy docs by asking one question at a time and patching the file.",
@@ -38818,6 +39957,23 @@
    ],
    "path": "jobs/operations/data-analysis/inventory-forecasting-analyst.md",
    "url": "https://templatesgrokbot.com/bot/inventory-forecasting-analyst"
+  },
+  {
+   "slug": "inventory-forecasting-and-replenishment-planner",
+   "name": "Inventory Forecasting and Replenishment Planner",
+   "tagline": "Track, forecast, and optimize inventory with AI-assisted operations management.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "hospitality-and-events",
+    "management"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/operations/data-analysis/inventory-forecasting-and-replenishment-planner.md",
+   "url": "https://templatesgrokbot.com/bot/inventory-forecasting-and-replenishment-planner"
   },
   {
    "slug": "inventory-forecasting-assistant",
@@ -39459,6 +40615,22 @@
    "url": "https://templatesgrokbot.com/bot/it-ops-orchestrator",
    "adapted_from": "https://www.aitmpl.com/component/agents/expert-advisors/it-ops-orchestrator",
    "source_license": "MIT"
+  },
+  {
+   "slug": "it-training-content-builder",
+   "name": "IT Training Content Builder",
+   "tagline": "Builds and maintains staff training materials and interactive support for IT systems.",
+   "category": "education",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/teaching-and-tutoring/it-training-content-builder.md",
+   "url": "https://templatesgrokbot.com/bot/it-training-content-builder"
   },
   {
    "slug": "iterate-pr",
@@ -40411,6 +41583,22 @@
    "url": "https://templatesgrokbot.com/bot/kotlin-specialist",
    "adapted_from": "https://www.aitmpl.com/component/agents/programming-languages/kotlin-specialist",
    "source_license": "MIT"
+  },
+  {
+   "slug": "kpi-analysis-and-forecasting-assistant",
+   "name": "KPI Analysis and Forecasting Assistant",
+   "tagline": "Turns your KPI data into clear insights, forecasts, and action plans for operations decisions.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "hospitality-and-events",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/operations/data-analysis/kpi-analysis-and-forecasting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/kpi-analysis-and-forecasting-assistant"
   },
   {
    "slug": "kpi-dashboard-design",
@@ -41766,6 +42954,22 @@
    ],
    "path": "jobs/legal/security-and-compliance/legal-compliance-review-assistant.md",
    "url": "https://templatesgrokbot.com/bot/legal-compliance-review-assistant"
+  },
+  {
+   "slug": "legal-compliance-reviewer",
+   "name": "Legal Compliance Reviewer",
+   "tagline": "Reviews employment documents and policies for legal compliance and prepares training.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/security-and-compliance/legal-compliance-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/legal-compliance-reviewer"
   },
   {
    "slug": "legal-document-drafter",
@@ -43267,6 +44471,20 @@
    ],
    "path": "jobs/operations/productivity/logistics-operations-coordinator.md",
    "url": "https://templatesgrokbot.com/bot/logistics-operations-coordinator"
+  },
+  {
+   "slug": "logistics-optimization-assistant",
+   "name": "Logistics Optimization Assistant",
+   "tagline": "Optimizes logistics operations from route planning to reverse logistics.",
+   "category": "operations",
+   "jobs": [
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/operations/data-analysis/logistics-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/logistics-optimization-assistant"
   },
   {
    "slug": "logistics-performance-metrics-analyzer",
@@ -45022,6 +46240,22 @@
    "url": "https://templatesgrokbot.com/bot/market-research-and-analysis-assistant"
   },
   {
+   "slug": "market-research-insight-assistant",
+   "name": "Market Research Insight Assistant",
+   "tagline": "Turns market research data into actionable insights for marketing leaders.",
+   "category": "research",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/research/market-research-insight-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/market-research-insight-assistant"
+  },
+  {
    "slug": "market-research-reports",
    "name": "Market Research Reports",
    "tagline": "Generates 50+ page consulting-grade market research reports with LaTeX formatting, visuals, and strategic frameworks.",
@@ -45365,6 +46599,23 @@
    "url": "https://templatesgrokbot.com/bot/marketing-campaign-effectiveness-analyst"
   },
   {
+   "slug": "marketing-channel-optimizer",
+   "name": "Marketing Channel Optimizer",
+   "tagline": "Optimizes marketing channels with data-driven insights and content creation.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/marketing-channel-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/marketing-channel-optimizer"
+  },
+  {
    "slug": "marketing-content-creator",
    "name": "Marketing Content Creator",
    "tagline": "Plans, writes, and repurposes marketing content across channels with AI assistance.",
@@ -45383,6 +46634,26 @@
    ],
    "path": "jobs/sales/writing-and-content/marketing-content-creator.md",
    "url": "https://templatesgrokbot.com/bot/marketing-content-creator"
+  },
+  {
+   "slug": "marketing-content-ideation-assistant",
+   "name": "Marketing Content Ideation Assistant",
+   "tagline": "Generates and refines content ideas, outlines, and scripts for marketing campaigns.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing",
+    "creatives",
+    "writers",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "social-media"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/marketing-content-ideation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/marketing-content-ideation-assistant"
   },
   {
    "slug": "marketing-content-polisher",
@@ -45469,6 +46740,21 @@
    ],
    "path": "jobs/sales/data-analysis/marketing-feedback-analyzer.md",
    "url": "https://templatesgrokbot.com/bot/marketing-feedback-analyzer"
+  },
+  {
+   "slug": "marketing-feedback-insight-analyst",
+   "name": "Marketing Feedback Insight Analyst",
+   "tagline": "Analyzes customer feedback to deliver actionable marketing insights.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/marketing-feedback-insight-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/marketing-feedback-insight-analyst"
   },
   {
    "slug": "marketing-ideas",
@@ -45596,6 +46882,58 @@
    "url": "https://templatesgrokbot.com/bot/marketing-strategy-pmm",
    "adapted_from": "https://www.aitmpl.com/component/skills/business-marketing/marketing-strategy-pmm",
    "source_license": "MIT"
+  },
+  {
+   "slug": "marketing-vp-competitive-intel",
+   "name": "Marketing VP Competitive Intel",
+   "tagline": "Competitive intelligence and strategy support for marketing VPs.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/marketing-vp-competitive-intel.md",
+   "url": "https://templatesgrokbot.com/bot/marketing-vp-competitive-intel"
+  },
+  {
+   "slug": "marketing-vp-crisis-response",
+   "name": "Marketing VP Crisis Response",
+   "tagline": "Plans and executes crisis communication for marketing VPs, from scenario prep to live response support.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/marketing-vp-crisis-response.md",
+   "url": "https://templatesgrokbot.com/bot/marketing-vp-crisis-response"
+  },
+  {
+   "slug": "marketing-vp-journey-mapper",
+   "name": "Marketing VP Journey Mapper",
+   "tagline": "Maps customer journeys from data to strategy for marketing VPs.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/marketing-vp-journey-mapper.md",
+   "url": "https://templatesgrokbot.com/bot/marketing-vp-journey-mapper"
   },
   {
    "slug": "markitdown",
@@ -46851,6 +48189,22 @@
    "url": "https://templatesgrokbot.com/bot/mentor",
    "adapted_from": "https://www.aitmpl.com/component/agents/expert-advisors/mentor",
    "source_license": "MIT"
+  },
+  {
+   "slug": "mentoring-program-developer",
+   "name": "Mentoring Program Developer",
+   "tagline": "Designs, launches, and improves mentoring programs from needs assessment to closure.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/teaching-and-tutoring/mentoring-program-developer.md",
+   "url": "https://templatesgrokbot.com/bot/mentoring-program-developer"
   },
   {
    "slug": "mercury-mcp",
@@ -48124,6 +49478,22 @@
    ],
    "path": "jobs/pr-and-communications/data-analysis/monitoring-media-trends-assistant.md",
    "url": "https://templatesgrokbot.com/bot/monitoring-media-trends-assistant"
+  },
+  {
+   "slug": "monitoring-setup-guide",
+   "name": "Monitoring Setup Guide",
+   "tagline": "Guides systems administrators through setting up comprehensive IT monitoring systems.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/monitoring-setup-guide.md",
+   "url": "https://templatesgrokbot.com/bot/monitoring-setup-guide"
   },
   {
    "slug": "monitoring-specialist",
@@ -49761,6 +51131,22 @@
    "url": "https://templatesgrokbot.com/bot/network-capacity-planner"
   },
   {
+   "slug": "network-capacity-planning-assistant",
+   "name": "Network Capacity Planning Assistant",
+   "tagline": "Analyzes network capacity, forecasts growth, and plans upgrades for systems administrators. No hype, just data-driven infrastructure planning.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/network-capacity-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/network-capacity-planning-assistant"
+  },
+  {
    "slug": "network-compliance-planner",
    "name": "Network Compliance Planner",
    "tagline": "Guides network engineers through compliance tasks with step-by-step plans and checks.",
@@ -49777,6 +51163,21 @@
    ],
    "path": "jobs/it-and-development/security-and-compliance/network-compliance-planner.md",
    "url": "https://templatesgrokbot.com/bot/network-compliance-planner"
+  },
+  {
+   "slug": "network-configuration-assistant",
+   "name": "Network Configuration Assistant",
+   "tagline": "Guides systems administrators through network configuration, troubleshooting, and optimization tasks.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/network-configuration-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/network-configuration-assistant"
   },
   {
    "slug": "network-engineer",
@@ -49829,6 +51230,21 @@
    ],
    "path": "jobs/it-and-development/security-and-compliance/network-security-protocol-advisor.md",
    "url": "https://templatesgrokbot.com/bot/network-security-protocol-advisor"
+  },
+  {
+   "slug": "network-troubleshooting-advisor",
+   "name": "Network Troubleshooting Advisor",
+   "tagline": "Network troubleshooting advisor for systems administrators, from diagnostics to documentation.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/network-troubleshooting-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/network-troubleshooting-advisor"
   },
   {
    "slug": "network-troubleshooting-assistant",
@@ -49974,6 +51390,21 @@
    ],
    "path": "jobs/operations/productivity/new-bot.md",
    "url": "https://templatesgrokbot.com/bot/new-bot"
+  },
+  {
+   "slug": "new-hire-onboarding-coordinator",
+   "name": "New Hire Onboarding Coordinator",
+   "tagline": "Coordinates and personalizes every step of new employee onboarding for HR Directors.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/productivity/new-hire-onboarding-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/new-hire-onboarding-coordinator"
   },
   {
    "slug": "new-rails-project",
@@ -51724,6 +53155,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "onboarding-automation-designer",
+   "name": "Onboarding Automation Designer",
+   "tagline": "Streamlines new hire onboarding from data collection to compliance and progress tracking.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "knowledge-management",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/productivity/onboarding-automation-designer.md",
+   "url": "https://templatesgrokbot.com/bot/onboarding-automation-designer"
+  },
+  {
    "slug": "onboarding-checklist-generator",
    "name": "Onboarding Checklist Generator",
    "tagline": "Generates customized client onboarding checklists with phases, owners, dependencies, and email templates.",
@@ -52268,6 +53715,24 @@
    "url": "https://templatesgrokbot.com/bot/operations-crisis-blueprint"
   },
   {
+   "slug": "operations-crisis-navigator",
+   "name": "Operations Crisis Navigator",
+   "tagline": "Plans and guides crisis response, from risk assessment to recovery.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "government",
+    "healthcare",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content"
+   ],
+   "path": "jobs/operations/productivity/operations-crisis-navigator.md",
+   "url": "https://templatesgrokbot.com/bot/operations-crisis-navigator"
+  },
+  {
    "slug": "operations-data-insights-assistant",
    "name": "Operations Data Insights Assistant",
    "tagline": "Turns operational data into clear insights, forecasts, and recommendations for global operations leaders.",
@@ -52341,6 +53806,23 @@
    ],
    "path": "jobs/operations/data-analysis/operations-efficiency-analyst.md",
    "url": "https://templatesgrokbot.com/bot/operations-efficiency-analyst"
+  },
+  {
+   "slug": "operations-environmental-impact-reporter",
+   "name": "Operations Environmental Impact Reporter",
+   "tagline": "Turns operational data into environmental impact analysis, reports, and compliance guidance.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/operations/data-analysis/operations-environmental-impact-reporter.md",
+   "url": "https://templatesgrokbot.com/bot/operations-environmental-impact-reporter"
   },
   {
    "slug": "operations-feedback-insight-builder",
@@ -52420,6 +53902,21 @@
    "url": "https://templatesgrokbot.com/bot/operations-manager-supply-chain-advisor"
   },
   {
+   "slug": "operations-process-documentation-assistant",
+   "name": "Operations Process Documentation Assistant",
+   "tagline": "Turns your operations know-how into clear, complete process documentation.",
+   "category": "operations",
+   "jobs": [
+    "operations"
+   ],
+   "topics": [
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/operations/knowledge-management/operations-process-documentation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/operations-process-documentation-assistant"
+  },
+  {
    "slug": "operations-process-optimizer",
    "name": "Operations Process Optimizer",
    "tagline": "Analyzes operational data to find bottlenecks, waste, and automation opportunities.",
@@ -52433,6 +53930,20 @@
    ],
    "path": "jobs/operations/data-analysis/operations-process-optimizer.md",
    "url": "https://templatesgrokbot.com/bot/operations-process-optimizer"
+  },
+  {
+   "slug": "operations-productivity-insights",
+   "name": "Operations Productivity Insights",
+   "tagline": "Analyzes employee productivity data, identifies drivers, and recommends improvements for operations heads.",
+   "category": "operations",
+   "jobs": [
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/operations/data-analysis/operations-productivity-insights.md",
+   "url": "https://templatesgrokbot.com/bot/operations-productivity-insights"
   },
   {
    "slug": "operations-qc-insight-partner",
@@ -52504,6 +54015,24 @@
    "url": "https://templatesgrokbot.com/bot/operations-risk-intel-scout"
   },
   {
+   "slug": "operations-risk-mitigation-planner",
+   "name": "Operations Risk Mitigation Planner",
+   "tagline": "Identifies, assesses, and mitigates operational risks with structured plans and monitoring.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "real-estate-and-construction",
+    "government",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/operations/productivity/operations-risk-mitigation-planner.md",
+   "url": "https://templatesgrokbot.com/bot/operations-risk-mitigation-planner"
+  },
+  {
    "slug": "operations-risk-report-builder",
    "name": "Operations Risk Report Builder",
    "tagline": "Analyzes insurance risks, monitors compliance, and drafts reports for operations managers.",
@@ -52567,6 +54096,22 @@
    ],
    "path": "jobs/operations/data-analysis/operations-trend-decoder.md",
    "url": "https://templatesgrokbot.com/bot/operations-trend-decoder"
+  },
+  {
+   "slug": "operations-trend-strategist",
+   "name": "Operations Trend Strategist",
+   "tagline": "Market trend analysis and strategic insights for Heads of Operations.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/operations/data-analysis/operations-trend-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/operations-trend-strategist"
   },
   {
    "slug": "operations-voice-decoder",
@@ -52645,6 +54190,21 @@
    ],
    "path": "jobs/operations/productivity/ops-crisis-drill-architect.md",
    "url": "https://templatesgrokbot.com/bot/ops-crisis-drill-architect"
+  },
+  {
+   "slug": "ops-flow-auditor",
+   "name": "Ops Flow Auditor",
+   "tagline": "Optimizes your operations workflows by analyzing processes, finding bottlenecks, and recommending improvements.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/operations/data-analysis/ops-flow-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/ops-flow-auditor"
   },
   {
    "slug": "ops-market-trend-forecaster",
@@ -53488,6 +55048,20 @@
    "url": "https://templatesgrokbot.com/bot/parent-communication-coordinator"
   },
   {
+   "slug": "parent-communication-drafter",
+   "name": "Parent Communication Drafter",
+   "tagline": "Drafts all parent communication for elementary teachers, from welcome letters to end-of-year reflections.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/education/writing-and-content/parent-communication-drafter.md",
+   "url": "https://templatesgrokbot.com/bot/parent-communication-drafter"
+  },
+  {
    "slug": "partnership-outreach-manager",
    "name": "Partnership Outreach Manager",
    "tagline": "Finds, courts, and manages business partnerships from first contact to expansion.",
@@ -54297,6 +55871,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "performance-management-guidance",
+   "name": "Performance Management Guidance",
+   "tagline": "Guides HR directors through every step of performance management, from criteria to communication.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/data-analysis/performance-management-guidance.md",
+   "url": "https://templatesgrokbot.com/bot/performance-management-guidance"
+  },
+  {
    "slug": "performance-metrics-analyst",
    "name": "Performance Metrics Analyst",
    "tagline": "Turns your performance metrics into insights, forecasts, and action plans for operations.",
@@ -54434,6 +56025,40 @@
    "path": "jobs/executives-and-strategy/data-analysis/marketing-performance-report.md",
    "url": "https://templatesgrokbot.com/bot/marketing-performance-report",
    "adapted_from": "https://collectivebrain.de/en/skills/marketing-performance-report/"
+  },
+  {
+   "slug": "performance-review-analyst",
+   "name": "Performance Review Analyst",
+   "tagline": "Turns scattered performance review data into clear insights, feedback, and development plans.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "self-improvement",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/data-analysis/performance-review-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/performance-review-analyst"
+  },
+  {
+   "slug": "performance-review-cycle-assistant",
+   "name": "Performance Review Cycle Assistant",
+   "tagline": "Prepares, runs, and follows up on performance reviews for employee relations specialists.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "government"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content",
+    "office-tools",
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/productivity/performance-review-cycle-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/performance-review-cycle-assistant"
   },
   {
    "slug": "performance-testing-review-ai-review",
@@ -58302,6 +59927,23 @@
    "url": "https://templatesgrokbot.com/bot/product-launch-planner"
   },
   {
+   "slug": "product-launch-strategist",
+   "name": "Product Launch Strategist",
+   "tagline": "Plans and executes product launches from market research to performance review.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/product-launch-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/product-launch-strategist"
+  },
+  {
    "slug": "product-lifecycle-inventory-assistant",
    "name": "Product Lifecycle Inventory Assistant",
    "tagline": "Manages product lifecycle data, inventory, suppliers, quality, pricing, compliance, and returns for inventory control specialists.",
@@ -58996,6 +60638,25 @@
    "url": "https://templatesgrokbot.com/bot/professional-communication",
    "adapted_from": "https://www.aitmpl.com/component/skills/enterprise-communication/professional-communication",
    "source_license": "MIT"
+  },
+  {
+   "slug": "professional-development-tracker",
+   "name": "Professional Development Tracker",
+   "tagline": "Tracks training, certifications, and strength growth for your workforce.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "government",
+    "healthcare",
+    "education"
+   ],
+   "topics": [
+    "productivity",
+    "knowledge-management",
+    "self-improvement"
+   ],
+   "path": "jobs/human-resources/productivity/professional-development-tracker.md",
+   "url": "https://templatesgrokbot.com/bot/professional-development-tracker"
   },
   {
    "slug": "professional-proofreader",
@@ -60759,6 +62420,22 @@
    "url": "https://templatesgrokbot.com/bot/quality-control-analysis-assistant"
   },
   {
+   "slug": "quality-control-analyst",
+   "name": "Quality Control Analyst",
+   "tagline": "Quality control analysis, documentation, and improvement support for operations heads.",
+   "category": "operations",
+   "jobs": [
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/operations/data-analysis/quality-control-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/quality-control-analyst"
+  },
+  {
    "slug": "quality-control-data-analyst",
    "name": "Quality Control Data Analyst",
    "tagline": "Analyzes QC data and runs quality engineering analyses for process engineers.",
@@ -62373,6 +64050,21 @@
    "url": "https://templatesgrokbot.com/bot/record-keeping-compliance-optimizer"
   },
   {
+   "slug": "recruitment-pipeline-manager",
+   "name": "Recruitment Pipeline Manager",
+   "tagline": "Streamlines recruitment from screening to onboarding while keeping every step human-approved.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/productivity/recruitment-pipeline-manager.md",
+   "url": "https://templatesgrokbot.com/bot/recruitment-pipeline-manager"
+  },
+  {
    "slug": "recsys-pipeline-architect",
    "name": "Recsys Pipeline Architect",
    "tagline": "Design composable recommendation and ranking pipelines using the six-stage framework.",
@@ -63688,6 +65380,23 @@
    "url": "https://templatesgrokbot.com/bot/research-trend-analyst"
   },
   {
+   "slug": "research-workflow-assistant",
+   "name": "Research Workflow Assistant",
+   "tagline": "Research workflow assistant for teaching assistants handling literature, data, writing, and ethics tasks.",
+   "category": "research",
+   "jobs": [
+    "education",
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/education/research/research-workflow-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/research-workflow-assistant"
+  },
+  {
    "slug": "research-to-decision-assistant",
    "name": "Research-to-Decision Assistant",
    "tagline": "Turns research into decisions for your school, from literature to action plans.",
@@ -63735,6 +65444,23 @@
    "url": "https://templatesgrokbot.com/bot/resolving-merge-conflicts",
    "adapted_from": "https://github.com/mattpocock/skills/tree/main/skills/engineering/resolving-merge-conflicts",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "resource-allocation-optimizer",
+   "name": "Resource Allocation Optimizer",
+   "tagline": "Analyzes resources, forecasts demand, and optimizes allocation for operations leaders.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "hospitality-and-events",
+    "real-estate-and-construction",
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/operations/data-analysis/resource-allocation-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/resource-allocation-optimizer"
   },
   {
    "slug": "responsible-ai-practice-assistant",
@@ -63854,6 +65580,20 @@
    "url": "https://templatesgrokbot.com/bot/resume-quantifier",
    "adapted_from": "https://www.aitmpl.com/component/skills/career/resume-quantifier",
    "source_license": "MIT"
+  },
+  {
+   "slug": "resume-screening-assistant",
+   "name": "Resume Screening Assistant",
+   "tagline": "Screens resumes against job requirements and shortlists top candidates for HR consultants.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/human-resources/productivity/resume-screening-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/resume-screening-assistant"
   },
   {
    "slug": "resume-section-builder",
@@ -67863,6 +69603,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "security-best-practices-advisor",
+   "name": "Security Best Practices Advisor",
+   "tagline": "Guides systems administrators through security best practices, from policy to incident response.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/security-best-practices-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/security-best-practices-advisor"
+  },
+  {
    "slug": "security-bluebook-builder",
    "name": "Security Bluebook Builder",
    "tagline": "Build a concise, enforceable security policy Blue Book with MUST/SHOULD/CAN language.",
@@ -69090,13 +70846,31 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "seo-content-strategist",
+   "name": "SEO Content Strategist",
+   "tagline": "Plans, optimizes, and tracks SEO content from research to reporting.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/seo-content-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/seo-content-strategist"
+  },
+  {
    "slug": "seo-content-writer",
    "name": "Seo Content Writer",
    "tagline": "Write SEO-optimized content from keywords and topic briefs.",
    "category": "marketing",
    "jobs": [
     "writers",
-    "marketing"
+    "marketing",
+    "creatives"
    ],
    "topics": [
     "writing-and-content",
@@ -69470,6 +71244,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "seo-strategy-planner",
+   "name": "SEO Strategy Planner",
+   "tagline": "Builds and executes a complete SEO strategy for marketing leadership.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/seo-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/seo-strategy-planner"
+  },
+  {
    "slug": "seo-strategie-roadmap",
    "name": "SEO Strategy: 90-Day Roadmap",
    "tagline": "Turns your current SEO situation into a 90-day roadmap with ICE scores and a not-doing list.",
@@ -69575,6 +71367,23 @@
    "url": "https://templatesgrokbot.com/bot/server-management",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "server-optimization-advisor",
+   "name": "Server Optimization Advisor",
+   "tagline": "Analyzes server metrics and recommends optimization strategies for peak performance.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/server-optimization-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/server-optimization-advisor"
   },
   {
    "slug": "service",
@@ -71068,6 +72877,22 @@
    "url": "https://templatesgrokbot.com/bot/social-media-content-creator"
   },
   {
+   "slug": "social-media-content-manager",
+   "name": "Social Media Content Manager",
+   "tagline": "Plans, writes, schedules, and analyzes social media content for marketing managers.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/social-media/social-media-content-manager.md",
+   "url": "https://templatesgrokbot.com/bot/social-media-content-manager"
+  },
+  {
    "slug": "social-media-content-planner",
    "name": "Social Media Content Planner",
    "tagline": "Plans, creates, and optimizes social media content calendars and campaigns for editors.",
@@ -71272,6 +73097,23 @@
    "url": "https://templatesgrokbot.com/bot/social-media-seo-optimizer"
   },
   {
+   "slug": "social-media-strategy-architect",
+   "name": "Social Media Strategy Architect",
+   "tagline": "Builds and refines your social media strategy from audit to reporting.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "data-analysis",
+    "support-and-community"
+   ],
+   "path": "jobs/executives-and-strategy/social-media/social-media-strategy-architect.md",
+   "url": "https://templatesgrokbot.com/bot/social-media-strategy-architect"
+  },
+  {
    "slug": "social-media-strategy-optimizer",
    "name": "Social Media Strategy Optimizer",
    "tagline": "Plans, creates, and optimizes your social media strategy from research to reporting.",
@@ -71466,6 +73308,23 @@
    "url": "https://templatesgrokbot.com/bot/soft-pastel",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "soft-templates-workshop-designer",
+   "name": "Soft Templates Workshop Designer",
+   "tagline": "Designs, runs, and improves soft strengths development workshops for training specialists.",
+   "category": "education",
+   "jobs": [
+    "human-resources",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/teaching-and-tutoring/soft-templates-workshop-designer.md",
+   "url": "https://templatesgrokbot.com/bot/soft-templates-workshop-designer"
   },
   {
    "slug": "software-architecture",
@@ -73184,6 +75043,21 @@
    "url": "https://templatesgrokbot.com/bot/student-feedback-analyst"
   },
   {
+   "slug": "student-feedback-generator",
+   "name": "Student Feedback Generator",
+   "tagline": "Generates constructive feedback on student work and participation for teaching assistants.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/student-feedback-generator.md",
+   "url": "https://templatesgrokbot.com/bot/student-feedback-generator"
+  },
+  {
    "slug": "student-performance-analysis-assistant",
    "name": "Student Performance Analysis Assistant",
    "tagline": "Analyzes student data to guide interventions, reports, and school strategy.",
@@ -73199,6 +75073,20 @@
    "url": "https://templatesgrokbot.com/bot/student-performance-analysis-assistant"
   },
   {
+   "slug": "student-performance-analyst",
+   "name": "Student Performance Analyst",
+   "tagline": "Analyzes student performance data and generates reports, insights, and recommendations for teaching assistants.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/education/data-analysis/student-performance-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/student-performance-analyst"
+  },
+  {
    "slug": "study-buddy",
    "name": "Study Buddy",
    "tagline": "Drills you on your own material with spaced repetition instead of re-reading notes.",
@@ -73212,6 +75100,22 @@
    ],
    "path": "jobs/education/teaching-and-tutoring/study-buddy.md",
    "url": "https://templatesgrokbot.com/bot/study-buddy"
+  },
+  {
+   "slug": "study-group-organizer",
+   "name": "Study Group Organizer",
+   "tagline": "Organizes study groups for teaching assistants: invites, materials, discussions, roles, goals, events, and more.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "productivity",
+    "knowledge-management",
+    "office-tools"
+   ],
+   "path": "jobs/education/productivity/study-group-organizer.md",
+   "url": "https://templatesgrokbot.com/bot/study-group-organizer"
   },
   {
    "slug": "study-guide-creator-for-teachers",
@@ -73696,6 +75600,24 @@
    ],
    "path": "jobs/management/data-analysis/supplier-market-trend-tracker.md",
    "url": "https://templatesgrokbot.com/bot/supplier-market-trend-tracker"
+  },
+  {
+   "slug": "supplier-negotiation-assistant",
+   "name": "Supplier Negotiation Assistant",
+   "tagline": "Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "hospitality-and-events",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/operations/sales-and-negotiation/supplier-negotiation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/supplier-negotiation-assistant"
   },
   {
    "slug": "supplier-negotiation-strategist",
@@ -75152,6 +77074,39 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "sysadmin-compliance-documentation",
+   "name": "SysAdmin Compliance Documentation",
+   "tagline": "Compliance guidance and documentation support for systems administrators.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/sysadmin-compliance-documentation.md",
+   "url": "https://templatesgrokbot.com/bot/sysadmin-compliance-documentation"
+  },
+  {
+   "slug": "sysadmin-incident-lifecycle-copilot",
+   "name": "Sysadmin Incident Lifecycle Copilot",
+   "tagline": "Handles incident triage, documentation, communication, analysis, and training for systems administrators.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "knowledge-management",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/sysadmin-incident-lifecycle-copilot.md",
+   "url": "https://templatesgrokbot.com/bot/sysadmin-incident-lifecycle-copilot"
+  },
+  {
    "slug": "architect-reviewer",
    "name": "System Design Reviewer",
    "tagline": "Evaluates system designs, architectural patterns, and technology choices at the macro level.",
@@ -75184,6 +77139,24 @@
    "url": "https://templatesgrokbot.com/bot/systematic-debugging",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "systems-documentation-assistant",
+   "name": "Systems Documentation Assistant",
+   "tagline": "Turns system admin notes into clear, structured documentation and reports.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations",
+    "government"
+   ],
+   "topics": [
+    "writing-and-content",
+    "cloud-and-devops",
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/systems-documentation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/systems-documentation-assistant"
   },
   {
    "slug": "systems-programming-rust-project",
@@ -75271,6 +77244,22 @@
    "url": "https://templatesgrokbot.com/bot/taisly-social-media-posting",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "talent-acquisition-strategy-assistant",
+   "name": "Talent Acquisition Strategy Assistant",
+   "tagline": "Streamlines talent acquisition from sourcing to onboarding with AI-driven insights and content.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "writing-and-content",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/human-resources/writing-and-content/talent-acquisition-strategy-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/talent-acquisition-strategy-assistant"
   },
   {
    "slug": "talivia-agent-kit",
@@ -75763,6 +77752,21 @@
    "url": "https://templatesgrokbot.com/bot/teacher-research-assistant"
   },
   {
+   "slug": "teaching-assistant-content-generator",
+   "name": "Teaching Assistant Content Generator",
+   "tagline": "Creates teaching materials and assessments for a teaching assistant's classroom needs.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/teaching-assistant-content-generator.md",
+   "url": "https://templatesgrokbot.com/bot/teaching-assistant-content-generator"
+  },
+  {
    "slug": "team-chemistry-evaluator",
    "name": "Team Chemistry Evaluator",
    "tagline": "Analyzes roster fit, leadership, role clarity, and locker room culture for sports teams.",
@@ -75973,6 +77977,38 @@
    "url": "https://templatesgrokbot.com/bot/tech-resume-optimizer",
    "adapted_from": "https://www.aitmpl.com/component/skills/career/tech-resume-optimizer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "tech-stack-evaluation-assistant",
+   "name": "Tech Stack Evaluation Assistant",
+   "tagline": "Evaluates and optimizes your company's tech stack for performance, cost, security, and future readiness.",
+   "category": "operations",
+   "jobs": [
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "research"
+   ],
+   "path": "jobs/operations/cloud-and-devops/tech-stack-evaluation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tech-stack-evaluation-assistant"
+  },
+  {
+   "slug": "tech-upskilling-program-coordinator",
+   "name": "Tech Upskilling Program Coordinator",
+   "tagline": "Designs, runs, and evaluates tech upskilling programs for your organization.",
+   "category": "education",
+   "jobs": [
+    "human-resources",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/teaching-and-tutoring/tech-upskilling-program-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/tech-upskilling-program-coordinator"
   },
   {
    "slug": "technical-change-tracker",
@@ -77675,6 +79711,22 @@
    "url": "https://templatesgrokbot.com/bot/third-party-compliance-evaluator"
   },
   {
+   "slug": "thought-leadership-content-planner",
+   "name": "Thought Leadership Content Planner",
+   "tagline": "Turns your ideas into polished thought leadership content, from research to publication.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "writers"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/marketing/writing-and-content/thought-leadership-content-planner.md",
+   "url": "https://templatesgrokbot.com/bot/thought-leadership-content-planner"
+  },
+  {
    "slug": "thread-writer",
    "name": "Thread Writer",
    "tagline": "Turns a long piece into an X thread that stands on its own instead of teasing a link.",
@@ -78448,6 +80500,23 @@
    "url": "https://templatesgrokbot.com/bot/training-feedback-analyst"
   },
   {
+   "slug": "training-material-creation-assistant",
+   "name": "Training Material Creation Assistant",
+   "tagline": "Creates and manages all training materials for operations teams from research to assessment.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "government"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/operations/writing-and-content/training-material-creation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/training-material-creation-assistant"
+  },
+  {
    "slug": "training-material-creator",
    "name": "Training Material Creator",
    "tagline": "Creates complete, standards-compliant training materials from research to assessment.",
@@ -78528,6 +80597,38 @@
    "url": "https://templatesgrokbot.com/bot/training-needs-analysis-assistant"
   },
   {
+   "slug": "training-needs-assessment-assistant",
+   "name": "Training Needs Assessment Assistant",
+   "tagline": "Turns employee data into training needs assessments, gap analyses, and actionable plans.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/data-analysis/training-needs-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/training-needs-assessment-assistant"
+  },
+  {
+   "slug": "training-program-advisor",
+   "name": "Training Program Advisor",
+   "tagline": "Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "government"
+   ],
+   "topics": [
+    "productivity",
+    "research",
+    "office-tools",
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/productivity/training-program-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/training-program-advisor"
+  },
+  {
    "slug": "training-program-designer",
    "name": "Training Program Designer",
    "tagline": "Designs, evaluates, and improves employee training programs for senior managers.",
@@ -78562,6 +80663,23 @@
    "url": "https://templatesgrokbot.com/bot/training-program-developer"
   },
   {
+   "slug": "training-program-implementation-assistant",
+   "name": "Training Program Implementation Assistant",
+   "tagline": "Designs, delivers, and improves training programs from needs analysis to follow-up.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/teaching-and-tutoring/training-program-implementation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/training-program-implementation-assistant"
+  },
+  {
    "slug": "training-report-generator",
    "name": "Training Report Generator",
    "tagline": "Turns training data into automated reports for instructors.",
@@ -78575,6 +80693,35 @@
    ],
    "path": "jobs/education/data-analysis/training-report-generator.md",
    "url": "https://templatesgrokbot.com/bot/training-report-generator"
+  },
+  {
+   "slug": "training-roi-analyst",
+   "name": "Training ROI Analyst",
+   "tagline": "Guides training specialists through ROI analysis, from data collection to reporting.",
+   "category": "finance",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/data-analysis/training-roi-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/training-roi-analyst"
+  },
+  {
+   "slug": "training-spend-strategist",
+   "name": "Training Spend Strategist",
+   "tagline": "Optimizes training budgets through data analysis, cost-effective solutions, and strategic recommendations.",
+   "category": "finance",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/data-analysis/training-spend-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/training-spend-strategist"
   },
   {
    "slug": "training-visuals-enhancer",
@@ -79309,6 +81456,22 @@
    ],
    "path": "jobs/creatives/design/typography-ui-design-assistant.md",
    "url": "https://templatesgrokbot.com/bot/typography-ui-design-assistant"
+  },
+  {
+   "slug": "ugc-campaign-planner",
+   "name": "UGC Campaign Planner",
+   "tagline": "Plans, runs, and improves user-generated content campaigns for content marketing managers.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/ugc-campaign-planner.md",
+   "url": "https://templatesgrokbot.com/bot/ugc-campaign-planner"
   },
   {
    "slug": "ugc-curation-assistant",
@@ -80263,6 +82426,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "user-access-and-permissions-manager",
+   "name": "User Access and Permissions Manager",
+   "tagline": "Manages user access, permissions, and audits for systems administrators.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/user-access-and-permissions-manager.md",
+   "url": "https://templatesgrokbot.com/bot/user-access-and-permissions-manager"
+  },
+  {
    "slug": "user-feedback-insight-assistant",
    "name": "User Feedback Insight Assistant",
    "tagline": "Turns user feedback into prioritized, actionable UX insights for designers.",
@@ -81009,6 +83188,26 @@
    "url": "https://templatesgrokbot.com/bot/vendor-evaluation-manager"
   },
   {
+   "slug": "vendor-lifecycle-manager",
+   "name": "Vendor Lifecycle Manager",
+   "tagline": "Streamlines vendor evaluation from research to exit with structured analysis and approvals.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "hospitality-and-events",
+    "government",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "productivity",
+    "research",
+    "office-tools",
+    "data-analysis"
+   ],
+   "path": "jobs/operations/productivity/vendor-lifecycle-manager.md",
+   "url": "https://templatesgrokbot.com/bot/vendor-lifecycle-manager"
+  },
+  {
    "slug": "vendor-management-and-negotiation-assistant",
    "name": "Vendor Management and Negotiation Assistant",
    "tagline": "Manages vendor research, negotiation, contracts, performance, and risk for logistics planners.",
@@ -81676,6 +83875,22 @@
    "url": "https://templatesgrokbot.com/bot/video-content-strategist"
   },
   {
+   "slug": "video-content-strategy-planner",
+   "name": "Video Content Strategy Planner",
+   "tagline": "Plans and scripts video content from research to distribution for marketing managers.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/video-content-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/video-content-strategy-planner"
+  },
+  {
    "slug": "video-downloader",
    "name": "Video Downloader",
    "tagline": "Downloads videos from YouTube and other platforms for offline viewing, editing, or archival.",
@@ -81849,6 +84064,23 @@
    "url": "https://templatesgrokbot.com/bot/video-seo-optimizer"
   },
   {
+   "slug": "video-strategy-retargeting-builder",
+   "name": "Video Strategy Retargeting Builder",
+   "tagline": "Builds and runs your video marketing strategy from research to retargeting.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/video-strategy-retargeting-builder.md",
+   "url": "https://templatesgrokbot.com/bot/video-strategy-retargeting-builder"
+  },
+  {
    "slug": "videodb",
    "name": "Videodb",
    "tagline": "Ingest, index, search, and edit video and audio with timestamps and alerts.",
@@ -81903,6 +84135,22 @@
    "url": "https://templatesgrokbot.com/bot/viral-generator-builder",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "virtual-field-trip-planner",
+   "name": "Virtual Field Trip Planner",
+   "tagline": "Plans and prepares virtual field trips for elementary classrooms, from research to troubleshooting.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/virtual-field-trip-planner.md",
+   "url": "https://templatesgrokbot.com/bot/virtual-field-trip-planner"
   },
   {
    "slug": "virtual-sales-assistant-builder",
@@ -81969,6 +84217,22 @@
    "url": "https://templatesgrokbot.com/bot/virtual-training-design-assistant"
   },
   {
+   "slug": "virtual-training-facilitator",
+   "name": "Virtual Training Facilitator",
+   "tagline": "Plans, runs, and improves virtual training sessions for training specialists.",
+   "category": "education",
+   "jobs": [
+    "human-resources",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/teaching-and-tutoring/virtual-training-facilitator.md",
+   "url": "https://templatesgrokbot.com/bot/virtual-training-facilitator"
+  },
+  {
    "slug": "vision-language-sft-adapter",
    "name": "Vision-Language SFT Adapter",
    "tagline": "Designs and validates adapter configs for supervised fine-tuning of vision-language models.",
@@ -82000,6 +84264,22 @@
    ],
    "path": "jobs/customer-support/productivity/visitor-management-assistant.md",
    "url": "https://templatesgrokbot.com/bot/visitor-management-assistant"
+  },
+  {
+   "slug": "visual-aid-design-assistant",
+   "name": "Visual Aid Design Assistant",
+   "tagline": "Creates visual aids for teaching assistants from slides to VR experiences.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "design",
+    "generative-video",
+    "generative-art"
+   ],
+   "path": "jobs/education/design/visual-aid-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/visual-aid-design-assistant"
   },
   {
    "slug": "visual-analysis-ocr",
@@ -84154,6 +86434,20 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "workforce-planning-analytics-assistant",
+   "name": "Workforce Planning Analytics Assistant",
+   "tagline": "Analyzes workforce data to forecast needs, identify gaps, and support strategic HR decisions.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/data-analysis/workforce-planning-analytics-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/workforce-planning-analytics-assistant"
+  },
+  {
    "slug": "workforce-planning-assistant",
    "name": "Workforce Planning Assistant",
    "tagline": "Optimizes workforce scheduling, allocation, and planning for production planners.",
@@ -84202,6 +86496,23 @@
    "url": "https://templatesgrokbot.com/bot/workout-program-designer",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/workout-program-designer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "workplace-culture-assessment-assistant",
+   "name": "Workplace Culture Assessment Assistant",
+   "tagline": "Designs, runs, and analyzes workplace culture assessments, from surveys to action plans.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/data-analysis/workplace-culture-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/workplace-culture-assessment-assistant"
   },
   {
    "slug": "worktree-guide",

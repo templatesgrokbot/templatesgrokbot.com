@@ -1,6 +1,6 @@
 # Writing & Content templates for Operations
 
-Plan, write and edit articles, copy and documentation. 28 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 30 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -32,6 +32,8 @@ Plan, write and edit articles, copy and documentation. 28 Grok Bot templates, 17
 | [Safety Training Program Developer](safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
 | [SOP Writer](sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
 | [Stakeholder Communication Coordinator](stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
+| [Systems Documentation Assistant](../../it-and-development/writing-and-content/systems-documentation-assistant.md) | Turns system admin notes into clear, structured documentation and reports. |
+| [Training Material Creation Assistant](training-material-creation-assistant.md) | Creates and manages all training materials for operations teams from research to assessment. |
 | [Training Material Creator](training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 | [Unslop File](../../writers/writing-and-content/unslop-file.md) | Rewrite memory files to sound human-written while preserving code, URLs, and headings exactly. |
 

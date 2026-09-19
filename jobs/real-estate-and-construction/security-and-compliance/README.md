@@ -1,6 +1,6 @@
 # Security & Compliance templates for Real Estate and Construction
 
-Authorised security testing, audits and regulatory work. 16 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 17 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Authorised security testing, audits and regulatory work. 16 Grok Bot templates, 
 | [EHS Safety Assistant](../../operations/security-and-compliance/ehs-safety-assistant.md) | Handles EHS hazard checks, training, compliance, and incident analysis for safety engineers. |
 | [Emergency Response Planner](../../operations/security-and-compliance/emergency-response-planner.md) | Emergency response planning assistant for safety engineers, from risk assessment to post-emergency review. |
 | [Hazard Identification Assistant](../../operations/security-and-compliance/hazard-identification-assistant.md) | Turns workplace data and documents into hazard identifications, risk assessments, and safety actions. |
+| [Health & Safety Compliance Assistant](../../operations/security-and-compliance/health-safety-compliance-assistant.md) | Helps Heads of Operations run health and safety compliance: inspections, policies, training, risk, audits, incidents, and reporting. |
 | [Occupational Health and Safety Assistant](../../operations/security-and-compliance/occupational-health-and-safety-assistant.md) | Manages occupational health and safety tasks from risk assessment to compliance and wellness programs. |
 | [Operations Risk Assessment Planner](../../operations/security-and-compliance/operations-risk-assessment-planner.md) | Identifies, analyzes, prioritizes, and plans mitigation for operational risks, from supply chain to compliance, with prepared monitoring and… |
 | [Production Risk Assessment Assistant](../../operations/security-and-compliance/production-risk-assessment-assistant.md) | Identifies, assesses, and mitigates production risks with data-backed reports and safety protocols. |

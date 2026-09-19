@@ -1,6 +1,6 @@
 # Knowledge Management templates for Operations
 
-Notes, documents, PDFs and knowledge bases kept in order. 36 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 37 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -31,6 +31,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 36 Grok Bot templates,
 | [Notion Knowledge Capture](notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
 | [Obsidian Bases](obsidian-bases.md) | Create and edit Obsidian .base files with views, filters, formulas, and summaries. |
 | [Obsidian Markdown](../../education/knowledge-management/obsidian-markdown.md) | Create and edit Obsidian Flavored Markdown with wikilinks, callouts, and properties |
+| [Operations Process Documentation Assistant](operations-process-documentation-assistant.md) | Turns your operations know-how into clear, complete process documentation. |
 | [Project State Governor](../../management/knowledge-management/project-state-governor.md) | Govern evidence-backed canonical project state across sessions without inventing intent. |
 | [Quality Documentation Manager](quality-documentation-manager.md) | Manages document control, change control, and regulatory documentation compliance for medical device organizations. |
 | [Quality Standards Update Assistant](quality-standards-update-assistant.md) | Keeps your quality standards current, documented, and understood across the company. |

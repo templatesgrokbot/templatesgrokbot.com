@@ -1,6 +1,6 @@
 # Writing & Content templates for Education
 
-Plan, write and edit articles, copy and documentation. 22 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 23 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,7 @@ Plan, write and edit articles, copy and documentation. 22 Grok Bot templates, 9 
 | [Marp Slide](../../creatives/writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
 | [Microsoft Learn Contributor](microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
 | [Parent Communication Assistant](parent-communication-assistant.md) | Drafts and manages parent-teacher communications for primary school teachers. |
+| [Parent Communication Drafter](parent-communication-drafter.md) | Drafts all parent communication for elementary teachers, from welcome letters to end-of-year reflections. |
 | [Principal Parent Liaison](principal-parent-liaison.md) | Handles parent communication for school principals, from announcements to feedback. |
 | [Professional Proofreader](../../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 | [Quality Control Training Developer](../../operations/writing-and-content/quality-control-training-developer.md) | Builds quality control training materials from standards research to interactive modules. |

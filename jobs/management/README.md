@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **636 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **642 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,14 +11,14 @@ Team leads and project managers. **636 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 177 |
-| [Productivity](productivity/README.md) | 148 |
+| [Data Analysis](data-analysis/README.md) | 178 |
+| [Productivity](productivity/README.md) | 150 |
 | [Research](research/README.md) | 64 |
 | [Coding](coding/README.md) | 44 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 35 |
 | [Security & Compliance](security-and-compliance/README.md) | 35 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 34 |
 | [Knowledge Management](knowledge-management/README.md) | 23 |
-| [Writing & Content](writing-and-content/README.md) | 19 |
+| [Writing & Content](writing-and-content/README.md) | 21 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 16 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 13 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
@@ -44,7 +44,7 @@ Team leads and project managers. **636 ready-made Grok Bot templates** for this 
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 
-[All 177 Data Analysis templates →](data-analysis/README.md)
+[All 178 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **636 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 148 Productivity templates →](productivity/README.md)
+[All 150 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -91,6 +91,21 @@ Team leads and project managers. **636 ready-made Grok Bot templates** for this 
 
 [All 44 Coding templates →](coding/README.md)
 
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
+| [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
+| [Seo Optimizer](../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
+| [Pricing Strategy Formulation Assistant](marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
+| [Personalized Marketing Strategist](marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
+| [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
+| [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
+| [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
+
+[All 35 Marketing & Growth templates →](marketing-and-growth/README.md)
+
 ## Security & Compliance
 
 | Template | What it does |
@@ -105,21 +120,6 @@ Team leads and project managers. **636 ready-made Grok Bot templates** for this 
 | [Varlock Claude](../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
 
 [All 35 Security & Compliance templates →](security-and-compliance/README.md)
-
-## Marketing & Growth
-
-| Template | What it does |
-|---|---|
-| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
-| [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
-| [Seo Optimizer](../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
-| [Pricing Strategy Formulation Assistant](marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
-| [Personalized Marketing Strategist](marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
-| [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
-| [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
-| [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
-
-[All 34 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Knowledge Management
 
@@ -149,7 +149,7 @@ Team leads and project managers. **636 ready-made Grok Bot templates** for this 
 | [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [PM Stakeholder Comms Kit](../product-development/writing-and-content/pm-stakeholder-comms-kit.md) | Drafts, summarizes, and plans all stakeholder communications for product managers. |
 
-[All 19 Writing & Content templates →](writing-and-content/README.md)
+[All 21 Writing & Content templates →](writing-and-content/README.md)
 
 ## Cloud & DevOps
 

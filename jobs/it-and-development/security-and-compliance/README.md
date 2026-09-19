@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 241 Grok Bot templates, 234 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 244 Grok Bot templates, 237 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -179,6 +179,7 @@ Authorised security testing, audits and regulatory work. 241 Grok Bot templates,
 | [Security Audit](security-audit.md) | Guides structured security audits for web apps, APIs, and infrastructure with checklists and reporting. |
 | [Security Auditor](security-auditor.md) | Conducts systematic security audits, compliance assessments, and risk evaluations across systems and processes. |
 | [Security Best Practices](security-best-practices.md) | Reviews code for language and framework specific security vulnerabilities and suggests fixes. |
+| [Security Best Practices Advisor](security-best-practices-advisor.md) | Guides systems administrators through security best practices, from policy to incident response. |
 | [Security Bluebook Builder](security-bluebook-builder.md) | Build a concise, enforceable security policy Blue Book with MUST/SHOULD/CAN language. |
 | [Security Checklist](security-checklist.md) | Reference document for Monopoly security hardening checklist. |
 | [Security Compliance](security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
@@ -218,6 +219,7 @@ Authorised security testing, audits and regulatory work. 241 Grok Bot templates,
 | [Supply Chain Recon](supply-chain-recon.md) | Maps a target's public supply-chain attack surface for authorized recon. |
 | [Supply Chain Risk Auditor](supply-chain-risk-auditor.md) | Audits project dependencies for supply chain risk factors. |
 | [Supply Chain Security](supply-chain-security.md) | Audits dependencies for vulnerabilities, malicious packages, and license risks, then generates SBOMs and hardening steps. |
+| [SysAdmin Compliance Documentation](sysadmin-compliance-documentation.md) | Compliance guidance and documentation support for systems administrators. |
 | [Template Audit](skill-audit.md) | Pre-install security scanner that audits third-party AI capabilities for malicious code. |
 | [Template Scanner](skill-scanner.md) | Scan agent capabilities for prompt injection, malicious code, and permission risks before adoption. |
 | [Terraform Iac Reviewer](terraform-iac-reviewer.md) | Reviews and creates safer Terraform IaC changes with state safety and least privilege. |
@@ -228,6 +230,7 @@ Authorised security testing, audits and regulatory work. 241 Grok Bot templates,
 | [TLS DNS Hunter](tls-dns-hunter.md) | Hunt and triage TLS/SSL and DNS misconfigurations for bug bounty reports. |
 | [Top Web Vulnerabilities](top-web-vulnerabilities.md) | Reference the top 100 web vulnerabilities by category for assessment and remediation. No scanning or testing. Authorized use only. Educational referen |
 | [Triage Validator](triage-validator.md) | Validates bug bounty findings before you write any report. |
+| [User Access and Permissions Manager](user-access-and-permissions-manager.md) | Manages user access, permissions, and audits for systems administrators. |
 | [Varlock](varlock.md) | Secure environment variable management for Claude Code sessions |
 | [Varlock Claude](varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
 | [VMware External Attack Matrix](vmware-external-attack-matrix.md) | Probes internet-exposed VMware vCenter/Workspace ONE/Aria for known CVEs and misconfigurations. |

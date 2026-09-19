@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 357 Grok Bot templates, 351 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 369 Grok Bot templates, 363 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -107,8 +107,10 @@ Infrastructure, deployments, monitoring and incident response. 357 Grok Bot temp
 | [CLI Dashboard Setup](cli-dashboard-setup.md) | Sets up a read-only web dashboard that auto-builds tabs and tables from any CLI's JSON output. |
 | [Cloud Architect](cloud-architect.md) | Designs and optimizes multi-cloud infrastructure with IaC, FinOps, and security best practices. |
 | [Cloud Devops](cloud-devops.md) | Drafts cloud infrastructure, CI/CD, containers, and monitoring plans for AWS, Azure, and GCP. |
+| [Cloud Integration Navigator](cloud-integration-navigator.md) | Guides cloud integration, migration, security, and cost optimization for systems administrators. |
 | [Cloud Migration Specialist](cloud-migration-specialist.md) | Migrates on-premise workloads to cloud with minimal downtime and maximum cloud-native benefit. |
 | [Cloud Run Basics](cloud-run-basics.md) | Manages Cloud Run services, jobs, and worker pools on Google Cloud. |
+| [Cloud Security Planning Assistant](cloud-security-planning-assistant.md) | Cloud security planning and response assistant for systems administrators. |
 | [Cloud Sql Basics](cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Cloudflare Deploy](cloudflare-deploy.md) | Deploys apps and infrastructure to Cloudflare Workers, Pages, and related services. |
 | [Cloudformation Best Practices](cloudformation-best-practices.md) | Optimize and review CloudFormation templates for production-grade infrastructure. |
@@ -120,8 +122,10 @@ Infrastructure, deployments, monitoring and incident response. 357 Grok Bot temp
 | [Cost Optimization](cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Cto Advisor](cto-advisor.md) | Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy. |
 | [Data Center Network Assistant](data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
+| [Data Center Power Optimizer](data-center-power-optimizer.md) | Optimizes data center power usage, forecasting, and compliance for systems administrators. |
 | [Database](database.md) | Adds Railway database services (Postgres, Redis, MySQL, MongoDB) and provides connection variable references. |
 | [Database Admin](database-admin.md) | Manages cloud and on-prem databases with backups, replication, monitoring, and access control. |
+| [Database Administration Advisor](database-administration-advisor.md) | Guides database administrators through backup, tuning, security, and growth planning. |
 | [Database Administrator](database-administrator.md) | Manages database performance, high availability, and disaster recovery for production systems. |
 | [Database Cloud Optimization Cost Optimize](database-cloud-optimization-cost-optimize.md) | Analyze cloud spend and cut costs while keeping performance and reliability. |
 | [Database Migration Planner](database-migration-planner.md) | Plans and validates cross-provider database migrations with rollback and downtime estimates. |
@@ -137,6 +141,7 @@ Infrastructure, deployments, monitoring and incident response. 357 Grok Bot temp
 | [Deployment Engineer](deployment-engineer.md) | Designs and optimizes CI/CD pipelines for faster, safer deployments with automated rollbacks and monitoring, including GitOps and progressive delivery |
 | [Deployment Pipeline Design](deployment-pipeline-design.md) | Design multi-stage CI/CD pipelines with approval gates and deployment strategies. |
 | [Deployment Procedures](deployment-procedures.md) | Guides safe production deployments with rollback planning and verification. |
+| [Deployment Strategy Guide](deployment-strategy-guide.md) | Guides systems administrators through software deployment planning, automation, and troubleshooting. |
 | [Deprecation And Migration](deprecation-and-migration.md) | Remove old systems and migrate users safely to new implementations. |
 | [Devops Deploy](devops-deploy.md) | Dockerize, deploy, and monitor applications with CI/CD pipelines on AWS. |
 | [Devops Engineer](devops-engineer.md) | Automates infrastructure, CI/CD, and deployment workflows to accelerate software delivery. |
@@ -145,6 +150,7 @@ Infrastructure, deployments, monitoring and incident response. 357 Grok Bot temp
 | [Devops Incident Responder](devops-incident-responder.md) | Responds to production incidents, diagnoses failures, and drives postmortems to prevent recurrence. |
 | [Devops Troubleshooter](devops-troubleshooter.md) | Diagnoses production incidents using logs, metrics, and traces with systematic root cause analysis. |
 | [Disaster Recovery and Backup Planner](disaster-recovery-and-backup-planner.md) | Designs and validates backup and disaster recovery plans for network engineers. |
+| [Disaster Recovery Plan Builder](disaster-recovery-plan-builder.md) | Builds and maintains your disaster recovery plan from risk assessment to continuous improvement. |
 | [Distributed Debugging Debug Trace](distributed-debugging-debug-trace.md) | Configure distributed tracing and debugging environments for multi-service systems. |
 | [Distributed Tracing](distributed-tracing.md) | Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices. |
 | [Distributed Training Deepspeed](distributed-training-deepspeed.md) | Guides users through configuring and optimizing DeepSpeed for distributed training. |
@@ -238,6 +244,7 @@ Infrastructure, deployments, monitoring and incident response. 357 Grok Bot temp
 | [Mlops Engineer](mlops-engineer.md) | Design and implement ML infrastructure with CI/CD, model versioning, and operational monitoring. |
 | [Modal](modal.md) | Runs Python code in serverless cloud containers with GPUs and autoscaling. |
 | [Model Architecture Torchtitan](model-architecture-torchtitan.md) | Pretrains large language models at scale using PyTorch-native torchtitan with 4D parallelism. |
+| [Monitoring Setup Guide](monitoring-setup-guide.md) | Guides systems administrators through setting up comprehensive IT monitoring systems. |
 | [Monitoring Specialist](monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
 | [Monopoly](monopoly.md) | Architect resilient, scalable backend systems with trade-off analysis and blueprints. No coding or deployment. |
 | [Mount Allowlist Manager](mount-allowlist-manager.md) | Manages which host directories NanoClaw agent containers can access. |
@@ -258,8 +265,11 @@ Infrastructure, deployments, monitoring and incident response. 357 Grok Bot temp
 | [Neon Postgres Branches](neon-postgres-branches.md) | Create Neon Postgres branches for testing and development. |
 | [Netlify Deploy](netlify-deploy.md) | Deploys web projects to Netlify for preview or production after verifying authentication and linking. No unscheduled deploys. No site creation without |
 | [Network Automation Workflow Designer](network-automation-workflow-designer.md) | Automates network monitoring, provisioning, security, troubleshooting, documentation, optimization, change, capacity, reporting, and compliance tasks. |
+| [Network Capacity Planning Assistant](network-capacity-planning-assistant.md) | Analyzes network capacity, forecasts growth, and plans upgrades for systems administrators. No hype, just data-driven infrastructure planning. |
+| [Network Configuration Assistant](network-configuration-assistant.md) | Guides systems administrators through network configuration, troubleshooting, and optimization tasks. |
 | [Network Engineer](network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 | [Network Monitoring Assistant](network-monitoring-assistant.md) | Network monitoring setup, analysis, and troubleshooting assistant for engineers. |
+| [Network Troubleshooting Advisor](network-troubleshooting-advisor.md) | Network troubleshooting advisor for systems administrators, from diagnostics to documentation. |
 | [Network Troubleshooting Assistant](network-troubleshooting-assistant.md) | Diagnose and resolve network issues with structured troubleshooting guidance and documentation support. |
 | [New](new.md) | Creates Railway projects, services, and databases with proper configuration from GitHub or scaffolding. |
 | [Nx Workspace Patterns](nx-workspace-patterns.md) | Configure and optimize Nx monorepo workspaces with project boundaries and caching. |
@@ -315,6 +325,7 @@ Infrastructure, deployments, monitoring and incident response. 357 Grok Bot temp
 | [Senior Devops](senior-devops.md) | Sets up CI/CD pipelines, scaffolds infrastructure as code, and manages cloud deployments across AWS, GCP, and Azure. |
 | [Sentry Automation](sentry-automation.md) | Automate Sentry error tracking, alerts, releases, and team monitoring via Rube MCP. |
 | [Server Management](server-management.md) | Guides server management decisions without running commands. |
+| [Server Optimization Advisor](server-optimization-advisor.md) | Analyzes server metrics and recommends optimization strategies for peak performance. |
 | [Service](service.md) | Manage Railway services: check status, rename, change icons, link, or create from Docker images. |
 | [Service Mesh Expert](service-mesh-expert.md) | Design and implement service mesh architectures with Istio and Linkerd. |
 | [Service Mesh Observability](service-mesh-observability.md) | Configure Istio/Linkerd observability: metrics, traces, dashboards, and SLOs. |
@@ -330,6 +341,7 @@ Infrastructure, deployments, monitoring and incident response. 357 Grok Bot temp
 | [Status](status.md) | Check Railway project status, deployments, and uptime for this directory. |
 | [Supabase](supabase.md) | Manage Supabase projects: database, auth, RLS, storage, edge functions. |
 | [Supabase Schema Architect](supabase-schema-architect.md) | Designs Supabase schemas, migrations, and RLS policies for production-ready databases. |
+| [Sysadmin Incident Lifecycle Copilot](sysadmin-incident-lifecycle-copilot.md) | Handles incident triage, documentation, communication, analysis, and training for systems administrators. |
 | [Technology Integration Coordinator](../../management/cloud-and-devops/technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |
 | [Templates](templates.md) | Search and deploy templates from Railway's marketplace. |
 | [Terraform](terraform.md) | Generates compliant Terraform code and manages HCP workspaces with registry lookups. |

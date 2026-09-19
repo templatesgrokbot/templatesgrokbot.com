@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 177 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 178 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -87,6 +87,7 @@ Clean, query, chart and explain data. 177 Grok Bot templates, 93 of them filed i
 | [Insurance Policy Analysis Assistant](../../operations/data-analysis/insurance-policy-analysis-assistant.md) | Analyzes insurance policies for coverage, compliance, risk, and performance to support informed decisions. |
 | [Inventory Analysis Optimizer](inventory-analysis-optimizer.md) | Analyzes inventory data to optimize stock levels, cut costs, and prevent stockouts for business unit managers. |
 | [Inventory Demand Planning](../../operations/data-analysis/inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
+| [Inventory Forecasting and Replenishment Planner](../../operations/data-analysis/inventory-forecasting-and-replenishment-planner.md) | Track, forecast, and optimize inventory with AI-assisted operations management. |
 | [Inventory Insights Analyst](inventory-insights-analyst.md) | Turns inventory data into demand forecasts, stock-level recommendations, and supplier insights for purchasing decisions. |
 | [Inventory Manager Supplier Risk Scorecard](../../operations/data-analysis/inventory-manager-supplier-risk-scorecard.md) | Evaluates supplier performance, flags risks, and drives improvement plans for inventory managers. |
 | [Inventory Optimization Assistant](inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |

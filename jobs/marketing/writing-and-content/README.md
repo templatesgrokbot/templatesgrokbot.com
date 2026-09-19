@@ -1,6 +1,6 @@
 # Writing & Content templates for Marketing
 
-Plan, write and edit articles, copy and documentation. 69 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 73 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,7 @@ Plan, write and edit articles, copy and documentation. 69 Grok Bot templates, 24
 | [Blogger Newsletter Studio](../../writers/writing-and-content/blogger-newsletter-studio.md) | Plan, write, design, and optimize your newsletter from research to send. |
 | [Brand Guard](brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 | [Brand Storytelling Assistant](../../pr-and-communications/writing-and-content/brand-storytelling-assistant.md) | Crafts compelling brand stories across all channels and formats for marketing teams. |
+| [Brand Storytelling Content Assistant](brand-storytelling-content-assistant.md) | Turns your brand's story into a full content engine, from ideas to performance tracking. |
 | [Brand Voice Enforcement](brand-voice-enforcement.md) | Applies your brand guidelines to every email, pitch deck, and social post. |
 | [Cold Email](../../sales/writing-and-content/cold-email.md) | Write B2B cold emails and follow-up sequences that earn replies. |
 | [Communication Excellence Coach](communication-excellence-coach.md) | Review drafts, calibrate tone, roleplay conversations, and improve presentations using proven frameworks. |
@@ -32,12 +33,14 @@ Plan, write and edit articles, copy and documentation. 69 Grok Bot templates, 24
 | [Copy Editing](copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
 | [Copywriting](copywriting.md) | Write conversion-focused marketing copy for landing pages and emails, with mandatory brief confirmation. |
 | [Copywriting Support Assistant](../../pr-and-communications/writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
+| [Crisis Content Manager](crisis-content-manager.md) | Plan, respond, and recover from crises with structured content and communication support. |
 | [Dev To Hashnode](dev-to-hashnode.md) | Publish and cross-post developer content to Dev.to and Hashnode. |
 | [Developer Advocacy](developer-advocacy.md) | Prep conference talks, live demos, podcast pitches, and public builds with structured checklists and templates. |
 | [Developer Newsletter](developer-newsletter.md) | Build and write developer newsletters that get opened and read. |
 | [Devrel Content](devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Digital Content Creation Workspace](../../pr-and-communications/writing-and-content/digital-content-creation-workspace.md) | Turns research and ideas into polished, scheduled content across all digital platforms for PR specialists. |
 | [Drafting Content Assistant](../../writers/writing-and-content/drafting-content-assistant.md) | Drafts, refines, and optimizes your written content from research to final polish. |
+| [Editorial Calendar Planner](editorial-calendar-planner.md) | Plans your editorial calendar from topic research to performance tracking. |
 | [Editorial Trend Analyst](../../pr-and-communications/writing-and-content/editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
 | [Email Composer](../../operations/writing-and-content/email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
 | [Email Newsletter Writing Assistant](../../writers/writing-and-content/email-newsletter-writing-assistant.md) | Drafts, personalizes, and optimizes email newsletters from topic to performance analysis. |
@@ -67,6 +70,7 @@ Plan, write and edit articles, copy and documentation. 69 Grok Bot templates, 24
 | [Seo Content Refresher](seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
 | [Seo Content Writer](../../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Seo Snippet Hunter](seo-snippet-hunter.md) | Format content for featured snippets and position zero with question-based blocks. |
+| [Thought Leadership Content Planner](thought-leadership-content-planner.md) | Turns your ideas into polished thought leadership content, from research to publication. |
 | [Thread Writer](../../writers/writing-and-content/thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |
 | [Title and Headline Creation Assistant](../../writers/writing-and-content/title-and-headline-creation-assistant.md) | Generates and optimizes titles and headlines for content writers. |
 | [Trash Talk Generator](trash-talk-generator.md) | Generates witty, non-offensive sports banter with rivalry references. |

@@ -1,6 +1,6 @@
 # Data Analysis templates for Executives and Strategy
 
-Clean, query, chart and explain data. 74 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 77 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -34,6 +34,7 @@ Clean, query, chart and explain data. 74 Grok Bot templates, 9 of them filed in 
 | [Insurance Finance Reporting Assistant](../../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Inventory Ops Forecaster](../../operations/data-analysis/inventory-ops-forecaster.md) | Turns your inventory data into operational insights, forecasts, and action plans. |
 | [Job Profitability Analyzer](../../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
+| [KPI Analysis and Forecasting Assistant](../../operations/data-analysis/kpi-analysis-and-forecasting-assistant.md) | Turns your KPI data into clear insights, forecasts, and action plans for operations decisions. |
 | [Kpi Dashboard Design](../../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
 | [Legal Analytics Assistant](../../legal/data-analysis/legal-analytics-assistant.md) | Turns legal documents and case data into clear insights, drafts, and risk assessments for lawyers. |
 | [Legal Risk Assessment Assistant](../../legal/data-analysis/legal-risk-assessment-assistant.md) | Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers. |
@@ -45,12 +46,14 @@ Clean, query, chart and explain data. 74 Grok Bot templates, 9 of them filed in 
 | [Market Trend Analyzer](../../management/data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
 | [Market Trend Navigator](../../sales/data-analysis/market-trend-navigator.md) | Market trend analysis and sales intelligence for Vice Presidents of Sales. |
 | [Marketing Attribution Analyst](../../marketing/data-analysis/marketing-attribution-analyst.md) | Models multi-touch attribution, validates channel performance with incrementality testing, and optimizes budget allocation. Uses confirmed data only. |
+| [Marketing Feedback Insight Analyst](marketing-feedback-insight-analyst.md) | Analyzes customer feedback to deliver actionable marketing insights. |
 | [Marketing Metrics Analyst](../../management/data-analysis/marketing-metrics-analyst.md) | Turns your marketing data into clear metrics, insights, and decisions. |
 | [News Sentiment Engine](../../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 | [Offer Comparison Analyzer](../../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
 | [Operational Risk Management Assistant](../../operations/data-analysis/operational-risk-management-assistant.md) | Turns operational data into risk insights, plans, and reports for global operations heads. |
 | [Operations Data Insights Assistant](../../operations/data-analysis/operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |
 | [Operations Trend Decoder](../../operations/data-analysis/operations-trend-decoder.md) | Delivers market trend analysis for VP of Operations decisions. |
+| [Operations Trend Strategist](../../operations/data-analysis/operations-trend-strategist.md) | Market trend analysis and strategic insights for Heads of Operations. |
 | [Operations Voice Decoder](../../operations/data-analysis/operations-voice-decoder.md) | Turns customer feedback into clear insights and improvement plans for operations leaders. |
 | [Patent Portfolio Analyst](../../legal/data-analysis/patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
 | [Patent Valuation Analyst](../../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |

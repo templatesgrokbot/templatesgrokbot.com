@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 411 Grok Bot templates, 257 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 422 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Clean, query, chart and explain data. 411 Grok Bot templates, 257 of them filed 
 | [Bid Analysis and Selection Assistant](bid-analysis-and-selection-assistant.md) | Analyzes bids, compares suppliers, and supports procurement decisions with data-driven insights. |
 | [Bottleneck Analysis Assistant](bottleneck-analysis-assistant.md) | Finds and fixes process bottlenecks from your data, end to end. |
 | [Bounty Hunter](../../finance/data-analysis/bounty-hunter.md) | Identifies unclaimed, owed, or wasted money and recommends how to recover it. |
+| [Budget and Forecast Assistant](budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Budget Forecast Assistant](budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Business Analyst](business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
 | [Buywhere Product Catalog](../../sales/data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
@@ -66,6 +67,7 @@ Clean, query, chart and explain data. 411 Grok Bot templates, 257 of them filed 
 | [Customer Feedback Insight Assistant](../../customer-support/data-analysis/customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |
 | [Customer Feedback Insight Generator](customer-feedback-insight-generator.md) | Turns customer feedback into clear insights and reports for quality control. |
 | [Customer Feedback Insights Assistant](customer-feedback-insights-assistant.md) | Analyzes customer feedback to surface insights, trends, and actionable recommendations. |
+| [Customer Feedback Intelligence Analyst](customer-feedback-intelligence-analyst.md) | Turns raw customer feedback into prioritized, actionable insights for operations leaders. |
 | [Customer Lifetime Value Analyst](../../management/data-analysis/customer-lifetime-value-analyst.md) | Turns your customer data into CLV insights and action plans for growth. |
 | [Customer Report Generator](../../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
 | [Customer Sentiment Analyst](../../management/data-analysis/customer-sentiment-analyst.md) | Analyzes customer sentiment across channels to guide e-commerce decisions. |
@@ -161,6 +163,7 @@ Clean, query, chart and explain data. 411 Grok Bot templates, 257 of them filed 
 | [Inventory Flow Forecaster](inventory-flow-forecaster.md) | Analyzes inventory turnover data, forecasts trends, and recommends optimizations for inventory managers. |
 | [Inventory Forecast Planner](inventory-forecast-planner.md) | Turns sales data into demand forecasts and inventory plans for inventory control specialists. |
 | [Inventory Forecasting Analyst](inventory-forecasting-analyst.md) | Analyzes sales, inventory, and supplier data to forecast demand and optimize stock levels. |
+| [Inventory Forecasting and Replenishment Planner](inventory-forecasting-and-replenishment-planner.md) | Track, forecast, and optimize inventory with AI-assisted operations management. |
 | [Inventory Forecasting Assistant](inventory-forecasting-assistant.md) | Forecasts inventory demand, optimizes stock levels, and flags risks for logistics coordinators. |
 | [Inventory Insight Assistant](inventory-insight-assistant.md) | Analyzes inventory data to forecast demand, optimize stock, and generate reports for logistics managers. |
 | [Inventory Insights Analyst](../../management/data-analysis/inventory-insights-analyst.md) | Turns inventory data into demand forecasts, stock-level recommendations, and supplier insights for purchasing decisions. |
@@ -179,6 +182,7 @@ Clean, query, chart and explain data. 411 Grok Bot templates, 257 of them filed 
 | [Invoice Organizer](invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
 | [Junta Auctioneers](junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Knowledge Synthesizer](../../it-and-development/data-analysis/knowledge-synthesizer.md) | Extracts actionable patterns from agent interactions to enable organizational learning. |
+| [KPI Analysis and Forecasting Assistant](kpi-analysis-and-forecasting-assistant.md) | Turns your KPI data into clear insights, forecasts, and action plans for operations decisions. |
 | [Kpi Dashboard Design](../../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
 | [Laboratory Inventory Manager](../../science-and-research/data-analysis/laboratory-inventory-manager.md) | Manages lab inventory from tracking to forecasting, audits, and supplier coordination. |
 | [Lean Manufacturing Improvement Planner](../../product-development/data-analysis/lean-manufacturing-improvement-planner.md) | Lean manufacturing analysis and improvement planning for process engineers. |
@@ -197,6 +201,7 @@ Clean, query, chart and explain data. 411 Grok Bot templates, 257 of them filed 
 | [Logistics Layout Planner](logistics-layout-planner.md) | Optimizes warehouse layouts for space, flow, and efficiency from data to implementation. |
 | [Logistics Network Analysis Assistant](logistics-network-analysis-assistant.md) | Analyzes logistics network data and recommends efficiency, cost, and risk improvements. |
 | [Logistics Network Design Analyst](logistics-network-design-analyst.md) | Analyzes logistics data and designs efficient, resilient networks for logistics engineers. |
+| [Logistics Optimization Assistant](logistics-optimization-assistant.md) | Optimizes logistics operations from route planning to reverse logistics. |
 | [Logistics Performance Metrics Analyzer](logistics-performance-metrics-analyzer.md) | Turns your logistics performance data into clear insights and improvement actions. |
 | [Logistics Planner Layout Advisor](logistics-planner-layout-advisor.md) | Optimizes warehouse layouts for space, flow, and safety using your data. |
 | [Logistics Risk Management Assistant](logistics-risk-management-assistant.md) | Analyzes logistics risks and builds mitigation plans from your data. |
@@ -239,18 +244,22 @@ Clean, query, chart and explain data. 411 Grok Bot templates, 257 of them filed 
 | [Operations Demand Forecaster](operations-demand-forecaster.md) | Optimizes inventory, forecasts demand, manages suppliers, and streamlines logistics for operations directors. |
 | [Operations Demand Insight](operations-demand-insight.md) | Forecasts demand for your operations using your data and market insight. |
 | [Operations Efficiency Analyst](operations-efficiency-analyst.md) | Analyzes operations data, maps processes, and drives efficiency improvements for VPs of Operations. All in one assistant. No hype, just results. |
+| [Operations Environmental Impact Reporter](operations-environmental-impact-reporter.md) | Turns operational data into environmental impact analysis, reports, and compliance guidance. |
 | [Operations Feedback Insight Builder](operations-feedback-insight-builder.md) | Analyzes feedback, designs surveys, trains reps, monitors quality, and reports on customer service performance. |
 | [Operations Financial Forecaster](operations-financial-forecaster.md) | Builds, checks, and reports financial forecasts for operations decisions. |
 | [Operations Insight Report Builder](operations-insight-report-builder.md) | Supply chain analysis assistant for operations managers, turning data into actionable insights and recommendations. No hype, just analysis. |
 | [Operations Inventory Insight Builder](operations-inventory-insight-builder.md) | Optimizes stock levels, forecasts demand, and streamlines inventory operations from data analysis to reporting. |
 | [Operations Manager Supply Chain Advisor](operations-manager-supply-chain-advisor.md) | Optimizes supply chain operations with data-driven insights and recommendations. |
 | [Operations Process Optimizer](operations-process-optimizer.md) | Analyzes operational data to find bottlenecks, waste, and automation opportunities. |
+| [Operations Productivity Insights](operations-productivity-insights.md) | Analyzes employee productivity data, identifies drivers, and recommends improvements for operations heads. |
 | [Operations QC Insight Partner](operations-qc-insight-partner.md) | Quality control analysis assistant for operations managers. |
 | [Operations Trend Decoder](operations-trend-decoder.md) | Delivers market trend analysis for VP of Operations decisions. |
+| [Operations Trend Strategist](operations-trend-strategist.md) | Market trend analysis and strategic insights for Heads of Operations. |
 | [Operations Voice Decoder](operations-voice-decoder.md) | Turns customer feedback into clear insights and improvement plans for operations leaders. |
 | [Operations Workflow Optimizer](operations-workflow-optimizer.md) | Optimizes global operations workflows through data analysis, automation, and continuous improvement. |
 | [Ops Bottleneck Finder](ops-bottleneck-finder.md) | Analyzes operations data and processes to find bottlenecks, improve quality, and cut waste. |
 | [Ops Cost Cut Finder](ops-cost-cut-finder.md) | Analyzes operations data to find and implement cost reduction opportunities for a VP of Operations. |
+| [Ops Flow Auditor](ops-flow-auditor.md) | Optimizes your operations workflows by analyzing processes, finding bottlenecks, and recommending improvements. |
 | [Ops Market Trend Forecaster](ops-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategy recommendations for operations managers. |
 | [Ops Performance Forecaster](ops-performance-forecaster.md) | Turns employee performance data into clear insights, forecasts, and recommendations for operations leaders. |
 | [Otif Analysis](otif-analysis.md) | Audit delivery OTIF from order data, find metric gaps, and pinpoint where lateness concentrates. |
@@ -301,6 +310,7 @@ Clean, query, chart and explain data. 411 Grok Bot templates, 257 of them filed 
 | [Psychological Safety Assessment Assistant](psychological-safety-assessment-assistant.md) | Assesses and improves workplace psychological safety through surveys, analysis, and guidance. |
 | [QC Root Cause Navigator](qc-root-cause-navigator.md) | Guides quality control specialists through root cause analysis from data collection to validated fixes. |
 | [Quality Control Analysis Assistant](quality-control-analysis-assistant.md) | Analyzes production data, detects defects, and drives quality improvements for production coordinators. |
+| [Quality Control Analyst](quality-control-analyst.md) | Quality control analysis, documentation, and improvement support for operations heads. |
 | [Quality Control Data Analyst](../../product-development/data-analysis/quality-control-data-analyst.md) | Analyzes QC data and runs quality engineering analyses for process engineers. |
 | [Quality Control Operations Assistant](quality-control-operations-assistant.md) | Quality control assistant for operations managers: defect analysis, audits, and continuous improvement. |
 | [Quality Control Reporting Assistant](quality-control-reporting-assistant.md) | Analyzes quality data, generates reports, and tracks compliance for quality control inspectors. |
@@ -310,6 +320,7 @@ Clean, query, chart and explain data. 411 Grok Bot templates, 257 of them filed 
 | [Real-Time Logistics Monitor](real-time-logistics-monitor.md) | Real-time logistics monitoring and analysis for a logistics planner's operations. |
 | [Rehabilitation Analyzer](../../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
 | [Reliability Maintenance Planner](../../product-development/data-analysis/reliability-maintenance-planner.md) | Analyzes equipment data to plan maintenance, optimize inventory, and improve reliability. |
+| [Resource Allocation Optimizer](resource-allocation-optimizer.md) | Analyzes resources, forecasts demand, and optimizes allocation for operations leaders. |
 | [Retail Inventory Optimizer](../../management/data-analysis/retail-inventory-optimizer.md) | Forecasts demand, optimizes stock, and prevents shrinkage for retail managers. |
 | [Retail Sustainability Analyst](../../management/data-analysis/retail-sustainability-analyst.md) | Analyzes retail sustainability data and generates actionable recommendations for greener operations. |
 | [Return Refund Optimizer](../../management/data-analysis/return-refund-optimizer.md) | Optimizes e-commerce return and refund processes using data analysis and automation. |

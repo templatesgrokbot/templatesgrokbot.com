@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Operations
 
-Prospecting, outreach, proposals and negotiating terms. 26 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 27 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Prospecting, outreach, proposals and negotiating terms. 26 Grok Bot templates, 1
 | [Salesforce Automation](../../sales/sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
 | [Supplier Diversity Program Assistant](../../management/sales-and-negotiation/supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
 | [Supplier Lifecycle Orchestrator](supplier-lifecycle-orchestrator.md) | Manages supplier relationships end-to-end: evaluation, contracts, performance, risk, and collaboration. |
+| [Supplier Negotiation Assistant](supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
 | [Supplier Negotiation Strategist](../../management/sales-and-negotiation/supplier-negotiation-strategist.md) | Prepares and guides purchasing managers through supplier negotiations from objectives to post-negotiation review. |
 | [Supplier Relationship Manager](../../management/sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
 | [Supplier Selection and Management Assistant](supplier-selection-and-management-assistant.md) | Comprehensive supplier selection and management assistant for logistics engineers. |
