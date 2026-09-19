@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 120 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 135 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,6 +25,7 @@ Plan, prioritise and clear the recurring admin. 120 Grok Bot templates, 49 of th
 | [Calendly Automation](../../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Change Management Consultant](change-management-consultant.md) | Guides management consultants through every stage of organizational change, from stakeholder analysis to sustainability planning. |
 | [Claims Processing Automation Assistant](claims-processing-automation-assistant.md) | Automates claims intake, assessment, fraud checks, updates, and reporting for insurance claims managers. |
+| [Claims Processing Automation Manager](../../operations/productivity/claims-processing-automation-manager.md) | Automates insurance claims intake, assessment, routing, communication, and audit for operations managers. |
 | [Claims Processing Efficiency Assistant](claims-processing-efficiency-assistant.md) | Streamlines insurance claims processing from intake to payment with AI assistance. |
 | [Clickup Automation](../../operations/productivity/clickup-automation.md) | Automate ClickUp project management via Rube MCP — tasks, hierarchy, comments. |
 | [Client Relationship Manager](client-relationship-manager.md) | Manages all client relationship tasks for an insurance agency manager, from tracking to retention. |
@@ -39,13 +40,17 @@ Plan, prioritise and clear the recurring admin. 120 Grok Bot templates, 49 of th
 | [Decision Navigator](decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
 | [Diary](../../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Doordash Group Orders](../../operations/productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
+| [Employee Scheduling Optimizer](../../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
+| [Facility Ops Chat Manager](../../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
 | [Famulor](../../operations/productivity/famulor-skill.md) | Operate Famulor assistants, calls, campaigns, messaging, and workspace settings through its MCP server. |
 | [File Organizer](../../operations/productivity/file-organizer.md) | Analyzes, deduplicates, and restructures your files into a logical folder hierarchy. |
 | [Find Complementary Founders](../../executives-and-strategy/productivity/find-complementary-founders.md) | Match founders by evidence, not claims — publish only your own owner's profile. |
+| [Fleet Maintenance Scheduler](../../operations/productivity/fleet-maintenance-scheduler.md) | Plans and tracks fleet maintenance to cut downtime and keep vehicles compliant. |
 | [Flowhunt](../../operations/productivity/flowhunt-skill.md) | Guides a 5-question intake then audits tools to rank automation quick wins. |
 | [Game Changing Features](../../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
 | [Git Pr Workflows Onboard](../../human-resources/productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
 | [Google Calendar Automation](google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
+| [Green Ops Tracker](../../operations/productivity/green-ops-tracker.md) | Sustainability operations assistant for planning, tracking, and reporting green initiatives. No hype, just practical steps. |
 | [Hackathon Ai Strategist](hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [Hiring Scorecard Builder](../../human-resources/productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
 | [Hotel Crisis Management Planner](../../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
@@ -63,6 +68,7 @@ Plan, prioritise and clear the recurring admin. 120 Grok Bot templates, 49 of th
 | [Kody](kody.md) | Coordinates priorities across people, projects, and assistants. |
 | [Linear Automation](../../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
 | [Linear for Claude](../../product-development/productivity/linear-claude-skill.md) | Manage Linear issues, projects, and teams via API. |
+| [Logistics Crisis Planner](../../operations/productivity/logistics-crisis-planner.md) | Turns logistics crisis data into risk reports, plans, and drills. |
 | [Meal Prep](../../operations/productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Meeting Notes](../../operations/productivity/meeting-notes.md) | Turns a transcript into decisions and owned actions, dropping everything that was just talk. |
 | [Monday Automation](../../operations/productivity/monday-automation.md) | Automate Monday.com work management with board, item, column, group, and subitem operations via Rube MCP. |
@@ -76,6 +82,8 @@ Plan, prioritise and clear the recurring admin. 120 Grok Bot templates, 49 of th
 | [Onboarding](../../product-development/productivity/onboarding.md) | Optimize post-signup onboarding to speed users to their aha moment and boost activation. |
 | [Onboarding Checklist Generator](onboarding-checklist-generator.md) | Generates customized client onboarding checklists with phases, owners, dependencies, and email templates. |
 | [Onboarding Cro](../../product-development/productivity/onboarding-cro.md) | Audits and optimizes user onboarding to reduce time-to-value and increase activation rates. |
+| [Operations Risk Assessment Guide](../../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
+| [Ops Tech Integration Planner](../../operations/productivity/ops-tech-integration-planner.md) | Plans and manages technology integration projects for operations managers. |
 | [Osterwalder Canvas Architect](../../executives-and-strategy/productivity/osterwalder-canvas-architect.md) | Iteratively build and audit logically consistent 9-block Business Model Canvases. |
 | [Outlook Automation](../../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Outlook Calendar Automation](outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
@@ -86,11 +94,15 @@ Plan, prioritise and clear the recurring admin. 120 Grok Bot templates, 49 of th
 | [Planning With Files](planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
 | [Power User Cultivation](../../product-development/productivity/power-user-cultivation.md) | Identify engaged developers and turn them into advocates and contributors. |
 | [Prd](../../product-development/productivity/prd.md) | Synthesize conversation into PRD and publish to issue tracker. |
+| [Product Lifecycle Manager](../../operations/productivity/product-lifecycle-manager.md) | Manages product lifecycle data, forecasts, quality, compliance, suppliers, and launches for supply chain managers. |
 | [Product Manager](../../product-development/productivity/product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
+| [Production Deadline Planner](../../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
 | [Production Resource Allocation Planner](../../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
 | [Production Schedule Optimizer](../../operations/productivity/production-schedule-optimizer.md) | Builds, monitors, and optimizes production schedules, resolving conflicts and keeping stakeholders informed. |
 | [Production Technology Integration Planner](../../operations/productivity/production-technology-integration-planner.md) | Plans and optimizes production technology integration from selection to monitoring. |
+| [Project Management Efficiency Assistant](../../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Project Management Guidance Assistant](project-management-guidance-assistant.md) | Guides management consultants through every project management task, from planning to reporting. |
+| [Project Management Support Assistant](../../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
 | [Project Manager](project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
 | [Project Supervisor Orchestrator](../../operations/productivity/project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
 | [Purchasing Digital Transformation Assistant](purchasing-digital-transformation-assistant.md) | Guides purchasing managers through digital transformation, from supplier research to performance monitoring. |
@@ -107,6 +119,8 @@ Plan, prioritise and clear the recurring admin. 120 Grok Bot templates, 49 of th
 | [Stakeholder Communication Planner](stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
 | [Stakeholder Engagement Planner](stakeholder-engagement-planner.md) | Plans and runs stakeholder engagement for management consultants. |
 | [Strategic Planning Assistant](strategic-planning-assistant.md) | Turns market data and goals into a full strategic plan with risks, actions, and reviews. |
+| [Supply Chain Sustainability Planner](../../operations/productivity/supply-chain-sustainability-planner.md) | Helps supply chain managers embed sustainability across operations, from supplier audits to green logistics. |
+| [Supply Chain Technology Integration Planner](../../operations/productivity/supply-chain-technology-integration-planner.md) | Plans and executes technology integration across your supply chain. |
 | [Task Decomposition Expert](task-decomposition-expert.md) | Breaks complex goals into actionable work breakdowns with dependencies and effort estimates. |
 | [Task Distributor](../../operations/productivity/task-distributor.md) | Distributes tasks across workers to maximize throughput while respecting priorities and deadlines. No hype, no emoji, no 'leverage'/'empower'/'seamles |
 | [Task Intelligence](task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |
@@ -122,6 +136,7 @@ Plan, prioritise and clear the recurring admin. 120 Grok Bot templates, 49 of th
 | [Triage](../../it-and-development/productivity/triage.md) | Triage issues and PRs through a state machine to agent-ready briefs. |
 | [Vendor Watch](../../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
 | [Web Project Brainstorming](../../product-development/productivity/web-project-brainstorming.md) | Structured framework for brainstorming web project concepts, UX, styling, tech stack, and SEO. |
+| [Workflow Automation Planner](../../operations/productivity/workflow-automation-planner.md) | Finds and implements workflow automation opportunities for operations managers. |
 | [Workflow Orchestrator](../../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
 | [Workforce Planning Assistant](../../operations/productivity/workforce-planning-assistant.md) | Optimizes workforce scheduling, allocation, and planning for production planners. |
 | [Wrike Automation](../../operations/productivity/wrike-automation.md) | Automate Wrike tasks, folders, projects, and assignments via Rube MCP. |

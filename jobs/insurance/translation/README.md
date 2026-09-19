@@ -1,11 +1,12 @@
 # Translation templates for Insurance
 
-Translate and localise text and media. 1 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Translate and localise text and media. 2 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Multi-Channel Insurance Communication Assistant](../../customer-support/translation/multi-channel-insurance-communication-assistant.md) | Handles multi-channel insurance customer communication with drafting, translation, and insights. |
+| [Multilingual Claims Support Bot](../../operations/translation/multilingual-claims-support-bot.md) | Multilingual insurance claims support: translate, communicate, and comply across languages. |
 
 [← All Insurance templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/insurance)

@@ -1,6 +1,6 @@
 # Support & Community templates for Customer Support
 
-Triage tickets, answer customers and moderate communities. 35 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 37 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Triage tickets, answer customers and moderate communities. 35 Grok Bot templates
 | [Customer Inquiry Response Assistant](customer-inquiry-response-assistant.md) | Drafts, translates, and tracks customer support replies across channels. |
 | [Customer Issue Resolution Assistant](customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
 | [Customer Onboarding Assistant](customer-onboarding-assistant.md) | Guides new insurance customers through onboarding with personalized, step-by-step support. |
+| [Customer Service Improvement Assistant](../../operations/support-and-community/customer-service-improvement-assistant.md) | Analyzes logistics customer feedback and automates support workflows to improve satisfaction. |
 | [Customer Success Response Manager](customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 | [Customer Support](customer-support.md) | Resolves support tickets and creates help documentation from confirmed facts only. |
 | [Emergency Response Coordinator](emergency-response-coordinator.md) | Coordinates emergency response support for insurance policyholders from first contact to claim resolution. |
@@ -29,6 +30,7 @@ Triage tickets, answer customers and moderate communities. 35 Grok Bot templates
 | [Legal Intake Concierge](../../legal/support-and-community/legal-intake-concierge.md) | Manages client communication for lawyers, from intake to follow-up, with approval gates. |
 | [Live Chat Support Assistant](live-chat-support-assistant.md) | Handles live chat support from triage to escalation so your customers get answers fast. |
 | [Logistics Customer Service Improver](../../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
+| [Logistics Customer Service Optimizer](../../operations/support-and-community/logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
 | [Personalized Insurance Service Assistant](personalized-insurance-service-assistant.md) | Personalized insurance service assistant for customer service representatives. |
 | [Policy Customization Assistant](policy-customization-assistant.md) | Guides insurance customers through customizing policies, from coverage options to claims assistance. |
 | [Policy Explanation Assistant](policy-explanation-assistant.md) | Explains insurance policies clearly and guides customers through coverage, claims, and renewals. |

@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 34 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 35 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Clean, query, chart and explain data. 34 Grok Bot templates, 5 of them filed in 
 | [Developer Churn](developer-churn.md) | Analyze developer churn and design retention strategies. |
 | [E-commerce Recommendation Optimizer](../../management/data-analysis/e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
 | [E-commerce UX Improvement Assistant](../../management/data-analysis/e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
+| [eLearning Feedback Analyzer](../../education/data-analysis/elearning-feedback-analyzer.md) | Turns eLearning user feedback into categorized insights, prioritized fixes, and clear reports. |
 | [Experiment Readout](experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Mixpanel Automation](../../it-and-development/data-analysis/mixpanel-automation.md) | Automate Mixpanel analytics: events, funnels, cohorts, profiles, and JQL queries via Rube MCP. |
 | [Mock Hunter](../../it-and-development/data-analysis/mock-hunter.md) | Audits live web pages to classify every visible value as real, mock, hardcoded, LLM, broken, or unknown. |

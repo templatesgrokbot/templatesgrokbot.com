@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **346 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **347 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Scientists, analysts and academic researchers. **346 ready-made Grok Bot templat
 | Kind of work | Templates |
 |---|---:|
 | [Research](research/README.md) | 137 |
-| [Data Analysis](data-analysis/README.md) | 86 |
+| [Data Analysis](data-analysis/README.md) | 87 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 64 |
 | [Coding](coding/README.md) | 30 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 10 |
@@ -245,6 +245,7 @@ Scientists, analysts and academic researchers. **346 ready-made Grok Bot templat
 | [Seaborn](../it-and-development/data-analysis/seaborn.md) | Generate publication-quality Seaborn statistical plots from DataFrames with code only. |
 | [Senior Data Scientist](data-analysis/senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
 | [Shap](../it-and-development/data-analysis/shap.md) | Explains machine learning model predictions using SHAP values and visualizations. |
+| [Simulation Modeling Assistant](../operations/data-analysis/simulation-modeling-assistant.md) | Builds and runs simulation models to optimize processes, resources, and decisions. |
 | [Skin Health Analyzer](../healthcare/data-analysis/skin-health-analyzer.md) | Analyze skin health data to identify patterns and assess status. |
 | [Spreadsheet Merger](../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Statistical Analysis](data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |

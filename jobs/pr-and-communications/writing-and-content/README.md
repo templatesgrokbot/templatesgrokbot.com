@@ -1,6 +1,6 @@
 # Writing & Content templates for PR and Communications
 
-Plan, write and edit articles, copy and documentation. 14 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 15 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,5 +20,6 @@ Plan, write and edit articles, copy and documentation. 14 Grok Bot templates, 4 
 | [Policy Update Communications Assistant](../../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
 | [Press Conference Simulator](press-conference-simulator.md) | Generates authentic coach and player press conference responses for any sports scenario. |
 | [Receptionist Communication Assistant](../../customer-support/writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
+| [Stakeholder Communication Coordinator](../../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
 
 [← All PR and Communications templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/pr-and-communications)

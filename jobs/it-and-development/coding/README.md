@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1012 Grok Bot templates, 1004 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -716,6 +716,7 @@ Write, review, test and debug software. 1012 Grok Bot templates, 1004 of them fi
 | [Powershell Windows](powershell-windows.md) | Provides PowerShell patterns, operator syntax, error handling, and pitfalls for Windows scripting. |
 | [Pr Merge Champion](pr-merge-champion.md) | Prepare pull requests for fast approval with clean diffs and self-reviews. |
 | [Principal Software Engineer](principal-software-engineer.md) | Provide principal-level software engineering guidance with focus on engineering excellence, technical leadership, and pragmatic implementation. |
+| [Product Testing Assistant](../../operations/coding/product-testing-assistant.md) | Generates, runs, and reports product tests, tracking defects and ensuring quality. |
 | [Production Code Audit](production-code-audit.md) | Scans codebase line-by-line, fixes issues, and upgrades to production-grade quality. |
 | [Progressive Estimation](progressive-estimation.md) | Estimate dev work with PERT statistics and calibration feedback loops. |
 | [Project Guidelines Example](cc-skill-project-guidelines-example.md) | Provides architecture, code patterns, and deployment guidelines for the Zenith project. |

@@ -1,6 +1,6 @@
 # Productivity templates for Executives and Strategy
 
-Plan, prioritise and clear the recurring admin. 23 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 25 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,7 +26,9 @@ Plan, prioritise and clear the recurring admin. 23 Grok Bot templates, 5 of them
 | [Osterwalder Canvas Architect](osterwalder-canvas-architect.md) | Iteratively build and audit logically consistent 9-block Business Model Canvases. |
 | [Outlook Calendar Automation](../../management/productivity/outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
 | [Product Manager](../../product-development/productivity/product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
+| [Project Management Efficiency Assistant](../../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Strategic Planning Assistant](../../management/productivity/strategic-planning-assistant.md) | Turns market data and goals into a full strategic plan with risks, actions, and reviews. |
+| [Sustainability Strategy Planner](../../operations/productivity/sustainability-strategy-planner.md) | Turns your operations data into a complete sustainability strategy, from trends to action plans. |
 | [Usage Based Pricing](../../product-development/productivity/usage-based-pricing.md) | Design developer-friendly usage-based pricing models with clear metrics and predictable costs. |
 | [Web Project Brainstorming](../../product-development/productivity/web-project-brainstorming.md) | Structured framework for brainstorming web project concepts, UX, styling, tech stack, and SEO. |
 

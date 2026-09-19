@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Operations
 
-Infrastructure, deployments, monitoring and incident response. 180 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 182 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -170,6 +170,8 @@ Infrastructure, deployments, monitoring and incident response. 180 Grok Bot temp
 | [Sshepherd](../../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
 | [Status](../../it-and-development/cloud-and-devops/status.md) | Check Railway project status, deployments, and uptime for this directory. |
 | [Technology Integration Coordinator](../../management/cloud-and-devops/technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |
+| [Technology Integration Operations Assistant](technology-integration-operations-assistant.md) | Guides technology integration from evaluation to optimization for operations leaders. |
+| [Technology Integration Strategist](technology-integration-strategist.md) | Plans and oversees technology integration across global operations, from analysis to optimization. |
 | [Templates](../../it-and-development/cloud-and-devops/templates.md) | Search and deploy templates from Railway's marketplace. |
 | [Terraform](../../it-and-development/cloud-and-devops/terraform.md) | Generates compliant Terraform code and manages HCP workspaces with registry lookups. |
 | [Terraform Infrastructure](../../it-and-development/cloud-and-devops/terraform-infrastructure.md) | Provision and manage cloud infrastructure with Terraform, safely and repeatably. |

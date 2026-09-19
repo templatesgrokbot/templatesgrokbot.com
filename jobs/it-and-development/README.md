@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,483 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,486 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,15 @@ Engineers, DevOps, security and IT teams. **2,483 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Coding](coding/README.md) | 1,012 |
+| [Coding](coding/README.md) | 1,013 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 357 |
 | [Security & Compliance](security-and-compliance/README.md) | 240 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 208 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 209 |
 | [Data Analysis](data-analysis/README.md) | 152 |
 | [Design](design/README.md) | 89 |
 | [Generative Code](generative-code/README.md) | 88 |
 | [Research](research/README.md) | 87 |
-| [Productivity](productivity/README.md) | 72 |
+| [Productivity](productivity/README.md) | 73 |
 | [Knowledge Management](knowledge-management/README.md) | 44 |
 | [Prompt Engineering](prompt-engineering/README.md) | 33 |
 | [Writing & Content](writing-and-content/README.md) | 25 |
@@ -50,7 +50,7 @@ Engineers, DevOps, security and IT teams. **2,483 ready-made Grok Bot templates*
 | [Thinking Beast Mode](coding/thinking-beast-mode.md) | Drives multi-step engineering tasks to full completion with visible todo tracking. |
 | [Javascript Mastery](coding/javascript-mastery.md) | Explains JS concepts, debugs code, and teaches fundamentals on demand. |
 
-[All 1,012 Coding templates →](coding/README.md)
+[All 1,013 Coding templates →](coding/README.md)
 
 ## Cloud & DevOps
 
@@ -95,7 +95,7 @@ Engineers, DevOps, security and IT teams. **2,483 ready-made Grok Bot templates*
 | [Agent Tool Builder](generative-ai-and-llm/agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
 | [Mcp Integration Engineer](generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
 
-[All 208 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 209 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
 ## Data Analysis
 
@@ -170,7 +170,7 @@ Engineers, DevOps, security and IT teams. **2,483 ready-made Grok Bot templates*
 | [Sendblue Cli](productivity/sendblue-cli.md) | Send iMessage and SMS from the shell using the Sendblue CLI. |
 | [Planning With Files](../management/productivity/planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
 
-[All 72 Productivity templates →](productivity/README.md)
+[All 73 Productivity templates →](productivity/README.md)
 
 ## Knowledge Management
 

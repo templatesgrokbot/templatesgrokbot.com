@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **365 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **371 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Designers, artists and content creators. **365 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 141 |
+| [Design](design/README.md) | 146 |
 | [Generative Art](generative-art/README.md) | 46 |
 | [Generative Code](generative-code/README.md) | 45 |
 | [Coding](coding/README.md) | 34 |
@@ -24,8 +24,8 @@ Designers, artists and content creators. **365 ready-made Grok Bot templates** f
 | [Research](research/README.md) | 5 |
 | [Text-To-Speech](text-to-speech/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
+| [Text-To-Video](text-to-video/README.md) | 3 |
 | [Data Analysis](data-analysis/README.md) | 2 |
-| [Text-To-Video](text-to-video/README.md) | 2 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Productivity](productivity/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
@@ -40,6 +40,7 @@ Designers, artists and content creators. **365 ready-made Grok Bot templates** f
 | [Anthropic Frontend Design](../it-and-development/design/anthropic-frontend-design.md) | Designs and codes distinctive, production-ready UI layouts with a committed visual direction. |
 | [Anti Ui Slop](design/anti-ui-slop.md) | Build product-specific UI from your design system, not generic patterns. |
 | [Antigravity Design Expert](design/antigravity-design-expert.md) | Build spatial, glassmorphic, motion-heavy web interfaces with GSAP and 3D CSS. |
+| [AR Learning Experience Designer](../education/design/ar-learning-experience-designer.md) | Designs and refines AR learning experiences from research to assessment. |
 | [Aurora Ui](design/aurora-ui.md) | Build ethereal aurora UI with glowing orbs, glassmorphism, and slow drift. |
 | [Banner Design](../marketing/design/banner-design.md) | Design banners for social media, ads, website heroes, creative assets, and print. |
 | [Baseline Ui](design/baseline-ui.md) | Enforce an opinionated UI baseline to fix spacing, hierarchy, typography, and layout issues. |
@@ -96,6 +97,7 @@ Designers, artists and content creators. **365 ready-made Grok Bot templates** f
 | [Frontend Design](design/frontend-design.md) | Distinctive frontend design that avoids AI defaults and follows the brief. |
 | [Game Art](design/game-art.md) | Guide game art style, asset pipeline, and animation workflow decisions. |
 | [Game Designer](design/game-designer.md) | Designs game mechanics, balancing, and player progression systems. |
+| [Gamified Learning Designer](../education/design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
 | [Glassmorphism](../it-and-development/design/glassmorphism.md) | Generate frosted glass UI with backdrop blur, transparency, and light borders. |
 | [Gradient Design](design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 | [Hig Components Content](design/hig-components-content.md) | Recommend Apple HIG content components with configuration and accessibility guidance. |
@@ -118,6 +120,7 @@ Designers, artists and content creators. **365 ready-made Grok Bot templates** f
 | [imagegen-frontend-mobile](design/imagegen-frontend-mobile.md) | Generates realistic mobile app screen mockups for pitches and product previews. |
 | [Industrial Brutalist Ui](design/industrial-brutalist-ui.md) | Create raw industrial or tactical telemetry UIs with rigid grids and stark typography. |
 | [Interaction Design Assistant](design/interaction-design-assistant.md) | Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff. |
+| [Interactive Learning Tools Design Assistant](../education/design/interactive-learning-tools-design-assistant.md) | Designs and builds interactive learning tools for eLearning developers. |
 | [Interactive Portfolio](design/interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
 | [Isometric Design](design/isometric-design.md) | Guides implementing isometric 3D views without vanishing points for web and apps. |
 | [Landing Page Designer](design/landing-page-designer.md) | Turns brand answers into a deployable landing page, refined in chat. |
@@ -127,6 +130,7 @@ Designers, artists and content creators. **365 ready-made Grok Bot templates** f
 | [Maximalism](../it-and-development/design/maximalism.md) | Implement dense, ornate, grid-based maximalist UI for web and mobile. |
 | [Minimalism](design/minimalism.md) | Generate minimal layouts with extreme whitespace, strict typography, and no decoration. |
 | [Minimalist Ui](design/minimalist-ui.md) | Build warm monochrome editorial UIs with crisp borders and restrained motion. |
+| [Mobile Learning App Designer](../education/design/mobile-learning-app-designer.md) | Designs and refines mobile learning apps with AI-assisted content, features, and user experience guidance. |
 | [Monochromatic Ui](design/monochromatic-ui.md) | Generate a single-hue UI palette with tints, shades, and implementation code for web, SwiftUI, or Flutter. |
 | [Motion Language Designer](design/motion-language-designer.md) | Designs a product's motion language and exports tokens, Framer Motion variants, and CSS. |
 | [Neo Brutalism](design/neo-brutalism.md) | Implement neo-brutalist UI with thick borders, hard shadows, and bright colors. |
@@ -173,6 +177,7 @@ Designers, artists and content creators. **365 ready-made Grok Bot templates** f
 | [Vibrant Maximalism](design/vibrant-maximalism.md) | Generate loud, clashing, dense web/app designs where every pixel carries pattern, color, and type. |
 | [Visual Content Ideation Assistant](../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
 | [Visual Emotion Engineer](design/visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
+| [VR Learning Content Designer](../education/design/vr-learning-content-designer.md) | Designs and develops VR learning content from storyboard to QA. |
 | [Web Design Guidelines](../it-and-development/design/web-design-guidelines.md) | Audits UI code against the latest Web Interface Guidelines. |
 | [Widget Based Design](design/widget-based-design.md) | Build modular, glanceable widget UI blocks for web and mobile apps. |
 | [Y2k Design](design/y2k-design.md) | Generate Y2K aesthetic UI with chrome, blobs, and neon glow. |
@@ -453,19 +458,20 @@ Designers, artists and content creators. **365 ready-made Grok Bot templates** f
 | [Elon Musk](generative-ai-and-llm/elon-musk.md) | Simulates Elon Musk with high-fidelity psychological and communication depth. |
 | [Mmx Cli](generative-ai-and-llm/mmx-cli.md) | Generate text, images, video, speech, and music via the MiniMax CLI. |
 
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Apify Trend Analysis](../marketing/data-analysis/apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
-| [Scientific Visualization](../science-and-research/data-analysis/scientific-visualization.md) | Create publication-ready scientific figures from data. |
-
 ## Text-To-Video
 
 | Template | What it does |
 |---|---|
 | [HyperFrames Ad Director](../marketing/text-to-video/hyperframes-ad-director.md) | Turns a marketing brief into a finished short-form video ad with hook, script, storyboard, and platform cuts. |
 | [Video Frame Generator](text-to-video/video-frame-generator.md) | Turns your script into a cinematic, auto-playing video frame sequence. |
+| [Video Lecture Production Assistant](../education/text-to-video/video-lecture-production-assistant.md) | Produces complete video lectures from script to delivery for eLearning developers. |
+
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Apify Trend Analysis](../marketing/data-analysis/apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
+| [Scientific Visualization](../science-and-research/data-analysis/scientific-visualization.md) | Create publication-ready scientific figures from data. |
 
 ## Knowledge Management
 

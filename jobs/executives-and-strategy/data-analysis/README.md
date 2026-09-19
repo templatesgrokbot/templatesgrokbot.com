@@ -1,6 +1,6 @@
 # Data Analysis templates for Executives and Strategy
 
-Clean, query, chart and explain data. 52 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 56 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Clean, query, chart and explain data. 52 Grok Bot templates, 9 of them filed in 
 | [Executive Forecast Report Builder](../../management/data-analysis/executive-forecast-report-builder.md) | Turns financial data into forecasts, scenarios, and reports for senior management decisions. |
 | [Executive Market Trend Forecaster](../../management/data-analysis/executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
 | [Game Strategy Simulator](game-strategy-simulator.md) | Simulates sports game scenarios for play-calling, clock management, and risk/reward decisions. |
+| [Global Ops Forecast Architect](../../operations/data-analysis/global-ops-forecast-architect.md) | Turns financial data into forecasts, scenarios, and decisions for global operations heads. |
 | [Insurance Competitive Intelligence Assistant](../../management/data-analysis/insurance-competitive-intelligence-assistant.md) | Turns competitor data into actionable insurance market intelligence for agency managers. |
 | [Insurance Finance Reporting Assistant](../../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Job Profitability Analyzer](../../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
@@ -32,12 +33,15 @@ Clean, query, chart and explain data. 52 Grok Bot templates, 9 of them filed in 
 | [Longbridge](../../finance/data-analysis/longbridge.md) | 125+ read-only market data capabilities for HK/US/A-share/SG stocks via Longbridge. |
 | [Longbridge Fundamentals](../../finance/data-analysis/longbridge-fundamentals.md) | Pull financial statements, valuation multiples, and company profiles for HK/US/A-share/Singapore stocks via Longbridge. |
 | [M&A Evaluation Assistant](../../management/data-analysis/m-a-evaluation-assistant.md) | M&A evaluation assistant for senior managers: screening, due diligence, valuation, integration, and post-merger analysis. |
+| [Market Analysis Strategist](../../operations/data-analysis/market-analysis-strategist.md) | Turns market data into clear analysis and strategy for global operations. |
 | [Market Sizing Analysis](market-sizing-analysis.md) | Calculate TAM, SAM, and SOM for startup market sizing with three methodologies. |
 | [Market Trend Analyzer](../../management/data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
 | [Marketing Attribution Analyst](../../marketing/data-analysis/marketing-attribution-analyst.md) | Models multi-touch attribution, validates channel performance with incrementality testing, and optimizes budget allocation. Uses confirmed data only. |
 | [Marketing Metrics Analyst](../../management/data-analysis/marketing-metrics-analyst.md) | Turns your marketing data into clear metrics, insights, and decisions. |
 | [News Sentiment Engine](../../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 | [Offer Comparison Analyzer](../../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
+| [Operational Risk Management Assistant](../../operations/data-analysis/operational-risk-management-assistant.md) | Turns operational data into risk insights, plans, and reports for global operations heads. |
+| [Operations Data Insights Assistant](../../operations/data-analysis/operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |
 | [Patent Portfolio Analyst](../../legal/data-analysis/patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
 | [Patent Valuation Analyst](../../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Performance Report](marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |

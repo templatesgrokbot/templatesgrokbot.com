@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **81 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **84 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,10 +13,10 @@ Press, internal comms and reputation. **81 ready-made Grok Bot templates** for t
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 24 |
 | [Social Media](social-media/README.md) | 18 |
-| [Writing & Content](writing-and-content/README.md) | 14 |
+| [Writing & Content](writing-and-content/README.md) | 15 |
 | [Research](research/README.md) | 11 |
 | [Data Analysis](data-analysis/README.md) | 8 |
-| [Productivity](productivity/README.md) | 3 |
+| [Productivity](productivity/README.md) | 5 |
 | [Design](design/README.md) | 2 |
 | [Support & Community](support-and-community/README.md) | 1 |
 
@@ -90,6 +90,7 @@ Press, internal comms and reputation. **81 ready-made Grok Bot templates** for t
 | [Policy Update Communications Assistant](../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
 | [Press Conference Simulator](writing-and-content/press-conference-simulator.md) | Generates authentic coach and player press conference responses for any sports scenario. |
 | [Receptionist Communication Assistant](../customer-support/writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
+| [Stakeholder Communication Coordinator](../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
 
 ## Research
 
@@ -124,7 +125,9 @@ Press, internal comms and reputation. **81 ready-made Grok Bot templates** for t
 
 | Template | What it does |
 |---|---|
+| [Crisis Management Planning Assistant](../operations/productivity/crisis-management-planning-assistant.md) | Builds and maintains your crisis management plans, protocols, and training. |
 | [Hotel Crisis Management Planner](../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
+| [Operations Crisis Blueprint](../operations/productivity/operations-crisis-blueprint.md) | Crisis management planning assistant for global operations heads, from risk assessment to post-crisis evaluation. |
 | [Production Communication Coordinator](../operations/productivity/production-communication-coordinator.md) | Coordinates all production communication: emails, meetings, calls, documents, crises, and stakeholder updates. |
 | [Stakeholder Communication Planner](../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
 

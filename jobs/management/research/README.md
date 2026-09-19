@@ -1,6 +1,6 @@
 # Research templates for Management
 
-Find sources, compare evidence and summarise what is known. 61 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 62 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -53,6 +53,7 @@ Find sources, compare evidence and summarise what is known. 61 Grok Bot template
 | [SRED Project Organizer](../../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
 | [Supplier Dispute Resolution Framework Builder](supplier-dispute-resolution-framework-builder.md) | Builds and maintains a structured supplier dispute resolution framework from process design to training and feedback. |
 | [Supplier Diversification Planner](supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
+| [Supplier Evaluation and Management Assistant](../../operations/research/supplier-evaluation-and-management-assistant.md) | Evaluates and manages suppliers from identification through performance monitoring and improvement. |
 | [Supplier Innovation Program Assistant](supplier-innovation-program-assistant.md) | Finds, evaluates, and nurtures supplier innovation with structured programs and tracking. |
 | [Supplier Relationship Builder](supplier-relationship-builder.md) | Builds and strengthens supplier relationships through structured communication, engagement, and partnership strategies. |
 | [Supplier Selection Assistant](supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |

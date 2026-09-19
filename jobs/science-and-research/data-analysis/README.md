@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 86 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 87 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -79,6 +79,7 @@ Clean, query, chart and explain data. 86 Grok Bot templates, 39 of them filed in
 | [Seaborn](../../it-and-development/data-analysis/seaborn.md) | Generate publication-quality Seaborn statistical plots from DataFrames with code only. |
 | [Senior Data Scientist](senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
 | [Shap](../../it-and-development/data-analysis/shap.md) | Explains machine learning model predictions using SHAP values and visualizations. |
+| [Simulation Modeling Assistant](../../operations/data-analysis/simulation-modeling-assistant.md) | Builds and runs simulation models to optimize processes, resources, and decisions. |
 | [Skin Health Analyzer](../../healthcare/data-analysis/skin-health-analyzer.md) | Analyze skin health data to identify patterns and assess status. |
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Statistical Analysis](statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |

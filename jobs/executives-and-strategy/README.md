@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **169 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **176 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,10 +11,10 @@ Leaders making decisions from the whole picture. **169 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 52 |
-| [Research](research/README.md) | 41 |
+| [Data Analysis](data-analysis/README.md) | 56 |
+| [Research](research/README.md) | 42 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 30 |
-| [Productivity](productivity/README.md) | 23 |
+| [Productivity](productivity/README.md) | 25 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
@@ -47,6 +47,7 @@ Leaders making decisions from the whole picture. **169 ready-made Grok Bot templ
 | [Executive Forecast Report Builder](../management/data-analysis/executive-forecast-report-builder.md) | Turns financial data into forecasts, scenarios, and reports for senior management decisions. |
 | [Executive Market Trend Forecaster](../management/data-analysis/executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
 | [Game Strategy Simulator](data-analysis/game-strategy-simulator.md) | Simulates sports game scenarios for play-calling, clock management, and risk/reward decisions. |
+| [Global Ops Forecast Architect](../operations/data-analysis/global-ops-forecast-architect.md) | Turns financial data into forecasts, scenarios, and decisions for global operations heads. |
 | [Insurance Competitive Intelligence Assistant](../management/data-analysis/insurance-competitive-intelligence-assistant.md) | Turns competitor data into actionable insurance market intelligence for agency managers. |
 | [Insurance Finance Reporting Assistant](../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Job Profitability Analyzer](../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
@@ -56,12 +57,15 @@ Leaders making decisions from the whole picture. **169 ready-made Grok Bot templ
 | [Longbridge](../finance/data-analysis/longbridge.md) | 125+ read-only market data capabilities for HK/US/A-share/SG stocks via Longbridge. |
 | [Longbridge Fundamentals](../finance/data-analysis/longbridge-fundamentals.md) | Pull financial statements, valuation multiples, and company profiles for HK/US/A-share/Singapore stocks via Longbridge. |
 | [M&A Evaluation Assistant](../management/data-analysis/m-a-evaluation-assistant.md) | M&A evaluation assistant for senior managers: screening, due diligence, valuation, integration, and post-merger analysis. |
+| [Market Analysis Strategist](../operations/data-analysis/market-analysis-strategist.md) | Turns market data into clear analysis and strategy for global operations. |
 | [Market Sizing Analysis](data-analysis/market-sizing-analysis.md) | Calculate TAM, SAM, and SOM for startup market sizing with three methodologies. |
 | [Market Trend Analyzer](../management/data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
 | [Marketing Attribution Analyst](../marketing/data-analysis/marketing-attribution-analyst.md) | Models multi-touch attribution, validates channel performance with incrementality testing, and optimizes budget allocation. Uses confirmed data only. |
 | [Marketing Metrics Analyst](../management/data-analysis/marketing-metrics-analyst.md) | Turns your marketing data into clear metrics, insights, and decisions. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 | [Offer Comparison Analyzer](../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
+| [Operational Risk Management Assistant](../operations/data-analysis/operational-risk-management-assistant.md) | Turns operational data into risk insights, plans, and reports for global operations heads. |
+| [Operations Data Insights Assistant](../operations/data-analysis/operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |
 | [Patent Portfolio Analyst](../legal/data-analysis/patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
 | [Patent Valuation Analyst](../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Performance Report](data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
@@ -119,6 +123,7 @@ Leaders making decisions from the whole picture. **169 ready-made Grok Bot templ
 | [Market Trend Analyst](../management/research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
 | [Moatmri](research/moatmri.md) | Analyze AI disruption pressure across a business and produce a 90-day defensive action plan. |
 | [Niche Intelligence Dossier](../science-and-research/research/niche-intelligence-dossier.md) | Generates domain intelligence dossiers for specific niches, including regulations, UX, and industry stack. |
+| [Operations Risk Intel Scout](../operations/research/operations-risk-intel-scout.md) | Competitive intelligence for Global Heads of Operations, from market scans to risk mitigation. |
 | [Product Strategist](../product-development/research/product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |
 | [Reading Pile](../science-and-research/research/reading-pile.md) | Works through your saved-articles backlog and tells you which three are worth your time. |
 | [Salary Negotiation Prep](../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
@@ -188,7 +193,9 @@ Leaders making decisions from the whole picture. **169 ready-made Grok Bot templ
 | [Osterwalder Canvas Architect](productivity/osterwalder-canvas-architect.md) | Iteratively build and audit logically consistent 9-block Business Model Canvases. |
 | [Outlook Calendar Automation](../management/productivity/outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
 | [Product Manager](../product-development/productivity/product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
+| [Project Management Efficiency Assistant](../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Strategic Planning Assistant](../management/productivity/strategic-planning-assistant.md) | Turns market data and goals into a full strategic plan with risks, actions, and reviews. |
+| [Sustainability Strategy Planner](../operations/productivity/sustainability-strategy-planner.md) | Turns your operations data into a complete sustainability strategy, from trends to action plans. |
 | [Usage Based Pricing](../product-development/productivity/usage-based-pricing.md) | Design developer-friendly usage-based pricing models with clear metrics and predictable costs. |
 | [Web Project Brainstorming](../product-development/productivity/web-project-brainstorming.md) | Structured framework for brainstorming web project concepts, UX, styling, tech stack, and SEO. |
 

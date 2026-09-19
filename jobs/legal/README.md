@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **147 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **158 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,21 +11,79 @@ Contracts, research, compliance and review. **147 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
+| [Security & Compliance](security-and-compliance/README.md) | 53 |
 | [Research](research/README.md) | 48 |
-| [Security & Compliance](security-and-compliance/README.md) | 44 |
-| [Data Analysis](data-analysis/README.md) | 21 |
+| [Data Analysis](data-analysis/README.md) | 22 |
 | [Knowledge Management](knowledge-management/README.md) | 9 |
 | [Writing & Content](writing-and-content/README.md) | 9 |
 | [Support & Community](support-and-community/README.md) | 4 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Art](generative-art/README.md) | 1 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Productivity](productivity/README.md) | 1 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Ai Ethics Advisor](../it-and-development/security-and-compliance/ai-ethics-advisor.md) | Audits AI systems for bias, fairness, and regulatory compliance before deployment. |
+| [Akf Trust Metadata](../it-and-development/security-and-compliance/akf-trust-metadata.md) | Stamp, inspect, and audit AI file provenance and trust metadata for compliance. |
+| [AML Compliance Assistant](security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
+| [Check Identity Pack](../operations/security-and-compliance/check-identity-pack.md) | Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing. |
+| [Claims Compliance Assistant](../operations/security-and-compliance/claims-compliance-assistant.md) | Checks insurance claims for regulatory compliance from policy to audit. |
+| [Compliance and Regulatory Updates Assistant](../operations/security-and-compliance/compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
+| [Compliance Audit Preparation Assistant](security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
+| [Compliance Auditor](../it-and-development/security-and-compliance/compliance-auditor.md) | Audits compliance across GDPR, HIPAA, SOC 2, PCI DSS, and ISO frameworks. |
+| [Compliance Monitoring Assistant](security-and-compliance/compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
+| [Compliance Query Resolution Assistant](security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
+| [Compliance Specialist](security-and-compliance/compliance-specialist.md) | Assesses compliance gaps and prepares audit evidence for regulatory frameworks. |
+| [Compliance Tracking Assistant](../operations/security-and-compliance/compliance-tracking-assistant.md) | Tracks regulatory changes, audits, training, and reports to keep operations compliant. |
+| [Consulting Compliance Research Copilot](../management/security-and-compliance/consulting-compliance-research-copilot.md) | Streamlines industry-specific regulatory compliance research, analysis, and reporting for management consultants. |
+| [Contract Termination Guidance](security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
+| [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
+| [Data Privacy Compliance](security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
+| [Docs Generator](../it-and-development/security-and-compliance/docs-generator.md) | Generate structured security reports from completed analysis with evidence-backed templates. |
+| [Environmental Compliance Assistant](security-and-compliance/environmental-compliance-assistant.md) | Supports environmental compliance officers with research, documentation, audits, and reporting. |
+| [Ethical Compliance Assessment Assistant](security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
+| [Ethical Compliance Monitor](security-and-compliance/ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
+| [Event Staffing Compliance](../human-resources/security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
+| [Fda Consultant Specialist](../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
+| [Fda Medtech Compliance Auditor](security-and-compliance/fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |
+| [Gdpr Data Handling](../it-and-development/security-and-compliance/gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
+| [Gdpr Dsgvo Expert](security-and-compliance/gdpr-dsgvo-expert.md) | Advises on GDPR/DSGVO compliance, conducts privacy impact assessments, and audits data protection practices. |
+| [Incident Reporting Navigator](../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
+| [Incident Response Planning Assistant](security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Insurance Compliance Assistant](../management/security-and-compliance/insurance-compliance-assistant.md) | Keeps insurance claims compliant with regulations through monitoring, review, training, and audits. |
+| [Insurance Compliance Manager](../management/security-and-compliance/insurance-compliance-manager.md) | Tracks regulatory changes, reviews policies, trains staff, and prepares compliance reports and audits for your insurance agency. |
+| [International Procurement Compliance Guide](../operations/security-and-compliance/international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
+| [Legal Compliance Review Assistant](security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
+| [Logistics Compliance Advisor](../operations/security-and-compliance/logistics-compliance-advisor.md) | Logistics compliance research, documentation, and audit support in one chat. |
+| [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
+| [Policy Development Support](security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
+| [Privacy By Design](../it-and-development/security-and-compliance/privacy-by-design.md) | Build apps with built-in privacy protections from the start. |
+| [Procurement Compliance Assistant](../operations/security-and-compliance/procurement-compliance-assistant.md) | Keeps procurement compliant by tracking regulations, audits, reports, and vendor oversight. |
+| [Product Compliance Verification Assistant](../operations/security-and-compliance/product-compliance-verification-assistant.md) | Verifies product compliance across specs, materials, labeling, safety, environment, and regulations with documentation and audit support. |
+| [Production Compliance Auditor](../operations/security-and-compliance/production-compliance-auditor.md) | Streamlines compliance monitoring, audits, training, and reporting for production coordinators. |
+| [Protected Disclosure Compass](security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
+| [Purchasing Compliance Assistant](../management/security-and-compliance/purchasing-compliance-assistant.md) | Regulatory compliance support for purchasing managers: research, monitor, audit, and report. |
+| [QC Compliance Report Builder](../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
+| [Regulatory Compliance Assistant](../customer-support/security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
+| [Regulatory Compliance Monitor](../operations/security-and-compliance/regulatory-compliance-monitor.md) | Tracks regulatory changes, audits compliance, and reports status for global operations. |
+| [Risk Assessment and Analysis Assistant](security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
+| [Se Responsible Ai Code](../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
+| [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
+| [Security Compliance Compliance Check](../it-and-development/security-and-compliance/security-compliance-compliance-check.md) | Audits software systems against GDPR, HIPAA, SOC2, PCI-DSS and guides remediation. |
+| [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
+| [Shipping Rule Compliance Drafts](../operations/security-and-compliance/shipping-rule-compliance-drafts.md) | Ensures shipping compliance by researching rules, drafting documents, and monitoring risks. |
+| [Supply Chain Compliance Guide](../operations/security-and-compliance/supply-chain-compliance-guide.md) | Guides supply chain analysts through regulatory compliance, from rules to audits. |
+| [Supply Chain Compliance Navigator](../operations/security-and-compliance/supply-chain-compliance-navigator.md) | Navigates supply chain compliance questions and turns them into auditable processes. |
+| [Verify Document](../operations/security-and-compliance/verify-document.md) | Check PDFs and images for tampering signals before relying on them. |
+| [Whistleblower Policy Manager](security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 
 ## Research
 
@@ -80,55 +138,6 @@ Contracts, research, compliance and review. **147 ready-made Grok Bot templates*
 | [Trial Preparation Paralegal Assistant](research/trial-preparation-paralegal-assistant.md) | Trial prep assistant for paralegals: research, organize, draft, and strategize. |
 | [Uspto Database](research/uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |
 
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Ai Ethics Advisor](../it-and-development/security-and-compliance/ai-ethics-advisor.md) | Audits AI systems for bias, fairness, and regulatory compliance before deployment. |
-| [Akf Trust Metadata](../it-and-development/security-and-compliance/akf-trust-metadata.md) | Stamp, inspect, and audit AI file provenance and trust metadata for compliance. |
-| [AML Compliance Assistant](security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
-| [Check Identity Pack](../operations/security-and-compliance/check-identity-pack.md) | Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing. |
-| [Compliance Audit Preparation Assistant](security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
-| [Compliance Auditor](../it-and-development/security-and-compliance/compliance-auditor.md) | Audits compliance across GDPR, HIPAA, SOC 2, PCI DSS, and ISO frameworks. |
-| [Compliance Monitoring Assistant](security-and-compliance/compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
-| [Compliance Query Resolution Assistant](security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
-| [Compliance Specialist](security-and-compliance/compliance-specialist.md) | Assesses compliance gaps and prepares audit evidence for regulatory frameworks. |
-| [Consulting Compliance Research Copilot](../management/security-and-compliance/consulting-compliance-research-copilot.md) | Streamlines industry-specific regulatory compliance research, analysis, and reporting for management consultants. |
-| [Contract Termination Guidance](security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
-| [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
-| [Data Privacy Compliance](security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
-| [Docs Generator](../it-and-development/security-and-compliance/docs-generator.md) | Generate structured security reports from completed analysis with evidence-backed templates. |
-| [Environmental Compliance Assistant](security-and-compliance/environmental-compliance-assistant.md) | Supports environmental compliance officers with research, documentation, audits, and reporting. |
-| [Ethical Compliance Assessment Assistant](security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
-| [Ethical Compliance Monitor](security-and-compliance/ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
-| [Event Staffing Compliance](../human-resources/security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
-| [Fda Consultant Specialist](../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
-| [Fda Medtech Compliance Auditor](security-and-compliance/fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |
-| [Gdpr Data Handling](../it-and-development/security-and-compliance/gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
-| [Gdpr Dsgvo Expert](security-and-compliance/gdpr-dsgvo-expert.md) | Advises on GDPR/DSGVO compliance, conducts privacy impact assessments, and audits data protection practices. |
-| [Incident Reporting Navigator](../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
-| [Incident Response Planning Assistant](security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
-| [Insurance Compliance Assistant](../management/security-and-compliance/insurance-compliance-assistant.md) | Keeps insurance claims compliant with regulations through monitoring, review, training, and audits. |
-| [Insurance Compliance Manager](../management/security-and-compliance/insurance-compliance-manager.md) | Tracks regulatory changes, reviews policies, trains staff, and prepares compliance reports and audits for your insurance agency. |
-| [International Procurement Compliance Guide](../operations/security-and-compliance/international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
-| [Legal Compliance Review Assistant](security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
-| [Policy Development Support](security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
-| [Privacy By Design](../it-and-development/security-and-compliance/privacy-by-design.md) | Build apps with built-in privacy protections from the start. |
-| [Procurement Compliance Assistant](../operations/security-and-compliance/procurement-compliance-assistant.md) | Keeps procurement compliant by tracking regulations, audits, reports, and vendor oversight. |
-| [Production Compliance Auditor](../operations/security-and-compliance/production-compliance-auditor.md) | Streamlines compliance monitoring, audits, training, and reporting for production coordinators. |
-| [Protected Disclosure Compass](security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
-| [Purchasing Compliance Assistant](../management/security-and-compliance/purchasing-compliance-assistant.md) | Regulatory compliance support for purchasing managers: research, monitor, audit, and report. |
-| [Regulatory Compliance Assistant](../customer-support/security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
-| [Risk Assessment and Analysis Assistant](security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
-| [Se Responsible Ai Code](../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
-| [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
-| [Security Compliance Compliance Check](../it-and-development/security-and-compliance/security-compliance-compliance-check.md) | Audits software systems against GDPR, HIPAA, SOC2, PCI-DSS and guides remediation. |
-| [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
-| [Shipping Rule Compliance Drafts](../operations/security-and-compliance/shipping-rule-compliance-drafts.md) | Ensures shipping compliance by researching rules, drafting documents, and monitoring risks. |
-| [Supply Chain Compliance Guide](../operations/security-and-compliance/supply-chain-compliance-guide.md) | Guides supply chain analysts through regulatory compliance, from rules to audits. |
-| [Verify Document](../operations/security-and-compliance/verify-document.md) | Check PDFs and images for tampering signals before relying on them. |
-| [Whistleblower Policy Manager](security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
-
 ## Data Analysis
 
 | Template | What it does |
@@ -143,6 +152,7 @@ Contracts, research, compliance and review. **147 ready-made Grok Bot templates*
 | [Deal Room Risk Analyst](../finance/data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
 | [E-Discovery Project Coordinator](data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Extract Document Data](../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
+| [Insurance Policy Analysis Assistant](../operations/data-analysis/insurance-policy-analysis-assistant.md) | Analyzes insurance policies for coverage, compliance, risk, and performance to support informed decisions. |
 | [Legal Analytics Assistant](data-analysis/legal-analytics-assistant.md) | Turns legal documents and case data into clear insights, drafts, and risk assessments for lawyers. |
 | [Legal Billing Systems Assistant](data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
 | [Legal Risk Assessment Assistant](data-analysis/legal-risk-assessment-assistant.md) | Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers. |
@@ -201,6 +211,13 @@ Contracts, research, compliance and review. **147 ready-made Grok Bot templates*
 | [Legal Education and Training Assistant](teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
 | [Legal Training Material Creator](teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
 
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Contract Negotiation Assistant](../operations/sales-and-negotiation/contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
+| [Contract Negotiation Strategist](../operations/sales-and-negotiation/contract-negotiation-strategist.md) | Prepares and guides procurement contract negotiations from research to final agreement. |
+
 ## Coding
 
 | Template | What it does |
@@ -236,12 +253,6 @@ Contracts, research, compliance and review. **147 ready-made Grok Bot templates*
 | Template | What it does |
 |---|---|
 | [Legal Billing and Timekeeping Assistant](productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Contract Negotiation Strategist](../operations/sales-and-negotiation/contract-negotiation-strategist.md) | Prepares and guides procurement contract negotiations from research to final agreement. |
 
 ## Speech-To-Text
 

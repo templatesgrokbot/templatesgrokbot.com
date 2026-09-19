@@ -1,6 +1,6 @@
 # Grok Bot templates for Healthcare
 
-Clinicians, care teams and health administrators. **51 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Clinicians, care teams and health administrators. **58 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,11 @@ Clinicians, care teams and health administrators. **51 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 22 |
+| [Data Analysis](data-analysis/README.md) | 23 |
 | [Research](research/README.md) | 12 |
+| [Security & Compliance](security-and-compliance/README.md) | 7 |
+| [Productivity](productivity/README.md) | 6 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
-| [Security & Compliance](security-and-compliance/README.md) | 4 |
-| [Productivity](productivity/README.md) | 3 |
 | [Writing & Content](writing-and-content/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
@@ -25,6 +25,7 @@ Clinicians, care teams and health administrators. **51 ready-made Grok Bot templ
 | Template | What it does |
 |---|---|
 | [Ai Analyzer](data-analysis/ai-analyzer.md) | AI-driven health analysis with risk prediction and personalized recommendations. |
+| [Continuous Improvement Planner](../operations/data-analysis/continuous-improvement-planner.md) | Turns quality control data into improvement plans and tracks their impact. |
 | [Family Health Analyzer](data-analysis/family-health-analyzer.md) | Analyze family health history for genetic risk and prevention advice. |
 | [Fitness Analyzer](data-analysis/fitness-analyzer.md) | Analyze fitness data, track progress, and generate personalized training recommendations. |
 | [Food Database Query](../science-and-research/data-analysis/food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |
@@ -64,6 +65,29 @@ Clinicians, care teams and health administrators. **51 ready-made Grok Bot templ
 | [Travel Health Analyzer](research/travel-health-analyzer.md) | Analyze travel health risks, recommend vaccines, and generate multilingual emergency cards using WHO/CDC data. All advice requires doctor review. No d |
 | [Uniprot Database](../science-and-research/research/uniprot-database.md) | Retrieve protein sequences, annotations, and ID mappings from UniProt via REST API. |
 
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Compliance and Regulatory Updates Assistant](../operations/security-and-compliance/compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
+| [Compliance Audit Preparation Assistant](../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
+| [Compliance Tracking Assistant](../operations/security-and-compliance/compliance-tracking-assistant.md) | Tracks regulatory changes, audits, training, and reports to keep operations compliant. |
+| [Fda Food Safety Auditor](../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
+| [Information Security Manager Iso27001](security-and-compliance/information-security-manager-iso27001.md) | Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies. |
+| [QC Compliance Report Builder](../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
+| [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Calibration and Maintenance Scheduler](../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
+| [Call Handling Assistant](../customer-support/productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
+| [Crisis Management Planner](../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
+| [Emergency Card Generator](productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
+| [Employee Scheduling Optimizer](../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
+| [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
+
 ## Self-Improvement
 
 | Template | What it does |
@@ -74,23 +98,6 @@ Clinicians, care teams and health administrators. **51 ready-made Grok Bot templ
 | [Sleep Analyzer](self-improvement/sleep-analyzer.md) | Analyze sleep data and provide personalized improvement suggestions |
 | [Sleep Coach](self-improvement/sleep-coach.md) | Correlates what you did each day with how you slept and names the one habit to change. |
 | [Weightloss Analyzer](self-improvement/weightloss-analyzer.md) | Analyze weight data, calculate metabolism, and track energy deficit for safe weight loss. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Compliance Audit Preparation Assistant](../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
-| [Fda Food Safety Auditor](../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
-| [Information Security Manager Iso27001](security-and-compliance/information-security-manager-iso27001.md) | Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies. |
-| [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Call Handling Assistant](../customer-support/productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
-| [Crisis Management Planner](../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
-| [Emergency Card Generator](productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
 
 ## Writing & Content
 

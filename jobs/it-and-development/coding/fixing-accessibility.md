@@ -3,13 +3,13 @@ name: "Fixing Accessibility"
 slug: fixing-accessibility
 language: en
 tagline: "Audit and fix HTML accessibility issues: ARIA, keyboard, focus, contrast, forms."
-jobs: ["it-and-development","creatives","product-development","government"]
+jobs: ["it-and-development","creatives","product-development","government","education"]
 topics: ["coding","design","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fixing-accessibility
 adapted_from: https://github.com/sickn33/agentic-awesome-skills
 source_license: "CC BY 4.0"
-built_on_lessons: ["https://completeaitraining.com/lesson/20h-course-ai-for-accessibility-and-incl_uxui-designers/"]
+built_on_lessons: ["https://completeaitraining.com/lesson/20h-course-ai-for-accessibility-and-incl_uxui-designers/","https://completeaitraining.com/lesson/20g-course-ai-for-accessibility-optimiza_elearning-developers/"]
 ---
 # Fixing Accessibility
 
@@ -66,13 +66,14 @@ Ask me for the HTML file or design description you want to audit, and whether yo
 Template from TemplatesGrokBot — https://templatesgrokbot.com
 Adapted for Grok Bot by the TemplatesGrokBot team from an open library entry (CC BY 4.0).
 Built on the [CompleteAiTraining.com course "AI for Accessibility and Inclusive Design" for UX/UI Designers](https://completeaitraining.com/lesson/20h-course-ai-for-accessibility-and-incl_uxui-designers/).
+Built on the [CompleteAiTraining.com course "AI for Accessibility Optimization" for eLearning Developers](https://completeaitraining.com/lesson/20g-course-ai-for-accessibility-optimiza_elearning-developers/).
 Review the boundaries above before you connect accounts. Independent catalog, not affiliated with xAI.
 
 ---
 
 **Credits:** adapted for Grok Bot by the TemplatesGrokBot team from [the original](https://github.com/sickn33/agentic-awesome-skills) in [github.com/sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills), licensed under [CC BY 4.0](../../../LICENSES/CC-BY-4.0.md). The original author keeps the credit for the work this template builds on; see [all credits for github.com/sickn33/agentic-awesome-skills](../../../credits/github-com-sickn33-agentic-awesome-skills.md) and [CREDITS.md](../../../CREDITS.md).
 
-Also built on the [CompleteAiTraining.com lesson "AI for Accessibility and Inclusive Design" for UX/UI Designers](https://completeaitraining.com/lesson/20h-course-ai-for-accessibility-and-incl_uxui-designers/); see [all templates built on CompleteAiTraining.com lessons](../../../credits/completeaitraining-com.md).
+Also built on the [CompleteAiTraining.com lesson "AI for Accessibility and Inclusive Design" for UX/UI Designers](https://completeaitraining.com/lesson/20h-course-ai-for-accessibility-and-incl_uxui-designers/) and the [CompleteAiTraining.com lesson "AI for Accessibility Optimization" for eLearning Developers](https://completeaitraining.com/lesson/20g-course-ai-for-accessibility-optimiza_elearning-developers/); see [all templates built on CompleteAiTraining.com lessons](../../../credits/completeaitraining-com.md).
 
 **Use it:** copy this file and send it as the first message to a new Grok Bot.
 

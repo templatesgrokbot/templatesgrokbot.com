@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 41 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 42 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -38,6 +38,7 @@ Find sources, compare evidence and summarise what is known. 41 Grok Bot template
 | [Market Trend Analyst](../../management/research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
 | [Moatmri](moatmri.md) | Analyze AI disruption pressure across a business and produce a 90-day defensive action plan. |
 | [Niche Intelligence Dossier](../../science-and-research/research/niche-intelligence-dossier.md) | Generates domain intelligence dossiers for specific niches, including regulations, UX, and industry stack. |
+| [Operations Risk Intel Scout](../../operations/research/operations-risk-intel-scout.md) | Competitive intelligence for Global Heads of Operations, from market scans to risk mitigation. |
 | [Product Strategist](../../product-development/research/product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |
 | [Reading Pile](../../science-and-research/research/reading-pile.md) | Works through your saved-articles backlog and tells you which three are worth your time. |
 | [Salary Negotiation Prep](../../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |

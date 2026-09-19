@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **535 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **593 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,24 +11,24 @@ Team leads and project managers. **535 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 136 |
-| [Productivity](productivity/README.md) | 120 |
-| [Research](research/README.md) | 61 |
+| [Data Analysis](data-analysis/README.md) | 168 |
+| [Productivity](productivity/README.md) | 135 |
+| [Research](research/README.md) | 62 |
 | [Coding](coding/README.md) | 44 |
+| [Security & Compliance](security-and-compliance/README.md) | 31 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 29 |
-| [Security & Compliance](security-and-compliance/README.md) | 26 |
 | [Knowledge Management](knowledge-management/README.md) | 22 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 15 |
-| [Writing & Content](writing-and-content/README.md) | 15 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 16 |
+| [Writing & Content](writing-and-content/README.md) | 16 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
 | [Design](design/README.md) | 8 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 8 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 7 |
+| [Support & Community](support-and-community/README.md) | 7 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 5 |
 | [Generative Code](generative-code/README.md) | 5 |
 | [Prompt Engineering](prompt-engineering/README.md) | 5 |
-| [Support & Community](support-and-community/README.md) | 5 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
 
 ## Data Analysis
@@ -40,11 +40,11 @@ Team leads and project managers. **535 ready-made Grok Bot templates** for this 
 | [Inventory Demand Planning](../operations/data-analysis/inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Forecast Accuracy Review](../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
+| [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Warehouse Layout Optimizer](../operations/data-analysis/warehouse-layout-optimizer.md) | Optimizes warehouse layouts for space, flow, and efficiency. |
-| [Supplier Market Trend Tracker](data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
 
-[All 136 Data Analysis templates →](data-analysis/README.md)
+[All 168 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **535 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 120 Productivity templates →](productivity/README.md)
+[All 135 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -74,7 +74,7 @@ Team leads and project managers. **535 ready-made Grok Bot templates** for this 
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Supplier Diversification Planner](research/supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
 
-[All 61 Research templates →](research/README.md)
+[All 62 Research templates →](research/README.md)
 
 ## Coding
 
@@ -91,6 +91,21 @@ Team leads and project managers. **535 ready-made Grok Bot templates** for this 
 
 [All 44 Coding templates →](coding/README.md)
 
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
+| [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
+| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
+| [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
+| [Varlock Claude](../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
+| [Google Cloud Waf Security](../it-and-development/security-and-compliance/google-cloud-waf-security.md) | Evaluates Google Cloud workloads against the Well-Architected Framework security pillar and gives actionable recommendations. |
+| [Quality Nonconformance](../operations/security-and-compliance/quality-nonconformance.md) | Manage non-conformance lifecycle, root cause analysis, and CAPA in regulated manufacturing. |
+
+[All 31 Security & Compliance templates →](security-and-compliance/README.md)
+
 ## Marketing & Growth
 
 | Template | What it does |
@@ -105,21 +120,6 @@ Team leads and project managers. **535 ready-made Grok Bot templates** for this 
 | [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
 
 [All 29 Marketing & Growth templates →](marketing-and-growth/README.md)
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
-| [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
-| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
-| [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
-| [Varlock Claude](../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
-| [Google Cloud Waf Security](../it-and-development/security-and-compliance/google-cloud-waf-security.md) | Evaluates Google Cloud workloads against the Well-Architected Framework security pillar and gives actionable recommendations. |
-| [Quality Nonconformance](../operations/security-and-compliance/quality-nonconformance.md) | Manage non-conformance lifecycle, root cause analysis, and CAPA in regulated manufacturing. |
-| [Product Quality Assurance Assistant](security-and-compliance/product-quality-assurance-assistant.md) | Guides quality assurance for purchasing managers: supplier checks, testing, audits, and improvements. |
-
-[All 26 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Knowledge Management
 
@@ -149,7 +149,7 @@ Team leads and project managers. **535 ready-made Grok Bot templates** for this 
 | [Itil Expert](../it-and-development/cloud-and-devops/itil-expert.md) | Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management. |
 | [Error Diagnostics Error Trace](../it-and-development/cloud-and-devops/error-diagnostics-error-trace.md) | Implement error tracking, structured logging, and intelligent alerting for production systems. |
 
-[All 15 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 16 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Writing & Content
 
@@ -164,7 +164,7 @@ Team leads and project managers. **535 ready-made Grok Bot templates** for this 
 | [RFP Compliance Drafter](../sales/writing-and-content/rfp-compliance-drafter.md) | Turns an RFP and your past proposals into a compliance matrix and a drafted response, flagging gaps before you write. |
 | [Executive Resume Writer](../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 
-[All 15 Writing & Content templates →](writing-and-content/README.md)
+[All 16 Writing & Content templates →](writing-and-content/README.md)
 
 ## Self-Improvement
 
@@ -209,6 +209,19 @@ Team leads and project managers. **535 ready-made Grok Bot templates** for this 
 | [Visual Branding Consultant](design/visual-branding-consultant.md) | Guides and evaluates visual branding for a business unit, from audit to implementation. |
 | [Visual Merchandising Planner](design/visual-merchandising-planner.md) | Assists retail managers with visual merchandising planning, design, and standards. |
 
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Brand Collaboration Opportunity Finder](sales-and-negotiation/brand-collaboration-opportunity-finder.md) | Finds, evaluates, and manages brand collaboration opportunities for brand managers. |
+| [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
+| [Vendor Negotiation Assistant](../operations/sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
+| [Deal Review Coach](../sales/sales-and-negotiation/deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
+| [Supplier Relationship Manager](sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
+| [Supplier Diversity Program Assistant](sales-and-negotiation/supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
+| [Sales Forecast Builder](../sales/sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
+| [Supplier Negotiation Strategist](sales-and-negotiation/supplier-negotiation-strategist.md) | Prepares and guides purchasing managers through supplier negotiations from objectives to post-negotiation review. |
+
 ## Teaching & Tutoring
 
 | Template | What it does |
@@ -222,17 +235,17 @@ Team leads and project managers. **535 ready-made Grok Bot templates** for this 
 | [Customer Service Training Builder](teaching-and-tutoring/customer-service-training-builder.md) | Builds and maintains customer service training modules from planning to feedback. |
 | [Interview Prep](../education/teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
 
-## Sales & Negotiation
+## Support & Community
 
 | Template | What it does |
 |---|---|
-| [Brand Collaboration Opportunity Finder](sales-and-negotiation/brand-collaboration-opportunity-finder.md) | Finds, evaluates, and manages brand collaboration opportunities for brand managers. |
-| [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
-| [Deal Review Coach](../sales/sales-and-negotiation/deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
-| [Supplier Relationship Manager](sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
-| [Supplier Diversity Program Assistant](sales-and-negotiation/supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
-| [Sales Forecast Builder](../sales/sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
-| [Supplier Negotiation Strategist](sales-and-negotiation/supplier-negotiation-strategist.md) | Prepares and guides purchasing managers through supplier negotiations from objectives to post-negotiation review. |
+| [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
+| [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
+| [Logistics Customer Service Improver](../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
+| [Logistics Customer Service Optimizer](../operations/support-and-community/logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
+| [Feedback Loop Manager](support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
+| [Support Crisis Prep Kit](../customer-support/support-and-community/support-crisis-prep-kit.md) | Plans and prepares crisis management materials for user support teams. |
+| [Insurance Customer Service Optimizer](../operations/support-and-community/insurance-customer-service-optimizer.md) | Analyzes feedback, trains support tools, and streamlines insurance customer service operations. |
 
 ## Generative AI and LLM
 
@@ -263,16 +276,6 @@ Team leads and project managers. **535 ready-made Grok Bot templates** for this 
 | [Rich Elicitation](../operations/prompt-engineering/rich-elicitation.md) | Asks targeted clarifying questions when a task has 2+ ambiguous dimensions with 3+ viable answers each. |
 | [Andrej Karpathy](../it-and-development/prompt-engineering/andrej-karpathy.md) | Behavioral guardrails to reduce LLM coding mistakes. |
 | [Recursive Context Pruning Token Budgeting](../it-and-development/prompt-engineering/recursive-context-pruning-token-budgeting.md) | Prunes redundant context and enforces ultra-concise, direct-to-value responses. |
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
-| [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
-| [Logistics Customer Service Improver](../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
-| [Feedback Loop Manager](support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
-| [Support Crisis Prep Kit](../customer-support/support-and-community/support-crisis-prep-kit.md) | Plans and prepares crisis management materials for user support teams. |
 
 ## Speech-To-Text
 

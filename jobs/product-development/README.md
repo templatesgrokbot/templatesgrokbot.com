@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **929 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **930 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,7 +18,7 @@ Product managers and the teams that ship. **929 ready-made Grok Bot templates** 
 | [Productivity](productivity/README.md) | 52 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
 | [Research](research/README.md) | 48 |
-| [Data Analysis](data-analysis/README.md) | 34 |
+| [Data Analysis](data-analysis/README.md) | 35 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 33 |
 | [Prompt Engineering](prompt-engineering/README.md) | 22 |
 | [Security & Compliance](security-and-compliance/README.md) | 19 |
@@ -150,7 +150,7 @@ Product managers and the teams that ship. **929 ready-made Grok Bot templates** 
 | [Experiment Readout](data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Customer Journey Mapping Assistant](../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
 
-[All 34 Data Analysis templates →](data-analysis/README.md)
+[All 35 Data Analysis templates →](data-analysis/README.md)
 
 ## Marketing & Growth
 

@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **126 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **130 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Accounting, budgeting, analysis and risk. **126 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 79 |
+| [Data Analysis](data-analysis/README.md) | 83 |
 | [Research](research/README.md) | 10 |
 | [Coding](coding/README.md) | 9 |
 | [Productivity](productivity/README.md) | 7 |
@@ -41,10 +41,12 @@ Accounting, budgeting, analysis and risk. **126 ready-made Grok Bot templates** 
 | [Bettoredge Value Finder](data-analysis/bettoredge-value-finder.md) | Finds +EV betting opportunities on BettorEdge prediction markets using Kelly criterion and bankroll limits. |
 | [Board Deck Generator](../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates professional board meeting presentation content with executive summary, financials, and strategic updates. |
 | [Bounty Hunter](data-analysis/bounty-hunter.md) | Identifies unclaimed, owed, or wasted money and recommends how to recover it. |
+| [Budget Forecast Assistant](../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Cash Flow Forecaster](data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your bank, AR, AP, and payroll data, flagging crunch weeks. |
 | [Compliance Cost Analyst](../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Contract Report Builder](../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Cost Reduction Analyst](../management/data-analysis/cost-reduction-analyst.md) | Finds and validates cost reduction opportunities for service managers. |
+| [Cost-Benefit Analysis Assistant](../operations/data-analysis/cost-benefit-analysis-assistant.md) | Runs complete cost-benefit analyses for process improvement projects, from data gathering to stakeholder-ready reports. |
 | [Customer Lifetime Value Analyst](../management/data-analysis/customer-lifetime-value-analyst.md) | Turns your customer data into CLV insights and action plans for growth. |
 | [Data Analysis Assistant](../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
 | [Data Analyst](../science-and-research/data-analysis/data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
@@ -77,6 +79,7 @@ Accounting, budgeting, analysis and risk. **126 ready-made Grok Bot templates** 
 | [Monte Carlo Storage Cost Analysis](../operations/data-analysis/monte-carlo-storage-cost-analysis.md) | Analyze a data warehouse for stale, unused, or redundant tables to reduce storage costs. |
 | [Offer Comparison Analyzer](../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
 | [Open Banking Io](data-analysis/open-banking-io.md) | Read balances and transactions from EU/UK bank accounts via the open-banking.io PSD2 API. |
+| [Operations Financial Forecaster](../operations/data-analysis/operations-financial-forecaster.md) | Builds, checks, and reports financial forecasts for operations decisions. |
 | [Options Flow Analyzer](data-analysis/options-flow-analyzer.md) | Separates real options flow from lottery noise to prevent P/C ratio inversion. |
 | [Patent Valuation Analyst](../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Performance Report](../executives-and-strategy/data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
@@ -88,6 +91,7 @@ Accounting, budgeting, analysis and risk. **126 ready-made Grok Bot templates** 
 | [Purchasing Budget and Cost Analyst](../management/data-analysis/purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
 | [Quant Analyst](data-analysis/quant-analyst.md) | Builds and backtests quantitative trading strategies with transaction costs and risk analytics for portfolios and derivatives. |
 | [Quarterly Finance Report](data-analysis/quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |
+| [Risk Assessment Analyst](../operations/data-analysis/risk-assessment-analyst.md) | Turns your risk data into assessed, prioritized, and actionable risk intelligence for process improvement. |
 | [Risk Assessment and Mitigation Consultant](../management/data-analysis/risk-assessment-and-mitigation-consultant.md) | Identifies, analyzes, and mitigates risks across your organization with structured assessments and plans. |
 | [Risk Assessment Workflow Assistant](../legal/data-analysis/risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |
 | [Risk Manager](data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |

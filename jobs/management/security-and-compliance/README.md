@@ -1,6 +1,6 @@
 # Security & Compliance templates for Management
 
-Authorised security testing, audits and regulatory work. 26 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 31 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,7 +20,11 @@ Authorised security testing, audits and regulatory work. 26 Grok Bot templates, 
 | [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Insurance Compliance Assistant](insurance-compliance-assistant.md) | Keeps insurance claims compliant with regulations through monitoring, review, training, and audits. |
 | [Insurance Compliance Manager](insurance-compliance-manager.md) | Tracks regulatory changes, reviews policies, trains staff, and prepares compliance reports and audits for your insurance agency. |
+| [Logistics Compliance Assistant](../../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
 | [Logistics Safety Planner](../../operations/security-and-compliance/logistics-safety-planner.md) | Turns logistics safety tasks into guidelines, training, risk assessments, and compliance checks. |
+| [Operations Risk Assessment Planner](../../operations/security-and-compliance/operations-risk-assessment-planner.md) | Identifies, analyzes, prioritizes, and plans mitigation for operational risks, from supply chain to compliance, with prepared monitoring and… |
+| [Operations Risk Report Builder](../../operations/security-and-compliance/operations-risk-report-builder.md) | Analyzes insurance risks, monitors compliance, and drafts reports for operations managers. |
+| [PolicyOps Compliance Aligner](../../operations/security-and-compliance/policyops-compliance-aligner.md) | Helps insurance operations managers keep policies, staff, and reports aligned with regulations. |
 | [Product Quality Assurance Assistant](product-quality-assurance-assistant.md) | Guides quality assurance for purchasing managers: supplier checks, testing, audits, and improvements. |
 | [Production Risk Assessment Assistant](../../operations/security-and-compliance/production-risk-assessment-assistant.md) | Identifies, assesses, and mitigates production risks with data-backed reports and safety protocols. |
 | [Purchasing Compliance Assistant](purchasing-compliance-assistant.md) | Regulatory compliance support for purchasing managers: research, monitor, audit, and report. |
@@ -31,6 +35,7 @@ Authorised security testing, audits and regulatory work. 26 Grok Bot templates, 
 | [Risk Management Analysis Assistant](risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
 | [Security Compliance](../../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
 | [Service Compliance Risk Auditor](service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
+| [Transportation Safety Compliance Assistant](../../operations/security-and-compliance/transportation-safety-compliance-assistant.md) | Keeps your fleet compliant and your drivers safe with up-to-date regulations, audits, training, and incident analysis. |
 | [Varlock Claude](../../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
 
 [← All Management templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/management)

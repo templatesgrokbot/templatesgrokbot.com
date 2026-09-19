@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 126 Grok Bot templates, 75 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 159 Grok Bot templates, 108 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,8 +15,11 @@ Plan, prioritise and clear the recurring admin. 126 Grok Bot templates, 75 of th
 | [Billing Automation](billing-automation.md) | Implement automated billing, invoicing, and payment recovery for SaaS subscriptions. |
 | [Cal Com Automation](cal-com-automation.md) | Automate Cal.com scheduling: bookings, availability, webhooks, and teams via Composio. |
 | [Calendly Automation](calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
+| [Calibration and Maintenance Scheduler](calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
+| [Change Management Strategist](change-management-strategist.md) | Plans and manages organizational change from stakeholder analysis to sustainability. |
 | [Chieeeeefy](chieeeeefy.md) | Manages calendar and email for a field engineer, converting timezones and protecting attention. (124 chars) No hype, no emoji. Rewritten: |
 | [Claims Processing Automation Assistant](../../management/productivity/claims-processing-automation-assistant.md) | Automates claims intake, assessment, fraud checks, updates, and reporting for insurance claims managers. |
+| [Claims Processing Automation Manager](claims-processing-automation-manager.md) | Automates insurance claims intake, assessment, routing, communication, and audit for operations managers. |
 | [Claims Processing Efficiency Assistant](../../management/productivity/claims-processing-efficiency-assistant.md) | Streamlines insurance claims processing from intake to payment with AI assistance. |
 | [Claude Win11 Speckit Update](../../it-and-development/productivity/claude-win11-speckit-update-skill.md) | Manage Windows 11 system settings and updates. |
 | [Clickup Automation](clickup-automation.md) | Automate ClickUp project management via Rube MCP — tasks, hierarchy, comments. |
@@ -24,7 +27,11 @@ Plan, prioritise and clear the recurring admin. 126 Grok Bot templates, 75 of th
 | [Conductor Manage](conductor-manage.md) | Manage Conductor track lifecycle: archive, restore, delete, rename, and cleanup. |
 | [Conductor Status](../../management/productivity/conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
 | [Credit Card Max](../../finance/productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
+| [Crisis Management Logistics Assistant](crisis-management-logistics-assistant.md) | Crisis management support for logistics engineers, from risk assessment to recovery planning. |
+| [Crisis Management Operations Assistant](crisis-management-operations-assistant.md) | Prepares, coordinates, and reviews crisis management for operations managers. |
 | [Crisis Management Planner](../../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
+| [Crisis Management Planning Assistant](crisis-management-planning-assistant.md) | Builds and maintains your crisis management plans, protocols, and training. |
+| [Crisis Ops Simulator](crisis-ops-simulator.md) | Plans, simulates, and evaluates crisis response for operations directors. |
 | [Cross-Border Logistics Planner](cross-border-logistics-planner.md) | Plans and optimizes cross-border logistics, from customs to warehousing. |
 | [Daily Meeting Update](../../it-and-development/productivity/daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Decision Navigator](../../management/productivity/decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
@@ -37,14 +44,23 @@ Plan, prioritise and clear the recurring admin. 126 Grok Bot templates, 75 of th
 | [Emergency Card Generator](../../healthcare/productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
 | [Emergency Preparedness Assistant](../../customer-support/productivity/emergency-preparedness-assistant.md) | Prepares emergency plans, contacts, supplies, and drills for your workplace. |
 | [Emergency Response Planning Assistant](emergency-response-planning-assistant.md) | Prepares logistics emergency response plans, contacts, drills, and continuity strategies. |
+| [Employee Scheduling Optimizer](employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
 | [Event Staffing Ordering](event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
+| [Facility Operations Planner](facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
+| [Facility Ops Chat Manager](facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
 | [Famulor](famulor-skill.md) | Operate Famulor assistants, calls, campaigns, messaging, and workspace settings through its MCP server. |
 | [File Organizer](file-organizer.md) | Analyzes, deduplicates, and restructures your files into a logical folder hierarchy. |
+| [Fleet Emergency Preparedness Assistant](fleet-emergency-preparedness-assistant.md) | Keeps your fleet ready for emergencies with plans, drills, and compliance tracking. |
+| [Fleet Expansion Planner](fleet-expansion-planner.md) | Guides fleet managers through every step of expanding their vehicle fleet. |
+| [Fleet Insurance Manager](fleet-insurance-manager.md) | Manages fleet insurance renewals, claims, coverage, costs, compliance, and safety from one chat. |
+| [Fleet Inventory Manager](fleet-inventory-manager.md) | Keeps fleet parts and supplies at the right level, on schedule, and under budget. |
+| [Fleet Maintenance Scheduler](fleet-maintenance-scheduler.md) | Plans and tracks fleet maintenance to cut downtime and keep vehicles compliant. |
 | [Flowhunt](flowhunt-skill.md) | Guides a 5-question intake then audits tools to rank automation quick wins. |
 | [Git Pr Workflows Onboard](../../human-resources/productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
 | [Gmail Automation](gmail-automation.md) | Search, read, send, and manage Gmail messages via CLI scripts with OAuth. |
 | [Google Calendar Automation](../../management/productivity/google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
 | [Google Drive Automation](google-drive-automation.md) | Full read/write access to Google Drive with standalone OAuth. |
+| [Green Ops Tracker](green-ops-tracker.md) | Sustainability operations assistant for planning, tracking, and reporting green initiatives. No hype, just practical steps. |
 | [Home Ops](home-ops.md) | Keeps a maintenance schedule for your house so nothing expensive fails unannounced. |
 | [Hotel Crisis Management Planner](../../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
 | [Hotel Event Planning Assistant](../../hospitality-and-events/productivity/hotel-event-planning-assistant.md) | Plans and manages hotel events from venue selection to post-event feedback. |
@@ -60,6 +76,7 @@ Plan, prioritise and clear the recurring admin. 126 Grok Bot templates, 75 of th
 | [Jira Automation](jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
 | [Jobgpt](../../human-resources/productivity/jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |
 | [Legal Billing and Timekeeping Assistant](../../legal/productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
+| [Logistics Crisis Planner](logistics-crisis-planner.md) | Turns logistics crisis data into risk reports, plans, and drills. |
 | [Logistics Operations Coordinator](logistics-operations-coordinator.md) | Handles logistics coordination tasks from shipment tracking to fleet management. |
 | [Mac Storage Cleaner](../../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 | [Maintenance Planning Coordinator](maintenance-planning-coordinator.md) | Plans equipment upkeep, tracks maintenance, and coordinates vendors for production reliability. |
@@ -81,6 +98,9 @@ Plan, prioritise and clear the recurring admin. 126 Grok Bot templates, 75 of th
 | [Odoo Manufacturing Advisor](odoo-manufacturing-advisor.md) | Configure Odoo Manufacturing: BoMs, work centers, routings, MRP runs, and production order workflows. |
 | [Odoo Project Timesheet](odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
 | [Onboarding Checklist Generator](../../management/productivity/onboarding-checklist-generator.md) | Generates customized client onboarding checklists with phases, owners, dependencies, and email templates. |
+| [Operations Crisis Blueprint](operations-crisis-blueprint.md) | Crisis management planning assistant for global operations heads, from risk assessment to post-crisis evaluation. |
+| [Operations Risk Assessment Guide](operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
+| [Ops Tech Integration Planner](ops-tech-integration-planner.md) | Plans and manages technology integration projects for operations managers. |
 | [Outlook Automation](outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Outlook Calendar Automation](../../management/productivity/outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
 | [PDF Workflows](anthropic-pdf.md) | Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe. |
@@ -88,12 +108,18 @@ Plan, prioritise and clear the recurring admin. 126 Grok Bot templates, 75 of th
 | [Plan Writing](../../management/productivity/plan-writing.md) | Breaks down multi-step work into clear, verifiable tasks and saves the plan as a markdown file. |
 | [Planning](../../management/productivity/planning.md) | Creates and maintains markdown planning files to track complex multi-step tasks. No context loss, no goal drift. Always reads before deciding, updates |
 | [Postmark Automation](../../marketing/productivity/postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |
+| [Process Improvement Comms Architect](process-improvement-comms-architect.md) | Plans stakeholder communication for process improvement projects, from stakeholder mapping to risk assessment. |
+| [Process Mapping and Improvement Assistant](process-mapping-and-improvement-assistant.md) | Maps and improves your organization's processes from discovery to continuous improvement. |
 | [Product Lifecycle Inventory Assistant](product-lifecycle-inventory-assistant.md) | Manages product lifecycle data, inventory, suppliers, quality, pricing, compliance, and returns for inventory control specialists. |
+| [Product Lifecycle Manager](product-lifecycle-manager.md) | Manages product lifecycle data, forecasts, quality, compliance, suppliers, and launches for supply chain managers. |
 | [Production Communication Coordinator](production-communication-coordinator.md) | Coordinates all production communication: emails, meetings, calls, documents, crises, and stakeholder updates. |
+| [Production Deadline Planner](production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
 | [Production Resource Allocation Planner](production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
 | [Production Schedule Optimizer](production-schedule-optimizer.md) | Builds, monitors, and optimizes production schedules, resolving conflicts and keeping stakeholders informed. |
 | [Production Supplier Lifecycle Copilot](production-supplier-lifecycle-copilot.md) | Manages supplier relationships end-to-end: selection, contracts, performance, risk, and communication. |
 | [Production Technology Integration Planner](production-technology-integration-planner.md) | Plans and optimizes production technology integration from selection to monitoring. |
+| [Project Management Efficiency Assistant](project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
+| [Project Management Support Assistant](project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
 | [Project Manager](../../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
 | [Project Supervisor Orchestrator](project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
 | [Protocolsio Integration](../../science-and-research/productivity/protocolsio-integration.md) | Manage scientific protocols on protocols.io via API: search, create, update, publish, and organize. No hype, no emoji, no 'leverage'/'empower'/'seamle |
@@ -113,10 +139,15 @@ Plan, prioritise and clear the recurring admin. 126 Grok Bot templates, 75 of th
 | [Stripe Automation](../../finance/productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [Supplier Coordination Assistant](supplier-coordination-assistant.md) | Coordinates supplier research, qualification, performance, risk, and collaboration for production planners. |
 | [Supply Chain Crisis Manager](supply-chain-crisis-manager.md) | Turns crisis disruptions into clear risks, plans, and actions for supply chain analysts. |
+| [Supply Chain Sustainability Planner](supply-chain-sustainability-planner.md) | Helps supply chain managers embed sustainability across operations, from supplier audits to green logistics. |
+| [Supply Chain Technology Integration Planner](supply-chain-technology-integration-planner.md) | Plans and executes technology integration across your supply chain. |
+| [Sustainability Operations Planner](sustainability-operations-planner.md) | Plans and runs your organization's sustainability initiatives from audit to reporting. |
+| [Sustainability Strategy Planner](sustainability-strategy-planner.md) | Turns your operations data into a complete sustainability strategy, from trends to action plans. |
 | [Sustainable Logistics Planner](sustainable-logistics-planner.md) | Optimizes logistics for lower emissions, waste, and cost while keeping operations compliant. |
 | [Task Decomposition Expert](../../management/productivity/task-decomposition-expert.md) | Breaks complex goals into actionable work breakdowns with dependencies and effort estimates. |
 | [Task Distributor](task-distributor.md) | Distributes tasks across workers to maximize throughput while respecting priorities and deadlines. No hype, no emoji, no 'leverage'/'empower'/'seamles |
 | [Team Collaboration Standup Notes](../../management/productivity/team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |
+| [Technology Integration Planner](technology-integration-planner.md) | Plans and manages technology integration projects from research to monitoring. |
 | [Telegram Automation](telegram-automation.md) | Automate Telegram messaging, chat management, and bot commands via MCP tools. |
 | [Telegram Bot Messaging](telegram-bot-messaging.md) | Send Telegram messages, files, alerts, and approval prompts via bot API. |
 | [Template Router](skill-router.md) | Interviews users and recommends the best installed capability for their goal. |
@@ -126,6 +157,8 @@ Plan, prioritise and clear the recurring admin. 126 Grok Bot templates, 75 of th
 | [Vendor Watch](vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
 | [Visitor Management Assistant](../../customer-support/productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
 | [VopixSounds](../../it-and-development/productivity/vopixsounds.md) | Plays sounds when Claude needs you or finishes a task so you can work in another window. |
+| [Workflow Automation Advisor](workflow-automation-advisor.md) | Finds, evaluates, and rolls out workflow automation for operations managers. |
+| [Workflow Automation Planner](workflow-automation-planner.md) | Finds and implements workflow automation opportunities for operations managers. |
 | [Workflow Chain Designer](workflow-chain-designer.md) | Analyzes your conversation, checks available tools, and recommends step-by-step task chains. |
 | [Workflow Orchestrator](workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
 | [Workforce Planning Assistant](workforce-planning-assistant.md) | Optimizes workforce scheduling, allocation, and planning for production planners. |

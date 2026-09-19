@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 141 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 146 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Interfaces, brands, layouts and visual systems. 141 Grok Bot templates, 116 of t
 | [Anthropic Frontend Design](../../it-and-development/design/anthropic-frontend-design.md) | Designs and codes distinctive, production-ready UI layouts with a committed visual direction. |
 | [Anti Ui Slop](anti-ui-slop.md) | Build product-specific UI from your design system, not generic patterns. |
 | [Antigravity Design Expert](antigravity-design-expert.md) | Build spatial, glassmorphic, motion-heavy web interfaces with GSAP and 3D CSS. |
+| [AR Learning Experience Designer](../../education/design/ar-learning-experience-designer.md) | Designs and refines AR learning experiences from research to assessment. |
 | [Aurora Ui](aurora-ui.md) | Build ethereal aurora UI with glowing orbs, glassmorphism, and slow drift. |
 | [Banner Design](../../marketing/design/banner-design.md) | Design banners for social media, ads, website heroes, creative assets, and print. |
 | [Baseline Ui](baseline-ui.md) | Enforce an opinionated UI baseline to fix spacing, hierarchy, typography, and layout issues. |
@@ -67,6 +68,7 @@ Interfaces, brands, layouts and visual systems. 141 Grok Bot templates, 116 of t
 | [Frontend Design](frontend-design.md) | Distinctive frontend design that avoids AI defaults and follows the brief. |
 | [Game Art](game-art.md) | Guide game art style, asset pipeline, and animation workflow decisions. |
 | [Game Designer](game-designer.md) | Designs game mechanics, balancing, and player progression systems. |
+| [Gamified Learning Designer](../../education/design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
 | [Glassmorphism](../../it-and-development/design/glassmorphism.md) | Generate frosted glass UI with backdrop blur, transparency, and light borders. |
 | [Gradient Design](gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 | [Hig Components Content](hig-components-content.md) | Recommend Apple HIG content components with configuration and accessibility guidance. |
@@ -89,6 +91,7 @@ Interfaces, brands, layouts and visual systems. 141 Grok Bot templates, 116 of t
 | [imagegen-frontend-mobile](imagegen-frontend-mobile.md) | Generates realistic mobile app screen mockups for pitches and product previews. |
 | [Industrial Brutalist Ui](industrial-brutalist-ui.md) | Create raw industrial or tactical telemetry UIs with rigid grids and stark typography. |
 | [Interaction Design Assistant](interaction-design-assistant.md) | Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff. |
+| [Interactive Learning Tools Design Assistant](../../education/design/interactive-learning-tools-design-assistant.md) | Designs and builds interactive learning tools for eLearning developers. |
 | [Interactive Portfolio](interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
 | [Isometric Design](isometric-design.md) | Guides implementing isometric 3D views without vanishing points for web and apps. |
 | [Landing Page Designer](landing-page-designer.md) | Turns brand answers into a deployable landing page, refined in chat. |
@@ -98,6 +101,7 @@ Interfaces, brands, layouts and visual systems. 141 Grok Bot templates, 116 of t
 | [Maximalism](../../it-and-development/design/maximalism.md) | Implement dense, ornate, grid-based maximalist UI for web and mobile. |
 | [Minimalism](minimalism.md) | Generate minimal layouts with extreme whitespace, strict typography, and no decoration. |
 | [Minimalist Ui](minimalist-ui.md) | Build warm monochrome editorial UIs with crisp borders and restrained motion. |
+| [Mobile Learning App Designer](../../education/design/mobile-learning-app-designer.md) | Designs and refines mobile learning apps with AI-assisted content, features, and user experience guidance. |
 | [Monochromatic Ui](monochromatic-ui.md) | Generate a single-hue UI palette with tints, shades, and implementation code for web, SwiftUI, or Flutter. |
 | [Motion Language Designer](motion-language-designer.md) | Designs a product's motion language and exports tokens, Framer Motion variants, and CSS. |
 | [Neo Brutalism](neo-brutalism.md) | Implement neo-brutalist UI with thick borders, hard shadows, and bright colors. |
@@ -144,6 +148,7 @@ Interfaces, brands, layouts and visual systems. 141 Grok Bot templates, 116 of t
 | [Vibrant Maximalism](vibrant-maximalism.md) | Generate loud, clashing, dense web/app designs where every pixel carries pattern, color, and type. |
 | [Visual Content Ideation Assistant](../../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
 | [Visual Emotion Engineer](visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
+| [VR Learning Content Designer](../../education/design/vr-learning-content-designer.md) | Designs and develops VR learning content from storyboard to QA. |
 | [Web Design Guidelines](../../it-and-development/design/web-design-guidelines.md) | Audits UI code against the latest Web Interface Guidelines. |
 | [Widget Based Design](widget-based-design.md) | Build modular, glanceable widget UI blocks for web and mobile apps. |
 | [Y2k Design](y2k-design.md) | Generate Y2K aesthetic UI with chrome, blobs, and neon glow. |

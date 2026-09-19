@@ -1,6 +1,6 @@
 # Grok Bot templates for Government
 
-Public services, policy and compliance. **97 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Public services, policy and compliance. **131 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,12 +11,12 @@ Public services, policy and compliance. **97 ready-made Grok Bot templates** for
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 32 |
-| [Security & Compliance](security-and-compliance/README.md) | 22 |
-| [Research](research/README.md) | 21 |
-| [Productivity](productivity/README.md) | 6 |
+| [Data Analysis](data-analysis/README.md) | 41 |
+| [Security & Compliance](security-and-compliance/README.md) | 39 |
+| [Research](research/README.md) | 22 |
+| [Productivity](productivity/README.md) | 11 |
+| [Writing & Content](writing-and-content/README.md) | 7 |
 | [Knowledge Management](knowledge-management/README.md) | 5 |
-| [Writing & Content](writing-and-content/README.md) | 5 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
@@ -28,14 +28,18 @@ Public services, policy and compliance. **97 ready-made Grok Bot templates** for
 |---|---|
 | [AML Due Diligence Drafter](../legal/data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
 | [Bid Analysis and Selection Assistant](../operations/data-analysis/bid-analysis-and-selection-assistant.md) | Analyzes bids, compares suppliers, and supports procurement decisions with data-driven insights. |
+| [Budget Forecast Assistant](../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Compliance Benchmarking Analyst](../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
 | [Compliance Cost Analyst](../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Compliance Monitoring Inspector](../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
 | [Compliance Reporting Automation Assistant](../legal/data-analysis/compliance-reporting-automation-assistant.md) | Automates compliance reporting from data extraction to audit prep and alerts. |
 | [Compliance Technology Integration Assistant](../legal/data-analysis/compliance-technology-integration-assistant.md) | Integrates compliance technology, automates monitoring, and manages risks for compliance analysts. |
+| [Continuous Improvement Analyst](../operations/data-analysis/continuous-improvement-analyst.md) | Turns operational data and feedback into improvement actions and tracks their impact. |
 | [Contract Report Builder](../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
+| [Cost-Benefit Analysis Assistant](../operations/data-analysis/cost-benefit-analysis-assistant.md) | Runs complete cost-benefit analyses for process improvement projects, from data gathering to stakeholder-ready reports. |
 | [Data Analysis Assistant](../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
 | [Data Cleansing Assistant](../operations/data-analysis/data-cleansing-assistant.md) | Cleanses, standardizes, and validates datasets for data entry specialists. |
+| [Data Collection Strategy Planner](../operations/data-analysis/data-collection-strategy-planner.md) | Plans and runs data collection for process improvement, from source choice to insight delivery. |
 | [Data Formatting and Organization Assistant](../operations/data-analysis/data-formatting-and-organization-assistant.md) | Cleans, standardizes, and organizes data for data entry specialists. |
 | [Data Quality Control Assistant](../operations/data-analysis/data-quality-control-assistant.md) | Runs quality control checks on entered data and reports issues for correction. |
 | [Data Reporting Assistant](../operations/data-analysis/data-reporting-assistant.md) | Turns raw data into clean, analyzed, and presentation-ready reports for data entry specialists. |
@@ -44,13 +48,18 @@ Public services, policy and compliance. **97 ready-made Grok Bot templates** for
 | [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Junta Auctioneers](../operations/data-analysis/junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Market Trend Analysis Assistant](../operations/data-analysis/market-trend-analysis-assistant.md) | Analyzes market trends and compiles reports to support procurement decisions. |
+| [Operational KPI Dashboard Designer](../operations/data-analysis/operational-kpi-dashboard-designer.md) | Designs and maintains operational KPI dashboards with data integration, analysis, and reporting. |
 | [Performance Metrics Manager](../management/data-analysis/performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Procurement Risk Assessor](../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
 | [Procurement Risk Management Assistant](../operations/data-analysis/procurement-risk-management-assistant.md) | Procurement risk management assistant that assesses, mitigates, and monitors supplier, contract, and supply chain risks. |
 | [Procurement Risk Scorecard Builder](../operations/data-analysis/procurement-risk-scorecard-builder.md) | Evaluates supplier performance, identifies risks, and drives improvement for procurement specialists. |
 | [Purchasing Budget and Cost Analyst](../management/data-analysis/purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
+| [Quality Control Reporting Assistant](../operations/data-analysis/quality-control-reporting-assistant.md) | Analyzes quality data, generates reports, and tracks compliance for quality control inspectors. |
+| [Risk Assessment Analyst](../operations/data-analysis/risk-assessment-analyst.md) | Turns your risk data into assessed, prioritized, and actionable risk intelligence for process improvement. |
 | [Risk Assessment and Mitigation Consultant](../management/data-analysis/risk-assessment-and-mitigation-consultant.md) | Identifies, analyzes, and mitigates risks across your organization with structured assessments and plans. |
 | [Risk Assessment Workflow Assistant](../legal/data-analysis/risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |
+| [Risk Radar for QC Teams](../operations/data-analysis/risk-radar-for-qc-teams.md) | Identifies, assesses, and mitigates operational risks with data-driven insights and monitoring. |
+| [Safety Data Insights Assistant](../operations/data-analysis/safety-data-insights-assistant.md) | Turns safety data into prioritized, actionable risk-reduction insights. |
 | [Senior Manager Decision Support](../management/data-analysis/senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
 | [Spend Analysis Assistant](../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Spreadsheet Merger](../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
@@ -64,25 +73,42 @@ Public services, policy and compliance. **97 ready-made Grok Bot templates** for
 | Template | What it does |
 |---|---|
 | [AML Compliance Assistant](../legal/security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
+| [Audit Preparation Assistant](../operations/security-and-compliance/audit-preparation-assistant.md) | Prepares audits for quality control inspectors by organizing documents, analyzing data, and generating reports. |
+| [Compliance and Regulatory Updates Assistant](../operations/security-and-compliance/compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
 | [Compliance Audit Preparation Assistant](../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
 | [Compliance Monitoring Assistant](../legal/security-and-compliance/compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
 | [Compliance Query Resolution Assistant](../legal/security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
 | [Compliance Specialist](../legal/security-and-compliance/compliance-specialist.md) | Assesses compliance gaps and prepares audit evidence for regulatory frameworks. |
+| [Compliance Tracking Assistant](../operations/security-and-compliance/compliance-tracking-assistant.md) | Tracks regulatory changes, audits, training, and reports to keep operations compliant. |
 | [Contract Termination Guidance](../legal/security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
+| [Corrective Action Planning Assistant](../operations/security-and-compliance/corrective-action-planning-assistant.md) | Turns inspection data into prioritized, compliant corrective action plans with progress tracking. |
 | [Data Privacy Compliance](../legal/security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
+| [EHS Safety Assistant](../operations/security-and-compliance/ehs-safety-assistant.md) | Handles EHS hazard checks, training, compliance, and incident analysis for safety engineers. |
+| [Emergency Response Planner](../operations/security-and-compliance/emergency-response-planner.md) | Emergency response planning assistant for safety engineers, from risk assessment to post-emergency review. |
 | [Environmental Compliance Assistant](../legal/security-and-compliance/environmental-compliance-assistant.md) | Supports environmental compliance officers with research, documentation, audits, and reporting. |
 | [Ethical Compliance Assessment Assistant](../legal/security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
 | [Ethical Compliance Monitor](../legal/security-and-compliance/ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
 | [Fda Food Safety Auditor](../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
+| [Hazard Identification Assistant](../operations/security-and-compliance/hazard-identification-assistant.md) | Turns workplace data and documents into hazard identifications, risk assessments, and safety actions. |
+| [Hazardous Material Management Assistant](../operations/security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
 | [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [International Procurement Compliance Guide](../operations/security-and-compliance/international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
 | [Legal Compliance Review Assistant](../legal/security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
+| [Occupational Health and Safety Assistant](../operations/security-and-compliance/occupational-health-and-safety-assistant.md) | Manages occupational health and safety tasks from risk assessment to compliance and wellness programs. |
+| [Operations Risk Assessment Planner](../operations/security-and-compliance/operations-risk-assessment-planner.md) | Identifies, analyzes, prioritizes, and plans mitigation for operational risks, from supply chain to compliance, with prepared monitoring and… |
 | [Policy Development Support](../legal/security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
 | [Procurement Compliance Assistant](../operations/security-and-compliance/procurement-compliance-assistant.md) | Keeps procurement compliant by tracking regulations, audits, reports, and vendor oversight. |
+| [Product Compliance Verification Assistant](../operations/security-and-compliance/product-compliance-verification-assistant.md) | Verifies product compliance across specs, materials, labeling, safety, environment, and regulations with documentation and audit support. |
 | [Production Compliance Auditor](../operations/security-and-compliance/production-compliance-auditor.md) | Streamlines compliance monitoring, audits, training, and reporting for production coordinators. |
 | [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
+| [QC Compliance Report Builder](../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
+| [Quality Audit Assistant](../operations/security-and-compliance/quality-audit-assistant.md) | Quality audit assistant that analyzes data, checks compliance, and drafts reports for quality control specialists. |
+| [Regulatory Compliance Monitor](../operations/security-and-compliance/regulatory-compliance-monitor.md) | Tracks regulatory changes, audits compliance, and reports status for global operations. |
 | [Risk Assessment and Analysis Assistant](../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
 | [Risk Management Analysis Assistant](../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
+| [Safety Compliance Assistant](../operations/security-and-compliance/safety-compliance-assistant.md) | Safety compliance assistant that turns regulations into policies, audits, training, and reports for safety engineers. |
+| [Safety Compliance Planner](../operations/security-and-compliance/safety-compliance-planner.md) | Turns safety standards into checklists, training, and audit plans for quality control inspectors. |
+| [Safety Protocol Development Assistant](../operations/security-and-compliance/safety-protocol-development-assistant.md) | Develops, reviews, and updates workplace safety protocols from research to training. |
 | [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
 | [Whistleblower Policy Manager](../legal/security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 
@@ -105,6 +131,7 @@ Public services, policy and compliance. **97 ready-made Grok Bot templates** for
 | [Regulatory Communication Assistant](../legal/research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
 | [Regulatory Research Assistant](../legal/research/regulatory-research-assistant.md) | Tracks, interprets, and applies regulatory changes for compliance officers. |
 | [Regulatory Update Analyst](../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
+| [Supplier Evaluation and Management Assistant](../operations/research/supplier-evaluation-and-management-assistant.md) | Evaluates and manages suppliers from identification through performance monitoring and improvement. |
 | [Supplier Research and Analysis Assistant](../operations/research/supplier-research-and-analysis-assistant.md) | Finds, vets, and manages suppliers with data-backed analysis and clear recommendations. |
 | [Sustainable Procurement Advisor](../operations/research/sustainable-procurement-advisor.md) | Guides sustainable procurement decisions from supplier evaluation to circular economy implementation. |
 | [Sustainable Purchasing Assistant](../management/research/sustainable-purchasing-assistant.md) | Helps purchasing managers make sustainable procurement decisions and track their impact. |
@@ -116,12 +143,29 @@ Public services, policy and compliance. **97 ready-made Grok Bot templates** for
 
 | Template | What it does |
 |---|---|
+| [Calibration and Maintenance Scheduler](../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
+| [Change Management Strategist](../operations/productivity/change-management-strategist.md) | Plans and manages organizational change from stakeholder analysis to sustainability. |
 | [Crisis Management Planner](../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
+| [Crisis Management Planning Assistant](../operations/productivity/crisis-management-planning-assistant.md) | Builds and maintains your crisis management plans, protocols, and training. |
 | [Emergency Response Planning Assistant](../operations/productivity/emergency-response-planning-assistant.md) | Prepares logistics emergency response plans, contacts, drills, and continuity strategies. |
 | [Hiring Scorecard Builder](../human-resources/productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
+| [Process Improvement Comms Architect](../operations/productivity/process-improvement-comms-architect.md) | Plans stakeholder communication for process improvement projects, from stakeholder mapping to risk assessment. |
+| [Process Mapping and Improvement Assistant](../operations/productivity/process-mapping-and-improvement-assistant.md) | Maps and improves your organization's processes from discovery to continuous improvement. |
 | [Purchase Order Management Assistant](../operations/productivity/purchase-order-management-assistant.md) | Manages purchase orders from creation to compliance, keeping procurement smooth and within budget. |
 | [Stakeholder Communication Planner](../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
 | [Workflow Orchestrator](../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
+
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Compliance Communication Planner](../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
+| [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
+| [Policy Update Communications Assistant](../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
+| [SOP Writer](../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
+| [Stakeholder Communication Coordinator](../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
+| [Technical Documentation Reviewer](../customer-support/writing-and-content/technical-documentation-reviewer.md) | Reviews and refines technical documentation for accuracy, clarity, and compliance. |
+| [Training Material Creator](../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 
 ## Knowledge Management
 
@@ -132,16 +176,6 @@ Public services, policy and compliance. **97 ready-made Grok Bot templates** for
 | [Document Digitization Assistant](../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
 | [Document Organization Assistant](../customer-support/knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
 | [Record-Keeping Compliance Optimizer](../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Compliance Communication Planner](../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
-| [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
-| [Policy Update Communications Assistant](../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
-| [SOP Writer](../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
-| [Technical Documentation Reviewer](../customer-support/writing-and-content/technical-documentation-reviewer.md) | Reviews and refines technical documentation for accuracy, clarity, and compliance. |
 
 ## Sales & Negotiation
 

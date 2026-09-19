@@ -1,6 +1,6 @@
 # Coding templates for Operations
 
-Write, review, test and debug software. 59 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 60 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -53,6 +53,7 @@ Write, review, test and debug software. 59 Grok Bot templates, 1 of them filed i
 | [Poka Yoke](../../it-and-development/coding/poka-yoke.md) | Redesign work so mistakes cannot become defects, without relying on human memory. |
 | [Posix Shell Pro](../../it-and-development/coding/posix-shell-pro.md) | Strict POSIX sh scripts that run on any Unix-like system without bash-isms. |
 | [Postman Newman Automation](../../it-and-development/coding/postman-newman-automation.md) | Generate Newman CLI commands, shell scripts, and Jenkins pipelines for Postman collections. |
+| [Product Testing Assistant](product-testing-assistant.md) | Generates, runs, and reports product tests, tracking defects and ensuring quality. |
 | [Repo Maintainer](../../it-and-development/coding/repo-maintainer.md) | Audit and repair repository hygiene across artifacts, dependencies, CI, docs, Git state, and code quality. |
 | [Seo Technical](../../marketing/coding/seo-technical.md) | Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, and JavaScript rendering. |
 | [Shell Scripting Pro](../../it-and-development/coding/shell-scripting-pro.md) | Write robust, POSIX-compliant shell scripts for automation and system administration. |

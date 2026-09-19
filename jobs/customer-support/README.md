@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **109 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **112 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,17 @@ Answering, routing and resolving customer requests. **109 ready-made Grok Bot te
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 35 |
+| [Support & Community](support-and-community/README.md) | 37 |
 | [Data Analysis](data-analysis/README.md) | 26 |
 | [Productivity](productivity/README.md) | 15 |
 | [Writing & Content](writing-and-content/README.md) | 6 |
 | [Knowledge Management](knowledge-management/README.md) | 4 |
+| [Translation](translation/README.md) | 4 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 3 |
 | [Coding](coding/README.md) | 3 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
 | [Research](research/README.md) | 3 |
 | [Security & Compliance](security-and-compliance/README.md) | 3 |
-| [Translation](translation/README.md) | 3 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 | [Social Media](social-media/README.md) | 1 |
@@ -41,6 +41,7 @@ Answering, routing and resolving customer requests. **109 ready-made Grok Bot te
 | [Customer Inquiry Response Assistant](support-and-community/customer-inquiry-response-assistant.md) | Drafts, translates, and tracks customer support replies across channels. |
 | [Customer Issue Resolution Assistant](support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
 | [Customer Onboarding Assistant](support-and-community/customer-onboarding-assistant.md) | Guides new insurance customers through onboarding with personalized, step-by-step support. |
+| [Customer Service Improvement Assistant](../operations/support-and-community/customer-service-improvement-assistant.md) | Analyzes logistics customer feedback and automates support workflows to improve satisfaction. |
 | [Customer Success Response Manager](support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 | [Customer Support](support-and-community/customer-support.md) | Resolves support tickets and creates help documentation from confirmed facts only. |
 | [Emergency Response Coordinator](support-and-community/emergency-response-coordinator.md) | Coordinates emergency response support for insurance policyholders from first contact to claim resolution. |
@@ -55,6 +56,7 @@ Answering, routing and resolving customer requests. **109 ready-made Grok Bot te
 | [Legal Intake Concierge](../legal/support-and-community/legal-intake-concierge.md) | Manages client communication for lawyers, from intake to follow-up, with approval gates. |
 | [Live Chat Support Assistant](support-and-community/live-chat-support-assistant.md) | Handles live chat support from triage to escalation so your customers get answers fast. |
 | [Logistics Customer Service Improver](../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
+| [Logistics Customer Service Optimizer](../operations/support-and-community/logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
 | [Personalized Insurance Service Assistant](support-and-community/personalized-insurance-service-assistant.md) | Personalized insurance service assistant for customer service representatives. |
 | [Policy Customization Assistant](support-and-community/policy-customization-assistant.md) | Guides insurance customers through customizing policies, from coverage options to claims assistance. |
 | [Policy Explanation Assistant](support-and-community/policy-explanation-assistant.md) | Explains insurance policies clearly and guides customers through coverage, claims, and renewals. |
@@ -139,6 +141,15 @@ Answering, routing and resolving customer requests. **109 ready-made Grok Bot te
 | [Knowledge Base Builder](knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
 | [Knowledge Base Expansion Assistant](knowledge-management/knowledge-base-expansion-assistant.md) | Expands and maintains your product knowledge base with researched, translated, and user-focused content. |
 
+## Translation
+
+| Template | What it does |
+|---|---|
+| [Multi-Channel Insurance Communication Assistant](translation/multi-channel-insurance-communication-assistant.md) | Handles multi-channel insurance customer communication with drafting, translation, and insights. |
+| [Multilingual Claims Support Bot](../operations/translation/multilingual-claims-support-bot.md) | Multilingual insurance claims support: translate, communicate, and comply across languages. |
+| [Multilingual Support Documentation Assistant](translation/multilingual-support-documentation-assistant.md) | Translates and localizes all support content into multiple languages for global users. |
+| [Reception Language Assistant](translation/reception-language-assistant.md) | Handles front-desk language needs: translation, interpretation, and inclusive communication. |
+
 ## Cloud & DevOps
 
 | Template | What it does |
@@ -178,14 +189,6 @@ Answering, routing and resolving customer requests. **109 ready-made Grok Bot te
 | [Compliance Query Resolution Assistant](../legal/security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
 | [Reception Confidentiality Assistant](security-and-compliance/reception-confidentiality-assistant.md) | Helps receptionists protect confidential information across calls, visitors, documents, and emails. |
 | [Regulatory Compliance Assistant](security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
-
-## Translation
-
-| Template | What it does |
-|---|---|
-| [Multi-Channel Insurance Communication Assistant](translation/multi-channel-insurance-communication-assistant.md) | Handles multi-channel insurance customer communication with drafting, translation, and insights. |
-| [Multilingual Support Documentation Assistant](translation/multilingual-support-documentation-assistant.md) | Translates and localizes all support content into multiple languages for global users. |
-| [Reception Language Assistant](translation/reception-language-assistant.md) | Handles front-desk language needs: translation, interpretation, and inclusive communication. |
 
 ## Office Tools
 
