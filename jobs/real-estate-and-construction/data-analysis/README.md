@@ -1,6 +1,6 @@
 # Data Analysis templates for Real Estate and Construction
 
-Clean, query, chart and explain data. 31 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 33 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,10 +25,12 @@ Clean, query, chart and explain data. 31 Grok Bot templates, 9 of them filed in 
 | [Job Profitability Analyzer](../../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Operations Cost Analyst](../../operations/data-analysis/operations-cost-analyst.md) | Analyzes costs, forecasts trends, and recommends savings for operations leadership. |
 | [Operations Environmental Impact Reporter](../../operations/data-analysis/operations-environmental-impact-reporter.md) | Turns operational data into environmental impact analysis, reports, and compliance guidance. |
+| [Post-Project Analysis Assistant](../../management/data-analysis/post-project-analysis-assistant.md) | Turns completed project data into a lessons-learned report and future-project recommendations. |
 | [Predictive Maintenance Scheduler](../../management/data-analysis/predictive-maintenance-scheduler.md) | Analyzes equipment data, predicts failures, and schedules maintenance to maximize uptime. |
 | [Procurement Cost Analyzer](../../operations/data-analysis/procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |
 | [Procurement Risk Assessor](../../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
 | [Project Analytics Operations Assistant](../../operations/data-analysis/project-analytics-operations-assistant.md) | Turns project data into forecasts, risk warnings, and dashboards for ops managers. |
+| [Project Data Analysis Assistant](../../management/data-analysis/project-data-analysis-assistant.md) | Turns raw project data into analysis, insights, and decision-ready reports for project managers. |
 | [Project Management Insight Assistant](../../operations/data-analysis/project-management-insight-assistant.md) | Tracks project tasks, resources, risks, budgets, timelines, quality, and stakeholder communication for operations directors. |
 | [Real Estate Analytics Assistant](real-estate-analytics-assistant.md) | Turns your real estate data into clear analytics and reports for decisions. |
 | [Real Estate Investment Scout](real-estate-investment-scout.md) | Scouts real estate investment opportunities through market analysis, financial modeling, and risk assessment. |

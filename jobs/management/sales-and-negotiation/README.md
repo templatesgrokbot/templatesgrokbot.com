@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Management
 
-Prospecting, outreach, proposals and negotiating terms. 13 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 14 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Prospecting, outreach, proposals and negotiating terms. 13 Grok Bot templates, 4
 | [Supplier Diversity Program Assistant](supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
 | [Supplier Negotiation Strategist](supplier-negotiation-strategist.md) | Prepares and guides purchasing managers through supplier negotiations from objectives to post-negotiation review. |
 | [Supplier Relationship Manager](supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
+| [Vendor Lifecycle Orchestrator](vendor-lifecycle-orchestrator.md) | Manages the full vendor lifecycle from sourcing to exit, with templates, checklists, and negotiation guidance. |
 | [Vendor Negotiation Assistant](../../operations/sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
 
 [← All Management templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/management)

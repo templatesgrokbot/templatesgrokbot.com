@@ -1,6 +1,6 @@
 # Productivity templates for Product Development
 
-Plan, prioritise and clear the recurring admin. 59 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 63 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -29,6 +29,7 @@ Plan, prioritise and clear the recurring admin. 59 Grok Bot templates, 29 of the
 | [Idea Autopsy](../../executives-and-strategy/productivity/idea-autopsy.md) | Autopsy a business idea before you build it: kill-list check, five hard filters, a free-AI one-prompt test, live ad-market verification, and a verdict |
 | [Idea Os](idea-os.md) | Five-phase pipeline turning raw ideas into PRD, research, and execution plans. |
 | [Idea Refine](idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
+| [Innovation Cycle Navigator](../../management/productivity/innovation-cycle-navigator.md) | Guides project managers through the full innovation cycle, from ideation to implementation. |
 | [Innovation Ideation Partner](../../management/productivity/innovation-ideation-partner.md) | Innovation ideation partner for senior managers: generate, evaluate, and track ideas from brainstorm to execution. |
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
@@ -53,11 +54,14 @@ Plan, prioritise and clear the recurring admin. 59 Grok Bot templates, 29 of the
 | [Product Risk Assessment Assistant](product-risk-assessment-assistant.md) | Identifies, evaluates, and communicates product risks with structured assessments and stakeholder-ready reports. |
 | [Product Roadmap Assistant](product-roadmap-assistant.md) | Turns market, user, and competitor data into a prioritized, visual product roadmap. |
 | [Project Manager](../../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
+| [Project Progress Tracker](../../management/productivity/project-progress-tracker.md) | Tracks project progress, milestones, resources, issues, risks, docs, stakeholders, dependencies, performance, and budget. |
+| [Project Time Manager](../../management/productivity/project-time-manager.md) | Plans, prioritizes, and audits your project time to cut waste and hit deadlines. |
 | [Refine Issue](../../it-and-development/productivity/refine-issue.md) | Enriches GitHub issues with acceptance criteria, edge cases, and technical notes. |
 | [Requirements Clarity](requirements-clarity.md) | Turns vague feature requests into clear, actionable PRDs through structured questioning. |
 | [Se Product Manager Advisor](se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
 | [Task Decomposition Expert](../../management/productivity/task-decomposition-expert.md) | Breaks complex goals into actionable work breakdowns with dependencies and effort estimates. |
 | [Task Intelligence](../../management/productivity/task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |
+| [Team Collaboration Facilitator](../../management/productivity/team-collaboration-facilitator.md) | Facilitates team collaboration, communication, and decision-making for project managers. |
 | [Technology Roadmap Planner](technology-roadmap-planner.md) | Builds and maintains technology roadmaps for R&D engineers from market data to execution plans. |
 | [To Issues](to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
 | [Track Management](../../it-and-development/productivity/track-management.md) | Manage Conductor tracks from spec to completion. |

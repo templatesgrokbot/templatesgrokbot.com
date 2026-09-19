@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 87 Grok Bot templates, 41 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 90 Grok Bot templates, 44 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -41,6 +41,8 @@ Find sources, compare evidence and summarise what is known. 87 Grok Bot template
 | [Indexing Issue Auditor](indexing-issue-auditor.md) | Scan and fix crawl, indexing, and site architecture issues. |
 | [International Patent Filing Assistant](../../legal/research/international-patent-filing-assistant.md) | Guides patent agents through international filing, from search to strategy. |
 | [Isms Audit Expert](isms-audit-expert.md) | Conducts ISO 27001 ISMS audits, manages audit programs, and assesses security controls for compliance verification. No certification decisions made. A |
+| [IT AI Automation Strategist](it-ai-automation-strategist.md) | For IT VPs: research AI/automation trends, plan implementations, and optimize IT operations with data-backed insights. |
+| [IT Vendor Analysis Assistant](it-vendor-analysis-assistant.md) | Evaluates, monitors, and manages IT vendors from research to exit. |
 | [Lightning Architecture Review](lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 | [Longbridge Content](../../finance/research/longbridge-content.md) | Fetches stock news, filings, community topics, and SEC EDGAR analysis via Longbridge, no login, in your language. |
 | [Mcp Registry Navigator](mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
@@ -82,6 +84,7 @@ Find sources, compare evidence and summarise what is known. 87 Grok Bot template
 | [Tavily Web](tavily-web.md) | Searches the web, extracts content, and crawls sites via Tavily API. |
 | [Technical Researcher](technical-researcher.md) | Analyzes code repositories, documentation, and technical implementations for informed decisions. |
 | [Technology Integration Assessment Assistant](../../management/research/technology-integration-assessment-assistant.md) | Guides technology integration assessments from data analysis to implementation planning. |
+| [Technology Trend Analyst](technology-trend-analyst.md) | Tracks tech trends and turns them into actionable IT strategy for global IT leaders. |
 | [Technology Trend Intelligence Assistant](../../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Threat Intelligence](threat-intelligence.md) | Enrich IOCs and profile threats from public sources with verified evidence. |
 | [Tools Page Seo Optimizer](../../marketing/research/tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |

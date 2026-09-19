@@ -1,6 +1,6 @@
 # Security & Compliance templates for Insurance
 
-Authorised security testing, audits and regulatory work. 15 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 16 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Authorised security testing, audits and regulatory work. 15 Grok Bot templates, 
 | [Policy Development Support](../../legal/security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
 | [PolicyOps Compliance Aligner](../../operations/security-and-compliance/policyops-compliance-aligner.md) | Helps insurance operations managers keep policies, staff, and reports aligned with regulations. |
 | [Regulatory Compliance Assistant](../../customer-support/security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
+| [Regulatory Requirements to Audit Reports](../../it-and-development/security-and-compliance/regulatory-requirements-to-audit-reports.md) | Turns regulatory requirements into compliance checks, audits, and reports for business analysts. |
 | [Risk Assessment and Analysis Assistant](../../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
 | [Service Compliance Risk Auditor](../../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
 | [Verify Document](../../operations/security-and-compliance/verify-document.md) | Check PDFs and images for tampering signals before relying on them. |

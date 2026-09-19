@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 422 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 427 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,12 +24,14 @@ Clean, query, chart and explain data. 422 Grok Bot templates, 268 of them filed 
 | [Budget and Forecast Assistant](budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Budget Forecast Assistant](budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Business Analyst](business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
+| [Business Process Optimization Assistant](../../it-and-development/data-analysis/business-process-optimization-assistant.md) | Maps, analyzes, and optimizes business processes with data-backed recommendations. |
 | [Buywhere Product Catalog](../../sales/data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
 | [Calibration Analysis Assistant](calibration-analysis-assistant.md) | Analyzes calibration data, flags issues, and manages schedules, certificates, and compliance for quality control inspectors. |
 | [Campaign Effectiveness Analyst](../../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Capacity Planning Assistant](capacity-planning-assistant.md) | Turns production data into forecasts, schedules, and capacity plans for production planners. |
 | [Cargo Handling Optimization Assistant](cargo-handling-optimization-assistant.md) | Optimizes cargo handling operations through data analysis and predictive insights for logistics engineers. |
 | [Carrier Relationship Management](carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
+| [CEO Supply Chain Optimizer](../../executives-and-strategy/data-analysis/ceo-supply-chain-optimizer.md) | Optimizes your supply chain with data-driven insights and recommendations. |
 | [Cf Crawl](cf-crawl.md) | Crawl websites via Cloudflare Browser Rendering and save pages as markdown files. |
 | [Chemical Process Optimizer](../../science-and-research/data-analysis/chemical-process-optimizer.md) | Optimizes chemical processes through data analysis, simulation, and improvement recommendations. |
 | [Chemical Process Troubleshooter](../../science-and-research/data-analysis/chemical-process-troubleshooter.md) | Diagnose chemical process issues from data and recommend fixes for your plant. |
@@ -53,6 +55,7 @@ Clean, query, chart and explain data. 422 Grok Bot templates, 268 of them filed 
 | [Continuous Improvement Analyst](continuous-improvement-analyst.md) | Turns operational data and feedback into improvement actions and tracks their impact. |
 | [Continuous Improvement Planner](continuous-improvement-planner.md) | Turns quality control data into improvement plans and tracks their impact. |
 | [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
+| [COO Supply Chain Optimizer](../../executives-and-strategy/data-analysis/coo-supply-chain-optimizer.md) | Optimizes supply chain operations from forecasting to sustainability for COOs. |
 | [Cost Reduction Analyst](../../management/data-analysis/cost-reduction-analyst.md) | Finds and validates cost reduction opportunities for service managers. |
 | [Cost Reduction Strategist](cost-reduction-strategist.md) | Analyzes operations data to find and track cost savings across your business. |
 | [Cost-Benefit Analysis Assistant](cost-benefit-analysis-assistant.md) | Runs complete cost-benefit analyses for process improvement projects, from data gathering to stakeholder-ready reports. |
@@ -250,6 +253,7 @@ Clean, query, chart and explain data. 422 Grok Bot templates, 268 of them filed 
 | [Operations Insight Report Builder](operations-insight-report-builder.md) | Supply chain analysis assistant for operations managers, turning data into actionable insights and recommendations. No hype, just analysis. |
 | [Operations Inventory Insight Builder](operations-inventory-insight-builder.md) | Optimizes stock levels, forecasts demand, and streamlines inventory operations from data analysis to reporting. |
 | [Operations Manager Supply Chain Advisor](operations-manager-supply-chain-advisor.md) | Optimizes supply chain operations with data-driven insights and recommendations. |
+| [Operations Optimization Assistant](../../executives-and-strategy/data-analysis/operations-optimization-assistant.md) | Optimizes operations end-to-end: analyze processes, data, and risks; suggest improvements; track KPIs. |
 | [Operations Process Optimizer](operations-process-optimizer.md) | Analyzes operational data to find bottlenecks, waste, and automation opportunities. |
 | [Operations Productivity Insights](operations-productivity-insights.md) | Analyzes employee productivity data, identifies drivers, and recommends improvements for operations heads. |
 | [Operations QC Insight Partner](operations-qc-insight-partner.md) | Quality control analysis assistant for operations managers. |
@@ -330,6 +334,7 @@ Clean, query, chart and explain data. 422 Grok Bot templates, 268 of them filed 
 | [Risk Management Specialist](risk-management-specialist.md) | Manages ISO 14971 risk management files for medical devices throughout the product lifecycle. |
 | [Risk Mitigation Plan Builder](risk-mitigation-plan-builder.md) | Identifies, assesses, and mitigates supply chain risks with data-driven insights and structured plans. |
 | [Risk Radar for QC Teams](risk-radar-for-qc-teams.md) | Identifies, assesses, and mitigates operational risks with data-driven insights and monitoring. |
+| [Risk-Aware Supply Planner](../../it-and-development/data-analysis/risk-aware-supply-planner.md) | Turns your supply chain data into forecasts, optimizations, and risk plans. |
 | [Root Cause Analysis Assistant](root-cause-analysis-assistant.md) | Guides process improvement analysts through root cause analysis from data to action plans. |
 | [Root Cause Pareto](root-cause-pareto.md) | Build a decision-grade Pareto for downtime, defects, complaints, or delays with unit discipline and exposure normalization. |
 | [Route Optimization Assistant](route-optimization-assistant.md) | Optimizes delivery routes, estimates times, cuts costs, and monitors fleet performance. |

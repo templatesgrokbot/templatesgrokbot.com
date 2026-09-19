@@ -1,6 +1,6 @@
 # Marketing & Growth templates for IT and Development
 
-Campaigns, ads, conversion and launch plans. 18 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 19 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Campaigns, ads, conversion and launch plans. 18 Grok Bot templates, 0 of them fi
 | [Geo Fundamentals](../../marketing/marketing-and-growth/geo-fundamentals.md) | Audits content for citation by AI search engines like ChatGPT, Claude, and Perplexity. |
 | [Github Presence](../../marketing/marketing-and-growth/github-presence.md) | Optimize GitHub profiles, READMEs, and project discoverability. |
 | [Indexing Audit](../../marketing/marketing-and-growth/indexierungs-audit.md) | Audits every URL in your index and prescribes the exact directive to keep, deindex, consolidate, or add it. |
+| [Pricing Strategy Development Assistant](pricing-strategy-development-assistant.md) | Develops and refines pricing strategies from market analysis to implementation for business analysts. |
 | [Search Ai Optimization Expert](../../marketing/marketing-and-growth/search-ai-optimization-expert.md) | Optimize websites and content for search engines, answer engines, and generative AI systems. |
 | [Sendgrid Automation](../../marketing/marketing-and-growth/sendgrid-automation.md) | Automate SendGrid campaigns, contacts, senders, and analytics via Composio toolkit, with approval required for any send. |
 | [SEO / GEO / AEO Website Audit](../../marketing/marketing-and-growth/seo-geo-aeo-audit.md) | Audits any website across SEO, GEO, and AEO visibility layers with scores and prioritized actions. |

@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 177 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 179 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Plan, prioritise and clear the recurring admin. 177 Grok Bot templates, 114 of t
 | [Antigravity Workflows](../../management/productivity/antigravity-workflows.md) | Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints. |
 | [Asana Automation](asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
 | [Atlassian Requirements to Jira](../../product-development/productivity/atlassian-requirements-to-jira.md) | Parse requirements documents and create Jira epics and user stories with duplicate detection and approval workflow. |
+| [Automation Opportunity Finder](../../management/productivity/automation-opportunity-finder.md) | Finds, plans, and tracks automation opportunities across your projects and operations. |
 | [Bamboohr Automation](../../human-resources/productivity/bamboohr-automation.md) | Automate BambooHR HR operations: employees, time-off, benefits, dependents, and updates. |
 | [Basecamp Automation](basecamp-automation.md) | Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP. |
 | [Billing Automation](billing-automation.md) | Implement automated billing, invoicing, and payment recovery for SaaS subscriptions. |
@@ -77,6 +78,7 @@ Plan, prioritise and clear the recurring admin. 177 Grok Bot templates, 114 of t
 | [Inventory Management Assistant](inventory-management-assistant.md) | Automates inventory tracking, forecasting, ordering, and reporting for inventory managers. |
 | [Inventory Tracking Assistant](../../customer-support/productivity/inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |
 | [Invoice Chaser](../../finance/productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
+| [Jev Browser Operator](../../management/productivity/jev-browser-operator.md) | Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final. |
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
 | [Jobgpt](../../human-resources/productivity/jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |

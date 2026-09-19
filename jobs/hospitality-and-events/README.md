@@ -1,6 +1,6 @@
 # Grok Bot templates for Hospitality and Events
 
-Hotels, venues, travel and event teams. **144 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Hotels, venues, travel and event teams. **150 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,13 @@ Hotels, venues, travel and event teams. **144 ready-made Grok Bot templates** fo
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 47 |
-| [Productivity](productivity/README.md) | 30 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 24 |
+| [Data Analysis](data-analysis/README.md) | 48 |
+| [Productivity](productivity/README.md) | 33 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 25 |
 | [Social Media](social-media/README.md) | 15 |
 | [Writing & Content](writing-and-content/README.md) | 11 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 5 |
 | [Research](research/README.md) | 4 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
 | [Support & Community](support-and-community/README.md) | 3 |
 | [Security & Compliance](security-and-compliance/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
@@ -31,6 +31,7 @@ Hotels, venues, travel and event teams. **144 ready-made Grok Bot templates** fo
 | [Audience Compass Strategist](../pr-and-communications/data-analysis/audience-compass-strategist.md) | Analyzes audience data to sharpen communication strategy and engagement. |
 | [Budget and Forecast Assistant](../operations/data-analysis/budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Budget Forecast Assistant](../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
+| [CEO Feedback Action Planner](../executives-and-strategy/data-analysis/ceo-feedback-action-planner.md) | Turns customer feedback into prioritized insights, trends, and action plans for your business. |
 | [Customer Experience Improvement](../operations/data-analysis/customer-experience-improvement.md) | Analyzes customer data and feedback to improve experience, support, and loyalty. |
 | [Customer Experience Improvement Assistant](../operations/data-analysis/customer-experience-improvement-assistant.md) | Turns customer data into actions that improve experience and support across every channel. |
 | [Customer Feedback Insight Analyst](../management/data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
@@ -104,7 +105,10 @@ Hotels, venues, travel and event teams. **144 ready-made Grok Bot templates** fo
 | [Pharma Event Planning Assistant](../sales/productivity/pharma-event-planning-assistant.md) | Plans, promotes, and manages pharmaceutical events and conferences end-to-end. |
 | [Production Deadline Planner](../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
 | [Production Resource Allocation Planner](../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
+| [Project Budget Management Assistant](../management/productivity/project-budget-management-assistant.md) | Guides project managers through budget planning, monitoring, and adjustments. |
 | [Project Management Support Assistant](../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
+| [Project Planning Assistant](../management/productivity/project-planning-assistant.md) | Assists project managers with planning, analysis, and documentation tasks. |
+| [Project Time Manager](../management/productivity/project-time-manager.md) | Plans, prioritizes, and audits your project time to cut waste and hit deadlines. |
 | [School Event Planner](../education/productivity/school-event-planner.md) | Plans and runs school events from venue to evaluation for headteachers. |
 | [School Event Planning Assistant](../education/productivity/school-event-planning-assistant.md) | Plans and coordinates school events from venue to follow-up. |
 | [Travel Arrangement Coordinator](../customer-support/productivity/travel-arrangement-coordinator.md) | Plans and books client travel from flights to insurance in one place. |
@@ -133,6 +137,7 @@ Hotels, venues, travel and event teams. **144 ready-made Grok Bot templates** fo
 | [Marketing Content Ideation Assistant](../executives-and-strategy/marketing-and-growth/marketing-content-ideation-assistant.md) | Generates and refines content ideas, outlines, and scripts for marketing campaigns. |
 | [Performance Email Campaign Builder](../sales/marketing-and-growth/performance-email-campaign-builder.md) | Plans, writes, and refines email campaigns from segmentation to performance analysis. |
 | [Pricing Strategy Developer](../sales/marketing-and-growth/pricing-strategy-developer.md) | Develops and optimizes pricing strategies from market analysis to implementation and performance tracking. |
+| [Pricing Strategy Development Assistant](../it-and-development/marketing-and-growth/pricing-strategy-development-assistant.md) | Develops and refines pricing strategies from market analysis to implementation for business analysts. |
 | [Pricing Strategy Formulation Assistant](../management/marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
 | [Reputation Management Monitor](../pr-and-communications/marketing-and-growth/reputation-management-monitor.md) | Monitors brand sentiment, manages crises, and builds reputation strategies from social and review data. |
 | [Social Media Strategy Planner](../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
@@ -176,6 +181,16 @@ Hotels, venues, travel and event teams. **144 ready-made Grok Bot templates** fo
 | [Receptionist Communication Assistant](../customer-support/writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
 | [Recipe Rescuer](../creatives/writing-and-content/recipe-rescuer.md) | Adapts a recipe to what you actually have, and tells you when a substitution will not work. |
 
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Relationship Management Assistant](../sales/sales-and-negotiation/relationship-management-assistant.md) | Turns customer data into relationship actions for business development managers. |
+| [Supplier Negotiation Assistant](../operations/sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
+| [Vendor Lifecycle Orchestrator](../management/sales-and-negotiation/vendor-lifecycle-orchestrator.md) | Manages the full vendor lifecycle from sourcing to exit, with templates, checklists, and negotiation guidance. |
+| [Vendor Negotiation Assistant](../operations/sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
+| [Vendor Relationship Management Assistant](../operations/sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
+
 ## Research
 
 | Template | What it does |
@@ -184,15 +199,6 @@ Hotels, venues, travel and event teams. **144 ready-made Grok Bot templates** fo
 | [Supplier Research and Analysis Assistant](../operations/research/supplier-research-and-analysis-assistant.md) | Finds, vets, and manages suppliers with data-backed analysis and clear recommendations. |
 | [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Vendor Research and Evaluation Assistant](../management/research/vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Relationship Management Assistant](../sales/sales-and-negotiation/relationship-management-assistant.md) | Turns customer data into relationship actions for business development managers. |
-| [Supplier Negotiation Assistant](../operations/sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
-| [Vendor Negotiation Assistant](../operations/sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
-| [Vendor Relationship Management Assistant](../operations/sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
 
 ## Support & Community
 

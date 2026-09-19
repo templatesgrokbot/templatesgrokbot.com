@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 369 Grok Bot templates, 363 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 381 Grok Bot templates, 375 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,8 @@ Infrastructure, deployments, monitoring and incident response. 369 Grok Bot temp
 | [Agentmail](agentmail.md) | Provision AgentMail accounts, send/receive email, and manage webhooks via REST API. |
 | [Agents V2 Py](agents-v2-py.md) | Provision container-based hosted agents in Azure AI Foundry using the Python SDK. |
 | [Agenttrace Session Audit](agenttrace-session-audit.md) | Audit local AI coding-agent sessions for cost, failures, latency, and health. |
+| [AI Automation Implementation Advisor](ai-automation-implementation-advisor.md) | Guides AI and automation initiatives from assessment to maintenance for IT leaders. |
+| [AI ML Project Advisor](ai-ml-project-advisor.md) | Guides IT directors through the full AI and machine learning project lifecycle, from data prep to deployment and monitoring. |
 | [Algolia Search](algolia-search.md) | Implementation patterns, indexing strategies, and relevance tuning for Algolia search. |
 | [Alloydb Basics](alloydb-basics.md) | Manages AlloyDB for PostgreSQL clusters, instances, and backups via gcloud commands. |
 | [Android Cicd](android-cicd.md) | Set up an automated Android CI/CD pipeline to Google Play from a GitHub repo. |
@@ -112,6 +114,9 @@ Infrastructure, deployments, monitoring and incident response. 369 Grok Bot temp
 | [Cloud Run Basics](cloud-run-basics.md) | Manages Cloud Run services, jobs, and worker pools on Google Cloud. |
 | [Cloud Security Planning Assistant](cloud-security-planning-assistant.md) | Cloud security planning and response assistant for systems administrators. |
 | [Cloud Sql Basics](cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
+| [Cloud Strategy Advisor](cloud-strategy-advisor.md) | Guides IT directors through cloud strategy, from provider evaluation to governance and optimization. |
+| [Cloud Strategy Formulation Assistant](cloud-strategy-formulation-assistant.md) | Formulates and manages your organization's cloud strategy from readiness to governance. |
+| [Cloud Strategy Planner](cloud-strategy-planner.md) | Plans and governs your cloud strategy from provider choice to migration, cost, security, and operations. |
 | [Cloudflare Deploy](cloudflare-deploy.md) | Deploys apps and infrastructure to Cloudflare Workers, Pages, and related services. |
 | [Cloudformation Best Practices](cloudformation-best-practices.md) | Optimize and review CloudFormation templates for production-grade infrastructure. |
 | [Codebase Migration Planner](codebase-migration-planner.md) | Creates a file-by-file migration plan for an entire codebase. |
@@ -122,6 +127,7 @@ Infrastructure, deployments, monitoring and incident response. 369 Grok Bot temp
 | [Cost Optimization](cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Cto Advisor](cto-advisor.md) | Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy. |
 | [Data Center Network Assistant](data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
+| [Data Center Operations Assistant](data-center-operations-assistant.md) | Optimizes data center operations through monitoring, planning, and incident guidance. |
 | [Data Center Power Optimizer](data-center-power-optimizer.md) | Optimizes data center power usage, forecasting, and compliance for systems administrators. |
 | [Database](database.md) | Adds Railway database services (Postgres, Redis, MySQL, MongoDB) and provides connection variable references. |
 | [Database Admin](database-admin.md) | Manages cloud and on-prem databases with backups, replication, monitoring, and access control. |
@@ -151,6 +157,7 @@ Infrastructure, deployments, monitoring and incident response. 369 Grok Bot temp
 | [Devops Troubleshooter](devops-troubleshooter.md) | Diagnoses production incidents using logs, metrics, and traces with systematic root cause analysis. |
 | [Disaster Recovery and Backup Planner](disaster-recovery-and-backup-planner.md) | Designs and validates backup and disaster recovery plans for network engineers. |
 | [Disaster Recovery Plan Builder](disaster-recovery-plan-builder.md) | Builds and maintains your disaster recovery plan from risk assessment to continuous improvement. |
+| [Disaster Recovery Program Planner](disaster-recovery-program-planner.md) | Turns IT disaster recovery and business continuity planning into a structured, repeatable workflow for global IT leadership. |
 | [Distributed Debugging Debug Trace](distributed-debugging-debug-trace.md) | Configure distributed tracing and debugging environments for multi-service systems. |
 | [Distributed Tracing](distributed-tracing.md) | Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices. |
 | [Distributed Training Deepspeed](distributed-training-deepspeed.md) | Guides users through configuring and optimizing DeepSpeed for distributed training. |
@@ -207,15 +214,19 @@ Infrastructure, deployments, monitoring and incident response. 369 Grok Bot temp
 | [Incident Runbook Templates](../../operations/cloud-and-devops/incident-runbook-templates.md) | Generate incident response runbooks with detection, triage, and mitigation steps. |
 | [Infrastructure Lambda Labs](infrastructure-lambda-labs.md) | Manages Lambda Labs GPU instances for ML training and inference. |
 | [Infrastructure Modal](infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
+| [Infrastructure Optimization Advisor](infrastructure-optimization-advisor.md) | Analyzes infrastructure data and delivers optimization plans for IT leaders. |
 | [Infrastructure Skypilot](infrastructure-skypilot.md) | Orchestrates ML workloads across clouds with automatic cost optimization. |
 | [Iot Engineer](iot-engineer.md) | Designs and deploys large-scale IoT solutions from edge to cloud. |
+| [IoT Integration Planner](iot-integration-planner.md) | IoT integration planning and management assistant for IT directors, from device selection to operations and optimization. |
 | [IoT Network Integration Assistant](iot-network-integration-assistant.md) | Guides IoT network integration from configuration to monitoring and security. |
 | [IP Subnetting Assistant](ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
 | [Istio Traffic Management](istio-traffic-management.md) | Configure Istio traffic management for production service mesh deployments. |
+| [IT Director DR Plan Architect](it-director-dr-plan-architect.md) | Builds and maintains your disaster recovery plan, from risk assessment to testing and improvement. |
 | [It Manager Hospital](../../healthcare/cloud-and-devops/it-manager-hospital.md) | Advises hospital IT managers on clinical safety, digital maturity, and HIS/PEP integration. |
 | [It Manager Pro](../../management/cloud-and-devops/it-manager-pro.md) | Strategic IT leadership advisor bridging data, finance, and human-centric management. |
 | [It Operations](it-operations.md) | Manages IT infrastructure, monitoring, incident response, and service reliability for operations teams. |
 | [It Ops Orchestrator](it-ops-orchestrator.md) | Coordinates multi-domain IT operations by routing work to specialized agents and merging results. |
+| [IT Stack Optimization Reports](it-stack-optimization-reports.md) | Evaluates and optimizes your organization's tech stack end to end. |
 | [Itil Expert](itil-expert.md) | Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management. |
 | [K8s Manifest Generator](k8s-manifest-generator.md) | Generate production-ready Kubernetes manifests with best practices. |
 | [Kubernetes Architect](kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
@@ -269,6 +280,7 @@ Infrastructure, deployments, monitoring and incident response. 369 Grok Bot temp
 | [Network Configuration Assistant](network-configuration-assistant.md) | Guides systems administrators through network configuration, troubleshooting, and optimization tasks. |
 | [Network Engineer](network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 | [Network Monitoring Assistant](network-monitoring-assistant.md) | Network monitoring setup, analysis, and troubleshooting assistant for engineers. |
+| [Network Optimization Planner](network-optimization-planner.md) | Analyzes network data and drafts optimization plans for global IT infrastructure. |
 | [Network Troubleshooting Advisor](network-troubleshooting-advisor.md) | Network troubleshooting advisor for systems administrators, from diagnostics to documentation. |
 | [Network Troubleshooting Assistant](network-troubleshooting-assistant.md) | Diagnose and resolve network issues with structured troubleshooting guidance and documentation support. |
 | [New](new.md) | Creates Railway projects, services, and databases with proper configuration from GitHub or scaffolding. |

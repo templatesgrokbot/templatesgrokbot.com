@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 101 Grok Bot templates, 42 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 106 Grok Bot templates, 42 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Clean, query, chart and explain data. 101 Grok Bot templates, 42 of them filed i
 | [Budget Forecasting Assistant](budget-forecasting-assistant.md) | Build and maintain accurate budget forecasts from your financial data. |
 | [Cash Flow Forecaster](cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your bank, AR, AP, and payroll data, flagging crunch weeks. |
 | [Cash Flow Management Assistant](cash-flow-management-assistant.md) | Cash flow forecasting, tracking, reporting, and optimization for accountants, from data to decisions. |
+| [CEO Financial Forecaster](../../executives-and-strategy/data-analysis/ceo-financial-forecaster.md) | Turns your financial data into forecasts, models, and reports for confident decisions. |
 | [Client Financial Advisory Assistant](client-financial-advisory-assistant.md) | Prepares client financial advice across statements, budgets, taxes, investments, retirement, risk, cash flow, debt, valuation, succession, estate,… |
 | [Compliance Cost Analyst](../../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
@@ -34,6 +35,7 @@ Clean, query, chart and explain data. 101 Grok Bot templates, 42 of them filed i
 | [Data Cleaner](../../it-and-development/data-analysis/data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
 | [Data Entry and Database Management Assistant](data-entry-and-database-management-assistant.md) | Handles data entry, database upkeep, validation, migration, analysis, reporting, security, and backups for administrative assistants. |
 | [Data Reporting Assistant](../../operations/data-analysis/data-reporting-assistant.md) | Turns raw data into clean, analyzed, and presentation-ready reports for data entry specialists. |
+| [Data Visualization Guide](../../it-and-development/data-analysis/data-visualization-guide.md) | Turns raw business data into clear, compelling visualizations and dashboards for stakeholder decisions. |
 | [Deal Room Risk Analyst](deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
 | [Doordash Order Ledger](../../operations/data-analysis/doordash-order-ledger.md) | Answers questions about DoorDash spending and ordering history from an audit log. |
 | [E-commerce Fraud Detection Assistant](../../management/data-analysis/e-commerce-fraud-detection-assistant.md) | Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud. |
@@ -48,6 +50,7 @@ Clean, query, chart and explain data. 101 Grok Bot templates, 42 of them filed i
 | [Expense Tracking and Analysis Assistant](expense-tracking-and-analysis-assistant.md) | Analyzes, categorizes, and reports expenses for accurate financial tracking and cost control. |
 | [Financial Data Interpreter](financial-data-interpreter.md) | Interprets financial data and drafts reports for accountants. |
 | [Financial Document Parser](financial-document-parser.md) | Extracts structured data from financial documents and categorizes expenses. |
+| [Financial Forecast Assistant](../../it-and-development/data-analysis/financial-forecast-assistant.md) | Builds and maintains your financial forecasts from data collection to stakeholder reporting. |
 | [Financial Forecasting Assistant](../../management/data-analysis/financial-forecasting-assistant.md) | Turns your business unit's financial data into forecasts, reports, and risk insights. |
 | [Financial Modeling Assistant](financial-modeling-assistant.md) | Builds financial models and analyses for accounting decisions. |
 | [Financial Modeling Consultant](../../management/data-analysis/financial-modeling-consultant.md) | Builds and analyzes financial models for management consulting decisions. |
@@ -56,6 +59,7 @@ Clean, query, chart and explain data. 101 Grok Bot templates, 42 of them filed i
 | [Insurance Finance Reporting Assistant](../../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Investment Analysis Assistant](investment-analysis-assistant.md) | Analyzes investments, builds valuations, and drafts reports for accountant decisions. |
 | [Invoice Organizer](../../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
+| [IT Budget Forecasting Assistant](../../it-and-development/data-analysis/it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
 | [Job Profitability Analyzer](job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Legal Billing Systems Assistant](../../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
 | [Licensing and Royalty Manager](../../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
@@ -75,6 +79,7 @@ Clean, query, chart and explain data. 101 Grok Bot templates, 42 of them filed i
 | [Patent Valuation Analyst](../../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Performance Report](../../executives-and-strategy/data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Portfolio Digest](portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
+| [Portfolio Strategy Analyst](../../it-and-development/data-analysis/portfolio-strategy-analyst.md) | Analyzes investments, builds strategies, and tracks performance for business analysts. |
 | [Pricing Strategy Analyst](../../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
 | [Procurement Cost Analyzer](../../operations/data-analysis/procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |
 | [Production Budget Forecaster](../../operations/data-analysis/production-budget-forecaster.md) | Forecast production budgets and track spending for accurate financial planning. |

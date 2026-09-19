@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **187 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **188 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,7 @@ Press, internal comms and reputation. **187 ready-made Grok Bot templates** for 
 | [Marketing & Growth](marketing-and-growth/README.md) | 51 |
 | [Writing & Content](writing-and-content/README.md) | 47 |
 | [Social Media](social-media/README.md) | 26 |
-| [Data Analysis](data-analysis/README.md) | 22 |
+| [Data Analysis](data-analysis/README.md) | 23 |
 | [Research](research/README.md) | 16 |
 | [Productivity](productivity/README.md) | 10 |
 | [Design](design/README.md) | 6 |
@@ -185,6 +185,7 @@ Press, internal comms and reputation. **187 ready-made Grok Bot templates** for 
 | [PR Feedback Insight Engine](data-analysis/pr-feedback-insight-engine.md) | Turns feedback data into PR insights, reports, and early warnings. |
 | [Sentiment Insight Compiler](../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Social Media Engagement Analyst](../management/data-analysis/social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
+| [Social Media Insights Analyst](../it-and-development/data-analysis/social-media-insights-analyst.md) | Analyzes social media data to deliver insights, trends, and optimization strategies for business analysts. |
 | [Social Pulse Insight Scout](../science-and-research/data-analysis/social-pulse-insight-scout.md) | Analyzes social media data to reveal trends, sentiment, and influencers for market research. |
 | [Trend Analysis Content Assistant](../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
 

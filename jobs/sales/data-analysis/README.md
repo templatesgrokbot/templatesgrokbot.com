@@ -1,6 +1,6 @@
 # Data Analysis templates for Sales
 
-Clean, query, chart and explain data. 83 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 84 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -31,6 +31,7 @@ Clean, query, chart and explain data. 83 Grok Bot templates, 68 of them filed in
 | [Email Marketing Analytics Assistant](email-marketing-analytics-assistant.md) | Turns your email campaign data into clear insights and reports. |
 | [Feedback to Sales Actions](feedback-to-sales-actions.md) | Turns customer feedback into clear insights and actions for sales and marketing. |
 | [Footballbin Predictions](../../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
+| [Forecast Builder with Approvals](../../it-and-development/data-analysis/forecast-builder-with-approvals.md) | Builds, checks, and updates sales forecasts from your data, with approval before any action. |
 | [Forecast Insight Report Builder](forecast-insight-report-builder.md) | Turns sales data into forecasts, insights, and reports for confident planning. |
 | [Forecast Modeling for Reps](forecast-modeling-for-reps.md) | Analyzes sales data and market signals to produce accurate, scenario-tested forecasts. |
 | [Freight Broker Financial Analyst](freight-broker-financial-analyst.md) | Analyzes freight brokerage finances and market data to guide profitable decisions. |

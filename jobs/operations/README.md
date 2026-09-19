@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,257 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,265 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,9 +11,9 @@ Processes, logistics and the systems that run a business. **1,257 ready-made Gro
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 422 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 188 |
-| [Productivity](productivity/README.md) | 177 |
+| [Data Analysis](data-analysis/README.md) | 427 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 189 |
+| [Productivity](productivity/README.md) | 179 |
 | [Security & Compliance](security-and-compliance/README.md) | 96 |
 | [Research](research/README.md) | 82 |
 | [Coding](coding/README.md) | 60 |
@@ -49,7 +49,7 @@ Processes, logistics and the systems that run a business. **1,257 ready-made Gro
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 422 Data Analysis templates →](data-analysis/README.md)
+[All 427 Data Analysis templates →](data-analysis/README.md)
 
 ## Cloud & DevOps
 
@@ -64,7 +64,7 @@ Processes, logistics and the systems that run a business. **1,257 ready-made Gro
 | [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
 
-[All 188 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 189 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Productivity
 
@@ -79,7 +79,7 @@ Processes, logistics and the systems that run a business. **1,257 ready-made Gro
 | [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 177 Productivity templates →](productivity/README.md)
+[All 179 Productivity templates →](productivity/README.md)
 
 ## Security & Compliance
 

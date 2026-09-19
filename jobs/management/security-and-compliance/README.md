@@ -1,6 +1,6 @@
 # Security & Compliance templates for Management
 
-Authorised security testing, audits and regulatory work. 35 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 36 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Authorised security testing, audits and regulatory work. 35 Grok Bot templates, 
 | [Business Unit Risk Manager](business-unit-risk-manager.md) | Risk management assistant for business unit managers covering identification, assessment, mitigation, monitoring, and reporting. |
 | [Chemical Compliance Assistant](../../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
 | [Client Risk Assessment Assistant](client-risk-assessment-assistant.md) | Streamlines client risk assessment from data collection to monitoring and reporting. |
+| [Compliance and Regulatory Assistant](compliance-and-regulatory-assistant.md) | Guides project managers through compliance research, documentation, audits, training, and regulatory updates. |
 | [Compliance Audit Preparation Assistant](../../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
 | [Compliance Monitoring Assistant](../../legal/security-and-compliance/compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
 | [Construction Quality Control Assistant](../../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |

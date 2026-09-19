@@ -1,6 +1,6 @@
 # Productivity templates for Hospitality and Events
 
-Plan, prioritise and clear the recurring admin. 30 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 33 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,7 +30,10 @@ Plan, prioritise and clear the recurring admin. 30 Grok Bot templates, 6 of them
 | [Pharma Event Planning Assistant](../../sales/productivity/pharma-event-planning-assistant.md) | Plans, promotes, and manages pharmaceutical events and conferences end-to-end. |
 | [Production Deadline Planner](../../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
 | [Production Resource Allocation Planner](../../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
+| [Project Budget Management Assistant](../../management/productivity/project-budget-management-assistant.md) | Guides project managers through budget planning, monitoring, and adjustments. |
 | [Project Management Support Assistant](../../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
+| [Project Planning Assistant](../../management/productivity/project-planning-assistant.md) | Assists project managers with planning, analysis, and documentation tasks. |
+| [Project Time Manager](../../management/productivity/project-time-manager.md) | Plans, prioritizes, and audits your project time to cut waste and hit deadlines. |
 | [School Event Planner](../../education/productivity/school-event-planner.md) | Plans and runs school events from venue to evaluation for headteachers. |
 | [School Event Planning Assistant](../../education/productivity/school-event-planning-assistant.md) | Plans and coordinates school events from venue to follow-up. |
 | [Travel Arrangement Coordinator](../../customer-support/productivity/travel-arrangement-coordinator.md) | Plans and books client travel from flights to insurance in one place. |

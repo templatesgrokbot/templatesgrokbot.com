@@ -1,6 +1,6 @@
 # Productivity templates for Insurance
 
-Plan, prioritise and clear the recurring admin. 9 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 10 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Plan, prioritise and clear the recurring admin. 9 Grok Bot templates, 0 of them 
 | [Crisis Management and Response Assistant](../../management/productivity/crisis-management-and-response-assistant.md) | Guides insurance agency managers through crisis preparation, response, and recovery. |
 | [Fleet Insurance Manager](../../operations/productivity/fleet-insurance-manager.md) | Manages fleet insurance renewals, claims, coverage, costs, compliance, and safety from one chat. |
 | [Insurance Digital Transformation Planner](../../management/productivity/insurance-digital-transformation-planner.md) | Plans and oversees your agency's digital transformation, from customer analytics to automated processes. |
+| [Risk Analysis and Management Assistant](../../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Workflow Automation Architect](../../product-development/productivity/workflow-automation-architect.md) | Automates process workflows from data extraction to compliance and reporting. |
 | [Workflow Orchestrator](../../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
 

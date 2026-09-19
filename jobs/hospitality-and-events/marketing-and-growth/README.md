@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Hospitality and Events
 
-Campaigns, ads, conversion and launch plans. 24 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 25 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Campaigns, ads, conversion and launch plans. 24 Grok Bot templates, 2 of them fi
 | [Marketing Content Ideation Assistant](../../executives-and-strategy/marketing-and-growth/marketing-content-ideation-assistant.md) | Generates and refines content ideas, outlines, and scripts for marketing campaigns. |
 | [Performance Email Campaign Builder](../../sales/marketing-and-growth/performance-email-campaign-builder.md) | Plans, writes, and refines email campaigns from segmentation to performance analysis. |
 | [Pricing Strategy Developer](../../sales/marketing-and-growth/pricing-strategy-developer.md) | Develops and optimizes pricing strategies from market analysis to implementation and performance tracking. |
+| [Pricing Strategy Development Assistant](../../it-and-development/marketing-and-growth/pricing-strategy-development-assistant.md) | Develops and refines pricing strategies from market analysis to implementation for business analysts. |
 | [Pricing Strategy Formulation Assistant](../../management/marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
 | [Reputation Management Monitor](../../pr-and-communications/marketing-and-growth/reputation-management-monitor.md) | Monitors brand sentiment, manages crises, and builds reputation strategies from social and review data. |
 | [Social Media Strategy Planner](../../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |

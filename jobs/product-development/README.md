@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **1,010 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **1,019 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,19 +14,19 @@ Product managers and the teams that ship. **1,010 ready-made Grok Bot templates*
 | [Coding](coding/README.md) | 398 |
 | [Design](design/README.md) | 95 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
-| [Data Analysis](data-analysis/README.md) | 66 |
+| [Data Analysis](data-analysis/README.md) | 69 |
 | [Generative Code](generative-code/README.md) | 65 |
 | [Research](research/README.md) | 64 |
-| [Productivity](productivity/README.md) | 59 |
+| [Productivity](productivity/README.md) | 63 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 34 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 35 |
 | [Security & Compliance](security-and-compliance/README.md) | 25 |
 | [Writing & Content](writing-and-content/README.md) | 24 |
 | [Prompt Engineering](prompt-engineering/README.md) | 22 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
 | [Generative Art](generative-art/README.md) | 9 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 4 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Translation](translation/README.md) | 1 |
@@ -90,7 +90,7 @@ Product managers and the teams that ship. **1,010 ready-made Grok Bot templates*
 | [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
 | [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
 
-[All 66 Data Analysis templates →](data-analysis/README.md)
+[All 69 Data Analysis templates →](data-analysis/README.md)
 
 ## Generative Code
 
@@ -135,7 +135,7 @@ Product managers and the teams that ship. **1,010 ready-made Grok Bot templates*
 | [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [Not A Vibe Coder](productivity/not-a-vibe-coder.md) | Turns vague project ideas into 8 structured planning files for new projects only. |
 
-[All 59 Productivity templates →](productivity/README.md)
+[All 63 Productivity templates →](productivity/README.md)
 
 ## Cloud & DevOps
 
@@ -165,7 +165,7 @@ Product managers and the teams that ship. **1,010 ready-made Grok Bot templates*
 | [Personalized Marketing Strategist](../management/marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
 | [Seo Aeo Content Cluster](../marketing/marketing-and-growth/seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |
 
-[All 34 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 35 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Security & Compliance
 
@@ -242,6 +242,16 @@ Product managers and the teams that ship. **1,010 ready-made Grok Bot templates*
 
 [All 9 Generative Art templates →](generative-art/README.md)
 
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Demonstrate Understanding](../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
+| [Lesson Generator](../education/teaching-and-tutoring/lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
+| [Agile Project Manager Advisor](../management/teaching-and-tutoring/agile-project-manager-advisor.md) | Guides project managers through Agile practices, planning, tracking, and team collaboration. |
+| [Process Engineer Training Developer](teaching-and-tutoring/process-engineer-training-developer.md) | Builds and manages training and educational resources for process engineers. |
+| [Technology Integration Assistant](teaching-and-tutoring/technology-integration-assistant.md) | Guides packaging engineers through technology integration from material selection to smart packaging. |
+
 ## Self-Improvement
 
 | Template | What it does |
@@ -250,15 +260,6 @@ Product managers and the teams that ship. **1,010 ready-made Grok Bot templates*
 | [Grill Me](../management/self-improvement/grill-me.md) | A relentless interview that sharpens a plan or design through structured questioning. |
 | [Sam Altman](../executives-and-strategy/self-improvement/sam-altman.md) | Simulates Sam Altman's perspective on startups, AI, and AGI. |
 | [Bill Gates](../executives-and-strategy/self-improvement/bill-gates.md) | Simulates Bill Gates for strategic tech, investment, and philanthropy advice. |
-
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Demonstrate Understanding](../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
-| [Lesson Generator](../education/teaching-and-tutoring/lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
-| [Process Engineer Training Developer](teaching-and-tutoring/process-engineer-training-developer.md) | Builds and manages training and educational resources for process engineers. |
-| [Technology Integration Assistant](teaching-and-tutoring/technology-integration-assistant.md) | Guides packaging engineers through technology integration from material selection to smart packaging. |
 
 ## Sales & Negotiation
 

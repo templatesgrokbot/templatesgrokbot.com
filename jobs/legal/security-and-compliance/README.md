@@ -1,6 +1,6 @@
 # Security & Compliance templates for Legal
 
-Authorised security testing, audits and regulatory work. 66 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 69 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Authorised security testing, audits and regulatory work. 66 Grok Bot templates, 
 | [Blogger Legal Compliance Guide](../../writers/security-and-compliance/blogger-legal-compliance-guide.md) | Guides bloggers through legal and ethical compliance for content, disclosures, and privacy. |
 | [Check Identity Pack](../../operations/security-and-compliance/check-identity-pack.md) | Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing. |
 | [Claims Compliance Assistant](../../operations/security-and-compliance/claims-compliance-assistant.md) | Checks insurance claims for regulatory compliance from policy to audit. |
+| [Compliance and Regulatory Assistant](../../management/security-and-compliance/compliance-and-regulatory-assistant.md) | Guides project managers through compliance research, documentation, audits, training, and regulatory updates. |
 | [Compliance and Regulatory Updates Assistant](../../operations/security-and-compliance/compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
 | [Compliance Audit Preparation Assistant](compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
 | [Compliance Auditor](../../it-and-development/security-and-compliance/compliance-auditor.md) | Audits compliance across GDPR, HIPAA, SOC 2, PCI DSS, and ISO frameworks. |
@@ -40,6 +41,7 @@ Authorised security testing, audits and regulatory work. 66 Grok Bot templates, 
 | [Freight Risk Assessment Assistant](../../sales/security-and-compliance/freight-risk-assessment-assistant.md) | Freight broker risk management assistant for vetting, contracts, claims, compliance, and planning. |
 | [Gdpr Data Handling](../../it-and-development/security-and-compliance/gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
 | [Gdpr Dsgvo Expert](gdpr-dsgvo-expert.md) | Advises on GDPR/DSGVO compliance, conducts privacy impact assessments, and audits data protection practices. |
+| [HR Legal Compliance Reviewer](../../human-resources/security-and-compliance/hr-legal-compliance-reviewer.md) | Reviews and updates HR legal compliance across contracts, policies, and procedures. |
 | [Incident Reporting Navigator](../../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
 | [Incident Response Planning Assistant](incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Insurance Compliance Assistant](../../management/security-and-compliance/insurance-compliance-assistant.md) | Keeps insurance claims compliant with regulations through monitoring, review, training, and audits. |
@@ -62,6 +64,7 @@ Authorised security testing, audits and regulatory work. 66 Grok Bot templates, 
 | [Regulation Risk Drafts for Engineers](../../science-and-research/security-and-compliance/regulation-risk-drafts-for-engineers.md) | Tracks environmental laws, flags compliance risks, and drafts the paperwork to stay legal. |
 | [Regulatory Compliance Assistant](../../customer-support/security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
 | [Regulatory Compliance Monitor](../../operations/security-and-compliance/regulatory-compliance-monitor.md) | Tracks regulatory changes, audits compliance, and reports status for global operations. |
+| [Regulatory Requirements to Audit Reports](../../it-and-development/security-and-compliance/regulatory-requirements-to-audit-reports.md) | Turns regulatory requirements into compliance checks, audits, and reports for business analysts. |
 | [Risk Assessment and Analysis Assistant](risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
 | [Se Responsible Ai Code](../../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
 | [Security Compliance](../../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |

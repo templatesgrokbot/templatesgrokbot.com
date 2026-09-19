@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 178 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 183 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -91,6 +91,7 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 93 of them filed i
 | [Inventory Insights Analyst](inventory-insights-analyst.md) | Turns inventory data into demand forecasts, stock-level recommendations, and supplier insights for purchasing decisions. |
 | [Inventory Manager Supplier Risk Scorecard](../../operations/data-analysis/inventory-manager-supplier-risk-scorecard.md) | Evaluates supplier performance, flags risks, and drives improvement plans for inventory managers. |
 | [Inventory Optimization Assistant](inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
+| [IT Support Optimization Assistant](../../it-and-development/data-analysis/it-support-optimization-assistant.md) | Optimize global IT customer support through AI-driven analysis, automation, and proactive issue resolution. |
 | [Job Description Analyzer](../../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
 | [Kpi Dashboard Design](kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
 | [Lab Data Analysis Assistant](../../science-and-research/data-analysis/lab-data-analysis-assistant.md) | Turns lab data into clear analyses, charts, and recommendations for lab managers. |
@@ -116,6 +117,7 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 93 of them filed i
 | [Otif Analysis](../../operations/data-analysis/otif-analysis.md) | Audit delivery OTIF from order data, find metric gaps, and pinpoint where lateness concentrates. |
 | [Performance Metrics Manager](performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Pipeline Health Analyzer](../../sales/data-analysis/pipeline-health-analyzer.md) | Analyze pipeline health, flag stalled deals, forecast closes, and prescribe next actions. |
+| [Post-Project Analysis Assistant](post-project-analysis-assistant.md) | Turns completed project data into a lessons-learned report and future-project recommendations. |
 | [Predictive Maintenance Scheduler](predictive-maintenance-scheduler.md) | Analyzes equipment data, predicts failures, and schedules maintenance to maximize uptime. |
 | [Pricing Strategy Analyst](pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
 | [Process Reengineering Consultant](process-reengineering-consultant.md) | Maps, analyzes, and improves business processes for management consultants. |
@@ -130,6 +132,7 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 93 of them filed i
 | [Production Scheduling](../../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Production Scheduling Optimizer](../../operations/data-analysis/production-scheduling-optimizer.md) | Builds, monitors, and optimizes production schedules from data and stakeholder input. |
 | [Project Analytics Operations Assistant](../../operations/data-analysis/project-analytics-operations-assistant.md) | Turns project data into forecasts, risk warnings, and dashboards for ops managers. |
+| [Project Data Analysis Assistant](project-data-analysis-assistant.md) | Turns raw project data into analysis, insights, and decision-ready reports for project managers. |
 | [Project Management Insight Assistant](../../operations/data-analysis/project-management-insight-assistant.md) | Tracks project tasks, resources, risks, budgets, timelines, quality, and stakeholder communication for operations directors. |
 | [Promotional Effectiveness Analyst](promotional-effectiveness-analyst.md) | Analyzes promotional effectiveness from sales, feedback, and competitor data to recommend improvements and optimize budget. |
 | [Purchasing Budget and Cost Analyst](purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
@@ -138,6 +141,7 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 93 of them filed i
 | [Real-Time Logistics Monitor](../../operations/data-analysis/real-time-logistics-monitor.md) | Real-time logistics monitoring and analysis for a logistics planner's operations. |
 | [Rehabilitation Analyzer](../../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
 | [Rep Performance Scorecard](../../sales/data-analysis/rep-performance-scorecard.md) | Builds multi-dimensional rep performance scorecards with coaching priorities and peer benchmarks. |
+| [Resource Allocation Strategist](resource-allocation-strategist.md) | Analyzes resource data and proposes allocation strategies for project managers. |
 | [Retail Inventory Optimizer](retail-inventory-optimizer.md) | Forecasts demand, optimizes stock, and prevents shrinkage for retail managers. |
 | [Retail Sales Trend Analyst](retail-sales-trend-analyst.md) | Turns retail sales data into trend insights, forecasts, and strategy recommendations. |
 | [Retail Sustainability Analyst](retail-sustainability-analyst.md) | Analyzes retail sustainability data and generates actionable recommendations for greener operations. |
@@ -157,6 +161,7 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 93 of them filed i
 | [Social Media Engagement Analyst](social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
 | [Social Media Performance Analyst](social-media-performance-analyst.md) | Analyzes your social media performance and gives actionable insights for e-commerce growth. |
 | [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
+| [Stakeholder Engagement Analyst](../../it-and-development/data-analysis/stakeholder-engagement-analyst.md) | Maps, analyzes, and reports on stakeholders to sharpen engagement strategies. |
 | [Startup Analyst](../../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Store Layout Optimization Assistant](store-layout-optimization-assistant.md) | Optimizes retail store layouts using data-driven insights for better flow and sales. |
 | [Subcontractor Evaluation Assistant](../../real-estate-and-construction/data-analysis/subcontractor-evaluation-assistant.md) | Evaluates and selects subcontractors for construction projects through structured assessments. |

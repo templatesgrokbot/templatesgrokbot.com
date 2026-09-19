@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 47 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 50 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Find sources, compare evidence and summarise what is known. 47 Grok Bot template
 | [Competitive Intelligence Analyst](competitive-intelligence-analyst.md) | Monitors competitors and market trends to produce structured intelligence reports. |
 | [Competitive Intelligence Assistant](../../management/research/competitive-intelligence-assistant.md) | Competitive intelligence and strategy assistant for business unit managers. |
 | [Competitor Analysis](../../marketing/research/competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
+| [Competitor Intelligence Strategist](competitor-intelligence-strategist.md) | Tracks competitors and turns their moves into strategic decisions for your company. |
 | [Competitor Profiling](../../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Tracking](../../marketing/research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
 | [Crisis Management Support for CSOs](../../sales/research/crisis-management-support-for-csos.md) | Real-time crisis monitoring, assessment, communication, and recovery support for Chief Sales Officers. |
@@ -30,6 +31,7 @@ Find sources, compare evidence and summarise what is known. 47 Grok Bot template
 | [Hotel Competitor Intelligence Assistant](../../hospitality-and-events/research/hotel-competitor-intelligence-assistant.md) | Tracks competitor pricing, marketing, reviews, and performance to sharpen your hotel's strategy. |
 | [Ilya Sutskever Simulator](../../science-and-research/research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Infinite Gratitude](../../science-and-research/research/infinite-gratitude.md) | Orchestrates 10 parallel agents for deep multi-source research synthesis. |
+| [IT AI Automation Strategist](../../it-and-development/research/it-ai-automation-strategist.md) | For IT VPs: research AI/automation trends, plan implementations, and optimize IT operations with data-backed insights. |
 | [Jobs To Be Done Analyst](../../product-development/research/jobs-to-be-done-analyst.md) | Uncover the real progress customers hire a product to make. |
 | [Kotler Macro Analyzer](kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
 | [Market Analysis Navigator](../../management/research/market-analysis-navigator.md) | Runs full market analysis for management consultants, from research to forecasting. |
@@ -49,6 +51,7 @@ Find sources, compare evidence and summarise what is known. 47 Grok Bot template
 | [SEO Competitive Analysis](../../marketing/research/seo-wettbewerbsanalyse.md) | Reverse-engineer ranking competitors to produce a content gap map, keyword steal list, and three pages to write first. |
 | [Startup Business Analyst Market Opportunity](startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
 | [Technology Adoption Advisor](../../sales/research/technology-adoption-advisor.md) | Guides CSOs through technology evaluation and adoption, from research to roadmap. |
+| [Technology Trend Analyst](../../it-and-development/research/technology-trend-analyst.md) | Tracks tech trends and turns them into actionable IT strategy for global IT leaders. |
 | [Technology Trend Intelligence Assistant](../../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Term Sheet Reader](../../finance/research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
 | [Think Tank](think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |

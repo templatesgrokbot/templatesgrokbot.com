@@ -1,6 +1,6 @@
 # Writing & Content templates for Human Resources
 
-Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 37 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,7 @@ Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 20
 | [Compliance Communication Planner](../../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Conflict Resolution Advisor](conflict-resolution-advisor.md) | Helps HR directors analyze, resolve, and prevent workplace conflicts with tailored advice and resources. |
 | [Conflict Resolution Strategist](conflict-resolution-strategist.md) | Builds conflict resolution strategies, policies, training, and tools for HR consultants. |
+| [Conflict Resolution Toolkit](conflict-resolution-toolkit.md) | Turns conflict situations into structured resolution plans for HR specialists. |
 | [Cover Letter Generator](cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Cv Generator](cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [Employee Handbook Builder](employee-handbook-builder.md) | Builds a plain-English employee handbook for small businesses, flagging state-law checks for attorney review. |
@@ -18,14 +19,21 @@ Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 20
 | [Employment Contract Templates](employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Executive Resume Writer](executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 | [Freight Brokerage Training Developer](../../sales/writing-and-content/freight-brokerage-training-developer.md) | Builds and runs freight brokerage training programs from onboarding to ongoing development. |
+| [Global HR Policy Formulation Assistant](global-hr-policy-formulation-assistant.md) | Drafts, reviews, and benchmarks global HR policies from research to rollout. |
+| [HR Conflict Resolution Program Designer](hr-conflict-resolution-program-designer.md) | Guides HR leaders through every stage of workplace conflict resolution, from mediation to program design. |
 | [HR Policy Clarification Assistant](hr-policy-clarification-assistant.md) | Clarifies policies for HR directors by drafting, explaining, and auditing company procedures. |
 | [HR Policy Development Assistant](hr-policy-development-assistant.md) | Develops, reviews, and rolls out HR policies for consultants. |
+| [HR Policy Drafting Assistant](hr-policy-drafting-assistant.md) | Drafts, refines, and aligns HR policies with regulations and best practices. |
+| [HR Policy Review and Development Assistant](hr-policy-review-and-development-assistant.md) | Drafts, reviews, and updates HR policies with compliance and best-practice guidance. |
+| [HRIS Training and Support Creator](hris-training-and-support-creator.md) | Builds training and support materials for your HRIS users, from manuals to webinars to FAQs. |
 | [Internal Comms Community](../../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Internal Communication Planner](../../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
 | [Interview Prep Generator](interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Job Application Optimizer](job-application-optimizer.md) | Tailor resumes, cover letters, and interview prep to each job posting. |
 | [Job Post Writer](job-post-writer.md) | Writes honest, effective job posts that attract the right candidates for small businesses. |
 | [Linkedin Profile Optimizer](../../marketing/writing-and-content/linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
+| [Organizational Culture Development Assistant](organizational-culture-development-assistant.md) | Designs and analyzes culture initiatives for global HR leaders. |
+| [Performance Review Template Architect](performance-review-template-architect.md) | Builds and updates performance review templates for HR VPs, from standard to specialized. |
 | [Reference List Builder](reference-list-builder.md) | Formats professional reference lists and prepares reference materials for job applications. |
 | [Resume Bullet Writer](resume-bullet-writer.md) | Transform weak resume bullets into achievement-focused statements with metrics and impact. |
 | [Resume Formatter](resume-formatter.md) | Reformats resumes for ATS compatibility and clean, scannable layouts. |

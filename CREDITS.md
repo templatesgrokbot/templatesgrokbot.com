@@ -1,6 +1,6 @@
 # Credits
 
-3,275 of the 5,101 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
+3,276 of the 5,250 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
 
 Every adapted template also names its original (`adapted_from`) and its license (`source_license`) in its front matter, and links back here at the end of the file.
 
@@ -101,6 +101,7 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-minimax-ai-cli.md) |
 | [github.com/networkx/networkx](https://github.com/networkx/networkx) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-networkx-networkx.md) |
 | [github.com/NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 1 | [Apache-2.0](LICENSES/Apache-2.0.md) | [list](credits/github-com-nevamind-ai-memu.md) |
+| [github.com/nexibeo/jev-browser-control](https://github.com/nexibeo/jev-browser-control) | 1 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-nexibeo-jev-browser-control.md) |
 | [github.com/NotMyself/claude-win11-speckit-update-skill](https://github.com/NotMyself/claude-win11-speckit-update-skill) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-notmyself-claude-win11-speckit-update-skill.md) |
 | [github.com/nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-nowork-studio-notfair.md) |
 | [github.com/obra/superpowers-lab](https://github.com/obra/superpowers-lab) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-obra-superpowers-lab.md) |
@@ -135,7 +136,7 @@ Every adapted template also names its original (`adapted_from`) and its license 
 
 ## CompleteAiTraining.com lessons
 
-1,803 templates are built on lessons from [CompleteAiTraining.com](https://completeaitraining.com), TemplatesGrokBot's sister site for AI training by job. Each of them links its lesson at the end of the file: [list with every lesson](credits/completeaitraining-com.md).
+1,951 templates are built on lessons from [CompleteAiTraining.com](https://completeaitraining.com), TemplatesGrokBot's sister site for AI training by job. Each of them links its lesson at the end of the file: [list with every lesson](credits/completeaitraining-com.md).
 
 License texts and notices: [LICENSES/](LICENSES/README.md). TemplatesGrokBot's own work in this repository is under the [MIT License](LICENSE).
 

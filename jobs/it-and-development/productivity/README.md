@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 75 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 83 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -29,6 +29,8 @@ Plan, prioritise and clear the recurring admin. 75 Grok Bot templates, 25 of the
 | [Deadline Prep](../../management/productivity/deadline-prep.md) | Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you |
 | [Developer Signup Flow](../../product-development/productivity/developer-signup-flow.md) | Design frictionless developer signup flows with OAuth, instant API keys, and progressive profiling. |
 | [Diary](../../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
+| [Digital Transformation Initiative Assistant](digital-transformation-initiative-assistant.md) | Steers digital transformation initiatives from strategy to execution with data-driven insights and hands-on support. |
+| [Digital Transformation Roadmap Planner](digital-transformation-roadmap-planner.md) | Plans and guides your company's digital transformation from assessment to execution. |
 | [Doordash Order Playbooks](../../operations/productivity/doordash-order-playbooks.md) | Save and recall DoorDash orders with drift detection before checkout. |
 | [Doordash Spend Guard](../../operations/productivity/doordash-spend-guard.md) | Enforces hard spending caps on DoorDash orders through a deterministic wrapper. |
 | [Dropbox Automation](../../operations/productivity/dropbox-automation.md) | Automate Dropbox file management, sharing, search, uploads, downloads, and folder operations. |
@@ -38,6 +40,9 @@ Plan, prioritise and clear the recurring admin. 75 Grok Bot templates, 25 of the
 | [Gmail Automation](../../operations/productivity/gmail-automation.md) | Search, read, send, and manage Gmail messages via CLI scripts with OAuth. |
 | [Google Drive Automation](../../operations/productivity/google-drive-automation.md) | Full read/write access to Google Drive with standalone OAuth. |
 | [Hackathon Ai Strategist](../../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
+| [IT Project Management Assistant](it-project-management-assistant.md) | IT project planning, risk, resource, and stakeholder support for Vice Presidents of IT. |
+| [IT Strategy Formulation Assistant](it-strategy-formulation-assistant.md) | Turns IT landscape data into a strategic plan for a Vice President of IT, with approvals before any action. |
+| [IT Talent Acquisition Planner](it-talent-acquisition-planner.md) | Guides IT leaders through the full talent acquisition cycle, from market analysis to onboarding, with actionable AI-assisted strategies. |
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Linear](linear.md) | Read, create, and update Linear issues, projects, and team workflows. |
 | [Linear Automation](linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
@@ -61,12 +66,15 @@ Plan, prioritise and clear the recurring admin. 75 Grok Bot templates, 25 of the
 | [Plugin Structure](plugin-structure.md) | Scaffolds and explains Claude Code plugin structure, manifest, and component organization. |
 | [Project Supervisor Orchestrator](../../operations/productivity/project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
 | [Refine Issue](refine-issue.md) | Enriches GitHub issues with acceptance criteria, edge cases, and technical notes. |
+| [Risk Analysis and Management Assistant](risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Schedule Tasks](../../operations/productivity/anthropic-schedule.md) | Run recurring tasks automatically: a briefing every morning, a weekly plan every Monday, an inbox check every hour. |
 | [Screenshot](screenshot.md) | Captures desktop screenshots on macOS, Linux, or Windows when explicitly requested. |
 | [Sendblue Cli](sendblue-cli.md) | Send iMessage and SMS from the shell using the Sendblue CLI. |
 | [Sendblue Notify](sendblue-notify.md) | Text your phone when a long task finishes, via Sendblue iMessage notifications. No chatter, no spam. |
 | [Setup Cowork](anthropic-setup-cowork.md) | Interview the user, install role-matched plugins, connect tools, and run a first template. |
 | [Setup Help](setup-help.md) | Guide users through multi-step setup one action at a time. |
+| [Software License Lifecycle Manager](software-license-lifecycle-manager.md) | Manages the full software license lifecycle for IT directors, from inventory to optimization. |
+| [Strategic IT Planning Assistant](strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
 | [Stripe Automation](../../finance/productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [Task Intelligence](../../management/productivity/task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |
 | [Team Collaboration Standup Notes](../../management/productivity/team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |

@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 66 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 69 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Clean, query, chart and explain data. 66 Grok Bot templates, 34 of them filed in
 | [Analytics Product](../../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
 | [Barrier Protection Analysis Assistant](barrier-protection-analysis-assistant.md) | Analyzes barrier materials, predicts shelf life, and optimizes packaging protection for engineers. |
 | [Business Analyst](../../operations/data-analysis/business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
+| [CEO Feedback Action Planner](../../executives-and-strategy/data-analysis/ceo-feedback-action-planner.md) | Turns customer feedback into prioritized insights, trends, and action plans for your business. |
 | [Customer Demographic Insight Engine](../../management/data-analysis/customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
 | [Customer Feedback Insight Analyst](../../management/data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
 | [Customer Journey Mapping Assistant](../../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
@@ -40,6 +41,7 @@ Clean, query, chart and explain data. 66 Grok Bot templates, 34 of them filed in
 | [Packaging Cost Reduction Analyst](packaging-cost-reduction-analyst.md) | Analyzes packaging costs and identifies savings across materials, design, suppliers, and processes. |
 | [Packaging Damage Prevention Analyst](packaging-damage-prevention-analyst.md) | Analyze packaging designs for damage prevention and recommend improvements. |
 | [Packaging Sustainability Assessment](packaging-sustainability-assessment.md) | Sustainability assessments and reporting for packaging engineers. |
+| [Post-Project Analysis Assistant](../../management/data-analysis/post-project-analysis-assistant.md) | Turns completed project data into a lessons-learned report and future-project recommendations. |
 | [Posthog Automation](../../marketing/data-analysis/posthog-automation.md) | Automate PostHog analytics, feature flags, and project management via Rube MCP. |
 | [Predictive UX Behavior Analyst](predictive-ux-behavior-analyst.md) | Turns user behavior data into predictive insights and personalized UX actions. |
 | [Pricing Strategy Assistant](pricing-strategy-assistant.md) | Analyzes markets, segments customers, and builds pricing models to optimize your product pricing. |
@@ -55,6 +57,7 @@ Clean, query, chart and explain data. 66 Grok Bot templates, 34 of them filed in
 | [Product Feedback Insight Analyst](../../science-and-research/data-analysis/product-feedback-insight-analyst.md) | Turns customer feedback into clear insights and trend reports for product decisions. |
 | [Product Manager Toolkit](product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
 | [Product Metrics Analyst](product-metrics-analyst.md) | Turns product metrics into clear insights, reports, and recommendations. |
+| [Product Performance Insights](../../it-and-development/data-analysis/product-performance-insights.md) | Turns your product data into clear insights, forecasts, and decisions for business growth. |
 | [Product Usage Analytics Assistant](../../customer-support/data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
 | [Production Scheduling](../../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Prototype Testing Analysis Assistant](prototype-testing-analysis-assistant.md) | Analyzes prototype test data and generates reports for R&D engineers. |

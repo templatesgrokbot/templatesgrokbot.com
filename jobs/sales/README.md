@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **382 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Prospecting, pipeline and closing. **382 ready-made Grok Bot templates** for thi
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 106 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 91 |
-| [Data Analysis](data-analysis/README.md) | 83 |
+| [Data Analysis](data-analysis/README.md) | 84 |
 | [Research](research/README.md) | 32 |
 | [Writing & Content](writing-and-content/README.md) | 17 |
 | [Security & Compliance](security-and-compliance/README.md) | 10 |
@@ -265,6 +265,7 @@ Prospecting, pipeline and closing. **382 ready-made Grok Bot templates** for thi
 | [Email Marketing Analytics Assistant](data-analysis/email-marketing-analytics-assistant.md) | Turns your email campaign data into clear insights and reports. |
 | [Feedback to Sales Actions](data-analysis/feedback-to-sales-actions.md) | Turns customer feedback into clear insights and actions for sales and marketing. |
 | [Footballbin Predictions](../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
+| [Forecast Builder with Approvals](../it-and-development/data-analysis/forecast-builder-with-approvals.md) | Builds, checks, and updates sales forecasts from your data, with approval before any action. |
 | [Forecast Insight Report Builder](data-analysis/forecast-insight-report-builder.md) | Turns sales data into forecasts, insights, and reports for confident planning. |
 | [Forecast Modeling for Reps](data-analysis/forecast-modeling-for-reps.md) | Analyzes sales data and market signals to produce accurate, scenario-tested forecasts. |
 | [Freight Broker Financial Analyst](data-analysis/freight-broker-financial-analyst.md) | Analyzes freight brokerage finances and market data to guide profitable decisions. |

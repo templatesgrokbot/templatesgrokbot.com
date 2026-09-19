@@ -1,6 +1,6 @@
 # Data Analysis templates for Executives and Strategy
 
-Clean, query, chart and explain data. 77 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 85 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,9 +14,13 @@ Clean, query, chart and explain data. 77 Grok Bot templates, 10 of them filed in
 | [Brand Image Analyst](../../management/data-analysis/brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
 | [Business Strategy Analyst](../../management/data-analysis/business-strategy-analyst.md) | Turns market data and company inputs into strategic analysis, goals, and plans for management consultants. |
 | [Campaign Effectiveness Analyst](../../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
+| [CEO Feedback Action Planner](ceo-feedback-action-planner.md) | Turns customer feedback into prioritized insights, trends, and action plans for your business. |
+| [CEO Financial Forecaster](ceo-financial-forecaster.md) | Turns your financial data into forecasts, models, and reports for confident decisions. |
+| [CEO Supply Chain Optimizer](ceo-supply-chain-optimizer.md) | Optimizes your supply chain with data-driven insights and recommendations. |
 | [Client Feedback Insight Engine](../../sales/data-analysis/client-feedback-insight-engine.md) | Turns client feedback into categorized, sentiment-scored insights with trend, churn, and competitive analysis for sales VPs. |
 | [Compliance Benchmarking Analyst](../../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
 | [Compliance Cost Analyst](../../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
+| [COO Supply Chain Optimizer](coo-supply-chain-optimizer.md) | Optimizes supply chain operations from forecasting to sustainability for COOs. |
 | [CSO Market Trend Intel](../../sales/data-analysis/cso-market-trend-intel.md) | Market trend intelligence for CSOs: gather, analyze, forecast, and report on market movements. |
 | [CSO Pipeline Forecaster](../../sales/data-analysis/cso-pipeline-forecaster.md) | Turns sales data into forecasts, scenarios, and pipeline insights for a CSO's decisions. No hype, just analysis. |
 | [CSO Pricing Insight Advisor](../../sales/data-analysis/cso-pricing-insight-advisor.md) | Analyzes pricing data to sharpen strategy and boost revenue for sales leaders. |
@@ -33,6 +37,7 @@ Clean, query, chart and explain data. 77 Grok Bot templates, 10 of them filed in
 | [Insurance Competitive Intelligence Assistant](../../management/data-analysis/insurance-competitive-intelligence-assistant.md) | Turns competitor data into actionable insurance market intelligence for agency managers. |
 | [Insurance Finance Reporting Assistant](../../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Inventory Ops Forecaster](../../operations/data-analysis/inventory-ops-forecaster.md) | Turns your inventory data into operational insights, forecasts, and action plans. |
+| [IT Budget Forecasting Assistant](../../it-and-development/data-analysis/it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
 | [Job Profitability Analyzer](../../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [KPI Analysis and Forecasting Assistant](../../operations/data-analysis/kpi-analysis-and-forecasting-assistant.md) | Turns your KPI data into clear insights, forecasts, and action plans for operations decisions. |
 | [Kpi Dashboard Design](../../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
@@ -42,6 +47,7 @@ Clean, query, chart and explain data. 77 Grok Bot templates, 10 of them filed in
 | [Longbridge Fundamentals](../../finance/data-analysis/longbridge-fundamentals.md) | Pull financial statements, valuation multiples, and company profiles for HK/US/A-share/Singapore stocks via Longbridge. |
 | [M&A Evaluation Assistant](../../management/data-analysis/m-a-evaluation-assistant.md) | M&A evaluation assistant for senior managers: screening, due diligence, valuation, integration, and post-merger analysis. |
 | [Market Analysis Strategist](../../operations/data-analysis/market-analysis-strategist.md) | Turns market data into clear analysis and strategy for global operations. |
+| [Market Insight Strategist](market-insight-strategist.md) | Turns market data into strategic insights for CEO decisions. |
 | [Market Sizing Analysis](market-sizing-analysis.md) | Calculate TAM, SAM, and SOM for startup market sizing with three methodologies. |
 | [Market Trend Analyzer](../../management/data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
 | [Market Trend Navigator](../../sales/data-analysis/market-trend-navigator.md) | Market trend analysis and sales intelligence for Vice Presidents of Sales. |
@@ -52,6 +58,7 @@ Clean, query, chart and explain data. 77 Grok Bot templates, 10 of them filed in
 | [Offer Comparison Analyzer](../../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
 | [Operational Risk Management Assistant](../../operations/data-analysis/operational-risk-management-assistant.md) | Turns operational data into risk insights, plans, and reports for global operations heads. |
 | [Operations Data Insights Assistant](../../operations/data-analysis/operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |
+| [Operations Optimization Assistant](operations-optimization-assistant.md) | Optimizes operations end-to-end: analyze processes, data, and risks; suggest improvements; track KPIs. |
 | [Operations Trend Decoder](../../operations/data-analysis/operations-trend-decoder.md) | Delivers market trend analysis for VP of Operations decisions. |
 | [Operations Trend Strategist](../../operations/data-analysis/operations-trend-strategist.md) | Market trend analysis and strategic insights for Heads of Operations. |
 | [Operations Voice Decoder](../../operations/data-analysis/operations-voice-decoder.md) | Turns customer feedback into clear insights and improvement plans for operations leaders. |
@@ -81,6 +88,7 @@ Clean, query, chart and explain data. 77 Grok Bot templates, 10 of them filed in
 | [Trading Risk Manager](../../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
 | [VP Supply Chain Insight Engine](../../operations/data-analysis/vp-supply-chain-insight-engine.md) | Optimizes your supply chain with data-driven insights and recommendations. |
 | [Weekly Ops Report](../../management/data-analysis/weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |
+| [Workforce Analytics Insights](../../human-resources/data-analysis/workforce-analytics-insights.md) | Turns workforce data into clear insights for HR decisions. |
 | [Xvary Stock Research](../../finance/data-analysis/xvary-stock-research.md) | Thesis-driven equity analysis from public SEC EDGAR and market data. No advice, no non-public data. |
 | [Yield Intelligence](../../finance/data-analysis/yield-intelligence.md) | Analyze passive income opportunities and build yield-optimized portfolios. |
 

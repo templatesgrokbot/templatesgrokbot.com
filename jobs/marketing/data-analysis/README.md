@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 103 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 106 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Clean, query, chart and explain data. 103 Grok Bot templates, 30 of them filed i
 | [Ad Campaign Analyzer](ad-campaign-analyzer.md) | Analyze cross-channel ad data, quantify uncertainty, and propose evidence-labeled budget tests. |
 | [Adhx](adhx.md) | Fetch any X/Twitter post as clean JSON text, author info, and engagement data |
 | [Amplitude Automation](amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
+| [Analyst Market Trend Forecaster](../../it-and-development/data-analysis/analyst-market-trend-forecaster.md) | Market trend analysis assistant for business analysts, turning data into insights and forecasts. No hype, just analysis. |
 | [Analytics](analytics.md) | Set up, audit, and improve analytics tracking for actionable marketing and product insights. |
 | [Analytics Product](analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
 | [Analytics Tracking](../../it-and-development/data-analysis/analytics-tracking.md) | Set up, audit, and improve analytics tracking for reliable decision data. |
@@ -96,11 +97,13 @@ Clean, query, chart and explain data. 103 Grok Bot templates, 30 of them filed i
 | [Promotional Effectiveness Analyst](../../management/data-analysis/promotional-effectiveness-analyst.md) | Analyzes promotional effectiveness from sales, feedback, and competitor data to recommend improvements and optimize budget. |
 | [Quarterly Business Review Builder](quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Reddit Thread Analyzer](reddit-thread-analyzer.md) | Analyze Reddit threads for sentiment, key arguments, and community consensus. |
+| [Segment Blueprint for Analysts](../../it-and-development/data-analysis/segment-blueprint-for-analysts.md) | Guides business analysts through customer segmentation from data to action. |
 | [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Social Engagement Insights Analyst](social-engagement-insights-analyst.md) | Turns your social media engagement data into actionable strategy insights and campaign recommendations. |
 | [Social Media Analytics and Reporting Assistant](social-media-analytics-and-reporting-assistant.md) | Turns social media metrics into clear reports, insights, and recommendations for your marketing decisions. |
 | [Social Media Analytics Interpreter](social-media-analytics-interpreter.md) | Turns your social media analytics into clear insights and actionable strategy recommendations.​ |
 | [Social Media Engagement Analyst](../../management/data-analysis/social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
+| [Social Media Insights Analyst](../../it-and-development/data-analysis/social-media-insights-analyst.md) | Analyzes social media data to deliver insights, trends, and optimization strategies for business analysts. |
 | [Social Media Performance Analyst](../../management/data-analysis/social-media-performance-analyst.md) | Analyzes your social media performance and gives actionable insights for e-commerce growth. |
 | [Social Pulse Insight Scout](../../science-and-research/data-analysis/social-pulse-insight-scout.md) | Analyzes social media data to reveal trends, sentiment, and influencers for market research. |
 | [Supply Chain Impact Assessor](../../management/data-analysis/supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |

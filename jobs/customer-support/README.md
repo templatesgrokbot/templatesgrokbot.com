@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **116 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **117 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Answering, routing and resolving customer requests. **116 ready-made Grok Bot te
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 41 |
+| [Support & Community](support-and-community/README.md) | 42 |
 | [Data Analysis](data-analysis/README.md) | 26 |
 | [Productivity](productivity/README.md) | 15 |
 | [Writing & Content](writing-and-content/README.md) | 6 |
@@ -52,6 +52,7 @@ Answering, routing and resolving customer requests. **116 ready-made Grok Bot te
 | [Freight Broker Customer Communication Assistant](../sales/support-and-community/freight-broker-customer-communication-assistant.md) | Handles customer inquiries, quotes, updates, complaints, and education for freight brokerage clients. |
 | [Freshdesk Automation](support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
 | [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
+| [Help Desk Efficiency Director](../it-and-development/support-and-community/help-desk-efficiency-director.md) | Turns help desk tickets, chats, and metrics into faster resolutions and proactive IT support. |
 | [Helpdesk Automation](support-and-community/helpdesk-automation.md) | Browse helpdesk tickets, views, canned responses, and custom fields via Rube MCP. |
 | [Insurance Dispute Resolution Assistant](support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
 | [Insurance Payment Assistance Assistant](support-and-community/insurance-payment-assistance-assistant.md) | Handles insurance payment assistance: plans, extensions, reminders, processing, history, confirmations, and more. |

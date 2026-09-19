@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 244 Grok Bot templates, 237 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 253 Grok Bot templates, 246 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -64,6 +64,9 @@ Authorised security testing, audits and regulatory work. 244 Grok Bot templates,
 | [Cra Vulnerability Obligations](cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
 | [Cred Omega](cred-omega.md) | Enterprise credential and secret lifecycle management engine. |
 | [Cyber Audit](cyber-audit.md) | Read-only local exposure checks for CVEs & advisories with structured markdown reports. |
+| [Cybersecurity Management Assistant](cybersecurity-management-assistant.md) | Cybersecurity management assistant for global heads of IT, turning data into defense actions. |
+| [Cybersecurity Risk Assessment Assistant](cybersecurity-risk-assessment-assistant.md) | Guides IT VPs through cybersecurity risk assessments, from scans to reports. |
+| [Data Management Governance Assistant](data-management-governance-assistant.md) | Aides VPs of IT in data management tasks from classification to compliance. |
 | [Data Privacy Compliance](../../legal/security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
 | [Database Security](database-security.md) | Authorized database security assessment for PostgreSQL, MySQL, MSSQL, MongoDB, and Redis. |
 | [DeFi Security Auditor](defi-security-auditor.md) | Smart contract security audit bot for DeFi bug hunting and target scoring. |
@@ -103,7 +106,10 @@ Authorised security testing, audits and regulatory work. 244 Grok Bot templates,
 | [IDOR Vulnerability Hunter](idor-vulnerability-hunter.md) | Hunts IDOR vulnerabilities in web applications using proven bug bounty techniques. |
 | [Incident Reporting Navigator](incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
 | [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Infrastructure Audit Planner](infrastructure-audit-planner.md) | Conducts comprehensive IT infrastructure audits and delivers actionable reports. |
 | [iOS Red Team Pipeline](ios-red-team-pipeline.md) | End-to-end iOS red-team pipeline: acquire, analyze, and exploit iOS apps. |
+| [IT Compliance and Governance Assistant](it-compliance-and-governance-assistant.md) | Tracks regulatory compliance across IT, drafts policies, and prepares audits for global IT leadership. |
+| [IT Governance Toolkit Builder](it-governance-toolkit-builder.md) | Builds and maintains the compliance and governance toolkit for your IT organization. |
 | [Jfrog Sec](jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |
 | [JWT Forger](jwt-forger.md) | Forge JWTs to prove access to admin or other users' data. |
 | [K8s Security Policies](k8s-security-policies.md) | Implement defense-in-depth Kubernetes security with network policies, RBAC, and pod standards. |
@@ -164,7 +170,9 @@ Authorised security testing, audits and regulatory work. 244 Grok Bot templates,
 | [Red Team Report Formatter](red-team-report-formatter.md) | Formats client-facing red-team findings into a structured, severity-ranked report. |
 | [Red Team Tactics](red-team-tactics.md) | Adversary simulation advisor using MITRE ATT&CK for authorized red team exercises. |
 | [Red Team Tools](red-team-tools.md) | Automates reconnaissance and vulnerability discovery for authorized bug bounty hunting. |
+| [Regulatory Requirements to Audit Reports](regulatory-requirements-to-audit-reports.md) | Turns regulatory requirements into compliance checks, audits, and reports for business analysts. |
 | [Regulatory Threat Model](regulatory-threat-model.md) | Runs server-enforced STRIDE and LINDDUN threat models with live CVE data and EU regulatory grounding. |
+| [Remote Infrastructure Security Orchestrator](remote-infrastructure-security-orchestrator.md) | Secures, optimizes, and supports your remote work infrastructure with data-driven insights and automation. |
 | [Repo Publication Auditor](repo-publication-auditor.md) | Audits what a repository exposes before it goes public, checking history not just the working tree. |
 | [Reverse Engineer](reverse-engineer.md) | Binary reverse engineering for authorized security analysis and CTF challenges. |
 | [Review Action Gate](review-action-gate.md) | Gates AI agent review actions behind human approval with signed receipts. |
@@ -176,6 +184,7 @@ Authorised security testing, audits and regulatory work. 244 Grok Bot templates,
 | [Se Responsible Ai Code](se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
 | [Se Security Reviewer](se-security-reviewer.md) | Reviews code for security vulnerabilities using OWASP and Zero Trust standards. |
 | [Security And Hardening](security-and-hardening.md) | Hardens code against vulnerabilities by threat modeling and applying OWASP prevention patterns. |
+| [Security Assessment Planner](security-assessment-planner.md) | Security assessment assistant for IT directors: scans, tests, reviews, and plans responses. |
 | [Security Audit](security-audit.md) | Guides structured security audits for web apps, APIs, and infrastructure with checklists and reporting. |
 | [Security Auditor](security-auditor.md) | Conducts systematic security audits, compliance assessments, and risk evaluations across systems and processes. |
 | [Security Best Practices](security-best-practices.md) | Reviews code for language and framework specific security vulnerabilities and suggests fixes. |

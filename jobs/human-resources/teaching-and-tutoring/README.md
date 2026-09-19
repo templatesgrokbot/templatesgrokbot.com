@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Human Resources
 
-Explain, quiz and guide someone through a subject. 30 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 33 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Explain, quiz and guide someone through a subject. 30 Grok Bot templates, 9 of t
 | [Diversity Training Program Assistant](diversity-training-program-assistant.md) | Designs, runs, and evaluates inclusive workplace diversity training programs. |
 | [E-Learning Strategy Planner](e-learning-strategy-planner.md) | Helps Training and Development Specialists plan, build, and improve e-learning programs. |
 | [Employee Training Program Coordinator](../../operations/teaching-and-tutoring/employee-training-program-coordinator.md) | Designs, runs, and improves your team's training programs end to end. |
+| [Employee Training Program Developer](employee-training-program-developer.md) | Plans, builds, and evaluates employee training programs from needs analysis to reporting. |
 | [Employee Training Support Assistant](employee-training-support-assistant.md) | Designs, runs, and evaluates employee training programs with AI support. |
 | [Gamified Training Program Designer](../../education/teaching-and-tutoring/gamified-training-program-designer.md) | Designs and runs gamified training programs, from content to rewards, for training coordinators. |
 | [Interactive Training Designer](../../education/teaching-and-tutoring/interactive-training-designer.md) | Designs and evaluates interactive training modules, materials, and tools for engaging learning. |
@@ -32,8 +33,10 @@ Explain, quiz and guide someone through a subject. 30 Grok Bot templates, 9 of t
 | [Tech Upskilling Program Coordinator](tech-upskilling-program-coordinator.md) | Designs, runs, and evaluates tech upskilling programs for your organization. |
 | [Technology Adoption Training Planner](../../education/teaching-and-tutoring/technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
 | [Training Accessibility Assistant](../../education/teaching-and-tutoring/training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
+| [Training Program Coordinator](training-program-coordinator.md) | Designs, delivers, and evaluates training programs from needs analysis to career pathing. |
 | [Training Program Designer](../../management/teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
 | [Training Program Developer](../../sales/teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
+| [Training Program Development Assistant](training-program-development-assistant.md) | Develops, customizes, and evaluates employee training programs from needs analysis to continuous improvement. |
 | [Training Program Implementation Assistant](training-program-implementation-assistant.md) | Designs, delivers, and improves training programs from needs analysis to follow-up. |
 | [Virtual Training Facilitator](virtual-training-facilitator.md) | Plans, runs, and improves virtual training sessions for training specialists. |
 

@@ -1,6 +1,6 @@
 # Productivity templates for Finance
 
-Plan, prioritise and clear the recurring admin. 17 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 18 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,6 +20,7 @@ Plan, prioritise and clear the recurring admin. 17 Grok Bot templates, 12 of the
 | [Odoo Project Timesheet](../../operations/productivity/odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
 | [Payroll Process Assistant](payroll-process-assistant.md) | Assists accountants in managing payroll tasks from data entry to year-end filings. |
 | [Project Coordination Assistant](project-coordination-assistant.md) | Handles project scheduling, documents, communication, budgets, research, reports, and coordination for administrative assistants. |
+| [Risk Analysis and Management Assistant](../../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Stripe Automation](stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [Travel Arrangements Assistant](travel-arrangements-assistant.md) | Plans and books business travel, tracks expenses, and keeps trips compliant. |
 | [Vendor Watch](../../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |

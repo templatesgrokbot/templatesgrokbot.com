@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 250 Grok Bot templates, 133 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 251 Grok Bot templates, 133 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -174,6 +174,7 @@ Campaigns, ads, conversion and launch plans. 250 Grok Bot templates, 133 of them
 | [Pricing](pricing.md) | Design SaaS pricing tiers, value metrics, and monetization strategy based on customer willingness to pay. |
 | [Pricing Strategy](pricing-strategy.md) | Designs pricing, packaging, and monetization strategy based on customer willingness to pay and growth objectives. |
 | [Pricing Strategy Developer](../../sales/marketing-and-growth/pricing-strategy-developer.md) | Develops and optimizes pricing strategies from market analysis to implementation and performance tracking. |
+| [Pricing Strategy Development Assistant](../../it-and-development/marketing-and-growth/pricing-strategy-development-assistant.md) | Develops and refines pricing strategies from market analysis to implementation for business analysts. |
 | [Pricing Strategy Formulation Assistant](../../management/marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
 | [Product Launch Planner](../../management/marketing-and-growth/product-launch-planner.md) | Plans and executes product launches from market research to post-launch monitoring. |
 | [Product Launch Strategist](../../executives-and-strategy/marketing-and-growth/product-launch-strategist.md) | Plans and executes product launches from market research to performance review. |

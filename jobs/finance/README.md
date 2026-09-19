@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **174 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **182 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,11 @@ Accounting, budgeting, analysis and risk. **174 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 101 |
-| [Productivity](productivity/README.md) | 17 |
+| [Data Analysis](data-analysis/README.md) | 106 |
+| [Productivity](productivity/README.md) | 18 |
 | [Research](research/README.md) | 12 |
+| [Security & Compliance](security-and-compliance/README.md) | 11 |
 | [Coding](coding/README.md) | 9 |
-| [Security & Compliance](security-and-compliance/README.md) | 9 |
 | [Office Tools](office-tools/README.md) | 8 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 4 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
@@ -48,6 +48,7 @@ Accounting, budgeting, analysis and risk. **174 ready-made Grok Bot templates** 
 | [Budget Forecasting Assistant](data-analysis/budget-forecasting-assistant.md) | Build and maintain accurate budget forecasts from your financial data. |
 | [Cash Flow Forecaster](data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your bank, AR, AP, and payroll data, flagging crunch weeks. |
 | [Cash Flow Management Assistant](data-analysis/cash-flow-management-assistant.md) | Cash flow forecasting, tracking, reporting, and optimization for accountants, from data to decisions. |
+| [CEO Financial Forecaster](../executives-and-strategy/data-analysis/ceo-financial-forecaster.md) | Turns your financial data into forecasts, models, and reports for confident decisions. |
 | [Client Financial Advisory Assistant](data-analysis/client-financial-advisory-assistant.md) | Prepares client financial advice across statements, budgets, taxes, investments, retirement, risk, cash flow, debt, valuation, succession, estate,… |
 | [Compliance Cost Analyst](../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Contract Report Builder](../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
@@ -59,6 +60,7 @@ Accounting, budgeting, analysis and risk. **174 ready-made Grok Bot templates** 
 | [Data Cleaner](../it-and-development/data-analysis/data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
 | [Data Entry and Database Management Assistant](data-analysis/data-entry-and-database-management-assistant.md) | Handles data entry, database upkeep, validation, migration, analysis, reporting, security, and backups for administrative assistants. |
 | [Data Reporting Assistant](../operations/data-analysis/data-reporting-assistant.md) | Turns raw data into clean, analyzed, and presentation-ready reports for data entry specialists. |
+| [Data Visualization Guide](../it-and-development/data-analysis/data-visualization-guide.md) | Turns raw business data into clear, compelling visualizations and dashboards for stakeholder decisions. |
 | [Deal Room Risk Analyst](data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
 | [Doordash Order Ledger](../operations/data-analysis/doordash-order-ledger.md) | Answers questions about DoorDash spending and ordering history from an audit log. |
 | [E-commerce Fraud Detection Assistant](../management/data-analysis/e-commerce-fraud-detection-assistant.md) | Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud. |
@@ -73,6 +75,7 @@ Accounting, budgeting, analysis and risk. **174 ready-made Grok Bot templates** 
 | [Expense Tracking and Analysis Assistant](data-analysis/expense-tracking-and-analysis-assistant.md) | Analyzes, categorizes, and reports expenses for accurate financial tracking and cost control. |
 | [Financial Data Interpreter](data-analysis/financial-data-interpreter.md) | Interprets financial data and drafts reports for accountants. |
 | [Financial Document Parser](data-analysis/financial-document-parser.md) | Extracts structured data from financial documents and categorizes expenses. |
+| [Financial Forecast Assistant](../it-and-development/data-analysis/financial-forecast-assistant.md) | Builds and maintains your financial forecasts from data collection to stakeholder reporting. |
 | [Financial Forecasting Assistant](../management/data-analysis/financial-forecasting-assistant.md) | Turns your business unit's financial data into forecasts, reports, and risk insights. |
 | [Financial Modeling Assistant](data-analysis/financial-modeling-assistant.md) | Builds financial models and analyses for accounting decisions. |
 | [Financial Modeling Consultant](../management/data-analysis/financial-modeling-consultant.md) | Builds and analyzes financial models for management consulting decisions. |
@@ -81,6 +84,7 @@ Accounting, budgeting, analysis and risk. **174 ready-made Grok Bot templates** 
 | [Insurance Finance Reporting Assistant](../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Investment Analysis Assistant](data-analysis/investment-analysis-assistant.md) | Analyzes investments, builds valuations, and drafts reports for accountant decisions. |
 | [Invoice Organizer](../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
+| [IT Budget Forecasting Assistant](../it-and-development/data-analysis/it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
 | [Job Profitability Analyzer](data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Legal Billing Systems Assistant](../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
 | [Licensing and Royalty Manager](../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
@@ -100,6 +104,7 @@ Accounting, budgeting, analysis and risk. **174 ready-made Grok Bot templates** 
 | [Patent Valuation Analyst](../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Performance Report](../executives-and-strategy/data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Portfolio Digest](data-analysis/portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
+| [Portfolio Strategy Analyst](../it-and-development/data-analysis/portfolio-strategy-analyst.md) | Analyzes investments, builds strategies, and tracks performance for business analysts. |
 | [Pricing Strategy Analyst](../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
 | [Procurement Cost Analyzer](../operations/data-analysis/procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |
 | [Production Budget Forecaster](../operations/data-analysis/production-budget-forecaster.md) | Forecast production budgets and track spending for accurate financial planning. |
@@ -151,6 +156,7 @@ Accounting, budgeting, analysis and risk. **174 ready-made Grok Bot templates** 
 | [Odoo Project Timesheet](../operations/productivity/odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
 | [Payroll Process Assistant](productivity/payroll-process-assistant.md) | Assists accountants in managing payroll tasks from data entry to year-end filings. |
 | [Project Coordination Assistant](productivity/project-coordination-assistant.md) | Handles project scheduling, documents, communication, budgets, research, reports, and coordination for administrative assistants. |
+| [Risk Analysis and Management Assistant](../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Stripe Automation](productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [Travel Arrangements Assistant](productivity/travel-arrangements-assistant.md) | Plans and books business travel, tracks expenses, and keeps trips compliant. |
 | [Vendor Watch](../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
@@ -172,6 +178,22 @@ Accounting, budgeting, analysis and risk. **174 ready-made Grok Bot templates** 
 | [Term Sheet Reader](research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
 | [Third-Party Compliance Evaluator](../legal/research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Accounting Compliance Review Copilot](security-and-compliance/accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: review, audit, report, and train. |
+| [AML Compliance Assistant](../legal/security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
+| [Audit Ready File Builder](security-and-compliance/audit-ready-file-builder.md) | Prepares audit files, documents, and responses so your audit runs smoothly and nothing is missed. |
+| [Business Unit Risk Manager](../management/security-and-compliance/business-unit-risk-manager.md) | Risk management assistant for business unit managers covering identification, assessment, mitigation, monitoring, and reporting. |
+| [Enterprise Risk Management Assistant](../executives-and-strategy/security-and-compliance/enterprise-risk-management-assistant.md) | Identifies, assesses, and mitigates risks across your organization with structured analysis and reporting. |
+| [Pci Compliance](security-and-compliance/pci-compliance.md) | Guide PCI DSS compliance for secure payment processing and cardholder data handling. |
+| [Regulatory Requirements to Audit Reports](../it-and-development/security-and-compliance/regulatory-requirements-to-audit-reports.md) | Turns regulatory requirements into compliance checks, audits, and reports for business analysts. |
+| [Risk Assessment and Analysis Assistant](../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
+| [Risk Assessment Assistant](security-and-compliance/risk-assessment-assistant.md) | Identifies, evaluates, and documents risks for accountants, with mitigation and reporting support. |
+| [Risk Management Analysis Assistant](../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
+| [Tax Regulation Monitor](security-and-compliance/tax-regulation-monitor.md) | Monitors tax regulation changes and produces compliance tools for accountants. |
+
 ## Coding
 
 | Template | What it does |
@@ -185,20 +207,6 @@ Accounting, budgeting, analysis and risk. **174 ready-made Grok Bot templates** 
 | [Sql Pro](../it-and-development/coding/sql-pro.md) | Optimize SQL queries, design schemas, and tune performance for cloud-native and hybrid databases. |
 | [Stripe Integration](../it-and-development/coding/stripe-integration.md) | Implement Stripe payments, subscriptions, webhooks and refunds with verified server-side authorization. |
 | [X402 Express Wrapper](../it-and-development/coding/x402-express-wrapper.md) | Monetize APIs and MCP servers with USDC micropayments via x402 middleware. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Accounting Compliance Review Copilot](security-and-compliance/accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: review, audit, report, and train. |
-| [AML Compliance Assistant](../legal/security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
-| [Audit Ready File Builder](security-and-compliance/audit-ready-file-builder.md) | Prepares audit files, documents, and responses so your audit runs smoothly and nothing is missed. |
-| [Business Unit Risk Manager](../management/security-and-compliance/business-unit-risk-manager.md) | Risk management assistant for business unit managers covering identification, assessment, mitigation, monitoring, and reporting. |
-| [Pci Compliance](security-and-compliance/pci-compliance.md) | Guide PCI DSS compliance for secure payment processing and cardholder data handling. |
-| [Risk Assessment and Analysis Assistant](../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
-| [Risk Assessment Assistant](security-and-compliance/risk-assessment-assistant.md) | Identifies, evaluates, and documents risks for accountants, with mitigation and reporting support. |
-| [Risk Management Analysis Assistant](../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
-| [Tax Regulation Monitor](security-and-compliance/tax-regulation-monitor.md) | Monitors tax regulation changes and produces compliance tools for accountants. |
 
 ## Office Tools
 

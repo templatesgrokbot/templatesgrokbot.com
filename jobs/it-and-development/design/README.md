@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 89 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 90 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -88,6 +88,7 @@ Interfaces, brands, layouts and visual systems. 89 Grok Bot templates, 31 of the
 | [Ui Ux Pro Max](../../product-development/design/ui-ux-pro-max.md) | Generates complete UI/UX design systems from product descriptions using a searchable database of styles, palettes, and guidelines. |
 | [Ui Visual Validator](ui-visual-validator.md) | Rigorous UI visual validation expert for design system and accessibility compliance. |
 | [Ux Audit](../../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
+| [UX Enhancement Advisor](ux-enhancement-advisor.md) | Guides IT leaders through AI-assisted UX research, design, and enhancement projects. |
 | [Ux Flow](../../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 | [UX Flow & Wireframer](../../product-development/design/ux-flow-wireframer.md) | Sketches user flows and low-fidelity wireframes as text layouts and Mermaid diagrams before visual design begins. |
 | [UX Prototyping Assistant](../../creatives/design/ux-prototyping-assistant.md) | Turns wireframes and prototypes into tested, documented designs ready for handoff. |

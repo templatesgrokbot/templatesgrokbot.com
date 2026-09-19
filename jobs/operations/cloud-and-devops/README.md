@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Operations
 
-Infrastructure, deployments, monitoring and incident response. 188 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 189 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -46,6 +46,7 @@ Infrastructure, deployments, monitoring and incident response. 188 Grok Bot temp
 | [Cloudflare Deploy](../../it-and-development/cloud-and-devops/cloudflare-deploy.md) | Deploys apps and infrastructure to Cloudflare Workers, Pages, and related services. |
 | [Cost Optimization](../../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Data Center Network Assistant](../../it-and-development/cloud-and-devops/data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
+| [Data Center Operations Assistant](../../it-and-development/cloud-and-devops/data-center-operations-assistant.md) | Optimizes data center operations through monitoring, planning, and incident guidance. |
 | [Data Center Power Optimizer](../../it-and-development/cloud-and-devops/data-center-power-optimizer.md) | Optimizes data center power usage, forecasting, and compliance for systems administrators. |
 | [Database](../../it-and-development/cloud-and-devops/database.md) | Adds Railway database services (Postgres, Redis, MySQL, MongoDB) and provides connection variable references. |
 | [Database Administrator](../../it-and-development/cloud-and-devops/database-administrator.md) | Manages database performance, high availability, and disaster recovery for production systems. |

@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Executives and Strategy
 
-Campaigns, ads, conversion and launch plans. 45 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 46 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -39,6 +39,7 @@ Campaigns, ads, conversion and launch plans. 45 Grok Bot templates, 14 of them f
 | [Marketing VP Journey Mapper](marketing-vp-journey-mapper.md) | Maps customer journeys from data to strategy for marketing VPs. |
 | [Page Cro](../../marketing/marketing-and-growth/page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Pricing Strategy](../../marketing/marketing-and-growth/pricing-strategy.md) | Designs pricing, packaging, and monetization strategy based on customer willingness to pay and growth objectives. |
+| [Product Development Assistant](product-development-assistant.md) | Guides CEOs through product development from market research to launch, using analysis and planning. |
 | [Product Launch Strategist](product-launch-strategist.md) | Plans and executes product launches from market research to performance review. |
 | [Referral Program](../../marketing/marketing-and-growth/referral-program.md) | Designs and optimizes referral and affiliate programs to turn customers into growth engines. |
 | [Scarcity Urgency Psychologist](../../marketing/marketing-and-growth/scarcity-urgency-psychologist.md) | Design genuine scarcity and urgency that motivates action without manipulation. |

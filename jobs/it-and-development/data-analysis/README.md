@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 171 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,7 @@ Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed i
 | [Agent Evaluation Reporting](agent-evaluation-reporting.md) | Turn raw agent evaluation runs into decision-ready reports with explicit outcome categories and denominators. |
 | [Ai Dev Jobs Mcp](ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Alpha Vantage](../../finance/data-analysis/alpha-vantage.md) | Fetch 20+ years of equities, forex, crypto, commodities, and economic data via Alpha Vantage API. |
+| [Analyst Market Trend Forecaster](analyst-market-trend-forecaster.md) | Market trend analysis assistant for business analysts, turning data into insights and forecasts. No hype, just analysis. |
 | [Analytics Tracking](analytics-tracking.md) | Set up, audit, and improve analytics tracking for reliable decision data. |
 | [Arrowspace](arrowspace.md) | Spectral vector search using graph Laplacian eigenstructure for latent structure |
 | [Automated Triage](automated-triage.md) | Triage Monte Carlo alerts interactively or build an automated workflow. |
@@ -25,6 +26,7 @@ Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed i
 | [Base](base.md) | Create and manage ODB databases with forms, reports, and SQL queries. |
 | [Bigquery Basics](bigquery-basics.md) | Manages BigQuery datasets, tables, jobs, and runs SQL queries for data analysis. |
 | [Brendangregg Use Tsa](brendangregg-use-tsa.md) | Evidence-first performance debugging with USE/TSA methods and structured RCA reports. |
+| [Business Process Optimization Assistant](business-process-optimization-assistant.md) | Maps, analyzes, and optimizes business processes with data-backed recommendations. |
 | [Cf Crawl](../../operations/data-analysis/cf-crawl.md) | Crawl websites via Cloudflare Browser Rendering and save pages as markdown files. |
 | [ClickHouse IO](cc-skill-clickhouse-io.md) | Designs ClickHouse schemas, optimizes queries, and builds analytics pipelines for OLAP workloads. |
 | [Cobrapy](../../science-and-research/data-analysis/cobrapy.md) | Run constraint-based metabolic modeling and analysis on genome-scale models. |
@@ -46,6 +48,7 @@ Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed i
 | [Data Researcher](../../science-and-research/data-analysis/data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
 | [Data Scientist](data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
 | [Data Validation Assistant](../../operations/data-analysis/data-validation-assistant.md) | Validates and cleans data entry work with routines for formatting, duplicates, consistency, and quality. |
+| [Data Visualization Guide](data-visualization-guide.md) | Turns raw business data into clear, compelling visualizations and dashboards for stakeholder decisions. |
 | [Database Architect](database-architect.md) | Designs scalable, performant data layers from scratch or re-architects existing ones. |
 | [Database Design](database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
 | [Database Management Assistant](../../operations/data-analysis/database-management-assistant.md) | Manage your database end-to-end: entry, cleaning, validation, migration, security, reporting, backup, tuning, archiving, and compliance. |
@@ -61,9 +64,12 @@ Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed i
 | [E-commerce UX Improvement Assistant](../../management/data-analysis/e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
 | [E-Discovery Project Coordinator](../../legal/data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Elasticsearch Observability](elasticsearch-observability.md) | Debug code, optimize search, and remediate threats using live Elastic data. |
+| [Enterprise Data Management Planner](enterprise-data-management-planner.md) | Manages enterprise data from collection through governance and analytics for a Global Head of IT. |
 | [Extract Document Data](../../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
+| [Financial Forecast Assistant](financial-forecast-assistant.md) | Builds and maintains your financial forecasts from data collection to stakeholder reporting. |
 | [Firecrawl Scraper](firecrawl-scraper.md) | Extracts web content, screenshots, PDFs, and crawl results via Firecrawl API. |
 | [Fluidsim](fluidsim.md) | Runs and analyzes computational fluid dynamics simulations using the FluidSim Python framework. |
+| [Forecast Builder with Approvals](forecast-builder-with-approvals.md) | Builds, checks, and updates sales forecasts from your data, with approval before any action. |
 | [Geopandas](geopandas.md) | Reads, analyzes, and transforms geospatial vector data using Python. |
 | [Gget](../../science-and-research/data-analysis/gget.md) | Runs bioinformatics queries across 20+ genomic databases from chat. |
 | [Gtars](../../science-and-research/data-analysis/gtars.md) | Analyze genomic intervals with high-performance Rust tools for overlap, coverage, tokenization, and fragment processing. |
@@ -71,6 +77,10 @@ Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed i
 | [Hf Mem](hf-mem.md) | Estimate VRAM or memory for Hugging Face models without downloading them. |
 | [Hugging Face Dataset Viewer](../../science-and-research/data-analysis/hugging-face-dataset-viewer.md) | Read-only exploration of Hugging Face datasets via the Dataset Viewer API. |
 | [Hugging Face Datasets](hugging-face-datasets.md) | Create, query, and transform Hugging Face Hub datasets via SQL and push results back. |
+| [IT Budget Forecast for Directors](it-budget-forecast-for-directors.md) | Forecast IT budgets, track performance, and communicate insights. |
+| [IT Budget Forecasting Assistant](it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
+| [IT Budget Optimization Assistant](it-budget-optimization-assistant.md) | Analyzes IT spending and operations to find savings and optimize budget decisions. |
+| [IT Support Optimization Assistant](it-support-optimization-assistant.md) | Optimize global IT customer support through AI-driven analysis, automation, and proactive issue resolution. |
 | [Knowledge Synthesizer](knowledge-synthesizer.md) | Extracts actionable patterns from agent interactions to enable organizational learning. |
 | [Kusto Assistant](kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
 | [Longbridge Market Data](../../finance/data-analysis/longbridge-market-data.md) | Real-time quotes, K-lines, order book, trades, capital flow, sentiment, and IPO data for HK/US/A/SG markets via Longbridge. |
@@ -95,6 +105,7 @@ Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed i
 | [Ms Sql Dba](ms-sql-dba.md) | Manage and maintain Microsoft SQL Server databases on demand. |
 | [Neon Optimization Analyzer](neon-optimization-analyzer.md) | Analyze slow Postgres queries and test optimizations in isolated Neon database branches. |
 | [Network Capacity Planner](network-capacity-planner.md) | Analyses network data, forecasts capacity, and plans upgrades for efficient scaling. |
+| [Network Visualization Assistant](network-visualization-assistant.md) | Turns network data into clear diagrams and insights for IT directors. |
 | [Networkx](networkx.md) | Build, analyze, and visualize network graphs from data using NetworkX, with no code execution outside sandbox. |
 | [Nosql Expert](nosql-expert.md) | Design Cassandra and DynamoDB schemas using query-first modeling and single-table design. |
 | [Nosql Specialist](nosql-specialist.md) | Designs and optimizes NoSQL databases for MongoDB, Redis, Cassandra, and key-value stores. |
@@ -106,6 +117,7 @@ Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed i
 | [Plotly](plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Podcast Content Analyzer](../../operations/data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
 | [Polars](polars.md) | High-performance DataFrame operations using Polars with lazy evaluation and parallel execution. |
+| [Portfolio Strategy Analyst](portfolio-strategy-analyst.md) | Analyzes investments, builds strategies, and tracks performance for business analysts. |
 | [Postgres Best Practices](postgres-best-practices.md) | Optimize Postgres queries, schemas, and configurations against Supabase best practices. |
 | [Postgres Readonly Queries](postgres-readonly-queries.md) | Run safe read-only SQL against PostgreSQL with multi-connection support and write protection. |
 | [Posthog Automation](../../marketing/data-analysis/posthog-automation.md) | Automate PostHog analytics, feature flags, and project management via Rube MCP. |
@@ -114,6 +126,7 @@ Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed i
 | [Power Bi Performance Expert](power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
 | [Power Bi Visualization Expert](../../operations/data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Prisma Expert](prisma-expert.md) | Designs Prisma schemas, fixes migrations, and optimizes queries for your database layer. |
+| [Product Performance Insights](product-performance-insights.md) | Turns your product data into clear insights, forecasts, and decisions for business growth. |
 | [Pydeseq2](../../science-and-research/data-analysis/pydeseq2.md) | Run differential expression analysis on bulk RNA-seq count data using PyDESeq2. |
 | [Pydicom](../../healthcare/data-analysis/pydicom.md) | Read, write, and anonymize DICOM medical imaging files using Python. No image analysis or AI inference. You are a DICOM file handler. You can read, wr |
 | [Pymatgen](../../science-and-research/data-analysis/pymatgen.md) | Analyzes crystal structures, phase diagrams, and electronic structure for computational materials science. |
@@ -124,6 +137,7 @@ Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed i
 | [Rag Qdrant](rag-qdrant.md) | Manages a Qdrant vector database for RAG and semantic search operations. |
 | [Rag Sentence Transformers](rag-sentence-transformers.md) | Generates high-quality text embeddings for semantic search and RAG using local models. |
 | [Resume Ats Optimizer](../../human-resources/data-analysis/resume-ats-optimizer.md) | Analyzes resumes for ATS compatibility and optimizes keyword match against job descriptions. |
+| [Risk-Aware Supply Planner](risk-aware-supply-planner.md) | Turns your supply chain data into forecasts, optimizations, and risk plans. |
 | [Scale Benchmarks](scale-benchmarks.md) | Reference formulas and known limits for estimating system scale and capacity. |
 | [Scanpy](../../science-and-research/data-analysis/scanpy.md) | Guide single-cell RNA-seq analysis from loading through cell type annotation and trajectory inference. |
 | [Scikit Learn](scikit-learn.md) | Build and evaluate classical ML models with scikit-learn pipelines. |
@@ -131,6 +145,7 @@ Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed i
 | [Scrape](scrape.md) | Scrapes any webpage into clean markdown via Bright Data Web Unlocker, bypassing bot detection and CAPTCHA. |
 | [Scvi Tools](../../science-and-research/data-analysis/scvi-tools.md) | Analyzes single-cell omics data using scvi-tools probabilistic models. |
 | [Seaborn](seaborn.md) | Generate publication-quality Seaborn statistical plots from DataFrames with code only. |
+| [Segment Blueprint for Analysts](segment-blueprint-for-analysts.md) | Guides business analysts through customer segmentation from data to action. |
 | [Segment Cdp](segment-cdp.md) | Guides Segment CDP implementation with tracking plans, identity resolution, and data governance best practices. |
 | [Senior Data Engineer](senior-data-engineer.md) | Designs and maintains scalable data pipelines and infrastructure for production data systems. |
 | [Senior Data Scientist](../../science-and-research/data-analysis/senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
@@ -138,13 +153,16 @@ Clean, query, chart and explain data. 153 Grok Bot templates, 98 of them filed i
 | [Simpy](simpy.md) | Builds and runs discrete-event simulations of systems with queues, resources, and timed processes. |
 | [Smart Grid Integration Planner](../../science-and-research/data-analysis/smart-grid-integration-planner.md) | Analyzes smart grid data and plans grid improvements for energy engineers. |
 | [Snowflake Development](snowflake-development.md) | Snowflake SQL, pipelines, Cortex AI, and Snowpark development assistant. |
+| [Social Media Insights Analyst](social-media-insights-analyst.md) | Analyzes social media data to deliver insights, trends, and optimization strategies for business analysts. |
 | [Spreadsheet](../../finance/data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
 | [Sql Sentinel](sql-sentinel.md) | Audits SQL for cost and performance anti-patterns, scores warehouse health 0-100, and outputs a prioritized cost-reduction plan. Works with BigQuery, |
+| [Stakeholder Engagement Analyst](stakeholder-engagement-analyst.md) | Maps, analyzes, and reports on stakeholders to sharpen engagement strategies. |
 | [Statsmodels](../../science-and-research/data-analysis/statsmodels.md) | Fits and diagnoses statistical models for rigorous inference and forecasting. |
 | [Supplier Performance Monitor](../../management/data-analysis/supplier-performance-monitor.md) | Track supplier performance, spot issues, and drive improvements from one dashboard. |
 | [Supplier Reporting Assistant](../../management/data-analysis/supplier-reporting-assistant.md) | Turns supplier data into tailored reports, dashboards, and scorecards. |
 | [Supplier Sustainability and Compliance Assistant](../../management/data-analysis/supplier-sustainability-and-compliance-assistant.md) | Assesses and improves supplier sustainability and compliance with data-driven tools. |
 | [Swarm Data Processor](swarm-data-processor.md) | Deploys parallel sub-agent swarms for massive data processing tasks. |
+| [Technology Landscape Analyst](technology-landscape-analyst.md) | Analyzes your IT landscape and returns actionable insights for strategic decisions. |
 | [Template Suggester](skill-suggester.md) | Mines prompt history for repeated workflows and suggests new reusable capabilities. |
 | [Text Comparison Validator](../../operations/data-analysis/text-comparison-validator.md) | Compares extracted text to a reference file and reports all discrepancies. |
 | [Tokenization Sentencepiece](tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |

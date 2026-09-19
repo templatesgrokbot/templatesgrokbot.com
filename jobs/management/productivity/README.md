@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 150 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 164 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Plan, prioritise and clear the recurring admin. 150 Grok Bot templates, 49 of th
 | [Alfred](alfred.md) | Designs and governs your Grok Bot organization to keep it useful and maintainable. |
 | [Antigravity Workflows](antigravity-workflows.md) | Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints. |
 | [Asana Automation](../../operations/productivity/asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
+| [Automation Opportunity Finder](automation-opportunity-finder.md) | Finds, plans, and tracks automation opportunities across your projects and operations. |
 | [Basecamp Automation](../../operations/productivity/basecamp-automation.md) | Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP. |
 | [Before You Build](../../product-development/productivity/before-you-build.md) | Pause before coding to check demand, alternatives, and switching costs. |
 | [Brainstorming](brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
@@ -24,6 +25,7 @@ Plan, prioritise and clear the recurring admin. 150 Grok Bot templates, 49 of th
 | [Calendar Defragmenter](calendar-defragmenter.md) | Audits your calendar, proposes consolidations and focus blocks, and drafts the messages to reclaim your week. |
 | [Calendly Automation](../../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Change Management Consultant](change-management-consultant.md) | Guides management consultants through every stage of organizational change, from stakeholder analysis to sustainability planning. |
+| [Change Management Support Assistant](change-management-support-assistant.md) | Change management support for project managers: analysis, planning, communication, training, and evaluation in one assistant. |
 | [Change Order Manager](../../real-estate-and-construction/productivity/change-order-manager.md) | Manages construction change orders from documentation to compliance and performance tracking. |
 | [Claims Processing Automation Assistant](claims-processing-automation-assistant.md) | Automates claims intake, assessment, fraud checks, updates, and reporting for insurance claims managers. |
 | [Claims Processing Automation Manager](../../operations/productivity/claims-processing-automation-manager.md) | Automates insurance claims intake, assessment, routing, communication, and audit for operations managers. |
@@ -38,12 +40,14 @@ Plan, prioritise and clear the recurring admin. 150 Grok Bot templates, 49 of th
 | [Construction Project Planner](../../real-estate-and-construction/productivity/construction-project-planner.md) | Plans, schedules, and tracks construction projects from site assessment to completion. |
 | [Construction Workforce Allocator](../../real-estate-and-construction/productivity/construction-workforce-allocator.md) | Optimizes construction workforce scheduling, allocation, tracking, and development. |
 | [Crisis Management and Response Assistant](crisis-management-and-response-assistant.md) | Guides insurance agency managers through crisis preparation, response, and recovery. |
+| [Crisis Management Navigator](crisis-management-navigator.md) | Guides project managers through crisis response, from assessment to recovery and lessons learned. |
 | [Crisis Management Planner](crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
 | [Crisis Management Strategist](crisis-management-strategist.md) | Crisis management strategist: assess risks, plan responses, and guide recovery for senior managers. |
 | [Daily Meeting Update](../../it-and-development/productivity/daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Deadline Prep](deadline-prep.md) | Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you |
 | [Decision Navigator](decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
 | [Diary](../../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
+| [Digital Transformation Initiative Assistant](../../it-and-development/productivity/digital-transformation-initiative-assistant.md) | Steers digital transformation initiatives from strategy to execution with data-driven insights and hands-on support. |
 | [Doordash Group Orders](../../operations/productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
 | [Ecosystem Restoration Planner](../../science-and-research/productivity/ecosystem-restoration-planner.md) | Plans ecosystem restoration projects from data gathering to long-term management. |
 | [Editorial Calendar Management Assistant](../../pr-and-communications/productivity/editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |
@@ -71,8 +75,10 @@ Plan, prioritise and clear the recurring admin. 150 Grok Bot templates, 49 of th
 | [Idea Os](../../product-development/productivity/idea-os.md) | Five-phase pipeline turning raw ideas into PRD, research, and execution plans. |
 | [Idea Refine](../../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
 | [Inbox Triage](inbox-triage.md) | Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe. |
+| [Innovation Cycle Navigator](innovation-cycle-navigator.md) | Guides project managers through the full innovation cycle, from ideation to implementation. |
 | [Innovation Ideation Partner](innovation-ideation-partner.md) | Innovation ideation partner for senior managers: generate, evaluate, and track ideas from brainstorm to execution. |
 | [Insurance Digital Transformation Planner](insurance-digital-transformation-planner.md) | Plans and oversees your agency's digital transformation, from customer analytics to automated processes. |
+| [Jev Browser Operator](jev-browser-operator.md) | Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final. |
 | [Jira](jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
 | [Kody](kody.md) | Coordinates priorities across people, projects, and assistants. |
@@ -115,15 +121,21 @@ Plan, prioritise and clear the recurring admin. 150 Grok Bot templates, 49 of th
 | [Production Resource Allocation Planner](../../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
 | [Production Schedule Optimizer](../../operations/productivity/production-schedule-optimizer.md) | Builds, monitors, and optimizes production schedules, resolving conflicts and keeping stakeholders informed. |
 | [Production Technology Integration Planner](../../operations/productivity/production-technology-integration-planner.md) | Plans and optimizes production technology integration from selection to monitoring. |
+| [Project Budget Management Assistant](project-budget-management-assistant.md) | Guides project managers through budget planning, monitoring, and adjustments. |
 | [Project Management Efficiency Assistant](../../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Project Management Guidance Assistant](project-management-guidance-assistant.md) | Guides management consultants through every project management task, from planning to reporting. |
 | [Project Management Support Assistant](../../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
 | [Project Manager](project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
+| [Project Planning Assistant](project-planning-assistant.md) | Assists project managers with planning, analysis, and documentation tasks. |
+| [Project Progress Tracker](project-progress-tracker.md) | Tracks project progress, milestones, resources, issues, risks, docs, stakeholders, dependencies, performance, and budget. |
+| [Project Risk Assessment Assistant](project-risk-assessment-assistant.md) | Guides project managers through risk identification, analysis, mitigation, and communication. |
 | [Project Supervisor Orchestrator](../../operations/productivity/project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
+| [Project Time Manager](project-time-manager.md) | Plans, prioritizes, and audits your project time to cut waste and hit deadlines. |
 | [Purchasing Digital Transformation Assistant](purchasing-digital-transformation-assistant.md) | Guides purchasing managers through digital transformation, from supplier research to performance monitoring. |
 | [Requirements Clarity](../../product-development/productivity/requirements-clarity.md) | Turns vague feature requests into clear, actionable PRDs through structured questioning. |
 | [Retail Crisis Management Planner](retail-crisis-management-planner.md) | Prepares retail managers with crisis plans, communications, and operational adjustments. |
 | [Retail Performance Tracker](retail-performance-tracker.md) | Turns employee performance data into feedback, reports, and growth plans for retail managers. |
+| [Risk Analysis and Management Assistant](../../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Schedule Tasks](../../operations/productivity/anthropic-schedule.md) | Run recurring tasks automatically: a briefing every morning, a weekly plan every Monday, an inbox check every hour. |
 | [Scrum Master](scrum-master.md) | Facilitates agile teams, removes impediments, and drives continuous improvement through Scrum ceremonies. |
 | [Se Product Manager Advisor](../../product-development/productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
@@ -131,6 +143,7 @@ Plan, prioritise and clear the recurring admin. 150 Grok Bot templates, 49 of th
 | [Session Handoff](../../operations/productivity/session-handoff.md) | Creates and resumes handoff documents so fresh sessions continue work without losing context. |
 | [Speed](speed.md) | Launch RSVP speed reader with Spritz-style word-by-word display. |
 | [Sred Work Summary](../../operations/productivity/sred-work-summary.md) | Collect a year of PRs, docs, and tickets into a grouped Notion doc for SRED. |
+| [Stakeholder Communication Manager](stakeholder-communication-manager.md) | Manages all stakeholder communication for project managers, from analysis to audits. |
 | [Stakeholder Communication Planner](stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
 | [Stakeholder Engagement Planner](stakeholder-engagement-planner.md) | Plans and runs stakeholder engagement for management consultants. |
 | [Strategic Planning Assistant](strategic-planning-assistant.md) | Turns market data and goals into a full strategic plan with risks, actions, and reviews. |
@@ -140,6 +153,7 @@ Plan, prioritise and clear the recurring admin. 150 Grok Bot templates, 49 of th
 | [Task Distributor](../../operations/productivity/task-distributor.md) | Distributes tasks across workers to maximize throughput while respecting priorities and deadlines. No hype, no emoji, no 'leverage'/'empower'/'seamles |
 | [Task Intelligence](task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |
 | [Task Planner](task-planner.md) | Creates actionable implementation plans from verified research findings. |
+| [Team Collaboration Facilitator](team-collaboration-facilitator.md) | Facilitates team collaboration, communication, and decision-making for project managers. |
 | [Team Collaboration Standup Notes](team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |
 | [Technology Implementation Planner](technology-implementation-planner.md) | Plans technology implementations from research to rollout for management consultants. |
 | [Template Router](../../operations/productivity/skill-router.md) | Interviews users and recommends the best installed capability for their goal. |
