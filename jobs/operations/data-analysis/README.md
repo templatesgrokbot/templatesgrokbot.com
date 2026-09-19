@@ -1,13 +1,12 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 142 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 134 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Abc Xyz Segmentation](abc-xyz-segmentation.md) | Segment SKUs by value and demand variability, assign planning policies, and reallocate planner attention. |
-| [AI Readiness Assessor](../../executives-and-strategy/data-analysis/ai-readiness-assessor.md) | Assesses a business's AI readiness across six dimensions and produces a prioritized action report. |
 | [AML Due Diligence Drafter](../../legal/data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
 | [Analytics Tracking](../../it-and-development/data-analysis/analytics-tracking.md) | Set up, audit, and improve analytics tracking for reliable decision data. |
 | [Apify Brand Reputation Monitoring](../../marketing/data-analysis/apify-brand-reputation-monitoring.md) | Scrape reviews, ratings, and brand mentions from multiple platforms via Apify Actors. |
@@ -23,12 +22,9 @@ Clean, query, chart and explain data. 142 Grok Bot templates, 31 of them filed i
 | [Buywhere Product Catalog](../../sales/data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
 | [Campaign Effectiveness Analyst](../../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Carrier Relationship Management](carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
-| [Cash Flow Forecaster](../../finance/data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your financial exports and flags crunch weeks. |
 | [Cf Crawl](cf-crawl.md) | Crawl websites via Cloudflare Browser Rendering and save pages as markdown files. |
-| [Churn Autopsy Analyst](../../customer-support/data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
 | [Churn Prediction and Retention Assistant](../../customer-support/data-analysis/churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
 | [Churn Radar](../../sales/data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
-| [Client Health Dashboard](../../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
 | [Compliance Benchmarking Analyst](../../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
 | [Compliance Cost Analyst](../../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Compliance Monitoring Inspector](../../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
@@ -55,7 +51,7 @@ Clean, query, chart and explain data. 142 Grok Bot templates, 31 of them filed i
 | [Elasticsearch Observability](../../it-and-development/data-analysis/elasticsearch-observability.md) | Debug code, optimize search, and remediate threats using live Elastic data. |
 | [Energy Procurement](energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
 | [Excel Analysis](../../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
-| [Expense Folder Auditor](expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, categorizes, flags issues, and reports. |
+| [Expense Folder Auditor](expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Exploratory Data Analysis](../../science-and-research/data-analysis/exploratory-data-analysis.md) | Analyze scientific data files across 200+ formats and generate markdown reports. No file? No action. Never repeat an analysis on the same file. Draft |
 | [Extract Document Data](extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
 | [Feedback Insight for Service Managers](../../management/data-analysis/feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
@@ -63,8 +59,7 @@ Clean, query, chart and explain data. 142 Grok Bot templates, 31 of them filed i
 | [Forecast Accuracy Review](forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 | [Google Analytics](../../marketing/data-analysis/google-analytics.md) | Analyze Google Analytics data to find traffic patterns and suggest improvements. |
 | [Google Analytics Automation](../../marketing/data-analysis/google-analytics-automation.md) | Automate GA4 reporting, property listing, funnels, pivots, and key events via Rube MCP—always search tools first. |
-| [Hiring Screener](../../human-resources/data-analysis/hiring-screener.md) | Screens resumes against a job description and returns a ranked, evidence-backed shortlist. |
-| [Home Inventory Builder](home-inventory-builder.md) | Builds an insurance-grade home inventory from photos and receipts, with values and gap analysis. |
+| [Home Inventory Builder](home-inventory-builder.md) | Turns your photos and receipts into an insurance-grade home inventory. |
 | [Insurance Document Verification Assistant](../../customer-support/data-analysis/insurance-document-verification-assistant.md) | Verifies, updates, and tracks insurance documents for customer service reps. |
 | [Insurance Feedback Analyzer](../../customer-support/data-analysis/insurance-feedback-analyzer.md) | Collects, analyzes, and reports insurance customer feedback for service improvements. |
 | [Insurance Fraud Detection Assistant](../../customer-support/data-analysis/insurance-fraud-detection-assistant.md) | Detects and investigates insurance fraud across claims, policies, and transactions. |
@@ -78,7 +73,6 @@ Clean, query, chart and explain data. 142 Grok Bot templates, 31 of them filed i
 | [Legal Billing Systems Assistant](../../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
 | [Legal Risk Assessment Assistant](../../legal/data-analysis/legal-risk-assessment-assistant.md) | Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers. |
 | [Market Trend Analyzer](../../management/data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
-| [Medical Bill Auditor](../../finance/data-analysis/medical-bill-auditor.md) | Audits medical bills against insurance EOBs, finds errors, and drafts disputes. |
 | [Meeting Insights Analyzer](../../management/data-analysis/meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
 | [Mongodb Performance Advisor](../../it-and-development/data-analysis/mongodb-performance-advisor.md) | Analyze MongoDB performance and recommend query and index optimizations. |
 | [Monte Carlo Asset Health](../../it-and-development/data-analysis/monte-carlo-asset-health.md) | Check data table health via Monte Carlo observability. |
@@ -100,10 +94,10 @@ Clean, query, chart and explain data. 142 Grok Bot templates, 31 of them filed i
 | [Power Bi Data Modeling Expert](../../it-and-development/data-analysis/power-bi-data-modeling-expert.md) | Guides Power BI data model design using star schema and Microsoft best practices. |
 | [Power Bi Performance Expert](../../it-and-development/data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
 | [Power Bi Visualization Expert](power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
+| [Predictive Maintenance Scheduler](../../management/data-analysis/predictive-maintenance-scheduler.md) | Analyzes equipment data, predicts failures, and schedules maintenance to maximize uptime. |
 | [Premium Calculation Assistant](../../customer-support/data-analysis/premium-calculation-assistant.md) | Handles insurance premium calculations from data collection to quotes and customer education. |
 | [Product Usage Analytics Assistant](../../customer-support/data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
 | [Production Scheduling](production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
-| [Quarterly Business Review Builder](../../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Rehabilitation Analyzer](../../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
 | [Return Refund Optimizer](../../management/data-analysis/return-refund-optimizer.md) | Optimizes e-commerce return and refund processes using data analysis and automation. |
 | [Risk Assessment Workflow Assistant](../../legal/data-analysis/risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |
@@ -132,16 +126,14 @@ Clean, query, chart and explain data. 142 Grok Bot templates, 31 of them filed i
 | [Supplier Sustainability and Compliance Assistant](../../management/data-analysis/supplier-sustainability-and-compliance-assistant.md) | Assesses and improves supplier sustainability and compliance with data-driven tools. |
 | [Supply Chain Impact Assessor](../../management/data-analysis/supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |
 | [Supply Chain Optimizer](../../management/data-analysis/supply-chain-optimizer.md) | Optimizes supplier performance, inventory, logistics, and costs for e-commerce operations. |
-| [Swarm Data Processor](../../it-and-development/data-analysis/swarm-data-processor.md) | Launches parallel sub-agents to process large batches of independent data items and merges results. |
 | [Talivia Agent Kit](../../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
-| [Tax Document Organizer](../../finance/data-analysis/tax-document-organizer.md) | Sweeps your folders for tax documents and builds a CPA-ready package with a chase list. |
 | [Team Composition Analysis](../../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Team Performance Monitor](../../management/data-analysis/team-performance-monitor.md) | Turns team performance data into insights, reports, and action plans for service managers. |
 | [Text Comparison Validator](text-comparison-validator.md) | Compares extracted text to a reference file and reports all discrepancies. |
 | [Tune Monitor](tune-monitor.md) | Analyze Monte Carlo monitors and recommend config changes to reduce alert noise. |
 | [Vaex](../../it-and-development/data-analysis/vaex.md) | Process and analyze large tabular datasets that exceed available RAM using Vaex's out-of-core capabilities. |
 | [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
-| [Vendor Proposal Comparator](vendor-proposal-comparator.md) | Normalize vendor quotes and SOWs into a comparison matrix, compute true TCO, and surface negotiation leverage. |
+| [Vendor Proposal Comparator](vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Video Content Extractor](../../it-and-development/data-analysis/video-content-extractor.md) | Extract text from MP4 videos via key frames and OCR into Markdown reports. |
 | [Warehouse](../../it-and-development/data-analysis/warehouse.md) | Plan and review read-only warehouse analysis with explicit scope and validation checks. No schema guessing or write operations. Hand off admin, pipeli |
 | [Weekly Ops Report](../../management/data-analysis/weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |

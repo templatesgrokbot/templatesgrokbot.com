@@ -7,7 +7,7 @@ Plan, write and edit articles, copy and documentation. 9 Grok Bot templates, 8 o
 | Template | What it does |
 |---|---|
 | [Compliance Communication Planner](compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
-| [Contract Redliner](contract-redliner.md) | Reads contracts and produces clause-by-clause redline suggestions with replacement language and negotiation points. |
+| [Contract Redliner](contract-redliner.md) | Reads contracts and produces redline suggestions with replacement language and negotiation points. |
 | [Custom Clause Generator](custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
 | [Employment Contract Templates](../../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Legal Advisor](legal-advisor.md) | Draft contracts, privacy policies, and compliance documents for tech businesses. |

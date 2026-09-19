@@ -8,7 +8,6 @@ Plan, prioritise and clear the recurring admin. 51 Grok Bot templates, 23 of the
 |---|---|
 | [Acceptance Orchestrator](../../it-and-development/productivity/acceptance-orchestrator.md) | Drive coding tasks from issue intake to acceptance verification with minimal re-intervention. |
 | [Agent Squad](../../it-and-development/productivity/agent-squad.md) | Orchestrates a squad of specialized agents to manage software projects step by step. |
-| [Agent Team Builder](../../it-and-development/productivity/agent-team-builder.md) | Designs custom multi-agent team configurations for your business workflows. |
 | [Agile Product Owner](agile-product-owner.md) | Generates INVEST-compliant user stories and manages sprint backlog for a product owner. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Alex](../../management/productivity/alex.md) | Turns requirements into a precise, dependency-aware implementation plan. |
 | [Asana Automation](../../operations/productivity/asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
@@ -40,6 +39,7 @@ Plan, prioritise and clear the recurring admin. 51 Grok Bot templates, 23 of the
 | [Not A Vibe Coder](not-a-vibe-coder.md) | Turns vague project ideas into 8 structured planning files for new projects only. |
 | [Notion Spec To Implementation](notion-spec-to-implementation.md) | Convert Notion specs into implementation plans, tasks, and progress tracking. No Notion, no work. Draft only. Never send or deploy. Report exactly wha |
 | [Notion Template Business](../../creatives/productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
+| [OKR Plan Generator](../../management/productivity/okr-plan-generator.md) | Generates structured OKR plans for teams following Google/Intel methodology. |
 | [Onboarding](onboarding.md) | Optimize post-signup onboarding to speed users to their aha moment and boost activation. |
 | [Onboarding Cro](onboarding-cro.md) | Audits and optimizes user onboarding to reduce time-to-value and increase activation rates. |
 | [Planning And Task Breakdown](../../management/productivity/planning-and-task-breakdown.md) | Breaks specs into ordered, verifiable tasks with acceptance criteria. |

@@ -1,6 +1,6 @@
 # Credits
 
-3,001 of the 3,257 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
+3,275 of the 3,533 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
 
 Every adapted template also names its original (`adapted_from`) and its license (`source_license`) in its front matter, and links back here at the end of the file.
 
@@ -8,9 +8,13 @@ Every adapted template also names its original (`adapted_from`) and its license 
 |---|---:|---|---|
 | [github.com/sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 1,649 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-sickn33-agentic-awesome-skills.md) |
 | [aitmpl.com](https://www.aitmpl.com) | 817 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md), [Apache-2.0](LICENSES/Apache-2.0.md) | [list](credits/aitmpl-com.md) |
+| [github.com/OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) | 102 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-onewave-ai-claude-skills.md) |
+| [github.com/elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 65 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-elementalsouls-claude-bughunter.md) |
 | [collectivebrain.de](https://collectivebrain.de) | 61 | [see the original](LICENSES/README.md) | [list](credits/collectivebrain-de.md) |
+| [github.com/nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 44 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-nanocoai-nanoclaw.md) |
+| [github.com/nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 43 | [Apache-2.0](LICENSES/Apache-2.0.md) | [list](credits/github-com-nexu-io-html-anything.md) |
 | [github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 43 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-zhaoxuya520-reverse-skill.md) |
-| [github.com/OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) | 30 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-onewave-ai-claude-skills.md) |
+| [github.com/wshobson/agents](https://github.com/wshobson/agents) | 32 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-wshobson-agents.md) |
 | [github.com/jonathimer/devmarketing-skills](https://github.com/jonathimer/devmarketing-skills) | 24 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-jonathimer-devmarketing-skills.md) |
 | [github.com/LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 24 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-lambdatest-agent-skills.md) |
 | [github.com/huggingface/skills](https://github.com/huggingface/skills) | 22 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-huggingface-skills.md) |
@@ -21,6 +25,7 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 12 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-agricidaniel-claude-seo.md) |
 | [github.com/expo/skills](https://github.com/expo/skills) | 11 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-expo-skills.md) |
 | [github.com/Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) | 11 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-simon-he95-markstream-vue.md) |
+| [github.com/zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 11 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-zenstory-ai-oh-story-claudecode.md) |
 | [github.com/ai-evos/agent-skills](https://github.com/ai-evos/agent-skills) | 8 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-ai-evos-agent-skills.md) |
 | [github.com/monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit) | 8 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-monte-carlo-data-mc-agent-toolkit.md) |
 | [github.com/neondatabase/agent-skills](https://github.com/neondatabase/agent-skills) | 8 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-neondatabase-agent-skills.md) |
@@ -38,6 +43,7 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 5 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-kepano-obsidian-skills.md) |
 | [github.com/stareezy-1/frontend-architecture-skill](https://github.com/stareezy-1/frontend-architecture-skill) | 5 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-stareezy-1-frontend-architecture-skill.md) |
 | [github.com/Wolfe-Jam/faf-skills](https://github.com/Wolfe-Jam/faf-skills) | 5 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-wolfe-jam-faf-skills.md) |
+| [github.com/yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 5 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-yusufkaraaslan-skill-seekers.md) |
 | [github.com/chaunsin/agent-skills](https://github.com/chaunsin/agent-skills) | 4 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-chaunsin-agent-skills.md) |
 | [github.com/google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) | 4 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-google-gemini-gemini-skills.md) |
 | [github.com/microsoft/skills](https://github.com/microsoft/skills) | 4 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-microsoft-skills.md) |
@@ -67,6 +73,7 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-antonbabenko-terraform-skill.md) |
 | [github.com/ASI2030/Fact-Check-X](https://github.com/ASI2030/Fact-Check-X) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-asi2030-fact-check-x.md) |
 | [github.com/astropy/astropy](https://github.com/astropy/astropy) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-astropy-astropy.md) |
+| [github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 1 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-ayghri-i-have-adhd.md) |
 | [github.com/bekservice/Famulor-Skill](https://github.com/bekservice/Famulor-Skill) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-bekservice-famulor-skill.md) |
 | [github.com/biopython/biopython](https://github.com/biopython/biopython) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-biopython-biopython.md) |
 | [github.com/browser-act/skills](https://github.com/browser-act/skills) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-browser-act-skills.md) |
@@ -93,6 +100,7 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/marsiandeployer/vibers-action](https://github.com/marsiandeployer/vibers-action) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-marsiandeployer-vibers-action.md) |
 | [github.com/MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-minimax-ai-cli.md) |
 | [github.com/networkx/networkx](https://github.com/networkx/networkx) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-networkx-networkx.md) |
+| [github.com/NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 1 | [Apache-2.0](LICENSES/Apache-2.0.md) | [list](credits/github-com-nevamind-ai-memu.md) |
 | [github.com/NotMyself/claude-win11-speckit-update-skill](https://github.com/NotMyself/claude-win11-speckit-update-skill) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-notmyself-claude-win11-speckit-update-skill.md) |
 | [github.com/nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-nowork-studio-notfair.md) |
 | [github.com/obra/superpowers-lab](https://github.com/obra/superpowers-lab) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-obra-superpowers-lab.md) |
@@ -113,6 +121,7 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/Suraj1235/open-dynamic-workflows](https://github.com/Suraj1235/open-dynamic-workflows) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-suraj1235-open-dynamic-workflows.md) |
 | [github.com/sympy/sympy](https://github.com/sympy/sympy) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-sympy-sympy.md) |
 | [github.com/talivia-group/agent](https://github.com/talivia-group/agent) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-talivia-group-agent.md) |
+| [github.com/titanwings/distilly](https://github.com/titanwings/distilly) | 1 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-titanwings-distilly.md) |
 | [github.com/trailofbits/skills](https://github.com/trailofbits/skills) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-trailofbits-skills.md) |
 | [github.com/uizze/uizze](https://github.com/uizze/uizze) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-uizze-uizze.md) |
 | [github.com/webzler/agentMemory](https://github.com/webzler/agentMemory) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-webzler-agentmemory.md) |
@@ -120,14 +129,13 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-wrsmith108-varlock-claude-skill.md) |
 | [github.com/wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-wshuyi-x-article-publisher-skill.md) |
 | [github.com/yehudalevy-collab/polis-protocol](https://github.com/yehudalevy-collab/polis-protocol) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-yehudalevy-collab-polis-protocol.md) |
-| [github.com/yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-yusufkaraaslan-skill-seekers.md) |
 | [github.com/ZhangHanDong/makepad-skills](https://github.com/ZhangHanDong/makepad-skills) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-zhanghandong-makepad-skills.md) |
 | [heliumtrades.com](https://heliumtrades.com) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/heliumtrades-com.md) |
 | [nothumansearch.ai](https://nothumansearch.ai) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/nothumansearch-ai.md) |
 
 ## CompleteAiTraining.com lessons
 
-215 templates are built on lessons from [CompleteAiTraining.com](https://completeaitraining.com), TemplatesGrokBot's sister site for AI training by job. Each of them links its lesson at the end of the file: [list with every lesson](credits/completeaitraining-com.md).
+218 templates are built on lessons from [CompleteAiTraining.com](https://completeaitraining.com), TemplatesGrokBot's sister site for AI training by job. Each of them links its lesson at the end of the file: [list with every lesson](credits/completeaitraining-com.md).
 
 License texts and notices: [LICENSES/](LICENSES/README.md). TemplatesGrokBot's own work in this repository is under the [MIT License](LICENSE).
 

@@ -1,6 +1,6 @@
 # Design templates for Product Development
 
-Interfaces, brands, layouts and visual systems. 85 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 84 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,7 +17,6 @@ Interfaces, brands, layouts and visual systems. 85 Grok Bot templates, 7 of them
 | [Card Based Design](../../creatives/design/card-based-design.md) | Generate card-based UI layouts with responsive grids and encapsulated content containers. |
 | [Ckw Design](../../creatives/design/ckw-design.md) | Production-grade web UI design with spatial rigor and usability critique. |
 | [Color Theory Design Assistant](../../creatives/design/color-theory-design-assistant.md) | Guides UX/UI designers through color theory, palettes, and accessibility. |
-| [CSS Animation Creator](../../creatives/design/css-animation-creator.md) | Create production-grade CSS animations, transitions, and micro-interactions for web UIs. |
 | [Data Dense Design](../../it-and-development/design/data-dense-design.md) | Build expert UIs with maximum data density like Bloomberg terminals or IDEs. |
 | [Design Concept Development Assistant](../../creatives/design/design-concept-development-assistant.md) | Turns UX/UI design tasks into guided, documented workflows from research to presentation. |
 | [Design Critique](../../creatives/design/design-design-critique.md) | Gives structured, honest design feedback on usability, hierarchy, consistency, and accessibility. |

@@ -1,6 +1,6 @@
 # Research templates for Management
 
-Find sources, compare evidence and summarise what is known. 51 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 50 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,7 +16,6 @@ Find sources, compare evidence and summarise what is known. 51 Grok Bot template
 | [Comprehensive Researcher](../../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Contract Drafting Assistant](../../legal/research/contract-drafting-assistant.md) | Guides contract drafting, review, compliance, and management from template to execution. |
 | [Contract Risk Assessment Assistant](../../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
-| [Contract Risk Reviewer](../../legal/research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
 | [Crossframe Review](../../science-and-research/research/crossframe-review.md) | CrossFrame Review — audits reasoning chains, evidence boundaries, and source-anchor integrity |
 | [Crossframe Structural Diagnosis](../../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
 | [Crossframe Suite](../../science-and-research/research/crossframe-suite.md) | Routes Chinese structural diagnosis workflows across relationships, organizations, public issues, philosophy, research, or essay output. |

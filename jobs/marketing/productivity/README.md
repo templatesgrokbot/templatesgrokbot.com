@@ -1,6 +1,6 @@
 # Productivity templates for Marketing
 
-Plan, prioritise and clear the recurring admin. 10 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 11 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Plan, prioritise and clear the recurring admin. 10 Grok Bot templates, 2 of them
 |---|---|
 | [Discord Automation](../../operations/productivity/discord-automation.md) | Automate Discord messages, roles, webhooks, and reactions via Rube MCP. |
 | [Notion Template Business](../../creatives/productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
+| [OKR Plan Generator](../../management/productivity/okr-plan-generator.md) | Generates structured OKR plans for teams following Google/Intel methodology. |
 | [Onboarding](../../product-development/productivity/onboarding.md) | Optimize post-signup onboarding to speed users to their aha moment and boost activation. |
 | [Onboarding Cro](../../product-development/productivity/onboarding-cro.md) | Audits and optimizes user onboarding to reduce time-to-value and increase activation rates. |
 | [Postmark Automation](postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |

@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 37 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 38 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,7 @@ Find sources, compare evidence and summarise what is known. 37 Grok Bot template
 | [Crossframe Public](../../government/research/crossframe-public.md) | Analyze public issues, platform governance, and institutional compliance with evidence boundaries. |
 | [Crossframe Structural Diagnosis](crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
 | [Customer Research](../../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
+| [Expert Panel Analyzer](expert-panel-analyzer.md) | Assembles 2-3 complementary expert perspectives to analyze any topic collaboratively. |
 | [Falsify](../../science-and-research/research/falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
 | [Find Matching Tenders](../../sales/research/find-matching-tenders.md) | Find and rank live AU/NZ government tenders matching a company's capabilities. |
 | [Gemini Deep Research](../../science-and-research/research/gemini-deep-research.md) | Autonomous multi-step research with cited reports via Google Gemini. |

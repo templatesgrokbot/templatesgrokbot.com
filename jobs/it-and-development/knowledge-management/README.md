@@ -1,6 +1,6 @@
 # Knowledge Management templates for IT and Development
 
-Notes, documents, PDFs and knowledge bases kept in order. 40 Grok Bot templates, 26 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 44 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,8 @@ Notes, documents, PDFs and knowledge bases kept in order. 40 Grok Bot templates,
 | [Anywrite](../../operations/knowledge-management/anywrite.md) | One binary, all 52 Anytype local API endpoints — objects, search, files, chat. |
 | [Atlas Ledger](atlas-ledger.md) | Distills caught drift into WHEN/DON'T/INSTEAD clauses for Atlas.md. |
 | [Brain To Docs](brain-to-docs.md) | Interview users to extract project vision and decisions into README and ADR docs. |
+| [Chat History Lookup](chat-history-lookup.md) | Answers questions about the golden_chat Slack history and shared resources. |
+| [Codebase Documentation Scanner](codebase-documentation-scanner.md) | Scans your codebase to generate and refresh project documentation and agent instructions. |
 | [Compile Knowledge](compile-knowledge.md) | Compile durable, non-obvious findings into interlinked markdown knowledge files with an index. |
 | [Confluence Automation](../../operations/knowledge-management/confluence-automation.md) | Automate Confluence page creation, search, space management, and labels via Rube MCP. |
 | [Connection Agent](../../operations/knowledge-management/connection-agent.md) | Analyzes an Obsidian vault to suggest links between notes and identify orphaned content. |
@@ -25,6 +27,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 40 Grok Bot templates,
 | [Domain Modeling](domain-modeling.md) | Build and sharpen a project's domain model by resolving terminology, recording decisions, and cross-referencing code. |
 | [Evidence Organization Assistant](../../legal/knowledge-management/evidence-organization-assistant.md) | Organizes, tracks, and prepares legal evidence for paralegals from collection to trial. |
 | [Feature Tracking](feature-tracking.md) | Maintain durable feature-level memory across AI coding sessions with lightweight Markdown tracks. |
+| [Grounded Vault Keeper](grounded-vault-keeper.md) | Maintain a Markdown knowledge store where every claim traces to an immutable source and pages get cheap staleness checks. |
 | [Handoff](handoff.md) | Compacts a conversation into a handoff document for another agent. |
 | [Hig Project Context](../../creatives/knowledge-management/hig-project-context.md) | Create or update a shared Apple design context document for HIG capabilities. |
 | [Ingest Youtube](../../operations/knowledge-management/ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
@@ -46,5 +49,6 @@ Notes, documents, PDFs and knowledge bases kept in order. 40 Grok Bot templates,
 | [Vault Optimizer](../../operations/knowledge-management/vault-optimizer.md) | Analyzes and optimizes Obsidian vault performance, file sizes, and search indexing. |
 | [Wiki Architect](wiki-architect.md) | Generate structured wiki catalogues and onboarding guides from codebases. |
 | [Wiki Onboarding](wiki-onboarding.md) | Generate two onboarding documents for any codebase, from principal-level to zero-to-hero. |
+| [Workflow Distiller](../../operations/knowledge-management/workflow-distiller.md) | Turns any source into a reusable step-by-step procedure for your work. |
 
 [← All IT and Development templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/it-and-development)

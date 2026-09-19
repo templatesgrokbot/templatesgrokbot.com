@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 32 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 32 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,6 @@ Clean, query, chart and explain data. 32 Grok Bot templates, 4 of them filed in 
 | [Customer Demographic Insight Engine](../../management/data-analysis/customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
 | [Customer Feedback Insight Analyst](../../management/data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
 | [Customer Journey Mapping Assistant](../../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
-| [Customer Panel Debate](../../marketing/data-analysis/customer-panel-debate.md) | Assemble a data-grounded customer panel to debate your high-stakes decisions. |
 | [Customer Segmentation Analyst](../../management/data-analysis/customer-segmentation-analyst.md) | Turns customer data into actionable segments and profiles for targeted marketing. |
 | [Customer Sentiment Analyst](../../management/data-analysis/customer-sentiment-analyst.md) | Analyzes customer sentiment across channels to guide e-commerce decisions. |
 | [Dashboard Design](../../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
@@ -25,6 +24,7 @@ Clean, query, chart and explain data. 32 Grok Bot templates, 4 of them filed in 
 | [Developer Churn](developer-churn.md) | Analyze developer churn and design retention strategies. |
 | [E-commerce Recommendation Optimizer](../../management/data-analysis/e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
 | [E-commerce UX Improvement Assistant](../../management/data-analysis/e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
+| [Experiment Readout](experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Mixpanel Automation](../../it-and-development/data-analysis/mixpanel-automation.md) | Automate Mixpanel analytics: events, funnels, cohorts, profiles, and JQL queries via Rube MCP. |
 | [Mock Hunter](../../it-and-development/data-analysis/mock-hunter.md) | Audits live web pages to classify every visible value as real, mock, hardcoded, LLM, broken, or unknown. |
 | [Orca Replay](../../it-and-development/data-analysis/orca-replay.md) | Read, replay, and compare recorded agent runs to answer questions about past behavior without guessing. |

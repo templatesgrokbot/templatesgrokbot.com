@@ -1,20 +1,17 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 68 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 67 Grok Bot templates, 36 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Abc Xyz Segmentation](../../operations/data-analysis/abc-xyz-segmentation.md) | Segment SKUs by value and demand variability, assign planning policies, and reallocate planner attention. |
-| [AI Readiness Assessor](../../executives-and-strategy/data-analysis/ai-readiness-assessor.md) | Assesses a business's AI readiness across six dimensions and produces a prioritized action report. |
-| [Board Deck Generator](../../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates institutional-quality board meeting decks with financials, updates, and asks. |
 | [Brand Image Analyst](brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
 | [Business Analyst](../../operations/data-analysis/business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
 | [Campaign Effectiveness Analyst](campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Carrier Relationship Management](../../operations/data-analysis/carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
-| [Churn Autopsy Analyst](../../customer-support/data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
-| [Client Health Dashboard](../../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
+| [Client Health Dashboard](../../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
 | [Compliance Monitoring Inspector](../../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
 | [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Customer Demographic Insight Engine](customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
@@ -32,10 +29,9 @@ Clean, query, chart and explain data. 68 Grok Bot templates, 34 of them filed in
 | [E-commerce Recommendation Optimizer](e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
 | [E-commerce UX Improvement Assistant](e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
 | [Energy Procurement](../../operations/data-analysis/energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
-| [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, categorizes, flags issues, and reports. |
+| [Experiment Readout](../../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Feedback Insight for Service Managers](feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
 | [Forecast Accuracy Review](../../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
-| [Hiring Screener](../../human-resources/data-analysis/hiring-screener.md) | Screens resumes against a job description and returns a ranked, evidence-backed shortlist. |
 | [Inventory Demand Planning](../../operations/data-analysis/inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
 | [Inventory Optimization Assistant](inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
 | [Job Description Analyzer](../../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
@@ -45,12 +41,15 @@ Clean, query, chart and explain data. 68 Grok Bot templates, 34 of them filed in
 | [Meeting Insights Analyzer](meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
 | [Monte Carlo Monitoring Advisor](../../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
 | [Otif Analysis](../../operations/data-analysis/otif-analysis.md) | Audit delivery OTIF from order data, find metric gaps, and pinpoint where lateness concentrates. |
+| [Pipeline Health Analyzer](../../sales/data-analysis/pipeline-health-analyzer.md) | Analyze pipeline health, flag stalled deals, forecast closes, and prescribe next actions. |
+| [Predictive Maintenance Scheduler](predictive-maintenance-scheduler.md) | Analyzes equipment data, predicts failures, and schedules maintenance to maximize uptime. |
 | [Pricing Strategy Analyst](pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
 | [Product Decision Agent](../../product-development/data-analysis/product-decision-agent.md) | Diagnose product problems and get actionable next decisions and actions |
 | [Product Manager Toolkit](../../product-development/data-analysis/product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
 | [Production Scheduling](../../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Quarterly Business Review Builder](../../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Rehabilitation Analyzer](../../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
+| [Rep Performance Scorecard](../../sales/data-analysis/rep-performance-scorecard.md) | Builds multi-dimensional rep performance scorecards with coaching priorities and peer benchmarks. |
 | [Return Refund Optimizer](return-refund-optimizer.md) | Optimizes e-commerce return and refund processes using data analysis and automation. |
 | [Root Cause Pareto](../../operations/data-analysis/root-cause-pareto.md) | Build a decision-grade Pareto for downtime, defects, complaints, or delays with unit discipline and exposure normalization. |
 | [Safety Stock Review](../../operations/data-analysis/safety-stock-review.md) | Sizes or audits safety stock using the z*sigma*sqrt(LT) formula with empirical stress tests per variability class. |
@@ -68,11 +67,11 @@ Clean, query, chart and explain data. 68 Grok Bot templates, 34 of them filed in
 | [Supplier Sustainability and Compliance Assistant](supplier-sustainability-and-compliance-assistant.md) | Assesses and improves supplier sustainability and compliance with data-driven tools. |
 | [Supply Chain Impact Assessor](supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |
 | [Supply Chain Optimizer](supply-chain-optimizer.md) | Optimizes supplier performance, inventory, logistics, and costs for e-commerce operations. |
+| [Team Chemistry Evaluator](team-chemistry-evaluator.md) | Analyzes roster fit, leadership, role clarity, and locker room culture for sports teams. |
 | [Team Composition Analysis](../../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Team Performance Monitor](team-performance-monitor.md) | Turns team performance data into insights, reports, and action plans for service managers. |
 | [Trading Ledger](../../finance/data-analysis/trading-ledger.md) | Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L. |
 | [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
-| [Vendor Proposal Comparator](../../operations/data-analysis/vendor-proposal-comparator.md) | Normalize vendor quotes and SOWs into a comparison matrix, compute true TCO, and surface negotiation leverage. |
 | [Weekly Ops Report](weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |
 
 [← All Management templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/management)

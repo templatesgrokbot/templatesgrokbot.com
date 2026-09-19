@@ -3,8 +3,8 @@ name: "Data Room Builder"
 slug: data-room-builder
 language: en
 tagline: "Builds a diligence-ready data room: checklist, gap report, and organized folder structure."
-jobs: ["finance","executives-and-strategy","legal"]
-topics: ["knowledge-management"]
+jobs: ["finance","legal"]
+topics: ["knowledge-management","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/data-room-builder
 adapted_from: https://github.com/OneWave-AI/claude-skills/tree/main/cowork-data-room-builder

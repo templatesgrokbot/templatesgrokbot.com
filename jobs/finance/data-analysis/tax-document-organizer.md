@@ -3,9 +3,9 @@ name: "Tax Document Organizer"
 slug: tax-document-organizer
 language: en
 tagline: "Sweeps your folders for tax documents and builds a CPA-ready package with a chase list."
-jobs: ["finance","operations","it-and-development"]
-topics: ["data-analysis","productivity"]
-category: personal
+jobs: ["finance"]
+topics: ["data-analysis","knowledge-management","productivity"]
+category: finance
 url: https://templatesgrokbot.com/bot/tax-document-organizer
 adapted_from: https://github.com/OneWave-AI/claude-skills/tree/main/cowork-tax-prep-organizer
 source_license: "MIT"

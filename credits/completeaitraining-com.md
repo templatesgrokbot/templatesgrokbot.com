@@ -1,6 +1,6 @@
 # Credits: CompleteAiTraining.com
 
-215 TemplatesGrokBot templates are built on lessons from [CompleteAiTraining.com](https://completeaitraining.com), TemplatesGrokBot's sister site for AI training by job (both are part of Nexibeo). The TemplatesGrokBot team turned each lesson's tasks and example prompts into a Grok Bot template, or folded them into an existing template that already did that work.
+218 TemplatesGrokBot templates are built on lessons from [CompleteAiTraining.com](https://completeaitraining.com), TemplatesGrokBot's sister site for AI training by job (both are part of Nexibeo). The TemplatesGrokBot team turned each lesson's tasks and example prompts into a Grok Bot template, or folded them into an existing template that already did that work.
 
 | Template | Lesson | Job |
 |---|---|---|
@@ -54,6 +54,7 @@
 | [Contract Termination Guidance](../jobs/legal/security-and-compliance/contract-termination-guidance.md) | [AI for Contract Termination Guidance](https://completeaitraining.com/lesson/20n-course-ai-for-contract-termination-g_contract-administrators/) | Contract Administrators |
 | [Court Filing Paralegal Assistant](../jobs/legal/research/court-filing-paralegal-assistant.md) | [AI for Court Filing Procedures](https://completeaitraining.com/lesson/20g-course-ai-for-court-filing-procedure_paralegals/) | Paralegals |
 | [Coverage Inquiry Assistant](../jobs/customer-support/support-and-community/coverage-inquiry-assistant.md) | [AI for Coverage Inquiry Handling](https://completeaitraining.com/lesson/20c-course-ai-for-coverage-inquiry-handl_insurance-customer-service-representatives/) | Insurance Customer Service Representatives |
+| [Crisis Management Planner](../jobs/management/productivity/crisis-management-planner.md) | [AI for Crisis Management Planning](https://completeaitraining.com/lesson/20g-course-ai-for-crisis-management-plan_service-managers/) | Service Managers |
 | [Crisis Management Playbook Builder](../jobs/customer-support/support-and-community/crisis-management-playbook-builder.md) | [AI for Crisis Management Strategies](https://completeaitraining.com/lesson/20o-course-ai-for-crisis-management-stra_customer-success-managers/) | Customer Success Managers |
 | [Cross-Jurisdictional Compliance Assistant](../jobs/legal/research/cross-jurisdictional-compliance-assistant.md) | [AI for Cross-Jurisdictional Compliance](https://completeaitraining.com/lesson/20r-course-ai-for-crossjurisdictional-co_compliance-analysts/) | Compliance Analysts |
 | [Custom Clause Generator](../jobs/legal/writing-and-content/custom-clause-generator.md) | [AI for Custom Clause Generation](https://completeaitraining.com/lesson/20k-course-ai-for-custom-clause-generati_contract-administrators/) | Contract Administrators |
@@ -177,6 +178,7 @@
 | [Policy Development Support](../jobs/legal/security-and-compliance/policy-development-support.md) | [AI for Policy Development Support](https://completeaitraining.com/lesson/20d-course-ai-for-policy-development-sup_compliance-officers/) | Compliance Officers |
 | [Policy Explanation Assistant](../jobs/customer-support/support-and-community/policy-explanation-assistant.md) | [AI for Policy Explanation](https://completeaitraining.com/lesson/20a-course-ai-for-policy-explanation_insurance-customer-service-representatives/) | Insurance Customer Service Representatives |
 | [Policy Renewal and Updates Assistant](../jobs/customer-support/support-and-community/policy-renewal-and-updates-assistant.md) | [AI for Renewal and Updates](https://completeaitraining.com/lesson/20e-course-ai-for-renewal-and-updates_insurance-customer-service-representatives/) | Insurance Customer Service Representatives |
+| [Predictive Maintenance Scheduler](../jobs/management/data-analysis/predictive-maintenance-scheduler.md) | [AI for Predictive Maintenance Scheduling](https://completeaitraining.com/lesson/20e-course-ai-for-predictive-maintenance_service-managers/) | Service Managers |
 | [Premium Calculation Assistant](../jobs/customer-support/data-analysis/premium-calculation-assistant.md) | [AI for Premium Calculation](https://completeaitraining.com/lesson/20d-course-ai-for-premium-calculation_insurance-customer-service-representatives/) | Insurance Customer Service Representatives |
 | [Pricing Strategy Analyst](../jobs/management/data-analysis/pricing-strategy-analyst.md) | [AI for Pricing Strategy Analysis](https://completeaitraining.com/lesson/20g-course-ai-for-pricing-strategy-analy_market-research-managers/) | Market Research Managers |
 | [Prior Art Analysis Assistant](../jobs/legal/research/prior-art-analysis-assistant.md) | [AI for Prior Art Analysis](https://completeaitraining.com/lesson/20c-course-ai-for-prior-art-analysis_patent-agents/) | Patent Agents |
@@ -239,5 +241,6 @@
 | [VPN Configuration and Management Assistant](../jobs/it-and-development/cloud-and-devops/vpn-configuration-and-management-assistant.md) | [AI for VPN Configuration and Management](https://completeaitraining.com/lesson/20k-course-ai-for-vpn-configuration-and-_network-engineers/) | Network Engineers |
 | [Whistleblower Policy Manager](../jobs/legal/security-and-compliance/whistleblower-policy-manager.md) | [AI for Whistleblower Policy Management](https://completeaitraining.com/lesson/20k-course-ai-for-whistleblower-policy-m_compliance-officers/) | Compliance Officers |
 | [Wireless Network Optimization Assistant](../jobs/it-and-development/cloud-and-devops/wireless-network-optimization-assistant.md) | [AI for Wireless Network Optimization](https://completeaitraining.com/lesson/20d-course-ai-for-wireless-network-optim_network-engineers/) | Network Engineers |
+| [Workflow Orchestrator](../jobs/operations/productivity/workflow-orchestrator.md) | [AI for Workflow Optimization](https://completeaitraining.com/lesson/20f-course-ai-for-workflow-optimization_service-managers/) | Service Managers |
 
 [← All credits](../CREDITS.md)

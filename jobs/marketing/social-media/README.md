@@ -1,6 +1,6 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 23 Grok Bot templates.
+Plan, write and measure posts across networks. 25 Grok Bot templates.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,9 +24,11 @@ Plan, write and measure posts across networks. 23 Grok Bot templates.
 | [Tiktok Automation](tiktok-automation.md) | Upload, publish, and manage TikTok videos and photos via Composio's TikTok toolkit. |
 | [Twitter Ai Influencer Manager](twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
 | [Twitter Automation](twitter-automation.md) | Automate Twitter/X posts, search, users, bookmarks, lists, and media via Rube MCP. |
+| [Twitter Share Card Maker](twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |
 | [Whatsapp Automation](whatsapp-automation.md) | Automate WhatsApp Business messaging, templates, media, and contacts via Rube MCP. |
 | [X Article Publisher](x-article-publisher-skill.md) | Publish articles to X/Twitter with formatted posts and media. |
 | [X Brief](x-brief.md) | Connects to X, analyzes your recent posts to identify your beat, and flags relevant events with a daily wrap-up. |
+| [Xiaohongshu Card Deck Generator](xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
 | [Xiaohongshu Content Strategist](xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
 | [Youtube Automation](youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 

@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **52 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **59 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,17 @@ Recruiting, onboarding and people operations. **52 ready-made Grok Bot templates
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 16 |
+| [Writing & Content](writing-and-content/README.md) | 20 |
 | [Data Analysis](data-analysis/README.md) | 9 |
+| [Productivity](productivity/README.md) | 6 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
-| [Productivity](productivity/README.md) | 5 |
 | [Research](research/README.md) | 4 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
 | [Security & Compliance](security-and-compliance/README.md) | 3 |
 | [Knowledge Management](knowledge-management/README.md) | 2 |
+| [Office Tools](office-tools/README.md) | 2 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Design](design/README.md) | 1 |
-| [Office Tools](office-tools/README.md) | 1 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 
 ## Writing & Content
 
@@ -31,10 +31,13 @@ Recruiting, onboarding and people operations. **52 ready-made Grok Bot templates
 | [Compliance Communication Planner](../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Cover Letter Generator](writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Cv Generator](writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
+| [Employee Handbook Builder](writing-and-content/employee-handbook-builder.md) | Builds a plain-English employee handbook for small businesses, flagging state-law checks for attorney review. |
 | [Employment Contract Templates](writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Executive Resume Writer](writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 | [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Interview Prep Generator](writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
+| [Job Application Optimizer](writing-and-content/job-application-optimizer.md) | Tailor resumes, cover letters, and interview prep to each job posting. |
+| [Job Post Writer](writing-and-content/job-post-writer.md) | Writes honest, effective job posts that attract the right candidates for small businesses. |
 | [Linkedin Profile Optimizer](../marketing/writing-and-content/linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
 | [Reference List Builder](writing-and-content/reference-list-builder.md) | Formats professional reference lists and prepares reference materials for job applications. |
 | [Resume Bullet Writer](writing-and-content/resume-bullet-writer.md) | Transform weak resume bullets into achievement-focused statements with metrics and impact. |
@@ -42,6 +45,7 @@ Recruiting, onboarding and people operations. **52 ready-made Grok Bot templates
 | [Resume Quantifier](writing-and-content/resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |
 | [Resume Section Builder](writing-and-content/resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
 | [Resume Tailor](../operations/writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
+| [SOP Writer](../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
 | [Tech Resume Optimizer](../it-and-development/writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 
 ## Data Analysis
@@ -58,6 +62,17 @@ Recruiting, onboarding and people operations. **52 ready-made Grok Bot templates
 | [Resume Ats Optimizer](data-analysis/resume-ats-optimizer.md) | Analyzes resumes for ATS compatibility and optimizes keyword match against job descriptions. |
 | [Team Composition Analysis](data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Bamboohr Automation](productivity/bamboohr-automation.md) | Automate BambooHR HR operations: employees, time-off, benefits, dependents, and updates. |
+| [Event Staffing Ordering](../operations/productivity/event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
+| [Git Pr Workflows Onboard](productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
+| [Hiring Scorecard Builder](productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
+| [Hr Pro](productivity/hr-pro.md) | HR partner for hiring, onboarding, PTO, performance, and compliant policies. |
+| [Jobgpt](productivity/jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |
+
 ## Self-Improvement
 
 | Template | What it does |
@@ -68,16 +83,6 @@ Recruiting, onboarding and people operations. **52 ready-made Grok Bot templates
 | [Feedback Mastery](../management/self-improvement/feedback-mastery.md) | Prepare, deliver, and follow up on constructive feedback using structured frameworks. |
 | [Interview Coach](self-improvement/interview-coach.md) | Full job search coaching: JD decoding, mock interviews, transcript analysis, and comp negotiation. |
 | [Viboscope](self-improvement/viboscope.md) | Match with compatible people using validated psychometrics. |
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Bamboohr Automation](productivity/bamboohr-automation.md) | Automate BambooHR HR operations: employees, time-off, benefits, dependents, and updates. |
-| [Event Staffing Ordering](../operations/productivity/event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
-| [Git Pr Workflows Onboard](productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
-| [Hr Pro](productivity/hr-pro.md) | HR partner for hiring, onboarding, PTO, performance, and compliant policies. |
-| [Jobgpt](productivity/jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |
 
 ## Research
 
@@ -112,22 +117,24 @@ Recruiting, onboarding and people operations. **52 ready-made Grok Bot templates
 | [Insurance Training and Knowledge Manager](../customer-support/knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
 | [Resume Version Manager](knowledge-management/resume-version-manager.md) | Track resume versions, maintain a master resume, and manage tailored variants. |
 
-## Design
-
-| Template | What it does |
-|---|---|
-| [Creative Portfolio Resume](../creatives/design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
-
 ## Office Tools
 
 | Template | What it does |
 |---|---|
+| [Modern Minimal Resume Builder](office-tools/modern-minimal-resume-builder.md) | Turns your work history into a clean A4 one-page resume ready for print or PDF. |
 | [Odoo Hr Payroll Setup](office-tools/odoo-hr-payroll-setup.md) | Configure Odoo salary structures, payslip rules, leave policies, and payroll journal entries. |
 
 ## Sales & Negotiation
 
 | Template | What it does |
 |---|---|
+| [Sales Comp Plan Designer](sales-and-negotiation/sales-comp-plan-designer.md) | Designs sales compensation plans with pay mixes, accelerators, quotas, and cost tracking. |
 | [Workorai](sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
+
+## Design
+
+| Template | What it does |
+|---|---|
+| [Creative Portfolio Resume](../creatives/design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
 
 [← All job fields](../../README.md#browse-by-job) · [Human Resources on the website](https://templatesgrokbot.com/jobs/human-resources)

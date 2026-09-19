@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 92 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 97 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,12 +21,13 @@ Plan, prioritise and clear the recurring admin. 92 Grok Bot templates, 30 of the
 | [Brave Man](brave-man.md) | Runs a clarifying interview for new projects, then outputs a ready prompt.md for execution. |
 | [Build](../../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Bulletmind](../../education/productivity/bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
-| [Calendar Defragmenter](calendar-defragmenter.md) | Audit your calendar, reclaim your week with focus blocks and diplomatic meeting cuts. |
+| [Calendar Defragmenter](calendar-defragmenter.md) | Audits your calendar, proposes consolidations and focus blocks, and drafts the messages to reclaim your week. |
 | [Calendly Automation](../../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Clickup Automation](../../operations/productivity/clickup-automation.md) | Automate ClickUp project management via Rube MCP — tasks, hierarchy, comments. |
 | [Coda Automation](../../operations/productivity/coda-automation.md) | Automate Coda docs, tables, formulas, permissions, and publishing via MCP. |
 | [Conductor New Track](conductor-new-track.md) | Create a new track with specification and phased implementation plan. |
 | [Conductor Status](conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
+| [Crisis Management Planner](crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
 | [Daily Meeting Update](../../it-and-development/productivity/daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Deadline Prep](deadline-prep.md) | Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you |
 | [Decision Navigator](decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
@@ -40,6 +41,7 @@ Plan, prioritise and clear the recurring admin. 92 Grok Bot templates, 30 of the
 | [Git Pr Workflows Onboard](../../human-resources/productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
 | [Google Calendar Automation](google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
 | [Hackathon Ai Strategist](hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
+| [Hiring Scorecard Builder](../../human-resources/productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
 | [Hr Pro](../../human-resources/productivity/hr-pro.md) | HR partner for hiring, onboarding, PTO, performance, and compliant policies. |
 | [Idea Autopsy](../../executives-and-strategy/productivity/idea-autopsy.md) | Autopsy a business idea before you build it: kill-list check, five hard filters, a free-AI one-prompt test, live ad-market verification, and a verdict |
 | [Idea Os](../../product-development/productivity/idea-os.md) | Five-phase pipeline turning raw ideas into PRD, research, and execution plans. |
@@ -59,11 +61,14 @@ Plan, prioritise and clear the recurring admin. 92 Grok Bot templates, 30 of the
 | [Notion Meeting Intelligence](notion-meeting-intelligence.md) | Prep meeting agendas and pre-reads using Notion context and Codex research. |
 | [Odoo Manufacturing Advisor](../../operations/productivity/odoo-manufacturing-advisor.md) | Configure Odoo Manufacturing: BoMs, work centers, routings, MRP runs, and production order workflows. |
 | [Odoo Project Timesheet](../../operations/productivity/odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
+| [OKR Plan Generator](okr-plan-generator.md) | Generates structured OKR plans for teams following Google/Intel methodology. |
 | [Onboarding](../../product-development/productivity/onboarding.md) | Optimize post-signup onboarding to speed users to their aha moment and boost activation. |
+| [Onboarding Checklist Generator](onboarding-checklist-generator.md) | Generates customized client onboarding checklists with phases, owners, dependencies, and email templates. |
 | [Onboarding Cro](../../product-development/productivity/onboarding-cro.md) | Audits and optimizes user onboarding to reduce time-to-value and increase activation rates. |
 | [Osterwalder Canvas Architect](../../executives-and-strategy/productivity/osterwalder-canvas-architect.md) | Iteratively build and audit logically consistent 9-block Business Model Canvases. |
 | [Outlook Automation](../../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Outlook Calendar Automation](outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
+| [Parallel Feature Coordinator](../../it-and-development/productivity/parallel-feature-coordinator.md) | Coordinate parallel feature development with file ownership and conflict avoidance. |
 | [Plan Writing](plan-writing.md) | Breaks down multi-step work into clear, verifiable tasks and saves the plan as a markdown file. |
 | [Planning](planning.md) | Creates and maintains markdown planning files to track complex multi-step tasks. No context loss, no goal drift. Always reads before deciding, updates |
 | [Planning And Task Breakdown](planning-and-task-breakdown.md) | Breaks specs into ordered, verifiable tasks with acceptance criteria. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **55 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **61 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,12 +11,13 @@ Press, internal comms and reputation. **55 ready-made Grok Bot templates** for t
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 20 |
-| [Writing & Content](writing-and-content/README.md) | 11 |
-| [Research](research/README.md) | 9 |
-| [Social Media](social-media/README.md) | 8 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 21 |
+| [Writing & Content](writing-and-content/README.md) | 12 |
+| [Research](research/README.md) | 11 |
+| [Social Media](social-media/README.md) | 9 |
 | [Data Analysis](data-analysis/README.md) | 5 |
 | [Design](design/README.md) | 2 |
+| [Support & Community](support-and-community/README.md) | 1 |
 
 ## Marketing & Growth
 
@@ -42,6 +43,7 @@ Press, internal comms and reputation. **55 ready-made Grok Bot templates** for t
 | [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
 | [Set Up a Backlink Campaign](../marketing/marketing-and-growth/backlink-kampagne.md) | Plans a clean link campaign across five prospect categories and ships outreach mails with it. |
 | [Subject Line Psychologist](../marketing/marketing-and-growth/subject-line-psychologist.md) | Craft email subject lines that earn opens through honest psychological triggers. |
+| [UTM Link Generator](../marketing/marketing-and-growth/utm-link-generator.md) | Generates consistent UTM-tagged links and maintains a registry to prevent duplicates. |
 
 ## Writing & Content
 
@@ -58,6 +60,7 @@ Press, internal comms and reputation. **55 ready-made Grok Bot templates** for t
 | [Internal Comms Community](writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Internal Comms Drafter](writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
 | [Patent Client Communication Assistant](../legal/writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
+| [Press Conference Simulator](writing-and-content/press-conference-simulator.md) | Generates authentic coach and player press conference responses for any sports scenario. |
 
 ## Research
 
@@ -65,6 +68,7 @@ Press, internal comms and reputation. **55 ready-made Grok Bot templates** for t
 |---|---|
 | [Brand Perception Study Assistant](../management/research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Competitive Ads Extractor](../marketing/research/competitive-ads-extractor.md) | Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns. |
+| [Contact Hunter](../sales/research/contact-hunter.md) | Finds and verifies public contact details for people and companies. |
 | [Daily News Report](../operations/research/daily-news-report.md) | Scrape preset URLs, filter high-quality tech news, and output a daily Markdown report. |
 | [Discover Brand Materials](../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
 | [Fact Checker](../writers/research/fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
@@ -72,6 +76,7 @@ Press, internal comms and reputation. **55 ready-made Grok Bot templates** for t
 | [Last30days](../marketing/research/last30days.md) | Research any topic from the last 30 days on Reddit, X, and the web. |
 | [Podcast Trend Scout](../marketing/research/podcast-trend-scout.md) | Scouts 3-5 emerging tech topics weekly for The Build podcast episodes. |
 | [Search Specialist](../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
+| [Stock Photo Finder](../creatives/research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 
 ## Social Media
 
@@ -83,6 +88,7 @@ Press, internal comms and reputation. **55 ready-made Grok Bot templates** for t
 | [Social Orchestrator](../marketing/social-media/social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |
 | [Twitter Ai Influencer Manager](../marketing/social-media/twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
 | [Twitter Automation](../marketing/social-media/twitter-automation.md) | Automate Twitter/X posts, search, users, bookmarks, lists, and media via Rube MCP. |
+| [Twitter Share Card Maker](../marketing/social-media/twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |
 | [X Article Publisher](../marketing/social-media/x-article-publisher-skill.md) | Publish articles to X/Twitter with formatted posts and media. |
 | [X Brief](../marketing/social-media/x-brief.md) | Connects to X, analyzes your recent posts to identify your beat, and flags relevant events with a daily wrap-up. |
 
@@ -102,5 +108,11 @@ Press, internal comms and reputation. **55 ready-made Grok Bot templates** for t
 |---|---|
 | [Anthropic Brand Application](../creatives/design/anthropic-brand-guidelines.md) | Applies Anthropic brand standards to artifacts: colors, typography, visual language. |
 | [Brand Guidelines](../marketing/design/brand-guidelines.md) | Apply brand colors, typography, and tone to user-facing content and artifacts. |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Review Response Writer](support-and-community/review-response-writer.md) | Writes review responses in your voice, triages each review, and flags escalations. |
 
 [← All job fields](../../README.md#browse-by-job) · [PR and Communications on the website](https://templatesgrokbot.com/jobs/pr-and-communications)

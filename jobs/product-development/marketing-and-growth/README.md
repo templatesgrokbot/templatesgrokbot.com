@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Product Development
 
-Campaigns, ads, conversion and launch plans. 31 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 32 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,6 +25,7 @@ Campaigns, ads, conversion and launch plans. 31 Grok Bot templates, 2 of them fi
 | [Free Tool Strategy](../../marketing/marketing-and-growth/free-tool-strategy.md) | Plan and evaluate free tools for lead gen, SEO, and brand awareness. |
 | [Growth Engine](../../marketing/marketing-and-growth/growth-engine.md) | Growth engine for digital products with growth hacking, SEO, and viral loops. |
 | [Launch Strategy](../../marketing/marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
+| [Launch War Room](launch-war-room.md) | Run an adversarial go/no-go war room and phased rollout plan for any launch. |
 | [Marketing Ideas](../../marketing/marketing-and-growth/marketing-ideas.md) | Scores and prioritizes 140 marketing ideas for SaaS products by feasibility. |
 | [Marketing Strategy Pmm](../../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Paywall Upgrade Cro](../../marketing/marketing-and-growth/paywall-upgrade-cro.md) | Audit in-app paywalls and upgrade screens to convert free users to paid subscribers. |

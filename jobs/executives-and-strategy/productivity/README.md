@@ -9,7 +9,7 @@ Plan, prioritise and clear the recurring admin. 20 Grok Bot templates, 5 of them
 | [Auri Core](../../product-development/productivity/auri-core.md) | Voice assistant product strategy and roadmap assistant for Auri (Alexa + Claude). |
 | [Before You Build](../../product-development/productivity/before-you-build.md) | Pause before coding to check demand, alternatives, and switching costs. |
 | [Brainstorming](../../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
-| [Calendar Defragmenter](../../management/productivity/calendar-defragmenter.md) | Audit your calendar, reclaim your week with focus blocks and diplomatic meeting cuts. |
+| [Calendar Defragmenter](../../management/productivity/calendar-defragmenter.md) | Audits your calendar, proposes consolidations and focus blocks, and drafts the messages to reclaim your week. |
 | [Claude Speed Reader](../../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
 | [Find Complementary Founders](find-complementary-founders.md) | Match founders by evidence, not claims — publish only your own owner's profile. |
 | [Game Changing Features](game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |

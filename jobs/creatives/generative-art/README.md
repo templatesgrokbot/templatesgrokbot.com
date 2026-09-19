@@ -1,6 +1,6 @@
 # Generative Art templates for Creatives
 
-Make images, illustrations and artwork. 44 Grok Bot templates, 41 of them filed in this folder; the others live under their main field and are linked from here.
+Make images, illustrations and artwork. 46 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -38,8 +38,10 @@ Make images, illustrations and artwork. 44 Grok Bot templates, 41 of them filed 
 | [Multimodal Audiocraft](multimodal-audiocraft.md) | Generates music and sound effects from text descriptions using AudioCraft models. |
 | [Multimodal Segment Anything](multimodal-segment-anything.md) | Segment any object in images using points, boxes, or automatic mask generation. |
 | [Multimodal Stable Diffusion](multimodal-stable-diffusion.md) | Generate images from text prompts using Stable Diffusion models. |
+| [Novel Cover Designer](novel-cover-designer.md) | Generates professional web novel covers with title and author name from book details. |
 | [Patentfig](patentfig.md) | Generate patent-office-compliant figures from text or images via the PatentFig API. |
 | [Rayden Use](rayden-use.md) | Build and maintain Rayden UI components and screens in Figma with design token enforcement. |
+| [Reddit Post Card Generator](reddit-post-card-generator.md) | Renders user stories into realistic Reddit post cards for video overlays and social sharing. |
 | [Runapi Cli](runapi-cli.md) | Generate AI images, videos, and music via the RunAPI CLI. |
 | [Scientific Schematics](../../science-and-research/generative-art/scientific-schematics.md) | Generate publication-quality scientific diagrams from natural language descriptions. |
 | [Scroll Experience](scroll-experience.md) | Build scroll-driven animations and parallax storytelling for narrative websites. |

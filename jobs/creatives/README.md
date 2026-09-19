@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **319 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **362 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,21 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 133 |
-| [Generative Art](generative-art/README.md) | 44 |
+| [Design](design/README.md) | 141 |
+| [Generative Art](generative-art/README.md) | 46 |
+| [Generative Code](generative-code/README.md) | 45 |
 | [Coding](coding/README.md) | 34 |
-| [Generative Code](generative-code/README.md) | 30 |
-| [Writing & Content](writing-and-content/README.md) | 22 |
+| [Writing & Content](writing-and-content/README.md) | 26 |
+| [Social Media](social-media/README.md) | 13 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 11 |
-| [Social Media](social-media/README.md) | 11 |
-| [Video Editing](video-editing/README.md) | 10 |
-| [Generative Video](generative-video/README.md) | 7 |
-| [Research](research/README.md) | 4 |
+| [Video Editing](video-editing/README.md) | 11 |
+| [Generative Video](generative-video/README.md) | 9 |
+| [Office Tools](office-tools/README.md) | 6 |
+| [Research](research/README.md) | 5 |
 | [Text-To-Speech](text-to-speech/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
 | [Data Analysis](data-analysis/README.md) | 2 |
+| [Text-To-Video](text-to-video/README.md) | 2 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Productivity](productivity/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
@@ -56,10 +58,10 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 | [Cli Ui Designer](design/cli-ui-designer.md) | Creates terminal-inspired web interfaces with authentic CLI aesthetics. |
 | [Code Showcase Core Components](../it-and-development/design/code-showcase-core-components.md) | Use design tokens and core components for consistent UI. |
 | [Color Blocking](design/color-blocking.md) | Build Mondrian-style layouts with bold color blocks and thick grid lines. |
-| [Color Palette Extractor](design/color-palette-extractor.md) | Extract accessible color palettes from images, websites, or designs and export in multiple formats. |
+| [Color Palette Extractor](design/color-palette-extractor.md) | Extracts color palettes from images or sites and exports them in multiple formats. |
 | [Color Theory Design Assistant](design/color-theory-design-assistant.md) | Guides UX/UI designers through color theory, palettes, and accessibility. |
 | [Creative Portfolio Resume](design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
-| [CSS Animation Creator](design/css-animation-creator.md) | Create production-grade CSS animations, transitions, and micro-interactions for web UIs. |
+| [CSS Animation Creator](design/css-animation-creator.md) | Create production-grade, accessible CSS animations and motion design for web UIs. |
 | [Cyberpunk Ui](design/cyberpunk-ui.md) | Generate neon-on-black UI with clipped corners and glitch accents. |
 | [Dark Mode](../it-and-development/design/dark-mode.md) | Dark mode design guide: surfaces, typography, and accent rules. |
 | [Design](design/design.md) | Design brand assets, logos, UI tokens, banners, icons, and social photos from your requests. |
@@ -79,14 +81,18 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 | [Design Ux](../it-and-development/design/design-ux.md) | Heuristic usability audit of interactive UIs against Nielsen's 10 and interaction add-ons. Scores live rendered artifact, not mockups. Fixes then re-a |
 | [Deterministic Design](design/deterministic-design.md) | Render UI, measure balance with math, and run a Nielsen usability audit. |
 | [Diagrammer](../it-and-development/design/diagrammer.md) | Turns plain-English diagram requests into clean blueprint-style SVG files for docs and slides. |
+| [Digital Guide Preview](../marketing/design/digital-guide-preview.md) | Turns your course content into a two-page ebook preview for lead magnets. |
 | [Draw](design/draw.md) | Create, edit, and convert vector graphics and diagrams via LibreOffice Draw. |
 | [Draw Io](../it-and-development/design/draw-io.md) | Creates, edits, and reviews draw.io diagrams from .drawio XML files. |
 | [Duotone Design](design/duotone-design.md) | Two-color web and app designs with duotone image effects across CSS, SwiftUI, Flutter, React Native, and Compose. |
 | [Editorial Design](design/editorial-design.md) | Generate magazine-inspired layouts with serif headlines, drop caps, and columnar text. |
+| [Editorial Sketchnote Composer](design/editorial-sketchnote-composer.md) | Turns a concept into a magazine-style visual narrative with six layout templates. |
+| [Editorial Web Prototyper](design/editorial-web-prototyper.md) | Creates editorial-minimalist web prototypes with warm monochrome canvas and serif typography. |
 | [Emil Design Eng](design/emil-design-eng.md) | UI polish, animation direction, and high-craft component decisions for product interfaces. |
 | [Figma Automation](design/figma-automation.md) | Automate Figma file inspection, component extraction, token export, and image rendering via Rube MCP. |
 | [Flat Design](../it-and-development/design/flat-design.md) | Generate UI code with zero shadows, sharp edges, and bold solid colors. |
 | [Flat Design 2](../it-and-development/design/flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
+| [Font Pairing Suggester](design/font-pairing-suggester.md) | Recommends font pairings and Google Fonts alternatives with hierarchy examples. |
 | [Frontend Design](design/frontend-design.md) | Distinctive frontend design that avoids AI defaults and follows the brief. |
 | [Game Art](design/game-art.md) | Guide game art style, asset pipeline, and animation workflow decisions. |
 | [Game Designer](design/game-designer.md) | Designs game mechanics, balancing, and player progression systems. |
@@ -114,12 +120,15 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 | [Interaction Design Assistant](design/interaction-design-assistant.md) | Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff. |
 | [Interactive Portfolio](design/interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
 | [Isometric Design](design/isometric-design.md) | Guides implementing isometric 3D views without vanishing points for web and apps. |
+| [Landing Page Designer](design/landing-page-designer.md) | Turns brand answers into a deployable landing page, refined in chat. |
 | [Lookdev](design/lookdev.md) | Build interactive studios for tuning, editing, and annotating creative work by eye. |
+| [Magazine Poster Designer](design/magazine-poster-designer.md) | Turns your content into a Sunday-paper style magazine poster. |
 | [Material Design](../it-and-development/design/material-design.md) | Implement Google's Material Design aesthetic for web and app interfaces. |
 | [Maximalism](../it-and-development/design/maximalism.md) | Implement dense, ornate, grid-based maximalist UI for web and mobile. |
 | [Minimalism](design/minimalism.md) | Generate minimal layouts with extreme whitespace, strict typography, and no decoration. |
 | [Minimalist Ui](design/minimalist-ui.md) | Build warm monochrome editorial UIs with crisp borders and restrained motion. |
 | [Monochromatic Ui](design/monochromatic-ui.md) | Generate a single-hue UI palette with tints, shades, and implementation code for web, SwiftUI, or Flutter. |
+| [Motion Language Designer](design/motion-language-designer.md) | Designs a product's motion language and exports tokens, Framer Motion variants, and CSS. |
 | [Neo Brutalism](design/neo-brutalism.md) | Implement neo-brutalist UI with thick borders, hard shadows, and bright colors. |
 | [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Opal or Obsidian UI Builder](design/opal-or-obsidian-ui-builder.md) | Builds parameterized opal or obsidian UI with OKLCH, WebGL/CSS fallback, and measured color reports. |
@@ -135,6 +144,7 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 | [Sci Fi Interface](design/sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Screenshot Ui Analyzer](design/screenshot-ui-analyzer.md) | Extracts all visible UI components, layout, and design patterns from screenshots. |
 | [Se Ux Ui Designer](design/se-ux-ui-designer.md) | Analyze user jobs, map journeys, and produce UX research artifacts for Figma designers. Identity: You are a UX research specialist that produces Jobs- |
+| [Social Carousel Designer](design/social-carousel-designer.md) | Turns a headline into a three-card social carousel with brand mark and numbering. |
 | [Soft Pastel](design/soft-pastel.md) | Implement soft pastel UI with desaturated colors, rounded edges, and airy spacing. |
 | [Steve Jobs Advisor](design/steve-jobs.md) | Simulates Steve Jobs for product, design, and presentation advice. |
 | [Stitch Design Taste](design/stitch-design-taste.md) | Generate Google Stitch DESIGN.md files for premium, anti-generic UI systems. |
@@ -203,8 +213,10 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 | [Multimodal Audiocraft](generative-art/multimodal-audiocraft.md) | Generates music and sound effects from text descriptions using AudioCraft models. |
 | [Multimodal Segment Anything](generative-art/multimodal-segment-anything.md) | Segment any object in images using points, boxes, or automatic mask generation. |
 | [Multimodal Stable Diffusion](generative-art/multimodal-stable-diffusion.md) | Generate images from text prompts using Stable Diffusion models. |
+| [Novel Cover Designer](generative-art/novel-cover-designer.md) | Generates professional web novel covers with title and author name from book details. |
 | [Patentfig](generative-art/patentfig.md) | Generate patent-office-compliant figures from text or images via the PatentFig API. |
 | [Rayden Use](generative-art/rayden-use.md) | Build and maintain Rayden UI components and screens in Figma with design token enforcement. |
+| [Reddit Post Card Generator](generative-art/reddit-post-card-generator.md) | Renders user stories into realistic Reddit post cards for video overlays and social sharing. |
 | [Runapi Cli](generative-art/runapi-cli.md) | Generate AI images, videos, and music via the RunAPI CLI. |
 | [Scientific Schematics](../science-and-research/generative-art/scientific-schematics.md) | Generate publication-quality scientific diagrams from natural language descriptions. |
 | [Scroll Experience](generative-art/scroll-experience.md) | Build scroll-driven animations and parallax storytelling for narrative websites. |
@@ -215,6 +227,56 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 | [Unsplash Integration](generative-art/unsplash-integration.md) | Search and fetch high-quality free-to-use photos from Unsplash. |
 | [Viral Generator Builder](generative-art/viral-generator-builder.md) | Designs shareable generator tools that create identity moments people screenshot and share. |
 | [Vizcom](generative-art/vizcom.md) | Turn sketches into photorealistic 3D renders of physical products. |
+
+## Generative Code
+
+| Template | What it does |
+|---|---|
+| [3D Web Experience](../it-and-development/generative-code/3d-web-experience.md) | Builds 3D web experiences with Three.js, React Three Fiber, and Spline, balancing visual impact with performance. |
+| [Cyber Y2k](generative-code/cyber-y2k.md) | Generate web and app code with holographic, glitchy Y2K aesthetics. |
+| [Device 3D Showcase Builder](generative-code/device-3d-showcase-builder.md) | Turns your UI content into a 3D iPhone and MacBook showcase on a 1920×1080 canvas. |
+| [Diagram Generator](../it-and-development/generative-code/diagram-generator.md) | Generate, refine, and render diagrams from natural language, code, or schemas. |
+| [Excalidraw](../it-and-development/generative-code/excalidraw.md) | Extract, create, and modify Excalidraw diagrams without loading their verbose JSON into your main context. Always delegate to subagents. Never read an |
+| [Figma](../it-and-development/generative-code/figma.md) | Fetches Figma designs and translates them into production code. |
+| [Figma Implement Design](../it-and-development/generative-code/figma-implement-design.md) | Turn Figma designs into production-ready code with pixel-perfect fidelity using your project's design system. |
+| [Film Frame Title Card](generative-code/film-frame-title-card.md) | Creates cinematic film-frame title cards with light leaks, grain, and letterboxing. |
+| [Fluid Hero Frame Builder](generative-code/fluid-hero-frame-builder.md) | Turns a quote into a full-screen fluid background hero frame for video, landing pages, or posters. |
+| [Frontend Slides](generative-code/frontend-slides.md) | Create zero-dependency HTML presentations with rich animations from scratch or PPTX files. |
+| [Frontend Slides Frontend Slides](generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
+| [Frutiger Aero](generative-code/frutiger-aero.md) | Generate web/app UI code with early-2000s glossy, nature-inspired Frutiger Aero aesthetics. |
+| [Funnel Infographic Builder](../marketing/generative-code/funnel-infographic-builder.md) | 把 3-6 阶转化漏斗做成一张竖版信息图，一眼看清剩多少、漏多少。 |
+| [Game Design](generative-code/game-design.md) | Design game loops, documents, and progression systems. |
+| [Glitch Title Frame](generative-code/glitch-title-frame.md) | Generates a single-file cyberpunk glitch title frame for video transitions or hero sections. |
+| [Gpt Taste](generative-code/gpt-taste.md) | Award-level GSAP frontend pages with AIDA structure and gapless bento grids. |
+| [Json Canvas](generative-code/json-canvas.md) | Create and edit JSON Canvas .canvas files with nodes, edges, and groups. |
+| [Keynote Style Deck Builder](generative-code/keynote-style-deck-builder.md) | Create Apple Keynote-style slide decks from plain text outlines. |
+| [Landing Page Generator](../marketing/generative-code/landing-page-generator.md) | Generates conversion-optimized Next.js landing pages from a product description. |
+| [Logo Outro Frame Builder](generative-code/logo-outro-frame-builder.md) | Builds a single-file animated logo outro frame for video endings and brand closers. |
+| [MacOS Notification Banner](generative-code/macos-notification-banner.md) | Turn any message into a macOS-style notification banner for videos and social media. |
+| [Macos Screen Recorder](../it-and-development/generative-code/macos-screen-recorder.md) | Record macOS screen with system audio from CLI, no extra drivers. |
+| [Magazine Article Formatter](../writers/generative-code/magazine-article-formatter.md) | Turns Markdown drafts into polished magazine-style HTML for blogs and newsletters. — 将 Markdown 草稿转为适合博客和新闻通讯的杂志风格 HTML。 |
+| [Magazine Deck Builder](generative-code/magazine-deck-builder.md) | Turns notes into horizontal-swipe magazine-style web decks with an e-ink and WebGL look. |
+| [Magic Ui Generator](generative-code/magic-ui-generator.md) | Generate, compare, and integrate production-ready UI component variations using Magic by 21st.dev. |
+| [Makepad Font](../it-and-development/generative-code/makepad-font.md) | Configure and render text in Makepad using SDF fonts, layouter, and DSL. |
+| [Motion Canvas](../it-and-development/generative-code/motion-canvas.md) | Sets up and troubleshoots Motion Canvas projects for programmatic video creation with TypeScript. |
+| [NYT Frame Chart Maker](../writers/generative-code/nyt-frame-chart-maker.md) | Turns your data into a New York Times-style single-frame or animated chart for video or social cards. |
+| [Pixel Animation Frame Maker](generative-code/pixel-animation-frame-maker.md) | Generates retro pixel-art educational animation frames as looping CSS for video capture. |
+| [Premium 3d Website](../it-and-development/generative-code/premium-3d-website.md) | Build premium 3D websites with custom WebGL shaders, post-processing, and physics interactions. |
+| [Product Launch Email Builder](../marketing/generative-code/product-launch-email-builder.md) | Builds a 600px single-column HTML product launch email with table fallback. |
+| [Remotion Best Practices](../it-and-development/generative-code/remotion-best-practices.md) | Explain Remotion best practices by referencing rule files without writing code. |
+| [Review Animations](../it-and-development/generative-code/review-animations.md) | Review animation and motion code against a strict craft, performance, and accessibility bar. |
+| [Shader Programming Glsl](../it-and-development/generative-code/shader-programming-glsl.md) | Write and troubleshoot GLSL vertex/fragment shaders for web and game engines. |
+| [Skeuomorphism](generative-code/skeuomorphism.md) | Generates UI code that mimics real-world objects and physical textures. |
+| [Spotify Card Generator](generative-code/spotify-card-generator.md) | Renders any text or song into a Spotify-style now-playing card for overlays or pages. |
+| [Three.js Essentials](../it-and-development/generative-code/threejs-skills.md) | Build 3D scenes and interactive WebGL experiences with Three.js. |
+| [Threejs Animation](generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
+| [Threejs Fundamentals](generative-code/threejs-fundamentals.md) | Set up Three.js scenes, cameras, renderers, and object hierarchies. |
+| [Threejs Geometry](../it-and-development/generative-code/threejs-geometry.md) | Create and optimize Three.js geometry including built-in shapes, BufferGeometry, and instanced rendering. |
+| [Threejs Loaders](../it-and-development/generative-code/threejs-loaders.md) | Load GLTF, textures, HDR and manage async asset progress in Three.js. |
+| [Threejs Postprocessing](generative-code/threejs-postprocessing.md) | Add screen-space effects like bloom, DOF, and color grading in Three.js. |
+| [Typography First](../it-and-development/generative-code/typography-first.md) | Generates text-first UI code where typography is the primary visual element. |
+| [Ui Component](../it-and-development/generative-code/ui-component.md) | Generate a new UI component following StyleSeed design conventions. |
+| [VFX Text Cursor Generator](generative-code/vfx-text-cursor-generator.md) | Generates a video opening frame with typewriter text, chromatic trails, and light leaks. |
 
 ## Coding
 
@@ -255,41 +317,6 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 | [Wiki Vitepress](../it-and-development/coding/wiki-vitepress.md) | Transform wiki Markdown into a polished VitePress site with dark Mermaid diagrams. |
 | [Wordpress Theme Development](../it-and-development/coding/wordpress-theme-development.md) | Build custom WordPress themes with block editor and 7.0 features. |
 
-## Generative Code
-
-| Template | What it does |
-|---|---|
-| [3D Web Experience](../it-and-development/generative-code/3d-web-experience.md) | Builds 3D web experiences with Three.js, React Three Fiber, and Spline, balancing visual impact with performance. |
-| [Cyber Y2k](generative-code/cyber-y2k.md) | Generate web and app code with holographic, glitchy Y2K aesthetics. |
-| [Diagram Generator](../it-and-development/generative-code/diagram-generator.md) | Generate, refine, and render diagrams from natural language, code, or schemas. |
-| [Excalidraw](../it-and-development/generative-code/excalidraw.md) | Extract, create, and modify Excalidraw diagrams without loading their verbose JSON into your main context. Always delegate to subagents. Never read an |
-| [Figma](../it-and-development/generative-code/figma.md) | Fetches Figma designs and translates them into production code. |
-| [Figma Implement Design](../it-and-development/generative-code/figma-implement-design.md) | Turn Figma designs into production-ready code with pixel-perfect fidelity using your project's design system. |
-| [Frontend Slides](generative-code/frontend-slides.md) | Create zero-dependency HTML presentations with rich animations from scratch or PPTX files. |
-| [Frontend Slides Frontend Slides](generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
-| [Frutiger Aero](generative-code/frutiger-aero.md) | Generate web/app UI code with early-2000s glossy, nature-inspired Frutiger Aero aesthetics. |
-| [Game Design](generative-code/game-design.md) | Design game loops, documents, and progression systems. |
-| [Gpt Taste](generative-code/gpt-taste.md) | Award-level GSAP frontend pages with AIDA structure and gapless bento grids. |
-| [Json Canvas](generative-code/json-canvas.md) | Create and edit JSON Canvas .canvas files with nodes, edges, and groups. |
-| [Landing Page Generator](../marketing/generative-code/landing-page-generator.md) | Generates conversion-optimized Next.js landing pages from a product description. |
-| [Macos Screen Recorder](../it-and-development/generative-code/macos-screen-recorder.md) | Record macOS screen with system audio from CLI, no extra drivers. |
-| [Magic Ui Generator](generative-code/magic-ui-generator.md) | Generate, compare, and integrate production-ready UI component variations using Magic by 21st.dev. |
-| [Makepad Font](../it-and-development/generative-code/makepad-font.md) | Configure and render text in Makepad using SDF fonts, layouter, and DSL. |
-| [Motion Canvas](../it-and-development/generative-code/motion-canvas.md) | Sets up and troubleshoots Motion Canvas projects for programmatic video creation with TypeScript. |
-| [Premium 3d Website](../it-and-development/generative-code/premium-3d-website.md) | Build premium 3D websites with custom WebGL shaders, post-processing, and physics interactions. |
-| [Remotion Best Practices](../it-and-development/generative-code/remotion-best-practices.md) | Explain Remotion best practices by referencing rule files without writing code. |
-| [Review Animations](../it-and-development/generative-code/review-animations.md) | Review animation and motion code against a strict craft, performance, and accessibility bar. |
-| [Shader Programming Glsl](../it-and-development/generative-code/shader-programming-glsl.md) | Write and troubleshoot GLSL vertex/fragment shaders for web and game engines. |
-| [Skeuomorphism](generative-code/skeuomorphism.md) | Generates UI code that mimics real-world objects and physical textures. |
-| [Three.js Essentials](../it-and-development/generative-code/threejs-skills.md) | Build 3D scenes and interactive WebGL experiences with Three.js. |
-| [Threejs Animation](generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
-| [Threejs Fundamentals](generative-code/threejs-fundamentals.md) | Set up Three.js scenes, cameras, renderers, and object hierarchies. |
-| [Threejs Geometry](../it-and-development/generative-code/threejs-geometry.md) | Create and optimize Three.js geometry including built-in shapes, BufferGeometry, and instanced rendering. |
-| [Threejs Loaders](../it-and-development/generative-code/threejs-loaders.md) | Load GLTF, textures, HDR and manage async asset progress in Three.js. |
-| [Threejs Postprocessing](generative-code/threejs-postprocessing.md) | Add screen-space effects like bloom, DOF, and color grading in Three.js. |
-| [Typography First](../it-and-development/generative-code/typography-first.md) | Generates text-first UI code where typography is the primary visual element. |
-| [Ui Component](../it-and-development/generative-code/ui-component.md) | Generate a new UI component following StyleSeed design conventions. |
-
 ## Writing & Content
 
 | Template | What it does |
@@ -304,18 +331,40 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 | [Copy Editing](../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
 | [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Humanizer](../writers/writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
+| [Magazine Blog Post Editor](../writers/writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
 | [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Marp Slide](writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
+| [Podcast Content Suite](../marketing/writing-and-content/podcast-content-suite.md) | Turn podcast transcripts into a full content marketing suite: blog, social, newsletter, show notes, audiograms, and SEO. |
 | [Podcast Editor](writing-and-content/podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |
 | [Podcast Metadata Specialist](../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
 | [Portfolio Case Study Writer](writing-and-content/portfolio-case-study-writer.md) | Transforms resume bullets into detailed portfolio case studies with context, action, and outcome. |
 | [Recipe Rescuer](writing-and-content/recipe-rescuer.md) | Adapts a recipe to what you actually have, and tells you when a substitution will not work. |
 | [Seo Aeo Landing Page Writer](../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
+| [Short Story Analyzer](../writers/writing-and-content/short-story-analyzer.md) | 拆解短篇网文的故事核、结构与爆点，产出可复用的拆文报告。 |
+| [Sports Trivia Builder](writing-and-content/sports-trivia-builder.md) | Generates sports trivia questions by sport, era, and difficulty with explanations. |
 | [Thread Writer](../writers/writing-and-content/thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |
 | [UX Copy](writing-and-content/design-ux-copy.md) | Write or review UX copy for buttons, errors, empty states, and toasts. |
 | [UX Copy Refiner](writing-and-content/ux-copy-refiner.md) | Rewrites UI microcopy so users instantly understand what happens next and what to do. |
 | [Video Script writer](writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
 | [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
+
+## Social Media
+
+| Template | What it does |
+|---|---|
+| [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
+| [Instagram Manager](../marketing/social-media/instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
+| [Linkedin Content Generator](../marketing/social-media/linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
+| [Linkedin Post Writer](../marketing/social-media/linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
+| [Social Media Copywriter](../marketing/social-media/social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |
+| [Social Post Writer Seo](../marketing/social-media/social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |
+| [Socialclaw](../marketing/social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
+| [Taisly Social Media Posting](../marketing/social-media/taisly-social-media-posting.md) | Prepare and publish approved short-form videos across major social platforms. Requires explicit user approval before any posting action. |
+| [Tiktok Automation](../marketing/social-media/tiktok-automation.md) | Upload, publish, and manage TikTok videos and photos via Composio's TikTok toolkit. |
+| [Twitter Share Card Maker](../marketing/social-media/twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |
+| [Xiaohongshu Card Deck Generator](../marketing/social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
+| [Xiaohongshu Content Strategist](../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
+| [Youtube Automation](../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 
 ## Marketing & Growth
 
@@ -333,27 +382,12 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 | [Social Media Strategy Planner](../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Youtube Seo Optimizer](../marketing/marketing-and-growth/youtube-seo-optimizer.md) | Optimize YouTube and podcast metadata for search and discovery. |
 
-## Social Media
-
-| Template | What it does |
-|---|---|
-| [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
-| [Instagram Manager](../marketing/social-media/instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
-| [Linkedin Content Generator](../marketing/social-media/linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
-| [Linkedin Post Writer](../marketing/social-media/linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
-| [Social Media Copywriter](../marketing/social-media/social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |
-| [Social Post Writer Seo](../marketing/social-media/social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |
-| [Socialclaw](../marketing/social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
-| [Taisly Social Media Posting](../marketing/social-media/taisly-social-media-posting.md) | Prepare and publish approved short-form videos across major social platforms. Requires explicit user approval before any posting action. |
-| [Tiktok Automation](../marketing/social-media/tiktok-automation.md) | Upload, publish, and manage TikTok videos and photos via Composio's TikTok toolkit. |
-| [Xiaohongshu Content Strategist](../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
-| [Youtube Automation](../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
-
 ## Video Editing
 
 | Template | What it does |
 |---|---|
 | [Audio Quality Controller](video-editing/audio-quality-controller.md) | Analyzes and enhances audio files to broadcast-quality standards with detailed reports. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Highlight Reel Scripter](video-editing/highlight-reel-scripter.md) | Creates shot lists and platform-specific cuts for sports highlight videos. |
 | [Podcast Clipper](video-editing/podcast-clipper.md) | Finds the clippable moments in a long recording and writes the captions for each. |
 | [Screenstudio Alt](video-editing/screenstudio-alt.md) | Auto-speed idle, zoom on clicks, overlay keys & cursor, export vertical from CLI. |
 | [Social Media Clip Creator](video-editing/social-media-clip-creator.md) | Transforms video content into platform-optimized clips with proper cropping, subtitles, thumbnails, and encoding. |
@@ -368,6 +402,7 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 
 | Template | What it does |
 |---|---|
+| [Explainer Video Builder](../marketing/generative-video/explainer-video-builder.md) | Turn any source material into a tight 60-90 second explainer video for your product. |
 | [Gemini Omni Flash Api](generative-video/gemini-omni-flash-api.md) | Generate and edit videos using Gemini Omni Flash with text, images, or existing clips. |
 | [Generate Animated Videos Remotion](generative-video/generate-animated-videos-remotion.md) | Makes 9:16 motion-graphics shorts in Remotion from a scene catalog. |
 | [Gregg Shorts](generative-video/gregg-shorts.md) | Turns topics into 9:16 explainer shorts with Greg Isenberg motion graphics. |
@@ -375,11 +410,24 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 | [Remotion](generative-video/remotion.md) | Generate walkthrough videos from Stitch screens using Remotion with transitions and text overlays. |
 | [Riffkit](generative-video/riffkit.md) | Transform a winning TikTok's formula into your own branded short video in 9 languages. |
 | [Sora](generative-video/sora.md) | Generates and manages Sora video clips via OpenAI's API using a bundled CLI. |
+| [Testimonial Video Builder](../marketing/generative-video/testimonial-video-builder.md) | Turn real customer reviews into polished social-proof videos with HyperFrames. |
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Canvas Deck Builder](office-tools/canvas-deck-builder.md) | 把内容排进锁死的 1920×1080 画布, 每页一个视觉重心, 不绑模板。 |
+| [Deck Export Repair](office-tools/deck-export-repair.md) | Repairs broken AI-generated slide decks and PDFs, restoring clean text, fonts, and structure. |
+| [Manifesto Deck Builder](office-tools/manifesto-deck-builder.md) | Turns your outline into a bold color-block manifesto deck, word-for-word unchanged. |
+| [PPTX Reference Analyzer](office-tools/pptx-reference-analyzer.md) | Analyzes reference PPTX decks for structure, theme, and design evidence without modifying them. |
+| [Replit Slides Deck Builder](office-tools/replit-slides-deck-builder.md) | Turn your content into a Replit Slides-style horizontal-swipe deck with one of eight themes. No mixing, no fuss. |
+| [Visual Asset Placer](office-tools/visual-asset-placer.md) | Selects and places approved visual assets in editable PPTX decks. |
 
 ## Research
 
 | Template | What it does |
 |---|---|
+| [Stock Photo Finder](research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 | [Usability Testing Assistant](research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
 | [Ux Researcher](research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
 | [Ux Researcher Designer](../product-development/research/ux-researcher-designer.md) | Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships. |
@@ -408,6 +456,13 @@ Designers, artists and content creators. **319 ready-made Grok Bot templates** f
 |---|---|
 | [Apify Trend Analysis](../marketing/data-analysis/apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
 | [Scientific Visualization](../science-and-research/data-analysis/scientific-visualization.md) | Create publication-ready scientific figures from data. |
+
+## Text-To-Video
+
+| Template | What it does |
+|---|---|
+| [HyperFrames Ad Director](../marketing/text-to-video/hyperframes-ad-director.md) | Turns a marketing brief into a finished short-form video ad with hook, script, storyboard, and platform cuts. |
+| [Video Frame Generator](text-to-video/video-frame-generator.md) | Turns your script into a cinematic, auto-playing video frame sequence. |
 
 ## Knowledge Management
 

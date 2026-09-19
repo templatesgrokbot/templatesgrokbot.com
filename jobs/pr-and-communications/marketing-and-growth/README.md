@@ -1,6 +1,6 @@
 # Marketing & Growth templates for PR and Communications
 
-Campaigns, ads, conversion and launch plans. 20 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 21 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,5 +26,6 @@ Campaigns, ads, conversion and launch plans. 20 Grok Bot templates, 1 of them fi
 | [Seo Podcast Optimizer](../../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
 | [Set Up a Backlink Campaign](../../marketing/marketing-and-growth/backlink-kampagne.md) | Plans a clean link campaign across five prospect categories and ships outreach mails with it. |
 | [Subject Line Psychologist](../../marketing/marketing-and-growth/subject-line-psychologist.md) | Craft email subject lines that earn opens through honest psychological triggers. |
+| [UTM Link Generator](../../marketing/marketing-and-growth/utm-link-generator.md) | Generates consistent UTM-tagged links and maintains a registry to prevent duplicates. |
 
 [← All PR and Communications templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/pr-and-communications)

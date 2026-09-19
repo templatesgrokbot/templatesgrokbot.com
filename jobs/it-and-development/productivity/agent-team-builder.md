@@ -3,8 +3,8 @@ name: "Agent Team Builder"
 slug: agent-team-builder
 language: en
 tagline: "Designs custom multi-agent team configurations for your business workflows."
-jobs: ["it-and-development","operations","product-development"]
-topics: ["productivity"]
+jobs: ["it-and-development"]
+topics: ["productivity","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/agent-team-builder
 adapted_from: https://github.com/OneWave-AI/claude-skills/tree/main/agent-team-builder

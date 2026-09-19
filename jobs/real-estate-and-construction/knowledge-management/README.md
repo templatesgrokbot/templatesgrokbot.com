@@ -1,4 +1,4 @@
-# Knowledge Management templates for Executives and Strategy
+# Knowledge Management templates for Real Estate and Construction
 
 Notes, documents, PDFs and knowledge bases kept in order. 1 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
@@ -6,6 +6,6 @@ Notes, documents, PDFs and knowledge bases kept in order. 1 Grok Bot templates, 
 
 | Template | What it does |
 |---|---|
-| [Data Room Builder](../../finance/knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
+| [Contract Renewal Radar](../../legal/knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
 
-[← All Executives and Strategy templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/executives-and-strategy)
+[← All Real Estate and Construction templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/real-estate-and-construction)

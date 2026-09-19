@@ -3,7 +3,7 @@ name: "Churn Autopsy Analyst"
 slug: churn-autopsy-analyst
 language: en
 tagline: "Analyze client churn to find root causes and build a retention playbook."
-jobs: ["customer-support","operations","management"]
+jobs: ["customer-support","marketing"]
 topics: ["data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/churn-autopsy-analyst

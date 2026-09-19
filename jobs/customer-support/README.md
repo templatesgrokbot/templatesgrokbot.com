@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **77 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **78 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Answering, routing and resolving customer requests. **77 ready-made Grok Bot tem
 |---|---:|
 | [Support & Community](support-and-community/README.md) | 25 |
 | [Data Analysis](data-analysis/README.md) | 22 |
-| [Productivity](productivity/README.md) | 8 |
+| [Productivity](productivity/README.md) | 9 |
 | [Coding](coding/README.md) | 3 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
 | [Research](research/README.md) | 3 |
@@ -63,7 +63,7 @@ Answering, routing and resolving customer requests. **77 ready-made Grok Bot tem
 |---|---|
 | [Churn Autopsy Analyst](data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
 | [Churn Prediction and Retention Assistant](data-analysis/churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
-| [Client Health Dashboard](data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
+| [Client Health Dashboard](data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
 | [Customer Engagement Assistant](data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
 | [Customer Feedback Insight Analyst](../management/data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
 | [Customer Feedback Insight Assistant](data-analysis/customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |
@@ -88,6 +88,7 @@ Answering, routing and resolving customer requests. **77 ready-made Grok Bot tem
 
 | Template | What it does |
 |---|---|
+| [ADHD Response Formatter](productivity/adhd-response-formatter.md) | Shapes every reply so an ADHD reader can act on it immediately. |
 | [Cal Com Automation](../operations/productivity/cal-com-automation.md) | Automate Cal.com scheduling: bookings, availability, webhooks, and teams via Composio. |
 | [Calendly Automation](../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Postmark Automation](../marketing/productivity/postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |

@@ -1,6 +1,6 @@
 # Writing & Content templates for IT and Development
 
-Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 13
 | [Documentation Engineer](documentation-engineer.md) | Architect and automate documentation systems that stay synchronized with code changes. |
 | [Documentation Expert](documentation-expert.md) | Creates, improves, and maintains project documentation from code and specs. |
 | [Documentation Templates](documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
+| [HADS Document Assistant](hads-document-assistant.md) | Creates, converts, and validates HADS-format technical documentation for human and AI readers. |
 | [Microsoft Learn Contributor](../../education/writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
 | [Patent Document Drafter](../../legal/writing-and-content/patent-document-drafter.md) | Drafts and manages patent documents, from applications to litigation support, for patent agents. |
 | [README](readme.md) | Generate thorough README documentation for any project. No code execution. No deployment. No production changes. All changes require your approval. |
@@ -26,7 +27,6 @@ Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 13
 | [Resume Formatter](../../human-resources/writing-and-content/resume-formatter.md) | Reformats resumes for ATS compatibility and clean, scannable layouts. |
 | [Resume Section Builder](../../human-resources/writing-and-content/resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
 | [Se Technical Writer](se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
-| [SOP Writer](../../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
 | [Tech Resume Optimizer](tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 | [Technical Writer](../../writers/writing-and-content/technical-writer.md) | Creates and improves technical documentation for APIs, SDKs, and user guides. |
 | [Unslop](../../writers/writing-and-content/unslop.md) | Post-process AI text through unslop CLI to strip AI writing patterns before publishing. |

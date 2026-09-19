@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **89 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **109 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,14 +11,16 @@ Authors, copywriters, editors and journalists. **89 ready-made Grok Bot template
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 47 |
-| [Research](research/README.md) | 15 |
+| [Writing & Content](writing-and-content/README.md) | 60 |
+| [Research](research/README.md) | 16 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 10 |
 | [Coding](coding/README.md) | 5 |
+| [Generative Code](generative-code/README.md) | 3 |
+| [Design](design/README.md) | 2 |
+| [Office Tools](office-tools/README.md) | 2 |
 | [Text-To-Speech](text-to-speech/README.md) | 2 |
-| [Design](design/README.md) | 1 |
+| [Data Analysis](data-analysis/README.md) | 1 |
 | [Generative Art](generative-art/README.md) | 1 |
-| [Office Tools](office-tools/README.md) | 1 |
 | [Productivity](productivity/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
@@ -50,12 +52,21 @@ Authors, copywriters, editors and journalists. **89 ready-made Grok Bot template
 | [Docs Architect](../it-and-development/writing-and-content/docs-architect.md) | Analyzes codebases to produce long-form technical manuals and ebooks. |
 | [Documentation Expert](../it-and-development/writing-and-content/documentation-expert.md) | Creates, improves, and maintains project documentation from code and specs. |
 | [Documentation Templates](../it-and-development/writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
+| [Game Recap Generator](writing-and-content/game-recap-generator.md) | Turn game stats and highlights into engaging recaps for any platform. |
 | [Humanizer](writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Legal Document Drafter](../legal/writing-and-content/legal-document-drafter.md) | Drafts, reviews, and researches legal documents for lawyers. |
+| [Long Novel Deconstructor](writing-and-content/long-novel-deconstructor.md) | 深度拆解长篇网文，产出可复用的写作框架与节奏地图。 |
+| [Long-Form Story Writer](writing-and-content/long-form-story-writer.md) | Plans and writes long web novels from premise to chapters, with structure-first control. |
+| [Magazine Blog Post Editor](writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
 | [Markdown Syntax Formatter](writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Microsoft Learn Contributor](../education/writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
+| [MVP Case Builder](writing-and-content/mvp-case-builder.md) | Builds data-backed MVP and awards cases with narratives and counter-arguments. |
+| [Novel Reverse Importer](writing-and-content/novel-reverse-importer.md) | Reverse-import an existing novel into a writable story project structure. |
+| [Novel Writing Router](writing-and-content/novel-writing-router.md) | Routes your novel-writing requests to the right tool and manages your author preferences. |
 | [Ocr Grammar Fixer](writing-and-content/ocr-grammar-fixer.md) | Cleans up garbled OCR text into clean, professional copy. No explanations, just corrections. No inventing meaning. No touching formatting like bullets |
 | [Ocr Quality Assurance](../operations/writing-and-content/ocr-quality-assurance.md) | Validates OCR-corrected text against original images for accuracy and completeness. |
+| [Play-by-Play Commentary Generator](writing-and-content/play-by-play-commentary-generator.md) | Generate realistic play-by-play sports commentary in multiple announcer styles. |
+| [Podcast Content Suite](../marketing/writing-and-content/podcast-content-suite.md) | Turn podcast transcripts into a full content marketing suite: blog, social, newsletter, show notes, audiograms, and SEO. |
 | [Podcast Editor](../creatives/writing-and-content/podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |
 | [Podcast Metadata Specialist](../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
 | [Professional Proofreader](writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
@@ -69,12 +80,16 @@ Authors, copywriters, editors and journalists. **89 ready-made Grok Bot template
 | [Seo Content Refresher](../marketing/writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
 | [Seo Content Writer](writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Seo Snippet Hunter](../marketing/writing-and-content/seo-snippet-hunter.md) | Format content for featured snippets and position zero with question-based blocks. |
+| [Short Story Analyzer](writing-and-content/short-story-analyzer.md) | 拆解短篇网文的故事核、结构与爆点，产出可复用的拆文报告。 |
+| [Short Story Writer](writing-and-content/short-story-writer.md) | 从情绪目标到成稿，完成一篇短篇网文。 |
+| [Story Review Coordinator](writing-and-content/story-review-coordinator.md) | Runs multi-perspective adversarial story reviews with automatic fallback and platform-specific rubrics. |
 | [Technical Writer](writing-and-content/technical-writer.md) | Creates and improves technical documentation for APIs, SDKs, and user guides. |
 | [Thread Writer](writing-and-content/thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |
 | [Unslop](writing-and-content/unslop.md) | Post-process AI text through unslop CLI to strip AI writing patterns before publishing. |
 | [Unslop File](writing-and-content/unslop-file.md) | Rewrite memory files to sound human-written while preserving code, URLs, and headings exactly. |
 | [Venue Templates](../education/writing-and-content/venue-templates.md) | Provides LaTeX templates and formatting specs for journals, conferences, posters, and grants. |
 | [Video Script writer](../creatives/writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
+| [Web Fiction De-AI Editor](writing-and-content/web-fiction-de-ai-editor.md) | 检测并清除网文中的AI写作痕迹，让文字回归自然、非模板化。 |
 | [Wiki Page Writer](../it-and-development/writing-and-content/wiki-page-writer.md) | Generate technical documentation pages with code-traced depth and Mermaid diagrams. |
 | [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
 | [Writing Clearly And Concisely](writing-and-content/writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |
@@ -96,6 +111,7 @@ Authors, copywriters, editors and journalists. **89 ready-made Grok Bot template
 | [Ml Paper Writing](../science-and-research/research/ml-paper-writing.md) | Drafts publication-ready ML/AI papers for top conferences from research repos and results. |
 | [Podcast Trend Scout](../marketing/research/podcast-trend-scout.md) | Scouts 3-5 emerging tech topics weekly for The Build podcast episodes. |
 | [Report Generator](../science-and-research/research/report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |
+| [Short Story Trend Scanner](research/short-story-trend-scanner.md) | 扫描短篇网文平台榜单，捕捉风口题材并输出可执行选题建议。 |
 | [Web Media Getter](../creatives/research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
 | [Web To Markdown](../it-and-development/research/web-to-markdown.md) | Converts webpage URLs to clean Markdown using a local browser-based CLI. |
 
@@ -124,6 +140,28 @@ Authors, copywriters, editors and journalists. **89 ready-made Grok Bot template
 | [Hugo To Markdown](../it-and-development/coding/hugo-to-markdown.md) | Convert Hugo documentation sites into standard Markdown by inspecting local config and templates. |
 | [Wiki Vitepress](../it-and-development/coding/wiki-vitepress.md) | Transform wiki Markdown into a polished VitePress site with dark Mermaid diagrams. |
 
+## Generative Code
+
+| Template | What it does |
+|---|---|
+| [Editorial E-Ink Deck Builder](generative-code/editorial-e-ink-deck-builder.md) | Turns your content into an editorial e-ink magazine deck with 10 layouts and 5 palettes. |
+| [Magazine Article Formatter](generative-code/magazine-article-formatter.md) | Turns Markdown drafts into polished magazine-style HTML for blogs and newsletters. — 将 Markdown 草稿转为适合博客和新闻通讯的杂志风格 HTML。 |
+| [NYT Frame Chart Maker](generative-code/nyt-frame-chart-maker.md) | Turns your data into a New York Times-style single-frame or animated chart for video or social cards. |
+
+## Design
+
+| Template | What it does |
+|---|---|
+| [Editorial Design](../creatives/design/editorial-design.md) | Generate magazine-inspired layouts with serif headlines, drop caps, and columnar text. |
+| [Kami Parchment Document Designer](design/kami-parchment-document-designer.md) | Turns notes and data into composed, print-ready editorial documents. |
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Document Markdown Converter](office-tools/document-markdown-converter.md) | Convert attached documents to local Markdown without uploading them externally. |
+| [Writer](../operations/office-tools/writer.md) | Create, convert, and automate documents with LibreOffice Writer. |
+
 ## Text-To-Speech
 
 | Template | What it does |
@@ -131,23 +169,17 @@ Authors, copywriters, editors and journalists. **89 ready-made Grok Bot template
 | [Podcast Generation](../creatives/text-to-speech/podcast-generation.md) | Generate spoken audio from text using Azure OpenAI Realtime API. No editing or mixing. |
 | [Speech](../creatives/text-to-speech/speech.md) | Generate spoken audio from text for narration, voiceovers, prompts, or accessibility reads. |
 
-## Design
+## Data Analysis
 
 | Template | What it does |
 |---|---|
-| [Editorial Design](../creatives/design/editorial-design.md) | Generate magazine-inspired layouts with serif headlines, drop caps, and columnar text. |
+| [Long-Form Web Novel Trend Scanner](data-analysis/long-form-web-novel-trend-scanner.md) | 分析起点、番茄、晋江等平台排行榜，提炼长篇网文市场趋势与热门题材。 |
 
 ## Generative Art
 
 | Template | What it does |
 |---|---|
 | [Article Illustrations](../creatives/generative-art/article-illustrations.md) | Generate hand-drawn 16:9 article illustrations with Grav character and sparse annotations. |
-
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [Writer](../operations/office-tools/writer.md) | Create, convert, and automate documents with LibreOffice Writer. |
 
 ## Productivity
 

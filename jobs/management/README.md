@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **384 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **388 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,11 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Productivity](productivity/README.md) | 92 |
-| [Data Analysis](data-analysis/README.md) | 68 |
-| [Research](research/README.md) | 51 |
+| [Productivity](productivity/README.md) | 97 |
+| [Data Analysis](data-analysis/README.md) | 67 |
+| [Research](research/README.md) | 50 |
 | [Coding](coding/README.md) | 44 |
-| [Knowledge Management](knowledge-management/README.md) | 20 |
+| [Knowledge Management](knowledge-management/README.md) | 19 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 18 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 14 |
 | [Security & Compliance](security-and-compliance/README.md) | 14 |
@@ -24,10 +24,10 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | [Office Tools](office-tools/README.md) | 11 |
 | [Design](design/README.md) | 5 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 5 |
+| [Generative Code](generative-code/README.md) | 5 |
 | [Prompt Engineering](prompt-engineering/README.md) | 5 |
-| [Generative Code](generative-code/README.md) | 4 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
 | [Support & Community](support-and-community/README.md) | 2 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
 
@@ -50,12 +50,13 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | [Brave Man](productivity/brave-man.md) | Runs a clarifying interview for new projects, then outputs a ready prompt.md for execution. |
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Bulletmind](../education/productivity/bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
-| [Calendar Defragmenter](productivity/calendar-defragmenter.md) | Audit your calendar, reclaim your week with focus blocks and diplomatic meeting cuts. |
+| [Calendar Defragmenter](productivity/calendar-defragmenter.md) | Audits your calendar, proposes consolidations and focus blocks, and drafts the messages to reclaim your week. |
 | [Calendly Automation](../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Clickup Automation](../operations/productivity/clickup-automation.md) | Automate ClickUp project management via Rube MCP — tasks, hierarchy, comments. |
 | [Coda Automation](../operations/productivity/coda-automation.md) | Automate Coda docs, tables, formulas, permissions, and publishing via MCP. |
 | [Conductor New Track](productivity/conductor-new-track.md) | Create a new track with specification and phased implementation plan. |
 | [Conductor Status](productivity/conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
+| [Crisis Management Planner](productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
 | [Daily Meeting Update](../it-and-development/productivity/daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Deadline Prep](productivity/deadline-prep.md) | Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you |
 | [Decision Navigator](productivity/decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
@@ -69,6 +70,7 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | [Git Pr Workflows Onboard](../human-resources/productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
 | [Google Calendar Automation](productivity/google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
 | [Hackathon Ai Strategist](productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
+| [Hiring Scorecard Builder](../human-resources/productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
 | [Hr Pro](../human-resources/productivity/hr-pro.md) | HR partner for hiring, onboarding, PTO, performance, and compliant policies. |
 | [Idea Autopsy](../executives-and-strategy/productivity/idea-autopsy.md) | Autopsy a business idea before you build it: kill-list check, five hard filters, a free-AI one-prompt test, live ad-market verification, and a verdict |
 | [Idea Os](../product-development/productivity/idea-os.md) | Five-phase pipeline turning raw ideas into PRD, research, and execution plans. |
@@ -88,11 +90,14 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | [Notion Meeting Intelligence](productivity/notion-meeting-intelligence.md) | Prep meeting agendas and pre-reads using Notion context and Codex research. |
 | [Odoo Manufacturing Advisor](../operations/productivity/odoo-manufacturing-advisor.md) | Configure Odoo Manufacturing: BoMs, work centers, routings, MRP runs, and production order workflows. |
 | [Odoo Project Timesheet](../operations/productivity/odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
+| [OKR Plan Generator](productivity/okr-plan-generator.md) | Generates structured OKR plans for teams following Google/Intel methodology. |
 | [Onboarding](../product-development/productivity/onboarding.md) | Optimize post-signup onboarding to speed users to their aha moment and boost activation. |
+| [Onboarding Checklist Generator](productivity/onboarding-checklist-generator.md) | Generates customized client onboarding checklists with phases, owners, dependencies, and email templates. |
 | [Onboarding Cro](../product-development/productivity/onboarding-cro.md) | Audits and optimizes user onboarding to reduce time-to-value and increase activation rates. |
 | [Osterwalder Canvas Architect](../executives-and-strategy/productivity/osterwalder-canvas-architect.md) | Iteratively build and audit logically consistent 9-block Business Model Canvases. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Outlook Calendar Automation](productivity/outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
+| [Parallel Feature Coordinator](../it-and-development/productivity/parallel-feature-coordinator.md) | Coordinate parallel feature development with file ownership and conflict avoidance. |
 | [Plan Writing](productivity/plan-writing.md) | Breaks down multi-step work into clear, verifiable tasks and saves the plan as a markdown file. |
 | [Planning](productivity/planning.md) | Creates and maintains markdown planning files to track complex multi-step tasks. No context loss, no goal drift. Always reads before deciding, updates |
 | [Planning And Task Breakdown](productivity/planning-and-task-breakdown.md) | Breaks specs into ordered, verifiable tasks with acceptance criteria. |
@@ -133,14 +138,11 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Abc Xyz Segmentation](../operations/data-analysis/abc-xyz-segmentation.md) | Segment SKUs by value and demand variability, assign planning policies, and reallocate planner attention. |
-| [AI Readiness Assessor](../executives-and-strategy/data-analysis/ai-readiness-assessor.md) | Assesses a business's AI readiness across six dimensions and produces a prioritized action report. |
-| [Board Deck Generator](../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates institutional-quality board meeting decks with financials, updates, and asks. |
 | [Brand Image Analyst](data-analysis/brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
 | [Business Analyst](../operations/data-analysis/business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
 | [Campaign Effectiveness Analyst](data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Carrier Relationship Management](../operations/data-analysis/carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
-| [Churn Autopsy Analyst](../customer-support/data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
-| [Client Health Dashboard](../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
+| [Client Health Dashboard](../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
 | [Compliance Monitoring Inspector](../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
 | [Contract Report Builder](../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Customer Demographic Insight Engine](data-analysis/customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
@@ -158,10 +160,9 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | [E-commerce Recommendation Optimizer](data-analysis/e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
 | [E-commerce UX Improvement Assistant](data-analysis/e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
 | [Energy Procurement](../operations/data-analysis/energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
-| [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, categorizes, flags issues, and reports. |
+| [Experiment Readout](../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Feedback Insight for Service Managers](data-analysis/feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
 | [Forecast Accuracy Review](../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
-| [Hiring Screener](../human-resources/data-analysis/hiring-screener.md) | Screens resumes against a job description and returns a ranked, evidence-backed shortlist. |
 | [Inventory Demand Planning](../operations/data-analysis/inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
 | [Inventory Optimization Assistant](data-analysis/inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
 | [Job Description Analyzer](../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
@@ -171,12 +172,15 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | [Meeting Insights Analyzer](data-analysis/meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
 | [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
 | [Otif Analysis](../operations/data-analysis/otif-analysis.md) | Audit delivery OTIF from order data, find metric gaps, and pinpoint where lateness concentrates. |
+| [Pipeline Health Analyzer](../sales/data-analysis/pipeline-health-analyzer.md) | Analyze pipeline health, flag stalled deals, forecast closes, and prescribe next actions. |
+| [Predictive Maintenance Scheduler](data-analysis/predictive-maintenance-scheduler.md) | Analyzes equipment data, predicts failures, and schedules maintenance to maximize uptime. |
 | [Pricing Strategy Analyst](data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
 | [Product Decision Agent](../product-development/data-analysis/product-decision-agent.md) | Diagnose product problems and get actionable next decisions and actions |
 | [Product Manager Toolkit](../product-development/data-analysis/product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
 | [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Quarterly Business Review Builder](../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Rehabilitation Analyzer](../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
+| [Rep Performance Scorecard](../sales/data-analysis/rep-performance-scorecard.md) | Builds multi-dimensional rep performance scorecards with coaching priorities and peer benchmarks. |
 | [Return Refund Optimizer](data-analysis/return-refund-optimizer.md) | Optimizes e-commerce return and refund processes using data analysis and automation. |
 | [Root Cause Pareto](../operations/data-analysis/root-cause-pareto.md) | Build a decision-grade Pareto for downtime, defects, complaints, or delays with unit discipline and exposure normalization. |
 | [Safety Stock Review](../operations/data-analysis/safety-stock-review.md) | Sizes or audits safety stock using the z*sigma*sqrt(LT) formula with empirical stress tests per variability class. |
@@ -194,11 +198,11 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | [Supplier Sustainability and Compliance Assistant](data-analysis/supplier-sustainability-and-compliance-assistant.md) | Assesses and improves supplier sustainability and compliance with data-driven tools. |
 | [Supply Chain Impact Assessor](data-analysis/supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |
 | [Supply Chain Optimizer](data-analysis/supply-chain-optimizer.md) | Optimizes supplier performance, inventory, logistics, and costs for e-commerce operations. |
+| [Team Chemistry Evaluator](data-analysis/team-chemistry-evaluator.md) | Analyzes roster fit, leadership, role clarity, and locker room culture for sports teams. |
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Team Performance Monitor](data-analysis/team-performance-monitor.md) | Turns team performance data into insights, reports, and action plans for service managers. |
 | [Trading Ledger](../finance/data-analysis/trading-ledger.md) | Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
-| [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Normalize vendor quotes and SOWs into a comparison matrix, compute true TCO, and surface negotiation leverage. |
 | [Weekly Ops Report](data-analysis/weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |
 
 ## Research
@@ -215,7 +219,6 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Contract Drafting Assistant](../legal/research/contract-drafting-assistant.md) | Guides contract drafting, review, compliance, and management from template to execution. |
 | [Contract Risk Assessment Assistant](../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
-| [Contract Risk Reviewer](../legal/research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
 | [Crossframe Review](../science-and-research/research/crossframe-review.md) | CrossFrame Review — audits reasoning chains, evidence boundaries, and source-anchor integrity |
 | [Crossframe Structural Diagnosis](../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
 | [Crossframe Suite](../science-and-research/research/crossframe-suite.md) | Routes Chinese structural diagnosis workflows across relationships, organizations, public issues, philosophy, research, or essay output. |
@@ -319,7 +322,6 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | [Context Driven Development](../it-and-development/knowledge-management/context-driven-development.md) | Manage project context as a living artifact for consistent AI and team alignment. |
 | [Context Management Context Restore](../it-and-development/knowledge-management/context-management-context-restore.md) | Restore project context from saved handoffs and current evidence. |
 | [Context Management Context Save](../it-and-development/knowledge-management/context-management-context-save.md) | Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks. |
-| [Contract Renewal Radar](../legal/knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
 | [Contract Repository Manager](../legal/knowledge-management/contract-repository-manager.md) | Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access. |
 | [Crossframe Casebook](../operations/knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
 | [Domain Modeling](../it-and-development/knowledge-management/domain-modeling.md) | Build and sharpen a project's domain model by resolving terminology, recording decisions, and cross-referencing code. |
@@ -414,7 +416,6 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Communication Excellence Coach](../marketing/writing-and-content/communication-excellence-coach.md) | Review drafts, calibrate tone, roleplay conversations, and improve presentations using proven frameworks. |
-| [Contract Redliner](../legal/writing-and-content/contract-redliner.md) | Reads contracts and produces clause-by-clause redline suggestions with replacement language and negotiation points. |
 | [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [Executive Resume Writer](../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 | [Internal Comms Anthropic](../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
@@ -422,8 +423,9 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | [Internal Comms Drafter](../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
 | [Interview Prep Generator](../human-resources/writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Interview Style Doc Building](writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
-| [RFP Compliance Drafter](../sales/writing-and-content/rfp-compliance-drafter.md) | Turns RFPs and your past proposals into a compliance matrix and drafted response, flagging disqualifiers first. |
-| [SOP Writer](../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
+| [PRD Single Pager](../product-development/writing-and-content/prd-single-pager.md) | Turns a product idea into a one-page PRD with problem, metrics, scope, stories, design, rollout, and open questions. |
+| [RFP Compliance Drafter](../sales/writing-and-content/rfp-compliance-drafter.md) | Turns an RFP and your past proposals into a compliance matrix and a drafted response, flagging gaps before you write. |
+| [Slack Message Formatter](writing-and-content/slack-message-formatter.md) | Formats long text into Slack-ready messages with emojis, bullets, and threading tips. |
 | [Unslop File](../writers/writing-and-content/unslop-file.md) | Rewrite memory files to sound human-written while preserving code, URLs, and headings exactly. |
 
 ## Office Tools
@@ -462,6 +464,16 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | [Orchestrate](../it-and-development/generative-ai-and-llm/orchestrate.md) | Coordinate focused subagents on substantial work and integrate their verified results. |
 | [Polis Protocol](../it-and-development/generative-ai-and-llm/polis-protocol.md) | Coordinate multi-vendor AI agents as a self-improving team with learning routing and amendable rules. |
 
+## Generative Code
+
+| Template | What it does |
+|---|---|
+| [2slides Ppt Generator](../marketing/generative-code/2slides-ppt-generator.md) | Generate slides from text, documents, or reference images via the 2slides API. |
+| [Andruia Template Smith](../it-and-development/generative-code/andruia-template-smith.md) | Design, write, and deploy new capabilities following the Diamond Standard. |
+| [Ecl Harness Engineer](../it-and-development/generative-code/ecl-harness-engineer.md) | Create or audit Agent Harness infrastructure: AGENTS.md, change tracking, CI gates. |
+| [Loki Mode](../it-and-development/generative-code/loki-mode.md) | Takes a PRD and builds, tests, deploys, and iterates a full product with zero human intervention. |
+| [Team Dashboard Builder](generative-code/team-dashboard-builder.md) | Turns your team data into an interactive dashboard with charts and CSV export. |
+
 ## Prompt Engineering
 
 | Template | What it does |
@@ -471,15 +483,6 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 | [Rich Elicitation](../operations/prompt-engineering/rich-elicitation.md) | Asks targeted clarifying questions when a task has 2+ ambiguous dimensions with 3+ viable answers each. |
 | [Template Development](../it-and-development/prompt-engineering/skill-development.md) | Create, edit, and evaluate templates for an AI runtime, with iterative improvement. |
 | [Yao Meta Template](../it-and-development/prompt-engineering/yao-meta-skill.md) | Turn workflows, prompts, and docs into reusable agent capabilities with evaluation and packaging. |
-
-## Generative Code
-
-| Template | What it does |
-|---|---|
-| [2slides Ppt Generator](../marketing/generative-code/2slides-ppt-generator.md) | Generate slides from text, documents, or reference images via the 2slides API. |
-| [Andruia Template Smith](../it-and-development/generative-code/andruia-template-smith.md) | Design, write, and deploy new capabilities following the Diamond Standard. |
-| [Ecl Harness Engineer](../it-and-development/generative-code/ecl-harness-engineer.md) | Create or audit Agent Harness infrastructure: AGENTS.md, change tracking, CI gates. |
-| [Loki Mode](../it-and-development/generative-code/loki-mode.md) | Takes a PRD and builds, tests, deploys, and iterates a full product with zero human intervention. |
 
 ## Teaching & Tutoring
 
@@ -494,8 +497,9 @@ Team leads and project managers. **384 ready-made Grok Bot templates** for this 
 
 | Template | What it does |
 |---|---|
-| [Consulting Proposal Generator](../sales/sales-and-negotiation/consulting-proposal-generator.md) | Turns a brief into a complete consulting proposal with research and pricing. |
+| [Deal Review Coach](../sales/sales-and-negotiation/deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
 | [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
+| [Sales Forecast Builder](../sales/sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
 
 ## Support & Community
 

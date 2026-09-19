@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 133 Grok Bot templates, 109 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 141 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -29,10 +29,10 @@ Interfaces, brands, layouts and visual systems. 133 Grok Bot templates, 109 of t
 | [Cli Ui Designer](cli-ui-designer.md) | Creates terminal-inspired web interfaces with authentic CLI aesthetics. |
 | [Code Showcase Core Components](../../it-and-development/design/code-showcase-core-components.md) | Use design tokens and core components for consistent UI. |
 | [Color Blocking](color-blocking.md) | Build Mondrian-style layouts with bold color blocks and thick grid lines. |
-| [Color Palette Extractor](color-palette-extractor.md) | Extract accessible color palettes from images, websites, or designs and export in multiple formats. |
+| [Color Palette Extractor](color-palette-extractor.md) | Extracts color palettes from images or sites and exports them in multiple formats. |
 | [Color Theory Design Assistant](color-theory-design-assistant.md) | Guides UX/UI designers through color theory, palettes, and accessibility. |
 | [Creative Portfolio Resume](creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
-| [CSS Animation Creator](css-animation-creator.md) | Create production-grade CSS animations, transitions, and micro-interactions for web UIs. |
+| [CSS Animation Creator](css-animation-creator.md) | Create production-grade, accessible CSS animations and motion design for web UIs. |
 | [Cyberpunk Ui](cyberpunk-ui.md) | Generate neon-on-black UI with clipped corners and glitch accents. |
 | [Dark Mode](../../it-and-development/design/dark-mode.md) | Dark mode design guide: surfaces, typography, and accent rules. |
 | [Design](design.md) | Design brand assets, logos, UI tokens, banners, icons, and social photos from your requests. |
@@ -52,14 +52,18 @@ Interfaces, brands, layouts and visual systems. 133 Grok Bot templates, 109 of t
 | [Design Ux](../../it-and-development/design/design-ux.md) | Heuristic usability audit of interactive UIs against Nielsen's 10 and interaction add-ons. Scores live rendered artifact, not mockups. Fixes then re-a |
 | [Deterministic Design](deterministic-design.md) | Render UI, measure balance with math, and run a Nielsen usability audit. |
 | [Diagrammer](../../it-and-development/design/diagrammer.md) | Turns plain-English diagram requests into clean blueprint-style SVG files for docs and slides. |
+| [Digital Guide Preview](../../marketing/design/digital-guide-preview.md) | Turns your course content into a two-page ebook preview for lead magnets. |
 | [Draw](draw.md) | Create, edit, and convert vector graphics and diagrams via LibreOffice Draw. |
 | [Draw Io](../../it-and-development/design/draw-io.md) | Creates, edits, and reviews draw.io diagrams from .drawio XML files. |
 | [Duotone Design](duotone-design.md) | Two-color web and app designs with duotone image effects across CSS, SwiftUI, Flutter, React Native, and Compose. |
 | [Editorial Design](editorial-design.md) | Generate magazine-inspired layouts with serif headlines, drop caps, and columnar text. |
+| [Editorial Sketchnote Composer](editorial-sketchnote-composer.md) | Turns a concept into a magazine-style visual narrative with six layout templates. |
+| [Editorial Web Prototyper](editorial-web-prototyper.md) | Creates editorial-minimalist web prototypes with warm monochrome canvas and serif typography. |
 | [Emil Design Eng](emil-design-eng.md) | UI polish, animation direction, and high-craft component decisions for product interfaces. |
 | [Figma Automation](figma-automation.md) | Automate Figma file inspection, component extraction, token export, and image rendering via Rube MCP. |
 | [Flat Design](../../it-and-development/design/flat-design.md) | Generate UI code with zero shadows, sharp edges, and bold solid colors. |
 | [Flat Design 2](../../it-and-development/design/flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
+| [Font Pairing Suggester](font-pairing-suggester.md) | Recommends font pairings and Google Fonts alternatives with hierarchy examples. |
 | [Frontend Design](frontend-design.md) | Distinctive frontend design that avoids AI defaults and follows the brief. |
 | [Game Art](game-art.md) | Guide game art style, asset pipeline, and animation workflow decisions. |
 | [Game Designer](game-designer.md) | Designs game mechanics, balancing, and player progression systems. |
@@ -87,12 +91,15 @@ Interfaces, brands, layouts and visual systems. 133 Grok Bot templates, 109 of t
 | [Interaction Design Assistant](interaction-design-assistant.md) | Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff. |
 | [Interactive Portfolio](interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
 | [Isometric Design](isometric-design.md) | Guides implementing isometric 3D views without vanishing points for web and apps. |
+| [Landing Page Designer](landing-page-designer.md) | Turns brand answers into a deployable landing page, refined in chat. |
 | [Lookdev](lookdev.md) | Build interactive studios for tuning, editing, and annotating creative work by eye. |
+| [Magazine Poster Designer](magazine-poster-designer.md) | Turns your content into a Sunday-paper style magazine poster. |
 | [Material Design](../../it-and-development/design/material-design.md) | Implement Google's Material Design aesthetic for web and app interfaces. |
 | [Maximalism](../../it-and-development/design/maximalism.md) | Implement dense, ornate, grid-based maximalist UI for web and mobile. |
 | [Minimalism](minimalism.md) | Generate minimal layouts with extreme whitespace, strict typography, and no decoration. |
 | [Minimalist Ui](minimalist-ui.md) | Build warm monochrome editorial UIs with crisp borders and restrained motion. |
 | [Monochromatic Ui](monochromatic-ui.md) | Generate a single-hue UI palette with tints, shades, and implementation code for web, SwiftUI, or Flutter. |
+| [Motion Language Designer](motion-language-designer.md) | Designs a product's motion language and exports tokens, Framer Motion variants, and CSS. |
 | [Neo Brutalism](neo-brutalism.md) | Implement neo-brutalist UI with thick borders, hard shadows, and bright colors. |
 | [Neumorphism](neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Opal or Obsidian UI Builder](opal-or-obsidian-ui-builder.md) | Builds parameterized opal or obsidian UI with OKLCH, WebGL/CSS fallback, and measured color reports. |
@@ -108,6 +115,7 @@ Interfaces, brands, layouts and visual systems. 133 Grok Bot templates, 109 of t
 | [Sci Fi Interface](sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Screenshot Ui Analyzer](screenshot-ui-analyzer.md) | Extracts all visible UI components, layout, and design patterns from screenshots. |
 | [Se Ux Ui Designer](se-ux-ui-designer.md) | Analyze user jobs, map journeys, and produce UX research artifacts for Figma designers. Identity: You are a UX research specialist that produces Jobs- |
+| [Social Carousel Designer](social-carousel-designer.md) | Turns a headline into a three-card social carousel with brand mark and numbering. |
 | [Soft Pastel](soft-pastel.md) | Implement soft pastel UI with desaturated colors, rounded edges, and airy spacing. |
 | [Steve Jobs Advisor](steve-jobs.md) | Simulates Steve Jobs for product, design, and presentation advice. |
 | [Stitch Design Taste](stitch-design-taste.md) | Generate Google Stitch DESIGN.md files for premium, anti-generic UI systems. |

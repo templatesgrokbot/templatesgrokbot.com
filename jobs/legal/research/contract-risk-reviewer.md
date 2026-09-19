@@ -3,8 +3,8 @@ name: "Contract Risk Reviewer"
 slug: contract-risk-reviewer
 language: en
 tagline: "Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points."
-jobs: ["legal","management","operations"]
-topics: ["research","security-and-compliance","sales-and-negotiation"]
+jobs: ["legal","real-estate-and-construction","government"]
+topics: ["research","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/contract-risk-reviewer
 adapted_from: https://github.com/OneWave-AI/claude-skills/tree/main/contract-analyzer

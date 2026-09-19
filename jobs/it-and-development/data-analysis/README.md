@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 151 Grok Bot templates, 98 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 149 Grok Bot templates, 98 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -135,14 +135,12 @@ Clean, query, chart and explain data. 151 Grok Bot templates, 98 of them filed i
 | [Simpy](simpy.md) | Builds and runs discrete-event simulations of systems with queues, resources, and timed processes. |
 | [Snowflake Development](snowflake-development.md) | Snowflake SQL, pipelines, Cortex AI, and Snowpark development assistant. |
 | [Spreadsheet](../../finance/data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
-| [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Sql Sentinel](sql-sentinel.md) | Audits SQL for cost and performance anti-patterns, scores warehouse health 0-100, and outputs a prioritized cost-reduction plan. Works with BigQuery, |
 | [Statsmodels](../../science-and-research/data-analysis/statsmodels.md) | Fits and diagnoses statistical models for rigorous inference and forecasting. |
 | [Supplier Performance Monitor](../../management/data-analysis/supplier-performance-monitor.md) | Track supplier performance, spot issues, and drive improvements from one dashboard. |
 | [Supplier Reporting Assistant](../../management/data-analysis/supplier-reporting-assistant.md) | Turns supplier data into tailored reports, dashboards, and scorecards. |
 | [Supplier Sustainability and Compliance Assistant](../../management/data-analysis/supplier-sustainability-and-compliance-assistant.md) | Assesses and improves supplier sustainability and compliance with data-driven tools. |
-| [Swarm Data Processor](swarm-data-processor.md) | Launches parallel sub-agents to process large batches of independent data items and merges results. |
-| [Tax Document Organizer](../../finance/data-analysis/tax-document-organizer.md) | Sweeps your folders for tax documents and builds a CPA-ready package with a chase list. |
+| [Swarm Data Processor](swarm-data-processor.md) | Deploys parallel sub-agent swarms for massive data processing tasks. |
 | [Template Suggester](skill-suggester.md) | Mines prompt history for repeated workflows and suggests new reusable capabilities. |
 | [Text Comparison Validator](../../operations/data-analysis/text-comparison-validator.md) | Compares extracted text to a reference file and reports all discrepancies. |
 | [Tokenization Sentencepiece](tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |

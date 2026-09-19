@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **145 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **151 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,20 @@ Leaders making decisions from the whole picture. **145 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 41 |
-| [Research](research/README.md) | 37 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 28 |
+| [Data Analysis](data-analysis/README.md) | 42 |
+| [Research](research/README.md) | 38 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 29 |
 | [Productivity](productivity/README.md) | 20 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
+| [Writing & Content](writing-and-content/README.md) | 4 |
 | [Security & Compliance](security-and-compliance/README.md) | 2 |
-| [Writing & Content](writing-and-content/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
 | [Design](design/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Code](generative-code/README.md) | 1 |
-| [Knowledge Management](knowledge-management/README.md) | 1 |
+| [Office Tools](office-tools/README.md) | 1 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 
 ## Data Analysis
 
@@ -32,16 +33,16 @@ Leaders making decisions from the whole picture. **145 ready-made Grok Bot templ
 | [Ai Dev Jobs Mcp](../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [AI Readiness Assessor](data-analysis/ai-readiness-assessor.md) | Assesses a business's AI readiness across six dimensions and produces a prioritized action report. |
 | [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
-| [Board Deck Generator](data-analysis/board-deck-generator.md) | Generates institutional-quality board meeting decks with financials, updates, and asks. |
+| [Board Deck Generator](data-analysis/board-deck-generator.md) | Generates professional board meeting presentation content with executive summary, financials, and strategic updates. |
 | [Brand Image Analyst](../management/data-analysis/brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
 | [Campaign Effectiveness Analyst](../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
-| [Cash Flow Forecaster](../finance/data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your financial exports and flags crunch weeks. |
-| [Champion Identifier](../sales/data-analysis/champion-identifier.md) | Finds the internal advocate most likely to push your solution through a target account. |
 | [Compliance Benchmarking Analyst](../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
 | [Compliance Cost Analyst](../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
-| [Customer Panel Debate](../marketing/data-analysis/customer-panel-debate.md) | Assemble a data-grounded customer panel to debate your high-stakes decisions. |
+| [Customer Panel Debate](../marketing/data-analysis/customer-panel-debate.md) | Runs a structured debate among your buyer personas to test any decision before you commit. |
 | [Data Storytelling](data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
-| [Deal Room Risk Analyst](../finance/data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
+| [Executive Dashboard Generator](data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
+| [Game Strategy Simulator](data-analysis/game-strategy-simulator.md) | Simulates sports game scenarios for play-calling, clock management, and risk/reward decisions. |
+| [Job Profitability Analyzer](../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Kpi Dashboard Design](../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
 | [Legal Analytics Assistant](../legal/data-analysis/legal-analytics-assistant.md) | Turns legal documents and case data into clear insights, drafts, and risk assessments for lawyers. |
 | [Legal Risk Assessment Assistant](../legal/data-analysis/legal-risk-assessment-assistant.md) | Legal risk assessment assistant that identifies, analyzes, and documents risks for lawyers. |
@@ -58,6 +59,7 @@ Leaders making decisions from the whole picture. **145 ready-made Grok Bot templ
 | [Performance Report](data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Portfolio Digest](../finance/data-analysis/portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
 | [Pricing Strategy Analyst](../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
+| [Quarterly Finance Report](../finance/data-analysis/quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |
 | [Risk Manager](../finance/data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](../finance/data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
 | [Startup Analyst](data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
@@ -88,6 +90,7 @@ Leaders making decisions from the whole picture. **145 ready-made Grok Bot templ
 | [Crossframe Public](../government/research/crossframe-public.md) | Analyze public issues, platform governance, and institutional compliance with evidence boundaries. |
 | [Crossframe Structural Diagnosis](research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
 | [Customer Research](../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
+| [Expert Panel Analyzer](research/expert-panel-analyzer.md) | Assembles 2-3 complementary expert perspectives to analyze any topic collaboratively. |
 | [Falsify](../science-and-research/research/falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
 | [Find Matching Tenders](../sales/research/find-matching-tenders.md) | Find and rank live AU/NZ government tenders matching a company's capabilities. |
 | [Gemini Deep Research](../science-and-research/research/gemini-deep-research.md) | Autonomous multi-step research with cited reports via Google Gemini. |
@@ -129,6 +132,7 @@ Leaders making decisions from the whole picture. **145 ready-made Grok Bot templ
 | [Free Tier Strategy](../product-development/marketing-and-growth/free-tier-strategy.md) | Design free tiers that developers love and that convert to paid naturally. |
 | [Free Tool Strategy](../marketing/marketing-and-growth/free-tool-strategy.md) | Plan and evaluate free tools for lead gen, SEO, and brand awareness. |
 | [Launch Strategy](../marketing/marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
+| [Launch War Room](../product-development/marketing-and-growth/launch-war-room.md) | Run an adversarial go/no-go war room and phased rollout plan for any launch. |
 | [Local Legal Seo Audit](../marketing/marketing-and-growth/local-legal-seo-audit.md) | Audit and improve local SEO for law firms, attorneys, and legal professionals. |
 | [Marketing Demand Acquisition](../marketing/marketing-and-growth/marketing-demand-acquisition.md) | Generates and optimizes multi-channel demand for B2B SaaS startups scaling internationally. |
 | [Marketing Ideas](../marketing/marketing-and-growth/marketing-ideas.md) | Scores and prioritizes 140 marketing ideas for SaaS products by feasibility. |
@@ -153,7 +157,7 @@ Leaders making decisions from the whole picture. **145 ready-made Grok Bot templ
 | [Auri Core](../product-development/productivity/auri-core.md) | Voice assistant product strategy and roadmap assistant for Auri (Alexa + Claude). |
 | [Before You Build](../product-development/productivity/before-you-build.md) | Pause before coding to check demand, alternatives, and switching costs. |
 | [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
-| [Calendar Defragmenter](../management/productivity/calendar-defragmenter.md) | Audit your calendar, reclaim your week with focus blocks and diplomatic meeting cuts. |
+| [Calendar Defragmenter](../management/productivity/calendar-defragmenter.md) | Audits your calendar, proposes consolidations and focus blocks, and drafts the messages to reclaim your week. |
 | [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
 | [Find Complementary Founders](productivity/find-complementary-founders.md) | Match founders by evidence, not claims — publish only your own owner's profile. |
 | [Game Changing Features](productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
@@ -191,19 +195,21 @@ Leaders making decisions from the whole picture. **145 ready-made Grok Bot templ
 | [Morpheus](../management/self-improvement/morpheus.md) | Analyzes options and makes decisions when you are stuck between choices. |
 | [Sam Altman](self-improvement/sam-altman.md) | Simulates Sam Altman's perspective on startups, AI, and AGI. |
 
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Executive Decision Memo](writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
+| [Executive Resume Writer](../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
+| [Founder Pitch Deck Coach](writing-and-content/founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
+| [Investor Update Writer](writing-and-content/investor-update-writer.md) | Turns your KPIs, milestones, and financials into a polished investor update. |
+
 ## Security & Compliance
 
 | Template | What it does |
 |---|---|
 | [Quality Manager Qmr](../operations/security-and-compliance/quality-manager-qmr.md) | Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies. |
 | [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Executive Resume Writer](../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
-| [Founder Pitch Deck Coach](writing-and-content/founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
 
 ## Coding
 
@@ -229,10 +235,16 @@ Leaders making decisions from the whole picture. **145 ready-made Grok Bot templ
 |---|---|
 | [Saas Mvp Launcher](../product-development/generative-code/saas-mvp-launcher.md) | Structured roadmap to build and launch a SaaS MVP from scratch. |
 
-## Knowledge Management
+## Office Tools
 
 | Template | What it does |
 |---|---|
-| [Data Room Builder](../finance/knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
+| [Investor Pitch Deck Builder](office-tools/investor-pitch-deck-builder.md) | Turns your startup facts into a 10-page investor-ready pitch deck. |
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Consulting Proposal Generator](../sales/sales-and-negotiation/consulting-proposal-generator.md) | Turns a brief into a complete, personalized consulting proposal. |
 
 [← All job fields](../../README.md#browse-by-job) · [Executives and Strategy on the website](https://templatesgrokbot.com/jobs/executives-and-strategy)

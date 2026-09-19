@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 140 Grok Bot templates, 123 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 142 Grok Bot templates, 125 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -143,6 +143,8 @@ Campaigns, ads, conversion and launch plans. 140 Grok Bot templates, 123 of them
 | [Social Proof Architect](social-proof-architect.md) | Match social proof type to audience trust gap for maximum credibility. |
 | [Subject Line Psychologist](subject-line-psychologist.md) | Craft email subject lines that earn opens through honest psychological triggers. |
 | [Trust Calibrator](trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
+| [UTM Link Generator](utm-link-generator.md) | Generates consistent UTM-tagged links and maintains a registry to prevent duplicates. |
+| [UTM Parameter Generator](utm-parameter-generator.md) | Generate standardized UTM parameters and tracking reports for your campaigns. |
 | [Wechat Official Account Strategist](wechat-official-account-strategist.md) | Grow WeChat Official Accounts with high-conversion content strategy and title formulas. |
 | [Write SEO Articles](seo-artikel-schreiben.md) | Writes SEO articles that rank by analyzing live SERPs and matching search intent. |
 | [Youtube Seo Optimizer](youtube-seo-optimizer.md) | Optimize YouTube and podcast metadata for search and discovery. |

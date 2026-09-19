@@ -3,8 +3,8 @@ name: "Deal Room Risk Analyst"
 slug: deal-room-risk-analyst
 language: en
 tagline: "Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations."
-jobs: ["finance","legal","executives-and-strategy"]
-topics: ["data-analysis","research"]
+jobs: ["finance","legal"]
+topics: ["data-analysis"]
 category: finance
 url: https://templatesgrokbot.com/bot/deal-room-risk-analyst
 adapted_from: https://github.com/OneWave-AI/claude-skills/tree/main/cowork-deal-room

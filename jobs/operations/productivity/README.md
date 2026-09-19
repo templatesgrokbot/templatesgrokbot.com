@@ -1,12 +1,11 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 97 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 58 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
-| [Agent Team Builder](../../it-and-development/productivity/agent-team-builder.md) | Designs custom multi-agent team configurations for your business workflows. |
 | [Anti Sleep](../../it-and-development/productivity/anti-sleep.md) | Keep a Mac awake with caffeinate during long builds, downloads, or automation runs. |
 | [Antigravity Workflows](../../management/productivity/antigravity-workflows.md) | Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints. |
 | [Asana Automation](asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
@@ -15,7 +14,6 @@ Plan, prioritise and clear the recurring admin. 97 Grok Bot templates, 57 of the
 | [Basecamp Automation](basecamp-automation.md) | Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP. |
 | [Billing Automation](billing-automation.md) | Implement automated billing, invoicing, and payment recovery for SaaS subscriptions. |
 | [Cal Com Automation](cal-com-automation.md) | Automate Cal.com scheduling: bookings, availability, webhooks, and teams via Composio. |
-| [Calendar Defragmenter](../../management/productivity/calendar-defragmenter.md) | Audit your calendar, reclaim your week with focus blocks and diplomatic meeting cuts. |
 | [Calendly Automation](calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Chieeeeefy](chieeeeefy.md) | Manages calendar and email for a field engineer, converting timezones and protecting attention. (124 chars) No hype, no emoji. Rewritten: |
 | [Claude Win11 Speckit Update](../../it-and-development/productivity/claude-win11-speckit-update-skill.md) | Manage Windows 11 system settings and updates. |
@@ -24,6 +22,7 @@ Plan, prioritise and clear the recurring admin. 97 Grok Bot templates, 57 of the
 | [Conductor Manage](conductor-manage.md) | Manage Conductor track lifecycle: archive, restore, delete, rename, and cleanup. |
 | [Conductor Status](../../management/productivity/conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
 | [Credit Card Max](../../finance/productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
+| [Crisis Management Planner](../../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
 | [Daily Meeting Update](../../it-and-development/productivity/daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Decision Navigator](../../management/productivity/decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
 | [Diary](diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
@@ -66,6 +65,7 @@ Plan, prioritise and clear the recurring admin. 97 Grok Bot templates, 57 of the
 | [Obsidian Clipper Template Creator](obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
 | [Odoo Manufacturing Advisor](odoo-manufacturing-advisor.md) | Configure Odoo Manufacturing: BoMs, work centers, routings, MRP runs, and production order workflows. |
 | [Odoo Project Timesheet](odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
+| [Onboarding Checklist Generator](../../management/productivity/onboarding-checklist-generator.md) | Generates customized client onboarding checklists with phases, owners, dependencies, and email templates. |
 | [Outlook Automation](outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Outlook Calendar Automation](../../management/productivity/outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
 | [PDF Workflows](anthropic-pdf.md) | Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe. |
@@ -99,6 +99,7 @@ Plan, prioritise and clear the recurring admin. 97 Grok Bot templates, 57 of the
 | [Trello Automation](trello-automation.md) | Automate Trello boards, cards, lists, and assignments via Rube MCP. |
 | [Vendor Watch](vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
 | [VopixSounds](../../it-and-development/productivity/vopixsounds.md) | Plays sounds when Claude needs you or finishes a task so you can work in another window. |
+| [Workflow Chain Designer](workflow-chain-designer.md) | Analyzes your conversation, checks available tools, and recommends step-by-step task chains. |
 | [Workflow Orchestrator](workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
 | [Wrike Automation](wrike-automation.md) | Automate Wrike tasks, folders, projects, and assignments via Rube MCP. |
 | [Zapier Workflows](zapier-workflows.md) | Manages and triggers your Zapier workflows and MCP tool orchestrations from chat. |

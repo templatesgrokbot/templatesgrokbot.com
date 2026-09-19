@@ -1,6 +1,6 @@
 # Social Media templates for PR and Communications
 
-Plan, write and measure posts across networks. 8 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 9 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Plan, write and measure posts across networks. 8 Grok Bot templates, 0 of them f
 | [Social Orchestrator](../../marketing/social-media/social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |
 | [Twitter Ai Influencer Manager](../../marketing/social-media/twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
 | [Twitter Automation](../../marketing/social-media/twitter-automation.md) | Automate Twitter/X posts, search, users, bookmarks, lists, and media via Rube MCP. |
+| [Twitter Share Card Maker](../../marketing/social-media/twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |
 | [X Article Publisher](../../marketing/social-media/x-article-publisher-skill.md) | Publish articles to X/Twitter with formatted posts and media. |
 | [X Brief](../../marketing/social-media/x-brief.md) | Connects to X, analyzes your recent posts to identify your beat, and flags relevant events with a daily wrap-up. |
 

@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 336 Grok Bot templates, 332 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 355 Grok Bot templates, 351 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -104,6 +104,7 @@ Infrastructure, deployments, monitoring and incident response. 336 Grok Bot temp
 | [Claimable Postgres](claimable-postgres.md) | Provision instant temporary Postgres databases with no signup or credit card. |
 | [Claude In Chrome Troubleshooting](claude-in-chrome-troubleshooting.md) | Diagnose and fix Claude in Chrome MCP extension connectivity issues on macOS. |
 | [Claude Monitor](claude-monitor.md) | Diagnose slowness in Claude Code and the local system with CPU, RAM, disk, and network. |
+| [CLI Dashboard Setup](cli-dashboard-setup.md) | Sets up a read-only web dashboard that auto-builds tabs and tables from any CLI's JSON output. |
 | [Cloud Architect](cloud-architect.md) | Designs and optimizes multi-cloud infrastructure with IaC, FinOps, and security best practices. |
 | [Cloud Devops](cloud-devops.md) | Drafts cloud infrastructure, CI/CD, containers, and monitoring plans for AWS, Azure, and GCP. |
 | [Cloud Migration Specialist](cloud-migration-specialist.md) | Migrates on-premise workloads to cloud with minimal downtime and maximum cloud-native benefit. |
@@ -111,9 +112,11 @@ Infrastructure, deployments, monitoring and incident response. 336 Grok Bot temp
 | [Cloud Sql Basics](cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Cloudflare Deploy](cloudflare-deploy.md) | Deploys apps and infrastructure to Cloudflare Workers, Pages, and related services. |
 | [Cloudformation Best Practices](cloudformation-best-practices.md) | Optimize and review CloudFormation templates for production-grade infrastructure. |
+| [Codebase Migration Planner](codebase-migration-planner.md) | Creates a file-by-file migration plan for an entire codebase. |
 | [Codex Profiles](codex-profiles.md) | Manage isolated Codex CLI and Desktop profiles for separate accounts and projects. |
 | [Cohesivity](cohesivity.md) | Provision databases, hosting, auth, and APIs for AI agents via one HTTP API. |
 | [Conductor Setup](conductor-setup.md) | Configure Rails projects for Conductor parallel coding agents with isolated ports and Redis. |
+| [Container Session Troubleshooter](container-session-troubleshooter.md) | Diagnose containerized agent failures by tracing logs and session databases. |
 | [Cost Optimization](cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Cto Advisor](cto-advisor.md) | Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy. |
 | [Data Center Network Assistant](data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
@@ -121,7 +124,7 @@ Infrastructure, deployments, monitoring and incident response. 336 Grok Bot temp
 | [Database Admin](database-admin.md) | Manages cloud and on-prem databases with backups, replication, monitoring, and access control. |
 | [Database Administrator](database-administrator.md) | Manages database performance, high availability, and disaster recovery for production systems. |
 | [Database Cloud Optimization Cost Optimize](database-cloud-optimization-cost-optimize.md) | Analyze cloud spend and cut costs while keeping performance and reliability. |
-| [Database Migration Planner](database-migration-planner.md) | Plan and validate cross-provider database migrations with auditable step-by-step guides. |
+| [Database Migration Planner](database-migration-planner.md) | Plans and validates cross-provider database migrations with rollback and downtime estimates. |
 | [Database Migrations Migration Observability](database-migrations-migration-observability.md) | Build observability for database migrations with CDC and alerting. |
 | [Datadog Automation](datadog-automation.md) | Automate Datadog monitoring, metrics, logs, monitors, dashboards, events, and downtimes via Rube MCP. |
 | [Datadog Cli](datadog-cli.md) | Searches Datadog logs and metrics to debug production issues and manage dashboards. |
@@ -149,6 +152,7 @@ Infrastructure, deployments, monitoring and incident response. 336 Grok Bot temp
 | [Docker Expert](docker-expert.md) | Analyzes Dockerfiles, hardens containers, and fixes orchestration issues for production. |
 | [Domain](domain.md) | Manage custom and Railway-provided domains for your Railway services. |
 | [Email Systems](email-systems.md) | Design, debug, and optimize email deliverability and infrastructure. |
+| [Engineering Runbook](engineering-runbook.md) | One-page runbook for on-call engineers: alerts, dashboards, procedures, and incidents. No more digging through wikis during an outage. |
 | [Environment](environment.md) | Query, stage, and apply Railway environment configuration changes. |
 | [Error Coordinator](error-coordinator.md) | Coordinates error handling across distributed systems to prevent cascading failures and automate recovery. |
 | [Error Debugging Error Analysis](error-debugging-error-analysis.md) | Analyze production incidents and debug distributed systems with systematic root-cause analysis. |
@@ -188,6 +192,7 @@ Infrastructure, deployments, monitoring and incident response. 336 Grok Bot temp
 | [Huggingface Spaces](huggingface-spaces.md) | Build, deploy, and maintain ML apps on Hugging Face Spaces with Gradio, Docker, or Static SDKs. |
 | [Hybrid Cloud Architect](hybrid-cloud-architect.md) | Designs and manages hybrid multi-cloud infrastructure across AWS, Azure, GCP, and private clouds. |
 | [Hybrid Cloud Networking](hybrid-cloud-networking.md) | Configure secure hybrid cloud networking with VPN, Direct Connect, and ExpressRoute. |
+| [iMessage Channel Installer](imessage-channel-installer.md) | Adds iMessage to NanoClaw with local or hosted backend. |
 | [Incident Responder](incident-responder.md) | Assess severity, stabilize systems, coordinate communication, and produce blameless post-incident reports. |
 | [Incident Response Incident Response](incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Incident Response Smart Fix](incident-response-smart-fix.md) | Diagnose and resolve production incidents with multi-agent orchestration. |
@@ -221,21 +226,28 @@ Infrastructure, deployments, monitoring and incident response. 336 Grok Bot temp
 | [Make Automation](make-automation.md) | Automate Make (Integromat) operations: list languages, timezones, and retrieve operation logs via Rube MCP. Always search tools first for current sche |
 | [Makepad Deployment](makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
 | [Manifest](manifest.md) | Installs and configures the Manifest observability plugin for AI agents. |
+| [Matrix Channel Integrator](matrix-channel-integrator.md) | Adds Matrix chat channel integration to your NanoClaw setup via Chat SDK. |
+| [Mattermost Channel Connector](mattermost-channel-connector.md) | Connects your workspace to Mattermost chat channels through a secure bridge. |
 | [Mcp Deployment Orchestrator](mcp-deployment-orchestrator.md) | Containerizes and deploys MCP servers to Kubernetes with security, monitoring, and autoscaling. |
 | [Metrics](metrics.md) | Queries Railway service metrics for CPU, memory, network, and disk usage. |
 | [Microservices Architect](microservices-architect.md) | Designs and evolves microservice architectures from monoliths to production-hardened distributed systems. Uses domain-driven design to identify servic |
+| [Migration Completion Finisher](migration-completion-finisher.md) | Finish a NanoClaw v1 to v2 migration after the automated script runs. |
 | [Mise Configurator](mise-configurator.md) | Generate production-ready mise.toml configs for local dev and CI/CD. |
 | [Mlops Engineer](mlops-engineer.md) | Design and implement ML infrastructure with CI/CD, model versioning, and operational monitoring. |
 | [Modal](modal.md) | Runs Python code in serverless cloud containers with GPUs and autoscaling. |
 | [Model Architecture Torchtitan](model-architecture-torchtitan.md) | Pretrains large language models at scale using PyTorch-native torchtitan with 4D parallelism. |
 | [Monitoring Specialist](monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
 | [Monopoly](monopoly.md) | Architect resilient, scalable backend systems with trade-off analysis and blueprints. No coding or deployment. |
+| [Mount Allowlist Manager](mount-allowlist-manager.md) | Manages which host directories NanoClaw agent containers can access. |
 | [Multi Cloud Architecture](multi-cloud-architecture.md) | Decision framework for architecting across AWS, Azure, and GCP. |
 | [Multi-Agent Performance Optimizer](agent-orchestration-multi-agent-optimize.md) | Profile and optimize multi-agent systems for throughput, latency, and cost. |
 | [N8n Binary And Data](n8n-binary-and-data.md) | Handle n8n binary data across uploads, downloads, transforms, and chat surfaces without losing files. |
 | [N8n Mcp Tools Expert](n8n-mcp-tools-expert.md) | Guide for using n8n-mcp tools to discover nodes, validate configs, and manage workflows. |
 | [N8n Multi Instance](n8n-multi-instance.md) | Select, verify, and safely switch n8n MCP instances before any operation. |
 | [N8N Workflow Patterns](n8n-workflow-patterns.md) | Guides users to select and build n8n workflows from five proven architectural patterns. |
+| [NanoClaw Dashboard Installer](nanoclaw-dashboard-installer.md) | Adds a local monitoring dashboard to NanoClaw with periodic JSON snapshots. |
+| [NanoClaw Template Refresher](nanoclaw-template-refresher.md) | Refresh installed NanoClaw channel and provider code from registry branches safely. Fork-safe, blocking, validated. |
+| [NanoClaw Transactional Updater](nanoclaw-transactional-updater.md) | Safely updates a customized NanoClaw checkout from official upstream with rollback. |
 | [Neon Expert](neon-expert.md) | Guides Neon Serverless Postgres setup and coordinates with specialized agents. |
 | [Neon Functions](neon-functions.md) | Deploy long-running Node.js HTTP handlers next to your Neon Postgres database. |
 | [Neon Instagres](neon-instagres.md) | Provisions temporary Neon Postgres databases on demand and manages their lifecycle. |
@@ -258,7 +270,10 @@ Infrastructure, deployments, monitoring and incident response. 336 Grok Bot temp
 | [Odoo Docker Deployment](odoo-docker-deployment.md) | Production-ready Docker setup for Odoo with PostgreSQL and Nginx reverse proxy. |
 | [Odoo Upgrade Advisor](odoo-upgrade-advisor.md) | Step-by-step Odoo version upgrade advisor for v14 to v17. |
 | [On Call Handoff Patterns](on-call-handoff-patterns.md) | Structured on-call shift handoffs with incident context and continuity. |
+| [OneCLI Gateway Proxy](onecli-gateway-proxy.md) | Makes authenticated API calls to external services through a credential-injecting proxy. |
+| [OneCLI Vault Initializer](onecli-vault-initializer.md) | Installs OneCLI, migrates .env credentials to the Agent Vault, and verifies setup. |
 | [Openapi Spec Generation](openapi-spec-generation.md) | Generate and maintain OpenAPI 3.1 specs from code or design-first. |
+| [OpenClaw Migration Guide](openclaw-migration-guide.md) | Guides you through migrating your OpenClaw setup to NanoClaw v2. |
 | [OS Scripting Troubleshooter](os-scripting.md) | Diagnose and fix OS and shell scripting issues across Linux, macOS, and Windows. |
 | [Pagerduty Automation](pagerduty-automation.md) | Automate PagerDuty incident, service, schedule, and escalation management via Rube MCP. |
 | [Pagerduty Incident Responder](pagerduty-incident-responder.md) | Responds to PagerDuty incidents by analyzing context, finding code changes, and suggesting fixes via GitHub PRs. |
@@ -289,6 +304,7 @@ Infrastructure, deployments, monitoring and incident response. 336 Grok Bot temp
 | [Render Deploy](render-deploy.md) | Deploy applications to Render by analyzing codebases and generating Blueprints. |
 | [Rootly Incident Responder](rootly-incident-responder.md) | Analyzes production incidents and recommends solutions using Rootly incident data. |
 | [Rote](rote.md) | Compiles proven agent templates into deterministic pipelines and serves them as MCP tools. |
+| [Rtk Proxy Installer](rtk-proxy-installer.md) | Installs and wires rtk token-compression proxy into agent containers for 60–90% token savings on dev commands. Returns verified savings reports. |
 | [Runaway Guard](runaway-guard.md) | Prevents runaway AI API costs with explicit per-run and per-day dollar caps. |
 | [Saga Orchestration](saga-orchestration.md) | Coordinate distributed transactions and long-running business processes with compensating actions. |
 | [Se Gitops Ci Specialist](se-gitops-ci-specialist.md) | Makes deployments boring and reliable by triaging failures, fixing pipelines, and enforcing GitOps standards. |
@@ -304,6 +320,8 @@ Infrastructure, deployments, monitoring and incident response. 336 Grok Bot temp
 | [Shipping And Launch](shipping-and-launch.md) | Safely deploy production changes with staged rollouts and rollback plans. |
 | [Slo Implementation](slo-implementation.md) | Define and implement SLIs, SLOs, and error budgets for service reliability. |
 | [Smart Git Automation](smart-git-automation.md) | Smart change detection, auto branch naming, and streamlined commit/PR workflow. |
+| [Spark Environment Setup](spark-environment-setup.md) | Sets up and verifies a working ML environment on NVIDIA DGX Spark. |
+| [Spark Training Preflight](spark-training-preflight.md) | Preflight and diagnose the ten known failure modes for ML training on NVIDIA DGX Spark. |
 | [Square Automation](square-automation.md) | Automate Square payments, orders, invoices, and locations via Rube MCP. |
 | [Sre Engineer](sre-engineer.md) | Define SLOs, manage error budgets, and reduce toil for system reliability. |
 | [Sshepherd](sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
@@ -323,6 +341,7 @@ Infrastructure, deployments, monitoring and incident response. 336 Grok Bot temp
 | [Trigger Dev](trigger-dev.md) | Builds and manages reliable background jobs and AI workflows using Trigger.dev. |
 | [Turborepo Caching](turborepo-caching.md) | Configure Turborepo caching for faster monorepo builds and CI/CD. |
 | [Ui Update](ui-update.md) | Update StyleSeed engine files safely with diff review and approval. |
+| [Unified Memory Thermal Planner](unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
 | [Upstash Redis](upstash-redis.md) | Use Upstash Redis over HTTPS from serverless and edge runtimes. |
 | [Using Neon](using-neon.md) | Answer Neon Serverless Postgres questions using official docs and guides. |
 | [Vercel Automation](vercel-automation.md) | Automate Vercel deployments, env vars, domains, DNS, projects, and teams via Rube MCP. |

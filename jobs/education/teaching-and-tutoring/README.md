@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 27 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 29 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Explain, quiz and guide someone through a subject. 27 Grok Bot templates, 22 of 
 | [Demonstrate Understanding](demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Examprep Ai](examprep-ai.md) | Turns syllabi and past papers into a ranked study roadmap ordered Easy to Hard. |
 | [Explain Like Socrates](explain-like-socrates.md) | Explain ideas through Socratic dialogue and guided reasoning. |
+| [Flashcard Generator](flashcard-generator.md) | Turns any content into spaced-repetition flashcards in multiple formats. |
 | [Geoffrey Hinton](geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
 | [Interview Prep](interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
 | [Learn](learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
@@ -24,6 +25,7 @@ Explain, quiz and guide someone through a subject. 27 Grok Bot templates, 22 of 
 | [Microsoft Study Mode](microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
 | [Pitch Rehearsal](pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
 | [Puzzle Activity Planner](puzzle-activity-planner.md) | Plan puzzle-based activities with pre-configured generator links for classrooms, parties, and events. |
+| [Quiz Maker](quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Ship Learn Next](ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Study Buddy](study-buddy.md) | Drills you on your own material with spaced repetition instead of re-reading notes. |
 | [Teach](teach.md) | Teach any topic through structured lessons, reference docs, and learning records. |

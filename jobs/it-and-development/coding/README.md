@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 993 Grok Bot templates, 985 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1012 Grok Bot templates, 1004 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,6 +28,7 @@ Write, review, test and debug software. 993 Grok Bot templates, 985 of them file
 | [Agents Generator](agents-generator.md) | Generate project-specific AGENTS.md and companion rules by analyzing a real codebase. |
 | [Agirails Agent Payments](agirails-agent-payments.md) | Generates USDC payment code for agents earning or paying on Base L2. |
 | [Agy Delegate](agy-delegate.md) | Hand a bounded coding task to the Antigravity CLI, then review and commit the diff yourself. |
+| [AI Debt Detector](ai-debt-detector.md) | Audits AI-generated code for hidden debt and failure patterns. |
 | [Ai Loop](ai-loop.md) | Bounded spec-build-review loop for scoped code changes with explicit stop conditions. |
 | [Ai Native Cli](ai-native-cli.md) | Design CLI tools that AI agents can safely invoke and parse. |
 | [Aider Delegate](aider-delegate.md) | Delegate bounded coding tasks to Aider and review its diff before committing. |
@@ -296,6 +297,7 @@ Write, review, test and debug software. 993 Grok Bot templates, 985 of them file
 | [Debugging Toolkit Smart Debug](debugging-toolkit-smart-debug.md) | AI-assisted debugging toolkit smart debug expert for rapid root cause analysis and fix generation. Use this capability when working on debugging toolkit sm |
 | [Declarative Agents Architect](declarative-agents-architect.md) | Designs and validates Microsoft 365 Copilot declarative agent manifests and TypeSpec definitions. |
 | [Delegate Setup](delegate-setup.md) | Configure approved delegation lanes across installed implementer CLIs. |
+| [DeltaChat Channel Integrator](deltachat-channel-integrator.md) | Adds encrypted email-based messaging to your assistant via DeltaChat. |
 | [Dependabot Review](dependabot-review.md) | Reviews open Dependabot PRs, classifies risk, checks CI, and auto-merges safe updates. |
 | [Dependency Management Deps Audit](dependency-management-deps-audit.md) | Audit project dependencies for vulnerabilities, licenses, and upgrade paths. |
 | [Dependency Manager](dependency-manager.md) | Analyze, update, and secure project dependencies with vulnerability scanning and license checks. |
@@ -314,6 +316,7 @@ Write, review, test and debug software. 993 Grok Bot templates, 985 of them file
 | [Diagram Architect](diagram-architect.md) | Generate technical diagrams from code analysis or descriptions in multiple formats. |
 | [Diffblue Cover](diffblue-cover.md) | Generates unit tests for Java applications using Diffblue Cover. |
 | [Discord Bot Architect](discord-bot-architect.md) | Builds production-ready Discord bots with Discord.js or Pycord. |
+| [Discord Channel Integrator](discord-channel-integrator.md) | Integrates a Discord bot account and connects it to your chat. |
 | [Distribute Template To All Agents](distribute-skill-to-all-agents.md) | Copy a canonical capability to Hermes while respecting local symlinks. |
 | [Distributed Training Accelerate](distributed-training-accelerate.md) | Add distributed training to any PyTorch script with 4 lines of code. |
 | [Distributed Training Pytorch Lightning](distributed-training-pytorch-lightning.md) | Converts PyTorch code into Lightning modules and trains them with automatic distributed scaling. |
@@ -468,6 +471,7 @@ Write, review, test and debug software. 993 Grok Bot templates, 985 of them file
 | [Godot 4 Migration](godot-4-migration.md) | Guide for migrating Godot 3.x projects to Godot 4 with GDScript 2.0. |
 | [Godot Gdscript Patterns](godot-gdscript-patterns.md) | Godot 4 GDScript patterns for architecture, signals, state machines, and optimization. |
 | [Golang Pro](golang-pro.md) | Build production-ready Go microservices with advanced concurrency and performance optimization. |
+| [Google Chat Integrator](google-chat-integrator.md) | Adds Google Chat channel integration to your NanoClaw setup. |
 | [Gpt 5 Beast Mode](gpt-5-beast-mode.md) | Autonomously solves complex problems by researching, coding, and iterating until fully resolved. No hand-holding. No stopping early. No excuses. Just |
 | [Graceful Shutdown](graceful-shutdown.md) | Implement graceful shutdown for servers and workers on SIGTERM/SIGINT. |
 | [Graph Query](graph-query.md) | Queries a codebase dependency graph to understand component relationships, call chains, and change impact before modifications. |
@@ -595,6 +599,7 @@ Write, review, test and debug software. 993 Grok Bot templates, 985 of them file
 | [Microservices Patterns](microservices-patterns.md) | Guide microservices decomposition, communication, data management, and resilience patterns. No code or deployment. |
 | [Microsoft Agent Framework Dotnet](microsoft-agent-framework-dotnet.md) | Create and manage .NET code using Microsoft Agent Framework. |
 | [Microsoft Azure Webjobs Extensions Authentication Events Dotnet](microsoft-azure-webjobs-extensions-authentication-events-dotnet.md) | Build Azure Functions that handle Entra ID custom authentication events for token claims and attribute collection. |
+| [Migration Guide Builder](migration-guide-builder.md) | Extracts your customizations into a replayable guide and upgrades cleanly without merge conflicts. |
 | [Minecraft Bukkit Pro](minecraft-bukkit-pro.md) | Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. |
 | [Ml Pipeline Workflow](ml-pipeline-workflow.md) | End-to-end MLOps pipeline orchestration from data prep to model deployment and monitoring. |
 | [Mobile App Developer](mobile-app-developer.md) | Builds and optimizes native and cross-platform iOS/Android apps with performance and UX focus. |
@@ -665,6 +670,7 @@ Write, review, test and debug software. 993 Grok Bot templates, 985 of them file
 | [Optim Agent](optim-agent.md) | Guide agent-driven parameter optimization for configurable systems with measurable objectives. |
 | [Orchestrate Batch Refactor](orchestrate-batch-refactor.md) | Plan and execute large refactors with dependency-aware work packets and parallel analysis. |
 | [Pakistan Payments Stack](pakistan-payments-stack.md) | Design and implement PKR payment integrations for SaaS with JazzCash, Easypaisa, and bank rails. |
+| [Parallel Debugging Arbiter](parallel-debugging-arbiter.md) | Debug complex issues by testing competing root-cause hypotheses with evidence and arbitration. |
 | [Patterns](patterns.md) | Reference document for monopoly design patterns. |
 | [Payment Integration](payment-integration.md) | Design and secure payment systems with PCI compliance and fraud prevention. |
 | [Paypal Integration](paypal-integration.md) | Integrate PayPal payments, subscriptions, IPN, and refunds. |
@@ -720,14 +726,20 @@ Write, review, test and debug software. 993 Grok Bot templates, 985 of them file
 | [Pymoo](pymoo.md) | Runs multi-objective optimization using NSGA-II, NSGA-III, and MOEA/D to find Pareto-optimal solutions for engineering design problems. |
 | [Pypict](pypict-skill.md) | Generate pairwise test combinations from parameter models. |
 | [Pytest](pytest-skill.md) | Generate production-grade pytest tests with fixtures, parametrize, mocking, and conftest patterns. |
+| [Python Anti-Pattern Reviewer](python-anti-pattern-reviewer.md) | Reviews Python code for common anti-patterns before merge or debugging. |
+| [Python Configuration Manager](python-configuration-manager.md) | Manage Python app configuration via environment variables and typed settings. |
 | [Python Development](python-development.md) | Scaffold production-ready Python projects with modern tooling and type hints. |
 | [Python Development Python Scaffold](python-development-python-scaffold.md) | Scaffold production-ready Python projects with modern tooling and type safety. |
 | [Python Fastapi Development](python-fastapi-development.md) | Build production-ready FastAPI backends with async patterns and SQLAlchemy. |
 | [Python Mcp Expert](python-mcp-expert.md) | Builds production-ready Python MCP servers with type-safe tools, resources, and prompts. |
+| [Python Observability Instrumenter](python-observability-instrumenter.md) | Add structured logging, metrics, and tracing to Python apps and debug production issues. |
 | [Python Packaging](python-packaging.md) | Generate Python package structures, setup, and PyPI publishing steps. |
 | [Python Patterns](python-patterns.md) | Guides Python framework, async, and type hint decisions for your context. |
 | [Python Performance Optimization](python-performance-optimization.md) | Profile and optimize Python code for speed and memory efficiency. |
 | [Python Pro](python-pro.md) | Modern Python 3.12+ development with idiomatic patterns and production-ready practices. |
+| [Python Resilience Designer](python-resilience-designer.md) | Adds retries, timeouts, and fault tolerance to Python services. |
+| [Python Resource Manager](python-resource-manager.md) | Manages Python resources with context managers and cleanup patterns. |
+| [Python Style Enforcer](python-style-enforcer.md) | Enforces Python code style, linting, formatting, and documentation standards for your projects. |
 | [Python Testing Patterns](python-testing-patterns.md) | Write and debug Python tests with pytest, fixtures, and mocking. |
 | [Pytorch Lightning](pytorch-lightning.md) | Organize PyTorch code into LightningModules and configure Trainers for scalable neural network training. |
 | [Qa Expert](qa-expert.md) | Designs and executes comprehensive QA strategies across the full development lifecycle. No code changes, no deployments. Drafts all plans and reports |
@@ -757,9 +769,12 @@ Write, review, test and debug software. 993 Grok Bot templates, 985 of them file
 | [Recsys Pipeline Architect](recsys-pipeline-architect.md) | Design composable recommendation and ranking pipelines using the six-stage framework. |
 | [Reducing Entropy](reducing-entropy.md) | Minimizes total codebase size by biasing toward deletion and measuring end-state code amount. |
 | [Refactoring Specialist](refactoring-specialist.md) | Transform messy, complex code into clean, maintainable systems while preserving all behavior. |
+| [Regex Visual Debugger](regex-visual-debugger.md) | Debug regex patterns with visual breakdowns, plain English explanations, and test case generation. |
 | [Repo Maintainer](repo-maintainer.md) | Audit and repair repository hygiene across artifacts, dependencies, CI, docs, Git state, and code quality. |
 | [Requesting Code Review](requesting-code-review.md) | Request code review after tasks, features, or before merge to catch issues early. |
+| [Resend Email Connector](resend-email-connector.md) | Connects your assistant to email via Resend for async conversations. |
 | [Resolving Merge Conflicts](resolving-merge-conflicts.md) | Resolve in-progress git merge or rebase conflicts step by step. |
+| [Responsive Layout Builder](responsive-layout-builder.md) | Build responsive layouts with CSS Grid, Flexbox, and container queries. |
 | [Reverse Engineering](reverse-engineering.md) | Reverse-engineer binaries with GDB, Frida, angr, Unicorn, Qiling, and anti-analysis countermeasures. |
 | [Review And Simplify Changes](review-and-simplify-changes.md) | Review git diffs for code quality and apply safe fixes |
 | [Review Multi Agent Orchestration](review-multi-agent-orchestration.md) | Review multi-agent orchestration designs for task boundaries, state, and failure safety before implementation. |
@@ -817,6 +832,7 @@ Write, review, test and debug software. 993 Grok Bot templates, 985 of them file
 | [Simplify Code](simplify-code.md) | Review diffs for clarity and safe simplifications, then optionally apply low-risk fixes. |
 | [Skyvern Browser Automation](skyvern-browser-automation.md) | Navigate websites, fill forms, extract data, and automate browser workflows. |
 | [Slack Bot Builder](slack-bot-builder.md) | Build production-ready Slack apps with Bolt, Block Kit, and OAuth flows. |
+| [Slack Channel Integrator](slack-channel-integrator.md) | Adds Slack channel integration to your chat application via the Chat SDK bridge. |
 | [Slack Expert](slack-expert.md) | Build, review, and deploy Slack apps with Bolt SDK and API best practices. |
 | [Slideops](slideops.md) | Build cited HTML slides from a repo and detect when they drift from the code |
 | [Smart Contract Specialist](smart-contract-specialist.md) | Designs smart contract architecture: proxy patterns, storage layout, module boundaries, and standards selection. Handles off implementation and securi |
@@ -881,6 +897,7 @@ Write, review, test and debug software. 993 Grok Bot templates, 985 of them file
 | [Technical Change Tracker](technical-change-tracker.md) | Track code changes with structured JSON records and AI session handoff for bot continuity. |
 | [Technical Debt Manager](technical-debt-manager.md) | Analyzes codebases to identify, prioritize, and track technical debt reduction. |
 | [Telegram Bot Builder](telegram-bot-builder.md) | Designs Telegram bots with architecture, inline keyboards, and monetization strategies. |
+| [Telegram Channel Integrator](telegram-channel-integrator.md) | Adds Telegram bot channels to your NanoClaw service via the Chat SDK bridge. |
 | [Telegram Mini App](telegram-mini-app.md) | Designs and builds Telegram Mini Apps with TON, payments, and viral mechanics. |
 | [Template Check](skill-check.md) | Validate SKILL.md files against the agentskills specification. |
 | [Template Creator Ms](skill-creator-ms.md) | Create capabilities for AI coding agents using Azure SDKs and Microsoft Foundry. |
@@ -958,6 +975,7 @@ Write, review, test and debug software. 993 Grok Bot templates, 985 of them file
 | [Vibe Delegate](vibe-delegate.md) | Orchestrate coding tasks by delegating to Mistral Vibe CLI and reviewing its output. |
 | [Vibecode Production Qa Validator](vibecode-production-qa-validator.md) | 13-phase production QA checklist for fullstack Next.js apps - build, SEO, auth, security, UI |
 | [Vibers Code Review](vibers-code-review.md) | Human review of AI-generated GitHub code with spec-based fixes and follow-up PRs. |
+| [Visual Edit Precision](visual-edit-precision.md) | Makes minimal, precise UI edits from visual context like screenshots and annotations. |
 | [Vitest](vitest-skill.md) | Generates Vitest tests in JS/TS with Vite-native speed and Jest-compatible API. |
 | [Voice Ai Engine Development](voice-ai-engine-development.md) | Build real-time conversational AI voice engines with async pipelines and multi-provider support. |
 | [Voidbeast Gpt41enhanced](voidbeast-gpt41enhanced.md) | Autonomous full-stack developer that plans, codes, and validates until every problem is solved. |
@@ -972,6 +990,7 @@ Write, review, test and debug software. 993 Grok Bot templates, 985 of them file
 | [Web3 Testing](web3-testing.md) | Write and run unit, integration, fuzz, and gas tests for Solidity smart contracts. |
 | [Webapp Testing](webapp-testing.md) | Tests local web apps with Playwright: UI verification, debugging, screenshots, and logs. |
 | [Webdriverio](webdriverio-skill.md) | Generates WebdriverIO automation tests in JavaScript or TypeScript for local or cloud execution. |
+| [Webex Channel Integrator](webex-channel-integrator.md) | Adds Cisco Webex chat integration to your NanoClaw service via the Chat SDK bridge. |
 | [Websocket Engineer](websocket-engineer.md) | Designs and implements scalable WebSocket systems for real-time bidirectional communication. |
 | [Wg Code Alchemist](wg-code-alchemist.md) | Refactors code using Clean Code and SOLID principles on request. No automated runs. No state. No scheduling. No connectors. No boundaries beyond the c |
 | [Wgm](wgm.md) | Turns rough requests into working software via a governed build loop with alignment, planning, and iterative validation. |

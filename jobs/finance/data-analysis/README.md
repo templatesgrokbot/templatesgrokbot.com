@@ -1,11 +1,12 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 59 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 63 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [AI ROI Calculator](ai-roi-calculator.md) | Calculate ROI for AI implementation projects with detailed financial analysis and recommendations. |
 | [Alpha Vantage](alpha-vantage.md) | Fetch 20+ years of equities, forex, crypto, commodities, and economic data via Alpha Vantage API. |
 | [AML Due Diligence Drafter](../../legal/data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
 | [Auction Analyst AI](../../real-estate-and-construction/data-analysis/auction-analyst-ai.md) | Analyzes notices, risks, and property value in judicial and extrajudicial auctions. |
@@ -15,9 +16,9 @@ Clean, query, chart and explain data. 59 Grok Bot templates, 28 of them filed in
 | [Aws Cost Operations](../../operations/data-analysis/aws-cost-operations.md) | Optimize AWS costs, monitor usage, and audit activity with MCP tools. |
 | [Backtesting Frameworks](backtesting-frameworks.md) | Build robust backtesting systems with realistic cost models and walk-forward analysis. |
 | [Bettoredge Value Finder](bettoredge-value-finder.md) | Finds +EV betting opportunities on BettorEdge prediction markets using Kelly criterion and bankroll limits. |
-| [Board Deck Generator](../../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates institutional-quality board meeting decks with financials, updates, and asks. |
+| [Board Deck Generator](../../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates professional board meeting presentation content with executive summary, financials, and strategic updates. |
 | [Bounty Hunter](bounty-hunter.md) | Identifies unclaimed, owed, or wasted money and recommends how to recover it. |
-| [Cash Flow Forecaster](cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your financial exports and flags crunch weeks. |
+| [Cash Flow Forecaster](cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your bank, AR, AP, and payroll data, flagging crunch weeks. |
 | [Compliance Cost Analyst](../../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Customer Lifetime Value Analyst](../../management/data-analysis/customer-lifetime-value-analyst.md) | Turns your customer data into CLV insights and action plans for growth. |
@@ -28,9 +29,11 @@ Clean, query, chart and explain data. 59 Grok Bot templates, 28 of them filed in
 | [E-commerce Fraud Detection Assistant](../../management/data-analysis/e-commerce-fraud-detection-assistant.md) | Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud. |
 | [Energy Procurement](../../operations/data-analysis/energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
 | [Excel Analysis](excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
-| [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, categorizes, flags issues, and reports. |
-| [Home Inventory Builder](../../operations/data-analysis/home-inventory-builder.md) | Builds an insurance-grade home inventory from photos and receipts, with values and gap analysis. |
+| [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
+| [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
+| [Financial Document Parser](financial-document-parser.md) | Extracts structured data from financial documents and categorizes expenses. |
 | [Invoice Organizer](../../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
+| [Job Profitability Analyzer](job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Legal Billing Systems Assistant](../../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
 | [Licensing and Royalty Manager](../../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
 | [Longbridge](longbridge.md) | 125+ read-only market data capabilities for HK/US/A-share/SG stocks via Longbridge. |
@@ -48,6 +51,7 @@ Clean, query, chart and explain data. 59 Grok Bot templates, 28 of them filed in
 | [Portfolio Digest](portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
 | [Pricing Strategy Analyst](../../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
 | [Quant Analyst](quant-analyst.md) | Builds and backtests quantitative trading strategies with transaction costs and risk analytics for portfolios and derivatives. |
+| [Quarterly Finance Report](quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |
 | [Risk Manager](risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
 | [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
@@ -61,7 +65,7 @@ Clean, query, chart and explain data. 59 Grok Bot templates, 28 of them filed in
 | [Tax Document Organizer](tax-document-organizer.md) | Sweeps your folders for tax documents and builds a CPA-ready package with a chase list. |
 | [Trading Ledger](trading-ledger.md) | Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L. |
 | [Trading Risk Manager](trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
-| [Vendor Proposal Comparator](../../operations/data-analysis/vendor-proposal-comparator.md) | Normalize vendor quotes and SOWs into a comparison matrix, compute true TCO, and surface negotiation leverage. |
+| [Vendor Proposal Comparator](../../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Xlsx Official](xlsx-official.md) | Reads, edits, and creates spreadsheet files with formulas, formatting, and zero errors. |
 | [Xvary Stock Research](xvary-stock-research.md) | Thesis-driven equity analysis from public SEC EDGAR and market data. No advice, no non-public data. |
 | [Yield Intelligence](yield-intelligence.md) | Analyze passive income opportunities and build yield-optimized portfolios. |

@@ -1,6 +1,6 @@
 # Research templates for Writers
 
-Find sources, compare evidence and summarise what is known. 15 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 16 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,7 @@ Find sources, compare evidence and summarise what is known. 15 Grok Bot template
 | [Ml Paper Writing](../../science-and-research/research/ml-paper-writing.md) | Drafts publication-ready ML/AI papers for top conferences from research repos and results. |
 | [Podcast Trend Scout](../../marketing/research/podcast-trend-scout.md) | Scouts 3-5 emerging tech topics weekly for The Build podcast episodes. |
 | [Report Generator](../../science-and-research/research/report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |
+| [Short Story Trend Scanner](short-story-trend-scanner.md) | 扫描短篇网文平台榜单，捕捉风口题材并输出可执行选题建议。 |
 | [Web Media Getter](../../creatives/research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
 | [Web To Markdown](../../it-and-development/research/web-to-markdown.md) | Converts webpage URLs to clean Markdown using a local browser-based CLI. |
 

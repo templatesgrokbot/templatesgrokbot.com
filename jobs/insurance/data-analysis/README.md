@@ -6,7 +6,7 @@ Clean, query, chart and explain data. 6 Grok Bot templates, 0 of them filed in t
 
 | Template | What it does |
 |---|---|
-| [Home Inventory Builder](../../operations/data-analysis/home-inventory-builder.md) | Builds an insurance-grade home inventory from photos and receipts, with values and gap analysis. |
+| [Home Inventory Builder](../../operations/data-analysis/home-inventory-builder.md) | Turns your photos and receipts into an insurance-grade home inventory. |
 | [Insurance Document Verification Assistant](../../customer-support/data-analysis/insurance-document-verification-assistant.md) | Verifies, updates, and tracks insurance documents for customer service reps. |
 | [Insurance Feedback Analyzer](../../customer-support/data-analysis/insurance-feedback-analyzer.md) | Collects, analyzes, and reports insurance customer feedback for service improvements. |
 | [Insurance Fraud Detection Assistant](../../customer-support/data-analysis/insurance-fraud-detection-assistant.md) | Detects and investigates insurance fraud across claims, policies, and transactions. |

@@ -18,7 +18,6 @@ Find sources, compare evidence and summarise what is known. 59 Grok Bot template
 | [Competitor Analysis](competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
 | [Competitor Profiling](competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Tracking](competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
-| [Contact Hunter](../../sales/research/contact-hunter.md) | Finds and verifies public contact details for people and companies. |
 | [Crypto Bd Agent](../../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Customer Psychographic Profiler](customer-psychographic-profiler.md) | Build deep psychographic profiles of target customers based on identity, needs, and fears. |
 | [Customer Research](customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
@@ -59,6 +58,7 @@ Find sources, compare evidence and summarise what is known. 59 Grok Bot template
 | [Seo Geo](seo-geo.md) | Analyze content visibility and optimization for AI search systems like ChatGPT, Perplexity, and Google AI Overviews. |
 | [Seo Images](seo-images.md) | Audit image SEO, alt text, sizes, formats, and lazy loading for web pages. |
 | [Startup Business Analyst Market Opportunity](../../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Stock Photo Finder](../../creatives/research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 | [Survey Design and Analysis Assistant](../../management/research/survey-design-and-analysis-assistant.md) | Designs, distributes, analyzes, and reports surveys for market research managers. |
 | [Tools Page Seo Optimizer](tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |
 | [Trend Analyst](trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |

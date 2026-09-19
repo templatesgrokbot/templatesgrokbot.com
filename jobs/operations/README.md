@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **746 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **738 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,21 +11,21 @@ Processes, logistics and the systems that run a business. **746 ready-made Grok 
 
 | Kind of work | Templates |
 |---|---:|
-| [Cloud & DevOps](cloud-and-devops/README.md) | 179 |
-| [Data Analysis](data-analysis/README.md) | 142 |
-| [Productivity](productivity/README.md) | 97 |
-| [Research](research/README.md) | 62 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 178 |
+| [Data Analysis](data-analysis/README.md) | 134 |
+| [Productivity](productivity/README.md) | 98 |
+| [Research](research/README.md) | 60 |
 | [Coding](coding/README.md) | 59 |
 | [Security & Compliance](security-and-compliance/README.md) | 39 |
 | [Knowledge Management](knowledge-management/README.md) | 28 |
 | [Office Tools](office-tools/README.md) | 27 |
 | [Support & Community](support-and-community/README.md) | 21 |
-| [Writing & Content](writing-and-content/README.md) | 18 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 17 |
+| [Writing & Content](writing-and-content/README.md) | 17 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 14 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 10 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 8 |
-| [Generative Code](generative-code/README.md) | 7 |
+| [Generative Code](generative-code/README.md) | 8 |
 | [Social Media](social-media/README.md) | 4 |
 | [Video Editing](video-editing/README.md) | 4 |
 | [Design](design/README.md) | 2 |
@@ -41,15 +41,15 @@ Processes, logistics and the systems that run a business. **746 ready-made Grok 
 | Template | What it does |
 |---|---|
 | [Monitoring Specialist](../it-and-development/cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
-| [Kubernetes Architect](../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
 | [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
+| [Kubernetes Architect](../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
 | [Zapier Make Patterns](../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
 
-[All 179 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 178 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Data Analysis
 
@@ -64,22 +64,22 @@ Processes, logistics and the systems that run a business. **746 ready-made Grok 
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 142 Data Analysis templates →](data-analysis/README.md)
+[All 134 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
 | Template | What it does |
 |---|---|
 | [Doordash Group Orders](productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
-| [Meal Prep](productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Spark](productivity/spark.md) | Guides new users through a short questionnaire, then automatically creates the bots and connectors they need. |
+| [Meal Prep](productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Markitdown](productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
 | [Diary](productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Obsidian Clipper Template Creator](productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
 | [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 97 Productivity templates →](productivity/README.md)
+[All 98 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -94,7 +94,7 @@ Processes, logistics and the systems that run a business. **746 ready-made Grok 
 | [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 | [Hasdata Cli](../it-and-development/research/hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
 
-[All 62 Research templates →](research/README.md)
+[All 60 Research templates →](research/README.md)
 
 ## Coding
 
@@ -136,8 +136,8 @@ Processes, logistics and the systems that run a business. **746 ready-made Grok 
 | [Connection Agent](knowledge-management/connection-agent.md) | Analyzes an Obsidian vault to suggest links between notes and identify orphaned content. |
 | [Ingest Youtube](knowledge-management/ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
 | [Review Agent](knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
-| [Vault Optimizer](knowledge-management/vault-optimizer.md) | Analyzes and optimizes Obsidian vault performance, file sizes, and search indexing. |
 | [Notion Knowledge Capture](knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
+| [Vault Optimizer](knowledge-management/vault-optimizer.md) | Analyzes and optimizes Obsidian vault performance, file sizes, and search indexing. |
 
 [All 28 Knowledge Management templates →](knowledge-management/README.md)
 
@@ -171,21 +171,6 @@ Processes, logistics and the systems that run a business. **746 ready-made Grok 
 
 [All 21 Support & Community templates →](support-and-community/README.md)
 
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Resume Tailor](writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
-| [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
-| [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
-| [Custom Clause Generator](../legal/writing-and-content/custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
-| [Email Issue Fixer](writing-and-content/email-issue-fixer.md) | Proofread emails and strip tracking from links on request, preserving voice. |
-| [Resume Quantifier](../human-resources/writing-and-content/resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |
-| [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
-| [Ocr Quality Assurance](writing-and-content/ocr-quality-assurance.md) | Validates OCR-corrected text against original images for accuracy and completeness. |
-
-[All 18 Writing & Content templates →](writing-and-content/README.md)
-
 ## Marketing & Growth
 
 | Template | What it does |
@@ -201,6 +186,21 @@ Processes, logistics and the systems that run a business. **746 ready-made Grok 
 
 [All 17 Marketing & Growth templates →](marketing-and-growth/README.md)
 
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Resume Tailor](writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
+| [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
+| [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
+| [Custom Clause Generator](../legal/writing-and-content/custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
+| [Email Issue Fixer](writing-and-content/email-issue-fixer.md) | Proofread emails and strip tracking from links on request, preserving voice. |
+| [Resume Quantifier](../human-resources/writing-and-content/resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |
+| [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
+| [Ocr Quality Assurance](writing-and-content/ocr-quality-assurance.md) | Validates OCR-corrected text against original images for accuracy and completeness. |
+
+[All 17 Writing & Content templates →](writing-and-content/README.md)
+
 ## Generative AI and LLM
 
 | Template | What it does |
@@ -212,9 +212,24 @@ Processes, logistics and the systems that run a business. **746 ready-made Grok 
 | [Machine Learning Engineer](../it-and-development/generative-ai-and-llm/machine-learning-engineer.md) | Deploy and optimize ML models for production inference at scale. |
 | [Delegating To Agents](../it-and-development/generative-ai-and-llm/delegating-to-agents.md) | Delegate bounded work to other AI agents with full context and progress checks. |
 | [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
-| [Loopy](../it-and-development/generative-ai-and-llm/loopy.md) | Discover, craft, audit, and publish bounded AI-agent loops from engineering work. |
+| [Nika](../it-and-development/generative-ai-and-llm/nika.md) | Runs repeatable AI workflows as checked, budgeted YAML files with tamper-evident receipts. |
 
 [All 14 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
+| [Territory Planning Optimizer](../sales/sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
+| [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
+| [Odoo Sales Crm Expert](../sales/sales-and-negotiation/odoo-sales-crm-expert.md) | Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions. |
+| [Close Automation](../sales/sales-and-negotiation/close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
+| [Salesforce Automation](../sales/sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
+| [Sales Forecast Builder](../sales/sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
+| [Quota Setting Calculator](../sales/sales-and-negotiation/quota-setting-calculator.md) | Designs fair, achievable sales quotas with clear methodology and territory adjustments. |
+
+[All 10 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Speech-To-Text
 
@@ -231,25 +246,13 @@ Processes, logistics and the systems that run a business. **746 ready-made Grok 
 
 [All 9 Speech-To-Text templates →](speech-to-text/README.md)
 
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
-| [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
-| [Odoo Sales Crm Expert](../sales/sales-and-negotiation/odoo-sales-crm-expert.md) | Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions. |
-| [Close Automation](../sales/sales-and-negotiation/close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
-| [Salesforce Automation](../sales/sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
-| [Hubspot Automation](../sales/sales-and-negotiation/hubspot-automation.md) | Automate HubSpot CRM operations via Rube MCP and Composio integration. |
-| [Lead Research Assistant](../sales/sales-and-negotiation/lead-research-assistant.md) | Finds and prioritizes companies that match your ideal customer profile for sales outreach. |
-| [Consulting Proposal Generator](../sales/sales-and-negotiation/consulting-proposal-generator.md) | Turns a brief into a complete consulting proposal with research and pricing. |
-
 ## Generative Code
 
 | Template | What it does |
 |---|---|
 | [N8n Node Configuration](../it-and-development/generative-code/n8n-node-configuration.md) | Configure n8n nodes with operation-aware property dependencies. |
 | [Azure Storage Queue Py](../it-and-development/generative-code/azure-storage-queue-py.md) | Manage Azure Queue Storage messages: send, receive, peek, update, delete. |
+| [Sticky Flowchart Builder](generative-code/sticky-flowchart-builder.md) | Turns a workflow into a whiteboard-style sticky note flowchart. |
 | [Webflow Automation](../it-and-development/generative-code/webflow-automation.md) | Automate Webflow CMS, publishing, pages, assets, and ecommerce via Rube MCP. |
 | [Macos Spm App Packaging](../it-and-development/generative-code/macos-spm-app-packaging.md) | Scaffold, build, sign, and package SwiftPM macOS apps without Xcode. |
 | [Odoo Edi Connector](../it-and-development/generative-code/odoo-edi-connector.md) | Map EDI X12/EDIFACT to Odoo objects and automate B2B document flows. |

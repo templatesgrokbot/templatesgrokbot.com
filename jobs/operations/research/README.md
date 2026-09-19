@@ -1,6 +1,6 @@
 # Research templates for Operations
 
-Find sources, compare evidence and summarise what is known. 62 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 60 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,10 +12,8 @@ Find sources, compare evidence and summarise what is known. 62 Grok Bot template
 | [Case Brief Organizer for Litigators](../../legal/research/case-brief-organizer-for-litigators.md) | Summarizes, analyzes, and organizes case law for legal research and client support. |
 | [Case Law Research Assistant](../../legal/research/case-law-research-assistant.md) | Find, analyze, and organize case law for your legal research and memos. |
 | [Compliance Docket Analyst](../../legal/research/compliance-docket-analyst.md) | Regulatory filing assistant for compliance analysts: research, draft, validate, track, and submit compliant documents. |
-| [Contact Hunter](../../sales/research/contact-hunter.md) | Finds and verifies public contact details for people and companies. |
 | [Contract Drafting Assistant](../../legal/research/contract-drafting-assistant.md) | Guides contract drafting, review, compliance, and management from template to execution. |
 | [Contract Risk Assessment Assistant](../../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
-| [Contract Risk Reviewer](../../legal/research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
 | [Court Filing Paralegal Assistant](../../legal/research/court-filing-paralegal-assistant.md) | Prepares, files, and tracks court documents while keeping deadlines and rules straight. |
 | [Cross-Jurisdictional Compliance Assistant](../../legal/research/cross-jurisdictional-compliance-assistant.md) | Guides compliance analysts through cross-jurisdictional regulations, from research to audits. |
 | [Crypto Bd Agent](../../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |

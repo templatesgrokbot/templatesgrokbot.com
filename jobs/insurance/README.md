@@ -1,6 +1,6 @@
 # Grok Bot templates for Insurance
 
-Underwriting, claims and policy work. **22 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Underwriting, claims and policy work. **23 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Underwriting, claims and policy work. **22 ready-made Grok Bot templates** for t
 | [Data Analysis](data-analysis/README.md) | 6 |
 | [Security & Compliance](security-and-compliance/README.md) | 4 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
+| [Productivity](productivity/README.md) | 1 |
 | [Translation](translation/README.md) | 1 |
 
 ## Support & Community
@@ -36,7 +37,7 @@ Underwriting, claims and policy work. **22 ready-made Grok Bot templates** for t
 
 | Template | What it does |
 |---|---|
-| [Home Inventory Builder](../operations/data-analysis/home-inventory-builder.md) | Builds an insurance-grade home inventory from photos and receipts, with values and gap analysis. |
+| [Home Inventory Builder](../operations/data-analysis/home-inventory-builder.md) | Turns your photos and receipts into an insurance-grade home inventory. |
 | [Insurance Document Verification Assistant](../customer-support/data-analysis/insurance-document-verification-assistant.md) | Verifies, updates, and tracks insurance documents for customer service reps. |
 | [Insurance Feedback Analyzer](../customer-support/data-analysis/insurance-feedback-analyzer.md) | Collects, analyzes, and reports insurance customer feedback for service improvements. |
 | [Insurance Fraud Detection Assistant](../customer-support/data-analysis/insurance-fraud-detection-assistant.md) | Detects and investigates insurance fraud across claims, policies, and transactions. |
@@ -57,6 +58,12 @@ Underwriting, claims and policy work. **22 ready-made Grok Bot templates** for t
 | Template | What it does |
 |---|---|
 | [Insurance Training and Knowledge Manager](../customer-support/knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Workflow Orchestrator](../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
 
 ## Translation
 

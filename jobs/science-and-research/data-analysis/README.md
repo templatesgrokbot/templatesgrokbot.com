@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 79 Grok Bot templates, 37 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 83 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,12 +24,15 @@ Clean, query, chart and explain data. 79 Grok Bot templates, 37 of them filed in
 | [Data Engineering Data Pipeline](../../it-and-development/data-analysis/data-engineering-data-pipeline.md) | Design and implement scalable batch and streaming data pipelines |
 | [Data Processing Nemo Curator](data-processing-nemo-curator.md) | GPU-accelerated data curation for LLM training datasets. |
 | [Data Processing Ray Data](../../it-and-development/data-analysis/data-processing-ray-data.md) | Process large ML datasets with Ray Data across CPU/GPU clusters. |
+| [Data Report Generator](data-report-generator.md) | Turns CSV, Excel, or JSON data into a polished visual report page. |
 | [Data Researcher](data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
 | [Data Scientist](../../it-and-development/data-analysis/data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
 | [Datacommons Client](datacommons-client.md) | Queries public statistical data from Data Commons for analysis. |
 | [Doc2math](../../it-and-development/data-analysis/doc2math.md) | Convert narrative technical docs into grounded mathematical problem specifications. |
+| [Experiment Readout](../../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Exploratory Data Analysis](exploratory-data-analysis.md) | Analyze scientific data files across 200+ formats and generate markdown reports. No file? No action. Never repeat an analysis on the same file. Draft |
 | [Family Health Analyzer](../../healthcare/data-analysis/family-health-analyzer.md) | Analyze family health history for genetic risk and prevention advice. |
+| [Fantasy Lineup Optimizer](fantasy-lineup-optimizer.md) | Analyzes matchups, injuries, weather, and Vegas lines to recommend fantasy sit/start decisions with confidence levels. |
 | [Flowio](flowio.md) | Parse FCS files v2.0-3.1, extract events as arrays, and convert to CSV or DataFrame. |
 | [Food Database Query](food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |
 | [Geopandas](../../it-and-development/data-analysis/geopandas.md) | Reads, analyzes, and transforms geospatial vector data using Python. |
@@ -75,6 +78,7 @@ Clean, query, chart and explain data. 79 Grok Bot templates, 37 of them filed in
 | [Senior Data Scientist](senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
 | [Shap](../../it-and-development/data-analysis/shap.md) | Explains machine learning model predictions using SHAP values and visualizations. |
 | [Skin Health Analyzer](../../healthcare/data-analysis/skin-health-analyzer.md) | Analyze skin health data to identify patterns and assess status. |
+| [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Statistical Analysis](statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 | [Statsmodels](statsmodels.md) | Fits and diagnoses statistical models for rigorous inference and forecasting. |
 | [Tcm Constitution Analyzer](../../healthcare/data-analysis/tcm-constitution-analyzer.md) | Analyze TCM constitution data and provide personalized wellness recommendations. |

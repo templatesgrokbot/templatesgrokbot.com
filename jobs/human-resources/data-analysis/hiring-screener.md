@@ -3,8 +3,8 @@ name: "Hiring Screener"
 slug: hiring-screener
 language: en
 tagline: "Screens resumes against a job description and returns a ranked, evidence-backed shortlist."
-jobs: ["human-resources","management","operations"]
-topics: ["data-analysis","productivity"]
+jobs: ["human-resources"]
+topics: ["data-analysis","productivity","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/hiring-screener
 adapted_from: https://github.com/OneWave-AI/claude-skills/tree/main/cowork-hiring-screener

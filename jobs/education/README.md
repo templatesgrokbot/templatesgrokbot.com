@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **87 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **92 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,20 @@ Teachers, trainers and students. **87 ready-made Grok Bot templates** for this f
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 27 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 29 |
 | [Research](research/README.md) | 20 |
 | [Writing & Content](writing-and-content/README.md) | 12 |
 | [Coding](coding/README.md) | 5 |
+| [Self-Improvement](self-improvement/README.md) | 5 |
+| [Productivity](productivity/README.md) | 4 |
 | [Security & Compliance](security-and-compliance/README.md) | 4 |
-| [Self-Improvement](self-improvement/README.md) | 4 |
 | [Data Analysis](data-analysis/README.md) | 3 |
-| [Productivity](productivity/README.md) | 3 |
 | [Design](design/README.md) | 2 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 2 |
 | [Knowledge Management](knowledge-management/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Generative Code](generative-code/README.md) | 1 |
+| [Office Tools](office-tools/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
 
 ## Teaching & Tutoring
@@ -38,6 +39,7 @@ Teachers, trainers and students. **87 ready-made Grok Bot templates** for this f
 | [Demonstrate Understanding](teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Examprep Ai](teaching-and-tutoring/examprep-ai.md) | Turns syllabi and past papers into a ranked study roadmap ordered Easy to Hard. |
 | [Explain Like Socrates](teaching-and-tutoring/explain-like-socrates.md) | Explain ideas through Socratic dialogue and guided reasoning. |
+| [Flashcard Generator](teaching-and-tutoring/flashcard-generator.md) | Turns any content into spaced-repetition flashcards in multiple formats. |
 | [Geoffrey Hinton](teaching-and-tutoring/geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
 | [Interview Prep](teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
 | [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
@@ -48,6 +50,7 @@ Teachers, trainers and students. **87 ready-made Grok Bot templates** for this f
 | [Microsoft Study Mode](teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
 | [Pitch Rehearsal](teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
 | [Puzzle Activity Planner](teaching-and-tutoring/puzzle-activity-planner.md) | Plan puzzle-based activities with pre-configured generator links for classrooms, parties, and events. |
+| [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Ship Learn Next](teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Study Buddy](teaching-and-tutoring/study-buddy.md) | Drills you on your own material with spaced repetition instead of re-reading notes. |
 | [Teach](teaching-and-tutoring/teach.md) | Teach any topic through structured lessons, reference docs, and learning records. |
@@ -110,6 +113,25 @@ Teachers, trainers and students. **87 ready-made Grok Bot templates** for this f
 | [Sympy](../it-and-development/coding/sympy.md) | Performs exact symbolic math using SymPy in Python. |
 | [Yann Lecun Tecnico](../it-and-development/coding/yann-lecun-tecnico.md) | Implement and explain LeCun's deep learning techniques with PyTorch. |
 
+## Self-Improvement
+
+| Template | What it does |
+|---|---|
+| [Career Changer Translator](../human-resources/self-improvement/career-changer-translator.md) | Translates skills from one industry to another for career pivots. |
+| [Interview Coach](../human-resources/self-improvement/interview-coach.md) | Full job search coaching: JD decoding, mock interviews, transcript analysis, and comp negotiation. |
+| [Satori](self-improvement/satori.md) | A structured thinking partner blending psychology and philosophy for inner exploration. |
+| [Sleep Coach](../healthcare/self-improvement/sleep-coach.md) | Correlates what you did each day with how you slept and names the one habit to change. |
+| [Workout Program Designer](self-improvement/workout-program-designer.md) | Designs personalized workout plans by goal, with progressive overload and rest-day optimization. |
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Bulletmind](productivity/bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
+| [Claude Speed Reader](productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Practice Plan Creator](productivity/practice-plan-creator.md) | Designs sport-specific practice sessions with drills, timing, and progression. |
+| [Speed](../management/productivity/speed.md) | Launch RSVP speed reader with Spritz-style word-by-word display. |
+
 ## Security & Compliance
 
 | Template | What it does |
@@ -119,15 +141,6 @@ Teachers, trainers and students. **87 ready-made Grok Bot templates** for this f
 | [Top Web Vulnerabilities](../it-and-development/security-and-compliance/top-web-vulnerabilities.md) | Reference the top 100 web vulnerabilities by category for assessment and remediation. No scanning or testing. Authorized use only. Educational referen |
 | [Web Security Testing](../it-and-development/security-and-compliance/web-security-testing.md) | Guide structured OWASP Top 10 web application security assessments step by step. |
 
-## Self-Improvement
-
-| Template | What it does |
-|---|---|
-| [Career Changer Translator](../human-resources/self-improvement/career-changer-translator.md) | Translates skills from one industry to another for career pivots. |
-| [Interview Coach](../human-resources/self-improvement/interview-coach.md) | Full job search coaching: JD decoding, mock interviews, transcript analysis, and comp negotiation. |
-| [Satori](self-improvement/satori.md) | A structured thinking partner blending psychology and philosophy for inner exploration. |
-| [Sleep Coach](../healthcare/self-improvement/sleep-coach.md) | Correlates what you did each day with how you slept and names the one habit to change. |
-
 ## Data Analysis
 
 | Template | What it does |
@@ -135,14 +148,6 @@ Teachers, trainers and students. **87 ready-made Grok Bot templates** for this f
 | [Job Description Analyzer](../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
 | [Jupyter Notebook](data-analysis/jupyter-notebook.md) | Creates and edits reproducible Jupyter notebooks for experiments or tutorials. |
 | [Statistical Analysis](../science-and-research/data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Bulletmind](productivity/bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
-| [Claude Speed Reader](productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
-| [Speed](../management/productivity/speed.md) | Launch RSVP speed reader with Spritz-style word-by-word display. |
 
 ## Design
 
@@ -176,6 +181,12 @@ Teachers, trainers and students. **87 ready-made Grok Bot templates** for this f
 | Template | What it does |
 |---|---|
 | [Manim](generative-code/manim.md) | Guides you in writing Manim Python code to create mathematical animations and educational videos. |
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Visual Asset Placer](../creatives/office-tools/visual-asset-placer.md) | Selects and places approved visual assets in editable PPTX decks. |
 
 ## Prompt Engineering
 

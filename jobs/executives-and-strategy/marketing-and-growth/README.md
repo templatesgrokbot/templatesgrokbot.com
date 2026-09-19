@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Executives and Strategy
 
-Campaigns, ads, conversion and launch plans. 28 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 29 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Campaigns, ads, conversion and launch plans. 28 Grok Bot templates, 1 of them fi
 | [Free Tier Strategy](../../product-development/marketing-and-growth/free-tier-strategy.md) | Design free tiers that developers love and that convert to paid naturally. |
 | [Free Tool Strategy](../../marketing/marketing-and-growth/free-tool-strategy.md) | Plan and evaluate free tools for lead gen, SEO, and brand awareness. |
 | [Launch Strategy](../../marketing/marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
+| [Launch War Room](../../product-development/marketing-and-growth/launch-war-room.md) | Run an adversarial go/no-go war room and phased rollout plan for any launch. |
 | [Local Legal Seo Audit](../../marketing/marketing-and-growth/local-legal-seo-audit.md) | Audit and improve local SEO for law firms, attorneys, and legal professionals. |
 | [Marketing Demand Acquisition](../../marketing/marketing-and-growth/marketing-demand-acquisition.md) | Generates and optimizes multi-channel demand for B2B SaaS startups scaling internationally. |
 | [Marketing Ideas](../../marketing/marketing-and-growth/marketing-ideas.md) | Scores and prioritizes 140 marketing ideas for SaaS products by feasibility. |

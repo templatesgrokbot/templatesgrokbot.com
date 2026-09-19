@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **336 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **343 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,18 @@ Scientists, analysts and academic researchers. **336 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Research](research/README.md) | 136 |
-| [Data Analysis](data-analysis/README.md) | 79 |
+| [Research](research/README.md) | 137 |
+| [Data Analysis](data-analysis/README.md) | 83 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 64 |
 | [Coding](coding/README.md) | 30 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 9 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 10 |
 | [Writing & Content](writing-and-content/README.md) | 5 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
 | [Security & Compliance](security-and-compliance/README.md) | 3 |
 | [Design](design/README.md) | 2 |
 | [Generative Art](generative-art/README.md) | 1 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
+| [Office Tools](office-tools/README.md) | 1 |
 | [Productivity](productivity/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
 
@@ -98,6 +99,7 @@ Scientists, analysts and academic researchers. **336 ready-made Grok Bot templat
 | [Hugging Face Papers](research/hugging-face-papers.md) | Fetch, summarize, and explore AI research papers from Hugging Face and arXiv. |
 | [Hypogenic](research/hypogenic.md) | Generates and tests scientific hypotheses from your datasets using LLMs. |
 | [Hypothesis Generation](research/hypothesis-generation.md) | Generates testable hypotheses from observations, designs experiments, and produces a structured LaTeX report. |
+| [Hypothesis Testing Engine](research/hypothesis-testing-engine.md) | Designs and executes research protocols to test any claim with a confidence verdict. |
 | [Ii Commons](research/ii-commons.md) | Deterministic search across arXiv, PubMed/PMC, and US policy corpora with daily freshness cutoffs. |
 | [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Infinite Gratitude](research/infinite-gratitude.md) | Orchestrates 10 parallel agents for deep multi-source research synthesis. |
@@ -188,12 +190,15 @@ Scientists, analysts and academic researchers. **336 ready-made Grok Bot templat
 | [Data Engineering Data Pipeline](../it-and-development/data-analysis/data-engineering-data-pipeline.md) | Design and implement scalable batch and streaming data pipelines |
 | [Data Processing Nemo Curator](data-analysis/data-processing-nemo-curator.md) | GPU-accelerated data curation for LLM training datasets. |
 | [Data Processing Ray Data](../it-and-development/data-analysis/data-processing-ray-data.md) | Process large ML datasets with Ray Data across CPU/GPU clusters. |
+| [Data Report Generator](data-analysis/data-report-generator.md) | Turns CSV, Excel, or JSON data into a polished visual report page. |
 | [Data Researcher](data-analysis/data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
 | [Data Scientist](../it-and-development/data-analysis/data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
 | [Datacommons Client](data-analysis/datacommons-client.md) | Queries public statistical data from Data Commons for analysis. |
 | [Doc2math](../it-and-development/data-analysis/doc2math.md) | Convert narrative technical docs into grounded mathematical problem specifications. |
+| [Experiment Readout](../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Exploratory Data Analysis](data-analysis/exploratory-data-analysis.md) | Analyze scientific data files across 200+ formats and generate markdown reports. No file? No action. Never repeat an analysis on the same file. Draft |
 | [Family Health Analyzer](../healthcare/data-analysis/family-health-analyzer.md) | Analyze family health history for genetic risk and prevention advice. |
+| [Fantasy Lineup Optimizer](data-analysis/fantasy-lineup-optimizer.md) | Analyzes matchups, injuries, weather, and Vegas lines to recommend fantasy sit/start decisions with confidence levels. |
 | [Flowio](data-analysis/flowio.md) | Parse FCS files v2.0-3.1, extract events as arrays, and convert to CSV or DataFrame. |
 | [Food Database Query](data-analysis/food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |
 | [Geopandas](../it-and-development/data-analysis/geopandas.md) | Reads, analyzes, and transforms geospatial vector data using Python. |
@@ -239,6 +244,7 @@ Scientists, analysts and academic researchers. **336 ready-made Grok Bot templat
 | [Senior Data Scientist](data-analysis/senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
 | [Shap](../it-and-development/data-analysis/shap.md) | Explains machine learning model predictions using SHAP values and visualizations. |
 | [Skin Health Analyzer](../healthcare/data-analysis/skin-health-analyzer.md) | Analyze skin health data to identify patterns and assess status. |
+| [Spreadsheet Merger](../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Statistical Analysis](data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 | [Statsmodels](data-analysis/statsmodels.md) | Fits and diagnoses statistical models for rigorous inference and forecasting. |
 | [Tcm Constitution Analyzer](../healthcare/data-analysis/tcm-constitution-analyzer.md) | Analyze TCM constitution data and provide personalized wellness recommendations. |
@@ -367,6 +373,7 @@ Scientists, analysts and academic researchers. **336 ready-made Grok Bot templat
 | [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [Latchbio Integration](../it-and-development/cloud-and-devops/latchbio-integration.md) | Build and deploy bioinformatics workflows as serverless pipelines on the Latch platform. |
 | [Model Architecture Torchtitan](../it-and-development/cloud-and-devops/model-architecture-torchtitan.md) | Pretrains large language models at scale using PyTorch-native torchtitan with 4D parallelism. |
+| [Unified Memory Thermal Planner](../it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
 
 ## Writing & Content
 
@@ -413,6 +420,12 @@ Scientists, analysts and academic researchers. **336 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Compile Knowledge](../it-and-development/knowledge-management/compile-knowledge.md) | Compile durable, non-obvious findings into interlinked markdown knowledge files with an index. |
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Swiss International Deck Builder](office-tools/swiss-international-deck-builder.md) | Turns your content into a strict Swiss International style HTML deck with locked layouts. |
 
 ## Productivity
 

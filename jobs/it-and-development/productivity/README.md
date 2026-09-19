@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 69 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 72 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -50,6 +50,8 @@ Plan, prioritise and clear the recurring admin. 69 Grok Bot templates, 24 of the
 | [Monday Automation](../../operations/productivity/monday-automation.md) | Automate Monday.com work management with board, item, column, group, and subitem operations via Rube MCP. |
 | [Obsidian Clipper Template Creator](../../operations/productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
 | [Odoo Manufacturing Advisor](../../operations/productivity/odoo-manufacturing-advisor.md) | Configure Odoo Manufacturing: BoMs, work centers, routings, MRP runs, and production order workflows. |
+| [OKR Plan Generator](../../management/productivity/okr-plan-generator.md) | Generates structured OKR plans for teams following Google/Intel methodology. |
+| [Parallel Feature Coordinator](parallel-feature-coordinator.md) | Coordinate parallel feature development with file ownership and conflict avoidance. |
 | [PDF Workflows](../../operations/productivity/anthropic-pdf.md) | Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe. |
 | [Pipedrive Automation](../../operations/productivity/pipedrive-automation.md) | Automate Pipedrive CRM deals, contacts, activities, and notes via Rube MCP. |
 | [Plan Writing](../../management/productivity/plan-writing.md) | Breaks down multi-step work into clear, verifiable tasks and saves the plan as a markdown file. |
@@ -72,6 +74,7 @@ Plan, prioritise and clear the recurring admin. 69 Grok Bot templates, 24 of the
 | [Track Management](track-management.md) | Manage Conductor tracks from spec to completion. |
 | [Triage](triage.md) | Triage issues and PRs through a state machine to agent-ready briefs. |
 | [VopixSounds](vopixsounds.md) | Plays sounds when Claude needs you or finishes a task so you can work in another window. |
+| [Workflow Orchestrator](../../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
 | [Wrike Automation](../../operations/productivity/wrike-automation.md) | Automate Wrike tasks, folders, projects, and assignments via Rube MCP. |
 | [Zapier Workflows](../../operations/productivity/zapier-workflows.md) | Manages and triggers your Zapier workflows and MCP tool orchestrations from chat. |
 | [Zoho Crm Automation](../../operations/productivity/zoho-crm-automation.md) | Automate Zoho CRM record creation, search, update, and lead conversion via Rube MCP. |

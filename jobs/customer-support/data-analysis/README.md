@@ -8,7 +8,7 @@ Clean, query, chart and explain data. 22 Grok Bot templates, 18 of them filed in
 |---|---|
 | [Churn Autopsy Analyst](churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
 | [Churn Prediction and Retention Assistant](churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
-| [Client Health Dashboard](client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommendations. |
+| [Client Health Dashboard](client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
 | [Customer Engagement Assistant](customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
 | [Customer Feedback Insight Analyst](../../management/data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
 | [Customer Feedback Insight Assistant](customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |

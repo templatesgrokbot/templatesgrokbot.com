@@ -1,18 +1,20 @@
 # Sales & Negotiation templates for Operations
 
-Prospecting, outreach, proposals and negotiating terms. 8 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 10 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Close Automation](../../sales/sales-and-negotiation/close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
-| [Consulting Proposal Generator](../../sales/sales-and-negotiation/consulting-proposal-generator.md) | Turns a brief into a complete consulting proposal with research and pricing. |
 | [Hubspot Automation](../../sales/sales-and-negotiation/hubspot-automation.md) | Automate HubSpot CRM operations via Rube MCP and Composio integration. |
 | [Lead Research Assistant](../../sales/sales-and-negotiation/lead-research-assistant.md) | Finds and prioritizes companies that match your ideal customer profile for sales outreach. |
 | [Odoo Sales Crm Expert](../../sales/sales-and-negotiation/odoo-sales-crm-expert.md) | Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions. |
 | [Outreachagent](../../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
+| [Quota Setting Calculator](../../sales/sales-and-negotiation/quota-setting-calculator.md) | Designs fair, achievable sales quotas with clear methodology and territory adjustments. |
+| [Sales Forecast Builder](../../sales/sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
 | [Salesforce Automation](../../sales/sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
+| [Territory Planning Optimizer](../../sales/sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
 | [Workorai](../../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
 
 [← All Operations templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/operations)

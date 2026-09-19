@@ -1,0 +1,40 @@
+# Credits: github.com/wshobson/agents
+
+32 TemplatesGrokBot templates are adapted from work published at [github.com/wshobson/agents](https://github.com/wshobson/agents). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+
+| Template | Original | License |
+|---|---|---|
+| [AI Debt Detector](../jobs/it-and-development/coding/ai-debt-detector.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/skill-forge-essentials/skills/ai-debt-detector) | [MIT](../LICENSES/MIT.md) |
+| [Checkpoint Promotion Gate](../jobs/it-and-development/generative-ai-and-llm/checkpoint-promotion-gate.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/llm-finetuning/skills/checkpoint-promotion) | [MIT](../LICENSES/MIT.md) |
+| [Codebase Documentation Scanner](../jobs/it-and-development/knowledge-management/codebase-documentation-scanner.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/ship-mate/skills/scan) | [MIT](../LICENSES/MIT.md) |
+| [Component Design Advisor](../jobs/it-and-development/design/component-design-advisor.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/web-component-design) | [MIT](../LICENSES/MIT.md) |
+| [Evaluation Harness Builder](../jobs/it-and-development/generative-ai-and-llm/evaluation-harness-builder.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/llm-finetuning/skills/eval-harness-first) | [MIT](../LICENSES/MIT.md) |
+| [File Format Converter](../jobs/it-and-development/office-tools/file-format-converter.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/file-conversion/skills/file-conversion) | [MIT](../LICENSES/MIT.md) |
+| [Fine-Tuning Method Router](../jobs/it-and-development/generative-ai-and-llm/fine-tuning-method-router.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/llm-finetuning/skills/finetuning-method-selection) | [MIT](../LICENSES/MIT.md) |
+| [Grounded Vault Keeper](../jobs/it-and-development/knowledge-management/grounded-vault-keeper.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/documentation-standards/skills/grounded-vault) | [MIT](../LICENSES/MIT.md) |
+| [HADS Document Assistant](../jobs/it-and-development/writing-and-content/hads-document-assistant.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/documentation-standards/skills/hads) | [MIT](../LICENSES/MIT.md) |
+| [Landing Page Designer](../jobs/creatives/design/landing-page-designer.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/brand-landingpage/skills/brand-landingpage) | [MIT](../LICENSES/MIT.md) |
+| [LoRA QLoRA Configurator](../jobs/it-and-development/generative-ai-and-llm/lora-qlora-configurator.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/llm-finetuning/skills/lora-qlora-recipes) | [MIT](../LICENSES/MIT.md) |
+| [Parallel Debugging Arbiter](../jobs/it-and-development/coding/parallel-debugging-arbiter.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/parallel-debugging) | [MIT](../LICENSES/MIT.md) |
+| [Parallel Feature Coordinator](../jobs/it-and-development/productivity/parallel-feature-coordinator.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/parallel-feature-development) | [MIT](../LICENSES/MIT.md) |
+| [Plugin Quality Interpreter](../jobs/it-and-development/generative-ai-and-llm/plugin-quality-interpreter.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/plugin-eval/skills/evaluation-methodology) | [MIT](../LICENSES/MIT.md) |
+| [PPTX Reference Analyzer](../jobs/creatives/office-tools/pptx-reference-analyzer.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/pptx-deck-creation/skills/pptx-reference-deck-analysis) | [MIT](../LICENSES/MIT.md) |
+| [Python Anti-Pattern Reviewer](../jobs/it-and-development/coding/python-anti-pattern-reviewer.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-anti-patterns) | [MIT](../LICENSES/MIT.md) |
+| [Python Configuration Manager](../jobs/it-and-development/coding/python-configuration-manager.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-configuration) | [MIT](../LICENSES/MIT.md) |
+| [Python Observability Instrumenter](../jobs/it-and-development/coding/python-observability-instrumenter.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-observability) | [MIT](../LICENSES/MIT.md) |
+| [Python Resilience Designer](../jobs/it-and-development/coding/python-resilience-designer.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-resilience) | [MIT](../LICENSES/MIT.md) |
+| [Python Resource Manager](../jobs/it-and-development/coding/python-resource-manager.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-resource-management) | [MIT](../LICENSES/MIT.md) |
+| [Python Style Enforcer](../jobs/it-and-development/coding/python-style-enforcer.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-code-style) | [MIT](../LICENSES/MIT.md) |
+| [Quantized Export](../jobs/it-and-development/generative-ai-and-llm/quantized-export.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/llm-finetuning/skills/quantized-export) | [MIT](../LICENSES/MIT.md) |
+| [Review Action Gate](../jobs/it-and-development/security-and-compliance/review-action-gate.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/review-agent-governance/skills/review-agent-setup) | [MIT](../LICENSES/MIT.md) |
+| [Session Health Monitor](../jobs/it-and-development/generative-ai-and-llm/session-health-monitor.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/skill-forge-essentials/skills/session-guard) | [MIT](../LICENSES/MIT.md) |
+| [Spark Environment Setup](../jobs/it-and-development/cloud-and-devops/spark-environment-setup.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/dgx-spark-ops/skills/spark-environment-setup) | [MIT](../LICENSES/MIT.md) |
+| [Spark Training Preflight](../jobs/it-and-development/cloud-and-devops/spark-training-preflight.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/dgx-spark-ops/skills/spark-training-gotchas) | [MIT](../LICENSES/MIT.md) |
+| [Team Communication Coordinator](../jobs/it-and-development/generative-ai-and-llm/team-communication-coordinator.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/team-communication-protocols) | [MIT](../LICENSES/MIT.md) |
+| [Trace To Training Data](../jobs/it-and-development/generative-ai-and-llm/trace-to-training-data.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/llm-finetuning/skills/trace-to-training-data) | [MIT](../LICENSES/MIT.md) |
+| [Unified Memory Thermal Planner](../jobs/it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/dgx-spark-ops/skills/spark-memory-thermal-ops) | [MIT](../LICENSES/MIT.md) |
+| [Vision-Language SFT Adapter](../jobs/it-and-development/generative-ai-and-llm/vision-language-sft-adapter.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/llm-finetuning/skills/vision-sft) | [MIT](../LICENSES/MIT.md) |
+| [Visual Asset Placer](../jobs/creatives/office-tools/visual-asset-placer.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/pptx-deck-creation/skills/pptx-visual-assets) | [MIT](../LICENSES/MIT.md) |
+| [Visual Edit Precision](../jobs/it-and-development/coding/visual-edit-precision.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/skill-forge-essentials/skills/visual-edit-precision) | [MIT](../LICENSES/MIT.md) |
+
+[← All credits](../CREDITS.md)

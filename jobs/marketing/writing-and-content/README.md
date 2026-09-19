@@ -1,6 +1,6 @@
 # Writing & Content templates for Marketing
 
-Plan, write and edit articles, copy and documentation. 41 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 43 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,13 +28,14 @@ Plan, write and edit articles, copy and documentation. 41 Grok Bot templates, 22
 | [Founder Pitch Deck Coach](../../executives-and-strategy/writing-and-content/founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
 | [Humanizer](../../writers/writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Linkedin Profile Optimizer](linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
+| [Magazine Blog Post Editor](../../writers/writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
 | [Marp Slide](../../creatives/writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
+| [Podcast Content Suite](podcast-content-suite.md) | Turn podcast transcripts into a full content marketing suite: blog, social, newsletter, show notes, audiograms, and SEO. |
 | [Podcast Editor](../../creatives/writing-and-content/podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |
 | [Podcast Metadata Specialist](podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
 | [Portfolio Case Study Writer](../../creatives/writing-and-content/portfolio-case-study-writer.md) | Transforms resume bullets into detailed portfolio case studies with context, action, and outcome. |
 | [Professional Proofreader](../../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 | [Resume Bullet Writer](../../human-resources/writing-and-content/resume-bullet-writer.md) | Transform weak resume bullets into achievement-focused statements with metrics and impact. |
-| [RFP Compliance Drafter](../../sales/writing-and-content/rfp-compliance-drafter.md) | Turns RFPs and your past proposals into a compliance matrix and drafted response, flagging disqualifiers first. |
 | [Seo Aeo Blog Writer](seo-aeo-blog-writer.md) | Write structured blog posts optimized for SEO ranking and AI extraction. |
 | [Seo Aeo Landing Page Writer](seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [Seo Content](seo-content.md) | Audit content quality and E-E-A-T signals for SEO and AI citation readiness. |
@@ -43,6 +44,7 @@ Plan, write and edit articles, copy and documentation. 41 Grok Bot templates, 22
 | [Seo Content Writer](../../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Seo Snippet Hunter](seo-snippet-hunter.md) | Format content for featured snippets and position zero with question-based blocks. |
 | [Thread Writer](../../writers/writing-and-content/thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |
+| [Trash Talk Generator](trash-talk-generator.md) | Generates witty, non-offensive sports banter with rivalry references. |
 | [Unslop](../../writers/writing-and-content/unslop.md) | Post-process AI text through unslop CLI to strip AI writing patterns before publishing. |
 | [UX Copy Refiner](../../creatives/writing-and-content/ux-copy-refiner.md) | Rewrites UI microcopy so users instantly understand what happens next and what to do. |
 | [Video Script writer](../../creatives/writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |

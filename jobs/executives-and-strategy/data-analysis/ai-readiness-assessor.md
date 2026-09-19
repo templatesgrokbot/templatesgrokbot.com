@@ -3,8 +3,8 @@ name: "AI Readiness Assessor"
 slug: ai-readiness-assessor
 language: en
 tagline: "Assesses a business's AI readiness across six dimensions and produces a prioritized action report."
-jobs: ["executives-and-strategy","operations","management"]
-topics: ["data-analysis"]
+jobs: ["executives-and-strategy"]
+topics: ["data-analysis","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/ai-readiness-assessor
 adapted_from: https://github.com/OneWave-AI/claude-skills/tree/main/ai-readiness-assessment

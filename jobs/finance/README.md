@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **100 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **108 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,23 +11,25 @@ Accounting, budgeting, analysis and risk. **100 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 59 |
+| [Data Analysis](data-analysis/README.md) | 63 |
+| [Research](research/README.md) | 10 |
 | [Coding](coding/README.md) | 9 |
-| [Research](research/README.md) | 9 |
 | [Productivity](productivity/README.md) | 7 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 4 |
 | [Office Tools](office-tools/README.md) | 4 |
 | [Security & Compliance](security-and-compliance/README.md) | 3 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
+| [Writing & Content](writing-and-content/README.md) | 2 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
-| [Writing & Content](writing-and-content/README.md) | 1 |
+| [Self-Improvement](self-improvement/README.md) | 1 |
 
 ## Data Analysis
 
 | Template | What it does |
 |---|---|
+| [AI ROI Calculator](data-analysis/ai-roi-calculator.md) | Calculate ROI for AI implementation projects with detailed financial analysis and recommendations. |
 | [Alpha Vantage](data-analysis/alpha-vantage.md) | Fetch 20+ years of equities, forex, crypto, commodities, and economic data via Alpha Vantage API. |
 | [AML Due Diligence Drafter](../legal/data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
 | [Auction Analyst AI](../real-estate-and-construction/data-analysis/auction-analyst-ai.md) | Analyzes notices, risks, and property value in judicial and extrajudicial auctions. |
@@ -37,9 +39,9 @@ Accounting, budgeting, analysis and risk. **100 ready-made Grok Bot templates** 
 | [Aws Cost Operations](../operations/data-analysis/aws-cost-operations.md) | Optimize AWS costs, monitor usage, and audit activity with MCP tools. |
 | [Backtesting Frameworks](data-analysis/backtesting-frameworks.md) | Build robust backtesting systems with realistic cost models and walk-forward analysis. |
 | [Bettoredge Value Finder](data-analysis/bettoredge-value-finder.md) | Finds +EV betting opportunities on BettorEdge prediction markets using Kelly criterion and bankroll limits. |
-| [Board Deck Generator](../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates institutional-quality board meeting decks with financials, updates, and asks. |
+| [Board Deck Generator](../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates professional board meeting presentation content with executive summary, financials, and strategic updates. |
 | [Bounty Hunter](data-analysis/bounty-hunter.md) | Identifies unclaimed, owed, or wasted money and recommends how to recover it. |
-| [Cash Flow Forecaster](data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your financial exports and flags crunch weeks. |
+| [Cash Flow Forecaster](data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your bank, AR, AP, and payroll data, flagging crunch weeks. |
 | [Compliance Cost Analyst](../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Contract Report Builder](../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Customer Lifetime Value Analyst](../management/data-analysis/customer-lifetime-value-analyst.md) | Turns your customer data into CLV insights and action plans for growth. |
@@ -50,9 +52,11 @@ Accounting, budgeting, analysis and risk. **100 ready-made Grok Bot templates** 
 | [E-commerce Fraud Detection Assistant](../management/data-analysis/e-commerce-fraud-detection-assistant.md) | Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud. |
 | [Energy Procurement](../operations/data-analysis/energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
 | [Excel Analysis](data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
-| [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, categorizes, flags issues, and reports. |
-| [Home Inventory Builder](../operations/data-analysis/home-inventory-builder.md) | Builds an insurance-grade home inventory from photos and receipts, with values and gap analysis. |
+| [Executive Dashboard Generator](../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
+| [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
+| [Financial Document Parser](data-analysis/financial-document-parser.md) | Extracts structured data from financial documents and categorizes expenses. |
 | [Invoice Organizer](../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
+| [Job Profitability Analyzer](data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Legal Billing Systems Assistant](../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
 | [Licensing and Royalty Manager](../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
 | [Longbridge](data-analysis/longbridge.md) | 125+ read-only market data capabilities for HK/US/A-share/SG stocks via Longbridge. |
@@ -70,6 +74,7 @@ Accounting, budgeting, analysis and risk. **100 ready-made Grok Bot templates** 
 | [Portfolio Digest](data-analysis/portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
 | [Pricing Strategy Analyst](../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
 | [Quant Analyst](data-analysis/quant-analyst.md) | Builds and backtests quantitative trading strategies with transaction costs and risk analytics for portfolios and derivatives. |
+| [Quarterly Finance Report](data-analysis/quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |
 | [Risk Manager](data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
 | [Spend Analysis Assistant](../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
@@ -83,10 +88,25 @@ Accounting, budgeting, analysis and risk. **100 ready-made Grok Bot templates** 
 | [Tax Document Organizer](data-analysis/tax-document-organizer.md) | Sweeps your folders for tax documents and builds a CPA-ready package with a chase list. |
 | [Trading Ledger](data-analysis/trading-ledger.md) | Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L. |
 | [Trading Risk Manager](data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
-| [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Normalize vendor quotes and SOWs into a comparison matrix, compute true TCO, and surface negotiation leverage. |
+| [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Xlsx Official](data-analysis/xlsx-official.md) | Reads, edits, and creates spreadsheet files with formulas, formatting, and zero errors. |
 | [Xvary Stock Research](data-analysis/xvary-stock-research.md) | Thesis-driven equity analysis from public SEC EDGAR and market data. No advice, no non-public data. |
 | [Yield Intelligence](data-analysis/yield-intelligence.md) | Analyze passive income opportunities and build yield-optimized portfolios. |
+
+## Research
+
+| Template | What it does |
+|---|---|
+| [Auction Notice Analyst](../legal/research/auction-notice-analyst.md) | Analyzes judicial and extrajudicial auction notices, flags hidden risks, and rates the opportunity. |
+| [Grant Finder](../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
+| [Helium Mcp](../science-and-research/research/helium-mcp.md) | Search news with bias analysis, get balanced perspectives, and look up live stock/options data. |
+| [Longbridge Content](research/longbridge-content.md) | Fetches stock news, filings, community topics, and SEC EDGAR analysis via Longbridge, no login, in your language. |
+| [Maxia](../operations/research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
+| [Screen Adverse Media](../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
+| [SRED Project Organizer](../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
+| [Technical Due Diligence Reporter](research/technical-due-diligence-reporter.md) | Analyzes a target codebase and produces an investment-grade technical due diligence report. |
+| [Term Sheet Reader](research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
+| [Third-Party Compliance Evaluator](../legal/research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 
 ## Coding
 
@@ -101,20 +121,6 @@ Accounting, budgeting, analysis and risk. **100 ready-made Grok Bot templates** 
 | [Sql Pro](../it-and-development/coding/sql-pro.md) | Optimize SQL queries, design schemas, and tune performance for cloud-native and hybrid databases. |
 | [Stripe Integration](../it-and-development/coding/stripe-integration.md) | Implement Stripe payments, subscriptions, webhooks and refunds with verified server-side authorization. |
 | [X402 Express Wrapper](../it-and-development/coding/x402-express-wrapper.md) | Monetize APIs and MCP servers with USDC micropayments via x402 middleware. |
-
-## Research
-
-| Template | What it does |
-|---|---|
-| [Auction Notice Analyst](../legal/research/auction-notice-analyst.md) | Analyzes judicial and extrajudicial auction notices, flags hidden risks, and rates the opportunity. |
-| [Grant Finder](../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
-| [Helium Mcp](../science-and-research/research/helium-mcp.md) | Search news with bias analysis, get balanced perspectives, and look up live stock/options data. |
-| [Longbridge Content](research/longbridge-content.md) | Fetches stock news, filings, community topics, and SEC EDGAR analysis via Longbridge, no login, in your language. |
-| [Maxia](../operations/research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
-| [Screen Adverse Media](../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
-| [SRED Project Organizer](../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
-| [Term Sheet Reader](research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
-| [Third-Party Compliance Evaluator](../legal/research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 
 ## Productivity
 
@@ -154,6 +160,20 @@ Accounting, budgeting, analysis and risk. **100 ready-made Grok Bot templates** 
 | [Pci Compliance](security-and-compliance/pci-compliance.md) | Guide PCI DSS compliance for secure payment processing and cardholder data handling. |
 | [Risk Assessment and Analysis Assistant](../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
 
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Tax Strategy Optimizer](teaching-and-tutoring/tax-strategy-optimizer.md) | Optimize your tax strategy with clear, actionable recommendations. |
+| [Warren Buffett](../education/teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
+
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Doc Chaser Lite](../operations/writing-and-content/doc-chaser-lite.md) | Drafts one friendly document-request email for a tax client from a brief and practice profile. |
+| [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
+
 ## Knowledge Management
 
 | Template | What it does |
@@ -172,16 +192,10 @@ Accounting, budgeting, analysis and risk. **100 ready-made Grok Bot templates** 
 |---|---|
 | [Deal Desk](sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
 
-## Teaching & Tutoring
+## Self-Improvement
 
 | Template | What it does |
 |---|---|
-| [Warren Buffett](../education/teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Doc Chaser Lite](../operations/writing-and-content/doc-chaser-lite.md) | Drafts one friendly document-request email for a tax client from a brief and practice profile. |
+| [Financial Goal Planner](self-improvement/financial-goal-planner.md) | Turns savings goals into timelines, monthly targets, and investment plans. |
 
 [← All job fields](../../README.md#browse-by-job) · [Finance on the website](https://templatesgrokbot.com/jobs/finance)

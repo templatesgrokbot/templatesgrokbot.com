@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **117 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **133 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,9 +12,9 @@ Prospecting, pipeline and closing. **117 ready-made Grok Bot templates** for thi
 | Kind of work | Templates |
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 48 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 27 |
+| [Data Analysis](data-analysis/README.md) | 19 |
 | [Research](research/README.md) | 18 |
-| [Data Analysis](data-analysis/README.md) | 17 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 15 |
 | [Writing & Content](writing-and-content/README.md) | 6 |
 | [Productivity](productivity/README.md) | 4 |
 | [Coding](coding/README.md) | 2 |
@@ -22,6 +22,8 @@ Prospecting, pipeline and closing. **117 ready-made Grok Bot templates** for thi
 | [Support & Community](support-and-community/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Design](design/README.md) | 1 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
+| [Generative Video](generative-video/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
 
 ## Marketing & Growth
@@ -77,6 +79,62 @@ Prospecting, pipeline and closing. **117 ready-made Grok Bot templates** for thi
 | [Subject Line Psychologist](../marketing/marketing-and-growth/subject-line-psychologist.md) | Craft email subject lines that earn opens through honest psychological triggers. |
 | [Trust Calibrator](../marketing/marketing-and-growth/trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
 
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Close Automation](sales-and-negotiation/close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
+| [Cold Outreach](sales-and-negotiation/cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
+| [Consulting Proposal Generator](sales-and-negotiation/consulting-proposal-generator.md) | Turns a brief into a complete, personalized consulting proposal. |
+| [Deal Closer Playbook](sales-and-negotiation/deal-closer-playbook.md) | Turns deal context into a tactical closing playbook with research, stakeholder mapping, and next actions. |
+| [Deal Desk](../finance/sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
+| [Deal Momentum Analyzer](sales-and-negotiation/deal-momentum-analyzer.md) | Score deal velocity and predict close probability from engagement patterns. |
+| [Deal Review Coach](sales-and-negotiation/deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
+| [Harvey Specter](sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
+| [Hubspot Automation](sales-and-negotiation/hubspot-automation.md) | Automate HubSpot CRM operations via Rube MCP and Composio integration. |
+| [Inbound Lead Qualifier](sales-and-negotiation/inbound-lead-qualifier.md) | Qualifies inbound leads, scores them, and routes to the right rep with context. |
+| [Intent Signal Monitor](sales-and-negotiation/intent-signal-monitor.md) | Tracks web signals to alert when prospects show buying intent. |
+| [John Wick](sales-and-negotiation/john-wick.md) | Finds the right decision-maker at a target company and gets you into their conversation. |
+| [Lead Pipeline Processor](sales-and-negotiation/lead-pipeline-processor.md) | Reads Gmail leads, scores them by fit, drafts replies, and logs them to your CRM. |
+| [Lead Research Assistant](sales-and-negotiation/lead-research-assistant.md) | Finds and prioritizes companies that match your ideal customer profile for sales outreach. |
+| [Objection Pattern Detector](sales-and-negotiation/objection-pattern-detector.md) | Mines lost deal notes to find objection patterns and builds response playbooks from won deals. |
+| [Odoo Sales Crm Expert](sales-and-negotiation/odoo-sales-crm-expert.md) | Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions. |
+| [Outbound Sales](sales-and-negotiation/outbound-sales.md) | Owns the full outbound prospecting pipeline so AEs can focus on closing. |
+| [Outreachagent](sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
+| [Prospect Panel Simulator](sales-and-negotiation/prospect-panel-simulator.md) | Simulate a panel of your real prospects to pressure-test sales and marketing artifacts before they go out. |
+| [Quota Setting Calculator](sales-and-negotiation/quota-setting-calculator.md) | Designs fair, achievable sales quotas with clear methodology and territory adjustments. |
+| [Sales Enablement](sales-and-negotiation/sales-enablement.md) | Create sales collateral that reps actually use to close deals. |
+| [Sales Engineer](sales-and-negotiation/sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
+| [Sales Forecast Builder](sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
+| [Sales Methodology Implementer](sales-and-negotiation/sales-methodology-implementer.md) | Implements proven sales methodologies (MEDDIC, BANT, Sandler, Challenger, SPIN) across your team. |
+| [Salesforce Automation](sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
+| [Territory Planning Optimizer](sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
+| [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
+
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Apify Competitor Intelligence](../marketing/data-analysis/apify-competitor-intelligence.md) | Extract competitor data from Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok. |
+| [Apify Lead Generation](data-analysis/apify-lead-generation.md) | Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors. |
+| [Bettoredge Value Finder](../finance/data-analysis/bettoredge-value-finder.md) | Finds +EV betting opportunities on BettorEdge prediction markets using Kelly criterion and bankroll limits. |
+| [Buywhere Product Catalog](data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
+| [Champion Identifier](data-analysis/champion-identifier.md) | Identify the internal champion most likely to advocate for your solution at a target account. |
+| [Churn Radar](data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
+| [Client Health Dashboard](../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
+| [Customer Engagement Assistant](../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
+| [Customer Report Generator](../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
+| [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
+| [E-commerce Pricing Optimizer](../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
+| [Footballbin Predictions](../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
+| [Google Ads Performance Analyzer](../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
+| [Licensing and Royalty Manager](../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
+| [Pipeline Health Analyzer](data-analysis/pipeline-health-analyzer.md) | Analyze pipeline health, flag stalled deals, forecast closes, and prescribe next actions. |
+| [Rep Performance Scorecard](data-analysis/rep-performance-scorecard.md) | Builds multi-dimensional rep performance scorecards with coaching priorities and peer benchmarks. |
+| [Supplier Market Trend Tracker](../management/data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
+| [Trading Risk Manager](../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
+| [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+
 ## Research
 
 | Template | What it does |
@@ -100,48 +158,6 @@ Prospecting, pipeline and closing. **117 ready-made Grok Bot templates** for thi
 | [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Us Property Data](../real-estate-and-construction/research/us-property-data.md) | Retrieve real U.S. property valuations, listings, and history from Zillow data. No guessing. |
 
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Apify Competitor Intelligence](../marketing/data-analysis/apify-competitor-intelligence.md) | Extract competitor data from Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok. |
-| [Apify Lead Generation](data-analysis/apify-lead-generation.md) | Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors. |
-| [Bettoredge Value Finder](../finance/data-analysis/bettoredge-value-finder.md) | Finds +EV betting opportunities on BettorEdge prediction markets using Kelly criterion and bankroll limits. |
-| [Buywhere Product Catalog](data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
-| [Champion Identifier](data-analysis/champion-identifier.md) | Finds the internal advocate most likely to push your solution through a target account. |
-| [Churn Radar](data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
-| [Customer Engagement Assistant](../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
-| [Customer Report Generator](../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
-| [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
-| [E-commerce Pricing Optimizer](../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
-| [Footballbin Predictions](../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
-| [Google Ads Performance Analyzer](../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
-| [Licensing and Royalty Manager](../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
-| [Quarterly Business Review Builder](../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
-| [Supplier Market Trend Tracker](../management/data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
-| [Trading Risk Manager](../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
-| [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Close Automation](sales-and-negotiation/close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
-| [Cold Outreach](sales-and-negotiation/cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
-| [Consulting Proposal Generator](sales-and-negotiation/consulting-proposal-generator.md) | Turns a brief into a complete consulting proposal with research and pricing. |
-| [Deal Desk](../finance/sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
-| [Harvey Specter](sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
-| [Hubspot Automation](sales-and-negotiation/hubspot-automation.md) | Automate HubSpot CRM operations via Rube MCP and Composio integration. |
-| [John Wick](sales-and-negotiation/john-wick.md) | Finds the right decision-maker at a target company and gets you into their conversation. |
-| [Lead Research Assistant](sales-and-negotiation/lead-research-assistant.md) | Finds and prioritizes companies that match your ideal customer profile for sales outreach. |
-| [Odoo Sales Crm Expert](sales-and-negotiation/odoo-sales-crm-expert.md) | Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions. |
-| [Outbound Sales](sales-and-negotiation/outbound-sales.md) | Owns the full outbound prospecting pipeline so AEs can focus on closing. |
-| [Outreachagent](sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
-| [Sales Enablement](sales-and-negotiation/sales-enablement.md) | Create sales collateral that reps actually use to close deals. |
-| [Sales Engineer](sales-and-negotiation/sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
-| [Salesforce Automation](sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
-| [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
-
 ## Writing & Content
 
 | Template | What it does |
@@ -151,7 +167,7 @@ Prospecting, pipeline and closing. **117 ready-made Grok Bot templates** for thi
 | [Email Composer](../operations/writing-and-content/email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
 | [Founder Pitch Deck Coach](../executives-and-strategy/writing-and-content/founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
 | [Linkedin Profile Optimizer](../marketing/writing-and-content/linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
-| [RFP Compliance Drafter](writing-and-content/rfp-compliance-drafter.md) | Turns RFPs and your past proposals into a compliance matrix and drafted response, flagging disqualifiers first. |
+| [RFP Compliance Drafter](writing-and-content/rfp-compliance-drafter.md) | Turns an RFP and your past proposals into a compliance matrix and a drafted response, flagging gaps before you write. |
 
 ## Productivity
 
@@ -194,6 +210,18 @@ Prospecting, pipeline and closing. **117 ready-made Grok Bot templates** for thi
 | Template | What it does |
 |---|---|
 | [Interactive Portfolio](../creatives/design/interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
+
+## Generative AI and LLM
+
+| Template | What it does |
+|---|---|
+| [Person Profile Distiller](generative-ai-and-llm/person-profile-distiller.md) | Turns source material about a person into reusable profiles for AI agents. Ask me to distill a colleague, relationship, or celebrity. |
+
+## Generative Video
+
+| Template | What it does |
+|---|---|
+| [Sales Demo Builder](generative-video/sales-demo-builder.md) | Build personalized product-demo videos for specific prospects in HyperFrames. |
 
 ## Office Tools
 

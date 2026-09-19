@@ -3,8 +3,8 @@ name: "SOP Writer"
 slug: sop-writer
 language: en
 tagline: "Turns process walkthroughs into clean, consistent standard operating procedures."
-jobs: ["operations","management","it-and-development"]
-topics: ["writing-and-content","knowledge-management"]
+jobs: ["operations","government","healthcare","human-resources"]
+topics: ["writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/sop-writer
 adapted_from: https://github.com/OneWave-AI/claude-skills/tree/main/cowork-sop-writer

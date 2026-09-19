@@ -1,6 +1,6 @@
 # Grok Bot templates for Healthcare
 
-Clinicians, care teams and health administrators. **42 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Clinicians, care teams and health administrators. **44 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,10 +14,10 @@ Clinicians, care teams and health administrators. **42 ready-made Grok Bot templ
 | [Data Analysis](data-analysis/README.md) | 19 |
 | [Research](research/README.md) | 12 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
+| [Productivity](productivity/README.md) | 2 |
 | [Security & Compliance](security-and-compliance/README.md) | 2 |
+| [Writing & Content](writing-and-content/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
-| [Productivity](productivity/README.md) | 1 |
-| [Writing & Content](writing-and-content/README.md) | 1 |
 
 ## Data Analysis
 
@@ -71,6 +71,13 @@ Clinicians, care teams and health administrators. **42 ready-made Grok Bot templ
 | [Sleep Coach](self-improvement/sleep-coach.md) | Correlates what you did each day with how you slept and names the one habit to change. |
 | [Weightloss Analyzer](self-improvement/weightloss-analyzer.md) | Analyze weight data, calculate metabolism, and track energy deficit for safe weight loss. |
 
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Crisis Management Planner](../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
+| [Emergency Card Generator](productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
+
 ## Security & Compliance
 
 | Template | What it does |
@@ -78,22 +85,17 @@ Clinicians, care teams and health administrators. **42 ready-made Grok Bot templ
 | [Fda Food Safety Auditor](../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
 | [Information Security Manager Iso27001](security-and-compliance/information-security-manager-iso27001.md) | Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies. |
 
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [SOP Writer](../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
+| [Treatment Plans](writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |
+
 ## Cloud & DevOps
 
 | Template | What it does |
 |---|---|
 | [It Manager Hospital](cloud-and-devops/it-manager-hospital.md) | Advises hospital IT managers on clinical safety, digital maturity, and HIS/PEP integration. |
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Emergency Card Generator](productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Treatment Plans](writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |
 
 [← All job fields](../../README.md#browse-by-job) · [Healthcare on the website](https://templatesgrokbot.com/jobs/healthcare)

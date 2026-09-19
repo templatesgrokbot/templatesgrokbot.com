@@ -1,6 +1,6 @@
 # Generative Code templates for IT and Development
 
-Scaffold apps, components and whole projects from a brief. 86 Grok Bot templates, 74 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 88 Grok Bot templates, 76 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -70,11 +70,13 @@ Scaffold apps, components and whole projects from a brief. 86 Grok Bot templates
 | [Review Animations](review-animations.md) | Review animation and motion code against a strict craft, performance, and accessibility bar. |
 | [Robius Event Action](robius-event-action.md) | Event handling and action dispatch patterns for Makepad widgets in Rust. |
 | [Saas Mvp Launcher](../../product-development/generative-code/saas-mvp-launcher.md) | Structured roadmap to build and launch a SaaS MVP from scratch. |
+| [Screenshot to Code](screenshot-to-code.md) | Turn UI screenshots into clean, responsive HTML/CSS/React/Vue code. |
 | [Shader Programming Glsl](shader-programming-glsl.md) | Write and troubleshoot GLSL vertex/fragment shaders for web and game engines. |
 | [Shopify Development](shopify-development.md) | Build Shopify apps, extensions, themes, and integrations using official APIs and tools. |
 | [Skeuomorphism](../../creatives/generative-code/skeuomorphism.md) | Generates UI code that mimics real-world objects and physical textures. |
 | [Stitch Loop](stitch-loop.md) | Autonomous iterative website builder using Stitch and a baton-passing loop pattern. |
 | [Subagent Driven Development](subagent-driven-development.md) | Execute implementation plans by dispatching a fresh subagent per task with two-stage review. |
+| [Technical Documentation Page Generator](technical-documentation-page-generator.md) | Generates a three-column technical documentation page with navigation, article body, and table of contents. |
 | [Three.js Essentials](threejs-skills.md) | Build 3D scenes and interactive WebGL experiences with Three.js. |
 | [Threejs Animation](../../creatives/generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
 | [Threejs Geometry](threejs-geometry.md) | Create and optimize Three.js geometry including built-in shapes, BufferGeometry, and instanced rendering. |

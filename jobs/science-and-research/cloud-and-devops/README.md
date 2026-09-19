@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Science and Research
 
-Infrastructure, deployments, monitoring and incident response. 9 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 10 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,5 +15,6 @@ Infrastructure, deployments, monitoring and incident response. 9 Grok Bot templa
 | [Infrastructure Modal](../../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [Latchbio Integration](../../it-and-development/cloud-and-devops/latchbio-integration.md) | Build and deploy bioinformatics workflows as serverless pipelines on the Latch platform. |
 | [Model Architecture Torchtitan](../../it-and-development/cloud-and-devops/model-architecture-torchtitan.md) | Pretrains large language models at scale using PyTorch-native torchtitan with 4D parallelism. |
+| [Unified Memory Thermal Planner](../../it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
 
 [← All Science and Research templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/science-and-research)

@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 136 Grok Bot templates, 110 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 137 Grok Bot templates, 111 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -75,6 +75,7 @@ Find sources, compare evidence and summarise what is known. 136 Grok Bot templat
 | [Hugging Face Papers](hugging-face-papers.md) | Fetch, summarize, and explore AI research papers from Hugging Face and arXiv. |
 | [Hypogenic](hypogenic.md) | Generates and tests scientific hypotheses from your datasets using LLMs. |
 | [Hypothesis Generation](hypothesis-generation.md) | Generates testable hypotheses from observations, designs experiments, and produces a structured LaTeX report. |
+| [Hypothesis Testing Engine](hypothesis-testing-engine.md) | Designs and executes research protocols to test any claim with a confidence verdict. |
 | [Ii Commons](ii-commons.md) | Deterministic search across arXiv, PubMed/PMC, and US policy corpora with daily freshness cutoffs. |
 | [Ilya Sutskever Simulator](ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Infinite Gratitude](infinite-gratitude.md) | Orchestrates 10 parallel agents for deep multi-source research synthesis. |
