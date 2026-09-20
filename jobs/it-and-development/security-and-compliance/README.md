@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 320 Grok Bot templates, 307 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 322 Grok Bot templates, 309 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -311,6 +311,8 @@ Authorised security testing, audits and regulatory work. 320 Grok Bot templates,
 | [Vulnerability Management Analyst](vulnerability-management-analyst.md) | Analyzes, prioritizes, and reports on vulnerabilities to strengthen your security posture. |
 | [Vulnerability Management Assistant](vulnerability-management-assistant.md) | Vulnerability management assistant for cybersecurity analysts covering scan to report. |
 | [Vulnerability Scanner](vulnerability-scanner.md) | Scans codebases for vulnerabilities using OWASP 2025 and supply chain risk analysis with prioritized fixes. |
+| [Web Accessibility Compliance Assistant](web-accessibility-compliance-assistant.md) | Accessibility audits and fixes for web developers, from alt text to WCAG compliance. |
+| [Web Security Guidance Assistant](web-security-guidance-assistant.md) | Guides web developers through secure coding, deployment, and compliance practices. |
 | [Web Security Testing](web-security-testing.md) | Guide structured OWASP Top 10 web application security assessments step by step. |
 | [Web2 Recon](web2-recon.md) | Maps web2 attack surface from subdomains to prioritized URLs for bug hunting. |
 | [Website Accessibility Auditor](website-accessibility-auditor.md) | Makes your website accessible by auditing content, structure, and forms against WCAG standards. |

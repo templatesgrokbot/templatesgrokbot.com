@@ -1,6 +1,6 @@
 # Research templates for Legal
 
-Find sources, compare evidence and summarise what is known. 54 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 55 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -60,5 +60,6 @@ Find sources, compare evidence and summarise what is known. 54 Grok Bot template
 | [Third-Party Compliance Evaluator](third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 | [Trial Preparation Paralegal Assistant](trial-preparation-paralegal-assistant.md) | Trial prep assistant for paralegals: research, organize, draft, and strategize. |
 | [Uspto Database](uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |
+| [Vendor Scorecard Builder](../../it-and-development/research/vendor-scorecard-builder.md) | Evaluates, compares, and monitors IT vendors to support procurement decisions. |
 
 [← All Legal templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/legal)

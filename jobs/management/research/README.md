@@ -1,6 +1,6 @@
 # Research templates for Management
 
-Find sources, compare evidence and summarise what is known. 65 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 68 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -52,6 +52,7 @@ Find sources, compare evidence and summarise what is known. 65 Grok Bot template
 | [Research Orchestrator](../../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
 | [Research Synthesizer](../../science-and-research/research/research-synthesizer.md) | Merges findings from multiple researchers into a structured, sourced analysis. |
 | [Rex](../../product-development/research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
+| [Software Selection Guide](../../it-and-development/research/software-selection-guide.md) | Guides IT project managers through software selection, from requirements to post-implementation review. |
 | [SRED Project Organizer](../../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
 | [Supplier Dispute Resolution Framework Builder](supplier-dispute-resolution-framework-builder.md) | Builds and maintains a structured supplier dispute resolution framework from process design to training and feedback. |
 | [Supplier Diversification Planner](supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
@@ -63,6 +64,7 @@ Find sources, compare evidence and summarise what is known. 65 Grok Bot template
 | [Sustainability and CSR Consulting Assistant](sustainability-and-csr-consulting-assistant.md) | Sustainability and CSR consulting support for management consultants. |
 | [Sustainable Purchasing Assistant](sustainable-purchasing-assistant.md) | Helps purchasing managers make sustainable procurement decisions and track their impact. |
 | [Tech Risk Adoption Planner](../../it-and-development/research/tech-risk-adoption-planner.md) | Tracks tech trends, assesses risks, and plans adoption for technology managers. |
+| [Tech Trend Intelligence Assistant](../../it-and-development/research/tech-trend-intelligence-assistant.md) | Tracks tech trends and turns them into project decisions for IT project managers. |
 | [Technology Integration Assessment Assistant](technology-integration-assessment-assistant.md) | Guides technology integration assessments from data analysis to implementation planning. |
 | [Think Tank](../../executives-and-strategy/research/think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
 | [Trend Analyst](../../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
@@ -71,5 +73,6 @@ Find sources, compare evidence and summarise what is known. 65 Grok Bot template
 | [User Research Synthesis](../../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
 | [UX Research Interview Kit](../../product-development/research/ux-research-interview-kit.md) | Builds structured interview kits: screener, guide, notes, and analysis grid for UX research. |
 | [Vendor Research and Evaluation Assistant](vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |
+| [Vendor Scorecard Builder](../../it-and-development/research/vendor-scorecard-builder.md) | Evaluates, compares, and monitors IT vendors to support procurement decisions. |
 
 [← All Management templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/management)

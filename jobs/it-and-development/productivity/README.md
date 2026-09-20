@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 103 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 112 Grok Bot templates, 59 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Plan, prioritise and clear the recurring admin. 103 Grok Bot templates, 50 of th
 | [Agent Squad](agent-squad.md) | Orchestrates a squad of specialized agents to manage software projects step by step. |
 | [Agent Team Builder](agent-team-builder.md) | Designs custom multi-agent team configurations for your business workflows. |
 | [Agile Product Owner](../../product-development/productivity/agile-product-owner.md) | Generates INVEST-compliant user stories and manages sprint backlog for a product owner. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Agile Project Management Guide](agile-project-management-guide.md) | Guides IT project managers through Agile ceremonies, planning, metrics, and scaling. |
 | [Alex](../../management/productivity/alex.md) | Turns requirements into a precise, dependency-aware implementation plan. |
 | [Alfred](../../management/productivity/alfred.md) | Designs and governs your Grok Bot organization to keep it useful and maintainable. |
 | [Anti Sleep](anti-sleep.md) | Keep a Mac awake with caffeinate during long builds, downloads, or automation runs. |
@@ -44,10 +45,16 @@ Plan, prioritise and clear the recurring admin. 103 Grok Bot templates, 50 of th
 | [Google Drive Automation](../../operations/productivity/google-drive-automation.md) | Full read/write access to Google Drive with standalone OAuth. |
 | [Hackathon Ai Strategist](../../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [Innovation Cultivation Strategist](innovation-cultivation-strategist.md) | Turns innovation ideas into a managed pipeline for technology managers. |
+| [IT Conflict Navigator](it-conflict-navigator.md) | Guides IT project managers through conflict resolution, from analysis to action. |
 | [IT Delivery Planner](it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
+| [IT Manager Transformation Roadmap](it-manager-transformation-roadmap.md) | Plans and drives your organization's digital transformation from assessment to adoption. |
 | [IT Project Closure Companion](it-project-closure-companion.md) | Plan, track, and close IT projects with structured AI assistance for every phase. |
 | [IT Project Control Companion](it-project-control-companion.md) | Manages IT project schedules, resources, risks, budgets, quality, stakeholders, changes, issues, and closure. |
 | [IT Project Management Assistant](it-project-management-assistant.md) | IT project planning, risk, resource, and stakeholder support for Vice Presidents of IT. |
+| [IT Project Planning Assistant](it-project-planning-assistant.md) | Plans IT projects end-to-end: scope, schedule, budget, risks, and stakeholder communication. |
+| [IT Project Risk Manager](it-project-risk-manager.md) | Turns project data into risk registers, response plans, and monitoring updates for IT project managers. |
+| [IT Project Time Planner](it-project-time-planner.md) | Plans, schedules, and tracks IT project time to keep milestones on target. |
+| [IT Stakeholder Strategist](it-stakeholder-strategist.md) | Manages IT project stakeholders from identification to engagement evaluation. |
 | [IT Strategy Formulation Assistant](it-strategy-formulation-assistant.md) | Turns IT landscape data into a strategic plan for a Vice President of IT, with approvals before any action. |
 | [IT Talent Acquisition Planner](it-talent-acquisition-planner.md) | Guides IT leaders through the full talent acquisition cycle, from market analysis to onboarding, with actionable AI-assisted strategies. |
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
@@ -73,6 +80,7 @@ Plan, prioritise and clear the recurring admin. 103 Grok Bot templates, 50 of th
 | [Plugin Structure](plugin-structure.md) | Scaffolds and explains Claude Code plugin structure, manifest, and component organization. |
 | [Project Supervisor Orchestrator](../../operations/productivity/project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
 | [QA Collaboration Workflow Assistant](qa-collaboration-workflow-assistant.md) | QA team collaboration and testing workflow assistant for QA managers. |
+| [QA Process Guide](qa-process-guide.md) | Guides IT project managers through quality assurance processes, from audits to test optimization. |
 | [QA Process Improvement Planner](qa-process-improvement-planner.md) | Optimize QA processes with AI-driven analysis, automation, and reporting. |
 | [QA Test Planning Strategist](qa-test-planning-strategist.md) | Plans and strategizes QA testing from coverage analysis to CI/CD. |
 | [Refine Issue](refine-issue.md) | Enriches GitHub issues with acceptance criteria, edge cases, and technical notes. |
@@ -91,6 +99,7 @@ Plan, prioritise and clear the recurring admin. 103 Grok Bot templates, 50 of th
 | [Systems Analyst Project Manager](systems-analyst-project-manager.md) | Manages project schedules, resources, risks, budgets, and stakeholder communication from planning to lessons learned. |
 | [Task Intelligence](../../management/productivity/task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |
 | [Team Collaboration Standup Notes](../../management/productivity/team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |
+| [Team Communication Enhancer](team-communication-enhancer.md) | Assesses, plans, and improves your team's communication with structured tools and strategies. |
 | [Tech Project Tracker](tech-project-tracker.md) | Manages project schedules, resources, risks, budgets, and team communication from planning to delivery. |
 | [Technology Change Management Planner](technology-change-management-planner.md) | Plans and manages technology changes from stakeholder analysis to post-implementation review. |
 | [Technology Integration Planner](../../operations/productivity/technology-integration-planner.md) | Plans and manages technology integration projects from research to monitoring. |

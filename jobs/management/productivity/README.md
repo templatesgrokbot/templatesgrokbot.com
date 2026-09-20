@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 190 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 199 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Plan, prioritise and clear the recurring admin. 190 Grok Bot templates, 61 of th
 | [Agent Retention Strategy Planner](../../customer-support/productivity/agent-retention-strategy-planner.md) | Designs and implements retention strategies to keep call center agents engaged and loyal. |
 | [Agent Squad](../../it-and-development/productivity/agent-squad.md) | Orchestrates a squad of specialized agents to manage software projects step by step. |
 | [Agile Product Owner](../../product-development/productivity/agile-product-owner.md) | Generates INVEST-compliant user stories and manages sprint backlog for a product owner. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Agile Project Management Guide](../../it-and-development/productivity/agile-project-management-guide.md) | Guides IT project managers through Agile ceremonies, planning, metrics, and scaling. |
 | [Alex](alex.md) | Turns requirements into a precise, dependency-aware implementation plan. |
 | [Alfred](alfred.md) | Designs and governs your Grok Bot organization to keep it useful and maintainable. |
 | [Antigravity Workflows](antigravity-workflows.md) | Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints. |
@@ -89,9 +90,15 @@ Plan, prioritise and clear the recurring admin. 190 Grok Bot templates, 61 of th
 | [Innovation Pipeline Planner](../../executives-and-strategy/productivity/innovation-pipeline-planner.md) | Turns R&D ideas into tracked, prioritized innovation initiatives with AI support. |
 | [Innovation Risk Assessment Assistant](../../executives-and-strategy/productivity/innovation-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates innovation risks with structured reports and decision support. |
 | [Insurance Digital Transformation Planner](insurance-digital-transformation-planner.md) | Plans and oversees your agency's digital transformation, from customer analytics to automated processes. |
+| [IT Conflict Navigator](../../it-and-development/productivity/it-conflict-navigator.md) | Guides IT project managers through conflict resolution, from analysis to action. |
 | [IT Delivery Planner](../../it-and-development/productivity/it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
+| [IT Manager Transformation Roadmap](../../it-and-development/productivity/it-manager-transformation-roadmap.md) | Plans and drives your organization's digital transformation from assessment to adoption. |
 | [IT Project Closure Companion](../../it-and-development/productivity/it-project-closure-companion.md) | Plan, track, and close IT projects with structured AI assistance for every phase. |
 | [IT Project Control Companion](../../it-and-development/productivity/it-project-control-companion.md) | Manages IT project schedules, resources, risks, budgets, quality, stakeholders, changes, issues, and closure. |
+| [IT Project Planning Assistant](../../it-and-development/productivity/it-project-planning-assistant.md) | Plans IT projects end-to-end: scope, schedule, budget, risks, and stakeholder communication. |
+| [IT Project Risk Manager](../../it-and-development/productivity/it-project-risk-manager.md) | Turns project data into risk registers, response plans, and monitoring updates for IT project managers. |
+| [IT Project Time Planner](../../it-and-development/productivity/it-project-time-planner.md) | Plans, schedules, and tracks IT project time to keep milestones on target. |
+| [IT Stakeholder Strategist](../../it-and-development/productivity/it-stakeholder-strategist.md) | Manages IT project stakeholders from identification to engagement evaluation. |
 | [Jev Browser Operator](jev-browser-operator.md) | Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final. |
 | [Jira](jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
@@ -148,6 +155,7 @@ Plan, prioritise and clear the recurring admin. 190 Grok Bot templates, 61 of th
 | [Project Supervisor Orchestrator](../../operations/productivity/project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
 | [Project Time Manager](project-time-manager.md) | Plans, prioritizes, and audits your project time to cut waste and hit deadlines. |
 | [Purchasing Digital Transformation Assistant](purchasing-digital-transformation-assistant.md) | Guides purchasing managers through digital transformation, from supplier research to performance monitoring. |
+| [QA Process Guide](../../it-and-development/productivity/qa-process-guide.md) | Guides IT project managers through quality assurance processes, from audits to test optimization. |
 | [QA Process Improvement Planner](../../it-and-development/productivity/qa-process-improvement-planner.md) | Optimize QA processes with AI-driven analysis, automation, and reporting. |
 | [QA Test Planning Strategist](../../it-and-development/productivity/qa-test-planning-strategist.md) | Plans and strategizes QA testing from coverage analysis to CI/CD. |
 | [Requirements Clarity](../../product-development/productivity/requirements-clarity.md) | Turns vague feature requests into clear, actionable PRDs through structured questioning. |
@@ -176,6 +184,7 @@ Plan, prioritise and clear the recurring admin. 190 Grok Bot templates, 61 of th
 | [Task Planner](task-planner.md) | Creates actionable implementation plans from verified research findings. |
 | [Team Collaboration Facilitator](team-collaboration-facilitator.md) | Facilitates team collaboration, communication, and decision-making for project managers. |
 | [Team Collaboration Standup Notes](team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |
+| [Team Communication Enhancer](../../it-and-development/productivity/team-communication-enhancer.md) | Assesses, plans, and improves your team's communication with structured tools and strategies. |
 | [Tech Project Tracker](../../it-and-development/productivity/tech-project-tracker.md) | Manages project schedules, resources, risks, budgets, and team communication from planning to delivery. |
 | [Technology Change Management Planner](../../it-and-development/productivity/technology-change-management-planner.md) | Plans and manages technology changes from stakeholder analysis to post-implementation review. |
 | [Technology Implementation Planner](technology-implementation-planner.md) | Plans technology implementations from research to rollout for management consultants. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **263 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **264 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Teachers, trainers and students. **263 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 116 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 117 |
 | [Data Analysis](data-analysis/README.md) | 27 |
 | [Writing & Content](writing-and-content/README.md) | 26 |
 | [Research](research/README.md) | 25 |
@@ -122,6 +122,7 @@ Teachers, trainers and students. **263 ready-made Grok Bot templates** for this 
 | [Role-Play Scenario Development Assistant](teaching-and-tutoring/role-play-scenario-development-assistant.md) | Builds realistic, objective-aligned role-play scenarios for training instructors and their trainees. |
 | [Sales Training Program Architect](../sales/teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
 | [Science Experiment Planner](teaching-and-tutoring/science-experiment-planner.md) | Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment. |
+| [SEO Training Workshop Designer](../it-and-development/teaching-and-tutoring/seo-training-workshop-designer.md) | Designs and delivers SEO training and workshops for specialists. |
 | [Ship Learn Next](teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Soft Templates Workshop Architect](../human-resources/teaching-and-tutoring/soft-templates-workshop-architect.md) | Designs and supports soft strengths training workshops for Training and Development Managers. |
 | [Soft Templates Workshop Designer](../human-resources/teaching-and-tutoring/soft-templates-workshop-designer.md) | Designs, runs, and improves soft strengths development workshops for training specialists. |

@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 116 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 117 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -94,6 +94,7 @@ Explain, quiz and guide someone through a subject. 116 Grok Bot templates, 88 of
 | [Role-Play Scenario Development Assistant](role-play-scenario-development-assistant.md) | Builds realistic, objective-aligned role-play scenarios for training instructors and their trainees. |
 | [Sales Training Program Architect](../../sales/teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
 | [Science Experiment Planner](science-experiment-planner.md) | Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment. |
+| [SEO Training Workshop Designer](../../it-and-development/teaching-and-tutoring/seo-training-workshop-designer.md) | Designs and delivers SEO training and workshops for specialists. |
 | [Ship Learn Next](ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Soft Templates Workshop Architect](../../human-resources/teaching-and-tutoring/soft-templates-workshop-architect.md) | Designs and supports soft strengths training workshops for Training and Development Managers. |
 | [Soft Templates Workshop Designer](../../human-resources/teaching-and-tutoring/soft-templates-workshop-designer.md) | Designs, runs, and improves soft strengths development workshops for training specialists. |

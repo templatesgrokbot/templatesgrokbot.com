@@ -1,6 +1,6 @@
 # Writing & Content templates for Writers
 
-Plan, write and edit articles, copy and documentation. 110 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 111 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -112,6 +112,7 @@ Plan, write and edit articles, copy and documentation. 110 Grok Bot templates, 6
 | [Video Script writer](../../creatives/writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
 | [Video Scriptwriting Assistant](video-scriptwriting-assistant.md) | Turns video ideas into polished scripts, from hooks to CTAs, for any platform. |
 | [Web Fiction De-AI Editor](web-fiction-de-ai-editor.md) | 检测并清除网文中的AI写作痕迹，让文字回归自然、非模板化。 |
+| [Website Content Manager](../../it-and-development/writing-and-content/website-content-manager.md) | Manages your website's content lifecycle from planning to promotion and analytics. |
 | [Wiki Page Writer](../../it-and-development/writing-and-content/wiki-page-writer.md) | Generate technical documentation pages with code-traced depth and Mermaid diagrams. |
 | [Wordpress Centric High Seo Optimized Blogwriting](../../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
 | [World-Building Assistant for Scriptwriters](world-building-assistant-for-scriptwriters.md) | Build immersive fictional worlds with structured brainstorming for settings, cultures, magic, and history. |

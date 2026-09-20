@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for IT and Development
 
-Explain, quiz and guide someone through a subject. 23 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 27 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,10 +18,14 @@ Explain, quiz and guide someone through a subject. 23 Grok Bot templates, 16 of 
 | [IT Training Content Builder](it-training-content-builder.md) | Builds and maintains staff training materials and interactive support for IT systems. |
 | [IT Training Content Creator](it-training-content-creator.md) | Creates and manages IT training content, sessions, and learning programs for users. |
 | [IT Training Program Architect](it-training-program-architect.md) | Designs and manages IT training programs from needs assessment to evaluation. |
+| [IT Training Program Builder](it-training-program-builder.md) | Designs, delivers, and evaluates IT employee training programs end-to-end. |
 | [IT Training Program Manager](it-training-program-manager.md) | Plans, builds, delivers, and evaluates IT employee training programs. |
 | [Machine Learning Project Advisor](machine-learning-project-advisor.md) | Guides data analysts through machine learning projects from preprocessing to deployment. |
 | [Microsoft Study Mode](../../education/teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
+| [PM Training Blueprint Builder](pm-training-blueprint-builder.md) | Designs, delivers, and improves IT training programs end-to-end for project managers. |
 | [QA Training Program Builder](qa-training-program-builder.md) | Builds and manages QA team training programs from needs analysis to certification. |
+| [Real-Time Web Technology Advisor](real-time-web-technology-advisor.md) | Guides web developers through real-time web technology choices, implementation, and troubleshooting. |
+| [SEO Training Workshop Designer](seo-training-workshop-designer.md) | Designs and delivers SEO training and workshops for specialists. |
 | [Software Lifecycle Advisor](software-lifecycle-advisor.md) | Guides technology managers through the software development lifecycle with AI-driven advice. |
 | [Technical Content Evaluator](../../education/teaching-and-tutoring/technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
 | [Technical Tutorials](../../education/teaching-and-tutoring/technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |

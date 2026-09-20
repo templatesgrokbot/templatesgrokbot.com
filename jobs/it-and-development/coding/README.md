@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1049 Grok Bot templates, 1040 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1053 Grok Bot templates, 1044 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -191,6 +191,7 @@ Write, review, test and debug software. 1049 Grok Bot templates, 1040 of them fi
 | [Changelog Bot](changelog-bot.md) | Writes release notes from merged PRs that a customer can read, not a diff summary. |
 | [Changelog Generator](changelog-generator.md) | Generates user-friendly changelogs from git commits by categorizing and translating technical messages. |
 | [Chat Widget](chat-widget.md) | Build a real-time support chat widget with admin dashboard. |
+| [Chatbot Development Assistant](chatbot-development-assistant.md) | Designs, builds, and tests chatbots with natural language understanding and API integration. |
 | [Chrome Extension Developer](chrome-extension-developer.md) | Builds and migrates Chrome Extensions using Manifest V3 architecture. |
 | [Cirq](cirq.md) | Design, simulate, and run quantum circuits with Cirq. |
 | [Claude API Reference](claude-api.md) | Accurate Claude API code examples, model IDs, pricing, and SDK usage patterns. |
@@ -230,6 +231,7 @@ Write, review, test and debug software. 1049 Grok Bot templates, 1040 of them fi
 | [Code Showcase Testing Patterns](code-showcase-testing-patterns.md) | Write Jest unit tests with factories, mocks, and TDD red-green-refactor cycles. |
 | [Code Simplification](code-simplification.md) | Refactors code for clarity without changing behavior, reducing unnecessary complexity. |
 | [Code Simplifier](code-simplifier.md) | Refines recently modified code for clarity and maintainability without changing behavior. |
+| [Code Snippet Workbench](code-snippet-workbench.md) | Generates, validates, optimizes, and organizes code snippets for web developers. |
 | [Code Tour](code-tour.md) | Creates and maintains VSCode CodeTour files for guided codebase walkthroughs. |
 | [Codebase Audit Pre Push](codebase-audit-pre-push.md) | Deep audit of codebase before GitHub push: remove junk, dead code, security holes, and optimize. |
 | [Codebase Cleanup Refactor Clean](codebase-cleanup-refactor-clean.md) | Refactor code to improve quality, maintainability, and performance. |
@@ -280,6 +282,7 @@ Write, review, test and debug software. 1049 Grok Bot templates, 1040 of them fi
 | [Create Pr](create-pr.md) | Create pull requests following Sentry conventions from the current branch. |
 | [Cron Doctor](cron-doctor.md) | Validate cron expressions and catch silent bugs before deployment. |
 | [Cross Platform Contract Propagation Audit](cross-platform-contract-propagation-audit.md) | Audit whether a field, enum, or flag propagates consistently across all services, clients, and tests. |
+| [Cross-Browser Compatibility Assistant](cross-browser-compatibility-assistant.md) | Finds, fixes, and prevents cross-browser issues for web developers. |
 | [Cross-Browser Testing Techniques Assistant](cross-browser-testing-techniques-assistant.md) | Plans, runs, and analyzes cross-browser tests for QA testers. |
 | [Cross-Platform Development Assistant](cross-platform-development-assistant.md) | Cross-platform development assistant for software engineers covering testing, design, optimization, and more. |
 | [Csharp Developer](csharp-developer.md) | Build and optimize ASP.NET Core APIs, cloud-native .NET solutions, and modern C# applications. |
@@ -1020,6 +1023,7 @@ Write, review, test and debug software. 1049 Grok Bot templates, 1040 of them fi
 | [Warp Delegate](warp-delegate.md) | Delegate bounded coding tasks to the Warp Agent CLI and review the diff before landing. |
 | [Wcag Audit Patterns](wcag-audit-patterns.md) | Audit web content against WCAG 2.2 with actionable remediation steps. |
 | [Web Accessibility Checker](web-accessibility-checker.md) | Audits web pages for WCAG compliance and provides fixable remediation steps. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Web Debugging Assistant](web-debugging-assistant.md) | Debugging assistant for web developers: interprets errors, reviews code, and plans fixes. |
 | [Web Performance Optimization](web-performance-optimization.md) | Measure, diagnose, and fix website performance issues like Core Web Vitals, bundle size, and caching. |
 | [Web Quality Audit](web-quality-audit.md) | Audits web pages for performance, accessibility, SEO, and best practices with prioritized fixes. |
 | [Web Vitals Optimizer](web-vitals-optimizer.md) | Measures and improves Core Web Vitals (LCP, FID, CLS) for a website. |

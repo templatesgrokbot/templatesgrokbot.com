@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 224 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 225 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -51,6 +51,7 @@ Clean, query, chart and explain data. 224 Grok Bot templates, 143 of them filed 
 | [Clinical Trial Data Analyst](clinical-trial-data-analyst.md) | Analyzes clinical trial data for microbiologists, from cleaning to reporting. |
 | [Clinical Trial ML Pipeline Assistant](../../healthcare/data-analysis/clinical-trial-ml-pipeline-assistant.md) | Prepares clinical trial data, builds and monitors ML models, and generates reports for clinical data managers. |
 | [Cobrapy](cobrapy.md) | Run constraint-based metabolic modeling and analysis on genome-scale models. |
+| [Data Analysis and Reporting Assistant](../../it-and-development/data-analysis/data-analysis-and-reporting-assistant.md) | Turns raw project data into clean, analyzed, visualized, and reported insights for IT project managers. |
 | [Data Analysis Assistant](../../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
 | [Data Analysis Workflow Assistant](../../it-and-development/data-analysis/data-analysis-workflow-assistant.md) | Guides data analysts through cleaning, modeling, and reporting with AI assistance. |
 | [Data Analyst](data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |

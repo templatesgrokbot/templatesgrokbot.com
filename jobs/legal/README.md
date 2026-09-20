@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **234 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **235 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Contracts, research, compliance and review. **234 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Security & Compliance](security-and-compliance/README.md) | 112 |
-| [Research](research/README.md) | 54 |
+| [Research](research/README.md) | 55 |
 | [Data Analysis](data-analysis/README.md) | 22 |
 | [Writing & Content](writing-and-content/README.md) | 12 |
 | [Knowledge Management](knowledge-management/README.md) | 10 |
@@ -203,6 +203,7 @@ Contracts, research, compliance and review. **234 ready-made Grok Bot templates*
 | [Third-Party Compliance Evaluator](research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 | [Trial Preparation Paralegal Assistant](research/trial-preparation-paralegal-assistant.md) | Trial prep assistant for paralegals: research, organize, draft, and strategize. |
 | [Uspto Database](research/uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |
+| [Vendor Scorecard Builder](../it-and-development/research/vendor-scorecard-builder.md) | Evaluates, compares, and monitors IT vendors to support procurement decisions. |
 
 ## Data Analysis
 

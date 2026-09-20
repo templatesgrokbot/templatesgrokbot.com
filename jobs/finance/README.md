@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **419 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **420 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Accounting, budgeting, analysis and risk. **419 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 281 |
+| [Data Analysis](data-analysis/README.md) | 282 |
 | [Security & Compliance](security-and-compliance/README.md) | 41 |
 | [Productivity](productivity/README.md) | 27 |
 | [Research](research/README.md) | 19 |
@@ -41,7 +41,7 @@ Accounting, budgeting, analysis and risk. **419 ready-made Grok Bot templates** 
 | [CFO Tax Planning Assistant](data-analysis/cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
 | [Financial Forecasting and Analysis Assistant](../executives-and-strategy/data-analysis/financial-forecasting-and-analysis-assistant.md) | Turns financial data into forecasts, budgets, and scenario insights for a VP of Finance. |
 
-[All 281 Data Analysis templates →](data-analysis/README.md)
+[All 282 Data Analysis templates →](data-analysis/README.md)
 
 ## Security & Compliance
 

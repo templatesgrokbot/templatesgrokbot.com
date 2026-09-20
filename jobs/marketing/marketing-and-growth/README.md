@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 324 Grok Bot templates, 133 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 337 Grok Bot templates, 133 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -98,6 +98,7 @@ Campaigns, ads, conversion and launch plans. 324 Grok Bot templates, 133 of them
 | [Domain Name Brainstormer](domain-name-brainstormer.md) | Generates creative domain name ideas for your project and checks availability across multiple TLDs. |
 | [E-commerce Launch Strategist](../../management/marketing-and-growth/e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
 | [E-commerce Optimization Assistant](../../it-and-development/marketing-and-growth/e-commerce-optimization-assistant.md) | Optimizes e-commerce websites for SEO, conversions, UX, performance, and personalization. |
+| [E-commerce SEO Assistant](../../it-and-development/marketing-and-growth/e-commerce-seo-assistant.md) | E-commerce SEO assistant for keyword research, on-page optimization, audits, and content. |
 | [Email A/B Testing Assistant](../../sales/marketing-and-growth/email-a-b-testing-assistant.md) | Designs, runs, and analyzes email A/B tests to boost engagement and conversions. |
 | [Email Campaign Automation Assistant](../../sales/marketing-and-growth/email-campaign-automation-assistant.md) | Builds, automates, and optimizes email campaigns with personalization, testing, and analytics. |
 | [Email Campaign Builder](email-campaign-builder.md) | Builds, sends, and optimizes email campaigns that engage subscribers and drive conversions. |
@@ -158,6 +159,7 @@ Campaigns, ads, conversion and launch plans. 324 Grok Bot templates, 133 of them
 | [Influencer ROI Campaign Orchestrator](../../sales/marketing-and-growth/influencer-roi-campaign-orchestrator.md) | Manages influencer collaborations from discovery to ROI analysis. |
 | [Insurance Marketing Strategist](../../management/marketing-and-growth/insurance-marketing-strategist.md) | Develops and executes your insurance agency's marketing strategy from research to performance tracking. |
 | [Interactive Email Elements Assistant](../../sales/marketing-and-growth/interactive-email-elements-assistant.md) | Designs and builds interactive email elements to boost engagement and conversions. |
+| [International SEO Strategist](../../it-and-development/marketing-and-growth/international-seo-strategist.md) | Plans and executes international SEO campaigns across markets, from keywords to reporting. |
 | [Journey Insight Mapper](../../sales/marketing-and-growth/journey-insight-mapper.md) | Maps customer journeys from data to insight, turning touchpoints into action. |
 | [Journey Map Content Builder](../../pr-and-communications/marketing-and-growth/journey-map-content-builder.md) | Maps and improves customer journeys from data to content. |
 | [Keyword Extractor](keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
@@ -172,9 +174,11 @@ Campaigns, ads, conversion and launch plans. 324 Grok Bot templates, 133 of them
 | [Lead Generation Strategist](../../sales/marketing-and-growth/lead-generation-strategist.md) | Turns market research, content, and outreach into a steady flow of qualified leads for your sales team. |
 | [Lead Magnets](lead-magnets.md) | Plan lead magnets that capture emails and convert subscribers. |
 | [Legal Marketing and Research Assistant](../../legal/marketing-and-growth/legal-marketing-and-research-assistant.md) | Legal marketing and research assistant for legal assistants. |
+| [Link Building Strategist](../../it-and-development/marketing-and-growth/link-building-strategist.md) | Finds and secures backlink opportunities for SEO specialists. |
 | [List-to-Lifecycle Email Architect](../../executives-and-strategy/marketing-and-growth/list-to-lifecycle-email-architect.md) | Plans, writes, and optimizes your email marketing from segmentation to re-engagement. |
 | [Local Legal Seo Audit](local-legal-seo-audit.md) | Audit and improve local SEO for law firms, attorneys, and legal professionals. |
 | [Local SEO Audit](local-seo-audit.md) | Audits local ranking pillars and prescribes the five highest-impact fixes for a business. |
+| [Local SEO Optimization Assistant](../../it-and-development/marketing-and-growth/local-seo-optimization-assistant.md) | Local SEO strategist that audits, optimizes, and tracks your business's local search presence. |
 | [Loss Aversion Designer](loss-aversion-designer.md) | Frame messages using loss aversion to drive action without fear-mongering. |
 | [Mailchimp Automation](mailchimp-automation.md) | Automate Mailchimp email campaigns, audiences, subscribers, and analytics via MCP tools. |
 | [Mailtrap Managing Contacts](mailtrap-managing-contacts.md) | Manage Mailtrap contacts, lists, segments, custom fields, imports, and CRM syncs via API. |
@@ -209,10 +213,12 @@ Campaigns, ads, conversion and launch plans. 324 Grok Bot templates, 133 of them
 | [Marketing VP Competitive Intel](../../executives-and-strategy/marketing-and-growth/marketing-vp-competitive-intel.md) | Competitive intelligence and strategy support for marketing VPs. |
 | [Marketing VP Journey Mapper](../../executives-and-strategy/marketing-and-growth/marketing-vp-journey-mapper.md) | Maps customer journeys from data to strategy for marketing VPs. |
 | [Mobile Email Optimizer](../../sales/marketing-and-growth/mobile-email-optimizer.md) | Optimizes email campaigns for mobile devices to boost readability, engagement, and conversions. |
+| [Mobile SEO Optimization Assistant](../../it-and-development/marketing-and-growth/mobile-seo-optimization-assistant.md) | Optimizes mobile websites for search, speed, UX, and local visibility. |
 | [Objection Preemptor](objection-preemptor.md) | Surface and neutralize customer objections before they block conversion. |
 | [Odoo Ecommerce Configurator](../../operations/marketing-and-growth/odoo-ecommerce-configurator.md) | Step-by-step Odoo eCommerce setup: products, payments, shipping, SEO, and order fulfillment. |
 | [Offers](offers.md) | Design, construct, and improve offers that convert by strengthening the offer itself, not just the copy. |
 | [On-Page Optimisation for Existing Pages](onpage-optimierung.md) | Audits a live URL and returns finished rewrites for title, meta, headings, intro, plus content gaps and schema recommendation. Uses the Collective Bra |
+| [On-Page SEO Optimizer](../../it-and-development/marketing-and-growth/on-page-seo-optimizer.md) | Optimizes on-page SEO elements for better rankings and user engagement. |
 | [Open Source Marketing](open-source-marketing.md) | Market open source projects authentically with GitHub optimization and community building. |
 | [Optimize Your Brand SERP](brand-serp-optimierung.md) | Audits your brand's Google SERP and prescribes the five highest-impact fixes to improve it. |
 | [Page Cro](page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
@@ -288,6 +294,7 @@ Campaigns, ads, conversion and launch plans. 324 Grok Bot templates, 133 of them
 | [Seo Fundamentals](seo-fundamentals.md) | Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles. |
 | [Seo Hreflang](seo-hreflang.md) | Validate and generate hreflang tags for international SEO. |
 | [Seo Image Gen](seo-image-gen.md) | Generate SEO-optimized images like OG cards, hero images, and infographics. |
+| [SEO Keyword Research Assistant](../../it-and-development/marketing-and-growth/seo-keyword-research-assistant.md) | Keyword research assistant for SEO specialists, covering analysis, strategy, and tracking. |
 | [Seo Meta Optimizer](seo-meta-optimizer.md) | Generate SEO metadata with character limits and best practices. |
 | [SEO Optimization Assistant](../../pr-and-communications/marketing-and-growth/seo-optimization-assistant.md) | SEO optimization assistant for editors: research, optimize, audit, and report on search performance. All in one place. |
 | [Seo Optimizer](seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
@@ -301,7 +308,9 @@ Campaigns, ads, conversion and launch plans. 324 Grok Bot templates, 133 of them
 | [SEO Strategy Planner](../../executives-and-strategy/marketing-and-growth/seo-strategy-planner.md) | Builds and executes a complete SEO strategy for marketing leadership. |
 | [SEO Strategy: 90-Day Roadmap](seo-strategie-roadmap.md) | Turns your current SEO situation into a 90-day roadmap with ICE scores and a not-doing list. |
 | [Seo Structure Architect](seo-structure-architect.md) | Analyzes content structure, suggests schema markup, and maps internal links for search-friendly organization. |
+| [SEO Trend Analyzer](../../it-and-development/marketing-and-growth/seo-trend-analyzer.md) | Analyzes SEO trends, audits sites, and reports insights to keep your strategy ahead. |
 | [SEO Visibility Planner](../../executives-and-strategy/marketing-and-growth/seo-visibility-planner.md) | Turns your SEO goals into keyword lists, audits, and tracking plans for the marketing team. |
+| [SEO Website Design Consultant](../../it-and-development/marketing-and-growth/seo-website-design-consultant.md) | Audits and optimizes websites for SEO, from keywords to technical files. |
 | [Seoagent](seoagent.md) | Run persistent SEO audits, keyword strategies, content briefs, and article drafts that accumulate across sessions. |
 | [Sequence Psychologist](sequence-psychologist.md) | Design email nurture sequences using psychological persuasion principles. |
 | [Set Up a Backlink Campaign](backlink-kampagne.md) | Plans a clean link campaign across five prospect categories and ships outreach mails with it. |
@@ -318,15 +327,19 @@ Campaigns, ads, conversion and launch plans. 324 Grok Bot templates, 133 of them
 | [UGC Campaign Planner](ugc-campaign-planner.md) | Plans, runs, and improves user-generated content campaigns for content marketing managers. |
 | [UTM Link Generator](utm-link-generator.md) | Generates consistent UTM-tagged links and maintains a registry to prevent duplicates. |
 | [UTM Parameter Generator](utm-parameter-generator.md) | Generate standardized UTM parameters and tracking reports for your campaigns. |
+| [UX SEO Site Auditor](../../it-and-development/marketing-and-growth/ux-seo-site-auditor.md) | Optimizes website UX and SEO through structured analysis and actionable recommendations. |
 | [Video Content Strategist](../../sales/marketing-and-growth/video-content-strategist.md) | Plans, scripts, and optimizes video content from idea to performance analysis. |
 | [Video Content Strategy Planner](video-content-strategy-planner.md) | Plans and scripts video content from research to distribution for marketing managers. |
 | [Video Marketing Campaign Assistant](../../pr-and-communications/marketing-and-growth/video-marketing-campaign-assistant.md) | Plans, scripts, optimizes, and analyzes video marketing campaigns from idea to distribution. |
 | [Video Marketing Strategy Planner](../../sales/marketing-and-growth/video-marketing-strategy-planner.md) | Plans, scripts, optimizes, and analyzes video marketing for digital marketing managers. |
+| [Video Search Visibility Strategist](../../it-and-development/marketing-and-growth/video-search-visibility-strategist.md) | Optimizes video content for search engines and boosts visibility. |
 | [Video SEO Optimizer](../../creatives/marketing-and-growth/video-seo-optimizer.md) | Optimizes video SEO: keywords, titles, descriptions, tags, transcripts, thumbnails, metadata, competitors, sitemaps, embedding, and platform… |
 | [Video Strategy Retargeting Builder](../../executives-and-strategy/marketing-and-growth/video-strategy-retargeting-builder.md) | Builds and runs your video marketing strategy from research to retargeting. |
 | [Vocal Artist Brand Consultant](../../creatives/marketing-and-growth/vocal-artist-brand-consultant.md) | Refines a vocal artist's brand and image across all platforms and materials. |
 | [Vocalist Fan Engagement Blueprint](../../creatives/marketing-and-growth/vocalist-fan-engagement-blueprint.md) | Turns audience engagement ideas into ready-to-use plans for vocal artists and singer-songwriters. |
+| [Voice Search SEO Assistant](../../it-and-development/marketing-and-growth/voice-search-seo-assistant.md) | Voice search SEO assistant that researches, optimizes, and analyzes for better visibility. |
 | [VP Brand Positioning Studio](../../executives-and-strategy/marketing-and-growth/vp-brand-positioning-studio.md) | Develops and refines brand positioning strategies for business development leaders. |
+| [WebDev SEO Strategist](../../it-and-development/marketing-and-growth/webdev-seo-strategist.md) | SEO optimization assistant for web developers covering research, on-page, content, links, technical, local, analytics, and audits. |
 | [Wechat Official Account Strategist](wechat-official-account-strategist.md) | Grow WeChat Official Accounts with high-conversion content strategy and title formulas. |
 | [Write SEO Articles](seo-artikel-schreiben.md) | Writes SEO articles that rank by analyzing live SERPs and matching search intent. |
 | [Youtube Seo Optimizer](youtube-seo-optimizer.md) | Optimize YouTube and podcast metadata for search and discovery. |

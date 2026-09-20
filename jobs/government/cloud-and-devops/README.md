@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Government
 
-Infrastructure, deployments, monitoring and incident response. 13 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 14 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Infrastructure, deployments, monitoring and incident response. 13 Grok Bot templ
 | [Disaster Recovery Plan Builder](../../it-and-development/cloud-and-devops/disaster-recovery-plan-builder.md) | Builds and maintains your disaster recovery plan from risk assessment to continuous improvement. |
 | [Disaster Recovery Planner](../../executives-and-strategy/cloud-and-devops/disaster-recovery-planner.md) | Builds and maintains your disaster recovery plan, from risk assessment to continuous improvement. |
 | [Hardware Upgrade Advisor](../../it-and-development/cloud-and-devops/hardware-upgrade-advisor.md) | Guides IT managers through hardware upgrade decisions from research to rollout. |
+| [Incident Response Plan Assistant](../../it-and-development/cloud-and-devops/incident-response-plan-assistant.md) | Incident response assistant for IT managers: detect, analyze, document, and improve your response plan. |
 | [Infrastructure Assessment Advisor](../../it-and-development/cloud-and-devops/infrastructure-assessment-advisor.md) | Assesses IT infrastructure across network, servers, storage, security, cloud, and more, delivering actionable reports. |
 | [IT Disaster Recovery Architect](../../it-and-development/cloud-and-devops/it-disaster-recovery-architect.md) | Builds and maintains a complete disaster recovery plan for IT systems. |
 | [Network DR Plan Builder](../../it-and-development/cloud-and-devops/network-dr-plan-builder.md) | Builds and maintains your network disaster recovery plan from risk assessment to continuous improvement. |

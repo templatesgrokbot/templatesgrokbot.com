@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 6429,
+ "count": 6482,
  "templates": [
   {
    "slug": "007",
@@ -1957,6 +1957,23 @@
    "url": "https://templatesgrokbot.com/bot/agile-product-owner",
    "adapted_from": "https://www.aitmpl.com/component/skills/business-marketing/agile-product-owner",
    "source_license": "MIT"
+  },
+  {
+   "slug": "agile-project-management-guide",
+   "name": "Agile Project Management Guide",
+   "tagline": "Guides IT project managers through Agile ceremonies, planning, metrics, and scaling.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management",
+    "product-development"
+   ],
+   "topics": [
+    "productivity",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/productivity/agile-project-management-guide.md",
+   "url": "https://templatesgrokbot.com/bot/agile-project-management-guide"
   },
   {
    "slug": "agile-project-manager-advisor",
@@ -3934,7 +3951,8 @@
     "it-and-development"
    ],
    "topics": [
-    "coding"
+    "coding",
+    "teaching-and-tutoring"
    ],
    "path": "jobs/it-and-development/coding/api-integration-specialist.md",
    "url": "https://templatesgrokbot.com/bot/api-integration-specialist",
@@ -13653,6 +13671,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "chatbot-development-assistant",
+   "name": "Chatbot Development Assistant",
+   "tagline": "Designs, builds, and tests chatbots with natural language understanding and API integration.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "prompt-engineering",
+    "generative-code"
+   ],
+   "path": "jobs/it-and-development/coding/chatbot-development-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/chatbot-development-assistant"
+  },
+  {
    "slug": "chatbot-integration-designer",
    "name": "Chatbot Integration Designer",
    "tagline": "Designs, builds, and refines chatbots for websites, from conversation flows to multilingual support.",
@@ -16974,6 +17008,20 @@
    "url": "https://templatesgrokbot.com/bot/code-simplifier",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "code-snippet-workbench",
+   "name": "Code Snippet Workbench",
+   "tagline": "Generates, validates, optimizes, and organizes code snippets for web developers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/code-snippet-workbench.md",
+   "url": "https://templatesgrokbot.com/bot/code-snippet-workbench"
   },
   {
    "slug": "code-tour",
@@ -22589,6 +22637,20 @@
    "url": "https://templatesgrokbot.com/bot/cross-border-logistics-planner"
   },
   {
+   "slug": "cross-browser-compatibility-assistant",
+   "name": "Cross-Browser Compatibility Assistant",
+   "tagline": "Finds, fixes, and prevents cross-browser issues for web developers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/cross-browser-compatibility-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/cross-browser-compatibility-assistant"
+  },
+  {
    "slug": "cross-browser-testing-techniques-assistant",
    "name": "Cross-Browser Testing Techniques Assistant",
    "tagline": "Plans, runs, and analyzes cross-browser tests for QA testers.",
@@ -25141,6 +25203,22 @@
    "url": "https://templatesgrokbot.com/bot/dask",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/dask",
    "source_license": "MIT"
+  },
+  {
+   "slug": "data-analysis-and-reporting-assistant",
+   "name": "Data Analysis and Reporting Assistant",
+   "tagline": "Turns raw project data into clean, analyzed, visualized, and reported insights for IT project managers.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/data-analysis/data-analysis-and-reporting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/data-analysis-and-reporting-assistant"
   },
   {
    "slug": "data-analysis-assistant",
@@ -28750,6 +28828,20 @@
    "source_license": "Apache-2.0"
   },
   {
+   "slug": "devicefit-design-coach",
+   "name": "DeviceFit Design Coach",
+   "tagline": "Responsive design suggestions for web developers to improve usability across devices.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/it-and-development/design/devicefit-design-coach.md",
+   "url": "https://templatesgrokbot.com/bot/devicefit-design-coach"
+  },
+  {
    "slug": "devil",
    "name": "Devil",
    "tagline": "Reviews pre-implementation documents to surface undefined edge cases, missing states, and policy gaps, then produces a sign-off ruling and forwardable",
@@ -31524,6 +31616,24 @@
    ],
    "path": "jobs/management/data-analysis/e-commerce-recommendation-optimizer.md",
    "url": "https://templatesgrokbot.com/bot/e-commerce-recommendation-optimizer"
+  },
+  {
+   "slug": "e-commerce-seo-assistant",
+   "name": "E-commerce SEO Assistant",
+   "tagline": "E-commerce SEO assistant for keyword research, on-page optimization, audits, and content.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "research",
+    "social-media"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/e-commerce-seo-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/e-commerce-seo-assistant"
   },
   {
    "slug": "e-commerce-strategy-formulator",
@@ -48227,6 +48337,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "incident-response-plan-assistant",
+   "name": "Incident Response Plan Assistant",
+   "tagline": "Incident response assistant for IT managers: detect, analyze, document, and improve your response plan.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "government",
+    "management"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/incident-response-plan-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/incident-response-plan-assistant"
+  },
+  {
    "slug": "incident-response-planning-assistant",
    "name": "Incident Response Planning Assistant",
    "tagline": "Guides compliance analysts through incident response planning, from detection to review.",
@@ -50490,6 +50618,24 @@
    "url": "https://templatesgrokbot.com/bot/international-procurement-compliance-guide"
   },
   {
+   "slug": "international-seo-strategist",
+   "name": "International SEO Strategist",
+   "tagline": "Plans and executes international SEO campaigns across markets, from keywords to reporting.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "writing-and-content",
+    "translation"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/international-seo-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/international-seo-strategist"
+  },
+  {
    "slug": "international-tax-guidance-assistant",
    "name": "International Tax Guidance Assistant",
    "tagline": "International tax guidance for tax analysts: treaties, transfer pricing, CFC, PE, credits, and compliance.",
@@ -51707,6 +51853,22 @@
    "url": "https://templatesgrokbot.com/bot/it-budget-forecast-for-directors"
   },
   {
+   "slug": "it-budget-forecaster",
+   "name": "IT Budget Forecaster",
+   "tagline": "Forecast, track, and optimize IT project budgets with data-driven analysis.",
+   "category": "finance",
+   "jobs": [
+    "it-and-development",
+    "finance",
+    "management"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/data-analysis/it-budget-forecaster.md",
+   "url": "https://templatesgrokbot.com/bot/it-budget-forecaster"
+  },
+  {
    "slug": "it-budget-forecasting-assistant",
    "name": "IT Budget Forecasting Assistant",
    "tagline": "Turns IT budget data into forecasts, scenarios, and reports for VP decisions.",
@@ -51818,6 +51980,22 @@
    ],
    "path": "jobs/it-and-development/security-and-compliance/it-compliance-assistant.md",
    "url": "https://templatesgrokbot.com/bot/it-compliance-assistant"
+  },
+  {
+   "slug": "it-conflict-navigator",
+   "name": "IT Conflict Navigator",
+   "tagline": "Guides IT project managers through conflict resolution, from analysis to action.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "research"
+   ],
+   "path": "jobs/it-and-development/productivity/it-conflict-navigator.md",
+   "url": "https://templatesgrokbot.com/bot/it-conflict-navigator"
   },
   {
    "slug": "it-cost-forecaster-for-managers",
@@ -52036,6 +52214,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "it-manager-transformation-roadmap",
+   "name": "IT Manager Transformation Roadmap",
+   "tagline": "Plans and drives your organization's digital transformation from assessment to adoption.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "cloud-and-devops",
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/productivity/it-manager-transformation-roadmap.md",
+   "url": "https://templatesgrokbot.com/bot/it-manager-transformation-roadmap"
+  },
+  {
    "slug": "it-operations",
    "name": "It Operations",
    "tagline": "Manages IT infrastructure, monitoring, incident response, and service reliability for operations teams.",
@@ -52179,6 +52375,55 @@
    "url": "https://templatesgrokbot.com/bot/it-project-management-assistant"
   },
   {
+   "slug": "it-project-planning-assistant",
+   "name": "IT Project Planning Assistant",
+   "tagline": "Plans IT projects end-to-end: scope, schedule, budget, risks, and stakeholder communication.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management",
+    "government"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/productivity/it-project-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/it-project-planning-assistant"
+  },
+  {
+   "slug": "it-project-risk-manager",
+   "name": "IT Project Risk Manager",
+   "tagline": "Turns project data into risk registers, response plans, and monitoring updates for IT project managers.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/it-and-development/productivity/it-project-risk-manager.md",
+   "url": "https://templatesgrokbot.com/bot/it-project-risk-manager"
+  },
+  {
+   "slug": "it-project-time-planner",
+   "name": "IT Project Time Planner",
+   "tagline": "Plans, schedules, and tracks IT project time to keep milestones on target.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/productivity/it-project-time-planner.md",
+   "url": "https://templatesgrokbot.com/bot/it-project-time-planner"
+  },
+  {
    "slug": "it-scripting-assistant",
    "name": "IT Scripting Assistant",
    "tagline": "Drafts and refines IT automation scripts for support tasks, from installs to reporting.",
@@ -52253,6 +52498,23 @@
    ],
    "path": "jobs/it-and-development/cloud-and-devops/it-stack-optimization-reports.md",
    "url": "https://templatesgrokbot.com/bot/it-stack-optimization-reports"
+  },
+  {
+   "slug": "it-stakeholder-strategist",
+   "name": "IT Stakeholder Strategist",
+   "tagline": "Manages IT project stakeholders from identification to engagement evaluation.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/it-and-development/productivity/it-stakeholder-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/it-stakeholder-strategist"
   },
   {
    "slug": "it-strategy-development-assistant",
@@ -52423,6 +52685,23 @@
    ],
    "path": "jobs/it-and-development/teaching-and-tutoring/it-training-program-architect.md",
    "url": "https://templatesgrokbot.com/bot/it-training-program-architect"
+  },
+  {
+   "slug": "it-training-program-builder",
+   "name": "IT Training Program Builder",
+   "tagline": "Designs, delivers, and evaluates IT employee training programs end-to-end.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/teaching-and-tutoring/it-training-program-builder.md",
+   "url": "https://templatesgrokbot.com/bot/it-training-program-builder"
   },
   {
    "slug": "it-training-program-manager",
@@ -55656,6 +55935,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "link-building-strategist",
+   "name": "Link Building Strategist",
+   "tagline": "Finds and secures backlink opportunities for SEO specialists.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "sales-and-negotiation",
+    "research"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/link-building-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/link-building-strategist"
+  },
+  {
    "slug": "linkedin-automation",
    "name": "Linkedin Automation",
    "tagline": "Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP.",
@@ -56351,6 +56647,24 @@
    "path": "jobs/marketing/marketing-and-growth/local-seo-audit.md",
    "url": "https://templatesgrokbot.com/bot/local-seo-audit",
    "adapted_from": "https://collectivebrain.de/en/skills/local-seo-audit/"
+  },
+  {
+   "slug": "local-seo-optimization-assistant",
+   "name": "Local SEO Optimization Assistant",
+   "tagline": "Local SEO strategist that audits, optimizes, and tracks your business's local search presence.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/local-seo-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/local-seo-optimization-assistant"
   },
   {
    "slug": "localization-qa-verifier",
@@ -62478,6 +62792,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "mobile-seo-optimization-assistant",
+   "name": "Mobile SEO Optimization Assistant",
+   "tagline": "Optimizes mobile websites for search, speed, UX, and local visibility.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/mobile-seo-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/mobile-seo-optimization-assistant"
+  },
+  {
    "slug": "moc-agent",
    "name": "Moc Agent",
    "tagline": "Creates and maintains Obsidian Maps of Content to keep your vault navigable.",
@@ -66994,6 +67325,22 @@
    "path": "jobs/marketing/marketing-and-growth/onpage-optimierung.md",
    "url": "https://templatesgrokbot.com/bot/onpage-optimierung",
    "adapted_from": "https://collectivebrain.de/en/skills/onpage-optimierung/"
+  },
+  {
+   "slug": "on-page-seo-optimizer",
+   "name": "On-Page SEO Optimizer",
+   "tagline": "Optimizes on-page SEO elements for better rankings and user engagement.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/on-page-seo-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/on-page-seo-optimizer"
   },
   {
    "slug": "onboarding",
@@ -72112,6 +72459,22 @@
    "url": "https://templatesgrokbot.com/bot/pm-stakeholder-comms-kit"
   },
   {
+   "slug": "pm-training-blueprint-builder",
+   "name": "PM Training Blueprint Builder",
+   "tagline": "Designs, delivers, and improves IT training programs end-to-end for project managers.",
+   "category": "education",
+   "jobs": [
+    "it-and-development",
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/teaching-and-tutoring/pm-training-blueprint-builder.md",
+   "url": "https://templatesgrokbot.com/bot/pm-training-blueprint-builder"
+  },
+  {
    "slug": "podcast-clipper",
    "name": "Podcast Clipper",
    "tagline": "Finds the clippable moments in a long recording and writes the captions for each.",
@@ -72964,6 +73327,23 @@
    ],
    "path": "jobs/management/data-analysis/post-project-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/post-project-analysis-assistant"
+  },
+  {
+   "slug": "post-project-review-analyst",
+   "name": "Post-Project Review Analyst",
+   "tagline": "Turns post-project reviews into actionable insights, reports, and improvement plans.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/it-and-development/data-analysis/post-project-review-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/post-project-review-analyst"
   },
   {
    "slug": "post-sale-service-assistant",
@@ -76320,7 +76700,8 @@
    ],
    "topics": [
     "generative-code",
-    "cloud-and-devops"
+    "cloud-and-devops",
+    "coding"
    ],
    "path": "jobs/it-and-development/generative-code/progressive-web-app.md",
    "url": "https://templatesgrokbot.com/bot/progressive-web-app",
@@ -78035,6 +78416,24 @@
    "url": "https://templatesgrokbot.com/bot/qa-expert",
    "adapted_from": "https://www.aitmpl.com/component/agents/development-tools/qa-expert",
    "source_license": "MIT"
+  },
+  {
+   "slug": "qa-process-guide",
+   "name": "QA Process Guide",
+   "tagline": "Guides IT project managers through quality assurance processes, from audits to test optimization.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis",
+    "writing-and-content",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/productivity/qa-process-guide.md",
+   "url": "https://templatesgrokbot.com/bot/qa-process-guide"
   },
   {
    "slug": "qa-process-improvement-planner",
@@ -79810,6 +80209,20 @@
    ],
    "path": "jobs/operations/teaching-and-tutoring/real-time-tracking-setup-assistant.md",
    "url": "https://templatesgrokbot.com/bot/real-time-tracking-setup-assistant"
+  },
+  {
+   "slug": "real-time-web-technology-advisor",
+   "name": "Real-Time Web Technology Advisor",
+   "tagline": "Guides web developers through real-time web technology choices, implementation, and troubleshooting.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/teaching-and-tutoring/real-time-web-technology-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/real-time-web-technology-advisor"
   },
   {
    "slug": "recallmax",
@@ -88111,6 +88524,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "seo-analytics-and-reporting-assistant",
+   "name": "SEO Analytics and Reporting Assistant",
+   "tagline": "Analyzes SEO data and generates reports and insights for SEO specialists.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/data-analysis/seo-analytics-and-reporting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/seo-analytics-and-reporting-assistant"
+  },
+  {
    "slug": "seo-analyzer",
    "name": "Seo Analyzer",
    "tagline": "Performs technical SEO audits and provides actionable optimization recommendations for websites.",
@@ -88240,11 +88668,13 @@
    "category": "marketing",
    "jobs": [
     "marketing",
-    "executives-and-strategy"
+    "executives-and-strategy",
+    "it-and-development"
    ],
    "topics": [
     "research",
-    "marketing-and-growth"
+    "marketing-and-growth",
+    "writing-and-content"
    ],
    "path": "jobs/marketing/research/seo-wettbewerbsanalyse.md",
    "url": "https://templatesgrokbot.com/bot/seo-wettbewerbsanalyse",
@@ -88338,6 +88768,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "seo-content-refresh-planner",
+   "name": "SEO Content Refresh Planner",
+   "tagline": "Refreshes and updates your website content for SEO and engagement.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/seo-content-refresh-planner.md",
+   "url": "https://templatesgrokbot.com/bot/seo-content-refresh-planner"
+  },
+  {
    "slug": "seo-content-refresher",
    "name": "Seo Content Refresher",
    "tagline": "Analyze content for outdated stats, dates, and examples, then prioritize refresh actions.",
@@ -88373,6 +88821,23 @@
    ],
    "path": "jobs/marketing/marketing-and-growth/seo-content-strategist.md",
    "url": "https://templatesgrokbot.com/bot/seo-content-strategist"
+  },
+  {
+   "slug": "seo-content-strategy-planner",
+   "name": "SEO Content Strategy Planner",
+   "tagline": "Plans and optimizes SEO content from research to performance tracking.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/seo-content-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/seo-content-strategy-planner"
   },
   {
    "slug": "seo-content-writer",
@@ -88525,12 +88990,31 @@
     "it-and-development"
    ],
    "topics": [
-    "research"
+    "research",
+    "marketing-and-growth",
+    "teaching-and-tutoring"
    ],
    "path": "jobs/marketing/research/seo-images.md",
    "url": "https://templatesgrokbot.com/bot/seo-images",
    "adapted_from": "https://github.com/AgriciDaniel/claude-seo",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "seo-keyword-research-assistant",
+   "name": "SEO Keyword Research Assistant",
+   "tagline": "Keyword research assistant for SEO specialists, covering analysis, strategy, and tracking.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/seo-keyword-research-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/seo-keyword-research-assistant"
   },
   {
    "slug": "seo-keyword-strategist",
@@ -88836,12 +89320,47 @@
    ],
    "topics": [
     "coding",
-    "marketing-and-growth"
+    "marketing-and-growth",
+    "security-and-compliance"
    ],
    "path": "jobs/marketing/coding/seo-technical.md",
    "url": "https://templatesgrokbot.com/bot/seo-technical",
    "adapted_from": "https://github.com/AgriciDaniel/claude-seo",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "seo-training-workshop-designer",
+   "name": "SEO Training Workshop Designer",
+   "tagline": "Designs and delivers SEO training and workshops for specialists.",
+   "category": "education",
+   "jobs": [
+    "it-and-development",
+    "marketing",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/teaching-and-tutoring/seo-training-workshop-designer.md",
+   "url": "https://templatesgrokbot.com/bot/seo-training-workshop-designer"
+  },
+  {
+   "slug": "seo-trend-analyzer",
+   "name": "SEO Trend Analyzer",
+   "tagline": "Analyzes SEO trends, audits sites, and reports insights to keep your strategy ahead.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/seo-trend-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/seo-trend-analyzer"
   },
   {
    "slug": "seo-visibility-planner",
@@ -88861,6 +89380,23 @@
    ],
    "path": "jobs/executives-and-strategy/marketing-and-growth/seo-visibility-planner.md",
    "url": "https://templatesgrokbot.com/bot/seo-visibility-planner"
+  },
+  {
+   "slug": "seo-website-design-consultant",
+   "name": "SEO Website Design Consultant",
+   "tagline": "Audits and optimizes websites for SEO, from keywords to technical files.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/seo-website-design-consultant.md",
+   "url": "https://templatesgrokbot.com/bot/seo-website-design-consultant"
   },
   {
    "slug": "seoagent",
@@ -91265,6 +91801,22 @@
    "url": "https://templatesgrokbot.com/bot/software-selection-analyst"
   },
   {
+   "slug": "software-selection-guide",
+   "name": "Software Selection Guide",
+   "tagline": "Guides IT project managers through software selection, from requirements to post-implementation review.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management",
+    "government"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/it-and-development/research/software-selection-guide.md",
+   "url": "https://templatesgrokbot.com/bot/software-selection-guide"
+  },
+  {
    "slug": "soil-and-water-analysis-assistant",
    "name": "Soil and Water Analysis Assistant",
    "tagline": "Plans, interprets, and reports soil and water analyses for environmental consultants.",
@@ -93427,6 +93979,23 @@
    ],
    "path": "jobs/it-and-development/coding/structured-code-troubleshooter.md",
    "url": "https://templatesgrokbot.com/bot/structured-code-troubleshooter"
+  },
+  {
+   "slug": "structured-data-implementation-assistant",
+   "name": "Structured Data Implementation Assistant",
+   "tagline": "Guides SEO specialists through structured data implementation, from schema selection to monitoring.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "generative-code",
+    "teaching-and-tutoring",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/generative-code/structured-data-implementation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/structured-data-implementation-assistant"
   },
   {
    "slug": "student-behavior-management-assistant",
@@ -95927,6 +96496,22 @@
    "url": "https://templatesgrokbot.com/bot/system-integration-planning-assistant"
   },
   {
+   "slug": "system-monitoring-assistant",
+   "name": "System Monitoring Assistant",
+   "tagline": "Continuous system monitoring, alerting, and capacity planning for IT managers.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/system-monitoring-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/system-monitoring-assistant"
+  },
+  {
    "slug": "system-optimization-assistant",
    "name": "System Optimization Assistant",
    "tagline": "Analyzes system data and recommends optimizations for IT support specialists.",
@@ -97221,6 +97806,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "team-communication-enhancer",
+   "name": "Team Communication Enhancer",
+   "tagline": "Assesses, plans, and improves your team's communication with structured tools and strategies.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/productivity/team-communication-enhancer.md",
+   "url": "https://templatesgrokbot.com/bot/team-communication-enhancer"
+  },
+  {
    "slug": "team-composition-analysis",
    "name": "Team Composition Analysis",
    "tagline": "Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups.",
@@ -97492,6 +98094,22 @@
    "url": "https://templatesgrokbot.com/bot/tech-trend-analyst-for-it-support"
   },
   {
+   "slug": "tech-trend-intelligence-assistant",
+   "name": "Tech Trend Intelligence Assistant",
+   "tagline": "Tracks tech trends and turns them into project decisions for IT project managers.",
+   "category": "research",
+   "jobs": [
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/research/tech-trend-intelligence-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tech-trend-intelligence-assistant"
+  },
+  {
    "slug": "tech-trend-monitor",
    "name": "Tech Trend Monitor",
    "tagline": "Monitors technology trends and delivers actionable insights for IT consultants.",
@@ -97623,6 +98241,21 @@
    "url": "https://templatesgrokbot.com/bot/technical-documentation-page-generator",
    "adapted_from": "https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/docs-page",
    "source_license": "Apache-2.0"
+  },
+  {
+   "slug": "technical-documentation-review-assistant",
+   "name": "Technical Documentation Review Assistant",
+   "tagline": "Reviews technical documentation for accuracy, completeness, standards, and clarity, returning actionable feedback and finalized drafts.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/technical-documentation-review-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/technical-documentation-review-assistant"
   },
   {
    "slug": "technical-documentation-reviewer",
@@ -99227,7 +99860,8 @@
     "it-and-development"
    ],
    "topics": [
-    "coding"
+    "coding",
+    "data-analysis"
    ],
    "path": "jobs/it-and-development/coding/test-engineer.md",
    "url": "https://templatesgrokbot.com/bot/test-engineer",
@@ -102295,6 +102929,21 @@
    "url": "https://templatesgrokbot.com/bot/ui-ux-best-practices-advisor"
   },
   {
+   "slug": "ui-ux-feedback-assistant",
+   "name": "UI/UX Feedback Assistant",
+   "tagline": "Evaluates UI/UX, navigation, accessibility, performance, and more with actionable feedback.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "product-development"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/it-and-development/design/ui-ux-feedback-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/ui-ux-feedback-assistant"
+  },
+  {
    "slug": "ultimate-transparent-thinking-beast-mode",
    "name": "Ultimate Transparent Thinking Beast Mode",
    "tagline": "Thinks through problems step by step with full transparency and never stops until done. No shortcuts. No partial work. No asking permission. Just rele",
@@ -103591,6 +104240,22 @@
    "url": "https://templatesgrokbot.com/bot/ux-seo-optimization-assistant"
   },
   {
+   "slug": "ux-seo-site-auditor",
+   "name": "UX SEO Site Auditor",
+   "tagline": "Optimizes website UX and SEO through structured analysis and actionable recommendations.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/ux-seo-site-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/ux-seo-site-auditor"
+  },
+  {
    "slug": "ux-wireframe-and-prototype-assistant",
    "name": "UX Wireframe and Prototype Assistant",
    "tagline": "Turns design briefs into wireframes, prototypes, and test plans for UX designers.",
@@ -104164,6 +104829,24 @@
    "url": "https://templatesgrokbot.com/bot/vendor-research-and-evaluation-assistant"
   },
   {
+   "slug": "vendor-scorecard-builder",
+   "name": "Vendor Scorecard Builder",
+   "tagline": "Evaluates, compares, and monitors IT vendors to support procurement decisions.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management",
+    "legal"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/research/vendor-scorecard-builder.md",
+   "url": "https://templatesgrokbot.com/bot/vendor-scorecard-builder"
+  },
+  {
    "slug": "vendor-security-assessment-assistant",
    "name": "Vendor Security Assessment Assistant",
    "tagline": "Assesses vendor security risks, compliance, and readiness for InfoSec analysts.",
@@ -104453,6 +105136,21 @@
    "url": "https://templatesgrokbot.com/bot/verify-document",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "version-control-best-practices-guide",
+   "name": "Version Control Best Practices Guide",
+   "tagline": "Guides web developers through version control best practices, from branching to CI/CD.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/version-control-best-practices-guide.md",
+   "url": "https://templatesgrokbot.com/bot/version-control-best-practices-guide"
   },
   {
    "slug": "version-control-workflow-assistant",
@@ -104904,6 +105602,22 @@
    "url": "https://templatesgrokbot.com/bot/video-scriptwriting-assistant"
   },
   {
+   "slug": "video-search-visibility-strategist",
+   "name": "Video Search Visibility Strategist",
+   "tagline": "Optimizes video content for search engines and boosts visibility.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/video-search-visibility-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/video-search-visibility-strategist"
+  },
+  {
    "slug": "video-seo-optimizer",
    "name": "Video SEO Optimizer",
    "tagline": "Optimizes video SEO: keywords, titles, descriptions, tags, transcripts, thumbnails, metadata, competitors, sitemaps, embedding, and platform…",
@@ -105088,6 +105802,22 @@
    ],
    "path": "jobs/human-resources/teaching-and-tutoring/virtual-training-facilitator.md",
    "url": "https://templatesgrokbot.com/bot/virtual-training-facilitator"
+  },
+  {
+   "slug": "virtual-workspace-implementation-planner",
+   "name": "Virtual Workspace Implementation Planner",
+   "tagline": "Plan, implement, and manage virtual workspaces for your organization from assessment to continuous improvement.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/virtual-workspace-implementation-planner.md",
+   "url": "https://templatesgrokbot.com/bot/virtual-workspace-implementation-planner"
   },
   {
    "slug": "virtualization-setup-guide",
@@ -105601,6 +106331,24 @@
    "url": "https://templatesgrokbot.com/bot/voice-ai-engine-development",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "voice-search-seo-assistant",
+   "name": "Voice Search SEO Assistant",
+   "tagline": "Voice search SEO assistant that researches, optimizes, and analyzes for better visibility.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/voice-search-seo-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/voice-search-seo-assistant"
   },
   {
    "slug": "voidbeast-gpt41enhanced",
@@ -106299,6 +107047,36 @@
    "source_license": "MIT"
   },
   {
+   "slug": "web-accessibility-compliance-assistant",
+   "name": "Web Accessibility Compliance Assistant",
+   "tagline": "Accessibility audits and fixes for web developers, from alt text to WCAG compliance.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/web-accessibility-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/web-accessibility-compliance-assistant"
+  },
+  {
+   "slug": "web-analytics-insight-assistant",
+   "name": "Web Analytics Insight Assistant",
+   "tagline": "Turns your web analytics data into clear insights and actionable recommendations.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/it-and-development/data-analysis/web-analytics-insight-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/web-analytics-insight-assistant"
+  },
+  {
    "slug": "web-analytics-monitoring-assistant",
    "name": "Web Analytics Monitoring Assistant",
    "tagline": "Turns your web analytics data into clear insights and actions for better marketing decisions.",
@@ -106333,6 +107111,20 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "web-debugging-assistant",
+   "name": "Web Debugging Assistant",
+   "tagline": "Debugging assistant for web developers: interprets errors, reviews code, and plans fixes.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/web-debugging-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/web-debugging-assistant"
+  },
+  {
    "slug": "web-design-guidelines",
    "name": "Web Design Guidelines",
    "tagline": "Audits UI code against the latest Web Interface Guidelines.",
@@ -106351,6 +107143,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "web-dev-cloud-integrator",
+   "name": "Web Dev Cloud Integrator",
+   "tagline": "Guides web developers through integrating cloud services into their applications.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "teaching-and-tutoring",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/web-dev-cloud-integrator.md",
+   "url": "https://templatesgrokbot.com/bot/web-dev-cloud-integrator"
+  },
+  {
    "slug": "web-fiction-de-ai-editor",
    "name": "Web Fiction De-AI Editor",
    "tagline": "检测并清除网文中的AI写作痕迹，让文字回归自然、非模板化。",
@@ -106365,6 +107173,20 @@
    "url": "https://templatesgrokbot.com/bot/web-fiction-de-ai-editor",
    "adapted_from": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/skills/story-deslop",
    "source_license": "MIT"
+  },
+  {
+   "slug": "web-framework-comparison-assistant",
+   "name": "Web Framework Comparison Assistant",
+   "tagline": "Compares web frameworks across performance, security, community, and more to guide your stack choice.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/it-and-development/research/web-framework-comparison-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/web-framework-comparison-assistant"
   },
   {
    "slug": "web-games",
@@ -106475,6 +107297,23 @@
    "url": "https://templatesgrokbot.com/bot/web-scraper",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "web-security-guidance-assistant",
+   "name": "Web Security Guidance Assistant",
+   "tagline": "Guides web developers through secure coding, deployment, and compliance practices.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "cloud-and-devops",
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/web-security-guidance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/web-security-guidance-assistant"
   },
   {
    "slug": "web-security-testing",
@@ -106599,6 +107438,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "webdev-seo-strategist",
+   "name": "WebDev SEO Strategist",
+   "tagline": "SEO optimization assistant for web developers covering research, on-page, content, links, technical, local, analytics, and audits.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/webdev-seo-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/webdev-seo-strategist"
+  },
+  {
    "slug": "webdriverio-skill",
    "name": "Webdriverio",
    "tagline": "Generates WebdriverIO automation tests in JavaScript or TypeScript for local or cloud execution.",
@@ -106699,6 +107556,25 @@
    "path": "jobs/marketing/generative-code/website-builder.md",
    "url": "https://templatesgrokbot.com/bot/website-builder",
    "adapted_from": "https://collectivebrain.de/en/skills/website-builder/"
+  },
+  {
+   "slug": "website-content-manager",
+   "name": "Website Content Manager",
+   "tagline": "Manages your website's content lifecycle from planning to promotion and analytics.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing",
+    "writers",
+    "government"
+   ],
+   "topics": [
+    "writing-and-content",
+    "social-media",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/website-content-manager.md",
+   "url": "https://templatesgrokbot.com/bot/website-content-manager"
   },
   {
    "slug": "website-data-visualization-assistant",

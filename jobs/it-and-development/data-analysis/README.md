@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 224 Grok Bot templates, 164 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 229 Grok Bot templates, 169 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -40,6 +40,7 @@ Clean, query, chart and explain data. 224 Grok Bot templates, 164 of them filed 
 | [Customer Technology Experience Assistant](customer-technology-experience-assistant.md) | Turns customer interaction data into actionable technology experience improvements. |
 | [Dashboard Design](dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
 | [Dask](dask.md) | Scales pandas and NumPy operations to datasets larger than RAM using parallel and distributed computing. |
+| [Data Analysis and Reporting Assistant](data-analysis-and-reporting-assistant.md) | Turns raw project data into clean, analyzed, visualized, and reported insights for IT project managers. |
 | [Data Analysis Workflow Assistant](data-analysis-workflow-assistant.md) | Guides data analysts through cleaning, modeling, and reporting with AI assistance. |
 | [Data Analyst](../../science-and-research/data-analysis/data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
 | [Data Cleaner](data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
@@ -100,6 +101,7 @@ Clean, query, chart and explain data. 224 Grok Bot templates, 164 of them filed 
 | [IT Budget and Cost Optimization Advisor](../../executives-and-strategy/data-analysis/it-budget-and-cost-optimization-advisor.md) | Analyzes IT spending and builds cost-optimization plans for CIOs. |
 | [IT Budget Forecast Assistant](it-budget-forecast-assistant.md) | Forecasts IT budgets, finds savings, and prepares reports for IT managers. |
 | [IT Budget Forecast for Directors](it-budget-forecast-for-directors.md) | Forecast IT budgets, track performance, and communicate insights. |
+| [IT Budget Forecaster](it-budget-forecaster.md) | Forecast, track, and optimize IT project budgets with data-driven analysis. |
 | [IT Budget Forecasting Assistant](it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
 | [IT Budget Optimization Assistant](it-budget-optimization-assistant.md) | Analyzes IT spending and operations to find savings and optimize budget decisions. |
 | [IT Budget Scenario Planner](it-budget-scenario-planner.md) | Turns IT spending history and plans into forecasts, scenarios, and reports for budget decisions. |
@@ -155,6 +157,7 @@ Clean, query, chart and explain data. 224 Grok Bot templates, 164 of them filed 
 | [Podcast Content Analyzer](../../operations/data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
 | [Polars](polars.md) | High-performance DataFrame operations using Polars with lazy evaluation and parallel execution. |
 | [Portfolio Strategy Analyst](portfolio-strategy-analyst.md) | Analyzes investments, builds strategies, and tracks performance for business analysts. |
+| [Post-Project Review Analyst](post-project-review-analyst.md) | Turns post-project reviews into actionable insights, reports, and improvement plans. |
 | [Postgres Best Practices](postgres-best-practices.md) | Optimize Postgres queries, schemas, and configurations against Supabase best practices. |
 | [Postgres Readonly Queries](postgres-readonly-queries.md) | Run safe read-only SQL against PostgreSQL with multi-connection support and write protection. |
 | [Posthog Automation](../../marketing/data-analysis/posthog-automation.md) | Automate PostHog analytics, feature flags, and project management via Rube MCP. |
@@ -192,6 +195,7 @@ Clean, query, chart and explain data. 224 Grok Bot templates, 164 of them filed 
 | [Segment Cdp](segment-cdp.md) | Guides Segment CDP implementation with tracking plans, identity resolution, and data governance best practices. |
 | [Senior Data Engineer](senior-data-engineer.md) | Designs and maintains scalable data pipelines and infrastructure for production data systems. |
 | [Senior Data Scientist](../../science-and-research/data-analysis/senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
+| [SEO Analytics and Reporting Assistant](seo-analytics-and-reporting-assistant.md) | Analyzes SEO data and generates reports and insights for SEO specialists. |
 | [Shap](shap.md) | Explains machine learning model predictions using SHAP values and visualizations. |
 | [Simpy](simpy.md) | Builds and runs discrete-event simulations of systems with queues, resources, and timed processes. |
 | [Smart Grid Integration Planner](../../science-and-research/data-analysis/smart-grid-integration-planner.md) | Analyzes smart grid data and plans grid improvements for energy engineers. |
@@ -226,6 +230,7 @@ Clean, query, chart and explain data. 224 Grok Bot templates, 164 of them filed 
 | [Video Content Extractor](video-content-extractor.md) | Extract text from MP4 videos via key frames and OCR into Markdown reports. |
 | [Warehouse](warehouse.md) | Plan and review read-only warehouse analysis with explicit scope and validation checks. No schema guessing or write operations. Hand off admin, pipeli |
 | [Weaviate](weaviate.md) | Search, query, and manage data in a Weaviate vector database. |
+| [Web Analytics Insight Assistant](web-analytics-insight-assistant.md) | Turns your web analytics data into clear insights and actionable recommendations. |
 | [Website Data Visualization Assistant](website-data-visualization-assistant.md) | Turns website data into clear, interactive visualizations that engage users. |
 | [Wireshark Analysis](wireshark-analysis.md) | Analyze PCAP files with Wireshark filters and statistics for security and performance investigations. |
 | [Xlsx Official](../../finance/data-analysis/xlsx-official.md) | Reads, edits, and creates spreadsheet files with formulas, formatting, and zero errors. |

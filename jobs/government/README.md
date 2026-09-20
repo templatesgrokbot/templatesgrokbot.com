@@ -1,6 +1,6 @@
 # Grok Bot templates for Government
 
-Public services, policy and compliance. **422 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Public services, policy and compliance. **426 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,10 +13,10 @@ Public services, policy and compliance. **422 ready-made Grok Bot templates** fo
 |---|---:|
 | [Security & Compliance](security-and-compliance/README.md) | 135 |
 | [Data Analysis](data-analysis/README.md) | 112 |
-| [Productivity](productivity/README.md) | 57 |
-| [Research](research/README.md) | 39 |
-| [Writing & Content](writing-and-content/README.md) | 31 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 13 |
+| [Productivity](productivity/README.md) | 58 |
+| [Research](research/README.md) | 40 |
+| [Writing & Content](writing-and-content/README.md) | 32 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 14 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
 | [Knowledge Management](knowledge-management/README.md) | 7 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
@@ -71,7 +71,7 @@ Public services, policy and compliance. **422 ready-made Grok Bot templates** fo
 | [Crisis Management Executive Assistant](../executives-and-strategy/productivity/crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
 | [Strategic IT Planning Assistant](../it-and-development/productivity/strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
 
-[All 57 Productivity templates →](productivity/README.md)
+[All 58 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -86,7 +86,7 @@ Public services, policy and compliance. **422 ready-made Grok Bot templates** fo
 | [Infection Control Strategist](../science-and-research/research/infection-control-strategist.md) | Infection control research, policy, training, and outbreak response support for microbiologists. |
 | [Tax Code Interpretation Assistant](../finance/research/tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |
 
-[All 39 Research templates →](research/README.md)
+[All 40 Research templates →](research/README.md)
 
 ## Writing & Content
 
@@ -101,7 +101,7 @@ Public services, policy and compliance. **422 ready-made Grok Bot templates** fo
 | [IT Policy Development Assistant](../it-and-development/writing-and-content/it-policy-development-assistant.md) | Develops, reviews, and maintains IT policies from research to implementation. |
 | [Systems Documentation Assistant](../it-and-development/writing-and-content/systems-documentation-assistant.md) | Turns system admin notes into clear, structured documentation and reports. |
 
-[All 31 Writing & Content templates →](writing-and-content/README.md)
+[All 32 Writing & Content templates →](writing-and-content/README.md)
 
 ## Cloud & DevOps
 
@@ -116,7 +116,7 @@ Public services, policy and compliance. **422 ready-made Grok Bot templates** fo
 | [Data Backup Strategy Planner](../it-and-development/cloud-and-devops/data-backup-strategy-planner.md) | Designs, audits, and maintains your organization's data backup strategy end to end. |
 | [Disaster Recovery Planner](../executives-and-strategy/cloud-and-devops/disaster-recovery-planner.md) | Builds and maintains your disaster recovery plan, from risk assessment to continuous improvement. |
 
-[All 13 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 14 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Teaching & Tutoring
 

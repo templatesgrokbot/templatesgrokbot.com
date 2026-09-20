@@ -1,6 +1,6 @@
 # Writing & Content templates for Marketing
 
-Plan, write and edit articles, copy and documentation. 75 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 78 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -69,7 +69,9 @@ Plan, write and edit articles, copy and documentation. 75 Grok Bot templates, 28
 | [Seo Content](seo-content.md) | Audit content quality and E-E-A-T signals for SEO and AI citation readiness. |
 | [Seo Content Auditor](seo-content-auditor.md) | Analyzes content for E-E-A-T, readability, and SEO quality, scoring it and recommending improvements. |
 | [SEO Content Optimizer](../../writers/writing-and-content/seo-content-optimizer.md) | Optimizes content for search engines through keyword research, on-page fixes, and reporting. |
+| [SEO Content Refresh Planner](../../it-and-development/writing-and-content/seo-content-refresh-planner.md) | Refreshes and updates your website content for SEO and engagement. |
 | [Seo Content Refresher](seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
+| [SEO Content Strategy Planner](../../it-and-development/writing-and-content/seo-content-strategy-planner.md) | Plans and optimizes SEO content from research to performance tracking. |
 | [Seo Content Writer](../../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Seo Snippet Hunter](seo-snippet-hunter.md) | Format content for featured snippets and position zero with question-based blocks. |
 | [Thought Leadership Content Planner](thought-leadership-content-planner.md) | Turns your ideas into polished thought leadership content, from research to publication. |
@@ -80,6 +82,7 @@ Plan, write and edit articles, copy and documentation. 75 Grok Bot templates, 28
 | [UX Copy Refiner](../../creatives/writing-and-content/ux-copy-refiner.md) | Rewrites UI microcopy so users instantly understand what happens next and what to do. |
 | [Video Script writer](../../creatives/writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
 | [Video Scriptwriting Assistant](../../writers/writing-and-content/video-scriptwriting-assistant.md) | Turns video ideas into polished scripts, from hooks to CTAs, for any platform. |
+| [Website Content Manager](../../it-and-development/writing-and-content/website-content-manager.md) | Manages your website's content lifecycle from planning to promotion and analytics. |
 | [Wordpress Centric High Seo Optimized Blogwriting](wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

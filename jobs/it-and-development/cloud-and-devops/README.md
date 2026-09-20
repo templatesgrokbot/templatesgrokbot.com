@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 447 Grok Bot templates, 432 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 452 Grok Bot templates, 437 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -243,6 +243,7 @@ Infrastructure, deployments, monitoring and incident response. 447 Grok Bot temp
 | [Incident Responder](incident-responder.md) | Assess severity, stabilize systems, coordinate communication, and produce blameless post-incident reports. |
 | [Incident Response Coordinator](../../management/cloud-and-devops/incident-response-coordinator.md) | Coordinates incident response: triage, communication, documentation, analysis, and continuous improvement for service managers. |
 | [Incident Response Incident Response](incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
+| [Incident Response Plan Assistant](incident-response-plan-assistant.md) | Incident response assistant for IT managers: detect, analyze, document, and improve your response plan. |
 | [Incident Response Smart Fix](incident-response-smart-fix.md) | Diagnose and resolve production incidents with multi-agent orchestration. |
 | [Incident Runbook Templates](../../operations/cloud-and-devops/incident-runbook-templates.md) | Generate incident response runbooks with detection, triage, and mitigation steps. |
 | [Infrastructure Assessment Advisor](infrastructure-assessment-advisor.md) | Assesses IT infrastructure across network, servers, storage, security, cloud, and more, delivering actionable reports. |
@@ -412,6 +413,7 @@ Infrastructure, deployments, monitoring and incident response. 447 Grok Bot temp
 | [Sysadmin Incident Lifecycle Copilot](sysadmin-incident-lifecycle-copilot.md) | Handles incident triage, documentation, communication, analysis, and training for systems administrators. |
 | [System Administration Guidance Assistant](system-administration-guidance-assistant.md) | Guides IT specialists through system administration tasks with step-by-step instructions and best practices. |
 | [System Architecture Design Assistant](system-architecture-design-assistant.md) | Designs and refines IT system architectures from requirements to deployment. |
+| [System Monitoring Assistant](system-monitoring-assistant.md) | Continuous system monitoring, alerting, and capacity planning for IT managers. |
 | [System Optimization Assistant](system-optimization-assistant.md) | Analyzes system data and recommends optimizations for IT support specialists. |
 | [System Upgrade Coordinator](../../customer-support/cloud-and-devops/system-upgrade-coordinator.md) | Plans, executes, and supports system upgrades with minimal disruption. |
 | [Technology Integration Coordinator](../../management/cloud-and-devops/technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |
@@ -437,14 +439,17 @@ Infrastructure, deployments, monitoring and incident response. 447 Grok Bot temp
 | [Vercel Deployment](vercel-deployment.md) | Guides Next.js deployment to Vercel with env config and runtime choices. |
 | [Vercel Deployment Specialist](vercel-deployment-specialist.md) | Configures and deploys projects to Vercel with edge functions, performance tuning, and monitoring. |
 | [Vercel Optimize](vercel-optimize.md) | Audit Vercel apps for cost and performance using metrics, config, and code scans. |
+| [Version Control Best Practices Guide](version-control-best-practices-guide.md) | Guides web developers through version control best practices, from branching to CI/CD. |
 | [Version Control Workflow Assistant](version-control-workflow-assistant.md) | Guides software engineers through version control workflows, from branching to CI/CD, with practical advice and automation support. |
 | [Vexor Cli](vexor-cli.md) | Semantic file discovery in large repos via vexor CLI. |
+| [Virtual Workspace Implementation Planner](virtual-workspace-implementation-planner.md) | Plan, implement, and manage virtual workspaces for your organization from assessment to continuous improvement. |
 | [Virtualization Setup Guide](virtualization-setup-guide.md) | Guides IT specialists through virtualization setup, management, and optimization. |
 | [Virtualization Strategy Planner](virtualization-strategy-planner.md) | Plans and manages virtualization strategy from assessment to ongoing optimization. |
 | [VLAN Configuration Assistant](vlan-configuration-assistant.md) | Design, configure, troubleshoot, and document VLANs across your network. |
 | [VPN Configuration and Management Assistant](vpn-configuration-and-management-assistant.md) | Configures, troubleshoots, secures, and optimizes VPNs with step-by-step guidance. |
 | [VPN Infrastructure Manager](vpn-infrastructure-manager.md) | Guides VPN setup, management, and security for network administrators. |
 | [Vps Server Management](vps-server-management.md) | Manage authorized VPS hosts and server-side agents via SSH and cautious operations workflows. |
+| [Web Dev Cloud Integrator](web-dev-cloud-integrator.md) | Guides web developers through integrating cloud services into their applications. |
 | [Web Scraper](web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
 | [WhatsApp Cloud API](whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |
 | [Windows Infra Admin](windows-infra-admin.md) | Automates safe Windows Server, AD, DNS, DHCP, and GPO changes with pre-flight validation and rollback. |

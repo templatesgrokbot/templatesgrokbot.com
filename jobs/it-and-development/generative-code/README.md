@@ -1,6 +1,6 @@
 # Generative Code templates for IT and Development
 
-Scaffold apps, components and whole projects from a brief. 89 Grok Bot templates, 77 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 90 Grok Bot templates, 78 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -76,6 +76,7 @@ Scaffold apps, components and whole projects from a brief. 89 Grok Bot templates
 | [Shopify Development](shopify-development.md) | Build Shopify apps, extensions, themes, and integrations using official APIs and tools. |
 | [Skeuomorphism](../../creatives/generative-code/skeuomorphism.md) | Generates UI code that mimics real-world objects and physical textures. |
 | [Stitch Loop](stitch-loop.md) | Autonomous iterative website builder using Stitch and a baton-passing loop pattern. |
+| [Structured Data Implementation Assistant](structured-data-implementation-assistant.md) | Guides SEO specialists through structured data implementation, from schema selection to monitoring. |
 | [Subagent Driven Development](subagent-driven-development.md) | Execute implementation plans by dispatching a fresh subagent per task with two-stage review. |
 | [Technical Documentation Page Generator](technical-documentation-page-generator.md) | Generates a three-column technical documentation page with navigation, article body, and table of contents. |
 | [Three.js Essentials](threejs-skills.md) | Build 3D scenes and interactive WebGL experiences with Three.js. |

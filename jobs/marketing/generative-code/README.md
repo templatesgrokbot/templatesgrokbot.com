@@ -1,6 +1,6 @@
 # Generative Code templates for Marketing
 
-Scaffold apps, components and whole projects from a brief. 10 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 11 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Scaffold apps, components and whole projects from a brief. 10 Grok Bot templates
 | [Magazine Article Formatter](../../writers/generative-code/magazine-article-formatter.md) | Turns Markdown drafts into polished magazine-style HTML for blogs and newsletters. — 将 Markdown 草稿转为适合博客和新闻通讯的杂志风格 HTML。 |
 | [Product Launch Email Builder](product-launch-email-builder.md) | Builds a 600px single-column HTML product launch email with table fallback. |
 | [Screenshots](screenshots.md) | Generate HiDPI marketing screenshots of your app using Playwright. |
+| [Structured Data Implementation Assistant](../../it-and-development/generative-code/structured-data-implementation-assistant.md) | Guides SEO specialists through structured data implementation, from schema selection to monitoring. |
 | [Webflow Automation](../../it-and-development/generative-code/webflow-automation.md) | Automate Webflow CMS, publishing, pages, assets, and ecommerce via Rube MCP. |
 | [Website Builder (Landing Page Component System)](website-builder.md) | Builds landing pages from a component library and saves them as WordPress drafts. |
 

@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 208 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 211 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -59,6 +59,7 @@ Clean, query, chart and explain data. 208 Grok Bot templates, 96 of them filed i
 | [Customer Sentiment Analyst](customer-sentiment-analyst.md) | Analyzes customer sentiment across channels to guide e-commerce decisions. |
 | [Customer Service Improvement Planner](../../executives-and-strategy/data-analysis/customer-service-improvement-planner.md) | Turns customer service data and workflows into actionable improvements for your operations. |
 | [Dashboard Design](../../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
+| [Data Analysis and Reporting Assistant](../../it-and-development/data-analysis/data-analysis-and-reporting-assistant.md) | Turns raw project data into clean, analyzed, visualized, and reported insights for IT project managers. |
 | [Data Visualization Presentation Assistant](data-visualization-presentation-assistant.md) | Turns raw data into clear, compelling visuals and narratives for client presentations. |
 | [Defect Root Cause Reports](../../operations/data-analysis/defect-root-cause-reports.md) | Analyzes quality control data, finds defects and root causes, and drafts improvement plans for operations managers. |
 | [Demand Forecasting Analyst](demand-forecasting-analyst.md) | Forecasts product demand from market data, sentiment, and trends for market research managers. |
@@ -106,6 +107,7 @@ Clean, query, chart and explain data. 208 Grok Bot templates, 96 of them filed i
 | [Inventory Manager Supplier Risk Scorecard](../../operations/data-analysis/inventory-manager-supplier-risk-scorecard.md) | Evaluates supplier performance, flags risks, and drives improvement plans for inventory managers. |
 | [Inventory Optimization Assistant](inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
 | [IT Budget Forecast Assistant](../../it-and-development/data-analysis/it-budget-forecast-assistant.md) | Forecasts IT budgets, finds savings, and prepares reports for IT managers. |
+| [IT Budget Forecaster](../../it-and-development/data-analysis/it-budget-forecaster.md) | Forecast, track, and optimize IT project budgets with data-driven analysis. |
 | [IT Budget Scenario Planner](../../it-and-development/data-analysis/it-budget-scenario-planner.md) | Turns IT spending history and plans into forecasts, scenarios, and reports for budget decisions. |
 | [IT Cost Forecaster for Managers](../../it-and-development/data-analysis/it-cost-forecaster-for-managers.md) | Analyzes IT costs, forecasts, and optimizes budgets for technology managers. |
 | [IT Support Optimization Assistant](../../it-and-development/data-analysis/it-support-optimization-assistant.md) | Optimize global IT customer support through AI-driven analysis, automation, and proactive issue resolution. |
@@ -135,6 +137,7 @@ Clean, query, chart and explain data. 208 Grok Bot templates, 96 of them filed i
 | [Performance Metrics Manager](performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Pipeline Health Analyzer](../../sales/data-analysis/pipeline-health-analyzer.md) | Analyze pipeline health, flag stalled deals, forecast closes, and prescribe next actions. |
 | [Post-Project Analysis Assistant](post-project-analysis-assistant.md) | Turns completed project data into a lessons-learned report and future-project recommendations. |
+| [Post-Project Review Analyst](../../it-and-development/data-analysis/post-project-review-analyst.md) | Turns post-project reviews into actionable insights, reports, and improvement plans. |
 | [Predictive Maintenance Scheduler](predictive-maintenance-scheduler.md) | Analyzes equipment data, predicts failures, and schedules maintenance to maximize uptime. |
 | [Pricing Strategy Analyst](pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
 | [Process Reengineering Consultant](process-reengineering-consultant.md) | Maps, analyzes, and improves business processes for management consultants. |

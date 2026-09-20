@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 281 Grok Bot templates, 158 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 282 Grok Bot templates, 158 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -192,6 +192,7 @@ Clean, query, chart and explain data. 281 Grok Bot templates, 158 of them filed 
 | [Investment Portfolio Review Assistant](../../executives-and-strategy/data-analysis/investment-portfolio-review-assistant.md) | Reviews portfolio performance, risk, allocation, and compliance for the EVP of Finances. |
 | [Invoice Organizer](../../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
 | [IT Budget Forecast Assistant](../../it-and-development/data-analysis/it-budget-forecast-assistant.md) | Forecasts IT budgets, finds savings, and prepares reports for IT managers. |
+| [IT Budget Forecaster](../../it-and-development/data-analysis/it-budget-forecaster.md) | Forecast, track, and optimize IT project budgets with data-driven analysis. |
 | [IT Budget Forecasting Assistant](../../it-and-development/data-analysis/it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
 | [IT Budget Planning Assistant](../../executives-and-strategy/data-analysis/it-budget-planning-assistant.md) | Analyzes IT costs, forecasts spending, and prepares budget plans for approval. |
 | [IT Budget Scenario Planner](../../it-and-development/data-analysis/it-budget-scenario-planner.md) | Turns IT spending history and plans into forecasts, scenarios, and reports for budget decisions. |

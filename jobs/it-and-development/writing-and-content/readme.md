@@ -1,6 +1,6 @@
 # Writing & Content templates for IT and Development
 
-Plan, write and edit articles, copy and documentation. 42 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -39,14 +39,18 @@ Plan, write and edit articles, copy and documentation. 42 Grok Bot templates, 29
 | [Resume Formatter](../../human-resources/writing-and-content/resume-formatter.md) | Reformats resumes for ATS compatibility and clean, scannable layouts. |
 | [Resume Section Builder](../../human-resources/writing-and-content/resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
 | [Se Technical Writer](se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
+| [SEO Content Refresh Planner](seo-content-refresh-planner.md) | Refreshes and updates your website content for SEO and engagement. |
+| [SEO Content Strategy Planner](seo-content-strategy-planner.md) | Plans and optimizes SEO content from research to performance tracking. |
 | [Software Documentation Assistant](software-documentation-assistant.md) | Documentation assistant for software developers creating clear, consistent code and user docs. |
 | [System Requirements Analysis Assistant](system-requirements-analysis-assistant.md) | Turns raw stakeholder input into clear, validated system requirements for systems analysts. |
 | [Systems Documentation Assistant](systems-documentation-assistant.md) | Turns system admin notes into clear, structured documentation and reports. |
 | [Tech Resume Optimizer](tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 | [Technical Documentation Assistant](../../product-development/writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
+| [Technical Documentation Review Assistant](technical-documentation-review-assistant.md) | Reviews technical documentation for accuracy, completeness, standards, and clarity, returning actionable feedback and finalized drafts. |
 | [Technical Writer](../../writers/writing-and-content/technical-writer.md) | Creates and improves technical documentation for APIs, SDKs, and user guides. |
 | [Troubleshooting Guide Builder](troubleshooting-guide-builder.md) | Turns IT knowledge into complete, user-ready troubleshooting guides. |
 | [Unslop](../../writers/writing-and-content/unslop.md) | Post-process AI text through unslop CLI to strip AI writing patterns before publishing. |
+| [Website Content Manager](website-content-manager.md) | Manages your website's content lifecycle from planning to promotion and analytics. |
 | [Wiki Page Writer](wiki-page-writer.md) | Generate technical documentation pages with code-traced depth and Mermaid diagrams. |
 
 [← All IT and Development templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/it-and-development)

@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 127 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 129 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -119,6 +119,7 @@ Clean, query, chart and explain data. 127 Grok Bot templates, 30 of them filed i
 | [Reddit Thread Analyzer](reddit-thread-analyzer.md) | Analyze Reddit threads for sentiment, key arguments, and community consensus. |
 | [Segment Blueprint for Analysts](../../it-and-development/data-analysis/segment-blueprint-for-analysts.md) | Guides business analysts through customer segmentation from data to action. |
 | [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
+| [SEO Analytics and Reporting Assistant](../../it-and-development/data-analysis/seo-analytics-and-reporting-assistant.md) | Analyzes SEO data and generates reports and insights for SEO specialists. |
 | [Social Engagement Insights Analyst](social-engagement-insights-analyst.md) | Turns your social media engagement data into actionable strategy insights and campaign recommendations. |
 | [Social Media Analytics and Reporting Assistant](social-media-analytics-and-reporting-assistant.md) | Turns social media metrics into clear reports, insights, and recommendations for your marketing decisions. |
 | [Social Media Analytics Insight Engine](../../executives-and-strategy/data-analysis/social-media-analytics-insight-engine.md) | Turns social media data into actionable marketing insights for a global head of marketing. |
@@ -130,6 +131,7 @@ Clean, query, chart and explain data. 127 Grok Bot templates, 30 of them filed i
 | [Supply Chain Impact Assessor](../../management/data-analysis/supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |
 | [Talivia Agent Kit](talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Trend Analysis Content Assistant](../../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
+| [Web Analytics Insight Assistant](../../it-and-development/data-analysis/web-analytics-insight-assistant.md) | Turns your web analytics data into clear insights and actionable recommendations. |
 | [Web Analytics Monitoring Assistant](../../sales/data-analysis/web-analytics-monitoring-assistant.md) | Turns your web analytics data into clear insights and actions for better marketing decisions. |
 | [Website Analytics Optimizer](../../sales/data-analysis/website-analytics-optimizer.md) | Analyzes website data and delivers optimization recommendations for digital marketing specialists. |
 | [X Twitter Scraper](../../operations/data-analysis/x-twitter-scraper.md) | X data extraction and giveaway draws via the Xquik API, read-only. |

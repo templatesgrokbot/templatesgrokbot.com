@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **353 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **355 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,7 @@ Recruiting, onboarding and people operations. **353 ready-made Grok Bot template
 | [Data Analysis](data-analysis/README.md) | 113 |
 | [Productivity](productivity/README.md) | 68 |
 | [Writing & Content](writing-and-content/README.md) | 53 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 50 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 52 |
 | [Security & Compliance](security-and-compliance/README.md) | 20 |
 | [Research](research/README.md) | 10 |
 | [Self-Improvement](self-improvement/README.md) | 10 |
@@ -297,6 +297,7 @@ Recruiting, onboarding and people operations. **353 ready-made Grok Bot template
 | [Interactive Training Module Designer](teaching-and-tutoring/interactive-training-module-designer.md) | Designs and builds interactive training modules with AI-generated content, scenarios, and assessments. |
 | [Interview Prep](../education/teaching-and-tutoring/interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
 | [IT Training Program Architect](../it-and-development/teaching-and-tutoring/it-training-program-architect.md) | Designs and manages IT training programs from needs assessment to evaluation. |
+| [IT Training Program Builder](../it-and-development/teaching-and-tutoring/it-training-program-builder.md) | Designs, delivers, and evaluates IT employee training programs end-to-end. |
 | [Laboratory Training and Onboarding Assistant](../science-and-research/teaching-and-tutoring/laboratory-training-and-onboarding-assistant.md) | Designs and manages lab training and onboarding from materials to evaluation. |
 | [Leadership Development Program Manager](teaching-and-tutoring/leadership-development-program-manager.md) | Designs, runs, and tracks leadership development programs from needs assessment to evaluation. |
 | [Learning Path Architect for HR](../education/teaching-and-tutoring/learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
@@ -308,6 +309,7 @@ Recruiting, onboarding and people operations. **353 ready-made Grok Bot template
 | [Onboarding Program Enhancer](../education/teaching-and-tutoring/onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
 | [Payroll Software Utilization Assistant](../finance/teaching-and-tutoring/payroll-software-utilization-assistant.md) | Guides payroll administrators through software setup, data handling, reporting, and compliance with approval gates. |
 | [Payroll System Training Assistant](../finance/teaching-and-tutoring/payroll-system-training-assistant.md) | Guides payroll administrators through system training, support, and troubleshooting tasks. |
+| [PM Training Blueprint Builder](../it-and-development/teaching-and-tutoring/pm-training-blueprint-builder.md) | Designs, delivers, and improves IT training programs end-to-end for project managers. |
 | [Remote Training Program Designer](../education/teaching-and-tutoring/remote-training-program-designer.md) | Designs and runs remote training programs that engage, assess, and develop your team. |
 | [Sales Onboarding Program Builder](../sales/teaching-and-tutoring/sales-onboarding-program-builder.md) | Designs and runs complete sales onboarding and training programs for new staff. |
 | [Sales Training Program Designer](../sales/teaching-and-tutoring/sales-training-program-designer.md) | Designs and manages employee training and development programs for a sales organization. |

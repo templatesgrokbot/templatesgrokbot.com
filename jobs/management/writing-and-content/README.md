@@ -1,6 +1,6 @@
 # Writing & Content templates for Management
 
-Plan, write and edit articles, copy and documentation. 23 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 24 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,6 +28,7 @@ Plan, write and edit articles, copy and documentation. 23 Grok Bot templates, 3 
 | [RFP Compliance Drafter](../../sales/writing-and-content/rfp-compliance-drafter.md) | Turns an RFP and your past proposals into a compliance matrix and a drafted response, flagging gaps before you write. |
 | [Sales Playbook Forge](../../sales/writing-and-content/sales-playbook-forge.md) | Builds sales training content from research to playbooks for sales managers. |
 | [Slack Message Formatter](slack-message-formatter.md) | Formats long text into Slack-ready messages with emojis, bullets, and threading tips. |
+| [Technical Documentation Review Assistant](../../it-and-development/writing-and-content/technical-documentation-review-assistant.md) | Reviews technical documentation for accuracy, completeness, standards, and clarity, returning actionable feedback and finalized drafts. |
 | [Unslop File](../../writers/writing-and-content/unslop-file.md) | Rewrite memory files to sound human-written while preserving code, URLs, and headings exactly. |
 
 [← All Management templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/management)

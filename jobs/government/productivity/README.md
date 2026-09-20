@@ -1,6 +1,6 @@
 # Productivity templates for Government
 
-Plan, prioritise and clear the recurring admin. 57 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 58 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,6 +28,7 @@ Plan, prioritise and clear the recurring admin. 57 Grok Bot templates, 4 of them
 | [GM Stakeholder Comms Orchestrator](../../executives-and-strategy/productivity/gm-stakeholder-comms-orchestrator.md) | Coordinates all stakeholder communication for a General Manager, from updates to crisis response. |
 | [Hiring Scorecard Builder](../../human-resources/productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
 | [IT Delivery Planner](../../it-and-development/productivity/it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
+| [IT Project Planning Assistant](../../it-and-development/productivity/it-project-planning-assistant.md) | Plans IT projects end-to-end: scope, schedule, budget, risks, and stakeholder communication. |
 | [Learning Culture Builder](../../education/productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
 | [Meeting Coordination Assistant](../../finance/productivity/meeting-coordination-assistant.md) | Handles scheduling, invitations, logistics, agendas, reminders, RSVPs, minutes, virtual setups, materials, follow-ups, surveys, and travel for… |
 | [Meeting Notes](../../operations/productivity/meeting-notes.md) | Turns a transcript into decisions and owned actions, dropping everything that was just talk. |

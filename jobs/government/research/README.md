@@ -1,6 +1,6 @@
 # Research templates for Government
 
-Find sources, compare evidence and summarise what is known. 39 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 40 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -36,6 +36,7 @@ Find sources, compare evidence and summarise what is known. 39 Grok Bot template
 | [Rumor and Misinformation Manager](../../pr-and-communications/research/rumor-and-misinformation-manager.md) | Tracks, debunks, and counters rumors and misinformation for crisis communications teams. |
 | [Scenario Architect for Strategy Directors](../../executives-and-strategy/research/scenario-architect-for-strategy-directors.md) | Turns foresight into strategy: builds, tests, and communicates future scenarios for Directors of Strategy. |
 | [Social Welfare Evaluation Planner](social-welfare-evaluation-planner.md) | Evaluates social welfare programs to guide policy decisions with evidence. |
+| [Software Selection Guide](../../it-and-development/research/software-selection-guide.md) | Guides IT project managers through software selection, from requirements to post-implementation review. |
 | [Supplier Evaluation and Management Assistant](../../operations/research/supplier-evaluation-and-management-assistant.md) | Evaluates and manages suppliers from identification through performance monitoring and improvement. |
 | [Supplier Research and Analysis Assistant](../../operations/research/supplier-research-and-analysis-assistant.md) | Finds, vets, and manages suppliers with data-backed analysis and clear recommendations. |
 | [Survey Research Assistant](../../science-and-research/research/survey-research-assistant.md) | Builds, distributes, analyzes, and reports surveys for research studies. |

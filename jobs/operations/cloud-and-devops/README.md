@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Operations
 
-Infrastructure, deployments, monitoring and incident response. 195 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 196 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -181,6 +181,7 @@ Infrastructure, deployments, monitoring and incident response. 195 Grok Bot temp
 | [Sre Engineer](../../it-and-development/cloud-and-devops/sre-engineer.md) | Define SLOs, manage error budgets, and reduce toil for system reliability. |
 | [Sshepherd](../../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
 | [Status](../../it-and-development/cloud-and-devops/status.md) | Check Railway project status, deployments, and uptime for this directory. |
+| [System Monitoring Assistant](../../it-and-development/cloud-and-devops/system-monitoring-assistant.md) | Continuous system monitoring, alerting, and capacity planning for IT managers. |
 | [Tech Stack Evaluation Assistant](tech-stack-evaluation-assistant.md) | Evaluates and optimizes your company's tech stack for performance, cost, security, and future readiness. |
 | [Technology Integration Coordinator](../../management/cloud-and-devops/technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |
 | [Technology Integration Operations Assistant](technology-integration-operations-assistant.md) | Guides technology integration from evaluation to optimization for operations leaders. |

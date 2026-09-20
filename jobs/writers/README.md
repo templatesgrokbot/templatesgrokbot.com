@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **195 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **196 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Authors, copywriters, editors and journalists. **195 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 110 |
+| [Writing & Content](writing-and-content/README.md) | 111 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 22 |
 | [Research](research/README.md) | 20 |
 | [Data Analysis](data-analysis/README.md) | 7 |
@@ -141,6 +141,7 @@ Authors, copywriters, editors and journalists. **195 ready-made Grok Bot templat
 | [Video Script writer](../creatives/writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
 | [Video Scriptwriting Assistant](writing-and-content/video-scriptwriting-assistant.md) | Turns video ideas into polished scripts, from hooks to CTAs, for any platform. |
 | [Web Fiction De-AI Editor](writing-and-content/web-fiction-de-ai-editor.md) | 检测并清除网文中的AI写作痕迹，让文字回归自然、非模板化。 |
+| [Website Content Manager](../it-and-development/writing-and-content/website-content-manager.md) | Manages your website's content lifecycle from planning to promotion and analytics. |
 | [Wiki Page Writer](../it-and-development/writing-and-content/wiki-page-writer.md) | Generate technical documentation pages with code-traced depth and Mermaid diagrams. |
 | [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
 | [World-Building Assistant for Scriptwriters](writing-and-content/world-building-assistant-for-scriptwriters.md) | Build immersive fictional worlds with structured brainstorming for settings, cultures, magic, and history. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,909 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,963 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,21 +11,21 @@ Engineers, DevOps, security and IT teams. **2,909 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Coding](coding/README.md) | 1,049 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 447 |
-| [Security & Compliance](security-and-compliance/README.md) | 320 |
-| [Data Analysis](data-analysis/README.md) | 224 |
+| [Coding](coding/README.md) | 1,053 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 452 |
+| [Security & Compliance](security-and-compliance/README.md) | 322 |
+| [Data Analysis](data-analysis/README.md) | 229 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 216 |
-| [Design](design/README.md) | 106 |
-| [Research](research/README.md) | 105 |
-| [Productivity](productivity/README.md) | 103 |
-| [Generative Code](generative-code/README.md) | 89 |
+| [Productivity](productivity/README.md) | 112 |
+| [Research](research/README.md) | 110 |
+| [Design](design/README.md) | 108 |
+| [Generative Code](generative-code/README.md) | 90 |
 | [Knowledge Management](knowledge-management/README.md) | 46 |
-| [Writing & Content](writing-and-content/README.md) | 42 |
+| [Writing & Content](writing-and-content/README.md) | 46 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 35 |
 | [Prompt Engineering](prompt-engineering/README.md) | 33 |
 | [Support & Community](support-and-community/README.md) | 29 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 23 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 22 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 27 |
 | [Generative Art](generative-art/README.md) | 13 |
 | [Office Tools](office-tools/README.md) | 11 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
@@ -50,7 +50,7 @@ Engineers, DevOps, security and IT teams. **2,909 ready-made Grok Bot templates*
 | [Thinking Beast Mode](coding/thinking-beast-mode.md) | Drives multi-step engineering tasks to full completion with visible todo tracking. |
 | [Apify Integration Expert](coding/apify-integration-expert.md) | Integrates Apify Actors into codebases for scraping and automation. |
 
-[All 1,049 Coding templates →](coding/README.md)
+[All 1,053 Coding templates →](coding/README.md)
 
 ## Cloud & DevOps
 
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,909 ready-made Grok Bot templates*
 | [Zapier Make Patterns](cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 447 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 452 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Security & Compliance
 
@@ -80,7 +80,7 @@ Engineers, DevOps, security and IT teams. **2,909 ready-made Grok Bot templates*
 | [Ad Security Reviewer](security-and-compliance/ad-security-reviewer.md) | Audits Active Directory security posture and identifies privilege escalation risks from exported evidence. |
 | [Smart Contract Auditor](security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
 
-[All 320 Security & Compliance templates →](security-and-compliance/README.md)
+[All 322 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Data Analysis
 
@@ -95,7 +95,7 @@ Engineers, DevOps, security and IT teams. **2,909 ready-made Grok Bot templates*
 | [Plotly](data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Nosql Specialist](data-analysis/nosql-specialist.md) | Designs and optimizes NoSQL databases for MongoDB, Redis, Cassandra, and key-value stores. |
 
-[All 224 Data Analysis templates →](data-analysis/README.md)
+[All 229 Data Analysis templates →](data-analysis/README.md)
 
 ## Generative AI and LLM
 
@@ -112,20 +112,20 @@ Engineers, DevOps, security and IT teams. **2,909 ready-made Grok Bot templates*
 
 [All 216 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
-## Design
+## Productivity
 
 | Template | What it does |
 |---|---|
-| [Bento Ui](../creatives/design/bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
-| [Spatial Computing Ui](design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
-| [Gradient Design](../creatives/design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
-| [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
-| [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
-| [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
-| [Ux Flow](../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
-| [Design System](design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
+| [Linear Automation](productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
+| [Markitdown](../operations/productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
+| [Diary](../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
+| [Obsidian Clipper Template Creator](../operations/productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
+| [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
+| [Mac Storage Cleaner](productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
+| [Sendblue Cli](productivity/sendblue-cli.md) | Send iMessage and SMS from the shell using the Sendblue CLI. |
+| [Planning With Files](../management/productivity/planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
 
-[All 106 Design templates →](design/README.md)
+[All 112 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -140,22 +140,22 @@ Engineers, DevOps, security and IT teams. **2,909 ready-made Grok Bot templates*
 | [Esm](../science-and-research/research/esm.md) | Designs and analyzes proteins using ESM language models for sequence, structure, and function tasks. |
 | [Lightning Architecture Review](research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 
-[All 105 Research templates →](research/README.md)
+[All 110 Research templates →](research/README.md)
 
-## Productivity
+## Design
 
 | Template | What it does |
 |---|---|
-| [Linear Automation](productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
-| [Markitdown](../operations/productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
-| [Diary](../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
-| [Obsidian Clipper Template Creator](../operations/productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
-| [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
-| [Mac Storage Cleaner](productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
-| [Sendblue Cli](productivity/sendblue-cli.md) | Send iMessage and SMS from the shell using the Sendblue CLI. |
-| [Planning With Files](../management/productivity/planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
+| [Bento Ui](../creatives/design/bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
+| [Spatial Computing Ui](design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
+| [Gradient Design](../creatives/design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
+| [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
+| [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
+| [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
+| [Ux Flow](../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
+| [Design System](design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
 
-[All 103 Productivity templates →](productivity/README.md)
+[All 108 Design templates →](design/README.md)
 
 ## Generative Code
 
@@ -170,7 +170,7 @@ Engineers, DevOps, security and IT teams. **2,909 ready-made Grok Bot templates*
 | [Angular](generative-code/angular.md) | Modern Angular v20+ expert: Signals, Standalone Components, Zoneless, SSR/Hydration. |
 | [Figma](generative-code/figma.md) | Fetches Figma designs and translates them into production code. |
 
-[All 89 Generative Code templates →](generative-code/README.md)
+[All 90 Generative Code templates →](generative-code/README.md)
 
 ## Knowledge Management
 
@@ -200,7 +200,22 @@ Engineers, DevOps, security and IT teams. **2,909 ready-made Grok Bot templates*
 | [Reference List Builder](../human-resources/writing-and-content/reference-list-builder.md) | Formats professional reference lists and prepares reference materials for job applications. |
 | [Se Technical Writer](writing-and-content/se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
 
-[All 42 Writing & Content templates →](writing-and-content/README.md)
+[All 46 Writing & Content templates →](writing-and-content/README.md)
+
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Social Metadata Hardening](../marketing/marketing-and-growth/social-metadata-hardening.md) | Fix social sharing previews so URLs render as rich cards on all platforms. |
+| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
+| [Github Presence](../marketing/marketing-and-growth/github-presence.md) | Optimize GitHub profiles, READMEs, and project discoverability. |
+| [Seo Hreflang](../marketing/marketing-and-growth/seo-hreflang.md) | Validate and generate hreflang tags for international SEO. |
+| [SEO / GEO / AEO Website Audit](../marketing/marketing-and-growth/seo-geo-aeo-audit.md) | Audits any website across SEO, GEO, and AEO visibility layers with scores and prioritized actions. |
+| [Generate Schema Markup](../marketing/marketing-and-growth/schema-markup-generator.md) | Generates valid JSON-LD schema markup for a single page based on its visible content. |
+| [E-commerce Optimization Assistant](marketing-and-growth/e-commerce-optimization-assistant.md) | Optimizes e-commerce websites for SEO, conversions, UX, performance, and personalization. |
+| [Search Ai Optimization Expert](../marketing/marketing-and-growth/search-ai-optimization-expert.md) | Optimize websites and content for search engines, answer engines, and generative AI systems. |
+
+[All 35 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Prompt Engineering
 
@@ -245,22 +260,7 @@ Engineers, DevOps, security and IT teams. **2,909 ready-made Grok Bot templates*
 | [Yann LeCun Philosophy](../education/teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
 | [Data Warehouse Design Advisor](teaching-and-tutoring/data-warehouse-design-advisor.md) | Guides database administrators through data warehouse design, implementation, and ongoing operations. |
 
-[All 23 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
-
-## Marketing & Growth
-
-| Template | What it does |
-|---|---|
-| [Social Metadata Hardening](../marketing/marketing-and-growth/social-metadata-hardening.md) | Fix social sharing previews so URLs render as rich cards on all platforms. |
-| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
-| [Github Presence](../marketing/marketing-and-growth/github-presence.md) | Optimize GitHub profiles, READMEs, and project discoverability. |
-| [Seo Hreflang](../marketing/marketing-and-growth/seo-hreflang.md) | Validate and generate hreflang tags for international SEO. |
-| [SEO / GEO / AEO Website Audit](../marketing/marketing-and-growth/seo-geo-aeo-audit.md) | Audits any website across SEO, GEO, and AEO visibility layers with scores and prioritized actions. |
-| [Generate Schema Markup](../marketing/marketing-and-growth/schema-markup-generator.md) | Generates valid JSON-LD schema markup for a single page based on its visible content. |
-| [E-commerce Optimization Assistant](marketing-and-growth/e-commerce-optimization-assistant.md) | Optimizes e-commerce websites for SEO, conversions, UX, performance, and personalization. |
-| [Search Ai Optimization Expert](../marketing/marketing-and-growth/search-ai-optimization-expert.md) | Optimize websites and content for search engines, answer engines, and generative AI systems. |
-
-[All 22 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 27 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Generative Art
 

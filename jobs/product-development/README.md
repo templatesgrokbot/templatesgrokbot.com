@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **1,040 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **1,042 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,10 +12,10 @@ Product managers and the teams that ship. **1,040 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 398 |
-| [Design](design/README.md) | 99 |
+| [Design](design/README.md) | 100 |
 | [Data Analysis](data-analysis/README.md) | 75 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
-| [Productivity](productivity/README.md) | 67 |
+| [Productivity](productivity/README.md) | 68 |
 | [Research](research/README.md) | 67 |
 | [Generative Code](generative-code/README.md) | 65 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
@@ -60,7 +60,7 @@ Product managers and the teams that ship. **1,040 ready-made Grok Bot templates*
 | [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 
-[All 99 Design templates →](design/README.md)
+[All 100 Design templates →](design/README.md)
 
 ## Data Analysis
 
@@ -105,7 +105,7 @@ Product managers and the teams that ship. **1,040 ready-made Grok Bot templates*
 | [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [To Issues](productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
 
-[All 67 Productivity templates →](productivity/README.md)
+[All 68 Productivity templates →](productivity/README.md)
 
 ## Research
 

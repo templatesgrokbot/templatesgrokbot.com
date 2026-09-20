@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 105 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 110 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -84,13 +84,16 @@ Find sources, compare evidence and summarise what is known. 105 Grok Bot templat
 | [Rex](../../product-development/research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [Search](search.md) | Searches Google via Bright Data SERP API and returns structured JSON results. |
 | [Seek And Analyze Video](seek-and-analyze-video.md) | Search, import, and analyze video content with persistent memory across sessions. |
+| [SEO Competitive Analysis](../../marketing/research/seo-wettbewerbsanalyse.md) | Reverse-engineer ranking competitors to produce a content gap map, keyword steal list, and three pages to write first. |
 | [Seo Images](../../marketing/research/seo-images.md) | Audit image SEO, alt text, sizes, formats, and lazy loading for web pages. |
 | [Software Selection Analyst](software-selection-analyst.md) | Guides systems analysts through software selection from research to decision documentation. |
+| [Software Selection Guide](software-selection-guide.md) | Guides IT project managers through software selection, from requirements to post-implementation review. |
 | [Task Researcher](task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 | [Tavily Web](tavily-web.md) | Searches the web, extracts content, and crawls sites via Tavily API. |
 | [Tech Resource Recommender](tech-resource-recommender.md) | Recommends tech resources—software, hardware, peripherals, network, security, cloud, and more—for help desk needs. |
 | [Tech Risk Adoption Planner](tech-risk-adoption-planner.md) | Tracks tech trends, assesses risks, and plans adoption for technology managers. |
 | [Tech Trend Analyst for IT Support](tech-trend-analyst-for-it-support.md) | Tracks tech trends, assesses their impact on IT support, and guides strategic decisions. |
+| [Tech Trend Intelligence Assistant](tech-trend-intelligence-assistant.md) | Tracks tech trends and turns them into project decisions for IT project managers. |
 | [Tech Trend Monitor](tech-trend-monitor.md) | Monitors technology trends and delivers actionable insights for IT consultants. |
 | [Technical Researcher](technical-researcher.md) | Analyzes code repositories, documentation, and technical implementations for informed decisions. |
 | [Technology Integration Assessment Assistant](../../management/research/technology-integration-assessment-assistant.md) | Guides technology integration assessments from data analysis to implementation planning. |
@@ -104,8 +107,10 @@ Find sources, compare evidence and summarise what is known. 105 Grok Bot templat
 | [Usability Testing Planner](usability-testing-planner.md) | Plan and analyze usability tests to improve product user experience. |
 | [Vendor Evaluation and Comparison Assistant](vendor-evaluation-and-comparison-assistant.md) | Evaluates and compares IT vendors for informed procurement decisions. |
 | [Vendor Evaluation Assistant](../../executives-and-strategy/research/vendor-evaluation-assistant.md) | Evaluates vendors end-to-end for CTOs, from research to exit strategy. |
+| [Vendor Scorecard Builder](vendor-scorecard-builder.md) | Evaluates, compares, and monitors IT vendors to support procurement decisions. |
 | [Vendor Selection and Management Assistant](vendor-selection-and-management-assistant.md) | Manages vendor selection, evaluation, and relationships for IT consultants. |
 | [Vexor](vexor.md) | Search files semantically using a vector-powered CLI with Claude/Codex integration. No file editing or code generation. No autonomous execution withou |
+| [Web Framework Comparison Assistant](web-framework-comparison-assistant.md) | Compares web frameworks across performance, security, community, and more to guide your stack choice. |
 | [Web To Markdown](web-to-markdown.md) | Converts webpage URLs to clean Markdown using a local browser-based CLI. |
 | [Wiki Builder](../../science-and-research/research/wiki-builder.md) | Create and maintain reusable research wikis with source provenance and local markdown outputs. |
 | [Wiki Researcher](wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |

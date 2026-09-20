@@ -1,6 +1,6 @@
 # Design templates for Product Development
 
-Interfaces, brands, layouts and visual systems. 99 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 100 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -93,6 +93,7 @@ Interfaces, brands, layouts and visual systems. 99 Grok Bot templates, 18 of the
 | [Ui Tokens](../../it-and-development/design/ui-tokens.md) | View, add, or modify design tokens in the StyleSeed design system. |
 | [Ui Ux Designer](../../creatives/design/ui-ux-designer.md) | Reviews UI/UX designs with research-backed critiques and accessibility compliance checks. |
 | [Ui Ux Pro Max](ui-ux-pro-max.md) | Generates complete UI/UX design systems from product descriptions using a searchable database of styles, palettes, and guidelines. |
+| [UI/UX Feedback Assistant](../../it-and-development/design/ui-ux-feedback-assistant.md) | Evaluates UI/UX, navigation, accessibility, performance, and more with actionable feedback. |
 | [Ux Audit](../../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 | [Ux Flow](../../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 | [UX Flow & Wireframer](ux-flow-wireframer.md) | Sketches user flows and low-fidelity wireframes as text layouts and Mermaid diagrams before visual design begins. |

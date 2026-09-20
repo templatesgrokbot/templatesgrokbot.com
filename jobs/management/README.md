@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **742 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **759 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,15 @@ Team leads and project managers. **742 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 208 |
-| [Productivity](productivity/README.md) | 190 |
-| [Research](research/README.md) | 65 |
+| [Data Analysis](data-analysis/README.md) | 211 |
+| [Productivity](productivity/README.md) | 199 |
+| [Research](research/README.md) | 68 |
 | [Coding](coding/README.md) | 44 |
 | [Security & Compliance](security-and-compliance/README.md) | 44 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 39 |
+| [Writing & Content](writing-and-content/README.md) | 24 |
 | [Knowledge Management](knowledge-management/README.md) | 23 |
-| [Writing & Content](writing-and-content/README.md) | 23 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 20 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 21 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 14 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 13 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
@@ -44,7 +44,7 @@ Team leads and project managers. **742 ready-made Grok Bot templates** for this 
 | [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
-[All 208 Data Analysis templates →](data-analysis/README.md)
+[All 211 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **742 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 190 Productivity templates →](productivity/README.md)
+[All 199 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -74,7 +74,7 @@ Team leads and project managers. **742 ready-made Grok Bot templates** for this 
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [User Research Synthesis](../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
 
-[All 65 Research templates →](research/README.md)
+[All 68 Research templates →](research/README.md)
 
 ## Coding
 
@@ -121,6 +121,21 @@ Team leads and project managers. **742 ready-made Grok Bot templates** for this 
 
 [All 39 Marketing & Growth templates →](marketing-and-growth/README.md)
 
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Internal Comms Anthropic](../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
+| [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
+| [Interview Style Doc Building](writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
+| [Internal Comms Drafter](../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
+| [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
+| [Guest Experience Enhancer](../hospitality-and-events/writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
+| [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
+| [PM Stakeholder Comms Kit](../product-development/writing-and-content/pm-stakeholder-comms-kit.md) | Drafts, summarizes, and plans all stakeholder communications for product managers. |
+
+[All 24 Writing & Content templates →](writing-and-content/README.md)
+
 ## Knowledge Management
 
 | Template | What it does |
@@ -136,21 +151,6 @@ Team leads and project managers. **742 ready-made Grok Bot templates** for this 
 
 [All 23 Knowledge Management templates →](knowledge-management/README.md)
 
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Internal Comms Anthropic](../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
-| [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
-| [Interview Style Doc Building](writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
-| [Internal Comms Drafter](../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
-| [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
-| [Guest Experience Enhancer](../hospitality-and-events/writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
-| [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
-| [PM Stakeholder Comms Kit](../product-development/writing-and-content/pm-stakeholder-comms-kit.md) | Drafts, summarizes, and plans all stakeholder communications for product managers. |
-
-[All 23 Writing & Content templates →](writing-and-content/README.md)
-
 ## Cloud & DevOps
 
 | Template | What it does |
@@ -164,7 +164,7 @@ Team leads and project managers. **742 ready-made Grok Bot templates** for this 
 | [Cloud Migration Strategy Planner](../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
 | [Cloud Roadmap Navigator](../it-and-development/cloud-and-devops/cloud-roadmap-navigator.md) | Guides IT managers through cloud strategy from assessment to optimization, with approvals before any action. |
 
-[All 20 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 21 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Sales & Negotiation
 

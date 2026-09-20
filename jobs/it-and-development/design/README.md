@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 106 Grok Bot templates, 45 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 108 Grok Bot templates, 47 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -43,6 +43,7 @@ Interfaces, brands, layouts and visual systems. 106 Grok Bot templates, 45 of th
 | [Design Thinking](../../creatives/design/design-thinking.md) | Define frontend purpose, tone, and domain before coding. |
 | [Design Ux](design-ux.md) | Heuristic usability audit of interactive UIs against Nielsen's 10 and interaction add-ons. Scores live rendered artifact, not mockups. Fixes then re-a |
 | [Deterministic Design](../../creatives/design/deterministic-design.md) | Render UI, measure balance with math, and run a Nielsen usability audit. |
+| [DeviceFit Design Coach](devicefit-design-coach.md) | Responsive design suggestions for web developers to improve usability across devices. |
 | [Diagrammer](diagrammer.md) | Turns plain-English diagram requests into clean blueprint-style SVG files for docs and slides. |
 | [Draw](../../creatives/design/draw.md) | Create, edit, and convert vector graphics and diagrams via LibreOffice Draw. |
 | [Draw Io](draw-io.md) | Creates, edits, and reviews draw.io diagrams from .drawio XML files. |
@@ -102,6 +103,7 @@ Interfaces, brands, layouts and visual systems. 106 Grok Bot templates, 45 of th
 | [Ui Ux Pro Max](../../product-development/design/ui-ux-pro-max.md) | Generates complete UI/UX design systems from product descriptions using a searchable database of styles, palettes, and guidelines. |
 | [Ui Visual Validator](ui-visual-validator.md) | Rigorous UI visual validation expert for design system and accessibility compliance. |
 | [UI/UX Best Practices Advisor](ui-ux-best-practices-advisor.md) | Guides software developers in applying UI/UX best practices to their applications. |
+| [UI/UX Feedback Assistant](ui-ux-feedback-assistant.md) | Evaluates UI/UX, navigation, accessibility, performance, and more with actionable feedback. |
 | [Ux Audit](../../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 | [UX Enhancement Advisor](ux-enhancement-advisor.md) | Guides IT leaders through AI-assisted UX research, design, and enhancement projects. |
 | [Ux Flow](../../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |

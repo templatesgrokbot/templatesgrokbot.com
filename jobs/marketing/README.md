@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **802 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **822 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,17 @@ Campaigns, SEO, content and growth. **802 ready-made Grok Bot templates** for th
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 324 |
-| [Data Analysis](data-analysis/README.md) | 127 |
-| [Writing & Content](writing-and-content/README.md) | 75 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 337 |
+| [Data Analysis](data-analysis/README.md) | 129 |
+| [Writing & Content](writing-and-content/README.md) | 78 |
 | [Research](research/README.md) | 74 |
 | [Social Media](social-media/README.md) | 68 |
 | [Design](design/README.md) | 30 |
 | [Generative Art](generative-art/README.md) | 21 |
 | [Coding](coding/README.md) | 13 |
 | [Productivity](productivity/README.md) | 12 |
+| [Generative Code](generative-code/README.md) | 11 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 11 |
-| [Generative Code](generative-code/README.md) | 10 |
 | [Generative Video](generative-video/README.md) | 9 |
 | [Office Tools](office-tools/README.md) | 5 |
 | [Video Editing](video-editing/README.md) | 4 |
@@ -34,6 +34,7 @@ Campaigns, SEO, content and growth. **802 ready-made Grok Bot templates** for th
 | [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Security & Compliance](security-and-compliance/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 | [Text-To-Video](text-to-video/README.md) | 1 |
 
 ## Marketing & Growth
@@ -49,7 +50,7 @@ Campaigns, SEO, content and growth. **802 ready-made Grok Bot templates** for th
 | [Seo Fundamentals](marketing-and-growth/seo-fundamentals.md) | Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles. |
 | [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 
-[All 324 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 337 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Data Analysis
 
@@ -64,7 +65,7 @@ Campaigns, SEO, content and growth. **802 ready-made Grok Bot templates** for th
 | [Analytics Product](data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
 | [Google Ads Performance Analyzer](data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 
-[All 127 Data Analysis templates →](data-analysis/README.md)
+[All 129 Data Analysis templates →](data-analysis/README.md)
 
 ## Writing & Content
 
@@ -79,7 +80,7 @@ Campaigns, SEO, content and growth. **802 ready-made Grok Bot templates** for th
 | [Seo Content Auditor](writing-and-content/seo-content-auditor.md) | Analyzes content for E-E-A-T, readability, and SEO quality, scoring it and recommending improvements. |
 | [Devrel Content](writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 
-[All 75 Writing & Content templates →](writing-and-content/README.md)
+[All 78 Writing & Content templates →](writing-and-content/README.md)
 
 ## Research
 
@@ -171,6 +172,21 @@ Campaigns, SEO, content and growth. **802 ready-made Grok Bot templates** for th
 
 [All 12 Productivity templates →](productivity/README.md)
 
+## Generative Code
+
+| Template | What it does |
+|---|---|
+| [Frontend Slides Frontend Slides](../creatives/generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
+| [Website Builder (Landing Page Component System)](generative-code/website-builder.md) | Builds landing pages from a component library and saves them as WordPress drafts. |
+| [Landing Page Generator](generative-code/landing-page-generator.md) | Generates conversion-optimized Next.js landing pages from a product description. |
+| [Gpt Taste](../creatives/generative-code/gpt-taste.md) | Award-level GSAP frontend pages with AIDA structure and gapless bento grids. |
+| [Structured Data Implementation Assistant](../it-and-development/generative-code/structured-data-implementation-assistant.md) | Guides SEO specialists through structured data implementation, from schema selection to monitoring. |
+| [Screenshots](generative-code/screenshots.md) | Generate HiDPI marketing screenshots of your app using Playwright. |
+| [Magazine Article Formatter](../writers/generative-code/magazine-article-formatter.md) | Turns Markdown drafts into polished magazine-style HTML for blogs and newsletters. — 将 Markdown 草稿转为适合博客和新闻通讯的杂志风格 HTML。 |
+| [Webflow Automation](../it-and-development/generative-code/webflow-automation.md) | Automate Webflow CMS, publishing, pages, assets, and ecommerce via Rube MCP. |
+
+[All 11 Generative Code templates →](generative-code/README.md)
+
 ## Sales & Negotiation
 
 | Template | What it does |
@@ -185,21 +201,6 @@ Campaigns, SEO, content and growth. **802 ready-made Grok Bot templates** for th
 | [Cold Outreach](../sales/sales-and-negotiation/cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
 
 [All 11 Sales & Negotiation templates →](sales-and-negotiation/README.md)
-
-## Generative Code
-
-| Template | What it does |
-|---|---|
-| [Frontend Slides Frontend Slides](../creatives/generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
-| [Website Builder (Landing Page Component System)](generative-code/website-builder.md) | Builds landing pages from a component library and saves them as WordPress drafts. |
-| [Landing Page Generator](generative-code/landing-page-generator.md) | Generates conversion-optimized Next.js landing pages from a product description. |
-| [Gpt Taste](../creatives/generative-code/gpt-taste.md) | Award-level GSAP frontend pages with AIDA structure and gapless bento grids. |
-| [Screenshots](generative-code/screenshots.md) | Generate HiDPI marketing screenshots of your app using Playwright. |
-| [Magazine Article Formatter](../writers/generative-code/magazine-article-formatter.md) | Turns Markdown drafts into polished magazine-style HTML for blogs and newsletters. — 将 Markdown 草稿转为适合博客和新闻通讯的杂志风格 HTML。 |
-| [Webflow Automation](../it-and-development/generative-code/webflow-automation.md) | Automate Webflow CMS, publishing, pages, assets, and ecommerce via Rube MCP. |
-| [2slides Ppt Generator](generative-code/2slides-ppt-generator.md) | Generate slides from text, documents, or reference images via the 2slides API. |
-
-[All 10 Generative Code templates →](generative-code/README.md)
 
 ## Generative Video
 
@@ -297,6 +298,12 @@ Campaigns, SEO, content and growth. **802 ready-made Grok Bot templates** for th
 | Template | What it does |
 |---|---|
 | [Podcast Transcriber](../operations/speech-to-text/podcast-transcriber.md) | Transcribe audio files with speaker labels and precise timestamps. |
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [SEO Training Workshop Designer](../it-and-development/teaching-and-tutoring/seo-training-workshop-designer.md) | Designs and delivers SEO training and workshops for specialists. |
 
 ## Text-To-Video
 
