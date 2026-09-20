@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Operations
 
-Infrastructure, deployments, monitoring and incident response. 190 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 192 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -50,6 +50,7 @@ Infrastructure, deployments, monitoring and incident response. 190 Grok Bot temp
 | [Data Center Power Optimizer](../../it-and-development/cloud-and-devops/data-center-power-optimizer.md) | Optimizes data center power usage, forecasting, and compliance for systems administrators. |
 | [Database](../../it-and-development/cloud-and-devops/database.md) | Adds Railway database services (Postgres, Redis, MySQL, MongoDB) and provides connection variable references. |
 | [Database Administrator](../../it-and-development/cloud-and-devops/database-administrator.md) | Manages database performance, high availability, and disaster recovery for production systems. |
+| [Database Backup and Recovery Planner](../../it-and-development/cloud-and-devops/database-backup-and-recovery-planner.md) | Plans, schedules, verifies, and restores database backups with recovery readiness. |
 | [Database Cloud Optimization Cost Optimize](../../it-and-development/cloud-and-devops/database-cloud-optimization-cost-optimize.md) | Analyze cloud spend and cut costs while keeping performance and reliability. |
 | [Database Migrations Migration Observability](../../it-and-development/cloud-and-devops/database-migrations-migration-observability.md) | Build observability for database migrations with CDC and alerting. |
 | [Datadog Automation](../../it-and-development/cloud-and-devops/datadog-automation.md) | Automate Datadog monitoring, metrics, logs, monitors, dashboards, events, and downtimes via Rube MCP. |
@@ -101,6 +102,7 @@ Infrastructure, deployments, monitoring and incident response. 190 Grok Bot temp
 | [IoT Network Integration Assistant](../../it-and-development/cloud-and-devops/iot-network-integration-assistant.md) | Guides IoT network integration from configuration to monitoring and security. |
 | [IP Subnetting Assistant](../../it-and-development/cloud-and-devops/ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
 | [Istio Traffic Management](../../it-and-development/cloud-and-devops/istio-traffic-management.md) | Configure Istio traffic management for production service mesh deployments. |
+| [IT Disaster Recovery Architect](../../it-and-development/cloud-and-devops/it-disaster-recovery-architect.md) | Builds and maintains a complete disaster recovery plan for IT systems. |
 | [It Operations](../../it-and-development/cloud-and-devops/it-operations.md) | Manages IT infrastructure, monitoring, incident response, and service reliability for operations teams. |
 | [It Ops Orchestrator](../../it-and-development/cloud-and-devops/it-ops-orchestrator.md) | Coordinates multi-domain IT operations by routing work to specialized agents and merging results. |
 | [Itil Expert](../../it-and-development/cloud-and-devops/itil-expert.md) | Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management. |

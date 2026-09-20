@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 179 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 182 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -87,6 +87,7 @@ Plan, prioritise and clear the recurring admin. 179 Grok Bot templates, 61 of th
 | [Innovation Risk Assessment Assistant](../../executives-and-strategy/productivity/innovation-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates innovation risks with structured reports and decision support. |
 | [Insurance Digital Transformation Planner](insurance-digital-transformation-planner.md) | Plans and oversees your agency's digital transformation, from customer analytics to automated processes. |
 | [IT Delivery Planner](../../it-and-development/productivity/it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
+| [IT Project Closure Companion](../../it-and-development/productivity/it-project-closure-companion.md) | Plan, track, and close IT projects with structured AI assistance for every phase. |
 | [Jev Browser Operator](jev-browser-operator.md) | Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final. |
 | [Jira](jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
@@ -143,6 +144,8 @@ Plan, prioritise and clear the recurring admin. 179 Grok Bot templates, 61 of th
 | [Project Supervisor Orchestrator](../../operations/productivity/project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
 | [Project Time Manager](project-time-manager.md) | Plans, prioritizes, and audits your project time to cut waste and hit deadlines. |
 | [Purchasing Digital Transformation Assistant](purchasing-digital-transformation-assistant.md) | Guides purchasing managers through digital transformation, from supplier research to performance monitoring. |
+| [QA Process Improvement Planner](../../it-and-development/productivity/qa-process-improvement-planner.md) | Optimize QA processes with AI-driven analysis, automation, and reporting. |
+| [QA Test Planning Strategist](../../it-and-development/productivity/qa-test-planning-strategist.md) | Plans and strategizes QA testing from coverage analysis to CI/CD. |
 | [Requirements Clarity](../../product-development/productivity/requirements-clarity.md) | Turns vague feature requests into clear, actionable PRDs through structured questioning. |
 | [Retail Crisis Management Planner](retail-crisis-management-planner.md) | Prepares retail managers with crisis plans, communications, and operational adjustments. |
 | [Retail Performance Tracker](retail-performance-tracker.md) | Turns employee performance data into feedback, reports, and growth plans for retail managers. |

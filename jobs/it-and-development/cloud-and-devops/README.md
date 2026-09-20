@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 396 Grok Bot templates, 381 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 412 Grok Bot templates, 397 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -110,13 +110,16 @@ Infrastructure, deployments, monitoring and incident response. 396 Grok Bot temp
 | [Claude Monitor](claude-monitor.md) | Diagnose slowness in Claude Code and the local system with CPU, RAM, disk, and network. |
 | [CLI Dashboard Setup](cli-dashboard-setup.md) | Sets up a read-only web dashboard that auto-builds tabs and tables from any CLI's JSON output. |
 | [Cloud Architect](cloud-architect.md) | Designs and optimizes multi-cloud infrastructure with IaC, FinOps, and security best practices. |
+| [Cloud Database Administrator](cloud-database-administrator.md) | Manages cloud databases end-to-end: provisioning, migration, optimization, security, and compliance. |
 | [Cloud Devops](cloud-devops.md) | Drafts cloud infrastructure, CI/CD, containers, and monitoring plans for AWS, Azure, and GCP. |
 | [Cloud Integration Navigator](cloud-integration-navigator.md) | Guides cloud integration, migration, security, and cost optimization for systems administrators. |
+| [Cloud Migration Blueprint Builder](cloud-migration-blueprint-builder.md) | Guides IT specialists through cloud strategy, migration, optimization, security, and governance. |
 | [Cloud Migration Specialist](cloud-migration-specialist.md) | Migrates on-premise workloads to cloud with minimal downtime and maximum cloud-native benefit. |
 | [Cloud Migration Strategy Planner](../../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
 | [Cloud Roadmap Navigator](cloud-roadmap-navigator.md) | Guides IT managers through cloud strategy from assessment to optimization, with approvals before any action. |
 | [Cloud Run Basics](cloud-run-basics.md) | Manages Cloud Run services, jobs, and worker pools on Google Cloud. |
 | [Cloud Security Planning Assistant](cloud-security-planning-assistant.md) | Cloud security planning and response assistant for systems administrators. |
+| [Cloud Services Integration Guide](cloud-services-integration-guide.md) | Guides software developers through integrating cloud services into their applications. |
 | [Cloud Sql Basics](cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Cloud Strategy Advisor](cloud-strategy-advisor.md) | Guides IT directors through cloud strategy, from provider evaluation to governance and optimization. |
 | [Cloud Strategy Formulation Assistant](cloud-strategy-formulation-assistant.md) | Formulates and manages your organization's cloud strategy from readiness to governance. |
@@ -128,6 +131,7 @@ Infrastructure, deployments, monitoring and incident response. 396 Grok Bot temp
 | [Cohesivity](cohesivity.md) | Provision databases, hosting, auth, and APIs for AI agents via one HTTP API. |
 | [Conductor Setup](conductor-setup.md) | Configure Rails projects for Conductor parallel coding agents with isolated ports and Redis. |
 | [Container Session Troubleshooter](container-session-troubleshooter.md) | Diagnose containerized agent failures by tracing logs and session databases. |
+| [Continuous Integration Systems Assistant](continuous-integration-systems-assistant.md) | Guides CI pipeline setup and automation for software developers, from builds to deployment and monitoring. |
 | [Cost Optimization](cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Cto Advisor](cto-advisor.md) | Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy. |
 | [Data Center Network Assistant](data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
@@ -138,9 +142,14 @@ Infrastructure, deployments, monitoring and incident response. 396 Grok Bot temp
 | [Database Admin](database-admin.md) | Manages cloud and on-prem databases with backups, replication, monitoring, and access control. |
 | [Database Administration Advisor](database-administration-advisor.md) | Guides database administrators through backup, tuning, security, and growth planning. |
 | [Database Administrator](database-administrator.md) | Manages database performance, high availability, and disaster recovery for production systems. |
+| [Database Backup and Recovery Planner](database-backup-and-recovery-planner.md) | Plans, schedules, verifies, and restores database backups with recovery readiness. |
 | [Database Cloud Optimization Cost Optimize](database-cloud-optimization-cost-optimize.md) | Analyze cloud spend and cut costs while keeping performance and reliability. |
+| [Database Health Check Assistant](database-health-check-assistant.md) | Runs database health checks and reports findings for a database administrator. |
+| [Database Management Insights Assistant](database-management-insights-assistant.md) | Analyzes and optimizes database performance, security, and compliance for IT specialists. |
 | [Database Migration Planner](database-migration-planner.md) | Plans and validates cross-provider database migrations with rollback and downtime estimates. |
 | [Database Migrations Migration Observability](database-migrations-migration-observability.md) | Build observability for database migrations with CDC and alerting. |
+| [Database Scalability Advisor](database-scalability-advisor.md) | Database scalability guidance and implementation support for database administrators. No hype, no emoji. |
+| [Database Transaction Manager](database-transaction-manager.md) | Assists database administrators in managing, monitoring, and optimizing database transactions. |
 | [Datadog Automation](datadog-automation.md) | Automate Datadog monitoring, metrics, logs, monitors, dashboards, events, and downtimes via Rube MCP. |
 | [Datadog Cli](datadog-cli.md) | Searches Datadog logs and metrics to debug production issues and manage dashboards. |
 | [Dbt Transformation Patterns](dbt-transformation-patterns.md) | Organize dbt models into staging, intermediate, and marts with tests, docs, and incremental builds. |
@@ -232,12 +241,15 @@ Infrastructure, deployments, monitoring and incident response. 396 Grok Bot temp
 | [IP Subnetting Assistant](ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
 | [Istio Traffic Management](istio-traffic-management.md) | Configure Istio traffic management for production service mesh deployments. |
 | [IT Director DR Plan Architect](it-director-dr-plan-architect.md) | Builds and maintains your disaster recovery plan, from risk assessment to testing and improvement. |
+| [IT Disaster Recovery Architect](it-disaster-recovery-architect.md) | Builds and maintains a complete disaster recovery plan for IT systems. |
 | [IT Disaster Recovery Plan Architect](../../executives-and-strategy/cloud-and-devops/it-disaster-recovery-plan-architect.md) | Builds and maintains your IT disaster recovery plan from risk assessment to drills. |
+| [IT Infrastructure Planning Assistant](it-infrastructure-planning-assistant.md) | Designs and plans IT infrastructure, from network to cloud, with vendor and cost guidance. |
 | [It Manager Hospital](../../healthcare/cloud-and-devops/it-manager-hospital.md) | Advises hospital IT managers on clinical safety, digital maturity, and HIS/PEP integration. |
 | [It Manager Pro](../../management/cloud-and-devops/it-manager-pro.md) | Strategic IT leadership advisor bridging data, finance, and human-centric management. |
 | [It Operations](it-operations.md) | Manages IT infrastructure, monitoring, incident response, and service reliability for operations teams. |
 | [It Ops Orchestrator](it-ops-orchestrator.md) | Coordinates multi-domain IT operations by routing work to specialized agents and merging results. |
 | [IT Stack Optimization Reports](it-stack-optimization-reports.md) | Evaluates and optimizes your organization's tech stack end to end. |
+| [IT Trend Adoption Assistant](it-trend-adoption-assistant.md) | Tracks emerging IT trends and guides their adoption from research to rollout. |
 | [Itil Expert](itil-expert.md) | Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management. |
 | [K8s Manifest Generator](k8s-manifest-generator.md) | Generate production-ready Kubernetes manifests with best practices. |
 | [Kubernetes Architect](kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
@@ -295,6 +307,7 @@ Infrastructure, deployments, monitoring and incident response. 396 Grok Bot temp
 | [Network Troubleshooting Advisor](network-troubleshooting-advisor.md) | Network troubleshooting advisor for systems administrators, from diagnostics to documentation. |
 | [Network Troubleshooting Assistant](network-troubleshooting-assistant.md) | Diagnose and resolve network issues with structured troubleshooting guidance and documentation support. |
 | [New](new.md) | Creates Railway projects, services, and databases with proper configuration from GitHub or scaffolding. |
+| [NoSQL Database Administrator Assistant](nosql-database-administrator-assistant.md) | Guides NoSQL database administrators through setup, optimization, security, and recovery. |
 | [Nx Workspace Patterns](nx-workspace-patterns.md) | Configure and optimize Nx monorepo workspaces with project boundaries and caching. |
 | [Observability And Instrumentation](observability-and-instrumentation.md) | Instruments production code so behavior is visible and diagnosable via telemetry. |
 | [Observability Engineer](observability-engineer.md) | Designs and maintains production monitoring, logging, and tracing systems for reliability. |
@@ -343,6 +356,7 @@ Infrastructure, deployments, monitoring and incident response. 396 Grok Bot temp
 | [Rtk Proxy Installer](rtk-proxy-installer.md) | Installs and wires rtk token-compression proxy into agent containers for 60–90% token savings on dev commands. Returns verified savings reports. |
 | [Runaway Guard](runaway-guard.md) | Prevents runaway AI API costs with explicit per-run and per-day dollar caps. |
 | [Saga Orchestration](saga-orchestration.md) | Coordinate distributed transactions and long-running business processes with compensating actions. |
+| [Scalability Design Assistant](scalability-design-assistant.md) | Guides software developers through scalable system design and implementation. |
 | [Se Gitops Ci Specialist](se-gitops-ci-specialist.md) | Makes deployments boring and reliable by triaging failures, fixing pipelines, and enforcing GitOps standards. |
 | [Se System Architecture Reviewer](se-system-architecture-reviewer.md) | Reviews system architecture for security, scalability, and reliability using Well-Architected frameworks. |
 | [Secrets Management](secrets-management.md) | Manage CI/CD secrets with Vault, AWS, Azure, or GCP without hardcoding. |
@@ -367,6 +381,7 @@ Infrastructure, deployments, monitoring and incident response. 396 Grok Bot temp
 | [Supabase](supabase.md) | Manage Supabase projects: database, auth, RLS, storage, edge functions. |
 | [Supabase Schema Architect](supabase-schema-architect.md) | Designs Supabase schemas, migrations, and RLS policies for production-ready databases. |
 | [Sysadmin Incident Lifecycle Copilot](sysadmin-incident-lifecycle-copilot.md) | Handles incident triage, documentation, communication, analysis, and training for systems administrators. |
+| [System Administration Guidance Assistant](system-administration-guidance-assistant.md) | Guides IT specialists through system administration tasks with step-by-step instructions and best practices. |
 | [System Upgrade Coordinator](../../customer-support/cloud-and-devops/system-upgrade-coordinator.md) | Plans, executes, and supports system upgrades with minimal disruption. |
 | [Technology Integration Coordinator](../../management/cloud-and-devops/technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |
 | [Templates](templates.md) | Search and deploy templates from Railway's marketplace. |
@@ -391,6 +406,7 @@ Infrastructure, deployments, monitoring and incident response. 396 Grok Bot temp
 | [Vercel Deployment Specialist](vercel-deployment-specialist.md) | Configures and deploys projects to Vercel with edge functions, performance tuning, and monitoring. |
 | [Vercel Optimize](vercel-optimize.md) | Audit Vercel apps for cost and performance using metrics, config, and code scans. |
 | [Vexor Cli](vexor-cli.md) | Semantic file discovery in large repos via vexor CLI. |
+| [Virtualization Setup Guide](virtualization-setup-guide.md) | Guides IT specialists through virtualization setup, management, and optimization. |
 | [Virtualization Strategy Planner](virtualization-strategy-planner.md) | Plans and manages virtualization strategy from assessment to ongoing optimization. |
 | [VLAN Configuration Assistant](vlan-configuration-assistant.md) | Design, configure, troubleshoot, and document VLANs across your network. |
 | [VPN Configuration and Management Assistant](vpn-configuration-and-management-assistant.md) | Configures, troubleshoots, secures, and optimizes VPNs with step-by-step guidance. |

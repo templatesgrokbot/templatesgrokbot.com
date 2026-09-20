@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 92 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 94 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -29,6 +29,7 @@ Interfaces, brands, layouts and visual systems. 92 Grok Bot templates, 32 of the
 | [Cyberpunk Ui](../../creatives/design/cyberpunk-ui.md) | Generate neon-on-black UI with clipped corners and glitch accents. |
 | [Dark Mode](dark-mode.md) | Dark mode design guide: surfaces, typography, and accent rules. |
 | [Data Dense Design](data-dense-design.md) | Build expert UIs with maximum data density like Bloomberg terminals or IDEs. |
+| [Database Design Assistant](database-design-assistant.md) | Designs, optimizes, and documents databases from ER modeling to migration. |
 | [Design Concept Development Assistant](../../creatives/design/design-concept-development-assistant.md) | Turns UX/UI design tasks into guided, documented workflows from research to presentation. |
 | [Design Handoff Spec](design-design-handoff.md) | Generate developer handoff specs from a design, covering tokens, props, states, and edge cases. |
 | [Design It](../../creatives/design/design-it.md) | Routes frontend design tasks to 48 specific UI styles with curated palettes. |
@@ -89,6 +90,7 @@ Interfaces, brands, layouts and visual systems. 92 Grok Bot templates, 32 of the
 | [Ui Tokens](ui-tokens.md) | View, add, or modify design tokens in the StyleSeed design system. |
 | [Ui Ux Pro Max](../../product-development/design/ui-ux-pro-max.md) | Generates complete UI/UX design systems from product descriptions using a searchable database of styles, palettes, and guidelines. |
 | [Ui Visual Validator](ui-visual-validator.md) | Rigorous UI visual validation expert for design system and accessibility compliance. |
+| [UI/UX Best Practices Advisor](ui-ux-best-practices-advisor.md) | Guides software developers in applying UI/UX best practices to their applications. |
 | [Ux Audit](../../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 | [UX Enhancement Advisor](ux-enhancement-advisor.md) | Guides IT leaders through AI-assisted UX research, design, and enhancement projects. |
 | [Ux Flow](../../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |

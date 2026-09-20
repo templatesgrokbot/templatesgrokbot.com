@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 92 Grok Bot templates, 44 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 93 Grok Bot templates, 45 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -82,6 +82,7 @@ Find sources, compare evidence and summarise what is known. 92 Grok Bot template
 | [Seo Images](../../marketing/research/seo-images.md) | Audit image SEO, alt text, sizes, formats, and lazy loading for web pages. |
 | [Task Researcher](task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 | [Tavily Web](tavily-web.md) | Searches the web, extracts content, and crawls sites via Tavily API. |
+| [Tech Resource Recommender](tech-resource-recommender.md) | Recommends tech resources—software, hardware, peripherals, network, security, cloud, and more—for help desk needs. |
 | [Technical Researcher](technical-researcher.md) | Analyzes code repositories, documentation, and technical implementations for informed decisions. |
 | [Technology Integration Assessment Assistant](../../management/research/technology-integration-assessment-assistant.md) | Guides technology integration assessments from data analysis to implementation planning. |
 | [Technology Trend Analyst](technology-trend-analyst.md) | Tracks tech trends and turns them into actionable IT strategy for global IT leaders. |

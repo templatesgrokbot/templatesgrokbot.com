@@ -1,17 +1,22 @@
 # Teaching & Tutoring templates for IT and Development
 
-Explain, quiz and guide someone through a subject. 10 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 15 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [AI/ML Project Assistant](ai-ml-project-assistant.md) | Explains AI/ML concepts and guides IT specialists in applying them to real-world projects. |
 | [Code Documentation Code Explain](../../education/teaching-and-tutoring/code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |
+| [Data Warehouse Design Advisor](data-warehouse-design-advisor.md) | Guides database administrators through data warehouse design, implementation, and ongoing operations. |
 | [Demonstrate Understanding](../../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
+| [Design Pattern Implementation Guide](design-pattern-implementation-guide.md) | Guides software developers through implementing design patterns with explanations and code examples. |
+| [End-User Training Session Assistant](end-user-training-session-assistant.md) | Plans, delivers, and follows up on end-user IT training sessions for help desk technicians. |
 | [IT Training Content Builder](it-training-content-builder.md) | Builds and maintains staff training materials and interactive support for IT systems. |
 | [IT Training Program Manager](it-training-program-manager.md) | Plans, builds, delivers, and evaluates IT employee training programs. |
 | [Machine Learning Project Advisor](machine-learning-project-advisor.md) | Guides data analysts through machine learning projects from preprocessing to deployment. |
 | [Microsoft Study Mode](../../education/teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
+| [QA Training Program Builder](qa-training-program-builder.md) | Builds and manages QA team training programs from needs analysis to certification. |
 | [Technical Content Evaluator](../../education/teaching-and-tutoring/technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
 | [Technical Tutorials](../../education/teaching-and-tutoring/technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
 | [Yann LeCun Debate](../../education/teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |

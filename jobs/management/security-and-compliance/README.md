@@ -1,11 +1,12 @@
 # Security & Compliance templates for Management
 
-Authorised security testing, audits and regulatory work. 40 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 41 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Accessibility Testing Guide](../../it-and-development/security-and-compliance/accessibility-testing-guide.md) | Guides QA managers through accessibility testing, from tools to audits and reporting. |
 | [Business Unit Risk Manager](business-unit-risk-manager.md) | Risk management assistant for business unit managers covering identification, assessment, mitigation, monitoring, and reporting. |
 | [Chemical Compliance Assistant](../../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
 | [Client Risk Assessment Assistant](client-risk-assessment-assistant.md) | Streamlines client risk assessment from data collection to monitoring and reporting. |

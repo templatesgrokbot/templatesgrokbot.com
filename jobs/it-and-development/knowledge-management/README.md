@@ -1,6 +1,6 @@
 # Knowledge Management templates for IT and Development
 
-Notes, documents, PDFs and knowledge bases kept in order. 44 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 45 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -31,6 +31,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 44 Grok Bot templates,
 | [Handoff](handoff.md) | Compacts a conversation into a handoff document for another agent. |
 | [Hig Project Context](../../creatives/knowledge-management/hig-project-context.md) | Create or update a shared Apple design context document for HIG capabilities. |
 | [Ingest Youtube](../../operations/knowledge-management/ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
+| [Knowledge Base Article Assistant](knowledge-base-article-assistant.md) | Turns help desk know-how into clear, accurate knowledge base articles. |
 | [Legal Knowledge Base Builder](../../legal/knowledge-management/legal-knowledge-base-builder.md) | Builds and maintains a legal knowledge base with research, drafting, and compliance support. |
 | [Lore](lore.md) | Manage a project's long-term memory as Markdown files in .lore/ for decisions, architecture, and conventions. Not a changelog or dev journal. Not trig |
 | [Maintain Codex Wiki](maintain-codex-wiki.md) | Maintain a review-first engineering wiki with provenance and citation-aware queries. |

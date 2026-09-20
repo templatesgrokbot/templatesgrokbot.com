@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **602 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **604 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,7 +15,7 @@ Scientists, analysts and academic researchers. **602 ready-made Grok Bot templat
 | [Research](research/README.md) | 189 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 67 |
 | [Coding](coding/README.md) | 31 |
-| [Security & Compliance](security-and-compliance/README.md) | 27 |
+| [Security & Compliance](security-and-compliance/README.md) | 29 |
 | [Writing & Content](writing-and-content/README.md) | 16 |
 | [Productivity](productivity/README.md) | 13 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
@@ -102,7 +102,7 @@ Scientists, analysts and academic researchers. **602 ready-made Grok Bot templat
 | [Environmental Monitoring Manager](security-and-compliance/environmental-monitoring-manager.md) | Environmental monitoring assistant for laboratory managers, from data collection to compliance and audits. |
 | [Biohazard Safety Protocol Assistant](security-and-compliance/biohazard-safety-protocol-assistant.md) | Biohazard management assistant for laboratory technicians: protocols, labels, training, and risk assessment. |
 
-[All 27 Security & Compliance templates →](security-and-compliance/README.md)
+[All 29 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Writing & Content
 

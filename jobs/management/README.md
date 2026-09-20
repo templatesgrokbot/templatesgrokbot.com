@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **704 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **710 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,19 @@ Team leads and project managers. **704 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 195 |
-| [Productivity](productivity/README.md) | 179 |
+| [Data Analysis](data-analysis/README.md) | 196 |
+| [Productivity](productivity/README.md) | 182 |
 | [Research](research/README.md) | 64 |
 | [Coding](coding/README.md) | 44 |
-| [Security & Compliance](security-and-compliance/README.md) | 40 |
+| [Security & Compliance](security-and-compliance/README.md) | 41 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 39 |
 | [Knowledge Management](knowledge-management/README.md) | 23 |
 | [Writing & Content](writing-and-content/README.md) | 21 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 18 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 14 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
 | [Design](design/README.md) | 9 |
 | [Support & Community](support-and-community/README.md) | 8 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 5 |
@@ -44,7 +44,7 @@ Team leads and project managers. **704 ready-made Grok Bot templates** for this 
 | [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
-[All 195 Data Analysis templates →](data-analysis/README.md)
+[All 196 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **704 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 179 Productivity templates →](productivity/README.md)
+[All 182 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -104,7 +104,7 @@ Team leads and project managers. **704 ready-made Grok Bot templates** for this 
 | [Construction Quality Control Assistant](../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
 | [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
 
-[All 40 Security & Compliance templates →](security-and-compliance/README.md)
+[All 41 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Marketing & Growth
 
@@ -196,6 +196,21 @@ Team leads and project managers. **704 ready-made Grok Bot templates** for this 
 
 [All 12 Self-Improvement templates →](self-improvement/README.md)
 
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Claims Training Developer](teaching-and-tutoring/claims-training-developer.md) | Builds and tracks staff training for insurance claims teams. |
+| [Training Program Designer](teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
+| [Ship Learn Next](../education/teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
+| [Pitch Rehearsal](../education/teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
+| [Crossframe Teach](../education/teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
+| [Conflict Resolution Guide](teaching-and-tutoring/conflict-resolution-guide.md) | Guides project managers through conflict resolution from analysis to lessons learned. |
+| [Agile Project Manager Advisor](teaching-and-tutoring/agile-project-manager-advisor.md) | Guides project managers through Agile practices, planning, tracking, and team collaboration. |
+| [Staff Training Planner](teaching-and-tutoring/staff-training-planner.md) | Plans and runs staff training for insurance agency managers, from needs assessment to effectiveness evaluation. |
+
+[All 12 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+
 ## Office Tools
 
 | Template | What it does |
@@ -210,21 +225,6 @@ Team leads and project managers. **704 ready-made Grok Bot templates** for this 
 | [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
 
 [All 11 Office Tools templates →](office-tools/README.md)
-
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Claims Training Developer](teaching-and-tutoring/claims-training-developer.md) | Builds and tracks staff training for insurance claims teams. |
-| [Training Program Designer](teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
-| [Ship Learn Next](../education/teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
-| [Pitch Rehearsal](../education/teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
-| [Crossframe Teach](../education/teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
-| [Conflict Resolution Guide](teaching-and-tutoring/conflict-resolution-guide.md) | Guides project managers through conflict resolution from analysis to lessons learned. |
-| [Agile Project Manager Advisor](teaching-and-tutoring/agile-project-manager-advisor.md) | Guides project managers through Agile practices, planning, tracking, and team collaboration. |
-| [Staff Training Planner](teaching-and-tutoring/staff-training-planner.md) | Plans and runs staff training for insurance agency managers, from needs assessment to effectiveness evaluation. |
-
-[All 11 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Design
 

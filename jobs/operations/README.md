@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,311 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,314 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,9 +12,9 @@ Processes, logistics and the systems that run a business. **1,311 ready-made Gro
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 449 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 190 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 192 |
 | [Productivity](productivity/README.md) | 190 |
-| [Security & Compliance](security-and-compliance/README.md) | 106 |
+| [Security & Compliance](security-and-compliance/README.md) | 107 |
 | [Research](research/README.md) | 83 |
 | [Coding](coding/README.md) | 60 |
 | [Knowledge Management](knowledge-management/README.md) | 37 |
@@ -64,7 +64,7 @@ Processes, logistics and the systems that run a business. **1,311 ready-made Gro
 | [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
 
-[All 190 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 192 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Productivity
 
@@ -94,7 +94,7 @@ Processes, logistics and the systems that run a business. **1,311 ready-made Gro
 | [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 
-[All 106 Security & Compliance templates →](security-and-compliance/README.md)
+[All 107 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Research
 

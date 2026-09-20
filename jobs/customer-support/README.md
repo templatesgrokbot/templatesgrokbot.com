@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **150 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **154 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,12 +11,12 @@ Answering, routing and resolving customer requests. **150 ready-made Grok Bot te
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 70 |
+| [Support & Community](support-and-community/README.md) | 73 |
 | [Data Analysis](data-analysis/README.md) | 26 |
 | [Productivity](productivity/README.md) | 15 |
 | [Writing & Content](writing-and-content/README.md) | 7 |
+| [Knowledge Management](knowledge-management/README.md) | 6 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 5 |
-| [Knowledge Management](knowledge-management/README.md) | 5 |
 | [Translation](translation/README.md) | 4 |
 | [Coding](coding/README.md) | 3 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
@@ -60,6 +60,8 @@ Answering, routing and resolving customer requests. **150 ready-made Grok Bot te
 | [Hardware and Software Configuration Assistant](../it-and-development/support-and-community/hardware-and-software-configuration-assistant.md) | Guides help desk technicians through hardware and software configuration tasks. |
 | [Hardware Support Assistant](support-and-community/hardware-support-assistant.md) | Guides hardware users through troubleshooting, setup, upgrades, and maintenance with clear steps. |
 | [Help Desk Efficiency Director](../it-and-development/support-and-community/help-desk-efficiency-director.md) | Turns help desk tickets, chats, and metrics into faster resolutions and proactive IT support. |
+| [Help Desk Escalation Router](../it-and-development/support-and-community/help-desk-escalation-router.md) | Routes help desk escalations to the right departments and tracks every handoff. |
+| [Help Desk Feedback Manager](../it-and-development/support-and-community/help-desk-feedback-manager.md) | Collects, analyzes, and implements user feedback for help desk improvements. |
 | [Help Desk Ticket Logger](../it-and-development/support-and-community/help-desk-ticket-logger.md) | Logs, triages, and escalates help desk tickets from user reports to resolution notes. |
 | [Helpdesk Automation](support-and-community/helpdesk-automation.md) | Browse helpdesk tickets, views, canned responses, and custom fields via Rube MCP. |
 | [Helpdesk Management Assistant](support-and-community/helpdesk-management-assistant.md) | Triages tickets, resolves common issues, and maintains helpdesk systems for technical support specialists. |
@@ -72,6 +74,7 @@ Answering, routing and resolving customer requests. **150 ready-made Grok Bot te
 | [Logistics Customer Service Improver](../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
 | [Logistics Customer Service Optimizer](../operations/support-and-community/logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
 | [Loyalty Program Support Assistant](support-and-community/loyalty-program-support-assistant.md) | Loyalty program support assistant for customer service reps handling member queries and engagement. |
+| [Network Troubleshooting Guide](../it-and-development/support-and-community/network-troubleshooting-guide.md) | Network troubleshooting guide for help desk technicians, step by step. |
 | [Order Management Support Assistant](support-and-community/order-management-support-assistant.md) | Handles customer order inquiries from status checks to refunds, with approval before any action. |
 | [Personalized Customer Support Assistant](support-and-community/personalized-customer-support-assistant.md) | Personalized customer support assistant that handles inquiries, troubleshooting, and follow-ups end-to-end.​ |
 | [Personalized Insurance Service Assistant](support-and-community/personalized-insurance-service-assistant.md) | Personalized insurance service assistant for customer service representatives. |
@@ -166,6 +169,17 @@ Answering, routing and resolving customer requests. **150 ready-made Grok Bot te
 | [Technical Documentation Reviewer](writing-and-content/technical-documentation-reviewer.md) | Reviews and refines technical documentation for accuracy, clarity, and compliance. |
 | [Training Module Developer](writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
 
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Document Organization Assistant](knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
+| [Insurance Training and Knowledge Manager](knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
+| [Knowledge Base Article Assistant](../it-and-development/knowledge-management/knowledge-base-article-assistant.md) | Turns help desk know-how into clear, accurate knowledge base articles. |
+| [Knowledge Base Builder](knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
+| [Knowledge Base Expansion Assistant](knowledge-management/knowledge-base-expansion-assistant.md) | Expands and maintains your product knowledge base with researched, translated, and user-focused content. |
+| [Knowledge Base Maintenance Assistant](knowledge-management/knowledge-base-maintenance-assistant.md) | Maintains your knowledge base: creates, edits, categorizes, links, translates, and tracks articles for customer support. |
+
 ## Cloud & DevOps
 
 | Template | What it does |
@@ -175,16 +189,6 @@ Answering, routing and resolving customer requests. **150 ready-made Grok Bot te
 | [Performance Optimization Assistant](cloud-and-devops/performance-optimization-assistant.md) | Optimizes system performance through code, database, network, and resource analysis. |
 | [System Upgrade Coordinator](cloud-and-devops/system-upgrade-coordinator.md) | Plans, executes, and supports system upgrades with minimal disruption. |
 | [WhatsApp Cloud API](../it-and-development/cloud-and-devops/whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Document Organization Assistant](knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
-| [Insurance Training and Knowledge Manager](knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
-| [Knowledge Base Builder](knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
-| [Knowledge Base Expansion Assistant](knowledge-management/knowledge-base-expansion-assistant.md) | Expands and maintains your product knowledge base with researched, translated, and user-focused content. |
-| [Knowledge Base Maintenance Assistant](knowledge-management/knowledge-base-maintenance-assistant.md) | Maintains your knowledge base: creates, edits, categorizes, links, translates, and tracks articles for customer support. |
 
 ## Translation
 

@@ -1,6 +1,6 @@
 # Writing & Content templates for IT and Development
 
-Plan, write and edit articles, copy and documentation. 30 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 31 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,7 @@ Plan, write and edit articles, copy and documentation. 30 Grok Bot templates, 17
 | [Resume Formatter](../../human-resources/writing-and-content/resume-formatter.md) | Reformats resumes for ATS compatibility and clean, scannable layouts. |
 | [Resume Section Builder](../../human-resources/writing-and-content/resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
 | [Se Technical Writer](se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
+| [Software Documentation Assistant](software-documentation-assistant.md) | Documentation assistant for software developers creating clear, consistent code and user docs. |
 | [Systems Documentation Assistant](systems-documentation-assistant.md) | Turns system admin notes into clear, structured documentation and reports. |
 | [Tech Resume Optimizer](tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 | [Technical Documentation Assistant](../../product-development/writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |

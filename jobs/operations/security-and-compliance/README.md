@@ -1,6 +1,6 @@
 # Security & Compliance templates for Operations
 
-Authorised security testing, audits and regulatory work. 106 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 107 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -85,6 +85,7 @@ Authorised security testing, audits and regulatory work. 106 Grok Bot templates,
 | [Regulatory Affairs Head](regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
 | [Regulatory Compliance Guidance Assistant](../../product-development/security-and-compliance/regulatory-compliance-guidance-assistant.md) | Guides process engineers through regulatory compliance research, documentation, reporting, training, audits, and risk management. |
 | [Regulatory Compliance Monitor](regulatory-compliance-monitor.md) | Tracks regulatory changes, audits compliance, and reports status for global operations. |
+| [Regulatory Compliance QA Assistant](../../it-and-development/security-and-compliance/regulatory-compliance-qa-assistant.md) | Automates regulatory compliance tasks for QA managers, from document review to audit prep. |
 | [Risk Control Hazard Finder](../../healthcare/security-and-compliance/risk-control-hazard-finder.md) | Hazard identification assistant for health and safety specialists, turning data into risk controls. |
 | [Safety and Compliance Planner](safety-and-compliance-planner.md) | Safety and compliance support for production planners: reviews, audits, training, and incident response. |
 | [Safety Audit Assistant](../../healthcare/security-and-compliance/safety-audit-assistant.md) | Streamlines safety audits by generating checklists, analyzing records, and assessing compliance. |

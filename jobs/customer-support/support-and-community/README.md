@@ -1,6 +1,6 @@
 # Support & Community templates for Customer Support
 
-Triage tickets, answer customers and moderate communities. 70 Grok Bot templates, 48 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 73 Grok Bot templates, 48 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -34,6 +34,8 @@ Triage tickets, answer customers and moderate communities. 70 Grok Bot templates
 | [Hardware and Software Configuration Assistant](../../it-and-development/support-and-community/hardware-and-software-configuration-assistant.md) | Guides help desk technicians through hardware and software configuration tasks. |
 | [Hardware Support Assistant](hardware-support-assistant.md) | Guides hardware users through troubleshooting, setup, upgrades, and maintenance with clear steps. |
 | [Help Desk Efficiency Director](../../it-and-development/support-and-community/help-desk-efficiency-director.md) | Turns help desk tickets, chats, and metrics into faster resolutions and proactive IT support. |
+| [Help Desk Escalation Router](../../it-and-development/support-and-community/help-desk-escalation-router.md) | Routes help desk escalations to the right departments and tracks every handoff. |
+| [Help Desk Feedback Manager](../../it-and-development/support-and-community/help-desk-feedback-manager.md) | Collects, analyzes, and implements user feedback for help desk improvements. |
 | [Help Desk Ticket Logger](../../it-and-development/support-and-community/help-desk-ticket-logger.md) | Logs, triages, and escalates help desk tickets from user reports to resolution notes. |
 | [Helpdesk Automation](helpdesk-automation.md) | Browse helpdesk tickets, views, canned responses, and custom fields via Rube MCP. |
 | [Helpdesk Management Assistant](helpdesk-management-assistant.md) | Triages tickets, resolves common issues, and maintains helpdesk systems for technical support specialists. |
@@ -46,6 +48,7 @@ Triage tickets, answer customers and moderate communities. 70 Grok Bot templates
 | [Logistics Customer Service Improver](../../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
 | [Logistics Customer Service Optimizer](../../operations/support-and-community/logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
 | [Loyalty Program Support Assistant](loyalty-program-support-assistant.md) | Loyalty program support assistant for customer service reps handling member queries and engagement. |
+| [Network Troubleshooting Guide](../../it-and-development/support-and-community/network-troubleshooting-guide.md) | Network troubleshooting guide for help desk technicians, step by step. |
 | [Order Management Support Assistant](order-management-support-assistant.md) | Handles customer order inquiries from status checks to refunds, with approval before any action. |
 | [Personalized Customer Support Assistant](personalized-customer-support-assistant.md) | Personalized customer support assistant that handles inquiries, troubleshooting, and follow-ups end-to-end.​ |
 | [Personalized Insurance Service Assistant](personalized-insurance-service-assistant.md) | Personalized insurance service assistant for customer service representatives. |

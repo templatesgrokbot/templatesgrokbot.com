@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 88 Grok Bot templates, 35 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 94 Grok Bot templates, 41 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,6 +25,7 @@ Plan, prioritise and clear the recurring admin. 88 Grok Bot templates, 35 of the
 | [Conductor Manage](../../operations/productivity/conductor-manage.md) | Manage Conductor track lifecycle: archive, restore, delete, rename, and cleanup. |
 | [Conductor New Track](../../management/productivity/conductor-new-track.md) | Create a new track with specification and phased implementation plan. |
 | [Conductor Status](../../management/productivity/conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
+| [Cross-Functional Communication Coordinator](cross-functional-communication-coordinator.md) | Coordinates cross-team communication for QA managers: meetings, updates, feedback, and tools. |
 | [CTO IT Project Navigator](../../executives-and-strategy/productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Daily Meeting Update](daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Deadline Prep](../../management/productivity/deadline-prep.md) | Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you |
@@ -42,6 +43,7 @@ Plan, prioritise and clear the recurring admin. 88 Grok Bot templates, 35 of the
 | [Google Drive Automation](../../operations/productivity/google-drive-automation.md) | Full read/write access to Google Drive with standalone OAuth. |
 | [Hackathon Ai Strategist](../../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [IT Delivery Planner](it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
+| [IT Project Closure Companion](it-project-closure-companion.md) | Plan, track, and close IT projects with structured AI assistance for every phase. |
 | [IT Project Management Assistant](it-project-management-assistant.md) | IT project planning, risk, resource, and stakeholder support for Vice Presidents of IT. |
 | [IT Strategy Formulation Assistant](it-strategy-formulation-assistant.md) | Turns IT landscape data into a strategic plan for a Vice President of IT, with approvals before any action. |
 | [IT Talent Acquisition Planner](it-talent-acquisition-planner.md) | Guides IT leaders through the full talent acquisition cycle, from market analysis to onboarding, with actionable AI-assisted strategies. |
@@ -67,6 +69,9 @@ Plan, prioritise and clear the recurring admin. 88 Grok Bot templates, 35 of the
 | [Plugin Settings](plugin-settings.md) | Creates and reads per-project plugin config from .claude/plugin-name.local.md files with YAML frontmatter. |
 | [Plugin Structure](plugin-structure.md) | Scaffolds and explains Claude Code plugin structure, manifest, and component organization. |
 | [Project Supervisor Orchestrator](../../operations/productivity/project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
+| [QA Collaboration Workflow Assistant](qa-collaboration-workflow-assistant.md) | QA team collaboration and testing workflow assistant for QA managers. |
+| [QA Process Improvement Planner](qa-process-improvement-planner.md) | Optimize QA processes with AI-driven analysis, automation, and reporting. |
+| [QA Test Planning Strategist](qa-test-planning-strategist.md) | Plans and strategizes QA testing from coverage analysis to CI/CD. |
 | [Refine Issue](refine-issue.md) | Enriches GitHub issues with acceptance criteria, edge cases, and technical notes. |
 | [Risk Analysis and Management Assistant](risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Schedule Tasks](../../operations/productivity/anthropic-schedule.md) | Run recurring tasks automatically: a briefing every morning, a weekly plan every Monday, an inbox check every hour. |
@@ -88,6 +93,7 @@ Plan, prioritise and clear the recurring admin. 88 Grok Bot templates, 35 of the
 | [Track Management](track-management.md) | Manage Conductor tracks from spec to completion. |
 | [Transformation Roadmap Builder](transformation-roadmap-builder.md) | Plans and runs your digital transformation strategy from research to rollout to improvement. |
 | [Triage](triage.md) | Triage issues and PRs through a state machine to agent-ready briefs. |
+| [UAT Cycle Coordinator](uat-cycle-coordinator.md) | Plans, runs, and reports UAT cycles for QA managers. |
 | [VopixSounds](vopixsounds.md) | Plays sounds when Claude needs you or finishes a task so you can work in another window. |
 | [Workflow Automation Architect](../../product-development/productivity/workflow-automation-architect.md) | Automates process workflows from data extraction to compliance and reporting. |
 | [Workflow Orchestrator](../../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |

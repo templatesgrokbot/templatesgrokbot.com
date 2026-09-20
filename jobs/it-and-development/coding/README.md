@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1031 Grok Bot templates, 1022 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them fi
 | [Accint Solve](accint-solve.md) | Route a goal through acc's scored-memory loop and deliberate brain_frames. |
 | [Address Comments](address-comments.md) | Addresses pull request comments with minimal, tested changes. |
 | [Address Github Comments](address-github-comments.md) | Address GitHub PR review comments with gh CLI after user approval. |
+| [Advanced SQL Advisor for DBAs](advanced-sql-advisor-for-dbas.md) | SQL advisor for DBAs: optimize, design, and secure databases with expert guidance. |
 | [Aem Frontend Specialist](aem-frontend-specialist.md) | Builds AEM components from Figma designs using HTL, Tailwind CSS, and design tokens. |
 | [Agent Framework Azure Ai Py](agent-framework-azure-ai-py.md) | Build persistent agents on Azure AI Foundry with the Microsoft Agent Framework Python SDK. |
 | [Agent Harness Fault Injection](agent-harness-fault-injection.md) | Deterministic fault injection to test agent workflow recovery before production. |
@@ -26,6 +27,7 @@ Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them fi
 | [Agent Self Scheduling](agent-self-scheduling.md) | Schedule AI agent runs with cron, loops, or external clocks while avoiding unsafe tight autonomous timers. |
 | [Agentflow](agentflow.md) | Orchestrate autonomous AI development pipelines through your Kanban board. |
 | [Agents Generator](agents-generator.md) | Generate project-specific AGENTS.md and companion rules by analyzing a real codebase. |
+| [Agile Testing Assistant](agile-testing-assistant.md) | Agile testing assistant for QA managers covering automation, BDD, TDD, exploratory, and reporting. |
 | [Agirails Agent Payments](agirails-agent-payments.md) | Generates USDC payment code for agents earning or paying on Base L2. |
 | [Agy Delegate](agy-delegate.md) | Hand a bounded coding task to the Antigravity CLI, then review and commit the diff yourself. |
 | [AI Debt Detector](ai-debt-detector.md) | Audits AI-generated code for hidden debt and failure patterns. |
@@ -34,6 +36,7 @@ Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them fi
 | [Aider Delegate](aider-delegate.md) | Delegate bounded coding tasks to Aider and review its diff before committing. |
 | [Airflow Dag Patterns](airflow-dag-patterns.md) | Build production Airflow DAGs with operators, sensors, testing, and deployment patterns. No cron job replacements. No non-Airflow orchestration. No pr |
 | [Airtable Automation](airtable-automation.md) | Automate Airtable records, schema, and comments via Rube MCP |
+| [Algorithm Optimization Assistant](algorithm-optimization-assistant.md) | Optimize your algorithms' speed, memory, and efficiency with guided analysis and design. |
 | [Amplitude Experiment Implementation](amplitude-experiment-implementation.md) | Implements feature experiments from GitHub issues using Amplitude MCP. |
 | [Analyze Project](analyze-project.md) | Forensic root cause analysis for AI-assisted coding sessions. |
 | [Android Cli](android-cli.md) | Orchestrates Android dev tasks: project creation, SDK management, device interaction, and environment diagnostics via CLI. |
@@ -75,6 +78,8 @@ Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them fi
 | [Atlas Contract](atlas-contract.md) | Prevents goal drift during backend, API, or data-critical work by emitting contracts and deviation notices. |
 | [Audit Agent Run Evidence](audit-agent-run-evidence.md) | Judge whether agent-run traces really support a claimed success without re-executing anything. |
 | [Audit Context Building](audit-context-building.md) | Line-by-line code analysis to build deep architectural context before auditing. |
+| [Automated Testing Assistant](automated-testing-assistant.md) | Automated testing assistant for developers: scripts, data, environments, execution, analysis, coverage, maintenance, reporting. |
+| [Automated Testing Guidance Assistant](automated-testing-guidance-assistant.md) | Automated testing guidance for QA managers: plan, generate, execute, and analyze tests with AI assistance. |
 | [Avalonia Layout Zafiro](avalonia-layout-zafiro.md) | Guide clean Avalonia UI layouts using Zafiro.Avalonia shared styles and minimal XAML |
 | [Avalonia Viewmodels Zafiro](avalonia-viewmodels-zafiro.md) | Generate Avalonia ViewModels, wizards, and navigation with Zafiro and ReactiveUI patterns. |
 | [Avalonia Zafiro Development](avalonia-zafiro-development.md) | Enforce Avalonia UI and Zafiro toolkit conventions for cross-platform app development. |
@@ -201,14 +206,17 @@ Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them fi
 | [Cmux](cmux.md) | Inspect, create, close, and rearrange cmux panes, surfaces, and workspaces from macOS terminal workflows. |
 | [Cocoindex](cocoindex.md) | Build and run CocoIndex data transformation pipelines (flows) for AI indexing. |
 | [Code Architect](code-architect.md) | Analyzes codebase patterns and produces complete implementation blueprints for new features. |
+| [Code Debugging Assistant](code-debugging-assistant.md) | Debug code, inspect errors, and optimize performance through guided debugging assistance. |
 | [Code Documentation Doc Generate](code-documentation-doc-generate.md) | Generate API docs, architecture diagrams, and user guides from code. |
 | [Code Explorer](code-explorer.md) | Trace and document how a codebase feature works from entry to storage. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Code Polish](code-polish.md) | Professionalize code comments and perform safe, non-semantic cleanup without altering logic or behavior. |
+| [Code Refactoring Assistant](code-refactoring-assistant.md) | Refactors your codebase for clarity, performance, and maintainability on demand. |
 | [Code Refactoring Context Restore](code-refactoring-context-restore.md) | Resume interrupted code work by validating saved context against current checkout. |
 | [Code Refactoring Refactor Clean](code-refactoring-refactor-clean.md) | Refactor code for clean, maintainable, and testable design. |
 | [Code Refactoring Tech Debt](code-refactoring-tech-debt.md) | Identify, quantify, and prioritize technical debt from code and change history. |
 | [Code Review](code-review.md) | Reviews pull requests for security, performance, and design following Sentry engineering practices. |
 | [Code Review Ai Ai Review](code-review-ai-ai-review.md) | Automated code review with AI and static analysis for pull requests. |
+| [Code Review and Analysis Assistant](code-review-and-analysis-assistant.md) | Analyzes code for quality, security, performance, and maintainability, returning findings and fixes. |
 | [Code Review And Quality](code-review-and-quality.md) | Multi-axis code review covering correctness, readability, architecture, security, and performance before merge. |
 | [Code Review Checklist](code-review-checklist.md) | Guide systematic code reviews with a structured checklist covering functionality, security, performance, and quality. |
 | [Code Review Excellence](code-review-excellence.md) | Analyze pull requests for correctness, security, and maintainability with structured feedback. |
@@ -278,6 +286,7 @@ Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them fi
 | [Cypress](cypress-skill.md) | Generates production-grade Cypress E2E and component tests in JS/TS. |
 | [Dart](dart.md) | Dart code guidelines covering null safety, collections, async, and Flutter patterns. |
 | [Data Structure Protocol](data-structure-protocol.md) | Navigate and refactor codebases using a persistent structural graph. |
+| [Data Structure Selection Advisor](data-structure-selection-advisor.md) | Guides software developers in selecting and optimizing data structures for performance, scalability, and memory efficiency. |
 | [Database Migration](database-migration.md) | Generates safe, reversible migration scripts for Sequelize, TypeORM, and Prisma. |
 | [Database Migrations Sql Migrations](database-migrations-sql-migrations.md) | Zero-downtime SQL migrations with rollback plans for PostgreSQL, MySQL, SQL Server. |
 | [Database Schema Designer](database-schema-designer.md) | Designs production-ready SQL and NoSQL schemas with normalization, indexing, and migration scripts. |
@@ -504,14 +513,17 @@ Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them fi
 | [Implementation Plan](implementation-plan.md) | Generate structured, AI-executable implementation plans for features or refactoring. |
 | [Improve Codebase Architecture](improve-codebase-architecture.md) | Scan a codebase for architectural friction, present visual HTML report, then grill through chosen refactor. |
 | [Incremental Implementation](incremental-implementation.md) | Build features in thin, testable slices — one piece at a time. |
+| [Index Strategy Advisor](index-strategy-advisor.md) | Indexing strategy advisor for database administrators to design, tune, and maintain indexes for query performance. |
 | [Infinity](infinity.md) | Enforces input validation at every entry point to block untrusted data from reaching business logic. |
 | [Inngest](inngest.md) | Builds serverless background jobs and event-driven workflows with Inngest, without managing queues or workers. |
 | [Instructree](instructree.md) | Map, explain, and lint coding-agent instruction files before changing code. |
+| [Integration Test Case Generator](integration-test-case-generator.md) | Generates integration test cases, scenarios, and data for QA managers. |
 | [Internet Court](internet-court.md) | Routes agent-to-agent commerce tasks to identity, negotiation, escrow, payment, verification, and dispute layers. |
 | [Invariant Guard](invariant-guard.md) | Forces loop invariants, termination arguments, and edge cases before writing code to prevent subtle correctness bugs. |
 | [Ios Debugger Agent](ios-debugger-agent.md) | Build, run, and debug iOS apps on a booted simulator via XcodeBuildMCP. |
 | [Ios Developer](ios-developer.md) | Builds and maintains native iOS apps with Swift/SwiftUI, from components to App Store submission, optimized for iOS 18. |
 | [Issues](issues.md) | Create, list, and view GitHub issues via guided workflows. |
+| [IT Scripting Automation Assistant](it-scripting-automation-assistant.md) | Automates IT scripting, debugging, deployment, and maintenance tasks for IT specialists. |
 | [Iterate Pr](iterate-pr.md) | Iterates on a PR until all CI checks pass and review feedback is addressed. |
 | [Janitor](janitor.md) | Eliminate tech debt by deleting unused code and simplifying complexity. |
 | [Java Architect](java-architect.md) | Designs enterprise Java architectures and migrates Spring Boot applications to cloud-native microservices. |
@@ -602,6 +614,7 @@ Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them fi
 | [Migration Guide Builder](migration-guide-builder.md) | Extracts your customizations into a replayable guide and upgrades cleanly without merge conflicts. |
 | [Minecraft Bukkit Pro](minecraft-bukkit-pro.md) | Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. |
 | [Ml Pipeline Workflow](ml-pipeline-workflow.md) | End-to-end MLOps pipeline orchestration from data prep to model deployment and monitoring. |
+| [ML Workflow Integrator](ml-workflow-integrator.md) | Guides ML project workflows from feature engineering to deployment and monitoring. |
 | [Mobile App Developer](mobile-app-developer.md) | Builds and optimizes native and cross-platform iOS/Android apps with performance and UX focus. |
 | [Mobile Developer](mobile-developer.md) | Architects cross-platform mobile apps with native performance and offline-first sync. |
 | [Mobile Security Coder](mobile-security-coder.md) | Secure mobile coding expert for input validation, WebView security, and platform-specific vulnerabilities. |
@@ -662,6 +675,7 @@ Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them fi
 | [Omp Delegate](omp-delegate.md) | Orchestrate bounded coding tasks via Oh My Pi, then review and commit yourself. |
 | [Ontoly Software Graph](ontoly-software-graph.md) | Analyze TypeScript architecture via Ontoly's deterministic Software Graph queries. |
 | [Open Dynamic Workflows](open-dynamic-workflows.md) | Plan, orchestrate, and adversarially verify parallel AI coding agents. |
+| [Open Source Contribution Assistant](open-source-contribution-assistant.md) | Guides open source contributors through setup, contribution, review, and compliance tasks. |
 | [Openapi Spec Generator](openapi-spec-generator.md) | Generate complete, valid OpenAPI 3.x or Swagger 2.0 specs from descriptions, code, or partial specs. |
 | [Openapi To Typescript](openapi-to-typescript.md) | Converts OpenAPI 3.0 JSON/YAML specs into TypeScript interfaces and type guards. |
 | [Openclaw Github Repo Commander](openclaw-github-repo-commander.md) | 7-stage workflow for GitHub repo audit, cleanup, PR review, and competitor analysis. |
@@ -839,6 +853,7 @@ Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them fi
 | [Smart Contract Specialist](smart-contract-specialist.md) | Designs smart contract architecture: proxy patterns, storage layout, module boundaries, and standards selection. Handles off implementation and securi |
 | [Smartui](smartui-skill.md) | Generate SmartUI visual regression test configs for TestMu AI cloud. |
 | [Software Architecture](software-architecture.md) | Guides software architecture decisions using Clean Architecture and DDD principles. |
+| [Software Development Advisor](software-development-advisor.md) | Advises IT specialists on coding, debugging, testing, and deployment best practices. |
 | [Software Engineer Agent V1](software-engineer-agent-v1.md) | Writes production-ready code autonomously from specifications. |
 | [Solidity Security](solidity-security.md) | Guide secure Solidity development, vulnerability prevention, and audit preparation. |
 | [Source Driven Development](source-driven-development.md) | Grounds every framework-specific code decision in official documentation with citations. |
@@ -852,6 +867,7 @@ Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them fi
 | [Spring Boot Engineer](spring-boot-engineer.md) | Builds enterprise Spring Boot 3+ microservices with cloud-native and reactive patterns. |
 | [Sql Optimization Patterns](sql-optimization-patterns.md) | Systematically optimize slow SQL queries with indexing and plan analysis. |
 | [Sql Pro](sql-pro.md) | Optimize SQL queries, design schemas, and tune performance for cloud-native and hybrid databases. |
+| [SQL Query Optimization Assistant](sql-query-optimization-assistant.md) | Optimizes SQL queries and database performance for database administrators. |
 | [Squirrel](squirrel.md) | Full-cycle coding agent that plans, builds, tests, and ships production-grade software. |
 | [Standup Writer](standup-writer.md) | Turns yesterday's commits, PRs, and tickets into a standup update you can paste without editing. |
 | [Star History Chart](star-history-chart.md) | Adds a self-hosted, auto-refreshing stargazers-over-time SVG chart to a GitHub repo README. |
@@ -912,7 +928,9 @@ Write, review, test and debug software. 1013 Grok Bot templates, 1004 of them fi
 | [Temporal Python Testing](temporal-python-testing.md) | Testing strategies for Temporal Python workflows using pytest |
 | [Terraform Aws Modules](terraform-aws-modules.md) | Design reusable Terraform modules for AWS with state management and HCL best practices. |
 | [Terraform Azure Implement](terraform-azure-implement.md) | Creates and reviews Azure Terraform code from planning files or user requests. |
+| [Test Automation Framework Advisor](test-automation-framework-advisor.md) | QA automation framework advisor: research, select, implement, and maintain your test automation stack. |
 | [Test Automator](test-automator.md) | Create comprehensive test suites and CI pipelines with self-healing and AI-powered automation. |
+| [Test Case Development Assistant](test-case-development-assistant.md) | Builds, reviews, documents, and prioritizes test cases for QA managers. |
 | [Test Detect](test-detect.md) | Detects your project's test framework and runs or generates tests for you. |
 | [Test Driven Development](test-driven-development.md) | Enforce the TDD cycle: write failing test first, minimal code to pass, verify both steps. |
 | [Test Engineer](test-engineer.md) | Runs automated test suites and reports coverage results for your project. |

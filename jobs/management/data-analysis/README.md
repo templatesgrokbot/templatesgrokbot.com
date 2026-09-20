@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 195 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 196 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -142,6 +142,7 @@ Clean, query, chart and explain data. 195 Grok Bot templates, 96 of them filed i
 | [Project Management Insight Assistant](../../operations/data-analysis/project-management-insight-assistant.md) | Tracks project tasks, resources, risks, budgets, timelines, quality, and stakeholder communication for operations directors. |
 | [Promotional Effectiveness Analyst](promotional-effectiveness-analyst.md) | Analyzes promotional effectiveness from sales, feedback, and competitor data to recommend improvements and optimize budget. |
 | [Purchasing Budget and Cost Analyst](purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
+| [QA Risk Management Assistant](../../it-and-development/data-analysis/qa-risk-management-assistant.md) | Identifies, assesses, and mitigates QA risks with data-driven insights and stakeholder-ready reports. |
 | [Quality Control Operations Assistant](../../operations/data-analysis/quality-control-operations-assistant.md) | Quality control assistant for operations managers: defect analysis, audits, and continuous improvement. |
 | [Quarterly Business Review Builder](../../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Real-Time Logistics Monitor](../../operations/data-analysis/real-time-logistics-monitor.md) | Real-time logistics monitoring and analysis for a logistics planner's operations. |
