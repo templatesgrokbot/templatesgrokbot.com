@@ -1,6 +1,6 @@
 # Research templates for Government
 
-Find sources, compare evidence and summarise what is known. 32 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 33 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -35,6 +35,7 @@ Find sources, compare evidence and summarise what is known. 32 Grok Bot template
 | [Survey Research Assistant](../../science-and-research/research/survey-research-assistant.md) | Builds, distributes, analyzes, and reports surveys for research studies. |
 | [Sustainable Procurement Advisor](../../operations/research/sustainable-procurement-advisor.md) | Guides sustainable procurement decisions from supplier evaluation to circular economy implementation. |
 | [Sustainable Purchasing Assistant](../../management/research/sustainable-purchasing-assistant.md) | Helps purchasing managers make sustainable procurement decisions and track their impact. |
+| [Tax Code Interpretation Assistant](../../finance/research/tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |
 | [Third-Party Compliance Evaluator](../../legal/research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 | [Threat Intelligence](../../it-and-development/research/threat-intelligence.md) | Enrich IOCs and profile threats from public sources with verified evidence. |
 | [Vendor Research and Evaluation Assistant](../../management/research/vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |

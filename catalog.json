@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 5753,
+ "count": 5851,
  "templates": [
   {
    "slug": "007",
@@ -636,6 +636,22 @@
    ],
    "path": "jobs/education/teaching-and-tutoring/activity-ideas-assistant.md",
    "url": "https://templatesgrokbot.com/bot/activity-ideas-assistant"
+  },
+  {
+   "slug": "actuarial-data-analysis-assistant",
+   "name": "Actuarial Data Analysis Assistant",
+   "tagline": "Analyzes insurance data for risk, pricing, and compliance, delivering clear reports.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/actuarial-data-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/actuarial-data-analysis-assistant"
   },
   {
    "slug": "ad-campaign-analyzer",
@@ -3116,6 +3132,21 @@
    "url": "https://templatesgrokbot.com/bot/animation-and-motion-graphics-planner"
   },
   {
+   "slug": "animation-production-planner",
+   "name": "Animation Production Planner",
+   "tagline": "Animation basics and production assistant for graphic designers creating animated content.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/creatives/teaching-and-tutoring/animation-production-planner.md",
+   "url": "https://templatesgrokbot.com/bot/animation-production-planner"
+  },
+  {
    "slug": "animejs-animation",
    "name": "Animejs Animation",
    "tagline": "Build complex, high-performance web animations with Anime.js timelines, staggering, and SVG morphing.",
@@ -5105,6 +5136,23 @@
    ],
    "path": "jobs/finance/security-and-compliance/audit-ready-file-builder.md",
    "url": "https://templatesgrokbot.com/bot/audit-ready-file-builder"
+  },
+  {
+   "slug": "audit-support-assistant",
+   "name": "Audit Support Assistant",
+   "tagline": "Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/finance/security-and-compliance/audit-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/audit-support-assistant"
   },
   {
    "slug": "audit-skills",
@@ -10725,6 +10773,21 @@
    "url": "https://templatesgrokbot.com/bot/budget-management-assistant"
   },
   {
+   "slug": "budget-optimization-assistant",
+   "name": "Budget Optimization Assistant",
+   "tagline": "Analyzes financial data and budgets to cut costs, forecast, and optimize spending.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/budget-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/budget-optimization-assistant"
+  },
+  {
    "slug": "budget-planning-assistant",
    "name": "Budget Planning Assistant",
    "tagline": "Prepares your budget plan from data gathering to final documentation.",
@@ -12091,6 +12154,20 @@
    "url": "https://templatesgrokbot.com/bot/cash-flow-forecaster-for-cfos"
   },
   {
+   "slug": "cash-flow-management-analyst",
+   "name": "Cash Flow Management Analyst",
+   "tagline": "Analyzes cash flow data, forecasts trends, and flags risks for the Global Head of Finances.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/cash-flow-management-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/cash-flow-management-analyst"
+  },
+  {
    "slug": "cash-flow-management-assistant",
    "name": "Cash Flow Management Assistant",
    "tagline": "Cash flow forecasting, tracking, reporting, and optimization for accountants, from data to decisions.",
@@ -12147,6 +12224,21 @@
    ],
    "path": "jobs/science-and-research/research/catalyst-design-and-testing-assistant.md",
    "url": "https://templatesgrokbot.com/bot/catalyst-design-and-testing-assistant"
+  },
+  {
+   "slug": "catastrophe-modeling-analyst",
+   "name": "Catastrophe Modeling Analyst",
+   "tagline": "Catastrophe modeling assistant for insurance risk analysts, from data to reports.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/catastrophe-modeling-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/catastrophe-modeling-analyst"
   },
   {
    "slug": "cdk-patterns",
@@ -12347,6 +12439,20 @@
    ],
    "path": "jobs/finance/data-analysis/cfo-financial-statement-analyzer.md",
    "url": "https://templatesgrokbot.com/bot/cfo-financial-statement-analyzer"
+  },
+  {
+   "slug": "cfo-forecast-studio",
+   "name": "CFO Forecast Studio",
+   "tagline": "Turns financial data into forecasts, budgets, and reports for finance specialists.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/cfo-forecast-studio.md",
+   "url": "https://templatesgrokbot.com/bot/cfo-forecast-studio"
   },
   {
    "slug": "cfo-investment-decision-support",
@@ -13259,6 +13365,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "claim-data-analysis-assistant",
+   "name": "Claim Data Analysis Assistant",
+   "tagline": "Turns claim data into risk insights, fraud flags, and pricing recommendations.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/claim-data-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/claim-data-analysis-assistant"
+  },
+  {
    "slug": "claim-document-verification-assistant",
    "name": "Claim Document Verification Assistant",
    "tagline": "Verifies insurance claim documents by extracting, cross-checking, and flagging issues before approval.",
@@ -13338,6 +13459,22 @@
    ],
    "path": "jobs/management/data-analysis/claims-cost-management-assistant.md",
    "url": "https://templatesgrokbot.com/bot/claims-cost-management-assistant"
+  },
+  {
+   "slug": "claims-data-analysis-assistant",
+   "name": "Claims Data Analysis Assistant",
+   "tagline": "Turns insurance claims data into clear insights, forecasts, and compliance checks for analysts.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/finance/data-analysis/claims-data-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/claims-data-analysis-assistant"
   },
   {
    "slug": "claims-data-and-records-assistant",
@@ -13451,6 +13588,22 @@
    "url": "https://templatesgrokbot.com/bot/claims-fraud-alert-generator"
   },
   {
+   "slug": "claims-fraud-pattern-scout",
+   "name": "Claims Fraud Pattern Scout",
+   "tagline": "Fraud detection analyst for insurance claims, flagging anomalies and supporting investigations.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/finance/data-analysis/claims-fraud-pattern-scout.md",
+   "url": "https://templatesgrokbot.com/bot/claims-fraud-pattern-scout"
+  },
+  {
    "slug": "claims-fraud-sentinel",
    "name": "Claims Fraud Sentinel",
    "tagline": "Detects and prevents insurance fraud through data analysis, monitoring, and investigation support.",
@@ -13479,6 +13632,22 @@
    ],
    "path": "jobs/management/data-analysis/claims-insights-analyst.md",
    "url": "https://templatesgrokbot.com/bot/claims-insights-analyst"
+  },
+  {
+   "slug": "claims-intake-fraud-screener",
+   "name": "Claims Intake Fraud Screener",
+   "tagline": "Automates and streamlines insurance claims processing, from intake to settlement, with fraud checks and compliance.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/finance/data-analysis/claims-intake-fraud-screener.md",
+   "url": "https://templatesgrokbot.com/bot/claims-intake-fraud-screener"
   },
   {
    "slug": "claims-processing-assistant",
@@ -14155,6 +14324,21 @@
    "url": "https://templatesgrokbot.com/bot/clickup-automation",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "client-communication-and-negotiation-assistant",
+   "name": "Client Communication and Negotiation Assistant",
+   "tagline": "Manages client communication, negotiation, and project delivery for graphic designers.",
+   "category": "operations",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "writing-and-content"
+   ],
+   "path": "jobs/creatives/sales-and-negotiation/client-communication-and-negotiation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/client-communication-and-negotiation-assistant"
   },
   {
    "slug": "client-communication-assistant",
@@ -15931,6 +16115,21 @@
    "url": "https://templatesgrokbot.com/bot/color-palette-extractor",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/color-palette-extractor",
    "source_license": "MIT"
+  },
+  {
+   "slug": "color-psychology-brand-palette-guide",
+   "name": "Color Psychology Brand Palette Guide",
+   "tagline": "Color theory guidance for graphic designers, from psychology to application.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/color-psychology-brand-palette-guide.md",
+   "url": "https://templatesgrokbot.com/bot/color-psychology-brand-palette-guide"
   },
   {
    "slug": "color-theory-design-assistant",
@@ -19347,6 +19546,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "copyright-prompt-architect",
+   "name": "Copyright Prompt Architect",
+   "tagline": "Drafts precise AI prompts for copyright research, drafting, and protection workflows.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "legal"
+   ],
+   "topics": [
+    "prompt-engineering"
+   ],
+   "path": "jobs/finance/prompt-engineering/copyright-prompt-architect.md",
+   "url": "https://templatesgrokbot.com/bot/copyright-prompt-architect"
+  },
+  {
    "slug": "copyright-prompt-strategist",
    "name": "Copyright Prompt Strategist",
    "tagline": "Turns your copyright questions into clear, actionable AI prompts and strategies.",
@@ -19927,6 +20141,20 @@
    "url": "https://templatesgrokbot.com/bot/cred-omega",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "credit-analysis-assistant",
+   "name": "Credit Analysis Assistant",
+   "tagline": "Automates credit analysis tasks from statement review to portfolio monitoring for finance specialists.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/credit-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/credit-analysis-assistant"
   },
   {
    "slug": "credit-card-max",
@@ -20911,6 +21139,20 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "crypto-tax-guidance-assistant",
+   "name": "Crypto Tax Guidance Assistant",
+   "tagline": "Guides tax analysts through cryptocurrency tax rules, reporting, and planning with clear explanations and examples.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/finance/teaching-and-tutoring/crypto-tax-guidance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/crypto-tax-guidance-assistant"
+  },
+  {
    "slug": "csharp-developer",
    "name": "Csharp Developer",
    "tagline": "Build and optimize ASP.NET Core APIs, cloud-native .NET solutions, and modern C# applications.",
@@ -21353,6 +21595,22 @@
    "url": "https://templatesgrokbot.com/bot/currency-risk-management-assistant"
   },
   {
+   "slug": "currency-risk-manager",
+   "name": "Currency Risk Manager",
+   "tagline": "Analyzes currency exposure, evaluates hedges, monitors markets, and reports to stakeholders.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/currency-risk-manager.md",
+   "url": "https://templatesgrokbot.com/bot/currency-risk-manager"
+  },
+  {
    "slug": "curriculum-design-assistant",
    "name": "Curriculum Design Assistant",
    "tagline": "Designs and refines your school's curriculum from research to assessment.",
@@ -21485,6 +21743,23 @@
    ],
    "path": "jobs/product-development/design/custom-packaging-design-assistant.md",
    "url": "https://templatesgrokbot.com/bot/custom-packaging-design-assistant"
+  },
+  {
+   "slug": "custom-payroll-report-builder",
+   "name": "Custom Payroll Report Builder",
+   "tagline": "Builds custom payroll reports from requirements to distribution, with validation and documentation.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools",
+    "writing-and-content"
+   ],
+   "path": "jobs/finance/data-analysis/custom-payroll-report-builder.md",
+   "url": "https://templatesgrokbot.com/bot/custom-payroll-report-builder"
   },
   {
    "slug": "customer-data-manager",
@@ -22078,6 +22353,22 @@
    "url": "https://templatesgrokbot.com/bot/customer-research",
    "adapted_from": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/customer-research",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "customer-risk-profiling-assistant",
+   "name": "Customer Risk Profiling Assistant",
+   "tagline": "Builds and maintains customer risk profiles for insurance risk analysts.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/finance/data-analysis/customer-risk-profiling-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/customer-risk-profiling-assistant"
   },
   {
    "slug": "customer-satisfaction-survey-assistant",
@@ -24168,6 +24459,20 @@
    "url": "https://templatesgrokbot.com/bot/deal-desk-financial-analyst"
   },
   {
+   "slug": "deal-lifecycle-navigator",
+   "name": "Deal Lifecycle Navigator",
+   "tagline": "Analyzes targets, structures deals, and tracks post-merger performance for finance teams.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/deal-lifecycle-navigator.md",
+   "url": "https://templatesgrokbot.com/bot/deal-lifecycle-navigator"
+  },
+  {
    "slug": "deal-lifecycle-strategist",
    "name": "Deal Lifecycle Strategist",
    "tagline": "Streamlines M&A analysis from due diligence to post-merger monitoring.",
@@ -25537,6 +25842,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "design-trend-intelligence-assistant",
+   "name": "Design Trend Intelligence Assistant",
+   "tagline": "Tracks design trends and turns them into adaptable assets for your clients and portfolio.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "research",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/creatives/design/design-trend-intelligence-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/design-trend-intelligence-assistant"
+  },
+  {
    "slug": "design-ux",
    "name": "Design Ux",
    "tagline": "Heuristic usability audit of interactive UIs against Nielsen's 10 and interaction add-ons. Scores live rendered artifact, not mockups. Fixes then re-a",
@@ -26262,6 +26584,21 @@
    ],
    "path": "jobs/sales/marketing-and-growth/digital-ad-campaign-assistant.md",
    "url": "https://templatesgrokbot.com/bot/digital-ad-campaign-assistant"
+  },
+  {
+   "slug": "digital-asset-management-organizer",
+   "name": "Digital Asset Management Organizer",
+   "tagline": "Organize, tag, track, and manage digital assets with a complete DAM workflow assistant.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "knowledge-management",
+    "productivity"
+   ],
+   "path": "jobs/creatives/knowledge-management/digital-asset-management-organizer.md",
+   "url": "https://templatesgrokbot.com/bot/digital-asset-management-organizer"
   },
   {
    "slug": "digital-communication-trends-assistant",
@@ -30150,6 +30487,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "employee-benefits-administrator",
+   "name": "Employee Benefits Administrator",
+   "tagline": "Manages employee benefits enrollment, communication, compliance, and reporting for payroll administrators.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "human-resources"
+   ],
+   "topics": [
+    "support-and-community",
+    "security-and-compliance",
+    "knowledge-management",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/support-and-community/employee-benefits-administrator.md",
+   "url": "https://templatesgrokbot.com/bot/employee-benefits-administrator"
+  },
+  {
    "slug": "employee-benefits-assistant",
    "name": "Employee Benefits Assistant",
    "tagline": "Explains and supports employee benefits questions, enrollment, and communication for HR Directors.",
@@ -30164,6 +30519,22 @@
    ],
    "path": "jobs/human-resources/support-and-community/employee-benefits-assistant.md",
    "url": "https://templatesgrokbot.com/bot/employee-benefits-assistant"
+  },
+  {
+   "slug": "employee-classification-advisor",
+   "name": "Employee Classification Advisor",
+   "tagline": "Guides payroll administrators through employee classification decisions and compliance.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "human-resources"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/finance/security-and-compliance/employee-classification-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/employee-classification-advisor"
   },
   {
    "slug": "employee-engagement-analyst",
@@ -30256,6 +30627,23 @@
    ],
    "path": "jobs/human-resources/data-analysis/employee-feedback-compilation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/employee-feedback-compilation-assistant"
+  },
+  {
+   "slug": "employee-financial-training-program-builder",
+   "name": "Employee Financial Training Program Builder",
+   "tagline": "Builds and runs employee financial training programs, from workshops to assessments.",
+   "category": "education",
+   "jobs": [
+    "finance",
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/finance/teaching-and-tutoring/employee-financial-training-program-builder.md",
+   "url": "https://templatesgrokbot.com/bot/employee-financial-training-program-builder"
   },
   {
    "slug": "employee-handbook-builder",
@@ -31645,6 +32033,21 @@
    ],
    "path": "jobs/legal/security-and-compliance/ethical-compliance-monitor.md",
    "url": "https://templatesgrokbot.com/bot/ethical-compliance-monitor"
+  },
+  {
+   "slug": "ethical-design-accessibility-assistant",
+   "name": "Ethical Design Accessibility Assistant",
+   "tagline": "Guides ethical, accessible design and audits for graphic designers.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/ethical-design-accessibility-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/ethical-design-accessibility-assistant"
   },
   {
    "slug": "ethical-hacking-methodology",
@@ -34335,6 +34738,23 @@
    "url": "https://templatesgrokbot.com/bot/feedback-intel-for-growth"
   },
   {
+   "slug": "feedback-interpretation-assistant",
+   "name": "Feedback Interpretation Assistant",
+   "tagline": "Interprets client feedback, refines designs, and builds feedback tools for graphic designers.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "writing-and-content",
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/creatives/design/feedback-interpretation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/feedback-interpretation-assistant"
+  },
+  {
    "slug": "feedback-loop-manager",
    "name": "Feedback Loop Manager",
    "tagline": "Analyzes customer feedback, automates responses, and tracks resolution to close the loop.",
@@ -34777,6 +35197,56 @@
    "url": "https://templatesgrokbot.com/bot/finance-calendar-concierge"
   },
   {
+   "slug": "finance-compliance-checklist-builder",
+   "name": "Finance Compliance Checklist Builder",
+   "tagline": "Monitors regulatory changes, builds checklists, reviews policies, and prepares compliance reports and audits for finance teams.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/finance/security-and-compliance/finance-compliance-checklist-builder.md",
+   "url": "https://templatesgrokbot.com/bot/finance-compliance-checklist-builder"
+  },
+  {
+   "slug": "finance-cost-benefit-analyzer",
+   "name": "Finance Cost-Benefit Analyzer",
+   "tagline": "Runs complete cost-benefit analyses for finance specialists, from data gathering to final recommendations.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/finance-cost-benefit-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/finance-cost-benefit-analyzer"
+  },
+  {
+   "slug": "finance-esg-report-builder",
+   "name": "Finance ESG Report Builder",
+   "tagline": "Turns sustainability data into reports, insights, and stakeholder-ready narratives.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "writing-and-content",
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/finance/writing-and-content/finance-esg-report-builder.md",
+   "url": "https://templatesgrokbot.com/bot/finance-esg-report-builder"
+  },
+  {
    "slug": "finance-event-orchestrator",
    "name": "Finance Event Orchestrator",
    "tagline": "Plans, coordinates, and tracks every detail of your events from venue to post-event feedback.",
@@ -34791,6 +35261,38 @@
    ],
    "path": "jobs/finance/productivity/finance-event-orchestrator.md",
    "url": "https://templatesgrokbot.com/bot/finance-event-orchestrator"
+  },
+  {
+   "slug": "finance-impact-modeler",
+   "name": "Finance Impact Modeler",
+   "tagline": "Economic impact analysis assistant for finance and accounting specialists.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/finance-impact-modeler.md",
+   "url": "https://templatesgrokbot.com/bot/finance-impact-modeler"
+  },
+  {
+   "slug": "finance-m-a-target-analyzer",
+   "name": "Finance M&A Target Analyzer",
+   "tagline": "Analyzes M&A targets, valuations, risks, synergies, and integration for the Global Head of Finances.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/finance-m-a-target-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/finance-m-a-target-analyzer"
   },
   {
    "slug": "finance-manager-investment-analyst",
@@ -34823,6 +35325,37 @@
    ],
    "path": "jobs/finance/social-media/finance-social-media-manager.md",
    "url": "https://templatesgrokbot.com/bot/finance-social-media-manager"
+  },
+  {
+   "slug": "finance-trend-forecaster",
+   "name": "Finance Trend Forecaster",
+   "tagline": "Analyzes economic impacts on finances, forecasts trends, and prepares stakeholder reports.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/finance-trend-forecaster.md",
+   "url": "https://templatesgrokbot.com/bot/finance-trend-forecaster"
+  },
+  {
+   "slug": "finance-trend-insight-studio",
+   "name": "Finance Trend Insight Studio",
+   "tagline": "Market trend analysis for finance and accounting specialists, from data collection to presentation.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/finance-trend-insight-studio.md",
+   "url": "https://templatesgrokbot.com/bot/finance-trend-insight-studio"
   },
   {
    "slug": "financial-analysis-and-strategy-assistant",
@@ -34887,6 +35420,22 @@
    "url": "https://templatesgrokbot.com/bot/financial-data-interpreter"
   },
   {
+   "slug": "financial-data-visualization-assistant",
+   "name": "Financial Data Visualization Assistant",
+   "tagline": "Turns financial data into clear, decision-ready charts and dashboards for the global finance head.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "design"
+   ],
+   "path": "jobs/finance/data-analysis/financial-data-visualization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/financial-data-visualization-assistant"
+  },
+  {
    "slug": "financial-document-parser",
    "name": "Financial Document Parser",
    "tagline": "Extracts structured data from financial documents and categorizes expenses.",
@@ -34901,6 +35450,21 @@
    "url": "https://templatesgrokbot.com/bot/financial-document-parser",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/financial-parser",
    "source_license": "MIT"
+  },
+  {
+   "slug": "financial-file-analyst",
+   "name": "Financial File Analyst",
+   "tagline": "Manages financial file uploads, conversions, and data analysis for the Global Head of Finances.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/finance/data-analysis/financial-file-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/financial-file-analyst"
   },
   {
    "slug": "financial-forecast-assistant",
@@ -35136,6 +35700,21 @@
    "url": "https://templatesgrokbot.com/bot/financial-performance-metrics-assistant"
   },
   {
+   "slug": "financial-planning-assistant",
+   "name": "Financial Planning Assistant",
+   "tagline": "Personal financial planning assistant for tax analysts covering budgets, investments, retirement, taxes, debt, insurance, education, estate, cash…",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/productivity/financial-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/financial-planning-assistant"
+  },
+  {
    "slug": "financial-process-automation-assistant",
    "name": "Financial Process Automation Assistant",
    "tagline": "Automates financial data work, analysis, reporting, and compliance for financial analysts.",
@@ -35150,6 +35729,22 @@
    ],
    "path": "jobs/finance/data-analysis/financial-process-automation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/financial-process-automation-assistant"
+  },
+  {
+   "slug": "financial-process-automation-planner",
+   "name": "Financial Process Automation Planner",
+   "tagline": "Automates financial data analysis, process optimization, and reporting for the Global Head of Finances.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity",
+    "office-tools"
+   ],
+   "path": "jobs/finance/data-analysis/financial-process-automation-planner.md",
+   "url": "https://templatesgrokbot.com/bot/financial-process-automation-planner"
   },
   {
    "slug": "financial-projections-assistant",
@@ -35254,6 +35849,20 @@
    ],
    "path": "jobs/finance/data-analysis/financial-statement-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/financial-statement-analysis-assistant"
+  },
+  {
+   "slug": "financial-statement-analyst",
+   "name": "Financial Statement Analyst",
+   "tagline": "Financial statement analysis assistant for finance and accounting specialists.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/financial-statement-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/financial-statement-analyst"
   },
   {
    "slug": "financial-training-assistant",
@@ -35461,6 +36070,23 @@
    "url": "https://templatesgrokbot.com/bot/fintech-graphql-auditor",
    "adapted_from": "https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/hunt-fintech-graphql",
    "source_license": "MIT"
+  },
+  {
+   "slug": "fintech-integration-planner",
+   "name": "FinTech Integration Planner",
+   "tagline": "Plans and oversees financial technology integration, from analysis to implementation and optimization.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis",
+    "research",
+    "security-and-compliance"
+   ],
+   "path": "jobs/finance/productivity/fintech-integration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/fintech-integration-planner"
   },
   {
    "slug": "fire-safety-analysis-planner",
@@ -36625,6 +37251,24 @@
    "url": "https://templatesgrokbot.com/bot/framework-migration-legacy-modernize",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "fraud-detection-algorithm-assistant",
+   "name": "Fraud Detection Algorithm Assistant",
+   "tagline": "Helps insurance data analysts build, test, and refine fraud detection algorithms from data prep to real-time monitoring.",
+   "category": "engineering",
+   "jobs": [
+    "finance",
+    "insurance",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding",
+    "prompt-engineering"
+   ],
+   "path": "jobs/finance/data-analysis/fraud-detection-algorithm-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/fraud-detection-algorithm-assistant"
   },
   {
    "slug": "free-tier-strategy",
@@ -38143,6 +38787,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "geographic-risk-analysis-assistant",
+   "name": "Geographic Risk Analysis Assistant",
+   "tagline": "Geographic risk analysis assistant for insurance risk analysts, turning data into assessments and reports. No hype, no fluff.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/geographic-risk-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/geographic-risk-analysis-assistant"
+  },
+  {
    "slug": "geological-data-interpretation-assistant",
    "name": "Geological Data Interpretation Assistant",
    "tagline": "Turns geological survey data into interpreted structures, maps, models, and reports for geologists.",
@@ -38969,6 +39629,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "global-compliance-assistant",
+   "name": "Global Compliance Assistant",
+   "tagline": "Regulatory compliance assistant for a global finance head, covering monitoring, reporting, risk, policy, training, audits, data privacy, vendors,…",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/finance/security-and-compliance/global-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/global-compliance-assistant"
+  },
+  {
    "slug": "global-content-marketing-planner",
    "name": "Global Content Marketing Planner",
    "tagline": "Plans, creates, distributes, and optimizes global content marketing for a Head of Marketing.",
@@ -39002,6 +39679,70 @@
    ],
    "path": "jobs/executives-and-strategy/marketing-and-growth/global-crisis-comms-strategist.md",
    "url": "https://templatesgrokbot.com/bot/global-crisis-comms-strategist"
+  },
+  {
+   "slug": "global-finance-cost-benefit-analyst",
+   "name": "Global Finance Cost-Benefit Analyst",
+   "tagline": "Runs cost-benefit analyses for global finance decisions, from data gathering to stakeholder reports.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/finance/data-analysis/global-finance-cost-benefit-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/global-finance-cost-benefit-analyst"
+  },
+  {
+   "slug": "global-finance-forecast-studio",
+   "name": "Global Finance Forecast Studio",
+   "tagline": "Turns your financial data into forecasts, scenarios, and reports for the Global Head of Finances.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/global-finance-forecast-studio.md",
+   "url": "https://templatesgrokbot.com/bot/global-finance-forecast-studio"
+  },
+  {
+   "slug": "global-finance-report-builder",
+   "name": "Global Finance Report Builder",
+   "tagline": "Prepares, analyzes, and delivers financial reports for a global finance head.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/finance/data-analysis/global-finance-report-builder.md",
+   "url": "https://templatesgrokbot.com/bot/global-finance-report-builder"
+  },
+  {
+   "slug": "global-financial-risk-assessor",
+   "name": "Global Financial Risk Assessor",
+   "tagline": "Identifies, analyzes, and reports on financial risks across global operations.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/global-financial-risk-assessor.md",
+   "url": "https://templatesgrokbot.com/bot/global-financial-risk-assessor"
   },
   {
    "slug": "global-hr-policy-formulation-assistant",
@@ -39226,6 +39967,23 @@
    ],
    "path": "jobs/human-resources/productivity/global-ta-strategy-advisor.md",
    "url": "https://templatesgrokbot.com/bot/global-ta-strategy-advisor"
+  },
+  {
+   "slug": "global-tax-strategy-planner",
+   "name": "Global Tax Strategy Planner",
+   "tagline": "Analyzes tax structures, ensures compliance, and optimizes global tax strategy.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/security-and-compliance/global-tax-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/global-tax-strategy-planner"
   },
   {
    "slug": "gm-collaboration-planner",
@@ -44635,6 +45393,21 @@
    "url": "https://templatesgrokbot.com/bot/insurance-compliance-manager"
   },
   {
+   "slug": "insurance-customer-segmentation-analyst",
+   "name": "Insurance Customer Segmentation Analyst",
+   "tagline": "Segment insurance customers and generate insights for targeted marketing and risk management.",
+   "category": "marketing",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/insurance-customer-segmentation-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-customer-segmentation-analyst"
+  },
+  {
    "slug": "insurance-customer-service-optimizer",
    "name": "Insurance Customer Service Optimizer",
    "tagline": "Analyzes feedback, trains support tools, and streamlines insurance customer service operations.",
@@ -44794,6 +45567,40 @@
    "url": "https://templatesgrokbot.com/bot/insurance-fraud-detection-assistant"
   },
   {
+   "slug": "insurance-market-radar",
+   "name": "Insurance Market Radar",
+   "tagline": "Tracks competitors' moves and market shifts to sharpen your insurance strategy.",
+   "category": "research",
+   "jobs": [
+    "finance",
+    "insurance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "research",
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/research/insurance-market-radar.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-market-radar"
+  },
+  {
+   "slug": "insurance-market-trend-analyst",
+   "name": "Insurance Market Trend Analyst",
+   "tagline": "Analyzes insurance market trends and risks, turning data into actionable insights for risk analysts.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/insurance-market-trend-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-market-trend-analyst"
+  },
+  {
    "slug": "insurance-market-trend-analyzer",
    "name": "Insurance Market Trend Analyzer",
    "tagline": "Market trend analysis for insurance operations managers, from data to decisions.",
@@ -44896,6 +45703,22 @@
    "url": "https://templatesgrokbot.com/bot/insurance-policy-analysis-assistant"
   },
   {
+   "slug": "insurance-pricing-strategy-optimizer",
+   "name": "Insurance Pricing Strategy Optimizer",
+   "tagline": "Optimizes insurance pricing through data analysis, modeling, and strategic insights.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/insurance-pricing-strategy-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-pricing-strategy-optimizer"
+  },
+  {
    "slug": "insurance-product-knowledge-manager",
    "name": "Insurance Product Knowledge Manager",
    "tagline": "Keeps insurance agency managers and their agents product-smart and ready to advise.",
@@ -44931,6 +45754,36 @@
    ],
    "path": "jobs/customer-support/data-analysis/insurance-risk-assessment-assistant.md",
    "url": "https://templatesgrokbot.com/bot/insurance-risk-assessment-assistant"
+  },
+  {
+   "slug": "insurance-risk-modeling-assistant",
+   "name": "Insurance Risk Modeling Assistant",
+   "tagline": "Builds and maintains insurance risk models from data to compliance.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/insurance-risk-modeling-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-risk-modeling-assistant"
+  },
+  {
+   "slug": "insurance-risk-modelling-assistant",
+   "name": "Insurance Risk Modelling Assistant",
+   "tagline": "Builds and validates insurance risk models from data to reports, with approval gates.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/insurance-risk-modelling-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-risk-modelling-assistant"
   },
   {
    "slug": "insurance-training-and-knowledge-manager",
@@ -45361,6 +46214,23 @@
    "url": "https://templatesgrokbot.com/bot/international-patent-filing-assistant"
   },
   {
+   "slug": "international-payroll-manager",
+   "name": "International Payroll Manager",
+   "tagline": "Manages international payroll tasks from data upkeep to compliance and reporting.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "security-and-compliance",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/productivity/international-payroll-manager.md",
+   "url": "https://templatesgrokbot.com/bot/international-payroll-manager"
+  },
+  {
    "slug": "international-procurement-compliance-guide",
    "name": "International Procurement Compliance Guide",
    "tagline": "Guides procurement specialists through international guidelines, compliance, and supplier management.",
@@ -45377,6 +46247,22 @@
    ],
    "path": "jobs/operations/security-and-compliance/international-procurement-compliance-guide.md",
    "url": "https://templatesgrokbot.com/bot/international-procurement-compliance-guide"
+  },
+  {
+   "slug": "international-tax-guidance-assistant",
+   "name": "International Tax Guidance Assistant",
+   "tagline": "International tax guidance for tax analysts: treaties, transfer pricing, CFC, PE, credits, and compliance.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/finance/security-and-compliance/international-tax-guidance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/international-tax-guidance-assistant"
   },
   {
    "slug": "internet-court",
@@ -46067,6 +46953,20 @@
    ],
    "path": "jobs/executives-and-strategy/writing-and-content/investment-pitch-builder.md",
    "url": "https://templatesgrokbot.com/bot/investment-pitch-builder"
+  },
+  {
+   "slug": "investment-portfolio-analyst",
+   "name": "Investment Portfolio Analyst",
+   "tagline": "Analyzes investment portfolios, evaluates performance, risk, and diversification, and recommends rebalancing and strategy.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/investment-portfolio-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/investment-portfolio-analyst"
   },
   {
    "slug": "investment-portfolio-review-assistant",
@@ -48765,6 +49665,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "layout-composition-coach",
+   "name": "Layout Composition Coach",
+   "tagline": "Guides you through layout and composition techniques for stronger graphic design work.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/layout-composition-coach.md",
+   "url": "https://templatesgrokbot.com/bot/layout-composition-coach"
+  },
+  {
    "slug": "ldap-injection-hunter",
    "name": "LDAP Injection Hunter",
    "tagline": "Hunt LDAP and XPath injection vulnerabilities in web applications.",
@@ -49138,6 +50053,22 @@
    ],
    "path": "jobs/legal/research/lease-reader.md",
    "url": "https://templatesgrokbot.com/bot/lease-reader"
+  },
+  {
+   "slug": "ledger-cycle-automation-bot",
+   "name": "Ledger Cycle Automation Bot",
+   "tagline": "Automates financial reporting tasks from data extraction to distribution and analysis.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools",
+    "productivity"
+   ],
+   "path": "jobs/finance/data-analysis/ledger-cycle-automation-bot.md",
+   "url": "https://templatesgrokbot.com/bot/ledger-cycle-automation-bot"
   },
   {
    "slug": "legacy-modernizer",
@@ -49923,6 +50854,20 @@
    "url": "https://templatesgrokbot.com/bot/linux-troubleshooting",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "liquidity-forecast-copilot",
+   "name": "Liquidity Forecast Copilot",
+   "tagline": "Analyzes cash flow data, forecasts trends, and recommends actions to keep your business liquid.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/liquidity-forecast-copilot.md",
+   "url": "https://templatesgrokbot.com/bot/liquidity-forecast-copilot"
   },
   {
    "slug": "list-to-lifecycle-email-architect",
@@ -62716,6 +63661,57 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "payroll-audit-support-assistant",
+   "name": "Payroll Audit Support Assistant",
+   "tagline": "Supports payroll administrators in audit preparation, compliance checks, and corrective actions.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "human-resources",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/finance/security-and-compliance/payroll-audit-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/payroll-audit-support-assistant"
+  },
+  {
+   "slug": "payroll-compliance-guidance-assistant",
+   "name": "Payroll Compliance Guidance Assistant",
+   "tagline": "Guides payroll administrators through compliance, audits, and regulatory updates.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "human-resources",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/finance/security-and-compliance/payroll-compliance-guidance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/payroll-compliance-guidance-assistant"
+  },
+  {
+   "slug": "payroll-data-analyst",
+   "name": "Payroll Data Analyst",
+   "tagline": "Analyzes payroll data for accuracy, insights, trends, and compliance, and prepares reports for management.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/payroll-data-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/payroll-data-analyst"
+  },
+  {
    "slug": "payroll-process-assistant",
    "name": "Payroll Process Assistant",
    "tagline": "Assists accountants in managing payroll tasks from data entry to year-end filings.",
@@ -62747,6 +63743,70 @@
    ],
    "path": "jobs/finance/productivity/payroll-processing-assistant.md",
    "url": "https://templatesgrokbot.com/bot/payroll-processing-assistant"
+  },
+  {
+   "slug": "payroll-reporting-assistant",
+   "name": "Payroll Reporting Assistant",
+   "tagline": "Generates, analyzes, and audits payroll reports with compliance and forecasting.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/finance/data-analysis/payroll-reporting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/payroll-reporting-assistant"
+  },
+  {
+   "slug": "payroll-software-utilization-assistant",
+   "name": "Payroll Software Utilization Assistant",
+   "tagline": "Guides payroll administrators through software setup, data handling, reporting, and compliance with approval gates.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "productivity",
+    "writing-and-content"
+   ],
+   "path": "jobs/finance/teaching-and-tutoring/payroll-software-utilization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/payroll-software-utilization-assistant"
+  },
+  {
+   "slug": "payroll-system-training-assistant",
+   "name": "Payroll System Training Assistant",
+   "tagline": "Guides payroll administrators through system training, support, and troubleshooting tasks.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/finance/teaching-and-tutoring/payroll-system-training-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/payroll-system-training-assistant"
+  },
+  {
+   "slug": "payroll-tax-deduction-calculator",
+   "name": "Payroll Tax Deduction Calculator",
+   "tagline": "Calculates and manages employee tax deductions for payroll administrators.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/payroll-tax-deduction-calculator.md",
+   "url": "https://templatesgrokbot.com/bot/payroll-tax-deduction-calculator"
   },
   {
    "slug": "paywall-upgrade-cro",
@@ -65174,6 +66234,38 @@
    "url": "https://templatesgrokbot.com/bot/policy-renewal-and-updates-assistant"
   },
   {
+   "slug": "policy-renewal-forecasting",
+   "name": "Policy Renewal Forecasting",
+   "tagline": "Forecast policy renewals and retention from your insurance data, with insights for decisions.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/policy-renewal-forecasting.md",
+   "url": "https://templatesgrokbot.com/bot/policy-renewal-forecasting"
+  },
+  {
+   "slug": "policy-risk-cost-reviewer",
+   "name": "Policy Risk & Cost Reviewer",
+   "tagline": "Analyzes insurance policies for risk, compliance, coverage, and cost to support recommendations.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research"
+   ],
+   "path": "jobs/finance/security-and-compliance/policy-risk-cost-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/policy-risk-cost-reviewer"
+  },
+  {
    "slug": "policy-update-communications-assistant",
    "name": "Policy Update Communications Assistant",
    "tagline": "Drafts and coordinates all policy update communications across channels.",
@@ -65280,6 +66372,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "portfolio-analysis-and-reporting-assistant",
+   "name": "Portfolio Analysis and Reporting Assistant",
+   "tagline": "Analyzes portfolios, optimizes allocation, monitors risk, and prepares reports for the global finance head.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/portfolio-analysis-and-reporting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/portfolio-analysis-and-reporting-assistant"
+  },
+  {
    "slug": "portfolio-analysis-assistant",
    "name": "Portfolio Analysis Assistant",
    "tagline": "Analyzes portfolios, assesses risk, and recommends rebalancing for financial analysts.",
@@ -65312,6 +66420,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "portfolio-development-assistant",
+   "name": "Portfolio Development Assistant",
+   "tagline": "Builds and refines a graphic design portfolio with AI-assisted research, content, and strategy.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/creatives/design/portfolio-development-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/portfolio-development-assistant"
+  },
+  {
    "slug": "portfolio-digest",
    "name": "Portfolio Digest",
    "tagline": "Summarises what moved in your holdings and why, without ever telling you what to buy.",
@@ -65326,6 +66450,22 @@
    ],
    "path": "jobs/finance/data-analysis/portfolio-digest.md",
    "url": "https://templatesgrokbot.com/bot/portfolio-digest"
+  },
+  {
+   "slug": "portfolio-insight-reports",
+   "name": "Portfolio Insight Reports",
+   "tagline": "Analyzes markets, companies, and portfolios to deliver investment insights and reports.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/portfolio-insight-reports.md",
+   "url": "https://templatesgrokbot.com/bot/portfolio-insight-reports"
   },
   {
    "slug": "portfolio-review-assistant",
@@ -65343,6 +66483,22 @@
    ],
    "path": "jobs/creatives/design/portfolio-review-assistant.md",
    "url": "https://templatesgrokbot.com/bot/portfolio-review-assistant"
+  },
+  {
+   "slug": "portfolio-risk-analysis-assistant",
+   "name": "Portfolio Risk Analysis Assistant",
+   "tagline": "Analyzes insurance portfolio risk data and produces reports, models, and recommendations for risk analysts.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/finance/data-analysis/portfolio-risk-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/portfolio-risk-analysis-assistant"
   },
   {
    "slug": "portfolio-strategy-analyst",
@@ -67000,6 +68156,21 @@
    ],
    "path": "jobs/creatives/marketing-and-growth/print-and-publication-guide.md",
    "url": "https://templatesgrokbot.com/bot/print-and-publication-guide"
+  },
+  {
+   "slug": "print-preparation-and-formats-assistant",
+   "name": "Print Preparation and Formats Assistant",
+   "tagline": "Prepares print-ready files and guides designers through format, color, and proofing tasks.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "knowledge-management"
+   ],
+   "path": "jobs/creatives/design/print-preparation-and-formats-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/print-preparation-and-formats-assistant"
   },
   {
    "slug": "prior-art-analysis-assistant",
@@ -71955,6 +73126,20 @@
    "url": "https://templatesgrokbot.com/bot/real-estate-networking-partner"
   },
   {
+   "slug": "real-estate-tax-advisory-assistant",
+   "name": "Real Estate Tax Advisory Assistant",
+   "tagline": "Real estate tax guidance for analysts: classification, appeals, deductions, and planning.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/finance/teaching-and-tutoring/real-estate-tax-advisory-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/real-estate-tax-advisory-assistant"
+  },
+  {
    "slug": "real-estate-tech-integrator",
    "name": "Real Estate Tech Integrator",
    "tagline": "Helps real estate brokers adopt and manage technology tools across their business.",
@@ -72783,6 +73968,24 @@
    ],
    "path": "jobs/executives-and-strategy/security-and-compliance/regulatory-compliance-navigator.md",
    "url": "https://templatesgrokbot.com/bot/regulatory-compliance-navigator"
+  },
+  {
+   "slug": "regulatory-compliance-review-assistant",
+   "name": "Regulatory Compliance Review Assistant",
+   "tagline": "Regulatory compliance review and monitoring for insurance risk analysts.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "insurance",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/finance/security-and-compliance/regulatory-compliance-review-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-compliance-review-assistant"
   },
   {
    "slug": "regulatory-filing-assistant",
@@ -74169,6 +75372,21 @@
    "url": "https://templatesgrokbot.com/bot/retention-survey-architect"
   },
   {
+   "slug": "retirement-tax-planning-assistant",
+   "name": "Retirement Tax Planning Assistant",
+   "tagline": "Retirement tax planning guidance for tax analysts, covering contributions, RMDs, conversions, withdrawals, and more.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/teaching-and-tutoring/retirement-tax-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/retirement-tax-planning-assistant"
+  },
+  {
    "slug": "retro-design",
    "name": "Retro Design",
    "tagline": "Generate retro 60s-80s UI with warm muted colors, grain, and classic typography.",
@@ -74826,6 +76044,22 @@
    ],
    "path": "jobs/operations/data-analysis/risk-mitigation-plan-builder.md",
    "url": "https://templatesgrokbot.com/bot/risk-mitigation-plan-builder"
+  },
+  {
+   "slug": "risk-mitigation-report-builder",
+   "name": "Risk Mitigation Report Builder",
+   "tagline": "Identifies, analyzes, and mitigates financial risks with structured reports and monitoring for finance teams.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/risk-mitigation-report-builder.md",
+   "url": "https://templatesgrokbot.com/bot/risk-mitigation-report-builder"
   },
   {
    "slug": "risk-radar-for-qc-teams",
@@ -81924,6 +83158,22 @@
    "url": "https://templatesgrokbot.com/bot/social-media-engagement-analyst"
   },
   {
+   "slug": "social-media-graphics-designer",
+   "name": "Social Media Graphics Designer",
+   "tagline": "Designs complete social media graphics from templates to animations for graphic designers.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "writing-and-content",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/creatives/design/social-media-graphics-designer.md",
+   "url": "https://templatesgrokbot.com/bot/social-media-graphics-designer"
+  },
+  {
    "slug": "social-media-insights-analyst",
    "name": "Social Media Insights Analyst",
    "tagline": "Analyzes social media data to deliver insights, trends, and optimization strategies for business analysts.",
@@ -87311,6 +88561,118 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "tax-audit-preparation-assistant",
+   "name": "Tax Audit Preparation Assistant",
+   "tagline": "Prepares tax audits by gathering documents, analyzing data, and drafting communications.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "knowledge-management",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/security-and-compliance/tax-audit-preparation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-audit-preparation-assistant"
+  },
+  {
+   "slug": "tax-calculation-assistant",
+   "name": "Tax Calculation Assistant",
+   "tagline": "Calculates taxes, checks deductions and credits, and estimates liabilities and refunds for tax analysts.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/tax-calculation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-calculation-assistant"
+  },
+  {
+   "slug": "tax-code-interpretation-assistant",
+   "name": "Tax Code Interpretation Assistant",
+   "tagline": "Helps tax analysts interpret tax codes, research provisions, and assess compliance.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/finance/research/tax-code-interpretation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-code-interpretation-assistant"
+  },
+  {
+   "slug": "tax-compliance-and-planning-assistant",
+   "name": "Tax Compliance and Planning Assistant",
+   "tagline": "Prepares tax returns, research, planning, compliance, and audit support for finance professionals.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research"
+   ],
+   "path": "jobs/finance/security-and-compliance/tax-compliance-and-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-compliance-and-planning-assistant"
+  },
+  {
+   "slug": "tax-compliance-monitoring-assistant",
+   "name": "Tax Compliance Monitoring Assistant",
+   "tagline": "Compliance monitoring assistant for tax analysts: reviews, validates, reports, and trains on tax compliance. No hype, no filler.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "legal",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/finance/security-and-compliance/tax-compliance-monitoring-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-compliance-monitoring-assistant"
+  },
+  {
+   "slug": "tax-credit-and-deduction-assistant",
+   "name": "Tax Credit and Deduction Assistant",
+   "tagline": "Helps tax analysts identify, calculate, and optimize tax credits and deductions for clients.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research"
+   ],
+   "path": "jobs/finance/security-and-compliance/tax-credit-and-deduction-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-credit-and-deduction-assistant"
+  },
+  {
+   "slug": "tax-dispute-case-assistant",
+   "name": "Tax Dispute Case Assistant",
+   "tagline": "Prepares tax dispute cases, from research to hearings, with drafts and strategy.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "legal"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/finance/research/tax-dispute-case-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-dispute-case-assistant"
+  },
+  {
    "slug": "tax-document-organizer",
    "name": "Tax Document Organizer",
    "tagline": "Sweeps your folders for tax documents and builds a CPA-ready package with a chase list.",
@@ -87360,6 +88722,23 @@
    "url": "https://templatesgrokbot.com/bot/tax-planning-strategy-assistant"
   },
   {
+   "slug": "tax-policy-analysis-assistant",
+   "name": "Tax Policy Analysis Assistant",
+   "tagline": "Analyzes tax policies, forecasts revenues, and evaluates impacts for tax analysts.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/finance/data-analysis/tax-policy-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-policy-analysis-assistant"
+  },
+  {
    "slug": "tax-regulation-monitor",
    "name": "Tax Regulation Monitor",
    "tagline": "Monitors tax regulation changes and produces compliance tools for accountants.",
@@ -87375,6 +88754,21 @@
    ],
    "path": "jobs/finance/security-and-compliance/tax-regulation-monitor.md",
    "url": "https://templatesgrokbot.com/bot/tax-regulation-monitor"
+  },
+  {
+   "slug": "tax-software-utilization-guide",
+   "name": "Tax Software Utilization Guide",
+   "tagline": "Guides tax analysts through every stage of tax software use, from setup to e-filing.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/finance/teaching-and-tutoring/tax-software-utilization-guide.md",
+   "url": "https://templatesgrokbot.com/bot/tax-software-utilization-guide"
   },
   {
    "slug": "tax-strategy-assistant",
@@ -87424,6 +88818,37 @@
    ],
    "path": "jobs/finance/security-and-compliance/tax-strategy-planner.md",
    "url": "https://templatesgrokbot.com/bot/tax-strategy-planner"
+  },
+  {
+   "slug": "tax-training-and-education-assistant",
+   "name": "Tax Training and Education Assistant",
+   "tagline": "Delivers tax training, research, and compliance guidance for tax analysts.",
+   "category": "education",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/finance/teaching-and-tutoring/tax-training-and-education-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-training-and-education-assistant"
+  },
+  {
+   "slug": "tax-trend-analysis-assistant",
+   "name": "Tax Trend Analysis Assistant",
+   "tagline": "Analyzes tax trends, policies, and risks to inform strategic decisions.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/tax-trend-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-trend-analysis-assistant"
   },
   {
    "slug": "tcm-constitution-analyzer",
@@ -88587,6 +90012,22 @@
    ],
    "path": "jobs/it-and-development/data-analysis/technology-landscape-analyst.md",
    "url": "https://templatesgrokbot.com/bot/technology-landscape-analyst"
+  },
+  {
+   "slug": "technology-risk-assessment-assistant",
+   "name": "Technology Risk Assessment Assistant",
+   "tagline": "Assesses technology risks across infrastructure, vendors, data, and emerging tech for insurance risk analysts.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/finance/security-and-compliance/technology-risk-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/technology-risk-assessment-assistant"
   },
   {
    "slug": "technology-roadmap-architect",
@@ -90169,6 +91610,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "time-and-attendance-integrator",
+   "name": "Time and Attendance Integrator",
+   "tagline": "Manages time and attendance integration, tracking, and reporting for payroll accuracy.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "human-resources",
+    "healthcare"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/productivity/time-and-attendance-integrator.md",
+   "url": "https://templatesgrokbot.com/bot/time-and-attendance-integrator"
+  },
+  {
    "slug": "time-ledger",
    "name": "Time Ledger",
    "tagline": "Parse natural-language time reports into your Notion database, asking when unsure.",
@@ -91652,6 +93110,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "typography-guidance-assistant",
+   "name": "Typography Guidance Assistant",
+   "tagline": "Guides graphic designers through every typography decision, from font choice to brand guidelines.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/typography-guidance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/typography-guidance-assistant"
+  },
+  {
    "slug": "typography-ui-design-assistant",
    "name": "Typography UI Design Assistant",
    "tagline": "Typography guidance and tools for UI designers, from font pairing to accessibility checks.",
@@ -92067,6 +93540,23 @@
    "url": "https://templatesgrokbot.com/bot/uncle-bob-craft",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "underwriting-support-assistant",
+   "name": "Underwriting Support Assistant",
+   "tagline": "Streamlines underwriting data, risk, policy, and compliance tasks for insurance risk analysts.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/finance/data-analysis/underwriting-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/underwriting-support-assistant"
   },
   {
    "slug": "unified-ai-gateway",
@@ -92665,6 +94155,21 @@
    ],
    "path": "jobs/product-development/data-analysis/user-feedback-insight-assistant.md",
    "url": "https://templatesgrokbot.com/bot/user-feedback-insight-assistant"
+  },
+  {
+   "slug": "user-interface-design-basics-assistant",
+   "name": "User Interface Design Basics Assistant",
+   "tagline": "Guides graphic designers through UI design foundations, from color and layout to prototyping and testing.",
+   "category": "operations",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/user-interface-design-basics-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/user-interface-design-basics-assistant"
   },
   {
    "slug": "user-persona-development-assistant",
@@ -93275,6 +94780,21 @@
    "url": "https://templatesgrokbot.com/bot/vaporwave",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "variance-report-for-finance-teams",
+   "name": "Variance Report for Finance Teams",
+   "tagline": "Analyzes budgets, forecasts, and reports for finance specialists.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "government"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/variance-report-for-finance-teams.md",
+   "url": "https://templatesgrokbot.com/bot/variance-report-for-finance-teams"
   },
   {
    "slug": "variant-analysis",
@@ -95338,6 +96858,22 @@
    "url": "https://templatesgrokbot.com/bot/vulnerability-scanner",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "wage-garnishment-administrator",
+   "name": "Wage Garnishment Administrator",
+   "tagline": "Guides payroll admins through garnishment setup, calculation, compliance, and communication.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "human-resources"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/finance/security-and-compliance/wage-garnishment-administrator.md",
+   "url": "https://templatesgrokbot.com/bot/wage-garnishment-administrator"
   },
   {
    "slug": "warehouse",
@@ -97572,6 +99108,22 @@
    "url": "https://templatesgrokbot.com/bot/yao-meta-skill",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "year-end-payroll-reconciliation-assistant",
+   "name": "Year-End Payroll Reconciliation Assistant",
+   "tagline": "Reconciles year-end payroll data, verifies compliance, and prepares tax forms and reports.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "human-resources"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/security-and-compliance/year-end-payroll-reconciliation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/year-end-payroll-reconciliation-assistant"
   },
   {
    "slug": "yeet",

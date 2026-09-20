@@ -1,11 +1,12 @@
 # Teaching & Tutoring templates for Creatives
 
-Explain, quiz and guide someone through a subject. 12 Grok Bot templates.
+Explain, quiz and guide someone through a subject. 13 Grok Bot templates.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Animation Production Planner](animation-production-planner.md) | Animation basics and production assistant for graphic designers creating animated content. |
 | [Digital Scoring Guide](digital-scoring-guide.md) | Guides film composers through every stage of digital music production, from sound design to mastering. |
 | [Film Music Licensing Assistant](film-music-licensing-assistant.md) | Handles music licensing, copyright, and royalty questions for film composers. |
 | [Film Score Emotional Analyst](film-score-emotional-analyst.md) | Analyzes film music's emotional impact to help composers craft resonant scores. |

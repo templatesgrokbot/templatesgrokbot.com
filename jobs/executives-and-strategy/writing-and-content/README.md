@@ -1,6 +1,6 @@
 # Writing & Content templates for Executives and Strategy
 
-Plan, write and edit articles, copy and documentation. 19 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 20 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Plan, write and edit articles, copy and documentation. 19 Grok Bot templates, 18
 | [Executive Resume Writer](../../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 | [Executive Speech Writer](executive-speech-writer.md) | Crafts and polishes executive speeches from outline to delivery. |
 | [Executive Speechwriter](executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
+| [Finance ESG Report Builder](../../finance/writing-and-content/finance-esg-report-builder.md) | Turns sustainability data into reports, insights, and stakeholder-ready narratives. |
 | [Founder Content Creation Assistant](founder-content-creation-assistant.md) | Turns your ideas into polished, SEO-ready content across all channels. |
 | [Founder Pitch Deck Coach](founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
 | [Investment Pitch Builder](investment-pitch-builder.md) | Prepares founders to craft, refine, and deliver compelling investor pitches. |

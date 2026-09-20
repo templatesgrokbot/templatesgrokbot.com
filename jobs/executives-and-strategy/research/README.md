@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 101 Grok Bot templates, 62 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 102 Grok Bot templates, 62 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -60,6 +60,7 @@ Find sources, compare evidence and summarise what is known. 101 Grok Bot templat
 | [Ilya Sutskever Simulator](../../science-and-research/research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Infinite Gratitude](../../science-and-research/research/infinite-gratitude.md) | Orchestrates 10 parallel agents for deep multi-source research synthesis. |
 | [Innovation Strategy Analyst](innovation-strategy-analyst.md) | Turns market data and internal feedback into a prioritized innovation strategy for the EVP. |
+| [Insurance Market Radar](../../finance/research/insurance-market-radar.md) | Tracks competitors' moves and market shifts to sharpen your insurance strategy. |
 | [IP Monitoring and Strategy Assistant](ip-monitoring-and-strategy-assistant.md) | Monitors IP filings, competitors, and legal shifts; flags risks and opportunities for your strategy. |
 | [IT AI Automation Strategist](../../it-and-development/research/it-ai-automation-strategist.md) | For IT VPs: research AI/automation trends, plan implementations, and optimize IT operations with data-backed insights. |
 | [Jobs To Be Done Analyst](../../product-development/research/jobs-to-be-done-analyst.md) | Uncover the real progress customers hire a product to make. |

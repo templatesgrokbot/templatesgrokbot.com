@@ -1,6 +1,6 @@
 # Productivity templates for Healthcare
 
-Plan, prioritise and clear the recurring admin. 9 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 10 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,5 +15,6 @@ Plan, prioritise and clear the recurring admin. 9 Grok Bot templates, 1 of them 
 | [Operations Crisis Navigator](../../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
 | [Operations Risk Assessment Guide](../../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
 | [Professional Development Tracker](../../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
+| [Time and Attendance Integrator](../../finance/productivity/time-and-attendance-integrator.md) | Manages time and attendance integration, tracking, and reporting for payroll accuracy. |
 
 [← All Healthcare templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/healthcare)

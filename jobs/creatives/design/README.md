@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 162 Grok Bot templates, 122 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 172 Grok Bot templates, 132 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -35,6 +35,7 @@ Interfaces, brands, layouts and visual systems. 162 Grok Bot templates, 122 of t
 | [Code Showcase Core Components](../../it-and-development/design/code-showcase-core-components.md) | Use design tokens and core components for consistent UI. |
 | [Color Blocking](color-blocking.md) | Build Mondrian-style layouts with bold color blocks and thick grid lines. |
 | [Color Palette Extractor](color-palette-extractor.md) | Extracts color palettes from images or sites and exports them in multiple formats. |
+| [Color Psychology Brand Palette Guide](color-psychology-brand-palette-guide.md) | Color theory guidance for graphic designers, from psychology to application. |
 | [Color Theory Design Assistant](color-theory-design-assistant.md) | Guides UX/UI designers through color theory, palettes, and accessibility. |
 | [Cover Art Concept Generator](cover-art-concept-generator.md) | Turns your song's mood into cover art concepts, from mood boards to final design directions. |
 | [Creative Concept Developer](creative-concept-developer.md) | Generates photographic concepts, mood boards, trends, techniques, and visual narratives. |
@@ -57,6 +58,7 @@ Interfaces, brands, layouts and visual systems. 162 Grok Bot templates, 122 of t
 | [Design System Companion](design-system-companion.md) | Builds and keeps your design system consistent, documented, and adopted. |
 | [Design System Starter](design-system-starter.md) | Generate design tokens, component specs, and accessibility guidelines for a consistent UI system. |
 | [Design Thinking](design-thinking.md) | Define frontend purpose, tone, and domain before coding. |
+| [Design Trend Intelligence Assistant](design-trend-intelligence-assistant.md) | Tracks design trends and turns them into adaptable assets for your clients and portfolio. |
 | [Design Ux](../../it-and-development/design/design-ux.md) | Heuristic usability audit of interactive UIs against Nielsen's 10 and interaction add-ons. Scores live rendered artifact, not mockups. Fixes then re-a |
 | [Deterministic Design](deterministic-design.md) | Render UI, measure balance with math, and run a Nielsen usability audit. |
 | [Diagrammer](../../it-and-development/design/diagrammer.md) | Turns plain-English diagram requests into clean blueprint-style SVG files for docs and slides. |
@@ -69,7 +71,9 @@ Interfaces, brands, layouts and visual systems. 162 Grok Bot templates, 122 of t
 | [Editorial Web Prototyper](editorial-web-prototyper.md) | Creates editorial-minimalist web prototypes with warm monochrome canvas and serif typography. |
 | [Email Template Design Assistant](../../sales/design/email-template-design-assistant.md) | Designs, refines, and optimizes email templates that engage your audience and drive results. |
 | [Emil Design Eng](emil-design-eng.md) | UI polish, animation direction, and high-craft component decisions for product interfaces. |
+| [Ethical Design Accessibility Assistant](ethical-design-accessibility-assistant.md) | Guides ethical, accessible design and audits for graphic designers. |
 | [Ethical UX Design Advisor](../../product-development/design/ethical-ux-design-advisor.md) | Guides ethical UX design decisions, from privacy to inclusivity, for responsible products. |
+| [Feedback Interpretation Assistant](feedback-interpretation-assistant.md) | Interprets client feedback, refines designs, and builds feedback tools for graphic designers. |
 | [Figma Automation](figma-automation.md) | Automate Figma file inspection, component extraction, token export, and image rendering via Rube MCP. |
 | [Flat Design](../../it-and-development/design/flat-design.md) | Generate UI code with zero shadows, sharp edges, and bold solid colors. |
 | [Flat Design 2](../../it-and-development/design/flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
@@ -106,6 +110,7 @@ Interfaces, brands, layouts and visual systems. 162 Grok Bot templates, 122 of t
 | [Interactive Portfolio](interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
 | [Isometric Design](isometric-design.md) | Guides implementing isometric 3D views without vanishing points for web and apps. |
 | [Landing Page Designer](landing-page-designer.md) | Turns brand answers into a deployable landing page, refined in chat. |
+| [Layout Composition Coach](layout-composition-coach.md) | Guides you through layout and composition techniques for stronger graphic design work. |
 | [Lookdev](lookdev.md) | Build interactive studios for tuning, editing, and annotating creative work by eye. |
 | [Magazine Poster Designer](magazine-poster-designer.md) | Turns your content into a Sunday-paper style magazine poster. |
 | [Material Design](../../it-and-development/design/material-design.md) | Implement Google's Material Design aesthetic for web and app interfaces. |
@@ -118,9 +123,11 @@ Interfaces, brands, layouts and visual systems. 162 Grok Bot templates, 122 of t
 | [Neo Brutalism](neo-brutalism.md) | Implement neo-brutalist UI with thick borders, hard shadows, and bright colors. |
 | [Neumorphism](neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Opal or Obsidian UI Builder](opal-or-obsidian-ui-builder.md) | Builds parameterized opal or obsidian UI with OKLCH, WebGL/CSS fallback, and measured color reports. |
+| [Portfolio Development Assistant](portfolio-development-assistant.md) | Builds and refines a graphic design portfolio with AI-assisted research, content, and strategy. |
 | [Portfolio Review Assistant](portfolio-review-assistant.md) | Portfolio review assistant for photographers: selects, refines, organizes, and promotes work through feedback-driven improvements. |
 | [Pptx Posters](pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Premium Web Design](premium-web-design.md) | Generates award-quality React website components with unique, intentional design. |
+| [Print Preparation and Formats Assistant](print-preparation-and-formats-assistant.md) | Prepares print-ready files and guides designers through format, color, and proofing tasks. |
 | [Product Design Bot](product-design.md) | Creates visual systems, design tokens, and UX flows with Apple standards. |
 | [Product Inventor](product-inventor.md) | Invent digital products by combining design thinking, systems, and psychology. |
 | [Radix Ui Design System](radix-ui-design-system.md) | Build accessible, unstyled React component libraries with Radix UI primitives. |
@@ -132,6 +139,7 @@ Interfaces, brands, layouts and visual systems. 162 Grok Bot templates, 122 of t
 | [Screenshot Ui Analyzer](screenshot-ui-analyzer.md) | Extracts all visible UI components, layout, and design patterns from screenshots. |
 | [Se Ux Ui Designer](se-ux-ui-designer.md) | Analyze user jobs, map journeys, and produce UX research artifacts for Figma designers. Identity: You are a UX research specialist that produces Jobs- |
 | [Social Carousel Designer](social-carousel-designer.md) | Turns a headline into a three-card social carousel with brand mark and numbering. |
+| [Social Media Graphics Designer](social-media-graphics-designer.md) | Designs complete social media graphics from templates to animations for graphic designers. |
 | [Soft Pastel](soft-pastel.md) | Implement soft pastel UI with desaturated colors, rounded edges, and airy spacing. |
 | [Sound Design Collaboration Advisor](sound-design-collaboration-advisor.md) | Helps film composers plan, create, and refine sound design across media projects. |
 | [Steve Jobs Advisor](steve-jobs.md) | Simulates Steve Jobs for product, design, and presentation advice. |
@@ -141,6 +149,7 @@ Interfaces, brands, layouts and visual systems. 162 Grok Bot templates, 122 of t
 | [Synthwave](synthwave.md) | Build 80s neon web and app interfaces with dark backgrounds, glowing grids, and synthwave aesthetics. |
 | [Theme Factory](theme-factory.md) | Generate or apply curated slide-deck themes with color scales, fonts, and WCAG AA contrast. |
 | [Tile Design](../../it-and-development/design/tile-design.md) | Build sharp-cornered Metro UI tiles with horizontal scrolling and live data for web and mobile. |
+| [Typography Guidance Assistant](typography-guidance-assistant.md) | Guides graphic designers through every typography decision, from font choice to brand guidelines. |
 | [Typography UI Design Assistant](typography-ui-design-assistant.md) | Typography guidance and tools for UI designers, from font pairing to accessibility checks. |
 | [Ui Design System](ui-design-system.md) | Generates design tokens, component docs, responsive calculations, and handoff files for a senior UI designer. |
 | [Ui Designer](ui-designer.md) | Designs visual interfaces, design systems, and component libraries with accessibility and brand alignment. |
@@ -150,6 +159,7 @@ Interfaces, brands, layouts and visual systems. 162 Grok Bot templates, 122 of t
 | [Ui Templates](ui-skills.md) | Opinionated constraints for building interfaces. |
 | [Ui Ux Designer](ui-ux-designer.md) | Reviews UI/UX designs with research-backed critiques and accessibility compliance checks. |
 | [Ui Visual Validator](../../it-and-development/design/ui-visual-validator.md) | Rigorous UI visual validation expert for design system and accessibility compliance. |
+| [User Interface Design Basics Assistant](user-interface-design-basics-assistant.md) | Guides graphic designers through UI design foundations, from color and layout to prototyping and testing. |
 | [Ux Audit](ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 | [Ux Flow](ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 | [Ux Persuasion Engineer](../../product-development/design/ux-persuasion-engineer.md) | Redesign UX flows to guide decisions by reducing friction and staging commitment, ethically. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **489 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **502 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Designers, artists and content creators. **489 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 162 |
+| [Design](design/README.md) | 172 |
 | [Writing & Content](writing-and-content/README.md) | 57 |
 | [Generative Art](generative-art/README.md) | 46 |
 | [Generative Code](generative-code/README.md) | 45 |
@@ -20,7 +20,7 @@ Designers, artists and content creators. **489 ready-made Grok Bot templates** f
 | [Social Media](social-media/README.md) | 20 |
 | [Video Editing](video-editing/README.md) | 20 |
 | [Research](research/README.md) | 17 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 12 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 13 |
 | [Generative Video](generative-video/README.md) | 9 |
 | [Data Analysis](data-analysis/README.md) | 8 |
 | [Office Tools](office-tools/README.md) | 7 |
@@ -28,9 +28,10 @@ Designers, artists and content creators. **489 ready-made Grok Bot templates** f
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Text-To-Speech](text-to-speech/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
+| [Knowledge Management](knowledge-management/README.md) | 3 |
 | [Text-To-Video](text-to-video/README.md) | 3 |
-| [Knowledge Management](knowledge-management/README.md) | 2 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 | [Security & Compliance](security-and-compliance/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
 | [Support & Community](support-and-community/README.md) | 1 |
@@ -48,7 +49,7 @@ Designers, artists and content creators. **489 ready-made Grok Bot templates** f
 | [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Gradient Design](design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 
-[All 162 Design templates →](design/README.md)
+[All 172 Design templates →](design/README.md)
 
 ## Writing & Content
 
@@ -174,6 +175,7 @@ Designers, artists and content creators. **489 ready-made Grok Bot templates** f
 
 | Template | What it does |
 |---|---|
+| [Animation Production Planner](teaching-and-tutoring/animation-production-planner.md) | Animation basics and production assistant for graphic designers creating animated content. |
 | [Film Score Orchestration Assistant](teaching-and-tutoring/film-score-orchestration-assistant.md) | Helps film composers orchestrate and arrange music for scenes, moods, and genres. |
 | [Digital Scoring Guide](teaching-and-tutoring/digital-scoring-guide.md) | Guides film composers through every stage of digital music production, from sound design to mastering. |
 | [Film Score Emotional Analyst](teaching-and-tutoring/film-score-emotional-analyst.md) | Analyzes film music's emotional impact to help composers craft resonant scores. |
@@ -181,9 +183,8 @@ Designers, artists and content creators. **489 ready-made Grok Bot templates** f
 | [Photography Techniques Advisor](teaching-and-tutoring/photography-techniques-advisor.md) | Get tailored photography guidance for composition, lighting, settings, and post-processing. |
 | [Photography Post-Processing Guide](teaching-and-tutoring/photography-post-processing-guide.md) | Guides photographers through post-processing techniques, from color correction to composite imaging. |
 | [Music Copyright Navigator](teaching-and-tutoring/music-copyright-navigator.md) | Guides vocal artists and songwriters through music copyright law, licensing, and royalties. |
-| [VFX Concept Advisor](teaching-and-tutoring/vfx-concept-advisor.md) | Guides video editors through VFX techniques, from keying to CGI integration. |
 
-[All 12 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+[All 13 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Generative Video
 
@@ -263,6 +264,14 @@ Designers, artists and content creators. **489 ready-made Grok Bot templates** f
 | [Ai Native Ui](../it-and-development/generative-ai-and-llm/ai-native-ui.md) | Generate conversational UI with adaptive layouts and generative aesthetics. |
 | [Mmx Cli](generative-ai-and-llm/mmx-cli.md) | Generate text, images, video, speech, and music via the MiniMax CLI. |
 
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Hig Project Context](knowledge-management/hig-project-context.md) | Create or update a shared Apple design context document for HIG capabilities. |
+| [Video Archive Organizer](knowledge-management/video-archive-organizer.md) | Organizes your video archive with tags, metadata, summaries, and duplicate checks. |
+| [Digital Asset Management Organizer](knowledge-management/digital-asset-management-organizer.md) | Organize, tag, track, and manage digital assets with a complete DAM workflow assistant. |
+
 ## Text-To-Video
 
 | Template | What it does |
@@ -271,18 +280,17 @@ Designers, artists and content creators. **489 ready-made Grok Bot templates** f
 | [HyperFrames Ad Director](../marketing/text-to-video/hyperframes-ad-director.md) | Turns a marketing brief into a finished short-form video ad with hook, script, storyboard, and platform cuts. |
 | [Video Frame Generator](text-to-video/video-frame-generator.md) | Turns your script into a cinematic, auto-playing video frame sequence. |
 
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Hig Project Context](knowledge-management/hig-project-context.md) | Create or update a shared Apple design context document for HIG capabilities. |
-| [Video Archive Organizer](knowledge-management/video-archive-organizer.md) | Organizes your video archive with tags, metadata, summaries, and duplicate checks. |
-
 ## Prompt Engineering
 
 | Template | What it does |
 |---|---|
 | [Enhance Prompt](../it-and-development/prompt-engineering/enhance-prompt.md) | Turns vague UI ideas into structured, Stitch-optimized prompts with design system context. |
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Client Communication and Negotiation Assistant](sales-and-negotiation/client-communication-and-negotiation-assistant.md) | Manages client communication, negotiation, and project delivery for graphic designers. |
 
 ## Security & Compliance
 

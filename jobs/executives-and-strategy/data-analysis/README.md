@@ -1,6 +1,6 @@
 # Data Analysis templates for Executives and Strategy
 
-Clean, query, chart and explain data. 241 Grok Bot templates, 165 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 251 Grok Bot templates, 165 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Clean, query, chart and explain data. 241 Grok Bot templates, 165 of them filed 
 | [Brand Image Analyst](../../management/data-analysis/brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
 | [Budget Analysis Assistant](budget-analysis-assistant.md) | Analyzes budgets and financial data to deliver insights and recommendations for a VP of Finance. |
 | [Budget Management Assistant](budget-management-assistant.md) | Analyzes budgets, tracks spending, and forecasts to keep your company's finances on track. |
+| [Budget Optimization Assistant](../../finance/data-analysis/budget-optimization-assistant.md) | Analyzes financial data and budgets to cut costs, forecast, and optimize spending. |
 | [Budget Planning Assistant](budget-planning-assistant.md) | Prepares your budget plan from data gathering to final documentation. |
 | [Budget Preparation and Analysis Assistant](budget-preparation-and-analysis-assistant.md) | Prepares budgets, forecasts, and reports for the EVP of Finances. |
 | [Business Strategy Analyst](../../management/data-analysis/business-strategy-analyst.md) | Turns market data and company inputs into strategic analysis, goals, and plans for management consultants. |
@@ -55,6 +56,7 @@ Clean, query, chart and explain data. 241 Grok Bot templates, 165 of them filed 
 | [CTO Investment Evaluator](cto-investment-evaluator.md) | Guides CTOs through cost-benefit analysis for technology decisions, from data gathering to final recommendations. |
 | [Culture Assessment Analyst](culture-assessment-analyst.md) | Turns culture assessment data into clear findings and improvement plans for HR leadership. |
 | [Currency Risk Management Assistant](currency-risk-management-assistant.md) | Manages currency and exchange risk for a VP of Finance from exposure analysis to compliance and reporting. |
+| [Currency Risk Manager](../../finance/data-analysis/currency-risk-manager.md) | Analyzes currency exposure, evaluates hedges, monitors markets, and reports to stakeholders. |
 | [Customer Experience Insight Engine](customer-experience-insight-engine.md) | Analyzes customer data and designs AI-driven experiences to boost satisfaction and engagement. |
 | [Customer Experience Strategy Architect](customer-experience-strategy-architect.md) | Turns customer data into a complete experience strategy, from feedback to crisis planning. |
 | [Customer Feedback Insight Engine](../../sales/data-analysis/customer-feedback-insight-engine.md) | Turns customer feedback into actionable insights and response plans for sales leadership. |
@@ -102,8 +104,11 @@ Clean, query, chart and explain data. 241 Grok Bot templates, 165 of them filed 
 | [Feedback Intel for BizDev](feedback-intel-for-bizdev.md) | Turns customer feedback into actionable insights for business development decisions. |
 | [Feedback Intel for Growth](feedback-intel-for-growth.md) | Collects, analyzes, and prioritizes customer feedback into actionable insights for business development. |
 | [File Insight and Conversion Assistant](file-insight-and-conversion-assistant.md) | Turns your uploaded files into converted formats, answers, and trend insights on request. |
+| [Finance M&A Target Analyzer](../../finance/data-analysis/finance-m-a-target-analyzer.md) | Analyzes M&A targets, valuations, risks, synergies, and integration for the Global Head of Finances. |
+| [Finance Trend Forecaster](../../finance/data-analysis/finance-trend-forecaster.md) | Analyzes economic impacts on finances, forecasts trends, and prepares stakeholder reports. |
 | [Financial Analysis and Strategy Assistant](financial-analysis-and-strategy-assistant.md) | Analyzes financial data, builds forecasts, and flags risks for Managing Directors. |
 | [Financial Analysis Assistant](../../finance/data-analysis/financial-analysis-assistant.md) | Turns your company's financial data into forecasts, risk checks, and board-ready insights for CFO decisions. |
+| [Financial Data Visualization Assistant](../../finance/data-analysis/financial-data-visualization-assistant.md) | Turns financial data into clear, decision-ready charts and dashboards for the global finance head. |
 | [Financial Forecasting and Analysis Assistant](financial-forecasting-and-analysis-assistant.md) | Turns financial data into forecasts, budgets, and scenario insights for a VP of Finance. |
 | [Financial Forecasting Executive Assistant](financial-forecasting-executive-assistant.md) | Turns historical financial data into forecasts, scenarios, and reports for executive decisions. |
 | [Financial Forecasting Navigator](financial-forecasting-navigator.md) | Forecasts revenue, expenses, cash flow, and risks from your data, then checks actuals. |
@@ -117,6 +122,9 @@ Clean, query, chart and explain data. 241 Grok Bot templates, 165 of them filed 
 | [Financial Risk Management Analyst](financial-risk-management-analyst.md) | Analyzes financial risks and builds mitigation strategies from your data. |
 | [FP&A Reporting Guide](fp-a-reporting-guide.md) | Prepares financial reports, analyses, and dashboards with guidance and documentation for finance leadership. |
 | [Game Strategy Simulator](game-strategy-simulator.md) | Simulates sports game scenarios for play-calling, clock management, and risk/reward decisions. |
+| [Global Finance Forecast Studio](../../finance/data-analysis/global-finance-forecast-studio.md) | Turns your financial data into forecasts, scenarios, and reports for the Global Head of Finances. |
+| [Global Finance Report Builder](../../finance/data-analysis/global-finance-report-builder.md) | Prepares, analyzes, and delivers financial reports for a global finance head. |
+| [Global Financial Risk Assessor](../../finance/data-analysis/global-financial-risk-assessor.md) | Identifies, analyzes, and reports on financial risks across global operations. |
 | [Global Ops Forecast Architect](../../operations/data-analysis/global-ops-forecast-architect.md) | Turns financial data into forecasts, scenarios, and decisions for global operations heads. |
 | [Global Sales Insight Drafts](../../sales/data-analysis/global-sales-insight-drafts.md) | Turns sales data into forecasts, segment insights, and performance reports for global sales leadership. |
 | [GM Supply Chain Advisor](gm-supply-chain-advisor.md) | Optimizes your supply chain with AI-driven analysis and recommendations. |
@@ -177,7 +185,9 @@ Clean, query, chart and explain data. 241 Grok Bot templates, 165 of them filed 
 | [Performance Metrics Strategist](performance-metrics-strategist.md) | Develops and refines performance metrics for strategic decision-making. |
 | [Performance Report](marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Pipeline Forecast Navigator](pipeline-forecast-navigator.md) | Turns sales data into forecasts, scenarios, and reports for business development decisions. |
+| [Portfolio Analysis and Reporting Assistant](../../finance/data-analysis/portfolio-analysis-and-reporting-assistant.md) | Analyzes portfolios, optimizes allocation, monitors risk, and prepares reports for the global finance head. |
 | [Portfolio Digest](../../finance/data-analysis/portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
+| [Portfolio Insight Reports](../../finance/data-analysis/portfolio-insight-reports.md) | Analyzes markets, companies, and portfolios to deliver investment insights and reports. |
 | [Predictive Modeling and Forecasting Guide](predictive-modeling-and-forecasting-guide.md) | Guides CDOs through predictive modeling and forecasting from data prep to deployment. |
 | [Predictive Modeling Assistant](predictive-modeling-assistant.md) | Builds and maintains predictive models for competitive intelligence, from data to forecasts. |
 | [Pricing Strategy Analyst](../../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |

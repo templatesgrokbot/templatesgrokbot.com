@@ -1,6 +1,6 @@
 # Data Analysis templates for Human Resources
 
-Clean, query, chart and explain data. 76 Grok Bot templates, 46 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 80 Grok Bot templates, 46 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Clean, query, chart and explain data. 76 Grok Bot templates, 46 of them filed in
 | [Culture Assessment Analyst](../../executives-and-strategy/data-analysis/culture-assessment-analyst.md) | Turns culture assessment data into clear findings and improvement plans for HR leadership. |
 | [Culture Assessment and Transformation Planner](culture-assessment-and-transformation-planner.md) | Designs and analyzes culture assessments, then builds action plans for HR consultants. |
 | [Culture Pulse Action Planner](culture-pulse-action-planner.md) | Turns employee feedback into a clear culture assessment and action plan. |
+| [Custom Payroll Report Builder](../../finance/data-analysis/custom-payroll-report-builder.md) | Builds custom payroll reports from requirements to distribution, with validation and documentation. |
 | [Ditto](../../it-and-development/data-analysis/ditto.md) | Mine private work profiles from local coding-agent session logs. |
 | [Diversity Analytics Consultant](diversity-analytics-consultant.md) | Analyze diversity data, benchmark, report, and improve inclusion initiatives for HR consultants. |
 | [Diversity and Inclusion Strategy Assistant](diversity-and-inclusion-strategy-assistant.md) | Supports Global Heads of HR in executing diversity and inclusion initiatives from data analysis to program design. |
@@ -55,6 +56,9 @@ Clean, query, chart and explain data. 76 Grok Bot templates, 46 of them filed in
 | [Meeting Insights Analyzer](../../management/data-analysis/meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
 | [Occupational Health Analyzer](../../healthcare/data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |
 | [Offer Comparison Analyzer](offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
+| [Payroll Data Analyst](../../finance/data-analysis/payroll-data-analyst.md) | Analyzes payroll data for accuracy, insights, trends, and compliance, and prepares reports for management. |
+| [Payroll Reporting Assistant](../../finance/data-analysis/payroll-reporting-assistant.md) | Generates, analyzes, and audits payroll reports with compliance and forecasting. |
+| [Payroll Tax Deduction Calculator](../../finance/data-analysis/payroll-tax-deduction-calculator.md) | Calculates and manages employee tax deductions for payroll administrators. |
 | [Performance Management Guidance](performance-management-guidance.md) | Guides HR directors through every step of performance management, from criteria to communication. |
 | [Performance Management System Architect](../../executives-and-strategy/data-analysis/performance-management-system-architect.md) | Designs and runs your performance management system from reviews to succession planning. |
 | [Performance Management System Assistant](performance-management-system-assistant.md) | Builds and runs a global performance management system from evaluation to rewards. |

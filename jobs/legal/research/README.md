@@ -1,6 +1,6 @@
 # Research templates for Legal
 
-Find sources, compare evidence and summarise what is known. 52 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 54 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -54,6 +54,8 @@ Find sources, compare evidence and summarise what is known. 52 Grok Bot template
 | [Regulatory Research Assistant](regulatory-research-assistant.md) | Tracks, interprets, and applies regulatory changes for compliance officers. |
 | [Regulatory Update Analyst](regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
 | [Screen Adverse Media](../../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
+| [Tax Code Interpretation Assistant](../../finance/research/tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |
+| [Tax Dispute Case Assistant](../../finance/research/tax-dispute-case-assistant.md) | Prepares tax dispute cases, from research to hearings, with drafts and strategy. |
 | [Technology Trend Intelligence Assistant](technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Third-Party Compliance Evaluator](third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 | [Trial Preparation Paralegal Assistant](trial-preparation-paralegal-assistant.md) | Trial prep assistant for paralegals: research, organize, draft, and strategize. |

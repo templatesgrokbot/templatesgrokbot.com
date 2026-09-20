@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Human Resources
 
-Explain, quiz and guide someone through a subject. 36 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 39 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Explain, quiz and guide someone through a subject. 36 Grok Bot templates, 12 of 
 | [Customer Service Training Builder](../../management/teaching-and-tutoring/customer-service-training-builder.md) | Builds and maintains customer service training modules from planning to feedback. |
 | [Diversity Training Program Assistant](diversity-training-program-assistant.md) | Designs, runs, and evaluates inclusive workplace diversity training programs. |
 | [E-Learning Strategy Planner](e-learning-strategy-planner.md) | Helps Training and Development Specialists plan, build, and improve e-learning programs. |
+| [Employee Financial Training Program Builder](../../finance/teaching-and-tutoring/employee-financial-training-program-builder.md) | Builds and runs employee financial training programs, from workshops to assessments. |
 | [Employee Training Program Coordinator](../../operations/teaching-and-tutoring/employee-training-program-coordinator.md) | Designs, runs, and improves your team's training programs end to end. |
 | [Employee Training Program Developer](employee-training-program-developer.md) | Plans, builds, and evaluates employee training programs from needs analysis to reporting. |
 | [Employee Training Support Assistant](employee-training-support-assistant.md) | Designs, runs, and evaluates employee training programs with AI support. |
@@ -26,6 +27,8 @@ Explain, quiz and guide someone through a subject. 36 Grok Bot templates, 12 of 
 | [Logistics Training Program Coordinator](../../operations/teaching-and-tutoring/logistics-training-program-coordinator.md) | Builds and runs staff training programs for logistics teams, from needs assessment to evaluation. |
 | [Mentoring Program Developer](mentoring-program-developer.md) | Designs, launches, and improves mentoring programs from needs assessment to closure. |
 | [Onboarding Program Enhancer](../../education/teaching-and-tutoring/onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
+| [Payroll Software Utilization Assistant](../../finance/teaching-and-tutoring/payroll-software-utilization-assistant.md) | Guides payroll administrators through software setup, data handling, reporting, and compliance with approval gates. |
+| [Payroll System Training Assistant](../../finance/teaching-and-tutoring/payroll-system-training-assistant.md) | Guides payroll administrators through system training, support, and troubleshooting tasks. |
 | [Remote Training Program Designer](../../education/teaching-and-tutoring/remote-training-program-designer.md) | Designs and runs remote training programs that engage, assess, and develop your team. |
 | [Sales Onboarding Program Builder](../../sales/teaching-and-tutoring/sales-onboarding-program-builder.md) | Designs and runs complete sales onboarding and training programs for new staff. |
 | [Sales Training Program Designer](../../sales/teaching-and-tutoring/sales-training-program-designer.md) | Designs and manages employee training and development programs for a sales organization. |

@@ -1,12 +1,13 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 199 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 202 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Academic Research Data Analyst](../../education/data-analysis/academic-research-data-analyst.md) | Cleans, analyzes, visualizes, and interprets academic research data for teaching assistants. |
+| [Actuarial Data Analysis Assistant](../../finance/data-analysis/actuarial-data-analysis-assistant.md) | Analyzes insurance data for risk, pricing, and compliance, delivering clear reports. |
 | [Aeon](aeon.md) | Runs time series ML tasks using the aeon Python toolkit. |
 | [Agent Evaluation Reporting](../../it-and-development/data-analysis/agent-evaluation-reporting.md) | Turn raw agent evaluation runs into decision-ready reports with explicit outcome categories and denominators. |
 | [Ai Analyzer](../../healthcare/data-analysis/ai-analyzer.md) | AI-driven health analysis with risk prediction and personalized recommendations. |
@@ -80,6 +81,7 @@ Clean, query, chart and explain data. 199 Grok Bot templates, 143 of them filed 
 | [Fermentation Optimization Assistant](fermentation-optimization-assistant.md) | Optimizes fermentation processes from data analysis to scale-up for microbiologists. |
 | [Flowio](flowio.md) | Parse FCS files v2.0-3.1, extract events as arrays, and convert to CSV or DataFrame. |
 | [Food Database Query](food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |
+| [Fraud Detection Algorithm Assistant](../../finance/data-analysis/fraud-detection-algorithm-assistant.md) | Helps insurance data analysts build, test, and refine fraud detection algorithms from data prep to real-time monitoring. |
 | [Genomic Sequence Analysis Assistant](genomic-sequence-analysis-assistant.md) | Analyzes genomic sequences for alignment, variants, phylogeny, function, and more, returning detailed reports. |
 | [Geochemical Analysis Assistant](geochemical-analysis-assistant.md) | Geochemical data analysis, interpretation, and reporting assistant for geologists. |
 | [Geological Data Interpretation Assistant](geological-data-interpretation-assistant.md) | Turns geological survey data into interpreted structures, maps, models, and reports for geologists. |
@@ -99,6 +101,7 @@ Clean, query, chart and explain data. 199 Grok Bot templates, 143 of them filed 
 | [Image Analysis Assistant](image-analysis-assistant.md) | Analyzes images with deep learning for classification, detection, segmentation, generation, and more. |
 | [Industrial Energy Management Assistant](industrial-energy-management-assistant.md) | Optimize industrial energy use, cut costs, and meet compliance through data-driven analysis and recommendations. |
 | [Industry Trend Analyst](industry-trend-analyst.md) | Turns market data into trend forecasts and stakeholder-ready reports. |
+| [Insurance Pricing Strategy Optimizer](../../finance/data-analysis/insurance-pricing-strategy-optimizer.md) | Optimizes insurance pricing through data analysis, modeling, and strategic insights. |
 | [IoT Data Science Assistant](iot-data-science-assistant.md) | Turns IoT sensor data into decisions, predictions, and automations for data scientists. |
 | [Journey Insight Optimizer](journey-insight-optimizer.md) | Analyzes customer data to map, optimize, and report on the customer journey. |
 | [Jupyter Notebook](../../education/data-analysis/jupyter-notebook.md) | Creates and edits reproducible Jupyter notebooks for experiments or tutorials. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Government
 
-Public services, policy and compliance. **278 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Public services, policy and compliance. **287 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,10 +11,10 @@ Public services, policy and compliance. **278 ready-made Grok Bot templates** fo
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 79 |
-| [Security & Compliance](security-and-compliance/README.md) | 62 |
+| [Data Analysis](data-analysis/README.md) | 82 |
+| [Security & Compliance](security-and-compliance/README.md) | 67 |
 | [Productivity](productivity/README.md) | 48 |
-| [Research](research/README.md) | 32 |
+| [Research](research/README.md) | 33 |
 | [Writing & Content](writing-and-content/README.md) | 25 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 7 |
 | [Knowledge Management](knowledge-management/README.md) | 6 |
@@ -68,6 +68,7 @@ Public services, policy and compliance. **278 ready-made Grok Bot templates** fo
 | [Executive Risk Insight Suite](../executives-and-strategy/data-analysis/executive-risk-insight-suite.md) | Turns your risk data into assessments, strategies, and reports for executive decisions. |
 | [Executive Risk Intelligence Assistant](../executives-and-strategy/data-analysis/executive-risk-intelligence-assistant.md) | Turns your risk data into actionable insights and keeps your risk posture current. |
 | [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
+| [Finance Impact Modeler](../finance/data-analysis/finance-impact-modeler.md) | Economic impact analysis assistant for finance and accounting specialists. |
 | [Forecast Variance Advisor](../finance/data-analysis/forecast-variance-advisor.md) | Turns your financial data into forecasts, variance insights, and budget recommendations. |
 | [Gap Closure Training Planner](../human-resources/data-analysis/gap-closure-training-planner.md) | Identifies training needs and aligns development programs with organizational goals. |
 | [Hydrogeology Data Analyst](../science-and-research/data-analysis/hydrogeology-data-analyst.md) | Analyzes hydrogeological data and drafts reports, models, and plans for groundwater work. |
@@ -104,8 +105,10 @@ Public services, policy and compliance. **278 ready-made Grok Bot templates** fo
 | [Supplier Evaluation Analyst](../management/data-analysis/supplier-evaluation-analyst.md) | Evaluates supplier performance, risk, and compliance to support procurement decisions. |
 | [Survey Data Processing Assistant](../operations/data-analysis/survey-data-processing-assistant.md) | Cleans, enters, validates, analyzes, and reports survey data with accuracy and insight. |
 | [Talent Management Strategy Planner](../executives-and-strategy/data-analysis/talent-management-strategy-planner.md) | Turns your talent data into a full workforce strategy, from hiring to retention. |
+| [Tax Policy Analysis Assistant](../finance/data-analysis/tax-policy-analysis-assistant.md) | Analyzes tax policies, forecasts revenues, and evaluates impacts for tax analysts. |
 | [Training Needs Analysis Assistant](../education/data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
 | [Urban Sustainability Analyst](../science-and-research/data-analysis/urban-sustainability-analyst.md) | Analyzes urban data and recommends sustainable planning actions for sustainability analysts. |
+| [Variance Report for Finance Teams](../finance/data-analysis/variance-report-for-finance-teams.md) | Analyzes budgets, forecasts, and reports for finance specialists. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Waste Management Analyst](../science-and-research/data-analysis/waste-management-analyst.md) | Analyzes waste streams, ensures compliance, and optimizes sustainable waste management for environmental engineers. |
@@ -119,6 +122,7 @@ Public services, policy and compliance. **278 ready-made Grok Bot templates** fo
 | [Accessibility Compliance Auditor](../product-development/security-and-compliance/accessibility-compliance-auditor.md) | Audits and improves web accessibility for UX designers, from code review to compliance reports. |
 | [AML Compliance Assistant](../legal/security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
 | [Audit Preparation Assistant](../operations/security-and-compliance/audit-preparation-assistant.md) | Prepares audits for quality control inspectors by organizing documents, analyzing data, and generating reports. |
+| [Audit Support Assistant](../finance/security-and-compliance/audit-support-assistant.md) | Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports. |
 | [Compliance and Regulatory Adherence Assistant](../executives-and-strategy/security-and-compliance/compliance-and-regulatory-adherence-assistant.md) | Prepares audits, analyzes regulations, and drafts compliance materials for your organization. |
 | [Compliance and Regulatory Assistant](../management/security-and-compliance/compliance-and-regulatory-assistant.md) | Guides project managers through compliance research, documentation, audits, training, and regulatory updates. |
 | [Compliance and Regulatory Updates Assistant](../operations/security-and-compliance/compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
@@ -146,6 +150,7 @@ Public services, policy and compliance. **278 ready-made Grok Bot templates** fo
 | [Ethical Compliance Monitor](../legal/security-and-compliance/ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
 | [Executive Risk Management Assistant](../executives-and-strategy/security-and-compliance/executive-risk-management-assistant.md) | Assesses, plans, monitors, and reports risks for executive decision-making. |
 | [Fda Food Safety Auditor](../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
+| [Finance Compliance Checklist Builder](../finance/security-and-compliance/finance-compliance-checklist-builder.md) | Monitors regulatory changes, builds checklists, reviews policies, and prepares compliance reports and audits for finance teams. |
 | [Hazard Identification Assistant](../operations/security-and-compliance/hazard-identification-assistant.md) | Turns workplace data and documents into hazard identifications, risk assessments, and safety actions. |
 | [Hazardous Material Management Assistant](../operations/security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
 | [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
@@ -157,6 +162,8 @@ Public services, policy and compliance. **278 ready-made Grok Bot templates** fo
 | [Legal Compliance Review Assistant](../legal/security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
 | [Occupational Health and Safety Assistant](../operations/security-and-compliance/occupational-health-and-safety-assistant.md) | Manages occupational health and safety tasks from risk assessment to compliance and wellness programs. |
 | [Operations Risk Assessment Planner](../operations/security-and-compliance/operations-risk-assessment-planner.md) | Identifies, analyzes, prioritizes, and plans mitigation for operational risks, from supply chain to compliance, with prepared monitoring and… |
+| [Payroll Audit Support Assistant](../finance/security-and-compliance/payroll-audit-support-assistant.md) | Supports payroll administrators in audit preparation, compliance checks, and corrective actions. |
+| [Payroll Compliance Guidance Assistant](../finance/security-and-compliance/payroll-compliance-guidance-assistant.md) | Guides payroll administrators through compliance, audits, and regulatory updates. |
 | [Policy Development Support](../legal/security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
 | [Procurement Compliance Assistant](../operations/security-and-compliance/procurement-compliance-assistant.md) | Keeps procurement compliant by tracking regulations, audits, reports, and vendor oversight. |
 | [Product Compliance Verification Assistant](../operations/security-and-compliance/product-compliance-verification-assistant.md) | Verifies product compliance across specs, materials, labeling, safety, environment, and regulations with documentation and audit support. |
@@ -176,6 +183,7 @@ Public services, policy and compliance. **278 ready-made Grok Bot templates** fo
 | [Security Assessment Planner](../it-and-development/security-and-compliance/security-assessment-planner.md) | Security assessment assistant for IT directors: scans, tests, reviews, and plans responses. |
 | [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
 | [SysAdmin Compliance Documentation](../it-and-development/security-and-compliance/sysadmin-compliance-documentation.md) | Compliance guidance and documentation support for systems administrators. |
+| [Tax Compliance Monitoring Assistant](../finance/security-and-compliance/tax-compliance-monitoring-assistant.md) | Compliance monitoring assistant for tax analysts: reviews, validates, reports, and trains on tax compliance. No hype, no filler. |
 | [User Access and Permissions Manager](../it-and-development/security-and-compliance/user-access-and-permissions-manager.md) | Manages user access, permissions, and audits for systems administrators. |
 | [Whistleblower Policy Manager](../legal/security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 
@@ -265,6 +273,7 @@ Public services, policy and compliance. **278 ready-made Grok Bot templates** fo
 | [Survey Research Assistant](../science-and-research/research/survey-research-assistant.md) | Builds, distributes, analyzes, and reports surveys for research studies. |
 | [Sustainable Procurement Advisor](../operations/research/sustainable-procurement-advisor.md) | Guides sustainable procurement decisions from supplier evaluation to circular economy implementation. |
 | [Sustainable Purchasing Assistant](../management/research/sustainable-purchasing-assistant.md) | Helps purchasing managers make sustainable procurement decisions and track their impact. |
+| [Tax Code Interpretation Assistant](../finance/research/tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |
 | [Third-Party Compliance Evaluator](../legal/research/third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 | [Threat Intelligence](../it-and-development/research/threat-intelligence.md) | Enrich IOCs and profile threats from public sources with verified evidence. |
 | [Vendor Research and Evaluation Assistant](../management/research/vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |

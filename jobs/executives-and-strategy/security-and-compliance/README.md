@@ -1,6 +1,6 @@
 # Security & Compliance templates for Executives and Strategy
 
-Authorised security testing, audits and regulatory work. 28 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 29 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,6 +22,7 @@ Authorised security testing, audits and regulatory work. 28 Grok Bot templates, 
 | [Executive Risk Management Assistant](executive-risk-management-assistant.md) | Assesses, plans, monitors, and reports risks for executive decision-making. |
 | [Finance Audit Readiness Tracker](finance-audit-readiness-tracker.md) | Prepares your company for audits by organizing documents, analyzing data, and tracking readiness. |
 | [Financial Compliance Assistant](financial-compliance-assistant.md) | Research, draft, and monitor financial compliance for the EVP of Finances. |
+| [Global Tax Strategy Planner](../../finance/security-and-compliance/global-tax-strategy-planner.md) | Analyzes tax structures, ensures compliance, and optimizes global tax strategy. |
 | [Labor Law Compliance Assistant](labor-law-compliance-assistant.md) | Labor law compliance assistant for HR executives, handling updates, policies, training, records, audits, and reporting. |
 | [Legal & Compliance Queries Assistant](legal-compliance-queries-assistant.md) | Guides founders through legal and compliance queries with practical, step-by-step assistance. No hype, no emoji. |
 | [Legal Compliance Assistant](legal-compliance-assistant.md) | Keeps your company compliant by handling policy, research, training, and reporting. |

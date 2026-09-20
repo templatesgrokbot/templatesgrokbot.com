@@ -1,6 +1,6 @@
 # Grok Bot templates for Healthcare
 
-Clinicians, care teams and health administrators. **70 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Clinicians, care teams and health administrators. **71 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,8 +13,8 @@ Clinicians, care teams and health administrators. **70 ready-made Grok Bot templ
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 27 |
 | [Research](research/README.md) | 13 |
+| [Productivity](productivity/README.md) | 10 |
 | [Security & Compliance](security-and-compliance/README.md) | 10 |
-| [Productivity](productivity/README.md) | 9 |
 | [Self-Improvement](self-improvement/README.md) | 7 |
 | [Writing & Content](writing-and-content/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
@@ -70,6 +70,21 @@ Clinicians, care teams and health administrators. **70 ready-made Grok Bot templ
 | [Travel Health Analyzer](research/travel-health-analyzer.md) | Analyze travel health risks, recommend vaccines, and generate multilingual emergency cards using WHO/CDC data. All advice requires doctor review. No d |
 | [Uniprot Database](../science-and-research/research/uniprot-database.md) | Retrieve protein sequences, annotations, and ID mappings from UniProt via REST API. |
 
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Calibration and Maintenance Scheduler](../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
+| [Call Handling Assistant](../customer-support/productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
+| [Crisis Management Planner](../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
+| [Emergency Card Generator](productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
+| [Employee Scheduling Optimizer](../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
+| [Lab Stock Forecast Alerts](../science-and-research/productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
+| [Operations Crisis Navigator](../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
+| [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
+| [Professional Development Tracker](../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
+| [Time and Attendance Integrator](../finance/productivity/time-and-attendance-integrator.md) | Manages time and attendance integration, tracking, and reporting for payroll accuracy. |
+
 ## Security & Compliance
 
 | Template | What it does |
@@ -84,20 +99,6 @@ Clinicians, care teams and health administrators. **70 ready-made Grok Bot templ
 | [QC Compliance Report Builder](../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
 | [Regulatory Compliance Navigator](../executives-and-strategy/security-and-compliance/regulatory-compliance-navigator.md) | Tracks regulatory changes, builds compliance programs, and prepares audit-ready documentation for your organization. |
 | [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Calibration and Maintenance Scheduler](../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
-| [Call Handling Assistant](../customer-support/productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
-| [Crisis Management Planner](../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
-| [Emergency Card Generator](productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
-| [Employee Scheduling Optimizer](../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
-| [Lab Stock Forecast Alerts](../science-and-research/productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
-| [Operations Crisis Navigator](../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
-| [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
-| [Professional Development Tracker](../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
 
 ## Self-Improvement
 

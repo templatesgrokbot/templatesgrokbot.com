@@ -1,11 +1,12 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 178 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 228 Grok Bot templates, 118 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Actuarial Data Analysis Assistant](actuarial-data-analysis-assistant.md) | Analyzes insurance data for risk, pricing, and compliance, delivering clear reports. |
 | [AI ROI Calculator](ai-roi-calculator.md) | Calculate ROI for AI implementation projects with detailed financial analysis and recommendations. |
 | [Alpha Vantage](alpha-vantage.md) | Fetch 20+ years of equities, forex, crypto, commodities, and economic data via Alpha Vantage API. |
 | [AML Due Diligence Drafter](../../legal/data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
@@ -26,6 +27,7 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 68 of them filed i
 | [Budget Forecast Assistant](../../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Budget Forecasting Assistant](budget-forecasting-assistant.md) | Build and maintain accurate budget forecasts from your financial data. |
 | [Budget Management Assistant](../../executives-and-strategy/data-analysis/budget-management-assistant.md) | Analyzes budgets, tracks spending, and forecasts to keep your company's finances on track. |
+| [Budget Optimization Assistant](budget-optimization-assistant.md) | Analyzes financial data and budgets to cut costs, forecast, and optimize spending. |
 | [Budget Planning Assistant](../../executives-and-strategy/data-analysis/budget-planning-assistant.md) | Prepares your budget plan from data gathering to final documentation. |
 | [Budget Preparation and Analysis Assistant](../../executives-and-strategy/data-analysis/budget-preparation-and-analysis-assistant.md) | Prepares budgets, forecasts, and reports for the EVP of Finances. |
 | [Budget Preparation Assistant](budget-preparation-assistant.md) | Prepares budgets end-to-end: gather data, forecast, allocate, analyze variances, and document for CFOs. |
@@ -34,23 +36,34 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 68 of them filed i
 | [Cash Flow Analysis Assistant](cash-flow-analysis-assistant.md) | Analyzes cash flow data, forecasts, and reports to support CFO financial decisions. |
 | [Cash Flow Forecaster](cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your bank, AR, AP, and payroll data, flagging crunch weeks. |
 | [Cash Flow Forecaster for CFOs](cash-flow-forecaster-for-cfos.md) | Analyzes and forecasts cash flows, prepares statements and reports, and advises on optimization and risk. |
+| [Cash Flow Management Analyst](cash-flow-management-analyst.md) | Analyzes cash flow data, forecasts trends, and flags risks for the Global Head of Finances. |
 | [Cash Flow Management Assistant](cash-flow-management-assistant.md) | Cash flow forecasting, tracking, reporting, and optimization for accountants, from data to decisions. |
 | [Cash Flow Optimizer](../../executives-and-strategy/data-analysis/cash-flow-optimizer.md) | Analyzes cash flow data to forecast, optimize, and report for financial health. |
 | [Cash Flow Optimizer for Finance Managers](cash-flow-optimizer-for-finance-managers.md) | Forecast, monitor, and optimize your company's cash flow with data-driven insights. |
+| [Catastrophe Modeling Analyst](catastrophe-modeling-analyst.md) | Catastrophe modeling assistant for insurance risk analysts, from data to reports. |
 | [CEO Financial Forecaster](../../executives-and-strategy/data-analysis/ceo-financial-forecaster.md) | Turns your financial data into forecasts, models, and reports for confident decisions. |
 | [CFO Cost Savings Finder](cfo-cost-savings-finder.md) | Analyzes company costs and identifies savings opportunities across all spending areas. |
 | [CFO Financial Statement Analyzer](cfo-financial-statement-analyzer.md) | Prepares financial statements, analyzes data, and ensures compliance for CFOs. |
+| [CFO Forecast Studio](cfo-forecast-studio.md) | Turns financial data into forecasts, budgets, and reports for finance specialists. |
 | [CFO Investment Decision Support](cfo-investment-decision-support.md) | Investment analysis assistant for CFOs, covering valuation, risk, portfolio, and strategy. |
 | [CFO Risk Intelligence Report](cfo-risk-intelligence-report.md) | Identifies, assesses, and reports financial risks for CFOs. |
 | [CFO Tax Planning Assistant](cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
+| [Claim Data Analysis Assistant](claim-data-analysis-assistant.md) | Turns claim data into risk insights, fraud flags, and pricing recommendations. |
+| [Claims Data Analysis Assistant](claims-data-analysis-assistant.md) | Turns insurance claims data into clear insights, forecasts, and compliance checks for analysts. |
+| [Claims Fraud Pattern Scout](claims-fraud-pattern-scout.md) | Fraud detection analyst for insurance claims, flagging anomalies and supporting investigations. |
+| [Claims Intake Fraud Screener](claims-intake-fraud-screener.md) | Automates and streamlines insurance claims processing, from intake to settlement, with fraud checks and compliance. |
 | [Client Financial Advisory Assistant](client-financial-advisory-assistant.md) | Prepares client financial advice across statements, budgets, taxes, investments, retirement, risk, cash flow, debt, valuation, succession, estate,… |
 | [Compliance Cost Analyst](../../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Cost Reduction Advisor](../../executives-and-strategy/data-analysis/cost-reduction-advisor.md) | Analyzes financial data to find savings, optimize budgets, and support cost reduction decisions. |
 | [Cost Reduction Analyst](../../management/data-analysis/cost-reduction-analyst.md) | Finds and validates cost reduction opportunities for service managers. |
 | [Cost-Benefit Analysis Assistant](../../operations/data-analysis/cost-benefit-analysis-assistant.md) | Runs complete cost-benefit analyses for process improvement projects, from data gathering to stakeholder-ready reports. |
+| [Credit Analysis Assistant](credit-analysis-assistant.md) | Automates credit analysis tasks from statement review to portfolio monitoring for finance specialists. |
 | [Currency Risk Management Assistant](../../executives-and-strategy/data-analysis/currency-risk-management-assistant.md) | Manages currency and exchange risk for a VP of Finance from exposure analysis to compliance and reporting. |
+| [Currency Risk Manager](currency-risk-manager.md) | Analyzes currency exposure, evaluates hedges, monitors markets, and reports to stakeholders. |
+| [Custom Payroll Report Builder](custom-payroll-report-builder.md) | Builds custom payroll reports from requirements to distribution, with validation and documentation. |
 | [Customer Lifetime Value Analyst](../../management/data-analysis/customer-lifetime-value-analyst.md) | Turns your customer data into CLV insights and action plans for growth. |
+| [Customer Risk Profiling Assistant](customer-risk-profiling-assistant.md) | Builds and maintains customer risk profiles for insurance risk analysts. |
 | [Data Analysis Assistant](../../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
 | [Data Analyst](../../science-and-research/data-analysis/data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
 | [Data Cleaner](../../it-and-development/data-analysis/data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
@@ -60,6 +73,7 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 68 of them filed i
 | [Data Visualization Guide](../../it-and-development/data-analysis/data-visualization-guide.md) | Turns raw business data into clear, compelling visualizations and dashboards for stakeholder decisions. |
 | [Data-Driven Decision Support](../../executives-and-strategy/data-analysis/data-driven-decision-support.md) | Turns raw data into clear insights and recommendations for executive decisions. |
 | [Deal Desk Financial Analyst](deal-desk-financial-analyst.md) | M&A analysis assistant for financial analysts covering valuation, due diligence, synergies, and integration. |
+| [Deal Lifecycle Navigator](deal-lifecycle-navigator.md) | Analyzes targets, structures deals, and tracks post-merger performance for finance teams. |
 | [Deal Room Risk Analyst](deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
 | [Debt Management Assistant](debt-management-assistant.md) | Turns debt data into repayment plans, restructuring options, and compliance-ready reports for finance managers. |
 | [Debt Management Strategist](../../executives-and-strategy/data-analysis/debt-management-strategist.md) | Analyzes, plans, and monitors your company's debt portfolio, from refinancing to compliance. |
@@ -82,11 +96,18 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 68 of them filed i
 | [Executive Risk Intelligence Assistant](../../executives-and-strategy/data-analysis/executive-risk-intelligence-assistant.md) | Turns your risk data into actionable insights and keeps your risk posture current. |
 | [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Expense Tracking and Analysis Assistant](expense-tracking-and-analysis-assistant.md) | Analyzes, categorizes, and reports expenses for accurate financial tracking and cost control. |
+| [Finance Cost-Benefit Analyzer](finance-cost-benefit-analyzer.md) | Runs complete cost-benefit analyses for finance specialists, from data gathering to final recommendations. |
+| [Finance Impact Modeler](finance-impact-modeler.md) | Economic impact analysis assistant for finance and accounting specialists. |
+| [Finance M&A Target Analyzer](finance-m-a-target-analyzer.md) | Analyzes M&A targets, valuations, risks, synergies, and integration for the Global Head of Finances. |
 | [Finance Manager Investment Analyst](finance-manager-investment-analyst.md) | Investment analysis assistant for finance managers covering research, valuation, risk, and reporting. |
+| [Finance Trend Forecaster](finance-trend-forecaster.md) | Analyzes economic impacts on finances, forecasts trends, and prepares stakeholder reports. |
+| [Finance Trend Insight Studio](finance-trend-insight-studio.md) | Market trend analysis for finance and accounting specialists, from data collection to presentation. |
 | [Financial Analysis and Strategy Assistant](../../executives-and-strategy/data-analysis/financial-analysis-and-strategy-assistant.md) | Analyzes financial data, builds forecasts, and flags risks for Managing Directors. |
 | [Financial Analysis Assistant](financial-analysis-assistant.md) | Turns your company's financial data into forecasts, risk checks, and board-ready insights for CFO decisions. |
 | [Financial Data Interpreter](financial-data-interpreter.md) | Interprets financial data and drafts reports for accountants. |
+| [Financial Data Visualization Assistant](financial-data-visualization-assistant.md) | Turns financial data into clear, decision-ready charts and dashboards for the global finance head. |
 | [Financial Document Parser](financial-document-parser.md) | Extracts structured data from financial documents and categorizes expenses. |
+| [Financial File Analyst](financial-file-analyst.md) | Manages financial file uploads, conversions, and data analysis for the Global Head of Finances. |
 | [Financial Forecast Assistant](../../it-and-development/data-analysis/financial-forecast-assistant.md) | Builds and maintains your financial forecasts from data collection to stakeholder reporting. |
 | [Financial Forecasting and Analysis Assistant](../../executives-and-strategy/data-analysis/financial-forecasting-and-analysis-assistant.md) | Turns financial data into forecasts, budgets, and scenario insights for a VP of Finance. |
 | [Financial Forecasting Assistant](../../management/data-analysis/financial-forecasting-assistant.md) | Turns your business unit's financial data into forecasts, reports, and risk insights. |
@@ -102,6 +123,7 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 68 of them filed i
 | [Financial Performance Analyst](../../executives-and-strategy/data-analysis/financial-performance-analyst.md) | Analyzes financial performance metrics, forecasts trends, and supports executive decisions. |
 | [Financial Performance Metrics Assistant](../../executives-and-strategy/data-analysis/financial-performance-metrics-assistant.md) | Analyzes financial performance, forecasts, and benchmarks to support VP-level strategic decisions. |
 | [Financial Process Automation Assistant](financial-process-automation-assistant.md) | Automates financial data work, analysis, reporting, and compliance for financial analysts. |
+| [Financial Process Automation Planner](financial-process-automation-planner.md) | Automates financial data analysis, process optimization, and reporting for the Global Head of Finances. |
 | [Financial Projections Assistant](../../executives-and-strategy/data-analysis/financial-projections-assistant.md) | Build and stress-test your startup's financial projections from expenses to scenarios. |
 | [Financial Ratio Analyst](financial-ratio-analyst.md) | Calculates and interprets financial ratios from your company's statements for informed decisions. |
 | [Financial Reporting Assistant](financial-reporting-assistant.md) | Prepares, analyzes, and reviews financial reports with compliance and stakeholder insights. |
@@ -109,20 +131,35 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 68 of them filed i
 | [Financial Risk Assessment Assistant](../../executives-and-strategy/data-analysis/financial-risk-assessment-assistant.md) | Identifies, assesses, and monitors financial risks with actionable mitigation strategies. |
 | [Financial Risk Management Analyst](../../executives-and-strategy/data-analysis/financial-risk-management-analyst.md) | Analyzes financial risks and builds mitigation strategies from your data. |
 | [Financial Statement Analysis Assistant](financial-statement-analysis-assistant.md) | Analyzes financial statements, computes ratios, trends, and forecasts for informed decisions. |
+| [Financial Statement Analyst](financial-statement-analyst.md) | Financial statement analysis assistant for finance and accounting specialists. |
 | [Forecast Desk Analyst](forecast-desk-analyst.md) | Turns economic data into forecasts, risk insights, and decision-ready reports for financial analysts. |
 | [Forecast Variance Advisor](forecast-variance-advisor.md) | Turns your financial data into forecasts, variance insights, and budget recommendations. |
 | [FP&A Reporting Guide](../../executives-and-strategy/data-analysis/fp-a-reporting-guide.md) | Prepares financial reports, analyses, and dashboards with guidance and documentation for finance leadership. |
+| [Fraud Detection Algorithm Assistant](fraud-detection-algorithm-assistant.md) | Helps insurance data analysts build, test, and refine fraud detection algorithms from data prep to real-time monitoring. |
 | [Freight Broker Financial Analyst](../../sales/data-analysis/freight-broker-financial-analyst.md) | Analyzes freight brokerage finances and market data to guide profitable decisions. |
+| [Geographic Risk Analysis Assistant](geographic-risk-analysis-assistant.md) | Geographic risk analysis assistant for insurance risk analysts, turning data into assessments and reports. No hype, no fluff. |
+| [Global Finance Cost-Benefit Analyst](global-finance-cost-benefit-analyst.md) | Runs cost-benefit analyses for global finance decisions, from data gathering to stakeholder reports. |
+| [Global Finance Forecast Studio](global-finance-forecast-studio.md) | Turns your financial data into forecasts, scenarios, and reports for the Global Head of Finances. |
+| [Global Finance Report Builder](global-finance-report-builder.md) | Prepares, analyzes, and delivers financial reports for a global finance head. |
+| [Global Financial Risk Assessor](global-financial-risk-assessor.md) | Identifies, analyzes, and reports on financial risks across global operations. |
+| [Insurance Customer Segmentation Analyst](insurance-customer-segmentation-analyst.md) | Segment insurance customers and generate insights for targeted marketing and risk management. |
 | [Insurance Finance Reporting Assistant](../../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
+| [Insurance Market Trend Analyst](insurance-market-trend-analyst.md) | Analyzes insurance market trends and risks, turning data into actionable insights for risk analysts. |
+| [Insurance Pricing Strategy Optimizer](insurance-pricing-strategy-optimizer.md) | Optimizes insurance pricing through data analysis, modeling, and strategic insights. |
+| [Insurance Risk Modeling Assistant](insurance-risk-modeling-assistant.md) | Builds and maintains insurance risk models from data to compliance. |
+| [Insurance Risk Modelling Assistant](insurance-risk-modelling-assistant.md) | Builds and validates insurance risk models from data to reports, with approval gates. |
 | [Investment Analysis Assistant](investment-analysis-assistant.md) | Analyzes investments, builds valuations, and drafts reports for accountant decisions. |
 | [Investment Opportunity Assessment Assistant](../../executives-and-strategy/data-analysis/investment-opportunity-assessment-assistant.md) | Assesses investment opportunities with market, financial, and risk analysis for informed decisions. |
+| [Investment Portfolio Analyst](investment-portfolio-analyst.md) | Analyzes investment portfolios, evaluates performance, risk, and diversification, and recommends rebalancing and strategy. |
 | [Investment Portfolio Review Assistant](../../executives-and-strategy/data-analysis/investment-portfolio-review-assistant.md) | Reviews portfolio performance, risk, allocation, and compliance for the EVP of Finances. |
 | [Invoice Organizer](../../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
 | [IT Budget Forecasting Assistant](../../it-and-development/data-analysis/it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
 | [IT Budget Planning Assistant](../../executives-and-strategy/data-analysis/it-budget-planning-assistant.md) | Analyzes IT costs, forecasts spending, and prepares budget plans for approval. |
 | [Job Profitability Analyzer](job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
+| [Ledger Cycle Automation Bot](ledger-cycle-automation-bot.md) | Automates financial reporting tasks from data extraction to distribution and analysis. |
 | [Legal Billing Systems Assistant](../../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |
 | [Licensing and Royalty Manager](../../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
+| [Liquidity Forecast Copilot](liquidity-forecast-copilot.md) | Analyzes cash flow data, forecasts trends, and recommends actions to keep your business liquid. |
 | [Longbridge](longbridge.md) | 125+ read-only market data capabilities for HK/US/A-share/SG stocks via Longbridge. |
 | [Longbridge Fundamentals](longbridge-fundamentals.md) | Pull financial statements, valuation multiples, and company profiles for HK/US/A-share/Singapore stocks via Longbridge. |
 | [Longbridge Market Data](longbridge-market-data.md) | Real-time quotes, K-lines, order book, trades, capital flow, sentiment, and IPO data for HK/US/A/SG markets via Longbridge. |
@@ -138,9 +175,16 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 68 of them filed i
 | [Operations Financial Forecaster](../../operations/data-analysis/operations-financial-forecaster.md) | Builds, checks, and reports financial forecasts for operations decisions. |
 | [Options Flow Analyzer](options-flow-analyzer.md) | Separates real options flow from lottery noise to prevent P/C ratio inversion. |
 | [Patent Valuation Analyst](../../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
+| [Payroll Data Analyst](payroll-data-analyst.md) | Analyzes payroll data for accuracy, insights, trends, and compliance, and prepares reports for management. |
+| [Payroll Reporting Assistant](payroll-reporting-assistant.md) | Generates, analyzes, and audits payroll reports with compliance and forecasting. |
+| [Payroll Tax Deduction Calculator](payroll-tax-deduction-calculator.md) | Calculates and manages employee tax deductions for payroll administrators. |
 | [Performance Report](../../executives-and-strategy/data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
+| [Policy Renewal Forecasting](policy-renewal-forecasting.md) | Forecast policy renewals and retention from your insurance data, with insights for decisions. |
+| [Portfolio Analysis and Reporting Assistant](portfolio-analysis-and-reporting-assistant.md) | Analyzes portfolios, optimizes allocation, monitors risk, and prepares reports for the global finance head. |
 | [Portfolio Analysis Assistant](portfolio-analysis-assistant.md) | Analyzes portfolios, assesses risk, and recommends rebalancing for financial analysts. |
 | [Portfolio Digest](portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
+| [Portfolio Insight Reports](portfolio-insight-reports.md) | Analyzes markets, companies, and portfolios to deliver investment insights and reports. |
+| [Portfolio Risk Analysis Assistant](portfolio-risk-analysis-assistant.md) | Analyzes insurance portfolio risk data and produces reports, models, and recommendations for risk analysts. |
 | [Portfolio Strategy Analyst](../../it-and-development/data-analysis/portfolio-strategy-analyst.md) | Analyzes investments, builds strategies, and tracks performance for business analysts. |
 | [Pricing Strategy Analyst](../../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
 | [Procurement Cost Analyzer](../../operations/data-analysis/procurement-cost-analyzer.md) | Analyzes procurement costs and recommends savings for smarter purchasing decisions. |
@@ -157,6 +201,7 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 68 of them filed i
 | [Risk Management Director Assistant](../../executives-and-strategy/data-analysis/risk-management-director-assistant.md) | Identifies, assesses, and manages business risks with AI-driven insights and reporting. |
 | [Risk Manager](risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
+| [Risk Mitigation Report Builder](risk-mitigation-report-builder.md) | Identifies, analyzes, and mitigates financial risks with structured reports and monitoring for finance teams. |
 | [School Budget Analysis Assistant](../../education/data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
 | [School Budget Forecaster](../../education/data-analysis/school-budget-forecaster.md) | Turns your school's financial data into clear, defensible budget forecasts and reports. |
 | [Senior Manager Decision Support](../../management/data-analysis/senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
@@ -172,10 +217,15 @@ Clean, query, chart and explain data. 178 Grok Bot templates, 68 of them filed i
 | [Strategy Finance Forecast Builder](../../executives-and-strategy/data-analysis/strategy-finance-forecast-builder.md) | Builds and maintains financial forecasts for strategy decisions, from data to reporting and updates. |
 | [Supplier Cost Savings Planner](../../management/data-analysis/supplier-cost-savings-planner.md) | Turns supplier cost data into savings plans, negotiation tactics, and stakeholder reports. |
 | [SVP Financial Forecast Studio](../../executives-and-strategy/data-analysis/svp-financial-forecast-studio.md) | Turns financial data into forecasts, risk insights, and board-ready reports for SVP decisions. |
+| [Tax Calculation Assistant](tax-calculation-assistant.md) | Calculates taxes, checks deductions and credits, and estimates liabilities and refunds for tax analysts. |
 | [Tax Document Organizer](tax-document-organizer.md) | Sweeps your folders for tax documents and builds a CPA-ready package with a chase list. |
 | [Tax Planning Strategy Assistant](../../executives-and-strategy/data-analysis/tax-planning-strategy-assistant.md) | Tax planning and strategy assistant for an EVP of Finances. |
+| [Tax Policy Analysis Assistant](tax-policy-analysis-assistant.md) | Analyzes tax policies, forecasts revenues, and evaluates impacts for tax analysts. |
+| [Tax Trend Analysis Assistant](tax-trend-analysis-assistant.md) | Analyzes tax trends, policies, and risks to inform strategic decisions. |
 | [Trading Ledger](trading-ledger.md) | Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L. |
 | [Trading Risk Manager](trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
+| [Underwriting Support Assistant](underwriting-support-assistant.md) | Streamlines underwriting data, risk, policy, and compliance tasks for insurance risk analysts. |
+| [Variance Report for Finance Teams](variance-report-for-finance-teams.md) | Analyzes budgets, forecasts, and reports for finance specialists. |
 | [Vendor Proposal Comparator](../../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [VP Cash Flow Optimizer](../../executives-and-strategy/data-analysis/vp-cash-flow-optimizer.md) | Forecast, analyze, and optimize cash flow with real-time insights and actionable recommendations. |
 | [VP Financial Forecast Builder](../../executives-and-strategy/data-analysis/vp-financial-forecast-builder.md) | Builds financial forecasts and analyses from your data for VP-level decisions. |

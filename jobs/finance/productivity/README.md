@@ -1,6 +1,6 @@
 # Productivity templates for Finance
 
-Plan, prioritise and clear the recurring admin. 21 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 25 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,10 @@ Plan, prioritise and clear the recurring admin. 21 Grok Bot templates, 14 of the
 | [Expense Reporting Assistant](expense-reporting-assistant.md) | Manages expense tracking, reporting, compliance, and vendor communication for administrative assistants. |
 | [Expense Tracking Manager](expense-tracking-manager.md) | Tracks, verifies, and reports expenses with receipts, budgets, and policy checks. |
 | [Finance Event Orchestrator](finance-event-orchestrator.md) | Plans, coordinates, and tracks every detail of your events from venue to post-event feedback. |
+| [Financial Planning Assistant](financial-planning-assistant.md) | Personal financial planning assistant for tax analysts covering budgets, investments, retirement, taxes, debt, insurance, education, estate, cash… |
+| [FinTech Integration Planner](fintech-integration-planner.md) | Plans and oversees financial technology integration, from analysis to implementation and optimization. |
 | [Internal Communication Coordinator](internal-communication-coordinator.md) | Manages internal communications for administrative assistants in finance. |
+| [International Payroll Manager](international-payroll-manager.md) | Manages international payroll tasks from data upkeep to compliance and reporting. |
 | [Inventory and Supply Manager](inventory-and-supply-manager.md) | Manages inventory, orders, vendors, budgets, and reports for administrative assistants. |
 | [Invoice Chaser](invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
 | [Legal Billing and Timekeeping Assistant](../../legal/productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
@@ -25,6 +28,7 @@ Plan, prioritise and clear the recurring admin. 21 Grok Bot templates, 14 of the
 | [Project Coordination Assistant](project-coordination-assistant.md) | Handles project scheduling, documents, communication, budgets, research, reports, and coordination for administrative assistants. |
 | [Risk Analysis and Management Assistant](../../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Stripe Automation](stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
+| [Time and Attendance Integrator](time-and-attendance-integrator.md) | Manages time and attendance integration, tracking, and reporting for payroll accuracy. |
 | [Travel Arrangements Assistant](travel-arrangements-assistant.md) | Plans and books business travel, tracks expenses, and keeps trips compliant. |
 | [Vendor Watch](../../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
 

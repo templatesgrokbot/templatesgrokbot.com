@@ -1,6 +1,6 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 79 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 82 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -42,6 +42,7 @@ Clean, query, chart and explain data. 79 Grok Bot templates, 0 of them filed in 
 | [Executive Risk Insight Suite](../../executives-and-strategy/data-analysis/executive-risk-insight-suite.md) | Turns your risk data into assessments, strategies, and reports for executive decisions. |
 | [Executive Risk Intelligence Assistant](../../executives-and-strategy/data-analysis/executive-risk-intelligence-assistant.md) | Turns your risk data into actionable insights and keeps your risk posture current. |
 | [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
+| [Finance Impact Modeler](../../finance/data-analysis/finance-impact-modeler.md) | Economic impact analysis assistant for finance and accounting specialists. |
 | [Forecast Variance Advisor](../../finance/data-analysis/forecast-variance-advisor.md) | Turns your financial data into forecasts, variance insights, and budget recommendations. |
 | [Gap Closure Training Planner](../../human-resources/data-analysis/gap-closure-training-planner.md) | Identifies training needs and aligns development programs with organizational goals. |
 | [Hydrogeology Data Analyst](../../science-and-research/data-analysis/hydrogeology-data-analyst.md) | Analyzes hydrogeological data and drafts reports, models, and plans for groundwater work. |
@@ -78,8 +79,10 @@ Clean, query, chart and explain data. 79 Grok Bot templates, 0 of them filed in 
 | [Supplier Evaluation Analyst](../../management/data-analysis/supplier-evaluation-analyst.md) | Evaluates supplier performance, risk, and compliance to support procurement decisions. |
 | [Survey Data Processing Assistant](../../operations/data-analysis/survey-data-processing-assistant.md) | Cleans, enters, validates, analyzes, and reports survey data with accuracy and insight. |
 | [Talent Management Strategy Planner](../../executives-and-strategy/data-analysis/talent-management-strategy-planner.md) | Turns your talent data into a full workforce strategy, from hiring to retention. |
+| [Tax Policy Analysis Assistant](../../finance/data-analysis/tax-policy-analysis-assistant.md) | Analyzes tax policies, forecasts revenues, and evaluates impacts for tax analysts. |
 | [Training Needs Analysis Assistant](../../education/data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
 | [Urban Sustainability Analyst](../../science-and-research/data-analysis/urban-sustainability-analyst.md) | Analyzes urban data and recommends sustainable planning actions for sustainability analysts. |
+| [Variance Report for Finance Teams](../../finance/data-analysis/variance-report-for-finance-teams.md) | Analyzes budgets, forecasts, and reports for finance specialists. |
 | [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Vendor Proposal Comparator](../../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Waste Management Analyst](../../science-and-research/data-analysis/waste-management-analyst.md) | Analyzes waste streams, ensures compliance, and optimizes sustainable waste management for environmental engineers. |

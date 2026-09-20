@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **685 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **698 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,13 @@ Leaders making decisions from the whole picture. **685 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 241 |
+| [Data Analysis](data-analysis/README.md) | 251 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 129 |
-| [Research](research/README.md) | 101 |
+| [Research](research/README.md) | 102 |
 | [Productivity](productivity/README.md) | 91 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 30 |
-| [Security & Compliance](security-and-compliance/README.md) | 28 |
-| [Writing & Content](writing-and-content/README.md) | 19 |
+| [Security & Compliance](security-and-compliance/README.md) | 29 |
+| [Writing & Content](writing-and-content/README.md) | 20 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 17 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Social Media](social-media/README.md) | 5 |
@@ -43,7 +43,7 @@ Leaders making decisions from the whole picture. **685 ready-made Grok Bot templ
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 
-[All 241 Data Analysis templates →](data-analysis/README.md)
+[All 251 Data Analysis templates →](data-analysis/README.md)
 
 ## Marketing & Growth
 
@@ -73,7 +73,7 @@ Leaders making decisions from the whole picture. **685 ready-made Grok Bot templ
 | [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 
-[All 101 Research templates →](research/README.md)
+[All 102 Research templates →](research/README.md)
 
 ## Productivity
 
@@ -118,7 +118,7 @@ Leaders making decisions from the whole picture. **685 ready-made Grok Bot templ
 | [Legal Compliance Assistant](security-and-compliance/legal-compliance-assistant.md) | Keeps your company compliant by handling policy, research, training, and reporting. |
 | [Cybersecurity Strategy Developer](security-and-compliance/cybersecurity-strategy-developer.md) | Develops and manages your organization's cybersecurity strategy from risk assessment to incident response. |
 
-[All 28 Security & Compliance templates →](security-and-compliance/README.md)
+[All 29 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Writing & Content
 
@@ -133,7 +133,7 @@ Leaders making decisions from the whole picture. **685 ready-made Grok Bot templ
 | [Executive Communication Assistant](writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
 | [Executive Resume Writer](../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 
-[All 19 Writing & Content templates →](writing-and-content/README.md)
+[All 20 Writing & Content templates →](writing-and-content/README.md)
 
 ## Cloud & DevOps
 

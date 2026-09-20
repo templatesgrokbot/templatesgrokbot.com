@@ -1,6 +1,6 @@
 # Security & Compliance templates for Legal
 
-Authorised security testing, audits and regulatory work. 80 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 85 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -39,12 +39,14 @@ Authorised security testing, audits and regulatory work. 80 Grok Bot templates, 
 | [Event Staffing Compliance](../../human-resources/security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
 | [Fda Consultant Specialist](../../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
 | [Fda Medtech Compliance Auditor](fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |
+| [Finance Compliance Checklist Builder](../../finance/security-and-compliance/finance-compliance-checklist-builder.md) | Monitors regulatory changes, builds checklists, reviews policies, and prepares compliance reports and audits for finance teams. |
 | [Financial Compliance Assistant](../../executives-and-strategy/security-and-compliance/financial-compliance-assistant.md) | Research, draft, and monitor financial compliance for the EVP of Finances. |
 | [Freight Broker Compliance Assistant](../../sales/security-and-compliance/freight-broker-compliance-assistant.md) | Freight broker compliance assistant for carrier checks, audits, and regulatory updates. |
 | [Freight Environmental Compliance Assistant](../../sales/security-and-compliance/freight-environmental-compliance-assistant.md) | Turns freight brokerage environmental compliance work into research, plans, audits, and reports. |
 | [Freight Risk Assessment Assistant](../../sales/security-and-compliance/freight-risk-assessment-assistant.md) | Freight broker risk management assistant for vetting, contracts, claims, compliance, and planning. |
 | [Gdpr Data Handling](../../it-and-development/security-and-compliance/gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
 | [Gdpr Dsgvo Expert](gdpr-dsgvo-expert.md) | Advises on GDPR/DSGVO compliance, conducts privacy impact assessments, and audits data protection practices. |
+| [Global Compliance Assistant](../../finance/security-and-compliance/global-compliance-assistant.md) | Regulatory compliance assistant for a global finance head, covering monitoring, reporting, risk, policy, training, audits, data privacy, vendors,… |
 | [HR Legal Compliance Reviewer](../../human-resources/security-and-compliance/hr-legal-compliance-reviewer.md) | Reviews and updates HR legal compliance across contracts, policies, and procedures. |
 | [Incident Reporting Navigator](../../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
 | [Incident Response Planning Assistant](incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
@@ -60,6 +62,7 @@ Authorised security testing, audits and regulatory work. 80 Grok Bot templates, 
 | [Logistics Compliance Assistant](../../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
 | [Pharma Compliance Assistant](../../sales/security-and-compliance/pharma-compliance-assistant.md) | Keeps pharmaceutical sales compliant with regulations, audits, and reporting. |
 | [Policy Development Support](policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
+| [Policy Risk & Cost Reviewer](../../finance/security-and-compliance/policy-risk-cost-reviewer.md) | Analyzes insurance policies for risk, compliance, coverage, and cost to support recommendations. |
 | [Privacy By Design](../../it-and-development/security-and-compliance/privacy-by-design.md) | Build apps with built-in privacy protections from the start. |
 | [Procurement Compliance Assistant](../../operations/security-and-compliance/procurement-compliance-assistant.md) | Keeps procurement compliant by tracking regulations, audits, reports, and vendor oversight. |
 | [Product Compliance Verification Assistant](../../operations/security-and-compliance/product-compliance-verification-assistant.md) | Verifies product compliance across specs, materials, labeling, safety, environment, and regulations with documentation and audit support. |
@@ -73,6 +76,7 @@ Authorised security testing, audits and regulatory work. 80 Grok Bot templates, 
 | [Regulatory Compliance Assistant](../../customer-support/security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
 | [Regulatory Compliance Monitor](../../operations/security-and-compliance/regulatory-compliance-monitor.md) | Tracks regulatory changes, audits compliance, and reports status for global operations. |
 | [Regulatory Compliance Navigator](../../executives-and-strategy/security-and-compliance/regulatory-compliance-navigator.md) | Tracks regulatory changes, builds compliance programs, and prepares audit-ready documentation for your organization. |
+| [Regulatory Compliance Review Assistant](../../finance/security-and-compliance/regulatory-compliance-review-assistant.md) | Regulatory compliance review and monitoring for insurance risk analysts. |
 | [Regulatory Impact Intelligence Analyst](../../executives-and-strategy/security-and-compliance/regulatory-impact-intelligence-analyst.md) | Tracks regulatory changes and turns them into risk, opportunity, and strategy intelligence. |
 | [Regulatory Requirements to Audit Reports](../../it-and-development/security-and-compliance/regulatory-requirements-to-audit-reports.md) | Turns regulatory requirements into compliance checks, audits, and reports for business analysts. |
 | [Risk and Compliance Assistant](../../executives-and-strategy/security-and-compliance/risk-and-compliance-assistant.md) | Assesses risks, monitors compliance, and guides incident response for your organization. |
@@ -84,6 +88,7 @@ Authorised security testing, audits and regulatory work. 80 Grok Bot templates, 
 | [Shipping Rule Compliance Drafts](../../operations/security-and-compliance/shipping-rule-compliance-drafts.md) | Ensures shipping compliance by researching rules, drafting documents, and monitoring risks. |
 | [Supply Chain Compliance Guide](../../operations/security-and-compliance/supply-chain-compliance-guide.md) | Guides supply chain analysts through regulatory compliance, from rules to audits. |
 | [Supply Chain Compliance Navigator](../../operations/security-and-compliance/supply-chain-compliance-navigator.md) | Navigates supply chain compliance questions and turns them into auditable processes. |
+| [Tax Compliance Monitoring Assistant](../../finance/security-and-compliance/tax-compliance-monitoring-assistant.md) | Compliance monitoring assistant for tax analysts: reviews, validates, reports, and trains on tax compliance. No hype, no filler. |
 | [Verify Document](../../operations/security-and-compliance/verify-document.md) | Check PDFs and images for tampering signals before relying on them. |
 | [Whistleblower Policy Manager](whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 

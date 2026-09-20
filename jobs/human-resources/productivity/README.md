@@ -1,6 +1,6 @@
 # Productivity templates for Human Resources
 
-Plan, prioritise and clear the recurring admin. 51 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 53 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -32,6 +32,7 @@ Plan, prioritise and clear the recurring admin. 51 Grok Bot templates, 33 of the
 | [HRIS Vendor Lifecycle Manager](hris-vendor-lifecycle-manager.md) | Manages vendor lifecycle, contracts, performance, compliance, and costs from HRIS data. |
 | [HRIS Workflow Automation Assistant](hris-workflow-automation-assistant.md) | Automates HRIS workflows from onboarding to offboarding with approval gates. |
 | [Instructor Lifecycle Manager](../../education/productivity/instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
+| [International Payroll Manager](../../finance/productivity/international-payroll-manager.md) | Manages international payroll tasks from data upkeep to compliance and reporting. |
 | [IT Talent Acquisition Planner](../../it-and-development/productivity/it-talent-acquisition-planner.md) | Guides IT leaders through the full talent acquisition cycle, from market analysis to onboarding, with actionable AI-assisted strategies. |
 | [IT Training Program Planner](../../executives-and-strategy/productivity/it-training-program-planner.md) | Designs and manages IT staff training, from needs assessment to certification prep. |
 | [Jobgpt](jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |
@@ -53,6 +54,7 @@ Plan, prioritise and clear the recurring admin. 51 Grok Bot templates, 33 of the
 | [Talent Acquisition Workflow Manager](../../executives-and-strategy/productivity/talent-acquisition-workflow-manager.md) | Manages your end-to-end talent acquisition workflow, from job posts to onboarding and feedback. |
 | [Talent Development Strategy Planner](../../executives-and-strategy/productivity/talent-development-strategy-planner.md) | Turns your talent strategy into a working plan: gaps, programs, pipelines, and metrics, all in one place. No fluff, just the work. |
 | [Talent Management Assistant](talent-management-assistant.md) | Manages the full talent lifecycle from sourcing to retention with data-driven insights. |
+| [Time and Attendance Integrator](../../finance/productivity/time-and-attendance-integrator.md) | Manages time and attendance integration, tracking, and reporting for payroll accuracy. |
 | [Training Budget Optimizer](../../education/productivity/training-budget-optimizer.md) | Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators. |
 | [Training Program Advisor](training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |
 | [Virtual Training Coordinator Assistant](../../education/productivity/virtual-training-coordinator-assistant.md) | Manages virtual training setup, content, engagement, and evaluation for training coordinators. |
