@@ -1,6 +1,6 @@
 # Writing & Content templates for Creatives
 
-Plan, write and edit articles, copy and documentation. 55 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 57 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,9 +27,11 @@ Plan, write and edit articles, copy and documentation. 55 Grok Bot templates, 11
 | [Copywriting Support Assistant](../../pr-and-communications/writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
 | [Design System Documentation Assistant](../../product-development/writing-and-content/design-system-documentation-assistant.md) | Turns your design system into clear, current, and consistent documentation your whole team can use. |
 | [Devrel Content](../../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
+| [Director Score Collaborator](director-score-collaborator.md) | Collaborates with directors to develop and refine film scores from ideas to final mix. |
 | [Drafting Content Assistant](../../writers/writing-and-content/drafting-content-assistant.md) | Drafts, refines, and optimizes your written content from research to final polish. |
 | [E-Learning Content Creator](../../education/writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
 | [Email Newsletter Writing Assistant](../../writers/writing-and-content/email-newsletter-writing-assistant.md) | Drafts, personalizes, and optimizes email newsletters from topic to performance analysis. |
+| [Film Script Scoring Analyst](film-script-scoring-analyst.md) | Analyzes film scripts to guide musical scoring with narrative and emotional insights. |
 | [Humanizer](../../writers/writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Interactive Content Ideas Generator](../../writers/writing-and-content/interactive-content-ideas-generator.md) | Generates and designs interactive content ideas for writers and creators. |
 | [Lyric Craft Assistant](lyric-craft-assistant.md) | Craft, refine, and adapt song lyrics with creative AI support. |

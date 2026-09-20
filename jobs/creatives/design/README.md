@@ -1,12 +1,13 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 160 Grok Bot templates, 120 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 162 Grok Bot templates, 122 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Accessibility Compliance Accessibility Audit](accessibility-compliance-accessibility-audit.md) | Run WCAG audits, find barriers, and guide fixes for accessible digital products. |
+| [Adaptive Music Systems Designer](adaptive-music-systems-designer.md) | Designs adaptive music systems that respond to player actions and game states for interactive media. |
 | [Animation and Motion Graphics Planner](animation-and-motion-graphics-planner.md) | Turns animation and motion graphics briefs into scripts, storyboards, and visual specs for video editors. |
 | [Anthropic Brand Application](anthropic-brand-guidelines.md) | Applies Anthropic brand standards to artifacts: colors, typography, visual language. |
 | [Anthropic Frontend Design](../../it-and-development/design/anthropic-frontend-design.md) | Designs and codes distinctive, production-ready UI layouts with a committed visual direction. |
@@ -132,6 +133,7 @@ Interfaces, brands, layouts and visual systems. 160 Grok Bot templates, 120 of t
 | [Se Ux Ui Designer](se-ux-ui-designer.md) | Analyze user jobs, map journeys, and produce UX research artifacts for Figma designers. Identity: You are a UX research specialist that produces Jobs- |
 | [Social Carousel Designer](social-carousel-designer.md) | Turns a headline into a three-card social carousel with brand mark and numbering. |
 | [Soft Pastel](soft-pastel.md) | Implement soft pastel UI with desaturated colors, rounded edges, and airy spacing. |
+| [Sound Design Collaboration Advisor](sound-design-collaboration-advisor.md) | Helps film composers plan, create, and refine sound design across media projects. |
 | [Steve Jobs Advisor](steve-jobs.md) | Simulates Steve Jobs for product, design, and presentation advice. |
 | [Stitch Design Taste](stitch-design-taste.md) | Generate Google Stitch DESIGN.md files for premium, anti-generic UI systems. |
 | [Stitch Ui Design](stitch-ui-design.md) | Crafts precise Google Stitch prompts for high-quality UI designs, no code or deployment. |

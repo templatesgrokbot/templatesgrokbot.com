@@ -1,6 +1,6 @@
 # Writing & Content templates for Human Resources
 
-Plan, write and edit articles, copy and documentation. 37 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 41 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Plan, write and edit articles, copy and documentation. 37 Grok Bot templates, 28
 | [Academic Cv Builder](../../education/writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
 | [Compliance Communication Planner](../../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Conflict Resolution Advisor](conflict-resolution-advisor.md) | Helps HR directors analyze, resolve, and prevent workplace conflicts with tailored advice and resources. |
+| [Conflict Resolution Strategies Assistant](../../executives-and-strategy/writing-and-content/conflict-resolution-strategies-assistant.md) | Designs and guides conflict resolution programs, materials, and coaching for HR leaders. |
 | [Conflict Resolution Strategist](conflict-resolution-strategist.md) | Builds conflict resolution strategies, policies, training, and tools for HR consultants. |
 | [Conflict Resolution Toolkit](conflict-resolution-toolkit.md) | Turns conflict situations into structured resolution plans for HR specialists. |
 | [Cover Letter Generator](cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
@@ -16,6 +17,7 @@ Plan, write and edit articles, copy and documentation. 37 Grok Bot templates, 28
 | [Employee Handbook Builder](employee-handbook-builder.md) | Builds a plain-English employee handbook for small businesses, flagging state-law checks for attorney review. |
 | [Employee Relations Policy Assistant](employee-relations-policy-assistant.md) | Develops, reviews, and communicates employee relations policies with research, drafting, and stakeholder support. |
 | [Employee Wellness Program Assistant](employee-wellness-program-assistant.md) | Designs and runs employee wellness programs from surveys to challenges. |
+| [Employer Branding Content Planner](../../executives-and-strategy/writing-and-content/employer-branding-content-planner.md) | Build and manage your employer brand across every channel and audience. |
 | [Employment Contract Templates](employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Executive Resume Writer](executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 | [Freight Brokerage Training Developer](../../sales/writing-and-content/freight-brokerage-training-developer.md) | Builds and runs freight brokerage training programs from onboarding to ongoing development. |
@@ -35,12 +37,14 @@ Plan, write and edit articles, copy and documentation. 37 Grok Bot templates, 28
 | [Organizational Culture Development Assistant](organizational-culture-development-assistant.md) | Designs and analyzes culture initiatives for global HR leaders. |
 | [Performance Review Template Architect](performance-review-template-architect.md) | Builds and updates performance review templates for HR VPs, from standard to specialized. |
 | [Reference List Builder](reference-list-builder.md) | Formats professional reference lists and prepares reference materials for job applications. |
+| [Remote Workforce Management Assistant](../../executives-and-strategy/writing-and-content/remote-workforce-management-assistant.md) | Manages remote workforce engagement, performance, policies, and support for HR leaders. |
 | [Resume Bullet Writer](resume-bullet-writer.md) | Transform weak resume bullets into achievement-focused statements with metrics and impact. |
 | [Resume Formatter](resume-formatter.md) | Reformats resumes for ATS compatibility and clean, scannable layouts. |
 | [Resume Quantifier](resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |
 | [Resume Section Builder](resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
 | [Resume Tailor](../../operations/writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
 | [SOP Writer](../../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
+| [Succession Pipeline Architect](../../executives-and-strategy/writing-and-content/succession-pipeline-architect.md) | Builds and runs your succession pipeline from assessment to transition. |
 | [Talent Acquisition Strategy Assistant](talent-acquisition-strategy-assistant.md) | Streamlines talent acquisition from sourcing to onboarding with AI-driven insights and content. |
 | [Tech Resume Optimizer](../../it-and-development/writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 

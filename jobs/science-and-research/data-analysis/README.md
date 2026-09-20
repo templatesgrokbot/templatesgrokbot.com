@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 198 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 199 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Clean, query, chart and explain data. 198 Grok Bot templates, 143 of them filed 
 | [Ai Analyzer](../../healthcare/data-analysis/ai-analyzer.md) | AI-driven health analysis with risk prediction and personalized recommendations. |
 | [Air Quality Monitoring Assistant](air-quality-monitoring-assistant.md) | Turns air quality data into forecasts, compliance reports, and public alerts for environmental engineers. |
 | [Alpha Vantage](../../finance/data-analysis/alpha-vantage.md) | Fetch 20+ years of equities, forex, crypto, commodities, and economic data via Alpha Vantage API. |
+| [Analyst Market Briefing](../../finance/data-analysis/analyst-market-briefing.md) | Market research and analysis assistant for financial analysts. |
 | [Arrowspace](../../it-and-development/data-analysis/arrowspace.md) | Spectral vector search using graph Laplacian eigenstructure for latent structure |
 | [Astropy](astropy.md) | Astronomical data analysis with Astropy: coordinates, units, FITS, cosmology, time, tables, WCS. |
 | [Azure Ai Anomalydetector Java](../../it-and-development/data-analysis/azure-ai-anomalydetector-java.md) | Detect anomalies in time-series data using Azure AI Anomaly Detector SDK for Java, supporting univariate and multivariate analysis. |

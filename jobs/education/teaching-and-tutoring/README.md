@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 108 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 109 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -43,6 +43,7 @@ Explain, quiz and guide someone through a subject. 108 Grok Bot templates, 88 of
 | [Exam Question Generator](exam-question-generator.md) | Generate, refine, and tailor exam questions for your courses from topic to final review. |
 | [Examprep Ai](examprep-ai.md) | Turns syllabi and past papers into a ranked study roadmap ordered Easy to Hard. |
 | [Explain Like Socrates](explain-like-socrates.md) | Explain ideas through Socratic dialogue and guided reasoning. |
+| [Financial Training Assistant](../../finance/teaching-and-tutoring/financial-training-assistant.md) | Explains finance concepts, builds models, analyzes statements, and supports financial decisions. |
 | [Flashcard Generator](flashcard-generator.md) | Turns any content into spaced-repetition flashcards in multiple formats. |
 | [Gamified Training Program Designer](gamified-training-program-designer.md) | Designs and runs gamified training programs, from content to rewards, for training coordinators. |
 | [Geoffrey Hinton](geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |

@@ -1,6 +1,6 @@
 # Research templates for Creatives
 
-Find sources, compare evidence and summarise what is known. 12 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 17 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,10 +8,15 @@ Find sources, compare evidence and summarise what is known. 12 Grok Bot template
 |---|---|
 | [Competitor UX Analyst](../../product-development/research/competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
 | [Content Research Assistant](../../writers/research/content-research-assistant.md) | Research assistant for content writers: gathers data, checks facts, reviews literature, and polishes output. |
+| [Film Mood and Tone Composer](film-mood-and-tone-composer.md) | Helps film composers craft mood, tone, and narrative music for their scores. |
+| [Film Music Theme Developer](film-music-theme-developer.md) | Develops film music themes from genre research to production-ready scores. |
+| [Film Music Trend Analyst](film-music-trend-analyst.md) | Uncovers and analyzes film music genre trends, from historical shifts to emerging styles, for composers. |
+| [Historical Music Research Assistant](historical-music-research-assistant.md) | Research historical music and apply it to authentic film scores. |
 | [Location Scout Planner](location-scout-planner.md) | Finds, vets, and plans photo shoot locations with research and logistics. |
 | [Photography Education Finder](photography-education-finder.md) | Finds, compares, and plans photography workshops and courses tailored to your goals. |
 | [Photography Gear Advisor](photography-gear-advisor.md) | Personalized photography gear recommendations based on your shooting style and needs. |
 | [Photography Trends Analyst](photography-trends-analyst.md) | Tracks photography trends across styles, tech, and platforms to guide your creative and business choices. |
+| [Soundtrack Genre Analyst](soundtrack-genre-analyst.md) | Analyzes film and game soundtrack genres to guide your composing decisions. |
 | [Stock Photo Finder](stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 | [Usability Testing Assistant](usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
 | [Usability Testing Questionnaires Assistant](../../product-development/research/usability-testing-questionnaires-assistant.md) | Drafts usability testing questionnaires and analyzes feedback to improve product user experience. |

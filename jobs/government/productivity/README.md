@@ -1,6 +1,6 @@
 # Productivity templates for Government
 
-Plan, prioritise and clear the recurring admin. 43 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 48 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,9 +16,12 @@ Plan, prioritise and clear the recurring admin. 43 Grok Bot templates, 0 of them
 | [Crisis Management Executive Assistant](../../executives-and-strategy/productivity/crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
 | [Crisis Management Planner](../../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
 | [Crisis Management Planning Assistant](../../operations/productivity/crisis-management-planning-assistant.md) | Builds and maintains your crisis management plans, protocols, and training. |
+| [Digital Transformation Strategy Assistant](../../executives-and-strategy/productivity/digital-transformation-strategy-assistant.md) | Guides strategy managers through digital transformation from readiness to rollout. |
 | [Emergency Response Planning Assistant](../../operations/productivity/emergency-response-planning-assistant.md) | Prepares logistics emergency response plans, contacts, drills, and continuity strategies. |
 | [Enterprise Crisis Plan Architect](../../executives-and-strategy/productivity/enterprise-crisis-plan-architect.md) | Builds and maintains a complete crisis management plan for your organization. |
 | [Executive Stakeholder Engagement Planner](../../executives-and-strategy/productivity/executive-stakeholder-engagement-planner.md) | Coordinates stakeholder meetings, communications, and engagement for executive directors. |
+| [Expense Tracking Manager](../../finance/productivity/expense-tracking-manager.md) | Tracks, verifies, and reports expenses with receipts, budgets, and policy checks. |
+| [Future Scenario Builder](../../executives-and-strategy/productivity/future-scenario-builder.md) | Builds and tests future scenarios for strategic planning, from scanning to stakeholder communication. |
 | [GM Stakeholder Comms Orchestrator](../../executives-and-strategy/productivity/gm-stakeholder-comms-orchestrator.md) | Coordinates all stakeholder communication for a General Manager, from updates to crisis response. |
 | [Hiring Scorecard Builder](../../human-resources/productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
 | [Learning Culture Builder](../../education/productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
@@ -39,9 +42,11 @@ Plan, prioritise and clear the recurring admin. 43 Grok Bot templates, 0 of them
 | [Risk Analysis and Management Assistant](../../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Stakeholder Communication Manager](../../management/productivity/stakeholder-communication-manager.md) | Manages all stakeholder communication for project managers, from analysis to audits. |
 | [Stakeholder Communication Planner](../../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
+| [Strategic Goal Setting Assistant](../../executives-and-strategy/productivity/strategic-goal-setting-assistant.md) | Turns your vision into aligned, measurable goals with plans, KPIs, and reviews. |
 | [Strategic IT Planning Assistant](../../it-and-development/productivity/strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
 | [Strategic Planning Guide](../../executives-and-strategy/productivity/strategic-planning-guide.md) | Guides executive directors through the full strategic planning cycle, from vision to review. |
 | [Strategic Roadmap Planner](../../executives-and-strategy/productivity/strategic-roadmap-planner.md) | Turns market data, stakeholder input, and goals into a prioritised, risk-aware strategic roadmap. |
+| [Strategy Stakeholder Messenger](../../executives-and-strategy/productivity/strategy-stakeholder-messenger.md) | Manages all stakeholder communication for strategy managers, from updates to crisis messaging. |
 | [Succession Plan Builder for HR Leaders](../../human-resources/productivity/succession-plan-builder-for-hr-leaders.md) | Turns HR data into a complete succession plan with candidates, development paths, and risk checks. |
 | [SWOT Strategy Assistant](../../executives-and-strategy/productivity/swot-strategy-assistant.md) | Runs your organization's SWOT analysis from data collection to action plans and monitoring. |
 | [Training Program Advisor](../../human-resources/productivity/training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |

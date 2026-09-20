@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **626 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **685 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,22 +11,22 @@ Leaders making decisions from the whole picture. **626 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 210 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 126 |
-| [Research](research/README.md) | 95 |
-| [Productivity](productivity/README.md) | 83 |
+| [Data Analysis](data-analysis/README.md) | 241 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 129 |
+| [Research](research/README.md) | 101 |
+| [Productivity](productivity/README.md) | 91 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 30 |
-| [Security & Compliance](security-and-compliance/README.md) | 24 |
+| [Security & Compliance](security-and-compliance/README.md) | 28 |
+| [Writing & Content](writing-and-content/README.md) | 19 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 17 |
-| [Writing & Content](writing-and-content/README.md) | 14 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Social Media](social-media/README.md) | 5 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 5 |
 | [Design](design/README.md) | 4 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
 | [Office Tools](office-tools/README.md) | 3 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 2 |
 | [Prompt Engineering](prompt-engineering/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Code](generative-code/README.md) | 1 |
 | [Support & Community](support-and-community/README.md) | 1 |
 
@@ -43,7 +43,7 @@ Leaders making decisions from the whole picture. **626 ready-made Grok Bot templ
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 
-[All 210 Data Analysis templates →](data-analysis/README.md)
+[All 241 Data Analysis templates →](data-analysis/README.md)
 
 ## Marketing & Growth
 
@@ -58,7 +58,7 @@ Leaders making decisions from the whole picture. **626 ready-made Grok Bot templ
 | [Brand Voice Guidelines Generator](../marketing/marketing-and-growth/brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Marketing Psychology](../marketing/marketing-and-growth/marketing-psychology.md) | Apply behavioral science to marketing decisions with a prioritization scoring system. |
 
-[All 126 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 129 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Research
 
@@ -73,7 +73,7 @@ Leaders making decisions from the whole picture. **626 ready-made Grok Bot templ
 | [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 
-[All 95 Research templates →](research/README.md)
+[All 101 Research templates →](research/README.md)
 
 ## Productivity
 
@@ -88,7 +88,7 @@ Leaders making decisions from the whole picture. **626 ready-made Grok Bot templ
 | [CTO IT Project Navigator](productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Crisis Management Assistant](productivity/crisis-management-assistant.md) | Crisis management assistant for Managing Directors, covering assessment, communication, and recovery. |
 
-[All 83 Productivity templates →](productivity/README.md)
+[All 91 Productivity templates →](productivity/README.md)
 
 ## Sales & Negotiation
 
@@ -110,15 +110,30 @@ Leaders making decisions from the whole picture. **626 ready-made Grok Bot templ
 | Template | What it does |
 |---|---|
 | [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
+| [Finance Audit Readiness Tracker](security-and-compliance/finance-audit-readiness-tracker.md) | Prepares your company for audits by organizing documents, analyzing data, and tracking readiness. |
 | [EVP Cyber Risk Briefing](security-and-compliance/evp-cyber-risk-briefing.md) | Cybersecurity risk assessment assistant for an EVP of IT, covering scanning, policy, compliance, and reporting. |
 | [Data Governance Strategist](security-and-compliance/data-governance-strategist.md) | Data governance assistant for CDOs: classify, protect, and manage data assets. |
 | [Business Risk Management Assistant](security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Data Privacy Compliance Guide](security-and-compliance/data-privacy-compliance-guide.md) | Guides CTOs through data privacy compliance, from policy review to breach response and audits. |
 | [Legal Compliance Assistant](security-and-compliance/legal-compliance-assistant.md) | Keeps your company compliant by handling policy, research, training, and reporting. |
 | [Cybersecurity Strategy Developer](security-and-compliance/cybersecurity-strategy-developer.md) | Develops and manages your organization's cybersecurity strategy from risk assessment to incident response. |
-| [Cybersecurity Assessment Guide](security-and-compliance/cybersecurity-assessment-guide.md) | Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response. |
 
-[All 24 Security & Compliance templates →](security-and-compliance/README.md)
+[All 28 Security & Compliance templates →](security-and-compliance/README.md)
+
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Executive Decision Memo](writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
+| [Executive Speechwriter](writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
+| [Conflict Resolution Strategies Assistant](writing-and-content/conflict-resolution-strategies-assistant.md) | Designs and guides conflict resolution programs, materials, and coaching for HR leaders. |
+| [Strategy VP Comms Studio](writing-and-content/strategy-vp-comms-studio.md) | Plans and executes stakeholder communication for strategy VPs. |
+| [Stakeholder Communication Director](writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
+| [Business Plan Builder](writing-and-content/business-plan-builder.md) | Builds complete business plans from market research to executive summary. |
+| [Executive Communication Assistant](writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
+| [Executive Resume Writer](../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
+
+[All 19 Writing & Content templates →](writing-and-content/README.md)
 
 ## Cloud & DevOps
 
@@ -134,21 +149,6 @@ Leaders making decisions from the whole picture. **626 ready-made Grok Bot templ
 | [Multi Cloud Architecture](../it-and-development/cloud-and-devops/multi-cloud-architecture.md) | Decision framework for architecting across AWS, Azure, and GCP. |
 
 [All 17 Cloud & DevOps templates →](cloud-and-devops/README.md)
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Executive Decision Memo](writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
-| [Executive Speechwriter](writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
-| [Strategy VP Comms Studio](writing-and-content/strategy-vp-comms-studio.md) | Plans and executes stakeholder communication for strategy VPs. |
-| [Stakeholder Communication Director](writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
-| [Business Plan Builder](writing-and-content/business-plan-builder.md) | Builds complete business plans from market research to executive summary. |
-| [Executive Communication Assistant](writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
-| [Executive Resume Writer](../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
-| [IT Strategy Development Assistant](writing-and-content/it-strategy-development-assistant.md) | Develops and refines IT strategy from market analysis to implementation roadmaps. |
-
-[All 14 Writing & Content templates →](writing-and-content/README.md)
 
 ## Self-Improvement
 
@@ -170,6 +170,16 @@ Leaders making decisions from the whole picture. **626 ready-made Grok Bot templ
 | [EVP Social Media Command Center](social-media/evp-social-media-command-center.md) | Plans, creates, and optimizes your social media strategy from calendar to crisis. |
 | [Social Media Strategy Architect](social-media/social-media-strategy-architect.md) | Builds and refines your social media strategy from audit to reporting. |
 
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Training Program Architect](teaching-and-tutoring/training-program-architect.md) | Designs, builds, and evaluates employee training programs from needs analysis to stakeholder communication. |
+| [Corporate Training Program Architect](teaching-and-tutoring/corporate-training-program-architect.md) | Designs, delivers, and evaluates corporate training programs end-to-end. |
+| [AI ML Implementation Guide](teaching-and-tutoring/ai-ml-implementation-guide.md) | Guides CDOs through AI/ML project lifecycle from data prep to deployment and ethics. |
+| [BD Leader Training Architect](teaching-and-tutoring/bd-leader-training-architect.md) | Designs, implements, and improves employee training programs for business development leaders. |
+| [Sales Training Module Architect](teaching-and-tutoring/sales-training-module-architect.md) | Builds and maintains sales training modules that improve team performance. |
+
 ## Design
 
 | Template | What it does |
@@ -179,15 +189,6 @@ Leaders making decisions from the whole picture. **626 ready-made Grok Bot templ
 | [Steve Jobs Advisor](../creatives/design/steve-jobs.md) | Simulates Steve Jobs for product, design, and presentation advice. |
 | [Brand Guidelines Architect](design/brand-guidelines-architect.md) | Builds and maintains your brand guidelines across all marketing materials and channels. |
 
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Corporate Training Program Architect](teaching-and-tutoring/corporate-training-program-architect.md) | Designs, delivers, and evaluates corporate training programs end-to-end. |
-| [AI ML Implementation Guide](teaching-and-tutoring/ai-ml-implementation-guide.md) | Guides CDOs through AI/ML project lifecycle from data prep to deployment and ethics. |
-| [BD Leader Training Architect](teaching-and-tutoring/bd-leader-training-architect.md) | Designs, implements, and improves employee training programs for business development leaders. |
-| [Sales Training Module Architect](teaching-and-tutoring/sales-training-module-architect.md) | Builds and maintains sales training modules that improve team performance. |
-
 ## Office Tools
 
 | Template | What it does |
@@ -195,6 +196,13 @@ Leaders making decisions from the whole picture. **626 ready-made Grok Bot templ
 | [BD Executive Presentation Architect](office-tools/bd-executive-presentation-architect.md) | Prepares polished, audience-tailored presentations for business development leaders. |
 | [Executive Presentation Prep Assistant](office-tools/executive-presentation-prep-assistant.md) | Prepares executive presentations from research to rehearsal with AI assistance. |
 | [Investor Pitch Deck Builder](office-tools/investor-pitch-deck-builder.md) | Turns your startup facts into a 10-page investor-ready pitch deck. |
+
+## Generative AI and LLM
+
+| Template | What it does |
+|---|---|
+| [Simple App Idea Generator](../product-development/generative-ai-and-llm/simple-app-idea-generator.md) | Brainstorm app ideas through fun, interactive questioning until ready for specification. |
+| [HR Digital Transformation Planner](generative-ai-and-llm/hr-digital-transformation-planner.md) | Digitizes HR operations from hiring to compliance with AI-assisted workflows. |
 
 ## Prompt Engineering
 
@@ -208,12 +216,6 @@ Leaders making decisions from the whole picture. **626 ready-made Grok Bot templ
 | Template | What it does |
 |---|---|
 | [Senior Architect](../it-and-development/coding/senior-architect.md) | Designs scalable systems with diagrams, dependency analysis, and tech stack trade-offs. |
-
-## Generative AI and LLM
-
-| Template | What it does |
-|---|---|
-| [Simple App Idea Generator](../product-development/generative-ai-and-llm/simple-app-idea-generator.md) | Brainstorm app ideas through fun, interactive questioning until ready for specification. |
 
 ## Generative Code
 

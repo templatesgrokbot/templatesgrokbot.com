@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **474 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **489 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,21 +11,21 @@ Designers, artists and content creators. **474 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 160 |
-| [Writing & Content](writing-and-content/README.md) | 55 |
+| [Design](design/README.md) | 162 |
+| [Writing & Content](writing-and-content/README.md) | 57 |
 | [Generative Art](generative-art/README.md) | 46 |
 | [Generative Code](generative-code/README.md) | 45 |
 | [Coding](coding/README.md) | 34 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 25 |
 | [Social Media](social-media/README.md) | 20 |
 | [Video Editing](video-editing/README.md) | 20 |
-| [Research](research/README.md) | 12 |
+| [Research](research/README.md) | 17 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 12 |
 | [Generative Video](generative-video/README.md) | 9 |
 | [Data Analysis](data-analysis/README.md) | 8 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
 | [Office Tools](office-tools/README.md) | 7 |
+| [Productivity](productivity/README.md) | 6 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
-| [Productivity](productivity/README.md) | 4 |
 | [Text-To-Speech](text-to-speech/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
 | [Text-To-Video](text-to-video/README.md) | 3 |
@@ -48,7 +48,7 @@ Designers, artists and content creators. **474 ready-made Grok Bot templates** f
 | [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Gradient Design](design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 
-[All 160 Design templates →](design/README.md)
+[All 162 Design templates →](design/README.md)
 
 ## Writing & Content
 
@@ -63,7 +63,7 @@ Designers, artists and content creators. **474 ready-made Grok Bot templates** f
 | [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Content Creation](../marketing/writing-and-content/marketing-content-creation.md) | Draft channel-specific marketing content that is SEO-aware and free of buzzwords. |
 
-[All 55 Writing & Content templates →](writing-and-content/README.md)
+[All 57 Writing & Content templates →](writing-and-content/README.md)
 
 ## Generative Art
 
@@ -163,12 +163,27 @@ Designers, artists and content creators. **474 ready-made Grok Bot templates** f
 | [Photography Gear Advisor](research/photography-gear-advisor.md) | Personalized photography gear recommendations based on your shooting style and needs. |
 | [Competitor UX Analyst](../product-development/research/competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
 | [Location Scout Planner](research/location-scout-planner.md) | Finds, vets, and plans photo shoot locations with research and logistics. |
+| [Historical Music Research Assistant](research/historical-music-research-assistant.md) | Research historical music and apply it to authentic film scores. |
+| [Film Music Theme Developer](research/film-music-theme-developer.md) | Develops film music themes from genre research to production-ready scores. |
+| [Film Music Trend Analyst](research/film-music-trend-analyst.md) | Uncovers and analyzes film music genre trends, from historical shifts to emerging styles, for composers. |
 | [Usability Testing Questionnaires Assistant](../product-development/research/usability-testing-questionnaires-assistant.md) | Drafts usability testing questionnaires and analyzes feedback to improve product user experience. |
-| [Usability Testing Assistant](research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
-| [Web Media Getter](research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
-| [Ux Researcher Designer](../product-development/research/ux-researcher-designer.md) | Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships. |
 
-[All 12 Research templates →](research/README.md)
+[All 17 Research templates →](research/README.md)
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Film Score Orchestration Assistant](teaching-and-tutoring/film-score-orchestration-assistant.md) | Helps film composers orchestrate and arrange music for scenes, moods, and genres. |
+| [Digital Scoring Guide](teaching-and-tutoring/digital-scoring-guide.md) | Guides film composers through every stage of digital music production, from sound design to mastering. |
+| [Film Score Emotional Analyst](teaching-and-tutoring/film-score-emotional-analyst.md) | Analyzes film music's emotional impact to help composers craft resonant scores. |
+| [Photo Editing Guidance Assistant](teaching-and-tutoring/photo-editing-guidance-assistant.md) | Guides photographers through editing tasks, from color correction to creative effects. |
+| [Photography Techniques Advisor](teaching-and-tutoring/photography-techniques-advisor.md) | Get tailored photography guidance for composition, lighting, settings, and post-processing. |
+| [Photography Post-Processing Guide](teaching-and-tutoring/photography-post-processing-guide.md) | Guides photographers through post-processing techniques, from color correction to composite imaging. |
+| [Music Copyright Navigator](teaching-and-tutoring/music-copyright-navigator.md) | Guides vocal artists and songwriters through music copyright law, licensing, and royalties. |
+| [VFX Concept Advisor](teaching-and-tutoring/vfx-concept-advisor.md) | Guides video editors through VFX techniques, from keying to CGI integration. |
+
+[All 12 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Generative Video
 
@@ -198,19 +213,6 @@ Designers, artists and content creators. **474 ready-made Grok Bot templates** f
 | [Feedback Compilation Assistant](data-analysis/feedback-compilation-assistant.md) | Turns scattered feedback into organized, actionable reports and highlight videos. |
 | [Apify Trend Analysis](../marketing/data-analysis/apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
 
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Photo Editing Guidance Assistant](teaching-and-tutoring/photo-editing-guidance-assistant.md) | Guides photographers through editing tasks, from color correction to creative effects. |
-| [Photography Techniques Advisor](teaching-and-tutoring/photography-techniques-advisor.md) | Get tailored photography guidance for composition, lighting, settings, and post-processing. |
-| [Photography Post-Processing Guide](teaching-and-tutoring/photography-post-processing-guide.md) | Guides photographers through post-processing techniques, from color correction to composite imaging. |
-| [Music Copyright Navigator](teaching-and-tutoring/music-copyright-navigator.md) | Guides vocal artists and songwriters through music copyright law, licensing, and royalties. |
-| [VFX Concept Advisor](teaching-and-tutoring/vfx-concept-advisor.md) | Guides video editors through VFX techniques, from keying to CGI integration. |
-| [Melody Ideation Assistant](teaching-and-tutoring/melody-ideation-assistant.md) | Generates and refines melody ideas for vocal artists and songwriters. |
-| [Vocal Studio Setup Guide](teaching-and-tutoring/vocal-studio-setup-guide.md) | Guides vocal artists through gear, software, and recording techniques for better home studio results. |
-| [Photography Legal Advisor](teaching-and-tutoring/photography-legal-advisor.md) | Guides photographers through legal questions on copyright, releases, contracts, and more. |
-
 ## Office Tools
 
 | Template | What it does |
@@ -223,6 +225,17 @@ Designers, artists and content creators. **474 ready-made Grok Bot templates** f
 | [Deck Export Repair](office-tools/deck-export-repair.md) | Repairs broken AI-generated slide decks and PDFs, restoring clean text, fonts, and structure. |
 | [Manifesto Deck Builder](office-tools/manifesto-deck-builder.md) | Turns your outline into a bold color-block manifesto deck, word-for-word unchanged. |
 
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Notion Template Business](productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
+| [Royalty and Rights Manager](productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
+| [Live Recording Supervisor](productivity/live-recording-supervisor.md) | Supervises live recording sessions for film scores, from setup to post-production. |
+| [Music Production Budget Planner](productivity/music-production-budget-planner.md) | Build and manage a realistic music production budget for film scoring projects. |
+| [Music Collaboration Coordinator](productivity/music-collaboration-coordinator.md) | Finds collaborators, plans projects, and prepares releases for vocal artists and songwriters. |
+| [Event Coverage Photographer Planner](productivity/event-coverage-photographer-planner.md) | Plans event photo coverage from shot lists to delivery, with backups and client updates. |
+
 ## Self-Improvement
 
 | Template | What it does |
@@ -232,15 +245,6 @@ Designers, artists and content creators. **474 ready-made Grok Bot templates** f
 | [Creative Block Companion for Vocal Artists](self-improvement/creative-block-companion-for-vocal-artists.md) | Creative partner for vocal artists and singer-songwriters to spark ideas, refine songs, and grow their craft. |
 | [Vocal Warm-Up Companion](self-improvement/vocal-warm-up-companion.md) | Creates and manages personalized vocal warm-up routines with feedback and progress tracking for singers. |
 | [Performance Review Assistant](self-improvement/performance-review-assistant.md) | Turns performance reviews into growth plans for vocal artists and singer-songwriters. |
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Notion Template Business](productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
-| [Royalty and Rights Manager](productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
-| [Music Collaboration Coordinator](productivity/music-collaboration-coordinator.md) | Finds collaborators, plans projects, and prepares releases for vocal artists and songwriters. |
-| [Event Coverage Photographer Planner](productivity/event-coverage-photographer-planner.md) | Plans event photo coverage from shot lists to delivery, with backups and client updates. |
 
 ## Text-To-Speech
 

@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Human Resources
 
-Explain, quiz and guide someone through a subject. 35 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 36 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -35,6 +35,7 @@ Explain, quiz and guide someone through a subject. 35 Grok Bot templates, 12 of 
 | [Tech Upskilling Program Coordinator](tech-upskilling-program-coordinator.md) | Designs, runs, and evaluates tech upskilling programs for your organization. |
 | [Technology Adoption Training Planner](../../education/teaching-and-tutoring/technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
 | [Training Accessibility Assistant](../../education/teaching-and-tutoring/training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
+| [Training Program Architect](../../executives-and-strategy/teaching-and-tutoring/training-program-architect.md) | Designs, builds, and evaluates employee training programs from needs analysis to stakeholder communication. |
 | [Training Program Coordinator](training-program-coordinator.md) | Designs, delivers, and evaluates training programs from needs analysis to career pathing. |
 | [Training Program Designer](../../management/teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
 | [Training Program Developer](../../sales/teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |

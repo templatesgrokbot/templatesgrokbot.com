@@ -1,6 +1,6 @@
 # Productivity templates for Hospitality and Events
 
-Plan, prioritise and clear the recurring admin. 37 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 38 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, prioritise and clear the recurring admin. 37 Grok Bot templates, 6 of them
 | [Event Planning and Management Assistant](../../pr-and-communications/productivity/event-planning-and-management-assistant.md) | Plans, promotes, and runs your events from venue to post-event report. |
 | [Event Staffing Ordering](../../operations/productivity/event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
 | [Executive Event Orchestrator](../../executives-and-strategy/productivity/executive-event-orchestrator.md) | Plans, promotes, and runs events from budget to post-event follow-up. |
+| [Expense Tracking Manager](../../finance/productivity/expense-tracking-manager.md) | Tracks, verifies, and reports expenses with receipts, budgets, and policy checks. |
 | [Facility Operations Manager](../../executives-and-strategy/productivity/facility-operations-manager.md) | Manage facility maintenance, vendors, space, energy, safety, and projects from one chat assistant. |
 | [Facility Operations Planner](../../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
 | [Facility Ops Chat Manager](../../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |

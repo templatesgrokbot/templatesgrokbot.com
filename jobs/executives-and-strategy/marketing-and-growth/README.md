@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Executives and Strategy
 
-Campaigns, ads, conversion and launch plans. 126 Grok Bot templates, 94 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 129 Grok Bot templates, 97 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,7 @@ Campaigns, ads, conversion and launch plans. 126 Grok Bot templates, 94 of them 
 | [Brand Strategy Architect](brand-strategy-architect.md) | Builds and refines your brand strategy from research to evolution, with every decision grounded in data. |
 | [Brand Strategy Developer](brand-strategy-developer.md) | Develops and refines your brand strategy from research to reputation. |
 | [Brand Strategy Director](brand-strategy-director.md) | Brand and marketing strategy assistant for executive directors. |
+| [Brand Strategy Formulation Assistant](brand-strategy-formulation-assistant.md) | Guides brand strategy formulation from market research to performance measurement. |
 | [Brand Voice Guidelines Generator](../../marketing/marketing-and-growth/brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Business Model Innovation Strategist](business-model-innovation-strategist.md) | Guides innovation strategists through business model innovation from research to implementation. |
 | [Campaign Automation Command Center](campaign-automation-command-center.md) | Automates your marketing campaigns, personalization, and analysis across channels. |
@@ -118,6 +119,7 @@ Campaigns, ads, conversion and launch plans. 126 Grok Bot templates, 94 of them 
 | [Search Console Analysis: Find Quick Wins](../../marketing/marketing-and-growth/search-console-analyse.md) | Finds quick SEO wins in your Google Search Console export with concrete URLs and fixes. |
 | [Segment Growth Architect](segment-growth-architect.md) | Turns customer data into actionable market segments and growth strategies for business development. |
 | [Segment Marketing Architect](segment-marketing-architect.md) | Turns customer data into segments, profiles, and targeted marketing strategies. |
+| [Segment Persona Builder for Strategy Leads](segment-persona-builder-for-strategy-leads.md) | Turns customer data into segments, personas, and targeted strategies for strategy managers. |
 | [Segment Persona Campaign Builder](segment-persona-campaign-builder.md) | Turns customer data into segments, personas, and targeted marketing plans. |
 | [SEO and Visibility Planner](seo-and-visibility-planner.md) | Plans and runs your SEO and online visibility work from research to reporting. |
 | [Seo Forensic Incident Response](../../marketing/marketing-and-growth/seo-forensic-incident-response.md) | Investigate sudden organic traffic drops with forensic triage, root-cause analysis, and a recovery plan. |
@@ -128,6 +130,7 @@ Campaigns, ads, conversion and launch plans. 126 Grok Bot templates, 94 of them 
 | [SEO Visibility Planner](seo-visibility-planner.md) | Turns your SEO goals into keyword lists, audits, and tracking plans for the marketing team. |
 | [Startup Business Analyst Business Case](startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
 | [SWOT Analysis Guide](../../sales/marketing-and-growth/swot-analysis-guide.md) | Guides business development managers through complete SWOT analyses with data-driven insights. |
+| [Talent Acquisition Strategist](talent-acquisition-strategist.md) | Streamlines talent acquisition from sourcing to onboarding with AI-driven insights and personalized engagement. |
 | [Talent Acquisition Strategy Advisor](talent-acquisition-strategy-advisor.md) | Talent acquisition strategy support for managing directors, from market analysis to hiring analytics. |
 | [Trust Calibrator](../../marketing/marketing-and-growth/trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
 | [Video Strategy Retargeting Builder](video-strategy-retargeting-builder.md) | Builds and runs your video marketing strategy from research to retargeting. |

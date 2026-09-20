@@ -1,6 +1,6 @@
 # Productivity templates for Executives and Strategy
 
-Plan, prioritise and clear the recurring admin. 83 Grok Bot templates, 59 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 91 Grok Bot templates, 67 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,7 +26,10 @@ Plan, prioritise and clear the recurring admin. 83 Grok Bot templates, 59 of the
 | [CSR Strategy Builder](csr-strategy-builder.md) | Builds and runs your CSR strategy from stakeholder analysis to reporting. |
 | [CTO IT Project Navigator](cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Digital Transformation Roadmap Planner](../../it-and-development/productivity/digital-transformation-roadmap-planner.md) | Plans and guides your company's digital transformation from assessment to execution. |
+| [Digital Transformation Strategy Assistant](digital-transformation-strategy-assistant.md) | Guides strategy managers through digital transformation from readiness to rollout. |
 | [Digital Transformation Strategy Planner](digital-transformation-strategy-planner.md) | Guides digital transformation strategy from research to execution for VPs. |
+| [Diversity and Inclusion Program Planner](diversity-and-inclusion-program-planner.md) | Plans and runs your diversity and inclusion initiatives, from training to metrics. |
+| [Employee Well-Being Programs Assistant](employee-well-being-programs-assistant.md) | Plans, promotes, and supports employee well-being initiatives for HR leaders. |
 | [Enterprise Crisis Plan Architect](enterprise-crisis-plan-architect.md) | Builds and maintains a complete crisis management plan for your organization. |
 | [EVP Strategy Navigator](evp-strategy-navigator.md) | Facilitates strategic planning from SWOT to KPIs, turning data into decisions. |
 | [Executive Crisis Blueprint Builder](executive-crisis-blueprint-builder.md) | Crisis management planning assistant for executives, from risk assessment to post-crisis review. |
@@ -36,12 +39,14 @@ Plan, prioritise and clear the recurring admin. 83 Grok Bot templates, 59 of the
 | [Executive Stakeholder Engagement Planner](executive-stakeholder-engagement-planner.md) | Coordinates stakeholder meetings, communications, and engagement for executive directors. |
 | [Facility Operations Manager](facility-operations-manager.md) | Manage facility maintenance, vendors, space, energy, safety, and projects from one chat assistant. |
 | [Find Complementary Founders](find-complementary-founders.md) | Match founders by evidence, not claims — publish only your own owner's profile. |
+| [Future Scenario Builder](future-scenario-builder.md) | Builds and tests future scenarios for strategic planning, from scanning to stakeholder communication. |
 | [Game Changing Features](game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
 | [GM Collaboration Planner](gm-collaboration-planner.md) | Helps general managers plan, run, and improve team collaboration across meetings, projects, and conflict. |
 | [GM Crisis Response Kit](gm-crisis-response-kit.md) | Crisis management assistant for general managers: plans, communicates, and evaluates. |
 | [GM Stakeholder Comms Orchestrator](gm-stakeholder-comms-orchestrator.md) | Coordinates all stakeholder communication for a General Manager, from updates to crisis response. |
 | [Google Calendar Automation](../../management/productivity/google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
 | [HR and Recruitment Operations Assistant](hr-and-recruitment-operations-assistant.md) | Streamlines HR and recruitment workflows for senior executives, from job posts to analytics. |
+| [HR Crisis Management Planner](hr-crisis-management-planner.md) | Plans and guides HR crisis response, from communication to recovery. |
 | [Idea Autopsy](idea-autopsy.md) | Autopsy a business idea before you build it: kill-list check, five hard filters, a free-AI one-prompt test, live ad-market verification, and a verdict |
 | [Idea Refine](../../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
 | [Ideation Facilitation Assistant](ideation-facilitation-assistant.md) | Runs your full ideation cycle, from prompts to impact assessment, and hands back organized, prioritized results. |
@@ -53,6 +58,7 @@ Plan, prioritise and clear the recurring admin. 83 Grok Bot templates, 59 of the
 | [Innovation Pipeline Strategist](innovation-pipeline-strategist.md) | Turns your innovation pipeline into a prioritized, de-risked, and tracked portfolio of concepts and projects. |
 | [Innovation Risk Assessment Assistant](innovation-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates innovation risks with structured reports and decision support. |
 | [Innovation Strategy Advisor](innovation-strategy-advisor.md) | Turns market data and employee ideas into a prioritized, de-risked innovation roadmap for your company. |
+| [Innovation Strategy Pipeline Builder](innovation-strategy-pipeline-builder.md) | Turns market data and ideas into a vetted, prioritized innovation pipeline for your strategy team. |
 | [Innovation Workshop Facilitator](innovation-workshop-facilitator.md) | Runs your innovation workshops end-to-end, from ideation to roadmapping. |
 | [IT Strategy Formulation Assistant](../../it-and-development/productivity/it-strategy-formulation-assistant.md) | Turns IT landscape data into a strategic plan for a Vice President of IT, with approvals before any action. |
 | [IT Training Program Planner](it-training-program-planner.md) | Designs and manages IT staff training, from needs assessment to certification prep. |
@@ -72,11 +78,13 @@ Plan, prioritise and clear the recurring admin. 83 Grok Bot templates, 59 of the
 | [Project Management Efficiency Assistant](../../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Recruitment Strategy Assistant](recruitment-strategy-assistant.md) | Turns your hiring process into a structured, AI-assisted recruitment workflow. |
 | [Strategic Event Planner](strategic-event-planner.md) | Plans events end-to-end for a Chief Strategy Officer, from venue to feedback. |
+| [Strategic Goal Setting Assistant](strategic-goal-setting-assistant.md) | Turns your vision into aligned, measurable goals with plans, KPIs, and reviews. |
 | [Strategic IT Planning Assistant](../../it-and-development/productivity/strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
 | [Strategic Planning Assistant](../../management/productivity/strategic-planning-assistant.md) | Turns market data and goals into a full strategic plan with risks, actions, and reviews. |
 | [Strategic Planning Facilitator](../../sales/productivity/strategic-planning-facilitator.md) | Facilitates strategic planning for CSOs from goal setting to review. |
 | [Strategic Planning Guide](strategic-planning-guide.md) | Guides executive directors through the full strategic planning cycle, from vision to review. |
 | [Strategic Roadmap Planner](strategic-roadmap-planner.md) | Turns market data, stakeholder input, and goals into a prioritised, risk-aware strategic roadmap. |
+| [Strategy Stakeholder Messenger](strategy-stakeholder-messenger.md) | Manages all stakeholder communication for strategy managers, from updates to crisis messaging. |
 | [Sustainability Initiatives Planner](sustainability-initiatives-planner.md) | Plans and drives your company's sustainability initiatives from research to reporting. |
 | [Sustainability Roadmap Builder](sustainability-roadmap-builder.md) | Plans and tracks your organization's sustainability initiatives across energy, waste, water, and more. |
 | [Sustainability Strategy Planner](../../operations/productivity/sustainability-strategy-planner.md) | Turns your operations data into a complete sustainability strategy, from trends to action plans. |

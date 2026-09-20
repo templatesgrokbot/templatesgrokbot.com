@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 172 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 174 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -50,6 +50,7 @@ Plan, prioritise and clear the recurring admin. 172 Grok Bot templates, 61 of th
 | [Decision Navigator](decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
 | [Diary](../../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Digital Transformation Initiative Assistant](../../it-and-development/productivity/digital-transformation-initiative-assistant.md) | Steers digital transformation initiatives from strategy to execution with data-driven insights and hands-on support. |
+| [Digital Transformation Strategy Assistant](../../executives-and-strategy/productivity/digital-transformation-strategy-assistant.md) | Guides strategy managers through digital transformation from readiness to rollout. |
 | [Doordash Group Orders](../../operations/productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
 | [Ecosystem Restoration Planner](../../science-and-research/productivity/ecosystem-restoration-planner.md) | Plans ecosystem restoration projects from data gathering to long-term management. |
 | [Editorial Calendar Management Assistant](../../pr-and-communications/productivity/editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |
@@ -154,6 +155,7 @@ Plan, prioritise and clear the recurring admin. 172 Grok Bot templates, 61 of th
 | [Stakeholder Communication Planner](stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
 | [Stakeholder Engagement Planner](stakeholder-engagement-planner.md) | Plans and runs stakeholder engagement for management consultants. |
 | [Strategic Planning Assistant](strategic-planning-assistant.md) | Turns market data and goals into a full strategic plan with risks, actions, and reviews. |
+| [Strategy Stakeholder Messenger](../../executives-and-strategy/productivity/strategy-stakeholder-messenger.md) | Manages all stakeholder communication for strategy managers, from updates to crisis messaging. |
 | [Supply Chain Sustainability Planner](../../operations/productivity/supply-chain-sustainability-planner.md) | Helps supply chain managers embed sustainability across operations, from supplier audits to green logistics. |
 | [Supply Chain Technology Integration Planner](../../operations/productivity/supply-chain-technology-integration-planner.md) | Plans and executes technology integration across your supply chain. |
 | [Sustainability Roadmap Builder](../../executives-and-strategy/productivity/sustainability-roadmap-builder.md) | Plans and tracks your organization's sustainability initiatives across energy, waste, water, and more. |

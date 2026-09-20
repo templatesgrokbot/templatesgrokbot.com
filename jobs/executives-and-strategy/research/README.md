@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 95 Grok Bot templates, 56 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 101 Grok Bot templates, 62 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,9 +12,11 @@ Find sources, compare evidence and summarise what is known. 95 Grok Bot template
 | [Andruia AI Consultant](andruia-ai-consultant.md) | Diagnoses AI projects and outlines the technical roadmap. |
 | [Axiom](axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
 | [Blockchain Integration Strategist](blockchain-integration-strategist.md) | Plans and executes blockchain integration for your organization, from readiness to rollout. |
+| [Boardroom Sustainability Strategist](boardroom-sustainability-strategist.md) | Turns sustainability strategy into researched plans, goals, and reports for Directors of Strategy. |
 | [Business Development Insight Compass](business-development-insight-compass.md) | Analyzes markets, competitors, and customers to guide business development decisions. |
 | [Business Model Validation Assistant](business-model-validation-assistant.md) | Validates your business model with research, analysis, and iteration support. |
 | [CIO IT Strategy Advisor](cio-it-strategy-advisor.md) | Develops and guides your IT strategy from assessment to execution. |
+| [Compensation Plan Architect](compensation-plan-architect.md) | Designs competitive, fair compensation plans and communicates them clearly to employees. |
 | [Competitive Analyst](../../marketing/research/competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
 | [Competitive Brief](../../marketing/research/marketing-competitive-brief.md) | Compare five competitors on messaging, visuals, pricing signals, and open market niches. |
 | [Competitive Intelligence Analyst](competitive-intelligence-analyst.md) | Monitors competitors and market trends to produce structured intelligence reports. |
@@ -32,12 +34,14 @@ Find sources, compare evidence and summarise what is known. 95 Grok Bot template
 | [Crossframe Public](../../government/research/crossframe-public.md) | Analyze public issues, platform governance, and institutional compliance with evidence boundaries. |
 | [Crossframe Structural Diagnosis](crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
 | [CSO Competitor Intel Briefs](../../sales/research/cso-competitor-intel-briefs.md) | Turns competitor data into strategic sales intelligence for CSOs. |
+| [CSR Strategy Architect](csr-strategy-architect.md) | Develops and manages your sustainability and CSR strategy from research to reporting. |
 | [CTO Tech Trend Roadmapper](cto-tech-trend-roadmapper.md) | Scans tech trends, assesses impact and risk, and builds roadmaps for CTOs. |
 | [Customer Research](../../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Data Strategy Development Assistant](data-strategy-development-assistant.md) | Builds and refines your organization's data strategy from assessment to execution and improvement. |
 | [Deal Sourcing Analyst](deal-sourcing-analyst.md) | M&A analysis assistant for due diligence, market research, and deal sourcing. |
 | [Digital Transformation Strategist](digital-transformation-strategist.md) | Plans and guides your organization's digital transformation from assessment to evolution. |
 | [Digital Transformation Strategy Advisor](digital-transformation-strategy-advisor.md) | Strategic digital transformation guidance for IT executives, from assessment to adoption. |
+| [Diversification Strategy Analyst](diversification-strategy-analyst.md) | Guides diversification strategy from market research to performance monitoring. |
 | [Emerging Technology Adoption Assistant](emerging-technology-adoption-assistant.md) | Guides CDOs through emerging tech adoption from research to implementation and monitoring. |
 | [ESG Strategy Development Assistant](esg-strategy-development-assistant.md) | Builds and runs your company's ESG strategy from research to reporting. |
 | [Ethical Innovation Strategist](ethical-innovation-strategist.md) | Guides ethical assessment, frameworks, and reporting for innovation strategies. |
@@ -52,6 +56,7 @@ Find sources, compare evidence and summarise what is known. 95 Grok Bot template
 | [Global Strategy Research Assistant](global-strategy-research-assistant.md) | Turns global market data into strategy: research, localization, risk, and entry plans. |
 | [Go In Depth](../../science-and-research/research/go-in-depth.md) | Fan-out web searches, fetch sources, adversarially verify claims, and synthesize a cited report. |
 | [Hotel Competitor Intelligence Assistant](../../hospitality-and-events/research/hotel-competitor-intelligence-assistant.md) | Tracks competitor pricing, marketing, reviews, and performance to sharpen your hotel's strategy. |
+| [HR Policy Review Assistant](hr-policy-review-assistant.md) | Reviews HR policies, researches best practices, and drafts recommendations for the EVP of HR. |
 | [Ilya Sutskever Simulator](../../science-and-research/research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Infinite Gratitude](../../science-and-research/research/infinite-gratitude.md) | Orchestrates 10 parallel agents for deep multi-source research synthesis. |
 | [Innovation Strategy Analyst](innovation-strategy-analyst.md) | Turns market data and internal feedback into a prioritized innovation strategy for the EVP. |
@@ -86,6 +91,7 @@ Find sources, compare evidence and summarise what is known. 95 Grok Bot template
 | [Scenario Planning Strategist](scenario-planning-strategist.md) | Turns market signals into future scenarios, risk checks, and strategy options for innovation strategists. |
 | [SEO Competitive Analysis](../../marketing/research/seo-wettbewerbsanalyse.md) | Reverse-engineer ranking competitors to produce a content gap map, keyword steal list, and three pages to write first. |
 | [Startup Business Analyst Market Opportunity](startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Strategy Desk Market Analyst](strategy-desk-market-analyst.md) | Delivers market analysis and strategic planning support for strategy managers. |
 | [Sustainability Integration Strategist](sustainability-integration-strategist.md) | Integrates sustainability into strategy, operations, and culture for innovation strategists. |
 | [Sustainability Strategy Assistant](sustainability-strategy-assistant.md) | Guides sustainability strategy from assessment to action for senior executives. |
 | [Sustainability Strategy Formulation Assistant](sustainability-strategy-formulation-assistant.md) | Turns sustainability strategy work into researched, actionable plans for an EVP of Strategy. |

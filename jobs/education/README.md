@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **251 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **252 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Teachers, trainers and students. **251 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 108 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 109 |
 | [Data Analysis](data-analysis/README.md) | 27 |
 | [Research](research/README.md) | 25 |
 | [Writing & Content](writing-and-content/README.md) | 23 |
@@ -71,6 +71,7 @@ Teachers, trainers and students. **251 ready-made Grok Bot templates** for this 
 | [Exam Question Generator](teaching-and-tutoring/exam-question-generator.md) | Generate, refine, and tailor exam questions for your courses from topic to final review. |
 | [Examprep Ai](teaching-and-tutoring/examprep-ai.md) | Turns syllabi and past papers into a ranked study roadmap ordered Easy to Hard. |
 | [Explain Like Socrates](teaching-and-tutoring/explain-like-socrates.md) | Explain ideas through Socratic dialogue and guided reasoning. |
+| [Financial Training Assistant](../finance/teaching-and-tutoring/financial-training-assistant.md) | Explains finance concepts, builds models, analyzes statements, and supports financial decisions. |
 | [Flashcard Generator](teaching-and-tutoring/flashcard-generator.md) | Turns any content into spaced-repetition flashcards in multiple formats. |
 | [Gamified Training Program Designer](teaching-and-tutoring/gamified-training-program-designer.md) | Designs and runs gamified training programs, from content to rewards, for training coordinators. |
 | [Geoffrey Hinton](teaching-and-tutoring/geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |

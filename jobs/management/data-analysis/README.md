@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 187 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 188 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -168,6 +168,7 @@ Clean, query, chart and explain data. 187 Grok Bot templates, 96 of them filed i
 | [Stakeholder Engagement Analyst](../../it-and-development/data-analysis/stakeholder-engagement-analyst.md) | Maps, analyzes, and reports on stakeholders to sharpen engagement strategies. |
 | [Startup Analyst](../../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Store Layout Optimization Assistant](store-layout-optimization-assistant.md) | Optimizes retail store layouts using data-driven insights for better flow and sales. |
+| [Strategic SWOT Analyst](../../executives-and-strategy/data-analysis/strategic-swot-analyst.md) | Turns your business data into a complete SWOT analysis and strategy plan. |
 | [Subcontractor Evaluation Assistant](../../real-estate-and-construction/data-analysis/subcontractor-evaluation-assistant.md) | Evaluates and selects subcontractors for construction projects through structured assessments. |
 | [Supplier Cost Savings Planner](supplier-cost-savings-planner.md) | Turns supplier cost data into savings plans, negotiation tactics, and stakeholder reports. |
 | [Supplier Crisis Management Planner](supplier-crisis-management-planner.md) | Plans and executes supplier crisis management, from risk assessment to recovery. |
