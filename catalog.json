@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 6482,
+ "count": 6488,
  "templates": [
   {
    "slug": "007",
@@ -14863,6 +14863,21 @@
    ],
    "path": "jobs/education/productivity/classroom-management-assistant.md",
    "url": "https://templatesgrokbot.com/bot/classroom-management-assistant"
+  },
+  {
+   "slug": "classroom-management-planning-assistant",
+   "name": "Classroom Management Planning Assistant",
+   "tagline": "A headteacher's assistant for classroom management planning and communication.",
+   "category": "operations",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/education/writing-and-content/classroom-management-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/classroom-management-planning-assistant"
   },
   {
    "slug": "classroom-reading-planner",
@@ -39753,6 +39768,24 @@
    "url": "https://templatesgrokbot.com/bot/fleet-accident-response-planner"
   },
   {
+   "slug": "fleet-compliance-monitor",
+   "name": "Fleet Compliance Monitor",
+   "tagline": "Keeps your fleet compliant with DOT, environmental, safety, and international regulations. — Tracks updates, records, and training so nothing slips.",
+   "category": "operations",
+   "jobs": [
+    "operations",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "knowledge-management",
+    "research",
+    "productivity"
+   ],
+   "path": "jobs/operations/security-and-compliance/fleet-compliance-monitor.md",
+   "url": "https://templatesgrokbot.com/bot/fleet-compliance-monitor"
+  },
+  {
    "slug": "fleet-cost-reduction-analyst",
    "name": "Fleet Cost Reduction Analyst",
    "tagline": "Analyzes fleet data to find and act on cost reduction opportunities.",
@@ -45902,6 +45935,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "hiring-and-team-building-assistant",
+   "name": "Hiring and Team Building Assistant",
+   "tagline": "Handles hiring and team building tasks for founders, from job posts to performance reviews.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "human-resources",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/hiring-and-team-building-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/hiring-and-team-building-assistant"
+  },
+  {
    "slug": "hiring-scorecard-builder",
    "name": "Hiring Scorecard Builder",
    "tagline": "Builds structured, bias-reducing hiring scorecards for any role.",
@@ -51550,6 +51601,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "iot-integration-design-assistant",
+   "name": "IoT Integration Design Assistant",
+   "tagline": "IoT integration assistant for software engineers designing, securing, and deploying connected systems.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "coding",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/iot-integration-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/iot-integration-design-assistant"
+  },
+  {
    "slug": "iot-integration-planner",
    "name": "IoT Integration Planner",
    "tagline": "IoT integration planning and management assistant for IT directors, from device selection to operations and optimization.",
@@ -56527,6 +56594,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "lms-management-assistant",
+   "name": "LMS Management Assistant",
+   "tagline": "Manages and optimizes your LMS, from setup to analytics, with clear guidance and approvals.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "education"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis",
+    "support-and-community"
+   ],
+   "path": "jobs/human-resources/productivity/lms-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/lms-management-assistant"
+  },
+  {
    "slug": "load-balancing-advisor",
    "name": "Load Balancing Advisor",
    "tagline": "Explains and plans load balancing techniques for network engineers.",
@@ -57359,6 +57443,20 @@
    ],
    "path": "jobs/operations/data-analysis/logistics-warehouse-space-planner.md",
    "url": "https://templatesgrokbot.com/bot/logistics-warehouse-space-planner"
+  },
+  {
+   "slug": "logline-and-synopsis-crafter",
+   "name": "Logline and Synopsis Crafter",
+   "tagline": "Turns your story ideas into polished loglines and synopses ready for pitching.",
+   "category": "creative",
+   "jobs": [
+    "writers"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/writers/writing-and-content/logline-and-synopsis-crafter.md",
+   "url": "https://templatesgrokbot.com/bot/logline-and-synopsis-crafter"
   },
   {
    "slug": "logo-outro-frame-builder",

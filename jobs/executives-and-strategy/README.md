@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **705 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **706 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,7 @@ Leaders making decisions from the whole picture. **705 ready-made Grok Bot templ
 | [Data Analysis](data-analysis/README.md) | 256 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 129 |
 | [Research](research/README.md) | 103 |
-| [Productivity](productivity/README.md) | 92 |
+| [Productivity](productivity/README.md) | 93 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 30 |
 | [Security & Compliance](security-and-compliance/README.md) | 29 |
 | [Writing & Content](writing-and-content/README.md) | 20 |
@@ -88,7 +88,7 @@ Leaders making decisions from the whole picture. **705 ready-made Grok Bot templ
 | [CTO IT Project Navigator](productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Crisis Management Assistant](productivity/crisis-management-assistant.md) | Crisis management assistant for Managing Directors, covering assessment, communication, and recovery. |
 
-[All 92 Productivity templates →](productivity/README.md)
+[All 93 Productivity templates →](productivity/README.md)
 
 ## Sales & Negotiation
 

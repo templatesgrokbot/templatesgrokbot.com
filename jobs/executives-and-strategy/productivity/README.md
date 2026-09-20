@@ -1,6 +1,6 @@
 # Productivity templates for Executives and Strategy
 
-Plan, prioritise and clear the recurring admin. 92 Grok Bot templates, 67 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 93 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -46,6 +46,7 @@ Plan, prioritise and clear the recurring admin. 92 Grok Bot templates, 67 of the
 | [GM Crisis Response Kit](gm-crisis-response-kit.md) | Crisis management assistant for general managers: plans, communicates, and evaluates. |
 | [GM Stakeholder Comms Orchestrator](gm-stakeholder-comms-orchestrator.md) | Coordinates all stakeholder communication for a General Manager, from updates to crisis response. |
 | [Google Calendar Automation](../../management/productivity/google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
+| [Hiring and Team Building Assistant](hiring-and-team-building-assistant.md) | Handles hiring and team building tasks for founders, from job posts to performance reviews. |
 | [HR and Recruitment Operations Assistant](hr-and-recruitment-operations-assistant.md) | Streamlines HR and recruitment workflows for senior executives, from job posts to analytics. |
 | [HR Crisis Management Planner](hr-crisis-management-planner.md) | Plans and guides HR crisis response, from communication to recovery. |
 | [Idea Autopsy](idea-autopsy.md) | Autopsy a business idea before you build it: kill-list check, five hard filters, a free-AI one-prompt test, live ad-market verification, and a verdict |

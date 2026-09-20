@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **196 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **197 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Authors, copywriters, editors and journalists. **196 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 111 |
+| [Writing & Content](writing-and-content/README.md) | 112 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 22 |
 | [Research](research/README.md) | 20 |
 | [Data Analysis](data-analysis/README.md) | 7 |
@@ -81,6 +81,7 @@ Authors, copywriters, editors and journalists. **196 ready-made Grok Bot templat
 | [Humanizer](writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Interactive Content Ideas Generator](writing-and-content/interactive-content-ideas-generator.md) | Generates and designs interactive content ideas for writers and creators. |
 | [Legal Document Drafter](../legal/writing-and-content/legal-document-drafter.md) | Drafts, reviews, and researches legal documents for lawyers. |
+| [Logline and Synopsis Crafter](writing-and-content/logline-and-synopsis-crafter.md) | Turns your story ideas into polished loglines and synopses ready for pitching. |
 | [Long Novel Deconstructor](writing-and-content/long-novel-deconstructor.md) | 深度拆解长篇网文，产出可复用的写作框架与节奏地图。 |
 | [Long-Form Story Writer](writing-and-content/long-form-story-writer.md) | Plans and writes long web novels from premise to chapters, with structure-first control. |
 | [Lyric Craft Assistant](../creatives/writing-and-content/lyric-craft-assistant.md) | Craft, refine, and adapt song lyrics with creative AI support. |

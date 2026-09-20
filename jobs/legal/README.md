@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **235 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **236 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Contracts, research, compliance and review. **235 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 112 |
+| [Security & Compliance](security-and-compliance/README.md) | 113 |
 | [Research](research/README.md) | 55 |
 | [Data Analysis](data-analysis/README.md) | 22 |
 | [Writing & Content](writing-and-content/README.md) | 12 |
@@ -72,6 +72,7 @@ Contracts, research, compliance and review. **235 ready-made Grok Bot templates*
 | [Fda Medtech Compliance Auditor](security-and-compliance/fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |
 | [Finance Compliance Checklist Builder](../finance/security-and-compliance/finance-compliance-checklist-builder.md) | Monitors regulatory changes, builds checklists, reviews policies, and prepares compliance reports and audits for finance teams. |
 | [Financial Compliance Assistant](../executives-and-strategy/security-and-compliance/financial-compliance-assistant.md) | Research, draft, and monitor financial compliance for the EVP of Finances. |
+| [Fleet Compliance Monitor](../operations/security-and-compliance/fleet-compliance-monitor.md) | Keeps your fleet compliant with DOT, environmental, safety, and international regulations. — Tracks updates, records, and training so nothing slips. |
 | [Freight Broker Compliance Assistant](../sales/security-and-compliance/freight-broker-compliance-assistant.md) | Freight broker compliance assistant for carrier checks, audits, and regulatory updates. |
 | [Freight Environmental Compliance Assistant](../sales/security-and-compliance/freight-environmental-compliance-assistant.md) | Turns freight brokerage environmental compliance work into research, plans, audits, and reports. |
 | [Freight Risk Assessment Assistant](../sales/security-and-compliance/freight-risk-assessment-assistant.md) | Freight broker risk management assistant for vetting, contracts, claims, compliance, and planning. |

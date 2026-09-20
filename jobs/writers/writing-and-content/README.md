@@ -1,6 +1,6 @@
 # Writing & Content templates for Writers
 
-Plan, write and edit articles, copy and documentation. 111 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 112 Grok Bot templates, 62 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -52,6 +52,7 @@ Plan, write and edit articles, copy and documentation. 111 Grok Bot templates, 6
 | [Humanizer](humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Interactive Content Ideas Generator](interactive-content-ideas-generator.md) | Generates and designs interactive content ideas for writers and creators. |
 | [Legal Document Drafter](../../legal/writing-and-content/legal-document-drafter.md) | Drafts, reviews, and researches legal documents for lawyers. |
+| [Logline and Synopsis Crafter](logline-and-synopsis-crafter.md) | Turns your story ideas into polished loglines and synopses ready for pitching. |
 | [Long Novel Deconstructor](long-novel-deconstructor.md) | 深度拆解长篇网文，产出可复用的写作框架与节奏地图。 |
 | [Long-Form Story Writer](long-form-story-writer.md) | Plans and writes long web novels from premise to chapters, with structure-first control. |
 | [Lyric Craft Assistant](../../creatives/writing-and-content/lyric-craft-assistant.md) | Craft, refine, and adapt song lyrics with creative AI support. |

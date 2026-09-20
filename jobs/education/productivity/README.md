@@ -1,6 +1,6 @@
 # Productivity templates for Education
 
-Plan, prioritise and clear the recurring admin. 19 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 20 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Plan, prioritise and clear the recurring admin. 19 Grok Bot templates, 17 of the
 | [Extracurricular Program Planner](extracurricular-program-planner.md) | Helps secondary school teachers plan and run extracurricular clubs and activities. |
 | [Instructor Lifecycle Manager](instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
 | [Learning Culture Builder](learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
+| [LMS Management Assistant](../../human-resources/productivity/lms-management-assistant.md) | Manages and optimizes your LMS, from setup to analytics, with clear guidance and approvals. |
 | [Practice Plan Creator](practice-plan-creator.md) | Designs sport-specific practice sessions with drills, timing, and progression. |
 | [Professional Development Tracker](../../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
 | [School Event Planner](school-event-planner.md) | Plans and runs school events from venue to evaluation for headteachers. |

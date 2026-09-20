@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,963 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,964 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Engineers, DevOps, security and IT teams. **2,963 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 1,053 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 452 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 453 |
 | [Security & Compliance](security-and-compliance/README.md) | 322 |
 | [Data Analysis](data-analysis/README.md) | 229 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 216 |
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,963 ready-made Grok Bot templates*
 | [Zapier Make Patterns](cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 452 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 453 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Security & Compliance
 

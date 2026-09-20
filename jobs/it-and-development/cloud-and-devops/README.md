@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 452 Grok Bot templates, 437 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 453 Grok Bot templates, 438 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -252,6 +252,7 @@ Infrastructure, deployments, monitoring and incident response. 452 Grok Bot temp
 | [Infrastructure Optimization Advisor](infrastructure-optimization-advisor.md) | Analyzes infrastructure data and delivers optimization plans for IT leaders. |
 | [Infrastructure Skypilot](infrastructure-skypilot.md) | Orchestrates ML workloads across clouds with automatic cost optimization. |
 | [Iot Engineer](iot-engineer.md) | Designs and deploys large-scale IoT solutions from edge to cloud. |
+| [IoT Integration Design Assistant](iot-integration-design-assistant.md) | IoT integration assistant for software engineers designing, securing, and deploying connected systems. |
 | [IoT Integration Planner](iot-integration-planner.md) | IoT integration planning and management assistant for IT directors, from device selection to operations and optimization. |
 | [IoT Network Integration Assistant](iot-network-integration-assistant.md) | Guides IoT network integration from configuration to monitoring and security. |
 | [IoT Network Integration Planner](iot-network-integration-planner.md) | IoT network integration assistant for network administrators managing device lifecycle, security, and data. |

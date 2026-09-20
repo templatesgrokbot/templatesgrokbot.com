@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **264 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **266 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,9 +13,9 @@ Teachers, trainers and students. **264 ready-made Grok Bot templates** for this 
 |---|---:|
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 117 |
 | [Data Analysis](data-analysis/README.md) | 27 |
-| [Writing & Content](writing-and-content/README.md) | 26 |
+| [Writing & Content](writing-and-content/README.md) | 27 |
 | [Research](research/README.md) | 25 |
-| [Productivity](productivity/README.md) | 19 |
+| [Productivity](productivity/README.md) | 20 |
 | [Design](design/README.md) | 16 |
 | [Coding](coding/README.md) | 6 |
 | [Security & Compliance](security-and-compliance/README.md) | 6 |
@@ -189,6 +189,7 @@ Teachers, trainers and students. **264 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Academic Cv Builder](writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
+| [Classroom Management Planning Assistant](writing-and-content/classroom-management-planning-assistant.md) | A headteacher's assistant for classroom management planning and communication. |
 | [Clinical Data Training Developer](../healthcare/writing-and-content/clinical-data-training-developer.md) | Builds clinical data management training content, from modules to certification prep. |
 | [Cover Letter Generator](../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Crossframe Critical](../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
@@ -257,6 +258,7 @@ Teachers, trainers and students. **264 ready-made Grok Bot templates** for this 
 | [Extracurricular Program Planner](productivity/extracurricular-program-planner.md) | Helps secondary school teachers plan and run extracurricular clubs and activities. |
 | [Instructor Lifecycle Manager](productivity/instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
 | [Learning Culture Builder](productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
+| [LMS Management Assistant](../human-resources/productivity/lms-management-assistant.md) | Manages and optimizes your LMS, from setup to analytics, with clear guidance and approvals. |
 | [Practice Plan Creator](productivity/practice-plan-creator.md) | Designs sport-specific practice sessions with drills, timing, and progression. |
 | [Professional Development Tracker](../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
 | [School Event Planner](productivity/school-event-planner.md) | Plans and runs school events from venue to evaluation for headteachers. |

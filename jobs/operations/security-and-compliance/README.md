@@ -1,6 +1,6 @@
 # Security & Compliance templates for Operations
 
-Authorised security testing, audits and regulatory work. 108 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 109 Grok Bot templates, 52 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -37,6 +37,7 @@ Authorised security testing, audits and regulatory work. 108 Grok Bot templates,
 | [Event Staffing Compliance](../../human-resources/security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
 | [Fda Food Safety Auditor](fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
 | [Fire Safety Analysis Planner](fire-safety-analysis-planner.md) | Fire safety analysis, planning, and compliance support for safety engineers. From hazard ID to drills and audits, all in one place. |
+| [Fleet Compliance Monitor](fleet-compliance-monitor.md) | Keeps your fleet compliant with DOT, environmental, safety, and international regulations. — Tracks updates, records, and training so nothing slips. |
 | [Freight Broker Compliance Assistant](../../sales/security-and-compliance/freight-broker-compliance-assistant.md) | Freight broker compliance assistant for carrier checks, audits, and regulatory updates. |
 | [Freight Environmental Compliance Assistant](../../sales/security-and-compliance/freight-environmental-compliance-assistant.md) | Turns freight brokerage environmental compliance work into research, plans, audits, and reports. |
 | [Freight Risk Assessment Assistant](../../sales/security-and-compliance/freight-risk-assessment-assistant.md) | Freight broker risk management assistant for vetting, contracts, claims, compliance, and planning. |

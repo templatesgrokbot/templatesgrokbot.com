@@ -1,6 +1,6 @@
 # Productivity templates for Human Resources
 
-Plan, prioritise and clear the recurring admin. 68 Grok Bot templates, 47 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 70 Grok Bot templates, 48 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Plan, prioritise and clear the recurring admin. 68 Grok Bot templates, 47 of the
 | [Exit Interview Coordinator](exit-interview-coordinator.md) | Manages exit interviews from scheduling to follow-up actions for HR specialists. |
 | [Git Pr Workflows Onboard](git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
 | [Global TA Strategy Advisor](global-ta-strategy-advisor.md) | Enhances talent acquisition with sourcing, branding, and data-driven insights. |
+| [Hiring and Team Building Assistant](../../executives-and-strategy/productivity/hiring-and-team-building-assistant.md) | Handles hiring and team building tasks for founders, from job posts to performance reviews. |
 | [Hiring Scorecard Builder](hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
 | [HR and Recruitment Operations Assistant](../../executives-and-strategy/productivity/hr-and-recruitment-operations-assistant.md) | Streamlines HR and recruitment workflows for senior executives, from job posts to analytics. |
 | [HR Crisis Management Planner](../../executives-and-strategy/productivity/hr-crisis-management-planner.md) | Plans and guides HR crisis response, from communication to recovery. |
@@ -44,6 +45,7 @@ Plan, prioritise and clear the recurring admin. 68 Grok Bot templates, 47 of the
 | [IT Training Program Planner](../../executives-and-strategy/productivity/it-training-program-planner.md) | Designs and manages IT staff training, from needs assessment to certification prep. |
 | [Jobgpt](jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |
 | [Learning Culture Builder](../../education/productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
+| [LMS Management Assistant](lms-management-assistant.md) | Manages and optimizes your LMS, from setup to analytics, with clear guidance and approvals. |
 | [New Hire Onboarding Coordinator](new-hire-onboarding-coordinator.md) | Coordinates and personalizes every step of new employee onboarding for HR Directors. |
 | [Onboarding Automation Coordinator](onboarding-automation-coordinator.md) | Streamlines new hire onboarding from paperwork to feedback for recruitment coordinators. |
 | [Onboarding Automation Designer](onboarding-automation-designer.md) | Streamlines new hire onboarding from data collection to compliance and progress tracking. |

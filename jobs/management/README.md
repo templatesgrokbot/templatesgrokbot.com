@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **759 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **760 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Team leads and project managers. **759 ready-made Grok Bot templates** for this 
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 211 |
-| [Productivity](productivity/README.md) | 199 |
+| [Productivity](productivity/README.md) | 200 |
 | [Research](research/README.md) | 68 |
 | [Coding](coding/README.md) | 44 |
 | [Security & Compliance](security-and-compliance/README.md) | 44 |
@@ -59,7 +59,7 @@ Team leads and project managers. **759 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 199 Productivity templates →](productivity/README.md)
+[All 200 Productivity templates →](productivity/README.md)
 
 ## Research
 

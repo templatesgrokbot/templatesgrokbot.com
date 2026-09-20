@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 199 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 200 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -75,6 +75,7 @@ Plan, prioritise and clear the recurring admin. 199 Grok Bot templates, 61 of th
 | [Google Calendar Automation](google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
 | [Green Ops Tracker](../../operations/productivity/green-ops-tracker.md) | Sustainability operations assistant for planning, tracking, and reporting green initiatives. No hype, just practical steps. |
 | [Hackathon Ai Strategist](hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
+| [Hiring and Team Building Assistant](../../executives-and-strategy/productivity/hiring-and-team-building-assistant.md) | Handles hiring and team building tasks for founders, from job posts to performance reviews. |
 | [Hiring Scorecard Builder](../../human-resources/productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
 | [Hotel Crisis Management Planner](../../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
 | [Hotel Event Planning Assistant](../../hospitality-and-events/productivity/hotel-event-planning-assistant.md) | Plans and manages hotel events from venue selection to post-event feedback. |

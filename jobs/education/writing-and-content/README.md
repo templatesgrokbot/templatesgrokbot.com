@@ -1,12 +1,13 @@
 # Writing & Content templates for Education
 
-Plan, write and edit articles, copy and documentation. 26 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 27 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Academic Cv Builder](academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
+| [Classroom Management Planning Assistant](classroom-management-planning-assistant.md) | A headteacher's assistant for classroom management planning and communication. |
 | [Clinical Data Training Developer](../../healthcare/writing-and-content/clinical-data-training-developer.md) | Builds clinical data management training content, from modules to certification prep. |
 | [Cover Letter Generator](../../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Crossframe Critical](../../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |

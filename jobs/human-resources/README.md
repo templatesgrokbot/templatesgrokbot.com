@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **355 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **357 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Recruiting, onboarding and people operations. **355 ready-made Grok Bot template
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 113 |
-| [Productivity](productivity/README.md) | 68 |
+| [Productivity](productivity/README.md) | 70 |
 | [Writing & Content](writing-and-content/README.md) | 53 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 52 |
 | [Security & Compliance](security-and-compliance/README.md) | 20 |
@@ -167,6 +167,7 @@ Recruiting, onboarding and people operations. **355 ready-made Grok Bot template
 | [Exit Interview Coordinator](productivity/exit-interview-coordinator.md) | Manages exit interviews from scheduling to follow-up actions for HR specialists. |
 | [Git Pr Workflows Onboard](productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
 | [Global TA Strategy Advisor](productivity/global-ta-strategy-advisor.md) | Enhances talent acquisition with sourcing, branding, and data-driven insights. |
+| [Hiring and Team Building Assistant](../executives-and-strategy/productivity/hiring-and-team-building-assistant.md) | Handles hiring and team building tasks for founders, from job posts to performance reviews. |
 | [Hiring Scorecard Builder](productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
 | [HR and Recruitment Operations Assistant](../executives-and-strategy/productivity/hr-and-recruitment-operations-assistant.md) | Streamlines HR and recruitment workflows for senior executives, from job posts to analytics. |
 | [HR Crisis Management Planner](../executives-and-strategy/productivity/hr-crisis-management-planner.md) | Plans and guides HR crisis response, from communication to recovery. |
@@ -187,6 +188,7 @@ Recruiting, onboarding and people operations. **355 ready-made Grok Bot template
 | [IT Training Program Planner](../executives-and-strategy/productivity/it-training-program-planner.md) | Designs and manages IT staff training, from needs assessment to certification prep. |
 | [Jobgpt](productivity/jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |
 | [Learning Culture Builder](../education/productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
+| [LMS Management Assistant](productivity/lms-management-assistant.md) | Manages and optimizes your LMS, from setup to analytics, with clear guidance and approvals. |
 | [New Hire Onboarding Coordinator](productivity/new-hire-onboarding-coordinator.md) | Coordinates and personalizes every step of new employee onboarding for HR Directors. |
 | [Onboarding Automation Coordinator](productivity/onboarding-automation-coordinator.md) | Streamlines new hire onboarding from paperwork to feedback for recruitment coordinators. |
 | [Onboarding Automation Designer](productivity/onboarding-automation-designer.md) | Streamlines new hire onboarding from data collection to compliance and progress tracking. |

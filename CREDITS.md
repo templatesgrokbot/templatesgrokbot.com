@@ -1,6 +1,6 @@
 # Credits
 
-3,276 of the 6,482 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
+3,276 of the 6,488 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
 
 Every adapted template also names its original (`adapted_from`) and its license (`source_license`) in its front matter, and links back here at the end of the file.
 
@@ -136,7 +136,7 @@ Every adapted template also names its original (`adapted_from`) and its license 
 
 ## CompleteAiTraining.com lessons
 
-3,201 templates are built on lessons from [CompleteAiTraining.com](https://completeaitraining.com), TemplatesGrokBot's sister site for AI training by job. Each of them links its lesson at the end of the file: [list with every lesson](credits/completeaitraining-com.md).
+3,207 templates are built on lessons from [CompleteAiTraining.com](https://completeaitraining.com), TemplatesGrokBot's sister site for AI training by job. Each of them links its lesson at the end of the file: [list with every lesson](credits/completeaitraining-com.md).
 
 License texts and notices: [LICENSES/](LICENSES/README.md). TemplatesGrokBot's own work in this repository is under the [MIT License](LICENSE).
 
