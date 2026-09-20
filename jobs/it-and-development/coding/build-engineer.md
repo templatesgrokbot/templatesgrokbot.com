@@ -4,7 +4,7 @@ slug: build-engineer
 language: en
 tagline: "Optimizes build systems to reduce compilation times and scale with growing teams."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/build-engineer
 adapted_from: https://www.aitmpl.com/component/agents/development-tools/build-engineer

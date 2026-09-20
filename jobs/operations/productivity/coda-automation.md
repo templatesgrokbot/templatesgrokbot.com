@@ -3,8 +3,8 @@ name: "Coda Automation"
 slug: coda-automation
 language: en
 tagline: "Automate Coda docs, tables, formulas, permissions, and publishing via MCP."
-jobs: ["operations","management"]
-topics: ["productivity","office-tools"]
+jobs: ["operations","management","it-and-development"]
+topics: ["productivity","office-tools","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/coda-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

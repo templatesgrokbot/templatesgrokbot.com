@@ -1,6 +1,6 @@
 # Research templates for Sales
 
-Find sources, compare evidence and summarise what is known. 33 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 34 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Find sources, compare evidence and summarise what is known. 33 Grok Bot template
 | [Crypto Bd Agent](crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [CSO Competitor Intel Briefs](cso-competitor-intel-briefs.md) | Turns competitor data into strategic sales intelligence for CSOs. |
 | [Customer Psychographic Profiler](../../marketing/research/customer-psychographic-profiler.md) | Build deep psychographic profiles of target customers based on identity, needs, and fears. |
+| [Deepapi](../../operations/research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 | [Find Matching Tenders](find-matching-tenders.md) | Find and rank live AU/NZ government tenders matching a company's capabilities. |
 | [Freight Market Research Assistant](freight-market-research-assistant.md) | Market research for freight brokers: trends, competitors, pricing, routes, regulations, and more. |
 | [Freight Technology Integration Planner](freight-technology-integration-planner.md) | Plans and guides technology integration for freight brokerage operations. |

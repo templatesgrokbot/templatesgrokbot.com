@@ -1,6 +1,6 @@
 # Security & Compliance templates for Healthcare
 
-Authorised security testing, audits and regulatory work. 28 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 29 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Authorised security testing, audits and regulatory work. 28 Grok Bot templates, 
 | [Post-Market Surveillance Reporter](../../government/security-and-compliance/post-market-surveillance-reporter.md) | Post-market surveillance and reporting assistant for regulatory affairs specialists. |
 | [PPE Management Assistant](ppe-management-assistant.md) | Manages PPE inventory, selection, training, compliance, and records for workplace safety. |
 | [QC Compliance Report Builder](../../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
+| [Quality Manager Qmr](../../operations/security-and-compliance/quality-manager-qmr.md) | Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies. |
 | [Regulatory Compliance Navigator](../../executives-and-strategy/security-and-compliance/regulatory-compliance-navigator.md) | Tracks regulatory changes, builds compliance programs, and prepares audit-ready documentation for your organization. |
 | [Risk Control Hazard Finder](risk-control-hazard-finder.md) | Hazard identification assistant for health and safety specialists, turning data into risk controls. |
 | [Safety Audit Assistant](safety-audit-assistant.md) | Streamlines safety audits by generating checklists, analyzing records, and assessing compliance. |

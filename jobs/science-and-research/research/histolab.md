@@ -4,7 +4,7 @@ slug: histolab
 language: en
 tagline: "Extracts informative tiles from whole slide pathology images for deep learning pipelines."
 jobs: ["science-and-research","healthcare"]
-topics: ["research"]
+topics: ["research","data-analysis","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/histolab
 adapted_from: https://www.aitmpl.com/component/skills/scientific/histolab

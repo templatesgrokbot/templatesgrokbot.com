@@ -4,7 +4,7 @@ slug: azure-ai-anomalydetector-java
 language: en
 tagline: "Detect anomalies in time-series data using Azure AI Anomaly Detector SDK for Java, supporting univariate and multivariate analysis."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis"]
+topics: ["data-analysis","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-anomalydetector-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

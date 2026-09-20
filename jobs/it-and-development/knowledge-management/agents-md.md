@@ -4,7 +4,7 @@ slug: agents-md
 language: en
 tagline: "Create or audit AGENTS.md from repository evidence, preserving maintainer intent."
 jobs: ["it-and-development"]
-topics: ["knowledge-management"]
+topics: ["knowledge-management","prompt-engineering","writing-and-content","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agents-md
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

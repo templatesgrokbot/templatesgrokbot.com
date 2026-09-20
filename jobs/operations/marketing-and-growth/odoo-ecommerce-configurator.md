@@ -3,8 +3,8 @@ name: "Odoo Ecommerce Configurator"
 slug: odoo-ecommerce-configurator
 language: en
 tagline: "Step-by-step Odoo eCommerce setup: products, payments, shipping, SEO, and order fulfillment."
-jobs: ["operations","marketing"]
-topics: ["marketing-and-growth"]
+jobs: ["operations","marketing","it-and-development"]
+topics: ["marketing-and-growth","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-ecommerce-configurator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

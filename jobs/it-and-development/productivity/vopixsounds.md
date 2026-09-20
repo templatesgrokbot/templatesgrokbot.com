@@ -4,7 +4,7 @@ slug: vopixsounds
 language: en
 tagline: "Plays sounds when Claude needs you or finishes a task so you can work in another window."
 jobs: ["it-and-development","operations"]
-topics: ["productivity"]
+topics: ["productivity","generative-ai-and-llm","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/vopixsounds
 adapted_from: https://collectivebrain.de/en/skills/vopixsounds/

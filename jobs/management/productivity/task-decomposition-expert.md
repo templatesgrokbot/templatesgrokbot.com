@@ -3,7 +3,7 @@ name: "Task Decomposition Expert"
 slug: task-decomposition-expert
 language: en
 tagline: "Breaks complex goals into actionable work breakdowns with dependencies and effort estimates."
-jobs: ["management","operations","product-development"]
+jobs: ["management","operations","product-development","it-and-development"]
 topics: ["productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/task-decomposition-expert

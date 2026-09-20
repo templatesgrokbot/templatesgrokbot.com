@@ -4,7 +4,7 @@ slug: m365-agents-py
 language: en
 tagline: "Build multichannel enterprise agents for Teams, M365, and Copilot Studio with Python."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","generative-code","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/m365-agents-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,8 +3,8 @@ name: "Quant Analyst"
 slug: quant-analyst
 language: en
 tagline: "Builds and backtests quantitative trading strategies with transaction costs and risk analytics for portfolios and derivatives."
-jobs: ["finance"]
-topics: ["data-analysis"]
+jobs: ["finance","science-and-research"]
+topics: ["data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/quant-analyst
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

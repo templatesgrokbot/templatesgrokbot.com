@@ -1,6 +1,6 @@
 # Coding templates for Marketing
 
-Write, review, test and debug software. 13 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 14 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Write, review, test and debug software. 13 Grok Bot templates, 1 of them filed i
 | [Seo Schema](../../it-and-development/coding/seo-schema.md) | Detect, validate, and generate Schema.org JSON-LD structured data for web pages. |
 | [Seo Technical](seo-technical.md) | Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, and JavaScript rendering. |
 | [Url Link Extractor](../../it-and-development/coding/url-link-extractor.md) | Scans website codebases to extract and catalog all URLs and links. |
+| [Web Quality Audit](../../it-and-development/coding/web-quality-audit.md) | Audits web pages for performance, accessibility, SEO, and best practices with prioritized fixes. |
 | [Wordpress](../../it-and-development/coding/wordpress.md) | Build and secure WordPress sites with themes, plugins, WooCommerce, and 7.0 features. |
 | [Wordpress Master](../../it-and-development/coding/wordpress-master.md) | Architect, optimize, and troubleshoot WordPress sites from custom themes to enterprise multisite platforms. |
 

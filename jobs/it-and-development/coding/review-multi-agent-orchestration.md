@@ -4,7 +4,7 @@ slug: review-multi-agent-orchestration
 language: en
 tagline: "Review multi-agent orchestration designs for task boundaries, state, and failure safety before implementation."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/review-multi-agent-orchestration
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

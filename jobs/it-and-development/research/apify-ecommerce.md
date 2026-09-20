@@ -4,7 +4,7 @@ slug: apify-ecommerce
 language: en
 tagline: "Extract product data, prices, reviews, and sellers from e-commerce sites via Apify."
 jobs: ["it-and-development","marketing","product-development"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","productivity"]
 category: research
 url: https://templatesgrokbot.com/bot/apify-ecommerce
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

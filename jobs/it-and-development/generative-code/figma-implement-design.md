@@ -4,7 +4,7 @@ slug: figma-implement-design
 language: en
 tagline: "Turn Figma designs into production-ready code with pixel-perfect fidelity using your project's design system."
 jobs: ["it-and-development","product-development","creatives"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/figma-implement-design
 adapted_from: https://www.aitmpl.com/component/skills/creative-design/figma-implement-design

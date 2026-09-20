@@ -3,7 +3,7 @@ name: "Linkedin Content Generator"
 slug: linkedin-content-generator
 language: en
 tagline: "Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche."
-jobs: ["marketing","creatives"]
+jobs: ["marketing","creatives","pr-and-communications","hospitality-and-events"]
 topics: ["social-media","writing-and-content","marketing-and-growth"]
 category: marketing
 url: https://templatesgrokbot.com/bot/linkedin-content-generator

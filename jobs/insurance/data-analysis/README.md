@@ -1,6 +1,6 @@
 # Data Analysis templates for Insurance
 
-Clean, query, chart and explain data. 75 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 80 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,8 @@ Clean, query, chart and explain data. 75 Grok Bot templates, 0 of them filed in 
 | [Anomaly Detection Analyst](../../it-and-development/data-analysis/anomaly-detection-analyst.md) | Detects anomalies in your data and explains them for faster, accurate decisions. |
 | [Asset-Liability Management Assistant](../../finance/data-analysis/asset-liability-management-assistant.md) | Analyzes assets and liabilities, models scenarios, and optimizes strategies for insurance actuaries. |
 | [Automated Claim Processing Assistant](../../operations/data-analysis/automated-claim-processing-assistant.md) | Automates claim intake, verification, decisions, and customer updates for insurance processors. |
+| [Azure Ai Document Intelligence Dotnet](../../it-and-development/data-analysis/azure-ai-document-intelligence-dotnet.md) | Extract text, tables, and structured data from documents using Azure AI Document Intelligence. |
+| [Azure Ai Document Intelligence Ts](../../it-and-development/data-analysis/azure-ai-document-intelligence-ts.md) | Extract text, tables, and structured data from documents using Azure AI. |
 | [Catastrophe Modeling Analyst](../../finance/data-analysis/catastrophe-modeling-analyst.md) | Catastrophe modeling assistant for insurance risk analysts, from data to reports. |
 | [Catastrophe Modeling Assistant](../../finance/data-analysis/catastrophe-modeling-assistant.md) | Catastrophe modeling assistant for insurance data analysts, from data prep to reporting. |
 | [Catastrophe Risk Analysis Assistant](../../finance/data-analysis/catastrophe-risk-analysis-assistant.md) | Analyzes catastrophe data, models risk, and prepares reports for insurance decisions. |
@@ -45,6 +47,7 @@ Clean, query, chart and explain data. 75 Grok Bot templates, 0 of them filed in 
 | [Data Entry Automation Assistant](../../operations/data-analysis/data-entry-automation-assistant.md) | Automates data entry tasks from extraction to integration, with approval gates. |
 | [Data Quality Control Assistant](../../operations/data-analysis/data-quality-control-assistant.md) | Runs quality control checks on entered data and reports issues for correction. |
 | [Experience Studies Analyst](../../finance/data-analysis/experience-studies-analyst.md) | Analyzes insurance experience data to inform pricing and risk decisions. |
+| [Extract Document Data](../../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
 | [Fraud Detection Algorithm Assistant](../../finance/data-analysis/fraud-detection-algorithm-assistant.md) | Helps insurance data analysts build, test, and refine fraud detection algorithms from data prep to real-time monitoring. |
 | [Geographic Risk Analysis Assistant](../../finance/data-analysis/geographic-risk-analysis-assistant.md) | Geographic risk analysis assistant for insurance risk analysts, turning data into assessments and reports. No hype, no fluff. |
 | [Home Inventory Builder](../../operations/data-analysis/home-inventory-builder.md) | Turns your photos and receipts into an insurance-grade home inventory. |
@@ -71,6 +74,7 @@ Clean, query, chart and explain data. 75 Grok Bot templates, 0 of them filed in 
 | [Insurance Risk Modelling Assistant](../../finance/data-analysis/insurance-risk-modelling-assistant.md) | Builds and validates insurance risk models from data to reports, with approval gates. |
 | [Insurance Tech Impact Analyst](../../finance/data-analysis/insurance-tech-impact-analyst.md) | Analyzes tech impacts and builds AI tools for insurance actuarial work. |
 | [Mortality and Morbidity Analyst](../../finance/data-analysis/mortality-and-morbidity-analyst.md) | Analyzes mortality and morbidity data to inform actuarial decisions and insurance risk management. |
+| [Pdf Processing Pro](../../operations/data-analysis/pdf-processing-pro.md) | Extracts text, tables, and form data from PDFs with validation and batch processing. |
 | [Policy Renewal Forecasting](../../finance/data-analysis/policy-renewal-forecasting.md) | Forecast policy renewals and retention from your insurance data, with insights for decisions. |
 | [Policyholder Behavior Analyst](../../finance/data-analysis/policyholder-behavior-analyst.md) | Analyzes policyholder behavior to predict trends, segment customers, and guide actuarial strategy. |
 | [Portfolio Risk Analysis Assistant](../../finance/data-analysis/portfolio-risk-analysis-assistant.md) | Analyzes insurance portfolio risk data and produces reports, models, and recommendations for risk analysts. |
@@ -81,5 +85,6 @@ Clean, query, chart and explain data. 75 Grok Bot templates, 0 of them filed in 
 | [Solvency Assessment Assistant](../../finance/data-analysis/solvency-assessment-assistant.md) | Solvency assessment assistant for insurance actuaries, from data to reporting. |
 | [Underwriting Process Improvement Assistant](../../finance/data-analysis/underwriting-process-improvement-assistant.md) | Analyzes underwriting data, automates risk assessment, and supports faster, accurate decisions. |
 | [Underwriting Support Assistant](../../finance/data-analysis/underwriting-support-assistant.md) | Streamlines underwriting data, risk, policy, and compliance tasks for insurance risk analysts. |
+| [Xlsx Official](../../finance/data-analysis/xlsx-official.md) | Reads, edits, and creates spreadsheet files with formulas, formatting, and zero errors. |
 
 [← All Insurance templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/insurance)

@@ -4,7 +4,7 @@ slug: agent-harness-fault-injection
 language: en
 tagline: "Deterministic fault injection to test agent workflow recovery before production."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agent-harness-fault-injection
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

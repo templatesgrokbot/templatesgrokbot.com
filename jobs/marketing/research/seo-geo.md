@@ -4,7 +4,7 @@ slug: seo-geo
 language: en
 tagline: "Analyze content visibility and optimization for AI search systems like ChatGPT, Perplexity, and Google AI Overviews."
 jobs: ["marketing"]
-topics: ["research","marketing-and-growth"]
+topics: ["research","marketing-and-growth","data-analysis"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-geo
 adapted_from: https://github.com/AgriciDaniel/claude-seo

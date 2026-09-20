@@ -4,7 +4,7 @@ slug: aomi-transact
 language: en
 tagline: "Turn natural-language prompts into wallet-signed EVM transactions via Aomi CLI."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/aomi-transact
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

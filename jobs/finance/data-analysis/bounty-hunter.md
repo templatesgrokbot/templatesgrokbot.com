@@ -4,7 +4,7 @@ slug: bounty-hunter
 language: en
 tagline: "Identifies unclaimed, owed, or wasted money and recommends how to recover it."
 jobs: ["finance","operations"]
-topics: ["data-analysis"]
+topics: ["data-analysis","research"]
 category: finance
 url: https://templatesgrokbot.com/bot/bounty-hunter
 author: "@liam_fallen"

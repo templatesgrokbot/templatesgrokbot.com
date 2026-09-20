@@ -4,7 +4,7 @@ slug: multi-agent-task-orchestrator
 language: en
 tagline: "Route tasks to specialized AI agents with anti-duplication and quality gates."
 jobs: ["it-and-development","management"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/multi-agent-task-orchestrator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

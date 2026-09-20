@@ -4,7 +4,7 @@ slug: scientific-schematics
 language: en
 tagline: "Generate publication-quality scientific diagrams from natural language descriptions."
 jobs: ["science-and-research","creatives"]
-topics: ["generative-art","research"]
+topics: ["generative-art","research","design"]
 category: research
 url: https://templatesgrokbot.com/bot/scientific-schematics
 adapted_from: https://www.aitmpl.com/component/skills/scientific/scientific-schematics

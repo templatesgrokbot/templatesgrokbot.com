@@ -4,7 +4,7 @@ slug: windows-shell-reliability
 language: en
 tagline: "Reliable command execution on Windows: paths, encoding, and common binary pitfalls."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/windows-shell-reliability
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: sendblue-cli
 language: en
 tagline: "Send iMessage and SMS from the shell using the Sendblue CLI."
 jobs: ["it-and-development","operations"]
-topics: ["productivity"]
+topics: ["productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/sendblue-cli
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

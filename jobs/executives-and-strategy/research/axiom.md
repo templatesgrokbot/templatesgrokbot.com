@@ -3,7 +3,7 @@ name: "Axiom"
 slug: axiom
 language: en
 tagline: "Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises."
-jobs: ["executives-and-strategy","management","operations"]
+jobs: ["executives-and-strategy","management","operations","science-and-research"]
 topics: ["research","self-improvement"]
 category: operations
 url: https://templatesgrokbot.com/bot/axiom

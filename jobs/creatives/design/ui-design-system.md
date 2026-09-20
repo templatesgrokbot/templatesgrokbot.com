@@ -4,7 +4,7 @@ slug: ui-design-system
 language: en
 tagline: "Generates design tokens, component docs, responsive calculations, and handoff files for a senior UI designer."
 jobs: ["creatives","product-development"]
-topics: ["design","generative-ai-and-llm"]
+topics: ["design","generative-ai-and-llm","writing-and-content"]
 category: creative
 url: https://templatesgrokbot.com/bot/ui-design-system
 adapted_from: https://www.aitmpl.com/component/skills/creative-design/ui-design-system

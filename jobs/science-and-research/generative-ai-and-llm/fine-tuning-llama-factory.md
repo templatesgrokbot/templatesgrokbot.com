@@ -4,7 +4,7 @@ slug: fine-tuning-llama-factory
 language: en
 tagline: "Guides fine-tuning of LLMs using LLaMA-Factory WebUI with no-code QLoRA and multimodal support."
 jobs: ["science-and-research","it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/fine-tuning-llama-factory
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/fine-tuning-llama-factory

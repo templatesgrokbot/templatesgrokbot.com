@@ -4,7 +4,7 @@ slug: premium-3d-website
 language: en
 tagline: "Build premium 3D websites with custom WebGL shaders, post-processing, and physics interactions."
 jobs: ["it-and-development","creatives","product-development"]
-topics: ["generative-code","design","coding"]
+topics: ["generative-code","design","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/premium-3d-website
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: viboscope
 language: en
 tagline: "Match with compatible people using validated psychometrics."
 jobs: ["human-resources","management"]
-topics: ["self-improvement","research"]
+topics: ["self-improvement","research","data-analysis"]
 category: personal
 url: https://templatesgrokbot.com/bot/viboscope
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

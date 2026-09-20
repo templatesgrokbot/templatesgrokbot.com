@@ -4,7 +4,7 @@ slug: azure-postgres-ts
 language: en
 tagline: "Connect to Azure PostgreSQL from TypeScript using pg with password or Entra ID auth."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-postgres-ts
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

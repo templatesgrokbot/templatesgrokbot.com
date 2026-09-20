@@ -3,7 +3,7 @@ name: "Search Specialist"
 slug: search-specialist
 language: en
 tagline: "Conducts deep web research with multi-source verification and structured reporting."
-jobs: ["science-and-research","marketing","pr-and-communications"]
+jobs: ["science-and-research","marketing","pr-and-communications","government"]
 topics: ["research"]
 category: research
 url: https://templatesgrokbot.com/bot/search-specialist

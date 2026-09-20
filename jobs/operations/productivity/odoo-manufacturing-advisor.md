@@ -4,7 +4,7 @@ slug: odoo-manufacturing-advisor
 language: en
 tagline: "Configure Odoo Manufacturing: BoMs, work centers, routings, MRP runs, and production order workflows."
 jobs: ["operations","management","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-manufacturing-advisor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

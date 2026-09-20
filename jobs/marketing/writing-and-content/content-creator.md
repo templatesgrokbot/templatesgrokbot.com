@@ -3,7 +3,7 @@ name: "Content Creator"
 slug: content-creator
 language: en
 tagline: "Draft and review audience-specific content using brand examples and channel templates."
-jobs: ["marketing","creatives","writers"]
+jobs: ["marketing","creatives","writers","hospitality-and-events"]
 topics: ["writing-and-content","marketing-and-growth","social-media"]
 category: marketing
 url: https://templatesgrokbot.com/bot/content-creator

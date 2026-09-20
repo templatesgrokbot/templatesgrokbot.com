@@ -4,7 +4,7 @@ slug: observability-and-instrumentation
 language: en
 tagline: "Instruments production code so behavior is visible and diagnosable via telemetry."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/observability-and-instrumentation
 adapted_from: https://github.com/addyosmani/agent-skills/tree/main/skills/observability-and-instrumentation

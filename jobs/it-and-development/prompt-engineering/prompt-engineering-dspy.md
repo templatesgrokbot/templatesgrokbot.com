@@ -4,7 +4,7 @@ slug: prompt-engineering-dspy
 language: en
 tagline: "Build and optimize modular AI pipelines using DSPy's declarative framework."
 jobs: ["it-and-development","science-and-research"]
-topics: ["prompt-engineering","generative-ai-and-llm"]
+topics: ["prompt-engineering","generative-ai-and-llm","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/prompt-engineering-dspy
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/prompt-engineering-dspy

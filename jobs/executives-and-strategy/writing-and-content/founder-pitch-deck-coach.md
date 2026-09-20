@@ -4,7 +4,7 @@ slug: founder-pitch-deck-coach
 language: en
 tagline: "Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations."
 jobs: ["executives-and-strategy","marketing","sales"]
-topics: ["writing-and-content","marketing-and-growth"]
+topics: ["writing-and-content","marketing-and-growth","office-tools","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/founder-pitch-deck-coach
 adapted_from: https://collectivebrain.de/en/skills/founder-pitch-deck-coach/

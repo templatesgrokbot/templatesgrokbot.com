@@ -4,7 +4,7 @@ slug: unship
 language: en
 tagline: "Compare AI-generated UI variants in your local app, pick one, and clean up the rest."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/unship
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

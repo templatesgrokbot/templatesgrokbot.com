@@ -4,7 +4,7 @@ slug: antigravity-workflows
 language: en
 tagline: "Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints."
 jobs: ["management","operations","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","security-and-compliance","cloud-and-devops"]
 category: operations
 url: https://templatesgrokbot.com/bot/antigravity-workflows
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

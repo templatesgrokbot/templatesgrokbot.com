@@ -4,7 +4,7 @@ slug: brutalist-typography
 language: en
 tagline: "Generate brutalist typography with oversized system fonts, negative margins, and aggressive layout collisions."
 jobs: ["creatives","product-development"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/brutalist-typography
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

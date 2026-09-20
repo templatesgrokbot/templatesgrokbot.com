@@ -4,7 +4,7 @@ slug: pc-games
 language: en
 tagline: "Guide on engine selection and platform-specific game development principles."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code","cloud-and-devops"]
+topics: ["coding","generative-code","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pc-games
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: customer-support
 language: en
 tagline: "Resolves support tickets and creates help documentation from confirmed facts only."
 jobs: ["customer-support","operations"]
-topics: ["support-and-community","knowledge-management"]
+topics: ["support-and-community","knowledge-management","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/customer-support
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

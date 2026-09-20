@@ -4,7 +4,7 @@ slug: rag-implementation
 language: en
 tagline: "Designs and optimizes RAG pipelines for document retrieval and generation."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","data-analysis"]
+topics: ["generative-ai-and-llm","data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/rag-implementation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

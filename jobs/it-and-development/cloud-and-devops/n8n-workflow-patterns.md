@@ -4,7 +4,7 @@ slug: n8n-workflow-patterns
 language: en
 tagline: "Guides users to select and build n8n workflows from five proven architectural patterns."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/n8n-workflow-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

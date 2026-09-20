@@ -4,7 +4,7 @@ slug: browser-harness
 language: en
 tagline: "Drive a real logged-in browser via CDP for clicks, forms, and JS-heavy pages."
 jobs: ["it-and-development"]
-topics: ["coding","research"]
+topics: ["coding","research","generative-ai-and-llm","office-tools"]
 category: engineering
 url: https://templatesgrokbot.com/bot/browser-harness
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

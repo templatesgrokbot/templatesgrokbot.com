@@ -3,8 +3,8 @@ name: "Pitch Rehearsal"
 slug: pitch-rehearsal
 language: en
 tagline: "Plays the toughest person in the room and asks the question you hoped nobody would."
-jobs: ["education","management"]
-topics: ["teaching-and-tutoring","self-improvement"]
+jobs: ["education","management","sales","product-development","pr-and-communications"]
+topics: ["teaching-and-tutoring","self-improvement","sales-and-negotiation"]
 category: education
 url: https://templatesgrokbot.com/bot/pitch-rehearsal
 author: "Grace Lin"

@@ -3,8 +3,8 @@ name: "UX Research Interview Kit"
 slug: ux-research-interview-kit
 language: en
 tagline: "Builds structured interview kits: screener, guide, notes, and analysis grid for UX research."
-jobs: ["product-development","management"]
-topics: ["research","productivity"]
+jobs: ["product-development","management","science-and-research","creatives"]
+topics: ["research","productivity","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/ux-research-interview-kit
 adapted_from: https://collectivebrain.de/en/skills/ux-research-interview-kit/

@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 200 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 203 Grok Bot templates, 60 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,8 @@ Plan, prioritise and clear the recurring admin. 200 Grok Bot templates, 61 of th
 | [Alfred](alfred.md) | Designs and governs your Grok Bot organization to keep it useful and maintainable. |
 | [Antigravity Workflows](antigravity-workflows.md) | Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints. |
 | [Asana Automation](../../operations/productivity/asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
+| [Atlassian Requirements to Jira](../../product-development/productivity/atlassian-requirements-to-jira.md) | Parse requirements documents and create Jira epics and user stories with duplicate detection and approval workflow. |
+| [Auri Core](../../product-development/productivity/auri-core.md) | Voice assistant product strategy and roadmap assistant for Auri (Alexa + Claude). |
 | [Automation Opportunity Finder](automation-opportunity-finder.md) | Finds, plans, and tracks automation opportunities across your projects and operations. |
 | [Basecamp Automation](../../operations/productivity/basecamp-automation.md) | Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP. |
 | [Before You Build](../../product-development/productivity/before-you-build.md) | Pause before coding to check demand, alternatives, and switching costs. |
@@ -100,12 +102,12 @@ Plan, prioritise and clear the recurring admin. 200 Grok Bot templates, 61 of th
 | [IT Project Risk Manager](../../it-and-development/productivity/it-project-risk-manager.md) | Turns project data into risk registers, response plans, and monitoring updates for IT project managers. |
 | [IT Project Time Planner](../../it-and-development/productivity/it-project-time-planner.md) | Plans, schedules, and tracks IT project time to keep milestones on target. |
 | [IT Stakeholder Strategist](../../it-and-development/productivity/it-stakeholder-strategist.md) | Manages IT project stakeholders from identification to engagement evaluation. |
-| [Jev Browser Operator](jev-browser-operator.md) | Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final. |
 | [Jira](jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
 | [Kody](kody.md) | Coordinates priorities across people, projects, and assistants. |
 | [Lab Collaboration Coordinator](../../science-and-research/productivity/lab-collaboration-coordinator.md) | Coordinates lab communication, collaboration, and reporting for smooth team operations. |
 | [Laboratory Equipment Maintenance Scheduler](../../science-and-research/productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
+| [Linear](../../it-and-development/productivity/linear.md) | Read, create, and update Linear issues, projects, and team workflows. |
 | [Linear Automation](../../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
 | [Linear for Claude](../../product-development/productivity/linear-claude-skill.md) | Manage Linear issues, projects, and teams via API. |
 | [Logistics Crisis Planner](../../operations/productivity/logistics-crisis-planner.md) | Turns logistics crisis data into risk reports, plans, and drills. |
@@ -116,6 +118,7 @@ Plan, prioritise and clear the recurring admin. 200 Grok Bot templates, 61 of th
 | [Multi Agent Brainstorming](../../product-development/productivity/multi-agent-brainstorming.md) | Simulate a structured peer-review process to validate designs and catch failure modes early. |
 | [Not A Vibe Coder](../../product-development/productivity/not-a-vibe-coder.md) | Turns vague project ideas into 8 structured planning files for new projects only. |
 | [Notion Meeting Intelligence](notion-meeting-intelligence.md) | Prep meeting agendas and pre-reads using Notion context and Codex research. |
+| [Notion Spec To Implementation](../../product-development/productivity/notion-spec-to-implementation.md) | Convert Notion specs into implementation plans, tasks, and progress tracking. No Notion, no work. Draft only. Never send or deploy. Report exactly wha |
 | [Odoo Manufacturing Advisor](../../operations/productivity/odoo-manufacturing-advisor.md) | Configure Odoo Manufacturing: BoMs, work centers, routings, MRP runs, and production order workflows. |
 | [Odoo Project Timesheet](../../operations/productivity/odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
 | [OKR Plan Generator](okr-plan-generator.md) | Generates structured OKR plans for teams following Google/Intel methodology. |

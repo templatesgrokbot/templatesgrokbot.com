@@ -3,7 +3,7 @@ name: "Api Security Audit"
 slug: api-security-audit
 language: en
 tagline: "Audits REST APIs for security vulnerabilities and compliance gaps."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","government"]
 topics: ["security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/api-security-audit

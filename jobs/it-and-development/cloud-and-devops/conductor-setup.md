@@ -4,7 +4,7 @@ slug: conductor-setup
 language: en
 tagline: "Configure Rails projects for Conductor parallel coding agents with isolated ports and Redis."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/conductor-setup
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

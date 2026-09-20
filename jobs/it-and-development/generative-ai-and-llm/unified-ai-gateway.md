@@ -4,7 +4,7 @@ slug: unified-ai-gateway
 language: en
 tagline: "Operate a governed AI gateway with nine MCP tools, no provider credentials needed."
 jobs: ["it-and-development","operations"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/unified-ai-gateway
 adapted_from: https://github.com/happy520ai/unified-ai-system/tree/master/skills/unified-ai-gateway

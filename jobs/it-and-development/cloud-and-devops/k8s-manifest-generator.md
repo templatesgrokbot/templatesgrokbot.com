@@ -4,7 +4,7 @@ slug: k8s-manifest-generator
 language: en
 tagline: "Generate production-ready Kubernetes manifests with best practices."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/k8s-manifest-generator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

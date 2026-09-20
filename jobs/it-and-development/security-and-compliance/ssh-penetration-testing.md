@@ -4,7 +4,7 @@ slug: ssh-penetration-testing
 language: en
 tagline: "Audit SSH services for weak configs, credentials, and tunneling risks with step-by-step guidance."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ssh-penetration-testing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

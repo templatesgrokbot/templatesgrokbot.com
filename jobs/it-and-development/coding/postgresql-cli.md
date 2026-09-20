@@ -3,7 +3,7 @@ name: "Postgresql Cli"
 slug: postgresql-cli
 language: en
 tagline: "Interactive PostgreSQL client for querying and inspecting databases. No server management or DBA tasks."
-jobs: ["it-and-development","product-development"]
+jobs: ["it-and-development","product-development","science-and-research"]
 topics: ["coding","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/postgresql-cli

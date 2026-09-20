@@ -4,7 +4,7 @@ slug: playwright-e2e-builder
 language: en
 tagline: "Builds Playwright E2E test suites with Page Object Model and CI integration."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/playwright-e2e-builder
 adapted_from: https://www.aitmpl.com/component/skills/development/playwright-e2e-builder

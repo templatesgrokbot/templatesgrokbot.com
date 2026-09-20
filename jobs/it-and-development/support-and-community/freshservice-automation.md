@@ -4,7 +4,7 @@ slug: freshservice-automation
 language: en
 tagline: "Automate Freshservice ITSM: create, update, search tickets and service requests."
 jobs: ["it-and-development","operations","customer-support"]
-topics: ["support-and-community"]
+topics: ["support-and-community","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/freshservice-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

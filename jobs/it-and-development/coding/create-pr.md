@@ -4,7 +4,7 @@ slug: create-pr
 language: en
 tagline: "Create pull requests following Sentry conventions from the current branch."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/create-pr
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

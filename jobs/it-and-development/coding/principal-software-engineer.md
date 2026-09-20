@@ -4,7 +4,7 @@ slug: principal-software-engineer
 language: en
 tagline: "Provide principal-level software engineering guidance with focus on engineering excellence, technical leadership, and pragmatic implementation."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/principal-software-engineer
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/principal-software-engineer

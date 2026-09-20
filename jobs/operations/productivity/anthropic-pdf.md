@@ -3,8 +3,8 @@ name: "PDF Workflows"
 slug: anthropic-pdf
 language: en
 tagline: "Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe."
-jobs: ["operations","it-and-development"]
-topics: ["productivity"]
+jobs: ["operations","it-and-development","legal","government"]
+topics: ["productivity","office-tools","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/anthropic-pdf
 adapted_from: https://collectivebrain.de/en/skills/anthropic-pdf/

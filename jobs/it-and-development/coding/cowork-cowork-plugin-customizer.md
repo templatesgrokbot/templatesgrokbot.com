@@ -4,7 +4,7 @@ slug: cowork-cowork-plugin-customizer
 language: en
 tagline: "Adapts an existing plugin to your organization's tools, wording, and workflows without forking the code."
 jobs: ["it-and-development","operations"]
-topics: ["coding"]
+topics: ["coding","translation"]
 category: operations
 url: https://templatesgrokbot.com/bot/cowork-cowork-plugin-customizer
 adapted_from: https://collectivebrain.de/en/skills/cowork-cowork-plugin-customizer/

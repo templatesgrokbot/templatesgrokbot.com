@@ -4,7 +4,7 @@ slug: threejs-animation
 language: en
 tagline: "Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI."
 jobs: ["creatives","it-and-development","product-development"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/threejs-animation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

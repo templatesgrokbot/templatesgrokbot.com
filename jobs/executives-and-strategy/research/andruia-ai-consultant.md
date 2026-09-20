@@ -4,7 +4,7 @@ slug: andruia-ai-consultant
 language: en
 tagline: "Diagnoses AI projects and outlines the technical roadmap."
 jobs: ["executives-and-strategy","management","it-and-development"]
-topics: ["research","cloud-and-devops"]
+topics: ["research","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/andruia-ai-consultant
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

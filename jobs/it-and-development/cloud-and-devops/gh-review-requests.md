@@ -4,7 +4,7 @@ slug: gh-review-requests
 language: en
 tagline: "Fetch unread GitHub review requests for a specified team."
 jobs: ["it-and-development","management"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/gh-review-requests
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

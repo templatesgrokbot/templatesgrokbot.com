@@ -4,7 +4,7 @@ slug: paper-2-web
 language: en
 tagline: "Converts academic papers into interactive websites, presentation videos, and conference posters."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","generative-ai-and-llm","generative-video","text-to-video"]
 category: research
 url: https://templatesgrokbot.com/bot/paper-2-web
 adapted_from: https://www.aitmpl.com/component/skills/scientific/paper-2-web

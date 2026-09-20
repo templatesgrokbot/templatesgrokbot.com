@@ -3,8 +3,8 @@ name: "Notion Research Documentation"
 slug: notion-research-documentation
 language: en
 tagline: "Researches your Notion workspace and produces cited briefs, comparisons, or reports."
-jobs: ["operations","management"]
-topics: ["research","knowledge-management"]
+jobs: ["operations","management","science-and-research","legal"]
+topics: ["research","knowledge-management","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/notion-research-documentation
 adapted_from: https://www.aitmpl.com/component/skills/productivity/notion-research-documentation

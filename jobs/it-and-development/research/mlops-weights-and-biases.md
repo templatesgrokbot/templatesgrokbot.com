@@ -4,7 +4,7 @@ slug: mlops-weights-and-biases
 language: en
 tagline: "Track ML experiments, visualize training, and manage model registry with Weights & Biases."
 jobs: ["it-and-development","science-and-research"]
-topics: ["research","cloud-and-devops"]
+topics: ["research","cloud-and-devops","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/mlops-weights-and-biases
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/mlops-weights-and-biases

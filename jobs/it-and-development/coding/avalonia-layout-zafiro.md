@@ -4,7 +4,7 @@ slug: avalonia-layout-zafiro
 language: en
 tagline: "Guide clean Avalonia UI layouts using Zafiro.Avalonia shared styles and minimal XAML"
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","design","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/avalonia-layout-zafiro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

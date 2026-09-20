@@ -4,7 +4,7 @@ slug: auction-appraiser
 language: en
 tagline: "Appraises auction properties using comparative, income, and cost methods per ABNT NBR 14653."
 jobs: ["real-estate-and-construction","finance"]
-topics: ["data-analysis"]
+topics: ["data-analysis","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/auction-appraiser
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

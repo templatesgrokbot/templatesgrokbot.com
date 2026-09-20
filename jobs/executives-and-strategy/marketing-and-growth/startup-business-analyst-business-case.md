@@ -4,7 +4,7 @@ slug: startup-business-analyst-business-case
 language: en
 tagline: "Generate investor-ready business case documents for startup fundraising and strategic planning."
 jobs: ["executives-and-strategy","finance","management"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","writing-and-content","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/startup-business-analyst-business-case
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

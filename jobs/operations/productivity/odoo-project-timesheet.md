@@ -3,8 +3,8 @@ name: "Odoo Project Timesheet"
 slug: odoo-project-timesheet
 language: en
 tagline: "Configure Odoo projects, track billable time, and invoice from approved timesheets."
-jobs: ["operations","management","finance"]
-topics: ["productivity"]
+jobs: ["operations","management","finance","it-and-development"]
+topics: ["productivity","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-project-timesheet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

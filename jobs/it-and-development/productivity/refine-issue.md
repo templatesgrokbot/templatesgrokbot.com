@@ -4,7 +4,7 @@ slug: refine-issue
 language: en
 tagline: "Enriches GitHub issues with acceptance criteria, edge cases, and technical notes."
 jobs: ["it-and-development","product-development"]
-topics: ["productivity","knowledge-management"]
+topics: ["productivity","knowledge-management","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/refine-issue
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/refine-issue

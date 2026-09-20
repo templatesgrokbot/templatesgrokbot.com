@@ -4,7 +4,7 @@ slug: codex-subagent
 language: en
 tagline: "Launch Codex CLI as a sandboxed subagent for bounded coding tasks."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/codex-subagent
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: kubernetes-deployment
 language: en
 tagline: "Deploy applications to Kubernetes with Helm, service mesh, and security."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/kubernetes-deployment
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

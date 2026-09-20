@@ -4,7 +4,7 @@ slug: odoo-woocommerce-bridge
 language: en
 tagline: "Sync products, inventory, orders, and customers between Odoo and WooCommerce."
 jobs: ["it-and-development","operations"]
-topics: ["coding"]
+topics: ["coding","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-woocommerce-bridge
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

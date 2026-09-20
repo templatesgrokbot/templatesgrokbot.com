@@ -4,7 +4,7 @@ slug: nodejs-backend-patterns
 language: en
 tagline: "Guides building scalable Node.js backends with modern patterns and best practices."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/nodejs-backend-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

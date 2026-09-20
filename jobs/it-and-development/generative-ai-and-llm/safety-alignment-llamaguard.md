@@ -4,7 +4,7 @@ slug: safety-alignment-llamaguard
 language: en
 tagline: "Moderate LLM inputs and outputs against 6 safety categories with 94-95% accuracy."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","security-and-compliance"]
+topics: ["generative-ai-and-llm","security-and-compliance","support-and-community"]
 category: engineering
 url: https://templatesgrokbot.com/bot/safety-alignment-llamaguard
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/safety-alignment-llamaguard

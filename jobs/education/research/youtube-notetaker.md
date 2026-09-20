@@ -4,7 +4,7 @@ slug: youtube-notetaker
 language: en
 tagline: "Turn YouTube talks into local markdown study notes with slides and transcripts."
 jobs: ["education","science-and-research"]
-topics: ["research","knowledge-management"]
+topics: ["research","knowledge-management","writing-and-content","speech-to-text"]
 category: education
 url: https://templatesgrokbot.com/bot/youtube-notetaker
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

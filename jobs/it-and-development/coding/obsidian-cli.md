@@ -4,7 +4,7 @@ slug: obsidian-cli
 language: en
 tagline: "Manage Obsidian vault content and develop plugins from the command line."
 jobs: ["it-and-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","knowledge-management","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/obsidian-cli
 adapted_from: https://github.com/kepano/obsidian-skills

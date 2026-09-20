@@ -4,7 +4,7 @@ slug: agents-crewai
 language: en
 tagline: "Orchestrates teams of specialized AI agents to collaborate on complex tasks."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agents-crewai
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/agents-crewai

@@ -4,7 +4,7 @@ slug: mcp-builder
 language: en
 tagline: "Guide users to build MCP servers that connect LLMs to external APIs through well-designed tools."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm","cloud-and-devops"]
+topics: ["coding","generative-ai-and-llm","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mcp-builder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

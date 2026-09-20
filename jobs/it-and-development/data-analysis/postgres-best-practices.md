@@ -4,7 +4,7 @@ slug: postgres-best-practices
 language: en
 tagline: "Optimize Postgres queries, schemas, and configurations against Supabase best practices."
 jobs: ["it-and-development","operations"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/postgres-best-practices
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: burp-suite-testing
 language: en
 tagline: "Guide web app security testing with Burp Suite proxy, repeater, and scanner."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/burp-suite-testing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

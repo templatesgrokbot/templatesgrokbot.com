@@ -4,7 +4,7 @@ slug: azure-logic-apps-expert
 language: en
 tagline: "Guides development of Azure Logic Apps workflows using Workflow Definition Language."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-logic-apps-expert
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/azure-logic-apps-expert

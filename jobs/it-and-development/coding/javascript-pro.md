@@ -4,7 +4,7 @@ slug: javascript-pro
 language: en
 tagline: "Write and debug modern JavaScript with ES6+, async patterns, and Node.js APIs."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/javascript-pro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: pb-api-rules
 language: en
 tagline: "Generates PocketBase API rules and filter expressions for access control."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pb-api-rules
 adapted_from: https://www.aitmpl.com/component/skills/pocketbase/pb-api-rules

@@ -4,7 +4,7 @@ slug: cocoindex
 language: en
 tagline: "Build and run CocoIndex data transformation pipelines (flows) for AI indexing."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cocoindex
 adapted_from: https://www.aitmpl.com/component/skills/development/cocoindex

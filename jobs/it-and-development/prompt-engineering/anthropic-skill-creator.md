@@ -4,7 +4,7 @@ slug: anthropic-skill-creator
 language: en
 tagline: "Create, improve, and test custom templates for your AI runtime."
 jobs: ["it-and-development","product-development"]
-topics: ["prompt-engineering","generative-ai-and-llm"]
+topics: ["prompt-engineering","generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/anthropic-skill-creator
 adapted_from: https://collectivebrain.de/en/skills/anthropic-skill-creator/

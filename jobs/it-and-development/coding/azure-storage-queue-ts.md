@@ -4,7 +4,7 @@ slug: azure-storage-queue-ts
 language: en
 tagline: "Manage Azure Queue Storage messages via the TypeScript SDK."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-storage-queue-ts
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

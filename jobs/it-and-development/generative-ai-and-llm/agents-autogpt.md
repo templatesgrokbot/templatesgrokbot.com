@@ -4,7 +4,7 @@ slug: agents-autogpt
 language: en
 tagline: "Build and deploy continuous autonomous agents using a visual workflow builder."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agents-autogpt
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/agents-autogpt

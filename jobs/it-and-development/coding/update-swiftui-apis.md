@@ -4,7 +4,7 @@ slug: update-swiftui-apis
 language: en
 tagline: "Scan Apple docs for deprecated SwiftUI APIs and update the reference file."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","research","cloud-and-devops"]
+topics: ["coding","research","cloud-and-devops","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/update-swiftui-apis
 adapted_from: https://github.com/AvdLee/SwiftUI-Agent-Skill/tree/main/.agents/skills/update-swiftui-apis

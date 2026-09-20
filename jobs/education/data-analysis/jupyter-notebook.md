@@ -3,7 +3,7 @@ name: "Jupyter Notebook"
 slug: jupyter-notebook
 language: en
 tagline: "Creates and edits reproducible Jupyter notebooks for experiments or tutorials."
-jobs: ["education","science-and-research"]
+jobs: ["education","science-and-research","it-and-development"]
 topics: ["data-analysis","teaching-and-tutoring"]
 category: education
 url: https://templatesgrokbot.com/bot/jupyter-notebook

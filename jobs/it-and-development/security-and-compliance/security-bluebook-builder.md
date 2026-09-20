@@ -4,7 +4,7 @@ slug: security-bluebook-builder
 language: en
 tagline: "Build a concise, enforceable security policy Blue Book with MUST/SHOULD/CAN language."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/security-bluebook-builder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: screenshots
 language: en
 tagline: "Generate HiDPI marketing screenshots of your app using Playwright."
 jobs: ["marketing","product-development"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","marketing-and-growth"]
 category: marketing
 url: https://templatesgrokbot.com/bot/screenshots
 adapted_from: https://github.com/Shpigford/skills/tree/main/screenshots

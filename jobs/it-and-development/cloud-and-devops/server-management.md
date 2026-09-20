@@ -4,7 +4,7 @@ slug: server-management
 language: en
 tagline: "Guides server management decisions without running commands."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/server-management
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

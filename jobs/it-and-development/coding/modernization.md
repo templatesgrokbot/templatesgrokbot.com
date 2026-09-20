@@ -4,7 +4,7 @@ slug: modernization
 language: en
 tagline: "Analyzes a project's codebase exhaustively, then produces a documented modernization plan with architectural recommendations."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","research"]
+topics: ["coding","research","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/modernization
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/modernization

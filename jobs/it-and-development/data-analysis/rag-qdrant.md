@@ -4,7 +4,7 @@ slug: rag-qdrant
 language: en
 tagline: "Manages a Qdrant vector database for RAG and semantic search operations."
 jobs: ["it-and-development"]
-topics: ["data-analysis","generative-ai-and-llm"]
+topics: ["data-analysis","generative-ai-and-llm","knowledge-management"]
 category: research
 url: https://templatesgrokbot.com/bot/rag-qdrant
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/rag-qdrant

@@ -4,7 +4,7 @@ slug: grpc-golang
 language: en
 tagline: "Build production gRPC services in Go with mTLS, streaming, and observability."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/grpc-golang
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: azure-identity-java
 language: en
 tagline: "Authenticate Java apps with Azure using Microsoft Entra ID credentials."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-identity-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: minimalist-ui
 language: en
 tagline: "Build warm monochrome editorial UIs with crisp borders and restrained motion."
 jobs: ["creatives","it-and-development"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/minimalist-ui
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

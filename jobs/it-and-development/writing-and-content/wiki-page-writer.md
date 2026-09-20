@@ -4,7 +4,7 @@ slug: wiki-page-writer
 language: en
 tagline: "Generate technical documentation pages with code-traced depth and Mermaid diagrams."
 jobs: ["it-and-development","writers"]
-topics: ["writing-and-content","coding"]
+topics: ["writing-and-content","coding","research","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wiki-page-writer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: firebase-basics
 language: en
 tagline: "Sets up Firebase projects and configures CLI for mobile or web app development."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/firebase-basics
 adapted_from: https://www.aitmpl.com/component/skills/development/firebase-basics

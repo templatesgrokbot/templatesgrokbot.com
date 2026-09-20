@@ -4,7 +4,7 @@ slug: clinical-decision-support
 language: en
 tagline: "Generates publication-ready clinical decision support documents for pharmaceutical research and evidence synthesis."
 jobs: ["science-and-research","healthcare"]
-topics: ["research","data-analysis","generative-ai-and-llm"]
+topics: ["research","data-analysis","generative-ai-and-llm","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/clinical-decision-support
 adapted_from: https://www.aitmpl.com/component/skills/scientific/clinical-decision-support

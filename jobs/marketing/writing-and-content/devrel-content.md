@@ -4,7 +4,7 @@ slug: devrel-content
 language: en
 tagline: "Create developer content that runs: tutorials, docs, and posts with verified code."
 jobs: ["marketing","it-and-development","creatives"]
-topics: ["writing-and-content","coding"]
+topics: ["writing-and-content","coding","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/devrel-content
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/devrel-content

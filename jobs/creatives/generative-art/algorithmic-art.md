@@ -4,7 +4,7 @@ slug: algorithmic-art
 language: en
 tagline: "Creates original p5.js generative art from algorithmic philosophy to interactive viewer."
 jobs: ["creatives","marketing"]
-topics: ["generative-art","design"]
+topics: ["generative-art","design","coding","generative-code"]
 category: creative
 url: https://templatesgrokbot.com/bot/algorithmic-art
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

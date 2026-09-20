@@ -4,7 +4,7 @@ slug: lookdev-auto
 language: en
 tagline: "Automated visual tuning loop using a vision model as rater for subjective quality."
 jobs: ["creatives","it-and-development","product-development"]
-topics: ["generative-art","generative-video","design"]
+topics: ["generative-art","generative-video","design","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/lookdev-auto
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

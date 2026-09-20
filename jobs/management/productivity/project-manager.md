@@ -3,8 +3,8 @@ name: "Project Manager"
 slug: project-manager
 language: en
 tagline: "Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes"
-jobs: ["management","operations","product-development"]
-topics: ["productivity"]
+jobs: ["management","operations","product-development","real-estate-and-construction","government"]
+topics: ["productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/project-manager
 adapted_from: https://www.aitmpl.com/component/agents/business-marketing/project-manager

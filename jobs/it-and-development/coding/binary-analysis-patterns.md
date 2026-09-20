@@ -3,7 +3,7 @@ name: "Binary Analysis Patterns"
 slug: binary-analysis-patterns
 language: en
 tagline: "Analyze compiled binaries, assembly code, and reconstruct program logic."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","science-and-research"]
 topics: ["coding","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/binary-analysis-patterns

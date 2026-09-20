@@ -4,7 +4,7 @@ slug: agent-qa-result-triage
 language: en
 tagline: "Triage failed Agent QA runs with evidence-backed categories and next steps."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agent-qa-result-triage
 adapted_from: https://github.com/vostride/agent-qa/tree/main/skills/agent-qa-result-triage

@@ -4,7 +4,7 @@ slug: magic-animator
 language: en
 tagline: "Animate static logos, UI, icons, and social assets with AI-driven motion."
 jobs: ["creatives","marketing"]
-topics: ["generative-art","design"]
+topics: ["generative-art","design","generative-video"]
 category: creative
 url: https://templatesgrokbot.com/bot/magic-animator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,8 +3,8 @@ name: "Regulatory Affairs Head"
 slug: regulatory-affairs-head
 language: en
 tagline: "Manages regulatory strategy and submissions for HealthTech and MedTech devices."
-jobs: ["operations","management","executives-and-strategy"]
-topics: ["security-and-compliance"]
+jobs: ["operations","management","executives-and-strategy","legal"]
+topics: ["security-and-compliance","knowledge-management","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/regulatory-affairs-head
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/regulatory-affairs-head

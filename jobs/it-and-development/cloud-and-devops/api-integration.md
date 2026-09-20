@@ -4,7 +4,7 @@ slug: api-integration
 language: en
 tagline: "Designs event-driven architectures, webhook systems, and API integration patterns between services. No implementation or deployment."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/api-integration
 adapted_from: https://github.com/LambdaTest/agent-skills/tree/main/api-skill/api-integration-helper

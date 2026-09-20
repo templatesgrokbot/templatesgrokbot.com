@@ -4,7 +4,7 @@ slug: c4-container
 language: en
 tagline: "Expert C4 Container-level documentation specialist for system deployment."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/c4-container
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

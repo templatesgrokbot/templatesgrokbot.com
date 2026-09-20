@@ -4,7 +4,7 @@ slug: optimization-awq
 language: en
 tagline: "Quantizes large language models to 4-bit with minimal accuracy loss for faster inference on limited GPU memory."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","teaching-and-tutoring","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/optimization-awq
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/optimization-awq

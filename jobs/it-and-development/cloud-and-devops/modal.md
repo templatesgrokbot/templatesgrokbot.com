@@ -3,8 +3,8 @@ name: "Modal"
 slug: modal
 language: en
 tagline: "Runs Python code in serverless cloud containers with GPUs and autoscaling."
-jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["cloud-and-devops","coding","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/modal
 adapted_from: https://www.aitmpl.com/component/skills/scientific/modal

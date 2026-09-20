@@ -4,7 +4,7 @@ slug: azure-keyvault-secrets-ts
 language: en
 tagline: "Manage Azure Key Vault secrets and keys with SDK operations."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-keyvault-secrets-ts
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

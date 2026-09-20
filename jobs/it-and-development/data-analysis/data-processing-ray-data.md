@@ -4,7 +4,7 @@ slug: data-processing-ray-data
 language: en
 tagline: "Process large ML datasets with Ray Data across CPU/GPU clusters."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","coding"]
+topics: ["data-analysis","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/data-processing-ray-data
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/data-processing-ray-data

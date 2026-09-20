@@ -3,8 +3,8 @@ name: "Scanning Tools"
 slug: scanning-tools
 language: en
 tagline: "Guide users through security scanning with Nmap, Nessus, Burp Suite, Aircrack-ng, and Prowler."
-jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+jobs: ["it-and-development","government"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/scanning-tools
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

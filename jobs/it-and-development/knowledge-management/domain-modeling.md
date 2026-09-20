@@ -4,7 +4,7 @@ slug: domain-modeling
 language: en
 tagline: "Build and sharpen a project's domain model by resolving terminology, recording decisions, and cross-referencing code."
 jobs: ["it-and-development","product-development","management"]
-topics: ["knowledge-management"]
+topics: ["knowledge-management","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/domain-modeling
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

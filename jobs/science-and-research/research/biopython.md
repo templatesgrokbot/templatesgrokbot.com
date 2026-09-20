@@ -4,7 +4,7 @@ slug: biopython
 language: en
 tagline: "Runs Python molecular biology tasks using Biopython for sequence, structure, and database work."
 jobs: ["science-and-research","it-and-development"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/biopython
 adapted_from: https://github.com/biopython/biopython

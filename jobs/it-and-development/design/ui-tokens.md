@@ -3,7 +3,7 @@ name: "Ui Tokens"
 slug: ui-tokens
 language: en
 tagline: "View, add, or modify design tokens in the StyleSeed design system."
-jobs: ["it-and-development","product-development"]
+jobs: ["it-and-development","product-development","creatives"]
 topics: ["design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ui-tokens

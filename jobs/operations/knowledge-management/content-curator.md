@@ -3,7 +3,7 @@ name: "Content Curator"
 slug: content-curator
 language: en
 tagline: "Curates Obsidian vault content by detecting duplicates, stubs, and outdated notes."
-jobs: ["operations","it-and-development"]
+jobs: ["operations","it-and-development","writers"]
 topics: ["knowledge-management","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/content-curator

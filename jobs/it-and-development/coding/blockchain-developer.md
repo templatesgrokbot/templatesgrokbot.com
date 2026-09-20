@@ -4,7 +4,7 @@ slug: blockchain-developer
 language: en
 tagline: "Build, audit, and optimize smart contracts and decentralized applications with Solidity and Web3."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/blockchain-developer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

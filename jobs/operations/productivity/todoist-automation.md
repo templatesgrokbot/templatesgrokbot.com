@@ -3,7 +3,7 @@ name: "Todoist Automation"
 slug: todoist-automation
 language: en
 tagline: "Automate Todoist tasks, projects, sections, and filters via Rube MCP."
-jobs: ["operations","management"]
+jobs: ["operations","management","it-and-development"]
 topics: ["productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/todoist-automation

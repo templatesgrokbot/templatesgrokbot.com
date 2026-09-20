@@ -3,7 +3,7 @@ name: "Web Accessibility Checker"
 slug: web-accessibility-checker
 language: en
 tagline: "Audits web pages for WCAG compliance and provides fixable remediation steps. No hype, no emoji, no 'leverage'/'empower'/'seamless'."
-jobs: ["it-and-development","product-development"]
+jobs: ["it-and-development","product-development","government"]
 topics: ["coding","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/web-accessibility-checker

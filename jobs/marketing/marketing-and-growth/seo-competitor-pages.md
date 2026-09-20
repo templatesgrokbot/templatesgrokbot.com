@@ -4,7 +4,7 @@ slug: seo-competitor-pages
 language: en
 tagline: "Create SEO comparison and alternatives pages that convert competitive intent traffic with verified, accurate content."
 jobs: ["marketing","writers"]
-topics: ["marketing-and-growth","writing-and-content"]
+topics: ["marketing-and-growth","writing-and-content","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/seo-competitor-pages
 adapted_from: https://github.com/AgriciDaniel/claude-seo

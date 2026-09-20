@@ -4,7 +4,7 @@ slug: agentic-actions-auditor
 language: en
 tagline: "Static audit of GitHub Actions workflows for AI agent injection vectors."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","coding"]
+topics: ["security-and-compliance","coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agentic-actions-auditor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

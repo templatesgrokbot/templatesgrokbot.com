@@ -4,7 +4,7 @@ slug: seo-sitemap
 language: en
 tagline: "Analyze or generate XML sitemaps with validation and quality checks."
 jobs: ["marketing","operations"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/seo-sitemap
 adapted_from: https://github.com/AgriciDaniel/claude-seo

@@ -4,7 +4,7 @@ slug: atlas-cloud-media
 language: en
 tagline: "Generate images and videos via Atlas Cloud's async media API with schema-first model selection."
 jobs: ["creatives","marketing"]
-topics: ["generative-art","generative-video"]
+topics: ["generative-art","generative-video","text-to-video"]
 category: creative
 url: https://templatesgrokbot.com/bot/atlas-cloud-media
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: scale-benchmarks
 language: en
 tagline: "Reference formulas and known limits for estimating system scale and capacity."
 jobs: ["it-and-development","operations"]
-topics: ["data-analysis"]
+topics: ["data-analysis","cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/scale-benchmarks
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

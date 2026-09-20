@@ -1,6 +1,6 @@
 # Social Media templates for Hospitality and Events
 
-Plan, write and measure posts across networks. 15 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 18 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,8 @@ Plan, write and measure posts across networks. 15 Grok Bot templates, 0 of them 
 | [Brand Voice and Messaging Assistant](../../marketing/social-media/brand-voice-and-messaging-assistant.md) | Crafts and keeps your brand's voice consistent across social media, from captions to strategy. |
 | [Content Command Center](../../pr-and-communications/social-media/content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
 | [Hashtag Strategy Assistant](../../marketing/social-media/hashtag-strategy-assistant.md) | Researches, optimizes, and tracks hashtags for social media campaigns and engagement. |
+| [Instagram Manager](../../marketing/social-media/instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
+| [Linkedin Content Generator](../../marketing/social-media/linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
 | [Presence Audit Optimizer](../../pr-and-communications/social-media/presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |
 | [Reputation Monitoring Assistant](../../pr-and-communications/social-media/reputation-monitoring-assistant.md) | Monitors and analyzes online reputation across platforms for PR specialists. |
 | [Social Content](../../marketing/social-media/social-content.md) | Creates, schedules, and optimizes content across LinkedIn, Twitter/X, Instagram, TikTok, and Facebook. |
@@ -21,5 +23,6 @@ Plan, write and measure posts across networks. 15 Grok Bot templates, 0 of them 
 | [Social Media Content Planner](../../pr-and-communications/social-media/social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |
 | [Social Media SEO Optimizer](../../marketing/social-media/social-media-seo-optimizer.md) | Optimizes social media content for search engines and tracks SEO performance. |
 | [Social Media Strategy Optimizer](../../sales/social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
+| [Social Post Writer Seo](../../marketing/social-media/social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |
 
 [← All Hospitality and Events templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/hospitality-and-events)

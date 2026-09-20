@@ -4,7 +4,7 @@ slug: legal-intake
 language: en
 tagline: "Structures a messy client enquiry into a complete intake record and flags what is missing."
 jobs: ["legal","operations"]
-topics: ["research","knowledge-management"]
+topics: ["research","knowledge-management","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/legal-intake
 ---

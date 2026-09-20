@@ -4,7 +4,7 @@ slug: pptx-posters
 language: en
 tagline: "Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the "
 jobs: ["creatives","education","science-and-research"]
-topics: ["design","research"]
+topics: ["design","research","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/pptx-posters
 adapted_from: https://www.aitmpl.com/component/skills/scientific/pptx-posters

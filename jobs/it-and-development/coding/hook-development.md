@@ -4,7 +4,7 @@ slug: hook-development
 language: en
 tagline: "Creates and manages Claude Code plugin hooks for event-driven automation."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hook-development
 adapted_from: https://www.aitmpl.com/component/skills/development/hook-development

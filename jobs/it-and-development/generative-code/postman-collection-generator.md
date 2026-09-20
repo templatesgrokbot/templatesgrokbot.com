@@ -4,7 +4,7 @@ slug: postman-collection-generator
 language: en
 tagline: "Generate import-ready Postman Collection v2.1 JSON from natural language API descriptions or cURL commands."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code"]
+topics: ["generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/postman-collection-generator
 adapted_from: https://github.com/LambdaTest/agent-skills/tree/main/api-skill/postman/postman-collection-generator

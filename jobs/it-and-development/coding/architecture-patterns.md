@@ -4,7 +4,7 @@ slug: architecture-patterns
 language: en
 tagline: "Design maintainable backend architectures using Clean Architecture, Hexagonal, and DDD patterns."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","design","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/architecture-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

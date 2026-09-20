@@ -4,7 +4,7 @@ slug: claude-code-expert
 language: en
 tagline: "Maximize productivity with Claude Code CLI, hooks, MCPs, and advanced workflows."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","prompt-engineering"]
+topics: ["generative-ai-and-llm","prompt-engineering","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/claude-code-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

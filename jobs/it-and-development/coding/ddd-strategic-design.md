@@ -4,7 +4,7 @@ slug: ddd-strategic-design
 language: en
 tagline: "Design DDD strategic artifacts for complex business domains."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","design","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ddd-strategic-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

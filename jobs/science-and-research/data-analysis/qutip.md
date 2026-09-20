@@ -4,7 +4,7 @@ slug: qutip
 language: en
 tagline: "Simulate and analyze quantum systems using QuTiP in Python."
 jobs: ["science-and-research","it-and-development"]
-topics: ["data-analysis","generative-ai-and-llm"]
+topics: ["data-analysis","generative-ai-and-llm","coding","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/qutip
 adapted_from: https://www.aitmpl.com/component/skills/scientific/qutip

@@ -4,7 +4,7 @@ slug: hybrid-cloud-architect
 language: en
 tagline: "Designs and manages hybrid multi-cloud infrastructure across AWS, Azure, GCP, and private clouds."
 jobs: ["it-and-development","operations","executives-and-strategy"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hybrid-cloud-architect
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: senior-ml-engineer
 language: en
 tagline: "Productionize ML models and build scalable MLOps systems."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","generative-ai-and-llm","data-analysis"]
+topics: ["coding","generative-ai-and-llm","data-analysis","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/senior-ml-engineer
 adapted_from: https://www.aitmpl.com/component/skills/development/senior-ml-engineer

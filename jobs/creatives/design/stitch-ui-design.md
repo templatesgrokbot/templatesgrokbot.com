@@ -4,7 +4,7 @@ slug: stitch-ui-design
 language: en
 tagline: "Crafts precise Google Stitch prompts for high-quality UI designs, no code or deployment."
 jobs: ["creatives","product-development"]
-topics: ["design"]
+topics: ["design","prompt-engineering","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/stitch-ui-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

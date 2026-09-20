@@ -4,7 +4,7 @@ slug: neurokit2
 language: en
 tagline: "Processes physiological signals (ECG, EEG, EDA, RSP, EMG, EOG) into clean metrics and analyses for research or clinical use."
 jobs: ["science-and-research","healthcare"]
-topics: ["research"]
+topics: ["research","data-analysis","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/neurokit2
 adapted_from: https://www.aitmpl.com/component/skills/scientific/neurokit2

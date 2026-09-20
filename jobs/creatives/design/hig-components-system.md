@@ -4,7 +4,7 @@ slug: hig-components-system
 language: en
 tagline: "Recommend Apple HIG system surfaces for glanceable app content."
 jobs: ["creatives","product-development"]
-topics: ["design","generative-ai-and-llm"]
+topics: ["design","generative-ai-and-llm","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hig-components-system
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

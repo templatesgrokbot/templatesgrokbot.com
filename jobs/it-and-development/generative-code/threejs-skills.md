@@ -4,7 +4,7 @@ slug: threejs-skills
 language: en
 tagline: "Build 3D scenes and interactive WebGL experiences with Three.js."
 jobs: ["it-and-development","creatives","product-development"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/threejs-skills
 adapted_from: https://github.com/CloudAI-X/threejs-skills

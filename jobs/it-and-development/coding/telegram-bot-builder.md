@@ -4,7 +4,7 @@ slug: telegram-bot-builder
 language: en
 tagline: "Designs Telegram bots with architecture, inline keyboards, and monetization strategies."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/telegram-bot-builder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

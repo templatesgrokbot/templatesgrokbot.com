@@ -4,7 +4,7 @@ slug: mailchimp-automation
 language: en
 tagline: "Automate Mailchimp email campaigns, audiences, subscribers, and analytics via MCP tools."
 jobs: ["marketing"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","productivity"]
 category: marketing
 url: https://templatesgrokbot.com/bot/mailchimp-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

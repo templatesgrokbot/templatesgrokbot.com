@@ -4,7 +4,7 @@ slug: documentation-engineer
 language: en
 tagline: "Architect and automate documentation systems that stay synchronized with code changes."
 jobs: ["it-and-development","product-development"]
-topics: ["writing-and-content","coding"]
+topics: ["writing-and-content","coding","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/documentation-engineer
 adapted_from: https://www.aitmpl.com/component/agents/documentation/documentation-engineer

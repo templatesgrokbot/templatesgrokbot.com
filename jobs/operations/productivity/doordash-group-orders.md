@@ -3,7 +3,7 @@ name: "Doordash Group Orders"
 slug: doordash-group-orders
 language: en
 tagline: "Manages group DoorDash orders with per-person cost splits and payer rotation tracking."
-jobs: ["operations","management"]
+jobs: ["operations","management","it-and-development"]
 topics: ["productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/doordash-group-orders

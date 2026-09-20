@@ -4,7 +4,7 @@ slug: recsys-pipeline-architect
 language: en
 tagline: "Design composable recommendation and ranking pipelines using the six-stage framework."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/recsys-pipeline-architect
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

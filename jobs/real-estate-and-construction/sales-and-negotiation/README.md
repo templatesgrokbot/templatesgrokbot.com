@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Real Estate and Construction
 
-Prospecting, outreach, proposals and negotiating terms. 15 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 16 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Prospecting, outreach, proposals and negotiating terms. 15 Grok Bot templates, 4
 | [BDM Networking Follow-Up](../../sales/sales-and-negotiation/bdm-networking-follow-up.md) | Plan, execute, and follow up on your networking to grow valuable professional connections. |
 | [Client Communication Assistant](client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
 | [CRM Sales and Marketing Assistant](../../sales/sales-and-negotiation/crm-sales-and-marketing-assistant.md) | CRM assistant that manages leads, segments customers, and analyzes sales performance for your team. |
+| [Harvey Specter](../../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
 | [Lead Lifecycle Manager](../../sales/sales-and-negotiation/lead-lifecycle-manager.md) | Finds, qualifies, and nurtures leads, then tracks and reports on them for sales. |
 | [Personalized Sales Strategy Assistant](../../sales/sales-and-negotiation/personalized-sales-strategy-assistant.md) | Personalized sales strategies from customer data to tailored pitches and follow-ups. |
 | [Real Estate Negotiation Prep](real-estate-negotiation-prep.md) | Prepares real estate brokers for negotiations with market data, strategy, and documentation. |

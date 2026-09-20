@@ -4,7 +4,7 @@ slug: google-docs-automation
 language: en
 tagline: "Create, read, search, and edit Google Docs via OAuth-authenticated scripts."
 jobs: ["operations","it-and-development"]
-topics: ["office-tools","productivity"]
+topics: ["office-tools","productivity","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/google-docs-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

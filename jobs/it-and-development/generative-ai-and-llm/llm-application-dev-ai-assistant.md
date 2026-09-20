@@ -4,7 +4,7 @@ slug: llm-application-dev-ai-assistant
 language: en
 tagline: "Design and build production-ready AI assistants with natural language understanding."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/llm-application-dev-ai-assistant
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,7 +3,7 @@ name: "Helium Mcp"
 slug: helium-mcp
 language: en
 tagline: "Search news with bias analysis, get balanced perspectives, and look up live stock/options data."
-jobs: ["science-and-research","finance"]
+jobs: ["science-and-research","finance","writers"]
 topics: ["research"]
 category: research
 url: https://templatesgrokbot.com/bot/helium-mcp

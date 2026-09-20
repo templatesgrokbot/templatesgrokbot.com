@@ -4,7 +4,7 @@ slug: heygen-best-practices
 language: en
 tagline: "Provides HeyGen API best practices for creating AI avatar videos."
 jobs: ["it-and-development","creatives","marketing"]
-topics: ["generative-video","generative-ai-and-llm","cloud-and-devops"]
+topics: ["generative-video","generative-ai-and-llm","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/heygen-best-practices
 adapted_from: https://www.aitmpl.com/component/skills/development/heygen-best-practices

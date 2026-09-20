@@ -4,7 +4,7 @@ slug: brain-to-docs
 language: en
 tagline: "Interview users to extract project vision and decisions into README and ADR docs."
 jobs: ["it-and-development","product-development","management"]
-topics: ["knowledge-management","research"]
+topics: ["knowledge-management","research","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/brain-to-docs
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

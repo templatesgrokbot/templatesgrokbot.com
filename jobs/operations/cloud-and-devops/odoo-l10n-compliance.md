@@ -4,7 +4,7 @@ slug: odoo-l10n-compliance
 language: en
 tagline: "Configure Odoo localization and e-invoicing for country-specific tax compliance."
 jobs: ["operations","finance"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-l10n-compliance
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

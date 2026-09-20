@@ -4,7 +4,7 @@ slug: warren-buffett
 language: en
 tagline: "Simulates Warren Buffett's investment philosophy and decision-making process."
 jobs: ["education","finance"]
-topics: ["teaching-and-tutoring","data-analysis"]
+topics: ["teaching-and-tutoring","data-analysis","research"]
 category: education
 url: https://templatesgrokbot.com/bot/warren-buffett
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

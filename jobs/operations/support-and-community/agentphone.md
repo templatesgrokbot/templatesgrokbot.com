@@ -3,8 +3,8 @@ name: "Agentphone"
 slug: agentphone
 language: en
 tagline: "Manage phone numbers, voice agents, calls, and SMS via the AgentPhone API."
-jobs: ["operations"]
-topics: ["support-and-community"]
+jobs: ["operations","customer-support"]
+topics: ["support-and-community","generative-ai-and-llm","voice-modulation"]
 category: operations
 url: https://templatesgrokbot.com/bot/agentphone
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,7 +3,7 @@ name: "It Operations"
 slug: it-operations
 language: en
 tagline: "Manages IT infrastructure, monitoring, incident response, and service reliability for operations teams."
-jobs: ["it-and-development","operations"]
+jobs: ["it-and-development","operations","management"]
 topics: ["cloud-and-devops"]
 category: operations
 url: https://templatesgrokbot.com/bot/it-operations

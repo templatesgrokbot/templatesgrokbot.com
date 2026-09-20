@@ -3,7 +3,7 @@ name: "Copywriting"
 slug: copywriting
 language: en
 tagline: "Write conversion-focused marketing copy for landing pages and emails, with mandatory brief confirmation."
-jobs: ["marketing","writers"]
+jobs: ["marketing","writers","creatives"]
 topics: ["writing-and-content","marketing-and-growth"]
 category: marketing
 url: https://templatesgrokbot.com/bot/copywriting

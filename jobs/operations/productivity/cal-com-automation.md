@@ -3,8 +3,8 @@ name: "Cal Com Automation"
 slug: cal-com-automation
 language: en
 tagline: "Automate Cal.com scheduling: bookings, availability, webhooks, and teams via Composio."
-jobs: ["operations","customer-support"]
-topics: ["productivity","support-and-community"]
+jobs: ["operations","customer-support","it-and-development"]
+topics: ["productivity","support-and-community","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/cal-com-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

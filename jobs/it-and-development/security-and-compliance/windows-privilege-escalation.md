@@ -4,7 +4,7 @@ slug: windows-privilege-escalation
 language: en
 tagline: "Guide systematic Windows privilege escalation enumeration and exploitation."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","cloud-and-devops"]
+topics: ["security-and-compliance","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/windows-privilege-escalation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

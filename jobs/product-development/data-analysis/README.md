@@ -1,12 +1,13 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 75 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 78 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Ab Test Setup](../../it-and-development/data-analysis/ab-test-setup.md) | Plan statistically valid A/B tests with locked hypothesis, sample size, and pre-launch checklist. |
+| [Ab Testing](../../marketing/data-analysis/ab-testing.md) | Design statistically valid A/B tests and growth experiments. |
 | [Amplitude Automation](../../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
 | [Analytics](../../marketing/data-analysis/analytics.md) | Set up, audit, and improve analytics tracking for actionable marketing and product insights. |
 | [Analytics Product](../../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
@@ -69,10 +70,12 @@ Clean, query, chart and explain data. 75 Grok Bot templates, 34 of them filed in
 | [R&D Cost-Benefit Analyst](r-d-cost-benefit-analyst.md) | Runs cost-benefit analysis for R&D projects from data collection to decision support. |
 | [R&D Data Analysis Assistant](r-d-data-analysis-assistant.md) | Collects, cleans, analyzes, and visualizes data for R&D engineers, from scraping to dashboards. |
 | [Reliability Maintenance Planner](reliability-maintenance-planner.md) | Analyzes equipment data to plan maintenance, optimize inventory, and improve reliability. |
+| [Risk Management Specialist](../../operations/data-analysis/risk-management-specialist.md) | Manages ISO 14971 risk management files for medical devices throughout the product lifecycle. |
 | [Screenshot Business Analyzer](../../operations/data-analysis/screenshot-business-analyzer.md) | Extracts business logic, functional modules, and data entities from UI screenshots. No code, just what the system does. No output if no screenshot pro |
 | [Shopify Review Triage](../../customer-support/data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
 | [Simpy](../../it-and-development/data-analysis/simpy.md) | Builds and runs discrete-event simulations of systems with queues, resources, and timed processes. |
 | [Simulation Model Development Assistant](simulation-model-development-assistant.md) | Simulation model development assistant for R&D engineers, from data to validation and reporting. |
+| [Startup Metrics Framework](../../executives-and-strategy/data-analysis/startup-metrics-framework.md) | Track and optimize startup KPIs from seed through Series A. |
 | [Supply Chain Impact Analyst](supply-chain-impact-analyst.md) | Analyzes packaging supply chain impacts and recommends sustainable, cost-effective improvements. |
 | [Survey Insight Analyzer](../../executives-and-strategy/data-analysis/survey-insight-analyzer.md) | Turns raw survey responses into cleaned, analyzed, and visualized insights for founders. |
 | [SVP Product Market Analyst](../../executives-and-strategy/data-analysis/svp-product-market-analyst.md) | Turns market data into product decisions for senior product leaders. |

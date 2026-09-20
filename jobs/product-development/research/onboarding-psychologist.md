@@ -4,7 +4,7 @@ slug: onboarding-psychologist
 language: en
 tagline: "Design onboarding flows that build habits through early wins and identity shift."
 jobs: ["product-development","marketing"]
-topics: ["research","marketing-and-growth"]
+topics: ["research","marketing-and-growth","design"]
 category: research
 url: https://templatesgrokbot.com/bot/onboarding-psychologist
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

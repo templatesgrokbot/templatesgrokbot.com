@@ -4,7 +4,7 @@ slug: ui-visual-validator
 language: en
 tagline: "Rigorous UI visual validation expert for design system and accessibility compliance."
 jobs: ["it-and-development","creatives"]
-topics: ["design","generative-ai-and-llm"]
+topics: ["design","generative-ai-and-llm","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ui-visual-validator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

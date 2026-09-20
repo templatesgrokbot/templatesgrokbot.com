@@ -4,7 +4,7 @@ slug: workflow-orchestration-patterns
 language: en
 tagline: "Design reliable distributed workflows with Temporal orchestration patterns."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/workflow-orchestration-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

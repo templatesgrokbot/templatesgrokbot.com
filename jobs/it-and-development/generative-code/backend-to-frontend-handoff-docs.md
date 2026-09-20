@@ -4,7 +4,7 @@ slug: backend-to-frontend-handoff-docs
 language: en
 tagline: "Generate API handoff docs for frontend developers from completed backend code."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code","knowledge-management"]
+topics: ["generative-code","knowledge-management","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/backend-to-frontend-handoff-docs
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/backend-to-frontend-handoff-docs

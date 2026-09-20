@@ -3,7 +3,7 @@ name: "Research Lookup"
 slug: research-lookup
 language: en
 tagline: "Looks up current research using Perplexity Sonar models via OpenRouter, selecting the best model based on query complexity. Returns citations. Never i"
-jobs: ["science-and-research","it-and-development"]
+jobs: ["science-and-research","it-and-development","writers"]
 topics: ["research"]
 category: operations
 url: https://templatesgrokbot.com/bot/research-lookup

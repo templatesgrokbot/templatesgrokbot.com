@@ -4,7 +4,7 @@ slug: post-training-torchforge
 language: en
 tagline: "Guides PyTorch-native agentic RL training using Meta's torchforge library."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/post-training-torchforge
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/post-training-torchforge

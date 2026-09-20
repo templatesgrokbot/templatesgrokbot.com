@@ -4,7 +4,7 @@ slug: latex-paper-conversion
 language: en
 tagline: "Automates LaTeX paper conversion between publisher templates."
 jobs: ["science-and-research","education"]
-topics: ["writing-and-content","research"]
+topics: ["writing-and-content","research","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/latex-paper-conversion
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

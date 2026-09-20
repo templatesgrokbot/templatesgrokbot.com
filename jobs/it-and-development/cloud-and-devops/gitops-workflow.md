@@ -4,7 +4,7 @@ slug: gitops-workflow
 language: en
 tagline: "Configures GitOps pipelines for Kubernetes with ArgoCD or Flux."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/gitops-workflow
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

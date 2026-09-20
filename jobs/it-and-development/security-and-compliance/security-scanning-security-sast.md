@@ -3,7 +3,7 @@ name: "Security Scanning Security Sast"
 slug: security-scanning-security-sast
 language: en
 tagline: "Static code analysis for vulnerabilities across languages and frameworks."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","government"]
 topics: ["security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/security-scanning-security-sast

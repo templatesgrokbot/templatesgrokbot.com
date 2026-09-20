@@ -4,7 +4,7 @@ slug: senior-data-engineer
 language: en
 tagline: "Designs and maintains scalable data pipelines and infrastructure for production data systems."
 jobs: ["it-and-development"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/senior-data-engineer
 adapted_from: https://www.aitmpl.com/component/skills/development/senior-data-engineer

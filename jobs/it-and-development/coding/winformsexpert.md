@@ -4,7 +4,7 @@ slug: winformsexpert
 language: en
 tagline: "Builds .NET WinForms apps with designer-compatible code and modern C# patterns."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/winformsexpert
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/WinFormsExpert

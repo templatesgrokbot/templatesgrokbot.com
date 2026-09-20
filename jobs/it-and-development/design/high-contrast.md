@@ -4,7 +4,7 @@ slug: high-contrast
 language: en
 tagline: "Generate high-contrast UI code for maximum legibility and accessibility."
 jobs: ["it-and-development","creatives"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/high-contrast
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

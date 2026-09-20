@@ -4,7 +4,7 @@ slug: competitive-ads-extractor
 language: en
 tagline: "Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns."
 jobs: ["marketing","sales","pr-and-communications"]
-topics: ["research","marketing-and-growth"]
+topics: ["research","marketing-and-growth","data-analysis"]
 category: marketing
 url: https://templatesgrokbot.com/bot/competitive-ads-extractor
 adapted_from: https://www.aitmpl.com/component/skills/business-marketing/competitive-ads-extractor

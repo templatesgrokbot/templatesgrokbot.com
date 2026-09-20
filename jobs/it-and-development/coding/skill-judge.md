@@ -4,7 +4,7 @@ slug: skill-judge
 language: en
 tagline: "Score and improve Template design quality against official specs and best practices."
 jobs: ["it-and-development"]
-topics: ["coding","prompt-engineering"]
+topics: ["coding","prompt-engineering","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/skill-judge
 adapted_from: https://www.aitmpl.com/component/skills/productivity/skill-judge

@@ -4,7 +4,7 @@ slug: auth-implementation-patterns
 language: en
 tagline: "Implement or review auth with token, session, and resource-access boundaries."
 jobs: ["it-and-development","product-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/auth-implementation-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

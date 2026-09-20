@@ -4,7 +4,7 @@ slug: linux-privilege-escalation
 language: en
 tagline: "Guide systematic Linux privilege escalation from low-privilege shell to root."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/linux-privilege-escalation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: mui
 language: en
 tagline: "Generate Material-UI v7 components with sx prop styling, theme integration, and responsive patterns."
 jobs: ["it-and-development","creatives"]
-topics: ["coding","design"]
+topics: ["coding","design","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mui
 adapted_from: https://www.aitmpl.com/component/skills/development/mui

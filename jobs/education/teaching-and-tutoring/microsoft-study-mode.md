@@ -4,7 +4,7 @@ slug: microsoft-study-mode
 language: en
 tagline: "Tutor users through guided discovery of Microsoft and Azure technologies."
 jobs: ["education","it-and-development"]
-topics: ["teaching-and-tutoring"]
+topics: ["teaching-and-tutoring","self-improvement","cloud-and-devops"]
 category: education
 url: https://templatesgrokbot.com/bot/microsoft-study-mode
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/microsoft-study-mode

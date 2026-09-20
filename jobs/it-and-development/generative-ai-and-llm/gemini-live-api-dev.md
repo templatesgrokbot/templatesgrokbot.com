@@ -4,7 +4,7 @@ slug: gemini-live-api-dev
 language: en
 tagline: "Build real-time bidirectional streaming apps with the Gemini Live API over WebSockets."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/gemini-live-api-dev
 adapted_from: https://github.com/google-gemini/gemini-skills/tree/main/skills/gemini-live-api-dev

@@ -4,7 +4,7 @@ slug: commit-work
 language: en
 tagline: "Stage, split, and commit changes with clear Conventional Commit messages."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/commit-work
 adapted_from: https://www.aitmpl.com/component/skills/productivity/commit-work

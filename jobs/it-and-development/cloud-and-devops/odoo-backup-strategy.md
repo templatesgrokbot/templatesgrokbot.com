@@ -4,7 +4,7 @@ slug: odoo-backup-strategy
 language: en
 tagline: "Backup and restore Odoo databases and filestores with automated scripts."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-backup-strategy
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: rag-faiss
 language: en
 tagline: "Build and query billion-scale vector indexes for similarity search. No metadata filtering. No database features. Just fast nearest-neighbor search. Yo"
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","generative-ai-and-llm","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/rag-faiss
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/rag-faiss

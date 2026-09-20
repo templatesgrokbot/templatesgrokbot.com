@@ -4,7 +4,7 @@ slug: gemini-api-agent-platform
 language: en
 tagline: "Guides Gemini API usage on Agent Platform with the Gen AI SDK for enterprise applications."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/gemini-api-agent-platform
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/gemini-api-agent-platform

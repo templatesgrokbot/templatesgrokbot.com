@@ -4,7 +4,7 @@ slug: co-marketing
 language: en
 tagline: "Find co-marketing partners and plan joint campaigns for SaaS products."
 jobs: ["marketing","sales","executives-and-strategy"]
-topics: ["marketing-and-growth","sales-and-negotiation"]
+topics: ["marketing-and-growth","sales-and-negotiation","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/co-marketing
 adapted_from: https://github.com/coreyhaines31/marketingskills/tree/main/skills/co-marketing

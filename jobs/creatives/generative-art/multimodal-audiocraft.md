@@ -4,7 +4,7 @@ slug: multimodal-audiocraft
 language: en
 tagline: "Generates music and sound effects from text descriptions using AudioCraft models."
 jobs: ["creatives","it-and-development"]
-topics: ["generative-art","text-to-speech"]
+topics: ["generative-art","text-to-speech","generative-ai-and-llm","prompt-engineering"]
 category: research
 url: https://templatesgrokbot.com/bot/multimodal-audiocraft
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/multimodal-audiocraft

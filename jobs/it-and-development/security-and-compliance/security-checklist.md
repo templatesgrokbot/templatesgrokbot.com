@@ -4,7 +4,7 @@ slug: security-checklist
 language: en
 tagline: "Reference document for Monopoly security hardening checklist."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/security-checklist
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

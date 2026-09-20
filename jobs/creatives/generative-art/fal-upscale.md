@@ -4,7 +4,7 @@ slug: fal-upscale
 language: en
 tagline: "Upscale and enhance image and video resolution using AI."
 jobs: ["creatives","marketing"]
-topics: ["generative-art","video-editing"]
+topics: ["generative-art","video-editing","design"]
 category: creative
 url: https://templatesgrokbot.com/bot/fal-upscale
 adapted_from: https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-upscale/SKILL.md

@@ -4,7 +4,7 @@ slug: triage
 language: en
 tagline: "Triage issues and PRs through a state machine to agent-ready briefs."
 jobs: ["it-and-development","product-development","management"]
-topics: ["productivity"]
+topics: ["productivity","support-and-community"]
 category: engineering
 url: https://templatesgrokbot.com/bot/triage
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: distributed-training-ray-train
 language: en
 tagline: "Scales PyTorch, TensorFlow, and HuggingFace training from one GPU to thousands of nodes across a cluster."
 jobs: ["it-and-development","science-and-research","product-development"]
-topics: ["generative-ai-and-llm","cloud-and-devops"]
+topics: ["generative-ai-and-llm","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/distributed-training-ray-train
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/distributed-training-ray-train

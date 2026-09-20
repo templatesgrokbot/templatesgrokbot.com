@@ -4,7 +4,7 @@ slug: protect-mcp-governance
 language: en
 tagline: "Govern MCP tool calls with Cedar policies and Ed25519 signed receipts."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/protect-mcp-governance
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

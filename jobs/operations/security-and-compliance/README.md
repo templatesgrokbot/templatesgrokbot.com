@@ -1,12 +1,13 @@
 # Security & Compliance templates for Operations
 
-Authorised security testing, audits and regulatory work. 109 Grok Bot templates, 52 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 110 Grok Bot templates, 52 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Accident Investigation Support Assistant](accident-investigation-support-assistant.md) | Accident investigation support for safety engineers: collect evidence, analyze causes, write reports, and ensure compliance. |
+| [Aegisops Ai](../../it-and-development/security-and-compliance/aegisops-ai.md) | Autonomous DevSecOps & FinOps guardrails for kernel patches, Terraform costs, and K8s compliance. |
 | [Akf Trust Metadata](../../it-and-development/security-and-compliance/akf-trust-metadata.md) | Stamp, inspect, and audit AI file provenance and trust metadata for compliance. |
 | [Audit Preparation Assistant](audit-preparation-assistant.md) | Prepares audits for quality control inspectors by organizing documents, analyzing data, and generating reports. |
 | [Aws Compliance Checker](../../it-and-development/security-and-compliance/aws-compliance-checker.md) | Automated compliance checks against CIS, PCI-DSS, HIPAA, and SOC 2 for AWS. |

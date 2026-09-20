@@ -4,7 +4,7 @@ slug: figma
 language: en
 tagline: "Fetches Figma designs and translates them into production code."
 jobs: ["it-and-development","product-development","creatives"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/figma
 adapted_from: https://www.aitmpl.com/component/skills/creative-design/figma

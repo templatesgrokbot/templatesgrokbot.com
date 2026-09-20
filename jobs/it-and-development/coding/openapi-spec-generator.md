@@ -4,7 +4,7 @@ slug: openapi-spec-generator
 language: en
 tagline: "Generate complete, valid OpenAPI 3.x or Swagger 2.0 specs from descriptions, code, or partial specs."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code","cloud-and-devops"]
+topics: ["coding","generative-code","cloud-and-devops","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/openapi-spec-generator
 adapted_from: https://github.com/LambdaTest/agent-skills/tree/main/api-skill/openapi-spec-generator

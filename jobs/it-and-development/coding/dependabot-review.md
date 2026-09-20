@@ -4,7 +4,7 @@ slug: dependabot-review
 language: en
 tagline: "Reviews open Dependabot PRs, classifies risk, checks CI, and auto-merges safe updates."
 jobs: ["it-and-development"]
-topics: ["coding","security-and-compliance"]
+topics: ["coding","security-and-compliance","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/dependabot-review
 adapted_from: https://www.aitmpl.com/component/skills/workflow-automation/dependabot-review

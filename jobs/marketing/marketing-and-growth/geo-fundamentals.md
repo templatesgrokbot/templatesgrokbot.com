@@ -4,7 +4,7 @@ slug: geo-fundamentals
 language: en
 tagline: "Audits content for citation by AI search engines like ChatGPT, Claude, and Perplexity."
 jobs: ["marketing","it-and-development"]
-topics: ["marketing-and-growth","research"]
+topics: ["marketing-and-growth","research","generative-ai-and-llm"]
 category: marketing
 url: https://templatesgrokbot.com/bot/geo-fundamentals
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

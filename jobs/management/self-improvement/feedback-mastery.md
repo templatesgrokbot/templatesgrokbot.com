@@ -3,8 +3,8 @@ name: "Feedback Mastery"
 slug: feedback-mastery
 language: en
 tagline: "Prepare, deliver, and follow up on constructive feedback using structured frameworks."
-jobs: ["management","human-resources"]
-topics: ["self-improvement","productivity"]
+jobs: ["management","human-resources","healthcare","product-development"]
+topics: ["self-improvement","productivity","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/feedback-mastery
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/feedback-mastery

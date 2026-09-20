@@ -4,7 +4,7 @@ slug: devops-incident-responder
 language: en
 tagline: "Responds to production incidents, diagnoses failures, and drives postmortems to prevent recurrence."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","writing-and-content","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/devops-incident-responder
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/devops-incident-responder

@@ -4,7 +4,7 @@ slug: synthwave
 language: en
 tagline: "Build 80s neon web and app interfaces with dark backgrounds, glowing grids, and synthwave aesthetics."
 jobs: ["creatives","it-and-development"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/synthwave
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

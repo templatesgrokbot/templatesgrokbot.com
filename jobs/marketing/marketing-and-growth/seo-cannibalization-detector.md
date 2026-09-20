@@ -4,7 +4,7 @@ slug: seo-cannibalization-detector
 language: en
 tagline: "Analyzes pages for keyword overlap and suggests differentiation strategies."
 jobs: ["marketing"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","data-analysis"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-cannibalization-detector
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

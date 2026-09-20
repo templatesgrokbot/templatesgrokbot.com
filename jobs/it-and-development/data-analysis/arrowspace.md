@@ -4,7 +4,7 @@ slug: arrowspace
 language: en
 tagline: "Spectral vector search using graph Laplacian eigenstructure for latent structure"
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis"]
+topics: ["data-analysis","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/arrowspace
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

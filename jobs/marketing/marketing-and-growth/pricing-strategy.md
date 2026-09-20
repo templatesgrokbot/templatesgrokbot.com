@@ -4,7 +4,7 @@ slug: pricing-strategy
 language: en
 tagline: "Designs pricing, packaging, and monetization strategy based on customer willingness to pay and growth objectives."
 jobs: ["marketing","product-development","executives-and-strategy"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/pricing-strategy
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

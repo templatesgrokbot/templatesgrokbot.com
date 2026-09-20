@@ -4,7 +4,7 @@ slug: architecture-decision-records
 language: en
 tagline: "Create and manage ADRs capturing rationale for significant technical decisions."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","knowledge-management","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/architecture-decision-records
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

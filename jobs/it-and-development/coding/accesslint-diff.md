@@ -4,7 +4,7 @@ slug: accesslint-diff
 language: en
 tagline: "Diff live page accessibility violations against a git baseline, reporting only new and fixed issues."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/accesslint-diff
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

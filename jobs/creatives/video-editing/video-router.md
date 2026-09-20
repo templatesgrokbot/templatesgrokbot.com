@@ -4,7 +4,7 @@ slug: video-router
 language: en
 tagline: "Route video briefs to generate, compose, edit, or AUTO before production starts."
 jobs: ["creatives","operations"]
-topics: ["video-editing","generative-video"]
+topics: ["video-editing","generative-video","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/video-router
 adapted_from: https://github.com/Orkas-AI/Orkas-VideoStudio/tree/dd4a0f40b2bc6c6b0fe6f2e732c9540ffffefe08/packages/skills/video-router

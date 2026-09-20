@@ -3,7 +3,7 @@ name: "Notion Spec To Implementation"
 slug: notion-spec-to-implementation
 language: en
 tagline: "Convert Notion specs into implementation plans, tasks, and progress tracking. No Notion, no work. Draft only. Never send or deploy. Report exactly wha"
-jobs: ["product-development","operations"]
+jobs: ["product-development","operations","management"]
 topics: ["productivity","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/notion-spec-to-implementation

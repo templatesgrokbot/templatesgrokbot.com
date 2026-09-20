@@ -4,7 +4,7 @@ slug: resume-ats-optimizer
 language: en
 tagline: "Analyzes resumes for ATS compatibility and optimizes keyword match against job descriptions."
 jobs: ["human-resources","it-and-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","productivity","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/resume-ats-optimizer
 adapted_from: https://www.aitmpl.com/component/skills/career/resume-ats-optimizer

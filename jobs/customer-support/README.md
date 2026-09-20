@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **172 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **183 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,20 @@ Answering, routing and resolving customer requests. **172 ready-made Grok Bot te
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 76 |
+| [Support & Community](support-and-community/README.md) | 77 |
 | [Data Analysis](data-analysis/README.md) | 35 |
-| [Productivity](productivity/README.md) | 17 |
-| [Writing & Content](writing-and-content/README.md) | 9 |
-| [Knowledge Management](knowledge-management/README.md) | 6 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 5 |
+| [Productivity](productivity/README.md) | 20 |
+| [Writing & Content](writing-and-content/README.md) | 10 |
+| [Knowledge Management](knowledge-management/README.md) | 8 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 6 |
+| [Coding](coding/README.md) | 5 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 4 |
 | [Security & Compliance](security-and-compliance/README.md) | 4 |
 | [Translation](translation/README.md) | 4 |
-| [Coding](coding/README.md) | 3 |
 | [Research](research/README.md) | 3 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Office Tools](office-tools/README.md) | 1 |
+| [Self-Improvement](self-improvement/README.md) | 1 |
 | [Social Media](social-media/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
@@ -33,6 +34,7 @@ Answering, routing and resolving customer requests. **172 ready-made Grok Bot te
 | Template | What it does |
 |---|---|
 | [After-Sales Service Assistant](../sales/support-and-community/after-sales-service-assistant.md) | Handles after-sales service tasks: follow-ups, troubleshooting, feedback, and more. |
+| [Agentphone](../operations/support-and-community/agentphone.md) | Manage phone numbers, voice agents, calls, and SMS via the AgentPhone API. |
 | [Call Center Crisis Supervisor](support-and-community/call-center-crisis-supervisor.md) | Helps call center supervisors manage crises from detection to post-crisis review. |
 | [Claims Processing Assistant](support-and-community/claims-processing-assistant.md) | Handles claim inquiries, document collection, status updates, and appeals for insurance customer service. |
 | [Client Communication Manager](../legal/support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
@@ -159,6 +161,7 @@ Answering, routing and resolving customer requests. **172 ready-made Grok Bot te
 | [Calendly Automation](../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Call Center Scheduling Optimizer](productivity/call-center-scheduling-optimizer.md) | Optimizes call center shift planning, coverage, and compliance from staff data. |
 | [Call Handling Assistant](productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
+| [Decision Navigator](../management/productivity/decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
 | [Emergency Preparedness Assistant](productivity/emergency-preparedness-assistant.md) | Prepares emergency plans, contacts, supplies, and drills for your workplace. |
 | [Event Coordination Assistant](productivity/event-coordination-assistant.md) | Plans and runs events from scheduling to post-event follow-up. |
 | [Inventory Tracking Assistant](productivity/inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |
@@ -166,8 +169,10 @@ Answering, routing and resolving customer requests. **172 ready-made Grok Bot te
 | [Screenshot](../it-and-development/productivity/screenshot.md) | Captures desktop screenshots on macOS, Linux, or Windows when explicitly requested. |
 | [Setup Help](../it-and-development/productivity/setup-help.md) | Guide users through multi-step setup one action at a time. |
 | [Spark](../operations/productivity/spark.md) | Guides new users through a short questionnaire, then automatically creates the bots and connectors they need. |
+| [Task Distributor](../operations/productivity/task-distributor.md) | Distributes tasks across workers to maximize throughput while respecting priorities and deadlines. No hype, no emoji, no 'leverage'/'empower'/'seamles |
 | [Telegram Automation](../operations/productivity/telegram-automation.md) | Automate Telegram messaging, chat management, and bot commands via MCP tools. |
 | [Telegram Bot Messaging](../operations/productivity/telegram-bot-messaging.md) | Send Telegram messages, files, alerts, and approval prompts via bot API. |
+| [Template Router](../operations/productivity/skill-router.md) | Interviews users and recommends the best installed capability for their goal. |
 | [Travel Arrangement Coordinator](productivity/travel-arrangement-coordinator.md) | Plans and books client travel from flights to insurance in one place. |
 | [Visitor Management Assistant](productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
 
@@ -179,6 +184,7 @@ Answering, routing and resolving customer requests. **172 ready-made Grok Bot te
 | [Call Script Optimization Assistant](writing-and-content/call-script-optimization-assistant.md) | Optimizes call center scripts for clarity, empathy, compliance, and sales effectiveness. |
 | [Crossframe Dialogue](../writers/writing-and-content/crossframe-dialogue.md) | Short, structured replies for reader questions, editorial responses, and consultation-style answers. |
 | [Documentation and Reporting Assistant](writing-and-content/documentation-and-reporting-assistant.md) | Turn your technical support knowledge into clear, accurate documentation and reports. |
+| [Email Composer](../operations/writing-and-content/email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
 | [Patent Client Communication Assistant](../legal/writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
 | [Policy Update Communications Assistant](writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
 | [Receptionist Communication Assistant](writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
@@ -190,11 +196,13 @@ Answering, routing and resolving customer requests. **172 ready-made Grok Bot te
 | Template | What it does |
 |---|---|
 | [Document Organization Assistant](knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
+| [Handoff](../it-and-development/knowledge-management/handoff.md) | Compacts a conversation into a handoff document for another agent. |
 | [Insurance Training and Knowledge Manager](knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
 | [Knowledge Base Article Assistant](../it-and-development/knowledge-management/knowledge-base-article-assistant.md) | Turns help desk know-how into clear, accurate knowledge base articles. |
 | [Knowledge Base Builder](knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
 | [Knowledge Base Expansion Assistant](knowledge-management/knowledge-base-expansion-assistant.md) | Expands and maintains your product knowledge base with researched, translated, and user-focused content. |
 | [Knowledge Base Maintenance Assistant](knowledge-management/knowledge-base-maintenance-assistant.md) | Maintains your knowledge base: creates, edits, categorizes, links, translates, and tracks articles for customer support. |
+| [Memory Search](../it-and-development/knowledge-management/memory-search.md) | Search conversation history and semantic memory to recall past discussions and decisions. |
 
 ## Cloud & DevOps
 
@@ -204,7 +212,18 @@ Answering, routing and resolving customer requests. **172 ready-made Grok Bot te
 | [Pagerduty Automation](../it-and-development/cloud-and-devops/pagerduty-automation.md) | Automate PagerDuty incident, service, schedule, and escalation management via Rube MCP. |
 | [Performance Optimization Assistant](cloud-and-devops/performance-optimization-assistant.md) | Optimizes system performance through code, database, network, and resource analysis. |
 | [System Upgrade Coordinator](cloud-and-devops/system-upgrade-coordinator.md) | Plans, executes, and supports system upgrades with minimal disruption. |
+| [Using Neon](../it-and-development/cloud-and-devops/using-neon.md) | Answer Neon Serverless Postgres questions using official docs and guides. |
 | [WhatsApp Cloud API](../it-and-development/cloud-and-devops/whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |
+
+## Coding
+
+| Template | What it does |
+|---|---|
+| [Ask Questions If Underspecified](../it-and-development/coding/ask-questions-if-underspecified.md) | Clarify ambiguous requests before implementing to avoid wrong work. |
+| [Chat Widget](../it-and-development/coding/chat-widget.md) | Build a real-time support chat widget with admin dashboard. |
+| [Diagnose Android Overheating](../it-and-development/coding/diagnose-android-overheating.md) | Diagnose Android overheating via read-only ADB evidence, correlation, and approval-gated fixes. |
+| [Sendblue Api](../it-and-development/coding/sendblue-api.md) | Send and receive iMessage, SMS, and RCS via the Sendblue HTTP API. |
+| [Twilio Communications](../it-and-development/coding/twilio-communications.md) | Send SMS, verify phone numbers, and build IVR systems using Twilio APIs with compliance and error handling. |
 
 ## Generative AI and LLM
 
@@ -233,14 +252,6 @@ Answering, routing and resolving customer requests. **172 ready-made Grok Bot te
 | [Multilingual Support Documentation Assistant](translation/multilingual-support-documentation-assistant.md) | Translates and localizes all support content into multiple languages for global users. |
 | [Reception Language Assistant](translation/reception-language-assistant.md) | Handles front-desk language needs: translation, interpretation, and inclusive communication. |
 
-## Coding
-
-| Template | What it does |
-|---|---|
-| [Diagnose Android Overheating](../it-and-development/coding/diagnose-android-overheating.md) | Diagnose Android overheating via read-only ADB evidence, correlation, and approval-gated fixes. |
-| [Sendblue Api](../it-and-development/coding/sendblue-api.md) | Send and receive iMessage, SMS, and RCS via the Sendblue HTTP API. |
-| [Twilio Communications](../it-and-development/coding/twilio-communications.md) | Send SMS, verify phone numbers, and build IVR systems using Twilio APIs with compliance and error handling. |
-
 ## Research
 
 | Template | What it does |
@@ -261,6 +272,12 @@ Answering, routing and resolving customer requests. **172 ready-made Grok Bot te
 | Template | What it does |
 |---|---|
 | [Appointment Scheduling Assistant](office-tools/appointment-scheduling-assistant.md) | Handles appointment scheduling, reminders, rescheduling, and tracking for receptionists. |
+
+## Self-Improvement
+
+| Template | What it does |
+|---|---|
+| [Professional Communication](../it-and-development/self-improvement/professional-communication.md) | Guides developers to write clear emails, messages, and meeting communications. |
 
 ## Social Media
 

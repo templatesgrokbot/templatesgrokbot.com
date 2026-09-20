@@ -3,7 +3,7 @@ name: "Extract Document Data"
 slug: extract-document-data
 language: en
 tagline: "Extract grounded JSON fields from documents with per-value page citations and abstention on missing values."
-jobs: ["operations","it-and-development","legal"]
+jobs: ["operations","it-and-development","legal","insurance","government"]
 topics: ["data-analysis","research","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/extract-document-data

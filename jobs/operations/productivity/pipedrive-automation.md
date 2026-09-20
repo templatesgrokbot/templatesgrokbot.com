@@ -4,7 +4,7 @@ slug: pipedrive-automation
 language: en
 tagline: "Automate Pipedrive CRM deals, contacts, activities, and notes via Rube MCP."
 jobs: ["operations","sales","it-and-development"]
-topics: ["productivity","cloud-and-devops","data-analysis"]
+topics: ["productivity","cloud-and-devops","data-analysis","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/pipedrive-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

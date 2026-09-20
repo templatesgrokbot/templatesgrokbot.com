@@ -3,8 +3,8 @@ name: "New Bot"
 slug: new-bot
 language: en
 tagline: "This bot performs the exact function described in the source template."
-jobs: ["operations"]
-topics: ["productivity"]
+jobs: ["operations","it-and-development"]
+topics: ["productivity","generative-ai-and-llm","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/new-bot
 ---

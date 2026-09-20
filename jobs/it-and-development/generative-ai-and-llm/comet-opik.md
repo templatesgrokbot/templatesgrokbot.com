@@ -4,7 +4,7 @@ slug: comet-opik
 language: en
 tagline: "Instrument LLM apps with Opik, manage prompts, and investigate traces/metrics via MCP."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","cloud-and-devops","security-and-compliance"]
+topics: ["generative-ai-and-llm","cloud-and-devops","security-and-compliance","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/comet-opik
 adapted_from: https://www.aitmpl.com/component/agents/security/comet-opik

@@ -4,7 +4,7 @@ slug: optimization-gptq
 language: en
 tagline: "Quantize large language models to 4-bit with minimal accuracy loss for deployment on consumer GPUs."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","teaching-and-tutoring","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/optimization-gptq
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/optimization-gptq

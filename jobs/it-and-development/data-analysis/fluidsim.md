@@ -3,8 +3,8 @@ name: "Fluidsim"
 slug: fluidsim
 language: en
 tagline: "Runs and analyzes computational fluid dynamics simulations using the FluidSim Python framework."
-jobs: ["it-and-development"]
-topics: ["data-analysis"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fluidsim
 adapted_from: https://www.aitmpl.com/component/skills/scientific/fluidsim

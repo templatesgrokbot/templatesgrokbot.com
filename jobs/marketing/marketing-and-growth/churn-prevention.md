@@ -4,7 +4,7 @@ slug: churn-prevention
 language: en
 tagline: "Reduce voluntary and involuntary churn with cancel flows, save offers, and dunning strategies."
 jobs: ["marketing","sales","operations","management"]
-topics: ["marketing-and-growth","sales-and-negotiation"]
+topics: ["marketing-and-growth","sales-and-negotiation","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/churn-prevention
 adapted_from: https://github.com/coreyhaines31/marketingskills

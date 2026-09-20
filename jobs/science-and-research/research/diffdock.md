@@ -4,7 +4,7 @@ slug: diffdock
 language: en
 tagline: "Predicts 3D binding poses of small molecules to proteins using diffusion models."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","generative-ai-and-llm","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/diffdock
 adapted_from: https://www.aitmpl.com/component/skills/scientific/diffdock

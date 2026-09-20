@@ -4,7 +4,7 @@ slug: pymc
 language: en
 tagline: "Build, fit, validate, and compare Bayesian models with PyMC for probabilistic inference."
 jobs: ["science-and-research"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","coding","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/pymc
 adapted_from: https://www.aitmpl.com/component/skills/scientific/pymc

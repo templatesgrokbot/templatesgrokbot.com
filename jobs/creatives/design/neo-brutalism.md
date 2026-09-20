@@ -4,7 +4,7 @@ slug: neo-brutalism
 language: en
 tagline: "Implement neo-brutalist UI with thick borders, hard shadows, and bright colors."
 jobs: ["creatives","it-and-development"]
-topics: ["design"]
+topics: ["design","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/neo-brutalism
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

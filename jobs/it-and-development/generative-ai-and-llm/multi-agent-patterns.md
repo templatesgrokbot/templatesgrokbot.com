@@ -4,7 +4,7 @@ slug: multi-agent-patterns
 language: en
 tagline: "Design multi-agent systems with supervisor, swarm, or hierarchical patterns for context isolation."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/multi-agent-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

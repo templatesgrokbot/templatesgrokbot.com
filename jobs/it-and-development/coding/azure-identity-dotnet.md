@@ -4,7 +4,7 @@ slug: azure-identity-dotnet
 language: en
 tagline: "Authenticate .NET apps to Azure with managed identity, service principals, or dev credentials."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-identity-dotnet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

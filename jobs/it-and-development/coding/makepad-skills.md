@@ -4,7 +4,7 @@ slug: makepad-skills
 language: en
 tagline: "Makepad UI development for Rust apps: setup, patterns, shaders, packaging, troubleshooting."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/makepad-skills
 adapted_from: https://github.com/ZhangHanDong/makepad-skills

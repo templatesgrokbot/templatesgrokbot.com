@@ -4,7 +4,7 @@ slug: mcp-testing-engineer
 language: en
 tagline: "Test MCP servers for protocol compliance, security, and performance."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mcp-testing-engineer
 adapted_from: https://www.aitmpl.com/component/agents/mcp-dev-team/mcp-testing-engineer

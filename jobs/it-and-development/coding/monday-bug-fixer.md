@@ -4,7 +4,7 @@ slug: monday-bug-fixer
 language: en
 tagline: "Gathers full context from Monday.com for a bug item, then produces a production-quality fix and PR."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/monday-bug-fixer
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/monday-bug-fixer

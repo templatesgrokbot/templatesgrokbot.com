@@ -4,7 +4,7 @@ slug: wellally-tech
 language: en
 tagline: "Import health data and query WellAlly knowledge base for personal health management."
 jobs: ["healthcare","operations"]
-topics: ["data-analysis"]
+topics: ["data-analysis","knowledge-management","self-improvement"]
 category: operations
 url: https://templatesgrokbot.com/bot/wellally-tech
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: plaid-fintech
 language: en
 tagline: "Guide Plaid API integration: Link tokens, transactions sync, identity, ACH, webhooks."
 jobs: ["it-and-development","finance"]
-topics: ["coding","security-and-compliance"]
+topics: ["coding","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/plaid-fintech
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

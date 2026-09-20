@@ -4,7 +4,7 @@ slug: prisma-expert
 language: en
 tagline: "Designs Prisma schemas, fixes migrations, and optimizes queries for your database layer."
 jobs: ["it-and-development"]
-topics: ["data-analysis","coding"]
+topics: ["data-analysis","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/prisma-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

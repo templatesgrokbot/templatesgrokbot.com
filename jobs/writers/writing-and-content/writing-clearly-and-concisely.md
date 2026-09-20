@@ -3,7 +3,7 @@ name: "Writing Clearly And Concisely"
 slug: writing-clearly-and-concisely
 language: en
 tagline: "Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns."
-jobs: ["writers","education"]
+jobs: ["writers","education","pr-and-communications","government","marketing"]
 topics: ["writing-and-content","teaching-and-tutoring"]
 category: education
 url: https://templatesgrokbot.com/bot/writing-clearly-and-concisely

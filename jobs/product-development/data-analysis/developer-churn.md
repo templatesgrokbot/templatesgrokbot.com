@@ -3,8 +3,8 @@ name: "Developer Churn"
 slug: developer-churn
 language: en
 tagline: "Analyze developer churn and design retention strategies."
-jobs: ["product-development","management"]
-topics: ["data-analysis"]
+jobs: ["product-development","management","marketing"]
+topics: ["data-analysis","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/developer-churn
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/developer-churn

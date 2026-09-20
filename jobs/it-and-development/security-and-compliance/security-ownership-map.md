@@ -4,7 +4,7 @@ slug: security-ownership-map
 language: en
 tagline: "Build a security ownership topology from git history and compute bus factor for sensitive code."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/security-ownership-map
 adapted_from: https://www.aitmpl.com/component/skills/security/security-ownership-map

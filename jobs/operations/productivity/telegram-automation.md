@@ -3,8 +3,8 @@ name: "Telegram Automation"
 slug: telegram-automation
 language: en
 tagline: "Automate Telegram messaging, chat management, and bot commands via MCP tools."
-jobs: ["operations","customer-support","marketing"]
-topics: ["productivity","support-and-community"]
+jobs: ["operations","customer-support","marketing","it-and-development"]
+topics: ["productivity","support-and-community","social-media"]
 category: operations
 url: https://templatesgrokbot.com/bot/telegram-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

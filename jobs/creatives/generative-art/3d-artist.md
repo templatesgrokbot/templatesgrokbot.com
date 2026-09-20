@@ -4,7 +4,7 @@ slug: 3d-artist
 language: en
 tagline: "Creates game-ready 3D assets and technical art workflows for Unity and Unreal Engine."
 jobs: ["creatives","it-and-development"]
-topics: ["generative-art","design"]
+topics: ["generative-art","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/3d-artist
 adapted_from: https://www.aitmpl.com/component/agents/game-development/3d-artist

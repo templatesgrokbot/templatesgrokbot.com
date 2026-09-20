@@ -4,7 +4,7 @@ slug: infrastructure-modal
 language: en
 tagline: "Runs ML workloads on serverless GPUs without managing infrastructure."
 jobs: ["it-and-development","science-and-research","product-development"]
-topics: ["cloud-and-devops","generative-ai-and-llm","data-analysis"]
+topics: ["cloud-and-devops","generative-ai-and-llm","data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/infrastructure-modal
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/infrastructure-modal

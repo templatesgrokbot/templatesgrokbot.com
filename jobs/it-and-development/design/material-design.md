@@ -4,7 +4,7 @@ slug: material-design
 language: en
 tagline: "Implement Google's Material Design aesthetic for web and app interfaces."
 jobs: ["it-and-development","creatives"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/material-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

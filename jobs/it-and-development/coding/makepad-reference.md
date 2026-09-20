@@ -4,7 +4,7 @@ slug: makepad-reference
 language: en
 tagline: "Reference for Makepad debugging, code quality, and layout patterns."
 jobs: ["it-and-development"]
-topics: ["coding","research"]
+topics: ["coding","research","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/makepad-reference
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

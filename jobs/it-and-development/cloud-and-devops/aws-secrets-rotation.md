@@ -4,7 +4,7 @@ slug: aws-secrets-rotation
 language: en
 tagline: "Automate AWS secrets rotation for RDS, API keys, and credentials using Lambda."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","coding","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aws-secrets-rotation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

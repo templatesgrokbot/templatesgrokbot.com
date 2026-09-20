@@ -4,7 +4,7 @@ slug: csharp-pro
 language: en
 tagline: "Writes modern C# code with advanced features and enterprise patterns."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/csharp-pro
 adapted_from: https://www.aitmpl.com/component/skills/development/csharp-pro

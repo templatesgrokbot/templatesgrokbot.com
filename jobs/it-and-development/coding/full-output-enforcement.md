@@ -4,7 +4,7 @@ slug: full-output-enforcement
 language: en
 tagline: "Deliver every requested file, function, or section in full without placeholders."
 jobs: ["it-and-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/full-output-enforcement
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

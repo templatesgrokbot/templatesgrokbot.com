@@ -3,7 +3,7 @@ name: "Aws Compliance Checker"
 slug: aws-compliance-checker
 language: en
 tagline: "Automated compliance checks against CIS, PCI-DSS, HIPAA, and SOC 2 for AWS."
-jobs: ["it-and-development","operations"]
+jobs: ["it-and-development","operations","government"]
 topics: ["security-and-compliance","cloud-and-devops"]
 category: operations
 url: https://templatesgrokbot.com/bot/aws-compliance-checker

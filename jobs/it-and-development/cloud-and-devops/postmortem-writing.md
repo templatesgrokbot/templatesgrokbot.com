@@ -3,8 +3,8 @@ name: "Postmortem Writing"
 slug: postmortem-writing
 language: en
 tagline: "Guide blameless postmortems from incident data to action items."
-jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","research"]
+jobs: ["it-and-development","operations","product-development","management"]
+topics: ["cloud-and-devops","research","writing-and-content","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/postmortem-writing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

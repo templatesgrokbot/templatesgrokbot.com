@@ -3,8 +3,8 @@ name: "Task Planner"
 slug: task-planner
 language: en
 tagline: "Creates actionable implementation plans from verified research findings."
-jobs: ["management"]
-topics: ["productivity"]
+jobs: ["management","it-and-development"]
+topics: ["productivity","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/task-planner
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/task-planner

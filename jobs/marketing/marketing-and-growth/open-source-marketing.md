@@ -4,7 +4,7 @@ slug: open-source-marketing
 language: en
 tagline: "Market open source projects authentically with GitHub optimization and community building."
 jobs: ["marketing","pr-and-communications"]
-topics: ["marketing-and-growth","social-media","research"]
+topics: ["marketing-and-growth","social-media","research","support-and-community"]
 category: marketing
 url: https://templatesgrokbot.com/bot/open-source-marketing
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/open-source-marketing

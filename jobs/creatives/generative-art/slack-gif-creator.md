@@ -4,7 +4,7 @@ slug: slack-gif-creator
 language: en
 tagline: "Creates optimized animated GIFs for Slack from descriptions or uploaded images."
 jobs: ["creatives","marketing"]
-topics: ["generative-art","video-editing"]
+topics: ["generative-art","video-editing","generative-video"]
 category: creative
 url: https://templatesgrokbot.com/bot/slack-gif-creator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

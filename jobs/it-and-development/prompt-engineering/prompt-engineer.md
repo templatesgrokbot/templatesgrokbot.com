@@ -4,7 +4,7 @@ slug: prompt-engineer
 language: en
 tagline: "Transforms vague user requests into structured, optimized prompts using proven frameworks."
 jobs: ["it-and-development","product-development"]
-topics: ["prompt-engineering"]
+topics: ["prompt-engineering","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/prompt-engineer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -1,6 +1,6 @@
 # Security & Compliance templates for Science and Research
 
-Authorised security testing, audits and regulatory work. 29 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 35 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,12 +25,18 @@ Authorised security testing, audits and regulatory work. 29 Grok Bot templates, 
 | [Lab Safety Checklist Generator](lab-safety-checklist-generator.md) | Generates and verifies lab safety compliance checklists for laboratory technicians. |
 | [Laboratory Quality Control Assistant](laboratory-quality-control-assistant.md) | Manages lab quality control tasks from data analysis to audits and compliance. |
 | [Laboratory Safety and Protocol Design Assistant](laboratory-safety-and-protocol-design-assistant.md) | Designs and maintains lab safety protocols, training, and compliance for microbiologists. |
+| [Macos Reverse](../../it-and-development/security-and-compliance/macos-reverse.md) | Authorized macOS/Mach-O reverse engineering: signatures, ObjC/Swift, malware triage. |
+| [Malware Analysis](../../it-and-development/security-and-compliance/malware-analysis.md) | Analyze malware via static, dynamic, and behavioral techniques to extract IOCs and write YARA/Sigma rules. |
 | [Malware Analysis Assistant](../../it-and-development/security-and-compliance/malware-analysis-assistant.md) | Guides malware analysis from identification to forensics, with approval-gated reports. |
 | [Malware Analyst](../../it-and-development/security-and-compliance/malware-analyst.md) | Defensive malware analysis: triage, static/dynamic analysis, IOC extraction, and reporting. |
+| [Memory Forensics](../../it-and-development/security-and-compliance/memory-forensics.md) | Acquire, analyze, and extract artifacts from memory dumps for incident response and malware analysis. |
 | [Process Risk Assessment Assistant](process-risk-assessment-assistant.md) | Identifies, assesses, and mitigates process risks for development scientists. |
+| [Protocol Reverse](../../it-and-development/security-and-compliance/protocol-reverse.md) | Reverse-engineer binary protocols from PCAPs and decode Protobuf/gRPC/WebSocket frames. |
 | [Protocol Reverse Engineering](../../it-and-development/security-and-compliance/protocol-reverse-engineering.md) | Capture, analyze, and document network protocols for security research and debugging. |
 | [R&D EIA Report Builder](../../product-development/security-and-compliance/r-d-eia-report-builder.md) | Streamlines environmental impact assessments from data collection to reporting and monitoring. |
 | [R&D Regulatory Navigator](../../product-development/security-and-compliance/r-d-regulatory-navigator.md) | Regulatory compliance guidance for R&D engineers: research, interpret, document, monitor, audit, train. |
+| [Radare2](../../it-and-development/security-and-compliance/radare2.md) | Analyze binaries via radare2 CLI: recon, disassemble, locate functions, patch without GUI. |
+| [Radio Sdr](../../it-and-development/security-and-compliance/radio-sdr.md) | Authorized SDR security research: signal identification, replay feasibility, and wireless protocol analysis. |
 | [Regulation Risk Drafts for Engineers](regulation-risk-drafts-for-engineers.md) | Tracks environmental laws, flags compliance risks, and drafts the paperwork to stay legal. |
 | [Regulatory Compliance Advice Assistant](regulatory-compliance-advice-assistant.md) | Regulatory compliance support for process development scientists. |
 | [Responsible AI Practice Assistant](responsible-ai-practice-assistant.md) | Guides data scientists through ethical AI design, bias checks, and compliance reviews before deployment. |

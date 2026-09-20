@@ -4,7 +4,7 @@ slug: crypto-bd-agent
 language: en
 tagline: "Autonomous token discovery, scoring, and outreach for crypto exchange listings."
 jobs: ["sales","marketing","operations"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/crypto-bd-agent
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

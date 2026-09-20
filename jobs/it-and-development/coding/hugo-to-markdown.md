@@ -4,7 +4,7 @@ slug: hugo-to-markdown
 language: en
 tagline: "Convert Hugo documentation sites into standard Markdown by inspecting local config and templates."
 jobs: ["it-and-development","writers"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hugo-to-markdown
 adapted_from: https://github.com/chaunsin/agent-skills/tree/master/skills/hugo-to-markdown

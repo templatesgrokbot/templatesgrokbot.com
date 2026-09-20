@@ -4,7 +4,7 @@ slug: schema-markup-generator
 language: en
 tagline: "Generates valid JSON-LD schema markup for a single page based on its visible content."
 jobs: ["marketing","it-and-development"]
-topics: ["marketing-and-growth","generative-ai-and-llm"]
+topics: ["marketing-and-growth","generative-ai-and-llm","generative-code","coding"]
 category: marketing
 url: https://templatesgrokbot.com/bot/schema-markup-generator
 adapted_from: https://collectivebrain.de/en/skills/schema-markup-generator/

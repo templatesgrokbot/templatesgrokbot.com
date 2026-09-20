@@ -3,8 +3,8 @@ name: "Hasdata"
 slug: hasdata
 language: en
 tagline: "Extract public web data via HasData APIs for scraping, SERPs, and structured sources."
-jobs: ["it-and-development"]
-topics: ["data-analysis","research"]
+jobs: ["it-and-development","marketing"]
+topics: ["data-analysis","research","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hasdata
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

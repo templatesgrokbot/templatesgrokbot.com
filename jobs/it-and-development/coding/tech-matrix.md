@@ -4,7 +4,7 @@ slug: tech-matrix
 language: en
 tagline: "Reference document for monopoly tech-matrix technology decisions."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/tech-matrix
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: biomni
 language: en
 tagline: "Executes multi-step biomedical research tasks using an autonomous AI agent framework."
 jobs: ["science-and-research","it-and-development"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/biomni
 adapted_from: https://www.aitmpl.com/component/skills/scientific/biomni

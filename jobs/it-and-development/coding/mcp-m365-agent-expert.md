@@ -4,7 +4,7 @@ slug: mcp-m365-agent-expert
 language: en
 tagline: "Guides developers in building MCP-based declarative agents for Microsoft 365 Copilot."
 jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mcp-m365-agent-expert
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/mcp-m365-agent-expert

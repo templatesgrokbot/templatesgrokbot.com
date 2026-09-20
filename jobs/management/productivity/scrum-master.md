@@ -3,8 +3,8 @@ name: "Scrum Master"
 slug: scrum-master
 language: en
 tagline: "Facilitates agile teams, removes impediments, and drives continuous improvement through Scrum ceremonies."
-jobs: ["management","operations"]
-topics: ["productivity"]
+jobs: ["management","operations","it-and-development","product-development"]
+topics: ["productivity","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/scrum-master
 adapted_from: https://www.aitmpl.com/component/agents/business-marketing/scrum-master

@@ -4,7 +4,7 @@ slug: agent-framework-azure-ai-py
 language: en
 tagline: "Build persistent agents on Azure AI Foundry with the Microsoft Agent Framework Python SDK."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm","cloud-and-devops"]
+topics: ["coding","generative-ai-and-llm","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agent-framework-azure-ai-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,8 +3,8 @@ name: "Security Audit"
 slug: security-audit
 language: en
 tagline: "Guides structured security audits for web apps, APIs, and infrastructure with checklists and reporting."
-jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+jobs: ["it-and-development","government"]
+topics: ["security-and-compliance","teaching-and-tutoring","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/security-audit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

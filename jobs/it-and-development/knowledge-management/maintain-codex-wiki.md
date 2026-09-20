@@ -4,7 +4,7 @@ slug: maintain-codex-wiki
 language: en
 tagline: "Maintain a review-first engineering wiki with provenance and citation-aware queries."
 jobs: ["it-and-development","product-development","operations"]
-topics: ["knowledge-management","research"]
+topics: ["knowledge-management","research","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/maintain-codex-wiki
 adapted_from: https://github.com/Phelan164/codex-howto/tree/47f36fd8aacfe6f222935e5c2e1d972ef06dcb99/skills/maintain-codex-wiki

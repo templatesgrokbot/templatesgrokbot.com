@@ -3,7 +3,7 @@ name: "Docx Official"
 slug: docx-official
 language: en
 tagline: "Create, read, edit, and manipulate .docx files with precise formatting and tracked changes."
-jobs: ["operations","it-and-development"]
+jobs: ["operations","it-and-development","legal","writers"]
 topics: ["office-tools","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/docx-official

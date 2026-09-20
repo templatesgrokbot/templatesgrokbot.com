@@ -3,8 +3,8 @@ name: "Brand Voice Enforcement"
 slug: brand-voice-enforcement
 language: en
 tagline: "Applies your brand guidelines to every email, pitch deck, and social post."
-jobs: ["marketing","pr-and-communications","writers"]
-topics: ["writing-and-content","marketing-and-growth"]
+jobs: ["marketing","pr-and-communications","writers","creatives"]
+topics: ["writing-and-content","marketing-and-growth","office-tools","social-media"]
 category: marketing
 url: https://templatesgrokbot.com/bot/brand-voice-enforcement
 adapted_from: https://collectivebrain.de/en/skills/brand-voice-enforcement/

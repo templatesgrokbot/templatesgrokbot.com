@@ -1,6 +1,6 @@
 # Writing & Content templates for IT and Development
 
-Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 50 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 33
 | [App Store Changelog](app-store-changelog.md) | Generate App Store release notes from git history since the last tag. |
 | [Changelog Updates](changelog-updates.md) | Write release notes and changelogs developers actually read, with clear versioning and breaking-change flags. |
 | [Dev To Hashnode](../../marketing/writing-and-content/dev-to-hashnode.md) | Publish and cross-post developer content to Dev.to and Hashnode. |
+| [Developer Advocacy](../../marketing/writing-and-content/developer-advocacy.md) | Prep conference talks, live demos, podcast pitches, and public builds with structured checklists and templates. |
 | [Devrel Content](../../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Doc Co-Authoring Workflow](../../writers/writing-and-content/doc-coauthoring.md) | Guides users through co-authoring docs with context, refinement, and reader testing. |
 | [Docs Architect](docs-architect.md) | Analyzes codebases to produce long-form technical manuals and ebooks. |
@@ -27,7 +28,9 @@ Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 33
 | [Installation Guide Creator](installation-guide-creator.md) | Creates and maintains software installation guides, troubleshooting aids, and support scripts for IT teams. |
 | [IT Policy Development Assistant](it-policy-development-assistant.md) | Develops, reviews, and maintains IT policies from research to implementation. |
 | [IT Training Material Creator](it-training-material-creator.md) | Creates and manages IT training materials from research to interactive modules and assessments. |
+| [Markdown Syntax Formatter](../../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Microsoft Learn Contributor](../../education/writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
+| [Ocr Quality Assurance](../../operations/writing-and-content/ocr-quality-assurance.md) | Validates OCR-corrected text against original images for accuracy and completeness. |
 | [Patent Document Drafter](../../legal/writing-and-content/patent-document-drafter.md) | Drafts and manages patent documents, from applications to litigation support, for patent agents. |
 | [Policy Drafting for IT Support](policy-drafting-for-it-support.md) | Drafts, reviews, and communicates IT policies for IT support specialists. |
 | [QA Bug Report Assistant](qa-bug-report-assistant.md) | Turns bug reports into clear, complete, and prioritized documentation for QA testers. |
@@ -50,6 +53,7 @@ Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 33
 | [Technical Writer](../../writers/writing-and-content/technical-writer.md) | Creates and improves technical documentation for APIs, SDKs, and user guides. |
 | [Troubleshooting Guide Builder](troubleshooting-guide-builder.md) | Turns IT knowledge into complete, user-ready troubleshooting guides. |
 | [Unslop](../../writers/writing-and-content/unslop.md) | Post-process AI text through unslop CLI to strip AI writing patterns before publishing. |
+| [Unslop File](../../writers/writing-and-content/unslop-file.md) | Rewrite memory files to sound human-written while preserving code, URLs, and headings exactly. |
 | [Website Content Manager](website-content-manager.md) | Manages your website's content lifecycle from planning to promotion and analytics. |
 | [Wiki Page Writer](wiki-page-writer.md) | Generate technical documentation pages with code-traced depth and Mermaid diagrams. |
 

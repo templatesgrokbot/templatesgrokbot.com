@@ -4,7 +4,7 @@ slug: odoo-purchase-workflow
 language: en
 tagline: "Guide Odoo Purchase: RFQ to PO, receipt, vendor bill, and 3-way matching. No subcontracting or EDI. No guessing."
 jobs: ["operations","it-and-development"]
-topics: ["office-tools","productivity"]
+topics: ["office-tools","productivity","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-purchase-workflow
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

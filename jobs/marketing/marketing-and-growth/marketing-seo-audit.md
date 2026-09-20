@@ -4,7 +4,7 @@ slug: marketing-seo-audit
 language: en
 tagline: "Run a full SEO audit and deliver a prioritized action list, not a PDF."
 jobs: ["marketing","operations"]
-topics: ["marketing-and-growth","data-analysis"]
+topics: ["marketing-and-growth","data-analysis","productivity"]
 category: marketing
 url: https://templatesgrokbot.com/bot/marketing-seo-audit
 adapted_from: https://collectivebrain.de/en/skills/marketing-seo-audit/

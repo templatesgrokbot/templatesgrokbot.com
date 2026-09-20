@@ -4,7 +4,7 @@ slug: code-architect
 language: en
 tagline: "Analyzes codebase patterns and produces complete implementation blueprints for new features."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/code-architect
 adapted_from: https://www.aitmpl.com/component/agents/development-team/code-architect

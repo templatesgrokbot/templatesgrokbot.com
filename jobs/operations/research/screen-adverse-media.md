@@ -3,8 +3,8 @@ name: "Screen Adverse Media"
 slug: screen-adverse-media
 language: en
 tagline: "Screen people or organisations for adverse media, PEP status, and sanctions exposure."
-jobs: ["operations","finance","legal"]
-topics: ["research","data-analysis"]
+jobs: ["operations","finance","legal","government","insurance"]
+topics: ["research","data-analysis","security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/screen-adverse-media
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

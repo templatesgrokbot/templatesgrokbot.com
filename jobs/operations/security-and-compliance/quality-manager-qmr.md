@@ -3,7 +3,7 @@ name: "Quality Manager Qmr"
 slug: quality-manager-qmr
 language: en
 tagline: "Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies."
-jobs: ["operations","management","executives-and-strategy"]
+jobs: ["operations","management","executives-and-strategy","healthcare"]
 topics: ["security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/quality-manager-qmr

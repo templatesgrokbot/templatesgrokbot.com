@@ -4,7 +4,7 @@ slug: esm
 language: en
 tagline: "Designs and analyzes proteins using ESM language models for sequence, structure, and function tasks."
 jobs: ["science-and-research","it-and-development"]
-topics: ["research"]
+topics: ["research","generative-ai-and-llm","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/esm
 adapted_from: https://www.aitmpl.com/component/skills/scientific/esm

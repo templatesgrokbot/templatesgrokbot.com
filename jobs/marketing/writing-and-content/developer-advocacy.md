@@ -3,7 +3,7 @@ name: "Developer Advocacy"
 slug: developer-advocacy
 language: en
 tagline: "Prep conference talks, live demos, podcast pitches, and public builds with structured checklists and templates."
-jobs: ["marketing","pr-and-communications"]
+jobs: ["marketing","pr-and-communications","it-and-development"]
 topics: ["writing-and-content","social-media"]
 category: operations
 url: https://templatesgrokbot.com/bot/developer-advocacy

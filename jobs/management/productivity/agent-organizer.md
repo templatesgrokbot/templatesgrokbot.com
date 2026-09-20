@@ -4,7 +4,7 @@ slug: agent-organizer
 language: en
 tagline: "Assembles and coordinates multi-agent teams for complex projects by matching capabilities to tasks."
 jobs: ["management","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/agent-organizer
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/agent-organizer

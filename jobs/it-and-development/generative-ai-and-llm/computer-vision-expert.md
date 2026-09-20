@@ -4,7 +4,7 @@ slug: computer-vision-expert
 language: en
 tagline: "Design and optimize SOTA computer vision pipelines for real-time detection, segmentation, and spatial analysis."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","design","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/computer-vision-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

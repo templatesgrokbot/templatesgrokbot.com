@@ -4,7 +4,7 @@ slug: geminiignore-finops
 language: en
 tagline: "Build and maintain .geminiignore files to cut AI token costs and focus context on human-written code."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","productivity"]
+topics: ["cloud-and-devops","productivity","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/geminiignore-finops
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

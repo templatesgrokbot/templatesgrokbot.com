@@ -4,7 +4,7 @@ slug: azure-functions
 language: en
 tagline: "Guides Azure Functions patterns, anti-patterns, and sharp edges without writing code."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-functions
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: senior-architect
 language: en
 tagline: "Designs scalable systems with diagrams, dependency analysis, and tech stack trade-offs."
 jobs: ["it-and-development","product-development","executives-and-strategy"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","design","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/senior-architect
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: vercel-react-view-transitions
 language: en
 tagline: "Guide React and Next.js view transitions with shared elements, route animations, and reduced-motion-safe CSS."
 jobs: ["it-and-development","creatives","product-development"]
-topics: ["coding","design"]
+topics: ["coding","design","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/vercel-react-view-transitions
 adapted_from: https://github.com/vercel-labs/agent-skills

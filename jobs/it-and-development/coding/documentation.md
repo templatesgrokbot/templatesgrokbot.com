@@ -4,7 +4,7 @@ slug: documentation
 language: en
 tagline: "Generate API, architecture, README, and code docs from codebases. No deployment or testing. No live edits. No publishing without approval."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","writing-and-content","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/documentation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

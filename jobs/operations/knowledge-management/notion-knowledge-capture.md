@@ -3,7 +3,7 @@ name: "Notion Knowledge Capture"
 slug: notion-knowledge-capture
 language: en
 tagline: "Capture conversations and decisions into structured Notion pages."
-jobs: ["operations","management"]
+jobs: ["operations","management","product-development"]
 topics: ["knowledge-management","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/notion-knowledge-capture

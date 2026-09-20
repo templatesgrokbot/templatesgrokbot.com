@@ -4,7 +4,7 @@ slug: commit
 language: en
 tagline: "Formats git commits with Sentry conventions and issue references."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/commit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

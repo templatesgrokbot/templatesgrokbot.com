@@ -3,8 +3,8 @@ name: "Email Issue Fixer"
 slug: email-issue-fixer
 language: en
 tagline: "Proofread emails and strip tracking from links on request, preserving voice."
-jobs: ["operations"]
-topics: ["writing-and-content"]
+jobs: ["operations","writers","pr-and-communications"]
+topics: ["writing-and-content","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/email-issue-fixer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

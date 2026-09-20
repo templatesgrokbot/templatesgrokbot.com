@@ -4,7 +4,7 @@ slug: clarvia-aeo-check
 language: en
 tagline: "Score any MCP server, API, or CLI for agent-readiness using Clarvia AEO."
 jobs: ["it-and-development","product-development"]
-topics: ["research","cloud-and-devops"]
+topics: ["research","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/clarvia-aeo-check
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

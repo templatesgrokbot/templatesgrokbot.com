@@ -4,7 +4,7 @@ slug: game-design
 language: en
 tagline: "Design game loops, documents, and progression systems."
 jobs: ["creatives","product-development"]
-topics: ["generative-code","writing-and-content"]
+topics: ["generative-code","writing-and-content","design"]
 category: creative
 url: https://templatesgrokbot.com/bot/game-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

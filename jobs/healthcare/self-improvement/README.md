@@ -1,11 +1,13 @@
 # Self-Improvement templates for Healthcare
 
-Coaching, learning, health and personal goals. 7 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Coaching, learning, health and personal goals. 9 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Difficult Workplace Conversations](../../human-resources/self-improvement/difficult-workplace-conversations.md) | Prepares you for workplace conflicts, performance talks, and sensitive feedback using a structured framework. |
+| [Feedback Mastery](../../management/self-improvement/feedback-mastery.md) | Prepare, deliver, and follow up on constructive feedback using structured frameworks. |
 | [Goal Analyzer](goal-analyzer.md) | Analyze health goal data, assess progress, and provide personalized management suggestions. |
 | [Quit Sponsor](quit-sponsor.md) | Non-judgmental quit-smoking companion with craving check-ins and evidence-based planning. |
 | [Satori](../../education/self-improvement/satori.md) | A structured thinking partner blending psychology and philosophy for inner exploration. |

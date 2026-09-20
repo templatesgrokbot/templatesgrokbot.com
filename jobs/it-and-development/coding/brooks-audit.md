@@ -4,7 +4,7 @@ slug: brooks-audit
 language: en
 tagline: "Audits module dependencies, layering, and structural decay using classic engineering rules."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/brooks-audit
 adapted_from: https://github.com/hyhmrright/brooks-lint/tree/main/skills/brooks-audit

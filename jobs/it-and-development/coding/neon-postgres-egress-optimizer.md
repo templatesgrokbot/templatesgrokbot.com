@@ -4,7 +4,7 @@ slug: neon-postgres-egress-optimizer
 language: en
 tagline: "Diagnose and fix excessive Postgres egress in your codebase to cut database bills."
 jobs: ["it-and-development","operations"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/neon-postgres-egress-optimizer
 adapted_from: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres-egress-optimizer

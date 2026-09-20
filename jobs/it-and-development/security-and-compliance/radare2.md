@@ -3,7 +3,7 @@ name: "Radare2"
 slug: radare2
 language: en
 tagline: "Analyze binaries via radare2 CLI: recon, disassemble, locate functions, patch without GUI."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","science-and-research"]
 topics: ["security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/radare2

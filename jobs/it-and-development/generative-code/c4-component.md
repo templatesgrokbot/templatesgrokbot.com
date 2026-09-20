@@ -4,7 +4,7 @@ slug: c4-component
 language: en
 tagline: "Synthesize C4 code files into component-level architecture with boundaries and interfaces."
 jobs: ["it-and-development"]
-topics: ["generative-code","cloud-and-devops"]
+topics: ["generative-code","cloud-and-devops","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/c4-component
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

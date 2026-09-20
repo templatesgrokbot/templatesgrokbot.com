@@ -4,7 +4,7 @@ slug: andruia-template-smith
 language: en
 tagline: "Design, write, and deploy new capabilities following the Diamond Standard."
 jobs: ["it-and-development","product-development","management"]
-topics: ["generative-code","knowledge-management"]
+topics: ["generative-code","knowledge-management","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/andruia-template-smith
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

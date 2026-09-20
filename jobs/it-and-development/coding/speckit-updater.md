@@ -4,7 +4,7 @@ slug: speckit-updater
 language: en
 tagline: "Safely update SpecKit templates while preserving customizations with user approval."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/speckit-updater
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

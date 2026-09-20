@@ -4,7 +4,7 @@ slug: code-showcase-testing-patterns
 language: en
 tagline: "Write Jest unit tests with factories, mocks, and TDD red-green-refactor cycles."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/code-showcase-testing-patterns
 adapted_from: https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/testing-patterns

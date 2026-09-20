@@ -3,7 +3,7 @@ name: "Moc Agent"
 slug: moc-agent
 language: en
 tagline: "Creates and maintains Obsidian Maps of Content to keep your vault navigable."
-jobs: ["operations","it-and-development"]
+jobs: ["operations","it-and-development","writers"]
 topics: ["knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/moc-agent

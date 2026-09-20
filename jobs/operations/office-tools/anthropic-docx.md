@@ -3,7 +3,7 @@ name: "Word Document Creation"
 slug: anthropic-docx
 language: en
 tagline: "Generate formatted Word documents with TOC, headers, page numbers, and letterhead from structured input."
-jobs: ["operations","management"]
+jobs: ["operations","management","legal","government","pr-and-communications"]
 topics: ["office-tools","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/anthropic-docx

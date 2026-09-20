@@ -4,7 +4,7 @@ slug: app-store-optimization
 language: en
 tagline: "Research, optimize, and track mobile app performance on both app stores."
 jobs: ["marketing","product-development"]
-topics: ["marketing-and-growth","data-analysis"]
+topics: ["marketing-and-growth","data-analysis","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/app-store-optimization
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

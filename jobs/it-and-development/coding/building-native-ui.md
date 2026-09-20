@@ -4,7 +4,7 @@ slug: building-native-ui
 language: en
 tagline: "Build beautiful Expo Router apps with native UI patterns and Apple HIG."
 jobs: ["it-and-development","creatives"]
-topics: ["coding","design"]
+topics: ["coding","design","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/building-native-ui
 adapted_from: https://github.com/expo/skills/tree/main/plugins/expo/skills/building-native-ui

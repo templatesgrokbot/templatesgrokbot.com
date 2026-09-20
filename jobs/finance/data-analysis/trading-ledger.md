@@ -4,7 +4,7 @@ slug: trading-ledger
 language: en
 tagline: "Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L."
 jobs: ["finance","management"]
-topics: ["data-analysis","productivity"]
+topics: ["data-analysis","productivity","knowledge-management","self-improvement"]
 category: finance
 url: https://templatesgrokbot.com/bot/trading-ledger
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

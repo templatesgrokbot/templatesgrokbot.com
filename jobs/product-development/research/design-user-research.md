@@ -4,7 +4,7 @@ slug: design-user-research
 language: en
 tagline: "Plan user research that produces honest, actionable insights from start to finish."
 jobs: ["product-development","management"]
-topics: ["research","productivity"]
+topics: ["research","productivity","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/design-user-research
 adapted_from: https://collectivebrain.de/en/skills/design-user-research/

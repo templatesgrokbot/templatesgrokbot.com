@@ -4,7 +4,7 @@ slug: energy-procurement
 language: en
 tagline: "Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities."
 jobs: ["operations","finance","management"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/energy-procurement
 adapted_from: https://github.com/ai-evos/agent-skills

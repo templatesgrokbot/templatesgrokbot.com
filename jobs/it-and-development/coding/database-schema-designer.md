@@ -4,7 +4,7 @@ slug: database-schema-designer
 language: en
 tagline: "Designs production-ready SQL and NoSQL schemas with normalization, indexing, and migration scripts."
 jobs: ["it-and-development"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/database-schema-designer
 adapted_from: https://www.aitmpl.com/component/skills/development/database-schema-designer

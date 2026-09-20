@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **822 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **833 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,18 +12,18 @@ Campaigns, SEO, content and growth. **822 ready-made Grok Bot templates** for th
 | Kind of work | Templates |
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 337 |
-| [Data Analysis](data-analysis/README.md) | 129 |
-| [Writing & Content](writing-and-content/README.md) | 78 |
-| [Research](research/README.md) | 74 |
+| [Data Analysis](data-analysis/README.md) | 133 |
+| [Writing & Content](writing-and-content/README.md) | 79 |
+| [Research](research/README.md) | 77 |
 | [Social Media](social-media/README.md) | 68 |
 | [Design](design/README.md) | 30 |
-| [Generative Art](generative-art/README.md) | 21 |
-| [Coding](coding/README.md) | 13 |
+| [Generative Art](generative-art/README.md) | 22 |
+| [Coding](coding/README.md) | 14 |
 | [Productivity](productivity/README.md) | 12 |
 | [Generative Code](generative-code/README.md) | 11 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 11 |
 | [Generative Video](generative-video/README.md) | 9 |
-| [Office Tools](office-tools/README.md) | 5 |
+| [Office Tools](office-tools/README.md) | 6 |
 | [Video Editing](video-editing/README.md) | 4 |
 | [Prompt Engineering](prompt-engineering/README.md) | 3 |
 | [Text-To-Speech](text-to-speech/README.md) | 3 |
@@ -60,12 +60,12 @@ Campaigns, SEO, content and growth. **822 ready-made Grok Bot templates** for th
 | [Ad Campaign Analyzer](data-analysis/ad-campaign-analyzer.md) | Analyze cross-channel ad data, quantify uncertainty, and propose evidence-labeled budget tests. |
 | [Talivia Agent Kit](data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Podcast Content Analyzer](../operations/data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
+| [Hasdata](../it-and-development/data-analysis/hasdata.md) | Extract public web data via HasData APIs for scraping, SERPs, and structured sources. |
 | [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Analytics Product](data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
-| [Google Ads Performance Analyzer](data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 
-[All 129 Data Analysis templates →](data-analysis/README.md)
+[All 133 Data Analysis templates →](data-analysis/README.md)
 
 ## Writing & Content
 
@@ -80,7 +80,7 @@ Campaigns, SEO, content and growth. **822 ready-made Grok Bot templates** for th
 | [Seo Content Auditor](writing-and-content/seo-content-auditor.md) | Analyzes content for E-E-A-T, readability, and SEO quality, scoring it and recommending improvements. |
 | [Devrel Content](writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 
-[All 78 Writing & Content templates →](writing-and-content/README.md)
+[All 79 Writing & Content templates →](writing-and-content/README.md)
 
 ## Research
 
@@ -90,12 +90,12 @@ Campaigns, SEO, content and growth. **822 ready-made Grok Bot templates** for th
 | [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Customer Research](research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Url Context Validator](../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
 | [Kotler Macro Analyzer](../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
 | [Discover Brand Materials](research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
 | [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
-| [Search Specialist](../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
 
-[All 74 Research templates →](research/README.md)
+[All 77 Research templates →](research/README.md)
 
 ## Social Media
 
@@ -136,11 +136,11 @@ Campaigns, SEO, content and growth. **822 ready-made Grok Bot templates** for th
 | [Fal Generate](../creatives/generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [AI Studio Image](../creatives/generative-art/ai-studio-image.md) | Generates humanized images via Google AI Studio with smartphone photo realism. |
 | [Modellix](../creatives/generative-art/modellix.md) | Generate images, videos, and speech via the Modellix CLI workflow. |
+| [Generate Image](../creatives/generative-art/generate-image.md) | Generates or edits images using AI models for photos, illustrations, and visual assets. |
 | [Image Generator](../creatives/generative-art/image-generator.md) | Generate and edit images using Gemini's Nano Banana Pro model. |
 | [Generate Nanobanana](../creatives/generative-art/generate-nanobanana.md) | Generate and edit images/video via Gemini models with cost approval and reference-image support. |
-| [Muapi Media](../creatives/generative-art/muapi-media.md) | Generate images and videos via MuAPI's async API with key protection, polling, and safe downloads. |
 
-[All 21 Generative Art templates →](generative-art/README.md)
+[All 22 Generative Art templates →](generative-art/README.md)
 
 ## Coding
 
@@ -155,7 +155,7 @@ Campaigns, SEO, content and growth. **822 ready-made Grok Bot templates** for th
 | [Core Web Vitals](../it-and-development/coding/core-web-vitals.md) | Analyzes and fixes LCP, INP, and CLS to improve page experience and search ranking. |
 | [Nextjs Seo Indexing](../it-and-development/coding/nextjs-seo-indexing.md) | Fix SEO indexing issues and crawl budget problems in Next.js apps. |
 
-[All 13 Coding templates →](coding/README.md)
+[All 14 Coding templates →](coding/README.md)
 
 ## Productivity
 
@@ -222,6 +222,7 @@ Campaigns, SEO, content and growth. **822 ready-made Grok Bot templates** for th
 | Template | What it does |
 |---|---|
 | [Nanobanana Ppt Templates](../operations/office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
+| [Notion Ops Connector](../operations/office-tools/notion-ops-connector.md) | Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl. |
 | [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
 | [Pptx Deck Creation](office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
 | [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |

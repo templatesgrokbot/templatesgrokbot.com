@@ -3,8 +3,8 @@ name: "Azure Ai Document Intelligence Ts"
 slug: azure-ai-document-intelligence-ts
 language: en
 tagline: "Extract text, tables, and structured data from documents using Azure AI."
-jobs: ["it-and-development","operations"]
-topics: ["data-analysis","generative-ai-and-llm"]
+jobs: ["it-and-development","operations","insurance","legal","government"]
+topics: ["data-analysis","generative-ai-and-llm","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-document-intelligence-ts
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

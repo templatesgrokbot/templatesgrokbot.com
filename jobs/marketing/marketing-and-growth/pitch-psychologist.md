@@ -4,7 +4,7 @@ slug: pitch-psychologist
 language: en
 tagline: "Structure sales pitches using psychological sequencing to build desire before solution."
 jobs: ["marketing","sales"]
-topics: ["marketing-and-growth","writing-and-content"]
+topics: ["marketing-and-growth","writing-and-content","sales-and-negotiation"]
 category: marketing
 url: https://templatesgrokbot.com/bot/pitch-psychologist
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

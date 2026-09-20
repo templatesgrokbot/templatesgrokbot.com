@@ -4,7 +4,7 @@ slug: huggingface-zerogpu
 language: en
 tagline: "Build and deploy Gradio AI demos on Hugging Face ZeroGPU hardware."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/huggingface-zerogpu
 adapted_from: https://github.com/huggingface/skills/tree/main/skills/huggingface-zerogpu

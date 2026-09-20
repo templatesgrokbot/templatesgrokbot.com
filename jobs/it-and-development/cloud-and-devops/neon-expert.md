@@ -4,7 +4,7 @@ slug: neon-expert
 language: en
 tagline: "Guides Neon Serverless Postgres setup and coordinates with specialized agents."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/neon-expert
 adapted_from: https://www.aitmpl.com/component/agents/database/neon-expert

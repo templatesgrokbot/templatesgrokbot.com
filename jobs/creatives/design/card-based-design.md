@@ -3,8 +3,8 @@ name: "Card Based Design"
 slug: card-based-design
 language: en
 tagline: "Generate card-based UI layouts with responsive grids and encapsulated content containers."
-jobs: ["creatives","product-development"]
-topics: ["design","generative-code"]
+jobs: ["creatives","product-development","it-and-development"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/card-based-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

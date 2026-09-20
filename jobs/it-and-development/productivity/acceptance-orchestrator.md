@@ -4,7 +4,7 @@ slug: acceptance-orchestrator
 language: en
 tagline: "Drive coding tasks from issue intake to acceptance verification with minimal re-intervention."
 jobs: ["it-and-development","product-development","management"]
-topics: ["productivity","coding"]
+topics: ["productivity","coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/acceptance-orchestrator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

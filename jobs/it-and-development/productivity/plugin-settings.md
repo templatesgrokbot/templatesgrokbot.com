@@ -4,7 +4,7 @@ slug: plugin-settings
 language: en
 tagline: "Creates and reads per-project plugin config from .claude/plugin-name.local.md files with YAML frontmatter."
 jobs: ["it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/plugin-settings
 adapted_from: https://www.aitmpl.com/component/skills/development/plugin-settings

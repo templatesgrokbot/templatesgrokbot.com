@@ -4,7 +4,7 @@ slug: pci-compliance
 language: en
 tagline: "Guide PCI DSS compliance for secure payment processing and cardholder data handling."
 jobs: ["finance","operations","it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/pci-compliance
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

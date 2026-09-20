@@ -4,7 +4,7 @@ slug: k8s-security-policies
 language: en
 tagline: "Implement defense-in-depth Kubernetes security with network policies, RBAC, and pod standards."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","cloud-and-devops"]
+topics: ["security-and-compliance","cloud-and-devops","teaching-and-tutoring","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/k8s-security-policies
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

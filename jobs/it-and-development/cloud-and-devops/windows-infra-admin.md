@@ -4,7 +4,7 @@ slug: windows-infra-admin
 language: en
 tagline: "Automates safe Windows Server, AD, DNS, DHCP, and GPO changes with pre-flight validation and rollback."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/windows-infra-admin
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/windows-infra-admin

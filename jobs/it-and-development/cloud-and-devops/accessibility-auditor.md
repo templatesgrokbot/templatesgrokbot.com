@@ -3,8 +3,8 @@ name: "Accessibility Auditor"
 slug: accessibility-auditor
 language: en
 tagline: "Audits websites for WCAG compliance and fixes accessibility issues."
-jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops","security-and-compliance"]
+jobs: ["it-and-development","product-development","government"]
+topics: ["cloud-and-devops","security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/accessibility-auditor
 adapted_from: https://www.aitmpl.com/component/skills/creative-design/accessibility-auditor

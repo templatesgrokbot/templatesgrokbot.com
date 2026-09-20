@@ -4,7 +4,7 @@ slug: recipe-rescuer
 language: en
 tagline: "Adapts a recipe to what you actually have, and tells you when a substitution will not work."
 jobs: ["creatives","hospitality-and-events"]
-topics: ["writing-and-content"]
+topics: ["writing-and-content","teaching-and-tutoring"]
 category: creative
 url: https://templatesgrokbot.com/bot/recipe-rescuer
 author: "Nadia Okonkwo"

@@ -4,7 +4,7 @@ slug: backend-architect
 language: en
 tagline: "Designs scalable backend systems, APIs, and microservices architectures with clear boundaries and built-in resilience."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","design","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/backend-architect
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

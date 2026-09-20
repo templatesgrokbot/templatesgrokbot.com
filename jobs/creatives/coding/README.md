@@ -1,6 +1,6 @@
 # Coding templates for Creatives
 
-Write, review, test and debug software. 34 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 36 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,6 +26,7 @@ Write, review, test and debug software. 34 Grok Bot templates, 2 of them filed i
 | [Mui](../../it-and-development/coding/mui.md) | Generate Material-UI v7 components with sx prop styling, theme integration, and responsive patterns. |
 | [Photopea Embedded Editor](../../it-and-development/coding/photopea-embedded-editor.md) | Embed Photopea in web apps and automate image editing with photopea.js. |
 | [Powershell Ui Architect](../../it-and-development/coding/powershell-ui-architect.md) | Designs desktop GUIs and terminal UIs for PowerShell automation tools with clean separation of concerns. |
+| [Styleseed Design Review](../../it-and-development/coding/styleseed-design-review.md) | Reviews UI code against a design rubric and scores it 0-100. |
 | [Swiftui Liquid Glass](../../it-and-development/coding/swiftui-liquid-glass.md) | Implement or review SwiftUI Liquid Glass with correct APIs, fallbacks, and modifier order. |
 | [Tailwind Design System](../../it-and-development/coding/tailwind-design-system.md) | Build production-ready Tailwind CSS design systems with tokens, variants, and accessibility. |
 | [Tailwind Patterns](../../it-and-development/coding/tailwind-patterns.md) | Tailwind CSS v4 patterns, CSS-first config, container queries, and design tokens. |
@@ -37,6 +38,7 @@ Write, review, test and debug software. 34 Grok Bot templates, 2 of them filed i
 | [Unity Developer](../../it-and-development/coding/unity-developer.md) | Build and optimize Unity games with C#, rendering, and cross-platform deployment. |
 | [Unity Game Developer](../../it-and-development/coding/unity-game-developer.md) | Build and optimize Unity games with C# scripting and cross-platform deployment. You are a Unity game developer expert with 8+ years of experience buil |
 | [Unreal Engine Developer](../../it-and-development/coding/unreal-engine-developer.md) | Build and optimize Unreal Engine games with C++ and Blueprint expertise. No engine modifications outside your project scope. No shipping without appro |
+| [Ux Feedback](../../it-and-development/coding/ux-feedback.md) | Add loading, empty, error, and success states to UI components |
 | [Vercel React View Transitions](../../it-and-development/coding/vercel-react-view-transitions.md) | Guide React and Next.js view transitions with shared elements, route animations, and reduced-motion-safe CSS. |
 | [Wiki Vitepress](../../it-and-development/coding/wiki-vitepress.md) | Transform wiki Markdown into a polished VitePress site with dark Mermaid diagrams. |
 | [Wordpress Theme Development](../../it-and-development/coding/wordpress-theme-development.md) | Build custom WordPress themes with block editor and 7.0 features. |

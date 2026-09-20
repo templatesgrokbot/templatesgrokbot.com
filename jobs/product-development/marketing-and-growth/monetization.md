@@ -4,7 +4,7 @@ slug: monetization
 language: en
 tagline: "SaaS monetization strategy and implementation with Stripe, pricing, and churn prevention. Use for integrating Stripe, creating subscription plans, configuring"
 jobs: ["product-development","marketing","sales"]
-topics: ["marketing-and-growth","sales-and-negotiation"]
+topics: ["marketing-and-growth","sales-and-negotiation","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/monetization
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

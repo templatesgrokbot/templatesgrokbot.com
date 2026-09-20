@@ -4,7 +4,7 @@ slug: ontoly-software-graph
 language: en
 tagline: "Analyze TypeScript architecture via Ontoly's deterministic Software Graph queries."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","research"]
+topics: ["coding","research","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ontoly-software-graph
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

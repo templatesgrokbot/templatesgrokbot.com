@@ -4,7 +4,7 @@ slug: design-ux
 language: en
 tagline: "Heuristic usability audit of interactive UIs against Nielsen's 10 and interaction add-ons. Scores live rendered artifact, not mockups. Fixes then re-a"
 jobs: ["it-and-development","creatives","product-development"]
-topics: ["design","coding"]
+topics: ["design","coding","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/design-ux
 adapted_from: https://github.com/connerkward/ckw-design-skill/tree/main/deterministic-design/design-ux

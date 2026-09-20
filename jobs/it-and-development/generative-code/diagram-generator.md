@@ -3,8 +3,8 @@ name: "Diagram Generator"
 slug: diagram-generator
 language: en
 tagline: "Generate, refine, and render diagrams from natural language, code, or schemas."
-jobs: ["it-and-development","creatives"]
-topics: ["generative-code","design"]
+jobs: ["it-and-development","creatives","science-and-research"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/diagram-generator
 adapted_from: https://github.com/zhaoxuya520/reverse-skill

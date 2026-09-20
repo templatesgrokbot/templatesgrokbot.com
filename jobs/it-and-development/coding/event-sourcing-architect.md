@@ -4,7 +4,7 @@ slug: event-sourcing-architect
 language: en
 tagline: "Designs event-sourced systems with CQRS, projections, and sagas for audit trails and temporal queries."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","design","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/event-sourcing-architect
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

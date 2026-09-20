@@ -4,7 +4,7 @@ slug: teach
 language: en
 tagline: "Teach any topic through structured lessons, reference docs, and learning records."
 jobs: ["education"]
-topics: ["teaching-and-tutoring","knowledge-management"]
+topics: ["teaching-and-tutoring","knowledge-management","self-improvement"]
 category: education
 url: https://templatesgrokbot.com/bot/teach
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

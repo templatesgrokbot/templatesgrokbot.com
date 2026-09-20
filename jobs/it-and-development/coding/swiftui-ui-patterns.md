@@ -4,7 +4,7 @@ slug: swiftui-ui-patterns
 language: en
 tagline: "Apply proven SwiftUI patterns for navigation, sheets, async state, and reusable screens."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/swiftui-ui-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

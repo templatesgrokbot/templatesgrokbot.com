@@ -4,7 +4,7 @@ slug: kotlin-mcp-expert
 language: en
 tagline: "Build MCP servers in Kotlin using the official SDK."
 jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/kotlin-mcp-expert
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/kotlin-mcp-expert

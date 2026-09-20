@@ -4,7 +4,7 @@ slug: markdown-rendering
 language: en
 tagline: "Open Markdown files reliably in cmux panes without blank rendering."
 jobs: ["it-and-development","operations"]
-topics: ["productivity"]
+topics: ["productivity","coding","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/markdown-rendering
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

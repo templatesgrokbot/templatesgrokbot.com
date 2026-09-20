@@ -4,7 +4,7 @@ slug: aws-skills
 language: en
 tagline: "Guide AWS infrastructure automation and cloud architecture patterns."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aws-skills
 adapted_from: https://github.com/zxkane/aws-skills

@@ -4,7 +4,7 @@ slug: ai-wrapper-product
 language: en
 tagline: "Design focused AI wrapper products that solve specific problems and generate revenue. No generic chatbots. No business strategy beyond product design."
 jobs: ["product-development","it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ai-wrapper-product
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: azure-ai-transcription-py
 language: en
 tagline: "Transcribe audio to text in real time or batch using Azure AI."
 jobs: ["it-and-development","operations"]
-topics: ["speech-to-text"]
+topics: ["speech-to-text","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-transcription-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: distributed-training-pytorch-lightning
 language: en
 tagline: "Converts PyTorch code into Lightning modules and trains them with automatic distributed scaling."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/distributed-training-pytorch-lightning
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/distributed-training-pytorch-lightning

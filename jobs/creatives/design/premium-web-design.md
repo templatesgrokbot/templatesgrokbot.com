@@ -4,7 +4,7 @@ slug: premium-web-design
 language: en
 tagline: "Generates award-quality React website components with unique, intentional design."
 jobs: ["creatives","it-and-development","product-development"]
-topics: ["design","generative-code","generative-ai-and-llm"]
+topics: ["design","generative-code","generative-ai-and-llm","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/premium-web-design
 adapted_from: https://www.aitmpl.com/component/skills/creative-design/premium-web-design

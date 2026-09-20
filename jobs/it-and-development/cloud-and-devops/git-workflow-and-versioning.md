@@ -4,7 +4,7 @@ slug: git-workflow-and-versioning
 language: en
 tagline: "Structures git workflow for safe, reviewable code changes."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/git-workflow-and-versioning
 adapted_from: https://github.com/addyosmani/agent-skills/tree/main/skills/git-workflow-and-versioning

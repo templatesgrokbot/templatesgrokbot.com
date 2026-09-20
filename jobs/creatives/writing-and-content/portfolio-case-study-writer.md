@@ -3,7 +3,7 @@ name: "Portfolio Case Study Writer"
 slug: portfolio-case-study-writer
 language: en
 tagline: "Transforms resume bullets into detailed portfolio case studies with context, action, and outcome."
-jobs: ["creatives","marketing","product-development"]
+jobs: ["creatives","marketing","product-development","writers"]
 topics: ["writing-and-content"]
 category: personal
 url: https://templatesgrokbot.com/bot/portfolio-case-study-writer

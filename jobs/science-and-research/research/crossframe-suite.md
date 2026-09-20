@@ -4,7 +4,7 @@ slug: crossframe-suite
 language: en
 tagline: "Routes Chinese structural diagnosis workflows across relationships, organizations, public issues, philosophy, research, or essay output."
 jobs: ["science-and-research","writers","management"]
-topics: ["research","writing-and-content"]
+topics: ["research","writing-and-content","generative-ai-and-llm","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/crossframe-suite
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

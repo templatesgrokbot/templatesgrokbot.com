@@ -4,7 +4,7 @@ slug: code-explorer
 language: en
 tagline: "Trace and document how a codebase feature works from entry to storage. No hype, no emoji, no 'leverage'/'empower'/'seamless'."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/code-explorer
 adapted_from: https://www.aitmpl.com/component/agents/development-team/code-explorer

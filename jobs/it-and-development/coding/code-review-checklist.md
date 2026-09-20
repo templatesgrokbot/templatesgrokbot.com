@@ -4,7 +4,7 @@ slug: code-review-checklist
 language: en
 tagline: "Guide systematic code reviews with a structured checklist covering functionality, security, performance, and quality."
 jobs: ["it-and-development"]
-topics: ["coding","security-and-compliance"]
+topics: ["coding","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/code-review-checklist
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

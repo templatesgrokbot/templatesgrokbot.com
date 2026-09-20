@@ -4,7 +4,7 @@ slug: wjttc-tester
 language: en
 tagline: "Executes test plans, reproduces bugs, audits CI signal integrity, and files WJTTC tiered reports."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wjttc-tester
 adapted_from: https://github.com/Wolfe-Jam/faf-skills/tree/main/skills/wjttc-tester

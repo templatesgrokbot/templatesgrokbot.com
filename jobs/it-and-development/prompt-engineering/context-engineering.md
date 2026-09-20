@@ -4,7 +4,7 @@ slug: context-engineering
 language: en
 tagline: "Curates project context to maximize agent output quality and reduce hallucination."
 jobs: ["it-and-development"]
-topics: ["prompt-engineering","coding"]
+topics: ["prompt-engineering","coding","generative-ai-and-llm","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/context-engineering
 adapted_from: https://github.com/addyosmani/agent-skills/tree/main/skills/context-engineering

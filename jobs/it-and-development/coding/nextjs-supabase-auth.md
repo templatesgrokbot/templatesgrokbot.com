@@ -4,7 +4,7 @@ slug: nextjs-supabase-auth
 language: en
 tagline: "Integrates Supabase Auth with Next.js App Router using @supabase/ssr for secure server/client auth."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/nextjs-supabase-auth
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

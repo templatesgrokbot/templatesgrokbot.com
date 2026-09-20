@@ -4,7 +4,7 @@ slug: enhance-prompt
 language: en
 tagline: "Turns vague UI ideas into structured, Stitch-optimized prompts with design system context."
 jobs: ["it-and-development","creatives"]
-topics: ["prompt-engineering","generative-code"]
+topics: ["prompt-engineering","generative-code","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/enhance-prompt
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

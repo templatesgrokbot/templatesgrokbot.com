@@ -4,7 +4,7 @@ slug: comprehensive-review-pr-enhance
 language: en
 tagline: "Generate structured PR descriptions from git diffs."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/comprehensive-review-pr-enhance
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

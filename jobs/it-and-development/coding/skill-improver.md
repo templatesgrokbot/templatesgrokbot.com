@@ -4,7 +4,7 @@ slug: skill-improver
 language: en
 tagline: "Iteratively improve a Claude Code capability until it meets quality standards."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/skill-improver
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

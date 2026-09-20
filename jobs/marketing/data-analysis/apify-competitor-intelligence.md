@@ -3,8 +3,8 @@ name: "Apify Competitor Intelligence"
 slug: apify-competitor-intelligence
 language: en
 tagline: "Extract competitor data from Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok."
-jobs: ["marketing","sales"]
-topics: ["data-analysis","marketing-and-growth"]
+jobs: ["marketing","sales","hospitality-and-events"]
+topics: ["data-analysis","marketing-and-growth","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/apify-competitor-intelligence
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

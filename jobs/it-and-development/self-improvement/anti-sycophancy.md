@@ -3,8 +3,8 @@ name: "Anti Sycophancy"
 slug: anti-sycophancy
 language: en
 tagline: "Challenge user claims independently to reduce AI sycophancy."
-jobs: ["it-and-development","product-development"]
-topics: ["self-improvement","research"]
+jobs: ["it-and-development","product-development","science-and-research"]
+topics: ["self-improvement","research","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/anti-sycophancy
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

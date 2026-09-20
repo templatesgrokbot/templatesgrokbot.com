@@ -4,7 +4,7 @@ slug: edr-bypass-re
 language: en
 tagline: "Reverse-engineer EDR internals and study bypass techniques in authorized labs only."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","coding"]
+topics: ["security-and-compliance","coding","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/edr-bypass-re
 adapted_from: https://github.com/zhaoxuya520/reverse-skill

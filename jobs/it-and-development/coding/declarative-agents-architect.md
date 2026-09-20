@@ -4,7 +4,7 @@ slug: declarative-agents-architect
 language: en
 tagline: "Designs and validates Microsoft 365 Copilot declarative agent manifests and TypeSpec definitions."
 jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/declarative-agents-architect
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/declarative-agents-architect

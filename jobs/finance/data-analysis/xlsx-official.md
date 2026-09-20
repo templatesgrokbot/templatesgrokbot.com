@@ -3,7 +3,7 @@ name: "Xlsx Official"
 slug: xlsx-official
 language: en
 tagline: "Reads, edits, and creates spreadsheet files with formulas, formatting, and zero errors."
-jobs: ["finance","operations","it-and-development"]
+jobs: ["finance","operations","it-and-development","science-and-research","insurance"]
 topics: ["data-analysis","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/xlsx-official

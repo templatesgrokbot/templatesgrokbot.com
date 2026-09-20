@@ -4,7 +4,7 @@ slug: microservices-architect
 language: en
 tagline: "Designs and evolves microservice architectures from monoliths to production-hardened distributed systems. Uses domain-driven design to identify servic"
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/microservices-architect
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/microservices-architect

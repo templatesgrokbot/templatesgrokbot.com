@@ -3,8 +3,8 @@ name: "Session Handoff"
 slug: session-handoff
 language: en
 tagline: "Creates and resumes handoff documents so fresh sessions continue work without losing context."
-jobs: ["operations","management"]
-topics: ["productivity","knowledge-management"]
+jobs: ["operations","management","it-and-development"]
+topics: ["productivity","knowledge-management","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/session-handoff
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/session-handoff

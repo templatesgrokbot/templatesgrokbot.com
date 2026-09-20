@@ -4,7 +4,7 @@ slug: safety-alignment-constitutional-ai
 language: en
 tagline: "Trains language models to be harmless via self-critique and AI feedback, without human labels."
 jobs: ["science-and-research","it-and-development"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","teaching-and-tutoring","prompt-engineering"]
 category: research
 url: https://templatesgrokbot.com/bot/safety-alignment-constitutional-ai
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/safety-alignment-constitutional-ai

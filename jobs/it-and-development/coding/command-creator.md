@@ -4,7 +4,7 @@ slug: command-creator
 language: en
 tagline: "Creates reusable slash commands for Claude Code from user workflows."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","prompt-engineering"]
+topics: ["coding","prompt-engineering","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/command-creator
 adapted_from: https://www.aitmpl.com/component/skills/development/command-creator

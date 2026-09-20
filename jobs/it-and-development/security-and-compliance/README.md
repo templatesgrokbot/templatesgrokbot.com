@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 322 Grok Bot templates, 309 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 323 Grok Bot templates, 309 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -132,6 +132,7 @@ Authorised security testing, audits and regulatory work. 322 Grok Bot templates,
 | [Incident Reporting Navigator](incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
 | [Incident Response Analyst Playbook](incident-response-analyst-playbook.md) | Guides cybersecurity analysts through every step of incident response, from classification to post-mortem. |
 | [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Information Security Manager Iso27001](../../healthcare/security-and-compliance/information-security-manager-iso27001.md) | Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies. |
 | [InfoSec Compliance Sentinel](infosec-compliance-sentinel.md) | Monitors regulatory changes, audits compliance, and reports status for information security analysts. |
 | [InfoSec Risk Register Bot](infosec-risk-register-bot.md) | Automates risk assessment workflows for information security analysts. |
 | [Infrastructure Audit Planner](infrastructure-audit-planner.md) | Conducts comprehensive IT infrastructure audits and delivers actionable reports. |

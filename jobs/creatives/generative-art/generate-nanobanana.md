@@ -4,7 +4,7 @@ slug: generate-nanobanana
 language: en
 tagline: "Generate and edit images/video via Gemini models with cost approval and reference-image support."
 jobs: ["creatives","marketing"]
-topics: ["generative-art","generative-video"]
+topics: ["generative-art","generative-video","generative-ai-and-llm","text-to-video"]
 category: creative
 url: https://templatesgrokbot.com/bot/generate-nanobanana
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

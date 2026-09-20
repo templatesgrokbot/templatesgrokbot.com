@@ -4,7 +4,7 @@ slug: market-research-reports
 language: en
 tagline: "Generates 50+ page consulting-grade market research reports with LaTeX formatting, visuals, and strategic frameworks."
 jobs: ["marketing","executives-and-strategy"]
-topics: ["research","writing-and-content"]
+topics: ["research","writing-and-content","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/market-research-reports
 adapted_from: https://www.aitmpl.com/component/skills/scientific/market-research-reports

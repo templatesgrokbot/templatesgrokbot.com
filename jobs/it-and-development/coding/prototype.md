@@ -4,7 +4,7 @@ slug: prototype
 language: en
 tagline: "Build a throwaway terminal or UI prototype to answer one design question fast."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/prototype
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

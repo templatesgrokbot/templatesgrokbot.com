@@ -4,7 +4,7 @@ slug: cloudformation-best-practices
 language: en
 tagline: "Optimize and review CloudFormation templates for production-grade infrastructure."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cloudformation-best-practices
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

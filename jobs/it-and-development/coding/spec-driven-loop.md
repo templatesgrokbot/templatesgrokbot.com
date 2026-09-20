@@ -4,7 +4,7 @@ slug: spec-driven-loop
 language: en
 tagline: "Freeze specs and acceptance criteria before multi-agent implementation, then judge from evidence."
 jobs: ["it-and-development","product-development","management"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","generative-ai-and-llm","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/spec-driven-loop
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

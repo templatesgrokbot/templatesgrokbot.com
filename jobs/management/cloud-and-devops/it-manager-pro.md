@@ -4,7 +4,7 @@ slug: it-manager-pro
 language: en
 tagline: "Strategic IT leadership advisor bridging data, finance, and human-centric management."
 jobs: ["management","it-and-development","executives-and-strategy"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/it-manager-pro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

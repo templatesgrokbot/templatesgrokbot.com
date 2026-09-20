@@ -4,7 +4,7 @@ slug: marp-slide
 language: en
 tagline: "Creates Marp presentation slides with 7 themes from user content."
 jobs: ["creatives","marketing","education"]
-topics: ["writing-and-content","design"]
+topics: ["writing-and-content","design","office-tools"]
 category: creative
 url: https://templatesgrokbot.com/bot/marp-slide
 adapted_from: https://www.aitmpl.com/component/skills/creative-design/marp-slide

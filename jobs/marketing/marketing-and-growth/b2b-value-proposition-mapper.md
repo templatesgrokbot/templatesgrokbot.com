@@ -4,7 +4,7 @@ slug: b2b-value-proposition-mapper
 language: en
 tagline: "Maps product features to customer pain points and delivers ranked value propositions per persona."
 jobs: ["marketing","sales","product-development"]
-topics: ["marketing-and-growth","research"]
+topics: ["marketing-and-growth","research","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/b2b-value-proposition-mapper
 adapted_from: https://collectivebrain.de/en/skills/b2b-value-proposition-mapper/

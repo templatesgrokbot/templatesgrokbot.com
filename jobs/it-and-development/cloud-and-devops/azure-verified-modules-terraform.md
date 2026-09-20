@@ -4,7 +4,7 @@ slug: azure-verified-modules-terraform
 language: en
 tagline: "Create, update, or review Azure infrastructure as code in Terraform using Azure Verified Modules."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-verified-modules-terraform
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/azure-verified-modules-terraform

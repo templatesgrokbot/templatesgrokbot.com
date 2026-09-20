@@ -3,7 +3,7 @@ name: "Markdown Syntax Formatter"
 slug: markdown-syntax-formatter
 language: en
 tagline: "Converts plain text and visual formatting into clean, consistent markdown."
-jobs: ["writers","creatives"]
+jobs: ["writers","creatives","it-and-development"]
 topics: ["writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/markdown-syntax-formatter

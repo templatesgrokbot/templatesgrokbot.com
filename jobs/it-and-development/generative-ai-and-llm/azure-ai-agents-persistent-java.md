@@ -4,7 +4,7 @@ slug: azure-ai-agents-persistent-java
 language: en
 tagline: "Manage persistent AI agents with threads, messages, runs, and tools via Java SDK."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm","cloud-and-devops"]
+topics: ["generative-ai-and-llm","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-agents-persistent-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

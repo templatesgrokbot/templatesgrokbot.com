@@ -4,7 +4,7 @@ slug: react-native-skills
 language: en
 tagline: "Best practices for React Native and Expo app development."
 jobs: ["it-and-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/react-native-skills
 adapted_from: https://github.com/vercel-labs/agent-skills

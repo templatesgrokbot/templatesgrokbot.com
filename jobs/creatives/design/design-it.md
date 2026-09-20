@@ -4,7 +4,7 @@ slug: design-it
 language: en
 tagline: "Routes frontend design tasks to 48 specific UI styles with curated palettes."
 jobs: ["creatives","it-and-development"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/design-it
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

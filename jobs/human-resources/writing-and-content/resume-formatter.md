@@ -4,7 +4,7 @@ slug: resume-formatter
 language: en
 tagline: "Reformats resumes for ATS compatibility and clean, scannable layouts."
 jobs: ["human-resources","it-and-development"]
-topics: ["writing-and-content"]
+topics: ["writing-and-content","office-tools","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/resume-formatter
 adapted_from: https://www.aitmpl.com/component/skills/career/resume-formatter

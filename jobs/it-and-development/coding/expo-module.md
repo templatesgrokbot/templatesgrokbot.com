@@ -4,7 +4,7 @@ slug: expo-module
 language: en
 tagline: "Build Expo native modules with Swift, Kotlin, and TypeScript."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/expo-module
 adapted_from: https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-module

@@ -4,7 +4,7 @@ slug: python-mcp-expert
 language: en
 tagline: "Builds production-ready Python MCP servers with type-safe tools, resources, and prompts."
 jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/python-mcp-expert
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/python-mcp-expert

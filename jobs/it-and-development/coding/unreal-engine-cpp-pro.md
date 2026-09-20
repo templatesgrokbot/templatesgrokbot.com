@@ -4,7 +4,7 @@ slug: unreal-engine-cpp-pro
 language: en
 tagline: "Expert guidelines for Unreal Engine 5.x C++ development with performance and UObject hygiene."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/unreal-engine-cpp-pro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -1,6 +1,6 @@
 # Grok Bot templates for Insurance
 
-Underwriting, claims and policy work. **140 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Underwriting, claims and policy work. **148 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,14 @@ Underwriting, claims and policy work. **140 ready-made Grok Bot templates** for 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 75 |
+| [Data Analysis](data-analysis/README.md) | 80 |
 | [Security & Compliance](security-and-compliance/README.md) | 22 |
 | [Support & Community](support-and-community/README.md) | 14 |
 | [Productivity](productivity/README.md) | 12 |
 | [Knowledge Management](knowledge-management/README.md) | 5 |
-| [Research](research/README.md) | 4 |
+| [Research](research/README.md) | 5 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
+| [Office Tools](office-tools/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Translation](translation/README.md) | 2 |
 
@@ -35,6 +36,8 @@ Underwriting, claims and policy work. **140 ready-made Grok Bot templates** for 
 | [Anomaly Detection Analyst](../it-and-development/data-analysis/anomaly-detection-analyst.md) | Detects anomalies in your data and explains them for faster, accurate decisions. |
 | [Asset-Liability Management Assistant](../finance/data-analysis/asset-liability-management-assistant.md) | Analyzes assets and liabilities, models scenarios, and optimizes strategies for insurance actuaries. |
 | [Automated Claim Processing Assistant](../operations/data-analysis/automated-claim-processing-assistant.md) | Automates claim intake, verification, decisions, and customer updates for insurance processors. |
+| [Azure Ai Document Intelligence Dotnet](../it-and-development/data-analysis/azure-ai-document-intelligence-dotnet.md) | Extract text, tables, and structured data from documents using Azure AI Document Intelligence. |
+| [Azure Ai Document Intelligence Ts](../it-and-development/data-analysis/azure-ai-document-intelligence-ts.md) | Extract text, tables, and structured data from documents using Azure AI. |
 | [Catastrophe Modeling Analyst](../finance/data-analysis/catastrophe-modeling-analyst.md) | Catastrophe modeling assistant for insurance risk analysts, from data to reports. |
 | [Catastrophe Modeling Assistant](../finance/data-analysis/catastrophe-modeling-assistant.md) | Catastrophe modeling assistant for insurance data analysts, from data prep to reporting. |
 | [Catastrophe Risk Analysis Assistant](../finance/data-analysis/catastrophe-risk-analysis-assistant.md) | Analyzes catastrophe data, models risk, and prepares reports for insurance decisions. |
@@ -64,6 +67,7 @@ Underwriting, claims and policy work. **140 ready-made Grok Bot templates** for 
 | [Data Entry Automation Assistant](../operations/data-analysis/data-entry-automation-assistant.md) | Automates data entry tasks from extraction to integration, with approval gates. |
 | [Data Quality Control Assistant](../operations/data-analysis/data-quality-control-assistant.md) | Runs quality control checks on entered data and reports issues for correction. |
 | [Experience Studies Analyst](../finance/data-analysis/experience-studies-analyst.md) | Analyzes insurance experience data to inform pricing and risk decisions. |
+| [Extract Document Data](../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
 | [Fraud Detection Algorithm Assistant](../finance/data-analysis/fraud-detection-algorithm-assistant.md) | Helps insurance data analysts build, test, and refine fraud detection algorithms from data prep to real-time monitoring. |
 | [Geographic Risk Analysis Assistant](../finance/data-analysis/geographic-risk-analysis-assistant.md) | Geographic risk analysis assistant for insurance risk analysts, turning data into assessments and reports. No hype, no fluff. |
 | [Home Inventory Builder](../operations/data-analysis/home-inventory-builder.md) | Turns your photos and receipts into an insurance-grade home inventory. |
@@ -90,6 +94,7 @@ Underwriting, claims and policy work. **140 ready-made Grok Bot templates** for 
 | [Insurance Risk Modelling Assistant](../finance/data-analysis/insurance-risk-modelling-assistant.md) | Builds and validates insurance risk models from data to reports, with approval gates. |
 | [Insurance Tech Impact Analyst](../finance/data-analysis/insurance-tech-impact-analyst.md) | Analyzes tech impacts and builds AI tools for insurance actuarial work. |
 | [Mortality and Morbidity Analyst](../finance/data-analysis/mortality-and-morbidity-analyst.md) | Analyzes mortality and morbidity data to inform actuarial decisions and insurance risk management. |
+| [Pdf Processing Pro](../operations/data-analysis/pdf-processing-pro.md) | Extracts text, tables, and form data from PDFs with validation and batch processing. |
 | [Policy Renewal Forecasting](../finance/data-analysis/policy-renewal-forecasting.md) | Forecast policy renewals and retention from your insurance data, with insights for decisions. |
 | [Policyholder Behavior Analyst](../finance/data-analysis/policyholder-behavior-analyst.md) | Analyzes policyholder behavior to predict trends, segment customers, and guide actuarial strategy. |
 | [Portfolio Risk Analysis Assistant](../finance/data-analysis/portfolio-risk-analysis-assistant.md) | Analyzes insurance portfolio risk data and produces reports, models, and recommendations for risk analysts. |
@@ -100,6 +105,7 @@ Underwriting, claims and policy work. **140 ready-made Grok Bot templates** for 
 | [Solvency Assessment Assistant](../finance/data-analysis/solvency-assessment-assistant.md) | Solvency assessment assistant for insurance actuaries, from data to reporting. |
 | [Underwriting Process Improvement Assistant](../finance/data-analysis/underwriting-process-improvement-assistant.md) | Analyzes underwriting data, automates risk assessment, and supports faster, accurate decisions. |
 | [Underwriting Support Assistant](../finance/data-analysis/underwriting-support-assistant.md) | Streamlines underwriting data, risk, policy, and compliance tasks for insurance risk analysts. |
+| [Xlsx Official](../finance/data-analysis/xlsx-official.md) | Reads, edits, and creates spreadsheet files with formulas, formatting, and zero errors. |
 
 ## Security & Compliance
 
@@ -182,6 +188,7 @@ Underwriting, claims and policy work. **140 ready-made Grok Bot templates** for 
 | [Insurance Market Radar](../finance/research/insurance-market-radar.md) | Tracks competitors' moves and market shifts to sharpen your insurance strategy. |
 | [Regulatory Research Assistant](../legal/research/regulatory-research-assistant.md) | Tracks, interprets, and applies regulatory changes for compliance officers. |
 | [Regulatory Update Analyst](../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
+| [Screen Adverse Media](../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
 
 ## Writing & Content
 
@@ -191,6 +198,13 @@ Underwriting, claims and policy work. **140 ready-made Grok Bot templates** for 
 | [Claims Training Update Coordinator](../operations/writing-and-content/claims-training-update-coordinator.md) | Keeps insurance claims training and guidelines current and compliant. |
 | [Policy Update Communications Assistant](../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
 | [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Excel Spreadsheets](../operations/office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
+| [Pdf Official](../operations/office-tools/pdf-official.md) | Process PDFs: merge, split, extract text/tables, create, OCR, watermark, encrypt, and fill forms. |
 
 ## Teaching & Tutoring
 

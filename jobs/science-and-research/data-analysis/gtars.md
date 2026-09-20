@@ -4,7 +4,7 @@ slug: gtars
 language: en
 tagline: "Analyze genomic intervals with high-performance Rust tools for overlap, coverage, tokenization, and fragment processing."
 jobs: ["science-and-research","it-and-development"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","teaching-and-tutoring","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/gtars
 adapted_from: https://www.aitmpl.com/component/skills/scientific/gtars

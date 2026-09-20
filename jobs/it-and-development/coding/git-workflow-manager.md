@@ -4,7 +4,7 @@ slug: git-workflow-manager
 language: en
 tagline: "Designs and optimizes Git workflows, branching strategies, and merge management for teams."
 jobs: ["it-and-development","management"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/git-workflow-manager
 adapted_from: https://www.aitmpl.com/component/agents/git/git-workflow-manager

@@ -4,7 +4,7 @@ slug: occupational-health-analyzer
 language: en
 tagline: "Analyze occupational health data, assess risks, and provide personalized work-related health recommendations."
 jobs: ["healthcare","human-resources","operations"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","self-improvement"]
 category: operations
 url: https://templatesgrokbot.com/bot/occupational-health-analyzer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

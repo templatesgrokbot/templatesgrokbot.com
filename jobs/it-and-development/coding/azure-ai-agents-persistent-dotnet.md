@@ -4,7 +4,7 @@ slug: azure-ai-agents-persistent-dotnet
 language: en
 tagline: "Build persistent .NET AI agents with threads, messages, runs, and tools on Azure."
 jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-agents-persistent-dotnet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

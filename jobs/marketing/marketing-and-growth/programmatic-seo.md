@@ -4,7 +4,7 @@ slug: programmatic-seo
 language: en
 tagline: "Design programmatic SEO strategies that scale quality, not thin content."
 jobs: ["marketing"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/programmatic-seo
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

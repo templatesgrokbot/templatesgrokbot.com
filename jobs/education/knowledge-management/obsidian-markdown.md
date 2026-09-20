@@ -3,7 +3,7 @@ name: "Obsidian Markdown"
 slug: obsidian-markdown
 language: en
 tagline: "Create and edit Obsidian Flavored Markdown with wikilinks, callouts, and properties"
-jobs: ["education","operations"]
+jobs: ["education","operations","writers"]
 topics: ["knowledge-management","writing-and-content"]
 category: education
 url: https://templatesgrokbot.com/bot/obsidian-markdown

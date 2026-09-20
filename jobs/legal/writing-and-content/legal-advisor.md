@@ -4,7 +4,7 @@ slug: legal-advisor
 language: en
 tagline: "Draft contracts, privacy policies, and compliance documents for tech businesses."
 jobs: ["legal","operations"]
-topics: ["writing-and-content","research"]
+topics: ["writing-and-content","research","security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/legal-advisor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

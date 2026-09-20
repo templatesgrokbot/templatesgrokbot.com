@@ -4,7 +4,7 @@ slug: faf-context
 language: en
 tagline: "Quickly get your project to 100% AI-readiness by auto-detecting stack and filling only what you know."
 jobs: ["it-and-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","generative-ai-and-llm","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/faf-context
 adapted_from: https://github.com/Wolfe-Jam/faf-skills/tree/main/skills/faf-context

@@ -4,7 +4,7 @@ slug: sales-enablement-pack
 language: en
 tagline: "Builds one-pagers, battlecards, and objection handling docs from product information whenever sales collateral is needed."
 jobs: ["marketing","sales"]
-topics: ["marketing-and-growth","writing-and-content","research"]
+topics: ["marketing-and-growth","writing-and-content","research","sales-and-negotiation"]
 category: marketing
 url: https://templatesgrokbot.com/bot/sales-enablement-pack
 adapted_from: https://collectivebrain.de/en/skills/sales-enablement-pack/

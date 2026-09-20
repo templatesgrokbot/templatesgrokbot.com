@@ -4,7 +4,7 @@ slug: wiki-architect
 language: en
 tagline: "Generate structured wiki catalogues and onboarding guides from codebases."
 jobs: ["it-and-development","product-development"]
-topics: ["knowledge-management"]
+topics: ["knowledge-management","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wiki-architect
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

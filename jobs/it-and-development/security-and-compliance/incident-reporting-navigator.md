@@ -3,8 +3,8 @@ name: "Incident Reporting Navigator"
 slug: incident-reporting-navigator
 language: en
 tagline: "Screens one security incident across EU reporting regimes and produces a cited notification map."
-jobs: ["it-and-development","legal"]
-topics: ["security-and-compliance"]
+jobs: ["it-and-development","legal","government"]
+topics: ["security-and-compliance","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/incident-reporting-navigator
 adapted_from: https://www.aitmpl.com/component/skills/security/incident-reporting-navigator

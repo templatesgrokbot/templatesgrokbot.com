@@ -4,7 +4,7 @@ slug: lesson-generator
 language: en
 tagline: "Build compact multi-lesson courses with navigation, quizzes, and flashcards."
 jobs: ["education","product-development"]
-topics: ["teaching-and-tutoring","generative-code"]
+topics: ["teaching-and-tutoring","generative-code","coding"]
 category: education
 url: https://templatesgrokbot.com/bot/lesson-generator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

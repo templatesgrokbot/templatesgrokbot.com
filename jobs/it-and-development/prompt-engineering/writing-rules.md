@@ -4,7 +4,7 @@ slug: writing-rules
 language: en
 tagline: "Guides users in writing Hookify rules to watch for patterns and show messages."
 jobs: ["it-and-development"]
-topics: ["prompt-engineering","coding"]
+topics: ["prompt-engineering","coding","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/writing-rules
 adapted_from: https://www.aitmpl.com/component/skills/productivity/writing-rules

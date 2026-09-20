@@ -4,7 +4,7 @@ slug: julia-pro
 language: en
 tagline: "Master modern Julia 1.10+ with performance optimization and production-ready practices."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/julia-pro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: mechanistic-interpretability-nnsight
 language: en
 tagline: "Runs mechanistic interpretability experiments on any PyTorch model, local or remote via NDIF."
 jobs: ["science-and-research","it-and-development"]
-topics: ["research","generative-ai-and-llm"]
+topics: ["research","generative-ai-and-llm","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/mechanistic-interpretability-nnsight
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/mechanistic-interpretability-nnsight

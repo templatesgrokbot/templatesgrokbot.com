@@ -4,7 +4,7 @@ slug: ai-studio-image
 language: en
 tagline: "Generates humanized images via Google AI Studio with smartphone photo realism."
 jobs: ["creatives","marketing"]
-topics: ["generative-art","design"]
+topics: ["generative-art","design","prompt-engineering"]
 category: creative
 url: https://templatesgrokbot.com/bot/ai-studio-image
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

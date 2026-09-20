@@ -4,7 +4,7 @@ slug: doordash-spend-guard
 language: en
 tagline: "Enforces hard spending caps on DoorDash orders through a deterministic wrapper."
 jobs: ["operations","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/doordash-spend-guard
 adapted_from: https://www.aitmpl.com/component/skills/doordash/doordash-spend-guard

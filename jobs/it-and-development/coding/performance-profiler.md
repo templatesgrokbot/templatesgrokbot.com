@@ -4,7 +4,7 @@ slug: performance-profiler
 language: en
 tagline: "Analyzes application performance and suggests optimizations based on profiling data."
 jobs: ["it-and-development"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/performance-profiler
 adapted_from: https://www.aitmpl.com/component/agents/development-tools/performance-profiler

@@ -4,7 +4,7 @@ slug: duotone-design
 language: en
 tagline: "Two-color web and app designs with duotone image effects across CSS, SwiftUI, Flutter, React Native, and Compose."
 jobs: ["creatives","it-and-development"]
-topics: ["design"]
+topics: ["design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/duotone-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

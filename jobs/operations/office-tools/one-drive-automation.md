@@ -3,8 +3,8 @@ name: "One Drive Automation"
 slug: one-drive-automation
 language: en
 tagline: "Manage OneDrive files, folders, shares, and permissions via Rube MCP."
-jobs: ["operations"]
-topics: ["office-tools"]
+jobs: ["operations","it-and-development"]
+topics: ["office-tools","cloud-and-devops","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/one-drive-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

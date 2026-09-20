@@ -4,7 +4,7 @@ slug: mentor
 language: en
 tagline: "Challenge an engineer's assumptions and guide them to optimal solutions through critical questioning."
 jobs: ["it-and-development","management"]
-topics: ["coding","self-improvement"]
+topics: ["coding","self-improvement","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mentor
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/mentor

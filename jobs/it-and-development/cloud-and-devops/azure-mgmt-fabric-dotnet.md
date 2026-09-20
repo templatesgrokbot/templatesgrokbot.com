@@ -4,7 +4,7 @@ slug: azure-mgmt-fabric-dotnet
 language: en
 tagline: "Provision and manage Microsoft Fabric capacities via Azure Resource Manager SDK in .NET."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-mgmt-fabric-dotnet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

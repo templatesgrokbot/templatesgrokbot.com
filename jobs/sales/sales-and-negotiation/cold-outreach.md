@@ -4,7 +4,7 @@ slug: cold-outreach
 language: en
 tagline: "Researches a prospect properly, then writes an opener that proves you did."
 jobs: ["sales","marketing"]
-topics: ["sales-and-negotiation","marketing-and-growth"]
+topics: ["sales-and-negotiation","marketing-and-growth","research","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/cold-outreach
 ---

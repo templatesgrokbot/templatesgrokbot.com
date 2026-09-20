@@ -4,7 +4,7 @@ slug: debugging-and-error-recovery
 language: en
 tagline: "Systematic root-cause debugging for test failures, build breaks, and runtime errors."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","self-improvement"]
+topics: ["coding","self-improvement","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/debugging-and-error-recovery
 adapted_from: https://github.com/addyosmani/agent-skills/tree/main/skills/debugging-and-error-recovery

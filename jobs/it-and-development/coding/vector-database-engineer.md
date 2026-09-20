@@ -4,7 +4,7 @@ slug: vector-database-engineer
 language: en
 tagline: "Designs and optimizes vector databases and semantic search for RAG and similarity systems."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/vector-database-engineer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

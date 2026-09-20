@@ -4,7 +4,7 @@ slug: nx-workspace-patterns
 language: en
 tagline: "Configure and optimize Nx monorepo workspaces with project boundaries and caching."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/nx-workspace-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

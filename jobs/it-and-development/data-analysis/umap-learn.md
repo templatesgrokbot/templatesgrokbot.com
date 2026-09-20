@@ -4,7 +4,7 @@ slug: umap-learn
 language: en
 tagline: "Reduce high-dimensional data to 2D/3D for visualization or clustering preprocessing. Uses UMAP algorithm. No training needed on new data after fit. Ke"
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis"]
+topics: ["data-analysis","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/umap-learn
 adapted_from: https://www.aitmpl.com/component/skills/scientific/umap-learn

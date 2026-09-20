@@ -4,7 +4,7 @@ slug: url-link-extractor
 language: en
 tagline: "Scans website codebases to extract and catalog all URLs and links."
 jobs: ["it-and-development","marketing"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/url-link-extractor
 adapted_from: https://www.aitmpl.com/component/agents/web-tools/url-link-extractor

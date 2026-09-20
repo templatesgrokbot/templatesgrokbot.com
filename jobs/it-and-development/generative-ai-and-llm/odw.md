@@ -4,7 +4,7 @@ slug: odw
 language: en
 tagline: "Plan-first multi-agent workflows with parallel agents and adversarial verification via local daemon."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","productivity"]
+topics: ["generative-ai-and-llm","productivity","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/odw
 adapted_from: https://github.com/Suraj1235/open-dynamic-workflows/tree/main/packages/antigravity-adapter/skills/odw

@@ -4,7 +4,7 @@ slug: scientific-slides
 language: en
 tagline: "Build slide decks and presentations for research talks."
 jobs: ["education","science-and-research"]
-topics: ["design"]
+topics: ["design","office-tools"]
 category: education
 url: https://templatesgrokbot.com/bot/scientific-slides
 adapted_from: https://www.aitmpl.com/component/skills/scientific/scientific-slides

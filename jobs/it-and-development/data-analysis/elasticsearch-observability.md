@@ -4,7 +4,7 @@ slug: elasticsearch-observability
 language: en
 tagline: "Debug code, optimize search, and remediate threats using live Elastic data."
 jobs: ["it-and-development","operations"]
-topics: ["data-analysis","cloud-and-devops","security-and-compliance"]
+topics: ["data-analysis","cloud-and-devops","security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/elasticsearch-observability
 adapted_from: https://www.aitmpl.com/component/agents/security/elasticsearch-observability

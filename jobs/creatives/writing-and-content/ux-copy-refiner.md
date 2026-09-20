@@ -3,7 +3,7 @@ name: "UX Copy Refiner"
 slug: ux-copy-refiner
 language: en
 tagline: "Rewrites UI microcopy so users instantly understand what happens next and what to do."
-jobs: ["creatives","product-development","marketing"]
+jobs: ["creatives","product-development","marketing","writers"]
 topics: ["writing-and-content","marketing-and-growth"]
 category: marketing
 url: https://templatesgrokbot.com/bot/ux-copy-refiner

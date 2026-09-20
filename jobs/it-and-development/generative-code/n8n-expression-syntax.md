@@ -4,7 +4,7 @@ slug: n8n-expression-syntax
 language: en
 tagline: "Validate and fix n8n expression syntax in workflows."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code","cloud-and-devops"]
+topics: ["generative-code","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/n8n-expression-syntax
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

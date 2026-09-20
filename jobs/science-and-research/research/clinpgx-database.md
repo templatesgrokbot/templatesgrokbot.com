@@ -3,8 +3,8 @@ name: "Clinpgx Database"
 slug: clinpgx-database
 language: en
 tagline: "Queries ClinPGx pharmacogenomics data for gene-drug interactions, CPIC guidelines, and allele functions."
-jobs: ["science-and-research"]
-topics: ["research"]
+jobs: ["science-and-research","healthcare"]
+topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/clinpgx-database
 adapted_from: https://www.aitmpl.com/component/skills/scientific/clinpgx-database

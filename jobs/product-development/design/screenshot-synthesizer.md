@@ -4,7 +4,7 @@ slug: screenshot-synthesizer
 language: en
 tagline: "Combines UI, interaction, and business analyses into a unified feature list and task breakdown."
 jobs: ["product-development","management"]
-topics: ["design","research"]
+topics: ["design","research","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/screenshot-synthesizer
 adapted_from: https://www.aitmpl.com/component/agents/ui-analysis/screenshot-synthesizer

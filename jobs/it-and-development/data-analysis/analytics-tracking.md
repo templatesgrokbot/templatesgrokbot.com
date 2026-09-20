@@ -4,7 +4,7 @@ slug: analytics-tracking
 language: en
 tagline: "Set up, audit, and improve analytics tracking for reliable decision data."
 jobs: ["it-and-development","marketing","operations"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/analytics-tracking
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

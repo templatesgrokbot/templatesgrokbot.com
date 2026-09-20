@@ -4,7 +4,7 @@ slug: backlink-kampagne
 language: en
 tagline: "Plans a clean link campaign across five prospect categories and ships outreach mails with it."
 jobs: ["marketing","pr-and-communications"]
-topics: ["marketing-and-growth","research"]
+topics: ["marketing-and-growth","research","sales-and-negotiation"]
 category: marketing
 url: https://templatesgrokbot.com/bot/backlink-kampagne
 adapted_from: https://collectivebrain.de/en/skills/backlink-kampagne/

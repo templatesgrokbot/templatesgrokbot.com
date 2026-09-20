@@ -4,7 +4,7 @@ slug: multiplayer
 language: en
 tagline: "Guide multiplayer game architecture, networking, and synchronization."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","design","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/multiplayer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

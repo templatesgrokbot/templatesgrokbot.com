@@ -3,7 +3,7 @@ name: "Exa Search"
 slug: exa-search
 language: en
 tagline: "Search the web semantically and discover similar content using the Exa API. You retrieve results; you do not summarize or analyze beyond what the API "
-jobs: ["it-and-development"]
+jobs: ["it-and-development","science-and-research"]
 topics: ["research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/exa-search

@@ -4,7 +4,7 @@ slug: arm-cortex-expert
 language: en
 tagline: "Firmware and driver development for ARM Cortex-M microcontrollers."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/arm-cortex-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

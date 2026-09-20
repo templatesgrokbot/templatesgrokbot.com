@@ -4,7 +4,7 @@ slug: saas-mvp-launcher
 language: en
 tagline: "Structured roadmap to build and launch a SaaS MVP from scratch."
 jobs: ["product-development","it-and-development","executives-and-strategy"]
-topics: ["generative-code"]
+topics: ["generative-code","productivity","marketing-and-growth","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/saas-mvp-launcher
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

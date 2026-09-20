@@ -4,7 +4,7 @@ slug: interactive-portfolio
 language: en
 tagline: "Builds project portfolios that convert visitors into job leads or client inquiries."
 jobs: ["creatives","marketing","sales"]
-topics: ["design","marketing-and-growth"]
+topics: ["design","marketing-and-growth","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/interactive-portfolio
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

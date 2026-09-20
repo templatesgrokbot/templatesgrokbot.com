@@ -4,7 +4,7 @@ slug: molykit
 language: en
 tagline: "Build cross-platform AI chat interfaces with Makepad using MolyKit toolkit components and patterns. MolyKit provides cross-platform async utilities, r"
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/molykit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

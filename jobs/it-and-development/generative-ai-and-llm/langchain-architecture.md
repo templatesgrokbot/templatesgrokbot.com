@@ -4,7 +4,7 @@ slug: langchain-architecture
 language: en
 tagline: "Build LLM apps with LangChain agents, chains, memory, and tools."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/langchain-architecture
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

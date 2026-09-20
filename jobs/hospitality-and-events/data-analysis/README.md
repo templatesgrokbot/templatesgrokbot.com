@@ -1,11 +1,13 @@
 # Data Analysis templates for Hospitality and Events
 
-Clean, query, chart and explain data. 52 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 54 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Apify Brand Reputation Monitoring](../../marketing/data-analysis/apify-brand-reputation-monitoring.md) | Scrape reviews, ratings, and brand mentions from multiple platforms via Apify Actors. |
+| [Apify Competitor Intelligence](../../marketing/data-analysis/apify-competitor-intelligence.md) | Extract competitor data from Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok. |
 | [Audience Compass Strategist](../../pr-and-communications/data-analysis/audience-compass-strategist.md) | Analyzes audience data to sharpen communication strategy and engagement. |
 | [Budget and Forecast Assistant](../../operations/data-analysis/budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Budget Forecast Assistant](../../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |

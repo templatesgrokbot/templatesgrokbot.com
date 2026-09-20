@@ -4,7 +4,7 @@ slug: soft-pastel
 language: en
 tagline: "Implement soft pastel UI with desaturated colors, rounded edges, and airy spacing."
 jobs: ["creatives","it-and-development"]
-topics: ["design"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/soft-pastel
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

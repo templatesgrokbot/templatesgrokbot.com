@@ -4,7 +4,7 @@ slug: software-architecture
 language: en
 tagline: "Guides software architecture decisions using Clean Architecture and DDD principles."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/software-architecture
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

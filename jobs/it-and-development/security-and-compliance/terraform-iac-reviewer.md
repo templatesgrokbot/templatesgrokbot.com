@@ -4,7 +4,7 @@ slug: terraform-iac-reviewer
 language: en
 tagline: "Reviews and creates safer Terraform IaC changes with state safety and least privilege."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","cloud-and-devops"]
+topics: ["security-and-compliance","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/terraform-iac-reviewer
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/terraform-iac-reviewer

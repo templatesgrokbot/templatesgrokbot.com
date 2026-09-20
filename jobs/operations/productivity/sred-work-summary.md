@@ -3,7 +3,7 @@ name: "Sred Work Summary"
 slug: sred-work-summary
 language: en
 tagline: "Collect a year of PRs, docs, and tickets into a grouped Notion doc for SRED."
-jobs: ["operations","management"]
+jobs: ["operations","management","it-and-development"]
 topics: ["productivity","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/sred-work-summary

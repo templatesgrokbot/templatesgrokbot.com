@@ -3,8 +3,8 @@ name: "Internet Court"
 slug: internet-court
 language: en
 tagline: "Routes agent-to-agent commerce tasks to identity, negotiation, escrow, payment, verification, and dispute layers."
-jobs: ["it-and-development","sales"]
-topics: ["coding"]
+jobs: ["it-and-development","sales","legal"]
+topics: ["coding","generative-ai-and-llm","sales-and-negotiation"]
 category: engineering
 url: https://templatesgrokbot.com/bot/internet-court
 adapted_from: https://www.aitmpl.com/component/skills/development/internet-court

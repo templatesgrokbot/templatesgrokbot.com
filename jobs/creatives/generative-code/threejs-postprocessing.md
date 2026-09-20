@@ -4,7 +4,7 @@ slug: threejs-postprocessing
 language: en
 tagline: "Add screen-space effects like bloom, DOF, and color grading in Three.js."
 jobs: ["creatives","it-and-development"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/threejs-postprocessing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

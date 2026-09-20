@@ -4,7 +4,7 @@ slug: mcp-registry-navigator
 language: en
 tagline: "Discovers, evaluates, and configures MCP servers from registries."
 jobs: ["it-and-development","product-development"]
-topics: ["research","cloud-and-devops"]
+topics: ["research","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mcp-registry-navigator
 adapted_from: https://www.aitmpl.com/component/agents/mcp-dev-team/mcp-registry-navigator

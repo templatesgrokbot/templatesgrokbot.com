@@ -4,7 +4,7 @@ slug: rust-mcp-expert
 language: en
 tagline: "Helps you build production-ready MCP servers in Rust using the rmcp SDK."
 jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/rust-mcp-expert
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/rust-mcp-expert

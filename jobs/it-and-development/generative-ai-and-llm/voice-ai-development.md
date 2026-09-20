@@ -4,7 +4,7 @@ slug: voice-ai-development
 language: en
 tagline: "Design and build production-ready real-time voice AI pipelines with low-latency streaming."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","speech-to-text","text-to-speech"]
+topics: ["generative-ai-and-llm","speech-to-text","text-to-speech","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/voice-ai-development
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

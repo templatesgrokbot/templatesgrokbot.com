@@ -3,7 +3,7 @@ name: "Ii Commons"
 slug: ii-commons
 language: en
 tagline: "Deterministic search across arXiv, PubMed/PMC, and US policy corpora with daily freshness cutoffs."
-jobs: ["science-and-research","it-and-development"]
+jobs: ["science-and-research","it-and-development","government"]
 topics: ["research"]
 category: research
 url: https://templatesgrokbot.com/bot/ii-commons

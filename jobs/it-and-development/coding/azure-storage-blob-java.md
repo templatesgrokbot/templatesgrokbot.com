@@ -4,7 +4,7 @@ slug: azure-storage-blob-java
 language: en
 tagline: "Build Java blob storage apps with Azure Storage Blob SDK patterns"
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-storage-blob-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: makepad-splash
 language: en
 tagline: "Write and debug Splash scripts for dynamic UI and workflow automation in Makepad."
 jobs: ["it-and-development","creatives"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/makepad-splash
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

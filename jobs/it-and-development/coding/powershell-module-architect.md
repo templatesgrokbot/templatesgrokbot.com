@@ -4,7 +4,7 @@ slug: powershell-module-architect
 language: en
 tagline: "Designs PowerShell module and profile architectures from fragmented scripts."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","design","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/powershell-module-architect
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/powershell-module-architect

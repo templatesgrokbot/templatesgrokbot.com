@@ -4,7 +4,7 @@ slug: editorial-design
 language: en
 tagline: "Generate magazine-inspired layouts with serif headlines, drop caps, and columnar text."
 jobs: ["creatives","writers"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/editorial-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

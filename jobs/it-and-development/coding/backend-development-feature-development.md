@@ -3,7 +3,7 @@ name: "Backend Development Feature Development"
 slug: backend-development-feature-development
 language: en
 tagline: "Orchestrate backend feature development from requirements to deployment across teams and services."
-jobs: ["it-and-development","product-development"]
+jobs: ["it-and-development","product-development","management"]
 topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/backend-development-feature-development

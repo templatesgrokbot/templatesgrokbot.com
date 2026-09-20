@@ -4,7 +4,7 @@ slug: domain-driven-design
 language: en
 tagline: "Assess DDD viability, produce strategic artifacts, and route to specialized patterns."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","research"]
+topics: ["coding","research","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/domain-driven-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

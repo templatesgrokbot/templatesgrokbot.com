@@ -4,7 +4,7 @@ slug: emerging-techniques-long-context
 language: en
 tagline: "Extends transformer context windows using RoPE, YaRN, ALiBi, and position interpolation."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","teaching-and-tutoring","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/emerging-techniques-long-context
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/emerging-techniques-long-context

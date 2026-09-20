@@ -3,8 +3,8 @@ name: "Plotly"
 slug: plotly
 language: en
 tagline: "Interactive Plotly charts from your data — code, styling, and export guidance."
-jobs: ["it-and-development"]
-topics: ["data-analysis"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/plotly
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

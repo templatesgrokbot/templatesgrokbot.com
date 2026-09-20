@@ -4,7 +4,7 @@ slug: agent-messaging
 language: en
 tagline: "Send and receive cryptographically signed messages between AI agents using AMP. No external dependencies needed for basic messaging. Install the AMP C"
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm","security-and-compliance"]
+topics: ["generative-ai-and-llm","security-and-compliance","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/agent-messaging
 adapted_from: https://www.aitmpl.com/component/skills/ai-maestro/agent-messaging

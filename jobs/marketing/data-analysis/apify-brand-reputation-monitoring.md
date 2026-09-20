@@ -3,7 +3,7 @@ name: "Apify Brand Reputation Monitoring"
 slug: apify-brand-reputation-monitoring
 language: en
 tagline: "Scrape reviews, ratings, and brand mentions from multiple platforms via Apify Actors."
-jobs: ["marketing","operations","pr-and-communications"]
+jobs: ["marketing","operations","pr-and-communications","hospitality-and-events"]
 topics: ["data-analysis","research","social-media"]
 category: operations
 url: https://templatesgrokbot.com/bot/apify-brand-reputation-monitoring

@@ -4,7 +4,7 @@ slug: swift-mcp-expert
 language: en
 tagline: "Helps you build MCP servers in Swift using the official SDK and modern concurrency."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/swift-mcp-expert
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/swift-mcp-expert

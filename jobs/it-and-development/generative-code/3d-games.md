@@ -4,7 +4,7 @@ slug: 3d-games
 language: en
 tagline: "Guide for building 3D game systems: rendering, shaders, physics, cameras."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code"]
+topics: ["generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/3d-games
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

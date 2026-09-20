@@ -3,8 +3,8 @@ name: "Youtube Summarizer"
 slug: youtube-summarizer
 language: en
 tagline: "Extract YouTube transcripts and generate detailed summaries using the STAR + R-I-S-E framework."
-jobs: ["education"]
-topics: ["research","writing-and-content"]
+jobs: ["education","writers"]
+topics: ["research","writing-and-content","generative-ai-and-llm","speech-to-text"]
 category: education
 url: https://templatesgrokbot.com/bot/youtube-summarizer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

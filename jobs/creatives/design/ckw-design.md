@@ -4,7 +4,7 @@ slug: ckw-design
 language: en
 tagline: "Production-grade web UI design with spatial rigor and usability critique."
 jobs: ["creatives","product-development","it-and-development"]
-topics: ["design"]
+topics: ["design","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ckw-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

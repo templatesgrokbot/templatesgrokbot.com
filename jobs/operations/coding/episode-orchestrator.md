@@ -4,7 +4,7 @@ slug: episode-orchestrator
 language: en
 tagline: "Orchestrates multi-agent episode workflows from payload validation to final output."
 jobs: ["operations","it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/episode-orchestrator
 adapted_from: https://www.aitmpl.com/component/agents/podcast-creator-team/episode-orchestrator

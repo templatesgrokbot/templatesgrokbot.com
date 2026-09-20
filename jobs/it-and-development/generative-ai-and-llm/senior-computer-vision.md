@@ -4,7 +4,7 @@ slug: senior-computer-vision
 language: en
 tagline: "Designs and deploys computer vision systems for object detection, segmentation, and video analysis."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","data-analysis"]
+topics: ["generative-ai-and-llm","data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/senior-computer-vision
 adapted_from: https://www.aitmpl.com/component/skills/development/senior-computer-vision

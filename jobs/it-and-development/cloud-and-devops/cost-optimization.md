@@ -4,7 +4,7 @@ slug: cost-optimization
 language: en
 tagline: "Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cost-optimization
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

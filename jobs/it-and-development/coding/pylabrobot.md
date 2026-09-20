@@ -4,7 +4,7 @@ slug: pylabrobot
 language: en
 tagline: "Controls lab robots and equipment from Python scripts."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","research"]
+topics: ["coding","research","teaching-and-tutoring","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pylabrobot
 adapted_from: https://www.aitmpl.com/component/skills/scientific/pylabrobot

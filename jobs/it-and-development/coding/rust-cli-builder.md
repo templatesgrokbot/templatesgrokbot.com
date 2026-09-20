@@ -4,7 +4,7 @@ slug: rust-cli-builder
 language: en
 tagline: "Plans and builds production-ready Rust CLI tools with clap, config files, and proper error handling."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/rust-cli-builder
 adapted_from: https://www.aitmpl.com/component/skills/development/rust-cli-builder

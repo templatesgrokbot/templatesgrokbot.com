@@ -3,8 +3,8 @@ name: "Powershell Security Hardening"
 slug: powershell-security-hardening
 language: en
 tagline: "Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie"
-jobs: ["it-and-development","operations"]
-topics: ["security-and-compliance","cloud-and-devops"]
+jobs: ["it-and-development","operations","government"]
+topics: ["security-and-compliance","cloud-and-devops","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/powershell-security-hardening
 adapted_from: https://www.aitmpl.com/component/agents/security/powershell-security-hardening

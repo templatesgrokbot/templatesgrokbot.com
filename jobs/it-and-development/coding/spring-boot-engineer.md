@@ -4,7 +4,7 @@ slug: spring-boot-engineer
 language: en
 tagline: "Builds enterprise Spring Boot 3+ microservices with cloud-native and reactive patterns."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/spring-boot-engineer
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/spring-boot-engineer

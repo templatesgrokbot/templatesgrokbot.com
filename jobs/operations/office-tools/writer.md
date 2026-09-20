@@ -3,8 +3,8 @@ name: "Writer"
 slug: writer
 language: en
 tagline: "Create, convert, and automate documents with LibreOffice Writer."
-jobs: ["operations","writers"]
-topics: ["office-tools","writing-and-content"]
+jobs: ["operations","writers","government","legal"]
+topics: ["office-tools","writing-and-content","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/writer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -1,12 +1,13 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 108 Grok Bot templates, 47 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 113 Grok Bot templates, 47 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [3d Ui](3d-ui.md) | Guide for building 3D UI with depth, perspective, and interactive rotation. |
+| [Accessibility Compliance Accessibility Audit](../../creatives/design/accessibility-compliance-accessibility-audit.md) | Run WCAG audits, find barriers, and guide fixes for accessible digital products. |
 | [Accessibility Review (WCAG 2.1 AA)](design-accessibility-review.md) | Audits designs and pages for WCAG 2.1 AA accessibility compliance before launch. |
 | [Anthropic Frontend Design](anthropic-frontend-design.md) | Designs and codes distinctive, production-ready UI layouts with a committed visual direction. |
 | [Anti Ui Slop](../../creatives/design/anti-ui-slop.md) | Build product-specific UI from your design system, not generic patterns. |
@@ -17,6 +18,7 @@ Interfaces, brands, layouts and visual systems. 108 Grok Bot templates, 47 of th
 | [Bento Ui](../../creatives/design/bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
 | [Brutalism](../../creatives/design/brutalism.md) | Implement raw, intentionally unfinished web and app interfaces in the Brutalism style. |
 | [C4 Context](../../product-development/design/c4-context.md) | Creates C4 system context diagrams, personas, user journeys, and external dependencies. |
+| [Card Based Design](../../creatives/design/card-based-design.md) | Generate card-based UI layouts with responsive grids and encapsulated content containers. |
 | [Ckw Design](../../creatives/design/ckw-design.md) | Production-grade web UI design with spatial rigor and usability critique. |
 | [Claymorphism](claymorphism.md) | Generate soft 3D claymorphic UI elements with rounded shapes and tactile shadows. |
 | [Cli Ui Designer](../../creatives/design/cli-ui-designer.md) | Creates terminal-inspired web interfaces with authentic CLI aesthetics. |
@@ -80,6 +82,8 @@ Interfaces, brands, layouts and visual systems. 108 Grok Bot templates, 47 of th
 | [Monochromatic Ui](../../creatives/design/monochromatic-ui.md) | Generate a single-hue UI palette with tints, shades, and implementation code for web, SwiftUI, or Flutter. |
 | [Multiplayer Systems Architect](multiplayer-systems-architect.md) | Designs and optimizes multiplayer systems from matchmaking to dynamic events. |
 | [Neo Brutalism](../../creatives/design/neo-brutalism.md) | Implement neo-brutalist UI with thick borders, hard shadows, and bright colors. |
+| [Neumorphism](../../creatives/design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
+| [Opal or Obsidian UI Builder](../../creatives/design/opal-or-obsidian-ui-builder.md) | Builds parameterized opal or obsidian UI with OKLCH, WebGL/CSS fallback, and measured color reports. |
 | [Premium Web Design](../../creatives/design/premium-web-design.md) | Generates award-quality React website components with unique, intentional design. |
 | [Radix Ui Design System](../../creatives/design/radix-ui-design-system.md) | Build accessible, unstyled React component libraries with Radix UI primitives. |
 | [Redesign Existing Projects](redesign-existing-projects.md) | Audit and upgrade existing UI with premium design fixes, no rewrites. |
@@ -87,6 +91,7 @@ Interfaces, brands, layouts and visual systems. 108 Grok Bot templates, 47 of th
 | [Responsive Web Design Assistant](../../creatives/design/responsive-web-design-assistant.md) | Guides UX/UI designers through every stage of responsive web design, from setup to maintenance. |
 | [Retro Design](../../creatives/design/retro-design.md) | Generate retro 60s-80s UI with warm muted colors, grain, and classic typography. |
 | [Retro Futurism](../../creatives/design/retro-futurism.md) | Generate retro-futurist UI with 1950s space-age aesthetics and atompunk vibes. |
+| [Screenshot Reviewer](../../operations/design/screenshot-reviewer.md) | Reviews task lists against screenshots for completeness, consistency, and quality. |
 | [Soft Pastel](../../creatives/design/soft-pastel.md) | Implement soft pastel UI with desaturated colors, rounded edges, and airy spacing. |
 | [Software Architecture Design Assistant](../../executives-and-strategy/design/software-architecture-design-assistant.md) | Designs and documents software architecture from requirements to deployment. |
 | [Spatial Computing Ui](spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |

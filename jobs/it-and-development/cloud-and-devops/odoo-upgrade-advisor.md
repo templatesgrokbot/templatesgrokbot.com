@@ -4,7 +4,7 @@ slug: odoo-upgrade-advisor
 language: en
 tagline: "Step-by-step Odoo version upgrade advisor for v14 to v17."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/odoo-upgrade-advisor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -1,6 +1,6 @@
 # Generative Art templates for IT and Development
 
-Make images, illustrations and artwork. 13 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Make images, illustrations and artwork. 15 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,11 +8,13 @@ Make images, illustrations and artwork. 13 Grok Bot templates, 1 of them filed i
 |---|---|
 | [3d Artist](../../creatives/generative-art/3d-artist.md) | Creates game-ready 3D assets and technical art workflows for Unity and Unreal Engine. |
 | [Animejs Animation](../../creatives/generative-art/animejs-animation.md) | Build complex, high-performance web animations with Anime.js timelines, staggering, and SVG morphing. |
+| [Canva Automation](../../creatives/generative-art/canva-automation.md) | Automate Canva design operations: create, export, organize, and autofill via Rube MCP. |
 | [Comfyui Gateway](comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |
 | [Game Audio](../../creatives/generative-art/game-audio.md) | Guide game audio design: sound, music integration, adaptive systems. |
 | [Imagegen](../../creatives/generative-art/imagegen.md) | Generates or edits images via the OpenAI Image API for project assets. |
 | [Lookdev Auto](../../creatives/generative-art/lookdev-auto.md) | Automated visual tuning loop using a vision model as rater for subjective quality. |
 | [Modellix](../../creatives/generative-art/modellix.md) | Generate images, videos, and speech via the Modellix CLI workflow. |
+| [Muapi Media](../../creatives/generative-art/muapi-media.md) | Generate images and videos via MuAPI's async API with key protection, polling, and safe downloads. |
 | [Multimodal Audiocraft](../../creatives/generative-art/multimodal-audiocraft.md) | Generates music and sound effects from text descriptions using AudioCraft models. |
 | [Multimodal Segment Anything](../../creatives/generative-art/multimodal-segment-anything.md) | Segment any object in images using points, boxes, or automatic mask generation. |
 | [Multimodal Stable Diffusion](../../creatives/generative-art/multimodal-stable-diffusion.md) | Generate images from text prompts using Stable Diffusion models. |

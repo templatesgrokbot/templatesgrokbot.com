@@ -4,7 +4,7 @@ slug: nodejs-best-practices
 language: en
 tagline: "Guides Node.js framework, architecture, and security decisions without writing code."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops","security-and-compliance"]
+topics: ["coding","cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/nodejs-best-practices
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

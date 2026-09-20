@@ -4,7 +4,7 @@ slug: hosted-agents-v2-py
 language: en
 tagline: "Create and manage container-based hosted agents in Azure AI Foundry using the Azure AI Projects SDK."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hosted-agents-v2-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

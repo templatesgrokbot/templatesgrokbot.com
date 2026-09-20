@@ -4,7 +4,7 @@ slug: podcast-editor
 language: en
 tagline: "Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists."
 jobs: ["creatives","writers","marketing"]
-topics: ["writing-and-content"]
+topics: ["writing-and-content","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/podcast-editor
 adapted_from: https://www.aitmpl.com/component/agents/podcast-creator-team/podcast-editor

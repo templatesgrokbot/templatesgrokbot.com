@@ -4,7 +4,7 @@ slug: repo-maintainer
 language: en
 tagline: "Audit and repair repository hygiene across artifacts, dependencies, CI, docs, Git state, and code quality."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/repo-maintainer
 adapted_from: https://github.com/Wolfe-Jam/faf-skills/tree/main/skills/repo-maintainer

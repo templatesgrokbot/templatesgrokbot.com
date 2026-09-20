@@ -4,7 +4,7 @@ slug: terraform-infrastructure
 language: en
 tagline: "Provision and manage cloud infrastructure with Terraform, safely and repeatably."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/terraform-infrastructure
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

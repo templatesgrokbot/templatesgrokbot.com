@@ -4,7 +4,7 @@ slug: bevy-ecs-expert
 language: en
 tagline: "Guide to building high-performance game logic with Bevy's ECS in Rust."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bevy-ecs-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

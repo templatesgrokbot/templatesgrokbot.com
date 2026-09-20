@@ -3,7 +3,7 @@ name: "Employment Contract Templates"
 slug: employment-contract-templates
 language: en
 tagline: "Generate employment contract templates with compliance checks."
-jobs: ["human-resources","legal","operations"]
+jobs: ["human-resources","legal","operations","government","healthcare"]
 topics: ["writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/employment-contract-templates

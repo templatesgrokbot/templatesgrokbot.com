@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 211 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 213 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Clean, query, chart and explain data. 211 Grok Bot templates, 96 of them filed i
 |---|---|
 | [Abc Xyz Segmentation](../../operations/data-analysis/abc-xyz-segmentation.md) | Segment SKUs by value and demand variability, assign planning policies, and reallocate planner attention. |
 | [Agency Performance Analyst](agency-performance-analyst.md) | Turns agency performance data into clear insights and recommendations for insurance managers. |
+| [Agent Evaluation Reporting](../../it-and-development/data-analysis/agent-evaluation-reporting.md) | Turn raw agent evaluation runs into decision-ready reports with explicit outcome categories and denominators. |
 | [Agent Performance Analysis Assistant](../../customer-support/data-analysis/agent-performance-analysis-assistant.md) | Analyzes call center agent performance and turns it into coaching, reports, and training plans. |
 | [Benchmarking Analysis Assistant](benchmarking-analysis-assistant.md) | Benchmarking analysis assistant for management consultants, turning data into strategic insights and client-ready reports. |
 | [Brand Image Analyst](brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
@@ -179,6 +180,7 @@ Clean, query, chart and explain data. 211 Grok Bot templates, 96 of them filed i
 | [Senior Manager Decision Support](senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
 | [Service Journey Optimizer](service-journey-optimizer.md) | Maps, analyzes, and optimizes customer journeys for service managers. |
 | [Service Quality Enhancement Assistant](service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |
+| [Shopify Review Triage](../../customer-support/data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
 | [Social Media Engagement Analyst](social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
 | [Social Media Performance Analyst](social-media-performance-analyst.md) | Analyzes your social media performance and gives actionable insights for e-commerce growth. |
 | [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |

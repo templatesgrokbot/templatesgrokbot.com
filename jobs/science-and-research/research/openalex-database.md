@@ -4,7 +4,7 @@ slug: openalex-database
 language: en
 tagline: "Search and analyze 240M+ scholarly works using the OpenAlex open catalog."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/openalex-database
 adapted_from: https://www.aitmpl.com/component/skills/scientific/openalex-database

@@ -4,7 +4,7 @@ slug: pytdc
 language: en
 tagline: "Access curated drug discovery datasets and benchmarks for therapeutic ML."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","data-analysis","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/pytdc
 adapted_from: https://www.aitmpl.com/component/skills/scientific/pytdc

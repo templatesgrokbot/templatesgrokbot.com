@@ -3,7 +3,7 @@ name: "Linear"
 slug: linear
 language: en
 tagline: "Read, create, and update Linear issues, projects, and team workflows."
-jobs: ["it-and-development","product-development"]
+jobs: ["it-and-development","product-development","management"]
 topics: ["productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/linear

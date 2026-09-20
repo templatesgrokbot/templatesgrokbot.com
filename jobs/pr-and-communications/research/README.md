@@ -1,6 +1,6 @@
 # Research templates for PR and Communications
 
-Find sources, compare evidence and summarise what is known. 16 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 17 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Find sources, compare evidence and summarise what is known. 16 Grok Bot template
 | [Fact Checker](../../writers/research/fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
 | [Guest Outreach Coordinator](../../marketing/research/guest-outreach-coordinator.md) | Identifies, contacts, and manages podcast guests for tech shows. |
 | [Last30days](../../marketing/research/last30days.md) | Research any topic from the last 30 days on Reddit, X, and the web. |
+| [Market Scout](../../marketing/research/market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
 | [Media List Builder](media-list-builder.md) | Builds and maintains targeted media lists for PR outreach campaigns. |
 | [Podcast Trend Scout](../../marketing/research/podcast-trend-scout.md) | Scouts 3-5 emerging tech topics weekly for The Build podcast episodes. |
 | [Rumor and Misinformation Manager](rumor-and-misinformation-manager.md) | Tracks, debunks, and counters rumors and misinformation for crisis communications teams. |

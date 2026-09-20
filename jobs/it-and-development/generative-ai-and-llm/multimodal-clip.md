@@ -4,7 +4,7 @@ slug: multimodal-clip
 language: en
 tagline: "Classify images and match text to images without training data."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","support-and-community"]
 category: research
 url: https://templatesgrokbot.com/bot/multimodal-clip
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/multimodal-clip

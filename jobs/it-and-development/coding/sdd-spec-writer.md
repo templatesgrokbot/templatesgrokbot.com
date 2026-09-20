@@ -4,7 +4,7 @@ slug: sdd-spec-writer
 language: en
 tagline: "Writes executable specs that serve as unambiguous contracts for developers and AI agents."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","prompt-engineering"]
+topics: ["coding","prompt-engineering","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/sdd-spec-writer
 adapted_from: https://www.aitmpl.com/component/agents/development-team/sdd-spec-writer

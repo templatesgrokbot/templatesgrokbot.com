@@ -4,7 +4,7 @@ slug: retro-design
 language: en
 tagline: "Generate retro 60s-80s UI with warm muted colors, grain, and classic typography."
 jobs: ["creatives","it-and-development"]
-topics: ["design"]
+topics: ["design","coding","generative-code"]
 category: creative
 url: https://templatesgrokbot.com/bot/retro-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

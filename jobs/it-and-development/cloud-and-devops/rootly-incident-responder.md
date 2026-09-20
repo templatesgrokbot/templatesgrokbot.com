@@ -4,7 +4,7 @@ slug: rootly-incident-responder
 language: en
 tagline: "Analyzes production incidents and recommends solutions using Rootly incident data."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","research","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/rootly-incident-responder
 adapted_from: https://www.aitmpl.com/component/agents/development-tools/rootly-incident-responder

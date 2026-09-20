@@ -4,7 +4,7 @@ slug: image-enhancer
 language: en
 tagline: "Enhances image resolution, sharpness, and clarity for presentations, documentation, or social media."
 jobs: ["creatives","marketing"]
-topics: ["design"]
+topics: ["design","social-media"]
 category: operations
 url: https://templatesgrokbot.com/bot/image-enhancer
 adapted_from: https://www.aitmpl.com/component/skills/media/image-enhancer

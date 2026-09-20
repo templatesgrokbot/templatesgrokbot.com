@@ -4,7 +4,7 @@ slug: seo-forensic-incident-response
 language: en
 tagline: "Investigate sudden organic traffic drops with forensic triage, root-cause analysis, and a recovery plan."
 jobs: ["marketing","executives-and-strategy"]
-topics: ["marketing-and-growth","data-analysis"]
+topics: ["marketing-and-growth","data-analysis","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/seo-forensic-incident-response
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

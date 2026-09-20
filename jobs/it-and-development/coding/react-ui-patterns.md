@@ -4,7 +4,7 @@ slug: react-ui-patterns
 language: en
 tagline: "Generates React components with correct loading, error, empty, and button states for async data."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/react-ui-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

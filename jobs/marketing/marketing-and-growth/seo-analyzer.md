@@ -4,7 +4,7 @@ slug: seo-analyzer
 language: en
 tagline: "Performs technical SEO audits and provides actionable optimization recommendations for websites."
 jobs: ["marketing","it-and-development"]
-topics: ["marketing-and-growth","research"]
+topics: ["marketing-and-growth","research","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/seo-analyzer
 adapted_from: https://www.aitmpl.com/component/agents/web-tools/seo-analyzer

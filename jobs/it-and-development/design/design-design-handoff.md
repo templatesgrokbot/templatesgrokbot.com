@@ -3,8 +3,8 @@ name: "Design Handoff Spec"
 slug: design-design-handoff
 language: en
 tagline: "Generate developer handoff specs from a design, covering tokens, props, states, and edge cases."
-jobs: ["it-and-development","product-development"]
-topics: ["design"]
+jobs: ["it-and-development","product-development","creatives"]
+topics: ["design","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/design-design-handoff
 adapted_from: https://collectivebrain.de/en/skills/design-design-handoff/

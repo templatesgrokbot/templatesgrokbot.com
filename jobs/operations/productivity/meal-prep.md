@@ -3,7 +3,7 @@ name: "Meal Prep"
 slug: meal-prep
 language: en
 tagline: "Plans a week of meals around what you already have and writes the shopping list to match."
-jobs: ["operations","management"]
+jobs: ["operations","management","hospitality-and-events"]
 topics: ["productivity","research"]
 category: personal
 url: https://templatesgrokbot.com/bot/meal-prep

@@ -4,7 +4,7 @@ slug: nlp-engineer
 language: en
 tagline: "Builds production NLP pipelines for classification, extraction, translation, and sentiment analysis."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","data-analysis"]
+topics: ["generative-ai-and-llm","data-analysis","coding","translation"]
 category: engineering
 url: https://templatesgrokbot.com/bot/nlp-engineer
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/nlp-engineer

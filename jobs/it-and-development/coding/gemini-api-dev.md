@@ -4,7 +4,7 @@ slug: gemini-api-dev
 language: en
 tagline: "Build apps with Gemini API using current models and SDKs."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/gemini-api-dev
 adapted_from: https://github.com/google-gemini/gemini-skills/tree/main/skills/gemini-api-dev

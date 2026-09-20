@@ -4,7 +4,7 @@ slug: plan
 language: en
 tagline: "Analyzes codebases and requirements, then produces detailed implementation plans."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","research"]
+topics: ["coding","research","productivity","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/plan
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/plan

@@ -4,7 +4,7 @@ slug: shadcn
 language: en
 tagline: "Manage shadcn/ui components with CLI, docs, and strict composition rules."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","writing-and-content","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/shadcn
 adapted_from: https://github.com/shadcn-ui/ui/tree/main/skills/shadcn

@@ -4,7 +4,7 @@ slug: neon-functions
 language: en
 tagline: "Deploy long-running Node.js HTTP handlers next to your Neon Postgres database."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/neon-functions
 adapted_from: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-functions

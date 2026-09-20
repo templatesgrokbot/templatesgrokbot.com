@@ -4,7 +4,7 @@ slug: thinking-beast-mode
 language: en
 tagline: "Drives multi-step engineering tasks to full completion with visible todo tracking."
 jobs: ["it-and-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","generative-code","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/thinking-beast-mode
 adapted_from: https://www.aitmpl.com/component/agents/development-tools/thinking-beast-mode

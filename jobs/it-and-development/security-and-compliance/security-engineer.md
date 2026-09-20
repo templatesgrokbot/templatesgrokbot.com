@@ -4,7 +4,7 @@ slug: security-engineer
 language: en
 tagline: "Hardens infrastructure, automates security in CI/CD, and manages compliance and vulnerabilities."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","cloud-and-devops"]
+topics: ["security-and-compliance","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/security-engineer
 adapted_from: https://www.aitmpl.com/component/agents/security/security-engineer

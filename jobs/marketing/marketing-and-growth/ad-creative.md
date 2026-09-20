@@ -3,7 +3,7 @@ name: "Ad Creative"
 slug: ad-creative
 language: en
 tagline: "Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X."
-jobs: ["marketing","sales","creatives"]
+jobs: ["marketing","sales","creatives","writers"]
 topics: ["marketing-and-growth","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/ad-creative

@@ -4,7 +4,7 @@ slug: mmx-cli
 language: en
 tagline: "Generate text, images, video, speech, and music via the MiniMax CLI."
 jobs: ["creatives","it-and-development","marketing"]
-topics: ["generative-ai-and-llm","generative-art","generative-video"]
+topics: ["generative-ai-and-llm","generative-art","generative-video","text-to-speech"]
 category: operations
 url: https://templatesgrokbot.com/bot/mmx-cli
 adapted_from: https://github.com/MiniMax-AI/cli

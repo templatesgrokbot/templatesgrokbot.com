@@ -4,7 +4,7 @@ slug: post-training-grpo-rl-training
 language: en
 tagline: "Guides GRPO/RL fine-tuning of language models with TRL for reasoning and structured tasks."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","coding","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/post-training-grpo-rl-training
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/post-training-grpo-rl-training

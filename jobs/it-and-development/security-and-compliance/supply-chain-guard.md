@@ -4,7 +4,7 @@ slug: supply-chain-guard
 language: en
 tagline: "Scan project dependencies for known supply chain attacks and guide remediation."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","cloud-and-devops"]
+topics: ["security-and-compliance","cloud-and-devops","teaching-and-tutoring","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/supply-chain-guard
 adapted_from: https://www.aitmpl.com/component/skills/security/supply-chain-guard

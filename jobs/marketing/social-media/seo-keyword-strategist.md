@@ -4,7 +4,7 @@ slug: seo-keyword-strategist
 language: en
 tagline: "Analyzes keyword density, entities, and LSI for content optimization."
 jobs: ["marketing"]
-topics: ["social-media"]
+topics: ["social-media","marketing-and-growth","data-analysis"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-keyword-strategist
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

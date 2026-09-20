@@ -3,8 +3,8 @@ name: "Chat Widget"
 slug: chat-widget
 language: en
 tagline: "Build a real-time support chat widget with admin dashboard."
-jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+jobs: ["it-and-development","product-development","customer-support"]
+topics: ["coding","generative-code","support-and-community"]
 category: engineering
 url: https://templatesgrokbot.com/bot/chat-widget
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

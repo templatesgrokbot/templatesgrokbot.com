@@ -4,7 +4,7 @@ slug: fp-option-ref
 language: en
 tagline: "Quick reference for fp-ts Option type to handle nullable values."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fp-option-ref
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

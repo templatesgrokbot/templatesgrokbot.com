@@ -4,7 +4,7 @@ slug: microsoft-azure-webjobs-extensions-authentication-events-dotnet
 language: en
 tagline: "Build Azure Functions that handle Entra ID custom authentication events for token claims and attribute collection."
 jobs: ["it-and-development"]
-topics: ["coding","security-and-compliance"]
+topics: ["coding","security-and-compliance","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/microsoft-azure-webjobs-extensions-authentication-events-dotnet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

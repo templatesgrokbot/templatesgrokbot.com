@@ -4,7 +4,7 @@ slug: azure-storage-blob-py
 language: en
 tagline: "Manage Azure Blob Storage: upload, download, list, delete blobs and containers."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-storage-blob-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

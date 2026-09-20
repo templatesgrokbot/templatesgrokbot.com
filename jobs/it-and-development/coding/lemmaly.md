@@ -4,7 +4,7 @@ slug: lemmaly
 language: en
 tagline: "State Big-O, data structure, and algorithm family before writing any loop or query."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/lemmaly
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

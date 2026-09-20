@@ -4,7 +4,7 @@ slug: yes-md
 language: en
 tagline: "AI governance engine enforcing safety gates, evidence rules, and verified changes."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","coding"]
+topics: ["security-and-compliance","coding","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/yes-md
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

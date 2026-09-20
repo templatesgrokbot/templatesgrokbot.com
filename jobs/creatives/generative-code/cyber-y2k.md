@@ -4,7 +4,7 @@ slug: cyber-y2k
 language: en
 tagline: "Generate web and app code with holographic, glitchy Y2K aesthetics."
 jobs: ["creatives","it-and-development"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cyber-y2k
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

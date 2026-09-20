@@ -4,7 +4,7 @@ slug: regulatory-threat-model
 language: en
 tagline: "Runs server-enforced STRIDE and LINDDUN threat models with live CVE data and EU regulatory grounding."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/regulatory-threat-model
 adapted_from: https://www.aitmpl.com/component/skills/security/regulatory-threat-model

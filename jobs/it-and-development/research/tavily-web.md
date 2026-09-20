@@ -3,7 +3,7 @@ name: "Tavily Web"
 slug: tavily-web
 language: en
 tagline: "Searches the web, extracts content, and crawls sites via Tavily API."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","science-and-research","writers"]
 topics: ["research"]
 category: research
 url: https://templatesgrokbot.com/bot/tavily-web

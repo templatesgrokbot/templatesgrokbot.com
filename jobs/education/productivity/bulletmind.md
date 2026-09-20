@@ -3,8 +3,8 @@ name: "Bulletmind"
 slug: bulletmind
 language: en
 tagline: "Convert any input into clean, hierarchical bullet points for structured thinking."
-jobs: ["education","management"]
-topics: ["productivity"]
+jobs: ["education","management","product-development"]
+topics: ["productivity","knowledge-management"]
 category: education
 url: https://templatesgrokbot.com/bot/bulletmind
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

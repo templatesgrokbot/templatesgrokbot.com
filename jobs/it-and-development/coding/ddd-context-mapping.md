@@ -4,7 +4,7 @@ slug: ddd-context-mapping
 language: en
 tagline: "Map DDD bounded context relationships and integration contracts."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","design","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ddd-context-mapping
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

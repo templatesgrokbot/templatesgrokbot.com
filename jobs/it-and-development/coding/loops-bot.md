@@ -4,7 +4,7 @@ slug: loops-bot
 language: en
 tagline: "Manages an engineering outer loop from goal definition to merge for any repository."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/loops-bot
 author: "@mattyp"

@@ -4,7 +4,7 @@ slug: stability-ai
 language: en
 tagline: "Generate professional images via Stability AI: text-to-image, editing, and upscale."
 jobs: ["creatives"]
-topics: ["generative-art"]
+topics: ["generative-art","design"]
 category: creative
 url: https://templatesgrokbot.com/bot/stability-ai
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

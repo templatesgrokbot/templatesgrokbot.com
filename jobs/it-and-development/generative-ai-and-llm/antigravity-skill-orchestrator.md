@@ -4,7 +4,7 @@ slug: antigravity-skill-orchestrator
 language: en
 tagline: "Evaluates task complexity and selects minimal specialized capabilities, avoiding overuse for simple requests."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/antigravity-skill-orchestrator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

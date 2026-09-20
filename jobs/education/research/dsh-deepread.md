@@ -3,7 +3,7 @@ name: "Dsh Deepread"
 slug: dsh-deepread
 language: en
 tagline: "Evidence-first reading reports with knowledge maps and Feynman checks."
-jobs: ["education","science-and-research"]
+jobs: ["education","science-and-research","legal"]
 topics: ["research"]
 category: education
 url: https://templatesgrokbot.com/bot/dsh-deepread

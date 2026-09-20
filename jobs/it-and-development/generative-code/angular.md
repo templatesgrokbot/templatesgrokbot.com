@@ -4,7 +4,7 @@ slug: angular
 language: en
 tagline: "Modern Angular v20+ expert: Signals, Standalone Components, Zoneless, SSR/Hydration."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code"]
+topics: ["generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/angular
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

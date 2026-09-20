@@ -4,7 +4,7 @@ slug: opentrons-integration
 language: en
 tagline: "Writes Opentrons Protocol API v2 Python scripts for Flex/OT-2 liquid handling workflows."
 jobs: ["science-and-research","it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/opentrons-integration
 adapted_from: https://www.aitmpl.com/component/skills/scientific/opentrons-integration

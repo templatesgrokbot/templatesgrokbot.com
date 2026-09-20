@@ -3,8 +3,8 @@ name: "Ship Learn Next"
 slug: ship-learn-next
 language: en
 tagline: "Turn learning content into actionable implementation plans with Ship-Learn-Next cycles."
-jobs: ["education","management"]
-topics: ["teaching-and-tutoring","productivity"]
+jobs: ["education","management","product-development"]
+topics: ["teaching-and-tutoring","productivity","self-improvement"]
 category: education
 url: https://templatesgrokbot.com/bot/ship-learn-next
 adapted_from: https://www.aitmpl.com/component/skills/productivity/ship-learn-next

@@ -4,7 +4,7 @@ slug: robius-widget-patterns
 language: en
 tagline: "Reusable Makepad widget patterns from Robrix and Moly codebases."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/robius-widget-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

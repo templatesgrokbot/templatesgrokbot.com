@@ -4,7 +4,7 @@ slug: gpt-taste
 language: en
 tagline: "Award-level GSAP frontend pages with AIDA structure and gapless bento grids."
 jobs: ["creatives","it-and-development","marketing"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/gpt-taste
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

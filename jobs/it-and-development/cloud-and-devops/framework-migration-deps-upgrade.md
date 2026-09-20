@@ -4,7 +4,7 @@ slug: framework-migration-deps-upgrade
 language: en
 tagline: "Safe, incremental dependency upgrades with rollback plans."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/framework-migration-deps-upgrade
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

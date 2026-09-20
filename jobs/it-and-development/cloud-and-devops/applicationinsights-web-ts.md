@@ -4,7 +4,7 @@ slug: applicationinsights-web-ts
 language: en
 tagline: "Instrument browser apps with Application Insights JavaScript SDK for RUM"
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/applicationinsights-web-ts
 adapted_from: https://github.com/microsoft/skills/tree/main/.github/plugins/azure-sdk-typescript/skills/applicationinsights-web-ts

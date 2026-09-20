@@ -3,7 +3,7 @@ name: "Multi Source Searcher"
 slug: multi-source-searcher
 language: en
 tagline: "Finds precise information across multiple sources using optimized search strategies and systematic retrieval."
-jobs: ["science-and-research","it-and-development","marketing"]
+jobs: ["science-and-research","it-and-development","marketing","legal","writers"]
 topics: ["research","knowledge-management"]
 category: research
 url: https://templatesgrokbot.com/bot/multi-source-searcher

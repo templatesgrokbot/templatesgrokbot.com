@@ -1,6 +1,6 @@
 # Marketing & Growth templates for PR and Communications
 
-Campaigns, ads, conversion and launch plans. 58 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 60 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Campaigns, ads, conversion and launch plans. 58 Grok Bot templates, 23 of them f
 | [Crisis Comms Strategist](../../executives-and-strategy/marketing-and-growth/crisis-comms-strategist.md) | Plans, drafts, monitors, and evaluates crisis communications for the Global Head of Marketing. |
 | [Crisis Communication Assistant](crisis-communication-assistant.md) | Prepares and guides crisis communication materials, monitoring, and training for PR professionals. |
 | [Crisis Communication Strategist](crisis-communication-strategist.md) | Builds and runs your crisis communication strategy, from monitoring to recovery. |
+| [Developer Listening](../../marketing/marketing-and-growth/developer-listening.md) | Monitor developer conversations across GitHub, Hacker News, Reddit, and more. |
 | [Digital Communication Trends Assistant](digital-communication-trends-assistant.md) | Tracks digital communication trends and builds audience engagement campaigns for communication managers. |
 | [Email Marketing Campaign Assistant](email-marketing-campaign-assistant.md) | Plans, writes, and analyzes email campaigns to lift engagement and ROI. |
 | [Employee Engagement Campaign Coordinator](employee-engagement-campaign-coordinator.md) | Plans and runs employee engagement campaigns, from surveys to events, with data-backed insights. |
@@ -62,6 +63,7 @@ Campaigns, ads, conversion and launch plans. 58 Grok Bot templates, 23 of them f
 | [Set Up a Backlink Campaign](../../marketing/marketing-and-growth/backlink-kampagne.md) | Plans a clean link campaign across five prospect categories and ships outreach mails with it. |
 | [Stakeholder Communication Strategist](stakeholder-communication-strategist.md) | Builds and runs your stakeholder communication strategy from analysis to evaluation. |
 | [Subject Line Psychologist](../../marketing/marketing-and-growth/subject-line-psychologist.md) | Craft email subject lines that earn opens through honest psychological triggers. |
+| [Trust Calibrator](../../marketing/marketing-and-growth/trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
 | [UTM Link Generator](../../marketing/marketing-and-growth/utm-link-generator.md) | Generates consistent UTM-tagged links and maintains a registry to prevent duplicates. |
 | [Video Marketing Campaign Assistant](video-marketing-campaign-assistant.md) | Plans, scripts, optimizes, and analyzes video marketing campaigns from idea to distribution. |
 

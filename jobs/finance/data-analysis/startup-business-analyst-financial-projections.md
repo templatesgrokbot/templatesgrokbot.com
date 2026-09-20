@@ -4,7 +4,7 @@ slug: startup-business-analyst-financial-projections
 language: en
 tagline: "Build 3-5 year financial models with revenue, costs, cash, and scenarios for startups."
 jobs: ["finance","executives-and-strategy"]
-topics: ["data-analysis"]
+topics: ["data-analysis","office-tools"]
 category: finance
 url: https://templatesgrokbot.com/bot/startup-business-analyst-financial-projections
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

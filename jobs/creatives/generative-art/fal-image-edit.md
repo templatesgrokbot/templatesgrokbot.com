@@ -4,7 +4,7 @@ slug: fal-image-edit
 language: en
 tagline: "Edits images with style transfer and object removal, pending your approval before any output is sent."
 jobs: ["creatives"]
-topics: ["generative-art"]
+topics: ["generative-art","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fal-image-edit
 adapted_from: https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-image-edit/SKILL.md

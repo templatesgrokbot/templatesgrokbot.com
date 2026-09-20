@@ -4,7 +4,7 @@ slug: mlops-mlflow
 language: en
 tagline: "Track ML experiments, manage model registry, and deploy models using MLflow."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","teaching-and-tutoring","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/mlops-mlflow
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/mlops-mlflow

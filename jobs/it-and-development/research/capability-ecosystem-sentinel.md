@@ -4,7 +4,7 @@ slug: capability-ecosystem-sentinel
 language: en
 tagline: "Audits and evolves the capability ecosystem across 7 dimensions, generating health reports and recommendations."
 jobs: ["it-and-development","management"]
-topics: ["research","coding","security-and-compliance"]
+topics: ["research","coding","security-and-compliance","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/capability-ecosystem-sentinel
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

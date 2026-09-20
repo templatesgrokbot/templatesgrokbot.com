@@ -4,7 +4,7 @@ slug: morpheus
 language: en
 tagline: "Analyzes options and makes decisions when you are stuck between choices."
 jobs: ["management","executives-and-strategy"]
-topics: ["self-improvement"]
+topics: ["self-improvement","productivity","research"]
 category: personal
 url: https://templatesgrokbot.com/bot/morpheus
 author: "@liam_fallen"

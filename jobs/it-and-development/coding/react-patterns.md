@@ -4,7 +4,7 @@ slug: react-patterns
 language: en
 tagline: "Guide developers in applying modern React patterns for production apps."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/react-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: event-staffing-ordering
 language: en
 tagline: "Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru."
 jobs: ["operations","hospitality-and-events","human-resources"]
-topics: ["productivity"]
+topics: ["productivity","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/event-staffing-ordering
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

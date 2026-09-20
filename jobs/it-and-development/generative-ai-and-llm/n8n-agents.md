@@ -4,7 +4,7 @@ slug: n8n-agents
 language: en
 tagline: "Design n8n AI agents, chains, classifiers, extractors, and structured-output flows."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/n8n-agents
 adapted_from: https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-agents

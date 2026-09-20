@@ -4,7 +4,7 @@ slug: deprecation-and-migration
 language: en
 tagline: "Remove old systems and migrate users safely to new implementations."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","writing-and-content","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/deprecation-and-migration
 adapted_from: https://github.com/addyosmani/agent-skills/tree/main/skills/deprecation-and-migration

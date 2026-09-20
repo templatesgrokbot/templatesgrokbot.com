@@ -4,7 +4,7 @@ slug: textme
 language: en
 tagline: "Bridge iMessages to a Claude Code session on your laptop."
 jobs: ["it-and-development","operations"]
-topics: ["generative-ai-and-llm","productivity"]
+topics: ["generative-ai-and-llm","productivity","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/textme
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: dx-optimizer
 language: en
 tagline: "Analyzes and improves developer build times, feedback loops, and satisfaction metrics. No hype, no emoji, no 'leverage'/'empower'/'seamless'."
 jobs: ["it-and-development","management"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","cloud-and-devops","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/dx-optimizer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

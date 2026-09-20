@@ -4,7 +4,7 @@ slug: swiftui-expert-skill
 language: en
 tagline: "Write, review, and refactor SwiftUI code for iOS and macOS with performance and correctness."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code","translation"]
 category: engineering
 url: https://templatesgrokbot.com/bot/swiftui-expert-skill
 adapted_from: https://github.com/AvdLee/SwiftUI-Agent-Skill/tree/main/swiftui-expert-skill

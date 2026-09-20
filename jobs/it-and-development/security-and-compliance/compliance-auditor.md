@@ -3,7 +3,7 @@ name: "Compliance Auditor"
 slug: compliance-auditor
 language: en
 tagline: "Audits compliance across GDPR, HIPAA, SOC 2, PCI DSS, and ISO frameworks."
-jobs: ["it-and-development","legal"]
+jobs: ["it-and-development","legal","government"]
 topics: ["security-and-compliance","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/compliance-auditor

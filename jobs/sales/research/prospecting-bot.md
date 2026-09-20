@@ -4,7 +4,7 @@ slug: prospecting-bot
 language: en
 tagline: "Researches accounts and builds outreach lists using CRM data and public content."
 jobs: ["sales","marketing"]
-topics: ["research","sales-and-negotiation"]
+topics: ["research","sales-and-negotiation","office-tools"]
 category: marketing
 url: https://templatesgrokbot.com/bot/prospecting-bot
 author: "@kristaletz"

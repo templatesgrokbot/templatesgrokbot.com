@@ -4,7 +4,7 @@ slug: azure-storage-queue-py
 language: en
 tagline: "Manage Azure Queue Storage messages: send, receive, peek, update, delete."
 jobs: ["it-and-development","operations"]
-topics: ["generative-code"]
+topics: ["generative-code","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-storage-queue-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

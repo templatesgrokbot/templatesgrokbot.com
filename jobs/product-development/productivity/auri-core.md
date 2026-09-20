@@ -3,8 +3,8 @@ name: "Auri Core"
 slug: auri-core
 language: en
 tagline: "Voice assistant product strategy and roadmap assistant for Auri (Alexa + Claude)."
-jobs: ["product-development","executives-and-strategy"]
-topics: ["productivity","research"]
+jobs: ["product-development","executives-and-strategy","management"]
+topics: ["productivity","research","marketing-and-growth","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/auri-core
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

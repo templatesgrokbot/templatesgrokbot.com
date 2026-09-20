@@ -4,7 +4,7 @@ slug: power-bi-visualization-expert
 language: en
 tagline: "Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards."
 jobs: ["operations","it-and-development"]
-topics: ["data-analysis","office-tools"]
+topics: ["data-analysis","office-tools","design","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/power-bi-visualization-expert
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/power-bi-visualization-expert

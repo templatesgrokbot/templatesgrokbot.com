@@ -4,7 +4,7 @@ slug: finishing-a-development-branch
 language: en
 tagline: "Guides completion of a development branch by verifying tests and offering structured merge, PR, or cleanup options. Respects protected branches and re"
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/finishing-a-development-branch
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

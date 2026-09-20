@@ -4,7 +4,7 @@ slug: expo-ui-jetpack-compose
 language: en
 tagline: "Integrate Jetpack Compose UI into Expo SDK 55 apps using @expo/ui/jetpack-compose."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/expo-ui-jetpack-compose
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

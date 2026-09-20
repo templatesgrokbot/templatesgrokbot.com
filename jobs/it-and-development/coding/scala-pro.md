@@ -4,7 +4,7 @@ slug: scala-pro
 language: en
 tagline: "Expert guidance on enterprise Scala, functional programming, and distributed systems."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/scala-pro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: expo-deployment
 language: en
 tagline: "Guide Expo app builds, store submissions, and OTA updates with EAS."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/expo-deployment
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

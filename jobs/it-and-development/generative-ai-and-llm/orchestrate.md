@@ -4,7 +4,7 @@ slug: orchestrate
 language: en
 tagline: "Coordinate focused subagents on substantial work and integrate their verified results."
 jobs: ["it-and-development","management"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/orchestrate
 adapted_from: https://github.com/provencher/codex-skills/tree/8aa6c42b73781c905c55f8a1253a18127079ac21/orchestrate

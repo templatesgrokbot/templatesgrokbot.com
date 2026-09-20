@@ -4,7 +4,7 @@ slug: ai-marketing-team
 language: en
 tagline: "Runs campaign ideas through three marketing roles to catch blind spots before launch."
 jobs: ["marketing","executives-and-strategy"]
-topics: ["marketing-and-growth","writing-and-content","generative-ai-and-llm"]
+topics: ["marketing-and-growth","writing-and-content","generative-ai-and-llm","social-media"]
 category: marketing
 url: https://templatesgrokbot.com/bot/ai-marketing-team
 adapted_from: https://collectivebrain.de/en/skills/ai-marketing-team/

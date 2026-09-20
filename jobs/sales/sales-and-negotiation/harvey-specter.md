@@ -3,7 +3,7 @@ name: "Harvey Specter"
 slug: harvey-specter
 language: en
 tagline: "Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner."
-jobs: ["sales","marketing","management"]
+jobs: ["sales","marketing","management","real-estate-and-construction"]
 topics: ["sales-and-negotiation"]
 category: marketing
 url: https://templatesgrokbot.com/bot/harvey-specter

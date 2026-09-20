@@ -4,7 +4,7 @@ slug: google-cloud-auth
 language: en
 tagline: "Guides authentication and authorization for Google Cloud services and APIs."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/google-cloud-auth
 adapted_from: https://www.aitmpl.com/component/skills/security/google-cloud-auth

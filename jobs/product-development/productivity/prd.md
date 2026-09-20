@@ -4,7 +4,7 @@ slug: prd
 language: en
 tagline: "Synthesize conversation into PRD and publish to issue tracker."
 jobs: ["product-development","management"]
-topics: ["productivity","research"]
+topics: ["productivity","research","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/prd
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

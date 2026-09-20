@@ -1,17 +1,19 @@
 # Security & Compliance templates for Human Resources
 
-Authorised security testing, audits and regulatory work. 20 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 22 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Check Identity Pack](../../operations/security-and-compliance/check-identity-pack.md) | Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing. |
 | [Compensation Compliance Navigator](compensation-compliance-navigator.md) | Keeps compensation practices compliant with up-to-date law and tailored guidance. |
 | [Compliance Training Manager](../../education/security-and-compliance/compliance-training-manager.md) | Manages compliance training from needs assessment to certification and reporting. |
 | [Compliance Training Oversight Assistant](compliance-training-oversight-assistant.md) | Builds, tracks, and improves compliance training programs for HR specialists. |
 | [Compliance Training Update Assistant](compliance-training-update-assistant.md) | Keeps compliance training current, engaging, and tailored to your organization's needs. |
 | [Employee Classification Advisor](../../finance/security-and-compliance/employee-classification-advisor.md) | Guides payroll administrators through employee classification decisions and compliance. |
 | [Event Staffing Compliance](event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
+| [Gdpr Data Handling](../../it-and-development/security-and-compliance/gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
 | [Health and Safety Protocol Planner](health-and-safety-protocol-planner.md) | Guides HR managers through workplace health and safety protocols, from risk assessment to training and compliance. |
 | [HR Legal Compliance Assistant](hr-legal-compliance-assistant.md) | Keeps HR policies, records, and practices aligned with employment law. |
 | [HR Legal Compliance Reviewer](hr-legal-compliance-reviewer.md) | Reviews and updates HR legal compliance across contracts, policies, and procedures. |

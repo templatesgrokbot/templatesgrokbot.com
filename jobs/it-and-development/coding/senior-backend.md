@@ -4,7 +4,7 @@ slug: senior-backend
 language: en
 tagline: "Scaffolds APIs, migrates databases, and load-tests endpoints for scalable backend systems."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/senior-backend
 adapted_from: https://www.aitmpl.com/component/skills/development/senior-backend

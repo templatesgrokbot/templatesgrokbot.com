@@ -3,8 +3,8 @@ name: "Brendangregg Use Tsa"
 slug: brendangregg-use-tsa
 language: en
 tagline: "Evidence-first performance debugging with USE/TSA methods and structured RCA reports."
-jobs: ["it-and-development"]
-topics: ["data-analysis"]
+jobs: ["it-and-development","operations"]
+topics: ["data-analysis","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/brendangregg-use-tsa
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

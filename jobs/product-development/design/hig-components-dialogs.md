@@ -3,7 +3,7 @@ name: "Hig Components Dialogs"
 slug: hig-components-dialogs
 language: en
 tagline: "Recommend Apple HIG presentation components for alerts, sheets, popovers, action sheets, and digit entry."
-jobs: ["product-development","it-and-development"]
+jobs: ["product-development","it-and-development","creatives"]
 topics: ["design"]
 category: operations
 url: https://templatesgrokbot.com/bot/hig-components-dialogs

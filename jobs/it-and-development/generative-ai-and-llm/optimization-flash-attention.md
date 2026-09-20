@@ -3,8 +3,8 @@ name: "Optimization Flash Attention"
 slug: optimization-flash-attention
 language: en
 tagline: "Optimizes transformer attention with Flash Attention for 2-4x speedup and 10-20x memory reduction on long sequences."
-jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["generative-ai-and-llm","teaching-and-tutoring","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/optimization-flash-attention
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/optimization-flash-attention

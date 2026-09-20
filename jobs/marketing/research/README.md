@@ -1,6 +1,6 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 74 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 77 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -58,12 +58,14 @@ Find sources, compare evidence and summarise what is known. 74 Grok Bot template
 | [Onboarding Psychologist](../../product-development/research/onboarding-psychologist.md) | Design onboarding flows that build habits through early wins and identity shift. |
 | [People Data](../../sales/research/people-data.md) | Research LinkedIn profiles and public business contacts via MCP. |
 | [Perplexity](../../science-and-research/research/perplexity.md) | Searches the web and answers questions using Perplexity AI. |
+| [Perplexity Search](../../science-and-research/research/perplexity-search.md) | Searches the web for current information and returns grounded answers with source citations. |
 | [Persona Workshop Facilitator](persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Podcast Trend Scout](podcast-trend-scout.md) | Scouts 3-5 emerging tech topics weekly for The Build podcast episodes. |
 | [Product Development Insight Assistant](../../management/research/product-development-insight-assistant.md) | Guides market research managers through AI-powered product development insights. |
 | [Prospecting bot](../../sales/research/prospecting-bot.md) | Researches accounts and builds outreach lists using CRM data and public content. |
 | [Research Analyst](../../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
 | [Research Brief Generator](../../science-and-research/research/research-brief-generator.md) | Transforms a research query into a structured brief with questions, keywords, and source preferences. |
+| [Search](../../it-and-development/research/search.md) | Searches Google via Bright Data SERP API and returns structured JSON results. |
 | [Search Specialist](../../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
 | [Seek And Analyze Video](../../it-and-development/research/seek-and-analyze-video.md) | Search, import, and analyze video content with persistent memory across sessions. |
 | [SEO Competitive Analysis](seo-wettbewerbsanalyse.md) | Reverse-engineer ranking competitors to produce a content gap map, keyword steal list, and three pages to write first. |
@@ -77,6 +79,7 @@ Find sources, compare evidence and summarise what is known. 74 Grok Bot template
 | [Tools Page Seo Optimizer](tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |
 | [Trend Analyst](trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Trend Scout for Bloggers](../../writers/research/trend-scout-for-bloggers.md) | Researches and analyzes trends for timely, insightful blog content. |
+| [Url Context Validator](../../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
 | [Ux Researcher](../../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
 | [Ux Researcher Designer](../../product-development/research/ux-researcher-designer.md) | Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships. |
 | [Web Media Getter](../../creatives/research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |

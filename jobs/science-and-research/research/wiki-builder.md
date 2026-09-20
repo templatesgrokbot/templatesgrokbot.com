@@ -4,7 +4,7 @@ slug: wiki-builder
 language: en
 tagline: "Create and maintain reusable research wikis with source provenance and local markdown outputs."
 jobs: ["science-and-research","it-and-development"]
-topics: ["research","knowledge-management"]
+topics: ["research","knowledge-management","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/wiki-builder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: inference-serving-sglang
 language: en
 tagline: "Serve LLMs with structured outputs and prefix caching for 5× faster inference."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm","cloud-and-devops"]
+topics: ["generative-ai-and-llm","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/inference-serving-sglang
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/inference-serving-sglang

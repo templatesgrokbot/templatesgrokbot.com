@@ -4,7 +4,7 @@ slug: distribute-skill-to-all-agents
 language: en
 tagline: "Copy a canonical capability to Hermes while respecting local symlinks."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/distribute-skill-to-all-agents
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

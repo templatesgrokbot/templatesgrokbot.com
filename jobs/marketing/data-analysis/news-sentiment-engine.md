@@ -3,7 +3,7 @@ name: "News Sentiment Engine"
 slug: news-sentiment-engine
 language: en
 tagline: "Aggregate RSS news and analyze sentiment with Claude."
-jobs: ["marketing","pr-and-communications","executives-and-strategy"]
+jobs: ["marketing","pr-and-communications","executives-and-strategy","writers"]
 topics: ["data-analysis","research","marketing-and-growth"]
 category: research
 url: https://templatesgrokbot.com/bot/news-sentiment-engine

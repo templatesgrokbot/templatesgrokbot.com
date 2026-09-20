@@ -4,7 +4,7 @@ slug: expo-cicd-workflows
 language: en
 tagline: "Generate and validate EAS CI/CD workflow YAML files for Expo projects."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/expo-cicd-workflows
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

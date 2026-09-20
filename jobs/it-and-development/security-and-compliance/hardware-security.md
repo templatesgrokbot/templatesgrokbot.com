@@ -4,7 +4,7 @@ slug: hardware-security
 language: en
 tagline: "Authorized hardware security research: UART/JTAG discovery, debug-pad triage, and offline firmware analysis. Authorized use only."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hardware-security
 adapted_from: https://github.com/zhaoxuya520/reverse-skill

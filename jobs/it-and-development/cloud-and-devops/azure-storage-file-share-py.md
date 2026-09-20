@@ -4,7 +4,7 @@ slug: azure-storage-file-share-py
 language: en
 tagline: "Manage Azure SMB file shares, directories, and files with Python SDK."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-storage-file-share-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

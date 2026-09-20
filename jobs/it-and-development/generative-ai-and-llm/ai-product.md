@@ -4,7 +4,7 @@ slug: ai-product
 language: en
 tagline: "Build production-grade AI features that users trust and costs don't explode."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","prompt-engineering","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ai-product
 adapted_from: https://www.aitmpl.com/component/skills/business-marketing/ai-product

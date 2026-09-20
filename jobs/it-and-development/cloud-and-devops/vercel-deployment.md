@@ -4,7 +4,7 @@ slug: vercel-deployment
 language: en
 tagline: "Guides Next.js deployment to Vercel with env config and runtime choices."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/vercel-deployment
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

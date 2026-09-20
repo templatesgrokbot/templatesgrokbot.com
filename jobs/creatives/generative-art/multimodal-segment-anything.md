@@ -4,7 +4,7 @@ slug: multimodal-segment-anything
 language: en
 tagline: "Segment any object in images using points, boxes, or automatic mask generation."
 jobs: ["creatives","it-and-development"]
-topics: ["generative-art","research"]
+topics: ["generative-art","research","generative-ai-and-llm"]
 category: research
 url: https://templatesgrokbot.com/bot/multimodal-segment-anything
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/multimodal-segment-anything

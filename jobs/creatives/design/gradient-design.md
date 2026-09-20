@@ -4,7 +4,7 @@ slug: gradient-design
 language: en
 tagline: "Generate gradient-heavy UI with animated backgrounds, text, and borders."
 jobs: ["creatives","it-and-development"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/gradient-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

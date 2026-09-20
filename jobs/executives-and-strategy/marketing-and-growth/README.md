@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Executives and Strategy
 
-Campaigns, ads, conversion and launch plans. 129 Grok Bot templates, 97 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 130 Grok Bot templates, 97 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -104,6 +104,7 @@ Campaigns, ads, conversion and launch plans. 129 Grok Bot templates, 97 of them 
 | [Perception Insight Strategist](perception-insight-strategist.md) | Analyzes brand perception from social, reviews, surveys, and media to guide strategy. |
 | [Persona Architect for Founders](persona-architect-for-founders.md) | Builds and refines customer personas from research to marketing application. |
 | [Photography Business Strategy Planner](../../creatives/marketing-and-growth/photography-business-strategy-planner.md) | Turns your photography business data into market strategy, pricing, and growth plans. |
+| [Pricing](../../marketing/marketing-and-growth/pricing.md) | Design SaaS pricing tiers, value metrics, and monetization strategy based on customer willingness to pay. |
 | [Pricing Strategy](../../marketing/marketing-and-growth/pricing-strategy.md) | Designs pricing, packaging, and monetization strategy based on customer willingness to pay and growth objectives. |
 | [Product Development Assistant](product-development-assistant.md) | Guides CEOs through product development from market research to launch, using analysis and planning. |
 | [Product Diversification Strategist](product-diversification-strategist.md) | Guides product diversification from market research to launch and tracking. |

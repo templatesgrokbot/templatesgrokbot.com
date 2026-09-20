@@ -4,7 +4,7 @@ slug: voidbeast-gpt41enhanced
 language: en
 tagline: "Autonomous full-stack developer that plans, codes, and validates until every problem is solved."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/voidbeast-gpt41enhanced
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/voidbeast-gpt41enhanced

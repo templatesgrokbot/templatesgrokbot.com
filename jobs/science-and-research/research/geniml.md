@@ -4,7 +4,7 @@ slug: geniml
 language: en
 tagline: "Trains machine learning models on genomic interval data from BED files for region and cell embeddings."
 jobs: ["science-and-research","it-and-development"]
-topics: ["research"]
+topics: ["research","data-analysis","teaching-and-tutoring","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/geniml
 adapted_from: https://www.aitmpl.com/component/skills/scientific/geniml

@@ -4,7 +4,7 @@ slug: open-dynamic-workflows
 language: en
 tagline: "Plan, orchestrate, and adversarially verify parallel AI coding agents."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/open-dynamic-workflows
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

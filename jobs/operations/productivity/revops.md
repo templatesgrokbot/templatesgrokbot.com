@@ -4,7 +4,7 @@ slug: revops
 language: en
 tagline: "Design and optimize revenue operations, lead lifecycle, scoring, routing, and CRM automation."
 jobs: ["operations","sales","marketing"]
-topics: ["productivity","sales-and-negotiation"]
+topics: ["productivity","sales-and-negotiation","marketing-and-growth","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/revops
 adapted_from: https://github.com/coreyhaines31/marketingskills

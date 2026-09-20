@@ -4,7 +4,7 @@ slug: se-gitops-ci-specialist
 language: en
 tagline: "Makes deployments boring and reliable by triaging failures, fixing pipelines, and enforcing GitOps standards."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/se-gitops-ci-specialist
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/se-gitops-ci-specialist

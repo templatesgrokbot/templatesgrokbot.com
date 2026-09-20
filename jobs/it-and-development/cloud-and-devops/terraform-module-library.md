@@ -4,7 +4,7 @@ slug: terraform-module-library
 language: en
 tagline: "Build reusable Terraform modules for AWS, Azure, and GCP with standardized patterns and tests."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/terraform-module-library
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

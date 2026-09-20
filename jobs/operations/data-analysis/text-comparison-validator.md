@@ -3,8 +3,8 @@ name: "Text Comparison Validator"
 slug: text-comparison-validator
 language: en
 tagline: "Compares extracted text to a reference file and reports all discrepancies."
-jobs: ["operations","it-and-development"]
-topics: ["data-analysis"]
+jobs: ["operations","it-and-development","legal"]
+topics: ["data-analysis","knowledge-management","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/text-comparison-validator
 adapted_from: https://www.aitmpl.com/component/agents/ocr-extraction-team/text-comparison-validator

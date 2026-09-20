@@ -4,7 +4,7 @@ slug: qa-test-planner
 language: en
 tagline: "Generate test plans, test cases, regression suites, and bug reports for QA engineers."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/qa-test-planner
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/qa-test-planner

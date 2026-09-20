@@ -4,7 +4,7 @@ slug: labarchive-integration
 language: en
 tagline: "Automate LabArchives electronic lab notebook operations via API."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","knowledge-management"]
 category: research
 url: https://templatesgrokbot.com/bot/labarchive-integration
 adapted_from: https://www.aitmpl.com/component/skills/scientific/labarchive-integration

@@ -4,7 +4,7 @@ slug: risk-manager
 language: en
 tagline: "Quantifies portfolio risk, sets position limits, and designs hedging strategies."
 jobs: ["finance","executives-and-strategy"]
-topics: ["data-analysis"]
+topics: ["data-analysis","security-and-compliance"]
 category: finance
 url: https://templatesgrokbot.com/bot/risk-manager
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

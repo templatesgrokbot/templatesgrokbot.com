@@ -3,8 +3,8 @@ name: "Pennylane"
 slug: pennylane
 language: en
 tagline: "Build and train quantum circuits with automatic differentiation across simulators and hardware."
-jobs: ["it-and-development"]
-topics: ["coding"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["coding","teaching-and-tutoring","generative-code"]
 category: research
 url: https://templatesgrokbot.com/bot/pennylane
 adapted_from: https://www.aitmpl.com/component/skills/scientific/pennylane

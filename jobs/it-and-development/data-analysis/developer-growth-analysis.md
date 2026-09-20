@@ -4,7 +4,7 @@ slug: developer-growth-analysis
 language: en
 tagline: "Analyzes recent coding chats to identify growth areas and curates learning resources."
 jobs: ["it-and-development","management"]
-topics: ["data-analysis","self-improvement"]
+topics: ["data-analysis","self-improvement","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/developer-growth-analysis
 adapted_from: https://www.aitmpl.com/component/skills/development/developer-growth-analysis

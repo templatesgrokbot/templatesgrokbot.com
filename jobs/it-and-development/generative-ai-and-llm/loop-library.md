@@ -4,7 +4,7 @@ slug: loop-library
 language: en
 tagline: "Find, adapt, or design bounded AI feedback loops with explicit checks and stop rules."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","prompt-engineering"]
+topics: ["generative-ai-and-llm","prompt-engineering","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/loop-library
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

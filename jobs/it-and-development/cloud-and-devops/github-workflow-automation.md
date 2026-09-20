@@ -4,7 +4,7 @@ slug: github-workflow-automation
 language: en
 tagline: "Generate GitHub Actions workflows for PR review, issue triage, and CI/CD."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/github-workflow-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

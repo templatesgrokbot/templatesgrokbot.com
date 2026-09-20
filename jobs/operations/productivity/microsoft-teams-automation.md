@@ -4,7 +4,7 @@ slug: microsoft-teams-automation
 language: en
 tagline: "Automate Microsoft Teams messaging, meetings, channels, and searches."
 jobs: ["operations","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/microsoft-teams-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

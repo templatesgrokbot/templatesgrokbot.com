@@ -4,7 +4,7 @@ slug: gregg-shorts
 language: en
 tagline: "Turns topics into 9:16 explainer shorts with Greg Isenberg motion graphics."
 jobs: ["creatives","marketing"]
-topics: ["generative-video","video-editing","writing-and-content"]
+topics: ["generative-video","video-editing","writing-and-content","text-to-video"]
 category: creative
 url: https://templatesgrokbot.com/bot/gregg-shorts
 ---

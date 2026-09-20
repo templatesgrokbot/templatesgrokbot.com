@@ -4,7 +4,7 @@ slug: azure-eventhub-py
 language: en
 tagline: "Stream events into and out of Azure Event Hubs with Python, batching, and checkpointing."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-eventhub-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

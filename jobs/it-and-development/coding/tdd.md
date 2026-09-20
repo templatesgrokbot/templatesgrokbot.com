@@ -4,7 +4,7 @@ slug: tdd
 language: en
 tagline: "Build features or fix bugs test-first with red-green-refactor cycles."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/tdd
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

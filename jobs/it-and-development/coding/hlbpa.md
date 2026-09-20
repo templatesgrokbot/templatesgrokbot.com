@@ -4,7 +4,7 @@ slug: hlbpa
 language: en
 tagline: "Produces high-level architectural docs and reviews for codebases, focusing on interfaces, flows, and failure modes."
 jobs: ["it-and-development","product-development","management"]
-topics: ["coding","knowledge-management","research"]
+topics: ["coding","knowledge-management","research","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hlbpa
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/hlbpa

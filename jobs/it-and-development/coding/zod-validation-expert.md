@@ -4,7 +4,7 @@ slug: zod-validation-expert
 language: en
 tagline: "Build type-safe Zod schemas and validation logic for TypeScript projects — parsing, custom errors, refinements, type inference, and integration with R"
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/zod-validation-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

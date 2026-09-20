@@ -4,7 +4,7 @@ slug: cobrapy
 language: en
 tagline: "Run constraint-based metabolic modeling and analysis on genome-scale models."
 jobs: ["science-and-research","it-and-development"]
-topics: ["data-analysis","generative-ai-and-llm"]
+topics: ["data-analysis","generative-ai-and-llm","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/cobrapy
 adapted_from: https://www.aitmpl.com/component/skills/scientific/cobrapy

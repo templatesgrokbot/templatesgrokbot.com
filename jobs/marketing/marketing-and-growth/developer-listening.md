@@ -3,7 +3,7 @@ name: "Developer Listening"
 slug: developer-listening
 language: en
 tagline: "Monitor developer conversations across GitHub, Hacker News, Reddit, and more."
-jobs: ["marketing","product-development","it-and-development"]
+jobs: ["marketing","product-development","it-and-development","pr-and-communications"]
 topics: ["marketing-and-growth","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/developer-listening

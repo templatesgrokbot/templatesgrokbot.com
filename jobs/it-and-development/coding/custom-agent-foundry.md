@@ -4,7 +4,7 @@ slug: custom-agent-foundry
 language: en
 tagline: "Designs and creates VS Code custom agents with optimal configurations."
 jobs: ["it-and-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","generative-ai-and-llm","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/custom-agent-foundry
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/custom-agent-foundry

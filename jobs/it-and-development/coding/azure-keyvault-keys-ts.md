@@ -4,7 +4,7 @@ slug: azure-keyvault-keys-ts
 language: en
 tagline: "Manage cryptographic keys and secrets in Azure Key Vault using the JavaScript SDK."
 jobs: ["it-and-development"]
-topics: ["coding","security-and-compliance"]
+topics: ["coding","security-and-compliance","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-keyvault-keys-ts
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

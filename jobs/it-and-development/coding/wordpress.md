@@ -4,7 +4,7 @@ slug: wordpress
 language: en
 tagline: "Build and secure WordPress sites with themes, plugins, WooCommerce, and 7.0 features."
 jobs: ["it-and-development","marketing"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wordpress
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

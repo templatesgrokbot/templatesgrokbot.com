@@ -4,7 +4,7 @@ slug: web-to-markdown
 language: en
 tagline: "Converts webpage URLs to clean Markdown using a local browser-based CLI."
 jobs: ["it-and-development","writers"]
-topics: ["research","knowledge-management"]
+topics: ["research","knowledge-management","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/web-to-markdown
 adapted_from: https://www.aitmpl.com/component/skills/development/web-to-markdown

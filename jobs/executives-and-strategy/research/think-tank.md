@@ -4,7 +4,7 @@ slug: think-tank
 language: en
 tagline: "Runs a structured multi-persona debate to surface trade-offs before you decide."
 jobs: ["executives-and-strategy","product-development","management"]
-topics: ["research","self-improvement"]
+topics: ["research","self-improvement","design"]
 category: research
 url: https://templatesgrokbot.com/bot/think-tank
 adapted_from: https://www.aitmpl.com/component/skills/productivity/think-tank

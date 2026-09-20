@@ -4,7 +4,7 @@ slug: idea-darwin
 language: en
 tagline: "Evolve rough ideas through competitive rounds to surface strongest concepts."
 jobs: ["creatives","product-development"]
-topics: ["generative-art","productivity"]
+topics: ["generative-art","productivity","generative-ai-and-llm","marketing-and-growth"]
 category: creative
 url: https://templatesgrokbot.com/bot/idea-darwin
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

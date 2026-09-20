@@ -4,7 +4,7 @@ slug: distributed-training-deepspeed
 language: en
 tagline: "Guides users through configuring and optimizing DeepSpeed for distributed training."
 jobs: ["it-and-development","science-and-research"]
-topics: ["cloud-and-devops","generative-ai-and-llm"]
+topics: ["cloud-and-devops","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/distributed-training-deepspeed
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/distributed-training-deepspeed

@@ -4,7 +4,7 @@ slug: weaviate-cookbooks
 language: en
 tagline: "Scaffold Weaviate AI apps from official cookbook blueprints for RAG, agentic RAG, data exploration, and more."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","coding","research"]
+topics: ["generative-ai-and-llm","coding","research","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/weaviate-cookbooks
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

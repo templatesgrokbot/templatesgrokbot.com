@@ -4,7 +4,7 @@ slug: nextjs-architecture-expert
 language: en
 tagline: "Advises on Next.js architecture, App Router, Server Components, and performance optimization."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/nextjs-architecture-expert
 adapted_from: https://www.aitmpl.com/component/agents/web-tools/nextjs-architecture-expert

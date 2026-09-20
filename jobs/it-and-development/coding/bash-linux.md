@@ -3,7 +3,7 @@ name: "Bash Linux"
 slug: bash-linux
 language: en
 tagline: "Provides Bash/Linux command patterns, scripting templates, and error handling for macOS or Linux."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","science-and-research"]
 topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bash-linux

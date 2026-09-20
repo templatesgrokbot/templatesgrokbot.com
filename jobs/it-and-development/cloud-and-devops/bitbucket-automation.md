@@ -4,7 +4,7 @@ slug: bitbucket-automation
 language: en
 tagline: "Automate Bitbucket repos, PRs, branches, issues, and workspace management via MCP tools."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bitbucket-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

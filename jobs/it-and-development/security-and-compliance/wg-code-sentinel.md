@@ -4,7 +4,7 @@ slug: wg-code-sentinel
 language: en
 tagline: "Review code for security vulnerabilities and recommend fixes."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wg-code-sentinel
 adapted_from: https://www.aitmpl.com/component/agents/security/wg-code-sentinel

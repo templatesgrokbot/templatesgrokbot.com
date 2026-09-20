@@ -4,7 +4,7 @@ slug: idor-testing
 language: en
 tagline: "Guides systematic IDOR detection, exploitation, and remediation in web apps."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/idor-testing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

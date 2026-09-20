@@ -4,7 +4,7 @@ slug: redis-cli
 language: en
 tagline: "Redis CLI reference for querying, inspecting, and managing Redis from the command line."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/redis-cli
 adapted_from: https://github.com/chaunsin/agent-skills/tree/master/skills/redis-cli

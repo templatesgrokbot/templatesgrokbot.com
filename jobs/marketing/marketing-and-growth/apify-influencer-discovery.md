@@ -4,7 +4,7 @@ slug: apify-influencer-discovery
 language: en
 tagline: "Find and evaluate influencers for brand partnerships across Instagram, Facebook, YouTube, and TikTok."
 jobs: ["marketing","sales"]
-topics: ["marketing-and-growth","social-media","data-analysis"]
+topics: ["marketing-and-growth","social-media","data-analysis","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/apify-influencer-discovery
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

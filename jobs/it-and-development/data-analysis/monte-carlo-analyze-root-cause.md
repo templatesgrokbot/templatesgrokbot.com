@@ -4,7 +4,7 @@ slug: monte-carlo-analyze-root-cause
 language: en
 tagline: "Investigate data incidents and find root causes using Monte Carlo observability data."
 jobs: ["it-and-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/monte-carlo-analyze-root-cause
 adapted_from: https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/analyze-root-cause

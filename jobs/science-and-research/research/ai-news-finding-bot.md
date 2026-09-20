@@ -3,7 +3,7 @@ name: "AI News finding Bot"
 slug: ai-news-finding-bot
 language: en
 tagline: "Finds and summarizes AI news from trusted sources daily."
-jobs: ["science-and-research","marketing"]
+jobs: ["science-and-research","marketing","writers"]
 topics: ["research","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/ai-news-finding-bot

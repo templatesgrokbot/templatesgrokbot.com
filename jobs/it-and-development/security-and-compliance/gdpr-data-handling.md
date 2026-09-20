@@ -3,8 +3,8 @@ name: "Gdpr Data Handling"
 slug: gdpr-data-handling
 language: en
 tagline: "Guide GDPR-compliant data processing, consent, and subject requests."
-jobs: ["it-and-development","legal","operations"]
-topics: ["security-and-compliance"]
+jobs: ["it-and-development","legal","operations","government","human-resources"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/gdpr-data-handling
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

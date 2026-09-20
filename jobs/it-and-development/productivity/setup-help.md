@@ -4,7 +4,7 @@ slug: setup-help
 language: en
 tagline: "Guide users through multi-step setup one action at a time."
 jobs: ["it-and-development","customer-support"]
-topics: ["productivity","cloud-and-devops"]
+topics: ["productivity","cloud-and-devops","support-and-community"]
 category: engineering
 url: https://templatesgrokbot.com/bot/setup-help
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

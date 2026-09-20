@@ -4,7 +4,7 @@ slug: onboarding-cro
 language: en
 tagline: "Audits and optimizes user onboarding to reduce time-to-value and increase activation rates."
 jobs: ["product-development","management","marketing"]
-topics: ["productivity","marketing-and-growth"]
+topics: ["productivity","marketing-and-growth","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/onboarding-cro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

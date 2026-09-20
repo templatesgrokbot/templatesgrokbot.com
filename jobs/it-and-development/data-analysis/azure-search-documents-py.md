@@ -4,7 +4,7 @@ slug: azure-search-documents-py
 language: en
 tagline: "Search, index, and enrich documents with Azure AI Search SDK for Python."
 jobs: ["it-and-development"]
-topics: ["data-analysis","generative-ai-and-llm"]
+topics: ["data-analysis","generative-ai-and-llm","coding","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-search-documents-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: retro-futurism
 language: en
 tagline: "Generate retro-futurist UI with 1950s space-age aesthetics and atompunk vibes."
 jobs: ["creatives","it-and-development"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/retro-futurism
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

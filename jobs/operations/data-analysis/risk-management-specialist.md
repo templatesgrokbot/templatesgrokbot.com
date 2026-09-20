@@ -3,8 +3,8 @@ name: "Risk Management Specialist"
 slug: risk-management-specialist
 language: en
 tagline: "Manages ISO 14971 risk management files for medical devices throughout the product lifecycle."
-jobs: ["operations","healthcare"]
-topics: ["data-analysis"]
+jobs: ["operations","healthcare","product-development"]
+topics: ["data-analysis","security-and-compliance","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/risk-management-specialist
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/risk-management-specialist

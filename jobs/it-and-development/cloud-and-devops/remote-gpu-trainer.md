@@ -3,7 +3,7 @@ name: "Remote Gpu Trainer"
 slug: remote-gpu-trainer
 language: en
 tagline: "Deploy, monitor, and debug long GPU jobs on rented instances with safe teardown and resumable checkpoints."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","science-and-research"]
 topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/remote-gpu-trainer

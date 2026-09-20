@@ -4,7 +4,7 @@ slug: django-developer
 language: en
 tagline: "Build and modernize Django 4+ web apps with REST APIs, async views, and enterprise patterns."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/django-developer
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/django-developer

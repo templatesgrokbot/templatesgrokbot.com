@@ -4,7 +4,7 @@ slug: dotnet-core-expert
 language: en
 tagline: "Build and optimize .NET Core applications with cloud-native architecture and modern C# patterns."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/dotnet-core-expert
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/dotnet-core-expert

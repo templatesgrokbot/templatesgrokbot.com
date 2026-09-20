@@ -4,7 +4,7 @@ slug: trimpson-joke-mill
 language: en
 tagline: "Generates joke scripts for Trimpson Coin memecoin marketing."
 jobs: ["marketing","creatives"]
-topics: ["generative-art","writing-and-content","social-media"]
+topics: ["generative-art","writing-and-content","social-media","marketing-and-growth"]
 category: marketing
 url: https://templatesgrokbot.com/bot/trimpson-joke-mill
 ---

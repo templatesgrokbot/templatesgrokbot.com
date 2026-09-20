@@ -4,7 +4,7 @@ slug: writing-great-skills
 language: en
 tagline: "Write and edit agent capabilities for predictable, deterministic behavior."
 jobs: ["it-and-development"]
-topics: ["prompt-engineering"]
+topics: ["prompt-engineering","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/writing-great-skills
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

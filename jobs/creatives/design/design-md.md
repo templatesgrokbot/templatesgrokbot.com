@@ -4,7 +4,7 @@ slug: design-md
 language: en
 tagline: "Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files"
 jobs: ["creatives","product-development"]
-topics: ["design"]
+topics: ["design","writing-and-content","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/design-md
 adapted_from: https://github.com/google-labs-code/stitch-skills/tree/main/skills/design-md

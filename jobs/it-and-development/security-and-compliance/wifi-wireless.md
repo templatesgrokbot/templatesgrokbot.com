@@ -4,7 +4,7 @@ slug: wifi-wireless
 language: en
 tagline: "Authorized Wi-Fi security assessment: capture, analyze, and report on wireless posture. Lab only. No unapproved deauth. No unapproved probing."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wifi-wireless
 adapted_from: https://github.com/zhaoxuya520/reverse-skill

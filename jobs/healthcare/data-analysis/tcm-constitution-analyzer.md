@@ -4,7 +4,7 @@ slug: tcm-constitution-analyzer
 language: en
 tagline: "Analyze TCM constitution data and provide personalized wellness recommendations."
 jobs: ["healthcare","science-and-research"]
-topics: ["data-analysis"]
+topics: ["data-analysis","self-improvement"]
 category: engineering
 url: https://templatesgrokbot.com/bot/tcm-constitution-analyzer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

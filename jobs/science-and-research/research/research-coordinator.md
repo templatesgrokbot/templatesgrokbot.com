@@ -4,7 +4,7 @@ slug: research-coordinator
 language: en
 tagline: "Plans and coordinates complex research tasks across multiple specialist researchers."
 jobs: ["science-and-research","management","operations"]
-topics: ["research"]
+topics: ["research","productivity"]
 category: research
 url: https://templatesgrokbot.com/bot/research-coordinator
 adapted_from: https://www.aitmpl.com/component/agents/deep-research-team/research-coordinator

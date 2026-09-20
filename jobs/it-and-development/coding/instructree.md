@@ -4,7 +4,7 @@ slug: instructree
 language: en
 tagline: "Map, explain, and lint coding-agent instruction files before changing code."
 jobs: ["it-and-development"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/instructree
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: mdr-745-specialist
 language: en
 tagline: "Guides medical device manufacturers through EU MDR 2017/745 compliance, from classification to post-market surveillance."
 jobs: ["operations","legal","product-development"]
-topics: ["research","security-and-compliance"]
+topics: ["research","security-and-compliance","writing-and-content","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/mdr-745-specialist
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/mdr-745-specialist

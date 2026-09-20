@@ -4,7 +4,7 @@ slug: seo-content
 language: en
 tagline: "Audit content quality and E-E-A-T signals for SEO and AI citation readiness."
 jobs: ["marketing","writers"]
-topics: ["writing-and-content","marketing-and-growth"]
+topics: ["writing-and-content","marketing-and-growth","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-content
 adapted_from: https://github.com/AgriciDaniel/claude-seo

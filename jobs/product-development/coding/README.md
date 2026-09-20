@@ -1,6 +1,6 @@
 # Coding templates for Product Development
 
-Write, review, test and debug software. 398 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 399 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -263,6 +263,7 @@ Write, review, test and debug software. 398 Grok Bot templates, 2 of them filed 
 | [Nextjs Supabase Auth](../../it-and-development/coding/nextjs-supabase-auth.md) | Integrates Supabase Auth with Next.js App Router using @supabase/ssr for secure server/client auth. |
 | [Nodejs Backend Patterns](../../it-and-development/coding/nodejs-backend-patterns.md) | Guides building scalable Node.js backends with modern patterns and best practices. |
 | [Nodejs Best Practices](../../it-and-development/coding/nodejs-best-practices.md) | Guides Node.js framework, architecture, and security decisions without writing code. |
+| [Octopus Deploy Release Notes Mcp](../../it-and-development/coding/octopus-deploy-release-notes-mcp.md) | Generates markdown release notes for Octopus Deploy releases using GitHub commit data. |
 | [Odoo Qweb Templates](../../it-and-development/coding/odoo-qweb-templates.md) | Generates Odoo QWeb XML for PDF reports, email templates, and website pages. |
 | [Odoo Xml Views Builder](../../it-and-development/coding/odoo-xml-views-builder.md) | Generates correct Odoo XML views for versions 14-17. |
 | [Ontoly Software Graph](../../it-and-development/coding/ontoly-software-graph.md) | Analyze TypeScript architecture via Ontoly's deterministic Software Graph queries. |

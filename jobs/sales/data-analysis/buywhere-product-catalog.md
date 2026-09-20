@@ -3,8 +3,8 @@ name: "Buywhere Product Catalog"
 slug: buywhere-product-catalog
 language: en
 tagline: "Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup."
-jobs: ["sales","marketing","operations"]
-topics: ["data-analysis","research"]
+jobs: ["sales","marketing","operations","it-and-development"]
+topics: ["data-analysis","research","generative-ai-and-llm","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/buywhere-product-catalog
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: salesforce-automation
 language: en
 tagline: "Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries."
 jobs: ["sales","operations","customer-support"]
-topics: ["sales-and-negotiation","support-and-community"]
+topics: ["sales-and-negotiation","support-and-community","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/salesforce-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

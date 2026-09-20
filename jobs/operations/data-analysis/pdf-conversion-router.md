@@ -4,7 +4,7 @@ slug: pdf-conversion-router
 language: en
 tagline: "Classifies PDFs then selects the best conversion route for faithful output. No universal defaults. Validates before delivery. Requires approval before"
 jobs: ["operations","it-and-development"]
-topics: ["data-analysis","productivity"]
+topics: ["data-analysis","productivity","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pdf-conversion-router
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

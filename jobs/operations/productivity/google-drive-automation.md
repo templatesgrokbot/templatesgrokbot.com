@@ -4,7 +4,7 @@ slug: google-drive-automation
 language: en
 tagline: "Full read/write access to Google Drive with standalone OAuth."
 jobs: ["operations","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","office-tools","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/google-drive-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

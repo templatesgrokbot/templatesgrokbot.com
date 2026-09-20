@@ -4,7 +4,7 @@ slug: support-triage
 language: en
 tagline: "Reads the support queue, groups the duplicates, and surfaces the one bug behind twelve tickets."
 jobs: ["customer-support","operations"]
-topics: ["support-and-community","data-analysis"]
+topics: ["support-and-community","data-analysis","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/support-triage
 ---

@@ -1,12 +1,13 @@
 # Support & Community templates for Customer Support
 
-Triage tickets, answer customers and moderate communities. 76 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 77 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [After-Sales Service Assistant](../../sales/support-and-community/after-sales-service-assistant.md) | Handles after-sales service tasks: follow-ups, troubleshooting, feedback, and more. |
+| [Agentphone](../../operations/support-and-community/agentphone.md) | Manage phone numbers, voice agents, calls, and SMS via the AgentPhone API. |
 | [Call Center Crisis Supervisor](call-center-crisis-supervisor.md) | Helps call center supervisors manage crises from detection to post-crisis review. |
 | [Claims Processing Assistant](claims-processing-assistant.md) | Handles claim inquiries, document collection, status updates, and appeals for insurance customer service. |
 | [Client Communication Manager](../../legal/support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |

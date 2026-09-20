@@ -4,7 +4,7 @@ slug: confluence-automation
 language: en
 tagline: "Automate Confluence page creation, search, space management, and labels via Rube MCP."
 jobs: ["operations","it-and-development"]
-topics: ["knowledge-management"]
+topics: ["knowledge-management","writing-and-content","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/confluence-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

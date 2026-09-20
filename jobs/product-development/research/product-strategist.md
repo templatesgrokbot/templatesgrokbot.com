@@ -4,7 +4,7 @@ slug: product-strategist
 language: en
 tagline: "Helps a Head of Product set strategy, align OKRs, and analyze markets."
 jobs: ["product-development","executives-and-strategy","management"]
-topics: ["research","productivity"]
+topics: ["research","productivity","marketing-and-growth"]
 category: operations
 url: https://templatesgrokbot.com/bot/product-strategist
 adapted_from: https://www.aitmpl.com/component/skills/business-marketing/product-strategist

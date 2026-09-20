@@ -4,7 +4,7 @@ slug: crossframe-casebook
 language: en
 tagline: "Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes."
 jobs: ["operations","management","legal"]
-topics: ["knowledge-management","productivity"]
+topics: ["knowledge-management","productivity","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/crossframe-casebook
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

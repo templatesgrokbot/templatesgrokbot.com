@@ -4,7 +4,7 @@ slug: stable-baselines3
 language: en
 tagline: "Trains RL agents using Stable Baselines3 with custom environments and callbacks. No experimentation without approval. Reports exact metrics. Never sen"
 jobs: ["it-and-development","science-and-research","product-development"]
-topics: ["generative-ai-and-llm","data-analysis","research"]
+topics: ["generative-ai-and-llm","data-analysis","research","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/stable-baselines3
 adapted_from: https://www.aitmpl.com/component/skills/scientific/stable-baselines3

@@ -4,7 +4,7 @@ slug: connection-agent
 language: en
 tagline: "Analyzes an Obsidian vault to suggest links between notes and identify orphaned content."
 jobs: ["operations","it-and-development"]
-topics: ["knowledge-management"]
+topics: ["knowledge-management","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/connection-agent
 adapted_from: https://www.aitmpl.com/component/agents/obsidian-ops-team/connection-agent

@@ -3,8 +3,8 @@ name: "Ai Ethics Advisor"
 slug: ai-ethics-advisor
 language: en
 tagline: "Audits AI systems for bias, fairness, and regulatory compliance before deployment."
-jobs: ["it-and-development","product-development","legal"]
-topics: ["security-and-compliance","generative-ai-and-llm"]
+jobs: ["it-and-development","product-development","legal","government"]
+topics: ["security-and-compliance","generative-ai-and-llm","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ai-ethics-advisor
 adapted_from: https://www.aitmpl.com/component/agents/ai-specialists/ai-ethics-advisor

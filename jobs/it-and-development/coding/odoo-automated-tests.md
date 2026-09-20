@@ -4,7 +4,7 @@ slug: odoo-automated-tests
 language: en
 tagline: "Write and run Odoo automated tests with TransactionCase, HttpCase, and browser tours."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/odoo-automated-tests
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

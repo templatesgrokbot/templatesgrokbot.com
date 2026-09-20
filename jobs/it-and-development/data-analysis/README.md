@@ -1,12 +1,13 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 229 Grok Bot templates, 169 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 236 Grok Bot templates, 169 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Ab Test Setup](ab-test-setup.md) | Plan statistically valid A/B tests with locked hypothesis, sample size, and pre-launch checklist. |
+| [Adhx](../../marketing/data-analysis/adhx.md) | Fetch any X/Twitter post as clean JSON text, author info, and engagement data |
 | [Agent Evaluation Reporting](agent-evaluation-reporting.md) | Turn raw agent evaluation runs into decision-ready reports with explicit outcome categories and denominators. |
 | [Ai Dev Jobs Mcp](ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Alpha Vantage](../../finance/data-analysis/alpha-vantage.md) | Fetch 20+ years of equities, forex, crypto, commodities, and economic data via Alpha Vantage API. |
@@ -15,6 +16,7 @@ Clean, query, chart and explain data. 229 Grok Bot templates, 169 of them filed 
 | [Anomaly Detection Analyst](anomaly-detection-analyst.md) | Detects anomalies in your data and explains them for faster, accurate decisions. |
 | [Arrowspace](arrowspace.md) | Spectral vector search using graph Laplacian eigenstructure for latent structure |
 | [Automated Triage](automated-triage.md) | Triage Monte Carlo alerts interactively or build an automated workflow. |
+| [Aws Cost Operations](../../operations/data-analysis/aws-cost-operations.md) | Optimize AWS costs, monitor usage, and audit activity with MCP tools. |
 | [Azure Ai Anomalydetector Java](azure-ai-anomalydetector-java.md) | Detect anomalies in time-series data using Azure AI Anomaly Detector SDK for Java, supporting univariate and multivariate analysis. |
 | [Azure Ai Contentunderstanding Py](azure-ai-contentunderstanding-py.md) | Extract structured content from documents, images, audio, and video using Azure AI. |
 | [Azure Ai Document Intelligence Dotnet](azure-ai-document-intelligence-dotnet.md) | Extract text, tables, and structured data from documents using Azure AI Document Intelligence. |
@@ -30,6 +32,7 @@ Clean, query, chart and explain data. 229 Grok Bot templates, 169 of them filed 
 | [Brendangregg Use Tsa](brendangregg-use-tsa.md) | Evidence-first performance debugging with USE/TSA methods and structured RCA reports. |
 | [Business Intelligence Insights Assistant](business-intelligence-insights-assistant.md) | Turns your business data into clear insights, forecasts, and reports for smarter decisions. |
 | [Business Process Optimization Assistant](business-process-optimization-assistant.md) | Maps, analyzes, and optimizes business processes with data-backed recommendations. |
+| [Buywhere Product Catalog](../../sales/data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
 | [Cf Crawl](../../operations/data-analysis/cf-crawl.md) | Crawl websites via Cloudflare Browser Rendering and save pages as markdown files. |
 | [Chart Whisperer for Analysts](chart-whisperer-for-analysts.md) | Turns your data into clear, insightful charts and dashboards for analysis and storytelling. |
 | [ClickHouse IO](cc-skill-clickhouse-io.md) | Designs ClickHouse schemas, optimizes queries, and builds analytics pipelines for OLAP workloads. |
@@ -87,6 +90,7 @@ Clean, query, chart and explain data. 229 Grok Bot templates, 169 of them filed 
 | [Financial Forecast Assistant](financial-forecast-assistant.md) | Builds and maintains your financial forecasts from data collection to stakeholder reporting. |
 | [Firecrawl Scraper](firecrawl-scraper.md) | Extracts web content, screenshots, PDFs, and crawl results via Firecrawl API. |
 | [Fluidsim](fluidsim.md) | Runs and analyzes computational fluid dynamics simulations using the FluidSim Python framework. |
+| [Footballbin Predictions](../../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
 | [Forecast Builder with Approvals](forecast-builder-with-approvals.md) | Builds, checks, and updates sales forecasts from your data, with approval before any action. |
 | [Game Analytics Insight Assistant](game-analytics-insight-assistant.md) | Turns your game analytics into clear, actionable insights for better player experiences. |
 | [Geopandas](geopandas.md) | Reads, analyzes, and transforms geospatial vector data using Python. |
@@ -112,6 +116,8 @@ Clean, query, chart and explain data. 229 Grok Bot templates, 169 of them filed 
 | [IT Process Optimization Analyst](it-process-optimization-analyst.md) | Analyzes IT processes and drives optimization for technology managers. |
 | [IT Service Desk Analyst](it-service-desk-analyst.md) | Analyzes IT service desk data to surface trends, gaps, and improvements for IT managers. |
 | [IT Support Optimization Assistant](it-support-optimization-assistant.md) | Optimize global IT customer support through AI-driven analysis, automation, and proactive issue resolution. |
+| [Junta Auctioneers](../../operations/data-analysis/junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
+| [Jupyter Notebook](../../education/data-analysis/jupyter-notebook.md) | Creates and edits reproducible Jupyter notebooks for experiments or tutorials. |
 | [Knowledge Synthesizer](knowledge-synthesizer.md) | Extracts actionable patterns from agent interactions to enable organizational learning. |
 | [Kusto Assistant](kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
 | [Longbridge Market Data](../../finance/data-analysis/longbridge-market-data.md) | Real-time quotes, K-lines, order book, trades, capital flow, sentiment, and IPO data for HK/US/A/SG markets via Longbridge. |
@@ -133,6 +139,7 @@ Clean, query, chart and explain data. 229 Grok Bot templates, 169 of them filed 
 | [Monte Carlo Performance Diagnosis](monte-carlo-performance-diagnosis.md) | Diagnoses pipeline performance issues using Monte Carlo observability data. |
 | [Monte Carlo Prevent](monte-carlo-prevent.md) | Surfaces Monte Carlo data observability context before SQL/dbt edits. |
 | [Monte Carlo Remediation](monte-carlo-remediation.md) | Investigate and fix data quality alerts using Monte Carlo MCP tools. |
+| [Monte Carlo Storage Cost Analysis](../../operations/data-analysis/monte-carlo-storage-cost-analysis.md) | Analyze a data warehouse for stale, unused, or redundant tables to reduce storage costs. |
 | [Monte Carlo Validation Notebook](monte-carlo-validation-notebook.md) | Generates SQL validation notebooks for dbt PR changes with before/after comparison queries. |
 | [Ms Sql Dba](ms-sql-dba.md) | Manage and maintain Microsoft SQL Server databases on demand. |
 | [Neon Optimization Analyzer](neon-optimization-analyzer.md) | Analyze slow Postgres queries and test optimizations in isolated Neon database branches. |

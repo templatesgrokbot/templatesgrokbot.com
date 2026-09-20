@@ -4,7 +4,7 @@ slug: changelog-automation
 language: en
 tagline: "Automate changelog generation from commits and releases."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/changelog-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

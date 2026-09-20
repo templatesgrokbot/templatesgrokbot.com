@@ -4,7 +4,7 @@ slug: golang-pro
 language: en
 tagline: "Build production-ready Go microservices with advanced concurrency and performance optimization."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/golang-pro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

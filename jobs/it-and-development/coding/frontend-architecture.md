@@ -4,7 +4,7 @@ slug: frontend-architecture
 language: en
 tagline: "Portable, module-based architecture for React and React Native frontends with strict import rules."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/frontend-architecture
 adapted_from: https://github.com/stareezy-1/frontend-architecture-skill/tree/main/skills/frontend-architecture

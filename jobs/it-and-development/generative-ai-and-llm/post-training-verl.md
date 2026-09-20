@@ -4,7 +4,7 @@ slug: post-training-verl
 language: en
 tagline: "Guides reinforcement learning post-training of LLMs using the verl library."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/post-training-verl
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/post-training-verl

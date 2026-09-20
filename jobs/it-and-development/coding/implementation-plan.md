@@ -4,7 +4,7 @@ slug: implementation-plan
 language: en
 tagline: "Generate structured, AI-executable implementation plans for features or refactoring."
 jobs: ["it-and-development","product-development","management"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","generative-ai-and-llm","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/implementation-plan
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/implementation-plan

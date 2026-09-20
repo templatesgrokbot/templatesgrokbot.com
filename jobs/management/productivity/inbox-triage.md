@@ -4,7 +4,7 @@ slug: inbox-triage
 language: en
 tagline: "Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe."
 jobs: ["management","operations","executives-and-strategy"]
-topics: ["productivity","support-and-community"]
+topics: ["productivity","support-and-community","office-tools"]
 category: personal
 url: https://templatesgrokbot.com/bot/inbox-triage
 ---

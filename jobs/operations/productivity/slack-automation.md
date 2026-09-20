@@ -3,7 +3,7 @@ name: "Slack Automation"
 slug: slack-automation
 language: en
 tagline: "Sends Slack messages, searches conversations, and manages channels with user approval."
-jobs: ["operations","marketing"]
+jobs: ["operations","marketing","it-and-development"]
 topics: ["productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/slack-automation

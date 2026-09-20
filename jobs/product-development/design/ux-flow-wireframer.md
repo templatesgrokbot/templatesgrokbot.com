@@ -3,7 +3,7 @@ name: "UX Flow & Wireframer"
 slug: ux-flow-wireframer
 language: en
 tagline: "Sketches user flows and low-fidelity wireframes as text layouts and Mermaid diagrams before visual design begins."
-jobs: ["product-development","it-and-development"]
+jobs: ["product-development","it-and-development","creatives"]
 topics: ["design","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/ux-flow-wireframer

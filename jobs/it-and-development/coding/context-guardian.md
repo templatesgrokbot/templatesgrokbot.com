@@ -4,7 +4,7 @@ slug: context-guardian
 language: en
 tagline: "Preserves critical data before automatic context compression."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","generative-ai-and-llm","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/context-guardian
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

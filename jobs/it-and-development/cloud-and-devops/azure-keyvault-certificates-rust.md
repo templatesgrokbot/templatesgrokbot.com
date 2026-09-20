@@ -4,7 +4,7 @@ slug: azure-keyvault-certificates-rust
 language: en
 tagline: "Manage Azure Key Vault certificates with Rust SDK: create, import, get, update, delete, and list certificates."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-keyvault-certificates-rust
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

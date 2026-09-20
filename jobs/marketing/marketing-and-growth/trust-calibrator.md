@@ -3,7 +3,7 @@ name: "Trust Calibrator"
 slug: trust-calibrator
 language: en
 tagline: "Diagnose trust barriers and prescribe credibility signals for skeptical audiences."
-jobs: ["marketing","sales","executives-and-strategy"]
+jobs: ["marketing","sales","executives-and-strategy","pr-and-communications"]
 topics: ["marketing-and-growth","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/trust-calibrator

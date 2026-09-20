@@ -3,7 +3,7 @@ name: "Monte Carlo Storage Cost Analysis"
 slug: monte-carlo-storage-cost-analysis
 language: en
 tagline: "Analyze a data warehouse for stale, unused, or redundant tables to reduce storage costs."
-jobs: ["operations","finance"]
+jobs: ["operations","finance","it-and-development"]
 topics: ["data-analysis","cloud-and-devops"]
 category: operations
 url: https://templatesgrokbot.com/bot/monte-carlo-storage-cost-analysis

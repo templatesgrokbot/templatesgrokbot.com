@@ -3,8 +3,8 @@ name: "Octopus Deploy Release Notes Mcp"
 slug: octopus-deploy-release-notes-mcp
 language: en
 tagline: "Generates markdown release notes for Octopus Deploy releases using GitHub commit data."
-jobs: ["it-and-development","operations"]
-topics: ["coding","writing-and-content"]
+jobs: ["it-and-development","operations","product-development"]
+topics: ["coding","writing-and-content","cloud-and-devops"]
 category: operations
 url: https://templatesgrokbot.com/bot/octopus-deploy-release-notes-mcp
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/octopus-deploy-release-notes-mcp

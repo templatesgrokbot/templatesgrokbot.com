@@ -4,7 +4,7 @@ slug: accint-frames
 language: en
 tagline: "Drain acc's deliberation queue by resolving open brain frames via continue runtime calls. No logic lives here — just routing sugar over two MCP verbs."
 jobs: ["it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/accint-frames
 adapted_from: https://github.com/maxbaluev/accreted-intelligence/tree/main/plugins/claude/skills/frames

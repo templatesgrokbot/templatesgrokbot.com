@@ -4,7 +4,7 @@ slug: debugging-strategies
 language: en
 tagline: "Guide systematic debugging via logs, hypotheses, and controlled experiments."
 jobs: ["it-and-development"]
-topics: ["coding","self-improvement"]
+topics: ["coding","self-improvement","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/debugging-strategies
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

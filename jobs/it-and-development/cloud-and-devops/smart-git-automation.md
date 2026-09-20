@@ -4,7 +4,7 @@ slug: smart-git-automation
 language: en
 tagline: "Smart change detection, auto branch naming, and streamlined commit/PR workflow."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/smart-git-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: azure-ai-openai-dotnet
 language: en
 tagline: "Azure OpenAI client for .NET — chat, embeddings, images, audio, and assistants."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","speech-to-text","text-to-speech"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-openai-dotnet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

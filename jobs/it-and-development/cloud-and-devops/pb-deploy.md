@@ -4,7 +4,7 @@ slug: pb-deploy
 language: en
 tagline: "Deploys PocketBase to production with Docker, systemd, reverse proxy, TLS, SMTP, backups, and hardening configs."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pb-deploy
 adapted_from: https://www.aitmpl.com/component/skills/pocketbase/pb-deploy

@@ -4,7 +4,7 @@ slug: laravel-specialist
 language: en
 tagline: "Builds and optimizes Laravel 10+ applications with Eloquent, queues, and APIs."
 jobs: ["it-and-development","product-development","management"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/laravel-specialist
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/laravel-specialist

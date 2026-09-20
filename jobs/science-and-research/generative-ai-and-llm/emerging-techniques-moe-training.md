@@ -4,7 +4,7 @@ slug: emerging-techniques-moe-training
 language: en
 tagline: "Trains Mixture of Experts models using DeepSpeed or HuggingFace with sparse routing and load balancing."
 jobs: ["science-and-research","it-and-development"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","coding","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/emerging-techniques-moe-training
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/emerging-techniques-moe-training

@@ -3,7 +3,7 @@ name: "Conductor Status"
 slug: conductor-status
 language: en
 tagline: "Show project status, active tracks, and next actions from Conductor files."
-jobs: ["management","it-and-development","operations"]
+jobs: ["management","it-and-development","operations","product-development"]
 topics: ["productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/conductor-status

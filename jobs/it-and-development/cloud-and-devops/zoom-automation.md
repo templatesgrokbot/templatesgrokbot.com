@@ -4,7 +4,7 @@ slug: zoom-automation
 language: en
 tagline: "Automate Zoom meetings, webinars, recordings, and participant reports via Composio MCP."
 jobs: ["it-and-development","operations","marketing"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/zoom-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

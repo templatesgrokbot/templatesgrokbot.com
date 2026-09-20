@@ -3,7 +3,7 @@ name: "Atlassian Requirements to Jira"
 slug: atlassian-requirements-to-jira
 language: en
 tagline: "Parse requirements documents and create Jira epics and user stories with duplicate detection and approval workflow."
-jobs: ["product-development","operations"]
+jobs: ["product-development","operations","it-and-development","management"]
 topics: ["productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/atlassian-requirements-to-jira

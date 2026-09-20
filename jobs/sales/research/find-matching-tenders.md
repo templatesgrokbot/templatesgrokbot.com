@@ -3,7 +3,7 @@ name: "Find Matching Tenders"
 slug: find-matching-tenders
 language: en
 tagline: "Find and rank live AU/NZ government tenders matching a company's capabilities."
-jobs: ["sales","operations","executives-and-strategy"]
+jobs: ["sales","operations","executives-and-strategy","real-estate-and-construction"]
 topics: ["research","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/find-matching-tenders

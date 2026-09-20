@@ -4,7 +4,7 @@ slug: global-chat-agent-discovery
 language: en
 tagline: "Search 18K+ MCP servers and AI agents across 6+ registries from one directory."
 jobs: ["it-and-development"]
-topics: ["research"]
+topics: ["research","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/global-chat-agent-discovery
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

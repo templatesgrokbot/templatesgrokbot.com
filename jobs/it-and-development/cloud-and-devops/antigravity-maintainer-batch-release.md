@@ -4,7 +4,7 @@ slug: antigravity-maintainer-batch-release
 language: en
 tagline: "Protected AAS maintainer sweeps, PR merge batches, and scripted releases for repository maintenance."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/antigravity-maintainer-batch-release
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

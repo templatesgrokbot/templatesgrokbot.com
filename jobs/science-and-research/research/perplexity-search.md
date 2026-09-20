@@ -3,7 +3,7 @@ name: "Perplexity Search"
 slug: perplexity-search
 language: en
 tagline: "Searches the web for current information and returns grounded answers with source citations."
-jobs: ["science-and-research"]
+jobs: ["science-and-research","writers","legal","marketing"]
 topics: ["research"]
 category: research
 url: https://templatesgrokbot.com/bot/perplexity-search

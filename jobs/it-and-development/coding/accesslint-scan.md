@@ -3,8 +3,8 @@ name: "Accesslint Scan"
 slug: accesslint-scan
 language: en
 tagline: "Audit live pages for WCAG violations, locating each issue precisely without editing."
-jobs: ["it-and-development"]
-topics: ["coding"]
+jobs: ["it-and-development","government"]
+topics: ["coding","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/accesslint-scan
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

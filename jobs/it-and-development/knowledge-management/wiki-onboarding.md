@@ -4,7 +4,7 @@ slug: wiki-onboarding
 language: en
 tagline: "Generate two onboarding documents for any codebase, from principal-level to zero-to-hero."
 jobs: ["it-and-development","education"]
-topics: ["knowledge-management","writing-and-content"]
+topics: ["knowledge-management","writing-and-content","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wiki-onboarding
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

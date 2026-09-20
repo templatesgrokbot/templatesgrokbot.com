@@ -4,7 +4,7 @@ slug: conductor-manage
 language: en
 tagline: "Manage Conductor track lifecycle: archive, restore, delete, rename, and cleanup."
 jobs: ["operations","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","cloud-and-devops"]
 category: operations
 url: https://templatesgrokbot.com/bot/conductor-manage
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

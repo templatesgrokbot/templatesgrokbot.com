@@ -3,7 +3,7 @@ name: "User Research Synthesis"
 slug: design-research-synthesis
 language: en
 tagline: "Turns interview transcripts into themes, hypotheses, and a prioritized backlog."
-jobs: ["product-development","science-and-research","management"]
+jobs: ["product-development","science-and-research","management","creatives"]
 topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/design-research-synthesis

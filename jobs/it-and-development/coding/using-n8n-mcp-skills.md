@@ -4,7 +4,7 @@ slug: using-n8n-mcp-skills
 language: en
 tagline: "Route n8n MCP workflow tasks to specialist guidance before acting."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/using-n8n-mcp-skills
 adapted_from: https://github.com/czlonkowski/n8n-skills/tree/main/skills/using-n8n-mcp-skills

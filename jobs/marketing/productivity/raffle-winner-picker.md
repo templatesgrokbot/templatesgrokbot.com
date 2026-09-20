@@ -4,7 +4,7 @@ slug: raffle-winner-picker
 language: en
 tagline: "Picks random winners from lists, spreadsheets, or Google Sheets for giveaways and contests."
 jobs: ["marketing","operations"]
-topics: ["productivity"]
+topics: ["productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/raffle-winner-picker
 adapted_from: https://www.aitmpl.com/component/skills/productivity/raffle-winner-picker

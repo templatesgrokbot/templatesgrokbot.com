@@ -4,7 +4,7 @@ slug: video-content-extractor
 language: en
 tagline: "Extract text from MP4 videos via key frames and OCR into Markdown reports."
 jobs: ["it-and-development","operations"]
-topics: ["data-analysis","generative-ai-and-llm"]
+topics: ["data-analysis","generative-ai-and-llm","speech-to-text","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/video-content-extractor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

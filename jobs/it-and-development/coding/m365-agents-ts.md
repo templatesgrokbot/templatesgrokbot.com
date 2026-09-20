@@ -4,7 +4,7 @@ slug: m365-agents-ts
 language: en
 tagline: "Build and host enterprise agents for Microsoft 365, Teams, and Copilot Studio."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/m365-agents-ts
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: flutter-expert
 language: en
 tagline: "Flutter expert for Dart 3, widgets, state management, and multi-platform deployment guidance."
 jobs: ["it-and-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/flutter-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

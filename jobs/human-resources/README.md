@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **357 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **367 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,19 +12,19 @@ Recruiting, onboarding and people operations. **357 ready-made Grok Bot template
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 113 |
-| [Productivity](productivity/README.md) | 70 |
-| [Writing & Content](writing-and-content/README.md) | 53 |
+| [Productivity](productivity/README.md) | 73 |
+| [Writing & Content](writing-and-content/README.md) | 56 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 52 |
-| [Security & Compliance](security-and-compliance/README.md) | 20 |
+| [Security & Compliance](security-and-compliance/README.md) | 22 |
 | [Research](research/README.md) | 10 |
 | [Self-Improvement](self-improvement/README.md) | 10 |
 | [Design](design/README.md) | 7 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 5 |
-| [Office Tools](office-tools/README.md) | 4 |
+| [Office Tools](office-tools/README.md) | 5 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
 | [Support & Community](support-and-community/README.md) | 4 |
 | [Knowledge Management](knowledge-management/README.md) | 3 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 2 |
 | [Social Media](social-media/README.md) | 1 |
 
 ## Data Analysis
@@ -165,6 +165,7 @@ Recruiting, onboarding and people operations. **357 ready-made Grok Bot template
 | [Event Staffing Ordering](../operations/productivity/event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
 | [Executive Hiring Navigator](../executives-and-strategy/productivity/executive-hiring-navigator.md) | Talent acquisition strategy assistant for executive directors, from market analysis to onboarding. |
 | [Exit Interview Coordinator](productivity/exit-interview-coordinator.md) | Manages exit interviews from scheduling to follow-up actions for HR specialists. |
+| [Find Complementary Founders](../executives-and-strategy/productivity/find-complementary-founders.md) | Match founders by evidence, not claims — publish only your own owner's profile. |
 | [Git Pr Workflows Onboard](productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
 | [Global TA Strategy Advisor](productivity/global-ta-strategy-advisor.md) | Enhances talent acquisition with sourcing, branding, and data-driven insights. |
 | [Hiring and Team Building Assistant](../executives-and-strategy/productivity/hiring-and-team-building-assistant.md) | Handles hiring and team building tasks for founders, from job posts to performance reviews. |
@@ -207,6 +208,8 @@ Recruiting, onboarding and people operations. **357 ready-made Grok Bot template
 | [Recruitment Strategy Assistant](../executives-and-strategy/productivity/recruitment-strategy-assistant.md) | Turns your hiring process into a structured, AI-assisted recruitment workflow. |
 | [Remote Workforce Program Designer](productivity/remote-workforce-program-designer.md) | Designs and runs remote workforce programs for global HR leaders. |
 | [Resume Screening Assistant](productivity/resume-screening-assistant.md) | Screens resumes against job requirements and shortlists top candidates for HR consultants. |
+| [Setup Cowork](../it-and-development/productivity/anthropic-setup-cowork.md) | Interview the user, install role-matched plugins, connect tools, and run a first template. |
+| [Spark](../operations/productivity/spark.md) | Guides new users through a short questionnaire, then automatically creates the bots and connectors they need. |
 | [Succession Plan Builder for HR Leaders](productivity/succession-plan-builder-for-hr-leaders.md) | Turns HR data into a complete succession plan with candidates, development paths, and risk checks. |
 | [Succession Planning Strategist](productivity/succession-planning-strategist.md) | Guides VPs of HR through succession planning, from identifying critical roles to measuring program success. |
 | [Talent Acquisition Strategy Planner](../executives-and-strategy/productivity/talent-acquisition-strategy-planner.md) | Talent acquisition strategy assistant for VPs of Business Development, covering market research to onboarding support. |
@@ -235,6 +238,7 @@ Recruiting, onboarding and people operations. **357 ready-made Grok Bot template
 | [Cover Letter Generator](writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Cross-Cultural Training Designer](writing-and-content/cross-cultural-training-designer.md) | Designs and delivers cross-cultural training for HR teams. |
 | [Cv Generator](writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
+| [Email Composer](../operations/writing-and-content/email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
 | [Employee Conflict Resolution Assistant](writing-and-content/employee-conflict-resolution-assistant.md) | Resolves employee conflicts through mediation, training, and policy development for HR managers. |
 | [Employee Handbook Builder](writing-and-content/employee-handbook-builder.md) | Builds a plain-English employee handbook for small businesses, flagging state-law checks for attorney review. |
 | [Employee Relations Policy Assistant](writing-and-content/employee-relations-policy-assistant.md) | Develops, reviews, and communicates employee relations policies with research, drafting, and stakeholder support. |
@@ -252,7 +256,9 @@ Recruiting, onboarding and people operations. **357 ready-made Grok Bot template
 | [HR Policy Drafting Assistant](writing-and-content/hr-policy-drafting-assistant.md) | Drafts, refines, and aligns HR policies with regulations and best practices. |
 | [HR Policy Review and Development Assistant](writing-and-content/hr-policy-review-and-development-assistant.md) | Drafts, reviews, and updates HR policies with compliance and best-practice guidance. |
 | [HRIS Training and Support Creator](writing-and-content/hris-training-and-support-creator.md) | Builds training and support materials for your HRIS users, from manuals to webinars to FAQs. |
+| [Internal Comms Anthropic](../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
+| [Internal Comms Drafter](../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
 | [Internal Communication Planner](../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
 | [Interview Prep Generator](writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Job Application Optimizer](writing-and-content/job-application-optimizer.md) | Tailor resumes, cover letters, and interview prep to each job posting. |
@@ -339,12 +345,14 @@ Recruiting, onboarding and people operations. **357 ready-made Grok Bot template
 
 | Template | What it does |
 |---|---|
+| [Check Identity Pack](../operations/security-and-compliance/check-identity-pack.md) | Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing. |
 | [Compensation Compliance Navigator](security-and-compliance/compensation-compliance-navigator.md) | Keeps compensation practices compliant with up-to-date law and tailored guidance. |
 | [Compliance Training Manager](../education/security-and-compliance/compliance-training-manager.md) | Manages compliance training from needs assessment to certification and reporting. |
 | [Compliance Training Oversight Assistant](security-and-compliance/compliance-training-oversight-assistant.md) | Builds, tracks, and improves compliance training programs for HR specialists. |
 | [Compliance Training Update Assistant](security-and-compliance/compliance-training-update-assistant.md) | Keeps compliance training current, engaging, and tailored to your organization's needs. |
 | [Employee Classification Advisor](../finance/security-and-compliance/employee-classification-advisor.md) | Guides payroll administrators through employee classification decisions and compliance. |
 | [Event Staffing Compliance](security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
+| [Gdpr Data Handling](../it-and-development/security-and-compliance/gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
 | [Health and Safety Protocol Planner](security-and-compliance/health-and-safety-protocol-planner.md) | Guides HR managers through workplace health and safety protocols, from risk assessment to training and compliance. |
 | [HR Legal Compliance Assistant](security-and-compliance/hr-legal-compliance-assistant.md) | Keeps HR policies, records, and practices aligned with employment law. |
 | [HR Legal Compliance Reviewer](security-and-compliance/hr-legal-compliance-reviewer.md) | Reviews and updates HR legal compliance across contracts, policies, and procedures. |
@@ -417,6 +425,7 @@ Recruiting, onboarding and people operations. **357 ready-made Grok Bot template
 | Template | What it does |
 |---|---|
 | [Candidate Communication Coordinator](office-tools/candidate-communication-coordinator.md) | Handles candidate communication from application to post-hire check-ins. |
+| [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
 | [Interview Scheduling Coordinator](office-tools/interview-scheduling-coordinator.md) | Coordinates candidate and interviewer schedules, communication, and logistics for smooth interviews. |
 | [Modern Minimal Resume Builder](office-tools/modern-minimal-resume-builder.md) | Turns your work history into a clean A4 one-page resume ready for print or PDF. |
 | [Odoo Hr Payroll Setup](office-tools/odoo-hr-payroll-setup.md) | Configure Odoo salary structures, payslip rules, leave policies, and payroll journal entries. |
@@ -452,6 +461,7 @@ Recruiting, onboarding and people operations. **357 ready-made Grok Bot template
 | Template | What it does |
 |---|---|
 | [HR Digital Transformation Planner](../executives-and-strategy/generative-ai-and-llm/hr-digital-transformation-planner.md) | Digitizes HR operations from hiring to compliance with AI-assisted workflows. |
+| [Ml Engineer](../it-and-development/generative-ai-and-llm/ml-engineer.md) | Build and maintain production ML systems with PyTorch, TensorFlow, and modern MLOps practices. |
 
 ## Social Media
 

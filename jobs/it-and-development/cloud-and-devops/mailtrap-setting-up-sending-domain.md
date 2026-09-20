@@ -4,7 +4,7 @@ slug: mailtrap-setting-up-sending-domain
 language: en
 tagline: "Add or verify a Mailtrap sending domain, publish SPF/DKIM/DMARC, and complete compliance."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/mailtrap-setting-up-sending-domain
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

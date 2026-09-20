@@ -4,7 +4,7 @@ slug: developer-signup-flow
 language: en
 tagline: "Design frictionless developer signup flows with OAuth, instant API keys, and progressive profiling."
 jobs: ["product-development","it-and-development"]
-topics: ["productivity","generative-code"]
+topics: ["productivity","generative-code","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/developer-signup-flow
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/developer-signup-flow

@@ -4,7 +4,7 @@ slug: skill-developer
 language: en
 tagline: "Creates and manages Claude Code capabilities with auto-activation and best practices."
 jobs: ["it-and-development"]
-topics: ["coding","prompt-engineering"]
+topics: ["coding","prompt-engineering","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/skill-developer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

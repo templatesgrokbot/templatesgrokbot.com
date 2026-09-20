@@ -4,7 +4,7 @@ slug: fp-pragmatic
 language: en
 tagline: "Practical 80/20 functional programming patterns for TypeScript without academic overhead"
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fp-pragmatic
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

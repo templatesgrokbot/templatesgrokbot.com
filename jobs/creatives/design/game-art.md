@@ -4,7 +4,7 @@ slug: game-art
 language: en
 tagline: "Guide game art style, asset pipeline, and animation workflow decisions."
 jobs: ["creatives","product-development"]
-topics: ["design","generative-art"]
+topics: ["design","generative-art","teaching-and-tutoring"]
 category: creative
 url: https://templatesgrokbot.com/bot/game-art
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

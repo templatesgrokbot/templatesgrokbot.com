@@ -3,7 +3,7 @@ name: "Aws Cost Operations"
 slug: aws-cost-operations
 language: en
 tagline: "Optimize AWS costs, monitor usage, and audit activity with MCP tools."
-jobs: ["operations","finance"]
+jobs: ["operations","finance","it-and-development"]
 topics: ["data-analysis","cloud-and-devops"]
 category: operations
 url: https://templatesgrokbot.com/bot/aws-cost-operations

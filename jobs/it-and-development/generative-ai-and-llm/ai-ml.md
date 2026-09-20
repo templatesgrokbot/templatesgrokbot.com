@@ -4,7 +4,7 @@ slug: ai-ml
 language: en
 tagline: "Guide AI/ML workflow from design to observability including LLM apps, RAG, agents, and pipelines."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","research","cloud-and-devops"]
+topics: ["generative-ai-and-llm","research","cloud-and-devops","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ai-ml
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

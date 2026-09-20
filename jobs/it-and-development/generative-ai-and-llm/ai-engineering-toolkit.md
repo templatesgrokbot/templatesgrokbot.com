@@ -4,7 +4,7 @@ slug: ai-engineering-toolkit
 language: en
 tagline: "6 structured AI engineering workflows for prompt, RAG, security, and product evaluation."
 jobs: ["it-and-development","product-development","management"]
-topics: ["generative-ai-and-llm","prompt-engineering","coding"]
+topics: ["generative-ai-and-llm","prompt-engineering","coding","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ai-engineering-toolkit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

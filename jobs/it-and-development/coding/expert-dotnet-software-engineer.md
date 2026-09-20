@@ -4,7 +4,7 @@ slug: expert-dotnet-software-engineer
 language: en
 tagline: "Provide expert .NET software engineering guidance using modern design patterns."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/expert-dotnet-software-engineer
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/expert-dotnet-software-engineer

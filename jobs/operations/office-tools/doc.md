@@ -3,8 +3,8 @@ name: "Doc"
 slug: doc
 language: en
 tagline: "Read, create, and edit .docx files with layout fidelity using python-docx and visual rendering."
-jobs: ["operations","management"]
-topics: ["office-tools","writing-and-content"]
+jobs: ["operations","management","writers","legal"]
+topics: ["office-tools","writing-and-content","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/doc
 adapted_from: https://www.aitmpl.com/component/skills/document-processing/doc

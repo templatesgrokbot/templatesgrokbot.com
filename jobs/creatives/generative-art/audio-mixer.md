@@ -4,7 +4,7 @@ slug: audio-mixer
 language: en
 tagline: "Mixes and masters multi-track audio for professional production."
 jobs: ["creatives"]
-topics: ["generative-art","video-editing"]
+topics: ["generative-art","video-editing","voice-modulation"]
 category: creative
 url: https://templatesgrokbot.com/bot/audio-mixer
 adapted_from: https://www.aitmpl.com/component/agents/ffmpeg-clip-team/audio-mixer

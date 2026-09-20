@@ -4,7 +4,7 @@ slug: neon-object-storage
 language: en
 tagline: "Branch-aware S3 storage that stays in sync with your Neon Postgres across every environment."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/neon-object-storage
 adapted_from: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-object-storage

@@ -4,7 +4,7 @@ slug: ui-component
 language: en
 tagline: "Generate a new UI component following StyleSeed design conventions."
 jobs: ["it-and-development","creatives"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ui-component
 adapted_from: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-component

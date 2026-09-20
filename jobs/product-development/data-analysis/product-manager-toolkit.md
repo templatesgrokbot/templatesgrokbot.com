@@ -4,7 +4,7 @@ slug: product-manager-toolkit
 language: en
 tagline: "Prioritize features, analyze interviews, and draft PRDs using structured frameworks."
 jobs: ["product-development","management"]
-topics: ["data-analysis"]
+topics: ["data-analysis","productivity","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/product-manager-toolkit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

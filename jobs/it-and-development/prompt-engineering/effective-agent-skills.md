@@ -4,7 +4,7 @@ slug: effective-agent-skills
 language: en
 tagline: "Write and review SKILL.md files for agent capabilities with triggers and safety notes."
 jobs: ["it-and-development","product-development"]
-topics: ["prompt-engineering","generative-ai-and-llm"]
+topics: ["prompt-engineering","generative-ai-and-llm","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/effective-agent-skills
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

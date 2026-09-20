@@ -4,7 +4,7 @@ slug: red-team-tactics
 language: en
 tagline: "Adversary simulation advisor using MITRE ATT&CK for authorized red team exercises."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/red-team-tactics
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

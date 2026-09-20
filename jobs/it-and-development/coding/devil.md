@@ -3,8 +3,8 @@ name: "Devil"
 slug: devil
 language: en
 tagline: "Reviews pre-implementation documents to surface undefined edge cases, missing states, and policy gaps, then produces a sign-off ruling and forwardable"
-jobs: ["it-and-development","product-development"]
-topics: ["coding","research"]
+jobs: ["it-and-development","product-development","management"]
+topics: ["coding","research","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/devil
 adapted_from: https://www.aitmpl.com/component/skills/productivity/devil

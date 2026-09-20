@@ -3,8 +3,8 @@ name: "Optim Agent"
 slug: optim-agent
 language: en
 tagline: "Guide agent-driven parameter optimization for configurable systems with measurable objectives."
-jobs: ["it-and-development","product-development","operations"]
-topics: ["coding","data-analysis","prompt-engineering"]
+jobs: ["it-and-development","product-development","operations","science-and-research"]
+topics: ["coding","data-analysis","prompt-engineering","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/optim-agent
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,7 +3,7 @@ name: "Brightdata Local Search"
 slug: brightdata-local-search
 language: en
 tagline: "Run local web searches via Bright Data SERP API with query expansion and reranking."
-jobs: ["science-and-research","marketing","operations"]
+jobs: ["science-and-research","marketing","operations","it-and-development"]
 topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/brightdata-local-search

@@ -3,7 +3,7 @@ name: "Data Storytelling"
 slug: data-storytelling
 language: en
 tagline: "Turn raw data into narratives that drive decisions and inspire action."
-jobs: ["executives-and-strategy","marketing"]
+jobs: ["executives-and-strategy","marketing","writers","government","finance"]
 topics: ["data-analysis","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/data-storytelling

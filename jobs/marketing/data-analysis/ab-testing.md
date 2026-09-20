@@ -3,8 +3,8 @@ name: "Ab Testing"
 slug: ab-testing
 language: en
 tagline: "Design statistically valid A/B tests and growth experiments."
-jobs: ["marketing"]
-topics: ["data-analysis","marketing-and-growth"]
+jobs: ["marketing","product-development","science-and-research"]
+topics: ["data-analysis","marketing-and-growth","teaching-and-tutoring"]
 category: marketing
 url: https://templatesgrokbot.com/bot/ab-testing
 adapted_from: https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-testing

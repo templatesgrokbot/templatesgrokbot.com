@@ -4,7 +4,7 @@ slug: api-design-principles
 language: en
 tagline: "Designs or reviews REST and GraphQL APIs for clarity, scalability, and developer usability. No implementation or infrastructure work."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/api-design-principles
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

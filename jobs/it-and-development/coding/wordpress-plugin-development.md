@@ -4,7 +4,7 @@ slug: wordpress-plugin-development
 language: en
 tagline: "Build WordPress plugins with hooks, REST APIs, and 7.0 features."
 jobs: ["it-and-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wordpress-plugin-development
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

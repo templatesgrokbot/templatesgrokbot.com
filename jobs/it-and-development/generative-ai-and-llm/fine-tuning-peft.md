@@ -4,7 +4,7 @@ slug: fine-tuning-peft
 language: en
 tagline: "Fine-tune large language models with minimal GPU memory using PEFT adapters."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","coding","generative-code"]
 category: research
 url: https://templatesgrokbot.com/bot/fine-tuning-peft
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/fine-tuning-peft

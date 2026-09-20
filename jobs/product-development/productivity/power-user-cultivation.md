@@ -4,7 +4,7 @@ slug: power-user-cultivation
 language: en
 tagline: "Identify engaged developers and turn them into advocates and contributors."
 jobs: ["product-development","marketing","management"]
-topics: ["productivity"]
+topics: ["productivity","marketing-and-growth","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/power-user-cultivation
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/power-user-cultivation

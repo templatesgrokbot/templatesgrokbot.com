@@ -4,7 +4,7 @@ slug: venue-templates
 language: en
 tagline: "Provides LaTeX templates and formatting specs for journals, conferences, posters, and grants."
 jobs: ["education","science-and-research","writers"]
-topics: ["writing-and-content","research"]
+topics: ["writing-and-content","research","office-tools","design"]
 category: research
 url: https://templatesgrokbot.com/bot/venue-templates
 adapted_from: https://www.aitmpl.com/component/skills/scientific/venue-templates

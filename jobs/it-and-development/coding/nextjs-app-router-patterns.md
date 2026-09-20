@@ -4,7 +4,7 @@ slug: nextjs-app-router-patterns
 language: en
 tagline: "Guides Next.js 14+ App Router architecture, Server Components, and full-stack React patterns."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/nextjs-app-router-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: nosql-expert
 language: en
 tagline: "Design Cassandra and DynamoDB schemas using query-first modeling and single-table design."
 jobs: ["it-and-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","design","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/nosql-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

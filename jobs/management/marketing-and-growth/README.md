@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Management
 
-Campaigns, ads, conversion and launch plans. 39 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 40 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Campaigns, ads, conversion and launch plans. 39 Grok Bot templates, 22 of them f
 | [Brand Positioning Analyst](brand-positioning-analyst.md) | Analyzes brand positioning from market data and drafts strategy documents. |
 | [Brand Positioning Strategist](brand-positioning-strategist.md) | Turns market data into a clear, differentiated brand position and keeps it sharp. |
 | [Campaign Evaluation Analyst](campaign-evaluation-analyst.md) | Evaluates marketing campaigns end-to-end and hands back actionable insights and reports. |
+| [Campaign Plan](../../marketing/marketing-and-growth/marketing-campaign-plan.md) | Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu |
 | [Churn Prevention](../../marketing/marketing-and-growth/churn-prevention.md) | Reduce voluntary and involuntary churn with cancel flows, save offers, and dunning strategies. |
 | [Content Marketer](../../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
 | [Content Strategy Planner](content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |

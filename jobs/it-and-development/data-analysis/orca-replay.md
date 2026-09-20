@@ -4,7 +4,7 @@ slug: orca-replay
 language: en
 tagline: "Read, replay, and compare recorded agent runs to answer questions about past behavior without guessing."
 jobs: ["it-and-development","product-development"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/orca-replay
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

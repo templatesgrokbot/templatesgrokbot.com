@@ -3,8 +3,8 @@ name: "Using Neon"
 slug: using-neon
 language: en
 tagline: "Answer Neon Serverless Postgres questions using official docs and guides."
-jobs: ["it-and-development"]
-topics: ["cloud-and-devops","data-analysis"]
+jobs: ["it-and-development","customer-support"]
+topics: ["cloud-and-devops","data-analysis","support-and-community","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/using-neon
 adapted_from: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres

@@ -4,7 +4,7 @@ slug: monorepo-architect
 language: en
 tagline: "Design and optimize monorepo architectures using Nx, Turborepo, Bazel, or Lerna."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/monorepo-architect
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

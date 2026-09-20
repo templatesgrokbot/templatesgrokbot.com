@@ -4,7 +4,7 @@ slug: bleu
 language: en
 tagline: "Turns an idea into a complete, production-ready system plan before any code is written."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bleu
 adapted_from: https://www.aitmpl.com/component/skills/development/bleu

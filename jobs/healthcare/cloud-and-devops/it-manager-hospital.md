@@ -4,7 +4,7 @@ slug: it-manager-hospital
 language: en
 tagline: "Advises hospital IT managers on clinical safety, digital maturity, and HIS/PEP integration."
 jobs: ["healthcare","it-and-development","management"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/it-manager-hospital
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: frontend-developer
 language: en
 tagline: "Builds performant, accessible frontend apps with React, Vue, or Angular."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/frontend-developer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: frontend-api-integration-patterns
 language: en
 tagline: "Production-ready patterns for integrating frontend apps with backend APIs."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/frontend-api-integration-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

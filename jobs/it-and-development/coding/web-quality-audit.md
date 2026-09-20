@@ -3,8 +3,8 @@ name: "Web Quality Audit"
 slug: web-quality-audit
 language: en
 tagline: "Audits web pages for performance, accessibility, SEO, and best practices with prioritized fixes."
-jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+jobs: ["it-and-development","product-development","marketing"]
+topics: ["coding","cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/web-quality-audit
 adapted_from: https://www.aitmpl.com/component/skills/development/web-quality-audit

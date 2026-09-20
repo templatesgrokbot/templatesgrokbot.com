@@ -3,8 +3,8 @@ name: "Difficult Workplace Conversations"
 slug: difficult-workplace-conversations
 language: en
 tagline: "Prepares you for workplace conflicts, performance talks, and sensitive feedback using a structured framework."
-jobs: ["human-resources","management"]
-topics: ["self-improvement","productivity"]
+jobs: ["human-resources","management","healthcare","government"]
+topics: ["self-improvement","productivity","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/difficult-workplace-conversations
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/difficult-workplace-conversations

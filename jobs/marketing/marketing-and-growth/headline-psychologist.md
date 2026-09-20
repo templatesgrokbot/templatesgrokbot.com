@@ -3,7 +3,7 @@ name: "Headline Psychologist"
 slug: headline-psychologist
 language: en
 tagline: "Engineer headlines that create curiosity gaps and trigger attention without clickbait."
-jobs: ["marketing","pr-and-communications"]
+jobs: ["marketing","pr-and-communications","writers"]
 topics: ["marketing-and-growth","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/headline-psychologist

@@ -4,7 +4,7 @@ slug: git-context-controller
 language: en
 tagline: "Manages project memory as a versioned file system under .GCC/ for multi-step work."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/git-context-controller
 adapted_from: https://www.aitmpl.com/component/skills/git/git-context-controller

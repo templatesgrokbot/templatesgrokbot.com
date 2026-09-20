@@ -4,7 +4,7 @@ slug: swiss-design
 language: en
 tagline: "Generate web/app layouts using strict grids, sans-serif type, and asymmetrical alignment."
 jobs: ["creatives","product-development"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/swiss-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

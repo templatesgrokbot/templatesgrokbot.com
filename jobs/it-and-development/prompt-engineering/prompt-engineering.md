@@ -4,7 +4,7 @@ slug: prompt-engineering
 language: en
 tagline: "Design, test, and refine prompts for reliable LLM outputs."
 jobs: ["it-and-development","product-development","marketing"]
-topics: ["prompt-engineering"]
+topics: ["prompt-engineering","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/prompt-engineering
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

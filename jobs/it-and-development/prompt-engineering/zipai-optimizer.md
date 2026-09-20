@@ -4,7 +4,7 @@ slug: zipai-optimizer
 language: en
 tagline: "Token optimizer that prunes logs, minifies JSON, and caches prompts for dense technical output."
 jobs: ["it-and-development","product-development"]
-topics: ["prompt-engineering","coding"]
+topics: ["prompt-engineering","coding","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/zipai-optimizer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

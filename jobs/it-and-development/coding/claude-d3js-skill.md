@@ -4,7 +4,7 @@ slug: claude-d3js-skill
 language: en
 tagline: "Create custom interactive D3.js visualizations for any JavaScript environment."
 jobs: ["it-and-development","science-and-research","product-development"]
-topics: ["coding","data-analysis","generative-code"]
+topics: ["coding","data-analysis","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/claude-d3js-skill
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

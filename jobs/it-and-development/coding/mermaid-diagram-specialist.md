@@ -4,7 +4,7 @@ slug: mermaid-diagram-specialist
 language: en
 tagline: "Creates Mermaid diagrams for documentation, architecture, and process mapping."
 jobs: ["it-and-development","product-development","operations"]
-topics: ["coding","design"]
+topics: ["coding","design","generative-code","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mermaid-diagram-specialist
 adapted_from: https://www.aitmpl.com/component/skills/development/mermaid-diagram-specialist

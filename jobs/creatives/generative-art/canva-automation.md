@@ -3,8 +3,8 @@ name: "Canva Automation"
 slug: canva-automation
 language: en
 tagline: "Automate Canva design operations: create, export, organize, and autofill via Rube MCP."
-jobs: ["creatives","marketing","operations"]
-topics: ["generative-art","productivity"]
+jobs: ["creatives","marketing","operations","it-and-development"]
+topics: ["generative-art","productivity","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/canva-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

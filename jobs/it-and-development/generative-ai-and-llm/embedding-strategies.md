@@ -4,7 +4,7 @@ slug: embedding-strategies
 language: en
 tagline: "Select, optimize, and deploy embedding models for vector search."
 jobs: ["it-and-development","science-and-research","product-development"]
-topics: ["generative-ai-and-llm","data-analysis"]
+topics: ["generative-ai-and-llm","data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/embedding-strategies
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

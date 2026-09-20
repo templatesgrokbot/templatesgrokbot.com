@@ -4,7 +4,7 @@ slug: powershell-5-1-expert
 language: en
 tagline: "Generates safe, auditable PowerShell 5.1 scripts for Windows infrastructure automation."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/powershell-5-1-expert
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/powershell-5.1-expert

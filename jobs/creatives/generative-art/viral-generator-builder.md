@@ -4,7 +4,7 @@ slug: viral-generator-builder
 language: en
 tagline: "Designs shareable generator tools that create identity moments people screenshot and share."
 jobs: ["creatives","marketing"]
-topics: ["generative-art","generative-code"]
+topics: ["generative-art","generative-code","design"]
 category: creative
 url: https://templatesgrokbot.com/bot/viral-generator-builder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: service-mesh-observability
 language: en
 tagline: "Configure Istio/Linkerd observability: metrics, traces, dashboards, and SLOs."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/service-mesh-observability
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

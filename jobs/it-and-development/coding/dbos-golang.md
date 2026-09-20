@@ -4,7 +4,7 @@ slug: dbos-golang
 language: en
 tagline: "Guide for building reliable Go apps with DBOS durable workflows."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/dbos-golang
 adapted_from: https://docs.dbos.dev/

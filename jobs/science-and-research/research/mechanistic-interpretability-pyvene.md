@@ -4,7 +4,7 @@ slug: mechanistic-interpretability-pyvene
 language: en
 tagline: "Guides causal intervention experiments on PyTorch models using pyvene."
 jobs: ["science-and-research","it-and-development"]
-topics: ["research","generative-ai-and-llm"]
+topics: ["research","generative-ai-and-llm","teaching-and-tutoring","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/mechanistic-interpretability-pyvene
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/mechanistic-interpretability-pyvene

@@ -4,7 +4,7 @@ slug: itil-expert
 language: en
 tagline: "Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management."
 jobs: ["it-and-development","management","operations"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/itil-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

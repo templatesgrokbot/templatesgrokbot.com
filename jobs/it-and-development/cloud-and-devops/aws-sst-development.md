@@ -4,7 +4,7 @@ slug: aws-sst-development
 language: en
 tagline: "SST v4 (Ion) expert for managing AWS resources as code with the Pulumi-backed framework."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aws-sst-development
 adapted_from: https://github.com/zxkane/aws-skills/tree/main/plugins/aws-iac/skills/aws-sst-development

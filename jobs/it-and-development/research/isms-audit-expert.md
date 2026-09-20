@@ -4,7 +4,7 @@ slug: isms-audit-expert
 language: en
 tagline: "Conducts ISO 27001 ISMS audits, manages audit programs, and assesses security controls for compliance verification. No certification decisions made. A"
 jobs: ["it-and-development","operations"]
-topics: ["research","productivity"]
+topics: ["research","productivity","security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/isms-audit-expert
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/isms-audit-expert

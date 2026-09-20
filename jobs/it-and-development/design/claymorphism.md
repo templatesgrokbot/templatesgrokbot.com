@@ -4,7 +4,7 @@ slug: claymorphism
 language: en
 tagline: "Generate soft 3D claymorphic UI elements with rounded shapes and tactile shadows."
 jobs: ["it-and-development","creatives"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/claymorphism
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

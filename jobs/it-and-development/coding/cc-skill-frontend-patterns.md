@@ -4,7 +4,7 @@ slug: cc-skill-frontend-patterns
 language: en
 tagline: "Provides React, Next.js, and performance patterns with code examples."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cc-skill-frontend-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

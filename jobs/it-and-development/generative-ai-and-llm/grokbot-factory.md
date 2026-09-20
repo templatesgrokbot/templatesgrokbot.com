@@ -4,7 +4,7 @@ slug: grokbot-factory
 language: en
 tagline: "Builds Grok Bots from template lists, clusters lanes, and outputs a CSV catalog."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","productivity"]
+topics: ["generative-ai-and-llm","productivity","prompt-engineering"]
 category: operations
 url: https://templatesgrokbot.com/bot/grokbot-factory
 ---

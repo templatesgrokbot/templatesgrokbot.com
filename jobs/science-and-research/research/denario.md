@@ -4,7 +4,7 @@ slug: denario
 language: en
 tagline: "Automates scientific research from data analysis to publication-ready LaTeX papers."
 jobs: ["science-and-research","writers"]
-topics: ["research"]
+topics: ["research","data-analysis","writing-and-content","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/denario
 adapted_from: https://www.aitmpl.com/component/skills/scientific/denario

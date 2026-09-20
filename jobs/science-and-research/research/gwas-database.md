@@ -4,7 +4,7 @@ slug: gwas-database
 language: en
 tagline: "Queries the NHGRI-EBI GWAS Catalog for SNP-trait associations, p-values, and summary statistics."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/gwas-database
 adapted_from: https://www.aitmpl.com/component/skills/scientific/gwas-database

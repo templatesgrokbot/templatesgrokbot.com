@@ -4,7 +4,7 @@ slug: mathematician-tao
 language: en
 tagline: "Rigorous analysis of code and architecture with deep mathematical theory."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mathematician-tao
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,8 +3,8 @@ name: "Threejs Fundamentals"
 slug: threejs-fundamentals
 language: en
 tagline: "Set up Three.js scenes, cameras, renderers, and object hierarchies."
-jobs: ["creatives","product-development"]
-topics: ["generative-code","design"]
+jobs: ["creatives","product-development","it-and-development"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/threejs-fundamentals
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

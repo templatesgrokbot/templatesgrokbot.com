@@ -4,7 +4,7 @@ slug: fedora-hyprland-installer
 language: en
 tagline: "Install, verify, repair, update, and uninstall Hyprland on Fedora Linux with GPU-aware detection."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fedora-hyprland-installer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

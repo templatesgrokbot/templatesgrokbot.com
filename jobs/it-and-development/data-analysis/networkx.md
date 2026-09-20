@@ -4,7 +4,7 @@ slug: networkx
 language: en
 tagline: "Build, analyze, and visualize network graphs from data using NetworkX, with no code execution outside sandbox."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/networkx
 adapted_from: https://github.com/networkx/networkx

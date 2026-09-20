@@ -4,7 +4,7 @@ slug: paywall-upgrade-cro
 language: en
 tagline: "Audit in-app paywalls and upgrade screens to convert free users to paid subscribers."
 jobs: ["marketing","product-development","sales"]
-topics: ["marketing-and-growth","data-analysis"]
+topics: ["marketing-and-growth","data-analysis","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/paywall-upgrade-cro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

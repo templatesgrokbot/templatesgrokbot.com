@@ -4,7 +4,7 @@ slug: context-compression
 language: en
 tagline: "Compress agent conversation history while preserving critical information for task completion."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/context-compression
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: wiki-changelog
 language: en
 tagline: "Generate structured changelogs from git history."
 jobs: ["it-and-development","product-development","management"]
-topics: ["coding"]
+topics: ["coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wiki-changelog
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

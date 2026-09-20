@@ -4,7 +4,7 @@ slug: cc-skill-project-guidelines-example
 language: en
 tagline: "Provides architecture, code patterns, and deployment guidelines for the Zenith project."
 jobs: ["it-and-development"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cc-skill-project-guidelines-example
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

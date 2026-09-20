@@ -3,7 +3,7 @@ name: "Excel Spreadsheets"
 slug: anthropic-xlsx
 language: en
 tagline: "Read and write Excel files with formulas, charts, and data cleaning."
-jobs: ["operations","finance"]
+jobs: ["operations","finance","science-and-research","insurance","government"]
 topics: ["office-tools","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/anthropic-xlsx

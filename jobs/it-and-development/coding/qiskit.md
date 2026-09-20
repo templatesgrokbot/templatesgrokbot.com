@@ -4,7 +4,7 @@ slug: qiskit
 language: en
 tagline: "Build, optimize, and run quantum circuits on simulators or IBM Quantum hardware."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","research"]
+topics: ["coding","research","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/qiskit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

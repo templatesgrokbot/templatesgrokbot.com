@@ -3,7 +3,7 @@ name: "Macos Reverse"
 slug: macos-reverse
 language: en
 tagline: "Authorized macOS/Mach-O reverse engineering: signatures, ObjC/Swift, malware triage."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","science-and-research"]
 topics: ["security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/macos-reverse

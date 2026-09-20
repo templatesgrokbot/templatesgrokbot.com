@@ -4,7 +4,7 @@ slug: team-composition-analysis
 language: en
 tagline: "Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups."
 jobs: ["human-resources","executives-and-strategy","management","operations"]
-topics: ["data-analysis","productivity"]
+topics: ["data-analysis","productivity","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/team-composition-analysis
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

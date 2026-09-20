@@ -4,7 +4,7 @@ slug: ui-skills-root
 language: en
 tagline: "Route UI tasks to the smallest useful capability context via CLI."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ui-skills-root
 adapted_from: https://github.com/ibelick/ui-skills/tree/main/skills/ui-skills-root

@@ -4,7 +4,7 @@ slug: terraform-aws-modules
 language: en
 tagline: "Design reusable Terraform modules for AWS with state management and HCL best practices."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/terraform-aws-modules
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: ax-extract-workflow
 language: en
 tagline: "Reconstruct how a past coding-agent artifact was built using local ax traces."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","generative-ai-and-llm","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ax-extract-workflow
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

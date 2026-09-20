@@ -3,8 +3,8 @@ name: "Pytorch Lightning"
 slug: pytorch-lightning
 language: en
 tagline: "Organize PyTorch code into LightningModules and configure Trainers for scalable neural network training."
-jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pytorch-lightning
 adapted_from: https://www.aitmpl.com/component/skills/scientific/pytorch-lightning

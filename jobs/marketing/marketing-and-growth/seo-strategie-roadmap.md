@@ -4,7 +4,7 @@ slug: seo-strategie-roadmap
 language: en
 tagline: "Turns your current SEO situation into a 90-day roadmap with ICE scores and a not-doing list."
 jobs: ["marketing","executives-and-strategy"]
-topics: ["marketing-and-growth","research"]
+topics: ["marketing-and-growth","research","productivity","data-analysis"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-strategie-roadmap
 adapted_from: https://collectivebrain.de/en/skills/seo-strategie-roadmap/

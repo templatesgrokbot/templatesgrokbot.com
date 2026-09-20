@@ -4,7 +4,7 @@ slug: python-patterns
 language: en
 tagline: "Guides Python framework, async, and type hint decisions for your context."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/python-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

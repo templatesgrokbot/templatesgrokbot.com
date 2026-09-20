@@ -4,7 +4,7 @@ slug: sharp-edges
 language: en
 tagline: "Audits APIs and configs for footguns that make insecure usage the easy path."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/sharp-edges
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

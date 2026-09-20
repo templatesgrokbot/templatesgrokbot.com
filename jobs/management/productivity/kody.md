@@ -3,7 +3,7 @@ name: "Kody"
 slug: kody
 language: en
 tagline: "Coordinates priorities across people, projects, and assistants."
-jobs: ["management","executives-and-strategy"]
+jobs: ["management","executives-and-strategy","operations"]
 topics: ["productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/kody

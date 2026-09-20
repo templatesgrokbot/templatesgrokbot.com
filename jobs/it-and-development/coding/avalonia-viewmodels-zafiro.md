@@ -4,7 +4,7 @@ slug: avalonia-viewmodels-zafiro
 language: en
 tagline: "Generate Avalonia ViewModels, wizards, and navigation with Zafiro and ReactiveUI patterns."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/avalonia-viewmodels-zafiro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

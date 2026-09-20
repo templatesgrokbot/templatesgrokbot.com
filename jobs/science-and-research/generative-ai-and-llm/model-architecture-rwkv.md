@@ -4,7 +4,7 @@ slug: model-architecture-rwkv
 language: en
 tagline: "Explains RWKV architecture and helps you run it for long-context tasks."
 jobs: ["science-and-research","it-and-development"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/model-architecture-rwkv
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/model-architecture-rwkv

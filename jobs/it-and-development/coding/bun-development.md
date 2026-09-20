@@ -4,7 +4,7 @@ slug: bun-development
 language: en
 tagline: "Build and run JS/TS projects with the Bun runtime, no Node.js needed."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bun-development
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

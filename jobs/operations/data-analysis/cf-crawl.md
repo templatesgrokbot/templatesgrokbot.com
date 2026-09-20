@@ -4,7 +4,7 @@ slug: cf-crawl
 language: en
 tagline: "Crawl websites via Cloudflare Browser Rendering and save pages as markdown files."
 jobs: ["operations","it-and-development"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","cloud-and-devops","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/cf-crawl
 adapted_from: https://www.aitmpl.com/component/skills/utilities/cf-crawl

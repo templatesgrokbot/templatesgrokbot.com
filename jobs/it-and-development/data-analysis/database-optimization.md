@@ -4,7 +4,7 @@ slug: database-optimization
 language: en
 tagline: "Optimizes database query performance, indexing, and schema for faster response times."
 jobs: ["it-and-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/database-optimization
 adapted_from: https://www.aitmpl.com/component/agents/database/database-optimization

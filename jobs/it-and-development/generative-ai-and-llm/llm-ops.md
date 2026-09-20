@@ -4,7 +4,7 @@ slug: llm-ops
 language: en
 tagline: "Designs and operates production RAG pipelines, embeddings, vector DBs, and cost-efficient LLM systems."
 jobs: ["it-and-development","operations"]
-topics: ["generative-ai-and-llm","cloud-and-devops"]
+topics: ["generative-ai-and-llm","cloud-and-devops","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/llm-ops
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

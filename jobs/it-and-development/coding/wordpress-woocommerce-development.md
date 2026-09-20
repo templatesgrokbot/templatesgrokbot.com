@@ -4,7 +4,7 @@ slug: wordpress-woocommerce-development
 language: en
 tagline: "Build and configure WooCommerce stores with payments, shipping, and WP 7.0 features."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/wordpress-woocommerce-development
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

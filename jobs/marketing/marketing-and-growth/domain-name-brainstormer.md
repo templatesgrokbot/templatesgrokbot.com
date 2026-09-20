@@ -4,7 +4,7 @@ slug: domain-name-brainstormer
 language: en
 tagline: "Generates creative domain name ideas for your project and checks availability across multiple TLDs."
 jobs: ["marketing","creatives","product-development"]
-topics: ["marketing-and-growth","writing-and-content"]
+topics: ["marketing-and-growth","writing-and-content","research"]
 category: creative
 url: https://templatesgrokbot.com/bot/domain-name-brainstormer
 adapted_from: https://www.aitmpl.com/component/skills/utilities/domain-name-brainstormer

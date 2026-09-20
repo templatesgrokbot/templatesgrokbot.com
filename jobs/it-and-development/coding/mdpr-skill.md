@@ -4,7 +4,7 @@ slug: mdpr-skill
 language: en
 tagline: "Review MDPR Markdown presentations with semantic hints and visual checks, leaving layout to the renderer. No slide geometry or final styling."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","office-tools","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mdpr-skill
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: odoo-accounting-setup
 language: en
 tagline: "Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation."
 jobs: ["operations","finance"]
-topics: ["office-tools","productivity"]
+topics: ["office-tools","productivity","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-accounting-setup
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

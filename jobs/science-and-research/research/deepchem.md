@@ -4,7 +4,7 @@ slug: deepchem
 language: en
 tagline: "Predict molecular properties and train ML models for drug discovery."
 jobs: ["science-and-research","it-and-development"]
-topics: ["research"]
+topics: ["research","data-analysis","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/deepchem
 adapted_from: https://www.aitmpl.com/component/skills/scientific/deepchem

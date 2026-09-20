@@ -4,7 +4,7 @@ slug: commit-guardian
 language: en
 tagline: "Runs 10 automated checks before every git commit and blocks if any fail."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/commit-guardian
 adapted_from: https://www.aitmpl.com/component/agents/git/commit-guardian

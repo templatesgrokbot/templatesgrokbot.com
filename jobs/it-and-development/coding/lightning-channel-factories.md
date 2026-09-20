@@ -4,7 +4,7 @@ slug: lightning-channel-factories
 language: en
 tagline: "Technical reference for Lightning Network channel factories, multi-party channels, and LSP architectures."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops","security-and-compliance"]
+topics: ["coding","cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/lightning-channel-factories
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

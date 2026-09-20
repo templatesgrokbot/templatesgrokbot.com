@@ -3,7 +3,7 @@ name: "Campaign Plan"
 slug: marketing-campaign-plan
 language: en
 tagline: "Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu"
-jobs: ["marketing","executives-and-strategy"]
+jobs: ["marketing","executives-and-strategy","hospitality-and-events","management"]
 topics: ["marketing-and-growth","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/marketing-campaign-plan

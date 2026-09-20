@@ -3,7 +3,7 @@ name: "Search"
 slug: search
 language: en
 tagline: "Searches Google via Bright Data SERP API and returns structured JSON results."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","marketing"]
 topics: ["research"]
 category: research
 url: https://templatesgrokbot.com/bot/search

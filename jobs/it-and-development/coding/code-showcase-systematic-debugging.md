@@ -4,7 +4,7 @@ slug: code-showcase-systematic-debugging
 language: en
 tagline: "Four-phase debugging methodology enforcing root cause analysis before any fix."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/code-showcase-systematic-debugging
 adapted_from: https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/systematic-debugging

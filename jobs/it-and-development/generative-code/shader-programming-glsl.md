@@ -4,7 +4,7 @@ slug: shader-programming-glsl
 language: en
 tagline: "Write and troubleshoot GLSL vertex/fragment shaders for web and game engines."
 jobs: ["it-and-development","creatives","product-development"]
-topics: ["generative-code","coding"]
+topics: ["generative-code","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/shader-programming-glsl
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

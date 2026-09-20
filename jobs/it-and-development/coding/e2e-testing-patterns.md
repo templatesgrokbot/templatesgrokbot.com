@@ -4,7 +4,7 @@ slug: e2e-testing-patterns
 language: en
 tagline: "Guide building reliable, fast, and maintainable E2E test suites that catch regressions before users do."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/e2e-testing-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: famulor-skill
 language: en
 tagline: "Operate Famulor assistants, calls, campaigns, messaging, and workspace settings through its MCP server."
 jobs: ["operations","management"]
-topics: ["productivity"]
+topics: ["productivity","marketing-and-growth","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/famulor-skill
 adapted_from: https://github.com/bekservice/Famulor-Skill

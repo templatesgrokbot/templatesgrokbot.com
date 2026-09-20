@@ -4,7 +4,7 @@ slug: backend-dev-guidelines
 language: en
 tagline: "Generate Node.js/Express/TypeScript microservice code with layered architecture and strict conventions."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/backend-dev-guidelines
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

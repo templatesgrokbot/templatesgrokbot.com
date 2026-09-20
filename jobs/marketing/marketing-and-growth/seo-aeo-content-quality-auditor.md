@@ -4,7 +4,7 @@ slug: seo-aeo-content-quality-auditor
 language: en
 tagline: "Audit any page or post for SEO and AEO, get scored reports and fix lists."
 jobs: ["marketing","writers"]
-topics: ["marketing-and-growth","writing-and-content"]
+topics: ["marketing-and-growth","writing-and-content","data-analysis"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-aeo-content-quality-auditor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

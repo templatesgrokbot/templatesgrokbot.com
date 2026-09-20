@@ -3,7 +3,7 @@ name: "Metadata Agent"
 slug: metadata-agent
 language: en
 tagline: "Standardizes and maintains frontmatter metadata across an Obsidian vault."
-jobs: ["operations"]
+jobs: ["operations","it-and-development"]
 topics: ["knowledge-management","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/metadata-agent

@@ -4,7 +4,7 @@ slug: power-bi-dax-expert
 language: en
 tagline: "Provides expert DAX guidance using Microsoft best practices for performance and maintainability."
 jobs: ["it-and-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/power-bi-dax-expert
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/power-bi-dax-expert

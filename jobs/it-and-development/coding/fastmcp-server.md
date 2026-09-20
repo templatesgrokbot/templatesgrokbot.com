@@ -4,7 +4,7 @@ slug: fastmcp-server
 language: en
 tagline: "Build production-ready MCP servers in Python with FastMCP 3.0."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fastmcp-server
 adapted_from: https://www.aitmpl.com/component/skills/development/fastmcp-server

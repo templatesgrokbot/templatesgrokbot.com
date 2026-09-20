@@ -3,7 +3,7 @@ name: "Daily Meeting Update"
 slug: daily-meeting-update
 language: en
 tagline: "Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history."
-jobs: ["it-and-development","management","operations"]
+jobs: ["it-and-development","management","operations","product-development"]
 topics: ["productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/daily-meeting-update

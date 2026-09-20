@@ -4,7 +4,7 @@ slug: skill-rails-upgrade
 language: en
 tagline: "Analyze Rails apps and provide upgrade assessments with selective file merging."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops","security-and-compliance"]
+topics: ["coding","cloud-and-devops","security-and-compliance","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/skill-rails-upgrade
 adapted_from: https://github.com/robzolkos/skill-rails-upgrade

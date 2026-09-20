@@ -4,7 +4,7 @@ slug: azure-ai-projects-dotnet
 language: en
 tagline: "Manage Azure AI Foundry agents, connections, datasets, deployments, evaluations, and indexes from .NET."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-projects-dotnet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: aws-serverless-eda
 language: en
 tagline: "AWS serverless architecture guidance using Well-Architected Framework principles."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aws-serverless-eda
 adapted_from: https://github.com/zxkane/aws-skills/tree/main/plugins/serverless-eda/skills/aws-serverless-eda

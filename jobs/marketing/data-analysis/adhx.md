@@ -3,8 +3,8 @@ name: "Adhx"
 slug: adhx
 language: en
 tagline: "Fetch any X/Twitter post as clean JSON text, author info, and engagement data"
-jobs: ["marketing"]
-topics: ["data-analysis","research"]
+jobs: ["marketing","it-and-development"]
+topics: ["data-analysis","research","social-media"]
 category: engineering
 url: https://templatesgrokbot.com/bot/adhx
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

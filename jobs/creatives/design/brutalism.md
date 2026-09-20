@@ -4,7 +4,7 @@ slug: brutalism
 language: en
 tagline: "Implement raw, intentionally unfinished web and app interfaces in the Brutalism style."
 jobs: ["creatives","it-and-development"]
-topics: ["design"]
+topics: ["design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/brutalism
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: startup-financial-modeling
 language: en
 tagline: "Build 3-5 year financial models with revenue, cost, cash flow, and scenario planning for startups."
 jobs: ["finance","executives-and-strategy"]
-topics: ["data-analysis"]
+topics: ["data-analysis","office-tools"]
 category: finance
 url: https://templatesgrokbot.com/bot/startup-financial-modeling
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

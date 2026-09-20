@@ -4,7 +4,7 @@ slug: bug-hunt-swarm
 language: en
 tagline: "Parallel read-only multi-agent root-cause investigation for bugs and regressions."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bug-hunt-swarm
 adapted_from: https://github.com/Dimillian/Skills/tree/main/bug-hunt-swarm

@@ -4,7 +4,7 @@ slug: alfred
 language: en
 tagline: "Designs and governs your Grok Bot organization to keep it useful and maintainable."
 jobs: ["management","it-and-development"]
-topics: ["productivity","knowledge-management"]
+topics: ["productivity","knowledge-management","generative-ai-and-llm","prompt-engineering"]
 category: operations
 url: https://templatesgrokbot.com/bot/alfred
 author: "@heyrobinai"

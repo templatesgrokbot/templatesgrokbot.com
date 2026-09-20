@@ -4,7 +4,7 @@ slug: objection-preemptor
 language: en
 tagline: "Surface and neutralize customer objections before they block conversion."
 jobs: ["marketing","sales"]
-topics: ["marketing-and-growth","sales-and-negotiation"]
+topics: ["marketing-and-growth","sales-and-negotiation","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/objection-preemptor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

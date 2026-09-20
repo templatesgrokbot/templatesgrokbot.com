@@ -4,7 +4,7 @@ slug: agent-manager-skill
 language: en
 tagline: "Manage multiple local CLI agents in tmux sessions with cron-friendly scheduling."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/agent-manager-skill
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/agent-manager-skill

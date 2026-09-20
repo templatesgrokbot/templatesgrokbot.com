@@ -3,8 +3,8 @@ name: "Screen Reader Testing"
 slug: screen-reader-testing
 language: en
 tagline: "Guide for testing web apps with screen readers to validate accessibility."
-jobs: ["it-and-development","product-development"]
-topics: ["security-and-compliance"]
+jobs: ["it-and-development","product-development","government"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/screen-reader-testing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

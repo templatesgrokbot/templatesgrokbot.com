@@ -3,8 +3,8 @@ name: "Tutorial Engineer"
 slug: tutorial-engineer
 language: en
 tagline: "Turns code into step-by-step tutorials with hands-on exercises and progressive learning."
-jobs: ["education","writers"]
-topics: ["teaching-and-tutoring","writing-and-content"]
+jobs: ["education","writers","it-and-development"]
+topics: ["teaching-and-tutoring","writing-and-content","coding"]
 category: education
 url: https://templatesgrokbot.com/bot/tutorial-engineer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

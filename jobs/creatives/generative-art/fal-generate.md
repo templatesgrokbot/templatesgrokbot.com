@@ -4,7 +4,7 @@ slug: fal-generate
 language: en
 tagline: "Generate images and videos via fal.ai AI models on demand, with approval before any generation."
 jobs: ["creatives","marketing","product-development"]
-topics: ["generative-art","generative-video","generative-ai-and-llm"]
+topics: ["generative-art","generative-video","generative-ai-and-llm","text-to-video"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fal-generate
 adapted_from: https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-generate/SKILL.md

@@ -3,7 +3,7 @@ name: "Internal Comms Anthropic"
 slug: internal-comms-anthropic
 language: en
 tagline: "Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending."
-jobs: ["pr-and-communications","management"]
+jobs: ["pr-and-communications","management","human-resources"]
 topics: ["writing-and-content","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/internal-comms-anthropic

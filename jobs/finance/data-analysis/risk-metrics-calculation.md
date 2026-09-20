@@ -3,7 +3,7 @@ name: "Risk Metrics Calculation"
 slug: risk-metrics-calculation
 language: en
 tagline: "Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown."
-jobs: ["finance","executives-and-strategy"]
+jobs: ["finance","executives-and-strategy","science-and-research"]
 topics: ["data-analysis"]
 category: finance
 url: https://templatesgrokbot.com/bot/risk-metrics-calculation

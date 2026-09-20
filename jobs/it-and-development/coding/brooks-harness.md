@@ -4,7 +4,7 @@ slug: brooks-harness
 language: en
 tagline: "Maintenance orchestrator for the brooks-lint plugin repo, running a staged subagent pipeline from authoring through release."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/brooks-harness
 adapted_from: https://github.com/hyhmrright/brooks-lint/tree/main/.claude/skills/brooks-harness

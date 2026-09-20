@@ -4,7 +4,7 @@ slug: scholar-evaluation
 language: en
 tagline: "Evaluates scholarly work using the ScholarEval framework across multiple quality dimensions."
 jobs: ["education","science-and-research"]
-topics: ["research"]
+topics: ["research","writing-and-content"]
 category: education
 url: https://templatesgrokbot.com/bot/scholar-evaluation
 adapted_from: https://www.aitmpl.com/component/skills/scientific/scholar-evaluation

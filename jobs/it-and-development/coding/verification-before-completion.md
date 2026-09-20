@@ -3,8 +3,8 @@ name: "Verification Before Completion"
 slug: verification-before-completion
 language: en
 tagline: "Enforce fresh verification before any completion claim."
-jobs: ["it-and-development"]
-topics: ["coding"]
+jobs: ["it-and-development","government"]
+topics: ["coding","prompt-engineering","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/verification-before-completion
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

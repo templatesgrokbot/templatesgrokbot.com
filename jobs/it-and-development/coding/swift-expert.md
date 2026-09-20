@@ -4,7 +4,7 @@ slug: swift-expert
 language: en
 tagline: "Build and optimize native Swift applications with modern concurrency and protocol-oriented design."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/swift-expert
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/swift-expert

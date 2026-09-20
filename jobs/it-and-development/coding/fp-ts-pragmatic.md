@@ -4,7 +4,7 @@ slug: fp-ts-pragmatic
 language: en
 tagline: "Practical fp-ts guide for TypeScript without academic overhead"
 jobs: ["it-and-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fp-ts-pragmatic
 adapted_from: https://github.com/whatiskadudoing/fp-ts-skills

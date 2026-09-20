@@ -4,7 +4,7 @@ slug: azure-ai-ml-py
 language: en
 tagline: "Manage Azure ML workspaces, jobs, models, data, compute, and pipelines via SDK v2."
 jobs: ["it-and-development","science-and-research","product-development"]
-topics: ["cloud-and-devops","data-analysis"]
+topics: ["cloud-and-devops","data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-ml-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,7 +3,7 @@ name: "Read Only Auditor"
 slug: read-only-auditor
 language: en
 tagline: "Audits code for security issues without making any changes."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","government"]
 topics: ["security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/read-only-auditor

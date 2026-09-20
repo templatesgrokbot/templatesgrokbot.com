@@ -4,7 +4,7 @@ slug: ask-copilot
 language: en
 tagline: "Non-interactive GitHub Copilot CLI for code review, Q&A, and generation."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ask-copilot
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

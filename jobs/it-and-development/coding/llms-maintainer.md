@@ -4,7 +4,7 @@ slug: llms-maintainer
 language: en
 tagline: "Generates and maintains an llms.txt roadmap file for AI crawlers to navigate your site."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/llms-maintainer
 adapted_from: https://www.aitmpl.com/component/agents/ai-specialists/llms-maintainer

@@ -4,7 +4,7 @@ slug: reference-list-builder
 language: en
 tagline: "Formats professional reference lists and prepares reference materials for job applications."
 jobs: ["human-resources","it-and-development"]
-topics: ["writing-and-content"]
+topics: ["writing-and-content","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/reference-list-builder
 adapted_from: https://www.aitmpl.com/component/skills/career/reference-list-builder

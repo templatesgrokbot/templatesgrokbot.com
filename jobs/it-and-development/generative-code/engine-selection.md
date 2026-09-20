@@ -4,7 +4,7 @@ slug: engine-selection
 language: en
 tagline: "Match game engines to platform, interaction model, and team constraints."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code"]
+topics: ["generative-code","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/engine-selection
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

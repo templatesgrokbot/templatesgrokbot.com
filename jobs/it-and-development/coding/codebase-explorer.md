@@ -4,7 +4,7 @@ slug: codebase-explorer
 language: en
 tagline: "Analyzes unfamiliar codebases and produces a structured mental model with tech stack, architecture, and key patterns."
 jobs: ["it-and-development"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/codebase-explorer
 adapted_from: https://www.aitmpl.com/component/agents/development-tools/codebase-explorer

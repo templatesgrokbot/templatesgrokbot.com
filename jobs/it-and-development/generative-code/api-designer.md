@@ -4,7 +4,7 @@ slug: api-designer
 language: en
 tagline: "Designs production-ready REST API contracts with OpenAPI specs, versioning, and protocol selection before backend implementation."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code"]
+topics: ["generative-code","design","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/api-designer
 adapted_from: https://github.com/LambdaTest/agent-skills/tree/main/api-skill/api-designer

@@ -4,7 +4,7 @@ slug: tool-use-guardian
 language: en
 tagline: "Wraps tool calls to auto-retry failures, fix truncated JSON, and learn which tools are unreliable."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/tool-use-guardian
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

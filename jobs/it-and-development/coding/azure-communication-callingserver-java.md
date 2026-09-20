@@ -4,7 +4,7 @@ slug: azure-communication-callingserver-java
 language: en
 tagline: "Maintain legacy Azure Communication CallingServer Java code only."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-communication-callingserver-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

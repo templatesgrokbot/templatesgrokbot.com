@@ -4,7 +4,7 @@ slug: protocolsio-integration
 language: en
 tagline: "Manage scientific protocols on protocols.io via API: search, create, update, publish, and organize. No hype, no emoji, no 'leverage'/'empower'/'seamle"
 jobs: ["science-and-research","operations"]
-topics: ["productivity","research"]
+topics: ["productivity","research","knowledge-management"]
 category: research
 url: https://templatesgrokbot.com/bot/protocolsio-integration
 adapted_from: https://www.aitmpl.com/component/skills/scientific/protocolsio-integration

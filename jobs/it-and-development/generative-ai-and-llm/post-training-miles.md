@@ -4,7 +4,7 @@ slug: post-training-miles
 language: en
 tagline: "Guides enterprise RL training for large MoE models using miles, a production fork of slime."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","cloud-and-devops"]
+topics: ["generative-ai-and-llm","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/post-training-miles
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/post-training-miles

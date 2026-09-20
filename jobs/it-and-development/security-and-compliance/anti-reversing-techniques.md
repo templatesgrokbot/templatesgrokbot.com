@@ -4,7 +4,7 @@ slug: anti-reversing-techniques
 language: en
 tagline: "Analyze anti-debugging and obfuscation in binaries with written authorization only."
 jobs: ["it-and-development","science-and-research"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/anti-reversing-techniques
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

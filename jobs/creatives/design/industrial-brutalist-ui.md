@@ -4,7 +4,7 @@ slug: industrial-brutalist-ui
 language: en
 tagline: "Create raw industrial or tactical telemetry UIs with rigid grids and stark typography."
 jobs: ["creatives","product-development"]
-topics: ["design","generative-art"]
+topics: ["design","generative-art","cloud-and-devops"]
 category: creative
 url: https://templatesgrokbot.com/bot/industrial-brutalist-ui
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

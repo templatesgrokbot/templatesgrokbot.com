@@ -4,7 +4,7 @@ slug: banner-design
 language: en
 tagline: "Design banners for social media, ads, website heroes, creative assets, and print."
 jobs: ["marketing","creatives"]
-topics: ["design","generative-art"]
+topics: ["design","generative-art","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/banner-design
 ---

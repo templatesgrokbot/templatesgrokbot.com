@@ -4,7 +4,7 @@ slug: taisly-social-media-posting
 language: en
 tagline: "Prepare and publish approved short-form videos across major social platforms. Requires explicit user approval before any posting action."
 jobs: ["marketing","creatives"]
-topics: ["social-media","generative-video"]
+topics: ["social-media","generative-video","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/taisly-social-media-posting
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

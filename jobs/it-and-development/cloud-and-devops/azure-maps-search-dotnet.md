@@ -4,7 +4,7 @@ slug: azure-maps-search-dotnet
 language: en
 tagline: "Azure Maps SDK for .NET providing geocoding, routing, rendering, geolocation, and weather data."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops","data-analysis"]
+topics: ["cloud-and-devops","data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-maps-search-dotnet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

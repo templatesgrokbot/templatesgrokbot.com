@@ -4,7 +4,7 @@ slug: src-hunter
 language: en
 tagline: "Five-phase bug-bounty hunting workflow with 19 attack playbooks and 305 structured payloads."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/src-hunter
 adapted_from: https://github.com/zhaoxuya520/reverse-skill

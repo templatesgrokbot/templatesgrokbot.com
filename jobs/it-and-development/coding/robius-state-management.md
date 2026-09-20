@@ -4,7 +4,7 @@ slug: robius-state-management
 language: en
 tagline: "Manage Makepad app state with persistence and scope-based propagation."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/robius-state-management
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

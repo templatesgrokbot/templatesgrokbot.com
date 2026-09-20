@@ -1,6 +1,6 @@
 # Generative Code templates for IT and Development
 
-Scaffold apps, components and whole projects from a brief. 90 Grok Bot templates, 78 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 93 Grok Bot templates, 78 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -33,11 +33,13 @@ Scaffold apps, components and whole projects from a brief. 90 Grok Bot templates
 | [Framework Migration Code Migrate](framework-migration-code-migrate.md) | Plan and execute code migrations between frameworks, languages, or platforms. |
 | [Frontend Mobile Development Component Scaffold](frontend-mobile-development-component-scaffold.md) | Scaffold production-ready React/React Native components with TypeScript, tests, and accessibility. |
 | [Frontend Slides](../../creatives/generative-code/frontend-slides.md) | Create zero-dependency HTML presentations with rich animations from scratch or PPTX files. |
+| [Frontend Slides Frontend Slides](../../creatives/generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
 | [Frutiger Aero](../../creatives/generative-code/frutiger-aero.md) | Generate web/app UI code with early-2000s glossy, nature-inspired Frutiger Aero aesthetics. |
 | [Game Development](game-development.md) | Routes game projects to correct platform, dimension, and specialty sub-capabilities. |
 | [Gpt Taste](../../creatives/generative-code/gpt-taste.md) | Award-level GSAP frontend pages with AIDA structure and gapless bento grids. |
 | [Hugging Face Gradio](hugging-face-gradio.md) | Build interactive web UIs and ML demos with Gradio in Python. |
 | [Hugging Face Tool Builder](hugging-face-tool-builder.md) | Build reusable CLI scripts for Hugging Face API with chaining and piping. |
+| [Json Canvas](../../creatives/generative-code/json-canvas.md) | Create and edit JSON Canvas .canvas files with nodes, edges, and groups. |
 | [Landing Page Generator](../../marketing/generative-code/landing-page-generator.md) | Generates conversion-optimized Next.js landing pages from a product description. |
 | [Loki Mode](loki-mode.md) | Takes a PRD and builds, tests, deploys, and iterates a full product with zero human intervention. |
 | [Macos Screen Recorder](macos-screen-recorder.md) | Record macOS screen with system audio from CLI, no extra drivers. |
@@ -81,6 +83,7 @@ Scaffold apps, components and whole projects from a brief. 90 Grok Bot templates
 | [Technical Documentation Page Generator](technical-documentation-page-generator.md) | Generates a three-column technical documentation page with navigation, article body, and table of contents. |
 | [Three.js Essentials](threejs-skills.md) | Build 3D scenes and interactive WebGL experiences with Three.js. |
 | [Threejs Animation](../../creatives/generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
+| [Threejs Fundamentals](../../creatives/generative-code/threejs-fundamentals.md) | Set up Three.js scenes, cameras, renderers, and object hierarchies. |
 | [Threejs Geometry](threejs-geometry.md) | Create and optimize Three.js geometry including built-in shapes, BufferGeometry, and instanced rendering. |
 | [Threejs Loaders](threejs-loaders.md) | Load GLTF, textures, HDR and manage async asset progress in Three.js. |
 | [Threejs Postprocessing](../../creatives/generative-code/threejs-postprocessing.md) | Add screen-space effects like bloom, DOF, and color grading in Three.js. |

@@ -4,7 +4,7 @@ slug: mermaid-diagrams
 language: en
 tagline: "Creates software diagrams from text descriptions using Mermaid syntax."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code","coding","data-analysis"]
+topics: ["generative-code","coding","data-analysis","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mermaid-diagrams
 adapted_from: https://www.aitmpl.com/component/skills/creative-design/mermaid-diagrams

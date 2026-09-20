@@ -4,7 +4,7 @@ slug: tailwind-patterns
 language: en
 tagline: "Tailwind CSS v4 patterns, CSS-first config, container queries, and design tokens."
 jobs: ["it-and-development","creatives"]
-topics: ["coding","design"]
+topics: ["coding","design","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/tailwind-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

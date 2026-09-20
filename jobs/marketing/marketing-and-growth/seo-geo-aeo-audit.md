@@ -4,7 +4,7 @@ slug: seo-geo-aeo-audit
 language: en
 tagline: "Audits any website across SEO, GEO, and AEO visibility layers with scores and prioritized actions."
 jobs: ["marketing","it-and-development"]
-topics: ["marketing-and-growth","data-analysis"]
+topics: ["marketing-and-growth","data-analysis","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-geo-aeo-audit
 adapted_from: https://collectivebrain.de/en/skills/seo-geo-aeo-audit/

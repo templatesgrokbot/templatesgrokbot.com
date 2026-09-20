@@ -4,7 +4,7 @@ slug: robius-event-action
 language: en
 tagline: "Event handling and action dispatch patterns for Makepad widgets in Rust."
 jobs: ["it-and-development"]
-topics: ["generative-code"]
+topics: ["generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/robius-event-action
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

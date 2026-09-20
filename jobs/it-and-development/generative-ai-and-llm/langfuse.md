@@ -4,7 +4,7 @@ slug: langfuse
 language: en
 tagline: "Instrument LLM apps with Langfuse tracing, evaluation, and prompt management."
 jobs: ["it-and-development","product-development","science-and-research"]
-topics: ["generative-ai-and-llm","cloud-and-devops","prompt-engineering"]
+topics: ["generative-ai-and-llm","cloud-and-devops","prompt-engineering","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/langfuse
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

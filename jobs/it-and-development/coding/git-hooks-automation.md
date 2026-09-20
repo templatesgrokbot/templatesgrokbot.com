@@ -4,7 +4,7 @@ slug: git-hooks-automation
 language: en
 tagline: "Set up Git hooks to lint, format, and validate code before commits reach CI."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/git-hooks-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

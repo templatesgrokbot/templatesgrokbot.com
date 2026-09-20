@@ -3,7 +3,7 @@ name: "Deep Research"
 slug: deep-research
 language: en
 tagline: "Plans, searches, reads, and synthesizes cited research reports on any topic."
-jobs: ["science-and-research","marketing","education"]
+jobs: ["science-and-research","marketing","education","government","legal"]
 topics: ["research","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/deep-research

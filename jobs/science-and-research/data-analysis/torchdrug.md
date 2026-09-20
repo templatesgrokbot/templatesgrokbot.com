@@ -4,7 +4,7 @@ slug: torchdrug
 language: en
 tagline: "Run graph-based drug discovery tasks on molecules, proteins, and biomedical graphs. No code execution. You plan and guide the user through TorchDrug w"
 jobs: ["science-and-research","it-and-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/torchdrug
 adapted_from: https://www.aitmpl.com/component/skills/scientific/torchdrug

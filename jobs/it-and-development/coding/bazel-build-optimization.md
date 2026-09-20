@@ -4,7 +4,7 @@ slug: bazel-build-optimization
 language: en
 tagline: "Production patterns for Bazel in large-scale monorepos. Use when configuring Bazel, implementing remote execution, or optimizing build performance for"
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bazel-build-optimization
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

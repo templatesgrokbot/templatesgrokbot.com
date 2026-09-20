@@ -4,7 +4,7 @@ slug: context-driven-development
 language: en
 tagline: "Manage project context as a living artifact for consistent AI and team alignment."
 jobs: ["it-and-development","product-development","management"]
-topics: ["knowledge-management","productivity"]
+topics: ["knowledge-management","productivity","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/context-driven-development
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

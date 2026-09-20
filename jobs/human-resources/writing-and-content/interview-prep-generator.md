@@ -4,7 +4,7 @@ slug: interview-prep-generator
 language: en
 tagline: "Turns a resume into STAR stories, practice questions, and talking points for interview prep."
 jobs: ["human-resources","education","management"]
-topics: ["writing-and-content","productivity"]
+topics: ["writing-and-content","productivity","self-improvement"]
 category: operations
 url: https://templatesgrokbot.com/bot/interview-prep-generator
 adapted_from: https://www.aitmpl.com/component/skills/career/interview-prep-generator

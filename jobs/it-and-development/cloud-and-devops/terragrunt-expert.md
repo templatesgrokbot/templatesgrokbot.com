@@ -4,7 +4,7 @@ slug: terragrunt-expert
 language: en
 tagline: "Orchestrates Terragrunt stacks, units, and dependencies for scalable multi-environment infrastructure."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/terragrunt-expert
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/terragrunt-expert

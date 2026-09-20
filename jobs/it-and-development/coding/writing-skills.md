@@ -4,7 +4,7 @@ slug: writing-skills
 language: en
 tagline: "Creates, edits, and verifies agent capabilities using test-driven development with structured templates."
 jobs: ["it-and-development"]
-topics: ["coding","prompt-engineering"]
+topics: ["coding","prompt-engineering","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/writing-skills
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

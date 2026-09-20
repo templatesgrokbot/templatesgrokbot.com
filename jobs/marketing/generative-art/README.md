@@ -1,6 +1,6 @@
 # Generative Art templates for Marketing
 
-Make images, illustrations and artwork. 21 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Make images, illustrations and artwork. 22 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Make images, illustrations and artwork. 21 Grok Bot templates, 1 of them filed i
 | [Daily Gift](../../creatives/generative-art/daily-gift.md) | Decides if a gift is needed today, then creates a personalized H5, image, or video artifact. No guessing, no filler. |
 | [Fal Generate](../../creatives/generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [Fal Upscale](../../creatives/generative-art/fal-upscale.md) | Upscale and enhance image and video resolution using AI. |
+| [Generate Image](../../creatives/generative-art/generate-image.md) | Generates or edits images using AI models for photos, illustrations, and visual assets. |
 | [Generate Nanobanana](../../creatives/generative-art/generate-nanobanana.md) | Generate and edit images/video via Gemini models with cost approval and reference-image support. |
 | [Grok image and video generator](../../creatives/generative-art/grok-image-and-video-generator.md) | Generate images and videos using grok.com/imagine for the owner. |
 | [Image Generator](../../creatives/generative-art/image-generator.md) | Generate and edit images using Gemini's Nano Banana Pro model. |

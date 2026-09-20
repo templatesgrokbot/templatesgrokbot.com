@@ -3,8 +3,8 @@ name: "Calendly Automation"
 slug: calendly-automation
 language: en
 tagline: "Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP."
-jobs: ["operations","management","customer-support"]
-topics: ["productivity","support-and-community"]
+jobs: ["operations","management","customer-support","it-and-development"]
+topics: ["productivity","support-and-community","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/calendly-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

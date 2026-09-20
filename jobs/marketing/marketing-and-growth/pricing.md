@@ -3,8 +3,8 @@ name: "Pricing"
 slug: pricing
 language: en
 tagline: "Design SaaS pricing tiers, value metrics, and monetization strategy based on customer willingness to pay."
-jobs: ["marketing","product-development"]
-topics: ["marketing-and-growth","sales-and-negotiation"]
+jobs: ["marketing","product-development","executives-and-strategy"]
+topics: ["marketing-and-growth","sales-and-negotiation","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/pricing
 adapted_from: https://github.com/coreyhaines31/marketingskills/tree/main/skills/pricing

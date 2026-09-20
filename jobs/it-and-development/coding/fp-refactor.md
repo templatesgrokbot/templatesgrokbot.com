@@ -4,7 +4,7 @@ slug: fp-refactor
 language: en
 tagline: "Refactor imperative TypeScript to fp-ts functional patterns with validated migration strategies."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fp-refactor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: x-twitter-scraper
 language: en
 tagline: "X data extraction and giveaway draws via the Xquik API, read-only."
 jobs: ["operations","marketing"]
-topics: ["data-analysis"]
+topics: ["data-analysis","social-media"]
 category: operations
 url: https://templatesgrokbot.com/bot/x-twitter-scraper
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

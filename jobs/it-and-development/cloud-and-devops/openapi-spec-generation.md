@@ -4,7 +4,7 @@ slug: openapi-spec-generation
 language: en
 tagline: "Generate and maintain OpenAPI 3.1 specs from code or design-first."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/openapi-spec-generation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

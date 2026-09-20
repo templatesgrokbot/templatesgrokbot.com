@@ -4,7 +4,7 @@ slug: anthropic-divi-edit
 language: en
 tagline: "Edit, optimize, and migrate DIVI WordPress sites: layouts, modules, templates, child themes, performance, and DIVI 5 migration."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/anthropic-divi-edit
 adapted_from: https://collectivebrain.de/en/skills/anthropic-divi-edit/

@@ -4,7 +4,7 @@ slug: power-bi-data-modeling-expert
 language: en
 tagline: "Guides Power BI data model design using star schema and Microsoft best practices."
 jobs: ["it-and-development","operations"]
-topics: ["data-analysis"]
+topics: ["data-analysis","teaching-and-tutoring","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/power-bi-data-modeling-expert
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/power-bi-data-modeling-expert

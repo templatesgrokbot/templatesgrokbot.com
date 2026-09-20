@@ -4,7 +4,7 @@ slug: runapi-cli
 language: en
 tagline: "Generate AI images, videos, and music via the RunAPI CLI."
 jobs: ["creatives","it-and-development"]
-topics: ["generative-art","generative-video","generative-ai-and-llm"]
+topics: ["generative-art","generative-video","generative-ai-and-llm","text-to-video"]
 category: engineering
 url: https://templatesgrokbot.com/bot/runapi-cli
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: requirements-clarity
 language: en
 tagline: "Turns vague feature requests into clear, actionable PRDs through structured questioning."
 jobs: ["product-development","management"]
-topics: ["productivity","research"]
+topics: ["productivity","research","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/requirements-clarity
 adapted_from: https://www.aitmpl.com/component/skills/productivity/requirements-clarity

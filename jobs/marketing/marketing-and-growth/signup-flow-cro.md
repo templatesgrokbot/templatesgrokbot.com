@@ -4,7 +4,7 @@ slug: signup-flow-cro
 language: en
 tagline: "Analyze and improve signup flows to reduce friction and boost completion rates."
 jobs: ["marketing","product-development"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","design"]
 category: marketing
 url: https://templatesgrokbot.com/bot/signup-flow-cro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

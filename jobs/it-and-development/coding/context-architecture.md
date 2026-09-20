@@ -4,7 +4,7 @@ slug: context-architecture
 language: en
 tagline: "Audit a codebase and bind every claim it makes about itself to a mechanism that fails when the claim stops being true."
 jobs: ["it-and-development"]
-topics: ["coding","security-and-compliance"]
+topics: ["coding","security-and-compliance","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/context-architecture
 adapted_from: https://www.aitmpl.com/component/skills/development/context-architecture

@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **1,042 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **1,063 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,25 +11,26 @@ Product managers and the teams that ship. **1,042 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Coding](coding/README.md) | 398 |
+| [Coding](coding/README.md) | 399 |
 | [Design](design/README.md) | 100 |
-| [Data Analysis](data-analysis/README.md) | 75 |
+| [Data Analysis](data-analysis/README.md) | 78 |
+| [Productivity](productivity/README.md) | 75 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
-| [Productivity](productivity/README.md) | 68 |
 | [Research](research/README.md) | 67 |
 | [Generative Code](generative-code/README.md) | 65 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 51 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 37 |
 | [Security & Compliance](security-and-compliance/README.md) | 25 |
 | [Writing & Content](writing-and-content/README.md) | 24 |
-| [Prompt Engineering](prompt-engineering/README.md) | 22 |
-| [Knowledge Management](knowledge-management/README.md) | 16 |
+| [Prompt Engineering](prompt-engineering/README.md) | 23 |
+| [Knowledge Management](knowledge-management/README.md) | 17 |
 | [Generative Art](generative-art/README.md) | 9 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 6 |
-| [Self-Improvement](self-improvement/README.md) | 4 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
+| [Self-Improvement](self-improvement/README.md) | 6 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Translation](translation/README.md) | 2 |
 | [Office Tools](office-tools/README.md) | 1 |
+| [Support & Community](support-and-community/README.md) | 1 |
 | [Video Editing](video-editing/README.md) | 1 |
 
 ## Coding
@@ -45,7 +46,7 @@ Product managers and the teams that ship. **1,042 ready-made Grok Bot templates*
 | [Performance Profiling](../it-and-development/coding/performance-profiling.md) | Profiles web performance, measures Core Web Vitals, and recommends optimizations. |
 | [Opencode Delegate](../it-and-development/coding/opencode-delegate.md) | Hand bounded coding tasks to the OpenCode CLI, review diffs, and commit yourself. |
 
-[All 398 Coding templates →](coding/README.md)
+[All 399 Coding templates →](coding/README.md)
 
 ## Design
 
@@ -75,7 +76,22 @@ Product managers and the teams that ship. **1,042 ready-made Grok Bot templates*
 | [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
 | [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
 
-[All 75 Data Analysis templates →](data-analysis/README.md)
+[All 78 Data Analysis templates →](data-analysis/README.md)
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Game Changing Features](../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
+| [Linear Automation](../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
+| [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
+| [Notion Template Business](../creatives/productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
+| [Build](productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
+| [Se Product Manager Advisor](productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
+| [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
+| [To Issues](productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
+
+[All 75 Productivity templates →](productivity/README.md)
 
 ## Generative AI and LLM
 
@@ -91,21 +107,6 @@ Product managers and the teams that ship. **1,042 ready-made Grok Bot templates*
 | [Mcp Integration Engineer](../it-and-development/generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
 
 [All 72 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Game Changing Features](../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
-| [Linear Automation](../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
-| [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
-| [Notion Template Business](../creatives/productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
-| [Build](productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
-| [Se Product Manager Advisor](productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
-| [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
-| [To Issues](productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
-
-[All 68 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -146,11 +147,11 @@ Product managers and the teams that ship. **1,042 ready-made Grok Bot templates*
 | [Azure Ai Ml Py](../it-and-development/cloud-and-devops/azure-ai-ml-py.md) | Manage Azure ML workspaces, jobs, models, data, compute, and pipelines via SDK v2. |
 | [Power Platform Expert](../it-and-development/cloud-and-devops/power-platform-expert.md) | Provides expert guidance on Power Platform development, architecture, and best practices. |
 | [Azure Appconfiguration Java](../it-and-development/cloud-and-devops/azure-appconfiguration-java.md) | Centralized config management with key-values, feature flags, and snapshots. |
+| [Deployment Procedures](../it-and-development/cloud-and-devops/deployment-procedures.md) | Guides safe production deployments with rollback planning and verification. |
+| [Release Captain](../it-and-development/cloud-and-devops/release-captain.md) | Runs the release checklist and refuses to skip the step everyone always skips. |
 | [Terraform Module Library](../it-and-development/cloud-and-devops/terraform-module-library.md) | Build reusable Terraform modules for AWS, Azure, and GCP with standardized patterns and tests. |
-| [Agents V2 Py](../it-and-development/cloud-and-devops/agents-v2-py.md) | Provision container-based hosted agents in Azure AI Foundry using the Python SDK. |
-| [Github Actions Expert](../it-and-development/cloud-and-devops/github-actions-expert.md) | Designs and secures GitHub Actions workflows with least privilege and supply-chain safety. |
 
-[All 48 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 51 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Marketing & Growth
 
@@ -210,7 +211,7 @@ Product managers and the teams that ship. **1,042 ready-made Grok Bot templates*
 | [Fable Safe Prompt](../it-and-development/prompt-engineering/fable-safe-prompt.md) | Rewrite prompts to bypass safety classifiers without changing intent or breaking policy. |
 | [Context Fundamentals](../it-and-development/prompt-engineering/context-fundamentals.md) | Engineer minimal, high-signal context for reliable agent behavior. |
 
-[All 22 Prompt Engineering templates →](prompt-engineering/README.md)
+[All 23 Prompt Engineering templates →](prompt-engineering/README.md)
 
 ## Knowledge Management
 
@@ -223,9 +224,9 @@ Product managers and the teams that ship. **1,042 ready-made Grok Bot templates*
 | [Mesh Memory](../it-and-development/knowledge-management/mesh-memory.md) | Self-hosted semantic memory for AI agents via MCP, saving and recalling worklogs, decisions, and notes by meaning. |
 | [Context Driven Development](../it-and-development/knowledge-management/context-driven-development.md) | Manage project context as a living artifact for consistent AI and team alignment. |
 | [Wiki Architect](../it-and-development/knowledge-management/wiki-architect.md) | Generate structured wiki catalogues and onboarding guides from codebases. |
-| [User Thoughts](../it-and-development/knowledge-management/user-thoughts.md) | Persist user decisions and project constraints into a local memory base for reuse across sessions. |
+| [Notion Knowledge Capture](../operations/knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
 
-[All 16 Knowledge Management templates →](knowledge-management/README.md)
+[All 17 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Generative Art
 
@@ -248,6 +249,8 @@ Product managers and the teams that ship. **1,042 ready-made Grok Bot templates*
 |---|---|
 | [Demonstrate Understanding](../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Lesson Generator](../education/teaching-and-tutoring/lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
+| [Ship Learn Next](../education/teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
+| [Pitch Rehearsal](../education/teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
 | [Agile Project Manager Advisor](../management/teaching-and-tutoring/agile-project-manager-advisor.md) | Guides project managers through Agile practices, planning, tracking, and team collaboration. |
 | [Process Engineer Training Developer](teaching-and-tutoring/process-engineer-training-developer.md) | Builds and manages training and educational resources for process engineers. |
 | [Technology Integration Assistant](teaching-and-tutoring/technology-integration-assistant.md) | Guides packaging engineers through technology integration from material selection to smart packaging. |
@@ -258,9 +261,11 @@ Product managers and the teams that ship. **1,042 ready-made Grok Bot templates*
 | Template | What it does |
 |---|---|
 | [Anti Sycophancy](../it-and-development/self-improvement/anti-sycophancy.md) | Challenge user claims independently to reduce AI sycophancy. |
+| [Feedback Mastery](../management/self-improvement/feedback-mastery.md) | Prepare, deliver, and follow up on constructive feedback using structured frameworks. |
 | [Grill Me](../management/self-improvement/grill-me.md) | A relentless interview that sharpens a plan or design through structured questioning. |
 | [Sam Altman](../executives-and-strategy/self-improvement/sam-altman.md) | Simulates Sam Altman's perspective on startups, AI, and AGI. |
 | [Bill Gates](../executives-and-strategy/self-improvement/bill-gates.md) | Simulates Bill Gates for strategic tech, investment, and philanthropy advice. |
+| [Professional Communication](../it-and-development/self-improvement/professional-communication.md) | Guides developers to write clear emails, messages, and meeting communications. |
 
 ## Sales & Negotiation
 
@@ -281,6 +286,12 @@ Product managers and the teams that ship. **1,042 ready-made Grok Bot templates*
 | Template | What it does |
 |---|---|
 | [Notion Ops Connector](../operations/office-tools/notion-ops-connector.md) | Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl. |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Doordash Allergy Shield](../operations/support-and-community/doordash-allergy-shield.md) | Vets DoorDash carts against a stored household dietary profile before checkout. |
 
 ## Video Editing
 

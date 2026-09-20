@@ -4,7 +4,7 @@ slug: latchbio-integration
 language: en
 tagline: "Build and deploy bioinformatics workflows as serverless pipelines on the Latch platform."
 jobs: ["it-and-development","science-and-research"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/latchbio-integration
 adapted_from: https://www.aitmpl.com/component/skills/scientific/latchbio-integration

@@ -4,7 +4,7 @@ slug: faf-go
 language: en
 tagline: "Guided interview to fill every active slot in your .faf file for 100% AI-readiness."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm","prompt-engineering"]
+topics: ["generative-ai-and-llm","prompt-engineering","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/faf-go
 adapted_from: https://github.com/Wolfe-Jam/faf-skills/tree/main/skills/faf-go

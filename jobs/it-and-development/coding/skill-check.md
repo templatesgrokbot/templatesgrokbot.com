@@ -4,7 +4,7 @@ slug: skill-check
 language: en
 tagline: "Validate SKILL.md files against the agentskills specification."
 jobs: ["it-and-development","operations"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/skill-check
 adapted_from: https://github.com/olgasafonova/SkillCheck-Free

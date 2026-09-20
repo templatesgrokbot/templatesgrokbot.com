@@ -4,7 +4,7 @@ slug: wiki-qa
 language: en
 tagline: "Answer repo questions with source-code evidence and inline citations."
 jobs: ["it-and-development"]
-topics: ["coding","research"]
+topics: ["coding","research","support-and-community"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wiki-qa
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

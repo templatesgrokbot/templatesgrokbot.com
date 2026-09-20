@@ -4,7 +4,7 @@ slug: gcp-cloud-run
 language: en
 tagline: "Guides building and optimizing serverless apps on GCP Cloud Run and Functions."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/gcp-cloud-run
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

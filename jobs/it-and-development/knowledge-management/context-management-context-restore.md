@@ -4,7 +4,7 @@ slug: context-management-context-restore
 language: en
 tagline: "Restore project context from saved handoffs and current evidence."
 jobs: ["it-and-development","management"]
-topics: ["knowledge-management","productivity"]
+topics: ["knowledge-management","productivity","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/context-management-context-restore
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

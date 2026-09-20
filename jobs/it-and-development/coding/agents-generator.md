@@ -4,7 +4,7 @@ slug: agents-generator
 language: en
 tagline: "Generate project-specific AGENTS.md and companion rules by analyzing a real codebase."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","generative-ai-and-llm","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agents-generator
 adapted_from: https://github.com/OJPalenzuela/agents-generator/tree/7a3201208a01bd25e69ad11e665efc1392f5356a

@@ -4,7 +4,7 @@ slug: azure-security-keyvault-secrets-java
 language: en
 tagline: "Manage Azure Key Vault secrets (passwords, API keys, connection strings) using the Java SDK. Store, retrieve, update, list, delete, recover, backup, a"
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-security-keyvault-secrets-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

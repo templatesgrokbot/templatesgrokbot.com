@@ -4,7 +4,7 @@ slug: seo-hreflang
 language: en
 tagline: "Validate and generate hreflang tags for international SEO."
 jobs: ["marketing","it-and-development"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/seo-hreflang
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

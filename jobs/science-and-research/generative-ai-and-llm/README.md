@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for Science and Research
 
-Work with language models, agents and their plumbing. 67 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 70 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Work with language models, agents and their plumbing. 67 Grok Bot templates, 16 
 | [Advanced Evaluation](../../it-and-development/generative-ai-and-llm/advanced-evaluation.md) | Build reliable LLM-as-judge evaluation pipelines with bias mitigation and rubric generation. |
 | [Ai Engineer](../../it-and-development/generative-ai-and-llm/ai-engineer.md) | Designs production AI systems from classical ML to LLM apps, with RAG and agents. |
 | [AI Model Optimization Advisor](ai-model-optimization-advisor.md) | Optimizes AI models through expert guidance on tuning, architecture, data, and deployment. |
+| [Anti Deception](../../it-and-development/generative-ai-and-llm/anti-deception.md) | Detect deception patterns and separate evidence from persuasion before responding. |
 | [Azure Ai Vision Imageanalysis Java](../../it-and-development/generative-ai-and-llm/azure-ai-vision-imageanalysis-java.md) | Analyze images with Azure AI Vision: caption, OCR, objects, tags, people, smart crops. |
 | [Bdi Mental States](../../it-and-development/generative-ai-and-llm/bdi-mental-states.md) | Model agent mental states as beliefs, desires, and intentions using BDI ontology patterns. |
 | [Bdistill Behavioral Xray](../../it-and-development/generative-ai-and-llm/bdistill-behavioral-xray.md) | Probe your own behavioral patterns across 6 dimensions and generate a visual HTML report. |
@@ -53,6 +54,8 @@ Work with language models, agents and their plumbing. 67 Grok Bot templates, 16 
 | [Nlp Engineer](../../it-and-development/generative-ai-and-llm/nlp-engineer.md) | Builds production NLP pipelines for classification, extraction, translation, and sentiment analysis. |
 | [NLP Text Processing Assistant](nlp-text-processing-assistant.md) | NLP analysis and generation assistant for data scientists, turning text into structured insights and content. |
 | [Nowait](../../it-and-development/generative-ai-and-llm/nowait.md) | Suppresses self-reflection tokens during inference to reduce chain-of-thought length by 27-51% while preserving accuracy. Works with RL-based reasonin |
+| [Optimization Bitsandbytes](../../it-and-development/generative-ai-and-llm/optimization-bitsandbytes.md) | Quantizes LLMs to 8-bit or 4-bit to cut memory use by 50-75% for fitting larger models or faster inference. |
+| [Optimization Flash Attention](../../it-and-development/generative-ai-and-llm/optimization-flash-attention.md) | Optimizes transformer attention with Flash Attention for 2-4x speedup and 10-20x memory reduction on long sequences. |
 | [Optimization Hqq](../../it-and-development/generative-ai-and-llm/optimization-hqq.md) | Quantize LLMs to 4/3/2-bit without calibration data, fast and memory-efficient. |
 | [Post Training Grpo Rl Training](../../it-and-development/generative-ai-and-llm/post-training-grpo-rl-training.md) | Guides GRPO/RL fine-tuning of language models with TRL for reasoning and structured tasks. |
 | [Post Training Miles](../../it-and-development/generative-ai-and-llm/post-training-miles.md) | Guides enterprise RL training for large MoE models using miles, a production fork of slime. |

@@ -4,7 +4,7 @@ slug: box-automation
 language: en
 tagline: "Automate Box file operations, search, folders, collaboration, and sign requests via Composio toolkit."
 jobs: ["operations","it-and-development"]
-topics: ["office-tools","productivity"]
+topics: ["office-tools","productivity","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/box-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

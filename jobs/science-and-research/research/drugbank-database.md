@@ -4,7 +4,7 @@ slug: drugbank-database
 language: en
 tagline: "Query and analyze DrugBank data for drug properties, interactions, targets, and chemical structures."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/drugbank-database
 adapted_from: https://www.aitmpl.com/component/skills/scientific/drugbank-database

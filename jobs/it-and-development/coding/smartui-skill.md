@@ -4,7 +4,7 @@ slug: smartui-skill
 language: en
 tagline: "Generate SmartUI visual regression test configs for TestMu AI cloud."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/smartui-skill
 adapted_from: https://github.com/LambdaTest/agent-skills/tree/main/smartui-skill

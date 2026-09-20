@@ -4,7 +4,7 @@ slug: developer-onboarding
 language: en
 tagline: "Guide developers from signup to working code with optimized quickstarts and tutorials."
 jobs: ["it-and-development","product-development","education"]
-topics: ["coding","teaching-and-tutoring"]
+topics: ["coding","teaching-and-tutoring","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/developer-onboarding
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/developer-onboarding

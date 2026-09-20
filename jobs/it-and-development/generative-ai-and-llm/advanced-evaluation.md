@@ -4,7 +4,7 @@ slug: advanced-evaluation
 language: en
 tagline: "Build reliable LLM-as-judge evaluation pipelines with bias mitigation and rubric generation."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","prompt-engineering","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/advanced-evaluation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

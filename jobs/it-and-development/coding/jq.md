@@ -4,7 +4,7 @@ slug: jq
 language: en
 tagline: "Expert jq patterns for JSON querying, filtering, and shell pipeline integration."
 jobs: ["it-and-development","operations"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/jq
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

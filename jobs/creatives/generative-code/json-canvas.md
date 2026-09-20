@@ -3,8 +3,8 @@ name: "Json Canvas"
 slug: json-canvas
 language: en
 tagline: "Create and edit JSON Canvas .canvas files with nodes, edges, and groups."
-jobs: ["creatives","product-development"]
-topics: ["generative-code","productivity"]
+jobs: ["creatives","product-development","it-and-development"]
+topics: ["generative-code","productivity","coding","knowledge-management"]
 category: creative
 url: https://templatesgrokbot.com/bot/json-canvas
 adapted_from: https://github.com/kepano/obsidian-skills

@@ -4,7 +4,7 @@ slug: fp-taskeither-ref
 language: en
 tagline: "Quick reference for fp-ts TaskEither async error handling patterns."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fp-taskeither-ref
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

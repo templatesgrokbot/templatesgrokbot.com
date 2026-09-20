@@ -4,7 +4,7 @@ slug: huggingface-lora-space-builder
 language: en
 tagline: "Build and publish a Gradio demo on Hugging Face Spaces for a user-provided LoRA."
 jobs: ["it-and-development","product-development","science-and-research"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/huggingface-lora-space-builder
 adapted_from: https://github.com/huggingface/skills/tree/main/skills/huggingface-lora-space-builder

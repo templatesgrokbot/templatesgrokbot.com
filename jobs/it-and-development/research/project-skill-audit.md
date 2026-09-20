@@ -3,8 +3,8 @@ name: "Project Template Audit"
 slug: project-skill-audit
 language: en
 tagline: "Audit project workflows and recommend capability updates or additions from session evidence."
-jobs: ["it-and-development","management"]
-topics: ["research","productivity"]
+jobs: ["it-and-development","management","operations"]
+topics: ["research","productivity","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/project-skill-audit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

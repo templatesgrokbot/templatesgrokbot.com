@@ -4,7 +4,7 @@ slug: logic-explain
 language: en
 tagline: "Step-by-step execution traces for code, with name resolution and type transitions."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/logic-explain
 adapted_from: https://github.com/hyhmrright/logic-lens/tree/main/skills/logic-explain

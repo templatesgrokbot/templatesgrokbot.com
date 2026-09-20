@@ -4,7 +4,7 @@ slug: hugging-face-vision-trainer
 language: en
 tagline: "Train vision models on Hugging Face cloud GPUs and save to Hub."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","data-analysis"]
+topics: ["generative-ai-and-llm","data-analysis","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hugging-face-vision-trainer
 adapted_from: https://github.com/huggingface/skills/tree/main/skills/huggingface-vision-trainer

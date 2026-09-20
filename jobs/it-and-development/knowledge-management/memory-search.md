@@ -3,7 +3,7 @@ name: "Memory Search"
 slug: memory-search
 language: en
 tagline: "Search conversation history and semantic memory to recall past discussions and decisions."
-jobs: ["it-and-development","operations"]
+jobs: ["it-and-development","operations","customer-support"]
 topics: ["knowledge-management","research"]
 category: personal
 url: https://templatesgrokbot.com/bot/memory-search

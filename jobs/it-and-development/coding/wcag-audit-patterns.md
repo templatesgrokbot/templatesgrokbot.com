@@ -3,8 +3,8 @@ name: "Wcag Audit Patterns"
 slug: wcag-audit-patterns
 language: en
 tagline: "Audit web content against WCAG 2.2 with actionable remediation steps."
-jobs: ["it-and-development"]
-topics: ["coding"]
+jobs: ["it-and-development","government"]
+topics: ["coding","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wcag-audit-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

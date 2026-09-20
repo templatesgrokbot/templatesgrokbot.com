@@ -4,7 +4,7 @@ slug: agent-installer
 language: en
 tagline: "Browse and install Claude Code agents from a GitHub repository with validation and rollback."
 jobs: ["it-and-development","product-development","operations"]
-topics: ["coding","productivity","cloud-and-devops"]
+topics: ["coding","productivity","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agent-installer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

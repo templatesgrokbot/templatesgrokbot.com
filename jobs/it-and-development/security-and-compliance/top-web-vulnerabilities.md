@@ -3,8 +3,8 @@ name: "Top Web Vulnerabilities"
 slug: top-web-vulnerabilities
 language: en
 tagline: "Reference the top 100 web vulnerabilities by category for assessment and remediation. No scanning or testing. Authorized use only. Educational referen"
-jobs: ["it-and-development","education"]
-topics: ["security-and-compliance","teaching-and-tutoring"]
+jobs: ["it-and-development","education","government"]
+topics: ["security-and-compliance","teaching-and-tutoring","writing-and-content"]
 category: education
 url: https://templatesgrokbot.com/bot/top-web-vulnerabilities
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

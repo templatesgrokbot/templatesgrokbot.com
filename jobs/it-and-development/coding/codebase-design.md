@@ -4,7 +4,7 @@ slug: codebase-design
 language: en
 tagline: "Shared vocabulary for designing deep modules with small interfaces and large implementations."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","design","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/codebase-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

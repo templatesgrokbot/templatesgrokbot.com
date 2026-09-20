@@ -4,7 +4,7 @@ slug: protocol-reverse-engineering
 language: en
 tagline: "Capture, analyze, and document network protocols for security research and debugging."
 jobs: ["it-and-development","science-and-research"]
-topics: ["security-and-compliance","research"]
+topics: ["security-and-compliance","research","teaching-and-tutoring","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/protocol-reverse-engineering
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

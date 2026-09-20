@@ -4,7 +4,7 @@ slug: cli-ui-designer
 language: en
 tagline: "Creates terminal-inspired web interfaces with authentic CLI aesthetics."
 jobs: ["creatives","it-and-development"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cli-ui-designer
 adapted_from: https://www.aitmpl.com/component/agents/development-team/cli-ui-designer

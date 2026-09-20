@@ -4,7 +4,7 @@ slug: fine-tuning-axolotl
 language: en
 tagline: "Guides fine-tuning LLMs with Axolotl: configs, training methods, and debugging."
 jobs: ["science-and-research","it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/fine-tuning-axolotl
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/fine-tuning-axolotl

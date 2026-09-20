@@ -4,7 +4,7 @@ slug: git-pr-workflows-pr-enhance
 language: en
 tagline: "Generate high-quality pull requests with detailed descriptions and review checklists."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/git-pr-workflows-pr-enhance
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

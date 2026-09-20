@@ -4,7 +4,7 @@ slug: query-clarifier
 language: en
 tagline: "Analyzes research queries for clarity and decides if clarification is needed before research starts."
 jobs: ["science-and-research","it-and-development"]
-topics: ["research","prompt-engineering"]
+topics: ["research","prompt-engineering","productivity"]
 category: research
 url: https://templatesgrokbot.com/bot/query-clarifier
 adapted_from: https://www.aitmpl.com/component/agents/deep-research-team/query-clarifier

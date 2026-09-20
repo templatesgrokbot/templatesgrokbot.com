@@ -4,7 +4,7 @@ slug: privilege-escalation-methods
 language: en
 tagline: "Escalate privileges on Linux and Windows systems during authorized penetration tests."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/privilege-escalation-methods
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

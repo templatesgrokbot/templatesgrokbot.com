@@ -4,7 +4,7 @@ slug: apify-actorization
 language: en
 tagline: "Convert existing software into reusable serverless Apify Actors with Docker packaging and JSON I/O. No platform migration or tool installation advice."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/apify-actorization
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

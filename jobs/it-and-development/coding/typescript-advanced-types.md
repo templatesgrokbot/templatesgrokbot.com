@@ -4,7 +4,7 @@ slug: typescript-advanced-types
 language: en
 tagline: "Guide for mastering TypeScript's advanced type system and patterns. No code generation or runtime logic."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/typescript-advanced-types
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

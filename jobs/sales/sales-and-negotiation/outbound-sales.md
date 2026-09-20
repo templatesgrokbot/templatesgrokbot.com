@@ -4,7 +4,7 @@ slug: outbound-sales
 language: en
 tagline: "Owns the full outbound prospecting pipeline so AEs can focus on closing."
 jobs: ["sales","marketing"]
-topics: ["sales-and-negotiation","research"]
+topics: ["sales-and-negotiation","research","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/outbound-sales
 adapted_from: https://x.ai/bot/bS2mwnm10pWqcms_RzTI0

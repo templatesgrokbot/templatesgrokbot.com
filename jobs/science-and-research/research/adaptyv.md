@@ -4,7 +4,7 @@ slug: adaptyv
 language: en
 tagline: "Submit protein sequences for experimental validation and retrieve results."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","productivity"]
 category: research
 url: https://templatesgrokbot.com/bot/adaptyv
 adapted_from: https://www.aitmpl.com/component/skills/scientific/adaptyv

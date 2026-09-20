@@ -3,7 +3,7 @@ name: "Discover Brand Materials"
 slug: brand-voice-discover-brand
 language: en
 tagline: "Searches connected platforms for brand materials and delivers a sorted overview."
-jobs: ["marketing","operations","pr-and-communications"]
+jobs: ["marketing","operations","pr-and-communications","creatives"]
 topics: ["research","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/brand-voice-discover-brand

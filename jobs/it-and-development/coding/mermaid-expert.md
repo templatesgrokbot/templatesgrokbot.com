@@ -4,7 +4,7 @@ slug: mermaid-expert
 language: en
 tagline: "Generate Mermaid diagrams for flowcharts, sequences, ERDs, and architectures."
 jobs: ["it-and-development","creatives"]
-topics: ["coding","design"]
+topics: ["coding","design","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mermaid-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

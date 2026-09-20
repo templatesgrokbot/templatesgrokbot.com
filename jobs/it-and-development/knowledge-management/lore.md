@@ -4,7 +4,7 @@ slug: lore
 language: en
 tagline: "Manage a project's long-term memory as Markdown files in .lore/ for decisions, architecture, and conventions. Not a changelog or dev journal. Not trig"
 jobs: ["it-and-development"]
-topics: ["knowledge-management"]
+topics: ["knowledge-management","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/lore
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

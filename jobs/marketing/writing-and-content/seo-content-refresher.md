@@ -4,7 +4,7 @@ slug: seo-content-refresher
 language: en
 tagline: "Analyze content for outdated stats, dates, and examples, then prioritize refresh actions."
 jobs: ["marketing","writers","product-development"]
-topics: ["writing-and-content","marketing-and-growth","research"]
+topics: ["writing-and-content","marketing-and-growth","research","productivity"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-content-refresher
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

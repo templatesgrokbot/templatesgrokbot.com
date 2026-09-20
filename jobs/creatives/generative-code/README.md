@@ -1,6 +1,6 @@
 # Generative Code templates for Creatives
 
-Scaffold apps, components and whole projects from a brief. 45 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 46 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -50,6 +50,7 @@ Scaffold apps, components and whole projects from a brief. 45 Grok Bot templates
 | [Threejs Postprocessing](threejs-postprocessing.md) | Add screen-space effects like bloom, DOF, and color grading in Three.js. |
 | [Typography First](../../it-and-development/generative-code/typography-first.md) | Generates text-first UI code where typography is the primary visual element. |
 | [Ui Component](../../it-and-development/generative-code/ui-component.md) | Generate a new UI component following StyleSeed design conventions. |
+| [Ui Page](../../it-and-development/generative-code/ui-page.md) | Scaffold a mobile page using StyleSeed layout patterns and components. |
 | [VFX Text Cursor Generator](vfx-text-cursor-generator.md) | Generates a video opening frame with typewriter text, chromatic trails, and light leaks. |
 
 [← All Creatives templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/creatives)

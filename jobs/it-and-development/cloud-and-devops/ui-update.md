@@ -4,7 +4,7 @@ slug: ui-update
 language: en
 tagline: "Update StyleSeed engine files safely with diff review and approval."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ui-update
 adapted_from: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-update

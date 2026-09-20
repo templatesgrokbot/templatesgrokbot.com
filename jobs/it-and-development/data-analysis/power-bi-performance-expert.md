@@ -4,7 +4,7 @@ slug: power-bi-performance-expert
 language: en
 tagline: "Optimizes Power BI model, report, and query performance using Microsoft best practices."
 jobs: ["it-and-development","operations"]
-topics: ["data-analysis","coding"]
+topics: ["data-analysis","coding","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/power-bi-performance-expert
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/power-bi-performance-expert

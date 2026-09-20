@@ -4,7 +4,7 @@ slug: unslop
 language: en
 tagline: "Post-process AI text through unslop CLI to strip AI writing patterns before publishing."
 jobs: ["writers","marketing","it-and-development"]
-topics: ["writing-and-content","prompt-engineering"]
+topics: ["writing-and-content","prompt-engineering","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/unslop
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

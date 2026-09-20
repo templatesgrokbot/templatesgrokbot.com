@@ -4,7 +4,7 @@ slug: data-scientist
 language: en
 tagline: "Analyzes data, builds models, and delivers actionable business insights from complex datasets."
 jobs: ["it-and-development","science-and-research","product-development"]
-topics: ["data-analysis","generative-ai-and-llm","research"]
+topics: ["data-analysis","generative-ai-and-llm","research","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/data-scientist
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

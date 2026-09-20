@@ -3,7 +3,7 @@ name: "Azure Compute Batch Java"
 slug: azure-compute-batch-java
 language: en
 tagline: "Run HPC and parallel batch jobs on Azure with Java SDK"
-jobs: ["it-and-development","operations"]
+jobs: ["it-and-development","operations","science-and-research"]
 topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-compute-batch-java

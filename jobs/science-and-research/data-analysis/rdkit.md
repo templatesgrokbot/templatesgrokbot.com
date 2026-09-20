@@ -4,7 +4,7 @@ slug: rdkit
 language: en
 tagline: "Performs molecular analysis and manipulation for cheminformatics research."
 jobs: ["science-and-research","healthcare"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","coding","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/rdkit
 adapted_from: https://www.aitmpl.com/component/skills/scientific/rdkit

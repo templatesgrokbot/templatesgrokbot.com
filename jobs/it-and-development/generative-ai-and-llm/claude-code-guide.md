@@ -4,7 +4,7 @@ slug: claude-code-guide
 language: en
 tagline: "Provide configuration templates, prompting strategies, and debugging advice for Claude Code."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","prompt-engineering","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/claude-code-guide
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

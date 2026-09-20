@@ -4,7 +4,7 @@ slug: statsmodels
 language: en
 tagline: "Fits and diagnoses statistical models for rigorous inference and forecasting."
 jobs: ["science-and-research","it-and-development"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/statsmodels
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

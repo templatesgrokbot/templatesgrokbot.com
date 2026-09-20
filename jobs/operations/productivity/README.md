@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 191 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 192 Grok Bot templates, 115 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -85,10 +85,11 @@ Plan, prioritise and clear the recurring admin. 191 Grok Bot templates, 114 of t
 | [Inventory Management Assistant](inventory-management-assistant.md) | Automates inventory tracking, forecasting, ordering, and reporting for inventory managers. |
 | [Inventory Tracking Assistant](../../customer-support/productivity/inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |
 | [Invoice Chaser](../../finance/productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
-| [Jev Browser Operator](../../management/productivity/jev-browser-operator.md) | Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final. |
+| [Jev Browser Operator](jev-browser-operator.md) | Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final. |
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
 | [Jobgpt](../../human-resources/productivity/jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |
+| [Kody](../../management/productivity/kody.md) | Coordinates priorities across people, projects, and assistants. |
 | [Lab Maintenance Scheduler](../../science-and-research/productivity/lab-maintenance-scheduler.md) | Builds and manages lab equipment maintenance schedules, checklists, and records for technicians. |
 | [Lab Stock Forecast Alerts](../../science-and-research/productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
 | [Lab Supply Chain Manager](../../science-and-research/productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |

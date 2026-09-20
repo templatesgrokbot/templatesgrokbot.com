@@ -3,7 +3,7 @@ name: "Wireshark Analysis"
 slug: wireshark-analysis
 language: en
 tagline: "Analyze PCAP files with Wireshark filters and statistics for security and performance investigations."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","science-and-research"]
 topics: ["data-analysis","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wireshark-analysis

@@ -3,8 +3,8 @@ name: "Term Sheet Reader"
 slug: term-sheet-reader
 language: en
 tagline: "Explains what a term sheet does to your ownership and control, clause by clause."
-jobs: ["finance","executives-and-strategy"]
-topics: ["research","knowledge-management"]
+jobs: ["finance","executives-and-strategy","legal"]
+topics: ["research","knowledge-management","teaching-and-tutoring"]
 category: finance
 url: https://templatesgrokbot.com/bot/term-sheet-reader
 ---

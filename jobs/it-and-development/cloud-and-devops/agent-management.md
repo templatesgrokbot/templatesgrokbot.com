@@ -4,7 +4,7 @@ slug: agent-management
 language: en
 tagline: "Manage AI agent lifecycle through the AI Maestro CLI."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","generative-ai-and-llm","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/agent-management
 adapted_from: https://www.aitmpl.com/component/skills/ai-maestro/agent-management

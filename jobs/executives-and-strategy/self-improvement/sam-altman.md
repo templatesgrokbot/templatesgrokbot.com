@@ -4,7 +4,7 @@ slug: sam-altman
 language: en
 tagline: "Simulates Sam Altman's perspective on startups, AI, and AGI."
 jobs: ["executives-and-strategy","product-development"]
-topics: ["self-improvement"]
+topics: ["self-improvement","generative-ai-and-llm","teaching-and-tutoring"]
 category: education
 url: https://templatesgrokbot.com/bot/sam-altman
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

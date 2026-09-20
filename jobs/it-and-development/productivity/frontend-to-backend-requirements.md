@@ -4,7 +4,7 @@ slug: frontend-to-backend-requirements
 language: en
 tagline: "Document frontend data needs for backend developers."
 jobs: ["it-and-development","product-development"]
-topics: ["productivity"]
+topics: ["productivity","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/frontend-to-backend-requirements
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/frontend-to-backend-requirements

@@ -4,7 +4,7 @@ slug: cloud-penetration-testing
 language: en
 tagline: "Guide authorized cloud penetration tests across Azure, AWS, and GCP with step-by-step instructions."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cloud-penetration-testing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

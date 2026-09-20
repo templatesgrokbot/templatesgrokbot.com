@@ -4,7 +4,7 @@ slug: odoo-performance-tuner
 language: en
 tagline: "Diagnose and fix Odoo performance issues: slow queries, workers, memory, and PostgreSQL tuning."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/odoo-performance-tuner
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: doordash-order-playbooks
 language: en
 tagline: "Save and recall DoorDash orders with drift detection before checkout."
 jobs: ["operations","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","generative-ai-and-llm"]
 category: personal
 url: https://templatesgrokbot.com/bot/doordash-order-playbooks
 adapted_from: https://www.aitmpl.com/component/skills/doordash/doordash-order-playbooks

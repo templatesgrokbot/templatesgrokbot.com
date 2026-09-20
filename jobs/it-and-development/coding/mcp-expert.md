@@ -4,7 +4,7 @@ slug: mcp-expert
 language: en
 tagline: "Creates and configures MCP server integrations for the cli-tool components system."
 jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mcp-expert
 adapted_from: https://www.aitmpl.com/component/agents/development-tools/mcp-expert

@@ -4,7 +4,7 @@ slug: cmux
 language: en
 tagline: "Inspect, create, close, and rearrange cmux panes, surfaces, and workspaces from macOS terminal workflows."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cmux
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: rayden-code
 language: en
 tagline: "Generate production React code using Rayden UI components and design tokens."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/rayden-code
 adapted_from: https://github.com/playbookTV/rayden-ui-design-skill

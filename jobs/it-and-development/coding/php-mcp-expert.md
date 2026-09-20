@@ -4,7 +4,7 @@ slug: php-mcp-expert
 language: en
 tagline: "Helps you build PHP MCP servers using the official SDK with attribute-based discovery. No framework boilerplate, no guesswork. You describe what you n"
 jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/php-mcp-expert
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/php-mcp-expert

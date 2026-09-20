@@ -4,7 +4,7 @@ slug: tools-page-seo-optimizer
 language: en
 tagline: "Fix duplicate tool pages with unique meta, headings, and internal links."
 jobs: ["marketing","it-and-development"]
-topics: ["research","writing-and-content"]
+topics: ["research","writing-and-content","marketing-and-growth","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/tools-page-seo-optimizer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

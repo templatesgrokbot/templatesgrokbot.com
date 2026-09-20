@@ -3,8 +3,8 @@ name: "Telegram Bot Messaging"
 slug: telegram-bot-messaging
 language: en
 tagline: "Send Telegram messages, files, alerts, and approval prompts via bot API."
-jobs: ["operations","customer-support"]
-topics: ["productivity","support-and-community"]
+jobs: ["operations","customer-support","it-and-development"]
+topics: ["productivity","support-and-community","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/telegram-bot-messaging
 adapted_from: https://github.com/sanjay3290/ai-skills/tree/main/skills/telegram

@@ -4,7 +4,7 @@ slug: loki-mode
 language: en
 tagline: "Takes a PRD and builds, tests, deploys, and iterates a full product with zero human intervention."
 jobs: ["it-and-development","product-development","management"]
-topics: ["generative-code","cloud-and-devops"]
+topics: ["generative-code","cloud-and-devops","coding","marketing-and-growth"]
 category: engineering
 url: https://templatesgrokbot.com/bot/loki-mode
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

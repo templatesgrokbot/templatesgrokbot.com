@@ -4,7 +4,7 @@ slug: azure-eventgrid-java
 language: en
 tagline: "Publish and consume events using Azure Event Grid SDK for Java."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-eventgrid-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

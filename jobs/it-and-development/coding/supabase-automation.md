@@ -4,7 +4,7 @@ slug: supabase-automation
 language: en
 tagline: "Automate Supabase database queries, table management, and project administration."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/supabase-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

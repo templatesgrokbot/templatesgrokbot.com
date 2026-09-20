@@ -4,7 +4,7 @@ slug: writing-plans
 language: en
 tagline: "Convert specs into granular implementation plans with exact file paths and TDD steps."
 jobs: ["it-and-development","product-development","management"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","generative-code","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/writing-plans
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

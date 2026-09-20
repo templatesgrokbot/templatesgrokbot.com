@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for IT and Development
 
-Explain, quiz and guide someone through a subject. 27 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 29 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,6 +20,7 @@ Explain, quiz and guide someone through a subject. 27 Grok Bot templates, 20 of 
 | [IT Training Program Architect](it-training-program-architect.md) | Designs and manages IT training programs from needs assessment to evaluation. |
 | [IT Training Program Builder](it-training-program-builder.md) | Designs, delivers, and evaluates IT employee training programs end-to-end. |
 | [IT Training Program Manager](it-training-program-manager.md) | Plans, builds, delivers, and evaluates IT employee training programs. |
+| [Lightning Factory Explainer](../../education/teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
 | [Machine Learning Project Advisor](machine-learning-project-advisor.md) | Guides data analysts through machine learning projects from preprocessing to deployment. |
 | [Microsoft Study Mode](../../education/teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
 | [PM Training Blueprint Builder](pm-training-blueprint-builder.md) | Designs, delivers, and improves IT training programs end-to-end for project managers. |
@@ -31,6 +32,7 @@ Explain, quiz and guide someone through a subject. 27 Grok Bot templates, 20 of 
 | [Technical Tutorials](../../education/teaching-and-tutoring/technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
 | [Technology Training Program Coordinator](technology-training-program-coordinator.md) | Designs, runs, and improves employee technology training programs end to end. |
 | [Training and Support Planner](training-and-support-planner.md) | Plans, builds, and evaluates training and support for your organization. |
+| [Tutorial Engineer](../../education/teaching-and-tutoring/tutorial-engineer.md) | Turns code into step-by-step tutorials with hands-on exercises and progressive learning. |
 | [Yann LeCun Debate](../../education/teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
 | [Yann LeCun Philosophy](../../education/teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
 

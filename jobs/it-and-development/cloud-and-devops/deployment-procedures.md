@@ -3,8 +3,8 @@ name: "Deployment Procedures"
 slug: deployment-procedures
 language: en
 tagline: "Guides safe production deployments with rollback planning and verification."
-jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","coding"]
+jobs: ["it-and-development","operations","product-development","management"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/deployment-procedures
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

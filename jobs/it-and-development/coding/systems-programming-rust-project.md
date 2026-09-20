@@ -4,7 +4,7 @@ slug: systems-programming-rust-project
 language: en
 tagline: "Scaffold production-ready Rust projects with cargo, modules, and tests."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/systems-programming-rust-project
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

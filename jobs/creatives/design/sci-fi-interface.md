@@ -4,7 +4,7 @@ slug: sci-fi-interface
 language: en
 tagline: "Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes."
 jobs: ["creatives","product-development"]
-topics: ["design"]
+topics: ["design","coding","generative-art"]
 category: engineering
 url: https://templatesgrokbot.com/bot/sci-fi-interface
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

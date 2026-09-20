@@ -4,7 +4,7 @@ slug: hybrid-search-implementation
 language: en
 tagline: "Combine vector and keyword search for better retrieval recall."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","generative-ai-and-llm","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hybrid-search-implementation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

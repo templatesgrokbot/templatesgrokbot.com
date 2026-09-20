@@ -4,7 +4,7 @@ slug: database-migrations-migration-observability
 language: en
 tagline: "Build observability for database migrations with CDC and alerting."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","data-analysis"]
+topics: ["cloud-and-devops","data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/database-migrations-migration-observability
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

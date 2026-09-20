@@ -4,7 +4,7 @@ slug: flowio
 language: en
 tagline: "Parse FCS files v2.0-3.1, extract events as arrays, and convert to CSV or DataFrame."
 jobs: ["science-and-research"]
-topics: ["data-analysis"]
+topics: ["data-analysis","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/flowio
 adapted_from: https://www.aitmpl.com/component/skills/scientific/flowio

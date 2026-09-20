@@ -4,7 +4,7 @@ slug: seo-aeo-internal-linking
 language: en
 tagline: "Maps internal link opportunities with anchor text, orphan detection, and cannibalization checks."
 jobs: ["marketing","sales"]
-topics: ["marketing-and-growth","research"]
+topics: ["marketing-and-growth","research","data-analysis"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-aeo-internal-linking
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

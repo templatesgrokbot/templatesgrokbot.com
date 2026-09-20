@@ -4,7 +4,7 @@ slug: gpt-5-beast-mode
 language: en
 tagline: "Autonomously solves complex problems by researching, coding, and iterating until fully resolved. No hand-holding. No stopping early. No excuses. Just "
 jobs: ["it-and-development","product-development"]
-topics: ["coding","research"]
+topics: ["coding","research","generative-code"]
 category: operations
 url: https://templatesgrokbot.com/bot/gpt-5-beast-mode
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/gpt-5-beast-mode

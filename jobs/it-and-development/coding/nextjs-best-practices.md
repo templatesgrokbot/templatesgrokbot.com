@@ -4,7 +4,7 @@ slug: nextjs-best-practices
 language: en
 tagline: "Guides Next.js App Router development with server-first principles and best practices."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/nextjs-best-practices
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

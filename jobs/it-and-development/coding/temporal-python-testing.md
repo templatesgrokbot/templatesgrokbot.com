@@ -4,7 +4,7 @@ slug: temporal-python-testing
 language: en
 tagline: "Testing strategies for Temporal Python workflows using pytest"
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/temporal-python-testing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

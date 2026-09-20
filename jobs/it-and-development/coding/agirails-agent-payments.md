@@ -4,7 +4,7 @@ slug: agirails-agent-payments
 language: en
 tagline: "Generates USDC payment code for agents earning or paying on Base L2."
 jobs: ["it-and-development","finance"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: finance
 url: https://templatesgrokbot.com/bot/agirails-agent-payments
 adapted_from: https://www.aitmpl.com/component/skills/development/agirails-agent-payments

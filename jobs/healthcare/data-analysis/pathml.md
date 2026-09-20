@@ -4,7 +4,7 @@ slug: pathml
 language: en
 tagline: "Analyze whole-slide pathology images and multiparametric imaging data."
 jobs: ["healthcare","science-and-research"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/pathml
 adapted_from: https://www.aitmpl.com/component/skills/scientific/pathml

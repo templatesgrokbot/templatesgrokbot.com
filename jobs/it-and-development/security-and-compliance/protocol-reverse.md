@@ -3,8 +3,8 @@ name: "Protocol Reverse"
 slug: protocol-reverse
 language: en
 tagline: "Reverse-engineer binary protocols from PCAPs and decode Protobuf/gRPC/WebSocket frames."
-jobs: ["it-and-development"]
-topics: ["security-and-compliance","research"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["security-and-compliance","research","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/protocol-reverse
 adapted_from: https://github.com/zhaoxuya520/reverse-skill

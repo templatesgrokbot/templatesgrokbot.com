@@ -4,7 +4,7 @@ slug: data-engineering-data-pipeline
 language: en
 tagline: "Design and implement scalable batch and streaming data pipelines"
 jobs: ["it-and-development","operations","science-and-research"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/data-engineering-data-pipeline
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

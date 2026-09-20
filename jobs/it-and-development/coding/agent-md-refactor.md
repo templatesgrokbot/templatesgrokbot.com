@@ -4,7 +4,7 @@ slug: agent-md-refactor
 language: en
 tagline: "Refactors bloated agent instruction files into organized, linked documentation following progressive disclosure."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","knowledge-management","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agent-md-refactor
 adapted_from: https://www.aitmpl.com/component/skills/development/agent-md-refactor

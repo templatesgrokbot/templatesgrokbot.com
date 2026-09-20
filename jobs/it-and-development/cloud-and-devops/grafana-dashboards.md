@@ -4,7 +4,7 @@ slug: grafana-dashboards
 language: en
 tagline: "Designs and manages production-ready Grafana dashboards for system observability."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","data-analysis"]
+topics: ["cloud-and-devops","data-analysis","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/grafana-dashboards
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

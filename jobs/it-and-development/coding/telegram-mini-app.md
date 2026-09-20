@@ -4,7 +4,7 @@ slug: telegram-mini-app
 language: en
 tagline: "Designs and builds Telegram Mini Apps with TON, payments, and viral mechanics."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/telegram-mini-app
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

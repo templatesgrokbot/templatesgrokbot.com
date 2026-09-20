@@ -3,7 +3,7 @@ name: "Gdpr Dsgvo Expert"
 slug: gdpr-dsgvo-expert
 language: en
 tagline: "Advises on GDPR/DSGVO compliance, conducts privacy impact assessments, and audits data protection practices."
-jobs: ["legal"]
+jobs: ["legal","government"]
 topics: ["security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/gdpr-dsgvo-expert

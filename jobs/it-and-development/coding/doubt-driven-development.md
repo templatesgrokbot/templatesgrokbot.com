@@ -4,7 +4,7 @@ slug: doubt-driven-development
 language: en
 tagline: "Cross-examine non-trivial decisions with a fresh-context adversarial review before they stand."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","self-improvement"]
+topics: ["coding","self-improvement","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/doubt-driven-development
 adapted_from: https://github.com/addyosmani/agent-skills/tree/main/skills/doubt-driven-development

@@ -4,7 +4,7 @@ slug: rote
 language: en
 tagline: "Compiles proven agent templates into deterministic pipelines and serves them as MCP tools."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/rote
 adapted_from: https://www.aitmpl.com/component/skills/workflow-automation/rote

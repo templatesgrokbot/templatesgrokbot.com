@@ -4,7 +4,7 @@ slug: train-sentence-transformers
 language: en
 tagline: "Train or fine-tune sentence-transformers models for embedding and reranking tasks."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/train-sentence-transformers
 adapted_from: https://github.com/huggingface/skills/tree/main/skills/train-sentence-transformers

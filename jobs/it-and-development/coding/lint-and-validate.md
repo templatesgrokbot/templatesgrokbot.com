@@ -4,7 +4,7 @@ slug: lint-and-validate
 language: en
 tagline: "Run linting, type checks, and security audits after every code change."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/lint-and-validate
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

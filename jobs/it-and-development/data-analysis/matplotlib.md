@@ -4,7 +4,7 @@ slug: matplotlib
 language: en
 tagline: "Generate publication-quality Matplotlib plot code from your data descriptions."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","generative-code"]
+topics: ["data-analysis","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/matplotlib
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

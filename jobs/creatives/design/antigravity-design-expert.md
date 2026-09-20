@@ -4,7 +4,7 @@ slug: antigravity-design-expert
 language: en
 tagline: "Build spatial, glassmorphic, motion-heavy web interfaces with GSAP and 3D CSS."
 jobs: ["creatives","it-and-development","product-development"]
-topics: ["design","generative-code","prompt-engineering"]
+topics: ["design","generative-code","prompt-engineering","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/antigravity-design-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

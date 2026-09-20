@@ -4,7 +4,7 @@ slug: azure-servicebus-py
 language: en
 tagline: "Send and receive messages via Azure Service Bus queues, topics, and subscriptions."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-servicebus-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

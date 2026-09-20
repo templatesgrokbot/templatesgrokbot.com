@@ -4,7 +4,7 @@ slug: auction-analyst-ai
 language: en
 tagline: "Analyzes notices, risks, and property value in judicial and extrajudicial auctions."
 jobs: ["real-estate-and-construction","finance"]
-topics: ["data-analysis"]
+topics: ["data-analysis","research"]
 category: finance
 url: https://templatesgrokbot.com/bot/auction-analyst-ai
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

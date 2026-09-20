@@ -3,7 +3,7 @@ name: "Auto Research"
 slug: auto-research
 language: en
 tagline: "Research uncertain questions via web or ChatGPT with user approval before implementation."
-jobs: ["science-and-research","management","product-development"]
+jobs: ["science-and-research","management","product-development","it-and-development"]
 topics: ["research"]
 category: research
 url: https://templatesgrokbot.com/bot/auto-research

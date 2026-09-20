@@ -4,7 +4,7 @@ slug: web-artifacts-builder
 language: en
 tagline: "Builds complex multi-component HTML artifacts with React, Tailwind CSS, and shadcn/ui."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code","coding"]
+topics: ["generative-code","coding","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/web-artifacts-builder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

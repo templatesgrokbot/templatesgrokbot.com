@@ -4,7 +4,7 @@ slug: bicep-implement
 language: en
 tagline: "Creates Azure Bicep templates from user requirements."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bicep-implement
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/bicep-implement

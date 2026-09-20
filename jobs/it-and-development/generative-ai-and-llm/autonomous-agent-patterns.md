@@ -4,7 +4,7 @@ slug: autonomous-agent-patterns
 language: en
 tagline: "Explain and provide code examples for autonomous coding agent design patterns."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/autonomous-agent-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

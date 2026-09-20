@@ -3,7 +3,7 @@ name: "Mobile Design"
 slug: mobile-design
 language: en
 tagline: "Guide mobile-first design decisions for iOS and Android with platform conventions and touch psychology."
-jobs: ["product-development","it-and-development"]
+jobs: ["product-development","it-and-development","creatives"]
 topics: ["design","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mobile-design

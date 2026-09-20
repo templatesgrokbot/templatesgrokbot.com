@@ -4,7 +4,7 @@ slug: docs-generator
 language: en
 tagline: "Generate structured security reports from completed analysis with evidence-backed templates."
 jobs: ["it-and-development","legal"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/docs-generator
 adapted_from: https://github.com/zhaoxuya520/reverse-skill

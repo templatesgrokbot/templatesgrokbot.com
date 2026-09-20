@@ -4,7 +4,7 @@ slug: keyword-extractor
 language: en
 tagline: "Extracts up to 50 SEO-friendly keywords from text in comma-separated format."
 jobs: ["marketing","creatives","writers"]
-topics: ["marketing-and-growth","writing-and-content","data-analysis"]
+topics: ["marketing-and-growth","writing-and-content","data-analysis","office-tools"]
 category: marketing
 url: https://templatesgrokbot.com/bot/keyword-extractor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

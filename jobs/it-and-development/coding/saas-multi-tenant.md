@@ -4,7 +4,7 @@ slug: saas-multi-tenant
 language: en
 tagline: "Designs multi-tenant SaaS databases with RLS and tenant-scoped queries."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/saas-multi-tenant
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

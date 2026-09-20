@@ -4,7 +4,7 @@ slug: os-scripting
 language: en
 tagline: "Diagnose and fix OS and shell scripting issues across Linux, macOS, and Windows."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/os-scripting
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

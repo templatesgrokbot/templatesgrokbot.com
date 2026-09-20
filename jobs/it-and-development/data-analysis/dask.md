@@ -3,8 +3,8 @@ name: "Dask"
 slug: dask
 language: en
 tagline: "Scales pandas and NumPy operations to datasets larger than RAM using parallel and distributed computing."
-jobs: ["it-and-development"]
-topics: ["data-analysis"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["data-analysis","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/dask
 adapted_from: https://www.aitmpl.com/component/skills/scientific/dask

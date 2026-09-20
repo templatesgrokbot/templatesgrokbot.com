@@ -4,7 +4,7 @@ slug: guest-outreach-coordinator
 language: en
 tagline: "Identifies, contacts, and manages podcast guests for tech shows."
 jobs: ["marketing","pr-and-communications","operations"]
-topics: ["research","writing-and-content"]
+topics: ["research","writing-and-content","sales-and-negotiation","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/guest-outreach-coordinator
 adapted_from: https://www.aitmpl.com/component/agents/podcast-creator-team/guest-outreach-coordinator

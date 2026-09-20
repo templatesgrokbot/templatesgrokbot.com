@@ -4,7 +4,7 @@ slug: agents-langchain
 language: en
 tagline: "Build LLM applications with agents, chains, and RAG pipelines. No prototyping boilerplate. No provider lock-in. No manual memory management. Just work"
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","coding","prompt-engineering"]
 category: operations
 url: https://templatesgrokbot.com/bot/agents-langchain
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/agents-langchain

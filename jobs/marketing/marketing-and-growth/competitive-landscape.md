@@ -4,7 +4,7 @@ slug: competitive-landscape
 language: en
 tagline: "Map competitors, find gaps, and craft defensible market positioning strategies."
 jobs: ["marketing","executives-and-strategy","product-development"]
-topics: ["marketing-and-growth","research"]
+topics: ["marketing-and-growth","research","data-analysis"]
 category: marketing
 url: https://templatesgrokbot.com/bot/competitive-landscape
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

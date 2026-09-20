@@ -4,7 +4,7 @@ slug: azure-ai-projects-ts
 language: en
 tagline: "Manage Azure AI Foundry agents, connections, deployments, and evaluations via TypeScript SDK. No model training or deployment orchestration. Hand off."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-projects-ts
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

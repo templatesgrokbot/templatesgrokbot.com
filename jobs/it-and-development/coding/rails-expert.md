@@ -4,7 +4,7 @@ slug: rails-expert
 language: en
 tagline: "Build, modernize, and optimize Rails applications with full-stack expertise and Rails-idiomatic patterns."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/rails-expert
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/rails-expert

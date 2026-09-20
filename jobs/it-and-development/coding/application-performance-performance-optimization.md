@@ -4,7 +4,7 @@ slug: application-performance-performance-optimization
 language: en
 tagline: "Profile, tune, and validate application performance across the full stack."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/application-performance-performance-optimization
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

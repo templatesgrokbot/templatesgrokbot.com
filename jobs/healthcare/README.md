@@ -1,6 +1,6 @@
 # Grok Bot templates for Healthcare
 
-Clinicians, care teams and health administrators. **128 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Clinicians, care teams and health administrators. **136 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,16 +12,17 @@ Clinicians, care teams and health administrators. **128 ready-made Grok Bot temp
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 44 |
-| [Security & Compliance](security-and-compliance/README.md) | 28 |
-| [Productivity](productivity/README.md) | 18 |
-| [Research](research/README.md) | 15 |
-| [Writing & Content](writing-and-content/README.md) | 8 |
-| [Self-Improvement](self-improvement/README.md) | 7 |
+| [Security & Compliance](security-and-compliance/README.md) | 29 |
+| [Productivity](productivity/README.md) | 19 |
+| [Research](research/README.md) | 17 |
+| [Self-Improvement](self-improvement/README.md) | 9 |
+| [Writing & Content](writing-and-content/README.md) | 9 |
 | [Knowledge Management](knowledge-management/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Design](design/README.md) | 1 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
+| [Speech-To-Text](speech-to-text/README.md) | 1 |
 | [Support & Community](support-and-community/README.md) | 1 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 
@@ -99,6 +100,7 @@ Clinicians, care teams and health administrators. **128 ready-made Grok Bot temp
 | [Post-Market Surveillance Reporter](../government/security-and-compliance/post-market-surveillance-reporter.md) | Post-market surveillance and reporting assistant for regulatory affairs specialists. |
 | [PPE Management Assistant](security-and-compliance/ppe-management-assistant.md) | Manages PPE inventory, selection, training, compliance, and records for workplace safety. |
 | [QC Compliance Report Builder](../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
+| [Quality Manager Qmr](../operations/security-and-compliance/quality-manager-qmr.md) | Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies. |
 | [Regulatory Compliance Navigator](../executives-and-strategy/security-and-compliance/regulatory-compliance-navigator.md) | Tracks regulatory changes, builds compliance programs, and prepares audit-ready documentation for your organization. |
 | [Risk Control Hazard Finder](security-and-compliance/risk-control-hazard-finder.md) | Hazard identification assistant for health and safety specialists, turning data into risk controls. |
 | [Safety Audit Assistant](security-and-compliance/safety-audit-assistant.md) | Streamlines safety audits by generating checklists, analyzing records, and assessing compliance. |
@@ -125,6 +127,7 @@ Clinicians, care teams and health administrators. **128 ready-made Grok Bot temp
 | [Medical Records Clerk Scheduler](productivity/medical-records-clerk-scheduler.md) | Schedules patient appointments, sends reminders, and manages follow-ups for medical records clerks. |
 | [Operations Crisis Navigator](../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
 | [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
+| [Outlook Calendar Automation](../management/productivity/outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
 | [Patient Account Management Assistant](productivity/patient-account-management-assistant.md) | Streamlines patient account workflows from verification to collections with accurate, compliant handling. |
 | [Professional Development Tracker](../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
 | [Safety Training and Drill Coordinator](productivity/safety-training-and-drill-coordinator.md) | Coordinates safety training and drills for health and safety specialists, from scheduling to compliance tracking. |
@@ -138,6 +141,7 @@ Clinicians, care teams and health administrators. **128 ready-made Grok Bot temp
 | [Clinical Decision Support](../science-and-research/research/clinical-decision-support.md) | Generates publication-ready clinical decision support documents for pharmaceutical research and evidence synthesis. |
 | [Clinical Reports](../science-and-research/research/clinical-reports.md) | Writes clinical reports with regulatory compliance and validation tools. |
 | [Clinicaltrials Database](../science-and-research/research/clinicaltrials-database.md) | Search and retrieve clinical trial data from ClinicalTrials.gov API v2. |
+| [Clinpgx Database](../science-and-research/research/clinpgx-database.md) | Queries ClinPGx pharmacogenomics data for gene-drug interactions, CPIC guidelines, and allele functions. |
 | [Clinvar Database](../science-and-research/research/clinvar-database.md) | Query ClinVar for variant clinical significance and pathogenicity classifications. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Ergonomics Improvement Assistant](research/ergonomics-improvement-assistant.md) | Assesses and improves workplace ergonomics to reduce injury risk and boost comfort. |
 | [Fda Database](../science-and-research/research/fda-database.md) | Query openFDA for drug, device, adverse event, recall, and regulatory data. |
@@ -146,27 +150,17 @@ Clinicians, care teams and health administrators. **128 ready-made Grok Bot temp
 | [Infection Control Strategist](../science-and-research/research/infection-control-strategist.md) | Infection control research, policy, training, and outbreak response support for microbiologists. |
 | [Neurokit2](../science-and-research/research/neurokit2.md) | Processes physiological signals (ECG, EEG, EDA, RSP, EMG, EOG) into clean metrics and analyses for research or clinical use. |
 | [Pyhealth](research/pyhealth.md) | Build and deploy clinical ML models for EHR data, mortality prediction, and drug recommendation. |
+| [Scientific Critical Thinking](../science-and-research/research/scientific-critical-thinking.md) | Evaluates scientific research rigor, methodology, and evidence quality for critical analysis. |
 | [String Database](../science-and-research/research/string-database.md) | Fetch protein-protein interactions and functional enrichment from the STRING database. |
 | [Travel Health Analyzer](research/travel-health-analyzer.md) | Analyze travel health risks, recommend vaccines, and generate multilingual emergency cards using WHO/CDC data. All advice requires doctor review. No d |
 | [Uniprot Database](../science-and-research/research/uniprot-database.md) | Retrieve protein sequences, annotations, and ID mappings from UniProt via REST API. |
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Clinical Data Training Developer](writing-and-content/clinical-data-training-developer.md) | Builds clinical data management training content, from modules to certification prep. |
-| [Medical Records Training Module Builder](writing-and-content/medical-records-training-module-builder.md) | Builds complete training modules for medical records clerks, from research to final content. |
-| [Patient Communication Script Generator](writing-and-content/patient-communication-script-generator.md) | Crafts personalized patient communication scripts for medical records clerks. |
-| [Patient History Summarizer](writing-and-content/patient-history-summarizer.md) | Summarizes patient medical histories accurately and concisely for records clerks. |
-| [Safety Training Developer](writing-and-content/safety-training-developer.md) | Develops, updates, and localizes workplace safety training materials and assessments. |
-| [SOP Writer](../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
-| [Treatment Plans](writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |
-| [Workplace Wellness Program Coordinator](writing-and-content/workplace-wellness-program-coordinator.md) | Designs, promotes, and evaluates workplace wellness programs from surveys to policies. |
 
 ## Self-Improvement
 
 | Template | What it does |
 |---|---|
+| [Difficult Workplace Conversations](../human-resources/self-improvement/difficult-workplace-conversations.md) | Prepares you for workplace conflicts, performance talks, and sensitive feedback using a structured framework. |
+| [Feedback Mastery](../management/self-improvement/feedback-mastery.md) | Prepare, deliver, and follow up on constructive feedback using structured frameworks. |
 | [Goal Analyzer](self-improvement/goal-analyzer.md) | Analyze health goal data, assess progress, and provide personalized management suggestions. |
 | [Quit Sponsor](self-improvement/quit-sponsor.md) | Non-judgmental quit-smoking companion with craving check-ins and evidence-based planning. |
 | [Satori](../education/self-improvement/satori.md) | A structured thinking partner blending psychology and philosophy for inner exploration. |
@@ -174,6 +168,20 @@ Clinicians, care teams and health administrators. **128 ready-made Grok Bot temp
 | [Sleep Coach](self-improvement/sleep-coach.md) | Correlates what you did each day with how you slept and names the one habit to change. |
 | [Vocal Health Companion](../creatives/self-improvement/vocal-health-companion.md) | Daily vocal health guidance for singers and songwriters, from warm-ups to recovery. |
 | [Weightloss Analyzer](self-improvement/weightloss-analyzer.md) | Analyze weight data, calculate metabolism, and track energy deficit for safe weight loss. |
+
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Clinical Data Training Developer](writing-and-content/clinical-data-training-developer.md) | Builds clinical data management training content, from modules to certification prep. |
+| [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
+| [Medical Records Training Module Builder](writing-and-content/medical-records-training-module-builder.md) | Builds complete training modules for medical records clerks, from research to final content. |
+| [Patient Communication Script Generator](writing-and-content/patient-communication-script-generator.md) | Crafts personalized patient communication scripts for medical records clerks. |
+| [Patient History Summarizer](writing-and-content/patient-history-summarizer.md) | Summarizes patient medical histories accurately and concisely for records clerks. |
+| [Safety Training Developer](writing-and-content/safety-training-developer.md) | Develops, updates, and localizes workplace safety training materials and assessments. |
+| [SOP Writer](../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
+| [Treatment Plans](writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |
+| [Workplace Wellness Program Coordinator](writing-and-content/workplace-wellness-program-coordinator.md) | Designs, promotes, and evaluates workplace wellness programs from surveys to policies. |
 
 ## Knowledge Management
 
@@ -205,6 +213,12 @@ Clinicians, care teams and health administrators. **128 ready-made Grok Bot temp
 | Template | What it does |
 |---|---|
 | [Appointment Scheduling Assistant](../customer-support/office-tools/appointment-scheduling-assistant.md) | Handles appointment scheduling, reminders, rescheduling, and tracking for receptionists. |
+
+## Speech-To-Text
+
+| Template | What it does |
+|---|---|
+| [Transcribe](../operations/speech-to-text/transcribe.md) | Transcribes audio files to text with optional speaker labels. |
 
 ## Support & Community
 

@@ -3,7 +3,7 @@ name: "Internal Comms Drafter"
 slug: internal-comms
 language: en
 tagline: "Draft internal company messages in repeatable formats for review."
-jobs: ["pr-and-communications","management"]
+jobs: ["pr-and-communications","management","human-resources"]
 topics: ["writing-and-content","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/internal-comms

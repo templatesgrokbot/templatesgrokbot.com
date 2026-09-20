@@ -4,7 +4,7 @@ slug: neuropixels-analysis
 language: en
 tagline: "Analyzes Neuropixels recordings from raw data to curated units."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","data-analysis","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/neuropixels-analysis
 adapted_from: https://www.aitmpl.com/component/skills/scientific/neuropixels-analysis

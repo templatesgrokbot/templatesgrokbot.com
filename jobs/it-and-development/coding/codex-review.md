@@ -4,7 +4,7 @@ slug: codex-review
 language: en
 tagline: "Reviews staged code changes and generates a CHANGELOG entry before each commit."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/codex-review
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

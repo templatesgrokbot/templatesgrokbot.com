@@ -4,7 +4,7 @@ slug: get-available-resources
 language: en
 tagline: "Detects system resources and recommends optimal computational strategies for scientific tasks."
 jobs: ["it-and-development","science-and-research"]
-topics: ["research"]
+topics: ["research","cloud-and-devops"]
 category: research
 url: https://templatesgrokbot.com/bot/get-available-resources
 adapted_from: https://www.aitmpl.com/component/skills/scientific/get-available-resources

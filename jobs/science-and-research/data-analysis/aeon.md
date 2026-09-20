@@ -4,7 +4,7 @@ slug: aeon
 language: en
 tagline: "Runs time series ML tasks using the aeon Python toolkit."
 jobs: ["science-and-research"]
-topics: ["data-analysis"]
+topics: ["data-analysis","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/aeon
 adapted_from: https://www.aitmpl.com/component/skills/scientific/aeon

@@ -4,7 +4,7 @@ slug: saga-orchestration
 language: en
 tagline: "Coordinate distributed transactions and long-running business processes with compensating actions."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/saga-orchestration
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,7 +3,7 @@ name: "Azure Ai Document Intelligence Dotnet"
 slug: azure-ai-document-intelligence-dotnet
 language: en
 tagline: "Extract text, tables, and structured data from documents using Azure AI Document Intelligence."
-jobs: ["it-and-development","operations"]
+jobs: ["it-and-development","operations","insurance","legal"]
 topics: ["data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-document-intelligence-dotnet

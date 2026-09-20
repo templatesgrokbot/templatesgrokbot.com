@@ -4,7 +4,7 @@ slug: logistics-exception-management
 language: en
 tagline: "Resolve freight exceptions, delays, damages, and carrier disputes with structured workflows."
 jobs: ["operations","customer-support","management"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","support-and-community","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/logistics-exception-management
 adapted_from: https://github.com/ai-evos/agent-skills

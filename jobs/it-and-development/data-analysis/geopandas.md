@@ -3,8 +3,8 @@ name: "Geopandas"
 slug: geopandas
 language: en
 tagline: "Reads, analyzes, and transforms geospatial vector data using Python."
-jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis"]
+jobs: ["it-and-development","science-and-research","government"]
+topics: ["data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/geopandas
 adapted_from: https://www.aitmpl.com/component/skills/scientific/geopandas

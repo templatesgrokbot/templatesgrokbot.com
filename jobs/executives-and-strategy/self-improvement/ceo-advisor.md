@@ -4,7 +4,7 @@ slug: ceo-advisor
 language: en
 tagline: "Provide executive leadership guidance for strategic decisions, board preparation, and stakeholder management."
 jobs: ["executives-and-strategy","management","operations"]
-topics: ["self-improvement","research","productivity"]
+topics: ["self-improvement","research","productivity","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/ceo-advisor
 adapted_from: https://www.aitmpl.com/component/skills/business-marketing/ceo-advisor

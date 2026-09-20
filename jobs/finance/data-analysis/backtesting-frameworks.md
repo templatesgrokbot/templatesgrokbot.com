@@ -4,7 +4,7 @@ slug: backtesting-frameworks
 language: en
 tagline: "Build robust backtesting systems with realistic cost models and walk-forward analysis."
 jobs: ["finance","it-and-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/backtesting-frameworks
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

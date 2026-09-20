@@ -3,7 +3,7 @@ name: "Social Post Writer Seo"
 slug: social-post-writer-seo
 language: en
 tagline: "Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook."
-jobs: ["marketing","creatives"]
+jobs: ["marketing","creatives","hospitality-and-events","writers"]
 topics: ["social-media","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/social-post-writer-seo

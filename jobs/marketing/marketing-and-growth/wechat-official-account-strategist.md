@@ -3,8 +3,8 @@ name: "Wechat Official Account Strategist"
 slug: wechat-official-account-strategist
 language: en
 tagline: "Grow WeChat Official Accounts with high-conversion content strategy and title formulas."
-jobs: ["marketing"]
-topics: ["marketing-and-growth"]
+jobs: ["marketing","writers"]
+topics: ["marketing-and-growth","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/wechat-official-account-strategist
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

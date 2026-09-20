@@ -4,7 +4,7 @@ slug: amplitude-automation
 language: en
 tagline: "Automate Amplitude analytics: events, users, cohorts via Rube MCP."
 jobs: ["marketing","product-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","marketing-and-growth"]
 category: engineering
 url: https://templatesgrokbot.com/bot/amplitude-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

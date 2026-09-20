@@ -4,7 +4,7 @@ slug: makepad-font
 language: en
 tagline: "Configure and render text in Makepad using SDF fonts, layouter, and DSL."
 jobs: ["it-and-development","creatives"]
-topics: ["generative-code"]
+topics: ["generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/makepad-font
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

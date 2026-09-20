@@ -4,7 +4,7 @@ slug: ecl-harness-engineer
 language: en
 tagline: "Create or audit Agent Harness infrastructure: AGENTS.md, change tracking, CI gates."
 jobs: ["it-and-development","product-development","management"]
-topics: ["generative-code","cloud-and-devops"]
+topics: ["generative-code","cloud-and-devops","generative-ai-and-llm","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ecl-harness-engineer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

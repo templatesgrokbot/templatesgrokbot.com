@@ -4,7 +4,7 @@ slug: screenshot
 language: en
 tagline: "Captures desktop screenshots on macOS, Linux, or Windows when explicitly requested."
 jobs: ["it-and-development","customer-support"]
-topics: ["productivity"]
+topics: ["productivity","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/screenshot
 adapted_from: https://www.aitmpl.com/component/skills/media/screenshot

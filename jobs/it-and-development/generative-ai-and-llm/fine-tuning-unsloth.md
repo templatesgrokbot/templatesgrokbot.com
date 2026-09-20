@@ -4,7 +4,7 @@ slug: fine-tuning-unsloth
 language: en
 tagline: "Guides fast fine-tuning of LLMs using Unsloth with LoRA/QLoRA."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/fine-tuning-unsloth
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/fine-tuning-unsloth

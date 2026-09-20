@@ -3,7 +3,7 @@ name: "Jev Browser Operator"
 slug: jev-browser-operator
 language: en
 tagline: "Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final."
-jobs: ["management","operations"]
+jobs: ["operations"]
 topics: ["productivity","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/jev-browser-operator

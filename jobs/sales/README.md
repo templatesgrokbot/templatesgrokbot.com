@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **407 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **410 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,12 +14,12 @@ Prospecting, pipeline and closing. **407 ready-made Grok Bot templates** for thi
 | [Marketing & Growth](marketing-and-growth/README.md) | 107 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 103 |
 | [Data Analysis](data-analysis/README.md) | 92 |
-| [Research](research/README.md) | 33 |
+| [Research](research/README.md) | 34 |
 | [Writing & Content](writing-and-content/README.md) | 17 |
 | [Security & Compliance](security-and-compliance/README.md) | 10 |
-| [Productivity](productivity/README.md) | 7 |
+| [Productivity](productivity/README.md) | 8 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
 | [Social Media](social-media/README.md) | 7 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 7 |
 | [Support & Community](support-and-community/README.md) | 6 |
 | [Office Tools](office-tools/README.md) | 5 |
 | [Design](design/README.md) | 4 |
@@ -81,13 +81,13 @@ Prospecting, pipeline and closing. **407 ready-made Grok Bot templates** for thi
 | [Crypto Bd Agent](research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Salary Negotiation Prep](../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
+| [Deepapi](../operations/research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 | [Persona Workshop Facilitator](../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Apify Market Research](../marketing/research/apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
 | [Partnership Pipeline Researcher](../executives-and-strategy/research/partnership-pipeline-researcher.md) | Finds and vets partners, events, and outreach for your business development pipeline. |
-| [Technology Adoption Advisor](research/technology-adoption-advisor.md) | Guides CSOs through technology evaluation and adoption, from research to roadmap. |
 
-[All 33 Research templates →](research/README.md)
+[All 34 Research templates →](research/README.md)
 
 ## Writing & Content
 
@@ -129,7 +129,21 @@ Prospecting, pipeline and closing. **407 ready-made Grok Bot templates** for thi
 | [Revops](../operations/productivity/revops.md) | Design and optimize revenue operations, lead lifecycle, scoring, routing, and CRM automation. |
 | [Strategic Planning Facilitator](productivity/strategic-planning-facilitator.md) | Facilitates strategic planning for CSOs from goal setting to review. |
 | [Pharma Event Planning Assistant](productivity/pharma-event-planning-assistant.md) | Plans, promotes, and manages pharmaceutical events and conferences end-to-end. |
+| [Notion Meeting Intelligence](../management/productivity/notion-meeting-intelligence.md) | Prep meeting agendas and pre-reads using Notion context and Codex research. |
 | [Shopify Automation](../operations/productivity/shopify-automation.md) | Automate Shopify product, order, customer, inventory, and collection tasks via Rube MCP. |
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Team Training Program Designer](teaching-and-tutoring/team-training-program-designer.md) | Designs and runs team training programs for business development managers. |
+| [Sales Training Program Builder](teaching-and-tutoring/sales-training-program-builder.md) | Builds and runs a complete sales training program with coaching, materials, and performance tracking. |
+| [Pitch Rehearsal](../education/teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
+| [Sales Onboarding Program Builder](teaching-and-tutoring/sales-onboarding-program-builder.md) | Designs and runs complete sales onboarding and training programs for new staff. |
+| [Sales Training Program Designer](teaching-and-tutoring/sales-training-program-designer.md) | Designs and manages employee training and development programs for a sales organization. |
+| [Training Program Developer](teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
+| [Sales Training Module Architect](../executives-and-strategy/teaching-and-tutoring/sales-training-module-architect.md) | Builds and maintains sales training modules that improve team performance. |
+| [Sales Training Program Architect](teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
 
 ## Social Media
 
@@ -142,18 +156,6 @@ Prospecting, pipeline and closing. **407 ready-made Grok Bot templates** for thi
 | [Social Media Management Assistant](social-media/social-media-management-assistant.md) | Plans, creates, and manages social media content and engagement for digital marketing managers. |
 | [Social Media Sales Intelligence](social-media/social-media-sales-intelligence.md) | Turns social media chatter into sales intelligence: competitors, trends, sentiment, influencers, and campaign impact. |
 | [Brand Reputation Sentinel](social-media/brand-reputation-sentinel.md) | Monitors and manages your brand's online reputation across platforms. |
-
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Team Training Program Designer](teaching-and-tutoring/team-training-program-designer.md) | Designs and runs team training programs for business development managers. |
-| [Sales Training Program Builder](teaching-and-tutoring/sales-training-program-builder.md) | Builds and runs a complete sales training program with coaching, materials, and performance tracking. |
-| [Sales Onboarding Program Builder](teaching-and-tutoring/sales-onboarding-program-builder.md) | Designs and runs complete sales onboarding and training programs for new staff. |
-| [Sales Training Program Designer](teaching-and-tutoring/sales-training-program-designer.md) | Designs and manages employee training and development programs for a sales organization. |
-| [Training Program Developer](teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
-| [Sales Training Module Architect](../executives-and-strategy/teaching-and-tutoring/sales-training-module-architect.md) | Builds and maintains sales training modules that improve team performance. |
-| [Sales Training Program Architect](teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
 
 ## Support & Community
 

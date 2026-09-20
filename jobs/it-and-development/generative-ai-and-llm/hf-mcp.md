@@ -4,7 +4,7 @@ slug: hf-mcp
 language: en
 tagline: "Search Hugging Face Hub, run GPU jobs, and use Gradio Spaces as tools."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hf-mcp
 adapted_from: https://github.com/huggingface/skills/tree/main/hf-mcp/skills/hf-mcp

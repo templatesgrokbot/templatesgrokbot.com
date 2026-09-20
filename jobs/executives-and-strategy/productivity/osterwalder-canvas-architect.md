@@ -4,7 +4,7 @@ slug: osterwalder-canvas-architect
 language: en
 tagline: "Iteratively build and audit logically consistent 9-block Business Model Canvases."
 jobs: ["executives-and-strategy","management"]
-topics: ["productivity"]
+topics: ["productivity","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/osterwalder-canvas-architect
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: pipecat-friday-agent
 language: en
 tagline: "Build an Iron Man-inspired tactical voice assistant with Pipecat, Gemini, and OpenAI."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm","text-to-speech"]
+topics: ["coding","generative-ai-and-llm","text-to-speech","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pipecat-friday-agent
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: java-pro
 language: en
 tagline: "Expert guidance on Java 21+ idioms, Spring Boot 3, and production JVM patterns."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/java-pro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

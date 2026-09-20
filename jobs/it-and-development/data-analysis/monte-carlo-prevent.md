@@ -4,7 +4,7 @@ slug: monte-carlo-prevent
 language: en
 tagline: "Surfaces Monte Carlo data observability context before SQL/dbt edits."
 jobs: ["it-and-development","operations"]
-topics: ["data-analysis","coding"]
+topics: ["data-analysis","coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/monte-carlo-prevent
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

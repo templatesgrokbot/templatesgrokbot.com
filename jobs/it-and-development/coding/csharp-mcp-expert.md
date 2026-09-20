@@ -4,7 +4,7 @@ slug: csharp-mcp-expert
 language: en
 tagline: "Build production-ready MCP servers in C# with expert guidance on SDK, DI, and best practices."
 jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/csharp-mcp-expert
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/csharp-mcp-expert

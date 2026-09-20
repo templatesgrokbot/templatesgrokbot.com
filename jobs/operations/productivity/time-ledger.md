@@ -3,8 +3,8 @@ name: "Time Ledger"
 slug: time-ledger
 language: en
 tagline: "Parse natural-language time reports into your Notion database, asking when unsure."
-jobs: ["operations","management"]
-topics: ["productivity","data-analysis"]
+jobs: ["operations","management","it-and-development"]
+topics: ["productivity","data-analysis","self-improvement"]
 category: personal
 url: https://templatesgrokbot.com/bot/time-ledger
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

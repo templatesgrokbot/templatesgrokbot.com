@@ -4,7 +4,7 @@ slug: y2k-design
 language: en
 tagline: "Generate Y2K aesthetic UI with chrome, blobs, and neon glow."
 jobs: ["creatives","marketing","it-and-development"]
-topics: ["design","generative-art"]
+topics: ["design","generative-art","generative-code","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/y2k-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

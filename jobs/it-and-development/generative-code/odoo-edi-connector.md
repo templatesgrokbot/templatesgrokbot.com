@@ -4,7 +4,7 @@ slug: odoo-edi-connector
 language: en
 tagline: "Map EDI X12/EDIFACT to Odoo objects and automate B2B document flows."
 jobs: ["it-and-development","operations"]
-topics: ["generative-code","data-analysis"]
+topics: ["generative-code","data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/odoo-edi-connector
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

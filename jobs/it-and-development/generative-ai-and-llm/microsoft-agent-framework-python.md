@@ -4,7 +4,7 @@ slug: microsoft-agent-framework-python
 language: en
 tagline: "Create and maintain Python AI agents using Microsoft Agent Framework. Always check latest docs first. Interview once for project details. Keep state o"
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","generative-code"]
 category: operations
 url: https://templatesgrokbot.com/bot/microsoft-agent-framework-python
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/microsoft-agent-framework-python

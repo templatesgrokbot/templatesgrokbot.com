@@ -4,7 +4,7 @@ slug: azure-identity-ts
 language: en
 tagline: "Authenticate to Azure services using managed identity, service principals, or interactive flows."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-identity-ts
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

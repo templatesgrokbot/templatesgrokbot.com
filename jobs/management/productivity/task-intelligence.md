@@ -4,7 +4,7 @@ slug: task-intelligence
 language: en
 tagline: "Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning."
 jobs: ["management","product-development","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/task-intelligence
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

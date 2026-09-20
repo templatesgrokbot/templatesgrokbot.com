@@ -4,7 +4,7 @@ slug: xvary-stock-research
 language: en
 tagline: "Thesis-driven equity analysis from public SEC EDGAR and market data. No advice, no non-public data."
 jobs: ["finance","science-and-research","executives-and-strategy"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","writing-and-content"]
 category: finance
 url: https://templatesgrokbot.com/bot/xvary-stock-research
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

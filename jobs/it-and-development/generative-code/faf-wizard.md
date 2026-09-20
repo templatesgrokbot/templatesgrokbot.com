@@ -4,7 +4,7 @@ slug: faf-wizard
 language: en
 tagline: "Generate AI-ready context files for any codebase in 60 seconds."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code","prompt-engineering","cloud-and-devops"]
+topics: ["generative-code","prompt-engineering","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/faf-wizard
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

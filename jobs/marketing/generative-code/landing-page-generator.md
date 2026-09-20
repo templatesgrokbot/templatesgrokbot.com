@@ -4,7 +4,7 @@ slug: landing-page-generator
 language: en
 tagline: "Generates conversion-optimized Next.js landing pages from a product description."
 jobs: ["marketing","creatives","it-and-development"]
-topics: ["generative-code","coding"]
+topics: ["generative-code","coding","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/landing-page-generator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

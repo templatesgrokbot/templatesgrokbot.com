@@ -4,7 +4,7 @@ slug: code-documentation-doc-generate
 language: en
 tagline: "Generate API docs, architecture diagrams, and user guides from code."
 jobs: ["it-and-development","writers"]
-topics: ["coding","writing-and-content"]
+topics: ["coding","writing-and-content","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/code-documentation-doc-generate
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

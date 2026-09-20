@@ -4,7 +4,7 @@ slug: usage-based-pricing
 language: en
 tagline: "Design developer-friendly usage-based pricing models with clear metrics and predictable costs."
 jobs: ["product-development","executives-and-strategy"]
-topics: ["productivity","sales-and-negotiation"]
+topics: ["productivity","sales-and-negotiation","design","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/usage-based-pricing
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/usage-based-pricing

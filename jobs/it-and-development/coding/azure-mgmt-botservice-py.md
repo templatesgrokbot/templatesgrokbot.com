@@ -4,7 +4,7 @@ slug: azure-mgmt-botservice-py
 language: en
 tagline: "Manage Azure Bot Service resources: bots, channels, and connections."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-mgmt-botservice-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

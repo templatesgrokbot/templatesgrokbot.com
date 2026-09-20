@@ -4,7 +4,7 @@ slug: google-cloud-waf-cost-optimization
 language: en
 tagline: "Evaluates Google Cloud workloads and generates cost optimization recommendations based on the Well-Architected Framework."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/google-cloud-waf-cost-optimization
 adapted_from: https://www.aitmpl.com/component/skills/development/google-cloud-waf-cost-optimization

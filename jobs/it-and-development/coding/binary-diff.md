@@ -4,7 +4,7 @@ slug: binary-diff
 language: en
 tagline: "Migrate binary symbols across versions without PDBs using LLM-based diffing."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/binary-diff
 adapted_from: https://github.com/zhaoxuya520/reverse-skill

@@ -3,8 +3,8 @@ name: "Kpi Dashboard Design"
 slug: kpi-dashboard-design
 language: en
 tagline: "Design KPI dashboards that drive business decisions with proven patterns."
-jobs: ["management","operations","executives-and-strategy"]
-topics: ["data-analysis","productivity"]
+jobs: ["management","operations","executives-and-strategy","creatives","marketing"]
+topics: ["data-analysis","productivity","design","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/kpi-dashboard-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

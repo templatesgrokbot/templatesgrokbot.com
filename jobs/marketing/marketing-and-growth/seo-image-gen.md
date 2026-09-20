@@ -4,7 +4,7 @@ slug: seo-image-gen
 language: en
 tagline: "Generate SEO-optimized images like OG cards, hero images, and infographics."
 jobs: ["marketing","creatives"]
-topics: ["marketing-and-growth","generative-art"]
+topics: ["marketing-and-growth","generative-art","design"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-image-gen
 adapted_from: https://github.com/AgriciDaniel/claude-seo

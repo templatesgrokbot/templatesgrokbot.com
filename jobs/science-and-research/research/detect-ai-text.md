@@ -4,7 +4,7 @@ slug: detect-ai-text
 language: en
 tagline: "Estimate AI-written probability in prose documents with linguistic tells and honest abstention on non-prose."
 jobs: ["science-and-research","writers","education"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","generative-ai-and-llm"]
 category: research
 url: https://templatesgrokbot.com/bot/detect-ai-text
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

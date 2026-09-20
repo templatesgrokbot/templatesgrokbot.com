@@ -4,7 +4,7 @@ slug: examprep-ai
 language: en
 tagline: "Turns syllabi and past papers into a ranked study roadmap ordered Easy to Hard."
 jobs: ["education"]
-topics: ["teaching-and-tutoring"]
+topics: ["teaching-and-tutoring","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/examprep-ai
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

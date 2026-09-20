@@ -4,7 +4,7 @@ slug: git-flow-manager
 language: en
 tagline: "Automates Git Flow branching, merging, releases, and pull requests."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/git-flow-manager
 adapted_from: https://www.aitmpl.com/component/agents/git/git-flow-manager

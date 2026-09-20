@@ -3,7 +3,7 @@ name: "Nanobanana Ppt Templates"
 slug: nanobanana-ppt-skills
 language: en
 tagline: "Generate PowerPoint decks from documents with styled images using AI."
-jobs: ["operations","management","marketing"]
+jobs: ["operations","management","marketing","creatives"]
 topics: ["office-tools","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/nanobanana-ppt-skills

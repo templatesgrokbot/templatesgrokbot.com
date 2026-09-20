@@ -4,7 +4,7 @@ slug: azure-ai-voicelive-py
 language: en
 tagline: "Build real-time voice AI apps with bidirectional WebSocket on Azure."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm","speech-to-text"]
+topics: ["coding","generative-ai-and-llm","speech-to-text","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-voicelive-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

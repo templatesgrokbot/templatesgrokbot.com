@@ -1,6 +1,6 @@
 # Prompt Engineering templates for Product Development
 
-Write, test and improve prompts and instructions. 22 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Write, test and improve prompts and instructions. 23 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,6 +20,7 @@ Write, test and improve prompts and instructions. 22 Grok Bot templates, 0 of th
 | [Prompt Engineering](../../it-and-development/prompt-engineering/prompt-engineering.md) | Design, test, and refine prompts for reliable LLM outputs. |
 | [Prompt Engineering Patterns](../../it-and-development/prompt-engineering/prompt-engineering-patterns.md) | Designs, optimizes, and validates prompts for production LLM applications. |
 | [Recursive Context Pruning Token Budgeting](../../it-and-development/prompt-engineering/recursive-context-pruning-token-budgeting.md) | Prunes redundant context and enforces ultra-concise, direct-to-value responses. |
+| [Rich Elicitation](../../operations/prompt-engineering/rich-elicitation.md) | Asks targeted clarifying questions when a task has 2+ ambiguous dimensions with 3+ viable answers each. |
 | [Senior Prompt Engineer](../../it-and-development/prompt-engineering/senior-prompt-engineer.md) | Optimizes prompts and designs LLM systems for production-grade AI products. |
 | [Short](../../it-and-development/prompt-engineering/short.md) | Turn an open-source agent playbook into a Grok Bot template for a public catalog. Return JSON only. Write for Grok Bot specifically: identity: 2-4 sen |
 | [Template Creator](../../it-and-development/prompt-engineering/skill-creator.md) | Guides creation of AI assistant capabilities through iterative drafting, testing, and refinement. |

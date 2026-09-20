@@ -4,7 +4,7 @@ slug: pb-sdk
 language: en
 tagline: "Provides JavaScript SDK usage for PocketBase client applications."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pb-sdk
 adapted_from: https://www.aitmpl.com/component/skills/pocketbase/pb-sdk

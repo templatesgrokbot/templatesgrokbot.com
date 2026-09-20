@@ -4,7 +4,7 @@ slug: n8n-node-configuration
 language: en
 tagline: "Configure n8n nodes with operation-aware property dependencies."
 jobs: ["it-and-development","operations"]
-topics: ["generative-code"]
+topics: ["generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/n8n-node-configuration
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

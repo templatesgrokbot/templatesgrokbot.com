@@ -3,8 +3,8 @@ name: "Polars"
 slug: polars
 language: en
 tagline: "High-performance DataFrame operations using Polars with lazy evaluation and parallel execution."
-jobs: ["it-and-development"]
-topics: ["data-analysis"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["data-analysis","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/polars
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

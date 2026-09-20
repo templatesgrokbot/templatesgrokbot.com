@@ -4,7 +4,7 @@ slug: design-taste-frontend
 language: en
 tagline: "Build high-agency frontend UI with strict design taste, calibrated color, and motion rules."
 jobs: ["it-and-development","creatives"]
-topics: ["coding","design"]
+topics: ["coding","design","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/design-taste-frontend
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

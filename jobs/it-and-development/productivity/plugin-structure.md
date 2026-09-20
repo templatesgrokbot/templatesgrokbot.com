@@ -4,7 +4,7 @@ slug: plugin-structure
 language: en
 tagline: "Scaffolds and explains Claude Code plugin structure, manifest, and component organization."
 jobs: ["it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","generative-code","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/plugin-structure
 adapted_from: https://www.aitmpl.com/component/skills/development/plugin-structure

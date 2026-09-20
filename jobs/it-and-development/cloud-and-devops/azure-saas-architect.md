@@ -4,7 +4,7 @@ slug: azure-saas-architect
 language: en
 tagline: "Design multitenant Azure SaaS architectures using Well-Architected principles."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-saas-architect
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/azure-saas-architect

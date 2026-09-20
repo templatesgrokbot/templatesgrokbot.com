@@ -1,6 +1,6 @@
 # Research templates for Legal
 
-Find sources, compare evidence and summarise what is known. 55 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 64 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Find sources, compare evidence and summarise what is known. 55 Grok Bot template
 | [Case Law Research Assistant](case-law-research-assistant.md) | Find, analyze, and organize case law for your legal research and memos. |
 | [Client Interview Prep Assistant](client-interview-prep-assistant.md) | Prepares legal assistants for client interviews with questions, agendas, and follow-ups. |
 | [Compliance Docket Analyst](compliance-docket-analyst.md) | Regulatory filing assistant for compliance analysts: research, draft, validate, track, and submit compliant documents. |
+| [Comprehensive Researcher](../../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Contract Drafting Assistant](contract-drafting-assistant.md) | Guides contract drafting, review, compliance, and management from template to execution. |
 | [Contract Risk Assessment Assistant](contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
 | [Contract Risk Reviewer](contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
@@ -22,9 +23,11 @@ Find sources, compare evidence and summarise what is known. 55 Grok Bot template
 | [Crossframe Debate](../../education/research/crossframe-debate.md) | Analyze propositions, debate structures, and withdrawal conditions using CrossFrame. |
 | [Crossframe Public](../../government/research/crossframe-public.md) | Analyze public issues, platform governance, and institutional compliance with evidence boundaries. |
 | [Customs Trade Compliance](../../operations/research/customs-trade-compliance.md) | Classify goods, manage customs docs, screen parties, and optimize duties across US, EU, UK, and APAC. |
+| [Deep Research](../../science-and-research/research/deep-research.md) | Plans, searches, reads, and synthesizes cited research reports on any topic. |
 | [Deposition Preparation Assistant](deposition-preparation-assistant.md) | Prepares depositions from documents to strategy for paralegals. |
 | [Discovery Management Assistant](discovery-management-assistant.md) | Organizes, reviews, and drafts discovery documents for paralegals. |
 | [Dispute Resolution Support Assistant](dispute-resolution-support-assistant.md) | Supports contract administrators through every stage of dispute resolution. |
+| [Dsh Deepread](../../education/research/dsh-deepread.md) | Evidence-first reading reports with knowledge maps and Feynman checks. |
 | [Freedom to Operate Analyst](freedom-to-operate-analyst.md) | Finds patent risks and opportunities before you commit to a product. |
 | [International Patent Filing Assistant](international-patent-filing-assistant.md) | Guides patent agents through international filing, from search to strategy. |
 | [IP Management Assistant](ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
@@ -39,6 +42,9 @@ Find sources, compare evidence and summarise what is known. 55 Grok Bot template
 | [Litigation Paralegal Copilot](litigation-paralegal-copilot.md) | Handles document review, research, drafting, and trial prep for litigation lawyers. |
 | [Litigation Support Assistant](litigation-support-assistant.md) | Manages litigation support tasks from document organization to trial preparation. |
 | [Mdr 745 Specialist](../../operations/research/mdr-745-specialist.md) | Guides medical device manufacturers through EU MDR 2017/745 compliance, from classification to post-market surveillance. |
+| [Multi Source Search](../../science-and-research/research/multi-source-search.md) | Cross-validate web research into a confidence-scored evidence ledger with source diversity. |
+| [Multi Source Searcher](../../science-and-research/research/multi-source-searcher.md) | Finds precise information across multiple sources using optimized search strategies and systematic retrieval. |
+| [Notion Research Documentation](../../operations/research/notion-research-documentation.md) | Researches your Notion workspace and produces cited briefs, comparisons, or reports. |
 | [Online Dispute Resolution Assistant](online-dispute-resolution-assistant.md) | Assists lawyers with online dispute resolution tasks from case evaluation to settlement drafting. |
 | [Patent Application Drafting Assistant](patent-application-drafting-assistant.md) | Drafts, reviews, and files patent applications with precision and compliance. |
 | [Patent Classification Assistant](patent-classification-assistant.md) | Classifies patents, analyzes prior art, and manages classification workflows for patent agents. |
@@ -47,6 +53,7 @@ Find sources, compare evidence and summarise what is known. 55 Grok Bot template
 | [Patent Research and Guidance Assistant](../../science-and-research/research/patent-research-and-guidance-assistant.md) | Patent research and guidance assistant for research associates. |
 | [Patent Research Assistant](patent-research-assistant.md) | Runs patent research tasks: searches, analyses, drafting support, and monitoring updates. |
 | [Patent Strategy Analyst](../../executives-and-strategy/research/patent-strategy-analyst.md) | Guides patent research, analysis, and strategy for innovation strategists. |
+| [Perplexity Search](../../science-and-research/research/perplexity-search.md) | Searches the web for current information and returns grounded answers with source citations. |
 | [Prior Art Analysis Assistant](prior-art-analysis-assistant.md) | Streamlines prior art search, analysis, and reporting for patent agents. |
 | [Regulatory Affairs Assistant](regulatory-affairs-assistant.md) | Handles regulatory research, compliance tracking, reporting, audits, and training for legal assistants. |
 | [Regulatory Communication Assistant](regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
@@ -57,9 +64,11 @@ Find sources, compare evidence and summarise what is known. 55 Grok Bot template
 | [Tax Code Interpretation Assistant](../../finance/research/tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |
 | [Tax Dispute Case Assistant](../../finance/research/tax-dispute-case-assistant.md) | Prepares tax dispute cases, from research to hearings, with drafts and strategy. |
 | [Technology Trend Intelligence Assistant](technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
+| [Term Sheet Reader](../../finance/research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
 | [Third-Party Compliance Evaluator](third-party-compliance-evaluator.md) | Evaluates third-party compliance end-to-end, from documentation to audits. |
 | [Trial Preparation Paralegal Assistant](trial-preparation-paralegal-assistant.md) | Trial prep assistant for paralegals: research, organize, draft, and strategize. |
 | [Uspto Database](uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |
 | [Vendor Scorecard Builder](../../it-and-development/research/vendor-scorecard-builder.md) | Evaluates, compares, and monitors IT vendors to support procurement decisions. |
+| [Verify Citations](../../science-and-research/research/verify-citations.md) | Check citations in documents against real sources and flag unsupported claims. No truth verdicts, just coverage. |
 
 [← All Legal templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/legal)

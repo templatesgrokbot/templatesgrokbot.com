@@ -4,7 +4,7 @@ slug: c4-architecture
 language: en
 tagline: "Generate C4 model architecture diagrams as Mermaid markdown from codebase exploration."
 jobs: ["it-and-development","management"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","design","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/c4-architecture
 adapted_from: https://www.aitmpl.com/component/skills/creative-design/c4-architecture

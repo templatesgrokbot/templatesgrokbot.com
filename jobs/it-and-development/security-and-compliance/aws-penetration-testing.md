@@ -4,7 +4,7 @@ slug: aws-penetration-testing
 language: en
 tagline: "Guide AWS penetration testing with IAM, S3, EC2, and Lambda enumeration and exploitation."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","cloud-and-devops"]
+topics: ["security-and-compliance","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aws-penetration-testing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

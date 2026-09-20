@@ -4,7 +4,7 @@ slug: similarity-search-patterns
 language: en
 tagline: "Design efficient vector similarity search for production systems."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","data-analysis","generative-ai-and-llm"]
+topics: ["coding","data-analysis","generative-ai-and-llm","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/similarity-search-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

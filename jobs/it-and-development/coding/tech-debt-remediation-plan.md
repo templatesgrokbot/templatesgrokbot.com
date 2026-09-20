@@ -4,7 +4,7 @@ slug: tech-debt-remediation-plan
 language: en
 tagline: "Analyze code, tests, and docs to produce a prioritized technical debt remediation plan."
 jobs: ["it-and-development","product-development","management"]
-topics: ["coding","research","productivity"]
+topics: ["coding","research","productivity","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/tech-debt-remediation-plan
 adapted_from: https://www.aitmpl.com/component/agents/documentation/tech-debt-remediation-plan

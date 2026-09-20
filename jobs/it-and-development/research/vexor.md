@@ -4,7 +4,7 @@ slug: vexor
 language: en
 tagline: "Search files semantically using a vector-powered CLI with Claude/Codex integration. No file editing or code generation. No autonomous execution withou"
 jobs: ["it-and-development","science-and-research"]
-topics: ["research","coding"]
+topics: ["research","coding","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/vexor
 adapted_from: https://github.com/scarletkc/vexor

@@ -4,7 +4,7 @@ slug: grilling
 language: en
 tagline: "Stress-test a plan or design through relentless, one-at-a-time questioning."
 jobs: ["it-and-development","product-development","management"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/grilling
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

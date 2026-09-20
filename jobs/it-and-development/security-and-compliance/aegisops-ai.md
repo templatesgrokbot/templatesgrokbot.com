@@ -3,7 +3,7 @@ name: "Aegisops Ai"
 slug: aegisops-ai
 language: en
 tagline: "Autonomous DevSecOps & FinOps guardrails for kernel patches, Terraform costs, and K8s compliance."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","operations"]
 topics: ["security-and-compliance","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aegisops-ai

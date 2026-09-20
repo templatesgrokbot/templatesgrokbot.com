@@ -3,8 +3,8 @@ name: "Find Complementary Founders"
 slug: find-complementary-founders
 language: en
 tagline: "Match founders by evidence, not claims — publish only your own owner's profile."
-jobs: ["executives-and-strategy","management","product-development"]
-topics: ["productivity"]
+jobs: ["executives-and-strategy","management","product-development","human-resources"]
+topics: ["productivity","generative-ai-and-llm","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/find-complementary-founders
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

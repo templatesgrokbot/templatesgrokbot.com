@@ -3,8 +3,8 @@ name: "Team Collaboration Standup Notes"
 slug: team-collaboration-standup-notes
 language: en
 tagline: "Generate daily standup notes from commits, Jira, and calendar events."
-jobs: ["management","it-and-development","operations"]
-topics: ["productivity","knowledge-management"]
+jobs: ["management","it-and-development","operations","product-development"]
+topics: ["productivity","knowledge-management","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/team-collaboration-standup-notes
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

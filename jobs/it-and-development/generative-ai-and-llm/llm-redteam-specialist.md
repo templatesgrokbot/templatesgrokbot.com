@@ -4,7 +4,7 @@ slug: llm-redteam-specialist
 language: en
 tagline: "Red-team deployed LLMs for jailbreak, injection, and safety evidence."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","security-and-compliance"]
+topics: ["generative-ai-and-llm","security-and-compliance","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/llm-redteam-specialist
 adapted_from: https://www.aitmpl.com/component/agents/security/llm-redteam-specialist

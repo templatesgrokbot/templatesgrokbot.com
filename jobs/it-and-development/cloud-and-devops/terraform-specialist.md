@@ -4,7 +4,7 @@ slug: terraform-specialist
 language: en
 tagline: "Designs and manages Terraform/OpenTofu infrastructure with secure state, modular code, and automated pipelines."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/terraform-specialist
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

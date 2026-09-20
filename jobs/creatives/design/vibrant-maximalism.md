@@ -4,7 +4,7 @@ slug: vibrant-maximalism
 language: en
 tagline: "Generate loud, clashing, dense web/app designs where every pixel carries pattern, color, and type."
 jobs: ["creatives","it-and-development"]
-topics: ["design","generative-art"]
+topics: ["design","generative-art","coding","generative-code"]
 category: creative
 url: https://templatesgrokbot.com/bot/vibrant-maximalism
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

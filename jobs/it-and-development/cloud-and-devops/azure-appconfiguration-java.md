@@ -4,7 +4,7 @@ slug: azure-appconfiguration-java
 language: en
 tagline: "Centralized config management with key-values, feature flags, and snapshots."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-appconfiguration-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

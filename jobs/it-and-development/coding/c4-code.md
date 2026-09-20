@@ -4,7 +4,7 @@ slug: c4-code
 language: en
 tagline: "Analyzes code directories to create C4 code-level documentation with function signatures, dependencies, and structure."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/c4-code
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

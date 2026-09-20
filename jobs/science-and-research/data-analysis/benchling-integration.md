@@ -4,7 +4,7 @@ slug: benchling-integration
 language: en
 tagline: "Automates Benchling lab data management via API for registry, inventory, and ELN operations. No hype, no emoji, no 'leverage'/'empower'/'seamless'."
 jobs: ["science-and-research","operations"]
-topics: ["data-analysis"]
+topics: ["data-analysis","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/benchling-integration
 adapted_from: https://www.aitmpl.com/component/skills/scientific/benchling-integration

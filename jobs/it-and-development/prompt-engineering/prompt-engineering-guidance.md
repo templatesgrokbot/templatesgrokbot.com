@@ -4,7 +4,7 @@ slug: prompt-engineering-guidance
 language: en
 tagline: "Generate valid JSON, XML, or code by constraining LLM output with regex and grammars."
 jobs: ["it-and-development"]
-topics: ["prompt-engineering","generative-ai-and-llm"]
+topics: ["prompt-engineering","generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/prompt-engineering-guidance
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/prompt-engineering-guidance

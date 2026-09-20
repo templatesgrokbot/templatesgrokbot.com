@@ -4,7 +4,7 @@ slug: free-tool-strategy
 language: en
 tagline: "Plan and evaluate free tools for lead gen, SEO, and brand awareness."
 jobs: ["marketing","product-development","executives-and-strategy"]
-topics: ["marketing-and-growth","productivity"]
+topics: ["marketing-and-growth","productivity","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/free-tool-strategy
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

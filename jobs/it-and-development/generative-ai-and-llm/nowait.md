@@ -4,7 +4,7 @@ slug: nowait
 language: en
 tagline: "Suppresses self-reflection tokens during inference to reduce chain-of-thought length by 27-51% while preserving accuracy. Works with RL-based reasonin"
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","prompt-engineering"]
+topics: ["generative-ai-and-llm","prompt-engineering","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/nowait
 adapted_from: https://www.aitmpl.com/component/skills/productivity/nowait

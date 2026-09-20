@@ -4,7 +4,7 @@ slug: django-pro
 language: en
 tagline: "Django 5.x expert for scalable architecture, async views, DRF, testing, and secure deployment guidance."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops","security-and-compliance"]
+topics: ["coding","cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/django-pro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

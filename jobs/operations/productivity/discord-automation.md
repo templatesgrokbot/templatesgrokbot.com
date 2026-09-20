@@ -3,7 +3,7 @@ name: "Discord Automation"
 slug: discord-automation
 language: en
 tagline: "Automate Discord messages, roles, webhooks, and reactions via Rube MCP."
-jobs: ["operations","marketing"]
+jobs: ["operations","marketing","it-and-development"]
 topics: ["productivity","social-media"]
 category: operations
 url: https://templatesgrokbot.com/bot/discord-automation

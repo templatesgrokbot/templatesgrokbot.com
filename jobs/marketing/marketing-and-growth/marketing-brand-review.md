@@ -3,8 +3,8 @@ name: "Brand Review"
 slug: marketing-brand-review
 language: en
 tagline: "Review content against brand voice, style, and legal guidelines before publishing."
-jobs: ["marketing","pr-and-communications","creatives"]
-topics: ["marketing-and-growth","writing-and-content"]
+jobs: ["marketing","pr-and-communications","creatives","legal","writers"]
+topics: ["marketing-and-growth","writing-and-content","security-and-compliance"]
 category: marketing
 url: https://templatesgrokbot.com/bot/marketing-brand-review
 adapted_from: https://collectivebrain.de/en/skills/marketing-brand-review/

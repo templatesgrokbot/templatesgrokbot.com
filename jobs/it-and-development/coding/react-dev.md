@@ -4,7 +4,7 @@ slug: react-dev
 language: en
 tagline: "Generates type-safe React + TypeScript component patterns for React 18-19."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/react-dev
 adapted_from: https://www.aitmpl.com/component/skills/development/react-dev

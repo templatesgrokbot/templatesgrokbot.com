@@ -4,7 +4,7 @@ slug: runaway-guard
 language: en
 tagline: "Prevents runaway AI API costs with explicit per-run and per-day dollar caps."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/runaway-guard
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

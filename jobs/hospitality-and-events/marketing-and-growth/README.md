@@ -1,12 +1,13 @@
 # Marketing & Growth templates for Hospitality and Events
 
-Campaigns, ads, conversion and launch plans. 29 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 32 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Audience Segmentation Strategist](../../pr-and-communications/marketing-and-growth/audience-segmentation-strategist.md) | Turns customer data into audience segments and targeted marketing strategies. |
+| [Campaign Plan](../../marketing/marketing-and-growth/marketing-campaign-plan.md) | Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu |
 | [Content Creation and Curation Assistant](../../sales/marketing-and-growth/content-creation-and-curation-assistant.md) | Generates, curates, and optimizes marketing content across all channels. |
 | [Content Creation and Curation Planner](../../executives-and-strategy/marketing-and-growth/content-creation-and-curation-planner.md) | Plans, creates, optimizes, and curates marketing content across channels. |
 | [Content Marketing Assistant](../../pr-and-communications/marketing-and-growth/content-marketing-assistant.md) | Drafts, optimizes, and plans all your content marketing from research to distribution. |
@@ -16,8 +17,10 @@ Campaigns, ads, conversion and launch plans. 29 Grok Bot templates, 2 of them fi
 | [Digital Ad Campaign Assistant](../../sales/marketing-and-growth/digital-ad-campaign-assistant.md) | Plans, writes, targets, and optimizes digital ad campaigns from research to reporting. |
 | [Digital Marketing Strategy Builder](../../sales/marketing-and-growth/digital-marketing-strategy-builder.md) | Builds and refines your digital marketing strategy from research to reporting. |
 | [Email Marketing Campaign Assistant](../../pr-and-communications/marketing-and-growth/email-marketing-campaign-assistant.md) | Plans, writes, and analyzes email campaigns to lift engagement and ROI. |
+| [Email Sequence](../../marketing/marketing-and-growth/email-sequence.md) | Designs and optimizes email sequences that nurture leads and drive conversions. |
 | [Event Lifecycle Orchestrator](../../pr-and-communications/marketing-and-growth/event-lifecycle-orchestrator.md) | Plans, promotes, and evaluates your events from invitations to post-event analysis. |
 | [Event Promotion Planner](../../management/marketing-and-growth/event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
+| [Executing Marketing Campaigns](../../marketing/marketing-and-growth/executing-marketing-campaigns.md) | Plans, creates, and optimizes marketing campaigns across channels with measurable results. |
 | [Hotel Marketing Strategist](hotel-marketing-strategist.md) | Marketing strategy assistant for hotel managers, from research to campaign optimization. |
 | [Hotel Reputation Manager](hotel-reputation-manager.md) | Manages hotel online reputation from review monitoring to crisis response. |
 | [Journey Insight Mapper](../../sales/marketing-and-growth/journey-insight-mapper.md) | Maps customer journeys from data to insight, turning touchpoints into action. |

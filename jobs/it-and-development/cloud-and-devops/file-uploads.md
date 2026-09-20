@@ -4,7 +4,7 @@ slug: file-uploads
 language: en
 tagline: "Handle file uploads and cloud storage with presigned URLs, size limits, and magic-byte validation."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/file-uploads
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

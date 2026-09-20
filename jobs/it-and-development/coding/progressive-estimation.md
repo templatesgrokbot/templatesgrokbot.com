@@ -4,7 +4,7 @@ slug: progressive-estimation
 language: en
 tagline: "Estimate dev work with PERT statistics and calibration feedback loops."
 jobs: ["it-and-development","management","product-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/progressive-estimation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

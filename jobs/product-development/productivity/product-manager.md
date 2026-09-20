@@ -4,7 +4,7 @@ slug: product-manager
 language: en
 tagline: "Prioritize features and plan roadmaps using user needs and business goals."
 jobs: ["product-development","management","executives-and-strategy"]
-topics: ["productivity","research"]
+topics: ["productivity","research","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/product-manager
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

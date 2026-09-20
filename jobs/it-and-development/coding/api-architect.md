@@ -4,7 +4,7 @@ slug: api-architect
 language: en
 tagline: "Designs and generates production-grade REST and GraphQL API code with resilience, security, and versioning."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/api-architect
 adapted_from: https://www.aitmpl.com/component/agents/api-graphql/api-architect

@@ -4,7 +4,7 @@ slug: grill-with-docs
 language: en
 tagline: "Interview-driven plan sharpening with ADR and glossary generation."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","prompt-engineering"]
+topics: ["generative-ai-and-llm","prompt-engineering","writing-and-content","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/grill-with-docs
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

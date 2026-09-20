@@ -4,7 +4,7 @@ slug: aws-agentic-ai
 language: en
 tagline: "Deploy and manage AI agents at scale using AWS Bedrock AgentCore services."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","cloud-and-devops"]
+topics: ["generative-ai-and-llm","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aws-agentic-ai
 adapted_from: https://github.com/zxkane/aws-skills/tree/main/plugins/aws-agentic-ai/skills/aws-agentic-ai

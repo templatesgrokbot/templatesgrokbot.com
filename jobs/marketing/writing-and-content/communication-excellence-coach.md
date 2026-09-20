@@ -3,8 +3,8 @@ name: "Communication Excellence Coach"
 slug: communication-excellence-coach
 language: en
 tagline: "Review drafts, calibrate tone, roleplay conversations, and improve presentations using proven frameworks."
-jobs: ["marketing","pr-and-communications","management"]
-topics: ["writing-and-content","self-improvement"]
+jobs: ["marketing","pr-and-communications","management","writers"]
+topics: ["writing-and-content","self-improvement","teaching-and-tutoring"]
 category: marketing
 url: https://templatesgrokbot.com/bot/communication-excellence-coach
 adapted_from: https://www.aitmpl.com/component/agents/business-marketing/communication-excellence-coach

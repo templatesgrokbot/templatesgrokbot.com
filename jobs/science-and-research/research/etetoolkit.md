@@ -4,7 +4,7 @@ slug: etetoolkit
 language: en
 tagline: "Analyze phylogenetic trees: manipulate, detect events, integrate NCBI taxonomy, and visualize."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","data-analysis","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/etetoolkit
 adapted_from: https://www.aitmpl.com/component/skills/scientific/etetoolkit

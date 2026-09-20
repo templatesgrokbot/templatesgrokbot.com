@@ -4,7 +4,7 @@ slug: skeuomorphism
 language: en
 tagline: "Generates UI code that mimics real-world objects and physical textures."
 jobs: ["creatives","it-and-development"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/skeuomorphism
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

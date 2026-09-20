@@ -4,7 +4,7 @@ slug: weaviate
 language: en
 tagline: "Search, query, and manage data in a Weaviate vector database."
 jobs: ["it-and-development"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/weaviate
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

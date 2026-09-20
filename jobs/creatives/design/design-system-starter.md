@@ -4,7 +4,7 @@ slug: design-system-starter
 language: en
 tagline: "Generate design tokens, component specs, and accessibility guidelines for a consistent UI system."
 jobs: ["creatives","it-and-development","product-development"]
-topics: ["design","coding"]
+topics: ["design","coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/design-system-starter
 adapted_from: https://www.aitmpl.com/component/skills/development/design-system-starter

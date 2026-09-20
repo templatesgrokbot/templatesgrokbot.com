@@ -3,8 +3,8 @@ name: "Skyvern Browser Automation"
 slug: skyvern-browser-automation
 language: en
 tagline: "Navigate websites, fill forms, extract data, and automate browser workflows."
-jobs: ["it-and-development"]
-topics: ["coding","research"]
+jobs: ["it-and-development","operations"]
+topics: ["coding","research","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/skyvern-browser-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

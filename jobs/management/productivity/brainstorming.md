@@ -3,8 +3,8 @@ name: "Brainstorming"
 slug: brainstorming
 language: en
 tagline: "Turns rough ideas into validated designs through structured dialogue, one question at a time."
-jobs: ["management","product-development","executives-and-strategy"]
-topics: ["productivity","self-improvement"]
+jobs: ["management","product-development","executives-and-strategy","creatives"]
+topics: ["productivity","self-improvement","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/brainstorming
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: power-platform-mcp-integration-expert
 language: en
 tagline: "Guides building Power Platform custom connectors with MCP for Copilot Studio."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/power-platform-mcp-integration-expert
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/power-platform-mcp-integration-expert

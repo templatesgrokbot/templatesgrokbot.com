@@ -4,7 +4,7 @@ slug: dispatching-parallel-agents
 language: en
 tagline: "Dispatch one focused agent per independent problem domain in parallel."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/dispatching-parallel-agents
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

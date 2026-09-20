@@ -4,7 +4,7 @@ slug: playwright-java
 language: en
 tagline: "Scaffold, write, and debug enterprise-grade Playwright E2E tests in Java with POM, JUnit 5, and Allure."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/playwright-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: sql-sentinel
 language: en
 tagline: "Audits SQL for cost and performance anti-patterns, scores warehouse health 0-100, and outputs a prioritized cost-reduction plan. Works with BigQuery, "
 jobs: ["it-and-development","finance"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","coding","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/sql-sentinel
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: code-refactoring-tech-debt
 language: en
 tagline: "Identify, quantify, and prioritize technical debt from code and change history."
 jobs: ["it-and-development","management"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","data-analysis","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/code-refactoring-tech-debt
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

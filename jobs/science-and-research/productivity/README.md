@@ -1,11 +1,12 @@
 # Productivity templates for Science and Research
 
-Plan, prioritise and clear the recurring admin. 13 Grok Bot templates.
+Plan, prioritise and clear the recurring admin. 14 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Claude Speed Reader](../../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
 | [Collaborative Project Coordinator](collaborative-project-coordinator.md) | Coordinates collaborative project tasks, communication, and reporting for process development teams. |
 | [CSR Planning Assistant](csr-planning-assistant.md) | Plans and manages corporate social responsibility initiatives from stakeholder input to impact reporting. |
 | [Ecosystem Restoration Planner](ecosystem-restoration-planner.md) | Plans ecosystem restoration projects from data gathering to long-term management. |

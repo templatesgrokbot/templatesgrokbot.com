@@ -4,7 +4,7 @@ slug: scanpy
 language: en
 tagline: "Guide single-cell RNA-seq analysis from loading through cell type annotation and trajectory inference."
 jobs: ["science-and-research","it-and-development"]
-topics: ["data-analysis","generative-ai-and-llm"]
+topics: ["data-analysis","generative-ai-and-llm","teaching-and-tutoring","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/scanpy
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

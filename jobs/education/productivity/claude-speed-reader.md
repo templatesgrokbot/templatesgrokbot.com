@@ -3,8 +3,8 @@ name: "Claude Speed Reader"
 slug: claude-speed-reader
 language: en
 tagline: "Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting."
-jobs: ["education","writers","executives-and-strategy"]
-topics: ["productivity"]
+jobs: ["education","writers","executives-and-strategy","science-and-research"]
+topics: ["productivity","self-improvement"]
 category: personal
 url: https://templatesgrokbot.com/bot/claude-speed-reader
 adapted_from: https://github.com/SeanZoR/claude-speed-reader

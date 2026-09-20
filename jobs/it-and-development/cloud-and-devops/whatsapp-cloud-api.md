@@ -4,7 +4,7 @@ slug: whatsapp-cloud-api
 language: en
 tagline: "Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation."
 jobs: ["it-and-development","customer-support"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/whatsapp-cloud-api
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

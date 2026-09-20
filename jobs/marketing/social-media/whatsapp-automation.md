@@ -4,7 +4,7 @@ slug: whatsapp-automation
 language: en
 tagline: "Automate WhatsApp Business messaging, templates, media, and contacts via Rube MCP."
 jobs: ["marketing","sales","customer-support","operations"]
-topics: ["social-media","support-and-community"]
+topics: ["social-media","support-and-community","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/whatsapp-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

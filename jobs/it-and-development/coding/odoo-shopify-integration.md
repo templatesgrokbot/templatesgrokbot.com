@@ -4,7 +4,7 @@ slug: odoo-shopify-integration
 language: en
 tagline: "Sync products, inventory, orders, and customers between Odoo and Shopify via API."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-shopify-integration
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

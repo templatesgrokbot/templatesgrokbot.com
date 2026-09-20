@@ -4,7 +4,7 @@ slug: sast-configuration
 language: en
 tagline: "Configure SAST tools, custom rules, and CI/CD integration for security scanning."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/sast-configuration
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

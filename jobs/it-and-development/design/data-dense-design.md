@@ -4,7 +4,7 @@ slug: data-dense-design
 language: en
 tagline: "Build expert UIs with maximum data density like Bloomberg terminals or IDEs."
 jobs: ["it-and-development","product-development"]
-topics: ["design","coding"]
+topics: ["design","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/data-dense-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,8 +3,8 @@ name: "Bigquery Basics"
 slug: bigquery-basics
 language: en
 tagline: "Manages BigQuery datasets, tables, jobs, and runs SQL queries for data analysis."
-jobs: ["it-and-development"]
-topics: ["data-analysis","cloud-and-devops"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["data-analysis","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bigquery-basics
 adapted_from: https://www.aitmpl.com/component/skills/database/bigquery-basics

@@ -1,11 +1,12 @@
 # Teaching & Tutoring templates for Sales
 
-Explain, quiz and guide someone through a subject. 7 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 8 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Pitch Rehearsal](../../education/teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
 | [Sales Onboarding Program Builder](sales-onboarding-program-builder.md) | Designs and runs complete sales onboarding and training programs for new staff. |
 | [Sales Training Module Architect](../../executives-and-strategy/teaching-and-tutoring/sales-training-module-architect.md) | Builds and maintains sales training modules that improve team performance. |
 | [Sales Training Program Architect](sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |

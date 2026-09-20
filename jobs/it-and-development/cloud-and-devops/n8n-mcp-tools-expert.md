@@ -4,7 +4,7 @@ slug: n8n-mcp-tools-expert
 language: en
 tagline: "Guide for using n8n-mcp tools to discover nodes, validate configs, and manage workflows."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/n8n-mcp-tools-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: wjttc-builder
 language: en
 tagline: "Generate championship-grade WJTTC test suites: tiered plans and executable tests for any project."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wjttc-builder
 adapted_from: https://github.com/Wolfe-Jam/faf-skills/tree/main/skills/wjttc-builder

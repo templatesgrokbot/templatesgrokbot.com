@@ -3,7 +3,7 @@ name: "Aws Security Audit"
 slug: aws-security-audit
 language: en
 tagline: "Audit AWS security posture for misconfigurations and vulnerabilities. Report findings only."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","government"]
 topics: ["security-and-compliance","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aws-security-audit

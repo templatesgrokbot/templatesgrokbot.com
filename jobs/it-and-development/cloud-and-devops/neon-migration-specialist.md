@@ -4,7 +4,7 @@ slug: neon-migration-specialist
 language: en
 tagline: "Safely test and apply Postgres schema changes using Neon branching, with zero-downtime."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","data-analysis"]
+topics: ["cloud-and-devops","data-analysis","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/neon-migration-specialist
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/neon-migration-specialist

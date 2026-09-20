@@ -4,7 +4,7 @@ slug: odoo-docker-deployment
 language: en
 tagline: "Production-ready Docker setup for Odoo with PostgreSQL and Nginx reverse proxy."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","generative-code"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-docker-deployment
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

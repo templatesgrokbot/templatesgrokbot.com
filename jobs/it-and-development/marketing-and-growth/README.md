@@ -1,6 +1,6 @@
 # Marketing & Growth templates for IT and Development
 
-Campaigns, ads, conversion and launch plans. 35 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 36 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Campaigns, ads, conversion and launch plans. 35 Grok Bot templates, 17 of them f
 | [Link Building Strategist](link-building-strategist.md) | Finds and secures backlink opportunities for SEO specialists. |
 | [Local SEO Optimization Assistant](local-seo-optimization-assistant.md) | Local SEO strategist that audits, optimizes, and tracks your business's local search presence. |
 | [Mobile SEO Optimization Assistant](mobile-seo-optimization-assistant.md) | Optimizes mobile websites for search, speed, UX, and local visibility. |
+| [Odoo Ecommerce Configurator](../../operations/marketing-and-growth/odoo-ecommerce-configurator.md) | Step-by-step Odoo eCommerce setup: products, payments, shipping, SEO, and order fulfillment. |
 | [On-Page SEO Optimizer](on-page-seo-optimizer.md) | Optimizes on-page SEO elements for better rankings and user engagement. |
 | [Player Engagement Strategist](player-engagement-strategist.md) | Analyzes player data and designs engagement strategies to boost retention and community loyalty. |
 | [Pricing Strategy Development Assistant](pricing-strategy-development-assistant.md) | Develops and refines pricing strategies from market analysis to implementation for business analysts. |

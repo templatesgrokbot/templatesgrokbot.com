@@ -4,7 +4,7 @@ slug: ruby-mcp-expert
 language: en
 tagline: "Helps you build MCP servers in Ruby with the official SDK and Rails integration."
 jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ruby-mcp-expert
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/ruby-mcp-expert

@@ -4,7 +4,7 @@ slug: command-center-ui
 language: en
 tagline: "Generate dark-themed monitoring UI code for NOCs and global maps."
 jobs: ["it-and-development","operations","management"]
-topics: ["design","coding","generative-code"]
+topics: ["design","coding","generative-code","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/command-center-ui
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

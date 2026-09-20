@@ -4,7 +4,7 @@ slug: airtable-automation
 language: en
 tagline: "Automate Airtable records, schema, and comments via Rube MCP"
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","office-tools"]
 category: engineering
 url: https://templatesgrokbot.com/bot/airtable-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

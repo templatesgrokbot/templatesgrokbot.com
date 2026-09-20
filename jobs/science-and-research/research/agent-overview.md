@@ -4,7 +4,7 @@ slug: agent-overview
 language: en
 tagline: "Coordinates a multi-agent team to produce academic-quality research reports."
 jobs: ["science-and-research","executives-and-strategy"]
-topics: ["research","generative-ai-and-llm"]
+topics: ["research","generative-ai-and-llm","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/agent-overview
 adapted_from: https://www.aitmpl.com/component/agents/deep-research-team/agent-overview

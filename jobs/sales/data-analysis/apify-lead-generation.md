@@ -4,7 +4,7 @@ slug: apify-lead-generation
 language: en
 tagline: "Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors."
 jobs: ["sales","marketing","operations"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/apify-lead-generation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

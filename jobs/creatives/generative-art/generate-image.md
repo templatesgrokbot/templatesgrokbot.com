@@ -3,8 +3,8 @@ name: "Generate Image"
 slug: generate-image
 language: en
 tagline: "Generates or edits images using AI models for photos, illustrations, and visual assets."
-jobs: ["creatives"]
-topics: ["generative-art"]
+jobs: ["creatives","marketing"]
+topics: ["generative-art","design"]
 category: creative
 url: https://templatesgrokbot.com/bot/generate-image
 adapted_from: https://www.aitmpl.com/component/skills/scientific/generate-image

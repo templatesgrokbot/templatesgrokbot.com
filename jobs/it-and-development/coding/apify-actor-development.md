@@ -4,7 +4,7 @@ slug: apify-actor-development
 language: en
 tagline: "Build, test, and deploy serverless Apify Actors from templates."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/apify-actor-development
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

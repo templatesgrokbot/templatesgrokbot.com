@@ -4,7 +4,7 @@ slug: azure-security-keyvault-keys-dotnet
 language: en
 tagline: "Manage Azure Key Vault keys: create, rotate, encrypt, decrypt, sign, and verify with .NET."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","cloud-and-devops"]
+topics: ["security-and-compliance","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-security-keyvault-keys-dotnet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

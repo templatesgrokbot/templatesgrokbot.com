@@ -4,7 +4,7 @@ slug: android-dev
 language: en
 tagline: "Production-grade Android development guide for native, cross-platform, and hybrid apps."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","design","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/android-dev
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

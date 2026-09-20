@@ -4,7 +4,7 @@ slug: javascript-testing-patterns
 language: en
 tagline: "Set up and write JS/TS tests with Jest, Vitest, or Playwright, covering unit to E2E."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/javascript-testing-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

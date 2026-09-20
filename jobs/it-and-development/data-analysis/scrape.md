@@ -4,7 +4,7 @@ slug: scrape
 language: en
 tagline: "Scrapes any webpage into clean markdown via Bright Data Web Unlocker, bypassing bot detection and CAPTCHA."
 jobs: ["it-and-development","operations"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/scrape
 adapted_from: https://www.aitmpl.com/component/skills/web-data/scrape

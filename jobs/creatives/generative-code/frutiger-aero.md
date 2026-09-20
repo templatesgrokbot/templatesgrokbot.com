@@ -4,7 +4,7 @@ slug: frutiger-aero
 language: en
 tagline: "Generate web/app UI code with early-2000s glossy, nature-inspired Frutiger Aero aesthetics."
 jobs: ["creatives","it-and-development"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/frutiger-aero
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: backend-security-coder
 language: en
 tagline: "Secure backend coding expert for input validation, authentication, and API security."
 jobs: ["it-and-development","product-development"]
-topics: ["security-and-compliance","cloud-and-devops"]
+topics: ["security-and-compliance","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/backend-security-coder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

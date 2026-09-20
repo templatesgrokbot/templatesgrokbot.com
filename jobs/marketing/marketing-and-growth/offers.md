@@ -4,7 +4,7 @@ slug: offers
 language: en
 tagline: "Design, construct, and improve offers that convert by strengthening the offer itself, not just the copy."
 jobs: ["marketing","sales"]
-topics: ["marketing-and-growth","writing-and-content"]
+topics: ["marketing-and-growth","writing-and-content","self-improvement"]
 category: marketing
 url: https://templatesgrokbot.com/bot/offers
 adapted_from: https://github.com/coreyhaines31/marketingskills/tree/main/skills/offers

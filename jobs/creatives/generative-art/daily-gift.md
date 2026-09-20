@@ -4,7 +4,7 @@ slug: daily-gift
 language: en
 tagline: "Decides if a gift is needed today, then creates a personalized H5, image, or video artifact. No guessing, no filler."
 jobs: ["creatives","marketing"]
-topics: ["generative-art","generative-video","marketing-and-growth"]
+topics: ["generative-art","generative-video","marketing-and-growth","generative-ai-and-llm"]
 category: creative
 url: https://templatesgrokbot.com/bot/daily-gift
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: semantic-kernel-python
 language: en
 tagline: "Build and manage Python AI applications using Semantic Kernel."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/semantic-kernel-python
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/semantic-kernel-python

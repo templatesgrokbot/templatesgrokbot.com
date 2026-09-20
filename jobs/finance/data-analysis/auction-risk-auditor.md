@@ -4,7 +4,7 @@ slug: auction-risk-auditor
 language: en
 tagline: "Analyzes legal, financial, and operational risks of auction properties with a score and risk-weighted ROI."
 jobs: ["finance","real-estate-and-construction"]
-topics: ["data-analysis"]
+topics: ["data-analysis","research"]
 category: finance
 url: https://templatesgrokbot.com/bot/auction-risk-auditor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

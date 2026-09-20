@@ -4,7 +4,7 @@ slug: cowork-create-cowork-plugin
 language: en
 tagline: "Guides you through building a Cowork plugin from idea to .plugin file."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cowork-create-cowork-plugin
 adapted_from: https://collectivebrain.de/en/skills/cowork-create-cowork-plugin/

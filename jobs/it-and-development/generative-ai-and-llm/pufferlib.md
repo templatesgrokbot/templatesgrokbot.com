@@ -4,7 +4,7 @@ slug: pufferlib
 language: en
 tagline: "Trains RL agents and builds custom environments with high-performance parallel simulation."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","coding","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/pufferlib
 adapted_from: https://www.aitmpl.com/component/skills/scientific/pufferlib

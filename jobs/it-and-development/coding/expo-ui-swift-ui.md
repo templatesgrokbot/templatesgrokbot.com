@@ -4,7 +4,7 @@ slug: expo-ui-swift-ui
 language: en
 tagline: "Use SwiftUI Views and modifiers in Expo SDK 55 apps."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/expo-ui-swift-ui
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: postgresql-optimization
 language: en
 tagline: "Optimize PostgreSQL databases through query tuning, indexing, and configuration analysis."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/postgresql-optimization
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: blueprint
 language: en
 tagline: "Generate cold-start step-by-step plans from one-line objectives"
 jobs: ["it-and-development","management","product-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/blueprint
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

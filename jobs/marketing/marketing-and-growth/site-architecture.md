@@ -4,7 +4,7 @@ slug: site-architecture
 language: en
 tagline: "Plan and restructure website hierarchy, navigation, URL patterns, and internal linking."
 jobs: ["marketing","operations"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/site-architecture
 adapted_from: https://github.com/coreyhaines31/marketingskills

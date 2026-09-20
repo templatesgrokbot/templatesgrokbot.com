@@ -4,7 +4,7 @@ slug: ffuf-claude-skill
 language: en
 tagline: "Guide web fuzzing with ffuf for directory and parameter discovery."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ffuf-claude-skill
 adapted_from: https://github.com/jthack/ffuf_claude_skill

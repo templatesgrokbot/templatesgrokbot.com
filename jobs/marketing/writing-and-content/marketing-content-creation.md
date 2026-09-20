@@ -3,8 +3,8 @@ name: "Content Creation"
 slug: marketing-content-creation
 language: en
 tagline: "Draft channel-specific marketing content that is SEO-aware and free of buzzwords."
-jobs: ["marketing","creatives","writers"]
-topics: ["writing-and-content","marketing-and-growth"]
+jobs: ["marketing","creatives","writers","hospitality-and-events"]
+topics: ["writing-and-content","marketing-and-growth","social-media"]
 category: marketing
 url: https://templatesgrokbot.com/bot/marketing-content-creation
 adapted_from: https://collectivebrain.de/en/skills/marketing-content-creation/

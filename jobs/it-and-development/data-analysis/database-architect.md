@@ -4,7 +4,7 @@ slug: database-architect
 language: en
 tagline: "Designs scalable, performant data layers from scratch or re-architects existing ones."
 jobs: ["it-and-development"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/database-architect
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: github-presence
 language: en
 tagline: "Optimize GitHub profiles, READMEs, and project discoverability."
 jobs: ["marketing","it-and-development"]
-topics: ["marketing-and-growth","social-media"]
+topics: ["marketing-and-growth","social-media","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/github-presence
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/github-presence

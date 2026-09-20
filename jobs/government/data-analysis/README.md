@@ -1,6 +1,6 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 112 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 124 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,12 +8,14 @@ Clean, query, chart and explain data. 112 Grok Bot templates, 13 of them filed i
 |---|---|
 | [Air Quality Monitoring Assistant](../../science-and-research/data-analysis/air-quality-monitoring-assistant.md) | Turns air quality data into forecasts, compliance reports, and public alerts for environmental engineers. |
 | [AML Due Diligence Drafter](../../legal/data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
+| [Azure Ai Document Intelligence Ts](../../it-and-development/data-analysis/azure-ai-document-intelligence-ts.md) | Extract text, tables, and structured data from documents using Azure AI. |
 | [Bid Analysis and Selection Assistant](../../operations/data-analysis/bid-analysis-and-selection-assistant.md) | Analyzes bids, compares suppliers, and supports procurement decisions with data-driven insights. |
 | [Big Data Analysis Planner](../../science-and-research/data-analysis/big-data-analysis-planner.md) | Big data analysis assistant for research associates, from collection to insight. |
 | [Biodiversity Conservation Planner](../../science-and-research/data-analysis/biodiversity-conservation-planner.md) | Plans and monitors biodiversity conservation with data analysis and stakeholder input. |
 | [Biodiversity Impact Analyst](../../science-and-research/data-analysis/biodiversity-impact-analyst.md) | Turns biodiversity data into impact analyses, reports, and conservation strategies. |
 | [Budget Forecast Assistant](../../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Budget Optimization Assistant for Policy Makers](budget-optimization-assistant-for-policy-makers.md) | Analyzes budget data to find savings, optimize allocation, and support policy decisions. |
+| [Business Analyst](../../operations/data-analysis/business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
 | [Business Process Optimization Assistant](../../it-and-development/data-analysis/business-process-optimization-assistant.md) | Maps, analyzes, and optimizes business processes with data-backed recommendations. |
 | [Chart Whisperer for Analysts](../../it-and-development/data-analysis/chart-whisperer-for-analysts.md) | Turns your data into clear, insightful charts and dashboards for analysis and storytelling. |
 | [Climate Impact Study Assistant](../../science-and-research/data-analysis/climate-impact-study-assistant.md) | Turns climate data and policy into impact studies, risk assessments, and adaptation plans. |
@@ -29,6 +31,8 @@ Clean, query, chart and explain data. 112 Grok Bot templates, 13 of them filed i
 | [Cost-Benefit Analysis Assistant](../../operations/data-analysis/cost-benefit-analysis-assistant.md) | Runs complete cost-benefit analyses for process improvement projects, from data gathering to stakeholder-ready reports. |
 | [Data Analysis Assistant](../../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
 | [Data Analysis Workflow Assistant](../../it-and-development/data-analysis/data-analysis-workflow-assistant.md) | Guides data analysts through cleaning, modeling, and reporting with AI assistance. |
+| [Data Analyst](../../science-and-research/data-analysis/data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
+| [Data Cleaner](../../it-and-development/data-analysis/data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
 | [Data Cleansing Assistant](../../operations/data-analysis/data-cleansing-assistant.md) | Cleanses, standardizes, and validates datasets for data entry specialists. |
 | [Data Collection Strategy Planner](../../operations/data-analysis/data-collection-strategy-planner.md) | Plans and runs data collection for process improvement, from source choice to insight delivery. |
 | [Data Formatting and Organization Assistant](../../operations/data-analysis/data-formatting-and-organization-assistant.md) | Cleans, standardizes, and organizes data for data entry specialists. |
@@ -38,6 +42,8 @@ Clean, query, chart and explain data. 112 Grok Bot templates, 13 of them filed i
 | [Data Quality Control Assistant](../../operations/data-analysis/data-quality-control-assistant.md) | Runs quality control checks on entered data and reports issues for correction. |
 | [Data Quality Management Assistant](../../executives-and-strategy/data-analysis/data-quality-management-assistant.md) | Assesses, cleans, validates, and reports on data quality for executive decisions. |
 | [Data Reporting Assistant](../../operations/data-analysis/data-reporting-assistant.md) | Turns raw data into clean, analyzed, and presentation-ready reports for data entry specialists. |
+| [Data Researcher](../../science-and-research/data-analysis/data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
+| [Data Storytelling](../../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Data Validation Assistant](../../operations/data-analysis/data-validation-assistant.md) | Validates and cleans data entry work with routines for formatting, duplicates, consistency, and quality. |
 | [Data Visualization and Reporting Assistant](../../executives-and-strategy/data-analysis/data-visualization-and-reporting-assistant.md) | Turns raw data into clear visual stories and reports for executive decisions. |
 | [Data Visualization Guide](../../it-and-development/data-analysis/data-visualization-guide.md) | Turns raw business data into clear, compelling visualizations and dashboards for stakeholder decisions. |
@@ -47,17 +53,20 @@ Clean, query, chart and explain data. 112 Grok Bot templates, 13 of them filed i
 | [Environmental Monitoring Analyst](../../healthcare/data-analysis/environmental-monitoring-analyst.md) | Analyzes environmental monitoring data and drafts reports for health and safety compliance. |
 | [Environmental Policy Modeling Assistant](environmental-policy-modeling-assistant.md) | Turns environmental data into policy options, impact assessments, and stakeholder-ready communications. |
 | [Environmental Risk Assessment Assistant](../../science-and-research/data-analysis/environmental-risk-assessment-assistant.md) | Assists environmental engineers with risk assessment, analysis, reporting, and compliance. |
+| [Excel Analysis](../../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Executive Risk Insight Suite](../../executives-and-strategy/data-analysis/executive-risk-insight-suite.md) | Turns your risk data into assessments, strategies, and reports for executive decisions. |
 | [Executive Risk Intelligence Assistant](../../executives-and-strategy/data-analysis/executive-risk-intelligence-assistant.md) | Turns your risk data into actionable insights and keeps your risk posture current. |
 | [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Expense Tracking and Insights Assistant](../../finance/data-analysis/expense-tracking-and-insights-assistant.md) | Tracks, verifies, and reports expenses with real-time insights for finance directors. |
+| [Extract Document Data](../../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
 | [Finance Director Report Automator](../../finance/data-analysis/finance-director-report-automator.md) | Automates financial reporting from data extraction to distribution and compliance. |
 | [Finance Impact Modeler](../../finance/data-analysis/finance-impact-modeler.md) | Economic impact analysis assistant for finance and accounting specialists. |
 | [Fleet Fuel Savings Strategist](fleet-fuel-savings-strategist.md) | Analyzes fleet data and generates fuel-saving strategies for transportation managers. |
 | [Fleet Tracking Coordinator](fleet-tracking-coordinator.md) | Real-time fleet tracking, route optimization, and incident response for transportation managers. |
 | [Forecast Variance Advisor](../../finance/data-analysis/forecast-variance-advisor.md) | Turns your financial data into forecasts, variance insights, and budget recommendations. |
 | [Gap Closure Training Planner](../../human-resources/data-analysis/gap-closure-training-planner.md) | Identifies training needs and aligns development programs with organizational goals. |
+| [Geopandas](../../it-and-development/data-analysis/geopandas.md) | Reads, analyzes, and transforms geospatial vector data using Python. |
 | [Hydrogeology Data Analyst](../../science-and-research/data-analysis/hydrogeology-data-analyst.md) | Analyzes hydrogeological data and drafts reports, models, and plans for groundwater work. |
 | [IT Budget Scenario Planner](../../it-and-development/data-analysis/it-budget-scenario-planner.md) | Turns IT spending history and plans into forecasts, scenarios, and reports for budget decisions. |
 | [Job Evaluation and Grading Assistant](../../human-resources/data-analysis/job-evaluation-and-grading-assistant.md) | Job evaluation and grading assistant for compensation analysts, from analysis to communication. |
@@ -68,6 +77,7 @@ Clean, query, chart and explain data. 112 Grok Bot templates, 13 of them filed i
 | [Operational Efficiency Analysis Assistant](../../executives-and-strategy/data-analysis/operational-efficiency-analysis-assistant.md) | Analyzes operations and hands back improvement plans for executive decisions. |
 | [Operational KPI Dashboard Designer](../../operations/data-analysis/operational-kpi-dashboard-designer.md) | Designs and maintains operational KPI dashboards with data integration, analysis, and reporting. |
 | [Pay Equity Analysis Assistant](../../human-resources/data-analysis/pay-equity-analysis-assistant.md) | Guides pay equity analyses from data collection to monitoring and reporting. |
+| [Pdf Processing Pro](../../operations/data-analysis/pdf-processing-pro.md) | Extracts text, tables, and form data from PDFs with validation and batch processing. |
 | [Performance Management Guidance](../../human-resources/data-analysis/performance-management-guidance.md) | Guides HR directors through every step of performance management, from criteria to communication. |
 | [Performance Metrics Manager](../../management/data-analysis/performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Performance Metrics Strategist](../../executives-and-strategy/data-analysis/performance-metrics-strategist.md) | Develops and refines performance metrics for strategic decision-making. |
@@ -89,8 +99,10 @@ Clean, query, chart and explain data. 112 Grok Bot templates, 13 of them filed i
 | [Risk Radar for QC Teams](../../operations/data-analysis/risk-radar-for-qc-teams.md) | Identifies, assesses, and mitigates operational risks with data-driven insights and monitoring. |
 | [Safety Data Analyst](../../healthcare/data-analysis/safety-data-analyst.md) | Turns health and safety data into insights, reports, and compliance checks. |
 | [Safety Data Insights Assistant](../../operations/data-analysis/safety-data-insights-assistant.md) | Turns safety data into prioritized, actionable risk-reduction insights. |
+| [Senior Data Scientist](../../science-and-research/data-analysis/senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
 | [Senior Manager Decision Support](../../management/data-analysis/senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
 | [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
+| [Spreadsheet](../../finance/data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Stakeholder Engagement Analyst](../../it-and-development/data-analysis/stakeholder-engagement-analyst.md) | Maps, analyzes, and reports on stakeholders to sharpen engagement strategies. |
 | [Statistical Analysis Assistant](../../it-and-development/data-analysis/statistical-analysis-assistant.md) | Guides data analysts through statistical analysis tasks from cleaning to interpretation. |

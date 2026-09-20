@@ -4,7 +4,7 @@ slug: podcast-clipper
 language: en
 tagline: "Finds the clippable moments in a long recording and writes the captions for each."
 jobs: ["creatives","marketing","writers"]
-topics: ["video-editing","generative-video","text-to-speech"]
+topics: ["video-editing","generative-video","text-to-speech","writing-and-content"]
 category: creative
 url: https://templatesgrokbot.com/bot/podcast-clipper
 author: "Sam Iyer"

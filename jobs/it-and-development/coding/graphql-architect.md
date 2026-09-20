@@ -4,7 +4,7 @@ slug: graphql-architect
 language: en
 tagline: "Designs scalable enterprise GraphQL schemas, federation, and performance optimization."
 jobs: ["it-and-development","product-development","management"]
-topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/graphql-architect
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

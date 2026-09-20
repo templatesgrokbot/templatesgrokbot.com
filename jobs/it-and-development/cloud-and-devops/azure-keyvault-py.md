@@ -4,7 +4,7 @@ slug: azure-keyvault-py
 language: en
 tagline: "Manage Azure Key Vault secrets, keys, and certificates via Python SDK."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-keyvault-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: travel-health-analyzer
 language: en
 tagline: "Analyze travel health risks, recommend vaccines, and generate multilingual emergency cards using WHO/CDC data. All advice requires doctor review. No d"
 jobs: ["healthcare","science-and-research"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","translation"]
 category: engineering
 url: https://templatesgrokbot.com/bot/travel-health-analyzer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

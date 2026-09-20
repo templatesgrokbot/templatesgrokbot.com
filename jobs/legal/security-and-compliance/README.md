@@ -1,6 +1,6 @@
 # Security & Compliance templates for Legal
 
-Authorised security testing, audits and regulatory work. 113 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 114 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -89,6 +89,7 @@ Authorised security testing, audits and regulatory work. 113 Grok Bot templates,
 | [QC Compliance Report Builder](../../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
 | [Real Estate Compliance Assistant](../../real-estate-and-construction/security-and-compliance/real-estate-compliance-assistant.md) | Legal and ethical compliance assistant for real estate brokers, from research to policy drafting. |
 | [Regulation Risk Drafts for Engineers](../../science-and-research/security-and-compliance/regulation-risk-drafts-for-engineers.md) | Tracks environmental laws, flags compliance risks, and drafts the paperwork to stay legal. |
+| [Regulatory Affairs Head](../../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
 | [Regulatory Compliance Analyst](../../finance/security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
 | [Regulatory Compliance Analyst Assistant](../../finance/security-and-compliance/regulatory-compliance-analyst-assistant.md) | Regulatory compliance analysis assistant for insurance data analysts, covering collection to audit and training. |
 | [Regulatory Compliance Assessment Assistant](../../finance/security-and-compliance/regulatory-compliance-assessment-assistant.md) | Regulatory compliance assessment and reporting support for insurance actuaries. |

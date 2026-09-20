@@ -4,7 +4,7 @@ slug: miro-automation
 language: en
 tagline: "Automate Miro boards, items, sticky notes, frames, sharing, and connectors via Rube MCP."
 jobs: ["operations","product-development","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","office-tools","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/miro-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

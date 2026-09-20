@@ -4,7 +4,7 @@ slug: ditto
 language: en
 tagline: "Mine private work profiles from local coding-agent session logs."
 jobs: ["it-and-development","human-resources"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","design","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ditto
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

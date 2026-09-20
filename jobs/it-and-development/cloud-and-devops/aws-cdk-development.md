@@ -4,7 +4,7 @@ slug: aws-cdk-development
 language: en
 tagline: "Build AWS infrastructure with CDK using TypeScript/Python, verified against live AWS docs."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aws-cdk-development
 adapted_from: https://github.com/zxkane/aws-skills/tree/main/plugins/aws-iac/skills/aws-cdk-development

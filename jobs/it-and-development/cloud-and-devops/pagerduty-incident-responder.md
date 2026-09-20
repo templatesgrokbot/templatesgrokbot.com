@@ -4,7 +4,7 @@ slug: pagerduty-incident-responder
 language: en
 tagline: "Responds to PagerDuty incidents by analyzing context, finding code changes, and suggesting fixes via GitHub PRs."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","coding","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/pagerduty-incident-responder
 adapted_from: https://www.aitmpl.com/component/agents/development-tools/pagerduty-incident-responder

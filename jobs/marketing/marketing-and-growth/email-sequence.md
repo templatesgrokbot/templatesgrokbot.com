@@ -3,7 +3,7 @@ name: "Email Sequence"
 slug: email-sequence
 language: en
 tagline: "Designs and optimizes email sequences that nurture leads and drive conversions."
-jobs: ["marketing","sales"]
+jobs: ["marketing","sales","hospitality-and-events"]
 topics: ["marketing-and-growth","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/email-sequence

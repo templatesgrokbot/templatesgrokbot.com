@@ -4,7 +4,7 @@ slug: ui-lint
 language: en
 tagline: "Scans code for common design system violations in seconds."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ui-lint
 adapted_from: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-lint

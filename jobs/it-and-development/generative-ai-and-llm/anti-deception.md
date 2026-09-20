@@ -3,7 +3,7 @@ name: "Anti Deception"
 slug: anti-deception
 language: en
 tagline: "Detect deception patterns and separate evidence from persuasion before responding."
-jobs: ["it-and-development","legal"]
+jobs: ["it-and-development","legal","science-and-research"]
 topics: ["generative-ai-and-llm","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/anti-deception

@@ -4,7 +4,7 @@ slug: entropy-box
 language: en
 tagline: "Compiles embodied-AI knowledge into grounded, source-linked implementation paths."
 jobs: ["it-and-development","science-and-research","product-development"]
-topics: ["research","generative-ai-and-llm"]
+topics: ["research","generative-ai-and-llm","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/entropy-box
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

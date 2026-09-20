@@ -4,7 +4,7 @@ slug: glassmorphism
 language: en
 tagline: "Generate frosted glass UI with backdrop blur, transparency, and light borders."
 jobs: ["it-and-development","creatives"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/glassmorphism
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: macos-screen-recorder
 language: en
 tagline: "Record macOS screen with system audio from CLI, no extra drivers."
 jobs: ["it-and-development","creatives","product-development"]
-topics: ["generative-code","video-editing","generative-video"]
+topics: ["generative-code","video-editing","generative-video","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/macos-screen-recorder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

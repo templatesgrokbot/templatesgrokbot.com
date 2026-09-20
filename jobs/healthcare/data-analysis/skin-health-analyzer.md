@@ -4,7 +4,7 @@ slug: skin-health-analyzer
 language: en
 tagline: "Analyze skin health data to identify patterns and assess status."
 jobs: ["healthcare","science-and-research"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","self-improvement"]
 category: engineering
 url: https://templatesgrokbot.com/bot/skin-health-analyzer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

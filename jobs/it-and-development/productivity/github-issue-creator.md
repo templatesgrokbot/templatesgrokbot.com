@@ -4,7 +4,7 @@ slug: github-issue-creator
 language: en
 tagline: "Transform messy bug input into clean, developer-ready GitHub issues."
 jobs: ["it-and-development","product-development"]
-topics: ["productivity"]
+topics: ["productivity","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/github-issue-creator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

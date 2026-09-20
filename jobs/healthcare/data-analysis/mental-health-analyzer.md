@@ -3,7 +3,7 @@ name: "Mental Health Analyzer"
 slug: mental-health-analyzer
 language: en
 tagline: "Analyze mental health data to identify patterns, assess risks, and provide personalized recommendations."
-jobs: ["healthcare"]
+jobs: ["healthcare","science-and-research"]
 topics: ["data-analysis","research"]
 category: research
 url: https://templatesgrokbot.com/bot/mental-health-analyzer

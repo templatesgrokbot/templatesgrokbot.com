@@ -4,7 +4,7 @@ slug: agentmail
 language: en
 tagline: "Provision AgentMail accounts, send/receive email, and manage webhooks via REST API."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","office-tools"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agentmail
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: web-project-brainstorming
 language: en
 tagline: "Structured framework for brainstorming web project concepts, UX, styling, tech stack, and SEO."
 jobs: ["product-development","management","executives-and-strategy"]
-topics: ["productivity","research"]
+topics: ["productivity","research","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/web-project-brainstorming
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

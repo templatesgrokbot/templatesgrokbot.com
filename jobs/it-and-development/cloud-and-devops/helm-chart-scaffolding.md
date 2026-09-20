@@ -4,7 +4,7 @@ slug: helm-chart-scaffolding
 language: en
 tagline: "Scaffolds Helm charts, validates templates, and reviews best practices for Kubernetes."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/helm-chart-scaffolding
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,7 +3,7 @@ name: "Docusign Automation"
 slug: docusign-automation
 language: en
 tagline: "Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management."
-jobs: ["operations","sales","legal"]
+jobs: ["operations","sales","legal","human-resources","real-estate-and-construction"]
 topics: ["office-tools","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/docusign-automation

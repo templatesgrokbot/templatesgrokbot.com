@@ -4,7 +4,7 @@ slug: fsi-compliance-checker
 language: en
 tagline: "Maps code changes to PCI-DSS v4.0 and MAS TRM controls with actionable remediation."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","coding"]
+topics: ["security-and-compliance","coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fsi-compliance-checker
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

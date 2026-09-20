@@ -4,7 +4,7 @@ slug: browser-act
 language: en
 tagline: "Authenticated browser automation with JS rendering, screenshots, and human handoff."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/browser-act
 adapted_from: https://github.com/browser-act/skills/tree/main/browser-act

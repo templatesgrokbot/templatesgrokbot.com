@@ -3,7 +3,7 @@ name: "Task Researcher"
 slug: task-researcher
 language: en
 tagline: "Researches tasks deeply and documents findings in ./.copilot-tracking/research/."
-jobs: ["it-and-development","product-development"]
+jobs: ["it-and-development","product-development","science-and-research"]
 topics: ["research","knowledge-management"]
 category: research
 url: https://templatesgrokbot.com/bot/task-researcher

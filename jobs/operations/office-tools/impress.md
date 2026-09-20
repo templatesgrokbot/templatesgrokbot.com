@@ -3,7 +3,7 @@ name: "Impress"
 slug: impress
 language: en
 tagline: "Create, edit, and convert presentations using LibreOffice Impress."
-jobs: ["operations","marketing"]
+jobs: ["operations","marketing","it-and-development"]
 topics: ["office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/impress

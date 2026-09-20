@@ -3,8 +3,8 @@ name: "Linux Shell Scripting"
 slug: linux-shell-scripting
 language: en
 tagline: "Generates production-ready bash scripts for Linux system administration tasks."
-jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+jobs: ["it-and-development","operations","government"]
+topics: ["coding","cloud-and-devops","generative-code","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/linux-shell-scripting
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

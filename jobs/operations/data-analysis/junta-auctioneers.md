@@ -3,8 +3,8 @@ name: "Junta Auctioneers"
 slug: junta-auctioneers
 language: en
 tagline: "Collect and query official auctioneer data from all 27 Brazilian Commercial Boards."
-jobs: ["operations","government"]
-topics: ["data-analysis","research"]
+jobs: ["operations","government","it-and-development"]
+topics: ["data-analysis","research","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/junta-auctioneers
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

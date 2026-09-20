@@ -3,8 +3,8 @@ name: "Research Brief Generator"
 slug: research-brief-generator
 language: en
 tagline: "Transforms a research query into a structured brief with questions, keywords, and source preferences."
-jobs: ["science-and-research","marketing","product-development"]
-topics: ["research","prompt-engineering"]
+jobs: ["science-and-research","marketing","product-development","writers"]
+topics: ["research","prompt-engineering","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/research-brief-generator
 adapted_from: https://www.aitmpl.com/component/agents/deep-research-team/research-brief-generator

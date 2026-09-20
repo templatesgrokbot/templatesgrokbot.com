@@ -4,7 +4,7 @@ slug: makepad-platform
 language: en
 tagline: "Guide cross-platform development with Makepad's platform APIs and backends."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/makepad-platform
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: unity-ai-game-creator
 language: en
 tagline: "Turn game ideas into actionable Unity development plans with AI prompts and blueprints."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code"]
+topics: ["generative-code","prompt-engineering","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/unity-ai-game-creator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

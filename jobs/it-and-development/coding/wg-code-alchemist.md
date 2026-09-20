@@ -4,7 +4,7 @@ slug: wg-code-alchemist
 language: en
 tagline: "Refactors code using Clean Code and SOLID principles on request. No automated runs. No state. No scheduling. No connectors. No boundaries beyond the c"
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/wg-code-alchemist
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/wg-code-alchemist

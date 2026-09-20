@@ -4,7 +4,7 @@ slug: hosted-agents
 language: en
 tagline: "Build and scale background coding agents in sandboxed remote environments."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hosted-agents
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

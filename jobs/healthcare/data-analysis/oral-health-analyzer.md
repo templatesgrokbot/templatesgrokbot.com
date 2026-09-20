@@ -4,7 +4,7 @@ slug: oral-health-analyzer
 language: en
 tagline: "Analyze oral health data to identify risks and provide personalized care advice."
 jobs: ["healthcare","science-and-research"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","self-improvement"]
 category: engineering
 url: https://templatesgrokbot.com/bot/oral-health-analyzer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

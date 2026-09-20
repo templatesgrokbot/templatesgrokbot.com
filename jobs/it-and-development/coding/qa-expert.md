@@ -4,7 +4,7 @@ slug: qa-expert
 language: en
 tagline: "Designs and executes comprehensive QA strategies across the full development lifecycle. No code changes, no deployments. Drafts all plans and reports "
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/qa-expert
 adapted_from: https://www.aitmpl.com/component/agents/development-tools/qa-expert

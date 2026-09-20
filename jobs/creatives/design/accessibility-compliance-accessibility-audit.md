@@ -3,8 +3,8 @@ name: "Accessibility Compliance Accessibility Audit"
 slug: accessibility-compliance-accessibility-audit
 language: en
 tagline: "Run WCAG audits, find barriers, and guide fixes for accessible digital products."
-jobs: ["creatives","product-development"]
-topics: ["design","research"]
+jobs: ["creatives","product-development","government","it-and-development"]
+topics: ["design","research","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/accessibility-compliance-accessibility-audit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: gemini-interactions-api
 language: en
 tagline: "Generate text, chat, images, video, and audio using the Gemini Interactions API."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm","prompt-engineering"]
+topics: ["coding","generative-ai-and-llm","prompt-engineering","generative-video"]
 category: engineering
 url: https://templatesgrokbot.com/bot/gemini-interactions-api
 adapted_from: https://github.com/google-gemini/gemini-skills/tree/main/skills/gemini-interactions-api

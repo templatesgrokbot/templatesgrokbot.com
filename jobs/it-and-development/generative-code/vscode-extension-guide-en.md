@@ -4,7 +4,7 @@ slug: vscode-extension-guide-en
 language: en
 tagline: "Guides VS Code extension development from scaffolding to Marketplace publication."
 jobs: ["it-and-development"]
-topics: ["generative-code","coding"]
+topics: ["generative-code","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/vscode-extension-guide-en
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

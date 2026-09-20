@@ -4,7 +4,7 @@ slug: senior-devops
 language: en
 tagline: "Sets up CI/CD pipelines, scaffolds infrastructure as code, and manages cloud deployments across AWS, GCP, and Azure."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/senior-devops
 adapted_from: https://www.aitmpl.com/component/skills/development/senior-devops

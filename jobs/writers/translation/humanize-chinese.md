@@ -3,7 +3,7 @@ name: "Humanize Chinese"
 slug: humanize-chinese
 language: en
 tagline: "Detect and rewrite AI-like Chinese text to sound natural, reduce AIGC, or match a target style."
-jobs: ["writers","marketing"]
+jobs: ["writers","marketing","creatives"]
 topics: ["translation","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/humanize-chinese

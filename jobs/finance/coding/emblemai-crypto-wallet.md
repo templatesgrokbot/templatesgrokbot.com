@@ -4,7 +4,7 @@ slug: emblemai-crypto-wallet
 language: en
 tagline: "Manage crypto wallets across 7 blockchains via EmblemAI Agent Hustle API."
 jobs: ["finance","it-and-development","operations"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm","data-analysis"]
 category: finance
 url: https://templatesgrokbot.com/bot/emblemai-crypto-wallet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

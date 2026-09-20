@@ -4,7 +4,7 @@ slug: modellix
 language: en
 tagline: "Generate images, videos, and speech via the Modellix CLI workflow."
 jobs: ["creatives","it-and-development","marketing"]
-topics: ["generative-art","generative-video","text-to-speech"]
+topics: ["generative-art","generative-video","text-to-speech","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/modellix
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

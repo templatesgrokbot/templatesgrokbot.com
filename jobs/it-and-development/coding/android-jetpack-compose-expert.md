@@ -4,7 +4,7 @@ slug: android-jetpack-compose-expert
 language: en
 tagline: "Expert guidance for building modern Android UIs with Jetpack Compose."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/android-jetpack-compose-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

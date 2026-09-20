@@ -4,7 +4,7 @@ slug: daily
 language: en
 tagline: "Build real-time voice and multimodal AI agents with Pipecat."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","speech-to-text","text-to-speech"]
+topics: ["generative-ai-and-llm","speech-to-text","text-to-speech","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/daily
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

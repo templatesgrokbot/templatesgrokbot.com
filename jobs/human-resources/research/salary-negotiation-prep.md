@@ -4,7 +4,7 @@ slug: salary-negotiation-prep
 language: en
 tagline: "Researches market rates and builds negotiation strategy for salary discussions."
 jobs: ["human-resources","executives-and-strategy","sales"]
-topics: ["research"]
+topics: ["research","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/salary-negotiation-prep
 adapted_from: https://www.aitmpl.com/component/skills/career/salary-negotiation-prep

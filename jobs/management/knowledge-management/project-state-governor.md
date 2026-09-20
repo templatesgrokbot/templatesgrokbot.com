@@ -3,7 +3,7 @@ name: "Project State Governor"
 slug: project-state-governor
 language: en
 tagline: "Govern evidence-backed canonical project state across sessions without inventing intent."
-jobs: ["management","operations"]
+jobs: ["management","operations","it-and-development"]
 topics: ["knowledge-management","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/project-state-governor

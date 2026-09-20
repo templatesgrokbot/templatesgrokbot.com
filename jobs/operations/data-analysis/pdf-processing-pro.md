@@ -3,8 +3,8 @@ name: "Pdf Processing Pro"
 slug: pdf-processing-pro
 language: en
 tagline: "Extracts text, tables, and form data from PDFs with validation and batch processing."
-jobs: ["operations","it-and-development"]
-topics: ["data-analysis","research"]
+jobs: ["operations","it-and-development","legal","insurance","government"]
+topics: ["data-analysis","research","office-tools","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/pdf-processing-pro
 adapted_from: https://www.aitmpl.com/component/skills/document-processing/pdf-processing-pro

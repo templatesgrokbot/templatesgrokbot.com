@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **420 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **424 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,13 @@ Accounting, budgeting, analysis and risk. **420 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 282 |
+| [Data Analysis](data-analysis/README.md) | 283 |
 | [Security & Compliance](security-and-compliance/README.md) | 41 |
 | [Productivity](productivity/README.md) | 27 |
-| [Research](research/README.md) | 19 |
+| [Research](research/README.md) | 20 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
+| [Office Tools](office-tools/README.md) | 10 |
 | [Coding](coding/README.md) | 9 |
-| [Office Tools](office-tools/README.md) | 8 |
 | [Writing & Content](writing-and-content/README.md) | 7 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 4 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
@@ -35,13 +35,13 @@ Accounting, budgeting, analysis and risk. **420 ready-made Grok Bot templates** 
 | [Offer Comparison Analyzer](../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
 | [Excel Analysis](data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
+| [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Auction Market Analyst](data-analysis/auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |
 | [Risk Metrics Calculation](data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
 | [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [CFO Tax Planning Assistant](data-analysis/cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
-| [Financial Forecasting and Analysis Assistant](../executives-and-strategy/data-analysis/financial-forecasting-and-analysis-assistant.md) | Turns financial data into forecasts, budgets, and scenario insights for a VP of Finance. |
 
-[All 282 Data Analysis templates →](data-analysis/README.md)
+[All 283 Data Analysis templates →](data-analysis/README.md)
 
 ## Security & Compliance
 
@@ -79,14 +79,14 @@ Accounting, budgeting, analysis and risk. **420 ready-made Grok Bot templates** 
 |---|---|
 | [Maxia](../operations/research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
 | [Grant Finder](../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
+| [Research Analyst](../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
 | [Helium Mcp](../science-and-research/research/helium-mcp.md) | Search news with bias analysis, get balanced perspectives, and look up live stock/options data. |
 | [Tax Code Interpretation Assistant](research/tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |
 | [Term Sheet Reader](research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
 | [Tax Strategy Formulation Assistant](research/tax-strategy-formulation-assistant.md) | Researches tax law, analyzes financial data, and designs tax-efficient strategies for your organization. |
 | [Screen Adverse Media](../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
-| [Research and Reporting Assistant](research/research-and-reporting-assistant.md) | Gathers, analyzes, and reports research data for administrative finance support. |
 
-[All 19 Research templates →](research/README.md)
+[All 20 Research templates →](research/README.md)
 
 ## Teaching & Tutoring
 
@@ -103,6 +103,21 @@ Accounting, budgeting, analysis and risk. **420 ready-made Grok Bot templates** 
 
 [All 11 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Excel Spreadsheets](../operations/office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
+| [Finance Calendar Concierge](office-tools/finance-calendar-concierge.md) | Manages your calendar, bookings, reminders, and scheduling conflicts end to end. |
+| [Presentation Preparation Assistant](office-tools/presentation-preparation-assistant.md) | Prepares complete presentations for administrative assistants in finance, from research to follow-up. |
+| [Calc](../operations/office-tools/calc.md) | Create, convert, and automate spreadsheets with LibreOffice Calc. |
+| [Odoo Accounting Setup](../operations/office-tools/odoo-accounting-setup.md) | Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation. |
+| [Googlesheets Automation](../operations/office-tools/googlesheets-automation.md) | Read, write, format, filter, and manage Google Sheets via Rube MCP. |
+| [Document Preparation and Formatting Assistant](office-tools/document-preparation-and-formatting-assistant.md) | Prepares, formats, and polishes all business documents for administrative assistants. |
+| [Office Productivity](../operations/office-tools/office-productivity.md) | Create, convert, and automate documents, spreadsheets, and presentations. |
+
+[All 10 Office Tools templates →](office-tools/README.md)
+
 ## Coding
 
 | Template | What it does |
@@ -117,19 +132,6 @@ Accounting, budgeting, analysis and risk. **420 ready-made Grok Bot templates** 
 | [Payment Integration](../it-and-development/coding/payment-integration.md) | Design and secure payment systems with PCI compliance and fraud prevention. |
 
 [All 9 Coding templates →](coding/README.md)
-
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [Excel Spreadsheets](../operations/office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
-| [Finance Calendar Concierge](office-tools/finance-calendar-concierge.md) | Manages your calendar, bookings, reminders, and scheduling conflicts end to end. |
-| [Presentation Preparation Assistant](office-tools/presentation-preparation-assistant.md) | Prepares complete presentations for administrative assistants in finance, from research to follow-up. |
-| [Calc](../operations/office-tools/calc.md) | Create, convert, and automate spreadsheets with LibreOffice Calc. |
-| [Odoo Accounting Setup](../operations/office-tools/odoo-accounting-setup.md) | Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation. |
-| [Document Preparation and Formatting Assistant](office-tools/document-preparation-and-formatting-assistant.md) | Prepares, formats, and polishes all business documents for administrative assistants. |
-| [Bilig Workpaper](office-tools/bilig-workpaper.md) | Use formula-backed WorkPaper JSON and MCP tools for agent spreadsheet tasks without driving Excel or a browser UI. |
-| [Email Management Assistant](office-tools/email-management-assistant.md) | Manages your inbox end-to-end: sorting, drafting, scheduling, tracking, and securing email. |
 
 ## Writing & Content
 

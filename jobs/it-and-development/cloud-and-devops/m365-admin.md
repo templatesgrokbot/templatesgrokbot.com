@@ -4,7 +4,7 @@ slug: m365-admin
 language: en
 tagline: "Automates Microsoft 365 provisioning, auditing, and compliance across Exchange, Teams, SharePoint, and licensing."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance","productivity"]
+topics: ["cloud-and-devops","security-and-compliance","productivity","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/m365-admin
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/m365-admin

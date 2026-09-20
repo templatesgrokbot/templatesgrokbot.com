@@ -4,7 +4,7 @@ slug: wordpress-theme-development
 language: en
 tagline: "Build custom WordPress themes with block editor and 7.0 features."
 jobs: ["it-and-development","creatives"]
-topics: ["coding","design"]
+topics: ["coding","design","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wordpress-theme-development
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

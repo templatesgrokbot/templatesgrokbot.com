@@ -4,7 +4,7 @@ slug: observability-monitoring-slo-implement
 language: en
 tagline: "Implement SLO frameworks and error budgets for service reliability."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/observability-monitoring-slo-implement
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

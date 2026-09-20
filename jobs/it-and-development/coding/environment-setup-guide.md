@@ -4,7 +4,7 @@ slug: environment-setup-guide
 language: en
 tagline: "Guide developers through step-by-step development environment setup and verification."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/environment-setup-guide
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

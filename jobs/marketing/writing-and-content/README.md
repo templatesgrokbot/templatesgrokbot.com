@@ -1,6 +1,6 @@
 # Writing & Content templates for Marketing
 
-Plan, write and edit articles, copy and documentation. 78 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 79 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -84,5 +84,6 @@ Plan, write and edit articles, copy and documentation. 78 Grok Bot templates, 28
 | [Video Scriptwriting Assistant](../../writers/writing-and-content/video-scriptwriting-assistant.md) | Turns video ideas into polished scripts, from hooks to CTAs, for any platform. |
 | [Website Content Manager](../../it-and-development/writing-and-content/website-content-manager.md) | Manages your website's content lifecycle from planning to promotion and analytics. |
 | [Wordpress Centric High Seo Optimized Blogwriting](wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
+| [Writing Clearly And Concisely](../../writers/writing-and-content/writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

@@ -4,7 +4,7 @@ slug: audio-quality-controller
 language: en
 tagline: "Analyzes and enhances audio files to broadcast-quality standards with detailed reports. No hype, no emoji, no 'leverage'/'empower'/'seamless'."
 jobs: ["creatives","operations"]
-topics: ["video-editing","speech-to-text"]
+topics: ["video-editing","speech-to-text","voice-modulation"]
 category: operations
 url: https://templatesgrokbot.com/bot/audio-quality-controller
 adapted_from: https://www.aitmpl.com/component/agents/ffmpeg-clip-team/audio-quality-controller

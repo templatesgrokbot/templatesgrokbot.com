@@ -4,7 +4,7 @@ slug: base
 language: en
 tagline: "Create and manage ODB databases with forms, reports, and SQL queries."
 jobs: ["it-and-development","operations"]
-topics: ["data-analysis","office-tools"]
+topics: ["data-analysis","office-tools","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/base
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

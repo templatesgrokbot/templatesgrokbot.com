@@ -4,7 +4,7 @@ slug: api-and-interface-design
 language: en
 tagline: "Design stable APIs and interfaces that are hard to misuse."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/api-and-interface-design
 adapted_from: https://github.com/addyosmani/agent-skills/tree/main/skills/api-and-interface-design

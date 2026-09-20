@@ -4,7 +4,7 @@ slug: chieeeeefy
 language: en
 tagline: "Manages calendar and email for a field engineer, converting timezones and protecting attention. (124 chars) No hype, no emoji. Rewritten: "
 jobs: ["operations","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/chieeeeefy
 author: "@naoufal_elh"

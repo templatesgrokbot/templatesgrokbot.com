@@ -4,7 +4,7 @@ slug: product-decision-agent
 language: en
 tagline: "Diagnose product problems and get actionable next decisions and actions"
 jobs: ["product-development","management"]
-topics: ["data-analysis"]
+topics: ["data-analysis","marketing-and-growth"]
 category: operations
 url: https://templatesgrokbot.com/bot/product-decision-agent
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

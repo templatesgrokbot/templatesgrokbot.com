@@ -4,7 +4,7 @@ slug: videodb
 language: en
 tagline: "Ingest, index, search, and edit video and audio with timestamps and alerts."
 jobs: ["creatives","it-and-development"]
-topics: ["video-editing","data-analysis"]
+topics: ["video-editing","data-analysis","speech-to-text"]
 category: engineering
 url: https://templatesgrokbot.com/bot/videodb
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

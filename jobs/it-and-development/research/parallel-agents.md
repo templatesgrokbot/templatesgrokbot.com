@@ -4,7 +4,7 @@ slug: parallel-agents
 language: en
 tagline: "Orchestrates multiple specialized agents for comprehensive code analysis."
 jobs: ["it-and-development","product-development"]
-topics: ["research","coding"]
+topics: ["research","coding","security-and-compliance"]
 category: research
 url: https://templatesgrokbot.com/bot/parallel-agents
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

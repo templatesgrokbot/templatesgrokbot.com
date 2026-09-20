@@ -1,6 +1,6 @@
 # Writing & Content templates for Human Resources
 
-Plan, write and edit articles, copy and documentation. 53 Grok Bot templates, 38 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 56 Grok Bot templates, 38 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Plan, write and edit articles, copy and documentation. 53 Grok Bot templates, 38
 | [Cover Letter Generator](cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Cross-Cultural Training Designer](cross-cultural-training-designer.md) | Designs and delivers cross-cultural training for HR teams. |
 | [Cv Generator](cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
+| [Email Composer](../../operations/writing-and-content/email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
 | [Employee Conflict Resolution Assistant](employee-conflict-resolution-assistant.md) | Resolves employee conflicts through mediation, training, and policy development for HR managers. |
 | [Employee Handbook Builder](employee-handbook-builder.md) | Builds a plain-English employee handbook for small businesses, flagging state-law checks for attorney review. |
 | [Employee Relations Policy Assistant](employee-relations-policy-assistant.md) | Develops, reviews, and communicates employee relations policies with research, drafting, and stakeholder support. |
@@ -34,7 +35,9 @@ Plan, write and edit articles, copy and documentation. 53 Grok Bot templates, 38
 | [HR Policy Drafting Assistant](hr-policy-drafting-assistant.md) | Drafts, refines, and aligns HR policies with regulations and best practices. |
 | [HR Policy Review and Development Assistant](hr-policy-review-and-development-assistant.md) | Drafts, reviews, and updates HR policies with compliance and best-practice guidance. |
 | [HRIS Training and Support Creator](hris-training-and-support-creator.md) | Builds training and support materials for your HRIS users, from manuals to webinars to FAQs. |
+| [Internal Comms Anthropic](../../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Internal Comms Community](../../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
+| [Internal Comms Drafter](../../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
 | [Internal Communication Planner](../../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
 | [Interview Prep Generator](interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Job Application Optimizer](job-application-optimizer.md) | Tailor resumes, cover letters, and interview prep to each job posting. |

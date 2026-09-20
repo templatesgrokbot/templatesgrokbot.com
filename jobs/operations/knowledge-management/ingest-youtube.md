@@ -3,7 +3,7 @@ name: "Ingest Youtube"
 slug: ingest-youtube
 language: en
 tagline: "Pull a YouTube transcript into a markdown vault as a queryable note."
-jobs: ["operations","it-and-development"]
+jobs: ["operations","it-and-development","writers"]
 topics: ["knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/ingest-youtube

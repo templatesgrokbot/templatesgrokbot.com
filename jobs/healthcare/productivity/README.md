@@ -1,6 +1,6 @@
 # Productivity templates for Healthcare
 
-Plan, prioritise and clear the recurring admin. 18 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 19 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,6 +20,7 @@ Plan, prioritise and clear the recurring admin. 18 Grok Bot templates, 9 of them
 | [Medical Records Clerk Scheduler](medical-records-clerk-scheduler.md) | Schedules patient appointments, sends reminders, and manages follow-ups for medical records clerks. |
 | [Operations Crisis Navigator](../../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
 | [Operations Risk Assessment Guide](../../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
+| [Outlook Calendar Automation](../../management/productivity/outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
 | [Patient Account Management Assistant](patient-account-management-assistant.md) | Streamlines patient account workflows from verification to collections with accurate, compliant handling. |
 | [Professional Development Tracker](../../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
 | [Safety Training and Drill Coordinator](safety-training-and-drill-coordinator.md) | Coordinates safety training and drills for health and safety specialists, from scheduling to compliance tracking. |

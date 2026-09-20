@@ -4,7 +4,7 @@ slug: api-fuzzing-bug-bounty
 language: en
 tagline: "Guide bug bounty hunters to fuzz REST, SOAP, and GraphQL APIs for vulnerabilities."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/api-fuzzing-bug-bounty
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

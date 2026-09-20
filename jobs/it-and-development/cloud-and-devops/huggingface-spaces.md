@@ -4,7 +4,7 @@ slug: huggingface-spaces
 language: en
 tagline: "Build, deploy, and maintain ML apps on Hugging Face Spaces with Gradio, Docker, or Static SDKs."
 jobs: ["it-and-development","science-and-research"]
-topics: ["cloud-and-devops","generative-ai-and-llm"]
+topics: ["cloud-and-devops","generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/huggingface-spaces
 adapted_from: https://github.com/huggingface/skills/tree/main/skills/huggingface-spaces

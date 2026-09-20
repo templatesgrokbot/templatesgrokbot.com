@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 282 Grok Bot templates, 158 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 283 Grok Bot templates, 158 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -89,6 +89,7 @@ Clean, query, chart and explain data. 282 Grok Bot templates, 158 of them filed 
 | [Data Cleaning Guidance Assistant](../../it-and-development/data-analysis/data-cleaning-guidance-assistant.md) | Guides data analysts through data cleaning tasks with step-by-step advice and validation. |
 | [Data Entry and Database Management Assistant](data-entry-and-database-management-assistant.md) | Handles data entry, database upkeep, validation, migration, analysis, reporting, security, and backups for administrative assistants. |
 | [Data Reporting Assistant](../../operations/data-analysis/data-reporting-assistant.md) | Turns raw data into clean, analyzed, and presentation-ready reports for data entry specialists. |
+| [Data Storytelling](../../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Data Visualization for Financial Data Assistant](data-visualization-for-financial-data-assistant.md) | Turns financial data into clear, insightful visualizations for better decisions. |
 | [Data Visualization Guide](../../it-and-development/data-analysis/data-visualization-guide.md) | Turns raw business data into clear, compelling visualizations and dashboards for stakeholder decisions. |
 | [Data-Driven Decision Support](../../executives-and-strategy/data-analysis/data-driven-decision-support.md) | Turns raw data into clear insights and recommendations for executive decisions. |

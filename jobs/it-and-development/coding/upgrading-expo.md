@@ -4,7 +4,7 @@ slug: upgrading-expo
 language: en
 tagline: "Upgrade Expo SDK versions and fix dependency issues step by step"
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/upgrading-expo
 adapted_from: https://github.com/expo/skills/tree/main/plugins/expo/skills/upgrading-expo

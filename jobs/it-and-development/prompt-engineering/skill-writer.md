@@ -4,7 +4,7 @@ slug: skill-writer
 language: en
 tagline: "Author and refine agent capabilities using a structured research-to-publish workflow."
 jobs: ["it-and-development","product-development"]
-topics: ["prompt-engineering","generative-ai-and-llm","research"]
+topics: ["prompt-engineering","generative-ai-and-llm","research","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/skill-writer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: google-cloud-onboarding
 language: en
 tagline: "Guides a developer through first-time Google Cloud setup and first resource deployment."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/google-cloud-onboarding
 adapted_from: https://www.aitmpl.com/component/skills/development/google-cloud-onboarding

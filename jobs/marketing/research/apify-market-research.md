@@ -3,7 +3,7 @@ name: "Apify Market Research"
 slug: apify-market-research
 language: en
 tagline: "Extract and analyze market data from maps, social, travel, and review platforms via Apify."
-jobs: ["marketing","sales"]
+jobs: ["marketing","sales","hospitality-and-events"]
 topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/apify-market-research

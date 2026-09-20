@@ -4,7 +4,7 @@ slug: data-structure-protocol
 language: en
 tagline: "Navigate and refactor codebases using a persistent structural graph."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/data-structure-protocol
 adapted_from: https://github.com/k-kolomeitsev/data-structure-protocol

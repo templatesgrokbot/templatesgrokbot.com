@@ -4,7 +4,7 @@ slug: blockrun
 language: en
 tagline: "Routes requests to external AI models when you lack capabilities like image generation or real-time X data."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","generative-art"]
 category: engineering
 url: https://templatesgrokbot.com/bot/blockrun
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

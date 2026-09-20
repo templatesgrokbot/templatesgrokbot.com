@@ -3,8 +3,8 @@ name: "Product Marketing Context"
 slug: product-marketing-context
 language: en
 tagline: "Create or update a reusable product marketing context document with positioning, audience, and messaging."
-jobs: ["marketing"]
-topics: ["marketing-and-growth"]
+jobs: ["marketing","writers"]
+topics: ["marketing-and-growth","knowledge-management"]
 category: marketing
 url: https://templatesgrokbot.com/bot/product-marketing-context
 adapted_from: https://github.com/coreyhaines31/marketingskills

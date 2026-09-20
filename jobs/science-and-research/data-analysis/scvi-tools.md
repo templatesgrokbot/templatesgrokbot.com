@@ -4,7 +4,7 @@ slug: scvi-tools
 language: en
 tagline: "Analyzes single-cell omics data using scvi-tools probabilistic models."
 jobs: ["science-and-research","it-and-development"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","teaching-and-tutoring","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/scvi-tools
 adapted_from: https://www.aitmpl.com/component/skills/scientific/scvi-tools

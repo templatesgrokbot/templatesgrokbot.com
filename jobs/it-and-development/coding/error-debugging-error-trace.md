@@ -3,8 +3,8 @@ name: "Error Debugging Error Trace"
 slug: error-debugging-error-trace
 language: en
 tagline: "Set up error monitoring, alerts, and structured logging for production systems."
-jobs: ["it-and-development"]
-topics: ["coding"]
+jobs: ["it-and-development","operations"]
+topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/error-debugging-error-trace
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

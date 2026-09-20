@@ -4,7 +4,7 @@ slug: kotler-macro-analyzer
 language: en
 tagline: "Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews."
 jobs: ["executives-and-strategy","marketing","management"]
-topics: ["research","marketing-and-growth"]
+topics: ["research","marketing-and-growth","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/kotler-macro-analyzer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

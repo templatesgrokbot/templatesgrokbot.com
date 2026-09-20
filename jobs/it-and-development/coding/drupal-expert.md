@@ -4,7 +4,7 @@ slug: drupal-expert
 language: en
 tagline: "Answers Drupal development questions with PHP 8.3+ and modern patterns."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/drupal-expert
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/drupal-expert

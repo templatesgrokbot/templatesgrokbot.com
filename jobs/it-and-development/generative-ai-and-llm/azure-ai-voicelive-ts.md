@@ -4,7 +4,7 @@ slug: azure-ai-voicelive-ts
 language: en
 tagline: "Build real-time voice AI apps with Azure AI Voice Live SDK."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-voicelive-ts
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: azure-storage-file-datalake-py
 language: en
 tagline: "Manage Azure Data Lake Storage Gen2 files and directories with Python SDK."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","data-analysis"]
+topics: ["cloud-and-devops","data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-storage-file-datalake-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

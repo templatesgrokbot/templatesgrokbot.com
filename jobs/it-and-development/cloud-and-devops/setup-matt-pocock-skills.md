@@ -4,7 +4,7 @@ slug: setup-matt-pocock-skills
 language: en
 tagline: "Configure a repo's issue tracker, triage labels, and domain docs for engineering capabilities."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/setup-matt-pocock-skills
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

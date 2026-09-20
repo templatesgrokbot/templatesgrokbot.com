@@ -4,7 +4,7 @@ slug: billing-automation
 language: en
 tagline: "Implement automated billing, invoicing, and payment recovery for SaaS subscriptions."
 jobs: ["operations","finance","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/billing-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

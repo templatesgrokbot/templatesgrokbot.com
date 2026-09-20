@@ -4,7 +4,7 @@ slug: rag-sentence-transformers
 language: en
 tagline: "Generates high-quality text embeddings for semantic search and RAG using local models."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","generative-ai-and-llm"]
+topics: ["data-analysis","generative-ai-and-llm","knowledge-management"]
 category: research
 url: https://templatesgrokbot.com/bot/rag-sentence-transformers
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/rag-sentence-transformers

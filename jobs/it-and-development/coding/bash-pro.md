@@ -3,7 +3,7 @@ name: "Bash Pro"
 slug: bash-pro
 language: en
 tagline: "Write and harden production-grade Bash scripts with defensive patterns and safety checks."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","operations"]
 topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bash-pro

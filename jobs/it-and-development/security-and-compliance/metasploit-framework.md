@@ -4,7 +4,7 @@ slug: metasploit-framework
 language: en
 tagline: "Guide penetration testing with Metasploit from reconnaissance to post-exploitation."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/metasploit-framework
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

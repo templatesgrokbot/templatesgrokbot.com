@@ -4,7 +4,7 @@ slug: robius-matrix-integration
 language: en
 tagline: "Integrate Matrix SDK with Makepad UI using async request/response pattern"
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/robius-matrix-integration
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

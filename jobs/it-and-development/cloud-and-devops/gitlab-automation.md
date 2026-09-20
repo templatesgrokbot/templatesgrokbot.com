@@ -4,7 +4,7 @@ slug: gitlab-automation
 language: en
 tagline: "Automate GitLab project management, issues, MRs, pipelines, branches, and users via Composio."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/gitlab-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

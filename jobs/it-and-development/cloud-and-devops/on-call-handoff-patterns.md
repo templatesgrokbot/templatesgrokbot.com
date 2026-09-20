@@ -4,7 +4,7 @@ slug: on-call-handoff-patterns
 language: en
 tagline: "Structured on-call shift handoffs with incident context and continuity."
 jobs: ["it-and-development","operations","management"]
-topics: ["cloud-and-devops","productivity","knowledge-management"]
+topics: ["cloud-and-devops","productivity","knowledge-management","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/on-call-handoff-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

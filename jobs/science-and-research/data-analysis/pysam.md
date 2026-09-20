@@ -4,7 +4,7 @@ slug: pysam
 language: en
 tagline: "Read, write, and analyze genomic alignment, variant, and sequence files with Python."
 jobs: ["science-and-research"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/pysam
 adapted_from: https://www.aitmpl.com/component/skills/scientific/pysam

@@ -3,8 +3,8 @@ name: "Spec Driven Development"
 slug: spec-driven-development
 language: en
 tagline: "Write a structured spec before coding, gated by human reviews at each phase. No code without a spec. No advancing without approval. No silent assumpti"
-jobs: ["it-and-development","product-development"]
-topics: ["coding","productivity"]
+jobs: ["it-and-development","product-development","management"]
+topics: ["coding","productivity","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/spec-driven-development
 adapted_from: https://github.com/addyosmani/agent-skills/tree/main/skills/spec-driven-development

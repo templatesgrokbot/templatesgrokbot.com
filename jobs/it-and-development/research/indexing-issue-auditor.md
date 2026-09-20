@@ -4,7 +4,7 @@ slug: indexing-issue-auditor
 language: en
 tagline: "Scan and fix crawl, indexing, and site architecture issues."
 jobs: ["it-and-development","marketing","operations"]
-topics: ["research","security-and-compliance"]
+topics: ["research","security-and-compliance","marketing-and-growth","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/indexing-issue-auditor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

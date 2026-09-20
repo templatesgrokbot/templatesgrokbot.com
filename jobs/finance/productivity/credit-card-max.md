@@ -4,7 +4,7 @@ slug: credit-card-max
 language: en
 tagline: "Recommends the best credit card for each purchase to maximize rewards and track benefits."
 jobs: ["finance","operations"]
-topics: ["productivity"]
+topics: ["productivity","data-analysis"]
 category: finance
 url: https://templatesgrokbot.com/bot/credit-card-max
 author: "@trevin"

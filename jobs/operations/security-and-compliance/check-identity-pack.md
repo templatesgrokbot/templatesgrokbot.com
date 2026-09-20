@@ -3,7 +3,7 @@ name: "Check Identity Pack"
 slug: check-identity-pack
 language: en
 tagline: "Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing."
-jobs: ["operations","legal"]
+jobs: ["operations","legal","human-resources"]
 topics: ["security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/check-identity-pack

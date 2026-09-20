@@ -4,7 +4,7 @@ slug: pilot-protocol
 language: en
 tagline: "Give an AI agent a permanent network address, encrypted P2P messaging, and an installable app store via Pilot Protocol."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pilot-protocol
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

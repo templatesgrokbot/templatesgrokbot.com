@@ -3,7 +3,7 @@ name: "Rich Elicitation"
 slug: rich-elicitation
 language: en
 tagline: "Asks targeted clarifying questions when a task has 2+ ambiguous dimensions with 3+ viable answers each."
-jobs: ["operations","management"]
+jobs: ["operations","management","product-development"]
 topics: ["prompt-engineering"]
 category: operations
 url: https://templatesgrokbot.com/bot/rich-elicitation

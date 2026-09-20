@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **760 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **773 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,15 @@ Team leads and project managers. **760 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 211 |
-| [Productivity](productivity/README.md) | 200 |
+| [Data Analysis](data-analysis/README.md) | 213 |
+| [Productivity](productivity/README.md) | 203 |
 | [Research](research/README.md) | 68 |
-| [Coding](coding/README.md) | 44 |
+| [Coding](coding/README.md) | 48 |
 | [Security & Compliance](security-and-compliance/README.md) | 44 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 39 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 40 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 24 |
 | [Writing & Content](writing-and-content/README.md) | 24 |
 | [Knowledge Management](knowledge-management/README.md) | 23 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 21 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 14 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 13 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
@@ -44,7 +44,7 @@ Team leads and project managers. **760 ready-made Grok Bot templates** for this 
 | [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
-[All 211 Data Analysis templates →](data-analysis/README.md)
+[All 213 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **760 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 200 Productivity templates →](productivity/README.md)
+[All 203 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -85,11 +85,11 @@ Team leads and project managers. **760 ready-made Grok Bot templates** for this 
 | [Strategic Compact](../it-and-development/coding/cc-skill-strategic-compact.md) | Condenses a codebase into a strategic summary for development planning. |
 | [Standup Writer](../it-and-development/coding/standup-writer.md) | Turns yesterday's commits, PRs, and tickets into a standup update you can paste without editing. |
 | [Workflow Patterns](../it-and-development/coding/workflow-patterns.md) | Guide for implementing tasks with TDD workflow, phase checkpoints, and git commits. |
+| [Backend Development Feature Development](../it-and-development/coding/backend-development-feature-development.md) | Orchestrate backend feature development from requirements to deployment across teams and services. |
 | [Omp Delegate](../it-and-development/coding/omp-delegate.md) | Orchestrate bounded coding tasks via Oh My Pi, then review and commit yourself. |
 | [Multi Agent Task Orchestrator](../it-and-development/coding/multi-agent-task-orchestrator.md) | Route tasks to specialized AI agents with anti-duplication and quality gates. |
-| [Tdd Refactor](../it-and-development/coding/tdd-refactor.md) | Improve code quality, apply security best practices, and enhance design while keeping tests green and GitHub issues compliant. |
 
-[All 44 Coding templates →](coding/README.md)
+[All 48 Coding templates →](coding/README.md)
 
 ## Security & Compliance
 
@@ -112,14 +112,29 @@ Team leads and project managers. **760 ready-made Grok Bot templates** for this 
 |---|---|
 | [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
+| [Campaign Plan](../marketing/marketing-and-growth/marketing-campaign-plan.md) | Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu |
 | [Seo Optimizer](../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
 | [Pricing Strategy Formulation Assistant](marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
 | [Personalized Marketing Strategist](marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
 | [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
 | [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
-| [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
 
-[All 39 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 40 Marketing & Growth templates →](marketing-and-growth/README.md)
+
+## Cloud & DevOps
+
+| Template | What it does |
+|---|---|
+| [Gh Review Requests](../it-and-development/cloud-and-devops/gh-review-requests.md) | Fetch unread GitHub review requests for a specified team. |
+| [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
+| [C4 Architecture](../it-and-development/cloud-and-devops/c4-architecture.md) | Generate C4 model architecture diagrams as Mermaid markdown from codebase exploration. |
+| [On Call Handoff Patterns](../it-and-development/cloud-and-devops/on-call-handoff-patterns.md) | Structured on-call shift handoffs with incident context and continuity. |
+| [Deployment Procedures](../it-and-development/cloud-and-devops/deployment-procedures.md) | Guides safe production deployments with rollback planning and verification. |
+| [Sshepherd](../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
+| [Incident Response Coordinator](cloud-and-devops/incident-response-coordinator.md) | Coordinates incident response: triage, communication, documentation, analysis, and continuous improvement for service managers. |
+| [Cloud Migration Strategy Planner](../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
+
+[All 24 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Writing & Content
 
@@ -150,21 +165,6 @@ Team leads and project managers. **760 ready-made Grok Bot templates** for this 
 | [Context Management Context Save](../it-and-development/knowledge-management/context-management-context-save.md) | Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks. |
 
 [All 23 Knowledge Management templates →](knowledge-management/README.md)
-
-## Cloud & DevOps
-
-| Template | What it does |
-|---|---|
-| [Gh Review Requests](../it-and-development/cloud-and-devops/gh-review-requests.md) | Fetch unread GitHub review requests for a specified team. |
-| [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
-| [C4 Architecture](../it-and-development/cloud-and-devops/c4-architecture.md) | Generate C4 model architecture diagrams as Mermaid markdown from codebase exploration. |
-| [On Call Handoff Patterns](../it-and-development/cloud-and-devops/on-call-handoff-patterns.md) | Structured on-call shift handoffs with incident context and continuity. |
-| [Sshepherd](../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
-| [Incident Response Coordinator](cloud-and-devops/incident-response-coordinator.md) | Coordinates incident response: triage, communication, documentation, analysis, and continuous improvement for service managers. |
-| [Cloud Migration Strategy Planner](../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
-| [Cloud Roadmap Navigator](../it-and-development/cloud-and-devops/cloud-roadmap-navigator.md) | Guides IT managers through cloud strategy from assessment to optimization, with approvals before any action. |
-
-[All 21 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Sales & Negotiation
 

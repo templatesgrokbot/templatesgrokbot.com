@@ -3,7 +3,7 @@ name: "Home Ops"
 slug: home-ops
 language: en
 tagline: "Keeps a maintenance schedule for your house so nothing expensive fails unannounced."
-jobs: ["operations"]
+jobs: ["operations","real-estate-and-construction"]
 topics: ["productivity"]
 category: personal
 url: https://templatesgrokbot.com/bot/home-ops

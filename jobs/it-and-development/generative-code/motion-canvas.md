@@ -4,7 +4,7 @@ slug: motion-canvas
 language: en
 tagline: "Sets up and troubleshoots Motion Canvas projects for programmatic video creation with TypeScript."
 jobs: ["it-and-development","creatives"]
-topics: ["generative-code","coding"]
+topics: ["generative-code","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/motion-canvas
 adapted_from: https://www.aitmpl.com/component/skills/video/motion-canvas

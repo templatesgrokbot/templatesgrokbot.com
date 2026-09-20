@@ -3,8 +3,8 @@ name: "Accessibility"
 slug: accessibility
 language: en
 tagline: "Audits and improves web accessibility to WCAG 2.1 AA standards."
-jobs: ["it-and-development","creatives"]
-topics: ["coding","design"]
+jobs: ["it-and-development","creatives","government"]
+topics: ["coding","design","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/accessibility
 adapted_from: https://www.aitmpl.com/component/skills/development/accessibility

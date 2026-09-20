@@ -4,7 +4,7 @@ slug: openai-docs
 language: en
 tagline: "Answers build questions about OpenAI products using official docs with citations."
 jobs: ["it-and-development"]
-topics: ["research"]
+topics: ["research","generative-ai-and-llm"]
 category: research
 url: https://templatesgrokbot.com/bot/openai-docs
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/openai-docs

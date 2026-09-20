@@ -3,7 +3,7 @@ name: "Lightning Factory Explainer"
 slug: lightning-factory-explainer
 language: en
 tagline: "Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding."
-jobs: ["education","science-and-research"]
+jobs: ["education","science-and-research","it-and-development"]
 topics: ["teaching-and-tutoring","research"]
 category: education
 url: https://templatesgrokbot.com/bot/lightning-factory-explainer

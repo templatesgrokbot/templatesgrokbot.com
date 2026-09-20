@@ -4,7 +4,7 @@ slug: tile-design
 language: en
 tagline: "Build sharp-cornered Metro UI tiles with horizontal scrolling and live data for web and mobile."
 jobs: ["it-and-development","creatives"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/tile-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

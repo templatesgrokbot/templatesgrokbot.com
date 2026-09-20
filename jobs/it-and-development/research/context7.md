@@ -4,7 +4,7 @@ slug: context7
 language: en
 tagline: "Answers library and framework questions using only current official documentation."
 jobs: ["it-and-development","product-development"]
-topics: ["research","generative-ai-and-llm"]
+topics: ["research","generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/context7
 adapted_from: https://www.aitmpl.com/component/agents/documentation/context7

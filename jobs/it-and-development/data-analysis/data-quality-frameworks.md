@@ -4,7 +4,7 @@ slug: data-quality-frameworks
 language: en
 tagline: "Build data quality validation with Great Expectations, dbt tests, and data contracts."
 jobs: ["it-and-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/data-quality-frameworks
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

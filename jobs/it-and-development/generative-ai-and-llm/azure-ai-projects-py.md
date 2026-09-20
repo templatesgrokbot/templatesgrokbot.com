@@ -4,7 +4,7 @@ slug: azure-ai-projects-py
 language: en
 tagline: "Build and manage AI agents on Microsoft Foundry with the azure-ai-projects SDK."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","cloud-and-devops"]
+topics: ["generative-ai-and-llm","cloud-and-devops","coding","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-projects-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

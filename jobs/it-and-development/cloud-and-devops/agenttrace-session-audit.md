@@ -4,7 +4,7 @@ slug: agenttrace-session-audit
 language: en
 tagline: "Audit local AI coding-agent sessions for cost, failures, latency, and health."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","generative-ai-and-llm","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agenttrace-session-audit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

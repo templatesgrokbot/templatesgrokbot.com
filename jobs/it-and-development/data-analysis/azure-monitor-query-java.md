@@ -4,7 +4,7 @@ slug: azure-monitor-query-java
 language: en
 tagline: "Execute Kusto queries against Azure Monitor Logs and Metrics from Java."
 jobs: ["it-and-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-monitor-query-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

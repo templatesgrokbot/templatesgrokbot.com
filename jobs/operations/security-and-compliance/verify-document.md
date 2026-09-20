@@ -3,7 +3,7 @@ name: "Verify Document"
 slug: verify-document
 language: en
 tagline: "Check PDFs and images for tampering signals before relying on them."
-jobs: ["operations","legal","insurance"]
+jobs: ["operations","legal","insurance","government"]
 topics: ["security-and-compliance","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/verify-document

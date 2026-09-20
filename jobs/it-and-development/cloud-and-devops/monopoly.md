@@ -4,7 +4,7 @@ slug: monopoly
 language: en
 tagline: "Architect resilient, scalable backend systems with trade-off analysis and blueprints. No coding or deployment."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/monopoly
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

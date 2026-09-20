@@ -4,7 +4,7 @@ slug: lambdatest-agent-skills
 language: en
 tagline: "Production-grade test automation for 46 frameworks across 15+ languages."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/lambdatest-agent-skills
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

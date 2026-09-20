@@ -4,7 +4,7 @@ slug: torch-geometric
 language: en
 tagline: "Build and train graph neural networks for node, edge, and graph tasks."
 jobs: ["it-and-development","science-and-research","product-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/torch-geometric
 adapted_from: https://www.aitmpl.com/component/skills/scientific/torch_geometric

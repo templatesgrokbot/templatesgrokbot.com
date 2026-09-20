@@ -4,7 +4,7 @@ slug: fda-database
 language: en
 tagline: "Query openFDA for drug, device, adverse event, recall, and regulatory data."
 jobs: ["science-and-research","healthcare","government"]
-topics: ["research"]
+topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/fda-database
 adapted_from: https://www.aitmpl.com/component/skills/scientific/fda-database

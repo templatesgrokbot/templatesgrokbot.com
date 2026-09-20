@@ -4,7 +4,7 @@ slug: expo-ui
 language: en
 tagline: "Build native UI with @expo/ui: SwiftUI on iOS, Jetpack Compose on Android from React."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/expo-ui
 adapted_from: https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-ui

@@ -3,7 +3,7 @@ name: "Perplexity"
 slug: perplexity
 language: en
 tagline: "Searches the web and answers questions using Perplexity AI."
-jobs: ["science-and-research","it-and-development","marketing"]
+jobs: ["science-and-research","it-and-development","marketing","writers"]
 topics: ["research"]
 category: research
 url: https://templatesgrokbot.com/bot/perplexity

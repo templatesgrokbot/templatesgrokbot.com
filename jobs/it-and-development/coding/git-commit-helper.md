@@ -4,7 +4,7 @@ slug: git-commit-helper
 language: en
 tagline: "Generate descriptive commit messages by analyzing staged git diffs."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/git-commit-helper
 adapted_from: https://www.aitmpl.com/component/skills/development/git-commit-helper

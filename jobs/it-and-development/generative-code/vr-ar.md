@@ -4,7 +4,7 @@ slug: vr-ar
 language: en
 tagline: "Guide VR/AR development with comfort, interaction, and performance principles."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code"]
+topics: ["generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/vr-ar
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

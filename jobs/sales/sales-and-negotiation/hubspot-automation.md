@@ -4,7 +4,7 @@ slug: hubspot-automation
 language: en
 tagline: "Automate HubSpot CRM operations via Rube MCP and Composio integration."
 jobs: ["sales","operations","marketing"]
-topics: ["sales-and-negotiation"]
+topics: ["sales-and-negotiation","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/hubspot-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

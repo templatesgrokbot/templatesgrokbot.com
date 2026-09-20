@@ -4,7 +4,7 @@ slug: design-mirror
 language: en
 tagline: "Replicates any website's visual style and applies it to your existing codebase."
 jobs: ["creatives","it-and-development"]
-topics: ["design"]
+topics: ["design","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/design-mirror
 adapted_from: https://www.aitmpl.com/component/skills/web-data/design-mirror

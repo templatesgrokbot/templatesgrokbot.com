@@ -4,7 +4,7 @@ slug: web-vitals-optimizer
 language: en
 tagline: "Measures and improves Core Web Vitals (LCP, FID, CLS) for a website."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/web-vitals-optimizer
 adapted_from: https://www.aitmpl.com/component/agents/performance-testing/web-vitals-optimizer

@@ -4,7 +4,7 @@ slug: angular-architect
 language: en
 tagline: "Architects enterprise Angular 15+ apps with RxJS, state management, and micro-frontend patterns."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/angular-architect
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/angular-architect

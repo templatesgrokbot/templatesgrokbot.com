@@ -4,7 +4,7 @@ slug: grill-me
 language: en
 tagline: "A relentless interview that sharpens a plan or design through structured questioning."
 jobs: ["management","product-development"]
-topics: ["self-improvement"]
+topics: ["self-improvement","productivity","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/grill-me
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

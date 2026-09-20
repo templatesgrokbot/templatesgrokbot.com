@@ -4,7 +4,7 @@ slug: observability-phoenix
 language: en
 tagline: "Self-hosted AI observability for tracing, evaluating, and monitoring LLM applications."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","generative-ai-and-llm"]
+topics: ["cloud-and-devops","generative-ai-and-llm","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/observability-phoenix
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/observability-phoenix

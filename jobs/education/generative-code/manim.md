@@ -4,7 +4,7 @@ slug: manim
 language: en
 tagline: "Guides you in writing Manim Python code to create mathematical animations and educational videos."
 jobs: ["education","it-and-development"]
-topics: ["generative-code","teaching-and-tutoring"]
+topics: ["generative-code","teaching-and-tutoring","coding"]
 category: education
 url: https://templatesgrokbot.com/bot/manim
 adapted_from: https://www.aitmpl.com/component/skills/video/manim

@@ -4,7 +4,7 @@ slug: pimcore-expert
 language: en
 tagline: "Assists developers building enterprise DXP solutions with Pimcore CMS, DAM, PIM, and E-Commerce."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops","generative-code"]
+topics: ["coding","cloud-and-devops","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pimcore-expert
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/pimcore-expert

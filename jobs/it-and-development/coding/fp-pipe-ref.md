@@ -4,7 +4,7 @@ slug: fp-pipe-ref
 language: en
 tagline: "Quick reference for fp-ts pipe and flow to chain functions and build data pipelines."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fp-pipe-ref
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

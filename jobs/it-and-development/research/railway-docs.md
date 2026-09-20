@@ -4,7 +4,7 @@ slug: railway-docs
 language: en
 tagline: "Fetch Railway documentation to answer questions about features, usage, and pricing."
 jobs: ["it-and-development"]
-topics: ["research"]
+topics: ["research","support-and-community"]
 category: research
 url: https://templatesgrokbot.com/bot/railway-docs
 adapted_from: https://www.aitmpl.com/component/skills/railway/railway-docs

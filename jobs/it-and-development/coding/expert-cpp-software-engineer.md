@@ -4,7 +4,7 @@ slug: expert-cpp-software-engineer
 language: en
 tagline: "Provide expert C++ guidance on modern standards, architecture, testing, and legacy code."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/expert-cpp-software-engineer
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/expert-cpp-software-engineer

@@ -3,8 +3,8 @@ name: "Instagram Manager"
 slug: instagram
 language: en
 tagline: "Manages publishing, comments, DMs, and analytics on Instagram via the Graph API."
-jobs: ["marketing","creatives"]
-topics: ["social-media","marketing-and-growth"]
+jobs: ["marketing","creatives","hospitality-and-events","pr-and-communications"]
+topics: ["social-media","marketing-and-growth","data-analysis"]
 category: marketing
 url: https://templatesgrokbot.com/bot/instagram
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

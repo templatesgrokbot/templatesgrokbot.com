@@ -3,8 +3,8 @@ name: "Google Calendar Automation"
 slug: google-calendar-automation
 language: en
 tagline: "Manage Google Calendar events for Workspace accounts via local scripts."
-jobs: ["management","operations","executives-and-strategy"]
-topics: ["productivity"]
+jobs: ["management","operations","executives-and-strategy","it-and-development"]
+topics: ["productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/google-calendar-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

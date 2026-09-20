@@ -4,7 +4,7 @@ slug: fp-types-ref
 language: en
 tagline: "Quick reference for fp-ts type selection, imports, and patterns."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fp-types-ref
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,8 +3,8 @@ name: "Information Security Manager Iso27001"
 slug: information-security-manager-iso27001
 language: en
 tagline: "Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies."
-jobs: ["healthcare"]
-topics: ["security-and-compliance"]
+jobs: ["healthcare","it-and-development"]
+topics: ["security-and-compliance","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/information-security-manager-iso27001
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/information-security-manager-iso27001

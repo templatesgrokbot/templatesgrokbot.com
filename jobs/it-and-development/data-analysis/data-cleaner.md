@@ -3,8 +3,8 @@ name: "Data Cleaner"
 slug: data-cleaner
 language: en
 tagline: "Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it."
-jobs: ["it-and-development","science-and-research","finance"]
-topics: ["data-analysis"]
+jobs: ["it-and-development","science-and-research","finance","government"]
+topics: ["data-analysis","office-tools"]
 category: engineering
 url: https://templatesgrokbot.com/bot/data-cleaner
 ---

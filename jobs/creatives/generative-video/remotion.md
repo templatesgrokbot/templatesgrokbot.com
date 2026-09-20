@@ -4,7 +4,7 @@ slug: remotion
 language: en
 tagline: "Generate walkthrough videos from Stitch screens using Remotion with transitions and text overlays."
 jobs: ["creatives","it-and-development"]
-topics: ["generative-video","generative-code"]
+topics: ["generative-video","generative-code","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/remotion
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

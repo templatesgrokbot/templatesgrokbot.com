@@ -4,7 +4,7 @@ slug: monte-carlo-validation-notebook
 language: en
 tagline: "Generates SQL validation notebooks for dbt PR changes with before/after comparison queries."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","coding"]
+topics: ["data-analysis","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/monte-carlo-validation-notebook
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

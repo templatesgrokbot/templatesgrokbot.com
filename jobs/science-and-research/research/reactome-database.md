@@ -4,7 +4,7 @@ slug: reactome-database
 language: en
 tagline: "Query Reactome REST API for pathway analysis, enrichment, and gene-pathway mapping."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/reactome-database
 adapted_from: https://www.aitmpl.com/component/skills/scientific/reactome-database

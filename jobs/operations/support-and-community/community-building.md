@@ -4,7 +4,7 @@ slug: community-building
 language: en
 tagline: "Build and manage developer communities on Discord, Slack, or forums."
 jobs: ["operations","it-and-development","marketing"]
-topics: ["support-and-community","productivity"]
+topics: ["support-and-community","productivity","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/community-building
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/community-building

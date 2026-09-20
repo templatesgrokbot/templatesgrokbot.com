@@ -3,7 +3,7 @@ name: "Warehouse"
 slug: warehouse
 language: en
 tagline: "Plan and review read-only warehouse analysis with explicit scope and validation checks. No schema guessing or write operations. Hand off admin, pipeli"
-jobs: ["it-and-development","operations"]
+jobs: ["it-and-development","operations","science-and-research"]
 topics: ["data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/warehouse

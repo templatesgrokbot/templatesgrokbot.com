@@ -4,7 +4,7 @@ slug: expo-examples
 language: en
 tagline: "Find and adapt Expo's official integration examples into your app."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code","coding"]
+topics: ["generative-code","coding","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/expo-examples
 adapted_from: https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-examples

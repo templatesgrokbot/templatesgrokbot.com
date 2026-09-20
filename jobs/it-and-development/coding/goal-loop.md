@@ -4,7 +4,7 @@ slug: goal-loop
 language: en
 tagline: "Turn agent prompts into persistent loops until verifiable stop conditions."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/goal-loop
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

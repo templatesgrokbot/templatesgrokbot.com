@@ -4,7 +4,7 @@ slug: distributed-training-accelerate
 language: en
 tagline: "Add distributed training to any PyTorch script with 4 lines of code."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/distributed-training-accelerate
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/distributed-training-accelerate

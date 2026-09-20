@@ -3,8 +3,8 @@ name: "Notion Meeting Intelligence"
 slug: notion-meeting-intelligence
 language: en
 tagline: "Prep meeting agendas and pre-reads using Notion context and Codex research."
-jobs: ["management","operations","executives-and-strategy"]
-topics: ["productivity","research"]
+jobs: ["management","operations","executives-and-strategy","product-development","sales"]
+topics: ["productivity","research","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/notion-meeting-intelligence
 adapted_from: https://www.aitmpl.com/component/skills/productivity/notion-meeting-intelligence

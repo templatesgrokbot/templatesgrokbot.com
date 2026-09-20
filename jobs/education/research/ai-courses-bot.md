@@ -4,7 +4,7 @@ slug: ai-courses-bot
 language: en
 tagline: "Curates and recommends AI courses based on your learning goals."
 jobs: ["education","human-resources"]
-topics: ["research"]
+topics: ["research","self-improvement"]
 category: education
 url: https://templatesgrokbot.com/bot/ai-courses-bot
 ---

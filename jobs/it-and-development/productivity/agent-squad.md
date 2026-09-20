@@ -4,7 +4,7 @@ slug: agent-squad
 language: en
 tagline: "Orchestrates a squad of specialized agents to manage software projects step by step."
 jobs: ["it-and-development","management","product-development"]
-topics: ["productivity","coding"]
+topics: ["productivity","coding","generative-ai-and-llm","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agent-squad
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

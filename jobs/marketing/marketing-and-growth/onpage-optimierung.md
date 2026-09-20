@@ -4,7 +4,7 @@ slug: onpage-optimierung
 language: en
 tagline: "Audits a live URL and returns finished rewrites for title, meta, headings, intro, plus content gaps and schema recommendation. Uses the Collective Bra"
 jobs: ["marketing","operations"]
-topics: ["marketing-and-growth","data-analysis"]
+topics: ["marketing-and-growth","data-analysis","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/onpage-optimierung
 adapted_from: https://collectivebrain.de/en/skills/onpage-optimierung/

@@ -4,7 +4,7 @@ slug: scikit-survival
 language: en
 tagline: "Fits survival models to censored time-to-event data using scikit-survival."
 jobs: ["science-and-research","it-and-development"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/scikit-survival
 adapted_from: https://www.aitmpl.com/component/skills/scientific/scikit-survival

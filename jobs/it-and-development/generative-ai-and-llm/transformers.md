@@ -4,7 +4,7 @@ slug: transformers
 language: en
 tagline: "Loads and runs Hugging Face transformer models for inference and fine-tuning."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","speech-to-text","translation"]
 category: engineering
 url: https://templatesgrokbot.com/bot/transformers
 adapted_from: https://www.aitmpl.com/component/skills/scientific/transformers

@@ -4,7 +4,7 @@ slug: segment-cdp
 language: en
 tagline: "Guides Segment CDP implementation with tracking plans, identity resolution, and data governance best practices."
 jobs: ["it-and-development","operations"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/segment-cdp
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

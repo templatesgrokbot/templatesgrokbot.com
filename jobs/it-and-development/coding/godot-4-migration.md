@@ -4,7 +4,7 @@ slug: godot-4-migration
 language: en
 tagline: "Guide for migrating Godot 3.x projects to Godot 4 with GDScript 2.0."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/godot-4-migration
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

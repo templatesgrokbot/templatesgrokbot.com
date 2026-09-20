@@ -4,7 +4,7 @@ slug: arboreto
 language: en
 tagline: "Infer gene regulatory networks from gene expression data using GRNBoost2 or GENIE3."
 jobs: ["science-and-research","it-and-development"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/arboreto
 adapted_from: https://www.aitmpl.com/component/skills/scientific/arboreto

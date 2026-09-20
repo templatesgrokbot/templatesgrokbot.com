@@ -4,7 +4,7 @@ slug: skill-creator-ms
 language: en
 tagline: "Create capabilities for AI coding agents using Azure SDKs and Microsoft Foundry."
 jobs: ["it-and-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","generative-ai-and-llm","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/skill-creator-ms
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

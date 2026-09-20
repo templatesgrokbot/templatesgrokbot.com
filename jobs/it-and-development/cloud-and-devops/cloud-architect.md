@@ -4,7 +4,7 @@ slug: cloud-architect
 language: en
 tagline: "Designs and optimizes multi-cloud infrastructure with IaC, FinOps, and security best practices."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cloud-architect
 adapted_from: https://www.aitmpl.com/component/skills/development/cloud-architect

@@ -3,8 +3,8 @@ name: "Frontend Slides Frontend Slides"
 slug: frontend-slides-frontend-slides
 language: en
 tagline: "Create animation-rich HTML presentations from scratch or convert PowerPoint files."
-jobs: ["creatives","marketing"]
-topics: ["generative-code","design"]
+jobs: ["creatives","marketing","it-and-development"]
+topics: ["generative-code","design","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/frontend-slides-frontend-slides
 adapted_from: https://github.com/zarazhangrui/frontend-slides/tree/main/plugins/frontend-slides/skills/frontend-slides

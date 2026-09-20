@@ -4,7 +4,7 @@ slug: calc
 language: en
 tagline: "Create, convert, and automate spreadsheets with LibreOffice Calc."
 jobs: ["operations","finance"]
-topics: ["office-tools","data-analysis"]
+topics: ["office-tools","data-analysis","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/calc
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

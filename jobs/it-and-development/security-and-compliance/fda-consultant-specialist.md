@@ -4,7 +4,7 @@ slug: fda-consultant-specialist
 language: en
 tagline: "Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies."
 jobs: ["it-and-development","legal","product-development"]
-topics: ["security-and-compliance","research"]
+topics: ["security-and-compliance","research","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fda-consultant-specialist
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/fda-consultant-specialist

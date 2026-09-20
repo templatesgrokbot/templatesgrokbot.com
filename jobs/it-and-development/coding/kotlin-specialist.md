@@ -4,7 +4,7 @@ slug: kotlin-specialist
 language: en
 tagline: "Build and modernize Kotlin applications with coroutines, multiplatform, and functional patterns."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/kotlin-specialist
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/kotlin-specialist

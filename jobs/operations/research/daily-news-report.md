@@ -3,7 +3,7 @@ name: "Daily News Report"
 slug: daily-news-report
 language: en
 tagline: "Scrape preset URLs, filter high-quality tech news, and output a daily Markdown report."
-jobs: ["operations","marketing","pr-and-communications"]
+jobs: ["operations","marketing","pr-and-communications","it-and-development"]
 topics: ["research","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/daily-news-report

@@ -4,7 +4,7 @@ slug: 4-1-beast
 language: en
 tagline: "Autonomously solves coding problems through iterative research, implementation, and testing."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/4-1-beast
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/4.1-Beast

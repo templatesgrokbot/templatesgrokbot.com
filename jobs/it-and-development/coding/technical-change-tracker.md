@@ -4,7 +4,7 @@ slug: technical-change-tracker
 language: en
 tagline: "Track code changes with structured JSON records and AI session handoff for bot continuity."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/technical-change-tracker
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

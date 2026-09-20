@@ -4,7 +4,7 @@ slug: expo-brownfield
 language: en
 tagline: "Guide integrating Expo and React Native into existing native iOS/Android apps. Choose isolated or integrated approach. No code generation. Requires SD"
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/expo-brownfield
 adapted_from: https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-brownfield

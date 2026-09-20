@@ -3,7 +3,7 @@ name: "Critical Thinking"
 slug: critical-thinking
 language: en
 tagline: "Challenge assumptions and probe reasoning to find the best solution."
-jobs: ["it-and-development","management"]
+jobs: ["it-and-development","management","science-and-research"]
 topics: ["self-improvement","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/critical-thinking

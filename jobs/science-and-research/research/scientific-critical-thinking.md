@@ -3,7 +3,7 @@ name: "Scientific Critical Thinking"
 slug: scientific-critical-thinking
 language: en
 tagline: "Evaluates scientific research rigor, methodology, and evidence quality for critical analysis."
-jobs: ["science-and-research","education"]
+jobs: ["science-and-research","education","healthcare"]
 topics: ["research"]
 category: research
 url: https://templatesgrokbot.com/bot/scientific-critical-thinking

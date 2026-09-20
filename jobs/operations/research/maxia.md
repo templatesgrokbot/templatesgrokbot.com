@@ -3,8 +3,8 @@ name: "Maxia"
 slug: maxia
 language: en
 tagline: "Discover, buy, and sell AI agent services on the Solana marketplace."
-jobs: ["operations","finance"]
-topics: ["research","data-analysis"]
+jobs: ["operations","finance","it-and-development"]
+topics: ["research","data-analysis","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/maxia
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

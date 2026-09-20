@@ -3,7 +3,7 @@ name: "Agent Evaluation Reporting"
 slug: agent-evaluation-reporting
 language: en
 tagline: "Turn raw agent evaluation runs into decision-ready reports with explicit outcome categories and denominators."
-jobs: ["it-and-development","science-and-research"]
+jobs: ["it-and-development","science-and-research","management"]
 topics: ["data-analysis","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agent-evaluation-reporting

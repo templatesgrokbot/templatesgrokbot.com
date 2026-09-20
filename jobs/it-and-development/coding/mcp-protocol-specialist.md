@@ -4,7 +4,7 @@ slug: mcp-protocol-specialist
 language: en
 tagline: "Designs and validates MCP protocol specs, transports, and compliance for your ecosystem."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mcp-protocol-specialist
 adapted_from: https://www.aitmpl.com/component/agents/mcp-dev-team/mcp-protocol-specialist

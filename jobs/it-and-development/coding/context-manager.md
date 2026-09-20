@@ -4,7 +4,7 @@ slug: context-manager
 language: en
 tagline: "Manages shared state and metadata for multi-agent systems with fast, consistent access."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/context-manager
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

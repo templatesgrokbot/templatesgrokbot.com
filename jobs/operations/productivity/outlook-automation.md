@@ -3,7 +3,7 @@ name: "Outlook Automation"
 slug: outlook-automation
 language: en
 tagline: "Automate Outlook email, calendar, contacts, and folders via Rube MCP."
-jobs: ["operations","management"]
+jobs: ["operations","management","it-and-development"]
 topics: ["productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/outlook-automation

@@ -4,7 +4,7 @@ slug: pytest-skill
 language: en
 tagline: "Generate production-grade pytest tests with fixtures, parametrize, mocking, and conftest patterns."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pytest-skill
 adapted_from: https://github.com/LambdaTest/agent-skills/tree/main/pytest-skill

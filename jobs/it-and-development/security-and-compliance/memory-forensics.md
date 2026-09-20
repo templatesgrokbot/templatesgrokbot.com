@@ -3,8 +3,8 @@ name: "Memory Forensics"
 slug: memory-forensics
 language: en
 tagline: "Acquire, analyze, and extract artifacts from memory dumps for incident response and malware analysis."
-jobs: ["it-and-development"]
-topics: ["security-and-compliance","research"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["security-and-compliance","research","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/memory-forensics
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

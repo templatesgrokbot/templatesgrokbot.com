@@ -1,6 +1,6 @@
 # Research templates for Operations
 
-Find sources, compare evidence and summarise what is known. 83 Grok Bot templates, 27 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 84 Grok Bot templates, 27 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -61,6 +61,7 @@ Find sources, compare evidence and summarise what is known. 83 Grok Bot template
 | [Operations Tech Integration Guide](operations-tech-integration-guide.md) | Guides technology integration for operations, from evaluation to optimization. |
 | [Packaging Automation Advisor](../../product-development/research/packaging-automation-advisor.md) | Selects, optimizes, and troubleshoots packaging automation for engineers. |
 | [Price Comparison Analyst](../../management/research/price-comparison-analyst.md) | Market research and price comparison assistant for purchasing managers. |
+| [Project Template Audit](../../it-and-development/research/project-skill-audit.md) | Audit project workflows and recommend capability updates or additions from session evidence. |
 | [Qms Audit Expert](qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
 | [Regulatory Affairs Assistant](../../legal/research/regulatory-affairs-assistant.md) | Handles regulatory research, compliance tracking, reporting, audits, and training for legal assistants. |
 | [Regulatory Communication Assistant](../../legal/research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |

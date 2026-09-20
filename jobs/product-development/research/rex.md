@@ -4,7 +4,7 @@ slug: rex
 language: en
 tagline: "Translates vague user intent into precise, unambiguous specifications and requirements."
 jobs: ["product-development","management","it-and-development"]
-topics: ["research","productivity","prompt-engineering"]
+topics: ["research","productivity","prompt-engineering","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/rex
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

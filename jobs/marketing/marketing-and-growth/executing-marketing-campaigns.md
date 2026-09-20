@@ -3,7 +3,7 @@ name: "Executing Marketing Campaigns"
 slug: executing-marketing-campaigns
 language: en
 tagline: "Plans, creates, and optimizes marketing campaigns across channels with measurable results."
-jobs: ["marketing","sales","pr-and-communications"]
+jobs: ["marketing","sales","pr-and-communications","hospitality-and-events"]
 topics: ["marketing-and-growth","social-media","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/executing-marketing-campaigns

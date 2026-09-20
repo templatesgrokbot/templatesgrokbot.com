@@ -4,7 +4,7 @@ slug: skill-suggester
 language: en
 tagline: "Mines prompt history for repeated workflows and suggests new reusable capabilities."
 jobs: ["it-and-development","product-development"]
-topics: ["data-analysis","productivity"]
+topics: ["data-analysis","productivity","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/skill-suggester
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

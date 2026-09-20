@@ -4,7 +4,7 @@ slug: feature-design-assistant
 language: en
 tagline: "Turn ideas into fully formed designs and specs through structured collaborative dialogue."
 jobs: ["product-development","it-and-development"]
-topics: ["coding"]
+topics: ["coding","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/feature-design-assistant
 adapted_from: https://www.aitmpl.com/component/skills/development/feature-design-assistant

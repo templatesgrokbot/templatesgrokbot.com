@@ -4,7 +4,7 @@ slug: trigger-dev
 language: en
 tagline: "Builds and manages reliable background jobs and AI workflows using Trigger.dev."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/trigger-dev
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

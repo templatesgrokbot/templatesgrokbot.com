@@ -4,7 +4,7 @@ slug: android-cicd
 language: en
 tagline: "Set up an automated Android CI/CD pipeline to Google Play from a GitHub repo."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/android-cicd
 adapted_from: https://www.aitmpl.com/component/skills/development/android-cicd

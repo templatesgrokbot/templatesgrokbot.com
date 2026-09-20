@@ -4,7 +4,7 @@ slug: review-animations
 language: en
 tagline: "Review animation and motion code against a strict craft, performance, and accessibility bar."
 jobs: ["it-and-development","creatives"]
-topics: ["generative-code"]
+topics: ["generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/review-animations
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: imagegen
 language: en
 tagline: "Generates or edits images via the OpenAI Image API for project assets."
 jobs: ["creatives","marketing","it-and-development"]
-topics: ["generative-art","generative-ai-and-llm"]
+topics: ["generative-art","generative-ai-and-llm","design"]
 category: creative
 url: https://templatesgrokbot.com/bot/imagegen
 adapted_from: https://www.aitmpl.com/component/skills/creative-design/imagegen

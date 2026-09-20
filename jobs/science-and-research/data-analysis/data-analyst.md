@@ -3,7 +3,7 @@ name: "Data Analyst"
 slug: data-analyst
 language: en
 tagline: "Analyzes numerical data to find trends, compare metrics, and produce statistical insights."
-jobs: ["science-and-research","it-and-development","marketing","finance"]
+jobs: ["science-and-research","it-and-development","marketing","finance","government"]
 topics: ["data-analysis","research","productivity"]
 category: research
 url: https://templatesgrokbot.com/bot/data-analyst

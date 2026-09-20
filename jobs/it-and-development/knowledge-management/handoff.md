@@ -3,8 +3,8 @@ name: "Handoff"
 slug: handoff
 language: en
 tagline: "Compacts a conversation into a handoff document for another agent."
-jobs: ["it-and-development","product-development"]
-topics: ["knowledge-management","generative-ai-and-llm"]
+jobs: ["it-and-development","product-development","customer-support"]
+topics: ["knowledge-management","generative-ai-and-llm","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/handoff
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

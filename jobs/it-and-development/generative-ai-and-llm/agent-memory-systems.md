@@ -4,7 +4,7 @@ slug: agent-memory-systems
 language: en
 tagline: "Design layered memory architectures for persistent agent systems"
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agent-memory-systems
 adapted_from: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems

@@ -1,6 +1,6 @@
 # Writing & Content templates for Government
 
-Plan, write and edit articles, copy and documentation. 32 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 34 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,7 @@ Plan, write and edit articles, copy and documentation. 32 Grok Bot templates, 3 
 | [Crisis Communication Content Creator](../../pr-and-communications/writing-and-content/crisis-communication-content-creator.md) | Crisis content creator for communication managers, drafting and coordinating all crisis messaging. |
 | [Crisis Communication Planner](../../pr-and-communications/writing-and-content/crisis-communication-planner.md) | Prepares crisis communication plans, messages, and training for communication managers. |
 | [Employee Relations Policy Assistant](../../human-resources/writing-and-content/employee-relations-policy-assistant.md) | Develops, reviews, and communicates employee relations policies with research, drafting, and stakeholder support. |
+| [Employment Contract Templates](../../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Environmental Policy Development Assistant](../../science-and-research/writing-and-content/environmental-policy-development-assistant.md) | Develops and refines environmental policy from research to public outreach. |
 | [Executive Communication Assistant](../../executives-and-strategy/writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
 | [Executive Decision Memo](../../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
@@ -38,5 +39,6 @@ Plan, write and edit articles, copy and documentation. 32 Grok Bot templates, 3 
 | [Training Material Creation Assistant](../../operations/writing-and-content/training-material-creation-assistant.md) | Creates and manages all training materials for operations teams from research to assessment. |
 | [Training Material Creator](../../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 | [Website Content Manager](../../it-and-development/writing-and-content/website-content-manager.md) | Manages your website's content lifecycle from planning to promotion and analytics. |
+| [Writing Clearly And Concisely](../../writers/writing-and-content/writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |
 
 [← All Government templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/government)

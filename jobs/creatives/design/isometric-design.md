@@ -4,7 +4,7 @@ slug: isometric-design
 language: en
 tagline: "Guides implementing isometric 3D views without vanishing points for web and apps."
 jobs: ["creatives","it-and-development"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/isometric-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

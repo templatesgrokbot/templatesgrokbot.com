@@ -3,7 +3,7 @@ name: "Pptx Official"
 slug: pptx-official
 language: en
 tagline: "Create, edit, and QA PowerPoint decks from templates or scratch with visual checks."
-jobs: ["operations","marketing","management"]
+jobs: ["operations","marketing","management","creatives","government"]
 topics: ["office-tools","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/pptx-official

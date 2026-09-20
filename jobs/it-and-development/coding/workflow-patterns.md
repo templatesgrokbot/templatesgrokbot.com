@@ -4,7 +4,7 @@ slug: workflow-patterns
 language: en
 tagline: "Guide for implementing tasks with TDD workflow, phase checkpoints, and git commits."
 jobs: ["it-and-development","management"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/workflow-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

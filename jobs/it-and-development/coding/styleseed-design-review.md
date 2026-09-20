@@ -3,7 +3,7 @@ name: "Styleseed Design Review"
 slug: styleseed-design-review
 language: en
 tagline: "Reviews UI code against a design rubric and scores it 0-100."
-jobs: ["it-and-development","product-development"]
+jobs: ["it-and-development","product-development","creatives"]
 topics: ["coding","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/styleseed-design-review

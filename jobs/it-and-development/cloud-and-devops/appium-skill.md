@@ -4,7 +4,7 @@ slug: appium-skill
 language: en
 tagline: "Generates production-grade Appium mobile automation scripts for Android and iOS."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/appium-skill
 adapted_from: https://github.com/LambdaTest/agent-skills/tree/main/appium-skill

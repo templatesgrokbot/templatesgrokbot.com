@@ -4,7 +4,7 @@ slug: shap
 language: en
 tagline: "Explains machine learning model predictions using SHAP values and visualizations."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","generative-ai-and-llm"]
+topics: ["data-analysis","generative-ai-and-llm","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/shap
 adapted_from: https://www.aitmpl.com/component/skills/scientific/shap

@@ -4,7 +4,7 @@ slug: azure-appconfiguration-py
 language: en
 tagline: "Manage Azure App Config settings, feature flags, and snapshots via Python SDK."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-appconfiguration-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

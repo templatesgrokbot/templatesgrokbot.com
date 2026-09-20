@@ -4,7 +4,7 @@ slug: mock-hunter
 language: en
 tagline: "Audits live web pages to classify every visible value as real, mock, hardcoded, LLM, broken, or unknown."
 jobs: ["it-and-development","product-development"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mock-hunter
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: bento-ui
 language: en
 tagline: "Generate modular grid card layouts with Apple-like bento box aesthetics."
 jobs: ["creatives","it-and-development"]
-topics: ["design"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bento-ui
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

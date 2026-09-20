@@ -3,8 +3,8 @@ name: "Template Router"
 slug: skill-router
 language: en
 tagline: "Interviews users and recommends the best installed capability for their goal."
-jobs: ["operations","management"]
-topics: ["productivity","support-and-community"]
+jobs: ["operations","management","customer-support"]
+topics: ["productivity","support-and-community","generative-ai-and-llm","prompt-engineering"]
 category: operations
 url: https://templatesgrokbot.com/bot/skill-router
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

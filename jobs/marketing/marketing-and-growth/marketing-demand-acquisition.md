@@ -4,7 +4,7 @@ slug: marketing-demand-acquisition
 language: en
 tagline: "Generates and optimizes multi-channel demand for B2B SaaS startups scaling internationally."
 jobs: ["marketing","sales","executives-and-strategy"]
-topics: ["marketing-and-growth","sales-and-negotiation"]
+topics: ["marketing-and-growth","sales-and-negotiation","social-media","data-analysis"]
 category: marketing
 url: https://templatesgrokbot.com/bot/marketing-demand-acquisition
 adapted_from: https://www.aitmpl.com/component/skills/business-marketing/marketing-demand-acquisition

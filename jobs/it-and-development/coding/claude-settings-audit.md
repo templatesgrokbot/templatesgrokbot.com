@@ -4,7 +4,7 @@ slug: claude-settings-audit
 language: en
 tagline: "Audit a repo and generate evidence-based Claude Code read-only permissions for settings.json."
 jobs: ["it-and-development"]
-topics: ["coding","security-and-compliance"]
+topics: ["coding","security-and-compliance","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/claude-settings-audit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

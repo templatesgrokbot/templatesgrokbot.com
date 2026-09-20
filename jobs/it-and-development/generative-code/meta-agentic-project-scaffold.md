@@ -4,7 +4,7 @@ slug: meta-agentic-project-scaffold
 language: en
 tagline: "Scaffolds a project by fetching and organizing Copilot prompts from a GitHub repo."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code","productivity"]
+topics: ["generative-code","productivity","prompt-engineering","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/meta-agentic-project-scaffold
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/meta-agentic-project-scaffold

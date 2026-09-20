@@ -3,7 +3,7 @@ name: "Market Scout"
 slug: market-scout
 language: en
 tagline: "Watches a named set of competitors and reports only what actually changed since last week."
-jobs: ["marketing","sales","executives-and-strategy"]
+jobs: ["marketing","sales","executives-and-strategy","pr-and-communications"]
 topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/market-scout

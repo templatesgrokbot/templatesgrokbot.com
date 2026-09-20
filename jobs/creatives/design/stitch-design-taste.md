@@ -4,7 +4,7 @@ slug: stitch-design-taste
 language: en
 tagline: "Generate Google Stitch DESIGN.md files for premium, anti-generic UI systems."
 jobs: ["creatives","it-and-development","product-development"]
-topics: ["design","generative-code","prompt-engineering"]
+topics: ["design","generative-code","prompt-engineering","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/stitch-design-taste
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

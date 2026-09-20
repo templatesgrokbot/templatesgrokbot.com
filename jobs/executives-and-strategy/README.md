@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **706 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **708 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,12 +12,12 @@ Leaders making decisions from the whole picture. **706 ready-made Grok Bot templ
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 256 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 129 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 130 |
 | [Research](research/README.md) | 103 |
 | [Productivity](productivity/README.md) | 93 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 30 |
 | [Security & Compliance](security-and-compliance/README.md) | 29 |
-| [Writing & Content](writing-and-content/README.md) | 20 |
+| [Writing & Content](writing-and-content/README.md) | 21 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 17 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Social Media](social-media/README.md) | 5 |
@@ -55,10 +55,10 @@ Leaders making decisions from the whole picture. **706 ready-made Grok Bot templ
 | [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Campaign Plan](../marketing/marketing-and-growth/marketing-campaign-plan.md) | Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu |
 | [Competitive Landscape](../marketing/marketing-and-growth/competitive-landscape.md) | Map competitors, find gaps, and craft defensible market positioning strategies. |
+| [Pricing](../marketing/marketing-and-growth/pricing.md) | Design SaaS pricing tiers, value metrics, and monetization strategy based on customer willingness to pay. |
 | [Brand Voice Guidelines Generator](../marketing/marketing-and-growth/brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
-| [Marketing Psychology](../marketing/marketing-and-growth/marketing-psychology.md) | Apply behavioral science to marketing decisions with a prioritization scoring system. |
 
-[All 129 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 130 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Research
 
@@ -124,6 +124,7 @@ Leaders making decisions from the whole picture. **706 ready-made Grok Bot templ
 
 | Template | What it does |
 |---|---|
+| [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
 | [Executive Decision Memo](writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
 | [Executive Speechwriter](writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
 | [Conflict Resolution Strategies Assistant](writing-and-content/conflict-resolution-strategies-assistant.md) | Designs and guides conflict resolution programs, materials, and coaching for HR leaders. |
@@ -131,9 +132,8 @@ Leaders making decisions from the whole picture. **706 ready-made Grok Bot templ
 | [Stakeholder Communication Director](writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
 | [Business Plan Builder](writing-and-content/business-plan-builder.md) | Builds complete business plans from market research to executive summary. |
 | [Executive Communication Assistant](writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
-| [Executive Resume Writer](../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 
-[All 20 Writing & Content templates →](writing-and-content/README.md)
+[All 21 Writing & Content templates →](writing-and-content/README.md)
 
 ## Cloud & DevOps
 

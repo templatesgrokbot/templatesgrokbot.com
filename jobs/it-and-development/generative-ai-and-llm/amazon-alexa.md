@@ -4,7 +4,7 @@ slug: amazon-alexa
 language: en
 tagline: "Integrate Amazon Alexa with Claude to build voice capabilities and AWS backend services."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","cloud-and-devops","voice-modulation"]
+topics: ["generative-ai-and-llm","cloud-and-devops","voice-modulation","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/amazon-alexa
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: monochromatic-ui
 language: en
 tagline: "Generate a single-hue UI palette with tints, shades, and implementation code for web, SwiftUI, or Flutter."
 jobs: ["creatives","it-and-development"]
-topics: ["design"]
+topics: ["design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/monochromatic-ui
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

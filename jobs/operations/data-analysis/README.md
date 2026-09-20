@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 455 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 456 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Clean, query, chart and explain data. 455 Grok Bot templates, 268 of them filed 
 | [Bid Analysis and Selection Assistant](bid-analysis-and-selection-assistant.md) | Analyzes bids, compares suppliers, and supports procurement decisions with data-driven insights. |
 | [Bottleneck Analysis Assistant](bottleneck-analysis-assistant.md) | Finds and fixes process bottlenecks from your data, end to end. |
 | [Bounty Hunter](../../finance/data-analysis/bounty-hunter.md) | Identifies unclaimed, owed, or wasted money and recommends how to recover it. |
+| [Brendangregg Use Tsa](../../it-and-development/data-analysis/brendangregg-use-tsa.md) | Evidence-first performance debugging with USE/TSA methods and structured RCA reports. |
 | [Budget and Forecast Assistant](budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Budget Forecast Assistant](budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Business Analyst](business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |

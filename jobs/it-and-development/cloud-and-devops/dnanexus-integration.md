@@ -4,7 +4,7 @@ slug: dnanexus-integration
 language: en
 tagline: "Manage DNAnexus cloud genomics platform: build apps, run workflows, upload/download data, and automate pipelines with dxpy."
 jobs: ["it-and-development","science-and-research"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/dnanexus-integration
 adapted_from: https://www.aitmpl.com/component/skills/scientific/dnanexus-integration

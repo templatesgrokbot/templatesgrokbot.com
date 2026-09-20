@@ -3,8 +3,8 @@ name: "Pdf Official"
 slug: pdf-official
 language: en
 tagline: "Process PDFs: merge, split, extract text/tables, create, OCR, watermark, encrypt, and fill forms."
-jobs: ["operations","management"]
-topics: ["office-tools"]
+jobs: ["operations","management","legal","government","insurance"]
+topics: ["office-tools","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pdf-official
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

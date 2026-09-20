@@ -4,7 +4,7 @@ slug: visual-emotion-engineer
 language: en
 tagline: "Map colors, typography, spacing, and imagery to specific emotions and conversion goals."
 jobs: ["creatives","marketing"]
-topics: ["design","marketing-and-growth"]
+topics: ["design","marketing-and-growth","research"]
 category: creative
 url: https://templatesgrokbot.com/bot/visual-emotion-engineer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

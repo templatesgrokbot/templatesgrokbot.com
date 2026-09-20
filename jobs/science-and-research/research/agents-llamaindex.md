@@ -4,7 +4,7 @@ slug: agents-llamaindex
 language: en
 tagline: "Ingests documents from 300+ sources and answers questions about them using RAG."
 jobs: ["science-and-research","it-and-development","product-development"]
-topics: ["research","generative-ai-and-llm","data-analysis"]
+topics: ["research","generative-ai-and-llm","data-analysis","knowledge-management"]
 category: research
 url: https://templatesgrokbot.com/bot/agents-llamaindex
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/agents-llamaindex

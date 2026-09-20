@@ -4,7 +4,7 @@ slug: cloud-devops
 language: en
 tagline: "Drafts cloud infrastructure, CI/CD, containers, and monitoring plans for AWS, Azure, and GCP."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cloud-devops
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

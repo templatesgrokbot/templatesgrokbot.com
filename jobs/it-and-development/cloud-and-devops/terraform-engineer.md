@@ -4,7 +4,7 @@ slug: terraform-engineer
 language: en
 tagline: "Designs and implements reusable Terraform modules with enterprise state management and CI/CD integration."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/terraform-engineer
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/terraform-engineer

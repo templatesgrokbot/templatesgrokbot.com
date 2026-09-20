@@ -4,7 +4,7 @@ slug: scikit-learn
 language: en
 tagline: "Build and evaluate classical ML models with scikit-learn pipelines."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","coding"]
+topics: ["data-analysis","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/scikit-learn
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

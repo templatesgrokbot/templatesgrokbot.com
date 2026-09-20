@@ -4,7 +4,7 @@ slug: draw
 language: en
 tagline: "Create, edit, and convert vector graphics and diagrams via LibreOffice Draw."
 jobs: ["creatives","it-and-development"]
-topics: ["design","generative-art"]
+topics: ["design","generative-art","office-tools"]
 category: creative
 url: https://templatesgrokbot.com/bot/draw
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: gh-attach
 language: en
 tagline: "Upload and download GitHub user-attachments from the terminal."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/gh-attach
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

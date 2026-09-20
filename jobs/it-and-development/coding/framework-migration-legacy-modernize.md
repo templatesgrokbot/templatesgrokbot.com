@@ -4,7 +4,7 @@ slug: framework-migration-legacy-modernize
 language: en
 tagline: "Orchestrate legacy system modernization using the strangler fig pattern with gradual replacement and continuous operations."
 jobs: ["it-and-development","management"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/framework-migration-legacy-modernize
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

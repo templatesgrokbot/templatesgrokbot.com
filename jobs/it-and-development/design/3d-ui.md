@@ -4,7 +4,7 @@ slug: 3d-ui
 language: en
 tagline: "Guide for building 3D UI with depth, perspective, and interactive rotation."
 jobs: ["it-and-development","product-development"]
-topics: ["design","coding"]
+topics: ["design","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/3d-ui
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

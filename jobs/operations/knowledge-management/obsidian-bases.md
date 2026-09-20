@@ -3,7 +3,7 @@ name: "Obsidian Bases"
 slug: obsidian-bases
 language: en
 tagline: "Create and edit Obsidian .base files with views, filters, formulas, and summaries."
-jobs: ["operations","management"]
+jobs: ["operations","management","it-and-development"]
 topics: ["knowledge-management","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/obsidian-bases

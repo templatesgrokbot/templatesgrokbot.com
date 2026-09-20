@@ -4,7 +4,7 @@ slug: n8n-binary-and-data
 language: en
 tagline: "Handle n8n binary data across uploads, downloads, transforms, and chat surfaces without losing files."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","generative-ai-and-llm"]
+topics: ["cloud-and-devops","generative-ai-and-llm","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/n8n-binary-and-data
 adapted_from: https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-binary-and-data

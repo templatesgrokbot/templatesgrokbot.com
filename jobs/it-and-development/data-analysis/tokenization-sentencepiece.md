@@ -4,7 +4,7 @@ slug: tokenization-sentencepiece
 language: en
 tagline: "Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","generative-ai-and-llm"]
+topics: ["data-analysis","generative-ai-and-llm","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/tokenization-sentencepiece
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/tokenization-sentencepiece

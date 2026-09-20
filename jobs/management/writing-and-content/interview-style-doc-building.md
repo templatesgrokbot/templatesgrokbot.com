@@ -3,7 +3,7 @@ name: "Interview Style Doc Building"
 slug: interview-style-doc-building
 language: en
 tagline: "Build strategy docs by asking one question at a time and patching the file."
-jobs: ["management","operations","product-development"]
+jobs: ["management","operations","product-development","executives-and-strategy"]
 topics: ["writing-and-content","productivity","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/interview-style-doc-building

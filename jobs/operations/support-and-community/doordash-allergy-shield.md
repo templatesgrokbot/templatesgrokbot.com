@@ -3,8 +3,8 @@ name: "Doordash Allergy Shield"
 slug: doordash-allergy-shield
 language: en
 tagline: "Vets DoorDash carts against a stored household dietary profile before checkout."
-jobs: ["operations"]
-topics: ["support-and-community"]
+jobs: ["operations","product-development"]
+topics: ["support-and-community","generative-ai-and-llm","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/doordash-allergy-shield
 adapted_from: https://www.aitmpl.com/component/skills/doordash/doordash-allergy-shield

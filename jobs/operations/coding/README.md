@@ -1,6 +1,6 @@
 # Coding templates for Operations
 
-Write, review, test and debug software. 60 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 63 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Write, review, test and debug software. 60 Grok Bot templates, 2 of them filed i
 | [Azure Servicebus Dotnet](../../it-and-development/coding/azure-servicebus-dotnet.md) | Send, receive, and settle messages using Azure Service Bus from .NET. |
 | [Azure Storage Blob Ts](../../it-and-development/coding/azure-storage-blob-ts.md) | Manage Azure Blob Storage containers and blobs via TypeScript SDK. |
 | [Bash Defensive Patterns](../../it-and-development/coding/bash-defensive-patterns.md) | Write production-grade Bash scripts with defensive patterns and error handling. |
+| [Bash Pro](../../it-and-development/coding/bash-pro.md) | Write and harden production-grade Bash scripts with defensive patterns and safety checks. |
 | [Bash Scripting](../../it-and-development/coding/bash-scripting.md) | Create production-ready bash scripts with defensive patterns and testing. |
 | [Bats Testing Patterns](../../it-and-development/coding/bats-testing-patterns.md) | Write and run Bats tests for shell scripts with fixtures and CI integration. |
 | [Busybox On Windows](../../it-and-development/coding/busybox-on-windows.md) | Guide users to install and run BusyBox UNIX tools on Windows via a single binary. |
@@ -30,6 +31,7 @@ Write, review, test and debug software. 60 Grok Bot templates, 2 of them filed i
 | [Docusaurus Expert](../../it-and-development/coding/docusaurus-expert.md) | Maintains and troubleshoots Docusaurus documentation sites from config to deployment. |
 | [Emblemai Crypto Wallet](../../finance/coding/emblemai-crypto-wallet.md) | Manage crypto wallets across 7 blockchains via EmblemAI Agent Hustle API. |
 | [Episode Orchestrator](episode-orchestrator.md) | Orchestrates multi-agent episode workflows from payload validation to final output. |
+| [Error Debugging Error Trace](../../it-and-development/coding/error-debugging-error-trace.md) | Set up error monitoring, alerts, and structured logging for production systems. |
 | [Error Detective](../../it-and-development/coding/error-detective.md) | Diagnose system errors and correlate failures across services to prevent incidents. |
 | [Error Diagnostics Error Analysis](../../it-and-development/coding/error-diagnostics-error-analysis.md) | Diagnose production incidents and design observability fixes with evidence-based root-cause analysis. |
 | [Go Rod Master](../../it-and-development/coding/go-rod-master.md) | Go browser automation and web scraping with anti-detection via go-rod. |
@@ -57,6 +59,7 @@ Write, review, test and debug software. 60 Grok Bot templates, 2 of them filed i
 | [Repo Maintainer](../../it-and-development/coding/repo-maintainer.md) | Audit and repair repository hygiene across artifacts, dependencies, CI, docs, Git state, and code quality. |
 | [Seo Technical](../../marketing/coding/seo-technical.md) | Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, and JavaScript rendering. |
 | [Shell Scripting Pro](../../it-and-development/coding/shell-scripting-pro.md) | Write robust, POSIX-compliant shell scripts for automation and system administration. |
+| [Skyvern Browser Automation](../../it-and-development/coding/skyvern-browser-automation.md) | Navigate websites, fill forms, extract data, and automate browser workflows. |
 | [Supabase Automation](../../it-and-development/coding/supabase-automation.md) | Automate Supabase database queries, table management, and project administration. |
 | [Template Check](../../it-and-development/coding/skill-check.md) | Validate SKILL.md files against the agentskills specification. |
 | [Template Installer](../../it-and-development/coding/skill-installer.md) | Installs curated or custom Codex templates from GitHub repos into the templates directory. |

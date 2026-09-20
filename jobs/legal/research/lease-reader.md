@@ -4,7 +4,7 @@ slug: lease-reader
 language: en
 tagline: "Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on."
 jobs: ["legal","real-estate-and-construction"]
-topics: ["research","writing-and-content"]
+topics: ["research","writing-and-content","teaching-and-tutoring"]
 category: personal
 url: https://templatesgrokbot.com/bot/lease-reader
 ---

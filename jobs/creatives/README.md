@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **508 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **530 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,20 +11,20 @@ Designers, artists and content creators. **508 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 176 |
-| [Writing & Content](writing-and-content/README.md) | 59 |
+| [Design](design/README.md) | 182 |
+| [Writing & Content](writing-and-content/README.md) | 61 |
 | [Generative Art](generative-art/README.md) | 46 |
-| [Generative Code](generative-code/README.md) | 45 |
-| [Coding](coding/README.md) | 34 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 25 |
+| [Generative Code](generative-code/README.md) | 46 |
+| [Coding](coding/README.md) | 36 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 26 |
+| [Research](research/README.md) | 20 |
 | [Social Media](social-media/README.md) | 20 |
 | [Video Editing](video-editing/README.md) | 20 |
-| [Research](research/README.md) | 17 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 13 |
+| [Data Analysis](data-analysis/README.md) | 10 |
+| [Office Tools](office-tools/README.md) | 10 |
 | [Generative Video](generative-video/README.md) | 9 |
-| [Data Analysis](data-analysis/README.md) | 8 |
-| [Office Tools](office-tools/README.md) | 7 |
-| [Productivity](productivity/README.md) | 6 |
+| [Productivity](productivity/README.md) | 7 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Text-To-Speech](text-to-speech/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
@@ -35,6 +35,7 @@ Designers, artists and content creators. **508 ready-made Grok Bot templates** f
 | [Security & Compliance](security-and-compliance/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
 | [Support & Community](support-and-community/README.md) | 1 |
+| [Translation](translation/README.md) | 1 |
 
 ## Design
 
@@ -49,7 +50,7 @@ Designers, artists and content creators. **508 ready-made Grok Bot templates** f
 | [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Gradient Design](design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 
-[All 176 Design templates →](design/README.md)
+[All 182 Design templates →](design/README.md)
 
 ## Writing & Content
 
@@ -64,7 +65,7 @@ Designers, artists and content creators. **508 ready-made Grok Bot templates** f
 | [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Content Creation](../marketing/writing-and-content/marketing-content-creation.md) | Draft channel-specific marketing content that is SEO-aware and free of buzzwords. |
 
-[All 59 Writing & Content templates →](writing-and-content/README.md)
+[All 61 Writing & Content templates →](writing-and-content/README.md)
 
 ## Generative Art
 
@@ -94,7 +95,7 @@ Designers, artists and content creators. **508 ready-made Grok Bot templates** f
 | [Magic Ui Generator](generative-code/magic-ui-generator.md) | Generate, compare, and integrate production-ready UI component variations using Magic by 21st.dev. |
 | [Frontend Slides Frontend Slides](generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
 
-[All 45 Generative Code templates →](generative-code/README.md)
+[All 46 Generative Code templates →](generative-code/README.md)
 
 ## Coding
 
@@ -109,7 +110,7 @@ Designers, artists and content creators. **508 ready-made Grok Bot templates** f
 | [Swiftui Liquid Glass](../it-and-development/coding/swiftui-liquid-glass.md) | Implement or review SwiftUI Liquid Glass with correct APIs, fallbacks, and modifier order. |
 | [Favicon](../it-and-development/coding/favicon.md) | Generate a complete favicon set from a source image and inject HTML tags. |
 
-[All 34 Coding templates →](coding/README.md)
+[All 36 Coding templates →](coding/README.md)
 
 ## Marketing & Growth
 
@@ -124,7 +125,22 @@ Designers, artists and content creators. **508 ready-made Grok Bot templates** f
 | [Content Creation and Curation Planner](../executives-and-strategy/marketing-and-growth/content-creation-and-curation-planner.md) | Plans, creates, optimizes, and curates marketing content across channels. |
 | [Content Repurposing Planner](../marketing/marketing-and-growth/content-repurposing-planner.md) | Repurpose existing content into fresh formats across platforms, from research to distribution. |
 
-[All 25 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 26 Marketing & Growth templates →](marketing-and-growth/README.md)
+
+## Research
+
+| Template | What it does |
+|---|---|
+| [Ux Researcher](research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
+| [Discover Brand Materials](../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
+| [Photography Gear Advisor](research/photography-gear-advisor.md) | Personalized photography gear recommendations based on your shooting style and needs. |
+| [User Research Synthesis](../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
+| [Competitor UX Analyst](../product-development/research/competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
+| [Location Scout Planner](research/location-scout-planner.md) | Finds, vets, and plans photo shoot locations with research and logistics. |
+| [Historical Music Research Assistant](research/historical-music-research-assistant.md) | Research historical music and apply it to authentic film scores. |
+| [Film Music Theme Developer](research/film-music-theme-developer.md) | Develops film music themes from genre research to production-ready scores. |
+
+[All 20 Research templates →](research/README.md)
 
 ## Social Media
 
@@ -156,21 +172,6 @@ Designers, artists and content creators. **508 ready-made Grok Bot templates** f
 
 [All 20 Video Editing templates →](video-editing/README.md)
 
-## Research
-
-| Template | What it does |
-|---|---|
-| [Ux Researcher](research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
-| [Photography Gear Advisor](research/photography-gear-advisor.md) | Personalized photography gear recommendations based on your shooting style and needs. |
-| [Competitor UX Analyst](../product-development/research/competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
-| [Location Scout Planner](research/location-scout-planner.md) | Finds, vets, and plans photo shoot locations with research and logistics. |
-| [Historical Music Research Assistant](research/historical-music-research-assistant.md) | Research historical music and apply it to authentic film scores. |
-| [Film Music Theme Developer](research/film-music-theme-developer.md) | Develops film music themes from genre research to production-ready scores. |
-| [Film Music Trend Analyst](research/film-music-trend-analyst.md) | Uncovers and analyzes film music genre trends, from historical shifts to emerging styles, for composers. |
-| [Usability Testing Questionnaires Assistant](../product-development/research/usability-testing-questionnaires-assistant.md) | Drafts usability testing questionnaires and analyzes feedback to improve product user experience. |
-
-[All 17 Research templates →](research/README.md)
-
 ## Teaching & Tutoring
 
 | Template | What it does |
@@ -185,6 +186,36 @@ Designers, artists and content creators. **508 ready-made Grok Bot templates** f
 | [Music Copyright Navigator](teaching-and-tutoring/music-copyright-navigator.md) | Guides vocal artists and songwriters through music copyright law, licensing, and royalties. |
 
 [All 13 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [User Feedback Insight Assistant](../product-development/data-analysis/user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
+| [Scientific Visualization](../science-and-research/data-analysis/scientific-visualization.md) | Create publication-ready scientific figures from data. |
+| [Kpi Dashboard Design](../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
+| [Trend Analysis Content Assistant](../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
+| [Music Market Trend Analyst](data-analysis/music-market-trend-analyst.md) | Tracks music market trends to guide your creative and career decisions. |
+| [Photography Image Analyst](data-analysis/photography-image-analyst.md) | Analyzes your photos and returns detailed reports on quality, composition, content, and more. |
+| [Predictive UX Behavior Analyst](../product-development/data-analysis/predictive-ux-behavior-analyst.md) | Turns user behavior data into predictive insights and personalized UX actions. |
+| [Dashboard Design](../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
+
+[All 10 Data Analysis templates →](data-analysis/README.md)
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Nanobanana Ppt Templates](../operations/office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
+| [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
+| [PPTX Reference Analyzer](office-tools/pptx-reference-analyzer.md) | Analyzes reference PPTX decks for structure, theme, and design evidence without modifying them. |
+| [Pptx Deck Creation](../marketing/office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
+| [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
+| [Visual Asset Placer](office-tools/visual-asset-placer.md) | Selects and places approved visual assets in editable PPTX decks. |
+| [Canvas Deck Builder](office-tools/canvas-deck-builder.md) | 把内容排进锁死的 1920×1080 画布, 每页一个视觉重心, 不绑模板。 |
+| [Replit Slides Deck Builder](office-tools/replit-slides-deck-builder.md) | Turn your content into a Replit Slides-style horizontal-swipe deck with one of eight themes. No mixing, no fuss. |
+
+[All 10 Office Tools templates →](office-tools/README.md)
 
 ## Generative Video
 
@@ -201,35 +232,11 @@ Designers, artists and content creators. **508 ready-made Grok Bot templates** f
 
 [All 9 Generative Video templates →](generative-video/README.md)
 
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [User Feedback Insight Assistant](../product-development/data-analysis/user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
-| [Scientific Visualization](../science-and-research/data-analysis/scientific-visualization.md) | Create publication-ready scientific figures from data. |
-| [Trend Analysis Content Assistant](../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
-| [Music Market Trend Analyst](data-analysis/music-market-trend-analyst.md) | Tracks music market trends to guide your creative and career decisions. |
-| [Photography Image Analyst](data-analysis/photography-image-analyst.md) | Analyzes your photos and returns detailed reports on quality, composition, content, and more. |
-| [Predictive UX Behavior Analyst](../product-development/data-analysis/predictive-ux-behavior-analyst.md) | Turns user behavior data into predictive insights and personalized UX actions. |
-| [Feedback Compilation Assistant](data-analysis/feedback-compilation-assistant.md) | Turns scattered feedback into organized, actionable reports and highlight videos. |
-| [Apify Trend Analysis](../marketing/data-analysis/apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
-
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [PPTX Reference Analyzer](office-tools/pptx-reference-analyzer.md) | Analyzes reference PPTX decks for structure, theme, and design evidence without modifying them. |
-| [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
-| [Visual Asset Placer](office-tools/visual-asset-placer.md) | Selects and places approved visual assets in editable PPTX decks. |
-| [Canvas Deck Builder](office-tools/canvas-deck-builder.md) | 把内容排进锁死的 1920×1080 画布, 每页一个视觉重心, 不绑模板。 |
-| [Replit Slides Deck Builder](office-tools/replit-slides-deck-builder.md) | Turn your content into a Replit Slides-style horizontal-swipe deck with one of eight themes. No mixing, no fuss. |
-| [Deck Export Repair](office-tools/deck-export-repair.md) | Repairs broken AI-generated slide decks and PDFs, restoring clean text, fonts, and structure. |
-| [Manifesto Deck Builder](office-tools/manifesto-deck-builder.md) | Turns your outline into a bold color-block manifesto deck, word-for-word unchanged. |
-
 ## Productivity
 
 | Template | What it does |
 |---|---|
+| [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Notion Template Business](productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
 | [Royalty and Rights Manager](productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
 | [Live Recording Supervisor](productivity/live-recording-supervisor.md) | Supervises live recording sessions for film scores, from setup to post-production. |
@@ -309,5 +316,11 @@ Designers, artists and content creators. **508 ready-made Grok Bot templates** f
 | Template | What it does |
 |---|---|
 | [Photography Tech Troubleshooter](support-and-community/photography-tech-troubleshooter.md) | Diagnose and fix camera, lighting, software, and workflow issues for photographers. |
+
+## Translation
+
+| Template | What it does |
+|---|---|
+| [Humanize Chinese](../writers/translation/humanize-chinese.md) | Detect and rewrite AI-like Chinese text to sound natural, reduce AIGC, or match a target style. |
 
 [← All job fields](../../README.md#browse-by-job) · [Creatives on the website](https://templatesgrokbot.com/jobs/creatives)

@@ -4,7 +4,7 @@ slug: azure-data-tables-java
 language: en
 tagline: "Build table storage apps with Azure Tables SDK for Java."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-data-tables-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

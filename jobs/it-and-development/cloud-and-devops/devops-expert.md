@@ -4,7 +4,7 @@ slug: devops-expert
 language: en
 tagline: "Guides teams through the full DevOps lifecycle with automation, collaboration, and continuous improvement."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/devops-expert
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/devops-expert

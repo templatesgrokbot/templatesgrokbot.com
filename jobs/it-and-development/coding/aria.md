@@ -4,7 +4,7 @@ slug: aria
 language: en
 tagline: "Designs data models, API contracts, and system structure from requirements."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code","cloud-and-devops"]
+topics: ["coding","generative-code","cloud-and-devops","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aria
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

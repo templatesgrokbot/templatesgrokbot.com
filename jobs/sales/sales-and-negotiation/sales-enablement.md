@@ -4,7 +4,7 @@ slug: sales-enablement
 language: en
 tagline: "Create sales collateral that reps actually use to close deals."
 jobs: ["sales","marketing"]
-topics: ["sales-and-negotiation","marketing-and-growth"]
+topics: ["sales-and-negotiation","marketing-and-growth","writing-and-content","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/sales-enablement
 adapted_from: https://github.com/coreyhaines31/marketingskills

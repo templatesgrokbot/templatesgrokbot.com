@@ -4,7 +4,7 @@ slug: helpdesk-automation
 language: en
 tagline: "Browse helpdesk tickets, views, canned responses, and custom fields via Rube MCP."
 jobs: ["customer-support"]
-topics: ["support-and-community"]
+topics: ["support-and-community","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/helpdesk-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

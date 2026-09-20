@@ -3,7 +3,7 @@ name: "Jira Automation"
 slug: jira-automation
 language: en
 tagline: "Automate Jira issues, sprints, boards, comments, and project management via Rube MCP."
-jobs: ["operations","management","product-development"]
+jobs: ["operations","management","product-development","it-and-development"]
 topics: ["productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/jira-automation

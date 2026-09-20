@@ -4,7 +4,7 @@ slug: specification
 language: en
 tagline: "Generate or update specification documents for new or existing functionality."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/specification
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/specification

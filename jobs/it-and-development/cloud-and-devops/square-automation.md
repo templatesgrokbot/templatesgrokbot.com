@@ -4,7 +4,7 @@ slug: square-automation
 language: en
 tagline: "Automate Square payments, orders, invoices, and locations via Rube MCP."
 jobs: ["it-and-development","operations","finance"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/square-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: shell-scripting-pro
 language: en
 tagline: "Write robust, POSIX-compliant shell scripts for automation and system administration."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/shell-scripting-pro
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/shell-scripting-pro

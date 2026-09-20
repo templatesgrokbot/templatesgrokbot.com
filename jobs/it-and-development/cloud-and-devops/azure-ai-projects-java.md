@@ -4,7 +4,7 @@ slug: azure-ai-projects-java
 language: en
 tagline: "Manage Azure AI Foundry projects via Java SDK for connections, datasets, indexes, and evaluations."
 jobs: ["it-and-development","product-development","science-and-research"]
-topics: ["cloud-and-devops","generative-ai-and-llm"]
+topics: ["cloud-and-devops","generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-projects-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

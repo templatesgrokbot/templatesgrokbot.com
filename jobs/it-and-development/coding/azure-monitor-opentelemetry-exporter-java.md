@@ -4,7 +4,7 @@ slug: azure-monitor-opentelemetry-exporter-java
 language: en
 tagline: "Export OpenTelemetry traces, metrics, and logs to Azure Monitor / Application Insights."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-monitor-opentelemetry-exporter-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

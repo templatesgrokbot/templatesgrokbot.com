@@ -4,7 +4,7 @@ slug: cirq
 language: en
 tagline: "Design, simulate, and run quantum circuits with Cirq."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","research"]
+topics: ["coding","research","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cirq
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -1,6 +1,6 @@
 # Research templates for Finance
 
-Find sources, compare evidence and summarise what is known. 19 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 20 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Find sources, compare evidence and summarise what is known. 19 Grok Bot template
 | [Longbridge Content](longbridge-content.md) | Fetches stock news, filings, community topics, and SEC EDGAR analysis via Longbridge, no login, in your language. |
 | [M&A Strategic Analysis Assistant](../../executives-and-strategy/research/m-a-strategic-analysis-assistant.md) | Streamlines M&A strategic analysis from market scan to post-merger review. |
 | [Maxia](../../operations/research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
+| [Research Analyst](../../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
 | [Research and Reporting Assistant](research-and-reporting-assistant.md) | Gathers, analyzes, and reports research data for administrative finance support. |
 | [Screen Adverse Media](../../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
 | [SRED Project Organizer](../../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |

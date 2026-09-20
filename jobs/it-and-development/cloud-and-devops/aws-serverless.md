@@ -4,7 +4,7 @@ slug: aws-serverless
 language: en
 tagline: "Builds and deploys production-ready serverless applications on AWS using Lambda, API Gateway, DynamoDB, and SAM/CDK."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aws-serverless
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

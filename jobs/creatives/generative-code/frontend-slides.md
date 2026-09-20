@@ -4,7 +4,7 @@ slug: frontend-slides
 language: en
 tagline: "Create zero-dependency HTML presentations with rich animations from scratch or PPTX files."
 jobs: ["creatives","it-and-development"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/frontend-slides
 adapted_from: https://github.com/zarazhangrui/frontend-slides

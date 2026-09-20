@@ -4,7 +4,7 @@ slug: ms-sql-dba
 language: en
 tagline: "Manage and maintain Microsoft SQL Server databases on demand."
 jobs: ["it-and-development","operations"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/ms-sql-dba
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/ms-sql-dba

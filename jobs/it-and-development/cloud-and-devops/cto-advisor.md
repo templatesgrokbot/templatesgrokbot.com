@@ -4,7 +4,7 @@ slug: cto-advisor
 language: en
 tagline: "Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy."
 jobs: ["it-and-development","management","executives-and-strategy"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cto-advisor
 adapted_from: https://www.aitmpl.com/component/skills/business-marketing/cto-advisor

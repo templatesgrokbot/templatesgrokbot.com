@@ -4,7 +4,7 @@ slug: anndata
 language: en
 tagline: "Manages annotated data matrices for single-cell genomics and large-scale biological datasets."
 jobs: ["science-and-research","it-and-development"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/anndata
 adapted_from: https://www.aitmpl.com/component/skills/scientific/anndata

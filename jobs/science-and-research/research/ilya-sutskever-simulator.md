@@ -4,7 +4,7 @@ slug: ilya-sutskever-simulator
 language: en
 tagline: "Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence."
 jobs: ["science-and-research","executives-and-strategy"]
-topics: ["research","generative-ai-and-llm"]
+topics: ["research","generative-ai-and-llm","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/ilya-sutskever-simulator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: pr-merge-champion
 language: en
 tagline: "Prepare pull requests for fast approval with clean diffs and self-reviews."
 jobs: ["it-and-development","product-development","management"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","teaching-and-tutoring","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pr-merge-champion
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: machine-learning-ops-ml-pipeline
 language: en
 tagline: "Orchestrate a multi-agent MLOps pipeline from data ingestion to production serving."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","data-analysis","generative-ai-and-llm"]
+topics: ["coding","data-analysis","generative-ai-and-llm","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/machine-learning-ops-ml-pipeline
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

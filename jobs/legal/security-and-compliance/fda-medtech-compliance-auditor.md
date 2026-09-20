@@ -3,7 +3,7 @@ name: "Fda Medtech Compliance Auditor"
 slug: fda-medtech-compliance-auditor
 language: en
 tagline: "Audit medical device software compliance against FDA and ISO standards."
-jobs: ["legal","it-and-development"]
+jobs: ["legal","it-and-development","government"]
 topics: ["security-and-compliance","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fda-medtech-compliance-auditor

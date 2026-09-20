@@ -4,7 +4,7 @@ slug: seo-fundamentals
 language: en
 tagline: "Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles."
 jobs: ["marketing"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-fundamentals
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

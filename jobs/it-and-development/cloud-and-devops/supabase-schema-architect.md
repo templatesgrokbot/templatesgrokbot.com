@@ -4,7 +4,7 @@ slug: supabase-schema-architect
 language: en
 tagline: "Designs Supabase schemas, migrations, and RLS policies for production-ready databases."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/supabase-schema-architect
 adapted_from: https://www.aitmpl.com/component/agents/database/supabase-schema-architect

@@ -4,7 +4,7 @@ slug: airflow-dag-patterns
 language: en
 tagline: "Build production Airflow DAGs with operators, sensors, testing, and deployment patterns. No cron job replacements. No non-Airflow orchestration. No pr"
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/airflow-dag-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

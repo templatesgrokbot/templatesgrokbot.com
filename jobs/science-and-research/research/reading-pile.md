@@ -3,7 +3,7 @@ name: "Reading Pile"
 slug: reading-pile
 language: en
 tagline: "Works through your saved-articles backlog and tells you which three are worth your time."
-jobs: ["science-and-research","management","executives-and-strategy"]
+jobs: ["science-and-research","management","executives-and-strategy","writers"]
 topics: ["research","productivity"]
 category: research
 url: https://templatesgrokbot.com/bot/reading-pile

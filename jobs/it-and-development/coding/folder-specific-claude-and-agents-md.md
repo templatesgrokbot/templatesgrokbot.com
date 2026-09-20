@@ -4,7 +4,7 @@ slug: folder-specific-claude-and-agents-md
 language: en
 tagline: "Create folder-scoped CLAUDE.md and AGENTS.md guidance for future agents."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm","writing-and-content","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/folder-specific-claude-and-agents-md
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

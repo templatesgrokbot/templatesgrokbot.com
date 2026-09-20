@@ -3,8 +3,8 @@ name: "Multi Platform Apps Multi Platform"
 slug: multi-platform-apps-multi-platform
 language: en
 tagline: "Orchestrate parallel multi-platform feature builds with API-first contracts."
-jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+jobs: ["it-and-development","product-development","management"]
+topics: ["coding","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/multi-platform-apps-multi-platform
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

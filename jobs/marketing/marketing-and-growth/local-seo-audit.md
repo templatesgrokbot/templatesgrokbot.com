@@ -4,7 +4,7 @@ slug: local-seo-audit
 language: en
 tagline: "Audits local ranking pillars and prescribes the five highest-impact fixes for a business."
 jobs: ["marketing","sales"]
-topics: ["marketing-and-growth","data-analysis"]
+topics: ["marketing-and-growth","data-analysis","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/local-seo-audit
 adapted_from: https://collectivebrain.de/en/skills/local-seo-audit/

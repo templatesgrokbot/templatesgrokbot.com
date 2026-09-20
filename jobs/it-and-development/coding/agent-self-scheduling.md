@@ -4,7 +4,7 @@ slug: agent-self-scheduling
 language: en
 tagline: "Schedule AI agent runs with cron, loops, or external clocks while avoiding unsafe tight autonomous timers."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agent-self-scheduling
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

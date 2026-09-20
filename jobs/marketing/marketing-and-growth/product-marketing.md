@@ -4,7 +4,7 @@ slug: product-marketing
 language: en
 tagline: "Build and maintain a product marketing context document from codebase or conversation."
 jobs: ["marketing","product-development","management"]
-topics: ["marketing-and-growth","knowledge-management"]
+topics: ["marketing-and-growth","knowledge-management","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/product-marketing
 adapted_from: https://github.com/coreyhaines31/marketingskills/tree/main/skills/product-marketing

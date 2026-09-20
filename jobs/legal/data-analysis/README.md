@@ -1,12 +1,15 @@
 # Data Analysis templates for Legal
 
-Clean, query, chart and explain data. 22 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 27 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [AML Due Diligence Drafter](aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
+| [Azure Ai Contentunderstanding Py](../../it-and-development/data-analysis/azure-ai-contentunderstanding-py.md) | Extract structured content from documents, images, audio, and video using Azure AI. |
+| [Azure Ai Document Intelligence Dotnet](../../it-and-development/data-analysis/azure-ai-document-intelligence-dotnet.md) | Extract text, tables, and structured data from documents using Azure AI Document Intelligence. |
+| [Azure Ai Document Intelligence Ts](../../it-and-development/data-analysis/azure-ai-document-intelligence-ts.md) | Extract text, tables, and structured data from documents using Azure AI. |
 | [Compliance Benchmarking Analyst](compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
 | [Compliance Cost Analyst](compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Compliance Monitoring Inspector](compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
@@ -23,10 +26,12 @@ Clean, query, chart and explain data. 22 Grok Bot templates, 17 of them filed in
 | [Licensing and Royalty Manager](licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
 | [Patent Portfolio Analyst](patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
 | [Patent Valuation Analyst](patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
+| [Pdf Processing Pro](../../operations/data-analysis/pdf-processing-pro.md) | Extracts text, tables, and form data from PDFs with validation and batch processing. |
 | [Procurement Risk Management Assistant](../../operations/data-analysis/procurement-risk-management-assistant.md) | Procurement risk management assistant that assesses, mitigates, and monitors supplier, contract, and supply chain risks. |
 | [Risk Assessment Workflow Assistant](risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |
 | [Spend Analysis Assistant](spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Supplier Risk Management Assistant](../../management/data-analysis/supplier-risk-management-assistant.md) | Assesses supplier risks, analyzes contracts, and builds mitigation plans for supplier relationship managers. |
+| [Text Comparison Validator](../../operations/data-analysis/text-comparison-validator.md) | Compares extracted text to a reference file and reports all discrepancies. |
 | [Vendor Performance Analyst](vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
 [← All Legal templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/legal)

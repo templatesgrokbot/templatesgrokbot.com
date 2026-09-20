@@ -4,7 +4,7 @@ slug: ios-developer
 language: en
 tagline: "Builds and maintains native iOS apps with Swift/SwiftUI, from components to App Store submission, optimized for iOS 18."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ios-developer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

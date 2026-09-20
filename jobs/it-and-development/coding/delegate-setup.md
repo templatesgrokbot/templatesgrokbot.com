@@ -4,7 +4,7 @@ slug: delegate-setup
 language: en
 tagline: "Configure approved delegation lanes across installed implementer CLIs."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/delegate-setup
 adapted_from: https://github.com/amElnagdy/delegate-skills

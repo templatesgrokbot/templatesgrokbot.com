@@ -4,7 +4,7 @@ slug: deadline-prep
 language: en
 tagline: "Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you"
 jobs: ["management","product-development","it-and-development"]
-topics: ["productivity","research"]
+topics: ["productivity","research","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/deadline-prep
 adapted_from: https://www.aitmpl.com/component/skills/productivity/deadline-prep

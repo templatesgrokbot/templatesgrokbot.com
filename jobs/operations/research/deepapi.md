@@ -3,8 +3,8 @@ name: "Deepapi"
 slug: deepapi
 language: en
 tagline: "Scrape, research, and email via DeepAPI with explicit credentials and approval."
-jobs: ["operations","marketing"]
-topics: ["research"]
+jobs: ["operations","marketing","sales"]
+topics: ["research","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/deepapi
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

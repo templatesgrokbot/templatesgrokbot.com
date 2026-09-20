@@ -4,7 +4,7 @@ slug: se-technical-writer
 language: en
 tagline: "Transforms complex technical concepts into clear, engaging developer documentation and educational content."
 jobs: ["it-and-development","writers"]
-topics: ["writing-and-content","teaching-and-tutoring"]
+topics: ["writing-and-content","teaching-and-tutoring","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/se-technical-writer
 adapted_from: https://www.aitmpl.com/component/agents/documentation/se-technical-writer

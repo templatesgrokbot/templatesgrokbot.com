@@ -3,7 +3,7 @@ name: "Shopify Review Triage"
 slug: shopify-review-triage
 language: en
 tagline: "Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests."
-jobs: ["customer-support","product-development","operations"]
+jobs: ["customer-support","product-development","operations","management"]
 topics: ["data-analysis","support-and-community","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/shopify-review-triage

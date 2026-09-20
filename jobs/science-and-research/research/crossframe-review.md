@@ -4,7 +4,7 @@ slug: crossframe-review
 language: en
 tagline: "CrossFrame Review — audits reasoning chains, evidence boundaries, and source-anchor integrity"
 jobs: ["science-and-research","management"]
-topics: ["research","self-improvement"]
+topics: ["research","self-improvement","generative-ai-and-llm","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/crossframe-review
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

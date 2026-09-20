@@ -3,8 +3,8 @@ name: "Postmark Automation"
 slug: postmark-automation
 language: en
 tagline: "Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces."
-jobs: ["marketing","operations","customer-support"]
-topics: ["productivity","marketing-and-growth"]
+jobs: ["marketing","operations","customer-support","it-and-development"]
+topics: ["productivity","marketing-and-growth","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/postmark-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,8 +3,8 @@ name: "Apify Trend Analysis"
 slug: apify-trend-analysis
 language: en
 tagline: "Track emerging trends across social media and Google Trends to inform content strategy."
-jobs: ["marketing","creatives","pr-and-communications"]
-topics: ["data-analysis","social-media","marketing-and-growth"]
+jobs: ["marketing","creatives","pr-and-communications","writers"]
+topics: ["data-analysis","social-media","marketing-and-growth","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/apify-trend-analysis
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

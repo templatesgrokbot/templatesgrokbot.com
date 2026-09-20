@@ -4,7 +4,7 @@ slug: sdk-dx
 language: en
 tagline: "Design SDKs that developers love through native APIs and clear error messages."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","design","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/sdk-dx
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/sdk-dx

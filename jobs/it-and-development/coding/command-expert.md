@@ -4,7 +4,7 @@ slug: command-expert
 language: en
 tagline: "Designs and implements CLI commands for the claude-code-templates system."
 jobs: ["it-and-development"]
-topics: ["coding","prompt-engineering"]
+topics: ["coding","prompt-engineering","design","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/command-expert
 adapted_from: https://www.aitmpl.com/component/agents/development-tools/command-expert

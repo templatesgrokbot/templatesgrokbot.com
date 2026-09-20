@@ -4,7 +4,7 @@ slug: lamindb
 language: en
 tagline: "Manages biological datasets with lineage tracking, ontology validation, and FAIR compliance."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","data-analysis","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/lamindb
 adapted_from: https://www.aitmpl.com/component/skills/scientific/lamindb

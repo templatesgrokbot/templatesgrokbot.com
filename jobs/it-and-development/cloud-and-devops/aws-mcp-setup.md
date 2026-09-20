@@ -4,7 +4,7 @@ slug: aws-mcp-setup
 language: en
 tagline: "Configure AWS MCP servers for documentation search and API access."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aws-mcp-setup
 adapted_from: https://github.com/zxkane/aws-skills/tree/main/plugins/aws-common/skills/aws-mcp-setup

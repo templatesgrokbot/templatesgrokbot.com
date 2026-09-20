@@ -1,6 +1,6 @@
 # Productivity templates for Hospitality and Events
 
-Plan, prioritise and clear the recurring admin. 38 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 39 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,7 @@ Plan, prioritise and clear the recurring admin. 38 Grok Bot templates, 6 of them
 | [Hotel Sustainability Implementation Planner](hotel-sustainability-implementation-planner.md) | Turns hotel operations into a sustainability action plan with research, policies, and tracking. |
 | [Inventory Tracking Assistant](../../customer-support/productivity/inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |
 | [Itinerary Optimizer](itinerary-optimizer.md) | Optimizes multi-stop trips with realistic timing, reservations, and buffer time. |
+| [Meal Prep](../../operations/productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Operations Crisis Navigator](../../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
 | [Pharma Event Planning Assistant](../../sales/productivity/pharma-event-planning-assistant.md) | Plans, promotes, and manages pharmaceutical events and conferences end-to-end. |
 | [Production Deadline Planner](../../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |

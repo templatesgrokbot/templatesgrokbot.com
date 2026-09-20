@@ -4,7 +4,7 @@ slug: postman-newman-automation
 language: en
 tagline: "Generate Newman CLI commands, shell scripts, and Jenkins pipelines for Postman collections."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/postman-newman-automation
 adapted_from: https://github.com/LambdaTest/agent-skills/tree/main/api-skill/postman/postman-to-newman

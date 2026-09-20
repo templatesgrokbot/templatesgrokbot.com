@@ -4,7 +4,7 @@ slug: diagrammer
 language: en
 tagline: "Turns plain-English diagram requests into clean blueprint-style SVG files for docs and slides."
 jobs: ["it-and-development","creatives","product-development"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","generative-art","cloud-and-devops"]
 category: creative
 url: https://templatesgrokbot.com/bot/diagrammer
 adapted_from: https://www.aitmpl.com/component/skills/creative-design/diagrammer

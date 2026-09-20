@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Creatives
 
-Campaigns, ads, conversion and launch plans. 25 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 26 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,7 @@ Campaigns, ads, conversion and launch plans. 25 Grok Bot templates, 7 of them fi
 | [Video SEO Optimizer](video-seo-optimizer.md) | Optimizes video SEO: keywords, titles, descriptions, tags, transcripts, thumbnails, metadata, competitors, sitemaps, embedding, and platform… |
 | [Vocal Artist Brand Consultant](vocal-artist-brand-consultant.md) | Refines a vocal artist's brand and image across all platforms and materials. |
 | [Vocalist Fan Engagement Blueprint](vocalist-fan-engagement-blueprint.md) | Turns audience engagement ideas into ready-to-use plans for vocal artists and singer-songwriters. |
+| [Write SEO Articles](../../marketing/marketing-and-growth/seo-artikel-schreiben.md) | Writes SEO articles that rank by analyzing live SERPs and matching search intent. |
 | [Youtube Seo Optimizer](../../marketing/marketing-and-growth/youtube-seo-optimizer.md) | Optimize YouTube and podcast metadata for search and discovery. |
 
 [← All Creatives templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/creatives)

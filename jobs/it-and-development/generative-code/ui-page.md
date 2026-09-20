@@ -3,8 +3,8 @@ name: "Ui Page"
 slug: ui-page
 language: en
 tagline: "Scaffold a mobile page using StyleSeed layout patterns and components."
-jobs: ["it-and-development","product-development"]
-topics: ["generative-code","design"]
+jobs: ["it-and-development","product-development","creatives"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ui-page
 adapted_from: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-page

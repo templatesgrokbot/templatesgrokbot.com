@@ -4,7 +4,7 @@ slug: riffkit
 language: en
 tagline: "Transform a winning TikTok's formula into your own branded short video in 9 languages."
 jobs: ["creatives","marketing"]
-topics: ["generative-video","social-media"]
+topics: ["generative-video","social-media","translation","video-editing"]
 category: creative
 url: https://templatesgrokbot.com/bot/riffkit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

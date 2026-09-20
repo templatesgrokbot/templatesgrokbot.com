@@ -3,8 +3,8 @@ name: "Brand"
 slug: brand
 language: en
 tagline: "Keeps brand voice, visuals, and assets consistent across all your content."
-jobs: ["marketing","creatives"]
-topics: ["design","marketing-and-growth"]
+jobs: ["marketing","creatives","pr-and-communications","writers"]
+topics: ["design","marketing-and-growth","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/brand
 ---

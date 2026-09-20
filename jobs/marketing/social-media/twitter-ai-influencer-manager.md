@@ -4,7 +4,7 @@ slug: twitter-ai-influencer-manager
 language: en
 tagline: "Engages with AI thought leaders on Twitter by posting, searching, and analyzing content."
 jobs: ["marketing","pr-and-communications"]
-topics: ["social-media","marketing-and-growth"]
+topics: ["social-media","marketing-and-growth","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/twitter-ai-influencer-manager
 adapted_from: https://www.aitmpl.com/component/agents/podcast-creator-team/twitter-ai-influencer-manager

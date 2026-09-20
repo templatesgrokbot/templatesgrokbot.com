@@ -1,6 +1,6 @@
 # Social Media templates for PR and Communications
 
-Plan, write and measure posts across networks. 28 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 30 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,7 +15,9 @@ Plan, write and measure posts across networks. 28 Grok Bot templates, 6 of them 
 | [Digital Crisis Management Assistant](../../sales/social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
 | [Executive Personal Brand Manager](../../executives-and-strategy/social-media/executive-personal-brand-manager.md) | Builds and protects your executive personal brand across all channels. |
 | [Instagram Automation](../../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
+| [Instagram Manager](../../marketing/social-media/instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
 | [Linkedin Automation](../../marketing/social-media/linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
+| [Linkedin Content Generator](../../marketing/social-media/linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
 | [PR Social Media Cycle Partner](pr-social-media-cycle-partner.md) | Social media strategy partner for PR specialists—research, plan, create, track, and optimize content. |
 | [Presence Audit Optimizer](presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |
 | [Reputation Monitoring Assistant](reputation-monitoring-assistant.md) | Monitors and analyzes online reputation across platforms for PR specialists. |

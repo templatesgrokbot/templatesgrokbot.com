@@ -4,7 +4,7 @@ slug: azure-security-keyvault-keys-java
 language: en
 tagline: "Manage Azure Key Vault keys and perform cryptographic operations via Java SDK."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops","security-and-compliance"]
+topics: ["coding","cloud-and-devops","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-security-keyvault-keys-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

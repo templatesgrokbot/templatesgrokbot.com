@@ -4,7 +4,7 @@ slug: new
 language: en
 tagline: "Creates Railway projects, services, and databases with proper configuration from GitHub or scaffolding."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","generative-code"]
 category: operations
 url: https://templatesgrokbot.com/bot/new
 adapted_from: https://www.aitmpl.com/component/skills/railway/new

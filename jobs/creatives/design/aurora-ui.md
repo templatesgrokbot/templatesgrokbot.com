@@ -4,7 +4,7 @@ slug: aurora-ui
 language: en
 tagline: "Build ethereal aurora UI with glowing orbs, glassmorphism, and slow drift."
 jobs: ["creatives","it-and-development"]
-topics: ["design","generative-art"]
+topics: ["design","generative-art","coding","generative-code"]
 category: creative
 url: https://templatesgrokbot.com/bot/aurora-ui
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

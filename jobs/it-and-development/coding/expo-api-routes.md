@@ -4,7 +4,7 @@ slug: expo-api-routes
 language: en
 tagline: "Build and deploy serverless API routes in Expo Router on EAS Hosting."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/expo-api-routes
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

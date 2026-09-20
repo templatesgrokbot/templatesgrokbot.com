@@ -4,7 +4,7 @@ slug: ensembl-database
 language: en
 tagline: "Query Ensembl genome database for gene lookups, sequences, variants, and comparative genomics across 250+ species."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/ensembl-database
 adapted_from: https://www.aitmpl.com/component/skills/scientific/ensembl-database

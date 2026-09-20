@@ -4,7 +4,7 @@ slug: odoo-rpc-api
 language: en
 tagline: "Generate Odoo RPC code for authentication, CRUD, and debugging."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/odoo-rpc-api
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

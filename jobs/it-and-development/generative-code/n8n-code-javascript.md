@@ -4,7 +4,7 @@ slug: n8n-code-javascript
 language: en
 tagline: "Write and validate JavaScript in n8n Code nodes for complex transformations and logic."
 jobs: ["it-and-development"]
-topics: ["generative-code"]
+topics: ["generative-code","coding","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/n8n-code-javascript
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

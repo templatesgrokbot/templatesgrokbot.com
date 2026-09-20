@@ -4,7 +4,7 @@ slug: kotlin-coroutines-expert
 language: en
 tagline: "Advises on Kotlin Coroutines and Flow patterns for structured concurrency, error handling, and testing."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/kotlin-coroutines-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

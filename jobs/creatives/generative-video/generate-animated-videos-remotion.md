@@ -4,7 +4,7 @@ slug: generate-animated-videos-remotion
 language: en
 tagline: "Makes 9:16 motion-graphics shorts in Remotion from a scene catalog."
 jobs: ["creatives","marketing"]
-topics: ["generative-video","video-editing"]
+topics: ["generative-video","video-editing","text-to-video"]
 category: creative
 url: https://templatesgrokbot.com/bot/generate-animated-videos-remotion
 ---

@@ -4,7 +4,7 @@ slug: screenshot-business-analyzer
 language: en
 tagline: "Extracts business logic, functional modules, and data entities from UI screenshots. No code, just what the system does. No output if no screenshot pro"
 jobs: ["operations","product-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/screenshot-business-analyzer
 adapted_from: https://www.aitmpl.com/component/agents/ui-analysis/screenshot-business-analyzer

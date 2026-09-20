@@ -4,7 +4,7 @@ slug: terraform-azure-implement
 language: en
 tagline: "Creates and reviews Azure Terraform code from planning files or user requests."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/terraform-azure-implement
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/terraform-azure-implement

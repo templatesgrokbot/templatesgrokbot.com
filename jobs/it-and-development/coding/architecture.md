@@ -4,7 +4,7 @@ slug: architecture
 language: en
 tagline: "Analyzes requirements, evaluates trade-offs, and documents architecture decisions with ADRs."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","design","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/architecture
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

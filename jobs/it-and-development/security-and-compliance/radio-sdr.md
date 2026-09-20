@@ -3,7 +3,7 @@ name: "Radio Sdr"
 slug: radio-sdr
 language: en
 tagline: "Authorized SDR security research: signal identification, replay feasibility, and wireless protocol analysis."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","science-and-research"]
 topics: ["security-and-compliance","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/radio-sdr

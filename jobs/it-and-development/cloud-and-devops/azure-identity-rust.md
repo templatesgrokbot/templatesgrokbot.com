@@ -4,7 +4,7 @@ slug: azure-identity-rust
 language: en
 tagline: "Authenticate Azure SDK clients using Microsoft Entra ID credentials."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-identity-rust
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

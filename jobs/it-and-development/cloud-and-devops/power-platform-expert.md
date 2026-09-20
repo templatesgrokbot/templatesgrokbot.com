@@ -4,7 +4,7 @@ slug: power-platform-expert
 language: en
 tagline: "Provides expert guidance on Power Platform development, architecture, and best practices."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops","data-analysis"]
+topics: ["cloud-and-devops","data-analysis","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/power-platform-expert
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/power-platform-expert

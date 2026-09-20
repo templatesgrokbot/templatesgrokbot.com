@@ -4,7 +4,7 @@ slug: doc-chaser-lite
 language: en
 tagline: "Drafts one friendly document-request email for a tax client from a brief and practice profile."
 jobs: ["operations","finance"]
-topics: ["writing-and-content"]
+topics: ["writing-and-content","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/doc-chaser-lite
 adapted_from: https://www.aitmpl.com/component/skills/productivity/doc-chaser-lite

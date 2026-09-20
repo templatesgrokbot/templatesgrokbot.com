@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **148 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **154 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,14 +12,15 @@ Property, building and site work. **148 ready-made Grok Bot templates** for this
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 38 |
-| [Productivity](productivity/README.md) | 35 |
+| [Productivity](productivity/README.md) | 38 |
 | [Security & Compliance](security-and-compliance/README.md) | 27 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 15 |
-| [Research](research/README.md) | 12 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 16 |
+| [Research](research/README.md) | 13 |
 | [Writing & Content](writing-and-content/README.md) | 7 |
 | [Design](design/README.md) | 5 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 5 |
 | [Knowledge Management](knowledge-management/README.md) | 3 |
+| [Office Tools](office-tools/README.md) | 1 |
 | [Support & Community](support-and-community/README.md) | 1 |
 
 ## Data Analysis
@@ -82,7 +83,9 @@ Property, building and site work. **148 ready-made Grok Bot templates** for this
 | [Facility Operations Planner](../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
 | [Facility Ops Chat Manager](../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
 | [GM Collaboration Planner](../executives-and-strategy/productivity/gm-collaboration-planner.md) | Helps general managers plan, run, and improve team collaboration across meetings, projects, and conflict. |
+| [Home Ops](../operations/productivity/home-ops.md) | Keeps a maintenance schedule for your house so nothing expensive fails unannounced. |
 | [Hotel Maintenance Schedule Coordinator](../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
+| [Invoice Chaser](../finance/productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
 | [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
 | [Operations Risk Mitigation Planner](../operations/productivity/operations-risk-mitigation-planner.md) | Identifies, assesses, and mitigates operational risks with structured plans and monitoring. |
 | [Production Deadline Planner](../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
@@ -92,6 +95,7 @@ Property, building and site work. **148 ready-made Grok Bot templates** for this
 | [Project Management Coordination Assistant](../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
 | [Project Management Efficiency Assistant](../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Project Management Support Assistant](../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
+| [Project Manager](../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
 | [Project Planning Assistant](../management/productivity/project-planning-assistant.md) | Assists project managers with planning, analysis, and documentation tasks. |
 | [Project Progress Tracker](../management/productivity/project-progress-tracker.md) | Tracks project progress, milestones, resources, issues, risks, docs, stakeholders, dependencies, performance, and budget. |
 | [Project Risk Assessment Assistant](../management/productivity/project-risk-assessment-assistant.md) | Guides project managers through risk identification, analysis, mitigation, and communication. |
@@ -144,6 +148,7 @@ Property, building and site work. **148 ready-made Grok Bot templates** for this
 | [BDM Networking Follow-Up](../sales/sales-and-negotiation/bdm-networking-follow-up.md) | Plan, execute, and follow up on your networking to grow valuable professional connections. |
 | [Client Communication Assistant](sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
 | [CRM Sales and Marketing Assistant](../sales/sales-and-negotiation/crm-sales-and-marketing-assistant.md) | CRM assistant that manages leads, segments customers, and analyzes sales performance for your team. |
+| [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
 | [Lead Lifecycle Manager](../sales/sales-and-negotiation/lead-lifecycle-manager.md) | Finds, qualifies, and nurtures leads, then tracks and reports on them for sales. |
 | [Personalized Sales Strategy Assistant](../sales/sales-and-negotiation/personalized-sales-strategy-assistant.md) | Personalized sales strategies from customer data to tailored pitches and follow-ups. |
 | [Real Estate Negotiation Prep](sales-and-negotiation/real-estate-negotiation-prep.md) | Prepares real estate brokers for negotiations with market data, strategy, and documentation. |
@@ -167,6 +172,7 @@ Property, building and site work. **148 ready-made Grok Bot templates** for this
 | [Contract Risk Assessment Assistant](../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
 | [Contract Risk Reviewer](../legal/research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
 | [Dispute Resolution Support Assistant](../legal/research/dispute-resolution-support-assistant.md) | Supports contract administrators through every stage of dispute resolution. |
+| [Find Matching Tenders](../sales/research/find-matching-tenders.md) | Find and rank live AU/NZ government tenders matching a company's capabilities. |
 | [Green Infrastructure Planning Assistant](../science-and-research/research/green-infrastructure-planning-assistant.md) | Green infrastructure planning assistant for environmental consultants, from site analysis to funding and monitoring. |
 | [Lease Reader](../legal/research/lease-reader.md) | Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on. |
 | [Legal Auction Analyst](../legal/research/legal-auction-analyst.md) | Analyzes nullities, family homestead and fiduciary alienation in real estate auctions under the CPC and Law 9.514/97. |
@@ -213,6 +219,12 @@ Property, building and site work. **148 ready-made Grok Bot templates** for this
 | [Amendment and Variation Tracker](../legal/knowledge-management/amendment-and-variation-tracker.md) | Tracks contract amendments and variations from log to approval, with alerts and reports. |
 | [Contract Renewal Radar](../legal/knowledge-management/contract-renewal-radar.md) | Sweeps your contracts folder and calendars every renewal decision deadline before it's too late. |
 | [Real Estate CE Resource Finder](knowledge-management/real-estate-ce-resource-finder.md) | Finds and tracks continuing education resources for real estate brokers. |
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
 
 ## Support & Community
 

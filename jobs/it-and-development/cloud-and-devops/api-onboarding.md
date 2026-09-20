@@ -4,7 +4,7 @@ slug: api-onboarding
 language: en
 tagline: "Optimize developer onboarding to reduce time-to-first-API-call under 5 minutes."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/api-onboarding
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/api-onboarding

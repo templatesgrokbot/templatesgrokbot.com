@@ -4,7 +4,7 @@ slug: competitor-alternatives
 language: en
 tagline: "Build SEO-optimized competitor comparison and alternative pages that help buyers decide."
 jobs: ["marketing","sales"]
-topics: ["marketing-and-growth","research"]
+topics: ["marketing-and-growth","research","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/competitor-alternatives
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

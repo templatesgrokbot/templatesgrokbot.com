@@ -4,7 +4,7 @@ slug: claude-in-chrome-troubleshooting
 language: en
 tagline: "Diagnose and fix Claude in Chrome MCP extension connectivity issues on macOS."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/claude-in-chrome-troubleshooting
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

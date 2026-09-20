@@ -4,7 +4,7 @@ slug: demonstrate-understanding
 language: en
 tagline: "Validates your understanding of code and design through guided questioning."
 jobs: ["education","it-and-development","product-development"]
-topics: ["teaching-and-tutoring","self-improvement","prompt-engineering"]
+topics: ["teaching-and-tutoring","self-improvement","prompt-engineering","design"]
 category: education
 url: https://templatesgrokbot.com/bot/demonstrate-understanding
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/demonstrate-understanding

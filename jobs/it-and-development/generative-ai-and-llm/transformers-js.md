@@ -4,7 +4,7 @@ slug: transformers-js
 language: en
 tagline: "Run ML models directly in JavaScript/TypeScript without a Python server."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","coding","text-to-speech","speech-to-text"]
 category: engineering
 url: https://templatesgrokbot.com/bot/transformers-js
 adapted_from: https://github.com/huggingface/skills/tree/main/skills/transformers-js

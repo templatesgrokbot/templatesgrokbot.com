@@ -4,7 +4,7 @@ slug: autonomous-agents
 language: en
 tagline: "Design constrained agents that earn autonomy through proven step-by-step reliability."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","coding","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/autonomous-agents
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: ffuf-web-fuzzing
 language: en
 tagline: "Guide for authorized ffuf web fuzzing with authenticated requests and result analysis."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ffuf-web-fuzzing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

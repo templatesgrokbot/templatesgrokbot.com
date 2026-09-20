@@ -4,7 +4,7 @@ slug: powershell-windows
 language: en
 tagline: "Provides PowerShell patterns, operator syntax, error handling, and pitfalls for Windows scripting."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/powershell-windows
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

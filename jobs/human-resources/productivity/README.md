@@ -1,6 +1,6 @@
 # Productivity templates for Human Resources
 
-Plan, prioritise and clear the recurring admin. 70 Grok Bot templates, 48 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 73 Grok Bot templates, 48 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,6 +22,7 @@ Plan, prioritise and clear the recurring admin. 70 Grok Bot templates, 48 of the
 | [Event Staffing Ordering](../../operations/productivity/event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
 | [Executive Hiring Navigator](../../executives-and-strategy/productivity/executive-hiring-navigator.md) | Talent acquisition strategy assistant for executive directors, from market analysis to onboarding. |
 | [Exit Interview Coordinator](exit-interview-coordinator.md) | Manages exit interviews from scheduling to follow-up actions for HR specialists. |
+| [Find Complementary Founders](../../executives-and-strategy/productivity/find-complementary-founders.md) | Match founders by evidence, not claims — publish only your own owner's profile. |
 | [Git Pr Workflows Onboard](git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
 | [Global TA Strategy Advisor](global-ta-strategy-advisor.md) | Enhances talent acquisition with sourcing, branding, and data-driven insights. |
 | [Hiring and Team Building Assistant](../../executives-and-strategy/productivity/hiring-and-team-building-assistant.md) | Handles hiring and team building tasks for founders, from job posts to performance reviews. |
@@ -64,6 +65,8 @@ Plan, prioritise and clear the recurring admin. 70 Grok Bot templates, 48 of the
 | [Recruitment Strategy Assistant](../../executives-and-strategy/productivity/recruitment-strategy-assistant.md) | Turns your hiring process into a structured, AI-assisted recruitment workflow. |
 | [Remote Workforce Program Designer](remote-workforce-program-designer.md) | Designs and runs remote workforce programs for global HR leaders. |
 | [Resume Screening Assistant](resume-screening-assistant.md) | Screens resumes against job requirements and shortlists top candidates for HR consultants. |
+| [Setup Cowork](../../it-and-development/productivity/anthropic-setup-cowork.md) | Interview the user, install role-matched plugins, connect tools, and run a first template. |
+| [Spark](../../operations/productivity/spark.md) | Guides new users through a short questionnaire, then automatically creates the bots and connectors they need. |
 | [Succession Plan Builder for HR Leaders](succession-plan-builder-for-hr-leaders.md) | Turns HR data into a complete succession plan with candidates, development paths, and risk checks. |
 | [Succession Planning Strategist](succession-planning-strategist.md) | Guides VPs of HR through succession planning, from identifying critical roles to measuring program success. |
 | [Talent Acquisition Strategy Planner](../../executives-and-strategy/productivity/talent-acquisition-strategy-planner.md) | Talent acquisition strategy assistant for VPs of Business Development, covering market research to onboarding support. |

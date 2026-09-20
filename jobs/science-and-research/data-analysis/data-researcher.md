@@ -3,7 +3,7 @@ name: "Data Researcher"
 slug: data-researcher
 language: en
 tagline: "Discovers, collects, and validates data from multiple sources for analysis and decision-making."
-jobs: ["science-and-research","it-and-development","marketing"]
+jobs: ["science-and-research","it-and-development","marketing","government"]
 topics: ["data-analysis","research"]
 category: research
 url: https://templatesgrokbot.com/bot/data-researcher

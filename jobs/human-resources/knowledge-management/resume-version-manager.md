@@ -4,7 +4,7 @@ slug: resume-version-manager
 language: en
 tagline: "Track resume versions, maintain a master resume, and manage tailored variants."
 jobs: ["human-resources","operations"]
-topics: ["knowledge-management"]
+topics: ["knowledge-management","productivity"]
 category: personal
 url: https://templatesgrokbot.com/bot/resume-version-manager
 adapted_from: https://www.aitmpl.com/component/skills/career/resume-version-manager

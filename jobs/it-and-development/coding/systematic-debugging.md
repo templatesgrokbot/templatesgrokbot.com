@@ -3,7 +3,7 @@ name: "Systematic Debugging"
 slug: systematic-debugging
 language: en
 tagline: "Finds root cause of bugs before proposing any fix, no guessing."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","science-and-research"]
 topics: ["coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/systematic-debugging

@@ -1,11 +1,12 @@
 # Cloud & DevOps templates for Government
 
-Infrastructure, deployments, monitoring and incident response. 14 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 15 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Accessibility Auditor](../../it-and-development/cloud-and-devops/accessibility-auditor.md) | Audits websites for WCAG compliance and fixes accessibility issues. |
 | [Cloud Strategy Planner](../../it-and-development/cloud-and-devops/cloud-strategy-planner.md) | Plans and governs your cloud strategy from provider choice to migration, cost, security, and operations. |
 | [Data Backup Strategy Planner](../../it-and-development/cloud-and-devops/data-backup-strategy-planner.md) | Designs, audits, and maintains your organization's data backup strategy end to end. |
 | [Data Integration and Architecture Planner](../../executives-and-strategy/cloud-and-devops/data-integration-and-architecture-planner.md) | Plans and documents data integration, architecture, and governance for a Chief Digital Officer. No execution without approval. |

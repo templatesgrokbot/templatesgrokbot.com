@@ -4,7 +4,7 @@ slug: seaborn
 language: en
 tagline: "Generate publication-quality Seaborn statistical plots from DataFrames with code only."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis"]
+topics: ["data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/seaborn
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

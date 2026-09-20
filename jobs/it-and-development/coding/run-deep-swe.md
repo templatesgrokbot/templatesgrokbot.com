@@ -4,7 +4,7 @@ slug: run-deep-swe
 language: en
 tagline: "Run reproducible DeepSWE coding-agent benchmarks via OpenRouter and mini-swe-agent."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/run-deep-swe
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

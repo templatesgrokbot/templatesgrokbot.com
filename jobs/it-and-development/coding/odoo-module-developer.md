@@ -4,7 +4,7 @@ slug: odoo-module-developer
 language: en
 tagline: "Scaffold and review custom Odoo modules with model inheritance, ORM patterns, and security."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/odoo-module-developer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

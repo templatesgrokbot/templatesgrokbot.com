@@ -4,7 +4,7 @@ slug: manage-skills
 language: en
 tagline: "Manage AI agent capabilities across 11 coding tools from the terminal."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code","prompt-engineering"]
+topics: ["generative-code","prompt-engineering","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/manage-skills
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

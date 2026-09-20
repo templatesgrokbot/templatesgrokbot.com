@@ -4,7 +4,7 @@ slug: spark-optimization
 language: en
 tagline: "Optimize Apache Spark jobs with partitioning, caching, shuffle tuning, and memory management."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops","data-analysis"]
+topics: ["coding","cloud-and-devops","data-analysis","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/spark-optimization
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: model-architecture-nanogpt
 language: en
 tagline: "Trains and samples from a minimalist GPT implementation for learning transformer architecture."
 jobs: ["education","it-and-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","teaching-and-tutoring"]
 category: education
 url: https://templatesgrokbot.com/bot/model-architecture-nanogpt
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/model-architecture-nanogpt

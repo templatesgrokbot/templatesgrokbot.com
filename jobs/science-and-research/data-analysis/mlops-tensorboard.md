@@ -4,7 +4,7 @@ slug: mlops-tensorboard
 language: en
 tagline: "Visualize training metrics, debug models, and compare experiments with TensorBoard."
 jobs: ["science-and-research","it-and-development"]
-topics: ["data-analysis","generative-ai-and-llm"]
+topics: ["data-analysis","generative-ai-and-llm","coding","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/mlops-tensorboard
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/mlops-tensorboard

@@ -4,7 +4,7 @@ slug: persona-workshop-facilitator
 language: en
 tagline: "Derives evidence-based B2B personas from CRM notes, interviews, and research data."
 jobs: ["marketing","product-development","sales"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","marketing-and-growth"]
 category: research
 url: https://templatesgrokbot.com/bot/persona-workshop-facilitator
 adapted_from: https://collectivebrain.de/en/skills/persona-workshop-facilitator/

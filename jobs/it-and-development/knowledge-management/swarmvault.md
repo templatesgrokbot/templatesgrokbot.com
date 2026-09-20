@@ -4,7 +4,7 @@ slug: swarmvault
 language: en
 tagline: "Build and maintain a local-first knowledge vault from books, notes, code, and recurring sources."
 jobs: ["it-and-development","operations"]
-topics: ["knowledge-management"]
+topics: ["knowledge-management","writing-and-content"]
 category: personal
 url: https://templatesgrokbot.com/bot/swarmvault
 adapted_from: https://www.aitmpl.com/component/skills/development/swarmvault

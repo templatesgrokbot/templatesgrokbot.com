@@ -3,8 +3,8 @@ name: "Spark"
 slug: spark
 language: en
 tagline: "Guides new users through a short questionnaire, then automatically creates the bots and connectors they need."
-jobs: ["operations","customer-support"]
-topics: ["productivity","support-and-community"]
+jobs: ["operations","customer-support","human-resources"]
+topics: ["productivity","support-and-community","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/spark
 author: "@vincentzhu"

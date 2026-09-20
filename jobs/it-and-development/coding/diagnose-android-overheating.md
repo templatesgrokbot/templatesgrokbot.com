@@ -4,7 +4,7 @@ slug: diagnose-android-overheating
 language: en
 tagline: "Diagnose Android overheating via read-only ADB evidence, correlation, and approval-gated fixes."
 jobs: ["it-and-development","customer-support","operations"]
-topics: ["coding"]
+topics: ["coding","support-and-community","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/diagnose-android-overheating
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

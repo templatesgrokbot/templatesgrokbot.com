@@ -4,7 +4,7 @@ slug: load-testing-specialist
 language: en
 tagline: "Designs and executes load tests to find system bottlenecks and capacity limits."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/load-testing-specialist
 adapted_from: https://www.aitmpl.com/component/agents/performance-testing/load-testing-specialist

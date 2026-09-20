@@ -4,7 +4,7 @@ slug: prompt-engineering-outlines
 language: en
 tagline: "Guarantee valid JSON, XML, or code structure from local LLMs using Outlines."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm","prompt-engineering"]
+topics: ["generative-ai-and-llm","prompt-engineering","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/prompt-engineering-outlines
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/prompt-engineering-outlines

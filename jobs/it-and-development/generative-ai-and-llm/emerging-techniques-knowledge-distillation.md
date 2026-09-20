@@ -4,7 +4,7 @@ slug: emerging-techniques-knowledge-distillation
 language: en
 tagline: "Compress large language models by distilling knowledge from a teacher to a smaller student model."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","coding","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/emerging-techniques-knowledge-distillation
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/emerging-techniques-knowledge-distillation

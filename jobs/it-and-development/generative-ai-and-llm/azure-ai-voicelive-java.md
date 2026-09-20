@@ -4,7 +4,7 @@ slug: azure-ai-voicelive-java
 language: en
 tagline: "Real-time bidirectional voice conversations with AI assistants via WebSocket."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm","speech-to-text","text-to-speech"]
+topics: ["generative-ai-and-llm","speech-to-text","text-to-speech","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-voicelive-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: color-blocking
 language: en
 tagline: "Build Mondrian-style layouts with bold color blocks and thick grid lines."
 jobs: ["creatives","it-and-development"]
-topics: ["design"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/color-blocking
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

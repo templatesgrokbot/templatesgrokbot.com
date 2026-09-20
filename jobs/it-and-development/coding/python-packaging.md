@@ -4,7 +4,7 @@ slug: python-packaging
 language: en
 tagline: "Generate Python package structures, setup, and PyPI publishing steps."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/python-packaging
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

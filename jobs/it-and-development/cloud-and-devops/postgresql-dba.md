@@ -4,7 +4,7 @@ slug: postgresql-dba
 language: en
 tagline: "Manage PostgreSQL databases: query, modify, backup, and monitor performance."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","data-analysis"]
+topics: ["cloud-and-devops","data-analysis","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/postgresql-dba
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/postgresql-dba

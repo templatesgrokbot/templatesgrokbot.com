@@ -4,7 +4,7 @@ slug: odoo-hr-payroll-setup
 language: en
 tagline: "Configure Odoo salary structures, payslip rules, leave policies, and payroll journal entries."
 jobs: ["human-resources","operations"]
-topics: ["office-tools","productivity"]
+topics: ["office-tools","productivity","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-hr-payroll-setup
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

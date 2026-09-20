@@ -3,7 +3,7 @@ name: "Multi Source Search"
 slug: multi-source-search
 language: en
 tagline: "Cross-validate web research into a confidence-scored evidence ledger with source diversity."
-jobs: ["science-and-research","operations","management"]
+jobs: ["science-and-research","operations","management","legal"]
 topics: ["research"]
 category: research
 url: https://templatesgrokbot.com/bot/multi-source-search

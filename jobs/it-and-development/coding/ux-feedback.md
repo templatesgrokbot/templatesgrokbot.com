@@ -3,8 +3,8 @@ name: "Ux Feedback"
 slug: ux-feedback
 language: en
 tagline: "Add loading, empty, error, and success states to UI components"
-jobs: ["it-and-development"]
-topics: ["coding"]
+jobs: ["it-and-development","creatives"]
+topics: ["coding","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ux-feedback
 adapted_from: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-feedback

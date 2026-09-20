@@ -4,7 +4,7 @@ slug: doc2math
 language: en
 tagline: "Convert narrative technical docs into grounded mathematical problem specifications."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis"]
+topics: ["data-analysis","generative-ai-and-llm","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/doc2math
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

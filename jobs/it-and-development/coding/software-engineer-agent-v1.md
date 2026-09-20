@@ -4,7 +4,7 @@ slug: software-engineer-agent-v1
 language: en
 tagline: "Writes production-ready code autonomously from specifications."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/software-engineer-agent-v1
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/software-engineer-agent-v1

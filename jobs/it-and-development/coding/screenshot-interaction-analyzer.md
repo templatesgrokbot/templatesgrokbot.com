@@ -4,7 +4,7 @@ slug: screenshot-interaction-analyzer
 language: en
 tagline: "Analyzes UI screenshots to map every clickable element, input, and navigation path."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","design"]
+topics: ["coding","design","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/screenshot-interaction-analyzer
 adapted_from: https://www.aitmpl.com/component/agents/ui-analysis/screenshot-interaction-analyzer

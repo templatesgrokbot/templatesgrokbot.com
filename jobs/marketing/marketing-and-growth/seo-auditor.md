@@ -4,7 +4,7 @@ slug: seo-auditor
 language: en
 tagline: "Audits a page against what actually ranks for its target query and lists fixes in priority order."
 jobs: ["marketing","it-and-development"]
-topics: ["marketing-and-growth","data-analysis"]
+topics: ["marketing-and-growth","data-analysis","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-auditor
 ---

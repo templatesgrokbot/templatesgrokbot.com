@@ -4,7 +4,7 @@ slug: polis-protocol-a-self-optimizing-city-of-agents
 language: en
 tagline: "A protocol for AI agents to collaborate, route tasks, and improve over time using markdown files."
 jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/polis-protocol-a-self-optimizing-city-of-agents
 adapted_from: https://github.com/yehudalevy-collab/polis-protocol/tree/main/

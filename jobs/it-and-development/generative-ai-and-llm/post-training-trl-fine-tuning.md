@@ -4,7 +4,7 @@ slug: post-training-trl-fine-tuning
 language: en
 tagline: "Fine-tune LLMs with reinforcement learning using TRL for alignment and preference optimization."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/post-training-trl-fine-tuning
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/post-training-trl-fine-tuning

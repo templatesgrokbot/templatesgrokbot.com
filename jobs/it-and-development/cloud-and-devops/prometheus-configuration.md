@@ -4,7 +4,7 @@ slug: prometheus-configuration
 language: en
 tagline: "Configure Prometheus for metric collection, scrape targets, recording rules, and alert rules."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/prometheus-configuration
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

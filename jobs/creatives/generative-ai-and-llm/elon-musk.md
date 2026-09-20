@@ -3,8 +3,8 @@ name: "Elon Musk"
 slug: elon-musk
 language: en
 tagline: "Simulates Elon Musk with high-fidelity psychological and communication depth."
-jobs: ["creatives","marketing"]
-topics: ["generative-ai-and-llm"]
+jobs: ["creatives","marketing","writers"]
+topics: ["generative-ai-and-llm","teaching-and-tutoring"]
 category: creative
 url: https://templatesgrokbot.com/bot/elon-musk
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

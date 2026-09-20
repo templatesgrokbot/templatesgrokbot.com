@@ -4,7 +4,7 @@ slug: datamol
 language: en
 tagline: "Standardizes, analyzes, and clusters molecular datasets for drug discovery workflows."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/datamol
 adapted_from: https://www.aitmpl.com/component/skills/scientific/datamol

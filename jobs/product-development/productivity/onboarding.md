@@ -4,7 +4,7 @@ slug: onboarding
 language: en
 tagline: "Optimize post-signup onboarding to speed users to their aha moment and boost activation."
 jobs: ["product-development","marketing","management"]
-topics: ["productivity","marketing-and-growth"]
+topics: ["productivity","marketing-and-growth","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/onboarding
 adapted_from: https://github.com/coreyhaines31/marketingskills/tree/main/skills/onboarding

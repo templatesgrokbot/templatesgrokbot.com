@@ -4,7 +4,7 @@ slug: feature-tracking
 language: en
 tagline: "Maintain durable feature-level memory across AI coding sessions with lightweight Markdown tracks."
 jobs: ["it-and-development","product-development"]
-topics: ["knowledge-management","coding"]
+topics: ["knowledge-management","coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/feature-tracking
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

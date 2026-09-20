@@ -4,7 +4,7 @@ slug: threejs-geometry
 language: en
 tagline: "Create and optimize Three.js geometry including built-in shapes, BufferGeometry, and instanced rendering."
 jobs: ["it-and-development","creatives","product-development"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/threejs-geometry
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

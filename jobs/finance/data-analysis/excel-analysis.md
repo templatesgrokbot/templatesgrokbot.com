@@ -3,7 +3,7 @@ name: "Excel Analysis"
 slug: excel-analysis
 language: en
 tagline: "Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis."
-jobs: ["finance","operations","marketing"]
+jobs: ["finance","operations","marketing","science-and-research","government"]
 topics: ["data-analysis","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/excel-analysis

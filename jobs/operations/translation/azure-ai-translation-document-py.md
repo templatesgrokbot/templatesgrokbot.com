@@ -3,7 +3,7 @@ name: "Azure Ai Translation Document Py"
 slug: azure-ai-translation-document-py
 language: en
 tagline: "Batch-translate Word, PDF, Excel, and other documents via Azure AI Document Translation."
-jobs: ["operations"]
+jobs: ["operations","it-and-development"]
 topics: ["translation"]
 category: operations
 url: https://templatesgrokbot.com/bot/azure-ai-translation-document-py

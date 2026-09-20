@@ -3,8 +3,8 @@ name: "Setup Cowork"
 slug: anthropic-setup-cowork
 language: en
 tagline: "Interview the user, install role-matched plugins, connect tools, and run a first template."
-jobs: ["it-and-development","operations"]
-topics: ["productivity"]
+jobs: ["it-and-development","operations","human-resources"]
+topics: ["productivity","generative-ai-and-llm","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/anthropic-setup-cowork
 adapted_from: https://collectivebrain.de/en/skills/anthropic-setup-cowork/

@@ -4,7 +4,7 @@ slug: database-design
 language: en
 tagline: "Designs schemas, selects databases and ORMs, and optimizes queries based on your context."
 jobs: ["it-and-development","product-development"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","coding","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/database-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

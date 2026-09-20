@@ -4,7 +4,7 @@ slug: security-requirement-extraction
 language: en
 tagline: "Translate threat models into actionable security requirements and test cases."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","coding"]
+topics: ["security-and-compliance","coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/security-requirement-extraction
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: recallmax
 language: en
 tagline: "Injects 500K-1M clean tokens and compresses 14-turn history into 800 tokens."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","coding"]
+topics: ["generative-ai-and-llm","coding","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/recallmax
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

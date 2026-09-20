@@ -4,7 +4,7 @@ slug: cross-platform-contract-propagation-audit
 language: en
 tagline: "Audit whether a field, enum, or flag propagates consistently across all services, clients, and tests."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","security-and-compliance"]
+topics: ["coding","security-and-compliance","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cross-platform-contract-propagation-audit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

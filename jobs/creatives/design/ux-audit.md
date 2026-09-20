@@ -4,7 +4,7 @@ slug: ux-audit
 language: en
 tagline: "Audit mobile screens against Nielsen's heuristics and modern UX best practices."
 jobs: ["creatives","product-development","it-and-development"]
-topics: ["design","coding"]
+topics: ["design","coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ux-audit
 adapted_from: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-audit

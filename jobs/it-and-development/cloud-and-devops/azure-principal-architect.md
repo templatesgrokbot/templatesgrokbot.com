@@ -4,7 +4,7 @@ slug: azure-principal-architect
 language: en
 tagline: "Provide Azure architecture guidance using Well-Architected Framework principles and Microsoft best practices."
 jobs: ["it-and-development","executives-and-strategy"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-principal-architect
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/azure-principal-architect

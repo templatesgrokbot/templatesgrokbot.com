@@ -4,7 +4,7 @@ slug: azure-resource-manager-sql-dotnet
 language: en
 tagline: "Provision and manage Azure SQL resources via .NET ARM SDK."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-resource-manager-sql-dotnet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

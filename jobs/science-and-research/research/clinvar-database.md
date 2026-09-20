@@ -4,7 +4,7 @@ slug: clinvar-database
 language: en
 tagline: "Query ClinVar for variant clinical significance and pathogenicity classifications. No hype, no emoji, no 'leverage'/'empower'/'seamless'."
 jobs: ["science-and-research","healthcare"]
-topics: ["research"]
+topics: ["research","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/clinvar-database
 adapted_from: https://www.aitmpl.com/component/skills/scientific/clinvar-database

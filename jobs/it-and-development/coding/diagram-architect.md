@@ -4,7 +4,7 @@ slug: diagram-architect
 language: en
 tagline: "Generate technical diagrams from code analysis or descriptions in multiple formats."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","design"]
+topics: ["coding","design","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/diagram-architect
 adapted_from: https://www.aitmpl.com/component/agents/documentation/diagram-architect

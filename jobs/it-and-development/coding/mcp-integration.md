@@ -4,7 +4,7 @@ slug: mcp-integration
 language: en
 tagline: "Guides plugin developers through configuring MCP servers for external tool integration."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mcp-integration
 adapted_from: https://www.aitmpl.com/component/skills/development/mcp-integration

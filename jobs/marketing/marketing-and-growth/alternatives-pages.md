@@ -3,7 +3,7 @@ name: "Alternatives Pages"
 slug: alternatives-pages
 language: en
 tagline: "Create honest, high-converting competitor comparison pages for developer tools."
-jobs: ["marketing","product-development","sales"]
+jobs: ["marketing","product-development","sales","writers"]
 topics: ["marketing-and-growth","writing-and-content","research"]
 category: marketing
 url: https://templatesgrokbot.com/bot/alternatives-pages

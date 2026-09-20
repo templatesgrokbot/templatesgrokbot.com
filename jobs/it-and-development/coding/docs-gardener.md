@@ -4,7 +4,7 @@ slug: docs-gardener
 language: en
 tagline: "Finds the documentation that stopped being true and rewrites it to match the code."
 jobs: ["it-and-development"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/docs-gardener
 ---

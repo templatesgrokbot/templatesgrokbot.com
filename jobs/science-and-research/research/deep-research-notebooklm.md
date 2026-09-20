@@ -3,8 +3,8 @@ name: "Deep Research Notebooklm"
 slug: deep-research-notebooklm
 language: en
 tagline: "Runs structured multi-source research via NotebookLM and delivers formatted briefs with optional studio artifacts."
-jobs: ["science-and-research","marketing","product-development"]
-topics: ["research","generative-ai-and-llm"]
+jobs: ["science-and-research","marketing","product-development","writers"]
+topics: ["research","generative-ai-and-llm","text-to-speech"]
 category: research
 url: https://templatesgrokbot.com/bot/deep-research-notebooklm
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/deep-research-notebooklm

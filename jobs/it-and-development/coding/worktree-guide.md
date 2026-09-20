@@ -4,7 +4,7 @@ slug: worktree-guide
 language: en
 tagline: "Guides parallel development with Ghostty, git worktrees, and Lazygit."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/worktree-guide
 adapted_from: https://www.aitmpl.com/component/skills/development/worktree-guide

@@ -4,7 +4,7 @@ slug: active-directory-attacks
 language: en
 tagline: "Guide authorized red teams through Active Directory attack techniques step by step."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/active-directory-attacks
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

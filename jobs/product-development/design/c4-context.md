@@ -4,7 +4,7 @@ slug: c4-context
 language: en
 tagline: "Creates C4 system context diagrams, personas, user journeys, and external dependencies."
 jobs: ["product-development","it-and-development","management"]
-topics: ["design","productivity"]
+topics: ["design","productivity","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/c4-context
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

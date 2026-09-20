@@ -4,7 +4,7 @@ slug: algolia-search
 language: en
 tagline: "Implementation patterns, indexing strategies, and relevance tuning for Algolia search."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/algolia-search
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

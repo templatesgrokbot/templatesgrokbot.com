@@ -1,6 +1,6 @@
 # Research templates for Government
 
-Find sources, compare evidence and summarise what is known. 40 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 48 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Find sources, compare evidence and summarise what is known. 40 Grok Bot template
 |---|---|
 | [CIO IT Strategy Advisor](../../executives-and-strategy/research/cio-it-strategy-advisor.md) | Develops and guides your IT strategy from assessment to execution. |
 | [Compliance Docket Analyst](../../legal/research/compliance-docket-analyst.md) | Regulatory filing assistant for compliance analysts: research, draft, validate, track, and submit compliant documents. |
+| [Comprehensive Researcher](../../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Contract Drafting Assistant](../../legal/research/contract-drafting-assistant.md) | Guides contract drafting, review, compliance, and management from template to execution. |
 | [Contract Risk Assessment Assistant](../../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |
 | [Contract Risk Reviewer](../../legal/research/contract-risk-reviewer.md) | Analyzes contracts for risky clauses, extracts key terms, and suggests negotiation points. |
@@ -17,12 +18,15 @@ Find sources, compare evidence and summarise what is known. 40 Grok Bot template
 | [Crossframe Public](crossframe-public.md) | Analyze public issues, platform governance, and institutional compliance with evidence boundaries. |
 | [Crossframe Structural Diagnosis](../../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
 | [Data Strategy Development Assistant](../../executives-and-strategy/research/data-strategy-development-assistant.md) | Builds and refines your organization's data strategy from assessment to execution and improvement. |
+| [Deep Research](../../science-and-research/research/deep-research.md) | Plans, searches, reads, and synthesizes cited research reports on any topic. |
 | [E-Procurement Solutions Exploration Assistant](../../operations/research/e-procurement-solutions-exploration-assistant.md) | Researches and evaluates e-procurement solutions to support your selection decisions. |
 | [Educational Policy Evaluation Assistant](educational-policy-evaluation-assistant.md) | Educational policy evaluation assistant for policymakers, turning data into evidence-based recommendations. |
 | [Energy Policy Analysis Assistant](../../science-and-research/research/energy-policy-analysis-assistant.md) | Energy policy analysis, from data to recommendations, for energy engineers. |
 | [Environmental Policy Analyst](../../science-and-research/research/environmental-policy-analyst.md) | Environmental policy analysis and stakeholder engagement for sustainability analysts. |
+| [Fact Checker](../../writers/research/fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
 | [Fda Database](../../science-and-research/research/fda-database.md) | Query openFDA for drug, device, adverse event, recall, and regulatory data. |
 | [Health Policy Analysis Assistant](health-policy-analysis-assistant.md) | Turns health policy research, data, and stakeholder input into evidence-based recommendations and communications. |
+| [Ii Commons](../../science-and-research/research/ii-commons.md) | Deterministic search across arXiv, PubMed/PMC, and US policy corpora with daily freshness cutoffs. |
 | [Infection Control Strategist](../../science-and-research/research/infection-control-strategist.md) | Infection control research, policy, training, and outbreak response support for microbiologists. |
 | [Insight Survey Architect](../../science-and-research/research/insight-survey-architect.md) | Designs, deploys, and analyzes surveys, turning responses into actionable insights. |
 | [International Policy Comparison Assistant](international-policy-comparison-assistant.md) | Compares international policies across sectors, benchmarks best practices, and drafts recommendations for policymakers. |
@@ -32,9 +36,13 @@ Find sources, compare evidence and summarise what is known. 40 Grok Bot template
 | [Regulatory Communication Assistant](../../legal/research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
 | [Regulatory Research Assistant](../../legal/research/regulatory-research-assistant.md) | Tracks, interprets, and applies regulatory changes for compliance officers. |
 | [Regulatory Update Analyst](../../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
+| [Report Generator](../../science-and-research/research/report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |
+| [Research Analyst](../../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
 | [Research and Reporting Assistant](../../finance/research/research-and-reporting-assistant.md) | Gathers, analyzes, and reports research data for administrative finance support. |
 | [Rumor and Misinformation Manager](../../pr-and-communications/research/rumor-and-misinformation-manager.md) | Tracks, debunks, and counters rumors and misinformation for crisis communications teams. |
 | [Scenario Architect for Strategy Directors](../../executives-and-strategy/research/scenario-architect-for-strategy-directors.md) | Turns foresight into strategy: builds, tests, and communicates future scenarios for Directors of Strategy. |
+| [Screen Adverse Media](../../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
+| [Search Specialist](../../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
 | [Social Welfare Evaluation Planner](social-welfare-evaluation-planner.md) | Evaluates social welfare programs to guide policy decisions with evidence. |
 | [Software Selection Guide](../../it-and-development/research/software-selection-guide.md) | Guides IT project managers through software selection, from requirements to post-implementation review. |
 | [Supplier Evaluation and Management Assistant](../../operations/research/supplier-evaluation-and-management-assistant.md) | Evaluates and manages suppliers from identification through performance monitoring and improvement. |

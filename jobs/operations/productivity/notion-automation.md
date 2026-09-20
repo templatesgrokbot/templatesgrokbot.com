@@ -3,8 +3,8 @@ name: "Notion Automation"
 slug: notion-automation
 language: en
 tagline: "Automate Notion pages, databases, blocks, comments, and users via Rube MCP."
-jobs: ["operations"]
-topics: ["productivity"]
+jobs: ["operations","it-and-development"]
+topics: ["productivity","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/notion-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

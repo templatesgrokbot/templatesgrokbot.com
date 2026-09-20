@@ -4,7 +4,7 @@ slug: microservices-patterns
 language: en
 tagline: "Guide microservices decomposition, communication, data management, and resilience patterns. No code or deployment."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/microservices-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

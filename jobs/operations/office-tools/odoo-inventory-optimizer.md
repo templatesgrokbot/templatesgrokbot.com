@@ -4,7 +4,7 @@ slug: odoo-inventory-optimizer
 language: en
 tagline: "Configure Odoo Inventory for accurate stock valuation, reordering, and multi-warehouse flows."
 jobs: ["operations"]
-topics: ["office-tools","data-analysis"]
+topics: ["office-tools","data-analysis","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-inventory-optimizer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

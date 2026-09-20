@@ -4,7 +4,7 @@ slug: cqrs-implementation
 language: en
 tagline: "Implement CQRS to separate read and write models for scalable architectures."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cqrs-implementation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

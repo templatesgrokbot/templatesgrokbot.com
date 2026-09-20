@@ -4,7 +4,7 @@ slug: sred-project-organizer
 language: en
 tagline: "Organize prior-year work summaries into SRED-formatted project documents in Notion."
 jobs: ["operations","finance","management"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/sred-project-organizer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

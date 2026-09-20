@@ -4,7 +4,7 @@ slug: wp-site-health-auditor
 language: en
 tagline: "Turns WordPress Site Health reports into risk-tiered, backup-first fix plans with exact WP-CLI/PHP snippets."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","cloud-and-devops","coding","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/wp-site-health-auditor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

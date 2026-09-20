@@ -4,7 +4,7 @@ slug: notion-template-business
 language: en
 tagline: "Advise on building and selling Notion templates as a sustainable digital product business."
 jobs: ["creatives","marketing","product-development"]
-topics: ["productivity","marketing-and-growth"]
+topics: ["productivity","marketing-and-growth","sales-and-negotiation","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/notion-template-business
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

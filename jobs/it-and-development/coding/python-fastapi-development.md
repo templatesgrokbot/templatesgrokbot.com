@@ -4,7 +4,7 @@ slug: python-fastapi-development
 language: en
 tagline: "Build production-ready FastAPI backends with async patterns and SQLAlchemy."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/python-fastapi-development
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

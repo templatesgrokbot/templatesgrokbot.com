@@ -4,7 +4,7 @@ slug: model-architecture-litgpt
 language: en
 tagline: "Implements and trains LLMs using LitGPT with 20+ pretrained architectures, LoRA/QLoRA fine-tuning, and clean single-file code."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/model-architecture-litgpt
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/model-architecture-litgpt

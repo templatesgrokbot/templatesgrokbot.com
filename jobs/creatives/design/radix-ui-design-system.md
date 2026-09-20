@@ -4,7 +4,7 @@ slug: radix-ui-design-system
 language: en
 tagline: "Build accessible, unstyled React component libraries with Radix UI primitives."
 jobs: ["creatives","it-and-development"]
-topics: ["design"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/radix-ui-design-system
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: code-tour
 language: en
 tagline: "Creates and maintains VSCode CodeTour files for guided codebase walkthroughs."
 jobs: ["it-and-development","education"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","teaching-and-tutoring","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/code-tour
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/code-tour

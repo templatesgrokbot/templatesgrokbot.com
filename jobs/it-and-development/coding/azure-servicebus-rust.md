@@ -4,7 +4,7 @@ slug: azure-servicebus-rust
 language: en
 tagline: "Send and receive Azure Service Bus messages from Rust using queues, topics, and subscriptions."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-servicebus-rust
 adapted_from: https://github.com/microsoft/skills/tree/main/.github/plugins/azure-sdk-rust/skills/azure-servicebus-rust

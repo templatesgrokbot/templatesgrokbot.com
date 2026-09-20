@@ -4,7 +4,7 @@ slug: behavioral-modes
 language: en
 tagline: "Switches between brainstorm, implement, debug, review, teach, and ship modes based on task."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","prompt-engineering"]
+topics: ["coding","prompt-engineering","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/behavioral-modes
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

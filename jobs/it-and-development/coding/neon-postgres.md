@@ -4,7 +4,7 @@ slug: neon-postgres
 language: en
 tagline: "Neon serverless Postgres patterns: branching, pooling, Prisma/Drizzle, and CLI setup."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops","data-analysis"]
+topics: ["coding","cloud-and-devops","data-analysis","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/neon-postgres
 adapted_from: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres

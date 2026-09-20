@@ -4,7 +4,7 @@ slug: document-structure-analyzer
 language: en
 tagline: "Analyzes document layouts and maps content hierarchy before OCR processing."
 jobs: ["it-and-development","operations"]
-topics: ["speech-to-text","generative-ai-and-llm"]
+topics: ["speech-to-text","generative-ai-and-llm","data-analysis","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/document-structure-analyzer
 adapted_from: https://www.aitmpl.com/component/agents/ocr-extraction-team/document-structure-analyzer

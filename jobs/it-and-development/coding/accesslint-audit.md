@@ -3,8 +3,8 @@ name: "Accesslint Audit"
 slug: accesslint-audit
 language: en
 tagline: "Audit and fix WCAG 2.2 accessibility issues in code or live pages."
-jobs: ["it-and-development"]
-topics: ["coding"]
+jobs: ["it-and-development","government"]
+topics: ["coding","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/accesslint-audit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

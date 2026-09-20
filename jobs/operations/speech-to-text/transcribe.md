@@ -3,7 +3,7 @@ name: "Transcribe"
 slug: transcribe
 language: en
 tagline: "Transcribes audio files to text with optional speaker labels."
-jobs: ["operations","it-and-development"]
+jobs: ["operations","it-and-development","writers","healthcare","science-and-research"]
 topics: ["speech-to-text"]
 category: operations
 url: https://templatesgrokbot.com/bot/transcribe

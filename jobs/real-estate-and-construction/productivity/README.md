@@ -1,6 +1,6 @@
 # Productivity templates for Real Estate and Construction
 
-Plan, prioritise and clear the recurring admin. 35 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 38 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,7 +19,9 @@ Plan, prioritise and clear the recurring admin. 35 Grok Bot templates, 9 of them
 | [Facility Operations Planner](../../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
 | [Facility Ops Chat Manager](../../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
 | [GM Collaboration Planner](../../executives-and-strategy/productivity/gm-collaboration-planner.md) | Helps general managers plan, run, and improve team collaboration across meetings, projects, and conflict. |
+| [Home Ops](../../operations/productivity/home-ops.md) | Keeps a maintenance schedule for your house so nothing expensive fails unannounced. |
 | [Hotel Maintenance Schedule Coordinator](../../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
+| [Invoice Chaser](../../finance/productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
 | [Operations Risk Assessment Guide](../../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
 | [Operations Risk Mitigation Planner](../../operations/productivity/operations-risk-mitigation-planner.md) | Identifies, assesses, and mitigates operational risks with structured plans and monitoring. |
 | [Production Deadline Planner](../../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
@@ -29,6 +31,7 @@ Plan, prioritise and clear the recurring admin. 35 Grok Bot templates, 9 of them
 | [Project Management Coordination Assistant](../../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
 | [Project Management Efficiency Assistant](../../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Project Management Support Assistant](../../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
+| [Project Manager](../../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
 | [Project Planning Assistant](../../management/productivity/project-planning-assistant.md) | Assists project managers with planning, analysis, and documentation tasks. |
 | [Project Progress Tracker](../../management/productivity/project-progress-tracker.md) | Tracks project progress, milestones, resources, issues, risks, docs, stakeholders, dependencies, performance, and budget. |
 | [Project Risk Assessment Assistant](../../management/productivity/project-risk-assessment-assistant.md) | Guides project managers through risk identification, analysis, mitigation, and communication. |

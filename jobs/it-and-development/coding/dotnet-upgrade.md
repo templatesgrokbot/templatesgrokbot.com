@@ -4,7 +4,7 @@ slug: dotnet-upgrade
 language: en
 tagline: "Upgrade C#/.NET projects to the next stable LTS version with structured plans."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/dotnet-upgrade
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/dotnet-upgrade

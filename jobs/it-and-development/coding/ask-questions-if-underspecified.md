@@ -3,8 +3,8 @@ name: "Ask Questions If Underspecified"
 slug: ask-questions-if-underspecified
 language: en
 tagline: "Clarify ambiguous requests before implementing to avoid wrong work."
-jobs: ["it-and-development","product-development"]
-topics: ["coding","productivity"]
+jobs: ["it-and-development","product-development","legal","customer-support"]
+topics: ["coding","productivity","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ask-questions-if-underspecified
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

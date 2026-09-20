@@ -4,7 +4,7 @@ slug: i18n-localization
 language: en
 tagline: "Audits codebases for hardcoded strings and missing translations, manages locale files."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","research"]
+topics: ["coding","research","translation"]
 category: engineering
 url: https://templatesgrokbot.com/bot/i18n-localization
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

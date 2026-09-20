@@ -4,7 +4,7 @@ slug: analyze-project
 language: en
 tagline: "Forensic root cause analysis for AI-assisted coding sessions."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/analyze-project
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

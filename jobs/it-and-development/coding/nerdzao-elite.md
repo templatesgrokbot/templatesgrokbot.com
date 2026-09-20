@@ -4,7 +4,7 @@ slug: nerdzao-elite
 language: en
 tagline: "Senior full-stack engineer and product designer delivering production-grade code with pixel-perfect UX."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","design"]
+topics: ["coding","design","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/nerdzao-elite
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

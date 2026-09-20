@@ -4,7 +4,7 @@ slug: zarr-python
 language: en
 tagline: "Store and access large N-dimensional arrays with chunking, compression, and cloud storage backends."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/zarr-python
 adapted_from: https://www.aitmpl.com/component/skills/scientific/zarr-python

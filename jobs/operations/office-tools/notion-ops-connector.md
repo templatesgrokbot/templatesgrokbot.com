@@ -3,8 +3,8 @@ name: "Notion Ops Connector"
 slug: notion-ops-connector
 language: en
 tagline: "Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl."
-jobs: ["operations","management","product-development"]
-topics: ["office-tools","knowledge-management"]
+jobs: ["operations","management","product-development","marketing","writers"]
+topics: ["office-tools","knowledge-management","productivity","marketing-and-growth"]
 category: operations
 url: https://templatesgrokbot.com/bot/notion-ops-connector
 adapted_from: https://collectivebrain.de/en/skills/notion-ops-connector/

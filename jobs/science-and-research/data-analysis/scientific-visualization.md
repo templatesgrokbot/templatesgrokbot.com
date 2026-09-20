@@ -4,7 +4,7 @@ slug: scientific-visualization
 language: en
 tagline: "Create publication-ready scientific figures from data."
 jobs: ["science-and-research","creatives"]
-topics: ["data-analysis","generative-art"]
+topics: ["data-analysis","generative-art","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/scientific-visualization
 adapted_from: https://www.aitmpl.com/component/skills/scientific/scientific-visualization

@@ -4,7 +4,7 @@ slug: java-mcp-expert
 language: en
 tagline: "Helps you build production-ready MCP servers in Java with reactive streams and Spring Boot."
 jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","teaching-and-tutoring","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/java-mcp-expert
 adapted_from: https://www.aitmpl.com/component/agents/web-tools/java-mcp-expert

@@ -4,7 +4,7 @@ slug: csharpexpert
 language: en
 tagline: "Generates clean, secure, and performant C# code for .NET projects following best practices."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/csharpexpert
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/CSharpExpert

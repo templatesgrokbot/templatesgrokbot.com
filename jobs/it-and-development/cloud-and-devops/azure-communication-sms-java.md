@@ -4,7 +4,7 @@ slug: azure-communication-sms-java
 language: en
 tagline: "Send SMS via Azure Communication Services with delivery reports and error handling."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/azure-communication-sms-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

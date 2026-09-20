@@ -3,7 +3,7 @@ name: "Planning"
 slug: planning
 language: en
 tagline: "Creates and maintains markdown planning files to track complex multi-step tasks. No context loss, no goal drift. Always reads before deciding, updates"
-jobs: ["management","operations"]
+jobs: ["management","operations","product-development"]
 topics: ["productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/planning

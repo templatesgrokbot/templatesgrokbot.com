@@ -4,7 +4,7 @@ slug: create-branch
 language: en
 tagline: "Create a git branch following Sentry naming conventions."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/create-branch
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

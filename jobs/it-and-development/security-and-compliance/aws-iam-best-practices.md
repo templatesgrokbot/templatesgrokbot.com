@@ -3,7 +3,7 @@ name: "Aws Iam Best Practices"
 slug: aws-iam-best-practices
 language: en
 tagline: "Audit and harden AWS IAM policies to enforce least privilege and security best practices."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","government"]
 topics: ["security-and-compliance","cloud-and-devops"]
 category: operations
 url: https://templatesgrokbot.com/bot/aws-iam-best-practices

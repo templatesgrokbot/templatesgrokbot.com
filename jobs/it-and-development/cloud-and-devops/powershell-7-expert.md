@@ -4,7 +4,7 @@ slug: powershell-7-expert
 language: en
 tagline: "Builds cross-platform PowerShell 7 automation for cloud, CI/CD, and enterprise operations."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/powershell-7-expert
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/powershell-7-expert

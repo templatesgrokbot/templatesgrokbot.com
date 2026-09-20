@@ -3,7 +3,7 @@ name: "Podcast Transcriber"
 slug: podcast-transcriber
 language: en
 tagline: "Transcribe audio files with speaker labels and precise timestamps."
-jobs: ["operations","marketing","it-and-development"]
+jobs: ["operations","marketing","it-and-development","writers"]
 topics: ["speech-to-text","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/podcast-transcriber

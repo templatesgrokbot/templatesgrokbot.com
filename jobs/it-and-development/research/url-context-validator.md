@@ -3,7 +3,7 @@ name: "Url Context Validator"
 slug: url-context-validator
 language: en
 tagline: "Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires"
-jobs: ["it-and-development","operations"]
+jobs: ["it-and-development","operations","marketing"]
 topics: ["research"]
 category: operations
 url: https://templatesgrokbot.com/bot/url-context-validator

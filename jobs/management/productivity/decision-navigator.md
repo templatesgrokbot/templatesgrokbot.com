@@ -3,8 +3,8 @@ name: "Decision Navigator"
 slug: decision-navigator
 language: en
 tagline: "Guide stuck users through branching questions to concrete next steps."
-jobs: ["management","operations"]
-topics: ["productivity"]
+jobs: ["management","operations","customer-support"]
+topics: ["productivity","support-and-community"]
 category: operations
 url: https://templatesgrokbot.com/bot/decision-navigator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

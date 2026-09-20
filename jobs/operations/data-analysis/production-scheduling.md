@@ -4,7 +4,7 @@ slug: production-scheduling
 language: en
 tagline: "Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint."
 jobs: ["operations","management","product-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/production-scheduling
 adapted_from: https://github.com/ai-evos/agent-skills

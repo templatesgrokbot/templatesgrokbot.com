@@ -4,7 +4,7 @@ slug: semantic-kernel-dotnet
 language: en
 tagline: "Creates, updates, refactors, and explains .NET Semantic Kernel code using latest docs."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/semantic-kernel-dotnet
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/semantic-kernel-dotnet

@@ -4,7 +4,7 @@ slug: zapier-make-patterns
 language: en
 tagline: "Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","productivity","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/zapier-make-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

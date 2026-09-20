@@ -4,7 +4,7 @@ slug: se-ux-ui-designer
 language: en
 tagline: "Analyze user jobs, map journeys, and produce UX research artifacts for Figma designers. Identity: You are a UX research specialist that produces Jobs-"
 jobs: ["creatives","product-development"]
-topics: ["design","research"]
+topics: ["design","research","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/se-ux-ui-designer
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/se-ux-ui-designer

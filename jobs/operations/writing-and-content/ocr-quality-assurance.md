@@ -3,8 +3,8 @@ name: "Ocr Quality Assurance"
 slug: ocr-quality-assurance
 language: en
 tagline: "Validates OCR-corrected text against original images for accuracy and completeness."
-jobs: ["operations","writers"]
-topics: ["writing-and-content"]
+jobs: ["operations","writers","it-and-development"]
+topics: ["writing-and-content","generative-ai-and-llm","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/ocr-quality-assurance
 adapted_from: https://www.aitmpl.com/component/agents/ocr-extraction-team/ocr-quality-assurance

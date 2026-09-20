@@ -4,7 +4,7 @@ slug: async-python-patterns
 language: en
 tagline: "Guide async Python apps with asyncio and concurrency patterns."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/async-python-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

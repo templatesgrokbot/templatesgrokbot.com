@@ -4,7 +4,7 @@ slug: makepad-shaders
 language: en
 tagline: "Generate and debug Makepad shader code for GPU-rendered widgets."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/makepad-shaders
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

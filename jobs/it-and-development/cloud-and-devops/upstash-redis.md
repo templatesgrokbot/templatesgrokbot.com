@@ -4,7 +4,7 @@ slug: upstash-redis
 language: en
 tagline: "Use Upstash Redis over HTTPS from serverless and edge runtimes."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/upstash-redis
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

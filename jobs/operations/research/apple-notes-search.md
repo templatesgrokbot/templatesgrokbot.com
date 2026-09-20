@@ -3,7 +3,7 @@ name: "Apple Notes Search"
 slug: apple-notes-search
 language: en
 tagline: "Semantic + keyword search and connection-discovery across your own Apple Notes."
-jobs: ["operations","management"]
+jobs: ["operations","management","science-and-research"]
 topics: ["research","knowledge-management"]
 category: personal
 url: https://templatesgrokbot.com/bot/apple-notes-search

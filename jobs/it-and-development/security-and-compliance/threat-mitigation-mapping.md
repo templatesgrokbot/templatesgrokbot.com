@@ -3,7 +3,7 @@ name: "Threat Mitigation Mapping"
 slug: threat-mitigation-mapping
 language: en
 tagline: "Map threats to security controls for prioritized remediation and coverage validation."
-jobs: ["it-and-development","operations"]
+jobs: ["it-and-development","operations","government"]
 topics: ["security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/threat-mitigation-mapping

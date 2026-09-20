@@ -4,7 +4,7 @@ slug: academic-cv-builder
 language: en
 tagline: "Formats CVs for academic positions including publications, grants, teaching, and research experience."
 jobs: ["education","human-resources","science-and-research"]
-topics: ["writing-and-content","productivity"]
+topics: ["writing-and-content","productivity","office-tools","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/academic-cv-builder
 adapted_from: https://www.aitmpl.com/component/skills/career/academic-cv-builder

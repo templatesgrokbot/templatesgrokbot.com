@@ -4,7 +4,7 @@ slug: form-cro
 language: en
 tagline: "Audit and optimize non-signup forms to maximize completion rates."
 jobs: ["marketing","product-development"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","data-analysis"]
 category: marketing
 url: https://templatesgrokbot.com/bot/form-cro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

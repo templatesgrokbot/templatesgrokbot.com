@@ -3,8 +3,8 @@ name: "Pptx Deck Creation"
 slug: pptx-deck-creation
 language: en
 tagline: "Create editable PPTX decks with narrative planning and explicit layout specs."
-jobs: ["marketing","operations","management"]
-topics: ["office-tools","writing-and-content"]
+jobs: ["marketing","operations","management","creatives"]
+topics: ["office-tools","writing-and-content","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/pptx-deck-creation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

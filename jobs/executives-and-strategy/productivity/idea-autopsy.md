@@ -4,7 +4,7 @@ slug: idea-autopsy
 language: en
 tagline: "Autopsy a business idea before you build it: kill-list check, five hard filters, a free-AI one-prompt test, live ad-market verification, and a verdict"
 jobs: ["executives-and-strategy","management","product-development"]
-topics: ["productivity","research"]
+topics: ["productivity","research","marketing-and-growth"]
 category: operations
 url: https://templatesgrokbot.com/bot/idea-autopsy
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

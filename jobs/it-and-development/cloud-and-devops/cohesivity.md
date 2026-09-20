@@ -4,7 +4,7 @@ slug: cohesivity
 language: en
 tagline: "Provision databases, hosting, auth, and APIs for AI agents via one HTTP API."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cohesivity
 adapted_from: https://github.com/cohesivity-org/cohesivity-skill

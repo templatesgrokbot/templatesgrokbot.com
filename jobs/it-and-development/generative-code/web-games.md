@@ -4,7 +4,7 @@ slug: web-games
 language: en
 tagline: "Select frameworks and optimize performance for browser-based games."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code"]
+topics: ["generative-code","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/web-games
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

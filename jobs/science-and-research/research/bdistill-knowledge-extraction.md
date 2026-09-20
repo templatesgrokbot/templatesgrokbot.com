@@ -4,7 +4,7 @@ slug: bdistill-knowledge-extraction
 language: en
 tagline: "Extract structured, quality-scored domain knowledge from AI models without API keys. No training data generation."
 jobs: ["science-and-research","it-and-development"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","knowledge-management"]
 category: research
 url: https://templatesgrokbot.com/bot/bdistill-knowledge-extraction
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

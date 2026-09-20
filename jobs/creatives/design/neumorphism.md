@@ -3,8 +3,8 @@ name: "Neumorphism"
 slug: neumorphism
 language: en
 tagline: "Generate Neumorphism UI code with dual shadows and extruded appearance."
-jobs: ["creatives","product-development"]
-topics: ["design","generative-code"]
+jobs: ["creatives","product-development","it-and-development"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/neumorphism
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

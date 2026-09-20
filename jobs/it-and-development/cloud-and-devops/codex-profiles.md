@@ -4,7 +4,7 @@ slug: codex-profiles
 language: en
 tagline: "Manage isolated Codex CLI and Desktop profiles for separate accounts and projects."
 jobs: ["it-and-development","product-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/codex-profiles
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: distributed-training-megatron-core
 language: en
 tagline: "Trains large language models from 2B to 462B parameters using NVIDIA Megatron-Core with advanced parallelism strategies."
 jobs: ["science-and-research","it-and-development"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/distributed-training-megatron-core
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/distributed-training-megatron-core

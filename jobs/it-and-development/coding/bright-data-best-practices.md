@@ -4,7 +4,7 @@ slug: bright-data-best-practices
 language: en
 tagline: "Reference for developers building Bright Data integrations with best practices."
 jobs: ["it-and-development"]
-topics: ["coding","research"]
+topics: ["coding","research","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bright-data-best-practices
 adapted_from: https://www.aitmpl.com/component/skills/web-data/bright-data-best-practices

@@ -3,7 +3,7 @@ name: "Write SEO Articles"
 slug: seo-artikel-schreiben
 language: en
 tagline: "Writes SEO articles that rank by analyzing live SERPs and matching search intent."
-jobs: ["marketing","writers"]
+jobs: ["marketing","writers","creatives"]
 topics: ["marketing-and-growth","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-artikel-schreiben

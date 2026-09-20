@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Product Development
 
-Infrastructure, deployments, monitoring and incident response. 48 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 51 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -29,6 +29,7 @@ Infrastructure, deployments, monitoring and incident response. 48 Grok Bot templ
 | [Codex Profiles](../../it-and-development/cloud-and-devops/codex-profiles.md) | Manage isolated Codex CLI and Desktop profiles for separate accounts and projects. |
 | [Cohesivity](../../it-and-development/cloud-and-devops/cohesivity.md) | Provision databases, hosting, auth, and APIs for AI agents via one HTTP API. |
 | [Conductor Setup](../../it-and-development/cloud-and-devops/conductor-setup.md) | Configure Rails projects for Conductor parallel coding agents with isolated ports and Redis. |
+| [Deployment Procedures](../../it-and-development/cloud-and-devops/deployment-procedures.md) | Guides safe production deployments with rollback planning and verification. |
 | [Deprecation And Migration](../../it-and-development/cloud-and-devops/deprecation-and-migration.md) | Remove old systems and migrate users safely to new implementations. |
 | [Error Debugging Error Analysis](../../it-and-development/cloud-and-devops/error-debugging-error-analysis.md) | Analyze production incidents and debug distributed systems with systematic root-cause analysis. |
 | [Expo Dev Client](../../it-and-development/cloud-and-devops/expo-dev-client.md) | Build Expo development clients for testing native code on devices. |
@@ -46,8 +47,10 @@ Infrastructure, deployments, monitoring and incident response. 48 Grok Bot templ
 | [Openapi Spec Generation](../../it-and-development/cloud-and-devops/openapi-spec-generation.md) | Generate and maintain OpenAPI 3.1 specs from code or design-first. |
 | [Platform Engineer](../../it-and-development/cloud-and-devops/platform-engineer.md) | Designs and builds internal developer platforms to reduce friction and accelerate delivery. |
 | [Postgresql](../../it-and-development/cloud-and-devops/postgresql.md) | Designs PostgreSQL schemas with data types, indexes, constraints, and partitioning. |
+| [Postmortem Writing](../../it-and-development/cloud-and-devops/postmortem-writing.md) | Guide blameless postmortems from incident data to action items. |
 | [Power Platform Expert](../../it-and-development/cloud-and-devops/power-platform-expert.md) | Provides expert guidance on Power Platform development, architecture, and best practices. |
 | [Pre Release Review](../../it-and-development/cloud-and-devops/pre-release-review.md) | Read-only pre-release review for deploy readiness, migrations, config, secrets, rollout order, rollback risk, and launch blockers. |
+| [Release Captain](../../it-and-development/cloud-and-devops/release-captain.md) | Runs the release checklist and refuses to skip the step everyone always skips. |
 | [Saga Orchestration](../../it-and-development/cloud-and-devops/saga-orchestration.md) | Coordinate distributed transactions and long-running business processes with compensating actions. |
 | [Supabase Schema Architect](../../it-and-development/cloud-and-devops/supabase-schema-architect.md) | Designs Supabase schemas, migrations, and RLS policies for production-ready databases. |
 | [Terraform Module Library](../../it-and-development/cloud-and-devops/terraform-module-library.md) | Build reusable Terraform modules for AWS, Azure, and GCP with standardized patterns and tests. |

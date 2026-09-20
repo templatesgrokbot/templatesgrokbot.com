@@ -3,8 +3,8 @@ name: "Muapi Media"
 slug: muapi-media
 language: en
 tagline: "Generate images and videos via MuAPI's async API with key protection, polling, and safe downloads."
-jobs: ["creatives","marketing"]
-topics: ["generative-art","generative-video"]
+jobs: ["creatives","marketing","it-and-development"]
+topics: ["generative-art","generative-video","generative-ai-and-llm","text-to-video"]
 category: operations
 url: https://templatesgrokbot.com/bot/muapi-media
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: visual-analysis-ocr
 language: en
 tagline: "Extracts text from images into markdown preserving structure and formatting."
 jobs: ["it-and-development","operations"]
-topics: ["speech-to-text","generative-ai-and-llm"]
+topics: ["speech-to-text","generative-ai-and-llm","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/visual-analysis-ocr
 adapted_from: https://www.aitmpl.com/component/agents/ocr-extraction-team/visual-analysis-ocr

@@ -4,7 +4,7 @@ slug: dotnet-backend
 language: en
 tagline: "Build ASP.NET Core 8+ backends with EF Core, auth, and background jobs."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/dotnet-backend
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

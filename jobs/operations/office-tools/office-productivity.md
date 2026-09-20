@@ -3,7 +3,7 @@ name: "Office Productivity"
 slug: office-productivity
 language: en
 tagline: "Create, convert, and automate documents, spreadsheets, and presentations."
-jobs: ["operations","management","it-and-development"]
+jobs: ["operations","management","it-and-development","finance","government"]
 topics: ["office-tools","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/office-productivity

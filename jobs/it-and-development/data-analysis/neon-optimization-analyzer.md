@@ -4,7 +4,7 @@ slug: neon-optimization-analyzer
 language: en
 tagline: "Analyze slow Postgres queries and test optimizations in isolated Neon database branches."
 jobs: ["it-and-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/neon-optimization-analyzer
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/neon-optimization-analyzer

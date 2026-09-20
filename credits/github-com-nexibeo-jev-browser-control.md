@@ -4,6 +4,6 @@
 
 | Template | Original | License |
 |---|---|---|
-| [Jev Browser Operator](../jobs/management/productivity/jev-browser-operator.md) | [original](https://github.com/nexibeo/jev-browser-control) | [MIT](../LICENSES/MIT.md) |
+| [Jev Browser Operator](../jobs/operations/productivity/jev-browser-operator.md) | [original](https://github.com/nexibeo/jev-browser-control) | [MIT](../LICENSES/MIT.md) |
 
 [← All credits](../CREDITS.md)

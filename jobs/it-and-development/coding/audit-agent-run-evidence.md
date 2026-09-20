@@ -4,7 +4,7 @@ slug: audit-agent-run-evidence
 language: en
 tagline: "Judge whether agent-run traces really support a claimed success without re-executing anything."
 jobs: ["it-and-development","management"]
-topics: ["coding","security-and-compliance"]
+topics: ["coding","security-and-compliance","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/audit-agent-run-evidence
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

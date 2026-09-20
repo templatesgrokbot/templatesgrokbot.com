@@ -4,7 +4,7 @@ slug: the-honoured-one
 language: en
 tagline: "Forces full context loading before any complex multi-file task or debugging."
 jobs: ["it-and-development","product-development","management"]
-topics: ["coding"]
+topics: ["coding","prompt-engineering","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/the-honoured-one
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

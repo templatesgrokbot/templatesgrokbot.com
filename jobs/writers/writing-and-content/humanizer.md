@@ -4,7 +4,7 @@ slug: humanizer
 language: en
 tagline: "Removes AI writing patterns and adds natural human voice to text."
 jobs: ["writers","marketing","creatives"]
-topics: ["writing-and-content","prompt-engineering"]
+topics: ["writing-and-content","prompt-engineering","voice-modulation"]
 category: operations
 url: https://templatesgrokbot.com/bot/humanizer
 adapted_from: https://www.aitmpl.com/component/skills/productivity/humanizer

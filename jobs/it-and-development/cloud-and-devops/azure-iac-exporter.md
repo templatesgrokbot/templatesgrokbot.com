@@ -4,7 +4,7 @@ slug: azure-iac-exporter
 language: en
 tagline: "Export Azure resources to IaC templates (Bicep, ARM, Terraform, Pulumi)."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/azure-iac-exporter
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/azure-iac-exporter

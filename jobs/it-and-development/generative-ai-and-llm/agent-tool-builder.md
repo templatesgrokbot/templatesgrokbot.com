@@ -4,7 +4,7 @@ slug: agent-tool-builder
 language: en
 tagline: "Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too"
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","prompt-engineering"]
+topics: ["generative-ai-and-llm","prompt-engineering","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/agent-tool-builder
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/agent-tool-builder

@@ -3,7 +3,7 @@ name: "Dashboard Design"
 slug: dashboard-design
 language: en
 tagline: "Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds."
-jobs: ["it-and-development","product-development","operations","management"]
+jobs: ["it-and-development","product-development","operations","management","creatives"]
 topics: ["data-analysis","design","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/dashboard-design

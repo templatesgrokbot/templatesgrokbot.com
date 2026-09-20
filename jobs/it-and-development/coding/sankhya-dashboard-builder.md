@@ -4,7 +4,7 @@ slug: sankhya-dashboard-builder
 language: en
 tagline: "Guide to patterns and best practices for Sankhya dashboards with JSP, Java, and SQL."
 jobs: ["it-and-development"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/sankhya-dashboard-builder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

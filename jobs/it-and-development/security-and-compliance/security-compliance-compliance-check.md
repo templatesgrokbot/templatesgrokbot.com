@@ -3,7 +3,7 @@ name: "Security Compliance Compliance Check"
 slug: security-compliance-compliance-check
 language: en
 tagline: "Audits software systems against GDPR, HIPAA, SOC2, PCI-DSS and guides remediation."
-jobs: ["it-and-development","operations","legal"]
+jobs: ["it-and-development","operations","legal","government"]
 topics: ["security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/security-compliance-compliance-check

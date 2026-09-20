@@ -4,7 +4,7 @@ slug: filesystem-context
 language: en
 tagline: "Manage context via filesystem: offload, retrieve, and persist agent state on demand."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","generative-ai-and-llm","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/filesystem-context
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

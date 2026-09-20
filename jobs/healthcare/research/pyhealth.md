@@ -3,8 +3,8 @@ name: "Pyhealth"
 slug: pyhealth
 language: en
 tagline: "Build and deploy clinical ML models for EHR data, mortality prediction, and drug recommendation."
-jobs: ["healthcare","science-and-research"]
-topics: ["research"]
+jobs: ["healthcare","science-and-research","it-and-development"]
+topics: ["research","coding","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/pyhealth
 adapted_from: https://www.aitmpl.com/component/skills/scientific/pyhealth

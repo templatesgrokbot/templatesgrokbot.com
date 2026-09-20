@@ -4,7 +4,7 @@ slug: lookdev
 language: en
 tagline: "Build interactive studios for tuning, editing, and annotating creative work by eye."
 jobs: ["creatives","product-development"]
-topics: ["design","generative-art"]
+topics: ["design","generative-art","generative-code","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/lookdev
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

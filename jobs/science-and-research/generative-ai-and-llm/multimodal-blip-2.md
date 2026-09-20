@@ -4,7 +4,7 @@ slug: multimodal-blip-2
 language: en
 tagline: "Generates captions, answers visual questions, and retrieves image-text matches using BLIP-2."
 jobs: ["science-and-research","it-and-development"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/multimodal-blip-2
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/multimodal-blip-2

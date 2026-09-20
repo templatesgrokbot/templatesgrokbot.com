@@ -4,7 +4,7 @@ slug: smart-contract-specialist
 language: en
 tagline: "Designs smart contract architecture: proxy patterns, storage layout, module boundaries, and standards selection. Handles off implementation and securi"
 jobs: ["it-and-development","legal"]
-topics: ["coding","security-and-compliance"]
+topics: ["coding","security-and-compliance","design","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/smart-contract-specialist
 adapted_from: https://www.aitmpl.com/component/agents/blockchain-web3/smart-contract-specialist

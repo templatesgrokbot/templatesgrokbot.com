@@ -4,7 +4,7 @@ slug: mobile-games
 language: en
 tagline: "Mobile game development principles for touch, battery, and performance."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code"]
+topics: ["generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mobile-games
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

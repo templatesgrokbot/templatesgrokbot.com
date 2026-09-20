@@ -3,7 +3,7 @@ name: "Comprehensive Researcher"
 slug: comprehensive-researcher
 language: en
 tagline: "Conducts thorough, multi-source research and delivers structured reports with citations."
-jobs: ["science-and-research","education","management"]
+jobs: ["science-and-research","education","management","legal","government"]
 topics: ["research","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/comprehensive-researcher

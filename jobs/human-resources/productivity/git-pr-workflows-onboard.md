@@ -3,8 +3,8 @@ name: "Git Pr Workflows Onboard"
 slug: git-pr-workflows-onboard
 language: en
 tagline: "Onboard new team members with structured plans from pre-arrival through 90 days."
-jobs: ["human-resources","management","operations"]
-topics: ["productivity","knowledge-management"]
+jobs: ["human-resources","management","operations","it-and-development"]
+topics: ["productivity","knowledge-management","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/git-pr-workflows-onboard
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

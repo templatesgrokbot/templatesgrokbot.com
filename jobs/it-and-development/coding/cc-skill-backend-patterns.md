@@ -4,7 +4,7 @@ slug: cc-skill-backend-patterns
 language: en
 tagline: "Backend architecture patterns for Node.js, Express, and Next.js API routes."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cc-skill-backend-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

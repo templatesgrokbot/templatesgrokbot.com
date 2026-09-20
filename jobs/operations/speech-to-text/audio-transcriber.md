@@ -3,7 +3,7 @@ name: "Audio Transcriber"
 slug: audio-transcriber
 language: en
 tagline: "Transcribe audio to Markdown with speaker IDs and summaries."
-jobs: ["operations","management","customer-support"]
+jobs: ["operations","management","customer-support","writers"]
 topics: ["speech-to-text","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/audio-transcriber

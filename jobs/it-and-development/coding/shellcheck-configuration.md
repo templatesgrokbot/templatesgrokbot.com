@@ -4,7 +4,7 @@ slug: shellcheck-configuration
 language: en
 tagline: "Configure and run ShellCheck static analysis on shell scripts with project-level rules."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/shellcheck-configuration
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

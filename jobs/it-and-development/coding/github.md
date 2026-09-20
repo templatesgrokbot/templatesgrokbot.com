@@ -4,7 +4,7 @@ slug: github
 language: en
 tagline: "Interact with GitHub issues, PRs, Actions runs, and API via gh CLI."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/github
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

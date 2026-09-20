@@ -4,7 +4,7 @@ slug: c4-architecture-c4-architecture
 language: en
 tagline: "Generate C4 architecture docs from existing codebases via bottom-up analysis."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/c4-architecture-c4-architecture
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

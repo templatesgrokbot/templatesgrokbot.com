@@ -4,7 +4,7 @@ slug: sre-engineer
 language: en
 tagline: "Define SLOs, manage error budgets, and reduce toil for system reliability."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/sre-engineer
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/sre-engineer

@@ -4,7 +4,7 @@ slug: cdk-patterns
 language: en
 tagline: "Build reusable AWS CDK constructs and production-grade infrastructure stacks with TypeScript, Python, or Java. No raw CloudFormation, Terraform, or on"
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cdk-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: azure-communication-callautomation-java
 language: en
 tagline: "Build server-side call automation workflows with Azure Communication Services."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","text-to-speech","speech-to-text"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-communication-callautomation-java
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

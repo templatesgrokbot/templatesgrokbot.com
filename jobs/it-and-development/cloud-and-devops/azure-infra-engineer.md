@@ -4,7 +4,7 @@ slug: azure-infra-engineer
 language: en
 tagline: "Designs, deploys, and automates Azure infrastructure with Bicep, PowerShell, and Entra ID."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-infra-engineer
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/azure-infra-engineer

@@ -4,7 +4,7 @@ slug: architecture-modernizer
 language: en
 tagline: "Modernize legacy software architectures into scalable, maintainable systems. No hype, no emoji, no 'leverage'/'empower'/'seamless'."
 jobs: ["it-and-development","product-development","management"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","design","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/architecture-modernizer
 adapted_from: https://www.aitmpl.com/component/agents/modernization/architecture-modernizer

@@ -3,8 +3,8 @@ name: "Startup Metrics Framework"
 slug: startup-metrics-framework
 language: en
 tagline: "Track and optimize startup KPIs from seed through Series A."
-jobs: ["executives-and-strategy","operations"]
-topics: ["data-analysis"]
+jobs: ["executives-and-strategy","operations","marketing","product-development"]
+topics: ["data-analysis","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/startup-metrics-framework
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

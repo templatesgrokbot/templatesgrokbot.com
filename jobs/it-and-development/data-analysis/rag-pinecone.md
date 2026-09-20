@@ -4,7 +4,7 @@ slug: rag-pinecone
 language: en
 tagline: "Manages vector embeddings for production RAG and semantic search."
 jobs: ["it-and-development"]
-topics: ["data-analysis","generative-ai-and-llm"]
+topics: ["data-analysis","generative-ai-and-llm","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/rag-pinecone
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/rag-pinecone

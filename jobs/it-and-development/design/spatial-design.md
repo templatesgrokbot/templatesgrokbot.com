@@ -4,7 +4,7 @@ slug: spatial-design
 language: en
 tagline: "Build environment-aware UIs with glass-like panels, dynamic lighting, and mixed reality aesthetics."
 jobs: ["it-and-development","product-development"]
-topics: ["design","coding"]
+topics: ["design","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/spatial-design
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

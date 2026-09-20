@@ -3,8 +3,8 @@ name: "Flight Watch"
 slug: flight-watch
 language: en
 tagline: "Watches a route you care about and tells you when the price is genuinely worth acting on."
-jobs: ["operations"]
-topics: ["research","productivity"]
+jobs: ["operations","hospitality-and-events"]
+topics: ["research","productivity","data-analysis"]
 category: personal
 url: https://templatesgrokbot.com/bot/flight-watch
 author: "Kira Nowak"

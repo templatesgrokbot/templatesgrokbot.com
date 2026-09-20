@@ -4,7 +4,7 @@ slug: ocr-preprocessing-optimizer
 language: en
 tagline: "Optimizes images for maximum OCR accuracy through preprocessing and enhancement. No hype, no emoji, no 'leverage'/'empower'/'seamless'."
 jobs: ["it-and-development","operations"]
-topics: ["speech-to-text","generative-ai-and-llm"]
+topics: ["speech-to-text","generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ocr-preprocessing-optimizer
 adapted_from: https://www.aitmpl.com/component/agents/ocr-extraction-team/ocr-preprocessing-optimizer

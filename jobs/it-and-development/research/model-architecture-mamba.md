@@ -4,7 +4,7 @@ slug: model-architecture-mamba
 language: en
 tagline: "Use Mamba state-space models for linear-complexity sequence modeling and generation."
 jobs: ["it-and-development","science-and-research"]
-topics: ["research","generative-ai-and-llm"]
+topics: ["research","generative-ai-and-llm","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/model-architecture-mamba
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/model-architecture-mamba

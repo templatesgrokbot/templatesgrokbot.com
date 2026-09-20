@@ -4,7 +4,7 @@ slug: rust-async-patterns
 language: en
 tagline: "Guide Rust async development with Tokio, channels, streams, and error handling."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/rust-async-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

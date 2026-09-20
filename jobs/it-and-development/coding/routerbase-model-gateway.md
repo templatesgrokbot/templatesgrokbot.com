@@ -4,7 +4,7 @@ slug: routerbase-model-gateway
 language: en
 tagline: "Route GPT, Claude, Gemini, and media through one OpenAI-compatible gateway."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm","cloud-and-devops"]
+topics: ["coding","generative-ai-and-llm","cloud-and-devops","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/routerbase-model-gateway
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

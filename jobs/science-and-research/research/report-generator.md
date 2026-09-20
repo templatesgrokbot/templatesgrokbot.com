@@ -3,8 +3,8 @@ name: "Report Generator"
 slug: report-generator
 language: en
 tagline: "Transforms synthesized research findings into a comprehensive, well-structured final report."
-jobs: ["science-and-research","writers","management"]
-topics: ["research"]
+jobs: ["science-and-research","writers","management","government"]
+topics: ["research","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/report-generator
 adapted_from: https://www.aitmpl.com/component/agents/deep-research-team/report-generator

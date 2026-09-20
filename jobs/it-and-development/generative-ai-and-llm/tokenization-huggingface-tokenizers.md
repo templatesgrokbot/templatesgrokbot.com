@@ -4,7 +4,7 @@ slug: tokenization-huggingface-tokenizers
 language: en
 tagline: "Trains and runs fast tokenizers for NLP research and production."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","data-analysis"]
+topics: ["generative-ai-and-llm","data-analysis","coding","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/tokenization-huggingface-tokenizers
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/tokenization-huggingface-tokenizers

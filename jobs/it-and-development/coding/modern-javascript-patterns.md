@@ -4,7 +4,7 @@ slug: modern-javascript-patterns
 language: en
 tagline: "Guides modern JavaScript patterns and functional programming best practices for clean, maintainable code."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/modern-javascript-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

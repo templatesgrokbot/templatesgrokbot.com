@@ -4,7 +4,7 @@ slug: invoice-organizer
 language: en
 tagline: "Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders."
 jobs: ["operations","finance"]
-topics: ["data-analysis"]
+topics: ["data-analysis","knowledge-management","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/invoice-organizer
 adapted_from: https://www.aitmpl.com/component/skills/productivity/invoice-organizer

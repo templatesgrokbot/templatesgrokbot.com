@@ -4,7 +4,7 @@ slug: youtube-transcript
 language: en
 tagline: "Fetch YouTube transcripts via DeepAPI or yt-dlp and save as clean text files."
 jobs: ["operations","it-and-development"]
-topics: ["research"]
+topics: ["research","speech-to-text","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/youtube-transcript
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

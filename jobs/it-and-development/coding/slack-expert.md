@@ -4,7 +4,7 @@ slug: slack-expert
 language: en
 tagline: "Build, review, and deploy Slack apps with Bolt SDK and API best practices."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/slack-expert
 adapted_from: https://www.aitmpl.com/component/agents/development-tools/slack-expert

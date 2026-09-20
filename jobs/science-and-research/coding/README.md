@@ -1,17 +1,20 @@
 # Coding templates for Science and Research
 
-Write, review, test and debug software. 31 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 40 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Algorithm Development Assistant](algorithm-development-assistant.md) | Guides research scientists through algorithm development from data prep to documentation. |
+| [Bash Linux](../../it-and-development/coding/bash-linux.md) | Provides Bash/Linux command patterns, scripting templates, and error handling for macOS or Linux. |
+| [Binary Analysis Patterns](../../it-and-development/coding/binary-analysis-patterns.md) | Analyze compiled binaries, assembly code, and reconstruct program logic. |
 | [Cirq](../../it-and-development/coding/cirq.md) | Design, simulate, and run quantum circuits with Cirq. |
 | [Claude D3.js](../../it-and-development/coding/claude-d3js-skill.md) | Create custom interactive D3.js visualizations for any JavaScript environment. |
 | [Cocoindex](../../it-and-development/coding/cocoindex.md) | Build and run CocoIndex data transformation pipelines (flows) for AI indexing. |
 | [Distributed Training Accelerate](../../it-and-development/coding/distributed-training-accelerate.md) | Add distributed training to any PyTorch script with 4 lines of code. |
 | [Distributed Training Pytorch Lightning](../../it-and-development/coding/distributed-training-pytorch-lightning.md) | Converts PyTorch code into Lightning modules and trains them with automatic distributed scaling. |
+| [Ghidra Reverse](../../it-and-development/coding/ghidra-reverse.md) | Reverse engineer binaries with Ghidra: decompile, script, and analyze headlessly. |
 | [Haskell Pro](../../it-and-development/coding/haskell-pro.md) | Haskell engineer for advanced type systems and pure functional architecture |
 | [Hugging Face Cli](../../it-and-development/coding/hugging-face-cli.md) | Manage Hugging Face Hub resources via CLI: download, upload, sync, cache, auth, buckets, collections. |
 | [Hugging Face Evaluation](../../it-and-development/coding/hugging-face-evaluation.md) | Add structured evaluation results to Hugging Face model cards via extraction, import, or custom runs. |
@@ -26,15 +29,21 @@ Write, review, test and debug software. 31 Grok Bot templates, 2 of them filed i
 | [Mathematician Tao](../../it-and-development/coding/mathematician-tao.md) | Rigorous analysis of code and architecture with deep mathematical theory. |
 | [Ml Pipeline Workflow](../../it-and-development/coding/ml-pipeline-workflow.md) | End-to-end MLOps pipeline orchestration from data prep to model deployment and monitoring. |
 | [Opentrons Integration](opentrons-integration.md) | Writes Opentrons Protocol API v2 Python scripts for Flex/OT-2 liquid handling workflows. |
+| [Optim Agent](../../it-and-development/coding/optim-agent.md) | Guide agent-driven parameter optimization for configurable systems with measurable objectives. |
+| [Pennylane](../../it-and-development/coding/pennylane.md) | Build and train quantum circuits with automatic differentiation across simulators and hardware. |
+| [Postgresql Cli](../../it-and-development/coding/postgresql-cli.md) | Interactive PostgreSQL client for querying and inspecting databases. No server management or DBA tasks. |
 | [Pylabrobot](../../it-and-development/coding/pylabrobot.md) | Controls lab robots and equipment from Python scripts. |
 | [Pymoo](../../it-and-development/coding/pymoo.md) | Runs multi-objective optimization using NSGA-II, NSGA-III, and MOEA/D to find Pareto-optimal solutions for engineering design problems. |
 | [Python Performance Optimization](../../it-and-development/coding/python-performance-optimization.md) | Profile and optimize Python code for speed and memory efficiency. |
+| [Pytorch Lightning](../../it-and-development/coding/pytorch-lightning.md) | Organize PyTorch code into LightningModules and configure Trainers for scalable neural network training. |
 | [Qiskit](../../it-and-development/coding/qiskit.md) | Build, optimize, and run quantum circuits on simulators or IBM Quantum hardware. |
+| [Reverse Engineering](../../it-and-development/coding/reverse-engineering.md) | Reverse-engineer binaries with GDB, Frida, angr, Unicorn, Qiling, and anti-analysis countermeasures. |
 | [Run Deep Swe](../../it-and-development/coding/run-deep-swe.md) | Run reproducible DeepSWE coding-agent benchmarks via OpenRouter and mini-swe-agent. |
 | [Senior Ml Engineer](../../it-and-development/coding/senior-ml-engineer.md) | Productionize ML models and build scalable MLOps systems. |
 | [Similarity Search Patterns](../../it-and-development/coding/similarity-search-patterns.md) | Design efficient vector similarity search for production systems. |
 | [Sql Pro](../../it-and-development/coding/sql-pro.md) | Optimize SQL queries, design schemas, and tune performance for cloud-native and hybrid databases. |
 | [Sympy](../../it-and-development/coding/sympy.md) | Performs exact symbolic math using SymPy in Python. |
+| [Systematic Debugging](../../it-and-development/coding/systematic-debugging.md) | Finds root cause of bugs before proposing any fix, no guessing. |
 | [Torch Geometric](../../it-and-development/coding/torch-geometric.md) | Build and train graph neural networks for node, edge, and graph tasks. |
 | [Yann Lecun Tecnico](../../it-and-development/coding/yann-lecun-tecnico.md) | Implement and explain LeCun's deep learning techniques with PyTorch. |
 

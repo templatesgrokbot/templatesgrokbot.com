@@ -4,7 +4,7 @@ slug: zoho-crm-automation
 language: en
 tagline: "Automate Zoho CRM record creation, search, update, and lead conversion via Rube MCP."
 jobs: ["operations","sales","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/zoho-crm-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -3,7 +3,7 @@ name: "Ui Ux Pro Max"
 slug: ui-ux-pro-max
 language: en
 tagline: "Generates complete UI/UX design systems from product descriptions using a searchable database of styles, palettes, and guidelines."
-jobs: ["product-development","it-and-development"]
+jobs: ["product-development","it-and-development","creatives"]
 topics: ["design","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ui-ux-pro-max

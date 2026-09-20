@@ -3,7 +3,7 @@ name: "Pdf Fill Studio"
 slug: pdf-fill-studio
 language: en
 tagline: "Fill any PDF locally with precise value placement, leaving signatures blank."
-jobs: ["operations","it-and-development"]
+jobs: ["operations","it-and-development","legal"]
 topics: ["office-tools","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/pdf-fill-studio

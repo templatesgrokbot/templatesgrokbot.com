@@ -4,7 +4,7 @@ slug: angular-ui-patterns
 language: en
 tagline: "Angular UI patterns for loading, error, and data display."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/angular-ui-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: conductor-validator
 language: en
 tagline: "Validates Conductor project artifacts for completeness and correct formatting."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/conductor-validator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

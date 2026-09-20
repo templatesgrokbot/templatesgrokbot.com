@@ -4,7 +4,7 @@ slug: threejs-loaders
 language: en
 tagline: "Load GLTF, textures, HDR and manage async asset progress in Three.js."
 jobs: ["it-and-development","creatives","product-development"]
-topics: ["generative-code","design"]
+topics: ["generative-code","design","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/threejs-loaders
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: tdd-workflow
 language: en
 tagline: "Guide RED-GREEN-REFACTOR cycles for behavior-first tested code."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/tdd-workflow
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

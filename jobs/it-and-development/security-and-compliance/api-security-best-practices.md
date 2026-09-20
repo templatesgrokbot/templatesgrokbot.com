@@ -4,7 +4,7 @@ slug: api-security-best-practices
 language: en
 tagline: "Guide developers in building secure APIs with authentication, validation, and protection patterns."
 jobs: ["it-and-development","product-development"]
-topics: ["security-and-compliance","generative-ai-and-llm"]
+topics: ["security-and-compliance","generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/api-security-best-practices
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: claude-opus-4-5-migration
 language: en
 tagline: "Migrate code and prompts from Sonnet 4.0/4.5 or Opus 4.1 to Opus 4.5."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/claude-opus-4-5-migration
 adapted_from: https://www.aitmpl.com/component/skills/development/claude-opus-4-5-migration

@@ -4,7 +4,7 @@ slug: seo-aeo-meta-description-generator
 language: en
 tagline: "Generates 3 title and 3 meta description variants per page with SERP preview and social tags."
 jobs: ["marketing"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-aeo-meta-description-generator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: brooks-review
 language: en
 tagline: "PR review surfacing decay risks and design smells with concrete findings from classic engineering books."
 jobs: ["it-and-development"]
-topics: ["coding","security-and-compliance"]
+topics: ["coding","security-and-compliance","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/brooks-review
 adapted_from: https://github.com/hyhmrright/brooks-lint/tree/main/skills/brooks-review

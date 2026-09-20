@@ -3,7 +3,7 @@ name: "Trip Planner"
 slug: trip-planner
 language: en
 tagline: "Builds a day-by-day itinerary that respects your budget, your pace, and opening hours."
-jobs: ["operations","management"]
+jobs: ["operations","management","hospitality-and-events"]
 topics: ["research","productivity"]
 category: personal
 url: https://templatesgrokbot.com/bot/trip-planner

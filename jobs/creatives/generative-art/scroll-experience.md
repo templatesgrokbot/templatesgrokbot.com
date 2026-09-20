@@ -4,7 +4,7 @@ slug: scroll-experience
 language: en
 tagline: "Build scroll-driven animations and parallax storytelling for narrative websites."
 jobs: ["creatives","it-and-development"]
-topics: ["generative-art","design"]
+topics: ["generative-art","design","coding"]
 category: creative
 url: https://templatesgrokbot.com/bot/scroll-experience
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

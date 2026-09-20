@@ -4,7 +4,7 @@ slug: terraform
 language: en
 tagline: "Generates compliant Terraform code and manages HCP workspaces with registry lookups."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/terraform
 adapted_from: https://github.com/antonbabenko/terraform-skill

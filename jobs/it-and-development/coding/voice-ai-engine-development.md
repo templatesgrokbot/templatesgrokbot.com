@@ -4,7 +4,7 @@ slug: voice-ai-engine-development
 language: en
 tagline: "Build real-time conversational AI voice engines with async pipelines and multi-provider support."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm","text-to-speech"]
+topics: ["coding","generative-ai-and-llm","text-to-speech","speech-to-text"]
 category: engineering
 url: https://templatesgrokbot.com/bot/voice-ai-engine-development
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

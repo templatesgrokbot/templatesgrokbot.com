@@ -1,6 +1,6 @@
 # Prompt Engineering templates for IT and Development
 
-Write, test and improve prompts and instructions. 33 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
+Write, test and improve prompts and instructions. 34 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -31,6 +31,7 @@ Write, test and improve prompts and instructions. 33 Grok Bot templates, 32 of t
 | [Recursive Context Pruning Token Budgeting](recursive-context-pruning-token-budgeting.md) | Prunes redundant context and enforces ultra-concise, direct-to-value responses. |
 | [Senior Prompt Engineer](senior-prompt-engineer.md) | Optimizes prompts and designs LLM systems for production-grade AI products. |
 | [Short](short.md) | Turn an open-source agent playbook into a Grok Bot template for a public catalog. Return JSON only. Write for Grok Bot specifically: identity: 2-4 sen |
+| [Template Builder](../../operations/prompt-engineering/template-skill.md) | Replace with description of the template and when Claude should use it. |
 | [Template Creator](skill-creator.md) | Guides creation of AI assistant capabilities through iterative drafting, testing, and refinement. |
 | [Template Development](skill-development.md) | Create, edit, and evaluate templates for an AI runtime, with iterative improvement. |
 | [Template Optimizer](skill-optimizer.md) | Diagnose and optimize agent capabilities using session data and static analysis. |

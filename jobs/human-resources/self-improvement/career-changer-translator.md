@@ -4,7 +4,7 @@ slug: career-changer-translator
 language: en
 tagline: "Translates skills from one industry to another for career pivots."
 jobs: ["human-resources","education"]
-topics: ["self-improvement"]
+topics: ["self-improvement","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/career-changer-translator
 adapted_from: https://www.aitmpl.com/component/skills/career/career-changer-translator

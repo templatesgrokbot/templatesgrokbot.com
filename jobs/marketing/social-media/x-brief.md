@@ -3,7 +3,7 @@ name: "X Brief"
 slug: x-brief
 language: en
 tagline: "Connects to X, analyzes your recent posts to identify your beat, and flags relevant events with a daily wrap-up."
-jobs: ["marketing","pr-and-communications"]
+jobs: ["marketing","pr-and-communications","writers"]
 topics: ["social-media","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/x-brief

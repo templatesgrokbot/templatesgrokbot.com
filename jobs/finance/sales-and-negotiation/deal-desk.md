@@ -4,7 +4,7 @@ slug: deal-desk
 language: en
 tagline: "Checks a proposed deal against your pricing rules and flags what needs approval before it ships."
 jobs: ["finance","sales"]
-topics: ["sales-and-negotiation"]
+topics: ["sales-and-negotiation","office-tools"]
 category: finance
 url: https://templatesgrokbot.com/bot/deal-desk
 ---

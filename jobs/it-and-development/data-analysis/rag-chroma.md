@@ -4,7 +4,7 @@ slug: rag-chroma
 language: en
 tagline: "Manages a local Chroma vector database for storing embeddings and performing semantic search."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","generative-ai-and-llm"]
+topics: ["data-analysis","generative-ai-and-llm","knowledge-management","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/rag-chroma
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/rag-chroma

@@ -4,7 +4,7 @@ slug: maximalism
 language: en
 tagline: "Implement dense, ornate, grid-based maximalist UI for web and mobile."
 jobs: ["it-and-development","creatives"]
-topics: ["design","coding"]
+topics: ["design","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/maximalism
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 176 Grok Bot templates, 132 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 182 Grok Bot templates, 132 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -47,6 +47,7 @@ Interfaces, brands, layouts and visual systems. 176 Grok Bot templates, 132 of t
 | [Design Concept Development Assistant](design-concept-development-assistant.md) | Turns UX/UI design tasks into guided, documented workflows from research to presentation. |
 | [Design Critique](design-design-critique.md) | Gives structured, honest design feedback on usability, hierarchy, consistency, and accessibility. |
 | [Design Critique Coordinator](../../product-development/design/design-critique-coordinator.md) | Runs your design critique workflow from feedback questions to performance tracking. |
+| [Design Handoff Spec](../../it-and-development/design/design-design-handoff.md) | Generate developer handoff specs from a design, covering tokens, props, states, and edge cases. |
 | [Design It](design-it.md) | Routes frontend design tasks to 48 specific UI styles with curated palettes. |
 | [Design Md](design-md.md) | Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files |
 | [Design Mirror](design-mirror.md) | Replicates any website's visual style and applies it to your existing codebase. |
@@ -89,6 +90,7 @@ Interfaces, brands, layouts and visual systems. 176 Grok Bot templates, 132 of t
 | [Gradient Design](gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 | [Hig Components Content](hig-components-content.md) | Recommend Apple HIG content components with configuration and accessibility guidance. |
 | [Hig Components Controls](hig-components-controls.md) | Advise on Apple HIG selection and input controls for app design. |
+| [Hig Components Dialogs](../../product-development/design/hig-components-dialogs.md) | Recommend Apple HIG presentation components for alerts, sheets, popovers, action sheets, and digit entry. |
 | [Hig Components Layout](hig-components-layout.md) | Apple HIG layout and navigation component guidance for app design. |
 | [Hig Components Menus](hig-components-menus.md) | Advise on Apple HIG menus and buttons for UI design |
 | [Hig Components Search](hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
@@ -120,6 +122,7 @@ Interfaces, brands, layouts and visual systems. 176 Grok Bot templates, 132 of t
 | [Maximalism](../../it-and-development/design/maximalism.md) | Implement dense, ornate, grid-based maximalist UI for web and mobile. |
 | [Minimalism](minimalism.md) | Generate minimal layouts with extreme whitespace, strict typography, and no decoration. |
 | [Minimalist Ui](minimalist-ui.md) | Build warm monochrome editorial UIs with crisp borders and restrained motion. |
+| [Mobile Design](../../product-development/design/mobile-design.md) | Guide mobile-first design decisions for iOS and Android with platform conventions and touch psychology. |
 | [Mobile Learning App Designer](../../education/design/mobile-learning-app-designer.md) | Designs and refines mobile learning apps with AI-assisted content, features, and user experience guidance. |
 | [Monochromatic Ui](monochromatic-ui.md) | Generate a single-hue UI palette with tints, shades, and implementation code for web, SwiftUI, or Flutter. |
 | [Motion Language Designer](motion-language-designer.md) | Designs a product's motion language and exports tokens, Framer Motion variants, and CSS. |
@@ -160,11 +163,14 @@ Interfaces, brands, layouts and visual systems. 176 Grok Bot templates, 132 of t
 | [Ui Score](ui-score.md) | Score UI files 0-100 against StyleSeed design language with fix priorities. |
 | [Ui Setup](ui-setup.md) | Interactive wizard to configure the StyleSeed design system step by step. |
 | [Ui Templates](ui-skills.md) | Opinionated constraints for building interfaces. |
+| [Ui Tokens](../../it-and-development/design/ui-tokens.md) | View, add, or modify design tokens in the StyleSeed design system. |
 | [Ui Ux Designer](ui-ux-designer.md) | Reviews UI/UX designs with research-backed critiques and accessibility compliance checks. |
+| [Ui Ux Pro Max](../../product-development/design/ui-ux-pro-max.md) | Generates complete UI/UX design systems from product descriptions using a searchable database of styles, palettes, and guidelines. |
 | [Ui Visual Validator](../../it-and-development/design/ui-visual-validator.md) | Rigorous UI visual validation expert for design system and accessibility compliance. |
 | [User Interface Design Basics Assistant](user-interface-design-basics-assistant.md) | Guides graphic designers through UI design foundations, from color and layout to prototyping and testing. |
 | [Ux Audit](ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 | [Ux Flow](ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
+| [UX Flow & Wireframer](../../product-development/design/ux-flow-wireframer.md) | Sketches user flows and low-fidelity wireframes as text layouts and Mermaid diagrams before visual design begins. |
 | [Ux Persuasion Engineer](../../product-development/design/ux-persuasion-engineer.md) | Redesign UX flows to guide decisions by reducing friction and staging commitment, ethically. |
 | [UX Prototyping Assistant](ux-prototyping-assistant.md) | Turns wireframes and prototypes into tested, documented designs ready for handoff. |
 | [UX SEO Optimization Assistant](../../product-development/design/ux-seo-optimization-assistant.md) | Optimizes UX design for SEO with keyword, content, and technical guidance. |

@@ -3,8 +3,8 @@ name: "Ab Test Setup"
 slug: ab-test-setup
 language: en
 tagline: "Plan statistically valid A/B tests with locked hypothesis, sample size, and pre-launch checklist."
-jobs: ["it-and-development","product-development","marketing"]
-topics: ["data-analysis","research"]
+jobs: ["it-and-development","product-development","marketing","science-and-research"]
+topics: ["data-analysis","research","marketing-and-growth"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ab-test-setup
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

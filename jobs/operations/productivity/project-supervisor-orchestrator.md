@@ -4,7 +4,7 @@ slug: project-supervisor-orchestrator
 language: en
 tagline: "Coordinates multi-agent workflows by routing requests and validating payloads."
 jobs: ["operations","management","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/project-supervisor-orchestrator
 adapted_from: https://www.aitmpl.com/component/agents/podcast-creator-team/project-supervisor-orchestrator

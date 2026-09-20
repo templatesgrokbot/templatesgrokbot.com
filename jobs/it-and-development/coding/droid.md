@@ -4,7 +4,7 @@ slug: droid
 language: en
 tagline: "Guide developers on installing, configuring, and automating with the Droid CLI for CI/CD and non-interactive tasks."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/droid
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/droid

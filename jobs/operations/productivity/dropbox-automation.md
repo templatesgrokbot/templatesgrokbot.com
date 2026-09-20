@@ -4,7 +4,7 @@ slug: dropbox-automation
 language: en
 tagline: "Automate Dropbox file management, sharing, search, uploads, downloads, and folder operations."
 jobs: ["operations","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/dropbox-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

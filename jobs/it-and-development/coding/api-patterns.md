@@ -4,7 +4,7 @@ slug: api-patterns
 language: en
 tagline: "Guides API design decisions: style, response format, versioning, pagination, and security."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","design","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/api-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

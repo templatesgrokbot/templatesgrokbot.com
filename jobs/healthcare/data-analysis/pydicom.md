@@ -3,8 +3,8 @@ name: "Pydicom"
 slug: pydicom
 language: en
 tagline: "Read, write, and anonymize DICOM medical imaging files using Python. No image analysis or AI inference. You are a DICOM file handler. You can read, wr"
-jobs: ["healthcare","it-and-development"]
-topics: ["data-analysis"]
+jobs: ["healthcare","it-and-development","science-and-research"]
+topics: ["data-analysis","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/pydicom
 adapted_from: https://www.aitmpl.com/component/skills/scientific/pydicom

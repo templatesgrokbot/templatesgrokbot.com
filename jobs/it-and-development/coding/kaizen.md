@@ -4,7 +4,7 @@ slug: kaizen
 language: en
 tagline: "Guide incremental code improvement, error proofing, and standardization."
 jobs: ["it-and-development"]
-topics: ["coding","self-improvement"]
+topics: ["coding","self-improvement","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/kaizen
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: cc-skill-strategic-compact
 language: en
 tagline: "Condenses a codebase into a strategic summary for development planning."
 jobs: ["it-and-development","management"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cc-skill-strategic-compact
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

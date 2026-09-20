@@ -4,7 +4,7 @@ slug: plugin-forge
 language: en
 tagline: "Creates and manages Claude Code plugins with proper structure, manifests, and marketplace integration."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/plugin-forge
 adapted_from: https://www.aitmpl.com/component/skills/development/plugin-forge

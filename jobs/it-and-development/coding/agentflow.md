@@ -4,7 +4,7 @@ slug: agentflow
 language: en
 tagline: "Orchestrate autonomous AI development pipelines through your Kanban board."
 jobs: ["it-and-development","management"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agentflow
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

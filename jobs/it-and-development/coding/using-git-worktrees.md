@@ -4,7 +4,7 @@ slug: using-git-worktrees
 language: en
 tagline: "Create isolated git worktrees with smart directory selection and safety checks."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/using-git-worktrees
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

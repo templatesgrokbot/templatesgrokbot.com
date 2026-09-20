@@ -3,7 +3,7 @@ name: "Unslop File"
 slug: unslop-file
 language: en
 tagline: "Rewrite memory files to sound human-written while preserving code, URLs, and headings exactly."
-jobs: ["writers","operations","management"]
+jobs: ["writers","operations","management","it-and-development"]
 topics: ["writing-and-content","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/unslop-file

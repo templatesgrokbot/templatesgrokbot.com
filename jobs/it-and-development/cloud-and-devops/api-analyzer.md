@@ -4,7 +4,7 @@ slug: api-analyzer
 language: en
 tagline: "Validates API requests in one line — checks method, URL, headers, body, auth, and query params."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops"]
+topics: ["cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/api-analyzer
 adapted_from: https://github.com/LambdaTest/agent-skills/tree/main/api-skill/api-analyzer

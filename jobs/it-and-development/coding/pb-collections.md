@@ -4,7 +4,7 @@ slug: pb-collections
 language: en
 tagline: "Designs PocketBase collections, schemas, fields, relations, and indexes."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pb-collections
 adapted_from: https://www.aitmpl.com/component/skills/pocketbase/pb-collections

@@ -4,7 +4,7 @@ slug: keyword-strategy-planner
 language: en
 tagline: "Turns a keyword CSV into a prioritized content and SEO strategy with intent mapping."
 jobs: ["marketing","sales"]
-topics: ["marketing-and-growth","research"]
+topics: ["marketing-and-growth","research","data-analysis","writing-and-content"]
 category: marketing
 url: https://templatesgrokbot.com/bot/keyword-strategy-planner
 adapted_from: https://collectivebrain.de/en/skills/keyword-strategy-planner/

@@ -3,8 +3,8 @@ name: "Multi Agent Brainstorming"
 slug: multi-agent-brainstorming
 language: en
 tagline: "Simulate a structured peer-review process to validate designs and catch failure modes early."
-jobs: ["product-development","management"]
-topics: ["productivity","research"]
+jobs: ["product-development","management","it-and-development"]
+topics: ["productivity","research","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/multi-agent-brainstorming
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

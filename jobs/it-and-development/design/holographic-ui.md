@@ -4,7 +4,7 @@ slug: holographic-ui
 language: en
 tagline: "Generate CSS, SwiftUI, or Flutter code for translucent, light-based holographic interfaces."
 jobs: ["it-and-development","creatives"]
-topics: ["design","coding"]
+topics: ["design","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/holographic-ui
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: timestamp-precision-specialist
 language: en
 tagline: "Extracts frame-accurate timestamps for clean podcast cuts using waveform and silence analysis."
 jobs: ["creatives","operations"]
-topics: ["video-editing","speech-to-text"]
+topics: ["video-editing","speech-to-text","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/timestamp-precision-specialist
 adapted_from: https://www.aitmpl.com/component/agents/ffmpeg-clip-team/timestamp-precision-specialist

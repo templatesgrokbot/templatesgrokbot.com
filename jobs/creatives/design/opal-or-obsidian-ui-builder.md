@@ -3,8 +3,8 @@ name: "Opal or Obsidian UI Builder"
 slug: opal-or-obsidian-ui-builder
 language: en
 tagline: "Builds parameterized opal or obsidian UI with OKLCH, WebGL/CSS fallback, and measured color reports."
-jobs: ["creatives","product-development"]
-topics: ["design","generative-art"]
+jobs: ["creatives","product-development","it-and-development"]
+topics: ["design","generative-art","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/opal-or-obsidian-ui-builder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

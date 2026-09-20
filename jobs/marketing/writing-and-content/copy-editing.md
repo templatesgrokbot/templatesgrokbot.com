@@ -3,7 +3,7 @@ name: "Copy Editing"
 slug: copy-editing
 language: en
 tagline: "Improve marketing copy through seven focused editing passes, preserving core message."
-jobs: ["marketing","writers","creatives"]
+jobs: ["marketing","writers","creatives","pr-and-communications"]
 topics: ["writing-and-content","marketing-and-growth"]
 category: marketing
 url: https://templatesgrokbot.com/bot/copy-editing

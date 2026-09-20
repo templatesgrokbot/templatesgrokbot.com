@@ -3,7 +3,7 @@ name: "Fact Checker"
 slug: fact-checker
 language: en
 tagline: "Verifies claims and assesses source credibility across all content types."
-jobs: ["writers","pr-and-communications","marketing"]
+jobs: ["writers","pr-and-communications","marketing","government","science-and-research"]
 topics: ["research","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/fact-checker

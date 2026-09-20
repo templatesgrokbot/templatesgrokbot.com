@@ -3,7 +3,7 @@ name: "Google Sheets Automation"
 slug: google-sheets-automation
 language: en
 tagline: "Read and write Google Sheets data with OAuth authentication."
-jobs: ["operations","management"]
+jobs: ["operations","management","it-and-development"]
 topics: ["office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/google-sheets-automation

@@ -4,7 +4,7 @@ slug: spatial-computing-ui
 language: en
 tagline: "Generate spatial computing UI with glass materials and 3D z-space hierarchy."
 jobs: ["it-and-development","product-development"]
-topics: ["design","coding"]
+topics: ["design","coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/spatial-computing-ui
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

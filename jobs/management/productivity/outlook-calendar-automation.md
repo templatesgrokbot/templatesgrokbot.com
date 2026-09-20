@@ -3,8 +3,8 @@ name: "Outlook Calendar Automation"
 slug: outlook-calendar-automation
 language: en
 tagline: "Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times."
-jobs: ["management","operations","executives-and-strategy"]
-topics: ["productivity"]
+jobs: ["management","operations","executives-and-strategy","healthcare"]
+topics: ["productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/outlook-calendar-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

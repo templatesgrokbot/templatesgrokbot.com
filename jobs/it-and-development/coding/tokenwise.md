@@ -4,7 +4,7 @@ slug: tokenwise
 language: en
 tagline: "Routes model tiers by task class with cost logging and A/B verification."
 jobs: ["it-and-development","management"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/tokenwise
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

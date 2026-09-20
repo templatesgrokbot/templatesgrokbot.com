@@ -4,7 +4,7 @@ slug: azure-eventhub-dotnet
 language: en
 tagline: "Send and receive events via Azure Event Hubs with .NET SDK."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-eventhub-dotnet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

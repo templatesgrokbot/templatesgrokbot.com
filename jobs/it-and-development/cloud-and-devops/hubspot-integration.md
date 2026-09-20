@@ -4,7 +4,7 @@ slug: hubspot-integration
 language: en
 tagline: "Guide HubSpot CRM integration with OAuth, CRUD, batch, webhooks, and custom objects."
 jobs: ["it-and-development","sales","marketing"]
-topics: ["cloud-and-devops","data-analysis"]
+topics: ["cloud-and-devops","data-analysis","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hubspot-integration
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

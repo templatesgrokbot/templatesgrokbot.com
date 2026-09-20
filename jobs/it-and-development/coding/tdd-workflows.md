@@ -4,7 +4,7 @@ slug: tdd-workflows
 language: en
 tagline: "Guide through the TDD red-green-refactor cycle for code changes."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/tdd-workflows
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

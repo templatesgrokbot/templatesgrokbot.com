@@ -4,7 +4,7 @@ slug: crossframe
 language: en
 tagline: "Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes."
 jobs: ["executives-and-strategy","management","government"]
-topics: ["research"]
+topics: ["research","prompt-engineering"]
 category: research
 url: https://templatesgrokbot.com/bot/crossframe
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

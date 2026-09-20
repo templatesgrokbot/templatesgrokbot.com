@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 129 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 133 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -64,6 +64,7 @@ Clean, query, chart and explain data. 129 Grok Bot templates, 30 of them filed i
 | [Data Researcher](../../science-and-research/data-analysis/data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
 | [Data Storytelling](../../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Demand Forecasting Analyst](../../management/data-analysis/demand-forecasting-analyst.md) | Forecasts product demand from market data, sentiment, and trends for market research managers. |
+| [Developer Churn](../../product-development/data-analysis/developer-churn.md) | Analyze developer churn and design retention strategies. |
 | [Digital Marketing Trends Analyst](../../executives-and-strategy/data-analysis/digital-marketing-trends-analyst.md) | Analyzes digital marketing data across channels to deliver actionable insights and trend forecasts. |
 | [Digital Performance Analytics Advisor](../../executives-and-strategy/data-analysis/digital-performance-analytics-advisor.md) | Performance analytics companion for CDOs: from data gathering to reporting and optimization. |
 | [E-commerce Pricing Optimizer](../../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
@@ -81,11 +82,13 @@ Clean, query, chart and explain data. 129 Grok Bot templates, 30 of them filed i
 | [Google Ads Performance Analyzer](google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 | [Google Analytics](google-analytics.md) | Analyze Google Analytics data to find traffic patterns and suggest improvements. |
 | [Google Analytics Automation](google-analytics-automation.md) | Automate GA4 reporting, property listing, funnels, pivots, and key events via Rube MCP—always search tools first. |
+| [Hasdata](../../it-and-development/data-analysis/hasdata.md) | Extract public web data via HasData APIs for scraping, SERPs, and structured sources. |
 | [ICP Deep Scanner](icp-deep-scanner.md) | Deep-scan connected tools to build a data-grounded Ideal Customer Profile and persona library. |
 | [Industry Trend Analyst](../../science-and-research/data-analysis/industry-trend-analyst.md) | Turns market data into trend forecasts and stakeholder-ready reports. |
 | [Influencer Partnership Analyst](../../management/data-analysis/influencer-partnership-analyst.md) | Analyzes influencer partnerships from discovery to ROI, with fraud checks and crisis plans. |
 | [Insurance Feedback Analyzer](../../customer-support/data-analysis/insurance-feedback-analyzer.md) | Collects, analyzes, and reports insurance customer feedback for service improvements. |
 | [Journey Insight Optimizer](../../science-and-research/data-analysis/journey-insight-optimizer.md) | Analyzes customer data to map, optimize, and report on the customer journey. |
+| [Kpi Dashboard Design](../../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
 | [Lead Scoring Model Builder](lead-scoring-model-builder.md) | Builds a custom lead scoring model from your win/loss data and scores current leads. |
 | [Lead Scoring Strategist](../../sales/data-analysis/lead-scoring-strategist.md) | Builds and refines lead scoring models, segments leads, and tracks performance for sales managers. |
 | [Market Basket Insights Assistant](../../management/data-analysis/market-basket-insights-assistant.md) | Turns retail transaction data into cross-selling, promotion, and inventory insights. |
@@ -128,6 +131,7 @@ Clean, query, chart and explain data. 129 Grok Bot templates, 30 of them filed i
 | [Social Media Insights Analyst](../../it-and-development/data-analysis/social-media-insights-analyst.md) | Analyzes social media data to deliver insights, trends, and optimization strategies for business analysts. |
 | [Social Media Performance Analyst](../../management/data-analysis/social-media-performance-analyst.md) | Analyzes your social media performance and gives actionable insights for e-commerce growth. |
 | [Social Pulse Insight Scout](../../science-and-research/data-analysis/social-pulse-insight-scout.md) | Analyzes social media data to reveal trends, sentiment, and influencers for market research. |
+| [Startup Metrics Framework](../../executives-and-strategy/data-analysis/startup-metrics-framework.md) | Track and optimize startup KPIs from seed through Series A. |
 | [Supply Chain Impact Assessor](../../management/data-analysis/supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |
 | [Talivia Agent Kit](talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Trend Analysis Content Assistant](../../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |

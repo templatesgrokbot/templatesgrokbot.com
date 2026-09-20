@@ -3,7 +3,7 @@ name: "Brand Guidelines"
 slug: brand-guidelines
 language: en
 tagline: "Apply brand colors, typography, and tone to user-facing content and artifacts."
-jobs: ["marketing","creatives","pr-and-communications"]
+jobs: ["marketing","creatives","pr-and-communications","writers"]
 topics: ["design","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/brand-guidelines

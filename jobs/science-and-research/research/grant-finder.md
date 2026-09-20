@@ -4,7 +4,7 @@ slug: grant-finder
 language: en
 tagline: "Finds grants you are actually eligible for and tracks every deadline backwards from submission."
 jobs: ["science-and-research","operations","finance"]
-topics: ["research","data-analysis"]
+topics: ["research","data-analysis","productivity"]
 category: research
 url: https://templatesgrokbot.com/bot/grant-finder
 ---

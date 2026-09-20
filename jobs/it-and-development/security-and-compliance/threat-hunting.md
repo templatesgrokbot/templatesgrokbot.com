@@ -4,7 +4,7 @@ slug: threat-hunting
 language: en
 tagline: "Proactive threat hunting and detection engineering with Sigma, YARA, and SIEM queries."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","data-analysis"]
+topics: ["security-and-compliance","data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/threat-hunting
 adapted_from: https://github.com/zhaoxuya520/reverse-skill

@@ -4,7 +4,7 @@ slug: mailtrap-sending-emails
 language: en
 tagline: "Configure Mailtrap live email sending via API, SMTP, or batch."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","office-tools"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mailtrap-sending-emails
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

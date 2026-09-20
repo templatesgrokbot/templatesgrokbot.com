@@ -4,7 +4,7 @@ slug: open-banking-io
 language: en
 tagline: "Read balances and transactions from EU/UK bank accounts via the open-banking.io PSD2 API."
 jobs: ["finance"]
-topics: ["data-analysis"]
+topics: ["data-analysis","productivity"]
 category: finance
 url: https://templatesgrokbot.com/bot/open-banking-io
 adapted_from: https://www.aitmpl.com/component/skills/open-banking-io/open-banking-io

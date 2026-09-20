@@ -3,8 +3,8 @@ name: "Obsidian Clipper Template Creator"
 slug: obsidian-clipper-template-creator
 language: en
 tagline: "Builds importable Obsidian Web Clipper JSON templates from real page analysis."
-jobs: ["operations","it-and-development"]
-topics: ["productivity","knowledge-management"]
+jobs: ["operations","it-and-development","writers"]
+topics: ["productivity","knowledge-management","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/obsidian-clipper-template-creator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

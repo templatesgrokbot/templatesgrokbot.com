@@ -4,7 +4,7 @@ slug: logic-locate
 language: en
 tagline: "Trace confirmed failures to root cause via backward-then-forward semi-formal analysis."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/logic-locate
 adapted_from: https://github.com/hyhmrright/logic-lens/tree/main/skills/logic-locate

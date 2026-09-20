@@ -4,7 +4,7 @@ slug: seo-content-planner
 language: en
 tagline: "Plan SEO content clusters, outlines, and calendars for topical authority."
 jobs: ["marketing"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","writing-and-content","productivity"]
 category: marketing
 url: https://templatesgrokbot.com/bot/seo-content-planner
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

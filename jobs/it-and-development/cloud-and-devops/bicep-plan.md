@@ -4,7 +4,7 @@ slug: bicep-plan
 language: en
 tagline: "Creates a machine-readable implementation plan for Azure Bicep IaC tasks."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","coding"]
+topics: ["cloud-and-devops","coding","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/bicep-plan
 adapted_from: https://www.aitmpl.com/component/agents/devops-infrastructure/bicep-plan

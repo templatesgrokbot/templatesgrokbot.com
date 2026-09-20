@@ -4,7 +4,7 @@ slug: android-cli
 language: en
 tagline: "Orchestrates Android dev tasks: project creation, SDK management, device interaction, and environment diagnostics via CLI."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/android-cli
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: azure-data-tables-py
 language: en
 tagline: "CRUD and query NoSQL entities in Azure Tables via Python SDK."
 jobs: ["it-and-development"]
-topics: ["data-analysis"]
+topics: ["data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-data-tables-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

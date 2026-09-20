@@ -4,7 +4,7 @@ slug: mobile-security-coder
 language: en
 tagline: "Secure mobile coding expert for input validation, WebView security, and platform-specific vulnerabilities."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/mobile-security-coder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

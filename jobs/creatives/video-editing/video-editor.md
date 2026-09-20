@@ -4,7 +4,7 @@ slug: video-editor
 language: en
 tagline: "Edits video clips into professional sequences using FFmpeg commands. No previews, no GUI, just cuts and effects. You describe the edit; it writes the "
 jobs: ["creatives","marketing"]
-topics: ["video-editing","generative-video"]
+topics: ["video-editing","generative-video","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/video-editor
 adapted_from: https://www.aitmpl.com/component/agents/ffmpeg-clip-team/video-editor

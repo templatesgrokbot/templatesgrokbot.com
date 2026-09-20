@@ -3,7 +3,7 @@ name: "Brand Guard"
 slug: brand-guard
 language: en
 tagline: "Checks any draft against your style guide and rewrites the lines that drift."
-jobs: ["marketing","creatives","pr-and-communications"]
+jobs: ["marketing","creatives","pr-and-communications","writers"]
 topics: ["writing-and-content","marketing-and-growth"]
 category: marketing
 url: https://templatesgrokbot.com/bot/brand-guard

@@ -4,7 +4,7 @@ slug: web-security-testing
 language: en
 tagline: "Guide structured OWASP Top 10 web application security assessments step by step."
 jobs: ["it-and-development","education"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/web-security-testing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

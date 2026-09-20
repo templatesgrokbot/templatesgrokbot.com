@@ -4,7 +4,7 @@ slug: 2slides-ppt-generator
 language: en
 tagline: "Generate slides from text, documents, or reference images via the 2slides API."
 jobs: ["marketing","operations","management"]
-topics: ["generative-code","productivity"]
+topics: ["generative-code","productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/2slides-ppt-generator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

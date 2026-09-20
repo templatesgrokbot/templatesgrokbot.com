@@ -4,7 +4,7 @@ slug: pymoo
 language: en
 tagline: "Runs multi-objective optimization using NSGA-II, NSGA-III, and MOEA/D to find Pareto-optimal solutions for engineering design problems."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","teaching-and-tutoring","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pymoo
 adapted_from: https://www.aitmpl.com/component/skills/scientific/pymoo

@@ -4,7 +4,7 @@ slug: selenium-skill
 language: en
 tagline: "Generates production-grade Selenium WebDriver scripts and tests in Java, Python, JS, C#, Ruby, PHP, with local or TestMu cloud execution."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/selenium-skill
 adapted_from: https://github.com/LambdaTest/agent-skills/tree/main/selenium-skill

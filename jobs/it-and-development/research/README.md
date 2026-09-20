@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 110 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 115 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,12 +12,14 @@ Find sources, compare evidence and summarise what is known. 110 Grok Bot templat
 | [Anndata](../../science-and-research/research/anndata.md) | Manages annotated data matrices for single-cell genomics and large-scale biological datasets. |
 | [Apify Ecommerce](apify-ecommerce.md) | Extract product data, prices, reviews, and sellers from e-commerce sites via Apify. |
 | [Arboreto](../../science-and-research/research/arboreto.md) | Infer gene regulatory networks from gene expression data using GRNBoost2 or GENIE3. |
+| [Auto Research](../../science-and-research/research/auto-research.md) | Research uncertain questions via web or ChatGPT with user approval before implementation. |
 | [Automation Tool Selection Assistant](automation-tool-selection-assistant.md) | Guides QA testers in selecting and implementing the right automation tools. |
 | [Bdistill Knowledge Extraction](../../science-and-research/research/bdistill-knowledge-extraction.md) | Extract structured, quality-scored domain knowledge from AI models without API keys. No training data generation. |
 | [Biomni](../../science-and-research/research/biomni.md) | Executes multi-step biomedical research tasks using an autonomous AI agent framework. |
 | [Biopython](../../science-and-research/research/biopython.md) | Runs Python molecular biology tasks using Biopython for sequence, structure, and database work. |
 | [Bioservices](../../science-and-research/research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
 | [Bright Data Mcp](bright-data-mcp.md) | Fetches web pages, search results, and structured data from supported platforms using Bright Data tools. |
+| [Brightdata Local Search](../../science-and-research/research/brightdata-local-search.md) | Run local web searches via Bright Data SERP API with query expansion and reranking. |
 | [Capability Ecosystem Sentinel](capability-ecosystem-sentinel.md) | Audits and evolves the capability ecosystem across 7 dimensions, generating health reports and recommendations. |
 | [Cellxgene Census](../../science-and-research/research/cellxgene-census.md) | Query 61M+ single cells from CZ CELLxGENE Census by cell type, tissue, or disease. |
 | [Chembl Database](../../science-and-research/research/chembl-database.md) | Query ChEMBL for bioactive molecules, targets, and drug discovery data. |
@@ -27,6 +29,7 @@ Find sources, compare evidence and summarise what is known. 110 Grok Bot templat
 | [Context7 Auto Research](context7-auto-research.md) | Fetches latest library/framework documentation via Context7 API on demand. |
 | [Cosmic Database](../../science-and-research/research/cosmic-database.md) | Downloads and queries cancer mutation data from the COSMIC database for research. |
 | [Custom Software Recommendation Assistant](custom-software-recommendation-assistant.md) | Recommends custom software matched to client needs, budget, and growth plans. |
+| [Daily News Report](../../operations/research/daily-news-report.md) | Scrape preset URLs, filter high-quality tech news, and output a daily Markdown report. |
 | [Deepchem](../../science-and-research/research/deepchem.md) | Predict molecular properties and train ML models for drug discovery. |
 | [Defuddle](defuddle.md) | Extract clean markdown from web pages using Defuddle CLI. |
 | [Efficient Web Research](../../science-and-research/research/efficient-web-research.md) | Token-efficient web research protocol that fetches minimum needed to answer. |
@@ -50,6 +53,7 @@ Find sources, compare evidence and summarise what is known. 110 Grok Bot templat
 | [Learning Resource Curator](learning-resource-curator.md) | Research, recommend, and build learning resource platforms for web development. |
 | [Lightning Architecture Review](lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 | [Longbridge Content](../../finance/research/longbridge-content.md) | Fetches stock news, filings, community topics, and SEC EDGAR analysis via Longbridge, no login, in your language. |
+| [Maxia](../../operations/research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
 | [Mcp Registry Navigator](mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
 | [Mechanistic Interpretability Nnsight](../../science-and-research/research/mechanistic-interpretability-nnsight.md) | Runs mechanistic interpretability experiments on any PyTorch model, local or remote via NDIF. |
 | [Mechanistic Interpretability Pyvene](../../science-and-research/research/mechanistic-interpretability-pyvene.md) | Guides causal intervention experiments on PyTorch models using pyvene. |
@@ -74,6 +78,7 @@ Find sources, compare evidence and summarise what is known. 110 Grok Bot templat
 | [Prior Art Analysis Assistant](../../legal/research/prior-art-analysis-assistant.md) | Streamlines prior art search, analysis, and reporting for patent agents. |
 | [Project Template Audit](project-skill-audit.md) | Audit project workflows and recommend capability updates or additions from session evidence. |
 | [Pubchem Database](../../science-and-research/research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
+| [Pyhealth](../../healthcare/research/pyhealth.md) | Build and deploy clinical ML models for EHR data, mortality prediction, and drug recommendation. |
 | [Qms Audit Expert](../../operations/research/qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
 | [Query Clarifier](../../science-and-research/research/query-clarifier.md) | Analyzes research queries for clarity and decides if clarification is needed before research starts. |
 | [Railway Docs](railway-docs.md) | Fetch Railway documentation to answer questions about features, usage, and pricing. |

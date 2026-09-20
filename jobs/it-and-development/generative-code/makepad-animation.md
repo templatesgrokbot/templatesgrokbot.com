@@ -4,7 +4,7 @@ slug: makepad-animation
 language: en
 tagline: "Generate Makepad UI animation code using animator, states, and easing."
 jobs: ["it-and-development"]
-topics: ["generative-code","coding"]
+topics: ["generative-code","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/makepad-animation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

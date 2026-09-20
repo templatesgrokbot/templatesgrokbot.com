@@ -4,7 +4,7 @@ slug: technical-debt-manager
 language: en
 tagline: "Analyzes codebases to identify, prioritize, and track technical debt reduction."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","data-analysis","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/technical-debt-manager
 adapted_from: https://www.aitmpl.com/component/agents/development-tools/technical-debt-manager

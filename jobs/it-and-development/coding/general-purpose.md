@@ -4,7 +4,7 @@ slug: general-purpose
 language: en
 tagline: "Adapts to any coding task, breaks down work, and delegates to specialists."
 jobs: ["it-and-development","product-development","management"]
-topics: ["coding","productivity","generative-ai-and-llm"]
+topics: ["coding","productivity","generative-ai-and-llm","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/general-purpose
 adapted_from: https://www.aitmpl.com/component/agents/development-tools/general-purpose

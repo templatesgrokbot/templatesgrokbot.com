@@ -3,8 +3,8 @@ name: "Business Analyst"
 slug: business-analyst
 language: en
 tagline: "Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency."
-jobs: ["operations","management","product-development"]
-topics: ["data-analysis","productivity"]
+jobs: ["operations","management","product-development","government"]
+topics: ["data-analysis","productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/business-analyst
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

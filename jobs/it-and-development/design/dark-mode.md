@@ -4,7 +4,7 @@ slug: dark-mode
 language: en
 tagline: "Dark mode design guide: surfaces, typography, and accent rules."
 jobs: ["it-and-development","creatives"]
-topics: ["design"]
+topics: ["design","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/dark-mode
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: aem-frontend-specialist
 language: en
 tagline: "Builds AEM components from Figma designs using HTL, Tailwind CSS, and design tokens."
 jobs: ["it-and-development","creatives"]
-topics: ["coding","design"]
+topics: ["coding","design","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/aem-frontend-specialist
 adapted_from: https://www.aitmpl.com/component/agents/web-tools/aem-frontend-specialist

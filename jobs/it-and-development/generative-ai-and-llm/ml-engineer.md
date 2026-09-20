@@ -3,7 +3,7 @@ name: "Ml Engineer"
 slug: ml-engineer
 language: en
 tagline: "Build and maintain production ML systems with PyTorch, TensorFlow, and modern MLOps practices."
-jobs: ["it-and-development","product-development","operations"]
+jobs: ["it-and-development","product-development","operations","human-resources"]
 topics: ["generative-ai-and-llm","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ml-engineer

@@ -4,7 +4,7 @@ slug: brave-man
 language: en
 tagline: "Runs a clarifying interview for new projects, then outputs a ready prompt.md for execution."
 jobs: ["management","product-development","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","prompt-engineering"]
 category: operations
 url: https://templatesgrokbot.com/bot/brave-man
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

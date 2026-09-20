@@ -4,7 +4,7 @@ slug: webflow-automation
 language: en
 tagline: "Automate Webflow CMS, publishing, pages, assets, and ecommerce via Rube MCP."
 jobs: ["it-and-development","operations","marketing"]
-topics: ["generative-code"]
+topics: ["generative-code","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/webflow-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

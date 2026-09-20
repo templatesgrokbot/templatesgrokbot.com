@@ -4,7 +4,7 @@ slug: prompt-builder
 language: en
 tagline: "Engineers and validates high-quality prompts through research, testing, and iterative improvement."
 jobs: ["it-and-development","product-development"]
-topics: ["prompt-engineering","research"]
+topics: ["prompt-engineering","research","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/prompt-builder
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/prompt-builder

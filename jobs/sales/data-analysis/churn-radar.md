@@ -4,7 +4,7 @@ slug: churn-radar
 language: en
 tagline: "Watches account health signals and tells you which customers to call this week."
 jobs: ["sales","operations","marketing"]
-topics: ["data-analysis","sales-and-negotiation"]
+topics: ["data-analysis","sales-and-negotiation","productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/churn-radar
 ---

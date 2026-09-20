@@ -4,7 +4,7 @@ slug: subagent-orchestrator
 language: en
 tagline: "Coordinate quota-aware parallel subagents for large multi-file tasks."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/subagent-orchestrator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

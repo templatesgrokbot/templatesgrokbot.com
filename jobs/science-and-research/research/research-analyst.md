@@ -3,7 +3,7 @@ name: "Research Analyst"
 slug: research-analyst
 language: en
 tagline: "Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis."
-jobs: ["science-and-research","management","marketing"]
+jobs: ["science-and-research","management","marketing","government","finance"]
 topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/research-analyst

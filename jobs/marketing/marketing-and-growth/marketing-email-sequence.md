@@ -4,7 +4,7 @@ slug: marketing-email-sequence
 language: en
 tagline: "Design and draft multi-email sequences with timing, branching, and exit conditions."
 jobs: ["marketing","sales"]
-topics: ["marketing-and-growth","writing-and-content"]
+topics: ["marketing-and-growth","writing-and-content","office-tools"]
 category: marketing
 url: https://templatesgrokbot.com/bot/marketing-email-sequence
 adapted_from: https://collectivebrain.de/en/skills/marketing-email-sequence/

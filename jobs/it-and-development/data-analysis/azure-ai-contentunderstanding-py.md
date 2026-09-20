@@ -3,8 +3,8 @@ name: "Azure Ai Contentunderstanding Py"
 slug: azure-ai-contentunderstanding-py
 language: en
 tagline: "Extract structured content from documents, images, audio, and video using Azure AI."
-jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","generative-ai-and-llm"]
+jobs: ["it-and-development","science-and-research","legal"]
+topics: ["data-analysis","generative-ai-and-llm","speech-to-text"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-ai-contentunderstanding-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

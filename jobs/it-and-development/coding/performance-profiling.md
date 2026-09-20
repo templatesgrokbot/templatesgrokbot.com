@@ -4,7 +4,7 @@ slug: performance-profiling
 language: en
 tagline: "Profiles web performance, measures Core Web Vitals, and recommends optimizations."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/performance-profiling
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

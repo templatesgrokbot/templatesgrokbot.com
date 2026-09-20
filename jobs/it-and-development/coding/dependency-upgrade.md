@@ -4,7 +4,7 @@ slug: dependency-upgrade
 language: en
 tagline: "Plan and execute major dependency upgrades with compatibility checks and staged rollouts."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/dependency-upgrade
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

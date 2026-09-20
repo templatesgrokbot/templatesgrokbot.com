@@ -4,7 +4,7 @@ slug: molfeat
 language: en
 tagline: "Converts molecular SMILES strings into numerical feature vectors for machine learning."
 jobs: ["science-and-research","it-and-development"]
-topics: ["data-analysis","research"]
+topics: ["data-analysis","research","coding"]
 category: research
 url: https://templatesgrokbot.com/bot/molfeat
 adapted_from: https://www.aitmpl.com/component/skills/scientific/molfeat

@@ -3,7 +3,7 @@ name: "Ghidra Reverse"
 slug: ghidra-reverse
 language: en
 tagline: "Reverse engineer binaries with Ghidra: decompile, script, and analyze headlessly."
-jobs: ["it-and-development"]
+jobs: ["it-and-development","science-and-research"]
 topics: ["coding","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ghidra-reverse

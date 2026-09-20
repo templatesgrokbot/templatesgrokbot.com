@@ -4,7 +4,7 @@ slug: technical-tutorials
 language: en
 tagline: "Create step-by-step technical tutorials, quickstarts, and code walkthroughs."
 jobs: ["education","it-and-development"]
-topics: ["teaching-and-tutoring","writing-and-content"]
+topics: ["teaching-and-tutoring","writing-and-content","cloud-and-devops"]
 category: education
 url: https://templatesgrokbot.com/bot/technical-tutorials
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/technical-tutorials

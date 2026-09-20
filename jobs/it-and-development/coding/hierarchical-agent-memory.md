@@ -4,7 +4,7 @@ slug: hierarchical-agent-memory
 language: en
 tagline: "Scoped memory system that gives AI coding agents a cheat sheet for each directory instead of re-reading your entire project every prompt. Root CLAUDE."
 jobs: ["it-and-development"]
-topics: ["coding","knowledge-management"]
+topics: ["coding","knowledge-management","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hierarchical-agent-memory
 adapted_from: https://github.com/kromahlusenii-ops/ham

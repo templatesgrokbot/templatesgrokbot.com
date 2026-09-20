@@ -4,7 +4,7 @@ slug: command-development
 language: en
 tagline: "Creates and manages slash commands for Claude Code from markdown templates."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","generative-ai-and-llm","prompt-engineering"]
 category: operations
 url: https://templatesgrokbot.com/bot/command-development
 adapted_from: https://www.aitmpl.com/component/skills/development/command-development

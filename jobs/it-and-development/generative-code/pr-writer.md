@@ -4,7 +4,7 @@ slug: pr-writer
 language: en
 tagline: "Create structured pull requests following Sentry engineering practices from committed branch diffs."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code","coding"]
+topics: ["generative-code","coding","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/pr-writer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

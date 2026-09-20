@@ -3,8 +3,8 @@ name: "Email Composer"
 slug: email-composer
 language: en
 tagline: "Drafts professional emails for business, technical, and customer contexts."
-jobs: ["operations","marketing","sales"]
-topics: ["writing-and-content","office-tools"]
+jobs: ["operations","marketing","sales","customer-support","human-resources"]
+topics: ["writing-and-content","office-tools","sales-and-negotiation"]
 category: operations
 url: https://templatesgrokbot.com/bot/email-composer
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/email-composer

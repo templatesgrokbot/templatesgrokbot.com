@@ -4,7 +4,7 @@ slug: eas-update-insights
 language: en
 tagline: "Query EAS Update health metrics: crash rates, adoption, bundle size, and embedded vs OTA user splits."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/eas-update-insights
 adapted_from: https://github.com/expo/skills/tree/main/plugins/expo/skills/eas-update-insights

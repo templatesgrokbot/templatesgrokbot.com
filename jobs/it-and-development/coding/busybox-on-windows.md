@@ -4,7 +4,7 @@ slug: busybox-on-windows
 language: en
 tagline: "Guide users to install and run BusyBox UNIX tools on Windows via a single binary."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","support-and-community","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/busybox-on-windows
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

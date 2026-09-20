@@ -4,7 +4,7 @@ slug: delegating-to-agents
 language: en
 tagline: "Delegate bounded work to other AI agents with full context and progress checks."
 jobs: ["it-and-development","operations"]
-topics: ["generative-ai-and-llm","productivity"]
+topics: ["generative-ai-and-llm","productivity","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/delegating-to-agents
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

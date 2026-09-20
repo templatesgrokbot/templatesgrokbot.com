@@ -4,7 +4,7 @@ slug: developer-sandbox
 language: en
 tagline: "Design and build interactive playgrounds that let developers experience your product without commitment."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","generative-code","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/developer-sandbox
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/developer-sandbox

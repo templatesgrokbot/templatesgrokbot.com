@@ -3,8 +3,8 @@ name: "Screenshot Reviewer"
 slug: screenshot-reviewer
 language: en
 tagline: "Reviews task lists against screenshots for completeness, consistency, and quality."
-jobs: ["operations","product-development"]
-topics: ["design","productivity"]
+jobs: ["operations","product-development","it-and-development"]
+topics: ["design","productivity","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/screenshot-reviewer
 adapted_from: https://www.aitmpl.com/component/agents/ui-analysis/screenshot-reviewer

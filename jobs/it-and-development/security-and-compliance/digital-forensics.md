@@ -3,7 +3,7 @@ name: "Digital Forensics"
 slug: digital-forensics
 language: en
 tagline: "Authorized digital forensics: memory, disk, PCAP, and artifact triage for incident response."
-jobs: ["it-and-development","operations"]
+jobs: ["it-and-development","operations","government"]
 topics: ["security-and-compliance","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/digital-forensics

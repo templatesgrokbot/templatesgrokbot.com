@@ -4,7 +4,7 @@ slug: vaex
 language: en
 tagline: "Process and analyze large tabular datasets that exceed available RAM using Vaex's out-of-core capabilities."
 jobs: ["it-and-development","science-and-research","operations"]
-topics: ["data-analysis","coding"]
+topics: ["data-analysis","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/vaex
 adapted_from: https://www.aitmpl.com/component/skills/scientific/vaex

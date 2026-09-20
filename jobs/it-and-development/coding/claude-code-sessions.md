@@ -4,7 +4,7 @@ slug: claude-code-sessions
 language: en
 tagline: "Search, analyze, and manage Claude Code session history from your local files."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","data-analysis","research"]
+topics: ["coding","data-analysis","research","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/claude-code-sessions
 adapted_from: https://www.aitmpl.com/component/skills/productivity/claude-code-sessions

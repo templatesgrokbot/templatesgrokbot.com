@@ -3,8 +3,8 @@ name: "Senior Data Scientist"
 slug: senior-data-scientist
 language: en
 tagline: "Design experiments, build predictive models, and perform causal analysis from your data."
-jobs: ["science-and-research","it-and-development"]
-topics: ["data-analysis"]
+jobs: ["science-and-research","it-and-development","government"]
+topics: ["data-analysis","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/senior-data-scientist
 adapted_from: https://www.aitmpl.com/component/skills/development/senior-data-scientist

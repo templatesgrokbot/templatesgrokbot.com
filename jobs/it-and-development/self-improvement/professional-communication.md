@@ -3,7 +3,7 @@ name: "Professional Communication"
 slug: professional-communication
 language: en
 tagline: "Guides developers to write clear emails, messages, and meeting communications."
-jobs: ["it-and-development","management","writers"]
+jobs: ["it-and-development","management","writers","product-development","customer-support"]
 topics: ["self-improvement","writing-and-content","productivity"]
 category: education
 url: https://templatesgrokbot.com/bot/professional-communication

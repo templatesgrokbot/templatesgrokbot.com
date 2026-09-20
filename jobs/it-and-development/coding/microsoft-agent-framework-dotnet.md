@@ -4,7 +4,7 @@ slug: microsoft-agent-framework-dotnet
 language: en
 tagline: "Create and manage .NET code using Microsoft Agent Framework."
 jobs: ["it-and-development"]
-topics: ["coding","generative-ai-and-llm"]
+topics: ["coding","generative-ai-and-llm","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/microsoft-agent-framework-dotnet
 adapted_from: https://www.aitmpl.com/component/agents/data-ai/microsoft-agent-framework-dotnet

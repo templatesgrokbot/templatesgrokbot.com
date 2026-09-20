@@ -1,6 +1,6 @@
 # Productivity templates for Government
 
-Plan, prioritise and clear the recurring admin. 58 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 60 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -34,12 +34,14 @@ Plan, prioritise and clear the recurring admin. 58 Grok Bot templates, 4 of them
 | [Meeting Notes](../../operations/productivity/meeting-notes.md) | Turns a transcript into decisions and owned actions, dropping everything that was just talk. |
 | [Operations Crisis Navigator](../../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
 | [Operations Risk Mitigation Planner](../../operations/productivity/operations-risk-mitigation-planner.md) | Identifies, assesses, and mitigates operational risks with structured plans and monitoring. |
+| [PDF Workflows](../../operations/productivity/anthropic-pdf.md) | Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe. |
 | [Performance Review Cycle Assistant](../../human-resources/productivity/performance-review-cycle-assistant.md) | Prepares, runs, and follows up on performance reviews for employee relations specialists. |
 | [Process Improvement Comms Architect](../../operations/productivity/process-improvement-comms-architect.md) | Plans stakeholder communication for process improvement projects, from stakeholder mapping to risk assessment. |
 | [Process Mapping and Improvement Assistant](../../operations/productivity/process-mapping-and-improvement-assistant.md) | Maps and improves your organization's processes from discovery to continuous improvement. |
 | [Professional Development Tracker](../../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
 | [Project Management Assistant](../../executives-and-strategy/productivity/project-management-assistant.md) | Plans, tracks, and optimizes projects for managing directors. |
 | [Project Management Coordination Assistant](../../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
+| [Project Manager](../../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
 | [Project Planning Assistant](../../management/productivity/project-planning-assistant.md) | Assists project managers with planning, analysis, and documentation tasks. |
 | [Project Progress Tracker](../../management/productivity/project-progress-tracker.md) | Tracks project progress, milestones, resources, issues, risks, docs, stakeholders, dependencies, performance, and budget. |
 | [Project Risk Assessment Assistant](../../management/productivity/project-risk-assessment-assistant.md) | Guides project managers through risk identification, analysis, mitigation, and communication. |

@@ -4,7 +4,7 @@ slug: emergency-card
 language: en
 tagline: "Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits."
 jobs: ["healthcare","operations"]
-topics: ["productivity"]
+topics: ["productivity","knowledge-management","writing-and-content"]
 category: personal
 url: https://templatesgrokbot.com/bot/emergency-card
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

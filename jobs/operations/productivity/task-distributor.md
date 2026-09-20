@@ -3,7 +3,7 @@ name: "Task Distributor"
 slug: task-distributor
 language: en
 tagline: "Distributes tasks across workers to maximize throughput while respecting priorities and deadlines. No hype, no emoji, no 'leverage'/'empower'/'seamles"
-jobs: ["operations","management"]
+jobs: ["operations","management","customer-support"]
 topics: ["productivity"]
 category: operations
 url: https://templatesgrokbot.com/bot/task-distributor

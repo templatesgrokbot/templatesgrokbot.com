@@ -4,7 +4,7 @@ slug: quality-manager-qms-iso13485
 language: en
 tagline: "Helps you implement and maintain an ISO 13485 QMS for medical devices."
 jobs: ["operations","management","it-and-development"]
-topics: ["security-and-compliance","knowledge-management"]
+topics: ["security-and-compliance","knowledge-management","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/quality-manager-qms-iso13485
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/quality-manager-qms-iso13485

@@ -4,7 +4,7 @@ slug: makepad-layout
 language: en
 tagline: "Generate Makepad layout code with Walk, Align, Fit, Fill, flow, padding, and spacing."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code","coding"]
+topics: ["generative-code","coding","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/makepad-layout
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

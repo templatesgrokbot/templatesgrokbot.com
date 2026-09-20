@@ -1,11 +1,12 @@
 # Productivity templates for Sales
 
-Plan, prioritise and clear the recurring admin. 7 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 8 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Notion Meeting Intelligence](../../management/productivity/notion-meeting-intelligence.md) | Prep meeting agendas and pre-reads using Notion context and Codex research. |
 | [Pharma Event Planning Assistant](pharma-event-planning-assistant.md) | Plans, promotes, and manages pharmaceutical events and conferences end-to-end. |
 | [Pipedrive Automation](../../operations/productivity/pipedrive-automation.md) | Automate Pipedrive CRM deals, contacts, activities, and notes via Rube MCP. |
 | [Real Estate Time Efficiency Planner](../../real-estate-and-construction/productivity/real-estate-time-efficiency-planner.md) | Organizes your real estate schedule, priorities, and workflows to save time and boost productivity. |

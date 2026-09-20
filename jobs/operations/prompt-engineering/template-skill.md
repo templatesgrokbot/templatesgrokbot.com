@@ -3,8 +3,8 @@ name: "Template Builder"
 slug: template-skill
 language: en
 tagline: "Replace with description of the template and when Claude should use it."
-jobs: ["operations"]
-topics: ["prompt-engineering"]
+jobs: ["operations","it-and-development"]
+topics: ["prompt-engineering","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/template-skill
 adapted_from: https://www.aitmpl.com/component/skills/utilities/template-skill

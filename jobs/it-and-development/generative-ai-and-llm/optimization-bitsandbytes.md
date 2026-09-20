@@ -3,8 +3,8 @@ name: "Optimization Bitsandbytes"
 slug: optimization-bitsandbytes
 language: en
 tagline: "Quantizes LLMs to 8-bit or 4-bit to cut memory use by 50-75% for fitting larger models or faster inference."
-jobs: ["it-and-development"]
-topics: ["generative-ai-and-llm"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/optimization-bitsandbytes
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/optimization-bitsandbytes

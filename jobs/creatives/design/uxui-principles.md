@@ -4,7 +4,7 @@ slug: uxui-principles
 language: en
 tagline: "Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio"
 jobs: ["creatives","product-development"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/uxui-principles
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

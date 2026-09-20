@@ -4,7 +4,7 @@ slug: incident-runbook-templates
 language: en
 tagline: "Generate incident response runbooks with detection, triage, and mitigation steps."
 jobs: ["operations","it-and-development"]
-topics: ["cloud-and-devops","security-and-compliance"]
+topics: ["cloud-and-devops","security-and-compliance","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/incident-runbook-templates
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

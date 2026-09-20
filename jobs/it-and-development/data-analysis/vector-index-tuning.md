@@ -4,7 +4,7 @@ slug: vector-index-tuning
 language: en
 tagline: "Optimize vector index latency, recall, and memory for production."
 jobs: ["it-and-development"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/vector-index-tuning
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

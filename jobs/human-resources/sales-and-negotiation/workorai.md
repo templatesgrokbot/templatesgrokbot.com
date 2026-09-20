@@ -4,7 +4,7 @@ slug: workorai
 language: en
 tagline: "Matches candidates to jobs and employers to candidates with transparent explanations."
 jobs: ["human-resources","sales","operations"]
-topics: ["sales-and-negotiation"]
+topics: ["sales-and-negotiation","generative-ai-and-llm","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/workorai
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

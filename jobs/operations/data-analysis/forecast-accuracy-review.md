@@ -3,7 +3,7 @@ name: "Forecast Accuracy Review"
 slug: forecast-accuracy-review
 language: en
 tagline: "Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive."
-jobs: ["operations","management"]
+jobs: ["operations","management","science-and-research"]
 topics: ["data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/forecast-accuracy-review

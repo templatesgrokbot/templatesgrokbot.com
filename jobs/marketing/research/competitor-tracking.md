@@ -4,7 +4,7 @@ slug: competitor-tracking
 language: en
 tagline: "Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap."
 jobs: ["marketing","sales","product-development","executives-and-strategy"]
-topics: ["research","marketing-and-growth","sales-and-negotiation"]
+topics: ["research","marketing-and-growth","sales-and-negotiation","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/competitor-tracking
 adapted_from: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/competitor-tracking

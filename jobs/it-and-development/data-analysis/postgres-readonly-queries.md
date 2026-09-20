@@ -3,7 +3,7 @@ name: "Postgres Readonly Queries"
 slug: postgres-readonly-queries
 language: en
 tagline: "Run safe read-only SQL against PostgreSQL with multi-connection support and write protection."
-jobs: ["it-and-development","operations"]
+jobs: ["it-and-development","operations","science-and-research"]
 topics: ["data-analysis","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/postgres-readonly-queries

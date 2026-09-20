@@ -4,7 +4,7 @@ slug: segment-automation
 language: en
 tagline: "Automate Segment CDP operations: track, identify, group, page, alias, and batch events."
 jobs: ["it-and-development","marketing"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","marketing-and-growth"]
 category: engineering
 url: https://templatesgrokbot.com/bot/segment-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

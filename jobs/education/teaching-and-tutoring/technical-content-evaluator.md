@@ -4,7 +4,7 @@ slug: technical-content-evaluator
 language: en
 tagline: "Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback."
 jobs: ["education","it-and-development"]
-topics: ["teaching-and-tutoring","writing-and-content"]
+topics: ["teaching-and-tutoring","writing-and-content","cloud-and-devops"]
 category: education
 url: https://templatesgrokbot.com/bot/technical-content-evaluator
 adapted_from: https://www.aitmpl.com/component/agents/programming-languages/technical-content-evaluator

@@ -4,7 +4,7 @@ slug: gh-image
 language: en
 tagline: "Upload local images to GitHub and embed them in PRs, issues, or comments."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","productivity"]
+topics: ["coding","productivity","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/gh-image
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

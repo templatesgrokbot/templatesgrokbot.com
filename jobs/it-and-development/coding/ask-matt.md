@@ -4,7 +4,7 @@ slug: ask-matt
 language: en
 tagline: "Routes user requests to the right capability or flow in a project repo."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ask-matt
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: azure-web-pubsub-ts
 language: en
 tagline: "Real-time WebSocket messaging with Azure Web PubSub: tokens, groups, events."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-web-pubsub-ts
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

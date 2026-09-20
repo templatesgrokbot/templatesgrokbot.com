@@ -4,7 +4,7 @@ slug: skill-installer
 language: en
 tagline: "Installs curated or custom Codex templates from GitHub repos into the templates directory."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/skill-installer
 adapted_from: https://www.aitmpl.com/component/skills/development/skill-installer

@@ -4,7 +4,7 @@ slug: data-engineer
 language: en
 tagline: "Designs and builds scalable data pipelines, warehouses, and streaming architectures for reliable analytics infrastructure."
 jobs: ["it-and-development","science-and-research"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/data-engineer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

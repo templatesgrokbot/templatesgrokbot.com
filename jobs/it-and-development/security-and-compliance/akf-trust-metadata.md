@@ -3,7 +3,7 @@ name: "Akf Trust Metadata"
 slug: akf-trust-metadata
 language: en
 tagline: "Stamp, inspect, and audit AI file provenance and trust metadata for compliance."
-jobs: ["it-and-development","legal","operations"]
+jobs: ["it-and-development","legal","operations","government"]
 topics: ["security-and-compliance","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/akf-trust-metadata

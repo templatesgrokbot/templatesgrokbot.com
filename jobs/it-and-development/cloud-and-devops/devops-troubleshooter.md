@@ -4,7 +4,7 @@ slug: devops-troubleshooter
 language: en
 tagline: "Diagnoses production incidents using logs, metrics, and traces with systematic root cause analysis."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","support-and-community"]
+topics: ["cloud-and-devops","support-and-community","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/devops-troubleshooter
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: fp-react
 language: en
 tagline: "Practical fp-ts patterns for React: Option, Either, TaskEither, RemoteData, forms, and data fetching."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/fp-react
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

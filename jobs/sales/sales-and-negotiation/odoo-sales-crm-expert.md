@@ -4,7 +4,7 @@ slug: odoo-sales-crm-expert
 language: en
 tagline: "Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions."
 jobs: ["sales","operations"]
-topics: ["sales-and-negotiation"]
+topics: ["sales-and-negotiation","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/odoo-sales-crm-expert
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

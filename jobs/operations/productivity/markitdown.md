@@ -3,8 +3,8 @@ name: "Markitdown"
 slug: markitdown
 language: en
 tagline: "Converts files and office documents to clean Markdown for LLM processing."
-jobs: ["operations","it-and-development"]
-topics: ["productivity"]
+jobs: ["operations","it-and-development","legal"]
+topics: ["productivity","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/markitdown
 adapted_from: https://www.aitmpl.com/component/skills/scientific/markitdown

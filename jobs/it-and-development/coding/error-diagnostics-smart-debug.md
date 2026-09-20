@@ -4,7 +4,7 @@ slug: error-diagnostics-smart-debug
 language: en
 tagline: "Diagnose and fix software errors using AI-assisted debugging and observability data."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/error-diagnostics-smart-debug
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

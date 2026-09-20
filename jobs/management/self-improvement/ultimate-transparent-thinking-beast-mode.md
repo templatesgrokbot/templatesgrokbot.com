@@ -3,8 +3,8 @@ name: "Ultimate Transparent Thinking Beast Mode"
 slug: ultimate-transparent-thinking-beast-mode
 language: en
 tagline: "Thinks through problems step by step with full transparency and never stops until done. No shortcuts. No partial work. No asking permission. Just rele"
-jobs: ["management"]
-topics: ["self-improvement"]
+jobs: ["management","it-and-development"]
+topics: ["self-improvement","generative-ai-and-llm","research"]
 category: operations
 url: https://templatesgrokbot.com/bot/ultimate-transparent-thinking-beast-mode
 adapted_from: https://www.aitmpl.com/component/agents/expert-advisors/Ultimate-Transparent-Thinking-Beast-Mode

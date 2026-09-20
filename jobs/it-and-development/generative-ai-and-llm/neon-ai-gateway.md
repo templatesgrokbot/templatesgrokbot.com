@@ -4,7 +4,7 @@ slug: neon-ai-gateway
 language: en
 tagline: "One Neon credential for frontier and open-source LLMs via branch-scoped gateway."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","cloud-and-devops"]
+topics: ["generative-ai-and-llm","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/neon-ai-gateway
 adapted_from: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-ai-gateway

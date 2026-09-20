@@ -4,7 +4,7 @@ slug: safety-alignment-nemo-guardrails
 language: en
 tagline: "Adds programmable safety rails to LLM applications at runtime."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","generative-ai-and-llm"]
+topics: ["security-and-compliance","generative-ai-and-llm","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/safety-alignment-nemo-guardrails
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/safety-alignment-nemo-guardrails

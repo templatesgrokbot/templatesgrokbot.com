@@ -4,7 +4,7 @@ slug: game-development
 language: en
 tagline: "Routes game projects to correct platform, dimension, and specialty sub-capabilities."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-code","coding"]
+topics: ["generative-code","coding","design"]
 category: engineering
 url: https://templatesgrokbot.com/bot/game-development
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

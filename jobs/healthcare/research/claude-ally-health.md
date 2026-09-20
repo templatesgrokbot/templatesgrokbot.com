@@ -4,7 +4,7 @@ slug: claude-ally-health
 language: en
 tagline: "Analyzes medical info, tracks symptoms, and guides wellness—no diagnosis, no treatment plans, no prescriptions."
 jobs: ["healthcare"]
-topics: ["research","self-improvement"]
+topics: ["research","self-improvement","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/claude-ally-health
 adapted_from: https://github.com/huifer/Claude-Ally-Health

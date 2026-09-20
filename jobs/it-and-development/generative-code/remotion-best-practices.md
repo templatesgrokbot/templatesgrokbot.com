@@ -4,7 +4,7 @@ slug: remotion-best-practices
 language: en
 tagline: "Explain Remotion best practices by referencing rule files without writing code."
 jobs: ["it-and-development","creatives","product-development"]
-topics: ["generative-code","coding","generative-video"]
+topics: ["generative-code","coding","generative-video","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/remotion-best-practices
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

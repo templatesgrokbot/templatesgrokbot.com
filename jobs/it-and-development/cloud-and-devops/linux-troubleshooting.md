@@ -4,7 +4,7 @@ slug: linux-troubleshooting
 language: en
 tagline: "Diagnose and resolve Linux system issues with structured troubleshooting phases."
 jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","support-and-community"]
+topics: ["cloud-and-devops","support-and-community","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/linux-troubleshooting
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: capa-officer
 language: en
 tagline: "Manage CAPA records from initiation to closure, tracking root cause analysis and effectiveness verification."
 jobs: ["operations","management"]
-topics: ["knowledge-management"]
+topics: ["knowledge-management","security-and-compliance","office-tools","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/capa-officer
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/capa-officer

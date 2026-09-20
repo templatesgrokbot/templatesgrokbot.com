@@ -3,8 +3,8 @@ name: "Footballbin Predictions"
 slug: footballbin-predictions
 language: en
 tagline: "Fetches AI-powered match predictions for Premier League and Champions League matches."
-jobs: ["marketing","sales"]
-topics: ["data-analysis"]
+jobs: ["marketing","sales","it-and-development"]
+topics: ["data-analysis","generative-ai-and-llm"]
 category: personal
 url: https://templatesgrokbot.com/bot/footballbin-predictions
 adapted_from: https://www.aitmpl.com/component/skills/sports/footballbin-predictions

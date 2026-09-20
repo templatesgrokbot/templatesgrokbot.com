@@ -4,7 +4,7 @@ slug: hugging-face-cli
 language: en
 tagline: "Manage Hugging Face Hub resources via CLI: download, upload, sync, cache, auth, buckets, collections."
 jobs: ["it-and-development","science-and-research"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/hugging-face-cli
 adapted_from: https://github.com/huggingface/skills/tree/main/skills/hf-cli

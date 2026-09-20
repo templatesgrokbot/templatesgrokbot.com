@@ -4,7 +4,7 @@ slug: post-training-simpo
 language: en
 tagline: "Aligns LLMs with preference data using SimPO, a reference-free alternative to DPO."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm","research"]
+topics: ["generative-ai-and-llm","research","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/post-training-simpo
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/post-training-simpo

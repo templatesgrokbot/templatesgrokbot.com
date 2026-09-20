@@ -4,7 +4,7 @@ slug: arch
 language: en
 tagline: "Creates comprehensive architecture diagrams and documentation for cloud-native systems."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","generative-code","design"]
+topics: ["cloud-and-devops","generative-code","design","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/arch
 adapted_from: https://www.aitmpl.com/component/agents/documentation/arch

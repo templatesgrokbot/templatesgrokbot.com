@@ -4,7 +4,7 @@ slug: ui-ux-designer
 language: en
 tagline: "Reviews UI/UX designs with research-backed critiques and accessibility compliance checks."
 jobs: ["creatives","product-development"]
-topics: ["design","generative-ai-and-llm"]
+topics: ["design","generative-ai-and-llm","research"]
 category: creative
 url: https://templatesgrokbot.com/bot/ui-ux-designer
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

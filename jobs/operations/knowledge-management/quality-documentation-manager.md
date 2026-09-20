@@ -4,7 +4,7 @@ slug: quality-documentation-manager
 language: en
 tagline: "Manages document control, change control, and regulatory documentation compliance for medical device organizations."
 jobs: ["operations","management","it-and-development"]
-topics: ["knowledge-management","security-and-compliance"]
+topics: ["knowledge-management","security-and-compliance","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/quality-documentation-manager
 adapted_from: https://www.aitmpl.com/component/skills/enterprise-communication/quality-documentation-manager

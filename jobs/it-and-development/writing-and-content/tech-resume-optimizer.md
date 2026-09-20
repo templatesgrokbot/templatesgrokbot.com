@@ -4,7 +4,7 @@ slug: tech-resume-optimizer
 language: en
 tagline: "Optimizes technical resumes for software engineering, PM, data, and DevOps roles."
 jobs: ["it-and-development","human-resources"]
-topics: ["writing-and-content"]
+topics: ["writing-and-content","cloud-and-devops"]
 category: operations
 url: https://templatesgrokbot.com/bot/tech-resume-optimizer
 adapted_from: https://www.aitmpl.com/component/skills/career/tech-resume-optimizer

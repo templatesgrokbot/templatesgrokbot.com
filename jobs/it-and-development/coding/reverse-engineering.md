@@ -3,8 +3,8 @@ name: "Reverse Engineering"
 slug: reverse-engineering
 language: en
 tagline: "Reverse-engineer binaries with GDB, Frida, angr, Unicorn, Qiling, and anti-analysis countermeasures."
-jobs: ["it-and-development"]
-topics: ["coding","security-and-compliance"]
+jobs: ["it-and-development","science-and-research"]
+topics: ["coding","security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/reverse-engineering
 adapted_from: https://github.com/zhaoxuya520/reverse-skill

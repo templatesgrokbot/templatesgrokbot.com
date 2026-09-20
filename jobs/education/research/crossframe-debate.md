@@ -3,7 +3,7 @@ name: "Crossframe Debate"
 slug: crossframe-debate
 language: en
 tagline: "Analyze propositions, debate structures, and withdrawal conditions using CrossFrame."
-jobs: ["education","legal"]
+jobs: ["education","legal","science-and-research"]
 topics: ["research","writing-and-content"]
 category: research
 url: https://templatesgrokbot.com/bot/crossframe-debate

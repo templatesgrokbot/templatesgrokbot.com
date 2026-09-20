@@ -3,8 +3,8 @@ name: "Invoice Chaser"
 slug: invoice-chaser
 language: en
 tagline: "Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client."
-jobs: ["finance","operations"]
-topics: ["productivity"]
+jobs: ["finance","operations","real-estate-and-construction"]
+topics: ["productivity","office-tools","writing-and-content"]
 category: finance
 url: https://templatesgrokbot.com/bot/invoice-chaser
 ---

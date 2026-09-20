@@ -3,8 +3,8 @@ name: "Googlesheets Automation"
 slug: googlesheets-automation
 language: en
 tagline: "Read, write, format, filter, and manage Google Sheets via Rube MCP."
-jobs: ["operations","it-and-development"]
-topics: ["office-tools","productivity"]
+jobs: ["operations","it-and-development","finance"]
+topics: ["office-tools","productivity","data-analysis"]
 category: operations
 url: https://templatesgrokbot.com/bot/googlesheets-automation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

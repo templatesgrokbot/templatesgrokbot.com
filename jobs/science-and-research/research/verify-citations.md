@@ -3,7 +3,7 @@ name: "Verify Citations"
 slug: verify-citations
 language: en
 tagline: "Check citations in documents against real sources and flag unsupported claims. No truth verdicts, just coverage."
-jobs: ["science-and-research"]
+jobs: ["science-and-research","writers","legal"]
 topics: ["research"]
 category: research
 url: https://templatesgrokbot.com/bot/verify-citations

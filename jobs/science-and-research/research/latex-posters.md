@@ -4,7 +4,7 @@ slug: latex-posters
 language: en
 tagline: "Create professional research posters in LaTeX for conferences and academic events."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","design"]
 category: research
 url: https://templatesgrokbot.com/bot/latex-posters
 adapted_from: https://www.aitmpl.com/component/skills/scientific/latex-posters

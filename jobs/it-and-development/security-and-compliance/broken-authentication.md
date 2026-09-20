@@ -4,7 +4,7 @@ slug: broken-authentication
 language: en
 tagline: "Guide systematic testing of authentication and session vulnerabilities."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance"]
+topics: ["security-and-compliance","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/broken-authentication
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

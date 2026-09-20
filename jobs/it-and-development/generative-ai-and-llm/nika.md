@@ -4,7 +4,7 @@ slug: nika
 language: en
 tagline: "Runs repeatable AI workflows as checked, budgeted YAML files with tamper-evident receipts."
 jobs: ["it-and-development","operations"]
-topics: ["generative-ai-and-llm","cloud-and-devops"]
+topics: ["generative-ai-and-llm","cloud-and-devops","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/nika
 adapted_from: https://github.com/supernovae-st/nika-agents/tree/main/skills/nika

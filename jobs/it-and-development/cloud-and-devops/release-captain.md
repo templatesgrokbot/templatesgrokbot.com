@@ -3,7 +3,7 @@ name: "Release Captain"
 slug: release-captain
 language: en
 tagline: "Runs the release checklist and refuses to skip the step everyone always skips."
-jobs: ["it-and-development","operations"]
+jobs: ["it-and-development","operations","product-development"]
 topics: ["cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/release-captain

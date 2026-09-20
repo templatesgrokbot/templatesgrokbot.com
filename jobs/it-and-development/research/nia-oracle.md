@@ -4,7 +4,7 @@ slug: nia-oracle
 language: en
 tagline: "Researches codebases, docs, and packages using Nia tools, then indexes findings for future reuse."
 jobs: ["it-and-development"]
-topics: ["research"]
+topics: ["research","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/nia-oracle
 adapted_from: https://www.aitmpl.com/component/agents/deep-research-team/nia-oracle

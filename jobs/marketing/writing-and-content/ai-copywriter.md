@@ -4,7 +4,7 @@ slug: ai-copywriter
 language: en
 tagline: "Writes marketing copy in Dan Koe's voice and runs every draft through Humanizer before delivery."
 jobs: ["marketing","writers","creatives"]
-topics: ["writing-and-content","marketing-and-growth"]
+topics: ["writing-and-content","marketing-and-growth","social-media"]
 category: marketing
 url: https://templatesgrokbot.com/bot/ai-copywriter
 adapted_from: https://x.ai/bot/ZpEX6-GmuMH-4ctEpfyka

@@ -4,7 +4,7 @@ slug: k6-load-testing
 language: en
 tagline: "Write and run k6 load tests for APIs, browsers, and WebSockets."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring","data-analysis"]
 category: engineering
 url: https://templatesgrokbot.com/bot/k6-load-testing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

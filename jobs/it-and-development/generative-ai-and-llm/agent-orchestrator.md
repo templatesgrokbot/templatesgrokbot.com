@@ -4,7 +4,7 @@ slug: agent-orchestrator
 language: en
 tagline: "Automatically orchestrates ecosystem capabilities via scan, match, and multi-capability workflow."
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm","prompt-engineering"]
+topics: ["generative-ai-and-llm","prompt-engineering","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agent-orchestrator
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

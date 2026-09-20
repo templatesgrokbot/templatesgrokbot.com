@@ -4,7 +4,7 @@ slug: issues
 language: en
 tagline: "Create, list, and view GitHub issues via guided workflows."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/issues
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

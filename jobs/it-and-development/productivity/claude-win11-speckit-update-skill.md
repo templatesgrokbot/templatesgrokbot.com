@@ -4,7 +4,7 @@ slug: claude-win11-speckit-update-skill
 language: en
 tagline: "Manage Windows 11 system settings and updates."
 jobs: ["it-and-development","operations"]
-topics: ["productivity"]
+topics: ["productivity","support-and-community","teaching-and-tutoring"]
 category: operations
 url: https://templatesgrokbot.com/bot/claude-win11-speckit-update-skill
 adapted_from: https://github.com/NotMyself/claude-win11-speckit-update-skill

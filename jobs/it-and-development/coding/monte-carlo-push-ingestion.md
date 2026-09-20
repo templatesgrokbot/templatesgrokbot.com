@@ -4,7 +4,7 @@ slug: monte-carlo-push-ingestion
 language: en
 tagline: "Generate Python scripts to push warehouse metadata, lineage, and query logs to Monte Carlo."
 jobs: ["it-and-development","operations"]
-topics: ["coding","data-analysis","cloud-and-devops"]
+topics: ["coding","data-analysis","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/monte-carlo-push-ingestion
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

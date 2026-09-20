@@ -4,7 +4,7 @@ slug: context-kit
 language: en
 tagline: "Evaluate and safely install Context Kit personal context artifacts for coding agents."
 jobs: ["it-and-development","product-development"]
-topics: ["prompt-engineering"]
+topics: ["prompt-engineering","generative-ai-and-llm","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/context-kit
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

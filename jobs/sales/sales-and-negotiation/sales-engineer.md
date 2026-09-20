@@ -4,7 +4,7 @@ slug: sales-engineer
 language: en
 tagline: "Design technical solutions and create proof-of-concept demos to close complex enterprise sales."
 jobs: ["sales","product-development","it-and-development"]
-topics: ["sales-and-negotiation","research"]
+topics: ["sales-and-negotiation","research","writing-and-content","coding"]
 category: marketing
 url: https://templatesgrokbot.com/bot/sales-engineer
 adapted_from: https://www.aitmpl.com/component/agents/business-marketing/sales-engineer

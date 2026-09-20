@@ -3,7 +3,7 @@ name: "Social Media Copywriter"
 slug: social-media-copywriter
 language: en
 tagline: "Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact "
-jobs: ["marketing","creatives","pr-and-communications"]
+jobs: ["marketing","creatives","pr-and-communications","writers"]
 topics: ["social-media","writing-and-content"]
 category: operations
 url: https://templatesgrokbot.com/bot/social-media-copywriter

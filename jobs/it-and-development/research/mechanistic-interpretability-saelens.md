@@ -4,7 +4,7 @@ slug: mechanistic-interpretability-saelens
 language: en
 tagline: "Trains and analyzes Sparse Autoencoders to find interpretable features in neural networks."
 jobs: ["it-and-development","science-and-research"]
-topics: ["research"]
+topics: ["research","generative-ai-and-llm","teaching-and-tutoring"]
 category: research
 url: https://templatesgrokbot.com/bot/mechanistic-interpretability-saelens
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/mechanistic-interpretability-saelens

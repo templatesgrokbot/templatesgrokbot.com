@@ -4,7 +4,7 @@ slug: using-superpowers
 language: en
 tagline: "Checks for applicable capabilities before every response or action, and uses them exactly."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-ai-and-llm","voice-modulation"]
 category: engineering
 url: https://templatesgrokbot.com/bot/using-superpowers
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

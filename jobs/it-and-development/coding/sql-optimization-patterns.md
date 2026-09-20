@@ -4,7 +4,7 @@ slug: sql-optimization-patterns
 language: en
 tagline: "Systematically optimize slow SQL queries with indexing and plan analysis."
 jobs: ["it-and-development"]
-topics: ["coding","data-analysis"]
+topics: ["coding","data-analysis","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/sql-optimization-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

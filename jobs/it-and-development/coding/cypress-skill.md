@@ -4,7 +4,7 @@ slug: cypress-skill
 language: en
 tagline: "Generates production-grade Cypress E2E and component tests in JS/TS."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cypress-skill
 adapted_from: https://github.com/LambdaTest/agent-skills/tree/main/cypress-skill

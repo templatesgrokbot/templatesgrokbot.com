@@ -4,7 +4,7 @@ slug: video-downloader
 language: en
 tagline: "Downloads videos from YouTube and other platforms for offline viewing, editing, or archival."
 jobs: ["creatives","it-and-development"]
-topics: ["video-editing"]
+topics: ["video-editing","knowledge-management"]
 category: operations
 url: https://templatesgrokbot.com/bot/video-downloader
 adapted_from: https://www.aitmpl.com/component/skills/media/video-downloader

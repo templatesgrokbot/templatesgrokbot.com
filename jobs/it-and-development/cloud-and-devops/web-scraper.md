@@ -3,8 +3,8 @@ name: "Web Scraper"
 slug: web-scraper
 language: en
 tagline: "Extracts structured data from web pages with pagination and CSV/JSON export."
-jobs: ["it-and-development","operations"]
-topics: ["cloud-and-devops","data-analysis"]
+jobs: ["it-and-development","operations","science-and-research"]
+topics: ["cloud-and-devops","data-analysis","productivity"]
 category: engineering
 url: https://templatesgrokbot.com/bot/web-scraper
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

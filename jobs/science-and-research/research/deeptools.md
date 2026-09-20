@@ -4,7 +4,7 @@ slug: deeptools
 language: en
 tagline: "Converts BAM files to normalized coverage tracks and generates QC metrics and visualizations for NGS experiments."
 jobs: ["science-and-research"]
-topics: ["research"]
+topics: ["research","data-analysis"]
 category: research
 url: https://templatesgrokbot.com/bot/deeptools
 adapted_from: https://www.aitmpl.com/component/skills/scientific/deeptools

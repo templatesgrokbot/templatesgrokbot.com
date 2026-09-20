@@ -4,7 +4,7 @@ slug: social-metadata-hardening
 language: en
 tagline: "Fix social sharing previews so URLs render as rich cards on all platforms."
 jobs: ["marketing","it-and-development","operations"]
-topics: ["marketing-and-growth"]
+topics: ["marketing-and-growth","social-media","coding"]
 category: operations
 url: https://templatesgrokbot.com/bot/social-metadata-hardening
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

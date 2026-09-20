@@ -3,7 +3,7 @@ name: "Spreadsheet"
 slug: spreadsheet
 language: en
 tagline: "Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references."
-jobs: ["finance","operations","it-and-development"]
+jobs: ["finance","operations","it-and-development","science-and-research","government"]
 topics: ["data-analysis","office-tools"]
 category: operations
 url: https://templatesgrokbot.com/bot/spreadsheet

@@ -4,7 +4,7 @@ slug: distributed-training-pytorch-fsdp
 language: en
 tagline: "Provides expert guidance for implementing Fully Sharded Data Parallel training with PyTorch FSDP."
 jobs: ["it-and-development","science-and-research"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/distributed-training-pytorch-fsdp
 adapted_from: https://www.aitmpl.com/component/skills/ai-research/distributed-training-pytorch-fsdp

@@ -4,7 +4,7 @@ slug: m365-agents-dotnet
 language: en
 tagline: "Build multichannel agents for Microsoft 365, Teams, and Copilot Studio with .NET."
 jobs: ["it-and-development"]
-topics: ["cloud-and-devops","generative-code"]
+topics: ["cloud-and-devops","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/m365-agents-dotnet
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

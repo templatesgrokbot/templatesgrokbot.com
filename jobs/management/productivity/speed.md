@@ -4,7 +4,7 @@ slug: speed
 language: en
 tagline: "Launch RSVP speed reader with Spritz-style word-by-word display."
 jobs: ["management","education"]
-topics: ["productivity","self-improvement"]
+topics: ["productivity","self-improvement","coding"]
 category: personal
 url: https://templatesgrokbot.com/bot/speed
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

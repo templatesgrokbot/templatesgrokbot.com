@@ -4,7 +4,7 @@ slug: awt-e2e-testing
 language: en
 tagline: "Run declarative YAML E2E tests with AI-powered visual matching and Playwright."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","knowledge-management"]
 category: engineering
 url: https://templatesgrokbot.com/bot/awt-e2e-testing
 adapted_from: https://github.com/ksgisang/awt-skill

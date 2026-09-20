@@ -4,7 +4,7 @@ slug: wordpress-penetration-testing
 language: en
 tagline: "Assess WordPress sites for vulnerabilities and enumerate users, themes, plugins."
 jobs: ["it-and-development"]
-topics: ["security-and-compliance","coding"]
+topics: ["security-and-compliance","coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/wordpress-penetration-testing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: seek-and-analyze-video
 language: en
 tagline: "Search, import, and analyze video content with persistent memory across sessions."
 jobs: ["it-and-development","marketing","science-and-research"]
-topics: ["research","data-analysis","generative-video"]
+topics: ["research","data-analysis","generative-video","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/seek-and-analyze-video
 adapted_from: https://github.com/kennyzheng-builds/seek-and-analyze-video

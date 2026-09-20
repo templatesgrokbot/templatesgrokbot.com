@@ -4,7 +4,7 @@ slug: cyberpunk-ui
 language: en
 tagline: "Generate neon-on-black UI with clipped corners and glitch accents."
 jobs: ["creatives","it-and-development"]
-topics: ["design","generative-code"]
+topics: ["design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/cyberpunk-ui
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

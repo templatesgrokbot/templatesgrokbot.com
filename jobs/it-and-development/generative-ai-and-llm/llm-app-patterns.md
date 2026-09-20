@@ -4,7 +4,7 @@ slug: llm-app-patterns
 language: en
 tagline: "Production patterns for RAG, agents, and LLMOps with architectural advice and code examples."
 jobs: ["it-and-development","product-development","science-and-research"]
-topics: ["generative-ai-and-llm","prompt-engineering","coding"]
+topics: ["generative-ai-and-llm","prompt-engineering","coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/llm-app-patterns
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

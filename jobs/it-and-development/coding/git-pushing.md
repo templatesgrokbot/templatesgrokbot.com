@@ -4,7 +4,7 @@ slug: git-pushing
 language: en
 tagline: "Stage, commit, and push intended git changes with conventional commit messages."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","cloud-and-devops"]
 category: engineering
 url: https://templatesgrokbot.com/bot/git-pushing
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

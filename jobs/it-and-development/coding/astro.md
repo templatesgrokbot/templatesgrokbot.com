@@ -4,7 +4,7 @@ slug: astro
 language: en
 tagline: "Build content-focused websites with Astro's zero-JS defaults and islands architecture."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","generative-code"]
+topics: ["coding","generative-code","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/astro
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -1,6 +1,6 @@
 # Writing & Content templates for PR and Communications
 
-Plan, write and edit articles, copy and documentation. 52 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 55 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, write and edit articles, copy and documentation. 52 Grok Bot templates, 28
 | [Content Editing Assistant](content-editing-assistant.md) | Edits content for grammar, style, clarity, facts, and audience fit. |
 | [Content Idea Generator](../../writers/writing-and-content/content-idea-generator.md) | Generates content ideas, trends, keywords, and formats for writers. |
 | [Content Repurposing Assistant](../../writers/writing-and-content/content-repurposing-assistant.md) | Repurposes your existing content into fresh formats for wider reach and engagement. |
+| [Copy Editing](../../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
 | [Copywriting Support Assistant](copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
 | [Crisis Communication Content Creator](crisis-communication-content-creator.md) | Crisis content creator for communication managers, drafting and coordinating all crisis messaging. |
 | [Crisis Communication Planner](crisis-communication-planner.md) | Prepares crisis communication plans, messages, and training for communication managers. |
@@ -27,6 +28,7 @@ Plan, write and edit articles, copy and documentation. 52 Grok Bot templates, 28
 | [Digital Content Creation Workspace](digital-content-creation-workspace.md) | Turns research and ideas into polished, scheduled content across all digital platforms for PR specialists. |
 | [Drafting Content Assistant](../../writers/writing-and-content/drafting-content-assistant.md) | Drafts, refines, and optimizes your written content from research to final polish. |
 | [Editorial Trend Analyst](editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
+| [Email Issue Fixer](../../operations/writing-and-content/email-issue-fixer.md) | Proofread emails and strip tracking from links on request, preserving voice. |
 | [Executive Communication Assistant](../../executives-and-strategy/writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
 | [Executive Speech Writer](../../executives-and-strategy/writing-and-content/executive-speech-writer.md) | Crafts and polishes executive speeches from outline to delivery. |
 | [Executive Speechwriter](../../executives-and-strategy/writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
@@ -58,5 +60,6 @@ Plan, write and edit articles, copy and documentation. 52 Grok Bot templates, 28
 | [Stakeholder Engagement Strategist](../../science-and-research/writing-and-content/stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
 | [Strategy VP Comms Studio](../../executives-and-strategy/writing-and-content/strategy-vp-comms-studio.md) | Plans and executes stakeholder communication for strategy VPs. |
 | [Title and Headline Creation Assistant](../../writers/writing-and-content/title-and-headline-creation-assistant.md) | Generates and optimizes titles and headlines for content writers. |
+| [Writing Clearly And Concisely](../../writers/writing-and-content/writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |
 
 [← All PR and Communications templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/pr-and-communications)

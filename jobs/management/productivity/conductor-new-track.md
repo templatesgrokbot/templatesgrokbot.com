@@ -4,7 +4,7 @@ slug: conductor-new-track
 language: en
 tagline: "Create a new track with specification and phased implementation plan."
 jobs: ["management","product-development","it-and-development"]
-topics: ["productivity"]
+topics: ["productivity","writing-and-content"]
 category: engineering
 url: https://templatesgrokbot.com/bot/conductor-new-track
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

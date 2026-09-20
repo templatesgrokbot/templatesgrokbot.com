@@ -4,7 +4,7 @@ slug: ai-native-ui
 language: en
 tagline: "Generate conversational UI with adaptive layouts and generative aesthetics."
 jobs: ["it-and-development","product-development","creatives"]
-topics: ["generative-ai-and-llm","design","generative-code"]
+topics: ["generative-ai-and-llm","design","generative-code","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/ai-native-ui
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: expert-react-frontend-engineer
 language: en
 tagline: "Builds and reviews React 19.2 frontends with modern hooks, TypeScript, and performance optimization."
 jobs: ["it-and-development","product-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/expert-react-frontend-engineer
 adapted_from: https://www.aitmpl.com/component/agents/web-tools/expert-react-frontend-engineer

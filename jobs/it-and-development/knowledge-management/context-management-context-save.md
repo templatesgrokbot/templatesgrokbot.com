@@ -4,7 +4,7 @@ slug: context-management-context-save
 language: en
 tagline: "Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks."
 jobs: ["it-and-development","management"]
-topics: ["knowledge-management","coding"]
+topics: ["knowledge-management","coding","generative-ai-and-llm"]
 category: engineering
 url: https://templatesgrokbot.com/bot/context-management-context-save
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

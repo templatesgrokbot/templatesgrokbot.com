@@ -4,7 +4,7 @@ slug: auction-market-analyst
 language: en
 tagline: "Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions."
 jobs: ["finance","real-estate-and-construction"]
-topics: ["data-analysis"]
+topics: ["data-analysis","research"]
 category: finance
 url: https://templatesgrokbot.com/bot/auction-market-analyst
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

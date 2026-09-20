@@ -3,8 +3,8 @@ name: "Accessibility Review (WCAG 2.1 AA)"
 slug: design-accessibility-review
 language: en
 tagline: "Audits designs and pages for WCAG 2.1 AA accessibility compliance before launch."
-jobs: ["it-and-development","product-development"]
-topics: ["design"]
+jobs: ["it-and-development","product-development","government"]
+topics: ["design","security-and-compliance"]
 category: operations
 url: https://templatesgrokbot.com/bot/design-accessibility-review
 adapted_from: https://collectivebrain.de/en/skills/design-accessibility-review/

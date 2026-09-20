@@ -4,7 +4,7 @@ slug: azure-cosmos-db-py
 language: en
 tagline: "Build production-grade Azure Cosmos DB NoSQL services with clean code and TDD."
 jobs: ["it-and-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/azure-cosmos-db-py
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

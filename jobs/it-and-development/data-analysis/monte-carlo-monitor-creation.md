@@ -4,7 +4,7 @@ slug: monte-carlo-monitor-creation
 language: en
 tagline: "Generate Monte Carlo monitors-as-code YAML for CI/CD deployment."
 jobs: ["it-and-development","operations"]
-topics: ["data-analysis","cloud-and-devops"]
+topics: ["data-analysis","cloud-and-devops","coding"]
 category: engineering
 url: https://templatesgrokbot.com/bot/monte-carlo-monitor-creation
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

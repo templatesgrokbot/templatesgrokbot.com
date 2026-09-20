@@ -4,7 +4,7 @@ slug: reverse-browser-automation
 language: en
 tagline: "Automate browsers and Windows desktop apps for reverse-engineering evidence collection."
 jobs: ["it-and-development","science-and-research"]
-topics: ["research","coding"]
+topics: ["research","coding","security-and-compliance"]
 category: engineering
 url: https://templatesgrokbot.com/bot/reverse-browser-automation
 adapted_from: https://github.com/zhaoxuya520/reverse-skill

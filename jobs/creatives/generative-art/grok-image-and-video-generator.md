@@ -4,7 +4,7 @@ slug: grok-image-and-video-generator
 language: en
 tagline: "Generate images and videos using grok.com/imagine for the owner."
 jobs: ["creatives","marketing"]
-topics: ["generative-art","generative-video"]
+topics: ["generative-art","generative-video","text-to-video"]
 category: creative
 url: https://templatesgrokbot.com/bot/grok-image-and-video-generator
 ---

@@ -4,7 +4,7 @@ slug: frontend-ui-dark-ts
 language: en
 tagline: "Dark-themed React UI system with Tailwind CSS and Framer Motion for dashboards."
 jobs: ["it-and-development","creatives"]
-topics: ["coding","design"]
+topics: ["coding","design","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/frontend-ui-dark-ts
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: agent-development
 language: en
 tagline: "Guide users in creating structured Claude Code plugin agents"
 jobs: ["it-and-development","product-development"]
-topics: ["generative-ai-and-llm"]
+topics: ["generative-ai-and-llm","teaching-and-tutoring","prompt-engineering"]
 category: engineering
 url: https://templatesgrokbot.com/bot/agent-development
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

@@ -4,7 +4,7 @@ slug: salesforce-development
 language: en
 tagline: "Generates Salesforce platform code following expert patterns and avoiding anti-patterns."
 jobs: ["it-and-development","product-development"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/salesforce-development
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

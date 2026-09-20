@@ -4,7 +4,7 @@ slug: api-endpoint-builder
 language: en
 tagline: "Builds production-ready REST API endpoints with validation, auth, and docs."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","generative-code"]
 category: engineering
 url: https://templatesgrokbot.com/bot/api-endpoint-builder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

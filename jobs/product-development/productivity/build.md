@@ -4,7 +4,7 @@ slug: build
 language: en
 tagline: "Guide feature development through research, planning, implementation, and tracking."
 jobs: ["product-development","management","it-and-development"]
-topics: ["productivity","coding"]
+topics: ["productivity","coding","research"]
 category: engineering
 url: https://templatesgrokbot.com/bot/build
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

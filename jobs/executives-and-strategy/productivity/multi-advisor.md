@@ -4,7 +4,7 @@ slug: multi-advisor
 language: en
 tagline: "Consult multiple specialists in parallel for multi-perspective analysis and decision synthesis."
 jobs: ["executives-and-strategy","management","operations"]
-topics: ["productivity","research"]
+topics: ["productivity","research","generative-ai-and-llm"]
 category: operations
 url: https://templatesgrokbot.com/bot/multi-advisor
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

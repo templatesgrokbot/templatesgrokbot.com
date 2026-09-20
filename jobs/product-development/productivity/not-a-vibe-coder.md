@@ -4,7 +4,7 @@ slug: not-a-vibe-coder
 language: en
 tagline: "Turns vague project ideas into 8 structured planning files for new projects only."
 jobs: ["product-development","management","operations"]
-topics: ["productivity"]
+topics: ["productivity","design"]
 category: operations
 url: https://templatesgrokbot.com/bot/not-a-vibe-coder
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

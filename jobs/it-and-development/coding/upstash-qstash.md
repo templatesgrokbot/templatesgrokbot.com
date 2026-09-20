@@ -4,7 +4,7 @@ slug: upstash-qstash
 language: en
 tagline: "Manage Upstash QStash queues, schedules, and HTTP message delivery for serverless apps."
 jobs: ["it-and-development","operations"]
-topics: ["coding","cloud-and-devops"]
+topics: ["coding","cloud-and-devops","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/upstash-qstash
 adapted_from: https://github.com/sickn33/agentic-awesome-skills

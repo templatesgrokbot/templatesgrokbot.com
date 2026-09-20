@@ -4,7 +4,7 @@ slug: robius-app-architecture
 language: en
 tagline: "Structure Makepad apps with async backend integration using Robius patterns."
 jobs: ["it-and-development"]
-topics: ["coding"]
+topics: ["coding","teaching-and-tutoring"]
 category: engineering
 url: https://templatesgrokbot.com/bot/robius-app-architecture
 adapted_from: https://github.com/sickn33/agentic-awesome-skills
