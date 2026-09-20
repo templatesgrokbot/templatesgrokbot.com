@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **679 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **681 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Team leads and project managers. **679 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 186 |
-| [Productivity](productivity/README.md) | 171 |
+| [Data Analysis](data-analysis/README.md) | 187 |
+| [Productivity](productivity/README.md) | 172 |
 | [Research](research/README.md) | 64 |
 | [Coding](coding/README.md) | 44 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 38 |
@@ -44,7 +44,7 @@ Team leads and project managers. **679 ready-made Grok Bot templates** for this 
 | [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
-[All 186 Data Analysis templates →](data-analysis/README.md)
+[All 187 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **679 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 171 Productivity templates →](productivity/README.md)
+[All 172 Productivity templates →](productivity/README.md)
 
 ## Research
 

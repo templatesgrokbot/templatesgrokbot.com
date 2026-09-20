@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **206 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **213 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,16 +11,16 @@ Press, internal comms and reputation. **206 ready-made Grok Bot templates** for 
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 57 |
-| [Writing & Content](writing-and-content/README.md) | 49 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 58 |
+| [Writing & Content](writing-and-content/README.md) | 52 |
 | [Social Media](social-media/README.md) | 28 |
 | [Data Analysis](data-analysis/README.md) | 24 |
-| [Productivity](productivity/README.md) | 17 |
+| [Productivity](productivity/README.md) | 19 |
 | [Research](research/README.md) | 16 |
 | [Design](design/README.md) | 6 |
 | [Support & Community](support-and-community/README.md) | 4 |
+| [Security & Compliance](security-and-compliance/README.md) | 3 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 3 |
-| [Security & Compliance](security-and-compliance/README.md) | 2 |
 
 ## Marketing & Growth
 
@@ -29,6 +29,7 @@ Press, internal comms and reputation. **206 ready-made Grok Bot templates** for 
 | [Audience Segmentation Strategist](marketing-and-growth/audience-segmentation-strategist.md) | Turns customer data into audience segments and targeted marketing strategies. |
 | [Brand Crisis Response Manager](../management/marketing-and-growth/brand-crisis-response-manager.md) | Prepares and guides brand crisis responses from monitoring to recovery. |
 | [Brand Development Manager](../sales/marketing-and-growth/brand-development-manager.md) | Develops and manages a brand's voice, content, and reputation across digital channels. |
+| [Brand Lifecycle Strategist](../executives-and-strategy/marketing-and-growth/brand-lifecycle-strategist.md) | Develops and manages your brand strategy from research to crisis response. |
 | [Brand Messaging Alignment Assistant](marketing-and-growth/brand-messaging-alignment-assistant.md) | Aligns your brand messaging across all channels and teams. |
 | [Brand Messaging and Positioning Assistant](marketing-and-growth/brand-messaging-and-positioning-assistant.md) | Develops, tests, and refines brand messaging and positioning for PR specialists. |
 | [Brand Perception Psychologist](../marketing/marketing-and-growth/brand-perception-psychologist.md) | Diagnose brand perception gaps and prescribe alignment changes using psychological frameworks. |
@@ -109,6 +110,7 @@ Press, internal comms and reputation. **206 ready-made Grok Bot templates** for 
 | [Digital Content Creation Workspace](writing-and-content/digital-content-creation-workspace.md) | Turns research and ideas into polished, scheduled content across all digital platforms for PR specialists. |
 | [Drafting Content Assistant](../writers/writing-and-content/drafting-content-assistant.md) | Drafts, refines, and optimizes your written content from research to final polish. |
 | [Editorial Trend Analyst](writing-and-content/editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
+| [Executive Communication Assistant](../executives-and-strategy/writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
 | [Executive Speech Writer](../executives-and-strategy/writing-and-content/executive-speech-writer.md) | Crafts and polishes executive speeches from outline to delivery. |
 | [Executive Speechwriter](../executives-and-strategy/writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
 | [Headline Crafting Assistant](writing-and-content/headline-crafting-assistant.md) | Crafts and optimizes headlines for editors using research, testing, and performance data. |
@@ -135,7 +137,9 @@ Press, internal comms and reputation. **206 ready-made Grok Bot templates** for 
 | [Speech Writing Assistant](writing-and-content/speech-writing-assistant.md) | Crafts, refines, and tailors speeches for public relations professionals. |
 | [Stakeholder Communication Assistant](writing-and-content/stakeholder-communication-assistant.md) | Drafts, plans, and coordinates all stakeholder communications for PR specialists. |
 | [Stakeholder Communication Coordinator](../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
+| [Stakeholder Communication Director](../executives-and-strategy/writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
 | [Stakeholder Engagement Strategist](../science-and-research/writing-and-content/stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
+| [Strategy VP Comms Studio](../executives-and-strategy/writing-and-content/strategy-vp-comms-studio.md) | Plans and executes stakeholder communication for strategy VPs. |
 | [Title and Headline Creation Assistant](../writers/writing-and-content/title-and-headline-creation-assistant.md) | Generates and optimizes titles and headlines for content writers. |
 
 ## Social Media
@@ -204,6 +208,7 @@ Press, internal comms and reputation. **206 ready-made Grok Bot templates** for 
 
 | Template | What it does |
 |---|---|
+| [Crisis Management Assistant](../executives-and-strategy/productivity/crisis-management-assistant.md) | Crisis management assistant for Managing Directors, covering assessment, communication, and recovery. |
 | [Crisis Management Executive Assistant](../executives-and-strategy/productivity/crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
 | [Crisis Management Planning Assistant](../operations/productivity/crisis-management-planning-assistant.md) | Builds and maintains your crisis management plans, protocols, and training. |
 | [Crisis Plan Builder for Executives](../executives-and-strategy/productivity/crisis-plan-builder-for-executives.md) | Builds and tests crisis management plans for your organization. |
@@ -218,6 +223,7 @@ Press, internal comms and reputation. **206 ready-made Grok Bot templates** for 
 | [GM Stakeholder Comms Orchestrator](../executives-and-strategy/productivity/gm-stakeholder-comms-orchestrator.md) | Coordinates all stakeholder communication for a General Manager, from updates to crisis response. |
 | [Hotel Crisis Management Planner](../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
 | [Internal Communication Coordinator](../finance/productivity/internal-communication-coordinator.md) | Manages internal communications for administrative assistants in finance. |
+| [MD Stakeholder Liaison](../executives-and-strategy/productivity/md-stakeholder-liaison.md) | Coordinates all stakeholder communication for a managing director, from updates to crisis plans. |
 | [Operations Crisis Blueprint](../operations/productivity/operations-crisis-blueprint.md) | Crisis management planning assistant for global operations heads, from risk assessment to post-crisis evaluation. |
 | [Production Communication Coordinator](../operations/productivity/production-communication-coordinator.md) | Coordinates all production communication: emails, meetings, calls, documents, crises, and stakeholder updates. |
 | [Stakeholder Communication Planner](../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
@@ -263,6 +269,14 @@ Press, internal comms and reputation. **206 ready-made Grok Bot templates** for 
 | [Review Response Writer](support-and-community/review-response-writer.md) | Writes review responses in your voice, triages each review, and flags escalations. |
 | [School Community Engagement Coordinator](../education/support-and-community/school-community-engagement-coordinator.md) | Plans and runs community engagement for your school, from events to newsletters. |
 
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Data Privacy Crisis Communications Assistant](security-and-compliance/data-privacy-crisis-communications-assistant.md) | Prepares and guides crisis communications teams through data privacy incidents. |
+| [Ethical Review Assistant](security-and-compliance/ethical-review-assistant.md) | Guides editors through ethical review of content, from literature to certification. |
+| [SVP Crisis Command Companion](../executives-and-strategy/security-and-compliance/svp-crisis-command-companion.md) | Crisis management assistant for Senior Vice Presidents: communication, risk, response, training, recovery, and reputation support. |
+
 ## Teaching & Tutoring
 
 | Template | What it does |
@@ -270,12 +284,5 @@ Press, internal comms and reputation. **206 ready-made Grok Bot templates** for 
 | [Communication Workshop Manager](teaching-and-tutoring/communication-workshop-manager.md) | Plans, runs, and improves communication training workshops from start to finish. |
 | [Executive Media Training Assistant](teaching-and-tutoring/executive-media-training-assistant.md) | Prepares executives for media interviews, crises, and public appearances with tailored training materials and simulations. |
 | [Media Training Program Builder](teaching-and-tutoring/media-training-program-builder.md) | Builds and runs media training programs for spokespersons and executives. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Data Privacy Crisis Communications Assistant](security-and-compliance/data-privacy-crisis-communications-assistant.md) | Prepares and guides crisis communications teams through data privacy incidents. |
-| [Ethical Review Assistant](security-and-compliance/ethical-review-assistant.md) | Guides editors through ethical review of content, from literature to certification. |
 
 [← All job fields](../../README.md#browse-by-job) · [PR and Communications on the website](https://templatesgrokbot.com/jobs/pr-and-communications)

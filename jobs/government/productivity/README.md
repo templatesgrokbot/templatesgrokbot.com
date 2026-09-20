@@ -1,6 +1,6 @@
 # Productivity templates for Government
 
-Plan, prioritise and clear the recurring admin. 40 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 43 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,7 @@ Plan, prioritise and clear the recurring admin. 40 Grok Bot templates, 0 of them
 | [Process Improvement Comms Architect](../../operations/productivity/process-improvement-comms-architect.md) | Plans stakeholder communication for process improvement projects, from stakeholder mapping to risk assessment. |
 | [Process Mapping and Improvement Assistant](../../operations/productivity/process-mapping-and-improvement-assistant.md) | Maps and improves your organization's processes from discovery to continuous improvement. |
 | [Professional Development Tracker](../../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
+| [Project Management Assistant](../../executives-and-strategy/productivity/project-management-assistant.md) | Plans, tracks, and optimizes projects for managing directors. |
 | [Project Management Coordination Assistant](../../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
 | [Project Planning Assistant](../../management/productivity/project-planning-assistant.md) | Assists project managers with planning, analysis, and documentation tasks. |
 | [Project Progress Tracker](../../management/productivity/project-progress-tracker.md) | Tracks project progress, milestones, resources, issues, risks, docs, stakeholders, dependencies, performance, and budget. |
@@ -40,7 +41,9 @@ Plan, prioritise and clear the recurring admin. 40 Grok Bot templates, 0 of them
 | [Stakeholder Communication Planner](../../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
 | [Strategic IT Planning Assistant](../../it-and-development/productivity/strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
 | [Strategic Planning Guide](../../executives-and-strategy/productivity/strategic-planning-guide.md) | Guides executive directors through the full strategic planning cycle, from vision to review. |
+| [Strategic Roadmap Planner](../../executives-and-strategy/productivity/strategic-roadmap-planner.md) | Turns market data, stakeholder input, and goals into a prioritised, risk-aware strategic roadmap. |
 | [Succession Plan Builder for HR Leaders](../../human-resources/productivity/succession-plan-builder-for-hr-leaders.md) | Turns HR data into a complete succession plan with candidates, development paths, and risk checks. |
+| [SWOT Strategy Assistant](../../executives-and-strategy/productivity/swot-strategy-assistant.md) | Runs your organization's SWOT analysis from data collection to action plans and monitoring. |
 | [Training Program Advisor](../../human-resources/productivity/training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |
 | [Vendor Lifecycle Manager](../../operations/productivity/vendor-lifecycle-manager.md) | Streamlines vendor evaluation from research to exit with structured analysis and approvals. |
 | [Virtual Training Coordinator Assistant](../../education/productivity/virtual-training-coordinator-assistant.md) | Manages virtual training setup, content, engagement, and evaluation for training coordinators. |

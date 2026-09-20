@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 125 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 127 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -45,6 +45,7 @@ Clean, query, chart and explain data. 125 Grok Bot templates, 30 of them filed i
 | [Content Performance Analyzer](content-performance-analyzer.md) | Analyzes content performance across channels and metrics to guide strategy. |
 | [Content ROI Analyst](content-roi-analyst.md) | Analyzes content performance and ROI to guide marketing decisions. |
 | [Customer Demographic Insight Engine](../../management/data-analysis/customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
+| [Customer Experience Insight Engine](../../executives-and-strategy/data-analysis/customer-experience-insight-engine.md) | Analyzes customer data and designs AI-driven experiences to boost satisfaction and engagement. |
 | [Customer Feedback Insight Analyst](../../management/data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
 | [Customer Feedback Insight Analyzer](../../management/data-analysis/customer-feedback-insight-analyzer.md) | Turns customer feedback into prioritized insights and actions for brand strategy. |
 | [Customer Feedback Insight Assistant](../../customer-support/data-analysis/customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |
@@ -64,6 +65,7 @@ Clean, query, chart and explain data. 125 Grok Bot templates, 30 of them filed i
 | [Data Storytelling](../../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Demand Forecasting Analyst](../../management/data-analysis/demand-forecasting-analyst.md) | Forecasts product demand from market data, sentiment, and trends for market research managers. |
 | [Digital Marketing Trends Analyst](../../executives-and-strategy/data-analysis/digital-marketing-trends-analyst.md) | Analyzes digital marketing data across channels to deliver actionable insights and trend forecasts. |
+| [Digital Performance Analytics Advisor](../../executives-and-strategy/data-analysis/digital-performance-analytics-advisor.md) | Performance analytics companion for CDOs: from data gathering to reporting and optimization. |
 | [E-commerce Pricing Optimizer](../../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [E-commerce Recommendation Optimizer](../../management/data-analysis/e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
 | [E-commerce UX Improvement Assistant](../../management/data-analysis/e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |

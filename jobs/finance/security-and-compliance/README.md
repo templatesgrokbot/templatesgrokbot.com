@@ -1,6 +1,6 @@
 # Security & Compliance templates for Finance
 
-Authorised security testing, audits and regulatory work. 13 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 14 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Authorised security testing, audits and regulatory work. 13 Grok Bot templates, 
 | [Accounting Compliance Review Copilot](accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: review, audit, report, and train. |
 | [AML Compliance Assistant](../../legal/security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
 | [Audit Ready File Builder](audit-ready-file-builder.md) | Prepares audit files, documents, and responses so your audit runs smoothly and nothing is missed. |
+| [Business Risk Management Assistant](../../executives-and-strategy/security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Business Unit Risk Manager](../../management/security-and-compliance/business-unit-risk-manager.md) | Risk management assistant for business unit managers covering identification, assessment, mitigation, monitoring, and reporting. |
 | [Enterprise Risk Management Assistant](../../executives-and-strategy/security-and-compliance/enterprise-risk-management-assistant.md) | Identifies, assesses, and mitigates risks across your organization with structured analysis and reporting. |
 | [Executive Risk Management Assistant](../../executives-and-strategy/security-and-compliance/executive-risk-management-assistant.md) | Assesses, plans, monitors, and reports risks for executive decision-making. |

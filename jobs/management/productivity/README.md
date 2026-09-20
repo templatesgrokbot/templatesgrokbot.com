@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 171 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 172 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -127,6 +127,7 @@ Plan, prioritise and clear the recurring admin. 171 Grok Bot templates, 61 of th
 | [Production Schedule Optimizer](../../operations/productivity/production-schedule-optimizer.md) | Builds, monitors, and optimizes production schedules, resolving conflicts and keeping stakeholders informed. |
 | [Production Technology Integration Planner](../../operations/productivity/production-technology-integration-planner.md) | Plans and optimizes production technology integration from selection to monitoring. |
 | [Project Budget Management Assistant](project-budget-management-assistant.md) | Guides project managers through budget planning, monitoring, and adjustments. |
+| [Project Management Assistant](../../executives-and-strategy/productivity/project-management-assistant.md) | Plans, tracks, and optimizes projects for managing directors. |
 | [Project Management Coordination Assistant](../../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
 | [Project Management Efficiency Assistant](../../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Project Management Guidance Assistant](project-management-guidance-assistant.md) | Guides management consultants through every project management task, from planning to reporting. |

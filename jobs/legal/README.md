@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **191 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **194 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,13 @@ Contracts, research, compliance and review. **191 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 76 |
+| [Security & Compliance](security-and-compliance/README.md) | 78 |
 | [Research](research/README.md) | 52 |
 | [Data Analysis](data-analysis/README.md) | 22 |
 | [Knowledge Management](knowledge-management/README.md) | 10 |
 | [Writing & Content](writing-and-content/README.md) | 10 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 5 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 5 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
 | [Support & Community](support-and-community/README.md) | 4 |
 | [Productivity](productivity/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
@@ -77,6 +77,7 @@ Contracts, research, compliance and review. **191 ready-made Grok Bot templates*
 | [Insurance Compliance Manager](../management/security-and-compliance/insurance-compliance-manager.md) | Tracks regulatory changes, reviews policies, trains staff, and prepares compliance reports and audits for your insurance agency. |
 | [International Procurement Compliance Guide](../operations/security-and-compliance/international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
 | [Legal & Compliance Queries Assistant](../executives-and-strategy/security-and-compliance/legal-compliance-queries-assistant.md) | Guides founders through legal and compliance queries with practical, step-by-step assistance. No hype, no emoji. |
+| [Legal Compliance Assistant](../executives-and-strategy/security-and-compliance/legal-compliance-assistant.md) | Keeps your company compliant by handling policy, research, training, and reporting. |
 | [Legal Compliance Review Assistant](security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
 | [Legal Compliance Reviewer](../human-resources/security-and-compliance/legal-compliance-reviewer.md) | Reviews employment documents and policies for legal compliance and prepares training. |
 | [Logistics Compliance Advisor](../operations/security-and-compliance/logistics-compliance-advisor.md) | Logistics compliance research, documentation, and audit support in one chat. |
@@ -94,6 +95,7 @@ Contracts, research, compliance and review. **191 ready-made Grok Bot templates*
 | [Regulation Risk Drafts for Engineers](../science-and-research/security-and-compliance/regulation-risk-drafts-for-engineers.md) | Tracks environmental laws, flags compliance risks, and drafts the paperwork to stay legal. |
 | [Regulatory Compliance Assistant](../customer-support/security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
 | [Regulatory Compliance Monitor](../operations/security-and-compliance/regulatory-compliance-monitor.md) | Tracks regulatory changes, audits compliance, and reports status for global operations. |
+| [Regulatory Compliance Navigator](../executives-and-strategy/security-and-compliance/regulatory-compliance-navigator.md) | Tracks regulatory changes, builds compliance programs, and prepares audit-ready documentation for your organization. |
 | [Regulatory Impact Intelligence Analyst](../executives-and-strategy/security-and-compliance/regulatory-impact-intelligence-analyst.md) | Tracks regulatory changes and turns them into risk, opportunity, and strategy intelligence. |
 | [Regulatory Requirements to Audit Reports](../it-and-development/security-and-compliance/regulatory-requirements-to-audit-reports.md) | Turns regulatory requirements into compliance checks, audits, and reports for business analysts. |
 | [Risk and Compliance Assistant](../executives-and-strategy/security-and-compliance/risk-and-compliance-assistant.md) | Assesses risks, monitors compliance, and guides incident response for your organization. |
@@ -222,6 +224,16 @@ Contracts, research, compliance and review. **191 ready-made Grok Bot templates*
 | [Patent Document Drafter](writing-and-content/patent-document-drafter.md) | Drafts and manages patent documents, from applications to litigation support, for patent agents. |
 | [Professional Proofreader](../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Contract Negotiation Assistant](../operations/sales-and-negotiation/contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
+| [Contract Negotiation Strategist](../operations/sales-and-negotiation/contract-negotiation-strategist.md) | Prepares and guides procurement contract negotiations from research to final agreement. |
+| [Contract Review and Management Assistant](../executives-and-strategy/sales-and-negotiation/contract-review-and-management-assistant.md) | Contract review and management support for a Vice President of Business Development, from analysis to termination. |
+| [Contract Review Assistant](../sales/sales-and-negotiation/contract-review-assistant.md) | Analyzes, drafts, and manages contracts for business development managers. |
+| [Freight Dispute Resolution Assistant](../sales/sales-and-negotiation/freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
+
 ## Teaching & Tutoring
 
 | Template | What it does |
@@ -231,15 +243,6 @@ Contracts, research, compliance and review. **191 ready-made Grok Bot templates*
 | [Legal Education and Training Assistant](teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
 | [Legal Training Material Creator](teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
 | [Music Copyright Navigator](../creatives/teaching-and-tutoring/music-copyright-navigator.md) | Guides vocal artists and songwriters through music copyright law, licensing, and royalties. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Contract Negotiation Assistant](../operations/sales-and-negotiation/contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
-| [Contract Negotiation Strategist](../operations/sales-and-negotiation/contract-negotiation-strategist.md) | Prepares and guides procurement contract negotiations from research to final agreement. |
-| [Contract Review Assistant](../sales/sales-and-negotiation/contract-review-assistant.md) | Analyzes, drafts, and manages contracts for business development managers. |
-| [Freight Dispute Resolution Assistant](../sales/sales-and-negotiation/freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
 
 ## Support & Community
 

@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **1,027 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **1,029 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,11 +13,11 @@ Product managers and the teams that ship. **1,027 ready-made Grok Bot templates*
 |---|---:|
 | [Coding](coding/README.md) | 398 |
 | [Design](design/README.md) | 95 |
+| [Data Analysis](data-analysis/README.md) | 72 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
-| [Data Analysis](data-analysis/README.md) | 71 |
 | [Productivity](productivity/README.md) | 66 |
+| [Research](research/README.md) | 66 |
 | [Generative Code](generative-code/README.md) | 65 |
-| [Research](research/README.md) | 65 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 37 |
 | [Security & Compliance](security-and-compliance/README.md) | 25 |
@@ -62,6 +62,21 @@ Product managers and the teams that ship. **1,027 ready-made Grok Bot templates*
 
 [All 95 Design templates →](design/README.md)
 
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Amplitude Automation](../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
+| [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
+| [Database Design](../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
+| [User Feedback Insight Assistant](data-analysis/user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
+| [Zinc Database](../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
+| [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
+| [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
+| [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
+
+[All 72 Data Analysis templates →](data-analysis/README.md)
+
 ## Generative AI and LLM
 
 | Template | What it does |
@@ -76,21 +91,6 @@ Product managers and the teams that ship. **1,027 ready-made Grok Bot templates*
 | [Mcp Integration Engineer](../it-and-development/generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
 
 [All 72 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
-
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Amplitude Automation](../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
-| [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
-| [Database Design](../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
-| [User Feedback Insight Assistant](data-analysis/user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
-| [Zinc Database](../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
-| [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
-| [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
-| [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
-
-[All 71 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -107,6 +107,21 @@ Product managers and the teams that ship. **1,027 ready-made Grok Bot templates*
 
 [All 66 Productivity templates →](productivity/README.md)
 
+## Research
+
+| Template | What it does |
+|---|---|
+| [Ux Researcher](../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
+| [Mcp Registry Navigator](../it-and-development/research/mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
+| [Customer Research](../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
+| [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Task Researcher](../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
+| [Lightning Architecture Review](../it-and-development/research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
+| [Rex](research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
+| [Wiki Researcher](../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
+
+[All 66 Research templates →](research/README.md)
+
 ## Generative Code
 
 | Template | What it does |
@@ -121,21 +136,6 @@ Product managers and the teams that ship. **1,027 ready-made Grok Bot templates*
 | [Use Dom](../it-and-development/generative-code/use-dom.md) | Run web code in a webview on native and as-is on web, incrementally migrating web code to Expo. |
 
 [All 65 Generative Code templates →](generative-code/README.md)
-
-## Research
-
-| Template | What it does |
-|---|---|
-| [Ux Researcher](../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
-| [Mcp Registry Navigator](../it-and-development/research/mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
-| [Customer Research](../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
-| [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
-| [Task Researcher](../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
-| [Lightning Architecture Review](../it-and-development/research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
-| [Rex](research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
-| [Wiki Researcher](../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
-
-[All 65 Research templates →](research/README.md)
 
 ## Cloud & DevOps
 

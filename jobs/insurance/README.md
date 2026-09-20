@@ -1,6 +1,6 @@
 # Grok Bot templates for Insurance
 
-Underwriting, claims and policy work. **91 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Underwriting, claims and policy work. **92 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Underwriting, claims and policy work. **91 ready-made Grok Bot templates** for t
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 35 |
-| [Security & Compliance](security-and-compliance/README.md) | 16 |
+| [Security & Compliance](security-and-compliance/README.md) | 17 |
 | [Support & Community](support-and-community/README.md) | 14 |
 | [Productivity](productivity/README.md) | 10 |
 | [Knowledge Management](knowledge-management/README.md) | 5 |
@@ -77,6 +77,7 @@ Underwriting, claims and policy work. **91 ready-made Grok Bot templates** for t
 | [Policy Development Support](../legal/security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
 | [PolicyOps Compliance Aligner](../operations/security-and-compliance/policyops-compliance-aligner.md) | Helps insurance operations managers keep policies, staff, and reports aligned with regulations. |
 | [Regulatory Compliance Assistant](../customer-support/security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
+| [Regulatory Compliance Navigator](../executives-and-strategy/security-and-compliance/regulatory-compliance-navigator.md) | Tracks regulatory changes, builds compliance programs, and prepares audit-ready documentation for your organization. |
 | [Regulatory Requirements to Audit Reports](../it-and-development/security-and-compliance/regulatory-requirements-to-audit-reports.md) | Turns regulatory requirements into compliance checks, audits, and reports for business analysts. |
 | [Risk Assessment and Analysis Assistant](../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
 | [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |

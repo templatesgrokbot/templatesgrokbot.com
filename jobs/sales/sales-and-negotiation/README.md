@@ -1,11 +1,12 @@
 # Sales & Negotiation templates for Sales
 
-Prospecting, outreach, proposals and negotiating terms. 97 Grok Bot templates, 87 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 103 Grok Bot templates, 87 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [BD Contract Negotiation Copilot](../../executives-and-strategy/sales-and-negotiation/bd-contract-negotiation-copilot.md) | Contract negotiation support for business development directors, from research to execution. |
 | [BDM Networking Follow-Up](bdm-networking-follow-up.md) | Plan, execute, and follow up on your networking to grow valuable professional connections. |
 | [Client Communication Assistant](../../real-estate-and-construction/sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
 | [Close Automation](close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
@@ -43,17 +44,21 @@ Prospecting, outreach, proposals and negotiating terms. 97 Grok Bot templates, 8
 | [Lead Pipeline Processor](lead-pipeline-processor.md) | Reads Gmail leads, scores them by fit, drafts replies, and logs them to your CRM. |
 | [Lead Qualification Assistant](lead-qualification-assistant.md) | Qualifies leads through research, scoring, engagement, and analytics for sales managers. |
 | [Lead Research Assistant](lead-research-assistant.md) | Finds and prioritizes companies that match your ideal customer profile for sales outreach. |
+| [Networking Strategy Director](../../executives-and-strategy/sales-and-negotiation/networking-strategy-director.md) | Plan, execute, and follow up on your networking strategy with AI-driven insights and outreach. |
 | [Networking Strategy Planner](networking-strategy-planner.md) | Your networking strategist: research, outreach, events, and follow-up for business development managers. |
 | [Objection Pattern Detector](objection-pattern-detector.md) | Mines lost deal notes to find objection patterns and builds response playbooks from won deals. |
 | [Odoo Sales Crm Expert](odoo-sales-crm-expert.md) | Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions. |
 | [Outbound Sales](outbound-sales.md) | Owns the full outbound prospecting pipeline so AEs can focus on closing. |
 | [Outreachagent](outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
+| [Partnership Opportunity Finder](../../executives-and-strategy/sales-and-negotiation/partnership-opportunity-finder.md) | Finds, evaluates, and manages strategic partnerships for business development directors. |
 | [Partnership Outreach Manager](partnership-outreach-manager.md) | Finds, courts, and manages business partnerships from first contact to expansion. |
+| [Partnership Pipeline Scout](../../executives-and-strategy/sales-and-negotiation/partnership-pipeline-scout.md) | Finds, evaluates, and manages partnership opportunities for business development leaders. |
 | [Personalized Sales Strategy Assistant](personalized-sales-strategy-assistant.md) | Personalized sales strategies from customer data to tailored pitches and follow-ups. |
 | [Pharma Client Profiling Assistant](pharma-client-profiling-assistant.md) | Builds deep client profiles and sales strategies for pharmaceutical sales reps. |
 | [Pharma Health Economics Insight](pharma-health-economics-insight.md) | Turns health economics data into sales-ready insights for pharmaceutical reps. |
 | [Pharma Relationship Builder](pharma-relationship-builder.md) | Build and strengthen healthcare professional relationships with personalized outreach and follow-up. |
 | [Pharma Sales Strategy Assistant](pharma-sales-strategy-assistant.md) | Analyzes pharma market data and crafts sales strategies, pitches, and forecasts for representatives. |
+| [Pitch Preparation Assistant](../../executives-and-strategy/sales-and-negotiation/pitch-preparation-assistant.md) | Prepares business development pitches from research to follow-up, with drafts awaiting your approval. No hype, no filler. |
 | [Pricing Strategist for BDM Wins](pricing-strategist-for-bdm-wins.md) | Develops and optimizes pricing strategies from analysis to execution for business development managers. |
 | [Pricing Strategy Drafts for Sales Managers](pricing-strategy-drafts-for-sales-managers.md) | Develops and refines pricing strategies from market data to implementation. |
 | [Pricing Strategy Optimizer for Sales Execs](../../executives-and-strategy/sales-and-negotiation/pricing-strategy-optimizer-for-sales-execs.md) | Optimizes pricing strategy through market analysis, segmentation, elasticity, and testing. |
@@ -85,6 +90,7 @@ Prospecting, outreach, proposals and negotiating terms. 97 Grok Bot templates, 8
 | [Sales Process Optimizer](sales-process-optimizer.md) | Analyzes sales data, segments customers, optimizes pipelines, and generates tailored sales materials. |
 | [Sales Product Information Assistant](sales-product-information-assistant.md) | Turns product data into sales-ready insights, comparisons, and materials for your customers. |
 | [Sales Script Builder](sales-script-builder.md) | Crafts and refines sales scripts for sales managers, from research to follow-up. |
+| [Sales Strategy Formulation Assistant](../../executives-and-strategy/sales-and-negotiation/sales-strategy-formulation-assistant.md) | Turns market data and sales history into a workable sales strategy for a VP of Business Development. |
 | [Sales Strategy Optimizer](sales-strategy-optimizer.md) | Sales strategy optimizer: market analysis, forecasting, and personalized outreach for CSOs. Turn data into decisions. |
 | [Sales War Room Intel](sales-war-room-intel.md) | Turns competitor data into actionable sales intelligence for global sales leaders. |
 | [Salesforce Automation](salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |

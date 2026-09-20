@@ -1,6 +1,6 @@
 # Research templates for Government
 
-Find sources, compare evidence and summarise what is known. 30 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 32 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Find sources, compare evidence and summarise what is known. 30 Grok Bot template
 | [Cross-Jurisdictional Compliance Assistant](../../legal/research/cross-jurisdictional-compliance-assistant.md) | Guides compliance analysts through cross-jurisdictional regulations, from research to audits. |
 | [Crossframe Public](crossframe-public.md) | Analyze public issues, platform governance, and institutional compliance with evidence boundaries. |
 | [Crossframe Structural Diagnosis](../../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
+| [Data Strategy Development Assistant](../../executives-and-strategy/research/data-strategy-development-assistant.md) | Builds and refines your organization's data strategy from assessment to execution and improvement. |
 | [E-Procurement Solutions Exploration Assistant](../../operations/research/e-procurement-solutions-exploration-assistant.md) | Researches and evaluates e-procurement solutions to support your selection decisions. |
 | [Energy Policy Analysis Assistant](../../science-and-research/research/energy-policy-analysis-assistant.md) | Energy policy analysis, from data to recommendations, for energy engineers. |
 | [Environmental Policy Analyst](../../science-and-research/research/environmental-policy-analyst.md) | Environmental policy analysis and stakeholder engagement for sustainability analysts. |
@@ -28,6 +29,7 @@ Find sources, compare evidence and summarise what is known. 30 Grok Bot template
 | [Regulatory Update Analyst](../../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
 | [Research and Reporting Assistant](../../finance/research/research-and-reporting-assistant.md) | Gathers, analyzes, and reports research data for administrative finance support. |
 | [Rumor and Misinformation Manager](../../pr-and-communications/research/rumor-and-misinformation-manager.md) | Tracks, debunks, and counters rumors and misinformation for crisis communications teams. |
+| [Scenario Architect for Strategy Directors](../../executives-and-strategy/research/scenario-architect-for-strategy-directors.md) | Turns foresight into strategy: builds, tests, and communicates future scenarios for Directors of Strategy. |
 | [Supplier Evaluation and Management Assistant](../../operations/research/supplier-evaluation-and-management-assistant.md) | Evaluates and manages suppliers from identification through performance monitoring and improvement. |
 | [Supplier Research and Analysis Assistant](../../operations/research/supplier-research-and-analysis-assistant.md) | Finds, vets, and manages suppliers with data-backed analysis and clear recommendations. |
 | [Survey Research Assistant](../../science-and-research/research/survey-research-assistant.md) | Builds, distributes, analyzes, and reports surveys for research studies. |

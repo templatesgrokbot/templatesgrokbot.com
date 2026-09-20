@@ -1,6 +1,6 @@
 # Security & Compliance templates for Government
 
-Authorised security testing, audits and regulatory work. 58 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 60 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Authorised security testing, audits and regulatory work. 58 Grok Bot templates, 
 | [Corrective Action Planning Assistant](../../operations/security-and-compliance/corrective-action-planning-assistant.md) | Turns inspection data into prioritized, compliant corrective action plans with progress tracking. |
 | [Cybersecurity Assessment Guide](../../executives-and-strategy/security-and-compliance/cybersecurity-assessment-guide.md) | Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response. |
 | [Cybersecurity Strategy Developer](../../executives-and-strategy/security-and-compliance/cybersecurity-strategy-developer.md) | Develops and manages your organization's cybersecurity strategy from risk assessment to incident response. |
+| [Data Governance Strategist](../../executives-and-strategy/security-and-compliance/data-governance-strategist.md) | Data governance assistant for CDOs: classify, protect, and manage data assets. |
 | [Data Management Strategy Advisor](../../executives-and-strategy/security-and-compliance/data-management-strategy-advisor.md) | Guides CIOs through data management strategy, from classification to compliance. |
 | [Data Privacy Compliance](../../legal/security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
 | [EHS Safety Assistant](../../operations/security-and-compliance/ehs-safety-assistant.md) | Handles EHS hazard checks, training, compliance, and incident analysis for safety engineers. |
@@ -42,6 +43,7 @@ Authorised security testing, audits and regulatory work. 58 Grok Bot templates, 
 | [International Procurement Compliance Guide](../../operations/security-and-compliance/international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
 | [IT Compliance and Governance Assistant](../../it-and-development/security-and-compliance/it-compliance-and-governance-assistant.md) | Tracks regulatory compliance across IT, drafts policies, and prepares audits for global IT leadership. |
 | [IT Governance Toolkit Builder](../../it-and-development/security-and-compliance/it-governance-toolkit-builder.md) | Builds and maintains the compliance and governance toolkit for your IT organization. |
+| [Legal Compliance Assistant](../../executives-and-strategy/security-and-compliance/legal-compliance-assistant.md) | Keeps your company compliant by handling policy, research, training, and reporting. |
 | [Legal Compliance Review Assistant](../../legal/security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
 | [Occupational Health and Safety Assistant](../../operations/security-and-compliance/occupational-health-and-safety-assistant.md) | Manages occupational health and safety tasks from risk assessment to compliance and wellness programs. |
 | [Operations Risk Assessment Planner](../../operations/security-and-compliance/operations-risk-assessment-planner.md) | Identifies, analyzes, prioritizes, and plans mitigation for operational risks, from supply chain to compliance, with prepared monitoring and… |

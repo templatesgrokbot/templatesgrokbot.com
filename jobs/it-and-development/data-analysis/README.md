@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 175 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 176 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -46,6 +46,7 @@ Clean, query, chart and explain data. 175 Grok Bot templates, 116 of them filed 
 | [Data Processing Nemo Curator](../../science-and-research/data-analysis/data-processing-nemo-curator.md) | GPU-accelerated data curation for LLM training datasets. |
 | [Data Processing Ray Data](data-processing-ray-data.md) | Process large ML datasets with Ray Data across CPU/GPU clusters. |
 | [Data Quality Frameworks](data-quality-frameworks.md) | Build data quality validation with Great Expectations, dbt tests, and data contracts. |
+| [Data Quality Management Assistant](../../executives-and-strategy/data-analysis/data-quality-management-assistant.md) | Assesses, cleans, validates, and reports on data quality for executive decisions. |
 | [Data Researcher](../../science-and-research/data-analysis/data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
 | [Data Scientist](data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
 | [Data Validation Assistant](../../operations/data-analysis/data-validation-assistant.md) | Validates and cleans data entry work with routines for formatting, duplicates, consistency, and quality. |

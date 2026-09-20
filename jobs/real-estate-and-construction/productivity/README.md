@@ -1,6 +1,6 @@
 # Productivity templates for Real Estate and Construction
 
-Plan, prioritise and clear the recurring admin. 33 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 34 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,6 +25,7 @@ Plan, prioritise and clear the recurring admin. 33 Grok Bot templates, 9 of them
 | [Production Deadline Planner](../../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
 | [Production Resource Allocation Planner](../../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
 | [Project Budget Management Assistant](../../management/productivity/project-budget-management-assistant.md) | Guides project managers through budget planning, monitoring, and adjustments. |
+| [Project Management Assistant](../../executives-and-strategy/productivity/project-management-assistant.md) | Plans, tracks, and optimizes projects for managing directors. |
 | [Project Management Coordination Assistant](../../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
 | [Project Management Efficiency Assistant](../../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Project Management Support Assistant](../../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |

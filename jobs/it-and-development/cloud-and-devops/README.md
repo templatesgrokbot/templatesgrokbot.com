@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 387 Grok Bot templates, 375 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 388 Grok Bot templates, 375 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -132,6 +132,7 @@ Infrastructure, deployments, monitoring and incident response. 387 Grok Bot temp
 | [Data Center Network Assistant](data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
 | [Data Center Operations Assistant](data-center-operations-assistant.md) | Optimizes data center operations through monitoring, planning, and incident guidance. |
 | [Data Center Power Optimizer](data-center-power-optimizer.md) | Optimizes data center power usage, forecasting, and compliance for systems administrators. |
+| [Data Integration and Architecture Planner](../../executives-and-strategy/cloud-and-devops/data-integration-and-architecture-planner.md) | Plans and documents data integration, architecture, and governance for a Chief Digital Officer. No execution without approval. |
 | [Database](database.md) | Adds Railway database services (Postgres, Redis, MySQL, MongoDB) and provides connection variable references. |
 | [Database Admin](database-admin.md) | Manages cloud and on-prem databases with backups, replication, monitoring, and access control. |
 | [Database Administration Advisor](database-administration-advisor.md) | Guides database administrators through backup, tuning, security, and growth planning. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Healthcare
 
-Clinicians, care teams and health administrators. **69 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Clinicians, care teams and health administrators. **70 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,8 +13,8 @@ Clinicians, care teams and health administrators. **69 ready-made Grok Bot templ
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 27 |
 | [Research](research/README.md) | 13 |
+| [Security & Compliance](security-and-compliance/README.md) | 10 |
 | [Productivity](productivity/README.md) | 9 |
-| [Security & Compliance](security-and-compliance/README.md) | 9 |
 | [Self-Improvement](self-improvement/README.md) | 7 |
 | [Writing & Content](writing-and-content/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
@@ -70,6 +70,21 @@ Clinicians, care teams and health administrators. **69 ready-made Grok Bot templ
 | [Travel Health Analyzer](research/travel-health-analyzer.md) | Analyze travel health risks, recommend vaccines, and generate multilingual emergency cards using WHO/CDC data. All advice requires doctor review. No d |
 | [Uniprot Database](../science-and-research/research/uniprot-database.md) | Retrieve protein sequences, annotations, and ID mappings from UniProt via REST API. |
 
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Compliance and Regulatory Updates Assistant](../operations/security-and-compliance/compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
+| [Compliance Audit Preparation Assistant](../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
+| [Compliance Tracking Assistant](../operations/security-and-compliance/compliance-tracking-assistant.md) | Tracks regulatory changes, audits, training, and reports to keep operations compliant. |
+| [Compliance Training Manager](../education/security-and-compliance/compliance-training-manager.md) | Manages compliance training from needs assessment to certification and reporting. |
+| [Fda Food Safety Auditor](../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
+| [Information Security Manager Iso27001](security-and-compliance/information-security-manager-iso27001.md) | Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies. |
+| [Laboratory Quality Control Assistant](../science-and-research/security-and-compliance/laboratory-quality-control-assistant.md) | Manages lab quality control tasks from data analysis to audits and compliance. |
+| [QC Compliance Report Builder](../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
+| [Regulatory Compliance Navigator](../executives-and-strategy/security-and-compliance/regulatory-compliance-navigator.md) | Tracks regulatory changes, builds compliance programs, and prepares audit-ready documentation for your organization. |
+| [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
+
 ## Productivity
 
 | Template | What it does |
@@ -83,20 +98,6 @@ Clinicians, care teams and health administrators. **69 ready-made Grok Bot templ
 | [Operations Crisis Navigator](../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
 | [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
 | [Professional Development Tracker](../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Compliance and Regulatory Updates Assistant](../operations/security-and-compliance/compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
-| [Compliance Audit Preparation Assistant](../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
-| [Compliance Tracking Assistant](../operations/security-and-compliance/compliance-tracking-assistant.md) | Tracks regulatory changes, audits, training, and reports to keep operations compliant. |
-| [Compliance Training Manager](../education/security-and-compliance/compliance-training-manager.md) | Manages compliance training from needs assessment to certification and reporting. |
-| [Fda Food Safety Auditor](../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
-| [Information Security Manager Iso27001](security-and-compliance/information-security-manager-iso27001.md) | Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies. |
-| [Laboratory Quality Control Assistant](../science-and-research/security-and-compliance/laboratory-quality-control-assistant.md) | Manages lab quality control tasks from data analysis to audits and compliance. |
-| [QC Compliance Report Builder](../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
-| [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
 
 ## Self-Improvement
 

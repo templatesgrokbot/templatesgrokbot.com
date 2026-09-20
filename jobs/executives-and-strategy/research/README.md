@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 85 Grok Bot templates, 46 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 95 Grok Bot templates, 56 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,8 @@ Find sources, compare evidence and summarise what is known. 85 Grok Bot template
 | [AI Integration Innovation Strategist](ai-integration-innovation-strategist.md) | Guides AI integration in innovation from research to rollout, with approvals before any action. |
 | [Andruia AI Consultant](andruia-ai-consultant.md) | Diagnoses AI projects and outlines the technical roadmap. |
 | [Axiom](axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
+| [Blockchain Integration Strategist](blockchain-integration-strategist.md) | Plans and executes blockchain integration for your organization, from readiness to rollout. |
+| [Business Development Insight Compass](business-development-insight-compass.md) | Analyzes markets, competitors, and customers to guide business development decisions. |
 | [Business Model Validation Assistant](business-model-validation-assistant.md) | Validates your business model with research, analysis, and iteration support. |
 | [CIO IT Strategy Advisor](cio-it-strategy-advisor.md) | Develops and guides your IT strategy from assessment to execution. |
 | [Competitive Analyst](../../marketing/research/competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
@@ -18,6 +20,8 @@ Find sources, compare evidence and summarise what is known. 85 Grok Bot template
 | [Competitive Intelligence Analyst](competitive-intelligence-analyst.md) | Monitors competitors and market trends to produce structured intelligence reports. |
 | [Competitive Intelligence Assistant](../../management/research/competitive-intelligence-assistant.md) | Competitive intelligence and strategy assistant for business unit managers. |
 | [Competitor Analysis](../../marketing/research/competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
+| [Competitor Benchmarking Strategist](competitor-benchmarking-strategist.md) | Tracks competitors and turns market data into strategic recommendations. |
+| [Competitor Intel for BizDev](competitor-intel-for-bizdev.md) | Turns competitor data into strategic intelligence for business development decisions. |
 | [Competitor Intelligence Strategist](competitor-intelligence-strategist.md) | Tracks competitors and turns their moves into strategic decisions for your company. |
 | [Competitor Move Strategist](competitor-move-strategist.md) | Tracks competitors and turns their moves into strategic recommendations for you. |
 | [Competitor Profiling](../../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
@@ -30,9 +34,12 @@ Find sources, compare evidence and summarise what is known. 85 Grok Bot template
 | [CSO Competitor Intel Briefs](../../sales/research/cso-competitor-intel-briefs.md) | Turns competitor data into strategic sales intelligence for CSOs. |
 | [CTO Tech Trend Roadmapper](cto-tech-trend-roadmapper.md) | Scans tech trends, assesses impact and risk, and builds roadmaps for CTOs. |
 | [Customer Research](../../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
+| [Data Strategy Development Assistant](data-strategy-development-assistant.md) | Builds and refines your organization's data strategy from assessment to execution and improvement. |
 | [Deal Sourcing Analyst](deal-sourcing-analyst.md) | M&A analysis assistant for due diligence, market research, and deal sourcing. |
 | [Digital Transformation Strategist](digital-transformation-strategist.md) | Plans and guides your organization's digital transformation from assessment to evolution. |
 | [Digital Transformation Strategy Advisor](digital-transformation-strategy-advisor.md) | Strategic digital transformation guidance for IT executives, from assessment to adoption. |
+| [Emerging Technology Adoption Assistant](emerging-technology-adoption-assistant.md) | Guides CDOs through emerging tech adoption from research to implementation and monitoring. |
+| [ESG Strategy Development Assistant](esg-strategy-development-assistant.md) | Builds and runs your company's ESG strategy from research to reporting. |
 | [Ethical Innovation Strategist](ethical-innovation-strategist.md) | Guides ethical assessment, frameworks, and reporting for innovation strategies. |
 | [EVP Strategy Competitive Radar](evp-strategy-competitive-radar.md) | Turns competitor data into strategic intelligence for the EVP of Strategy. |
 | [Executive Rival Intel Briefings](executive-rival-intel-briefings.md) | Turns competitor data into strategic intelligence for executive decisions. |
@@ -70,14 +77,17 @@ Find sources, compare evidence and summarise what is known. 85 Grok Bot template
 | [Partnership Pipeline Researcher](partnership-pipeline-researcher.md) | Finds and vets partners, events, and outreach for your business development pipeline. |
 | [Patent Strategy Analyst](patent-strategy-analyst.md) | Guides patent research, analysis, and strategy for innovation strategists. |
 | [Product Concept Testing Assistant](product-concept-testing-assistant.md) | Turns product concept feedback into clear insights for innovation decisions. |
+| [Product Feasibility Analyst](product-feasibility-analyst.md) | Guides product feasibility analysis from market research to final report. |
 | [Product Strategist](../../product-development/research/product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |
 | [Reading Pile](../../science-and-research/research/reading-pile.md) | Works through your saved-articles backlog and tells you which three are worth your time. |
 | [Research-to-Decision Assistant](../../education/research/research-to-decision-assistant.md) | Turns research into decisions for your school, from literature to action plans. |
 | [Salary Negotiation Prep](../../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
+| [Scenario Architect for Strategy Directors](scenario-architect-for-strategy-directors.md) | Turns foresight into strategy: builds, tests, and communicates future scenarios for Directors of Strategy. |
 | [Scenario Planning Strategist](scenario-planning-strategist.md) | Turns market signals into future scenarios, risk checks, and strategy options for innovation strategists. |
 | [SEO Competitive Analysis](../../marketing/research/seo-wettbewerbsanalyse.md) | Reverse-engineer ranking competitors to produce a content gap map, keyword steal list, and three pages to write first. |
 | [Startup Business Analyst Market Opportunity](startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
 | [Sustainability Integration Strategist](sustainability-integration-strategist.md) | Integrates sustainability into strategy, operations, and culture for innovation strategists. |
+| [Sustainability Strategy Assistant](sustainability-strategy-assistant.md) | Guides sustainability strategy from assessment to action for senior executives. |
 | [Sustainability Strategy Formulation Assistant](sustainability-strategy-formulation-assistant.md) | Turns sustainability strategy work into researched, actionable plans for an EVP of Strategy. |
 | [Technology Adoption Advisor](../../sales/research/technology-adoption-advisor.md) | Guides CSOs through technology evaluation and adoption, from research to roadmap. |
 | [Technology Adoption Consultant](technology-adoption-consultant.md) | Technology adoption consulting assistant for EVPs of Business Development. |

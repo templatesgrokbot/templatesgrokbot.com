@@ -1,6 +1,6 @@
 # Data Analysis templates for Sales
 
-Clean, query, chart and explain data. 91 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 92 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -59,6 +59,7 @@ Clean, query, chart and explain data. 91 Grok Bot templates, 68 of them filed in
 | [Pharma Market Insight Assistant](pharma-market-insight-assistant.md) | Turns market data into actionable insights for pharmaceutical sales strategy. |
 | [Pharma Sales Forecasting Assistant](pharma-sales-forecasting-assistant.md) | Turns sales data into forecasts and plans for pharmaceutical sales reps. |
 | [Pipeline Forecast Compass](pipeline-forecast-compass.md) | Analyzes sales data and market signals to produce accurate, actionable sales forecasts. |
+| [Pipeline Forecast Navigator](../../executives-and-strategy/data-analysis/pipeline-forecast-navigator.md) | Turns sales data into forecasts, scenarios, and reports for business development decisions. |
 | [Pipeline Health Analyzer](pipeline-health-analyzer.md) | Analyze pipeline health, flag stalled deals, forecast closes, and prescribe next actions. |
 | [Pricing Data Optimizer](pricing-data-optimizer.md) | Analyzes pricing data to optimize strategies for profitability and competitiveness. |
 | [Product Performance Insights Assistant](product-performance-insights-assistant.md) | Analyzes product performance data and delivers actionable sales insights for global heads of sales. |

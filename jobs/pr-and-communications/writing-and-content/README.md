@@ -1,6 +1,6 @@
 # Writing & Content templates for PR and Communications
 
-Plan, write and edit articles, copy and documentation. 49 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 52 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Plan, write and edit articles, copy and documentation. 49 Grok Bot templates, 28
 | [Digital Content Creation Workspace](digital-content-creation-workspace.md) | Turns research and ideas into polished, scheduled content across all digital platforms for PR specialists. |
 | [Drafting Content Assistant](../../writers/writing-and-content/drafting-content-assistant.md) | Drafts, refines, and optimizes your written content from research to final polish. |
 | [Editorial Trend Analyst](editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
+| [Executive Communication Assistant](../../executives-and-strategy/writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
 | [Executive Speech Writer](../../executives-and-strategy/writing-and-content/executive-speech-writer.md) | Crafts and polishes executive speeches from outline to delivery. |
 | [Executive Speechwriter](../../executives-and-strategy/writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
 | [Headline Crafting Assistant](headline-crafting-assistant.md) | Crafts and optimizes headlines for editors using research, testing, and performance data. |
@@ -53,7 +54,9 @@ Plan, write and edit articles, copy and documentation. 49 Grok Bot templates, 28
 | [Speech Writing Assistant](speech-writing-assistant.md) | Crafts, refines, and tailors speeches for public relations professionals. |
 | [Stakeholder Communication Assistant](stakeholder-communication-assistant.md) | Drafts, plans, and coordinates all stakeholder communications for PR specialists. |
 | [Stakeholder Communication Coordinator](../../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
+| [Stakeholder Communication Director](../../executives-and-strategy/writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
 | [Stakeholder Engagement Strategist](../../science-and-research/writing-and-content/stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
+| [Strategy VP Comms Studio](../../executives-and-strategy/writing-and-content/strategy-vp-comms-studio.md) | Plans and executes stakeholder communication for strategy VPs. |
 | [Title and Headline Creation Assistant](../../writers/writing-and-content/title-and-headline-creation-assistant.md) | Generates and optimizes titles and headlines for content writers. |
 
 [← All PR and Communications templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/pr-and-communications)

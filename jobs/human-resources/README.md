@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **220 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **227 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,18 +11,18 @@ Recruiting, onboarding and people operations. **220 ready-made Grok Bot template
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 67 |
-| [Productivity](productivity/README.md) | 44 |
+| [Data Analysis](data-analysis/README.md) | 68 |
+| [Productivity](productivity/README.md) | 47 |
 | [Writing & Content](writing-and-content/README.md) | 37 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 33 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 35 |
 | [Security & Compliance](security-and-compliance/README.md) | 8 |
 | [Self-Improvement](self-improvement/README.md) | 8 |
 | [Design](design/README.md) | 5 |
 | [Research](research/README.md) | 5 |
 | [Knowledge Management](knowledge-management/README.md) | 3 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 3 |
 | [Office Tools](office-tools/README.md) | 3 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 2 |
 | [Support & Community](support-and-community/README.md) | 2 |
 
 ## Data Analysis
@@ -85,6 +85,7 @@ Recruiting, onboarding and people operations. **220 ready-made Grok Bot template
 | [Succession Planning Architect](data-analysis/succession-planning-architect.md) | Builds and manages your full succession planning pipeline from talent assessment to knowledge transfer. |
 | [Talent Lifecycle Manager](../executives-and-strategy/data-analysis/talent-lifecycle-manager.md) | Manages the full talent lifecycle for a CTO, from sourcing to offboarding, with data-driven insights. |
 | [Talent Management Strategy Assistant](../executives-and-strategy/data-analysis/talent-management-strategy-assistant.md) | Talent management strategy assistant for EVPs, covering acquisition to retention. |
+| [Talent Strategy Design Studio](../executives-and-strategy/data-analysis/talent-strategy-design-studio.md) | Designs and refines your talent development strategy from objectives to evaluation. |
 | [Team Composition Analysis](data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Template Gap Analysis Assistant](../education/data-analysis/template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
 | [Training Effectiveness Evaluator](../education/data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |
@@ -113,6 +114,7 @@ Recruiting, onboarding and people operations. **220 ready-made Grok Bot template
 | [Git Pr Workflows Onboard](productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
 | [Global TA Strategy Advisor](productivity/global-ta-strategy-advisor.md) | Enhances talent acquisition with sourcing, branding, and data-driven insights. |
 | [Hiring Scorecard Builder](productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
+| [HR and Recruitment Operations Assistant](../executives-and-strategy/productivity/hr-and-recruitment-operations-assistant.md) | Streamlines HR and recruitment workflows for senior executives, from job posts to analytics. |
 | [HR Crisis Response Planner](productivity/hr-crisis-response-planner.md) | Plans and executes HR crisis response from communication to recovery. |
 | [Hr Pro](productivity/hr-pro.md) | HR partner for hiring, onboarding, PTO, performance, and compliant policies. |
 | [HRIS Implementation Guide](productivity/hris-implementation-guide.md) | Guides HRIS specialists through implementation, from selection to ongoing maintenance. |
@@ -139,7 +141,9 @@ Recruiting, onboarding and people operations. **220 ready-made Grok Bot template
 | [Resume Screening Assistant](productivity/resume-screening-assistant.md) | Screens resumes against job requirements and shortlists top candidates for HR consultants. |
 | [Succession Plan Builder for HR Leaders](productivity/succession-plan-builder-for-hr-leaders.md) | Turns HR data into a complete succession plan with candidates, development paths, and risk checks. |
 | [Succession Planning Strategist](productivity/succession-planning-strategist.md) | Guides VPs of HR through succession planning, from identifying critical roles to measuring program success. |
+| [Talent Acquisition Strategy Planner](../executives-and-strategy/productivity/talent-acquisition-strategy-planner.md) | Talent acquisition strategy assistant for VPs of Business Development, covering market research to onboarding support. |
 | [Talent Acquisition Workflow Manager](../executives-and-strategy/productivity/talent-acquisition-workflow-manager.md) | Manages your end-to-end talent acquisition workflow, from job posts to onboarding and feedback. |
+| [Talent Development Strategy Planner](../executives-and-strategy/productivity/talent-development-strategy-planner.md) | Turns your talent strategy into a working plan: gaps, programs, pipelines, and metrics, all in one place. No fluff, just the work. |
 | [Talent Management Assistant](productivity/talent-management-assistant.md) | Manages the full talent lifecycle from sourcing to retention with data-driven insights. |
 | [Training Budget Optimizer](../education/productivity/training-budget-optimizer.md) | Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators. |
 | [Training Program Advisor](productivity/training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |
@@ -192,8 +196,10 @@ Recruiting, onboarding and people operations. **220 ready-made Grok Bot template
 
 | Template | What it does |
 |---|---|
+| [BD Leader Training Architect](../executives-and-strategy/teaching-and-tutoring/bd-leader-training-architect.md) | Designs, implements, and improves employee training programs for business development leaders. |
 | [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
 | [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
+| [Corporate Training Program Architect](../executives-and-strategy/teaching-and-tutoring/corporate-training-program-architect.md) | Designs, delivers, and evaluates corporate training programs end-to-end. |
 | [Customer Service Training Builder](../management/teaching-and-tutoring/customer-service-training-builder.md) | Builds and maintains customer service training modules from planning to feedback. |
 | [Diversity Training Program Assistant](teaching-and-tutoring/diversity-training-program-assistant.md) | Designs, runs, and evaluates inclusive workplace diversity training programs. |
 | [E-Learning Strategy Planner](teaching-and-tutoring/e-learning-strategy-planner.md) | Helps Training and Development Specialists plan, build, and improve e-learning programs. |
@@ -280,6 +286,14 @@ Recruiting, onboarding and people operations. **220 ready-made Grok Bot template
 | [Record Keeping and Filing Assistant](../finance/knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
 | [Resume Version Manager](knowledge-management/resume-version-manager.md) | Track resume versions, maintain a master resume, and manage tailored variants. |
 
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Employee Engagement Campaign Coordinator](../pr-and-communications/marketing-and-growth/employee-engagement-campaign-coordinator.md) | Plans and runs employee engagement campaigns, from surveys to events, with data-backed insights. |
+| [Recruitment Strategy Planner](marketing-and-growth/recruitment-strategy-planner.md) | Builds and refines your recruitment strategy with data-driven insights and ready-to-use materials. |
+| [Talent Acquisition Strategy Advisor](../executives-and-strategy/marketing-and-growth/talent-acquisition-strategy-advisor.md) | Talent acquisition strategy support for managing directors, from market analysis to hiring analytics. |
+
 ## Office Tools
 
 | Template | What it does |
@@ -295,13 +309,6 @@ Recruiting, onboarding and people operations. **220 ready-made Grok Bot template
 | [Dispute Mediation Assistant](sales-and-negotiation/dispute-mediation-assistant.md) | Guides employee relations specialists through workplace dispute mediation from intake to follow-up. |
 | [Sales Comp Plan Designer](sales-and-negotiation/sales-comp-plan-designer.md) | Designs sales compensation plans with pay mixes, accelerators, quotas, and cost tracking. |
 | [Workorai](sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
-
-## Marketing & Growth
-
-| Template | What it does |
-|---|---|
-| [Employee Engagement Campaign Coordinator](../pr-and-communications/marketing-and-growth/employee-engagement-campaign-coordinator.md) | Plans and runs employee engagement campaigns, from surveys to events, with data-backed insights. |
-| [Recruitment Strategy Planner](marketing-and-growth/recruitment-strategy-planner.md) | Builds and refines your recruitment strategy with data-driven insights and ready-to-use materials. |
 
 ## Support & Community
 

@@ -1,6 +1,6 @@
 # Data Analysis templates for Executives and Strategy
 
-Clean, query, chart and explain data. 177 Grok Bot templates, 108 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 210 Grok Bot templates, 141 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Clean, query, chart and explain data. 177 Grok Bot templates, 108 of them filed 
 | [CEO Supply Chain Optimizer](ceo-supply-chain-optimizer.md) | Optimizes your supply chain with data-driven insights and recommendations. |
 | [Client Feedback Insight Engine](../../sales/data-analysis/client-feedback-insight-engine.md) | Turns client feedback into categorized, sentiment-scored insights with trend, churn, and competitive analysis for sales VPs. |
 | [CMO Insight Builder](cmo-insight-builder.md) | Turns marketing data into clear insights, reports, and strategic recommendations for CMOs. |
+| [Competitive Strategy Analyst](competitive-strategy-analyst.md) | Turns raw market data into competitor intelligence and strategy for VPs. |
 | [Competitive Supply Chain Intel](competitive-supply-chain-intel.md) | Supply chain analysis assistant for competitive intelligence analysts: suppliers, cost, risk, demand, compliance, sustainability, logistics, and… |
 | [Competitive SWOT Analyst](competitive-swot-analyst.md) | Turns market and internal data into a complete SWOT analysis with strategy and risk guidance. |
 | [Compliance Benchmarking Analyst](../../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
@@ -43,17 +44,26 @@ Clean, query, chart and explain data. 177 Grok Bot templates, 108 of them filed 
 | [CSO Pipeline Forecaster](../../sales/data-analysis/cso-pipeline-forecaster.md) | Turns sales data into forecasts, scenarios, and pipeline insights for a CSO's decisions. No hype, just analysis. |
 | [CSO Pricing Insight Advisor](../../sales/data-analysis/cso-pricing-insight-advisor.md) | Analyzes pricing data to sharpen strategy and boost revenue for sales leaders. |
 | [CTO Investment Evaluator](cto-investment-evaluator.md) | Guides CTOs through cost-benefit analysis for technology decisions, from data gathering to final recommendations. |
+| [Customer Experience Insight Engine](customer-experience-insight-engine.md) | Analyzes customer data and designs AI-driven experiences to boost satisfaction and engagement. |
 | [Customer Experience Strategy Architect](customer-experience-strategy-architect.md) | Turns customer data into a complete experience strategy, from feedback to crisis planning. |
 | [Customer Feedback Insight Engine](../../sales/data-analysis/customer-feedback-insight-engine.md) | Turns customer feedback into actionable insights and response plans for sales leadership. |
 | [Customer Insight Strategist](customer-insight-strategist.md) | Turns sales data into customer insights, forecasts, and strategy for an EVP of Sales. |
+| [Customer Insight Strategy Analyst](customer-insight-strategy-analyst.md) | Customer insight analysis for VP-level strategy decisions from data to action. |
 | [Customer Insights Strategist](customer-insights-strategist.md) | Turns customer feedback into actionable insights for innovation strategy. |
 | [Customer Panel Debate](../../marketing/data-analysis/customer-panel-debate.md) | Runs a structured debate among your buyer personas to test any decision before you commit. |
 | [Customer Service Improvement Planner](customer-service-improvement-planner.md) | Turns customer service data and workflows into actionable improvements for your operations. |
 | [Data Insights Strategist](data-insights-strategist.md) | Turns raw data into forecasts, segments, and stories for executive decisions. |
 | [Data Management Optimization Assistant](data-management-optimization-assistant.md) | Optimizes data management for an EVP of IT with analysis, strategy, and compliance. |
+| [Data Quality Management Assistant](data-quality-management-assistant.md) | Assesses, cleans, validates, and reports on data quality for executive decisions. |
 | [Data Storytelling](data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
+| [Data Visualization and Reporting Assistant](data-visualization-and-reporting-assistant.md) | Turns raw data into clear visual stories and reports for executive decisions. |
 | [Data Visualization Presentation Assistant](../../management/data-analysis/data-visualization-presentation-assistant.md) | Turns raw data into clear, compelling visuals and narratives for client presentations. |
+| [Data-Driven Decision Support](data-driven-decision-support.md) | Turns raw data into clear insights and recommendations for executive decisions. |
+| [Data-Driven Innovation Strategist](data-driven-innovation-strategist.md) | Turns your data into decisions: analysis, prediction, and strategy for the Chief Digital Officer. |
+| [Deal Lifecycle Strategist](deal-lifecycle-strategist.md) | Streamlines M&A analysis from due diligence to post-merger monitoring. |
 | [Digital Marketing Trends Analyst](digital-marketing-trends-analyst.md) | Analyzes digital marketing data across channels to deliver actionable insights and trend forecasts. |
+| [Digital Performance Analytics Advisor](digital-performance-analytics-advisor.md) | Performance analytics companion for CDOs: from data gathering to reporting and optimization. |
+| [Director Productivity Insight](director-productivity-insight.md) | Analyzes employee productivity data and delivers actionable insights for managing directors. |
 | [Economic Trend Analyst](economic-trend-analyst.md) | Turns economic data into forecasts, risk reports, and strategic plans for the EVP of Finance. |
 | [Employee Performance Analysis Assistant](employee-performance-analysis-assistant.md) | Turns employee performance data into reviews, goals, and plans for your team. |
 | [Employee Performance Analyst](employee-performance-analyst.md) | Analyzes employee performance data to deliver insights, reports, and action plans for executives. |
@@ -69,13 +79,19 @@ Clean, query, chart and explain data. 177 Grok Bot templates, 108 of them filed 
 | [Executive Forecast Studio](executive-forecast-studio.md) | Turns financial data into forecasts, scenarios, and reports for executive decisions. |
 | [Executive Market Insight Briefs](executive-market-insight-briefs.md) | Turns market data into strategic insight for executive decisions. |
 | [Executive Market Trend Forecaster](../../management/data-analysis/executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
+| [Executive Risk Insight Suite](executive-risk-insight-suite.md) | Turns your risk data into assessments, strategies, and reports for executive decisions. |
 | [Executive Risk Intelligence Assistant](executive-risk-intelligence-assistant.md) | Turns your risk data into actionable insights and keeps your risk posture current. |
 | [Executive Sentiment Insight Engine](executive-sentiment-insight-engine.md) | Turns customer feedback into strategic sentiment insights and recommendations. |
 | [Executive Social Media Intelligence](executive-social-media-intelligence.md) | Turns social media data into actionable marketing insights for the Global Head of Marketing. |
 | [Feedback Compass for Managers](feedback-compass-for-managers.md) | Turns customer feedback into actionable insights for general managers. |
 | [Feedback Insight Interpreter](feedback-insight-interpreter.md) | Analyzes customer feedback to deliver actionable insights for marketing strategy. |
+| [Feedback Intel for BizDev](feedback-intel-for-bizdev.md) | Turns customer feedback into actionable insights for business development decisions. |
+| [Feedback Intel for Growth](feedback-intel-for-growth.md) | Collects, analyzes, and prioritizes customer feedback into actionable insights for business development. |
+| [File Insight and Conversion Assistant](file-insight-and-conversion-assistant.md) | Turns your uploaded files into converted formats, answers, and trend insights on request. |
+| [Financial Analysis and Strategy Assistant](financial-analysis-and-strategy-assistant.md) | Analyzes financial data, builds forecasts, and flags risks for Managing Directors. |
 | [Financial Forecasting Executive Assistant](financial-forecasting-executive-assistant.md) | Turns historical financial data into forecasts, scenarios, and reports for executive decisions. |
 | [Financial Forecasting Navigator](financial-forecasting-navigator.md) | Forecasts revenue, expenses, cash flow, and risks from your data, then checks actuals. |
+| [Financial Forecasting Strategist](financial-forecasting-strategist.md) | Builds and runs financial forecasts, scenario analyses, and risk assessments for strategic planning. |
 | [Financial Modeling and Analysis Assistant](financial-modeling-and-analysis-assistant.md) | Builds financial models, forecasts, and analyses from your data for executive decisions. |
 | [Financial Performance Analyst](financial-performance-analyst.md) | Analyzes financial performance metrics, forecasts trends, and supports executive decisions. |
 | [Financial Projections Assistant](financial-projections-assistant.md) | Build and stress-test your startup's financial projections from expenses to scenarios. |
@@ -105,14 +121,17 @@ Clean, query, chart and explain data. 177 Grok Bot templates, 108 of them filed 
 | [Longbridge Fundamentals](../../finance/data-analysis/longbridge-fundamentals.md) | Pull financial statements, valuation multiples, and company profiles for HK/US/A-share/Singapore stocks via Longbridge. |
 | [M&A Analysis Assistant](m-a-analysis-assistant.md) | Guides M&A analysis from market research to post-merger monitoring with data-driven insights. |
 | [M&A Evaluation Assistant](../../management/data-analysis/m-a-evaluation-assistant.md) | M&A evaluation assistant for senior managers: screening, due diligence, valuation, integration, and post-merger analysis. |
+| [M&A Opportunity Analyst](m-a-opportunity-analyst.md) | Finds, evaluates, and structures M&A opportunities for a VP of Strategy. |
 | [Market Analysis Strategist](../../operations/data-analysis/market-analysis-strategist.md) | Turns market data into clear analysis and strategy for global operations. |
 | [Market Insight Strategist](market-insight-strategist.md) | Turns market data into strategic insights for CEO decisions. |
 | [Market Intelligence Analyst](market-intelligence-analyst.md) | Turns market data into strategic insights and reports for a Global Head of Marketing. |
 | [Market Research Strategy Assistant](market-research-strategy-assistant.md) | Turns your market data into strategy-ready insights, forecasts, and customer intelligence. |
 | [Market Sizing Analysis](market-sizing-analysis.md) | Calculate TAM, SAM, and SOM for startup market sizing with three methodologies. |
+| [Market Strategy Analyst](market-strategy-analyst.md) | Turns market data into strategic insights for Directors of Strategy. |
 | [Market Trend Analyzer](../../management/data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
 | [Market Trend Intelligence Analyst](market-trend-intelligence-analyst.md) | Tracks market trends, competitors, and consumer shifts from data your team feeds it. |
 | [Market Trend Navigator](../../sales/data-analysis/market-trend-navigator.md) | Market trend analysis and sales intelligence for Vice Presidents of Sales. |
+| [Market Trend Strategist](market-trend-strategist.md) | Turns market data into strategic insights and forecasts for a VP of Strategy. |
 | [Marketing Attribution Analyst](../../marketing/data-analysis/marketing-attribution-analyst.md) | Models multi-touch attribution, validates channel performance with incrementality testing, and optimizes budget allocation. Uses confirmed data only. |
 | [Marketing Data Decision Assistant](marketing-data-decision-assistant.md) | Turns marketing data into decisions: analysis, segmentation, forecasting, and ROI. |
 | [Marketing Data Insights Assistant](marketing-data-insights-assistant.md) | Turns marketing data into decisions: analysis, segmentation, prediction, and optimization. |
@@ -123,6 +142,7 @@ Clean, query, chart and explain data. 177 Grok Bot templates, 108 of them filed 
 | [News Sentiment Engine](../../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 | [Offer Comparison Analyzer](../../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
 | [Operational Efficiency Analysis Assistant](operational-efficiency-analysis-assistant.md) | Analyzes operations and hands back improvement plans for executive decisions. |
+| [Operational Efficiency Optimizer](operational-efficiency-optimizer.md) | Analyzes operations, finds inefficiencies, and plans improvements for senior executives. |
 | [Operational Risk Management Assistant](../../operations/data-analysis/operational-risk-management-assistant.md) | Turns operational data into risk insights, plans, and reports for global operations heads. |
 | [Operations Data Insights Assistant](../../operations/data-analysis/operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |
 | [Operations Optimization Assistant](operations-optimization-assistant.md) | Optimizes operations end-to-end: analyze processes, data, and risks; suggest improvements; track KPIs. |
@@ -133,17 +153,20 @@ Clean, query, chart and explain data. 177 Grok Bot templates, 108 of them filed 
 | [Patent Valuation Analyst](../../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Performance Metrics Strategist](performance-metrics-strategist.md) | Develops and refines performance metrics for strategic decision-making. |
 | [Performance Report](marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
+| [Pipeline Forecast Navigator](pipeline-forecast-navigator.md) | Turns sales data into forecasts, scenarios, and reports for business development decisions. |
 | [Portfolio Digest](../../finance/data-analysis/portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
 | [Predictive Modeling and Forecasting Guide](predictive-modeling-and-forecasting-guide.md) | Guides CDOs through predictive modeling and forecasting from data prep to deployment. |
 | [Predictive Modeling Assistant](predictive-modeling-assistant.md) | Builds and maintains predictive models for competitive intelligence, from data to forecasts. |
 | [Pricing Strategy Analyst](../../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
 | [Pricing Strategy Optimizer](pricing-strategy-optimizer.md) | Analyzes market, customer, and cost data to optimize pricing strategies. |
+| [Product Fit Analysis Assistant](product-fit-analysis-assistant.md) | Turns market and customer data into product fit decisions for business development. |
 | [Product Performance Insights Assistant](../../sales/data-analysis/product-performance-insights-assistant.md) | Analyzes product performance data and delivers actionable sales insights for global heads of sales. |
 | [Product Performance Review Assistant](../../sales/data-analysis/product-performance-review-assistant.md) | Analyzes product performance data and delivers actionable insights for CSOs. |
 | [Product Portfolio Strategist](product-portfolio-strategist.md) | Analyzes your product portfolio and returns strategic recommendations for growth, pricing, and positioning. |
 | [Product Positioning Insights Analyst](product-positioning-insights-analyst.md) | Turns market and competitor data into product positioning insights and recommendations. |
 | [Product Strategy Insights Assistant](product-strategy-insights-assistant.md) | Turns market, customer, and competitor data into product strategy insights for business development. |
 | [Quarterly Finance Report](../../finance/data-analysis/quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |
+| [Risk Management Director Assistant](risk-management-director-assistant.md) | Identifies, assesses, and manages business risks with AI-driven insights and reporting. |
 | [Risk Management Strategist](risk-management-strategist.md) | Risk management strategist for EVPs, turning data into actionable risk intelligence and mitigation plans. |
 | [Risk Manager](../../finance/data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](../../finance/data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
@@ -163,13 +186,22 @@ Clean, query, chart and explain data. 177 Grok Bot templates, 108 of them filed 
 | [Startup Metrics Framework](startup-metrics-framework.md) | Track and optimize startup KPIs from seed through Series A. |
 | [Stock Insight Optimizer](stock-insight-optimizer.md) | Tracks, analyzes, and optimizes inventory with real-time insights and reports. |
 | [Strategic Data Insights Assistant](strategic-data-insights-assistant.md) | Turns your data into strategic insights and recommendations for confident decisions. |
+| [Strategic Decision Support Assistant](strategic-decision-support-assistant.md) | Turns market, financial, and competitor data into clear strategic options for senior leadership. |
 | [Strategic Finance Planning Assistant](strategic-finance-planning-assistant.md) | Strategic financial analysis and planning support for an EVP of Finances. |
+| [Strategic Forecasting Planner](strategic-forecasting-planner.md) | Strategic forecasting assistant for Directors of Strategy, turning data into forward-looking insights and plans. |
+| [Strategic Risk Assessment Assistant](strategic-risk-assessment-assistant.md) | Identifies, evaluates, and communicates strategic risks for VP-level decision-making. |
+| [Strategic Risk Management Assistant](strategic-risk-management-assistant.md) | Identifies, assesses, and mitigates risks with scenario analysis and reporting for strategy directors. |
+| [Strategy Formulation Assistant](strategy-formulation-assistant.md) | Strategic analysis and planning support for Vice Presidents of Strategy, from market research to performance measurement. |
 | [Student Performance Analysis Assistant](../../education/data-analysis/student-performance-analysis-assistant.md) | Analyzes student data to guide interventions, reports, and school strategy. |
 | [Supply Chain Optimization Assistant](../../management/data-analysis/supply-chain-optimization-assistant.md) | Optimizes your supply chain with data-driven insights and recommendations. |
+| [Supply Chain Optimization Strategist](supply-chain-optimization-strategist.md) | Optimizes your supply chain with data-driven forecasting, inventory, supplier, and logistics decisions. |
 | [Survey Insight Analyzer](survey-insight-analyzer.md) | Turns raw survey responses into cleaned, analyzed, and visualized insights for founders. |
 | [Sustainability Program Strategist](sustainability-program-strategist.md) | Turns your sustainability goals into actionable, data-driven programs across operations. |
+| [SVP Financial Forecast Studio](svp-financial-forecast-studio.md) | Turns financial data into forecasts, risk insights, and board-ready reports for SVP decisions. |
+| [SVP Product Market Analyst](svp-product-market-analyst.md) | Turns market data into product decisions for senior product leaders. |
 | [Talent Lifecycle Manager](talent-lifecycle-manager.md) | Manages the full talent lifecycle for a CTO, from sourcing to offboarding, with data-driven insights. |
 | [Talent Management Strategy Assistant](talent-management-strategy-assistant.md) | Talent management strategy assistant for EVPs, covering acquisition to retention. |
+| [Talent Strategy Design Studio](talent-strategy-design-studio.md) | Designs and refines your talent development strategy from objectives to evaluation. |
 | [Talivia Agent Kit](../../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Tax Planning Strategy Assistant](tax-planning-strategy-assistant.md) | Tax planning and strategy assistant for an EVP of Finances. |
 | [Team Composition Analysis](../../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
@@ -178,6 +210,7 @@ Clean, query, chart and explain data. 177 Grok Bot templates, 108 of them filed 
 | [Trading Risk Manager](../../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
 | [Trend Intelligence Analyst](trend-intelligence-analyst.md) | Turns market data into trend intelligence for innovation strategists. |
 | [Vendor Portfolio Strategist](vendor-portfolio-strategist.md) | Vendor management strategist that researches, negotiates, monitors, and optimizes your vendor portfolio end-to-end. |
+| [VP Financial Forecast Builder](vp-financial-forecast-builder.md) | Builds financial forecasts and analyses from your data for VP-level decisions. |
 | [VP Supply Chain Insight Engine](../../operations/data-analysis/vp-supply-chain-insight-engine.md) | Optimizes your supply chain with data-driven insights and recommendations. |
 | [Weekly Ops Report](../../management/data-analysis/weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |
 | [Workforce Analytics Insights](../../human-resources/data-analysis/workforce-analytics-insights.md) | Turns workforce data into clear insights for HR decisions. |

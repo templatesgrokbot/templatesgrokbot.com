@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **211 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **221 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,19 @@ Accounting, budgeting, analysis and risk. **211 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 131 |
+| [Data Analysis](data-analysis/README.md) | 139 |
 | [Productivity](productivity/README.md) | 18 |
 | [Research](research/README.md) | 14 |
-| [Security & Compliance](security-and-compliance/README.md) | 13 |
+| [Security & Compliance](security-and-compliance/README.md) | 14 |
 | [Coding](coding/README.md) | 9 |
 | [Office Tools](office-tools/README.md) | 8 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 4 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
 | [Knowledge Management](knowledge-management/README.md) | 2 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Support & Community](support-and-community/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
 | [Social Media](social-media/README.md) | 1 |
 
@@ -67,6 +67,7 @@ Accounting, budgeting, analysis and risk. **211 ready-made Grok Bot templates** 
 | [Data Entry and Database Management Assistant](data-analysis/data-entry-and-database-management-assistant.md) | Handles data entry, database upkeep, validation, migration, analysis, reporting, security, and backups for administrative assistants. |
 | [Data Reporting Assistant](../operations/data-analysis/data-reporting-assistant.md) | Turns raw data into clean, analyzed, and presentation-ready reports for data entry specialists. |
 | [Data Visualization Guide](../it-and-development/data-analysis/data-visualization-guide.md) | Turns raw business data into clear, compelling visualizations and dashboards for stakeholder decisions. |
+| [Data-Driven Decision Support](../executives-and-strategy/data-analysis/data-driven-decision-support.md) | Turns raw data into clear insights and recommendations for executive decisions. |
 | [Deal Room Risk Analyst](data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
 | [Doordash Order Ledger](../operations/data-analysis/doordash-order-ledger.md) | Answers questions about DoorDash spending and ordering history from an audit log. |
 | [E-commerce Fraud Detection Assistant](../management/data-analysis/e-commerce-fraud-detection-assistant.md) | Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud. |
@@ -83,15 +84,18 @@ Accounting, budgeting, analysis and risk. **211 ready-made Grok Bot templates** 
 | [Executive Forecast Report Builder](../management/data-analysis/executive-forecast-report-builder.md) | Turns financial data into forecasts, scenarios, and reports for senior management decisions. |
 | [Executive Forecast Studio](../executives-and-strategy/data-analysis/executive-forecast-studio.md) | Turns financial data into forecasts, scenarios, and reports for executive decisions. |
 | [Executive Market Trend Forecaster](../management/data-analysis/executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
+| [Executive Risk Insight Suite](../executives-and-strategy/data-analysis/executive-risk-insight-suite.md) | Turns your risk data into assessments, strategies, and reports for executive decisions. |
 | [Executive Risk Intelligence Assistant](../executives-and-strategy/data-analysis/executive-risk-intelligence-assistant.md) | Turns your risk data into actionable insights and keeps your risk posture current. |
 | [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Expense Tracking and Analysis Assistant](data-analysis/expense-tracking-and-analysis-assistant.md) | Analyzes, categorizes, and reports expenses for accurate financial tracking and cost control. |
+| [Financial Analysis and Strategy Assistant](../executives-and-strategy/data-analysis/financial-analysis-and-strategy-assistant.md) | Analyzes financial data, builds forecasts, and flags risks for Managing Directors. |
 | [Financial Data Interpreter](data-analysis/financial-data-interpreter.md) | Interprets financial data and drafts reports for accountants. |
 | [Financial Document Parser](data-analysis/financial-document-parser.md) | Extracts structured data from financial documents and categorizes expenses. |
 | [Financial Forecast Assistant](../it-and-development/data-analysis/financial-forecast-assistant.md) | Builds and maintains your financial forecasts from data collection to stakeholder reporting. |
 | [Financial Forecasting Assistant](../management/data-analysis/financial-forecasting-assistant.md) | Turns your business unit's financial data into forecasts, reports, and risk insights. |
 | [Financial Forecasting Executive Assistant](../executives-and-strategy/data-analysis/financial-forecasting-executive-assistant.md) | Turns historical financial data into forecasts, scenarios, and reports for executive decisions. |
 | [Financial Forecasting Navigator](../executives-and-strategy/data-analysis/financial-forecasting-navigator.md) | Forecasts revenue, expenses, cash flow, and risks from your data, then checks actuals. |
+| [Financial Forecasting Strategist](../executives-and-strategy/data-analysis/financial-forecasting-strategist.md) | Builds and runs financial forecasts, scenario analyses, and risk assessments for strategic planning. |
 | [Financial Modeling and Analysis Assistant](../executives-and-strategy/data-analysis/financial-modeling-and-analysis-assistant.md) | Builds financial models, forecasts, and analyses from your data for executive decisions. |
 | [Financial Modeling Assistant](data-analysis/financial-modeling-assistant.md) | Builds financial models and analyses for accounting decisions. |
 | [Financial Modeling Consultant](../management/data-analysis/financial-modeling-consultant.md) | Builds and analyzes financial models for management consulting decisions. |
@@ -140,6 +144,7 @@ Accounting, budgeting, analysis and risk. **211 ready-made Grok Bot templates** 
 | [Risk Assessment Analyst](../operations/data-analysis/risk-assessment-analyst.md) | Turns your risk data into assessed, prioritized, and actionable risk intelligence for process improvement. |
 | [Risk Assessment and Mitigation Consultant](../management/data-analysis/risk-assessment-and-mitigation-consultant.md) | Identifies, analyzes, and mitigates risks across your organization with structured assessments and plans. |
 | [Risk Assessment Workflow Assistant](../legal/data-analysis/risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |
+| [Risk Management Director Assistant](../executives-and-strategy/data-analysis/risk-management-director-assistant.md) | Identifies, assesses, and manages business risks with AI-driven insights and reporting. |
 | [Risk Manager](data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
 | [School Budget Analysis Assistant](../education/data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
@@ -153,12 +158,15 @@ Accounting, budgeting, analysis and risk. **211 ready-made Grok Bot templates** 
 | [Startup Business Analyst Financial Projections](data-analysis/startup-business-analyst-financial-projections.md) | Build 3-5 year financial models with revenue, costs, cash, and scenarios for startups. |
 | [Startup Financial Modeling](data-analysis/startup-financial-modeling.md) | Build 3-5 year financial models with revenue, cost, cash flow, and scenario planning for startups. |
 | [Strategic Finance Planning Assistant](../executives-and-strategy/data-analysis/strategic-finance-planning-assistant.md) | Strategic financial analysis and planning support for an EVP of Finances. |
+| [Strategic Risk Management Assistant](../executives-and-strategy/data-analysis/strategic-risk-management-assistant.md) | Identifies, assesses, and mitigates risks with scenario analysis and reporting for strategy directors. |
 | [Supplier Cost Savings Planner](../management/data-analysis/supplier-cost-savings-planner.md) | Turns supplier cost data into savings plans, negotiation tactics, and stakeholder reports. |
+| [SVP Financial Forecast Studio](../executives-and-strategy/data-analysis/svp-financial-forecast-studio.md) | Turns financial data into forecasts, risk insights, and board-ready reports for SVP decisions. |
 | [Tax Document Organizer](data-analysis/tax-document-organizer.md) | Sweeps your folders for tax documents and builds a CPA-ready package with a chase list. |
 | [Tax Planning Strategy Assistant](../executives-and-strategy/data-analysis/tax-planning-strategy-assistant.md) | Tax planning and strategy assistant for an EVP of Finances. |
 | [Trading Ledger](data-analysis/trading-ledger.md) | Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L. |
 | [Trading Risk Manager](data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |
 | [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
+| [VP Financial Forecast Builder](../executives-and-strategy/data-analysis/vp-financial-forecast-builder.md) | Builds financial forecasts and analyses from your data for VP-level decisions. |
 | [Xlsx Official](data-analysis/xlsx-official.md) | Reads, edits, and creates spreadsheet files with formulas, formatting, and zero errors. |
 | [Xvary Stock Research](data-analysis/xvary-stock-research.md) | Thesis-driven equity analysis from public SEC EDGAR and market data. No advice, no non-public data. |
 | [Yield Intelligence](data-analysis/yield-intelligence.md) | Analyze passive income opportunities and build yield-optimized portfolios. |
@@ -212,6 +220,7 @@ Accounting, budgeting, analysis and risk. **211 ready-made Grok Bot templates** 
 | [Accounting Compliance Review Copilot](security-and-compliance/accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: review, audit, report, and train. |
 | [AML Compliance Assistant](../legal/security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
 | [Audit Ready File Builder](security-and-compliance/audit-ready-file-builder.md) | Prepares audit files, documents, and responses so your audit runs smoothly and nothing is missed. |
+| [Business Risk Management Assistant](../executives-and-strategy/security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Business Unit Risk Manager](../management/security-and-compliance/business-unit-risk-manager.md) | Risk management assistant for business unit managers covering identification, assessment, mitigation, monitoring, and reporting. |
 | [Enterprise Risk Management Assistant](../executives-and-strategy/security-and-compliance/enterprise-risk-management-assistant.md) | Identifies, assesses, and mitigates risks across your organization with structured analysis and reporting. |
 | [Executive Risk Management Assistant](../executives-and-strategy/security-and-compliance/executive-risk-management-assistant.md) | Assesses, plans, monitors, and reports risks for executive decision-making. |
@@ -275,6 +284,13 @@ Accounting, budgeting, analysis and risk. **211 ready-made Grok Bot templates** 
 | [Data Room Builder](knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
 | [Record Keeping and Filing Assistant](knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
 
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Deal Desk](sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
+| [M&A Deal Support Assistant](../executives-and-strategy/sales-and-negotiation/m-a-deal-support-assistant.md) | End-to-end M&A deal support: scouting, due diligence, valuation, negotiation, integration, and exit planning. |
+
 ## Support & Community
 
 | Template | What it does |
@@ -294,12 +310,6 @@ Accounting, budgeting, analysis and risk. **211 ready-made Grok Bot templates** 
 | Template | What it does |
 |---|---|
 | [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Deal Desk](sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
 
 ## Self-Improvement
 

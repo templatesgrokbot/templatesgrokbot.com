@@ -1,6 +1,6 @@
 # Marketing & Growth templates for PR and Communications
 
-Campaigns, ads, conversion and launch plans. 57 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 58 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Campaigns, ads, conversion and launch plans. 57 Grok Bot templates, 23 of them f
 | [Audience Segmentation Strategist](audience-segmentation-strategist.md) | Turns customer data into audience segments and targeted marketing strategies. |
 | [Brand Crisis Response Manager](../../management/marketing-and-growth/brand-crisis-response-manager.md) | Prepares and guides brand crisis responses from monitoring to recovery. |
 | [Brand Development Manager](../../sales/marketing-and-growth/brand-development-manager.md) | Develops and manages a brand's voice, content, and reputation across digital channels. |
+| [Brand Lifecycle Strategist](../../executives-and-strategy/marketing-and-growth/brand-lifecycle-strategist.md) | Develops and manages your brand strategy from research to crisis response. |
 | [Brand Messaging Alignment Assistant](brand-messaging-alignment-assistant.md) | Aligns your brand messaging across all channels and teams. |
 | [Brand Messaging and Positioning Assistant](brand-messaging-and-positioning-assistant.md) | Develops, tests, and refines brand messaging and positioning for PR specialists. |
 | [Brand Perception Psychologist](../../marketing/marketing-and-growth/brand-perception-psychologist.md) | Diagnose brand perception gaps and prescribe alignment changes using psychological frameworks. |

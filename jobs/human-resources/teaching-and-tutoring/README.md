@@ -1,13 +1,15 @@
 # Teaching & Tutoring templates for Human Resources
 
-Explain, quiz and guide someone through a subject. 33 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 35 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [BD Leader Training Architect](../../executives-and-strategy/teaching-and-tutoring/bd-leader-training-architect.md) | Designs, implements, and improves employee training programs for business development leaders. |
 | [Compliance Training Material Creator](../../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
 | [Compliance Training Program Developer](../../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
+| [Corporate Training Program Architect](../../executives-and-strategy/teaching-and-tutoring/corporate-training-program-architect.md) | Designs, delivers, and evaluates corporate training programs end-to-end. |
 | [Customer Service Training Builder](../../management/teaching-and-tutoring/customer-service-training-builder.md) | Builds and maintains customer service training modules from planning to feedback. |
 | [Diversity Training Program Assistant](diversity-training-program-assistant.md) | Designs, runs, and evaluates inclusive workplace diversity training programs. |
 | [E-Learning Strategy Planner](e-learning-strategy-planner.md) | Helps Training and Development Specialists plan, build, and improve e-learning programs. |

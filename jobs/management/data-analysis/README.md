@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 186 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 187 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -56,6 +56,7 @@ Clean, query, chart and explain data. 186 Grok Bot templates, 96 of them filed i
 | [Demand Forecasting Assistant](demand-forecasting-assistant.md) | Demand forecasting assistant for purchasing managers, turning data into accurate forecasts and clear reports. |
 | [Developer Churn](../../product-development/data-analysis/developer-churn.md) | Analyze developer churn and design retention strategies. |
 | [Developer Growth Analysis](../../it-and-development/data-analysis/developer-growth-analysis.md) | Analyzes recent coding chats to identify growth areas and curates learning resources. |
+| [Director Productivity Insight](../../executives-and-strategy/data-analysis/director-productivity-insight.md) | Analyzes employee productivity data and delivers actionable insights for managing directors. |
 | [Driver Satisfaction Survey Assistant](../../operations/data-analysis/driver-satisfaction-survey-assistant.md) | Builds, runs, and analyzes driver satisfaction surveys to improve fleet operations. |
 | [E-commerce Fraud Detection Assistant](e-commerce-fraud-detection-assistant.md) | Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud. |
 | [E-commerce Pricing Optimizer](e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |

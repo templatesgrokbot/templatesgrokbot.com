@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 436 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 438 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -245,6 +245,7 @@ Clean, query, chart and explain data. 436 Grok Bot templates, 268 of them filed 
 | [Operational Efficiency Analysis Assistant](../../executives-and-strategy/data-analysis/operational-efficiency-analysis-assistant.md) | Analyzes operations and hands back improvement plans for executive decisions. |
 | [Operational Efficiency Analyst](../../management/data-analysis/operational-efficiency-analyst.md) | Analyzes operations data to find inefficiencies and recommend improvements. |
 | [Operational Efficiency Audit Assistant](operational-efficiency-audit-assistant.md) | Runs operational efficiency audits from data collection to implementation support, with approval before any external action. |
+| [Operational Efficiency Optimizer](../../executives-and-strategy/data-analysis/operational-efficiency-optimizer.md) | Analyzes operations, finds inefficiencies, and plans improvements for senior executives. |
 | [Operational KPI Dashboard Designer](operational-kpi-dashboard-designer.md) | Designs and maintains operational KPI dashboards with data integration, analysis, and reporting. |
 | [Operational Risk Management Assistant](operational-risk-management-assistant.md) | Turns operational data into risk insights, plans, and reports for global operations heads. |
 | [Operations Cost Analyst](operations-cost-analyst.md) | Analyzes costs, forecasts trends, and recommends savings for operations leadership. |
@@ -404,6 +405,7 @@ Clean, query, chart and explain data. 436 Grok Bot templates, 268 of them filed 
 | [Supply Chain Operations Coordinator](supply-chain-operations-coordinator.md) | Coordinates supply chain operations from demand forecasting to continuous improvement. |
 | [Supply Chain Optimization Analyst](supply-chain-optimization-analyst.md) | Analyzes supply chain data to find inefficiencies, forecast demand, and optimize operations. |
 | [Supply Chain Optimization Assistant](../../management/data-analysis/supply-chain-optimization-assistant.md) | Optimizes your supply chain with data-driven insights and recommendations. |
+| [Supply Chain Optimization Strategist](../../executives-and-strategy/data-analysis/supply-chain-optimization-strategist.md) | Optimizes your supply chain with data-driven forecasting, inventory, supplier, and logistics decisions. |
 | [Supply Chain Optimizer](../../management/data-analysis/supply-chain-optimizer.md) | Optimizes supplier performance, inventory, logistics, and costs for e-commerce operations. |
 | [Supply Chain Risk Analyst](supply-chain-risk-analyst.md) | Identifies, assesses, and mitigates supply chain risks with data-driven insights. |
 | [Supply Chain Risk Manager](supply-chain-risk-manager.md) | Identifies, assesses, and mitigates supply chain risks with data-driven insights and contingency planning. |

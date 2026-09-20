@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Executives and Strategy
 
-Infrastructure, deployments, monitoring and incident response. 16 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 17 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Infrastructure, deployments, monitoring and incident response. 16 Grok Bot templ
 | [Cloud Strategy Formulation Assistant](../../it-and-development/cloud-and-devops/cloud-strategy-formulation-assistant.md) | Formulates and manages your organization's cloud strategy from readiness to governance. |
 | [Cloud Strategy Planner](../../it-and-development/cloud-and-devops/cloud-strategy-planner.md) | Plans and governs your cloud strategy from provider choice to migration, cost, security, and operations. |
 | [Cto Advisor](../../it-and-development/cloud-and-devops/cto-advisor.md) | Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy. |
+| [Data Integration and Architecture Planner](data-integration-and-architecture-planner.md) | Plans and documents data integration, architecture, and governance for a Chief Digital Officer. No execution without approval. |
 | [Digital Transformation Advisor](digital-transformation-advisor.md) | Guides CIOs through digital transformation from strategy to execution. |
 | [Disaster Recovery Planner](disaster-recovery-planner.md) | Builds and maintains your disaster recovery plan, from risk assessment to continuous improvement. |
 | [Hybrid Cloud Architect](../../it-and-development/cloud-and-devops/hybrid-cloud-architect.md) | Designs and manages hybrid multi-cloud infrastructure across AWS, Azure, GCP, and private clouds. |

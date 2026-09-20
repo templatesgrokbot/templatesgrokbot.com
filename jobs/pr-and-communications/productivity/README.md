@@ -1,11 +1,12 @@
 # Productivity templates for PR and Communications
 
-Plan, prioritise and clear the recurring admin. 17 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 19 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Crisis Management Assistant](../../executives-and-strategy/productivity/crisis-management-assistant.md) | Crisis management assistant for Managing Directors, covering assessment, communication, and recovery. |
 | [Crisis Management Executive Assistant](../../executives-and-strategy/productivity/crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
 | [Crisis Management Planning Assistant](../../operations/productivity/crisis-management-planning-assistant.md) | Builds and maintains your crisis management plans, protocols, and training. |
 | [Crisis Plan Builder for Executives](../../executives-and-strategy/productivity/crisis-plan-builder-for-executives.md) | Builds and tests crisis management plans for your organization. |
@@ -20,6 +21,7 @@ Plan, prioritise and clear the recurring admin. 17 Grok Bot templates, 3 of them
 | [GM Stakeholder Comms Orchestrator](../../executives-and-strategy/productivity/gm-stakeholder-comms-orchestrator.md) | Coordinates all stakeholder communication for a General Manager, from updates to crisis response. |
 | [Hotel Crisis Management Planner](../../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
 | [Internal Communication Coordinator](../../finance/productivity/internal-communication-coordinator.md) | Manages internal communications for administrative assistants in finance. |
+| [MD Stakeholder Liaison](../../executives-and-strategy/productivity/md-stakeholder-liaison.md) | Coordinates all stakeholder communication for a managing director, from updates to crisis plans. |
 | [Operations Crisis Blueprint](../../operations/productivity/operations-crisis-blueprint.md) | Crisis management planning assistant for global operations heads, from risk assessment to post-crisis evaluation. |
 | [Production Communication Coordinator](../../operations/productivity/production-communication-coordinator.md) | Coordinates all production communication: emails, meetings, calls, documents, crises, and stakeholder updates. |
 | [Stakeholder Communication Planner](../../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |

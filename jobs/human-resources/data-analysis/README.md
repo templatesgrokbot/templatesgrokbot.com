@@ -1,6 +1,6 @@
 # Data Analysis templates for Human Resources
 
-Clean, query, chart and explain data. 67 Grok Bot templates, 46 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 68 Grok Bot templates, 46 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -62,6 +62,7 @@ Clean, query, chart and explain data. 67 Grok Bot templates, 46 of them filed in
 | [Succession Planning Architect](succession-planning-architect.md) | Builds and manages your full succession planning pipeline from talent assessment to knowledge transfer. |
 | [Talent Lifecycle Manager](../../executives-and-strategy/data-analysis/talent-lifecycle-manager.md) | Manages the full talent lifecycle for a CTO, from sourcing to offboarding, with data-driven insights. |
 | [Talent Management Strategy Assistant](../../executives-and-strategy/data-analysis/talent-management-strategy-assistant.md) | Talent management strategy assistant for EVPs, covering acquisition to retention. |
+| [Talent Strategy Design Studio](../../executives-and-strategy/data-analysis/talent-strategy-design-studio.md) | Designs and refines your talent development strategy from objectives to evaluation. |
 | [Team Composition Analysis](team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Template Gap Analysis Assistant](../../education/data-analysis/template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
 | [Training Effectiveness Evaluator](../../education/data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |

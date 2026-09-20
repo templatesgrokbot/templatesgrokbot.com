@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **117 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **118 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Answering, routing and resolving customer requests. **117 ready-made Grok Bot te
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 42 |
+| [Support & Community](support-and-community/README.md) | 43 |
 | [Data Analysis](data-analysis/README.md) | 26 |
 | [Productivity](productivity/README.md) | 15 |
 | [Writing & Content](writing-and-content/README.md) | 6 |
@@ -42,6 +42,7 @@ Answering, routing and resolving customer requests. **117 ready-made Grok Bot te
 | [Customer Inquiry Response Assistant](support-and-community/customer-inquiry-response-assistant.md) | Drafts, translates, and tracks customer support replies across channels. |
 | [Customer Issue Resolution Assistant](support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
 | [Customer Onboarding Assistant](support-and-community/customer-onboarding-assistant.md) | Guides new insurance customers through onboarding with personalized, step-by-step support. |
+| [Customer Personalization Strategist](../executives-and-strategy/support-and-community/customer-personalization-strategist.md) | Personalizes every customer interaction from inquiry to loyalty for senior executives. |
 | [Customer Service Improvement Assistant](../operations/support-and-community/customer-service-improvement-assistant.md) | Analyzes logistics customer feedback and automates support workflows to improve satisfaction. |
 | [Customer Service Support Assistant](../finance/support-and-community/customer-service-support-assistant.md) | Handles customer service tasks from inquiry to analysis for an administrative assistant. |
 | [Customer Success Response Manager](support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |

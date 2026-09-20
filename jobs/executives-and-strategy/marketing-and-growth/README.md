@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Executives and Strategy
 
-Campaigns, ads, conversion and launch plans. 114 Grok Bot templates, 82 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 126 Grok Bot templates, 94 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,8 @@ Campaigns, ads, conversion and launch plans. 114 Grok Bot templates, 82 of them 
 | [Affiliate Marketing Optimizer](affiliate-marketing-optimizer.md) | Optimizes affiliate marketing campaigns from keyword research to performance reporting. |
 | [AI Marketing Team](../../marketing/marketing-and-growth/ai-marketing-team.md) | Runs campaign ideas through three marketing roles to catch blind spots before launch. |
 | [B2B Lead Funnel Architect](b2b-lead-funnel-architect.md) | Lead generation strategist that researches, creates, and optimizes campaigns to convert prospects into customers. |
+| [BD Director Brand Positioning Guide](bd-director-brand-positioning-guide.md) | Guides Directors of Business Development through brand positioning from research to strategy. |
+| [Brand Lifecycle Strategist](brand-lifecycle-strategist.md) | Develops and manages your brand strategy from research to crisis response. |
 | [Brand Perception Psychologist](../../marketing/marketing-and-growth/brand-perception-psychologist.md) | Diagnose brand perception gaps and prescribe alignment changes using psychological frameworks. |
 | [Brand Positioning Advisor](brand-positioning-advisor.md) | Analyzes and refines your brand positioning, messaging, and market differentiation. |
 | [Brand Positioning and Messaging Architect](brand-positioning-and-messaging-architect.md) | Develops and refines brand positioning and messaging from market data. |
@@ -23,6 +25,7 @@ Campaigns, ads, conversion and launch plans. 114 Grok Bot templates, 82 of them 
 | [Campaign Performance Evaluator](campaign-performance-evaluator.md) | Evaluates marketing campaign performance and delivers actionable optimization insights. |
 | [Campaign Plan](../../marketing/marketing-and-growth/marketing-campaign-plan.md) | Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu |
 | [Campaign ROI Orchestrator](campaign-roi-orchestrator.md) | Plans, runs, and optimizes influencer partnerships from discovery to ROI. |
+| [CDO Marketing Strategy Builder](cdo-marketing-strategy-builder.md) | Builds and runs a complete digital marketing strategy from research to reporting. |
 | [Channel Mix Budget Allocator](channel-mix-budget-allocator.md) | Optimizes marketing budget allocation across channels, campaigns, and segments using data analysis. |
 | [CMO Feedback Insight Engine](cmo-feedback-insight-engine.md) | Turns customer feedback into actionable insights for CMOs. |
 | [CMO Influencer ROI Manager](cmo-influencer-roi-manager.md) | Manages influencer partnerships from discovery to ROI for CMOs. |
@@ -48,6 +51,7 @@ Campaigns, ads, conversion and launch plans. 114 Grok Bot templates, 82 of them 
 | [Event Marketing Strategy Planner](event-marketing-strategy-planner.md) | Plans and runs your event marketing strategy from audience to post-event follow-up. (under 130 characters) Wait, that's 130? Let me count: |
 | [Event Planning Assistant](event-planning-assistant.md) | Plans and manages global events from research to post-event analysis. |
 | [EVP Marketing Budget Advisor](evp-marketing-budget-advisor.md) | Optimizes marketing budgets by analyzing performance data and recommending reallocations. |
+| [Expansion Strategy Planner](expansion-strategy-planner.md) | Expansion strategy research, planning, and execution support for business development VPs. |
 | [Founder Marketing Strategy Planner](founder-marketing-strategy-planner.md) | Turns market data and customer feedback into a complete marketing strategy for founders. |
 | [Free Tier Strategy](../../product-development/marketing-and-growth/free-tier-strategy.md) | Design free tiers that developers love and that convert to paid naturally. |
 | [Free Tool Strategy](../../marketing/marketing-and-growth/free-tool-strategy.md) | Plan and evaluate free tools for lead gen, SEO, and brand awareness. |
@@ -65,6 +69,7 @@ Campaigns, ads, conversion and launch plans. 114 Grok Bot templates, 82 of them 
 | [International Market Expansion Planner](international-market-expansion-planner.md) | Guides international market expansion from research to entry with data-driven insights. |
 | [Launch Campaign Orchestrator](launch-campaign-orchestrator.md) | Plans and executes product launches from market research to post-launch follow-up. |
 | [Launch Plan Architect](launch-plan-architect.md) | Plans and executes product launches from market research to post-launch follow-up. |
+| [Launch Plan Architect for BizDev](launch-plan-architect-for-bizdev.md) | Plans and executes product launches from market research to post-launch review. |
 | [Launch Plan Orchestrator](launch-plan-orchestrator.md) | Plans and executes product launches from market research to performance tracking. |
 | [Launch Strategy](../../marketing/marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
 | [Launch War Room](../../product-development/marketing-and-growth/launch-war-room.md) | Run an adversarial go/no-go war room and phased rollout plan for any launch. |
@@ -77,6 +82,7 @@ Campaigns, ads, conversion and launch plans. 114 Grok Bot templates, 82 of them 
 | [Market Trend Forecasting Assistant](../../management/marketing-and-growth/market-trend-forecasting-assistant.md) | Forecast market trends and plan strategy from data, competitor, and consumer insights. |
 | [Marketing Automation Orchestrator](marketing-automation-orchestrator.md) | Automates marketing workflows, personalizes content, and delivers data-driven insights for the global marketing leader. |
 | [Marketing Budget Optimizer](marketing-budget-optimizer.md) | Optimizes marketing budget allocation with data-driven insights and ROI analysis. |
+| [Marketing Campaign Enhancer](marketing-campaign-enhancer.md) | Enhances marketing campaigns with research, content, analysis, and optimization. |
 | [Marketing Channel Optimizer](marketing-channel-optimizer.md) | Optimizes marketing channels with data-driven insights and content creation. |
 | [Marketing Content Ideation Assistant](marketing-content-ideation-assistant.md) | Generates and refines content ideas, outlines, and scripts for marketing campaigns. |
 | [Marketing Content Strategist](marketing-content-strategist.md) | Builds and refines your content strategy from research to performance analysis. |
@@ -99,14 +105,18 @@ Campaigns, ads, conversion and launch plans. 114 Grok Bot templates, 82 of them 
 | [Photography Business Strategy Planner](../../creatives/marketing-and-growth/photography-business-strategy-planner.md) | Turns your photography business data into market strategy, pricing, and growth plans. |
 | [Pricing Strategy](../../marketing/marketing-and-growth/pricing-strategy.md) | Designs pricing, packaging, and monetization strategy based on customer willingness to pay and growth objectives. |
 | [Product Development Assistant](product-development-assistant.md) | Guides CEOs through product development from market research to launch, using analysis and planning. |
+| [Product Diversification Strategist](product-diversification-strategist.md) | Guides product diversification from market research to launch and tracking. |
 | [Product Ideation Assistant](product-ideation-assistant.md) | Turns raw product ideas into validated, prioritized concepts with market-ready details. |
 | [Product Launch Strategist](product-launch-strategist.md) | Plans and executes product launches from market research to performance review. |
+| [Product Positioning Strategist](product-positioning-strategist.md) | Turns market data into a defensible product position, messaging, and launch plan. |
 | [Referral Program](../../marketing/marketing-and-growth/referral-program.md) | Designs and optimizes referral and affiliate programs to turn customers into growth engines. |
 | [Retention Growth Architect](retention-growth-architect.md) | Analyzes customer data and generates strategies to improve engagement and retention. |
+| [Revenue Stream Discovery Assistant](revenue-stream-discovery-assistant.md) | Finds and validates new revenue streams for your business. |
 | [ROI Budget Compass](roi-budget-compass.md) | Optimizes marketing budgets by analyzing data, competitors, and trends for maximum ROI. |
 | [Sales Pipeline Campaign Builder](sales-pipeline-campaign-builder.md) | Turns your lead generation data and content into targeted campaigns and prioritized follow-ups. |
 | [Scarcity Urgency Psychologist](../../marketing/marketing-and-growth/scarcity-urgency-psychologist.md) | Design genuine scarcity and urgency that motivates action without manipulation. |
 | [Search Console Analysis: Find Quick Wins](../../marketing/marketing-and-growth/search-console-analyse.md) | Finds quick SEO wins in your Google Search Console export with concrete URLs and fixes. |
+| [Segment Growth Architect](segment-growth-architect.md) | Turns customer data into actionable market segments and growth strategies for business development. |
 | [Segment Marketing Architect](segment-marketing-architect.md) | Turns customer data into segments, profiles, and targeted marketing strategies. |
 | [Segment Persona Campaign Builder](segment-persona-campaign-builder.md) | Turns customer data into segments, personas, and targeted marketing plans. |
 | [SEO and Visibility Planner](seo-and-visibility-planner.md) | Plans and runs your SEO and online visibility work from research to reporting. |
@@ -118,7 +128,9 @@ Campaigns, ads, conversion and launch plans. 114 Grok Bot templates, 82 of them 
 | [SEO Visibility Planner](seo-visibility-planner.md) | Turns your SEO goals into keyword lists, audits, and tracking plans for the marketing team. |
 | [Startup Business Analyst Business Case](startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
 | [SWOT Analysis Guide](../../sales/marketing-and-growth/swot-analysis-guide.md) | Guides business development managers through complete SWOT analyses with data-driven insights. |
+| [Talent Acquisition Strategy Advisor](talent-acquisition-strategy-advisor.md) | Talent acquisition strategy support for managing directors, from market analysis to hiring analytics. |
 | [Trust Calibrator](../../marketing/marketing-and-growth/trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
 | [Video Strategy Retargeting Builder](video-strategy-retargeting-builder.md) | Builds and runs your video marketing strategy from research to retargeting. |
+| [VP Brand Positioning Studio](vp-brand-positioning-studio.md) | Develops and refines brand positioning strategies for business development leaders. |
 
 [← All Executives and Strategy templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/executives-and-strategy)

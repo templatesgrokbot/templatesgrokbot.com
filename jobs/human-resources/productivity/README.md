@@ -1,6 +1,6 @@
 # Productivity templates for Human Resources
 
-Plan, prioritise and clear the recurring admin. 44 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 47 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, prioritise and clear the recurring admin. 44 Grok Bot templates, 33 of the
 | [Git Pr Workflows Onboard](git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
 | [Global TA Strategy Advisor](global-ta-strategy-advisor.md) | Enhances talent acquisition with sourcing, branding, and data-driven insights. |
 | [Hiring Scorecard Builder](hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
+| [HR and Recruitment Operations Assistant](../../executives-and-strategy/productivity/hr-and-recruitment-operations-assistant.md) | Streamlines HR and recruitment workflows for senior executives, from job posts to analytics. |
 | [HR Crisis Response Planner](hr-crisis-response-planner.md) | Plans and executes HR crisis response from communication to recovery. |
 | [Hr Pro](hr-pro.md) | HR partner for hiring, onboarding, PTO, performance, and compliant policies. |
 | [HRIS Implementation Guide](hris-implementation-guide.md) | Guides HRIS specialists through implementation, from selection to ongoing maintenance. |
@@ -44,7 +45,9 @@ Plan, prioritise and clear the recurring admin. 44 Grok Bot templates, 33 of the
 | [Resume Screening Assistant](resume-screening-assistant.md) | Screens resumes against job requirements and shortlists top candidates for HR consultants. |
 | [Succession Plan Builder for HR Leaders](succession-plan-builder-for-hr-leaders.md) | Turns HR data into a complete succession plan with candidates, development paths, and risk checks. |
 | [Succession Planning Strategist](succession-planning-strategist.md) | Guides VPs of HR through succession planning, from identifying critical roles to measuring program success. |
+| [Talent Acquisition Strategy Planner](../../executives-and-strategy/productivity/talent-acquisition-strategy-planner.md) | Talent acquisition strategy assistant for VPs of Business Development, covering market research to onboarding support. |
 | [Talent Acquisition Workflow Manager](../../executives-and-strategy/productivity/talent-acquisition-workflow-manager.md) | Manages your end-to-end talent acquisition workflow, from job posts to onboarding and feedback. |
+| [Talent Development Strategy Planner](../../executives-and-strategy/productivity/talent-development-strategy-planner.md) | Turns your talent strategy into a working plan: gaps, programs, pipelines, and metrics, all in one place. No fluff, just the work. |
 | [Talent Management Assistant](talent-management-assistant.md) | Manages the full talent lifecycle from sourcing to retention with data-driven insights. |
 | [Training Budget Optimizer](../../education/productivity/training-budget-optimizer.md) | Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators. |
 | [Training Program Advisor](training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |

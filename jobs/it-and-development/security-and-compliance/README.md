@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 258 Grok Bot templates, 246 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 259 Grok Bot templates, 246 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -69,6 +69,7 @@ Authorised security testing, audits and regulatory work. 258 Grok Bot templates,
 | [Cybersecurity Management Assistant](cybersecurity-management-assistant.md) | Cybersecurity management assistant for global heads of IT, turning data into defense actions. |
 | [Cybersecurity Risk Assessment Assistant](cybersecurity-risk-assessment-assistant.md) | Guides IT VPs through cybersecurity risk assessments, from scans to reports. |
 | [Cybersecurity Strategy Developer](../../executives-and-strategy/security-and-compliance/cybersecurity-strategy-developer.md) | Develops and manages your organization's cybersecurity strategy from risk assessment to incident response. |
+| [Cybersecurity Strategy Planner](../../executives-and-strategy/security-and-compliance/cybersecurity-strategy-planner.md) | Plans and runs your cybersecurity strategy from risk to response. |
 | [Data Management Governance Assistant](data-management-governance-assistant.md) | Aides VPs of IT in data management tasks from classification to compliance. |
 | [Data Privacy Compliance](../../legal/security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
 | [Database Security](database-security.md) | Authorized database security assessment for PostgreSQL, MySQL, MSSQL, MongoDB, and Redis. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,588 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,591 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,10 +12,10 @@ Engineers, DevOps, security and IT teams. **2,588 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 1,013 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 387 |
-| [Security & Compliance](security-and-compliance/README.md) | 258 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 388 |
+| [Security & Compliance](security-and-compliance/README.md) | 259 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 210 |
-| [Data Analysis](data-analysis/README.md) | 175 |
+| [Data Analysis](data-analysis/README.md) | 176 |
 | [Research](research/README.md) | 92 |
 | [Design](design/README.md) | 91 |
 | [Generative Code](generative-code/README.md) | 88 |
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,588 ready-made Grok Bot templates*
 | [Zapier Make Patterns](cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 387 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 388 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Security & Compliance
 
@@ -80,7 +80,7 @@ Engineers, DevOps, security and IT teams. **2,588 ready-made Grok Bot templates*
 | [Ad Security Reviewer](security-and-compliance/ad-security-reviewer.md) | Audits Active Directory security posture and identifies privilege escalation risks from exported evidence. |
 | [Smart Contract Auditor](security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
 
-[All 258 Security & Compliance templates →](security-and-compliance/README.md)
+[All 259 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Generative AI and LLM
 
@@ -110,7 +110,7 @@ Engineers, DevOps, security and IT teams. **2,588 ready-made Grok Bot templates*
 | [Plotly](data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Nosql Specialist](data-analysis/nosql-specialist.md) | Designs and optimizes NoSQL databases for MongoDB, Redis, Cassandra, and key-value stores. |
 
-[All 175 Data Analysis templates →](data-analysis/README.md)
+[All 176 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 

@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **135 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **136 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Property, building and site work. **135 ready-made Grok Bot templates** for this
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 36 |
-| [Productivity](productivity/README.md) | 33 |
+| [Productivity](productivity/README.md) | 34 |
 | [Security & Compliance](security-and-compliance/README.md) | 18 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 15 |
 | [Research](research/README.md) | 12 |
@@ -86,6 +86,7 @@ Property, building and site work. **135 ready-made Grok Bot templates** for this
 | [Production Deadline Planner](../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
 | [Production Resource Allocation Planner](../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
 | [Project Budget Management Assistant](../management/productivity/project-budget-management-assistant.md) | Guides project managers through budget planning, monitoring, and adjustments. |
+| [Project Management Assistant](../executives-and-strategy/productivity/project-management-assistant.md) | Plans, tracks, and optimizes projects for managing directors. |
 | [Project Management Coordination Assistant](../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
 | [Project Management Efficiency Assistant](../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Project Management Support Assistant](../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |

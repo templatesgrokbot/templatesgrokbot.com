@@ -1,6 +1,6 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 71 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 77 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,12 +30,16 @@ Clean, query, chart and explain data. 71 Grok Bot templates, 0 of them filed in 
 | [Data Formatting and Organization Assistant](../../operations/data-analysis/data-formatting-and-organization-assistant.md) | Cleans, standardizes, and organizes data for data entry specialists. |
 | [Data Insights Strategist](../../executives-and-strategy/data-analysis/data-insights-strategist.md) | Turns raw data into forecasts, segments, and stories for executive decisions. |
 | [Data Quality Control Assistant](../../operations/data-analysis/data-quality-control-assistant.md) | Runs quality control checks on entered data and reports issues for correction. |
+| [Data Quality Management Assistant](../../executives-and-strategy/data-analysis/data-quality-management-assistant.md) | Assesses, cleans, validates, and reports on data quality for executive decisions. |
 | [Data Reporting Assistant](../../operations/data-analysis/data-reporting-assistant.md) | Turns raw data into clean, analyzed, and presentation-ready reports for data entry specialists. |
 | [Data Validation Assistant](../../operations/data-analysis/data-validation-assistant.md) | Validates and cleans data entry work with routines for formatting, duplicates, consistency, and quality. |
+| [Data Visualization and Reporting Assistant](../../executives-and-strategy/data-analysis/data-visualization-and-reporting-assistant.md) | Turns raw data into clear visual stories and reports for executive decisions. |
 | [Data Visualization Guide](../../it-and-development/data-analysis/data-visualization-guide.md) | Turns raw business data into clear, compelling visualizations and dashboards for stakeholder decisions. |
+| [Data-Driven Decision Support](../../executives-and-strategy/data-analysis/data-driven-decision-support.md) | Turns raw data into clear insights and recommendations for executive decisions. |
 | [Employee Template Tracking Planner](../../education/data-analysis/employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
 | [Environmental Risk Assessment Assistant](../../science-and-research/data-analysis/environmental-risk-assessment-assistant.md) | Assists environmental engineers with risk assessment, analysis, reporting, and compliance. |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
+| [Executive Risk Insight Suite](../../executives-and-strategy/data-analysis/executive-risk-insight-suite.md) | Turns your risk data into assessments, strategies, and reports for executive decisions. |
 | [Executive Risk Intelligence Assistant](../../executives-and-strategy/data-analysis/executive-risk-intelligence-assistant.md) | Turns your risk data into actionable insights and keeps your risk posture current. |
 | [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Gap Closure Training Planner](../../human-resources/data-analysis/gap-closure-training-planner.md) | Identifies training needs and aligns development programs with organizational goals. |
@@ -68,6 +72,8 @@ Clean, query, chart and explain data. 71 Grok Bot templates, 0 of them filed in 
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Stakeholder Engagement Analyst](../../it-and-development/data-analysis/stakeholder-engagement-analyst.md) | Maps, analyzes, and reports on stakeholders to sharpen engagement strategies. |
 | [Strategic Data Insights Assistant](../../executives-and-strategy/data-analysis/strategic-data-insights-assistant.md) | Turns your data into strategic insights and recommendations for confident decisions. |
+| [Strategic Risk Assessment Assistant](../../executives-and-strategy/data-analysis/strategic-risk-assessment-assistant.md) | Identifies, evaluates, and communicates strategic risks for VP-level decision-making. |
+| [Strategic Risk Management Assistant](../../executives-and-strategy/data-analysis/strategic-risk-management-assistant.md) | Identifies, assesses, and mitigates risks with scenario analysis and reporting for strategy directors. |
 | [Supplier Evaluation Analyst](../../management/data-analysis/supplier-evaluation-analyst.md) | Evaluates supplier performance, risk, and compliance to support procurement decisions. |
 | [Survey Data Processing Assistant](../../operations/data-analysis/survey-data-processing-assistant.md) | Cleans, enters, validates, analyzes, and reports survey data with accuracy and insight. |
 | [Training Needs Analysis Assistant](../../education/data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |

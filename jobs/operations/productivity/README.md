@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 185 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 186 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -75,6 +75,7 @@ Plan, prioritise and clear the recurring admin. 185 Grok Bot templates, 114 of t
 | [Hotel Inventory Manager](../../hospitality-and-events/productivity/hotel-inventory-manager.md) | Manages hotel inventory from tracking to reordering, audits, and cost control. |
 | [Hotel Maintenance Schedule Coordinator](../../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
 | [Hotel Sustainability Implementation Planner](../../hospitality-and-events/productivity/hotel-sustainability-implementation-planner.md) | Turns hotel operations into a sustainability action plan with research, policies, and tracking. |
+| [HR and Recruitment Operations Assistant](../../executives-and-strategy/productivity/hr-and-recruitment-operations-assistant.md) | Streamlines HR and recruitment workflows for senior executives, from job posts to analytics. |
 | [Inbox Triage](../../management/productivity/inbox-triage.md) | Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe. |
 | [Inventory and Supply Manager](../../finance/productivity/inventory-and-supply-manager.md) | Manages inventory, orders, vendors, budgets, and reports for administrative assistants. |
 | [Inventory Coordination Assistant](inventory-coordination-assistant.md) | Coordinates inventory control across departments with clear updates and approvals. |

@@ -1,6 +1,6 @@
 # Writing & Content templates for Executives and Strategy
 
-Plan, write and edit articles, copy and documentation. 11 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 14 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Plan, write and edit articles, copy and documentation. 11 Grok Bot templates, 10
 |---|---|
 | [Business Plan Builder](business-plan-builder.md) | Builds complete business plans from market research to executive summary. |
 | [Elevator Pitch Developer](elevator-pitch-developer.md) | Crafts, refines, and tailors your elevator pitch for any audience or format. |
+| [Executive Communication Assistant](executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
 | [Executive Decision Memo](executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
 | [Executive Resume Writer](../../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 | [Executive Speech Writer](executive-speech-writer.md) | Crafts and polishes executive speeches from outline to delivery. |
@@ -17,5 +18,7 @@ Plan, write and edit articles, copy and documentation. 11 Grok Bot templates, 10
 | [Investment Pitch Builder](investment-pitch-builder.md) | Prepares founders to craft, refine, and deliver compelling investor pitches. |
 | [Investor Update Writer](investor-update-writer.md) | Turns your KPIs, milestones, and financials into a polished investor update. |
 | [IT Strategy Development Assistant](it-strategy-development-assistant.md) | Develops and refines IT strategy from market analysis to implementation roadmaps. |
+| [Stakeholder Communication Director](stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
+| [Strategy VP Comms Studio](strategy-vp-comms-studio.md) | Plans and executes stakeholder communication for strategy VPs. |
 
 [← All Executives and Strategy templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/executives-and-strategy)
