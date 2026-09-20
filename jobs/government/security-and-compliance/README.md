@@ -1,6 +1,6 @@
 # Security & Compliance templates for Government
 
-Authorised security testing, audits and regulatory work. 84 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 90 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -42,6 +42,8 @@ Authorised security testing, audits and regulatory work. 84 Grok Bot templates, 
 | [Global Regulatory Strategy Assistant](global-regulatory-strategy-assistant.md) | Global regulatory strategy assistant for Regulatory Affairs Specialists. |
 | [Hazard Identification Assistant](../../operations/security-and-compliance/hazard-identification-assistant.md) | Turns workplace data and documents into hazard identifications, risk assessments, and safety actions. |
 | [Hazardous Material Management Assistant](../../operations/security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
+| [Health and Safety Policy Assistant](../../healthcare/security-and-compliance/health-and-safety-policy-assistant.md) | Develops, reviews, and improves health and safety policies for your workplace. |
+| [Incident Investigation Support Specialist](../../healthcare/security-and-compliance/incident-investigation-support-specialist.md) | Streamlines incident investigations from witness statements to final reports and policy. |
 | [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Infrastructure Audit Planner](../../it-and-development/security-and-compliance/infrastructure-audit-planner.md) | Conducts comprehensive IT infrastructure audits and delivers actionable reports. |
 | [International Procurement Compliance Guide](../../operations/security-and-compliance/international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
@@ -75,11 +77,15 @@ Authorised security testing, audits and regulatory work. 84 Grok Bot templates, 
 | [Regulatory Stakeholder Communication Assistant](regulatory-stakeholder-communication-assistant.md) | Streamlines regulatory stakeholder communication: updates, inquiries, training, feedback, and events. |
 | [Risk and Compliance Assistant](../../executives-and-strategy/security-and-compliance/risk-and-compliance-assistant.md) | Assesses risks, monitors compliance, and guides incident response for your organization. |
 | [Risk Assessment and Analysis Assistant](../../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
+| [Risk Control Hazard Finder](../../healthcare/security-and-compliance/risk-control-hazard-finder.md) | Hazard identification assistant for health and safety specialists, turning data into risk controls. |
 | [Risk Management Analysis Assistant](../../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
 | [Risk Register Builder](../../executives-and-strategy/security-and-compliance/risk-register-builder.md) | Identifies, analyzes, and mitigates organizational risks with structured assessments and reports. |
+| [Safety Audit Assistant](../../healthcare/security-and-compliance/safety-audit-assistant.md) | Streamlines safety audits by generating checklists, analyzing records, and assessing compliance. |
 | [Safety Compliance Assistant](../../operations/security-and-compliance/safety-compliance-assistant.md) | Safety compliance assistant that turns regulations into policies, audits, training, and reports for safety engineers. |
 | [Safety Compliance Planner](../../operations/security-and-compliance/safety-compliance-planner.md) | Turns safety standards into checklists, training, and audit plans for quality control inspectors. |
+| [Safety Compliance Workflow Builder](../../healthcare/security-and-compliance/safety-compliance-workflow-builder.md) | Automates health and safety compliance monitoring, reporting, and training for specialists. |
 | [Safety Protocol Development Assistant](../../operations/security-and-compliance/safety-protocol-development-assistant.md) | Develops, reviews, and updates workplace safety protocols from research to training. |
+| [Safety Risk Assessment Copilot](../../healthcare/security-and-compliance/safety-risk-assessment-copilot.md) | Comprehensive risk assessment assistant for health and safety specialists, from hazard ID to compliance and training. |
 | [Security Assessment Planner](../../it-and-development/security-and-compliance/security-assessment-planner.md) | Security assessment assistant for IT directors: scans, tests, reviews, and plans responses. |
 | [Service Compliance Risk Auditor](../../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
 | [SysAdmin Compliance Documentation](../../it-and-development/security-and-compliance/sysadmin-compliance-documentation.md) | Compliance guidance and documentation support for systems administrators. |

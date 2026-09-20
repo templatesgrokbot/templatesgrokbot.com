@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **119 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **133 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,13 @@ Answering, routing and resolving customer requests. **119 ready-made Grok Bot te
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 44 |
+| [Support & Community](support-and-community/README.md) | 55 |
 | [Data Analysis](data-analysis/README.md) | 26 |
 | [Productivity](productivity/README.md) | 15 |
-| [Writing & Content](writing-and-content/README.md) | 6 |
+| [Writing & Content](writing-and-content/README.md) | 7 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 5 |
 | [Knowledge Management](knowledge-management/README.md) | 4 |
 | [Translation](translation/README.md) | 4 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 3 |
 | [Coding](coding/README.md) | 3 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
 | [Research](research/README.md) | 3 |
@@ -47,14 +47,17 @@ Answering, routing and resolving customer requests. **119 ready-made Grok Bot te
 | [Customer Service Support Assistant](../finance/support-and-community/customer-service-support-assistant.md) | Handles customer service tasks from inquiry to analysis for an administrative assistant. |
 | [Customer Success Response Manager](support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 | [Customer Support](support-and-community/customer-support.md) | Resolves support tickets and creates help documentation from confirmed facts only. |
+| [Data Backup and Recovery Assistant](support-and-community/data-backup-and-recovery-assistant.md) | Guides users through data backup, recovery, and disaster planning to keep their data safe. |
 | [Emergency Response Coordinator](support-and-community/emergency-response-coordinator.md) | Coordinates emergency response support for insurance policyholders from first contact to claim resolution. |
 | [Escalation Handling Assistant](support-and-community/escalation-handling-assistant.md) | Manages customer escalations from detection to resolution with structured procedures and insights. |
 | [Feedback Loop Manager](../management/support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
 | [Freight Broker Customer Communication Assistant](../sales/support-and-community/freight-broker-customer-communication-assistant.md) | Handles customer inquiries, quotes, updates, complaints, and education for freight brokerage clients. |
 | [Freshdesk Automation](support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
 | [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
+| [Hardware Support Assistant](support-and-community/hardware-support-assistant.md) | Guides hardware users through troubleshooting, setup, upgrades, and maintenance with clear steps. |
 | [Help Desk Efficiency Director](../it-and-development/support-and-community/help-desk-efficiency-director.md) | Turns help desk tickets, chats, and metrics into faster resolutions and proactive IT support. |
 | [Helpdesk Automation](support-and-community/helpdesk-automation.md) | Browse helpdesk tickets, views, canned responses, and custom fields via Rube MCP. |
+| [Helpdesk Management Assistant](support-and-community/helpdesk-management-assistant.md) | Triages tickets, resolves common issues, and maintains helpdesk systems for technical support specialists. |
 | [Insurance Dispute Resolution Assistant](support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
 | [Insurance Payment Assistance Assistant](support-and-community/insurance-payment-assistance-assistant.md) | Handles insurance payment assistance: plans, extensions, reminders, processing, history, confirmations, and more. |
 | [Intercom Automation](support-and-community/intercom-automation.md) | Automate Intercom conversations, contacts, companies, and admins via Composio. |
@@ -67,14 +70,22 @@ Answering, routing and resolving customer requests. **119 ready-made Grok Bot te
 | [Policy Explanation Assistant](support-and-community/policy-explanation-assistant.md) | Explains insurance policies clearly and guides customers through coverage, claims, and renewals. |
 | [Policy Renewal and Updates Assistant](support-and-community/policy-renewal-and-updates-assistant.md) | Handles policy renewals, updates, and customer inquiries for insurance service reps. |
 | [Post-Sale Service Assistant](../sales/support-and-community/post-sale-service-assistant.md) | Handles post-sale customer service tasks and prepares content for sales managers. |
+| [Remote Support Troubleshooter](support-and-community/remote-support-troubleshooter.md) | Guides remote technical support for connectivity, software, security, and performance issues. |
 | [Returns Reverse Logistics](../operations/support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
+| [Security Support Guide](support-and-community/security-support-guide.md) | Guides users through security threats, fixes, and best practices step by step. |
 | [Social Media Customer Service Coordinator](../marketing/support-and-community/social-media-customer-service-coordinator.md) | Coordinates social media customer service: responses, feedback, escalations, and crisis plans. |
+| [Software Installation Support Assistant](support-and-community/software-installation-support-assistant.md) | Guides software installs, configs, updates, and troubleshooting for support specialists. |
 | [Supply Chain Customer Service Assistant](../operations/support-and-community/supply-chain-customer-service-assistant.md) | Handles customer service for logistics planners: tracking, issues, docs, returns, feedback, and proactive supply chain communication. |
 | [Support Automation Planner](support-and-community/support-automation-planner.md) | Automates repetitive support workflows, from ticket routing to reporting and knowledge base upkeep. |
 | [Support Crisis Prep Kit](support-and-community/support-crisis-prep-kit.md) | Plans and prepares crisis management materials for user support teams. |
+| [Support Desk Network Diagnostician](support-and-community/support-desk-network-diagnostician.md) | Diagnoses and resolves network issues for technical support specialists. |
 | [Support Triage](support-and-community/support-triage.md) | Reads the support queue, groups the duplicates, and surfaces the one bug behind twelve tickets. |
+| [Tech Integration Support Assistant](support-and-community/tech-integration-support-assistant.md) | Guides technical support specialists through every step of integrating new technologies. |
+| [Technical Issue Diagnoser](support-and-community/technical-issue-diagnoser.md) | Diagnoses technical issues and guides step-by-step troubleshooting for support specialists. |
+| [Technical Support Troubleshooting Assistant](support-and-community/technical-support-troubleshooting-assistant.md) | Guides technical support specialists through troubleshooting, diagnostics, and resolution. |
 | [Transport Customer Service Enhancer](../government/support-and-community/transport-customer-service-enhancer.md) | Manages customer feedback, support, and service improvements for transportation managers. |
 | [Troubleshooting Guide Creator](support-and-community/troubleshooting-guide-creator.md) | Turns support knowledge into complete troubleshooting guides, scripts, and tools for your users.\n\n{\"tagline\":\"Turns support knowledge into… |
+| [User Training and Support Assistant](support-and-community/user-training-and-support-assistant.md) | Guides users through setup, troubleshooting, and training while expanding your support knowledge base. |
 | [Zendesk Automation](support-and-community/zendesk-automation.md) | Automate Zendesk ticket, user, and organization workflows with Rube MCP. |
 
 ## Data Analysis
@@ -133,11 +144,22 @@ Answering, routing and resolving customer requests. **119 ready-made Grok Bot te
 | Template | What it does |
 |---|---|
 | [Crossframe Dialogue](../writers/writing-and-content/crossframe-dialogue.md) | Short, structured replies for reader questions, editorial responses, and consultation-style answers. |
+| [Documentation and Reporting Assistant](writing-and-content/documentation-and-reporting-assistant.md) | Turn your technical support knowledge into clear, accurate documentation and reports. |
 | [Patent Client Communication Assistant](../legal/writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
 | [Policy Update Communications Assistant](writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
 | [Receptionist Communication Assistant](writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
 | [Technical Documentation Reviewer](writing-and-content/technical-documentation-reviewer.md) | Reviews and refines technical documentation for accuracy, clarity, and compliance. |
 | [Training Module Developer](writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
+
+## Cloud & DevOps
+
+| Template | What it does |
+|---|---|
+| [Incident Reporting and Analysis Assistant](cloud-and-devops/incident-reporting-and-analysis-assistant.md) | Turns incident logs into reports, trends, and response plans for support teams. |
+| [Pagerduty Automation](../it-and-development/cloud-and-devops/pagerduty-automation.md) | Automate PagerDuty incident, service, schedule, and escalation management via Rube MCP. |
+| [Performance Optimization Assistant](cloud-and-devops/performance-optimization-assistant.md) | Optimizes system performance through code, database, network, and resource analysis. |
+| [System Upgrade Coordinator](cloud-and-devops/system-upgrade-coordinator.md) | Plans, executes, and supports system upgrades with minimal disruption. |
+| [WhatsApp Cloud API](../it-and-development/cloud-and-devops/whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |
 
 ## Knowledge Management
 
@@ -156,14 +178,6 @@ Answering, routing and resolving customer requests. **119 ready-made Grok Bot te
 | [Multilingual Claims Support Bot](../operations/translation/multilingual-claims-support-bot.md) | Multilingual insurance claims support: translate, communicate, and comply across languages. |
 | [Multilingual Support Documentation Assistant](translation/multilingual-support-documentation-assistant.md) | Translates and localizes all support content into multiple languages for global users. |
 | [Reception Language Assistant](translation/reception-language-assistant.md) | Handles front-desk language needs: translation, interpretation, and inclusive communication. |
-
-## Cloud & DevOps
-
-| Template | What it does |
-|---|---|
-| [Incident Reporting and Analysis Assistant](cloud-and-devops/incident-reporting-and-analysis-assistant.md) | Turns incident logs into reports, trends, and response plans for support teams. |
-| [Pagerduty Automation](../it-and-development/cloud-and-devops/pagerduty-automation.md) | Automate PagerDuty incident, service, schedule, and escalation management via Rube MCP. |
-| [WhatsApp Cloud API](../it-and-development/cloud-and-devops/whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |
 
 ## Coding
 

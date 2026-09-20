@@ -1,12 +1,13 @@
 # Writing & Content templates for Education
 
-Plan, write and edit articles, copy and documentation. 23 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Academic Cv Builder](academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
+| [Clinical Data Training Developer](../../healthcare/writing-and-content/clinical-data-training-developer.md) | Builds clinical data management training content, from modules to certification prep. |
 | [Cover Letter Generator](../../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Crossframe Critical](../../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
 | [E-Learning Content Creator](e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
@@ -21,6 +22,7 @@ Plan, write and edit articles, copy and documentation. 23 Grok Bot templates, 10
 | [Professional Proofreader](../../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 | [Quality Control Training Developer](../../operations/writing-and-content/quality-control-training-developer.md) | Builds quality control training materials from standards research to interactive modules. |
 | [Research Grants](../../science-and-research/writing-and-content/research-grants.md) | Writes competitive research proposals for NSF, NIH, DOE, and DARPA with agency-specific formatting and review criteria. |
+| [Safety Training Developer](../../healthcare/writing-and-content/safety-training-developer.md) | Develops, updates, and localizes workplace safety training materials and assessments. |
 | [Safety Training Program Developer](../../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
 | [School Policy Advisor](school-policy-advisor.md) | Drafts, reviews, and refines school policies with research and stakeholder input. |
 | [School Policy Development Assistant](school-policy-development-assistant.md) | Develops, reviews, and communicates school policies with research and stakeholder input. |

@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 91 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 92 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,6 +20,7 @@ Interfaces, brands, layouts and visual systems. 91 Grok Bot templates, 32 of the
 | [Ckw Design](../../creatives/design/ckw-design.md) | Production-grade web UI design with spatial rigor and usability critique. |
 | [Claymorphism](claymorphism.md) | Generate soft 3D claymorphic UI elements with rounded shapes and tactile shadows. |
 | [Cli Ui Designer](../../creatives/design/cli-ui-designer.md) | Creates terminal-inspired web interfaces with authentic CLI aesthetics. |
+| [Clinical Database Design Assistant](../../healthcare/design/clinical-database-design-assistant.md) | Designs and sets up clinical trial databases with models, schemas, security, and migration plans. |
 | [Code Showcase Core Components](code-showcase-core-components.md) | Use design tokens and core components for consistent UI. |
 | [Color Blocking](../../creatives/design/color-blocking.md) | Build Mondrian-style layouts with bold color blocks and thick grid lines. |
 | [Command Center Ui](command-center-ui.md) | Generate dark-themed monitoring UI code for NOCs and global maps. |

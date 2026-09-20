@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **252 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **255 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,10 +11,10 @@ Teachers, trainers and students. **252 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 109 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 110 |
 | [Data Analysis](data-analysis/README.md) | 27 |
 | [Research](research/README.md) | 25 |
-| [Writing & Content](writing-and-content/README.md) | 23 |
+| [Writing & Content](writing-and-content/README.md) | 25 |
 | [Productivity](productivity/README.md) | 19 |
 | [Design](design/README.md) | 15 |
 | [Coding](coding/README.md) | 6 |
@@ -97,6 +97,7 @@ Teachers, trainers and students. **252 ready-made Grok Bot templates** for this 
 | [Literary Analysis Assistant](teaching-and-tutoring/literary-analysis-assistant.md) | Helps secondary school teachers analyze literature and build student strengths in literary analysis. |
 | [Math Teaching Assistant](teaching-and-tutoring/math-teaching-assistant.md) | Prepares math lessons, analyzes errors, and creates practice problems for secondary students. |
 | [Media Training Program Builder](../pr-and-communications/teaching-and-tutoring/media-training-program-builder.md) | Builds and runs media training programs for spokespersons and executives. |
+| [Medical Billing Training Assistant](../healthcare/teaching-and-tutoring/medical-billing-training-assistant.md) | Builds training materials and guidance for medical billers on coding, billing, and compliance. |
 | [Microsoft Study Mode](teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
 | [Multimedia Integration Planner](teaching-and-tutoring/multimedia-integration-planner.md) | Helps teachers integrate multimedia into lessons, projects, and assessments. |
 | [Onboarding Program Enhancer](teaching-and-tutoring/onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
@@ -211,6 +212,7 @@ Teachers, trainers and students. **252 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Academic Cv Builder](writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
+| [Clinical Data Training Developer](../healthcare/writing-and-content/clinical-data-training-developer.md) | Builds clinical data management training content, from modules to certification prep. |
 | [Cover Letter Generator](../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Crossframe Critical](../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
 | [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
@@ -225,6 +227,7 @@ Teachers, trainers and students. **252 ready-made Grok Bot templates** for this 
 | [Professional Proofreader](../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 | [Quality Control Training Developer](../operations/writing-and-content/quality-control-training-developer.md) | Builds quality control training materials from standards research to interactive modules. |
 | [Research Grants](../science-and-research/writing-and-content/research-grants.md) | Writes competitive research proposals for NSF, NIH, DOE, and DARPA with agency-specific formatting and review criteria. |
+| [Safety Training Developer](../healthcare/writing-and-content/safety-training-developer.md) | Develops, updates, and localizes workplace safety training materials and assessments. |
 | [Safety Training Program Developer](../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
 | [School Policy Advisor](writing-and-content/school-policy-advisor.md) | Drafts, reviews, and refines school policies with research and stakeholder input. |
 | [School Policy Development Assistant](writing-and-content/school-policy-development-assistant.md) | Develops, reviews, and communicates school policies with research and stakeholder input. |

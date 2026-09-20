@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,591 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,605 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,23 +12,23 @@ Engineers, DevOps, security and IT teams. **2,591 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 1,013 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 388 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 390 |
 | [Security & Compliance](security-and-compliance/README.md) | 259 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 210 |
 | [Data Analysis](data-analysis/README.md) | 176 |
+| [Design](design/README.md) | 92 |
 | [Research](research/README.md) | 92 |
-| [Design](design/README.md) | 91 |
 | [Generative Code](generative-code/README.md) | 88 |
 | [Productivity](productivity/README.md) | 86 |
 | [Knowledge Management](knowledge-management/README.md) | 44 |
 | [Prompt Engineering](prompt-engineering/README.md) | 33 |
-| [Writing & Content](writing-and-content/README.md) | 28 |
+| [Writing & Content](writing-and-content/README.md) | 29 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 19 |
+| [Support & Community](support-and-community/README.md) | 17 |
 | [Generative Art](generative-art/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 9 |
-| [Support & Community](support-and-community/README.md) | 7 |
 | [Self-Improvement](self-improvement/README.md) | 4 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
 | [Video Editing](video-editing/README.md) | 3 |
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,591 ready-made Grok Bot templates*
 | [Zapier Make Patterns](cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 388 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 390 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Security & Compliance
 
@@ -112,6 +112,21 @@ Engineers, DevOps, security and IT teams. **2,591 ready-made Grok Bot templates*
 
 [All 176 Data Analysis templates →](data-analysis/README.md)
 
+## Design
+
+| Template | What it does |
+|---|---|
+| [Bento Ui](../creatives/design/bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
+| [Spatial Computing Ui](design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
+| [Gradient Design](../creatives/design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
+| [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
+| [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
+| [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
+| [Ux Flow](../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
+| [Design System](design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
+
+[All 92 Design templates →](design/README.md)
+
 ## Research
 
 | Template | What it does |
@@ -126,21 +141,6 @@ Engineers, DevOps, security and IT teams. **2,591 ready-made Grok Bot templates*
 | [Lightning Architecture Review](research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 
 [All 92 Research templates →](research/README.md)
-
-## Design
-
-| Template | What it does |
-|---|---|
-| [Bento Ui](../creatives/design/bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
-| [Spatial Computing Ui](design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
-| [Gradient Design](../creatives/design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
-| [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
-| [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
-| [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
-| [Ux Flow](../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
-| [Design System](design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
-
-[All 91 Design templates →](design/README.md)
 
 ## Generative Code
 
@@ -215,7 +215,7 @@ Engineers, DevOps, security and IT teams. **2,591 ready-made Grok Bot templates*
 | [Se Technical Writer](writing-and-content/se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
 | [Tech Resume Optimizer](writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 
-[All 28 Writing & Content templates →](writing-and-content/README.md)
+[All 29 Writing & Content templates →](writing-and-content/README.md)
 
 ## Marketing & Growth
 
@@ -231,6 +231,21 @@ Engineers, DevOps, security and IT teams. **2,591 ready-made Grok Bot templates*
 | [Developer Seo](../marketing/marketing-and-growth/developer-seo.md) | SEO strategy for technical queries and developer audiences. |
 
 [All 19 Marketing & Growth templates →](marketing-and-growth/README.md)
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Freshservice Automation](support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
+| [Community Building](../operations/support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
+| [Office Tech Troubleshooter](../finance/support-and-community/office-tech-troubleshooter.md) | Guides you through office tech fixes step by step, from printers to cloud storage. |
+| [Remote Support Troubleshooter](../customer-support/support-and-community/remote-support-troubleshooter.md) | Guides remote technical support for connectivity, software, security, and performance issues. |
+| [Tech Integration Support Assistant](../customer-support/support-and-community/tech-integration-support-assistant.md) | Guides technical support specialists through every step of integrating new technologies. |
+| [Intercom Automation](../customer-support/support-and-community/intercom-automation.md) | Automate Intercom conversations, contacts, companies, and admins via Composio. |
+| [Hardware Support Assistant](../customer-support/support-and-community/hardware-support-assistant.md) | Guides hardware users through troubleshooting, setup, upgrades, and maintenance with clear steps. |
+| [Man Page Reference](support-and-community/man-page-reference.md) | Answers questions about the golden_man_kw command-line tools and their man pages. |
+
+[All 17 Support & Community templates →](support-and-community/README.md)
 
 ## Generative Art
 
@@ -291,18 +306,6 @@ Engineers, DevOps, security and IT teams. **2,591 ready-made Grok Bot templates*
 | [Code Documentation Code Explain](../education/teaching-and-tutoring/code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |
 
 [All 9 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Freshservice Automation](support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
-| [Community Building](../operations/support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
-| [Office Tech Troubleshooter](../finance/support-and-community/office-tech-troubleshooter.md) | Guides you through office tech fixes step by step, from printers to cloud storage. |
-| [Intercom Automation](../customer-support/support-and-community/intercom-automation.md) | Automate Intercom conversations, contacts, companies, and admins via Composio. |
-| [Man Page Reference](support-and-community/man-page-reference.md) | Answers questions about the golden_man_kw command-line tools and their man pages. |
-| [Help Desk Efficiency Director](support-and-community/help-desk-efficiency-director.md) | Turns help desk tickets, chats, and metrics into faster resolutions and proactive IT support. |
-| [Golden Man Reference](support-and-community/golden-man-reference.md) | Answers questions about golden_man command-line tools and their man pages. |
 
 ## Self-Improvement
 

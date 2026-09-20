@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 189 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 190 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -151,6 +151,7 @@ Plan, prioritise and clear the recurring admin. 189 Grok Bot templates, 114 of t
 | [Raffle Winner Picker](../../marketing/productivity/raffle-winner-picker.md) | Picks random winners from lists, spreadsheets, or Google Sheets for giveaways and contests. |
 | [Real Estate Transaction Coordinator](../../real-estate-and-construction/productivity/real-estate-transaction-coordinator.md) | Organizes, tracks, and coordinates every real estate transaction from contract to closing. |
 | [Revops](revops.md) | Design and optimize revenue operations, lead lifecycle, scoring, routing, and CRM automation. |
+| [Safety Training and Drill Coordinator](../../healthcare/productivity/safety-training-and-drill-coordinator.md) | Coordinates safety training and drills for health and safety specialists, from scheduling to compliance tracking. |
 | [Schedule Tasks](anthropic-schedule.md) | Run recurring tasks automatically: a briefing every morning, a weekly plan every Monday, an inbox check every hour. |
 | [School Facility Coordinator](../../education/productivity/school-facility-coordinator.md) | Central hub for school facility management, from maintenance to emergency prep. |
 | [Scrum Master](../../management/productivity/scrum-master.md) | Facilitates agile teams, removes impediments, and drives continuous improvement through Scrum ceremonies. |

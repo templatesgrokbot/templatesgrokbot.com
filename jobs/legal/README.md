@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **224 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **229 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Contracts, research, compliance and review. **224 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 102 |
+| [Security & Compliance](security-and-compliance/README.md) | 107 |
 | [Research](research/README.md) | 54 |
 | [Data Analysis](data-analysis/README.md) | 22 |
 | [Writing & Content](writing-and-content/README.md) | 12 |
@@ -38,6 +38,8 @@ Contracts, research, compliance and review. **224 ready-made Grok Bot templates*
 | [Blogger Legal Compliance Guide](../writers/security-and-compliance/blogger-legal-compliance-guide.md) | Guides bloggers through legal and ethical compliance for content, disclosures, and privacy. |
 | [Check Identity Pack](../operations/security-and-compliance/check-identity-pack.md) | Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing. |
 | [Claims Compliance Assistant](../operations/security-and-compliance/claims-compliance-assistant.md) | Checks insurance claims for regulatory compliance from policy to audit. |
+| [Clinical Data Compliance Assistant](../healthcare/security-and-compliance/clinical-data-compliance-assistant.md) | Monitors clinical trial compliance, manages regulatory documents, and prepares audit-ready submissions. |
+| [Compensation Compliance Navigator](../human-resources/security-and-compliance/compensation-compliance-navigator.md) | Keeps compensation practices compliant with up-to-date law and tailored guidance. |
 | [Compliance and Regulatory Adherence Assistant](../executives-and-strategy/security-and-compliance/compliance-and-regulatory-adherence-assistant.md) | Prepares audits, analyzes regulations, and drafts compliance materials for your organization. |
 | [Compliance and Regulatory Assistant](../management/security-and-compliance/compliance-and-regulatory-assistant.md) | Guides project managers through compliance research, documentation, audits, training, and regulatory updates. |
 | [Compliance and Regulatory Updates Assistant](../operations/security-and-compliance/compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
@@ -75,6 +77,7 @@ Contracts, research, compliance and review. **224 ready-made Grok Bot templates*
 | [Gdpr Dsgvo Expert](security-and-compliance/gdpr-dsgvo-expert.md) | Advises on GDPR/DSGVO compliance, conducts privacy impact assessments, and audits data protection practices. |
 | [Global Compliance Assistant](../finance/security-and-compliance/global-compliance-assistant.md) | Regulatory compliance assistant for a global finance head, covering monitoring, reporting, risk, policy, training, audits, data privacy, vendors,… |
 | [Global Regulatory Strategy Assistant](../government/security-and-compliance/global-regulatory-strategy-assistant.md) | Global regulatory strategy assistant for Regulatory Affairs Specialists. |
+| [HR Legal Compliance Assistant](../human-resources/security-and-compliance/hr-legal-compliance-assistant.md) | Keeps HR policies, records, and practices aligned with employment law. |
 | [HR Legal Compliance Reviewer](../human-resources/security-and-compliance/hr-legal-compliance-reviewer.md) | Reviews and updates HR legal compliance across contracts, policies, and procedures. |
 | [Incident Reporting Navigator](../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
 | [Incident Response Planning Assistant](security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
@@ -82,6 +85,7 @@ Contracts, research, compliance and review. **224 ready-made Grok Bot templates*
 | [Insurance Compliance Manager](../management/security-and-compliance/insurance-compliance-manager.md) | Tracks regulatory changes, reviews policies, trains staff, and prepares compliance reports and audits for your insurance agency. |
 | [International Procurement Compliance Guide](../operations/security-and-compliance/international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
 | [Labeling and Packaging Compliance Reviewer](../government/security-and-compliance/labeling-and-packaging-compliance-reviewer.md) | Reviews product labels and packaging for regulatory compliance, accuracy, and consistency. |
+| [Labor Compliance Advisor](../human-resources/security-and-compliance/labor-compliance-advisor.md) | Labor law compliance guidance and documentation for CHROs. |
 | [Labor Law Compliance Assistant](../executives-and-strategy/security-and-compliance/labor-law-compliance-assistant.md) | Labor law compliance assistant for HR executives, handling updates, policies, training, records, audits, and reporting. |
 | [Legal & Compliance Queries Assistant](../executives-and-strategy/security-and-compliance/legal-compliance-queries-assistant.md) | Guides founders through legal and compliance queries with practical, step-by-step assistance. No hype, no emoji. |
 | [Legal Compliance Assistant](../executives-and-strategy/security-and-compliance/legal-compliance-assistant.md) | Keeps your company compliant by handling policy, research, training, and reporting. |
@@ -90,6 +94,7 @@ Contracts, research, compliance and review. **224 ready-made Grok Bot templates*
 | [Legislative Impact Analyst](../government/security-and-compliance/legislative-impact-analyst.md) | Analyzes legislative changes and guides compliance for regulatory affairs specialists. |
 | [Logistics Compliance Advisor](../operations/security-and-compliance/logistics-compliance-advisor.md) | Logistics compliance research, documentation, and audit support in one chat. |
 | [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
+| [Medical Billing Compliance Monitor](../healthcare/security-and-compliance/medical-billing-compliance-monitor.md) | Monitors medical billing compliance, flags risks, and keeps your team audit-ready. |
 | [Pharma Compliance Assistant](../sales/security-and-compliance/pharma-compliance-assistant.md) | Keeps pharmaceutical sales compliant with regulations, audits, and reporting. |
 | [Policy Development and Review Assistant](../government/security-and-compliance/policy-development-and-review-assistant.md) | Policy development and review assistant for regulatory affairs specialists. |
 | [Policy Development Support](security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |

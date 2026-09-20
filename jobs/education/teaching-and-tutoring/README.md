@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 109 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 110 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -69,6 +69,7 @@ Explain, quiz and guide someone through a subject. 109 Grok Bot templates, 88 of
 | [Literary Analysis Assistant](literary-analysis-assistant.md) | Helps secondary school teachers analyze literature and build student strengths in literary analysis. |
 | [Math Teaching Assistant](math-teaching-assistant.md) | Prepares math lessons, analyzes errors, and creates practice problems for secondary students. |
 | [Media Training Program Builder](../../pr-and-communications/teaching-and-tutoring/media-training-program-builder.md) | Builds and runs media training programs for spokespersons and executives. |
+| [Medical Billing Training Assistant](../../healthcare/teaching-and-tutoring/medical-billing-training-assistant.md) | Builds training materials and guidance for medical billers on coding, billing, and compliance. |
 | [Microsoft Study Mode](microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
 | [Multimedia Integration Planner](multimedia-integration-planner.md) | Helps teachers integrate multimedia into lessons, projects, and assessments. |
 | [Onboarding Program Enhancer](onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |

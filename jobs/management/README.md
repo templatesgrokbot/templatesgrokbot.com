@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **699 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **700 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,7 +16,7 @@ Team leads and project managers. **699 ready-made Grok Bot templates** for this 
 | [Research](research/README.md) | 64 |
 | [Coding](coding/README.md) | 44 |
 | [Security & Compliance](security-and-compliance/README.md) | 40 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 38 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 39 |
 | [Knowledge Management](knowledge-management/README.md) | 23 |
 | [Writing & Content](writing-and-content/README.md) | 21 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 17 |
@@ -119,7 +119,7 @@ Team leads and project managers. **699 ready-made Grok Bot templates** for this 
 | [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
 | [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
 
-[All 38 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 39 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Knowledge Management
 

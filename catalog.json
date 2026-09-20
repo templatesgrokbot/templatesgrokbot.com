@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 5950,
+ "count": 6048,
  "templates": [
   {
    "slug": "007",
@@ -8720,6 +8720,22 @@
    "url": "https://templatesgrokbot.com/bot/benchmarking-analysis-assistant"
   },
   {
+   "slug": "benefits-administration-assistant",
+   "name": "Benefits Administration Assistant",
+   "tagline": "Guides employees through benefits enrollment, claims, and compliance with clear, accurate support.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "support-and-community",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/human-resources/support-and-community/benefits-administration-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/benefits-administration-assistant"
+  },
+  {
    "slug": "benefits-optimization-assistant",
    "name": "Benefits Optimization Assistant",
    "tagline": "Analyzes and optimizes your employee benefits package with data-driven insights and clear recommendations.",
@@ -13225,6 +13241,22 @@
    "url": "https://templatesgrokbot.com/bot/chemical-safety-information-manager"
   },
   {
+   "slug": "chemical-safety-management-assistant",
+   "name": "Chemical Safety Management Assistant",
+   "tagline": "Manages chemical safety tasks from inventory to audits for health and safety specialists.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "operations"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/chemical-safety-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/chemical-safety-management-assistant"
+  },
+  {
    "slug": "chemical-safety-protocol-developer",
    "name": "Chemical Safety Protocol Developer",
    "tagline": "Develops and maintains chemical safety protocols from hazard ID to audits.",
@@ -13302,6 +13334,21 @@
    ],
    "path": "jobs/operations/productivity/chieeeeefy.md",
    "url": "https://templatesgrokbot.com/bot/chieeeeefy"
+  },
+  {
+   "slug": "chro-succession-planner",
+   "name": "CHRO Succession Planner",
+   "tagline": "Succession planning assistant for CHROs to identify, develop, and track future leaders.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/productivity/chro-succession-planner.md",
+   "url": "https://templatesgrokbot.com/bot/chro-succession-planner"
   },
   {
    "slug": "chrome-extension-developer",
@@ -14806,6 +14853,194 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "clinical-data-analysis-assistant",
+   "name": "Clinical Data Analysis Assistant",
+   "tagline": "Clinical data analysis assistant for cleaning, statistics, and reporting.",
+   "category": "research",
+   "jobs": [
+    "healthcare",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/healthcare/data-analysis/clinical-data-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-data-analysis-assistant"
+  },
+  {
+   "slug": "clinical-data-audit-prep-assistant",
+   "name": "Clinical Data Audit Prep Assistant",
+   "tagline": "Prepares clinical trial data and documentation for audits.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/clinical-data-audit-prep-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-data-audit-prep-assistant"
+  },
+  {
+   "slug": "clinical-data-coding-assistant",
+   "name": "Clinical Data Coding Assistant",
+   "tagline": "Helps clinical data managers code, validate, and standardize clinical data accurately and consistently.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/healthcare/data-analysis/clinical-data-coding-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-data-coding-assistant"
+  },
+  {
+   "slug": "clinical-data-compliance-assistant",
+   "name": "Clinical Data Compliance Assistant",
+   "tagline": "Monitors clinical trial compliance, manages regulatory documents, and prepares audit-ready submissions.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/clinical-data-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-data-compliance-assistant"
+  },
+  {
+   "slug": "clinical-data-integration-assistant",
+   "name": "Clinical Data Integration Assistant",
+   "tagline": "Integrates, cleans, and transforms clinical trial data from multiple sources into one reliable dataset.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/healthcare/data-analysis/clinical-data-integration-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-data-integration-assistant"
+  },
+  {
+   "slug": "clinical-data-manager-edc-assistant",
+   "name": "Clinical Data Manager EDC Assistant",
+   "tagline": "Manages clinical trial data in EDC systems from entry to compliance.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis",
+    "teaching-and-tutoring",
+    "security-and-compliance"
+   ],
+   "path": "jobs/healthcare/data-analysis/clinical-data-manager-edc-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-data-manager-edc-assistant"
+  },
+  {
+   "slug": "clinical-data-quality-assistant",
+   "name": "Clinical Data Quality Assistant",
+   "tagline": "Automates clinical data quality checks, from validation to reporting, for Clinical Data Managers.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/healthcare/data-analysis/clinical-data-quality-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-data-quality-assistant"
+  },
+  {
+   "slug": "clinical-data-report-generator",
+   "name": "Clinical Data Report Generator",
+   "tagline": "Generates clinical data reports from extraction to distribution for Clinical Data Managers.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/data-analysis/clinical-data-report-generator.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-data-report-generator"
+  },
+  {
+   "slug": "clinical-data-security-advisor",
+   "name": "Clinical Data Security Advisor",
+   "tagline": "Guides clinical data managers in securing sensitive data with encryption, access control, and compliance.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/clinical-data-security-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-data-security-advisor"
+  },
+  {
+   "slug": "clinical-data-training-developer",
+   "name": "Clinical Data Training Developer",
+   "tagline": "Builds clinical data management training content, from modules to certification prep.",
+   "category": "education",
+   "jobs": [
+    "healthcare",
+    "education"
+   ],
+   "topics": [
+    "writing-and-content",
+    "teaching-and-tutoring",
+    "security-and-compliance"
+   ],
+   "path": "jobs/healthcare/writing-and-content/clinical-data-training-developer.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-data-training-developer"
+  },
+  {
+   "slug": "clinical-data-visualization-assistant",
+   "name": "Clinical Data Visualization Assistant",
+   "tagline": "Turns clinical trial data into clear visuals and reports for Clinical Data Managers.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis",
+    "design"
+   ],
+   "path": "jobs/healthcare/data-analysis/clinical-data-visualization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-data-visualization-assistant"
+  },
+  {
+   "slug": "clinical-database-design-assistant",
+   "name": "Clinical Database Design Assistant",
+   "tagline": "Designs and sets up clinical trial databases with models, schemas, security, and migration plans.",
+   "category": "engineering",
+   "jobs": [
+    "healthcare",
+    "it-and-development"
+   ],
+   "topics": [
+    "design",
+    "security-and-compliance"
+   ],
+   "path": "jobs/healthcare/design/clinical-database-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-database-design-assistant"
+  },
+  {
    "slug": "clinical-decision-support",
    "name": "Clinical Decision Support",
    "tagline": "Generates publication-ready clinical decision support documents for pharmaceutical research and evidence synthesis.",
@@ -14823,6 +15058,22 @@
    "url": "https://templatesgrokbot.com/bot/clinical-decision-support",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/clinical-decision-support",
    "source_license": "MIT"
+  },
+  {
+   "slug": "clinical-query-resolution-assistant",
+   "name": "Clinical Query Resolution Assistant",
+   "tagline": "Resolves, tracks, and improves clinical data query workflows from identification to audit.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/healthcare/data-analysis/clinical-query-resolution-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-query-resolution-assistant"
   },
   {
    "slug": "clinical-reports",
@@ -14855,6 +15106,23 @@
    ],
    "path": "jobs/science-and-research/data-analysis/clinical-trial-data-analyst.md",
    "url": "https://templatesgrokbot.com/bot/clinical-trial-data-analyst"
+  },
+  {
+   "slug": "clinical-trial-ml-pipeline-assistant",
+   "name": "Clinical Trial ML Pipeline Assistant",
+   "tagline": "Prepares clinical trial data, builds and monitors ML models, and generates reports for clinical data managers.",
+   "category": "engineering",
+   "jobs": [
+    "healthcare",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/healthcare/data-analysis/clinical-trial-ml-pipeline-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/clinical-trial-ml-pipeline-assistant"
   },
   {
    "slug": "clinicaltrials-database",
@@ -16793,6 +17061,21 @@
    "url": "https://templatesgrokbot.com/bot/comparative-market-analysis-assistant"
   },
   {
+   "slug": "compensation-benefits-analyst",
+   "name": "Compensation & Benefits Analyst",
+   "tagline": "Analyzes compensation and benefits data to benchmark, optimize, and communicate total rewards.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/human-resources/data-analysis/compensation-benefits-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/compensation-benefits-analyst"
+  },
+  {
    "slug": "compensation-analysis-assistant",
    "name": "Compensation Analysis Assistant",
    "tagline": "Analyzes compensation data to benchmark, ensure equity, and design competitive pay packages.",
@@ -16805,6 +17088,21 @@
    ],
    "path": "jobs/human-resources/data-analysis/compensation-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/compensation-analysis-assistant"
+  },
+  {
+   "slug": "compensation-analytics-assistant",
+   "name": "Compensation Analytics Assistant",
+   "tagline": "Compensation data analysis, reporting, and planning support for HR and finance decisions. No hype, just numbers.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/data-analysis/compensation-analytics-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/compensation-analytics-assistant"
   },
   {
    "slug": "compensation-and-benefits-analyst",
@@ -16822,6 +17120,22 @@
    "url": "https://templatesgrokbot.com/bot/compensation-and-benefits-analyst"
   },
   {
+   "slug": "compensation-compliance-navigator",
+   "name": "Compensation Compliance Navigator",
+   "tagline": "Keeps compensation practices compliant with up-to-date law and tailored guidance.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research"
+   ],
+   "path": "jobs/human-resources/security-and-compliance/compensation-compliance-navigator.md",
+   "url": "https://templatesgrokbot.com/bot/compensation-compliance-navigator"
+  },
+  {
    "slug": "compensation-plan-architect",
    "name": "Compensation Plan Architect",
    "tagline": "Designs competitive, fair compensation plans and communicates them clearly to employees.",
@@ -16837,6 +17151,37 @@
    ],
    "path": "jobs/executives-and-strategy/research/compensation-plan-architect.md",
    "url": "https://templatesgrokbot.com/bot/compensation-plan-architect"
+  },
+  {
+   "slug": "compensation-structure-developer",
+   "name": "Compensation Structure Developer",
+   "tagline": "Builds and maintains fair, competitive compensation structures from job analysis to pay transparency.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/human-resources/data-analysis/compensation-structure-developer.md",
+   "url": "https://templatesgrokbot.com/bot/compensation-structure-developer"
+  },
+  {
+   "slug": "compensation-survey-assistant",
+   "name": "Compensation Survey Assistant",
+   "tagline": "Designs, runs, validates, and analyzes compensation surveys for HR decision-making.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/data-analysis/compensation-survey-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/compensation-survey-assistant"
   },
   {
    "slug": "competitive-ads-extractor",
@@ -18123,6 +18468,20 @@
    ],
    "path": "jobs/human-resources/writing-and-content/conflict-resolution-advisor.md",
    "url": "https://templatesgrokbot.com/bot/conflict-resolution-advisor"
+  },
+  {
+   "slug": "conflict-resolution-assistant",
+   "name": "Conflict Resolution Assistant",
+   "tagline": "Guides HR managers through conflict resolution from analysis to policy and training.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/writing-and-content/conflict-resolution-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/conflict-resolution-assistant"
   },
   {
    "slug": "conflict-resolution-guide",
@@ -19649,6 +20008,23 @@
    ],
    "path": "jobs/legal/security-and-compliance/contract-termination-guidance.md",
    "url": "https://templatesgrokbot.com/bot/contract-termination-guidance"
+  },
+  {
+   "slug": "contractor-safety-oversight-assistant",
+   "name": "Contractor Safety Oversight Assistant",
+   "tagline": "Oversees contractor safety oversight: training, audits, risk, compliance, and improvement.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/contractor-safety-oversight-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/contractor-safety-oversight-assistant"
   },
   {
    "slug": "conversation-memory",
@@ -21865,6 +22241,22 @@
    "url": "https://templatesgrokbot.com/bot/culture-assessment-and-transformation-planner"
   },
   {
+   "slug": "culture-assessment-planner",
+   "name": "Culture Assessment Planner",
+   "tagline": "Assesses organizational culture and turns findings into action plans for CHROs.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/data-analysis/culture-assessment-planner.md",
+   "url": "https://templatesgrokbot.com/bot/culture-assessment-planner"
+  },
+  {
    "slug": "culture-protocol-assistant",
    "name": "Culture Protocol Assistant",
    "tagline": "Aseptic culture assistant for microbiologists—media, isolation, preservation, scale-up and quality control.",
@@ -23447,6 +23839,23 @@
    "url": "https://templatesgrokbot.com/bot/data-analyst",
    "adapted_from": "https://www.aitmpl.com/component/agents/deep-research-team/data-analyst",
    "source_license": "MIT"
+  },
+  {
+   "slug": "data-backup-and-recovery-assistant",
+   "name": "Data Backup and Recovery Assistant",
+   "tagline": "Guides users through data backup, recovery, and disaster planning to keep their data safe.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "support-and-community",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/customer-support/support-and-community/data-backup-and-recovery-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/data-backup-and-recovery-assistant"
   },
   {
    "slug": "data-center-network-assistant",
@@ -28361,6 +28770,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "documentation-and-reporting-assistant",
+   "name": "Documentation and Reporting Assistant",
+   "tagline": "Turn your technical support knowledge into clear, accurate documentation and reports.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "it-and-development"
+   ],
+   "topics": [
+    "writing-and-content",
+    "knowledge-management",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/customer-support/writing-and-content/documentation-and-reporting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/documentation-and-reporting-assistant"
+  },
+  {
    "slug": "documentation-engineer",
    "name": "Documentation Engineer",
    "tagline": "Architect and automate documentation systems that stay synchronized with code changes.",
@@ -31071,6 +31497,22 @@
    "url": "https://templatesgrokbot.com/bot/employee-engagement-survey-analyst"
   },
   {
+   "slug": "employee-engagement-survey-assistant",
+   "name": "Employee Engagement Survey Assistant",
+   "tagline": "Designs, runs, and analyzes employee engagement surveys, then turns results into action plans and communications.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/data-analysis/employee-engagement-survey-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/employee-engagement-survey-assistant"
+  },
+  {
    "slug": "employee-feedback-compilation-assistant",
    "name": "Employee Feedback Compilation Assistant",
    "tagline": "Turns employee feedback into clear themes, reports, and action plans for HR teams.",
@@ -31117,6 +31559,22 @@
    "url": "https://templatesgrokbot.com/bot/employee-handbook-builder",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/employee-handbook-builder",
    "source_license": "MIT"
+  },
+  {
+   "slug": "employee-onboarding-assistant",
+   "name": "Employee Onboarding Assistant",
+   "tagline": "Streamlines new hire onboarding from paperwork to feedback, with drafts ready for your approval.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/productivity/employee-onboarding-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/employee-onboarding-assistant"
   },
   {
    "slug": "employee-onboarding-program-builder",
@@ -31455,6 +31913,23 @@
    "url": "https://templatesgrokbot.com/bot/employee-wellness-program-coordinator"
   },
   {
+   "slug": "employee-wellness-program-planner",
+   "name": "Employee Wellness Program Planner",
+   "tagline": "Designs, implements, and evaluates employee wellness programs for CHROs.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/productivity/employee-wellness-program-planner.md",
+   "url": "https://templatesgrokbot.com/bot/employee-wellness-program-planner"
+  },
+  {
    "slug": "employer-branding-content-planner",
    "name": "Employer Branding Content Planner",
    "tagline": "Build and manage your employer brand across every channel and audience.",
@@ -31695,6 +32170,22 @@
    ],
    "path": "jobs/science-and-research/research/energy-storage-solutions-analyst.md",
    "url": "https://templatesgrokbot.com/bot/energy-storage-solutions-analyst"
+  },
+  {
+   "slug": "engagement-survey-analyst",
+   "name": "Engagement Survey Analyst",
+   "tagline": "Turns employee feedback into engagement insights and learning actions for CHROs.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/data-analysis/engagement-survey-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/engagement-survey-analyst"
   },
   {
    "slug": "engine-selection",
@@ -32001,6 +32492,24 @@
    "url": "https://templatesgrokbot.com/bot/environmental-microbial-sampling-planner"
   },
   {
+   "slug": "environmental-monitoring-analyst",
+   "name": "Environmental Monitoring Analyst",
+   "tagline": "Analyzes environmental monitoring data and drafts reports for health and safety compliance.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "operations",
+    "government",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/data-analysis/environmental-monitoring-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/environmental-monitoring-analyst"
+  },
+  {
    "slug": "environmental-monitoring-manager",
    "name": "Environmental Monitoring Manager",
    "tagline": "Environmental monitoring assistant for laboratory managers, from data collection to compliance and audits.",
@@ -32177,6 +32686,21 @@
    ],
    "path": "jobs/operations/design/ergonomic-workspace-design-assistant.md",
    "url": "https://templatesgrokbot.com/bot/ergonomic-workspace-design-assistant"
+  },
+  {
+   "slug": "ergonomics-improvement-assistant",
+   "name": "Ergonomics Improvement Assistant",
+   "tagline": "Assesses and improves workplace ergonomics to reduce injury risk and boost comfort.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "operations"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/healthcare/research/ergonomics-improvement-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/ergonomics-improvement-assistant"
   },
   {
    "slug": "error-coordinator",
@@ -33772,6 +34296,22 @@
    ],
    "path": "jobs/human-resources/productivity/exit-interview-coordinator.md",
    "url": "https://templatesgrokbot.com/bot/exit-interview-coordinator"
+  },
+  {
+   "slug": "exit-interview-insight-assistant",
+   "name": "Exit Interview Insight Assistant",
+   "tagline": "Turns departing employee feedback into clear retention and culture insights for HR managers.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/data-analysis/exit-interview-insight-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/exit-interview-insight-assistant"
   },
   {
    "slug": "exit-interview-insights-analyst",
@@ -40290,6 +40830,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "global-compensation-coordinator",
+   "name": "Global Compensation Coordinator",
+   "tagline": "Coordinates global compensation research, analysis, and policy support for HR teams.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/research/global-compensation-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/global-compensation-coordinator"
+  },
+  {
    "slug": "global-compliance-assistant",
    "name": "Global Compliance Assistant",
    "tagline": "Regulatory compliance assistant for a global finance head, covering monitoring, reporting, risk, policy, training, audits, data privacy, vendors,…",
@@ -42015,6 +42571,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "hardware-support-assistant",
+   "name": "Hardware Support Assistant",
+   "tagline": "Guides hardware users through troubleshooting, setup, upgrades, and maintenance with clear steps.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "it-and-development"
+   ],
+   "topics": [
+    "support-and-community"
+   ],
+   "path": "jobs/customer-support/support-and-community/hardware-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/hardware-support-assistant"
+  },
+  {
    "slug": "harvey-specter",
    "name": "Harvey Specter",
    "tagline": "Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner.",
@@ -42098,6 +42669,23 @@
    "url": "https://templatesgrokbot.com/bot/haskell-pro",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "hazard-drill-compliance-builder",
+   "name": "Hazard Drill Compliance Builder",
+   "tagline": "Emergency response planning assistant for health and safety specialists — from hazard ID to drills and compliance.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "operations",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/hazard-drill-compliance-builder.md",
+   "url": "https://templatesgrokbot.com/bot/hazard-drill-compliance-builder"
   },
   {
    "slug": "hazard-identification-assistant",
@@ -42205,6 +42793,26 @@
    "url": "https://templatesgrokbot.com/bot/health-and-safety-compliance-assistant"
   },
   {
+   "slug": "health-and-safety-policy-assistant",
+   "name": "Health and Safety Policy Assistant",
+   "tagline": "Develops, reviews, and improves health and safety policies for your workplace.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "operations",
+    "real-estate-and-construction",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/health-and-safety-policy-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/health-and-safety-policy-assistant"
+  },
+  {
    "slug": "health-policy-analysis-assistant",
    "name": "Health Policy Analysis Assistant",
    "tagline": "Turns health policy research, data, and stakeholder input into evidence-based recommendations and communications.",
@@ -42220,6 +42828,23 @@
    ],
    "path": "jobs/government/research/health-policy-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/health-policy-analysis-assistant"
+  },
+  {
+   "slug": "health-promotion-program-planner",
+   "name": "Health Promotion Program Planner",
+   "tagline": "Plans and builds workplace health promotion programs from research to evaluation.​",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "human-resources"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/healthcare/research/health-promotion-program-planner.md",
+   "url": "https://templatesgrokbot.com/bot/health-promotion-program-planner"
   },
   {
    "slug": "health-trend-analyzer",
@@ -42321,6 +42946,23 @@
    "url": "https://templatesgrokbot.com/bot/helpdesk-automation",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "helpdesk-management-assistant",
+   "name": "Helpdesk Management Assistant",
+   "tagline": "Triages tickets, resolves common issues, and maintains helpdesk systems for technical support specialists.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "it-and-development"
+   ],
+   "topics": [
+    "support-and-community",
+    "knowledge-management",
+    "productivity"
+   ],
+   "path": "jobs/customer-support/support-and-community/helpdesk-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/helpdesk-management-assistant"
   },
   {
    "slug": "heygen-best-practices",
@@ -43291,6 +43933,22 @@
    "url": "https://templatesgrokbot.com/bot/hr-crisis-response-planner"
   },
   {
+   "slug": "hr-d-i-initiative-runner",
+   "name": "HR D&I Initiative Runner",
+   "tagline": "Plans and runs diversity and inclusion initiatives for HR managers.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools",
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/productivity/hr-d-i-initiative-runner.md",
+   "url": "https://templatesgrokbot.com/bot/hr-d-i-initiative-runner"
+  },
+  {
    "slug": "hr-data-analytics-assistant",
    "name": "HR Data Analytics Assistant",
    "tagline": "Turns HR data into workforce insights, forecasts, and compliance checks.",
@@ -43369,6 +44027,24 @@
    "url": "https://templatesgrokbot.com/bot/hr-digital-transformation-planner"
   },
   {
+   "slug": "hr-legal-compliance-assistant",
+   "name": "HR Legal Compliance Assistant",
+   "tagline": "Keeps HR policies, records, and practices aligned with employment law.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/human-resources/security-and-compliance/hr-legal-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/hr-legal-compliance-assistant"
+  },
+  {
    "slug": "hr-legal-compliance-reviewer",
    "name": "HR Legal Compliance Reviewer",
    "tagline": "Reviews and updates HR legal compliance across contracts, policies, and procedures.",
@@ -43413,6 +44089,22 @@
    ],
    "path": "jobs/human-resources/writing-and-content/hr-policy-clarification-assistant.md",
    "url": "https://templatesgrokbot.com/bot/hr-policy-clarification-assistant"
+  },
+  {
+   "slug": "hr-policy-creation-assistant",
+   "name": "HR Policy Creation Assistant",
+   "tagline": "Drafts, reviews, and aligns HR policies from research to rollout.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/writing-and-content/hr-policy-creation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/hr-policy-creation-assistant"
   },
   {
    "slug": "hr-policy-development-assistant",
@@ -44894,6 +45586,40 @@
    "url": "https://templatesgrokbot.com/bot/inbox-triage"
   },
   {
+   "slug": "incentive-program-designer",
+   "name": "Incentive Program Designer",
+   "tagline": "Designs and manages incentive programs from objectives to evaluation.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/data-analysis/incentive-program-designer.md",
+   "url": "https://templatesgrokbot.com/bot/incentive-program-designer"
+  },
+  {
+   "slug": "incident-investigation-support-specialist",
+   "name": "Incident Investigation Support Specialist",
+   "tagline": "Streamlines incident investigations from witness statements to final reports and policy.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "operations",
+    "government",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "knowledge-management",
+    "research"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/incident-investigation-support-specialist.md",
+   "url": "https://templatesgrokbot.com/bot/incident-investigation-support-specialist"
+  },
+  {
    "slug": "incident-reporting-and-analysis-assistant",
    "name": "Incident Reporting and Analysis Assistant",
    "tagline": "Turns incident logs into reports, trends, and response plans for support teams.",
@@ -46004,6 +46730,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "insurance-claims-processing-assistant",
+   "name": "Insurance Claims Processing Assistant",
+   "tagline": "Handles insurance claims verification, submission, tracking, denials, and compliance for medical records clerks.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "insurance"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/healthcare/productivity/insurance-claims-processing-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-claims-processing-assistant"
+  },
+  {
    "slug": "insurance-claims-service-assistant",
    "name": "Insurance Claims Service Assistant",
    "tagline": "Handles insurance customer service tasks from inquiries to appeals, drafting responses and guides for approval.",
@@ -46613,6 +47354,22 @@
    ],
    "path": "jobs/operations/teaching-and-tutoring/insurance-training-developer.md",
    "url": "https://templatesgrokbot.com/bot/insurance-training-developer"
+  },
+  {
+   "slug": "insurance-verification-assistant",
+   "name": "Insurance Verification Assistant",
+   "tagline": "Verifies insurance coverage, eligibility, and claims for medical billers.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "insurance"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/healthcare/productivity/insurance-verification-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-verification-assistant"
   },
   {
    "slug": "intent-signal-monitor",
@@ -48873,6 +49630,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "job-evaluation-and-grading-assistant",
+   "name": "Job Evaluation and Grading Assistant",
+   "tagline": "Job evaluation and grading assistant for compensation analysts, from analysis to communication.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/human-resources/data-analysis/job-evaluation-and-grading-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/job-evaluation-and-grading-assistant"
+  },
+  {
    "slug": "job-post-writer",
    "name": "Job Post Writer",
    "tagline": "Writes honest, effective job posts that attract the right candidates for small businesses.",
@@ -49889,6 +50662,24 @@
    ],
    "path": "jobs/government/security-and-compliance/labeling-and-packaging-compliance-reviewer.md",
    "url": "https://templatesgrokbot.com/bot/labeling-and-packaging-compliance-reviewer"
+  },
+  {
+   "slug": "labor-compliance-advisor",
+   "name": "Labor Compliance Advisor",
+   "tagline": "Labor law compliance guidance and documentation for CHROs.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/security-and-compliance/labor-compliance-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/labor-compliance-advisor"
   },
   {
    "slug": "labor-law-compliance-assistant",
@@ -56816,6 +57607,97 @@
    "url": "https://templatesgrokbot.com/bot/medical-billing-and-coding-assistant"
   },
   {
+   "slug": "medical-billing-compliance-monitor",
+   "name": "Medical Billing Compliance Monitor",
+   "tagline": "Monitors medical billing compliance, flags risks, and keeps your team audit-ready.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "knowledge-management",
+    "data-analysis"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/medical-billing-compliance-monitor.md",
+   "url": "https://templatesgrokbot.com/bot/medical-billing-compliance-monitor"
+  },
+  {
+   "slug": "medical-billing-data-entry-assistant",
+   "name": "Medical Billing Data Entry Assistant",
+   "tagline": "Accurate data entry and maintenance for medical billing workflows, from claims to compliance.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/healthcare/productivity/medical-billing-data-entry-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/medical-billing-data-entry-assistant"
+  },
+  {
+   "slug": "medical-billing-reporting-assistant",
+   "name": "Medical Billing Reporting Assistant",
+   "tagline": "Turns billing data into reports, trends, and insights for medical billers.",
+   "category": "finance",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/healthcare/data-analysis/medical-billing-reporting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/medical-billing-reporting-assistant"
+  },
+  {
+   "slug": "medical-billing-training-assistant",
+   "name": "Medical Billing Training Assistant",
+   "tagline": "Builds training materials and guidance for medical billers on coding, billing, and compliance.",
+   "category": "education",
+   "jobs": [
+    "healthcare",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "self-improvement"
+   ],
+   "path": "jobs/healthcare/teaching-and-tutoring/medical-billing-training-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/medical-billing-training-assistant"
+  },
+  {
+   "slug": "medical-coding-assistant",
+   "name": "Medical Coding Assistant",
+   "tagline": "Verifies, assigns, and reviews medical codes with compliance and audit support.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/medical-coding-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/medical-coding-assistant"
+  },
+  {
+   "slug": "medical-feedback-analyzer",
+   "name": "Medical Feedback Analyzer",
+   "tagline": "Collects, analyzes, and reports on medical records feedback to drive improvements.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/healthcare/data-analysis/medical-feedback-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/medical-feedback-analyzer"
+  },
+  {
    "slug": "medical-literature-summarizer-for-pharma-sales",
    "name": "Medical Literature Summarizer for Pharma Sales",
    "tagline": "Searches, summarizes, and organizes medical literature for pharmaceutical sales discussions.",
@@ -56845,6 +57727,115 @@
    ],
    "path": "jobs/healthcare/data-analysis/medical-payment-posting-assistant.md",
    "url": "https://templatesgrokbot.com/bot/medical-payment-posting-assistant"
+  },
+  {
+   "slug": "medical-records-clerk-scheduler",
+   "name": "Medical Records Clerk Scheduler",
+   "tagline": "Schedules patient appointments, sends reminders, and manages follow-ups for medical records clerks.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools"
+   ],
+   "path": "jobs/healthcare/productivity/medical-records-clerk-scheduler.md",
+   "url": "https://templatesgrokbot.com/bot/medical-records-clerk-scheduler"
+  },
+  {
+   "slug": "medical-records-digitization-planner",
+   "name": "Medical Records Digitization Planner",
+   "tagline": "Streamlines medical record digitization from scanning to EHR integration with compliance checks.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "knowledge-management",
+    "productivity",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/healthcare/knowledge-management/medical-records-digitization-planner.md",
+   "url": "https://templatesgrokbot.com/bot/medical-records-digitization-planner"
+  },
+  {
+   "slug": "medical-records-organization-assistant",
+   "name": "Medical Records Organization Assistant",
+   "tagline": "Organizes, indexes, and manages medical records with compliance and efficiency.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "knowledge-management",
+    "productivity",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/knowledge-management/medical-records-organization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/medical-records-organization-assistant"
+  },
+  {
+   "slug": "medical-records-privacy-compliance-assistant",
+   "name": "Medical Records Privacy Compliance Assistant",
+   "tagline": "Guides medical records clerks through data privacy compliance tasks.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/medical-records-privacy-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/medical-records-privacy-compliance-assistant"
+  },
+  {
+   "slug": "medical-records-reporting-assistant",
+   "name": "Medical Records Reporting Assistant",
+   "tagline": "Turns medical records into reports, trend analyses, and compliance checks for clerks.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/data-analysis/medical-records-reporting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/medical-records-reporting-assistant"
+  },
+  {
+   "slug": "medical-records-training-module-builder",
+   "name": "Medical Records Training Module Builder",
+   "tagline": "Builds complete training modules for medical records clerks, from research to final content.",
+   "category": "education",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/healthcare/writing-and-content/medical-records-training-module-builder.md",
+   "url": "https://templatesgrokbot.com/bot/medical-records-training-module-builder"
+  },
+  {
+   "slug": "medical-records-validation-assistant",
+   "name": "Medical Records Validation Assistant",
+   "tagline": "Validates medical records for accuracy, consistency, and completeness, flagging errors for review.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/healthcare/data-analysis/medical-records-validation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/medical-records-validation-assistant"
   },
   {
    "slug": "meeting-coordination-assistant",
@@ -57088,6 +58079,22 @@
    "url": "https://templatesgrokbot.com/bot/mercury-mcp",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "merit-increase-planning-assistant",
+   "name": "Merit Increase Planning Assistant",
+   "tagline": "Plans and manages merit increases from data collection to reporting.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools",
+    "productivity"
+   ],
+   "path": "jobs/human-resources/data-analysis/merit-increase-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/merit-increase-planning-assistant"
   },
   {
    "slug": "mermaid-diagram-specialist",
@@ -64569,6 +65576,66 @@
    "url": "https://templatesgrokbot.com/bot/patient-advocacy-support-coordinator"
   },
   {
+   "slug": "patient-communication-script-generator",
+   "name": "Patient Communication Script Generator",
+   "tagline": "Crafts personalized patient communication scripts for medical records clerks.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/writing-and-content/patient-communication-script-generator.md",
+   "url": "https://templatesgrokbot.com/bot/patient-communication-script-generator"
+  },
+  {
+   "slug": "patient-history-summarizer",
+   "name": "Patient History Summarizer",
+   "tagline": "Summarizes patient medical histories accurately and concisely for records clerks.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/writing-and-content/patient-history-summarizer.md",
+   "url": "https://templatesgrokbot.com/bot/patient-history-summarizer"
+  },
+  {
+   "slug": "patient-inquiry-handling-assistant",
+   "name": "Patient Inquiry Handling Assistant",
+   "tagline": "Handles patient inquiries about appointments, billing, insurance, and records for medical billers.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "support-and-community"
+   ],
+   "path": "jobs/healthcare/support-and-community/patient-inquiry-handling-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/patient-inquiry-handling-assistant"
+  },
+  {
+   "slug": "patient-recruitment-campaign-planner",
+   "name": "Patient Recruitment Campaign Planner",
+   "tagline": "Plans and drafts patient recruitment campaigns for clinical trials.",
+   "category": "marketing",
+   "jobs": [
+    "healthcare",
+    "marketing",
+    "management"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/healthcare/marketing-and-growth/patient-recruitment-campaign-planner.md",
+   "url": "https://templatesgrokbot.com/bot/patient-recruitment-campaign-planner"
+  },
+  {
    "slug": "patterns",
    "name": "Patterns",
    "tagline": "Reference document for monopoly design patterns.",
@@ -64583,6 +65650,22 @@
    "url": "https://templatesgrokbot.com/bot/patterns",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "pay-equity-analysis-assistant",
+   "name": "Pay Equity Analysis Assistant",
+   "tagline": "Guides pay equity analyses from data collection to monitoring and reporting.",
+   "category": "operations",
+   "jobs": [
+    "human-resources",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/data-analysis/pay-equity-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/pay-equity-analysis-assistant"
   },
   {
    "slug": "pay-equity-benchmarker-for-finance-managers",
@@ -64632,6 +65715,21 @@
    "url": "https://templatesgrokbot.com/bot/paypal-integration",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "payroll-and-compensation-assistant",
+   "name": "Payroll and Compensation Assistant",
+   "tagline": "Handles payroll calculations, benefits, compliance, and compensation analysis for HR managers.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/human-resources/data-analysis/payroll-and-compensation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/payroll-and-compensation-assistant"
   },
   {
    "slug": "payroll-audit-support-assistant",
@@ -65247,6 +66345,36 @@
    "url": "https://templatesgrokbot.com/bot/performance-management-guidance"
   },
   {
+   "slug": "performance-management-integration-assistant",
+   "name": "Performance Management Integration Assistant",
+   "tagline": "Aligns performance management processes with strategy, data, and fairness for compensation analysts.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/data-analysis/performance-management-integration-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/performance-management-integration-assistant"
+  },
+  {
+   "slug": "performance-management-strategist",
+   "name": "Performance Management Strategist",
+   "tagline": "Performance management assistant for CHROs: goals, reviews, feedback, analytics, and policy support.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/human-resources/data-analysis/performance-management-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/performance-management-strategist"
+  },
+  {
    "slug": "performance-management-system-architect",
    "name": "Performance Management System Architect",
    "tagline": "Designs and runs your performance management system from reviews to succession planning.",
@@ -65378,6 +66506,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "performance-optimization-assistant",
+   "name": "Performance Optimization Assistant",
+   "tagline": "Optimizes system performance through code, database, network, and resource analysis.",
+   "category": "engineering",
+   "jobs": [
+    "customer-support",
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis"
+   ],
+   "path": "jobs/customer-support/cloud-and-devops/performance-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/performance-optimization-assistant"
+  },
+  {
    "slug": "performance-optimizer",
    "name": "Performance Optimizer",
    "tagline": "Measures and fixes performance bottlenecks in code, databases, and APIs, proving improvements with before-and-after numbers.",
@@ -65479,6 +66623,23 @@
    ],
    "path": "jobs/creatives/self-improvement/performance-review-assistant.md",
    "url": "https://templatesgrokbot.com/bot/performance-review-assistant"
+  },
+  {
+   "slug": "performance-review-coordinator",
+   "name": "Performance Review Coordinator",
+   "tagline": "Guides HR managers through every step of the performance review cycle.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/productivity/performance-review-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/performance-review-coordinator"
   },
   {
    "slug": "performance-review-cycle-assistant",
@@ -68281,6 +69442,25 @@
    "url": "https://templatesgrokbot.com/bot/ppc-campaign-manager"
   },
   {
+   "slug": "ppe-management-assistant",
+   "name": "PPE Management Assistant",
+   "tagline": "Manages PPE inventory, selection, training, compliance, and records for workplace safety.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "operations",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "knowledge-management",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/ppe-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/ppe-management-assistant"
+  },
+  {
    "slug": "pptx-deck-creation",
    "name": "Pptx Deck Creation",
    "tagline": "Create editable PPTX decks with narrative planning and explicit layout specs.",
@@ -68585,6 +69765,21 @@
    ],
    "path": "jobs/science-and-research/data-analysis/predictive-analytics-workflow-assistant.md",
    "url": "https://templatesgrokbot.com/bot/predictive-analytics-workflow-assistant"
+  },
+  {
+   "slug": "predictive-compensation-modeling-assistant",
+   "name": "Predictive Compensation Modeling Assistant",
+   "tagline": "Builds and maintains predictive compensation models to forecast salaries, optimize pay structures, and ensure equity.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/human-resources/data-analysis/predictive-compensation-modeling-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/predictive-compensation-modeling-assistant"
   },
   {
    "slug": "predictive-hr-analytics-assistant",
@@ -74522,6 +75717,23 @@
    "url": "https://templatesgrokbot.com/bot/record-keeping-compliance-optimizer"
   },
   {
+   "slug": "recruitment-pipeline-assistant",
+   "name": "Recruitment Pipeline Assistant",
+   "tagline": "Streamlines your hiring pipeline from job posting to analytics, with drafting and scheduling support.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/productivity/recruitment-pipeline-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/recruitment-pipeline-assistant"
+  },
+  {
    "slug": "recruitment-pipeline-manager",
    "name": "Recruitment Pipeline Manager",
    "tagline": "Streamlines recruitment from screening to onboarding while keeping every step human-approved.",
@@ -75470,6 +76682,21 @@
    ],
    "path": "jobs/it-and-development/security-and-compliance/remote-infrastructure-security-orchestrator.md",
    "url": "https://templatesgrokbot.com/bot/remote-infrastructure-security-orchestrator"
+  },
+  {
+   "slug": "remote-support-troubleshooter",
+   "name": "Remote Support Troubleshooter",
+   "tagline": "Guides remote technical support for connectivity, software, security, and performance issues.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "it-and-development"
+   ],
+   "topics": [
+    "support-and-community"
+   ],
+   "path": "jobs/customer-support/support-and-community/remote-support-troubleshooter.md",
+   "url": "https://templatesgrokbot.com/bot/remote-support-troubleshooter"
   },
   {
    "slug": "remote-training-program-designer",
@@ -77174,6 +78401,24 @@
    "url": "https://templatesgrokbot.com/bot/risk-assessment-workflow-assistant"
   },
   {
+   "slug": "risk-control-hazard-finder",
+   "name": "Risk Control Hazard Finder",
+   "tagline": "Hazard identification assistant for health and safety specialists, turning data into risk controls.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "operations",
+    "real-estate-and-construction",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/risk-control-hazard-finder.md",
+   "url": "https://templatesgrokbot.com/bot/risk-control-hazard-finder"
+  },
+  {
    "slug": "risk-management-analysis-assistant",
    "name": "Risk Management Analysis Assistant",
    "tagline": "Guides senior managers through the full risk management cycle from identification to culture.",
@@ -78063,6 +79308,25 @@
    "url": "https://templatesgrokbot.com/bot/safety-and-compliance-planner"
   },
   {
+   "slug": "safety-audit-assistant",
+   "name": "Safety Audit Assistant",
+   "tagline": "Streamlines safety audits by generating checklists, analyzing records, and assessing compliance.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "operations",
+    "real-estate-and-construction",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/safety-audit-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/safety-audit-assistant"
+  },
+  {
    "slug": "safety-compliance-assistant",
    "name": "Safety Compliance Assistant",
    "tagline": "Safety compliance assistant that turns regulations into policies, audits, training, and reports for safety engineers.",
@@ -78099,6 +79363,24 @@
    "url": "https://templatesgrokbot.com/bot/safety-compliance-planner"
   },
   {
+   "slug": "safety-compliance-workflow-builder",
+   "name": "Safety Compliance Workflow Builder",
+   "tagline": "Automates health and safety compliance monitoring, reporting, and training for specialists.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "knowledge-management",
+    "productivity",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/safety-compliance-workflow-builder.md",
+   "url": "https://templatesgrokbot.com/bot/safety-compliance-workflow-builder"
+  },
+  {
    "slug": "safety-culture-program-builder",
    "name": "Safety Culture Program Builder",
    "tagline": "Builds and runs your safety culture program, from training to campaigns to metrics.",
@@ -78114,6 +79396,23 @@
    ],
    "path": "jobs/operations/writing-and-content/safety-culture-program-builder.md",
    "url": "https://templatesgrokbot.com/bot/safety-culture-program-builder"
+  },
+  {
+   "slug": "safety-data-analyst",
+   "name": "Safety Data Analyst",
+   "tagline": "Turns health and safety data into insights, reports, and compliance checks.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "operations",
+    "government",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/healthcare/data-analysis/safety-data-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/safety-data-analyst"
   },
   {
    "slug": "safety-data-insights-assistant",
@@ -78198,6 +79497,25 @@
    "url": "https://templatesgrokbot.com/bot/safety-protocol-implementation-coordinator"
   },
   {
+   "slug": "safety-risk-assessment-copilot",
+   "name": "Safety Risk Assessment Copilot",
+   "tagline": "Comprehensive risk assessment assistant for health and safety specialists, from hazard ID to compliance and training.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "operations",
+    "real-estate-and-construction",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/safety-risk-assessment-copilot.md",
+   "url": "https://templatesgrokbot.com/bot/safety-risk-assessment-copilot"
+  },
+  {
    "slug": "safety-stock-calculator",
    "name": "Safety Stock Calculator",
    "tagline": "Calculates and optimizes safety stock levels from your demand, lead time, and supplier data.",
@@ -78246,6 +79564,43 @@
    "url": "https://templatesgrokbot.com/bot/safety-technology-implementation-guide"
   },
   {
+   "slug": "safety-training-and-drill-coordinator",
+   "name": "Safety Training and Drill Coordinator",
+   "tagline": "Coordinates safety training and drills for health and safety specialists, from scheduling to compliance tracking.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "operations",
+    "real-estate-and-construction",
+    "government"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools"
+   ],
+   "path": "jobs/healthcare/productivity/safety-training-and-drill-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/safety-training-and-drill-coordinator"
+  },
+  {
+   "slug": "safety-training-developer",
+   "name": "Safety Training Developer",
+   "tagline": "Develops, updates, and localizes workplace safety training materials and assessments.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "human-resources",
+    "education",
+    "government"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "translation"
+   ],
+   "path": "jobs/healthcare/writing-and-content/safety-training-developer.md",
+   "url": "https://templatesgrokbot.com/bot/safety-training-developer"
+  },
+  {
    "slug": "safety-training-program-developer",
    "name": "Safety Training Program Developer",
    "tagline": "Develops and updates workplace safety training programs from research to assessment.",
@@ -78279,6 +79634,22 @@
    "url": "https://templatesgrokbot.com/bot/saga-orchestration",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "salary-benchmarking-assistant",
+   "name": "Salary Benchmarking Assistant",
+   "tagline": "Handles salary benchmarking from data collection to reports and updates.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/human-resources/data-analysis/salary-benchmarking-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/salary-benchmarking-assistant"
   },
   {
    "slug": "salary-negotiation-prep",
@@ -80760,6 +82131,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "secure-data-sharing-guide",
+   "name": "Secure Data Sharing Guide",
+   "tagline": "Guides medical records clerks in secure, HIPAA-compliant data sharing.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/healthcare/security-and-compliance/secure-data-sharing-guide.md",
+   "url": "https://templatesgrokbot.com/bot/secure-data-sharing-guide"
+  },
+  {
    "slug": "security-and-hardening",
    "name": "Security And Hardening",
    "tagline": "Hardens code against vulnerabilities by threat modeling and applying OWASP prevention patterns.",
@@ -81092,6 +82479,22 @@
    "url": "https://templatesgrokbot.com/bot/security-scanning-security-sast",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "security-support-guide",
+   "name": "Security Support Guide",
+   "tagline": "Guides users through security threats, fixes, and best practices step by step.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "it-and-development"
+   ],
+   "topics": [
+    "support-and-community",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/customer-support/support-and-community/security-support-guide.md",
+   "url": "https://templatesgrokbot.com/bot/security-support-guide"
   },
   {
    "slug": "security-threat-model",
@@ -84884,6 +86287,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "software-installation-support-assistant",
+   "name": "Software Installation Support Assistant",
+   "tagline": "Guides software installs, configs, updates, and troubleshooting for support specialists.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "it-and-development"
+   ],
+   "topics": [
+    "support-and-community",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/customer-support/support-and-community/software-installation-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/software-installation-support-assistant"
+  },
+  {
    "slug": "software-license-lifecycle-manager",
    "name": "Software License Lifecycle Manager",
    "tagline": "Manages the full software license lifecycle for IT directors, from inventory to optimization.",
@@ -88464,6 +89883,22 @@
    "url": "https://templatesgrokbot.com/bot/support-crisis-prep-kit"
   },
   {
+   "slug": "support-desk-network-diagnostician",
+   "name": "Support Desk Network Diagnostician",
+   "tagline": "Diagnoses and resolves network issues for technical support specialists.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "it-and-development"
+   ],
+   "topics": [
+    "support-and-community",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/customer-support/support-and-community/support-desk-network-diagnostician.md",
+   "url": "https://templatesgrokbot.com/bot/support-desk-network-diagnostician"
+  },
+  {
    "slug": "support-metrics-analyst",
    "name": "Support Metrics Analyst",
    "tagline": "Analyzes support performance metrics and delivers insights for decision-making.",
@@ -89392,6 +90827,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "system-upgrade-coordinator",
+   "name": "System Upgrade Coordinator",
+   "tagline": "Plans, executes, and supports system upgrades with minimal disruption.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "knowledge-management",
+    "productivity",
+    "writing-and-content"
+   ],
+   "path": "jobs/customer-support/cloud-and-devops/system-upgrade-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/system-upgrade-coordinator"
+  },
+  {
    "slug": "systematic-debugging",
    "name": "Systematic Debugging",
    "tagline": "Finds root cause of bugs before proposing any fix, no guessing.",
@@ -89677,6 +91130,21 @@
    ],
    "path": "jobs/executives-and-strategy/data-analysis/talent-management-strategy-planner.md",
    "url": "https://templatesgrokbot.com/bot/talent-management-strategy-planner"
+  },
+  {
+   "slug": "talent-retention-strategist",
+   "name": "Talent Retention Strategist",
+   "tagline": "Designs retention strategies from surveys to succession planning for HR managers.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/data-analysis/talent-retention-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/talent-retention-strategist"
   },
   {
    "slug": "talent-strategy-design-studio",
@@ -90665,6 +92133,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "tech-integration-support-assistant",
+   "name": "Tech Integration Support Assistant",
+   "tagline": "Guides technical support specialists through every step of integrating new technologies.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "it-and-development"
+   ],
+   "topics": [
+    "support-and-community",
+    "research",
+    "cloud-and-devops",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/customer-support/support-and-community/tech-integration-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tech-integration-support-assistant"
+  },
+  {
    "slug": "tech-matrix",
    "name": "Tech Matrix",
    "tagline": "Reference document for monopoly tech-matrix technology decisions.",
@@ -90864,6 +92350,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "technical-issue-diagnoser",
+   "name": "Technical Issue Diagnoser",
+   "tagline": "Diagnoses technical issues and guides step-by-step troubleshooting for support specialists.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "it-and-development"
+   ],
+   "topics": [
+    "support-and-community",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/customer-support/support-and-community/technical-issue-diagnoser.md",
+   "url": "https://templatesgrokbot.com/bot/technical-issue-diagnoser"
+  },
+  {
    "slug": "technical-manual-writing-assistant",
    "name": "Technical Manual Writing Assistant",
    "tagline": "Draft, structure, and refine technical manuals from research to final review.",
@@ -91056,6 +92558,21 @@
    ],
    "path": "jobs/sales/sales-and-negotiation/technical-sales-rival-intel.md",
    "url": "https://templatesgrokbot.com/bot/technical-sales-rival-intel"
+  },
+  {
+   "slug": "technical-support-troubleshooting-assistant",
+   "name": "Technical Support Troubleshooting Assistant",
+   "tagline": "Guides technical support specialists through troubleshooting, diagnostics, and resolution.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "it-and-development"
+   ],
+   "topics": [
+    "support-and-community"
+   ],
+   "path": "jobs/customer-support/support-and-community/technical-support-troubleshooting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/technical-support-troubleshooting-assistant"
   },
   {
    "slug": "technical-tutorials",
@@ -93244,6 +94761,20 @@
    "source_license": "MIT"
   },
   {
+   "slug": "total-rewards-communication-assistant",
+   "name": "Total Rewards Communication Assistant",
+   "tagline": "Crafts clear, personalized total rewards communications for employees.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/human-resources/writing-and-content/total-rewards-communication-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/total-rewards-communication-assistant"
+  },
+  {
    "slug": "trace-to-training-data",
    "name": "Trace To Training Data",
    "tagline": "Converts graded eval traces into SFT examples and DPO preference pairs.",
@@ -93360,6 +94891,23 @@
    ],
    "path": "jobs/education/teaching-and-tutoring/training-accessibility-assistant.md",
    "url": "https://templatesgrokbot.com/bot/training-accessibility-assistant"
+  },
+  {
+   "slug": "training-and-development-assistant",
+   "name": "Training and Development Assistant",
+   "tagline": "Plan, build, run, and track employee training programs for HR Managers.",
+   "category": "operations",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "office-tools",
+    "data-analysis"
+   ],
+   "path": "jobs/human-resources/teaching-and-tutoring/training-and-development-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/training-and-development-assistant"
   },
   {
    "slug": "training-budget-optimizer",
@@ -95810,6 +97358,23 @@
    "url": "https://templatesgrokbot.com/bot/user-thoughts",
    "adapted_from": "https://github.com/JularDepick/user-thoughts.SKILL",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "user-training-and-support-assistant",
+   "name": "User Training and Support Assistant",
+   "tagline": "Guides users through setup, troubleshooting, and training while expanding your support knowledge base.",
+   "category": "operations",
+   "jobs": [
+    "customer-support"
+   ],
+   "topics": [
+    "support-and-community",
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/customer-support/support-and-community/user-training-and-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/user-training-and-support-assistant"
   },
   {
    "slug": "user-generated-content-strategist",
@@ -100194,6 +101759,23 @@
    ],
    "path": "jobs/government/security-and-compliance/workplace-safety-audit-copilot.md",
    "url": "https://templatesgrokbot.com/bot/workplace-safety-audit-copilot"
+  },
+  {
+   "slug": "workplace-wellness-program-coordinator",
+   "name": "Workplace Wellness Program Coordinator",
+   "tagline": "Designs, promotes, and evaluates workplace wellness programs from surveys to policies.",
+   "category": "operations",
+   "jobs": [
+    "healthcare",
+    "human-resources"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/healthcare/writing-and-content/workplace-wellness-program-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/workplace-wellness-program-coordinator"
   },
   {
    "slug": "worktree-guide",

@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 320 Grok Bot templates, 133 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 321 Grok Bot templates, 133 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -215,6 +215,7 @@ Campaigns, ads, conversion and launch plans. 320 Grok Bot templates, 133 of them
 | [Optimize Your Brand SERP](brand-serp-optimierung.md) | Audits your brand's Google SERP and prescribes the five highest-impact fixes to improve it. |
 | [Page Cro](page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Paid Ads](paid-ads.md) | Plan, draft, and optimize paid ad campaigns across platforms to hit target CPA and ROAS. |
+| [Patient Recruitment Campaign Planner](../../healthcare/marketing-and-growth/patient-recruitment-campaign-planner.md) | Plans and drafts patient recruitment campaigns for clinical trials. |
 | [Paywall Upgrade Cro](paywall-upgrade-cro.md) | Audit in-app paywalls and upgrade screens to convert free users to paid subscribers. |
 | [Perception Insight Strategist](../../executives-and-strategy/marketing-and-growth/perception-insight-strategist.md) | Analyzes brand perception from social, reviews, surveys, and media to guide strategy. |
 | [Performance Email Campaign Builder](../../sales/marketing-and-growth/performance-email-campaign-builder.md) | Plans, writes, and refines email campaigns from segmentation to performance analysis. |

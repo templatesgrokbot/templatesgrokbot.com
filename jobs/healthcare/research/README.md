@@ -1,6 +1,6 @@
 # Research templates for Healthcare
 
-Find sources, compare evidence and summarise what is known. 13 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 15 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,9 @@ Find sources, compare evidence and summarise what is known. 13 Grok Bot template
 | [Clinical Reports](../../science-and-research/research/clinical-reports.md) | Writes clinical reports with regulatory compliance and validation tools. |
 | [Clinicaltrials Database](../../science-and-research/research/clinicaltrials-database.md) | Search and retrieve clinical trial data from ClinicalTrials.gov API v2. |
 | [Clinvar Database](../../science-and-research/research/clinvar-database.md) | Query ClinVar for variant clinical significance and pathogenicity classifications. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Ergonomics Improvement Assistant](ergonomics-improvement-assistant.md) | Assesses and improves workplace ergonomics to reduce injury risk and boost comfort. |
 | [Fda Database](../../science-and-research/research/fda-database.md) | Query openFDA for drug, device, adverse event, recall, and regulatory data. |
+| [Health Promotion Program Planner](health-promotion-program-planner.md) | Plans and builds workplace health promotion programs from research to evaluation.​ |
 | [Histolab](../../science-and-research/research/histolab.md) | Extracts informative tiles from whole slide pathology images for deep learning pipelines. |
 | [Infection Control Strategist](../../science-and-research/research/infection-control-strategist.md) | Infection control research, policy, training, and outbreak response support for microbiologists. |
 | [Neurokit2](../../science-and-research/research/neurokit2.md) | Processes physiological signals (ECG, EEG, EDA, RSP, EMG, EOG) into clean metrics and analyses for research or clinical use. |

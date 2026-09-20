@@ -1,6 +1,6 @@
 # Productivity templates for Government
 
-Plan, prioritise and clear the recurring admin. 52 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 53 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -43,6 +43,7 @@ Plan, prioritise and clear the recurring admin. 52 Grok Bot templates, 4 of them
 | [Project Risk Assessment Assistant](../../management/productivity/project-risk-assessment-assistant.md) | Guides project managers through risk identification, analysis, mitigation, and communication. |
 | [Purchase Order Management Assistant](../../operations/productivity/purchase-order-management-assistant.md) | Manages purchase orders from creation to compliance, keeping procurement smooth and within budget. |
 | [Risk Analysis and Management Assistant](../../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
+| [Safety Training and Drill Coordinator](../../healthcare/productivity/safety-training-and-drill-coordinator.md) | Coordinates safety training and drills for health and safety specialists, from scheduling to compliance tracking. |
 | [Stakeholder Communication Manager](../../management/productivity/stakeholder-communication-manager.md) | Manages all stakeholder communication for project managers, from analysis to audits. |
 | [Stakeholder Communication Planner](../../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
 | [Strategic Goal Setting Assistant](../../executives-and-strategy/productivity/strategic-goal-setting-assistant.md) | Turns your vision into aligned, measurable goals with plans, KPIs, and reviews. |

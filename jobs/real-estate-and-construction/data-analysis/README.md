@@ -1,6 +1,6 @@
 # Data Analysis templates for Real Estate and Construction
 
-Clean, query, chart and explain data. 37 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 38 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -40,6 +40,7 @@ Clean, query, chart and explain data. 37 Grok Bot templates, 9 of them filed in 
 | [Real Estate Investment Scout](real-estate-investment-scout.md) | Scouts real estate investment opportunities through market analysis, financial modeling, and risk assessment. |
 | [Real Estate Market Analyst](real-estate-market-analyst.md) | Analyzes real estate market data to deliver insights, forecasts, and reports for brokers. |
 | [Resource Allocation Optimizer](../../operations/data-analysis/resource-allocation-optimizer.md) | Analyzes resources, forecasts demand, and optimizes allocation for operations leaders. |
+| [Safety Data Analyst](../../healthcare/data-analysis/safety-data-analyst.md) | Turns health and safety data into insights, reports, and compliance checks. |
 | [Safety Data Insights Assistant](../../operations/data-analysis/safety-data-insights-assistant.md) | Turns safety data into prioritized, actionable risk-reduction insights. |
 | [Safety Hazard Risk Mapper](../../operations/data-analysis/safety-hazard-risk-mapper.md) | Analyzes safety data, identifies hazards, and produces risk assessments for safety engineers. |
 | [Subcontractor Evaluation Assistant](subcontractor-evaluation-assistant.md) | Evaluates and selects subcontractors for construction projects through structured assessments. |

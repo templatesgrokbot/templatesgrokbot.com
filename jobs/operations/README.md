@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,297 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,310 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,14 +11,14 @@ Processes, logistics and the systems that run a business. **1,297 ready-made Gro
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 446 |
+| [Data Analysis](data-analysis/README.md) | 448 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 190 |
-| [Productivity](productivity/README.md) | 189 |
-| [Security & Compliance](security-and-compliance/README.md) | 98 |
-| [Research](research/README.md) | 82 |
+| [Productivity](productivity/README.md) | 190 |
+| [Security & Compliance](security-and-compliance/README.md) | 106 |
+| [Research](research/README.md) | 83 |
 | [Coding](coding/README.md) | 60 |
 | [Knowledge Management](knowledge-management/README.md) | 37 |
-| [Support & Community](support-and-community/README.md) | 31 |
+| [Support & Community](support-and-community/README.md) | 32 |
 | [Writing & Content](writing-and-content/README.md) | 30 |
 | [Office Tools](office-tools/README.md) | 27 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 27 |
@@ -49,7 +49,7 @@ Processes, logistics and the systems that run a business. **1,297 ready-made Gro
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 446 Data Analysis templates →](data-analysis/README.md)
+[All 448 Data Analysis templates →](data-analysis/README.md)
 
 ## Cloud & DevOps
 
@@ -79,7 +79,7 @@ Processes, logistics and the systems that run a business. **1,297 ready-made Gro
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 
-[All 189 Productivity templates →](productivity/README.md)
+[All 190 Productivity templates →](productivity/README.md)
 
 ## Security & Compliance
 
@@ -94,7 +94,7 @@ Processes, logistics and the systems that run a business. **1,297 ready-made Gro
 | [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 
-[All 98 Security & Compliance templates →](security-and-compliance/README.md)
+[All 106 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Research
 
@@ -109,7 +109,7 @@ Processes, logistics and the systems that run a business. **1,297 ready-made Gro
 | [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 | [Hasdata Cli](../it-and-development/research/hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
 
-[All 82 Research templates →](research/README.md)
+[All 83 Research templates →](research/README.md)
 
 ## Coding
 
@@ -154,7 +154,7 @@ Processes, logistics and the systems that run a business. **1,297 ready-made Gro
 | [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 | [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
 
-[All 31 Support & Community templates →](support-and-community/README.md)
+[All 32 Support & Community templates →](support-and-community/README.md)
 
 ## Writing & Content
 

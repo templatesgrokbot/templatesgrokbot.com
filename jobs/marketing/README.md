@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **796 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **797 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Campaigns, SEO, content and growth. **796 ready-made Grok Bot templates** for th
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 320 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 321 |
 | [Data Analysis](data-analysis/README.md) | 127 |
 | [Writing & Content](writing-and-content/README.md) | 75 |
 | [Research](research/README.md) | 73 |
@@ -49,7 +49,7 @@ Campaigns, SEO, content and growth. **796 ready-made Grok Bot templates** for th
 | [Seo Fundamentals](marketing-and-growth/seo-fundamentals.md) | Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles. |
 | [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 
-[All 320 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 321 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Data Analysis
 

@@ -1,6 +1,6 @@
 # Writing & Content templates for Human Resources
 
-Plan, write and edit articles, copy and documentation. 41 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Plan, write and edit articles, copy and documentation. 41 Grok Bot templates, 28
 | [Academic Cv Builder](../../education/writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
 | [Compliance Communication Planner](../../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Conflict Resolution Advisor](conflict-resolution-advisor.md) | Helps HR directors analyze, resolve, and prevent workplace conflicts with tailored advice and resources. |
+| [Conflict Resolution Assistant](conflict-resolution-assistant.md) | Guides HR managers through conflict resolution from analysis to policy and training. |
 | [Conflict Resolution Strategies Assistant](../../executives-and-strategy/writing-and-content/conflict-resolution-strategies-assistant.md) | Designs and guides conflict resolution programs, materials, and coaching for HR leaders. |
 | [Conflict Resolution Strategist](conflict-resolution-strategist.md) | Builds conflict resolution strategies, policies, training, and tools for HR consultants. |
 | [Conflict Resolution Toolkit](conflict-resolution-toolkit.md) | Turns conflict situations into structured resolution plans for HR specialists. |
@@ -24,6 +25,7 @@ Plan, write and edit articles, copy and documentation. 41 Grok Bot templates, 28
 | [Global HR Policy Formulation Assistant](global-hr-policy-formulation-assistant.md) | Drafts, reviews, and benchmarks global HR policies from research to rollout. |
 | [HR Conflict Resolution Program Designer](hr-conflict-resolution-program-designer.md) | Guides HR leaders through every stage of workplace conflict resolution, from mediation to program design. |
 | [HR Policy Clarification Assistant](hr-policy-clarification-assistant.md) | Clarifies policies for HR directors by drafting, explaining, and auditing company procedures. |
+| [HR Policy Creation Assistant](hr-policy-creation-assistant.md) | Drafts, reviews, and aligns HR policies from research to rollout. |
 | [HR Policy Development Assistant](hr-policy-development-assistant.md) | Develops, reviews, and rolls out HR policies for consultants. |
 | [HR Policy Drafting Assistant](hr-policy-drafting-assistant.md) | Drafts, refines, and aligns HR policies with regulations and best practices. |
 | [HR Policy Review and Development Assistant](hr-policy-review-and-development-assistant.md) | Drafts, reviews, and updates HR policies with compliance and best-practice guidance. |
@@ -43,9 +45,12 @@ Plan, write and edit articles, copy and documentation. 41 Grok Bot templates, 28
 | [Resume Quantifier](resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |
 | [Resume Section Builder](resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
 | [Resume Tailor](../../operations/writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
+| [Safety Training Developer](../../healthcare/writing-and-content/safety-training-developer.md) | Develops, updates, and localizes workplace safety training materials and assessments. |
 | [SOP Writer](../../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
 | [Succession Pipeline Architect](../../executives-and-strategy/writing-and-content/succession-pipeline-architect.md) | Builds and runs your succession pipeline from assessment to transition. |
 | [Talent Acquisition Strategy Assistant](talent-acquisition-strategy-assistant.md) | Streamlines talent acquisition from sourcing to onboarding with AI-driven insights and content. |
 | [Tech Resume Optimizer](../../it-and-development/writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
+| [Total Rewards Communication Assistant](total-rewards-communication-assistant.md) | Crafts clear, personalized total rewards communications for employees. |
+| [Workplace Wellness Program Coordinator](../../healthcare/writing-and-content/workplace-wellness-program-coordinator.md) | Designs, promotes, and evaluates workplace wellness programs from surveys to policies. |
 
 [← All Human Resources templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/human-resources)

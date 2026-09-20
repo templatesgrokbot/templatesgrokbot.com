@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **265 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **301 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,19 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 80 |
-| [Productivity](productivity/README.md) | 53 |
-| [Writing & Content](writing-and-content/README.md) | 41 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 40 |
-| [Security & Compliance](security-and-compliance/README.md) | 14 |
+| [Data Analysis](data-analysis/README.md) | 98 |
+| [Productivity](productivity/README.md) | 59 |
+| [Writing & Content](writing-and-content/README.md) | 46 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 41 |
+| [Security & Compliance](security-and-compliance/README.md) | 17 |
+| [Research](research/README.md) | 9 |
 | [Self-Improvement](self-improvement/README.md) | 8 |
-| [Research](research/README.md) | 7 |
 | [Design](design/README.md) | 5 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 4 |
+| [Support & Community](support-and-community/README.md) | 4 |
 | [Knowledge Management](knowledge-management/README.md) | 3 |
 | [Office Tools](office-tools/README.md) | 3 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
-| [Support & Community](support-and-community/README.md) | 3 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 
 ## Data Analysis
@@ -33,11 +33,16 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [Ai Dev Jobs Mcp](../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Benefits Optimization Assistant](data-analysis/benefits-optimization-assistant.md) | Analyzes and optimizes your employee benefits package with data-driven insights and clear recommendations. |
 | [Comp Package Benchmarker](data-analysis/comp-package-benchmarker.md) | Analyzes compensation and benefits data to keep packages competitive, fair, and compliant. |
+| [Compensation & Benefits Analyst](data-analysis/compensation-benefits-analyst.md) | Analyzes compensation and benefits data to benchmark, optimize, and communicate total rewards. |
 | [Compensation Analysis Assistant](data-analysis/compensation-analysis-assistant.md) | Analyzes compensation data to benchmark, ensure equity, and design competitive pay packages. |
+| [Compensation Analytics Assistant](data-analysis/compensation-analytics-assistant.md) | Compensation data analysis, reporting, and planning support for HR and finance decisions. No hype, just numbers. |
 | [Compensation and Benefits Analyst](data-analysis/compensation-and-benefits-analyst.md) | Analyzes compensation and benefits data to inform HR strategy and ensure competitive, compliant packages. |
+| [Compensation Structure Developer](data-analysis/compensation-structure-developer.md) | Builds and maintains fair, competitive compensation structures from job analysis to pay transparency. |
+| [Compensation Survey Assistant](data-analysis/compensation-survey-assistant.md) | Designs, runs, validates, and analyzes compensation surveys for HR decision-making. |
 | [Corporate Culture Strategy Assistant](../executives-and-strategy/data-analysis/corporate-culture-strategy-assistant.md) | Aligns corporate culture work: surveys, values, inclusion, leadership, change, recognition, communication, team, performance, wellness, onboarding. |
 | [Culture Assessment Analyst](../executives-and-strategy/data-analysis/culture-assessment-analyst.md) | Turns culture assessment data into clear findings and improvement plans for HR leadership. |
 | [Culture Assessment and Transformation Planner](data-analysis/culture-assessment-and-transformation-planner.md) | Designs and analyzes culture assessments, then builds action plans for HR consultants. |
+| [Culture Assessment Planner](data-analysis/culture-assessment-planner.md) | Assesses organizational culture and turns findings into action plans for CHROs. |
 | [Culture Pulse Action Planner](data-analysis/culture-pulse-action-planner.md) | Turns employee feedback into a clear culture assessment and action plan. |
 | [Custom Payroll Report Builder](../finance/data-analysis/custom-payroll-report-builder.md) | Builds custom payroll reports from requirements to distribution, with validation and documentation. |
 | [Ditto](../it-and-development/data-analysis/ditto.md) | Mine private work profiles from local coding-agent session logs. |
@@ -47,6 +52,7 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [Employee Engagement Insights](../executives-and-strategy/data-analysis/employee-engagement-insights.md) | Turns employee engagement data into clear insights and action plans. |
 | [Employee Engagement Strategist](data-analysis/employee-engagement-strategist.md) | Turns survey data and employee input into engagement plans, events, and recognition programs. |
 | [Employee Engagement Survey Analyst](data-analysis/employee-engagement-survey-analyst.md) | Turns employee engagement survey data into clear insights, reports, and action plans for HR leaders. |
+| [Employee Engagement Survey Assistant](data-analysis/employee-engagement-survey-assistant.md) | Designs, runs, and analyzes employee engagement surveys, then turns results into action plans and communications. |
 | [Employee Feedback Compilation Assistant](data-analysis/employee-feedback-compilation-assistant.md) | Turns employee feedback into clear themes, reports, and action plans for HR teams. |
 | [Employee Performance Analysis Assistant](../executives-and-strategy/data-analysis/employee-performance-analysis-assistant.md) | Turns employee performance data into reviews, goals, and plans for your team. |
 | [Employee Performance Analyst](../executives-and-strategy/data-analysis/employee-performance-analyst.md) | Analyzes employee performance data to deliver insights, reports, and action plans for executives. |
@@ -58,7 +64,9 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [Employee Template Analytics Assistant](data-analysis/employee-template-analytics-assistant.md) | Analyzes employee strengths, finds gaps, and plans development for HR teams. |
 | [Employee Template Tracking Planner](../education/data-analysis/employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
 | [Employee Turnover Analyst](data-analysis/employee-turnover-analyst.md) | Analyzes employee turnover data and delivers retention strategies for HR consultants. |
+| [Engagement Survey Analyst](data-analysis/engagement-survey-analyst.md) | Turns employee feedback into engagement insights and learning actions for CHROs. |
 | [EVP Compensation Benchmarking](../executives-and-strategy/data-analysis/evp-compensation-benchmarking.md) | Analyzes compensation and benefits data to benchmark, ensure equity, and optimize rewards. |
+| [Exit Interview Insight Assistant](data-analysis/exit-interview-insight-assistant.md) | Turns departing employee feedback into clear retention and culture insights for HR managers. |
 | [Exit Interview Insights Analyst](data-analysis/exit-interview-insights-analyst.md) | Turns exit interview feedback into clear themes, trends, and retention actions. |
 | [Exit Interview Insights Assistant](data-analysis/exit-interview-insights-assistant.md) | Turns exit interview data into retention insights and action plans for HR. |
 | [Feedback Analysis and Reporting Assistant](data-analysis/feedback-analysis-and-reporting-assistant.md) | Collects, analyzes, and reports on training feedback to improve programs. |
@@ -75,29 +83,39 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [HR Metrics and Analytics Assistant](data-analysis/hr-metrics-and-analytics-assistant.md) | Analyzes HR data and delivers actionable insights for strategic workforce decisions. |
 | [HR Reporting and Analytics Assistant](data-analysis/hr-reporting-and-analytics-assistant.md) | Turns HRIS data into reports, dashboards, and insights for HR decisions. |
 | [HRIS Performance Optimization Assistant](data-analysis/hris-performance-optimization-assistant.md) | Analyzes HRIS performance data and builds the tools, reports, and plans that optimize your workforce. |
+| [Incentive Program Designer](data-analysis/incentive-program-designer.md) | Designs and manages incentive programs from objectives to evaluation. |
 | [Job Description Analyzer](data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
+| [Job Evaluation and Grading Assistant](data-analysis/job-evaluation-and-grading-assistant.md) | Job evaluation and grading assistant for compensation analysts, from analysis to communication. |
 | [Learning Analytics Insights Assistant](../education/data-analysis/learning-analytics-insights-assistant.md) | Turns training data into insights, forecasts, and improvement plans for learning programs.​ |
 | [Meeting Insights Analyzer](../management/data-analysis/meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
+| [Merit Increase Planning Assistant](data-analysis/merit-increase-planning-assistant.md) | Plans and manages merit increases from data collection to reporting. |
 | [Occupational Health Analyzer](../healthcare/data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |
 | [Offer Comparison Analyzer](data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
+| [Pay Equity Analysis Assistant](data-analysis/pay-equity-analysis-assistant.md) | Guides pay equity analyses from data collection to monitoring and reporting. |
+| [Payroll and Compensation Assistant](data-analysis/payroll-and-compensation-assistant.md) | Handles payroll calculations, benefits, compliance, and compensation analysis for HR managers. |
 | [Payroll Data Analyst](../finance/data-analysis/payroll-data-analyst.md) | Analyzes payroll data for accuracy, insights, trends, and compliance, and prepares reports for management. |
 | [Payroll Reporting Assistant](../finance/data-analysis/payroll-reporting-assistant.md) | Generates, analyzes, and audits payroll reports with compliance and forecasting. |
 | [Payroll Tax Deduction Calculator](../finance/data-analysis/payroll-tax-deduction-calculator.md) | Calculates and manages employee tax deductions for payroll administrators. |
 | [Performance Management Guidance](data-analysis/performance-management-guidance.md) | Guides HR directors through every step of performance management, from criteria to communication. |
+| [Performance Management Integration Assistant](data-analysis/performance-management-integration-assistant.md) | Aligns performance management processes with strategy, data, and fairness for compensation analysts. |
+| [Performance Management Strategist](data-analysis/performance-management-strategist.md) | Performance management assistant for CHROs: goals, reviews, feedback, analytics, and policy support. |
 | [Performance Management System Architect](../executives-and-strategy/data-analysis/performance-management-system-architect.md) | Designs and runs your performance management system from reviews to succession planning. |
 | [Performance Management System Assistant](data-analysis/performance-management-system-assistant.md) | Builds and runs a global performance management system from evaluation to rewards. |
 | [Performance Metrics Manager](../management/data-analysis/performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Performance Review Analyst](data-analysis/performance-review-analyst.md) | Turns scattered performance review data into clear insights, feedback, and development plans. |
+| [Predictive Compensation Modeling Assistant](data-analysis/predictive-compensation-modeling-assistant.md) | Builds and maintains predictive compensation models to forecast salaries, optimize pay structures, and ensure equity. |
 | [Predictive HR Analytics Assistant](data-analysis/predictive-hr-analytics-assistant.md) | Turns HRIS data into predictive insights for turnover, hiring, performance, and workforce planning. |
 | [Psychological Safety Assessment Assistant](../operations/data-analysis/psychological-safety-assessment-assistant.md) | Assesses and improves workplace psychological safety through surveys, analysis, and guidance. |
 | [Resume Ats Optimizer](data-analysis/resume-ats-optimizer.md) | Analyzes resumes for ATS compatibility and optimizes keyword match against job descriptions. |
 | [Resume Verifier for HR VPs](data-analysis/resume-verifier-for-hr-vps.md) | Screens and ranks resumes for HR VPs, with verification and bias checks. |
 | [Retention Strategy Insights Assistant](data-analysis/retention-strategy-insights-assistant.md) | Analyzes HR data to uncover retention insights and propose strategies. |
 | [Retention Survey Architect](../executives-and-strategy/data-analysis/retention-survey-architect.md) | Designs retention strategies from surveys, turnover data, and employee feedback. |
+| [Salary Benchmarking Assistant](data-analysis/salary-benchmarking-assistant.md) | Handles salary benchmarking from data collection to reports and updates. |
 | [Succession Planning Architect](data-analysis/succession-planning-architect.md) | Builds and manages your full succession planning pipeline from talent assessment to knowledge transfer. |
 | [Talent Lifecycle Manager](../executives-and-strategy/data-analysis/talent-lifecycle-manager.md) | Manages the full talent lifecycle for a CTO, from sourcing to offboarding, with data-driven insights. |
 | [Talent Management Strategy Assistant](../executives-and-strategy/data-analysis/talent-management-strategy-assistant.md) | Talent management strategy assistant for EVPs, covering acquisition to retention. |
 | [Talent Management Strategy Planner](../executives-and-strategy/data-analysis/talent-management-strategy-planner.md) | Turns your talent data into a full workforce strategy, from hiring to retention. |
+| [Talent Retention Strategist](data-analysis/talent-retention-strategist.md) | Designs retention strategies from surveys to succession planning for HR managers. |
 | [Talent Strategy Design Studio](../executives-and-strategy/data-analysis/talent-strategy-design-studio.md) | Designs and refines your talent development strategy from objectives to evaluation. |
 | [Team Composition Analysis](data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Template Gap Analysis Assistant](../education/data-analysis/template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
@@ -117,12 +135,15 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 |---|---|
 | [Accessibility and Inclusivity HRIS Assistant](productivity/accessibility-and-inclusivity-hris-assistant.md) | Helps HRIS specialists plan, implement, and track accessibility and inclusivity measures across the employee lifecycle. |
 | [Bamboohr Automation](productivity/bamboohr-automation.md) | Automate BambooHR HR operations: employees, time-off, benefits, dependents, and updates. |
+| [CHRO Succession Planner](productivity/chro-succession-planner.md) | Succession planning assistant for CHROs to identify, develop, and track future leaders. |
 | [D&I Program Planner](productivity/d-i-program-planner.md) | Plans and runs your D&I initiatives, from training to metrics, with ready-to-use content. |
 | [D&I Strategy Planner](productivity/d-i-strategy-planner.md) | Plans, builds, and tracks your organization's diversity and inclusion strategy from research to reporting. |
 | [Diversity and Inclusion Program Assistant](productivity/diversity-and-inclusion-program-assistant.md) | Supports HR specialists in planning, executing, and tracking diversity and inclusion initiatives. |
 | [Diversity and Inclusion Program Planner](../executives-and-strategy/productivity/diversity-and-inclusion-program-planner.md) | Plans and runs your diversity and inclusion initiatives, from training to metrics. |
+| [Employee Onboarding Assistant](productivity/employee-onboarding-assistant.md) | Streamlines new hire onboarding from paperwork to feedback, with drafts ready for your approval. |
 | [Employee Onboarding Program Builder](productivity/employee-onboarding-program-builder.md) | Builds and manages complete employee onboarding programs from materials to feedback. |
 | [Employee Well-Being Programs Assistant](../executives-and-strategy/productivity/employee-well-being-programs-assistant.md) | Plans, promotes, and supports employee well-being initiatives for HR leaders. |
+| [Employee Wellness Program Planner](productivity/employee-wellness-program-planner.md) | Designs, implements, and evaluates employee wellness programs for CHROs. |
 | [Event Staffing Ordering](../operations/productivity/event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
 | [Executive Hiring Navigator](../executives-and-strategy/productivity/executive-hiring-navigator.md) | Talent acquisition strategy assistant for executive directors, from market analysis to onboarding. |
 | [Exit Interview Coordinator](productivity/exit-interview-coordinator.md) | Manages exit interviews from scheduling to follow-up actions for HR specialists. |
@@ -132,6 +153,7 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [HR and Recruitment Operations Assistant](../executives-and-strategy/productivity/hr-and-recruitment-operations-assistant.md) | Streamlines HR and recruitment workflows for senior executives, from job posts to analytics. |
 | [HR Crisis Management Planner](../executives-and-strategy/productivity/hr-crisis-management-planner.md) | Plans and guides HR crisis response, from communication to recovery. |
 | [HR Crisis Response Planner](productivity/hr-crisis-response-planner.md) | Plans and executes HR crisis response from communication to recovery. |
+| [HR D&I Initiative Runner](productivity/hr-d-i-initiative-runner.md) | Plans and runs diversity and inclusion initiatives for HR managers. |
 | [Hr Pro](productivity/hr-pro.md) | HR partner for hiring, onboarding, PTO, performance, and compliant policies. |
 | [HRIS Implementation Guide](productivity/hris-implementation-guide.md) | Guides HRIS specialists through implementation, from selection to ongoing maintenance. |
 | [HRIS Integration Planner](productivity/hris-integration-planner.md) | Plans and guides HRIS integrations with other systems for HR specialists. |
@@ -150,9 +172,11 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [Onboarding Automation Designer](productivity/onboarding-automation-designer.md) | Streamlines new hire onboarding from data collection to compliance and progress tracking. |
 | [Onboarding Optimization Assistant](productivity/onboarding-optimization-assistant.md) | Optimizes the entire employee onboarding process, from paperwork to feedback. |
 | [Payroll Processing Assistant](../finance/productivity/payroll-processing-assistant.md) | Handles payroll data entry, calculations, compliance, reporting, and employee queries. |
+| [Performance Review Coordinator](productivity/performance-review-coordinator.md) | Guides HR managers through every step of the performance review cycle. |
 | [Performance Review Cycle Assistant](productivity/performance-review-cycle-assistant.md) | Prepares, runs, and follows up on performance reviews for employee relations specialists. |
 | [Performance Review Cycle Manager](../executives-and-strategy/productivity/performance-review-cycle-manager.md) | Manages the full performance review cycle for general managers. |
 | [Professional Development Tracker](productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
+| [Recruitment Pipeline Assistant](productivity/recruitment-pipeline-assistant.md) | Streamlines your hiring pipeline from job posting to analytics, with drafting and scheduling support. |
 | [Recruitment Pipeline Manager](productivity/recruitment-pipeline-manager.md) | Streamlines recruitment from screening to onboarding while keeping every step human-approved. |
 | [Recruitment Strategy Assistant](../executives-and-strategy/productivity/recruitment-strategy-assistant.md) | Turns your hiring process into a structured, AI-assisted recruitment workflow. |
 | [Remote Workforce Program Designer](productivity/remote-workforce-program-designer.md) | Designs and runs remote workforce programs for global HR leaders. |
@@ -176,6 +200,7 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [Academic Cv Builder](../education/writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
 | [Compliance Communication Planner](../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Conflict Resolution Advisor](writing-and-content/conflict-resolution-advisor.md) | Helps HR directors analyze, resolve, and prevent workplace conflicts with tailored advice and resources. |
+| [Conflict Resolution Assistant](writing-and-content/conflict-resolution-assistant.md) | Guides HR managers through conflict resolution from analysis to policy and training. |
 | [Conflict Resolution Strategies Assistant](../executives-and-strategy/writing-and-content/conflict-resolution-strategies-assistant.md) | Designs and guides conflict resolution programs, materials, and coaching for HR leaders. |
 | [Conflict Resolution Strategist](writing-and-content/conflict-resolution-strategist.md) | Builds conflict resolution strategies, policies, training, and tools for HR consultants. |
 | [Conflict Resolution Toolkit](writing-and-content/conflict-resolution-toolkit.md) | Turns conflict situations into structured resolution plans for HR specialists. |
@@ -191,6 +216,7 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [Global HR Policy Formulation Assistant](writing-and-content/global-hr-policy-formulation-assistant.md) | Drafts, reviews, and benchmarks global HR policies from research to rollout. |
 | [HR Conflict Resolution Program Designer](writing-and-content/hr-conflict-resolution-program-designer.md) | Guides HR leaders through every stage of workplace conflict resolution, from mediation to program design. |
 | [HR Policy Clarification Assistant](writing-and-content/hr-policy-clarification-assistant.md) | Clarifies policies for HR directors by drafting, explaining, and auditing company procedures. |
+| [HR Policy Creation Assistant](writing-and-content/hr-policy-creation-assistant.md) | Drafts, reviews, and aligns HR policies from research to rollout. |
 | [HR Policy Development Assistant](writing-and-content/hr-policy-development-assistant.md) | Develops, reviews, and rolls out HR policies for consultants. |
 | [HR Policy Drafting Assistant](writing-and-content/hr-policy-drafting-assistant.md) | Drafts, refines, and aligns HR policies with regulations and best practices. |
 | [HR Policy Review and Development Assistant](writing-and-content/hr-policy-review-and-development-assistant.md) | Drafts, reviews, and updates HR policies with compliance and best-practice guidance. |
@@ -210,10 +236,13 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [Resume Quantifier](writing-and-content/resume-quantifier.md) | Add metrics and estimates to resume bullets to show impact. |
 | [Resume Section Builder](writing-and-content/resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
 | [Resume Tailor](../operations/writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
+| [Safety Training Developer](../healthcare/writing-and-content/safety-training-developer.md) | Develops, updates, and localizes workplace safety training materials and assessments. |
 | [SOP Writer](../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
 | [Succession Pipeline Architect](../executives-and-strategy/writing-and-content/succession-pipeline-architect.md) | Builds and runs your succession pipeline from assessment to transition. |
 | [Talent Acquisition Strategy Assistant](writing-and-content/talent-acquisition-strategy-assistant.md) | Streamlines talent acquisition from sourcing to onboarding with AI-driven insights and content. |
 | [Tech Resume Optimizer](../it-and-development/writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
+| [Total Rewards Communication Assistant](writing-and-content/total-rewards-communication-assistant.md) | Crafts clear, personalized total rewards communications for employees. |
+| [Workplace Wellness Program Coordinator](../healthcare/writing-and-content/workplace-wellness-program-coordinator.md) | Designs, promotes, and evaluates workplace wellness programs from surveys to policies. |
 
 ## Teaching & Tutoring
 
@@ -251,6 +280,7 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [Tech Upskilling Program Coordinator](teaching-and-tutoring/tech-upskilling-program-coordinator.md) | Designs, runs, and evaluates tech upskilling programs for your organization. |
 | [Technology Adoption Training Planner](../education/teaching-and-tutoring/technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
 | [Training Accessibility Assistant](../education/teaching-and-tutoring/training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
+| [Training and Development Assistant](teaching-and-tutoring/training-and-development-assistant.md) | Plan, build, run, and track employee training programs for HR Managers. |
 | [Training Program Architect](../executives-and-strategy/teaching-and-tutoring/training-program-architect.md) | Designs, builds, and evaluates employee training programs from needs analysis to stakeholder communication. |
 | [Training Program Coordinator](teaching-and-tutoring/training-program-coordinator.md) | Designs, delivers, and evaluates training programs from needs analysis to career pathing. |
 | [Training Program Designer](../management/teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
@@ -264,12 +294,15 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 
 | Template | What it does |
 |---|---|
+| [Compensation Compliance Navigator](security-and-compliance/compensation-compliance-navigator.md) | Keeps compensation practices compliant with up-to-date law and tailored guidance. |
 | [Compliance Training Manager](../education/security-and-compliance/compliance-training-manager.md) | Manages compliance training from needs assessment to certification and reporting. |
 | [Compliance Training Oversight Assistant](security-and-compliance/compliance-training-oversight-assistant.md) | Builds, tracks, and improves compliance training programs for HR specialists. |
 | [Employee Classification Advisor](../finance/security-and-compliance/employee-classification-advisor.md) | Guides payroll administrators through employee classification decisions and compliance. |
 | [Event Staffing Compliance](security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
+| [HR Legal Compliance Assistant](security-and-compliance/hr-legal-compliance-assistant.md) | Keeps HR policies, records, and practices aligned with employment law. |
 | [HR Legal Compliance Reviewer](security-and-compliance/hr-legal-compliance-reviewer.md) | Reviews and updates HR legal compliance across contracts, policies, and procedures. |
 | [HRIS Security and Compliance Assistant](security-and-compliance/hris-security-and-compliance-assistant.md) | Manages HRIS security and compliance tasks from access control to incident response. |
+| [Labor Compliance Advisor](security-and-compliance/labor-compliance-advisor.md) | Labor law compliance guidance and documentation for CHROs. |
 | [Labor Law Compliance Assistant](../executives-and-strategy/security-and-compliance/labor-law-compliance-assistant.md) | Labor law compliance assistant for HR executives, handling updates, policies, training, records, audits, and reporting. |
 | [Legal Compliance Reviewer](security-and-compliance/legal-compliance-reviewer.md) | Reviews employment documents and policies for legal compliance and prepares training. |
 | [Payroll Audit Support Assistant](../finance/security-and-compliance/payroll-audit-support-assistant.md) | Supports payroll administrators in audit preparation, compliance checks, and corrective actions. |
@@ -278,6 +311,20 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [Wage Garnishment Administrator](../finance/security-and-compliance/wage-garnishment-administrator.md) | Guides payroll admins through garnishment setup, calculation, compliance, and communication. |
 | [Whistleblower Policy Manager](../legal/security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 | [Year-End Payroll Reconciliation Assistant](../finance/security-and-compliance/year-end-payroll-reconciliation-assistant.md) | Reconciles year-end payroll data, verifies compliance, and prepares tax forms and reports. |
+
+## Research
+
+| Template | What it does |
+|---|---|
+| [AI Courses Bot](../education/research/ai-courses-bot.md) | Curates and recommends AI courses based on your learning goals. |
+| [Compensation Plan Architect](../executives-and-strategy/research/compensation-plan-architect.md) | Designs competitive, fair compensation plans and communicates them clearly to employees. |
+| [generation questions](research/generation-questions.md) | Generates interview questions from a job description and candidate profile. |
+| [Global Compensation Coordinator](research/global-compensation-coordinator.md) | Coordinates global compensation research, analysis, and policy support for HR teams. |
+| [Health Promotion Program Planner](../healthcare/research/health-promotion-program-planner.md) | Plans and builds workplace health promotion programs from research to evaluation.​ |
+| [HR Policy Review Assistant](../executives-and-strategy/research/hr-policy-review-assistant.md) | Reviews HR policies, researches best practices, and drafts recommendations for the EVP of HR. |
+| [HR Talent Management Advisor](../management/research/hr-talent-management-advisor.md) | HR and talent management advisor for consultants: retention, performance, succession, diversity, hiring, engagement, training, compensation,… |
+| [People Data](../sales/research/people-data.md) | Research LinkedIn profiles and public business contacts via MCP. |
+| [Salary Negotiation Prep](research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 
 ## Self-Improvement
 
@@ -291,18 +338,6 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [Interview Coach](self-improvement/interview-coach.md) | Full job search coaching: JD decoding, mock interviews, transcript analysis, and comp negotiation. |
 | [Viboscope](self-improvement/viboscope.md) | Match with compatible people using validated psychometrics. |
 | [Wellness Program Architect](self-improvement/wellness-program-architect.md) | Designs, evaluates, and promotes global employee health and wellness programs. |
-
-## Research
-
-| Template | What it does |
-|---|---|
-| [AI Courses Bot](../education/research/ai-courses-bot.md) | Curates and recommends AI courses based on your learning goals. |
-| [Compensation Plan Architect](../executives-and-strategy/research/compensation-plan-architect.md) | Designs competitive, fair compensation plans and communicates them clearly to employees. |
-| [generation questions](research/generation-questions.md) | Generates interview questions from a job description and candidate profile. |
-| [HR Policy Review Assistant](../executives-and-strategy/research/hr-policy-review-assistant.md) | Reviews HR policies, researches best practices, and drafts recommendations for the EVP of HR. |
-| [HR Talent Management Advisor](../management/research/hr-talent-management-advisor.md) | HR and talent management advisor for consultants: retention, performance, succession, diversity, hiring, engagement, training, compensation,… |
-| [People Data](../sales/research/people-data.md) | Research LinkedIn profiles and public business contacts via MCP. |
-| [Salary Negotiation Prep](research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 
 ## Design
 
@@ -322,6 +357,15 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [Recruitment Strategy Planner](marketing-and-growth/recruitment-strategy-planner.md) | Builds and refines your recruitment strategy with data-driven insights and ready-to-use materials. |
 | [Talent Acquisition Strategist](../executives-and-strategy/marketing-and-growth/talent-acquisition-strategist.md) | Streamlines talent acquisition from sourcing to onboarding with AI-driven insights and personalized engagement. |
 | [Talent Acquisition Strategy Advisor](../executives-and-strategy/marketing-and-growth/talent-acquisition-strategy-advisor.md) | Talent acquisition strategy support for managing directors, from market analysis to hiring analytics. |
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Benefits Administration Assistant](support-and-community/benefits-administration-assistant.md) | Guides employees through benefits enrollment, claims, and compliance with clear, accurate support. |
+| [Conflict Resolution Support Assistant](support-and-community/conflict-resolution-support-assistant.md) | Guides employee relations specialists through conflict resolution from assessment to follow-up. |
+| [Employee Benefits Administrator](../finance/support-and-community/employee-benefits-administrator.md) | Manages employee benefits enrollment, communication, compliance, and reporting for payroll administrators. |
+| [Employee Benefits Assistant](support-and-community/employee-benefits-assistant.md) | Explains and supports employee benefits questions, enrollment, and communication for HR Directors. |
 
 ## Knowledge Management
 
@@ -346,14 +390,6 @@ Recruiting, onboarding and people operations. **265 ready-made Grok Bot template
 | [Dispute Mediation Assistant](sales-and-negotiation/dispute-mediation-assistant.md) | Guides employee relations specialists through workplace dispute mediation from intake to follow-up. |
 | [Sales Comp Plan Designer](sales-and-negotiation/sales-comp-plan-designer.md) | Designs sales compensation plans with pay mixes, accelerators, quotas, and cost tracking. |
 | [Workorai](sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Conflict Resolution Support Assistant](support-and-community/conflict-resolution-support-assistant.md) | Guides employee relations specialists through conflict resolution from assessment to follow-up. |
-| [Employee Benefits Administrator](../finance/support-and-community/employee-benefits-administrator.md) | Manages employee benefits enrollment, communication, compliance, and reporting for payroll administrators. |
-| [Employee Benefits Assistant](support-and-community/employee-benefits-assistant.md) | Explains and supports employee benefits questions, enrollment, and communication for HR Directors. |
 
 ## Generative AI and LLM
 

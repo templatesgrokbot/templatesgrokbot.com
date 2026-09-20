@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 446 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 448 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -116,6 +116,7 @@ Clean, query, chart and explain data. 446 Grok Bot templates, 268 of them filed 
 | [Energy Efficiency Analyst](../../science-and-research/data-analysis/energy-efficiency-analyst.md) | Analyzes energy data, simulates processes, and recommends efficiency improvements for chemical plants. |
 | [Energy Procurement](energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
 | [Environmental Impact Analyst](../../product-development/data-analysis/environmental-impact-analyst.md) | Environmental impact analysis and sustainability recommendations for process engineers. |
+| [Environmental Monitoring Analyst](../../healthcare/data-analysis/environmental-monitoring-analyst.md) | Analyzes environmental monitoring data and drafts reports for health and safety compliance. |
 | [Excel Analysis](../../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Expense Folder Auditor](expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Exploratory Data Analysis](../../science-and-research/data-analysis/exploratory-data-analysis.md) | Analyze scientific data files across 200+ formats and generate markdown reports. No file? No action. Never repeat an analysis on the same file. Draft |
@@ -349,6 +350,7 @@ Clean, query, chart and explain data. 446 Grok Bot templates, 268 of them filed 
 | [Route Optimization Assistant](route-optimization-assistant.md) | Optimizes delivery routes, estimates times, cuts costs, and monitors fleet performance. |
 | [Route Optimization Consultant](route-optimization-consultant.md) | Optimizes logistics routes using data analysis, cost, compliance, and real-time updates. |
 | [Route Optimization Planner](route-optimization-planner.md) | Optimizes delivery routes, cuts costs, and flags risks for supply chain managers. |
+| [Safety Data Analyst](../../healthcare/data-analysis/safety-data-analyst.md) | Turns health and safety data into insights, reports, and compliance checks. |
 | [Safety Data Insights Assistant](safety-data-insights-assistant.md) | Turns safety data into prioritized, actionable risk-reduction insights. |
 | [Safety Hazard Risk Mapper](safety-hazard-risk-mapper.md) | Analyzes safety data, identifies hazards, and produces risk assessments for safety engineers. |
 | [Safety Stock Calculator](safety-stock-calculator.md) | Calculates and optimizes safety stock levels from your demand, lead time, and supplier data. |

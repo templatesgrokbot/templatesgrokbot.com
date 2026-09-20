@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 205 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 209 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -43,7 +43,10 @@ Clean, query, chart and explain data. 205 Grok Bot templates, 143 of them filed 
 | [Climate Impact Study Assistant](climate-impact-study-assistant.md) | Turns climate data and policy into impact studies, risk assessments, and adaptation plans. |
 | [Climate Mitigation Analyst](climate-mitigation-analyst.md) | Analyzes climate data and develops mitigation strategies for environmental consultants. |
 | [Climate Risk Assessment Assistant](climate-risk-assessment-assistant.md) | Turns climate data into risk assessments, reports, and resilience plans for sustainability analysts. |
+| [Clinical Data Analysis Assistant](../../healthcare/data-analysis/clinical-data-analysis-assistant.md) | Clinical data analysis assistant for cleaning, statistics, and reporting. |
+| [Clinical Data Integration Assistant](../../healthcare/data-analysis/clinical-data-integration-assistant.md) | Integrates, cleans, and transforms clinical trial data from multiple sources into one reliable dataset. |
 | [Clinical Trial Data Analyst](clinical-trial-data-analyst.md) | Analyzes clinical trial data for microbiologists, from cleaning to reporting. |
+| [Clinical Trial ML Pipeline Assistant](../../healthcare/data-analysis/clinical-trial-ml-pipeline-assistant.md) | Prepares clinical trial data, builds and monitors ML models, and generates reports for clinical data managers. |
 | [Cobrapy](cobrapy.md) | Run constraint-based metabolic modeling and analysis on genome-scale models. |
 | [Data Analysis Assistant](../../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
 | [Data Analyst](data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
@@ -72,6 +75,7 @@ Clean, query, chart and explain data. 205 Grok Bot templates, 143 of them filed 
 | [Energy Market Analysis Assistant](energy-market-analysis-assistant.md) | Analyzes energy market data, forecasts trends, and assesses risks for energy engineers. |
 | [Environmental GIS Assistant](environmental-gis-assistant.md) | Turns GIS data into maps, analyses, and reports for environmental consulting. |
 | [Environmental Impact Analysis Assistant](environmental-impact-analysis-assistant.md) | Environmental impact analysis companion for engineers, turning data into assessments and reports. |
+| [Environmental Monitoring Analyst](../../healthcare/data-analysis/environmental-monitoring-analyst.md) | Analyzes environmental monitoring data and drafts reports for health and safety compliance. |
 | [Environmental Policy Modeling Assistant](../../government/data-analysis/environmental-policy-modeling-assistant.md) | Turns environmental data into policy options, impact assessments, and stakeholder-ready communications. |
 | [Environmental Risk Assessment Assistant](environmental-risk-assessment-assistant.md) | Assists environmental engineers with risk assessment, analysis, reporting, and compliance. |
 | [Enzyme Kinetics Modeling Assistant](enzyme-kinetics-modeling-assistant.md) | Analyzes enzyme kinetics data, fits models, and drafts reports for biochemists. |

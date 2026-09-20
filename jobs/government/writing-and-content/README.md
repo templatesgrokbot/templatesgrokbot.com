@@ -1,6 +1,6 @@
 # Writing & Content templates for Government
 
-Plan, write and edit articles, copy and documentation. 28 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Plan, write and edit articles, copy and documentation. 28 Grok Bot templates, 3 
 | [PR Content Creator](../../pr-and-communications/writing-and-content/pr-content-creator.md) | Drafts and plans all your PR content, from press releases to crisis messaging. |
 | [Process Documentation Assistant](../../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [Regulatory Training Material Developer](regulatory-training-material-developer.md) | Builds regulatory training materials from modules to assessments, grounded in current standards. |
+| [Safety Training Developer](../../healthcare/writing-and-content/safety-training-developer.md) | Develops, updates, and localizes workplace safety training materials and assessments. |
 | [SOP Writer](../../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
 | [Stakeholder Communication Coordinator](../../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
 | [Stakeholder Communication Director](../../executives-and-strategy/writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |

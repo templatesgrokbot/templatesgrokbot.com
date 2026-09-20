@@ -1,6 +1,6 @@
 # Grok Bot templates for Insurance
 
-Underwriting, claims and policy work. **137 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Underwriting, claims and policy work. **139 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,7 @@ Underwriting, claims and policy work. **137 ready-made Grok Bot templates** for 
 | [Data Analysis](data-analysis/README.md) | 74 |
 | [Security & Compliance](security-and-compliance/README.md) | 22 |
 | [Support & Community](support-and-community/README.md) | 14 |
-| [Productivity](productivity/README.md) | 10 |
+| [Productivity](productivity/README.md) | 12 |
 | [Knowledge Management](knowledge-management/README.md) | 5 |
 | [Research](research/README.md) | 4 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
@@ -156,7 +156,9 @@ Underwriting, claims and policy work. **137 ready-made Grok Bot templates** for 
 | [Client Relationship Manager](../management/productivity/client-relationship-manager.md) | Manages all client relationship tasks for an insurance agency manager, from tracking to retention. |
 | [Crisis Management and Response Assistant](../management/productivity/crisis-management-and-response-assistant.md) | Guides insurance agency managers through crisis preparation, response, and recovery. |
 | [Fleet Insurance Manager](../operations/productivity/fleet-insurance-manager.md) | Manages fleet insurance renewals, claims, coverage, costs, compliance, and safety from one chat. |
+| [Insurance Claims Processing Assistant](../healthcare/productivity/insurance-claims-processing-assistant.md) | Handles insurance claims verification, submission, tracking, denials, and compliance for medical records clerks. |
 | [Insurance Digital Transformation Planner](../management/productivity/insurance-digital-transformation-planner.md) | Plans and oversees your agency's digital transformation, from customer analytics to automated processes. |
+| [Insurance Verification Assistant](../healthcare/productivity/insurance-verification-assistant.md) | Verifies insurance coverage, eligibility, and claims for medical billers. |
 | [Risk Analysis and Management Assistant](../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Workflow Automation Architect](../product-development/productivity/workflow-automation-architect.md) | Automates process workflows from data extraction to compliance and reporting. |
 | [Workflow Orchestrator](../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |

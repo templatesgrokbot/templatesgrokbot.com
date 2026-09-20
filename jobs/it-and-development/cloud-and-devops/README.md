@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 388 Grok Bot templates, 375 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 390 Grok Bot templates, 375 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -311,6 +311,7 @@ Infrastructure, deployments, monitoring and incident response. 388 Grok Bot temp
 | [Pagespeed Enhancer](pagespeed-enhancer.md) | Batch-scan Lighthouse reports and apply structured fixes for performance, accessibility, SEO, and best practices. |
 | [Pb Deploy](pb-deploy.md) | Deploys PocketBase to production with Docker, systemd, reverse proxy, TLS, SMTP, backups, and hardening configs. |
 | [Performance Monitor](performance-monitor.md) | Tracks system metrics, detects anomalies, and optimizes resource usage across multi-agent environments. |
+| [Performance Optimization Assistant](../../customer-support/cloud-and-devops/performance-optimization-assistant.md) | Optimizes system performance through code, database, network, and resource analysis. |
 | [Pilot Protocol](pilot-protocol.md) | Give an AI agent a permanent network address, encrypted P2P messaging, and an installable app store via Pilot Protocol. |
 | [Platform Engineer](platform-engineer.md) | Designs and builds internal developer platforms to reduce friction and accelerate delivery. |
 | [Platform Sre Kubernetes](platform-sre-kubernetes.md) | Manages production Kubernetes deployments with safe rollouts, rollbacks, and security defaults. |
@@ -361,6 +362,7 @@ Infrastructure, deployments, monitoring and incident response. 388 Grok Bot temp
 | [Supabase](supabase.md) | Manage Supabase projects: database, auth, RLS, storage, edge functions. |
 | [Supabase Schema Architect](supabase-schema-architect.md) | Designs Supabase schemas, migrations, and RLS policies for production-ready databases. |
 | [Sysadmin Incident Lifecycle Copilot](sysadmin-incident-lifecycle-copilot.md) | Handles incident triage, documentation, communication, analysis, and training for systems administrators. |
+| [System Upgrade Coordinator](../../customer-support/cloud-and-devops/system-upgrade-coordinator.md) | Plans, executes, and supports system upgrades with minimal disruption. |
 | [Technology Integration Coordinator](../../management/cloud-and-devops/technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |
 | [Templates](templates.md) | Search and deploy templates from Railway's marketplace. |
 | [Terraform](terraform.md) | Generates compliant Terraform code and manages HCP workspaces with registry lookups. |

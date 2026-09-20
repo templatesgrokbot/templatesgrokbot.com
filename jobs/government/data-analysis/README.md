@@ -1,6 +1,6 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 97 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 101 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -39,6 +39,7 @@ Clean, query, chart and explain data. 97 Grok Bot templates, 13 of them filed in
 | [Data-Driven Decision Support](../../executives-and-strategy/data-analysis/data-driven-decision-support.md) | Turns raw data into clear insights and recommendations for executive decisions. |
 | [Economic Forecasting Assistant](economic-forecasting-assistant.md) | Economic forecasting assistant for policy makers: data analysis, modeling, and scenario planning. |
 | [Employee Template Tracking Planner](../../education/data-analysis/employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
+| [Environmental Monitoring Analyst](../../healthcare/data-analysis/environmental-monitoring-analyst.md) | Analyzes environmental monitoring data and drafts reports for health and safety compliance. |
 | [Environmental Policy Modeling Assistant](environmental-policy-modeling-assistant.md) | Turns environmental data into policy options, impact assessments, and stakeholder-ready communications. |
 | [Environmental Risk Assessment Assistant](../../science-and-research/data-analysis/environmental-risk-assessment-assistant.md) | Assists environmental engineers with risk assessment, analysis, reporting, and compliance. |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
@@ -53,12 +54,14 @@ Clean, query, chart and explain data. 97 Grok Bot templates, 13 of them filed in
 | [Forecast Variance Advisor](../../finance/data-analysis/forecast-variance-advisor.md) | Turns your financial data into forecasts, variance insights, and budget recommendations. |
 | [Gap Closure Training Planner](../../human-resources/data-analysis/gap-closure-training-planner.md) | Identifies training needs and aligns development programs with organizational goals. |
 | [Hydrogeology Data Analyst](../../science-and-research/data-analysis/hydrogeology-data-analyst.md) | Analyzes hydrogeological data and drafts reports, models, and plans for groundwater work. |
+| [Job Evaluation and Grading Assistant](../../human-resources/data-analysis/job-evaluation-and-grading-assistant.md) | Job evaluation and grading assistant for compensation analysts, from analysis to communication. |
 | [Junta Auctioneers](../../operations/data-analysis/junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Market Trend Analysis Assistant](../../operations/data-analysis/market-trend-analysis-assistant.md) | Analyzes market trends and compiles reports to support procurement decisions. |
 | [Media Monitoring Assistant](../../pr-and-communications/data-analysis/media-monitoring-assistant.md) | Audits crisis communication plans, media coverage, and team performance to strengthen crisis response. |
 | [Natural Hazard Analysis Assistant](../../science-and-research/data-analysis/natural-hazard-analysis-assistant.md) | Turns geological and climate data into hazard analyses, maps, and preparedness plans. |
 | [Operational Efficiency Analysis Assistant](../../executives-and-strategy/data-analysis/operational-efficiency-analysis-assistant.md) | Analyzes operations and hands back improvement plans for executive decisions. |
 | [Operational KPI Dashboard Designer](../../operations/data-analysis/operational-kpi-dashboard-designer.md) | Designs and maintains operational KPI dashboards with data integration, analysis, and reporting. |
+| [Pay Equity Analysis Assistant](../../human-resources/data-analysis/pay-equity-analysis-assistant.md) | Guides pay equity analyses from data collection to monitoring and reporting. |
 | [Performance Management Guidance](../../human-resources/data-analysis/performance-management-guidance.md) | Guides HR directors through every step of performance management, from criteria to communication. |
 | [Performance Metrics Manager](../../management/data-analysis/performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Performance Metrics Strategist](../../executives-and-strategy/data-analysis/performance-metrics-strategist.md) | Develops and refines performance metrics for strategic decision-making. |
@@ -76,6 +79,7 @@ Clean, query, chart and explain data. 97 Grok Bot templates, 13 of them filed in
 | [Risk Assessment and Mitigation Consultant](../../management/data-analysis/risk-assessment-and-mitigation-consultant.md) | Identifies, analyzes, and mitigates risks across your organization with structured assessments and plans. |
 | [Risk Assessment Workflow Assistant](../../legal/data-analysis/risk-assessment-workflow-assistant.md) | Streamlines risk assessment for compliance analysts, from data collection to reporting and monitoring. |
 | [Risk Radar for QC Teams](../../operations/data-analysis/risk-radar-for-qc-teams.md) | Identifies, assesses, and mitigates operational risks with data-driven insights and monitoring. |
+| [Safety Data Analyst](../../healthcare/data-analysis/safety-data-analyst.md) | Turns health and safety data into insights, reports, and compliance checks. |
 | [Safety Data Insights Assistant](../../operations/data-analysis/safety-data-insights-assistant.md) | Turns safety data into prioritized, actionable risk-reduction insights. |
 | [Senior Manager Decision Support](../../management/data-analysis/senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
 | [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |

@@ -1,6 +1,6 @@
 # Support & Community templates for Operations
 
-Triage tickets, answer customers and moderate communities. 31 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 32 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Triage tickets, answer customers and moderate communities. 31 Grok Bot templates
 | [Customer Success Response Manager](../../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 | [Customer Support](../../customer-support/support-and-community/customer-support.md) | Resolves support tickets and creates help documentation from confirmed facts only. |
 | [Damage Assessment Support](damage-assessment-support.md) | Assesses insurance damage from documents, photos, and data, and supports the full claims process. |
+| [Data Backup and Recovery Assistant](../../customer-support/support-and-community/data-backup-and-recovery-assistant.md) | Guides users through data backup, recovery, and disaster planning to keep their data safe. |
 | [Doordash Allergy Shield](doordash-allergy-shield.md) | Vets DoorDash carts against a stored household dietary profile before checkout. |
 | [Emergency Response Coordinator](../../customer-support/support-and-community/emergency-response-coordinator.md) | Coordinates emergency response support for insurance policyholders from first contact to claim resolution. |
 | [Freshdesk Automation](../../customer-support/support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |

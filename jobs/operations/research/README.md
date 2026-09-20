@@ -1,6 +1,6 @@
 # Research templates for Operations
 
-Find sources, compare evidence and summarise what is known. 82 Grok Bot templates, 27 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 83 Grok Bot templates, 27 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,6 +28,7 @@ Find sources, compare evidence and summarise what is known. 82 Grok Bot template
 | [Dispute Resolution Support Assistant](../../legal/research/dispute-resolution-support-assistant.md) | Supports contract administrators through every stage of dispute resolution. |
 | [E-Procurement Solutions Exploration Assistant](e-procurement-solutions-exploration-assistant.md) | Researches and evaluates e-procurement solutions to support your selection decisions. |
 | [Equipment Selection Guide](../../product-development/research/equipment-selection-guide.md) | Guides process engineers through equipment selection with research, analysis, and compliance checks. |
+| [Ergonomics Improvement Assistant](../../healthcare/research/ergonomics-improvement-assistant.md) | Assesses and improves workplace ergonomics to reduce injury risk and boost comfort. |
 | [Find Matching Tenders](../../sales/research/find-matching-tenders.md) | Find and rank live AU/NZ government tenders matching a company's capabilities. |
 | [Flight Watch](flight-watch.md) | Watches a route you care about and tells you when the price is genuinely worth acting on. |
 | [Freight Market Research Assistant](../../sales/research/freight-market-research-assistant.md) | Market research for freight brokers: trends, competitors, pricing, routes, regulations, and more. |

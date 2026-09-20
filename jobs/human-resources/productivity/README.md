@@ -1,6 +1,6 @@
 # Productivity templates for Human Resources
 
-Plan, prioritise and clear the recurring admin. 53 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 59 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,12 +8,15 @@ Plan, prioritise and clear the recurring admin. 53 Grok Bot templates, 33 of the
 |---|---|
 | [Accessibility and Inclusivity HRIS Assistant](accessibility-and-inclusivity-hris-assistant.md) | Helps HRIS specialists plan, implement, and track accessibility and inclusivity measures across the employee lifecycle. |
 | [Bamboohr Automation](bamboohr-automation.md) | Automate BambooHR HR operations: employees, time-off, benefits, dependents, and updates. |
+| [CHRO Succession Planner](chro-succession-planner.md) | Succession planning assistant for CHROs to identify, develop, and track future leaders. |
 | [D&I Program Planner](d-i-program-planner.md) | Plans and runs your D&I initiatives, from training to metrics, with ready-to-use content. |
 | [D&I Strategy Planner](d-i-strategy-planner.md) | Plans, builds, and tracks your organization's diversity and inclusion strategy from research to reporting. |
 | [Diversity and Inclusion Program Assistant](diversity-and-inclusion-program-assistant.md) | Supports HR specialists in planning, executing, and tracking diversity and inclusion initiatives. |
 | [Diversity and Inclusion Program Planner](../../executives-and-strategy/productivity/diversity-and-inclusion-program-planner.md) | Plans and runs your diversity and inclusion initiatives, from training to metrics. |
+| [Employee Onboarding Assistant](employee-onboarding-assistant.md) | Streamlines new hire onboarding from paperwork to feedback, with drafts ready for your approval. |
 | [Employee Onboarding Program Builder](employee-onboarding-program-builder.md) | Builds and manages complete employee onboarding programs from materials to feedback. |
 | [Employee Well-Being Programs Assistant](../../executives-and-strategy/productivity/employee-well-being-programs-assistant.md) | Plans, promotes, and supports employee well-being initiatives for HR leaders. |
+| [Employee Wellness Program Planner](employee-wellness-program-planner.md) | Designs, implements, and evaluates employee wellness programs for CHROs. |
 | [Event Staffing Ordering](../../operations/productivity/event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
 | [Executive Hiring Navigator](../../executives-and-strategy/productivity/executive-hiring-navigator.md) | Talent acquisition strategy assistant for executive directors, from market analysis to onboarding. |
 | [Exit Interview Coordinator](exit-interview-coordinator.md) | Manages exit interviews from scheduling to follow-up actions for HR specialists. |
@@ -23,6 +26,7 @@ Plan, prioritise and clear the recurring admin. 53 Grok Bot templates, 33 of the
 | [HR and Recruitment Operations Assistant](../../executives-and-strategy/productivity/hr-and-recruitment-operations-assistant.md) | Streamlines HR and recruitment workflows for senior executives, from job posts to analytics. |
 | [HR Crisis Management Planner](../../executives-and-strategy/productivity/hr-crisis-management-planner.md) | Plans and guides HR crisis response, from communication to recovery. |
 | [HR Crisis Response Planner](hr-crisis-response-planner.md) | Plans and executes HR crisis response from communication to recovery. |
+| [HR D&I Initiative Runner](hr-d-i-initiative-runner.md) | Plans and runs diversity and inclusion initiatives for HR managers. |
 | [Hr Pro](hr-pro.md) | HR partner for hiring, onboarding, PTO, performance, and compliant policies. |
 | [HRIS Implementation Guide](hris-implementation-guide.md) | Guides HRIS specialists through implementation, from selection to ongoing maintenance. |
 | [HRIS Integration Planner](hris-integration-planner.md) | Plans and guides HRIS integrations with other systems for HR specialists. |
@@ -41,9 +45,11 @@ Plan, prioritise and clear the recurring admin. 53 Grok Bot templates, 33 of the
 | [Onboarding Automation Designer](onboarding-automation-designer.md) | Streamlines new hire onboarding from data collection to compliance and progress tracking. |
 | [Onboarding Optimization Assistant](onboarding-optimization-assistant.md) | Optimizes the entire employee onboarding process, from paperwork to feedback. |
 | [Payroll Processing Assistant](../../finance/productivity/payroll-processing-assistant.md) | Handles payroll data entry, calculations, compliance, reporting, and employee queries. |
+| [Performance Review Coordinator](performance-review-coordinator.md) | Guides HR managers through every step of the performance review cycle. |
 | [Performance Review Cycle Assistant](performance-review-cycle-assistant.md) | Prepares, runs, and follows up on performance reviews for employee relations specialists. |
 | [Performance Review Cycle Manager](../../executives-and-strategy/productivity/performance-review-cycle-manager.md) | Manages the full performance review cycle for general managers. |
 | [Professional Development Tracker](professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
+| [Recruitment Pipeline Assistant](recruitment-pipeline-assistant.md) | Streamlines your hiring pipeline from job posting to analytics, with drafting and scheduling support. |
 | [Recruitment Pipeline Manager](recruitment-pipeline-manager.md) | Streamlines recruitment from screening to onboarding while keeping every step human-approved. |
 | [Recruitment Strategy Assistant](../../executives-and-strategy/productivity/recruitment-strategy-assistant.md) | Turns your hiring process into a structured, AI-assisted recruitment workflow. |
 | [Remote Workforce Program Designer](remote-workforce-program-designer.md) | Designs and runs remote workforce programs for global HR leaders. |

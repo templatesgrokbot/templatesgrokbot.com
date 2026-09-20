@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **138 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **148 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,9 +11,9 @@ Property, building and site work. **138 ready-made Grok Bot templates** for this
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 37 |
-| [Productivity](productivity/README.md) | 34 |
-| [Security & Compliance](security-and-compliance/README.md) | 19 |
+| [Data Analysis](data-analysis/README.md) | 38 |
+| [Productivity](productivity/README.md) | 35 |
+| [Security & Compliance](security-and-compliance/README.md) | 27 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 15 |
 | [Research](research/README.md) | 12 |
 | [Writing & Content](writing-and-content/README.md) | 7 |
@@ -60,6 +60,7 @@ Property, building and site work. **138 ready-made Grok Bot templates** for this
 | [Real Estate Investment Scout](data-analysis/real-estate-investment-scout.md) | Scouts real estate investment opportunities through market analysis, financial modeling, and risk assessment. |
 | [Real Estate Market Analyst](data-analysis/real-estate-market-analyst.md) | Analyzes real estate market data to deliver insights, forecasts, and reports for brokers. |
 | [Resource Allocation Optimizer](../operations/data-analysis/resource-allocation-optimizer.md) | Analyzes resources, forecasts demand, and optimizes allocation for operations leaders. |
+| [Safety Data Analyst](../healthcare/data-analysis/safety-data-analyst.md) | Turns health and safety data into insights, reports, and compliance checks. |
 | [Safety Data Insights Assistant](../operations/data-analysis/safety-data-insights-assistant.md) | Turns safety data into prioritized, actionable risk-reduction insights. |
 | [Safety Hazard Risk Mapper](../operations/data-analysis/safety-hazard-risk-mapper.md) | Analyzes safety data, identifies hazards, and produces risk assessments for safety engineers. |
 | [Subcontractor Evaluation Assistant](data-analysis/subcontractor-evaluation-assistant.md) | Evaluates and selects subcontractors for construction projects through structured assessments. |
@@ -98,6 +99,7 @@ Property, building and site work. **138 ready-made Grok Bot templates** for this
 | [Property Staging Planner](productivity/property-staging-planner.md) | Stages properties end-to-end with trends, checklists, content, and staging guidance. |
 | [Real Estate Time Efficiency Planner](productivity/real-estate-time-efficiency-planner.md) | Organizes your real estate schedule, priorities, and workflows to save time and boost productivity. |
 | [Real Estate Transaction Coordinator](productivity/real-estate-transaction-coordinator.md) | Organizes, tracks, and coordinates every real estate transaction from contract to closing. |
+| [Safety Training and Drill Coordinator](../healthcare/productivity/safety-training-and-drill-coordinator.md) | Coordinates safety training and drills for health and safety specialists, from scheduling to compliance tracking. |
 | [Stakeholder Communication Manager](../management/productivity/stakeholder-communication-manager.md) | Manages all stakeholder communication for project managers, from analysis to audits. |
 | [Stakeholder Communication Planner](../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
 | [Vendor Lifecycle Manager](../operations/productivity/vendor-lifecycle-manager.md) | Streamlines vendor evaluation from research to exit with structured analysis and approvals. |
@@ -112,19 +114,27 @@ Property, building and site work. **138 ready-made Grok Bot templates** for this
 | [Construction Legal Advisor](security-and-compliance/construction-legal-advisor.md) | Guides construction contractors through legal, regulatory, and compliance questions. |
 | [Construction Quality Control Assistant](security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
 | [Construction Safety Compliance Assistant](security-and-compliance/construction-safety-compliance-assistant.md) | Safety compliance assistant for construction contractors managing OSHA, PPE, inspections, and training. |
+| [Contractor Safety Oversight Assistant](../healthcare/security-and-compliance/contractor-safety-oversight-assistant.md) | Oversees contractor safety oversight: training, audits, risk, compliance, and improvement. |
 | [EHS Safety Assistant](../operations/security-and-compliance/ehs-safety-assistant.md) | Handles EHS hazard checks, training, compliance, and incident analysis for safety engineers. |
 | [Emergency Response Planner](../operations/security-and-compliance/emergency-response-planner.md) | Emergency response planning assistant for safety engineers, from risk assessment to post-emergency review. |
+| [Hazard Drill Compliance Builder](../healthcare/security-and-compliance/hazard-drill-compliance-builder.md) | Emergency response planning assistant for health and safety specialists — from hazard ID to drills and compliance. |
 | [Hazard Identification Assistant](../operations/security-and-compliance/hazard-identification-assistant.md) | Turns workplace data and documents into hazard identifications, risk assessments, and safety actions. |
 | [Health & Safety Compliance Assistant](../operations/security-and-compliance/health-safety-compliance-assistant.md) | Helps Heads of Operations run health and safety compliance: inspections, policies, training, risk, audits, incidents, and reporting. |
+| [Health and Safety Policy Assistant](../healthcare/security-and-compliance/health-and-safety-policy-assistant.md) | Develops, reviews, and improves health and safety policies for your workplace. |
+| [Incident Investigation Support Specialist](../healthcare/security-and-compliance/incident-investigation-support-specialist.md) | Streamlines incident investigations from witness statements to final reports and policy. |
 | [Occupational Health and Safety Assistant](../operations/security-and-compliance/occupational-health-and-safety-assistant.md) | Manages occupational health and safety tasks from risk assessment to compliance and wellness programs. |
 | [Operations Risk Assessment Planner](../operations/security-and-compliance/operations-risk-assessment-planner.md) | Identifies, analyzes, prioritizes, and plans mitigation for operational risks, from supply chain to compliance, with prepared monitoring and… |
+| [PPE Management Assistant](../healthcare/security-and-compliance/ppe-management-assistant.md) | Manages PPE inventory, selection, training, compliance, and records for workplace safety. |
 | [Production Risk Assessment Assistant](../operations/security-and-compliance/production-risk-assessment-assistant.md) | Identifies, assesses, and mitigates production risks with data-backed reports and safety protocols. |
 | [Real Estate Compliance Assistant](security-and-compliance/real-estate-compliance-assistant.md) | Legal and ethical compliance assistant for real estate brokers, from research to policy drafting. |
 | [Risk Assessment Navigator](../sales/security-and-compliance/risk-assessment-navigator.md) | Guides business development managers through complete risk assessment, from identifying risks to building automated assessment tools. |
+| [Risk Control Hazard Finder](../healthcare/security-and-compliance/risk-control-hazard-finder.md) | Hazard identification assistant for health and safety specialists, turning data into risk controls. |
 | [Risk Management Analysis Assistant](../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
+| [Safety Audit Assistant](../healthcare/security-and-compliance/safety-audit-assistant.md) | Streamlines safety audits by generating checklists, analyzing records, and assessing compliance. |
 | [Safety Compliance Assistant](../operations/security-and-compliance/safety-compliance-assistant.md) | Safety compliance assistant that turns regulations into policies, audits, training, and reports for safety engineers. |
 | [Safety Compliance Planner](../operations/security-and-compliance/safety-compliance-planner.md) | Turns safety standards into checklists, training, and audit plans for quality control inspectors. |
 | [Safety Protocol Development Assistant](../operations/security-and-compliance/safety-protocol-development-assistant.md) | Develops, reviews, and updates workplace safety protocols from research to training. |
+| [Safety Risk Assessment Copilot](../healthcare/security-and-compliance/safety-risk-assessment-copilot.md) | Comprehensive risk assessment assistant for health and safety specialists, from hazard ID to compliance and training. |
 | [Workplace Safety Audit Copilot](../government/security-and-compliance/workplace-safety-audit-copilot.md) | Keeps your workplace compliant with health and safety rules, from policies to audits. |
 
 ## Sales & Negotiation

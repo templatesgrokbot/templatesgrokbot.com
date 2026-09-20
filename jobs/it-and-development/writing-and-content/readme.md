@@ -1,6 +1,6 @@
 # Writing & Content templates for IT and Development
 
-Plan, write and edit articles, copy and documentation. 28 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Plan, write and edit articles, copy and documentation. 28 Grok Bot templates, 16
 | [Devrel Content](../../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Doc Co-Authoring Workflow](../../writers/writing-and-content/doc-coauthoring.md) | Guides users through co-authoring docs with context, refinement, and reader testing. |
 | [Docs Architect](docs-architect.md) | Analyzes codebases to produce long-form technical manuals and ebooks. |
+| [Documentation and Reporting Assistant](../../customer-support/writing-and-content/documentation-and-reporting-assistant.md) | Turn your technical support knowledge into clear, accurate documentation and reports. |
 | [Documentation Engineer](documentation-engineer.md) | Architect and automate documentation systems that stay synchronized with code changes. |
 | [Documentation Expert](documentation-expert.md) | Creates, improves, and maintains project documentation from code and specs. |
 | [Documentation Templates](documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |

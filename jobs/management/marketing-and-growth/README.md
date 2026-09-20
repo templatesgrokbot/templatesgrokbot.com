@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Management
 
-Campaigns, ads, conversion and launch plans. 38 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 39 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,7 @@ Campaigns, ads, conversion and launch plans. 38 Grok Bot templates, 22 of them f
 | [Launch Plan Orchestrator](../../executives-and-strategy/marketing-and-growth/launch-plan-orchestrator.md) | Plans and executes product launches from market research to performance tracking. |
 | [Market Trend Forecasting Assistant](market-trend-forecasting-assistant.md) | Forecast market trends and plan strategy from data, competitor, and consumer insights. |
 | [Marketing Strategy Pmm](../../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
+| [Patient Recruitment Campaign Planner](../../healthcare/marketing-and-growth/patient-recruitment-campaign-planner.md) | Plans and drafts patient recruitment campaigns for clinical trials. |
 | [Personalized Marketing Strategist](personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
 | [PPC Campaign Manager](../../sales/marketing-and-growth/ppc-campaign-manager.md) | Manages PPC campaigns from keyword research to performance reporting for better ROI. |
 | [Pricing Strategy Formulation Assistant](pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |

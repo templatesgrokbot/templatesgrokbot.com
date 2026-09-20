@@ -1,6 +1,6 @@
 # Productivity templates for Healthcare
 
-Plan, prioritise and clear the recurring admin. 13 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 18 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,12 +12,17 @@ Plan, prioritise and clear the recurring admin. 13 Grok Bot templates, 4 of them
 | [Crisis Management Planner](../../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
 | [Emergency Card Generator](emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
 | [Employee Scheduling Optimizer](../../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
+| [Insurance Claims Processing Assistant](insurance-claims-processing-assistant.md) | Handles insurance claims verification, submission, tracking, denials, and compliance for medical records clerks. |
+| [Insurance Verification Assistant](insurance-verification-assistant.md) | Verifies insurance coverage, eligibility, and claims for medical billers. |
 | [Lab Stock Forecast Alerts](../../science-and-research/productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
 | [Medical Billing and Coding Assistant](medical-billing-and-coding-assistant.md) | Verifies codes, submits claims, posts payments, manages denials, and ensures compliant billing for medical billers. |
+| [Medical Billing Data Entry Assistant](medical-billing-data-entry-assistant.md) | Accurate data entry and maintenance for medical billing workflows, from claims to compliance. |
+| [Medical Records Clerk Scheduler](medical-records-clerk-scheduler.md) | Schedules patient appointments, sends reminders, and manages follow-ups for medical records clerks. |
 | [Operations Crisis Navigator](../../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
 | [Operations Risk Assessment Guide](../../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
 | [Patient Account Management Assistant](patient-account-management-assistant.md) | Streamlines patient account workflows from verification to collections with accurate, compliant handling. |
 | [Professional Development Tracker](../../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
+| [Safety Training and Drill Coordinator](safety-training-and-drill-coordinator.md) | Coordinates safety training and drills for health and safety specialists, from scheduling to compliance tracking. |
 | [Time and Attendance Integrator](../../finance/productivity/time-and-attendance-integrator.md) | Manages time and attendance integration, tracking, and reporting for payroll accuracy. |
 
 [← All Healthcare templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/healthcare)

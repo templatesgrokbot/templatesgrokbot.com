@@ -1,6 +1,6 @@
 # Productivity templates for Real Estate and Construction
 
-Plan, prioritise and clear the recurring admin. 34 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 35 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -36,6 +36,7 @@ Plan, prioritise and clear the recurring admin. 34 Grok Bot templates, 9 of them
 | [Property Staging Planner](property-staging-planner.md) | Stages properties end-to-end with trends, checklists, content, and staging guidance. |
 | [Real Estate Time Efficiency Planner](real-estate-time-efficiency-planner.md) | Organizes your real estate schedule, priorities, and workflows to save time and boost productivity. |
 | [Real Estate Transaction Coordinator](real-estate-transaction-coordinator.md) | Organizes, tracks, and coordinates every real estate transaction from contract to closing. |
+| [Safety Training and Drill Coordinator](../../healthcare/productivity/safety-training-and-drill-coordinator.md) | Coordinates safety training and drills for health and safety specialists, from scheduling to compliance tracking. |
 | [Stakeholder Communication Manager](../../management/productivity/stakeholder-communication-manager.md) | Manages all stakeholder communication for project managers, from analysis to audits. |
 | [Stakeholder Communication Planner](../../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
 | [Vendor Lifecycle Manager](../../operations/productivity/vendor-lifecycle-manager.md) | Streamlines vendor evaluation from research to exit with structured analysis and approvals. |
