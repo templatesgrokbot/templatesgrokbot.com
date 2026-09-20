@@ -1,6 +1,6 @@
 # Design templates for Product Development
 
-Interfaces, brands, layouts and visual systems. 95 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 98 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -36,6 +36,7 @@ Interfaces, brands, layouts and visual systems. 95 Grok Bot templates, 18 of the
 | [Diagrammer](../../it-and-development/design/diagrammer.md) | Turns plain-English diagram requests into clean blueprint-style SVG files for docs and slides. |
 | [Draw Io](../../it-and-development/design/draw-io.md) | Creates, edits, and reviews draw.io diagrams from .drawio XML files. |
 | [Emil Design Eng](../../creatives/design/emil-design-eng.md) | UI polish, animation direction, and high-craft component decisions for product interfaces. |
+| [Esports Feature Planning Assistant](../../it-and-development/design/esports-feature-planning-assistant.md) | Plans esports features for game developers from stats tracking to event integration. |
 | [Ethical UX Design Advisor](ethical-ux-design-advisor.md) | Guides ethical UX design decisions, from privacy to inclusivity, for responsible products. |
 | [Flat Design 2](../../it-and-development/design/flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
 | [Floating Ui](../../it-and-development/design/floating-ui.md) | Implement floating, detached UI elements with soft shadows and pill shapes. |
@@ -55,6 +56,7 @@ Interfaces, brands, layouts and visual systems. 95 Grok Bot templates, 18 of the
 | [Iconsax Library](../../creatives/design/iconsax-library.md) | Iconsax provides premium icons and AI generation for cohesive, modern UI/UX design. |
 | [Ideation Session Facilitator](ideation-session-facilitator.md) | Runs your UX ideation and brainstorming sessions from agenda to follow-up. |
 | [imagegen-frontend-mobile](../../creatives/design/imagegen-frontend-mobile.md) | Generates realistic mobile app screen mockups for pitches and product previews. |
+| [In-Game Economy Designer](../../it-and-development/design/in-game-economy-designer.md) | Designs and balances in-game economies for game developers. |
 | [Industrial Brutalist Ui](../../creatives/design/industrial-brutalist-ui.md) | Create raw industrial or tactical telemetry UIs with rigid grids and stark typography. |
 | [Interaction Design Assistant](../../creatives/design/interaction-design-assistant.md) | Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff. |
 | [Lookdev](../../creatives/design/lookdev.md) | Build interactive studios for tuning, editing, and annotating creative work by eye. |
@@ -82,6 +84,7 @@ Interfaces, brands, layouts and visual systems. 95 Grok Bot templates, 18 of the
 | [Swiss Design](../../creatives/design/swiss-design.md) | Generate web/app layouts using strict grids, sans-serif type, and asymmetrical alignment. |
 | [Theme Factory](../../creatives/design/theme-factory.md) | Generate or apply curated slide-deck themes with color scales, fonts, and WCAG AA contrast. |
 | [Typography UI Design Assistant](../../creatives/design/typography-ui-design-assistant.md) | Typography guidance and tools for UI designers, from font pairing to accessibility checks. |
+| [UI Design Principles Assistant](../../it-and-development/design/ui-design-principles-assistant.md) | Turns UI design principles into actionable, user-centered interface guidance for software engineers. |
 | [Ui Design System](../../creatives/design/ui-design-system.md) | Generates design tokens, component docs, responsive calculations, and handoff files for a senior UI designer. |
 | [Ui Designer](../../creatives/design/ui-designer.md) | Designs visual interfaces, design systems, and component libraries with accessibility and brand alignment. |
 | [Ui Score](../../creatives/design/ui-score.md) | Score UI files 0-100 against StyleSeed design language with fix priorities. |

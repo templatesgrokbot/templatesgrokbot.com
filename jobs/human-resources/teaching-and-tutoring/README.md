@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Human Resources
 
-Explain, quiz and guide someone through a subject. 47 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 48 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -42,6 +42,7 @@ Explain, quiz and guide someone through a subject. 47 Grok Bot templates, 19 of 
 | [Team Training Program Designer](../../sales/teaching-and-tutoring/team-training-program-designer.md) | Designs and runs team training programs for business development managers. |
 | [Tech Upskilling Program Coordinator](tech-upskilling-program-coordinator.md) | Designs, runs, and evaluates tech upskilling programs for your organization. |
 | [Technology Adoption Training Planner](../../education/teaching-and-tutoring/technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
+| [Technology Training Program Coordinator](../../it-and-development/teaching-and-tutoring/technology-training-program-coordinator.md) | Designs, runs, and improves employee technology training programs end to end. |
 | [Training Accessibility Assistant](../../education/teaching-and-tutoring/training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
 | [Training and Development Assistant](training-and-development-assistant.md) | Plan, build, run, and track employee training programs for HR Managers. |
 | [Training Lifecycle Architect](training-lifecycle-architect.md) | Designs, runs, and evaluates employee training programs from needs assessment to follow-up. |

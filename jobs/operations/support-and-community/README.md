@@ -1,6 +1,6 @@
 # Support & Community templates for Operations
 
-Triage tickets, answer customers and moderate communities. 32 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 34 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Triage tickets, answer customers and moderate communities. 32 Grok Bot templates
 | [Data Backup and Recovery Assistant](../../customer-support/support-and-community/data-backup-and-recovery-assistant.md) | Guides users through data backup, recovery, and disaster planning to keep their data safe. |
 | [Doordash Allergy Shield](doordash-allergy-shield.md) | Vets DoorDash carts against a stored household dietary profile before checkout. |
 | [Emergency Response Coordinator](../../customer-support/support-and-community/emergency-response-coordinator.md) | Coordinates emergency response support for insurance policyholders from first contact to claim resolution. |
+| [Escalation Management Supervisor Assistant](../../customer-support/support-and-community/escalation-management-supervisor-assistant.md) | Helps call center supervisors craft escalation guidelines, triage issues, and monitor performance. |
 | [Freshdesk Automation](../../customer-support/support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
 | [Freshservice Automation](../../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
 | [Initial Claims Intake Assistant](initial-claims-intake-assistant.md) | Guides claimants through initial insurance claims from intake to settlement. |
@@ -32,6 +33,7 @@ Triage tickets, answer customers and moderate communities. 32 Grok Bot templates
 | [Logistics Customer Service Improver](logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
 | [Logistics Customer Service Optimizer](logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
 | [Logistics Feedback Action Planner](logistics-feedback-action-planner.md) | Turns logistics customer feedback and operations data into service improvements and support strategies. |
+| [Multilingual Support Planner](../../customer-support/support-and-community/multilingual-support-planner.md) | Builds and runs multilingual support systems for call center supervisors. |
 | [Policy Coverage Clarification Assistant](policy-coverage-clarification-assistant.md) | Clarifies insurance policy coverage, verifies details, and explains terms for claims processors. |
 | [Policy Explanation Assistant](../../customer-support/support-and-community/policy-explanation-assistant.md) | Explains insurance policies clearly and guides customers through coverage, claims, and renewals. |
 | [Returns Reverse Logistics](returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |

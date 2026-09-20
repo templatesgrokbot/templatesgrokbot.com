@@ -1,6 +1,6 @@
 # Productivity templates for Product Development
 
-Plan, prioritise and clear the recurring admin. 66 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 67 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -65,6 +65,7 @@ Plan, prioritise and clear the recurring admin. 66 Grok Bot templates, 29 of the
 | [Task Decomposition Expert](../../management/productivity/task-decomposition-expert.md) | Breaks complex goals into actionable work breakdowns with dependencies and effort estimates. |
 | [Task Intelligence](../../management/productivity/task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |
 | [Team Collaboration Facilitator](../../management/productivity/team-collaboration-facilitator.md) | Facilitates team collaboration, communication, and decision-making for project managers. |
+| [Tech Project Tracker](../../it-and-development/productivity/tech-project-tracker.md) | Manages project schedules, resources, risks, budgets, and team communication from planning to delivery. |
 | [Technology Roadmap Planner](technology-roadmap-planner.md) | Builds and maintains technology roadmaps for R&D engineers from market data to execution plans. |
 | [To Issues](to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
 | [Track Management](../../it-and-development/productivity/track-management.md) | Manage Conductor tracks from spec to completion. |

@@ -1,12 +1,14 @@
 # Writing & Content templates for Management
 
-Plan, write and edit articles, copy and documentation. 21 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 23 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Brand Storytelling Content Assistant](../../marketing/writing-and-content/brand-storytelling-content-assistant.md) | Turns your brand's story into a full content engine, from ideas to performance tracking. |
+| [Call Center Training Material Creator](../../customer-support/writing-and-content/call-center-training-material-creator.md) | Builds complete call center training materials from research to final review. One-stop content creation for supervisors. |
+| [Call Script Optimization Assistant](../../customer-support/writing-and-content/call-script-optimization-assistant.md) | Optimizes call center scripts for clarity, empathy, compliance, and sales effectiveness. |
 | [Claims Dispute Evidence Kit](claims-dispute-evidence-kit.md) | Prepares evidence, drafts correspondence, and guides dispute resolution for insurance claims managers. |
 | [Communication Excellence Coach](../../marketing/writing-and-content/communication-excellence-coach.md) | Review drafts, calibrate tone, roleplay conversations, and improve presentations using proven frameworks. |
 | [Cv Generator](../../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |

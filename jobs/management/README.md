@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **710 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **738 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,22 +11,22 @@ Team leads and project managers. **710 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 196 |
-| [Productivity](productivity/README.md) | 182 |
-| [Research](research/README.md) | 64 |
+| [Data Analysis](data-analysis/README.md) | 207 |
+| [Productivity](productivity/README.md) | 188 |
+| [Research](research/README.md) | 65 |
 | [Coding](coding/README.md) | 44 |
-| [Security & Compliance](security-and-compliance/README.md) | 41 |
+| [Security & Compliance](security-and-compliance/README.md) | 44 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 39 |
 | [Knowledge Management](knowledge-management/README.md) | 23 |
-| [Writing & Content](writing-and-content/README.md) | 21 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 18 |
+| [Writing & Content](writing-and-content/README.md) | 23 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 19 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 14 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 13 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
+| [Support & Community](support-and-community/README.md) | 10 |
 | [Design](design/README.md) | 9 |
-| [Support & Community](support-and-community/README.md) | 8 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 5 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 6 |
 | [Generative Code](generative-code/README.md) | 5 |
 | [Prompt Engineering](prompt-engineering/README.md) | 5 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
@@ -44,7 +44,7 @@ Team leads and project managers. **710 ready-made Grok Bot templates** for this 
 | [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
-[All 196 Data Analysis templates →](data-analysis/README.md)
+[All 207 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **710 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 182 Productivity templates →](productivity/README.md)
+[All 188 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -74,7 +74,7 @@ Team leads and project managers. **710 ready-made Grok Bot templates** for this 
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [User Research Synthesis](../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
 
-[All 64 Research templates →](research/README.md)
+[All 65 Research templates →](research/README.md)
 
 ## Coding
 
@@ -104,7 +104,7 @@ Team leads and project managers. **710 ready-made Grok Bot templates** for this 
 | [Construction Quality Control Assistant](../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
 | [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
 
-[All 41 Security & Compliance templates →](security-and-compliance/README.md)
+[All 44 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Marketing & Growth
 
@@ -149,7 +149,7 @@ Team leads and project managers. **710 ready-made Grok Bot templates** for this 
 | [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [PM Stakeholder Comms Kit](../product-development/writing-and-content/pm-stakeholder-comms-kit.md) | Drafts, summarizes, and plans all stakeholder communications for product managers. |
 
-[All 21 Writing & Content templates →](writing-and-content/README.md)
+[All 23 Writing & Content templates →](writing-and-content/README.md)
 
 ## Cloud & DevOps
 
@@ -164,7 +164,7 @@ Team leads and project managers. **710 ready-made Grok Bot templates** for this 
 | [Cloud Migration Strategy Planner](../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
 | [Cloud Roadmap Navigator](../it-and-development/cloud-and-devops/cloud-roadmap-navigator.md) | Guides IT managers through cloud strategy from assessment to optimization, with approvals before any action. |
 
-[All 18 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 19 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Sales & Negotiation
 
@@ -181,6 +181,21 @@ Team leads and project managers. **710 ready-made Grok Bot templates** for this 
 
 [All 14 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Claims Training Developer](teaching-and-tutoring/claims-training-developer.md) | Builds and tracks staff training for insurance claims teams. |
+| [Training Program Designer](teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
+| [Ship Learn Next](../education/teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
+| [Pitch Rehearsal](../education/teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
+| [Crossframe Teach](../education/teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
+| [Conflict Resolution Guide](teaching-and-tutoring/conflict-resolution-guide.md) | Guides project managers through conflict resolution from analysis to lessons learned. |
+| [Agile Project Manager Advisor](teaching-and-tutoring/agile-project-manager-advisor.md) | Guides project managers through Agile practices, planning, tracking, and team collaboration. |
+| [Staff Training Planner](teaching-and-tutoring/staff-training-planner.md) | Plans and runs staff training for insurance agency managers, from needs assessment to effectiveness evaluation. |
+
+[All 13 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+
 ## Self-Improvement
 
 | Template | What it does |
@@ -195,21 +210,6 @@ Team leads and project managers. **710 ready-made Grok Bot templates** for this 
 | [Bill Gates](../executives-and-strategy/self-improvement/bill-gates.md) | Simulates Bill Gates for strategic tech, investment, and philanthropy advice. |
 
 [All 12 Self-Improvement templates →](self-improvement/README.md)
-
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Claims Training Developer](teaching-and-tutoring/claims-training-developer.md) | Builds and tracks staff training for insurance claims teams. |
-| [Training Program Designer](teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
-| [Ship Learn Next](../education/teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
-| [Pitch Rehearsal](../education/teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
-| [Crossframe Teach](../education/teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
-| [Conflict Resolution Guide](teaching-and-tutoring/conflict-resolution-guide.md) | Guides project managers through conflict resolution from analysis to lessons learned. |
-| [Agile Project Manager Advisor](teaching-and-tutoring/agile-project-manager-advisor.md) | Guides project managers through Agile practices, planning, tracking, and team collaboration. |
-| [Staff Training Planner](teaching-and-tutoring/staff-training-planner.md) | Plans and runs staff training for insurance agency managers, from needs assessment to effectiveness evaluation. |
-
-[All 12 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Office Tools
 
@@ -226,6 +226,21 @@ Team leads and project managers. **710 ready-made Grok Bot templates** for this 
 
 [All 11 Office Tools templates →](office-tools/README.md)
 
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
+| [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
+| [Escalation Management Supervisor Assistant](../customer-support/support-and-community/escalation-management-supervisor-assistant.md) | Helps call center supervisors craft escalation guidelines, triage issues, and monitor performance. |
+| [Logistics Customer Service Improver](../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
+| [Logistics Customer Service Optimizer](../operations/support-and-community/logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
+| [Feedback Loop Manager](support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
+| [Transport Customer Service Enhancer](../government/support-and-community/transport-customer-service-enhancer.md) | Manages customer feedback, support, and service improvements for transportation managers. |
+| [Support Crisis Prep Kit](../customer-support/support-and-community/support-crisis-prep-kit.md) | Plans and prepares crisis management materials for user support teams. |
+
+[All 10 Support & Community templates →](support-and-community/README.md)
+
 ## Design
 
 | Template | What it does |
@@ -241,19 +256,6 @@ Team leads and project managers. **710 ready-made Grok Bot templates** for this 
 
 [All 9 Design templates →](design/README.md)
 
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
-| [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
-| [Logistics Customer Service Improver](../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
-| [Logistics Customer Service Optimizer](../operations/support-and-community/logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
-| [Feedback Loop Manager](support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
-| [Transport Customer Service Enhancer](../government/support-and-community/transport-customer-service-enhancer.md) | Manages customer feedback, support, and service improvements for transportation managers. |
-| [Support Crisis Prep Kit](../customer-support/support-and-community/support-crisis-prep-kit.md) | Plans and prepares crisis management materials for user support teams. |
-| [Insurance Customer Service Optimizer](../operations/support-and-community/insurance-customer-service-optimizer.md) | Analyzes feedback, trains support tools, and streamlines insurance customer service operations. |
-
 ## Generative AI and LLM
 
 | Template | What it does |
@@ -263,6 +265,7 @@ Team leads and project managers. **710 ready-made Grok Bot templates** for this 
 | [E-commerce Chatbot Developer](generative-ai-and-llm/e-commerce-chatbot-developer.md) | Builds, trains, tests, and maintains customer service chatbots for e-commerce stores. |
 | [Dispatch](../it-and-development/generative-ai-and-llm/dispatch.md) | Delegate tasks to Codex CLI and Antigravity CLI from Claude Code with topic-aware sessions. |
 | [Orchestrate](../it-and-development/generative-ai-and-llm/orchestrate.md) | Coordinate focused subagents on substantial work and integrate their verified results. |
+| [File Analysis Guide](../it-and-development/generative-ai-and-llm/file-analysis-guide.md) | Helps technology managers understand file uploads and analysis for AI-driven work.​ |
 
 ## Generative Code
 

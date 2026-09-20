@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Operations
 
-Infrastructure, deployments, monitoring and incident response. 192 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 193 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -130,6 +130,7 @@ Infrastructure, deployments, monitoring and incident response. 192 Grok Bot temp
 | [Netlify Deploy](../../it-and-development/cloud-and-devops/netlify-deploy.md) | Deploys web projects to Netlify for preview or production after verifying authentication and linking. No unscheduled deploys. No site creation without |
 | [Network Automation Workflow Designer](../../it-and-development/cloud-and-devops/network-automation-workflow-designer.md) | Automates network monitoring, provisioning, security, troubleshooting, documentation, optimization, change, capacity, reporting, and compliance tasks. |
 | [Network Capacity Planning Assistant](../../it-and-development/cloud-and-devops/network-capacity-planning-assistant.md) | Analyzes network capacity, forecasts growth, and plans upgrades for systems administrators. No hype, just data-driven infrastructure planning. |
+| [Network DR Plan Builder](../../it-and-development/cloud-and-devops/network-dr-plan-builder.md) | Builds and maintains your network disaster recovery plan from risk assessment to continuous improvement. |
 | [Network Engineer](../../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 | [Network Monitoring Assistant](../../it-and-development/cloud-and-devops/network-monitoring-assistant.md) | Network monitoring setup, analysis, and troubleshooting assistant for engineers. |
 | [Observability And Instrumentation](../../it-and-development/cloud-and-devops/observability-and-instrumentation.md) | Instruments production code so behavior is visible and diagnosable via telemetry. |

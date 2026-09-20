@@ -1,6 +1,6 @@
 # Writing & Content templates for Writers
 
-Plan, write and edit articles, copy and documentation. 109 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 110 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -46,6 +46,7 @@ Plan, write and edit articles, copy and documentation. 109 Grok Bot templates, 6
 | [Editorial Trend Analyst](../../pr-and-communications/writing-and-content/editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
 | [Email Newsletter Writing Assistant](email-newsletter-writing-assistant.md) | Drafts, personalizes, and optimizes email newsletters from topic to performance analysis. |
 | [Game Recap Generator](game-recap-generator.md) | Turn game stats and highlights into engaging recaps for any platform. |
+| [Game Story Development Assistant](../../it-and-development/writing-and-content/game-story-development-assistant.md) | Develops game stories, characters, and worlds with AI assistance. |
 | [Genre-Specific Scriptwriting Assistant](genre-specific-scriptwriting-assistant.md) | Helps scriptwriters craft genre-specific stories with character, plot, dialogue, and world-building guidance. |
 | [Headline Crafting Assistant](../../pr-and-communications/writing-and-content/headline-crafting-assistant.md) | Crafts and optimizes headlines for editors using research, testing, and performance data. |
 | [Humanizer](humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |

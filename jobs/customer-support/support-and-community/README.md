@@ -1,12 +1,13 @@
 # Support & Community templates for Customer Support
 
-Triage tickets, answer customers and moderate communities. 73 Grok Bot templates, 48 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 76 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [After-Sales Service Assistant](../../sales/support-and-community/after-sales-service-assistant.md) | Handles after-sales service tasks: follow-ups, troubleshooting, feedback, and more. |
+| [Call Center Crisis Supervisor](call-center-crisis-supervisor.md) | Helps call center supervisors manage crises from detection to post-crisis review. |
 | [Claims Processing Assistant](claims-processing-assistant.md) | Handles claim inquiries, document collection, status updates, and appeals for insurance customer service. |
 | [Client Communication Manager](../../legal/support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
 | [Community Mod](../../operations/support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
@@ -27,6 +28,7 @@ Triage tickets, answer customers and moderate communities. 73 Grok Bot templates
 | [Emergency Response Coordinator](emergency-response-coordinator.md) | Coordinates emergency response support for insurance policyholders from first contact to claim resolution. |
 | [Escalation Closure Copilot](escalation-closure-copilot.md) | Helps customer support reps handle escalations from identification to closure, with drafts, tracking, and insights. |
 | [Escalation Handling Assistant](escalation-handling-assistant.md) | Manages customer escalations from detection to resolution with structured procedures and insights. |
+| [Escalation Management Supervisor Assistant](escalation-management-supervisor-assistant.md) | Helps call center supervisors craft escalation guidelines, triage issues, and monitor performance. |
 | [Feedback Loop Manager](../../management/support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
 | [Freight Broker Customer Communication Assistant](../../sales/support-and-community/freight-broker-customer-communication-assistant.md) | Handles customer inquiries, quotes, updates, complaints, and education for freight brokerage clients. |
 | [Freshdesk Automation](freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
@@ -48,6 +50,7 @@ Triage tickets, answer customers and moderate communities. 73 Grok Bot templates
 | [Logistics Customer Service Improver](../../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
 | [Logistics Customer Service Optimizer](../../operations/support-and-community/logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
 | [Loyalty Program Support Assistant](loyalty-program-support-assistant.md) | Loyalty program support assistant for customer service reps handling member queries and engagement. |
+| [Multilingual Support Planner](multilingual-support-planner.md) | Builds and runs multilingual support systems for call center supervisors. |
 | [Network Troubleshooting Guide](../../it-and-development/support-and-community/network-troubleshooting-guide.md) | Network troubleshooting guide for help desk technicians, step by step. |
 | [Order Management Support Assistant](order-management-support-assistant.md) | Handles customer order inquiries from status checks to refunds, with approval before any action. |
 | [Personalized Customer Support Assistant](personalized-customer-support-assistant.md) | Personalized customer support assistant that handles inquiries, troubleshooting, and follow-ups end-to-end.​ |

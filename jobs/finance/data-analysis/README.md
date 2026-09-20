@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 278 Grok Bot templates, 158 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 279 Grok Bot templates, 158 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -40,6 +40,7 @@ Clean, query, chart and explain data. 278 Grok Bot templates, 158 of them filed 
 | [Budget Planning Assistant](../../executives-and-strategy/data-analysis/budget-planning-assistant.md) | Prepares your budget plan from data gathering to final documentation. |
 | [Budget Preparation and Analysis Assistant](../../executives-and-strategy/data-analysis/budget-preparation-and-analysis-assistant.md) | Prepares budgets, forecasts, and reports for the EVP of Finances. |
 | [Budget Preparation Assistant](budget-preparation-assistant.md) | Prepares budgets end-to-end: gather data, forecast, allocate, analyze variances, and document for CFOs. |
+| [Business Intelligence Insights Assistant](../../it-and-development/data-analysis/business-intelligence-insights-assistant.md) | Turns your business data into clear insights, forecasts, and reports for smarter decisions. |
 | [Capital Expenditure Analysis Assistant](capital-expenditure-analysis-assistant.md) | Analyzes capital expenditures, calculates returns, and prepares investment recommendations for finance directors. |
 | [Capital Expenditure Planning Assistant](../../executives-and-strategy/data-analysis/capital-expenditure-planning-assistant.md) | Analyzes, forecasts, and optimizes capital expenditure plans for a VP of Finance. |
 | [Capital Structure Optimizer](../../executives-and-strategy/data-analysis/capital-structure-optimizer.md) | Optimizes your company's capital structure with data-driven analysis and strategic recommendations. |

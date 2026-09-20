@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 172 Grok Bot templates, 132 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 176 Grok Bot templates, 132 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -71,6 +71,7 @@ Interfaces, brands, layouts and visual systems. 172 Grok Bot templates, 132 of t
 | [Editorial Web Prototyper](editorial-web-prototyper.md) | Creates editorial-minimalist web prototypes with warm monochrome canvas and serif typography. |
 | [Email Template Design Assistant](../../sales/design/email-template-design-assistant.md) | Designs, refines, and optimizes email templates that engage your audience and drive results. |
 | [Emil Design Eng](emil-design-eng.md) | UI polish, animation direction, and high-craft component decisions for product interfaces. |
+| [Environmental Art Concept Generator](../../it-and-development/design/environmental-art-concept-generator.md) | Helps game developers generate and refine environmental art concepts and nature-themed game ideas. |
 | [Ethical Design Accessibility Assistant](ethical-design-accessibility-assistant.md) | Guides ethical, accessible design and audits for graphic designers. |
 | [Ethical UX Design Advisor](../../product-development/design/ethical-ux-design-advisor.md) | Guides ethical UX design decisions, from privacy to inclusivity, for responsible products. |
 | [Feedback Interpretation Assistant](feedback-interpretation-assistant.md) | Interprets client feedback, refines designs, and builds feedback tools for graphic designers. |
@@ -82,6 +83,7 @@ Interfaces, brands, layouts and visual systems. 172 Grok Bot templates, 132 of t
 | [Frontend Design](frontend-design.md) | Distinctive frontend design that avoids AI defaults and follows the brief. |
 | [Game Art](game-art.md) | Guide game art style, asset pipeline, and animation workflow decisions. |
 | [Game Designer](game-designer.md) | Designs game mechanics, balancing, and player progression systems. |
+| [Game UI Design Assistant](../../it-and-development/design/game-ui-design-assistant.md) | Game UI design partner: research, wireframe, prototype, test, and refine interfaces from concept to implementation. |
 | [Gamified Learning Designer](../../education/design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
 | [Glassmorphism](../../it-and-development/design/glassmorphism.md) | Generate frosted glass UI with backdrop blur, transparency, and light borders. |
 | [Gradient Design](gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
@@ -111,6 +113,7 @@ Interfaces, brands, layouts and visual systems. 172 Grok Bot templates, 132 of t
 | [Isometric Design](isometric-design.md) | Guides implementing isometric 3D views without vanishing points for web and apps. |
 | [Landing Page Designer](landing-page-designer.md) | Turns brand answers into a deployable landing page, refined in chat. |
 | [Layout Composition Coach](layout-composition-coach.md) | Guides you through layout and composition techniques for stronger graphic design work. |
+| [Level Design Guidance Assistant](../../it-and-development/design/level-design-guidance-assistant.md) | Guides game level design from concept to polish, covering storytelling, pacing, puzzles, and player feedback. |
 | [Lookdev](lookdev.md) | Build interactive studios for tuning, editing, and annotating creative work by eye. |
 | [Magazine Poster Designer](magazine-poster-designer.md) | Turns your content into a Sunday-paper style magazine poster. |
 | [Material Design](../../it-and-development/design/material-design.md) | Implement Google's Material Design aesthetic for web and app interfaces. |
@@ -174,6 +177,7 @@ Interfaces, brands, layouts and visual systems. 172 Grok Bot templates, 132 of t
 | [Visual Brand Identity Designer](../../pr-and-communications/design/visual-brand-identity-designer.md) | Visual brand identity assistant for logos, palettes, typography, and all design collateral. |
 | [Visual Content Ideation Assistant](../../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
 | [Visual Emotion Engineer](visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
+| [VR Experience Designer](../../it-and-development/design/vr-experience-designer.md) | Designs, builds, and refines VR experiences from concept to polish. |
 | [VR Learning Content Designer](../../education/design/vr-learning-content-designer.md) | Designs and develops VR learning content from storyboard to QA. |
 | [Web Design Guidelines](../../it-and-development/design/web-design-guidelines.md) | Audits UI code against the latest Web Interface Guidelines. |
 | [Widget Based Design](widget-based-design.md) | Build modular, glanceable widget UI blocks for web and mobile apps. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **154 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **172 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,17 @@ Answering, routing and resolving customer requests. **154 ready-made Grok Bot te
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 73 |
-| [Data Analysis](data-analysis/README.md) | 26 |
-| [Productivity](productivity/README.md) | 15 |
-| [Writing & Content](writing-and-content/README.md) | 7 |
+| [Support & Community](support-and-community/README.md) | 76 |
+| [Data Analysis](data-analysis/README.md) | 35 |
+| [Productivity](productivity/README.md) | 17 |
+| [Writing & Content](writing-and-content/README.md) | 9 |
 | [Knowledge Management](knowledge-management/README.md) | 6 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 5 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 4 |
+| [Security & Compliance](security-and-compliance/README.md) | 4 |
 | [Translation](translation/README.md) | 4 |
 | [Coding](coding/README.md) | 3 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
 | [Research](research/README.md) | 3 |
-| [Security & Compliance](security-and-compliance/README.md) | 3 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Social Media](social-media/README.md) | 1 |
@@ -33,6 +33,7 @@ Answering, routing and resolving customer requests. **154 ready-made Grok Bot te
 | Template | What it does |
 |---|---|
 | [After-Sales Service Assistant](../sales/support-and-community/after-sales-service-assistant.md) | Handles after-sales service tasks: follow-ups, troubleshooting, feedback, and more. |
+| [Call Center Crisis Supervisor](support-and-community/call-center-crisis-supervisor.md) | Helps call center supervisors manage crises from detection to post-crisis review. |
 | [Claims Processing Assistant](support-and-community/claims-processing-assistant.md) | Handles claim inquiries, document collection, status updates, and appeals for insurance customer service. |
 | [Client Communication Manager](../legal/support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
 | [Community Mod](../operations/support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
@@ -53,6 +54,7 @@ Answering, routing and resolving customer requests. **154 ready-made Grok Bot te
 | [Emergency Response Coordinator](support-and-community/emergency-response-coordinator.md) | Coordinates emergency response support for insurance policyholders from first contact to claim resolution. |
 | [Escalation Closure Copilot](support-and-community/escalation-closure-copilot.md) | Helps customer support reps handle escalations from identification to closure, with drafts, tracking, and insights. |
 | [Escalation Handling Assistant](support-and-community/escalation-handling-assistant.md) | Manages customer escalations from detection to resolution with structured procedures and insights. |
+| [Escalation Management Supervisor Assistant](support-and-community/escalation-management-supervisor-assistant.md) | Helps call center supervisors craft escalation guidelines, triage issues, and monitor performance. |
 | [Feedback Loop Manager](../management/support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
 | [Freight Broker Customer Communication Assistant](../sales/support-and-community/freight-broker-customer-communication-assistant.md) | Handles customer inquiries, quotes, updates, complaints, and education for freight brokerage clients. |
 | [Freshdesk Automation](support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
@@ -74,6 +76,7 @@ Answering, routing and resolving customer requests. **154 ready-made Grok Bot te
 | [Logistics Customer Service Improver](../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
 | [Logistics Customer Service Optimizer](../operations/support-and-community/logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
 | [Loyalty Program Support Assistant](support-and-community/loyalty-program-support-assistant.md) | Loyalty program support assistant for customer service reps handling member queries and engagement. |
+| [Multilingual Support Planner](support-and-community/multilingual-support-planner.md) | Builds and runs multilingual support systems for call center supervisors. |
 | [Network Troubleshooting Guide](../it-and-development/support-and-community/network-troubleshooting-guide.md) | Network troubleshooting guide for help desk technicians, step by step. |
 | [Order Management Support Assistant](support-and-community/order-management-support-assistant.md) | Handles customer order inquiries from status checks to refunds, with approval before any action. |
 | [Personalized Customer Support Assistant](support-and-community/personalized-customer-support-assistant.md) | Personalized customer support assistant that handles inquiries, troubleshooting, and follow-ups end-to-end.​ |
@@ -110,6 +113,14 @@ Answering, routing and resolving customer requests. **154 ready-made Grok Bot te
 
 | Template | What it does |
 |---|---|
+| [Agent Performance Analysis Assistant](data-analysis/agent-performance-analysis-assistant.md) | Analyzes call center agent performance and turns it into coaching, reports, and training plans. |
+| [Call Center Feedback Analyzer](data-analysis/call-center-feedback-analyzer.md) | Turns customer feedback into actionable insights for call center supervisors. |
+| [Call Center Journey Mapper](data-analysis/call-center-journey-mapper.md) | Maps customer journeys from call center data to improve experience. |
+| [Call Center Performance Monitor](data-analysis/call-center-performance-monitor.md) | Monitors call center metrics in real time, alerts on issues, and coaches agents. |
+| [Call Center Report Generator](data-analysis/call-center-report-generator.md) | Builds, schedules, and analyzes call center reports from templates to compliance. |
+| [Call Quality Monitoring Assistant](data-analysis/call-quality-monitoring-assistant.md) | Analyzes call transcripts and quality data to evaluate agents and drive improvements for call center supervisors. |
+| [Call Sentiment Analyst](data-analysis/call-sentiment-analyst.md) | Analyzes call sentiment to improve customer experience and agent performance. |
+| [Call Volume Forecaster](data-analysis/call-volume-forecaster.md) | Analyzes call volume data to forecast demand, optimize staffing, and improve service levels. |
 | [Churn Autopsy Analyst](data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
 | [Churn Prediction and Retention Assistant](data-analysis/churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
 | [Client Health Dashboard](data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
@@ -118,6 +129,7 @@ Answering, routing and resolving customer requests. **154 ready-made Grok Bot te
 | [Customer Feedback Insight Assistant](data-analysis/customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |
 | [Customer Journey Mapping Assistant](data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
 | [Customer Report Generator](data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
+| [Customer Satisfaction Survey Manager](data-analysis/customer-satisfaction-survey-manager.md) | Designs, distributes, analyzes, and acts on customer satisfaction surveys for call center supervisors. |
 | [Customer Segmentation Insights Assistant](data-analysis/customer-segmentation-insights-assistant.md) | Turns customer data into segments, insights, and actions for Customer Success Managers. |
 | [Customer Success Manager](data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 | [Customer Success Trend Analyst](data-analysis/customer-success-trend-analyst.md) | Turns customer data into trend insights and proactive success actions. |
@@ -142,8 +154,10 @@ Answering, routing and resolving customer requests. **154 ready-made Grok Bot te
 | Template | What it does |
 |---|---|
 | [ADHD Response Formatter](productivity/adhd-response-formatter.md) | Shapes every reply so an ADHD reader can act on it immediately. |
+| [Agent Retention Strategy Planner](productivity/agent-retention-strategy-planner.md) | Designs and implements retention strategies to keep call center agents engaged and loyal. |
 | [Cal Com Automation](../operations/productivity/cal-com-automation.md) | Automate Cal.com scheduling: bookings, availability, webhooks, and teams via Composio. |
 | [Calendly Automation](../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
+| [Call Center Scheduling Optimizer](productivity/call-center-scheduling-optimizer.md) | Optimizes call center shift planning, coverage, and compliance from staff data. |
 | [Call Handling Assistant](productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
 | [Emergency Preparedness Assistant](productivity/emergency-preparedness-assistant.md) | Prepares emergency plans, contacts, supplies, and drills for your workplace. |
 | [Event Coordination Assistant](productivity/event-coordination-assistant.md) | Plans and runs events from scheduling to post-event follow-up. |
@@ -161,6 +175,8 @@ Answering, routing and resolving customer requests. **154 ready-made Grok Bot te
 
 | Template | What it does |
 |---|---|
+| [Call Center Training Material Creator](writing-and-content/call-center-training-material-creator.md) | Builds complete call center training materials from research to final review. One-stop content creation for supervisors. |
+| [Call Script Optimization Assistant](writing-and-content/call-script-optimization-assistant.md) | Optimizes call center scripts for clarity, empathy, compliance, and sales effectiveness. |
 | [Crossframe Dialogue](../writers/writing-and-content/crossframe-dialogue.md) | Short, structured replies for reader questions, editorial responses, and consultation-style answers. |
 | [Documentation and Reporting Assistant](writing-and-content/documentation-and-reporting-assistant.md) | Turn your technical support knowledge into clear, accurate documentation and reports. |
 | [Patent Client Communication Assistant](../legal/writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
@@ -190,6 +206,24 @@ Answering, routing and resolving customer requests. **154 ready-made Grok Bot te
 | [System Upgrade Coordinator](cloud-and-devops/system-upgrade-coordinator.md) | Plans, executes, and supports system upgrades with minimal disruption. |
 | [WhatsApp Cloud API](../it-and-development/cloud-and-devops/whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |
 
+## Generative AI and LLM
+
+| Template | What it does |
+|---|---|
+| [Azure Ai Contentsafety Py](../it-and-development/generative-ai-and-llm/azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
+| [Call Center AI Integrator](generative-ai-and-llm/call-center-ai-integrator.md) | Integrates AI into call center systems, trains models, monitors performance, and automates workflows. |
+| [E-commerce Chatbot Developer](../management/generative-ai-and-llm/e-commerce-chatbot-developer.md) | Builds, trains, tests, and maintains customer service chatbots for e-commerce stores. |
+| [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Compliance Monitoring Supervisor](security-and-compliance/compliance-monitoring-supervisor.md) | Monitors calls, documents, and metrics to keep call center operations compliant. |
+| [Compliance Query Resolution Assistant](../legal/security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
+| [Reception Confidentiality Assistant](security-and-compliance/reception-confidentiality-assistant.md) | Helps receptionists protect confidential information across calls, visitors, documents, and emails. |
+| [Regulatory Compliance Assistant](security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
+
 ## Translation
 
 | Template | What it does |
@@ -207,14 +241,6 @@ Answering, routing and resolving customer requests. **154 ready-made Grok Bot te
 | [Sendblue Api](../it-and-development/coding/sendblue-api.md) | Send and receive iMessage, SMS, and RCS via the Sendblue HTTP API. |
 | [Twilio Communications](../it-and-development/coding/twilio-communications.md) | Send SMS, verify phone numbers, and build IVR systems using Twilio APIs with compliance and error handling. |
 
-## Generative AI and LLM
-
-| Template | What it does |
-|---|---|
-| [Azure Ai Contentsafety Py](../it-and-development/generative-ai-and-llm/azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
-| [E-commerce Chatbot Developer](../management/generative-ai-and-llm/e-commerce-chatbot-developer.md) | Builds, trains, tests, and maintains customer service chatbots for e-commerce stores. |
-| [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
-
 ## Research
 
 | Template | What it does |
@@ -222,14 +248,6 @@ Answering, routing and resolving customer requests. **154 ready-made Grok Bot te
 | [Client Interview Prep Assistant](../legal/research/client-interview-prep-assistant.md) | Prepares legal assistants for client interviews with questions, agendas, and follow-ups. |
 | [Logistics Exception Management](../operations/research/logistics-exception-management.md) | Resolve freight exceptions, delays, damages, and carrier disputes with structured workflows. |
 | [Online Dispute Resolution Assistant](../legal/research/online-dispute-resolution-assistant.md) | Assists lawyers with online dispute resolution tasks from case evaluation to settlement drafting. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Compliance Query Resolution Assistant](../legal/security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
-| [Reception Confidentiality Assistant](security-and-compliance/reception-confidentiality-assistant.md) | Helps receptionists protect confidential information across calls, visitors, documents, and emails. |
-| [Regulatory Compliance Assistant](security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
 
 ## Sales & Negotiation
 

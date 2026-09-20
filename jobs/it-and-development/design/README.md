@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 94 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 104 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -48,11 +48,16 @@ Interfaces, brands, layouts and visual systems. 94 Grok Bot templates, 34 of the
 | [Draw Io](draw-io.md) | Creates, edits, and reviews draw.io diagrams from .drawio XML files. |
 | [Duotone Design](../../creatives/design/duotone-design.md) | Two-color web and app designs with duotone image effects across CSS, SwiftUI, Flutter, React Native, and Compose. |
 | [Emil Design Eng](../../creatives/design/emil-design-eng.md) | UI polish, animation direction, and high-craft component decisions for product interfaces. |
+| [Environmental Art Concept Generator](environmental-art-concept-generator.md) | Helps game developers generate and refine environmental art concepts and nature-themed game ideas. |
+| [Esports Feature Planning Assistant](esports-feature-planning-assistant.md) | Plans esports features for game developers from stats tracking to event integration. |
 | [Figma Automation](../../creatives/design/figma-automation.md) | Automate Figma file inspection, component extraction, token export, and image rendering via Rube MCP. |
 | [Flat Design](flat-design.md) | Generate UI code with zero shadows, sharp edges, and bold solid colors. |
 | [Flat Design 2](flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
 | [Floating Ui](floating-ui.md) | Implement floating, detached UI elements with soft shadows and pill shapes. |
 | [Frontend Design](../../creatives/design/frontend-design.md) | Distinctive frontend design that avoids AI defaults and follows the brief. |
+| [Game AI Behavior Designer](game-ai-behavior-designer.md) | Designs and refines game AI behaviors, from NPC dialogue to adaptive enemy tactics, for game developers. |
+| [Game Designer](../../creatives/design/game-designer.md) | Designs game mechanics, balancing, and player progression systems. |
+| [Game UI Design Assistant](game-ui-design-assistant.md) | Game UI design partner: research, wireframe, prototype, test, and refine interfaces from concept to implementation. |
 | [Glassmorphism](glassmorphism.md) | Generate frosted glass UI with backdrop blur, transparency, and light borders. |
 | [Gradient Design](../../creatives/design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 | [Hig Components Content](../../creatives/design/hig-components-content.md) | Recommend Apple HIG content components with configuration and accessibility guidance. |
@@ -63,13 +68,16 @@ Interfaces, brands, layouts and visual systems. 94 Grok Bot templates, 34 of the
 | [High Contrast](high-contrast.md) | Generate high-contrast UI code for maximum legibility and accessibility. |
 | [Holographic Ui](holographic-ui.md) | Generate CSS, SwiftUI, or Flutter code for translucent, light-based holographic interfaces. |
 | [Iconsax Library](../../creatives/design/iconsax-library.md) | Iconsax provides premium icons and AI generation for cohesive, modern UI/UX design. |
+| [In-Game Economy Designer](in-game-economy-designer.md) | Designs and balances in-game economies for game developers. |
 | [Isometric Design](../../creatives/design/isometric-design.md) | Guides implementing isometric 3D views without vanishing points for web and apps. |
+| [Level Design Guidance Assistant](level-design-guidance-assistant.md) | Guides game level design from concept to polish, covering storytelling, pacing, puzzles, and player feedback. |
 | [Material Design](material-design.md) | Implement Google's Material Design aesthetic for web and app interfaces. |
 | [Maximalism](maximalism.md) | Implement dense, ornate, grid-based maximalist UI for web and mobile. |
 | [Minimalism](../../creatives/design/minimalism.md) | Generate minimal layouts with extreme whitespace, strict typography, and no decoration. |
 | [Minimalist Ui](../../creatives/design/minimalist-ui.md) | Build warm monochrome editorial UIs with crisp borders and restrained motion. |
 | [Mobile Design](../../product-development/design/mobile-design.md) | Guide mobile-first design decisions for iOS and Android with platform conventions and touch psychology. |
 | [Monochromatic Ui](../../creatives/design/monochromatic-ui.md) | Generate a single-hue UI palette with tints, shades, and implementation code for web, SwiftUI, or Flutter. |
+| [Multiplayer Systems Architect](multiplayer-systems-architect.md) | Designs and optimizes multiplayer systems from matchmaking to dynamic events. |
 | [Neo Brutalism](../../creatives/design/neo-brutalism.md) | Implement neo-brutalist UI with thick borders, hard shadows, and bright colors. |
 | [Premium Web Design](../../creatives/design/premium-web-design.md) | Generates award-quality React website components with unique, intentional design. |
 | [Radix Ui Design System](../../creatives/design/radix-ui-design-system.md) | Build accessible, unstyled React component libraries with Radix UI primitives. |
@@ -84,6 +92,7 @@ Interfaces, brands, layouts and visual systems. 94 Grok Bot templates, 34 of the
 | [Stitch Design Taste](../../creatives/design/stitch-design-taste.md) | Generate Google Stitch DESIGN.md files for premium, anti-generic UI systems. |
 | [Synthwave](../../creatives/design/synthwave.md) | Build 80s neon web and app interfaces with dark backgrounds, glowing grids, and synthwave aesthetics. |
 | [Tile Design](tile-design.md) | Build sharp-cornered Metro UI tiles with horizontal scrolling and live data for web and mobile. |
+| [UI Design Principles Assistant](ui-design-principles-assistant.md) | Turns UI design principles into actionable, user-centered interface guidance for software engineers. |
 | [Ui Pattern](../../creatives/design/ui-pattern.md) | Generate a composed UI pattern from design system primitives. |
 | [Ui Setup](../../creatives/design/ui-setup.md) | Interactive wizard to configure the StyleSeed design system step by step. |
 | [Ui Templates](../../creatives/design/ui-skills.md) | Opinionated constraints for building interfaces. |
@@ -98,6 +107,7 @@ Interfaces, brands, layouts and visual systems. 94 Grok Bot templates, 34 of the
 | [UX Prototyping Assistant](../../creatives/design/ux-prototyping-assistant.md) | Turns wireframes and prototypes into tested, documented designs ready for handoff. |
 | [Vercel Web Design Guidelines](../../creatives/design/vercel-web-design-guidelines.md) | Audits web UIs against 100+ heuristics for UX, layout, and accessibility, returning prioritized fixes. |
 | [Vibrant Maximalism](../../creatives/design/vibrant-maximalism.md) | Generate loud, clashing, dense web/app designs where every pixel carries pattern, color, and type. |
+| [VR Experience Designer](vr-experience-designer.md) | Designs, builds, and refines VR experiences from concept to polish. |
 | [Web Design Guidelines](web-design-guidelines.md) | Audits UI code against the latest Web Interface Guidelines. |
 | [Y2k Design](../../creatives/design/y2k-design.md) | Generate Y2K aesthetic UI with chrome, blobs, and neon glow. |
 

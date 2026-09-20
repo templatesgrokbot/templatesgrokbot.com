@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 290 Grok Bot templates, 277 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 308 Grok Bot templates, 295 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -73,9 +73,11 @@ Authorised security testing, audits and regulatory work. 290 Grok Bot templates,
 | [Cybersecurity Assessment Guide](../../executives-and-strategy/security-and-compliance/cybersecurity-assessment-guide.md) | Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response. |
 | [Cybersecurity Guidance for IT Specialists](cybersecurity-guidance-for-it-specialists.md) | Cybersecurity guidance for IT specialists: threat prevention, incident response, and policy development. |
 | [Cybersecurity Management Assistant](cybersecurity-management-assistant.md) | Cybersecurity management assistant for global heads of IT, turning data into defense actions. |
+| [Cybersecurity Policy and Risk Assistant](cybersecurity-policy-and-risk-assistant.md) | Cybersecurity policy, risk, and incident management support for technology managers. |
 | [Cybersecurity Risk Assessment Assistant](cybersecurity-risk-assessment-assistant.md) | Guides IT VPs through cybersecurity risk assessments, from scans to reports. |
 | [Cybersecurity Strategy Developer](../../executives-and-strategy/security-and-compliance/cybersecurity-strategy-developer.md) | Develops and manages your organization's cybersecurity strategy from risk assessment to incident response. |
 | [Cybersecurity Strategy Planner](../../executives-and-strategy/security-and-compliance/cybersecurity-strategy-planner.md) | Plans and runs your cybersecurity strategy from risk to response. |
+| [Cybersecurity Trend Analyst](cybersecurity-trend-analyst.md) | Tracks cybersecurity trends and turns them into threat, risk, and policy guidance for your organization. |
 | [Data Ethics and Privacy Assistant](data-ethics-and-privacy-assistant.md) | Guides data analysts in applying data ethics and privacy practices across their workflows. |
 | [Data Governance Assistant](data-governance-assistant.md) | Data governance assistant that classifies, monitors, and audits data assets for compliance and quality. |
 | [Data Management Governance Assistant](data-management-governance-assistant.md) | Aides VPs of IT in data management tasks from classification to compliance. |
@@ -93,6 +95,7 @@ Authorised security testing, audits and regulatory work. 290 Grok Bot templates,
 | [Edr Bypass Re](edr-bypass-re.md) | Reverse-engineer EDR internals and study bypass techniques in authorized labs only. |
 | [Email Security](email-security.md) | Authorized email security review: phishing, SPF/DKIM/DMARC, BEC, and token abuse. |
 | [Encryption and Data Protection Advisor](encryption-and-data-protection-advisor.md) | Guides cybersecurity analysts through encryption and data protection decisions and implementations. |
+| [Encryption Strategy Developer](encryption-strategy-developer.md) | Develops encryption strategies from standards research to training programs. |
 | [Ethical Hacking Methodology](ethical-hacking-methodology.md) | Guide users through the five-stage ethical hacking lifecycle from recon to reporting for authorized testing. |
 | [EVP Cyber Risk Briefing](../../executives-and-strategy/security-and-compliance/evp-cyber-risk-briefing.md) | Cybersecurity risk assessment assistant for an EVP of IT, covering scanning, policy, compliance, and reporting. |
 | [Exception Leak Hunter](exception-leak-hunter.md) | Hunt verbose error leaks and fail-open behavior in input-accepting endpoints. |
@@ -125,9 +128,12 @@ Authorised security testing, audits and regulatory work. 290 Grok Bot templates,
 | [Incident Reporting Navigator](incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
 | [Incident Response Analyst Playbook](incident-response-analyst-playbook.md) | Guides cybersecurity analysts through every step of incident response, from classification to post-mortem. |
 | [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [InfoSec Compliance Sentinel](infosec-compliance-sentinel.md) | Monitors regulatory changes, audits compliance, and reports status for information security analysts. |
+| [InfoSec Risk Register Bot](infosec-risk-register-bot.md) | Automates risk assessment workflows for information security analysts. |
 | [Infrastructure Audit Planner](infrastructure-audit-planner.md) | Conducts comprehensive IT infrastructure audits and delivers actionable reports. |
 | [iOS Red Team Pipeline](ios-red-team-pipeline.md) | End-to-end iOS red-team pipeline: acquire, analyze, and exploit iOS apps. |
 | [IoT Security Analyst Assistant](iot-security-analyst-assistant.md) | IoT security analysis, policy, training, and incident response support for cybersecurity analysts. |
+| [IR Plan Builder for Security Teams](ir-plan-builder-for-security-teams.md) | Builds and maintains your incident response plan with threat analysis, training, and testing support. |
 | [IT Compliance and Governance Assistant](it-compliance-and-governance-assistant.md) | Tracks regulatory compliance across IT, drafts policies, and prepares audits for global IT leadership. |
 | [IT Compliance Assistant](it-compliance-assistant.md) | Guides IT compliance assessments, policies, monitoring, audits, and regulatory updates. |
 | [IT Governance Toolkit Builder](it-governance-toolkit-builder.md) | Builds and maintains the compliance and governance toolkit for your IT organization. |
@@ -156,6 +162,7 @@ Authorised security testing, audits and regulatory work. 290 Grok Bot templates,
 | [Mtls Configuration](mtls-configuration.md) | Configure mutual TLS for zero-trust service-to-service communication. |
 | [Network 101](network-101.md) | Configure HTTP, HTTPS, SNMP, and SMB services in isolated lab environments for penetration testing practice. |
 | [Network Compliance Planner](network-compliance-planner.md) | Guides network engineers through compliance tasks with step-by-step plans and checks. |
+| [Network Security Advisor](network-security-advisor.md) | Security protocol recommendations and audits for network administrators. |
 | [Network Security Assistant](network-security-assistant.md) | Guides IT specialists through network security tasks from audits to incident response. |
 | [Network Security Monitoring Assistant](network-security-monitoring-assistant.md) | Monitors network security by analyzing logs, detecting threats, and guiding incident response. |
 | [Network Security Protocol Advisor](network-security-protocol-advisor.md) | Explains, configures, and troubleshoots network security protocols for engineers. |
@@ -175,6 +182,7 @@ Authorised security testing, audits and regulatory work. 290 Grok Bot templates,
 | [Pentest Commands](pentest-commands.md) | Provides exact command syntax for nmap, Metasploit, Hydra, John, Nikto, SQLMap, and aircrack-ng. |
 | [Pentest Tools](pentest-tools.md) | Orchestrate 20+ penetration-testing tools through structured, authorized workflows. |
 | [Permission Manager](permission-manager.md) | Audit and configure opencode command and capability permissions safely. |
+| [Policy Compliance Drafting](policy-compliance-drafting.md) | Develops and maintains your organization's security policies, from risk assessment to incident response. |
 | [Powershell Security Hardening](powershell-security-hardening.md) | Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie |
 | [Privacy By Design](privacy-by-design.md) | Build apps with built-in privacy protections from the start. |
 | [Privacy Mask](privacy-mask.md) | Mask PII in screenshots and images locally before they leave your machine. |
@@ -204,6 +212,7 @@ Authorised security testing, audits and regulatory work. 290 Grok Bot templates,
 | [Review Action Gate](review-action-gate.md) | Gates AI agent review actions behind human approval with signed receipts. |
 | [Risk and Compliance Assistant](../../executives-and-strategy/security-and-compliance/risk-and-compliance-assistant.md) | Assesses risks, monitors compliance, and guides incident response for your organization. |
 | [Risk Assessment and Analysis Assistant](../../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
+| [Risk Radar for Tech Managers](risk-radar-for-tech-managers.md) | Technology risk assessment assistant for technology managers, covering scanning, compliance, planning, and reporting. |
 | [Safety Alignment Nemo Guardrails](safety-alignment-nemo-guardrails.md) | Adds programmable safety rails to LLM applications at runtime. |
 | [Sast Configuration](sast-configuration.md) | Configure SAST tools, custom rules, and CI/CD integration for security scanning. |
 | [Scanning Tools](scanning-tools.md) | Guide users through security scanning with Nmap, Nessus, Burp Suite, Aircrack-ng, and Prowler. |
@@ -212,12 +221,15 @@ Authorised security testing, audits and regulatory work. 290 Grok Bot templates,
 | [Se Security Reviewer](se-security-reviewer.md) | Reviews code for security vulnerabilities using OWASP and Zero Trust standards. |
 | [Secure Development Advisor](secure-development-advisor.md) | Guides secure software development from threat modeling to deployment. |
 | [Security And Hardening](security-and-hardening.md) | Hardens code against vulnerabilities by threat modeling and applying OWASP prevention patterns. |
+| [Security Architecture Consulting Assistant](security-architecture-consulting-assistant.md) | Guides security architecture consulting: risk, policy, compliance, design, and incident response. |
 | [Security Assessment Planner](security-assessment-planner.md) | Security assessment assistant for IT directors: scans, tests, reviews, and plans responses. |
 | [Security Audit](security-audit.md) | Guides structured security audits for web apps, APIs, and infrastructure with checklists and reporting. |
 | [Security Audit and Review Assistant](security-audit-and-review-assistant.md) | Guides security audits and reviews from scoping to reporting. |
 | [Security Auditor](security-auditor.md) | Conducts systematic security audits, compliance assessments, and risk evaluations across systems and processes. |
+| [Security Awareness Training Planner](security-awareness-training-planner.md) | Builds and runs security awareness training, phishing simulations, and compliance education for employees. |
 | [Security Best Practices](security-best-practices.md) | Reviews code for language and framework specific security vulnerabilities and suggests fixes. |
 | [Security Best Practices Advisor](security-best-practices-advisor.md) | Guides systems administrators through security best practices, from policy to incident response. |
+| [Security Best Practices Assistant](security-best-practices-assistant.md) | Guides software engineers through security practices, from code review to incident response. |
 | [Security Bluebook Builder](security-bluebook-builder.md) | Build a concise, enforceable security policy Blue Book with MUST/SHOULD/CAN language. |
 | [Security Checklist](security-checklist.md) | Reference document for Monopoly security hardening checklist. |
 | [Security Compliance](security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
@@ -237,6 +249,7 @@ Authorised security testing, audits and regulatory work. 290 Grok Bot templates,
 | [Security Testing Strategist](security-testing-strategist.md) | Plans and reviews security testing for QA managers, from vulnerability scans to incident drills. |
 | [Security Threat Identifier](security-threat-identifier.md) | Proactive threat detection and security operations support for cybersecurity analysts. |
 | [Security Threat Model](security-threat-model.md) | Threat model a codebase from its source, producing a grounded Markdown report. |
+| [Security Tool Customization Assistant](security-tool-customization-assistant.md) | Customizes security tools to fit your organization's needs and documents the work. |
 | [Security Training Program Builder](security-training-program-builder.md) | Builds and runs cybersecurity training and awareness programs for your organization. |
 | [Senior Secops](senior-secops.md) | Scans code, assesses vulnerabilities, and checks compliance for your projects. |
 | [Senior Security](senior-security.md) | Runs threat modeling, security audits, and penetration tests on your projects. |
@@ -246,6 +259,7 @@ Authorised security testing, audits and regulatory work. 290 Grok Bot templates,
 | [Smart Contract Auditor](smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
 | [Smtp Penetration Testing](smtp-penetration-testing.md) | Assess SMTP server security with banner grabbing, user enumeration, open relay testing, brute force, and command injection. |
 | [Social Engineering Defense Planner](social-engineering-defense-planner.md) | Builds and runs social engineering defenses for cybersecurity analysts. |
+| [Software License Compliance Assistant](software-license-compliance-assistant.md) | Tracks, audits, and optimizes software licenses for compliance and cost savings. |
 | [Software License Manager](software-license-manager.md) | Manages software licenses end-to-end: inventory, compliance, renewals, costs, and audits. |
 | [Source Leak Hunter](source-leak-hunter.md) | Hunt exposed source code and build artifacts on a target web app. |
 | [SPA API Mapper](spa-api-mapper.md) | Map a SPA's backend API from its JS bundle and test for missing auth. |
@@ -265,11 +279,13 @@ Authorised security testing, audits and regulatory work. 290 Grok Bot templates,
 | [Supply Chain Risk Auditor](supply-chain-risk-auditor.md) | Audits project dependencies for supply chain risk factors. |
 | [Supply Chain Security](supply-chain-security.md) | Audits dependencies for vulnerabilities, malicious packages, and license risks, then generates SBOMs and hardening steps. |
 | [SysAdmin Compliance Documentation](sysadmin-compliance-documentation.md) | Compliance guidance and documentation support for systems administrators. |
+| [Technology Compliance Manager](technology-compliance-manager.md) | Tracks regulations, drafts policies, and prepares audits for technology compliance managers. |
 | [Template Audit](skill-audit.md) | Pre-install security scanner that audits third-party AI capabilities for malicious code. |
 | [Template Scanner](skill-scanner.md) | Scan agent capabilities for prompt injection, malicious code, and permission risks before adoption. |
 | [Terraform Iac Reviewer](terraform-iac-reviewer.md) | Reviews and creates safer Terraform IaC changes with state safety and least privilege. |
 | [Thick Client](thick-client.md) | Authorized security testing of desktop thick clients: local storage, update channels, IPC, traffic interception, and client-side trust-boundary review |
 | [Threat Hunting](threat-hunting.md) | Proactive threat hunting and detection engineering with Sigma, YARA, and SIEM queries. |
+| [Threat Intelligence Analyst](threat-intelligence-analyst.md) | Gathers, analyzes, and prioritizes cyber threat intelligence for your organization's defense. |
 | [Threat Mitigation Mapping](threat-mitigation-mapping.md) | Map threats to security controls for prioritized remediation and coverage validation. |
 | [Threat Modeling Expert](threat-modeling-expert.md) | Analyze system architecture to identify threats and recommend mitigations. |
 | [TLS DNS Hunter](tls-dns-hunter.md) | Hunt and triage TLS/SSL and DNS misconfigurations for bug bounty reports. |
@@ -278,8 +294,10 @@ Authorised security testing, audits and regulatory work. 290 Grok Bot templates,
 | [User Access and Permissions Manager](user-access-and-permissions-manager.md) | Manages user access, permissions, and audits for systems administrators. |
 | [Varlock](varlock.md) | Secure environment variable management for Claude Code sessions |
 | [Varlock Claude](varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
+| [Vendor Security Assessment Assistant](vendor-security-assessment-assistant.md) | Assesses vendor security risks, compliance, and readiness for InfoSec analysts. |
 | [VMware External Attack Matrix](vmware-external-attack-matrix.md) | Probes internet-exposed VMware vCenter/Workspace ONE/Aria for known CVEs and misconfigurations. |
 | [VPN Vulnerability Assessor](vpn-vulnerability-assessor.md) | Fingerprint and test enterprise SSL VPN appliances for known CVEs during authorized engagements. Only for approved security testing. |
+| [Vulnerability Management Analyst](vulnerability-management-analyst.md) | Analyzes, prioritizes, and reports on vulnerabilities to strengthen your security posture. |
 | [Vulnerability Management Assistant](vulnerability-management-assistant.md) | Vulnerability management assistant for cybersecurity analysts covering scan to report. |
 | [Vulnerability Scanner](vulnerability-scanner.md) | Scans codebases for vulnerabilities using OWASP 2025 and supply chain risk analysis with prioritized fixes. |
 | [Web Security Testing](web-security-testing.md) | Guide structured OWASP Top 10 web application security assessments step by step. |

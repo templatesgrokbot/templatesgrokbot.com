@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 210 Grok Bot templates, 191 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 213 Grok Bot templates, 193 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -45,6 +45,7 @@ Work with language models, agents and their plumbing. 210 Grok Bot templates, 19
 | [Bdi Mental States](bdi-mental-states.md) | Model agent mental states as beliefs, desires, and intentions using BDI ontology patterns. |
 | [Bdistill Behavioral Xray](bdistill-behavioral-xray.md) | Probe your own behavioral patterns across 6 dimensions and generate a visual HTML report. |
 | [Blockrun](blockrun.md) | Routes requests to external AI models when you lack capabilities like image generation or real-time X data. |
+| [Call Center AI Integrator](../../customer-support/generative-ai-and-llm/call-center-ai-integrator.md) | Integrates AI into call center systems, trains models, monitors performance, and automates workflows. |
 | [Channel Greeter](channel-greeter.md) | Greets new channels and introduces your capabilities without overwhelming them. |
 | [Channel Wiring Manager](channel-wiring-manager.md) | Wires messaging channels to agent groups and manages their isolation levels. |
 | [Checkpoint Promotion Gate](checkpoint-promotion-gate.md) | Gate fine-tuned checkpoints with drift budgets, paired comparison, and forgetting checks before promotion. |
@@ -88,6 +89,7 @@ Work with language models, agents and their plumbing. 210 Grok Bot templates, 19
 | [Faf Go](faf-go.md) | Guided interview to fill every active slot in your .faf file for 100% AI-readiness. |
 | [Fal Platform](fal-platform.md) | Manage Fal platform models, pricing, and usage via API. |
 | [Fal Workflow](fal-workflow.md) | Generate workflow JSON files for chaining AI models. |
+| [File Analysis Guide](file-analysis-guide.md) | Helps technology managers understand file uploads and analysis for AI-driven work.​ |
 | [Fine Tuning Axolotl](../../science-and-research/generative-ai-and-llm/fine-tuning-axolotl.md) | Guides fine-tuning LLMs with Axolotl: configs, training methods, and debugging. |
 | [Fine Tuning Llama Factory](../../science-and-research/generative-ai-and-llm/fine-tuning-llama-factory.md) | Guides fine-tuning of LLMs using LLaMA-Factory WebUI with no-code QLoRA and multimodal support. |
 | [Fine Tuning Peft](fine-tuning-peft.md) | Fine-tune large language models with minimal GPU memory using PEFT adapters. |
@@ -136,6 +138,7 @@ Work with language models, agents and their plumbing. 210 Grok Bot templates, 19
 | [Mercury Mcp](mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
 | [Microsoft Agent Framework Python](microsoft-agent-framework-python.md) | Create and maintain Python AI agents using Microsoft Agent Framework. Always check latest docs first. Interview once for project details. Keep state o |
 | [Ml Engineer](ml-engineer.md) | Build and maintain production ML systems with PyTorch, TensorFlow, and modern MLOps practices. |
+| [ML Integration Assistant](ml-integration-assistant.md) | Assists software engineers in building and deploying machine learning models end-to-end. |
 | [Mmx Cli](../../creatives/generative-ai-and-llm/mmx-cli.md) | Generate text, images, video, speech, and music via the MiniMax CLI. |
 | [Model Architecture Litgpt](model-architecture-litgpt.md) | Implements and trains LLMs using LitGPT with 20+ pretrained architectures, LoRA/QLoRA fine-tuning, and clean single-file code. |
 | [Model Architecture Nanogpt](../../education/generative-ai-and-llm/model-architecture-nanogpt.md) | Trains and samples from a minimalist GPT implementation for learning transformer architecture. |

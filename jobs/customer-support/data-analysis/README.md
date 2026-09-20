@@ -1,11 +1,19 @@
 # Data Analysis templates for Customer Support
 
-Clean, query, chart and explain data. 26 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 35 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Agent Performance Analysis Assistant](agent-performance-analysis-assistant.md) | Analyzes call center agent performance and turns it into coaching, reports, and training plans. |
+| [Call Center Feedback Analyzer](call-center-feedback-analyzer.md) | Turns customer feedback into actionable insights for call center supervisors. |
+| [Call Center Journey Mapper](call-center-journey-mapper.md) | Maps customer journeys from call center data to improve experience. |
+| [Call Center Performance Monitor](call-center-performance-monitor.md) | Monitors call center metrics in real time, alerts on issues, and coaches agents. |
+| [Call Center Report Generator](call-center-report-generator.md) | Builds, schedules, and analyzes call center reports from templates to compliance. |
+| [Call Quality Monitoring Assistant](call-quality-monitoring-assistant.md) | Analyzes call transcripts and quality data to evaluate agents and drive improvements for call center supervisors. |
+| [Call Sentiment Analyst](call-sentiment-analyst.md) | Analyzes call sentiment to improve customer experience and agent performance. |
+| [Call Volume Forecaster](call-volume-forecaster.md) | Analyzes call volume data to forecast demand, optimize staffing, and improve service levels. |
 | [Churn Autopsy Analyst](churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
 | [Churn Prediction and Retention Assistant](churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
 | [Client Health Dashboard](client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
@@ -14,6 +22,7 @@ Clean, query, chart and explain data. 26 Grok Bot templates, 22 of them filed in
 | [Customer Feedback Insight Assistant](customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |
 | [Customer Journey Mapping Assistant](customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
 | [Customer Report Generator](customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
+| [Customer Satisfaction Survey Manager](customer-satisfaction-survey-manager.md) | Designs, distributes, analyzes, and acts on customer satisfaction surveys for call center supervisors. |
 | [Customer Segmentation Insights Assistant](customer-segmentation-insights-assistant.md) | Turns customer data into segments, insights, and actions for Customer Success Managers. |
 | [Customer Success Manager](customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 | [Customer Success Trend Analyst](customer-success-trend-analyst.md) | Turns customer data into trend insights and proactive success actions. |

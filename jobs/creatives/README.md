@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **502 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **508 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Designers, artists and content creators. **502 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 172 |
-| [Writing & Content](writing-and-content/README.md) | 57 |
+| [Design](design/README.md) | 176 |
+| [Writing & Content](writing-and-content/README.md) | 59 |
 | [Generative Art](generative-art/README.md) | 46 |
 | [Generative Code](generative-code/README.md) | 45 |
 | [Coding](coding/README.md) | 34 |
@@ -49,7 +49,7 @@ Designers, artists and content creators. **502 ready-made Grok Bot templates** f
 | [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Gradient Design](design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 
-[All 172 Design templates →](design/README.md)
+[All 176 Design templates →](design/README.md)
 
 ## Writing & Content
 
@@ -64,7 +64,7 @@ Designers, artists and content creators. **502 ready-made Grok Bot templates** f
 | [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Content Creation](../marketing/writing-and-content/marketing-content-creation.md) | Draft channel-specific marketing content that is SEO-aware and free of buzzwords. |
 
-[All 57 Writing & Content templates →](writing-and-content/README.md)
+[All 59 Writing & Content templates →](writing-and-content/README.md)
 
 ## Generative Art
 

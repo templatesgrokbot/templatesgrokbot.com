@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **1,029 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **1,036 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,10 +12,10 @@ Product managers and the teams that ship. **1,029 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 398 |
-| [Design](design/README.md) | 95 |
-| [Data Analysis](data-analysis/README.md) | 72 |
+| [Design](design/README.md) | 98 |
+| [Data Analysis](data-analysis/README.md) | 74 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
-| [Productivity](productivity/README.md) | 66 |
+| [Productivity](productivity/README.md) | 67 |
 | [Research](research/README.md) | 66 |
 | [Generative Code](generative-code/README.md) | 65 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
@@ -25,7 +25,7 @@ Product managers and the teams that ship. **1,029 ready-made Grok Bot templates*
 | [Prompt Engineering](prompt-engineering/README.md) | 22 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
 | [Generative Art](generative-art/README.md) | 9 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 5 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 6 |
 | [Self-Improvement](self-improvement/README.md) | 4 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Office Tools](office-tools/README.md) | 1 |
@@ -60,7 +60,7 @@ Product managers and the teams that ship. **1,029 ready-made Grok Bot templates*
 | [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 
-[All 95 Design templates →](design/README.md)
+[All 98 Design templates →](design/README.md)
 
 ## Data Analysis
 
@@ -75,7 +75,7 @@ Product managers and the teams that ship. **1,029 ready-made Grok Bot templates*
 | [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
 | [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
 
-[All 72 Data Analysis templates →](data-analysis/README.md)
+[All 74 Data Analysis templates →](data-analysis/README.md)
 
 ## Generative AI and LLM
 
@@ -105,7 +105,7 @@ Product managers and the teams that ship. **1,029 ready-made Grok Bot templates*
 | [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [To Issues](productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
 
-[All 66 Productivity templates →](productivity/README.md)
+[All 67 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -251,6 +251,7 @@ Product managers and the teams that ship. **1,029 ready-made Grok Bot templates*
 | [Agile Project Manager Advisor](../management/teaching-and-tutoring/agile-project-manager-advisor.md) | Guides project managers through Agile practices, planning, tracking, and team collaboration. |
 | [Process Engineer Training Developer](teaching-and-tutoring/process-engineer-training-developer.md) | Builds and manages training and educational resources for process engineers. |
 | [Technology Integration Assistant](teaching-and-tutoring/technology-integration-assistant.md) | Guides packaging engineers through technology integration from material selection to smart packaging. |
+| [Software Lifecycle Advisor](../it-and-development/teaching-and-tutoring/software-lifecycle-advisor.md) | Guides technology managers through the software development lifecycle with AI-driven advice. |
 
 ## Self-Improvement
 

@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 449 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 454 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,10 @@ Clean, query, chart and explain data. 449 Grok Bot templates, 268 of them filed 
 | [Business Process Optimization Assistant](../../it-and-development/data-analysis/business-process-optimization-assistant.md) | Maps, analyzes, and optimizes business processes with data-backed recommendations. |
 | [Buywhere Product Catalog](../../sales/data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
 | [Calibration Analysis Assistant](calibration-analysis-assistant.md) | Analyzes calibration data, flags issues, and manages schedules, certificates, and compliance for quality control inspectors. |
+| [Call Center Performance Monitor](../../customer-support/data-analysis/call-center-performance-monitor.md) | Monitors call center metrics in real time, alerts on issues, and coaches agents. |
+| [Call Center Report Generator](../../customer-support/data-analysis/call-center-report-generator.md) | Builds, schedules, and analyzes call center reports from templates to compliance. |
+| [Call Quality Monitoring Assistant](../../customer-support/data-analysis/call-quality-monitoring-assistant.md) | Analyzes call transcripts and quality data to evaluate agents and drive improvements for call center supervisors. |
+| [Call Volume Forecaster](../../customer-support/data-analysis/call-volume-forecaster.md) | Analyzes call volume data to forecast demand, optimize staffing, and improve service levels. |
 | [Campaign Effectiveness Analyst](../../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Capacity Planning Assistant](capacity-planning-assistant.md) | Turns production data into forecasts, schedules, and capacity plans for production planners. |
 | [Cargo Handling Optimization Assistant](cargo-handling-optimization-assistant.md) | Optimizes cargo handling operations through data analysis and predictive insights for logistics engineers. |
@@ -191,6 +195,7 @@ Clean, query, chart and explain data. 449 Grok Bot templates, 268 of them filed 
 | [Inventory Turnover Analyst](inventory-turnover-analyst.md) | Analyzes inventory turnover, identifies risks, and delivers optimization plans from your data. |
 | [Inventory Turnover Optimizer](inventory-turnover-optimizer.md) | Analyzes inventory data and recommends actions to improve turnover for logistics planners. |
 | [Invoice Organizer](invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
+| [IT Process Optimization Analyst](../../it-and-development/data-analysis/it-process-optimization-analyst.md) | Analyzes IT processes and drives optimization for technology managers. |
 | [Junta Auctioneers](junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Knowledge Synthesizer](../../it-and-development/data-analysis/knowledge-synthesizer.md) | Extracts actionable patterns from agent interactions to enable organizational learning. |
 | [KPI Analysis and Forecasting Assistant](kpi-analysis-and-forecasting-assistant.md) | Turns your KPI data into clear insights, forecasts, and action plans for operations decisions. |

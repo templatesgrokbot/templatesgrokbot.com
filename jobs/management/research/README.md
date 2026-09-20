@@ -1,6 +1,6 @@
 # Research templates for Management
 
-Find sources, compare evidence and summarise what is known. 64 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 65 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -62,6 +62,7 @@ Find sources, compare evidence and summarise what is known. 64 Grok Bot template
 | [Survey Design and Analysis Assistant](survey-design-and-analysis-assistant.md) | Designs, distributes, analyzes, and reports surveys for market research managers. |
 | [Sustainability and CSR Consulting Assistant](sustainability-and-csr-consulting-assistant.md) | Sustainability and CSR consulting support for management consultants. |
 | [Sustainable Purchasing Assistant](sustainable-purchasing-assistant.md) | Helps purchasing managers make sustainable procurement decisions and track their impact. |
+| [Tech Risk Adoption Planner](../../it-and-development/research/tech-risk-adoption-planner.md) | Tracks tech trends, assesses risks, and plans adoption for technology managers. |
 | [Technology Integration Assessment Assistant](technology-integration-assessment-assistant.md) | Guides technology integration assessments from data analysis to implementation planning. |
 | [Think Tank](../../executives-and-strategy/research/think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
 | [Trend Analyst](../../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |

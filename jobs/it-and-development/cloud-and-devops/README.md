@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 412 Grok Bot templates, 397 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 422 Grok Bot templates, 407 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -103,6 +103,7 @@ Infrastructure, deployments, monitoring and incident response. 412 Grok Bot temp
 | [Cdk Patterns](cdk-patterns.md) | Build reusable AWS CDK constructs and production-grade infrastructure stacks with TypeScript, Python, or Java. No raw CloudFormation, Terraform, or on |
 | [Chaos Engineer](chaos-engineer.md) | Designs and runs controlled failure experiments to validate system resilience before incidents occur. |
 | [Ci Cd And Automation](ci-cd-and-automation.md) | Automates CI/CD pipeline setup with quality gates and deployment strategies. |
+| [CI/CD Pipeline Assistant](ci-cd-pipeline-assistant.md) | Streamlines CI/CD pipelines with automation, monitoring, and deployment guidance. |
 | [Cicd Automation Workflow Automate](cicd-automation-workflow-automate.md) | Design CI/CD pipelines and GitHub Actions workflows to automate development and deployment. |
 | [Circleci Automation](circleci-automation.md) | Trigger and monitor CircleCI pipelines, workflows, jobs, artifacts, and test results via Rube MCP. |
 | [Claimable Postgres](claimable-postgres.md) | Provision instant temporary Postgres databases with no signup or credit card. |
@@ -112,14 +113,17 @@ Infrastructure, deployments, monitoring and incident response. 412 Grok Bot temp
 | [Cloud Architect](cloud-architect.md) | Designs and optimizes multi-cloud infrastructure with IaC, FinOps, and security best practices. |
 | [Cloud Database Administrator](cloud-database-administrator.md) | Manages cloud databases end-to-end: provisioning, migration, optimization, security, and compliance. |
 | [Cloud Devops](cloud-devops.md) | Drafts cloud infrastructure, CI/CD, containers, and monitoring plans for AWS, Azure, and GCP. |
+| [Cloud Infrastructure Strategist](cloud-infrastructure-strategist.md) | Analyzes cloud infrastructure, plans migrations, optimizes costs, and strengthens security. |
 | [Cloud Integration Navigator](cloud-integration-navigator.md) | Guides cloud integration, migration, security, and cost optimization for systems administrators. |
 | [Cloud Migration Blueprint Builder](cloud-migration-blueprint-builder.md) | Guides IT specialists through cloud strategy, migration, optimization, security, and governance. |
 | [Cloud Migration Specialist](cloud-migration-specialist.md) | Migrates on-premise workloads to cloud with minimal downtime and maximum cloud-native benefit. |
 | [Cloud Migration Strategy Planner](../../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
+| [Cloud Networking Integration Planner](cloud-networking-integration-planner.md) | Guides cloud networking integration from platform choice to migration, security, and cost control. |
 | [Cloud Roadmap Navigator](cloud-roadmap-navigator.md) | Guides IT managers through cloud strategy from assessment to optimization, with approvals before any action. |
 | [Cloud Run Basics](cloud-run-basics.md) | Manages Cloud Run services, jobs, and worker pools on Google Cloud. |
 | [Cloud Security Planning Assistant](cloud-security-planning-assistant.md) | Cloud security planning and response assistant for systems administrators. |
 | [Cloud Services Integration Guide](cloud-services-integration-guide.md) | Guides software developers through integrating cloud services into their applications. |
+| [Cloud Services Utilization Assistant](cloud-services-utilization-assistant.md) | Guides cloud service selection, setup, monitoring, cost, security, and integration for software engineers. |
 | [Cloud Sql Basics](cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Cloud Strategy Advisor](cloud-strategy-advisor.md) | Guides IT directors through cloud strategy, from provider evaluation to governance and optimization. |
 | [Cloud Strategy Formulation Assistant](cloud-strategy-formulation-assistant.md) | Formulates and manages your organization's cloud strategy from readiness to governance. |
@@ -170,6 +174,7 @@ Infrastructure, deployments, monitoring and incident response. 412 Grok Bot temp
 | [Devops Incident Responder](devops-incident-responder.md) | Responds to production incidents, diagnoses failures, and drives postmortems to prevent recurrence. |
 | [Devops Troubleshooter](devops-troubleshooter.md) | Diagnoses production incidents using logs, metrics, and traces with systematic root cause analysis. |
 | [Digital Transformation Advisor](../../executives-and-strategy/cloud-and-devops/digital-transformation-advisor.md) | Guides CIOs through digital transformation from strategy to execution. |
+| [Digital Transformation Planner](digital-transformation-planner.md) | Guides technology managers through digital transformation planning and execution. |
 | [Disaster Recovery and Backup Planner](disaster-recovery-and-backup-planner.md) | Designs and validates backup and disaster recovery plans for network engineers. |
 | [Disaster Recovery Plan Builder](disaster-recovery-plan-builder.md) | Builds and maintains your disaster recovery plan from risk assessment to continuous improvement. |
 | [Disaster Recovery Planner](../../executives-and-strategy/cloud-and-devops/disaster-recovery-planner.md) | Builds and maintains your disaster recovery plan, from risk assessment to continuous improvement. |
@@ -301,11 +306,14 @@ Infrastructure, deployments, monitoring and incident response. 412 Grok Bot temp
 | [Network Automation Workflow Designer](network-automation-workflow-designer.md) | Automates network monitoring, provisioning, security, troubleshooting, documentation, optimization, change, capacity, reporting, and compliance tasks. |
 | [Network Capacity Planning Assistant](network-capacity-planning-assistant.md) | Analyzes network capacity, forecasts growth, and plans upgrades for systems administrators. No hype, just data-driven infrastructure planning. |
 | [Network Configuration Assistant](network-configuration-assistant.md) | Guides systems administrators through network configuration, troubleshooting, and optimization tasks. |
+| [Network DR Plan Builder](network-dr-plan-builder.md) | Builds and maintains your network disaster recovery plan from risk assessment to continuous improvement. |
 | [Network Engineer](network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
+| [Network Issue Diagnostician](network-issue-diagnostician.md) | Diagnoses and resolves network issues from monitoring to security. |
 | [Network Monitoring Assistant](network-monitoring-assistant.md) | Network monitoring setup, analysis, and troubleshooting assistant for engineers. |
 | [Network Optimization Planner](network-optimization-planner.md) | Analyzes network data and drafts optimization plans for global IT infrastructure. |
 | [Network Troubleshooting Advisor](network-troubleshooting-advisor.md) | Network troubleshooting advisor for systems administrators, from diagnostics to documentation. |
 | [Network Troubleshooting Assistant](network-troubleshooting-assistant.md) | Diagnose and resolve network issues with structured troubleshooting guidance and documentation support. |
+| [Network VLAN Architect](network-vlan-architect.md) | Plans, configures, and troubleshoots VLAN setups across your network. |
 | [New](new.md) | Creates Railway projects, services, and databases with proper configuration from GitHub or scaffolding. |
 | [NoSQL Database Administrator Assistant](nosql-database-administrator-assistant.md) | Guides NoSQL database administrators through setup, optimization, security, and recovery. |
 | [Nx Workspace Patterns](nx-workspace-patterns.md) | Configure and optimize Nx monorepo workspaces with project boundaries and caching. |
@@ -405,6 +413,7 @@ Infrastructure, deployments, monitoring and incident response. 412 Grok Bot temp
 | [Vercel Deployment](vercel-deployment.md) | Guides Next.js deployment to Vercel with env config and runtime choices. |
 | [Vercel Deployment Specialist](vercel-deployment-specialist.md) | Configures and deploys projects to Vercel with edge functions, performance tuning, and monitoring. |
 | [Vercel Optimize](vercel-optimize.md) | Audit Vercel apps for cost and performance using metrics, config, and code scans. |
+| [Version Control Workflow Assistant](version-control-workflow-assistant.md) | Guides software engineers through version control workflows, from branching to CI/CD, with practical advice and automation support. |
 | [Vexor Cli](vexor-cli.md) | Semantic file discovery in large repos via vexor CLI. |
 | [Virtualization Setup Guide](virtualization-setup-guide.md) | Guides IT specialists through virtualization setup, management, and optimization. |
 | [Virtualization Strategy Planner](virtualization-strategy-planner.md) | Plans and manages virtualization strategy from assessment to ongoing optimization. |
@@ -414,6 +423,7 @@ Infrastructure, deployments, monitoring and incident response. 412 Grok Bot temp
 | [Web Scraper](web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
 | [WhatsApp Cloud API](whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |
 | [Windows Infra Admin](windows-infra-admin.md) | Automates safe Windows Server, AD, DNS, DHCP, and GPO changes with pre-flight validation and rollback. |
+| [Wireless Admin Network Optimizer](wireless-admin-network-optimizer.md) | Optimizes wireless networks through analysis, configuration, and security guidance. |
 | [Wireless Network Optimization Assistant](wireless-network-optimization-assistant.md) | Optimizes wireless networks through analysis, planning, and configuration recommendations. |
 | [Workflow Automation](workflow-automation.md) | Designs durable workflow automations that survive failures and scale reliably. |
 | [Zapier Make Patterns](zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |

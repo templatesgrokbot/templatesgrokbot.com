@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **230 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **232 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Contracts, research, compliance and review. **230 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 108 |
+| [Security & Compliance](security-and-compliance/README.md) | 110 |
 | [Research](research/README.md) | 54 |
 | [Data Analysis](data-analysis/README.md) | 22 |
 | [Writing & Content](writing-and-content/README.md) | 12 |
@@ -81,6 +81,7 @@ Contracts, research, compliance and review. **230 ready-made Grok Bot templates*
 | [HR Legal Compliance Reviewer](../human-resources/security-and-compliance/hr-legal-compliance-reviewer.md) | Reviews and updates HR legal compliance across contracts, policies, and procedures. |
 | [Incident Reporting Navigator](../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
 | [Incident Response Planning Assistant](security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [InfoSec Compliance Sentinel](../it-and-development/security-and-compliance/infosec-compliance-sentinel.md) | Monitors regulatory changes, audits compliance, and reports status for information security analysts. |
 | [Insurance Compliance Assistant](../management/security-and-compliance/insurance-compliance-assistant.md) | Keeps insurance claims compliant with regulations through monitoring, review, training, and audits. |
 | [Insurance Compliance Manager](../management/security-and-compliance/insurance-compliance-manager.md) | Tracks regulatory changes, reviews policies, trains staff, and prepares compliance reports and audits for your insurance agency. |
 | [International Procurement Compliance Guide](../operations/security-and-compliance/international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
@@ -136,6 +137,7 @@ Contracts, research, compliance and review. **230 ready-made Grok Bot templates*
 | [Supply Chain Compliance Guide](../operations/security-and-compliance/supply-chain-compliance-guide.md) | Guides supply chain analysts through regulatory compliance, from rules to audits. |
 | [Supply Chain Compliance Navigator](../operations/security-and-compliance/supply-chain-compliance-navigator.md) | Navigates supply chain compliance questions and turns them into auditable processes. |
 | [Tax Compliance Monitoring Assistant](../finance/security-and-compliance/tax-compliance-monitoring-assistant.md) | Compliance monitoring assistant for tax analysts: reviews, validates, reports, and trains on tax compliance. No hype, no filler. |
+| [Technology Compliance Manager](../it-and-development/security-and-compliance/technology-compliance-manager.md) | Tracks regulations, drafts policies, and prepares audits for technology compliance managers. |
 | [Transportation Compliance Assistant](../government/security-and-compliance/transportation-compliance-assistant.md) | Keeps transportation compliance current, documented, and audit-ready. |
 | [Verify Document](../operations/security-and-compliance/verify-document.md) | Check PDFs and images for tampering signals before relying on them. |
 | [Whistleblower Policy Manager](security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |

@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 321 Grok Bot templates, 133 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 323 Grok Bot templates, 133 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -129,6 +129,7 @@ Campaigns, ads, conversion and launch plans. 321 Grok Bot templates, 133 of them
 | [Free Tier Strategy](../../product-development/marketing-and-growth/free-tier-strategy.md) | Design free tiers that developers love and that convert to paid naturally. |
 | [Free Tool Strategy](free-tool-strategy.md) | Plan and evaluate free tools for lead gen, SEO, and brand awareness. |
 | [Freight Broker Marketing Strategist](../../sales/marketing-and-growth/freight-broker-marketing-strategist.md) | Develops and executes freight brokerage marketing strategies from research to campaigns. |
+| [Game Marketing Strategist](../../it-and-development/marketing-and-growth/game-marketing-strategist.md) | Develops and executes a full game marketing strategy from research to retention. |
 | [Generate Schema Markup](schema-markup-generator.md) | Generates valid JSON-LD schema markup for a single page based on its visible content. |
 | [Geo Fundamentals](geo-fundamentals.md) | Audits content for citation by AI search engines like ChatGPT, Claude, and Perplexity. |
 | [Github Presence](github-presence.md) | Optimize GitHub profiles, READMEs, and project discoverability. |
@@ -224,6 +225,7 @@ Campaigns, ads, conversion and launch plans. 321 Grok Bot templates, 133 of them
 | [Pharma Digital Marketing Planner](../../sales/marketing-and-growth/pharma-digital-marketing-planner.md) | Digital marketing assistant for pharmaceutical sales reps, from content to compliance. |
 | [Pitch Psychologist](pitch-psychologist.md) | Structure sales pitches using psychological sequencing to build desire before solution. |
 | [Plan Internal Linking](interne-verlinkung.md) | Delivers a copy-paste-ready internal link plan with exact anchor text and placement for every row. |
+| [Player Engagement Strategist](../../it-and-development/marketing-and-growth/player-engagement-strategist.md) | Analyzes player data and designs engagement strategies to boost retention and community loyalty. |
 | [Playlist Placement Strategist](../../creatives/marketing-and-growth/playlist-placement-strategist.md) | Playlist placement strategist for vocal artists and singer-songwriters seeking curator attention and streaming growth. |
 | [Popup Cro](popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
 | [PPC Campaign Manager](../../sales/marketing-and-growth/ppc-campaign-manager.md) | Manages PPC campaigns from keyword research to performance reporting for better ROI. |

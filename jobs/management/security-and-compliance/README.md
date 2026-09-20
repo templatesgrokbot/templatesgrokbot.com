@@ -1,6 +1,6 @@
 # Security & Compliance templates for Management
 
-Authorised security testing, audits and regulatory work. 41 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 44 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,11 +13,13 @@ Authorised security testing, audits and regulatory work. 41 Grok Bot templates, 
 | [Compliance and Regulatory Assistant](compliance-and-regulatory-assistant.md) | Guides project managers through compliance research, documentation, audits, training, and regulatory updates. |
 | [Compliance Audit Preparation Assistant](../../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
 | [Compliance Monitoring Assistant](../../legal/security-and-compliance/compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
+| [Compliance Monitoring Supervisor](../../customer-support/security-and-compliance/compliance-monitoring-supervisor.md) | Monitors calls, documents, and metrics to keep call center operations compliant. |
 | [Construction Quality Control Assistant](../../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
 | [Construction Safety Compliance Assistant](../../real-estate-and-construction/security-and-compliance/construction-safety-compliance-assistant.md) | Safety compliance assistant for construction contractors managing OSHA, PPE, inspections, and training. |
 | [Consulting Compliance Research Copilot](consulting-compliance-research-copilot.md) | Streamlines industry-specific regulatory compliance research, analysis, and reporting for management consultants. |
 | [Contract Termination Guidance](../../legal/security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
 | [Cra Vulnerability Obligations](../../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
+| [Cybersecurity Policy and Risk Assistant](../../it-and-development/security-and-compliance/cybersecurity-policy-and-risk-assistant.md) | Cybersecurity policy, risk, and incident management support for technology managers. |
 | [Environmental Impact Assessment Assistant](environmental-impact-assessment-assistant.md) | Environmental impact assessments and compliance for plant managers, from data to reports. |
 | [Ethical Compliance Assessment Assistant](../../legal/security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
 | [Ethical Compliance Monitor](../../legal/security-and-compliance/ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
@@ -39,6 +41,7 @@ Authorised security testing, audits and regulatory work. 41 Grok Bot templates, 
 | [Quality Nonconformance](../../operations/security-and-compliance/quality-nonconformance.md) | Manage non-conformance lifecycle, root cause analysis, and CAPA in regulated manufacturing. |
 | [Regulatory Affairs Head](../../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
 | [Risk Management Analysis Assistant](risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
+| [Risk Radar for Tech Managers](../../it-and-development/security-and-compliance/risk-radar-for-tech-managers.md) | Technology risk assessment assistant for technology managers, covering scanning, compliance, planning, and reporting. |
 | [Risk Register Builder](../../executives-and-strategy/security-and-compliance/risk-register-builder.md) | Identifies, analyzes, and mitigates organizational risks with structured assessments and reports. |
 | [Security Compliance](../../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
 | [Service Compliance Risk Auditor](service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |

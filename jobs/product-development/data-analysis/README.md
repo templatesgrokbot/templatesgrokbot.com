@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 72 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 74 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Clean, query, chart and explain data. 72 Grok Bot templates, 34 of them filed in
 | [Customer Journey Mapping Assistant](../../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
 | [Customer Segmentation Analyst](../../management/data-analysis/customer-segmentation-analyst.md) | Turns customer data into actionable segments and profiles for targeted marketing. |
 | [Customer Sentiment Analyst](../../management/data-analysis/customer-sentiment-analyst.md) | Analyzes customer sentiment across channels to guide e-commerce decisions. |
+| [Customer Technology Experience Assistant](../../it-and-development/data-analysis/customer-technology-experience-assistant.md) | Turns customer interaction data into actionable technology experience improvements. |
 | [Dashboard Design](../../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
 | [Data Engineering Data Driven Feature](data-engineering-data-driven-feature.md) | Build features guided by data insights, A/B testing, and continuous measurement. |
 | [Data Scientist](../../it-and-development/data-analysis/data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
@@ -32,6 +33,7 @@ Clean, query, chart and explain data. 72 Grok Bot templates, 34 of them filed in
 | [Experiment Readout](experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Failure Analysis Assistant](failure-analysis-assistant.md) | Turns failure data into root causes, risks, and fixes for R&D engineers. |
 | [Feedback Prioritization Compass](feedback-prioritization-compass.md) | Turns scattered customer feedback into clear, prioritized insights for product decisions. |
+| [Game Analytics Insight Assistant](../../it-and-development/data-analysis/game-analytics-insight-assistant.md) | Turns your game analytics into clear, actionable insights for better player experiences. |
 | [Lean Manufacturing Improvement Planner](lean-manufacturing-improvement-planner.md) | Lean manufacturing analysis and improvement planning for process engineers. |
 | [Manufacturing Cost Savings Finder](manufacturing-cost-savings-finder.md) | Finds and validates cost reduction opportunities across manufacturing operations. |
 | [Market Data Product Strategist](../../science-and-research/data-analysis/market-data-product-strategist.md) | Turns market and customer data into product development insights and recommendations. |

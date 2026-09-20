@@ -1,14 +1,16 @@
 # Productivity templates for Customer Support
 
-Plan, prioritise and clear the recurring admin. 15 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 17 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [ADHD Response Formatter](adhd-response-formatter.md) | Shapes every reply so an ADHD reader can act on it immediately. |
+| [Agent Retention Strategy Planner](agent-retention-strategy-planner.md) | Designs and implements retention strategies to keep call center agents engaged and loyal. |
 | [Cal Com Automation](../../operations/productivity/cal-com-automation.md) | Automate Cal.com scheduling: bookings, availability, webhooks, and teams via Composio. |
 | [Calendly Automation](../../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
+| [Call Center Scheduling Optimizer](call-center-scheduling-optimizer.md) | Optimizes call center shift planning, coverage, and compliance from staff data. |
 | [Call Handling Assistant](call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
 | [Emergency Preparedness Assistant](emergency-preparedness-assistant.md) | Prepares emergency plans, contacts, supplies, and drills for your workplace. |
 | [Event Coordination Assistant](event-coordination-assistant.md) | Plans and runs events from scheduling to post-event follow-up. |

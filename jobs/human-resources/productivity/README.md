@@ -1,12 +1,13 @@
 # Productivity templates for Human Resources
 
-Plan, prioritise and clear the recurring admin. 67 Grok Bot templates, 47 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 68 Grok Bot templates, 47 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Accessibility and Inclusivity HRIS Assistant](accessibility-and-inclusivity-hris-assistant.md) | Helps HRIS specialists plan, implement, and track accessibility and inclusivity measures across the employee lifecycle. |
+| [Agent Retention Strategy Planner](../../customer-support/productivity/agent-retention-strategy-planner.md) | Designs and implements retention strategies to keep call center agents engaged and loyal. |
 | [Bamboohr Automation](bamboohr-automation.md) | Automate BambooHR HR operations: employees, time-off, benefits, dependents, and updates. |
 | [CHRO Succession Planner](chro-succession-planner.md) | Succession planning assistant for CHROs to identify, develop, and track future leaders. |
 | [D&I Program Planner](d-i-program-planner.md) | Plans and runs your D&I initiatives, from training to metrics, with ready-to-use content. |

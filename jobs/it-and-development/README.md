@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,22 +11,22 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Coding](coding/README.md) | 1,031 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 412 |
-| [Security & Compliance](security-and-compliance/README.md) | 290 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 210 |
-| [Data Analysis](data-analysis/README.md) | 201 |
-| [Design](design/README.md) | 94 |
-| [Productivity](productivity/README.md) | 94 |
-| [Research](research/README.md) | 93 |
-| [Generative Code](generative-code/README.md) | 88 |
+| [Coding](coding/README.md) | 1,041 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 422 |
+| [Security & Compliance](security-and-compliance/README.md) | 308 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 213 |
+| [Data Analysis](data-analysis/README.md) | 212 |
+| [Design](design/README.md) | 104 |
+| [Productivity](productivity/README.md) | 98 |
+| [Research](research/README.md) | 94 |
+| [Generative Code](generative-code/README.md) | 89 |
 | [Knowledge Management](knowledge-management/README.md) | 45 |
 | [Prompt Engineering](prompt-engineering/README.md) | 33 |
-| [Writing & Content](writing-and-content/README.md) | 31 |
+| [Writing & Content](writing-and-content/README.md) | 33 |
 | [Support & Community](support-and-community/README.md) | 29 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 19 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 15 |
-| [Generative Art](generative-art/README.md) | 12 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 21 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 20 |
+| [Generative Art](generative-art/README.md) | 13 |
 | [Office Tools](office-tools/README.md) | 11 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
@@ -50,7 +50,7 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 | [Thinking Beast Mode](coding/thinking-beast-mode.md) | Drives multi-step engineering tasks to full completion with visible todo tracking. |
 | [Apify Integration Expert](coding/apify-integration-expert.md) | Integrates Apify Actors into codebases for scraping and automation. |
 
-[All 1,031 Coding templates →](coding/README.md)
+[All 1,041 Coding templates →](coding/README.md)
 
 ## Cloud & DevOps
 
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 | [Zapier Make Patterns](cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 412 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 422 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Security & Compliance
 
@@ -80,7 +80,7 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 | [Ad Security Reviewer](security-and-compliance/ad-security-reviewer.md) | Audits Active Directory security posture and identifies privilege escalation risks from exported evidence. |
 | [Smart Contract Auditor](security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
 
-[All 290 Security & Compliance templates →](security-and-compliance/README.md)
+[All 308 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Generative AI and LLM
 
@@ -95,7 +95,7 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 | [Crewai](generative-ai-and-llm/crewai.md) | Designs collaborative AI agent teams with CrewAI framework |
 | [Agent Tool Builder](generative-ai-and-llm/agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
 
-[All 210 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 213 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
 ## Data Analysis
 
@@ -110,7 +110,7 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 | [Plotly](data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Nosql Specialist](data-analysis/nosql-specialist.md) | Designs and optimizes NoSQL databases for MongoDB, Redis, Cassandra, and key-value stores. |
 
-[All 201 Data Analysis templates →](data-analysis/README.md)
+[All 212 Data Analysis templates →](data-analysis/README.md)
 
 ## Design
 
@@ -125,7 +125,7 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 | [Ux Flow](../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 | [Design System](design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
 
-[All 94 Design templates →](design/README.md)
+[All 104 Design templates →](design/README.md)
 
 ## Productivity
 
@@ -140,7 +140,7 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 | [Sendblue Cli](productivity/sendblue-cli.md) | Send iMessage and SMS from the shell using the Sendblue CLI. |
 | [Planning With Files](../management/productivity/planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
 
-[All 94 Productivity templates →](productivity/README.md)
+[All 98 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -155,7 +155,7 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 | [Esm](../science-and-research/research/esm.md) | Designs and analyzes proteins using ESM language models for sequence, structure, and function tasks. |
 | [Lightning Architecture Review](research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 
-[All 93 Research templates →](research/README.md)
+[All 94 Research templates →](research/README.md)
 
 ## Generative Code
 
@@ -170,7 +170,7 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 | [Angular](generative-code/angular.md) | Modern Angular v20+ expert: Signals, Standalone Components, Zoneless, SSR/Hydration. |
 | [Figma](generative-code/figma.md) | Fetches Figma designs and translates them into production code. |
 
-[All 88 Generative Code templates →](generative-code/README.md)
+[All 89 Generative Code templates →](generative-code/README.md)
 
 ## Knowledge Management
 
@@ -215,7 +215,7 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 | [Reference List Builder](../human-resources/writing-and-content/reference-list-builder.md) | Formats professional reference lists and prepares reference materials for job applications. |
 | [Se Technical Writer](writing-and-content/se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
 
-[All 31 Writing & Content templates →](writing-and-content/README.md)
+[All 33 Writing & Content templates →](writing-and-content/README.md)
 
 ## Support & Community
 
@@ -245,7 +245,7 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 | [Search Ai Optimization Expert](../marketing/marketing-and-growth/search-ai-optimization-expert.md) | Optimize websites and content for search engines, answer engines, and generative AI systems. |
 | [Developer Seo](../marketing/marketing-and-growth/developer-seo.md) | SEO strategy for technical queries and developer audiences. |
 
-[All 19 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 21 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Teaching & Tutoring
 
@@ -260,7 +260,7 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 | [Yann LeCun Philosophy](../education/teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
 | [Data Warehouse Design Advisor](teaching-and-tutoring/data-warehouse-design-advisor.md) | Guides database administrators through data warehouse design, implementation, and ongoing operations. |
 
-[All 15 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+[All 20 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Generative Art
 
@@ -268,14 +268,14 @@ Engineers, DevOps, security and IT teams. **2,735 ready-made Grok Bot templates*
 |---|---|
 | [Comfyui Gateway](generative-art/comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |
 | [Scroll Experience](../creatives/generative-art/scroll-experience.md) | Build scroll-driven animations and parallax storytelling for narrative websites. |
+| [Game Audio](../creatives/generative-art/game-audio.md) | Guide game audio design: sound, music integration, adaptive systems. |
 | [Modellix](../creatives/generative-art/modellix.md) | Generate images, videos, and speech via the Modellix CLI workflow. |
 | [Animejs Animation](../creatives/generative-art/animejs-animation.md) | Build complex, high-performance web animations with Anime.js timelines, staggering, and SVG morphing. |
 | [3d Artist](../creatives/generative-art/3d-artist.md) | Creates game-ready 3D assets and technical art workflows for Unity and Unreal Engine. |
 | [Lookdev Auto](../creatives/generative-art/lookdev-auto.md) | Automated visual tuning loop using a vision model as rater for subjective quality. |
 | [Multimodal Audiocraft](../creatives/generative-art/multimodal-audiocraft.md) | Generates music and sound effects from text descriptions using AudioCraft models. |
-| [Multimodal Stable Diffusion](../creatives/generative-art/multimodal-stable-diffusion.md) | Generate images from text prompts using Stable Diffusion models. |
 
-[All 12 Generative Art templates →](generative-art/README.md)
+[All 13 Generative Art templates →](generative-art/README.md)
 
 ## Office Tools
 

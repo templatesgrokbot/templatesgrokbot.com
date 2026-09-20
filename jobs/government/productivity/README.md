@@ -1,6 +1,6 @@
 # Productivity templates for Government
 
-Plan, prioritise and clear the recurring admin. 55 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 56 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -54,6 +54,7 @@ Plan, prioritise and clear the recurring admin. 55 Grok Bot templates, 4 of them
 | [Strategy Stakeholder Messenger](../../executives-and-strategy/productivity/strategy-stakeholder-messenger.md) | Manages all stakeholder communication for strategy managers, from updates to crisis messaging. |
 | [Succession Plan Builder for HR Leaders](../../human-resources/productivity/succession-plan-builder-for-hr-leaders.md) | Turns HR data into a complete succession plan with candidates, development paths, and risk checks. |
 | [SWOT Strategy Assistant](../../executives-and-strategy/productivity/swot-strategy-assistant.md) | Runs your organization's SWOT analysis from data collection to action plans and monitoring. |
+| [Technology Change Management Planner](../../it-and-development/productivity/technology-change-management-planner.md) | Plans and manages technology changes from stakeholder analysis to post-implementation review. |
 | [Training Program Advisor](../../human-resources/productivity/training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |
 | [Transformation Roadmap Builder](../../it-and-development/productivity/transformation-roadmap-builder.md) | Plans and runs your digital transformation strategy from research to rollout to improvement. |
 | [Transportation Technology Integration Planner](transportation-technology-integration-planner.md) | Guides technology integration for transportation management, from software selection to performance monitoring. |

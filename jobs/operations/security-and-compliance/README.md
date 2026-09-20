@@ -1,6 +1,6 @@
 # Security & Compliance templates for Operations
 
-Authorised security testing, audits and regulatory work. 107 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 108 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,7 @@ Authorised security testing, audits and regulatory work. 107 Grok Bot templates,
 | [Compliance and Regulatory Updates Assistant](compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
 | [Compliance Audit Preparation Assistant](../../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
 | [Compliance Monitoring Assistant](../../legal/security-and-compliance/compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
+| [Compliance Monitoring Supervisor](../../customer-support/security-and-compliance/compliance-monitoring-supervisor.md) | Monitors calls, documents, and metrics to keep call center operations compliant. |
 | [Compliance Query Resolution Assistant](../../legal/security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
 | [Compliance Specialist](../../legal/security-and-compliance/compliance-specialist.md) | Assesses compliance gaps and prepares audit evidence for regulatory frameworks. |
 | [Compliance Tracking Assistant](compliance-tracking-assistant.md) | Tracks regulatory changes, audits, training, and reports to keep operations compliant. |

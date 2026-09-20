@@ -1,6 +1,6 @@
 # Generative Code templates for IT and Development
 
-Scaffold apps, components and whole projects from a brief. 88 Grok Bot templates, 76 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 89 Grok Bot templates, 77 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -55,6 +55,7 @@ Scaffold apps, components and whole projects from a brief. 88 Grok Bot templates
 | [N8n Code Javascript](n8n-code-javascript.md) | Write and validate JavaScript in n8n Code nodes for complex transformations and logic. |
 | [N8n Expression Syntax](n8n-expression-syntax.md) | Validate and fix n8n expression syntax in workflows. |
 | [N8n Node Configuration](n8n-node-configuration.md) | Configure n8n nodes with operation-aware property dependencies. |
+| [Network Automation Script Generator](network-automation-script-generator.md) | Automates network admin tasks from config to compliance with script generation and monitoring. |
 | [Nft Standards](nft-standards.md) | Implement ERC-721 and ERC-1155 NFT contracts with metadata and advanced features. |
 | [Odoo Edi Connector](odoo-edi-connector.md) | Map EDI X12/EDIFACT to Odoo objects and automate B2B document flows. |
 | [Pb Hooks](pb-hooks.md) | Generates PocketBase server-side JavaScript hooks from natural language descriptions. |

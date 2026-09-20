@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 190 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 191 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, prioritise and clear the recurring admin. 190 Grok Bot templates, 114 of t
 | [Cal Com Automation](cal-com-automation.md) | Automate Cal.com scheduling: bookings, availability, webhooks, and teams via Composio. |
 | [Calendly Automation](calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Calibration and Maintenance Scheduler](calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
+| [Call Center Scheduling Optimizer](../../customer-support/productivity/call-center-scheduling-optimizer.md) | Optimizes call center shift planning, coverage, and compliance from staff data. |
 | [Change Management Strategist](change-management-strategist.md) | Plans and manages organizational change from stakeholder analysis to sustainability. |
 | [Change Order Manager](../../real-estate-and-construction/productivity/change-order-manager.md) | Manages construction change orders from documentation to compliance and performance tracking. |
 | [Chieeeeefy](chieeeeefy.md) | Manages calendar and email for a field engineer, converting timezones and protecting attention. (124 chars) No hype, no emoji. Rewritten: |

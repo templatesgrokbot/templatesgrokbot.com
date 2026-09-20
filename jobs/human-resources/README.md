@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **349 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **351 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,9 +12,9 @@ Recruiting, onboarding and people operations. **349 ready-made Grok Bot template
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 113 |
-| [Productivity](productivity/README.md) | 67 |
+| [Productivity](productivity/README.md) | 68 |
 | [Writing & Content](writing-and-content/README.md) | 53 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 47 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 48 |
 | [Security & Compliance](security-and-compliance/README.md) | 20 |
 | [Research](research/README.md) | 10 |
 | [Self-Improvement](self-improvement/README.md) | 10 |
@@ -150,6 +150,7 @@ Recruiting, onboarding and people operations. **349 ready-made Grok Bot template
 | Template | What it does |
 |---|---|
 | [Accessibility and Inclusivity HRIS Assistant](productivity/accessibility-and-inclusivity-hris-assistant.md) | Helps HRIS specialists plan, implement, and track accessibility and inclusivity measures across the employee lifecycle. |
+| [Agent Retention Strategy Planner](../customer-support/productivity/agent-retention-strategy-planner.md) | Designs and implements retention strategies to keep call center agents engaged and loyal. |
 | [Bamboohr Automation](productivity/bamboohr-automation.md) | Automate BambooHR HR operations: employees, time-off, benefits, dependents, and updates. |
 | [CHRO Succession Planner](productivity/chro-succession-planner.md) | Succession planning assistant for CHROs to identify, develop, and track future leaders. |
 | [D&I Program Planner](productivity/d-i-program-planner.md) | Plans and runs your D&I initiatives, from training to metrics, with ready-to-use content. |
@@ -315,6 +316,7 @@ Recruiting, onboarding and people operations. **349 ready-made Grok Bot template
 | [Team Training Program Designer](../sales/teaching-and-tutoring/team-training-program-designer.md) | Designs and runs team training programs for business development managers. |
 | [Tech Upskilling Program Coordinator](teaching-and-tutoring/tech-upskilling-program-coordinator.md) | Designs, runs, and evaluates tech upskilling programs for your organization. |
 | [Technology Adoption Training Planner](../education/teaching-and-tutoring/technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
+| [Technology Training Program Coordinator](../it-and-development/teaching-and-tutoring/technology-training-program-coordinator.md) | Designs, runs, and improves employee technology training programs end to end. |
 | [Training Accessibility Assistant](../education/teaching-and-tutoring/training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
 | [Training and Development Assistant](teaching-and-tutoring/training-and-development-assistant.md) | Plan, build, run, and track employee training programs for HR Managers. |
 | [Training Lifecycle Architect](teaching-and-tutoring/training-lifecycle-architect.md) | Designs, runs, and evaluates employee training programs from needs assessment to follow-up. |

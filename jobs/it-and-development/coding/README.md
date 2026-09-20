@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1031 Grok Bot templates, 1022 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1041 Grok Bot templates, 1032 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -153,6 +153,7 @@ Write, review, test and debug software. 1031 Grok Bot templates, 1022 of them fi
 | [Binary Diff](binary-diff.md) | Migrate binary symbols across versions without PDBs using LLM-based diffing. |
 | [Bleu](bleu.md) | Turns an idea into a complete, production-ready system plan before any code is written. |
 | [Blockchain Developer](blockchain-developer.md) | Build, audit, and optimize smart contracts and decentralized applications with Solidity and Web3. |
+| [Blockchain Integration Engineer Assistant](blockchain-integration-engineer-assistant.md) | Blockchain integration assistant for software engineers: research, design, implement, and secure blockchain solutions. |
 | [Blueprint](blueprint.md) | Generate cold-start step-by-step plans from one-line objectives |
 | [Blueprint Mode](blueprint-mode.md) | Executes structured coding workflows with strict correctness and maintainability. |
 | [Blueprint Mode Codex](blueprint-mode-codex.md) | Executes structured coding workflows with strict correctness and minimal tool use. |
@@ -231,6 +232,7 @@ Write, review, test and debug software. 1031 Grok Bot templates, 1022 of them fi
 | [Codebase Cleanup Refactor Clean](codebase-cleanup-refactor-clean.md) | Refactor code to improve quality, maintainability, and performance. |
 | [Codebase Cleanup Tech Debt](codebase-cleanup-tech-debt.md) | Analyze code and change history to find, quantify, and prioritize technical debt with actionable remediation plans. |
 | [Codebase Design](codebase-design.md) | Shared vocabulary for designing deep modules with small interfaces and large implementations. |
+| [Codebase Efficiency Optimizer](codebase-efficiency-optimizer.md) | Optimizes algorithms for speed, memory, and efficiency across codebases and ML models. |
 | [Codebase Explorer](codebase-explorer.md) | Analyzes unfamiliar codebases and produces a structured mental model with tech stack, architecture, and key patterns. |
 | [Codebase Pattern Finder](codebase-pattern-finder.md) | Finds existing code patterns and examples in the codebase for reuse as templates. |
 | [Codebase To Wordpress Converter](codebase-to-wordpress-converter.md) | Convert any codebase into a pixel-perfect, SEO-optimized WordPress theme. |
@@ -275,6 +277,7 @@ Write, review, test and debug software. 1031 Grok Bot templates, 1022 of them fi
 | [Create Pr](create-pr.md) | Create pull requests following Sentry conventions from the current branch. |
 | [Cron Doctor](cron-doctor.md) | Validate cron expressions and catch silent bugs before deployment. |
 | [Cross Platform Contract Propagation Audit](cross-platform-contract-propagation-audit.md) | Audit whether a field, enum, or flag propagates consistently across all services, clients, and tests. |
+| [Cross-Platform Development Assistant](cross-platform-development-assistant.md) | Cross-platform development assistant for software engineers covering testing, design, optimization, and more. |
 | [Csharp Developer](csharp-developer.md) | Build and optimize ASP.NET Core APIs, cloud-native .NET solutions, and modern C# applications. |
 | [Csharp Dotnet Janitor](csharp-dotnet-janitor.md) | Keeps C#/.NET codebases clean, modern, and free of tech debt. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Csharp Mcp Expert](csharp-mcp-expert.md) | Build production-ready MCP servers in C# with expert guidance on SDK, DI, and best practices. |
@@ -287,6 +290,7 @@ Write, review, test and debug software. 1031 Grok Bot templates, 1022 of them fi
 | [Dart](dart.md) | Dart code guidelines covering null safety, collections, async, and Flutter patterns. |
 | [Data Structure Protocol](data-structure-protocol.md) | Navigate and refactor codebases using a persistent structural graph. |
 | [Data Structure Selection Advisor](data-structure-selection-advisor.md) | Guides software developers in selecting and optimizing data structures for performance, scalability, and memory efficiency. |
+| [Data Structure Selection Assistant](data-structure-selection-assistant.md) | Guides software engineers in selecting, analyzing, and implementing optimal data structures. |
 | [Database Migration](database-migration.md) | Generates safe, reversible migration scripts for Sequelize, TypeORM, and Prisma. |
 | [Database Migrations Sql Migrations](database-migrations-sql-migrations.md) | Zero-downtime SQL migrations with rollback plans for PostgreSQL, MySQL, SQL Server. |
 | [Database Schema Designer](database-schema-designer.md) | Designs production-ready SQL and NoSQL schemas with normalization, indexing, and migration scripts. |
@@ -446,7 +450,9 @@ Write, review, test and debug software. 1031 Grok Bot templates, 1022 of them fi
 | [Full Output Enforcement](full-output-enforcement.md) | Deliver every requested file, function, or section in full without placeholders. |
 | [Full Stack Orchestration Full Stack Feature](full-stack-orchestration-full-stack-feature.md) | Orchestrate full-stack feature delivery from database to deployment with API-first design. |
 | [Fullstack Developer](fullstack-developer.md) | Build complete features spanning database, API, and frontend layers as a cohesive unit. |
+| [Game Debugging and Troubleshooting Assistant](game-debugging-and-troubleshooting-assistant.md) | Helps game developers debug code, optimize performance, and build player-facing troubleshooting tools. |
 | [Game Developer](game-developer.md) | Optimizes and builds game systems, graphics, networking, and mechanics for target platforms. |
+| [Game Testing Strategist](game-testing-strategist.md) | Generates game testing strategies, cases, and analysis for developers. |
 | [Gdb Cli](gdb-cli.md) | Analyze core dumps and debug live C/C++ processes with GDB. |
 | [Gemini](gemini.md) | Runs deep code reviews and big-context analysis via Gemini CLI. |
 | [Gemini Api Dev](gemini-api-dev.md) | Build apps with Gemini API using current models and SDKs. |
@@ -616,6 +622,7 @@ Write, review, test and debug software. 1031 Grok Bot templates, 1022 of them fi
 | [Ml Pipeline Workflow](ml-pipeline-workflow.md) | End-to-end MLOps pipeline orchestration from data prep to model deployment and monitoring. |
 | [ML Workflow Integrator](ml-workflow-integrator.md) | Guides ML project workflows from feature engineering to deployment and monitoring. |
 | [Mobile App Developer](mobile-app-developer.md) | Builds and optimizes native and cross-platform iOS/Android apps with performance and UX focus. |
+| [Mobile App Development Assistant](mobile-app-development-assistant.md) | Assists mobile app engineers with design, code, features, testing, and market insights. |
 | [Mobile Developer](mobile-developer.md) | Architects cross-platform mobile apps with native performance and offline-first sync. |
 | [Mobile Security Coder](mobile-security-coder.md) | Secure mobile coding expert for input validation, WebView security, and platform-specific vulnerabilities. |
 | [Modern Javascript Patterns](modern-javascript-patterns.md) | Guides modern JavaScript patterns and functional programming best practices for clean, maintainable code. |
@@ -780,6 +787,7 @@ Write, review, test and debug software. 1031 Grok Bot templates, 1022 of them fi
 | [React Specialist](react-specialist.md) | Optimizes React apps for performance, migrates to React 19+, and builds scalable component architectures. |
 | [React Ui Patterns](react-ui-patterns.md) | Generates React components with correct loading, error, empty, and button states for async data. |
 | [React Useeffect](react-useeffect.md) | Reviews React code to replace unnecessary Effects with simpler alternatives. |
+| [Real-Time Systems Development Assistant](real-time-systems-development-assistant.md) | Designs, builds, and troubleshoots real-time systems across domains with AI assistance. |
 | [Receiving Code Review](receiving-code-review.md) | Evaluate code review feedback technically, verify against the codebase, and push back with reasoning. |
 | [Recsys Pipeline Architect](recsys-pipeline-architect.md) | Design composable recommendation and ranking pipelines using the six-stage framework. |
 | [Reducing Entropy](reducing-entropy.md) | Minimizes total codebase size by biasing toward deletion and measuring end-state code amount. |
@@ -873,6 +881,7 @@ Write, review, test and debug software. 1031 Grok Bot templates, 1022 of them fi
 | [Star History Chart](star-history-chart.md) | Adds a self-hosted, auto-refreshing stargazers-over-time SVG chart to a GitHub repo README. |
 | [Strategic Compact](cc-skill-strategic-compact.md) | Condenses a codebase into a strategic summary for development planning. |
 | [Stripe Integration](stripe-integration.md) | Implement Stripe payments, subscriptions, webhooks and refunds with verified server-side authorization. |
+| [Structured Code Troubleshooter](structured-code-troubleshooter.md) | Debug code faster with structured analysis, testing, and collaboration support. |
 | [Styleseed Design Review](styleseed-design-review.md) | Reviews UI code against a design rubric and scores it 0-100. |
 | [Subagent Orchestrator](subagent-orchestrator.md) | Coordinate quota-aware parallel subagents for large multi-file tasks. |
 | [Supabase Automation](supabase-automation.md) | Automate Supabase database queries, table management, and project administration. |
@@ -963,6 +972,7 @@ Write, review, test and debug software. 1031 Grok Bot templates, 1022 of them fi
 | [Ui Review](ui-review.md) | Review UI code for design system compliance, accessibility, and best practices. |
 | [Ui Templates Root](ui-skills-root.md) | Route UI tasks to the smallest useful capability context via CLI. |
 | [Uncle Bob Craft](uncle-bob-craft.md) | Review code and architecture using Uncle Bob's craft principles. |
+| [Unit Testing Strategies Assistant](unit-testing-strategies-assistant.md) | Generates, analyzes, and automates unit tests to improve software quality. |
 | [Unit Testing Test Generate](unit-testing-test-generate.md) | Generate comprehensive unit tests with edge case coverage across languages. |
 | [Unity Developer](unity-developer.md) | Build and optimize Unity games with C#, rendering, and cross-platform deployment. |
 | [Unity Ecs Patterns](unity-ecs-patterns.md) | Apply DOTS patterns for high-performance Unity ECS systems. |

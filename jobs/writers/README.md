@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **194 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **195 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Authors, copywriters, editors and journalists. **194 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 109 |
+| [Writing & Content](writing-and-content/README.md) | 110 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 22 |
 | [Research](research/README.md) | 20 |
 | [Data Analysis](data-analysis/README.md) | 7 |
@@ -75,6 +75,7 @@ Authors, copywriters, editors and journalists. **194 ready-made Grok Bot templat
 | [Editorial Trend Analyst](../pr-and-communications/writing-and-content/editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
 | [Email Newsletter Writing Assistant](writing-and-content/email-newsletter-writing-assistant.md) | Drafts, personalizes, and optimizes email newsletters from topic to performance analysis. |
 | [Game Recap Generator](writing-and-content/game-recap-generator.md) | Turn game stats and highlights into engaging recaps for any platform. |
+| [Game Story Development Assistant](../it-and-development/writing-and-content/game-story-development-assistant.md) | Develops game stories, characters, and worlds with AI assistance. |
 | [Genre-Specific Scriptwriting Assistant](writing-and-content/genre-specific-scriptwriting-assistant.md) | Helps scriptwriters craft genre-specific stories with character, plot, dialogue, and world-building guidance. |
 | [Headline Crafting Assistant](../pr-and-communications/writing-and-content/headline-crafting-assistant.md) | Crafts and optimizes headlines for editors using research, testing, and performance data. |
 | [Humanizer](writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |

@@ -1,6 +1,6 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 109 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 110 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -33,6 +33,7 @@ Clean, query, chart and explain data. 109 Grok Bot templates, 13 of them filed i
 | [Data Collection Strategy Planner](../../operations/data-analysis/data-collection-strategy-planner.md) | Plans and runs data collection for process improvement, from source choice to insight delivery. |
 | [Data Formatting and Organization Assistant](../../operations/data-analysis/data-formatting-and-organization-assistant.md) | Cleans, standardizes, and organizes data for data entry specialists. |
 | [Data Insights Strategist](../../executives-and-strategy/data-analysis/data-insights-strategist.md) | Turns raw data into forecasts, segments, and stories for executive decisions. |
+| [Data Management Strategist](../../it-and-development/data-analysis/data-management-strategist.md) | Helps technology managers classify, secure, govern, and analyze data for better decisions. |
 | [Data Quality Assessment Assistant](../../it-and-development/data-analysis/data-quality-assessment-assistant.md) | Data quality assessment and improvement for QA managers, from profiling to governance. |
 | [Data Quality Control Assistant](../../operations/data-analysis/data-quality-control-assistant.md) | Runs quality control checks on entered data and reports issues for correction. |
 | [Data Quality Management Assistant](../../executives-and-strategy/data-analysis/data-quality-management-assistant.md) | Assesses, cleans, validates, and reports on data quality for executive decisions. |

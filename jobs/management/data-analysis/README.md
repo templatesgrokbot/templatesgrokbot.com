@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 196 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 207 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,12 +8,21 @@ Clean, query, chart and explain data. 196 Grok Bot templates, 96 of them filed i
 |---|---|
 | [Abc Xyz Segmentation](../../operations/data-analysis/abc-xyz-segmentation.md) | Segment SKUs by value and demand variability, assign planning policies, and reallocate planner attention. |
 | [Agency Performance Analyst](agency-performance-analyst.md) | Turns agency performance data into clear insights and recommendations for insurance managers. |
+| [Agent Performance Analysis Assistant](../../customer-support/data-analysis/agent-performance-analysis-assistant.md) | Analyzes call center agent performance and turns it into coaching, reports, and training plans. |
 | [Benchmarking Analysis Assistant](benchmarking-analysis-assistant.md) | Benchmarking analysis assistant for management consultants, turning data into strategic insights and client-ready reports. |
 | [Brand Image Analyst](brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
 | [Brand Loyalty Insights Assistant](brand-loyalty-insights-assistant.md) | Analyzes brand loyalty data and delivers actionable insights for strategic brand management. |
 | [Brand Perception Analyst](brand-perception-analyst.md) | Analyzes brand perception from reviews, social media, and surveys to guide strategy. |
 | [Business Analyst](../../operations/data-analysis/business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
+| [Business Intelligence Insights Assistant](../../it-and-development/data-analysis/business-intelligence-insights-assistant.md) | Turns your business data into clear insights, forecasts, and reports for smarter decisions. |
 | [Business Strategy Analyst](business-strategy-analyst.md) | Turns market data and company inputs into strategic analysis, goals, and plans for management consultants. |
+| [Call Center Feedback Analyzer](../../customer-support/data-analysis/call-center-feedback-analyzer.md) | Turns customer feedback into actionable insights for call center supervisors. |
+| [Call Center Journey Mapper](../../customer-support/data-analysis/call-center-journey-mapper.md) | Maps customer journeys from call center data to improve experience. |
+| [Call Center Performance Monitor](../../customer-support/data-analysis/call-center-performance-monitor.md) | Monitors call center metrics in real time, alerts on issues, and coaches agents. |
+| [Call Center Report Generator](../../customer-support/data-analysis/call-center-report-generator.md) | Builds, schedules, and analyzes call center reports from templates to compliance. |
+| [Call Quality Monitoring Assistant](../../customer-support/data-analysis/call-quality-monitoring-assistant.md) | Analyzes call transcripts and quality data to evaluate agents and drive improvements for call center supervisors. |
+| [Call Sentiment Analyst](../../customer-support/data-analysis/call-sentiment-analyst.md) | Analyzes call sentiment to improve customer experience and agent performance. |
+| [Call Volume Forecaster](../../customer-support/data-analysis/call-volume-forecaster.md) | Analyzes call volume data to forecast demand, optimize staffing, and improve service levels. |
 | [Campaign Effectiveness Analyst](campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Carrier Relationship Management](../../operations/data-analysis/carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
 | [Claim Severity Assessment Assistant](claim-severity-assessment-assistant.md) | Assesses insurance claim severity from data to reporting, ready for manager approval. |
@@ -97,6 +106,7 @@ Clean, query, chart and explain data. 196 Grok Bot templates, 96 of them filed i
 | [Inventory Manager Supplier Risk Scorecard](../../operations/data-analysis/inventory-manager-supplier-risk-scorecard.md) | Evaluates supplier performance, flags risks, and drives improvement plans for inventory managers. |
 | [Inventory Optimization Assistant](inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
 | [IT Budget Forecast Assistant](../../it-and-development/data-analysis/it-budget-forecast-assistant.md) | Forecasts IT budgets, finds savings, and prepares reports for IT managers. |
+| [IT Cost Forecaster for Managers](../../it-and-development/data-analysis/it-cost-forecaster-for-managers.md) | Analyzes IT costs, forecasts, and optimizes budgets for technology managers. |
 | [IT Support Optimization Assistant](../../it-and-development/data-analysis/it-support-optimization-assistant.md) | Optimize global IT customer support through AI-driven analysis, automation, and proactive issue resolution. |
 | [Job Description Analyzer](../../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
 | [Kpi Dashboard Design](kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
@@ -198,6 +208,7 @@ Clean, query, chart and explain data. 196 Grok Bot templates, 96 of them filed i
 | [Transportation Inventory Manager](../../government/data-analysis/transportation-inventory-manager.md) | Manages transportation inventory end-to-end with predictive insights and real-time tracking. |
 | [Transportation Operations Optimizer](../../government/data-analysis/transportation-operations-optimizer.md) | Optimizes routes, fleet, costs, and compliance for government transportation operations. |
 | [Transportation Risk Manager](../../government/data-analysis/transportation-risk-manager.md) | Identifies, mitigates, and monitors transportation risks with data-driven insights and plans. |
+| [Vendor Management Insights Assistant](../../it-and-development/data-analysis/vendor-management-insights-assistant.md) | Turns vendor data into performance, risk, contract, and cost insights for technology managers. |
 | [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Warehouse Automation Planner](../../operations/data-analysis/warehouse-automation-planner.md) | Optimizes automated warehouse operations from inventory to maintenance for logistics planners. |
 | [Warehouse Layout Optimizer](../../operations/data-analysis/warehouse-layout-optimizer.md) | Optimizes warehouse layouts for space, flow, and efficiency. |

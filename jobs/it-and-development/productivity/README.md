@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 94 Grok Bot templates, 41 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 45 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -42,6 +42,7 @@ Plan, prioritise and clear the recurring admin. 94 Grok Bot templates, 41 of the
 | [Gmail Automation](../../operations/productivity/gmail-automation.md) | Search, read, send, and manage Gmail messages via CLI scripts with OAuth. |
 | [Google Drive Automation](../../operations/productivity/google-drive-automation.md) | Full read/write access to Google Drive with standalone OAuth. |
 | [Hackathon Ai Strategist](../../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
+| [Innovation Cultivation Strategist](innovation-cultivation-strategist.md) | Turns innovation ideas into a managed pipeline for technology managers. |
 | [IT Delivery Planner](it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
 | [IT Project Closure Companion](it-project-closure-companion.md) | Plan, track, and close IT projects with structured AI assistance for every phase. |
 | [IT Project Management Assistant](it-project-management-assistant.md) | IT project planning, risk, resource, and stakeholder support for Vice Presidents of IT. |
@@ -85,10 +86,13 @@ Plan, prioritise and clear the recurring admin. 94 Grok Bot templates, 41 of the
 | [Stripe Automation](../../finance/productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [Task Intelligence](../../management/productivity/task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |
 | [Team Collaboration Standup Notes](../../management/productivity/team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |
+| [Tech Project Tracker](tech-project-tracker.md) | Manages project schedules, resources, risks, budgets, and team communication from planning to delivery. |
+| [Technology Change Management Planner](technology-change-management-planner.md) | Plans and manages technology changes from stakeholder analysis to post-implementation review. |
 | [Technology Integration Planner](../../operations/productivity/technology-integration-planner.md) | Plans and manages technology integration projects from research to monitoring. |
 | [Technology Roadmap Architect](../../executives-and-strategy/productivity/technology-roadmap-architect.md) | Turns research, stakeholder input, and analysis into a complete, actionable IT technology roadmap. |
 | [Technology Roadmap Planner](../../product-development/productivity/technology-roadmap-planner.md) | Builds and maintains technology roadmaps for R&D engineers from market data to execution plans. |
 | [Technology Roadmap Strategist](../../executives-and-strategy/productivity/technology-roadmap-strategist.md) | Turns your tech stack and goals into a prioritized, stakeholder-ready roadmap. |
+| [Technology Strategy Planner](technology-strategy-planner.md) | Plans and manages your technology strategy from market research to implementation. |
 | [To Issues](../../product-development/productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
 | [Track Management](track-management.md) | Manage Conductor tracks from spec to completion. |
 | [Transformation Roadmap Builder](transformation-roadmap-builder.md) | Plans and runs your digital transformation strategy from research to rollout to improvement. |

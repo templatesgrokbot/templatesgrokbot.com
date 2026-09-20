@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 182 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 188 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Plan, prioritise and clear the recurring admin. 182 Grok Bot templates, 61 of th
 | [Acceptance Orchestrator](../../it-and-development/productivity/acceptance-orchestrator.md) | Drive coding tasks from issue intake to acceptance verification with minimal re-intervention. |
 | [Accint Commitments](accint-commitments.md) | Triage open promises and close them with honest verdicts via acc_act(runtime="outcome"). |
 | [Agent Organizer](agent-organizer.md) | Assembles and coordinates multi-agent teams for complex projects by matching capabilities to tasks. |
+| [Agent Retention Strategy Planner](../../customer-support/productivity/agent-retention-strategy-planner.md) | Designs and implements retention strategies to keep call center agents engaged and loyal. |
 | [Agent Squad](../../it-and-development/productivity/agent-squad.md) | Orchestrates a squad of specialized agents to manage software projects step by step. |
 | [Agile Product Owner](../../product-development/productivity/agile-product-owner.md) | Generates INVEST-compliant user stories and manages sprint backlog for a product owner. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Alex](alex.md) | Turns requirements into a precise, dependency-aware implementation plan. |
@@ -24,6 +25,7 @@ Plan, prioritise and clear the recurring admin. 182 Grok Bot templates, 61 of th
 | [Bulletmind](../../education/productivity/bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
 | [Calendar Defragmenter](calendar-defragmenter.md) | Audits your calendar, proposes consolidations and focus blocks, and drafts the messages to reclaim your week. |
 | [Calendly Automation](../../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
+| [Call Center Scheduling Optimizer](../../customer-support/productivity/call-center-scheduling-optimizer.md) | Optimizes call center shift planning, coverage, and compliance from staff data. |
 | [Change Management Consultant](change-management-consultant.md) | Guides management consultants through every stage of organizational change, from stakeholder analysis to sustainability planning. |
 | [Change Management Support Assistant](change-management-support-assistant.md) | Change management support for project managers: analysis, planning, communication, training, and evaluation in one assistant. |
 | [Change Order Manager](../../real-estate-and-construction/productivity/change-order-manager.md) | Manages construction change orders from documentation to compliance and performance tracking. |
@@ -81,6 +83,7 @@ Plan, prioritise and clear the recurring admin. 182 Grok Bot templates, 61 of th
 | [Idea Os](../../product-development/productivity/idea-os.md) | Five-phase pipeline turning raw ideas into PRD, research, and execution plans. |
 | [Idea Refine](../../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
 | [Inbox Triage](inbox-triage.md) | Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe. |
+| [Innovation Cultivation Strategist](../../it-and-development/productivity/innovation-cultivation-strategist.md) | Turns innovation ideas into a managed pipeline for technology managers. |
 | [Innovation Cycle Navigator](innovation-cycle-navigator.md) | Guides project managers through the full innovation cycle, from ideation to implementation. |
 | [Innovation Ideation Partner](innovation-ideation-partner.md) | Innovation ideation partner for senior managers: generate, evaluate, and track ideas from brainstorm to execution. |
 | [Innovation Pipeline Planner](../../executives-and-strategy/productivity/innovation-pipeline-planner.md) | Turns R&D ideas into tracked, prioritized innovation initiatives with AI support. |
@@ -171,7 +174,10 @@ Plan, prioritise and clear the recurring admin. 182 Grok Bot templates, 61 of th
 | [Task Planner](task-planner.md) | Creates actionable implementation plans from verified research findings. |
 | [Team Collaboration Facilitator](team-collaboration-facilitator.md) | Facilitates team collaboration, communication, and decision-making for project managers. |
 | [Team Collaboration Standup Notes](team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |
+| [Tech Project Tracker](../../it-and-development/productivity/tech-project-tracker.md) | Manages project schedules, resources, risks, budgets, and team communication from planning to delivery. |
+| [Technology Change Management Planner](../../it-and-development/productivity/technology-change-management-planner.md) | Plans and manages technology changes from stakeholder analysis to post-implementation review. |
 | [Technology Implementation Planner](technology-implementation-planner.md) | Plans technology implementations from research to rollout for management consultants. |
+| [Technology Strategy Planner](../../it-and-development/productivity/technology-strategy-planner.md) | Plans and manages your technology strategy from market research to implementation. |
 | [Template Router](../../operations/productivity/skill-router.md) | Interviews users and recommends the best installed capability for their goal. |
 | [Time Ledger](../../operations/productivity/time-ledger.md) | Parse natural-language time reports into your Notion database, asking when unsure. |
 | [To Issues](../../product-development/productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |

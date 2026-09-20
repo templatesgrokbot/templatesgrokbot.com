@@ -1,6 +1,6 @@
 # Writing & Content templates for Creatives
 
-Plan, write and edit articles, copy and documentation. 57 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 59 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -32,6 +32,8 @@ Plan, write and edit articles, copy and documentation. 57 Grok Bot templates, 13
 | [E-Learning Content Creator](../../education/writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
 | [Email Newsletter Writing Assistant](../../writers/writing-and-content/email-newsletter-writing-assistant.md) | Drafts, personalizes, and optimizes email newsletters from topic to performance analysis. |
 | [Film Script Scoring Analyst](film-script-scoring-analyst.md) | Analyzes film scripts to guide musical scoring with narrative and emotional insights. |
+| [Game Character Concept Generator](../../it-and-development/writing-and-content/game-character-concept-generator.md) | Turns game character ideas into fleshed-out concepts across genres and settings. |
+| [Game Story Development Assistant](../../it-and-development/writing-and-content/game-story-development-assistant.md) | Develops game stories, characters, and worlds with AI assistance. |
 | [Humanizer](../../writers/writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Interactive Content Ideas Generator](../../writers/writing-and-content/interactive-content-ideas-generator.md) | Generates and designs interactive content ideas for writers and creators. |
 | [Lyric Craft Assistant](lyric-craft-assistant.md) | Craft, refine, and adapt song lyrics with creative AI support. |

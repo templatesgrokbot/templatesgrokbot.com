@@ -1,6 +1,6 @@
 # Security & Compliance templates for Government
 
-Authorised security testing, audits and regulatory work. 113 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 128 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -32,7 +32,9 @@ Authorised security testing, audits and regulatory work. 113 Grok Bot templates,
 | [Cybersecurity Advisory Assistant](../../it-and-development/security-and-compliance/cybersecurity-advisory-assistant.md) | Cybersecurity advisor for IT managers: assessments, policies, training, incident plans, and monitoring. |
 | [Cybersecurity Assessment Guide](../../executives-and-strategy/security-and-compliance/cybersecurity-assessment-guide.md) | Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response. |
 | [Cybersecurity Guidance for IT Specialists](../../it-and-development/security-and-compliance/cybersecurity-guidance-for-it-specialists.md) | Cybersecurity guidance for IT specialists: threat prevention, incident response, and policy development. |
+| [Cybersecurity Policy and Risk Assistant](../../it-and-development/security-and-compliance/cybersecurity-policy-and-risk-assistant.md) | Cybersecurity policy, risk, and incident management support for technology managers. |
 | [Cybersecurity Strategy Developer](../../executives-and-strategy/security-and-compliance/cybersecurity-strategy-developer.md) | Develops and manages your organization's cybersecurity strategy from risk assessment to incident response. |
+| [Cybersecurity Trend Analyst](../../it-and-development/security-and-compliance/cybersecurity-trend-analyst.md) | Tracks cybersecurity trends and turns them into threat, risk, and policy guidance for your organization. |
 | [Data Governance Assistant](../../it-and-development/security-and-compliance/data-governance-assistant.md) | Data governance assistant that classifies, monitors, and audits data assets for compliance and quality. |
 | [Data Governance Strategist](../../executives-and-strategy/security-and-compliance/data-governance-strategist.md) | Data governance assistant for CDOs: classify, protect, and manage data assets. |
 | [Data Management Strategy Advisor](../../executives-and-strategy/security-and-compliance/data-management-strategy-advisor.md) | Guides CIOs through data management strategy, from classification to compliance. |
@@ -41,6 +43,7 @@ Authorised security testing, audits and regulatory work. 113 Grok Bot templates,
 | [EHS Safety Assistant](../../operations/security-and-compliance/ehs-safety-assistant.md) | Handles EHS hazard checks, training, compliance, and incident analysis for safety engineers. |
 | [Emergency Response Planner](../../operations/security-and-compliance/emergency-response-planner.md) | Emergency response planning assistant for safety engineers, from risk assessment to post-emergency review. |
 | [Encryption and Data Protection Advisor](../../it-and-development/security-and-compliance/encryption-and-data-protection-advisor.md) | Guides cybersecurity analysts through encryption and data protection decisions and implementations. |
+| [Encryption Strategy Developer](../../it-and-development/security-and-compliance/encryption-strategy-developer.md) | Develops encryption strategies from standards research to training programs. |
 | [Enterprise Risk Management Assistant](../../executives-and-strategy/security-and-compliance/enterprise-risk-management-assistant.md) | Identifies, assesses, and mitigates risks across your organization with structured analysis and reporting. |
 | [Environmental Compliance Assistant](../../legal/security-and-compliance/environmental-compliance-assistant.md) | Supports environmental compliance officers with research, documentation, audits, and reporting. |
 | [Ethical Compliance Assessment Assistant](../../legal/security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
@@ -56,8 +59,11 @@ Authorised security testing, audits and regulatory work. 113 Grok Bot templates,
 | [Incident Investigation Support Specialist](../../healthcare/security-and-compliance/incident-investigation-support-specialist.md) | Streamlines incident investigations from witness statements to final reports and policy. |
 | [Incident Response Analyst Playbook](../../it-and-development/security-and-compliance/incident-response-analyst-playbook.md) | Guides cybersecurity analysts through every step of incident response, from classification to post-mortem. |
 | [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [InfoSec Compliance Sentinel](../../it-and-development/security-and-compliance/infosec-compliance-sentinel.md) | Monitors regulatory changes, audits compliance, and reports status for information security analysts. |
+| [InfoSec Risk Register Bot](../../it-and-development/security-and-compliance/infosec-risk-register-bot.md) | Automates risk assessment workflows for information security analysts. |
 | [Infrastructure Audit Planner](../../it-and-development/security-and-compliance/infrastructure-audit-planner.md) | Conducts comprehensive IT infrastructure audits and delivers actionable reports. |
 | [International Procurement Compliance Guide](../../operations/security-and-compliance/international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
+| [IR Plan Builder for Security Teams](../../it-and-development/security-and-compliance/ir-plan-builder-for-security-teams.md) | Builds and maintains your incident response plan with threat analysis, training, and testing support. |
 | [IT Compliance and Governance Assistant](../../it-and-development/security-and-compliance/it-compliance-and-governance-assistant.md) | Tracks regulatory compliance across IT, drafts policies, and prepares audits for global IT leadership. |
 | [IT Compliance Assistant](../../it-and-development/security-and-compliance/it-compliance-assistant.md) | Guides IT compliance assessments, policies, monitoring, audits, and regulatory updates. |
 | [IT Governance Toolkit Builder](../../it-and-development/security-and-compliance/it-governance-toolkit-builder.md) | Builds and maintains the compliance and governance toolkit for your IT organization. |
@@ -71,6 +77,7 @@ Authorised security testing, audits and regulatory work. 113 Grok Bot templates,
 | [Operations Risk Assessment Planner](../../operations/security-and-compliance/operations-risk-assessment-planner.md) | Identifies, analyzes, prioritizes, and plans mitigation for operational risks, from supply chain to compliance, with prepared monitoring and… |
 | [Payroll Audit Support Assistant](../../finance/security-and-compliance/payroll-audit-support-assistant.md) | Supports payroll administrators in audit preparation, compliance checks, and corrective actions. |
 | [Payroll Compliance Guidance Assistant](../../finance/security-and-compliance/payroll-compliance-guidance-assistant.md) | Guides payroll administrators through compliance, audits, and regulatory updates. |
+| [Policy Compliance Drafting](../../it-and-development/security-and-compliance/policy-compliance-drafting.md) | Develops and maintains your organization's security policies, from risk assessment to incident response. |
 | [Policy Development and Review Assistant](policy-development-and-review-assistant.md) | Policy development and review assistant for regulatory affairs specialists. |
 | [Policy Development Support](../../legal/security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
 | [Policy Rule Compliance Copilot](policy-rule-compliance-copilot.md) | Regulatory compliance review assistant for policy makers, from identifying rules to maintaining records. |
@@ -101,21 +108,29 @@ Authorised security testing, audits and regulatory work. 113 Grok Bot templates,
 | [Safety Compliance Workflow Builder](../../healthcare/security-and-compliance/safety-compliance-workflow-builder.md) | Automates health and safety compliance monitoring, reporting, and training for specialists. |
 | [Safety Protocol Development Assistant](../../operations/security-and-compliance/safety-protocol-development-assistant.md) | Develops, reviews, and updates workplace safety protocols from research to training. |
 | [Safety Risk Assessment Copilot](../../healthcare/security-and-compliance/safety-risk-assessment-copilot.md) | Comprehensive risk assessment assistant for health and safety specialists, from hazard ID to compliance and training. |
+| [Security Architecture Consulting Assistant](../../it-and-development/security-and-compliance/security-architecture-consulting-assistant.md) | Guides security architecture consulting: risk, policy, compliance, design, and incident response. |
 | [Security Assessment Planner](../../it-and-development/security-and-compliance/security-assessment-planner.md) | Security assessment assistant for IT directors: scans, tests, reviews, and plans responses. |
 | [Security Audit and Review Assistant](../../it-and-development/security-and-compliance/security-audit-and-review-assistant.md) | Guides security audits and reviews from scoping to reporting. |
+| [Security Auditor](../../it-and-development/security-and-compliance/security-auditor.md) | Conducts systematic security audits, compliance assessments, and risk evaluations across systems and processes. |
+| [Security Awareness Training Planner](../../it-and-development/security-and-compliance/security-awareness-training-planner.md) | Builds and runs security awareness training, phishing simulations, and compliance education for employees. |
 | [Security Compliance](../../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
 | [Security Policy Development Assistant](../../it-and-development/security-and-compliance/security-policy-development-assistant.md) | Drafts, reviews, and aligns your organization's security policies with regulations and best practices. |
 | [Security Testing Strategist](../../it-and-development/security-and-compliance/security-testing-strategist.md) | Plans and reviews security testing for QA managers, from vulnerability scans to incident drills. |
 | [Security Threat Identifier](../../it-and-development/security-and-compliance/security-threat-identifier.md) | Proactive threat detection and security operations support for cybersecurity analysts. |
+| [Security Tool Customization Assistant](../../it-and-development/security-and-compliance/security-tool-customization-assistant.md) | Customizes security tools to fit your organization's needs and documents the work. |
 | [Security Training Program Builder](../../it-and-development/security-and-compliance/security-training-program-builder.md) | Builds and runs cybersecurity training and awareness programs for your organization. |
 | [Service Compliance Risk Auditor](../../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
 | [Software License Manager](../../it-and-development/security-and-compliance/software-license-manager.md) | Manages software licenses end-to-end: inventory, compliance, renewals, costs, and audits. |
 | [SysAdmin Compliance Documentation](../../it-and-development/security-and-compliance/sysadmin-compliance-documentation.md) | Compliance guidance and documentation support for systems administrators. |
 | [Tax Compliance Monitoring Assistant](../../finance/security-and-compliance/tax-compliance-monitoring-assistant.md) | Compliance monitoring assistant for tax analysts: reviews, validates, reports, and trains on tax compliance. No hype, no filler. |
+| [Technology Compliance Manager](../../it-and-development/security-and-compliance/technology-compliance-manager.md) | Tracks regulations, drafts policies, and prepares audits for technology compliance managers. |
+| [Threat Intelligence Analyst](../../it-and-development/security-and-compliance/threat-intelligence-analyst.md) | Gathers, analyzes, and prioritizes cyber threat intelligence for your organization's defense. |
 | [Transport Emissions Auditor](transport-emissions-auditor.md) | Turns transportation activity data into environmental impact assessments and compliance reports. |
 | [Transportation Compliance Assistant](transportation-compliance-assistant.md) | Keeps transportation compliance current, documented, and audit-ready. |
 | [Transportation Safety Protocol Builder](transportation-safety-protocol-builder.md) | Builds and maintains transportation safety protocols, training, and compliance systems. |
 | [User Access and Permissions Manager](../../it-and-development/security-and-compliance/user-access-and-permissions-manager.md) | Manages user access, permissions, and audits for systems administrators. |
+| [Vendor Security Assessment Assistant](../../it-and-development/security-and-compliance/vendor-security-assessment-assistant.md) | Assesses vendor security risks, compliance, and readiness for InfoSec analysts. |
+| [Vulnerability Management Analyst](../../it-and-development/security-and-compliance/vulnerability-management-analyst.md) | Analyzes, prioritizes, and reports on vulnerabilities to strengthen your security posture. |
 | [Vulnerability Management Assistant](../../it-and-development/security-and-compliance/vulnerability-management-assistant.md) | Vulnerability management assistant for cybersecurity analysts covering scan to report. |
 | [Whistleblower Policy Manager](../../legal/security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 | [Workplace Safety Audit Copilot](workplace-safety-audit-copilot.md) | Keeps your workplace compliant with health and safety rules, from policies to audits. |

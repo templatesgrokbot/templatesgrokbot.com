@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Management
 
-Infrastructure, deployments, monitoring and incident response. 18 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 19 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Infrastructure, deployments, monitoring and incident response. 18 Grok Bot templ
 | [Cloud Migration Strategy Planner](../../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
 | [Cloud Roadmap Navigator](../../it-and-development/cloud-and-devops/cloud-roadmap-navigator.md) | Guides IT managers through cloud strategy from assessment to optimization, with approvals before any action. |
 | [Cto Advisor](../../it-and-development/cloud-and-devops/cto-advisor.md) | Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy. |
+| [Digital Transformation Planner](../../it-and-development/cloud-and-devops/digital-transformation-planner.md) | Guides technology managers through digital transformation planning and execution. |
 | [Error Diagnostics Error Trace](../../it-and-development/cloud-and-devops/error-diagnostics-error-trace.md) | Implement error tracking, structured logging, and intelligent alerting for production systems. |
 | [Gh Review Requests](../../it-and-development/cloud-and-devops/gh-review-requests.md) | Fetch unread GitHub review requests for a specified team. |
 | [Incident Response Coordinator](incident-response-coordinator.md) | Coordinates incident response: triage, communication, documentation, analysis, and continuous improvement for service managers. |
