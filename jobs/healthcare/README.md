@@ -1,6 +1,6 @@
 # Grok Bot templates for Healthcare
 
-Clinicians, care teams and health administrators. **68 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Clinicians, care teams and health administrators. **69 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,7 +15,7 @@ Clinicians, care teams and health administrators. **68 ready-made Grok Bot templ
 | [Research](research/README.md) | 13 |
 | [Productivity](productivity/README.md) | 9 |
 | [Security & Compliance](security-and-compliance/README.md) | 9 |
-| [Self-Improvement](self-improvement/README.md) | 6 |
+| [Self-Improvement](self-improvement/README.md) | 7 |
 | [Writing & Content](writing-and-content/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
@@ -107,6 +107,7 @@ Clinicians, care teams and health administrators. **68 ready-made Grok Bot templ
 | [Satori](../education/self-improvement/satori.md) | A structured thinking partner blending psychology and philosophy for inner exploration. |
 | [Sleep Analyzer](self-improvement/sleep-analyzer.md) | Analyze sleep data and provide personalized improvement suggestions |
 | [Sleep Coach](self-improvement/sleep-coach.md) | Correlates what you did each day with how you slept and names the one habit to change. |
+| [Vocal Health Companion](../creatives/self-improvement/vocal-health-companion.md) | Daily vocal health guidance for singers and songwriters, from warm-ups to recovery. |
 | [Weightloss Analyzer](self-improvement/weightloss-analyzer.md) | Analyze weight data, calculate metabolism, and track energy deficit for safe weight loss. |
 
 ## Writing & Content

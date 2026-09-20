@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 106 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 125 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,6 +22,7 @@ Clean, query, chart and explain data. 106 Grok Bot templates, 30 of them filed i
 | [Apify Lead Generation](../../sales/data-analysis/apify-lead-generation.md) | Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors. |
 | [Apify Trend Analysis](apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
 | [Audience Compass Strategist](../../pr-and-communications/data-analysis/audience-compass-strategist.md) | Analyzes audience data to sharpen communication strategy and engagement. |
+| [Behavioral Data Strategist](../../executives-and-strategy/data-analysis/behavioral-data-strategist.md) | Analyzes consumer behavior data to deliver strategic marketing insights and campaign recommendations. |
 | [Blog Analytics Interpreter](../../writers/data-analysis/blog-analytics-interpreter.md) | Turns your blog and marketing data into clear, actionable insights for better decisions. |
 | [Blog Audience Insight Analyst](../../writers/data-analysis/blog-audience-insight-analyst.md) | Analyze your blog audience and tailor content with data-driven insights. |
 | [Brand Image Analyst](../../management/data-analysis/brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
@@ -30,11 +31,16 @@ Clean, query, chart and explain data. 106 Grok Bot templates, 30 of them filed i
 | [Brand Perception Insight Finder](../../science-and-research/data-analysis/brand-perception-insight-finder.md) | Analyzes brand perception from public and internal data to deliver actionable insights. |
 | [Buywhere Product Catalog](../../sales/data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
 | [Campaign Effectiveness Analyst](../../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
+| [Campaign Insights Analyst](../../executives-and-strategy/data-analysis/campaign-insights-analyst.md) | Analyzes campaign data to deliver actionable insights and optimization recommendations. |
+| [Campaign Performance Analyst](../../executives-and-strategy/data-analysis/campaign-performance-analyst.md) | Analyzes campaign data, calculates ROI, and delivers actionable insights for marketing decisions. |
 | [Churn Autopsy Analyst](../../customer-support/data-analysis/churn-autopsy-analyst.md) | Analyze client churn to find root causes and build a retention playbook. |
 | [Churn Prediction and Retention Assistant](../../customer-support/data-analysis/churn-prediction-and-retention-assistant.md) | Predict churn, segment at-risk customers, and generate retention actions from your customer data. |
 | [Churn Radar](../../sales/data-analysis/churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
+| [CMO Insight Builder](../../executives-and-strategy/data-analysis/cmo-insight-builder.md) | Turns marketing data into clear insights, reports, and strategic recommendations for CMOs. |
 | [Competitive Social Media Analyst](competitive-social-media-analyst.md) | Competitive social media analysis for marketing strategists, turning competitor data into actionable insights. |
 | [Consultant Segment Profiler](../../management/data-analysis/consultant-segment-profiler.md) | Customer segmentation assistant for management consultants to analyze, profile, and target customer segments. |
+| [Consumer Behavior Insights Analyst](../../executives-and-strategy/data-analysis/consumer-behavior-insights-analyst.md) | Turns customer conversations and data into actionable consumer behavior insights for marketing strategy. |
+| [Consumer Sentiment Analyst](../../executives-and-strategy/data-analysis/consumer-sentiment-analyst.md) | Aggregates, analyzes, and reports consumer sentiment across channels to guide competitive strategy. |
 | [Content Analytics Strategist](../../pr-and-communications/data-analysis/content-analytics-strategist.md) | Analyzes content performance, audience, and trends to guide your content strategy. |
 | [Content Performance Analyzer](content-performance-analyzer.md) | Analyzes content performance across channels and metrics to guide strategy. |
 | [Content ROI Analyst](content-roi-analyst.md) | Analyzes content performance and ROI to guide marketing decisions. |
@@ -44,6 +50,7 @@ Clean, query, chart and explain data. 106 Grok Bot templates, 30 of them filed i
 | [Customer Feedback Insight Assistant](../../customer-support/data-analysis/customer-feedback-insight-assistant.md) | Turns customer feedback into actionable insights and responses for customer success managers. |
 | [Customer Feedback Insights Analyst](../../sales/data-analysis/customer-feedback-insights-analyst.md) | Analyzes customer feedback to extract insights, track trends, and guide business development decisions. |
 | [Customer Insights Analyst](../../management/data-analysis/customer-insights-analyst.md) | Turns customer data into actionable insights for strategy and engagement. |
+| [Customer Insights Strategist](../../executives-and-strategy/data-analysis/customer-insights-strategist.md) | Turns customer feedback into actionable insights for innovation strategy. |
 | [Customer Journey Mapping Assistant](../../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
 | [Customer Lifetime Value Analyst](../../management/data-analysis/customer-lifetime-value-analyst.md) | Turns your customer data into CLV insights and action plans for growth. |
 | [Customer Panel Debate](customer-panel-debate.md) | Runs a structured debate among your buyer personas to test any decision before you commit. |
@@ -56,6 +63,7 @@ Clean, query, chart and explain data. 106 Grok Bot templates, 30 of them filed i
 | [Data Researcher](../../science-and-research/data-analysis/data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
 | [Data Storytelling](../../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Demand Forecasting Analyst](../../management/data-analysis/demand-forecasting-analyst.md) | Forecasts product demand from market data, sentiment, and trends for market research managers. |
+| [Digital Marketing Trends Analyst](../../executives-and-strategy/data-analysis/digital-marketing-trends-analyst.md) | Analyzes digital marketing data across channels to deliver actionable insights and trend forecasts. |
 | [E-commerce Pricing Optimizer](../../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [E-commerce Recommendation Optimizer](../../management/data-analysis/e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
 | [E-commerce UX Improvement Assistant](../../management/data-analysis/e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
@@ -63,7 +71,9 @@ Clean, query, chart and explain data. 106 Grok Bot templates, 30 of them filed i
 | [Email Marketing Analytics Assistant](../../sales/data-analysis/email-marketing-analytics-assistant.md) | Turns your email campaign data into clear insights and reports. |
 | [Excel Analysis](../../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
+| [Executive Social Media Intelligence](../../executives-and-strategy/data-analysis/executive-social-media-intelligence.md) | Turns social media data into actionable marketing insights for the Global Head of Marketing. |
 | [Experiment Readout](../../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
+| [Feedback Insight Interpreter](../../executives-and-strategy/data-analysis/feedback-insight-interpreter.md) | Analyzes customer feedback to deliver actionable insights for marketing strategy. |
 | [Feedback to Sales Actions](../../sales/data-analysis/feedback-to-sales-actions.md) | Turns customer feedback into clear insights and actions for sales and marketing. |
 | [Footballbin Predictions](footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
 | [Google Ads Performance Analyzer](google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
@@ -77,23 +87,31 @@ Clean, query, chart and explain data. 106 Grok Bot templates, 30 of them filed i
 | [Lead Scoring Model Builder](lead-scoring-model-builder.md) | Builds a custom lead scoring model from your win/loss data and scores current leads. |
 | [Lead Scoring Strategist](../../sales/data-analysis/lead-scoring-strategist.md) | Builds and refines lead scoring models, segments leads, and tracks performance for sales managers. |
 | [Market Basket Insights Assistant](../../management/data-analysis/market-basket-insights-assistant.md) | Turns retail transaction data into cross-selling, promotion, and inventory insights. |
+| [Market Intelligence Analyst](../../executives-and-strategy/data-analysis/market-intelligence-analyst.md) | Turns market data into strategic insights and reports for a Global Head of Marketing. |
 | [Market Price Optimizer](../../science-and-research/data-analysis/market-price-optimizer.md) | Analyzes market data to develop and recommend profitable pricing strategies. |
 | [Market Sizing Analysis](../../executives-and-strategy/data-analysis/market-sizing-analysis.md) | Calculate TAM, SAM, and SOM for startup market sizing with three methodologies. |
 | [Market Trend Analyzer](../../management/data-analysis/market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
+| [Market Trend Intelligence Analyst](../../executives-and-strategy/data-analysis/market-trend-intelligence-analyst.md) | Tracks market trends, competitors, and consumer shifts from data your team feeds it. |
 | [Marketing Analytics and Reporting Assistant](../../sales/data-analysis/marketing-analytics-and-reporting-assistant.md) | Turns your marketing data into clear reports, forecasts, and spend recommendations. |
 | [Marketing Attribution Analyst](marketing-attribution-analyst.md) | Models multi-touch attribution, validates channel performance with incrementality testing, and optimizes budget allocation. Uses confirmed data only. |
 | [Marketing Campaign Effectiveness Analyst](../../science-and-research/data-analysis/marketing-campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to measure effectiveness and guide strategy. |
 | [Marketing Data Analyst](../../sales/data-analysis/marketing-data-analyst.md) | Turns marketing data into insights, reports, and dashboards for digital marketing managers. |
+| [Marketing Data Decision Assistant](../../executives-and-strategy/data-analysis/marketing-data-decision-assistant.md) | Turns marketing data into decisions: analysis, segmentation, forecasting, and ROI. |
+| [Marketing Data Insights Assistant](../../executives-and-strategy/data-analysis/marketing-data-insights-assistant.md) | Turns marketing data into decisions: analysis, segmentation, prediction, and optimization. |
 | [Marketing Feedback Analyzer](../../sales/data-analysis/marketing-feedback-analyzer.md) | Turns customer feedback into actionable insights for marketing strategies. |
 | [Marketing Feedback Insight Analyst](../../executives-and-strategy/data-analysis/marketing-feedback-insight-analyst.md) | Analyzes customer feedback to deliver actionable marketing insights. |
+| [Marketing Feedback Insight Studio](../../executives-and-strategy/data-analysis/marketing-feedback-insight-studio.md) | Turns customer feedback into actionable insights for marketing strategy. |
 | [Marketing Metrics Analyst](../../management/data-analysis/marketing-metrics-analyst.md) | Turns your marketing data into clear metrics, insights, and decisions. |
 | [Mixpanel Automation](../../it-and-development/data-analysis/mixpanel-automation.md) | Automate Mixpanel analytics: events, funnels, cohorts, profiles, and JQL queries via Rube MCP. |
+| [Music Market Trend Analyst](../../creatives/data-analysis/music-market-trend-analyst.md) | Tracks music market trends to guide your creative and career decisions. |
 | [News Sentiment Engine](news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 | [Performance Report](../../executives-and-strategy/data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Podcast Content Analyzer](../../operations/data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
 | [Posthog Automation](posthog-automation.md) | Automate PostHog analytics, feature flags, and project management via Rube MCP. |
 | [PR Campaign Analytics Assistant](../../pr-and-communications/data-analysis/pr-campaign-analytics-assistant.md) | Turns PR campaign data into actionable insights, reports, and optimization recommendations. |
 | [Pricing Strategy Analyst](../../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
+| [Pricing Strategy Optimizer](../../executives-and-strategy/data-analysis/pricing-strategy-optimizer.md) | Analyzes market, customer, and cost data to optimize pricing strategies. |
+| [Product Positioning Insights Analyst](../../executives-and-strategy/data-analysis/product-positioning-insights-analyst.md) | Turns market and competitor data into product positioning insights and recommendations. |
 | [Promotional Effectiveness Analyst](../../management/data-analysis/promotional-effectiveness-analyst.md) | Analyzes promotional effectiveness from sales, feedback, and competitor data to recommend improvements and optimize budget. |
 | [Quarterly Business Review Builder](quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Reddit Thread Analyzer](reddit-thread-analyzer.md) | Analyze Reddit threads for sentiment, key arguments, and community consensus. |
@@ -101,6 +119,7 @@ Clean, query, chart and explain data. 106 Grok Bot templates, 30 of them filed i
 | [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Social Engagement Insights Analyst](social-engagement-insights-analyst.md) | Turns your social media engagement data into actionable strategy insights and campaign recommendations. |
 | [Social Media Analytics and Reporting Assistant](social-media-analytics-and-reporting-assistant.md) | Turns social media metrics into clear reports, insights, and recommendations for your marketing decisions. |
+| [Social Media Analytics Insight Engine](../../executives-and-strategy/data-analysis/social-media-analytics-insight-engine.md) | Turns social media data into actionable marketing insights for a global head of marketing. |
 | [Social Media Analytics Interpreter](social-media-analytics-interpreter.md) | Turns your social media analytics into clear insights and actionable strategy recommendations.​ |
 | [Social Media Engagement Analyst](../../management/data-analysis/social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
 | [Social Media Insights Analyst](../../it-and-development/data-analysis/social-media-insights-analyst.md) | Analyzes social media data to deliver insights, trends, and optimization strategies for business analysts. |

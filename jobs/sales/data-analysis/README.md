@@ -1,6 +1,6 @@
 # Data Analysis templates for Sales
 
-Clean, query, chart and explain data. 84 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 91 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,8 @@ Clean, query, chart and explain data. 84 Grok Bot templates, 68 of them filed in
 | [Client Feedback Insight Engine](client-feedback-insight-engine.md) | Turns client feedback into categorized, sentiment-scored insights with trend, churn, and competitive analysis for sales VPs. |
 | [Client Health Dashboard](../../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
 | [CRM Data Interpretation Assistant](crm-data-interpretation-assistant.md) | Turns CRM data into clear sales insights and forecasts for sales managers. |
+| [CRM Optimization Assistant](../../executives-and-strategy/data-analysis/crm-optimization-assistant.md) | Optimizes your CRM with data cleaning, segmentation, scoring, forecasting, and automation. |
+| [CRM Relationship Manager](../../executives-and-strategy/data-analysis/crm-relationship-manager.md) | Manages customer relationships end-to-end: leads, segmentation, communication, retention, and insights. |
 | [CRM Sales Intelligence Analyst](crm-sales-intelligence-analyst.md) | Turn CRM data into sales decisions: clean, segment, forecast, score, and act. |
 | [CSO Market Trend Intel](cso-market-trend-intel.md) | Market trend intelligence for CSOs: gather, analyze, forecast, and report on market movements. |
 | [CSO Pipeline Forecaster](cso-pipeline-forecaster.md) | Turns sales data into forecasts, scenarios, and pipeline insights for a CSO's decisions. No hype, just analysis. |
@@ -24,11 +26,13 @@ Clean, query, chart and explain data. 84 Grok Bot templates, 68 of them filed in
 | [Customer Engagement Assistant](../../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
 | [Customer Feedback Insight Engine](customer-feedback-insight-engine.md) | Turns customer feedback into actionable insights and response plans for sales leadership. |
 | [Customer Feedback Insights Analyst](customer-feedback-insights-analyst.md) | Analyzes customer feedback to extract insights, track trends, and guide business development decisions. |
+| [Customer Insight Strategist](../../executives-and-strategy/data-analysis/customer-insight-strategist.md) | Turns sales data into customer insights, forecasts, and strategy for an EVP of Sales. |
 | [Customer Report Generator](../../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
 | [Customer Success Manager](../../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 | [Dynamic Pricing Strategist](dynamic-pricing-strategist.md) | Analyzes market data and adjusts prices dynamically to maximize revenue for sales managers. |
 | [E-commerce Pricing Optimizer](../../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [Email Marketing Analytics Assistant](email-marketing-analytics-assistant.md) | Turns your email campaign data into clear insights and reports. |
+| [EVP Sales Forecast Strategist](../../executives-and-strategy/data-analysis/evp-sales-forecast-strategist.md) | Turns sales data into forecasts, scenarios, and insights for the EVP of Sales. |
 | [Feedback to Sales Actions](feedback-to-sales-actions.md) | Turns customer feedback into clear insights and actions for sales and marketing. |
 | [Footballbin Predictions](../../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
 | [Forecast Builder with Approvals](../../it-and-development/data-analysis/forecast-builder-with-approvals.md) | Builds, checks, and updates sales forecasts from your data, with approval before any action. |
@@ -77,9 +81,12 @@ Clean, query, chart and explain data. 84 Grok Bot templates, 68 of them filed in
 | [Sales Forecasting Assistant](sales-forecasting-assistant.md) | Turns your sales data and market context into forecasts, targets, and reports you can act on. |
 | [Sales Forecasting Intelligence Hub](sales-forecasting-intelligence-hub.md) | Turns sales data into forecasts, benchmarks, and actionable plans for a Vice President of Sales. |
 | [Sales Intel Strategist](sales-intel-strategist.md) | Turns market data into competitor, customer, and trend insights for sales strategy. |
+| [Sales Leadership Feedback Analyst](../../executives-and-strategy/data-analysis/sales-leadership-feedback-analyst.md) | Turns customer feedback into actionable insights for sales leadership. |
 | [Sales Manager Feedback Decoder](sales-manager-feedback-decoder.md) | Turns customer feedback into clear insights and actions for a sales manager. |
 | [Sales Performance Analyst](sales-performance-analyst.md) | Turns sales data into performance insights, forecasts, and coaching for sales teams. |
+| [Sales Performance Metrics Analyst](../../executives-and-strategy/data-analysis/sales-performance-metrics-analyst.md) | Analyzes sales performance data to deliver insights, forecasts, and reports for strategic decisions. |
 | [Sales Performance Tracking Assistant](sales-performance-tracking-assistant.md) | Turns your sales data into targets, forecasts, dashboards, and review reports. |
+| [Sales Segment Architect](../../executives-and-strategy/data-analysis/sales-segment-architect.md) | Turns customer data into actionable segments and targeted sales strategies. |
 | [Sales Strategy Trend Advisor](sales-strategy-trend-advisor.md) | Turns market data into trend insights, forecasts, and sales strategy recommendations. |
 | [Sales Strategy Trend Analyst](sales-strategy-trend-analyst.md) | Turns market data into trend insights, forecasts, and sales strategy recommendations. |
 | [Sales Team Performance Analyst](sales-team-performance-analyst.md) | Analyze sales team performance and drive strategy with data-backed insights and recommendations. |

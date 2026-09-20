@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Sales
 
-Prospecting, outreach, proposals and negotiating terms. 91 Grok Bot templates, 87 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 97 Grok Bot templates, 87 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,6 +25,9 @@ Prospecting, outreach, proposals and negotiating terms. 91 Grok Bot templates, 8
 | [Deal Momentum Analyzer](deal-momentum-analyzer.md) | Score deal velocity and predict close probability from engagement patterns. |
 | [Deal Review Coach](deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
 | [Digital Sales Strategy Assistant](digital-sales-strategy-assistant.md) | Turns sales data into strategy: research, segment, create, and optimize digital sales. |
+| [Digital Sales Transformation Planner](../../executives-and-strategy/sales-and-negotiation/digital-sales-transformation-planner.md) | Digital sales transformation assistant for EVPs: research, segment, create, automate, track, train, and personalize. |
+| [EVP Sales Competitive Intel](../../executives-and-strategy/sales-and-negotiation/evp-sales-competitive-intel.md) | Turns competitor data into actionable sales intelligence for the EVP of Sales. |
+| [EVP Sales Insight Studio](../../executives-and-strategy/sales-and-negotiation/evp-sales-insight-studio.md) | Turns sales data into strategy: research, segment, forecast, and refine your sales approach. |
 | [Feedback Insight and Response Assistant](feedback-insight-and-response-assistant.md) | Turns customer feedback into insights, responses, and action plans for technical sales teams. |
 | [Freight Dispute Resolution Assistant](freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
 | [Freight Load Matching Assistant](freight-load-matching-assistant.md) | Matches loads to carriers, negotiates rates, and manages freight documentation from search to delivery. |
@@ -53,6 +56,7 @@ Prospecting, outreach, proposals and negotiating terms. 91 Grok Bot templates, 8
 | [Pharma Sales Strategy Assistant](pharma-sales-strategy-assistant.md) | Analyzes pharma market data and crafts sales strategies, pitches, and forecasts for representatives. |
 | [Pricing Strategist for BDM Wins](pricing-strategist-for-bdm-wins.md) | Develops and optimizes pricing strategies from analysis to execution for business development managers. |
 | [Pricing Strategy Drafts for Sales Managers](pricing-strategy-drafts-for-sales-managers.md) | Develops and refines pricing strategies from market data to implementation. |
+| [Pricing Strategy Optimizer for Sales Execs](../../executives-and-strategy/sales-and-negotiation/pricing-strategy-optimizer-for-sales-execs.md) | Optimizes pricing strategy through market analysis, segmentation, elasticity, and testing. |
 | [Product Customization Advisor](product-customization-advisor.md) | Guides technical sales reps through product customization advice from analysis to post-sales support. |
 | [Product Presentation Builder](product-presentation-builder.md) | Build and run product presentations that persuade, engage, and convert. |
 | [Proposal Creation Assistant](proposal-creation-assistant.md) | Crafts tailored, winning proposals from research to follow-up for business development managers. |
@@ -75,6 +79,7 @@ Prospecting, outreach, proposals and negotiating terms. 91 Grok Bot templates, 8
 | [Sales Forecast Builder](sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
 | [Sales Incentive Plan Designer](sales-incentive-plan-designer.md) | Designs and manages sales incentive plans from data analysis to rollout. |
 | [Sales Methodology Implementer](sales-methodology-implementer.md) | Implements proven sales methodologies (MEDDIC, BANT, Sandler, Challenger, SPIN) across your team. |
+| [Sales Pitch Enhancement Assistant](../../executives-and-strategy/sales-and-negotiation/sales-pitch-enhancement-assistant.md) | Enhance sales pitches with research, content, design, and strategy support. |
 | [Sales Presentation Builder](sales-presentation-builder.md) | Builds complete sales presentations from audience research to leave-behind documents. |
 | [Sales Process Automation Assistant](sales-process-automation-assistant.md) | Automates your sales workflow from lead generation to contract management and forecasting. |
 | [Sales Process Optimizer](sales-process-optimizer.md) | Analyzes sales data, segments customers, optimizes pipelines, and generates tailored sales materials. |
@@ -84,6 +89,7 @@ Prospecting, outreach, proposals and negotiating terms. 91 Grok Bot templates, 8
 | [Sales War Room Intel](sales-war-room-intel.md) | Turns competitor data into actionable sales intelligence for global sales leaders. |
 | [Salesforce Automation](salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
 | [Segment To Sales Blueprint](segment-to-sales-blueprint.md) | Turns customer data into segments, profiles, and sales strategies for a sales manager. |
+| [Strategic Partnership Development Assistant](../../executives-and-strategy/sales-and-negotiation/strategic-partnership-development-assistant.md) | Strategic partnership research, outreach, and deal support for sales leadership. |
 | [Sustainable Property Assistant](../../real-estate-and-construction/sales-and-negotiation/sustainable-property-assistant.md) | Helps real estate brokers market, advise on, and close deals for sustainable and green properties. |
 | [Technical Cross-Sell Upsell Assistant](technical-cross-sell-upsell-assistant.md) | Cross-sell and upsell technical products with personalized recommendations and persuasive follow-ups. |
 | [Technical Sales CRM Assistant](technical-sales-crm-assistant.md) | Manages client relationships end-to-end for technical sales reps. |

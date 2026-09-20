@@ -1,6 +1,6 @@
 # Writing & Content templates for Writers
 
-Plan, write and edit articles, copy and documentation. 108 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 109 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -53,6 +53,7 @@ Plan, write and edit articles, copy and documentation. 108 Grok Bot templates, 6
 | [Legal Document Drafter](../../legal/writing-and-content/legal-document-drafter.md) | Drafts, reviews, and researches legal documents for lawyers. |
 | [Long Novel Deconstructor](long-novel-deconstructor.md) | 深度拆解长篇网文，产出可复用的写作框架与节奏地图。 |
 | [Long-Form Story Writer](long-form-story-writer.md) | Plans and writes long web novels from premise to chapters, with structure-first control. |
+| [Lyric Craft Assistant](../../creatives/writing-and-content/lyric-craft-assistant.md) | Craft, refine, and adapt song lyrics with creative AI support. |
 | [Magazine Blog Post Editor](magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
 | [Manuscript Evaluation Assistant](../../pr-and-communications/writing-and-content/manuscript-evaluation-assistant.md) | Manuscript evaluation assistant for editors: assess quality, verify sources, and guide revisions. |
 | [Markdown Syntax Formatter](markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |

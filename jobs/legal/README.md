@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **180 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **187 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,20 +11,20 @@ Contracts, research, compliance and review. **180 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 69 |
-| [Research](research/README.md) | 50 |
+| [Security & Compliance](security-and-compliance/README.md) | 72 |
+| [Research](research/README.md) | 52 |
 | [Data Analysis](data-analysis/README.md) | 22 |
 | [Knowledge Management](knowledge-management/README.md) | 10 |
 | [Writing & Content](writing-and-content/README.md) | 10 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 5 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
 | [Support & Community](support-and-community/README.md) | 4 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
+| [Productivity](productivity/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Art](generative-art/README.md) | 1 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
-| [Productivity](productivity/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
 
 ## Security & Compliance
@@ -52,6 +52,7 @@ Contracts, research, compliance and review. **180 ready-made Grok Bot templates*
 | [Contract Termination Guidance](security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
 | [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
 | [Data Privacy Compliance](security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
+| [Data Privacy Compliance Guide](../executives-and-strategy/security-and-compliance/data-privacy-compliance-guide.md) | Guides CTOs through data privacy compliance, from policy review to breach response and audits. |
 | [Docs Generator](../it-and-development/security-and-compliance/docs-generator.md) | Generate structured security reports from completed analysis with evidence-backed templates. |
 | [Environmental Compliance Assistant](security-and-compliance/environmental-compliance-assistant.md) | Supports environmental compliance officers with research, documentation, audits, and reporting. |
 | [Ethical Compliance Assessment Assistant](security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
@@ -89,7 +90,9 @@ Contracts, research, compliance and review. **180 ready-made Grok Bot templates*
 | [Regulation Risk Drafts for Engineers](../science-and-research/security-and-compliance/regulation-risk-drafts-for-engineers.md) | Tracks environmental laws, flags compliance risks, and drafts the paperwork to stay legal. |
 | [Regulatory Compliance Assistant](../customer-support/security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
 | [Regulatory Compliance Monitor](../operations/security-and-compliance/regulatory-compliance-monitor.md) | Tracks regulatory changes, audits compliance, and reports status for global operations. |
+| [Regulatory Impact Intelligence Analyst](../executives-and-strategy/security-and-compliance/regulatory-impact-intelligence-analyst.md) | Tracks regulatory changes and turns them into risk, opportunity, and strategy intelligence. |
 | [Regulatory Requirements to Audit Reports](../it-and-development/security-and-compliance/regulatory-requirements-to-audit-reports.md) | Turns regulatory requirements into compliance checks, audits, and reports for business analysts. |
+| [Risk and Compliance Assistant](../executives-and-strategy/security-and-compliance/risk-and-compliance-assistant.md) | Assesses risks, monitors compliance, and guides incident response for your organization. |
 | [Risk Assessment and Analysis Assistant](security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
 | [Se Responsible Ai Code](../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
 | [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
@@ -127,6 +130,7 @@ Contracts, research, compliance and review. **180 ready-made Grok Bot templates*
 | [Freedom to Operate Analyst](research/freedom-to-operate-analyst.md) | Finds patent risks and opportunities before you commit to a product. |
 | [International Patent Filing Assistant](research/international-patent-filing-assistant.md) | Guides patent agents through international filing, from search to strategy. |
 | [IP Management Assistant](research/ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
+| [IP Monitoring and Strategy Assistant](../executives-and-strategy/research/ip-monitoring-and-strategy-assistant.md) | Monitors IP filings, competitors, and legal shifts; flags risks and opportunities for your strategy. |
 | [IP Paralegal Assistant](research/ip-paralegal-assistant.md) | Handles trademark, patent, copyright, and trade secret tasks for paralegals. |
 | [Lease Reader](research/lease-reader.md) | Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on. |
 | [Legal Auction Analyst](research/legal-auction-analyst.md) | Analyzes nullities, family homestead and fiduciary alienation in real estate auctions under the CPC and Law 9.514/97. |
@@ -144,6 +148,7 @@ Contracts, research, compliance and review. **180 ready-made Grok Bot templates*
 | [Patent Research and Analysis Assistant](../product-development/research/patent-research-and-analysis-assistant.md) | Patent research and analysis assistant for R&D engineers, from prior art to strategy. |
 | [Patent Research and Guidance Assistant](../science-and-research/research/patent-research-and-guidance-assistant.md) | Patent research and guidance assistant for research associates. |
 | [Patent Research Assistant](research/patent-research-assistant.md) | Runs patent research tasks: searches, analyses, drafting support, and monitoring updates. |
+| [Patent Strategy Analyst](../executives-and-strategy/research/patent-strategy-analyst.md) | Guides patent research, analysis, and strategy for innovation strategists. |
 | [Prior Art Analysis Assistant](research/prior-art-analysis-assistant.md) | Streamlines prior art search, analysis, and reporting for patent agents. |
 | [Regulatory Affairs Assistant](research/regulatory-affairs-assistant.md) | Handles regulatory research, compliance tracking, reporting, audits, and training for legal assistants. |
 | [Regulatory Communication Assistant](research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
@@ -213,6 +218,16 @@ Contracts, research, compliance and review. **180 ready-made Grok Bot templates*
 | [Patent Document Drafter](writing-and-content/patent-document-drafter.md) | Drafts and manages patent documents, from applications to litigation support, for patent agents. |
 | [Professional Proofreader](../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Compliance Training Material Creator](teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
+| [Compliance Training Program Developer](teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
+| [Legal Education and Training Assistant](teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
+| [Legal Training Material Creator](teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
+| [Music Copyright Navigator](../creatives/teaching-and-tutoring/music-copyright-navigator.md) | Guides vocal artists and songwriters through music copyright law, licensing, and royalties. |
+
 ## Sales & Negotiation
 
 | Template | What it does |
@@ -231,14 +246,12 @@ Contracts, research, compliance and review. **180 ready-made Grok Bot templates*
 | [Insurance Dispute Resolution Assistant](../customer-support/support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
 | [Legal Intake Concierge](support-and-community/legal-intake-concierge.md) | Manages client communication for lawyers, from intake to follow-up, with approval gates. |
 
-## Teaching & Tutoring
+## Productivity
 
 | Template | What it does |
 |---|---|
-| [Compliance Training Material Creator](teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
-| [Compliance Training Program Developer](teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
-| [Legal Education and Training Assistant](teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
-| [Legal Training Material Creator](teaching-and-tutoring/legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
+| [Legal Billing and Timekeeping Assistant](productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
+| [Royalty and Rights Manager](../creatives/productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
 
 ## Coding
 
@@ -269,12 +282,6 @@ Contracts, research, compliance and review. **180 ready-made Grok Bot templates*
 | Template | What it does |
 |---|---|
 | [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Legal Billing and Timekeeping Assistant](productivity/legal-billing-and-timekeeping-assistant.md) | Tracks billable time, expenses, and invoices for paralegals. |
 
 ## Speech-To-Text
 

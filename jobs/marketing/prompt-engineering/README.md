@@ -1,11 +1,12 @@
 # Prompt Engineering templates for Marketing
 
-Write, test and improve prompts and instructions. 2 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Write, test and improve prompts and instructions. 3 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Marketing Prompt Crafter](../../executives-and-strategy/prompt-engineering/marketing-prompt-crafter.md) | Turns your marketing topics into clear, actionable AI prompts. |
 | [Prompt Engineering](../../it-and-development/prompt-engineering/prompt-engineering.md) | Design, test, and refine prompts for reliable LLM outputs. |
 | [Prompt Library](../../writers/prompt-engineering/prompt-library.md) | Curated prompt templates for coding, writing, analysis, and creative tasks. |
 

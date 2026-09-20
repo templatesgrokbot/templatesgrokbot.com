@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **182 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **190 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,9 +11,9 @@ Accounting, budgeting, analysis and risk. **182 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 106 |
+| [Data Analysis](data-analysis/README.md) | 112 |
 | [Productivity](productivity/README.md) | 18 |
-| [Research](research/README.md) | 12 |
+| [Research](research/README.md) | 14 |
 | [Security & Compliance](security-and-compliance/README.md) | 11 |
 | [Coding](coding/README.md) | 9 |
 | [Office Tools](office-tools/README.md) | 8 |
@@ -46,6 +46,7 @@ Accounting, budgeting, analysis and risk. **182 ready-made Grok Bot templates** 
 | [Budget and Forecast Assistant](../operations/data-analysis/budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Budget Forecast Assistant](../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Budget Forecasting Assistant](data-analysis/budget-forecasting-assistant.md) | Build and maintain accurate budget forecasts from your financial data. |
+| [Budget Management Assistant](../executives-and-strategy/data-analysis/budget-management-assistant.md) | Analyzes budgets, tracks spending, and forecasts to keep your company's finances on track. |
 | [Cash Flow Forecaster](data-analysis/cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your bank, AR, AP, and payroll data, flagging crunch weeks. |
 | [Cash Flow Management Assistant](data-analysis/cash-flow-management-assistant.md) | Cash flow forecasting, tracking, reporting, and optimization for accountants, from data to decisions. |
 | [CEO Financial Forecaster](../executives-and-strategy/data-analysis/ceo-financial-forecaster.md) | Turns your financial data into forecasts, models, and reports for confident decisions. |
@@ -67,22 +68,26 @@ Accounting, budgeting, analysis and risk. **182 ready-made Grok Bot templates** 
 | [Energy Market Analysis Assistant](../science-and-research/data-analysis/energy-market-analysis-assistant.md) | Analyzes energy market data, forecasts trends, and assesses risks for energy engineers. |
 | [Energy Procurement](../operations/data-analysis/energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
 | [ESG Analysis Assistant](../science-and-research/data-analysis/esg-analysis-assistant.md) | Turns ESG data into clear reports, risk checks, and improvement plans for sustainability analysts. |
+| [EVP Business Development Forecaster](../executives-and-strategy/data-analysis/evp-business-development-forecaster.md) | Turns historical financial data into forecasts, scenarios, and reports for business development decisions. |
 | [Excel Analysis](data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Executive Dashboard Generator](../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Executive Forecast Report Builder](../management/data-analysis/executive-forecast-report-builder.md) | Turns financial data into forecasts, scenarios, and reports for senior management decisions. |
 | [Executive Market Trend Forecaster](../management/data-analysis/executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
+| [Executive Risk Intelligence Assistant](../executives-and-strategy/data-analysis/executive-risk-intelligence-assistant.md) | Turns your risk data into actionable insights and keeps your risk posture current. |
 | [Expense Folder Auditor](../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Expense Tracking and Analysis Assistant](data-analysis/expense-tracking-and-analysis-assistant.md) | Analyzes, categorizes, and reports expenses for accurate financial tracking and cost control. |
 | [Financial Data Interpreter](data-analysis/financial-data-interpreter.md) | Interprets financial data and drafts reports for accountants. |
 | [Financial Document Parser](data-analysis/financial-document-parser.md) | Extracts structured data from financial documents and categorizes expenses. |
 | [Financial Forecast Assistant](../it-and-development/data-analysis/financial-forecast-assistant.md) | Builds and maintains your financial forecasts from data collection to stakeholder reporting. |
 | [Financial Forecasting Assistant](../management/data-analysis/financial-forecasting-assistant.md) | Turns your business unit's financial data into forecasts, reports, and risk insights. |
+| [Financial Forecasting Executive Assistant](../executives-and-strategy/data-analysis/financial-forecasting-executive-assistant.md) | Turns historical financial data into forecasts, scenarios, and reports for executive decisions. |
 | [Financial Modeling Assistant](data-analysis/financial-modeling-assistant.md) | Builds financial models and analyses for accounting decisions. |
 | [Financial Modeling Consultant](../management/data-analysis/financial-modeling-consultant.md) | Builds and analyzes financial models for management consulting decisions. |
 | [Financial Reporting Assistant](data-analysis/financial-reporting-assistant.md) | Prepares, analyzes, and reviews financial reports with compliance and stakeholder insights. |
 | [Freight Broker Financial Analyst](../sales/data-analysis/freight-broker-financial-analyst.md) | Analyzes freight brokerage finances and market data to guide profitable decisions. |
 | [Insurance Finance Reporting Assistant](../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Investment Analysis Assistant](data-analysis/investment-analysis-assistant.md) | Analyzes investments, builds valuations, and drafts reports for accountant decisions. |
+| [Investment Opportunity Assessment Assistant](../executives-and-strategy/data-analysis/investment-opportunity-assessment-assistant.md) | Assesses investment opportunities with market, financial, and risk analysis for informed decisions. |
 | [Invoice Organizer](../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
 | [IT Budget Forecasting Assistant](../it-and-development/data-analysis/it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
 | [Job Profitability Analyzer](data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
@@ -91,6 +96,7 @@ Accounting, budgeting, analysis and risk. **182 ready-made Grok Bot templates** 
 | [Longbridge](data-analysis/longbridge.md) | 125+ read-only market data capabilities for HK/US/A-share/SG stocks via Longbridge. |
 | [Longbridge Fundamentals](data-analysis/longbridge-fundamentals.md) | Pull financial statements, valuation multiples, and company profiles for HK/US/A-share/Singapore stocks via Longbridge. |
 | [Longbridge Market Data](data-analysis/longbridge-market-data.md) | Real-time quotes, K-lines, order book, trades, capital flow, sentiment, and IPO data for HK/US/A/SG markets via Longbridge. |
+| [M&A Analysis Assistant](../executives-and-strategy/data-analysis/m-a-analysis-assistant.md) | Guides M&A analysis from market research to post-merger monitoring with data-driven insights. |
 | [M&A Evaluation Assistant](../management/data-analysis/m-a-evaluation-assistant.md) | M&A evaluation assistant for senior managers: screening, due diligence, valuation, integration, and post-merger analysis. |
 | [M&A Financial Analysis Assistant](data-analysis/m-a-financial-analysis-assistant.md) | Supports accountants through every stage of M&A, from due diligence to post-merger analysis. |
 | [Market Sizing Analysis](../executives-and-strategy/data-analysis/market-sizing-analysis.md) | Calculate TAM, SAM, and SOM for startup market sizing with three methodologies. |
@@ -166,9 +172,11 @@ Accounting, budgeting, analysis and risk. **182 ready-made Grok Bot templates** 
 | Template | What it does |
 |---|---|
 | [Auction Notice Analyst](../legal/research/auction-notice-analyst.md) | Analyzes judicial and extrajudicial auction notices, flags hidden risks, and rates the opportunity. |
+| [Deal Sourcing Analyst](../executives-and-strategy/research/deal-sourcing-analyst.md) | M&A analysis assistant for due diligence, market research, and deal sourcing. |
 | [Grant Finder](../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
 | [Helium Mcp](../science-and-research/research/helium-mcp.md) | Search news with bias analysis, get balanced perspectives, and look up live stock/options data. |
 | [Longbridge Content](research/longbridge-content.md) | Fetches stock news, filings, community topics, and SEC EDGAR analysis via Longbridge, no login, in your language. |
+| [M&A Strategic Analysis Assistant](../executives-and-strategy/research/m-a-strategic-analysis-assistant.md) | Streamlines M&A strategic analysis from market scan to post-merger review. |
 | [Maxia](../operations/research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
 | [Research and Reporting Assistant](research/research-and-reporting-assistant.md) | Gathers, analyzes, and reports research data for administrative finance support. |
 | [Screen Adverse Media](../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |

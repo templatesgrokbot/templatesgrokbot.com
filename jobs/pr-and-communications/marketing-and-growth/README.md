@@ -1,6 +1,6 @@
 # Marketing & Growth templates for PR and Communications
 
-Campaigns, ads, conversion and launch plans. 51 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 56 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,6 +22,7 @@ Campaigns, ads, conversion and launch plans. 51 Grok Bot templates, 23 of them f
 | [Content Marketing Assistant](content-marketing-assistant.md) | Drafts, optimizes, and plans all your content marketing from research to distribution. |
 | [Content Strategy](../../marketing/marketing-and-growth/content-strategy.md) | Plan content strategy, topic clusters, and editorial roadmap for traffic and leads. |
 | [Content Strategy Planner](../../management/marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
+| [Crisis Comms Strategist](../../executives-and-strategy/marketing-and-growth/crisis-comms-strategist.md) | Plans, drafts, monitors, and evaluates crisis communications for the Global Head of Marketing. |
 | [Crisis Communication Assistant](crisis-communication-assistant.md) | Prepares and guides crisis communication materials, monitoring, and training for PR professionals. |
 | [Crisis Communication Strategist](crisis-communication-strategist.md) | Builds and runs your crisis communication strategy, from monitoring to recovery. |
 | [Digital Communication Trends Assistant](digital-communication-trends-assistant.md) | Tracks digital communication trends and builds audience engagement campaigns for communication managers. |
@@ -30,6 +31,8 @@ Campaigns, ads, conversion and launch plans. 51 Grok Bot templates, 23 of them f
 | [Event Lifecycle Orchestrator](event-lifecycle-orchestrator.md) | Plans, promotes, and evaluates your events from invitations to post-event analysis. |
 | [Event Promotion Planner](../../management/marketing-and-growth/event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
 | [Executing Marketing Campaigns](../../marketing/marketing-and-growth/executing-marketing-campaigns.md) | Plans, creates, and optimizes marketing campaigns across channels with measurable results. |
+| [Global Brand Management Assistant](../../executives-and-strategy/marketing-and-growth/global-brand-management-assistant.md) | Brand management assistant for global marketing leaders, from positioning to crisis response. |
+| [Global Crisis Comms Strategist](../../executives-and-strategy/marketing-and-growth/global-crisis-comms-strategist.md) | Prepares, runs, and reviews crisis communication for a global marketing head. |
 | [Headline Psychologist](../../marketing/marketing-and-growth/headline-psychologist.md) | Engineer headlines that create curiosity gaps and trigger attention without clickbait. |
 | [Hotel Reputation Manager](../../hospitality-and-events/marketing-and-growth/hotel-reputation-manager.md) | Manages hotel online reputation from review monitoring to crisis response. |
 | [Influencer Campaign Orchestrator](influencer-campaign-orchestrator.md) | Finds, vets, pitches, and manages influencer partnerships from research to ROI reporting. |
@@ -39,10 +42,12 @@ Campaigns, ads, conversion and launch plans. 51 Grok Bot templates, 23 of them f
 | [Journey Map Content Builder](journey-map-content-builder.md) | Maps and improves customer journeys from data to content. |
 | [Loss Aversion Designer](../../marketing/marketing-and-growth/loss-aversion-designer.md) | Frame messages using loss aversion to drive action without fear-mongering. |
 | [Marketing Automation Assistant](marketing-automation-assistant.md) | Automates your marketing campaigns, content, and analytics from one chat. |
+| [Marketing Crisis Strategist](../../executives-and-strategy/marketing-and-growth/marketing-crisis-strategist.md) | Plans and prepares crisis management strategies, communications, and training for marketing leadership. |
 | [Marketing VP Crisis Response](../../executives-and-strategy/marketing-and-growth/marketing-vp-crisis-response.md) | Plans and executes crisis communication for marketing VPs, from scenario prep to live response support. |
 | [Media Relations Assistant](media-relations-assistant.md) | Builds media lists, drafts press materials, and tracks coverage for PR specialists. |
 | [Open Source Marketing](../../marketing/marketing-and-growth/open-source-marketing.md) | Market open source projects authentically with GitHub optimization and community building. |
 | [Optimize Your Brand SERP](../../marketing/marketing-and-growth/brand-serp-optimierung.md) | Audits your brand's Google SERP and prescribes the five highest-impact fixes to improve it. |
+| [Perception Insight Strategist](../../executives-and-strategy/marketing-and-growth/perception-insight-strategist.md) | Analyzes brand perception from social, reviews, surveys, and media to guide strategy. |
 | [Press Event Coordination Assistant](press-event-coordination-assistant.md) | Coordinates press event logistics, media outreach, and coverage from research to follow-up. |
 | [Public Relations](public-relations.md) | Help you earn press coverage through journalist pitching and media strategy. |
 | [Reputation Management Monitor](reputation-management-monitor.md) | Monitors brand sentiment, manages crises, and builds reputation strategies from social and review data. |

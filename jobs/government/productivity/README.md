@@ -1,6 +1,6 @@
 # Productivity templates for Government
 
-Plan, prioritise and clear the recurring admin. 31 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 35 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,10 +9,13 @@ Plan, prioritise and clear the recurring admin. 31 Grok Bot templates, 0 of them
 | [Admin Task Prioritizer](../../finance/productivity/admin-task-prioritizer.md) | Prioritizes tasks, tracks deadlines, and coordinates schedules for administrative assistants. |
 | [Calibration and Maintenance Scheduler](../../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
 | [Change Management Strategist](../../operations/productivity/change-management-strategist.md) | Plans and manages organizational change from stakeholder analysis to sustainability. |
+| [Change Management Strategy Planner](../../executives-and-strategy/productivity/change-management-strategy-planner.md) | Plans and guides organizational change from stakeholder analysis to continuous improvement. |
 | [Change Management Support Assistant](../../management/productivity/change-management-support-assistant.md) | Change management support for project managers: analysis, planning, communication, training, and evaluation in one assistant. |
+| [CIO Project Command Center](../../executives-and-strategy/productivity/cio-project-command-center.md) | Supports CIOs with project management planning, tracking, and reporting. |
 | [Crisis Management Planner](../../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
 | [Crisis Management Planning Assistant](../../operations/productivity/crisis-management-planning-assistant.md) | Builds and maintains your crisis management plans, protocols, and training. |
 | [Emergency Response Planning Assistant](../../operations/productivity/emergency-response-planning-assistant.md) | Prepares logistics emergency response plans, contacts, drills, and continuity strategies. |
+| [Enterprise Crisis Plan Architect](../../executives-and-strategy/productivity/enterprise-crisis-plan-architect.md) | Builds and maintains a complete crisis management plan for your organization. |
 | [Hiring Scorecard Builder](../../human-resources/productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
 | [Learning Culture Builder](../../education/productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
 | [Meeting Coordination Assistant](../../finance/productivity/meeting-coordination-assistant.md) | Handles scheduling, invitations, logistics, agendas, reminders, RSVPs, minutes, virtual setups, materials, follow-ups, surveys, and travel for… |
@@ -23,6 +26,7 @@ Plan, prioritise and clear the recurring admin. 31 Grok Bot templates, 0 of them
 | [Process Improvement Comms Architect](../../operations/productivity/process-improvement-comms-architect.md) | Plans stakeholder communication for process improvement projects, from stakeholder mapping to risk assessment. |
 | [Process Mapping and Improvement Assistant](../../operations/productivity/process-mapping-and-improvement-assistant.md) | Maps and improves your organization's processes from discovery to continuous improvement. |
 | [Professional Development Tracker](../../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
+| [Project Management Coordination Assistant](../../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
 | [Project Planning Assistant](../../management/productivity/project-planning-assistant.md) | Assists project managers with planning, analysis, and documentation tasks. |
 | [Project Progress Tracker](../../management/productivity/project-progress-tracker.md) | Tracks project progress, milestones, resources, issues, risks, docs, stakeholders, dependencies, performance, and budget. |
 | [Project Risk Assessment Assistant](../../management/productivity/project-risk-assessment-assistant.md) | Guides project managers through risk identification, analysis, mitigation, and communication. |

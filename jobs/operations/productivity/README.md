@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 179 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 184 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,7 +30,9 @@ Plan, prioritise and clear the recurring admin. 179 Grok Bot templates, 114 of t
 | [Conductor Manage](conductor-manage.md) | Manage Conductor track lifecycle: archive, restore, delete, rename, and cleanup. |
 | [Conductor Status](../../management/productivity/conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
 | [Construction Workforce Allocator](../../real-estate-and-construction/productivity/construction-workforce-allocator.md) | Optimizes construction workforce scheduling, allocation, tracking, and development. |
+| [COO Tech Integration Optimizer](../../executives-and-strategy/productivity/coo-tech-integration-optimizer.md) | Plans, executes, and optimizes technology integration for COOs. |
 | [Credit Card Max](../../finance/productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
+| [Crisis Management Coordinator](../../executives-and-strategy/productivity/crisis-management-coordinator.md) | Prepares, coordinates, and reviews crisis response for COOs. |
 | [Crisis Management Logistics Assistant](crisis-management-logistics-assistant.md) | Crisis management support for logistics engineers, from risk assessment to recovery planning. |
 | [Crisis Management Operations Assistant](crisis-management-operations-assistant.md) | Prepares, coordinates, and reviews crisis management for operations managers. |
 | [Crisis Management Planner](../../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
@@ -134,6 +136,7 @@ Plan, prioritise and clear the recurring admin. 179 Grok Bot templates, 114 of t
 | [Production Schedule Optimizer](production-schedule-optimizer.md) | Builds, monitors, and optimizes production schedules, resolving conflicts and keeping stakeholders informed. |
 | [Production Supplier Lifecycle Copilot](production-supplier-lifecycle-copilot.md) | Manages supplier relationships end-to-end: selection, contracts, performance, risk, and communication. |
 | [Production Technology Integration Planner](production-technology-integration-planner.md) | Plans and optimizes production technology integration from selection to monitoring. |
+| [Project Management Coordination Assistant](../../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
 | [Project Management Efficiency Assistant](project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Project Management Support Assistant](project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
 | [Project Manager](../../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
@@ -159,6 +162,7 @@ Plan, prioritise and clear the recurring admin. 179 Grok Bot templates, 114 of t
 | [Supply Chain Crisis Manager](supply-chain-crisis-manager.md) | Turns crisis disruptions into clear risks, plans, and actions for supply chain analysts. |
 | [Supply Chain Sustainability Planner](supply-chain-sustainability-planner.md) | Helps supply chain managers embed sustainability across operations, from supplier audits to green logistics. |
 | [Supply Chain Technology Integration Planner](supply-chain-technology-integration-planner.md) | Plans and executes technology integration across your supply chain. |
+| [Sustainability Initiatives Planner](../../executives-and-strategy/productivity/sustainability-initiatives-planner.md) | Plans and drives your company's sustainability initiatives from research to reporting. |
 | [Sustainability Operations Planner](sustainability-operations-planner.md) | Plans and runs your organization's sustainability initiatives from audit to reporting. |
 | [Sustainability Strategy Planner](sustainability-strategy-planner.md) | Turns your operations data into a complete sustainability strategy, from trends to action plans. |
 | [Sustainable Logistics Planner](sustainable-logistics-planner.md) | Optimizes logistics for lower emissions, waste, and cost while keeping operations compliant. |
@@ -182,6 +186,7 @@ Plan, prioritise and clear the recurring admin. 179 Grok Bot templates, 114 of t
 | [Workflow Chain Designer](workflow-chain-designer.md) | Analyzes your conversation, checks available tools, and recommends step-by-step task chains. |
 | [Workflow Orchestrator](workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
 | [Workforce Planning Assistant](workforce-planning-assistant.md) | Optimizes workforce scheduling, allocation, and planning for production planners. |
+| [Workforce Productivity Optimizer](../../executives-and-strategy/productivity/workforce-productivity-optimizer.md) | Turns workforce data into productivity actions for COOs. |
 | [Wrike Automation](wrike-automation.md) | Automate Wrike tasks, folders, projects, and assignments via Rube MCP. |
 | [Zapier Workflows](zapier-workflows.md) | Manages and triggers your Zapier workflows and MCP tool orchestrations from chat. |
 | [Zoho Crm Automation](zoho-crm-automation.md) | Automate Zoho CRM record creation, search, update, and lead conversion via Rube MCP. |

@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 106 Grok Bot templates, 42 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 112 Grok Bot templates, 42 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Clean, query, chart and explain data. 106 Grok Bot templates, 42 of them filed i
 | [Budget and Forecast Assistant](../../operations/data-analysis/budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Budget Forecast Assistant](../../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Budget Forecasting Assistant](budget-forecasting-assistant.md) | Build and maintain accurate budget forecasts from your financial data. |
+| [Budget Management Assistant](../../executives-and-strategy/data-analysis/budget-management-assistant.md) | Analyzes budgets, tracks spending, and forecasts to keep your company's finances on track. |
 | [Cash Flow Forecaster](cash-flow-forecaster.md) | Builds a 13-week cash flow forecast from your bank, AR, AP, and payroll data, flagging crunch weeks. |
 | [Cash Flow Management Assistant](cash-flow-management-assistant.md) | Cash flow forecasting, tracking, reporting, and optimization for accountants, from data to decisions. |
 | [CEO Financial Forecaster](../../executives-and-strategy/data-analysis/ceo-financial-forecaster.md) | Turns your financial data into forecasts, models, and reports for confident decisions. |
@@ -42,22 +43,26 @@ Clean, query, chart and explain data. 106 Grok Bot templates, 42 of them filed i
 | [Energy Market Analysis Assistant](../../science-and-research/data-analysis/energy-market-analysis-assistant.md) | Analyzes energy market data, forecasts trends, and assesses risks for energy engineers. |
 | [Energy Procurement](../../operations/data-analysis/energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
 | [ESG Analysis Assistant](../../science-and-research/data-analysis/esg-analysis-assistant.md) | Turns ESG data into clear reports, risk checks, and improvement plans for sustainability analysts. |
+| [EVP Business Development Forecaster](../../executives-and-strategy/data-analysis/evp-business-development-forecaster.md) | Turns historical financial data into forecasts, scenarios, and reports for business development decisions. |
 | [Excel Analysis](excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Executive Forecast Report Builder](../../management/data-analysis/executive-forecast-report-builder.md) | Turns financial data into forecasts, scenarios, and reports for senior management decisions. |
 | [Executive Market Trend Forecaster](../../management/data-analysis/executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
+| [Executive Risk Intelligence Assistant](../../executives-and-strategy/data-analysis/executive-risk-intelligence-assistant.md) | Turns your risk data into actionable insights and keeps your risk posture current. |
 | [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Expense Tracking and Analysis Assistant](expense-tracking-and-analysis-assistant.md) | Analyzes, categorizes, and reports expenses for accurate financial tracking and cost control. |
 | [Financial Data Interpreter](financial-data-interpreter.md) | Interprets financial data and drafts reports for accountants. |
 | [Financial Document Parser](financial-document-parser.md) | Extracts structured data from financial documents and categorizes expenses. |
 | [Financial Forecast Assistant](../../it-and-development/data-analysis/financial-forecast-assistant.md) | Builds and maintains your financial forecasts from data collection to stakeholder reporting. |
 | [Financial Forecasting Assistant](../../management/data-analysis/financial-forecasting-assistant.md) | Turns your business unit's financial data into forecasts, reports, and risk insights. |
+| [Financial Forecasting Executive Assistant](../../executives-and-strategy/data-analysis/financial-forecasting-executive-assistant.md) | Turns historical financial data into forecasts, scenarios, and reports for executive decisions. |
 | [Financial Modeling Assistant](financial-modeling-assistant.md) | Builds financial models and analyses for accounting decisions. |
 | [Financial Modeling Consultant](../../management/data-analysis/financial-modeling-consultant.md) | Builds and analyzes financial models for management consulting decisions. |
 | [Financial Reporting Assistant](financial-reporting-assistant.md) | Prepares, analyzes, and reviews financial reports with compliance and stakeholder insights. |
 | [Freight Broker Financial Analyst](../../sales/data-analysis/freight-broker-financial-analyst.md) | Analyzes freight brokerage finances and market data to guide profitable decisions. |
 | [Insurance Finance Reporting Assistant](../../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Investment Analysis Assistant](investment-analysis-assistant.md) | Analyzes investments, builds valuations, and drafts reports for accountant decisions. |
+| [Investment Opportunity Assessment Assistant](../../executives-and-strategy/data-analysis/investment-opportunity-assessment-assistant.md) | Assesses investment opportunities with market, financial, and risk analysis for informed decisions. |
 | [Invoice Organizer](../../operations/data-analysis/invoice-organizer.md) | Reads messy invoice files, renames them consistently, and sorts them into tax-ready folders. |
 | [IT Budget Forecasting Assistant](../../it-and-development/data-analysis/it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
 | [Job Profitability Analyzer](job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
@@ -66,6 +71,7 @@ Clean, query, chart and explain data. 106 Grok Bot templates, 42 of them filed i
 | [Longbridge](longbridge.md) | 125+ read-only market data capabilities for HK/US/A-share/SG stocks via Longbridge. |
 | [Longbridge Fundamentals](longbridge-fundamentals.md) | Pull financial statements, valuation multiples, and company profiles for HK/US/A-share/Singapore stocks via Longbridge. |
 | [Longbridge Market Data](longbridge-market-data.md) | Real-time quotes, K-lines, order book, trades, capital flow, sentiment, and IPO data for HK/US/A/SG markets via Longbridge. |
+| [M&A Analysis Assistant](../../executives-and-strategy/data-analysis/m-a-analysis-assistant.md) | Guides M&A analysis from market research to post-merger monitoring with data-driven insights. |
 | [M&A Evaluation Assistant](../../management/data-analysis/m-a-evaluation-assistant.md) | M&A evaluation assistant for senior managers: screening, due diligence, valuation, integration, and post-merger analysis. |
 | [M&A Financial Analysis Assistant](m-a-financial-analysis-assistant.md) | Supports accountants through every stage of M&A, from due diligence to post-merger analysis. |
 | [Market Sizing Analysis](../../executives-and-strategy/data-analysis/market-sizing-analysis.md) | Calculate TAM, SAM, and SOM for startup market sizing with three methodologies. |

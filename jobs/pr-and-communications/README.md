@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **188 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **201 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,12 +11,12 @@ Press, internal comms and reputation. **188 ready-made Grok Bot templates** for 
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 51 |
-| [Writing & Content](writing-and-content/README.md) | 47 |
-| [Social Media](social-media/README.md) | 26 |
-| [Data Analysis](data-analysis/README.md) | 23 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 56 |
+| [Writing & Content](writing-and-content/README.md) | 48 |
+| [Social Media](social-media/README.md) | 28 |
+| [Data Analysis](data-analysis/README.md) | 24 |
 | [Research](research/README.md) | 16 |
-| [Productivity](productivity/README.md) | 10 |
+| [Productivity](productivity/README.md) | 14 |
 | [Design](design/README.md) | 6 |
 | [Support & Community](support-and-community/README.md) | 4 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 3 |
@@ -42,6 +42,7 @@ Press, internal comms and reputation. **188 ready-made Grok Bot templates** for 
 | [Content Marketing Assistant](marketing-and-growth/content-marketing-assistant.md) | Drafts, optimizes, and plans all your content marketing from research to distribution. |
 | [Content Strategy](../marketing/marketing-and-growth/content-strategy.md) | Plan content strategy, topic clusters, and editorial roadmap for traffic and leads. |
 | [Content Strategy Planner](../management/marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
+| [Crisis Comms Strategist](../executives-and-strategy/marketing-and-growth/crisis-comms-strategist.md) | Plans, drafts, monitors, and evaluates crisis communications for the Global Head of Marketing. |
 | [Crisis Communication Assistant](marketing-and-growth/crisis-communication-assistant.md) | Prepares and guides crisis communication materials, monitoring, and training for PR professionals. |
 | [Crisis Communication Strategist](marketing-and-growth/crisis-communication-strategist.md) | Builds and runs your crisis communication strategy, from monitoring to recovery. |
 | [Digital Communication Trends Assistant](marketing-and-growth/digital-communication-trends-assistant.md) | Tracks digital communication trends and builds audience engagement campaigns for communication managers. |
@@ -50,6 +51,8 @@ Press, internal comms and reputation. **188 ready-made Grok Bot templates** for 
 | [Event Lifecycle Orchestrator](marketing-and-growth/event-lifecycle-orchestrator.md) | Plans, promotes, and evaluates your events from invitations to post-event analysis. |
 | [Event Promotion Planner](../management/marketing-and-growth/event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
 | [Executing Marketing Campaigns](../marketing/marketing-and-growth/executing-marketing-campaigns.md) | Plans, creates, and optimizes marketing campaigns across channels with measurable results. |
+| [Global Brand Management Assistant](../executives-and-strategy/marketing-and-growth/global-brand-management-assistant.md) | Brand management assistant for global marketing leaders, from positioning to crisis response. |
+| [Global Crisis Comms Strategist](../executives-and-strategy/marketing-and-growth/global-crisis-comms-strategist.md) | Prepares, runs, and reviews crisis communication for a global marketing head. |
 | [Headline Psychologist](../marketing/marketing-and-growth/headline-psychologist.md) | Engineer headlines that create curiosity gaps and trigger attention without clickbait. |
 | [Hotel Reputation Manager](../hospitality-and-events/marketing-and-growth/hotel-reputation-manager.md) | Manages hotel online reputation from review monitoring to crisis response. |
 | [Influencer Campaign Orchestrator](marketing-and-growth/influencer-campaign-orchestrator.md) | Finds, vets, pitches, and manages influencer partnerships from research to ROI reporting. |
@@ -59,10 +62,12 @@ Press, internal comms and reputation. **188 ready-made Grok Bot templates** for 
 | [Journey Map Content Builder](marketing-and-growth/journey-map-content-builder.md) | Maps and improves customer journeys from data to content. |
 | [Loss Aversion Designer](../marketing/marketing-and-growth/loss-aversion-designer.md) | Frame messages using loss aversion to drive action without fear-mongering. |
 | [Marketing Automation Assistant](marketing-and-growth/marketing-automation-assistant.md) | Automates your marketing campaigns, content, and analytics from one chat. |
+| [Marketing Crisis Strategist](../executives-and-strategy/marketing-and-growth/marketing-crisis-strategist.md) | Plans and prepares crisis management strategies, communications, and training for marketing leadership. |
 | [Marketing VP Crisis Response](../executives-and-strategy/marketing-and-growth/marketing-vp-crisis-response.md) | Plans and executes crisis communication for marketing VPs, from scenario prep to live response support. |
 | [Media Relations Assistant](marketing-and-growth/media-relations-assistant.md) | Builds media lists, drafts press materials, and tracks coverage for PR specialists. |
 | [Open Source Marketing](../marketing/marketing-and-growth/open-source-marketing.md) | Market open source projects authentically with GitHub optimization and community building. |
 | [Optimize Your Brand SERP](../marketing/marketing-and-growth/brand-serp-optimierung.md) | Audits your brand's Google SERP and prescribes the five highest-impact fixes to improve it. |
+| [Perception Insight Strategist](../executives-and-strategy/marketing-and-growth/perception-insight-strategist.md) | Analyzes brand perception from social, reviews, surveys, and media to guide strategy. |
 | [Press Event Coordination Assistant](marketing-and-growth/press-event-coordination-assistant.md) | Coordinates press event logistics, media outreach, and coverage from research to follow-up. |
 | [Public Relations](marketing-and-growth/public-relations.md) | Help you earn press coverage through journalist pitching and media strategy. |
 | [Reputation Management Monitor](marketing-and-growth/reputation-management-monitor.md) | Monitors brand sentiment, manages crises, and builds reputation strategies from social and review data. |
@@ -103,6 +108,7 @@ Press, internal comms and reputation. **188 ready-made Grok Bot templates** for 
 | [Digital Content Creation Workspace](writing-and-content/digital-content-creation-workspace.md) | Turns research and ideas into polished, scheduled content across all digital platforms for PR specialists. |
 | [Drafting Content Assistant](../writers/writing-and-content/drafting-content-assistant.md) | Drafts, refines, and optimizes your written content from research to final polish. |
 | [Editorial Trend Analyst](writing-and-content/editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
+| [Executive Speechwriter](../executives-and-strategy/writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
 | [Headline Crafting Assistant](writing-and-content/headline-crafting-assistant.md) | Crafts and optimizes headlines for editors using research, testing, and performance data. |
 | [Internal Comms Anthropic](writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Internal Comms Community](writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
@@ -141,6 +147,7 @@ Press, internal comms and reputation. **188 ready-made Grok Bot templates** for 
 | [Crisis Communication Manager](../marketing/social-media/crisis-communication-manager.md) | Monitors social media, drafts crisis responses, and builds playbooks for social media coordinators. |
 | [Crisis Management Guide](../marketing/social-media/crisis-management-guide.md) | Guides social media managers through every phase of a crisis, from monitoring to recovery. |
 | [Digital Crisis Management Assistant](../sales/social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
+| [Executive Personal Brand Manager](../executives-and-strategy/social-media/executive-personal-brand-manager.md) | Builds and protects your executive personal brand across all channels. |
 | [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [Linkedin Automation](../marketing/social-media/linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
 | [PR Social Media Cycle Partner](social-media/pr-social-media-cycle-partner.md) | Social media strategy partner for PR specialists—research, plan, create, track, and optimize content. |
@@ -152,6 +159,7 @@ Press, internal comms and reputation. **188 ready-made Grok Bot templates** for 
 | [Social Media Campaign Planner](../marketing/social-media/social-media-campaign-planner.md) | Plans and executes social media campaigns from research to reporting. |
 | [Social Media Content Planner](social-media/social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |
 | [Social Media Copywriter](../marketing/social-media/social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |
+| [Social Media Insights Director](../executives-and-strategy/social-media/social-media-insights-director.md) | Turns social media data into strategic marketing insights for directors. |
 | [Social Media Press Relations Assistant](social-media/social-media-press-relations-assistant.md) | Manages social media press relations: monitoring, outreach, content, and crisis response. |
 | [Social Media Trend Analyst](../marketing/social-media/social-media-trend-analyst.md) | Tracks social media trends and turns them into reports, content, and campaign plans. |
 | [Social Orchestrator](../marketing/social-media/social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |
@@ -184,6 +192,7 @@ Press, internal comms and reputation. **188 ready-made Grok Bot templates** for 
 | [PR Campaign Analytics Assistant](data-analysis/pr-campaign-analytics-assistant.md) | Turns PR campaign data into actionable insights, reports, and optimization recommendations. |
 | [PR Feedback Insight Engine](data-analysis/pr-feedback-insight-engine.md) | Turns feedback data into PR insights, reports, and early warnings. |
 | [Sentiment Insight Compiler](../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
+| [Social Media Analytics Insight Engine](../executives-and-strategy/data-analysis/social-media-analytics-insight-engine.md) | Turns social media data into actionable marketing insights for a global head of marketing. |
 | [Social Media Engagement Analyst](../management/data-analysis/social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
 | [Social Media Insights Analyst](../it-and-development/data-analysis/social-media-insights-analyst.md) | Analyzes social media data to deliver insights, trends, and optimization strategies for business analysts. |
 | [Social Pulse Insight Scout](../science-and-research/data-analysis/social-pulse-insight-scout.md) | Analyzes social media data to reveal trends, sentiment, and influencers for market research. |
@@ -215,10 +224,14 @@ Press, internal comms and reputation. **188 ready-made Grok Bot templates** for 
 | Template | What it does |
 |---|---|
 | [Crisis Management Planning Assistant](../operations/productivity/crisis-management-planning-assistant.md) | Builds and maintains your crisis management plans, protocols, and training. |
+| [Crisis Plan Builder for Executives](../executives-and-strategy/productivity/crisis-plan-builder-for-executives.md) | Builds and tests crisis management plans for your organization. |
 | [CSR Planning Assistant](../science-and-research/productivity/csr-planning-assistant.md) | Plans and manages corporate social responsibility initiatives from stakeholder input to impact reporting. |
+| [CSR Strategy Builder](../executives-and-strategy/productivity/csr-strategy-builder.md) | Builds and runs your CSR strategy from stakeholder analysis to reporting. |
 | [Editorial Calendar Management Assistant](productivity/editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |
+| [Enterprise Crisis Plan Architect](../executives-and-strategy/productivity/enterprise-crisis-plan-architect.md) | Builds and maintains a complete crisis management plan for your organization. |
 | [Event Planning and Management Assistant](productivity/event-planning-and-management-assistant.md) | Plans, promotes, and runs your events from venue to post-event report. |
 | [Event Planning Coordinator](productivity/event-planning-coordinator.md) | Plans and coordinates events end-to-end for PR specialists, from venue to evaluation. |
+| [Executive Crisis Blueprint Builder](../executives-and-strategy/productivity/executive-crisis-blueprint-builder.md) | Crisis management planning assistant for executives, from risk assessment to post-crisis review. |
 | [Hotel Crisis Management Planner](../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
 | [Internal Communication Coordinator](../finance/productivity/internal-communication-coordinator.md) | Manages internal communications for administrative assistants in finance. |
 | [Operations Crisis Blueprint](../operations/productivity/operations-crisis-blueprint.md) | Crisis management planning assistant for global operations heads, from risk assessment to post-crisis evaluation. |

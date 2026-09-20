@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 427 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 432 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -45,6 +45,7 @@ Clean, query, chart and explain data. 427 Grok Bot templates, 268 of them filed 
 | [Claims Risk Assessment Assistant](claims-risk-assessment-assistant.md) | Risk assessment and management assistant for insurance claims processors. |
 | [Claims Trend Forecaster](claims-trend-forecaster.md) | Turns your claims data into trend forecasts, fraud flags, and reports for insurance claims processing. |
 | [Cold Chain Logistics Optimizer](cold-chain-logistics-optimizer.md) | Optimizes cold chain logistics: routes, packaging, inventory, compliance, suppliers, risks, and quality. |
+| [Competitive Supply Chain Intel](../../executives-and-strategy/data-analysis/competitive-supply-chain-intel.md) | Supply chain analysis assistant for competitive intelligence analysts: suppliers, cost, risk, demand, compliance, sustainability, logistics, and… |
 | [Compliance Benchmarking Analyst](../../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
 | [Compliance Cost Analyst](../../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Compliance Monitoring Inspector](../../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
@@ -55,6 +56,7 @@ Clean, query, chart and explain data. 427 Grok Bot templates, 268 of them filed 
 | [Continuous Improvement Analyst](continuous-improvement-analyst.md) | Turns operational data and feedback into improvement actions and tracks their impact. |
 | [Continuous Improvement Planner](continuous-improvement-planner.md) | Turns quality control data into improvement plans and tracks their impact. |
 | [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
+| [COO Risk Mitigation Reports](../../executives-and-strategy/data-analysis/coo-risk-mitigation-reports.md) | Identifies, assesses, and mitigates operational risks for COOs with data-driven insights and reports. |
 | [COO Supply Chain Optimizer](../../executives-and-strategy/data-analysis/coo-supply-chain-optimizer.md) | Optimizes supply chain operations from forecasting to sustainability for COOs. |
 | [Cost Reduction Analyst](../../management/data-analysis/cost-reduction-analyst.md) | Finds and validates cost reduction opportunities for service managers. |
 | [Cost Reduction Strategist](cost-reduction-strategist.md) | Analyzes operations data to find and track cost savings across your business. |
@@ -74,6 +76,7 @@ Clean, query, chart and explain data. 427 Grok Bot templates, 268 of them filed 
 | [Customer Lifetime Value Analyst](../../management/data-analysis/customer-lifetime-value-analyst.md) | Turns your customer data into CLV insights and action plans for growth. |
 | [Customer Report Generator](../../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
 | [Customer Sentiment Analyst](../../management/data-analysis/customer-sentiment-analyst.md) | Analyzes customer sentiment across channels to guide e-commerce decisions. |
+| [Customer Service Improvement Planner](../../executives-and-strategy/data-analysis/customer-service-improvement-planner.md) | Turns customer service data and workflows into actionable improvements for your operations. |
 | [Customer Success Manager](../../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 | [Customer Success Trend Analyst](../../customer-support/data-analysis/customer-success-trend-analyst.md) | Turns customer data into trend insights and proactive success actions. |
 | [Dashboard Design](../../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
@@ -174,6 +177,7 @@ Clean, query, chart and explain data. 427 Grok Bot templates, 268 of them filed 
 | [Inventory Manager Supplier Risk Scorecard](inventory-manager-supplier-risk-scorecard.md) | Evaluates supplier performance, flags risks, and drives improvement plans for inventory managers. |
 | [Inventory Operations Assistant](inventory-operations-assistant.md) | Tracks and optimizes inventory with forecasting, reorder and safety stock advice. |
 | [Inventory Operations Manager](inventory-operations-manager.md) | Inventory management assistant for operations managers: tracking, forecasting, replenishment, and optimization in one place. |
+| [Inventory Operations Planner](../../executives-and-strategy/data-analysis/inventory-operations-planner.md) | Tracks stock, forecasts demand, and plans replenishment to keep inventory lean and cash flowing. |
 | [Inventory Ops Forecaster](inventory-ops-forecaster.md) | Turns your inventory data into operational insights, forecasts, and action plans. |
 | [Inventory Optimization Analyst](inventory-optimization-analyst.md) | Analyzes inventory data to optimize stock levels, reduce costs, and improve supply chain efficiency for logistics consultants. |
 | [Inventory Optimization Assistant](../../management/data-analysis/inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
@@ -405,6 +409,7 @@ Clean, query, chart and explain data. 427 Grok Bot templates, 268 of them filed 
 | [Survey Data Processing Assistant](survey-data-processing-assistant.md) | Cleans, enters, validates, analyzes, and reports survey data with accuracy and insight. |
 | [Sustainability Logistics Analyst](sustainability-logistics-analyst.md) | Analyzes logistics data and drives eco-friendly initiatives for sustainability-focused engineers. |
 | [Sustainability Planning Analyst](sustainability-planning-analyst.md) | Analyzes logistics operations and builds a sustainability plan with data-backed recommendations. |
+| [Sustainability Program Strategist](../../executives-and-strategy/data-analysis/sustainability-program-strategist.md) | Turns your sustainability goals into actionable, data-driven programs across operations. |
 | [Sustainable Logistics Advocate](sustainable-logistics-advocate.md) | Turns logistics data into sustainability actions, reports, and advocacy. |
 | [Talivia Agent Kit](../../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Team Composition Analysis](../../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |

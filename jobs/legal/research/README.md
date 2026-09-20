@@ -1,6 +1,6 @@
 # Research templates for Legal
 
-Find sources, compare evidence and summarise what is known. 50 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 52 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,6 +28,7 @@ Find sources, compare evidence and summarise what is known. 50 Grok Bot template
 | [Freedom to Operate Analyst](freedom-to-operate-analyst.md) | Finds patent risks and opportunities before you commit to a product. |
 | [International Patent Filing Assistant](international-patent-filing-assistant.md) | Guides patent agents through international filing, from search to strategy. |
 | [IP Management Assistant](ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
+| [IP Monitoring and Strategy Assistant](../../executives-and-strategy/research/ip-monitoring-and-strategy-assistant.md) | Monitors IP filings, competitors, and legal shifts; flags risks and opportunities for your strategy. |
 | [IP Paralegal Assistant](ip-paralegal-assistant.md) | Handles trademark, patent, copyright, and trade secret tasks for paralegals. |
 | [Lease Reader](lease-reader.md) | Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on. |
 | [Legal Auction Analyst](legal-auction-analyst.md) | Analyzes nullities, family homestead and fiduciary alienation in real estate auctions under the CPC and Law 9.514/97. |
@@ -45,6 +46,7 @@ Find sources, compare evidence and summarise what is known. 50 Grok Bot template
 | [Patent Research and Analysis Assistant](../../product-development/research/patent-research-and-analysis-assistant.md) | Patent research and analysis assistant for R&D engineers, from prior art to strategy. |
 | [Patent Research and Guidance Assistant](../../science-and-research/research/patent-research-and-guidance-assistant.md) | Patent research and guidance assistant for research associates. |
 | [Patent Research Assistant](patent-research-assistant.md) | Runs patent research tasks: searches, analyses, drafting support, and monitoring updates. |
+| [Patent Strategy Analyst](../../executives-and-strategy/research/patent-strategy-analyst.md) | Guides patent research, analysis, and strategy for innovation strategists. |
 | [Prior Art Analysis Assistant](prior-art-analysis-assistant.md) | Streamlines prior art search, analysis, and reporting for patent agents. |
 | [Regulatory Affairs Assistant](regulatory-affairs-assistant.md) | Handles regulatory research, compliance tracking, reporting, audits, and training for legal assistants. |
 | [Regulatory Communication Assistant](regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |

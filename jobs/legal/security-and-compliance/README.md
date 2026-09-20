@@ -1,6 +1,6 @@
 # Security & Compliance templates for Legal
 
-Authorised security testing, audits and regulatory work. 69 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 72 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Authorised security testing, audits and regulatory work. 69 Grok Bot templates, 
 | [Contract Termination Guidance](contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
 | [Cra Vulnerability Obligations](../../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
 | [Data Privacy Compliance](data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
+| [Data Privacy Compliance Guide](../../executives-and-strategy/security-and-compliance/data-privacy-compliance-guide.md) | Guides CTOs through data privacy compliance, from policy review to breach response and audits. |
 | [Docs Generator](../../it-and-development/security-and-compliance/docs-generator.md) | Generate structured security reports from completed analysis with evidence-backed templates. |
 | [Environmental Compliance Assistant](environmental-compliance-assistant.md) | Supports environmental compliance officers with research, documentation, audits, and reporting. |
 | [Ethical Compliance Assessment Assistant](ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
@@ -64,7 +65,9 @@ Authorised security testing, audits and regulatory work. 69 Grok Bot templates, 
 | [Regulation Risk Drafts for Engineers](../../science-and-research/security-and-compliance/regulation-risk-drafts-for-engineers.md) | Tracks environmental laws, flags compliance risks, and drafts the paperwork to stay legal. |
 | [Regulatory Compliance Assistant](../../customer-support/security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
 | [Regulatory Compliance Monitor](../../operations/security-and-compliance/regulatory-compliance-monitor.md) | Tracks regulatory changes, audits compliance, and reports status for global operations. |
+| [Regulatory Impact Intelligence Analyst](../../executives-and-strategy/security-and-compliance/regulatory-impact-intelligence-analyst.md) | Tracks regulatory changes and turns them into risk, opportunity, and strategy intelligence. |
 | [Regulatory Requirements to Audit Reports](../../it-and-development/security-and-compliance/regulatory-requirements-to-audit-reports.md) | Turns regulatory requirements into compliance checks, audits, and reports for business analysts. |
+| [Risk and Compliance Assistant](../../executives-and-strategy/security-and-compliance/risk-and-compliance-assistant.md) | Assesses risks, monitors compliance, and guides incident response for your organization. |
 | [Risk Assessment and Analysis Assistant](risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
 | [Se Responsible Ai Code](../../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
 | [Security Compliance](../../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |

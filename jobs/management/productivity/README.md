@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 164 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 168 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Plan, prioritise and clear the recurring admin. 164 Grok Bot templates, 61 of th
 | [Change Management Consultant](change-management-consultant.md) | Guides management consultants through every stage of organizational change, from stakeholder analysis to sustainability planning. |
 | [Change Management Support Assistant](change-management-support-assistant.md) | Change management support for project managers: analysis, planning, communication, training, and evaluation in one assistant. |
 | [Change Order Manager](../../real-estate-and-construction/productivity/change-order-manager.md) | Manages construction change orders from documentation to compliance and performance tracking. |
+| [CIO Project Command Center](../../executives-and-strategy/productivity/cio-project-command-center.md) | Supports CIOs with project management planning, tracking, and reporting. |
 | [Claims Processing Automation Assistant](claims-processing-automation-assistant.md) | Automates claims intake, assessment, fraud checks, updates, and reporting for insurance claims managers. |
 | [Claims Processing Automation Manager](../../operations/productivity/claims-processing-automation-manager.md) | Automates insurance claims intake, assessment, routing, communication, and audit for operations managers. |
 | [Claims Processing Efficiency Assistant](claims-processing-efficiency-assistant.md) | Streamlines insurance claims processing from intake to payment with AI assistance. |
@@ -43,6 +44,7 @@ Plan, prioritise and clear the recurring admin. 164 Grok Bot templates, 61 of th
 | [Crisis Management Navigator](crisis-management-navigator.md) | Guides project managers through crisis response, from assessment to recovery and lessons learned. |
 | [Crisis Management Planner](crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
 | [Crisis Management Strategist](crisis-management-strategist.md) | Crisis management strategist: assess risks, plan responses, and guide recovery for senior managers. |
+| [CTO IT Project Navigator](../../executives-and-strategy/productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Daily Meeting Update](../../it-and-development/productivity/daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Deadline Prep](deadline-prep.md) | Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you |
 | [Decision Navigator](decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
@@ -77,6 +79,7 @@ Plan, prioritise and clear the recurring admin. 164 Grok Bot templates, 61 of th
 | [Inbox Triage](inbox-triage.md) | Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe. |
 | [Innovation Cycle Navigator](innovation-cycle-navigator.md) | Guides project managers through the full innovation cycle, from ideation to implementation. |
 | [Innovation Ideation Partner](innovation-ideation-partner.md) | Innovation ideation partner for senior managers: generate, evaluate, and track ideas from brainstorm to execution. |
+| [Innovation Risk Assessment Assistant](../../executives-and-strategy/productivity/innovation-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates innovation risks with structured reports and decision support. |
 | [Insurance Digital Transformation Planner](insurance-digital-transformation-planner.md) | Plans and oversees your agency's digital transformation, from customer analytics to automated processes. |
 | [Jev Browser Operator](jev-browser-operator.md) | Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final. |
 | [Jira](jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
@@ -122,6 +125,7 @@ Plan, prioritise and clear the recurring admin. 164 Grok Bot templates, 61 of th
 | [Production Schedule Optimizer](../../operations/productivity/production-schedule-optimizer.md) | Builds, monitors, and optimizes production schedules, resolving conflicts and keeping stakeholders informed. |
 | [Production Technology Integration Planner](../../operations/productivity/production-technology-integration-planner.md) | Plans and optimizes production technology integration from selection to monitoring. |
 | [Project Budget Management Assistant](project-budget-management-assistant.md) | Guides project managers through budget planning, monitoring, and adjustments. |
+| [Project Management Coordination Assistant](../../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
 | [Project Management Efficiency Assistant](../../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Project Management Guidance Assistant](project-management-guidance-assistant.md) | Guides management consultants through every project management task, from planning to reporting. |
 | [Project Management Support Assistant](../../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |

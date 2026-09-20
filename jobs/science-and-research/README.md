@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **572 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **573 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Scientists, analysts and academic researchers. **572 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 196 |
+| [Data Analysis](data-analysis/README.md) | 197 |
 | [Research](research/README.md) | 187 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 67 |
 | [Coding](coding/README.md) | 31 |
@@ -39,10 +39,10 @@ Scientists, analysts and academic researchers. **572 ready-made Grok Bot templat
 | [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
 | [Medchem](data-analysis/medchem.md) | Filter compound libraries by drug-likeness rules and structural alerts for prioritization. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
-| [Statistical Analysis](data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 | [Astropy](data-analysis/astropy.md) | Astronomical data analysis with Astropy: coordinates, units, FITS, cosmology, time, tables, WCS. |
+| [Statistical Analysis](data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 
-[All 196 Data Analysis templates →](data-analysis/README.md)
+[All 197 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
@@ -53,8 +53,8 @@ Scientists, analysts and academic researchers. **572 ready-made Grok Bot templat
 | [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
 | [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
-| [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
+| [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Academic Researcher](research/academic-researcher.md) | Searches scholarly databases, analyzes papers, and writes structured findings to a markdown file. |
 
 [All 187 Research templates →](research/README.md)
@@ -140,8 +140,8 @@ Scientists, analysts and academic researchers. **572 ready-made Grok Bot templat
 |---|---|
 | [Huggingface Spaces](../it-and-development/cloud-and-devops/huggingface-spaces.md) | Build, deploy, and maintain ML apps on Hugging Face Spaces with Gradio, Docker, or Static SDKs. |
 | [Azure Ai Ml Py](../it-and-development/cloud-and-devops/azure-ai-ml-py.md) | Manage Azure ML workspaces, jobs, models, data, compute, and pipelines via SDK v2. |
-| [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [Azure Ai Projects Java](../it-and-development/cloud-and-devops/azure-ai-projects-java.md) | Manage Azure AI Foundry projects via Java SDK for connections, datasets, indexes, and evaluations. |
+| [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [Unified Memory Thermal Planner](../it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
 | [Distributed Training Deepspeed](../it-and-development/cloud-and-devops/distributed-training-deepspeed.md) | Guides users through configuring and optimizing DeepSpeed for distributed training. |
 | [Latchbio Integration](../it-and-development/cloud-and-devops/latchbio-integration.md) | Build and deploy bioinformatics workflows as serverless pipelines on the Latch platform. |

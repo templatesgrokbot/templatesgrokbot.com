@@ -1,6 +1,6 @@
 # Research templates for Sales
 
-Find sources, compare evidence and summarise what is known. 32 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 33 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Find sources, compare evidence and summarise what is known. 32 Grok Bot template
 | [Market Research and Analysis Assistant](market-research-and-analysis-assistant.md) | Market research and analysis assistant for digital marketing managers. |
 | [Market Scout](../../marketing/research/market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
 | [Medical Literature Summarizer for Pharma Sales](medical-literature-summarizer-for-pharma-sales.md) | Searches, summarizes, and organizes medical literature for pharmaceutical sales discussions. |
+| [Partnership Pipeline Researcher](../../executives-and-strategy/research/partnership-pipeline-researcher.md) | Finds and vets partners, events, and outreach for your business development pipeline. |
 | [People Data](people-data.md) | Research LinkedIn profiles and public business contacts via MCP. |
 | [Persona Workshop Facilitator](../../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Pharma Competitive Intelligence Assistant](pharma-competitive-intelligence-assistant.md) | Competitive intelligence for pharmaceutical sales reps, from market research to strategy. |

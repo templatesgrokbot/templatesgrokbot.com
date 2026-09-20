@@ -1,6 +1,6 @@
 # Grok Bot templates for Hospitality and Events
 
-Hotels, venues, travel and event teams. **150 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Hotels, venues, travel and event teams. **155 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,9 +11,9 @@ Hotels, venues, travel and event teams. **150 ready-made Grok Bot templates** fo
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 48 |
+| [Data Analysis](data-analysis/README.md) | 49 |
 | [Productivity](productivity/README.md) | 33 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 25 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 29 |
 | [Social Media](social-media/README.md) | 15 |
 | [Writing & Content](writing-and-content/README.md) | 11 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 5 |
@@ -45,6 +45,7 @@ Hotels, venues, travel and event teams. **150 ready-made Grok Bot templates** fo
 | [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Feedback Collection Assistant](../customer-support/data-analysis/feedback-collection-assistant.md) | Collects, analyzes, and reports customer feedback for receptionists to improve service quality. |
 | [Feedback Insight for Service Managers](../management/data-analysis/feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
+| [Feedback Insight Interpreter](../executives-and-strategy/data-analysis/feedback-insight-interpreter.md) | Analyzes customer feedback to deliver actionable insights for marketing strategy. |
 | [Feedback Insights for Ops](../operations/data-analysis/feedback-insights-for-ops.md) | Turns customer feedback into actionable insights and responses for operations managers. |
 | [Hotel Energy Efficiency Analyst](data-analysis/hotel-energy-efficiency-analyst.md) | Analyzes hotel energy data to cut costs and meet sustainability goals. |
 | [Hotel Revenue Optimizer](data-analysis/hotel-revenue-optimizer.md) | Optimizes hotel revenue through pricing, forecasting, and channel analysis. |
@@ -121,6 +122,7 @@ Hotels, venues, travel and event teams. **150 ready-made Grok Bot templates** fo
 |---|---|
 | [Audience Segmentation Strategist](../pr-and-communications/marketing-and-growth/audience-segmentation-strategist.md) | Turns customer data into audience segments and targeted marketing strategies. |
 | [Content Creation and Curation Assistant](../sales/marketing-and-growth/content-creation-and-curation-assistant.md) | Generates, curates, and optimizes marketing content across all channels. |
+| [Content Creation and Curation Planner](../executives-and-strategy/marketing-and-growth/content-creation-and-curation-planner.md) | Plans, creates, optimizes, and curates marketing content across channels. |
 | [Content Marketing Assistant](../pr-and-communications/marketing-and-growth/content-marketing-assistant.md) | Drafts, optimizes, and plans all your content marketing from research to distribution. |
 | [Content Strategy](../marketing/marketing-and-growth/content-strategy.md) | Plan content strategy, topic clusters, and editorial roadmap for traffic and leads. |
 | [Content Strategy Planner](../management/marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
@@ -134,12 +136,15 @@ Hotels, venues, travel and event teams. **150 ready-made Grok Bot templates** fo
 | [Hotel Reputation Manager](marketing-and-growth/hotel-reputation-manager.md) | Manages hotel online reputation from review monitoring to crisis response. |
 | [Journey Insight Mapper](../sales/marketing-and-growth/journey-insight-mapper.md) | Maps customer journeys from data to insight, turning touchpoints into action. |
 | [Journey Map Content Builder](../pr-and-communications/marketing-and-growth/journey-map-content-builder.md) | Maps and improves customer journeys from data to content. |
+| [List-to-Lifecycle Email Architect](../executives-and-strategy/marketing-and-growth/list-to-lifecycle-email-architect.md) | Plans, writes, and optimizes your email marketing from segmentation to re-engagement. |
 | [Marketing Content Ideation Assistant](../executives-and-strategy/marketing-and-growth/marketing-content-ideation-assistant.md) | Generates and refines content ideas, outlines, and scripts for marketing campaigns. |
 | [Performance Email Campaign Builder](../sales/marketing-and-growth/performance-email-campaign-builder.md) | Plans, writes, and refines email campaigns from segmentation to performance analysis. |
 | [Pricing Strategy Developer](../sales/marketing-and-growth/pricing-strategy-developer.md) | Develops and optimizes pricing strategies from market analysis to implementation and performance tracking. |
 | [Pricing Strategy Development Assistant](../it-and-development/marketing-and-growth/pricing-strategy-development-assistant.md) | Develops and refines pricing strategies from market analysis to implementation for business analysts. |
 | [Pricing Strategy Formulation Assistant](../management/marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
 | [Reputation Management Monitor](../pr-and-communications/marketing-and-growth/reputation-management-monitor.md) | Monitors brand sentiment, manages crises, and builds reputation strategies from social and review data. |
+| [Segment Persona Campaign Builder](../executives-and-strategy/marketing-and-growth/segment-persona-campaign-builder.md) | Turns customer data into segments, personas, and targeted marketing plans. |
+| [SEO Visibility Planner](../executives-and-strategy/marketing-and-growth/seo-visibility-planner.md) | Turns your SEO goals into keyword lists, audits, and tracking plans for the marketing team. |
 | [Social Media Strategy Planner](../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Stakeholder Communication Strategist](../pr-and-communications/marketing-and-growth/stakeholder-communication-strategist.md) | Builds and runs your stakeholder communication strategy from analysis to evaluation. |
 | [Strategy Lifecycle Content Copilot](../sales/marketing-and-growth/strategy-lifecycle-content-copilot.md) | Builds and refines your content strategy from research to performance analysis. |

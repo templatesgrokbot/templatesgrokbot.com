@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **399 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,16 +11,16 @@ Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for thi
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 106 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 91 |
-| [Data Analysis](data-analysis/README.md) | 84 |
-| [Research](research/README.md) | 32 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 107 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 97 |
+| [Data Analysis](data-analysis/README.md) | 91 |
+| [Research](research/README.md) | 33 |
 | [Writing & Content](writing-and-content/README.md) | 17 |
 | [Security & Compliance](security-and-compliance/README.md) | 10 |
 | [Productivity](productivity/README.md) | 7 |
 | [Social Media](social-media/README.md) | 7 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 7 |
 | [Support & Community](support-and-community/README.md) | 6 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 6 |
 | [Design](design/README.md) | 4 |
 | [Knowledge Management](knowledge-management/README.md) | 4 |
 | [Office Tools](office-tools/README.md) | 4 |
@@ -121,6 +121,7 @@ Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for thi
 | [Sales Automator](marketing-and-growth/sales-automator.md) | Drafts compliant cold email sequences, proposals, and sales scripts with personalization. |
 | [Sales Campaign Content Creation Assistant](marketing-and-growth/sales-campaign-content-creation-assistant.md) | Sales campaign content assistant for a sales manager, handling research to final assets. |
 | [Sales Enablement Pack](../marketing/marketing-and-growth/sales-enablement-pack.md) | Builds one-pagers, battlecards, and objection handling docs from product information whenever sales collateral is needed. |
+| [Sales Pipeline Campaign Builder](../executives-and-strategy/marketing-and-growth/sales-pipeline-campaign-builder.md) | Turns your lead generation data and content into targeted campaigns and prioritized follow-ups. |
 | [Sales Promotion Strategist](marketing-and-growth/sales-promotion-strategist.md) | Generates, designs, and optimizes sales promotions from brainstorming to tracking. |
 | [Scarcity Urgency Psychologist](../marketing/marketing-and-growth/scarcity-urgency-psychologist.md) | Design genuine scarcity and urgency that motivates action without manipulation. |
 | [Search Ranking Fixer](marketing-and-growth/search-ranking-fixer.md) | Optimizes your website's search ranking with keyword research, content, and technical fixes. |
@@ -163,6 +164,9 @@ Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for thi
 | [Deal Momentum Analyzer](sales-and-negotiation/deal-momentum-analyzer.md) | Score deal velocity and predict close probability from engagement patterns. |
 | [Deal Review Coach](sales-and-negotiation/deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
 | [Digital Sales Strategy Assistant](sales-and-negotiation/digital-sales-strategy-assistant.md) | Turns sales data into strategy: research, segment, create, and optimize digital sales. |
+| [Digital Sales Transformation Planner](../executives-and-strategy/sales-and-negotiation/digital-sales-transformation-planner.md) | Digital sales transformation assistant for EVPs: research, segment, create, automate, track, train, and personalize. |
+| [EVP Sales Competitive Intel](../executives-and-strategy/sales-and-negotiation/evp-sales-competitive-intel.md) | Turns competitor data into actionable sales intelligence for the EVP of Sales. |
+| [EVP Sales Insight Studio](../executives-and-strategy/sales-and-negotiation/evp-sales-insight-studio.md) | Turns sales data into strategy: research, segment, forecast, and refine your sales approach. |
 | [Feedback Insight and Response Assistant](sales-and-negotiation/feedback-insight-and-response-assistant.md) | Turns customer feedback into insights, responses, and action plans for technical sales teams. |
 | [Freight Dispute Resolution Assistant](sales-and-negotiation/freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
 | [Freight Load Matching Assistant](sales-and-negotiation/freight-load-matching-assistant.md) | Matches loads to carriers, negotiates rates, and manages freight documentation from search to delivery. |
@@ -191,6 +195,7 @@ Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for thi
 | [Pharma Sales Strategy Assistant](sales-and-negotiation/pharma-sales-strategy-assistant.md) | Analyzes pharma market data and crafts sales strategies, pitches, and forecasts for representatives. |
 | [Pricing Strategist for BDM Wins](sales-and-negotiation/pricing-strategist-for-bdm-wins.md) | Develops and optimizes pricing strategies from analysis to execution for business development managers. |
 | [Pricing Strategy Drafts for Sales Managers](sales-and-negotiation/pricing-strategy-drafts-for-sales-managers.md) | Develops and refines pricing strategies from market data to implementation. |
+| [Pricing Strategy Optimizer for Sales Execs](../executives-and-strategy/sales-and-negotiation/pricing-strategy-optimizer-for-sales-execs.md) | Optimizes pricing strategy through market analysis, segmentation, elasticity, and testing. |
 | [Product Customization Advisor](sales-and-negotiation/product-customization-advisor.md) | Guides technical sales reps through product customization advice from analysis to post-sales support. |
 | [Product Presentation Builder](sales-and-negotiation/product-presentation-builder.md) | Build and run product presentations that persuade, engage, and convert. |
 | [Proposal Creation Assistant](sales-and-negotiation/proposal-creation-assistant.md) | Crafts tailored, winning proposals from research to follow-up for business development managers. |
@@ -213,6 +218,7 @@ Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for thi
 | [Sales Forecast Builder](sales-and-negotiation/sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
 | [Sales Incentive Plan Designer](sales-and-negotiation/sales-incentive-plan-designer.md) | Designs and manages sales incentive plans from data analysis to rollout. |
 | [Sales Methodology Implementer](sales-and-negotiation/sales-methodology-implementer.md) | Implements proven sales methodologies (MEDDIC, BANT, Sandler, Challenger, SPIN) across your team. |
+| [Sales Pitch Enhancement Assistant](../executives-and-strategy/sales-and-negotiation/sales-pitch-enhancement-assistant.md) | Enhance sales pitches with research, content, design, and strategy support. |
 | [Sales Presentation Builder](sales-and-negotiation/sales-presentation-builder.md) | Builds complete sales presentations from audience research to leave-behind documents. |
 | [Sales Process Automation Assistant](sales-and-negotiation/sales-process-automation-assistant.md) | Automates your sales workflow from lead generation to contract management and forecasting. |
 | [Sales Process Optimizer](sales-and-negotiation/sales-process-optimizer.md) | Analyzes sales data, segments customers, optimizes pipelines, and generates tailored sales materials. |
@@ -222,6 +228,7 @@ Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for thi
 | [Sales War Room Intel](sales-and-negotiation/sales-war-room-intel.md) | Turns competitor data into actionable sales intelligence for global sales leaders. |
 | [Salesforce Automation](sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
 | [Segment To Sales Blueprint](sales-and-negotiation/segment-to-sales-blueprint.md) | Turns customer data into segments, profiles, and sales strategies for a sales manager. |
+| [Strategic Partnership Development Assistant](../executives-and-strategy/sales-and-negotiation/strategic-partnership-development-assistant.md) | Strategic partnership research, outreach, and deal support for sales leadership. |
 | [Sustainable Property Assistant](../real-estate-and-construction/sales-and-negotiation/sustainable-property-assistant.md) | Helps real estate brokers market, advise on, and close deals for sustainable and green properties. |
 | [Technical Cross-Sell Upsell Assistant](sales-and-negotiation/technical-cross-sell-upsell-assistant.md) | Cross-sell and upsell technical products with personalized recommendations and persuasive follow-ups. |
 | [Technical Sales CRM Assistant](sales-and-negotiation/technical-sales-crm-assistant.md) | Manages client relationships end-to-end for technical sales reps. |
@@ -250,6 +257,8 @@ Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for thi
 | [Client Feedback Insight Engine](data-analysis/client-feedback-insight-engine.md) | Turns client feedback into categorized, sentiment-scored insights with trend, churn, and competitive analysis for sales VPs. |
 | [Client Health Dashboard](../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
 | [CRM Data Interpretation Assistant](data-analysis/crm-data-interpretation-assistant.md) | Turns CRM data into clear sales insights and forecasts for sales managers. |
+| [CRM Optimization Assistant](../executives-and-strategy/data-analysis/crm-optimization-assistant.md) | Optimizes your CRM with data cleaning, segmentation, scoring, forecasting, and automation. |
+| [CRM Relationship Manager](../executives-and-strategy/data-analysis/crm-relationship-manager.md) | Manages customer relationships end-to-end: leads, segmentation, communication, retention, and insights. |
 | [CRM Sales Intelligence Analyst](data-analysis/crm-sales-intelligence-analyst.md) | Turn CRM data into sales decisions: clean, segment, forecast, score, and act. |
 | [CSO Market Trend Intel](data-analysis/cso-market-trend-intel.md) | Market trend intelligence for CSOs: gather, analyze, forecast, and report on market movements. |
 | [CSO Pipeline Forecaster](data-analysis/cso-pipeline-forecaster.md) | Turns sales data into forecasts, scenarios, and pipeline insights for a CSO's decisions. No hype, just analysis. |
@@ -258,11 +267,13 @@ Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for thi
 | [Customer Engagement Assistant](../customer-support/data-analysis/customer-engagement-assistant.md) | Personalized customer engagement for Customer Success Managers. |
 | [Customer Feedback Insight Engine](data-analysis/customer-feedback-insight-engine.md) | Turns customer feedback into actionable insights and response plans for sales leadership. |
 | [Customer Feedback Insights Analyst](data-analysis/customer-feedback-insights-analyst.md) | Analyzes customer feedback to extract insights, track trends, and guide business development decisions. |
+| [Customer Insight Strategist](../executives-and-strategy/data-analysis/customer-insight-strategist.md) | Turns sales data into customer insights, forecasts, and strategy for an EVP of Sales. |
 | [Customer Report Generator](../customer-support/data-analysis/customer-report-generator.md) | Generates, customizes, and tracks customer reports from data collection to delivery. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 | [Dynamic Pricing Strategist](data-analysis/dynamic-pricing-strategist.md) | Analyzes market data and adjusts prices dynamically to maximize revenue for sales managers. |
 | [E-commerce Pricing Optimizer](../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [Email Marketing Analytics Assistant](data-analysis/email-marketing-analytics-assistant.md) | Turns your email campaign data into clear insights and reports. |
+| [EVP Sales Forecast Strategist](../executives-and-strategy/data-analysis/evp-sales-forecast-strategist.md) | Turns sales data into forecasts, scenarios, and insights for the EVP of Sales. |
 | [Feedback to Sales Actions](data-analysis/feedback-to-sales-actions.md) | Turns customer feedback into clear insights and actions for sales and marketing. |
 | [Footballbin Predictions](../marketing/data-analysis/footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
 | [Forecast Builder with Approvals](../it-and-development/data-analysis/forecast-builder-with-approvals.md) | Builds, checks, and updates sales forecasts from your data, with approval before any action. |
@@ -311,9 +322,12 @@ Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for thi
 | [Sales Forecasting Assistant](data-analysis/sales-forecasting-assistant.md) | Turns your sales data and market context into forecasts, targets, and reports you can act on. |
 | [Sales Forecasting Intelligence Hub](data-analysis/sales-forecasting-intelligence-hub.md) | Turns sales data into forecasts, benchmarks, and actionable plans for a Vice President of Sales. |
 | [Sales Intel Strategist](data-analysis/sales-intel-strategist.md) | Turns market data into competitor, customer, and trend insights for sales strategy. |
+| [Sales Leadership Feedback Analyst](../executives-and-strategy/data-analysis/sales-leadership-feedback-analyst.md) | Turns customer feedback into actionable insights for sales leadership. |
 | [Sales Manager Feedback Decoder](data-analysis/sales-manager-feedback-decoder.md) | Turns customer feedback into clear insights and actions for a sales manager. |
 | [Sales Performance Analyst](data-analysis/sales-performance-analyst.md) | Turns sales data into performance insights, forecasts, and coaching for sales teams. |
+| [Sales Performance Metrics Analyst](../executives-and-strategy/data-analysis/sales-performance-metrics-analyst.md) | Analyzes sales performance data to deliver insights, forecasts, and reports for strategic decisions. |
 | [Sales Performance Tracking Assistant](data-analysis/sales-performance-tracking-assistant.md) | Turns your sales data into targets, forecasts, dashboards, and review reports. |
+| [Sales Segment Architect](../executives-and-strategy/data-analysis/sales-segment-architect.md) | Turns customer data into actionable segments and targeted sales strategies. |
 | [Sales Strategy Trend Advisor](data-analysis/sales-strategy-trend-advisor.md) | Turns market data into trend insights, forecasts, and sales strategy recommendations. |
 | [Sales Strategy Trend Analyst](data-analysis/sales-strategy-trend-analyst.md) | Turns market data into trend insights, forecasts, and sales strategy recommendations. |
 | [Sales Team Performance Analyst](data-analysis/sales-team-performance-analyst.md) | Analyze sales team performance and drive strategy with data-backed insights and recommendations. |
@@ -347,6 +361,7 @@ Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for thi
 | [Market Research and Analysis Assistant](research/market-research-and-analysis-assistant.md) | Market research and analysis assistant for digital marketing managers. |
 | [Market Scout](../marketing/research/market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
 | [Medical Literature Summarizer for Pharma Sales](research/medical-literature-summarizer-for-pharma-sales.md) | Searches, summarizes, and organizes medical literature for pharmaceutical sales discussions. |
+| [Partnership Pipeline Researcher](../executives-and-strategy/research/partnership-pipeline-researcher.md) | Finds and vets partners, events, and outreach for your business development pipeline. |
 | [People Data](research/people-data.md) | Research LinkedIn profiles and public business contacts via MCP. |
 | [Persona Workshop Facilitator](../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Pharma Competitive Intelligence Assistant](research/pharma-competitive-intelligence-assistant.md) | Competitive intelligence for pharmaceutical sales reps, from market research to strategy. |
@@ -423,6 +438,18 @@ Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for thi
 | [Social Media Strategy Optimizer](social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Whatsapp Automation](../marketing/social-media/whatsapp-automation.md) | Automate WhatsApp Business messaging, templates, media, and contacts via Rube MCP. |
 
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Sales Onboarding Program Builder](teaching-and-tutoring/sales-onboarding-program-builder.md) | Designs and runs complete sales onboarding and training programs for new staff. |
+| [Sales Training Module Architect](../executives-and-strategy/teaching-and-tutoring/sales-training-module-architect.md) | Builds and maintains sales training modules that improve team performance. |
+| [Sales Training Program Architect](teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
+| [Sales Training Program Builder](teaching-and-tutoring/sales-training-program-builder.md) | Builds and runs a complete sales training program with coaching, materials, and performance tracking. |
+| [Sales Training Program Designer](teaching-and-tutoring/sales-training-program-designer.md) | Designs and manages employee training and development programs for a sales organization. |
+| [Team Training Program Designer](teaching-and-tutoring/team-training-program-designer.md) | Designs and runs team training programs for business development managers. |
+| [Training Program Developer](teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
+
 ## Support & Community
 
 | Template | What it does |
@@ -433,17 +460,6 @@ Prospecting, pipeline and closing. **383 ready-made Grok Bot templates** for thi
 | [Patient Advocacy Support Coordinator](support-and-community/patient-advocacy-support-coordinator.md) | Coordinates patient support, education, and advocacy resources for pharmaceutical sales reps. |
 | [Personalized Insurance Service Assistant](../customer-support/support-and-community/personalized-insurance-service-assistant.md) | Personalized insurance service assistant for customer service representatives. |
 | [Post-Sale Service Assistant](support-and-community/post-sale-service-assistant.md) | Handles post-sale customer service tasks and prepares content for sales managers. |
-
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Sales Onboarding Program Builder](teaching-and-tutoring/sales-onboarding-program-builder.md) | Designs and runs complete sales onboarding and training programs for new staff. |
-| [Sales Training Program Architect](teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
-| [Sales Training Program Builder](teaching-and-tutoring/sales-training-program-builder.md) | Builds and runs a complete sales training program with coaching, materials, and performance tracking. |
-| [Sales Training Program Designer](teaching-and-tutoring/sales-training-program-designer.md) | Designs and manages employee training and development programs for a sales organization. |
-| [Team Training Program Designer](teaching-and-tutoring/team-training-program-designer.md) | Designs and runs team training programs for business development managers. |
-| [Training Program Developer](teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
 
 ## Design
 

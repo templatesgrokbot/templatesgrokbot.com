@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,265 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,276 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,9 +11,9 @@ Processes, logistics and the systems that run a business. **1,265 ready-made Gro
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 427 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 189 |
-| [Productivity](productivity/README.md) | 179 |
+| [Data Analysis](data-analysis/README.md) | 432 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 190 |
+| [Productivity](productivity/README.md) | 184 |
 | [Security & Compliance](security-and-compliance/README.md) | 96 |
 | [Research](research/README.md) | 82 |
 | [Coding](coding/README.md) | 60 |
@@ -44,12 +44,12 @@ Processes, logistics and the systems that run a business. **1,265 ready-made Gro
 | [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Podcast Content Analyzer](data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
 | [Monte Carlo Performance Diagnosis](../it-and-development/data-analysis/monte-carlo-performance-diagnosis.md) | Diagnoses pipeline performance issues using Monte Carlo observability data. |
-| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
+| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 427 Data Analysis templates →](data-analysis/README.md)
+[All 432 Data Analysis templates →](data-analysis/README.md)
 
 ## Cloud & DevOps
 
@@ -60,26 +60,26 @@ Processes, logistics and the systems that run a business. **1,265 ready-made Gro
 | [Kubernetes Architect](../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
 | [Zapier Make Patterns](../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
-| [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
+| [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
 
-[All 189 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 190 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Productivity
 
 | Template | What it does |
 |---|---|
 | [Doordash Group Orders](productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
-| [Spark](productivity/spark.md) | Guides new users through a short questionnaire, then automatically creates the bots and connectors they need. |
 | [Meal Prep](productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
+| [Spark](productivity/spark.md) | Guides new users through a short questionnaire, then automatically creates the bots and connectors they need. |
 | [Markitdown](productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
 | [Diary](productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Obsidian Clipper Template Creator](productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
-| [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
+| [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 
-[All 179 Productivity templates →](productivity/README.md)
+[All 184 Productivity templates →](productivity/README.md)
 
 ## Security & Compliance
 
@@ -132,8 +132,8 @@ Processes, logistics and the systems that run a business. **1,265 ready-made Gro
 |---|---|
 | [Crossframe Casebook](knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
 | [Maintain Codex Wiki](../it-and-development/knowledge-management/maintain-codex-wiki.md) | Maintain a review-first engineering wiki with provenance and citation-aware queries. |
-| [Document Digitization Assistant](knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
 | [Content Curator](knowledge-management/content-curator.md) | Curates Obsidian vault content by detecting duplicates, stubs, and outdated notes. |
+| [Document Digitization Assistant](knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
 | [Connection Agent](knowledge-management/connection-agent.md) | Analyzes an Obsidian vault to suggest links between notes and identify orphaned content. |
 | [Ingest Youtube](knowledge-management/ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
 | [Review Agent](knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
@@ -192,8 +192,8 @@ Processes, logistics and the systems that run a business. **1,265 ready-made Gro
 |---|---|
 | [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
 | [Territory Planning Optimizer](../sales/sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
-| [Supplier Negotiation Assistant](sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
 | [Vendor Negotiation Assistant](sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
+| [Supplier Negotiation Assistant](sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
 | [Vendor Management Assistant](sales-and-negotiation/vendor-management-assistant.md) | Manages vendor evaluation, selection, negotiation, performance, risk, and development for supply chain analysts. |
 | [Vendor Relationship Management Assistant](sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
 | [Supplier Relationship Manager](../management/sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
@@ -220,14 +220,14 @@ Processes, logistics and the systems that run a business. **1,265 ready-made Gro
 
 | Template | What it does |
 |---|---|
-| [Mcp Integration Engineer](../it-and-development/generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
 | [Llm Ops](../it-and-development/generative-ai-and-llm/llm-ops.md) | Designs and operates production RAG pipelines, embeddings, vector DBs, and cost-efficient LLM systems. |
+| [Mcp Integration Engineer](../it-and-development/generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
 | [Azure Ai Contentsafety Py](../it-and-development/generative-ai-and-llm/azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
 | [Polis Protocol](../it-and-development/generative-ai-and-llm/polis-protocol.md) | Coordinate multi-vendor AI agents as a self-improving team with learning routing and amendable rules. |
 | [Machine Learning Engineer](../it-and-development/generative-ai-and-llm/machine-learning-engineer.md) | Deploy and optimize ML models for production inference at scale. |
 | [Delegating To Agents](../it-and-development/generative-ai-and-llm/delegating-to-agents.md) | Delegate bounded work to other AI agents with full context and progress checks. |
 | [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
-| [Nika](../it-and-development/generative-ai-and-llm/nika.md) | Runs repeatable AI workflows as checked, budgeted YAML files with tamper-evident receipts. |
+| [Loopy](../it-and-development/generative-ai-and-llm/loopy.md) | Discover, craft, audit, and publish bounded AI-agent loops from engineering work. |
 
 [All 14 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 

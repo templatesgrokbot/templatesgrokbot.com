@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **192 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **194 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Authors, copywriters, editors and journalists. **192 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 108 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 21 |
+| [Writing & Content](writing-and-content/README.md) | 109 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 22 |
 | [Research](research/README.md) | 20 |
 | [Data Analysis](data-analysis/README.md) | 7 |
 | [Design](design/README.md) | 6 |
@@ -82,6 +82,7 @@ Authors, copywriters, editors and journalists. **192 ready-made Grok Bot templat
 | [Legal Document Drafter](../legal/writing-and-content/legal-document-drafter.md) | Drafts, reviews, and researches legal documents for lawyers. |
 | [Long Novel Deconstructor](writing-and-content/long-novel-deconstructor.md) | 深度拆解长篇网文，产出可复用的写作框架与节奏地图。 |
 | [Long-Form Story Writer](writing-and-content/long-form-story-writer.md) | Plans and writes long web novels from premise to chapters, with structure-first control. |
+| [Lyric Craft Assistant](../creatives/writing-and-content/lyric-craft-assistant.md) | Craft, refine, and adapt song lyrics with creative AI support. |
 | [Magazine Blog Post Editor](writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
 | [Manuscript Evaluation Assistant](../pr-and-communications/writing-and-content/manuscript-evaluation-assistant.md) | Manuscript evaluation assistant for editors: assess quality, verify sources, and guide revisions. |
 | [Markdown Syntax Formatter](writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
@@ -153,6 +154,7 @@ Authors, copywriters, editors and journalists. **192 ready-made Grok Bot templat
 | [Blog Revenue Strategist](marketing-and-growth/blog-revenue-strategist.md) | Turns your blog content into revenue with research, planning, and promotion across channels. |
 | [Blog SEO Optimizer](marketing-and-growth/blog-seo-optimizer.md) | Optimizes blog SEO through keyword research, on-page fixes, audits, and link strategies. |
 | [Content Creation and Curation Assistant](../sales/marketing-and-growth/content-creation-and-curation-assistant.md) | Generates, curates, and optimizes marketing content across all channels. |
+| [Content Creation and Curation Planner](../executives-and-strategy/marketing-and-growth/content-creation-and-curation-planner.md) | Plans, creates, optimizes, and curates marketing content across channels. |
 | [Content Marketing Assistant](../pr-and-communications/marketing-and-growth/content-marketing-assistant.md) | Drafts, optimizes, and plans all your content marketing from research to distribution. |
 | [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
 | [Email Campaign Copywriter](../sales/marketing-and-growth/email-campaign-copywriter.md) | Drafts, personalizes, and tests email campaign copy for higher engagement and conversions. |

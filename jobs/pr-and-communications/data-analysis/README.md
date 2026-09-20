@@ -1,6 +1,6 @@
 # Data Analysis templates for PR and Communications
 
-Clean, query, chart and explain data. 23 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 24 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,6 +25,7 @@ Clean, query, chart and explain data. 23 Grok Bot templates, 11 of them filed in
 | [PR Campaign Analytics Assistant](pr-campaign-analytics-assistant.md) | Turns PR campaign data into actionable insights, reports, and optimization recommendations. |
 | [PR Feedback Insight Engine](pr-feedback-insight-engine.md) | Turns feedback data into PR insights, reports, and early warnings. |
 | [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
+| [Social Media Analytics Insight Engine](../../executives-and-strategy/data-analysis/social-media-analytics-insight-engine.md) | Turns social media data into actionable marketing insights for a global head of marketing. |
 | [Social Media Engagement Analyst](../../management/data-analysis/social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
 | [Social Media Insights Analyst](../../it-and-development/data-analysis/social-media-insights-analyst.md) | Analyzes social media data to deliver insights, trends, and optimization strategies for business analysts. |
 | [Social Pulse Insight Scout](../../science-and-research/data-analysis/social-pulse-insight-scout.md) | Analyzes social media data to reveal trends, sentiment, and influencers for market research. |

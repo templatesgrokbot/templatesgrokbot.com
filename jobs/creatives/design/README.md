@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 157 Grok Bot templates, 117 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 158 Grok Bot templates, 118 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -35,6 +35,7 @@ Interfaces, brands, layouts and visual systems. 157 Grok Bot templates, 117 of t
 | [Color Blocking](color-blocking.md) | Build Mondrian-style layouts with bold color blocks and thick grid lines. |
 | [Color Palette Extractor](color-palette-extractor.md) | Extracts color palettes from images or sites and exports them in multiple formats. |
 | [Color Theory Design Assistant](color-theory-design-assistant.md) | Guides UX/UI designers through color theory, palettes, and accessibility. |
+| [Cover Art Concept Generator](cover-art-concept-generator.md) | Turns your song's mood into cover art concepts, from mood boards to final design directions. |
 | [Creative Portfolio Resume](creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
 | [CSS Animation Creator](css-animation-creator.md) | Create production-grade, accessible CSS animations and motion design for web UIs. |
 | [Cyberpunk Ui](cyberpunk-ui.md) | Generate neon-on-black UI with clipped corners and glitch accents. |

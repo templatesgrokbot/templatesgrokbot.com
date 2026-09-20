@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 69 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 70 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -58,6 +58,7 @@ Clean, query, chart and explain data. 69 Grok Bot templates, 34 of them filed in
 | [Product Manager Toolkit](product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
 | [Product Metrics Analyst](product-metrics-analyst.md) | Turns product metrics into clear insights, reports, and recommendations. |
 | [Product Performance Insights](../../it-and-development/data-analysis/product-performance-insights.md) | Turns your product data into clear insights, forecasts, and decisions for business growth. |
+| [Product Strategy Insights Assistant](../../executives-and-strategy/data-analysis/product-strategy-insights-assistant.md) | Turns market, customer, and competitor data into product strategy insights for business development. |
 | [Product Usage Analytics Assistant](../../customer-support/data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
 | [Production Scheduling](../../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Prototype Testing Analysis Assistant](prototype-testing-analysis-assistant.md) | Analyzes prototype test data and generates reports for R&D engineers. |

@@ -1,6 +1,6 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 63 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 67 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, write and measure posts across networks. 63 Grok Bot templates, 51 of them
 | [Crisis Communication Manager](crisis-communication-manager.md) | Monitors social media, drafts crisis responses, and builds playbooks for social media coordinators. |
 | [Crisis Management Guide](crisis-management-guide.md) | Guides social media managers through every phase of a crisis, from monitoring to recovery. |
 | [Digital Crisis Management Assistant](../../sales/social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
+| [EVP Social Media Command Center](../../executives-and-strategy/social-media/evp-social-media-command-center.md) | Plans, creates, and optimizes your social media strategy from calendar to crisis. |
 | [Finance Social Media Manager](../../finance/social-media/finance-social-media-manager.md) | Manages your social media content, engagement, analytics, and trends from one chat. |
 | [Hashtag Strategy Assistant](hashtag-strategy-assistant.md) | Researches, optimizes, and tracks hashtags for social media campaigns and engagement. |
 | [Influencer Collaboration Planner](influencer-collaboration-planner.md) | Plans and runs influencer collaborations from discovery to performance review. |
@@ -43,11 +44,13 @@ Plan, write and measure posts across networks. 63 Grok Bot templates, 51 of them
 | [Social Media Content Planner](../../pr-and-communications/social-media/social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |
 | [Social Media Content Strategist](social-media-content-strategist.md) | Develops and refines your social media content strategy from research to performance analysis. |
 | [Social Media Copywriter](social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |
+| [Social Media Insights Director](../../executives-and-strategy/social-media/social-media-insights-director.md) | Turns social media data into strategic marketing insights for directors. |
 | [Social Media Management Assistant](../../sales/social-media/social-media-management-assistant.md) | Plans, creates, and manages social media content and engagement for digital marketing managers. |
 | [Social Media Reporting Assistant](social-media-reporting-assistant.md) | Turns social media data into clear reports, insights, and strategy recommendations. |
 | [Social Media Sales Intelligence](../../sales/social-media/social-media-sales-intelligence.md) | Turns social media chatter into sales intelligence: competitors, trends, sentiment, influencers, and campaign impact. |
 | [Social Media SEO Optimizer](social-media-seo-optimizer.md) | Optimizes social media content for search engines and tracks SEO performance. |
 | [Social Media Strategy Architect](../../executives-and-strategy/social-media/social-media-strategy-architect.md) | Builds and refines your social media strategy from audit to reporting. |
+| [Social Media Strategy Assistant](../../executives-and-strategy/social-media/social-media-strategy-assistant.md) | Plans, creates, schedules, and analyzes social media for CMOs. |
 | [Social Media Strategy Optimizer](../../sales/social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Social Media Trend Analyst](social-media-trend-analyst.md) | Tracks social media trends and turns them into reports, content, and campaign plans. |
 | [Social Orchestrator](social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |
@@ -63,6 +66,7 @@ Plan, write and measure posts across networks. 63 Grok Bot templates, 51 of them
 | [User-Generated Content Strategist](user-generated-content-strategist.md) | Manages user-generated content from moderation to campaign evaluation for social media managers. |
 | [Visual Content Advisor](visual-content-advisor.md) | Advises social media managers on visual content, from ideas to optimization. |
 | [Visual Storytelling Campaign Planner](visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
+| [Vocal Artist Social Media](../../creatives/social-media/vocal-artist-social-media.md) | Plans, creates, and analyzes social media for vocal artists and singer-songwriters. |
 | [Whatsapp Automation](whatsapp-automation.md) | Automate WhatsApp Business messaging, templates, media, and contacts via Rube MCP. |
 | [X Article Publisher](x-article-publisher-skill.md) | Publish articles to X/Twitter with formatted posts and media. |
 | [X Brief](x-brief.md) | Connects to X, analyzes your recent posts to identify your beat, and flags relevant events with a daily wrap-up. |

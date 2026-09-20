@@ -1,11 +1,12 @@
 # Research templates for Government
 
-Find sources, compare evidence and summarise what is known. 29 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 30 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [CIO IT Strategy Advisor](../../executives-and-strategy/research/cio-it-strategy-advisor.md) | Develops and guides your IT strategy from assessment to execution. |
 | [Compliance Docket Analyst](../../legal/research/compliance-docket-analyst.md) | Regulatory filing assistant for compliance analysts: research, draft, validate, track, and submit compliant documents. |
 | [Contract Drafting Assistant](../../legal/research/contract-drafting-assistant.md) | Guides contract drafting, review, compliance, and management from template to execution. |
 | [Contract Risk Assessment Assistant](../../legal/research/contract-risk-assessment-assistant.md) | Identifies, evaluates, and mitigates contract risks with structured reports and stakeholder updates. |

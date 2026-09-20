@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **128 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **131 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Property, building and site work. **128 ready-made Grok Bot templates** for this
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 33 |
-| [Productivity](productivity/README.md) | 29 |
+| [Data Analysis](data-analysis/README.md) | 34 |
+| [Productivity](productivity/README.md) | 31 |
 | [Security & Compliance](security-and-compliance/README.md) | 18 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 15 |
 | [Research](research/README.md) | 12 |
@@ -35,6 +35,7 @@ Property, building and site work. **128 ready-made Grok Bot templates** for this
 | [Comparative Market Analysis Assistant](data-analysis/comparative-market-analysis-assistant.md) | Builds complete comparative market analysis reports and pricing strategies for real estate brokers. |
 | [Construction Budget Estimator](data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Construction Risk Assessment Assistant](data-analysis/construction-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates construction project risks with AI-driven insights. |
+| [COO Risk Mitigation Reports](../executives-and-strategy/data-analysis/coo-risk-mitigation-reports.md) | Identifies, assesses, and mitigates operational risks for COOs with data-driven insights and reports. |
 | [Defect Identification Assistant](../operations/data-analysis/defect-identification-assistant.md) | Analyzes defects across images, data, text, and processes, and drives quality improvements. |
 | [Energy Audit Analyst](../science-and-research/data-analysis/energy-audit-analyst.md) | Turns energy data into audit findings, savings, and reports for energy engineers. |
 | [Energy Audit Assistant](../science-and-research/data-analysis/energy-audit-assistant.md) | Turns energy data into audit findings, savings plans, and compliance-ready reports. |
@@ -72,6 +73,7 @@ Property, building and site work. **128 ready-made Grok Bot templates** for this
 | [Construction Workforce Allocator](productivity/construction-workforce-allocator.md) | Optimizes construction workforce scheduling, allocation, tracking, and development. |
 | [Electrification Project Planner](../science-and-research/productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Equipment Maintenance Program Builder](../operations/productivity/equipment-maintenance-program-builder.md) | Builds and runs a complete equipment maintenance program from inspection to compliance tracking. |
+| [Executive Project Guidance](../executives-and-strategy/productivity/executive-project-guidance.md) | Guides EVPs through project planning, risk, budgets, teams, and reporting. |
 | [Facility Operations Planner](../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
 | [Facility Ops Chat Manager](../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
 | [Hotel Maintenance Schedule Coordinator](../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
@@ -80,6 +82,7 @@ Property, building and site work. **128 ready-made Grok Bot templates** for this
 | [Production Deadline Planner](../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
 | [Production Resource Allocation Planner](../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
 | [Project Budget Management Assistant](../management/productivity/project-budget-management-assistant.md) | Guides project managers through budget planning, monitoring, and adjustments. |
+| [Project Management Coordination Assistant](../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
 | [Project Management Efficiency Assistant](../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Project Management Support Assistant](../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
 | [Project Planning Assistant](../management/productivity/project-planning-assistant.md) | Assists project managers with planning, analysis, and documentation tasks. |

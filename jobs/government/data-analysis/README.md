@@ -1,6 +1,6 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 66 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 69 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -35,6 +35,7 @@ Clean, query, chart and explain data. 66 Grok Bot templates, 0 of them filed in 
 | [Employee Template Tracking Planner](../../education/data-analysis/employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
 | [Environmental Risk Assessment Assistant](../../science-and-research/data-analysis/environmental-risk-assessment-assistant.md) | Assists environmental engineers with risk assessment, analysis, reporting, and compliance. |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
+| [Executive Risk Intelligence Assistant](../../executives-and-strategy/data-analysis/executive-risk-intelligence-assistant.md) | Turns your risk data into actionable insights and keeps your risk posture current. |
 | [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
 | [Gap Closure Training Planner](../../human-resources/data-analysis/gap-closure-training-planner.md) | Identifies training needs and aligns development programs with organizational goals. |
 | [Hydrogeology Data Analyst](../../science-and-research/data-analysis/hydrogeology-data-analyst.md) | Analyzes hydrogeological data and drafts reports, models, and plans for groundwater work. |
@@ -45,6 +46,7 @@ Clean, query, chart and explain data. 66 Grok Bot templates, 0 of them filed in 
 | [Operational KPI Dashboard Designer](../../operations/data-analysis/operational-kpi-dashboard-designer.md) | Designs and maintains operational KPI dashboards with data integration, analysis, and reporting. |
 | [Performance Management Guidance](../../human-resources/data-analysis/performance-management-guidance.md) | Guides HR directors through every step of performance management, from criteria to communication. |
 | [Performance Metrics Manager](../../management/data-analysis/performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
+| [Performance Metrics Strategist](../../executives-and-strategy/data-analysis/performance-metrics-strategist.md) | Develops and refines performance metrics for strategic decision-making. |
 | [Post-Project Analysis Assistant](../../management/data-analysis/post-project-analysis-assistant.md) | Turns completed project data into a lessons-learned report and future-project recommendations. |
 | [Procurement Risk Assessor](../../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
 | [Procurement Risk Management Assistant](../../operations/data-analysis/procurement-risk-management-assistant.md) | Procurement risk management assistant that assesses, mitigates, and monitors supplier, contract, and supply chain risks. |
@@ -63,6 +65,7 @@ Clean, query, chart and explain data. 66 Grok Bot templates, 0 of them filed in 
 | [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Stakeholder Engagement Analyst](../../it-and-development/data-analysis/stakeholder-engagement-analyst.md) | Maps, analyzes, and reports on stakeholders to sharpen engagement strategies. |
+| [Strategic Data Insights Assistant](../../executives-and-strategy/data-analysis/strategic-data-insights-assistant.md) | Turns your data into strategic insights and recommendations for confident decisions. |
 | [Supplier Evaluation Analyst](../../management/data-analysis/supplier-evaluation-analyst.md) | Evaluates supplier performance, risk, and compliance to support procurement decisions. |
 | [Survey Data Processing Assistant](../../operations/data-analysis/survey-data-processing-assistant.md) | Cleans, enters, validates, analyzes, and reports survey data with accuracy and insight. |
 | [Training Needs Analysis Assistant](../../education/data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |

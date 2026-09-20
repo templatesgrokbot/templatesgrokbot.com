@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 196 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 197 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -138,6 +138,7 @@ Clean, query, chart and explain data. 196 Grok Bot templates, 143 of them filed 
 | [Pollution Control Consultant Assistant](pollution-control-consultant-assistant.md) | Analyzes pollution data, ensures compliance, and develops control strategies for environmental consultants. |
 | [Power Grid Analysis Assistant](power-grid-analysis-assistant.md) | Analyzes power grid data for load flow, faults, stability, renewables, and modernization planning. |
 | [Predictive Analytics Workflow Assistant](predictive-analytics-workflow-assistant.md) | Guides data scientists through the full predictive analytics workflow, from data prep to deployment and forecasting. |
+| [Predictive Modeling Assistant](../../executives-and-strategy/data-analysis/predictive-modeling-assistant.md) | Builds and maintains predictive models for competitive intelligence, from data to forecasts. |
 | [Process Data Analyst](process-data-analyst.md) | Analyzes process data to uncover patterns, trends, and risks for process development scientists. |
 | [Process QC Statistical Reports](process-qc-statistical-reports.md) | Analyzes quality control data, runs statistical tests, and generates reports to improve manufacturing processes. |
 | [Product Feedback Insight Analyst](product-feedback-insight-analyst.md) | Turns customer feedback into clear insights and trend reports for product decisions. |

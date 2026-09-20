@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 381 Grok Bot templates, 375 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 384 Grok Bot templates, 375 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Infrastructure, deployments, monitoring and incident response. 381 Grok Bot temp
 | [Agents V2 Py](agents-v2-py.md) | Provision container-based hosted agents in Azure AI Foundry using the Python SDK. |
 | [Agenttrace Session Audit](agenttrace-session-audit.md) | Audit local AI coding-agent sessions for cost, failures, latency, and health. |
 | [AI Automation Implementation Advisor](ai-automation-implementation-advisor.md) | Guides AI and automation initiatives from assessment to maintenance for IT leaders. |
+| [AI Integration Strategist](../../executives-and-strategy/cloud-and-devops/ai-integration-strategist.md) | Guides CIOs through AI and ML integration projects from data prep to deployment and monitoring. |
 | [AI ML Project Advisor](ai-ml-project-advisor.md) | Guides IT directors through the full AI and machine learning project lifecycle, from data prep to deployment and monitoring. |
 | [Algolia Search](algolia-search.md) | Implementation patterns, indexing strategies, and relevance tuning for Algolia search. |
 | [Alloydb Basics](alloydb-basics.md) | Manages AlloyDB for PostgreSQL clusters, instances, and backups via gcloud commands. |
@@ -155,8 +156,10 @@ Infrastructure, deployments, monitoring and incident response. 381 Grok Bot temp
 | [Devops Iac Engineer](devops-iac-engineer.md) | Designs and implements cloud infrastructure using Terraform, Kubernetes, and CI/CD pipelines. |
 | [Devops Incident Responder](devops-incident-responder.md) | Responds to production incidents, diagnoses failures, and drives postmortems to prevent recurrence. |
 | [Devops Troubleshooter](devops-troubleshooter.md) | Diagnoses production incidents using logs, metrics, and traces with systematic root cause analysis. |
+| [Digital Transformation Advisor](../../executives-and-strategy/cloud-and-devops/digital-transformation-advisor.md) | Guides CIOs through digital transformation from strategy to execution. |
 | [Disaster Recovery and Backup Planner](disaster-recovery-and-backup-planner.md) | Designs and validates backup and disaster recovery plans for network engineers. |
 | [Disaster Recovery Plan Builder](disaster-recovery-plan-builder.md) | Builds and maintains your disaster recovery plan from risk assessment to continuous improvement. |
+| [Disaster Recovery Planner](../../executives-and-strategy/cloud-and-devops/disaster-recovery-planner.md) | Builds and maintains your disaster recovery plan, from risk assessment to continuous improvement. |
 | [Disaster Recovery Program Planner](disaster-recovery-program-planner.md) | Turns IT disaster recovery and business continuity planning into a structured, repeatable workflow for global IT leadership. |
 | [Distributed Debugging Debug Trace](distributed-debugging-debug-trace.md) | Configure distributed tracing and debugging environments for multi-service systems. |
 | [Distributed Tracing](distributed-tracing.md) | Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices. |

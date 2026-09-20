@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 253 Grok Bot templates, 246 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 256 Grok Bot templates, 246 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -64,8 +64,10 @@ Authorised security testing, audits and regulatory work. 253 Grok Bot templates,
 | [Cra Vulnerability Obligations](cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
 | [Cred Omega](cred-omega.md) | Enterprise credential and secret lifecycle management engine. |
 | [Cyber Audit](cyber-audit.md) | Read-only local exposure checks for CVEs & advisories with structured markdown reports. |
+| [Cybersecurity Assessment Guide](../../executives-and-strategy/security-and-compliance/cybersecurity-assessment-guide.md) | Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response. |
 | [Cybersecurity Management Assistant](cybersecurity-management-assistant.md) | Cybersecurity management assistant for global heads of IT, turning data into defense actions. |
 | [Cybersecurity Risk Assessment Assistant](cybersecurity-risk-assessment-assistant.md) | Guides IT VPs through cybersecurity risk assessments, from scans to reports. |
+| [Cybersecurity Strategy Developer](../../executives-and-strategy/security-and-compliance/cybersecurity-strategy-developer.md) | Develops and manages your organization's cybersecurity strategy from risk assessment to incident response. |
 | [Data Management Governance Assistant](data-management-governance-assistant.md) | Aides VPs of IT in data management tasks from classification to compliance. |
 | [Data Privacy Compliance](../../legal/security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
 | [Database Security](database-security.md) | Authorized database security assessment for PostgreSQL, MySQL, MSSQL, MongoDB, and Redis. |
@@ -176,6 +178,7 @@ Authorised security testing, audits and regulatory work. 253 Grok Bot templates,
 | [Repo Publication Auditor](repo-publication-auditor.md) | Audits what a repository exposes before it goes public, checking history not just the working tree. |
 | [Reverse Engineer](reverse-engineer.md) | Binary reverse engineering for authorized security analysis and CTF challenges. |
 | [Review Action Gate](review-action-gate.md) | Gates AI agent review actions behind human approval with signed receipts. |
+| [Risk and Compliance Assistant](../../executives-and-strategy/security-and-compliance/risk-and-compliance-assistant.md) | Assesses risks, monitors compliance, and guides incident response for your organization. |
 | [Risk Assessment and Analysis Assistant](../../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
 | [Safety Alignment Nemo Guardrails](safety-alignment-nemo-guardrails.md) | Adds programmable safety rails to LLM applications at runtime. |
 | [Sast Configuration](sast-configuration.md) | Configure SAST tools, custom rules, and CI/CD integration for security scanning. |

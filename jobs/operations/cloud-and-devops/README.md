@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Operations
 
-Infrastructure, deployments, monitoring and incident response. 189 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 190 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -67,6 +67,7 @@ Infrastructure, deployments, monitoring and incident response. 189 Grok Bot temp
 | [Devops Troubleshooter](../../it-and-development/cloud-and-devops/devops-troubleshooter.md) | Diagnoses production incidents using logs, metrics, and traces with systematic root cause analysis. |
 | [Disaster Recovery and Backup Planner](../../it-and-development/cloud-and-devops/disaster-recovery-and-backup-planner.md) | Designs and validates backup and disaster recovery plans for network engineers. |
 | [Disaster Recovery Plan Builder](../../it-and-development/cloud-and-devops/disaster-recovery-plan-builder.md) | Builds and maintains your disaster recovery plan from risk assessment to continuous improvement. |
+| [Disaster Recovery Planner](../../executives-and-strategy/cloud-and-devops/disaster-recovery-planner.md) | Builds and maintains your disaster recovery plan, from risk assessment to continuous improvement. |
 | [Distributed Debugging Debug Trace](../../it-and-development/cloud-and-devops/distributed-debugging-debug-trace.md) | Configure distributed tracing and debugging environments for multi-service systems. |
 | [Distributed Tracing](../../it-and-development/cloud-and-devops/distributed-tracing.md) | Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices. |
 | [Domain](../../it-and-development/cloud-and-devops/domain.md) | Manage custom and Railway-provided domains for your Railway services. |

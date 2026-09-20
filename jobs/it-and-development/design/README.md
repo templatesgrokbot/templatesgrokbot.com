@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 90 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 91 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -76,6 +76,7 @@ Interfaces, brands, layouts and visual systems. 90 Grok Bot templates, 32 of the
 | [Retro Design](../../creatives/design/retro-design.md) | Generate retro 60s-80s UI with warm muted colors, grain, and classic typography. |
 | [Retro Futurism](../../creatives/design/retro-futurism.md) | Generate retro-futurist UI with 1950s space-age aesthetics and atompunk vibes. |
 | [Soft Pastel](../../creatives/design/soft-pastel.md) | Implement soft pastel UI with desaturated colors, rounded edges, and airy spacing. |
+| [Software Architecture Design Assistant](../../executives-and-strategy/design/software-architecture-design-assistant.md) | Designs and documents software architecture from requirements to deployment. |
 | [Spatial Computing Ui](spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
 | [Spatial Design](spatial-design.md) | Build environment-aware UIs with glass-like panels, dynamic lighting, and mixed reality aesthetics. |
 | [Stitch Design Taste](../../creatives/design/stitch-design-taste.md) | Generate Google Stitch DESIGN.md files for premium, anti-generic UI systems. |

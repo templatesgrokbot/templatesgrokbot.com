@@ -1,6 +1,6 @@
 # Productivity templates for Real Estate and Construction
 
-Plan, prioritise and clear the recurring admin. 29 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 31 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Plan, prioritise and clear the recurring admin. 29 Grok Bot templates, 9 of them
 | [Construction Workforce Allocator](construction-workforce-allocator.md) | Optimizes construction workforce scheduling, allocation, tracking, and development. |
 | [Electrification Project Planner](../../science-and-research/productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Equipment Maintenance Program Builder](../../operations/productivity/equipment-maintenance-program-builder.md) | Builds and runs a complete equipment maintenance program from inspection to compliance tracking. |
+| [Executive Project Guidance](../../executives-and-strategy/productivity/executive-project-guidance.md) | Guides EVPs through project planning, risk, budgets, teams, and reporting. |
 | [Facility Operations Planner](../../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
 | [Facility Ops Chat Manager](../../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
 | [Hotel Maintenance Schedule Coordinator](../../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
@@ -22,6 +23,7 @@ Plan, prioritise and clear the recurring admin. 29 Grok Bot templates, 9 of them
 | [Production Deadline Planner](../../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
 | [Production Resource Allocation Planner](../../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
 | [Project Budget Management Assistant](../../management/productivity/project-budget-management-assistant.md) | Guides project managers through budget planning, monitoring, and adjustments. |
+| [Project Management Coordination Assistant](../../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
 | [Project Management Efficiency Assistant](../../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Project Management Support Assistant](../../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
 | [Project Planning Assistant](../../management/productivity/project-planning-assistant.md) | Assists project managers with planning, analysis, and documentation tasks. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **665 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **673 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,12 +11,12 @@ Team leads and project managers. **665 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 183 |
-| [Productivity](productivity/README.md) | 164 |
+| [Data Analysis](data-analysis/README.md) | 185 |
+| [Productivity](productivity/README.md) | 168 |
 | [Research](research/README.md) | 64 |
 | [Coding](coding/README.md) | 44 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 37 |
 | [Security & Compliance](security-and-compliance/README.md) | 36 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 35 |
 | [Knowledge Management](knowledge-management/README.md) | 23 |
 | [Writing & Content](writing-and-content/README.md) | 21 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 16 |
@@ -35,16 +35,16 @@ Team leads and project managers. **665 ready-made Grok Bot templates** for this 
 
 | Template | What it does |
 |---|---|
-| [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
+| [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Inventory Demand Planning](../operations/data-analysis/inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Forecast Accuracy Review](../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 | [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
-| [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
+| [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
-[All 183 Data Analysis templates →](data-analysis/README.md)
+[All 185 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -52,14 +52,14 @@ Team leads and project managers. **665 ready-made Grok Bot templates** for this 
 |---|---|
 | [Game Changing Features](../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
 | [Doordash Group Orders](../operations/productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
-| [Linear Automation](../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
 | [Meal Prep](../operations/productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
+| [Linear Automation](../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
 | [Diary](../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Brainstorming](productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 164 Productivity templates →](productivity/README.md)
+[All 168 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -72,7 +72,7 @@ Team leads and project managers. **665 ready-made Grok Bot templates** for this 
 | [Brand Perception Study Assistant](research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Research Analyst](../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
-| [Supplier Diversification Planner](research/supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
+| [User Research Synthesis](../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
 
 [All 64 Research templates →](research/README.md)
 
@@ -91,6 +91,21 @@ Team leads and project managers. **665 ready-made Grok Bot templates** for this 
 
 [All 44 Coding templates →](coding/README.md)
 
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
+| [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
+| [Seo Optimizer](../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
+| [Pricing Strategy Formulation Assistant](marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
+| [Personalized Marketing Strategist](marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
+| [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
+| [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
+| [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
+
+[All 37 Marketing & Growth templates →](marketing-and-growth/README.md)
+
 ## Security & Compliance
 
 | Template | What it does |
@@ -105,21 +120,6 @@ Team leads and project managers. **665 ready-made Grok Bot templates** for this 
 | [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
 
 [All 36 Security & Compliance templates →](security-and-compliance/README.md)
-
-## Marketing & Growth
-
-| Template | What it does |
-|---|---|
-| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
-| [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
-| [Seo Optimizer](../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
-| [Pricing Strategy Formulation Assistant](marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
-| [Personalized Marketing Strategist](marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
-| [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
-| [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
-| [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
-
-[All 35 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Knowledge Management
 
@@ -177,7 +177,7 @@ Team leads and project managers. **665 ready-made Grok Bot templates** for this 
 | [Supplier Relationship Manager](sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
 | [Sales Call Optimizer](../sales/sales-and-negotiation/sales-call-optimizer.md) | Optimizes sales calls from preparation to follow-up with AI-driven insights and coaching. |
 | [Supplier Diversity Program Assistant](sales-and-negotiation/supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
-| [Revenue Strategy Navigator](../sales/sales-and-negotiation/revenue-strategy-navigator.md) | Optimizes sales strategy with market insights, funnel analysis, forecasting, and team performance. |
+| [Sales Presentation Builder](../sales/sales-and-negotiation/sales-presentation-builder.md) | Builds complete sales presentations from audience research to leave-behind documents. |
 
 [All 14 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 

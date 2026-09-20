@@ -1,6 +1,6 @@
 # Data Analysis templates for Hospitality and Events
 
-Clean, query, chart and explain data. 48 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 49 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Clean, query, chart and explain data. 48 Grok Bot templates, 3 of them filed in 
 | [Facility Operations Insight Planner](../../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Feedback Collection Assistant](../../customer-support/data-analysis/feedback-collection-assistant.md) | Collects, analyzes, and reports customer feedback for receptionists to improve service quality. |
 | [Feedback Insight for Service Managers](../../management/data-analysis/feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
+| [Feedback Insight Interpreter](../../executives-and-strategy/data-analysis/feedback-insight-interpreter.md) | Analyzes customer feedback to deliver actionable insights for marketing strategy. |
 | [Feedback Insights for Ops](../../operations/data-analysis/feedback-insights-for-ops.md) | Turns customer feedback into actionable insights and responses for operations managers. |
 | [Hotel Energy Efficiency Analyst](hotel-energy-efficiency-analyst.md) | Analyzes hotel energy data to cut costs and meet sustainability goals. |
 | [Hotel Revenue Optimizer](hotel-revenue-optimizer.md) | Optimizes hotel revenue through pricing, forecasting, and channel analysis. |

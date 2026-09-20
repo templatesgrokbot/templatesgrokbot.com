@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 83 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 85 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,6 +25,7 @@ Plan, prioritise and clear the recurring admin. 83 Grok Bot templates, 33 of the
 | [Conductor Manage](../../operations/productivity/conductor-manage.md) | Manage Conductor track lifecycle: archive, restore, delete, rename, and cleanup. |
 | [Conductor New Track](../../management/productivity/conductor-new-track.md) | Create a new track with specification and phased implementation plan. |
 | [Conductor Status](../../management/productivity/conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
+| [CTO IT Project Navigator](../../executives-and-strategy/productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Daily Meeting Update](daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Deadline Prep](../../management/productivity/deadline-prep.md) | Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you |
 | [Developer Signup Flow](../../product-development/productivity/developer-signup-flow.md) | Design frictionless developer signup flows with OAuth, instant API keys, and progressive profiling. |
@@ -80,6 +81,7 @@ Plan, prioritise and clear the recurring admin. 83 Grok Bot templates, 33 of the
 | [Team Collaboration Standup Notes](../../management/productivity/team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |
 | [Technology Integration Planner](../../operations/productivity/technology-integration-planner.md) | Plans and manages technology integration projects from research to monitoring. |
 | [Technology Roadmap Planner](../../product-development/productivity/technology-roadmap-planner.md) | Builds and maintains technology roadmaps for R&D engineers from market data to execution plans. |
+| [Technology Roadmap Strategist](../../executives-and-strategy/productivity/technology-roadmap-strategist.md) | Turns your tech stack and goals into a prioritized, stakeholder-ready roadmap. |
 | [To Issues](../../product-development/productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
 | [Track Management](track-management.md) | Manage Conductor tracks from spec to completion. |
 | [Triage](triage.md) | Triage issues and PRs through a state machine to agent-ready briefs. |

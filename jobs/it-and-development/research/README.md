@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 90 Grok Bot templates, 44 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 91 Grok Bot templates, 44 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -90,6 +90,7 @@ Find sources, compare evidence and summarise what is known. 90 Grok Bot template
 | [Tools Page Seo Optimizer](../../marketing/research/tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |
 | [Url Context Validator](url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
 | [Usability Testing Assistant](../../creatives/research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
+| [Vendor Evaluation Assistant](../../executives-and-strategy/research/vendor-evaluation-assistant.md) | Evaluates vendors end-to-end for CTOs, from research to exit strategy. |
 | [Vexor](vexor.md) | Search files semantically using a vector-powered CLI with Claude/Codex integration. No file editing or code generation. No autonomous execution withou |
 | [Web To Markdown](web-to-markdown.md) | Converts webpage URLs to clean Markdown using a local browser-based CLI. |
 | [Wiki Builder](../../science-and-research/research/wiki-builder.md) | Create and maintain reusable research wikis with source provenance and local markdown outputs. |

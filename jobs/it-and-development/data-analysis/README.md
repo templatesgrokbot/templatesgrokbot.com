@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 171 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 172 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -77,6 +77,7 @@ Clean, query, chart and explain data. 171 Grok Bot templates, 116 of them filed 
 | [Hf Mem](hf-mem.md) | Estimate VRAM or memory for Hugging Face models without downloading them. |
 | [Hugging Face Dataset Viewer](../../science-and-research/data-analysis/hugging-face-dataset-viewer.md) | Read-only exploration of Hugging Face datasets via the Dataset Viewer API. |
 | [Hugging Face Datasets](hugging-face-datasets.md) | Create, query, and transform Hugging Face Hub datasets via SQL and push results back. |
+| [IT Budget and Cost Optimization Advisor](../../executives-and-strategy/data-analysis/it-budget-and-cost-optimization-advisor.md) | Analyzes IT spending and builds cost-optimization plans for CIOs. |
 | [IT Budget Forecast for Directors](it-budget-forecast-for-directors.md) | Forecast IT budgets, track performance, and communicate insights. |
 | [IT Budget Forecasting Assistant](it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
 | [IT Budget Optimization Assistant](it-budget-optimization-assistant.md) | Analyzes IT spending and operations to find savings and optimize budget decisions. |

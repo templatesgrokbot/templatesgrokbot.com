@@ -1,6 +1,6 @@
 # Security & Compliance templates for Government
 
-Authorised security testing, audits and regulatory work. 52 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 56 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,9 @@ Authorised security testing, audits and regulatory work. 52 Grok Bot templates, 
 | [Compliance Training Oversight Assistant](../../human-resources/security-and-compliance/compliance-training-oversight-assistant.md) | Builds, tracks, and improves compliance training programs for HR specialists. |
 | [Contract Termination Guidance](../../legal/security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
 | [Corrective Action Planning Assistant](../../operations/security-and-compliance/corrective-action-planning-assistant.md) | Turns inspection data into prioritized, compliant corrective action plans with progress tracking. |
+| [Cybersecurity Assessment Guide](../../executives-and-strategy/security-and-compliance/cybersecurity-assessment-guide.md) | Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response. |
+| [Cybersecurity Strategy Developer](../../executives-and-strategy/security-and-compliance/cybersecurity-strategy-developer.md) | Develops and manages your organization's cybersecurity strategy from risk assessment to incident response. |
+| [Data Management Strategy Advisor](../../executives-and-strategy/security-and-compliance/data-management-strategy-advisor.md) | Guides CIOs through data management strategy, from classification to compliance. |
 | [Data Privacy Compliance](../../legal/security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
 | [EHS Safety Assistant](../../operations/security-and-compliance/ehs-safety-assistant.md) | Handles EHS hazard checks, training, compliance, and incident analysis for safety engineers. |
 | [Emergency Response Planner](../../operations/security-and-compliance/emergency-response-planner.md) | Emergency response planning assistant for safety engineers, from risk assessment to post-emergency review. |
@@ -48,6 +51,7 @@ Authorised security testing, audits and regulatory work. 52 Grok Bot templates, 
 | [QC Compliance Report Builder](../../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
 | [Quality Audit Assistant](../../operations/security-and-compliance/quality-audit-assistant.md) | Quality audit assistant that analyzes data, checks compliance, and drafts reports for quality control specialists. |
 | [Regulatory Compliance Monitor](../../operations/security-and-compliance/regulatory-compliance-monitor.md) | Tracks regulatory changes, audits compliance, and reports status for global operations. |
+| [Risk and Compliance Assistant](../../executives-and-strategy/security-and-compliance/risk-and-compliance-assistant.md) | Assesses risks, monitors compliance, and guides incident response for your organization. |
 | [Risk Assessment and Analysis Assistant](../../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
 | [Risk Management Analysis Assistant](../../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
 | [Safety Compliance Assistant](../../operations/security-and-compliance/safety-compliance-assistant.md) | Safety compliance assistant that turns regulations into policies, audits, training, and reports for safety engineers. |

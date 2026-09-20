@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Sales
 
-Campaigns, ads, conversion and launch plans. 106 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 107 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -94,6 +94,7 @@ Campaigns, ads, conversion and launch plans. 106 Grok Bot templates, 57 of them 
 | [Sales Automator](sales-automator.md) | Drafts compliant cold email sequences, proposals, and sales scripts with personalization. |
 | [Sales Campaign Content Creation Assistant](sales-campaign-content-creation-assistant.md) | Sales campaign content assistant for a sales manager, handling research to final assets. |
 | [Sales Enablement Pack](../../marketing/marketing-and-growth/sales-enablement-pack.md) | Builds one-pagers, battlecards, and objection handling docs from product information whenever sales collateral is needed. |
+| [Sales Pipeline Campaign Builder](../../executives-and-strategy/marketing-and-growth/sales-pipeline-campaign-builder.md) | Turns your lead generation data and content into targeted campaigns and prioritized follow-ups. |
 | [Sales Promotion Strategist](sales-promotion-strategist.md) | Generates, designs, and optimizes sales promotions from brainstorming to tracking. |
 | [Scarcity Urgency Psychologist](../../marketing/marketing-and-growth/scarcity-urgency-psychologist.md) | Design genuine scarcity and urgency that motivates action without manipulation. |
 | [Search Ranking Fixer](search-ranking-fixer.md) | Optimizes your website's search ranking with keyword research, content, and technical fixes. |

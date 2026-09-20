@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 183 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 185 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -48,6 +48,7 @@ Clean, query, chart and explain data. 183 Grok Bot templates, 96 of them filed i
 | [Customer Segmentation Analyst](customer-segmentation-analyst.md) | Turns customer data into actionable segments and profiles for targeted marketing. |
 | [Customer Segmentation Strategist](customer-segmentation-strategist.md) | Customer segmentation and targeted retail strategy assistant for retail managers. |
 | [Customer Sentiment Analyst](customer-sentiment-analyst.md) | Analyzes customer sentiment across channels to guide e-commerce decisions. |
+| [Customer Service Improvement Planner](../../executives-and-strategy/data-analysis/customer-service-improvement-planner.md) | Turns customer service data and workflows into actionable improvements for your operations. |
 | [Dashboard Design](../../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
 | [Data Visualization Presentation Assistant](data-visualization-presentation-assistant.md) | Turns raw data into clear, compelling visuals and narratives for client presentations. |
 | [Defect Root Cause Reports](../../operations/data-analysis/defect-root-cause-reports.md) | Analyzes quality control data, finds defects and root causes, and drafts improvement plans for operations managers. |
@@ -60,6 +61,7 @@ Clean, query, chart and explain data. 183 Grok Bot templates, 96 of them filed i
 | [E-commerce Pricing Optimizer](e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [E-commerce Recommendation Optimizer](e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
 | [E-commerce UX Improvement Assistant](e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
+| [Employee Performance Analysis Assistant](../../executives-and-strategy/data-analysis/employee-performance-analysis-assistant.md) | Turns employee performance data into reviews, goals, and plans for your team. |
 | [Employee Performance Analytics Assistant](employee-performance-analytics-assistant.md) | Turns employee performance data into analytics, reviews, dashboards, and improvement plans. |
 | [Energy Consumption Optimizer](../../operations/data-analysis/energy-consumption-optimizer.md) | Optimizes your facility's energy use through data analysis, recommendations, and reporting. |
 | [Energy Procurement](../../operations/data-analysis/energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |

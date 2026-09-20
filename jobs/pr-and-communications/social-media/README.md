@@ -1,6 +1,6 @@
 # Social Media templates for PR and Communications
 
-Plan, write and measure posts across networks. 26 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 28 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Plan, write and measure posts across networks. 26 Grok Bot templates, 6 of them 
 | [Crisis Communication Manager](../../marketing/social-media/crisis-communication-manager.md) | Monitors social media, drafts crisis responses, and builds playbooks for social media coordinators. |
 | [Crisis Management Guide](../../marketing/social-media/crisis-management-guide.md) | Guides social media managers through every phase of a crisis, from monitoring to recovery. |
 | [Digital Crisis Management Assistant](../../sales/social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
+| [Executive Personal Brand Manager](../../executives-and-strategy/social-media/executive-personal-brand-manager.md) | Builds and protects your executive personal brand across all channels. |
 | [Instagram Automation](../../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [Linkedin Automation](../../marketing/social-media/linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
 | [PR Social Media Cycle Partner](pr-social-media-cycle-partner.md) | Social media strategy partner for PR specialists—research, plan, create, track, and optimize content. |
@@ -24,6 +25,7 @@ Plan, write and measure posts across networks. 26 Grok Bot templates, 6 of them 
 | [Social Media Campaign Planner](../../marketing/social-media/social-media-campaign-planner.md) | Plans and executes social media campaigns from research to reporting. |
 | [Social Media Content Planner](social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |
 | [Social Media Copywriter](../../marketing/social-media/social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |
+| [Social Media Insights Director](../../executives-and-strategy/social-media/social-media-insights-director.md) | Turns social media data into strategic marketing insights for directors. |
 | [Social Media Press Relations Assistant](social-media-press-relations-assistant.md) | Manages social media press relations: monitoring, outreach, content, and crisis response. |
 | [Social Media Trend Analyst](../../marketing/social-media/social-media-trend-analyst.md) | Tracks social media trends and turns them into reports, content, and campaign plans. |
 | [Social Orchestrator](../../marketing/social-media/social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |

@@ -1,6 +1,6 @@
 # Writing & Content templates for Creatives
 
-Plan, write and edit articles, copy and documentation. 52 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 55 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -32,11 +32,14 @@ Plan, write and edit articles, copy and documentation. 52 Grok Bot templates, 8 
 | [Email Newsletter Writing Assistant](../../writers/writing-and-content/email-newsletter-writing-assistant.md) | Drafts, personalizes, and optimizes email newsletters from topic to performance analysis. |
 | [Humanizer](../../writers/writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Interactive Content Ideas Generator](../../writers/writing-and-content/interactive-content-ideas-generator.md) | Generates and designs interactive content ideas for writers and creators. |
+| [Lyric Craft Assistant](lyric-craft-assistant.md) | Craft, refine, and adapt song lyrics with creative AI support. |
+| [Lyric Rhyme and Structure Assistant](lyric-rhyme-and-structure-assistant.md) | Helps vocal artists and songwriters craft rhymes, structure, and flow in their lyrics. |
 | [Magazine Blog Post Editor](../../writers/writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
 | [Markdown Syntax Formatter](../../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Marketing Content Creator](../../sales/writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |
 | [Marketing Content Polisher](../../sales/writing-and-content/marketing-content-polisher.md) | Plan, write, and polish marketing content across formats with AI assistance. |
 | [Marp Slide](marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
+| [Music Video Concept Planner](music-video-concept-planner.md) | Turns your song into a visual story with concepts, storyboards, and production plans. |
 | [Newsletter Content Creator](../../sales/writing-and-content/newsletter-content-creator.md) | Drafts, optimizes, and repurposes newsletter content from research to performance analysis. |
 | [Podcast Content Suite](../../marketing/writing-and-content/podcast-content-suite.md) | Turn podcast transcripts into a full content marketing suite: blog, social, newsletter, show notes, audiograms, and SEO. |
 | [Podcast Editor](podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |

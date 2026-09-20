@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **210 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **215 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Recruiting, onboarding and people operations. **210 ready-made Grok Bot template
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 61 |
+| [Data Analysis](data-analysis/README.md) | 66 |
 | [Productivity](productivity/README.md) | 40 |
 | [Writing & Content](writing-and-content/README.md) | 37 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 33 |
@@ -34,6 +34,7 @@ Recruiting, onboarding and people operations. **210 ready-made Grok Bot template
 | [Comp Package Benchmarker](data-analysis/comp-package-benchmarker.md) | Analyzes compensation and benefits data to keep packages competitive, fair, and compliant. |
 | [Compensation Analysis Assistant](data-analysis/compensation-analysis-assistant.md) | Analyzes compensation data to benchmark, ensure equity, and design competitive pay packages. |
 | [Compensation and Benefits Analyst](data-analysis/compensation-and-benefits-analyst.md) | Analyzes compensation and benefits data to inform HR strategy and ensure competitive, compliant packages. |
+| [Corporate Culture Strategy Assistant](../executives-and-strategy/data-analysis/corporate-culture-strategy-assistant.md) | Aligns corporate culture work: surveys, values, inclusion, leadership, change, recognition, communication, team, performance, wellness, onboarding. |
 | [Culture Assessment and Transformation Planner](data-analysis/culture-assessment-and-transformation-planner.md) | Designs and analyzes culture assessments, then builds action plans for HR consultants. |
 | [Culture Pulse Action Planner](data-analysis/culture-pulse-action-planner.md) | Turns employee feedback into a clear culture assessment and action plan. |
 | [Ditto](../it-and-development/data-analysis/ditto.md) | Mine private work profiles from local coding-agent session logs. |
@@ -43,6 +44,8 @@ Recruiting, onboarding and people operations. **210 ready-made Grok Bot template
 | [Employee Engagement Strategist](data-analysis/employee-engagement-strategist.md) | Turns survey data and employee input into engagement plans, events, and recognition programs. |
 | [Employee Engagement Survey Analyst](data-analysis/employee-engagement-survey-analyst.md) | Turns employee engagement survey data into clear insights, reports, and action plans for HR leaders. |
 | [Employee Feedback Compilation Assistant](data-analysis/employee-feedback-compilation-assistant.md) | Turns employee feedback into clear themes, reports, and action plans for HR teams. |
+| [Employee Performance Analysis Assistant](../executives-and-strategy/data-analysis/employee-performance-analysis-assistant.md) | Turns employee performance data into reviews, goals, and plans for your team. |
+| [Employee Performance Analyst](../executives-and-strategy/data-analysis/employee-performance-analyst.md) | Analyzes employee performance data to deliver insights, reports, and action plans for executives. |
 | [Employee Performance Analytics Assistant](../management/data-analysis/employee-performance-analytics-assistant.md) | Turns employee performance data into analytics, reviews, dashboards, and improvement plans. |
 | [Employee Retention Strategist](data-analysis/employee-retention-strategist.md) | Turns HR data and feedback into retention strategies that keep your people. |
 | [Employee Satisfaction Analyst](data-analysis/employee-satisfaction-analyst.md) | Turns employee feedback into clear insights and action plans for HR leaders. |
@@ -79,6 +82,8 @@ Recruiting, onboarding and people operations. **210 ready-made Grok Bot template
 | [Resume Verifier for HR VPs](data-analysis/resume-verifier-for-hr-vps.md) | Screens and ranks resumes for HR VPs, with verification and bias checks. |
 | [Retention Strategy Insights Assistant](data-analysis/retention-strategy-insights-assistant.md) | Analyzes HR data to uncover retention insights and propose strategies. |
 | [Succession Planning Architect](data-analysis/succession-planning-architect.md) | Builds and manages your full succession planning pipeline from talent assessment to knowledge transfer. |
+| [Talent Lifecycle Manager](../executives-and-strategy/data-analysis/talent-lifecycle-manager.md) | Manages the full talent lifecycle for a CTO, from sourcing to offboarding, with data-driven insights. |
+| [Talent Management Strategy Assistant](../executives-and-strategy/data-analysis/talent-management-strategy-assistant.md) | Talent management strategy assistant for EVPs, covering acquisition to retention. |
 | [Team Composition Analysis](data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Template Gap Analysis Assistant](../education/data-analysis/template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
 | [Training Effectiveness Evaluator](../education/data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |

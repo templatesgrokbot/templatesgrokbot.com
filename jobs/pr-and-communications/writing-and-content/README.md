@@ -1,6 +1,6 @@
 # Writing & Content templates for PR and Communications
 
-Plan, write and edit articles, copy and documentation. 47 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 48 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Plan, write and edit articles, copy and documentation. 47 Grok Bot templates, 28
 | [Digital Content Creation Workspace](digital-content-creation-workspace.md) | Turns research and ideas into polished, scheduled content across all digital platforms for PR specialists. |
 | [Drafting Content Assistant](../../writers/writing-and-content/drafting-content-assistant.md) | Drafts, refines, and optimizes your written content from research to final polish. |
 | [Editorial Trend Analyst](editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
+| [Executive Speechwriter](../../executives-and-strategy/writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
 | [Headline Crafting Assistant](headline-crafting-assistant.md) | Crafts and optimizes headlines for editors using research, testing, and performance data. |
 | [Internal Comms Anthropic](internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Internal Comms Community](internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |

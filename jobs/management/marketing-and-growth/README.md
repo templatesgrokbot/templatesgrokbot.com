@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Management
 
-Campaigns, ads, conversion and launch plans. 35 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 37 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,12 +19,14 @@ Campaigns, ads, conversion and launch plans. 35 Grok Bot templates, 22 of them f
 | [E-commerce Launch Strategist](e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
 | [Email Campaign Performance Analyst](email-campaign-performance-analyst.md) | Analyzes email campaign performance and returns actionable insights for e-commerce managers. |
 | [Email Campaign Strategist](email-campaign-strategist.md) | Plans and drafts email campaigns that engage, convert, and respect your readers. |
+| [Event Planning Assistant](../../executives-and-strategy/marketing-and-growth/event-planning-assistant.md) | Plans and manages global events from research to post-event analysis. |
 | [Event Promotion Planner](event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
 | [Influencer Collaboration Manager](influencer-collaboration-manager.md) | Manages influencer collaborations from discovery to reporting, with approval gates for all external actions. |
 | [Influencer Partnership Manager](../../pr-and-communications/marketing-and-growth/influencer-partnership-manager.md) | Run your influencer partnerships from discovery to reporting with reliable workflows and approval gates. |
 | [Influencer Partnership Tracker](../../marketing/marketing-and-growth/influencer-partnership-tracker.md) | Manages influencer collaborations from discovery to reporting. |
 | [Influencer ROI Campaign Orchestrator](../../sales/marketing-and-growth/influencer-roi-campaign-orchestrator.md) | Manages influencer collaborations from discovery to ROI analysis. |
 | [Insurance Marketing Strategist](insurance-marketing-strategist.md) | Develops and executes your insurance agency's marketing strategy from research to performance tracking. |
+| [Launch Campaign Orchestrator](../../executives-and-strategy/marketing-and-growth/launch-campaign-orchestrator.md) | Plans and executes product launches from market research to post-launch follow-up. |
 | [Market Trend Forecasting Assistant](market-trend-forecasting-assistant.md) | Forecast market trends and plan strategy from data, competitor, and consumer insights. |
 | [Marketing Strategy Pmm](../../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Personalized Marketing Strategist](personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |

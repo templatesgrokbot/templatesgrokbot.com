@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Legal
 
-Explain, quiz and guide someone through a subject. 4 Grok Bot templates.
+Explain, quiz and guide someone through a subject. 5 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,5 +10,6 @@ Explain, quiz and guide someone through a subject. 4 Grok Bot templates.
 | [Compliance Training Program Developer](compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 | [Legal Education and Training Assistant](legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
 | [Legal Training Material Creator](legal-training-material-creator.md) | Creates legal training materials, research summaries, and practice tools for lawyers and educators. |
+| [Music Copyright Navigator](../../creatives/teaching-and-tutoring/music-copyright-navigator.md) | Guides vocal artists and songwriters through music copyright law, licensing, and royalties. |
 
 [← All Legal templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/legal)
