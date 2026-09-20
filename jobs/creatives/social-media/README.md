@@ -1,6 +1,6 @@
 # Social Media templates for Creatives
 
-Plan, write and measure posts across networks. 19 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 20 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Plan, write and measure posts across networks. 19 Grok Bot templates, 1 of them 
 | [Instagram Manager](../../marketing/social-media/instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
 | [Linkedin Content Generator](../../marketing/social-media/linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
 | [Linkedin Post Writer](../../marketing/social-media/linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
+| [Photographer Social Media Planner](photographer-social-media-planner.md) | Plan, post, and grow your photography brand on social media with AI assistance. |
 | [Social Content](../../marketing/social-media/social-content.md) | Creates, schedules, and optimizes content across LinkedIn, Twitter/X, Instagram, TikTok, and Facebook. |
 | [Social Content Scheduling Planner](../../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
 | [Social Media Content Creator](../../writers/social-media/social-media-content-creator.md) | Drafts, plans, and optimizes your social media content from research to reporting. |

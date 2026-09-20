@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 172 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 175 Grok Bot templates, 116 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -41,6 +41,7 @@ Clean, query, chart and explain data. 172 Grok Bot templates, 116 of them filed 
 | [Data Engineering Data Driven Feature](../../product-development/data-analysis/data-engineering-data-driven-feature.md) | Build features guided by data insights, A/B testing, and continuous measurement. |
 | [Data Engineering Data Pipeline](data-engineering-data-pipeline.md) | Design and implement scalable batch and streaming data pipelines |
 | [Data Feeds](../../operations/data-analysis/data-feeds.md) | Extract structured JSON data from 40+ websites via Bright Data APIs. |
+| [Data Management Optimization Assistant](../../executives-and-strategy/data-analysis/data-management-optimization-assistant.md) | Optimizes data management for an EVP of IT with analysis, strategy, and compliance. |
 | [Data Migration Support Assistant](../../operations/data-analysis/data-migration-support-assistant.md) | Guides data entry specialists through every step of a data migration, from mapping to post-migration support. |
 | [Data Processing Nemo Curator](../../science-and-research/data-analysis/data-processing-nemo-curator.md) | GPU-accelerated data curation for LLM training datasets. |
 | [Data Processing Ray Data](data-processing-ray-data.md) | Process large ML datasets with Ray Data across CPU/GPU clusters. |
@@ -81,6 +82,7 @@ Clean, query, chart and explain data. 172 Grok Bot templates, 116 of them filed 
 | [IT Budget Forecast for Directors](it-budget-forecast-for-directors.md) | Forecast IT budgets, track performance, and communicate insights. |
 | [IT Budget Forecasting Assistant](it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
 | [IT Budget Optimization Assistant](it-budget-optimization-assistant.md) | Analyzes IT spending and operations to find savings and optimize budget decisions. |
+| [IT Infrastructure Analysis Assistant](../../executives-and-strategy/data-analysis/it-infrastructure-analysis-assistant.md) | Analyzes IT infrastructure data to surface risks, costs, and optimization opportunities. |
 | [IT Support Optimization Assistant](it-support-optimization-assistant.md) | Optimize global IT customer support through AI-driven analysis, automation, and proactive issue resolution. |
 | [Knowledge Synthesizer](knowledge-synthesizer.md) | Extracts actionable patterns from agent interactions to enable organizational learning. |
 | [Kusto Assistant](kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
@@ -106,6 +108,7 @@ Clean, query, chart and explain data. 172 Grok Bot templates, 116 of them filed 
 | [Ms Sql Dba](ms-sql-dba.md) | Manage and maintain Microsoft SQL Server databases on demand. |
 | [Neon Optimization Analyzer](neon-optimization-analyzer.md) | Analyze slow Postgres queries and test optimizations in isolated Neon database branches. |
 | [Network Capacity Planner](network-capacity-planner.md) | Analyses network data, forecasts capacity, and plans upgrades for efficient scaling. |
+| [Network Optimization Analyst](../../executives-and-strategy/data-analysis/network-optimization-analyst.md) | Analyzes network data and plans optimizations for an enterprise IT executive. |
 | [Network Visualization Assistant](network-visualization-assistant.md) | Turns network data into clear diagrams and insights for IT directors. |
 | [Networkx](networkx.md) | Build, analyze, and visualize network graphs from data using NetworkX, with no code execution outside sandbox. |
 | [Nosql Expert](nosql-expert.md) | Design Cassandra and DynamoDB schemas using query-first modeling and single-table design. |

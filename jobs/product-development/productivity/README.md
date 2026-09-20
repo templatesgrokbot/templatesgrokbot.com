@@ -1,6 +1,6 @@
 # Productivity templates for Product Development
 
-Plan, prioritise and clear the recurring admin. 64 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 66 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -31,6 +31,7 @@ Plan, prioritise and clear the recurring admin. 64 Grok Bot templates, 29 of the
 | [Idea Refine](idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
 | [Innovation Cycle Navigator](../../management/productivity/innovation-cycle-navigator.md) | Guides project managers through the full innovation cycle, from ideation to implementation. |
 | [Innovation Ideation Partner](../../management/productivity/innovation-ideation-partner.md) | Innovation ideation partner for senior managers: generate, evaluate, and track ideas from brainstorm to execution. |
+| [Innovation Pipeline Planner](../../executives-and-strategy/productivity/innovation-pipeline-planner.md) | Turns R&D ideas into tracked, prioritized innovation initiatives with AI support. |
 | [Innovation Workshop Facilitator](../../executives-and-strategy/productivity/innovation-workshop-facilitator.md) | Runs your innovation workshops end-to-end, from ideation to roadmapping. |
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
@@ -54,6 +55,7 @@ Plan, prioritise and clear the recurring admin. 64 Grok Bot templates, 29 of the
 | [Product Manager](product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
 | [Product Risk Assessment Assistant](product-risk-assessment-assistant.md) | Identifies, evaluates, and communicates product risks with structured assessments and stakeholder-ready reports. |
 | [Product Roadmap Assistant](product-roadmap-assistant.md) | Turns market, user, and competitor data into a prioritized, visual product roadmap. |
+| [Product Roadmap Builder](../../executives-and-strategy/productivity/product-roadmap-builder.md) | Builds data-driven product roadmaps from market research to launch tracking for founders. |
 | [Project Manager](../../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
 | [Project Progress Tracker](../../management/productivity/project-progress-tracker.md) | Tracks project progress, milestones, resources, issues, risks, docs, stakeholders, dependencies, performance, and budget. |
 | [Project Time Manager](../../management/productivity/project-time-manager.md) | Plans, prioritizes, and audits your project time to cut waste and hit deadlines. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **775 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **786 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,12 +11,12 @@ Campaigns, SEO, content and growth. **775 ready-made Grok Bot templates** for th
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 306 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 312 |
 | [Data Analysis](data-analysis/README.md) | 125 |
-| [Writing & Content](writing-and-content/README.md) | 73 |
-| [Research](research/README.md) | 72 |
-| [Social Media](social-media/README.md) | 67 |
-| [Design](design/README.md) | 29 |
+| [Writing & Content](writing-and-content/README.md) | 75 |
+| [Research](research/README.md) | 73 |
+| [Social Media](social-media/README.md) | 68 |
+| [Design](design/README.md) | 30 |
 | [Generative Art](generative-art/README.md) | 21 |
 | [Coding](coding/README.md) | 13 |
 | [Productivity](productivity/README.md) | 12 |
@@ -49,7 +49,7 @@ Campaigns, SEO, content and growth. **775 ready-made Grok Bot templates** for th
 | [Seo Fundamentals](marketing-and-growth/seo-fundamentals.md) | Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles. |
 | [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 
-[All 306 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 312 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Data Analysis
 
@@ -79,7 +79,7 @@ Campaigns, SEO, content and growth. **775 ready-made Grok Bot templates** for th
 | [Seo Content Auditor](writing-and-content/seo-content-auditor.md) | Analyzes content for E-E-A-T, readability, and SEO quality, scoring it and recommending improvements. |
 | [Devrel Content](writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 
-[All 73 Writing & Content templates →](writing-and-content/README.md)
+[All 75 Writing & Content templates →](writing-and-content/README.md)
 
 ## Research
 
@@ -94,7 +94,7 @@ Campaigns, SEO, content and growth. **775 ready-made Grok Bot templates** for th
 | [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Search Specialist](../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
 
-[All 72 Research templates →](research/README.md)
+[All 73 Research templates →](research/README.md)
 
 ## Social Media
 
@@ -109,7 +109,7 @@ Campaigns, SEO, content and growth. **775 ready-made Grok Bot templates** for th
 | [Social Media Strategy Optimizer](../sales/social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Visual Storytelling Campaign Planner](social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
 
-[All 67 Social Media templates →](social-media/README.md)
+[All 68 Social Media templates →](social-media/README.md)
 
 ## Design
 
@@ -121,10 +121,10 @@ Campaigns, SEO, content and growth. **775 ready-made Grok Bot templates** for th
 | [Visual Content Ideation Assistant](../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
 | [UX Enhancement Analyst](../sales/design/ux-enhancement-analyst.md) | Enhances user experience across web and mobile through feedback, testing, and optimization. |
 | [Brand Guidelines Anthropic](../creatives/design/brand-guidelines-anthropic.md) | Applies Anthropic brand colors and typography to existing artifacts. |
+| [Product Naming and Brand Builder](../executives-and-strategy/design/product-naming-and-brand-builder.md) | Guides founders through product naming and brand building from brainstorm to launch. |
 | [Vaporwave](../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
-| [Theme Factory](../creatives/design/theme-factory.md) | Generate or apply curated slide-deck themes with color scales, fonts, and WCAG AA contrast. |
 
-[All 29 Design templates →](design/README.md)
+[All 30 Design templates →](design/README.md)
 
 ## Generative Art
 

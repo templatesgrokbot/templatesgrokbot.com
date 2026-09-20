@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 306 Grok Bot templates, 133 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 312 Grok Bot templates, 133 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -36,6 +36,8 @@ Campaigns, ads, conversion and launch plans. 306 Grok Bot templates, 133 of them
 | [Brand Review](marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
 | [Brand Strategy Architect](../../executives-and-strategy/marketing-and-growth/brand-strategy-architect.md) | Builds and refines your brand strategy from research to evolution, with every decision grounded in data. |
 | [Brand Strategy Assistant](../../sales/marketing-and-growth/brand-strategy-assistant.md) | Develops and manages your brand identity, messaging, positioning, and reputation. |
+| [Brand Strategy Developer](../../executives-and-strategy/marketing-and-growth/brand-strategy-developer.md) | Develops and refines your brand strategy from research to reputation. |
+| [Brand Strategy Director](../../executives-and-strategy/marketing-and-growth/brand-strategy-director.md) | Brand and marketing strategy assistant for executive directors. |
 | [Brand Voice Guidelines Generator](brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Brevo Automation](brevo-automation.md) | Automate Brevo email campaigns, templates, and senders via Rube MCP. |
 | [Campaign Automation Command Center](../../executives-and-strategy/marketing-and-growth/campaign-automation-command-center.md) | Automates your marketing campaigns, personalization, and analysis across channels. |
@@ -73,6 +75,7 @@ Campaigns, ads, conversion and launch plans. 306 Grok Bot templates, 133 of them
 | [CRM Strategy Analyst](../../executives-and-strategy/marketing-and-growth/crm-strategy-analyst.md) | Analyzes customer data and crafts personalized CRM strategies for the Global Head of Marketing. |
 | [Cro](cro.md) | Analyze marketing pages and forms to improve conversion rates with actionable recommendations. |
 | [Cross-Channel Email Integration Planner](../../sales/marketing-and-growth/cross-channel-email-integration-planner.md) | Plans and drafts cross-channel email integrations and campaign copy for marketing specialists. |
+| [CSO Lead Pipeline Builder](../../executives-and-strategy/marketing-and-growth/cso-lead-pipeline-builder.md) | Turns market insight into qualified leads with content, outreach, and tracking. |
 | [Customer Journey Email Mapper](../../sales/marketing-and-growth/customer-journey-email-mapper.md) | Maps customer journeys and builds email campaigns from personas to optimization for email marketing specialists. |
 | [Customer Persona Architect](../../executives-and-strategy/marketing-and-growth/customer-persona-architect.md) | Builds, validates, and refines customer personas for marketing strategy. |
 | [Customer Persona Builder](../../management/marketing-and-growth/customer-persona-builder.md) | Builds and refines customer personas from research to presentation for marketing managers. |
@@ -119,6 +122,7 @@ Campaigns, ads, conversion and launch plans. 306 Grok Bot templates, 133 of them
 | [EVP Marketing Budget Advisor](../../executives-and-strategy/marketing-and-growth/evp-marketing-budget-advisor.md) | Optimizes marketing budgets by analyzing performance data and recommending reallocations. |
 | [Executing Marketing Campaigns](executing-marketing-campaigns.md) | Plans, creates, and optimizes marketing campaigns across channels with measurable results. |
 | [Form Cro](form-cro.md) | Audit and optimize non-signup forms to maximize completion rates. |
+| [Founder Marketing Strategy Planner](../../executives-and-strategy/marketing-and-growth/founder-marketing-strategy-planner.md) | Turns market data and customer feedback into a complete marketing strategy for founders. |
 | [Free Tier Strategy](../../product-development/marketing-and-growth/free-tier-strategy.md) | Design free tiers that developers love and that convert to paid naturally. |
 | [Free Tool Strategy](free-tool-strategy.md) | Plan and evaluate free tools for lead gen, SEO, and brand awareness. |
 | [Freight Broker Marketing Strategist](../../sales/marketing-and-growth/freight-broker-marketing-strategist.md) | Develops and executes freight brokerage marketing strategies from research to campaigns. |
@@ -157,6 +161,7 @@ Campaigns, ads, conversion and launch plans. 306 Grok Bot templates, 133 of them
 | [Klaviyo Automation](klaviyo-automation.md) | Automate Klaviyo email/SMS campaign management, inspection, and monitoring. |
 | [Launch Campaign Orchestrator](../../executives-and-strategy/marketing-and-growth/launch-campaign-orchestrator.md) | Plans and executes product launches from market research to post-launch follow-up. |
 | [Launch Plan Architect](../../executives-and-strategy/marketing-and-growth/launch-plan-architect.md) | Plans and executes product launches from market research to post-launch follow-up. |
+| [Launch Plan Orchestrator](../../executives-and-strategy/marketing-and-growth/launch-plan-orchestrator.md) | Plans and executes product launches from market research to performance tracking. |
 | [Launch Strategy](launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
 | [Lead Generation Strategist](../../sales/marketing-and-growth/lead-generation-strategist.md) | Turns market research, content, and outreach into a steady flow of qualified leads for your sales team. |
 | [Lead Magnets](lead-magnets.md) | Plan lead magnets that capture emails and convert subscribers. |
@@ -208,6 +213,7 @@ Campaigns, ads, conversion and launch plans. 306 Grok Bot templates, 133 of them
 | [Paywall Upgrade Cro](paywall-upgrade-cro.md) | Audit in-app paywalls and upgrade screens to convert free users to paid subscribers. |
 | [Perception Insight Strategist](../../executives-and-strategy/marketing-and-growth/perception-insight-strategist.md) | Analyzes brand perception from social, reviews, surveys, and media to guide strategy. |
 | [Performance Email Campaign Builder](../../sales/marketing-and-growth/performance-email-campaign-builder.md) | Plans, writes, and refines email campaigns from segmentation to performance analysis. |
+| [Persona Architect for Founders](../../executives-and-strategy/marketing-and-growth/persona-architect-for-founders.md) | Builds and refines customer personas from research to marketing application. |
 | [Personalized Marketing Strategist](../../management/marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
 | [Pharma Digital Marketing Planner](../../sales/marketing-and-growth/pharma-digital-marketing-planner.md) | Digital marketing assistant for pharmaceutical sales reps, from content to compliance. |
 | [Pitch Psychologist](pitch-psychologist.md) | Structure sales pitches using psychological sequencing to build desire before solution. |

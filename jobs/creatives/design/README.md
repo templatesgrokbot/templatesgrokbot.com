@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 158 Grok Bot templates, 118 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 160 Grok Bot templates, 120 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -36,6 +36,7 @@ Interfaces, brands, layouts and visual systems. 158 Grok Bot templates, 118 of t
 | [Color Palette Extractor](color-palette-extractor.md) | Extracts color palettes from images or sites and exports them in multiple formats. |
 | [Color Theory Design Assistant](color-theory-design-assistant.md) | Guides UX/UI designers through color theory, palettes, and accessibility. |
 | [Cover Art Concept Generator](cover-art-concept-generator.md) | Turns your song's mood into cover art concepts, from mood boards to final design directions. |
+| [Creative Concept Developer](creative-concept-developer.md) | Generates photographic concepts, mood boards, trends, techniques, and visual narratives. |
 | [Creative Portfolio Resume](creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
 | [CSS Animation Creator](css-animation-creator.md) | Create production-grade, accessible CSS animations and motion design for web UIs. |
 | [Cyberpunk Ui](cyberpunk-ui.md) | Generate neon-on-black UI with clipped corners and glitch accents. |
@@ -116,6 +117,7 @@ Interfaces, brands, layouts and visual systems. 158 Grok Bot templates, 118 of t
 | [Neo Brutalism](neo-brutalism.md) | Implement neo-brutalist UI with thick borders, hard shadows, and bright colors. |
 | [Neumorphism](neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Opal or Obsidian UI Builder](opal-or-obsidian-ui-builder.md) | Builds parameterized opal or obsidian UI with OKLCH, WebGL/CSS fallback, and measured color reports. |
+| [Portfolio Review Assistant](portfolio-review-assistant.md) | Portfolio review assistant for photographers: selects, refines, organizes, and promotes work through feedback-driven improvements. |
 | [Pptx Posters](pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Premium Web Design](premium-web-design.md) | Generates award-quality React website components with unique, intentional design. |
 | [Product Design Bot](product-design.md) | Creates visual systems, design tokens, and UX flows with Apple standards. |

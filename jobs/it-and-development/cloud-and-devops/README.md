@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 384 Grok Bot templates, 375 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 387 Grok Bot templates, 375 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Infrastructure, deployments, monitoring and incident response. 384 Grok Bot temp
 | [Agentmail](agentmail.md) | Provision AgentMail accounts, send/receive email, and manage webhooks via REST API. |
 | [Agents V2 Py](agents-v2-py.md) | Provision container-based hosted agents in Azure AI Foundry using the Python SDK. |
 | [Agenttrace Session Audit](agenttrace-session-audit.md) | Audit local AI coding-agent sessions for cost, failures, latency, and health. |
+| [AI and ML Integration Advisor](../../executives-and-strategy/cloud-and-devops/ai-and-ml-integration-advisor.md) | Guides AI and ML integration across data, models, deployment, and monitoring for IT leadership. |
 | [AI Automation Implementation Advisor](ai-automation-implementation-advisor.md) | Guides AI and automation initiatives from assessment to maintenance for IT leaders. |
 | [AI Integration Strategist](../../executives-and-strategy/cloud-and-devops/ai-integration-strategist.md) | Guides CIOs through AI and ML integration projects from data prep to deployment and monitoring. |
 | [AI ML Project Advisor](ai-ml-project-advisor.md) | Guides IT directors through the full AI and machine learning project lifecycle, from data prep to deployment and monitoring. |
@@ -112,6 +113,7 @@ Infrastructure, deployments, monitoring and incident response. 384 Grok Bot temp
 | [Cloud Devops](cloud-devops.md) | Drafts cloud infrastructure, CI/CD, containers, and monitoring plans for AWS, Azure, and GCP. |
 | [Cloud Integration Navigator](cloud-integration-navigator.md) | Guides cloud integration, migration, security, and cost optimization for systems administrators. |
 | [Cloud Migration Specialist](cloud-migration-specialist.md) | Migrates on-premise workloads to cloud with minimal downtime and maximum cloud-native benefit. |
+| [Cloud Migration Strategy Planner](../../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
 | [Cloud Run Basics](cloud-run-basics.md) | Manages Cloud Run services, jobs, and worker pools on Google Cloud. |
 | [Cloud Security Planning Assistant](cloud-security-planning-assistant.md) | Cloud security planning and response assistant for systems administrators. |
 | [Cloud Sql Basics](cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
@@ -225,6 +227,7 @@ Infrastructure, deployments, monitoring and incident response. 384 Grok Bot temp
 | [IP Subnetting Assistant](ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
 | [Istio Traffic Management](istio-traffic-management.md) | Configure Istio traffic management for production service mesh deployments. |
 | [IT Director DR Plan Architect](it-director-dr-plan-architect.md) | Builds and maintains your disaster recovery plan, from risk assessment to testing and improvement. |
+| [IT Disaster Recovery Plan Architect](../../executives-and-strategy/cloud-and-devops/it-disaster-recovery-plan-architect.md) | Builds and maintains your IT disaster recovery plan from risk assessment to drills. |
 | [It Manager Hospital](../../healthcare/cloud-and-devops/it-manager-hospital.md) | Advises hospital IT managers on clinical safety, digital maturity, and HIS/PEP integration. |
 | [It Manager Pro](../../management/cloud-and-devops/it-manager-pro.md) | Strategic IT leadership advisor bridging data, finance, and human-centric management. |
 | [It Operations](it-operations.md) | Manages IT infrastructure, monitoring, incident response, and service reliability for operations teams. |

@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 5463,
+ "count": 5559,
  "templates": [
   {
    "slug": "007",
@@ -1881,6 +1881,23 @@
    "url": "https://templatesgrokbot.com/bot/ai-analyzer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "ai-and-ml-integration-advisor",
+   "name": "AI and ML Integration Advisor",
+   "tagline": "Guides AI and ML integration across data, models, deployment, and monitoring for IT leadership.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis",
+    "generative-ai-and-llm"
+   ],
+   "path": "jobs/executives-and-strategy/cloud-and-devops/ai-and-ml-integration-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/ai-and-ml-integration-advisor"
   },
   {
    "slug": "ai-automation-implementation-advisor",
@@ -9240,6 +9257,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "board-meeting-preparation-assistant",
+   "name": "Board Meeting Preparation Assistant",
+   "tagline": "Prepares board meetings end-to-end: agenda, documents, scheduling, minutes, research, presentations, logistics, and follow-ups.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "government"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/board-meeting-preparation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/board-meeting-preparation-assistant"
+  },
+  {
    "slug": "boost-asio-pro",
    "name": "Boost Asio Pro",
    "tagline": "Write async C++ networking code with Boost.Asio or standalone Asio, matching the correct API style to the user's toolchain.",
@@ -9854,6 +9888,41 @@
    "url": "https://templatesgrokbot.com/bot/brand-strategy-assistant"
   },
   {
+   "slug": "brand-strategy-developer",
+   "name": "Brand Strategy Developer",
+   "tagline": "Develops and refines your brand strategy from research to reputation.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/brand-strategy-developer.md",
+   "url": "https://templatesgrokbot.com/bot/brand-strategy-developer"
+  },
+  {
+   "slug": "brand-strategy-director",
+   "name": "Brand Strategy Director",
+   "tagline": "Brand and marketing strategy assistant for executive directors.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/brand-strategy-director.md",
+   "url": "https://templatesgrokbot.com/bot/brand-strategy-director"
+  },
+  {
    "slug": "brand-voice-and-messaging-assistant",
    "name": "Brand Voice and Messaging Assistant",
    "tagline": "Crafts and keeps your brand's voice consistent across social media, from captions to strategy.",
@@ -10431,6 +10500,40 @@
    "url": "https://templatesgrokbot.com/bot/budget-management-assistant"
   },
   {
+   "slug": "budget-planning-assistant",
+   "name": "Budget Planning Assistant",
+   "tagline": "Prepares your budget plan from data gathering to final documentation.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance",
+    "hospitality-and-events",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/budget-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/budget-planning-assistant"
+  },
+  {
+   "slug": "budget-preparation-and-analysis-assistant",
+   "name": "Budget Preparation and Analysis Assistant",
+   "tagline": "Prepares budgets, forecasts, and reports for the EVP of Finances.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/budget-preparation-and-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/budget-preparation-and-analysis-assistant"
+  },
+  {
    "slug": "bug-bounty-report-writer",
    "name": "Bug Bounty Report Writer",
    "tagline": "Write impact-first bug bounty reports for H1, Bugcrowd, Intigriti, and Immunefi.",
@@ -10769,6 +10872,22 @@
    ],
    "path": "jobs/executives-and-strategy/marketing-and-growth/business-model-innovation-strategist.md",
    "url": "https://templatesgrokbot.com/bot/business-model-innovation-strategist"
+  },
+  {
+   "slug": "business-model-validation-assistant",
+   "name": "Business Model Validation Assistant",
+   "tagline": "Validates your business model with research, analysis, and iteration support.",
+   "category": "research",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/executives-and-strategy/research/business-model-validation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/business-model-validation-assistant"
   },
   {
    "slug": "business-plan-builder",
@@ -11461,6 +11580,21 @@
    "url": "https://templatesgrokbot.com/bot/capacity-planning-assistant"
   },
   {
+   "slug": "capital-structure-optimizer",
+   "name": "Capital Structure Optimizer",
+   "tagline": "Optimizes your company's capital structure with data-driven analysis and strategic recommendations.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/capital-structure-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/capital-structure-optimizer"
+  },
+  {
    "slug": "captcha-bypass-hunter",
    "name": "CAPTCHA Bypass Hunter",
    "tagline": "Tests web forms for CAPTCHA bypass vulnerabilities across six common patterns.",
@@ -11654,6 +11788,21 @@
    ],
    "path": "jobs/finance/data-analysis/cash-flow-management-assistant.md",
    "url": "https://templatesgrokbot.com/bot/cash-flow-management-assistant"
+  },
+  {
+   "slug": "cash-flow-optimizer",
+   "name": "Cash Flow Optimizer",
+   "tagline": "Analyzes cash flow data to forecast, optimize, and report for financial health.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/cash-flow-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/cash-flow-optimizer"
   },
   {
    "slug": "catalyst-design-and-testing-assistant",
@@ -14041,6 +14190,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "cloud-migration-strategy-planner",
+   "name": "Cloud Migration Strategy Planner",
+   "tagline": "Plans and manages your end-to-end cloud migration strategy.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/cloud-migration-strategy-planner"
+  },
+  {
    "slug": "cloud-misconfiguration-hunter",
    "name": "Cloud Misconfiguration Hunter",
    "tagline": "Hunt cloud and infrastructure misconfigurations across AWS, GCP, and Azure.",
@@ -16077,6 +16244,23 @@
    "url": "https://templatesgrokbot.com/bot/competitor-move-sales-strategist"
   },
   {
+   "slug": "competitor-move-strategist",
+   "name": "Competitor Move Strategist",
+   "tagline": "Tracks competitors and turns their moves into strategic recommendations for you.",
+   "category": "research",
+   "jobs": [
+    "executives-and-strategy",
+    "hospitality-and-events",
+    "marketing"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/research/competitor-move-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/competitor-move-strategist"
+  },
+  {
    "slug": "competitor-profiling",
    "name": "Competitor Profiling",
    "tagline": "Produce structured competitor profiles from URLs using live site scraping and SEO data.",
@@ -16181,6 +16365,25 @@
    "url": "https://templatesgrokbot.com/bot/complexity-cuts",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "compliance-and-regulatory-adherence-assistant",
+   "name": "Compliance and Regulatory Adherence Assistant",
+   "tagline": "Prepares audits, analyzes regulations, and drafts compliance materials for your organization.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "legal",
+    "government",
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/security-and-compliance/compliance-and-regulatory-adherence-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-and-regulatory-adherence-assistant"
   },
   {
    "slug": "compliance-and-regulatory-assistant",
@@ -18753,6 +18956,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "cost-reduction-advisor",
+   "name": "Cost Reduction Advisor",
+   "tagline": "Analyzes financial data to find savings, optimize budgets, and support cost reduction decisions.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/cost-reduction-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/cost-reduction-advisor"
+  },
+  {
    "slug": "cost-reduction-analyst",
    "name": "Cost Reduction Analyst",
    "tagline": "Finds and validates cost reduction opportunities for service managers.",
@@ -19061,6 +19279,21 @@
    "url": "https://templatesgrokbot.com/bot/creative-block-companion-for-vocal-artists"
   },
   {
+   "slug": "creative-concept-developer",
+   "name": "Creative Concept Developer",
+   "tagline": "Generates photographic concepts, mood boards, trends, techniques, and visual narratives.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "research"
+   ],
+   "path": "jobs/creatives/design/creative-concept-developer.md",
+   "url": "https://templatesgrokbot.com/bot/creative-concept-developer"
+  },
+  {
    "slug": "creative-concept-ideation-partner",
    "name": "Creative Concept Ideation Partner",
    "tagline": "Turns briefs into on-brand campaign concepts, from trends to launch ideas.",
@@ -19316,6 +19549,23 @@
    ],
    "path": "jobs/executives-and-strategy/productivity/crisis-management-coordinator.md",
    "url": "https://templatesgrokbot.com/bot/crisis-management-coordinator"
+  },
+  {
+   "slug": "crisis-management-executive-assistant",
+   "name": "Crisis Management Executive Assistant",
+   "tagline": "Builds and runs your crisis management playbook from planning to recovery.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "pr-and-communications",
+    "government"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/crisis-management-executive-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/crisis-management-executive-assistant"
   },
   {
    "slug": "crisis-management-guide",
@@ -20162,6 +20412,24 @@
    "url": "https://templatesgrokbot.com/bot/cso-competitor-intel-briefs"
   },
   {
+   "slug": "cso-lead-pipeline-builder",
+   "name": "CSO Lead Pipeline Builder",
+   "tagline": "Turns market insight into qualified leads with content, outreach, and tracking.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "research",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/cso-lead-pipeline-builder.md",
+   "url": "https://templatesgrokbot.com/bot/cso-lead-pipeline-builder"
+  },
+  {
    "slug": "cso-market-trend-intel",
    "name": "CSO Market Trend Intel",
    "tagline": "Market trend intelligence for CSOs: gather, analyze, forecast, and report on market movements.",
@@ -20640,6 +20908,21 @@
    ],
    "path": "jobs/operations/data-analysis/customer-experience-improvement-assistant.md",
    "url": "https://templatesgrokbot.com/bot/customer-experience-improvement-assistant"
+  },
+  {
+   "slug": "customer-experience-strategy-architect",
+   "name": "Customer Experience Strategy Architect",
+   "tagline": "Turns customer data into a complete experience strategy, from feedback to crisis planning.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/customer-experience-strategy-architect.md",
+   "url": "https://templatesgrokbot.com/bot/customer-experience-strategy-architect"
   },
   {
    "slug": "customer-feedback-analyst",
@@ -22040,6 +22323,38 @@
    "url": "https://templatesgrokbot.com/bot/data-formatting-and-organization-assistant"
   },
   {
+   "slug": "data-governance-and-compliance-advisor",
+   "name": "Data Governance and Compliance Advisor",
+   "tagline": "Guides data governance and compliance work for Chief Digital Officers.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/security-and-compliance/data-governance-and-compliance-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/data-governance-and-compliance-advisor"
+  },
+  {
+   "slug": "data-insights-strategist",
+   "name": "Data Insights Strategist",
+   "tagline": "Turns raw data into forecasts, segments, and stories for executive decisions.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "science-and-research",
+    "government"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/data-insights-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/data-insights-strategist"
+  },
+  {
    "slug": "data-interpretation-assistant",
    "name": "Data Interpretation Assistant",
    "tagline": "Turns complex datasets into clear insights, visualizations, and decisions for research scientists.",
@@ -22068,6 +22383,22 @@
    ],
    "path": "jobs/it-and-development/security-and-compliance/data-management-governance-assistant.md",
    "url": "https://templatesgrokbot.com/bot/data-management-governance-assistant"
+  },
+  {
+   "slug": "data-management-optimization-assistant",
+   "name": "Data Management Optimization Assistant",
+   "tagline": "Optimizes data management for an EVP of IT with analysis, strategy, and compliance.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/data-management-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/data-management-optimization-assistant"
   },
   {
    "slug": "data-management-strategy-advisor",
@@ -25318,6 +25649,36 @@
    "url": "https://templatesgrokbot.com/bot/digital-transformation-roadmap-planner"
   },
   {
+   "slug": "digital-transformation-strategist",
+   "name": "Digital Transformation Strategist",
+   "tagline": "Plans and guides your organization's digital transformation from assessment to evolution.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/research/digital-transformation-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/digital-transformation-strategist"
+  },
+  {
+   "slug": "digital-transformation-strategy-advisor",
+   "name": "Digital Transformation Strategy Advisor",
+   "tagline": "Strategic digital transformation guidance for IT executives, from assessment to adoption.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/executives-and-strategy/research/digital-transformation-strategy-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/digital-transformation-strategy-advisor"
+  },
+  {
    "slug": "disaster-recovery-and-backup-planner",
    "name": "Disaster Recovery and Backup Planner",
    "tagline": "Designs and validates backup and disaster recovery plans for network engineers.",
@@ -27323,6 +27684,22 @@
    "url": "https://templatesgrokbot.com/bot/economic-impact-analysis-assistant"
   },
   {
+   "slug": "economic-trend-analyst",
+   "name": "Economic Trend Analyst",
+   "tagline": "Turns economic data into forecasts, risk reports, and strategic plans for the EVP of Finance.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/economic-trend-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/economic-trend-analyst"
+  },
+  {
    "slug": "ecosystem-restoration-planner",
    "name": "Ecosystem Restoration Planner",
    "tagline": "Plans ecosystem restoration projects from data gathering to long-term management.",
@@ -27903,6 +28280,21 @@
    ],
    "path": "jobs/education/teaching-and-tutoring/elementary-worksheet-creator.md",
    "url": "https://templatesgrokbot.com/bot/elementary-worksheet-creator"
+  },
+  {
+   "slug": "elevator-pitch-developer",
+   "name": "Elevator Pitch Developer",
+   "tagline": "Crafts, refines, and tailors your elevator pitch for any audience or format.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/writing-and-content/elevator-pitch-developer.md",
+   "url": "https://templatesgrokbot.com/bot/elevator-pitch-developer"
   },
   {
    "slug": "elixir-expert",
@@ -30204,6 +30596,22 @@
    "url": "https://templatesgrokbot.com/bot/ethical-ux-design-advisor"
   },
   {
+   "slug": "ev-finance-deal-analyzer",
+   "name": "EV Finance Deal Analyzer",
+   "tagline": "Analyzes M&A targets, models valuations, and supports deal decisions for an EVP of Finance.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/ev-finance-deal-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/ev-finance-deal-analyzer"
+  },
+  {
    "slug": "evaluation-bigcode-evaluation-harness",
    "name": "Evaluation Bigcode Evaluation Harness",
    "tagline": "Evaluates code generation models on 15+ benchmarks with pass@k metrics.",
@@ -30289,6 +30697,22 @@
    ],
    "path": "jobs/customer-support/productivity/event-coordination-assistant.md",
    "url": "https://templatesgrokbot.com/bot/event-coordination-assistant"
+  },
+  {
+   "slug": "event-coverage-photographer-planner",
+   "name": "Event Coverage Photographer Planner",
+   "tagline": "Plans event photo coverage from shot lists to delivery, with backups and client updates.",
+   "category": "operations",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "productivity",
+    "social-media",
+    "office-tools"
+   ],
+   "path": "jobs/creatives/productivity/event-coverage-photographer-planner.md",
+   "url": "https://templatesgrokbot.com/bot/event-coverage-photographer-planner"
   },
   {
    "slug": "event-lifecycle-orchestrator",
@@ -30535,6 +30959,56 @@
    ],
    "path": "jobs/executives-and-strategy/data-analysis/evp-business-development-forecaster.md",
    "url": "https://templatesgrokbot.com/bot/evp-business-development-forecaster"
+  },
+  {
+   "slug": "evp-cyber-risk-briefing",
+   "name": "EVP Cyber Risk Briefing",
+   "tagline": "Cybersecurity risk assessment assistant for an EVP of IT, covering scanning, policy, compliance, and reporting.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/security-and-compliance/evp-cyber-risk-briefing.md",
+   "url": "https://templatesgrokbot.com/bot/evp-cyber-risk-briefing"
+  },
+  {
+   "slug": "evp-finance-report-copilot",
+   "name": "EVP Finance Report Copilot",
+   "tagline": "Prepares financial reports, analyzes data, and ensures compliance for the EVP of Finances.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools",
+    "security-and-compliance"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/evp-finance-report-copilot.md",
+   "url": "https://templatesgrokbot.com/bot/evp-finance-report-copilot"
+  },
+  {
+   "slug": "evp-financial-forecaster",
+   "name": "EVP Financial Forecaster",
+   "tagline": "Turns historical financial data into forecasts, budgets, and risk reports for an EVP of Finances.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/evp-financial-forecaster.md",
+   "url": "https://templatesgrokbot.com/bot/evp-financial-forecaster"
   },
   {
    "slug": "evp-marketing-budget-advisor",
@@ -30897,6 +31371,37 @@
    "source_license": "Apache-2.0"
   },
   {
+   "slug": "executive-event-orchestrator",
+   "name": "Executive Event Orchestrator",
+   "tagline": "Plans, promotes, and runs events from budget to post-event follow-up.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools",
+    "social-media"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/executive-event-orchestrator.md",
+   "url": "https://templatesgrokbot.com/bot/executive-event-orchestrator"
+  },
+  {
+   "slug": "executive-feedback-summarizer",
+   "name": "Executive Feedback Summarizer",
+   "tagline": "Turns customer feedback into clear insights for executive decisions.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/executive-feedback-summarizer.md",
+   "url": "https://templatesgrokbot.com/bot/executive-feedback-summarizer"
+  },
+  {
    "slug": "executive-forecast-report-builder",
    "name": "Executive Forecast Report Builder",
    "tagline": "Turns financial data into forecasts, scenarios, and reports for senior management decisions.",
@@ -30911,6 +31416,38 @@
    ],
    "path": "jobs/management/data-analysis/executive-forecast-report-builder.md",
    "url": "https://templatesgrokbot.com/bot/executive-forecast-report-builder"
+  },
+  {
+   "slug": "executive-forecast-studio",
+   "name": "Executive Forecast Studio",
+   "tagline": "Turns financial data into forecasts, scenarios, and reports for executive decisions.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/executive-forecast-studio.md",
+   "url": "https://templatesgrokbot.com/bot/executive-forecast-studio"
+  },
+  {
+   "slug": "executive-hiring-navigator",
+   "name": "Executive Hiring Navigator",
+   "tagline": "Talent acquisition strategy assistant for executive directors, from market analysis to onboarding.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/executive-hiring-navigator.md",
+   "url": "https://templatesgrokbot.com/bot/executive-hiring-navigator"
   },
   {
    "slug": "executive-market-insight-briefs",
@@ -31046,6 +31583,24 @@
    "url": "https://templatesgrokbot.com/bot/executive-risk-intelligence-assistant"
   },
   {
+   "slug": "executive-risk-management-assistant",
+   "name": "Executive Risk Management Assistant",
+   "tagline": "Assesses, plans, monitors, and reports risks for executive decision-making.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "government",
+    "finance"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/security-and-compliance/executive-risk-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/executive-risk-management-assistant"
+  },
+  {
    "slug": "executive-rival-intel-briefings",
    "name": "Executive Rival Intel Briefings",
    "tagline": "Turns competitor data into strategic intelligence for executive decisions.",
@@ -31092,6 +31647,22 @@
    "url": "https://templatesgrokbot.com/bot/executive-social-media-intelligence"
   },
   {
+   "slug": "executive-speech-writer",
+   "name": "Executive Speech Writer",
+   "tagline": "Crafts and polishes executive speeches from outline to delivery.",
+   "category": "creative",
+   "jobs": [
+    "executives-and-strategy",
+    "pr-and-communications",
+    "government"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/writing-and-content/executive-speech-writer.md",
+   "url": "https://templatesgrokbot.com/bot/executive-speech-writer"
+  },
+  {
    "slug": "executive-speechwriter",
    "name": "Executive Speechwriter",
    "tagline": "Drafts and refines executive speeches for any occasion, tailored to your audience.",
@@ -31105,6 +31676,24 @@
    ],
    "path": "jobs/executives-and-strategy/writing-and-content/executive-speechwriter.md",
    "url": "https://templatesgrokbot.com/bot/executive-speechwriter"
+  },
+  {
+   "slug": "executive-stakeholder-engagement-planner",
+   "name": "Executive Stakeholder Engagement Planner",
+   "tagline": "Coordinates stakeholder meetings, communications, and engagement for executive directors.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "pr-and-communications",
+    "government"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/executive-stakeholder-engagement-planner.md",
+   "url": "https://templatesgrokbot.com/bot/executive-stakeholder-engagement-planner"
   },
   {
    "slug": "executive-tech-adoption-briefs",
@@ -31722,6 +32311,25 @@
    ],
    "path": "jobs/operations/data-analysis/facility-operations-insight-planner.md",
    "url": "https://templatesgrokbot.com/bot/facility-operations-insight-planner"
+  },
+  {
+   "slug": "facility-operations-manager",
+   "name": "Facility Operations Manager",
+   "tagline": "Manage facility maintenance, vendors, space, energy, safety, and projects from one chat assistant.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "operations",
+    "real-estate-and-construction",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "productivity",
+    "security-and-compliance",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/facility-operations-manager.md",
+   "url": "https://templatesgrokbot.com/bot/facility-operations-manager"
   },
   {
    "slug": "facility-operations-planner",
@@ -32367,6 +32975,22 @@
    "url": "https://templatesgrokbot.com/bot/feedback-collection-assistant"
   },
   {
+   "slug": "feedback-compass-for-managers",
+   "name": "Feedback Compass for Managers",
+   "tagline": "Turns customer feedback into actionable insights for general managers.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "management",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/feedback-compass-for-managers.md",
+   "url": "https://templatesgrokbot.com/bot/feedback-compass-for-managers"
+  },
+  {
    "slug": "feedback-compilation-assistant",
    "name": "Feedback Compilation Assistant",
    "tagline": "Turns scattered feedback into organized, actionable reports and highlight videos.",
@@ -32823,6 +33447,24 @@
    "url": "https://templatesgrokbot.com/bot/finance-social-media-manager"
   },
   {
+   "slug": "financial-compliance-assistant",
+   "name": "Financial Compliance Assistant",
+   "tagline": "Research, draft, and monitor financial compliance for the EVP of Finances.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "finance",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/security-and-compliance/financial-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/financial-compliance-assistant"
+  },
+  {
    "slug": "financial-data-interpreter",
    "name": "Financial Data Interpreter",
    "tagline": "Interprets financial data and drafts reports for accountants.",
@@ -32901,6 +33543,23 @@
    "url": "https://templatesgrokbot.com/bot/financial-forecasting-executive-assistant"
   },
   {
+   "slug": "financial-forecasting-navigator",
+   "name": "Financial Forecasting Navigator",
+   "tagline": "Forecasts revenue, expenses, cash flow, and risks from your data, then checks actuals.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance",
+    "hospitality-and-events",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/financial-forecasting-navigator.md",
+   "url": "https://templatesgrokbot.com/bot/financial-forecasting-navigator"
+  },
+  {
    "slug": "financial-goal-planner",
    "name": "Financial Goal Planner",
    "tagline": "Turns savings goals into timelines, monthly targets, and investment plans.",
@@ -32916,6 +33575,21 @@
    "url": "https://templatesgrokbot.com/bot/financial-goal-planner",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/financial-goal-planner",
    "source_license": "MIT"
+  },
+  {
+   "slug": "financial-modeling-and-analysis-assistant",
+   "name": "Financial Modeling and Analysis Assistant",
+   "tagline": "Builds financial models, forecasts, and analyses from your data for executive decisions.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/financial-modeling-and-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/financial-modeling-and-analysis-assistant"
   },
   {
    "slug": "financial-modeling-assistant",
@@ -32948,6 +33622,36 @@
    "url": "https://templatesgrokbot.com/bot/financial-modeling-consultant"
   },
   {
+   "slug": "financial-performance-analyst",
+   "name": "Financial Performance Analyst",
+   "tagline": "Analyzes financial performance metrics, forecasts trends, and supports executive decisions.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/financial-performance-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/financial-performance-analyst"
+  },
+  {
+   "slug": "financial-projections-assistant",
+   "name": "Financial Projections Assistant",
+   "tagline": "Build and stress-test your startup's financial projections from expenses to scenarios.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/financial-projections-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/financial-projections-assistant"
+  },
+  {
    "slug": "financial-reporting-assistant",
    "name": "Financial Reporting Assistant",
    "tagline": "Prepares, analyzes, and reviews financial reports with compliance and stakeholder insights.",
@@ -32961,6 +33665,21 @@
    ],
    "path": "jobs/finance/data-analysis/financial-reporting-assistant.md",
    "url": "https://templatesgrokbot.com/bot/financial-reporting-assistant"
+  },
+  {
+   "slug": "financial-risk-management-analyst",
+   "name": "Financial Risk Management Analyst",
+   "tagline": "Analyzes financial risks and builds mitigation strategies from your data.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/financial-risk-management-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/financial-risk-management-analyst"
   },
   {
    "slug": "find-bugs",
@@ -33915,6 +34634,40 @@
    "url": "https://templatesgrokbot.com/bot/formik-patterns",
    "adapted_from": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/formik-patterns",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "founder-content-creation-assistant",
+   "name": "Founder Content Creation Assistant",
+   "tagline": "Turns your ideas into polished, SEO-ready content across all channels.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "writing-and-content",
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/writing-and-content/founder-content-creation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/founder-content-creation-assistant"
+  },
+  {
+   "slug": "founder-marketing-strategy-planner",
+   "name": "Founder Marketing Strategy Planner",
+   "tagline": "Turns market data and customer feedback into a complete marketing strategy for founders.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "social-media",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/founder-marketing-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/founder-marketing-strategy-planner"
   },
   {
    "slug": "founder-pitch-deck-coach",
@@ -36822,6 +37575,73 @@
    "url": "https://templatesgrokbot.com/bot/global-ta-strategy-advisor"
   },
   {
+   "slug": "gm-collaboration-planner",
+   "name": "GM Collaboration Planner",
+   "tagline": "Helps general managers plan, run, and improve team collaboration across meetings, projects, and conflict.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "management",
+    "hospitality-and-events",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "productivity",
+    "knowledge-management",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/gm-collaboration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/gm-collaboration-planner"
+  },
+  {
+   "slug": "gm-crisis-response-kit",
+   "name": "GM Crisis Response Kit",
+   "tagline": "Crisis management assistant for general managers: plans, communicates, and evaluates.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/gm-crisis-response-kit.md",
+   "url": "https://templatesgrokbot.com/bot/gm-crisis-response-kit"
+  },
+  {
+   "slug": "gm-stakeholder-comms-orchestrator",
+   "name": "GM Stakeholder Comms Orchestrator",
+   "tagline": "Coordinates all stakeholder communication for a General Manager, from updates to crisis response.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "pr-and-communications",
+    "government"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/gm-stakeholder-comms-orchestrator.md",
+   "url": "https://templatesgrokbot.com/bot/gm-stakeholder-comms-orchestrator"
+  },
+  {
+   "slug": "gm-supply-chain-advisor",
+   "name": "GM Supply Chain Advisor",
+   "tagline": "Optimizes your supply chain with AI-driven analysis and recommendations.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/gm-supply-chain-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/gm-supply-chain-advisor"
+  },
+  {
    "slug": "gmail-automation",
    "name": "Gmail Automation",
    "tagline": "Search, read, send, and manage Gmail messages via CLI scripts with OAuth.",
@@ -37767,6 +38587,21 @@
    "url": "https://templatesgrokbot.com/bot/grilling",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "grocery-market-compass",
+   "name": "Grocery Market Compass",
+   "tagline": "Turns market data into trend insights and strategy recommendations for general managers.",
+   "category": "research",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/grocery-market-compass.md",
+   "url": "https://templatesgrokbot.com/bot/grocery-market-compass"
   },
   {
    "slug": "grok-build",
@@ -39311,6 +40146,21 @@
    ],
    "path": "jobs/human-resources/data-analysis/hr-data-analytics-assistant.md",
    "url": "https://templatesgrokbot.com/bot/hr-data-analytics-assistant"
+  },
+  {
+   "slug": "hr-decision-support",
+   "name": "HR Decision Support",
+   "tagline": "Turn HR data into hiring, performance, and policy decisions for your organization.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "human-resources"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/hr-decision-support.md",
+   "url": "https://templatesgrokbot.com/bot/hr-decision-support"
   },
   {
    "slug": "hr-legal-compliance-reviewer",
@@ -41646,6 +42496,24 @@
    "url": "https://templatesgrokbot.com/bot/innovation-ideation-partner"
   },
   {
+   "slug": "innovation-pipeline-planner",
+   "name": "Innovation Pipeline Planner",
+   "tagline": "Turns R&D ideas into tracked, prioritized innovation initiatives with AI support.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "product-development",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/innovation-pipeline-planner.md",
+   "url": "https://templatesgrokbot.com/bot/innovation-pipeline-planner"
+  },
+  {
    "slug": "innovation-risk-assessment-assistant",
    "name": "Innovation Risk Assessment Assistant",
    "tagline": "Identifies, analyzes, and mitigates innovation risks with structured reports and decision support.",
@@ -43353,6 +44221,35 @@
    "url": "https://templatesgrokbot.com/bot/investment-opportunity-assessment-assistant"
   },
   {
+   "slug": "investment-pitch-builder",
+   "name": "Investment Pitch Builder",
+   "tagline": "Prepares founders to craft, refine, and deliver compelling investor pitches.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/writing-and-content/investment-pitch-builder.md",
+   "url": "https://templatesgrokbot.com/bot/investment-pitch-builder"
+  },
+  {
+   "slug": "investment-portfolio-review-assistant",
+   "name": "Investment Portfolio Review Assistant",
+   "tagline": "Reviews portfolio performance, risk, allocation, and compliance for the EVP of Finances.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/investment-portfolio-review-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/investment-portfolio-review-assistant"
+  },
+  {
    "slug": "investor-pitch-deck-builder",
    "name": "Investor Pitch Deck Builder",
    "tagline": "Turns your startup facts into a 10-page investor-ready pitch deck.",
@@ -43752,6 +44649,21 @@
    "url": "https://templatesgrokbot.com/bot/it-budget-optimization-assistant"
   },
   {
+   "slug": "it-budget-planning-assistant",
+   "name": "IT Budget Planning Assistant",
+   "tagline": "Analyzes IT costs, forecasts spending, and prepares budget plans for approval.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/it-budget-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/it-budget-planning-assistant"
+  },
+  {
    "slug": "it-compliance-and-governance-assistant",
    "name": "IT Compliance and Governance Assistant",
    "tagline": "Tracks regulatory compliance across IT, drafts policies, and prepares audits for global IT leadership.",
@@ -43786,6 +44698,23 @@
    "url": "https://templatesgrokbot.com/bot/it-director-dr-plan-architect"
   },
   {
+   "slug": "it-disaster-recovery-plan-architect",
+   "name": "IT Disaster Recovery Plan Architect",
+   "tagline": "Builds and maintains your IT disaster recovery plan from risk assessment to drills.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/cloud-and-devops/it-disaster-recovery-plan-architect.md",
+   "url": "https://templatesgrokbot.com/bot/it-disaster-recovery-plan-architect"
+  },
+  {
    "slug": "it-governance-toolkit-builder",
    "name": "IT Governance Toolkit Builder",
    "tagline": "Builds and maintains the compliance and governance toolkit for your IT organization.",
@@ -43801,6 +44730,22 @@
    ],
    "path": "jobs/it-and-development/security-and-compliance/it-governance-toolkit-builder.md",
    "url": "https://templatesgrokbot.com/bot/it-governance-toolkit-builder"
+  },
+  {
+   "slug": "it-infrastructure-analysis-assistant",
+   "name": "IT Infrastructure Analysis Assistant",
+   "tagline": "Analyzes IT infrastructure data to surface risks, costs, and optimization opportunities.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/it-infrastructure-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/it-infrastructure-analysis-assistant"
   },
   {
    "slug": "it-manager-hospital",
@@ -43922,6 +44867,23 @@
    "url": "https://templatesgrokbot.com/bot/it-stack-optimization-reports"
   },
   {
+   "slug": "it-strategy-development-assistant",
+   "name": "IT Strategy Development Assistant",
+   "tagline": "Develops and refines IT strategy from market analysis to implementation roadmaps.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "data-analysis",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/executives-and-strategy/writing-and-content/it-strategy-development-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/it-strategy-development-assistant"
+  },
+  {
    "slug": "it-strategy-formulation-assistant",
    "name": "IT Strategy Formulation Assistant",
    "tagline": "Turns IT landscape data into a strategic plan for a Vice President of IT, with approvals before any action.",
@@ -44004,6 +44966,24 @@
    ],
    "path": "jobs/it-and-development/teaching-and-tutoring/it-training-program-manager.md",
    "url": "https://templatesgrokbot.com/bot/it-training-program-manager"
+  },
+  {
+   "slug": "it-training-program-planner",
+   "name": "IT Training Program Planner",
+   "tagline": "Designs and manages IT staff training, from needs assessment to certification prep.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content",
+    "office-tools",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/it-training-program-planner.md",
+   "url": "https://templatesgrokbot.com/bot/it-training-program-planner"
   },
   {
    "slug": "it-vendor-analysis-assistant",
@@ -45824,6 +46804,25 @@
    "url": "https://templatesgrokbot.com/bot/launch-plan-architect"
   },
   {
+   "slug": "launch-plan-orchestrator",
+   "name": "Launch Plan Orchestrator",
+   "tagline": "Plans and executes product launches from market research to performance tracking.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing",
+    "management",
+    "product-development"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/launch-plan-orchestrator.md",
+   "url": "https://templatesgrokbot.com/bot/launch-plan-orchestrator"
+  },
+  {
    "slug": "launch-strategy",
    "name": "Launch Strategy",
    "tagline": "Plan phased SaaS launches that build momentum and convert interest into users.",
@@ -46288,6 +47287,24 @@
    "url": "https://templatesgrokbot.com/bot/legacy-modernizer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "legal-compliance-queries-assistant",
+   "name": "Legal & Compliance Queries Assistant",
+   "tagline": "Guides founders through legal and compliance queries with practical, step-by-step assistance. No hype, no emoji.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/executives-and-strategy/security-and-compliance/legal-compliance-queries-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/legal-compliance-queries-assistant"
   },
   {
    "slug": "legal-advisor",
@@ -47491,6 +48508,20 @@
    "path": "jobs/marketing/marketing-and-growth/local-seo-audit.md",
    "url": "https://templatesgrokbot.com/bot/local-seo-audit",
    "adapted_from": "https://collectivebrain.de/en/skills/local-seo-audit/"
+  },
+  {
+   "slug": "location-scout-planner",
+   "name": "Location Scout Planner",
+   "tagline": "Finds, vets, and plans photo shoot locations with research and logistics.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/creatives/research/location-scout-planner.md",
+   "url": "https://templatesgrokbot.com/bot/location-scout-planner"
   },
   {
    "slug": "logic-diff",
@@ -49950,6 +50981,21 @@
    ],
    "path": "jobs/executives-and-strategy/research/market-research-strategist.md",
    "url": "https://templatesgrokbot.com/bot/market-research-strategist"
+  },
+  {
+   "slug": "market-research-strategy-assistant",
+   "name": "Market Research Strategy Assistant",
+   "tagline": "Turns your market data into strategy-ready insights, forecasts, and customer intelligence.",
+   "category": "research",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/market-research-strategy-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/market-research-strategy-assistant"
   },
   {
    "slug": "market-researcher",
@@ -55190,6 +56236,22 @@
    "url": "https://templatesgrokbot.com/bot/network-monitoring-assistant"
   },
   {
+   "slug": "network-optimization-analyst",
+   "name": "Network Optimization Analyst",
+   "tagline": "Analyzes network data and plans optimizations for an enterprise IT executive.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/network-optimization-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/network-optimization-analyst"
+  },
+  {
    "slug": "network-optimization-planner",
    "name": "Network Optimization Planner",
    "tagline": "Analyzes network data and drafts optimization plans for global IT infrastructure.",
@@ -57654,6 +58716,22 @@
    "url": "https://templatesgrokbot.com/bot/opentrons-integration",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/opentrons-integration",
    "source_license": "MIT"
+  },
+  {
+   "slug": "operational-efficiency-analysis-assistant",
+   "name": "Operational Efficiency Analysis Assistant",
+   "tagline": "Analyzes operations and hands back improvement plans for executive decisions.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "operations",
+    "government"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/operational-efficiency-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/operational-efficiency-analysis-assistant"
   },
   {
    "slug": "operational-efficiency-analyst",
@@ -60242,6 +61320,23 @@
    "url": "https://templatesgrokbot.com/bot/performance-review-cycle-assistant"
   },
   {
+   "slug": "performance-review-cycle-manager",
+   "name": "Performance Review Cycle Manager",
+   "tagline": "Manages the full performance review cycle for general managers.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/performance-review-cycle-manager.md",
+   "url": "https://templatesgrokbot.com/bot/performance-review-cycle-manager"
+  },
+  {
    "slug": "performance-review-template-architect",
    "name": "Performance Review Template Architect",
    "tagline": "Builds and updates performance review templates for HR VPs, from standard to specialized.",
@@ -60374,6 +61469,23 @@
    "url": "https://templatesgrokbot.com/bot/person-profile-distiller",
    "adapted_from": "https://github.com/titanwings/distilly",
    "source_license": "MIT"
+  },
+  {
+   "slug": "persona-architect-for-founders",
+   "name": "Persona Architect for Founders",
+   "tagline": "Builds and refines customer personas from research to marketing application.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/persona-architect-for-founders.md",
+   "url": "https://templatesgrokbot.com/bot/persona-architect-for-founders"
   },
   {
    "slug": "persona-workshop-facilitator",
@@ -60734,6 +61846,20 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "photo-editing-guidance-assistant",
+   "name": "Photo Editing Guidance Assistant",
+   "tagline": "Guides photographers through editing tasks, from color correction to creative effects.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/teaching-and-tutoring/photo-editing-guidance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/photo-editing-guidance-assistant"
+  },
+  {
    "slug": "photo-selection-and-curation-assistant",
    "name": "Photo Selection and Curation Assistant",
    "tagline": "Helps editors select, organize, and enhance photos while ensuring rights compliance.",
@@ -60749,6 +61875,157 @@
    ],
    "path": "jobs/pr-and-communications/design/photo-selection-and-curation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/photo-selection-and-curation-assistant"
+  },
+  {
+   "slug": "photographer-social-media-planner",
+   "name": "Photographer Social Media Planner",
+   "tagline": "Plan, post, and grow your photography brand on social media with AI assistance.",
+   "category": "marketing",
+   "jobs": [
+    "creatives",
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "writing-and-content",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/creatives/social-media/photographer-social-media-planner.md",
+   "url": "https://templatesgrokbot.com/bot/photographer-social-media-planner"
+  },
+  {
+   "slug": "photography-business-strategy-planner",
+   "name": "Photography Business Strategy Planner",
+   "tagline": "Turns your photography business data into market strategy, pricing, and growth plans.",
+   "category": "operations",
+   "jobs": [
+    "creatives",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/creatives/marketing-and-growth/photography-business-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/photography-business-strategy-planner"
+  },
+  {
+   "slug": "photography-education-finder",
+   "name": "Photography Education Finder",
+   "tagline": "Finds, compares, and plans photography workshops and courses tailored to your goals.",
+   "category": "education",
+   "jobs": [
+    "creatives",
+    "education"
+   ],
+   "topics": [
+    "research",
+    "self-improvement"
+   ],
+   "path": "jobs/creatives/research/photography-education-finder.md",
+   "url": "https://templatesgrokbot.com/bot/photography-education-finder"
+  },
+  {
+   "slug": "photography-gear-advisor",
+   "name": "Photography Gear Advisor",
+   "tagline": "Personalized photography gear recommendations based on your shooting style and needs.",
+   "category": "personal",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/creatives/research/photography-gear-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/photography-gear-advisor"
+  },
+  {
+   "slug": "photography-image-analyst",
+   "name": "Photography Image Analyst",
+   "tagline": "Analyzes your photos and returns detailed reports on quality, composition, content, and more.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/creatives/data-analysis/photography-image-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/photography-image-analyst"
+  },
+  {
+   "slug": "photography-legal-advisor",
+   "name": "Photography Legal Advisor",
+   "tagline": "Guides photographers through legal questions on copyright, releases, contracts, and more.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/creatives/teaching-and-tutoring/photography-legal-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/photography-legal-advisor"
+  },
+  {
+   "slug": "photography-post-processing-guide",
+   "name": "Photography Post-Processing Guide",
+   "tagline": "Guides photographers through post-processing techniques, from color correction to composite imaging.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/teaching-and-tutoring/photography-post-processing-guide.md",
+   "url": "https://templatesgrokbot.com/bot/photography-post-processing-guide"
+  },
+  {
+   "slug": "photography-tech-troubleshooter",
+   "name": "Photography Tech Troubleshooter",
+   "tagline": "Diagnose and fix camera, lighting, software, and workflow issues for photographers.",
+   "category": "operations",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "support-and-community",
+    "knowledge-management"
+   ],
+   "path": "jobs/creatives/support-and-community/photography-tech-troubleshooter.md",
+   "url": "https://templatesgrokbot.com/bot/photography-tech-troubleshooter"
+  },
+  {
+   "slug": "photography-techniques-advisor",
+   "name": "Photography Techniques Advisor",
+   "tagline": "Get tailored photography guidance for composition, lighting, settings, and post-processing.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/teaching-and-tutoring/photography-techniques-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/photography-techniques-advisor"
+  },
+  {
+   "slug": "photography-trends-analyst",
+   "name": "Photography Trends Analyst",
+   "tagline": "Tracks photography trends across styles, tech, and platforms to guide your creative and business choices.",
+   "category": "research",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/creatives/research/photography-trends-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/photography-trends-analyst"
   },
   {
    "slug": "photopea-embedded-editor",
@@ -61858,6 +63135,23 @@
    "url": "https://templatesgrokbot.com/bot/portfolio-digest"
   },
   {
+   "slug": "portfolio-review-assistant",
+   "name": "Portfolio Review Assistant",
+   "tagline": "Portfolio review assistant for photographers: selects, refines, organizes, and promotes work through feedback-driven improvements.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "marketing-and-growth",
+    "social-media",
+    "writing-and-content"
+   ],
+   "path": "jobs/creatives/design/portfolio-review-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/portfolio-review-assistant"
+  },
+  {
    "slug": "portfolio-strategy-analyst",
    "name": "Portfolio Strategy Analyst",
    "tagline": "Analyzes investments, builds strategies, and tracks performance for business analysts.",
@@ -62931,6 +64225,21 @@
    "url": "https://templatesgrokbot.com/bot/predictive-maintenance-scheduler"
   },
   {
+   "slug": "predictive-modeling-and-forecasting-guide",
+   "name": "Predictive Modeling and Forecasting Guide",
+   "tagline": "Guides CDOs through predictive modeling and forecasting from data prep to deployment.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/predictive-modeling-and-forecasting-guide.md",
+   "url": "https://templatesgrokbot.com/bot/predictive-modeling-and-forecasting-guide"
+  },
+  {
    "slug": "predictive-modeling-assistant",
    "name": "Predictive Modeling Assistant",
    "tagline": "Builds and maintains predictive models for competitive intelligence, from data to forecasts.",
@@ -63483,6 +64792,21 @@
    "url": "https://templatesgrokbot.com/bot/principal-software-engineer",
    "adapted_from": "https://www.aitmpl.com/component/agents/expert-advisors/principal-software-engineer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "print-and-publication-guide",
+   "name": "Print and Publication Guide",
+   "tagline": "Guides photographers through print production, publishing, and promotion.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/marketing-and-growth/print-and-publication-guide.md",
+   "url": "https://templatesgrokbot.com/bot/print-and-publication-guide"
   },
   {
    "slug": "prior-art-analysis-assistant",
@@ -64184,6 +65508,22 @@
    "url": "https://templatesgrokbot.com/bot/product-feedback-insight-analyst"
   },
   {
+   "slug": "product-ideation-assistant",
+   "name": "Product Ideation Assistant",
+   "tagline": "Turns raw product ideas into validated, prioritized concepts with market-ready details.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "product-development"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/product-ideation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/product-ideation-assistant"
+  },
+  {
    "slug": "product-inventor",
    "name": "Product Inventor",
    "tagline": "Invent digital products by combining design thinking, systems, and psychology.",
@@ -64441,6 +65781,21 @@
    "url": "https://templatesgrokbot.com/bot/product-metrics-analyst"
   },
   {
+   "slug": "product-naming-and-brand-builder",
+   "name": "Product Naming and Brand Builder",
+   "tagline": "Guides founders through product naming and brand building from brainstorm to launch.",
+   "category": "marketing",
+   "jobs": [
+    "executives-and-strategy",
+    "marketing"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/executives-and-strategy/design/product-naming-and-brand-builder.md",
+   "url": "https://templatesgrokbot.com/bot/product-naming-and-brand-builder"
+  },
+  {
    "slug": "product-performance-insights",
    "name": "Product Performance Insights",
    "tagline": "Turns your product data into clear insights, forecasts, and decisions for business growth.",
@@ -64616,6 +65971,23 @@
    ],
    "path": "jobs/product-development/productivity/product-roadmap-assistant.md",
    "url": "https://templatesgrokbot.com/bot/product-roadmap-assistant"
+  },
+  {
+   "slug": "product-roadmap-builder",
+   "name": "Product Roadmap Builder",
+   "tagline": "Builds data-driven product roadmaps from market research to launch tracking for founders.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "product-development"
+   ],
+   "topics": [
+    "productivity",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/product-roadmap-builder.md",
+   "url": "https://templatesgrokbot.com/bot/product-roadmap-builder"
   },
   {
    "slug": "product-strategist",
@@ -68613,6 +69985,24 @@
    ],
    "path": "jobs/human-resources/productivity/recruitment-pipeline-manager.md",
    "url": "https://templatesgrokbot.com/bot/recruitment-pipeline-manager"
+  },
+  {
+   "slug": "recruitment-strategy-assistant",
+   "name": "Recruitment Strategy Assistant",
+   "tagline": "Turns your hiring process into a structured, AI-assisted recruitment workflow.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis",
+    "office-tools",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/recruitment-strategy-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/recruitment-strategy-assistant"
   },
   {
    "slug": "recruitment-strategy-planner",
@@ -79961,6 +81351,21 @@
    "url": "https://templatesgrokbot.com/bot/stock-flow-strategist"
   },
   {
+   "slug": "stock-insight-optimizer",
+   "name": "Stock Insight Optimizer",
+   "tagline": "Tracks, analyzes, and optimizes inventory with real-time insights and reports.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/stock-insight-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/stock-insight-optimizer"
+  },
+  {
    "slug": "stock-photo-finder",
    "name": "Stock Photo Finder",
    "tagline": "Searches free stock photo sites and filters by license, orientation, and color.",
@@ -80088,6 +81493,38 @@
    "url": "https://templatesgrokbot.com/bot/strategic-data-insights-assistant"
   },
   {
+   "slug": "strategic-event-planner",
+   "name": "Strategic Event Planner",
+   "tagline": "Plans events end-to-end for a Chief Strategy Officer, from venue to feedback.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "productivity",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/strategic-event-planner.md",
+   "url": "https://templatesgrokbot.com/bot/strategic-event-planner"
+  },
+  {
+   "slug": "strategic-finance-planning-assistant",
+   "name": "Strategic Finance Planning Assistant",
+   "tagline": "Strategic financial analysis and planning support for an EVP of Finances.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/strategic-finance-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/strategic-finance-planning-assistant"
+  },
+  {
    "slug": "strategic-it-planning-assistant",
    "name": "Strategic IT Planning Assistant",
    "tagline": "Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks.",
@@ -80188,6 +81625,23 @@
    ],
    "path": "jobs/sales/productivity/strategic-planning-facilitator.md",
    "url": "https://templatesgrokbot.com/bot/strategic-planning-facilitator"
+  },
+  {
+   "slug": "strategic-planning-guide",
+   "name": "Strategic Planning Guide",
+   "tagline": "Guides executive directors through the full strategic planning cycle, from vision to review.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "government"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/strategic-planning-guide.md",
+   "url": "https://templatesgrokbot.com/bot/strategic-planning-guide"
   },
   {
    "slug": "strategy-lifecycle-content-copilot",
@@ -81809,6 +83263,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "survey-insight-analyzer",
+   "name": "Survey Insight Analyzer",
+   "tagline": "Turns raw survey responses into cleaned, analyzed, and visualized insights for founders.",
+   "category": "research",
+   "jobs": [
+    "executives-and-strategy",
+    "product-development"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/survey-insight-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/survey-insight-analyzer"
+  },
+  {
    "slug": "survey-research-assistant",
    "name": "Survey Research Assistant",
    "tagline": "Builds, distributes, analyzes, and reports surveys for research studies.",
@@ -81996,6 +83465,24 @@
    ],
    "path": "jobs/finance/writing-and-content/sustainability-reporting-assistant.md",
    "url": "https://templatesgrokbot.com/bot/sustainability-reporting-assistant"
+  },
+  {
+   "slug": "sustainability-roadmap-builder",
+   "name": "Sustainability Roadmap Builder",
+   "tagline": "Plans and tracks your organization's sustainability initiatives across energy, waste, water, and more.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "research",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/sustainability-roadmap-builder.md",
+   "url": "https://templatesgrokbot.com/bot/sustainability-roadmap-builder"
   },
   {
    "slug": "sustainability-strategy-formulation-assistant",
@@ -82898,6 +84385,22 @@
    "url": "https://templatesgrokbot.com/bot/tax-document-organizer",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/cowork-tax-prep-organizer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "tax-planning-strategy-assistant",
+   "name": "Tax Planning Strategy Assistant",
+   "tagline": "Tax planning and strategy assistant for an EVP of Finances.",
+   "category": "finance",
+   "jobs": [
+    "executives-and-strategy",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/tax-planning-strategy-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-planning-strategy-assistant"
   },
   {
    "slug": "tax-regulation-monitor",
@@ -84096,6 +85599,24 @@
    "url": "https://templatesgrokbot.com/bot/technology-landscape-analyst"
   },
   {
+   "slug": "technology-roadmap-architect",
+   "name": "Technology Roadmap Architect",
+   "tagline": "Turns research, stakeholder input, and analysis into a complete, actionable IT technology roadmap.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "it-and-development"
+   ],
+   "topics": [
+    "productivity",
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/productivity/technology-roadmap-architect.md",
+   "url": "https://templatesgrokbot.com/bot/technology-roadmap-architect"
+  },
+  {
    "slug": "technology-roadmap-planner",
    "name": "Technology Roadmap Planner",
    "tagline": "Builds and maintains technology roadmaps for R&D engineers from market data to execution plans.",
@@ -84194,6 +85715,22 @@
    ],
    "path": "jobs/executives-and-strategy/research/technology-trend-tracker.md",
    "url": "https://templatesgrokbot.com/bot/technology-trend-tracker"
+  },
+  {
+   "slug": "technology-trends-analyst",
+   "name": "Technology Trends Analyst",
+   "tagline": "Tracks and forecasts technology trends for an EVP of IT.",
+   "category": "research",
+   "jobs": [
+    "executives-and-strategy",
+    "it-and-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/executives-and-strategy/research/technology-trends-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/technology-trends-analyst"
   },
   {
    "slug": "telegram-automation",
@@ -89045,6 +90582,23 @@
    ],
    "path": "jobs/legal/data-analysis/vendor-performance-analyst.md",
    "url": "https://templatesgrokbot.com/bot/vendor-performance-analyst"
+  },
+  {
+   "slug": "vendor-portfolio-strategist",
+   "name": "Vendor Portfolio Strategist",
+   "tagline": "Vendor management strategist that researches, negotiates, monitors, and optimizes your vendor portfolio end-to-end.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "sales-and-negotiation"
+   ],
+   "path": "jobs/executives-and-strategy/data-analysis/vendor-portfolio-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/vendor-portfolio-strategist"
   },
   {
    "slug": "vendor-proposal-comparator",

@@ -1,6 +1,6 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 67 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 68 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,7 @@ Plan, write and measure posts across networks. 67 Grok Bot templates, 51 of them
 | [Linkedin Cli](linkedin-cli.md) | Automate LinkedIn tasks like profile fetching, messaging, and posting via CLI. |
 | [Linkedin Content Generator](linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
 | [Linkedin Post Writer](linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
+| [Photographer Social Media Planner](../../creatives/social-media/photographer-social-media-planner.md) | Plan, post, and grow your photography brand on social media with AI assistance. |
 | [Platform Strategy Developer](platform-strategy-developer.md) | Develops platform-specific social media strategies from content to ads to analytics. |
 | [Presence Audit Optimizer](../../pr-and-communications/social-media/presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |
 | [Reddit Automation](reddit-automation.md) | Search, post, comment, and browse Reddit via Rube MCP. |

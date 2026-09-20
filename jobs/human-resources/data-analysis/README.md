@@ -1,6 +1,6 @@
 # Data Analysis templates for Human Resources
 
-Clean, query, chart and explain data. 66 Grok Bot templates, 46 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 67 Grok Bot templates, 46 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -41,6 +41,7 @@ Clean, query, chart and explain data. 66 Grok Bot templates, 46 of them filed in
 | [Hiring Screener](hiring-screener.md) | Screens resumes against a job description and returns a ranked, evidence-backed shortlist. |
 | [HR Analytics Insights](../../operations/data-analysis/hr-analytics-insights.md) | Turns HR data into clear insights for workforce decisions. |
 | [HR Data Analytics Assistant](hr-data-analytics-assistant.md) | Turns HR data into workforce insights, forecasts, and compliance checks. |
+| [HR Decision Support](../../executives-and-strategy/data-analysis/hr-decision-support.md) | Turn HR data into hiring, performance, and policy decisions for your organization. |
 | [HR Metrics and Analytics Assistant](hr-metrics-and-analytics-assistant.md) | Analyzes HR data and delivers actionable insights for strategic workforce decisions. |
 | [HR Reporting and Analytics Assistant](hr-reporting-and-analytics-assistant.md) | Turns HRIS data into reports, dashboards, and insights for HR decisions. |
 | [HRIS Performance Optimization Assistant](hris-performance-optimization-assistant.md) | Analyzes HRIS performance data and builds the tools, reports, and plans that optimize your workforce. |

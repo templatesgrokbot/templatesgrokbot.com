@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 197 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 198 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -47,6 +47,7 @@ Clean, query, chart and explain data. 197 Grok Bot templates, 143 of them filed 
 | [Data Cleaner](../../it-and-development/data-analysis/data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
 | [Data Engineer](../../it-and-development/data-analysis/data-engineer.md) | Designs and builds scalable data pipelines, warehouses, and streaming architectures for reliable analytics infrastructure. |
 | [Data Engineering Data Pipeline](../../it-and-development/data-analysis/data-engineering-data-pipeline.md) | Design and implement scalable batch and streaming data pipelines |
+| [Data Insights Strategist](../../executives-and-strategy/data-analysis/data-insights-strategist.md) | Turns raw data into forecasts, segments, and stories for executive decisions. |
 | [Data Interpretation Assistant](data-interpretation-assistant.md) | Turns complex datasets into clear insights, visualizations, and decisions for research scientists. |
 | [Data Preprocessing Advisor](data-preprocessing-advisor.md) | Guides data scientists through every data preprocessing step, from cleaning to feature engineering. |
 | [Data Processing Nemo Curator](data-processing-nemo-curator.md) | GPU-accelerated data curation for LLM training datasets. |

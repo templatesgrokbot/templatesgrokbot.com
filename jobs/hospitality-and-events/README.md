@@ -1,6 +1,6 @@
 # Grok Bot templates for Hospitality and Events
 
-Hotels, venues, travel and event teams. **155 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Hotels, venues, travel and event teams. **163 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,13 @@ Hotels, venues, travel and event teams. **155 ready-made Grok Bot templates** fo
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 49 |
-| [Productivity](productivity/README.md) | 33 |
+| [Data Analysis](data-analysis/README.md) | 52 |
+| [Productivity](productivity/README.md) | 37 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 29 |
 | [Social Media](social-media/README.md) | 15 |
 | [Writing & Content](writing-and-content/README.md) | 11 |
+| [Research](research/README.md) | 5 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 5 |
-| [Research](research/README.md) | 4 |
 | [Support & Community](support-and-community/README.md) | 3 |
 | [Security & Compliance](security-and-compliance/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
@@ -31,6 +31,7 @@ Hotels, venues, travel and event teams. **155 ready-made Grok Bot templates** fo
 | [Audience Compass Strategist](../pr-and-communications/data-analysis/audience-compass-strategist.md) | Analyzes audience data to sharpen communication strategy and engagement. |
 | [Budget and Forecast Assistant](../operations/data-analysis/budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Budget Forecast Assistant](../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
+| [Budget Planning Assistant](../executives-and-strategy/data-analysis/budget-planning-assistant.md) | Prepares your budget plan from data gathering to final documentation. |
 | [CEO Feedback Action Planner](../executives-and-strategy/data-analysis/ceo-feedback-action-planner.md) | Turns customer feedback into prioritized insights, trends, and action plans for your business. |
 | [Customer Experience Improvement](../operations/data-analysis/customer-experience-improvement.md) | Analyzes customer data and feedback to improve experience, support, and loyalty. |
 | [Customer Experience Improvement Assistant](../operations/data-analysis/customer-experience-improvement-assistant.md) | Turns customer data into actions that improve experience and support across every channel. |
@@ -44,9 +45,11 @@ Hotels, venues, travel and event teams. **155 ready-made Grok Bot templates** fo
 | [Dynamic Pricing Strategist](../sales/data-analysis/dynamic-pricing-strategist.md) | Analyzes market data and adjusts prices dynamically to maximize revenue for sales managers. |
 | [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Feedback Collection Assistant](../customer-support/data-analysis/feedback-collection-assistant.md) | Collects, analyzes, and reports customer feedback for receptionists to improve service quality. |
+| [Feedback Compass for Managers](../executives-and-strategy/data-analysis/feedback-compass-for-managers.md) | Turns customer feedback into actionable insights for general managers. |
 | [Feedback Insight for Service Managers](../management/data-analysis/feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
 | [Feedback Insight Interpreter](../executives-and-strategy/data-analysis/feedback-insight-interpreter.md) | Analyzes customer feedback to deliver actionable insights for marketing strategy. |
 | [Feedback Insights for Ops](../operations/data-analysis/feedback-insights-for-ops.md) | Turns customer feedback into actionable insights and responses for operations managers. |
+| [Financial Forecasting Navigator](../executives-and-strategy/data-analysis/financial-forecasting-navigator.md) | Forecasts revenue, expenses, cash flow, and risks from your data, then checks actuals. |
 | [Hotel Energy Efficiency Analyst](data-analysis/hotel-energy-efficiency-analyst.md) | Analyzes hotel energy data to cut costs and meet sustainability goals. |
 | [Hotel Revenue Optimizer](data-analysis/hotel-revenue-optimizer.md) | Optimizes hotel revenue through pricing, forecasting, and channel analysis. |
 | [Hotel Staff Scheduling Optimizer](data-analysis/hotel-staff-scheduling-optimizer.md) | Analyzes hotel data to build balanced staff schedules, reduce costs, and ensure compliance. |
@@ -93,8 +96,11 @@ Hotels, venues, travel and event teams. **155 ready-made Grok Bot templates** fo
 | [Event Coordination Assistant](../customer-support/productivity/event-coordination-assistant.md) | Plans and runs events from scheduling to post-event follow-up. |
 | [Event Planning and Management Assistant](../pr-and-communications/productivity/event-planning-and-management-assistant.md) | Plans, promotes, and runs your events from venue to post-event report. |
 | [Event Staffing Ordering](../operations/productivity/event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
+| [Executive Event Orchestrator](../executives-and-strategy/productivity/executive-event-orchestrator.md) | Plans, promotes, and runs events from budget to post-event follow-up. |
+| [Facility Operations Manager](../executives-and-strategy/productivity/facility-operations-manager.md) | Manage facility maintenance, vendors, space, energy, safety, and projects from one chat assistant. |
 | [Facility Operations Planner](../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
 | [Facility Ops Chat Manager](../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
+| [GM Collaboration Planner](../executives-and-strategy/productivity/gm-collaboration-planner.md) | Helps general managers plan, run, and improve team collaboration across meetings, projects, and conflict. |
 | [Hotel Crisis Management Planner](productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
 | [Hotel Event Planning Assistant](productivity/hotel-event-planning-assistant.md) | Plans and manages hotel events from venue selection to post-event feedback. |
 | [Hotel Inventory Manager](productivity/hotel-inventory-manager.md) | Manages hotel inventory from tracking to reordering, audits, and cost control. |
@@ -112,6 +118,7 @@ Hotels, venues, travel and event teams. **155 ready-made Grok Bot templates** fo
 | [Project Time Manager](../management/productivity/project-time-manager.md) | Plans, prioritizes, and audits your project time to cut waste and hit deadlines. |
 | [School Event Planner](../education/productivity/school-event-planner.md) | Plans and runs school events from venue to evaluation for headteachers. |
 | [School Event Planning Assistant](../education/productivity/school-event-planning-assistant.md) | Plans and coordinates school events from venue to follow-up. |
+| [Strategic Event Planner](../executives-and-strategy/productivity/strategic-event-planner.md) | Plans events end-to-end for a Chief Strategy Officer, from venue to feedback. |
 | [Travel Arrangement Coordinator](../customer-support/productivity/travel-arrangement-coordinator.md) | Plans and books client travel from flights to insurance in one place. |
 | [Vendor Lifecycle Manager](../operations/productivity/vendor-lifecycle-manager.md) | Streamlines vendor evaluation from research to exit with structured analysis and approvals. |
 | [Visitor Management Assistant](../customer-support/productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
@@ -186,6 +193,16 @@ Hotels, venues, travel and event teams. **155 ready-made Grok Bot templates** fo
 | [Receptionist Communication Assistant](../customer-support/writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
 | [Recipe Rescuer](../creatives/writing-and-content/recipe-rescuer.md) | Adapts a recipe to what you actually have, and tells you when a substitution will not work. |
 
+## Research
+
+| Template | What it does |
+|---|---|
+| [Competitor Move Strategist](../executives-and-strategy/research/competitor-move-strategist.md) | Tracks competitors and turns their moves into strategic recommendations for you. |
+| [Hotel Competitor Intelligence Assistant](research/hotel-competitor-intelligence-assistant.md) | Tracks competitor pricing, marketing, reviews, and performance to sharpen your hotel's strategy. |
+| [Supplier Research and Analysis Assistant](../operations/research/supplier-research-and-analysis-assistant.md) | Finds, vets, and manages suppliers with data-backed analysis and clear recommendations. |
+| [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
+| [Vendor Research and Evaluation Assistant](../management/research/vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |
+
 ## Sales & Negotiation
 
 | Template | What it does |
@@ -195,15 +212,6 @@ Hotels, venues, travel and event teams. **155 ready-made Grok Bot templates** fo
 | [Vendor Lifecycle Orchestrator](../management/sales-and-negotiation/vendor-lifecycle-orchestrator.md) | Manages the full vendor lifecycle from sourcing to exit, with templates, checklists, and negotiation guidance. |
 | [Vendor Negotiation Assistant](../operations/sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
 | [Vendor Relationship Management Assistant](../operations/sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
-
-## Research
-
-| Template | What it does |
-|---|---|
-| [Hotel Competitor Intelligence Assistant](research/hotel-competitor-intelligence-assistant.md) | Tracks competitor pricing, marketing, reviews, and performance to sharpen your hotel's strategy. |
-| [Supplier Research and Analysis Assistant](../operations/research/supplier-research-and-analysis-assistant.md) | Finds, vets, and manages suppliers with data-backed analysis and clear recommendations. |
-| [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
-| [Vendor Research and Evaluation Assistant](../management/research/vendor-research-and-evaluation-assistant.md) | Vendor research and evaluation assistant for purchasing managers, from identification to contract review and performance monitoring. |
 
 ## Support & Community
 

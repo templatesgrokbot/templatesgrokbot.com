@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **1,022 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **1,027 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,12 +14,12 @@ Product managers and the teams that ship. **1,022 ready-made Grok Bot templates*
 | [Coding](coding/README.md) | 398 |
 | [Design](design/README.md) | 95 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
-| [Data Analysis](data-analysis/README.md) | 70 |
+| [Data Analysis](data-analysis/README.md) | 71 |
+| [Productivity](productivity/README.md) | 66 |
 | [Generative Code](generative-code/README.md) | 65 |
 | [Research](research/README.md) | 65 |
-| [Productivity](productivity/README.md) | 64 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 35 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 37 |
 | [Security & Compliance](security-and-compliance/README.md) | 25 |
 | [Writing & Content](writing-and-content/README.md) | 24 |
 | [Prompt Engineering](prompt-engineering/README.md) | 22 |
@@ -90,7 +90,22 @@ Product managers and the teams that ship. **1,022 ready-made Grok Bot templates*
 | [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
 | [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
 
-[All 70 Data Analysis templates →](data-analysis/README.md)
+[All 71 Data Analysis templates →](data-analysis/README.md)
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Game Changing Features](../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
+| [Linear Automation](../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
+| [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
+| [Notion Template Business](../creatives/productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
+| [Build](productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
+| [Se Product Manager Advisor](productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
+| [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
+| [To Issues](productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
+
+[All 66 Productivity templates →](productivity/README.md)
 
 ## Generative Code
 
@@ -122,21 +137,6 @@ Product managers and the teams that ship. **1,022 ready-made Grok Bot templates*
 
 [All 65 Research templates →](research/README.md)
 
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Game Changing Features](../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
-| [Linear Automation](../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
-| [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
-| [Notion Template Business](../creatives/productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
-| [Build](productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
-| [Se Product Manager Advisor](productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
-| [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
-| [To Issues](productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
-
-[All 64 Productivity templates →](productivity/README.md)
-
 ## Cloud & DevOps
 
 | Template | What it does |
@@ -163,9 +163,9 @@ Product managers and the teams that ship. **1,022 ready-made Grok Bot templates*
 | [Pricing Strategy](../marketing/marketing-and-growth/pricing-strategy.md) | Designs pricing, packaging, and monetization strategy based on customer willingness to pay and growth objectives. |
 | [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
 | [Personalized Marketing Strategist](../management/marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
-| [Seo Aeo Content Cluster](../marketing/marketing-and-growth/seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |
+| [Product Ideation Assistant](../executives-and-strategy/marketing-and-growth/product-ideation-assistant.md) | Turns raw product ideas into validated, prioritized concepts with market-ready details. |
 
-[All 35 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 37 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Security & Compliance
 

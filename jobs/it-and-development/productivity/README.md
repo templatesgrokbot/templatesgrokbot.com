@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 85 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 86 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -80,6 +80,7 @@ Plan, prioritise and clear the recurring admin. 85 Grok Bot templates, 33 of the
 | [Task Intelligence](../../management/productivity/task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |
 | [Team Collaboration Standup Notes](../../management/productivity/team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |
 | [Technology Integration Planner](../../operations/productivity/technology-integration-planner.md) | Plans and manages technology integration projects from research to monitoring. |
+| [Technology Roadmap Architect](../../executives-and-strategy/productivity/technology-roadmap-architect.md) | Turns research, stakeholder input, and analysis into a complete, actionable IT technology roadmap. |
 | [Technology Roadmap Planner](../../product-development/productivity/technology-roadmap-planner.md) | Builds and maintains technology roadmaps for R&D engineers from market data to execution plans. |
 | [Technology Roadmap Strategist](../../executives-and-strategy/productivity/technology-roadmap-strategist.md) | Turns your tech stack and goals into a prioritized, stakeholder-ready roadmap. |
 | [To Issues](../../product-development/productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |

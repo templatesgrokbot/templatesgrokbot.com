@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **250 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **251 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Teachers, trainers and students. **250 ready-made Grok Bot templates** for this 
 |---|---:|
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 108 |
 | [Data Analysis](data-analysis/README.md) | 27 |
-| [Research](research/README.md) | 24 |
+| [Research](research/README.md) | 25 |
 | [Writing & Content](writing-and-content/README.md) | 23 |
 | [Productivity](productivity/README.md) | 19 |
 | [Design](design/README.md) | 15 |
@@ -194,6 +194,7 @@ Teachers, trainers and students. **250 ready-made Grok Bot templates** for this 
 | [EdTech Tool Recommender](research/edtech-tool-recommender.md) | Finds, evaluates, and recommends EdTech tools for elementary classrooms. |
 | [Literature Review](../science-and-research/research/literature-review.md) | Conducts systematic literature reviews across scientific databases and produces formatted documents. |
 | [Papers](../science-and-research/research/papers-skill.md) | Search academic papers, inspect citations, download arXiv PDFs, and extract text. |
+| [Photography Education Finder](../creatives/research/photography-education-finder.md) | Finds, compares, and plans photography workshops and courses tailored to your goals. |
 | [Research Prompt](../science-and-research/research/research-prompt.md) | Turn vague research needs into one precise deep-research prompt with context and output criteria. |
 | [Research Workflow Assistant](research/research-workflow-assistant.md) | Research workflow assistant for teaching assistants handling literature, data, writing, and ethics tasks. |
 | [Research-to-Decision Assistant](research/research-to-decision-assistant.md) | Turns research into decisions for your school, from literature to action plans. |

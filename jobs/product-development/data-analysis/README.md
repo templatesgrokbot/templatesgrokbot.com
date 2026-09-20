@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 70 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 71 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -72,6 +72,7 @@ Clean, query, chart and explain data. 70 Grok Bot templates, 34 of them filed in
 | [Simpy](../../it-and-development/data-analysis/simpy.md) | Builds and runs discrete-event simulations of systems with queues, resources, and timed processes. |
 | [Simulation Model Development Assistant](simulation-model-development-assistant.md) | Simulation model development assistant for R&D engineers, from data to validation and reporting. |
 | [Supply Chain Impact Analyst](supply-chain-impact-analyst.md) | Analyzes packaging supply chain impacts and recommends sustainable, cost-effective improvements. |
+| [Survey Insight Analyzer](../../executives-and-strategy/data-analysis/survey-insight-analyzer.md) | Turns raw survey responses into cleaned, analyzed, and visualized insights for founders. |
 | [Template Suggester](../../it-and-development/data-analysis/skill-suggester.md) | Mines prompt history for repeated workflows and suggests new reusable capabilities. |
 | [User Feedback Insight Assistant](user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
 | [Waste Management Optimization Assistant](waste-management-optimization-assistant.md) | Analyzes waste streams, ensures compliance, and optimizes waste management for process engineers. |

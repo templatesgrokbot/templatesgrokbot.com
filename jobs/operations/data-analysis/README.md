@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 432 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 436 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -139,6 +139,7 @@ Clean, query, chart and explain data. 432 Grok Bot templates, 268 of them filed 
 | [Freight Route Optimizer](../../sales/data-analysis/freight-route-optimizer.md) | Optimizes freight routes, cuts costs, and ensures compliance for freight brokers. |
 | [Global Ops Forecast Architect](global-ops-forecast-architect.md) | Turns financial data into forecasts, scenarios, and decisions for global operations heads. |
 | [Global Supply Chain Analyst Assistant](global-supply-chain-analyst-assistant.md) | Optimizes global supply chain decisions from supplier discovery to performance benchmarking. |
+| [GM Supply Chain Advisor](../../executives-and-strategy/data-analysis/gm-supply-chain-advisor.md) | Optimizes your supply chain with AI-driven analysis and recommendations. |
 | [Google Analytics](../../marketing/data-analysis/google-analytics.md) | Analyze Google Analytics data to find traffic patterns and suggest improvements. |
 | [Google Analytics Automation](../../marketing/data-analysis/google-analytics-automation.md) | Automate GA4 reporting, property listing, funnels, pivots, and key events via Rube MCP—always search tools first. |
 | [Green Supply Chain Analyst](../../science-and-research/data-analysis/green-supply-chain-analyst.md) | Sustainability analyst's supply chain greening assistant: assess, optimize, and report. |
@@ -241,6 +242,7 @@ Clean, query, chart and explain data. 432 Grok Bot templates, 268 of them filed 
 | [Obsolete Inventory Manager](obsolete-inventory-manager.md) | Identifies, values, and manages obsolete inventory to reduce waste and financial loss. |
 | [Obsolete Stock Cost Cutter](obsolete-stock-cost-cutter.md) | Identifies, analyzes, and manages obsolete inventory to reduce costs and prevent future buildup. |
 | [Occupational Health Analyzer](../../healthcare/data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |
+| [Operational Efficiency Analysis Assistant](../../executives-and-strategy/data-analysis/operational-efficiency-analysis-assistant.md) | Analyzes operations and hands back improvement plans for executive decisions. |
 | [Operational Efficiency Analyst](../../management/data-analysis/operational-efficiency-analyst.md) | Analyzes operations data to find inefficiencies and recommend improvements. |
 | [Operational Efficiency Audit Assistant](operational-efficiency-audit-assistant.md) | Runs operational efficiency audits from data collection to implementation support, with approval before any external action. |
 | [Operational KPI Dashboard Designer](operational-kpi-dashboard-designer.md) | Designs and maintains operational KPI dashboards with data integration, analysis, and reporting. |
@@ -369,6 +371,7 @@ Clean, query, chart and explain data. 432 Grok Bot templates, 268 of them filed 
 | [Startup Metrics Framework](../../executives-and-strategy/data-analysis/startup-metrics-framework.md) | Track and optimize startup KPIs from seed through Series A. |
 | [Statistical Quality Control Assistant](statistical-quality-control-assistant.md) | Statistical quality control analysis assistant for inspectors. |
 | [Stock Flow Strategist](stock-flow-strategist.md) | Optimizes stock levels, forecasts demand, and streamlines procurement for operations directors. |
+| [Stock Insight Optimizer](../../executives-and-strategy/data-analysis/stock-insight-optimizer.md) | Tracks, analyzes, and optimizes inventory with real-time insights and reports. |
 | [Stock Replenishment Strategist](stock-replenishment-strategist.md) | Analyzes inventory data to optimize stock replenishment strategies and keep stakeholders informed. |
 | [StockPulse Coordinator Alerts](stockpulse-coordinator-alerts.md) | Tracks, forecasts, and optimizes inventory with real-time alerts and reports. |
 | [Store Layout Optimization Assistant](../../management/data-analysis/store-layout-optimization-assistant.md) | Optimizes retail store layouts using data-driven insights for better flow and sales. |
@@ -421,6 +424,7 @@ Clean, query, chart and explain data. 432 Grok Bot templates, 268 of them filed 
 | [Tune Monitor](tune-monitor.md) | Analyze Monte Carlo monitors and recommend config changes to reduce alert noise. |
 | [Vaex](../../it-and-development/data-analysis/vaex.md) | Process and analyze large tabular datasets that exceed available RAM using Vaex's out-of-core capabilities. |
 | [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+| [Vendor Portfolio Strategist](../../executives-and-strategy/data-analysis/vendor-portfolio-strategist.md) | Vendor management strategist that researches, negotiates, monitors, and optimizes your vendor portfolio end-to-end. |
 | [Vendor Proposal Comparator](vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Video Content Extractor](../../it-and-development/data-analysis/video-content-extractor.md) | Extract text from MP4 videos via key frames and OCR into Markdown reports. |
 | [VMI Inventory Optimizer](vmi-inventory-optimizer.md) | Optimizes vendor-managed inventory through forecasting, monitoring, and supplier collaboration. |

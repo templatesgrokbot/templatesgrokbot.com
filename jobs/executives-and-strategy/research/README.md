@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 80 Grok Bot templates, 41 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 85 Grok Bot templates, 46 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Find sources, compare evidence and summarise what is known. 80 Grok Bot template
 | [AI Integration Innovation Strategist](ai-integration-innovation-strategist.md) | Guides AI integration in innovation from research to rollout, with approvals before any action. |
 | [Andruia AI Consultant](andruia-ai-consultant.md) | Diagnoses AI projects and outlines the technical roadmap. |
 | [Axiom](axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
+| [Business Model Validation Assistant](business-model-validation-assistant.md) | Validates your business model with research, analysis, and iteration support. |
 | [CIO IT Strategy Advisor](cio-it-strategy-advisor.md) | Develops and guides your IT strategy from assessment to execution. |
 | [Competitive Analyst](../../marketing/research/competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
 | [Competitive Brief](../../marketing/research/marketing-competitive-brief.md) | Compare five competitors on messaging, visuals, pricing signals, and open market niches. |
@@ -18,6 +19,7 @@ Find sources, compare evidence and summarise what is known. 80 Grok Bot template
 | [Competitive Intelligence Assistant](../../management/research/competitive-intelligence-assistant.md) | Competitive intelligence and strategy assistant for business unit managers. |
 | [Competitor Analysis](../../marketing/research/competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
 | [Competitor Intelligence Strategist](competitor-intelligence-strategist.md) | Tracks competitors and turns their moves into strategic decisions for your company. |
+| [Competitor Move Strategist](competitor-move-strategist.md) | Tracks competitors and turns their moves into strategic recommendations for you. |
 | [Competitor Profiling](../../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Strategy Evaluator](competitor-strategy-evaluator.md) | Analyzes competitors' strategies across 22 dimensions to inform your strategic decisions. |
 | [Competitor Tracking](../../marketing/research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
@@ -29,6 +31,8 @@ Find sources, compare evidence and summarise what is known. 80 Grok Bot template
 | [CTO Tech Trend Roadmapper](cto-tech-trend-roadmapper.md) | Scans tech trends, assesses impact and risk, and builds roadmaps for CTOs. |
 | [Customer Research](../../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Deal Sourcing Analyst](deal-sourcing-analyst.md) | M&A analysis assistant for due diligence, market research, and deal sourcing. |
+| [Digital Transformation Strategist](digital-transformation-strategist.md) | Plans and guides your organization's digital transformation from assessment to evolution. |
+| [Digital Transformation Strategy Advisor](digital-transformation-strategy-advisor.md) | Strategic digital transformation guidance for IT executives, from assessment to adoption. |
 | [Ethical Innovation Strategist](ethical-innovation-strategist.md) | Guides ethical assessment, frameworks, and reporting for innovation strategies. |
 | [EVP Strategy Competitive Radar](evp-strategy-competitive-radar.md) | Turns competitor data into strategic intelligence for the EVP of Strategy. |
 | [Executive Rival Intel Briefings](executive-rival-intel-briefings.md) | Turns competitor data into strategic intelligence for executive decisions. |
@@ -81,6 +85,7 @@ Find sources, compare evidence and summarise what is known. 80 Grok Bot template
 | [Technology Trend Analyst](../../it-and-development/research/technology-trend-analyst.md) | Tracks tech trends and turns them into actionable IT strategy for global IT leaders. |
 | [Technology Trend Intelligence Assistant](../../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Technology Trend Tracker](technology-trend-tracker.md) | Tracks technology trends across news, patents, competitors, and more for strategic planning. |
+| [Technology Trends Analyst](technology-trends-analyst.md) | Tracks and forecasts technology trends for an EVP of IT. |
 | [Term Sheet Reader](../../finance/research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
 | [Think Tank](think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
 | [Transformation Insight Strategist](transformation-insight-strategist.md) | Digital transformation advising assistant for innovation strategists. |

@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 256 Grok Bot templates, 246 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 258 Grok Bot templates, 246 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -58,6 +58,7 @@ Authorised security testing, audits and regulatory work. 256 Grok Bot templates,
 | [Cloudflare Security Audit](cloudflare-security-audit.md) | Audit authorized codebases for exploitable vulnerabilities with scoped reconnaissance and structured reporting. |
 | [Code Audit](code-audit.md) | Authorized source-code security review using SAST and manual verification. |
 | [Codebase Cleanup Deps Audit](codebase-cleanup-deps-audit.md) | Audit project dependencies for vulnerabilities, licenses, and outdated packages. |
+| [Compliance and Regulatory Adherence Assistant](../../executives-and-strategy/security-and-compliance/compliance-and-regulatory-adherence-assistant.md) | Prepares audits, analyzes regulations, and drafts compliance materials for your organization. |
 | [Compliance Auditor](compliance-auditor.md) | Audits compliance across GDPR, HIPAA, SOC 2, PCI DSS, and ISO frameworks. |
 | [Constant Time Analysis](constant-time-analysis.md) | Detect timing leaks in cryptographic code across 12 languages. |
 | [Container Security Hardening](container-security-hardening.md) | Hardens container images and runtime against production threats. |
@@ -81,6 +82,7 @@ Authorised security testing, audits and regulatory work. 256 Grok Bot templates,
 | [Edr Bypass Re](edr-bypass-re.md) | Reverse-engineer EDR internals and study bypass techniques in authorized labs only. |
 | [Email Security](email-security.md) | Authorized email security review: phishing, SPF/DKIM/DMARC, BEC, and token abuse. |
 | [Ethical Hacking Methodology](ethical-hacking-methodology.md) | Guide users through the five-stage ethical hacking lifecycle from recon to reporting for authorized testing. |
+| [EVP Cyber Risk Briefing](../../executives-and-strategy/security-and-compliance/evp-cyber-risk-briefing.md) | Cybersecurity risk assessment assistant for an EVP of IT, covering scanning, policy, compliance, and reporting. |
 | [Exception Leak Hunter](exception-leak-hunter.md) | Hunt verbose error leaks and fail-open behavior in input-accepting endpoints. |
 | [Fda Consultant Specialist](fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
 | [Fda Medtech Compliance Auditor](../../legal/security-and-compliance/fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |

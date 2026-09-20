@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 168 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 171 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -65,6 +65,7 @@ Plan, prioritise and clear the recurring admin. 168 Grok Bot templates, 61 of th
 | [Flowhunt](../../operations/productivity/flowhunt-skill.md) | Guides a 5-question intake then audits tools to rank automation quick wins. |
 | [Game Changing Features](../../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
 | [Git Pr Workflows Onboard](../../human-resources/productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
+| [GM Collaboration Planner](../../executives-and-strategy/productivity/gm-collaboration-planner.md) | Helps general managers plan, run, and improve team collaboration across meetings, projects, and conflict. |
 | [Google Calendar Automation](google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
 | [Green Ops Tracker](../../operations/productivity/green-ops-tracker.md) | Sustainability operations assistant for planning, tracking, and reporting green initiatives. No hype, just practical steps. |
 | [Hackathon Ai Strategist](hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
@@ -79,6 +80,7 @@ Plan, prioritise and clear the recurring admin. 168 Grok Bot templates, 61 of th
 | [Inbox Triage](inbox-triage.md) | Sorts overnight email into reply-now, read-later, and ignore, then drafts the replies you owe. |
 | [Innovation Cycle Navigator](innovation-cycle-navigator.md) | Guides project managers through the full innovation cycle, from ideation to implementation. |
 | [Innovation Ideation Partner](innovation-ideation-partner.md) | Innovation ideation partner for senior managers: generate, evaluate, and track ideas from brainstorm to execution. |
+| [Innovation Pipeline Planner](../../executives-and-strategy/productivity/innovation-pipeline-planner.md) | Turns R&D ideas into tracked, prioritized innovation initiatives with AI support. |
 | [Innovation Risk Assessment Assistant](../../executives-and-strategy/productivity/innovation-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates innovation risks with structured reports and decision support. |
 | [Insurance Digital Transformation Planner](insurance-digital-transformation-planner.md) | Plans and oversees your agency's digital transformation, from customer analytics to automated processes. |
 | [Jev Browser Operator](jev-browser-operator.md) | Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final. |
@@ -153,6 +155,7 @@ Plan, prioritise and clear the recurring admin. 168 Grok Bot templates, 61 of th
 | [Strategic Planning Assistant](strategic-planning-assistant.md) | Turns market data and goals into a full strategic plan with risks, actions, and reviews. |
 | [Supply Chain Sustainability Planner](../../operations/productivity/supply-chain-sustainability-planner.md) | Helps supply chain managers embed sustainability across operations, from supplier audits to green logistics. |
 | [Supply Chain Technology Integration Planner](../../operations/productivity/supply-chain-technology-integration-planner.md) | Plans and executes technology integration across your supply chain. |
+| [Sustainability Roadmap Builder](../../executives-and-strategy/productivity/sustainability-roadmap-builder.md) | Plans and tracks your organization's sustainability initiatives across energy, waste, water, and more. |
 | [Task Decomposition Expert](task-decomposition-expert.md) | Breaks complex goals into actionable work breakdowns with dependencies and effort estimates. |
 | [Task Distributor](../../operations/productivity/task-distributor.md) | Distributes tasks across workers to maximize throughput while respecting priorities and deadlines. No hype, no emoji, no 'leverage'/'empower'/'seamles |
 | [Task Intelligence](task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |

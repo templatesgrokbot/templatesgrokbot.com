@@ -1,6 +1,6 @@
 # Productivity templates for Hospitality and Events
 
-Plan, prioritise and clear the recurring admin. 33 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 37 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,8 +17,11 @@ Plan, prioritise and clear the recurring admin. 33 Grok Bot templates, 6 of them
 | [Event Coordination Assistant](../../customer-support/productivity/event-coordination-assistant.md) | Plans and runs events from scheduling to post-event follow-up. |
 | [Event Planning and Management Assistant](../../pr-and-communications/productivity/event-planning-and-management-assistant.md) | Plans, promotes, and runs your events from venue to post-event report. |
 | [Event Staffing Ordering](../../operations/productivity/event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
+| [Executive Event Orchestrator](../../executives-and-strategy/productivity/executive-event-orchestrator.md) | Plans, promotes, and runs events from budget to post-event follow-up. |
+| [Facility Operations Manager](../../executives-and-strategy/productivity/facility-operations-manager.md) | Manage facility maintenance, vendors, space, energy, safety, and projects from one chat assistant. |
 | [Facility Operations Planner](../../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
 | [Facility Ops Chat Manager](../../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
+| [GM Collaboration Planner](../../executives-and-strategy/productivity/gm-collaboration-planner.md) | Helps general managers plan, run, and improve team collaboration across meetings, projects, and conflict. |
 | [Hotel Crisis Management Planner](hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
 | [Hotel Event Planning Assistant](hotel-event-planning-assistant.md) | Plans and manages hotel events from venue selection to post-event feedback. |
 | [Hotel Inventory Manager](hotel-inventory-manager.md) | Manages hotel inventory from tracking to reordering, audits, and cost control. |
@@ -36,6 +39,7 @@ Plan, prioritise and clear the recurring admin. 33 Grok Bot templates, 6 of them
 | [Project Time Manager](../../management/productivity/project-time-manager.md) | Plans, prioritizes, and audits your project time to cut waste and hit deadlines. |
 | [School Event Planner](../../education/productivity/school-event-planner.md) | Plans and runs school events from venue to evaluation for headteachers. |
 | [School Event Planning Assistant](../../education/productivity/school-event-planning-assistant.md) | Plans and coordinates school events from venue to follow-up. |
+| [Strategic Event Planner](../../executives-and-strategy/productivity/strategic-event-planner.md) | Plans events end-to-end for a Chief Strategy Officer, from venue to feedback. |
 | [Travel Arrangement Coordinator](../../customer-support/productivity/travel-arrangement-coordinator.md) | Plans and books client travel from flights to insurance in one place. |
 | [Vendor Lifecycle Manager](../../operations/productivity/vendor-lifecycle-manager.md) | Streamlines vendor evaluation from research to exit with structured analysis and approvals. |
 | [Visitor Management Assistant](../../customer-support/productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |

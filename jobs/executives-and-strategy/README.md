@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **450 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **531 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,17 @@ Leaders making decisions from the whole picture. **450 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 142 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 106 |
-| [Research](research/README.md) | 80 |
-| [Productivity](productivity/README.md) | 50 |
+| [Data Analysis](data-analysis/README.md) | 177 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 114 |
+| [Research](research/README.md) | 85 |
+| [Productivity](productivity/README.md) | 68 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 21 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 13 |
-| [Security & Compliance](security-and-compliance/README.md) | 12 |
-| [Writing & Content](writing-and-content/README.md) | 6 |
+| [Security & Compliance](security-and-compliance/README.md) | 18 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 16 |
+| [Writing & Content](writing-and-content/README.md) | 11 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Social Media](social-media/README.md) | 5 |
-| [Design](design/README.md) | 3 |
+| [Design](design/README.md) | 4 |
 | [Office Tools](office-tools/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
@@ -42,7 +42,7 @@ Leaders making decisions from the whole picture. **450 ready-made Grok Bot templ
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 
-[All 142 Data Analysis templates →](data-analysis/README.md)
+[All 177 Data Analysis templates →](data-analysis/README.md)
 
 ## Marketing & Growth
 
@@ -57,7 +57,7 @@ Leaders making decisions from the whole picture. **450 ready-made Grok Bot templ
 | [Brand Voice Guidelines Generator](../marketing/marketing-and-growth/brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Marketing Psychology](../marketing/marketing-and-growth/marketing-psychology.md) | Apply behavioral science to marketing decisions with a prioritization scoring system. |
 
-[All 106 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 114 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Research
 
@@ -72,7 +72,7 @@ Leaders making decisions from the whole picture. **450 ready-made Grok Bot templ
 | [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 
-[All 80 Research templates →](research/README.md)
+[All 85 Research templates →](research/README.md)
 
 ## Productivity
 
@@ -83,11 +83,11 @@ Leaders making decisions from the whole picture. **450 ready-made Grok Bot templ
 | [Multi Advisor](productivity/multi-advisor.md) | Consult multiple specialists in parallel for multi-perspective analysis and decision synthesis. |
 | [Idea Refine](../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
 | [Sustainability Initiatives Planner](productivity/sustainability-initiatives-planner.md) | Plans and drives your company's sustainability initiatives from research to reporting. |
+| [Executive Event Orchestrator](productivity/executive-event-orchestrator.md) | Plans, promotes, and runs events from budget to post-event follow-up. |
 | [CTO IT Project Navigator](productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
-| [Crisis Management Strategist](../management/productivity/crisis-management-strategist.md) | Crisis management strategist: assess risks, plan responses, and guide recovery for senior managers. |
-| [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Sustainability Roadmap Builder](productivity/sustainability-roadmap-builder.md) | Plans and tracks your organization's sustainability initiatives across energy, waste, water, and more. |
 
-[All 50 Productivity templates →](productivity/README.md)
+[All 68 Productivity templates →](productivity/README.md)
 
 ## Sales & Negotiation
 
@@ -104,35 +104,35 @@ Leaders making decisions from the whole picture. **450 ready-made Grok Bot templ
 
 [All 21 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
+| [EVP Cyber Risk Briefing](security-and-compliance/evp-cyber-risk-briefing.md) | Cybersecurity risk assessment assistant for an EVP of IT, covering scanning, policy, compliance, and reporting. |
+| [Data Privacy Compliance Guide](security-and-compliance/data-privacy-compliance-guide.md) | Guides CTOs through data privacy compliance, from policy review to breach response and audits. |
+| [Cybersecurity Strategy Developer](security-and-compliance/cybersecurity-strategy-developer.md) | Develops and manages your organization's cybersecurity strategy from risk assessment to incident response. |
+| [Cybersecurity Assessment Guide](security-and-compliance/cybersecurity-assessment-guide.md) | Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response. |
+| [Data Governance and Compliance Advisor](security-and-compliance/data-governance-and-compliance-advisor.md) | Guides data governance and compliance work for Chief Digital Officers. |
+| [Enterprise Risk Management Assistant](security-and-compliance/enterprise-risk-management-assistant.md) | Identifies, assesses, and mitigates risks across your organization with structured analysis and reporting. |
+| [Compliance and Regulatory Adherence Assistant](security-and-compliance/compliance-and-regulatory-adherence-assistant.md) | Prepares audits, analyzes regulations, and drafts compliance materials for your organization. |
+
+[All 18 Security & Compliance templates →](security-and-compliance/README.md)
+
 ## Cloud & DevOps
 
 | Template | What it does |
 |---|---|
 | [Infrastructure Optimization Advisor](../it-and-development/cloud-and-devops/infrastructure-optimization-advisor.md) | Analyzes infrastructure data and delivers optimization plans for IT leaders. |
+| [Cloud Migration Strategy Planner](cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
 | [AI Integration Strategist](cloud-and-devops/ai-integration-strategist.md) | Guides CIOs through AI and ML integration projects from data prep to deployment and monitoring. |
 | [It Manager Pro](../management/cloud-and-devops/it-manager-pro.md) | Strategic IT leadership advisor bridging data, finance, and human-centric management. |
 | [Cloud Migration Specialist](../it-and-development/cloud-and-devops/cloud-migration-specialist.md) | Migrates on-premise workloads to cloud with minimal downtime and maximum cloud-native benefit. |
 | [Digital Transformation Advisor](cloud-and-devops/digital-transformation-advisor.md) | Guides CIOs through digital transformation from strategy to execution. |
 | [Azure Principal Architect](../it-and-development/cloud-and-devops/azure-principal-architect.md) | Provide Azure architecture guidance using Well-Architected Framework principles and Microsoft best practices. |
 | [Multi Cloud Architecture](../it-and-development/cloud-and-devops/multi-cloud-architecture.md) | Decision framework for architecting across AWS, Azure, and GCP. |
-| [Cto Advisor](../it-and-development/cloud-and-devops/cto-advisor.md) | Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy. |
 
-[All 13 Cloud & DevOps templates →](cloud-and-devops/README.md)
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
-| [Data Privacy Compliance Guide](security-and-compliance/data-privacy-compliance-guide.md) | Guides CTOs through data privacy compliance, from policy review to breach response and audits. |
-| [Cybersecurity Strategy Developer](security-and-compliance/cybersecurity-strategy-developer.md) | Develops and manages your organization's cybersecurity strategy from risk assessment to incident response. |
-| [Cybersecurity Assessment Guide](security-and-compliance/cybersecurity-assessment-guide.md) | Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response. |
-| [Enterprise Risk Management Assistant](security-and-compliance/enterprise-risk-management-assistant.md) | Identifies, assesses, and mitigates risks across your organization with structured analysis and reporting. |
-| [Risk Management Analysis Assistant](../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
-| [Risk and Compliance Assistant](security-and-compliance/risk-and-compliance-assistant.md) | Assesses risks, monitors compliance, and guides incident response for your organization. |
-| [Data Management Strategy Advisor](security-and-compliance/data-management-strategy-advisor.md) | Guides CIOs through data management strategy, from classification to compliance. |
-
-[All 12 Security & Compliance templates →](security-and-compliance/README.md)
+[All 16 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Writing & Content
 
@@ -142,8 +142,12 @@ Leaders making decisions from the whole picture. **450 ready-made Grok Bot templ
 | [Executive Speechwriter](writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
 | [Business Plan Builder](writing-and-content/business-plan-builder.md) | Builds complete business plans from market research to executive summary. |
 | [Executive Resume Writer](../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
+| [IT Strategy Development Assistant](writing-and-content/it-strategy-development-assistant.md) | Develops and refines IT strategy from market analysis to implementation roadmaps. |
+| [Investment Pitch Builder](writing-and-content/investment-pitch-builder.md) | Prepares founders to craft, refine, and deliver compelling investor pitches. |
 | [Investor Update Writer](writing-and-content/investor-update-writer.md) | Turns your KPIs, milestones, and financials into a polished investor update. |
-| [Founder Pitch Deck Coach](writing-and-content/founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
+| [Founder Content Creation Assistant](writing-and-content/founder-content-creation-assistant.md) | Turns your ideas into polished, SEO-ready content across all channels. |
+
+[All 11 Writing & Content templates →](writing-and-content/README.md)
 
 ## Self-Improvement
 
@@ -169,6 +173,7 @@ Leaders making decisions from the whole picture. **450 ready-made Grok Bot templ
 
 | Template | What it does |
 |---|---|
+| [Product Naming and Brand Builder](design/product-naming-and-brand-builder.md) | Guides founders through product naming and brand building from brainstorm to launch. |
 | [Software Architecture Design Assistant](design/software-architecture-design-assistant.md) | Designs and documents software architecture from requirements to deployment. |
 | [Steve Jobs Advisor](../creatives/design/steve-jobs.md) | Simulates Steve Jobs for product, design, and presentation advice. |
 | [Brand Guidelines Architect](design/brand-guidelines-architect.md) | Builds and maintains your brand guidelines across all marketing materials and channels. |

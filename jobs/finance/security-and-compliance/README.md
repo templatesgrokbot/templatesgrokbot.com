@@ -1,6 +1,6 @@
 # Security & Compliance templates for Finance
 
-Authorised security testing, audits and regulatory work. 11 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 13 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,8 @@ Authorised security testing, audits and regulatory work. 11 Grok Bot templates, 
 | [Audit Ready File Builder](audit-ready-file-builder.md) | Prepares audit files, documents, and responses so your audit runs smoothly and nothing is missed. |
 | [Business Unit Risk Manager](../../management/security-and-compliance/business-unit-risk-manager.md) | Risk management assistant for business unit managers covering identification, assessment, mitigation, monitoring, and reporting. |
 | [Enterprise Risk Management Assistant](../../executives-and-strategy/security-and-compliance/enterprise-risk-management-assistant.md) | Identifies, assesses, and mitigates risks across your organization with structured analysis and reporting. |
+| [Executive Risk Management Assistant](../../executives-and-strategy/security-and-compliance/executive-risk-management-assistant.md) | Assesses, plans, monitors, and reports risks for executive decision-making. |
+| [Financial Compliance Assistant](../../executives-and-strategy/security-and-compliance/financial-compliance-assistant.md) | Research, draft, and monitor financial compliance for the EVP of Finances. |
 | [Pci Compliance](pci-compliance.md) | Guide PCI DSS compliance for secure payment processing and cardholder data handling. |
 | [Regulatory Requirements to Audit Reports](../../it-and-development/security-and-compliance/regulatory-requirements-to-audit-reports.md) | Turns regulatory requirements into compliance checks, audits, and reports for business analysts. |
 | [Risk Assessment and Analysis Assistant](../../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |

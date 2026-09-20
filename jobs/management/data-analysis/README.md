@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 185 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 186 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -69,6 +69,7 @@ Clean, query, chart and explain data. 185 Grok Bot templates, 96 of them filed i
 | [Executive Market Trend Forecaster](executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
 | [Experiment Readout](../../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
 | [Facility Operations Insight Planner](../../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
+| [Feedback Compass for Managers](../../executives-and-strategy/data-analysis/feedback-compass-for-managers.md) | Turns customer feedback into actionable insights for general managers. |
 | [Feedback Insight for Service Managers](feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
 | [Feedback Insights for Ops](../../operations/data-analysis/feedback-insights-for-ops.md) | Turns customer feedback into actionable insights and responses for operations managers. |
 | [Feedback Prioritization Compass](../../product-development/data-analysis/feedback-prioritization-compass.md) | Turns scattered customer feedback into clear, prioritized insights for product decisions. |
