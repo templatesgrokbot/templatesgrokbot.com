@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,605 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,643 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,25 +12,25 @@ Engineers, DevOps, security and IT teams. **2,605 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 1,013 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 390 |
-| [Security & Compliance](security-and-compliance/README.md) | 259 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 396 |
+| [Security & Compliance](security-and-compliance/README.md) | 264 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 210 |
-| [Data Analysis](data-analysis/README.md) | 176 |
+| [Data Analysis](data-analysis/README.md) | 193 |
 | [Design](design/README.md) | 92 |
 | [Research](research/README.md) | 92 |
 | [Generative Code](generative-code/README.md) | 88 |
-| [Productivity](productivity/README.md) | 86 |
+| [Productivity](productivity/README.md) | 88 |
 | [Knowledge Management](knowledge-management/README.md) | 44 |
 | [Prompt Engineering](prompt-engineering/README.md) | 33 |
-| [Writing & Content](writing-and-content/README.md) | 29 |
+| [Writing & Content](writing-and-content/README.md) | 30 |
+| [Support & Community](support-and-community/README.md) | 22 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 19 |
-| [Support & Community](support-and-community/README.md) | 17 |
 | [Generative Art](generative-art/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 10 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 9 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
 | [Self-Improvement](self-improvement/README.md) | 4 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
 | [Video Editing](video-editing/README.md) | 3 |
 | [Generative Video](generative-video/README.md) | 2 |
 | [Translation](translation/README.md) | 2 |
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,605 ready-made Grok Bot templates*
 | [Zapier Make Patterns](cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 390 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 396 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Security & Compliance
 
@@ -80,7 +80,7 @@ Engineers, DevOps, security and IT teams. **2,605 ready-made Grok Bot templates*
 | [Ad Security Reviewer](security-and-compliance/ad-security-reviewer.md) | Audits Active Directory security posture and identifies privilege escalation risks from exported evidence. |
 | [Smart Contract Auditor](security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
 
-[All 259 Security & Compliance templates →](security-and-compliance/README.md)
+[All 264 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Generative AI and LLM
 
@@ -110,7 +110,7 @@ Engineers, DevOps, security and IT teams. **2,605 ready-made Grok Bot templates*
 | [Plotly](data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Nosql Specialist](data-analysis/nosql-specialist.md) | Designs and optimizes NoSQL databases for MongoDB, Redis, Cassandra, and key-value stores. |
 
-[All 176 Data Analysis templates →](data-analysis/README.md)
+[All 193 Data Analysis templates →](data-analysis/README.md)
 
 ## Design
 
@@ -170,7 +170,7 @@ Engineers, DevOps, security and IT teams. **2,605 ready-made Grok Bot templates*
 | [Sendblue Cli](productivity/sendblue-cli.md) | Send iMessage and SMS from the shell using the Sendblue CLI. |
 | [Planning With Files](../management/productivity/planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
 
-[All 86 Productivity templates →](productivity/README.md)
+[All 88 Productivity templates →](productivity/README.md)
 
 ## Knowledge Management
 
@@ -215,7 +215,22 @@ Engineers, DevOps, security and IT teams. **2,605 ready-made Grok Bot templates*
 | [Se Technical Writer](writing-and-content/se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
 | [Tech Resume Optimizer](writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 
-[All 29 Writing & Content templates →](writing-and-content/README.md)
+[All 30 Writing & Content templates →](writing-and-content/README.md)
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Freshservice Automation](support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
+| [Community Building](../operations/support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
+| [Initial Problem Assessment Assistant](support-and-community/initial-problem-assessment-assistant.md) | Guides help desk technicians through initial problem assessment and resolution. |
+| [Office Tech Troubleshooter](../finance/support-and-community/office-tech-troubleshooter.md) | Guides you through office tech fixes step by step, from printers to cloud storage. |
+| [Remote Support Troubleshooter](../customer-support/support-and-community/remote-support-troubleshooter.md) | Guides remote technical support for connectivity, software, security, and performance issues. |
+| [Help Desk Ticket Logger](support-and-community/help-desk-ticket-logger.md) | Logs, triages, and escalates help desk tickets from user reports to resolution notes. |
+| [User Account Lifecycle Assistant](support-and-community/user-account-lifecycle-assistant.md) | Guides help desk technicians through every user account lifecycle task with verified steps and security checks. |
+| [Hardware and Software Configuration Assistant](support-and-community/hardware-and-software-configuration-assistant.md) | Guides help desk technicians through hardware and software configuration tasks. |
+
+[All 22 Support & Community templates →](support-and-community/README.md)
 
 ## Marketing & Growth
 
@@ -231,21 +246,6 @@ Engineers, DevOps, security and IT teams. **2,605 ready-made Grok Bot templates*
 | [Developer Seo](../marketing/marketing-and-growth/developer-seo.md) | SEO strategy for technical queries and developer audiences. |
 
 [All 19 Marketing & Growth templates →](marketing-and-growth/README.md)
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Freshservice Automation](support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
-| [Community Building](../operations/support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
-| [Office Tech Troubleshooter](../finance/support-and-community/office-tech-troubleshooter.md) | Guides you through office tech fixes step by step, from printers to cloud storage. |
-| [Remote Support Troubleshooter](../customer-support/support-and-community/remote-support-troubleshooter.md) | Guides remote technical support for connectivity, software, security, and performance issues. |
-| [Tech Integration Support Assistant](../customer-support/support-and-community/tech-integration-support-assistant.md) | Guides technical support specialists through every step of integrating new technologies. |
-| [Intercom Automation](../customer-support/support-and-community/intercom-automation.md) | Automate Intercom conversations, contacts, companies, and admins via Composio. |
-| [Hardware Support Assistant](../customer-support/support-and-community/hardware-support-assistant.md) | Guides hardware users through troubleshooting, setup, upgrades, and maintenance with clear steps. |
-| [Man Page Reference](support-and-community/man-page-reference.md) | Answers questions about the golden_man_kw command-line tools and their man pages. |
-
-[All 17 Support & Community templates →](support-and-community/README.md)
 
 ## Generative Art
 
@@ -277,6 +277,21 @@ Engineers, DevOps, security and IT teams. **2,605 ready-made Grok Bot templates*
 
 [All 11 Office Tools templates →](office-tools/README.md)
 
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Microsoft Study Mode](../education/teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
+| [Demonstrate Understanding](../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
+| [Technical Content Evaluator](../education/teaching-and-tutoring/technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
+| [IT Training Content Builder](teaching-and-tutoring/it-training-content-builder.md) | Builds and maintains staff training materials and interactive support for IT systems. |
+| [Yann LeCun Philosophy](../education/teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
+| [IT Training Program Manager](teaching-and-tutoring/it-training-program-manager.md) | Plans, builds, delivers, and evaluates IT employee training programs. |
+| [Machine Learning Project Advisor](teaching-and-tutoring/machine-learning-project-advisor.md) | Guides data analysts through machine learning projects from preprocessing to deployment. |
+| [Technical Tutorials](../education/teaching-and-tutoring/technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
+
+[All 10 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+
 ## Speech-To-Text
 
 | Template | What it does |
@@ -292,20 +307,14 @@ Engineers, DevOps, security and IT teams. **2,605 ready-made Grok Bot templates*
 
 [All 9 Speech-To-Text templates →](speech-to-text/README.md)
 
-## Teaching & Tutoring
+## Sales & Negotiation
 
 | Template | What it does |
 |---|---|
-| [Microsoft Study Mode](../education/teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
-| [Demonstrate Understanding](../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
-| [Technical Content Evaluator](../education/teaching-and-tutoring/technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
-| [IT Training Content Builder](teaching-and-tutoring/it-training-content-builder.md) | Builds and maintains staff training materials and interactive support for IT systems. |
-| [Yann LeCun Philosophy](../education/teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
-| [IT Training Program Manager](teaching-and-tutoring/it-training-program-manager.md) | Plans, builds, delivers, and evaluates IT employee training programs. |
-| [Technical Tutorials](../education/teaching-and-tutoring/technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
-| [Code Documentation Code Explain](../education/teaching-and-tutoring/code-documentation-code-explain.md) | Explain complex code through clear narratives and step-by-step breakdowns. |
-
-[All 9 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+| [Vendor Management and Evaluation Assistant](sales-and-negotiation/vendor-management-and-evaluation-assistant.md) | Manages vendor lifecycle from selection to performance improvement for IT leaders. |
+| [Vendor Evaluation Navigator](sales-and-negotiation/vendor-evaluation-navigator.md) | Guides IT VPs through vendor evaluation, selection, and ongoing management. |
+| [Vendor Lifecycle Strategist](sales-and-negotiation/vendor-lifecycle-strategist.md) | Guides IT managers through the complete vendor evaluation lifecycle, from research to exit. |
+| [Sales Engineer](../sales/sales-and-negotiation/sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
 
 ## Self-Improvement
 
@@ -315,14 +324,6 @@ Engineers, DevOps, security and IT teams. **2,605 ready-made Grok Bot templates*
 | [Anti Sycophancy](self-improvement/anti-sycophancy.md) | Challenge user claims independently to reduce AI sycophancy. |
 | [Professional Communication](self-improvement/professional-communication.md) | Guides developers to write clear emails, messages, and meeting communications. |
 | [Critical Thinking](self-improvement/critical-thinking.md) | Challenge assumptions and probe reasoning to find the best solution. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Vendor Management and Evaluation Assistant](sales-and-negotiation/vendor-management-and-evaluation-assistant.md) | Manages vendor lifecycle from selection to performance improvement for IT leaders. |
-| [Vendor Evaluation Navigator](sales-and-negotiation/vendor-evaluation-navigator.md) | Guides IT VPs through vendor evaluation, selection, and ongoing management. |
-| [Sales Engineer](../sales/sales-and-negotiation/sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
 
 ## Video Editing
 

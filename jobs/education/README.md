@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **255 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **260 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,12 +11,12 @@ Teachers, trainers and students. **255 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 110 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 113 |
 | [Data Analysis](data-analysis/README.md) | 27 |
+| [Writing & Content](writing-and-content/README.md) | 26 |
 | [Research](research/README.md) | 25 |
-| [Writing & Content](writing-and-content/README.md) | 25 |
 | [Productivity](productivity/README.md) | 19 |
-| [Design](design/README.md) | 15 |
+| [Design](design/README.md) | 16 |
 | [Coding](coding/README.md) | 6 |
 | [Security & Compliance](security-and-compliance/README.md) | 6 |
 | [Knowledge Management](knowledge-management/README.md) | 5 |
@@ -99,6 +99,7 @@ Teachers, trainers and students. **255 ready-made Grok Bot templates** for this 
 | [Media Training Program Builder](../pr-and-communications/teaching-and-tutoring/media-training-program-builder.md) | Builds and runs media training programs for spokespersons and executives. |
 | [Medical Billing Training Assistant](../healthcare/teaching-and-tutoring/medical-billing-training-assistant.md) | Builds training materials and guidance for medical billers on coding, billing, and compliance. |
 | [Microsoft Study Mode](teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
+| [Module Blueprint Architect for L&D Teams](../human-resources/teaching-and-tutoring/module-blueprint-architect-for-l-d-teams.md) | Designs interactive training modules with content, activities, assessments, and feedback loops for your team. |
 | [Multimedia Integration Planner](teaching-and-tutoring/multimedia-integration-planner.md) | Helps teachers integrate multimedia into lessons, projects, and assessments. |
 | [Onboarding Program Enhancer](teaching-and-tutoring/onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
 | [Personalized Learning Designer](teaching-and-tutoring/personalized-learning-designer.md) | Designs personalized eLearning experiences through content analysis, learner profiling, and adaptive recommendations. |
@@ -120,6 +121,7 @@ Teachers, trainers and students. **255 ready-made Grok Bot templates** for this 
 | [Sales Training Program Architect](../sales/teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
 | [Science Experiment Planner](teaching-and-tutoring/science-experiment-planner.md) | Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment. |
 | [Ship Learn Next](teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
+| [Soft Templates Workshop Architect](../human-resources/teaching-and-tutoring/soft-templates-workshop-architect.md) | Designs and supports soft strengths training workshops for Training and Development Managers. |
 | [Soft Templates Workshop Designer](../human-resources/teaching-and-tutoring/soft-templates-workshop-designer.md) | Designs, runs, and improves soft strengths development workshops for training specialists. |
 | [Staff Training Module Builder](teaching-and-tutoring/staff-training-module-builder.md) | Builds and manages staff training modules for headteachers, from planning to evaluation. |
 | [Student Behavior Management Assistant](teaching-and-tutoring/student-behavior-management-assistant.md) | Helps primary school teachers manage student behavior with plans, tracking, and communication. |
@@ -136,6 +138,7 @@ Teachers, trainers and students. **255 ready-made Grok Bot templates** for this 
 | [Technical Tutorials](teaching-and-tutoring/technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
 | [Technology Adoption Training Planner](teaching-and-tutoring/technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
 | [Training Accessibility Assistant](teaching-and-tutoring/training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
+| [Training Lifecycle Architect](../human-resources/teaching-and-tutoring/training-lifecycle-architect.md) | Designs, runs, and evaluates employee training programs from needs assessment to follow-up. |
 | [Training Program Developer](../sales/teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
 | [Training Program Implementation Assistant](../human-resources/teaching-and-tutoring/training-program-implementation-assistant.md) | Designs, delivers, and improves training programs from needs analysis to follow-up. |
 | [Tutorial Engineer](teaching-and-tutoring/tutorial-engineer.md) | Turns code into step-by-step tutorials with hands-on exercises and progressive learning. |
@@ -177,6 +180,37 @@ Teachers, trainers and students. **255 ready-made Grok Bot templates** for this 
 | [Training Needs Analysis Assistant](data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
 | [Training Report Generator](data-analysis/training-report-generator.md) | Turns training data into automated reports for instructors. |
 
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Academic Cv Builder](writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
+| [Clinical Data Training Developer](../healthcare/writing-and-content/clinical-data-training-developer.md) | Builds clinical data management training content, from modules to certification prep. |
+| [Cover Letter Generator](../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
+| [Crossframe Critical](../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
+| [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
+| [Grant Writing Assistant for Headteachers](writing-and-content/grant-writing-assistant-for-headteachers.md) | Guides headteachers through the full grant lifecycle, from research to renewal. |
+| [Interview Prep Generator](../human-resources/writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
+| [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
+| [Marp Slide](../creatives/writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
+| [Microsoft Learn Contributor](writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
+| [Parent Communication Assistant](writing-and-content/parent-communication-assistant.md) | Drafts and manages parent-teacher communications for primary school teachers. |
+| [Parent Communication Drafter](writing-and-content/parent-communication-drafter.md) | Drafts all parent communication for elementary teachers, from welcome letters to end-of-year reflections. |
+| [Principal Parent Liaison](writing-and-content/principal-parent-liaison.md) | Handles parent communication for school principals, from announcements to feedback. |
+| [Professional Proofreader](../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
+| [Quality Control Training Developer](../operations/writing-and-content/quality-control-training-developer.md) | Builds quality control training materials from standards research to interactive modules. |
+| [Research Grants](../science-and-research/writing-and-content/research-grants.md) | Writes competitive research proposals for NSF, NIH, DOE, and DARPA with agency-specific formatting and review criteria. |
+| [Safety Training Developer](../healthcare/writing-and-content/safety-training-developer.md) | Develops, updates, and localizes workplace safety training materials and assessments. |
+| [Safety Training Program Developer](../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
+| [School Policy Advisor](writing-and-content/school-policy-advisor.md) | Drafts, reviews, and refines school policies with research and stakeholder input. |
+| [School Policy Development Assistant](writing-and-content/school-policy-development-assistant.md) | Develops, reviews, and communicates school policies with research and stakeholder input. |
+| [Training Content Development Assistant](../human-resources/writing-and-content/training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
+| [Training Material Creator](../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
+| [Training Module Developer](../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
+| [Treatment Plans](../healthcare/writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |
+| [Venue Templates](writing-and-content/venue-templates.md) | Provides LaTeX templates and formatting specs for journals, conferences, posters, and grants. |
+| [Writing Clearly And Concisely](../writers/writing-and-content/writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |
+
 ## Research
 
 | Template | What it does |
@@ -206,36 +240,6 @@ Teachers, trainers and students. **255 ready-made Grok Bot templates** for this 
 | [Teacher Research Assistant](research/teacher-research-assistant.md) | Research assistant for teachers: literature, data, citations, proposals, and presentations from start to publication. |
 | [Youtube Notetaker](research/youtube-notetaker.md) | Turn YouTube talks into local markdown study notes with slides and transcripts. |
 | [Youtube Summarizer](research/youtube-summarizer.md) | Extract YouTube transcripts and generate detailed summaries using the STAR + R-I-S-E framework. |
-
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Academic Cv Builder](writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
-| [Clinical Data Training Developer](../healthcare/writing-and-content/clinical-data-training-developer.md) | Builds clinical data management training content, from modules to certification prep. |
-| [Cover Letter Generator](../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
-| [Crossframe Critical](../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
-| [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
-| [Grant Writing Assistant for Headteachers](writing-and-content/grant-writing-assistant-for-headteachers.md) | Guides headteachers through the full grant lifecycle, from research to renewal. |
-| [Interview Prep Generator](../human-resources/writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
-| [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
-| [Marp Slide](../creatives/writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
-| [Microsoft Learn Contributor](writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
-| [Parent Communication Assistant](writing-and-content/parent-communication-assistant.md) | Drafts and manages parent-teacher communications for primary school teachers. |
-| [Parent Communication Drafter](writing-and-content/parent-communication-drafter.md) | Drafts all parent communication for elementary teachers, from welcome letters to end-of-year reflections. |
-| [Principal Parent Liaison](writing-and-content/principal-parent-liaison.md) | Handles parent communication for school principals, from announcements to feedback. |
-| [Professional Proofreader](../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
-| [Quality Control Training Developer](../operations/writing-and-content/quality-control-training-developer.md) | Builds quality control training materials from standards research to interactive modules. |
-| [Research Grants](../science-and-research/writing-and-content/research-grants.md) | Writes competitive research proposals for NSF, NIH, DOE, and DARPA with agency-specific formatting and review criteria. |
-| [Safety Training Developer](../healthcare/writing-and-content/safety-training-developer.md) | Develops, updates, and localizes workplace safety training materials and assessments. |
-| [Safety Training Program Developer](../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
-| [School Policy Advisor](writing-and-content/school-policy-advisor.md) | Drafts, reviews, and refines school policies with research and stakeholder input. |
-| [School Policy Development Assistant](writing-and-content/school-policy-development-assistant.md) | Develops, reviews, and communicates school policies with research and stakeholder input. |
-| [Training Material Creator](../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
-| [Training Module Developer](../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
-| [Treatment Plans](../healthcare/writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |
-| [Venue Templates](writing-and-content/venue-templates.md) | Provides LaTeX templates and formatting specs for journals, conferences, posters, and grants. |
-| [Writing Clearly And Concisely](../writers/writing-and-content/writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |
 
 ## Productivity
 
@@ -269,6 +273,7 @@ Teachers, trainers and students. **255 ready-made Grok Bot templates** for this 
 | [Classroom Decoration Planner](design/classroom-decoration-planner.md) | Generates classroom decoration ideas and plans for primary school teachers. |
 | [Classroom Visual Aids Designer](design/classroom-visual-aids-designer.md) | Designs clear, engaging visual aids for secondary school lessons. |
 | [Gamified Learning Designer](design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
+| [Gamified Training Designer](../human-resources/design/gamified-training-designer.md) | Designs gamified training programs, from game concepts to assessments. |
 | [Interactive Learning Game Designer](design/interactive-learning-game-designer.md) | Designs interactive learning games and gamified training experiences for instructors. |
 | [Interactive Learning Tools Design Assistant](design/interactive-learning-tools-design-assistant.md) | Designs and builds interactive learning tools for eLearning developers. |
 | [Interactive Webinar Designer](design/interactive-webinar-designer.md) | Designs and builds interactive webinars from research to evaluation. |

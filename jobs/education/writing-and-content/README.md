@@ -1,6 +1,6 @@
 # Writing & Content templates for Education
 
-Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 26 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,6 +26,7 @@ Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 10
 | [Safety Training Program Developer](../../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
 | [School Policy Advisor](school-policy-advisor.md) | Drafts, reviews, and refines school policies with research and stakeholder input. |
 | [School Policy Development Assistant](school-policy-development-assistant.md) | Develops, reviews, and communicates school policies with research and stakeholder input. |
+| [Training Content Development Assistant](../../human-resources/writing-and-content/training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
 | [Training Material Creator](../../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 | [Training Module Developer](../../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
 | [Treatment Plans](../../healthcare/writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |

@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 390 Grok Bot templates, 375 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 396 Grok Bot templates, 381 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -114,6 +114,7 @@ Infrastructure, deployments, monitoring and incident response. 390 Grok Bot temp
 | [Cloud Integration Navigator](cloud-integration-navigator.md) | Guides cloud integration, migration, security, and cost optimization for systems administrators. |
 | [Cloud Migration Specialist](cloud-migration-specialist.md) | Migrates on-premise workloads to cloud with minimal downtime and maximum cloud-native benefit. |
 | [Cloud Migration Strategy Planner](../../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
+| [Cloud Roadmap Navigator](cloud-roadmap-navigator.md) | Guides IT managers through cloud strategy from assessment to optimization, with approvals before any action. |
 | [Cloud Run Basics](cloud-run-basics.md) | Manages Cloud Run services, jobs, and worker pools on Google Cloud. |
 | [Cloud Security Planning Assistant](cloud-security-planning-assistant.md) | Cloud security planning and response assistant for systems administrators. |
 | [Cloud Sql Basics](cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
@@ -163,6 +164,7 @@ Infrastructure, deployments, monitoring and incident response. 390 Grok Bot temp
 | [Disaster Recovery and Backup Planner](disaster-recovery-and-backup-planner.md) | Designs and validates backup and disaster recovery plans for network engineers. |
 | [Disaster Recovery Plan Builder](disaster-recovery-plan-builder.md) | Builds and maintains your disaster recovery plan from risk assessment to continuous improvement. |
 | [Disaster Recovery Planner](../../executives-and-strategy/cloud-and-devops/disaster-recovery-planner.md) | Builds and maintains your disaster recovery plan, from risk assessment to continuous improvement. |
+| [Disaster Recovery Planning Assistant](disaster-recovery-planning-assistant.md) | Builds and maintains a disaster recovery plan for your IT environment, from risk assessment to testing and vendor coordination. |
 | [Disaster Recovery Program Planner](disaster-recovery-program-planner.md) | Turns IT disaster recovery and business continuity planning into a structured, repeatable workflow for global IT leadership. |
 | [Distributed Debugging Debug Trace](distributed-debugging-debug-trace.md) | Configure distributed tracing and debugging environments for multi-service systems. |
 | [Distributed Tracing](distributed-tracing.md) | Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices. |
@@ -204,6 +206,7 @@ Infrastructure, deployments, monitoring and incident response. 390 Grok Bot temp
 | [Google Cloud Waf Cost Optimization](google-cloud-waf-cost-optimization.md) | Evaluates Google Cloud workloads and generates cost optimization recommendations based on the Well-Architected Framework. |
 | [Google Cloud Waf Reliability](google-cloud-waf-reliability.md) | Evaluates Google Cloud workloads for reliability using the Well-Architected Framework. |
 | [Grafana Dashboards](grafana-dashboards.md) | Designs and manages production-ready Grafana dashboards for system observability. |
+| [Hardware Upgrade Advisor](hardware-upgrade-advisor.md) | Guides IT managers through hardware upgrade decisions from research to rollout. |
 | [Helm Chart Scaffolding](helm-chart-scaffolding.md) | Scaffolds Helm charts, validates templates, and reviews best practices for Kubernetes. |
 | [Hf Cloud Aws Context Discovery](hf-cloud-aws-context-discovery.md) | Discover the active AWS profile, region, account, and caller identity via CLI metadata without exposing credentials. |
 | [Hosted Agents](hosted-agents.md) | Build and scale background coding agents in sandboxed remote environments. |
@@ -218,6 +221,7 @@ Infrastructure, deployments, monitoring and incident response. 390 Grok Bot temp
 | [Incident Response Incident Response](incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Incident Response Smart Fix](incident-response-smart-fix.md) | Diagnose and resolve production incidents with multi-agent orchestration. |
 | [Incident Runbook Templates](../../operations/cloud-and-devops/incident-runbook-templates.md) | Generate incident response runbooks with detection, triage, and mitigation steps. |
+| [Infrastructure Assessment Advisor](infrastructure-assessment-advisor.md) | Assesses IT infrastructure across network, servers, storage, security, cloud, and more, delivering actionable reports. |
 | [Infrastructure Lambda Labs](infrastructure-lambda-labs.md) | Manages Lambda Labs GPU instances for ML training and inference. |
 | [Infrastructure Modal](infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [Infrastructure Optimization Advisor](infrastructure-optimization-advisor.md) | Analyzes infrastructure data and delivers optimization plans for IT leaders. |
@@ -359,6 +363,7 @@ Infrastructure, deployments, monitoring and incident response. 390 Grok Bot temp
 | [Sre Engineer](sre-engineer.md) | Define SLOs, manage error budgets, and reduce toil for system reliability. |
 | [Sshepherd](sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
 | [Status](status.md) | Check Railway project status, deployments, and uptime for this directory. |
+| [Storage Infrastructure Strategist](storage-infrastructure-strategist.md) | Plan, optimize, and secure your data storage with expert guidance. |
 | [Supabase](supabase.md) | Manage Supabase projects: database, auth, RLS, storage, edge functions. |
 | [Supabase Schema Architect](supabase-schema-architect.md) | Designs Supabase schemas, migrations, and RLS policies for production-ready databases. |
 | [Sysadmin Incident Lifecycle Copilot](sysadmin-incident-lifecycle-copilot.md) | Handles incident triage, documentation, communication, analysis, and training for systems administrators. |
@@ -386,6 +391,7 @@ Infrastructure, deployments, monitoring and incident response. 390 Grok Bot temp
 | [Vercel Deployment Specialist](vercel-deployment-specialist.md) | Configures and deploys projects to Vercel with edge functions, performance tuning, and monitoring. |
 | [Vercel Optimize](vercel-optimize.md) | Audit Vercel apps for cost and performance using metrics, config, and code scans. |
 | [Vexor Cli](vexor-cli.md) | Semantic file discovery in large repos via vexor CLI. |
+| [Virtualization Strategy Planner](virtualization-strategy-planner.md) | Plans and manages virtualization strategy from assessment to ongoing optimization. |
 | [VLAN Configuration Assistant](vlan-configuration-assistant.md) | Design, configure, troubleshoot, and document VLANs across your network. |
 | [VPN Configuration and Management Assistant](vpn-configuration-and-management-assistant.md) | Configures, troubleshoots, secures, and optimizes VPNs with step-by-step guidance. |
 | [Vps Server Management](vps-server-management.md) | Manage authorized VPS hosts and server-side agents via SSH and cautious operations workflows. |

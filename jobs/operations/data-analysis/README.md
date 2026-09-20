@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 448 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 449 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -276,6 +276,7 @@ Clean, query, chart and explain data. 448 Grok Bot templates, 268 of them filed 
 | [Ops Flow Auditor](ops-flow-auditor.md) | Optimizes your operations workflows by analyzing processes, finding bottlenecks, and recommending improvements. |
 | [Ops Market Trend Forecaster](ops-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategy recommendations for operations managers. |
 | [Ops Performance Forecaster](ops-performance-forecaster.md) | Turns employee performance data into clear insights, forecasts, and recommendations for operations leaders. |
+| [Optimization Modeling Assistant](../../it-and-development/data-analysis/optimization-modeling-assistant.md) | Builds and refines optimization models for data analysts, from formulation to insight. |
 | [Otif Analysis](otif-analysis.md) | Audit delivery OTIF from order data, find metric gaps, and pinpoint where lateness concentrates. |
 | [Packaging Cost Reduction Analyst](../../product-development/data-analysis/packaging-cost-reduction-analyst.md) | Analyzes packaging costs and identifies savings across materials, design, suppliers, and processes. |
 | [Packaging Damage Prevention Analyst](../../product-development/data-analysis/packaging-damage-prevention-analyst.md) | Analyze packaging designs for damage prevention and recommend improvements. |

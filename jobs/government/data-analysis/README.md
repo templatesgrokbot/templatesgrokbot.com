@@ -1,6 +1,6 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 101 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 108 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,8 +15,10 @@ Clean, query, chart and explain data. 101 Grok Bot templates, 13 of them filed i
 | [Budget Forecast Assistant](../../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Budget Optimization Assistant for Policy Makers](budget-optimization-assistant-for-policy-makers.md) | Analyzes budget data to find savings, optimize allocation, and support policy decisions. |
 | [Business Process Optimization Assistant](../../it-and-development/data-analysis/business-process-optimization-assistant.md) | Maps, analyzes, and optimizes business processes with data-backed recommendations. |
+| [Chart Whisperer for Analysts](../../it-and-development/data-analysis/chart-whisperer-for-analysts.md) | Turns your data into clear, insightful charts and dashboards for analysis and storytelling. |
 | [Climate Impact Study Assistant](../../science-and-research/data-analysis/climate-impact-study-assistant.md) | Turns climate data and policy into impact studies, risk assessments, and adaptation plans. |
 | [Climate Risk Assessment Assistant](../../science-and-research/data-analysis/climate-risk-assessment-assistant.md) | Turns climate data into risk assessments, reports, and resilience plans for sustainability analysts. |
+| [Compensation and Benefits Analysis Assistant](../../human-resources/data-analysis/compensation-and-benefits-analysis-assistant.md) | Analyzes compensation and benefits data to keep packages competitive, fair, and compliant. |
 | [Compliance Benchmarking Analyst](../../legal/data-analysis/compliance-benchmarking-analyst.md) | Benchmarks your compliance practices against industry standards and peers. |
 | [Compliance Cost Analyst](../../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |
 | [Compliance Monitoring Inspector](../../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
@@ -26,6 +28,7 @@ Clean, query, chart and explain data. 101 Grok Bot templates, 13 of them filed i
 | [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Cost-Benefit Analysis Assistant](../../operations/data-analysis/cost-benefit-analysis-assistant.md) | Runs complete cost-benefit analyses for process improvement projects, from data gathering to stakeholder-ready reports. |
 | [Data Analysis Assistant](../../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
+| [Data Analysis Workflow Assistant](../../it-and-development/data-analysis/data-analysis-workflow-assistant.md) | Guides data analysts through cleaning, modeling, and reporting with AI assistance. |
 | [Data Cleansing Assistant](../../operations/data-analysis/data-cleansing-assistant.md) | Cleanses, standardizes, and validates datasets for data entry specialists. |
 | [Data Collection Strategy Planner](../../operations/data-analysis/data-collection-strategy-planner.md) | Plans and runs data collection for process improvement, from source choice to insight delivery. |
 | [Data Formatting and Organization Assistant](../../operations/data-analysis/data-formatting-and-organization-assistant.md) | Cleans, standardizes, and organizes data for data entry specialists. |
@@ -74,6 +77,7 @@ Clean, query, chart and explain data. 101 Grok Bot templates, 13 of them filed i
 | [Purchasing Budget and Cost Analyst](../../management/data-analysis/purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
 | [Qualitative Data Analysis Assistant](../../science-and-research/data-analysis/qualitative-data-analysis-assistant.md) | Analyzes qualitative data to surface themes, sentiments, and insights for research associates. |
 | [Quality Control Reporting Assistant](../../operations/data-analysis/quality-control-reporting-assistant.md) | Analyzes quality data, generates reports, and tracks compliance for quality control inspectors. |
+| [Reporting and Documentation Assistant](../../it-and-development/data-analysis/reporting-and-documentation-assistant.md) | Turns raw data into clear, accurate reports and documentation for data analysts. |
 | [Research Data Analyst](../../science-and-research/data-analysis/research-data-analyst.md) | Collects, cleans, organizes, analyzes, visualizes, and reports data for research associates. |
 | [Risk Assessment Analyst](../../operations/data-analysis/risk-assessment-analyst.md) | Turns your risk data into assessed, prioritized, and actionable risk intelligence for process improvement. |
 | [Risk Assessment and Mitigation Consultant](../../management/data-analysis/risk-assessment-and-mitigation-consultant.md) | Identifies, analyzes, and mitigates risks across your organization with structured assessments and plans. |
@@ -85,6 +89,7 @@ Clean, query, chart and explain data. 101 Grok Bot templates, 13 of them filed i
 | [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Stakeholder Engagement Analyst](../../it-and-development/data-analysis/stakeholder-engagement-analyst.md) | Maps, analyzes, and reports on stakeholders to sharpen engagement strategies. |
+| [Statistical Analysis Assistant](../../it-and-development/data-analysis/statistical-analysis-assistant.md) | Guides data analysts through statistical analysis tasks from cleaning to interpretation. |
 | [Strategic Data Insights Assistant](../../executives-and-strategy/data-analysis/strategic-data-insights-assistant.md) | Turns your data into strategic insights and recommendations for confident decisions. |
 | [Strategic Risk Assessment Assistant](../../executives-and-strategy/data-analysis/strategic-risk-assessment-assistant.md) | Identifies, evaluates, and communicates strategic risks for VP-level decision-making. |
 | [Strategic Risk Management Assistant](../../executives-and-strategy/data-analysis/strategic-risk-management-assistant.md) | Identifies, assesses, and mitigates risks with scenario analysis and reporting for strategy directors. |
@@ -93,6 +98,7 @@ Clean, query, chart and explain data. 101 Grok Bot templates, 13 of them filed i
 | [Talent Management Strategy Planner](../../executives-and-strategy/data-analysis/talent-management-strategy-planner.md) | Turns your talent data into a full workforce strategy, from hiring to retention. |
 | [Tax Policy Analysis Assistant](../../finance/data-analysis/tax-policy-analysis-assistant.md) | Analyzes tax policies, forecasts revenues, and evaluates impacts for tax analysts. |
 | [Training Needs Analysis Assistant](../../education/data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
+| [Training Needs Prioritizer Pro](../../human-resources/data-analysis/training-needs-prioritizer-pro.md) | Turns training needs data into prioritized, actionable development plans. |
 | [Transportation Cost-Benefit Analyst](transportation-cost-benefit-analyst.md) | Cost-benefit analysis for transportation decisions, from data to report. |
 | [Transportation File Analyzer](transportation-file-analyzer.md) | Manage transportation files and data analysis with AI-assisted workflows. |
 | [Transportation Inventory Manager](transportation-inventory-manager.md) | Manages transportation inventory end-to-end with predictive insights and real-time tracking. |
@@ -106,6 +112,7 @@ Clean, query, chart and explain data. 101 Grok Bot templates, 13 of them filed i
 | [Vendor Proposal Comparator](../../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Waste Management Analyst](../../science-and-research/data-analysis/waste-management-analyst.md) | Analyzes waste streams, ensures compliance, and optimizes sustainable waste management for environmental engineers. |
 | [Water Quality Assessment Assistant](../../science-and-research/data-analysis/water-quality-assessment-assistant.md) | Assesses water quality data, ensures compliance, and designs monitoring tools for environmental engineers. |
+| [Workforce Forecasting Planner](../../human-resources/data-analysis/workforce-forecasting-planner.md) | Forecasts workforce needs and plans talent actions for HR managers. |
 | [Workplace Culture Assessment Assistant](../../human-resources/data-analysis/workplace-culture-assessment-assistant.md) | Designs, runs, and analyzes workplace culture assessments, from surveys to action plans. |
 
 [← All Government templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/government)

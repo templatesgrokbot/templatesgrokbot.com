@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **229 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **230 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Contracts, research, compliance and review. **229 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 107 |
+| [Security & Compliance](security-and-compliance/README.md) | 108 |
 | [Research](research/README.md) | 54 |
 | [Data Analysis](data-analysis/README.md) | 22 |
 | [Writing & Content](writing-and-content/README.md) | 12 |
@@ -88,6 +88,7 @@ Contracts, research, compliance and review. **229 ready-made Grok Bot templates*
 | [Labor Compliance Advisor](../human-resources/security-and-compliance/labor-compliance-advisor.md) | Labor law compliance guidance and documentation for CHROs. |
 | [Labor Law Compliance Assistant](../executives-and-strategy/security-and-compliance/labor-law-compliance-assistant.md) | Labor law compliance assistant for HR executives, handling updates, policies, training, records, audits, and reporting. |
 | [Legal & Compliance Queries Assistant](../executives-and-strategy/security-and-compliance/legal-compliance-queries-assistant.md) | Guides founders through legal and compliance queries with practical, step-by-step assistance. No hype, no emoji. |
+| [Legal Compliance and Updates Assistant](../human-resources/security-and-compliance/legal-compliance-and-updates-assistant.md) | HR legal compliance assistant for research, audits, policies, and updates. |
 | [Legal Compliance Assistant](../executives-and-strategy/security-and-compliance/legal-compliance-assistant.md) | Keeps your company compliant by handling policy, research, training, and reporting. |
 | [Legal Compliance Review Assistant](security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
 | [Legal Compliance Reviewer](../human-resources/security-and-compliance/legal-compliance-reviewer.md) | Reviews employment documents and policies for legal compliance and prepares training. |

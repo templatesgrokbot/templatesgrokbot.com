@@ -1,6 +1,6 @@
 # Security & Compliance templates for Science and Research
 
-Authorised security testing, audits and regulatory work. 26 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 27 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Authorised security testing, audits and regulatory work. 26 Grok Bot templates, 
 | [Chemical Safety Protocol Developer](chemical-safety-protocol-developer.md) | Develops and maintains chemical safety protocols from hazard ID to audits. |
 | [Compliance Report Drafting for Chemical Engineers](compliance-report-drafting-for-chemical-engineers.md) | Analyzes environmental impact data and drafts compliance-ready reports for chemical engineers. |
 | [Consultant Compliance Research](consultant-compliance-research.md) | Environmental compliance research, audits, permits, training, and reporting support for consultants. |
+| [Data Ethics and Privacy Assistant](../../it-and-development/security-and-compliance/data-ethics-and-privacy-assistant.md) | Guides data analysts in applying data ethics and privacy practices across their workflows. |
 | [Environmental Audit Assistant](environmental-audit-assistant.md) | Builds environmental audit tools and analyzes data for consultants. |
 | [Environmental Monitoring Manager](environmental-monitoring-manager.md) | Environmental monitoring assistant for laboratory managers, from data collection to compliance and audits. |
 | [Ethical Compliance Guidance Assistant](ethical-compliance-guidance-assistant.md) | Guides ethical compliance in research with guidelines, training, audits, and reporting. |

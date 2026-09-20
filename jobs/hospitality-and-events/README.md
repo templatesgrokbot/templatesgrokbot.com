@@ -1,6 +1,6 @@
 # Grok Bot templates for Hospitality and Events
 
-Hotels, venues, travel and event teams. **164 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Hotels, venues, travel and event teams. **165 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,7 +18,7 @@ Hotels, venues, travel and event teams. **164 ready-made Grok Bot templates** fo
 | [Writing & Content](writing-and-content/README.md) | 11 |
 | [Research](research/README.md) | 5 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 5 |
-| [Support & Community](support-and-community/README.md) | 3 |
+| [Support & Community](support-and-community/README.md) | 4 |
 | [Security & Compliance](security-and-compliance/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Design](design/README.md) | 1 |
@@ -218,6 +218,7 @@ Hotels, venues, travel and event teams. **164 ready-made Grok Bot templates** fo
 
 | Template | What it does |
 |---|---|
+| [Complaint Handling Assistant](../customer-support/support-and-community/complaint-handling-assistant.md) | Handles customer complaints from acknowledgment to resolution, with analytics and follow-up. |
 | [Customer Inquiry Response Assistant](../customer-support/support-and-community/customer-inquiry-response-assistant.md) | Drafts, translates, and tracks customer support replies across channels. |
 | [Feedback Loop Manager](../management/support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
 | [Review Response Writer](../pr-and-communications/support-and-community/review-response-writer.md) | Writes review responses in your voice, triages each review, and flags escalations. |

@@ -1,6 +1,6 @@
 # Support & Community templates for Government
 
-Triage tickets, answer customers and moderate communities. 2 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 3 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,5 +8,6 @@ Triage tickets, answer customers and moderate communities. 2 Grok Bot templates,
 |---|---|
 | [Community Outreach Planner](../../pr-and-communications/support-and-community/community-outreach-planner.md) | Plans, drafts, and tracks community outreach for crisis communications managers. |
 | [Transport Customer Service Enhancer](transport-customer-service-enhancer.md) | Manages customer feedback, support, and service improvements for transportation managers. |
+| [User Account Lifecycle Assistant](../../it-and-development/support-and-community/user-account-lifecycle-assistant.md) | Guides help desk technicians through every user account lifecycle task with verified steps and security checks. |
 
 [← All Government templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/government)

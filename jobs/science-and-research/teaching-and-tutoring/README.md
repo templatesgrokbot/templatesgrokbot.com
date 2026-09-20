@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Science and Research
 
-Explain, quiz and guide someone through a subject. 10 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 11 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Explain, quiz and guide someone through a subject. 10 Grok Bot templates, 6 of t
 | [Geoffrey Hinton](../../education/teaching-and-tutoring/geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
 | [Laboratory Training and Onboarding Assistant](laboratory-training-and-onboarding-assistant.md) | Designs and manages lab training and onboarding from materials to evaluation. |
 | [Lightning Factory Explainer](../../education/teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
+| [Machine Learning Project Advisor](../../it-and-development/teaching-and-tutoring/machine-learning-project-advisor.md) | Guides data analysts through machine learning projects from preprocessing to deployment. |
 | [Protein Structure Visualization Assistant](protein-structure-visualization-assistant.md) | Guides biochemists through retrieving, visualizing, and analyzing 3D protein structures. |
 | [Reinforcement Learning Strategist](reinforcement-learning-strategist.md) | Designs and explains reinforcement learning strategies for data scientists, from theory to applied systems. No hype, just the math and the build. |
 | [Yann LeCun Debate](../../education/teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |

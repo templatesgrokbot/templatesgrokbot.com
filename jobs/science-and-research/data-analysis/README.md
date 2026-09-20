@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 209 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 222 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Clean, query, chart and explain data. 209 Grok Bot templates, 143 of them filed 
 | [Air Quality Monitoring Assistant](air-quality-monitoring-assistant.md) | Turns air quality data into forecasts, compliance reports, and public alerts for environmental engineers. |
 | [Alpha Vantage](../../finance/data-analysis/alpha-vantage.md) | Fetch 20+ years of equities, forex, crypto, commodities, and economic data via Alpha Vantage API. |
 | [Analyst Market Briefing](../../finance/data-analysis/analyst-market-briefing.md) | Market research and analysis assistant for financial analysts. |
+| [Anomaly Detection Analyst](../../it-and-development/data-analysis/anomaly-detection-analyst.md) | Detects anomalies in your data and explains them for faster, accurate decisions. |
 | [Arrowspace](../../it-and-development/data-analysis/arrowspace.md) | Spectral vector search using graph Laplacian eigenstructure for latent structure |
 | [Astropy](astropy.md) | Astronomical data analysis with Astropy: coordinates, units, FITS, cosmology, time, tables, WCS. |
 | [Azure Ai Anomalydetector Java](../../it-and-development/data-analysis/azure-ai-anomalydetector-java.md) | Detect anomalies in time-series data using Azure AI Anomaly Detector SDK for Java, supporting univariate and multivariate analysis. |
@@ -22,6 +23,7 @@ Clean, query, chart and explain data. 209 Grok Bot templates, 143 of them filed 
 | [Benchling Integration](benchling-integration.md) | Automates Benchling lab data management via API for registry, inventory, and ELN operations. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Big Data Analysis Guide](big-data-analysis-guide.md) | Guides data scientists through big data analysis from cleaning to visualization. |
 | [Big Data Analysis Planner](big-data-analysis-planner.md) | Big data analysis assistant for research associates, from collection to insight. |
+| [Big Data Analysis Strategist](../../it-and-development/data-analysis/big-data-analysis-strategist.md) | Guides big data analysis from preprocessing to governance, turning raw data into decisions. |
 | [Biochemical Engineering Support](biochemical-engineering-support.md) | Optimize biochemical processes, analyze data, and support research for chemical engineers. |
 | [Biochemical Simulation Interpreter](biochemical-simulation-interpreter.md) | Interprets biochemical simulation data and models to accelerate research insights. |
 | [Biochemical Statistical Analysis Assistant](biochemical-statistical-analysis-assistant.md) | Statistical analysis assistant for biochemical data, from cleaning to reporting. |
@@ -32,6 +34,7 @@ Clean, query, chart and explain data. 209 Grok Bot templates, 143 of them filed 
 | [Carbon Footprint Analysis Assistant](carbon-footprint-analysis-assistant.md) | Turns your company's activity data into a carbon footprint analysis with reduction strategies and stakeholder-ready reports. |
 | [Carbon Footprint Assessment Assistant](carbon-footprint-assessment-assistant.md) | Guides energy engineers through carbon footprint assessment and reduction strategies. |
 | [Catastrophe Risk Analysis Assistant](../../finance/data-analysis/catastrophe-risk-analysis-assistant.md) | Analyzes catastrophe data, models risk, and prepares reports for insurance decisions. |
+| [Chart Whisperer for Analysts](../../it-and-development/data-analysis/chart-whisperer-for-analysts.md) | Turns your data into clear, insightful charts and dashboards for analysis and storytelling. |
 | [Chemical Data Visualization Assistant](chemical-data-visualization-assistant.md) | Turns chemical data into clear visualizations for engineers and researchers. |
 | [Chemical Database Manager](chemical-database-manager.md) | Manages chemical databases end-to-end: entry, validation, maintenance, analysis, reporting, and compliance tracking for chemical engineers. |
 | [Chemical Process Optimizer](chemical-process-optimizer.md) | Optimizes chemical processes through data analysis, simulation, and improvement recommendations. |
@@ -49,15 +52,19 @@ Clean, query, chart and explain data. 209 Grok Bot templates, 143 of them filed 
 | [Clinical Trial ML Pipeline Assistant](../../healthcare/data-analysis/clinical-trial-ml-pipeline-assistant.md) | Prepares clinical trial data, builds and monitors ML models, and generates reports for clinical data managers. |
 | [Cobrapy](cobrapy.md) | Run constraint-based metabolic modeling and analysis on genome-scale models. |
 | [Data Analysis Assistant](../../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
+| [Data Analysis Workflow Assistant](../../it-and-development/data-analysis/data-analysis-workflow-assistant.md) | Guides data analysts through cleaning, modeling, and reporting with AI assistance. |
 | [Data Analyst](data-analyst.md) | Analyzes numerical data to find trends, compare metrics, and produce statistical insights. |
 | [Data Cleaner](../../it-and-development/data-analysis/data-cleaner.md) | Finds what is actually wrong in a messy spreadsheet before anyone builds a chart on it. |
+| [Data Cleaning Guidance Assistant](../../it-and-development/data-analysis/data-cleaning-guidance-assistant.md) | Guides data analysts through data cleaning tasks with step-by-step advice and validation. |
 | [Data Engineer](../../it-and-development/data-analysis/data-engineer.md) | Designs and builds scalable data pipelines, warehouses, and streaming architectures for reliable analytics infrastructure. |
 | [Data Engineering Data Pipeline](../../it-and-development/data-analysis/data-engineering-data-pipeline.md) | Design and implement scalable batch and streaming data pipelines |
 | [Data Insights Strategist](../../executives-and-strategy/data-analysis/data-insights-strategist.md) | Turns raw data into forecasts, segments, and stories for executive decisions. |
+| [Data Integration Workbench](../../it-and-development/data-analysis/data-integration-workbench.md) | Plans and executes data integration tasks from cleaning to cloud and ML pipelines. |
 | [Data Interpretation Assistant](data-interpretation-assistant.md) | Turns complex datasets into clear insights, visualizations, and decisions for research scientists. |
 | [Data Preprocessing Advisor](data-preprocessing-advisor.md) | Guides data scientists through every data preprocessing step, from cleaning to feature engineering. |
 | [Data Processing Nemo Curator](data-processing-nemo-curator.md) | GPU-accelerated data curation for LLM training datasets. |
 | [Data Processing Ray Data](../../it-and-development/data-analysis/data-processing-ray-data.md) | Process large ML datasets with Ray Data across CPU/GPU clusters. |
+| [Data Query Optimization Assistant](../../it-and-development/data-analysis/data-query-optimization-assistant.md) | Optimizes SQL queries for faster, more efficient data analysis. |
 | [Data Report Generator](data-report-generator.md) | Turns CSV, Excel, or JSON data into a polished visual report page. |
 | [Data Researcher](data-researcher.md) | Discovers, collects, and validates data from multiple sources for analysis and decision-making. |
 | [Data Scientist](../../it-and-development/data-analysis/data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
@@ -144,6 +151,7 @@ Clean, query, chart and explain data. 209 Grok Bot templates, 143 of them filed 
 | [Networkx](../../it-and-development/data-analysis/networkx.md) | Build, analyze, and visualize network graphs from data using NetworkX, with no code execution outside sandbox. |
 | [Nutrition Analyzer](../../healthcare/data-analysis/nutrition-analyzer.md) | Analyze nutrition data, identify patterns, and give personalized dietary advice. |
 | [Omero Integration](omero-integration.md) | Manage microscopy images and metadata via OMERO Python API. |
+| [Optimization Modeling Assistant](../../it-and-development/data-analysis/optimization-modeling-assistant.md) | Builds and refines optimization models for data analysts, from formulation to insight. |
 | [Oral Health Analyzer](../../healthcare/data-analysis/oral-health-analyzer.md) | Analyze oral health data to identify risks and provide personalized care advice. |
 | [Pathml](../../healthcare/data-analysis/pathml.md) | Analyze whole-slide pathology images and multiparametric imaging data. |
 | [Petroleum Geology Analyst](petroleum-geology-analyst.md) | Interprets geological data to locate and characterize petroleum reservoirs. |
@@ -151,6 +159,7 @@ Clean, query, chart and explain data. 209 Grok Bot templates, 143 of them filed 
 | [Power Grid Analysis Assistant](power-grid-analysis-assistant.md) | Analyzes power grid data for load flow, faults, stability, renewables, and modernization planning. |
 | [Predictive Analytics Workflow Assistant](predictive-analytics-workflow-assistant.md) | Guides data scientists through the full predictive analytics workflow, from data prep to deployment and forecasting. |
 | [Predictive Modeling Assistant](../../executives-and-strategy/data-analysis/predictive-modeling-assistant.md) | Builds and maintains predictive models for competitive intelligence, from data to forecasts. |
+| [Predictive Modeling Workflow Guide](../../it-and-development/data-analysis/predictive-modeling-workflow-guide.md) | Guides data analysts through predictive modeling: features, preprocessing, models, tuning, evaluation, and deployment. |
 | [Process Data Analyst](process-data-analyst.md) | Analyzes process data to uncover patterns, trends, and risks for process development scientists. |
 | [Process QC Statistical Reports](process-qc-statistical-reports.md) | Analyzes quality control data, runs statistical tests, and generates reports to improve manufacturing processes. |
 | [Product Feedback Insight Analyst](product-feedback-insight-analyst.md) | Turns customer feedback into clear insights and trend reports for product decisions. |
@@ -172,6 +181,7 @@ Clean, query, chart and explain data. 209 Grok Bot templates, 143 of them filed 
 | [Renewable Energy Consulting Assistant](renewable-energy-consulting-assistant.md) | Analyzes renewable energy data, drafts reports, and supports compliance and planning for environmental consultants. |
 | [Renewable Energy Design Assistant](renewable-energy-design-assistant.md) | Renewable energy system design assistant for energy engineers, from resource assessment to hybrid integration. |
 | [Renewable Energy Financial Modeler](renewable-energy-financial-modeler.md) | Builds and checks financial models for renewable energy projects from data to reports. |
+| [Reporting and Documentation Assistant](../../it-and-development/data-analysis/reporting-and-documentation-assistant.md) | Turns raw data into clear, accurate reports and documentation for data analysts. |
 | [Research Data Analyst](research-data-analyst.md) | Collects, cleans, organizes, analyzes, visualizes, and reports data for research associates. |
 | [Research Data Visualization Assistant](research-data-visualization-assistant.md) | Turns your research data into clear, interactive visual stories. |
 | [Scanpy](scanpy.md) | Guide single-cell RNA-seq analysis from loading through cell type annotation and trajectory inference. |
@@ -192,6 +202,7 @@ Clean, query, chart and explain data. 209 Grok Bot templates, 143 of them filed 
 | [Soil Contamination Analysis Assistant](soil-contamination-analysis-assistant.md) | Soil contamination analysis assistant for environmental engineers. |
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Statistical Analysis](statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
+| [Statistical Analysis Assistant](../../it-and-development/data-analysis/statistical-analysis-assistant.md) | Guides data analysts through statistical analysis tasks from cleaning to interpretation. |
 | [Statistical Analysis Guide](statistical-analysis-guide.md) | Guides process development scientists through statistical analysis from data prep to interpretation. |
 | [Statistical Analysis Workflow Assistant](statistical-analysis-workflow-assistant.md) | Statistical analysis assistant for research scientists, from data cleaning to meta-analysis. |
 | [Statistical Modeling Assistant](statistical-modeling-assistant.md) | Guides research associates through statistical modeling and prediction workflows. |
@@ -202,7 +213,9 @@ Clean, query, chart and explain data. 209 Grok Bot templates, 143 of them filed 
 | [Sustainable Urban Development Assistant](sustainable-urban-development-assistant.md) | Analyzes urban data and designs sustainable solutions for environmental engineers. |
 | [Tcm Constitution Analyzer](../../healthcare/data-analysis/tcm-constitution-analyzer.md) | Analyze TCM constitution data and provide personalized wellness recommendations. |
 | [Test Result Interpretation Assistant](test-result-interpretation-assistant.md) | Interprets lab test results, flags abnormalities, and drafts reports for laboratory technicians. |
+| [Text Mining NLP Analyst](../../it-and-development/data-analysis/text-mining-nlp-analyst.md) | Text mining and NLP assistant for data analysts to classify, summarize, and extract insights from text data. |
 | [Thermal System Optimization Assistant](thermal-system-optimization-assistant.md) | Optimizes thermal systems through data analysis, modeling, and efficiency recommendations. |
+| [Time Series Analysis Assistant](../../it-and-development/data-analysis/time-series-analysis-assistant.md) | Time series analysis assistant for data analysts: preprocessing, trends, forecasting, and anomaly detection. |
 | [Tokenization Sentencepiece](../../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 | [Torchdrug](torchdrug.md) | Run graph-based drug discovery tasks on molecules, proteins, and biomedical graphs. No code execution. You plan and guide the user through TorchDrug w |
 | [Umap Learn](../../it-and-development/data-analysis/umap-learn.md) | Reduce high-dimensional data to 2D/3D for visualization or clustering preprocessing. Uses UMAP algorithm. No training needed on new data after fit. Ke |

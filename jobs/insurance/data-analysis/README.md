@@ -1,6 +1,6 @@
 # Data Analysis templates for Insurance
 
-Clean, query, chart and explain data. 74 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 75 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Clean, query, chart and explain data. 74 Grok Bot templates, 0 of them filed in 
 | [Actuarial Risk Modeling Assistant](../../finance/data-analysis/actuarial-risk-modeling-assistant.md) | Builds and maintains actuarial risk models from data to reporting. |
 | [Agency Performance Analyst](../../management/data-analysis/agency-performance-analyst.md) | Turns agency performance data into clear insights and recommendations for insurance managers. |
 | [Annuity Product Development Assistant](../../finance/data-analysis/annuity-product-development-assistant.md) | Analyzes annuity market data, designs products, and manages compliance for actuaries. |
+| [Anomaly Detection Analyst](../../it-and-development/data-analysis/anomaly-detection-analyst.md) | Detects anomalies in your data and explains them for faster, accurate decisions. |
 | [Asset-Liability Management Assistant](../../finance/data-analysis/asset-liability-management-assistant.md) | Analyzes assets and liabilities, models scenarios, and optimizes strategies for insurance actuaries. |
 | [Automated Claim Processing Assistant](../../operations/data-analysis/automated-claim-processing-assistant.md) | Automates claim intake, verification, decisions, and customer updates for insurance processors. |
 | [Catastrophe Modeling Analyst](../../finance/data-analysis/catastrophe-modeling-analyst.md) | Catastrophe modeling assistant for insurance risk analysts, from data to reports. |

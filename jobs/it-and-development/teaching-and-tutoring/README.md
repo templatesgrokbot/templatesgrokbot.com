@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for IT and Development
 
-Explain, quiz and guide someone through a subject. 9 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 10 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,7 @@ Explain, quiz and guide someone through a subject. 9 Grok Bot templates, 2 of th
 | [Demonstrate Understanding](../../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [IT Training Content Builder](it-training-content-builder.md) | Builds and maintains staff training materials and interactive support for IT systems. |
 | [IT Training Program Manager](it-training-program-manager.md) | Plans, builds, delivers, and evaluates IT employee training programs. |
+| [Machine Learning Project Advisor](machine-learning-project-advisor.md) | Guides data analysts through machine learning projects from preprocessing to deployment. |
 | [Microsoft Study Mode](../../education/teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
 | [Technical Content Evaluator](../../education/teaching-and-tutoring/technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
 | [Technical Tutorials](../../education/teaching-and-tutoring/technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |

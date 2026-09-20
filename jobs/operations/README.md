@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,310 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,311 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Processes, logistics and the systems that run a business. **1,310 ready-made Gro
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 448 |
+| [Data Analysis](data-analysis/README.md) | 449 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 190 |
 | [Productivity](productivity/README.md) | 190 |
 | [Security & Compliance](security-and-compliance/README.md) | 106 |
@@ -49,7 +49,7 @@ Processes, logistics and the systems that run a business. **1,310 ready-made Gro
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 448 Data Analysis templates →](data-analysis/README.md)
+[All 449 Data Analysis templates →](data-analysis/README.md)
 
 ## Cloud & DevOps
 

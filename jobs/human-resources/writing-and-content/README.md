@@ -1,6 +1,6 @@
 # Writing & Content templates for Human Resources
 
-Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 53 Grok Bot templates, 38 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,8 +13,11 @@ Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 31
 | [Conflict Resolution Strategies Assistant](../../executives-and-strategy/writing-and-content/conflict-resolution-strategies-assistant.md) | Designs and guides conflict resolution programs, materials, and coaching for HR leaders. |
 | [Conflict Resolution Strategist](conflict-resolution-strategist.md) | Builds conflict resolution strategies, policies, training, and tools for HR consultants. |
 | [Conflict Resolution Toolkit](conflict-resolution-toolkit.md) | Turns conflict situations into structured resolution plans for HR specialists. |
+| [Continuous Learning Culture Builder](continuous-learning-culture-builder.md) | Builds and sustains a continuous learning culture for your employees. |
 | [Cover Letter Generator](cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
+| [Cross-Cultural Training Designer](cross-cultural-training-designer.md) | Designs and delivers cross-cultural training for HR teams. |
 | [Cv Generator](cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
+| [Employee Conflict Resolution Assistant](employee-conflict-resolution-assistant.md) | Resolves employee conflicts through mediation, training, and policy development for HR managers. |
 | [Employee Handbook Builder](employee-handbook-builder.md) | Builds a plain-English employee handbook for small businesses, flagging state-law checks for attorney review. |
 | [Employee Relations Policy Assistant](employee-relations-policy-assistant.md) | Develops, reviews, and communicates employee relations policies with research, drafting, and stakeholder support. |
 | [Employee Wellness Program Assistant](employee-wellness-program-assistant.md) | Designs and runs employee wellness programs from surveys to challenges. |
@@ -24,6 +27,7 @@ Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 31
 | [Freight Brokerage Training Developer](../../sales/writing-and-content/freight-brokerage-training-developer.md) | Builds and runs freight brokerage training programs from onboarding to ongoing development. |
 | [Global HR Policy Formulation Assistant](global-hr-policy-formulation-assistant.md) | Drafts, reviews, and benchmarks global HR policies from research to rollout. |
 | [HR Conflict Resolution Program Designer](hr-conflict-resolution-program-designer.md) | Guides HR leaders through every stage of workplace conflict resolution, from mediation to program design. |
+| [HR Diversity Initiative Assistant](hr-diversity-initiative-assistant.md) | Plans and supports diversity and inclusion initiatives across HR functions. |
 | [HR Policy Clarification Assistant](hr-policy-clarification-assistant.md) | Clarifies policies for HR directors by drafting, explaining, and auditing company procedures. |
 | [HR Policy Creation Assistant](hr-policy-creation-assistant.md) | Drafts, reviews, and aligns HR policies from research to rollout. |
 | [HR Policy Development Assistant](hr-policy-development-assistant.md) | Develops, reviews, and rolls out HR policies for consultants. |
@@ -34,11 +38,13 @@ Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 31
 | [Internal Communication Planner](../../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
 | [Interview Prep Generator](interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Job Application Optimizer](job-application-optimizer.md) | Tailor resumes, cover letters, and interview prep to each job posting. |
+| [Job Description Optimizer](job-description-optimizer.md) | Optimizes job descriptions to attract the right candidates and improve hiring outcomes. |
 | [Job Post Writer](job-post-writer.md) | Writes honest, effective job posts that attract the right candidates for small businesses. |
 | [Linkedin Profile Optimizer](../../marketing/writing-and-content/linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
 | [Organizational Culture Development Assistant](organizational-culture-development-assistant.md) | Designs and analyzes culture initiatives for global HR leaders. |
 | [Performance Review Template Architect](performance-review-template-architect.md) | Builds and updates performance review templates for HR VPs, from standard to specialized. |
 | [Reference List Builder](reference-list-builder.md) | Formats professional reference lists and prepares reference materials for job applications. |
+| [Remote Work Policy and Engagement Assistant](remote-work-policy-and-engagement-assistant.md) | Builds and maintains remote work policies, guides, and support for HR managers. |
 | [Remote Workforce Management Assistant](../../executives-and-strategy/writing-and-content/remote-workforce-management-assistant.md) | Manages remote workforce engagement, performance, policies, and support for HR leaders. |
 | [Resume Bullet Writer](resume-bullet-writer.md) | Transform weak resume bullets into achievement-focused statements with metrics and impact. |
 | [Resume Formatter](resume-formatter.md) | Reformats resumes for ATS compatibility and clean, scannable layouts. |
@@ -51,6 +57,7 @@ Plan, write and edit articles, copy and documentation. 46 Grok Bot templates, 31
 | [Talent Acquisition Strategy Assistant](talent-acquisition-strategy-assistant.md) | Streamlines talent acquisition from sourcing to onboarding with AI-driven insights and content. |
 | [Tech Resume Optimizer](../../it-and-development/writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 | [Total Rewards Communication Assistant](total-rewards-communication-assistant.md) | Crafts clear, personalized total rewards communications for employees. |
+| [Training Content Development Assistant](training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
 | [Workplace Wellness Program Coordinator](../../healthcare/writing-and-content/workplace-wellness-program-coordinator.md) | Designs, promotes, and evaluates workplace wellness programs from surveys to policies. |
 
 [← All Human Resources templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/human-resources)

@@ -1,6 +1,6 @@
 # Writing & Content templates for IT and Development
 
-Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 30 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,6 +20,7 @@ Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 16
 | [Documentation Templates](documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
 | [HADS Document Assistant](hads-document-assistant.md) | Creates, converts, and validates HADS-format technical documentation for human and AI readers. |
 | [IT Policy Development Assistant](it-policy-development-assistant.md) | Develops, reviews, and maintains IT policies from research to implementation. |
+| [IT Training Material Creator](it-training-material-creator.md) | Creates and manages IT training materials from research to interactive modules and assessments. |
 | [Microsoft Learn Contributor](../../education/writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
 | [Patent Document Drafter](../../legal/writing-and-content/patent-document-drafter.md) | Drafts and manages patent documents, from applications to litigation support, for patent agents. |
 | [README](readme.md) | Generate thorough README documentation for any project. No code execution. No deployment. No production changes. All changes require your approval. |

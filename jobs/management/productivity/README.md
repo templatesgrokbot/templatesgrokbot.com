@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 177 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 179 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -86,6 +86,7 @@ Plan, prioritise and clear the recurring admin. 177 Grok Bot templates, 61 of th
 | [Innovation Pipeline Planner](../../executives-and-strategy/productivity/innovation-pipeline-planner.md) | Turns R&D ideas into tracked, prioritized innovation initiatives with AI support. |
 | [Innovation Risk Assessment Assistant](../../executives-and-strategy/productivity/innovation-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates innovation risks with structured reports and decision support. |
 | [Insurance Digital Transformation Planner](insurance-digital-transformation-planner.md) | Plans and oversees your agency's digital transformation, from customer analytics to automated processes. |
+| [IT Delivery Planner](../../it-and-development/productivity/it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
 | [Jev Browser Operator](jev-browser-operator.md) | Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final. |
 | [Jira](jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
@@ -173,6 +174,7 @@ Plan, prioritise and clear the recurring admin. 177 Grok Bot templates, 61 of th
 | [To Issues](../../product-development/productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
 | [Todoist Automation](../../operations/productivity/todoist-automation.md) | Automate Todoist tasks, projects, sections, and filters via Rube MCP. |
 | [Track Management](../../it-and-development/productivity/track-management.md) | Manage Conductor tracks from spec to completion. |
+| [Transformation Roadmap Builder](../../it-and-development/productivity/transformation-roadmap-builder.md) | Plans and runs your digital transformation strategy from research to rollout to improvement. |
 | [Transportation Technology Integration Planner](../../government/productivity/transportation-technology-integration-planner.md) | Guides technology integration for transportation management, from software selection to performance monitoring. |
 | [Trello Automation](../../operations/productivity/trello-automation.md) | Automate Trello boards, cards, lists, and assignments via Rube MCP. |
 | [Triage](../../it-and-development/productivity/triage.md) | Triage issues and PRs through a state machine to agent-ready briefs. |

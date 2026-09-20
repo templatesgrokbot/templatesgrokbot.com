@@ -1,6 +1,6 @@
 # Productivity templates for Human Resources
 
-Plan, prioritise and clear the recurring admin. 59 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 67 Grok Bot templates, 47 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Plan, prioritise and clear the recurring admin. 59 Grok Bot templates, 39 of the
 | [Diversity and Inclusion Program Assistant](diversity-and-inclusion-program-assistant.md) | Supports HR specialists in planning, executing, and tracking diversity and inclusion initiatives. |
 | [Diversity and Inclusion Program Planner](../../executives-and-strategy/productivity/diversity-and-inclusion-program-planner.md) | Plans and runs your diversity and inclusion initiatives, from training to metrics. |
 | [Employee Onboarding Assistant](employee-onboarding-assistant.md) | Streamlines new hire onboarding from paperwork to feedback, with drafts ready for your approval. |
+| [Employee Onboarding Coordinator](employee-onboarding-coordinator.md) | Builds and runs a complete onboarding program for new hires, from pre-boarding to feedback. |
 | [Employee Onboarding Program Builder](employee-onboarding-program-builder.md) | Builds and manages complete employee onboarding programs from materials to feedback. |
 | [Employee Well-Being Programs Assistant](../../executives-and-strategy/productivity/employee-well-being-programs-assistant.md) | Plans, promotes, and supports employee well-being initiatives for HR leaders. |
 | [Employee Wellness Program Planner](employee-wellness-program-planner.md) | Designs, implements, and evaluates employee wellness programs for CHROs. |
@@ -37,20 +38,26 @@ Plan, prioritise and clear the recurring admin. 59 Grok Bot templates, 39 of the
 | [HRIS Workflow Automation Assistant](hris-workflow-automation-assistant.md) | Automates HRIS workflows from onboarding to offboarding with approval gates. |
 | [Instructor Lifecycle Manager](../../education/productivity/instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
 | [International Payroll Manager](../../finance/productivity/international-payroll-manager.md) | Manages international payroll tasks from data upkeep to compliance and reporting. |
+| [Interview Lifecycle Orchestrator](interview-lifecycle-orchestrator.md) | Coordinate interviews end-to-end: availability, scheduling, invites, reminders, feedback, and outcomes. |
 | [IT Talent Acquisition Planner](../../it-and-development/productivity/it-talent-acquisition-planner.md) | Guides IT leaders through the full talent acquisition cycle, from market analysis to onboarding, with actionable AI-assisted strategies. |
 | [IT Training Program Planner](../../executives-and-strategy/productivity/it-training-program-planner.md) | Designs and manages IT staff training, from needs assessment to certification prep. |
 | [Jobgpt](jobgpt.md) | Search, apply, and track jobs with auto-apply and resume generation. |
 | [Learning Culture Builder](../../education/productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
 | [New Hire Onboarding Coordinator](new-hire-onboarding-coordinator.md) | Coordinates and personalizes every step of new employee onboarding for HR Directors. |
+| [Onboarding Automation Coordinator](onboarding-automation-coordinator.md) | Streamlines new hire onboarding from paperwork to feedback for recruitment coordinators. |
 | [Onboarding Automation Designer](onboarding-automation-designer.md) | Streamlines new hire onboarding from data collection to compliance and progress tracking. |
 | [Onboarding Optimization Assistant](onboarding-optimization-assistant.md) | Optimizes the entire employee onboarding process, from paperwork to feedback. |
 | [Payroll Processing Assistant](../../finance/productivity/payroll-processing-assistant.md) | Handles payroll data entry, calculations, compliance, reporting, and employee queries. |
+| [Performance Review Architect](performance-review-architect.md) | Designs and manages the full performance review cycle for HR managers. |
 | [Performance Review Coordinator](performance-review-coordinator.md) | Guides HR managers through every step of the performance review cycle. |
 | [Performance Review Cycle Assistant](performance-review-cycle-assistant.md) | Prepares, runs, and follows up on performance reviews for employee relations specialists. |
 | [Performance Review Cycle Manager](../../executives-and-strategy/productivity/performance-review-cycle-manager.md) | Manages the full performance review cycle for general managers. |
 | [Professional Development Tracker](professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
+| [Recruitment Coordinator ATS Assistant](recruitment-coordinator-ats-assistant.md) | Manages the full recruitment cycle in your ATS from resume parsing to onboarding. |
+| [Recruitment Event Planner](recruitment-event-planner.md) | Plans and runs recruitment events from venue to follow-up. |
 | [Recruitment Pipeline Assistant](recruitment-pipeline-assistant.md) | Streamlines your hiring pipeline from job posting to analytics, with drafting and scheduling support. |
 | [Recruitment Pipeline Manager](recruitment-pipeline-manager.md) | Streamlines recruitment from screening to onboarding while keeping every step human-approved. |
+| [Recruitment Process Enhancer](recruitment-process-enhancer.md) | Enhances your recruitment process from job analysis to onboarding with AI-assisted tools. |
 | [Recruitment Strategy Assistant](../../executives-and-strategy/productivity/recruitment-strategy-assistant.md) | Turns your hiring process into a structured, AI-assisted recruitment workflow. |
 | [Remote Workforce Program Designer](remote-workforce-program-designer.md) | Designs and runs remote workforce programs for global HR leaders. |
 | [Resume Screening Assistant](resume-screening-assistant.md) | Screens resumes against job requirements and shortlists top candidates for HR consultants. |
@@ -60,6 +67,7 @@ Plan, prioritise and clear the recurring admin. 59 Grok Bot templates, 39 of the
 | [Talent Acquisition Workflow Manager](../../executives-and-strategy/productivity/talent-acquisition-workflow-manager.md) | Manages your end-to-end talent acquisition workflow, from job posts to onboarding and feedback. |
 | [Talent Development Strategy Planner](../../executives-and-strategy/productivity/talent-development-strategy-planner.md) | Turns your talent strategy into a working plan: gaps, programs, pipelines, and metrics, all in one place. No fluff, just the work. |
 | [Talent Management Assistant](talent-management-assistant.md) | Manages the full talent lifecycle from sourcing to retention with data-driven insights. |
+| [Team Building Event Planner](team-building-event-planner.md) | Plans and runs team building events from idea to evaluation. |
 | [Time and Attendance Integrator](../../finance/productivity/time-and-attendance-integrator.md) | Manages time and attendance integration, tracking, and reporting for payroll accuracy. |
 | [Training Budget Optimizer](../../education/productivity/training-budget-optimizer.md) | Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators. |
 | [Training Program Advisor](training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |

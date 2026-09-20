@@ -1,6 +1,6 @@
 # Grok Bot templates for Healthcare
 
-Clinicians, care teams and health administrators. **127 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Clinicians, care teams and health administrators. **128 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Clinicians, care teams and health administrators. **127 ready-made Grok Bot temp
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 43 |
+| [Data Analysis](data-analysis/README.md) | 44 |
 | [Security & Compliance](security-and-compliance/README.md) | 28 |
 | [Productivity](productivity/README.md) | 18 |
 | [Research](research/README.md) | 15 |
@@ -72,6 +72,7 @@ Clinicians, care teams and health administrators. **127 ready-made Grok Bot temp
 | [Team Performance Monitor](../management/data-analysis/team-performance-monitor.md) | Turns team performance data into insights, reports, and action plans for service managers. |
 | [Test Result Interpretation Assistant](../science-and-research/data-analysis/test-result-interpretation-assistant.md) | Interprets lab test results, flags abnormalities, and drafts reports for laboratory technicians. |
 | [Wellally Tech](data-analysis/wellally-tech.md) | Import health data and query WellAlly knowledge base for personal health management. |
+| [Workforce Forecasting Planner](../human-resources/data-analysis/workforce-forecasting-planner.md) | Forecasts workforce needs and plans talent actions for HR managers. |
 
 ## Security & Compliance
 

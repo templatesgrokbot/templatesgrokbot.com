@@ -1,11 +1,12 @@
 # Sales & Negotiation templates for Human Resources
 
-Prospecting, outreach, proposals and negotiating terms. 3 Grok Bot templates.
+Prospecting, outreach, proposals and negotiating terms. 4 Grok Bot templates.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Candidate Sourcing Assistant](candidate-sourcing-assistant.md) | Finds, screens, and engages candidates across channels for recruitment coordinators. |
 | [Dispute Mediation Assistant](dispute-mediation-assistant.md) | Guides employee relations specialists through workplace dispute mediation from intake to follow-up. |
 | [Sales Comp Plan Designer](sales-comp-plan-designer.md) | Designs sales compensation plans with pay mixes, accelerators, quotas, and cost tracking. |
 | [Workorai](workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |

@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 86 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 88 Grok Bot templates, 35 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -41,6 +41,7 @@ Plan, prioritise and clear the recurring admin. 86 Grok Bot templates, 33 of the
 | [Gmail Automation](../../operations/productivity/gmail-automation.md) | Search, read, send, and manage Gmail messages via CLI scripts with OAuth. |
 | [Google Drive Automation](../../operations/productivity/google-drive-automation.md) | Full read/write access to Google Drive with standalone OAuth. |
 | [Hackathon Ai Strategist](../../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
+| [IT Delivery Planner](it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
 | [IT Project Management Assistant](it-project-management-assistant.md) | IT project planning, risk, resource, and stakeholder support for Vice Presidents of IT. |
 | [IT Strategy Formulation Assistant](it-strategy-formulation-assistant.md) | Turns IT landscape data into a strategic plan for a Vice President of IT, with approvals before any action. |
 | [IT Talent Acquisition Planner](it-talent-acquisition-planner.md) | Guides IT leaders through the full talent acquisition cycle, from market analysis to onboarding, with actionable AI-assisted strategies. |
@@ -85,6 +86,7 @@ Plan, prioritise and clear the recurring admin. 86 Grok Bot templates, 33 of the
 | [Technology Roadmap Strategist](../../executives-and-strategy/productivity/technology-roadmap-strategist.md) | Turns your tech stack and goals into a prioritized, stakeholder-ready roadmap. |
 | [To Issues](../../product-development/productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
 | [Track Management](track-management.md) | Manage Conductor tracks from spec to completion. |
+| [Transformation Roadmap Builder](transformation-roadmap-builder.md) | Plans and runs your digital transformation strategy from research to rollout to improvement. |
 | [Triage](triage.md) | Triage issues and PRs through a state machine to agent-ready briefs. |
 | [VopixSounds](vopixsounds.md) | Plays sounds when Claude needs you or finishes a task so you can work in another window. |
 | [Workflow Automation Architect](../../product-development/productivity/workflow-automation-architect.md) | Automates process workflows from data extraction to compliance and reporting. |

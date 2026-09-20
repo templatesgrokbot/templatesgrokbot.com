@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 259 Grok Bot templates, 246 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 264 Grok Bot templates, 251 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -65,11 +65,14 @@ Authorised security testing, audits and regulatory work. 259 Grok Bot templates,
 | [Cra Vulnerability Obligations](cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
 | [Cred Omega](cred-omega.md) | Enterprise credential and secret lifecycle management engine. |
 | [Cyber Audit](cyber-audit.md) | Read-only local exposure checks for CVEs & advisories with structured markdown reports. |
+| [Cybersecurity Advisory Assistant](cybersecurity-advisory-assistant.md) | Cybersecurity advisor for IT managers: assessments, policies, training, incident plans, and monitoring. |
 | [Cybersecurity Assessment Guide](../../executives-and-strategy/security-and-compliance/cybersecurity-assessment-guide.md) | Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response. |
 | [Cybersecurity Management Assistant](cybersecurity-management-assistant.md) | Cybersecurity management assistant for global heads of IT, turning data into defense actions. |
 | [Cybersecurity Risk Assessment Assistant](cybersecurity-risk-assessment-assistant.md) | Guides IT VPs through cybersecurity risk assessments, from scans to reports. |
 | [Cybersecurity Strategy Developer](../../executives-and-strategy/security-and-compliance/cybersecurity-strategy-developer.md) | Develops and manages your organization's cybersecurity strategy from risk assessment to incident response. |
 | [Cybersecurity Strategy Planner](../../executives-and-strategy/security-and-compliance/cybersecurity-strategy-planner.md) | Plans and runs your cybersecurity strategy from risk to response. |
+| [Data Ethics and Privacy Assistant](data-ethics-and-privacy-assistant.md) | Guides data analysts in applying data ethics and privacy practices across their workflows. |
+| [Data Governance Assistant](data-governance-assistant.md) | Data governance assistant that classifies, monitors, and audits data assets for compliance and quality. |
 | [Data Management Governance Assistant](data-management-governance-assistant.md) | Aides VPs of IT in data management tasks from classification to compliance. |
 | [Data Privacy Compliance](../../legal/security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
 | [Database Security](database-security.md) | Authorized database security assessment for PostgreSQL, MySQL, MSSQL, MongoDB, and Redis. |
@@ -115,6 +118,7 @@ Authorised security testing, audits and regulatory work. 259 Grok Bot templates,
 | [iOS Red Team Pipeline](ios-red-team-pipeline.md) | End-to-end iOS red-team pipeline: acquire, analyze, and exploit iOS apps. |
 | [IT Compliance and Governance Assistant](it-compliance-and-governance-assistant.md) | Tracks regulatory compliance across IT, drafts policies, and prepares audits for global IT leadership. |
 | [IT Governance Toolkit Builder](it-governance-toolkit-builder.md) | Builds and maintains the compliance and governance toolkit for your IT organization. |
+| [IT Policy and Compliance Assistant](it-policy-and-compliance-assistant.md) | Drafts and reviews IT policies, assessments, and plans to keep your organization compliant and secure. |
 | [Jfrog Sec](jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |
 | [JWT Forger](jwt-forger.md) | Forge JWTs to prove access to admin or other users' data. |
 | [K8s Security Policies](k8s-security-policies.md) | Implement defense-in-depth Kubernetes security with network policies, RBAC, and pod standards. |
@@ -217,6 +221,7 @@ Authorised security testing, audits and regulatory work. 259 Grok Bot templates,
 | [Shodan Reconnaissance](shodan-reconnaissance.md) | Search Shodan for exposed devices, services, and vulnerabilities on the internet. |
 | [Smart Contract Auditor](smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
 | [Smtp Penetration Testing](smtp-penetration-testing.md) | Assess SMTP server security with banner grabbing, user enumeration, open relay testing, brute force, and command injection. |
+| [Software License Manager](software-license-manager.md) | Manages software licenses end-to-end: inventory, compliance, renewals, costs, and audits. |
 | [Source Leak Hunter](source-leak-hunter.md) | Hunt exposed source code and build artifacts on a target web app. |
 | [SPA API Mapper](spa-api-mapper.md) | Map a SPA's backend API from its JS bundle and test for missing auth. |
 | [Spring Boot Vulnerability Hunter](spring-boot-vulnerability-hunter.md) | Finds and validates Spring Boot vulnerabilities for authorized security testing. |

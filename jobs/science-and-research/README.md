@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **587 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **602 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,15 @@ Scientists, analysts and academic researchers. **587 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 209 |
+| [Data Analysis](data-analysis/README.md) | 222 |
 | [Research](research/README.md) | 189 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 67 |
 | [Coding](coding/README.md) | 31 |
-| [Security & Compliance](security-and-compliance/README.md) | 26 |
+| [Security & Compliance](security-and-compliance/README.md) | 27 |
 | [Writing & Content](writing-and-content/README.md) | 16 |
 | [Productivity](productivity/README.md) | 13 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 10 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 10 |
 | [Design](design/README.md) | 6 |
 | [Knowledge Management](knowledge-management/README.md) | 3 |
 | [Support & Community](support-and-community/README.md) | 2 |
@@ -42,7 +42,7 @@ Scientists, analysts and academic researchers. **587 ready-made Grok Bot templat
 | [Astropy](data-analysis/astropy.md) | Astronomical data analysis with Astropy: coordinates, units, FITS, cosmology, time, tables, WCS. |
 | [Statistical Analysis](data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 
-[All 209 Data Analysis templates →](data-analysis/README.md)
+[All 222 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
@@ -102,7 +102,7 @@ Scientists, analysts and academic researchers. **587 ready-made Grok Bot templat
 | [Environmental Monitoring Manager](security-and-compliance/environmental-monitoring-manager.md) | Environmental monitoring assistant for laboratory managers, from data collection to compliance and audits. |
 | [Biohazard Safety Protocol Assistant](security-and-compliance/biohazard-safety-protocol-assistant.md) | Biohazard management assistant for laboratory technicians: protocols, labels, training, and risk assessment. |
 
-[All 26 Security & Compliance templates →](security-and-compliance/README.md)
+[All 27 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Writing & Content
 
@@ -134,6 +134,21 @@ Scientists, analysts and academic researchers. **587 ready-made Grok Bot templat
 
 [All 13 Productivity templates →](productivity/README.md)
 
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Lightning Factory Explainer](../education/teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
+| [Environmental Education Content Creator](teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
+| [Yann LeCun Philosophy](../education/teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
+| [Geoffrey Hinton](../education/teaching-and-tutoring/geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
+| [Laboratory Training and Onboarding Assistant](teaching-and-tutoring/laboratory-training-and-onboarding-assistant.md) | Designs and manages lab training and onboarding from materials to evaluation. |
+| [Machine Learning Project Advisor](../it-and-development/teaching-and-tutoring/machine-learning-project-advisor.md) | Guides data analysts through machine learning projects from preprocessing to deployment. |
+| [Reinforcement Learning Strategist](teaching-and-tutoring/reinforcement-learning-strategist.md) | Designs and explains reinforcement learning strategies for data scientists, from theory to applied systems. No hype, just the math and the build. |
+| [Chemical Engineering Study Assistant](teaching-and-tutoring/chemical-engineering-study-assistant.md) | Supports chemical engineering students and professionals with study help, research, and career guidance. |
+
+[All 11 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+
 ## Cloud & DevOps
 
 | Template | What it does |
@@ -148,21 +163,6 @@ Scientists, analysts and academic researchers. **587 ready-made Grok Bot templat
 | [Infrastructure Lambda Labs](../it-and-development/cloud-and-devops/infrastructure-lambda-labs.md) | Manages Lambda Labs GPU instances for ML training and inference. |
 
 [All 10 Cloud & DevOps templates →](cloud-and-devops/README.md)
-
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Lightning Factory Explainer](../education/teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
-| [Environmental Education Content Creator](teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
-| [Yann LeCun Philosophy](../education/teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
-| [Geoffrey Hinton](../education/teaching-and-tutoring/geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
-| [Laboratory Training and Onboarding Assistant](teaching-and-tutoring/laboratory-training-and-onboarding-assistant.md) | Designs and manages lab training and onboarding from materials to evaluation. |
-| [Reinforcement Learning Strategist](teaching-and-tutoring/reinforcement-learning-strategist.md) | Designs and explains reinforcement learning strategies for data scientists, from theory to applied systems. No hype, just the math and the build. |
-| [Chemical Engineering Study Assistant](teaching-and-tutoring/chemical-engineering-study-assistant.md) | Supports chemical engineering students and professionals with study help, research, and career guidance. |
-| [Culture Protocol Assistant](teaching-and-tutoring/culture-protocol-assistant.md) | Aseptic culture assistant for microbiologists—media, isolation, preservation, scale-up and quality control. |
-
-[All 10 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Design
 

@@ -1,6 +1,6 @@
 # Data Analysis templates for Healthcare
 
-Clean, query, chart and explain data. 43 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 44 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -49,5 +49,6 @@ Clean, query, chart and explain data. 43 Grok Bot templates, 31 of them filed in
 | [Team Performance Monitor](../../management/data-analysis/team-performance-monitor.md) | Turns team performance data into insights, reports, and action plans for service managers. |
 | [Test Result Interpretation Assistant](../../science-and-research/data-analysis/test-result-interpretation-assistant.md) | Interprets lab test results, flags abnormalities, and drafts reports for laboratory technicians. |
 | [Wellally Tech](wellally-tech.md) | Import health data and query WellAlly knowledge base for personal health management. |
+| [Workforce Forecasting Planner](../../human-resources/data-analysis/workforce-forecasting-planner.md) | Forecasts workforce needs and plans talent actions for HR managers. |
 
 [← All Healthcare templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/healthcare)

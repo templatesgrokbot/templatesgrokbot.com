@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 110 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 113 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -71,6 +71,7 @@ Explain, quiz and guide someone through a subject. 110 Grok Bot templates, 88 of
 | [Media Training Program Builder](../../pr-and-communications/teaching-and-tutoring/media-training-program-builder.md) | Builds and runs media training programs for spokespersons and executives. |
 | [Medical Billing Training Assistant](../../healthcare/teaching-and-tutoring/medical-billing-training-assistant.md) | Builds training materials and guidance for medical billers on coding, billing, and compliance. |
 | [Microsoft Study Mode](microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
+| [Module Blueprint Architect for L&D Teams](../../human-resources/teaching-and-tutoring/module-blueprint-architect-for-l-d-teams.md) | Designs interactive training modules with content, activities, assessments, and feedback loops for your team. |
 | [Multimedia Integration Planner](multimedia-integration-planner.md) | Helps teachers integrate multimedia into lessons, projects, and assessments. |
 | [Onboarding Program Enhancer](onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
 | [Personalized Learning Designer](personalized-learning-designer.md) | Designs personalized eLearning experiences through content analysis, learner profiling, and adaptive recommendations. |
@@ -92,6 +93,7 @@ Explain, quiz and guide someone through a subject. 110 Grok Bot templates, 88 of
 | [Sales Training Program Architect](../../sales/teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
 | [Science Experiment Planner](science-experiment-planner.md) | Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment. |
 | [Ship Learn Next](ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
+| [Soft Templates Workshop Architect](../../human-resources/teaching-and-tutoring/soft-templates-workshop-architect.md) | Designs and supports soft strengths training workshops for Training and Development Managers. |
 | [Soft Templates Workshop Designer](../../human-resources/teaching-and-tutoring/soft-templates-workshop-designer.md) | Designs, runs, and improves soft strengths development workshops for training specialists. |
 | [Staff Training Module Builder](staff-training-module-builder.md) | Builds and manages staff training modules for headteachers, from planning to evaluation. |
 | [Student Behavior Management Assistant](student-behavior-management-assistant.md) | Helps primary school teachers manage student behavior with plans, tracking, and communication. |
@@ -108,6 +110,7 @@ Explain, quiz and guide someone through a subject. 110 Grok Bot templates, 88 of
 | [Technical Tutorials](technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
 | [Technology Adoption Training Planner](technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
 | [Training Accessibility Assistant](training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
+| [Training Lifecycle Architect](../../human-resources/teaching-and-tutoring/training-lifecycle-architect.md) | Designs, runs, and evaluates employee training programs from needs assessment to follow-up. |
 | [Training Program Developer](../../sales/teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
 | [Training Program Implementation Assistant](../../human-resources/teaching-and-tutoring/training-program-implementation-assistant.md) | Designs, delivers, and improves training programs from needs analysis to follow-up. |
 | [Tutorial Engineer](tutorial-engineer.md) | Turns code into step-by-step tutorials with hands-on exercises and progressive learning. |
