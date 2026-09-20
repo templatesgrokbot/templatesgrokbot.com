@@ -3,8 +3,8 @@ name: "Grading Automation Assistant"
 slug: grading-automation-assistant
 language: en
 tagline: "Automates grading feedback, rubrics, analytics, and consistency checks for teaching assistants."
-jobs: []
-topics: []
+jobs: ["education"]
+topics: ["teaching-and-tutoring","data-analysis","productivity"]
 category: education
 url: https://templatesgrokbot.com/bot/grading-automation-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-grading-automation_teaching-assistants/"]

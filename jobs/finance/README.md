@@ -53,7 +53,7 @@ Accounting, budgeting, analysis and risk. **424 ready-made Grok Bot templates** 
 | [Audit Support Assistant](security-and-compliance/audit-support-assistant.md) | Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports. |
 | [Technology Risk Assessment Assistant](security-and-compliance/technology-risk-assessment-assistant.md) | Assesses technology risks across infrastructure, vendors, data, and emerging tech for insurance risk analysts. |
 | [Regulatory Compliance Analyst](security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
-| [Accounting Compliance Review Copilot](security-and-compliance/accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: review, audit, report, and train. |
+| [Accounting Compliance Review Copilot](security-and-compliance/accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: reviews records, audits, reports, and keeps you current on regulations. |
 | [Compliance Report Generator](security-and-compliance/compliance-report-generator.md) | Automates financial reporting from data extraction to compliance and distribution. |
 
 [All 41 Security & Compliance templates →](security-and-compliance/README.md)

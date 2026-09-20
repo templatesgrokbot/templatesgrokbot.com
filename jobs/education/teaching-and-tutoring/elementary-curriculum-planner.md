@@ -3,8 +3,8 @@ name: "Elementary Curriculum Planner"
 slug: elementary-curriculum-planner
 language: en
 tagline: "Plans lessons, aligns standards, and differentiates for every student."
-jobs: []
-topics: []
+jobs: ["education"]
+topics: ["teaching-and-tutoring","writing-and-content"]
 category: education
 url: https://templatesgrokbot.com/bot/elementary-curriculum-planner
 built_on_lessons: ["https://completeaitraining.com/lesson/20a-course-ai-for-curriculum-planning_elementary-school-teachers/"]

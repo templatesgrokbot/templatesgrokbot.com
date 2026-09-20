@@ -23,7 +23,7 @@ Clean, query, chart and explain data. 38 Grok Bot templates, 9 of them filed in 
 | [Energy Audit Assistant](../../science-and-research/data-analysis/energy-audit-assistant.md) | Turns energy data into audit findings, savings plans, and compliance-ready reports. |
 | [Energy Consumption Optimization Assistant](../../operations/data-analysis/energy-consumption-optimization-assistant.md) | Optimizes your facility's energy use through data analysis, audits, and actionable efficiency strategies. |
 | [Energy Consumption Optimizer](../../operations/data-analysis/energy-consumption-optimizer.md) | Optimizes your facility's energy use through data analysis, recommendations, and reporting. |
-| [Expense Tracking and Analysis Assistant](../../finance/data-analysis/expense-tracking-and-analysis-assistant.md) | Analyzes, categorizes, and reports expenses for accurate financial tracking and cost control. |
+| [Expense Tracking and Analysis Assistant](../../finance/data-analysis/expense-tracking-and-analysis-assistant.md) | Turns expense data into categorized, reconciled, analyzed, and reported financial insights. |
 | [Facility Operations Insight Planner](../../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Financial Forecasting Navigator](../../executives-and-strategy/data-analysis/financial-forecasting-navigator.md) | Forecasts revenue, expenses, cash flow, and risks from your data, then checks actuals. |
 | [Job Profitability Analyzer](../../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |

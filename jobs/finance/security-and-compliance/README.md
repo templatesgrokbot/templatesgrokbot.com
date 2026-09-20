@@ -6,10 +6,10 @@ Authorised security testing, audits and regulatory work. 41 Grok Bot templates, 
 
 | Template | What it does |
 |---|---|
-| [Accounting Compliance Review Copilot](accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: review, audit, report, and train. |
+| [Accounting Compliance Review Copilot](accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: reviews records, audits, reports, and keeps you current on regulations. |
 | [AML Compliance Assistant](../../legal/security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
 | [Audit Preparation Planner](audit-preparation-planner.md) | Prepares your company for audits by organizing documents, assessing risks, and coordinating with auditors. |
-| [Audit Ready File Builder](audit-ready-file-builder.md) | Prepares audit files, documents, and responses so your audit runs smoothly and nothing is missed. |
+| [Audit Ready File Builder](audit-ready-file-builder.md) | Prepares audits by organizing documents, analyzing data, and coordinating with auditors. |
 | [Audit Support Assistant](audit-support-assistant.md) | Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports. |
 | [Business Risk Management Assistant](../../executives-and-strategy/security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Business Unit Risk Manager](../../management/security-and-compliance/business-unit-risk-manager.md) | Risk management assistant for business unit managers covering identification, assessment, mitigation, monitoring, and reporting. |
@@ -33,7 +33,7 @@ Authorised security testing, audits and regulatory work. 41 Grok Bot templates, 
 | [Regulatory Compliance Review Assistant](regulatory-compliance-review-assistant.md) | Regulatory compliance review and monitoring for insurance risk analysts. |
 | [Regulatory Requirements to Audit Reports](../../it-and-development/security-and-compliance/regulatory-requirements-to-audit-reports.md) | Turns regulatory requirements into compliance checks, audits, and reports for business analysts. |
 | [Risk Assessment and Analysis Assistant](../../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
-| [Risk Assessment Assistant](risk-assessment-assistant.md) | Identifies, evaluates, and documents risks for accountants, with mitigation and reporting support. |
+| [Risk Assessment Assistant](risk-assessment-assistant.md) | Identifies, evaluates, and documents financial risks with mitigation strategies for accountants. |
 | [Risk Management Analysis Assistant](../../management/security-and-compliance/risk-management-analysis-assistant.md) | Guides senior managers through the full risk management cycle from identification to culture. |
 | [Risk Register Builder](../../executives-and-strategy/security-and-compliance/risk-register-builder.md) | Identifies, analyzes, and mitigates organizational risks with structured assessments and reports. |
 | [Tax Audit Preparation Assistant](tax-audit-preparation-assistant.md) | Prepares tax audits by gathering documents, analyzing data, and drafting communications. |
@@ -41,7 +41,7 @@ Authorised security testing, audits and regulatory work. 41 Grok Bot templates, 
 | [Tax Compliance Monitoring Assistant](tax-compliance-monitoring-assistant.md) | Compliance monitoring assistant for tax analysts: reviews, validates, reports, and trains on tax compliance. No hype, no filler. |
 | [Tax Credit and Deduction Assistant](tax-credit-and-deduction-assistant.md) | Helps tax analysts identify, calculate, and optimize tax credits and deductions for clients. |
 | [Tax Planning and Analysis Assistant](tax-planning-and-analysis-assistant.md) | Estimates, optimizes, and reviews taxes for financial analysts' planning and compliance needs. |
-| [Tax Regulation Monitor](tax-regulation-monitor.md) | Monitors tax regulation changes and produces compliance tools for accountants. |
+| [Tax Regulation Monitor](tax-regulation-monitor.md) | Keeps accountants current on tax regulation changes and turns them into actionable guidance. |
 | [Tax Strategy Assistant](../../executives-and-strategy/security-and-compliance/tax-strategy-assistant.md) | Tax strategy assistant for VPs of Finance: planning, compliance, risk, optimization, and reporting. |
 | [Tax Strategy Planner](tax-strategy-planner.md) | Tax planning and strategy assistant for finance managers to optimize liabilities and ensure compliance. |
 | [Technology Risk Assessment Assistant](technology-risk-assessment-assistant.md) | Assesses technology risks across infrastructure, vendors, data, and emerging tech for insurance risk analysts. |

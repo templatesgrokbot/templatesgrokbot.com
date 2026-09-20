@@ -1,6 +1,6 @@
 # Data Analysis templates for Education
 
-Clean, query, chart and explain data. 27 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 28 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,7 @@ Clean, query, chart and explain data. 27 Grok Bot templates, 24 of them filed in
 | [Grade Analysis Assistant](grade-analysis-assistant.md) | Analyzes student grades to uncover patterns, gaps, and strategies for better teaching. |
 | [Job Description Analyzer](../../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
 | [Jupyter Notebook](jupyter-notebook.md) | Creates and edits reproducible Jupyter notebooks for experiments or tutorials. |
+| [Learner Data Customization Assistant](learner-data-customization-assistant.md) | Turns learner data into personalized course content, assessments, and reports for eLearning developers. |
 | [Learning Analytics Assistant](learning-analytics-assistant.md) | Turns eLearning data into insights, predictions, and personalized learning paths. |
 | [Learning Analytics Insights Assistant](learning-analytics-insights-assistant.md) | Turns training data into insights, forecasts, and improvement plans for learning programs.​ |
 | [Learning Outcome Forecaster](learning-outcome-forecaster.md) | Forecasts learning outcomes from training data and turns insights into action for instructors. |

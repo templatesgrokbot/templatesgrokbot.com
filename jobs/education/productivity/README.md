@@ -1,6 +1,6 @@
 # Productivity templates for Education
 
-Plan, prioritise and clear the recurring admin. 20 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 21 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Plan, prioritise and clear the recurring admin. 20 Grok Bot templates, 17 of the
 | [Bulletmind](bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
 | [Classroom Management Assistant](classroom-management-assistant.md) | Manages your secondary classroom from attendance to conflict resolution. |
 | [Claude Speed Reader](claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Course Scheduling Assistant](course-scheduling-assistant.md) | Automates course scheduling, recommendations, and updates for teaching assistants. |
 | [Daily Elementary Classroom Manager](daily-elementary-classroom-manager.md) | Manages daily classroom routines, behavior, and parent communication for elementary teachers. |
 | [Extracurricular Program Coordinator](extracurricular-program-coordinator.md) | Plan, run, and improve your school's extracurricular program from scheduling to evaluation. |
 | [Extracurricular Program Planner](extracurricular-program-planner.md) | Helps secondary school teachers plan and run extracurricular clubs and activities. |

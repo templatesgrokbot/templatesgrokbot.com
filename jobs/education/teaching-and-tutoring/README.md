@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 117 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 122 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -31,6 +31,8 @@ Explain, quiz and guide someone through a subject. 117 Grok Bot templates, 88 of
 | [Diversity Training Program Assistant](../../human-resources/teaching-and-tutoring/diversity-training-program-assistant.md) | Designs, runs, and evaluates inclusive workplace diversity training programs. |
 | [Educational Game Design Assistant](educational-game-design-assistant.md) | Turns your teaching goals into playable educational game concepts, mechanics, and content. |
 | [Educational Game Selector](educational-game-selector.md) | Recommends and integrates educational games for primary school classrooms. |
+| [eLearning Curriculum Map Builder](elearning-curriculum-map-builder.md) | Turns your course goals into a complete, standards-aligned curriculum map with activities, assessments, and resources. |
+| [Elementary Curriculum Planner](elementary-curriculum-planner.md) | Plans lessons, aligns standards, and differentiates for every student. |
 | [Elementary Fun Fact Activity Maker](elementary-fun-fact-activity-maker.md) | Turns fun facts into ready-to-use classroom activities for elementary teachers. |
 | [Elementary Grading Assistant](elementary-grading-assistant.md) | Grades student work, builds rubrics, and tracks progress for elementary teachers. |
 | [Elementary Homework Support](elementary-homework-support.md) | Homework support for elementary teachers: clarify, plan, solve, and review assignments. |
@@ -48,6 +50,7 @@ Explain, quiz and guide someone through a subject. 117 Grok Bot templates, 88 of
 | [Gamified Training Program Designer](gamified-training-program-designer.md) | Designs and runs gamified training programs, from content to rewards, for training coordinators. |
 | [Geoffrey Hinton](geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
 | [Grading Assistant for Teachers](grading-assistant-for-teachers.md) | Handles grade calculations, feedback, rubrics, and analytics for secondary school teachers. |
+| [Grading Automation Assistant](grading-automation-assistant.md) | Automates grading feedback, rubrics, analytics, and consistency checks for teaching assistants. |
 | [History Storytelling Assistant](history-storytelling-assistant.md) | Turns history topics into engaging, accurate stories and interactive lessons for primary students. |
 | [History Visualization Assistant](history-visualization-assistant.md) | Turns historical events into vivid, interactive visual lessons for secondary school students. |
 | [Homework Support Assistant](homework-support-assistant.md) | Homework help for teaching assistants: clarify, guide, proofread, and support students. |
@@ -76,6 +79,7 @@ Explain, quiz and guide someone through a subject. 117 Grok Bot templates, 88 of
 | [Module Blueprint Architect for L&D Teams](../../human-resources/teaching-and-tutoring/module-blueprint-architect-for-l-d-teams.md) | Designs interactive training modules with content, activities, assessments, and feedback loops for your team. |
 | [Multimedia Integration Planner](multimedia-integration-planner.md) | Helps teachers integrate multimedia into lessons, projects, and assessments. |
 | [Onboarding Program Enhancer](onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
+| [Online Assessment Designer](online-assessment-designer.md) | Designs, builds, and refines online assessments for eLearning courses. |
 | [Personalized Learning Designer](personalized-learning-designer.md) | Designs personalized eLearning experiences through content analysis, learner profiling, and adaptive recommendations. |
 | [Personalized Learning Path Builder](personalized-learning-path-builder.md) | Personalized learning path builder for training instructors to tailor education to each learner. No hype, just adaptive teaching support. |
 | [Pitch Rehearsal](pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
@@ -94,6 +98,7 @@ Explain, quiz and guide someone through a subject. 117 Grok Bot templates, 88 of
 | [Role-Play Scenario Development Assistant](role-play-scenario-development-assistant.md) | Builds realistic, objective-aligned role-play scenarios for training instructors and their trainees. |
 | [Sales Training Program Architect](../../sales/teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
 | [Science Experiment Planner](science-experiment-planner.md) | Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment. |
+| [Secondary Lesson Planner](secondary-lesson-planner.md) | Turns curriculum topics into complete, differentiated lesson plans with assessments and activities. |
 | [SEO Training Workshop Designer](../../it-and-development/teaching-and-tutoring/seo-training-workshop-designer.md) | Designs and delivers SEO training and workshops for specialists. |
 | [Ship Learn Next](ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Soft Templates Workshop Architect](../../human-resources/teaching-and-tutoring/soft-templates-workshop-architect.md) | Designs and supports soft strengths training workshops for Training and Development Managers. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **266 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **275 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,11 @@ Teachers, trainers and students. **266 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 117 |
-| [Data Analysis](data-analysis/README.md) | 27 |
-| [Writing & Content](writing-and-content/README.md) | 27 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 122 |
+| [Writing & Content](writing-and-content/README.md) | 29 |
+| [Data Analysis](data-analysis/README.md) | 28 |
 | [Research](research/README.md) | 25 |
-| [Productivity](productivity/README.md) | 20 |
+| [Productivity](productivity/README.md) | 21 |
 | [Design](design/README.md) | 16 |
 | [Coding](coding/README.md) | 6 |
 | [Security & Compliance](security-and-compliance/README.md) | 6 |
@@ -59,6 +59,8 @@ Teachers, trainers and students. **266 ready-made Grok Bot templates** for this 
 | [Diversity Training Program Assistant](../human-resources/teaching-and-tutoring/diversity-training-program-assistant.md) | Designs, runs, and evaluates inclusive workplace diversity training programs. |
 | [Educational Game Design Assistant](teaching-and-tutoring/educational-game-design-assistant.md) | Turns your teaching goals into playable educational game concepts, mechanics, and content. |
 | [Educational Game Selector](teaching-and-tutoring/educational-game-selector.md) | Recommends and integrates educational games for primary school classrooms. |
+| [eLearning Curriculum Map Builder](teaching-and-tutoring/elearning-curriculum-map-builder.md) | Turns your course goals into a complete, standards-aligned curriculum map with activities, assessments, and resources. |
+| [Elementary Curriculum Planner](teaching-and-tutoring/elementary-curriculum-planner.md) | Plans lessons, aligns standards, and differentiates for every student. |
 | [Elementary Fun Fact Activity Maker](teaching-and-tutoring/elementary-fun-fact-activity-maker.md) | Turns fun facts into ready-to-use classroom activities for elementary teachers. |
 | [Elementary Grading Assistant](teaching-and-tutoring/elementary-grading-assistant.md) | Grades student work, builds rubrics, and tracks progress for elementary teachers. |
 | [Elementary Homework Support](teaching-and-tutoring/elementary-homework-support.md) | Homework support for elementary teachers: clarify, plan, solve, and review assignments. |
@@ -76,6 +78,7 @@ Teachers, trainers and students. **266 ready-made Grok Bot templates** for this 
 | [Gamified Training Program Designer](teaching-and-tutoring/gamified-training-program-designer.md) | Designs and runs gamified training programs, from content to rewards, for training coordinators. |
 | [Geoffrey Hinton](teaching-and-tutoring/geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
 | [Grading Assistant for Teachers](teaching-and-tutoring/grading-assistant-for-teachers.md) | Handles grade calculations, feedback, rubrics, and analytics for secondary school teachers. |
+| [Grading Automation Assistant](teaching-and-tutoring/grading-automation-assistant.md) | Automates grading feedback, rubrics, analytics, and consistency checks for teaching assistants. |
 | [History Storytelling Assistant](teaching-and-tutoring/history-storytelling-assistant.md) | Turns history topics into engaging, accurate stories and interactive lessons for primary students. |
 | [History Visualization Assistant](teaching-and-tutoring/history-visualization-assistant.md) | Turns historical events into vivid, interactive visual lessons for secondary school students. |
 | [Homework Support Assistant](teaching-and-tutoring/homework-support-assistant.md) | Homework help for teaching assistants: clarify, guide, proofread, and support students. |
@@ -104,6 +107,7 @@ Teachers, trainers and students. **266 ready-made Grok Bot templates** for this 
 | [Module Blueprint Architect for L&D Teams](../human-resources/teaching-and-tutoring/module-blueprint-architect-for-l-d-teams.md) | Designs interactive training modules with content, activities, assessments, and feedback loops for your team. |
 | [Multimedia Integration Planner](teaching-and-tutoring/multimedia-integration-planner.md) | Helps teachers integrate multimedia into lessons, projects, and assessments. |
 | [Onboarding Program Enhancer](teaching-and-tutoring/onboarding-program-enhancer.md) | Designs, delivers, and improves onboarding programs for new hires. |
+| [Online Assessment Designer](teaching-and-tutoring/online-assessment-designer.md) | Designs, builds, and refines online assessments for eLearning courses. |
 | [Personalized Learning Designer](teaching-and-tutoring/personalized-learning-designer.md) | Designs personalized eLearning experiences through content analysis, learner profiling, and adaptive recommendations. |
 | [Personalized Learning Path Builder](teaching-and-tutoring/personalized-learning-path-builder.md) | Personalized learning path builder for training instructors to tailor education to each learner. No hype, just adaptive teaching support. |
 | [Pitch Rehearsal](teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
@@ -122,6 +126,7 @@ Teachers, trainers and students. **266 ready-made Grok Bot templates** for this 
 | [Role-Play Scenario Development Assistant](teaching-and-tutoring/role-play-scenario-development-assistant.md) | Builds realistic, objective-aligned role-play scenarios for training instructors and their trainees. |
 | [Sales Training Program Architect](../sales/teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
 | [Science Experiment Planner](teaching-and-tutoring/science-experiment-planner.md) | Designs and refines secondary school science experiments with procedures, safety, data, and curriculum alignment. |
+| [Secondary Lesson Planner](teaching-and-tutoring/secondary-lesson-planner.md) | Turns curriculum topics into complete, differentiated lesson plans with assessments and activities. |
 | [SEO Training Workshop Designer](../it-and-development/teaching-and-tutoring/seo-training-workshop-designer.md) | Designs and delivers SEO training and workshops for specialists. |
 | [Ship Learn Next](teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Soft Templates Workshop Architect](../human-resources/teaching-and-tutoring/soft-templates-workshop-architect.md) | Designs and supports soft strengths training workshops for Training and Development Managers. |
@@ -152,38 +157,6 @@ Teachers, trainers and students. **266 ready-made Grok Bot templates** for this 
 | [Yann LeCun Debate](teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
 | [Yann LeCun Philosophy](teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
 
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [Academic Research Data Analyst](data-analysis/academic-research-data-analyst.md) | Cleans, analyzes, visualizes, and interprets academic research data for teaching assistants. |
-| [Attendance Analysis Assistant](data-analysis/attendance-analysis-assistant.md) | Turns attendance records into reports, insights, and intervention plans for school principals. |
-| [eLearning Feedback Analyzer](data-analysis/elearning-feedback-analyzer.md) | Turns eLearning user feedback into categorized insights, prioritized fixes, and clear reports. |
-| [Elementary Insights For Teachers](data-analysis/elementary-insights-for-teachers.md) | Turns student performance data into insights, plans, and reports for elementary teachers. |
-| [Employee Template Tracking Planner](data-analysis/employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
-| [Feedback Analysis and Reporting Assistant](../human-resources/data-analysis/feedback-analysis-and-reporting-assistant.md) | Collects, analyzes, and reports on training feedback to improve programs. |
-| [Feedback Insight Report Builder](data-analysis/feedback-insight-report-builder.md) | Collects, analyzes, and reports on training feedback to drive program improvements. |
-| [Grade Analysis Assistant](data-analysis/grade-analysis-assistant.md) | Analyzes student grades to uncover patterns, gaps, and strategies for better teaching. |
-| [Job Description Analyzer](../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
-| [Jupyter Notebook](data-analysis/jupyter-notebook.md) | Creates and edits reproducible Jupyter notebooks for experiments or tutorials. |
-| [Learning Analytics Assistant](data-analysis/learning-analytics-assistant.md) | Turns eLearning data into insights, predictions, and personalized learning paths. |
-| [Learning Analytics Insights Assistant](data-analysis/learning-analytics-insights-assistant.md) | Turns training data into insights, forecasts, and improvement plans for learning programs.​ |
-| [Learning Outcome Forecaster](data-analysis/learning-outcome-forecaster.md) | Forecasts learning outcomes from training data and turns insights into action for instructors. |
-| [School Budget Analysis Assistant](data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
-| [School Budget Forecaster](data-analysis/school-budget-forecaster.md) | Turns your school's financial data into clear, defensible budget forecasts and reports. |
-| [School Data Insights Assistant](data-analysis/school-data-insights-assistant.md) | Turns your school's data into clear insights and decisions you can act on confidently. |
-| [School Resource Allocation Planner](data-analysis/school-resource-allocation-planner.md) | Optimizes school resources through data-backed allocation plans and budget strategies. |
-| [Statistical Analysis](../science-and-research/data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
-| [Student Feedback Analyst](data-analysis/student-feedback-analyst.md) | Analyzes student feedback and generates reports and personalized responses for secondary school teachers. |
-| [Student Performance Analysis Assistant](data-analysis/student-performance-analysis-assistant.md) | Analyzes student data to guide interventions, reports, and school strategy. |
-| [Student Performance Analyst](data-analysis/student-performance-analyst.md) | Analyzes student performance data and generates reports, insights, and recommendations for teaching assistants. |
-| [Template Gap Analysis Assistant](data-analysis/template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
-| [Training Effectiveness Evaluator](data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |
-| [Training Feedback Action Planner](data-analysis/training-feedback-action-planner.md) | Evaluates training effectiveness and turns feedback into improvement plans. |
-| [Training Feedback Analyst](data-analysis/training-feedback-analyst.md) | Analyzes training feedback to surface trends, insights, and actionable steps for instructors. |
-| [Training Needs Analysis Assistant](data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
-| [Training Report Generator](data-analysis/training-report-generator.md) | Turns training data into automated reports for instructors. |
-
 ## Writing & Content
 
 | Template | What it does |
@@ -194,6 +167,7 @@ Teachers, trainers and students. **266 ready-made Grok Bot templates** for this 
 | [Cover Letter Generator](../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Crossframe Critical](../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
 | [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
+| [eLearning Course Builder](writing-and-content/elearning-course-builder.md) | Builds complete eLearning courses from research to launch, with your approval at every step. |
 | [Grant Writing Assistant for Headteachers](writing-and-content/grant-writing-assistant-for-headteachers.md) | Guides headteachers through the full grant lifecycle, from research to renewal. |
 | [Interview Prep Generator](../human-resources/writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
@@ -211,10 +185,44 @@ Teachers, trainers and students. **266 ready-made Grok Bot templates** for this 
 | [School Policy Development Assistant](writing-and-content/school-policy-development-assistant.md) | Develops, reviews, and communicates school policies with research and stakeholder input. |
 | [Training Content Development Assistant](../human-resources/writing-and-content/training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
 | [Training Material Creator](../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
+| [Training Material Developer](../human-resources/writing-and-content/training-material-developer.md) | Develops and maintains training course materials from research to final content. |
 | [Training Module Developer](../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
 | [Treatment Plans](../healthcare/writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |
 | [Venue Templates](writing-and-content/venue-templates.md) | Provides LaTeX templates and formatting specs for journals, conferences, posters, and grants. |
 | [Writing Clearly And Concisely](../writers/writing-and-content/writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |
+
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [Academic Research Data Analyst](data-analysis/academic-research-data-analyst.md) | Cleans, analyzes, visualizes, and interprets academic research data for teaching assistants. |
+| [Attendance Analysis Assistant](data-analysis/attendance-analysis-assistant.md) | Turns attendance records into reports, insights, and intervention plans for school principals. |
+| [eLearning Feedback Analyzer](data-analysis/elearning-feedback-analyzer.md) | Turns eLearning user feedback into categorized insights, prioritized fixes, and clear reports. |
+| [Elementary Insights For Teachers](data-analysis/elementary-insights-for-teachers.md) | Turns student performance data into insights, plans, and reports for elementary teachers. |
+| [Employee Template Tracking Planner](data-analysis/employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
+| [Feedback Analysis and Reporting Assistant](../human-resources/data-analysis/feedback-analysis-and-reporting-assistant.md) | Collects, analyzes, and reports on training feedback to improve programs. |
+| [Feedback Insight Report Builder](data-analysis/feedback-insight-report-builder.md) | Collects, analyzes, and reports on training feedback to drive program improvements. |
+| [Grade Analysis Assistant](data-analysis/grade-analysis-assistant.md) | Analyzes student grades to uncover patterns, gaps, and strategies for better teaching. |
+| [Job Description Analyzer](../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
+| [Jupyter Notebook](data-analysis/jupyter-notebook.md) | Creates and edits reproducible Jupyter notebooks for experiments or tutorials. |
+| [Learner Data Customization Assistant](data-analysis/learner-data-customization-assistant.md) | Turns learner data into personalized course content, assessments, and reports for eLearning developers. |
+| [Learning Analytics Assistant](data-analysis/learning-analytics-assistant.md) | Turns eLearning data into insights, predictions, and personalized learning paths. |
+| [Learning Analytics Insights Assistant](data-analysis/learning-analytics-insights-assistant.md) | Turns training data into insights, forecasts, and improvement plans for learning programs.​ |
+| [Learning Outcome Forecaster](data-analysis/learning-outcome-forecaster.md) | Forecasts learning outcomes from training data and turns insights into action for instructors. |
+| [School Budget Analysis Assistant](data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
+| [School Budget Forecaster](data-analysis/school-budget-forecaster.md) | Turns your school's financial data into clear, defensible budget forecasts and reports. |
+| [School Data Insights Assistant](data-analysis/school-data-insights-assistant.md) | Turns your school's data into clear insights and decisions you can act on confidently. |
+| [School Resource Allocation Planner](data-analysis/school-resource-allocation-planner.md) | Optimizes school resources through data-backed allocation plans and budget strategies. |
+| [Statistical Analysis](../science-and-research/data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
+| [Student Feedback Analyst](data-analysis/student-feedback-analyst.md) | Analyzes student feedback and generates reports and personalized responses for secondary school teachers. |
+| [Student Performance Analysis Assistant](data-analysis/student-performance-analysis-assistant.md) | Analyzes student data to guide interventions, reports, and school strategy. |
+| [Student Performance Analyst](data-analysis/student-performance-analyst.md) | Analyzes student performance data and generates reports, insights, and recommendations for teaching assistants. |
+| [Template Gap Analysis Assistant](data-analysis/template-gap-analysis-assistant.md) | Turns training data into strength gap insights and targeted learning plans. |
+| [Training Effectiveness Evaluator](data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |
+| [Training Feedback Action Planner](data-analysis/training-feedback-action-planner.md) | Evaluates training effectiveness and turns feedback into improvement plans. |
+| [Training Feedback Analyst](data-analysis/training-feedback-analyst.md) | Analyzes training feedback to surface trends, insights, and actionable steps for instructors. |
+| [Training Needs Analysis Assistant](data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
+| [Training Report Generator](data-analysis/training-report-generator.md) | Turns training data into automated reports for instructors. |
 
 ## Research
 
@@ -253,6 +261,7 @@ Teachers, trainers and students. **266 ready-made Grok Bot templates** for this 
 | [Bulletmind](productivity/bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
 | [Classroom Management Assistant](productivity/classroom-management-assistant.md) | Manages your secondary classroom from attendance to conflict resolution. |
 | [Claude Speed Reader](productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Course Scheduling Assistant](productivity/course-scheduling-assistant.md) | Automates course scheduling, recommendations, and updates for teaching assistants. |
 | [Daily Elementary Classroom Manager](productivity/daily-elementary-classroom-manager.md) | Manages daily classroom routines, behavior, and parent communication for elementary teachers. |
 | [Extracurricular Program Coordinator](productivity/extracurricular-program-coordinator.md) | Plan, run, and improve your school's extracurricular program from scheduling to evaluation. |
 | [Extracurricular Program Planner](productivity/extracurricular-program-planner.md) | Helps secondary school teachers plan and run extracurricular clubs and activities. |

@@ -3,8 +3,8 @@ name: "Training Material Developer"
 slug: training-material-developer
 language: en
 tagline: "Develops and maintains training course materials from research to final content."
-jobs: []
-topics: []
+jobs: ["human-resources","education"]
+topics: ["writing-and-content","research","design"]
 category: education
 url: https://templatesgrokbot.com/bot/training-material-developer
 built_on_lessons: ["https://completeaitraining.com/lesson/20b-course-ai-for-course-material-develo_training-and-development-specialists/"]

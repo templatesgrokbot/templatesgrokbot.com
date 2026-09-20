@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for IT and Development
 
-Explain, quiz and guide someone through a subject. 29 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 30 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,7 @@ Explain, quiz and guide someone through a subject. 29 Grok Bot templates, 20 of 
 | [IT Training Content Creator](it-training-content-creator.md) | Creates and manages IT training content, sessions, and learning programs for users. |
 | [IT Training Program Architect](it-training-program-architect.md) | Designs and manages IT training programs from needs assessment to evaluation. |
 | [IT Training Program Builder](it-training-program-builder.md) | Designs, delivers, and evaluates IT employee training programs end-to-end. |
+| [IT Training Program Designer](it-training-program-designer.md) | Builds and runs IT training programs, from plans to workshops to certifications, for your team. |
 | [IT Training Program Manager](it-training-program-manager.md) | Plans, builds, delivers, and evaluates IT employee training programs. |
 | [Lightning Factory Explainer](../../education/teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
 | [Machine Learning Project Advisor](machine-learning-project-advisor.md) | Guides data analysts through machine learning projects from preprocessing to deployment. |

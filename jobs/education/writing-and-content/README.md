@@ -1,6 +1,6 @@
 # Writing & Content templates for Education
 
-Plan, write and edit articles, copy and documentation. 27 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Plan, write and edit articles, copy and documentation. 27 Grok Bot templates, 11
 | [Cover Letter Generator](../../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Crossframe Critical](../../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
 | [E-Learning Content Creator](e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
+| [eLearning Course Builder](elearning-course-builder.md) | Builds complete eLearning courses from research to launch, with your approval at every step. |
 | [Grant Writing Assistant for Headteachers](grant-writing-assistant-for-headteachers.md) | Guides headteachers through the full grant lifecycle, from research to renewal. |
 | [Interview Prep Generator](../../human-resources/writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Latex Paper Conversion](../../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
@@ -29,6 +30,7 @@ Plan, write and edit articles, copy and documentation. 27 Grok Bot templates, 11
 | [School Policy Development Assistant](school-policy-development-assistant.md) | Develops, reviews, and communicates school policies with research and stakeholder input. |
 | [Training Content Development Assistant](../../human-resources/writing-and-content/training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
 | [Training Material Creator](../../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
+| [Training Material Developer](../../human-resources/writing-and-content/training-material-developer.md) | Develops and maintains training course materials from research to final content. |
 | [Training Module Developer](../../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
 | [Treatment Plans](../../healthcare/writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |
 | [Venue Templates](venue-templates.md) | Provides LaTeX templates and formatting specs for journals, conferences, posters, and grants. |

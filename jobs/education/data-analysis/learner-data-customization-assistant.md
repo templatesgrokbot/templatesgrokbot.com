@@ -3,8 +3,8 @@ name: "Learner Data Customization Assistant"
 slug: learner-data-customization-assistant
 language: en
 tagline: "Turns learner data into personalized course content, assessments, and reports for eLearning developers."
-jobs: []
-topics: []
+jobs: ["education"]
+topics: ["data-analysis"]
 category: education
 url: https://templatesgrokbot.com/bot/learner-data-customization-assistant
 built_on_lessons: ["https://completeaitraining.com/lesson/20c-course-ai-for-datadriven-course-cust_elearning-developers/"]

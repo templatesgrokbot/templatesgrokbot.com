@@ -3,8 +3,8 @@ name: "eLearning Curriculum Map Builder"
 slug: elearning-curriculum-map-builder
 language: en
 tagline: "Turns your course goals into a complete, standards-aligned curriculum map with activities, assessments, and resources."
-jobs: []
-topics: []
+jobs: ["education"]
+topics: ["teaching-and-tutoring","writing-and-content"]
 category: education
 url: https://templatesgrokbot.com/bot/elearning-curriculum-map-builder
 built_on_lessons: ["https://completeaitraining.com/lesson/20m-course-ai-for-curriculum-mapping_elearning-developers/"]

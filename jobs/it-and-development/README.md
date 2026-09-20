@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **3,028 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **3,029 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,8 +24,8 @@ Engineers, DevOps, security and IT teams. **3,028 ready-made Grok Bot templates*
 | [Knowledge Management](knowledge-management/README.md) | 49 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 36 |
 | [Prompt Engineering](prompt-engineering/README.md) | 34 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 30 |
 | [Support & Community](support-and-community/README.md) | 29 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 29 |
 | [Generative Art](generative-art/README.md) | 15 |
 | [Office Tools](office-tools/README.md) | 14 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
@@ -232,6 +232,21 @@ Engineers, DevOps, security and IT teams. **3,028 ready-made Grok Bot templates*
 
 [All 34 Prompt Engineering templates →](prompt-engineering/README.md)
 
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Microsoft Study Mode](../education/teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
+| [Lightning Factory Explainer](../education/teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
+| [Design Pattern Implementation Guide](teaching-and-tutoring/design-pattern-implementation-guide.md) | Guides software developers through implementing design patterns with explanations and code examples. |
+| [Demonstrate Understanding](../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
+| [Technical Content Evaluator](../education/teaching-and-tutoring/technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
+| [Tutorial Engineer](../education/teaching-and-tutoring/tutorial-engineer.md) | Turns code into step-by-step tutorials with hands-on exercises and progressive learning. |
+| [IT Training Content Builder](teaching-and-tutoring/it-training-content-builder.md) | Builds and maintains staff training materials and interactive support for IT systems. |
+| [End-User Training Session Assistant](teaching-and-tutoring/end-user-training-session-assistant.md) | Plans, delivers, and follows up on end-user IT training sessions for help desk technicians. |
+
+[All 30 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+
 ## Support & Community
 
 | Template | What it does |
@@ -246,21 +261,6 @@ Engineers, DevOps, security and IT teams. **3,028 ready-made Grok Bot templates*
 | [Help Desk Ticket Logger](support-and-community/help-desk-ticket-logger.md) | Logs, triages, and escalates help desk tickets from user reports to resolution notes. |
 
 [All 29 Support & Community templates →](support-and-community/README.md)
-
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Microsoft Study Mode](../education/teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
-| [Lightning Factory Explainer](../education/teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
-| [Design Pattern Implementation Guide](teaching-and-tutoring/design-pattern-implementation-guide.md) | Guides software developers through implementing design patterns with explanations and code examples. |
-| [Demonstrate Understanding](../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
-| [Technical Content Evaluator](../education/teaching-and-tutoring/technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
-| [Tutorial Engineer](../education/teaching-and-tutoring/tutorial-engineer.md) | Turns code into step-by-step tutorials with hands-on exercises and progressive learning. |
-| [IT Training Content Builder](teaching-and-tutoring/it-training-content-builder.md) | Builds and maintains staff training materials and interactive support for IT systems. |
-| [End-User Training Session Assistant](teaching-and-tutoring/end-user-training-session-assistant.md) | Plans, delivers, and follows up on end-user IT training sessions for help desk technicians. |
-
-[All 29 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Generative Art
 

@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **367 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **368 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Recruiting, onboarding and people operations. **367 ready-made Grok Bot template
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 113 |
 | [Productivity](productivity/README.md) | 73 |
-| [Writing & Content](writing-and-content/README.md) | 56 |
+| [Writing & Content](writing-and-content/README.md) | 57 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 52 |
 | [Security & Compliance](security-and-compliance/README.md) | 22 |
 | [Research](research/README.md) | 10 |
@@ -282,6 +282,7 @@ Recruiting, onboarding and people operations. **367 ready-made Grok Bot template
 | [Tech Resume Optimizer](../it-and-development/writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 | [Total Rewards Communication Assistant](writing-and-content/total-rewards-communication-assistant.md) | Crafts clear, personalized total rewards communications for employees. |
 | [Training Content Development Assistant](writing-and-content/training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
+| [Training Material Developer](writing-and-content/training-material-developer.md) | Develops and maintains training course materials from research to final content. |
 | [Workplace Wellness Program Coordinator](../healthcare/writing-and-content/workplace-wellness-program-coordinator.md) | Designs, promotes, and evaluates workplace wellness programs from surveys to policies. |
 
 ## Teaching & Tutoring

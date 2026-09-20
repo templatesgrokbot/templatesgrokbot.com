@@ -3,8 +3,8 @@ name: "Online Assessment Designer"
 slug: online-assessment-designer
 language: en
 tagline: "Designs, builds, and refines online assessments for eLearning courses."
-jobs: []
-topics: []
+jobs: ["education"]
+topics: ["teaching-and-tutoring","design","writing-and-content"]
 category: education
 url: https://templatesgrokbot.com/bot/online-assessment-designer
 built_on_lessons: ["https://completeaitraining.com/lesson/20l-course-ai-for-online-assessment-desi_elearning-developers/"]

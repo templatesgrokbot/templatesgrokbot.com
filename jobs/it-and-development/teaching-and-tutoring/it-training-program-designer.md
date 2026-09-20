@@ -3,9 +3,9 @@ name: "IT Training Program Designer"
 slug: it-training-program-designer
 language: en
 tagline: "Builds and runs IT training programs, from plans to workshops to certifications, for your team."
-jobs: []
-topics: []
-category: operations
+jobs: ["it-and-development"]
+topics: ["teaching-and-tutoring","writing-and-content","office-tools"]
+category: education
 url: https://templatesgrokbot.com/bot/it-training-program-designer
 built_on_lessons: ["https://completeaitraining.com/lesson/20j-course-ai-for-employee-it-training-a_global-heads-of-it/"]
 ---

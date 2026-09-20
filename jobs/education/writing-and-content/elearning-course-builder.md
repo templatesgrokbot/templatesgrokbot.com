@@ -3,8 +3,8 @@ name: "eLearning Course Builder"
 slug: elearning-course-builder
 language: en
 tagline: "Builds complete eLearning courses from research to launch, with your approval at every step."
-jobs: []
-topics: []
+jobs: ["education"]
+topics: ["writing-and-content","research"]
 category: education
 url: https://templatesgrokbot.com/bot/elearning-course-builder
 built_on_lessons: ["https://completeaitraining.com/lesson/20a-course-ai-for-course-content-develop_elearning-developers/"]

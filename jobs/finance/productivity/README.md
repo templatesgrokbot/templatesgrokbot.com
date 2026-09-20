@@ -25,7 +25,7 @@ Plan, prioritise and clear the recurring admin. 27 Grok Bot templates, 20 of the
 | [Meeting Notes](../../operations/productivity/meeting-notes.md) | Turns a transcript into decisions and owned actions, dropping everything that was just talk. |
 | [Music Production Budget Planner](../../creatives/productivity/music-production-budget-planner.md) | Build and manage a realistic music production budget for film scoring projects. |
 | [Odoo Project Timesheet](../../operations/productivity/odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
-| [Payroll Process Assistant](payroll-process-assistant.md) | Assists accountants in managing payroll tasks from data entry to year-end filings. |
+| [Payroll Process Assistant](payroll-process-assistant.md) | Handles payroll tasks from data entry to year-end close, with compliance checks and approval gates. |
 | [Payroll Processing Assistant](payroll-processing-assistant.md) | Handles payroll data entry, calculations, compliance, reporting, and employee queries. |
 | [Project Coordination Assistant](project-coordination-assistant.md) | Handles project scheduling, documents, communication, budgets, research, reports, and coordination for administrative assistants. |
 | [Risk Analysis and Management Assistant](../../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |

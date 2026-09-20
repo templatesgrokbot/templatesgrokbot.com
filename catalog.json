@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 6496,
+ "count": 6498,
  "templates": [
   {
    "slug": "007",
@@ -625,7 +625,7 @@
   {
    "slug": "accounting-compliance-review-copilot",
    "name": "Accounting Compliance Review Copilot",
-   "tagline": "Compliance monitoring assistant for accountants: review, audit, report, and train.",
+   "tagline": "Compliance monitoring assistant for accountants: reviews records, audits, reports, and keeps you current on regulations.",
    "category": "operations",
    "jobs": [
     "finance"
@@ -5691,7 +5691,7 @@
   {
    "slug": "audit-ready-file-builder",
    "name": "Audit Ready File Builder",
-   "tagline": "Prepares audit files, documents, and responses so your audit runs smoothly and nothing is missed.",
+   "tagline": "Prepares audits by organizing documents, analyzing data, and coordinating with auditors.",
    "category": "finance",
    "jobs": [
     "finance"
@@ -11641,7 +11641,7 @@
   {
    "slug": "budget-forecasting-assistant",
    "name": "Budget Forecasting Assistant",
-   "tagline": "Build and maintain accurate budget forecasts from your financial data.",
+   "tagline": "Builds and refines budget forecasts from financial data with clear reports.",
    "category": "finance",
    "jobs": [
     "finance"
@@ -13409,7 +13409,7 @@
   {
    "slug": "cash-flow-management-assistant",
    "name": "Cash Flow Management Assistant",
-   "tagline": "Cash flow forecasting, tracking, reporting, and optimization for accountants, from data to decisions.",
+   "tagline": "Cash flow forecasting, tracking, and optimization for accountants, from data to decisions.",
    "category": "finance",
    "jobs": [
     "finance"
@@ -15867,7 +15867,7 @@
   {
    "slug": "client-financial-advisory-assistant",
    "name": "Client Financial Advisory Assistant",
-   "tagline": "Prepares client financial advice across statements, budgets, taxes, investments, retirement, risk, cash flow, debt, valuation, succession, estate,…",
+   "tagline": "Personalized financial advisory support for accountants serving clients across planning, tax, and wealth management.",
    "category": "finance",
    "jobs": [
     "finance"
@@ -22167,6 +22167,20 @@
    ],
    "path": "jobs/operations/data-analysis/cost-benefit-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/cost-benefit-analysis-assistant"
+  },
+  {
+   "slug": "course-scheduling-assistant",
+   "name": "Course Scheduling Assistant",
+   "tagline": "Automates course scheduling, recommendations, and updates for teaching assistants.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/education/productivity/course-scheduling-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/course-scheduling-assistant"
   },
   {
    "slug": "court-filing-paralegal-assistant",
@@ -33066,9 +33080,14 @@
    "name": "eLearning Course Builder",
    "tagline": "Builds complete eLearning courses from research to launch, with your approval at every step.",
    "category": "education",
-   "jobs": [],
-   "topics": [],
-   "path": "jobs/operations/productivity/elearning-course-builder.md",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/education/writing-and-content/elearning-course-builder.md",
    "url": "https://templatesgrokbot.com/bot/elearning-course-builder"
   },
   {
@@ -33076,9 +33095,14 @@
    "name": "eLearning Curriculum Map Builder",
    "tagline": "Turns your course goals into a complete, standards-aligned curriculum map with activities, assessments, and resources.",
    "category": "education",
-   "jobs": [],
-   "topics": [],
-   "path": "jobs/operations/productivity/elearning-curriculum-map-builder.md",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/elearning-curriculum-map-builder.md",
    "url": "https://templatesgrokbot.com/bot/elearning-curriculum-map-builder"
   },
   {
@@ -33173,9 +33197,14 @@
    "name": "Elementary Curriculum Planner",
    "tagline": "Plans lessons, aligns standards, and differentiates for every student.",
    "category": "education",
-   "jobs": [],
-   "topics": [],
-   "path": "jobs/operations/productivity/elementary-curriculum-planner.md",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/elementary-curriculum-planner.md",
    "url": "https://templatesgrokbot.com/bot/elementary-curriculum-planner"
   },
   {
@@ -37419,7 +37448,7 @@
   {
    "slug": "expense-tracking-and-analysis-assistant",
    "name": "Expense Tracking and Analysis Assistant",
-   "tagline": "Analyzes, categorizes, and reports expenses for accurate financial tracking and cost control.",
+   "tagline": "Turns expense data into categorized, reconciled, analyzed, and reported financial insights.",
    "category": "finance",
    "jobs": [
     "finance",
@@ -39845,7 +39874,7 @@
   {
    "slug": "financial-modeling-assistant",
    "name": "Financial Modeling Assistant",
-   "tagline": "Builds financial models and analyses for accounting decisions.",
+   "tagline": "Builds and analyzes financial models for forecasting, valuation, and investment decisions.",
    "category": "finance",
    "jobs": [
     "finance"
@@ -40012,7 +40041,7 @@
   {
    "slug": "financial-reporting-assistant",
    "name": "Financial Reporting Assistant",
-   "tagline": "Prepares, analyzes, and reviews financial reports with compliance and stakeholder insights.",
+   "tagline": "Prepares, analyzes, and reviews financial reports with accuracy and compliance.",
    "category": "finance",
    "jobs": [
     "finance"
@@ -45374,9 +45403,15 @@
    "name": "Grading Automation Assistant",
    "tagline": "Automates grading feedback, rubrics, analytics, and consistency checks for teaching assistants.",
    "category": "education",
-   "jobs": [],
-   "topics": [],
-   "path": "jobs/operations/productivity/grading-automation-assistant.md",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/grading-automation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/grading-automation-assistant"
   },
   {
@@ -52475,7 +52510,7 @@
   {
    "slug": "investment-analysis-assistant",
    "name": "Investment Analysis Assistant",
-   "tagline": "Analyzes investments, builds valuations, and drafts reports for accountant decisions.",
+   "tagline": "Investment analysis assistant for accountants: from financial statements to portfolio optimization.",
    "category": "finance",
    "jobs": [
     "finance"
@@ -53896,10 +53931,16 @@
    "slug": "it-training-program-designer",
    "name": "IT Training Program Designer",
    "tagline": "Builds and runs IT training programs, from plans to workshops to certifications, for your team.",
-   "category": "operations",
-   "jobs": [],
-   "topics": [],
-   "path": "jobs/operations/productivity/it-training-program-designer.md",
+   "category": "education",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/it-and-development/teaching-and-tutoring/it-training-program-designer.md",
    "url": "https://templatesgrokbot.com/bot/it-training-program-designer"
   },
   {
@@ -56327,9 +56368,13 @@
    "name": "Learner Data Customization Assistant",
    "tagline": "Turns learner data into personalized course content, assessments, and reports for eLearning developers.",
    "category": "education",
-   "jobs": [],
-   "topics": [],
-   "path": "jobs/operations/productivity/learner-data-customization-assistant.md",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/education/data-analysis/learner-data-customization-assistant.md",
    "url": "https://templatesgrokbot.com/bot/learner-data-customization-assistant"
   },
   {
@@ -59197,7 +59242,7 @@
   {
    "slug": "m-a-financial-analysis-assistant",
    "name": "M&A Financial Analysis Assistant",
-   "tagline": "Supports accountants through every stage of M&A, from due diligence to post-merger analysis.",
+   "tagline": "Supports accountants through every stage of mergers and acquisitions, from due diligence to post-merger analysis.",
    "category": "finance",
    "jobs": [
     "finance"
@@ -69165,9 +69210,15 @@
    "name": "Online Assessment Designer",
    "tagline": "Designs, builds, and refines online assessments for eLearning courses.",
    "category": "education",
-   "jobs": [],
-   "topics": [],
-   "path": "jobs/operations/productivity/online-assessment-designer.md",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "design",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/online-assessment-designer.md",
    "url": "https://templatesgrokbot.com/bot/online-assessment-designer"
   },
   {
@@ -71695,7 +71746,7 @@
   {
    "slug": "payroll-process-assistant",
    "name": "Payroll Process Assistant",
-   "tagline": "Assists accountants in managing payroll tasks from data entry to year-end filings.",
+   "tagline": "Handles payroll tasks from data entry to year-end close, with compliance checks and approval gates.",
    "category": "finance",
    "jobs": [
     "finance"
@@ -85167,7 +85218,7 @@
   {
    "slug": "risk-assessment-assistant",
    "name": "Risk Assessment Assistant",
-   "tagline": "Identifies, evaluates, and documents risks for accountants, with mitigation and reporting support.",
+   "tagline": "Identifies, evaluates, and documents financial risks with mitigation strategies for accountants.",
    "category": "finance",
    "jobs": [
     "finance"
@@ -89061,6 +89112,21 @@
    ],
    "path": "jobs/operations/data-analysis/seasonal-inventory-planner.md",
    "url": "https://templatesgrokbot.com/bot/seasonal-inventory-planner"
+  },
+  {
+   "slug": "secondary-lesson-planner",
+   "name": "Secondary Lesson Planner",
+   "tagline": "Turns curriculum topics into complete, differentiated lesson plans with assessments and activities.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/secondary-lesson-planner.md",
+   "url": "https://templatesgrokbot.com/bot/secondary-lesson-planner"
   },
   {
    "slug": "secrets-management",
@@ -99453,7 +99519,7 @@
   {
    "slug": "tax-regulation-monitor",
    "name": "Tax Regulation Monitor",
-   "tagline": "Monitors tax regulation changes and produces compliance tools for accountants.",
+   "tagline": "Keeps accountants current on tax regulation changes and turns them into actionable guidance.",
    "category": "finance",
    "jobs": [
     "finance"
@@ -103482,9 +103548,16 @@
    "name": "Training Material Developer",
    "tagline": "Develops and maintains training course materials from research to final content.",
    "category": "education",
-   "jobs": [],
-   "topics": [],
-   "path": "jobs/operations/productivity/training-material-developer.md",
+   "jobs": [
+    "human-resources",
+    "education"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "design"
+   ],
+   "path": "jobs/human-resources/writing-and-content/training-material-developer.md",
    "url": "https://templatesgrokbot.com/bot/training-material-developer"
   },
   {

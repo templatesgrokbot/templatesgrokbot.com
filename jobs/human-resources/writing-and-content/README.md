@@ -1,6 +1,6 @@
 # Writing & Content templates for Human Resources
 
-Plan, write and edit articles, copy and documentation. 56 Grok Bot templates, 38 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 57 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -61,6 +61,7 @@ Plan, write and edit articles, copy and documentation. 56 Grok Bot templates, 38
 | [Tech Resume Optimizer](../../it-and-development/writing-and-content/tech-resume-optimizer.md) | Optimizes technical resumes for software engineering, PM, data, and DevOps roles. |
 | [Total Rewards Communication Assistant](total-rewards-communication-assistant.md) | Crafts clear, personalized total rewards communications for employees. |
 | [Training Content Development Assistant](training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
+| [Training Material Developer](training-material-developer.md) | Develops and maintains training course materials from research to final content. |
 | [Workplace Wellness Program Coordinator](../../healthcare/writing-and-content/workplace-wellness-program-coordinator.md) | Designs, promotes, and evaluates workplace wellness programs from surveys to policies. |
 
 [← All Human Resources templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/human-resources)
