@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 187 Grok Bot templates, 156 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 189 Grok Bot templates, 156 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -85,6 +85,7 @@ Find sources, compare evidence and summarise what is known. 187 Grok Bot templat
 | [Grant Finder](grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
 | [Green Infrastructure Planning Assistant](green-infrastructure-planning-assistant.md) | Green infrastructure planning assistant for environmental consultants, from site analysis to funding and monitoring. |
 | [Gwas Database](gwas-database.md) | Queries the NHGRI-EBI GWAS Catalog for SNP-trait associations, p-values, and summary statistics. |
+| [Health Policy Analysis Assistant](../../government/research/health-policy-analysis-assistant.md) | Turns health policy research, data, and stakeholder input into evidence-based recommendations and communications. |
 | [Helium Mcp](helium-mcp.md) | Search news with bias analysis, get balanced perspectives, and look up live stock/options data. |
 | [Histolab](histolab.md) | Extracts informative tiles from whole slide pathology images for deep learning pipelines. |
 | [Hmdb Database](hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
@@ -140,6 +141,7 @@ Find sources, compare evidence and summarise what is known. 187 Grok Bot templat
 | [Perplexity](perplexity.md) | Searches the web and answers questions using Perplexity AI. |
 | [Perplexity Search](perplexity-search.md) | Searches the web for current information and returns grounded answers with source citations. |
 | [Pi Web Search](../../it-and-development/research/pi-web-search.md) | Web search and fetch for Pi Agents using pi-web-access package. |
+| [Policy Impact Analyst](../../government/research/policy-impact-analyst.md) | A policy analysis assistant that evaluates, compares, and simulates policy impacts to inform decisions. |
 | [Prior Art Analysis Assistant](../../legal/research/prior-art-analysis-assistant.md) | Streamlines prior art search, analysis, and reporting for patent agents. |
 | [Probiotic Research Assistant](probiotic-research-assistant.md) | Accelerates probiotic and prebiotic research from literature review to clinical trial design. |
 | [Protein Function Prediction Assistant](protein-function-prediction-assistant.md) | Predicts protein function, structure, interactions, and drug targets from sequence data. |

@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 186 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 189 Grok Bot templates, 114 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -42,6 +42,7 @@ Plan, prioritise and clear the recurring admin. 186 Grok Bot templates, 114 of t
 | [Daily Meeting Update](../../it-and-development/productivity/daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Decision Navigator](../../management/productivity/decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
 | [Diary](diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
+| [Disaster Response Transportation Planner](../../government/productivity/disaster-response-transportation-planner.md) | Disaster response planning for transportation managers: assess risks, allocate resources, coordinate, and recover. |
 | [Discord Automation](discord-automation.md) | Automate Discord messages, roles, webhooks, and reactions via Rube MCP. |
 | [Doordash Group Orders](doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
 | [Doordash Order Playbooks](doordash-order-playbooks.md) | Save and recall DoorDash orders with drift detection before checkout. |
@@ -62,6 +63,7 @@ Plan, prioritise and clear the recurring admin. 186 Grok Bot templates, 114 of t
 | [Fleet Expansion Planner](fleet-expansion-planner.md) | Guides fleet managers through every step of expanding their vehicle fleet. |
 | [Fleet Insurance Manager](fleet-insurance-manager.md) | Manages fleet insurance renewals, claims, coverage, costs, compliance, and safety from one chat. |
 | [Fleet Inventory Manager](fleet-inventory-manager.md) | Keeps fleet parts and supplies at the right level, on schedule, and under budget. |
+| [Fleet Maintenance Budget Tracker](../../government/productivity/fleet-maintenance-budget-tracker.md) | Keeps your fleet's maintenance scheduled, tracked, and within budget from one chat. |
 | [Fleet Maintenance Scheduler](fleet-maintenance-scheduler.md) | Plans and tracks fleet maintenance to cut downtime and keep vehicles compliant. |
 | [Flowhunt](flowhunt-skill.md) | Guides a 5-question intake then audits tools to rank automation quick wins. |
 | [Git Pr Workflows Onboard](../../human-resources/productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
@@ -177,6 +179,7 @@ Plan, prioritise and clear the recurring admin. 186 Grok Bot templates, 114 of t
 | [Template Router](skill-router.md) | Interviews users and recommends the best installed capability for their goal. |
 | [Time Ledger](time-ledger.md) | Parse natural-language time reports into your Notion database, asking when unsure. |
 | [Todoist Automation](todoist-automation.md) | Automate Todoist tasks, projects, sections, and filters via Rube MCP. |
+| [Transportation Technology Integration Planner](../../government/productivity/transportation-technology-integration-planner.md) | Guides technology integration for transportation management, from software selection to performance monitoring. |
 | [Trello Automation](trello-automation.md) | Automate Trello boards, cards, lists, and assignments via Rube MCP. |
 | [Vendor Lifecycle Manager](vendor-lifecycle-manager.md) | Streamlines vendor evaluation from research to exit with structured analysis and approvals. |
 | [Vendor Watch](vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |

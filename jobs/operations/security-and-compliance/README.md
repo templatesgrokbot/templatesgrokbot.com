@@ -1,6 +1,6 @@
 # Security & Compliance templates for Operations
 
-Authorised security testing, audits and regulatory work. 96 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 98 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -95,7 +95,9 @@ Authorised security testing, audits and regulatory work. 96 Grok Bot templates, 
 | [Supply Chain Compliance Navigator](supply-chain-compliance-navigator.md) | Navigates supply chain compliance questions and turns them into auditable processes. |
 | [Thick Client](../../it-and-development/security-and-compliance/thick-client.md) | Authorized security testing of desktop thick clients: local storage, update channels, IPC, traffic interception, and client-side trust-boundary review |
 | [Threat Mitigation Mapping](../../it-and-development/security-and-compliance/threat-mitigation-mapping.md) | Map threats to security controls for prioritized remediation and coverage validation. |
+| [Transportation Compliance Assistant](../../government/security-and-compliance/transportation-compliance-assistant.md) | Keeps transportation compliance current, documented, and audit-ready. |
 | [Transportation Safety Compliance Assistant](transportation-safety-compliance-assistant.md) | Keeps your fleet compliant and your drivers safe with up-to-date regulations, audits, training, and incident analysis. |
+| [Transportation Safety Protocol Builder](../../government/security-and-compliance/transportation-safety-protocol-builder.md) | Builds and maintains transportation safety protocols, training, and compliance systems. |
 | [Varlock Claude](../../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
 | [Verify Document](verify-document.md) | Check PDFs and images for tampering signals before relying on them. |
 | [Vulnerability Scanner](../../it-and-development/security-and-compliance/vulnerability-scanner.md) | Scans codebases for vulnerabilities using OWASP 2025 and supply chain risk analysis with prioritized fixes. |

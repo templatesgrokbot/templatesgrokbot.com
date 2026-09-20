@@ -1,6 +1,6 @@
 # Support & Community templates for Customer Support
 
-Triage tickets, answer customers and moderate communities. 43 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 44 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -47,6 +47,7 @@ Triage tickets, answer customers and moderate communities. 43 Grok Bot templates
 | [Support Automation Planner](support-automation-planner.md) | Automates repetitive support workflows, from ticket routing to reporting and knowledge base upkeep. |
 | [Support Crisis Prep Kit](support-crisis-prep-kit.md) | Plans and prepares crisis management materials for user support teams. |
 | [Support Triage](support-triage.md) | Reads the support queue, groups the duplicates, and surfaces the one bug behind twelve tickets. |
+| [Transport Customer Service Enhancer](../../government/support-and-community/transport-customer-service-enhancer.md) | Manages customer feedback, support, and service improvements for transportation managers. |
 | [Troubleshooting Guide Creator](troubleshooting-guide-creator.md) | Turns support knowledge into complete troubleshooting guides, scripts, and tools for your users.\n\n{\"tagline\":\"Turns support knowledge into… |
 | [Zendesk Automation](zendesk-automation.md) | Automate Zendesk ticket, user, and organization workflows with Rube MCP. |
 

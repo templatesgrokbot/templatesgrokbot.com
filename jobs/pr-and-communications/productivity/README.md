@@ -1,6 +1,6 @@
 # Productivity templates for PR and Communications
 
-Plan, prioritise and clear the recurring admin. 19 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 20 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,7 @@ Plan, prioritise and clear the recurring admin. 19 Grok Bot templates, 3 of them
 | [Crisis Management Executive Assistant](../../executives-and-strategy/productivity/crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
 | [Crisis Management Planning Assistant](../../operations/productivity/crisis-management-planning-assistant.md) | Builds and maintains your crisis management plans, protocols, and training. |
 | [Crisis Plan Builder for Executives](../../executives-and-strategy/productivity/crisis-plan-builder-for-executives.md) | Builds and tests crisis management plans for your organization. |
+| [Crisis Response Planning Assistant](../../government/productivity/crisis-response-planning-assistant.md) | Crisis response planning assistant for policy makers, covering risk, scenarios, resources, communication, and more. |
 | [CSR Planning Assistant](../../science-and-research/productivity/csr-planning-assistant.md) | Plans and manages corporate social responsibility initiatives from stakeholder input to impact reporting. |
 | [CSR Strategy Builder](../../executives-and-strategy/productivity/csr-strategy-builder.md) | Builds and runs your CSR strategy from stakeholder analysis to reporting. |
 | [Editorial Calendar Management Assistant](editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |

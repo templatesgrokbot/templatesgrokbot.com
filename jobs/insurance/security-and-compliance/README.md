@@ -1,6 +1,6 @@
 # Security & Compliance templates for Insurance
 
-Authorised security testing, audits and regulatory work. 20 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 22 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,8 @@ Authorised security testing, audits and regulatory work. 20 Grok Bot templates, 
 | [Policy Development Support](../../legal/security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
 | [Policy Risk & Cost Reviewer](../../finance/security-and-compliance/policy-risk-cost-reviewer.md) | Analyzes insurance policies for risk, compliance, coverage, and cost to support recommendations. |
 | [PolicyOps Compliance Aligner](../../operations/security-and-compliance/policyops-compliance-aligner.md) | Helps insurance operations managers keep policies, staff, and reports aligned with regulations. |
+| [Regulatory Compliance Analyst Assistant](../../finance/security-and-compliance/regulatory-compliance-analyst-assistant.md) | Regulatory compliance analysis assistant for insurance data analysts, covering collection to audit and training. |
+| [Regulatory Compliance Assessment Assistant](../../finance/security-and-compliance/regulatory-compliance-assessment-assistant.md) | Regulatory compliance assessment and reporting support for insurance actuaries. |
 | [Regulatory Compliance Assistant](../../customer-support/security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
 | [Regulatory Compliance Navigator](../../executives-and-strategy/security-and-compliance/regulatory-compliance-navigator.md) | Tracks regulatory changes, builds compliance programs, and prepares audit-ready documentation for your organization. |
 | [Regulatory Compliance Review Assistant](../../finance/security-and-compliance/regulatory-compliance-review-assistant.md) | Regulatory compliance review and monitoring for insurance risk analysts. |

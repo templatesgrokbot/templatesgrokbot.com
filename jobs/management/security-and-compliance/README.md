@@ -1,6 +1,6 @@
 # Security & Compliance templates for Management
 
-Authorised security testing, audits and regulatory work. 37 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 40 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -41,7 +41,10 @@ Authorised security testing, audits and regulatory work. 37 Grok Bot templates, 
 | [Risk Register Builder](../../executives-and-strategy/security-and-compliance/risk-register-builder.md) | Identifies, analyzes, and mitigates organizational risks with structured assessments and reports. |
 | [Security Compliance](../../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
 | [Service Compliance Risk Auditor](service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
+| [Transport Emissions Auditor](../../government/security-and-compliance/transport-emissions-auditor.md) | Turns transportation activity data into environmental impact assessments and compliance reports. |
+| [Transportation Compliance Assistant](../../government/security-and-compliance/transportation-compliance-assistant.md) | Keeps transportation compliance current, documented, and audit-ready. |
 | [Transportation Safety Compliance Assistant](../../operations/security-and-compliance/transportation-safety-compliance-assistant.md) | Keeps your fleet compliant and your drivers safe with up-to-date regulations, audits, training, and incident analysis. |
+| [Transportation Safety Protocol Builder](../../government/security-and-compliance/transportation-safety-protocol-builder.md) | Builds and maintains transportation safety protocols, training, and compliance systems. |
 | [Varlock Claude](../../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
 
 [← All Management templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/management)

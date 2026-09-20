@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **578 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **583 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Scientists, analysts and academic researchers. **578 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 202 |
-| [Research](research/README.md) | 187 |
+| [Data Analysis](data-analysis/README.md) | 205 |
+| [Research](research/README.md) | 189 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 67 |
 | [Coding](coding/README.md) | 31 |
 | [Security & Compliance](security-and-compliance/README.md) | 26 |
@@ -42,7 +42,7 @@ Scientists, analysts and academic researchers. **578 ready-made Grok Bot templat
 | [Astropy](data-analysis/astropy.md) | Astronomical data analysis with Astropy: coordinates, units, FITS, cosmology, time, tables, WCS. |
 | [Statistical Analysis](data-analysis/statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 
-[All 202 Data Analysis templates →](data-analysis/README.md)
+[All 205 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
@@ -57,7 +57,7 @@ Scientists, analysts and academic researchers. **578 ready-made Grok Bot templat
 | [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Academic Researcher](research/academic-researcher.md) | Searches scholarly databases, analyzes papers, and writes structured findings to a markdown file. |
 
-[All 187 Research templates →](research/README.md)
+[All 189 Research templates →](research/README.md)
 
 ## Generative AI and LLM
 

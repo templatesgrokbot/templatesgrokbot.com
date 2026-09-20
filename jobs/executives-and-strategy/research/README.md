@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 102 Grok Bot templates, 62 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 103 Grok Bot templates, 62 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -42,6 +42,7 @@ Find sources, compare evidence and summarise what is known. 102 Grok Bot templat
 | [Digital Transformation Strategist](digital-transformation-strategist.md) | Plans and guides your organization's digital transformation from assessment to evolution. |
 | [Digital Transformation Strategy Advisor](digital-transformation-strategy-advisor.md) | Strategic digital transformation guidance for IT executives, from assessment to adoption. |
 | [Diversification Strategy Analyst](diversification-strategy-analyst.md) | Guides diversification strategy from market research to performance monitoring. |
+| [Educational Policy Evaluation Assistant](../../government/research/educational-policy-evaluation-assistant.md) | Educational policy evaluation assistant for policymakers, turning data into evidence-based recommendations. |
 | [Emerging Technology Adoption Assistant](emerging-technology-adoption-assistant.md) | Guides CDOs through emerging tech adoption from research to implementation and monitoring. |
 | [ESG Strategy Development Assistant](esg-strategy-development-assistant.md) | Builds and runs your company's ESG strategy from research to reporting. |
 | [Ethical Innovation Strategist](ethical-innovation-strategist.md) | Guides ethical assessment, frameworks, and reporting for innovation strategies. |

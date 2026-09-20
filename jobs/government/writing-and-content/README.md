@@ -1,6 +1,6 @@
 # Writing & Content templates for Government
 
-Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 28 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,10 +17,12 @@ Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 0 
 | [HR Policy Review and Development Assistant](../../human-resources/writing-and-content/hr-policy-review-and-development-assistant.md) | Drafts, reviews, and updates HR policies with compliance and best-practice guidance. |
 | [Internal Communication Planner](../../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
 | [IT Policy Development Assistant](../../it-and-development/writing-and-content/it-policy-development-assistant.md) | Develops, reviews, and maintains IT policies from research to implementation. |
+| [Legislative Drafting Assistant](legislative-drafting-assistant.md) | Drafts, reviews, and analyzes legislation for policy makers. |
 | [Media Crisis Drill Builder](../../pr-and-communications/writing-and-content/media-crisis-drill-builder.md) | Plans, tests, and updates crisis communication for media relations specialists. |
 | [Policy Update Communications Assistant](../../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
 | [PR Content Creator](../../pr-and-communications/writing-and-content/pr-content-creator.md) | Drafts and plans all your PR content, from press releases to crisis messaging. |
 | [Process Documentation Assistant](../../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
+| [Regulatory Training Material Developer](regulatory-training-material-developer.md) | Builds regulatory training materials from modules to assessments, grounded in current standards. |
 | [SOP Writer](../../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
 | [Stakeholder Communication Coordinator](../../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
 | [Stakeholder Communication Director](../../executives-and-strategy/writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
@@ -29,6 +31,7 @@ Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 0 
 | [Technical Documentation Reviewer](../../customer-support/writing-and-content/technical-documentation-reviewer.md) | Reviews and refines technical documentation for accuracy, clarity, and compliance. |
 | [Technical Manual Writing Assistant](../../writers/writing-and-content/technical-manual-writing-assistant.md) | Draft, structure, and refine technical manuals from research to final review. |
 | [Technical Proposal Assistant](../../writers/writing-and-content/technical-proposal-assistant.md) | Drafts, refines, and manages technical proposals from research to archive. |
+| [Technology Policy Formulation Assistant](technology-policy-formulation-assistant.md) | Drafts and reviews technology policies with research, stakeholder input, and impact analysis. |
 | [Training Material Creation Assistant](../../operations/writing-and-content/training-material-creation-assistant.md) | Creates and manages all training materials for operations teams from research to assessment. |
 | [Training Material Creator](../../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 

@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 438 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 446 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -126,10 +126,12 @@ Clean, query, chart and explain data. 438 Grok Bot templates, 268 of them filed 
 | [Feedback Insights for Ops](feedback-insights-for-ops.md) | Turns customer feedback into actionable insights and responses for operations managers. |
 | [Fleet Cost Reduction Analyst](fleet-cost-reduction-analyst.md) | Analyzes fleet data to find and act on cost reduction opportunities. |
 | [Fleet Fuel Efficiency Analyst](fleet-fuel-efficiency-analyst.md) | Analyzes fleet fuel data, finds savings, and prepares reports for fleet managers. |
+| [Fleet Fuel Savings Strategist](../../government/data-analysis/fleet-fuel-savings-strategist.md) | Analyzes fleet data and generates fuel-saving strategies for transportation managers. |
 | [Fleet Performance Reporting Assistant](fleet-performance-reporting-assistant.md) | Turns fleet data into performance reports, trend analyses, and improvement recommendations. |
 | [Fleet Route Optimizer](fleet-route-optimizer.md) | Optimizes fleet routes, cuts fuel costs, and plans around traffic and regulations. |
 | [Fleet Sustainability Advisor](fleet-sustainability-advisor.md) | Turns fleet data into sustainability actions: routes, policies, training, reporting, and compliance. |
 | [Fleet Telematics Analyst](fleet-telematics-analyst.md) | Turns fleet telematics data into safety, efficiency, and maintenance insights. |
+| [Fleet Tracking Coordinator](../../government/data-analysis/fleet-tracking-coordinator.md) | Real-time fleet tracking, route optimization, and incident response for transportation managers. |
 | [Food Database Query](../../science-and-research/data-analysis/food-database-query.md) | Query structured food data for nutrition, comparisons, and calculations. |
 | [Forecast Accuracy Review](forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 | [Freight Cost Analysis Assistant](freight-cost-analysis-assistant.md) | Freight cost analysis and optimization for logistics managers, from data to recommendations. |
@@ -422,7 +424,13 @@ Clean, query, chart and explain data. 438 Grok Bot templates, 268 of them filed 
 | [Team Productivity Analysis Assistant](team-productivity-analysis-assistant.md) | Analyzes team productivity data and turns it into actionable management decisions. |
 | [Text Comparison Validator](text-comparison-validator.md) | Compares extracted text to a reference file and reports all discrepancies. |
 | [Transportation Cost Planner](transportation-cost-planner.md) | Optimize routes, rates, modes, fuel, loads, compliance, and more to cut logistics costs. |
+| [Transportation Cost-Benefit Analyst](../../government/data-analysis/transportation-cost-benefit-analyst.md) | Cost-benefit analysis for transportation decisions, from data to report. |
+| [Transportation File Analyzer](../../government/data-analysis/transportation-file-analyzer.md) | Manage transportation files and data analysis with AI-assisted workflows. |
+| [Transportation Inventory Manager](../../government/data-analysis/transportation-inventory-manager.md) | Manages transportation inventory end-to-end with predictive insights and real-time tracking. |
 | [Transportation Management Optimizer](transportation-management-optimizer.md) | Optimizes logistics operations through TMS data analysis, route planning, and vendor management. |
+| [Transportation Network Analyst](../../government/data-analysis/transportation-network-analyst.md) | Analyzes transportation data to optimize routes, forecast demand, and improve network performance. |
+| [Transportation Operations Optimizer](../../government/data-analysis/transportation-operations-optimizer.md) | Optimizes routes, fleet, costs, and compliance for government transportation operations. |
+| [Transportation Risk Manager](../../government/data-analysis/transportation-risk-manager.md) | Identifies, mitigates, and monitors transportation risks with data-driven insights and plans. |
 | [Tune Monitor](tune-monitor.md) | Analyze Monte Carlo monitors and recommend config changes to reduce alert noise. |
 | [Vaex](../../it-and-development/data-analysis/vaex.md) | Process and analyze large tabular datasets that exceed available RAM using Vaex's out-of-core capabilities. |
 | [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |

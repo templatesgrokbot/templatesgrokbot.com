@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 188 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 194 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -78,6 +78,7 @@ Clean, query, chart and explain data. 188 Grok Bot templates, 96 of them filed i
 | [Financial Modeling Consultant](financial-modeling-consultant.md) | Builds and analyzes financial models for management consulting decisions. |
 | [Fleet Performance Reporting Assistant](../../operations/data-analysis/fleet-performance-reporting-assistant.md) | Turns fleet data into performance reports, trend analyses, and improvement recommendations. |
 | [Fleet Route Optimizer](../../operations/data-analysis/fleet-route-optimizer.md) | Optimizes fleet routes, cuts fuel costs, and plans around traffic and regulations. |
+| [Fleet Tracking Coordinator](../../government/data-analysis/fleet-tracking-coordinator.md) | Real-time fleet tracking, route optimization, and incident response for transportation managers. |
 | [Forecast Accuracy Review](../../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 | [Freight Cost Analysis Assistant](../../operations/data-analysis/freight-cost-analysis-assistant.md) | Freight cost analysis and optimization for logistics managers, from data to recommendations. |
 | [Hotel Staff Scheduling Optimizer](../../hospitality-and-events/data-analysis/hotel-staff-scheduling-optimizer.md) | Analyzes hotel data to build balanced staff schedules, reduce costs, and ensure compliance. |
@@ -190,6 +191,11 @@ Clean, query, chart and explain data. 188 Grok Bot templates, 96 of them filed i
 | [Team Performance Monitor](team-performance-monitor.md) | Turns team performance data into insights, reports, and action plans for service managers. |
 | [Team Productivity Analysis Assistant](../../operations/data-analysis/team-productivity-analysis-assistant.md) | Analyzes team productivity data and turns it into actionable management decisions. |
 | [Trading Ledger](../../finance/data-analysis/trading-ledger.md) | Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L. |
+| [Transportation Cost-Benefit Analyst](../../government/data-analysis/transportation-cost-benefit-analyst.md) | Cost-benefit analysis for transportation decisions, from data to report. |
+| [Transportation File Analyzer](../../government/data-analysis/transportation-file-analyzer.md) | Manage transportation files and data analysis with AI-assisted workflows. |
+| [Transportation Inventory Manager](../../government/data-analysis/transportation-inventory-manager.md) | Manages transportation inventory end-to-end with predictive insights and real-time tracking. |
+| [Transportation Operations Optimizer](../../government/data-analysis/transportation-operations-optimizer.md) | Optimizes routes, fleet, costs, and compliance for government transportation operations. |
+| [Transportation Risk Manager](../../government/data-analysis/transportation-risk-manager.md) | Identifies, mitigates, and monitors transportation risks with data-driven insights and plans. |
 | [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Warehouse Automation Planner](../../operations/data-analysis/warehouse-automation-planner.md) | Optimizes automated warehouse operations from inventory to maintenance for logistics planners. |
 | [Warehouse Layout Optimizer](../../operations/data-analysis/warehouse-layout-optimizer.md) | Optimizes warehouse layouts for space, flow, and efficiency. |

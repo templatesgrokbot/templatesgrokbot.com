@@ -1,6 +1,6 @@
 # Productivity templates for Finance
 
-Plan, prioritise and clear the recurring admin. 25 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 27 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,7 +9,9 @@ Plan, prioritise and clear the recurring admin. 25 Grok Bot templates, 18 of the
 | [Admin Task Prioritizer](admin-task-prioritizer.md) | Prioritizes tasks, tracks deadlines, and coordinates schedules for administrative assistants. |
 | [Billing Automation](../../operations/productivity/billing-automation.md) | Implement automated billing, invoicing, and payment recovery for SaaS subscriptions. |
 | [Credit Card Max](credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
+| [Debt Management Planner](debt-management-planner.md) | Manages debt consolidation, repayment, negotiation, and monitoring for finance managers. |
 | [Expense Reporting Assistant](expense-reporting-assistant.md) | Manages expense tracking, reporting, compliance, and vendor communication for administrative assistants. |
+| [Expense Tracking Assistant](expense-tracking-assistant.md) | Manages expense tracking, reporting, budgets, and compliance for finance managers. |
 | [Expense Tracking Manager](expense-tracking-manager.md) | Tracks, verifies, and reports expenses with receipts, budgets, and policy checks. |
 | [Finance Event Orchestrator](finance-event-orchestrator.md) | Plans, coordinates, and tracks every detail of your events from venue to post-event feedback. |
 | [Financial Planning Assistant](financial-planning-assistant.md) | Personal financial planning assistant for tax analysts covering budgets, investments, retirement, taxes, debt, insurance, education, estate, cash… |

@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **213 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **214 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,7 +15,7 @@ Press, internal comms and reputation. **213 ready-made Grok Bot templates** for 
 | [Writing & Content](writing-and-content/README.md) | 52 |
 | [Social Media](social-media/README.md) | 28 |
 | [Data Analysis](data-analysis/README.md) | 24 |
-| [Productivity](productivity/README.md) | 19 |
+| [Productivity](productivity/README.md) | 20 |
 | [Research](research/README.md) | 16 |
 | [Design](design/README.md) | 6 |
 | [Support & Community](support-and-community/README.md) | 4 |
@@ -212,6 +212,7 @@ Press, internal comms and reputation. **213 ready-made Grok Bot templates** for 
 | [Crisis Management Executive Assistant](../executives-and-strategy/productivity/crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
 | [Crisis Management Planning Assistant](../operations/productivity/crisis-management-planning-assistant.md) | Builds and maintains your crisis management plans, protocols, and training. |
 | [Crisis Plan Builder for Executives](../executives-and-strategy/productivity/crisis-plan-builder-for-executives.md) | Builds and tests crisis management plans for your organization. |
+| [Crisis Response Planning Assistant](../government/productivity/crisis-response-planning-assistant.md) | Crisis response planning assistant for policy makers, covering risk, scenarios, resources, communication, and more. |
 | [CSR Planning Assistant](../science-and-research/productivity/csr-planning-assistant.md) | Plans and manages corporate social responsibility initiatives from stakeholder input to impact reporting. |
 | [CSR Strategy Builder](../executives-and-strategy/productivity/csr-strategy-builder.md) | Builds and runs your CSR strategy from stakeholder analysis to reporting. |
 | [Editorial Calendar Management Assistant](productivity/editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |

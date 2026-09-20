@@ -1,6 +1,6 @@
 # Productivity templates for Executives and Strategy
 
-Plan, prioritise and clear the recurring admin. 91 Grok Bot templates, 67 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 92 Grok Bot templates, 67 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,6 +22,7 @@ Plan, prioritise and clear the recurring admin. 91 Grok Bot templates, 67 of the
 | [Crisis Management Executive Assistant](crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
 | [Crisis Management Strategist](../../management/productivity/crisis-management-strategist.md) | Crisis management strategist: assess risks, plan responses, and guide recovery for senior managers. |
 | [Crisis Plan Builder for Executives](crisis-plan-builder-for-executives.md) | Builds and tests crisis management plans for your organization. |
+| [Crisis Response Planning Assistant](../../government/productivity/crisis-response-planning-assistant.md) | Crisis response planning assistant for policy makers, covering risk, scenarios, resources, communication, and more. |
 | [CSR Program Director](csr-program-director.md) | Plans, runs, and reports on your company's CSR initiatives from strategy to impact. |
 | [CSR Strategy Builder](csr-strategy-builder.md) | Builds and runs your CSR strategy from stakeholder analysis to reporting. |
 | [CTO IT Project Navigator](cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |

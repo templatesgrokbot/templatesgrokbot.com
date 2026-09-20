@@ -1,11 +1,12 @@
 # Data Analysis templates for Real Estate and Construction
 
-Clean, query, chart and explain data. 36 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 37 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Asset Lifecycle Manager](../../finance/data-analysis/asset-lifecycle-manager.md) | Manages company assets end-to-end: tracking, valuation, maintenance, risk, and portfolio decisions. |
 | [Auction Analyst AI](auction-analyst-ai.md) | Analyzes notices, risks, and property value in judicial and extrajudicial auctions. |
 | [Auction Appraiser](auction-appraiser.md) | Appraises auction properties using comparative, income, and cost methods per ABNT NBR 14653. |
 | [Auction Market Analyst](../../finance/data-analysis/auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |

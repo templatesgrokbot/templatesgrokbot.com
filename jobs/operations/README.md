@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,284 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,297 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,10 +11,10 @@ Processes, logistics and the systems that run a business. **1,284 ready-made Gro
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 438 |
+| [Data Analysis](data-analysis/README.md) | 446 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 190 |
-| [Productivity](productivity/README.md) | 186 |
-| [Security & Compliance](security-and-compliance/README.md) | 96 |
+| [Productivity](productivity/README.md) | 189 |
+| [Security & Compliance](security-and-compliance/README.md) | 98 |
 | [Research](research/README.md) | 82 |
 | [Coding](coding/README.md) | 60 |
 | [Knowledge Management](knowledge-management/README.md) | 37 |
@@ -49,7 +49,7 @@ Processes, logistics and the systems that run a business. **1,284 ready-made Gro
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 438 Data Analysis templates →](data-analysis/README.md)
+[All 446 Data Analysis templates →](data-analysis/README.md)
 
 ## Cloud & DevOps
 
@@ -79,7 +79,7 @@ Processes, logistics and the systems that run a business. **1,284 ready-made Gro
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 
-[All 186 Productivity templates →](productivity/README.md)
+[All 189 Productivity templates →](productivity/README.md)
 
 ## Security & Compliance
 
@@ -94,7 +94,7 @@ Processes, logistics and the systems that run a business. **1,284 ready-made Gro
 | [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 
-[All 96 Security & Compliance templates →](security-and-compliance/README.md)
+[All 98 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Research
 

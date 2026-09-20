@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Management
 
-Explain, quiz and guide someone through a subject. 10 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 11 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,5 +16,6 @@ Explain, quiz and guide someone through a subject. 10 Grok Bot templates, 6 of t
 | [Ship Learn Next](../../education/teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Staff Training Planner](staff-training-planner.md) | Plans and runs staff training for insurance agency managers, from needs assessment to effectiveness evaluation. |
 | [Training Program Designer](training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
+| [Transportation Training Program Builder](../../government/teaching-and-tutoring/transportation-training-program-builder.md) | Build tailored, effective training programs for your transportation staff—from needs assessment to evaluation. |
 
 [← All Management templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/management)

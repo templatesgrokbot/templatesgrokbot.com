@@ -1,6 +1,6 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 82 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 97 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Clean, query, chart and explain data. 82 Grok Bot templates, 0 of them filed in 
 | [Biodiversity Conservation Planner](../../science-and-research/data-analysis/biodiversity-conservation-planner.md) | Plans and monitors biodiversity conservation with data analysis and stakeholder input. |
 | [Biodiversity Impact Analyst](../../science-and-research/data-analysis/biodiversity-impact-analyst.md) | Turns biodiversity data into impact analyses, reports, and conservation strategies. |
 | [Budget Forecast Assistant](../../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
+| [Budget Optimization Assistant for Policy Makers](budget-optimization-assistant-for-policy-makers.md) | Analyzes budget data to find savings, optimize allocation, and support policy decisions. |
 | [Business Process Optimization Assistant](../../it-and-development/data-analysis/business-process-optimization-assistant.md) | Maps, analyzes, and optimizes business processes with data-backed recommendations. |
 | [Climate Impact Study Assistant](../../science-and-research/data-analysis/climate-impact-study-assistant.md) | Turns climate data and policy into impact studies, risk assessments, and adaptation plans. |
 | [Climate Risk Assessment Assistant](../../science-and-research/data-analysis/climate-risk-assessment-assistant.md) | Turns climate data into risk assessments, reports, and resilience plans for sustainability analysts. |
@@ -36,13 +37,19 @@ Clean, query, chart and explain data. 82 Grok Bot templates, 0 of them filed in 
 | [Data Visualization and Reporting Assistant](../../executives-and-strategy/data-analysis/data-visualization-and-reporting-assistant.md) | Turns raw data into clear visual stories and reports for executive decisions. |
 | [Data Visualization Guide](../../it-and-development/data-analysis/data-visualization-guide.md) | Turns raw business data into clear, compelling visualizations and dashboards for stakeholder decisions. |
 | [Data-Driven Decision Support](../../executives-and-strategy/data-analysis/data-driven-decision-support.md) | Turns raw data into clear insights and recommendations for executive decisions. |
+| [Economic Forecasting Assistant](economic-forecasting-assistant.md) | Economic forecasting assistant for policy makers: data analysis, modeling, and scenario planning. |
 | [Employee Template Tracking Planner](../../education/data-analysis/employee-template-tracking-planner.md) | Tracks employee strengths, analyzes gaps, and builds development plans |
+| [Environmental Policy Modeling Assistant](environmental-policy-modeling-assistant.md) | Turns environmental data into policy options, impact assessments, and stakeholder-ready communications. |
 | [Environmental Risk Assessment Assistant](../../science-and-research/data-analysis/environmental-risk-assessment-assistant.md) | Assists environmental engineers with risk assessment, analysis, reporting, and compliance. |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Executive Risk Insight Suite](../../executives-and-strategy/data-analysis/executive-risk-insight-suite.md) | Turns your risk data into assessments, strategies, and reports for executive decisions. |
 | [Executive Risk Intelligence Assistant](../../executives-and-strategy/data-analysis/executive-risk-intelligence-assistant.md) | Turns your risk data into actionable insights and keeps your risk posture current. |
 | [Expense Folder Auditor](../../operations/data-analysis/expense-folder-auditor.md) | Audits expense folders: reconciles receipts to statements, flags issues, and reports. |
+| [Expense Tracking and Insights Assistant](../../finance/data-analysis/expense-tracking-and-insights-assistant.md) | Tracks, verifies, and reports expenses with real-time insights for finance directors. |
+| [Finance Director Report Automator](../../finance/data-analysis/finance-director-report-automator.md) | Automates financial reporting from data extraction to distribution and compliance. |
 | [Finance Impact Modeler](../../finance/data-analysis/finance-impact-modeler.md) | Economic impact analysis assistant for finance and accounting specialists. |
+| [Fleet Fuel Savings Strategist](fleet-fuel-savings-strategist.md) | Analyzes fleet data and generates fuel-saving strategies for transportation managers. |
+| [Fleet Tracking Coordinator](fleet-tracking-coordinator.md) | Real-time fleet tracking, route optimization, and incident response for transportation managers. |
 | [Forecast Variance Advisor](../../finance/data-analysis/forecast-variance-advisor.md) | Turns your financial data into forecasts, variance insights, and budget recommendations. |
 | [Gap Closure Training Planner](../../human-resources/data-analysis/gap-closure-training-planner.md) | Identifies training needs and aligns development programs with organizational goals. |
 | [Hydrogeology Data Analyst](../../science-and-research/data-analysis/hydrogeology-data-analyst.md) | Analyzes hydrogeological data and drafts reports, models, and plans for groundwater work. |
@@ -60,6 +67,7 @@ Clean, query, chart and explain data. 82 Grok Bot templates, 0 of them filed in 
 | [Procurement Risk Management Assistant](../../operations/data-analysis/procurement-risk-management-assistant.md) | Procurement risk management assistant that assesses, mitigates, and monitors supplier, contract, and supply chain risks. |
 | [Procurement Risk Scorecard Builder](../../operations/data-analysis/procurement-risk-scorecard-builder.md) | Evaluates supplier performance, identifies risks, and drives improvement for procurement specialists. |
 | [Project Data Analysis Assistant](../../management/data-analysis/project-data-analysis-assistant.md) | Turns raw project data into analysis, insights, and decision-ready reports for project managers. |
+| [Public Opinion Analysis Assistant](public-opinion-analysis-assistant.md) | Turns public opinion data into clear insights for policy decisions. |
 | [Purchasing Budget and Cost Analyst](../../management/data-analysis/purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
 | [Qualitative Data Analysis Assistant](../../science-and-research/data-analysis/qualitative-data-analysis-assistant.md) | Analyzes qualitative data to surface themes, sentiments, and insights for research associates. |
 | [Quality Control Reporting Assistant](../../operations/data-analysis/quality-control-reporting-assistant.md) | Analyzes quality data, generates reports, and tracks compliance for quality control inspectors. |
@@ -81,6 +89,13 @@ Clean, query, chart and explain data. 82 Grok Bot templates, 0 of them filed in 
 | [Talent Management Strategy Planner](../../executives-and-strategy/data-analysis/talent-management-strategy-planner.md) | Turns your talent data into a full workforce strategy, from hiring to retention. |
 | [Tax Policy Analysis Assistant](../../finance/data-analysis/tax-policy-analysis-assistant.md) | Analyzes tax policies, forecasts revenues, and evaluates impacts for tax analysts. |
 | [Training Needs Analysis Assistant](../../education/data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
+| [Transportation Cost-Benefit Analyst](transportation-cost-benefit-analyst.md) | Cost-benefit analysis for transportation decisions, from data to report. |
+| [Transportation File Analyzer](transportation-file-analyzer.md) | Manage transportation files and data analysis with AI-assisted workflows. |
+| [Transportation Inventory Manager](transportation-inventory-manager.md) | Manages transportation inventory end-to-end with predictive insights and real-time tracking. |
+| [Transportation Network Analyst](transportation-network-analyst.md) | Analyzes transportation data to optimize routes, forecast demand, and improve network performance. |
+| [Transportation Operations Optimizer](transportation-operations-optimizer.md) | Optimizes routes, fleet, costs, and compliance for government transportation operations. |
+| [Transportation Risk Manager](transportation-risk-manager.md) | Identifies, mitigates, and monitors transportation risks with data-driven insights and plans. |
+| [Urban Planning Policy Advisor](urban-planning-policy-advisor.md) | Urban planning analysis and policy drafting for policy makers, from land use to community engagement. |
 | [Urban Sustainability Analyst](../../science-and-research/data-analysis/urban-sustainability-analyst.md) | Analyzes urban data and recommends sustainable planning actions for sustainability analysts. |
 | [Variance Report for Finance Teams](../../finance/data-analysis/variance-report-for-finance-teams.md) | Analyzes budgets, forecasts, and reports for finance specialists. |
 | [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |

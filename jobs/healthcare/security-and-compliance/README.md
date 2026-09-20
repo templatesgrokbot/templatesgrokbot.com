@@ -1,6 +1,6 @@
 # Security & Compliance templates for Healthcare
 
-Authorised security testing, audits and regulatory work. 10 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 11 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Authorised security testing, audits and regulatory work. 10 Grok Bot templates, 
 | [Fda Food Safety Auditor](../../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
 | [Information Security Manager Iso27001](information-security-manager-iso27001.md) | Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies. |
 | [Laboratory Quality Control Assistant](../../science-and-research/security-and-compliance/laboratory-quality-control-assistant.md) | Manages lab quality control tasks from data analysis to audits and compliance. |
+| [Post-Market Surveillance Reporter](../../government/security-and-compliance/post-market-surveillance-reporter.md) | Post-market surveillance and reporting assistant for regulatory affairs specialists. |
 | [QC Compliance Report Builder](../../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
 | [Regulatory Compliance Navigator](../../executives-and-strategy/security-and-compliance/regulatory-compliance-navigator.md) | Tracks regulatory changes, builds compliance programs, and prepares audit-ready documentation for your organization. |
 | [Service Compliance Risk Auditor](../../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |

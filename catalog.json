@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 5851,
+ "count": 5950,
  "templates": [
   {
    "slug": "007",
@@ -652,6 +652,69 @@
    ],
    "path": "jobs/finance/data-analysis/actuarial-data-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/actuarial-data-analysis-assistant"
+  },
+  {
+   "slug": "actuarial-forecasting-assistant",
+   "name": "Actuarial Forecasting Assistant",
+   "tagline": "Turn insurance data into forecasts, risk models, and stakeholder-ready reports for actuarial decisions.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/actuarial-forecasting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/actuarial-forecasting-assistant"
+  },
+  {
+   "slug": "actuarial-predictive-analytics-assistant",
+   "name": "Actuarial Predictive Analytics Assistant",
+   "tagline": "Turns insurance data into predictive insights for actuarial decisions.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/actuarial-predictive-analytics-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/actuarial-predictive-analytics-assistant"
+  },
+  {
+   "slug": "actuarial-reserving-assistant",
+   "name": "Actuarial Reserving Assistant",
+   "tagline": "Automates reserving data analysis, model building, validation, and documentation for insurance actuaries.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/finance/data-analysis/actuarial-reserving-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/actuarial-reserving-assistant"
+  },
+  {
+   "slug": "actuarial-risk-modeling-assistant",
+   "name": "Actuarial Risk Modeling Assistant",
+   "tagline": "Builds and maintains actuarial risk models from data to reporting.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/finance/data-analysis/actuarial-risk-modeling-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/actuarial-risk-modeling-assistant"
   },
   {
    "slug": "ad-campaign-analyzer",
@@ -3184,6 +3247,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "annuity-product-development-assistant",
+   "name": "Annuity Product Development Assistant",
+   "tagline": "Analyzes annuity market data, designs products, and manages compliance for actuaries.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/finance/data-analysis/annuity-product-development-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/annuity-product-development-assistant"
+  },
+  {
    "slug": "anthropic-brand-guidelines",
    "name": "Anthropic Brand Application",
    "tagline": "Applies Anthropic brand standards to artifacts: colors, typography, visual language.",
@@ -4611,6 +4691,36 @@
    "source_license": "MIT"
   },
   {
+   "slug": "asset-lifecycle-manager",
+   "name": "Asset Lifecycle Manager",
+   "tagline": "Manages company assets end-to-end: tracking, valuation, maintenance, risk, and portfolio decisions.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/asset-lifecycle-manager.md",
+   "url": "https://templatesgrokbot.com/bot/asset-lifecycle-manager"
+  },
+  {
+   "slug": "asset-liability-management-assistant",
+   "name": "Asset-Liability Management Assistant",
+   "tagline": "Analyzes assets and liabilities, models scenarios, and optimizes strategies for insurance actuaries.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/asset-liability-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/asset-liability-management-assistant"
+  },
+  {
    "slug": "astro",
    "name": "Astro",
    "tagline": "Build content-focused websites with Astro's zero-JS defaults and islands architecture.",
@@ -5120,6 +5230,22 @@
    ],
    "path": "jobs/operations/security-and-compliance/audit-preparation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/audit-preparation-assistant"
+  },
+  {
+   "slug": "audit-preparation-planner",
+   "name": "Audit Preparation Planner",
+   "tagline": "Prepares your company for audits by organizing documents, assessing risks, and coordinating with auditors.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "knowledge-management",
+    "productivity"
+   ],
+   "path": "jobs/finance/security-and-compliance/audit-preparation-planner.md",
+   "url": "https://templatesgrokbot.com/bot/audit-preparation-planner"
   },
   {
    "slug": "audit-ready-file-builder",
@@ -10788,6 +10914,22 @@
    "url": "https://templatesgrokbot.com/bot/budget-optimization-assistant"
   },
   {
+   "slug": "budget-optimization-assistant-for-policy-makers",
+   "name": "Budget Optimization Assistant for Policy Makers",
+   "tagline": "Analyzes budget data to find savings, optimize allocation, and support policy decisions.",
+   "category": "finance",
+   "jobs": [
+    "government",
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/government/data-analysis/budget-optimization-assistant-for-policy-makers.md",
+   "url": "https://templatesgrokbot.com/bot/budget-optimization-assistant-for-policy-makers"
+  },
+  {
    "slug": "budget-planning-assistant",
    "name": "Budget Planning Assistant",
    "tagline": "Prepares your budget plan from data gathering to final documentation.",
@@ -11914,6 +12056,21 @@
    "url": "https://templatesgrokbot.com/bot/capacity-planning-assistant"
   },
   {
+   "slug": "capital-expenditure-analysis-assistant",
+   "name": "Capital Expenditure Analysis Assistant",
+   "tagline": "Analyzes capital expenditures, calculates returns, and prepares investment recommendations for finance directors.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/capital-expenditure-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/capital-expenditure-analysis-assistant"
+  },
+  {
    "slug": "capital-expenditure-planning-assistant",
    "name": "Capital Expenditure Planning Assistant",
    "tagline": "Analyzes, forecasts, and optimizes capital expenditure plans for a VP of Finance.",
@@ -12241,6 +12398,38 @@
    "url": "https://templatesgrokbot.com/bot/catastrophe-modeling-analyst"
   },
   {
+   "slug": "catastrophe-modeling-assistant",
+   "name": "Catastrophe Modeling Assistant",
+   "tagline": "Catastrophe modeling assistant for insurance data analysts, from data prep to reporting.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/finance/data-analysis/catastrophe-modeling-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/catastrophe-modeling-assistant"
+  },
+  {
+   "slug": "catastrophe-risk-analysis-assistant",
+   "name": "Catastrophe Risk Analysis Assistant",
+   "tagline": "Analyzes catastrophe data, models risk, and prepares reports for insurance decisions.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/catastrophe-risk-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/catastrophe-risk-analysis-assistant"
+  },
+  {
    "slug": "cdk-patterns",
    "name": "Cdk Patterns",
    "tagline": "Build reusable AWS CDK constructs and production-grade infrastructure stacks with TypeScript, Python, or Java. No raw CloudFormation, Terraform, or on",
@@ -12469,6 +12658,21 @@
    ],
    "path": "jobs/finance/data-analysis/cfo-investment-decision-support.md",
    "url": "https://templatesgrokbot.com/bot/cfo-investment-decision-support"
+  },
+  {
+   "slug": "cfo-investment-research-analyst",
+   "name": "CFO Investment Research Analyst",
+   "tagline": "Investment analysis assistant for finance directors: research, valuation, risk, and strategy.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/research/cfo-investment-research-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/cfo-investment-research-analyst"
   },
   {
    "slug": "cfo-risk-intelligence-report",
@@ -13395,6 +13599,21 @@
    "url": "https://templatesgrokbot.com/bot/claim-document-verification-assistant"
   },
   {
+   "slug": "claim-event-analytics-assistant",
+   "name": "Claim Event Analytics Assistant",
+   "tagline": "Real-time claim event analytics and monitoring for insurance data analysts.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/claim-event-analytics-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/claim-event-analytics-assistant"
+  },
+  {
    "slug": "claim-severity-assessment-assistant",
    "name": "Claim Severity Assessment Assistant",
    "tagline": "Assesses insurance claim severity from data to reporting, ready for manager approval.",
@@ -13736,6 +13955,20 @@
    ],
    "path": "jobs/operations/data-analysis/claims-risk-assessment-assistant.md",
    "url": "https://templatesgrokbot.com/bot/claims-risk-assessment-assistant"
+  },
+  {
+   "slug": "claims-submission-assistant",
+   "name": "Claims Submission Assistant",
+   "tagline": "Streamlines medical claims submission from verification to payment reconciliation for billers.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/healthcare/productivity/claims-submission-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/claims-submission-assistant"
   },
   {
    "slug": "claims-training-developer",
@@ -14520,6 +14753,22 @@
    ],
    "path": "jobs/science-and-research/data-analysis/climate-mitigation-analyst.md",
    "url": "https://templatesgrokbot.com/bot/climate-mitigation-analyst"
+  },
+  {
+   "slug": "climate-risk-actuarial-analyst",
+   "name": "Climate Risk Actuarial Analyst",
+   "tagline": "Analyzes climate data and models to inform insurance risk, pricing, and strategy.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/climate-risk-actuarial-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/climate-risk-actuarial-analyst"
   },
   {
    "slug": "climate-risk-assessment-assistant",
@@ -17295,6 +17544,22 @@
    "url": "https://templatesgrokbot.com/bot/compliance-guidance-assistant"
   },
   {
+   "slug": "compliance-intel-for-ra-specialists",
+   "name": "Compliance Intel for RA Specialists",
+   "tagline": "Regulatory research and compliance support for Regulatory Affairs Specialists.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research"
+   ],
+   "path": "jobs/government/security-and-compliance/compliance-intel-for-ra-specialists.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-intel-for-ra-specialists"
+  },
+  {
    "slug": "compliance-monitoring-assistant",
    "name": "Compliance Monitoring Assistant",
    "tagline": "Monitors legal changes, audits compliance, and drafts reports and training for your legal practice.",
@@ -17371,6 +17636,23 @@
    ],
    "path": "jobs/science-and-research/security-and-compliance/compliance-report-drafting-for-chemical-engineers.md",
    "url": "https://templatesgrokbot.com/bot/compliance-report-drafting-for-chemical-engineers"
+  },
+  {
+   "slug": "compliance-report-generator",
+   "name": "Compliance Report Generator",
+   "tagline": "Automates financial reporting from data extraction to compliance and distribution.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "office-tools",
+    "productivity"
+   ],
+   "path": "jobs/finance/security-and-compliance/compliance-report-generator.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-report-generator"
   },
   {
    "slug": "compliance-reporting-automation-assistant",
@@ -19575,6 +19857,21 @@
    "url": "https://templatesgrokbot.com/bot/copyright-prompt-strategist"
   },
   {
+   "slug": "copyright-question-refiner",
+   "name": "Copyright Question Refiner",
+   "tagline": "Drafts precise copyright questions for transportation managers and turns answers into policy-ready briefs.",
+   "category": "research",
+   "jobs": [
+    "government"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/government/research/copyright-question-refiner.md",
+   "url": "https://templatesgrokbot.com/bot/copyright-question-refiner"
+  },
+  {
    "slug": "copywriting",
    "name": "Copywriting",
    "tagline": "Write conversion-focused marketing copy for landing pages and emails, with mandatory brief confirmation.",
@@ -20583,6 +20880,25 @@
    "url": "https://templatesgrokbot.com/bot/crisis-plan-builder-for-executives"
   },
   {
+   "slug": "crisis-response-planning-assistant",
+   "name": "Crisis Response Planning Assistant",
+   "tagline": "Crisis response planning assistant for policy makers, covering risk, scenarios, resources, communication, and more.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "executives-and-strategy",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/government/productivity/crisis-response-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/crisis-response-planning-assistant"
+  },
+  {
    "slug": "crisis-training-designer",
    "name": "Crisis Training Designer",
    "tagline": "Designs and runs crisis management training materials, simulations, and evaluations.",
@@ -21577,6 +21893,37 @@
    ],
    "path": "jobs/human-resources/data-analysis/culture-pulse-action-planner.md",
    "url": "https://templatesgrokbot.com/bot/culture-pulse-action-planner"
+  },
+  {
+   "slug": "currency-exchange-forecasting-assistant",
+   "name": "Currency Exchange Forecasting Assistant",
+   "tagline": "Forecasts currency exchange rates and manages related risks for finance directors.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/currency-exchange-forecasting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/currency-exchange-forecasting-assistant"
+  },
+  {
+   "slug": "currency-forecasting-and-risk-assistant",
+   "name": "Currency Forecasting and Risk Assistant",
+   "tagline": "Analyzes currency data, forecasts moves, flags risks, and proposes hedging for your finance role.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/currency-forecasting-and-risk-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/currency-forecasting-and-risk-assistant"
   },
   {
    "slug": "currency-risk-management-assistant",
@@ -24591,6 +24938,21 @@
    "url": "https://templatesgrokbot.com/bot/debt-management-assistant"
   },
   {
+   "slug": "debt-management-planner",
+   "name": "Debt Management Planner",
+   "tagline": "Manages debt consolidation, repayment, negotiation, and monitoring for finance managers.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/productivity/debt-management-planner.md",
+   "url": "https://templatesgrokbot.com/bot/debt-management-planner"
+  },
+  {
    "slug": "debt-management-strategist",
    "name": "Debt Management Strategist",
    "tagline": "Analyzes, plans, and monitors your company's debt portfolio, from refinancing to compliance.",
@@ -24604,6 +24966,21 @@
    ],
    "path": "jobs/executives-and-strategy/data-analysis/debt-management-strategist.md",
    "url": "https://templatesgrokbot.com/bot/debt-management-strategist"
+  },
+  {
+   "slug": "debt-negotiation-planner",
+   "name": "Debt Negotiation Planner",
+   "tagline": "Analyzes debt, builds repayment plans, and guides negotiations for a company's finances.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/sales-and-negotiation/debt-negotiation-planner.md",
+   "url": "https://templatesgrokbot.com/bot/debt-negotiation-planner"
   },
   {
    "slug": "debug",
@@ -26991,6 +27368,35 @@
    "url": "https://templatesgrokbot.com/bot/digital-transformation-strategy-planner"
   },
   {
+   "slug": "director-budget-risk-analyst",
+   "name": "Director Budget Risk Analyst",
+   "tagline": "Analyzes budgets, forecasts, and risks for finance directors.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/director-budget-risk-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/director-budget-risk-analyst"
+  },
+  {
+   "slug": "director-finance-forecast-builder",
+   "name": "Director Finance Forecast Builder",
+   "tagline": "Build and maintain accurate financial forecasts for a Director of Finance.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/finance/data-analysis/director-finance-forecast-builder.md",
+   "url": "https://templatesgrokbot.com/bot/director-finance-forecast-builder"
+  },
+  {
    "slug": "director-productivity-insight",
    "name": "Director Productivity Insight",
    "tagline": "Analyzes employee productivity data and delivers actionable insights for managing directors.",
@@ -27088,6 +27494,23 @@
    ],
    "path": "jobs/it-and-development/cloud-and-devops/disaster-recovery-program-planner.md",
    "url": "https://templatesgrokbot.com/bot/disaster-recovery-program-planner"
+  },
+  {
+   "slug": "disaster-response-transportation-planner",
+   "name": "Disaster Response Transportation Planner",
+   "tagline": "Disaster response planning for transportation managers: assess risks, allocate resources, coordinate, and recover.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/government/productivity/disaster-response-transportation-planner.md",
+   "url": "https://templatesgrokbot.com/bot/disaster-response-transportation-planner"
   },
   {
    "slug": "discord-automation",
@@ -29041,6 +29464,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "economic-forecasting-assistant",
+   "name": "Economic Forecasting Assistant",
+   "tagline": "Economic forecasting assistant for policy makers: data analysis, modeling, and scenario planning.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "science-and-research",
+    "finance",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/government/data-analysis/economic-forecasting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/economic-forecasting-assistant"
+  },
+  {
    "slug": "economic-impact-analysis-assistant",
    "name": "Economic Impact Analysis Assistant",
    "tagline": "Economic impact analysis for market research analysts, from data to report.",
@@ -29335,6 +29776,22 @@
    ],
    "path": "jobs/education/teaching-and-tutoring/educational-game-selector.md",
    "url": "https://templatesgrokbot.com/bot/educational-game-selector"
+  },
+  {
+   "slug": "educational-policy-evaluation-assistant",
+   "name": "Educational Policy Evaluation Assistant",
+   "tagline": "Educational policy evaluation assistant for policymakers, turning data into evidence-based recommendations.",
+   "category": "education",
+   "jobs": [
+    "government",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/government/research/educational-policy-evaluation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/educational-policy-evaluation-assistant"
   },
   {
    "slug": "educational-resource-curator",
@@ -31593,6 +32050,23 @@
    "url": "https://templatesgrokbot.com/bot/environmental-policy-development-assistant"
   },
   {
+   "slug": "environmental-policy-modeling-assistant",
+   "name": "Environmental Policy Modeling Assistant",
+   "tagline": "Turns environmental data into policy options, impact assessments, and stakeholder-ready communications.",
+   "category": "research",
+   "jobs": [
+    "government",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/government/data-analysis/environmental-policy-modeling-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/environmental-policy-modeling-assistant"
+  },
+  {
    "slug": "environmental-risk-assessment-assistant",
    "name": "Environmental Risk Assessment Assistant",
    "tagline": "Assists environmental engineers with risk assessment, analysis, reporting, and compliance.",
@@ -33394,6 +33868,37 @@
    "url": "https://templatesgrokbot.com/bot/expense-tracking-and-analysis-assistant"
   },
   {
+   "slug": "expense-tracking-and-insights-assistant",
+   "name": "Expense Tracking and Insights Assistant",
+   "tagline": "Tracks, verifies, and reports expenses with real-time insights for finance directors.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/finance/data-analysis/expense-tracking-and-insights-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/expense-tracking-and-insights-assistant"
+  },
+  {
+   "slug": "expense-tracking-assistant",
+   "name": "Expense Tracking Assistant",
+   "tagline": "Manages expense tracking, reporting, budgets, and compliance for finance managers.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/productivity/expense-tracking-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/expense-tracking-assistant"
+  },
+  {
    "slug": "expense-tracking-manager",
    "name": "Expense Tracking Manager",
    "tagline": "Tracks, verifies, and reports expenses with receipts, budgets, and policy checks.",
@@ -33409,6 +33914,21 @@
    ],
    "path": "jobs/finance/productivity/expense-tracking-manager.md",
    "url": "https://templatesgrokbot.com/bot/expense-tracking-manager"
+  },
+  {
+   "slug": "experience-studies-analyst",
+   "name": "Experience Studies Analyst",
+   "tagline": "Analyzes insurance experience data to inform pricing and risk decisions.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/experience-studies-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/experience-studies-analyst"
   },
   {
    "slug": "experiment-design-planner",
@@ -35182,6 +35702,20 @@
    "url": "https://templatesgrokbot.com/bot/finance-audit-readiness-tracker"
   },
   {
+   "slug": "finance-budget-forecaster",
+   "name": "Finance Budget Forecaster",
+   "tagline": "Analyzes budgets, forecasts trends, and prepares reports for finance managers.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/finance-budget-forecaster.md",
+   "url": "https://templatesgrokbot.com/bot/finance-budget-forecaster"
+  },
+  {
    "slug": "finance-calendar-concierge",
    "name": "Finance Calendar Concierge",
    "tagline": "Manages your calendar, bookings, reminders, and scheduling conflicts end to end.",
@@ -35228,6 +35762,23 @@
    ],
    "path": "jobs/finance/data-analysis/finance-cost-benefit-analyzer.md",
    "url": "https://templatesgrokbot.com/bot/finance-cost-benefit-analyzer"
+  },
+  {
+   "slug": "finance-director-report-automator",
+   "name": "Finance Director Report Automator",
+   "tagline": "Automates financial reporting from data extraction to distribution and compliance.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools",
+    "productivity"
+   ],
+   "path": "jobs/finance/data-analysis/finance-director-report-automator.md",
+   "url": "https://templatesgrokbot.com/bot/finance-director-report-automator"
   },
   {
    "slug": "finance-esg-report-builder",
@@ -35277,6 +35828,22 @@
    ],
    "path": "jobs/finance/data-analysis/finance-impact-modeler.md",
    "url": "https://templatesgrokbot.com/bot/finance-impact-modeler"
+  },
+  {
+   "slug": "finance-lead-deal-strategist",
+   "name": "Finance Lead Deal Strategist",
+   "tagline": "Analyzes targets, values deals, models outcomes, and drafts M&A communications for a finance lead.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools",
+    "writing-and-content"
+   ],
+   "path": "jobs/finance/data-analysis/finance-lead-deal-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/finance-lead-deal-strategist"
   },
   {
    "slug": "finance-m-a-target-analyzer",
@@ -35806,6 +36373,20 @@
    "url": "https://templatesgrokbot.com/bot/financial-reporting-automation-assistant"
   },
   {
+   "slug": "financial-risk-analysis-assistant",
+   "name": "Financial Risk Analysis Assistant",
+   "tagline": "Analyzes financial risks, prioritizes them, and drafts mitigation and reporting for a finance manager.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/financial-risk-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/financial-risk-analysis-assistant"
+  },
+  {
    "slug": "financial-risk-assessment-assistant",
    "name": "Financial Risk Assessment Assistant",
    "tagline": "Identifies, assesses, and monitors financial risks with actionable mitigation strategies.",
@@ -35835,6 +36416,21 @@
    ],
    "path": "jobs/executives-and-strategy/data-analysis/financial-risk-management-analyst.md",
    "url": "https://templatesgrokbot.com/bot/financial-risk-management-analyst"
+  },
+  {
+   "slug": "financial-risk-management-assistant",
+   "name": "Financial Risk Management Assistant",
+   "tagline": "Identifies, assesses, and manages financial risks with analysis, monitoring, and reporting.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/financial-risk-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/financial-risk-management-assistant"
   },
   {
    "slug": "financial-statement-analysis-assistant",
@@ -35879,6 +36475,21 @@
    ],
    "path": "jobs/finance/teaching-and-tutoring/financial-training-assistant.md",
    "url": "https://templatesgrokbot.com/bot/financial-training-assistant"
+  },
+  {
+   "slug": "financial-visualization-assistant",
+   "name": "Financial Visualization Assistant",
+   "tagline": "Turns your financial data into clear visualizations and insights for confident decisions.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "design"
+   ],
+   "path": "jobs/finance/data-analysis/financial-visualization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/financial-visualization-assistant"
   },
   {
    "slug": "find-bugs",
@@ -36429,6 +37040,23 @@
    "url": "https://templatesgrokbot.com/bot/fleet-fuel-efficiency-analyst"
   },
   {
+   "slug": "fleet-fuel-savings-strategist",
+   "name": "Fleet Fuel Savings Strategist",
+   "tagline": "Analyzes fleet data and generates fuel-saving strategies for transportation managers.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content",
+    "office-tools"
+   ],
+   "path": "jobs/government/data-analysis/fleet-fuel-savings-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/fleet-fuel-savings-strategist"
+  },
+  {
    "slug": "fleet-insurance-manager",
    "name": "Fleet Insurance Manager",
    "tagline": "Manages fleet insurance renewals, claims, coverage, costs, compliance, and safety from one chat.",
@@ -36459,6 +37087,23 @@
    ],
    "path": "jobs/operations/productivity/fleet-inventory-manager.md",
    "url": "https://templatesgrokbot.com/bot/fleet-inventory-manager"
+  },
+  {
+   "slug": "fleet-maintenance-budget-tracker",
+   "name": "Fleet Maintenance Budget Tracker",
+   "tagline": "Keeps your fleet's maintenance scheduled, tracked, and within budget from one chat.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/government/productivity/fleet-maintenance-budget-tracker.md",
+   "url": "https://templatesgrokbot.com/bot/fleet-maintenance-budget-tracker"
   },
   {
    "slug": "fleet-maintenance-scheduler",
@@ -36535,6 +37180,22 @@
    ],
    "path": "jobs/operations/data-analysis/fleet-telematics-analyst.md",
    "url": "https://templatesgrokbot.com/bot/fleet-telematics-analyst"
+  },
+  {
+   "slug": "fleet-tracking-coordinator",
+   "name": "Fleet Tracking Coordinator",
+   "tagline": "Real-time fleet tracking, route optimization, and incident response for transportation managers.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/government/data-analysis/fleet-tracking-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/fleet-tracking-coordinator"
   },
   {
    "slug": "flight-watch",
@@ -39860,6 +40521,24 @@
    "url": "https://templatesgrokbot.com/bot/global-ops-forecast-architect"
   },
   {
+   "slug": "global-regulatory-strategy-assistant",
+   "name": "Global Regulatory Strategy Assistant",
+   "tagline": "Global regulatory strategy assistant for Regulatory Affairs Specialists.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/government/security-and-compliance/global-regulatory-strategy-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/global-regulatory-strategy-assistant"
+  },
+  {
    "slug": "global-rewards-insight-guide",
    "name": "Global Rewards Insight Guide",
    "tagline": "Analyzes compensation and benefits data to guide competitive, fair, and compliant rewards decisions.",
@@ -41524,6 +42203,23 @@
    ],
    "path": "jobs/science-and-research/security-and-compliance/health-and-safety-compliance-assistant.md",
    "url": "https://templatesgrokbot.com/bot/health-and-safety-compliance-assistant"
+  },
+  {
+   "slug": "health-policy-analysis-assistant",
+   "name": "Health Policy Analysis Assistant",
+   "tagline": "Turns health policy research, data, and stakeholder input into evidence-based recommendations and communications.",
+   "category": "research",
+   "jobs": [
+    "government",
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/government/research/health-policy-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/health-policy-analysis-assistant"
   },
   {
    "slug": "health-trend-analyzer",
@@ -45393,6 +46089,22 @@
    "url": "https://templatesgrokbot.com/bot/insurance-compliance-manager"
   },
   {
+   "slug": "insurance-cost-benefit-analyst",
+   "name": "Insurance Cost-Benefit Analyst",
+   "tagline": "Cost-benefit analysis for insurance data analysts, from data prep to recommendations.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/finance/data-analysis/insurance-cost-benefit-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-cost-benefit-analyst"
+  },
+  {
    "slug": "insurance-customer-segmentation-analyst",
    "name": "Insurance Customer Segmentation Analyst",
    "tagline": "Segment insurance customers and generate insights for targeted marketing and risk management.",
@@ -45423,6 +46135,38 @@
    ],
    "path": "jobs/operations/support-and-community/insurance-customer-service-optimizer.md",
    "url": "https://templatesgrokbot.com/bot/insurance-customer-service-optimizer"
+  },
+  {
+   "slug": "insurance-data-trend-forecaster",
+   "name": "Insurance Data Trend Forecaster",
+   "tagline": "Turns insurance market data into trend insights, forecasts, and strategic reports.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/insurance-data-trend-forecaster.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-data-trend-forecaster"
+  },
+  {
+   "slug": "insurance-data-visualization-assistant",
+   "name": "Insurance Data Visualization Assistant",
+   "tagline": "Prepares insurance data and builds visual summaries and reports for analysts.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "design"
+   ],
+   "path": "jobs/finance/data-analysis/insurance-data-visualization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-data-visualization-assistant"
   },
   {
    "slug": "insurance-digital-transformation-planner",
@@ -45515,6 +46259,21 @@
    ],
    "path": "jobs/customer-support/data-analysis/insurance-feedback-analyzer.md",
    "url": "https://templatesgrokbot.com/bot/insurance-feedback-analyzer"
+  },
+  {
+   "slug": "insurance-feedback-sentiment-analyzer",
+   "name": "Insurance Feedback Sentiment Analyzer",
+   "tagline": "Turns customer feedback into sentiment insights for insurance decisions.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/insurance-feedback-sentiment-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-feedback-sentiment-analyzer"
   },
   {
    "slug": "insurance-finance-reporting-assistant",
@@ -45703,6 +46462,22 @@
    "url": "https://templatesgrokbot.com/bot/insurance-policy-analysis-assistant"
   },
   {
+   "slug": "insurance-pricing-strategy-analyst",
+   "name": "Insurance Pricing Strategy Analyst",
+   "tagline": "Insurance pricing strategy analyst: data analysis, modeling, and compliance for actuaries.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/insurance-pricing-strategy-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-pricing-strategy-analyst"
+  },
+  {
    "slug": "insurance-pricing-strategy-optimizer",
    "name": "Insurance Pricing Strategy Optimizer",
    "tagline": "Optimizes insurance pricing through data analysis, modeling, and strategic insights.",
@@ -45784,6 +46559,23 @@
    ],
    "path": "jobs/finance/data-analysis/insurance-risk-modelling-assistant.md",
    "url": "https://templatesgrokbot.com/bot/insurance-risk-modelling-assistant"
+  },
+  {
+   "slug": "insurance-tech-impact-analyst",
+   "name": "Insurance Tech Impact Analyst",
+   "tagline": "Analyzes tech impacts and builds AI tools for insurance actuarial work.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "generative-ai-and-llm",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/insurance-tech-impact-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/insurance-tech-impact-analyst"
   },
   {
    "slug": "insurance-training-and-knowledge-manager",
@@ -46229,6 +47021,22 @@
    ],
    "path": "jobs/finance/productivity/international-payroll-manager.md",
    "url": "https://templatesgrokbot.com/bot/international-payroll-manager"
+  },
+  {
+   "slug": "international-policy-comparison-assistant",
+   "name": "International Policy Comparison Assistant",
+   "tagline": "Compares international policies across sectors, benchmarks best practices, and drafts recommendations for policymakers.",
+   "category": "research",
+   "jobs": [
+    "government"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/government/research/international-policy-comparison-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/international-policy-comparison-assistant"
   },
   {
    "slug": "international-procurement-compliance-guide",
@@ -46923,6 +47731,21 @@
    ],
    "path": "jobs/finance/data-analysis/investment-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/investment-analysis-assistant"
+  },
+  {
+   "slug": "investment-evaluation-assistant",
+   "name": "Investment Evaluation Assistant",
+   "tagline": "Evaluates investments end-to-end: financials, risk, valuation, and strategy for finance managers.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/investment-evaluation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/investment-evaluation-assistant"
   },
   {
    "slug": "investment-opportunity-assessment-assistant",
@@ -49053,6 +49876,21 @@
    "source_license": "MIT"
   },
   {
+   "slug": "labeling-and-packaging-compliance-reviewer",
+   "name": "Labeling and Packaging Compliance Reviewer",
+   "tagline": "Reviews product labels and packaging for regulatory compliance, accuracy, and consistency.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/government/security-and-compliance/labeling-and-packaging-compliance-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/labeling-and-packaging-compliance-reviewer"
+  },
+  {
    "slug": "labor-law-compliance-assistant",
    "name": "Labor Law Compliance Assistant",
    "tagline": "Labor law compliance assistant for HR executives, handling updates, policies, training, records, audits, and reporting.",
@@ -50446,6 +51284,39 @@
    "url": "https://templatesgrokbot.com/bot/legal-training-material-creator"
   },
   {
+   "slug": "legislative-drafting-assistant",
+   "name": "Legislative Drafting Assistant",
+   "tagline": "Drafts, reviews, and analyzes legislation for policy makers.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/government/writing-and-content/legislative-drafting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/legislative-drafting-assistant"
+  },
+  {
+   "slug": "legislative-impact-analyst",
+   "name": "Legislative Impact Analyst",
+   "tagline": "Analyzes legislative changes and guides compliance for regulatory affairs specialists.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/government/security-and-compliance/legislative-impact-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/legislative-impact-analyst"
+  },
+  {
    "slug": "lemmaly",
    "name": "Lemmaly",
    "tagline": "State Big-O, data structure, and algorithm family before writing any loop or query.",
@@ -50868,6 +51739,20 @@
    ],
    "path": "jobs/finance/data-analysis/liquidity-forecast-copilot.md",
    "url": "https://templatesgrokbot.com/bot/liquidity-forecast-copilot"
+  },
+  {
+   "slug": "liquidity-forecaster-for-finance-leads",
+   "name": "Liquidity Forecaster for Finance Leads",
+   "tagline": "Forecasts, tracks, and optimizes cash flow with real-time insights and reports.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/liquidity-forecaster-for-finance-leads.md",
+   "url": "https://templatesgrokbot.com/bot/liquidity-forecaster-for-finance-leads"
   },
   {
    "slug": "list-to-lifecycle-email-architect",
@@ -52480,6 +53365,21 @@
    ],
    "path": "jobs/executives-and-strategy/sales-and-negotiation/m-a-deal-support-assistant.md",
    "url": "https://templatesgrokbot.com/bot/m-a-deal-support-assistant"
+  },
+  {
+   "slug": "m-a-director-s-financial-analyst",
+   "name": "M&A Director's Financial Analyst",
+   "tagline": "Streamlines M&A financial analysis from due diligence to post-merger monitoring.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/finance/data-analysis/m-a-director-s-financial-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/m-a-director-s-financial-analyst"
   },
   {
    "slug": "m-a-evaluation-assistant",
@@ -55902,6 +56802,20 @@
    "source_license": "MIT"
   },
   {
+   "slug": "medical-billing-and-coding-assistant",
+   "name": "Medical Billing and Coding Assistant",
+   "tagline": "Verifies codes, submits claims, posts payments, manages denials, and ensures compliant billing for medical billers.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/healthcare/productivity/medical-billing-and-coding-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/medical-billing-and-coding-assistant"
+  },
+  {
    "slug": "medical-literature-summarizer-for-pharma-sales",
    "name": "Medical Literature Summarizer for Pharma Sales",
    "tagline": "Searches, summarizes, and organizes medical literature for pharmaceutical sales discussions.",
@@ -55916,6 +56830,21 @@
    ],
    "path": "jobs/sales/research/medical-literature-summarizer-for-pharma-sales.md",
    "url": "https://templatesgrokbot.com/bot/medical-literature-summarizer-for-pharma-sales"
+  },
+  {
+   "slug": "medical-payment-posting-assistant",
+   "name": "Medical Payment Posting Assistant",
+   "tagline": "Matches, posts, and reconciles medical payments while flagging denials and variances.",
+   "category": "finance",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/healthcare/data-analysis/medical-payment-posting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/medical-payment-posting-assistant"
   },
   {
    "slug": "meeting-coordination-assistant",
@@ -57730,6 +58659,21 @@
    ],
    "path": "jobs/management/self-improvement/morpheus.md",
    "url": "https://templatesgrokbot.com/bot/morpheus"
+  },
+  {
+   "slug": "mortality-and-morbidity-analyst",
+   "name": "Mortality and Morbidity Analyst",
+   "tagline": "Analyzes mortality and morbidity data to inform actuarial decisions and insurance risk management.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/mortality-and-morbidity-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/mortality-and-morbidity-analyst"
   },
   {
    "slug": "motion-canvas",
@@ -63593,6 +64537,21 @@
    "url": "https://templatesgrokbot.com/bot/pathogen-identification-assistant"
   },
   {
+   "slug": "patient-account-management-assistant",
+   "name": "Patient Account Management Assistant",
+   "tagline": "Streamlines patient account workflows from verification to collections with accurate, compliant handling.",
+   "category": "operations",
+   "jobs": [
+    "healthcare"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content"
+   ],
+   "path": "jobs/healthcare/productivity/patient-account-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/patient-account-management-assistant"
+  },
+  {
    "slug": "patient-advocacy-support-coordinator",
    "name": "Patient Advocacy Support Coordinator",
    "tagline": "Coordinates patient support, education, and advocacy resources for pharmaceutical sales reps.",
@@ -63624,6 +64583,20 @@
    "url": "https://templatesgrokbot.com/bot/patterns",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "pay-equity-benchmarker-for-finance-managers",
+   "name": "Pay Equity Benchmarker for Finance Managers",
+   "tagline": "Analyzes employee compensation data to benchmark, optimize, and ensure compliance.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/pay-equity-benchmarker-for-finance-managers.md",
+   "url": "https://templatesgrokbot.com/bot/pay-equity-benchmarker-for-finance-managers"
   },
   {
    "slug": "payment-integration",
@@ -66177,6 +67150,24 @@
    "url": "https://templatesgrokbot.com/bot/policy-customization-assistant"
   },
   {
+   "slug": "policy-development-and-review-assistant",
+   "name": "Policy Development and Review Assistant",
+   "tagline": "Policy development and review assistant for regulatory affairs specialists.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/government/security-and-compliance/policy-development-and-review-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/policy-development-and-review-assistant"
+  },
+  {
    "slug": "policy-development-support",
    "name": "Policy Development Support",
    "tagline": "Develops, reviews, and manages compliant policies with data-driven support.",
@@ -66214,6 +67205,22 @@
    ],
    "path": "jobs/customer-support/support-and-community/policy-explanation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/policy-explanation-assistant"
+  },
+  {
+   "slug": "policy-impact-analyst",
+   "name": "Policy Impact Analyst",
+   "tagline": "A policy analysis assistant that evaluates, compares, and simulates policy impacts to inform decisions.",
+   "category": "research",
+   "jobs": [
+    "government",
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/government/research/policy-impact-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/policy-impact-analyst"
   },
   {
    "slug": "policy-renewal-and-updates-assistant",
@@ -66266,6 +67273,23 @@
    "url": "https://templatesgrokbot.com/bot/policy-risk-cost-reviewer"
   },
   {
+   "slug": "policy-rule-compliance-copilot",
+   "name": "Policy Rule Compliance Copilot",
+   "tagline": "Regulatory compliance review assistant for policy makers, from identifying rules to maintaining records.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/government/security-and-compliance/policy-rule-compliance-copilot.md",
+   "url": "https://templatesgrokbot.com/bot/policy-rule-compliance-copilot"
+  },
+  {
    "slug": "policy-update-communications-assistant",
    "name": "Policy Update Communications Assistant",
    "tagline": "Drafts and coordinates all policy update communications across channels.",
@@ -66283,6 +67307,21 @@
    ],
    "path": "jobs/customer-support/writing-and-content/policy-update-communications-assistant.md",
    "url": "https://templatesgrokbot.com/bot/policy-update-communications-assistant"
+  },
+  {
+   "slug": "policyholder-behavior-analyst",
+   "name": "Policyholder Behavior Analyst",
+   "tagline": "Analyzes policyholder behavior to predict trends, segment customers, and guide actuarial strategy.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/policyholder-behavior-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/policyholder-behavior-analyst"
   },
   {
    "slug": "policyops-compliance-aligner",
@@ -66675,6 +67714,25 @@
    "url": "https://templatesgrokbot.com/bot/post-training-verl",
    "adapted_from": "https://www.aitmpl.com/component/skills/ai-research/post-training-verl",
    "source_license": "MIT"
+  },
+  {
+   "slug": "post-market-surveillance-reporter",
+   "name": "Post-Market Surveillance Reporter",
+   "tagline": "Post-market surveillance and reporting assistant for regulatory affairs specialists.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "healthcare",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/government/security-and-compliance/post-market-surveillance-reporter.md",
+   "url": "https://templatesgrokbot.com/bot/post-market-surveillance-reporter"
   },
   {
    "slug": "post-project-analysis-assistant",
@@ -67555,6 +68613,22 @@
    ],
    "path": "jobs/operations/data-analysis/predictive-maintenance-analyst.md",
    "url": "https://templatesgrokbot.com/bot/predictive-maintenance-analyst"
+  },
+  {
+   "slug": "predictive-maintenance-analyst-assistant",
+   "name": "Predictive Maintenance Analyst Assistant",
+   "tagline": "Builds and runs predictive maintenance models for insurance policies, from data prep to forecasting and reporting.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/finance/data-analysis/predictive-maintenance-analyst-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/predictive-maintenance-analyst-assistant"
   },
   {
    "slug": "predictive-maintenance-scheduler",
@@ -70887,6 +71961,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "public-opinion-analysis-assistant",
+   "name": "Public Opinion Analysis Assistant",
+   "tagline": "Turns public opinion data into clear insights for policy decisions.",
+   "category": "research",
+   "jobs": [
+    "government",
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/government/data-analysis/public-opinion-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/public-opinion-analysis-assistant"
+  },
+  {
    "slug": "public-relations",
    "name": "Public Relations",
    "tagline": "Help you earn press coverage through journalist pitching and media strategy.",
@@ -73898,6 +74988,42 @@
    "url": "https://templatesgrokbot.com/bot/regulatory-compliance-analyst"
   },
   {
+   "slug": "regulatory-compliance-analyst-assistant",
+   "name": "Regulatory Compliance Analyst Assistant",
+   "tagline": "Regulatory compliance analysis assistant for insurance data analysts, covering collection to audit and training.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "insurance",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "knowledge-management"
+   ],
+   "path": "jobs/finance/security-and-compliance/regulatory-compliance-analyst-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-compliance-analyst-assistant"
+  },
+  {
+   "slug": "regulatory-compliance-assessment-assistant",
+   "name": "Regulatory Compliance Assessment Assistant",
+   "tagline": "Regulatory compliance assessment and reporting support for insurance actuaries.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "insurance",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/finance/security-and-compliance/regulatory-compliance-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-compliance-assessment-assistant"
+  },
+  {
    "slug": "regulatory-compliance-assistant",
    "name": "Regulatory Compliance Assistant",
    "tagline": "Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits.",
@@ -73988,6 +75114,24 @@
    "url": "https://templatesgrokbot.com/bot/regulatory-compliance-review-assistant"
   },
   {
+   "slug": "regulatory-document-preparation-assistant",
+   "name": "Regulatory Document Preparation Assistant",
+   "tagline": "Prepares, formats, reviews, and tracks regulatory documents for submission.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "translation",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/government/security-and-compliance/regulatory-document-preparation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-document-preparation-assistant"
+  },
+  {
    "slug": "regulatory-filing-assistant",
    "name": "Regulatory Filing Assistant",
    "tagline": "Prepares, checks, and tracks regulatory filings for paralegals.",
@@ -74022,6 +75166,57 @@
    ],
    "path": "jobs/executives-and-strategy/security-and-compliance/regulatory-impact-intelligence-analyst.md",
    "url": "https://templatesgrokbot.com/bot/regulatory-impact-intelligence-analyst"
+  },
+  {
+   "slug": "regulatory-intelligence-monitor",
+   "name": "Regulatory Intelligence Monitor",
+   "tagline": "Monitors, analyzes, and reports regulatory changes for your industry.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/government/security-and-compliance/regulatory-intelligence-monitor.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-intelligence-monitor"
+  },
+  {
+   "slug": "regulatory-liaison-assistant",
+   "name": "Regulatory Liaison Assistant",
+   "tagline": "Prepares, tracks, and communicates regulatory submissions and compliance for a Regulatory Affairs Specialist.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/government/security-and-compliance/regulatory-liaison-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-liaison-assistant"
+  },
+  {
+   "slug": "regulatory-permit-guide",
+   "name": "Regulatory Permit Guide",
+   "tagline": "Guides environmental regulation compliance, from permits to reporting, with tailored recommendations.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/government/security-and-compliance/regulatory-permit-guide.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-permit-guide"
   },
   {
    "slug": "regulatory-requirements-to-audit-reports",
@@ -74061,6 +75256,39 @@
    "url": "https://templatesgrokbot.com/bot/regulatory-research-assistant"
   },
   {
+   "slug": "regulatory-risk-management-assistant",
+   "name": "Regulatory Risk Management Assistant",
+   "tagline": "Identifies, assesses, and mitigates regulatory risks for compliance and product safety.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/government/security-and-compliance/regulatory-risk-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-risk-management-assistant"
+  },
+  {
+   "slug": "regulatory-stakeholder-communication-assistant",
+   "name": "Regulatory Stakeholder Communication Assistant",
+   "tagline": "Streamlines regulatory stakeholder communication: updates, inquiries, training, feedback, and events.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "office-tools",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/government/security-and-compliance/regulatory-stakeholder-communication-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-stakeholder-communication-assistant"
+  },
+  {
    "slug": "regulatory-threat-model",
    "name": "Regulatory Threat Model",
    "tagline": "Runs server-enforced STRIDE and LINDDUN threat models with live CVE data and EU regulatory grounding.",
@@ -74075,6 +75303,23 @@
    "url": "https://templatesgrokbot.com/bot/regulatory-threat-model",
    "adapted_from": "https://www.aitmpl.com/component/skills/security/regulatory-threat-model",
    "source_license": "CC-BY-4.0"
+  },
+  {
+   "slug": "regulatory-training-material-developer",
+   "name": "Regulatory Training Material Developer",
+   "tagline": "Builds regulatory training materials from modules to assessments, grounded in current standards.",
+   "category": "education",
+   "jobs": [
+    "government",
+    "legal"
+   ],
+   "topics": [
+    "writing-and-content",
+    "office-tools",
+    "research"
+   ],
+   "path": "jobs/government/writing-and-content/regulatory-training-material-developer.md",
+   "url": "https://templatesgrokbot.com/bot/regulatory-training-material-developer"
   },
   {
    "slug": "regulatory-update-analyst",
@@ -83522,6 +84767,21 @@
    "url": "https://templatesgrokbot.com/bot/social-seo-content-planner"
   },
   {
+   "slug": "social-welfare-evaluation-planner",
+   "name": "Social Welfare Evaluation Planner",
+   "tagline": "Evaluates social welfare programs to guide policy decisions with evidence.",
+   "category": "research",
+   "jobs": [
+    "government"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/government/research/social-welfare-evaluation-planner.md",
+   "url": "https://templatesgrokbot.com/bot/social-welfare-evaluation-planner"
+  },
+  {
    "slug": "socialclaw",
    "name": "Socialclaw",
    "tagline": "Schedule and publish posts across 13 social platforms with one API key.",
@@ -83686,6 +84946,23 @@
    "url": "https://templatesgrokbot.com/bot/solidity-security",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "solvency-assessment-assistant",
+   "name": "Solvency Assessment Assistant",
+   "tagline": "Solvency assessment assistant for insurance actuaries, from data to reporting.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis",
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/finance/data-analysis/solvency-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/solvency-assessment-assistant"
   },
   {
    "slug": "sop-writer",
@@ -84712,6 +85989,21 @@
    ],
    "path": "jobs/pr-and-communications/marketing-and-growth/stakeholder-communication-strategist.md",
    "url": "https://templatesgrokbot.com/bot/stakeholder-communication-strategist"
+  },
+  {
+   "slug": "stakeholder-communications-architect",
+   "name": "Stakeholder Communications Architect",
+   "tagline": "Builds and manages stakeholder communication templates and plans for finance leaders.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/finance/writing-and-content/stakeholder-communications-architect.md",
+   "url": "https://templatesgrokbot.com/bot/stakeholder-communications-architect"
   },
   {
    "slug": "stakeholder-engagement-analyst",
@@ -88706,6 +89998,21 @@
    "url": "https://templatesgrokbot.com/bot/tax-planning-and-analysis-assistant"
   },
   {
+   "slug": "tax-planning-assistant",
+   "name": "Tax Planning Assistant",
+   "tagline": "Tax planning assistant for finance managers, covering deductions, credits, strategies, and compliance.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/finance/data-analysis/tax-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-planning-assistant"
+  },
+  {
    "slug": "tax-planning-strategy-assistant",
    "name": "Tax Planning Strategy Assistant",
    "tagline": "Tax planning and strategy assistant for an EVP of Finances.",
@@ -88786,6 +90093,21 @@
    ],
    "path": "jobs/executives-and-strategy/security-and-compliance/tax-strategy-assistant.md",
    "url": "https://templatesgrokbot.com/bot/tax-strategy-assistant"
+  },
+  {
+   "slug": "tax-strategy-formulation-assistant",
+   "name": "Tax Strategy Formulation Assistant",
+   "tagline": "Researches tax law, analyzes financial data, and designs tax-efficient strategies for your organization.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/finance/research/tax-strategy-formulation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/tax-strategy-formulation-assistant"
   },
   {
    "slug": "tax-strategy-optimizer",
@@ -90012,6 +91334,21 @@
    ],
    "path": "jobs/it-and-development/data-analysis/technology-landscape-analyst.md",
    "url": "https://templatesgrokbot.com/bot/technology-landscape-analyst"
+  },
+  {
+   "slug": "technology-policy-formulation-assistant",
+   "name": "Technology Policy Formulation Assistant",
+   "tagline": "Drafts and reviews technology policies with research, stakeholder input, and impact analysis.",
+   "category": "research",
+   "jobs": [
+    "government"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/government/writing-and-content/technology-policy-formulation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/technology-policy-formulation-assistant"
   },
   {
    "slug": "technology-risk-assessment-assistant",
@@ -92472,6 +93809,59 @@
    "url": "https://templatesgrokbot.com/bot/transition-effects-advisor"
   },
   {
+   "slug": "transport-customer-service-enhancer",
+   "name": "Transport Customer Service Enhancer",
+   "tagline": "Manages customer feedback, support, and service improvements for transportation managers.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "customer-support",
+    "management"
+   ],
+   "topics": [
+    "support-and-community",
+    "data-analysis"
+   ],
+   "path": "jobs/government/support-and-community/transport-customer-service-enhancer.md",
+   "url": "https://templatesgrokbot.com/bot/transport-customer-service-enhancer"
+  },
+  {
+   "slug": "transport-emissions-auditor",
+   "name": "Transport Emissions Auditor",
+   "tagline": "Turns transportation activity data into environmental impact assessments and compliance reports.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "management"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/government/security-and-compliance/transport-emissions-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/transport-emissions-auditor"
+  },
+  {
+   "slug": "transportation-compliance-assistant",
+   "name": "Transportation Compliance Assistant",
+   "tagline": "Keeps transportation compliance current, documented, and audit-ready.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations",
+    "management",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "knowledge-management",
+    "research"
+   ],
+   "path": "jobs/government/security-and-compliance/transportation-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/transportation-compliance-assistant"
+  },
+  {
    "slug": "transportation-cost-planner",
    "name": "Transportation Cost Planner",
    "tagline": "Optimize routes, rates, modes, fuel, loads, compliance, and more to cut logistics costs.",
@@ -92487,6 +93877,55 @@
    "url": "https://templatesgrokbot.com/bot/transportation-cost-planner"
   },
   {
+   "slug": "transportation-cost-benefit-analyst",
+   "name": "Transportation Cost-Benefit Analyst",
+   "tagline": "Cost-benefit analysis for transportation decisions, from data to report.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/government/data-analysis/transportation-cost-benefit-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/transportation-cost-benefit-analyst"
+  },
+  {
+   "slug": "transportation-file-analyzer",
+   "name": "Transportation File Analyzer",
+   "tagline": "Manage transportation files and data analysis with AI-assisted workflows.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/government/data-analysis/transportation-file-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/transportation-file-analyzer"
+  },
+  {
+   "slug": "transportation-inventory-manager",
+   "name": "Transportation Inventory Manager",
+   "tagline": "Manages transportation inventory end-to-end with predictive insights and real-time tracking.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/government/data-analysis/transportation-inventory-manager.md",
+   "url": "https://templatesgrokbot.com/bot/transportation-inventory-manager"
+  },
+  {
    "slug": "transportation-management-optimizer",
    "name": "Transportation Management Optimizer",
    "tagline": "Optimizes logistics operations through TMS data analysis, route planning, and vendor management.",
@@ -92499,6 +93938,53 @@
    ],
    "path": "jobs/operations/data-analysis/transportation-management-optimizer.md",
    "url": "https://templatesgrokbot.com/bot/transportation-management-optimizer"
+  },
+  {
+   "slug": "transportation-network-analyst",
+   "name": "Transportation Network Analyst",
+   "tagline": "Analyzes transportation data to optimize routes, forecast demand, and improve network performance.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/government/data-analysis/transportation-network-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/transportation-network-analyst"
+  },
+  {
+   "slug": "transportation-operations-optimizer",
+   "name": "Transportation Operations Optimizer",
+   "tagline": "Optimizes routes, fleet, costs, and compliance for government transportation operations.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/government/data-analysis/transportation-operations-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/transportation-operations-optimizer"
+  },
+  {
+   "slug": "transportation-risk-manager",
+   "name": "Transportation Risk Manager",
+   "tagline": "Identifies, mitigates, and monitors transportation risks with data-driven insights and plans.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/government/data-analysis/transportation-risk-manager.md",
+   "url": "https://templatesgrokbot.com/bot/transportation-risk-manager"
   },
   {
    "slug": "transportation-safety-compliance-assistant",
@@ -92516,6 +94002,60 @@
    ],
    "path": "jobs/operations/security-and-compliance/transportation-safety-compliance-assistant.md",
    "url": "https://templatesgrokbot.com/bot/transportation-safety-compliance-assistant"
+  },
+  {
+   "slug": "transportation-safety-protocol-builder",
+   "name": "Transportation Safety Protocol Builder",
+   "tagline": "Builds and maintains transportation safety protocols, training, and compliance systems.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/government/security-and-compliance/transportation-safety-protocol-builder.md",
+   "url": "https://templatesgrokbot.com/bot/transportation-safety-protocol-builder"
+  },
+  {
+   "slug": "transportation-technology-integration-planner",
+   "name": "Transportation Technology Integration Planner",
+   "tagline": "Guides technology integration for transportation management, from software selection to performance monitoring.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "operations",
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/government/productivity/transportation-technology-integration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/transportation-technology-integration-planner"
+  },
+  {
+   "slug": "transportation-training-program-builder",
+   "name": "Transportation Training Program Builder",
+   "tagline": "Build tailored, effective training programs for your transportation staff—from needs assessment to evaluation.",
+   "category": "education",
+   "jobs": [
+    "government",
+    "human-resources",
+    "management"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/government/teaching-and-tutoring/transportation-training-program-builder.md",
+   "url": "https://templatesgrokbot.com/bot/transportation-training-program-builder"
   },
   {
    "slug": "trash-talk-generator",
@@ -93542,6 +95082,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "underwriting-process-improvement-assistant",
+   "name": "Underwriting Process Improvement Assistant",
+   "tagline": "Analyzes underwriting data, automates risk assessment, and supports faster, accurate decisions.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "insurance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/underwriting-process-improvement-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/underwriting-process-improvement-assistant"
+  },
+  {
    "slug": "underwriting-support-assistant",
    "name": "Underwriting Support Assistant",
    "tagline": "Streamlines underwriting data, risk, policy, and compliance tasks for insurance risk analysts.",
@@ -93966,6 +95521,22 @@
    "url": "https://templatesgrokbot.com/bot/upstash-redis",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "urban-planning-policy-advisor",
+   "name": "Urban Planning Policy Advisor",
+   "tagline": "Urban planning analysis and policy drafting for policy makers, from land use to community engagement.",
+   "category": "operations",
+   "jobs": [
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/government/data-analysis/urban-planning-policy-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/urban-planning-policy-advisor"
   },
   {
    "slug": "urban-sustainability-analyst",
@@ -98605,6 +100176,24 @@
    ],
    "path": "jobs/human-resources/data-analysis/workplace-culture-assessment-assistant.md",
    "url": "https://templatesgrokbot.com/bot/workplace-culture-assessment-assistant"
+  },
+  {
+   "slug": "workplace-safety-audit-copilot",
+   "name": "Workplace Safety Audit Copilot",
+   "tagline": "Keeps your workplace compliant with health and safety rules, from policies to audits.",
+   "category": "operations",
+   "jobs": [
+    "government",
+    "legal",
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/government/security-and-compliance/workplace-safety-audit-copilot.md",
+   "url": "https://templatesgrokbot.com/bot/workplace-safety-audit-copilot"
   },
   {
    "slug": "worktree-guide",

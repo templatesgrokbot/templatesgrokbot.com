@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **264 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **265 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,7 @@ Recruiting, onboarding and people operations. **264 ready-made Grok Bot template
 | [Data Analysis](data-analysis/README.md) | 80 |
 | [Productivity](productivity/README.md) | 53 |
 | [Writing & Content](writing-and-content/README.md) | 41 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 39 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 40 |
 | [Security & Compliance](security-and-compliance/README.md) | 14 |
 | [Self-Improvement](self-improvement/README.md) | 8 |
 | [Research](research/README.md) | 7 |
@@ -257,6 +257,7 @@ Recruiting, onboarding and people operations. **264 ready-made Grok Bot template
 | [Training Program Developer](../sales/teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
 | [Training Program Development Assistant](teaching-and-tutoring/training-program-development-assistant.md) | Develops, customizes, and evaluates employee training programs from needs analysis to continuous improvement. |
 | [Training Program Implementation Assistant](teaching-and-tutoring/training-program-implementation-assistant.md) | Designs, delivers, and improves training programs from needs analysis to follow-up. |
+| [Transportation Training Program Builder](../government/teaching-and-tutoring/transportation-training-program-builder.md) | Build tailored, effective training programs for your transportation staff—from needs assessment to evaluation. |
 | [Virtual Training Facilitator](teaching-and-tutoring/virtual-training-facilitator.md) | Plans, runs, and improves virtual training sessions for training specialists. |
 
 ## Security & Compliance

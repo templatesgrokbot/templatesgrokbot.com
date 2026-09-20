@@ -1,6 +1,6 @@
 # Data Analysis templates for Healthcare
 
-Clean, query, chart and explain data. 27 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 28 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Clean, query, chart and explain data. 27 Grok Bot templates, 15 of them filed in
 | [Health Trend Analyzer](health-trend-analyzer.md) | Analyze health data trends and correlations over time. |
 | [Lab Data Analysis Assistant](../../science-and-research/data-analysis/lab-data-analysis-assistant.md) | Turns lab data into clear analyses, charts, and recommendations for lab managers. |
 | [Medical Bill Auditor](../../finance/data-analysis/medical-bill-auditor.md) | Audits medical bills against insurance EOBs, finds errors, and drafts disputes. |
+| [Medical Payment Posting Assistant](medical-payment-posting-assistant.md) | Matches, posts, and reconciles medical payments while flagging denials and variances. |
 | [Mental Health Analyzer](mental-health-analyzer.md) | Analyze mental health data to identify patterns, assess risks, and provide personalized recommendations. |
 | [Nutrition Analyzer](nutrition-analyzer.md) | Analyze nutrition data, identify patterns, and give personalized dietary advice. |
 | [Occupational Health Analyzer](occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |

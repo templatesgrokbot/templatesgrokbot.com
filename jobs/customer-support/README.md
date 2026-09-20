@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **118 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **119 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Answering, routing and resolving customer requests. **118 ready-made Grok Bot te
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 43 |
+| [Support & Community](support-and-community/README.md) | 44 |
 | [Data Analysis](data-analysis/README.md) | 26 |
 | [Productivity](productivity/README.md) | 15 |
 | [Writing & Content](writing-and-content/README.md) | 6 |
@@ -73,6 +73,7 @@ Answering, routing and resolving customer requests. **118 ready-made Grok Bot te
 | [Support Automation Planner](support-and-community/support-automation-planner.md) | Automates repetitive support workflows, from ticket routing to reporting and knowledge base upkeep. |
 | [Support Crisis Prep Kit](support-and-community/support-crisis-prep-kit.md) | Plans and prepares crisis management materials for user support teams. |
 | [Support Triage](support-and-community/support-triage.md) | Reads the support queue, groups the duplicates, and surfaces the one bug behind twelve tickets. |
+| [Transport Customer Service Enhancer](../government/support-and-community/transport-customer-service-enhancer.md) | Manages customer feedback, support, and service improvements for transportation managers. |
 | [Troubleshooting Guide Creator](support-and-community/troubleshooting-guide-creator.md) | Turns support knowledge into complete troubleshooting guides, scripts, and tools for your users.\n\n{\"tagline\":\"Turns support knowledge into… |
 | [Zendesk Automation](support-and-community/zendesk-automation.md) | Automate Zendesk ticket, user, and organization workflows with Rube MCP. |
 

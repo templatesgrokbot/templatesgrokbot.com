@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **698 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **705 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,10 +11,10 @@ Leaders making decisions from the whole picture. **698 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 251 |
+| [Data Analysis](data-analysis/README.md) | 256 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 129 |
-| [Research](research/README.md) | 102 |
-| [Productivity](productivity/README.md) | 91 |
+| [Research](research/README.md) | 103 |
+| [Productivity](productivity/README.md) | 92 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 30 |
 | [Security & Compliance](security-and-compliance/README.md) | 29 |
 | [Writing & Content](writing-and-content/README.md) | 20 |
@@ -43,7 +43,7 @@ Leaders making decisions from the whole picture. **698 ready-made Grok Bot templ
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 
-[All 251 Data Analysis templates →](data-analysis/README.md)
+[All 256 Data Analysis templates →](data-analysis/README.md)
 
 ## Marketing & Growth
 
@@ -73,7 +73,7 @@ Leaders making decisions from the whole picture. **698 ready-made Grok Bot templ
 | [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 
-[All 102 Research templates →](research/README.md)
+[All 103 Research templates →](research/README.md)
 
 ## Productivity
 
@@ -88,7 +88,7 @@ Leaders making decisions from the whole picture. **698 ready-made Grok Bot templ
 | [CTO IT Project Navigator](productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Crisis Management Assistant](productivity/crisis-management-assistant.md) | Crisis management assistant for Managing Directors, covering assessment, communication, and recovery. |
 
-[All 91 Productivity templates →](productivity/README.md)
+[All 92 Productivity templates →](productivity/README.md)
 
 ## Sales & Negotiation
 

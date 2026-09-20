@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **685 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **699 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,21 +11,21 @@ Team leads and project managers. **685 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 188 |
-| [Productivity](productivity/README.md) | 174 |
+| [Data Analysis](data-analysis/README.md) | 194 |
+| [Productivity](productivity/README.md) | 177 |
 | [Research](research/README.md) | 64 |
 | [Coding](coding/README.md) | 44 |
+| [Security & Compliance](security-and-compliance/README.md) | 40 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 38 |
-| [Security & Compliance](security-and-compliance/README.md) | 37 |
 | [Knowledge Management](knowledge-management/README.md) | 23 |
 | [Writing & Content](writing-and-content/README.md) | 21 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 17 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 14 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
 | [Office Tools](office-tools/README.md) | 11 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 10 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
 | [Design](design/README.md) | 9 |
-| [Support & Community](support-and-community/README.md) | 7 |
+| [Support & Community](support-and-community/README.md) | 8 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 5 |
 | [Generative Code](generative-code/README.md) | 5 |
 | [Prompt Engineering](prompt-engineering/README.md) | 5 |
@@ -44,7 +44,7 @@ Team leads and project managers. **685 ready-made Grok Bot templates** for this 
 | [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
-[All 188 Data Analysis templates →](data-analysis/README.md)
+[All 194 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **685 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 174 Productivity templates →](productivity/README.md)
+[All 177 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -91,6 +91,21 @@ Team leads and project managers. **685 ready-made Grok Bot templates** for this 
 
 [All 44 Coding templates →](coding/README.md)
 
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
+| [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
+| [Chemical Compliance Assistant](../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
+| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Compliance and Regulatory Assistant](security-and-compliance/compliance-and-regulatory-assistant.md) | Guides project managers through compliance research, documentation, audits, training, and regulatory updates. |
+| [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
+| [Construction Quality Control Assistant](../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
+| [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
+
+[All 40 Security & Compliance templates →](security-and-compliance/README.md)
+
 ## Marketing & Growth
 
 | Template | What it does |
@@ -105,21 +120,6 @@ Team leads and project managers. **685 ready-made Grok Bot templates** for this 
 | [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
 
 [All 38 Marketing & Growth templates →](marketing-and-growth/README.md)
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
-| [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
-| [Chemical Compliance Assistant](../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
-| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
-| [Compliance and Regulatory Assistant](security-and-compliance/compliance-and-regulatory-assistant.md) | Guides project managers through compliance research, documentation, audits, training, and regulatory updates. |
-| [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
-| [Construction Quality Control Assistant](../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
-| [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
-
-[All 37 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Knowledge Management
 
@@ -224,7 +224,7 @@ Team leads and project managers. **685 ready-made Grok Bot templates** for this 
 | [Agile Project Manager Advisor](teaching-and-tutoring/agile-project-manager-advisor.md) | Guides project managers through Agile practices, planning, tracking, and team collaboration. |
 | [Staff Training Planner](teaching-and-tutoring/staff-training-planner.md) | Plans and runs staff training for insurance agency managers, from needs assessment to effectiveness evaluation. |
 
-[All 10 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+[All 11 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Design
 
@@ -250,6 +250,7 @@ Team leads and project managers. **685 ready-made Grok Bot templates** for this 
 | [Logistics Customer Service Improver](../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
 | [Logistics Customer Service Optimizer](../operations/support-and-community/logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
 | [Feedback Loop Manager](support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
+| [Transport Customer Service Enhancer](../government/support-and-community/transport-customer-service-enhancer.md) | Manages customer feedback, support, and service improvements for transportation managers. |
 | [Support Crisis Prep Kit](../customer-support/support-and-community/support-crisis-prep-kit.md) | Plans and prepares crisis management materials for user support teams. |
 | [Insurance Customer Service Optimizer](../operations/support-and-community/insurance-customer-service-optimizer.md) | Analyzes feedback, trains support tools, and streamlines insurance customer service operations. |
 

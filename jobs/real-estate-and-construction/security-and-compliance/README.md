@@ -1,6 +1,6 @@
 # Security & Compliance templates for Real Estate and Construction
 
-Authorised security testing, audits and regulatory work. 18 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 19 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,5 +24,6 @@ Authorised security testing, audits and regulatory work. 18 Grok Bot templates, 
 | [Safety Compliance Assistant](../../operations/security-and-compliance/safety-compliance-assistant.md) | Safety compliance assistant that turns regulations into policies, audits, training, and reports for safety engineers. |
 | [Safety Compliance Planner](../../operations/security-and-compliance/safety-compliance-planner.md) | Turns safety standards into checklists, training, and audit plans for quality control inspectors. |
 | [Safety Protocol Development Assistant](../../operations/security-and-compliance/safety-protocol-development-assistant.md) | Develops, reviews, and updates workplace safety protocols from research to training. |
+| [Workplace Safety Audit Copilot](../../government/security-and-compliance/workplace-safety-audit-copilot.md) | Keeps your workplace compliant with health and safety rules, from policies to audits. |
 
 [← All Real Estate and Construction templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/real-estate-and-construction)

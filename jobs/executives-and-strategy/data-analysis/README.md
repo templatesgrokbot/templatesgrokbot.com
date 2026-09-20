@@ -1,6 +1,6 @@
 # Data Analysis templates for Executives and Strategy
 
-Clean, query, chart and explain data. 251 Grok Bot templates, 165 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 256 Grok Bot templates, 165 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,12 +16,14 @@ Clean, query, chart and explain data. 251 Grok Bot templates, 165 of them filed 
 | [Budget Analysis Assistant](budget-analysis-assistant.md) | Analyzes budgets and financial data to deliver insights and recommendations for a VP of Finance. |
 | [Budget Management Assistant](budget-management-assistant.md) | Analyzes budgets, tracks spending, and forecasts to keep your company's finances on track. |
 | [Budget Optimization Assistant](../../finance/data-analysis/budget-optimization-assistant.md) | Analyzes financial data and budgets to cut costs, forecast, and optimize spending. |
+| [Budget Optimization Assistant for Policy Makers](../../government/data-analysis/budget-optimization-assistant-for-policy-makers.md) | Analyzes budget data to find savings, optimize allocation, and support policy decisions. |
 | [Budget Planning Assistant](budget-planning-assistant.md) | Prepares your budget plan from data gathering to final documentation. |
 | [Budget Preparation and Analysis Assistant](budget-preparation-and-analysis-assistant.md) | Prepares budgets, forecasts, and reports for the EVP of Finances. |
 | [Business Strategy Analyst](../../management/data-analysis/business-strategy-analyst.md) | Turns market data and company inputs into strategic analysis, goals, and plans for management consultants. |
 | [Campaign Effectiveness Analyst](../../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Campaign Insights Analyst](campaign-insights-analyst.md) | Analyzes campaign data to deliver actionable insights and optimization recommendations. |
 | [Campaign Performance Analyst](campaign-performance-analyst.md) | Analyzes campaign data, calculates ROI, and delivers actionable insights for marketing decisions. |
+| [Capital Expenditure Analysis Assistant](../../finance/data-analysis/capital-expenditure-analysis-assistant.md) | Analyzes capital expenditures, calculates returns, and prepares investment recommendations for finance directors. |
 | [Capital Expenditure Planning Assistant](capital-expenditure-planning-assistant.md) | Analyzes, forecasts, and optimizes capital expenditure plans for a VP of Finance. |
 | [Capital Structure Optimizer](capital-structure-optimizer.md) | Optimizes your company's capital structure with data-driven analysis and strategic recommendations. |
 | [Cash Flow Analysis Assistant](../../finance/data-analysis/cash-flow-analysis-assistant.md) | Analyzes cash flow data, forecasts, and reports to support CFO financial decisions. |
@@ -55,6 +57,7 @@ Clean, query, chart and explain data. 251 Grok Bot templates, 165 of them filed 
 | [CSO Pricing Insight Advisor](../../sales/data-analysis/cso-pricing-insight-advisor.md) | Analyzes pricing data to sharpen strategy and boost revenue for sales leaders. |
 | [CTO Investment Evaluator](cto-investment-evaluator.md) | Guides CTOs through cost-benefit analysis for technology decisions, from data gathering to final recommendations. |
 | [Culture Assessment Analyst](culture-assessment-analyst.md) | Turns culture assessment data into clear findings and improvement plans for HR leadership. |
+| [Currency Exchange Forecasting Assistant](../../finance/data-analysis/currency-exchange-forecasting-assistant.md) | Forecasts currency exchange rates and manages related risks for finance directors. |
 | [Currency Risk Management Assistant](currency-risk-management-assistant.md) | Manages currency and exchange risk for a VP of Finance from exposure analysis to compliance and reporting. |
 | [Currency Risk Manager](../../finance/data-analysis/currency-risk-manager.md) | Analyzes currency exposure, evaluates hedges, monitors markets, and reports to stakeholders. |
 | [Customer Experience Insight Engine](customer-experience-insight-engine.md) | Analyzes customer data and designs AI-driven experiences to boost satisfaction and engagement. |
@@ -78,6 +81,7 @@ Clean, query, chart and explain data. 251 Grok Bot templates, 165 of them filed 
 | [Digital Marketing Trends Analyst](digital-marketing-trends-analyst.md) | Analyzes digital marketing data across channels to deliver actionable insights and trend forecasts. |
 | [Digital Performance Analytics Advisor](digital-performance-analytics-advisor.md) | Performance analytics companion for CDOs: from data gathering to reporting and optimization. |
 | [Director Productivity Insight](director-productivity-insight.md) | Analyzes employee productivity data and delivers actionable insights for managing directors. |
+| [Economic Forecasting Assistant](../../government/data-analysis/economic-forecasting-assistant.md) | Economic forecasting assistant for policy makers: data analysis, modeling, and scenario planning. |
 | [Economic Trend Analyst](economic-trend-analyst.md) | Turns economic data into forecasts, risk reports, and strategic plans for the EVP of Finance. |
 | [Employee Engagement Insights](employee-engagement-insights.md) | Turns employee engagement data into clear insights and action plans. |
 | [Employee Performance Analysis Assistant](employee-performance-analysis-assistant.md) | Turns employee performance data into reviews, goals, and plans for your team. |
@@ -198,6 +202,7 @@ Clean, query, chart and explain data. 251 Grok Bot templates, 165 of them filed 
 | [Product Portfolio Strategist](product-portfolio-strategist.md) | Analyzes your product portfolio and returns strategic recommendations for growth, pricing, and positioning. |
 | [Product Positioning Insights Analyst](product-positioning-insights-analyst.md) | Turns market and competitor data into product positioning insights and recommendations. |
 | [Product Strategy Insights Assistant](product-strategy-insights-assistant.md) | Turns market, customer, and competitor data into product strategy insights for business development. |
+| [Public Opinion Analysis Assistant](../../government/data-analysis/public-opinion-analysis-assistant.md) | Turns public opinion data into clear insights for policy decisions. |
 | [Quarterly Finance Report](../../finance/data-analysis/quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |
 | [Retention Survey Architect](retention-survey-architect.md) | Designs retention strategies from surveys, turnover data, and employee feedback. |
 | [Risk Management Director Assistant](risk-management-director-assistant.md) | Identifies, assesses, and manages business risks with AI-driven insights and reporting. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Healthcare
 
-Clinicians, care teams and health administrators. **71 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Clinicians, care teams and health administrators. **76 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,10 +11,10 @@ Clinicians, care teams and health administrators. **71 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 27 |
+| [Data Analysis](data-analysis/README.md) | 28 |
+| [Productivity](productivity/README.md) | 13 |
 | [Research](research/README.md) | 13 |
-| [Productivity](productivity/README.md) | 10 |
-| [Security & Compliance](security-and-compliance/README.md) | 10 |
+| [Security & Compliance](security-and-compliance/README.md) | 11 |
 | [Self-Improvement](self-improvement/README.md) | 7 |
 | [Writing & Content](writing-and-content/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
@@ -33,6 +33,7 @@ Clinicians, care teams and health administrators. **71 ready-made Grok Bot templ
 | [Health Trend Analyzer](data-analysis/health-trend-analyzer.md) | Analyze health data trends and correlations over time. |
 | [Lab Data Analysis Assistant](../science-and-research/data-analysis/lab-data-analysis-assistant.md) | Turns lab data into clear analyses, charts, and recommendations for lab managers. |
 | [Medical Bill Auditor](../finance/data-analysis/medical-bill-auditor.md) | Audits medical bills against insurance EOBs, finds errors, and drafts disputes. |
+| [Medical Payment Posting Assistant](data-analysis/medical-payment-posting-assistant.md) | Matches, posts, and reconciles medical payments while flagging denials and variances. |
 | [Mental Health Analyzer](data-analysis/mental-health-analyzer.md) | Analyze mental health data to identify patterns, assess risks, and provide personalized recommendations. |
 | [Nutrition Analyzer](data-analysis/nutrition-analyzer.md) | Analyze nutrition data, identify patterns, and give personalized dietary advice. |
 | [Occupational Health Analyzer](data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |
@@ -52,6 +53,24 @@ Clinicians, care teams and health administrators. **71 ready-made Grok Bot templ
 | [Test Result Interpretation Assistant](../science-and-research/data-analysis/test-result-interpretation-assistant.md) | Interprets lab test results, flags abnormalities, and drafts reports for laboratory technicians. |
 | [Wellally Tech](data-analysis/wellally-tech.md) | Import health data and query WellAlly knowledge base for personal health management. |
 
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Calibration and Maintenance Scheduler](../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
+| [Call Handling Assistant](../customer-support/productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
+| [Claims Submission Assistant](productivity/claims-submission-assistant.md) | Streamlines medical claims submission from verification to payment reconciliation for billers. |
+| [Crisis Management Planner](../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
+| [Emergency Card Generator](productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
+| [Employee Scheduling Optimizer](../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
+| [Lab Stock Forecast Alerts](../science-and-research/productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
+| [Medical Billing and Coding Assistant](productivity/medical-billing-and-coding-assistant.md) | Verifies codes, submits claims, posts payments, manages denials, and ensures compliant billing for medical billers. |
+| [Operations Crisis Navigator](../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
+| [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
+| [Patient Account Management Assistant](productivity/patient-account-management-assistant.md) | Streamlines patient account workflows from verification to collections with accurate, compliant handling. |
+| [Professional Development Tracker](../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
+| [Time and Attendance Integrator](../finance/productivity/time-and-attendance-integrator.md) | Manages time and attendance integration, tracking, and reporting for payroll accuracy. |
+
 ## Research
 
 | Template | What it does |
@@ -70,21 +89,6 @@ Clinicians, care teams and health administrators. **71 ready-made Grok Bot templ
 | [Travel Health Analyzer](research/travel-health-analyzer.md) | Analyze travel health risks, recommend vaccines, and generate multilingual emergency cards using WHO/CDC data. All advice requires doctor review. No d |
 | [Uniprot Database](../science-and-research/research/uniprot-database.md) | Retrieve protein sequences, annotations, and ID mappings from UniProt via REST API. |
 
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Calibration and Maintenance Scheduler](../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
-| [Call Handling Assistant](../customer-support/productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
-| [Crisis Management Planner](../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
-| [Emergency Card Generator](productivity/emergency-card.md) | Generate emergency medical information summary cards in HTML, JSON, text, and PDF formats for first aid or quick medical visits. |
-| [Employee Scheduling Optimizer](../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
-| [Lab Stock Forecast Alerts](../science-and-research/productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
-| [Operations Crisis Navigator](../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
-| [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
-| [Professional Development Tracker](../human-resources/productivity/professional-development-tracker.md) | Tracks training, certifications, and strength growth for your workforce. |
-| [Time and Attendance Integrator](../finance/productivity/time-and-attendance-integrator.md) | Manages time and attendance integration, tracking, and reporting for payroll accuracy. |
-
 ## Security & Compliance
 
 | Template | What it does |
@@ -96,6 +100,7 @@ Clinicians, care teams and health administrators. **71 ready-made Grok Bot templ
 | [Fda Food Safety Auditor](../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
 | [Information Security Manager Iso27001](security-and-compliance/information-security-manager-iso27001.md) | Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies. |
 | [Laboratory Quality Control Assistant](../science-and-research/security-and-compliance/laboratory-quality-control-assistant.md) | Manages lab quality control tasks from data analysis to audits and compliance. |
+| [Post-Market Surveillance Reporter](../government/security-and-compliance/post-market-surveillance-reporter.md) | Post-market surveillance and reporting assistant for regulatory affairs specialists. |
 | [QC Compliance Report Builder](../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
 | [Regulatory Compliance Navigator](../executives-and-strategy/security-and-compliance/regulatory-compliance-navigator.md) | Tracks regulatory changes, builds compliance programs, and prepares audit-ready documentation for your organization. |
 | [Service Compliance Risk Auditor](../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |

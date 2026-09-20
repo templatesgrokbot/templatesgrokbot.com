@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 174 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 177 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -51,6 +51,7 @@ Plan, prioritise and clear the recurring admin. 174 Grok Bot templates, 61 of th
 | [Diary](../../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Digital Transformation Initiative Assistant](../../it-and-development/productivity/digital-transformation-initiative-assistant.md) | Steers digital transformation initiatives from strategy to execution with data-driven insights and hands-on support. |
 | [Digital Transformation Strategy Assistant](../../executives-and-strategy/productivity/digital-transformation-strategy-assistant.md) | Guides strategy managers through digital transformation from readiness to rollout. |
+| [Disaster Response Transportation Planner](../../government/productivity/disaster-response-transportation-planner.md) | Disaster response planning for transportation managers: assess risks, allocate resources, coordinate, and recover. |
 | [Doordash Group Orders](../../operations/productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
 | [Ecosystem Restoration Planner](../../science-and-research/productivity/ecosystem-restoration-planner.md) | Plans ecosystem restoration projects from data gathering to long-term management. |
 | [Editorial Calendar Management Assistant](../../pr-and-communications/productivity/editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |
@@ -62,6 +63,7 @@ Plan, prioritise and clear the recurring admin. 174 Grok Bot templates, 61 of th
 | [Famulor](../../operations/productivity/famulor-skill.md) | Operate Famulor assistants, calls, campaigns, messaging, and workspace settings through its MCP server. |
 | [File Organizer](../../operations/productivity/file-organizer.md) | Analyzes, deduplicates, and restructures your files into a logical folder hierarchy. |
 | [Find Complementary Founders](../../executives-and-strategy/productivity/find-complementary-founders.md) | Match founders by evidence, not claims — publish only your own owner's profile. |
+| [Fleet Maintenance Budget Tracker](../../government/productivity/fleet-maintenance-budget-tracker.md) | Keeps your fleet's maintenance scheduled, tracked, and within budget from one chat. |
 | [Fleet Maintenance Scheduler](../../operations/productivity/fleet-maintenance-scheduler.md) | Plans and tracks fleet maintenance to cut downtime and keep vehicles compliant. |
 | [Flowhunt](../../operations/productivity/flowhunt-skill.md) | Guides a 5-question intake then audits tools to rank automation quick wins. |
 | [Game Changing Features](../../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
@@ -171,6 +173,7 @@ Plan, prioritise and clear the recurring admin. 174 Grok Bot templates, 61 of th
 | [To Issues](../../product-development/productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
 | [Todoist Automation](../../operations/productivity/todoist-automation.md) | Automate Todoist tasks, projects, sections, and filters via Rube MCP. |
 | [Track Management](../../it-and-development/productivity/track-management.md) | Manage Conductor tracks from spec to completion. |
+| [Transportation Technology Integration Planner](../../government/productivity/transportation-technology-integration-planner.md) | Guides technology integration for transportation management, from software selection to performance monitoring. |
 | [Trello Automation](../../operations/productivity/trello-automation.md) | Automate Trello boards, cards, lists, and assignments via Rube MCP. |
 | [Triage](../../it-and-development/productivity/triage.md) | Triage issues and PRs through a state machine to agent-ready briefs. |
 | [Vendor Watch](../../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |

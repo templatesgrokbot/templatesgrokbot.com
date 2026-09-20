@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Human Resources
 
-Explain, quiz and guide someone through a subject. 39 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 40 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -44,6 +44,7 @@ Explain, quiz and guide someone through a subject. 39 Grok Bot templates, 12 of 
 | [Training Program Developer](../../sales/teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
 | [Training Program Development Assistant](training-program-development-assistant.md) | Develops, customizes, and evaluates employee training programs from needs analysis to continuous improvement. |
 | [Training Program Implementation Assistant](training-program-implementation-assistant.md) | Designs, delivers, and improves training programs from needs analysis to follow-up. |
+| [Transportation Training Program Builder](../../government/teaching-and-tutoring/transportation-training-program-builder.md) | Build tailored, effective training programs for your transportation staff—from needs assessment to evaluation. |
 | [Virtual Training Facilitator](virtual-training-facilitator.md) | Plans, runs, and improves virtual training sessions for training specialists. |
 
 [← All Human Resources templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/human-resources)

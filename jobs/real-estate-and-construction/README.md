@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **136 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **138 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,9 +11,9 @@ Property, building and site work. **136 ready-made Grok Bot templates** for this
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 36 |
+| [Data Analysis](data-analysis/README.md) | 37 |
 | [Productivity](productivity/README.md) | 34 |
-| [Security & Compliance](security-and-compliance/README.md) | 18 |
+| [Security & Compliance](security-and-compliance/README.md) | 19 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 15 |
 | [Research](research/README.md) | 12 |
 | [Writing & Content](writing-and-content/README.md) | 7 |
@@ -26,6 +26,7 @@ Property, building and site work. **136 ready-made Grok Bot templates** for this
 
 | Template | What it does |
 |---|---|
+| [Asset Lifecycle Manager](../finance/data-analysis/asset-lifecycle-manager.md) | Manages company assets end-to-end: tracking, valuation, maintenance, risk, and portfolio decisions. |
 | [Auction Analyst AI](data-analysis/auction-analyst-ai.md) | Analyzes notices, risks, and property value in judicial and extrajudicial auctions. |
 | [Auction Appraiser](data-analysis/auction-appraiser.md) | Appraises auction properties using comparative, income, and cost methods per ABNT NBR 14653. |
 | [Auction Market Analyst](../finance/data-analysis/auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |
@@ -124,6 +125,7 @@ Property, building and site work. **136 ready-made Grok Bot templates** for this
 | [Safety Compliance Assistant](../operations/security-and-compliance/safety-compliance-assistant.md) | Safety compliance assistant that turns regulations into policies, audits, training, and reports for safety engineers. |
 | [Safety Compliance Planner](../operations/security-and-compliance/safety-compliance-planner.md) | Turns safety standards into checklists, training, and audit plans for quality control inspectors. |
 | [Safety Protocol Development Assistant](../operations/security-and-compliance/safety-protocol-development-assistant.md) | Develops, reviews, and updates workplace safety protocols from research to training. |
+| [Workplace Safety Audit Copilot](../government/security-and-compliance/workplace-safety-audit-copilot.md) | Keeps your workplace compliant with health and safety rules, from policies to audits. |
 
 ## Sales & Negotiation
 

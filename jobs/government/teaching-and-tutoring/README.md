@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Government
 
-Explain, quiz and guide someone through a subject. 7 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 8 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,5 +13,6 @@ Explain, quiz and guide someone through a subject. 7 Grok Bot templates, 0 of th
 | [Employee Training Program Developer](../../human-resources/teaching-and-tutoring/employee-training-program-developer.md) | Plans, builds, and evaluates employee training programs from needs analysis to reporting. |
 | [Interactive Training Module Designer](../../human-resources/teaching-and-tutoring/interactive-training-module-designer.md) | Designs and builds interactive training modules with AI-generated content, scenarios, and assessments. |
 | [Learning Path Architect for HR](../../education/teaching-and-tutoring/learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
+| [Transportation Training Program Builder](transportation-training-program-builder.md) | Build tailored, effective training programs for your transportation staff—from needs assessment to evaluation. |
 
 [← All Government templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/government)

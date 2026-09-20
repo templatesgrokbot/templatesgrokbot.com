@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 202 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 205 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -31,6 +31,7 @@ Clean, query, chart and explain data. 202 Grok Bot templates, 143 of them filed 
 | [Brand Perception Insight Finder](brand-perception-insight-finder.md) | Analyzes brand perception from public and internal data to deliver actionable insights. |
 | [Carbon Footprint Analysis Assistant](carbon-footprint-analysis-assistant.md) | Turns your company's activity data into a carbon footprint analysis with reduction strategies and stakeholder-ready reports. |
 | [Carbon Footprint Assessment Assistant](carbon-footprint-assessment-assistant.md) | Guides energy engineers through carbon footprint assessment and reduction strategies. |
+| [Catastrophe Risk Analysis Assistant](../../finance/data-analysis/catastrophe-risk-analysis-assistant.md) | Analyzes catastrophe data, models risk, and prepares reports for insurance decisions. |
 | [Chemical Data Visualization Assistant](chemical-data-visualization-assistant.md) | Turns chemical data into clear visualizations for engineers and researchers. |
 | [Chemical Database Manager](chemical-database-manager.md) | Manages chemical databases end-to-end: entry, validation, maintenance, analysis, reporting, and compliance tracking for chemical engineers. |
 | [Chemical Process Optimizer](chemical-process-optimizer.md) | Optimizes chemical processes through data analysis, simulation, and improvement recommendations. |
@@ -61,6 +62,7 @@ Clean, query, chart and explain data. 202 Grok Bot templates, 143 of them filed 
 | [Data Visualization Assistant](data-visualization-assistant.md) | Turns raw research data into clear, interactive visual stories with AI guidance. |
 | [Datacommons Client](datacommons-client.md) | Queries public statistical data from Data Commons for analysis. |
 | [Doc2math](../../it-and-development/data-analysis/doc2math.md) | Convert narrative technical docs into grounded mathematical problem specifications. |
+| [Economic Forecasting Assistant](../../government/data-analysis/economic-forecasting-assistant.md) | Economic forecasting assistant for policy makers: data analysis, modeling, and scenario planning. |
 | [Economic Impact Analysis Assistant](economic-impact-analysis-assistant.md) | Economic impact analysis for market research analysts, from data to report. |
 | [Energy Audit Analyst](energy-audit-analyst.md) | Turns energy data into audit findings, savings, and reports for energy engineers. |
 | [Energy Audit Assistant](energy-audit-assistant.md) | Turns energy data into audit findings, savings plans, and compliance-ready reports. |
@@ -70,6 +72,7 @@ Clean, query, chart and explain data. 202 Grok Bot templates, 143 of them filed 
 | [Energy Market Analysis Assistant](energy-market-analysis-assistant.md) | Analyzes energy market data, forecasts trends, and assesses risks for energy engineers. |
 | [Environmental GIS Assistant](environmental-gis-assistant.md) | Turns GIS data into maps, analyses, and reports for environmental consulting. |
 | [Environmental Impact Analysis Assistant](environmental-impact-analysis-assistant.md) | Environmental impact analysis companion for engineers, turning data into assessments and reports. |
+| [Environmental Policy Modeling Assistant](../../government/data-analysis/environmental-policy-modeling-assistant.md) | Turns environmental data into policy options, impact assessments, and stakeholder-ready communications. |
 | [Environmental Risk Assessment Assistant](environmental-risk-assessment-assistant.md) | Assists environmental engineers with risk assessment, analysis, reporting, and compliance. |
 | [Enzyme Kinetics Modeling Assistant](enzyme-kinetics-modeling-assistant.md) | Analyzes enzyme kinetics data, fits models, and drafts reports for biochemists. |
 | [ESG Analysis Assistant](esg-analysis-assistant.md) | Turns ESG data into clear reports, risk checks, and improvement plans for sustainability analysts. |
