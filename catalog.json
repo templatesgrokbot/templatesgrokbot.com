@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 6333,
+ "count": 6429,
  "templates": [
   {
    "slug": "007",
@@ -431,10 +431,12 @@
    "category": "engineering",
    "jobs": [
     "it-and-development",
-    "product-development"
+    "product-development",
+    "government"
    ],
    "topics": [
-    "security-and-compliance"
+    "security-and-compliance",
+    "writing-and-content"
    ],
    "path": "jobs/it-and-development/security-and-compliance/accessibility-tester.md",
    "url": "https://templatesgrokbot.com/bot/accessibility-tester",
@@ -1023,6 +1025,21 @@
    "url": "https://templatesgrokbot.com/bot/advanced-evaluation",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "advanced-routing-configuration-assistant",
+   "name": "Advanced Routing Configuration Assistant",
+   "tagline": "Optimizes advanced routing configurations for network administrators.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/advanced-routing-configuration-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/advanced-routing-configuration-assistant"
   },
   {
    "slug": "advanced-routing-protocol-assistant",
@@ -2525,6 +2542,23 @@
    "url": "https://templatesgrokbot.com/bot/ai-ml-project-assistant"
   },
   {
+   "slug": "ai-ml-testing-assistant",
+   "name": "AI/ML Testing Assistant",
+   "tagline": "AI/ML testing assistant for QA testers covering generation, analysis, and automation tasks.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "generative-ai-and-llm",
+    "security-and-compliance",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/coding/ai-ml-testing-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/ai-ml-testing-assistant"
+  },
+  {
    "slug": "aider-delegate",
    "name": "Aider Delegate",
    "tagline": "Delegate bounded coding tasks to Aider and review its diff before committing.",
@@ -3776,6 +3810,20 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "api-documentation-assistant",
+   "name": "API Documentation Assistant",
+   "tagline": "Drafts complete API documentation for website developers, from endpoints to troubleshooting.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/api-documentation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/api-documentation-assistant"
+  },
+  {
    "slug": "api-documentation-generator",
    "name": "Api Documentation Generator",
    "tagline": "Generates comprehensive API documentation from codebases including OpenAPI specs, developer guides, and code examples.",
@@ -4045,6 +4093,22 @@
    "url": "https://templatesgrokbot.com/bot/api-testing-observability-api-mock",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "api-testing-support-assistant",
+   "name": "API Testing Support Assistant",
+   "tagline": "Guides QA testers through API testing tasks with documentation, test plans, and reports.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/coding/api-testing-support-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/api-testing-support-assistant"
   },
   {
    "slug": "api-version-diff-auditor",
@@ -5564,6 +5628,20 @@
    "url": "https://templatesgrokbot.com/bot/automated-claim-processing-assistant"
   },
   {
+   "slug": "automated-test-script-developer",
+   "name": "Automated Test Script Developer",
+   "tagline": "Develops, runs, and maintains automated test scripts for QA testers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/automated-test-script-developer.md",
+   "url": "https://templatesgrokbot.com/bot/automated-test-script-developer"
+  },
+  {
    "slug": "automated-testing-assistant",
    "name": "Automated Testing Assistant",
    "tagline": "Automated testing assistant for developers: scripts, data, environments, execution, analysis, coverage, maintenance, reporting.",
@@ -5626,6 +5704,20 @@
    ],
    "path": "jobs/management/productivity/automation-opportunity-finder.md",
    "url": "https://templatesgrokbot.com/bot/automation-opportunity-finder"
+  },
+  {
+   "slug": "automation-tool-selection-assistant",
+   "name": "Automation Tool Selection Assistant",
+   "tagline": "Guides QA testers in selecting and implementing the right automation tools.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/it-and-development/research/automation-tool-selection-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/automation-tool-selection-assistant"
   },
   {
    "slug": "autonomous-agent-patterns",
@@ -8461,6 +8553,22 @@
    "url": "https://templatesgrokbot.com/bot/bamboohr-automation",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "bandwidth-management-assistant",
+   "name": "Bandwidth Management Assistant",
+   "tagline": "Analyzes network traffic and manages bandwidth for network administrators.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/bandwidth-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/bandwidth-management-assistant"
   },
   {
    "slug": "banner-design",
@@ -13545,6 +13653,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "chatbot-integration-designer",
+   "name": "Chatbot Integration Designer",
+   "tagline": "Designs, builds, and refines chatbots for websites, from conversation flows to multilingual support.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "prompt-engineering",
+    "translation",
+    "support-and-community"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/chatbot-integration-designer.md",
+   "url": "https://templatesgrokbot.com/bot/chatbot-integration-designer"
+  },
+  {
    "slug": "check-identity-pack",
    "name": "Check Identity Pack",
    "tagline": "Run AFP 100-point or AUSTRAC identity checks and report exactly what's missing.",
@@ -13986,6 +14111,21 @@
    "url": "https://templatesgrokbot.com/bot/ci-cd-and-automation",
    "adapted_from": "https://github.com/addyosmani/agent-skills/tree/main/skills/ci-cd-and-automation",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "ci-pipeline-assistant",
+   "name": "CI Pipeline Assistant",
+   "tagline": "Guides QA testers through continuous integration tasks from test generation to deployment.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/ci-pipeline-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/ci-pipeline-assistant"
   },
   {
    "slug": "ci-cd-pipeline-assistant",
@@ -15873,6 +16013,21 @@
    "url": "https://templatesgrokbot.com/bot/cloud-integration-navigator"
   },
   {
+   "slug": "cloud-integration-planning-assistant",
+   "name": "Cloud Integration Planning Assistant",
+   "tagline": "Plan and manage your cloud integration from assessment to optimization, with every step documented and approved.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/cloud-integration-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/cloud-integration-planning-assistant"
+  },
+  {
    "slug": "cloud-k8s",
    "name": "Cloud K8s",
    "tagline": "Authorized cloud, container, and Kubernetes security assessment.",
@@ -15904,6 +16059,21 @@
    ],
    "path": "jobs/it-and-development/cloud-and-devops/cloud-migration-blueprint-builder.md",
    "url": "https://templatesgrokbot.com/bot/cloud-migration-blueprint-builder"
+  },
+  {
+   "slug": "cloud-migration-planning-assistant",
+   "name": "Cloud Migration Planning Assistant",
+   "tagline": "Plans cloud migrations from assessment to post-migration support.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/cloud-migration-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/cloud-migration-planning-assistant"
   },
   {
    "slug": "cloud-migration-specialist",
@@ -17626,6 +17796,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "communication-channel-optimizer",
+   "name": "Communication Channel Optimizer",
+   "tagline": "Optimizes your organization's communication channels for efficiency and engagement.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/it-and-development/productivity/communication-channel-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/communication-channel-optimizer"
+  },
+  {
    "slug": "communication-excellence-coach",
    "name": "Communication Excellence Coach",
    "tagline": "Review drafts, calibrate tone, roleplay conversations, and improve presentations using proven frameworks.",
@@ -18393,6 +18579,23 @@
    "url": "https://templatesgrokbot.com/bot/competitor-ux-analyst"
   },
   {
+   "slug": "competitor-website-analyst",
+   "name": "Competitor Website Analyst",
+   "tagline": "Tracks competitor websites and turns their strategies into actionable web development insights.",
+   "category": "research",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "design"
+   ],
+   "path": "jobs/it-and-development/research/competitor-website-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/competitor-website-analyst"
+  },
+  {
    "slug": "compile-knowledge",
    "name": "Compile Knowledge",
    "tagline": "Compile durable, non-obvious findings into interlinked markdown knowledge files with an index.",
@@ -18670,6 +18873,24 @@
    "url": "https://templatesgrokbot.com/bot/compliance-intel-for-ra-specialists"
   },
   {
+   "slug": "compliance-monitoring-analyst",
+   "name": "Compliance Monitoring Analyst",
+   "tagline": "Monitors compliance, prepares audits, and automates reporting for systems analysts.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "legal",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/compliance-monitoring-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-monitoring-analyst"
+  },
+  {
    "slug": "compliance-monitoring-assistant",
    "name": "Compliance Monitoring Assistant",
    "tagline": "Monitors legal changes, audits compliance, and drafts reports and training for your legal practice.",
@@ -18800,6 +19021,22 @@
    ],
    "path": "jobs/legal/data-analysis/compliance-reporting-automation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/compliance-reporting-automation-assistant"
+  },
+  {
+   "slug": "compliance-risk-management-assistant",
+   "name": "Compliance Risk Management Assistant",
+   "tagline": "Compliance and risk management assistant for IT consultants to assess, monitor, and mitigate risks.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/compliance-risk-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/compliance-risk-management-assistant"
   },
   {
    "slug": "compliance-route-planner",
@@ -22352,6 +22589,22 @@
    "url": "https://templatesgrokbot.com/bot/cross-border-logistics-planner"
   },
   {
+   "slug": "cross-browser-testing-techniques-assistant",
+   "name": "Cross-Browser Testing Techniques Assistant",
+   "tagline": "Plans, runs, and analyzes cross-browser tests for QA testers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/coding/cross-browser-testing-techniques-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/cross-browser-testing-techniques-assistant"
+  },
+  {
    "slug": "cross-channel-email-integration-planner",
    "name": "Cross-Channel Email Integration Planner",
    "tagline": "Plans and drafts cross-channel email integrations and campaign copy for marketing specialists.",
@@ -23409,6 +23662,21 @@
    "url": "https://templatesgrokbot.com/bot/custom-payroll-report-builder"
   },
   {
+   "slug": "custom-software-recommendation-assistant",
+   "name": "Custom Software Recommendation Assistant",
+   "tagline": "Recommends custom software matched to client needs, budget, and growth plans.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/research/custom-software-recommendation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/custom-software-recommendation-assistant"
+  },
+  {
    "slug": "customer-data-manager",
    "name": "Customer Data Manager",
    "tagline": "Manages customer data entry, validation, cleaning, and analysis for data entry specialists.",
@@ -24464,6 +24732,22 @@
    "url": "https://templatesgrokbot.com/bot/cybersecurity-advisory-assistant"
   },
   {
+   "slug": "cybersecurity-assessment-assistant",
+   "name": "Cybersecurity Assessment Assistant",
+   "tagline": "Cybersecurity assessment assistant for IT consultants, covering scans, reviews, and planning.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/cybersecurity-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/cybersecurity-assessment-assistant"
+  },
+  {
    "slug": "cybersecurity-assessment-guide",
    "name": "Cybersecurity Assessment Guide",
    "tagline": "Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response.",
@@ -24594,6 +24878,22 @@
    ],
    "path": "jobs/executives-and-strategy/security-and-compliance/cybersecurity-strategy-planner.md",
    "url": "https://templatesgrokbot.com/bot/cybersecurity-strategy-planner"
+  },
+  {
+   "slug": "cybersecurity-threat-analyst",
+   "name": "Cybersecurity Threat Analyst",
+   "tagline": "Cybersecurity threat analysis and defense planning for network administrators.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/cybersecurity-threat-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/cybersecurity-threat-analyst"
   },
   {
    "slug": "cybersecurity-trend-analyst",
@@ -24913,6 +25213,23 @@
    ],
    "path": "jobs/customer-support/support-and-community/data-backup-and-recovery-assistant.md",
    "url": "https://templatesgrokbot.com/bot/data-backup-and-recovery-assistant"
+  },
+  {
+   "slug": "data-backup-strategy-planner",
+   "name": "Data Backup Strategy Planner",
+   "tagline": "Designs, audits, and maintains your organization's data backup strategy end to end.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations",
+    "government"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/data-backup-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/data-backup-strategy-planner"
   },
   {
    "slug": "data-center-network-assistant",
@@ -25390,6 +25707,21 @@
    "url": "https://templatesgrokbot.com/bot/data-migration-support-assistant"
   },
   {
+   "slug": "data-modeling-design-assistant",
+   "name": "Data Modeling Design Assistant",
+   "tagline": "Data modeling assistant for systems analysts: diagrams, models, dictionaries, and migration plans.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/data-analysis/data-modeling-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/data-modeling-design-assistant"
+  },
+  {
    "slug": "data-preprocessing-advisor",
    "name": "Data Preprocessing Advisor",
    "tagline": "Guides data scientists through every data preprocessing step, from cleaning to feature engineering.",
@@ -25573,6 +25905,40 @@
    ],
    "path": "jobs/it-and-development/data-analysis/data-query-optimization-assistant.md",
    "url": "https://templatesgrokbot.com/bot/data-query-optimization-assistant"
+  },
+  {
+   "slug": "data-recovery-planning-assistant",
+   "name": "Data Recovery Planning Assistant",
+   "tagline": "Guides IT support through data recovery planning, tools, troubleshooting, and policy.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "teaching-and-tutoring",
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/data-recovery-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/data-recovery-planning-assistant"
+  },
+  {
+   "slug": "data-recovery-strategy-assistant",
+   "name": "Data Recovery Strategy Assistant",
+   "tagline": "Assess, plan, test, and improve your data recovery strategy end to end.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content",
+    "teaching-and-tutoring",
+    "research"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/data-recovery-strategy-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/data-recovery-strategy-assistant"
   },
   {
    "slug": "data-report-generator",
@@ -26444,6 +26810,24 @@
    "url": "https://templatesgrokbot.com/bot/dbt-transformation-patterns",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "dc-log-analyzer-for-admins",
+   "name": "DC Log Analyzer for Admins",
+   "tagline": "Data center insights and operational guidance for network administrators. Analyzes logs, plans capacity, and drafts documentation.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/dc-log-analyzer-for-admins.md",
+   "url": "https://templatesgrokbot.com/bot/dc-log-analyzer-for-admins"
   },
   {
    "slug": "ddd-context-mapping",
@@ -31084,6 +31468,23 @@
    ],
    "path": "jobs/management/marketing-and-growth/e-commerce-launch-strategist.md",
    "url": "https://templatesgrokbot.com/bot/e-commerce-launch-strategist"
+  },
+  {
+   "slug": "e-commerce-optimization-assistant",
+   "name": "E-commerce Optimization Assistant",
+   "tagline": "Optimizes e-commerce websites for SEO, conversions, UX, performance, and personalization.",
+   "category": "marketing",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "social-media",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/marketing-and-growth/e-commerce-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/e-commerce-optimization-assistant"
   },
   {
    "slug": "e-commerce-pricing-optimizer",
@@ -36332,6 +36733,20 @@
    "url": "https://templatesgrokbot.com/bot/exploratory-data-analysis",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/exploratory-data-analysis",
    "source_license": "MIT"
+  },
+  {
+   "slug": "exploratory-testing-assistant",
+   "name": "Exploratory Testing Assistant",
+   "tagline": "Exploratory testing assistant for QA testers, turning requirements into test cases, charters, and reports.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/exploratory-testing-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/exploratory-testing-assistant"
   },
   {
    "slug": "expo-api-routes",
@@ -44472,6 +44887,20 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "hardware-selection-assistant",
+   "name": "Hardware Selection Assistant",
+   "tagline": "Hardware selection assistant for IT support specialists, from research to recommendations.",
+   "category": "research",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/it-and-development/research/hardware-selection-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/hardware-selection-assistant"
+  },
+  {
    "slug": "hardware-support-assistant",
    "name": "Hardware Support Assistant",
    "tagline": "Guides hardware users through troubleshooting, setup, upgrades, and maintenance with clear steps.",
@@ -47385,6 +47814,20 @@
    "url": "https://templatesgrokbot.com/bot/image-analysis-assistant"
   },
   {
+   "slug": "image-description-and-tagging-assistant",
+   "name": "Image Description and Tagging Assistant",
+   "tagline": "Describes, tags, and organizes images for accessible, searchable websites.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/image-description-and-tagging-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/image-description-and-tagging-assistant"
+  },
+  {
    "slug": "image-enhancer",
    "name": "Image Enhancer",
    "tagline": "Enhances image resolution, sharpness, and clarity for presentations, documentation, or social media.",
@@ -47678,6 +48121,22 @@
    ],
    "path": "jobs/customer-support/cloud-and-devops/incident-reporting-and-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/incident-reporting-and-analysis-assistant"
+  },
+  {
+   "slug": "incident-reporting-assistant",
+   "name": "Incident Reporting Assistant",
+   "tagline": "Incident reporting assistant for IT support specialists, from triage to prevention.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/incident-reporting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/incident-reporting-assistant"
   },
   {
    "slug": "incident-reporting-navigator",
@@ -48481,6 +48940,22 @@
    "url": "https://templatesgrokbot.com/bot/infrastructure-optimization-advisor"
   },
   {
+   "slug": "infrastructure-report-builder",
+   "name": "Infrastructure Report Builder",
+   "tagline": "Analyzes IT infrastructure data and delivers actionable reports for consultants and their clients.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "cloud-and-devops",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/data-analysis/infrastructure-report-builder.md",
+   "url": "https://templatesgrokbot.com/bot/infrastructure-report-builder"
+  },
+  {
    "slug": "infrastructure-skypilot",
    "name": "Infrastructure Skypilot",
    "tagline": "Orchestrates ML workloads across clouds with automatic cost optimization.",
@@ -48847,6 +49322,21 @@
    "url": "https://templatesgrokbot.com/bot/instagram",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "installation-guide-creator",
+   "name": "Installation Guide Creator",
+   "tagline": "Creates and maintains software installation guides, troubleshooting aids, and support scripts for IT teams.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/installation-guide-creator.md",
+   "url": "https://templatesgrokbot.com/bot/installation-guide-creator"
   },
   {
    "slug": "instructional-design-assistant",
@@ -50946,6 +51436,23 @@
    "url": "https://templatesgrokbot.com/bot/iot-network-integration-assistant"
   },
   {
+   "slug": "iot-network-integration-planner",
+   "name": "IoT Network Integration Planner",
+   "tagline": "IoT network integration assistant for network administrators managing device lifecycle, security, and data.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content",
+    "productivity",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/iot-network-integration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/iot-network-integration-planner"
+  },
+  {
    "slug": "iot-security-analyst-assistant",
    "name": "IoT Security Analyst Assistant",
    "tagline": "IoT security analysis, policy, training, and incident response support for cybersecurity analysts.",
@@ -51137,6 +51644,23 @@
    "url": "https://templatesgrokbot.com/bot/it-ai-automation-strategist"
   },
   {
+   "slug": "it-automation-solutions-architect",
+   "name": "IT Automation Solutions Architect",
+   "tagline": "Designs and implements AI-driven IT automation solutions for consultants.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "cloud-and-devops",
+    "prompt-engineering",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/it-automation-solutions-architect.md",
+   "url": "https://templatesgrokbot.com/bot/it-automation-solutions-architect"
+  },
+  {
    "slug": "it-budget-and-cost-optimization-advisor",
    "name": "IT Budget and Cost Optimization Advisor",
    "tagline": "Analyzes IT spending and builds cost-optimization plans for CIOs.",
@@ -51227,6 +51751,39 @@
    ],
    "path": "jobs/executives-and-strategy/data-analysis/it-budget-planning-assistant.md",
    "url": "https://templatesgrokbot.com/bot/it-budget-planning-assistant"
+  },
+  {
+   "slug": "it-budget-scenario-planner",
+   "name": "IT Budget Scenario Planner",
+   "tagline": "Turns IT spending history and plans into forecasts, scenarios, and reports for budget decisions.",
+   "category": "finance",
+   "jobs": [
+    "it-and-development",
+    "finance",
+    "government",
+    "management"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/it-and-development/data-analysis/it-budget-scenario-planner.md",
+   "url": "https://templatesgrokbot.com/bot/it-budget-scenario-planner"
+  },
+  {
+   "slug": "it-budgeting-and-cost-analysis-assistant",
+   "name": "IT Budgeting and Cost Analysis Assistant",
+   "tagline": "Analyzes IT spend, forecasts costs, and recommends optimizations for IT consultants.",
+   "category": "finance",
+   "jobs": [
+    "it-and-development",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/data-analysis/it-budgeting-and-cost-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/it-budgeting-and-cost-analysis-assistant"
   },
   {
    "slug": "it-compliance-and-governance-assistant",
@@ -51329,6 +51886,23 @@
    "url": "https://templatesgrokbot.com/bot/it-disaster-recovery-architect"
   },
   {
+   "slug": "it-disaster-recovery-blueprint",
+   "name": "IT Disaster Recovery Blueprint",
+   "tagline": "Disaster recovery planning assistant for IT support specialists.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/it-disaster-recovery-blueprint.md",
+   "url": "https://templatesgrokbot.com/bot/it-disaster-recovery-blueprint"
+  },
+  {
    "slug": "it-disaster-recovery-plan-architect",
    "name": "IT Disaster Recovery Plan Architect",
    "tagline": "Builds and maintains your IT disaster recovery plan from risk assessment to drills.",
@@ -51344,6 +51918,21 @@
    ],
    "path": "jobs/executives-and-strategy/cloud-and-devops/it-disaster-recovery-plan-architect.md",
    "url": "https://templatesgrokbot.com/bot/it-disaster-recovery-plan-architect"
+  },
+  {
+   "slug": "it-disaster-recovery-planner",
+   "name": "IT Disaster Recovery Planner",
+   "tagline": "Builds and maintains your disaster recovery plan, from risk analysis to testing and updates.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/it-disaster-recovery-planner.md",
+   "url": "https://templatesgrokbot.com/bot/it-disaster-recovery-planner"
   },
   {
    "slug": "it-governance-toolkit-builder",
@@ -51377,6 +51966,22 @@
    ],
    "path": "jobs/executives-and-strategy/data-analysis/it-infrastructure-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/it-infrastructure-analysis-assistant"
+  },
+  {
+   "slug": "it-infrastructure-assessment-assistant",
+   "name": "IT Infrastructure Assessment Assistant",
+   "tagline": "Assesses IT infrastructure across network, servers, storage, security, cloud, and more, delivering reports and recommendations.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/it-infrastructure-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/it-infrastructure-assessment-assistant"
   },
   {
    "slug": "it-infrastructure-planning-assistant",
@@ -51465,6 +52070,21 @@
    "source_license": "MIT"
   },
   {
+   "slug": "it-performance-benchmarking-analyst",
+   "name": "IT Performance Benchmarking Analyst",
+   "tagline": "Performance benchmarking analyst for IT consultants, turning raw metrics into optimization actions.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/data-analysis/it-performance-benchmarking-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/it-performance-benchmarking-analyst"
+  },
+  {
    "slug": "it-policy-and-compliance-assistant",
    "name": "IT Policy and Compliance Assistant",
    "tagline": "Drafts and reviews IT policies, assessments, and plans to keep your organization compliant and secure.",
@@ -51528,6 +52148,21 @@
    "url": "https://templatesgrokbot.com/bot/it-project-closure-companion"
   },
   {
+   "slug": "it-project-control-companion",
+   "name": "IT Project Control Companion",
+   "tagline": "Manages IT project schedules, resources, risks, budgets, quality, stakeholders, changes, issues, and closure.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/productivity/it-project-control-companion.md",
+   "url": "https://templatesgrokbot.com/bot/it-project-control-companion"
+  },
+  {
    "slug": "it-project-management-assistant",
    "name": "IT Project Management Assistant",
    "tagline": "IT project planning, risk, resource, and stakeholder support for Vice Presidents of IT.",
@@ -51544,6 +52179,21 @@
    "url": "https://templatesgrokbot.com/bot/it-project-management-assistant"
   },
   {
+   "slug": "it-scripting-assistant",
+   "name": "IT Scripting Assistant",
+   "tagline": "Drafts and refines IT automation scripts for support tasks, from installs to reporting.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/coding/it-scripting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/it-scripting-assistant"
+  },
+  {
    "slug": "it-scripting-automation-assistant",
    "name": "IT Scripting Automation Assistant",
    "tagline": "Automates IT scripting, debugging, deployment, and maintenance tasks for IT specialists.",
@@ -51558,6 +52208,22 @@
    ],
    "path": "jobs/it-and-development/coding/it-scripting-automation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/it-scripting-automation-assistant"
+  },
+  {
+   "slug": "it-security-best-practices-assistant",
+   "name": "IT Security Best Practices Assistant",
+   "tagline": "Guides IT support staff through security best practices and response planning.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/it-security-best-practices-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/it-security-best-practices-assistant"
   },
   {
    "slug": "it-service-desk-analyst",
@@ -51624,6 +52290,23 @@
    "url": "https://templatesgrokbot.com/bot/it-strategy-formulation-assistant"
   },
   {
+   "slug": "it-support-chatbot-builder",
+   "name": "IT Support Chatbot Builder",
+   "tagline": "Builds and maintains AI chatbots and helpdesk workflows for IT support teams.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "support-and-community",
+    "data-analysis",
+    "prompt-engineering"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/it-support-chatbot-builder.md",
+   "url": "https://templatesgrokbot.com/bot/it-support-chatbot-builder"
+  },
+  {
    "slug": "it-support-optimization-assistant",
    "name": "IT Support Optimization Assistant",
    "tagline": "Optimize global IT customer support through AI-driven analysis, automation, and proactive issue resolution.",
@@ -51638,6 +52321,23 @@
    ],
    "path": "jobs/it-and-development/data-analysis/it-support-optimization-assistant.md",
    "url": "https://templatesgrokbot.com/bot/it-support-optimization-assistant"
+  },
+  {
+   "slug": "it-support-query-automation-assistant",
+   "name": "IT Support Query Automation Assistant",
+   "tagline": "Automates routine IT support queries, tickets, and system checks for IT support specialists.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "coding",
+    "prompt-engineering",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/it-support-query-automation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/it-support-query-automation-assistant"
   },
   {
    "slug": "it-talent-acquisition-planner",
@@ -51674,6 +52374,24 @@
    "url": "https://templatesgrokbot.com/bot/it-training-content-builder"
   },
   {
+   "slug": "it-training-content-creator",
+   "name": "IT Training Content Creator",
+   "tagline": "Creates and manages IT training content, sessions, and learning programs for users.",
+   "category": "education",
+   "jobs": [
+    "it-and-development",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content",
+    "knowledge-management",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/teaching-and-tutoring/it-training-content-creator.md",
+   "url": "https://templatesgrokbot.com/bot/it-training-content-creator"
+  },
+  {
    "slug": "it-training-material-creator",
    "name": "IT Training Material Creator",
    "tagline": "Creates and manages IT training materials from research to interactive modules and assessments.",
@@ -51688,6 +52406,23 @@
    ],
    "path": "jobs/it-and-development/writing-and-content/it-training-material-creator.md",
    "url": "https://templatesgrokbot.com/bot/it-training-material-creator"
+  },
+  {
+   "slug": "it-training-program-architect",
+   "name": "IT Training Program Architect",
+   "tagline": "Designs and manages IT training programs from needs assessment to evaluation.",
+   "category": "education",
+   "jobs": [
+    "it-and-development",
+    "human-resources",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/teaching-and-tutoring/it-training-program-architect.md",
+   "url": "https://templatesgrokbot.com/bot/it-training-program-architect"
   },
   {
    "slug": "it-training-program-manager",
@@ -54175,6 +54910,20 @@
    "url": "https://templatesgrokbot.com/bot/learning-program-architect"
   },
   {
+   "slug": "learning-resource-curator",
+   "name": "Learning Resource Curator",
+   "tagline": "Research, recommend, and build learning resource platforms for web development.",
+   "category": "education",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/it-and-development/research/learning-resource-curator.md",
+   "url": "https://templatesgrokbot.com/bot/learning-resource-curator"
+  },
+  {
    "slug": "learning-style-identifier-for-teachers",
    "name": "Learning Style Identifier for Teachers",
    "tagline": "Identifies each student's learning style and turns it into tailored teaching plans.",
@@ -54712,6 +55461,22 @@
    "url": "https://templatesgrokbot.com/bot/lex",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "license-compliance-auditor",
+   "name": "License Compliance Auditor",
+   "tagline": "Manages software licenses from inventory to compliance, renewals, and cost optimization.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "sales-and-negotiation"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/license-compliance-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/license-compliance-auditor"
   },
   {
    "slug": "licensing-and-royalty-manager",
@@ -55588,6 +56353,22 @@
    "adapted_from": "https://collectivebrain.de/en/skills/local-seo-audit/"
   },
   {
+   "slug": "localization-qa-verifier",
+   "name": "Localization QA Verifier",
+   "tagline": "Localization QA bot that verifies language, layout, culture, legality, and media in localized software.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "product-development"
+   ],
+   "topics": [
+    "translation",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/translation/localization-qa-verifier.md",
+   "url": "https://templatesgrokbot.com/bot/localization-qa-verifier"
+  },
+  {
    "slug": "location-scout-planner",
    "name": "Location Scout Planner",
    "tagline": "Finds, vets, and plans photo shoot locations with research and logistics.",
@@ -55600,6 +56381,21 @@
    ],
    "path": "jobs/creatives/research/location-scout-planner.md",
    "url": "https://templatesgrokbot.com/bot/location-scout-planner"
+  },
+  {
+   "slug": "log-diagnostic-network-resolver",
+   "name": "Log Diagnostic Network Resolver",
+   "tagline": "Diagnoses and resolves network issues from logs and configs for IT support specialists.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/log-diagnostic-network-resolver.md",
+   "url": "https://templatesgrokbot.com/bot/log-diagnostic-network-resolver"
   },
   {
    "slug": "logic-diff",
@@ -61634,6 +62430,22 @@
    "url": "https://templatesgrokbot.com/bot/mobile-learning-app-designer"
   },
   {
+   "slug": "mobile-qa-testing-guide",
+   "name": "Mobile QA Testing Guide",
+   "tagline": "Generates and guides mobile app testing across all QA dimensions with templates and checklists.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/coding/mobile-qa-testing-guide.md",
+   "url": "https://templatesgrokbot.com/bot/mobile-qa-testing-guide"
+  },
+  {
    "slug": "mobile-reverse",
    "name": "Mobile Reverse",
    "tagline": "Authorized Android/iOS app reverse engineering and security testing per OWASP MASTG.",
@@ -63846,6 +64658,23 @@
    "url": "https://templatesgrokbot.com/bot/network-capacity-planning-assistant"
   },
   {
+   "slug": "network-compliance-assistant",
+   "name": "Network Compliance Assistant",
+   "tagline": "Keeps your network compliant with regulations through policy, audits, and reporting.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/network-compliance-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/network-compliance-assistant"
+  },
+  {
    "slug": "network-compliance-planner",
    "name": "Network Compliance Planner",
    "tagline": "Guides network engineers through compliance tasks with step-by-step plans and checks.",
@@ -63877,6 +64706,23 @@
    ],
    "path": "jobs/it-and-development/cloud-and-devops/network-configuration-assistant.md",
    "url": "https://templatesgrokbot.com/bot/network-configuration-assistant"
+  },
+  {
+   "slug": "network-documentation-and-mapping-assistant",
+   "name": "Network Documentation and Mapping Assistant",
+   "tagline": "Builds and maintains complete network documentation and diagrams from your data.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "knowledge-management",
+    "writing-and-content",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/knowledge-management/network-documentation-and-mapping-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/network-documentation-and-mapping-assistant"
   },
   {
    "slug": "network-dr-plan-builder",
@@ -63914,6 +64760,22 @@
    "url": "https://templatesgrokbot.com/bot/network-engineer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "network-hardware-recommender",
+   "name": "Network Hardware Recommender",
+   "tagline": "Recommends network hardware matched to your network's size, usage, and budget.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "research"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/network-hardware-recommender.md",
+   "url": "https://templatesgrokbot.com/bot/network-hardware-recommender"
   },
   {
    "slug": "network-issue-diagnostic-guide",
@@ -63981,6 +64843,21 @@
    "url": "https://templatesgrokbot.com/bot/network-optimization-analyst"
   },
   {
+   "slug": "network-optimization-consultant",
+   "name": "Network Optimization Consultant",
+   "tagline": "Analyzes network data and recommends optimizations for performance, security, and capacity.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/network-optimization-consultant.md",
+   "url": "https://templatesgrokbot.com/bot/network-optimization-consultant"
+  },
+  {
    "slug": "network-optimization-planner",
    "name": "Network Optimization Planner",
    "tagline": "Analyzes network data and drafts optimization plans for global IT infrastructure.",
@@ -64025,6 +64902,37 @@
    "url": "https://templatesgrokbot.com/bot/network-performance-analyzer"
   },
   {
+   "slug": "network-policy-enforcement-assistant",
+   "name": "Network Policy Enforcement Assistant",
+   "tagline": "Drafts, implements, and monitors network policies for compliance and security.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/network-policy-enforcement-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/network-policy-enforcement-assistant"
+  },
+  {
+   "slug": "network-scalability-strategist",
+   "name": "Network Scalability Strategist",
+   "tagline": "Analyzes network data and designs scalable strategies for growth and efficiency.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/network-scalability-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/network-scalability-strategist"
+  },
+  {
    "slug": "network-security-advisor",
    "name": "Network Security Advisor",
    "tagline": "Security protocol recommendations and audits for network administrators.",
@@ -64054,6 +64962,22 @@
    ],
    "path": "jobs/it-and-development/security-and-compliance/network-security-assistant.md",
    "url": "https://templatesgrokbot.com/bot/network-security-assistant"
+  },
+  {
+   "slug": "network-security-audit-planner",
+   "name": "Network Security Audit Planner",
+   "tagline": "Audits network security and drafts remediation plans for IT managers.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/network-security-audit-planner.md",
+   "url": "https://templatesgrokbot.com/bot/network-security-audit-planner"
   },
   {
    "slug": "network-security-monitoring-assistant",
@@ -69281,6 +70205,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "performance-analysis-assistant",
+   "name": "Performance Analysis Assistant",
+   "tagline": "Turns performance data into clear insights, forecasts, and actionable recommendations for systems analysts.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/data-analysis/performance-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/performance-analysis-assistant"
+  },
+  {
    "slug": "performance-email-campaign-builder",
    "name": "Performance Email Campaign Builder",
    "tagline": "Plans, writes, and refines email campaigns from segmentation to performance analysis.",
@@ -69723,6 +70663,21 @@
    ],
    "path": "jobs/it-and-development/data-analysis/performance-testing-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/performance-testing-analysis-assistant"
+  },
+  {
+   "slug": "performance-testing-assistant",
+   "name": "Performance Testing Assistant",
+   "tagline": "Assists QA testers with performance testing tasks from planning to reporting.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/performance-testing-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/performance-testing-assistant"
   },
   {
    "slug": "performance-testing-review-ai-review",
@@ -71429,6 +72384,21 @@
    ],
    "path": "jobs/legal/security-and-compliance/policy-development-support.md",
    "url": "https://templatesgrokbot.com/bot/policy-development-support"
+  },
+  {
+   "slug": "policy-drafting-for-it-support",
+   "name": "Policy Drafting for IT Support",
+   "tagline": "Drafts, reviews, and communicates IT policies for IT support specialists.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/policy-drafting-for-it-support.md",
+   "url": "https://templatesgrokbot.com/bot/policy-drafting-for-it-support"
   },
   {
    "slug": "policy-explanation-assistant",
@@ -73771,6 +74741,22 @@
    ],
    "path": "jobs/product-development/teaching-and-tutoring/process-engineer-training-developer.md",
    "url": "https://templatesgrokbot.com/bot/process-engineer-training-developer"
+  },
+  {
+   "slug": "process-improvement-analyst",
+   "name": "Process Improvement Analyst",
+   "tagline": "Analyzes processes, finds inefficiencies, and plans improvements for systems analysts.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations",
+    "government"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/data-analysis/process-improvement-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/process-improvement-analyst"
   },
   {
    "slug": "process-improvement-comms-architect",
@@ -77006,6 +77992,20 @@
    "source_license": "MIT"
   },
   {
+   "slug": "qa-bug-report-assistant",
+   "name": "QA Bug Report Assistant",
+   "tagline": "Turns bug reports into clear, complete, and prioritized documentation for QA testers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/qa-bug-report-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/qa-bug-report-assistant"
+  },
+  {
    "slug": "qa-collaboration-workflow-assistant",
    "name": "QA Collaboration Workflow Assistant",
    "tagline": "QA team collaboration and testing workflow assistant for QA managers.",
@@ -77068,6 +78068,20 @@
    ],
    "path": "jobs/it-and-development/data-analysis/qa-risk-management-assistant.md",
    "url": "https://templatesgrokbot.com/bot/qa-risk-management-assistant"
+  },
+  {
+   "slug": "qa-test-case-generator",
+   "name": "QA Test Case Generator",
+   "tagline": "Generates comprehensive QA test cases across all testing types from your requirements.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/qa-test-case-generator.md",
+   "url": "https://templatesgrokbot.com/bot/qa-test-case-generator"
   },
   {
    "slug": "qa-test-planner",
@@ -77429,6 +78443,20 @@
    ],
    "path": "jobs/it-and-development/data-analysis/quality-metrics-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/quality-metrics-analysis-assistant"
+  },
+  {
+   "slug": "quality-metrics-analyzer",
+   "name": "Quality Metrics Analyzer",
+   "tagline": "Turns quality metrics data into trend analysis and improvement recommendations for QA testers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/data-analysis/quality-metrics-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/quality-metrics-analyzer"
   },
   {
    "slug": "quality-nonconformance",
@@ -78940,6 +79968,22 @@
    "url": "https://templatesgrokbot.com/bot/record-keeping-compliance-optimizer"
   },
   {
+   "slug": "recovery-plan-builder-for-analysts",
+   "name": "Recovery Plan Builder for Analysts",
+   "tagline": "Builds and refines your disaster recovery plan from risk assessment to continuous improvement.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/recovery-plan-builder-for-analysts.md",
+   "url": "https://templatesgrokbot.com/bot/recovery-plan-builder-for-analysts"
+  },
+  {
    "slug": "recruitment-competitive-analyst",
    "name": "Recruitment Competitive Analyst",
    "tagline": "Tracks competitor recruitment moves and turns them into actionable talent insights.",
@@ -79421,6 +80465,20 @@
    "url": "https://templatesgrokbot.com/bot/regex-visual-debugger",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/regex-debugger",
    "source_license": "MIT"
+  },
+  {
+   "slug": "regression-testing-strategist",
+   "name": "Regression Testing Strategist",
+   "tagline": "Regression testing strategist that plans, prioritizes, and analyzes software regression work.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/productivity/regression-testing-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/regression-testing-strategist"
   },
   {
    "slug": "regulation-risk-drafts-for-engineers",
@@ -80905,6 +81963,21 @@
    "url": "https://templatesgrokbot.com/bot/responsible-ai-practice-assistant"
   },
   {
+   "slug": "responsive-design-advisor",
+   "name": "Responsive Design Advisor",
+   "tagline": "Get tailored responsive design advice for websites across devices and screen sizes.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/design/responsive-design-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/responsive-design-advisor"
+  },
+  {
    "slug": "responsive-layout-builder",
    "name": "Responsive Layout Builder",
    "tagline": "Build responsive layouts with CSS Grid, Flexbox, and container queries.",
@@ -82044,6 +83117,21 @@
    ],
    "path": "jobs/it-and-development/data-analysis/risk-aware-supply-planner.md",
    "url": "https://templatesgrokbot.com/bot/risk-aware-supply-planner"
+  },
+  {
+   "slug": "risk-based-testing-prioritizer",
+   "name": "Risk-Based Testing Prioritizer",
+   "tagline": "Prioritizes and executes risk-based testing for QA testers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/coding/risk-based-testing-prioritizer.md",
+   "url": "https://templatesgrokbot.com/bot/risk-based-testing-prioritizer"
   },
   {
    "slug": "rival-edge-sales-tracker",
@@ -86151,6 +87239,23 @@
    "url": "https://templatesgrokbot.com/bot/security-training-program-builder"
   },
   {
+   "slug": "security-vulnerability-assessment-assistant",
+   "name": "Security Vulnerability Assessment Assistant",
+   "tagline": "Finds, assesses, and tracks security vulnerabilities across code, networks, and policies.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/security-vulnerability-assessment-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/security-vulnerability-assessment-assistant"
+  },
+  {
    "slug": "seek-and-analyze-video",
    "name": "Seek And Analyze Video",
    "tagline": "Search, import, and analyze video content with persistent memory across sessions.",
@@ -89512,6 +90617,22 @@
    "url": "https://templatesgrokbot.com/bot/social-media-insights-director"
   },
   {
+   "slug": "social-media-integration-planner",
+   "name": "Social Media Integration Planner",
+   "tagline": "Integrates social media platforms into websites: logins, feeds, sharing, analytics, and events.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "social-media",
+    "support-and-community",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/social-media/social-media-integration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/social-media-integration-planner"
+  },
+  {
    "slug": "social-media-management-assistant",
    "name": "Social Media Management Assistant",
    "tagline": "Plans, creates, and manages social media content and engagement for digital marketing managers.",
@@ -89972,6 +91093,22 @@
    "url": "https://templatesgrokbot.com/bot/software-development-advisor"
   },
   {
+   "slug": "software-development-lifecycle-assistant",
+   "name": "Software Development Lifecycle Assistant",
+   "tagline": "Supports IT consultants across the full software development lifecycle, from code review to deployment.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "writing-and-content",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/coding/software-development-lifecycle-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/software-development-lifecycle-assistant"
+  },
+  {
    "slug": "software-documentation-assistant",
    "name": "Software Documentation Assistant",
    "tagline": "Documentation assistant for software developers creating clear, consistent code and user docs.",
@@ -90111,6 +91248,21 @@
    ],
    "path": "jobs/it-and-development/data-analysis/software-performance-analyzer.md",
    "url": "https://templatesgrokbot.com/bot/software-performance-analyzer"
+  },
+  {
+   "slug": "software-selection-analyst",
+   "name": "Software Selection Analyst",
+   "tagline": "Guides systems analysts through software selection from research to decision documentation.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/research/software-selection-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/software-selection-analyst"
   },
   {
    "slug": "soil-and-water-analysis-assistant",
@@ -94725,6 +95877,22 @@
    "url": "https://templatesgrokbot.com/bot/system-administration-guidance-assistant"
   },
   {
+   "slug": "system-architecture-design-assistant",
+   "name": "System Architecture Design Assistant",
+   "tagline": "Designs and refines IT system architectures from requirements to deployment.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/system-architecture-design-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/system-architecture-design-assistant"
+  },
+  {
    "slug": "architect-reviewer",
    "name": "System Design Reviewer",
    "tagline": "Evaluates system designs, architectural patterns, and technology choices at the macro level.",
@@ -94741,6 +95909,52 @@
    "url": "https://templatesgrokbot.com/bot/architect-reviewer",
    "adapted_from": "https://www.aitmpl.com/component/agents/development-tools/architect-reviewer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "system-integration-planning-assistant",
+   "name": "System Integration Planning Assistant",
+   "tagline": "Plans system integration projects from data mapping to continuous improvement for systems analysts.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "productivity",
+    "security-and-compliance",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/productivity/system-integration-planning-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/system-integration-planning-assistant"
+  },
+  {
+   "slug": "system-optimization-assistant",
+   "name": "System Optimization Assistant",
+   "tagline": "Analyzes system data and recommends optimizations for IT support specialists.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/system-optimization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/system-optimization-assistant"
+  },
+  {
+   "slug": "system-requirements-analysis-assistant",
+   "name": "System Requirements Analysis Assistant",
+   "tagline": "Turns raw stakeholder input into clear, validated system requirements for systems analysts.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/system-requirements-analysis-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/system-requirements-analysis-assistant"
   },
   {
    "slug": "system-update-maintenance-guide",
@@ -94792,6 +96006,41 @@
    "url": "https://templatesgrokbot.com/bot/systematic-debugging",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "systems-analyst-project-manager",
+   "name": "Systems Analyst Project Manager",
+   "tagline": "Manages project schedules, resources, risks, budgets, and stakeholder communication from planning to lessons learned.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "management",
+    "government"
+   ],
+   "topics": [
+    "productivity",
+    "knowledge-management",
+    "office-tools"
+   ],
+   "path": "jobs/it-and-development/productivity/systems-analyst-project-manager.md",
+   "url": "https://templatesgrokbot.com/bot/systems-analyst-project-manager"
+  },
+  {
+   "slug": "systems-analyst-security-assistant",
+   "name": "Systems Analyst Security Assistant",
+   "tagline": "Security assessment assistant for systems analysts covering scans, reviews, and response planning. No hype, no emoji.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/systems-analyst-security-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/systems-analyst-security-assistant"
   },
   {
    "slug": "systems-documentation-assistant",
@@ -96226,6 +97475,36 @@
    ],
    "path": "jobs/it-and-development/support-and-community/tech-support-template-enhancement-assistant.md",
    "url": "https://templatesgrokbot.com/bot/tech-support-template-enhancement-assistant"
+  },
+  {
+   "slug": "tech-trend-analyst-for-it-support",
+   "name": "Tech Trend Analyst for IT Support",
+   "tagline": "Tracks tech trends, assesses their impact on IT support, and guides strategic decisions.",
+   "category": "research",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/research/tech-trend-analyst-for-it-support.md",
+   "url": "https://templatesgrokbot.com/bot/tech-trend-analyst-for-it-support"
+  },
+  {
+   "slug": "tech-trend-monitor",
+   "name": "Tech Trend Monitor",
+   "tagline": "Monitors technology trends and delivers actionable insights for IT consultants.",
+   "category": "research",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/research/tech-trend-monitor.md",
+   "url": "https://templatesgrokbot.com/bot/tech-trend-monitor"
   },
   {
    "slug": "tech-upskilling-program-coordinator",
@@ -97894,6 +99173,20 @@
    "url": "https://templatesgrokbot.com/bot/test-case-development-assistant"
   },
   {
+   "slug": "test-data-preparation-assistant",
+   "name": "Test Data Preparation Assistant",
+   "tagline": "Prepares, validates, and manages test data for QA testers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/data-analysis/test-data-preparation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/test-data-preparation-assistant"
+  },
+  {
    "slug": "test-detect",
    "name": "Test Detect",
    "tagline": "Detects your project's test framework and runs or generates tests for you.",
@@ -97940,6 +99233,22 @@
    "url": "https://templatesgrokbot.com/bot/test-engineer",
    "adapted_from": "https://www.aitmpl.com/component/agents/development-tools/test-engineer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "test-environment-setup-assistant",
+   "name": "Test Environment Setup Assistant",
+   "tagline": "Sets up, validates, documents, and maintains QA test environments on request.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/test-environment-setup-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/test-environment-setup-assistant"
   },
   {
    "slug": "test-fixing",
@@ -99107,6 +100416,24 @@
    "url": "https://templatesgrokbot.com/bot/training-and-development-assistant"
   },
   {
+   "slug": "training-and-support-planner",
+   "name": "Training and Support Planner",
+   "tagline": "Plans, builds, and evaluates training and support for your organization.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "human-resources",
+    "government",
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/teaching-and-tutoring/training-and-support-planner.md",
+   "url": "https://templatesgrokbot.com/bot/training-and-support-planner"
+  },
+  {
    "slug": "training-budget-optimizer",
    "name": "Training Budget Optimizer",
    "tagline": "Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators.",
@@ -100023,6 +101350,21 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "trend-analysis-and-forecasting-assistant",
+   "name": "Trend Analysis and Forecasting Assistant",
+   "tagline": "Analyzes trends and forecasts for systems analysts, turning data into actionable insights.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/data-analysis/trend-analysis-and-forecasting-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/trend-analysis-and-forecasting-assistant"
+  },
+  {
    "slug": "trend-analysis-content-assistant",
    "name": "Trend Analysis Content Assistant",
    "tagline": "Turns trend data into content-ready insights and reports for writers.",
@@ -100209,6 +101551,22 @@
    "url": "https://templatesgrokbot.com/bot/trl-training",
    "adapted_from": "https://github.com/huggingface/skills/tree/main/skills/trl-training",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "troubleshooting-guide-builder",
+   "name": "Troubleshooting Guide Builder",
+   "tagline": "Turns IT knowledge into complete, user-ready troubleshooting guides.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "writing-and-content",
+    "research",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/troubleshooting-guide-builder.md",
+   "url": "https://templatesgrokbot.com/bot/troubleshooting-guide-builder"
   },
   {
    "slug": "troubleshooting-guide-creator",
@@ -100639,6 +101997,22 @@
    "url": "https://templatesgrokbot.com/bot/ui-design-system",
    "adapted_from": "https://www.aitmpl.com/component/skills/creative-design/ui-design-system",
    "source_license": "MIT"
+  },
+  {
+   "slug": "ui-design-workflow-assistant",
+   "name": "UI Design Workflow Assistant",
+   "tagline": "Guides systems analysts through the full UI design cycle, from research to innovation.",
+   "category": "creative",
+   "jobs": [
+    "it-and-development",
+    "product-development"
+   ],
+   "topics": [
+    "design",
+    "research"
+   ],
+   "path": "jobs/it-and-development/design/ui-design-workflow-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/ui-design-workflow-assistant"
   },
   {
    "slug": "ui-designer",
@@ -101547,6 +102921,22 @@
    "url": "https://templatesgrokbot.com/bot/usability-testing-coordinator"
   },
   {
+   "slug": "usability-testing-planner",
+   "name": "Usability Testing Planner",
+   "tagline": "Plan and analyze usability tests to improve product user experience.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "product-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/research/usability-testing-planner.md",
+   "url": "https://templatesgrokbot.com/bot/usability-testing-planner"
+  },
+  {
    "slug": "usability-testing-questionnaires-assistant",
    "name": "Usability Testing Questionnaires Assistant",
    "tagline": "Drafts usability testing questionnaires and analyzes feedback to improve product user experience.",
@@ -102076,6 +103466,21 @@
    "adapted_from": "https://collectivebrain.de/en/skills/ux-flow-wireframer/"
   },
   {
+   "slug": "ux-insight-consultant",
+   "name": "UX Insight Consultant",
+   "tagline": "Analyzes user data and feedback to improve UX across interfaces and channels.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "product-development"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/data-analysis/ux-insight-consultant.md",
+   "url": "https://templatesgrokbot.com/bot/ux-insight-consultant"
+  },
+  {
    "slug": "ux-persuasion-engineer",
    "name": "Ux Persuasion Engineer",
    "tagline": "Redesign UX flows to guide decisions by reducing friction and staging commitment, ethically.",
@@ -102424,6 +103829,21 @@
    "url": "https://templatesgrokbot.com/bot/vendor-and-carrier-selection-assistant"
   },
   {
+   "slug": "vendor-evaluation-and-comparison-assistant",
+   "name": "Vendor Evaluation and Comparison Assistant",
+   "tagline": "Evaluates and compares IT vendors for informed procurement decisions.",
+   "category": "research",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/research/vendor-evaluation-and-comparison-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/vendor-evaluation-and-comparison-assistant"
+  },
+  {
    "slug": "vendor-evaluation-assistant",
    "name": "Vendor Evaluation Assistant",
    "tagline": "Evaluates vendors end-to-end for CTOs, from research to exit strategy.",
@@ -102631,6 +104051,23 @@
    "url": "https://templatesgrokbot.com/bot/vendor-negotiation-strategist"
   },
   {
+   "slug": "vendor-onboarding-analyst",
+   "name": "Vendor Onboarding Analyst",
+   "tagline": "Manages vendor relationships from selection to onboarding, with analysis and reporting.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "operations"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/sales-and-negotiation/vendor-onboarding-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/vendor-onboarding-analyst"
+  },
+  {
    "slug": "vendor-performance-analyst",
    "name": "Vendor Performance Analyst",
    "tagline": "Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators.",
@@ -102742,6 +104179,20 @@
    ],
    "path": "jobs/it-and-development/security-and-compliance/vendor-security-assessment-assistant.md",
    "url": "https://templatesgrokbot.com/bot/vendor-security-assessment-assistant"
+  },
+  {
+   "slug": "vendor-selection-and-management-assistant",
+   "name": "Vendor Selection and Management Assistant",
+   "tagline": "Manages vendor selection, evaluation, and relationships for IT consultants.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/it-and-development/research/vendor-selection-and-management-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/vendor-selection-and-management-assistant"
   },
   {
    "slug": "vendor-watch",
@@ -104345,6 +105796,22 @@
    "url": "https://templatesgrokbot.com/bot/vpn-configuration-and-management-assistant"
   },
   {
+   "slug": "vpn-infrastructure-manager",
+   "name": "VPN Infrastructure Manager",
+   "tagline": "Guides VPN setup, management, and security for network administrators.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/vpn-infrastructure-manager.md",
+   "url": "https://templatesgrokbot.com/bot/vpn-infrastructure-manager"
+  },
+  {
    "slug": "vpn-vulnerability-assessor",
    "name": "VPN Vulnerability Assessor",
    "tagline": "Fingerprint and test enterprise SSL VPN appliances for known CVEs during authorized engagements. Only for approved security testing.",
@@ -104946,7 +106413,8 @@
    ],
    "topics": [
     "coding",
-    "cloud-and-devops"
+    "cloud-and-devops",
+    "teaching-and-tutoring"
    ],
    "path": "jobs/it-and-development/coding/web-performance-optimization.md",
    "url": "https://templatesgrokbot.com/bot/web-performance-optimization",
@@ -105183,6 +106651,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "website-accessibility-auditor",
+   "name": "Website Accessibility Auditor",
+   "tagline": "Makes your website accessible by auditing content, structure, and forms against WCAG standards.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/website-accessibility-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/website-accessibility-auditor"
+  },
+  {
    "slug": "website-analytics-optimizer",
    "name": "Website Analytics Optimizer",
    "tagline": "Analyzes website data and delivers optimization recommendations for digital marketing specialists.",
@@ -105215,6 +106699,39 @@
    "path": "jobs/marketing/generative-code/website-builder.md",
    "url": "https://templatesgrokbot.com/bot/website-builder",
    "adapted_from": "https://collectivebrain.de/en/skills/website-builder/"
+  },
+  {
+   "slug": "website-data-visualization-assistant",
+   "name": "Website Data Visualization Assistant",
+   "tagline": "Turns website data into clear, interactive visualizations that engage users.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding",
+    "design"
+   ],
+   "path": "jobs/it-and-development/data-analysis/website-data-visualization-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/website-data-visualization-assistant"
+  },
+  {
+   "slug": "website-localization-planner",
+   "name": "Website Localization Planner",
+   "tagline": "Localizes websites for global audiences: translation, culture, SEO, compliance, and more.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "marketing"
+   ],
+   "topics": [
+    "translation",
+    "coding",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/translation/website-localization-planner.md",
+   "url": "https://templatesgrokbot.com/bot/website-localization-planner"
   },
   {
    "slug": "websocket-engineer",

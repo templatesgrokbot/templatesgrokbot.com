@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 454 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 455 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -301,6 +301,7 @@ Clean, query, chart and explain data. 454 Grok Bot templates, 268 of them filed 
 | [Process Data Analyst](../../science-and-research/data-analysis/process-data-analyst.md) | Analyzes process data to uncover patterns, trends, and risks for process development scientists. |
 | [Process Efficiency Analyst](../../product-development/data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
 | [Process Engineer Supply Chain Optimizer](../../product-development/data-analysis/process-engineer-supply-chain-optimizer.md) | Optimizes supply chains with data-driven forecasting, supplier, transportation, and process improvements. |
+| [Process Improvement Analyst](../../it-and-development/data-analysis/process-improvement-analyst.md) | Analyzes processes, finds inefficiencies, and plans improvements for systems analysts. |
 | [Process Improvement Recommendation Assistant](process-improvement-recommendation-assistant.md) | Turns production data into process improvement recommendations for quality control inspectors. |
 | [Process Monitoring and Control Assistant](../../product-development/data-analysis/process-monitoring-and-control-assistant.md) | Monitors and optimizes your process with real-time data analysis and predictive insights. |
 | [Process Optimization Analyst](../../product-development/data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |

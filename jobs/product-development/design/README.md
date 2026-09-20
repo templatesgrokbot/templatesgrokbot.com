@@ -1,6 +1,6 @@
 # Design templates for Product Development
 
-Interfaces, brands, layouts and visual systems. 98 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 99 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -86,6 +86,7 @@ Interfaces, brands, layouts and visual systems. 98 Grok Bot templates, 18 of the
 | [Typography UI Design Assistant](../../creatives/design/typography-ui-design-assistant.md) | Typography guidance and tools for UI designers, from font pairing to accessibility checks. |
 | [UI Design Principles Assistant](../../it-and-development/design/ui-design-principles-assistant.md) | Turns UI design principles into actionable, user-centered interface guidance for software engineers. |
 | [Ui Design System](../../creatives/design/ui-design-system.md) | Generates design tokens, component docs, responsive calculations, and handoff files for a senior UI designer. |
+| [UI Design Workflow Assistant](../../it-and-development/design/ui-design-workflow-assistant.md) | Guides systems analysts through the full UI design cycle, from research to innovation. |
 | [Ui Designer](../../creatives/design/ui-designer.md) | Designs visual interfaces, design systems, and component libraries with accessibility and brand alignment. |
 | [Ui Score](../../creatives/design/ui-score.md) | Score UI files 0-100 against StyleSeed design language with fix priorities. |
 | [Ui Templates](../../creatives/design/ui-skills.md) | Opinionated constraints for building interfaces. |

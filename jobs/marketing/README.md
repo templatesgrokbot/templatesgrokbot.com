@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **799 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **802 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,10 +11,10 @@ Campaigns, SEO, content and growth. **799 ready-made Grok Bot templates** for th
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 323 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 324 |
 | [Data Analysis](data-analysis/README.md) | 127 |
 | [Writing & Content](writing-and-content/README.md) | 75 |
-| [Research](research/README.md) | 73 |
+| [Research](research/README.md) | 74 |
 | [Social Media](social-media/README.md) | 68 |
 | [Design](design/README.md) | 30 |
 | [Generative Art](generative-art/README.md) | 21 |
@@ -27,10 +27,10 @@ Campaigns, SEO, content and growth. **799 ready-made Grok Bot templates** for th
 | [Video Editing](video-editing/README.md) | 4 |
 | [Prompt Engineering](prompt-engineering/README.md) | 3 |
 | [Text-To-Speech](text-to-speech/README.md) | 3 |
+| [Translation](translation/README.md) | 3 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 2 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 2 |
 | [Support & Community](support-and-community/README.md) | 2 |
-| [Translation](translation/README.md) | 2 |
 | [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Security & Compliance](security-and-compliance/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
@@ -49,7 +49,7 @@ Campaigns, SEO, content and growth. **799 ready-made Grok Bot templates** for th
 | [Seo Fundamentals](marketing-and-growth/seo-fundamentals.md) | Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles. |
 | [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 
-[All 323 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 324 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Data Analysis
 
@@ -94,7 +94,7 @@ Campaigns, SEO, content and growth. **799 ready-made Grok Bot templates** for th
 | [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Search Specialist](../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
 
-[All 73 Research templates →](research/README.md)
+[All 74 Research templates →](research/README.md)
 
 ## Social Media
 
@@ -251,6 +251,14 @@ Campaigns, SEO, content and growth. **799 ready-made Grok Bot templates** for th
 | [Speech](../creatives/text-to-speech/speech.md) | Generate spoken audio from text for narration, voiceovers, prompts, or accessibility reads. |
 | [Podcast Generation](../creatives/text-to-speech/podcast-generation.md) | Generate spoken audio from text using Azure OpenAI Realtime API. No editing or mixing. |
 
+## Translation
+
+| Template | What it does |
+|---|---|
+| [Website Localization Planner](../it-and-development/translation/website-localization-planner.md) | Localizes websites for global audiences: translation, culture, SEO, compliance, and more. |
+| [Multi-Channel Insurance Communication Assistant](../customer-support/translation/multi-channel-insurance-communication-assistant.md) | Handles multi-channel insurance customer communication with drafting, translation, and insights. |
+| [Humanize Chinese](../writers/translation/humanize-chinese.md) | Detect and rewrite AI-like Chinese text to sound natural, reduce AIGC, or match a target style. |
+
 ## Cloud & DevOps
 
 | Template | What it does |
@@ -271,13 +279,6 @@ Campaigns, SEO, content and growth. **799 ready-made Grok Bot templates** for th
 |---|---|
 | [Community Building](../operations/support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
 | [Social Media Customer Service Coordinator](support-and-community/social-media-customer-service-coordinator.md) | Coordinates social media customer service: responses, feedback, escalations, and crisis plans. |
-
-## Translation
-
-| Template | What it does |
-|---|---|
-| [Multi-Channel Insurance Communication Assistant](../customer-support/translation/multi-channel-insurance-communication-assistant.md) | Handles multi-channel insurance customer communication with drafting, translation, and insights. |
-| [Humanize Chinese](../writers/translation/humanize-chinese.md) | Detect and rewrite AI-like Chinese text to sound natural, reduce AIGC, or match a target style. |
 
 ## Knowledge Management
 

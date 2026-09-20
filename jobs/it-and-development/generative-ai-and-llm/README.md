@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 213 Grok Bot templates, 193 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 216 Grok Bot templates, 196 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -48,6 +48,7 @@ Work with language models, agents and their plumbing. 213 Grok Bot templates, 19
 | [Call Center AI Integrator](../../customer-support/generative-ai-and-llm/call-center-ai-integrator.md) | Integrates AI into call center systems, trains models, monitors performance, and automates workflows. |
 | [Channel Greeter](channel-greeter.md) | Greets new channels and introduces your capabilities without overwhelming them. |
 | [Channel Wiring Manager](channel-wiring-manager.md) | Wires messaging channels to agent groups and manages their isolation levels. |
+| [Chatbot Integration Designer](chatbot-integration-designer.md) | Designs, builds, and refines chatbots for websites, from conversation flows to multilingual support. |
 | [Checkpoint Promotion Gate](checkpoint-promotion-gate.md) | Gate fine-tuned checkpoints with drift budgets, paired comparison, and forgetting checks before promotion. |
 | [Clarity Gate](clarity-gate.md) | Verify documents for epistemic quality before RAG ingestion. Human approval required for pass. No fact-checking. No restructuring. No classification. |
 | [Claude Code Expert](claude-code-expert.md) | Maximize productivity with Claude Code CLI, hooks, MCPs, and advanced workflows. |
@@ -112,6 +113,8 @@ Work with language models, agents and their plumbing. 213 Grok Bot templates, 19
 | [Inference Serving Sglang](inference-serving-sglang.md) | Serve LLMs with structured outputs and prefix caching for 5× faster inference. |
 | [Inference Serving Tensorrt Llm](inference-serving-tensorrt-llm.md) | Optimizes LLM inference on NVIDIA GPUs for maximum throughput and lowest latency. |
 | [Inference Serving Vllm](inference-serving-vllm.md) | Deploys and tunes vLLM servers for high-throughput LLM inference with quantization and monitoring. |
+| [IT Automation Solutions Architect](it-automation-solutions-architect.md) | Designs and implements AI-driven IT automation solutions for consultants. |
+| [IT Support Chatbot Builder](it-support-chatbot-builder.md) | Builds and maintains AI chatbots and helpdesk workflows for IT support teams. |
 | [Lambda Lang](lambda-lang.md) | A compact agent-to-agent language for structured multi-agent messaging. |
 | [Langchain Architecture](langchain-architecture.md) | Build LLM apps with LangChain agents, chains, memory, and tools. |
 | [Langfuse](langfuse.md) | Instrument LLM apps with Langfuse tracing, evaluation, and prompt management. |

@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Operations
 
-Infrastructure, deployments, monitoring and incident response. 193 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 195 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -45,6 +45,7 @@ Infrastructure, deployments, monitoring and incident response. 193 Grok Bot temp
 | [Cloud Sql Basics](../../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Cloudflare Deploy](../../it-and-development/cloud-and-devops/cloudflare-deploy.md) | Deploys apps and infrastructure to Cloudflare Workers, Pages, and related services. |
 | [Cost Optimization](../../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
+| [Data Backup Strategy Planner](../../it-and-development/cloud-and-devops/data-backup-strategy-planner.md) | Designs, audits, and maintains your organization's data backup strategy end to end. |
 | [Data Center Network Assistant](../../it-and-development/cloud-and-devops/data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
 | [Data Center Operations Assistant](../../it-and-development/cloud-and-devops/data-center-operations-assistant.md) | Optimizes data center operations through monitoring, planning, and incident guidance. |
 | [Data Center Power Optimizer](../../it-and-development/cloud-and-devops/data-center-power-optimizer.md) | Optimizes data center power usage, forecasting, and compliance for systems administrators. |
@@ -56,6 +57,7 @@ Infrastructure, deployments, monitoring and incident response. 193 Grok Bot temp
 | [Datadog Automation](../../it-and-development/cloud-and-devops/datadog-automation.md) | Automate Datadog monitoring, metrics, logs, monitors, dashboards, events, and downtimes via Rube MCP. |
 | [Datadog Cli](../../it-and-development/cloud-and-devops/datadog-cli.md) | Searches Datadog logs and metrics to debug production issues and manage dashboards. |
 | [Dbt Transformation Patterns](../../it-and-development/cloud-and-devops/dbt-transformation-patterns.md) | Organize dbt models into staging, intermediate, and marts with tests, docs, and incremental builds. |
+| [DC Log Analyzer for Admins](../../it-and-development/cloud-and-devops/dc-log-analyzer-for-admins.md) | Data center insights and operational guidance for network administrators. Analyzes logs, plans capacity, and drafts documentation. |
 | [Dep](../../it-and-development/cloud-and-devops/dep.md) | Generates Dockerfiles, CI/CD pipelines, and deployment configs for tested code. |
 | [Deploy](../../it-and-development/cloud-and-devops/deploy.md) | Deploys code from the current directory to Railway using railway up. |
 | [Deployment Pipeline Design](../../it-and-development/cloud-and-devops/deployment-pipeline-design.md) | Design multi-stage CI/CD pipelines with approval gates and deployment strategies. |

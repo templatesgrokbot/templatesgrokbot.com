@@ -1,6 +1,6 @@
 # Research templates for Product Development
 
-Find sources, compare evidence and summarise what is known. 66 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 67 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -62,6 +62,7 @@ Find sources, compare evidence and summarise what is known. 66 Grok Bot template
 | [Think Tank](../../executives-and-strategy/research/think-tank.md) | Runs a structured multi-persona debate to surface trade-offs before you decide. |
 | [Usability Testing Assistant](../../creatives/research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
 | [Usability Testing Coordinator](usability-testing-coordinator.md) | Coordinates usability testing from recruitment to follow-up actions for product managers. |
+| [Usability Testing Planner](../../it-and-development/research/usability-testing-planner.md) | Plan and analyze usability tests to improve product user experience. |
 | [Usability Testing Questionnaires Assistant](usability-testing-questionnaires-assistant.md) | Drafts usability testing questionnaires and analyzes feedback to improve product user experience. |
 | [User Persona Development Assistant](user-persona-development-assistant.md) | Builds and maintains user personas from research to strategy for product managers. |
 | [User Research Planning](design-user-research.md) | Plan user research that produces honest, actionable insights from start to finish. |

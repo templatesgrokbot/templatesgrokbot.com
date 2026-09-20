@@ -1,6 +1,6 @@
 # Grok Bot templates for Government
 
-Public services, policy and compliance. **405 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Public services, policy and compliance. **422 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,14 +11,14 @@ Public services, policy and compliance. **405 ready-made Grok Bot templates** fo
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 128 |
-| [Data Analysis](data-analysis/README.md) | 110 |
-| [Productivity](productivity/README.md) | 56 |
+| [Security & Compliance](security-and-compliance/README.md) | 135 |
+| [Data Analysis](data-analysis/README.md) | 112 |
+| [Productivity](productivity/README.md) | 57 |
 | [Research](research/README.md) | 39 |
-| [Writing & Content](writing-and-content/README.md) | 30 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 10 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 9 |
-| [Knowledge Management](knowledge-management/README.md) | 6 |
+| [Writing & Content](writing-and-content/README.md) | 31 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 13 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
+| [Knowledge Management](knowledge-management/README.md) | 7 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
 | [Design](design/README.md) | 3 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 3 |
@@ -41,7 +41,7 @@ Public services, policy and compliance. **405 ready-made Grok Bot templates** fo
 | [InfoSec Risk Register Bot](../it-and-development/security-and-compliance/infosec-risk-register-bot.md) | Automates risk assessment workflows for information security analysts. |
 | [Cybersecurity Guidance for IT Specialists](../it-and-development/security-and-compliance/cybersecurity-guidance-for-it-specialists.md) | Cybersecurity guidance for IT specialists: threat prevention, incident response, and policy development. |
 
-[All 128 Security & Compliance templates →](security-and-compliance/README.md)
+[All 135 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Data Analysis
 
@@ -56,7 +56,7 @@ Public services, policy and compliance. **405 ready-made Grok Bot templates** fo
 | [Compliance Monitoring Inspector](../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
 | [Data Validation Assistant](../operations/data-analysis/data-validation-assistant.md) | Validates and cleans data entry work with routines for formatting, duplicates, consistency, and quality. |
 
-[All 110 Data Analysis templates →](data-analysis/README.md)
+[All 112 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -71,7 +71,7 @@ Public services, policy and compliance. **405 ready-made Grok Bot templates** fo
 | [Crisis Management Executive Assistant](../executives-and-strategy/productivity/crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
 | [Strategic IT Planning Assistant](../it-and-development/productivity/strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
 
-[All 56 Productivity templates →](productivity/README.md)
+[All 57 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -101,7 +101,22 @@ Public services, policy and compliance. **405 ready-made Grok Bot templates** fo
 | [IT Policy Development Assistant](../it-and-development/writing-and-content/it-policy-development-assistant.md) | Develops, reviews, and maintains IT policies from research to implementation. |
 | [Systems Documentation Assistant](../it-and-development/writing-and-content/systems-documentation-assistant.md) | Turns system admin notes into clear, structured documentation and reports. |
 
-[All 30 Writing & Content templates →](writing-and-content/README.md)
+[All 31 Writing & Content templates →](writing-and-content/README.md)
+
+## Cloud & DevOps
+
+| Template | What it does |
+|---|---|
+| [Disaster Recovery Plan Builder](../it-and-development/cloud-and-devops/disaster-recovery-plan-builder.md) | Builds and maintains your disaster recovery plan from risk assessment to continuous improvement. |
+| [IT Disaster Recovery Architect](../it-and-development/cloud-and-devops/it-disaster-recovery-architect.md) | Builds and maintains a complete disaster recovery plan for IT systems. |
+| [Hardware Upgrade Advisor](../it-and-development/cloud-and-devops/hardware-upgrade-advisor.md) | Guides IT managers through hardware upgrade decisions from research to rollout. |
+| [Infrastructure Assessment Advisor](../it-and-development/cloud-and-devops/infrastructure-assessment-advisor.md) | Assesses IT infrastructure across network, servers, storage, security, cloud, and more, delivering actionable reports. |
+| [VPN Infrastructure Manager](../it-and-development/cloud-and-devops/vpn-infrastructure-manager.md) | Guides VPN setup, management, and security for network administrators. |
+| [Network DR Plan Builder](../it-and-development/cloud-and-devops/network-dr-plan-builder.md) | Builds and maintains your network disaster recovery plan from risk assessment to continuous improvement. |
+| [Data Backup Strategy Planner](../it-and-development/cloud-and-devops/data-backup-strategy-planner.md) | Designs, audits, and maintains your organization's data backup strategy end to end. |
+| [Disaster Recovery Planner](../executives-and-strategy/cloud-and-devops/disaster-recovery-planner.md) | Builds and maintains your disaster recovery plan, from risk assessment to continuous improvement. |
+
+[All 13 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Teaching & Tutoring
 
@@ -116,28 +131,14 @@ Public services, policy and compliance. **405 ready-made Grok Bot templates** fo
 | [Crisis Training Designer](../education/teaching-and-tutoring/crisis-training-designer.md) | Designs and runs crisis management training materials, simulations, and evaluations. |
 | [Interactive Training Module Designer](../human-resources/teaching-and-tutoring/interactive-training-module-designer.md) | Designs and builds interactive training modules with AI-generated content, scenarios, and assessments. |
 
-[All 10 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
-
-## Cloud & DevOps
-
-| Template | What it does |
-|---|---|
-| [Disaster Recovery Plan Builder](../it-and-development/cloud-and-devops/disaster-recovery-plan-builder.md) | Builds and maintains your disaster recovery plan from risk assessment to continuous improvement. |
-| [IT Disaster Recovery Architect](../it-and-development/cloud-and-devops/it-disaster-recovery-architect.md) | Builds and maintains a complete disaster recovery plan for IT systems. |
-| [Hardware Upgrade Advisor](../it-and-development/cloud-and-devops/hardware-upgrade-advisor.md) | Guides IT managers through hardware upgrade decisions from research to rollout. |
-| [Infrastructure Assessment Advisor](../it-and-development/cloud-and-devops/infrastructure-assessment-advisor.md) | Assesses IT infrastructure across network, servers, storage, security, cloud, and more, delivering actionable reports. |
-| [Network DR Plan Builder](../it-and-development/cloud-and-devops/network-dr-plan-builder.md) | Builds and maintains your network disaster recovery plan from risk assessment to continuous improvement. |
-| [Disaster Recovery Planner](../executives-and-strategy/cloud-and-devops/disaster-recovery-planner.md) | Builds and maintains your disaster recovery plan, from risk assessment to continuous improvement. |
-| [Cloud Strategy Planner](../it-and-development/cloud-and-devops/cloud-strategy-planner.md) | Plans and governs your cloud strategy from provider choice to migration, cost, security, and operations. |
-| [Data Integration and Architecture Planner](../executives-and-strategy/cloud-and-devops/data-integration-and-architecture-planner.md) | Plans and documents data integration, architecture, and governance for a Chief Digital Officer. No execution without approval. |
-
-[All 9 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 11 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Knowledge Management
 
 | Template | What it does |
 |---|---|
 | [Document Digitization Assistant](../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
+| [Network Documentation and Mapping Assistant](../it-and-development/knowledge-management/network-documentation-and-mapping-assistant.md) | Builds and maintains complete network documentation and diagrams from your data. |
 | [Document Organization Assistant](../customer-support/knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
 | [Record Keeping and Filing Assistant](../finance/knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
 | [Record-Keeping Compliance Optimizer](../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |

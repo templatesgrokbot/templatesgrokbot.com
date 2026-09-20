@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 222 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 224 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -154,6 +154,7 @@ Clean, query, chart and explain data. 222 Grok Bot templates, 143 of them filed 
 | [Optimization Modeling Assistant](../../it-and-development/data-analysis/optimization-modeling-assistant.md) | Builds and refines optimization models for data analysts, from formulation to insight. |
 | [Oral Health Analyzer](../../healthcare/data-analysis/oral-health-analyzer.md) | Analyze oral health data to identify risks and provide personalized care advice. |
 | [Pathml](../../healthcare/data-analysis/pathml.md) | Analyze whole-slide pathology images and multiparametric imaging data. |
+| [Performance Analysis Assistant](../../it-and-development/data-analysis/performance-analysis-assistant.md) | Turns performance data into clear insights, forecasts, and actionable recommendations for systems analysts. |
 | [Petroleum Geology Analyst](petroleum-geology-analyst.md) | Interprets geological data to locate and characterize petroleum reservoirs. |
 | [Pollution Control Consultant Assistant](pollution-control-consultant-assistant.md) | Analyzes pollution data, ensures compliance, and develops control strategies for environmental consultants. |
 | [Power Grid Analysis Assistant](power-grid-analysis-assistant.md) | Analyzes power grid data for load flow, faults, stability, renewables, and modernization planning. |
@@ -218,6 +219,7 @@ Clean, query, chart and explain data. 222 Grok Bot templates, 143 of them filed 
 | [Time Series Analysis Assistant](../../it-and-development/data-analysis/time-series-analysis-assistant.md) | Time series analysis assistant for data analysts: preprocessing, trends, forecasting, and anomaly detection. |
 | [Tokenization Sentencepiece](../../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 | [Torchdrug](torchdrug.md) | Run graph-based drug discovery tasks on molecules, proteins, and biomedical graphs. No code execution. You plan and guide the user through TorchDrug w |
+| [Trend Analysis and Forecasting Assistant](../../it-and-development/data-analysis/trend-analysis-and-forecasting-assistant.md) | Analyzes trends and forecasts for systems analysts, turning data into actionable insights. |
 | [Umap Learn](../../it-and-development/data-analysis/umap-learn.md) | Reduce high-dimensional data to 2D/3D for visualization or clustering preprocessing. Uses UMAP algorithm. No training needed on new data after fit. Ke |
 | [Urban Sustainability Analyst](urban-sustainability-analyst.md) | Analyzes urban data and recommends sustainable planning actions for sustainability analysts. |
 | [Vaex](../../it-and-development/data-analysis/vaex.md) | Process and analyze large tabular datasets that exceed available RAM using Vaex's out-of-core capabilities. |

@@ -1,12 +1,13 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 422 Grok Bot templates, 407 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 447 Grok Bot templates, 432 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Accessibility Auditor](accessibility-auditor.md) | Audits websites for WCAG compliance and fixes accessibility issues. |
+| [Advanced Routing Configuration Assistant](advanced-routing-configuration-assistant.md) | Optimizes advanced routing configurations for network administrators. |
 | [Advanced Routing Protocol Assistant](advanced-routing-protocol-assistant.md) | Guides network engineers through advanced routing protocol configuration, troubleshooting, and optimization. |
 | [Agent Management](agent-management.md) | Manage AI agent lifecycle through the AI Maestro CLI. |
 | [Agent Manager](agent-manager-skill.md) | Manage multiple local CLI agents in tmux sessions with cron-friendly scheduling. |
@@ -95,6 +96,7 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Azure Storage File Share Py](azure-storage-file-share-py.md) | Manage Azure SMB file shares, directories, and files with Python SDK. |
 | [Azure Verified Modules Bicep](azure-verified-modules-bicep.md) | Create, update, or review Azure Bicep infrastructure using Azure Verified Modules. |
 | [Azure Verified Modules Terraform](azure-verified-modules-terraform.md) | Create, update, or review Azure infrastructure as code in Terraform using Azure Verified Modules. |
+| [Bandwidth Management Assistant](bandwidth-management-assistant.md) | Analyzes network traffic and manages bandwidth for network administrators. |
 | [Bicep Implement](bicep-implement.md) | Creates Azure Bicep templates from user requirements. |
 | [Bicep Plan](bicep-plan.md) | Creates a machine-readable implementation plan for Azure Bicep IaC tasks. |
 | [Bitbucket Automation](bitbucket-automation.md) | Automate Bitbucket repos, PRs, branches, issues, and workspace management via MCP tools. |
@@ -103,6 +105,7 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Cdk Patterns](cdk-patterns.md) | Build reusable AWS CDK constructs and production-grade infrastructure stacks with TypeScript, Python, or Java. No raw CloudFormation, Terraform, or on |
 | [Chaos Engineer](chaos-engineer.md) | Designs and runs controlled failure experiments to validate system resilience before incidents occur. |
 | [Ci Cd And Automation](ci-cd-and-automation.md) | Automates CI/CD pipeline setup with quality gates and deployment strategies. |
+| [CI Pipeline Assistant](ci-pipeline-assistant.md) | Guides QA testers through continuous integration tasks from test generation to deployment. |
 | [CI/CD Pipeline Assistant](ci-cd-pipeline-assistant.md) | Streamlines CI/CD pipelines with automation, monitoring, and deployment guidance. |
 | [Cicd Automation Workflow Automate](cicd-automation-workflow-automate.md) | Design CI/CD pipelines and GitHub Actions workflows to automate development and deployment. |
 | [Circleci Automation](circleci-automation.md) | Trigger and monitor CircleCI pipelines, workflows, jobs, artifacts, and test results via Rube MCP. |
@@ -115,7 +118,9 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Cloud Devops](cloud-devops.md) | Drafts cloud infrastructure, CI/CD, containers, and monitoring plans for AWS, Azure, and GCP. |
 | [Cloud Infrastructure Strategist](cloud-infrastructure-strategist.md) | Analyzes cloud infrastructure, plans migrations, optimizes costs, and strengthens security. |
 | [Cloud Integration Navigator](cloud-integration-navigator.md) | Guides cloud integration, migration, security, and cost optimization for systems administrators. |
+| [Cloud Integration Planning Assistant](cloud-integration-planning-assistant.md) | Plan and manage your cloud integration from assessment to optimization, with every step documented and approved. |
 | [Cloud Migration Blueprint Builder](cloud-migration-blueprint-builder.md) | Guides IT specialists through cloud strategy, migration, optimization, security, and governance. |
+| [Cloud Migration Planning Assistant](cloud-migration-planning-assistant.md) | Plans cloud migrations from assessment to post-migration support. |
 | [Cloud Migration Specialist](cloud-migration-specialist.md) | Migrates on-premise workloads to cloud with minimal downtime and maximum cloud-native benefit. |
 | [Cloud Migration Strategy Planner](../../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
 | [Cloud Networking Integration Planner](cloud-networking-integration-planner.md) | Guides cloud networking integration from platform choice to migration, security, and cost control. |
@@ -138,10 +143,13 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Continuous Integration Systems Assistant](continuous-integration-systems-assistant.md) | Guides CI pipeline setup and automation for software developers, from builds to deployment and monitoring. |
 | [Cost Optimization](cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Cto Advisor](cto-advisor.md) | Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy. |
+| [Data Backup Strategy Planner](data-backup-strategy-planner.md) | Designs, audits, and maintains your organization's data backup strategy end to end. |
 | [Data Center Network Assistant](data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
 | [Data Center Operations Assistant](data-center-operations-assistant.md) | Optimizes data center operations through monitoring, planning, and incident guidance. |
 | [Data Center Power Optimizer](data-center-power-optimizer.md) | Optimizes data center power usage, forecasting, and compliance for systems administrators. |
 | [Data Integration and Architecture Planner](../../executives-and-strategy/cloud-and-devops/data-integration-and-architecture-planner.md) | Plans and documents data integration, architecture, and governance for a Chief Digital Officer. No execution without approval. |
+| [Data Recovery Planning Assistant](data-recovery-planning-assistant.md) | Guides IT support through data recovery planning, tools, troubleshooting, and policy. |
+| [Data Recovery Strategy Assistant](data-recovery-strategy-assistant.md) | Assess, plan, test, and improve your data recovery strategy end to end. |
 | [Database](database.md) | Adds Railway database services (Postgres, Redis, MySQL, MongoDB) and provides connection variable references. |
 | [Database Admin](database-admin.md) | Manages cloud and on-prem databases with backups, replication, monitoring, and access control. |
 | [Database Administration Advisor](database-administration-advisor.md) | Guides database administrators through backup, tuning, security, and growth planning. |
@@ -157,6 +165,7 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Datadog Automation](datadog-automation.md) | Automate Datadog monitoring, metrics, logs, monitors, dashboards, events, and downtimes via Rube MCP. |
 | [Datadog Cli](datadog-cli.md) | Searches Datadog logs and metrics to debug production issues and manage dashboards. |
 | [Dbt Transformation Patterns](dbt-transformation-patterns.md) | Organize dbt models into staging, intermediate, and marts with tests, docs, and incremental builds. |
+| [DC Log Analyzer for Admins](dc-log-analyzer-for-admins.md) | Data center insights and operational guidance for network administrators. Analyzes logs, plans capacity, and drafts documentation. |
 | [Debug Buttercup](debug-buttercup.md) | Debug failures in the crs Kubernetes namespace by triaging pods, Redis, and cascading issues. |
 | [Dep](dep.md) | Generates Dockerfiles, CI/CD pipelines, and deployment configs for tested code. |
 | [Deploy](deploy.md) | Deploys code from the current directory to Railway using railway up. |
@@ -230,6 +239,7 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Hybrid Cloud Networking](hybrid-cloud-networking.md) | Configure secure hybrid cloud networking with VPN, Direct Connect, and ExpressRoute. |
 | [iMessage Channel Installer](imessage-channel-installer.md) | Adds iMessage to NanoClaw with local or hosted backend. |
 | [Incident Reporting and Analysis Assistant](../../customer-support/cloud-and-devops/incident-reporting-and-analysis-assistant.md) | Turns incident logs into reports, trends, and response plans for support teams. |
+| [Incident Reporting Assistant](incident-reporting-assistant.md) | Incident reporting assistant for IT support specialists, from triage to prevention. |
 | [Incident Responder](incident-responder.md) | Assess severity, stabilize systems, coordinate communication, and produce blameless post-incident reports. |
 | [Incident Response Coordinator](../../management/cloud-and-devops/incident-response-coordinator.md) | Coordinates incident response: triage, communication, documentation, analysis, and continuous improvement for service managers. |
 | [Incident Response Incident Response](incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
@@ -243,17 +253,22 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Iot Engineer](iot-engineer.md) | Designs and deploys large-scale IoT solutions from edge to cloud. |
 | [IoT Integration Planner](iot-integration-planner.md) | IoT integration planning and management assistant for IT directors, from device selection to operations and optimization. |
 | [IoT Network Integration Assistant](iot-network-integration-assistant.md) | Guides IoT network integration from configuration to monitoring and security. |
+| [IoT Network Integration Planner](iot-network-integration-planner.md) | IoT network integration assistant for network administrators managing device lifecycle, security, and data. |
 | [IP Subnetting Assistant](ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
 | [Istio Traffic Management](istio-traffic-management.md) | Configure Istio traffic management for production service mesh deployments. |
 | [IT Director DR Plan Architect](it-director-dr-plan-architect.md) | Builds and maintains your disaster recovery plan, from risk assessment to testing and improvement. |
 | [IT Disaster Recovery Architect](it-disaster-recovery-architect.md) | Builds and maintains a complete disaster recovery plan for IT systems. |
+| [IT Disaster Recovery Blueprint](it-disaster-recovery-blueprint.md) | Disaster recovery planning assistant for IT support specialists. |
 | [IT Disaster Recovery Plan Architect](../../executives-and-strategy/cloud-and-devops/it-disaster-recovery-plan-architect.md) | Builds and maintains your IT disaster recovery plan from risk assessment to drills. |
+| [IT Disaster Recovery Planner](it-disaster-recovery-planner.md) | Builds and maintains your disaster recovery plan, from risk analysis to testing and updates. |
+| [IT Infrastructure Assessment Assistant](it-infrastructure-assessment-assistant.md) | Assesses IT infrastructure across network, servers, storage, security, cloud, and more, delivering reports and recommendations. |
 | [IT Infrastructure Planning Assistant](it-infrastructure-planning-assistant.md) | Designs and plans IT infrastructure, from network to cloud, with vendor and cost guidance. |
 | [It Manager Hospital](../../healthcare/cloud-and-devops/it-manager-hospital.md) | Advises hospital IT managers on clinical safety, digital maturity, and HIS/PEP integration. |
 | [It Manager Pro](../../management/cloud-and-devops/it-manager-pro.md) | Strategic IT leadership advisor bridging data, finance, and human-centric management. |
 | [It Operations](it-operations.md) | Manages IT infrastructure, monitoring, incident response, and service reliability for operations teams. |
 | [It Ops Orchestrator](it-ops-orchestrator.md) | Coordinates multi-domain IT operations by routing work to specialized agents and merging results. |
 | [IT Stack Optimization Reports](it-stack-optimization-reports.md) | Evaluates and optimizes your organization's tech stack end to end. |
+| [IT Support Query Automation Assistant](it-support-query-automation-assistant.md) | Automates routine IT support queries, tickets, and system checks for IT support specialists. |
 | [IT Trend Adoption Assistant](it-trend-adoption-assistant.md) | Tracks emerging IT trends and guides their adoption from research to rollout. |
 | [Itil Expert](itil-expert.md) | Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management. |
 | [K8s Manifest Generator](k8s-manifest-generator.md) | Generate production-ready Kubernetes manifests with best practices. |
@@ -266,6 +281,7 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Linux Troubleshooting](linux-troubleshooting.md) | Diagnose and resolve Linux system issues with structured troubleshooting phases. |
 | [Load Balancing Advisor](load-balancing-advisor.md) | Explains and plans load balancing techniques for network engineers. |
 | [Load Testing Specialist](load-testing-specialist.md) | Designs and executes load tests to find system bottlenecks and capacity limits. |
+| [Log Diagnostic Network Resolver](log-diagnostic-network-resolver.md) | Diagnoses and resolves network issues from logs and configs for IT support specialists. |
 | [M365 Admin](m365-admin.md) | Automates Microsoft 365 provisioning, auditing, and compliance across Exchange, Teams, SharePoint, and licensing. |
 | [M365 Agents Dotnet](m365-agents-dotnet.md) | Build multichannel agents for Microsoft 365, Teams, and Copilot Studio with .NET. |
 | [Mailtrap Sending Emails](mailtrap-sending-emails.md) | Configure Mailtrap live email sending via API, SMTP, or batch. |
@@ -308,9 +324,12 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Network Configuration Assistant](network-configuration-assistant.md) | Guides systems administrators through network configuration, troubleshooting, and optimization tasks. |
 | [Network DR Plan Builder](network-dr-plan-builder.md) | Builds and maintains your network disaster recovery plan from risk assessment to continuous improvement. |
 | [Network Engineer](network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
+| [Network Hardware Recommender](network-hardware-recommender.md) | Recommends network hardware matched to your network's size, usage, and budget. |
 | [Network Issue Diagnostician](network-issue-diagnostician.md) | Diagnoses and resolves network issues from monitoring to security. |
 | [Network Monitoring Assistant](network-monitoring-assistant.md) | Network monitoring setup, analysis, and troubleshooting assistant for engineers. |
+| [Network Optimization Consultant](network-optimization-consultant.md) | Analyzes network data and recommends optimizations for performance, security, and capacity. |
 | [Network Optimization Planner](network-optimization-planner.md) | Analyzes network data and drafts optimization plans for global IT infrastructure. |
+| [Network Scalability Strategist](network-scalability-strategist.md) | Analyzes network data and designs scalable strategies for growth and efficiency. |
 | [Network Troubleshooting Advisor](network-troubleshooting-advisor.md) | Network troubleshooting advisor for systems administrators, from diagnostics to documentation. |
 | [Network Troubleshooting Assistant](network-troubleshooting-assistant.md) | Diagnose and resolve network issues with structured troubleshooting guidance and documentation support. |
 | [Network VLAN Architect](network-vlan-architect.md) | Plans, configures, and troubleshoots VLAN setups across your network. |
@@ -337,6 +356,7 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Pb Deploy](pb-deploy.md) | Deploys PocketBase to production with Docker, systemd, reverse proxy, TLS, SMTP, backups, and hardening configs. |
 | [Performance Monitor](performance-monitor.md) | Tracks system metrics, detects anomalies, and optimizes resource usage across multi-agent environments. |
 | [Performance Optimization Assistant](../../customer-support/cloud-and-devops/performance-optimization-assistant.md) | Optimizes system performance through code, database, network, and resource analysis. |
+| [Performance Testing Assistant](performance-testing-assistant.md) | Assists QA testers with performance testing tasks from planning to reporting. |
 | [Pilot Protocol](pilot-protocol.md) | Give an AI agent a permanent network address, encrypted P2P messaging, and an installable app store via Pilot Protocol. |
 | [Platform Engineer](platform-engineer.md) | Designs and builds internal developer platforms to reduce friction and accelerate delivery. |
 | [Platform Sre Kubernetes](platform-sre-kubernetes.md) | Manages production Kubernetes deployments with safe rollouts, rollbacks, and security defaults. |
@@ -354,6 +374,7 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Push Template To Github](push-skill-to-github.md) | Commit and push capability changes to the configured capabilities repo after review. |
 | [QoS Policy Designer](qos-policy-designer.md) | Designs and tunes QoS policies for network performance and user experience. |
 | [Rclone Cli](rclone-cli.md) | Terminal-based cloud file operations using rclone CLI. |
+| [Recovery Plan Builder for Analysts](recovery-plan-builder-for-analysts.md) | Builds and refines your disaster recovery plan from risk assessment to continuous improvement. |
 | [Redis Cli](redis-cli.md) | Redis CLI reference for querying, inspecting, and managing Redis from the command line. |
 | [Release Captain](release-captain.md) | Runs the release checklist and refuses to skip the step everyone always skips. |
 | [Remote Gpu Trainer](remote-gpu-trainer.md) | Deploy, monitor, and debug long GPU jobs on rented instances with safe teardown and resumable checkpoints. |
@@ -390,6 +411,8 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Supabase Schema Architect](supabase-schema-architect.md) | Designs Supabase schemas, migrations, and RLS policies for production-ready databases. |
 | [Sysadmin Incident Lifecycle Copilot](sysadmin-incident-lifecycle-copilot.md) | Handles incident triage, documentation, communication, analysis, and training for systems administrators. |
 | [System Administration Guidance Assistant](system-administration-guidance-assistant.md) | Guides IT specialists through system administration tasks with step-by-step instructions and best practices. |
+| [System Architecture Design Assistant](system-architecture-design-assistant.md) | Designs and refines IT system architectures from requirements to deployment. |
+| [System Optimization Assistant](system-optimization-assistant.md) | Analyzes system data and recommends optimizations for IT support specialists. |
 | [System Upgrade Coordinator](../../customer-support/cloud-and-devops/system-upgrade-coordinator.md) | Plans, executes, and supports system upgrades with minimal disruption. |
 | [Technology Integration Coordinator](../../management/cloud-and-devops/technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |
 | [Templates](templates.md) | Search and deploy templates from Railway's marketplace. |
@@ -400,6 +423,7 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Terraform Module Library](terraform-module-library.md) | Build reusable Terraform modules for AWS, Azure, and GCP with standardized patterns and tests. |
 | [Terraform Specialist](terraform-specialist.md) | Designs and manages Terraform/OpenTofu infrastructure with secure state, modular code, and automated pipelines. |
 | [Terragrunt Expert](terragrunt-expert.md) | Orchestrates Terragrunt stacks, units, and dependencies for scalable multi-environment infrastructure. |
+| [Test Environment Setup Assistant](test-environment-setup-assistant.md) | Sets up, validates, documents, and maintains QA test environments on request. |
 | [Tmux](tmux.md) | Manage persistent terminal sessions, windows, and panes with tmux. |
 | [Trigger Dev](trigger-dev.md) | Builds and manages reliable background jobs and AI workflows using Trigger.dev. |
 | [Turborepo Caching](turborepo-caching.md) | Configure Turborepo caching for faster monorepo builds and CI/CD. |
@@ -419,6 +443,7 @@ Infrastructure, deployments, monitoring and incident response. 422 Grok Bot temp
 | [Virtualization Strategy Planner](virtualization-strategy-planner.md) | Plans and manages virtualization strategy from assessment to ongoing optimization. |
 | [VLAN Configuration Assistant](vlan-configuration-assistant.md) | Design, configure, troubleshoot, and document VLANs across your network. |
 | [VPN Configuration and Management Assistant](vpn-configuration-and-management-assistant.md) | Configures, troubleshoots, secures, and optimizes VPNs with step-by-step guidance. |
+| [VPN Infrastructure Manager](vpn-infrastructure-manager.md) | Guides VPN setup, management, and security for network administrators. |
 | [Vps Server Management](vps-server-management.md) | Manage authorized VPS hosts and server-side agents via SSH and cautious operations workflows. |
 | [Web Scraper](web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
 | [WhatsApp Cloud API](whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **738 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **742 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,15 +11,15 @@ Team leads and project managers. **738 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 207 |
-| [Productivity](productivity/README.md) | 188 |
+| [Data Analysis](data-analysis/README.md) | 208 |
+| [Productivity](productivity/README.md) | 190 |
 | [Research](research/README.md) | 65 |
 | [Coding](coding/README.md) | 44 |
 | [Security & Compliance](security-and-compliance/README.md) | 44 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 39 |
 | [Knowledge Management](knowledge-management/README.md) | 23 |
 | [Writing & Content](writing-and-content/README.md) | 23 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 19 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 20 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 14 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 13 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
@@ -44,7 +44,7 @@ Team leads and project managers. **738 ready-made Grok Bot templates** for this 
 | [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
-[All 207 Data Analysis templates →](data-analysis/README.md)
+[All 208 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **738 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 188 Productivity templates →](productivity/README.md)
+[All 190 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -164,7 +164,7 @@ Team leads and project managers. **738 ready-made Grok Bot templates** for this 
 | [Cloud Migration Strategy Planner](../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
 | [Cloud Roadmap Navigator](../it-and-development/cloud-and-devops/cloud-roadmap-navigator.md) | Guides IT managers through cloud strategy from assessment to optimization, with approvals before any action. |
 
-[All 19 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 20 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Sales & Negotiation
 

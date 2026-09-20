@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **1,036 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **1,040 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,11 +12,11 @@ Product managers and the teams that ship. **1,036 ready-made Grok Bot templates*
 | Kind of work | Templates |
 |---|---:|
 | [Coding](coding/README.md) | 398 |
-| [Design](design/README.md) | 98 |
-| [Data Analysis](data-analysis/README.md) | 74 |
+| [Design](design/README.md) | 99 |
+| [Data Analysis](data-analysis/README.md) | 75 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
 | [Productivity](productivity/README.md) | 67 |
-| [Research](research/README.md) | 66 |
+| [Research](research/README.md) | 67 |
 | [Generative Code](generative-code/README.md) | 65 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 48 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 37 |
@@ -28,8 +28,8 @@ Product managers and the teams that ship. **1,036 ready-made Grok Bot templates*
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 6 |
 | [Self-Improvement](self-improvement/README.md) | 4 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
+| [Translation](translation/README.md) | 2 |
 | [Office Tools](office-tools/README.md) | 1 |
-| [Translation](translation/README.md) | 1 |
 | [Video Editing](video-editing/README.md) | 1 |
 
 ## Coding
@@ -60,7 +60,7 @@ Product managers and the teams that ship. **1,036 ready-made Grok Bot templates*
 | [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 
-[All 98 Design templates →](design/README.md)
+[All 99 Design templates →](design/README.md)
 
 ## Data Analysis
 
@@ -75,7 +75,7 @@ Product managers and the teams that ship. **1,036 ready-made Grok Bot templates*
 | [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
 | [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
 
-[All 74 Data Analysis templates →](data-analysis/README.md)
+[All 75 Data Analysis templates →](data-analysis/README.md)
 
 ## Generative AI and LLM
 
@@ -120,7 +120,7 @@ Product managers and the teams that ship. **1,036 ready-made Grok Bot templates*
 | [Rex](research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [Wiki Researcher](../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
 
-[All 66 Research templates →](research/README.md)
+[All 67 Research templates →](research/README.md)
 
 ## Generative Code
 
@@ -269,17 +269,18 @@ Product managers and the teams that ship. **1,036 ready-made Grok Bot templates*
 | [Collaboration Network Expander](sales-and-negotiation/collaboration-network-expander.md) | Expands your professional network and collaboration opportunities through targeted research, outreach, and partnership coordination. |
 | [Sales Engineer](../sales/sales-and-negotiation/sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
 
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [Notion Ops Connector](../operations/office-tools/notion-ops-connector.md) | Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl. |
-
 ## Translation
 
 | Template | What it does |
 |---|---|
 | [Azure Ai Translation Text Py](../it-and-development/translation/azure-ai-translation-text-py.md) | Translate, detect, and transliterate text using Azure AI Translator. |
+| [Localization QA Verifier](../it-and-development/translation/localization-qa-verifier.md) | Localization QA bot that verifies language, layout, culture, legality, and media in localized software. |
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Notion Ops Connector](../operations/office-tools/notion-ops-connector.md) | Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl. |
 
 ## Video Editing
 

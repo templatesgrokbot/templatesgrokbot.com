@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 212 Grok Bot templates, 152 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 224 Grok Bot templates, 164 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -53,6 +53,7 @@ Clean, query, chart and explain data. 212 Grok Bot templates, 152 of them filed 
 | [Data Management Strategist](data-management-strategist.md) | Helps technology managers classify, secure, govern, and analyze data for better decisions. |
 | [Data Migration Strategist](data-migration-strategist.md) | Plans and executes database migrations with mapping, cleansing, validation, and security. |
 | [Data Migration Support Assistant](../../operations/data-analysis/data-migration-support-assistant.md) | Guides data entry specialists through every step of a data migration, from mapping to post-migration support. |
+| [Data Modeling Design Assistant](data-modeling-design-assistant.md) | Data modeling assistant for systems analysts: diagrams, models, dictionaries, and migration plans. |
 | [Data Processing Nemo Curator](../../science-and-research/data-analysis/data-processing-nemo-curator.md) | GPU-accelerated data curation for LLM training datasets. |
 | [Data Processing Ray Data](data-processing-ray-data.md) | Process large ML datasets with Ray Data across CPU/GPU clusters. |
 | [Data Quality Assessment Assistant](data-quality-assessment-assistant.md) | Data quality assessment and improvement for QA managers, from profiling to governance. |
@@ -95,13 +96,17 @@ Clean, query, chart and explain data. 212 Grok Bot templates, 152 of them filed 
 | [Hugging Face Dataset Viewer](../../science-and-research/data-analysis/hugging-face-dataset-viewer.md) | Read-only exploration of Hugging Face datasets via the Dataset Viewer API. |
 | [Hugging Face Datasets](hugging-face-datasets.md) | Create, query, and transform Hugging Face Hub datasets via SQL and push results back. |
 | [Infra Insight Reports](infra-insight-reports.md) | Analyzes IT infrastructure data and returns actionable insights for technology managers. |
+| [Infrastructure Report Builder](infrastructure-report-builder.md) | Analyzes IT infrastructure data and delivers actionable reports for consultants and their clients. |
 | [IT Budget and Cost Optimization Advisor](../../executives-and-strategy/data-analysis/it-budget-and-cost-optimization-advisor.md) | Analyzes IT spending and builds cost-optimization plans for CIOs. |
 | [IT Budget Forecast Assistant](it-budget-forecast-assistant.md) | Forecasts IT budgets, finds savings, and prepares reports for IT managers. |
 | [IT Budget Forecast for Directors](it-budget-forecast-for-directors.md) | Forecast IT budgets, track performance, and communicate insights. |
 | [IT Budget Forecasting Assistant](it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
 | [IT Budget Optimization Assistant](it-budget-optimization-assistant.md) | Analyzes IT spending and operations to find savings and optimize budget decisions. |
+| [IT Budget Scenario Planner](it-budget-scenario-planner.md) | Turns IT spending history and plans into forecasts, scenarios, and reports for budget decisions. |
+| [IT Budgeting and Cost Analysis Assistant](it-budgeting-and-cost-analysis-assistant.md) | Analyzes IT spend, forecasts costs, and recommends optimizations for IT consultants. |
 | [IT Cost Forecaster for Managers](it-cost-forecaster-for-managers.md) | Analyzes IT costs, forecasts, and optimizes budgets for technology managers. |
 | [IT Infrastructure Analysis Assistant](../../executives-and-strategy/data-analysis/it-infrastructure-analysis-assistant.md) | Analyzes IT infrastructure data to surface risks, costs, and optimization opportunities. |
+| [IT Performance Benchmarking Analyst](it-performance-benchmarking-analyst.md) | Performance benchmarking analyst for IT consultants, turning raw metrics into optimization actions. |
 | [IT Process Optimization Analyst](it-process-optimization-analyst.md) | Analyzes IT processes and drives optimization for technology managers. |
 | [IT Service Desk Analyst](it-service-desk-analyst.md) | Analyzes IT service desk data to surface trends, gaps, and improvements for IT managers. |
 | [IT Support Optimization Assistant](it-support-optimization-assistant.md) | Optimize global IT customer support through AI-driven analysis, automation, and proactive issue resolution. |
@@ -143,6 +148,7 @@ Clean, query, chart and explain data. 212 Grok Bot templates, 152 of them filed 
 | [Patent Portfolio Analyst](../../legal/data-analysis/patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
 | [Pdf Conversion Router](../../operations/data-analysis/pdf-conversion-router.md) | Classifies PDFs then selects the best conversion route for faithful output. No universal defaults. Validates before delivery. Requires approval before |
 | [Pdf Processing Pro](../../operations/data-analysis/pdf-processing-pro.md) | Extracts text, tables, and form data from PDFs with validation and batch processing. |
+| [Performance Analysis Assistant](performance-analysis-assistant.md) | Turns performance data into clear insights, forecasts, and actionable recommendations for systems analysts. |
 | [Performance Profiling Assistant](performance-profiling-assistant.md) | Profiles software performance, finds bottlenecks, and recommends optimizations from your data. |
 | [Performance Testing Analysis Assistant](performance-testing-analysis-assistant.md) | Analyzes performance testing data and generates actionable recommendations for QA managers. |
 | [Plotly](plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
@@ -158,12 +164,14 @@ Clean, query, chart and explain data. 212 Grok Bot templates, 152 of them filed 
 | [Power Bi Visualization Expert](../../operations/data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Predictive Modeling Workflow Guide](predictive-modeling-workflow-guide.md) | Guides data analysts through predictive modeling: features, preprocessing, models, tuning, evaluation, and deployment. |
 | [Prisma Expert](prisma-expert.md) | Designs Prisma schemas, fixes migrations, and optimizes queries for your database layer. |
+| [Process Improvement Analyst](process-improvement-analyst.md) | Analyzes processes, finds inefficiencies, and plans improvements for systems analysts. |
 | [Product Performance Insights](product-performance-insights.md) | Turns your product data into clear insights, forecasts, and decisions for business growth. |
 | [Pydeseq2](../../science-and-research/data-analysis/pydeseq2.md) | Run differential expression analysis on bulk RNA-seq count data using PyDESeq2. |
 | [Pydicom](../../healthcare/data-analysis/pydicom.md) | Read, write, and anonymize DICOM medical imaging files using Python. No image analysis or AI inference. You are a DICOM file handler. You can read, wr |
 | [Pymatgen](../../science-and-research/data-analysis/pymatgen.md) | Analyzes crystal structures, phase diagrams, and electronic structure for computational materials science. |
 | [QA Risk Management Assistant](qa-risk-management-assistant.md) | Identifies, assesses, and mitigates QA risks with data-driven insights and stakeholder-ready reports. |
 | [Quality Metrics Analysis Assistant](quality-metrics-analysis-assistant.md) | Turns quality metrics into structured analysis, reports, and improvement recommendations. |
+| [Quality Metrics Analyzer](quality-metrics-analyzer.md) | Turns quality metrics data into trend analysis and improvement recommendations for QA testers. |
 | [Qutip](../../science-and-research/data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
 | [Rag Chroma](rag-chroma.md) | Manages a local Chroma vector database for storing embeddings and performing semantic search. |
 | [Rag Faiss](rag-faiss.md) | Build and query billion-scale vector indexes for similarity search. No metadata filtering. No database features. Just fast nearest-neighbor search. Yo |
@@ -202,19 +210,23 @@ Clean, query, chart and explain data. 212 Grok Bot templates, 152 of them filed 
 | [Team Productivity Analyst](team-productivity-analyst.md) | Analyzes team productivity data, finds bottlenecks, and plans improvements for IT managers. |
 | [Technology Landscape Analyst](technology-landscape-analyst.md) | Analyzes your IT landscape and returns actionable insights for strategic decisions. |
 | [Template Suggester](skill-suggester.md) | Mines prompt history for repeated workflows and suggests new reusable capabilities. |
+| [Test Data Preparation Assistant](test-data-preparation-assistant.md) | Prepares, validates, and manages test data for QA testers. |
 | [Text Comparison Validator](../../operations/data-analysis/text-comparison-validator.md) | Compares extracted text to a reference file and reports all discrepancies. |
 | [Text Mining NLP Analyst](text-mining-nlp-analyst.md) | Text mining and NLP assistant for data analysts to classify, summarize, and extract insights from text data. |
 | [Time Series Analysis Assistant](time-series-analysis-assistant.md) | Time series analysis assistant for data analysts: preprocessing, trends, forecasting, and anomaly detection. |
 | [Tokenization Sentencepiece](tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 | [Torchdrug](../../science-and-research/data-analysis/torchdrug.md) | Run graph-based drug discovery tasks on molecules, proteins, and biomedical graphs. No code execution. You plan and guide the user through TorchDrug w |
+| [Trend Analysis and Forecasting Assistant](trend-analysis-and-forecasting-assistant.md) | Analyzes trends and forecasts for systems analysts, turning data into actionable insights. |
 | [Tune Monitor](../../operations/data-analysis/tune-monitor.md) | Analyze Monte Carlo monitors and recommend config changes to reduce alert noise. |
 | [Umap Learn](umap-learn.md) | Reduce high-dimensional data to 2D/3D for visualization or clustering preprocessing. Uses UMAP algorithm. No training needed on new data after fit. Ke |
+| [UX Insight Consultant](ux-insight-consultant.md) | Analyzes user data and feedback to improve UX across interfaces and channels. |
 | [Vaex](vaex.md) | Process and analyze large tabular datasets that exceed available RAM using Vaex's out-of-core capabilities. |
 | [Vector Index Tuning](vector-index-tuning.md) | Optimize vector index latency, recall, and memory for production. |
 | [Vendor Management Insights Assistant](vendor-management-insights-assistant.md) | Turns vendor data into performance, risk, contract, and cost insights for technology managers. |
 | [Video Content Extractor](video-content-extractor.md) | Extract text from MP4 videos via key frames and OCR into Markdown reports. |
 | [Warehouse](warehouse.md) | Plan and review read-only warehouse analysis with explicit scope and validation checks. No schema guessing or write operations. Hand off admin, pipeli |
 | [Weaviate](weaviate.md) | Search, query, and manage data in a Weaviate vector database. |
+| [Website Data Visualization Assistant](website-data-visualization-assistant.md) | Turns website data into clear, interactive visualizations that engage users. |
 | [Wireshark Analysis](wireshark-analysis.md) | Analyze PCAP files with Wireshark filters and statistics for security and performance investigations. |
 | [Xlsx Official](../../finance/data-analysis/xlsx-official.md) | Reads, edits, and creates spreadsheet files with formulas, formatting, and zero errors. |
 | [Zarr Python](zarr-python.md) | Store and access large N-dimensional arrays with chunking, compression, and cloud storage backends. |

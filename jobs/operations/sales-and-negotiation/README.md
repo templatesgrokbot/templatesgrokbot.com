@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Operations
 
-Prospecting, outreach, proposals and negotiating terms. 27 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 28 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -31,6 +31,7 @@ Prospecting, outreach, proposals and negotiating terms. 27 Grok Bot templates, 1
 | [Vendor Management Assistant](vendor-management-assistant.md) | Manages vendor evaluation, selection, negotiation, performance, risk, and development for supply chain analysts. |
 | [Vendor Negotiation Assistant](vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
 | [Vendor Negotiation Strategist](vendor-negotiation-strategist.md) | Prepares, runs, and reviews vendor negotiations from research to contract for a Director of Operations. |
+| [Vendor Onboarding Analyst](../../it-and-development/sales-and-negotiation/vendor-onboarding-analyst.md) | Manages vendor relationships from selection to onboarding, with analysis and reporting. |
 | [Vendor Relationship Management Assistant](vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
 | [Workorai](../../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
 

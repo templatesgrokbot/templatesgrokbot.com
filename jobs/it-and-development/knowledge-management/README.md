@@ -1,6 +1,6 @@
 # Knowledge Management templates for IT and Development
 
-Notes, documents, PDFs and knowledge bases kept in order. 45 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 46 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -38,6 +38,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 45 Grok Bot templates,
 | [Memory Search](memory-search.md) | Search conversation history and semantic memory to recall past discussions and decisions. |
 | [Mesh Memory](mesh-memory.md) | Self-hosted semantic memory for AI agents via MCP, saving and recalling worklogs, decisions, and notes by meaning. |
 | [Moc Agent](../../operations/knowledge-management/moc-agent.md) | Creates and maintains Obsidian Maps of Content to keep your vault navigable. |
+| [Network Documentation and Mapping Assistant](network-documentation-and-mapping-assistant.md) | Builds and maintains complete network documentation and diagrams from your data. |
 | [Quality Documentation Manager](../../operations/knowledge-management/quality-documentation-manager.md) | Manages document control, change control, and regulatory documentation compliance for medical device organizations. |
 | [Read All Adrs](read-all-adrs.md) | Read all ADR files in a project to understand architectural decisions. |
 | [Record-Keeping Compliance Optimizer](../../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |

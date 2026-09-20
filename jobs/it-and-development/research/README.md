@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 94 Grok Bot templates, 46 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 105 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Find sources, compare evidence and summarise what is known. 94 Grok Bot template
 | [Anndata](../../science-and-research/research/anndata.md) | Manages annotated data matrices for single-cell genomics and large-scale biological datasets. |
 | [Apify Ecommerce](apify-ecommerce.md) | Extract product data, prices, reviews, and sellers from e-commerce sites via Apify. |
 | [Arboreto](../../science-and-research/research/arboreto.md) | Infer gene regulatory networks from gene expression data using GRNBoost2 or GENIE3. |
+| [Automation Tool Selection Assistant](automation-tool-selection-assistant.md) | Guides QA testers in selecting and implementing the right automation tools. |
 | [Bdistill Knowledge Extraction](../../science-and-research/research/bdistill-knowledge-extraction.md) | Extract structured, quality-scored domain knowledge from AI models without API keys. No training data generation. |
 | [Biomni](../../science-and-research/research/biomni.md) | Executes multi-step biomedical research tasks using an autonomous AI agent framework. |
 | [Biopython](../../science-and-research/research/biopython.md) | Runs Python molecular biology tasks using Biopython for sequence, structure, and database work. |
@@ -21,9 +22,11 @@ Find sources, compare evidence and summarise what is known. 94 Grok Bot template
 | [Cellxgene Census](../../science-and-research/research/cellxgene-census.md) | Query 61M+ single cells from CZ CELLxGENE Census by cell type, tissue, or disease. |
 | [Chembl Database](../../science-and-research/research/chembl-database.md) | Query ChEMBL for bioactive molecules, targets, and drug discovery data. |
 | [Clarvia Aeo Check](clarvia-aeo-check.md) | Score any MCP server, API, or CLI for agent-readiness using Clarvia AEO. |
+| [Competitor Website Analyst](competitor-website-analyst.md) | Tracks competitor websites and turns their strategies into actionable web development insights. |
 | [Context7](context7.md) | Answers library and framework questions using only current official documentation. |
 | [Context7 Auto Research](context7-auto-research.md) | Fetches latest library/framework documentation via Context7 API on demand. |
 | [Cosmic Database](../../science-and-research/research/cosmic-database.md) | Downloads and queries cancer mutation data from the COSMIC database for research. |
+| [Custom Software Recommendation Assistant](custom-software-recommendation-assistant.md) | Recommends custom software matched to client needs, budget, and growth plans. |
 | [Deepchem](../../science-and-research/research/deepchem.md) | Predict molecular properties and train ML models for drug discovery. |
 | [Defuddle](defuddle.md) | Extract clean markdown from web pages using Defuddle CLI. |
 | [Efficient Web Research](../../science-and-research/research/efficient-web-research.md) | Token-efficient web research protocol that fetches minimum needed to answer. |
@@ -35,6 +38,7 @@ Find sources, compare evidence and summarise what is known. 94 Grok Bot template
 | [Gepetto](../../product-development/research/gepetto.md) | Creates detailed, sectionized implementation plans through research, stakeholder interviews, and multi-LLM review. |
 | [Get Available Resources](get-available-resources.md) | Detects system resources and recommends optimal computational strategies for scientific tasks. |
 | [Global Chat Agent Discovery](global-chat-agent-discovery.md) | Search 18K+ MCP servers and AI agents across 6+ registries from one directory. |
+| [Hardware Selection Assistant](hardware-selection-assistant.md) | Hardware selection assistant for IT support specialists, from research to recommendations. |
 | [Hasdata Cli](hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
 | [Hugging Face Papers](../../science-and-research/research/hugging-face-papers.md) | Fetch, summarize, and explore AI research papers from Hugging Face and arXiv. |
 | [Ii Commons](../../science-and-research/research/ii-commons.md) | Deterministic search across arXiv, PubMed/PMC, and US policy corpora with daily freshness cutoffs. |
@@ -43,6 +47,7 @@ Find sources, compare evidence and summarise what is known. 94 Grok Bot template
 | [Isms Audit Expert](isms-audit-expert.md) | Conducts ISO 27001 ISMS audits, manages audit programs, and assesses security controls for compliance verification. No certification decisions made. A |
 | [IT AI Automation Strategist](it-ai-automation-strategist.md) | For IT VPs: research AI/automation trends, plan implementations, and optimize IT operations with data-backed insights. |
 | [IT Vendor Analysis Assistant](it-vendor-analysis-assistant.md) | Evaluates, monitors, and manages IT vendors from research to exit. |
+| [Learning Resource Curator](learning-resource-curator.md) | Research, recommend, and build learning resource platforms for web development. |
 | [Lightning Architecture Review](lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 | [Longbridge Content](../../finance/research/longbridge-content.md) | Fetches stock news, filings, community topics, and SEC EDGAR analysis via Longbridge, no login, in your language. |
 | [Mcp Registry Navigator](mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
@@ -80,10 +85,13 @@ Find sources, compare evidence and summarise what is known. 94 Grok Bot template
 | [Search](search.md) | Searches Google via Bright Data SERP API and returns structured JSON results. |
 | [Seek And Analyze Video](seek-and-analyze-video.md) | Search, import, and analyze video content with persistent memory across sessions. |
 | [Seo Images](../../marketing/research/seo-images.md) | Audit image SEO, alt text, sizes, formats, and lazy loading for web pages. |
+| [Software Selection Analyst](software-selection-analyst.md) | Guides systems analysts through software selection from research to decision documentation. |
 | [Task Researcher](task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 | [Tavily Web](tavily-web.md) | Searches the web, extracts content, and crawls sites via Tavily API. |
 | [Tech Resource Recommender](tech-resource-recommender.md) | Recommends tech resources—software, hardware, peripherals, network, security, cloud, and more—for help desk needs. |
 | [Tech Risk Adoption Planner](tech-risk-adoption-planner.md) | Tracks tech trends, assesses risks, and plans adoption for technology managers. |
+| [Tech Trend Analyst for IT Support](tech-trend-analyst-for-it-support.md) | Tracks tech trends, assesses their impact on IT support, and guides strategic decisions. |
+| [Tech Trend Monitor](tech-trend-monitor.md) | Monitors technology trends and delivers actionable insights for IT consultants. |
 | [Technical Researcher](technical-researcher.md) | Analyzes code repositories, documentation, and technical implementations for informed decisions. |
 | [Technology Integration Assessment Assistant](../../management/research/technology-integration-assessment-assistant.md) | Guides technology integration assessments from data analysis to implementation planning. |
 | [Technology Trend Analyst](technology-trend-analyst.md) | Tracks tech trends and turns them into actionable IT strategy for global IT leaders. |
@@ -93,7 +101,10 @@ Find sources, compare evidence and summarise what is known. 94 Grok Bot template
 | [Tools Page Seo Optimizer](../../marketing/research/tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |
 | [Url Context Validator](url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
 | [Usability Testing Assistant](../../creatives/research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
+| [Usability Testing Planner](usability-testing-planner.md) | Plan and analyze usability tests to improve product user experience. |
+| [Vendor Evaluation and Comparison Assistant](vendor-evaluation-and-comparison-assistant.md) | Evaluates and compares IT vendors for informed procurement decisions. |
 | [Vendor Evaluation Assistant](../../executives-and-strategy/research/vendor-evaluation-assistant.md) | Evaluates vendors end-to-end for CTOs, from research to exit strategy. |
+| [Vendor Selection and Management Assistant](vendor-selection-and-management-assistant.md) | Manages vendor selection, evaluation, and relationships for IT consultants. |
 | [Vexor](vexor.md) | Search files semantically using a vector-powered CLI with Claude/Codex integration. No file editing or code generation. No autonomous execution withou |
 | [Web To Markdown](web-to-markdown.md) | Converts webpage URLs to clean Markdown using a local browser-based CLI. |
 | [Wiki Builder](../../science-and-research/research/wiki-builder.md) | Create and maintain reusable research wikis with source provenance and local markdown outputs. |

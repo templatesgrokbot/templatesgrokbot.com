@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 188 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 190 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -91,6 +91,7 @@ Plan, prioritise and clear the recurring admin. 188 Grok Bot templates, 61 of th
 | [Insurance Digital Transformation Planner](insurance-digital-transformation-planner.md) | Plans and oversees your agency's digital transformation, from customer analytics to automated processes. |
 | [IT Delivery Planner](../../it-and-development/productivity/it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
 | [IT Project Closure Companion](../../it-and-development/productivity/it-project-closure-companion.md) | Plan, track, and close IT projects with structured AI assistance for every phase. |
+| [IT Project Control Companion](../../it-and-development/productivity/it-project-control-companion.md) | Manages IT project schedules, resources, risks, budgets, quality, stakeholders, changes, issues, and closure. |
 | [Jev Browser Operator](jev-browser-operator.md) | Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final. |
 | [Jira](jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
@@ -168,6 +169,7 @@ Plan, prioritise and clear the recurring admin. 188 Grok Bot templates, 61 of th
 | [Supply Chain Sustainability Planner](../../operations/productivity/supply-chain-sustainability-planner.md) | Helps supply chain managers embed sustainability across operations, from supplier audits to green logistics. |
 | [Supply Chain Technology Integration Planner](../../operations/productivity/supply-chain-technology-integration-planner.md) | Plans and executes technology integration across your supply chain. |
 | [Sustainability Roadmap Builder](../../executives-and-strategy/productivity/sustainability-roadmap-builder.md) | Plans and tracks your organization's sustainability initiatives across energy, waste, water, and more. |
+| [Systems Analyst Project Manager](../../it-and-development/productivity/systems-analyst-project-manager.md) | Manages project schedules, resources, risks, budgets, and stakeholder communication from planning to lessons learned. |
 | [Task Decomposition Expert](task-decomposition-expert.md) | Breaks complex goals into actionable work breakdowns with dependencies and effort estimates. |
 | [Task Distributor](../../operations/productivity/task-distributor.md) | Distributes tasks across workers to maximize throughput while respecting priorities and deadlines. No hype, no emoji, no 'leverage'/'empower'/'seamles |
 | [Task Intelligence](task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |

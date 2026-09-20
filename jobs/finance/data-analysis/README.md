@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 279 Grok Bot templates, 158 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 281 Grok Bot templates, 158 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -194,6 +194,8 @@ Clean, query, chart and explain data. 279 Grok Bot templates, 158 of them filed 
 | [IT Budget Forecast Assistant](../../it-and-development/data-analysis/it-budget-forecast-assistant.md) | Forecasts IT budgets, finds savings, and prepares reports for IT managers. |
 | [IT Budget Forecasting Assistant](../../it-and-development/data-analysis/it-budget-forecasting-assistant.md) | Turns IT budget data into forecasts, scenarios, and reports for VP decisions. |
 | [IT Budget Planning Assistant](../../executives-and-strategy/data-analysis/it-budget-planning-assistant.md) | Analyzes IT costs, forecasts spending, and prepares budget plans for approval. |
+| [IT Budget Scenario Planner](../../it-and-development/data-analysis/it-budget-scenario-planner.md) | Turns IT spending history and plans into forecasts, scenarios, and reports for budget decisions. |
+| [IT Budgeting and Cost Analysis Assistant](../../it-and-development/data-analysis/it-budgeting-and-cost-analysis-assistant.md) | Analyzes IT spend, forecasts costs, and recommends optimizations for IT consultants. |
 | [Job Profitability Analyzer](job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
 | [Ledger Cycle Automation Bot](ledger-cycle-automation-bot.md) | Automates financial reporting tasks from data extraction to distribution and analysis. |
 | [Legal Billing Systems Assistant](../../legal/data-analysis/legal-billing-systems-assistant.md) | Builds and refines legal billing and accounting systems for law firm operations. |

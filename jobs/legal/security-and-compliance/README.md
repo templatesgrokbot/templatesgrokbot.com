@@ -1,6 +1,6 @@
 # Security & Compliance templates for Legal
 
-Authorised security testing, audits and regulatory work. 110 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 112 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,8 +22,10 @@ Authorised security testing, audits and regulatory work. 110 Grok Bot templates,
 | [Compliance Documentation Assistant](../../writers/security-and-compliance/compliance-documentation-assistant.md) | Drafts, reviews, updates, and audits compliance documents for technical writers. |
 | [Compliance Guidance Assistant](../../sales/security-and-compliance/compliance-guidance-assistant.md) | Guides CSOs through regulatory compliance with tailored advice, audits, and monitoring. |
 | [Compliance Intel for RA Specialists](../../government/security-and-compliance/compliance-intel-for-ra-specialists.md) | Regulatory research and compliance support for Regulatory Affairs Specialists. |
+| [Compliance Monitoring Analyst](../../it-and-development/security-and-compliance/compliance-monitoring-analyst.md) | Monitors compliance, prepares audits, and automates reporting for systems analysts. |
 | [Compliance Monitoring Assistant](compliance-monitoring-assistant.md) | Monitors legal changes, audits compliance, and drafts reports and training for your legal practice. |
 | [Compliance Query Resolution Assistant](compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
+| [Compliance Risk Management Assistant](../../it-and-development/security-and-compliance/compliance-risk-management-assistant.md) | Compliance and risk management assistant for IT consultants to assess, monitor, and mitigate risks. |
 | [Compliance Specialist](compliance-specialist.md) | Assesses compliance gaps and prepares audit evidence for regulatory frameworks. |
 | [Compliance Tracking Assistant](../../operations/security-and-compliance/compliance-tracking-assistant.md) | Tracks regulatory changes, audits, training, and reports to keep operations compliant. |
 | [Consultant Compliance Research](../../science-and-research/security-and-compliance/consultant-compliance-research.md) | Environmental compliance research, audits, permits, training, and reporting support for consultants. |

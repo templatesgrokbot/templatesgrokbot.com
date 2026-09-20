@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 45 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 103 Grok Bot templates, 50 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,6 +22,7 @@ Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 45 of the
 | [Build](../../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Chieeeeefy](../../operations/productivity/chieeeeefy.md) | Manages calendar and email for a field engineer, converting timezones and protecting attention. (124 chars) No hype, no emoji. Rewritten: |
 | [Claude Win11 Speckit Update](claude-win11-speckit-update-skill.md) | Manage Windows 11 system settings and updates. |
+| [Communication Channel Optimizer](communication-channel-optimizer.md) | Optimizes your organization's communication channels for efficiency and engagement. |
 | [Conductor Manage](../../operations/productivity/conductor-manage.md) | Manage Conductor track lifecycle: archive, restore, delete, rename, and cleanup. |
 | [Conductor New Track](../../management/productivity/conductor-new-track.md) | Create a new track with specification and phased implementation plan. |
 | [Conductor Status](../../management/productivity/conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
@@ -45,6 +46,7 @@ Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 45 of the
 | [Innovation Cultivation Strategist](innovation-cultivation-strategist.md) | Turns innovation ideas into a managed pipeline for technology managers. |
 | [IT Delivery Planner](it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
 | [IT Project Closure Companion](it-project-closure-companion.md) | Plan, track, and close IT projects with structured AI assistance for every phase. |
+| [IT Project Control Companion](it-project-control-companion.md) | Manages IT project schedules, resources, risks, budgets, quality, stakeholders, changes, issues, and closure. |
 | [IT Project Management Assistant](it-project-management-assistant.md) | IT project planning, risk, resource, and stakeholder support for Vice Presidents of IT. |
 | [IT Strategy Formulation Assistant](it-strategy-formulation-assistant.md) | Turns IT landscape data into a strategic plan for a Vice President of IT, with approvals before any action. |
 | [IT Talent Acquisition Planner](it-talent-acquisition-planner.md) | Guides IT leaders through the full talent acquisition cycle, from market analysis to onboarding, with actionable AI-assisted strategies. |
@@ -74,6 +76,7 @@ Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 45 of the
 | [QA Process Improvement Planner](qa-process-improvement-planner.md) | Optimize QA processes with AI-driven analysis, automation, and reporting. |
 | [QA Test Planning Strategist](qa-test-planning-strategist.md) | Plans and strategizes QA testing from coverage analysis to CI/CD. |
 | [Refine Issue](refine-issue.md) | Enriches GitHub issues with acceptance criteria, edge cases, and technical notes. |
+| [Regression Testing Strategist](regression-testing-strategist.md) | Regression testing strategist that plans, prioritizes, and analyzes software regression work. |
 | [Risk Analysis and Management Assistant](risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Schedule Tasks](../../operations/productivity/anthropic-schedule.md) | Run recurring tasks automatically: a briefing every morning, a weekly plan every Monday, an inbox check every hour. |
 | [Screenshot](screenshot.md) | Captures desktop screenshots on macOS, Linux, or Windows when explicitly requested. |
@@ -84,6 +87,8 @@ Plan, prioritise and clear the recurring admin. 98 Grok Bot templates, 45 of the
 | [Software License Lifecycle Manager](software-license-lifecycle-manager.md) | Manages the full software license lifecycle for IT directors, from inventory to optimization. |
 | [Strategic IT Planning Assistant](strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
 | [Stripe Automation](../../finance/productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
+| [System Integration Planning Assistant](system-integration-planning-assistant.md) | Plans system integration projects from data mapping to continuous improvement for systems analysts. |
+| [Systems Analyst Project Manager](systems-analyst-project-manager.md) | Manages project schedules, resources, risks, budgets, and stakeholder communication from planning to lessons learned. |
 | [Task Intelligence](../../management/productivity/task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |
 | [Team Collaboration Standup Notes](../../management/productivity/team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |
 | [Tech Project Tracker](tech-project-tracker.md) | Manages project schedules, resources, risks, budgets, and team communication from planning to delivery. |

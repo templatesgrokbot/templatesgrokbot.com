@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 74 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 75 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -78,6 +78,7 @@ Clean, query, chart and explain data. 74 Grok Bot templates, 34 of them filed in
 | [SVP Product Market Analyst](../../executives-and-strategy/data-analysis/svp-product-market-analyst.md) | Turns market data into product decisions for senior product leaders. |
 | [Template Suggester](../../it-and-development/data-analysis/skill-suggester.md) | Mines prompt history for repeated workflows and suggests new reusable capabilities. |
 | [User Feedback Insight Assistant](user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
+| [UX Insight Consultant](../../it-and-development/data-analysis/ux-insight-consultant.md) | Analyzes user data and feedback to improve UX across interfaces and channels. |
 | [Waste Management Optimization Assistant](waste-management-optimization-assistant.md) | Analyzes waste streams, ensures compliance, and optimizes waste management for process engineers. |
 | [Zinc Database](../../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
 

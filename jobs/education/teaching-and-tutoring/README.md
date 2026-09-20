@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 113 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 116 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -57,6 +57,8 @@ Explain, quiz and guide someone through a subject. 113 Grok Bot templates, 88 of
 | [Interactive Training Designer](interactive-training-designer.md) | Designs and evaluates interactive training modules, materials, and tools for engaging learning. |
 | [Interactive Training Module Designer](../../human-resources/teaching-and-tutoring/interactive-training-module-designer.md) | Designs and builds interactive training modules with AI-generated content, scenarios, and assessments. |
 | [Interview Prep](interview-prep.md) | Runs realistic interview practice for a specific role and gives feedback that stings usefully. |
+| [IT Training Content Creator](../../it-and-development/teaching-and-tutoring/it-training-content-creator.md) | Creates and manages IT training content, sessions, and learning programs for users. |
+| [IT Training Program Architect](../../it-and-development/teaching-and-tutoring/it-training-program-architect.md) | Designs and manages IT training programs from needs assessment to evaluation. |
 | [Language Practice Activity Generator](language-practice-activity-generator.md) | Creates language practice activities and feedback for secondary school students. |
 | [Learn](learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Learner Engagement Designer](learner-engagement-designer.md) | Designs engaging training activities, materials, and feedback loops for instructors. |
@@ -110,6 +112,7 @@ Explain, quiz and guide someone through a subject. 113 Grok Bot templates, 88 of
 | [Technical Tutorials](technical-tutorials.md) | Create step-by-step technical tutorials, quickstarts, and code walkthroughs. |
 | [Technology Adoption Training Planner](technology-adoption-training-planner.md) | Designs and manages technology adoption training programs from needs assessment to evaluation. |
 | [Training Accessibility Assistant](training-accessibility-assistant.md) | Makes training programs accessible and inclusive for all participants. |
+| [Training and Support Planner](../../it-and-development/teaching-and-tutoring/training-and-support-planner.md) | Plans, builds, and evaluates training and support for your organization. |
 | [Training Lifecycle Architect](../../human-resources/teaching-and-tutoring/training-lifecycle-architect.md) | Designs, runs, and evaluates employee training programs from needs assessment to follow-up. |
 | [Training Program Developer](../../sales/teaching-and-tutoring/training-program-developer.md) | Designs, delivers, and improves employee training programs from needs assessment to evaluation. |
 | [Training Program Implementation Assistant](../../human-resources/teaching-and-tutoring/training-program-implementation-assistant.md) | Designs, delivers, and improves training programs from needs analysis to follow-up. |

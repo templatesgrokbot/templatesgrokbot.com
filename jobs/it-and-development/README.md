@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **2,909 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,30 +11,30 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Coding](coding/README.md) | 1,041 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 422 |
-| [Security & Compliance](security-and-compliance/README.md) | 308 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 213 |
-| [Data Analysis](data-analysis/README.md) | 212 |
-| [Design](design/README.md) | 104 |
-| [Productivity](productivity/README.md) | 98 |
-| [Research](research/README.md) | 94 |
+| [Coding](coding/README.md) | 1,049 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 447 |
+| [Security & Compliance](security-and-compliance/README.md) | 320 |
+| [Data Analysis](data-analysis/README.md) | 224 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 216 |
+| [Design](design/README.md) | 106 |
+| [Research](research/README.md) | 105 |
+| [Productivity](productivity/README.md) | 103 |
 | [Generative Code](generative-code/README.md) | 89 |
-| [Knowledge Management](knowledge-management/README.md) | 45 |
+| [Knowledge Management](knowledge-management/README.md) | 46 |
+| [Writing & Content](writing-and-content/README.md) | 42 |
 | [Prompt Engineering](prompt-engineering/README.md) | 33 |
-| [Writing & Content](writing-and-content/README.md) | 33 |
 | [Support & Community](support-and-community/README.md) | 29 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 21 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 20 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 23 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 22 |
 | [Generative Art](generative-art/README.md) | 13 |
 | [Office Tools](office-tools/README.md) | 11 |
 | [Speech-To-Text](speech-to-text/README.md) | 9 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 5 |
+| [Translation](translation/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 4 |
-| [Translation](translation/README.md) | 3 |
 | [Video Editing](video-editing/README.md) | 3 |
 | [Generative Video](generative-video/README.md) | 2 |
-| [Social Media](social-media/README.md) | 1 |
+| [Social Media](social-media/README.md) | 2 |
 | [Text-To-Speech](text-to-speech/README.md) | 1 |
 
 ## Coding
@@ -50,7 +50,7 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 | [Thinking Beast Mode](coding/thinking-beast-mode.md) | Drives multi-step engineering tasks to full completion with visible todo tracking. |
 | [Apify Integration Expert](coding/apify-integration-expert.md) | Integrates Apify Actors into codebases for scraping and automation. |
 
-[All 1,041 Coding templates →](coding/README.md)
+[All 1,049 Coding templates →](coding/README.md)
 
 ## Cloud & DevOps
 
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 | [Zapier Make Patterns](cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 
-[All 422 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 447 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Security & Compliance
 
@@ -80,22 +80,7 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 | [Ad Security Reviewer](security-and-compliance/ad-security-reviewer.md) | Audits Active Directory security posture and identifies privilege escalation risks from exported evidence. |
 | [Smart Contract Auditor](security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
 
-[All 308 Security & Compliance templates →](security-and-compliance/README.md)
-
-## Generative AI and LLM
-
-| Template | What it does |
-|---|---|
-| [Emerging Techniques Knowledge Distillation](generative-ai-and-llm/emerging-techniques-knowledge-distillation.md) | Compress large language models by distilling knowledge from a teacher to a smaller student model. |
-| [Llm Evaluation](generative-ai-and-llm/llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
-| [Microsoft Agent Framework Python](generative-ai-and-llm/microsoft-agent-framework-python.md) | Create and maintain Python AI agents using Microsoft Agent Framework. Always check latest docs first. Interview once for project details. Keep state o |
-| [Embedding Strategies](generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
-| [Llm Council](generative-ai-and-llm/llm-council.md) | Run a council of open-weight LLMs that deliberate and synthesize a final answer via Fireworks AI. |
-| [Ai Engineering Toolkit](generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
-| [Crewai](generative-ai-and-llm/crewai.md) | Designs collaborative AI agent teams with CrewAI framework |
-| [Agent Tool Builder](generative-ai-and-llm/agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
-
-[All 213 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 320 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Data Analysis
 
@@ -110,7 +95,22 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 | [Plotly](data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Nosql Specialist](data-analysis/nosql-specialist.md) | Designs and optimizes NoSQL databases for MongoDB, Redis, Cassandra, and key-value stores. |
 
-[All 212 Data Analysis templates →](data-analysis/README.md)
+[All 224 Data Analysis templates →](data-analysis/README.md)
+
+## Generative AI and LLM
+
+| Template | What it does |
+|---|---|
+| [Emerging Techniques Knowledge Distillation](generative-ai-and-llm/emerging-techniques-knowledge-distillation.md) | Compress large language models by distilling knowledge from a teacher to a smaller student model. |
+| [Llm Evaluation](generative-ai-and-llm/llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
+| [Microsoft Agent Framework Python](generative-ai-and-llm/microsoft-agent-framework-python.md) | Create and maintain Python AI agents using Microsoft Agent Framework. Always check latest docs first. Interview once for project details. Keep state o |
+| [Embedding Strategies](generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
+| [Llm Council](generative-ai-and-llm/llm-council.md) | Run a council of open-weight LLMs that deliberate and synthesize a final answer via Fireworks AI. |
+| [Ai Engineering Toolkit](generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
+| [Crewai](generative-ai-and-llm/crewai.md) | Designs collaborative AI agent teams with CrewAI framework |
+| [Agent Tool Builder](generative-ai-and-llm/agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
+
+[All 216 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
 ## Design
 
@@ -125,22 +125,7 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 | [Ux Flow](../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 | [Design System](design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
 
-[All 104 Design templates →](design/README.md)
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Linear Automation](productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
-| [Markitdown](../operations/productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
-| [Diary](../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
-| [Obsidian Clipper Template Creator](../operations/productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
-| [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
-| [Mac Storage Cleaner](productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
-| [Sendblue Cli](productivity/sendblue-cli.md) | Send iMessage and SMS from the shell using the Sendblue CLI. |
-| [Planning With Files](../management/productivity/planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
-
-[All 98 Productivity templates →](productivity/README.md)
+[All 106 Design templates →](design/README.md)
 
 ## Research
 
@@ -155,7 +140,22 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 | [Esm](../science-and-research/research/esm.md) | Designs and analyzes proteins using ESM language models for sequence, structure, and function tasks. |
 | [Lightning Architecture Review](research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 
-[All 94 Research templates →](research/README.md)
+[All 105 Research templates →](research/README.md)
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Linear Automation](productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
+| [Markitdown](../operations/productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
+| [Diary](../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
+| [Obsidian Clipper Template Creator](../operations/productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
+| [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
+| [Mac Storage Cleaner](productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
+| [Sendblue Cli](productivity/sendblue-cli.md) | Send iMessage and SMS from the shell using the Sendblue CLI. |
+| [Planning With Files](../management/productivity/planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
+
+[All 103 Productivity templates →](productivity/README.md)
 
 ## Generative Code
 
@@ -185,7 +185,22 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 | [Atlas Ledger](knowledge-management/atlas-ledger.md) | Distills caught drift into WHEN/DON'T/INSTEAD clauses for Atlas.md. |
 | [Mesh Memory](knowledge-management/mesh-memory.md) | Self-hosted semantic memory for AI agents via MCP, saving and recalling worklogs, decisions, and notes by meaning. |
 
-[All 45 Knowledge Management templates →](knowledge-management/README.md)
+[All 46 Knowledge Management templates →](knowledge-management/README.md)
+
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Documentation Templates](writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
+| [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
+| [Resume Section Builder](../human-resources/writing-and-content/resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
+| [Resume Bullet Writer](../human-resources/writing-and-content/resume-bullet-writer.md) | Transform weak resume bullets into achievement-focused statements with metrics and impact. |
+| [Resume Formatter](../human-resources/writing-and-content/resume-formatter.md) | Reformats resumes for ATS compatibility and clean, scannable layouts. |
+| [Software Documentation Assistant](writing-and-content/software-documentation-assistant.md) | Documentation assistant for software developers creating clear, consistent code and user docs. |
+| [Reference List Builder](../human-resources/writing-and-content/reference-list-builder.md) | Formats professional reference lists and prepares reference materials for job applications. |
+| [Se Technical Writer](writing-and-content/se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
+
+[All 42 Writing & Content templates →](writing-and-content/README.md)
 
 ## Prompt Engineering
 
@@ -202,21 +217,6 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 
 [All 33 Prompt Engineering templates →](prompt-engineering/README.md)
 
-## Writing & Content
-
-| Template | What it does |
-|---|---|
-| [Documentation Templates](writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
-| [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
-| [Resume Section Builder](../human-resources/writing-and-content/resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
-| [Resume Bullet Writer](../human-resources/writing-and-content/resume-bullet-writer.md) | Transform weak resume bullets into achievement-focused statements with metrics and impact. |
-| [Resume Formatter](../human-resources/writing-and-content/resume-formatter.md) | Reformats resumes for ATS compatibility and clean, scannable layouts. |
-| [Software Documentation Assistant](writing-and-content/software-documentation-assistant.md) | Documentation assistant for software developers creating clear, consistent code and user docs. |
-| [Reference List Builder](../human-resources/writing-and-content/reference-list-builder.md) | Formats professional reference lists and prepares reference materials for job applications. |
-| [Se Technical Writer](writing-and-content/se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
-
-[All 33 Writing & Content templates →](writing-and-content/README.md)
-
 ## Support & Community
 
 | Template | What it does |
@@ -232,21 +232,6 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 
 [All 29 Support & Community templates →](support-and-community/README.md)
 
-## Marketing & Growth
-
-| Template | What it does |
-|---|---|
-| [Social Metadata Hardening](../marketing/marketing-and-growth/social-metadata-hardening.md) | Fix social sharing previews so URLs render as rich cards on all platforms. |
-| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
-| [Github Presence](../marketing/marketing-and-growth/github-presence.md) | Optimize GitHub profiles, READMEs, and project discoverability. |
-| [Seo Hreflang](../marketing/marketing-and-growth/seo-hreflang.md) | Validate and generate hreflang tags for international SEO. |
-| [SEO / GEO / AEO Website Audit](../marketing/marketing-and-growth/seo-geo-aeo-audit.md) | Audits any website across SEO, GEO, and AEO visibility layers with scores and prioritized actions. |
-| [Generate Schema Markup](../marketing/marketing-and-growth/schema-markup-generator.md) | Generates valid JSON-LD schema markup for a single page based on its visible content. |
-| [Search Ai Optimization Expert](../marketing/marketing-and-growth/search-ai-optimization-expert.md) | Optimize websites and content for search engines, answer engines, and generative AI systems. |
-| [Developer Seo](../marketing/marketing-and-growth/developer-seo.md) | SEO strategy for technical queries and developer audiences. |
-
-[All 21 Marketing & Growth templates →](marketing-and-growth/README.md)
-
 ## Teaching & Tutoring
 
 | Template | What it does |
@@ -260,7 +245,22 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 | [Yann LeCun Philosophy](../education/teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
 | [Data Warehouse Design Advisor](teaching-and-tutoring/data-warehouse-design-advisor.md) | Guides database administrators through data warehouse design, implementation, and ongoing operations. |
 
-[All 20 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+[All 23 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Social Metadata Hardening](../marketing/marketing-and-growth/social-metadata-hardening.md) | Fix social sharing previews so URLs render as rich cards on all platforms. |
+| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
+| [Github Presence](../marketing/marketing-and-growth/github-presence.md) | Optimize GitHub profiles, READMEs, and project discoverability. |
+| [Seo Hreflang](../marketing/marketing-and-growth/seo-hreflang.md) | Validate and generate hreflang tags for international SEO. |
+| [SEO / GEO / AEO Website Audit](../marketing/marketing-and-growth/seo-geo-aeo-audit.md) | Audits any website across SEO, GEO, and AEO visibility layers with scores and prioritized actions. |
+| [Generate Schema Markup](../marketing/marketing-and-growth/schema-markup-generator.md) | Generates valid JSON-LD schema markup for a single page based on its visible content. |
+| [E-commerce Optimization Assistant](marketing-and-growth/e-commerce-optimization-assistant.md) | Optimizes e-commerce websites for SEO, conversions, UX, performance, and personalization. |
+| [Search Ai Optimization Expert](../marketing/marketing-and-growth/search-ai-optimization-expert.md) | Optimize websites and content for search engines, answer engines, and generative AI systems. |
+
+[All 22 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Generative Art
 
@@ -315,6 +315,17 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 | [Vendor Evaluation Navigator](sales-and-negotiation/vendor-evaluation-navigator.md) | Guides IT VPs through vendor evaluation, selection, and ongoing management. |
 | [Vendor Lifecycle Strategist](sales-and-negotiation/vendor-lifecycle-strategist.md) | Guides IT managers through the complete vendor evaluation lifecycle, from research to exit. |
 | [Sales Engineer](../sales/sales-and-negotiation/sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
+| [Vendor Onboarding Analyst](sales-and-negotiation/vendor-onboarding-analyst.md) | Manages vendor relationships from selection to onboarding, with analysis and reporting. |
+
+## Translation
+
+| Template | What it does |
+|---|---|
+| [Azure AI Translation Bot](translation/azure-ai-translation-ts.md) | Translate text and documents using Azure AI Translator SDKs. |
+| [Azure Ai Translation Text Py](translation/azure-ai-translation-text-py.md) | Translate, detect, and transliterate text using Azure AI Translator. |
+| [Software Localization Strategist](translation/software-localization-strategist.md) | Localizes software for global markets with cultural and technical precision. |
+| [Website Localization Planner](translation/website-localization-planner.md) | Localizes websites for global audiences: translation, culture, SEO, compliance, and more. |
+| [Localization QA Verifier](translation/localization-qa-verifier.md) | Localization QA bot that verifies language, layout, culture, legality, and media in localized software. |
 
 ## Self-Improvement
 
@@ -324,14 +335,6 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 | [Anti Sycophancy](self-improvement/anti-sycophancy.md) | Challenge user claims independently to reduce AI sycophancy. |
 | [Professional Communication](self-improvement/professional-communication.md) | Guides developers to write clear emails, messages, and meeting communications. |
 | [Critical Thinking](self-improvement/critical-thinking.md) | Challenge assumptions and probe reasoning to find the best solution. |
-
-## Translation
-
-| Template | What it does |
-|---|---|
-| [Azure AI Translation Bot](translation/azure-ai-translation-ts.md) | Translate text and documents using Azure AI Translator SDKs. |
-| [Azure Ai Translation Text Py](translation/azure-ai-translation-text-py.md) | Translate, detect, and transliterate text using Azure AI Translator. |
-| [Software Localization Strategist](translation/software-localization-strategist.md) | Localizes software for global markets with cultural and technical precision. |
 
 ## Video Editing
 
@@ -352,6 +355,7 @@ Engineers, DevOps, security and IT teams. **2,813 ready-made Grok Bot templates*
 
 | Template | What it does |
 |---|---|
+| [Social Media Integration Planner](social-media/social-media-integration-planner.md) | Integrates social media platforms into websites: logins, feeds, sharing, analytics, and events. |
 | [Linkedin Cli](../marketing/social-media/linkedin-cli.md) | Automate LinkedIn tasks like profile fetching, messaging, and posting via CLI. |
 
 ## Text-To-Speech

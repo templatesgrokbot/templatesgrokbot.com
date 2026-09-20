@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1041 Grok Bot templates, 1032 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1049 Grok Bot templates, 1040 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -33,6 +33,7 @@ Write, review, test and debug software. 1041 Grok Bot templates, 1032 of them fi
 | [AI Debt Detector](ai-debt-detector.md) | Audits AI-generated code for hidden debt and failure patterns. |
 | [Ai Loop](ai-loop.md) | Bounded spec-build-review loop for scoped code changes with explicit stop conditions. |
 | [Ai Native Cli](ai-native-cli.md) | Design CLI tools that AI agents can safely invoke and parse. |
+| [AI/ML Testing Assistant](ai-ml-testing-assistant.md) | AI/ML testing assistant for QA testers covering generation, analysis, and automation tasks. |
 | [Aider Delegate](aider-delegate.md) | Delegate bounded coding tasks to Aider and review its diff before committing. |
 | [Airflow Dag Patterns](airflow-dag-patterns.md) | Build production Airflow DAGs with operators, sensors, testing, and deployment patterns. No cron job replacements. No non-Airflow orchestration. No pr |
 | [Airtable Automation](airtable-automation.md) | Automate Airtable records, schema, and comments via Rube MCP |
@@ -58,6 +59,7 @@ Write, review, test and debug software. 1041 Grok Bot templates, 1032 of them fi
 | [Api Rate Limit Handler](api-rate-limit-handler.md) | Bounded, idempotency-aware API throttling, backoff, and retry handling for 429 and transient 5xx responses. |
 | [Api Sdk Generator](api-sdk-generator.md) | Generate production-quality client SDKs and API wrappers for any REST API in any language. |
 | [Api Testing Observability Api Mock](api-testing-observability-api-mock.md) | Design realistic mock APIs for dev, test, and demos. |
+| [API Testing Support Assistant](api-testing-support-assistant.md) | Guides QA testers through API testing tasks with documentation, test plans, and reports. |
 | [Apify Actor Development](apify-actor-development.md) | Build, test, and deploy serverless Apify Actors from templates. |
 | [Apify Integration Expert](apify-integration-expert.md) | Integrates Apify Actors into codebases for scraping and automation. |
 | [Apify Ultimate Scraper](apify-ultimate-scraper.md) | Selects and runs the best Apify Actor for any web scraping task across 55+ platforms. |
@@ -78,6 +80,7 @@ Write, review, test and debug software. 1041 Grok Bot templates, 1032 of them fi
 | [Atlas Contract](atlas-contract.md) | Prevents goal drift during backend, API, or data-critical work by emitting contracts and deviation notices. |
 | [Audit Agent Run Evidence](audit-agent-run-evidence.md) | Judge whether agent-run traces really support a claimed success without re-executing anything. |
 | [Audit Context Building](audit-context-building.md) | Line-by-line code analysis to build deep architectural context before auditing. |
+| [Automated Test Script Developer](automated-test-script-developer.md) | Develops, runs, and maintains automated test scripts for QA testers. |
 | [Automated Testing Assistant](automated-testing-assistant.md) | Automated testing assistant for developers: scripts, data, environments, execution, analysis, coverage, maintenance, reporting. |
 | [Automated Testing Guidance Assistant](automated-testing-guidance-assistant.md) | Automated testing guidance for QA managers: plan, generate, execute, and analyze tests with AI assistance. |
 | [Avalonia Layout Zafiro](avalonia-layout-zafiro.md) | Guide clean Avalonia UI layouts using Zafiro.Avalonia shared styles and minimal XAML |
@@ -277,6 +280,7 @@ Write, review, test and debug software. 1041 Grok Bot templates, 1032 of them fi
 | [Create Pr](create-pr.md) | Create pull requests following Sentry conventions from the current branch. |
 | [Cron Doctor](cron-doctor.md) | Validate cron expressions and catch silent bugs before deployment. |
 | [Cross Platform Contract Propagation Audit](cross-platform-contract-propagation-audit.md) | Audit whether a field, enum, or flag propagates consistently across all services, clients, and tests. |
+| [Cross-Browser Testing Techniques Assistant](cross-browser-testing-techniques-assistant.md) | Plans, runs, and analyzes cross-browser tests for QA testers. |
 | [Cross-Platform Development Assistant](cross-platform-development-assistant.md) | Cross-platform development assistant for software engineers covering testing, design, optimization, and more. |
 | [Csharp Developer](csharp-developer.md) | Build and optimize ASP.NET Core APIs, cloud-native .NET solutions, and modern C# applications. |
 | [Csharp Dotnet Janitor](csharp-dotnet-janitor.md) | Keeps C#/.NET codebases clean, modern, and free of tech debt. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
@@ -529,6 +533,7 @@ Write, review, test and debug software. 1041 Grok Bot templates, 1032 of them fi
 | [Ios Debugger Agent](ios-debugger-agent.md) | Build, run, and debug iOS apps on a booted simulator via XcodeBuildMCP. |
 | [Ios Developer](ios-developer.md) | Builds and maintains native iOS apps with Swift/SwiftUI, from components to App Store submission, optimized for iOS 18. |
 | [Issues](issues.md) | Create, list, and view GitHub issues via guided workflows. |
+| [IT Scripting Assistant](it-scripting-assistant.md) | Drafts and refines IT automation scripts for support tasks, from installs to reporting. |
 | [IT Scripting Automation Assistant](it-scripting-automation-assistant.md) | Automates IT scripting, debugging, deployment, and maintenance tasks for IT specialists. |
 | [Iterate Pr](iterate-pr.md) | Iterates on a PR until all CI checks pass and review feedback is addressed. |
 | [Janitor](janitor.md) | Eliminate tech debt by deleting unused code and simplifying complexity. |
@@ -624,6 +629,7 @@ Write, review, test and debug software. 1041 Grok Bot templates, 1032 of them fi
 | [Mobile App Developer](mobile-app-developer.md) | Builds and optimizes native and cross-platform iOS/Android apps with performance and UX focus. |
 | [Mobile App Development Assistant](mobile-app-development-assistant.md) | Assists mobile app engineers with design, code, features, testing, and market insights. |
 | [Mobile Developer](mobile-developer.md) | Architects cross-platform mobile apps with native performance and offline-first sync. |
+| [Mobile QA Testing Guide](mobile-qa-testing-guide.md) | Generates and guides mobile app testing across all QA dimensions with templates and checklists. |
 | [Mobile Security Coder](mobile-security-coder.md) | Secure mobile coding expert for input validation, WebView security, and platform-specific vulnerabilities. |
 | [Modern Javascript Patterns](modern-javascript-patterns.md) | Guides modern JavaScript patterns and functional programming best practices for clean, maintainable code. |
 | [Modernization](modernization.md) | Analyzes a project's codebase exhaustively, then produces a documented modernization plan with architectural recommendations. |
@@ -802,6 +808,7 @@ Write, review, test and debug software. 1041 Grok Bot templates, 1032 of them fi
 | [Review And Simplify Changes](review-and-simplify-changes.md) | Review git diffs for code quality and apply safe fixes |
 | [Review Multi Agent Orchestration](review-multi-agent-orchestration.md) | Review multi-agent orchestration designs for task boundaries, state, and failure safety before implementation. |
 | [Review Swarm](review-swarm.md) | Parallel read-only multi-agent review of git diffs for regressions, security, reliability, and coverage gaps. |
+| [Risk-Based Testing Prioritizer](risk-based-testing-prioritizer.md) | Prioritizes and executes risk-based testing for QA testers. |
 | [Robius App Architecture](robius-app-architecture.md) | Structure Makepad apps with async backend integration using Robius patterns. |
 | [Robius Matrix Integration](robius-matrix-integration.md) | Integrate Matrix SDK with Makepad UI using async request/response pattern |
 | [Robius State Management](robius-state-management.md) | Manage Makepad app state with persistence and scope-based propagation. |
@@ -862,6 +869,7 @@ Write, review, test and debug software. 1041 Grok Bot templates, 1032 of them fi
 | [Smartui](smartui-skill.md) | Generate SmartUI visual regression test configs for TestMu AI cloud. |
 | [Software Architecture](software-architecture.md) | Guides software architecture decisions using Clean Architecture and DDD principles. |
 | [Software Development Advisor](software-development-advisor.md) | Advises IT specialists on coding, debugging, testing, and deployment best practices. |
+| [Software Development Lifecycle Assistant](software-development-lifecycle-assistant.md) | Supports IT consultants across the full software development lifecycle, from code review to deployment. |
 | [Software Engineer Agent V1](software-engineer-agent-v1.md) | Writes production-ready code autonomously from specifications. |
 | [Solidity Security](solidity-security.md) | Guide secure Solidity development, vulnerability prevention, and audit preparation. |
 | [Source Driven Development](source-driven-development.md) | Grounds every framework-specific code decision in official documentation with citations. |

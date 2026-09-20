@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 104 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 106 Grok Bot templates, 45 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -82,6 +82,7 @@ Interfaces, brands, layouts and visual systems. 104 Grok Bot templates, 43 of th
 | [Premium Web Design](../../creatives/design/premium-web-design.md) | Generates award-quality React website components with unique, intentional design. |
 | [Radix Ui Design System](../../creatives/design/radix-ui-design-system.md) | Build accessible, unstyled React component libraries with Radix UI primitives. |
 | [Redesign Existing Projects](redesign-existing-projects.md) | Audit and upgrade existing UI with premium design fixes, no rewrites. |
+| [Responsive Design Advisor](responsive-design-advisor.md) | Get tailored responsive design advice for websites across devices and screen sizes. |
 | [Responsive Web Design Assistant](../../creatives/design/responsive-web-design-assistant.md) | Guides UX/UI designers through every stage of responsive web design, from setup to maintenance. |
 | [Retro Design](../../creatives/design/retro-design.md) | Generate retro 60s-80s UI with warm muted colors, grain, and classic typography. |
 | [Retro Futurism](../../creatives/design/retro-futurism.md) | Generate retro-futurist UI with 1950s space-age aesthetics and atompunk vibes. |
@@ -93,6 +94,7 @@ Interfaces, brands, layouts and visual systems. 104 Grok Bot templates, 43 of th
 | [Synthwave](../../creatives/design/synthwave.md) | Build 80s neon web and app interfaces with dark backgrounds, glowing grids, and synthwave aesthetics. |
 | [Tile Design](tile-design.md) | Build sharp-cornered Metro UI tiles with horizontal scrolling and live data for web and mobile. |
 | [UI Design Principles Assistant](ui-design-principles-assistant.md) | Turns UI design principles into actionable, user-centered interface guidance for software engineers. |
+| [UI Design Workflow Assistant](ui-design-workflow-assistant.md) | Guides systems analysts through the full UI design cycle, from research to innovation. |
 | [Ui Pattern](../../creatives/design/ui-pattern.md) | Generate a composed UI pattern from design system primitives. |
 | [Ui Setup](../../creatives/design/ui-setup.md) | Interactive wizard to configure the StyleSeed design system step by step. |
 | [Ui Templates](../../creatives/design/ui-skills.md) | Opinionated constraints for building interfaces. |

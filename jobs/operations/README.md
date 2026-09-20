@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,324 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,328 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Processes, logistics and the systems that run a business. **1,324 ready-made Gro
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 454 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 193 |
+| [Data Analysis](data-analysis/README.md) | 455 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 195 |
 | [Productivity](productivity/README.md) | 191 |
 | [Security & Compliance](security-and-compliance/README.md) | 108 |
 | [Research](research/README.md) | 83 |
@@ -20,8 +20,8 @@ Processes, logistics and the systems that run a business. **1,324 ready-made Gro
 | [Knowledge Management](knowledge-management/README.md) | 37 |
 | [Support & Community](support-and-community/README.md) | 34 |
 | [Writing & Content](writing-and-content/README.md) | 30 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 28 |
 | [Office Tools](office-tools/README.md) | 27 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 27 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 17 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 14 |
 | [Speech-To-Text](speech-to-text/README.md) | 10 |
@@ -49,7 +49,7 @@ Processes, logistics and the systems that run a business. **1,324 ready-made Gro
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 454 Data Analysis templates →](data-analysis/README.md)
+[All 455 Data Analysis templates →](data-analysis/README.md)
 
 ## Cloud & DevOps
 
@@ -64,7 +64,7 @@ Processes, logistics and the systems that run a business. **1,324 ready-made Gro
 | [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
 
-[All 193 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 195 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Productivity
 
@@ -171,6 +171,21 @@ Processes, logistics and the systems that run a business. **1,324 ready-made Gro
 
 [All 30 Writing & Content templates →](writing-and-content/README.md)
 
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
+| [Territory Planning Optimizer](../sales/sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
+| [Vendor Negotiation Assistant](sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
+| [Supplier Negotiation Assistant](sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
+| [Vendor Management Assistant](sales-and-negotiation/vendor-management-assistant.md) | Manages vendor evaluation, selection, negotiation, performance, risk, and development for supply chain analysts. |
+| [Vendor Relationship Management Assistant](sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
+| [Supplier Relationship Manager](../management/sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
+| [Contract Negotiation Assistant](sales-and-negotiation/contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
+
+[All 28 Sales & Negotiation templates →](sales-and-negotiation/README.md)
+
 ## Office Tools
 
 | Template | What it does |
@@ -185,21 +200,6 @@ Processes, logistics and the systems that run a business. **1,324 ready-made Gro
 | [Odoo Purchase Workflow](office-tools/odoo-purchase-workflow.md) | Guide Odoo Purchase: RFQ to PO, receipt, vendor bill, and 3-way matching. No subcontracting or EDI. No guessing. |
 
 [All 27 Office Tools templates →](office-tools/README.md)
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
-| [Territory Planning Optimizer](../sales/sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
-| [Vendor Negotiation Assistant](sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
-| [Supplier Negotiation Assistant](sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
-| [Vendor Management Assistant](sales-and-negotiation/vendor-management-assistant.md) | Manages vendor evaluation, selection, negotiation, performance, risk, and development for supply chain analysts. |
-| [Vendor Relationship Management Assistant](sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
-| [Supplier Relationship Manager](../management/sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
-| [Contract Negotiation Assistant](sales-and-negotiation/contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
-
-[All 27 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Marketing & Growth
 
