@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 283 Grok Bot templates, 158 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 286 Grok Bot templates, 161 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -28,6 +28,7 @@ Clean, query, chart and explain data. 283 Grok Bot templates, 158 of them filed 
 | [Backtesting Frameworks](backtesting-frameworks.md) | Build robust backtesting systems with realistic cost models and walk-forward analysis. |
 | [Bettoredge Value Finder](bettoredge-value-finder.md) | Finds +EV betting opportunities on BettorEdge prediction markets using Kelly criterion and bankroll limits. |
 | [Board Deck Generator](../../executives-and-strategy/data-analysis/board-deck-generator.md) | Generates professional board meeting presentation content with executive summary, financials, and strategic updates. |
+| [Bookkeeping Close](bookkeeping-close.md) | Reconciles bank and card transactions, closes the books monthly, and prepares a close package for the accountant. |
 | [Bounty Hunter](bounty-hunter.md) | Identifies unclaimed, owed, or wasted money and recommends how to recover it. |
 | [Budget Analysis Assistant](../../executives-and-strategy/data-analysis/budget-analysis-assistant.md) | Analyzes budgets and financial data to deliver insights and recommendations for a VP of Finance. |
 | [Budget and Forecast Assistant](../../operations/data-analysis/budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
@@ -258,11 +259,13 @@ Clean, query, chart and explain data. 283 Grok Bot templates, 158 of them filed 
 | [Solvency Assessment Assistant](solvency-assessment-assistant.md) | Solvency assessment assistant for insurance actuaries, from data to reporting. |
 | [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
 | [Spreadsheet](spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
+| [Spreadsheet Data Analyst](spreadsheet-data-analyst.md) | Answers questions about your spreadsheet or data export with correct, auditable numbers. |
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Sql Sentinel](../../it-and-development/data-analysis/sql-sentinel.md) | Audits SQL for cost and performance anti-patterns, scores warehouse health 0-100, and outputs a prioritized cost-reduction plan. Works with BigQuery, |
 | [Startup Analyst](../../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Startup Business Analyst Financial Projections](startup-business-analyst-financial-projections.md) | Build 3-5 year financial models with revenue, costs, cash, and scenarios for startups. |
 | [Startup Financial Modeling](startup-financial-modeling.md) | Build 3-5 year financial models with revenue, cost, cash flow, and scenario planning for startups. |
+| [Statement Extractor and Prover](statement-extractor-and-prover.md) | Extracts transactions from statement PDFs into CSV/Excel and proves the extraction balances. |
 | [Statistical Analysis Assistant](../../it-and-development/data-analysis/statistical-analysis-assistant.md) | Guides data analysts through statistical analysis tasks from cleaning to interpretation. |
 | [Strategic Finance Planning Assistant](../../executives-and-strategy/data-analysis/strategic-finance-planning-assistant.md) | Strategic financial analysis and planning support for an EVP of Finances. |
 | [Strategic Risk Management Assistant](../../executives-and-strategy/data-analysis/strategic-risk-management-assistant.md) | Identifies, assesses, and mitigates risks with scenario analysis and reporting for strategy directors. |

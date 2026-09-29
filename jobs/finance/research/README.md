@@ -1,6 +1,6 @@
 # Research templates for Finance
 
-Find sources, compare evidence and summarise what is known. 20 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 21 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Find sources, compare evidence and summarise what is known. 20 Grok Bot template
 | [Research Analyst](../../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
 | [Research and Reporting Assistant](research-and-reporting-assistant.md) | Gathers, analyzes, and reports research data for administrative finance support. |
 | [Screen Adverse Media](../../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
+| [SEC Financial Data Puller](sec-financial-data-puller.md) | Pulls cited financial statement numbers for US public companies from SEC EDGAR XBRL APIs. |
 | [SRED Project Organizer](../../operations/research/sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
 | [Sustainable Investment Research Assistant](../../science-and-research/research/sustainable-investment-research-assistant.md) | Sustainable investment research assistant for sustainability analysts. |
 | [Tax Code Interpretation Assistant](tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |

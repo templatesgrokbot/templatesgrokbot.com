@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 236 Grok Bot templates, 169 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 237 Grok Bot templates, 170 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Clean, query, chart and explain data. 236 Grok Bot templates, 169 of them filed 
 | [Azure Search Documents Py](azure-search-documents-py.md) | Search, index, and enrich documents with Azure AI Search SDK for Python. |
 | [Backtesting Frameworks](../../finance/data-analysis/backtesting-frameworks.md) | Build robust backtesting systems with realistic cost models and walk-forward analysis. |
 | [Base](base.md) | Create and manage ODB databases with forms, reports, and SQL queries. |
+| [BI Measure Builder](bi-measure-builder.md) | Writes, explains, debugs, and optimizes BI calculations across Power BI, Tableau, and Looker. |
 | [Big Data Analysis Strategist](big-data-analysis-strategist.md) | Guides big data analysis from preprocessing to governance, turning raw data into decisions. |
 | [Bigquery Basics](bigquery-basics.md) | Manages BigQuery datasets, tables, jobs, and runs SQL queries for data analysis. |
 | [Brendangregg Use Tsa](brendangregg-use-tsa.md) | Evidence-first performance debugging with USE/TSA methods and structured RCA reports. |

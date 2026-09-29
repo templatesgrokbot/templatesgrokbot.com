@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **410 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **412 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Prospecting, pipeline and closing. **410 ready-made Grok Bot templates** for thi
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 107 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 103 |
-| [Data Analysis](data-analysis/README.md) | 92 |
+| [Data Analysis](data-analysis/README.md) | 93 |
 | [Research](research/README.md) | 34 |
 | [Writing & Content](writing-and-content/README.md) | 17 |
 | [Security & Compliance](security-and-compliance/README.md) | 10 |
@@ -24,7 +24,7 @@ Prospecting, pipeline and closing. **410 ready-made Grok Bot templates** for thi
 | [Office Tools](office-tools/README.md) | 5 |
 | [Design](design/README.md) | 4 |
 | [Knowledge Management](knowledge-management/README.md) | 4 |
-| [Coding](coding/README.md) | 2 |
+| [Coding](coding/README.md) | 3 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Video](generative-video/README.md) | 1 |
@@ -51,11 +51,11 @@ Prospecting, pipeline and closing. **410 ready-made Grok Bot templates** for thi
 | [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
 | [Sales Methodology Implementer](sales-and-negotiation/sales-methodology-implementer.md) | Implements proven sales methodologies (MEDDIC, BANT, Sandler, Challenger, SPIN) across your team. |
 | [Territory Planning Optimizer](sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
-| [Deal Momentum Analyzer](sales-and-negotiation/deal-momentum-analyzer.md) | Score deal velocity and predict close probability from engagement patterns. |
-| [Pharma Health Economics Insight](sales-and-negotiation/pharma-health-economics-insight.md) | Turns health economics data into sales-ready insights for pharmaceutical reps. |
 | [Client Communication Assistant](../real-estate-and-construction/sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
+| [Deal Momentum Analyzer](sales-and-negotiation/deal-momentum-analyzer.md) | Score deal velocity and predict close probability from engagement patterns. |
 | [Proposal Customization Assistant](sales-and-negotiation/proposal-customization-assistant.md) | Customizes sales proposals to fit each client's needs and brand. |
-| [Freight Dispute Resolution Assistant](sales-and-negotiation/freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
+| [Pharma Health Economics Insight](sales-and-negotiation/pharma-health-economics-insight.md) | Turns health economics data into sales-ready insights for pharmaceutical reps. |
+| [Lead Lifecycle Manager](sales-and-negotiation/lead-lifecycle-manager.md) | Finds, qualifies, and nurtures leads, then tracks and reports on them for sales. |
 
 [All 103 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
@@ -67,12 +67,12 @@ Prospecting, pipeline and closing. **410 ready-made Grok Bot templates** for thi
 | [Google Ads Performance Analyzer](../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 | [Champion Identifier](data-analysis/champion-identifier.md) | Identify the internal champion most likely to advocate for your solution at a target account. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
-| [Supplier Market Trend Tracker](../management/data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
 | [Pharma Feedback Collector](data-analysis/pharma-feedback-collector.md) | Collects, analyzes, and reports product feedback from healthcare professionals and patients. |
+| [Supplier Market Trend Tracker](../management/data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
 | [E-commerce Pricing Optimizer](../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
-| [Retail Sales Trend Analyst](../management/data-analysis/retail-sales-trend-analyst.md) | Turns retail sales data into trend insights, forecasts, and strategy recommendations. |
+| [Product Performance Review Assistant](data-analysis/product-performance-review-assistant.md) | Analyzes product performance data and delivers actionable insights for CSOs. |
 
-[All 92 Data Analysis templates →](data-analysis/README.md)
+[All 93 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
@@ -93,9 +93,9 @@ Prospecting, pipeline and closing. **410 ready-made Grok Bot templates** for thi
 
 | Template | What it does |
 |---|---|
-| [Linkedin Profile Optimizer](../marketing/writing-and-content/linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
 | [Marketing Content Polisher](writing-and-content/marketing-content-polisher.md) | Plan, write, and polish marketing content across formats with AI assistance. |
 | [Cold Email](writing-and-content/cold-email.md) | Write B2B cold emails and follow-up sequences that earn replies. |
+| [Linkedin Profile Optimizer](../marketing/writing-and-content/linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
 | [RFP Compliance Drafter](writing-and-content/rfp-compliance-drafter.md) | Turns an RFP and your past proposals into a compliance matrix and a drafted response, flagging gaps before you write. |
 | [Cover Letter Generator](../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Sales Enablement Content Crafter](writing-and-content/sales-enablement-content-crafter.md) | Builds and refreshes sales training content from research to assessments. |
@@ -111,11 +111,11 @@ Prospecting, pipeline and closing. **410 ready-made Grok Bot templates** for thi
 | [GDPR Email Compliance Assistant](security-and-compliance/gdpr-email-compliance-assistant.md) | Guides email marketers through GDPR compliance for campaigns, from audits to breach response. |
 | [Freight Environmental Compliance Assistant](security-and-compliance/freight-environmental-compliance-assistant.md) | Turns freight brokerage environmental compliance work into research, plans, audits, and reports. |
 | [Risk Assessment Navigator](security-and-compliance/risk-assessment-navigator.md) | Guides business development managers through complete risk assessment, from identifying risks to building automated assessment tools. |
-| [Security Risk Assessment Planner](security-and-compliance/security-risk-assessment-planner.md) | Risk assessment and mitigation assistant for Chief Sales Officers, turning security data into actionable plans and reports. No hype, just the work. |
 | [Freight Risk Assessment Assistant](security-and-compliance/freight-risk-assessment-assistant.md) | Freight broker risk management assistant for vetting, contracts, claims, compliance, and planning. |
+| [Security Risk Assessment Planner](security-and-compliance/security-risk-assessment-planner.md) | Risk assessment and mitigation assistant for Chief Sales Officers, turning security data into actionable plans and reports. No hype, just the work. |
 | [Freight Broker Compliance Assistant](security-and-compliance/freight-broker-compliance-assistant.md) | Freight broker compliance assistant for carrier checks, audits, and regulatory updates. |
 | [Pharma Compliance Assistant](security-and-compliance/pharma-compliance-assistant.md) | Keeps pharmaceutical sales compliant with regulations, audits, and reporting. |
-| [Sales Compliance and Ethics Assistant](security-and-compliance/sales-compliance-and-ethics-assistant.md) | Guides technical sales reps to keep every deal compliant, ethical, and audit-ready. |
+| [Cybersecurity Consultation Assistant](security-and-compliance/cybersecurity-consultation-assistant.md) | Cybersecurity consultation assistant for CSOs: assess risks, build policies, plan responses, and more. |
 
 [All 10 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -154,8 +154,8 @@ Prospecting, pipeline and closing. **410 ready-made Grok Bot templates** for thi
 | [Digital Crisis Management Assistant](social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
 | [Linkedin Cli](../marketing/social-media/linkedin-cli.md) | Automate LinkedIn tasks like profile fetching, messaging, and posting via CLI. |
 | [Social Media Management Assistant](social-media/social-media-management-assistant.md) | Plans, creates, and manages social media content and engagement for digital marketing managers. |
-| [Social Media Sales Intelligence](social-media/social-media-sales-intelligence.md) | Turns social media chatter into sales intelligence: competitors, trends, sentiment, influencers, and campaign impact. |
 | [Brand Reputation Sentinel](social-media/brand-reputation-sentinel.md) | Monitors and manages your brand's online reputation across platforms. |
+| [Social Media Sales Intelligence](social-media/social-media-sales-intelligence.md) | Turns social media chatter into sales intelligence: competitors, trends, sentiment, influencers, and campaign impact. |
 
 ## Support & Community
 
@@ -202,6 +202,7 @@ Prospecting, pipeline and closing. **410 ready-made Grok Bot templates** for thi
 |---|---|
 | [Paypal Integration](../it-and-development/coding/paypal-integration.md) | Integrate PayPal payments, subscriptions, IPN, and refunds. |
 | [Internet Court](../it-and-development/coding/internet-court.md) | Routes agent-to-agent commerce tasks to identity, negotiation, escrow, payment, verification, and dispute layers. |
+| [Google Maps Lead Scraper](coding/google-maps-lead-scraper.md) | Turn a lead request into a validated Google Maps crawl and help you work with the results. |
 
 ## Cloud & DevOps
 

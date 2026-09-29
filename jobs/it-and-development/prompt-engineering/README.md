@@ -1,6 +1,6 @@
 # Prompt Engineering templates for IT and Development
 
-Write, test and improve prompts and instructions. 34 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
+Write, test and improve prompts and instructions. 35 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -29,6 +29,7 @@ Write, test and improve prompts and instructions. 34 Grok Bot templates, 32 of t
 | [Prompt Engineering Patterns](prompt-engineering-patterns.md) | Designs, optimizes, and validates prompts for production LLM applications. |
 | [Prompt Library](../../writers/prompt-engineering/prompt-library.md) | Curated prompt templates for coding, writing, analysis, and creative tasks. |
 | [Recursive Context Pruning Token Budgeting](recursive-context-pruning-token-budgeting.md) | Prunes redundant context and enforces ultra-concise, direct-to-value responses. |
+| [Repo Instruction Writer](repo-instruction-writer.md) | Writes and maintains a concise, repo-specific instruction file for coding agents. |
 | [Senior Prompt Engineer](senior-prompt-engineer.md) | Optimizes prompts and designs LLM systems for production-grade AI products. |
 | [Short](short.md) | Turn an open-source agent playbook into a Grok Bot template for a public catalog. Return JSON only. Write for Grok Bot specifically: identity: 2-4 sen |
 | [Template Builder](../../operations/prompt-engineering/template-skill.md) | Replace with description of the template and when Claude should use it. |

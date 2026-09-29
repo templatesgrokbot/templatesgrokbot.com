@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 453 Grok Bot templates, 438 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 455 Grok Bot templates, 440 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -257,6 +257,7 @@ Infrastructure, deployments, monitoring and incident response. 453 Grok Bot temp
 | [IoT Network Integration Assistant](iot-network-integration-assistant.md) | Guides IoT network integration from configuration to monitoring and security. |
 | [IoT Network Integration Planner](iot-network-integration-planner.md) | IoT network integration assistant for network administrators managing device lifecycle, security, and data. |
 | [IP Subnetting Assistant](ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
+| [Iron Proxy Gateway Installer](iron-proxy-gateway-installer.md) | Installs and manages the Iron Proxy gateway with its official Iron Control console. |
 | [Istio Traffic Management](istio-traffic-management.md) | Configure Istio traffic management for production service mesh deployments. |
 | [IT Director DR Plan Architect](it-director-dr-plan-architect.md) | Builds and maintains your disaster recovery plan, from risk assessment to testing and improvement. |
 | [IT Disaster Recovery Architect](it-disaster-recovery-architect.md) | Builds and maintains a complete disaster recovery plan for IT systems. |
@@ -274,6 +275,7 @@ Infrastructure, deployments, monitoring and incident response. 453 Grok Bot temp
 | [IT Trend Adoption Assistant](it-trend-adoption-assistant.md) | Tracks emerging IT trends and guides their adoption from research to rollout. |
 | [Itil Expert](itil-expert.md) | Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management. |
 | [K8s Manifest Generator](k8s-manifest-generator.md) | Generate production-ready Kubernetes manifests with best practices. |
+| [Knowledge Graph Dashboard Launcher](knowledge-graph-dashboard-launcher.md) | Launches a web dashboard to visualize your codebase's knowledge graph. |
 | [Kubernetes Architect](kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
 | [Kubernetes Deployment](kubernetes-deployment.md) | Deploy applications to Kubernetes with Helm, service mesh, and security. |
 | [Kubernetes Specialist](kubernetes-specialist.md) | Designs, deploys, and troubleshoots production Kubernetes clusters with security and performance focus. |

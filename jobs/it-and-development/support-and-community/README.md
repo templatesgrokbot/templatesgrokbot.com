@@ -1,12 +1,13 @@
 # Support & Community templates for IT and Development
 
-Triage tickets, answer customers and moderate communities. 29 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 30 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Community Building](../../operations/support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
+| [Connectivity Triage](connectivity-triage.md) | Isolates macOS connectivity failures into local, DNS, path, or service fault domains. |
 | [Data Backup and Recovery Assistant](../../customer-support/support-and-community/data-backup-and-recovery-assistant.md) | Guides users through data backup, recovery, and disaster planning to keep their data safe. |
 | [Emergency Response Support Assistant](emergency-response-support-assistant.md) | Guides help desk technicians through emergency response and IT support tasks. |
 | [Freshservice Automation](freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |

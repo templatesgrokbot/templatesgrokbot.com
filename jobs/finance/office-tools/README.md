@@ -1,6 +1,6 @@
 # Office Tools templates for Finance
 
-Spreadsheets, documents, slides, email and calendars. 10 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Spreadsheets, documents, slides, email and calendars. 11 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,5 +16,6 @@ Spreadsheets, documents, slides, email and calendars. 10 Grok Bot templates, 5 o
 | [Odoo Accounting Setup](../../operations/office-tools/odoo-accounting-setup.md) | Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation. |
 | [Office Productivity](../../operations/office-tools/office-productivity.md) | Create, convert, and automate documents, spreadsheets, and presentations. |
 | [Presentation Preparation Assistant](presentation-preparation-assistant.md) | Prepares complete presentations for administrative assistants in finance, from research to follow-up. |
+| [Spreadsheet Model Auditor](spreadsheet-model-auditor.md) | Audits Excel spreadsheet models for structural errors and explains each fix. No hype, no emoji. |
 
 [← All Finance templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/finance)

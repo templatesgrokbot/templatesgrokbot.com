@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 182 Grok Bot templates, 132 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 183 Grok Bot templates, 133 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -77,6 +77,7 @@ Interfaces, brands, layouts and visual systems. 182 Grok Bot templates, 132 of t
 | [Ethical UX Design Advisor](../../product-development/design/ethical-ux-design-advisor.md) | Guides ethical UX design decisions, from privacy to inclusivity, for responsible products. |
 | [Feedback Interpretation Assistant](feedback-interpretation-assistant.md) | Interprets client feedback, refines designs, and builds feedback tools for graphic designers. |
 | [Figma Automation](figma-automation.md) | Automate Figma file inspection, component extraction, token export, and image rendering via Rube MCP. |
+| [Figma Design Graph Builder](figma-design-graph-builder.md) | Analyzes Figma files and builds an interactive design knowledge graph. |
 | [Flat Design](../../it-and-development/design/flat-design.md) | Generate UI code with zero shadows, sharp edges, and bold solid colors. |
 | [Flat Design 2](../../it-and-development/design/flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
 | [Font Pairing Suggester](font-pairing-suggester.md) | Recommends font pairings and Google Fonts alternatives with hierarchy examples. |

@@ -1,18 +1,21 @@
 # Credits: github.com/OneWave-AI/claude-skills
 
-102 TemplatesGrokBot templates are adapted from work published at [github.com/OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+116 TemplatesGrokBot templates are adapted from work published at [github.com/OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
 | [Agent Team Builder](../jobs/it-and-development/productivity/agent-team-builder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/agent-team-builder) | [MIT](../LICENSES/MIT.md) |
 | [AI Readiness Assessor](../jobs/executives-and-strategy/data-analysis/ai-readiness-assessor.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/ai-readiness-assessment) | [MIT](../LICENSES/MIT.md) |
 | [AI ROI Calculator](../jobs/finance/data-analysis/ai-roi-calculator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/roi-calculator) | [MIT](../LICENSES/MIT.md) |
+| [BI Measure Builder](../jobs/it-and-development/data-analysis/bi-measure-builder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/bi-measure-builder) | [MIT](../LICENSES/MIT.md) |
 | [Board Deck Generator](../jobs/executives-and-strategy/data-analysis/board-deck-generator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/board-deck-generator) | [MIT](../LICENSES/MIT.md) |
+| [Bookkeeping Close](../jobs/finance/data-analysis/bookkeeping-close.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/bookkeeping-close) | [MIT](../LICENSES/MIT.md) |
 | [Calendar Defragmenter](../jobs/management/productivity/calendar-defragmenter.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/cowork-calendar-defrag) | [MIT](../LICENSES/MIT.md) |
 | [Cash Flow Forecaster](../jobs/finance/data-analysis/cash-flow-forecaster.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/cash-flow-forecaster) | [MIT](../LICENSES/MIT.md) |
 | [Champion Identifier](../jobs/sales/data-analysis/champion-identifier.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/champion-identifier) | [MIT](../LICENSES/MIT.md) |
 | [Churn Autopsy Analyst](../jobs/customer-support/data-analysis/churn-autopsy-analyst.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/churn-autopsy) | [MIT](../LICENSES/MIT.md) |
 | [Client Health Dashboard](../jobs/customer-support/data-analysis/client-health-dashboard.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/client-health-dashboard) | [MIT](../LICENSES/MIT.md) |
+| [Code Change Reviewer](../jobs/it-and-development/coding/code-change-reviewer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/ai-coding-guardrails) | [MIT](../LICENSES/MIT.md) |
 | [Codebase Migration Planner](../jobs/it-and-development/cloud-and-devops/codebase-migration-planner.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/full-codebase-migrator) | [MIT](../LICENSES/MIT.md) |
 | [Color Palette Extractor](../jobs/creatives/design/color-palette-extractor.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/color-palette-extractor) | [MIT](../LICENSES/MIT.md) |
 | [Consulting Proposal Generator](../jobs/sales/sales-and-negotiation/consulting-proposal-generator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/client-proposal-generator) | [MIT](../LICENSES/MIT.md) |
@@ -20,6 +23,7 @@
 | [Contract Redliner](../jobs/legal/writing-and-content/contract-redliner.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/contract-redliner) | [MIT](../LICENSES/MIT.md) |
 | [Contract Renewal Radar](../jobs/legal/knowledge-management/contract-renewal-radar.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/cowork-contract-renewal-radar) | [MIT](../LICENSES/MIT.md) |
 | [Contract Risk Reviewer](../jobs/legal/research/contract-risk-reviewer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/contract-analyzer) | [MIT](../LICENSES/MIT.md) |
+| [CRM Data Cleanup](../jobs/sales/data-analysis/crm-data-cleanup.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/crm-data-cleanup) | [MIT](../LICENSES/MIT.md) |
 | [CSS Animation Creator](../jobs/creatives/design/css-animation-creator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/css-animation-creator) | [MIT](../LICENSES/MIT.md) |
 | [Customer Panel Debate](../jobs/marketing/data-analysis/customer-panel-debate.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/customer-panel-of-experts) | [MIT](../LICENSES/MIT.md) |
 | [Data Room Builder](../jobs/finance/knowledge-management/data-room-builder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/cowork-data-room-builder) | [MIT](../LICENSES/MIT.md) |
@@ -49,6 +53,7 @@
 | [Hypothesis Testing Engine](../jobs/science-and-research/research/hypothesis-testing-engine.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/hypothesis-testing-engine) | [MIT](../LICENSES/MIT.md) |
 | [ICP Deep Scanner](../jobs/marketing/data-analysis/icp-deep-scanner.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/icp-deep-scanner) | [MIT](../LICENSES/MIT.md) |
 | [Inbound Lead Qualifier](../jobs/sales/sales-and-negotiation/inbound-lead-qualifier.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/inbound-lead-qualifier) | [MIT](../LICENSES/MIT.md) |
+| [Inference Cost Auditor](../jobs/it-and-development/generative-ai-and-llm/inference-cost-auditor.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/jev-audit) | [MIT](../LICENSES/MIT.md) |
 | [Intent Signal Monitor](../jobs/sales/sales-and-negotiation/intent-signal-monitor.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/intent-signal-aggregator) | [MIT](../LICENSES/MIT.md) |
 | [Investor Update Writer](../jobs/executives-and-strategy/writing-and-content/investor-update-writer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/investor-update-writer) | [MIT](../LICENSES/MIT.md) |
 | [Itinerary Optimizer](../jobs/hospitality-and-events/productivity/itinerary-optimizer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/itinerary-optimizer) | [MIT](../LICENSES/MIT.md) |
@@ -58,6 +63,7 @@
 | [Launch War Room](../jobs/product-development/marketing-and-growth/launch-war-room.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/product-launch-war-room) | [MIT](../LICENSES/MIT.md) |
 | [Lead Pipeline Processor](../jobs/sales/sales-and-negotiation/lead-pipeline-processor.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/gmail-to-crm-pipeline) | [MIT](../LICENSES/MIT.md) |
 | [Lead Scoring Model Builder](../jobs/marketing/data-analysis/lead-scoring-model-builder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/lead-scoring-model) | [MIT](../LICENSES/MIT.md) |
+| [Library API Verifier](../jobs/it-and-development/coding/library-api-verifier.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/fresh-library-docs) | [MIT](../LICENSES/MIT.md) |
 | [Local Promo Video Builder](../jobs/marketing/generative-video/local-promo-video-builder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/hyperframes-local-promo) | [MIT](../LICENSES/MIT.md) |
 | [Medical Bill Auditor](../jobs/finance/data-analysis/medical-bill-auditor.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/cowork-medical-bill-auditor) | [MIT](../LICENSES/MIT.md) |
 | [Motion Language Designer](../jobs/creatives/design/motion-language-designer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/motion-language-designer) | [MIT](../LICENSES/MIT.md) |
@@ -78,6 +84,7 @@
 | [Reddit Thread Analyzer](../jobs/marketing/data-analysis/reddit-thread-analyzer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/reddit-analyzer) | [MIT](../LICENSES/MIT.md) |
 | [Regex Visual Debugger](../jobs/it-and-development/coding/regex-visual-debugger.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/regex-debugger) | [MIT](../LICENSES/MIT.md) |
 | [Rep Performance Scorecard](../jobs/sales/data-analysis/rep-performance-scorecard.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/rep-performance-scorecard) | [MIT](../LICENSES/MIT.md) |
+| [Repo Instruction Writer](../jobs/it-and-development/prompt-engineering/repo-instruction-writer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/claude-md-writer) | [MIT](../LICENSES/MIT.md) |
 | [Responsive Layout Builder](../jobs/it-and-development/coding/responsive-layout-builder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/responsive-layout-builder) | [MIT](../LICENSES/MIT.md) |
 | [Review Response Writer](../jobs/pr-and-communications/support-and-community/review-response-writer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/review-response-writer) | [MIT](../LICENSES/MIT.md) |
 | [RFP Compliance Drafter](../jobs/sales/writing-and-content/rfp-compliance-drafter.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/cowork-rfp-response) | [MIT](../LICENSES/MIT.md) |
@@ -87,20 +94,27 @@
 | [Sales Forecast Builder](../jobs/sales/sales-and-negotiation/sales-forecast-builder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/sales-forecast-builder) | [MIT](../LICENSES/MIT.md) |
 | [Sales Methodology Implementer](../jobs/sales/sales-and-negotiation/sales-methodology-implementer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/sales-methodology-implementer) | [MIT](../LICENSES/MIT.md) |
 | [Screenshot to Code](../jobs/it-and-development/generative-code/screenshot-to-code.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/screenshot-to-code) | [MIT](../LICENSES/MIT.md) |
+| [SEC Financial Data Puller](../jobs/finance/research/sec-financial-data-puller.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/sec-filing-puller) | [MIT](../LICENSES/MIT.md) |
 | [Security Pentest Planner](../jobs/it-and-development/security-and-compliance/security-pentest-planner.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/security-pentest-planner) | [MIT](../LICENSES/MIT.md) |
 | [Slack Message Formatter](../jobs/management/writing-and-content/slack-message-formatter.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/slack-message-formatter) | [MIT](../LICENSES/MIT.md) |
 | [SOP Writer](../jobs/operations/writing-and-content/sop-writer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/cowork-sop-writer) | [MIT](../LICENSES/MIT.md) |
 | [Sports Trivia Builder](../jobs/creatives/writing-and-content/sports-trivia-builder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/sports-trivia-builder) | [MIT](../LICENSES/MIT.md) |
+| [Spreadsheet Data Analyst](../jobs/finance/data-analysis/spreadsheet-data-analyst.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/spreadsheet-qa) | [MIT](../LICENSES/MIT.md) |
 | [Spreadsheet Merger](../jobs/operations/data-analysis/spreadsheet-merger.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/csv-excel-merger) | [MIT](../LICENSES/MIT.md) |
+| [Spreadsheet Model Auditor](../jobs/finance/office-tools/spreadsheet-model-auditor.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/spreadsheet-model-auditor) | [MIT](../LICENSES/MIT.md) |
+| [Statement Extractor and Prover](../jobs/finance/data-analysis/statement-extractor-and-prover.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/statement-extract-and-prove) | [MIT](../LICENSES/MIT.md) |
 | [Stock Photo Finder](../jobs/creatives/research/stock-photo-finder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/stock-photo-finder) | [MIT](../LICENSES/MIT.md) |
 | [Swarm Data Processor](../jobs/it-and-development/data-analysis/swarm-data-processor.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/agent-swarm-deployer) | [MIT](../LICENSES/MIT.md) |
 | [Tax Document Organizer](../jobs/finance/data-analysis/tax-document-organizer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/cowork-tax-prep-organizer) | [MIT](../LICENSES/MIT.md) |
 | [Tax Strategy Optimizer](../jobs/finance/teaching-and-tutoring/tax-strategy-optimizer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/tax-strategy-optimizer) | [MIT](../LICENSES/MIT.md) |
 | [Team Chemistry Evaluator](../jobs/management/data-analysis/team-chemistry-evaluator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/team-chemistry-evaluator) | [MIT](../LICENSES/MIT.md) |
 | [Technical Due Diligence Reporter](../jobs/finance/research/technical-due-diligence-reporter.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/tech-due-diligence) | [MIT](../LICENSES/MIT.md) |
+| [Template Deck Builder](../jobs/creatives/office-tools/template-deck-builder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/template-deck-builder) | [MIT](../LICENSES/MIT.md) |
 | [Territory Planning Optimizer](../jobs/sales/sales-and-negotiation/territory-planning-optimizer.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/territory-planning-optimizer) | [MIT](../LICENSES/MIT.md) |
 | [Testimonial Video Builder](../jobs/marketing/generative-video/testimonial-video-builder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/hyperframes-testimonial-builder) | [MIT](../LICENSES/MIT.md) |
+| [Trade Quote Builder](../jobs/real-estate-and-construction/sales-and-negotiation/trade-quote-builder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/trade-quote-builder) | [MIT](../LICENSES/MIT.md) |
 | [Trash Talk Generator](../jobs/marketing/writing-and-content/trash-talk-generator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/trash-talk-generator) | [MIT](../LICENSES/MIT.md) |
+| [Typed-Decision Evaluator](../jobs/it-and-development/generative-ai-and-llm/typed-decision-evaluator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/jev-eval) | [MIT](../LICENSES/MIT.md) |
 | [UTM Link Generator](../jobs/marketing/marketing-and-growth/utm-link-generator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/utm-link-generator) | [MIT](../LICENSES/MIT.md) |
 | [UTM Parameter Generator](../jobs/marketing/marketing-and-growth/utm-parameter-generator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/utm-parameter-generator) | [MIT](../LICENSES/MIT.md) |
 | [Vendor Proposal Comparator](../jobs/operations/data-analysis/vendor-proposal-comparator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/cowork-vendor-comparison) | [MIT](../LICENSES/MIT.md) |

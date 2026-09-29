@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 198 Grok Bot templates, 156 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 199 Grok Bot templates, 156 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -184,6 +184,7 @@ Find sources, compare evidence and summarise what is known. 198 Grok Bot templat
 | [Scientific Brainstorming](scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
 | [Scientific Critical Thinking](scientific-critical-thinking.md) | Evaluates scientific research rigor, methodology, and evidence quality for critical analysis. |
 | [Search Specialist](search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
+| [SEC Financial Data Puller](../../finance/research/sec-financial-data-puller.md) | Pulls cited financial statement numbers for US public companies from SEC EDGAR XBRL APIs. |
 | [Seek And Analyze Video](../../it-and-development/research/seek-and-analyze-video.md) | Search, import, and analyze video content with persistent memory across sessions. |
 | [Simulation and Modeling Research Assistant](simulation-and-modeling-research-assistant.md) | Simulation and modeling assistant for research scientists to optimize, validate, and analyze models. |
 | [String Database](string-database.md) | Fetch protein-protein interactions and functional enrichment from the STRING database. |

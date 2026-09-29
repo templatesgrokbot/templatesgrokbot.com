@@ -1,6 +1,6 @@
 # Knowledge Management templates for IT and Development
 
-Notes, documents, PDFs and knowledge bases kept in order. 49 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 53 Grok Bot templates, 35 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,8 @@ Notes, documents, PDFs and knowledge bases kept in order. 49 Grok Bot templates,
 | [Brain To Docs](brain-to-docs.md) | Interview users to extract project vision and decisions into README and ADR docs. |
 | [Chat History Lookup](chat-history-lookup.md) | Answers questions about the golden_chat Slack history and shared resources. |
 | [Codebase Documentation Scanner](codebase-documentation-scanner.md) | Scans your codebase to generate and refresh project documentation and agent instructions. |
+| [Codebase Knowledge Graph Builder](codebase-knowledge-graph-builder.md) | Analyze a codebase and produce an interactive knowledge graph of its architecture. |
+| [Codebase Knowledge Guide](codebase-knowledge-guide.md) | Answers questions about a codebase using its knowledge graph. |
 | [Compile Knowledge](compile-knowledge.md) | Compile durable, non-obvious findings into interlinked markdown knowledge files with an index. |
 | [Confluence Automation](../../operations/knowledge-management/confluence-automation.md) | Automate Confluence page creation, search, space management, and labels via Rube MCP. |
 | [Connection Agent](../../operations/knowledge-management/connection-agent.md) | Analyzes an Obsidian vault to suggest links between notes and identify orphaned content. |
@@ -24,6 +26,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 49 Grok Bot templates,
 | [Context Management Context Save](context-management-context-save.md) | Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks. |
 | [Docs Search](docs-search.md) | Search auto-generated codebase docs for function signatures, API docs, class definitions, and code comments. |
 | [Documentation And Adrs](documentation-and-adrs.md) | Records the why behind architectural decisions and code changes. |
+| [Domain Flow Extractor](domain-flow-extractor.md) | Extracts business domain knowledge from a codebase and generates an interactive domain flow graph. |
 | [Domain Modeling](domain-modeling.md) | Build and sharpen a project's domain model by resolving terminology, recording decisions, and cross-referencing code. |
 | [Evidence Organization Assistant](../../legal/knowledge-management/evidence-organization-assistant.md) | Organizes, tracks, and prepares legal evidence for paralegals from collection to trial. |
 | [Feature Tracking](feature-tracking.md) | Maintain durable feature-level memory across AI coding sessions with lightweight Markdown tracks. |
@@ -32,6 +35,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 49 Grok Bot templates,
 | [Hig Project Context](../../creatives/knowledge-management/hig-project-context.md) | Create or update a shared Apple design context document for HIG capabilities. |
 | [Ingest Youtube](../../operations/knowledge-management/ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
 | [Knowledge Base Article Assistant](knowledge-base-article-assistant.md) | Turns help desk know-how into clear, accurate knowledge base articles. |
+| [Knowledge Graph Builder](knowledge-graph-builder.md) | Analyzes Karpathy-pattern LLM wikis and builds an interactive knowledge graph. |
 | [Legal Knowledge Base Builder](../../legal/knowledge-management/legal-knowledge-base-builder.md) | Builds and maintains a legal knowledge base with research, drafting, and compliance support. |
 | [Lore](lore.md) | Manage a project's long-term memory as Markdown files in .lore/ for decisions, architecture, and conventions. Not a changelog or dev journal. Not trig |
 | [Maintain Codex Wiki](maintain-codex-wiki.md) | Maintain a review-first engineering wiki with provenance and citation-aware queries. |

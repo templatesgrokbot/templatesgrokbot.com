@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 6498,
+ "count": 6528,
  "templates": [
   {
    "slug": "007",
@@ -9489,6 +9489,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "bi-measure-builder",
+   "name": "BI Measure Builder",
+   "tagline": "Writes, explains, debugs, and optimizes BI calculations across Power BI, Tableau, and Looker.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/data-analysis/bi-measure-builder.md",
+   "url": "https://templatesgrokbot.com/bot/bi-measure-builder",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/bi-measure-builder",
+   "source_license": "MIT"
+  },
+  {
    "slug": "bicep-implement",
    "name": "Bicep Implement",
    "tagline": "Creates Azure Bicep templates from user requirements.",
@@ -10344,6 +10362,23 @@
    ],
    "path": "jobs/executives-and-strategy/research/boardroom-sustainability-strategist.md",
    "url": "https://templatesgrokbot.com/bot/boardroom-sustainability-strategist"
+  },
+  {
+   "slug": "bookkeeping-close",
+   "name": "Bookkeeping Close",
+   "tagline": "Reconciles bank and card transactions, closes the books monthly, and prepares a close package for the accountant.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/finance/data-analysis/bookkeeping-close.md",
+   "url": "https://templatesgrokbot.com/bot/bookkeeping-close",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/bookkeeping-close",
+   "source_license": "MIT"
   },
   {
    "slug": "boost-asio-pro",
@@ -14616,6 +14651,23 @@
    "url": "https://templatesgrokbot.com/bot/ci-cd-pipeline-assistant"
   },
   {
+   "slug": "ci-cd-secrets-extractor",
+   "name": "CI/CD Secrets Extractor",
+   "tagline": "Extracts credentials from CI/CD pipelines and cloud secrets managers during authorized security assessments.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/ci-cd-secrets-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/ci-cd-secrets-extractor",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/cicd/offensive-cicd-secrets",
+   "source_license": "MIT"
+  },
+  {
    "slug": "ci-cd-vulnerability-hunter",
    "name": "CI/CD Vulnerability Hunter",
    "tagline": "Hunt CI/CD pipeline vulnerabilities in GitHub Actions, Jenkins, GitLab, and Terraform.",
@@ -14650,6 +14702,24 @@
    "url": "https://templatesgrokbot.com/bot/cicd-automation-workflow-automate",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "cinematic-product-video-maker",
+   "name": "Cinematic Product Video Maker",
+   "tagline": "Turns a frontend project or webpage into a cinematic product video with real screenshots and beat-synced motion.",
+   "category": "creative",
+   "jobs": [
+    "marketing",
+    "creatives"
+   ],
+   "topics": [
+    "generative-video",
+    "video-editing"
+   ],
+   "path": "jobs/marketing/generative-video/cinematic-product-video-maker.md",
+   "url": "https://templatesgrokbot.com/bot/cinematic-product-video-maker",
+   "adapted_from": "https://github.com/Vincentwei1021/video-shotcraft",
+   "source_license": "Apache-2.0"
   },
   {
    "slug": "cio-it-strategy-advisor",
@@ -17128,6 +17198,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "code-change-reviewer",
+   "name": "Code Change Reviewer",
+   "tagline": "Keeps AI-generated code changes small, verified, and safe to review.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/code-change-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/code-change-reviewer",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/ai-coding-guardrails",
+   "source_license": "MIT"
+  },
+  {
    "slug": "code-debugging-assistant",
    "name": "Code Debugging Assistant",
    "tagline": "Debug code, inspect errors, and optimize performance through guided debugging assistance.",
@@ -17678,6 +17764,38 @@
    "path": "jobs/it-and-development/coding/codebase-explorer.md",
    "url": "https://templatesgrokbot.com/bot/codebase-explorer",
    "adapted_from": "https://www.aitmpl.com/component/agents/development-tools/codebase-explorer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "codebase-knowledge-graph-builder",
+   "name": "Codebase Knowledge Graph Builder",
+   "tagline": "Analyze a codebase and produce an interactive knowledge graph of its architecture.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/knowledge-management/codebase-knowledge-graph-builder.md",
+   "url": "https://templatesgrokbot.com/bot/codebase-knowledge-graph-builder",
+   "adapted_from": "https://github.com/Egonex-AI/Understand-Anything/tree/main/understand-anything-plugin/skills/understand",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "codebase-knowledge-guide",
+   "name": "Codebase Knowledge Guide",
+   "tagline": "Answers questions about a codebase using its knowledge graph.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/knowledge-management/codebase-knowledge-guide.md",
+   "url": "https://templatesgrokbot.com/bot/codebase-knowledge-guide",
+   "adapted_from": "https://github.com/Egonex-AI/Understand-Anything/tree/main/understand-anything-plugin/skills/understand-chat",
    "source_license": "MIT"
   },
   {
@@ -20217,6 +20335,23 @@
    "path": "jobs/operations/knowledge-management/connection-agent.md",
    "url": "https://templatesgrokbot.com/bot/connection-agent",
    "adapted_from": "https://www.aitmpl.com/component/agents/obsidian-ops-team/connection-agent",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "connectivity-triage",
+   "name": "Connectivity Triage",
+   "tagline": "Isolates macOS connectivity failures into local, DNS, path, or service fault domains.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "support-and-community",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/support-and-community/connectivity-triage.md",
+   "url": "https://templatesgrokbot.com/bot/connectivity-triage",
+   "adapted_from": "https://github.com/wshobson/agents/tree/main/plugins/incident-response/skills/connectivity-triage",
    "source_license": "MIT"
   },
   {
@@ -23024,6 +23159,22 @@
    "path": "jobs/it-and-development/self-improvement/critical-thinking.md",
    "url": "https://templatesgrokbot.com/bot/critical-thinking",
    "adapted_from": "https://www.aitmpl.com/component/agents/expert-advisors/critical-thinking",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "crm-data-cleanup",
+   "name": "CRM Data Cleanup",
+   "tagline": "Cleans up CRM exports by finding duplicates, normalizing fields, and producing a reviewable merge plan.",
+   "category": "operations",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/sales/data-analysis/crm-data-cleanup.md",
+   "url": "https://templatesgrokbot.com/bot/crm-data-cleanup",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/crm-data-cleanup",
    "source_license": "MIT"
   },
   {
@@ -31639,6 +31790,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "domain-flow-extractor",
+   "name": "Domain Flow Extractor",
+   "tagline": "Extracts business domain knowledge from a codebase and generates an interactive domain flow graph.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management",
+    "research"
+   ],
+   "path": "jobs/it-and-development/knowledge-management/domain-flow-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/domain-flow-extractor",
+   "adapted_from": "https://github.com/Egonex-AI/Understand-Anything/tree/main/understand-anything-plugin/skills/understand-domain",
+   "source_license": "MIT"
+  },
+  {
    "slug": "domain-modeling",
    "name": "Domain Modeling",
    "tagline": "Build and sharpen a project's domain model by resolving terminology, recording decisions, and cross-referencing code.",
@@ -39103,6 +39271,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "figma-design-graph-builder",
+   "name": "Figma Design Graph Builder",
+   "tagline": "Analyzes Figma files and builds an interactive design knowledge graph.",
+   "category": "engineering",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/creatives/design/figma-design-graph-builder.md",
+   "url": "https://templatesgrokbot.com/bot/figma-design-graph-builder",
+   "adapted_from": "https://github.com/Egonex-AI/Understand-Anything/tree/main/understand-anything-plugin/skills/understand-figma",
+   "source_license": "MIT"
+  },
+  {
    "slug": "figma-implement-design",
    "name": "Figma Implement Design",
    "tagline": "Turn Figma designs into production-ready code with pixel-perfect fidelity using your project's design system.",
@@ -44955,6 +45139,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "gohighlevel-crm-operator",
+   "name": "GoHighLevel CRM Operator",
+   "tagline": "Operate your connected GoHighLevel CRM accounts safely through chat.",
+   "category": "operations",
+   "jobs": [
+    "operations"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "productivity"
+   ],
+   "path": "jobs/operations/sales-and-negotiation/gohighlevel-crm-operator.md",
+   "url": "https://templatesgrokbot.com/bot/gohighlevel-crm-operator",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/gohighlevel",
+   "source_license": "MIT"
+  },
+  {
    "slug": "golang-pro",
    "name": "Golang Pro",
    "tagline": "Build production-ready Go microservices with advanced concurrency and performance optimization.",
@@ -45235,6 +45436,24 @@
    "url": "https://templatesgrokbot.com/bot/google-drive-automation",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "google-maps-lead-scraper",
+   "name": "Google Maps Lead Scraper",
+   "tagline": "Turn a lead request into a validated Google Maps crawl and help you work with the results.",
+   "category": "engineering",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "coding",
+    "teaching-and-tutoring",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/sales/coding/google-maps-lead-scraper.md",
+   "url": "https://templatesgrokbot.com/bot/google-maps-lead-scraper",
+   "adapted_from": "https://github.com/gosom/google-maps-scraper/tree/main/skills/google-maps-scraper",
+   "source_license": "MIT"
   },
   {
    "slug": "google-sheets-automation",
@@ -49723,6 +49942,22 @@
    "url": "https://templatesgrokbot.com/bot/infection-control-strategist"
   },
   {
+   "slug": "inference-cost-auditor",
+   "name": "Inference Cost Auditor",
+   "tagline": "Audits codebases for LLM calls that are really classifications and prices a swap to a cheaper model.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/inference-cost-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/inference-cost-auditor",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/jev-audit",
+   "source_license": "MIT"
+  },
+  {
    "slug": "inference-serving-llama-cpp",
    "name": "Inference Serving Llama Cpp",
    "tagline": "Runs LLM inference on CPU, Apple Silicon, and non-NVIDIA GPUs using GGUF models.",
@@ -52922,6 +53157,22 @@
    "url": "https://templatesgrokbot.com/bot/ir-plan-builder-for-security-teams"
   },
   {
+   "slug": "iron-proxy-gateway-installer",
+   "name": "Iron Proxy Gateway Installer",
+   "tagline": "Installs and manages the Iron Proxy gateway with its official Iron Control console.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/iron-proxy-gateway-installer.md",
+   "url": "https://templatesgrokbot.com/bot/iron-proxy-gateway-installer",
+   "adapted_from": "https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-iron-proxy",
+   "source_license": "MIT"
+  },
+  {
    "slug": "isms-audit-expert",
    "name": "Isms Audit Expert",
    "tagline": "Conducts ISO 27001 ISMS audits, manages audit programs, and assesses security controls for compliance verification. No certification decisions made. A",
@@ -54662,6 +54913,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "jwt-security-auditor",
+   "name": "JWT Security Auditor",
+   "tagline": "Audits JWT-based authentication for bypass and implementation flaws.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/jwt-security-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/jwt-security-auditor",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/auth/offensive-jwt",
+   "source_license": "MIT"
+  },
+  {
    "slug": "k6-load-testing",
    "name": "K6 Load Testing",
    "tagline": "Write and run k6 load tests for APIs, browsers, and WebSockets.",
@@ -54949,6 +55216,39 @@
    ],
    "path": "jobs/customer-support/knowledge-management/knowledge-base-maintenance-assistant.md",
    "url": "https://templatesgrokbot.com/bot/knowledge-base-maintenance-assistant"
+  },
+  {
+   "slug": "knowledge-graph-builder",
+   "name": "Knowledge Graph Builder",
+   "tagline": "Analyzes Karpathy-pattern LLM wikis and builds an interactive knowledge graph.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/knowledge-management/knowledge-graph-builder.md",
+   "url": "https://templatesgrokbot.com/bot/knowledge-graph-builder",
+   "adapted_from": "https://github.com/Egonex-AI/Understand-Anything/tree/main/understand-anything-plugin/skills/understand-knowledge",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "knowledge-graph-dashboard-launcher",
+   "name": "Knowledge Graph Dashboard Launcher",
+   "tagline": "Launches a web dashboard to visualize your codebase's knowledge graph.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/knowledge-graph-dashboard-launcher.md",
+   "url": "https://templatesgrokbot.com/bot/knowledge-graph-dashboard-launcher",
+   "adapted_from": "https://github.com/Egonex-AI/Understand-Anything/tree/main/understand-anything-plugin/skills/understand-dashboard",
+   "source_license": "MIT"
   },
   {
    "slug": "knowledge-synthesizer",
@@ -57046,6 +57346,23 @@
    "url": "https://templatesgrokbot.com/bot/lex",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "library-api-verifier",
+   "name": "Library API Verifier",
+   "tagline": "Checks installed library versions and real API signatures before writing code.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "research"
+   ],
+   "path": "jobs/it-and-development/coding/library-api-verifier.md",
+   "url": "https://templatesgrokbot.com/bot/library-api-verifier",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/fresh-library-docs",
+   "source_license": "MIT"
   },
   {
    "slug": "license-compliance-auditor",
@@ -67938,6 +68255,23 @@
    "source_license": "Apache-2.0"
   },
   {
+   "slug": "oauth-security-auditor",
+   "name": "OAuth Security Auditor",
+   "tagline": "Guides authorized OAuth 2.0 penetration tests with a structured attack checklist.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/oauth-security-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/oauth-security-auditor",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/auth/offensive-oauth",
+   "source_license": "MIT"
+  },
+  {
    "slug": "objection-pattern-detector",
    "name": "Objection Pattern Detector",
    "tagline": "Mines lost deal notes to find objection patterns and builds response playbooks from won deals.",
@@ -73637,6 +73971,23 @@
    "url": "https://templatesgrokbot.com/bot/pipedrive-automation",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "pipeline-exploitation-auditor",
+   "name": "Pipeline Exploitation Auditor",
+   "tagline": "Exploit CI/CD pipeline misconfigurations across GitHub Actions, Jenkins, GitLab CI, and Azure DevOps.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/pipeline-exploitation-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/pipeline-exploitation-auditor",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/cicd/offensive-cicd-pipeline",
+   "source_license": "MIT"
   },
   {
    "slug": "pipeline-forecast-compass",
@@ -83706,6 +84057,23 @@
    "source_license": "Apache-2.0"
   },
   {
+   "slug": "repo-instruction-writer",
+   "name": "Repo Instruction Writer",
+   "tagline": "Writes and maintains a concise, repo-specific instruction file for coding agents.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "prompt-engineering",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/prompt-engineering/repo-instruction-writer.md",
+   "url": "https://templatesgrokbot.com/bot/repo-instruction-writer",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/claude-md-writer",
+   "source_license": "MIT"
+  },
+  {
    "slug": "repo-maintainer",
    "name": "Repo Maintainer",
    "tagline": "Audit and repair repository hygiene across artifacts, dependencies, CI, docs, Git state, and code quality.",
@@ -89112,6 +89480,23 @@
    ],
    "path": "jobs/operations/data-analysis/seasonal-inventory-planner.md",
    "url": "https://templatesgrokbot.com/bot/seasonal-inventory-planner"
+  },
+  {
+   "slug": "sec-financial-data-puller",
+   "name": "SEC Financial Data Puller",
+   "tagline": "Pulls cited financial statement numbers for US public companies from SEC EDGAR XBRL APIs.",
+   "category": "finance",
+   "jobs": [
+    "finance",
+    "science-and-research"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/finance/research/sec-financial-data-puller.md",
+   "url": "https://templatesgrokbot.com/bot/sec-financial-data-puller",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/sec-filing-puller",
+   "source_license": "MIT"
   },
   {
    "slug": "secondary-lesson-planner",
@@ -94533,6 +94918,25 @@
    "source_license": "MIT"
   },
   {
+   "slug": "spreadsheet-data-analyst",
+   "name": "Spreadsheet Data Analyst",
+   "tagline": "Answers questions about your spreadsheet or data export with correct, auditable numbers.",
+   "category": "operations",
+   "jobs": [
+    "finance",
+    "science-and-research",
+    "government"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/finance/data-analysis/spreadsheet-data-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/spreadsheet-data-analyst",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/spreadsheet-qa",
+   "source_license": "MIT"
+  },
+  {
    "slug": "spreadsheet-merger",
    "name": "Spreadsheet Merger",
    "tagline": "Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution.",
@@ -94550,6 +94954,22 @@
    "path": "jobs/operations/data-analysis/spreadsheet-merger.md",
    "url": "https://templatesgrokbot.com/bot/spreadsheet-merger",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/csv-excel-merger",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "spreadsheet-model-auditor",
+   "name": "Spreadsheet Model Auditor",
+   "tagline": "Audits Excel spreadsheet models for structural errors and explains each fix. No hype, no emoji.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "office-tools"
+   ],
+   "path": "jobs/finance/office-tools/spreadsheet-model-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/spreadsheet-model-auditor",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/spreadsheet-model-auditor",
    "source_license": "MIT"
   },
   {
@@ -95343,6 +95763,23 @@
    "url": "https://templatesgrokbot.com/bot/startup-metrics-framework",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "statement-extractor-and-prover",
+   "name": "Statement Extractor and Prover",
+   "tagline": "Extracts transactions from statement PDFs into CSV/Excel and proves the extraction balances.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/finance/data-analysis/statement-extractor-and-prover.md",
+   "url": "https://templatesgrokbot.com/bot/statement-extractor-and-prover",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/statement-extract-and-prove",
+   "source_license": "MIT"
   },
   {
    "slug": "statistical-analysis",
@@ -101486,6 +101923,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "template-deck-builder",
+   "name": "Template Deck Builder",
+   "tagline": "Builds and edits PowerPoint decks bound to your company template with consulting-grade storyline and visual QA.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "office-tools",
+    "design"
+   ],
+   "path": "jobs/creatives/office-tools/template-deck-builder.md",
+   "url": "https://templatesgrokbot.com/bot/template-deck-builder",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/template-deck-builder",
+   "source_license": "MIT"
+  },
+  {
    "slug": "skill-developer",
    "name": "Template Developer",
    "tagline": "Creates and manages Claude Code capabilities with auto-activation and best practices.",
@@ -103290,6 +103744,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "trade-quote-builder",
+   "name": "Trade Quote Builder",
+   "tagline": "Builds accurate trade quotes with burdened labor, waste, and margin checks.",
+   "category": "operations",
+   "jobs": [
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "sales-and-negotiation",
+    "office-tools"
+   ],
+   "path": "jobs/real-estate-and-construction/sales-and-negotiation/trade-quote-builder.md",
+   "url": "https://templatesgrokbot.com/bot/trade-quote-builder",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/trade-quote-builder",
+   "source_license": "MIT"
+  },
+  {
    "slug": "trading-ledger",
    "name": "Trading Ledger",
    "tagline": "Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L.",
@@ -104760,6 +105231,24 @@
    "url": "https://templatesgrokbot.com/bot/twitter-share-card-maker",
    "adapted_from": "https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/card-twitter",
    "source_license": "Apache-2.0"
+  },
+  {
+   "slug": "typed-decision-evaluator",
+   "name": "Typed-Decision Evaluator",
+   "tagline": "Build labelled eval sets, sweep criteria wordings and thresholds, and calibrate confidence gates for typed-decision models.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "prompt-engineering",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/typed-decision-evaluator.md",
+   "url": "https://templatesgrokbot.com/bot/typed-decision-evaluator",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/jev-eval",
+   "source_license": "MIT"
   },
   {
    "slug": "typescript-advanced-types",
@@ -108290,6 +108779,22 @@
    ],
    "path": "jobs/it-and-development/cloud-and-devops/virtualization-strategy-planner.md",
    "url": "https://templatesgrokbot.com/bot/virtualization-strategy-planner"
+  },
+  {
+   "slug": "vision-bridge",
+   "name": "Vision Bridge",
+   "tagline": "Adds vision to text-only models by converting images into structured JSON evidence.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/vision-bridge.md",
+   "url": "https://templatesgrokbot.com/bot/vision-bridge",
+   "adapted_from": "https://github.com/liustack/modlens/tree/main/skills/modlens",
+   "source_license": "MIT"
   },
   {
    "slug": "vision-language-sft-adapter",

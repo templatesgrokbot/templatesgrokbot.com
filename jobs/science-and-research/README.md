@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **662 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **664 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Scientists, analysts and academic researchers. **662 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 243 |
-| [Research](research/README.md) | 198 |
+| [Data Analysis](data-analysis/README.md) | 244 |
+| [Research](research/README.md) | 199 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 70 |
 | [Coding](coding/README.md) | 40 |
 | [Security & Compliance](security-and-compliance/README.md) | 35 |
@@ -36,31 +36,31 @@ Scientists, analysts and academic researchers. **662 ready-made Grok Bot templat
 
 | Template | What it does |
 |---|---|
-| [Kusto Assistant](../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
 | [Wireshark Analysis](../it-and-development/data-analysis/wireshark-analysis.md) | Analyze PCAP files with Wireshark filters and statistics for security and performance investigations. |
+| [Kusto Assistant](../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
 | [Mlops Tensorboard](data-analysis/mlops-tensorboard.md) | Visualize training metrics, debug models, and compare experiments with TensorBoard. |
 | [Plotly](../it-and-development/data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
 | [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
-| [Medchem](data-analysis/medchem.md) | Filter compound libraries by drug-likeness rules and structural alerts for prioritization. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 | [Polars](../it-and-development/data-analysis/polars.md) | High-performance DataFrame operations using Polars with lazy evaluation and parallel execution. |
 
-[All 243 Data Analysis templates →](data-analysis/README.md)
+[All 244 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
 | Template | What it does |
 |---|---|
-| [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
 | [Labarchive Integration](research/labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
-| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
+| [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
 | [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
+| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
 | [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
 | [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Task Researcher](../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 
-[All 198 Research templates →](research/README.md)
+[All 199 Research templates →](research/README.md)
 
 ## Generative AI and LLM
 
@@ -70,8 +70,8 @@ Scientists, analysts and academic researchers. **662 ready-made Grok Bot templat
 | [Llm Evaluation](../it-and-development/generative-ai-and-llm/llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
 | [Embedding Strategies](../it-and-development/generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
 | [Emerging Techniques Model Pruning](generative-ai-and-llm/emerging-techniques-model-pruning.md) | Prunes LLMs to reduce size and accelerate inference without retraining. |
-| [Huggingface Local Models](../it-and-development/generative-ai-and-llm/huggingface-local-models.md) | Select and run GGUF models locally with llama.cpp on CPU, Metal, CUDA, or ROCm. |
 | [Optimization Hqq](../it-and-development/generative-ai-and-llm/optimization-hqq.md) | Quantize LLMs to 4/3/2-bit without calibration data, fast and memory-efficient. |
+| [Huggingface Local Models](../it-and-development/generative-ai-and-llm/huggingface-local-models.md) | Select and run GGUF models locally with llama.cpp on CPU, Metal, CUDA, or ROCm. |
 | [Post Training Verl](../it-and-development/generative-ai-and-llm/post-training-verl.md) | Guides reinforcement learning post-training of LLMs using the verl library. |
 | [Nlp Engineer](../it-and-development/generative-ai-and-llm/nlp-engineer.md) | Builds production NLP pipelines for classification, extraction, translation, and sentiment analysis. |
 
@@ -87,8 +87,8 @@ Scientists, analysts and academic researchers. **662 ready-made Grok Bot templat
 | [Sql Pro](../it-and-development/coding/sql-pro.md) | Optimize SQL queries, design schemas, and tune performance for cloud-native and hybrid databases. |
 | [Claude D3.js](../it-and-development/coding/claude-d3js-skill.md) | Create custom interactive D3.js visualizations for any JavaScript environment. |
 | [Pennylane](../it-and-development/coding/pennylane.md) | Build and train quantum circuits with automatic differentiation across simulators and hardware. |
-| [Huggingface Lora Space Builder](../it-and-development/coding/huggingface-lora-space-builder.md) | Build and publish a Gradio demo on Hugging Face Spaces for a user-provided LoRA. |
 | [Pytorch Lightning](../it-and-development/coding/pytorch-lightning.md) | Organize PyTorch code into LightningModules and configure Trainers for scalable neural network training. |
+| [Huggingface Lora Space Builder](../it-and-development/coding/huggingface-lora-space-builder.md) | Build and publish a Gradio demo on Hugging Face Spaces for a user-provided LoRA. |
 
 [All 40 Coding templates →](coding/README.md)
 
@@ -98,8 +98,8 @@ Scientists, analysts and academic researchers. **662 ready-made Grok Bot templat
 |---|---|
 | [Memory Forensics](../it-and-development/security-and-compliance/memory-forensics.md) | Acquire, analyze, and extract artifacts from memory dumps for incident response and malware analysis. |
 | [Chemical Compliance Assistant](security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
-| [Chemical Safety Documentation Assistant](security-and-compliance/chemical-safety-documentation-assistant.md) | Keeps lab chemical safety documents current and ready for review. |
 | [R&D Regulatory Navigator](../product-development/security-and-compliance/r-d-regulatory-navigator.md) | Regulatory compliance guidance for R&D engineers: research, interpret, document, monitor, audit, train. |
+| [Chemical Safety Documentation Assistant](security-and-compliance/chemical-safety-documentation-assistant.md) | Keeps lab chemical safety documents current and ready for review. |
 | [Laboratory Safety and Protocol Design Assistant](security-and-compliance/laboratory-safety-and-protocol-design-assistant.md) | Designs and maintains lab safety protocols, training, and compliance for microbiologists. |
 | [Chemical Safety Information Manager](security-and-compliance/chemical-safety-information-manager.md) | Manages chemical safety data, procedures, and compliance for biochemistry labs. |
 | [Consultant Compliance Research](security-and-compliance/consultant-compliance-research.md) | Environmental compliance research, audits, permits, training, and reporting support for consultants. |
@@ -116,8 +116,8 @@ Scientists, analysts and academic researchers. **662 ready-made Grok Bot templat
 | [Technical Documentation Assistant](../product-development/writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
 | [Scientific Writing](writing-and-content/scientific-writing.md) | Drafts full-paragraph scientific manuscripts using IMRAD structure with verified citations and figures. |
 | [Latex Paper Conversion](writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
-| [Permit-Ready EIA Report Builder](writing-and-content/permit-ready-eia-report-builder.md) | Supports environmental consultants with impact assessments from data collection to permit-ready reports. |
 | [Stakeholder Engagement Strategist](writing-and-content/stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
+| [Permit-Ready EIA Report Builder](writing-and-content/permit-ready-eia-report-builder.md) | Supports environmental consultants with impact assessments from data collection to permit-ready reports. |
 | [Grant Proposal Support Assistant](writing-and-content/grant-proposal-support-assistant.md) | Finds funding, drafts, budgets, reviews, and aligns grant proposals for research projects. |
 
 [All 16 Writing & Content templates →](writing-and-content/README.md)
@@ -142,9 +142,9 @@ Scientists, analysts and academic researchers. **662 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Laboratory Equipment Maintenance Scheduler](productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
+| [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Lab Stock Forecast Alerts](productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
 | [Lab Supply Chain Manager](productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |
-| [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
 | [Geological Fieldwork Planner](productivity/geological-fieldwork-planner.md) | Plans geological fieldwork from site research to permits, logistics, and safety. |
 | [Process Development Time Optimizer](productivity/process-development-time-optimizer.md) | Plans and tracks a process development scientist's day to cut wasted time. |

@@ -1,6 +1,6 @@
 # Credits: github.com/nanocoai/nanoclaw
 
-44 TemplatesGrokBot templates are adapted from work published at [github.com/nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+45 TemplatesGrokBot templates are adapted from work published at [github.com/nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -19,6 +19,7 @@
 | [GitHub Channel Integrator](../jobs/it-and-development/generative-ai-and-llm/github-channel-integrator.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-github) | [MIT](../LICENSES/MIT.md) |
 | [Google Chat Integrator](../jobs/it-and-development/coding/google-chat-integrator.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-gchat) | [MIT](../LICENSES/MIT.md) |
 | [iMessage Channel Installer](../jobs/it-and-development/cloud-and-devops/imessage-channel-installer.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-imessage) | [MIT](../LICENSES/MIT.md) |
+| [Iron Proxy Gateway Installer](../jobs/it-and-development/cloud-and-devops/iron-proxy-gateway-installer.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-iron-proxy) | [MIT](../LICENSES/MIT.md) |
 | [Linear Channel Integrator](../jobs/it-and-development/generative-ai-and-llm/linear-channel-integrator.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-linear) | [MIT](../LICENSES/MIT.md) |
 | [Matrix Channel Integrator](../jobs/it-and-development/cloud-and-devops/matrix-channel-integrator.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-matrix) | [MIT](../LICENSES/MIT.md) |
 | [Mattermost Channel Connector](../jobs/it-and-development/cloud-and-devops/mattermost-channel-connector.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-mattermost) | [MIT](../LICENSES/MIT.md) |

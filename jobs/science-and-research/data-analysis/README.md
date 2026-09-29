@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 243 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 244 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -217,6 +217,7 @@ Clean, query, chart and explain data. 243 Grok Bot templates, 143 of them filed 
 | [Soil and Water Analysis Assistant](soil-and-water-analysis-assistant.md) | Plans, interprets, and reports soil and water analyses for environmental consultants. |
 | [Soil Contamination Analysis Assistant](soil-contamination-analysis-assistant.md) | Soil contamination analysis assistant for environmental engineers. |
 | [Spreadsheet](../../finance/data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
+| [Spreadsheet Data Analyst](../../finance/data-analysis/spreadsheet-data-analyst.md) | Answers questions about your spreadsheet or data export with correct, auditable numbers. |
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
 | [Statistical Analysis](statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 | [Statistical Analysis Assistant](../../it-and-development/data-analysis/statistical-analysis-assistant.md) | Guides data analysts through statistical analysis tasks from cleaning to interpretation. |

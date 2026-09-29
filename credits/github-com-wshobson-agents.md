@@ -1,6 +1,6 @@
 # Credits: github.com/wshobson/agents
 
-32 TemplatesGrokBot templates are adapted from work published at [github.com/wshobson/agents](https://github.com/wshobson/agents). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+33 TemplatesGrokBot templates are adapted from work published at [github.com/wshobson/agents](https://github.com/wshobson/agents). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -8,6 +8,7 @@
 | [Checkpoint Promotion Gate](../jobs/it-and-development/generative-ai-and-llm/checkpoint-promotion-gate.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/llm-finetuning/skills/checkpoint-promotion) | [MIT](../LICENSES/MIT.md) |
 | [Codebase Documentation Scanner](../jobs/it-and-development/knowledge-management/codebase-documentation-scanner.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/ship-mate/skills/scan) | [MIT](../LICENSES/MIT.md) |
 | [Component Design Advisor](../jobs/it-and-development/design/component-design-advisor.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/web-component-design) | [MIT](../LICENSES/MIT.md) |
+| [Connectivity Triage](../jobs/it-and-development/support-and-community/connectivity-triage.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/incident-response/skills/connectivity-triage) | [MIT](../LICENSES/MIT.md) |
 | [Evaluation Harness Builder](../jobs/it-and-development/generative-ai-and-llm/evaluation-harness-builder.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/llm-finetuning/skills/eval-harness-first) | [MIT](../LICENSES/MIT.md) |
 | [File Format Converter](../jobs/it-and-development/office-tools/file-format-converter.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/file-conversion/skills/file-conversion) | [MIT](../LICENSES/MIT.md) |
 | [Fine-Tuning Method Router](../jobs/it-and-development/generative-ai-and-llm/fine-tuning-method-router.md) | [original](https://github.com/wshobson/agents/tree/main/plugins/llm-finetuning/skills/finetuning-method-selection) | [MIT](../LICENSES/MIT.md) |

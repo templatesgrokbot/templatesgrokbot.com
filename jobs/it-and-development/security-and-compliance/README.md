@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 323 Grok Bot templates, 309 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 327 Grok Bot templates, 313 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -51,6 +51,7 @@ Authorised security testing, audits and regulatory work. 323 Grok Bot templates,
 | [Cache Poison Hunter](cache-poison-hunter.md) | Hunts cache poisoning and web cache deception vulnerabilities in CDN-fronted web applications. |
 | [CAPTCHA Bypass Hunter](captcha-bypass-hunter.md) | Tests web forms for CAPTCHA bypass vulnerabilities across six common patterns. |
 | [Case Review](case-review.md) | Audit reverse-engineering case packages for traceability and completeness before handoff. |
+| [CI/CD Secrets Extractor](ci-cd-secrets-extractor.md) | Extracts credentials from CI/CD pipelines and cloud secrets managers during authorized security assessments. |
 | [CI/CD Vulnerability Hunter](ci-cd-vulnerability-hunter.md) | Hunt CI/CD pipeline vulnerabilities in GitHub Actions, Jenkins, GitLab, and Terraform. |
 | [Clickjacking Hunter](clickjacking-hunter.md) | Hunt clickjacking: verify frameability and prove a sensitive action survives cross-site framing. |
 | [Cloud IAM Red Team](cloud-iam-red-team.md) | Analyzes leaked cloud credentials and maps privilege escalation paths across AWS, Azure, and GCP. |
@@ -146,6 +147,7 @@ Authorised security testing, audits and regulatory work. 323 Grok Bot templates,
 | [IT Security Best Practices Assistant](it-security-best-practices-assistant.md) | Guides IT support staff through security best practices and response planning. |
 | [Jfrog Sec](jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |
 | [JWT Forger](jwt-forger.md) | Forge JWTs to prove access to admin or other users' data. |
+| [JWT Security Auditor](jwt-security-auditor.md) | Audits JWT-based authentication for bypass and implementation flaws. |
 | [K8s Security Policies](k8s-security-policies.md) | Implement defense-in-depth Kubernetes security with network policies, RBAC, and pod standards. |
 | [Kubernetes Security Hunter](kubernetes-security-hunter.md) | Hunt Kubernetes and Docker misconfigurations for RCE and credential disclosure. |
 | [LDAP Injection Hunter](ldap-injection-hunter.md) | Hunt LDAP and XPath injection vulnerabilities in web applications. |
@@ -180,6 +182,7 @@ Authorised security testing, audits and regulatory work. 323 Grok Bot templates,
 | [Node.js Vulnerability Hunter](node-js-vulnerability-hunter.md) | Hunts Node.js-specific vulnerabilities: prototype pollution, SSTI, command injection, and more. |
 | [NoSQL Injection Hunter](nosql-injection-hunter.md) | Finds and validates NoSQL injection flaws in MongoDB, CouchDB, Redis, and Elasticsearch. |
 | [NTLM Info Disclosure Hunter](ntlm-info-disclosure-hunter.md) | Hunt NTLM info disclosure on internet-reachable IIS/SharePoint/Exchange. |
+| [OAuth Security Auditor](oauth-security-auditor.md) | Guides authorized OAuth 2.0 penetration tests with a structured attack checklist. |
 | [Okta Attack Chain](okta-attack-chain.md) | Recon and test Okta-as-IdP authentication for authorized red-team engagements. |
 | [Open Redirect Hunter](open-redirect-hunter.md) | Hunt and validate open redirects, then chain them to OAuth theft or SSRF for high-impact findings. |
 | [Ot Ics](ot-ics.md) | Authorized OT/ICS security assessment with passive-first evaluation. |
@@ -192,6 +195,7 @@ Authorised security testing, audits and regulatory work. 323 Grok Bot templates,
 | [Pentest Commands](pentest-commands.md) | Provides exact command syntax for nmap, Metasploit, Hydra, John, Nikto, SQLMap, and aircrack-ng. |
 | [Pentest Tools](pentest-tools.md) | Orchestrate 20+ penetration-testing tools through structured, authorized workflows. |
 | [Permission Manager](permission-manager.md) | Audit and configure opencode command and capability permissions safely. |
+| [Pipeline Exploitation Auditor](pipeline-exploitation-auditor.md) | Exploit CI/CD pipeline misconfigurations across GitHub Actions, Jenkins, GitLab CI, and Azure DevOps. |
 | [Policy Compliance Drafting](policy-compliance-drafting.md) | Develops and maintains your organization's security policies, from risk assessment to incident response. |
 | [Powershell Security Hardening](powershell-security-hardening.md) | Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie |
 | [Privacy By Design](privacy-by-design.md) | Build apps with built-in privacy protections from the start. |

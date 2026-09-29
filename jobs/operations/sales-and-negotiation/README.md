@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Operations
 
-Prospecting, outreach, proposals and negotiating terms. 28 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 29 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,7 @@ Prospecting, outreach, proposals and negotiating terms. 28 Grok Bot templates, 1
 | [Contract Negotiation Assistant](contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
 | [Contract Negotiation Strategist](contract-negotiation-strategist.md) | Prepares and guides procurement contract negotiations from research to final agreement. |
 | [Freight Load Matching Assistant](../../sales/sales-and-negotiation/freight-load-matching-assistant.md) | Matches loads to carriers, negotiates rates, and manages freight documentation from search to delivery. |
+| [GoHighLevel CRM Operator](gohighlevel-crm-operator.md) | Operate your connected GoHighLevel CRM accounts safely through chat. |
 | [Hubspot Automation](../../sales/sales-and-negotiation/hubspot-automation.md) | Automate HubSpot CRM operations via Rube MCP and Composio integration. |
 | [Lead Research Assistant](../../sales/sales-and-negotiation/lead-research-assistant.md) | Finds and prioritizes companies that match your ideal customer profile for sales outreach. |
 | [Logistics Supplier Sourcing Navigator](logistics-supplier-sourcing-navigator.md) | Streamlines supplier selection from research to contract management for logistics managers. |

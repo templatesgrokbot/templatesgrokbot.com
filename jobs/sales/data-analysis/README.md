@@ -1,6 +1,6 @@
 # Data Analysis templates for Sales
 
-Clean, query, chart and explain data. 92 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 93 Grok Bot templates, 69 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Clean, query, chart and explain data. 92 Grok Bot templates, 68 of them filed in
 | [Churn Radar](churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
 | [Client Feedback Insight Engine](client-feedback-insight-engine.md) | Turns client feedback into categorized, sentiment-scored insights with trend, churn, and competitive analysis for sales VPs. |
 | [Client Health Dashboard](../../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
+| [CRM Data Cleanup](crm-data-cleanup.md) | Cleans up CRM exports by finding duplicates, normalizing fields, and producing a reviewable merge plan. |
 | [CRM Data Interpretation Assistant](crm-data-interpretation-assistant.md) | Turns CRM data into clear sales insights and forecasts for sales managers. |
 | [CRM Optimization Assistant](../../executives-and-strategy/data-analysis/crm-optimization-assistant.md) | Optimizes your CRM with data cleaning, segmentation, scoring, forecasting, and automation. |
 | [CRM Relationship Manager](../../executives-and-strategy/data-analysis/crm-relationship-manager.md) | Manages customer relationships end-to-end: leads, segmentation, communication, retention, and insights. |

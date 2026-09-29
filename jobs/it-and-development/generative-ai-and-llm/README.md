@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 216 Grok Bot templates, 196 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 219 Grok Bot templates, 199 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -109,6 +109,7 @@ Work with language models, agents and their plumbing. 216 Grok Bot templates, 19
 | [Huggingface Best](huggingface-best.md) | Finds top HuggingFace models for a task by querying official leaderboards and filtering by device constraints. |
 | [Huggingface Local Models](huggingface-local-models.md) | Select and run GGUF models locally with llama.cpp on CPU, Metal, CUDA, or ROCm. |
 | [Huggingface Zerogpu](huggingface-zerogpu.md) | Build and deploy Gradio AI demos on Hugging Face ZeroGPU hardware. |
+| [Inference Cost Auditor](inference-cost-auditor.md) | Audits codebases for LLM calls that are really classifications and prices a swap to a cheaper model. |
 | [Inference Serving Llama Cpp](inference-serving-llama-cpp.md) | Runs LLM inference on CPU, Apple Silicon, and non-NVIDIA GPUs using GGUF models. |
 | [Inference Serving Sglang](inference-serving-sglang.md) | Serve LLMs with structured outputs and prefix caching for 5× faster inference. |
 | [Inference Serving Tensorrt Llm](inference-serving-tensorrt-llm.md) | Optimizes LLM inference on NVIDIA GPUs for maximum throughput and lowest latency. |
@@ -214,8 +215,10 @@ Work with language models, agents and their plumbing. 216 Grok Bot templates, 19
 | [Transformers](transformers.md) | Loads and runs Hugging Face transformer models for inference and fine-tuning. |
 | [Transformers Js](transformers-js.md) | Run ML models directly in JavaScript/TypeScript without a Python server. |
 | [Trl Training](trl-training.md) | Train and fine-tune transformer language models using TRL CLI commands. |
+| [Typed-Decision Evaluator](typed-decision-evaluator.md) | Build labelled eval sets, sweep criteria wordings and thresholds, and calibrate confidence gates for typed-decision models. |
 | [Unified Ai Gateway](unified-ai-gateway.md) | Operate a governed AI gateway with nine MCP tools, no provider credentials needed. |
 | [Unsloth Finetuning](unsloth-finetuning.md) | Fine-tune LLMs on a single consumer GPU with Unsloth Core: VRAM sizing, LoRA/QLoRA, GRPO/DPO, and GGUF export. |
+| [Vision Bridge](vision-bridge.md) | Adds vision to text-only models by converting images into structured JSON evidence. |
 | [Vision-Language SFT Adapter](vision-language-sft-adapter.md) | Designs and validates adapter configs for supervised fine-tuning of vision-language models. |
 | [Voice Agents](voice-agents.md) | Design voice agent architectures with sub-800ms latency for natural conversation. |
 | [Voice Ai Development](voice-ai-development.md) | Design and build production-ready real-time voice AI pipelines with low-latency streaming. |

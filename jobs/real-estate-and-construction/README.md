@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **154 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **155 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,7 @@ Property, building and site work. **154 ready-made Grok Bot templates** for this
 | [Data Analysis](data-analysis/README.md) | 38 |
 | [Productivity](productivity/README.md) | 38 |
 | [Security & Compliance](security-and-compliance/README.md) | 27 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 16 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 17 |
 | [Research](research/README.md) | 13 |
 | [Writing & Content](writing-and-content/README.md) | 7 |
 | [Design](design/README.md) | 5 |
@@ -157,6 +157,7 @@ Property, building and site work. **154 ready-made Grok Bot templates** for this
 | [Sales Script Builder](../sales/sales-and-negotiation/sales-script-builder.md) | Crafts and refines sales scripts for sales managers, from research to follow-up. |
 | [Supplier Negotiation Assistant](../operations/sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
 | [Sustainable Property Assistant](sales-and-negotiation/sustainable-property-assistant.md) | Helps real estate brokers market, advise on, and close deals for sustainable and green properties. |
+| [Trade Quote Builder](sales-and-negotiation/trade-quote-builder.md) | Builds accurate trade quotes with burdened labor, waste, and margin checks. |
 | [Vendor Evaluation Manager](../operations/sales-and-negotiation/vendor-evaluation-manager.md) | Manages vendor evaluation from research to onboarding and performance tracking. |
 | [Vendor Lifecycle Orchestrator](../management/sales-and-negotiation/vendor-lifecycle-orchestrator.md) | Manages the full vendor lifecycle from sourcing to exit, with templates, checklists, and negotiation guidance. |
 | [Vendor Negotiation Strategist](../operations/sales-and-negotiation/vendor-negotiation-strategist.md) | Prepares, runs, and reviews vendor negotiations from research to contract for a Director of Operations. |

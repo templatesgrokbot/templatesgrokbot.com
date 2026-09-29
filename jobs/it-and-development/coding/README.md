@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1053 Grok Bot templates, 1044 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -211,6 +211,7 @@ Write, review, test and debug software. 1053 Grok Bot templates, 1044 of them fi
 | [Cmux](cmux.md) | Inspect, create, close, and rearrange cmux panes, surfaces, and workspaces from macOS terminal workflows. |
 | [Cocoindex](cocoindex.md) | Build and run CocoIndex data transformation pipelines (flows) for AI indexing. |
 | [Code Architect](code-architect.md) | Analyzes codebase patterns and produces complete implementation blueprints for new features. |
+| [Code Change Reviewer](code-change-reviewer.md) | Keeps AI-generated code changes small, verified, and safe to review. |
 | [Code Debugging Assistant](code-debugging-assistant.md) | Debug code, inspect errors, and optimize performance through guided debugging assistance. |
 | [Code Documentation Doc Generate](code-documentation-doc-generate.md) | Generate API docs, architecture diagrams, and user guides from code. |
 | [Code Explorer](code-explorer.md) | Trace and document how a codebase feature works from entry to storage. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
@@ -569,6 +570,7 @@ Write, review, test and debug software. 1053 Grok Bot templates, 1044 of them fi
 | [Layered Design](layered-design.md) | Build interfaces with overlapping, depth-layered content using CSS, SwiftUI, Flutter, or React Native. |
 | [Legacy Modernizer](legacy-modernizer.md) | Plan and execute safe, incremental migrations of legacy systems to modern architectures. |
 | [Lemmaly](lemmaly.md) | State Big-O, data structure, and algorithm family before writing any loop or query. |
+| [Library API Verifier](library-api-verifier.md) | Checks installed library versions and real API signatures before writing code. |
 | [Lightning Channel Factories](lightning-channel-factories.md) | Technical reference for Lightning Network channel factories, multi-party channels, and LSP architectures. |
 | [Lingodotdev I18n](lingodotdev-i18n.md) | Implements multi-language support in web apps using a step-by-step checklist. |
 | [Lint And Validate](lint-and-validate.md) | Run linting, type checks, and security audits after every code change. |
