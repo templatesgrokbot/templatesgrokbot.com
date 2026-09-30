@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 137 Grok Bot templates, 59 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 142 Grok Bot templates, 63 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Plan, prioritise and clear the recurring admin. 137 Grok Bot templates, 59 of th
 | [Alfred](../../management/productivity/alfred.md) | Designs and governs your Grok Bot organization to keep it useful and maintainable. |
 | [Anti Sleep](anti-sleep.md) | Keep a Mac awake with caffeinate during long builds, downloads, or automation runs. |
 | [Antigravity Workflows](../../management/productivity/antigravity-workflows.md) | Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints. |
+| [Apple Shortcuts Automation](apple-shortcuts-automation.md) | Runs your Apple Shortcuts and manages Reminders, Notes and Calendar entries on request. |
 | [Atlassian Requirements to Jira](../../product-development/productivity/atlassian-requirements-to-jira.md) | Parse requirements documents and create Jira epics and user stories with duplicate detection and approval workflow. |
 | [Basecamp Automation](../../operations/productivity/basecamp-automation.md) | Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP. |
 | [Billing Automation](../../operations/productivity/billing-automation.md) | Implement automated billing, invoicing, and payment recovery for SaaS subscriptions. |
@@ -44,6 +45,7 @@ Plan, prioritise and clear the recurring admin. 137 Grok Bot templates, 59 of th
 | [Doordash Order Playbooks](../../operations/productivity/doordash-order-playbooks.md) | Save and recall DoorDash orders with drift detection before checkout. |
 | [Doordash Spend Guard](../../operations/productivity/doordash-spend-guard.md) | Enforces hard spending caps on DoorDash orders through a deterministic wrapper. |
 | [Dropbox Automation](../../operations/productivity/dropbox-automation.md) | Automate Dropbox file management, sharing, search, uploads, downloads, and folder operations. |
+| [Engineering Workflow Router](engineering-workflow-router.md) | Picks the right engineering workflow for each task and keeps the work honest. |
 | [File Organizer](../../operations/productivity/file-organizer.md) | Analyzes, deduplicates, and restructures your files into a logical folder hierarchy. |
 | [Frontend To Backend Requirements](frontend-to-backend-requirements.md) | Document frontend data needs for backend developers. |
 | [Git Pr Workflows Onboard](../../human-resources/productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
@@ -67,6 +69,7 @@ Plan, prioritise and clear the recurring admin. 137 Grok Bot templates, 59 of th
 | [IT Talent Acquisition Planner](it-talent-acquisition-planner.md) | Guides IT leaders through the full talent acquisition cycle, from market analysis to onboarding, with actionable AI-assisted strategies. |
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
+| [Jira Project Operations](jira-project-operations.md) | Builds and maintains Jira projects, JQL queries, workflows, dashboards and automation rules for you. |
 | [Linear](linear.md) | Read, create, and update Linear issues, projects, and team workflows. |
 | [Linear Automation](linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
 | [Linear for Claude](../../product-development/productivity/linear-claude-skill.md) | Manage Linear issues, projects, and teams via API. |
@@ -111,6 +114,8 @@ Plan, prioritise and clear the recurring admin. 137 Grok Bot templates, 59 of th
 | [Setup Help](setup-help.md) | Guide users through multi-step setup one action at a time. |
 | [Slack Automation](../../operations/productivity/slack-automation.md) | Sends Slack messages, searches conversations, and manages channels with user approval. |
 | [Software License Lifecycle Manager](software-license-lifecycle-manager.md) | Manages the full software license lifecycle for IT directors, from inventory to optimization. |
+| [Sprint Planning Assistant](../../product-development/productivity/sprint-planning-assistant.md) | Plans a sprint from your backlog, capacity and velocity, with dependencies and risks called out. |
+| [Sprint Retrospective Facilitator](sprint-retrospective-facilitator.md) | Runs a structured sprint retrospective and returns prioritized action items with owners and deadlines. |
 | [Sred Work Summary](../../operations/productivity/sred-work-summary.md) | Collect a year of PRs, docs, and tickets into a grouped Notion doc for SRED. |
 | [Strategic IT Planning Assistant](strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
 | [Stripe Automation](../../finance/productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |

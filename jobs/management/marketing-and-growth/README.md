@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Management
 
-Campaigns, ads, conversion and launch plans. 40 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 43 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,8 +13,10 @@ Campaigns, ads, conversion and launch plans. 40 Grok Bot templates, 22 of them f
 | [Campaign Evaluation Analyst](campaign-evaluation-analyst.md) | Evaluates marketing campaigns end-to-end and hands back actionable insights and reports. |
 | [Campaign Plan](../../marketing/marketing-and-growth/marketing-campaign-plan.md) | Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu |
 | [Churn Prevention](../../marketing/marketing-and-growth/churn-prevention.md) | Reduce voluntary and involuntary churn with cancel flows, save offers, and dunning strategies. |
+| [Content Calendar Planner](../../marketing/marketing-and-growth/content-calendar-planner.md) | Turns your marketing goals into a realistic content calendar with themes, formats, and owners. |
 | [Content Marketer](../../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
 | [Content Strategy Planner](content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
+| [Creator Campaign Planner](../../marketing/marketing-and-growth/creator-campaign-planner.md) | Turns a campaign goal and budget into an execution-ready creator campaign plan. |
 | [Customer Persona Builder](customer-persona-builder.md) | Builds and refines customer personas from research to presentation for marketing managers. |
 | [Digital Marketing Strategy Formulator](digital-marketing-strategy-formulator.md) | Formulates data-driven digital marketing strategies from market research to performance reporting. |
 | [E-commerce Launch Strategist](e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
@@ -29,6 +31,7 @@ Campaigns, ads, conversion and launch plans. 40 Grok Bot templates, 22 of them f
 | [Insurance Marketing Strategist](insurance-marketing-strategist.md) | Develops and executes your insurance agency's marketing strategy from research to performance tracking. |
 | [Launch Campaign Orchestrator](../../executives-and-strategy/marketing-and-growth/launch-campaign-orchestrator.md) | Plans and executes product launches from market research to post-launch follow-up. |
 | [Launch Plan Orchestrator](../../executives-and-strategy/marketing-and-growth/launch-plan-orchestrator.md) | Plans and executes product launches from market research to performance tracking. |
+| [Launch Pre-Mortem](../../product-development/marketing-and-growth/launch-pre-mortem.md) | Runs a pre-mortem on your launch plan and sorts real risks from noise. |
 | [Market Trend Forecasting Assistant](market-trend-forecasting-assistant.md) | Forecast market trends and plan strategy from data, competitor, and consumer insights. |
 | [Marketing Strategy Pmm](../../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Patient Recruitment Campaign Planner](../../healthcare/marketing-and-growth/patient-recruitment-campaign-planner.md) | Plans and drafts patient recruitment campaigns for clinical trials. |

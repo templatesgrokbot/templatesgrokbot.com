@@ -1,6 +1,6 @@
 # Security & Compliance templates for Science and Research
 
-Authorised security testing, audits and regulatory work. 35 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 36 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -41,5 +41,6 @@ Authorised security testing, audits and regulatory work. 35 Grok Bot templates, 
 | [Regulatory Compliance Advice Assistant](regulatory-compliance-advice-assistant.md) | Regulatory compliance support for process development scientists. |
 | [Responsible AI Practice Assistant](responsible-ai-practice-assistant.md) | Guides data scientists through ethical AI design, bias checks, and compliance reviews before deployment. |
 | [Waste Management Consulting Assistant](waste-management-consulting-assistant.md) | Analyzes waste streams, ensures compliance, and builds tailored reduction plans for environmental consultants. |
+| [Weather Data Provenance](weather-data-provenance.md) | Records and verifies provenance manifests so weather-data results can be audited and replayed. |
 
 [← All Science and Research templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/science-and-research)

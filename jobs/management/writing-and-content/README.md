@@ -1,6 +1,6 @@
 # Writing & Content templates for Management
 
-Plan, write and edit articles, copy and documentation. 24 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,5 +30,6 @@ Plan, write and edit articles, copy and documentation. 24 Grok Bot templates, 3 
 | [Slack Message Formatter](slack-message-formatter.md) | Formats long text into Slack-ready messages with emojis, bullets, and threading tips. |
 | [Technical Documentation Review Assistant](../../it-and-development/writing-and-content/technical-documentation-review-assistant.md) | Reviews technical documentation for accuracy, completeness, standards, and clarity, returning actionable feedback and finalized drafts. |
 | [Unslop File](../../writers/writing-and-content/unslop-file.md) | Rewrite memory files to sound human-written while preserving code, URLs, and headings exactly. |
+| [Weekly Status Reporter](weekly-status-reporter.md) | Turns your week's notes into a clean status report for the audience you name. |
 
 [← All Management templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/management)

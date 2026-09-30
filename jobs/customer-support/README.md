@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **183 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **191 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,23 +11,23 @@ Answering, routing and resolving customer requests. **183 ready-made Grok Bot te
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 77 |
+| [Support & Community](support-and-community/README.md) | 80 |
 | [Data Analysis](data-analysis/README.md) | 35 |
-| [Productivity](productivity/README.md) | 20 |
-| [Writing & Content](writing-and-content/README.md) | 10 |
-| [Knowledge Management](knowledge-management/README.md) | 8 |
+| [Productivity](productivity/README.md) | 21 |
+| [Writing & Content](writing-and-content/README.md) | 11 |
+| [Knowledge Management](knowledge-management/README.md) | 9 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 6 |
 | [Coding](coding/README.md) | 5 |
+| [Translation](translation/README.md) | 5 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 4 |
 | [Security & Compliance](security-and-compliance/README.md) | 4 |
-| [Translation](translation/README.md) | 4 |
 | [Research](research/README.md) | 3 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
 | [Social Media](social-media/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 
 ## Support & Community
 
@@ -48,6 +48,7 @@ Answering, routing and resolving customer requests. **183 ready-made Grok Bot te
 | [Customer Onboarding Assistant](support-and-community/customer-onboarding-assistant.md) | Guides new insurance customers through onboarding with personalized, step-by-step support. |
 | [Customer Personalization Strategist](../executives-and-strategy/support-and-community/customer-personalization-strategist.md) | Personalizes every customer interaction from inquiry to loyalty for senior executives. |
 | [Customer Service Improvement Assistant](../operations/support-and-community/customer-service-improvement-assistant.md) | Analyzes logistics customer feedback and automates support workflows to improve satisfaction. |
+| [Customer Service Specialist](support-and-community/customer-service-specialist.md) | Handles customer inquiries, complaints, and account support with warmth and clear escalation. |
 | [Customer Service Support Assistant](../finance/support-and-community/customer-service-support-assistant.md) | Handles customer service tasks from inquiry to analysis for an administrative assistant. |
 | [Customer Success Response Manager](support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 | [Customer Support](support-and-community/customer-support.md) | Resolves support tickets and creates help documentation from confirmed facts only. |
@@ -63,6 +64,7 @@ Answering, routing and resolving customer requests. **183 ready-made Grok Bot te
 | [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
 | [Hardware and Software Configuration Assistant](../it-and-development/support-and-community/hardware-and-software-configuration-assistant.md) | Guides help desk technicians through hardware and software configuration tasks. |
 | [Hardware Support Assistant](support-and-community/hardware-support-assistant.md) | Guides hardware users through troubleshooting, setup, upgrades, and maintenance with clear steps. |
+| [Healthcare Patient Support](support-and-community/healthcare-patient-support.md) | Handles patient billing, insurance, appointment and complaint questions with empathy and clear escalation. |
 | [Help Desk Efficiency Director](../it-and-development/support-and-community/help-desk-efficiency-director.md) | Turns help desk tickets, chats, and metrics into faster resolutions and proactive IT support. |
 | [Help Desk Escalation Router](../it-and-development/support-and-community/help-desk-escalation-router.md) | Routes help desk escalations to the right departments and tracks every handoff. |
 | [Help Desk Feedback Manager](../it-and-development/support-and-community/help-desk-feedback-manager.md) | Collects, analyzes, and implements user feedback for help desk improvements. |
@@ -89,6 +91,7 @@ Answering, routing and resolving customer requests. **183 ready-made Grok Bot te
 | [Post-Sale Service Assistant](../sales/support-and-community/post-sale-service-assistant.md) | Handles post-sale customer service tasks and prepares content for sales managers. |
 | [Product Knowledge Assistant](support-and-community/product-knowledge-assistant.md) | Helps customer support reps answer product questions and build product knowledge resources. |
 | [Remote Support Troubleshooter](support-and-community/remote-support-troubleshooter.md) | Guides remote technical support for connectivity, software, security, and performance issues. |
+| [Retail Returns Specialist](support-and-community/retail-returns-specialist.md) | Processes retail returns, exchanges and refunds by policy while protecting margin and loyalty. |
 | [Return and Refund Support Assistant](support-and-community/return-and-refund-support-assistant.md) | Handles customer returns and refunds from start to finish, with policy checks and escalation when needed. |
 | [Returns Reverse Logistics](../operations/support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
 | [Security Support Guide](support-and-community/security-support-guide.md) | Guides users through security threats, fixes, and best practices step by step. |
@@ -162,6 +165,7 @@ Answering, routing and resolving customer requests. **183 ready-made Grok Bot te
 | [Call Center Scheduling Optimizer](productivity/call-center-scheduling-optimizer.md) | Optimizes call center shift planning, coverage, and compliance from staff data. |
 | [Call Handling Assistant](productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
 | [Decision Navigator](../management/productivity/decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
+| [Email Triage Classifier](../executives-and-strategy/productivity/email-triage-classifier.md) | Sorts your inbox by category, priority and required action, and tells you what to do first. |
 | [Emergency Preparedness Assistant](productivity/emergency-preparedness-assistant.md) | Prepares emergency plans, contacts, supplies, and drills for your workplace. |
 | [Event Coordination Assistant](productivity/event-coordination-assistant.md) | Plans and runs events from scheduling to post-event follow-up. |
 | [Inventory Tracking Assistant](productivity/inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |
@@ -185,6 +189,7 @@ Answering, routing and resolving customer requests. **183 ready-made Grok Bot te
 | [Crossframe Dialogue](../writers/writing-and-content/crossframe-dialogue.md) | Short, structured replies for reader questions, editorial responses, and consultation-style answers. |
 | [Documentation and Reporting Assistant](writing-and-content/documentation-and-reporting-assistant.md) | Turn your technical support knowledge into clear, accurate documentation and reports. |
 | [Email Composer](../operations/writing-and-content/email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
+| [Human Voice Mirror](writing-and-content/human-voice-mirror.md) | Rewrites your replies through an inner mirror so they read like a real person, not an assistant. |
 | [Patent Client Communication Assistant](../legal/writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
 | [Policy Update Communications Assistant](writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
 | [Receptionist Communication Assistant](writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
@@ -197,6 +202,7 @@ Answering, routing and resolving customer requests. **183 ready-made Grok Bot te
 |---|---|
 | [Document Organization Assistant](knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
 | [Handoff](../it-and-development/knowledge-management/handoff.md) | Compacts a conversation into a handoff document for another agent. |
+| [Inbox Triage Setup](knowledge-management/inbox-triage-setup.md) | Interviews you once to build the email triage knowledge base your inbox bot reads on every run. |
 | [Insurance Training and Knowledge Manager](knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
 | [Knowledge Base Article Assistant](../it-and-development/knowledge-management/knowledge-base-article-assistant.md) | Turns help desk know-how into clear, accurate knowledge base articles. |
 | [Knowledge Base Builder](knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
@@ -225,6 +231,16 @@ Answering, routing and resolving customer requests. **183 ready-made Grok Bot te
 | [Sendblue Api](../it-and-development/coding/sendblue-api.md) | Send and receive iMessage, SMS, and RCS via the Sendblue HTTP API. |
 | [Twilio Communications](../it-and-development/coding/twilio-communications.md) | Send SMS, verify phone numbers, and build IVR systems using Twilio APIs with compliance and error handling. |
 
+## Translation
+
+| Template | What it does |
+|---|---|
+| [Multi-Channel Insurance Communication Assistant](translation/multi-channel-insurance-communication-assistant.md) | Handles multi-channel insurance customer communication with drafting, translation, and insights. |
+| [Multilingual Claims Support Bot](../operations/translation/multilingual-claims-support-bot.md) | Multilingual insurance claims support: translate, communicate, and comply across languages. |
+| [Multilingual Support Documentation Assistant](translation/multilingual-support-documentation-assistant.md) | Translates and localizes all support content into multiple languages for global users. |
+| [Reception Language Assistant](translation/reception-language-assistant.md) | Handles front-desk language needs: translation, interpretation, and inclusive communication. |
+| [Spanish English Translator](translation/spanish-english-translator.md) | Translates between Spanish and English with the right tone, dialect, and cultural context. |
+
 ## Generative AI and LLM
 
 | Template | What it does |
@@ -243,15 +259,6 @@ Answering, routing and resolving customer requests. **183 ready-made Grok Bot te
 | [Reception Confidentiality Assistant](security-and-compliance/reception-confidentiality-assistant.md) | Helps receptionists protect confidential information across calls, visitors, documents, and emails. |
 | [Regulatory Compliance Assistant](security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
 
-## Translation
-
-| Template | What it does |
-|---|---|
-| [Multi-Channel Insurance Communication Assistant](translation/multi-channel-insurance-communication-assistant.md) | Handles multi-channel insurance customer communication with drafting, translation, and insights. |
-| [Multilingual Claims Support Bot](../operations/translation/multilingual-claims-support-bot.md) | Multilingual insurance claims support: translate, communicate, and comply across languages. |
-| [Multilingual Support Documentation Assistant](translation/multilingual-support-documentation-assistant.md) | Translates and localizes all support content into multiple languages for global users. |
-| [Reception Language Assistant](translation/reception-language-assistant.md) | Handles front-desk language needs: translation, interpretation, and inclusive communication. |
-
 ## Research
 
 | Template | What it does |
@@ -266,6 +273,13 @@ Answering, routing and resolving customer requests. **183 ready-made Grok Bot te
 |---|---|
 | [Cross-Sell Upsell Assistant](sales-and-negotiation/cross-sell-upsell-assistant.md) | Helps customer support reps craft personalized cross-sell and upsell recommendations and conversations. |
 | [Salesforce Automation](../sales/sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Customer Training Content Developer](teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
+| [Marlin Bed Leveling Calibration](teaching-and-tutoring/marlin-bed-leveling-calibration.md) | Calibrates Marlin 2.x bed leveling and writes the G-code that keeps the mesh active during prints. |
 
 ## Office Tools
 
@@ -290,11 +304,5 @@ Answering, routing and resolving customer requests. **183 ready-made Grok Bot te
 | Template | What it does |
 |---|---|
 | [Audio Transcriber](../operations/speech-to-text/audio-transcriber.md) | Transcribe audio to Markdown with speaker IDs and summaries. |
-
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Customer Training Content Developer](teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
 
 [← All job fields](../../README.md#browse-by-job) · [Customer Support on the website](https://templatesgrokbot.com/jobs/customer-support)

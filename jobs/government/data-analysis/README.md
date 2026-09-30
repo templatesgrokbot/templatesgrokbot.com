@@ -1,6 +1,6 @@
 # Data Analysis templates for Government
 
-Clean, query, chart and explain data. 125 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 128 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,7 @@ Clean, query, chart and explain data. 125 Grok Bot templates, 13 of them filed i
 | [Budget Forecast Assistant](../../operations/data-analysis/budget-forecast-assistant.md) | Builds accurate, data-driven budget forecasts and keeps them current for operations. |
 | [Budget Optimization Assistant for Policy Makers](budget-optimization-assistant-for-policy-makers.md) | Analyzes budget data to find savings, optimize allocation, and support policy decisions. |
 | [Business Analyst](../../operations/data-analysis/business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
+| [Business Analytics Reporter](../../finance/data-analysis/business-analytics-reporter.md) | Turns your raw business data into validated dashboards, KPI reports and decision-ready insights. |
 | [Business Process Optimization Assistant](../../it-and-development/data-analysis/business-process-optimization-assistant.md) | Maps, analyzes, and optimizes business processes with data-backed recommendations. |
 | [Chart Whisperer for Analysts](../../it-and-development/data-analysis/chart-whisperer-for-analysts.md) | Turns your data into clear, insightful charts and dashboards for analysis and storytelling. |
 | [Climate Impact Study Assistant](../../science-and-research/data-analysis/climate-impact-study-assistant.md) | Turns climate data and policy into impact studies, risk assessments, and adaptation plans. |
@@ -73,6 +74,7 @@ Clean, query, chart and explain data. 125 Grok Bot templates, 13 of them filed i
 | [Junta Auctioneers](../../operations/data-analysis/junta-auctioneers.md) | Collect and query official auctioneer data from all 27 Brazilian Commercial Boards. |
 | [Market Trend Analysis Assistant](../../operations/data-analysis/market-trend-analysis-assistant.md) | Analyzes market trends and compiles reports to support procurement decisions. |
 | [Media Monitoring Assistant](../../pr-and-communications/data-analysis/media-monitoring-assistant.md) | Audits crisis communication plans, media coverage, and team performance to strengthen crisis response. |
+| [MRMS Mosaic Access](../../science-and-research/data-analysis/mrms-mosaic-access.md) | Fetches official NOAA MRMS radar and multisensor composites for a region and time, with full provenance. |
 | [Natural Hazard Analysis Assistant](../../science-and-research/data-analysis/natural-hazard-analysis-assistant.md) | Turns geological and climate data into hazard analyses, maps, and preparedness plans. |
 | [Operational Efficiency Analysis Assistant](../../executives-and-strategy/data-analysis/operational-efficiency-analysis-assistant.md) | Analyzes operations and hands back improvement plans for executive decisions. |
 | [Operational KPI Dashboard Designer](../../operations/data-analysis/operational-kpi-dashboard-designer.md) | Designs and maintains operational KPI dashboards with data integration, analysis, and reporting. |
@@ -91,6 +93,7 @@ Clean, query, chart and explain data. 125 Grok Bot templates, 13 of them filed i
 | [Purchasing Budget and Cost Analyst](../../management/data-analysis/purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
 | [Qualitative Data Analysis Assistant](../../science-and-research/data-analysis/qualitative-data-analysis-assistant.md) | Analyzes qualitative data to surface themes, sentiments, and insights for research associates. |
 | [Quality Control Reporting Assistant](../../operations/data-analysis/quality-control-reporting-assistant.md) | Analyzes quality data, generates reports, and tracks compliance for quality control inspectors. |
+| [Radar Satellite Weather Analyst](../../science-and-research/data-analysis/radar-satellite-weather-analyst.md) | Interprets radar and satellite weather products, tracking storm structure and evolution with stated uncertainty. |
 | [Reporting and Documentation Assistant](../../it-and-development/data-analysis/reporting-and-documentation-assistant.md) | Turns raw data into clear, accurate reports and documentation for data analysts. |
 | [Research Data Analyst](../../science-and-research/data-analysis/research-data-analyst.md) | Collects, cleans, organizes, analyzes, visualizes, and reports data for research associates. |
 | [Risk Assessment Analyst](../../operations/data-analysis/risk-assessment-analyst.md) | Turns your risk data into assessed, prioritized, and actionable risk intelligence for process improvement. |

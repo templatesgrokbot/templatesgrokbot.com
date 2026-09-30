@@ -1,12 +1,14 @@
 # Office Tools templates for Government
 
-Spreadsheets, documents, slides, email and calendars. 7 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Spreadsheets, documents, slides, email and calendars. 9 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Document Generator](../../marketing/office-tools/document-generator.md) | Turns your data and outlines into polished PDF, PPTX, DOCX and XLSX files with consistent branding. |
 | [Document Preparation and Formatting Assistant](../../finance/office-tools/document-preparation-and-formatting-assistant.md) | Prepares, formats, and polishes all business documents for administrative assistants. |
+| [Document Template Filler](../../legal/office-tools/document-template-filler.md) | Fills your document templates with data to produce personalized files in bulk. |
 | [Excel Spreadsheets](../../operations/office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
 | [Office Productivity](../../operations/office-tools/office-productivity.md) | Create, convert, and automate documents, spreadsheets, and presentations. |
 | [Pdf Official](../../operations/office-tools/pdf-official.md) | Process PDFs: merge, split, extract text/tables, create, OCR, watermark, encrypt, and fill forms. |

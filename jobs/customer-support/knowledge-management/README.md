@@ -1,6 +1,6 @@
 # Knowledge Management templates for Customer Support
 
-Notes, documents, PDFs and knowledge bases kept in order. 8 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 9 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 8 Grok Bot templates, 
 |---|---|
 | [Document Organization Assistant](document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
 | [Handoff](../../it-and-development/knowledge-management/handoff.md) | Compacts a conversation into a handoff document for another agent. |
+| [Inbox Triage Setup](inbox-triage-setup.md) | Interviews you once to build the email triage knowledge base your inbox bot reads on every run. |
 | [Insurance Training and Knowledge Manager](insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
 | [Knowledge Base Article Assistant](../../it-and-development/knowledge-management/knowledge-base-article-assistant.md) | Turns help desk know-how into clear, accurate knowledge base articles. |
 | [Knowledge Base Builder](knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |

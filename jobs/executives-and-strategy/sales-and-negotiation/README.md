@@ -1,12 +1,13 @@
 # Sales & Negotiation templates for Executives and Strategy
 
-Prospecting, outreach, proposals and negotiating terms. 30 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 31 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [BD Contract Negotiation Copilot](bd-contract-negotiation-copilot.md) | Contract negotiation support for business development directors, from research to execution. |
+| [Board Meeting Preparation](board-meeting-preparation.md) | Prepares you for the adversarial board meeting: numbers cold, hard questions answered, narrative honest. |
 | [CIO Vendor Lifecycle Guide](cio-vendor-lifecycle-guide.md) | Guides CIOs through the full technology vendor evaluation lifecycle, from research to exit. |
 | [Consulting Proposal Generator](../../sales/sales-and-negotiation/consulting-proposal-generator.md) | Turns a brief into a complete, personalized consulting proposal. |
 | [Contract Review and Management Assistant](contract-review-and-management-assistant.md) | Contract review and management support for a Vice President of Business Development, from analysis to termination. |

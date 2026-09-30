@@ -1,11 +1,12 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 133 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 139 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [A/B Test Analyst](a-b-test-analyst.md) | Analyzes A/B test results for statistical significance and gives a ship, extend, or stop recommendation. |
 | [Ab Test Setup](../../it-and-development/data-analysis/ab-test-setup.md) | Plan statistically valid A/B tests with locked hypothesis, sample size, and pre-launch checklist. |
 | [Ab Testing](ab-testing.md) | Design statistically valid A/B tests and growth experiments. |
 | [Ad Campaign Analyzer](ad-campaign-analyzer.md) | Analyze cross-channel ad data, quantify uncertainty, and propose evidence-labeled budget tests. |
@@ -29,6 +30,7 @@ Clean, query, chart and explain data. 133 Grok Bot templates, 30 of them filed i
 | [Brand Loyalty Insights Assistant](../../management/data-analysis/brand-loyalty-insights-assistant.md) | Analyzes brand loyalty data and delivers actionable insights for strategic brand management. |
 | [Brand Perception Analyst](../../management/data-analysis/brand-perception-analyst.md) | Analyzes brand perception from reviews, social media, and surveys to guide strategy. |
 | [Brand Perception Insight Finder](../../science-and-research/data-analysis/brand-perception-insight-finder.md) | Analyzes brand perception from public and internal data to deliver actionable insights. |
+| [Business Analytics Reporter](../../finance/data-analysis/business-analytics-reporter.md) | Turns your raw business data into validated dashboards, KPI reports and decision-ready insights. |
 | [Buywhere Product Catalog](../../sales/data-analysis/buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
 | [Campaign Effectiveness Analyst](../../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Campaign Insights Analyst](../../executives-and-strategy/data-analysis/campaign-insights-analyst.md) | Analyzes campaign data to deliver actionable insights and optimization recommendations. |
@@ -76,14 +78,17 @@ Clean, query, chart and explain data. 133 Grok Bot templates, 30 of them filed i
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Executive Social Media Intelligence](../../executives-and-strategy/data-analysis/executive-social-media-intelligence.md) | Turns social media data into actionable marketing insights for the Global Head of Marketing. |
 | [Experiment Readout](../../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
+| [Experiment Tracker](../../product-development/data-analysis/experiment-tracker.md) | Designs, tracks and analyses A/B tests and feature experiments, then reports go/no-go decisions with exact figures. |
 | [Feedback Insight Interpreter](../../executives-and-strategy/data-analysis/feedback-insight-interpreter.md) | Analyzes customer feedback to deliver actionable insights for marketing strategy. |
 | [Feedback to Sales Actions](../../sales/data-analysis/feedback-to-sales-actions.md) | Turns customer feedback into clear insights and actions for sales and marketing. |
 | [Footballbin Predictions](footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
+| [GEO Monthly Delta Report](geo-monthly-delta-report.md) | Tracks month-over-month GEO score changes and writes the client progress report. |
 | [Google Ads Performance Analyzer](google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 | [Google Analytics](google-analytics.md) | Analyze Google Analytics data to find traffic patterns and suggest improvements. |
 | [Google Analytics Automation](google-analytics-automation.md) | Automate GA4 reporting, property listing, funnels, pivots, and key events via Rube MCP—always search tools first. |
 | [Hasdata](../../it-and-development/data-analysis/hasdata.md) | Extract public web data via HasData APIs for scraping, SERPs, and structured sources. |
 | [ICP Deep Scanner](icp-deep-scanner.md) | Deep-scan connected tools to build a data-grounded Ideal Customer Profile and persona library. |
+| [Ideal Customer Profile Builder](ideal-customer-profile-builder.md) | Turns your customer research into a clear ideal customer profile you can act on. |
 | [Industry Trend Analyst](../../science-and-research/data-analysis/industry-trend-analyst.md) | Turns market data into trend forecasts and stakeholder-ready reports. |
 | [Influencer Partnership Analyst](../../management/data-analysis/influencer-partnership-analyst.md) | Analyzes influencer partnerships from discovery to ROI, with fraud checks and crisis plans. |
 | [Insurance Feedback Analyzer](../../customer-support/data-analysis/insurance-feedback-analyzer.md) | Collects, analyzes, and reports insurance customer feedback for service improvements. |
@@ -110,6 +115,7 @@ Clean, query, chart and explain data. 133 Grok Bot templates, 30 of them filed i
 | [Mixpanel Automation](../../it-and-development/data-analysis/mixpanel-automation.md) | Automate Mixpanel analytics: events, funnels, cohorts, profiles, and JQL queries via Rube MCP. |
 | [Music Market Trend Analyst](../../creatives/data-analysis/music-market-trend-analyst.md) | Tracks music market trends to guide your creative and career decisions. |
 | [News Sentiment Engine](news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
+| [Paid Search Query Analyst](paid-search-query-analyst.md) | Turns raw paid search query data into negative keyword lists, waste cuts, and new keyword opportunities. |
 | [Performance Report](../../executives-and-strategy/data-analysis/marketing-performance-report.md) | Translates marketing data into an executive report with wins, misses, and next-period recommendations. |
 | [Podcast Content Analyzer](../../operations/data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
 | [Posthog Automation](posthog-automation.md) | Automate PostHog analytics, feature flags, and project management via Rube MCP. |

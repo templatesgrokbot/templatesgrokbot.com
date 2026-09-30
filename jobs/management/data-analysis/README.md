@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 213 Grok Bot templates, 96 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -62,6 +62,7 @@ Clean, query, chart and explain data. 213 Grok Bot templates, 96 of them filed i
 | [Dashboard Design](../../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
 | [Data Analysis and Reporting Assistant](../../it-and-development/data-analysis/data-analysis-and-reporting-assistant.md) | Turns raw project data into clean, analyzed, visualized, and reported insights for IT project managers. |
 | [Data Visualization Presentation Assistant](data-visualization-presentation-assistant.md) | Turns raw data into clear, compelling visuals and narratives for client presentations. |
+| [Decision Post-Mortem Review](../../executives-and-strategy/data-analysis/decision-post-mortem-review.md) | Scores an executed decision against its pre-committed success and kill criteria and revisits the recorded dissent. |
 | [Defect Root Cause Reports](../../operations/data-analysis/defect-root-cause-reports.md) | Analyzes quality control data, finds defects and root causes, and drafts improvement plans for operations managers. |
 | [Demand Forecasting Analyst](demand-forecasting-analyst.md) | Forecasts product demand from market data, sentiment, and trends for market research managers. |
 | [Demand Forecasting Assistant](demand-forecasting-assistant.md) | Demand forecasting assistant for purchasing managers, turning data into accurate forecasts and clear reports. |
@@ -77,9 +78,11 @@ Clean, query, chart and explain data. 213 Grok Bot templates, 96 of them filed i
 | [Employee Performance Analytics Assistant](employee-performance-analytics-assistant.md) | Turns employee performance data into analytics, reviews, dashboards, and improvement plans. |
 | [Energy Consumption Optimizer](../../operations/data-analysis/energy-consumption-optimizer.md) | Optimizes your facility's energy use through data analysis, recommendations, and reporting. |
 | [Energy Procurement](../../operations/data-analysis/energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
+| [Enterprise Portfolio Manager](enterprise-portfolio-manager.md) | Runs portfolio health, risk, and capacity analysis and drafts executive-ready project reports. |
 | [Executive Forecast Report Builder](executive-forecast-report-builder.md) | Turns financial data into forecasts, scenarios, and reports for senior management decisions. |
 | [Executive Market Trend Forecaster](executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
 | [Experiment Readout](../../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
+| [Experiment Tracker](../../product-development/data-analysis/experiment-tracker.md) | Designs, tracks and analyses A/B tests and feature experiments, then reports go/no-go decisions with exact figures. |
 | [Facility Operations Insight Planner](../../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Feedback Compass for Managers](../../executives-and-strategy/data-analysis/feedback-compass-for-managers.md) | Turns customer feedback into actionable insights for general managers. |
 | [Feedback Insight for Service Managers](feedback-insight-for-service-managers.md) | Turns customer feedback into actionable insights for service managers. |
@@ -92,6 +95,7 @@ Clean, query, chart and explain data. 213 Grok Bot templates, 96 of them filed i
 | [Fleet Tracking Coordinator](../../government/data-analysis/fleet-tracking-coordinator.md) | Real-time fleet tracking, route optimization, and incident response for transportation managers. |
 | [Forecast Accuracy Review](../../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 | [Freight Cost Analysis Assistant](../../operations/data-analysis/freight-cost-analysis-assistant.md) | Freight cost analysis and optimization for logistics managers, from data to recommendations. |
+| [GEO Monthly Delta Report](../../marketing/data-analysis/geo-monthly-delta-report.md) | Tracks month-over-month GEO score changes and writes the client progress report. |
 | [Hotel Staff Scheduling Optimizer](../../hospitality-and-events/data-analysis/hotel-staff-scheduling-optimizer.md) | Analyzes hotel data to build balanced staff schedules, reduce costs, and ensure compliance. |
 | [Influencer Partnership Analyst](influencer-partnership-analyst.md) | Analyzes influencer partnerships from discovery to ROI, with fraud checks and crisis plans. |
 | [Insurance Competitive Intelligence Assistant](insurance-competitive-intelligence-assistant.md) | Turns competitor data into actionable insurance market intelligence for agency managers. |

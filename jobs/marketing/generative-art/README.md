@@ -1,6 +1,6 @@
 # Generative Art templates for Marketing
 
-Make images, illustrations and artwork. 22 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Make images, illustrations and artwork. 24 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,10 +21,12 @@ Make images, illustrations and artwork. 22 Grok Bot templates, 1 of them filed i
 | [Imagegen](../../creatives/generative-art/imagegen.md) | Generates or edits images via the OpenAI Image API for project assets. |
 | [Luma Imagegen](../../creatives/generative-art/luma-imagegen.md) | Generates images from text descriptions using Luma AI's Photon model. |
 | [Magic Animator](../../creatives/generative-art/magic-animator.md) | Animate static logos, UI, icons, and social assets with AI-driven motion. |
+| [Marketing Image Producer](marketing-image-producer.md) | Creates and optimizes marketing images — blog heroes, social graphics, banners, and product mockups. |
 | [Meme Factory](../../creatives/generative-art/meme-factory.md) | Generates memes from user requests using memegen.link with 100+ templates. |
 | [Modellix](../../creatives/generative-art/modellix.md) | Generate images, videos, and speech via the Modellix CLI workflow. |
 | [Muapi Media](../../creatives/generative-art/muapi-media.md) | Generate images and videos via MuAPI's async API with key protection, polling, and safe downloads. |
 | [Slack Gif Creator](../../creatives/generative-art/slack-gif-creator.md) | Creates optimized animated GIFs for Slack from descriptions or uploaded images. |
+| [Social Image Card Series](social-image-card-series.md) | Turns an article or idea into a ready-to-post series of social media image cards. |
 | [Trimpson Joke Mill](trimpson-joke-mill.md) | Generates joke scripts for Trimpson Coin memecoin marketing. |
 | [Unsplash Integration](../../creatives/generative-art/unsplash-integration.md) | Search and fetch high-quality free-to-use photos from Unsplash. |
 | [Viral Generator Builder](../../creatives/generative-art/viral-generator-builder.md) | Designs shareable generator tools that create identity moments people screenshot and share. |

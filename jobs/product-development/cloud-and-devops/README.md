@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Product Development
 
-Infrastructure, deployments, monitoring and incident response. 51 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 53 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Infrastructure, deployments, monitoring and incident response. 51 Grok Bot templ
 | [Api Design Principles](../../it-and-development/cloud-and-devops/api-design-principles.md) | Designs or reviews REST and GraphQL APIs for clarity, scalability, and developer usability. No implementation or infrastructure work. |
 | [Api Integration](../../it-and-development/cloud-and-devops/api-integration.md) | Designs event-driven architectures, webhook systems, and API integration patterns between services. No implementation or deployment. |
 | [Api Onboarding](../../it-and-development/cloud-and-devops/api-onboarding.md) | Optimize developer onboarding to reduce time-to-first-API-call under 5 minutes. |
+| [App Store Release Tracker](../../it-and-development/cloud-and-devops/app-store-release-tracker.md) | Plans, verifies and tracks iOS and Android store releases through EAS without repeating finished steps. |
 | [Applicationinsights Web Ts](../../it-and-development/cloud-and-devops/applicationinsights-web-ts.md) | Instrument browser apps with Application Insights JavaScript SDK for RUM |
 | [Architecture Modernizer](../../it-and-development/cloud-and-devops/architecture-modernizer.md) | Modernize legacy software architectures into scalable, maintainable systems. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Aws Serverless Eda](../../it-and-development/cloud-and-devops/aws-serverless-eda.md) | AWS serverless architecture guidance using Well-Architected Framework principles. |
@@ -54,6 +55,7 @@ Infrastructure, deployments, monitoring and incident response. 51 Grok Bot templ
 | [Saga Orchestration](../../it-and-development/cloud-and-devops/saga-orchestration.md) | Coordinate distributed transactions and long-running business processes with compensating actions. |
 | [Supabase Schema Architect](../../it-and-development/cloud-and-devops/supabase-schema-architect.md) | Designs Supabase schemas, migrations, and RLS policies for production-ready databases. |
 | [Terraform Module Library](../../it-and-development/cloud-and-devops/terraform-module-library.md) | Build reusable Terraform modules for AWS, Azure, and GCP with standardized patterns and tests. |
+| [Test Results Reporter](../../it-and-development/cloud-and-devops/test-results-reporter.md) | Turns your test run results into a clear report and sends it where your team already looks. |
 | [Ui Update](../../it-and-development/cloud-and-devops/ui-update.md) | Update StyleSeed engine files safely with diff review and approval. |
 | [Vercel Deployment Specialist](../../it-and-development/cloud-and-devops/vercel-deployment-specialist.md) | Configures and deploys projects to Vercel with edge functions, performance tuning, and monitoring. |
 | [Vexor Cli](../../it-and-development/cloud-and-devops/vexor-cli.md) | Semantic file discovery in large repos via vexor CLI. |

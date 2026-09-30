@@ -1,6 +1,6 @@
 # Generative Code templates for Product Development
 
-Scaffold apps, components and whole projects from a brief. 65 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 66 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -50,6 +50,7 @@ Scaffold apps, components and whole projects from a brief. 65 Grok Bot templates
 | [Progressive Web App](../../it-and-development/generative-code/progressive-web-app.md) | Generates manifest.json, service worker, and offline fallback for a web app. |
 | [Puppeteer](../../it-and-development/generative-code/puppeteer-skill.md) | Generates Puppeteer scripts for browser automation, scraping, and PDF generation. |
 | [Python Pptx Generator](../../it-and-development/generative-code/python-pptx-generator.md) | Generate complete Python scripts that build polished PowerPoint decks with python-pptx. |
+| [Rapid Prototype Builder](rapid-prototype-builder.md) | Turns a product idea into a testable prototype plan with feedback and analytics built in. |
 | [React State Management](../../it-and-development/generative-code/react-state-management.md) | Advises on React state management and generates implementation code for Redux Toolkit, Zustand, Jotai, and React Query. |
 | [Remotion Best Practices](../../it-and-development/generative-code/remotion-best-practices.md) | Explain Remotion best practices by referencing rule files without writing code. |
 | [Saas Mvp Launcher](saas-mvp-launcher.md) | Structured roadmap to build and launch a SaaS MVP from scratch. |

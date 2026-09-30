@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1093 Grok Bot templates, 1084 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Address Comments](address-comments.md) | Addresses pull request comments with minimal, tested changes. |
 | [Address Github Comments](address-github-comments.md) | Address GitHub PR review comments with gh CLI after user approval. |
 | [Advanced SQL Advisor for DBAs](advanced-sql-advisor-for-dbas.md) | SQL advisor for DBAs: optimize, design, and secure databases with expert guidance. |
+| [Adversarial Code Reviewer](adversarial-code-reviewer.md) | Reviews recent code changes through three hostile reviewer personas and returns a merge verdict. |
 | [Aem Frontend Specialist](aem-frontend-specialist.md) | Builds AEM components from Figma designs using HTL, Tailwind CSS, and design tokens. |
 | [Agent Framework Azure Ai Py](agent-framework-azure-ai-py.md) | Build persistent agents on Azure AI Foundry with the Microsoft Agent Framework Python SDK. |
 | [Agent Harness Fault Injection](agent-harness-fault-injection.md) | Deterministic fault injection to test agent workflow recovery before production. |
@@ -33,6 +34,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [AI Debt Detector](ai-debt-detector.md) | Audits AI-generated code for hidden debt and failure patterns. |
 | [Ai Loop](ai-loop.md) | Bounded spec-build-review loop for scoped code changes with explicit stop conditions. |
 | [Ai Native Cli](ai-native-cli.md) | Design CLI tools that AI agents can safely invoke and parse. |
+| [AI Repair Loop Breaker](ai-repair-loop-breaker.md) | Stops AI repair loops with stable failure fingerprints, a three-attempt budget, and tested rollback. |
 | [AI/ML Testing Assistant](ai-ml-testing-assistant.md) | AI/ML testing assistant for QA testers covering generation, analysis, and automation tasks. |
 | [Aider Delegate](aider-delegate.md) | Delegate bounded coding tasks to Aider and review its diff before committing. |
 | [Airflow Dag Patterns](airflow-dag-patterns.md) | Build production Airflow DAGs with operators, sensors, testing, and deployment patterns. No cron job replacements. No non-Airflow orchestration. No pr |
@@ -62,6 +64,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [API Testing Support Assistant](api-testing-support-assistant.md) | Guides QA testers through API testing tasks with documentation, test plans, and reports. |
 | [Apify Actor Development](apify-actor-development.md) | Build, test, and deploy serverless Apify Actors from templates. |
 | [Apify Integration Expert](apify-integration-expert.md) | Integrates Apify Actors into codebases for scraping and automation. |
+| [Apify Output Schema Generator](apify-output-schema-generator.md) | Turns an Apify Actor's source code into its dataset, output, and key-value store schemas. |
 | [Apify Ultimate Scraper](apify-ultimate-scraper.md) | Selects and runs the best Apify Actor for any web scraping task across 55+ platforms. |
 | [Apk Reverse](apk-reverse.md) | Android APK reverse engineering: unpack, decompile, modify, repack, and hook with jadx, apktool, Frida, and adb. |
 | [Application Performance Performance Optimization](application-performance-performance-optimization.md) | Profile, tune, and validate application performance across the full stack. |
@@ -69,6 +72,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Architecture](architecture.md) | Analyzes requirements, evaluates trade-offs, and documents architecture decisions with ADRs. |
 | [Architecture Decision Records](architecture-decision-records.md) | Create and manage ADRs capturing rationale for significant technical decisions. |
 | [Architecture Patterns](architecture-patterns.md) | Design maintainable backend architectures using Clean Architecture, Hexagonal, and DDD patterns. |
+| [Architecture Review](architecture-review.md) | Explains a repository's architecture from graph evidence and reports the risks it finds. |
 | [Aria](aria.md) | Designs data models, API contracts, and system structure from requirements. |
 | [Arm Cortex Expert](arm-cortex-expert.md) | Firmware and driver development for ARM Cortex-M microcontrollers. |
 | [Arm Migration](arm-migration.md) | Scans a codebase for x86 assumptions and migrates it to Arm64. |
@@ -146,6 +150,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Bash Defensive Patterns](bash-defensive-patterns.md) | Write production-grade Bash scripts with defensive patterns and error handling. |
 | [Bash Linux](bash-linux.md) | Provides Bash/Linux command patterns, scripting templates, and error handling for macOS or Linux. |
 | [Bash Pro](bash-pro.md) | Write and harden production-grade Bash scripts with defensive patterns and safety checks. |
+| [Bash Script Reviewer](bash-script-reviewer.md) | Reviews shell scripts for quoting, error handling and Bash anti-patterns, and returns a corrected version. |
 | [Bash Scripting](bash-scripting.md) | Create production-ready bash scripts with defensive patterns and testing. |
 | [Bats Testing Patterns](bats-testing-patterns.md) | Write and run Bats tests for shell scripts with fixtures and CI integration. |
 | [Bazel Build Optimization](bazel-build-optimization.md) | Production patterns for Bazel in large-scale monorepos. Use when configuring Bazel, implementing remote execution, or optimizing build performance for |
@@ -183,8 +188,10 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Bullmq Specialist](bullmq-specialist.md) | Designs and debugs BullMQ job queues for Node.js/TypeScript apps. |
 | [Bun Development](bun-development.md) | Build and run JS/TS projects with the Bun runtime, no Node.js needed. |
 | [Busybox On Windows](busybox-on-windows.md) | Guide users to install and run BusyBox UNIX tools on Windows via a single binary. |
+| [C Code Reviewer](c-code-reviewer.md) | Reviews C code for memory safety, error handling and idiomatic style, and reports findings with fixes. |
 | [C Pro](c-pro.md) | Writes efficient C code with memory ownership and pointer safety. |
 | [C Sharp Pro](c-sharp-pro.md) | Write idiomatic C# with modern features, async patterns, and LINQ. |
+| [C# Idiom Reviewer](c-idiom-reviewer.md) | Reviews C# code against idiomatic patterns and returns a prioritised rewrite list. |
 | [C4 Architecture C4 Architecture](c4-architecture-c4-architecture.md) | Generate C4 architecture docs from existing codebases via bottom-up analysis. |
 | [C4 Code](c4-code.md) | Analyzes code directories to create C4 code-level documentation with function signatures, dependencies, and structure. |
 | [Changelog Automation](changelog-automation.md) | Automate changelog generation from commits and releases. |
@@ -208,6 +215,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Clojure Interactive Programming](clojure-interactive-programming.md) | Pair programs Clojure solutions using REPL-first methodology before editing files. |
 | [Closed Loop Delivery](closed-loop-delivery.md) | Deliver code against acceptance criteria with minimal re-intervention across implementation, review, deploy, and runtime verification. |
 | [Cloudflare Workers Expert](cloudflare-workers-expert.md) | Design and deploy serverless functions on Cloudflare's edge computing platform. No Node.js or AWS Lambda. |
+| [CMS Implementation Specialist](cms-implementation-specialist.md) | Builds and audits Drupal and WordPress themes, plugins, and content models that editors can actually use. |
 | [Cmux](cmux.md) | Inspect, create, close, and rearrange cmux panes, surfaces, and workspaces from macOS terminal workflows. |
 | [Cocoindex](cocoindex.md) | Build and run CocoIndex data transformation pipelines (flows) for AI indexing. |
 | [Code Architect](code-architect.md) | Analyzes codebase patterns and produces complete implementation blueprints for new features. |
@@ -264,6 +272,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Conductor Implement](conductor-implement.md) | Execute tasks from a track's implementation plan following TDD workflow. |
 | [Conductor Revert](conductor-revert.md) | Revert git changes by logical work unit with full git awareness. |
 | [Conductor Validator](conductor-validator.md) | Validates Conductor project artifacts for completeness and correct formatting. |
+| [Connection Auth Rules Builder](connection-auth-rules-builder.md) | Builds Connection Auth Rules configs that map flat credentials into driver connect_args. |
 | [Context Architecture](context-architecture.md) | Audit a codebase and bind every claim it makes about itself to a mechanism that fails when the claim stops being true. |
 | [Context Guardian](context-guardian.md) | Preserves critical data before automatic context compression. |
 | [Context Manager](context-manager.md) | Manages shared state and metadata for multi-agent systems with fast, consistent access. |
@@ -364,6 +373,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Drizzle Migration Conflict](drizzle-migration-conflict.md) | Diagnose and repair Drizzle Kit migration conflicts in team repos. |
 | [Drizzle Orm Expert](drizzle-orm-expert.md) | Type-safe Drizzle ORM schemas, queries, migrations, and serverless integration. |
 | [Droid](droid.md) | Guide developers on installing, configuring, and automating with the Droid CLI for CI/CD and non-interactive tasks. |
+| [Drupal Commerce Storefront Engineer](drupal-commerce-storefront-engineer.md) | Builds and maintains Drupal Commerce storefronts where pricing, checkout, payments and orders stay correct. |
 | [Drupal Expert](drupal-expert.md) | Answers Drupal development questions with PHP 8.3+ and modern patterns. |
 | [Dsl Vm Reverse](dsl-vm-reverse.md) | Reverse JavaScript DSL/VM interpreters and risk-control engines by extracting opcode tables and runtime semantics. |
 | [Dwarf Expert](dwarf-expert.md) | Expert on DWARF debug format v3-v5: parsing, verification, and code analysis. |
@@ -373,8 +383,10 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Earllm Build](earllm-build.md) | Build and maintain the EarLLM One Android app for Bluetooth earbuds voice-to-LLM pipeline. |
 | [Eas Update Insights](eas-update-insights.md) | Query EAS Update health metrics: crash rates, adoption, bundle size, and embedded vs OTA user splits. |
 | [Electron Angular Native](electron-angular-native.md) | Reviews Electron app code for main, renderer, and native integration layers. |
+| [Electron App Source Extractor](electron-app-source-extractor.md) | Unpacks an installed Electron app's app.asar and restores readable source from its source maps. |
 | [Electron Development](electron-development.md) | Builds secure Electron desktop apps with safe IPC and packaging. |
 | [Electron Pro](electron-pro.md) | Builds secure, cross-platform Electron desktop apps with native OS integration and auto-updates. |
+| [Electron UI Driver](electron-ui-driver.md) | Launches your Electron app on a scratch profile and drives it to verify UI changes end to end. |
 | [Elixir Expert](elixir-expert.md) | Build fault-tolerant, concurrent systems with Elixir, OTP, and Phoenix. |
 | [Elixir Pro](elixir-pro.md) | Write idiomatic Elixir with OTP, pattern matching, and fault-tolerant design. |
 | [Embedded Systems](embedded-systems.md) | Develops firmware for resource-constrained microcontrollers with real-time guarantees. |
@@ -388,6 +400,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Error Diagnostics Smart Debug](error-diagnostics-smart-debug.md) | Diagnose and fix software errors using AI-assisted debugging and observability data. |
 | [Error Handling Patterns](error-handling-patterns.md) | Apply error-handling patterns to build resilient applications. |
 | [Error Resolver](error-resolver.md) | Diagnose and resolve errors using first-principle analysis and replay recorded solutions. |
+| [Eval Diff Scorer](eval-diff-scorer.md) | Scores an eval diff against a fixed rubric and appends a row to results.csv. |
 | [Event Sourcing Architect](event-sourcing-architect.md) | Designs event-sourced systems with CQRS, projections, and sagas for audit trails and temporal queries. |
 | [Event Store Design](event-store-design.md) | Design and implement event stores for event-sourced systems with PostgreSQL, Kafka, or EventStoreDB. |
 | [Evolution](evolution.md) | Continuously improve the makepad-capabilities library during development. |
@@ -413,8 +426,10 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Favicon](favicon.md) | Generate a complete favicon set from a source image and inject HTML tags. |
 | [Feature Design Assistant](../../product-development/coding/feature-design-assistant.md) | Turn ideas into fully formed designs and specs through structured collaborative dialogue. |
 | [Fedora Hyprland Installer](fedora-hyprland-installer.md) | Install, verify, repair, update, and uninstall Hyprland on Fedora Linux with GPU-aware detection. |
+| [Feishu Integration Developer](feishu-integration-developer.md) | Builds and maintains Feishu (Lark) bots, approval flows, Bitable syncs, and SSO integrations. |
 | [Ffuf Claude](ffuf-claude-skill.md) | Guide web fuzzing with ffuf for directory and parameter discovery. |
 | [Figma to Code](figma-to-code.md) | Converts Figma designs into clean, semantic HTML/CSS or React code. |
+| [Filament Admin Optimizer](filament-admin-optimizer.md) | Restructures Filament PHP admin forms and tables for real usability gains, not cosmetic tweaks. |
 | [Filesystem Context](filesystem-context.md) | Manage context via filesystem: offload, retrieve, and persist agent state on demand. |
 | [Find Bugs](find-bugs.md) | Reviews local branch diffs for bugs, security issues, and code quality problems. |
 | [Finishing A Development Branch](finishing-a-development-branch.md) | Guides completion of a development branch by verifying tests and offering structured merge, PR, or cleanup options. Respects protected branches and re |
@@ -425,6 +440,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Fixing Motion Performance](fixing-motion-performance.md) | Audit and fix animation jank by enforcing compositor-only motion and layout-safe patterns. |
 | [Flutter Expert](flutter-expert.md) | Flutter expert for Dart 3, widgets, state management, and multi-platform deployment guidance. |
 | [Flutter Go Reviewer](flutter-go-reviewer.md) | Review pull request code changes for backend and frontend quality standards. |
+| [Focused Feature Repair](focused-feature-repair.md) | Repairs one broken feature end-to-end by mapping its scope, dependencies, and root causes before changing anything. |
 | [Folder Specific Claude And Agents Md](folder-specific-claude-and-agents-md.md) | Create folder-scoped CLAUDE.md and AGENTS.md guidance for future agents. |
 | [Formik Patterns](formik-patterns.md) | Formik form handling with Yup validation patterns for React forms. |
 | [Fp Async](fp-async.md) | Build clean async pipelines with TaskEither instead of try/catch hell |
@@ -456,6 +472,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Frontend Ui Dark Ts](frontend-ui-dark-ts.md) | Dark-themed React UI system with Tailwind CSS and Framer Motion for dashboards. |
 | [Frontend Ui Engineering](frontend-ui-engineering.md) | Build production-quality, accessible, and polished user interfaces. |
 | [Full Output Enforcement](full-output-enforcement.md) | Deliver every requested file, function, or section in full without placeholders. |
+| [Full Page Screenshot Capture](full-page-screenshot-capture.md) | Captures a complete full-page PNG of any web page, including content behind scroll and lazy loading. |
 | [Full Stack Orchestration Full Stack Feature](full-stack-orchestration-full-stack-feature.md) | Orchestrate full-stack feature delivery from database to deployment with API-first design. |
 | [Fullstack Developer](fullstack-developer.md) | Build complete features spanning database, API, and frontend layers as a cohesive unit. |
 | [Game Debugging and Troubleshooting Assistant](game-debugging-and-troubleshooting-assistant.md) | Helps game developers debug code, optimize performance, and build player-facing troubleshooting tools. |
@@ -509,6 +526,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Haskell Pro](haskell-pro.md) | Haskell engineer for advanced type systems and pure functional architecture |
 | [Hierarchical Agent Memory](hierarchical-agent-memory.md) | Scoped memory system that gives AI coding agents a cheat sheet for each directory instead of re-reading your entire project every prompt. Root CLAUDE. |
 | [Hlbpa](hlbpa.md) | Produces high-level architectural docs and reviews for codebases, focusing on interfaces, flows, and failure modes. |
+| [Home Assistant Automation](home-assistant-automation.md) | Designs and maintains Home Assistant automations, scenes and device controls for your home. |
 | [Hono](hono.md) | Build and deploy Hono APIs on any edge runtime with type safety. |
 | [Hook Development](hook-development.md) | Creates and manages Claude Code plugin hooks for event-driven automation. |
 | [Hosted Agents V2 Py](hosted-agents-v2-py.md) | Create and manage container-based hosted agents in Azure AI Foundry using the Azure AI Projects SDK. |
@@ -523,6 +541,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Hyperexecute](hyperexecute-skill.md) | Analyze projects, create YAML, validate, and run HyperExecute cloud tests on LambdaTest. |
 | [I18N Localization](i18n-localization.md) | Audits codebases for hardcoded strings and missing translations, manages locale files. |
 | [Ida Reverse](ida-reverse.md) | Reverse engineer PE/ELF/Mach-O binaries with IDA Pro static analysis. |
+| [Idiomatic Scala Reviewer](idiomatic-scala-reviewer.md) | Reviews Scala code and rewrites it into idiomatic, functional style with a clear explanation of each change. |
 | [Implement](implement.md) | Implement code and commit based on a PRD or issues. |
 | [Implementation Plan](implementation-plan.md) | Generate structured, AI-executable implementation plans for features or refactoring. |
 | [Improve Codebase Architecture](improve-codebase-architecture.md) | Scan a codebase for architectural friction, present visual HTML report, then grill through chosen refactor. |
@@ -620,6 +639,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Mcp Protocol Specialist](mcp-protocol-specialist.md) | Designs and validates MCP protocol specs, transports, and compliance for your ecosystem. |
 | [Mcp Server Architect](mcp-server-architect.md) | Designs, implements, and deploys MCP servers with full protocol compliance. |
 | [Mdpr](mdpr-skill.md) | Review MDPR Markdown presentations with semantic hints and visual checks, leaving layout to the renderer. No slide geometry or final styling. |
+| [Measured Optimization Loop](measured-optimization-loop.md) | Runs measured experiments on one file, keeps what improves the metric, and discards the rest. |
 | [Memory Safety Patterns](memory-safety-patterns.md) | Guide memory-safe programming with RAII, ownership, and resource management patterns. |
 | [Mentor](mentor.md) | Challenge an engineer's assumptions and guide them to optimal solutions through critical questioning. |
 | [Mermaid Diagram Specialist](mermaid-diagram-specialist.md) | Creates Mermaid diagrams for documentation, architecture, and process mapping. |
@@ -629,6 +649,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Microsoft Azure Webjobs Extensions Authentication Events Dotnet](microsoft-azure-webjobs-extensions-authentication-events-dotnet.md) | Build Azure Functions that handle Entra ID custom authentication events for token claims and attribute collection. |
 | [Migration Guide Builder](migration-guide-builder.md) | Extracts your customizations into a replayable guide and upgrades cleanly without merge conflicts. |
 | [Minecraft Bukkit Pro](minecraft-bukkit-pro.md) | Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. |
+| [Minimal Change Engineer](minimal-change-engineer.md) | Delivers the smallest diff that fixes exactly what was asked, and nothing more. |
 | [Ml Pipeline Workflow](ml-pipeline-workflow.md) | End-to-end MLOps pipeline orchestration from data prep to model deployment and monitoring. |
 | [ML Workflow Integrator](ml-workflow-integrator.md) | Guides ML project workflows from feature engineering to deployment and monitoring. |
 | [Mobile App Developer](mobile-app-developer.md) | Builds and optimizes native and cross-platform iOS/Android apps with performance and UX focus. |
@@ -734,6 +755,9 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Playwright Automation](playwright-skill.md) | Automates browser tasks: testing, form filling, screenshots, and link validation on any website. |
 | [Playwright E2E Builder](playwright-e2e-builder.md) | Builds Playwright E2E test suites with Page Object Model and CI integration. |
 | [Playwright Java](playwright-java.md) | Scaffold, write, and debug enterprise-grade Playwright E2E tests in Java with POM, JUnit 5, and Allure. |
+| [Playwright Test Reviewer](playwright-test-reviewer.md) | Reviews Playwright test files for anti-patterns, scores them, and drafts fixes for your approval. |
+| [Playwright Test Setup](playwright-test-setup.md) | Sets up a working Playwright end-to-end test environment in your project and verifies it runs. |
+| [Playwright Test Suite Builder](playwright-test-suite-builder.md) | Writes, reviews, and repairs Playwright end-to-end tests and reports what is covered. |
 | [Playwright Tester](playwright-tester.md) | Explore websites and generate reliable Playwright tests from user flows. |
 | [Plugin Forge](plugin-forge.md) | Creates and manages Claude Code plugins with proper structure, manifests, and marketplace integration. |
 | [Poka Yoke](poka-yoke.md) | Redesign work so mistakes cannot become defects, without relying on human memory. |
@@ -747,9 +771,11 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Powershell Ui Architect](powershell-ui-architect.md) | Designs desktop GUIs and terminal UIs for PowerShell automation tools with clean separation of concerns. |
 | [Powershell Windows](powershell-windows.md) | Provides PowerShell patterns, operator syntax, error handling, and pitfalls for Windows scripting. |
 | [Pr Merge Champion](pr-merge-champion.md) | Prepare pull requests for fast approval with clean diffs and self-reviews. |
+| [Premium Web Implementation](premium-web-implementation.md) | Implements premium Laravel, Livewire and FluxUI interfaces from an approved task list. |
 | [Principal Software Engineer](principal-software-engineer.md) | Provide principal-level software engineering guidance with focus on engineering excellence, technical leadership, and pragmatic implementation. |
 | [Product Testing Assistant](../../operations/coding/product-testing-assistant.md) | Generates, runs, and reports product tests, tracking defects and ensuring quality. |
 | [Production Code Audit](production-code-audit.md) | Scans codebase line-by-line, fixes issues, and upgrades to production-grade quality. |
+| [Production Readiness Reality Check](production-readiness-reality-check.md) | Checks whether a built product actually matches its claims and refuses to call it production ready without proof. |
 | [Progressive Estimation](progressive-estimation.md) | Estimate dev work with PERT statistics and calibration feedback loops. |
 | [Project Guidelines Example](cc-skill-project-guidelines-example.md) | Provides architecture, code patterns, and deployment guidelines for the Zenith project. |
 | [Projection Patterns](projection-patterns.md) | Build read models and projections from event streams for CQRS systems. Handles materialized views, query optimization, and real-time dashboards. Does |
@@ -789,6 +815,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [React Flow Architect](react-flow-architect.md) | Build production-ready ReactFlow apps with hierarchical navigation and state management. |
 | [React Flow Node Ts](react-flow-node-ts.md) | Create React Flow node components with TypeScript types and store integration. |
 | [React Modernization](react-modernization.md) | Upgrade React versions, migrate classes to hooks, and adopt concurrent features. |
+| [React Native Animation Builder](react-native-animation-builder.md) | Builds React Native animations that hold up on real devices, and tells you when not to animate at all. |
 | [React Native Architecture](react-native-architecture.md) | Production-ready React Native patterns with Expo for navigation, state, native modules, and offline-first. |
 | [React Native Templates](react-native-skills.md) | Best practices for React Native and Expo app development. |
 | [React Nextjs Development](react-nextjs-development.md) | Build React and Next.js 14+ apps with App Router, Server Components, TypeScript, and Tailwind CSS. |
@@ -804,6 +831,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Reducing Entropy](reducing-entropy.md) | Minimizes total codebase size by biasing toward deletion and measuring end-state code amount. |
 | [Refactoring Specialist](refactoring-specialist.md) | Transform messy, complex code into clean, maintainable systems while preserving all behavior. |
 | [Regex Visual Debugger](regex-visual-debugger.md) | Debug regex patterns with visual breakdowns, plain English explanations, and test case generation. |
+| [Remotion Interactivity Editor](remotion-interactivity-editor.md) | Restructures Remotion markup so the Studio timeline stays clickable, draggable and editable. |
 | [Repo Maintainer](repo-maintainer.md) | Audit and repair repository hygiene across artifacts, dependencies, CI, docs, Git state, and code quality. |
 | [Requesting Code Review](requesting-code-review.md) | Request code review after tasks, features, or before merge to catch issues early. |
 | [Resend Email Connector](resend-email-connector.md) | Connects your assistant to email via Resend for async conversations. |
@@ -828,6 +856,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Rust Cli Builder](rust-cli-builder.md) | Plans and builds production-ready Rust CLI tools with clap, config files, and proper error handling. |
 | [Rust Engineer](rust-engineer.md) | Builds safe, high-performance Rust systems with ownership patterns and zero-cost abstractions. |
 | [Rust Gpt 4.1 Beast Mode](rust-gpt-4-1-beast-mode.md) | Review Rust code in VS Code by compiling, testing, and fixing errors until it builds and passes all tests. |
+| [Rust Idiom Reviewer](rust-idiom-reviewer.md) | Reviews Rust code for idiomatic ownership, error handling, iterators, and concurrency. |
 | [Rust Mcp Expert](rust-mcp-expert.md) | Helps you build production-ready MCP servers in Rust using the rmcp SDK. |
 | [Rust Pro](rust-pro.md) | Design and optimize production Rust 1.75+ code with async, type safety, and performance. |
 | [Saas Multi Tenant](saas-multi-tenant.md) | Designs multi-tenant SaaS databases with RLS and tenant-scoped queries. |
@@ -842,6 +871,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Sdk Dx](sdk-dx.md) | Design SDKs that developers love through native APIs and clear error messages. |
 | [Segment Automation](segment-automation.md) | Automate Segment CDP operations: track, identify, group, page, alias, and batch events. |
 | [Selenium](selenium-skill.md) | Generates production-grade Selenium WebDriver scripts and tests in Java, Python, JS, C#, Ruby, PHP, with local or TestMu cloud execution. |
+| [Semantic Code Graph Builder](semantic-code-graph-builder.md) | Builds and maintains a unified semantic code graph from multiple language servers. |
 | [Semantic Kernel Dotnet](semantic-kernel-dotnet.md) | Creates, updates, refactors, and explains .NET Semantic Kernel code using latest docs. |
 | [Semantic Kernel Python](semantic-kernel-python.md) | Build and manage Python AI applications using Semantic Kernel. |
 | [Semgrep Rule Creator](semgrep-rule-creator.md) | Creates custom Semgrep rules for security vulnerabilities and code patterns. |
@@ -886,6 +916,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Speckit Updater](speckit-updater.md) | Safely update SpecKit templates while preserving customizations with user approval. |
 | [Spline 3d Integration](spline-3d-integration.md) | Embed interactive 3D Spline scenes into web projects with React, Vue, or vanilla JS. |
 | [Spring Boot Engineer](spring-boot-engineer.md) | Builds enterprise Spring Boot 3+ microservices with cloud-native and reactive patterns. |
+| [SQL Database Assistant](sql-database-assistant.md) | Writes, optimizes, and migrates SQL across PostgreSQL, MySQL, SQLite, and SQL Server. |
 | [Sql Optimization Patterns](sql-optimization-patterns.md) | Systematically optimize slow SQL queries with indexing and plan analysis. |
 | [Sql Pro](sql-pro.md) | Optimize SQL queries, design schemas, and tune performance for cloud-native and hybrid databases. |
 | [SQL Query Optimization Assistant](sql-query-optimization-assistant.md) | Optimizes SQL queries and database performance for database administrators. |
@@ -944,6 +975,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Template Improver](skill-improver.md) | Iteratively improve a Claude Code capability until it meets quality standards. |
 | [Template Installer](skill-installer.md) | Installs curated or custom Codex templates from GitHub repos into the templates directory. |
 | [Template Judge](skill-judge.md) | Score and improve Template design quality against official specs and best practices. |
+| [Template Quality Auditor](template-quality-auditor.md) | Validates, tests and scores the quality of published bot templates and their scripts, with a pass/fail gate. |
 | [Template Rails Upgrade](skill-rails-upgrade.md) | Analyze Rails apps and provide upgrade assessments with selective file merging. |
 | [Temporal Golang Pro](temporal-golang-pro.md) | Build durable distributed systems with Temporal Go SDK — deterministic workflows, mTLS, and advanced patterns. |
 | [Temporal Python Pro](temporal-python-pro.md) | Build durable Python workflows with Temporal SDK — design, test, deploy. |
@@ -953,6 +985,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Test Automation Framework Advisor](test-automation-framework-advisor.md) | QA automation framework advisor: research, select, implement, and maintain your test automation stack. |
 | [Test Automator](test-automator.md) | Create comprehensive test suites and CI pipelines with self-healing and AI-powered automation. |
 | [Test Case Development Assistant](test-case-development-assistant.md) | Builds, reviews, documents, and prioritizes test cases for QA managers. |
+| [Test Coverage Gap Mapper](test-coverage-gap-mapper.md) | Maps every testable surface in your app and reports which parts have no tests. |
 | [Test Detect](test-detect.md) | Detects your project's test framework and runs or generates tests for you. |
 | [Test Driven Development](test-driven-development.md) | Enforce the TDD cycle: write failing test first, minimal code to pass, verify both steps. |
 | [Test Engineer](test-engineer.md) | Runs automated test suites and reports coverage results for your project. |
@@ -964,6 +997,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Testing Patterns](testing-patterns.md) | Generates Jest unit tests with factories, mocks, and TDD workflow. |
 | [Testing Qa](testing-qa.md) | Comprehensive testing and QA workflow for production-ready software. |
 | [Testng](testng-skill.md) | Generates TestNG tests with groups, data providers, XML suites, and parallel execution in Java. |
+| [TestRail Test Sync](testrail-test-sync.md) | Keeps Playwright tests and TestRail cases in sync, with results pushed back after each run. |
 | [The Honoured One](the-honoured-one.md) | Forces full context loading before any complex multi-file task or debugging. |
 | [Thinking Beast Mode](thinking-beast-mode.md) | Drives multi-step engineering tasks to full completion with visible todo tracking. |
 | [Threejs Interaction](threejs-interaction.md) | Adds raycasting, controls, and input handling to Three.js scenes. |
@@ -978,6 +1012,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Twilio Communications](twilio-communications.md) | Send SMS, verify phone numbers, and build IVR systems using Twilio APIs with compliance and error handling. |
 | [Typescript Advanced Types](typescript-advanced-types.md) | Guide for mastering TypeScript's advanced type system and patterns. No code generation or runtime logic. |
 | [Typescript Expert](typescript-expert.md) | Diagnoses and fixes TypeScript/JavaScript issues with type-level programming and performance optimization. |
+| [TypeScript Idiom Reviewer](typescript-idiom-reviewer.md) | Reviews TypeScript and JavaScript code against idiomatic patterns and reports concrete fixes. |
 | [Typescript Mcp Expert](typescript-mcp-expert.md) | Builds production-ready TypeScript MCP servers with the official SDK. |
 | [Typescript Pro](typescript-pro.md) | Design and enforce advanced TypeScript types for enterprise systems |
 | [Ui A11y](ui-a11y.md) | Audit a component or page for WCAG 2.2 AA compliance and apply fixes. |
@@ -990,6 +1025,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Unity Developer](unity-developer.md) | Build and optimize Unity games with C#, rendering, and cross-platform deployment. |
 | [Unity Ecs Patterns](unity-ecs-patterns.md) | Apply DOTS patterns for high-performance Unity ECS systems. |
 | [Unity Game Developer](unity-game-developer.md) | Build and optimize Unity games with C# scripting and cross-platform deployment. You are a Unity game developer expert with 8+ years of experience buil |
+| [Universal Scraping Architect](universal-scraping-architect.md) | Designs and validates web scraping and document extraction pipelines, routing between API and local methods. |
 | [Unreal Engine Cpp Pro](unreal-engine-cpp-pro.md) | Expert guidelines for Unreal Engine 5.x C++ development with performance and UObject hygiene. |
 | [Unreal Engine Developer](unreal-engine-developer.md) | Build and optimize Unreal Engine games with C++ and Blueprint expertise. No engine modifications outside your project scope. No shipping without appro |
 | [Unship](unship.md) | Compare AI-generated UI variants in your local app, pick one, and clean up the rest. |
@@ -1035,6 +1071,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [Webdriverio](webdriverio-skill.md) | Generates WebdriverIO automation tests in JavaScript or TypeScript for local or cloud execution. |
 | [Webex Channel Integrator](webex-channel-integrator.md) | Adds Cisco Webex chat integration to your NanoClaw service via the Chat SDK bridge. |
 | [Websocket Engineer](websocket-engineer.md) | Designs and implements scalable WebSocket systems for real-time bidirectional communication. |
+| [WeChat Mini Program Developer](wechat-mini-program-developer.md) | Builds and reviews WeChat Mini Programs, from page structure to WeChat Pay and review compliance. |
 | [Wg Code Alchemist](wg-code-alchemist.md) | Refactors code using Clean Code and SOLID principles on request. No automated runs. No state. No scheduling. No connectors. No boundaries beyond the c |
 | [Wgm](wgm.md) | Turns rough requests into working software via a governed build loop with alignment, planning, and iterative validation. |
 | [Wiki Changelog](wiki-changelog.md) | Generate structured changelogs from git history. |
@@ -1058,6 +1095,7 @@ Write, review, test and debug software. 1055 Grok Bot templates, 1046 of them fi
 | [X402 Express Wrapper](x402-express-wrapper.md) | Monetize APIs and MCP servers with USDC micropayments via x402 middleware. |
 | [Yann Lecun Tecnico](yann-lecun-tecnico.md) | Implement and explain LeCun's deep learning techniques with PyTorch. |
 | [Yeet](yeet.md) | Stage, commit, push, and open a draft GitHub pull request in one flow. |
+| [YYLO Task Loop Runner](yylo-task-loop-runner.md) | Takes one assigned YYLO Ledger task through the validated loop to a queued, review-ready commit. |
 | [Zcode Delegate](zcode-delegate.md) | Hand bounded coding tasks to ZCode CLI, review diffs, and commit. |
 | [Zod Validation Expert](zod-validation-expert.md) | Build type-safe Zod schemas and validation logic for TypeScript projects — parsing, custom errors, refinements, type inference, and integration with R |
 | [Zustand Store Ts](zustand-store-ts.md) | Generates Zustand stores with TypeScript types and subscribeWithSelector middleware. |

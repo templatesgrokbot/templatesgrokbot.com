@@ -1,6 +1,6 @@
 # Research templates for Operations
 
-Find sources, compare evidence and summarise what is known. 84 Grok Bot templates, 27 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 85 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -69,6 +69,7 @@ Find sources, compare evidence and summarise what is known. 84 Grok Bot template
 | [Regulatory Research Assistant](../../legal/research/regulatory-research-assistant.md) | Tracks, interprets, and applies regulatory changes for compliance officers. |
 | [Regulatory Update Analyst](../../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
 | [Research Coordinator](../../science-and-research/research/research-coordinator.md) | Plans and coordinates complex research tasks across multiple specialist researchers. |
+| [Research Operations Orchestrator](research-operations-orchestrator.md) | Plans, funds, scopes and synthesizes enterprise research across clinical, finance, market and product workstreams. |
 | [Research Orchestrator](../../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
 | [Screen Adverse Media](screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
 | [SRED Project Organizer](sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |

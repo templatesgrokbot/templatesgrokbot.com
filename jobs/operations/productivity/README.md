@@ -1,12 +1,15 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 192 Grok Bot templates, 115 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 202 Grok Bot templates, 122 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [90-Day Execution Planner](../../management/productivity/90-day-execution-planner.md) | Turns an approved decision into a 90-day plan with weekly milestones, DRIs, and check-ins. |
+| [Accounts Payable Processor](../../finance/productivity/accounts-payable-processor.md) | Processes vendor and contractor payments with duplicate checks, spend limits and a full audit trail. |
 | [Admin Task Prioritizer](../../finance/productivity/admin-task-prioritizer.md) | Prioritizes tasks, tracks deadlines, and coordinates schedules for administrative assistants. |
+| [Amazon Seller Operations](amazon-seller-operations.md) | Runs your Amazon seller operations: inventory, pricing, orders, PPC and reporting, with approvals before anything changes. |
 | [Anti Sleep](../../it-and-development/productivity/anti-sleep.md) | Keep a Mac awake with caffeinate during long builds, downloads, or automation runs. |
 | [Antigravity Workflows](../../management/productivity/antigravity-workflows.md) | Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints. |
 | [Asana Automation](asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
@@ -15,6 +18,7 @@ Plan, prioritise and clear the recurring admin. 192 Grok Bot templates, 115 of t
 | [Bamboohr Automation](../../human-resources/productivity/bamboohr-automation.md) | Automate BambooHR HR operations: employees, time-off, benefits, dependents, and updates. |
 | [Basecamp Automation](basecamp-automation.md) | Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP. |
 | [Billing Automation](billing-automation.md) | Implement automated billing, invoicing, and payment recovery for SaaS subscriptions. |
+| [Business Continuity Planner](business-continuity-planner.md) | Builds and maintains business continuity plans, impact analyses, and crisis communication procedures. |
 | [Cal Com Automation](cal-com-automation.md) | Automate Cal.com scheduling: bookings, availability, webhooks, and teams via Composio. |
 | [Calendly Automation](calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Calibration and Maintenance Scheduler](calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
@@ -28,6 +32,7 @@ Plan, prioritise and clear the recurring admin. 192 Grok Bot templates, 115 of t
 | [Claude Win11 Speckit Update](../../it-and-development/productivity/claude-win11-speckit-update-skill.md) | Manage Windows 11 system settings and updates. |
 | [Clickup Automation](clickup-automation.md) | Automate ClickUp project management via Rube MCP — tasks, hierarchy, comments. |
 | [Coda Automation](coda-automation.md) | Automate Coda docs, tables, formulas, permissions, and publishing via MCP. |
+| [Company Operating System](company-operating-system.md) | Designs and runs your company's operating system: accountability, scorecard, meeting pulse, issues, and 90-day rocks. |
 | [Conductor Manage](conductor-manage.md) | Manage Conductor track lifecycle: archive, restore, delete, rename, and cleanup. |
 | [Conductor Status](../../management/productivity/conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
 | [Construction Workforce Allocator](../../real-estate-and-construction/productivity/construction-workforce-allocator.md) | Optimizes construction workforce scheduling, allocation, tracking, and development. |
@@ -84,6 +89,7 @@ Plan, prioritise and clear the recurring admin. 192 Grok Bot templates, 115 of t
 | [Inventory Coordination Assistant](inventory-coordination-assistant.md) | Coordinates inventory control across departments with clear updates and approvals. |
 | [Inventory Management Assistant](inventory-management-assistant.md) | Automates inventory tracking, forecasting, ordering, and reporting for inventory managers. |
 | [Inventory Tracking Assistant](../../customer-support/productivity/inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |
+| [Invoice Automation](../../finance/productivity/invoice-automation.md) | Generates, sends, tracks, and reconciles invoices across your accounting platform. |
 | [Invoice Chaser](../../finance/productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
 | [Jev Browser Operator](jev-browser-operator.md) | Does work in your own Chrome through Jev Browser Control: looks things up, fills in forms, and asks before anything final. |
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
@@ -119,6 +125,8 @@ Plan, prioritise and clear the recurring admin. 192 Grok Bot templates, 115 of t
 | [Onboarding Checklist Generator](../../management/productivity/onboarding-checklist-generator.md) | Generates customized client onboarding checklists with phases, owners, dependencies, and email templates. |
 | [Operations Crisis Blueprint](operations-crisis-blueprint.md) | Crisis management planning assistant for global operations heads, from risk assessment to post-crisis evaluation. |
 | [Operations Crisis Navigator](operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
+| [Operations Leadership Advisor](operations-leadership-advisor.md) | Turns company strategy into an operating cadence, OKR cascade and process fixes. |
+| [Operations Process Manager](operations-process-manager.md) | Maps, measures and standardizes business processes so operations scale without heroics. |
 | [Operations Risk Assessment Guide](operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
 | [Operations Risk Mitigation Planner](operations-risk-mitigation-planner.md) | Identifies, assesses, and mitigates operational risks with structured plans and monitoring. |
 | [Operations Sustainability Blueprint](operations-sustainability-blueprint.md) | Sustainability advisor for operations VPs, turning green goals into concrete programs. |
@@ -165,6 +173,7 @@ Plan, prioritise and clear the recurring admin. 192 Grok Bot templates, 115 of t
 | [Spark](spark.md) | Guides new users through a short questionnaire, then automatically creates the bots and connectors they need. |
 | [Sred Work Summary](sred-work-summary.md) | Collect a year of PRs, docs, and tickets into a grouped Notion doc for SRED. |
 | [Stripe Automation](../../finance/productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
+| [Subscription Lifecycle Manager](subscription-lifecycle-manager.md) | Tracks SaaS subscriptions, flags churn risk, and drafts billing and retention actions for approval. |
 | [Supplier Coordination Assistant](supplier-coordination-assistant.md) | Coordinates supplier research, qualification, performance, risk, and collaboration for production planners. |
 | [Supply Chain Crisis Manager](supply-chain-crisis-manager.md) | Turns crisis disruptions into clear risks, plans, and actions for supply chain analysts. |
 | [Supply Chain Sustainability Planner](supply-chain-sustainability-planner.md) | Helps supply chain managers embed sustainability across operations, from supplier audits to green logistics. |
@@ -188,6 +197,7 @@ Plan, prioritise and clear the recurring admin. 192 Grok Bot templates, 115 of t
 | [Vendor Watch](vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
 | [Visitor Management Assistant](../../customer-support/productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
 | [VopixSounds](../../it-and-development/productivity/vopixsounds.md) | Plays sounds when Claude needs you or finishes a task so you can work in another window. |
+| [WooCommerce Store Operations](woocommerce-store-operations.md) | Runs your WooCommerce store's orders, stock, customers and campaigns, and reports the numbers. |
 | [Workflow Automation Advisor](workflow-automation-advisor.md) | Finds, evaluates, and rolls out workflow automation for operations managers. |
 | [Workflow Automation Architect](../../product-development/productivity/workflow-automation-architect.md) | Automates process workflows from data extraction to compliance and reporting. |
 | [Workflow Automation Planner](workflow-automation-planner.md) | Finds and implements workflow automation opportunities for operations managers. |

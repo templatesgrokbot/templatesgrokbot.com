@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **533 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **563 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,26 +11,26 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 183 |
-| [Writing & Content](writing-and-content/README.md) | 61 |
-| [Generative Art](generative-art/README.md) | 46 |
-| [Generative Code](generative-code/README.md) | 46 |
-| [Coding](coding/README.md) | 36 |
+| [Design](design/README.md) | 188 |
+| [Writing & Content](writing-and-content/README.md) | 63 |
+| [Generative Art](generative-art/README.md) | 50 |
+| [Generative Code](generative-code/README.md) | 47 |
+| [Coding](coding/README.md) | 37 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 26 |
+| [Video Editing](video-editing/README.md) | 23 |
+| [Social Media](social-media/README.md) | 22 |
 | [Research](research/README.md) | 20 |
-| [Social Media](social-media/README.md) | 20 |
-| [Video Editing](video-editing/README.md) | 20 |
+| [Office Tools](office-tools/README.md) | 14 |
+| [Generative Video](generative-video/README.md) | 13 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 13 |
-| [Office Tools](office-tools/README.md) | 11 |
-| [Data Analysis](data-analysis/README.md) | 10 |
-| [Generative Video](generative-video/README.md) | 10 |
-| [Productivity](productivity/README.md) | 7 |
+| [Data Analysis](data-analysis/README.md) | 11 |
+| [Productivity](productivity/README.md) | 8 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
+| [Prompt Engineering](prompt-engineering/README.md) | 4 |
 | [Text-To-Speech](text-to-speech/README.md) | 4 |
+| [Text-To-Video](text-to-video/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
 | [Knowledge Management](knowledge-management/README.md) | 3 |
-| [Text-To-Video](text-to-video/README.md) | 3 |
-| [Prompt Engineering](prompt-engineering/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 | [Security & Compliance](security-and-compliance/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
@@ -50,7 +50,7 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 | [Hig Technologies](design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [Gradient Design](design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 
-[All 183 Design templates →](design/README.md)
+[All 188 Design templates →](design/README.md)
 
 ## Writing & Content
 
@@ -60,12 +60,12 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 | [Seo Content Writer](../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Seo Aeo Landing Page Writer](../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
-| [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 | [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
+| [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 | [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Content Creation](../marketing/writing-and-content/marketing-content-creation.md) | Draft channel-specific marketing content that is SEO-aware and free of buzzwords. |
 
-[All 61 Writing & Content templates →](writing-and-content/README.md)
+[All 63 Writing & Content templates →](writing-and-content/README.md)
 
 ## Generative Art
 
@@ -76,11 +76,11 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 | [Slack Gif Creator](generative-art/slack-gif-creator.md) | Creates optimized animated GIFs for Slack from descriptions or uploaded images. |
 | [Daily Gift](generative-art/daily-gift.md) | Decides if a gift is needed today, then creates a personalized H5, image, or video artifact. No guessing, no filler. |
 | [Audio Mixer](generative-art/audio-mixer.md) | Mixes and masters multi-track audio for professional production. |
-| [Scroll Experience](generative-art/scroll-experience.md) | Build scroll-driven animations and parallax storytelling for narrative websites. |
 | [Fal Generate](generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
+| [Scroll Experience](generative-art/scroll-experience.md) | Build scroll-driven animations and parallax storytelling for narrative websites. |
 | [Fal Image Edit](generative-art/fal-image-edit.md) | Edits images with style transfer and object removal, pending your approval before any output is sent. |
 
-[All 46 Generative Art templates →](generative-art/README.md)
+[All 50 Generative Art templates →](generative-art/README.md)
 
 ## Generative Code
 
@@ -95,7 +95,7 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 | [Magic Ui Generator](generative-code/magic-ui-generator.md) | Generate, compare, and integrate production-ready UI component variations using Magic by 21st.dev. |
 | [Frontend Slides Frontend Slides](generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
 
-[All 46 Generative Code templates →](generative-code/README.md)
+[All 47 Generative Code templates →](generative-code/README.md)
 
 ## Coding
 
@@ -110,7 +110,7 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 | [Swiftui Liquid Glass](../it-and-development/coding/swiftui-liquid-glass.md) | Implement or review SwiftUI Liquid Glass with correct APIs, fallbacks, and modifier order. |
 | [Favicon](../it-and-development/coding/favicon.md) | Generate a complete favicon set from a source image and inject HTML tags. |
 
-[All 36 Coding templates →](coding/README.md)
+[All 37 Coding templates →](coding/README.md)
 
 ## Marketing & Growth
 
@@ -120,12 +120,42 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 | [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
 | [Popup Cro](../marketing/marketing-and-growth/popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
 | [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
-| [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
 | [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
+| [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
 | [Content Creation and Curation Planner](../executives-and-strategy/marketing-and-growth/content-creation-and-curation-planner.md) | Plans, creates, optimizes, and curates marketing content across channels. |
 | [Identity Mirror](../marketing/marketing-and-growth/identity-mirror.md) | Mirror audience identity to make brand messages feel personally resonant. |
 
 [All 26 Marketing & Growth templates →](marketing-and-growth/README.md)
+
+## Video Editing
+
+| Template | What it does |
+|---|---|
+| [Video Downloader](video-editing/video-downloader.md) | Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. |
+| [Videodb](video-editing/videodb.md) | Ingest, index, search, and edit video and audio with timestamps and alerts. |
+| [Royalty-Free Resource Finder](video-editing/royalty-free-resource-finder.md) | Finds and organizes royalty-free images, music, footage, fonts, graphics, and more for video projects. |
+| [Timestamp Precision Specialist](video-editing/timestamp-precision-specialist.md) | Extracts frame-accurate timestamps for clean podcast cuts using waveform and silence analysis. |
+| [VideoDB Essentials](../it-and-development/video-editing/videodb-skills.md) | Upload, search, edit, transcribe, and stream video using the VideoDB SDK. No AI generation or real-time capture without explicit user request. |
+| [Podcast Clipper](video-editing/podcast-clipper.md) | Finds the clippable moments in a long recording and writes the captions for each. |
+| [Video Router](video-editing/video-router.md) | Route video briefs to generate, compose, edit, or AUTO before production starts. |
+| [Social Media Clip Creator](video-editing/social-media-clip-creator.md) | Transforms video content into platform-optimized clips with proper cropping, subtitles, thumbnails, and encoding. |
+
+[All 23 Video Editing templates →](video-editing/README.md)
+
+## Social Media
+
+| Template | What it does |
+|---|---|
+| [Socialclaw](../marketing/social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
+| [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
+| [Youtube Automation](../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
+| [Xiaohongshu Card Deck Generator](../marketing/social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
+| [Visual Storytelling Campaign Planner](../marketing/social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
+| [Xiaohongshu Content Strategist](../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
+| [Social Content Scheduling Planner](../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
+| [Social Post Writer Seo](../marketing/social-media/social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |
+
+[All 22 Social Media templates →](social-media/README.md)
 
 ## Research
 
@@ -142,35 +172,35 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 
 [All 20 Research templates →](research/README.md)
 
-## Social Media
+## Office Tools
 
 | Template | What it does |
 |---|---|
-| [Socialclaw](../marketing/social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
-| [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
-| [Youtube Automation](../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
-| [Xiaohongshu Card Deck Generator](../marketing/social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
-| [Visual Storytelling Campaign Planner](../marketing/social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
-| [Xiaohongshu Content Strategist](../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
-| [Social Content Scheduling Planner](../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
-| [Social Post Writer Seo](../marketing/social-media/social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |
+| [Nanobanana Ppt Templates](../operations/office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
+| [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
+| [PPTX Reference Analyzer](office-tools/pptx-reference-analyzer.md) | Analyzes reference PPTX decks for structure, theme, and design evidence without modifying them. |
+| [Pptx Deck Creation](../marketing/office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
+| [Presentation Deck Builder](../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
+| [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
+| [Markdown Slide Builder](../education/office-tools/markdown-slide-builder.md) | Turns your Markdown notes into themed Marp slide decks exported to PDF, PPTX, or HTML. |
+| [Template Deck Builder](office-tools/template-deck-builder.md) | Builds and edits PowerPoint decks bound to your company template with consulting-grade storyline and visual QA. |
 
-[All 20 Social Media templates →](social-media/README.md)
+[All 14 Office Tools templates →](office-tools/README.md)
 
-## Video Editing
+## Generative Video
 
 | Template | What it does |
 |---|---|
-| [Video Downloader](video-editing/video-downloader.md) | Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. |
-| [Videodb](video-editing/videodb.md) | Ingest, index, search, and edit video and audio with timestamps and alerts. |
-| [Royalty-Free Resource Finder](video-editing/royalty-free-resource-finder.md) | Finds and organizes royalty-free images, music, footage, fonts, graphics, and more for video projects. |
-| [Timestamp Precision Specialist](video-editing/timestamp-precision-specialist.md) | Extracts frame-accurate timestamps for clean podcast cuts using waveform and silence analysis. |
-| [VideoDB Essentials](../it-and-development/video-editing/videodb-skills.md) | Upload, search, edit, transcribe, and stream video using the VideoDB SDK. No AI generation or real-time capture without explicit user request. |
-| [Podcast Clipper](video-editing/podcast-clipper.md) | Finds the clippable moments in a long recording and writes the captions for each. |
-| [Video Router](video-editing/video-router.md) | Route video briefs to generate, compose, edit, or AUTO before production starts. |
-| [Social Media Clip Creator](video-editing/social-media-clip-creator.md) | Transforms video content into platform-optimized clips with proper cropping, subtitles, thumbnails, and encoding. |
+| [Heygen Best Practices](../it-and-development/generative-video/heygen-best-practices.md) | Provides HeyGen API best practices for creating AI avatar videos. |
+| [Gemini Omni Flash Api](generative-video/gemini-omni-flash-api.md) | Generate and edit videos using Gemini Omni Flash with text, images, or existing clips. |
+| [Remotion](generative-video/remotion.md) | Generate walkthrough videos from Stitch screens using Remotion with transitions and text overlays. |
+| [Generate Animated Videos Remotion](generative-video/generate-animated-videos-remotion.md) | Makes 9:16 motion-graphics shorts in Remotion from a scene catalog. |
+| [Explainer Video Builder](../marketing/generative-video/explainer-video-builder.md) | Turn any source material into a tight 60-90 second explainer video for your product. |
+| [Beatra Video Studio](generative-video/beatra-video-studio.md) | Produces short AI video clips on Beatra with a cost card and your approval before every paid call. |
+| [AI Video Producer](../marketing/generative-video/ai-video-producer.md) | Plans, generates, and assembles marketing videos using AI models, avatars, and programmatic templates. |
+| [Remotion Video Renderer](generative-video/remotion-video-renderer.md) | Renders Remotion compositions to video or still files with the right codec and pixel format. |
 
-[All 20 Video Editing templates →](video-editing/README.md)
+[All 13 Generative Video templates →](generative-video/README.md)
 
 ## Teaching & Tutoring
 
@@ -187,21 +217,6 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 
 [All 13 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [Nanobanana Ppt Templates](../operations/office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
-| [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
-| [PPTX Reference Analyzer](office-tools/pptx-reference-analyzer.md) | Analyzes reference PPTX decks for structure, theme, and design evidence without modifying them. |
-| [Pptx Deck Creation](../marketing/office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
-| [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
-| [Template Deck Builder](office-tools/template-deck-builder.md) | Builds and edits PowerPoint decks bound to your company template with consulting-grade storyline and visual QA. |
-| [Visual Asset Placer](office-tools/visual-asset-placer.md) | Selects and places approved visual assets in editable PPTX decks. |
-| [Canvas Deck Builder](office-tools/canvas-deck-builder.md) | 把内容排进锁死的 1920×1080 画布, 每页一个视觉重心, 不绑模板。 |
-
-[All 11 Office Tools templates →](office-tools/README.md)
-
 ## Data Analysis
 
 | Template | What it does |
@@ -213,24 +228,9 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 | [Music Market Trend Analyst](data-analysis/music-market-trend-analyst.md) | Tracks music market trends to guide your creative and career decisions. |
 | [Photography Image Analyst](data-analysis/photography-image-analyst.md) | Analyzes your photos and returns detailed reports on quality, composition, content, and more. |
 | [Predictive UX Behavior Analyst](../product-development/data-analysis/predictive-ux-behavior-analyst.md) | Turns user behavior data into predictive insights and personalized UX actions. |
-| [Dashboard Design](../it-and-development/data-analysis/dashboard-design.md) | Build scannable analytics dashboards with modular cards, KPI hierarchy, and muted backgrounds. |
+| [Spotify Playlist Curator](data-analysis/spotify-playlist-curator.md) | Controls Spotify playback, builds playlists, and curates music from audio features. |
 
-[All 10 Data Analysis templates →](data-analysis/README.md)
-
-## Generative Video
-
-| Template | What it does |
-|---|---|
-| [Heygen Best Practices](../it-and-development/generative-video/heygen-best-practices.md) | Provides HeyGen API best practices for creating AI avatar videos. |
-| [Gemini Omni Flash Api](generative-video/gemini-omni-flash-api.md) | Generate and edit videos using Gemini Omni Flash with text, images, or existing clips. |
-| [Remotion](generative-video/remotion.md) | Generate walkthrough videos from Stitch screens using Remotion with transitions and text overlays. |
-| [Generate Animated Videos Remotion](generative-video/generate-animated-videos-remotion.md) | Makes 9:16 motion-graphics shorts in Remotion from a scene catalog. |
-| [Explainer Video Builder](../marketing/generative-video/explainer-video-builder.md) | Turn any source material into a tight 60-90 second explainer video for your product. |
-| [Sora](generative-video/sora.md) | Generates and manages Sora video clips via OpenAI's API using a bundled CLI. |
-| [Testimonial Video Builder](../marketing/generative-video/testimonial-video-builder.md) | Turn real customer reviews into polished social-proof videos with HyperFrames. |
-| [Riffkit](generative-video/riffkit.md) | Transform a winning TikTok's formula into your own branded short video in 9 languages. |
-
-[All 10 Generative Video templates →](generative-video/README.md)
+[All 11 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -238,8 +238,9 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 |---|---|
 | [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Notion Template Business](productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
-| [Royalty and Rights Manager](productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
 | [Live Recording Supervisor](productivity/live-recording-supervisor.md) | Supervises live recording sessions for film scores, from setup to post-production. |
+| [Royalty and Rights Manager](productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
+| [Brain Dump Organizer](../management/productivity/brain-dump-organizer.md) | Turns a messy brain dump into organized projects, tasks, connections, and concrete next offers. |
 | [Music Production Budget Planner](productivity/music-production-budget-planner.md) | Build and manage a realistic music production budget for film scoring projects. |
 | [Music Collaboration Coordinator](productivity/music-collaboration-coordinator.md) | Finds collaborators, plans projects, and prepares releases for vocal artists and songwriters. |
 | [Event Coverage Photographer Planner](productivity/event-coverage-photographer-planner.md) | Plans event photo coverage from shot lists to delivery, with backups and client updates. |
@@ -254,6 +255,15 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 | [Vocal Warm-Up Companion](self-improvement/vocal-warm-up-companion.md) | Creates and manages personalized vocal warm-up routines with feedback and progress tracking for singers. |
 | [Performance Review Assistant](self-improvement/performance-review-assistant.md) | Turns performance reviews into growth plans for vocal artists and singer-songwriters. |
 
+## Prompt Engineering
+
+| Template | What it does |
+|---|---|
+| [Image Prompt Engineer](prompt-engineering/image-prompt-engineer.md) | Turns a visual idea into a structured, platform-ready image generation prompt. |
+| [AI Video Shot Planner](prompt-engineering/ai-video-shot-planner.md) | Turns a one-line video idea into a shot list and model-ready prompts, and diagnoses clips that failed. |
+| [Enhance Prompt](../it-and-development/prompt-engineering/enhance-prompt.md) | Turns vague UI ideas into structured, Stitch-optimized prompts with design system context. |
+| [Inclusive Visuals Specialist](prompt-engineering/inclusive-visuals-specialist.md) | Turns creative briefs into culturally accurate, dignified image and video prompts that resist AI bias. |
+
 ## Text-To-Speech
 
 | Template | What it does |
@@ -262,6 +272,15 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 | [Speech](text-to-speech/speech.md) | Generate spoken audio from text for narration, voiceovers, prompts, or accessibility reads. |
 | [Fal Audio](text-to-speech/fal-audio.md) | Convert text to speech and transcribe audio using fal.ai models. |
 | [Podcast Generation](text-to-speech/podcast-generation.md) | Generate spoken audio from text using Azure OpenAI Realtime API. No editing or mixing. |
+
+## Text-To-Video
+
+| Template | What it does |
+|---|---|
+| [Video Lecture Production Assistant](../education/text-to-video/video-lecture-production-assistant.md) | Produces complete video lectures from script to delivery for eLearning developers. |
+| [HyperFrames Ad Director](../marketing/text-to-video/hyperframes-ad-director.md) | Turns a marketing brief into a finished short-form video ad with hook, script, storyboard, and platform cuts. |
+| [Markdown Narrated Video](text-to-video/markdown-narrated-video.md) | Turns a Markdown document into a narrated MP4 video with matching slides and voice-over. |
+| [Video Frame Generator](text-to-video/video-frame-generator.md) | Turns your script into a cinematic, auto-playing video frame sequence. |
 
 ## Generative AI and LLM
 
@@ -278,20 +297,6 @@ Designers, artists and content creators. **533 ready-made Grok Bot templates** f
 | [Hig Project Context](knowledge-management/hig-project-context.md) | Create or update a shared Apple design context document for HIG capabilities. |
 | [Video Archive Organizer](knowledge-management/video-archive-organizer.md) | Organizes your video archive with tags, metadata, summaries, and duplicate checks. |
 | [Digital Asset Management Organizer](knowledge-management/digital-asset-management-organizer.md) | Organize, tag, track, and manage digital assets with a complete DAM workflow assistant. |
-
-## Text-To-Video
-
-| Template | What it does |
-|---|---|
-| [Video Lecture Production Assistant](../education/text-to-video/video-lecture-production-assistant.md) | Produces complete video lectures from script to delivery for eLearning developers. |
-| [HyperFrames Ad Director](../marketing/text-to-video/hyperframes-ad-director.md) | Turns a marketing brief into a finished short-form video ad with hook, script, storyboard, and platform cuts. |
-| [Video Frame Generator](text-to-video/video-frame-generator.md) | Turns your script into a cinematic, auto-playing video frame sequence. |
-
-## Prompt Engineering
-
-| Template | What it does |
-|---|---|
-| [Enhance Prompt](../it-and-development/prompt-engineering/enhance-prompt.md) | Turns vague UI ideas into structured, Stitch-optimized prompts with design system context. |
 
 ## Sales & Negotiation
 

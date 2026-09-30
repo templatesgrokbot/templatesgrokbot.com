@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **664 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **695 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,18 +11,18 @@ Scientists, analysts and academic researchers. **664 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 244 |
-| [Research](research/README.md) | 199 |
+| [Data Analysis](data-analysis/README.md) | 257 |
+| [Research](research/README.md) | 211 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 70 |
 | [Coding](coding/README.md) | 40 |
-| [Security & Compliance](security-and-compliance/README.md) | 35 |
+| [Security & Compliance](security-and-compliance/README.md) | 36 |
 | [Writing & Content](writing-and-content/README.md) | 16 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 14 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 15 |
 | [Productivity](productivity/README.md) | 14 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
 | [Design](design/README.md) | 6 |
-| [Knowledge Management](knowledge-management/README.md) | 3 |
-| [Office Tools](office-tools/README.md) | 2 |
+| [Knowledge Management](knowledge-management/README.md) | 5 |
+| [Office Tools](office-tools/README.md) | 4 |
 | [Self-Improvement](self-improvement/README.md) | 2 |
 | [Support & Community](support-and-community/README.md) | 2 |
 | [Generative Art](generative-art/README.md) | 1 |
@@ -42,10 +42,10 @@ Scientists, analysts and academic researchers. **664 ready-made Grok Bot templat
 | [Plotly](../it-and-development/data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
 | [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
-| [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 | [Polars](../it-and-development/data-analysis/polars.md) | High-performance DataFrame operations using Polars with lazy evaluation and parallel execution. |
+| [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 
-[All 244 Data Analysis templates →](data-analysis/README.md)
+[All 257 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
@@ -53,14 +53,14 @@ Scientists, analysts and academic researchers. **664 ready-made Grok Bot templat
 |---|---|
 | [Labarchive Integration](research/labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
 | [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
-| [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
+| [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
 | [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Task Researcher](../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 
-[All 199 Research templates →](research/README.md)
+[All 211 Research templates →](research/README.md)
 
 ## Generative AI and LLM
 
@@ -105,7 +105,7 @@ Scientists, analysts and academic researchers. **664 ready-made Grok Bot templat
 | [Consultant Compliance Research](security-and-compliance/consultant-compliance-research.md) | Environmental compliance research, audits, permits, training, and reporting support for consultants. |
 | [Environmental Monitoring Manager](security-and-compliance/environmental-monitoring-manager.md) | Environmental monitoring assistant for laboratory managers, from data collection to compliance and audits. |
 
-[All 35 Security & Compliance templates →](security-and-compliance/README.md)
+[All 36 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Writing & Content
 
@@ -131,11 +131,11 @@ Scientists, analysts and academic researchers. **664 ready-made Grok Bot templat
 | [Web Scraper](../it-and-development/cloud-and-devops/web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
 | [Remote Gpu Trainer](../it-and-development/cloud-and-devops/remote-gpu-trainer.md) | Deploy, monitor, and debug long GPU jobs on rented instances with safe teardown and resumable checkpoints. |
 | [Azure Ai Projects Java](../it-and-development/cloud-and-devops/azure-ai-projects-java.md) | Manage Azure AI Foundry projects via Java SDK for connections, datasets, indexes, and evaluations. |
+| [NOAA Radar Satellite Fetcher](cloud-and-devops/noaa-radar-satellite-fetcher.md) | Fetches NOAA NEXRAD radar and GOES satellite files by exact site, product, sector, and scan time. |
 | [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [Unified Memory Thermal Planner](../it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
-| [Azure Compute Batch Java](../it-and-development/cloud-and-devops/azure-compute-batch-java.md) | Run HPC and parallel batch jobs on Azure with Java SDK |
 
-[All 14 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 15 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Productivity
 
@@ -163,7 +163,7 @@ Scientists, analysts and academic researchers. **664 ready-made Grok Bot templat
 | [Laboratory Training and Onboarding Assistant](teaching-and-tutoring/laboratory-training-and-onboarding-assistant.md) | Designs and manages lab training and onboarding from materials to evaluation. |
 | [Machine Learning Project Advisor](../it-and-development/teaching-and-tutoring/machine-learning-project-advisor.md) | Guides data analysts through machine learning projects from preprocessing to deployment. |
 | [Reinforcement Learning Strategist](teaching-and-tutoring/reinforcement-learning-strategist.md) | Designs and explains reinforcement learning strategies for data scientists, from theory to applied systems. No hype, just the math and the build. |
-| [Chemical Engineering Study Assistant](teaching-and-tutoring/chemical-engineering-study-assistant.md) | Supports chemical engineering students and professionals with study help, research, and career guidance. |
+| [Yann LeCun Debate](../education/teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
 
 [All 11 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
@@ -185,13 +185,17 @@ Scientists, analysts and academic researchers. **664 ready-made Grok Bot templat
 | [Compile Knowledge](../it-and-development/knowledge-management/compile-knowledge.md) | Compile durable, non-obvious findings into interlinked markdown knowledge files with an index. |
 | [Data Storage and Management Assistant](knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
 | [Laboratory SOP Manager](knowledge-management/laboratory-sop-manager.md) | Creates, reviews, and manages lab SOPs with version control and compliance checks. |
+| [Knowledge Network Steward](knowledge-management/knowledge-network-steward.md) | Turns your notes into an atomic, well-linked knowledge network and closes every task with a validation pass. |
+| [PDF Document Analyst](../legal/knowledge-management/pdf-document-analyst.md) | Answers questions about your PDFs, summarizes them, and extracts specific data with page citations. |
 
 ## Office Tools
 
 | Template | What it does |
 |---|---|
 | [Excel Spreadsheets](../operations/office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
+| [Excel Automation](../finance/office-tools/excel-automation.md) | Automates live Excel workbooks and reports through xlwings, with every write and export approved first. |
 | [Swiss International Deck Builder](office-tools/swiss-international-deck-builder.md) | Turns your content into a strict Swiss International style HTML deck with locked layouts. |
+| [PDF Table Extractor](../finance/office-tools/pdf-table-extractor.md) | Extracts tables from PDFs into clean spreadsheets, checking accuracy and flagging anything doubtful. |
 
 ## Self-Improvement
 

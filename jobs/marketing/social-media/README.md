@@ -1,16 +1,18 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 68 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 80 Grok Bot templates, 63 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Audience Engagement Planner](audience-engagement-planner.md) | Plans and drafts audience engagement content for social media coordinators. |
+| [Bilibili Content Strategist](bilibili-content-strategist.md) | Plans Bilibili content strategy, danmaku design, and packaging for UP主 growth. |
 | [Blog Social Media Integrator](../../writers/social-media/blog-social-media-integrator.md) | Plan, publish, and grow your blog's social media presence across platforms from one chat. |
 | [Brand Reputation Monitor](brand-reputation-monitor.md) | Monitors brand sentiment, trends, competitors, and crises on social media, delivering reports and alerts. |
 | [Brand Reputation Sentinel](../../sales/social-media/brand-reputation-sentinel.md) | Monitors and manages your brand's online reputation across platforms. |
 | [Brand Voice and Messaging Assistant](brand-voice-and-messaging-assistant.md) | Crafts and keeps your brand's voice consistent across social media, from captions to strategy. |
+| [Carousel Growth Engine](carousel-growth-engine.md) | Turns a website into a 6-slide TikTok and Instagram carousel, publishes it, and learns from the results. |
 | [Community Engagement Assistant](community-engagement-assistant.md) | Builds and nurtures online communities through engagement, content, and recognition. |
 | [Community Engagement Planner](community-engagement-planner.md) | Builds and nurtures online communities through content, engagement, and member programs. |
 | [Content Calendar Organizer](content-calendar-organizer.md) | Plans and organizes your social media content calendar with research, creation, and scheduling support. |
@@ -25,6 +27,7 @@ Plan, write and measure posts across networks. 68 Grok Bot templates, 51 of them
 | [Influencer ROI Partnership Planner](influencer-roi-partnership-planner.md) | Manages influencer collaborations from research to ROI measurement. |
 | [Instagram Automation](instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [instagram connector liker follower commenter](instagram-connector-liker-follower-commenter.md) | Automate Instagram engagement: like, follow, and comment on public posts from a signed-in browser. |
+| [Instagram Content Curator](instagram-content-curator.md) | Plans Instagram content, tracks performance against targets, and drafts posts for your approval. |
 | [Instagram Manager](instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
 | [Linkedin Automation](linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
 | [Linkedin Cli](linkedin-cli.md) | Automate LinkedIn tasks like profile fetching, messaging, and posting via CLI. |
@@ -34,6 +37,7 @@ Plan, write and measure posts across networks. 68 Grok Bot templates, 51 of them
 | [Platform Strategy Developer](platform-strategy-developer.md) | Develops platform-specific social media strategies from content to ads to analytics. |
 | [Presence Audit Optimizer](../../pr-and-communications/social-media/presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |
 | [Reddit Automation](reddit-automation.md) | Search, post, comment, and browse Reddit via Rube MCP. |
+| [Reddit Community Builder](reddit-community-builder.md) | Builds authentic Reddit presence through value-first engagement, tracked and reported without spam. |
 | [Seo Keyword Strategist](seo-keyword-strategist.md) | Analyzes keyword density, entities, and LSI for content optimization. |
 | [Social Content](social-content.md) | Creates, schedules, and optimizes content across LinkedIn, Twitter/X, Instagram, TikTok, and Facebook. |
 | [Social Content Scheduling Planner](social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
@@ -52,6 +56,7 @@ Plan, write and measure posts across networks. 68 Grok Bot templates, 51 of them
 | [Social Media SEO Optimizer](social-media-seo-optimizer.md) | Optimizes social media content for search engines and tracks SEO performance. |
 | [Social Media Strategy Architect](../../executives-and-strategy/social-media/social-media-strategy-architect.md) | Builds and refines your social media strategy from audit to reporting. |
 | [Social Media Strategy Assistant](../../executives-and-strategy/social-media/social-media-strategy-assistant.md) | Plans, creates, schedules, and analyzes social media for CMOs. |
+| [Social Media Strategy Manager](social-media-strategy-manager.md) | Builds and runs a social media strategy: platform picks, content pillars, calendars, and engagement rules. |
 | [Social Media Strategy Optimizer](../../sales/social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Social Media Trend Analyst](social-media-trend-analyst.md) | Tracks social media trends and turns them into reports, content, and campaign plans. |
 | [Social Orchestrator](social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |
@@ -60,6 +65,7 @@ Plan, write and measure posts across networks. 68 Grok Bot templates, 51 of them
 | [Socialclaw](socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
 | [Taisly Social Media Posting](taisly-social-media-posting.md) | Prepare and publish approved short-form videos across major social platforms. Requires explicit user approval before any posting action. |
 | [Tiktok Automation](tiktok-automation.md) | Upload, publish, and manage TikTok videos and photos via Composio's TikTok toolkit. |
+| [TikTok Content Planner](tiktok-content-planner.md) | Plans TikTok content, drafts scripts and captions, and reports performance from your own account data. |
 | [Twitter Ai Influencer Manager](twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
 | [Twitter Automation](twitter-automation.md) | Automate Twitter/X posts, search, users, bookmarks, lists, and media via Rube MCP. |
 | [Twitter Share Card Maker](twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |
@@ -68,11 +74,17 @@ Plan, write and measure posts across networks. 68 Grok Bot templates, 51 of them
 | [Visual Content Advisor](visual-content-advisor.md) | Advises social media managers on visual content, from ideas to optimization. |
 | [Visual Storytelling Campaign Planner](visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
 | [Vocal Artist Social Media](../../creatives/social-media/vocal-artist-social-media.md) | Plans, creates, and analyzes social media for vocal artists and singer-songwriters. |
+| [WeChat Account Publisher](wechat-account-publisher.md) | Publishes your articles and image-text posts to a WeChat Official Account. |
+| [Weibo Campaign Strategist](weibo-campaign-strategist.md) | Plans Weibo campaigns, tracks trending topics, and drafts posts for your approval. |
+| [Weibo Post Publisher](weibo-post-publisher.md) | Fills Weibo posts and headline articles into your browser so you review and publish them yourself. |
 | [Whatsapp Automation](whatsapp-automation.md) | Automate WhatsApp Business messaging, templates, media, and contacts via Rube MCP. |
 | [X Article Publisher](x-article-publisher-skill.md) | Publish articles to X/Twitter with formatted posts and media. |
 | [X Brief](x-brief.md) | Connects to X, analyzes your recent posts to identify your beat, and flags relevant events with a daily wrap-up. |
+| [X Growth Engine](x-growth-engine.md) | Grows your X/Twitter audience with audited profiles, engineered threads, and measured engagement. |
+| [X Publishing Assistant](x-publishing-assistant.md) | Publishes your text, images, videos, and long-form articles to X after you approve the final post. |
 | [Xiaohongshu Card Deck Generator](xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
 | [Xiaohongshu Content Strategist](xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
+| [Xiaohongshu Lifestyle Marketing](xiaohongshu-lifestyle-marketing.md) | Plans Xiaohongshu lifestyle content, tracks trends, and reports engagement against your own numbers. |
 | [Youtube Automation](youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

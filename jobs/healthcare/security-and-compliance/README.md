@@ -1,6 +1,6 @@
 # Security & Compliance templates for Healthcare
 
-Authorised security testing, audits and regulatory work. 29 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 30 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Authorised security testing, audits and regulatory work. 29 Grok Bot templates, 
 | [Fda Food Safety Auditor](../../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
 | [Hazard Drill Compliance Builder](hazard-drill-compliance-builder.md) | Emergency response planning assistant for health and safety specialists — from hazard ID to drills and compliance. |
 | [Health and Safety Policy Assistant](health-and-safety-policy-assistant.md) | Develops, reviews, and improves health and safety policies for your workplace. |
+| [HIPAA Compliance Tracker](../../it-and-development/security-and-compliance/hipaa-compliance-tracker.md) | Tracks HIPAA security, privacy and breach duties for systems handling ePHI. |
 | [Incident Investigation Support Specialist](incident-investigation-support-specialist.md) | Streamlines incident investigations from witness statements to final reports and policy. |
 | [Information Security Manager Iso27001](information-security-manager-iso27001.md) | Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies. |
 | [Laboratory Quality Control Assistant](../../science-and-research/security-and-compliance/laboratory-quality-control-assistant.md) | Manages lab quality control tasks from data analysis to audits and compliance. |

@@ -1,11 +1,12 @@
 # Video Editing templates for Creatives
 
-Cut, caption and polish video. 20 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Cut, caption and polish video. 23 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Animated Caption Builder](animated-caption-builder.md) | Turns video and audio into timed captions and renders them as animated on-screen text. |
 | [Audio Quality Controller](audio-quality-controller.md) | Analyzes and enhances audio files to broadcast-quality standards with detailed reports. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Audio Sync Assistant](audio-sync-assistant.md) | Aligns audio with video for editors, from manual fixes to automated sync tools. |
 | [Color Correction Guidance Assistant](color-correction-guidance-assistant.md) | Guides video editors through color correction with tailored advice, workflows, and resources. |
@@ -16,10 +17,12 @@ Cut, caption and polish video. 20 Grok Bot templates, 19 of them filed in this f
 | [Royalty-Free Resource Finder](royalty-free-resource-finder.md) | Finds and organizes royalty-free images, music, footage, fonts, graphics, and more for video projects. |
 | [Screenstudio Alt](screenstudio-alt.md) | Auto-speed idle, zoom on clicks, overlay keys & cursor, export vertical from CLI. |
 | [Script Breakdown Analyst](script-breakdown-analyst.md) | Script breakdown assistant for video editors, turning scripts into production-ready breakdowns and edit insights. |
+| [Short Video Editing Coach](short-video-editing-coach.md) | Coaches short-video editing decisions from shot choice through color, audio, subtitles and export. |
 | [Social Media Clip Creator](social-media-clip-creator.md) | Transforms video content into platform-optimized clips with proper cropping, subtitles, thumbnails, and encoding. |
 | [Storyboard Planning Assistant](storyboard-planning-assistant.md) | Turns scripts into visual storyboards with shot lists, timelines, and planning docs. |
 | [Timestamp Precision Specialist](timestamp-precision-specialist.md) | Extracts frame-accurate timestamps for clean podcast cuts using waveform and silence analysis. |
 | [Transition Effects Advisor](transition-effects-advisor.md) | Suggests and guides video transition effects to match your project's tone and flow. |
+| [Vertical Shorts Editor](vertical-shorts-editor.md) | Turns a local recording into a captioned 9:16 vertical short inside Palmier Pro. |
 | [Video Compression Optimizer](video-compression-optimizer.md) | Optimizes video compression for quality, file size, and platform requirements. |
 | [Video Downloader](video-downloader.md) | Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. |
 | [Video Editor](video-editor.md) | Edits video clips into professional sequences using FFmpeg commands. No previews, no GUI, just cuts and effects. You describe the edit; it writes the |

@@ -1,6 +1,6 @@
 # Data Analysis templates for Executives and Strategy
 
-Clean, query, chart and explain data. 256 Grok Bot templates, 165 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 266 Grok Bot templates, 168 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,6 +25,7 @@ Clean, query, chart and explain data. 256 Grok Bot templates, 165 of them filed 
 | [Campaign Performance Analyst](campaign-performance-analyst.md) | Analyzes campaign data, calculates ROI, and delivers actionable insights for marketing decisions. |
 | [Capital Expenditure Analysis Assistant](../../finance/data-analysis/capital-expenditure-analysis-assistant.md) | Analyzes capital expenditures, calculates returns, and prepares investment recommendations for finance directors. |
 | [Capital Expenditure Planning Assistant](capital-expenditure-planning-assistant.md) | Analyzes, forecasts, and optimizes capital expenditure plans for a VP of Finance. |
+| [Capital Investment Advisor](../../finance/data-analysis/capital-investment-advisor.md) | Evaluates capital spending decisions with ROI, payback, NPV and IRR, and gives a clear recommendation. |
 | [Capital Structure Optimizer](capital-structure-optimizer.md) | Optimizes your company's capital structure with data-driven analysis and strategic recommendations. |
 | [Cash Flow Analysis Assistant](../../finance/data-analysis/cash-flow-analysis-assistant.md) | Analyzes cash flow data, forecasts, and reports to support CFO financial decisions. |
 | [Cash Flow Optimizer](cash-flow-optimizer.md) | Analyzes cash flow data to forecast, optimize, and report for financial health. |
@@ -34,10 +35,14 @@ Clean, query, chart and explain data. 256 Grok Bot templates, 165 of them filed 
 | [CFO Cost Savings Finder](../../finance/data-analysis/cfo-cost-savings-finder.md) | Analyzes company costs and identifies savings opportunities across all spending areas. |
 | [CFO Financial Statement Analyzer](../../finance/data-analysis/cfo-financial-statement-analyzer.md) | Prepares financial statements, analyzes data, and ensures compliance for CFOs. |
 | [CFO Investment Decision Support](../../finance/data-analysis/cfo-investment-decision-support.md) | Investment analysis assistant for CFOs, covering valuation, risk, portfolio, and strategy. |
+| [CFO Plan Review](../../finance/data-analysis/cfo-plan-review.md) | Stress-tests any plan that commits meaningful spend with six CFO questions and a green, yellow or red verdict. |
 | [CFO Risk Intelligence Report](../../finance/data-analysis/cfo-risk-intelligence-report.md) | Identifies, assesses, and reports financial risks for CFOs. |
 | [CFO Tax Planning Assistant](../../finance/data-analysis/cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
+| [Channel Economics Review](../../finance/data-analysis/channel-economics-review.md) | Works out what each sales channel really costs and which ones deserve more or less investment. |
+| [Chief Financial Officer](../../finance/data-analysis/chief-financial-officer.md) | Governs capital allocation, treasury, forecasting and board reporting so financial decisions are defensible. |
 | [Client Feedback Insight Engine](../../sales/data-analysis/client-feedback-insight-engine.md) | Turns client feedback into categorized, sentiment-scored insights with trend, churn, and competitive analysis for sales VPs. |
 | [CMO Insight Builder](cmo-insight-builder.md) | Turns marketing data into clear insights, reports, and strategic recommendations for CMOs. |
+| [Commercial Forecast Builder](../../sales/data-analysis/commercial-forecast-builder.md) | Builds a three-tier bookings forecast with cohort retention and per-stage confidence, assumptions disclosed. |
 | [Competitive Strategy Analyst](competitive-strategy-analyst.md) | Turns raw market data into competitor intelligence and strategy for VPs. |
 | [Competitive Supply Chain Intel](competitive-supply-chain-intel.md) | Supply chain analysis assistant for competitive intelligence analysts: suppliers, cost, risk, demand, compliance, sustainability, logistics, and… |
 | [Competitive SWOT Analyst](competitive-swot-analyst.md) | Turns market and internal data into a complete SWOT analysis with strategy and risk guidance. |
@@ -78,6 +83,7 @@ Clean, query, chart and explain data. 256 Grok Bot templates, 165 of them filed 
 | [Data-Driven Innovation Strategist](data-driven-innovation-strategist.md) | Turns your data into decisions: analysis, prediction, and strategy for the Chief Digital Officer. |
 | [Deal Lifecycle Strategist](deal-lifecycle-strategist.md) | Streamlines M&A analysis from due diligence to post-merger monitoring. |
 | [Debt Management Strategist](debt-management-strategist.md) | Analyzes, plans, and monitors your company's debt portfolio, from refinancing to compliance. |
+| [Decision Post-Mortem Review](decision-post-mortem-review.md) | Scores an executed decision against its pre-committed success and kill criteria and revisits the recorded dissent. |
 | [Digital Marketing Trends Analyst](digital-marketing-trends-analyst.md) | Analyzes digital marketing data across channels to deliver actionable insights and trend forecasts. |
 | [Digital Performance Analytics Advisor](digital-performance-analytics-advisor.md) | Performance analytics companion for CDOs: from data gathering to reporting and optimization. |
 | [Director Productivity Insight](director-productivity-insight.md) | Analyzes employee productivity data and delivers actionable insights for managing directors. |
@@ -183,6 +189,7 @@ Clean, query, chart and explain data. 256 Grok Bot templates, 165 of them filed 
 | [Operations Trend Decoder](../../operations/data-analysis/operations-trend-decoder.md) | Delivers market trend analysis for VP of Operations decisions. |
 | [Operations Trend Strategist](../../operations/data-analysis/operations-trend-strategist.md) | Market trend analysis and strategic insights for Heads of Operations. |
 | [Operations Voice Decoder](../../operations/data-analysis/operations-voice-decoder.md) | Turns customer feedback into clear insights and improvement plans for operations leaders. |
+| [Organizational Health Diagnostic](organizational-health-diagnostic.md) | Scores eight dimensions of company health on a traffic-light scale and flags what to fix first. |
 | [Patent Portfolio Analyst](../../legal/data-analysis/patent-portfolio-analyst.md) | Analyzes patent portfolios for value, risk, and strategic opportunities. |
 | [Patent Valuation Analyst](../../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Performance Management System Architect](performance-management-system-architect.md) | Designs and runs your performance management system from reviews to succession planning. |
@@ -210,10 +217,12 @@ Clean, query, chart and explain data. 256 Grok Bot templates, 165 of them filed 
 | [Risk Manager](../../finance/data-analysis/risk-manager.md) | Quantifies portfolio risk, sets position limits, and designs hedging strategies. |
 | [Risk Metrics Calculation](../../finance/data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
 | [Risk Radar for Strategy Execs](risk-radar-for-strategy-execs.md) | Turns risk data into prioritized insights, mitigation plans, and monitoring for an EVP of Strategy. |
+| [SaaS Revenue Advisor](../../finance/data-analysis/saas-revenue-advisor.md) | Builds and audits your B2B SaaS revenue engine: forecasts, NRR, pricing, and sales capacity. |
 | [Sales Forecasting Intelligence Hub](../../sales/data-analysis/sales-forecasting-intelligence-hub.md) | Turns sales data into forecasts, benchmarks, and actionable plans for a Vice President of Sales. |
 | [Sales Leadership Feedback Analyst](sales-leadership-feedback-analyst.md) | Turns customer feedback into actionable insights for sales leadership. |
 | [Sales Performance Metrics Analyst](sales-performance-metrics-analyst.md) | Analyzes sales performance data to deliver insights, forecasts, and reports for strategic decisions. |
 | [Sales Segment Architect](sales-segment-architect.md) | Turns customer data into actionable segments and targeted sales strategies. |
+| [Scenario War Room](scenario-war-room.md) | Models compound what-if scenarios across every business function and hands back hedges, triggers, and a decision. |
 | [School Budget Analysis Assistant](../../education/data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
 | [School Data Insights Assistant](../../education/data-analysis/school-data-insights-assistant.md) | Turns your school's data into clear insights and decisions you can act on confidently. |
 | [Segment Strategy Architect](segment-strategy-architect.md) | Turns customer data into actionable segments, profiles, and strategies for Directors of Strategy. |
@@ -222,6 +231,7 @@ Clean, query, chart and explain data. 256 Grok Bot templates, 165 of them filed 
 | [Social Media Analytics Insight Engine](social-media-analytics-insight-engine.md) | Turns social media data into actionable marketing insights for a global head of marketing. |
 | [Startup Analyst](startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Startup Business Analyst Financial Projections](../../finance/data-analysis/startup-business-analyst-financial-projections.md) | Build 3-5 year financial models with revenue, costs, cash, and scenarios for startups. |
+| [Startup CFO Advisor](../../finance/data-analysis/startup-cfo-advisor.md) | Turns your startup's numbers into runway, unit economics, and fundraising decisions. |
 | [Startup Financial Modeling](../../finance/data-analysis/startup-financial-modeling.md) | Build 3-5 year financial models with revenue, cost, cash flow, and scenario planning for startups. |
 | [Startup Metrics Framework](startup-metrics-framework.md) | Track and optimize startup KPIs from seed through Series A. |
 | [Stock Insight Optimizer](stock-insight-optimizer.md) | Tracks, analyzes, and optimizes inventory with real-time insights and reports. |

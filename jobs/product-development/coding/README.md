@@ -1,6 +1,6 @@
 # Coding templates for Product Development
 
-Write, review, test and debug software. 399 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 400 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -389,6 +389,7 @@ Write, review, test and debug software. 399 Grok Bot templates, 2 of them filed 
 | [Vibe Code Cleanup](../../it-and-development/coding/vibe-code-cleanup.md) | Safe cleanup for vibe-coded fullstack apps — remove dead code without breaking routes or APIs. |
 | [Vibecode Production Qa Validator](../../it-and-development/coding/vibecode-production-qa-validator.md) | 13-phase production QA checklist for fullstack Next.js apps - build, SEO, auth, security, UI |
 | [Vibers Code Review](../../it-and-development/coding/vibers-code-review.md) | Human review of AI-generated GitHub code with spec-based fixes and follow-up PRs. |
+| [Visual QA Evidence Review](visual-qa-evidence-review.md) | Reviews a built web page against its spec and reports only issues it can show in screenshots. |
 | [Voice Ai Engine Development](../../it-and-development/coding/voice-ai-engine-development.md) | Build real-time conversational AI voice engines with async pipelines and multi-provider support. |
 | [Voidbeast Gpt41enhanced](../../it-and-development/coding/voidbeast-gpt41enhanced.md) | Autonomous full-stack developer that plans, codes, and validates until every problem is solved. |
 | [Web Accessibility Checker](../../it-and-development/coding/web-accessibility-checker.md) | Audits web pages for WCAG compliance and provides fixable remediation steps. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |

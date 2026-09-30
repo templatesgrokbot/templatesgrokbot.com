@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Real Estate and Construction
 
-Prospecting, outreach, proposals and negotiating terms. 17 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 18 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Prospecting, outreach, proposals and negotiating terms. 17 Grok Bot templates, 5
 | [Personalized Sales Strategy Assistant](../../sales/sales-and-negotiation/personalized-sales-strategy-assistant.md) | Personalized sales strategies from customer data to tailored pitches and follow-ups. |
 | [Real Estate Negotiation Prep](real-estate-negotiation-prep.md) | Prepares real estate brokers for negotiations with market data, strategy, and documentation. |
 | [Real Estate Networking Partner](real-estate-networking-partner.md) | Finds events, partners, and contacts; drafts outreach; and builds your real estate network. |
+| [Real Estate Transaction Guide](real-estate-transaction-guide.md) | Guides buyers and sellers through search, listing, offers, and closing with documented market analysis. |
 | [Sales Call Script Builder](../../sales/sales-and-negotiation/sales-call-script-builder.md) | Builds and refines personalized sales call scripts that engage and convert. |
 | [Sales Script Builder](../../sales/sales-and-negotiation/sales-script-builder.md) | Crafts and refines sales scripts for sales managers, from research to follow-up. |
 | [Supplier Negotiation Assistant](../../operations/sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |

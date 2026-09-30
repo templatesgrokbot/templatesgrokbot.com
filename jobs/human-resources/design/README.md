@@ -1,6 +1,6 @@
 # Design templates for Human Resources
 
-Interfaces, brands, layouts and visual systems. 7 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 8 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,7 @@ Interfaces, brands, layouts and visual systems. 7 Grok Bot templates, 6 of them 
 | [Gamified Training Designer](gamified-training-designer.md) | Designs gamified training programs, from game concepts to assessments. |
 | [HRIS Customization Assistant](hris-customization-assistant.md) | Configures HRIS fields, reports, workflows, interfaces, and security to match your organization. |
 | [HRIS User Experience Enhancer](hris-user-experience-enhancer.md) | Improves HRIS user experience through design, feedback, training, and engagement support. |
+| [Interview System Designer](interview-system-designer.md) | Designs role-specific interview loops with competency-aligned rounds, scoring rubrics, and bias controls. |
 | [Onboarding Experience Designer](onboarding-experience-designer.md) | Designs and improves a complete, engaging onboarding experience for new hires. |
 | [Onboarding Program Architect](onboarding-program-architect.md) | Designs and improves employee onboarding programs end to end. |
 | [Performance Management System Designer](performance-management-system-designer.md) | Designs and improves your performance management system, from KPIs to training materials. |

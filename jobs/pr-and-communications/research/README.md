@@ -1,11 +1,12 @@
 # Research templates for PR and Communications
 
-Find sources, compare evidence and summarise what is known. 17 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 18 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Brand Mention Authority Scanner](../../marketing/research/brand-mention-authority-scanner.md) | Scans where your brand is mentioned across AI-indexed platforms and scores its authority. |
 | [Brand Perception Study Assistant](../../management/research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Competitive Ads Extractor](../../marketing/research/competitive-ads-extractor.md) | Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns. |
 | [Competitive Analysis Analyst](competitive-analysis-analyst.md) | Turns competitor data into strategic insights to outmaneuver rivals. |

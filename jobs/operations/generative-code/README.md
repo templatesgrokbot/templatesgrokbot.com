@@ -1,6 +1,6 @@
 # Generative Code templates for Operations
 
-Scaffold apps, components and whole projects from a brief. 8 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 9 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Scaffold apps, components and whole projects from a brief. 8 Grok Bot templates,
 | [Macos Spm App Packaging](../../it-and-development/generative-code/macos-spm-app-packaging.md) | Scaffold, build, sign, and package SwiftPM macOS apps without Xcode. |
 | [N8n Node Configuration](../../it-and-development/generative-code/n8n-node-configuration.md) | Configure n8n nodes with operation-aware property dependencies. |
 | [Odoo Edi Connector](../../it-and-development/generative-code/odoo-edi-connector.md) | Map EDI X12/EDIFACT to Odoo objects and automate B2B document flows. |
+| [OrgScript Process Modeler](orgscript-process-modeler.md) | Turns plain-language business processes into validated OrgScript models with diagrams and summaries. |
 | [Python Pptx Generator](../../it-and-development/generative-code/python-pptx-generator.md) | Generate complete Python scripts that build polished PowerPoint decks with python-pptx. |
 | [Sticky Flowchart Builder](sticky-flowchart-builder.md) | Turns a workflow into a whiteboard-style sticky note flowchart. |
 | [Webflow Automation](../../it-and-development/generative-code/webflow-automation.md) | Automate Webflow CMS, publishing, pages, assets, and ecommerce via Rube MCP. |

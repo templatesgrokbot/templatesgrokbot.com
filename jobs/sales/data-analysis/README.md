@@ -1,6 +1,6 @@
 # Data Analysis templates for Sales
 
-Clean, query, chart and explain data. 93 Grok Bot templates, 69 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 97 Grok Bot templates, 73 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Clean, query, chart and explain data. 93 Grok Bot templates, 69 of them filed in
 | [Churn Radar](churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
 | [Client Feedback Insight Engine](client-feedback-insight-engine.md) | Turns client feedback into categorized, sentiment-scored insights with trend, churn, and competitive analysis for sales VPs. |
 | [Client Health Dashboard](../../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
+| [Commercial Forecast Builder](commercial-forecast-builder.md) | Builds a three-tier bookings forecast with cohort retention and per-stage confidence, assumptions disclosed. |
 | [CRM Data Cleanup](crm-data-cleanup.md) | Cleans up CRM exports by finding duplicates, normalizing fields, and producing a reviewable merge plan. |
 | [CRM Data Interpretation Assistant](crm-data-interpretation-assistant.md) | Turns CRM data into clear sales insights and forecasts for sales managers. |
 | [CRM Optimization Assistant](../../executives-and-strategy/data-analysis/crm-optimization-assistant.md) | Optimizes your CRM with data cleaning, segmentation, scoring, forecasting, and automation. |
@@ -73,6 +74,7 @@ Clean, query, chart and explain data. 93 Grok Bot templates, 69 of them filed in
 | [Sales Campaign Effectiveness Analyst](sales-campaign-effectiveness-analyst.md) | Analyzes sales datarolling across campaigns to surface what works and where to improve. |
 | [Sales Channel Optimization Analyst](sales-channel-optimization-analyst.md) | Optimizes sales channels with data-driven insights and strategic recommendations. |
 | [Sales Data Coach](sales-data-coach.md) | Turns your sales data into performance insights, forecasts, and coaching for your team. |
+| [Sales Data Extraction](sales-data-extraction.md) | Watches your sales spreadsheets and extracts MTD, YTD and year-end metrics into a clean report. |
 | [Sales Data Insight Engine](sales-data-insight-engine.md) | Turns your sales data into forecasts, segments, and dashboards for smarter decisions. |
 | [Sales Data Insights Assistant](sales-data-insights-assistant.md) | Turns raw sales data into clean, analyzed, and visualized insights for strategic decisions. |
 | [Sales Feedback Action Planner](sales-feedback-action-planner.md) | Turns customer feedback into sales insights, trends, and actions. |
@@ -88,6 +90,7 @@ Clean, query, chart and explain data. 93 Grok Bot templates, 69 of them filed in
 | [Sales Performance Analyst](sales-performance-analyst.md) | Turns sales data into performance insights, forecasts, and coaching for sales teams. |
 | [Sales Performance Metrics Analyst](../../executives-and-strategy/data-analysis/sales-performance-metrics-analyst.md) | Analyzes sales performance data to deliver insights, forecasts, and reports for strategic decisions. |
 | [Sales Performance Tracking Assistant](sales-performance-tracking-assistant.md) | Turns your sales data into targets, forecasts, dashboards, and review reports. |
+| [Sales Pipeline Analyst](sales-pipeline-analyst.md) | Turns your CRM pipeline into deal health scores, coverage ratios and a confidence-ranged forecast. |
 | [Sales Segment Architect](../../executives-and-strategy/data-analysis/sales-segment-architect.md) | Turns customer data into actionable segments and targeted sales strategies. |
 | [Sales Strategy Trend Advisor](sales-strategy-trend-advisor.md) | Turns market data into trend insights, forecasts, and sales strategy recommendations. |
 | [Sales Strategy Trend Analyst](sales-strategy-trend-analyst.md) | Turns market data into trend insights, forecasts, and sales strategy recommendations. |
@@ -99,5 +102,6 @@ Clean, query, chart and explain data. 93 Grok Bot templates, 69 of them filed in
 | [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Web Analytics Monitoring Assistant](web-analytics-monitoring-assistant.md) | Turns your web analytics data into clear insights and actions for better marketing decisions. |
 | [Website Analytics Optimizer](website-analytics-optimizer.md) | Analyzes website data and delivers optimization recommendations for digital marketing specialists. |
+| [Win Loss Pattern Analysis](win-loss-pattern-analysis.md) | Turns your won and lost deals into patterns you can act on. |
 
 [← All Sales templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/sales)

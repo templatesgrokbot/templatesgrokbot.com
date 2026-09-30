@@ -1,12 +1,14 @@
 # Writing & Content templates for Human Resources
 
-Plan, write and edit articles, copy and documentation. 57 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 61 Grok Bot templates, 42 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Academic Cv Builder](../../education/writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
+| [Company Culture Architect](company-culture-architect.md) | Turns company values into observable behaviors, measurable culture health, and rituals that scale. |
+| [Company Narrative Consistency](../../pr-and-communications/writing-and-content/company-narrative-consistency.md) | Keeps one company story consistent across employees, investors, customers, candidates and partners. |
 | [Compliance Communication Planner](../../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Conflict Resolution Advisor](conflict-resolution-advisor.md) | Helps HR directors analyze, resolve, and prevent workplace conflicts with tailored advice and resources. |
 | [Conflict Resolution Assistant](conflict-resolution-assistant.md) | Guides HR managers through conflict resolution from analysis to policy and training. |
@@ -44,8 +46,10 @@ Plan, write and edit articles, copy and documentation. 57 Grok Bot templates, 39
 | [Job Description Optimizer](job-description-optimizer.md) | Optimizes job descriptions to attract the right candidates and improve hiring outcomes. |
 | [Job Post Writer](job-post-writer.md) | Writes honest, effective job posts that attract the right candidates for small businesses. |
 | [Linkedin Profile Optimizer](../../marketing/writing-and-content/linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
+| [Offer Letter Drafter](offer-letter-drafter.md) | Drafts formal employment offer letters with compensation, terms, and an acceptance block for your review. |
 | [Organizational Culture Development Assistant](organizational-culture-development-assistant.md) | Designs and analyzes culture initiatives for global HR leaders. |
 | [Performance Review Template Architect](performance-review-template-architect.md) | Builds and updates performance review templates for HR VPs, from standard to specialized. |
+| [Recruitment Operations Specialist](recruitment-operations-specialist.md) | Runs recruiting operations across Chinese hiring platforms, from JD writing to compliant offers. |
 | [Reference List Builder](reference-list-builder.md) | Formats professional reference lists and prepares reference materials for job applications. |
 | [Remote Work Policy and Engagement Assistant](remote-work-policy-and-engagement-assistant.md) | Builds and maintains remote work policies, guides, and support for HR managers. |
 | [Remote Workforce Management Assistant](../../executives-and-strategy/writing-and-content/remote-workforce-management-assistant.md) | Manages remote workforce engagement, performance, policies, and support for HR leaders. |

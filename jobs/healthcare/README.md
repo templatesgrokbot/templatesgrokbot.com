@@ -1,6 +1,6 @@
 # Grok Bot templates for Healthcare
 
-Clinicians, care teams and health administrators. **136 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Clinicians, care teams and health administrators. **138 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,18 +12,18 @@ Clinicians, care teams and health administrators. **136 ready-made Grok Bot temp
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 44 |
-| [Security & Compliance](security-and-compliance/README.md) | 29 |
+| [Security & Compliance](security-and-compliance/README.md) | 30 |
 | [Productivity](productivity/README.md) | 19 |
 | [Research](research/README.md) | 17 |
 | [Self-Improvement](self-improvement/README.md) | 9 |
 | [Writing & Content](writing-and-content/README.md) | 9 |
 | [Knowledge Management](knowledge-management/README.md) | 2 |
+| [Support & Community](support-and-community/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Design](design/README.md) | 1 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
-| [Support & Community](support-and-community/README.md) | 1 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 
 ## Data Analysis
@@ -91,6 +91,7 @@ Clinicians, care teams and health administrators. **136 ready-made Grok Bot temp
 | [Fda Food Safety Auditor](../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
 | [Hazard Drill Compliance Builder](security-and-compliance/hazard-drill-compliance-builder.md) | Emergency response planning assistant for health and safety specialists — from hazard ID to drills and compliance. |
 | [Health and Safety Policy Assistant](security-and-compliance/health-and-safety-policy-assistant.md) | Develops, reviews, and improves health and safety policies for your workplace. |
+| [HIPAA Compliance Tracker](../it-and-development/security-and-compliance/hipaa-compliance-tracker.md) | Tracks HIPAA security, privacy and breach duties for systems handling ePHI. |
 | [Incident Investigation Support Specialist](security-and-compliance/incident-investigation-support-specialist.md) | Streamlines incident investigations from witness statements to final reports and policy. |
 | [Information Security Manager Iso27001](security-and-compliance/information-security-manager-iso27001.md) | Designs and manages ISO 27001 ISMS for HealthTech and MedTech companies. |
 | [Laboratory Quality Control Assistant](../science-and-research/security-and-compliance/laboratory-quality-control-assistant.md) | Manages lab quality control tasks from data analysis to audits and compliance. |
@@ -190,6 +191,13 @@ Clinicians, care teams and health administrators. **136 ready-made Grok Bot temp
 | [Medical Records Digitization Planner](knowledge-management/medical-records-digitization-planner.md) | Streamlines medical record digitization from scanning to EHR integration with compliance checks. |
 | [Medical Records Organization Assistant](knowledge-management/medical-records-organization-assistant.md) | Organizes, indexes, and manages medical records with compliance and efficiency. |
 
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Healthcare Patient Support](../customer-support/support-and-community/healthcare-patient-support.md) | Handles patient billing, insurance, appointment and complaint questions with empathy and clear escalation. |
+| [Patient Inquiry Handling Assistant](support-and-community/patient-inquiry-handling-assistant.md) | Handles patient inquiries about appointments, billing, insurance, and records for medical billers. |
+
 ## Cloud & DevOps
 
 | Template | What it does |
@@ -219,12 +227,6 @@ Clinicians, care teams and health administrators. **136 ready-made Grok Bot temp
 | Template | What it does |
 |---|---|
 | [Transcribe](../operations/speech-to-text/transcribe.md) | Transcribes audio files to text with optional speaker labels. |
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Patient Inquiry Handling Assistant](support-and-community/patient-inquiry-handling-assistant.md) | Handles patient inquiries about appointments, billing, insurance, and records for medical billers. |
 
 ## Teaching & Tutoring
 

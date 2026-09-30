@@ -1,6 +1,6 @@
 # Writing & Content templates for Writers
 
-Plan, write and edit articles, copy and documentation. 117 Grok Bot templates, 62 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 131 Grok Bot templates, 70 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,10 +18,13 @@ Plan, write and edit articles, copy and documentation. 117 Grok Bot templates, 6
 | [Blog Style Refiner](blog-style-refiner.md) | Refines your blog writing: grammar, style, clarity, and voice, keeping your unique expression. |
 | [Blog Writing Guide](../../marketing/writing-and-content/blog-writing-guide.md) | Draft and edit Sentry blog posts with a senior-engineer voice, technical depth, and zero marketing fluff. |
 | [Blogger Newsletter Studio](blogger-newsletter-studio.md) | Plan, write, design, and optimize your newsletter from research to send. |
+| [Book Co-Author](book-co-author.md) | Turns your voice notes and fragments into structured first-person book chapters. |
 | [Brand Guard](../../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 | [Brand Voice Enforcement](../../marketing/writing-and-content/brand-voice-enforcement.md) | Applies your brand guidelines to every email, pitch deck, and social post. |
 | [Changelog Updates](../../it-and-development/writing-and-content/changelog-updates.md) | Write release notes and changelogs developers actually read, with clear versioning and breaking-change flags. |
 | [Character Development Assistant](character-development-assistant.md) | Develop deep, consistent characters for your script from backstory to transformation. |
+| [Character Psychology Analyst](character-psychology-analyst.md) | Builds psychologically credible characters and relationships grounded in named research frameworks. |
+| [Chinese AI-Smell Editor](chinese-ai-smell-editor.md) | Scores Chinese drafts for AI tells, rewrites them against the specific patterns hit, and reports the before-and-after numbers. |
 | [Collaborative Authoring Guide](collaborative-authoring-guide.md) | Guides technical writers through collaborative authoring from planning to delivery. |
 | [Collaborative Writing Editor](../../pr-and-communications/writing-and-content/collaborative-writing-editor.md) | Guides editors through every stage of collaborative writing projects, from brainstorming to finalization. |
 | [Communication Excellence Coach](../../marketing/writing-and-content/communication-excellence-coach.md) | Review drafts, calibrate tone, roleplay conversations, and improve presentations using proven frameworks. |
@@ -30,6 +33,8 @@ Plan, write and edit articles, copy and documentation. 117 Grok Bot templates, 6
 | [Content Creator](../../marketing/writing-and-content/content-creator.md) | Draft and review audience-specific content using brand examples and channel templates. |
 | [Content Editing Assistant](../../pr-and-communications/writing-and-content/content-editing-assistant.md) | Edits content for grammar, style, clarity, facts, and audience fit. |
 | [Content Idea Generator](content-idea-generator.md) | Generates content ideas, trends, keywords, and formats for writers. |
+| [Content Optimizer](../../marketing/writing-and-content/content-optimizer.md) | Rewrites your existing page copy for clarity, conversion, and search without replacing the offer. |
+| [Content Production Pipeline](../../marketing/writing-and-content/content-production-pipeline.md) | Takes a topic from blank page to publish-ready article, with research, drafting, and optimization. |
 | [Content Repurposing Assistant](content-repurposing-assistant.md) | Repurposes your existing content into fresh formats for wider reach and engagement. |
 | [Content Research Writer](content-research-writer.md) | Research, outline, and refine written content while preserving the author's voice. |
 | [Copy Editing](../../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
@@ -37,6 +42,7 @@ Plan, write and edit articles, copy and documentation. 117 Grok Bot templates, 6
 | [Copywriting Support Assistant](../../pr-and-communications/writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
 | [Crossframe Critical](crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
 | [Crossframe Dialogue](crossframe-dialogue.md) | Short, structured replies for reader questions, editorial responses, and consultation-style answers. |
+| [Customer Case Study Writer](../../marketing/writing-and-content/customer-case-study-writer.md) | Turns customer results into a structured, proof-driven case study with metrics and quotes. |
 | [Dev To Hashnode](../../marketing/writing-and-content/dev-to-hashnode.md) | Publish and cross-post developer content to Dev.to and Hashnode. |
 | [Developer Newsletter](../../marketing/writing-and-content/developer-newsletter.md) | Build and write developer newsletters that get opened and read. |
 | [Dialogue Analysis Assistant](dialogue-analysis-assistant.md) | Analyzes script dialogue for themes, character voice, tone, pacing, and authenticity. |
@@ -48,9 +54,12 @@ Plan, write and edit articles, copy and documentation. 117 Grok Bot templates, 6
 | [Editorial Trend Analyst](../../pr-and-communications/writing-and-content/editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
 | [Email Issue Fixer](../../operations/writing-and-content/email-issue-fixer.md) | Proofread emails and strip tracking from links on request, preserving voice. |
 | [Email Newsletter Writing Assistant](email-newsletter-writing-assistant.md) | Drafts, personalizes, and optimizes email newsletters from topic to performance analysis. |
+| [Feature Announcement Writer](../../marketing/writing-and-content/feature-announcement-writer.md) | Turns a product update into clear announcements for email, in-app, changelog, social and launch pages. |
 | [Game Recap Generator](game-recap-generator.md) | Turn game stats and highlights into engaging recaps for any platform. |
 | [Game Story Development Assistant](../../it-and-development/writing-and-content/game-story-development-assistant.md) | Develops game stories, characters, and worlds with AI assistance. |
 | [Genre-Specific Scriptwriting Assistant](genre-specific-scriptwriting-assistant.md) | Helps scriptwriters craft genre-specific stories with character, plot, dialogue, and world-building guidance. |
+| [Grammar And Flow Editor](grammar-and-flow-editor.md) | Finds grammar, logic, and flow errors in your draft and suggests targeted fixes without rewriting it. |
+| [Grant Proposal Writer](grant-proposal-writer.md) | Researches funders, drafts grant proposals and reports, and tracks every deadline for your organization. |
 | [Headline Crafting Assistant](../../pr-and-communications/writing-and-content/headline-crafting-assistant.md) | Crafts and optimizes headlines for editors using research, testing, and performance data. |
 | [Humanizer](humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Interactive Content Ideas Generator](interactive-content-ideas-generator.md) | Generates and designs interactive content ideas for writers and creators. |
@@ -67,6 +76,7 @@ Plan, write and edit articles, copy and documentation. 117 Grok Bot templates, 6
 | [Media Content Creation Assistant](../../pr-and-communications/writing-and-content/media-content-creation-assistant.md) | Drafts and plans media content—press releases, posts, scripts, and more—for media relations specialists. |
 | [Microsoft Learn Contributor](../../education/writing-and-content/microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
 | [MVP Case Builder](mvp-case-builder.md) | Builds data-backed MVP and awards cases with narratives and counter-arguments. |
+| [Narrative Structure Analyst](narrative-structure-analyst.md) | Analyzes story structure, character arcs and theme using named narrative frameworks. |
 | [Newsletter Content Creator](../../sales/writing-and-content/newsletter-content-creator.md) | Drafts, optimizes, and repurposes newsletter content from research to performance analysis. |
 | [Novel Reverse Importer](novel-reverse-importer.md) | Reverse-import an existing novel into a writable story project structure. |
 | [Novel Writing Router](novel-writing-router.md) | Routes your novel-writing requests to the right tool and manages your author preferences. |
@@ -78,7 +88,9 @@ Plan, write and edit articles, copy and documentation. 117 Grok Bot templates, 6
 | [Podcast Editor](../../creatives/writing-and-content/podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |
 | [Podcast Metadata Specialist](../../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
 | [Portfolio Case Study Writer](../../creatives/writing-and-content/portfolio-case-study-writer.md) | Transforms resume bullets into detailed portfolio case studies with context, action, and outcome. |
+| [PR Communications Manager](../../pr-and-communications/writing-and-content/pr-communications-manager.md) | Drafts press releases, media pitches, and crisis statements for your approval before anything goes out. |
 | [Press Release Writer and Distributor](../../pr-and-communications/writing-and-content/press-release-writer-and-distributor.md) | Drafts, distributes, and analyzes press releases for PR professionals. |
+| [Pricing Page Copywriter](pricing-page-copywriter.md) | Rewrites pricing pages so plans are easy to compare and the right buyer self-selects. |
 | [Professional Proofreader](professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 | [README](../../it-and-development/writing-and-content/readme.md) | Generate thorough README documentation for any project. No code execution. No deployment. No production changes. All changes require your approval. |
 | [Release Notes Drafting Assistant](release-notes-drafting-assistant.md) | Turns raw technical input into clear, consistent, user-ready release notes. |
@@ -113,6 +125,7 @@ Plan, write and edit articles, copy and documentation. 117 Grok Bot templates, 6
 | [Title and Headline Creation Assistant](title-and-headline-creation-assistant.md) | Generates and optimizes titles and headlines for content writers. |
 | [Unslop](unslop.md) | Post-process AI text through unslop CLI to strip AI writing patterns before publishing. |
 | [Unslop File](unslop-file.md) | Rewrite memory files to sound human-written while preserving code, URLs, and headings exactly. |
+| [Upsell Cross-Sell Writer](../../marketing/writing-and-content/upsell-cross-sell-writer.md) | Writes upsell and cross-sell messages for email, in-app, and sales surfaces. |
 | [UX Copy Refiner](../../creatives/writing-and-content/ux-copy-refiner.md) | Rewrites UI microcopy so users instantly understand what happens next and what to do. |
 | [Venue Templates](../../education/writing-and-content/venue-templates.md) | Provides LaTeX templates and formatting specs for journals, conferences, posters, and grants. |
 | [Video Script writer](../../creatives/writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
@@ -123,5 +136,6 @@ Plan, write and edit articles, copy and documentation. 117 Grok Bot templates, 6
 | [Wordpress Centric High Seo Optimized Blogwriting](../../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
 | [World-Building Assistant for Scriptwriters](world-building-assistant-for-scriptwriters.md) | Build immersive fictional worlds with structured brainstorming for settings, cultures, magic, and history. |
 | [Writing Clearly And Concisely](writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |
+| [Writing Guidelines Reviewer](writing-guidelines-reviewer.md) | Reviews your writing files against current published guidelines and reports each violation as file:line. |
 
 [← All Writers templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/writers)

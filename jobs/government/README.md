@@ -1,6 +1,6 @@
 # Grok Bot templates for Government
 
-Public services, policy and compliance. **492 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Public services, policy and compliance. **525 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,16 +11,16 @@ Public services, policy and compliance. **492 ready-made Grok Bot templates** fo
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 159 |
-| [Data Analysis](data-analysis/README.md) | 125 |
-| [Productivity](productivity/README.md) | 60 |
-| [Research](research/README.md) | 48 |
-| [Writing & Content](writing-and-content/README.md) | 34 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 15 |
+| [Security & Compliance](security-and-compliance/README.md) | 174 |
+| [Data Analysis](data-analysis/README.md) | 128 |
+| [Productivity](productivity/README.md) | 63 |
+| [Research](research/README.md) | 50 |
+| [Writing & Content](writing-and-content/README.md) | 36 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 19 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
+| [Knowledge Management](knowledge-management/README.md) | 9 |
+| [Office Tools](office-tools/README.md) | 9 |
 | [Coding](coding/README.md) | 8 |
-| [Knowledge Management](knowledge-management/README.md) | 7 |
-| [Office Tools](office-tools/README.md) | 7 |
 | [Design](design/README.md) | 5 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 3 |
@@ -40,24 +40,24 @@ Public services, policy and compliance. **492 ready-made Grok Bot templates** fo
 | [Read Only Auditor](../it-and-development/security-and-compliance/read-only-auditor.md) | Audits code for security issues without making any changes. |
 | [Aws Iam Best Practices](../it-and-development/security-and-compliance/aws-iam-best-practices.md) | Audit and harden AWS IAM policies to enforce least privilege and security best practices. |
 | [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
-| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Hazardous Material Management Assistant](../operations/security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
 
-[All 159 Security & Compliance templates →](security-and-compliance/README.md)
+[All 174 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Data Analysis
 
 | Template | What it does |
 |---|---|
 | [Senior Data Scientist](../science-and-research/data-analysis/senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
-| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
+| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Continuous Improvement Analyst](../operations/data-analysis/continuous-improvement-analyst.md) | Turns operational data and feedback into improvement actions and tracks their impact. |
 | [Climate Impact Study Assistant](../science-and-research/data-analysis/climate-impact-study-assistant.md) | Turns climate data and policy into impact studies, risk assessments, and adaptation plans. |
 | [Data Insights Strategist](../executives-and-strategy/data-analysis/data-insights-strategist.md) | Turns raw data into forecasts, segments, and stories for executive decisions. |
 
-[All 125 Data Analysis templates →](data-analysis/README.md)
+[All 128 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -66,13 +66,13 @@ Public services, policy and compliance. **492 ready-made Grok Bot templates** fo
 | [Learning Culture Builder](../education/productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
 | [Training Program Advisor](../human-resources/productivity/training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |
 | [PDF Workflows](../operations/productivity/anthropic-pdf.md) | Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe. |
-| [Strategic Planning Guide](../executives-and-strategy/productivity/strategic-planning-guide.md) | Guides executive directors through the full strategic planning cycle, from vision to review. |
 | [Disaster Response Transportation Planner](productivity/disaster-response-transportation-planner.md) | Disaster response planning for transportation managers: assess risks, allocate resources, coordinate, and recover. |
+| [Strategic Planning Guide](../executives-and-strategy/productivity/strategic-planning-guide.md) | Guides executive directors through the full strategic planning cycle, from vision to review. |
 | [Strategic Goal Setting Assistant](../executives-and-strategy/productivity/strategic-goal-setting-assistant.md) | Turns your vision into aligned, measurable goals with plans, KPIs, and reviews. |
 | [IT Delivery Planner](../it-and-development/productivity/it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
 | [Crisis Management Executive Assistant](../executives-and-strategy/productivity/crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
 
-[All 60 Productivity templates →](productivity/README.md)
+[All 63 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -87,7 +87,7 @@ Public services, policy and compliance. **492 ready-made Grok Bot templates** fo
 | [Crossframe Structural Diagnosis](../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
 | [E-Procurement Solutions Exploration Assistant](../operations/research/e-procurement-solutions-exploration-assistant.md) | Researches and evaluates e-procurement solutions to support your selection decisions. |
 
-[All 48 Research templates →](research/README.md)
+[All 50 Research templates →](research/README.md)
 
 ## Writing & Content
 
@@ -100,9 +100,9 @@ Public services, policy and compliance. **492 ready-made Grok Bot templates** fo
 | [Stakeholder Communication Coordinator](../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
 | [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [Legislative Drafting Assistant](writing-and-content/legislative-drafting-assistant.md) | Drafts, reviews, and analyzes legislation for policy makers. |
-| [Systems Documentation Assistant](../it-and-development/writing-and-content/systems-documentation-assistant.md) | Turns system admin notes into clear, structured documentation and reports. |
+| [IT Policy Development Assistant](../it-and-development/writing-and-content/it-policy-development-assistant.md) | Develops, reviews, and maintains IT policies from research to implementation. |
 
-[All 34 Writing & Content templates →](writing-and-content/README.md)
+[All 36 Writing & Content templates →](writing-and-content/README.md)
 
 ## Cloud & DevOps
 
@@ -117,7 +117,7 @@ Public services, policy and compliance. **492 ready-made Grok Bot templates** fo
 | [Network DR Plan Builder](../it-and-development/cloud-and-devops/network-dr-plan-builder.md) | Builds and maintains your network disaster recovery plan from risk assessment to continuous improvement. |
 | [Data Backup Strategy Planner](../it-and-development/cloud-and-devops/data-backup-strategy-planner.md) | Designs, audits, and maintains your organization's data backup strategy end to end. |
 
-[All 15 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 19 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Teaching & Tutoring
 
@@ -134,6 +134,36 @@ Public services, policy and compliance. **492 ready-made Grok Bot templates** fo
 
 [All 11 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Document Digitization Assistant](../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
+| [Network Documentation and Mapping Assistant](../it-and-development/knowledge-management/network-documentation-and-mapping-assistant.md) | Builds and maintains complete network documentation and diagrams from your data. |
+| [Document Organization Assistant](../customer-support/knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
+| [Record Keeping and Filing Assistant](../finance/knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
+| [Record-Keeping Compliance Optimizer](../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
+| [Contract Repository Manager](../legal/knowledge-management/contract-repository-manager.md) | Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access. |
+| [PDF Document Analyst](../legal/knowledge-management/pdf-document-analyst.md) | Answers questions about your PDFs, summarizes them, and extracts specific data with page citations. |
+| [Document Data Extractor](../it-and-development/knowledge-management/document-data-extractor.md) | Turns PDFs, Office files, emails, HTML and images into structured, metadata-rich elements and chunks. |
+
+[All 9 Knowledge Management templates →](knowledge-management/README.md)
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Excel Spreadsheets](../operations/office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
+| [Pdf Official](../operations/office-tools/pdf-official.md) | Process PDFs: merge, split, extract text/tables, create, OCR, watermark, encrypt, and fill forms. |
+| [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
+| [Document Template Filler](../legal/office-tools/document-template-filler.md) | Fills your document templates with data to produce personalized files in bulk. |
+| [Writer](../operations/office-tools/writer.md) | Create, convert, and automate documents with LibreOffice Writer. |
+| [Document Preparation and Formatting Assistant](../finance/office-tools/document-preparation-and-formatting-assistant.md) | Prepares, formats, and polishes all business documents for administrative assistants. |
+| [Office Productivity](../operations/office-tools/office-productivity.md) | Create, convert, and automate documents, spreadsheets, and presentations. |
+| [Document Generator](../marketing/office-tools/document-generator.md) | Turns your data and outlines into polished PDF, PPTX, DOCX and XLSX files with consistent branding. |
+
+[All 9 Office Tools templates →](office-tools/README.md)
+
 ## Coding
 
 | Template | What it does |
@@ -146,30 +176,6 @@ Public services, policy and compliance. **492 ready-made Grok Bot templates** fo
 | [Accesslint Audit](../it-and-development/coding/accesslint-audit.md) | Audit and fix WCAG 2.2 accessibility issues in code or live pages. |
 | [Fixing Accessibility](../it-and-development/coding/fixing-accessibility.md) | Audit and fix HTML accessibility issues: ARIA, keyboard, focus, contrast, forms. |
 | [Verification Before Completion](../it-and-development/coding/verification-before-completion.md) | Enforce fresh verification before any completion claim. |
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Document Digitization Assistant](../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
-| [Network Documentation and Mapping Assistant](../it-and-development/knowledge-management/network-documentation-and-mapping-assistant.md) | Builds and maintains complete network documentation and diagrams from your data. |
-| [Document Organization Assistant](../customer-support/knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
-| [Record Keeping and Filing Assistant](../finance/knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
-| [Record-Keeping Compliance Optimizer](../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
-| [Contract Repository Manager](../legal/knowledge-management/contract-repository-manager.md) | Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access. |
-| [Amendment and Variation Tracker](../legal/knowledge-management/amendment-and-variation-tracker.md) | Tracks contract amendments and variations from log to approval, with alerts and reports. |
-
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [Excel Spreadsheets](../operations/office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
-| [Pdf Official](../operations/office-tools/pdf-official.md) | Process PDFs: merge, split, extract text/tables, create, OCR, watermark, encrypt, and fill forms. |
-| [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
-| [Writer](../operations/office-tools/writer.md) | Create, convert, and automate documents with LibreOffice Writer. |
-| [Document Preparation and Formatting Assistant](../finance/office-tools/document-preparation-and-formatting-assistant.md) | Prepares, formats, and polishes all business documents for administrative assistants. |
-| [Office Productivity](../operations/office-tools/office-productivity.md) | Create, convert, and automate documents, spreadsheets, and presentations. |
-| [Word Document Creation](../operations/office-tools/anthropic-docx.md) | Generate formatted Word documents with TOC, headers, page numbers, and letterhead from structured input. |
 
 ## Design
 

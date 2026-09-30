@@ -1,6 +1,6 @@
 # Marketing & Growth templates for PR and Communications
 
-Campaigns, ads, conversion and launch plans. 60 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 63 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,11 +19,14 @@ Campaigns, ads, conversion and launch plans. 60 Grok Bot templates, 23 of them f
 | [Brand Voice Guidelines Generator](../../marketing/marketing-and-growth/brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Brevo Automation](../../marketing/marketing-and-growth/brevo-automation.md) | Automate Brevo email campaigns, templates, and senders via Rube MCP. |
 | [Campaign Chat Insight Optimizer](campaign-chat-insight-optimizer.md) | Analyzes campaign data and chat interactions to optimize marketing effectiveness. |
+| [Competitor Messaging Analysis](../../marketing/marketing-and-growth/competitor-messaging-analysis.md) | Compares competitor messaging and returns differentiation gaps and revised positioning directions. |
 | [Construction Communication Strategist](../../real-estate-and-construction/marketing-and-growth/construction-communication-strategist.md) | Drafts and manages all your construction firm's client and public communications. |
+| [Content Calendar Planner](../../marketing/marketing-and-growth/content-calendar-planner.md) | Turns your marketing goals into a realistic content calendar with themes, formats, and owners. |
 | [Content Marketer](../../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
 | [Content Marketing Assistant](content-marketing-assistant.md) | Drafts, optimizes, and plans all your content marketing from research to distribution. |
 | [Content Strategy](../../marketing/marketing-and-growth/content-strategy.md) | Plan content strategy, topic clusters, and editorial roadmap for traffic and leads. |
 | [Content Strategy Planner](../../management/marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
+| [Creator Vetting Scorecard](../../marketing/marketing-and-growth/creator-vetting-scorecard.md) | Vets influencer candidates for audience fit, engagement quality, brand safety and campaign readiness. |
 | [Crisis Comms Strategist](../../executives-and-strategy/marketing-and-growth/crisis-comms-strategist.md) | Plans, drafts, monitors, and evaluates crisis communications for the Global Head of Marketing. |
 | [Crisis Communication Assistant](crisis-communication-assistant.md) | Prepares and guides crisis communication materials, monitoring, and training for PR professionals. |
 | [Crisis Communication Strategist](crisis-communication-strategist.md) | Builds and runs your crisis communication strategy, from monitoring to recovery. |

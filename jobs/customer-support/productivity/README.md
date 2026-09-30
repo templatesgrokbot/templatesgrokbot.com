@@ -1,6 +1,6 @@
 # Productivity templates for Customer Support
 
-Plan, prioritise and clear the recurring admin. 20 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 21 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Plan, prioritise and clear the recurring admin. 20 Grok Bot templates, 9 of them
 | [Call Center Scheduling Optimizer](call-center-scheduling-optimizer.md) | Optimizes call center shift planning, coverage, and compliance from staff data. |
 | [Call Handling Assistant](call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
 | [Decision Navigator](../../management/productivity/decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
+| [Email Triage Classifier](../../executives-and-strategy/productivity/email-triage-classifier.md) | Sorts your inbox by category, priority and required action, and tells you what to do first. |
 | [Emergency Preparedness Assistant](emergency-preparedness-assistant.md) | Prepares emergency plans, contacts, supplies, and drills for your workplace. |
 | [Event Coordination Assistant](event-coordination-assistant.md) | Plans and runs events from scheduling to post-event follow-up. |
 | [Inventory Tracking Assistant](inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |

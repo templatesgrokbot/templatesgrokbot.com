@@ -1,6 +1,6 @@
 # Data Analysis templates for Real Estate and Construction
 
-Clean, query, chart and explain data. 38 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 39 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Clean, query, chart and explain data. 38 Grok Bot templates, 9 of them filed in 
 | [Bid Analysis and Selection Assistant](../../operations/data-analysis/bid-analysis-and-selection-assistant.md) | Analyzes bids, compares suppliers, and supports procurement decisions with data-driven insights. |
 | [Budget and Forecast Assistant](../../operations/data-analysis/budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Budget Planning Assistant](../../executives-and-strategy/data-analysis/budget-planning-assistant.md) | Prepares your budget plan from data gathering to final documentation. |
+| [Capital Investment Advisor](../../finance/data-analysis/capital-investment-advisor.md) | Evaluates capital spending decisions with ROI, payback, NPV and IRR, and gives a clear recommendation. |
 | [Comparative Market Analysis Assistant](comparative-market-analysis-assistant.md) | Builds complete comparative market analysis reports and pricing strategies for real estate brokers. |
 | [Construction Budget Estimator](construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Construction Risk Assessment Assistant](construction-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates construction project risks with AI-driven insights. |

@@ -1,16 +1,21 @@
 # Sales & Negotiation templates for Sales
 
-Prospecting, outreach, proposals and negotiating terms. 103 Grok Bot templates, 87 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 118 Grok Bot templates, 102 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Account Expansion Strategist](account-expansion-strategist.md) | Turns closed deals into expanding accounts by mapping stakeholders, running QBRs, and tracking retention. |
+| [B2B Deal Strategist](b2b-deal-strategist.md) | Scores B2B deals against MEDDPICC, exposes pipeline risk, and builds win plans that survive forecast review. |
+| [B2B Outreach Drafter](b2b-outreach-drafter.md) | Drafts personalized B2B outreach, follow-up cadences, and objection responses for your approval. |
 | [BD Contract Negotiation Copilot](../../executives-and-strategy/sales-and-negotiation/bd-contract-negotiation-copilot.md) | Contract negotiation support for business development directors, from research to execution. |
 | [BDM Networking Follow-Up](bdm-networking-follow-up.md) | Plan, execute, and follow up on your networking to grow valuable professional connections. |
 | [Client Communication Assistant](../../real-estate-and-construction/sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
 | [Close Automation](close-automation.md) | Automate Close CRM: create leads, log calls, send SMS, manage tasks and notes. |
 | [Cold Outreach](cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
+| [Commercial Deal Advisor](commercial-deal-advisor.md) | Routes commercial questions to the right analysis and returns a decision digest with a named approver. |
+| [Commercial Discount Policy Designer](commercial-discount-policy-designer.md) | Designs your company's discount policy: approved bands, approver tiers, and exception flow. |
 | [Commission Plan Designer](commission-plan-designer.md) | Designs and manages sales commission and incentive plans from analysis to payout. |
 | [Competitive Analysis Assistant](competitive-analysis-assistant.md) | Turns competitor data into sales-ready insights and strategies. |
 | [Competitor Move Sales Strategist](competitor-move-sales-strategist.md) | Tracks competitors and turns their moves into your sales strategy. |
@@ -19,6 +24,7 @@ Prospecting, outreach, proposals and negotiating terms. 103 Grok Bot templates, 
 | [CRM Sales and Marketing Assistant](crm-sales-and-marketing-assistant.md) | CRM assistant that manages leads, segments customers, and analyzes sales performance for your team. |
 | [CRM Sales Insights Assistant](crm-sales-insights-assistant.md) | Turns CRM data into leads, forecasts, and personalized outreach for global sales heads. |
 | [CRM Selection and Adoption Planner](crm-selection-and-adoption-planner.md) | Guides sales managers through CRM selection, implementation, and optimization. |
+| [CRM Workflow Automation](crm-workflow-automation.md) | Automates CRM lead capture, deal-stage tasks, and multi-CRM contact sync with approval before anything sends. |
 | [Cross-Sell Upsell Strategist](cross-sell-upsell-strategist.md) | Finds cross-sell and upsell opportunities, then drafts the pitches, answers, and follow-ups to close them. |
 | [Customer Needs Analysis Assistant](customer-needs-analysis-assistant.md) | Turns customer data into needs analysis and sales strategy for technical sales reps. |
 | [Deal Closer Playbook](deal-closer-playbook.md) | Turns deal context into a tactical closing playbook with research, stakeholder mapping, and next actions. |
@@ -32,12 +38,15 @@ Prospecting, outreach, proposals and negotiating terms. 103 Grok Bot templates, 
 | [Feedback Insight and Response Assistant](feedback-insight-and-response-assistant.md) | Turns customer feedback into insights, responses, and action plans for technical sales teams. |
 | [Freight Dispute Resolution Assistant](freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
 | [Freight Load Matching Assistant](freight-load-matching-assistant.md) | Matches loads to carriers, negotiates rates, and manages freight documentation from search to delivery. |
+| [GEO Prospect Pipeline](geo-prospect-pipeline.md) | Tracks GEO agency prospects and clients through the sales pipeline with audits and revenue forecasts. |
 | [Global Sales Cross-Sell Upsell Planner](global-sales-cross-sell-upsell-planner.md) | Turns sales data into cross-sell and upsell actions for global sales leaders. |
+| [Government Digital Presales Consultant](government-digital-presales-consultant.md) | Tracks China government digital policy, designs ToG solutions, and prepares compliant bid documents. |
 | [Harvey Specter](harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
 | [Hubspot Automation](hubspot-automation.md) | Automate HubSpot CRM operations via Rube MCP and Composio integration. |
 | [Inbound Lead Qualifier](inbound-lead-qualifier.md) | Qualifies inbound leads, scores them, and routes to the right rep with context. |
 | [Intent Signal Monitor](intent-signal-monitor.md) | Tracks web signals to alert when prospects show buying intent. |
 | [John Wick](john-wick.md) | Finds the right decision-maker at a target company and gets you into their conversation. |
+| [Korean Business Navigator](korean-business-navigator.md) | Decodes Korean business culture so foreign professionals can build relationships that lead to signed contracts. |
 | [Lead Generation Insights Assistant](lead-generation-insights-assistant.md) | Turns sales data into lead generation insights and actions for a CSO. |
 | [Lead Identification Assistant](lead-identification-assistant.md) | Finds, scores, and nurtures high-quality leads for business development managers. |
 | [Lead Lifecycle Manager](lead-lifecycle-manager.md) | Finds, qualifies, and nurtures leads, then tracks and reports on them for sales. |
@@ -50,6 +59,7 @@ Prospecting, outreach, proposals and negotiating terms. 103 Grok Bot templates, 
 | [Odoo Sales Crm Expert](odoo-sales-crm-expert.md) | Configure Odoo CRM pipelines, pricelists, and quotation templates with step-by-step instructions. |
 | [Outbound Sales](outbound-sales.md) | Owns the full outbound prospecting pipeline so AEs can focus on closing. |
 | [Outreachagent](outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
+| [Partnership Deal Architect](partnership-deal-architect.md) | Decides whether to sign a prospective partner, at what tier, with what GTM plan and revshare. |
 | [Partnership Opportunity Finder](../../executives-and-strategy/sales-and-negotiation/partnership-opportunity-finder.md) | Finds, evaluates, and manages strategic partnerships for business development directors. |
 | [Partnership Outreach Manager](partnership-outreach-manager.md) | Finds, courts, and manages business partnerships from first contact to expansion. |
 | [Partnership Pipeline Scout](../../executives-and-strategy/sales-and-negotiation/partnership-pipeline-scout.md) | Finds, evaluates, and manages partnership opportunities for business development leaders. |
@@ -66,11 +76,14 @@ Prospecting, outreach, proposals and negotiating terms. 103 Grok Bot templates, 
 | [Product Presentation Builder](product-presentation-builder.md) | Build and run product presentations that persuade, engage, and convert. |
 | [Proposal Creation Assistant](proposal-creation-assistant.md) | Crafts tailored, winning proposals from research to follow-up for business development managers. |
 | [Proposal Customization Assistant](proposal-customization-assistant.md) | Customizes sales proposals to fit each client's needs and brand. |
+| [Proposal Strategist](proposal-strategist.md) | Turns RFPs and sales opportunities into persuasive, win-themed proposals with a clear narrative. |
 | [Proposal Writing Assistant](proposal-writing-assistant.md) | Drafts, refines, and tracks business proposals from research to follow-up. |
 | [Prospect Panel Simulator](prospect-panel-simulator.md) | Simulate a panel of your real prospects to pressure-test sales and marketing artifacts before they go out. |
 | [Quota Setting Calculator](quota-setting-calculator.md) | Designs fair, achievable sales quotas with clear methodology and territory adjustments. |
 | [Real-Time Sales Assistant](real-time-sales-assistant.md) | Real-time sales assistant that qualifies leads, recommends products, and closes deals. |
 | [Relationship Management Assistant](relationship-management-assistant.md) | Turns customer data into relationship actions for business development managers. |
+| [Revenue Growth Router](revenue-growth-router.md) | Routes revenue and growth requests to the right playbook and returns a reviewed draft. |
+| [Revenue Plan Interrogator](revenue-plan-interrogator.md) | Pressure-tests revenue plans against pipeline coverage, win rate, retention, ramp, discount and source mix. |
 | [Revenue Strategy Navigator](revenue-strategy-navigator.md) | Optimizes sales strategy with market insights, funnel analysis, forecasting, and team performance. |
 | [Rival Edge Sales Tracker](rival-edge-sales-tracker.md) | Tracks rivals and turns their moves into your sales edge. |
 | [Sales Call Optimizer](sales-call-optimizer.md) | Optimizes sales calls from preparation to follow-up with AI-driven insights and coaching. |
@@ -79,6 +92,7 @@ Prospecting, outreach, proposals and negotiating terms. 103 Grok Bot templates, 
 | [Sales CRM Assistant](sales-crm-assistant.md) | Manages leads, segments customers, forecasts sales, and boosts retention from one chat. |
 | [Sales CRM Operations Assistant](sales-crm-operations-assistant.md) | Turns customer data into leads, forecasts, and retention plans for sales reps. |
 | [Sales Data Lead Finder](sales-data-lead-finder.md) | Turns sales data and market signals into targeted lead generation campaigns and outreach. |
+| [Sales Discovery Coach](sales-discovery-coach.md) | Coaches sales teams on discovery calls that surface real buying motivation. |
 | [Sales Enablement](sales-enablement.md) | Create sales collateral that reps actually use to close deals. |
 | [Sales Engineer](sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
 | [Sales Forecast Builder](sales-forecast-builder.md) | Build weighted pipeline forecasts with accuracy tracking and scenario analysis. |
@@ -89,6 +103,7 @@ Prospecting, outreach, proposals and negotiating terms. 103 Grok Bot templates, 
 | [Sales Process Automation Assistant](sales-process-automation-assistant.md) | Automates your sales workflow from lead generation to contract management and forecasting. |
 | [Sales Process Optimizer](sales-process-optimizer.md) | Analyzes sales data, segments customers, optimizes pipelines, and generates tailored sales materials. |
 | [Sales Product Information Assistant](sales-product-information-assistant.md) | Turns product data into sales-ready insights, comparisons, and materials for your customers. |
+| [Sales Rep Coach](sales-rep-coach.md) | Coaches sales reps on deal strategy, pipeline discipline and forecast accuracy through structured feedback. |
 | [Sales Script Builder](sales-script-builder.md) | Crafts and refines sales scripts for sales managers, from research to follow-up. |
 | [Sales Strategy Formulation Assistant](../../executives-and-strategy/sales-and-negotiation/sales-strategy-formulation-assistant.md) | Turns market data and sales history into a workable sales strategy for a VP of Business Development. |
 | [Sales Strategy Optimizer](sales-strategy-optimizer.md) | Sales strategy optimizer: market analysis, forecasting, and personalized outreach for CSOs. Turn data into decisions. |

@@ -1,6 +1,6 @@
 # Generative Code templates for Creatives
 
-Scaffold apps, components and whole projects from a brief. 46 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 47 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -38,6 +38,7 @@ Scaffold apps, components and whole projects from a brief. 46 Grok Bot templates
 | [Premium 3d Website](../../it-and-development/generative-code/premium-3d-website.md) | Build premium 3D websites with custom WebGL shaders, post-processing, and physics interactions. |
 | [Product Launch Email Builder](../../marketing/generative-code/product-launch-email-builder.md) | Builds a 600px single-column HTML product launch email with table fallback. |
 | [Remotion Best Practices](../../it-and-development/generative-code/remotion-best-practices.md) | Explain Remotion best practices by referencing rule files without writing code. |
+| [Remotion Video Builder](remotion-video-builder.md) | Scaffolds a Remotion video project and builds the composition you describe. |
 | [Review Animations](../../it-and-development/generative-code/review-animations.md) | Review animation and motion code against a strict craft, performance, and accessibility bar. |
 | [Shader Programming Glsl](../../it-and-development/generative-code/shader-programming-glsl.md) | Write and troubleshoot GLSL vertex/fragment shaders for web and game engines. |
 | [Skeuomorphism](skeuomorphism.md) | Generates UI code that mimics real-world objects and physical textures. |

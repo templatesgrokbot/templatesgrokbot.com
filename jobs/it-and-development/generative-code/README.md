@@ -1,6 +1,6 @@
 # Generative Code templates for IT and Development
 
-Scaffold apps, components and whole projects from a brief. 93 Grok Bot templates, 78 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 98 Grok Bot templates, 83 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,6 +22,7 @@ Scaffold apps, components and whole projects from a brief. 93 Grok Bot templates
 | [Cyber Y2k](../../creatives/generative-code/cyber-y2k.md) | Generate web and app code with holographic, glitchy Y2K aesthetics. |
 | [Defi Protocol Templates](defi-protocol-templates.md) | Generate production-ready DeFi smart contracts for staking, AMM, governance, lending, and flash loans. No deployment or financial advice. |
 | [Diagram Generator](diagram-generator.md) | Generate, refine, and render diagrams from natural language, code, or schemas. |
+| [Dummy Dataset Generator](dummy-dataset-generator.md) | Generates realistic dummy datasets with your columns, constraints and output format. |
 | [Ecl Harness Engineer](ecl-harness-engineer.md) | Create or audit Agent Harness infrastructure: AGENTS.md, change tracking, CI gates. |
 | [Engine Selection](engine-selection.md) | Match game engines to platform, interaction model, and team constraints. |
 | [Excalidraw](excalidraw.md) | Extract, create, and modify Excalidraw diagrams without loading their verbose JSON into your main context. Always delegate to subagents. Never read an |
@@ -35,6 +36,7 @@ Scaffold apps, components and whole projects from a brief. 93 Grok Bot templates
 | [Frontend Slides](../../creatives/generative-code/frontend-slides.md) | Create zero-dependency HTML presentations with rich animations from scratch or PPTX files. |
 | [Frontend Slides Frontend Slides](../../creatives/generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
 | [Frutiger Aero](../../creatives/generative-code/frutiger-aero.md) | Generate web/app UI code with early-2000s glossy, nature-inspired Frutiger Aero aesthetics. |
+| [Full Stack Delivery Workflow](full-stack-delivery-workflow.md) | Guides a full-stack build from scaffolding through deployment, phase by phase, with quality gates. |
 | [Game Development](game-development.md) | Routes game projects to correct platform, dimension, and specialty sub-capabilities. |
 | [Gpt Taste](../../creatives/generative-code/gpt-taste.md) | Award-level GSAP frontend pages with AIDA structure and gapless bento grids. |
 | [Hugging Face Gradio](hugging-face-gradio.md) | Build interactive web UIs and ML demos with Gradio in Python. |
@@ -55,6 +57,7 @@ Scaffold apps, components and whole projects from a brief. 93 Grok Bot templates
 | [Mobile Games](mobile-games.md) | Mobile game development principles for touch, battery, and performance. |
 | [Motion Canvas](motion-canvas.md) | Sets up and troubleshoots Motion Canvas projects for programmatic video creation with TypeScript. |
 | [N8n Code Javascript](n8n-code-javascript.md) | Write and validate JavaScript in n8n Code nodes for complex transformations and logic. |
+| [N8n Document Workflow Builder](n8n-document-workflow-builder.md) | Designs and reviews n8n document workflows, then hands you an importable workflow JSON for approval. |
 | [N8n Expression Syntax](n8n-expression-syntax.md) | Validate and fix n8n expression syntax in workflows. |
 | [N8n Node Configuration](n8n-node-configuration.md) | Configure n8n nodes with operation-aware property dependencies. |
 | [Network Automation Script Generator](network-automation-script-generator.md) | Automates network admin tasks from config to compliance with script generation and monitoring. |
@@ -73,6 +76,7 @@ Scaffold apps, components and whole projects from a brief. 93 Grok Bot templates
 | [Review Animations](review-animations.md) | Review animation and motion code against a strict craft, performance, and accessibility bar. |
 | [Robius Event Action](robius-event-action.md) | Event handling and action dispatch patterns for Makepad widgets in Rust. |
 | [Saas Mvp Launcher](../../product-development/generative-code/saas-mvp-launcher.md) | Structured roadmap to build and launch a SaaS MVP from scratch. |
+| [SaaS Project Scaffolder](saas-project-scaffolder.md) | Scaffolds a production-ready Next.js SaaS app with auth, database, billing, and dashboard. |
 | [Screenshot to Code](screenshot-to-code.md) | Turn UI screenshots into clean, responsive HTML/CSS/React/Vue code. |
 | [Shader Programming Glsl](shader-programming-glsl.md) | Write and troubleshoot GLSL vertex/fragment shaders for web and game engines. |
 | [Shopify Development](shopify-development.md) | Build Shopify apps, extensions, themes, and integrations using official APIs and tools. |
@@ -87,6 +91,7 @@ Scaffold apps, components and whole projects from a brief. 93 Grok Bot templates
 | [Threejs Geometry](threejs-geometry.md) | Create and optimize Three.js geometry including built-in shapes, BufferGeometry, and instanced rendering. |
 | [Threejs Loaders](threejs-loaders.md) | Load GLTF, textures, HDR and manage async asset progress in Three.js. |
 | [Threejs Postprocessing](../../creatives/generative-code/threejs-postprocessing.md) | Add screen-space effects like bloom, DOF, and color grading in Three.js. |
+| [Transactional Email Builder](transactional-email-builder.md) | Builds and maintains your transactional email templates, provider sending, and preview setup. |
 | [Typography First](typography-first.md) | Generates text-first UI code where typography is the primary visual element. |
 | [Ui Component](ui-component.md) | Generate a new UI component following StyleSeed design conventions. |
 | [Ui Motion](ui-motion.md) | Apply named StyleSeed motion or keyword moves to React components. |

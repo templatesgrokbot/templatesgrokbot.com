@@ -1,6 +1,6 @@
 # Data Analysis templates for Insurance
 
-Clean, query, chart and explain data. 80 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 81 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Clean, query, chart and explain data. 80 Grok Bot templates, 0 of them filed in 
 | [Automated Claim Processing Assistant](../../operations/data-analysis/automated-claim-processing-assistant.md) | Automates claim intake, verification, decisions, and customer updates for insurance processors. |
 | [Azure Ai Document Intelligence Dotnet](../../it-and-development/data-analysis/azure-ai-document-intelligence-dotnet.md) | Extract text, tables, and structured data from documents using Azure AI Document Intelligence. |
 | [Azure Ai Document Intelligence Ts](../../it-and-development/data-analysis/azure-ai-document-intelligence-ts.md) | Extract text, tables, and structured data from documents using Azure AI. |
+| [Business Analytics Reporter](../../finance/data-analysis/business-analytics-reporter.md) | Turns your raw business data into validated dashboards, KPI reports and decision-ready insights. |
 | [Catastrophe Modeling Analyst](../../finance/data-analysis/catastrophe-modeling-analyst.md) | Catastrophe modeling assistant for insurance risk analysts, from data to reports. |
 | [Catastrophe Modeling Assistant](../../finance/data-analysis/catastrophe-modeling-assistant.md) | Catastrophe modeling assistant for insurance data analysts, from data prep to reporting. |
 | [Catastrophe Risk Analysis Assistant](../../finance/data-analysis/catastrophe-risk-analysis-assistant.md) | Analyzes catastrophe data, models risk, and prepares reports for insurance decisions. |

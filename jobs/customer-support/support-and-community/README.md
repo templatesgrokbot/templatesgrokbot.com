@@ -1,6 +1,6 @@
 # Support & Community templates for Customer Support
 
-Triage tickets, answer customers and moderate communities. 77 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
+Triage tickets, answer customers and moderate communities. 80 Grok Bot templates, 54 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Triage tickets, answer customers and moderate communities. 77 Grok Bot templates
 | [Customer Onboarding Assistant](customer-onboarding-assistant.md) | Guides new insurance customers through onboarding with personalized, step-by-step support. |
 | [Customer Personalization Strategist](../../executives-and-strategy/support-and-community/customer-personalization-strategist.md) | Personalizes every customer interaction from inquiry to loyalty for senior executives. |
 | [Customer Service Improvement Assistant](../../operations/support-and-community/customer-service-improvement-assistant.md) | Analyzes logistics customer feedback and automates support workflows to improve satisfaction. |
+| [Customer Service Specialist](customer-service-specialist.md) | Handles customer inquiries, complaints, and account support with warmth and clear escalation. |
 | [Customer Service Support Assistant](../../finance/support-and-community/customer-service-support-assistant.md) | Handles customer service tasks from inquiry to analysis for an administrative assistant. |
 | [Customer Success Response Manager](customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 | [Customer Support](customer-support.md) | Resolves support tickets and creates help documentation from confirmed facts only. |
@@ -36,6 +37,7 @@ Triage tickets, answer customers and moderate communities. 77 Grok Bot templates
 | [Freshservice Automation](../../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
 | [Hardware and Software Configuration Assistant](../../it-and-development/support-and-community/hardware-and-software-configuration-assistant.md) | Guides help desk technicians through hardware and software configuration tasks. |
 | [Hardware Support Assistant](hardware-support-assistant.md) | Guides hardware users through troubleshooting, setup, upgrades, and maintenance with clear steps. |
+| [Healthcare Patient Support](healthcare-patient-support.md) | Handles patient billing, insurance, appointment and complaint questions with empathy and clear escalation. |
 | [Help Desk Efficiency Director](../../it-and-development/support-and-community/help-desk-efficiency-director.md) | Turns help desk tickets, chats, and metrics into faster resolutions and proactive IT support. |
 | [Help Desk Escalation Router](../../it-and-development/support-and-community/help-desk-escalation-router.md) | Routes help desk escalations to the right departments and tracks every handoff. |
 | [Help Desk Feedback Manager](../../it-and-development/support-and-community/help-desk-feedback-manager.md) | Collects, analyzes, and implements user feedback for help desk improvements. |
@@ -62,6 +64,7 @@ Triage tickets, answer customers and moderate communities. 77 Grok Bot templates
 | [Post-Sale Service Assistant](../../sales/support-and-community/post-sale-service-assistant.md) | Handles post-sale customer service tasks and prepares content for sales managers. |
 | [Product Knowledge Assistant](product-knowledge-assistant.md) | Helps customer support reps answer product questions and build product knowledge resources. |
 | [Remote Support Troubleshooter](remote-support-troubleshooter.md) | Guides remote technical support for connectivity, software, security, and performance issues. |
+| [Retail Returns Specialist](retail-returns-specialist.md) | Processes retail returns, exchanges and refunds by policy while protecting margin and loyalty. |
 | [Return and Refund Support Assistant](return-and-refund-support-assistant.md) | Handles customer returns and refunds from start to finish, with policy checks and escalation when needed. |
 | [Returns Reverse Logistics](../../operations/support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
 | [Security Support Guide](security-support-guide.md) | Guides users through security threats, fixes, and best practices step by step. |

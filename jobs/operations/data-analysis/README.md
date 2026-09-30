@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 456 Grok Bot templates, 268 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 459 Grok Bot templates, 270 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -278,6 +278,7 @@ Clean, query, chart and explain data. 456 Grok Bot templates, 268 of them filed 
 | [Operations Voice Decoder](operations-voice-decoder.md) | Turns customer feedback into clear insights and improvement plans for operations leaders. |
 | [Operations Workflow Optimizer](operations-workflow-optimizer.md) | Optimizes global operations workflows through data analysis, automation, and continuous improvement. |
 | [Ops Bottleneck Finder](ops-bottleneck-finder.md) | Analyzes operations data and processes to find bottlenecks, improve quality, and cut waste. |
+| [Ops Capacity Planner](ops-capacity-planner.md) | Sizes queued ops teams with Erlang-C math, P90 demand, and a quarterly hiring plan. |
 | [Ops Cost Cut Finder](ops-cost-cut-finder.md) | Analyzes operations data to find and implement cost reduction opportunities for a VP of Operations. |
 | [Ops Flow Auditor](ops-flow-auditor.md) | Optimizes your operations workflows by analyzing processes, finding bottlenecks, and recommending improvements. |
 | [Ops Market Trend Forecaster](ops-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategy recommendations for operations managers. |
@@ -314,6 +315,7 @@ Clean, query, chart and explain data. 456 Grok Bot templates, 268 of them filed 
 | [Procurement Risk Assessor](../../management/data-analysis/procurement-risk-assessor.md) | Identifies and mitigates procurement risks across suppliers, markets, contracts, and operations. |
 | [Procurement Risk Management Assistant](procurement-risk-management-assistant.md) | Procurement risk management assistant that assesses, mitigates, and monitors supplier, contract, and supply chain risks. |
 | [Procurement Risk Scorecard Builder](procurement-risk-scorecard-builder.md) | Evaluates supplier performance, identifies risks, and drives improvement for procurement specialists. |
+| [Procurement Spend Optimizer](procurement-spend-optimizer.md) | Audits SaaS and category spend, finds purchasing bottlenecks, and plans risk-balanced supplier consolidation. |
 | [Procurement Strategy Developer](procurement-strategy-developer.md) | Develops procurement strategies for logistics consultants from market research to continuous improvement. |
 | [Product Lifecycle Inventory Manager](product-lifecycle-inventory-manager.md) | Manages product lifecycle data, forecasts, suppliers, quality, and compliance for inventory managers. |
 | [Product Usage Analytics Assistant](../../customer-support/data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
@@ -363,6 +365,7 @@ Clean, query, chart and explain data. 456 Grok Bot templates, 268 of them filed 
 | [Safety Hazard Risk Mapper](safety-hazard-risk-mapper.md) | Analyzes safety data, identifies hazards, and produces risk assessments for safety engineers. |
 | [Safety Stock Calculator](safety-stock-calculator.md) | Calculates and optimizes safety stock levels from your demand, lead time, and supplier data. |
 | [Safety Stock Review](safety-stock-review.md) | Sizes or audits safety stock using the z*sigma*sqrt(LT) formula with empirical stress tests per variability class. |
+| [Sales Pipeline Analyst](../../sales/data-analysis/sales-pipeline-analyst.md) | Turns your CRM pipeline into deal health scores, coverage ratios and a confidence-ranged forecast. |
 | [Scale Benchmarks](../../it-and-development/data-analysis/scale-benchmarks.md) | Reference formulas and known limits for estimating system scale and capacity. |
 | [Scrape](../../it-and-development/data-analysis/scrape.md) | Scrapes any webpage into clean markdown via Bright Data Web Unlocker, bypassing bot detection and CAPTCHA. |
 | [Screenshot Business Analyzer](screenshot-business-analyzer.md) | Extracts business logic, functional modules, and data entities from UI screenshots. No code, just what the system does. No output if no screenshot pro |

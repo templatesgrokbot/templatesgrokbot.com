@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,338 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **1,396 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,21 +11,21 @@ Processes, logistics and the systems that run a business. **1,338 ready-made Gro
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 456 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 196 |
-| [Productivity](productivity/README.md) | 192 |
-| [Security & Compliance](security-and-compliance/README.md) | 110 |
-| [Research](research/README.md) | 84 |
+| [Data Analysis](data-analysis/README.md) | 459 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 226 |
+| [Productivity](productivity/README.md) | 202 |
+| [Security & Compliance](security-and-compliance/README.md) | 114 |
+| [Research](research/README.md) | 85 |
 | [Coding](coding/README.md) | 63 |
-| [Knowledge Management](knowledge-management/README.md) | 37 |
+| [Knowledge Management](knowledge-management/README.md) | 38 |
 | [Support & Community](support-and-community/README.md) | 34 |
+| [Office Tools](office-tools/README.md) | 30 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 30 |
 | [Writing & Content](writing-and-content/README.md) | 30 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 29 |
-| [Office Tools](office-tools/README.md) | 27 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 17 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 14 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 20 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 15 |
 | [Speech-To-Text](speech-to-text/README.md) | 10 |
-| [Generative Code](generative-code/README.md) | 8 |
+| [Generative Code](generative-code/README.md) | 9 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
 | [Design](design/README.md) | 7 |
 | [Social Media](social-media/README.md) | 4 |
@@ -49,14 +49,14 @@ Processes, logistics and the systems that run a business. **1,338 ready-made Gro
 | [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 
-[All 456 Data Analysis templates →](data-analysis/README.md)
+[All 459 Data Analysis templates →](data-analysis/README.md)
 
 ## Cloud & DevOps
 
 | Template | What it does |
 |---|---|
-| [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 | [Kubernetes Architect](../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
+| [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 | [Monitoring Specialist](../it-and-development/cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
 | [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Zapier Make Patterns](../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
@@ -64,7 +64,7 @@ Processes, logistics and the systems that run a business. **1,338 ready-made Gro
 | [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
 
-[All 196 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 226 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Productivity
 
@@ -79,7 +79,7 @@ Processes, logistics and the systems that run a business. **1,338 ready-made Gro
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Bamboohr Automation](../human-resources/productivity/bamboohr-automation.md) | Automate BambooHR HR operations: employees, time-off, benefits, dependents, and updates. |
 
-[All 192 Productivity templates →](productivity/README.md)
+[All 202 Productivity templates →](productivity/README.md)
 
 ## Security & Compliance
 
@@ -90,11 +90,11 @@ Processes, logistics and the systems that run a business. **1,338 ready-made Gro
 | [Regulatory Affairs Head](security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
 | [Windows Ad](../it-and-development/security-and-compliance/windows-ad.md) | Run authorized Active Directory attacks: Kerberos, AD CS, BloodHound, NTLM relay. |
 | [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
-| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Hazardous Material Management Assistant](security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
+| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Safety Technology Implementation Guide](security-and-compliance/safety-technology-implementation-guide.md) | Guides safety engineers through researching, implementing, and maintaining workplace safety technology. |
 
-[All 110 Security & Compliance templates →](security-and-compliance/README.md)
+[All 114 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Research
 
@@ -107,9 +107,9 @@ Processes, logistics and the systems that run a business. **1,338 ready-made Gro
 | [Research Orchestrator](../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
 | [Grant Finder](../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
 | [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
-| [Travel Planner](research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
+| [Hasdata Cli](../it-and-development/research/hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |
 
-[All 84 Research templates →](research/README.md)
+[All 85 Research templates →](research/README.md)
 
 ## Coding
 
@@ -139,7 +139,7 @@ Processes, logistics and the systems that run a business. **1,338 ready-made Gro
 | [Review Agent](knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
 | [Data Storage and Management Assistant](../science-and-research/knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
 
-[All 37 Knowledge Management templates →](knowledge-management/README.md)
+[All 38 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Support & Community
 
@@ -156,6 +156,36 @@ Processes, logistics and the systems that run a business. **1,338 ready-made Gro
 
 [All 34 Support & Community templates →](support-and-community/README.md)
 
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Excel Spreadsheets](office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
+| [Pdf Official](office-tools/pdf-official.md) | Process PDFs: merge, split, extract text/tables, create, OCR, watermark, encrypt, and fill forms. |
+| [Google Docs Automation](office-tools/google-docs-automation.md) | Create, read, search, and edit Google Docs via OAuth-authenticated scripts. |
+| [Google Slides Automation](office-tools/google-slides-automation.md) | Create, read, and modify Google Slides presentations via CLI scripts. |
+| [Pdf Fill Studio](office-tools/pdf-fill-studio.md) | Fill any PDF locally with precise value placement, leaving signatures blank. |
+| [Docusign Automation](office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
+| [Nanobanana Ppt Templates](office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
+| [Odoo Purchase Workflow](office-tools/odoo-purchase-workflow.md) | Guide Odoo Purchase: RFQ to PO, receipt, vendor bill, and 3-way matching. No subcontracting or EDI. No guessing. |
+
+[All 30 Office Tools templates →](office-tools/README.md)
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
+| [Territory Planning Optimizer](../sales/sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
+| [Vendor Negotiation Assistant](sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
+| [Supplier Negotiation Assistant](sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
+| [CRM Workflow Automation](../sales/sales-and-negotiation/crm-workflow-automation.md) | Automates CRM lead capture, deal-stage tasks, and multi-CRM contact sync with approval before anything sends. |
+| [Vendor Management Assistant](sales-and-negotiation/vendor-management-assistant.md) | Manages vendor evaluation, selection, negotiation, performance, risk, and development for supply chain analysts. |
+| [Supplier Relationship Manager](../management/sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
+| [Vendor Relationship Management Assistant](sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
+
+[All 30 Sales & Negotiation templates →](sales-and-negotiation/README.md)
+
 ## Writing & Content
 
 | Template | What it does |
@@ -171,36 +201,6 @@ Processes, logistics and the systems that run a business. **1,338 ready-made Gro
 
 [All 30 Writing & Content templates →](writing-and-content/README.md)
 
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
-| [Territory Planning Optimizer](../sales/sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
-| [Vendor Negotiation Assistant](sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
-| [Supplier Negotiation Assistant](sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
-| [Vendor Management Assistant](sales-and-negotiation/vendor-management-assistant.md) | Manages vendor evaluation, selection, negotiation, performance, risk, and development for supply chain analysts. |
-| [Supplier Relationship Manager](../management/sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
-| [Vendor Relationship Management Assistant](sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
-| [Contract Negotiation Assistant](sales-and-negotiation/contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
-
-[All 29 Sales & Negotiation templates →](sales-and-negotiation/README.md)
-
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [Excel Spreadsheets](office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
-| [Pdf Official](office-tools/pdf-official.md) | Process PDFs: merge, split, extract text/tables, create, OCR, watermark, encrypt, and fill forms. |
-| [Google Docs Automation](office-tools/google-docs-automation.md) | Create, read, search, and edit Google Docs via OAuth-authenticated scripts. |
-| [Pdf Fill Studio](office-tools/pdf-fill-studio.md) | Fill any PDF locally with precise value placement, leaving signatures blank. |
-| [Google Slides Automation](office-tools/google-slides-automation.md) | Create, read, and modify Google Slides presentations via CLI scripts. |
-| [Docusign Automation](office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
-| [Nanobanana Ppt Templates](office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
-| [Odoo Purchase Workflow](office-tools/odoo-purchase-workflow.md) | Guide Odoo Purchase: RFQ to PO, receipt, vendor bill, and 3-way matching. No subcontracting or EDI. No guessing. |
-
-[All 27 Office Tools templates →](office-tools/README.md)
-
 ## Marketing & Growth
 
 | Template | What it does |
@@ -214,7 +214,7 @@ Processes, logistics and the systems that run a business. **1,338 ready-made Gro
 | [Klaviyo Automation](../marketing/marketing-and-growth/klaviyo-automation.md) | Automate Klaviyo email/SMS campaign management, inspection, and monitoring. |
 | [Churn Prevention](../marketing/marketing-and-growth/churn-prevention.md) | Reduce voluntary and involuntary churn with cancel flows, save offers, and dunning strategies. |
 
-[All 17 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 20 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Generative AI and LLM
 
@@ -229,7 +229,7 @@ Processes, logistics and the systems that run a business. **1,338 ready-made Gro
 | [Delegating To Agents](../it-and-development/generative-ai-and-llm/delegating-to-agents.md) | Delegate bounded work to other AI agents with full context and progress checks. |
 | [Loopy](../it-and-development/generative-ai-and-llm/loopy.md) | Discover, craft, audit, and publish bounded AI-agent loops from engineering work. |
 
-[All 14 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 15 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
 ## Speech-To-Text
 
@@ -252,12 +252,14 @@ Processes, logistics and the systems that run a business. **1,338 ready-made Gro
 |---|---|
 | [N8n Node Configuration](../it-and-development/generative-code/n8n-node-configuration.md) | Configure n8n nodes with operation-aware property dependencies. |
 | [Azure Storage Queue Py](../it-and-development/generative-code/azure-storage-queue-py.md) | Manage Azure Queue Storage messages: send, receive, peek, update, delete. |
+| [OrgScript Process Modeler](generative-code/orgscript-process-modeler.md) | Turns plain-language business processes into validated OrgScript models with diagrams and summaries. |
 | [Sticky Flowchart Builder](generative-code/sticky-flowchart-builder.md) | Turns a workflow into a whiteboard-style sticky note flowchart. |
 | [Webflow Automation](../it-and-development/generative-code/webflow-automation.md) | Automate Webflow CMS, publishing, pages, assets, and ecommerce via Rube MCP. |
 | [Macos Spm App Packaging](../it-and-development/generative-code/macos-spm-app-packaging.md) | Scaffold, build, sign, and package SwiftPM macOS apps without Xcode. |
 | [Odoo Edi Connector](../it-and-development/generative-code/odoo-edi-connector.md) | Map EDI X12/EDIFACT to Odoo objects and automate B2B document flows. |
 | [Python Pptx Generator](../it-and-development/generative-code/python-pptx-generator.md) | Generate complete Python scripts that build polished PowerPoint decks with python-pptx. |
-| [2slides Ppt Generator](../marketing/generative-code/2slides-ppt-generator.md) | Generate slides from text, documents, or reference images via the 2slides API. |
+
+[All 9 Generative Code templates →](generative-code/README.md)
 
 ## Teaching & Tutoring
 

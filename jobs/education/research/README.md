@@ -1,6 +1,6 @@
 # Research templates for Education
 
-Find sources, compare evidence and summarise what is known. 25 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 26 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Find sources, compare evidence and summarise what is known. 25 Grok Bot template
 | [Citation Management](../../science-and-research/research/citation-management.md) | Search academic databases, extract metadata, and generate validated BibTeX entries for research papers. |
 | [Claude Scientific Templates](../../science-and-research/research/claude-scientific-skills.md) | Scientific research and analysis assistant for literature review and data interpretation. |
 | [Comprehensive Researcher](../../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
+| [Course Reading List Builder](course-reading-list-builder.md) | Turns a course syllabus into a curated supplementary reading list of recent peer-reviewed papers. |
 | [Crossframe Debate](crossframe-debate.md) | Analyze propositions, debate structures, and withdrawal conditions using CrossFrame. |
 | [Crossframe Notebook](../../science-and-research/research/crossframe-notebook.md) | Structured bidirectional reading notes for books, theories, and articles with CrossFrame mapping. |
 | [Deep Research](../../science-and-research/research/deep-research.md) | Plans, searches, reads, and synthesizes cited research reports on any topic. |

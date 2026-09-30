@@ -1,11 +1,12 @@
 # Generative AI and LLM templates for Management
 
-Work with language models, agents and their plumbing. 6 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 7 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Agent Coordination Board](agent-coordination-board.md) | Keeps a shared message board of task assignments, progress notes and results, and reports what is new. |
 | [Ai Engineering Toolkit](../../it-and-development/generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
 | [Dispatch](../../it-and-development/generative-ai-and-llm/dispatch.md) | Delegate tasks to Codex CLI and Antigravity CLI from Claude Code with topic-aware sessions. |
 | [E-commerce Chatbot Developer](e-commerce-chatbot-developer.md) | Builds, trains, tests, and maintains customer service chatbots for e-commerce stores. |

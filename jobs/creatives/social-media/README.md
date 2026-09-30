@@ -1,6 +1,6 @@
 # Social Media templates for Creatives
 
-Plan, write and measure posts across networks. 20 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 22 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,9 +20,11 @@ Plan, write and measure posts across networks. 20 Grok Bot templates, 2 of them 
 | [Socialclaw](../../marketing/social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
 | [Taisly Social Media Posting](../../marketing/social-media/taisly-social-media-posting.md) | Prepare and publish approved short-form videos across major social platforms. Requires explicit user approval before any posting action. |
 | [Tiktok Automation](../../marketing/social-media/tiktok-automation.md) | Upload, publish, and manage TikTok videos and photos via Composio's TikTok toolkit. |
+| [TikTok Content Planner](../../marketing/social-media/tiktok-content-planner.md) | Plans TikTok content, drafts scripts and captions, and reports performance from your own account data. |
 | [Twitter Share Card Maker](../../marketing/social-media/twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |
 | [Visual Storytelling Campaign Planner](../../marketing/social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
 | [Vocal Artist Social Media](vocal-artist-social-media.md) | Plans, creates, and analyzes social media for vocal artists and singer-songwriters. |
+| [X Publishing Assistant](../../marketing/social-media/x-publishing-assistant.md) | Publishes your text, images, videos, and long-form articles to X after you approve the final post. |
 | [Xiaohongshu Card Deck Generator](../../marketing/social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
 | [Xiaohongshu Content Strategist](../../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
 | [Youtube Automation](../../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |

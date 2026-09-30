@@ -1,6 +1,6 @@
 # Writing & Content templates for Creatives
 
-Plan, write and edit articles, copy and documentation. 61 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 63 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,6 +22,8 @@ Plan, write and edit articles, copy and documentation. 61 Grok Bot templates, 13
 | [Content Creator](../../marketing/writing-and-content/content-creator.md) | Draft and review audience-specific content using brand examples and channel templates. |
 | [Content Editing Assistant](../../pr-and-communications/writing-and-content/content-editing-assistant.md) | Edits content for grammar, style, clarity, facts, and audience fit. |
 | [Content Idea Generator](../../writers/writing-and-content/content-idea-generator.md) | Generates content ideas, trends, keywords, and formats for writers. |
+| [Content Optimizer](../../marketing/writing-and-content/content-optimizer.md) | Rewrites your existing page copy for clarity, conversion, and search without replacing the offer. |
+| [Content Production Pipeline](../../marketing/writing-and-content/content-production-pipeline.md) | Takes a topic from blank page to publish-ready article, with research, drafting, and optimization. |
 | [Content Repurposing Assistant](../../writers/writing-and-content/content-repurposing-assistant.md) | Repurposes your existing content into fresh formats for wider reach and engagement. |
 | [Content Research Writer](../../writers/writing-and-content/content-research-writer.md) | Research, outline, and refine written content while preserving the author's voice. |
 | [Copy Editing](../../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |

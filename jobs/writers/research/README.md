@@ -1,6 +1,6 @@
 # Research templates for Writers
 
-Find sources, compare evidence and summarise what is known. 32 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 37 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,7 +19,9 @@ Find sources, compare evidence and summarise what is known. 32 Grok Bot template
 | [Editorial Fact-Check Assistant](../../pr-and-communications/research/editorial-fact-check-assistant.md) | Verifies facts, sources, and claims in your content before publication. |
 | [Fact Check X Complete](../../science-and-research/research/fact-check-x-complete.md) | Compare AI answer claims, verify citations against primary sources, and produce an evidence-linked fact-check report. |
 | [Fact Checker](fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
+| [Geographic Coherence Checker](geographic-coherence-checker.md) | Checks that the terrain, climate, rivers, resources and settlements in your world hold together physically. |
 | [Helium Mcp](../../science-and-research/research/helium-mcp.md) | Search news with bias analysis, get balanced perspectives, and look up live stock/options data. |
+| [Historical Coherence Checker](historical-coherence-checker.md) | Checks historical claims and settings for anachronisms, and adds grounded period detail. |
 | [Hugging Face Paper Publisher](../../science-and-research/research/hugging-face-paper-publisher.md) | Publish and manage research papers on Hugging Face Hub with markdown, linking, and authorship. |
 | [Ml Paper Writing](../../science-and-research/research/ml-paper-writing.md) | Drafts publication-ready ML/AI papers for top conferences from research repos and results. |
 | [Multi Source Searcher](../../science-and-research/research/multi-source-searcher.md) | Finds precise information across multiple sources using optimized search strategies and systematic retrieval. |
@@ -30,7 +32,10 @@ Find sources, compare evidence and summarise what is known. 32 Grok Bot template
 | [Report Generator](../../science-and-research/research/report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |
 | [Research Brief Generator](../../science-and-research/research/research-brief-generator.md) | Transforms a research query into a structured brief with questions, keywords, and source preferences. |
 | [Research Lookup](../../science-and-research/research/research-lookup.md) | Looks up current research using Perplexity Sonar models via OpenRouter, selecting the best model based on query complexity. Returns citations. Never i |
+| [Research Summarizer](../../science-and-research/research/research-summarizer.md) | Turns papers, articles and reports you already have into structured briefs with proper citations. |
 | [Script Authenticity Researcher](script-authenticity-researcher.md) | Authenticity research for scriptwriters, verifying facts and cultural details before you write. |
+| [Search Strategy Planner](../../science-and-research/research/search-strategy-planner.md) | Turns your information need into a search plan, evaluates the sources you find, and synthesizes the findings. |
+| [Serply Sourced Search](serply-sourced-search.md) | Searches Google, Bing, News and Scholar through Serply and answers with cited sources. |
 | [Short Story Trend Scanner](short-story-trend-scanner.md) | 扫描短篇网文平台榜单，捕捉风口题材并输出可执行选题建议。 |
 | [Tavily Web](../../it-and-development/research/tavily-web.md) | Searches the web, extracts content, and crawls sites via Tavily API. |
 | [Trend Scout for Bloggers](trend-scout-for-bloggers.md) | Researches and analyzes trends for timely, insightful blog content. |

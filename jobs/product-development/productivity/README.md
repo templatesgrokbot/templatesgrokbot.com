@@ -1,26 +1,31 @@
 # Productivity templates for Product Development
 
-Plan, prioritise and clear the recurring admin. 75 Grok Bot templates, 29 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 88 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [90-Day Execution Planner](../../management/productivity/90-day-execution-planner.md) | Turns an approved decision into a 90-day plan with weekly milestones, DRIs, and check-ins. |
 | [Acceptance Orchestrator](../../it-and-development/productivity/acceptance-orchestrator.md) | Drive coding tasks from issue intake to acceptance verification with minimal re-intervention. |
 | [Agent Squad](../../it-and-development/productivity/agent-squad.md) | Orchestrates a squad of specialized agents to manage software projects step by step. |
 | [Agile Product Owner](agile-product-owner.md) | Generates INVEST-compliant user stories and manages sprint backlog for a product owner. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Agile Project Management Guide](../../it-and-development/productivity/agile-project-management-guide.md) | Guides IT project managers through Agile ceremonies, planning, metrics, and scaling. |
 | [Alex](../../management/productivity/alex.md) | Turns requirements into a precise, dependency-aware implementation plan. |
 | [Asana Automation](../../operations/productivity/asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
+| [Assumption Prioritizer](assumption-prioritizer.md) | Triage a list of assumptions with an Impact × Risk matrix and get a targeted experiment for each. |
 | [Atlassian Requirements to Jira](atlassian-requirements-to-jira.md) | Parse requirements documents and create Jira epics and user stories with duplicate detection and approval workflow. |
 | [Auri Core](auri-core.md) | Voice assistant product strategy and roadmap assistant for Auri (Alexa + Claude). |
+| [Backlog Item Writer](backlog-item-writer.md) | Turns a feature into independent, valuable, testable backlog items in Why-What-Acceptance format. |
 | [Before You Build](before-you-build.md) | Pause before coding to check demand, alternatives, and switching costs. |
+| [Brain Dump Organizer](../../management/productivity/brain-dump-organizer.md) | Turns a messy brain dump into organized projects, tasks, connections, and concrete next offers. |
 | [Brainstorming](../../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Brave Man](../../management/productivity/brave-man.md) | Runs a clarifying interview for new projects, then outputs a ready prompt.md for execution. |
 | [Build](build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Bulletmind](../../education/productivity/bulletmind.md) | Convert any input into clean, hierarchical bullet points for structured thinking. |
 | [Conductor New Track](../../management/productivity/conductor-new-track.md) | Create a new track with specification and phased implementation plan. |
 | [Conductor Status](../../management/productivity/conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
+| [CPO Roadmap Review](cpo-roadmap-review.md) | Interrogates a roadmap or feature bet against six CPO questions and returns a ship, sharpen, or kill verdict. |
 | [Daily Meeting Update](../../it-and-development/productivity/daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Deadline Prep](../../management/productivity/deadline-prep.md) | Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you |
 | [Developer Signup Flow](developer-signup-flow.md) | Design frictionless developer signup flows with OAuth, instant API keys, and progressive profiling. |
@@ -39,6 +44,7 @@ Plan, prioritise and clear the recurring admin. 75 Grok Bot templates, 29 of the
 | [Innovation Workshop Facilitator](../../executives-and-strategy/productivity/innovation-workshop-facilitator.md) | Runs your innovation workshops end-to-end, from ideation to roadmapping. |
 | [Jira](../../management/productivity/jira.md) | Manages Jira tickets, sprints, and workflows through natural language with safe approval gates. |
 | [Jira Automation](../../operations/productivity/jira-automation.md) | Automate Jira issues, sprints, boards, comments, and project management via Rube MCP. |
+| [Ledger Task Planner](ledger-task-planner.md) | Turns a planning request into a concise requirement document and implementation-sized ledger tasks. |
 | [Linear](../../it-and-development/productivity/linear.md) | Read, create, and update Linear issues, projects, and team workflows. |
 | [Linear Automation](../../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
 | [Linear for Claude](linear-claude-skill.md) | Manage Linear issues, projects, and teams via API. |
@@ -46,6 +52,7 @@ Plan, prioritise and clear the recurring admin. 75 Grok Bot templates, 29 of the
 | [Micro Saas Launcher](micro-saas-launcher.md) | Guide from idea to paying customers for a micro-SaaS in weeks. |
 | [Miro Automation](../../operations/productivity/miro-automation.md) | Automate Miro boards, items, sticky notes, frames, sharing, and connectors via Rube MCP. |
 | [Multi Agent Brainstorming](multi-agent-brainstorming.md) | Simulate a structured peer-review process to validate designs and catch failure modes early. |
+| [New Product Ideation](new-product-ideation.md) | Turns a new product concept into prioritized feature ideas from three perspectives. |
 | [Not A Vibe Coder](not-a-vibe-coder.md) | Turns vague project ideas into 8 structured planning files for new projects only. |
 | [Notion Meeting Intelligence](../../management/productivity/notion-meeting-intelligence.md) | Prep meeting agendas and pre-reads using Notion context and Codex research. |
 | [Notion Spec To Implementation](notion-spec-to-implementation.md) | Convert Notion specs into implementation plans, tasks, and progress tracking. No Notion, no work. Draft only. Never send or deploy. Report exactly wha |
@@ -53,11 +60,15 @@ Plan, prioritise and clear the recurring admin. 75 Grok Bot templates, 29 of the
 | [OKR Plan Generator](../../management/productivity/okr-plan-generator.md) | Generates structured OKR plans for teams following Google/Intel methodology. |
 | [Onboarding](onboarding.md) | Optimize post-signup onboarding to speed users to their aha moment and boost activation. |
 | [Onboarding Cro](onboarding-cro.md) | Audits and optimizes user onboarding to reduce time-to-value and increase activation rates. |
+| [Opportunity Solution Tree](opportunity-solution-tree.md) | Turns a product outcome and customer research into a structured Opportunity Solution Tree. |
 | [Planning](../../management/productivity/planning.md) | Creates and maintains markdown planning files to track complex multi-step tasks. No context loss, no goal drift. Always reads before deciding, updates |
 | [Planning And Task Breakdown](../../management/productivity/planning-and-task-breakdown.md) | Breaks specs into ordered, verifiable tasks with acceptance criteria. |
 | [Power User Cultivation](power-user-cultivation.md) | Identify engaged developers and turn them into advocates and contributors. |
 | [Prd](prd.md) | Synthesize conversation into PRD and publish to issue tracker. |
+| [Prioritization Framework Advisor](prioritization-framework-advisor.md) | Picks the right prioritization framework and scores your options with it. |
 | [Process Engineer Project Tracker](process-engineer-project-tracker.md) | Project management support for process engineers: schedules, risks, budgets, reports, and stakeholder updates. |
+| [Product Assumption Mapper](product-assumption-mapper.md) | Maps the risky assumptions behind a new product idea across eight risk categories. |
+| [Product Idea Brainstormer](product-idea-brainstormer.md) | Generates and prioritizes feature ideas for an existing product from PM, designer, and engineer viewpoints. |
 | [Product Manager](product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
 | [Product Risk Assessment Assistant](product-risk-assessment-assistant.md) | Identifies, evaluates, and communicates product risks with structured assessments and stakeholder-ready reports. |
 | [Product Roadmap Assistant](product-roadmap-assistant.md) | Turns market, user, and competitor data into a prioritized, visual product roadmap. |
@@ -69,6 +80,8 @@ Plan, prioritise and clear the recurring admin. 75 Grok Bot templates, 29 of the
 | [Requirements Clarity](requirements-clarity.md) | Turns vague feature requests into clear, actionable PRDs through structured questioning. |
 | [Scrum Master](../../management/productivity/scrum-master.md) | Facilitates agile teams, removes impediments, and drives continuous improvement through Scrum ceremonies. |
 | [Se Product Manager Advisor](se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
+| [Sprint Planning Assistant](sprint-planning-assistant.md) | Plans a sprint from your backlog, capacity and velocity, with dependencies and risks called out. |
+| [Sprint Retrospective Facilitator](../../it-and-development/productivity/sprint-retrospective-facilitator.md) | Runs a structured sprint retrospective and returns prioritized action items with owners and deadlines. |
 | [Task Decomposition Expert](../../management/productivity/task-decomposition-expert.md) | Breaks complex goals into actionable work breakdowns with dependencies and effort estimates. |
 | [Task Intelligence](../../management/productivity/task-intelligence.md) | Pre-task intelligence protocol that activates parallel agents for briefing, estimation, and execution planning. |
 | [Team Collaboration Facilitator](../../management/productivity/team-collaboration-facilitator.md) | Facilitates team collaboration, communication, and decision-making for project managers. |

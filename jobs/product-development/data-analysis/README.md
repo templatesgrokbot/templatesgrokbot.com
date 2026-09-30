@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 78 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 83 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,8 @@ Clean, query, chart and explain data. 78 Grok Bot templates, 34 of them filed in
 | [Barrier Protection Analysis Assistant](barrier-protection-analysis-assistant.md) | Analyzes barrier materials, predicts shelf life, and optimizes packaging protection for engineers. |
 | [Business Analyst](../../operations/data-analysis/business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
 | [CEO Feedback Action Planner](../../executives-and-strategy/data-analysis/ceo-feedback-action-planner.md) | Turns customer feedback into prioritized insights, trends, and action plans for your business. |
+| [Chat Export Need Miner](chat-export-need-miner.md) | Mines offline Telegram chat exports for quote-grounded unmet needs and product gaps. |
+| [Cohort Retention Analyst](cohort-retention-analyst.md) | Turns your user cohort data into retention curves, adoption trends and follow-up research plans. |
 | [Customer Demographic Insight Engine](../../management/data-analysis/customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
 | [Customer Feedback Insight Analyst](../../management/data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
 | [Customer Journey Mapping Assistant](../../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
@@ -32,6 +34,7 @@ Clean, query, chart and explain data. 78 Grok Bot templates, 34 of them filed in
 | [Energy Consumption Analyst](energy-consumption-analyst.md) | Analyzes energy data, forecasts usage, and recommends savings for process engineers. |
 | [Environmental Impact Analyst](environmental-impact-analyst.md) | Environmental impact analysis and sustainability recommendations for process engineers. |
 | [Experiment Readout](experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
+| [Experiment Tracker](experiment-tracker.md) | Designs, tracks and analyses A/B tests and feature experiments, then reports go/no-go decisions with exact figures. |
 | [Failure Analysis Assistant](failure-analysis-assistant.md) | Turns failure data into root causes, risks, and fixes for R&D engineers. |
 | [Feedback Prioritization Compass](feedback-prioritization-compass.md) | Turns scattered customer feedback into clear, prioritized insights for product decisions. |
 | [Game Analytics Insight Assistant](../../it-and-development/data-analysis/game-analytics-insight-assistant.md) | Turns your game analytics into clear, actionable insights for better player experiences. |
@@ -58,6 +61,7 @@ Clean, query, chart and explain data. 78 Grok Bot templates, 34 of them filed in
 | [Product Feedback Aggregation Assistant](../../management/data-analysis/product-feedback-aggregation-assistant.md) | Turns scattered product feedback into prioritized insights and reports for senior managers. |
 | [Product Feedback Aggregator](../../management/data-analysis/product-feedback-aggregator.md) | Turns scattered customer feedback into prioritized, actionable product insights. |
 | [Product Feedback Insight Analyst](../../science-and-research/data-analysis/product-feedback-insight-analyst.md) | Turns customer feedback into clear insights and trend reports for product decisions. |
+| [Product Leadership Advisor](product-leadership-advisor.md) | Turns product portfolio, PMF and org questions into decisions with named evidence. |
 | [Product Manager Toolkit](product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
 | [Product Metrics Analyst](product-metrics-analyst.md) | Turns product metrics into clear insights, reports, and recommendations. |
 | [Product Performance Insights](../../it-and-development/data-analysis/product-performance-insights.md) | Turns your product data into clear insights, forecasts, and decisions for business growth. |
@@ -81,6 +85,7 @@ Clean, query, chart and explain data. 78 Grok Bot templates, 34 of them filed in
 | [SVP Product Market Analyst](../../executives-and-strategy/data-analysis/svp-product-market-analyst.md) | Turns market data into product decisions for senior product leaders. |
 | [Template Suggester](../../it-and-development/data-analysis/skill-suggester.md) | Mines prompt history for repeated workflows and suggests new reusable capabilities. |
 | [User Feedback Insight Assistant](user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
+| [User Segmentation Analysis](user-segmentation-analysis.md) | Turns user feedback into at least three distinct, evidence-backed behavioral segments. |
 | [UX Insight Consultant](../../it-and-development/data-analysis/ux-insight-consultant.md) | Analyzes user data and feedback to improve UX across interfaces and channels. |
 | [Waste Management Optimization Assistant](waste-management-optimization-assistant.md) | Analyzes waste streams, ensures compliance, and optimizes waste management for process engineers. |
 | [Zinc Database](../../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |

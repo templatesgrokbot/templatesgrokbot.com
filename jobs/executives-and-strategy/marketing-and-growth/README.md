@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Executives and Strategy
 
-Campaigns, ads, conversion and launch plans. 130 Grok Bot templates, 97 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 136 Grok Bot templates, 102 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,8 +9,10 @@ Campaigns, ads, conversion and launch plans. 130 Grok Bot templates, 97 of them 
 | [Advertising Campaign Optimizer](advertising-campaign-optimizer.md) | Optimizes advertising campaigns from audience analysis to budget allocation and performance tracking. |
 | [Affiliate Marketing Optimizer](affiliate-marketing-optimizer.md) | Optimizes affiliate marketing campaigns from keyword research to performance reporting. |
 | [AI Marketing Team](../../marketing/marketing-and-growth/ai-marketing-team.md) | Runs campaign ideas through three marketing roles to catch blind spots before launch. |
+| [Ansoff Growth Matrix](ansoff-growth-matrix.md) | Maps your growth options across the four Ansoff quadrants and ranks them by risk and payoff. |
 | [B2B Lead Funnel Architect](b2b-lead-funnel-architect.md) | Lead generation strategist that researches, creates, and optimizes campaigns to convert prospects into customers. |
 | [BD Director Brand Positioning Guide](bd-director-brand-positioning-guide.md) | Guides Directors of Business Development through brand positioning from research to strategy. |
+| [Beachhead Segment Selector](beachhead-segment-selector.md) | Scores candidate market segments and picks the first beachhead to launch into. |
 | [Brand Lifecycle Strategist](brand-lifecycle-strategist.md) | Develops and manages your brand strategy from research to crisis response. |
 | [Brand Perception Psychologist](../../marketing/marketing-and-growth/brand-perception-psychologist.md) | Diagnose brand perception gaps and prescribe alignment changes using psychological frameworks. |
 | [Brand Positioning Advisor](brand-positioning-advisor.md) | Analyzes and refines your brand positioning, messaging, and market differentiation. |
@@ -43,6 +45,8 @@ Campaigns, ads, conversion and launch plans. 130 Grok Bot templates, 97 of them 
 | [CRM Strategy Analyst](crm-strategy-analyst.md) | Analyzes customer data and crafts personalized CRM strategies for the Global Head of Marketing. |
 | [CSO Lead Pipeline Builder](cso-lead-pipeline-builder.md) | Turns market insight into qualified leads with content, outreach, and tracking. |
 | [Customer Persona Architect](customer-persona-architect.md) | Builds, validates, and refines customer personas for marketing strategy. |
+| [Customer Retention Review](customer-retention-review.md) | Pressure-tests any plan touching customer retention, segmentation, or CS team size before you commit. |
+| [Customer Retention Strategy Advisor](customer-retention-strategy-advisor.md) | Decomposes retention honestly, designs customer tiers, and sizes your CS team. |
 | [Digital Marketing Strategy Assistant](digital-marketing-strategy-assistant.md) | Turns marketing data and briefs into campaigns, content, and decisions for a global head of marketing. |
 | [Digital Marketing Strategy Formulator](../../management/marketing-and-growth/digital-marketing-strategy-formulator.md) | Formulates data-driven digital marketing strategies from market research to performance reporting. |
 | [E-commerce Strategy Formulator](e-commerce-strategy-formulator.md) | Turns market, customer, and competitor data into a complete e-commerce strategy. |
@@ -95,6 +99,7 @@ Campaigns, ads, conversion and launch plans. 130 Grok Bot templates, 97 of them 
 | [Marketing Plan](../../marketing/marketing-and-growth/marketing-plan.md) | Produce a 12-month AARRR marketing plan tailored to a client's budget, team, and stage. Hand off single-channel tactics to channel-specific capabilities. Do |
 | [Marketing Psychology](../../marketing/marketing-and-growth/marketing-psychology.md) | Apply behavioral science to marketing decisions with a prioritization scoring system. |
 | [Marketing Rival Intel Briefs](marketing-rival-intel-briefs.md) | Turns market data into competitive intelligence for the Global Head of Marketing. |
+| [Marketing Strategy Advisor](marketing-strategy-advisor.md) | Strategic marketing leadership for brand positioning, growth models, budget allocation, and org design. |
 | [Marketing Strategy Development Assistant](marketing-strategy-development-assistant.md) | Turns market data into a full marketing strategy, from research to presentation. |
 | [Marketing Strategy Pmm](../../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Marketing VP Competitive Intel](marketing-vp-competitive-intel.md) | Competitive intelligence and strategy support for marketing VPs. |
@@ -111,6 +116,7 @@ Campaigns, ads, conversion and launch plans. 130 Grok Bot templates, 97 of them 
 | [Product Ideation Assistant](product-ideation-assistant.md) | Turns raw product ideas into validated, prioritized concepts with market-ready details. |
 | [Product Launch Strategist](product-launch-strategist.md) | Plans and executes product launches from market research to performance review. |
 | [Product Positioning Strategist](product-positioning-strategist.md) | Turns market data into a defensible product position, messaging, and launch plan. |
+| [Product Strategy Canvas](../../product-development/marketing-and-growth/product-strategy-canvas.md) | Builds a nine-section product strategy canvas and tests whether it holds together. |
 | [Referral Program](../../marketing/marketing-and-growth/referral-program.md) | Designs and optimizes referral and affiliate programs to turn customers into growth engines. |
 | [Retention Growth Architect](retention-growth-architect.md) | Analyzes customer data and generates strategies to improve engagement and retention. |
 | [Revenue Stream Discovery Assistant](revenue-stream-discovery-assistant.md) | Finds and validates new revenue streams for your business. |

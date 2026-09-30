@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Operations
 
-Infrastructure, deployments, monitoring and incident response. 196 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 226 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Agent Management](../../it-and-development/cloud-and-devops/agent-management.md) | Manage AI agent lifecycle through the AI Maestro CLI. |
 | [Agent Manager](../../it-and-development/cloud-and-devops/agent-manager-skill.md) | Manage multiple local CLI agents in tmux sessions with cron-friendly scheduling. |
 | [Agentmail](../../it-and-development/cloud-and-devops/agentmail.md) | Provision AgentMail accounts, send/receive email, and manage webhooks via REST API. |
+| [AI Incident Responder](../../it-and-development/cloud-and-devops/ai-incident-responder.md) | Runs AI incident response for LLM outages, quality drops, safety spikes and cost blowouts. |
 | [Alloydb Basics](../../it-and-development/cloud-and-devops/alloydb-basics.md) | Manages AlloyDB for PostgreSQL clusters, instances, and backups via gcloud commands. |
 | [Antigravity Maintainer Batch Release](../../it-and-development/cloud-and-devops/antigravity-maintainer-batch-release.md) | Protected AAS maintainer sweeps, PR merge batches, and scripted releases for repository maintenance. |
 | [Aws Cost Cleanup](../../it-and-development/cloud-and-devops/aws-cost-cleanup.md) | Identify and remove unused AWS resources to reduce cloud costs. |
@@ -17,8 +18,10 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Azure Appconfiguration Py](../../it-and-development/cloud-and-devops/azure-appconfiguration-py.md) | Manage Azure App Config settings, feature flags, and snapshots via Python SDK. |
 | [Azure Communication Sms Java](../../it-and-development/cloud-and-devops/azure-communication-sms-java.md) | Send SMS via Azure Communication Services with delivery reports and error handling. |
 | [Azure Compute Batch Java](../../it-and-development/cloud-and-devops/azure-compute-batch-java.md) | Run HPC and parallel batch jobs on Azure with Java SDK |
+| [Azure Compute Manager](../../it-and-development/cloud-and-devops/azure-compute-manager.md) | Plans and manages Azure virtual machines, scale sets, disks and images from chat. |
 | [Azure Containerregistry Py](../../it-and-development/cloud-and-devops/azure-containerregistry-py.md) | Manage Azure container registries: list, inspect, delete repos, tags, manifests. |
 | [Azure Iac Exporter](../../it-and-development/cloud-and-devops/azure-iac-exporter.md) | Export Azure resources to IaC templates (Bicep, ARM, Terraform, Pulumi). |
+| [Azure Kubernetes Service Operator](../../it-and-development/cloud-and-devops/azure-kubernetes-service-operator.md) | Plans, provisions and maintains Azure Kubernetes Service clusters and their node pools. |
 | [Azure Mgmt Apicenter Py](../../it-and-development/cloud-and-devops/azure-mgmt-apicenter-py.md) | Manage Azure API Center inventory, metadata, and governance via Python SDK. |
 | [Azure Mgmt Apimanagement Py](../../it-and-development/cloud-and-devops/azure-mgmt-apimanagement-py.md) | Manage Azure API Management services, APIs, products, and policies via Python SDK. |
 | [Azure Mgmt Arizeaiobservabilityeval Dotnet](../../it-and-development/cloud-and-devops/azure-mgmt-arizeaiobservabilityeval-dotnet.md) | Manage Arize AI Observability & Evaluation organizations on Azure via .NET SDK. |
@@ -33,7 +36,11 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Azure Resource Manager Postgresql Dotnet](../../it-and-development/cloud-and-devops/azure-resource-manager-postgresql-dotnet.md) | Manage Azure PostgreSQL Flexible Server deployments via .NET SDK. |
 | [Azure Resource Manager Redis Dotnet](../../it-and-development/cloud-and-devops/azure-resource-manager-redis-dotnet.md) | Provision and manage Azure Cache for Redis resources via Azure Resource Manager |
 | [Azure Servicebus Py](../../it-and-development/cloud-and-devops/azure-servicebus-py.md) | Send and receive messages via Azure Service Bus queues, topics, and subscriptions. |
+| [Backup Recovery Planner](../../it-and-development/cloud-and-devops/backup-recovery-planner.md) | Designs, schedules, and verifies backup and recovery plans for your data. |
+| [Block Storage Operations](../../it-and-development/cloud-and-devops/block-storage-operations.md) | Plans and tracks block storage work: partitioning, LVM, EBS volumes, snapshots and RAID, with every change approved first. |
 | [Cdk Patterns](../../it-and-development/cloud-and-devops/cdk-patterns.md) | Build reusable AWS CDK constructs and production-grade infrastructure stacks with TypeScript, Python, or Java. No raw CloudFormation, Terraform, or on |
+| [CDN Delivery Setup](../../it-and-development/cloud-and-devops/cdn-delivery-setup.md) | Sets up and tunes CDN caching, invalidation and security for your sites, with approval before anything goes live. |
+| [Change Management Coordinator](../../it-and-development/cloud-and-devops/change-management-coordinator.md) | Runs your change management process: classifies changes, prepares CAB reviews, and tracks rollbacks. |
 | [Chaos Engineer](../../it-and-development/cloud-and-devops/chaos-engineer.md) | Designs and runs controlled failure experiments to validate system resilience before incidents occur. |
 | [Ci Cd And Automation](../../it-and-development/cloud-and-devops/ci-cd-and-automation.md) | Automates CI/CD pipeline setup with quality gates and deployment strategies. |
 | [Cicd Automation Workflow Automate](../../it-and-development/cloud-and-devops/cicd-automation-workflow-automate.md) | Design CI/CD pipelines and GitHub Actions workflows to automate development and deployment. |
@@ -44,6 +51,8 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Cloud Run Basics](../../it-and-development/cloud-and-devops/cloud-run-basics.md) | Manages Cloud Run services, jobs, and worker pools on Google Cloud. |
 | [Cloud Sql Basics](../../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Cloudflare Deploy](../../it-and-development/cloud-and-devops/cloudflare-deploy.md) | Deploys apps and infrastructure to Cloudflare Workers, Pages, and related services. |
+| [CloudFormation Stack Deployer](../../it-and-development/cloud-and-devops/cloudformation-stack-deployer.md) | Deploys and updates AWS CloudFormation stacks safely with change sets and drift detection. |
+| [Container Registry Operations](../../it-and-development/cloud-and-devops/container-registry-operations.md) | Manages container images across ECR, ACR, GCR, GHCR, Docker Hub and self-hosted registries. |
 | [Cost Optimization](../../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Data Backup Strategy Planner](../../it-and-development/cloud-and-devops/data-backup-strategy-planner.md) | Designs, audits, and maintains your organization's data backup strategy end to end. |
 | [Data Center Network Assistant](../../it-and-development/cloud-and-devops/data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
@@ -73,7 +82,10 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Disaster Recovery Planner](../../executives-and-strategy/cloud-and-devops/disaster-recovery-planner.md) | Builds and maintains your disaster recovery plan, from risk assessment to continuous improvement. |
 | [Distributed Debugging Debug Trace](../../it-and-development/cloud-and-devops/distributed-debugging-debug-trace.md) | Configure distributed tracing and debugging environments for multi-service systems. |
 | [Distributed Tracing](../../it-and-development/cloud-and-devops/distributed-tracing.md) | Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices. |
+| [DNS Zone Manager](../../it-and-development/cloud-and-devops/dns-zone-manager.md) | Configures and audits DNS zones, records, and email security across Route53, Cloudflare, and self-hosted DNS. |
 | [Domain](../../it-and-development/cloud-and-devops/domain.md) | Manage custom and Railway-provided domains for your Railway services. |
+| [EC2 Compute Manager](../../it-and-development/cloud-and-devops/ec2-compute-manager.md) | Deploys and manages AWS EC2 instances, AMIs, and auto-scaling groups from chat. |
+| [ELK Log Platform](../../it-and-development/cloud-and-devops/elk-log-platform.md) | Deploys and maintains an ELK log pipeline, then reports errors and cluster health from it. |
 | [Email Systems](../../it-and-development/cloud-and-devops/email-systems.md) | Design, debug, and optimize email deliverability and infrastructure. |
 | [Environment](../../it-and-development/cloud-and-devops/environment.md) | Query, stage, and apply Railway environment configuration changes. |
 | [Error Coordinator](../../it-and-development/cloud-and-devops/error-coordinator.md) | Coordinates error handling across distributed systems to prevent cascading failures and automate recovery. |
@@ -81,6 +93,7 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Error Diagnostics Error Trace](../../it-and-development/cloud-and-devops/error-diagnostics-error-trace.md) | Implement error tracking, structured logging, and intelligent alerting for production systems. |
 | [Examiner](../../it-and-development/cloud-and-devops/examiner.md) | Logs system changes to reconstruct events when issues arise. |
 | [Gcp Cloud Run](../../it-and-development/cloud-and-devops/gcp-cloud-run.md) | Guides building and optimizing serverless apps on GCP Cloud Run and Functions. |
+| [GCP Compute Engine Manager](../../it-and-development/cloud-and-devops/gcp-compute-engine-manager.md) | Provisions and manages Google Compute Engine VMs, templates, and managed instance groups. |
 | [Geminiignore Finops](../../it-and-development/cloud-and-devops/geminiignore-finops.md) | Build and maintain .geminiignore files to cut AI token costs and focus context on human-written code. |
 | [Gh Fix Ci](../../it-and-development/cloud-and-devops/gh-fix-ci.md) | Inspect failing GitHub Actions checks, summarize logs, and fix after approval. |
 | [Github Actions Creator](../../it-and-development/cloud-and-devops/github-actions-creator.md) | Generates production-ready GitHub Actions workflow files from project analysis. |
@@ -90,29 +103,35 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Gitlab Automation](../../it-and-development/cloud-and-devops/gitlab-automation.md) | Automate GitLab project management, issues, MRs, pipelines, branches, and users via Composio. |
 | [Gitops Workflow](../../it-and-development/cloud-and-devops/gitops-workflow.md) | Configures GitOps pipelines for Kubernetes with ArgoCD or Flux. |
 | [Google Cloud Waf Cost Optimization](../../it-and-development/cloud-and-devops/google-cloud-waf-cost-optimization.md) | Evaluates Google Cloud workloads and generates cost optimization recommendations based on the Well-Architected Framework. |
+| [GPU Kubernetes Operations](../../it-and-development/cloud-and-devops/gpu-kubernetes-operations.md) | Keeps GPU Kubernetes clusters healthy, well-scheduled and cost-efficient for AI workloads. |
 | [Helm Chart Scaffolding](../../it-and-development/cloud-and-devops/helm-chart-scaffolding.md) | Scaffolds Helm charts, validates templates, and reviews best practices for Kubernetes. |
 | [Hybrid Cloud Architect](../../it-and-development/cloud-and-devops/hybrid-cloud-architect.md) | Designs and manages hybrid multi-cloud infrastructure across AWS, Azure, GCP, and private clouds. |
 | [Hybrid Cloud Networking](../../it-and-development/cloud-and-devops/hybrid-cloud-networking.md) | Configure secure hybrid cloud networking with VPN, Direct Connect, and ExpressRoute. |
+| [Incident Commander](../../it-and-development/cloud-and-devops/incident-commander.md) | Runs your availability incidents from declaration to post-incident review with clear severity and timelines. |
 | [Incident Reporting and Analysis Assistant](../../customer-support/cloud-and-devops/incident-reporting-and-analysis-assistant.md) | Turns incident logs into reports, trends, and response plans for support teams. |
 | [Incident Responder](../../it-and-development/cloud-and-devops/incident-responder.md) | Assess severity, stabilize systems, coordinate communication, and produce blameless post-incident reports. |
 | [Incident Response Coordinator](../../management/cloud-and-devops/incident-response-coordinator.md) | Coordinates incident response: triage, communication, documentation, analysis, and continuous improvement for service managers. |
 | [Incident Response Incident Response](../../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Incident Response Smart Fix](../../it-and-development/cloud-and-devops/incident-response-smart-fix.md) | Diagnose and resolve production incidents with multi-agent orchestration. |
 | [Incident Runbook Templates](incident-runbook-templates.md) | Generate incident response runbooks with detection, triage, and mitigation steps. |
+| [Infrastructure Maintainer](../../it-and-development/cloud-and-devops/infrastructure-maintainer.md) | Keeps your cloud infrastructure reliable, monitored, secure and cost-efficient. |
 | [Infrastructure Skypilot](../../it-and-development/cloud-and-devops/infrastructure-skypilot.md) | Orchestrates ML workloads across clouds with automatic cost optimization. |
 | [Iot Engineer](../../it-and-development/cloud-and-devops/iot-engineer.md) | Designs and deploys large-scale IoT solutions from edge to cloud. |
 | [IoT Network Integration Assistant](../../it-and-development/cloud-and-devops/iot-network-integration-assistant.md) | Guides IoT network integration from configuration to monitoring and security. |
 | [IP Subnetting Assistant](../../it-and-development/cloud-and-devops/ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
 | [Istio Traffic Management](../../it-and-development/cloud-and-devops/istio-traffic-management.md) | Configure Istio traffic management for production service mesh deployments. |
+| [IT Asset Inventory](../../it-and-development/cloud-and-devops/it-asset-inventory.md) | Keeps a live inventory of your cloud and on-premise IT assets, with owners, tags and compliance gaps. |
 | [IT Disaster Recovery Architect](../../it-and-development/cloud-and-devops/it-disaster-recovery-architect.md) | Builds and maintains a complete disaster recovery plan for IT systems. |
 | [It Operations](../../it-and-development/cloud-and-devops/it-operations.md) | Manages IT infrastructure, monitoring, incident response, and service reliability for operations teams. |
 | [It Ops Orchestrator](../../it-and-development/cloud-and-devops/it-ops-orchestrator.md) | Coordinates multi-domain IT operations by routing work to specialized agents and merging results. |
+| [IT Service Management](../../it-and-development/cloud-and-devops/it-service-management.md) | Runs IT service management: incident triage, problem root-cause, change control, SLA and CMDB governance. |
 | [Itil Expert](../../it-and-development/cloud-and-devops/itil-expert.md) | Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management. |
 | [K8s Manifest Generator](../../it-and-development/cloud-and-devops/k8s-manifest-generator.md) | Generate production-ready Kubernetes manifests with best practices. |
 | [Kubernetes Architect](../../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
 | [Kubernetes Deployment](../../it-and-development/cloud-and-devops/kubernetes-deployment.md) | Deploy applications to Kubernetes with Helm, service mesh, and security. |
 | [Kubernetes Specialist](../../it-and-development/cloud-and-devops/kubernetes-specialist.md) | Designs, deploys, and troubleshoots production Kubernetes clusters with security and performance focus. |
 | [Kubestellar Console](../../it-and-development/cloud-and-devops/kubestellar-console.md) | Multi-cluster Kubernetes dashboard with AI-powered operations via MCP server and built-in agent capabilities. |
+| [Linux Performance Tuner](../../it-and-development/cloud-and-devops/linux-performance-tuner.md) | Diagnoses Linux performance bottlenecks and tunes kernel, I/O, and CPU settings with measured before-and-after results. |
 | [Linux Troubleshooting](../../it-and-development/cloud-and-devops/linux-troubleshooting.md) | Diagnose and resolve Linux system issues with structured troubleshooting phases. |
 | [Load Testing Specialist](../../it-and-development/cloud-and-devops/load-testing-specialist.md) | Designs and executes load tests to find system bottlenecks and capacity limits. |
 | [M365 Admin](../../it-and-development/cloud-and-devops/m365-admin.md) | Automates Microsoft 365 provisioning, auditing, and compliance across Exchange, Teams, SharePoint, and licensing. |
@@ -122,6 +141,7 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Makepad Deployment](../../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
 | [Mcp Deployment Orchestrator](../../it-and-development/cloud-and-devops/mcp-deployment-orchestrator.md) | Containerizes and deploys MCP servers to Kubernetes with security, monitoring, and autoscaling. |
 | [Metrics](../../it-and-development/cloud-and-devops/metrics.md) | Queries Railway service metrics for CPU, memory, network, and disk usage. |
+| [MongoDB Administrator](../../it-and-development/cloud-and-devops/mongodb-administrator.md) | Administers MongoDB deployments: users, indexes, replica sets, backups and slow-query checks. |
 | [Monitoring Specialist](../../it-and-development/cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
 | [N8n Binary And Data](../../it-and-development/cloud-and-devops/n8n-binary-and-data.md) | Handle n8n binary data across uploads, downloads, transforms, and chat surfaces without losing files. |
 | [N8n Mcp Tools Expert](../../it-and-development/cloud-and-devops/n8n-mcp-tools-expert.md) | Guide for using n8n-mcp tools to discover nodes, validate configs, and manage workflows. |
@@ -135,6 +155,8 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Network DR Plan Builder](../../it-and-development/cloud-and-devops/network-dr-plan-builder.md) | Builds and maintains your network disaster recovery plan from risk assessment to continuous improvement. |
 | [Network Engineer](../../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 | [Network Monitoring Assistant](../../it-and-development/cloud-and-devops/network-monitoring-assistant.md) | Network monitoring setup, analysis, and troubleshooting assistant for engineers. |
+| [New Relic Observability Setup](../../it-and-development/cloud-and-devops/new-relic-observability-setup.md) | Sets up New Relic monitoring for your apps and hosts, then reports on what it finds. |
+| [NFS Storage Setup](../../it-and-development/cloud-and-devops/nfs-storage-setup.md) | Sets up and tunes NFS file sharing between Linux servers and clients. |
 | [Observability And Instrumentation](../../it-and-development/cloud-and-devops/observability-and-instrumentation.md) | Instruments production code so behavior is visible and diagnosable via telemetry. |
 | [Observability Engineer](../../it-and-development/cloud-and-devops/observability-engineer.md) | Designs and maintains production monitoring, logging, and tracing systems for reliability. |
 | [Observability Monitoring Monitor Setup](../../it-and-development/cloud-and-devops/observability-monitoring-monitor-setup.md) | Design and deploy comprehensive monitoring stacks with metrics, logs, and traces. |
@@ -145,6 +167,7 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Odoo L10n Compliance](odoo-l10n-compliance.md) | Configure Odoo localization and e-invoicing for country-specific tax compliance. |
 | [Odoo Upgrade Advisor](../../it-and-development/cloud-and-devops/odoo-upgrade-advisor.md) | Step-by-step Odoo version upgrade advisor for v14 to v17. |
 | [On Call Handoff Patterns](../../it-and-development/cloud-and-devops/on-call-handoff-patterns.md) | Structured on-call shift handoffs with incident context and continuity. |
+| [Operational Runbook Generator](../../it-and-development/cloud-and-devops/operational-runbook-generator.md) | Drafts and maintains operational runbooks for a service, covering deploy, incident, maintenance and rollback. |
 | [Pagerduty Automation](../../it-and-development/cloud-and-devops/pagerduty-automation.md) | Automate PagerDuty incident, service, schedule, and escalation management via Rube MCP. |
 | [Pagerduty Incident Responder](../../it-and-development/cloud-and-devops/pagerduty-incident-responder.md) | Responds to PagerDuty incidents by analyzing context, finding code changes, and suggesting fixes via GitHub PRs. |
 | [Pagespeed Enhancer](../../it-and-development/cloud-and-devops/pagespeed-enhancer.md) | Batch-scan Lighthouse reports and apply structured fixes for performance, accessibility, SEO, and best practices. |
@@ -158,13 +181,16 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Powershell 7 Expert](../../it-and-development/cloud-and-devops/powershell-7-expert.md) | Builds cross-platform PowerShell 7 automation for cloud, CI/CD, and enterprise operations. |
 | [Pre Release Review](../../it-and-development/cloud-and-devops/pre-release-review.md) | Read-only pre-release review for deploy readiness, migrations, config, secrets, rollout order, rollback risk, and launch blockers. |
 | [Prometheus Configuration](../../it-and-development/cloud-and-devops/prometheus-configuration.md) | Configure Prometheus for metric collection, scrape targets, recording rules, and alert rules. |
+| [Prometheus Monitoring Setup](../../it-and-development/cloud-and-devops/prometheus-monitoring-setup.md) | Designs Prometheus metrics collection, PromQL queries, alert rules and Grafana dashboards for your systems. |
 | [QoS Policy Designer](../../it-and-development/cloud-and-devops/qos-policy-designer.md) | Designs and tunes QoS policies for network performance and user experience. |
 | [Rclone Cli](../../it-and-development/cloud-and-devops/rclone-cli.md) | Terminal-based cloud file operations using rclone CLI. |
+| [RDS Database Operator](../../it-and-development/cloud-and-devops/rds-database-operator.md) | Provisions and manages AWS RDS databases with backups, replicas, and monitoring. |
 | [Redis Cli](../../it-and-development/cloud-and-devops/redis-cli.md) | Redis CLI reference for querying, inspecting, and managing Redis from the command line. |
 | [Release Captain](../../it-and-development/cloud-and-devops/release-captain.md) | Runs the release checklist and refuses to skip the step everyone always skips. |
 | [Render Automation](../../it-and-development/cloud-and-devops/render-automation.md) | Automate Render cloud operations: services, deployments, projects via Rube MCP. |
 | [Rootly Incident Responder](../../it-and-development/cloud-and-devops/rootly-incident-responder.md) | Analyzes production incidents and recommends solutions using Rootly incident data. |
 | [Rote](../../it-and-development/cloud-and-devops/rote.md) | Compiles proven agent templates into deterministic pipelines and serves them as MCP tools. |
+| [S3 Bucket Operations](../../it-and-development/cloud-and-devops/s3-bucket-operations.md) | Configures and hardens S3 buckets, policies, lifecycle rules, and replication on AWS. |
 | [Se Gitops Ci Specialist](../../it-and-development/cloud-and-devops/se-gitops-ci-specialist.md) | Makes deployments boring and reliable by triaging failures, fixing pipelines, and enforcing GitOps standards. |
 | [Secrets Management](../../it-and-development/cloud-and-devops/secrets-management.md) | Manage CI/CD secrets with Vault, AWS, Azure, or GCP without hardcoding. |
 | [Senior Devops](../../it-and-development/cloud-and-devops/senior-devops.md) | Sets up CI/CD pipelines, scaffolds infrastructure as code, and manages cloud deployments across AWS, GCP, and Azure. |
@@ -174,6 +200,7 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Service](../../it-and-development/cloud-and-devops/service.md) | Manage Railway services: check status, rename, change icons, link, or create from Docker images. |
 | [Service Mesh Expert](../../it-and-development/cloud-and-devops/service-mesh-expert.md) | Design and implement service mesh architectures with Istio and Linkerd. |
 | [Service Mesh Observability](../../it-and-development/cloud-and-devops/service-mesh-observability.md) | Configure Istio/Linkerd observability: metrics, traces, dashboards, and SLOs. |
+| [Shelf Edge Price Sync](shelf-edge-price-sync.md) | Keeps ERP prices and electronic shelf labels in sync without draining tag batteries. |
 | [Shipping And Launch](../../it-and-development/cloud-and-devops/shipping-and-launch.md) | Safely deploy production changes with staged rollouts and rollback plans. |
 | [Slo Implementation](../../it-and-development/cloud-and-devops/slo-implementation.md) | Define and implement SLIs, SLOs, and error budgets for service reliability. |
 | [Smart Git Automation](../../it-and-development/cloud-and-devops/smart-git-automation.md) | Smart change detection, auto branch naming, and streamlined commit/PR workflow. |
@@ -182,6 +209,7 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Sshepherd](../../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
 | [Status](../../it-and-development/cloud-and-devops/status.md) | Check Railway project status, deployments, and uptime for this directory. |
 | [System Monitoring Assistant](../../it-and-development/cloud-and-devops/system-monitoring-assistant.md) | Continuous system monitoring, alerting, and capacity planning for IT managers. |
+| [Systemd Service Manager](../../it-and-development/cloud-and-devops/systemd-service-manager.md) | Drafts and manages systemd services, timers, sockets and resource limits, with approval before anything touches a host. |
 | [Tech Stack Evaluation Assistant](tech-stack-evaluation-assistant.md) | Evaluates and optimizes your company's tech stack for performance, cost, security, and future readiness. |
 | [Technology Integration Coordinator](../../management/cloud-and-devops/technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |
 | [Technology Integration Operations Assistant](technology-integration-operations-assistant.md) | Guides technology integration from evaluation to optimization for operations leaders. |
@@ -190,6 +218,7 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Terraform](../../it-and-development/cloud-and-devops/terraform.md) | Generates compliant Terraform code and manages HCP workspaces with registry lookups. |
 | [Terraform Infrastructure](../../it-and-development/cloud-and-devops/terraform-infrastructure.md) | Provision and manage cloud infrastructure with Terraform, safely and repeatably. |
 | [Terraform Specialist](../../it-and-development/cloud-and-devops/terraform-specialist.md) | Designs and manages Terraform/OpenTofu infrastructure with secure state, modular code, and automated pipelines. |
+| [TLS Certificate Manager](../../it-and-development/cloud-and-devops/tls-certificate-manager.md) | Tracks SSL/TLS certificates, flags expiring ones, and drafts renewal and hardening plans for your approval. |
 | [Vercel Automation](../../it-and-development/cloud-and-devops/vercel-automation.md) | Automate Vercel deployments, env vars, domains, DNS, projects, and teams via Rube MCP. |
 | [Vercel Deploy](../../it-and-development/cloud-and-devops/vercel-deploy.md) | Deploys projects to Vercel as preview or production. |
 | [Vercel Deployment Specialist](../../it-and-development/cloud-and-devops/vercel-deployment-specialist.md) | Configures and deploys projects to Vercel with edge functions, performance tuning, and monitoring. |
@@ -201,6 +230,7 @@ Infrastructure, deployments, monitoring and incident response. 196 Grok Bot temp
 | [Wireless Network Optimization Assistant](../../it-and-development/cloud-and-devops/wireless-network-optimization-assistant.md) | Optimizes wireless networks through analysis, planning, and configuration recommendations. |
 | [Workflow Automation](../../it-and-development/cloud-and-devops/workflow-automation.md) | Designs durable workflow automations that survive failures and scale reliably. |
 | [Zapier Make Patterns](../../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
+| [Zero-Downtime Deployment Planner](../../it-and-development/cloud-and-devops/zero-downtime-deployment-planner.md) | Plans and verifies zero-downtime deployments with blue-green, canary, and rolling strategies. |
 | [Zoom Automation](../../it-and-development/cloud-and-devops/zoom-automation.md) | Automate Zoom meetings, webinars, recordings, and participant reports via Composio MCP. |
 
 [← All Operations templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/operations)

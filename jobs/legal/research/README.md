@@ -1,6 +1,6 @@
 # Research templates for Legal
 
-Find sources, compare evidence and summarise what is known. 64 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 68 Grok Bot templates, 44 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -49,6 +49,7 @@ Find sources, compare evidence and summarise what is known. 64 Grok Bot template
 | [Patent Application Drafting Assistant](patent-application-drafting-assistant.md) | Drafts, reviews, and files patent applications with precision and compliance. |
 | [Patent Classification Assistant](patent-classification-assistant.md) | Classifies patents, analyzes prior art, and manages classification workflows for patent agents. |
 | [Patent Infringement Analysis Assistant](patent-infringement-analysis-assistant.md) | Patent infringement analysis assistant for patent agents, from prior art to litigation support. |
+| [Patent Prior-Art Intelligence](patent-prior-art-intelligence.md) | Runs patent prior-art and landscape searches and returns a ranked, sourced report. |
 | [Patent Research and Analysis Assistant](../../product-development/research/patent-research-and-analysis-assistant.md) | Patent research and analysis assistant for R&D engineers, from prior art to strategy. |
 | [Patent Research and Guidance Assistant](../../science-and-research/research/patent-research-and-guidance-assistant.md) | Patent research and guidance assistant for research associates. |
 | [Patent Research Assistant](patent-research-assistant.md) | Runs patent research tasks: searches, analyses, drafting support, and monitoring updates. |
@@ -60,7 +61,10 @@ Find sources, compare evidence and summarise what is known. 64 Grok Bot template
 | [Regulatory Filing Assistant](regulatory-filing-assistant.md) | Prepares, checks, and tracks regulatory filings for paralegals. |
 | [Regulatory Research Assistant](regulatory-research-assistant.md) | Tracks, interprets, and applies regulatory changes for compliance officers. |
 | [Regulatory Update Analyst](regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
+| [Research Summarizer](../../science-and-research/research/research-summarizer.md) | Turns papers, articles and reports you already have into structured briefs with proper citations. |
 | [Screen Adverse Media](../../operations/research/screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
+| [Search Strategy Planner](../../science-and-research/research/search-strategy-planner.md) | Turns your information need into a search plan, evaluates the sources you find, and synthesizes the findings. |
+| [Serply Sourced Search](../../writers/research/serply-sourced-search.md) | Searches Google, Bing, News and Scholar through Serply and answers with cited sources. |
 | [Tax Code Interpretation Assistant](../../finance/research/tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |
 | [Tax Dispute Case Assistant](../../finance/research/tax-dispute-case-assistant.md) | Prepares tax dispute cases, from research to hearings, with drafts and strategy. |
 | [Technology Trend Intelligence Assistant](technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |

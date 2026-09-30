@@ -1,6 +1,6 @@
 # Writing & Content templates for Executives and Strategy
 
-Plan, write and edit articles, copy and documentation. 21 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 23 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Plan, write and edit articles, copy and documentation. 21 Grok Bot templates, 18
 | [Executive Resume Writer](../../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 | [Executive Speech Writer](executive-speech-writer.md) | Crafts and polishes executive speeches from outline to delivery. |
 | [Executive Speechwriter](executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
+| [Executive Summary Generator](executive-summary-generator.md) | Turns long business documents into a short, quantified executive summary with clear recommendations. |
 | [Finance ESG Report Builder](../../finance/writing-and-content/finance-esg-report-builder.md) | Turns sustainability data into reports, insights, and stakeholder-ready narratives. |
 | [Founder Content Creation Assistant](founder-content-creation-assistant.md) | Turns your ideas into polished, SEO-ready content across all channels. |
 | [Founder Pitch Deck Coach](founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
@@ -25,6 +26,7 @@ Plan, write and edit articles, copy and documentation. 21 Grok Bot templates, 18
 | [Remote Workforce Management Assistant](remote-workforce-management-assistant.md) | Manages remote workforce engagement, performance, policies, and support for HR leaders. |
 | [Stakeholder Communication Director](stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
 | [Stakeholder Financial Communications Assistant](stakeholder-financial-communications-assistant.md) | Drafts and coordinates all stakeholder financial communications for a VP of Finance. |
+| [Strategy Brief Writer](strategy-brief-writer.md) | Turns a raw strategic question into a one-page brief with options, assumptions, and success criteria. |
 | [Strategy VP Comms Studio](strategy-vp-comms-studio.md) | Plans and executes stakeholder communication for strategy VPs. |
 | [Succession Pipeline Architect](succession-pipeline-architect.md) | Builds and runs your succession pipeline from assessment to transition. |
 

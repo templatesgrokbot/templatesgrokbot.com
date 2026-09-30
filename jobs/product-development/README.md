@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **1,063 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **1,104 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,23 +11,23 @@ Product managers and the teams that ship. **1,063 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Coding](coding/README.md) | 399 |
-| [Design](design/README.md) | 100 |
-| [Data Analysis](data-analysis/README.md) | 78 |
-| [Productivity](productivity/README.md) | 75 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 72 |
-| [Research](research/README.md) | 67 |
-| [Generative Code](generative-code/README.md) | 65 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 51 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 37 |
-| [Security & Compliance](security-and-compliance/README.md) | 25 |
-| [Writing & Content](writing-and-content/README.md) | 24 |
+| [Coding](coding/README.md) | 400 |
+| [Design](design/README.md) | 101 |
+| [Productivity](productivity/README.md) | 88 |
+| [Data Analysis](data-analysis/README.md) | 83 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 74 |
+| [Research](research/README.md) | 71 |
+| [Generative Code](generative-code/README.md) | 66 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 53 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 41 |
+| [Writing & Content](writing-and-content/README.md) | 30 |
+| [Security & Compliance](security-and-compliance/README.md) | 26 |
 | [Prompt Engineering](prompt-engineering/README.md) | 23 |
 | [Knowledge Management](knowledge-management/README.md) | 17 |
 | [Generative Art](generative-art/README.md) | 9 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
 | [Self-Improvement](self-improvement/README.md) | 6 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
 | [Translation](translation/README.md) | 2 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Support & Community](support-and-community/README.md) | 1 |
@@ -38,15 +38,15 @@ Product managers and the teams that ship. **1,063 ready-made Grok Bot templates*
 | Template | What it does |
 |---|---|
 | [Screenshot Interaction Analyzer](../it-and-development/coding/screenshot-interaction-analyzer.md) | Analyzes UI screenshots to map every clickable element, input, and navigation path. |
-| [Tdd Orchestrator](../it-and-development/coding/tdd-orchestrator.md) | Enforces red-green-refactor cycles and coordinates multi-agent TDD workflows across software projects. |
 | [Poka Yoke](../it-and-development/coding/poka-yoke.md) | Redesign work so mistakes cannot become defects, without relying on human memory. |
+| [Tdd Orchestrator](../it-and-development/coding/tdd-orchestrator.md) | Enforces red-green-refactor cycles and coordinates multi-agent TDD workflows across software projects. |
 | [Neon Database Architect](../it-and-development/coding/neon-database-architect.md) | Designs and optimizes Neon serverless database schemas and queries. |
-| [Filesystem Context](../it-and-development/coding/filesystem-context.md) | Manage context via filesystem: offload, retrieve, and persist agent state on demand. |
-| [Opencode Delegate](../it-and-development/coding/opencode-delegate.md) | Hand bounded coding tasks to the OpenCode CLI, review diffs, and commit yourself. |
-| [Web3 Testing](../it-and-development/coding/web3-testing.md) | Write and run unit, integration, fuzz, and gas tests for Solidity smart contracts. |
 | [Fp Ts React](../it-and-development/coding/fp-ts-react.md) | Practical fp-ts patterns for React apps: state, forms, data fetching. |
+| [Filesystem Context](../it-and-development/coding/filesystem-context.md) | Manage context via filesystem: offload, retrieve, and persist agent state on demand. |
+| [Legacy Modernizer](../it-and-development/coding/legacy-modernizer.md) | Plan and execute safe, incremental migrations of legacy systems to modern architectures. |
+| [Opencode Delegate](../it-and-development/coding/opencode-delegate.md) | Hand bounded coding tasks to the OpenCode CLI, review diffs, and commit yourself. |
 
-[All 399 Coding templates →](coding/README.md)
+[All 400 Coding templates →](coding/README.md)
 
 ## Design
 
@@ -58,10 +58,25 @@ Product managers and the teams that ship. **1,063 ready-made Grok Bot templates*
 | [Spatial Computing Ui](../it-and-development/design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
 | [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [High End Visual Design](../creatives/design/high-end-visual-design.md) | Awwwards-tier UI architecture and motion design for premium, agency-grade interfaces. |
-| [Ui Ux Designer](../creatives/design/ui-ux-designer.md) | Reviews UI/UX designs with research-backed critiques and accessibility compliance checks. |
 | [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
+| [Ui Ux Designer](../creatives/design/ui-ux-designer.md) | Reviews UI/UX designs with research-backed critiques and accessibility compliance checks. |
 
-[All 100 Design templates →](design/README.md)
+[All 101 Design templates →](design/README.md)
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Game Changing Features](../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
+| [Linear Automation](../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
+| [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
+| [Build](productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
+| [Notion Template Business](../creatives/productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
+| [Se Product Manager Advisor](productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
+| [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
+| [To Issues](productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
+
+[All 88 Productivity templates →](productivity/README.md)
 
 ## Data Analysis
 
@@ -76,22 +91,7 @@ Product managers and the teams that ship. **1,063 ready-made Grok Bot templates*
 | [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
 
-[All 78 Data Analysis templates →](data-analysis/README.md)
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Game Changing Features](../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
-| [Linear Automation](../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
-| [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
-| [Notion Template Business](../creatives/productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
-| [Build](productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
-| [Se Product Manager Advisor](productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
-| [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
-| [Agile Product Owner](productivity/agile-product-owner.md) | Generates INVEST-compliant user stories and manages sprint backlog for a product owner. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
-
-[All 75 Productivity templates →](productivity/README.md)
+[All 83 Data Analysis templates →](data-analysis/README.md)
 
 ## Generative AI and LLM
 
@@ -100,13 +100,13 @@ Product managers and the teams that ship. **1,063 ready-made Grok Bot templates*
 | [Microsoft Agent Framework Python](../it-and-development/generative-ai-and-llm/microsoft-agent-framework-python.md) | Create and maintain Python AI agents using Microsoft Agent Framework. Always check latest docs first. Interview once for project details. Keep state o |
 | [Llm Evaluation](../it-and-development/generative-ai-and-llm/llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
 | [Embedding Strategies](../it-and-development/generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
-| [Llm Council](../it-and-development/generative-ai-and-llm/llm-council.md) | Run a council of open-weight LLMs that deliberate and synthesize a final answer via Fireworks AI. |
 | [Ai Engineering Toolkit](../it-and-development/generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
-| [Agent Tool Builder](../it-and-development/generative-ai-and-llm/agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
+| [Llm Council](../it-and-development/generative-ai-and-llm/llm-council.md) | Run a council of open-weight LLMs that deliberate and synthesize a final answer via Fireworks AI. |
 | [Crewai](../it-and-development/generative-ai-and-llm/crewai.md) | Designs collaborative AI agent teams with CrewAI framework |
 | [Model Evaluator](../it-and-development/generative-ai-and-llm/model-evaluator.md) | Benchmarks AI models to pick the best for your task, budget, and latency needs. |
+| [Agent Tool Builder](../it-and-development/generative-ai-and-llm/agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
 
-[All 72 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 74 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
 ## Research
 
@@ -121,7 +121,7 @@ Product managers and the teams that ship. **1,063 ready-made Grok Bot templates*
 | [Lightning Architecture Review](../it-and-development/research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 | [Wiki Researcher](../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
 
-[All 67 Research templates →](research/README.md)
+[All 71 Research templates →](research/README.md)
 
 ## Generative Code
 
@@ -136,7 +136,7 @@ Product managers and the teams that ship. **1,063 ready-made Grok Bot templates*
 | [Game Design](../creatives/generative-code/game-design.md) | Design game loops, documents, and progression systems. |
 | [Threejs Fundamentals](../creatives/generative-code/threejs-fundamentals.md) | Set up Three.js scenes, cameras, renderers, and object hierarchies. |
 
-[All 65 Generative Code templates →](generative-code/README.md)
+[All 66 Generative Code templates →](generative-code/README.md)
 
 ## Cloud & DevOps
 
@@ -144,14 +144,14 @@ Product managers and the teams that ship. **1,063 ready-made Grok Bot templates*
 |---|---|
 | [Azure Saas Architect](../it-and-development/cloud-and-devops/azure-saas-architect.md) | Design multitenant Azure SaaS architectures using Well-Architected principles. |
 | [Algolia Search](../it-and-development/cloud-and-devops/algolia-search.md) | Implementation patterns, indexing strategies, and relevance tuning for Algolia search. |
-| [Power Platform Expert](../it-and-development/cloud-and-devops/power-platform-expert.md) | Provides expert guidance on Power Platform development, architecture, and best practices. |
 | [Azure Ai Ml Py](../it-and-development/cloud-and-devops/azure-ai-ml-py.md) | Manage Azure ML workspaces, jobs, models, data, compute, and pipelines via SDK v2. |
+| [Power Platform Expert](../it-and-development/cloud-and-devops/power-platform-expert.md) | Provides expert guidance on Power Platform development, architecture, and best practices. |
 | [Azure Appconfiguration Java](../it-and-development/cloud-and-devops/azure-appconfiguration-java.md) | Centralized config management with key-values, feature flags, and snapshots. |
 | [Deployment Procedures](../it-and-development/cloud-and-devops/deployment-procedures.md) | Guides safe production deployments with rollback planning and verification. |
 | [Release Captain](../it-and-development/cloud-and-devops/release-captain.md) | Runs the release checklist and refuses to skip the step everyone always skips. |
 | [Agents V2 Py](../it-and-development/cloud-and-devops/agents-v2-py.md) | Provision container-based hosted agents in Azure AI Foundry using the Python SDK. |
 
-[All 51 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 53 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Marketing & Growth
 
@@ -166,22 +166,7 @@ Product managers and the teams that ship. **1,063 ready-made Grok Bot templates*
 | [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
 | [Product Ideation Assistant](../executives-and-strategy/marketing-and-growth/product-ideation-assistant.md) | Turns raw product ideas into validated, prioritized concepts with market-ready details. |
 
-[All 37 Marketing & Growth templates →](marketing-and-growth/README.md)
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Fda Consultant Specialist](../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
-| [Smart Contract Auditor](../it-and-development/security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
-| [Security Threat Model](../it-and-development/security-and-compliance/security-threat-model.md) | Threat model a codebase from its source, producing a grounded Markdown report. |
-| [Backend Security Coder](../it-and-development/security-and-compliance/backend-security-coder.md) | Secure backend coding expert for input validation, authentication, and API security. |
-| [Regulatory Compliance Guidance Assistant](security-and-compliance/regulatory-compliance-guidance-assistant.md) | Guides process engineers through regulatory compliance research, documentation, reporting, training, audits, and risk management. |
-| [R&D Regulatory Navigator](security-and-compliance/r-d-regulatory-navigator.md) | Regulatory compliance guidance for R&D engineers: research, interpret, document, monitor, audit, train. |
-| [Security And Hardening](../it-and-development/security-and-compliance/security-and-hardening.md) | Hardens code against vulnerabilities by threat modeling and applying OWASP prevention patterns. |
-| [Se Responsible Ai Code](../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
-
-[All 25 Security & Compliance templates →](security-and-compliance/README.md)
+[All 41 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Writing & Content
 
@@ -196,7 +181,22 @@ Product managers and the teams that ship. **1,063 ready-made Grok Bot templates*
 | [Doc Co-Authoring Workflow](../writers/writing-and-content/doc-coauthoring.md) | Guides users through co-authoring docs with context, refinement, and reader testing. |
 | [App Store Changelog](../it-and-development/writing-and-content/app-store-changelog.md) | Generate App Store release notes from git history since the last tag. |
 
-[All 24 Writing & Content templates →](writing-and-content/README.md)
+[All 30 Writing & Content templates →](writing-and-content/README.md)
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Fda Consultant Specialist](../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
+| [Smart Contract Auditor](../it-and-development/security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
+| [Security Threat Model](../it-and-development/security-and-compliance/security-threat-model.md) | Threat model a codebase from its source, producing a grounded Markdown report. |
+| [Backend Security Coder](../it-and-development/security-and-compliance/backend-security-coder.md) | Secure backend coding expert for input validation, authentication, and API security. |
+| [Regulatory Compliance Guidance Assistant](security-and-compliance/regulatory-compliance-guidance-assistant.md) | Guides process engineers through regulatory compliance research, documentation, reporting, training, audits, and risk management. |
+| [R&D Regulatory Navigator](security-and-compliance/r-d-regulatory-navigator.md) | Regulatory compliance guidance for R&D engineers: research, interpret, document, monitor, audit, train. |
+| [Security And Hardening](../it-and-development/security-and-compliance/security-and-hardening.md) | Hardens code against vulnerabilities by threat modeling and applying OWASP prevention patterns. |
+| [Se Responsible Ai Code](../it-and-development/security-and-compliance/se-responsible-ai-code.md) | Review code for bias, accessibility, privacy, and ethical issues before it ships. |
+
+[All 26 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Prompt Engineering
 
@@ -273,6 +273,7 @@ Product managers and the teams that ship. **1,063 ready-made Grok Bot templates*
 |---|---|
 | [Collaboration Network Expander](sales-and-negotiation/collaboration-network-expander.md) | Expands your professional network and collaboration opportunities through targeted research, outreach, and partnership coordination. |
 | [Sales Engineer](../sales/sales-and-negotiation/sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
+| [Idea Advocacy Debater](sales-and-negotiation/idea-advocacy-debater.md) | Argues the strongest logical case for an idea, then hands the debate back to its owner. |
 
 ## Translation
 

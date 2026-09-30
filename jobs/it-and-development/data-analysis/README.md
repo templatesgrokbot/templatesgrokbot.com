@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 237 Grok Bot templates, 170 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 240 Grok Bot templates, 173 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -85,6 +85,7 @@ Clean, query, chart and explain data. 237 Grok Bot templates, 170 of them filed 
 | [E-commerce UX Improvement Assistant](../../management/data-analysis/e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
 | [E-Discovery Project Coordinator](../../legal/data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Elasticsearch Observability](elasticsearch-observability.md) | Debug code, optimize search, and remediate threats using live Elastic data. |
+| [Engineering Plan Review](engineering-plan-review.md) | Pressure-tests engineering plans on delivery throughput, hiring, structure and production discipline before you commit. |
 | [Enterprise Data Management Planner](enterprise-data-management-planner.md) | Manages enterprise data from collection through governance and analytics for a Global Head of IT. |
 | [Extract Document Data](../../operations/data-analysis/extract-document-data.md) | Extract grounded JSON fields from documents with per-value page citations and abstention on missing values. |
 | [Feedback Loop Optimizer](feedback-loop-optimizer.md) | Turns customer feedback into prioritized, actionable insights for QA managers. |
@@ -211,6 +212,7 @@ Clean, query, chart and explain data. 237 Grok Bot templates, 170 of them filed 
 | [Social Media Insights Analyst](social-media-insights-analyst.md) | Analyzes social media data to deliver insights, trends, and optimization strategies for business analysts. |
 | [Software Performance Analyzer](software-performance-analyzer.md) | Analyzes software performance data and turns it into optimization actions for developers. |
 | [Spreadsheet](../../finance/data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
+| [SQL Query Writer](sql-query-writer.md) | Turns plain-language data questions into correct, explained SQL for your database dialect. |
 | [Sql Sentinel](sql-sentinel.md) | Audits SQL for cost and performance anti-patterns, scores warehouse health 0-100, and outputs a prioritized cost-reduction plan. Works with BigQuery, |
 | [Stakeholder Engagement Analyst](stakeholder-engagement-analyst.md) | Maps, analyzes, and reports on stakeholders to sharpen engagement strategies. |
 | [Statistical Analysis Assistant](statistical-analysis-assistant.md) | Guides data analysts through statistical analysis tasks from cleaning to interpretation. |
@@ -237,6 +239,7 @@ Clean, query, chart and explain data. 237 Grok Bot templates, 170 of them filed 
 | [Vendor Management Insights Assistant](vendor-management-insights-assistant.md) | Turns vendor data into performance, risk, contract, and cost insights for technology managers. |
 | [Video Content Extractor](video-content-extractor.md) | Extract text from MP4 videos via key frames and OCR into Markdown reports. |
 | [Warehouse](warehouse.md) | Plan and review read-only warehouse analysis with explicit scope and validation checks. No schema guessing or write operations. Hand off admin, pipeli |
+| [Weather Alert Monitor](weather-alert-monitor.md) | Watches the weather for your saved places and alerts you only when conditions cross your thresholds. |
 | [Weaviate](weaviate.md) | Search, query, and manage data in a Weaviate vector database. |
 | [Web Analytics Insight Assistant](web-analytics-insight-assistant.md) | Turns your web analytics data into clear insights and actionable recommendations. |
 | [Website Data Visualization Assistant](website-data-visualization-assistant.md) | Turns website data into clear, interactive visualizations that engage users. |

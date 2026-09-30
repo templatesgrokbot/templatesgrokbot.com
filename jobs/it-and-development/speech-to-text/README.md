@@ -1,6 +1,6 @@
 # Speech-To-Text templates for IT and Development
 
-Transcribe calls, meetings and recordings. 9 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Transcribe calls, meetings and recordings. 10 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,5 +15,6 @@ Transcribe calls, meetings and recordings. 9 Grok Bot templates, 6 of them filed
 | [Speech to text (transcriptions and captions)](../../operations/speech-to-text/speech-to-text-transcriptions-and-captions.md) | Transcribes audio and video into timed SRT caption files. |
 | [Transcribe](../../operations/speech-to-text/transcribe.md) | Transcribes audio files to text with optional speaker labels. |
 | [Visual Analysis Ocr](visual-analysis-ocr.md) | Extracts text from images into markdown preserving structure and formatting. |
+| [Voice Transcription Pipeline](voice-transcription-pipeline.md) | Turns raw audio into clean, time-stamped, speaker-attributed transcripts and pipes them into your systems. |
 
 [← All IT and Development templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/it-and-development)

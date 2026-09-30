@@ -1,6 +1,6 @@
 # Productivity templates for Executives and Strategy
 
-Plan, prioritise and clear the recurring admin. 93 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 106 Grok Bot templates, 78 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,14 +8,19 @@ Plan, prioritise and clear the recurring admin. 93 Grok Bot templates, 68 of the
 |---|---|
 | [Auri Core](../../product-development/productivity/auri-core.md) | Voice assistant product strategy and roadmap assistant for Auri (Alexa + Claude). |
 | [Before You Build](../../product-development/productivity/before-you-build.md) | Pause before coding to check demand, alternatives, and switching costs. |
+| [Board Meeting Facilitator](board-meeting-facilitator.md) | Runs a structured multi-perspective board deliberation on a strategic question and logs the founder's decision. |
 | [Board Meeting Preparation Assistant](board-meeting-preparation-assistant.md) | Prepares board meetings end-to-end: agenda, documents, scheduling, minutes, research, presentations, logistics, and follow-ups. |
 | [Brainstorming](../../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
+| [Business Model Canvas Builder](business-model-canvas-builder.md) | Builds a complete nine-block Business Model Canvas for a business you describe. |
 | [Calendar Defragmenter](../../management/productivity/calendar-defragmenter.md) | Audits your calendar, proposes consolidations and focus blocks, and drafts the messages to reclaim your week. |
+| [Calendar Operations Assistant](calendar-operations-assistant.md) | Turns your calendar into a daily briefing, prep notes, protected focus blocks and a weekly report. |
 | [CDO Digital Transformation Roadmap](cdo-digital-transformation-roadmap.md) | Plans and guides your digital transformation from assessment to execution. |
 | [CEO Sustainability Roadmap Builder](ceo-sustainability-roadmap-builder.md) | Turns your company's sustainability data into a practical action plan, from assessment to reporting. |
 | [Change Management Strategy Planner](change-management-strategy-planner.md) | Plans and guides organizational change from stakeholder analysis to continuous improvement. |
+| [Chief of Staff Coordinator](chief-of-staff-coordinator.md) | Filters noise, routes decisions, and keeps every document in sync so the principal can think clearly. |
 | [CIO Project Command Center](cio-project-command-center.md) | Supports CIOs with project management planning, tracking, and reporting. |
 | [Claude Speed Reader](../../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Company Operating System](../../operations/productivity/company-operating-system.md) | Designs and runs your company's operating system: accountability, scorecard, meeting pulse, issues, and 90-day rocks. |
 | [COO Tech Integration Optimizer](coo-tech-integration-optimizer.md) | Plans, executes, and optimizes technology integration for COOs. |
 | [Crisis Management Assistant](crisis-management-assistant.md) | Crisis management assistant for Managing Directors, covering assessment, communication, and recovery. |
 | [Crisis Management Coordinator](crisis-management-coordinator.md) | Prepares, coordinates, and reviews crisis response for COOs. |
@@ -26,10 +31,12 @@ Plan, prioritise and clear the recurring admin. 93 Grok Bot templates, 68 of the
 | [CSR Program Director](csr-program-director.md) | Plans, runs, and reports on your company's CSR initiatives from strategy to impact. |
 | [CSR Strategy Builder](csr-strategy-builder.md) | Builds and runs your CSR strategy from stakeholder analysis to reporting. |
 | [CTO IT Project Navigator](cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
+| [Decision Cooldown Lock](decision-cooldown-lock.md) | Locks a strategic decision for a cooldown period so it cannot be re-litigated on impulse. |
 | [Digital Transformation Roadmap Planner](../../it-and-development/productivity/digital-transformation-roadmap-planner.md) | Plans and guides your company's digital transformation from assessment to execution. |
 | [Digital Transformation Strategy Assistant](digital-transformation-strategy-assistant.md) | Guides strategy managers through digital transformation from readiness to rollout. |
 | [Digital Transformation Strategy Planner](digital-transformation-strategy-planner.md) | Guides digital transformation strategy from research to execution for VPs. |
 | [Diversity and Inclusion Program Planner](diversity-and-inclusion-program-planner.md) | Plans and runs your diversity and inclusion initiatives, from training to metrics. |
+| [Email Triage Classifier](email-triage-classifier.md) | Sorts your inbox by category, priority and required action, and tells you what to do first. |
 | [Employee Well-Being Programs Assistant](employee-well-being-programs-assistant.md) | Plans, promotes, and supports employee well-being initiatives for HR leaders. |
 | [Enterprise Crisis Plan Architect](enterprise-crisis-plan-architect.md) | Builds and maintains a complete crisis management plan for your organization. |
 | [EVP Strategy Navigator](evp-strategy-navigator.md) | Facilitates strategic planning from SWOT to KPIs, turning data into decisions. |
@@ -40,6 +47,7 @@ Plan, prioritise and clear the recurring admin. 93 Grok Bot templates, 68 of the
 | [Executive Stakeholder Engagement Planner](executive-stakeholder-engagement-planner.md) | Coordinates stakeholder meetings, communications, and engagement for executive directors. |
 | [Facility Operations Manager](facility-operations-manager.md) | Manage facility maintenance, vendors, space, energy, safety, and projects from one chat assistant. |
 | [Find Complementary Founders](find-complementary-founders.md) | Match founders by evidence, not claims — publish only your own owner's profile. |
+| [Founder Executive Team](founder-executive-team.md) | Runs a virtual executive team that pressure-tests founder decisions and logs them. |
 | [Future Scenario Builder](future-scenario-builder.md) | Builds and tests future scenarios for strategic planning, from scanning to stakeholder communication. |
 | [Game Changing Features](game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
 | [GM Collaboration Planner](gm-collaboration-planner.md) | Helps general managers plan, run, and improve team collaboration across meetings, projects, and conflict. |
@@ -65,11 +73,13 @@ Plan, prioritise and clear the recurring admin. 93 Grok Bot templates, 68 of the
 | [IT Strategy Formulation Assistant](../../it-and-development/productivity/it-strategy-formulation-assistant.md) | Turns IT landscape data into a strategic plan for a Vice President of IT, with approvals before any action. |
 | [IT Training Program Planner](it-training-program-planner.md) | Designs and manages IT staff training, from needs assessment to certification prep. |
 | [Kody](../../management/productivity/kody.md) | Coordinates priorities across people, projects, and assistants. |
+| [Lean Canvas Builder](lean-canvas-builder.md) | Builds a Lean Canvas for a new venture and flags the riskiest assumptions to test first. |
 | [MD Market Strategy Planner](md-market-strategy-planner.md) | Strategic planning assistant for Managing Directors, turning market data into actionable plans. |
 | [MD Stakeholder Liaison](md-stakeholder-liaison.md) | Coordinates all stakeholder communication for a managing director, from updates to crisis plans. |
 | [Micro Saas Launcher](../../product-development/productivity/micro-saas-launcher.md) | Guide from idea to paying customers for a micro-SaaS in weeks. |
 | [Multi Advisor](multi-advisor.md) | Consult multiple specialists in parallel for multi-perspective analysis and decision synthesis. |
 | [Notion Meeting Intelligence](../../management/productivity/notion-meeting-intelligence.md) | Prep meeting agendas and pre-reads using Notion context and Codex research. |
+| [Operations Leadership Advisor](../../operations/productivity/operations-leadership-advisor.md) | Turns company strategy into an operating cadence, OKR cascade and process fixes. |
 | [Osterwalder Canvas Architect](osterwalder-canvas-architect.md) | Iteratively build and audit logically consistent 9-block Business Model Canvases. |
 | [Outlook Calendar Automation](../../management/productivity/outlook-calendar-automation.md) | Automate Outlook Calendar: create, update, delete events, manage attendees, find meeting times. |
 | [Performance Review Cycle Manager](performance-review-cycle-manager.md) | Manages the full performance review cycle for general managers. |
@@ -79,6 +89,7 @@ Plan, prioritise and clear the recurring admin. 93 Grok Bot templates, 68 of the
 | [Project Management Coordination Assistant](project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
 | [Project Management Efficiency Assistant](../../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
 | [Recruitment Strategy Assistant](recruitment-strategy-assistant.md) | Turns your hiring process into a structured, AI-assisted recruitment workflow. |
+| [Strategic Alignment Mapper](strategic-alignment-mapper.md) | Maps your company strategy down to every team goal and flags where the cascade breaks. |
 | [Strategic Event Planner](strategic-event-planner.md) | Plans events end-to-end for a Chief Strategy Officer, from venue to feedback. |
 | [Strategic Goal Setting Assistant](strategic-goal-setting-assistant.md) | Turns your vision into aligned, measurable goals with plans, KPIs, and reviews. |
 | [Strategic IT Planning Assistant](../../it-and-development/productivity/strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
@@ -86,7 +97,9 @@ Plan, prioritise and clear the recurring admin. 93 Grok Bot templates, 68 of the
 | [Strategic Planning Facilitator](../../sales/productivity/strategic-planning-facilitator.md) | Facilitates strategic planning for CSOs from goal setting to review. |
 | [Strategic Planning Guide](strategic-planning-guide.md) | Guides executive directors through the full strategic planning cycle, from vision to review. |
 | [Strategic Roadmap Planner](strategic-roadmap-planner.md) | Turns market data, stakeholder input, and goals into a prioritised, risk-aware strategic roadmap. |
+| [Strategy Red-Team](strategy-red-team.md) | Attacks the load-bearing assumptions in a plan and returns the cheapest test for each. |
 | [Strategy Stakeholder Messenger](strategy-stakeholder-messenger.md) | Manages all stakeholder communication for strategy managers, from updates to crisis messaging. |
+| [Studio Portfolio Producer](../../management/productivity/studio-portfolio-producer.md) | Tracks a creative studio's project portfolio, resource allocation and strategic risks in one place. |
 | [Sustainability Initiatives Planner](sustainability-initiatives-planner.md) | Plans and drives your company's sustainability initiatives from research to reporting. |
 | [Sustainability Roadmap Builder](sustainability-roadmap-builder.md) | Plans and tracks your organization's sustainability initiatives across energy, waste, water, and more. |
 | [Sustainability Strategy Planner](../../operations/productivity/sustainability-strategy-planner.md) | Turns your operations data into a complete sustainability strategy, from trends to action plans. |

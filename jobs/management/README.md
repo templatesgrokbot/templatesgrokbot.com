@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **773 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **797 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,22 +11,22 @@ Team leads and project managers. **773 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 213 |
-| [Productivity](productivity/README.md) | 203 |
+| [Data Analysis](data-analysis/README.md) | 217 |
+| [Productivity](productivity/README.md) | 213 |
 | [Research](research/README.md) | 68 |
 | [Coding](coding/README.md) | 48 |
-| [Security & Compliance](security-and-compliance/README.md) | 44 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 40 |
+| [Security & Compliance](security-and-compliance/README.md) | 45 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 43 |
+| [Writing & Content](writing-and-content/README.md) | 25 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 24 |
-| [Writing & Content](writing-and-content/README.md) | 24 |
 | [Knowledge Management](knowledge-management/README.md) | 23 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 14 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 16 |
+| [Office Tools](office-tools/README.md) | 13 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 13 |
 | [Self-Improvement](self-improvement/README.md) | 12 |
-| [Office Tools](office-tools/README.md) | 11 |
 | [Support & Community](support-and-community/README.md) | 10 |
 | [Design](design/README.md) | 9 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 6 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 7 |
 | [Generative Code](generative-code/README.md) | 5 |
 | [Prompt Engineering](prompt-engineering/README.md) | 5 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
@@ -44,7 +44,7 @@ Team leads and project managers. **773 ready-made Grok Bot templates** for this 
 | [Risk Mitigation Plan Builder](../operations/data-analysis/risk-mitigation-plan-builder.md) | Identifies, assesses, and mitigates supply chain risks with data-driven insights and structured plans. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
-[All 213 Data Analysis templates →](data-analysis/README.md)
+[All 217 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -59,7 +59,7 @@ Team leads and project managers. **773 ready-made Grok Bot templates** for this 
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 
-[All 203 Productivity templates →](productivity/README.md)
+[All 213 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -87,7 +87,7 @@ Team leads and project managers. **773 ready-made Grok Bot templates** for this 
 | [Workflow Patterns](../it-and-development/coding/workflow-patterns.md) | Guide for implementing tasks with TDD workflow, phase checkpoints, and git commits. |
 | [Backend Development Feature Development](../it-and-development/coding/backend-development-feature-development.md) | Orchestrate backend feature development from requirements to deployment across teams and services. |
 | [Omp Delegate](../it-and-development/coding/omp-delegate.md) | Orchestrate bounded coding tasks via Oh My Pi, then review and commit yourself. |
-| [Atlas Contract](../it-and-development/coding/atlas-contract.md) | Prevents goal drift during backend, API, or data-critical work by emitting contracts and deviation notices. |
+| [Multi Agent Task Orchestrator](../it-and-development/coding/multi-agent-task-orchestrator.md) | Route tasks to specialized AI agents with anti-duplication and quality gates. |
 
 [All 48 Coding templates →](coding/README.md)
 
@@ -104,7 +104,7 @@ Team leads and project managers. **773 ready-made Grok Bot templates** for this 
 | [Construction Quality Control Assistant](../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
 | [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
 
-[All 44 Security & Compliance templates →](security-and-compliance/README.md)
+[All 45 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Marketing & Growth
 
@@ -119,22 +119,7 @@ Team leads and project managers. **773 ready-made Grok Bot templates** for this 
 | [Pricing Strategy Formulation Assistant](marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
 | [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
 
-[All 40 Marketing & Growth templates →](marketing-and-growth/README.md)
-
-## Cloud & DevOps
-
-| Template | What it does |
-|---|---|
-| [Gh Review Requests](../it-and-development/cloud-and-devops/gh-review-requests.md) | Fetch unread GitHub review requests for a specified team. |
-| [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
-| [C4 Architecture](../it-and-development/cloud-and-devops/c4-architecture.md) | Generate C4 model architecture diagrams as Mermaid markdown from codebase exploration. |
-| [On Call Handoff Patterns](../it-and-development/cloud-and-devops/on-call-handoff-patterns.md) | Structured on-call shift handoffs with incident context and continuity. |
-| [Deployment Procedures](../it-and-development/cloud-and-devops/deployment-procedures.md) | Guides safe production deployments with rollback planning and verification. |
-| [Sshepherd](../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
-| [Cloud Migration Strategy Planner](../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
-| [Incident Response Coordinator](cloud-and-devops/incident-response-coordinator.md) | Coordinates incident response: triage, communication, documentation, analysis, and continuous improvement for service managers. |
-
-[All 24 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 43 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Writing & Content
 
@@ -144,12 +129,27 @@ Team leads and project managers. **773 ready-made Grok Bot templates** for this 
 | [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Interview Style Doc Building](writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
 | [Internal Comms Drafter](../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
-| [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [Guest Experience Enhancer](../hospitality-and-events/writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
+| [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [PM Stakeholder Comms Kit](../product-development/writing-and-content/pm-stakeholder-comms-kit.md) | Drafts, summarizes, and plans all stakeholder communications for product managers. |
 
-[All 24 Writing & Content templates →](writing-and-content/README.md)
+[All 25 Writing & Content templates →](writing-and-content/README.md)
+
+## Cloud & DevOps
+
+| Template | What it does |
+|---|---|
+| [Gh Review Requests](../it-and-development/cloud-and-devops/gh-review-requests.md) | Fetch unread GitHub review requests for a specified team. |
+| [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
+| [C4 Architecture](../it-and-development/cloud-and-devops/c4-architecture.md) | Generate C4 model architecture diagrams as Mermaid markdown from codebase exploration. |
+| [Deployment Procedures](../it-and-development/cloud-and-devops/deployment-procedures.md) | Guides safe production deployments with rollback planning and verification. |
+| [On Call Handoff Patterns](../it-and-development/cloud-and-devops/on-call-handoff-patterns.md) | Structured on-call shift handoffs with incident context and continuity. |
+| [Sshepherd](../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
+| [Cloud Migration Strategy Planner](../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
+| [Incident Response Coordinator](cloud-and-devops/incident-response-coordinator.md) | Coordinates incident response: triage, communication, documentation, analysis, and continuous improvement for service managers. |
+
+[All 24 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Knowledge Management
 
@@ -162,7 +162,7 @@ Team leads and project managers. **773 ready-made Grok Bot templates** for this 
 | [Adr Generator](../it-and-development/knowledge-management/adr-generator.md) | Formalizes technical decisions into structured Architectural Decision Records. |
 | [Data Storage and Management Assistant](../science-and-research/knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
 | [Notion Knowledge Capture](../operations/knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
-| [Context Management Context Save](../it-and-development/knowledge-management/context-management-context-save.md) | Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks. |
+| [Capa Officer](../operations/knowledge-management/capa-officer.md) | Manage CAPA records from initiation to closure, tracking root cause analysis and effectiveness verification. |
 
 [All 23 Knowledge Management templates →](knowledge-management/README.md)
 
@@ -175,11 +175,26 @@ Team leads and project managers. **773 ready-made Grok Bot templates** for this 
 | [Vendor Negotiation Assistant](../operations/sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
 | [Deal Review Coach](../sales/sales-and-negotiation/deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
 | [Supplier Relationship Manager](sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
+| [GEO Prospect Pipeline](../sales/sales-and-negotiation/geo-prospect-pipeline.md) | Tracks GEO agency prospects and clients through the sales pipeline with audits and revenue forecasts. |
 | [Sales Call Optimizer](../sales/sales-and-negotiation/sales-call-optimizer.md) | Optimizes sales calls from preparation to follow-up with AI-driven insights and coaching. |
 | [Supplier Diversity Program Assistant](sales-and-negotiation/supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
-| [Sales Presentation Builder](../sales/sales-and-negotiation/sales-presentation-builder.md) | Builds complete sales presentations from audience research to leave-behind documents. |
 
-[All 14 Sales & Negotiation templates →](sales-and-negotiation/README.md)
+[All 16 Sales & Negotiation templates →](sales-and-negotiation/README.md)
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Pdf Official](../operations/office-tools/pdf-official.md) | Process PDFs: merge, split, extract text/tables, create, OCR, watermark, encrypt, and fill forms. |
+| [Google Slides Automation](../operations/office-tools/google-slides-automation.md) | Create, read, and modify Google Slides presentations via CLI scripts. |
+| [Nanobanana Ppt Templates](../operations/office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
+| [Notion Ops Connector](../operations/office-tools/notion-ops-connector.md) | Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl. |
+| [Google Sheets Automation](../operations/office-tools/google-sheets-automation.md) | Read and write Google Sheets data with OAuth authentication. |
+| [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
+| [Pptx Deck Creation](../marketing/office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
+| [Presentation Deck Builder](office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
+
+[All 13 Office Tools templates →](office-tools/README.md)
 
 ## Teaching & Tutoring
 
@@ -210,21 +225,6 @@ Team leads and project managers. **773 ready-made Grok Bot templates** for this 
 | [Bill Gates](../executives-and-strategy/self-improvement/bill-gates.md) | Simulates Bill Gates for strategic tech, investment, and philanthropy advice. |
 
 [All 12 Self-Improvement templates →](self-improvement/README.md)
-
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [Pdf Official](../operations/office-tools/pdf-official.md) | Process PDFs: merge, split, extract text/tables, create, OCR, watermark, encrypt, and fill forms. |
-| [Google Slides Automation](../operations/office-tools/google-slides-automation.md) | Create, read, and modify Google Slides presentations via CLI scripts. |
-| [Nanobanana Ppt Templates](../operations/office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
-| [Notion Ops Connector](../operations/office-tools/notion-ops-connector.md) | Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl. |
-| [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
-| [Google Sheets Automation](../operations/office-tools/google-sheets-automation.md) | Read and write Google Sheets data with OAuth authentication. |
-| [Pptx Deck Creation](../marketing/office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
-| [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
-
-[All 11 Office Tools templates →](office-tools/README.md)
 
 ## Support & Community
 
@@ -263,6 +263,7 @@ Team leads and project managers. **773 ready-made Grok Bot templates** for this 
 | [Ai Engineering Toolkit](../it-and-development/generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
 | [Polis Protocol](../it-and-development/generative-ai-and-llm/polis-protocol.md) | Coordinate multi-vendor AI agents as a self-improving team with learning routing and amendable rules. |
 | [E-commerce Chatbot Developer](generative-ai-and-llm/e-commerce-chatbot-developer.md) | Builds, trains, tests, and maintains customer service chatbots for e-commerce stores. |
+| [Agent Coordination Board](generative-ai-and-llm/agent-coordination-board.md) | Keeps a shared message board of task assignments, progress notes and results, and reports what is new. |
 | [Dispatch](../it-and-development/generative-ai-and-llm/dispatch.md) | Delegate tasks to Codex CLI and Antigravity CLI from Claude Code with topic-aware sessions. |
 | [Orchestrate](../it-and-development/generative-ai-and-llm/orchestrate.md) | Coordinate focused subagents on substantial work and integrate their verified results. |
 | [File Analysis Guide](../it-and-development/generative-ai-and-llm/file-analysis-guide.md) | Helps technology managers understand file uploads and analysis for AI-driven work.​ |

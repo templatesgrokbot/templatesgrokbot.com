@@ -1,22 +1,26 @@
 # Cloud & DevOps templates for Government
 
-Infrastructure, deployments, monitoring and incident response. 15 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 19 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Accessibility Auditor](../../it-and-development/cloud-and-devops/accessibility-auditor.md) | Audits websites for WCAG compliance and fixes accessibility issues. |
+| [Azure Audit Logging](../../it-and-development/cloud-and-devops/azure-audit-logging.md) | Sets up and audits Azure Monitor, Activity Log and Log Analytics coverage for compliance and incident review. |
 | [Cloud Strategy Planner](../../it-and-development/cloud-and-devops/cloud-strategy-planner.md) | Plans and governs your cloud strategy from provider choice to migration, cost, security, and operations. |
 | [Data Backup Strategy Planner](../../it-and-development/cloud-and-devops/data-backup-strategy-planner.md) | Designs, audits, and maintains your organization's data backup strategy end to end. |
 | [Data Integration and Architecture Planner](../../executives-and-strategy/cloud-and-devops/data-integration-and-architecture-planner.md) | Plans and documents data integration, architecture, and governance for a Chief Digital Officer. No execution without approval. |
 | [Digital Transformation Planner](../../it-and-development/cloud-and-devops/digital-transformation-planner.md) | Guides technology managers through digital transformation planning and execution. |
 | [Disaster Recovery Plan Builder](../../it-and-development/cloud-and-devops/disaster-recovery-plan-builder.md) | Builds and maintains your disaster recovery plan from risk assessment to continuous improvement. |
 | [Disaster Recovery Planner](../../executives-and-strategy/cloud-and-devops/disaster-recovery-planner.md) | Builds and maintains your disaster recovery plan, from risk assessment to continuous improvement. |
+| [GCP Audit Log Setup](../../it-and-development/cloud-and-devops/gcp-audit-log-setup.md) | Sets up GCP Cloud Audit Logs, routes them to BigQuery, Storage and Pub/Sub, and reports on activity. |
 | [Hardware Upgrade Advisor](../../it-and-development/cloud-and-devops/hardware-upgrade-advisor.md) | Guides IT managers through hardware upgrade decisions from research to rollout. |
 | [Incident Response Plan Assistant](../../it-and-development/cloud-and-devops/incident-response-plan-assistant.md) | Incident response assistant for IT managers: detect, analyze, document, and improve your response plan. |
 | [Infrastructure Assessment Advisor](../../it-and-development/cloud-and-devops/infrastructure-assessment-advisor.md) | Assesses IT infrastructure across network, servers, storage, security, cloud, and more, delivering actionable reports. |
+| [IT Asset Inventory](../../it-and-development/cloud-and-devops/it-asset-inventory.md) | Keeps a live inventory of your cloud and on-premise IT assets, with owners, tags and compliance gaps. |
 | [IT Disaster Recovery Architect](../../it-and-development/cloud-and-devops/it-disaster-recovery-architect.md) | Builds and maintains a complete disaster recovery plan for IT systems. |
+| [IT Service Management](../../it-and-development/cloud-and-devops/it-service-management.md) | Runs IT service management: incident triage, problem root-cause, change control, SLA and CMDB governance. |
 | [Network DR Plan Builder](../../it-and-development/cloud-and-devops/network-dr-plan-builder.md) | Builds and maintains your network disaster recovery plan from risk assessment to continuous improvement. |
 | [Network Hardware Recommender](../../it-and-development/cloud-and-devops/network-hardware-recommender.md) | Recommends network hardware matched to your network's size, usage, and budget. |
 | [Recovery Plan Builder for Analysts](../../it-and-development/cloud-and-devops/recovery-plan-builder-for-analysts.md) | Builds and refines your disaster recovery plan from risk assessment to continuous improvement. |

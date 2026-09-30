@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 199 Grok Bot templates, 156 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 211 Grok Bot templates, 163 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -40,6 +40,7 @@ Find sources, compare evidence and summarise what is known. 199 Grok Bot templat
 | [Claude Scientific Templates](claude-scientific-skills.md) | Scientific research and analysis assistant for literature review and data interpretation. |
 | [Clinical Decision Support](clinical-decision-support.md) | Generates publication-ready clinical decision support documents for pharmaceutical research and evidence synthesis. |
 | [Clinical Reports](clinical-reports.md) | Writes clinical reports with regulatory compliance and validation tools. |
+| [Clinical Study Designer](clinical-study-designer.md) | Drafts clinical study design estimates — endpoints, sample size, and phase-gate feasibility — for human sign-off. |
 | [Clinicaltrials Database](clinicaltrials-database.md) | Search and retrieve clinical trial data from ClinicalTrials.gov API v2. |
 | [Clinpgx Database](clinpgx-database.md) | Queries ClinPGx pharmacogenomics data for gene-drug interactions, CPIC guidelines, and allele functions. |
 | [Clinvar Database](clinvar-database.md) | Query ClinVar for variant clinical significance and pathogenicity classifications. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
@@ -52,6 +53,7 @@ Find sources, compare evidence and summarise what is known. 199 Grok Bot templat
 | [Crossframe Notebook](crossframe-notebook.md) | Structured bidirectional reading notes for books, theories, and articles with CrossFrame mapping. |
 | [Crossframe Review](crossframe-review.md) | CrossFrame Review — audits reasoning chains, evidence boundaries, and source-anchor integrity |
 | [Crossframe Suite](crossframe-suite.md) | Routes Chinese structural diagnosis workflows across relationships, organizations, public issues, philosophy, research, or essay output. |
+| [Cultural Systems Anthropologist](cultural-systems-anthropologist.md) | Builds culturally coherent societies and checks fictional or real cultures for internal consistency. |
 | [Datamol](datamol.md) | Standardizes, analyzes, and clusters molecular datasets for drug discovery workflows. |
 | [Deep Research](deep-research.md) | Plans, searches, reads, and synthesizes cited research reports on any topic. |
 | [Deep Research Notebooklm](deep-research-notebooklm.md) | Runs structured multi-source research via NotebookLM and delivers formatted briefs with optional studio artifacts. |
@@ -72,10 +74,12 @@ Find sources, compare evidence and summarise what is known. 199 Grok Bot templat
 | [Environmental Microbial Sampling Planner](environmental-microbial-sampling-planner.md) | Plans environmental microbial sampling, guides collection, and analyzes data for microbiologists. |
 | [Environmental Policy Analyst](environmental-policy-analyst.md) | Environmental policy analysis and stakeholder engagement for sustainability analysts. |
 | [Equipment Technology Advisor](equipment-technology-advisor.md) | Guides process development scientists through equipment and technology selection, evaluation, and implementation. |
+| [Equity Research Desk](../../finance/research/equity-research-desk.md) | Pulls Longbridge analyst, ownership and market data into structured research briefs for your review. |
 | [Esm](esm.md) | Designs and analyzes proteins using ESM language models for sequence, structure, and function tasks. |
 | [Etetoolkit](etetoolkit.md) | Analyze phylogenetic trees: manipulate, detect events, integrate NCBI taxonomy, and visualize. |
 | [Exa Search](../../it-and-development/research/exa-search.md) | Search the web semantically and discover similar content using the Exa API. You retrieve results; you do not summarize or analyze beyond what the API |
 | [Experiment Design Planner](experiment-design-planner.md) | Design rigorous experiments from variables to analysis plans, with statistical and ethical guidance. |
+| [Experiment Resume](experiment-resume.md) | Resume a paused autoresearch experiment by loading its full history and reporting where it stands. |
 | [Experimental Design Planner](experimental-design-planner.md) | Designs and plans experiments from hypothesis to analysis for research associates. |
 | [Fact Check X Complete](fact-check-x-complete.md) | Compare AI answer claims, verify citations against primary sources, and produce an evidence-linked fact-check report. |
 | [Fact Checker](../../writers/research/fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
@@ -105,6 +109,7 @@ Find sources, compare evidence and summarise what is known. 199 Grok Bot templat
 | [Infection Control Strategist](infection-control-strategist.md) | Infection control research, policy, training, and outbreak response support for microbiologists. |
 | [Infinite Gratitude](infinite-gratitude.md) | Orchestrates 10 parallel agents for deep multi-source research synthesis. |
 | [Insight Survey Architect](insight-survey-architect.md) | Designs, deploys, and analyzes surveys, turning responses into actionable insights. |
+| [Investment Research Analyst](../../finance/research/investment-research-analyst.md) | Builds institutional-grade investment research with bull and bear cases, valuation, and exit triggers. |
 | [Kegg Database](kegg-database.md) | Query KEGG pathways, genes, compounds, and drugs via REST API for academic research. |
 | [Lab Literature Review Companion](lab-literature-review-companion.md) | Literature review assistant for laboratory technicians: search, summarize, analyze, and write with precision. |
 | [Labarchive Integration](labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
@@ -115,6 +120,8 @@ Find sources, compare evidence and summarise what is known. 199 Grok Bot templat
 | [Literature Review Assistant](../../product-development/research/literature-review-assistant.md) | Literature review assistant for R&D engineers: finds, summarizes, synthesizes, and manages research. |
 | [Market Entry Analysis Assistant](market-entry-analysis-assistant.md) | Analyzes new markets for entry opportunities, risks, and strategies. |
 | [Market Research Analyst](../../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
+| [Market Research Methodologist](../../marketing/research/market-research-methodologist.md) | Sizes markets, plans survey samples, and scores segments with method and assumptions shown. |
+| [Market Research Synthesizer](../../marketing/research/market-research-synthesizer.md) | Turns raw market research, interviews, and notes into themes, pain points, triggers, and strategic recommendations. |
 | [Market Trend Analyst](../../management/research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
 | [Material Selection Guide](../../product-development/research/material-selection-guide.md) | Guides R&D engineers through material selection with data-backed research, analysis, and tools. |
 | [Mechanistic Interpretability Nnsight](mechanistic-interpretability-nnsight.md) | Runs mechanistic interpretability experiments on any PyTorch model, local or remote via NDIF. |
@@ -130,6 +137,7 @@ Find sources, compare evidence and summarise what is known. 199 Grok Bot templat
 | [Neurokit2](neurokit2.md) | Processes physiological signals (ECG, EEG, EDA, RSP, EMG, EOG) into clean metrics and analyses for research or clinical use. |
 | [Neuropixels Analysis](neuropixels-analysis.md) | Analyzes Neuropixels recordings from raw data to curated units. |
 | [Niche Intelligence Dossier](niche-intelligence-dossier.md) | Generates domain intelligence dossiers for specific niches, including regulations, UX, and industry stack. |
+| [NIH Funding Strategist](nih-funding-strategist.md) | Turns a clinical research idea into an NIH funding strategy with institute, mechanism and deadline recommendations. |
 | [Notebooklm](notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Notion Research Documentation](../../operations/research/notion-research-documentation.md) | Researches your Notion workspace and produces cited briefs, comparisons, or reports. |
 | [Openalex Database](openalex-database.md) | Search and analyze 240M+ scholarly works using the OpenAlex open catalog. |
@@ -175,6 +183,8 @@ Find sources, compare evidence and summarise what is known. 199 Grok Bot templat
 | [Research Orchestrator](research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
 | [Research Paper Summarizer](research-paper-summarizer.md) | Summarizes research papers for laboratory managers to speed up literature review and decision-making. |
 | [Research Prompt](research-prompt.md) | Turn vague research needs into one precise deep-research prompt with context and output criteria. |
+| [Research Request Router](research-request-router.md) | Routes any research question to the right specialist or runs a cited briefing itself. |
+| [Research Summarizer](research-summarizer.md) | Turns papers, articles and reports you already have into structured briefs with proper citations. |
 | [Research Synthesizer](research-synthesizer.md) | Merges findings from multiple researchers into a structured, sourced analysis. |
 | [Research Technical Spike](../../it-and-development/research/research-technical-spike.md) | Exhaustively research and validate technical spike documents through systematic investigation. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Research Trend Analyst](research-trend-analyst.md) | Comprehensive research trend analysis for scientists |
@@ -184,8 +194,10 @@ Find sources, compare evidence and summarise what is known. 199 Grok Bot templat
 | [Scientific Brainstorming](scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
 | [Scientific Critical Thinking](scientific-critical-thinking.md) | Evaluates scientific research rigor, methodology, and evidence quality for critical analysis. |
 | [Search Specialist](search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
+| [Search Strategy Planner](search-strategy-planner.md) | Turns your information need into a search plan, evaluates the sources you find, and synthesizes the findings. |
 | [SEC Financial Data Puller](../../finance/research/sec-financial-data-puller.md) | Pulls cited financial statement numbers for US public companies from SEC EDGAR XBRL APIs. |
 | [Seek And Analyze Video](../../it-and-development/research/seek-and-analyze-video.md) | Search, import, and analyze video content with persistent memory across sessions. |
+| [Serply Sourced Search](../../writers/research/serply-sourced-search.md) | Searches Google, Bing, News and Scholar through Serply and answers with cited sources. |
 | [Simulation and Modeling Research Assistant](simulation-and-modeling-research-assistant.md) | Simulation and modeling assistant for research scientists to optimize, validate, and analyze models. |
 | [String Database](string-database.md) | Fetch protein-protein interactions and functional enrichment from the STRING database. |
 | [Survey Generator](survey-generator.md) | Generate source-backed AI/ML survey papers as self-contained HTML with curated bibliographies. |

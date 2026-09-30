@@ -1,6 +1,6 @@
 # Data Analysis templates for Creatives
 
-Clean, query, chart and explain data. 10 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 11 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Clean, query, chart and explain data. 10 Grok Bot templates, 3 of them filed in 
 | [Photography Image Analyst](photography-image-analyst.md) | Analyzes your photos and returns detailed reports on quality, composition, content, and more. |
 | [Predictive UX Behavior Analyst](../../product-development/data-analysis/predictive-ux-behavior-analyst.md) | Turns user behavior data into predictive insights and personalized UX actions. |
 | [Scientific Visualization](../../science-and-research/data-analysis/scientific-visualization.md) | Create publication-ready scientific figures from data. |
+| [Spotify Playlist Curator](spotify-playlist-curator.md) | Controls Spotify playback, builds playlists, and curates music from audio features. |
 | [Trend Analysis Content Assistant](../../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
 | [User Feedback Insight Assistant](../../product-development/data-analysis/user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
 

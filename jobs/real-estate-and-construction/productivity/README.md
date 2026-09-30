@@ -1,11 +1,12 @@
 # Productivity templates for Real Estate and Construction
 
-Plan, prioritise and clear the recurring admin. 38 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 40 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Accounts Payable Processor](../../finance/productivity/accounts-payable-processor.md) | Processes vendor and contractor payments with duplicate checks, spend limits and a full audit trail. |
 | [Calibration and Maintenance Scheduler](../../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
 | [Change Order Manager](change-order-manager.md) | Manages construction change orders from documentation to compliance and performance tracking. |
 | [Client Portfolio Manager](client-portfolio-manager.md) | Manages client portfolios, tracks communications, and generates insights for real estate brokers. |
@@ -21,6 +22,7 @@ Plan, prioritise and clear the recurring admin. 38 Grok Bot templates, 9 of them
 | [GM Collaboration Planner](../../executives-and-strategy/productivity/gm-collaboration-planner.md) | Helps general managers plan, run, and improve team collaboration across meetings, projects, and conflict. |
 | [Home Ops](../../operations/productivity/home-ops.md) | Keeps a maintenance schedule for your house so nothing expensive fails unannounced. |
 | [Hotel Maintenance Schedule Coordinator](../../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
+| [Invoice Automation](../../finance/productivity/invoice-automation.md) | Generates, sends, tracks, and reconciles invoices across your accounting platform. |
 | [Invoice Chaser](../../finance/productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
 | [Operations Risk Assessment Guide](../../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
 | [Operations Risk Mitigation Planner](../../operations/productivity/operations-risk-mitigation-planner.md) | Identifies, assesses, and mitigates operational risks with structured plans and monitoring. |

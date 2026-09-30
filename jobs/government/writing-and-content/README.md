@@ -1,6 +1,6 @@
 # Writing & Content templates for Government
 
-Plan, write and edit articles, copy and documentation. 34 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 36 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Plan, write and edit articles, copy and documentation. 34 Grok Bot templates, 3 
 | [Legislative Drafting Assistant](legislative-drafting-assistant.md) | Drafts, reviews, and analyzes legislation for policy makers. |
 | [Media Crisis Drill Builder](../../pr-and-communications/writing-and-content/media-crisis-drill-builder.md) | Plans, tests, and updates crisis communication for media relations specialists. |
 | [Policy Update Communications Assistant](../../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
+| [PR Communications Manager](../../pr-and-communications/writing-and-content/pr-communications-manager.md) | Drafts press releases, media pitches, and crisis statements for your approval before anything goes out. |
 | [PR Content Creator](../../pr-and-communications/writing-and-content/pr-content-creator.md) | Drafts and plans all your PR content, from press releases to crisis messaging. |
 | [Process Documentation Assistant](../../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [Regulatory Training Material Developer](regulatory-training-material-developer.md) | Builds regulatory training materials from modules to assessments, grounded in current standards. |
@@ -39,6 +40,7 @@ Plan, write and edit articles, copy and documentation. 34 Grok Bot templates, 3 
 | [Training Material Creation Assistant](../../operations/writing-and-content/training-material-creation-assistant.md) | Creates and manages all training materials for operations teams from research to assessment. |
 | [Training Material Creator](../../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 | [Website Content Manager](../../it-and-development/writing-and-content/website-content-manager.md) | Manages your website's content lifecycle from planning to promotion and analytics. |
+| [Weekly Status Reporter](../../management/writing-and-content/weekly-status-reporter.md) | Turns your week's notes into a clean status report for the audience you name. |
 | [Writing Clearly And Concisely](../../writers/writing-and-content/writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |
 
 [← All Government templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/government)

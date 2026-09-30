@@ -1,6 +1,6 @@
 # Research templates for Product Development
 
-Find sources, compare evidence and summarise what is known. 67 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 71 Grok Bot templates, 27 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,7 @@ Find sources, compare evidence and summarise what is known. 67 Grok Bot template
 | [Competitor Tracking](../../marketing/research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
 | [Competitor UX Analyst](competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
 | [Context7](../../it-and-development/research/context7.md) | Answers library and framework questions using only current official documentation. |
+| [Customer Interview Summarizer](customer-interview-summarizer.md) | Turns a customer interview transcript into a structured summary with jobs, satisfaction signals and action items. |
 | [Customer Psychographic Profiler](../../marketing/research/customer-psychographic-profiler.md) | Build deep psychographic profiles of target customers based on identity, needs, and fears. |
 | [Customer Research](../../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Deep Research Notebooklm](../../science-and-research/research/deep-research-notebooklm.md) | Runs structured multi-source research via NotebookLM and delivers formatted briefs with optional studio artifacts. |
@@ -29,6 +30,7 @@ Find sources, compare evidence and summarise what is known. 67 Grok Bot template
 | [Lightning Architecture Review](../../it-and-development/research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 | [Literature Review Assistant](literature-review-assistant.md) | Literature review assistant for R&D engineers: finds, summarizes, synthesizes, and manages research. |
 | [Market Research Analyst](../../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
+| [Market Research Synthesizer](../../marketing/research/market-research-synthesizer.md) | Turns raw market research, interviews, and notes into themes, pain points, triggers, and strategic recommendations. |
 | [Market Researcher](../../marketing/research/market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
 | [Material Selection Guide](material-selection-guide.md) | Guides R&D engineers through material selection with data-backed research, analysis, and tools. |
 | [Mcp Registry Navigator](../../it-and-development/research/mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
@@ -48,6 +50,8 @@ Find sources, compare evidence and summarise what is known. 67 Grok Bot template
 | [Product Concept Testing Assistant](../../executives-and-strategy/research/product-concept-testing-assistant.md) | Turns product concept feedback into clear insights for innovation decisions. |
 | [Product Development Insight Assistant](../../management/research/product-development-insight-assistant.md) | Guides market research managers through AI-powered product development insights. |
 | [Product Development Insights Assistant](../../sales/research/product-development-insights-assistant.md) | Turns market and customer data into product development decisions for business development managers. |
+| [Product Discovery Facilitator](product-discovery-facilitator.md) | Runs structured product discovery to validate opportunities and de-risk bets before you build. |
+| [Product Experiment Designer](product-experiment-designer.md) | Designs low-effort experiments to validate product assumptions before you build. |
 | [Product Feasibility Analyst](../../executives-and-strategy/research/product-feasibility-analyst.md) | Guides product feasibility analysis from market research to final report. |
 | [Product Strategist](product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |
 | [Product Trend Brief Builder](product-trend-brief-builder.md) | Market trend analysis and reporting for product managers, from data collection to stakeholder-ready summaries. |

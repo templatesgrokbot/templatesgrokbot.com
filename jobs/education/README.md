@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **275 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **280 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,10 +11,10 @@ Teachers, trainers and students. **275 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 122 |
-| [Writing & Content](writing-and-content/README.md) | 29 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 123 |
+| [Writing & Content](writing-and-content/README.md) | 30 |
 | [Data Analysis](data-analysis/README.md) | 28 |
-| [Research](research/README.md) | 25 |
+| [Research](research/README.md) | 26 |
 | [Productivity](productivity/README.md) | 21 |
 | [Design](design/README.md) | 16 |
 | [Coding](coding/README.md) | 6 |
@@ -22,10 +22,10 @@ Teachers, trainers and students. **275 ready-made Grok Bot templates** for this 
 | [Knowledge Management](knowledge-management/README.md) | 5 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
+| [Office Tools](office-tools/README.md) | 3 |
 | [Support & Community](support-and-community/README.md) | 3 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
 | [Generative Code](generative-code/README.md) | 1 |
-| [Office Tools](office-tools/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
 | [Text-To-Video](text-to-video/README.md) | 1 |
 | [Translation](translation/README.md) | 1 |
@@ -134,6 +134,7 @@ Teachers, trainers and students. **275 ready-made Grok Bot templates** for this 
 | [Staff Training Module Builder](teaching-and-tutoring/staff-training-module-builder.md) | Builds and manages staff training modules for headteachers, from planning to evaluation. |
 | [Student Behavior Management Assistant](teaching-and-tutoring/student-behavior-management-assistant.md) | Helps primary school teachers manage student behavior with plans, tracking, and communication. |
 | [Student Feedback Generator](teaching-and-tutoring/student-feedback-generator.md) | Generates constructive feedback on student work and participation for teaching assistants. |
+| [Study Abroad Advisor](teaching-and-tutoring/study-abroad-advisor.md) | Plans end-to-end study abroad applications across the US, UK, Canada, Australia, Europe, Hong Kong and Singapore. |
 | [Study Buddy](teaching-and-tutoring/study-buddy.md) | Drills you on your own material with spaced repetition instead of re-reading notes. |
 | [Study Guide Creator for Teachers](teaching-and-tutoring/study-guide-creator-for-teachers.md) | Creates and refines study guides for secondary school teachers and their students. |
 | [Subject Explanation Assistant](teaching-and-tutoring/subject-explanation-assistant.md) | Prepares engaging lessons and resources for secondary school subject teaching. |
@@ -168,6 +169,7 @@ Teachers, trainers and students. **275 ready-made Grok Bot templates** for this 
 | [Crossframe Critical](../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
 | [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
 | [eLearning Course Builder](writing-and-content/elearning-course-builder.md) | Builds complete eLearning courses from research to launch, with your approval at every step. |
+| [Grammar And Flow Editor](../writers/writing-and-content/grammar-and-flow-editor.md) | Finds grammar, logic, and flow errors in your draft and suggests targeted fixes without rewriting it. |
 | [Grant Writing Assistant for Headteachers](writing-and-content/grant-writing-assistant-for-headteachers.md) | Guides headteachers through the full grant lifecycle, from research to renewal. |
 | [Interview Prep Generator](../human-resources/writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
@@ -235,6 +237,7 @@ Teachers, trainers and students. **275 ready-made Grok Bot templates** for this 
 | [Citation Management](../science-and-research/research/citation-management.md) | Search academic databases, extract metadata, and generate validated BibTeX entries for research papers. |
 | [Claude Scientific Templates](../science-and-research/research/claude-scientific-skills.md) | Scientific research and analysis assistant for literature review and data interpretation. |
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
+| [Course Reading List Builder](research/course-reading-list-builder.md) | Turns a course syllabus into a curated supplementary reading list of recent peer-reviewed papers. |
 | [Crossframe Debate](research/crossframe-debate.md) | Analyze propositions, debate structures, and withdrawal conditions using CrossFrame. |
 | [Crossframe Notebook](../science-and-research/research/crossframe-notebook.md) | Structured bidirectional reading notes for books, theories, and articles with CrossFrame mapping. |
 | [Deep Research](../science-and-research/research/deep-research.md) | Plans, searches, reads, and synthesizes cited research reports on any topic. |
@@ -351,6 +354,14 @@ Teachers, trainers and students. **275 ready-made Grok Bot templates** for this 
 | [Model Architecture Nanogpt](generative-ai-and-llm/model-architecture-nanogpt.md) | Trains and samples from a minimalist GPT implementation for learning transformer architecture. |
 | [Yann LeCun Simulator](generative-ai-and-llm/yann-lecun-simulator.md) | Simulate Yann LeCun's views on AI, CNNs, and deep learning. |
 
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Markdown Slide Builder](office-tools/markdown-slide-builder.md) | Turns your Markdown notes into themed Marp slide decks exported to PDF, PPTX, or HTML. |
+| [Presentation Deck Builder](../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
+| [Visual Asset Placer](../creatives/office-tools/visual-asset-placer.md) | Selects and places approved visual assets in editable PPTX decks. |
+
 ## Support & Community
 
 | Template | What it does |
@@ -370,12 +381,6 @@ Teachers, trainers and students. **275 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Manim](generative-code/manim.md) | Guides you in writing Manim Python code to create mathematical animations and educational videos. |
-
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [Visual Asset Placer](../creatives/office-tools/visual-asset-placer.md) | Selects and places approved visual assets in editable PPTX decks. |
 
 ## Prompt Engineering
 

@@ -1,6 +1,6 @@
 # Grok Bot templates for Human Resources
 
-Recruiting, onboarding and people operations. **368 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Recruiting, onboarding and people operations. **376 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,14 +13,14 @@ Recruiting, onboarding and people operations. **368 ready-made Grok Bot template
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 113 |
 | [Productivity](productivity/README.md) | 73 |
-| [Writing & Content](writing-and-content/README.md) | 57 |
+| [Writing & Content](writing-and-content/README.md) | 61 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 52 |
 | [Security & Compliance](security-and-compliance/README.md) | 22 |
+| [Self-Improvement](self-improvement/README.md) | 11 |
 | [Research](research/README.md) | 10 |
-| [Self-Improvement](self-improvement/README.md) | 10 |
-| [Design](design/README.md) | 7 |
+| [Design](design/README.md) | 8 |
+| [Office Tools](office-tools/README.md) | 7 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 5 |
-| [Office Tools](office-tools/README.md) | 5 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
 | [Support & Community](support-and-community/README.md) | 4 |
 | [Knowledge Management](knowledge-management/README.md) | 3 |
@@ -228,6 +228,8 @@ Recruiting, onboarding and people operations. **368 ready-made Grok Bot template
 | Template | What it does |
 |---|---|
 | [Academic Cv Builder](../education/writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
+| [Company Culture Architect](writing-and-content/company-culture-architect.md) | Turns company values into observable behaviors, measurable culture health, and rituals that scale. |
+| [Company Narrative Consistency](../pr-and-communications/writing-and-content/company-narrative-consistency.md) | Keeps one company story consistent across employees, investors, customers, candidates and partners. |
 | [Compliance Communication Planner](../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Conflict Resolution Advisor](writing-and-content/conflict-resolution-advisor.md) | Helps HR directors analyze, resolve, and prevent workplace conflicts with tailored advice and resources. |
 | [Conflict Resolution Assistant](writing-and-content/conflict-resolution-assistant.md) | Guides HR managers through conflict resolution from analysis to policy and training. |
@@ -265,8 +267,10 @@ Recruiting, onboarding and people operations. **368 ready-made Grok Bot template
 | [Job Description Optimizer](writing-and-content/job-description-optimizer.md) | Optimizes job descriptions to attract the right candidates and improve hiring outcomes. |
 | [Job Post Writer](writing-and-content/job-post-writer.md) | Writes honest, effective job posts that attract the right candidates for small businesses. |
 | [Linkedin Profile Optimizer](../marketing/writing-and-content/linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
+| [Offer Letter Drafter](writing-and-content/offer-letter-drafter.md) | Drafts formal employment offer letters with compensation, terms, and an acceptance block for your review. |
 | [Organizational Culture Development Assistant](writing-and-content/organizational-culture-development-assistant.md) | Designs and analyzes culture initiatives for global HR leaders. |
 | [Performance Review Template Architect](writing-and-content/performance-review-template-architect.md) | Builds and updates performance review templates for HR VPs, from standard to specialized. |
+| [Recruitment Operations Specialist](writing-and-content/recruitment-operations-specialist.md) | Runs recruiting operations across Chinese hiring platforms, from JD writing to compliant offers. |
 | [Reference List Builder](writing-and-content/reference-list-builder.md) | Formats professional reference lists and prepares reference materials for job applications. |
 | [Remote Work Policy and Engagement Assistant](writing-and-content/remote-work-policy-and-engagement-assistant.md) | Builds and maintains remote work policies, guides, and support for HR managers. |
 | [Remote Workforce Management Assistant](../executives-and-strategy/writing-and-content/remote-workforce-management-assistant.md) | Manages remote workforce engagement, performance, policies, and support for HR leaders. |
@@ -369,6 +373,22 @@ Recruiting, onboarding and people operations. **368 ready-made Grok Bot template
 | [Whistleblower Policy Manager](../legal/security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 | [Year-End Payroll Reconciliation Assistant](../finance/security-and-compliance/year-end-payroll-reconciliation-assistant.md) | Reconciles year-end payroll data, verifies compliance, and prepares tax forms and reports. |
 
+## Self-Improvement
+
+| Template | What it does |
+|---|---|
+| [Career Changer Translator](self-improvement/career-changer-translator.md) | Translates skills from one industry to another for career pivots. |
+| [Career Path Planning Assistant](self-improvement/career-path-planning-assistant.md) | Career path planning assistant for training and development managers. |
+| [Crossframe Org](../management/self-improvement/crossframe-org.md) | Analyze teams, projects, and organizations to diagnose failures and propose mechanism repairs. |
+| [Difficult Workplace Conversations](self-improvement/difficult-workplace-conversations.md) | Prepares you for workplace conflicts, performance talks, and sensitive feedback using a structured framework. |
+| [Employee Engagement Program Designer](self-improvement/employee-engagement-program-designer.md) | Designs and runs employee engagement programs from surveys to recognition. |
+| [Employee Wellness Program Coordinator](self-improvement/employee-wellness-program-coordinator.md) | Designs, promotes, and evaluates employee wellness programs from survey to compliance. |
+| [Feedback Mastery](../management/self-improvement/feedback-mastery.md) | Prepare, deliver, and follow up on constructive feedback using structured frameworks. |
+| [Interview Coach](self-improvement/interview-coach.md) | Full job search coaching: JD decoding, mock interviews, transcript analysis, and comp negotiation. |
+| [Personal Growth Mentor](self-improvement/personal-growth-mentor.md) | Turns vague personal goals into a diagnosed bottleneck, a 30-day plan, and weekly accountability. |
+| [Viboscope](self-improvement/viboscope.md) | Match with compatible people using validated psychometrics. |
+| [Wellness Program Architect](self-improvement/wellness-program-architect.md) | Designs, evaluates, and promotes global employee health and wellness programs. |
+
 ## Research
 
 | Template | What it does |
@@ -384,21 +404,6 @@ Recruiting, onboarding and people operations. **368 ready-made Grok Bot template
 | [Recruitment Competitive Analyst](research/recruitment-competitive-analyst.md) | Tracks competitor recruitment moves and turns them into actionable talent insights. |
 | [Salary Negotiation Prep](research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 
-## Self-Improvement
-
-| Template | What it does |
-|---|---|
-| [Career Changer Translator](self-improvement/career-changer-translator.md) | Translates skills from one industry to another for career pivots. |
-| [Career Path Planning Assistant](self-improvement/career-path-planning-assistant.md) | Career path planning assistant for training and development managers. |
-| [Crossframe Org](../management/self-improvement/crossframe-org.md) | Analyze teams, projects, and organizations to diagnose failures and propose mechanism repairs. |
-| [Difficult Workplace Conversations](self-improvement/difficult-workplace-conversations.md) | Prepares you for workplace conflicts, performance talks, and sensitive feedback using a structured framework. |
-| [Employee Engagement Program Designer](self-improvement/employee-engagement-program-designer.md) | Designs and runs employee engagement programs from surveys to recognition. |
-| [Employee Wellness Program Coordinator](self-improvement/employee-wellness-program-coordinator.md) | Designs, promotes, and evaluates employee wellness programs from survey to compliance. |
-| [Feedback Mastery](../management/self-improvement/feedback-mastery.md) | Prepare, deliver, and follow up on constructive feedback using structured frameworks. |
-| [Interview Coach](self-improvement/interview-coach.md) | Full job search coaching: JD decoding, mock interviews, transcript analysis, and comp negotiation. |
-| [Viboscope](self-improvement/viboscope.md) | Match with compatible people using validated psychometrics. |
-| [Wellness Program Architect](self-improvement/wellness-program-architect.md) | Designs, evaluates, and promotes global employee health and wellness programs. |
-
 ## Design
 
 | Template | What it does |
@@ -407,9 +412,22 @@ Recruiting, onboarding and people operations. **368 ready-made Grok Bot template
 | [Gamified Training Designer](design/gamified-training-designer.md) | Designs gamified training programs, from game concepts to assessments. |
 | [HRIS Customization Assistant](design/hris-customization-assistant.md) | Configures HRIS fields, reports, workflows, interfaces, and security to match your organization. |
 | [HRIS User Experience Enhancer](design/hris-user-experience-enhancer.md) | Improves HRIS user experience through design, feedback, training, and engagement support. |
+| [Interview System Designer](design/interview-system-designer.md) | Designs role-specific interview loops with competency-aligned rounds, scoring rubrics, and bias controls. |
 | [Onboarding Experience Designer](design/onboarding-experience-designer.md) | Designs and improves a complete, engaging onboarding experience for new hires. |
 | [Onboarding Program Architect](design/onboarding-program-architect.md) | Designs and improves employee onboarding programs end to end. |
 | [Performance Management System Designer](design/performance-management-system-designer.md) | Designs and improves your performance management system, from KPIs to training materials. |
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Candidate Communication Coordinator](office-tools/candidate-communication-coordinator.md) | Handles candidate communication from application to post-hire check-ins. |
+| [Document Generator](../marketing/office-tools/document-generator.md) | Turns your data and outlines into polished PDF, PPTX, DOCX and XLSX files with consistent branding. |
+| [Document Template Filler](../legal/office-tools/document-template-filler.md) | Fills your document templates with data to produce personalized files in bulk. |
+| [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
+| [Interview Scheduling Coordinator](office-tools/interview-scheduling-coordinator.md) | Coordinates candidate and interviewer schedules, communication, and logistics for smooth interviews. |
+| [Modern Minimal Resume Builder](office-tools/modern-minimal-resume-builder.md) | Turns your work history into a clean A4 one-page resume ready for print or PDF. |
+| [Odoo Hr Payroll Setup](office-tools/odoo-hr-payroll-setup.md) | Configure Odoo salary structures, payslip rules, leave policies, and payroll journal entries. |
 
 ## Marketing & Growth
 
@@ -420,16 +438,6 @@ Recruiting, onboarding and people operations. **368 ready-made Grok Bot template
 | [Recruitment Strategy Planner](marketing-and-growth/recruitment-strategy-planner.md) | Builds and refines your recruitment strategy with data-driven insights and ready-to-use materials. |
 | [Talent Acquisition Strategist](../executives-and-strategy/marketing-and-growth/talent-acquisition-strategist.md) | Streamlines talent acquisition from sourcing to onboarding with AI-driven insights and personalized engagement. |
 | [Talent Acquisition Strategy Advisor](../executives-and-strategy/marketing-and-growth/talent-acquisition-strategy-advisor.md) | Talent acquisition strategy support for managing directors, from market analysis to hiring analytics. |
-
-## Office Tools
-
-| Template | What it does |
-|---|---|
-| [Candidate Communication Coordinator](office-tools/candidate-communication-coordinator.md) | Handles candidate communication from application to post-hire check-ins. |
-| [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
-| [Interview Scheduling Coordinator](office-tools/interview-scheduling-coordinator.md) | Coordinates candidate and interviewer schedules, communication, and logistics for smooth interviews. |
-| [Modern Minimal Resume Builder](office-tools/modern-minimal-resume-builder.md) | Turns your work history into a clean A4 one-page resume ready for print or PDF. |
-| [Odoo Hr Payroll Setup](office-tools/odoo-hr-payroll-setup.md) | Configure Odoo salary structures, payslip rules, leave policies, and payroll journal entries. |
 
 ## Sales & Negotiation
 

@@ -1,6 +1,6 @@
 # Writing & Content templates for Sales
 
-Plan, write and edit articles, copy and documentation. 17 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 18 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, write and edit articles, copy and documentation. 17 Grok Bot templates, 13
 | [Pharma Training Material Creator](pharma-training-material-creator.md) | Pharmaceutical sales training material creator: research, draft, review, and format compliant educational content. |
 | [Product Knowledge and Sales Enablement Assistant](product-knowledge-and-sales-enablement-assistant.md) | Deepens product knowledge and creates sales enablement content for technical sales reps. |
 | [RFP Compliance Drafter](rfp-compliance-drafter.md) | Turns an RFP and your past proposals into a compliance matrix and a drafted response, flagging gaps before you write. |
+| [SaaS Demo Script Writer](saas-demo-script-writer.md) | Turns product features into a demo script with a clear problem, workflow, payoff and next step. |
 | [Sales Enablement Content Crafter](sales-enablement-content-crafter.md) | Builds and refreshes sales training content from research to assessments. |
 | [Sales Playbook Forge](sales-playbook-forge.md) | Builds sales training content from research to playbooks for sales managers. |
 | [Sales Training Content Builder](sales-training-content-builder.md) | Builds and refines sales training content, from market research to performance analysis. |

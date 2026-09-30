@@ -1,6 +1,6 @@
 # Writing & Content templates for Education
 
-Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 30 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 12
 | [Crossframe Critical](../../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
 | [E-Learning Content Creator](e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
 | [eLearning Course Builder](elearning-course-builder.md) | Builds complete eLearning courses from research to launch, with your approval at every step. |
+| [Grammar And Flow Editor](../../writers/writing-and-content/grammar-and-flow-editor.md) | Finds grammar, logic, and flow errors in your draft and suggests targeted fixes without rewriting it. |
 | [Grant Writing Assistant for Headteachers](grant-writing-assistant-for-headteachers.md) | Guides headteachers through the full grant lifecycle, from research to renewal. |
 | [Interview Prep Generator](../../human-resources/writing-and-content/interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Latex Paper Conversion](../../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |

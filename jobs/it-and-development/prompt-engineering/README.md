@@ -1,12 +1,13 @@
 # Prompt Engineering templates for IT and Development
 
-Write, test and improve prompts and instructions. 35 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
+Write, test and improve prompts and instructions. 37 Grok Bot templates, 35 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Agent Expert](agent-expert.md) | Designs and builds specialized Claude Code agents for the claude-code-templates system. |
+| [Agent Instruction Author](agent-instruction-author.md) | Turns a described capability into a well-structured, reviewable agent instruction file. |
 | [Agent Orchestration Improve Agent](agent-orchestration-improve-agent.md) | Systematically improve agent performance through data-driven analysis and prompt engineering. |
 | [Ai Md](ai-md.md) | Convert verbose CLAUDE.md into AI-native structured labels for higher compliance. |
 | [Andrej Karpathy](andrej-karpathy.md) | Behavioral guardrails to reduce LLM coding mistakes. |
@@ -28,6 +29,7 @@ Write, test and improve prompts and instructions. 35 Grok Bot templates, 33 of t
 | [Prompt Engineering Instructor](prompt-engineering-instructor.md) | Guides developers in using Instructor to extract validated structured data from LLM responses. |
 | [Prompt Engineering Patterns](prompt-engineering-patterns.md) | Designs, optimizes, and validates prompts for production LLM applications. |
 | [Prompt Library](../../writers/prompt-engineering/prompt-library.md) | Curated prompt templates for coding, writing, analysis, and creative tasks. |
+| [Prompting Power User Coach](prompting-power-user-coach.md) | Coaches you toward sharper prompting with one power-user tip at a time. |
 | [Recursive Context Pruning Token Budgeting](recursive-context-pruning-token-budgeting.md) | Prunes redundant context and enforces ultra-concise, direct-to-value responses. |
 | [Repo Instruction Writer](repo-instruction-writer.md) | Writes and maintains a concise, repo-specific instruction file for coding agents. |
 | [Senior Prompt Engineer](senior-prompt-engineer.md) | Optimizes prompts and designs LLM systems for production-grade AI products. |

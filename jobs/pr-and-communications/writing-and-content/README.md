@@ -1,6 +1,6 @@
 # Writing & Content templates for PR and Communications
 
-Plan, write and edit articles, copy and documentation. 55 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 60 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,10 +13,12 @@ Plan, write and edit articles, copy and documentation. 55 Grok Bot templates, 28
 | [Brand Voice Enforcement](../../marketing/writing-and-content/brand-voice-enforcement.md) | Applies your brand guidelines to every email, pitch deck, and social post. |
 | [Collaborative Writing Editor](collaborative-writing-editor.md) | Guides editors through every stage of collaborative writing projects, from brainstorming to finalization. |
 | [Communication Excellence Coach](../../marketing/writing-and-content/communication-excellence-coach.md) | Review drafts, calibrate tone, roleplay conversations, and improve presentations using proven frameworks. |
+| [Company Narrative Consistency](company-narrative-consistency.md) | Keeps one company story consistent across employees, investors, customers, candidates and partners. |
 | [Compliance Communication Planner](../../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Content Analysis and Optimization Assistant](content-analysis-and-optimization-assistant.md) | Analyzes and optimizes content for engagement, SEO, and brand consistency. |
 | [Content Editing Assistant](content-editing-assistant.md) | Edits content for grammar, style, clarity, facts, and audience fit. |
 | [Content Idea Generator](../../writers/writing-and-content/content-idea-generator.md) | Generates content ideas, trends, keywords, and formats for writers. |
+| [Content Production Pipeline](../../marketing/writing-and-content/content-production-pipeline.md) | Takes a topic from blank page to publish-ready article, with research, drafting, and optimization. |
 | [Content Repurposing Assistant](../../writers/writing-and-content/content-repurposing-assistant.md) | Repurposes your existing content into fresh formats for wider reach and engagement. |
 | [Copy Editing](../../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
 | [Copywriting Support Assistant](copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
@@ -32,6 +34,8 @@ Plan, write and edit articles, copy and documentation. 55 Grok Bot templates, 28
 | [Executive Communication Assistant](../../executives-and-strategy/writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
 | [Executive Speech Writer](../../executives-and-strategy/writing-and-content/executive-speech-writer.md) | Crafts and polishes executive speeches from outline to delivery. |
 | [Executive Speechwriter](../../executives-and-strategy/writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
+| [Feature Announcement Writer](../../marketing/writing-and-content/feature-announcement-writer.md) | Turns a product update into clear announcements for email, in-app, changelog, social and launch pages. |
+| [Grammar And Flow Editor](../../writers/writing-and-content/grammar-and-flow-editor.md) | Finds grammar, logic, and flow errors in your draft and suggests targeted fixes without rewriting it. |
 | [Headline Crafting Assistant](headline-crafting-assistant.md) | Crafts and optimizes headlines for editors using research, testing, and performance data. |
 | [Internal Comms Anthropic](internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Internal Comms Community](internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
@@ -45,6 +49,7 @@ Plan, write and edit articles, copy and documentation. 55 Grok Bot templates, 28
 | [Newsletter Creation Assistant](newsletter-creation-assistant.md) | Builds and refines newsletters from research to distribution for PR specialists. |
 | [Patent Client Communication Assistant](../../legal/writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
 | [Policy Update Communications Assistant](../../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
+| [PR Communications Manager](pr-communications-manager.md) | Drafts press releases, media pitches, and crisis statements for your approval before anything goes out. |
 | [PR Content Creator](pr-content-creator.md) | Drafts and plans all your PR content, from press releases to crisis messaging. |
 | [PR Crisis Response Studio](pr-crisis-response-studio.md) | Crisis communication support for PR specialists: monitoring, messaging, and response guidance. |
 | [PR Speech Architect](pr-speech-architect.md) | Drafts, refines, and tailors speeches for any occasion, from product launches to crisis responses. |

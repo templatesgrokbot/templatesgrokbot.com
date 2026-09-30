@@ -1,6 +1,6 @@
 # Credits: github.com/sickn33/agentic-awesome-skills
 
-1,649 TemplatesGrokBot templates are adapted from work published at [github.com/sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+1,843 TemplatesGrokBot templates are adapted from work published at [github.com/sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -12,6 +12,7 @@
 | [3D Web Experience](../jobs/it-and-development/generative-code/3d-web-experience.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ab Test Setup](../jobs/it-and-development/data-analysis/ab-test-setup.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Acceptance Orchestrator](../jobs/it-and-development/productivity/acceptance-orchestrator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Access Review Coordinator](../jobs/it-and-development/security-and-compliance/access-review-coordinator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/access-review) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Accessibility Compliance Accessibility Audit](../jobs/creatives/design/accessibility-compliance-accessibility-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Accesslint Audit](../jobs/it-and-development/coding/accesslint-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Accesslint Diff](../jobs/it-and-development/coding/accesslint-diff.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -21,6 +22,7 @@
 | [Ad Campaign Analyzer](../jobs/marketing/data-analysis/ad-campaign-analyzer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Address Github Comments](../jobs/it-and-development/coding/address-github-comments.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Adhx](../jobs/marketing/data-analysis/adhx.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Adults-Only Media Generator](../jobs/creatives/generative-art/adults-only-media-generator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/nsfw-ai-spicyapi) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Advanced Evaluation](../jobs/it-and-development/generative-ai-and-llm/advanced-evaluation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Aegisops Ai](../jobs/it-and-development/security-and-compliance/aegisops-ai.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agent Development](../jobs/it-and-development/generative-ai-and-llm/agent-development.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -29,11 +31,15 @@
 | [Agent Framework Azure Ai Py](../jobs/it-and-development/coding/agent-framework-azure-ai-py.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agent Harness Fault Injection](../jobs/it-and-development/coding/agent-harness-fault-injection.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agent Installer](../jobs/it-and-development/coding/agent-installer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Agent Instruction Auditor](../jobs/it-and-development/generative-ai-and-llm/agent-instruction-auditor.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/lintlang-audit) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Agent Memory Discipline](../jobs/it-and-development/knowledge-management/agent-memory-discipline.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/agent-memory-discipline) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agent Memory Mcp](../jobs/it-and-development/knowledge-management/agent-memory-mcp.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agent Orchestration Improve Agent](../jobs/it-and-development/prompt-engineering/agent-orchestration-improve-agent.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agent Orchestrator](../jobs/it-and-development/generative-ai-and-llm/agent-orchestrator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Agent Permission Gate](../jobs/it-and-development/generative-ai-and-llm/agent-permission-gate.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/agy-auto) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agent Self Scheduling](../jobs/it-and-development/coding/agent-self-scheduling.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agent Squad](../jobs/it-and-development/productivity/agent-squad.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Agent Tool Design Review](../jobs/it-and-development/generative-ai-and-llm/agent-tool-design-review.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/tool-design) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agent Tool Schema Builder](../jobs/it-and-development/generative-ai-and-llm/agent-tool-builder-2.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agentflow](../jobs/it-and-development/coding/agentflow.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agentfolio](../jobs/product-development/research/agentfolio.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -43,15 +49,23 @@
 | [Agents Md](../jobs/it-and-development/knowledge-management/agents-md.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agents V2 Py](../jobs/it-and-development/cloud-and-devops/agents-v2-py.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Agenttrace Session Audit](../jobs/it-and-development/cloud-and-devops/agenttrace-session-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [AI Agent Development Workflow](../jobs/it-and-development/generative-ai-and-llm/ai-agent-development-workflow.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/ai-agent-development) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [AI Agent Guardrails](../jobs/it-and-development/security-and-compliance/ai-agent-guardrails.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/ai-coding-agent-guardrails) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ai Agents Architect](../jobs/it-and-development/generative-ai-and-llm/ai-agents-architect.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ai Analyzer](../jobs/healthcare/data-analysis/ai-analyzer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [AI Crawler Access Audit](../jobs/marketing/security-and-compliance/ai-crawler-access-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/geo-crawlers) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [AI Deployment Hardening Review](../jobs/it-and-development/security-and-compliance/ai-deployment-hardening-review.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/ai-security-hardening) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ai Engineer](../jobs/it-and-development/generative-ai-and-llm/ai-engineer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ai Engineering Toolkit](../jobs/it-and-development/generative-ai-and-llm/ai-engineering-toolkit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [AI Incident Responder](../jobs/it-and-development/cloud-and-devops/ai-incident-responder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/ai-sre-incident-response) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ai Loop](../jobs/it-and-development/coding/ai-loop.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ai Md](../jobs/it-and-development/prompt-engineering/ai-md.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ai Ml](../jobs/it-and-development/generative-ai-and-llm/ai-ml.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ai Native Ui](../jobs/it-and-development/generative-ai-and-llm/ai-native-ui.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [AI Red Team Harness](../jobs/it-and-development/security-and-compliance/ai-red-team-harness.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/ai-red-teaming) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [AI Repair Loop Breaker](../jobs/it-and-development/coding/ai-repair-loop-breaker.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/break-ai-fix-loops) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [AI Studio Image](../jobs/creatives/generative-art/ai-studio-image.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [AI Video Shot Planner](../jobs/creatives/prompt-engineering/ai-video-shot-planner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/film-crew) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ai Wrapper Product](../jobs/product-development/generative-ai-and-llm/ai-wrapper-product.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Airflow Dag Patterns](../jobs/it-and-development/coding/airflow-dag-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Airtable Automation](../jobs/it-and-development/coding/airtable-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -66,6 +80,7 @@
 | [Analytics Tracking](../jobs/it-and-development/data-analysis/analytics-tracking.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Analyze Project](../jobs/it-and-development/coding/analyze-project.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Andrej Karpathy](../jobs/it-and-development/prompt-engineering/andrej-karpathy.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Android APK Red Team Pipeline](../jobs/it-and-development/security-and-compliance/android-apk-red-team-pipeline.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/apk-redteam-pipeline) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Android Cli](../jobs/it-and-development/coding/android-cli.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Android Dev](../jobs/it-and-development/coding/android-dev.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Android Jetpack Compose Expert](../jobs/it-and-development/coding/android-jetpack-compose-expert.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -78,6 +93,7 @@
 | [Angular Migration](../jobs/it-and-development/coding/angular-migration.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Angular State Management](../jobs/it-and-development/coding/angular-state-management.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Angular Ui Patterns](../jobs/it-and-development/coding/angular-ui-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Animated Caption Builder](../jobs/creatives/video-editing/animated-caption-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/remotion-captions) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Animejs Animation](../jobs/creatives/generative-art/animejs-animation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Anti Reversing Techniques](../jobs/it-and-development/security-and-compliance/anti-reversing-techniques.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Anti Sleep](../jobs/it-and-development/productivity/anti-sleep.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -109,18 +125,21 @@
 | [Apify Influencer Discovery](../jobs/marketing/marketing-and-growth/apify-influencer-discovery.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Apify Lead Generation](../jobs/sales/data-analysis/apify-lead-generation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Apify Market Research](../jobs/marketing/research/apify-market-research.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Apify Output Schema Generator](../jobs/it-and-development/coding/apify-output-schema-generator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/apify-generate-output-schema) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Apify Trend Analysis](../jobs/marketing/data-analysis/apify-trend-analysis.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Apify Ultimate Scraper](../jobs/it-and-development/coding/apify-ultimate-scraper.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [App Builder](../jobs/it-and-development/generative-code/app-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [App Deploy Agent](../jobs/it-and-development/cloud-and-devops/appdeploy.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [App Store Changelog](../jobs/it-and-development/writing-and-content/app-store-changelog.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [App Store Optimization](../jobs/marketing/marketing-and-growth/app-store-optimization.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [App Store Release Tracker](../jobs/it-and-development/cloud-and-devops/app-store-release-tracker.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/eas-app-stores) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Apple Notes Search](../jobs/operations/research/apple-notes-search.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Application Performance Performance Optimization](../jobs/it-and-development/coding/application-performance-performance-optimization.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Architect Reviewer](../jobs/it-and-development/coding/architect-review.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Architecture](../jobs/it-and-development/coding/architecture.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Architecture Decision Records](../jobs/it-and-development/coding/architecture-decision-records.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Architecture Patterns](../jobs/it-and-development/coding/architecture-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Architecture Review](../jobs/it-and-development/coding/architecture-review.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/architecture-review) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Aria](../jobs/it-and-development/coding/aria.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Arm Cortex Expert](../jobs/it-and-development/coding/arm-cortex-expert.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Arrowspace](../jobs/it-and-development/data-analysis/arrowspace.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -143,10 +162,12 @@
 | [Audio Transcriber](../jobs/operations/speech-to-text/audio-transcriber.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Audit Agent Run Evidence](../jobs/it-and-development/coding/audit-agent-run-evidence.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Audit Context Building](../jobs/it-and-development/coding/audit-context-building.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Audit Logging Planner](../jobs/it-and-development/security-and-compliance/audit-logging-planner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/audit-logging) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Audit Templates](../jobs/it-and-development/security-and-compliance/audit-skills.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Auri Core](../jobs/product-development/productivity/auri-core.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Aurora Ui](../jobs/creatives/design/aurora-ui.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Auth Implementation Patterns](../jobs/it-and-development/security-and-compliance/auth-implementation-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Authorized RCE Hunter](../jobs/it-and-development/security-and-compliance/authorized-rce-hunter.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/hunt-rce) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Auto Research](../jobs/science-and-research/research/auto-research.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Autonomous Agent Patterns](../jobs/it-and-development/generative-ai-and-llm/autonomous-agent-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Autonomous Agents](../jobs/it-and-development/generative-ai-and-llm/autonomous-agents.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -154,6 +175,7 @@
 | [Avalonia Viewmodels Zafiro](../jobs/it-and-development/coding/avalonia-viewmodels-zafiro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Avalonia Zafiro Development](../jobs/it-and-development/coding/avalonia-zafiro-development.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Awareness Stage Mapper](../jobs/marketing/marketing-and-growth/awareness-stage-mapper.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [AWS Audit Logging](../jobs/it-and-development/security-and-compliance/aws-audit-logging.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/aws-cloudtrail) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Aws Compliance Checker](../jobs/it-and-development/security-and-compliance/aws-compliance-checker.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Aws Cost Cleanup](../jobs/it-and-development/cloud-and-devops/aws-cost-cleanup.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Aws Cost Optimizer](../jobs/it-and-development/cloud-and-devops/aws-cost-optimizer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -162,6 +184,7 @@
 | [Aws Secrets Rotation](../jobs/it-and-development/cloud-and-devops/aws-secrets-rotation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Aws Security Audit](../jobs/it-and-development/security-and-compliance/aws-security-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Aws Serverless](../jobs/it-and-development/cloud-and-devops/aws-serverless.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [AWS VPC Network Builder](../jobs/it-and-development/cloud-and-devops/aws-vpc-network-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/aws-vpc) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ax Extract Workflow](../jobs/it-and-development/coding/ax-extract-workflow.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Axiom](../jobs/executives-and-strategy/research/axiom.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azd Deployment](../jobs/it-and-development/cloud-and-devops/azd-deployment.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -195,12 +218,14 @@
 | [Azure Appconfiguration Java](../jobs/it-and-development/cloud-and-devops/azure-appconfiguration-java.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Appconfiguration Py](../jobs/it-and-development/cloud-and-devops/azure-appconfiguration-py.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Appconfiguration Ts](../jobs/it-and-development/cloud-and-devops/azure-appconfiguration-ts.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Azure Audit Logging](../jobs/it-and-development/cloud-and-devops/azure-audit-logging.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/azure-monitor-audit) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Communication Callautomation Java](../jobs/it-and-development/coding/azure-communication-callautomation-java.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Communication Callingserver Java](../jobs/it-and-development/coding/azure-communication-callingserver-java.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Communication Chat Java](../jobs/it-and-development/coding/azure-communication-chat-java.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Communication Common Java](../jobs/it-and-development/coding/azure-communication-common-java.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Communication Sms Java](../jobs/it-and-development/cloud-and-devops/azure-communication-sms-java.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Compute Batch Java](../jobs/it-and-development/cloud-and-devops/azure-compute-batch-java.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Azure Compute Manager](../jobs/it-and-development/cloud-and-devops/azure-compute-manager.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/azure-vms) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Containerregistry Py](../jobs/it-and-development/cloud-and-devops/azure-containerregistry-py.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Cosmos Db Py](../jobs/it-and-development/coding/azure-cosmos-db-py.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Cosmos Java](../jobs/it-and-development/coding/azure-cosmos-java.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -223,12 +248,15 @@
 | [Azure Identity Py](../jobs/it-and-development/coding/azure-identity-py.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Identity Rust](../jobs/it-and-development/cloud-and-devops/azure-identity-rust.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Identity Ts](../jobs/it-and-development/cloud-and-devops/azure-identity-ts.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Azure Key Vault Manager](../jobs/it-and-development/cloud-and-devops/azure-key-vault-manager.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/azure-keyvault) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Keyvault Certificates Rust](../jobs/it-and-development/cloud-and-devops/azure-keyvault-certificates-rust.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Keyvault Keys Rust](../jobs/it-and-development/coding/azure-keyvault-keys-rust.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Keyvault Keys Ts](../jobs/it-and-development/coding/azure-keyvault-keys-ts.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Keyvault Py](../jobs/it-and-development/cloud-and-devops/azure-keyvault-py.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Keyvault Secrets Rust](../jobs/it-and-development/coding/azure-keyvault-secrets-rust.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Keyvault Secrets Ts](../jobs/it-and-development/cloud-and-devops/azure-keyvault-secrets-ts.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Azure Kubernetes Service Operator](../jobs/it-and-development/cloud-and-devops/azure-kubernetes-service-operator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/azure-aks) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Azure Managed Database Provisioner](../jobs/it-and-development/cloud-and-devops/azure-managed-database-provisioner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/azure-sql) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Maps Search Dotnet](../jobs/it-and-development/cloud-and-devops/azure-maps-search-dotnet.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Messaging Webpubsub Java](../jobs/it-and-development/coding/azure-messaging-webpubsub-java.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Messaging Webpubsubservice Py](../jobs/it-and-development/coding/azure-messaging-webpubsubservice-py.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -253,6 +281,7 @@
 | [Azure Monitor Opentelemetry Ts](../jobs/it-and-development/cloud-and-devops/azure-monitor-opentelemetry-ts.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Monitor Query Java](../jobs/it-and-development/data-analysis/azure-monitor-query-java.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Monitor Query Py](../jobs/it-and-development/cloud-and-devops/azure-monitor-query-py.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Azure Network Architect](../jobs/it-and-development/cloud-and-devops/azure-network-architect.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/azure-networking) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Postgres Ts](../jobs/it-and-development/coding/azure-postgres-ts.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Resource Manager Cosmosdb Dotnet](../jobs/it-and-development/cloud-and-devops/azure-resource-manager-cosmosdb-dotnet.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Azure Resource Manager Durabletask Dotnet](../jobs/it-and-development/cloud-and-devops/azure-resource-manager-durabletask-dotnet.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -287,18 +316,21 @@
 | [Backend Patterns](../jobs/it-and-development/coding/cc-skill-backend-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Backend Security Coder](../jobs/it-and-development/security-and-compliance/backend-security-coder.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Backtesting Frameworks](../jobs/finance/data-analysis/backtesting-frameworks.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Backup Recovery Planner](../jobs/it-and-development/cloud-and-devops/backup-recovery-planner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/backup-recovery) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Bamboohr Automation](../jobs/human-resources/productivity/bamboohr-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Base](../jobs/it-and-development/data-analysis/base.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Basecamp Automation](../jobs/operations/productivity/basecamp-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Bash Defensive Patterns](../jobs/it-and-development/coding/bash-defensive-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Bash Linux](../jobs/it-and-development/coding/bash-linux.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Bash Pro](../jobs/it-and-development/coding/bash-pro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Bash Script Reviewer](../jobs/it-and-development/coding/bash-script-reviewer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/super-code/bash) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Bash Scripting](../jobs/it-and-development/coding/bash-scripting.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Bats Testing Patterns](../jobs/it-and-development/coding/bats-testing-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Bazel Build Optimization](../jobs/it-and-development/coding/bazel-build-optimization.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Bdi Mental States](../jobs/it-and-development/generative-ai-and-llm/bdi-mental-states.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Bdistill Behavioral Xray](../jobs/it-and-development/generative-ai-and-llm/bdistill-behavioral-xray.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Bdistill Knowledge Extraction](../jobs/science-and-research/research/bdistill-knowledge-extraction.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Beatra Video Studio](../jobs/creatives/generative-video/beatra-video-studio.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/beatra-ai-video-studio) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Beautiful Prose](../jobs/writers/writing-and-content/beautiful-prose.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Before You Build](../jobs/product-development/productivity/before-you-build.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Behavioral Modes](../jobs/it-and-development/coding/behavioral-modes.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -309,6 +341,7 @@
 | [Billing Automation](../jobs/operations/productivity/billing-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Binary Analysis Patterns](../jobs/it-and-development/coding/binary-analysis-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Bitbucket Automation](../jobs/it-and-development/cloud-and-devops/bitbucket-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Block Storage Operations](../jobs/it-and-development/cloud-and-devops/block-storage-operations.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/block-storage) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Blockchain Developer](../jobs/it-and-development/coding/blockchain-developer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Blockrun](../jobs/it-and-development/generative-ai-and-llm/blockrun.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Blog Writing Guide](../jobs/marketing/writing-and-content/blog-writing-guide.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -320,6 +353,7 @@
 | [Brand Guidelines](../jobs/marketing/design/brand-guidelines.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Brand Guidelines Anthropic](../jobs/creatives/design/brand-guidelines-anthropic.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Brand Guidelines Community](../jobs/creatives/design/brand-guidelines-community.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Brand Mention Authority Scanner](../jobs/marketing/research/brand-mention-authority-scanner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/geo-brand-mentions) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Brand Perception Psychologist](../jobs/marketing/marketing-and-growth/brand-perception-psychologist.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Brave Man](../jobs/management/productivity/brave-man.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Brazilian Legal Advisor](../jobs/legal/research/specialist-attorney.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -343,10 +377,13 @@
 | [Burp Suite Testing](../jobs/it-and-development/security-and-compliance/burp-suite-testing.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Burpsuite Project Parser](../jobs/it-and-development/security-and-compliance/burpsuite-project-parser.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Business Analyst](../jobs/operations/data-analysis/business-analyst.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Business Continuity Planner](../jobs/operations/productivity/business-continuity-planner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/business-continuity) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Busybox On Windows](../jobs/it-and-development/coding/busybox-on-windows.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Buywhere Product Catalog](../jobs/sales/data-analysis/buywhere-product-catalog.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [C Code Reviewer](../jobs/it-and-development/coding/c-code-reviewer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/super-code/c) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [C Pro](../jobs/it-and-development/coding/c-pro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [C Sharp Pro](../jobs/it-and-development/coding/c-sharp-pro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [C# Idiom Reviewer](../jobs/it-and-development/coding/c-idiom-reviewer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/super-code/csharp) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [C4 Architecture C4 Architecture](../jobs/it-and-development/coding/c4-architecture-c4-architecture.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [C4 Code](../jobs/it-and-development/coding/c4-code.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [C4 Component](../jobs/it-and-development/generative-code/c4-component.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -360,13 +397,19 @@
 | [Capability Ecosystem Sentinel](../jobs/it-and-development/research/capability-ecosystem-sentinel.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Card Based Design](../jobs/creatives/design/card-based-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cdk Patterns](../jobs/it-and-development/cloud-and-devops/cdk-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [CDN Delivery Setup](../jobs/it-and-development/cloud-and-devops/cdn-delivery-setup.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/cdn-setup) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Change Management Coordinator](../jobs/it-and-development/cloud-and-devops/change-management-coordinator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/change-management) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Changelog Automation](../jobs/it-and-development/coding/changelog-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Chat Export Need Miner](../jobs/product-development/data-analysis/chat-export-need-miner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/chatexport-need-miner) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Chat Widget](../jobs/it-and-development/coding/chat-widget.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Check Identity Pack](../jobs/operations/security-and-compliance/check-identity-pack.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Chinese AI-Smell Editor](../jobs/writers/writing-and-content/chinese-ai-smell-editor.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/de-ai-writer) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Chrome Extension Developer](../jobs/it-and-development/coding/chrome-extension-developer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cicd Automation Workflow Automate](../jobs/it-and-development/cloud-and-devops/cicd-automation-workflow-automate.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Circleci Automation](../jobs/it-and-development/cloud-and-devops/circleci-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [CircleCI Pipeline Builder](../jobs/it-and-development/cloud-and-devops/circleci-pipeline-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/circleci) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cirq](../jobs/it-and-development/coding/cirq.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [CIS Benchmark Auditor](../jobs/it-and-development/security-and-compliance/cis-benchmark-auditor.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/cis-benchmarks) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Citation Management](../jobs/science-and-research/research/citation-management.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ckw Design](../jobs/creatives/design/ckw-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Clarity Gate](../jobs/it-and-development/generative-ai-and-llm/clarity-gate.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -387,9 +430,12 @@
 | [Closed Loop Delivery](../jobs/it-and-development/coding/closed-loop-delivery.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cloud Devops](../jobs/it-and-development/cloud-and-devops/cloud-devops.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cloud Penetration Testing](../jobs/it-and-development/security-and-compliance/cloud-penetration-testing.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Cloud Simulator Runner](../jobs/it-and-development/cloud-and-devops/cloud-simulator-runner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/eas-simulator) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Cloudflare R2 Storage Manager](../jobs/it-and-development/cloud-and-devops/cloudflare-r2-storage-manager.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/cloudflare-r2) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cloudflare Security Audit](../jobs/it-and-development/security-and-compliance/cloudflare-security-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cloudflare Workers Expert](../jobs/it-and-development/coding/cloudflare-workers-expert.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cloudformation Best Practices](../jobs/it-and-development/cloud-and-devops/cloudformation-best-practices.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [CloudFormation Stack Deployer](../jobs/it-and-development/cloud-and-devops/cloudformation-stack-deployer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/cloudformation) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cmux](../jobs/it-and-development/coding/cmux.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Coda Automation](../jobs/operations/productivity/coda-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Code Documentation Code Explain](../jobs/education/teaching-and-tutoring/code-documentation-code-explain.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -408,6 +454,7 @@
 | [Codebase Cleanup Refactor Clean](../jobs/it-and-development/coding/codebase-cleanup-refactor-clean.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Codebase Cleanup Tech Debt](../jobs/it-and-development/coding/codebase-cleanup-tech-debt.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Codebase Design](../jobs/it-and-development/coding/codebase-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Codebase Onboarding Map](../jobs/it-and-development/knowledge-management/codebase-onboarding-map.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/codebase-onboarding) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Codebase To Wordpress Converter](../jobs/it-and-development/coding/codebase-to-wordpress-converter.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Codex Fable5](../jobs/it-and-development/coding/codex-fable5.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Codex Profiles](../jobs/it-and-development/cloud-and-devops/codex-profiles.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -436,7 +483,10 @@
 | [Conductor Status](../jobs/management/productivity/conductor-status.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Conductor Validator](../jobs/it-and-development/coding/conductor-validator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Confluence Automation](../jobs/operations/knowledge-management/confluence-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Connection Auth Rules Builder](../jobs/it-and-development/coding/connection-auth-rules-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/connection-auth-rules) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Constant Time Analysis](../jobs/it-and-development/security-and-compliance/constant-time-analysis.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Container Image Scanner](../jobs/it-and-development/security-and-compliance/container-image-scanner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/container-scanning) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Container Registry Operations](../jobs/it-and-development/cloud-and-devops/container-registry-operations.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/container-registries) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Container Security Hardening](../jobs/it-and-development/security-and-compliance/container-security-hardening.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Content Creator](../jobs/marketing/writing-and-content/content-creator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Content Marketer](../jobs/marketing/marketing-and-growth/content-marketer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -461,6 +511,7 @@
 | [Copywriting](../jobs/marketing/writing-and-content/copywriting.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Copywriting Psychologist](../jobs/marketing/marketing-and-growth/copywriting-psychologist.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Core Components](../jobs/it-and-development/coding/core-components.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [CORS Misconfiguration Hunter](../jobs/it-and-development/security-and-compliance/cors-misconfiguration-hunter.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/hunt-cors) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cost Optimization](../jobs/it-and-development/cloud-and-devops/cost-optimization.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cpp Pro](../jobs/it-and-development/coding/cpp-pro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cqrs Implementation](../jobs/it-and-development/coding/cqrs-implementation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -485,6 +536,12 @@
 | [Crossframe Suite](../jobs/science-and-research/research/crossframe-suite.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Crossframe Teach](../jobs/education/teaching-and-tutoring/crossframe-teach.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Crypto Bd Agent](../jobs/sales/research/crypto-bd-agent.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Crypto Futures Chart Read](../jobs/finance/data-analysis/crypto-futures-chart-read.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/traderspy-technical-analysis) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Crypto Futures Screener](../jobs/finance/data-analysis/crypto-futures-screener.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/traderspy-market-screener) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Crypto Market Briefing](../jobs/finance/data-analysis/crypto-market-briefing.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/traderspy-market-briefing) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Crypto Position Health Check](../jobs/finance/data-analysis/crypto-position-health-check.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/traderspy-position-check) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Crypto Signal Reader](../jobs/finance/data-analysis/crypto-signal-reader.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/traderspy-trading-signals) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [CSRF Vulnerability Hunter](../jobs/it-and-development/security-and-compliance/csrf-vulnerability-hunter.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/hunt-csrf) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Customer Psychographic Profiler](../jobs/marketing/research/customer-psychographic-profiler.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Customer Support](../jobs/customer-support/support-and-community/customer-support.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Cv Generator](../jobs/human-resources/writing-and-content/cv-generator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -494,6 +551,7 @@
 | [Daily](../jobs/it-and-development/generative-ai-and-llm/daily.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Daily Gift](../jobs/creatives/generative-art/daily-gift.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Daily News Report](../jobs/operations/research/daily-news-report.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [DALI Bus Commissioner](../jobs/real-estate-and-construction/writing-and-content/dali-bus-commissioner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/dali-short-address-commissioner) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Dark Mode](../jobs/it-and-development/design/dark-mode.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Dart](../jobs/it-and-development/coding/dart.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Dashboard Design](../jobs/it-and-development/data-analysis/dashboard-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -501,6 +559,7 @@
 | [Data Engineer](../jobs/it-and-development/data-analysis/data-engineer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Data Engineering Data Driven Feature](../jobs/product-development/data-analysis/data-engineering-data-driven-feature.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Data Engineering Data Pipeline](../jobs/it-and-development/data-analysis/data-engineering-data-pipeline.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Data Observability Router](../jobs/it-and-development/cloud-and-devops/data-observability-router.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/monte-carlo-context-detection) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Data Quality Frameworks](../jobs/it-and-development/data-analysis/data-quality-frameworks.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Data Scientist](../jobs/it-and-development/data-analysis/data-scientist.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Data Storytelling](../jobs/executives-and-strategy/data-analysis/data-storytelling.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -514,6 +573,7 @@
 | [Database Migrations Sql Migrations](../jobs/it-and-development/coding/database-migrations-sql-migrations.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Database Optimizer](../jobs/it-and-development/data-analysis/database-optimizer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Datadog Automation](../jobs/it-and-development/cloud-and-devops/datadog-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Datadog Observability Setup](../jobs/it-and-development/cloud-and-devops/datadog-observability-setup.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/datadog) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Dbt Transformation Patterns](../jobs/it-and-development/cloud-and-devops/dbt-transformation-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ddd Context Mapping](../jobs/it-and-development/coding/ddd-context-mapping.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ddd Strategic Design](../jobs/it-and-development/coding/ddd-strategic-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -534,6 +594,7 @@
 | [Deployment Pipeline Design](../jobs/it-and-development/cloud-and-devops/deployment-pipeline-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Deployment Procedures](../jobs/it-and-development/cloud-and-devops/deployment-procedures.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Deployment Validation Config Validate](../jobs/it-and-development/coding/deployment-validation-config-validate.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Derivatives Data Analyst](../jobs/finance/data-analysis/derivatives-data-analyst.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/longbridge-derivatives) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Design It](../jobs/creatives/design/design-it.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Design Orchestration](../jobs/creatives/design/design-orchestration.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Design Spells](../jobs/creatives/design/design-spells.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -541,6 +602,7 @@
 | [Detect Ai Text](../jobs/science-and-research/research/detect-ai-text.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Deterministic Design](../jobs/creatives/design/deterministic-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Devcontainer Setup](../jobs/it-and-development/coding/devcontainer-setup.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Device Fleet Manager](../jobs/it-and-development/security-and-compliance/device-fleet-manager.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/mdm-device-management) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Devops Deploy](../jobs/it-and-development/cloud-and-devops/devops-deploy.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Devops Troubleshooter](../jobs/it-and-development/cloud-and-devops/devops-troubleshooter.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Diagnose Android Overheating](../jobs/it-and-development/coding/diagnose-android-overheating.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -558,8 +620,10 @@
 | [Django Access Review](../jobs/it-and-development/security-and-compliance/django-access-review.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Django Perf Review](../jobs/it-and-development/coding/django-perf-review.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Django Pro](../jobs/it-and-development/coding/django-pro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [DNS Zone Manager](../jobs/it-and-development/cloud-and-devops/dns-zone-manager.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/dns-management) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Doc Co-Authoring Workflow](../jobs/writers/writing-and-content/doc-coauthoring.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Doc2math](../jobs/it-and-development/data-analysis/doc2math.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Docker Compose Stack Builder](../jobs/it-and-development/cloud-and-devops/docker-compose-stack-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/docker-compose) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Docker Expert](../jobs/it-and-development/cloud-and-devops/docker-expert.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Docs Architect](../jobs/it-and-development/writing-and-content/docs-architect.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Docs Guard](../jobs/it-and-development/coding/docs-guard.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -582,16 +646,22 @@
 | [Duotone Design](../jobs/creatives/design/duotone-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Dwarf Expert](../jobs/it-and-development/coding/dwarf-expert.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Dx Optimizer](../jobs/it-and-development/coding/dx-optimizer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Dynamic Application Security Testing](../jobs/it-and-development/security-and-compliance/dynamic-application-security-testing.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/dast-scanning) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [E2e Testing](../jobs/it-and-development/coding/e2e-testing.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [E2E Testing Patterns](../jobs/it-and-development/coding/e2e-testing-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Earllm Build](../jobs/it-and-development/coding/earllm-build.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [eBPF Observability Engineer](../jobs/it-and-development/cloud-and-devops/ebpf-observability-engineer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/ebpf-observability) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [EC2 Compute Manager](../jobs/it-and-development/cloud-and-devops/ec2-compute-manager.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/aws-ec2) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ecl Harness Engineer](../jobs/it-and-development/generative-code/ecl-harness-engineer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [ECS Fargate Deployer](../jobs/it-and-development/cloud-and-devops/ecs-fargate-deployer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/aws-ecs-fargate) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Editorial Design](../jobs/creatives/design/editorial-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Effective Agent Definitions](../jobs/it-and-development/prompt-engineering/effective-agent-skills.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Efficient Web Research](../jobs/science-and-research/research/efficient-web-research.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ejentum Reasoning Harness](../jobs/it-and-development/generative-ai-and-llm/ejentum-reasoning-harness.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Electron Development](../jobs/it-and-development/coding/electron-development.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Electron UI Driver](../jobs/it-and-development/coding/electron-ui-driver.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/electron-drive-skill) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Elixir Pro](../jobs/it-and-development/coding/elixir-pro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [ELK Log Platform](../jobs/it-and-development/cloud-and-devops/elk-log-platform.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/elk-stack) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Elon Musk](../jobs/creatives/generative-ai-and-llm/elon-musk.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Email Issue Fixer](../jobs/operations/writing-and-content/email-issue-fixer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Email Sequence](../jobs/marketing/marketing-and-growth/email-sequence.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -603,9 +673,12 @@
 | [Emotional Arc Designer](../jobs/marketing/marketing-and-growth/emotional-arc-designer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Employment Contract Templates](../jobs/human-resources/writing-and-content/employment-contract-templates.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Engine Selection](../jobs/it-and-development/generative-code/engine-selection.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Engineering Workflow Router](../jobs/it-and-development/productivity/engineering-workflow-router.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/using-agent-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Enhance Prompt](../jobs/it-and-development/prompt-engineering/enhance-prompt.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Entropy Box](../jobs/it-and-development/research/entropy-box.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Environment Setup Guide](../jobs/it-and-development/coding/environment-setup-guide.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [EOL Resistor Calculator](../jobs/real-estate-and-construction/security-and-compliance/eol-resistor-calculator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/eol-resistor-calculator) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Equity Research Desk](../jobs/finance/research/equity-research-desk.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/longbridge-research) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Error Debugging Error Analysis](../jobs/it-and-development/cloud-and-devops/error-debugging-error-analysis.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Error Debugging Error Trace](../jobs/it-and-development/coding/error-debugging-error-trace.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Error Debugging Multi Agent Review](../jobs/it-and-development/coding/error-debugging-multi-agent-review.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -613,12 +686,15 @@
 | [Error Diagnostics Error Analysis](../jobs/it-and-development/coding/error-diagnostics-error-analysis.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Error Diagnostics Error Trace](../jobs/it-and-development/cloud-and-devops/error-diagnostics-error-trace.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Error Diagnostics Smart Debug](../jobs/it-and-development/coding/error-diagnostics-smart-debug.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Error Disclosure Hunter](../jobs/it-and-development/security-and-compliance/error-disclosure-hunter.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/hunt-exceptional-conditions) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Error Handling Patterns](../jobs/it-and-development/coding/error-handling-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ethical Hacking Methodology](../jobs/it-and-development/security-and-compliance/ethical-hacking-methodology.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Eval Diff Scorer](../jobs/it-and-development/coding/eval-diff-scorer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/score-eval) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Event Sourcing Architect](../jobs/it-and-development/coding/event-sourcing-architect.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Event Staffing Compliance](../jobs/human-resources/security-and-compliance/event-staffing-compliance.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Event Staffing Ordering](../jobs/operations/productivity/event-staffing-ordering.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Event Store Design](../jobs/it-and-development/coding/event-store-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Evidence Redaction Assistant](../jobs/it-and-development/security-and-compliance/evidence-redaction-assistant.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/evidence-hygiene) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Evolution](../jobs/it-and-development/coding/evolution.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Exa Search](../jobs/it-and-development/research/exa-search.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Examprep Ai](../jobs/education/teaching-and-tutoring/examprep-ai.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -631,6 +707,8 @@
 | [Expo Tailwind Setup](../jobs/it-and-development/coding/expo-tailwind-setup.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Expo Ui Jetpack Compose](../jobs/it-and-development/coding/expo-ui-jetpack-compose.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Expo Ui Swift Ui](../jobs/it-and-development/coding/expo-ui-swift-ui.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Expo Web Hosting Deployer](../jobs/it-and-development/cloud-and-devops/expo-web-hosting-deployer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/eas-hosting) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [External Attack Surface Recon](../jobs/it-and-development/security-and-compliance/external-attack-surface-recon.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/osint-methodology) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Extract Document Data](../jobs/operations/data-analysis/extract-document-data.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Fable Safe Prompt](../jobs/it-and-development/prompt-engineering/fable-safe-prompt.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Faf Expert](../jobs/it-and-development/generative-ai-and-llm/faf-expert.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -645,10 +723,12 @@
 | [Fda Medtech Compliance Auditor](../jobs/legal/security-and-compliance/fda-medtech-compliance-auditor.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Feature Tracking](../jobs/it-and-development/knowledge-management/feature-tracking.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Fedora Hyprland Installer](../jobs/it-and-development/coding/fedora-hyprland-installer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [FedRAMP Compliance Tracker](../jobs/it-and-development/security-and-compliance/fedramp-compliance-tracker.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/fedramp-compliance) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ffuf Web Fuzzing](../jobs/it-and-development/security-and-compliance/ffuf-web-fuzzing.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Figma Automation](../jobs/creatives/design/figma-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [File Organizer](../jobs/operations/productivity/file-organizer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [File Path Traversal](../jobs/it-and-development/security-and-compliance/file-path-traversal.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [File Upload Vulnerability Hunter](../jobs/it-and-development/security-and-compliance/file-upload-vulnerability-hunter.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/hunt-file-upload) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [File Uploads](../jobs/it-and-development/cloud-and-devops/file-uploads.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Filesystem Context](../jobs/it-and-development/coding/filesystem-context.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Find Bugs](../jobs/it-and-development/coding/find-bugs.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -657,6 +737,7 @@
 | [Finishing A Development Branch](../jobs/it-and-development/coding/finishing-a-development-branch.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Firebase](../jobs/it-and-development/coding/firebase.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Firecrawl Scraper](../jobs/it-and-development/data-analysis/firecrawl-scraper.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Firewall Configuration](../jobs/it-and-development/security-and-compliance/firewall-configuration.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/firewall-config) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Firmware Analyst](../jobs/it-and-development/security-and-compliance/firmware-analyst.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Fitness Analyzer](../jobs/healthcare/data-analysis/fitness-analyzer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Fixing Accessibility](../jobs/it-and-development/coding/fixing-accessibility.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -699,18 +780,27 @@
 | [Frutiger Aero](../jobs/creatives/generative-code/frutiger-aero.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Fsi Compliance Checker](../jobs/it-and-development/security-and-compliance/fsi-compliance-checker.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Full Output Enforcement](../jobs/it-and-development/coding/full-output-enforcement.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Full Stack Delivery Workflow](../jobs/it-and-development/generative-code/full-stack-delivery-workflow.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/development) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Full Stack Orchestration Full Stack Feature](../jobs/it-and-development/coding/full-stack-orchestration-full-stack-feature.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Game Art](../jobs/creatives/design/game-art.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Game Audio](../jobs/creatives/generative-art/game-audio.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Game Design](../jobs/creatives/generative-code/game-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Game Development](../jobs/it-and-development/generative-code/game-development.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [GCP Audit Log Setup](../jobs/it-and-development/cloud-and-devops/gcp-audit-log-setup.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/gcp-audit-logs) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Gcp Cloud Run](../jobs/it-and-development/cloud-and-devops/gcp-cloud-run.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [GCP Compute Engine Manager](../jobs/it-and-development/cloud-and-devops/gcp-compute-engine-manager.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/gcp-compute) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [GCP Network Architect](../jobs/it-and-development/cloud-and-devops/gcp-network-architect.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/gcp-networking) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Gdb Cli](../jobs/it-and-development/coding/gdb-cli.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Gdpr Data Handling](../jobs/it-and-development/security-and-compliance/gdpr-data-handling.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Gemini Api Integration](../jobs/it-and-development/coding/gemini-api-integration.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Geminiignore Finops](../jobs/it-and-development/cloud-and-devops/geminiignore-finops.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Generate Nanobanana](../jobs/creatives/generative-art/generate-nanobanana.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [GEO Client Report Builder](../jobs/marketing/writing-and-content/geo-client-report-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/geo-report) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Geo Fundamentals](../jobs/marketing/marketing-and-growth/geo-fundamentals.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [GEO Monthly Delta Report](../jobs/marketing/data-analysis/geo-monthly-delta-report.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/geo-compare) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [GEO Proposal Writer](../jobs/marketing/sales-and-negotiation/geo-proposal-writer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/geo-proposal) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [GEO Prospect Pipeline](../jobs/sales/sales-and-negotiation/geo-prospect-pipeline.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/geo-prospect) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [GEO Report PDF Builder](../jobs/marketing/office-tools/geo-report-pdf-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/geo-report-pdf) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Geoffrey Hinton](../jobs/education/teaching-and-tutoring/geoffrey-hinton.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Gh Attach](../jobs/it-and-development/coding/gh-attach.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Gh Image](../jobs/it-and-development/coding/gh-image.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -748,10 +838,12 @@
 | [Google Calendar Automation](../jobs/management/productivity/google-calendar-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Google Docs Automation](../jobs/operations/office-tools/google-docs-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Google Drive Automation](../jobs/operations/productivity/google-drive-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Google Forms Automation](../jobs/it-and-development/office-tools/google-forms-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/google-no-code) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Google Sheets Automation](../jobs/operations/office-tools/google-sheets-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Google Slides Automation](../jobs/operations/office-tools/google-slides-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Googlesheets Automation](../jobs/operations/office-tools/googlesheets-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Gpt Taste](../jobs/creatives/generative-code/gpt-taste.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [GPU Kubernetes Operations](../jobs/it-and-development/cloud-and-devops/gpu-kubernetes-operations.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/gpu-kubernetes-operations) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Graceful Shutdown](../jobs/it-and-development/coding/graceful-shutdown.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Gradient Design](../jobs/creatives/design/gradient-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Grafana Dashboards](../jobs/it-and-development/cloud-and-devops/grafana-dashboards.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -786,6 +878,7 @@
 | [Hig Technologies](../jobs/creatives/design/hig-technologies.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [High Contrast](../jobs/it-and-development/design/high-contrast.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [High End Visual Design](../jobs/creatives/design/high-end-visual-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [HIPAA Compliance Tracker](../jobs/it-and-development/security-and-compliance/hipaa-compliance-tracker.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/hipaa-compliance) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Holographic Ui](../jobs/it-and-development/design/holographic-ui.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Hono](../jobs/it-and-development/coding/hono.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Hosted Agents](../jobs/it-and-development/cloud-and-devops/hosted-agents.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -796,6 +889,7 @@
 | [Hubspot Integration](../jobs/it-and-development/cloud-and-devops/hubspot-integration.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Hugging Face Datasets](../jobs/it-and-development/data-analysis/hugging-face-datasets.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Hugging Face Evaluation](../jobs/it-and-development/coding/hugging-face-evaluation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Hugging Face Hub Operator](../jobs/it-and-development/generative-ai-and-llm/hugging-face-hub-operator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/hf-cli) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Hugging Face Tool Builder](../jobs/it-and-development/generative-code/hugging-face-tool-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Humanize Chinese](../jobs/writers/translation/humanize-chinese.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Hybrid Cloud Architect](../jobs/it-and-development/cloud-and-devops/hybrid-cloud-architect.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -803,10 +897,13 @@
 | [Hybrid Search Implementation](../jobs/it-and-development/coding/hybrid-search-implementation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [I18N Localization](../jobs/it-and-development/coding/i18n-localization.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Iconsax Library](../jobs/creatives/design/iconsax-library.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Idea Advocacy Debater](../jobs/product-development/sales-and-negotiation/idea-advocacy-debater.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/idea-evaluator/idea-evaluator-pro) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Idea Autopsy](../jobs/executives-and-strategy/productivity/idea-autopsy.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Idea Darwin](../jobs/creatives/generative-art/idea-darwin.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Idea Os](../jobs/product-development/productivity/idea-os.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Identity Access Manager](../jobs/it-and-development/security-and-compliance/identity-access-manager.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/identity-access-management) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Identity Mirror](../jobs/marketing/marketing-and-growth/identity-mirror.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Idiomatic Scala Reviewer](../jobs/it-and-development/coding/idiomatic-scala-reviewer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/super-code/scala) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Idor Testing](../jobs/it-and-development/security-and-compliance/idor-testing.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ii Commons](../jobs/science-and-research/research/ii-commons.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ilya Sutskever Simulator](../jobs/science-and-research/research/ilya-sutskever-simulator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -826,6 +923,7 @@
 | [Instagram Automation](../jobs/marketing/social-media/instagram-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Instagram Manager](../jobs/marketing/social-media/instagram.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Instructree](../jobs/it-and-development/coding/instructree.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Intent Interviewer](../jobs/product-development/generative-ai-and-llm/intent-interviewer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/interview-me) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Interactive Portfolio](../jobs/creatives/design/interactive-portfolio.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Intercom Automation](../jobs/customer-support/support-and-community/intercom-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Internal Comms Anthropic](../jobs/pr-and-communications/writing-and-content/internal-comms-anthropic.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -838,6 +936,7 @@
 | [Isometric Design](../jobs/creatives/design/isometric-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Issues](../jobs/it-and-development/coding/issues.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Istio Traffic Management](../jobs/it-and-development/cloud-and-devops/istio-traffic-management.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [IT Asset Inventory](../jobs/it-and-development/cloud-and-devops/it-asset-inventory.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/asset-inventory) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [It Manager Hospital](../jobs/healthcare/cloud-and-devops/it-manager-hospital.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [It Manager Pro](../jobs/management/cloud-and-devops/it-manager-pro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Iterate Pr](../jobs/it-and-development/coding/iterate-pr.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -847,12 +946,15 @@
 | [Javascript Pro](../jobs/it-and-development/coding/javascript-pro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Javascript Testing Patterns](../jobs/it-and-development/coding/javascript-testing-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Javascript Typescript Typescript Scaffold](../jobs/it-and-development/coding/javascript-typescript-typescript-scaffold.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Jenkins Pipeline Builder](../jobs/it-and-development/cloud-and-devops/jenkins-pipeline-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/jenkins) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Jira Automation](../jobs/operations/productivity/jira-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Jobgpt](../jobs/human-resources/productivity/jobgpt.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Jobs To Be Done Analyst](../jobs/product-development/research/jobs-to-be-done-analyst.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Jq](../jobs/it-and-development/coding/jq.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Judgment Step Router](../jobs/it-and-development/generative-ai-and-llm/judgment-step-router.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/jev-use) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Julia Pro](../jobs/it-and-development/coding/julia-pro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Junta Auctioneers](../jobs/operations/data-analysis/junta-auctioneers.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [JWT Forgery Tester](../jobs/it-and-development/security-and-compliance/jwt-forgery-tester.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/hunt-jwt-crypto) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [K6 Load Testing](../jobs/it-and-development/coding/k6-load-testing.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [K8s Manifest Generator](../jobs/it-and-development/cloud-and-devops/k8s-manifest-generator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [K8s Security Policies](../jobs/it-and-development/security-and-compliance/k8s-security-policies.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -865,7 +967,9 @@
 | [Kpi Dashboard Design](../jobs/management/data-analysis/kpi-dashboard-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Kubernetes Architect](../jobs/it-and-development/cloud-and-devops/kubernetes-architect.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Kubernetes Deployment](../jobs/it-and-development/cloud-and-devops/kubernetes-deployment.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Kubernetes Model Serving](../jobs/it-and-development/cloud-and-devops/kubernetes-model-serving.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/model-serving-kubernetes) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Kubestellar Console](../jobs/it-and-development/cloud-and-devops/kubestellar-console.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Kustomize Overlay Builder](../jobs/it-and-development/cloud-and-devops/kustomize-overlay-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/kustomize) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Lambda Lang](../jobs/it-and-development/generative-ai-and-llm/lambda-lang.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Lambdatest Agent](../jobs/it-and-development/coding/lambdatest-agent-skills.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Landing Page Generator](../jobs/marketing/generative-code/landing-page-generator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -880,6 +984,10 @@
 | [Launch Strategy](../jobs/marketing/marketing-and-growth/launch-strategy.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Layered Design](../jobs/it-and-development/coding/layered-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Learn](../jobs/education/teaching-and-tutoring/learn.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Ledger Artifact Records](../jobs/it-and-development/knowledge-management/ledger-artifact-records.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/artifact-yylo) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Ledger Task Manager](../jobs/management/productivity/ledger-task-manager.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/ledger-tasks-yylo) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Ledger Task Planner](../jobs/product-development/productivity/ledger-task-planner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/plan-ledger-tasks-yylo) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Ledger Wiki Records](../jobs/it-and-development/knowledge-management/ledger-wiki-records.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/wiki-yylo) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Legacy Modernizer](../jobs/it-and-development/coding/legacy-modernizer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Legal Advisor](../jobs/legal/writing-and-content/legal-advisor.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Legal Auction Analyst](../jobs/legal/research/legal-auction-analyst.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -897,7 +1005,9 @@
 | [Linkedin Profile Optimizer](../jobs/marketing/writing-and-content/linkedin-profile-optimizer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Linkerd Patterns](../jobs/it-and-development/cloud-and-devops/linkerd-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Lint And Validate](../jobs/it-and-development/coding/lint-and-validate.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Linux Performance Tuner](../jobs/it-and-development/cloud-and-devops/linux-performance-tuner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/performance-tuning) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Linux Privilege Escalation](../jobs/it-and-development/security-and-compliance/linux-privilege-escalation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Linux Server Hardening](../jobs/it-and-development/security-and-compliance/linux-server-hardening.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/linux-hardening) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Linux Shell Scripting](../jobs/it-and-development/coding/linux-shell-scripting.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Linux Troubleshooting](../jobs/it-and-development/cloud-and-devops/linux-troubleshooting.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Llm App Patterns](../jobs/it-and-development/generative-ai-and-llm/llm-app-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -906,14 +1016,22 @@
 | [Llm Application Dev Prompt Optimize](../jobs/it-and-development/prompt-engineering/llm-application-dev-prompt-optimize.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Llm Council](../jobs/it-and-development/generative-ai-and-llm/llm-council.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Llm Evaluation](../jobs/it-and-development/generative-ai-and-llm/llm-evaluation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [LLM Feature Security Tester](../jobs/it-and-development/security-and-compliance/llm-feature-security-tester.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/hunt-llm-ai) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [LLM Fine-Tuning Planner](../jobs/it-and-development/generative-ai-and-llm/llm-fine-tuning-planner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/llm-fine-tuning) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [LLM Gateway Operations](../jobs/it-and-development/generative-ai-and-llm/llm-gateway-operations.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/llm-gateway) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [LLM Inference Autoscaling](../jobs/it-and-development/cloud-and-devops/llm-inference-autoscaling.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/llm-inference-scaling) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Llm Ops](../jobs/it-and-development/generative-ai-and-llm/llm-ops.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [LLM Platform Promotion](../jobs/it-and-development/cloud-and-devops/llm-platform-promotion.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/llmops-platform-engineering) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Llm Prompt Optimizer](../jobs/it-and-development/prompt-engineering/llm-prompt-optimizer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Llm Structured Output](../jobs/it-and-development/coding/llm-structured-output.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Local Legal Seo Audit](../jobs/marketing/marketing-and-growth/local-legal-seo-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Local Llm Expert](../jobs/it-and-development/generative-ai-and-llm/local-llm-expert.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Local LLM Server Setup](../jobs/it-and-development/generative-ai-and-llm/local-llm-server-setup.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/mac-mini-llm-lab) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Logic Lens](../jobs/it-and-development/coding/logic-lens.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Loki Log Pipeline](../jobs/it-and-development/cloud-and-devops/loki-log-pipeline.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/loki-logging) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Loki Mode](../jobs/it-and-development/generative-code/loki-mode.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Longbridge](../jobs/finance/data-analysis/longbridge.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Longbridge Quant Analysis](../jobs/finance/data-analysis/longbridge-quant-analysis.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/longbridge-quant) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Lookdev](../jobs/creatives/design/lookdev.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Lookdev Auto](../jobs/creatives/generative-art/lookdev-auto.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Loop Library](../jobs/it-and-development/generative-ai-and-llm/loop-library.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -951,10 +1069,14 @@
 | [Malware Analyst](../jobs/it-and-development/security-and-compliance/malware-analyst.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Manage Templates](../jobs/it-and-development/generative-code/manage-skills.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Manifest](../jobs/it-and-development/cloud-and-devops/manifest.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Markdown Narrated Video](../jobs/creatives/text-to-video/markdown-narrated-video.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/md2video-audio) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Markdown Rendering](../jobs/it-and-development/productivity/markdown-rendering.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Market Sizing Analysis](../jobs/executives-and-strategy/data-analysis/market-sizing-analysis.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Marketing Decision Framework](../jobs/marketing/marketing-and-growth/marketing-decision-framework.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/marketing-mindset) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Marketing Ideas](../jobs/marketing/marketing-and-growth/marketing-ideas.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Marketing Psychology](../jobs/marketing/marketing-and-growth/marketing-psychology.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Marketplace RBAC Audit](../jobs/it-and-development/security-and-compliance/marketplace-rbac-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/marketplace-rbac-audit) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Marlin Bed Leveling Calibration](../jobs/customer-support/teaching-and-tutoring/marlin-bed-leveling-calibration.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/marlin-bed-leveling) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Mason](../jobs/it-and-development/coding/mason.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Material Design](../jobs/it-and-development/design/material-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Mathematician Tao](../jobs/it-and-development/coding/mathematician-tao.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -965,6 +1087,7 @@
 | [Maximalism](../jobs/it-and-development/design/maximalism.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [MCP Builder](../jobs/it-and-development/coding/mcp-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Mcp Builder Ms](../jobs/it-and-development/generative-ai-and-llm/mcp-builder-ms.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [MCP Dependency Drift Audit](../jobs/it-and-development/cloud-and-devops/mcp-dependency-drift-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/mcp-dependency-drift-audit) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Mcp Developer](../jobs/it-and-development/generative-ai-and-llm/mcp-developer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Mdpr](../jobs/it-and-development/coding/mdpr-skill.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Memory Forensics](../jobs/it-and-development/security-and-compliance/memory-forensics.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -974,6 +1097,7 @@
 | [Mermaid Expert](../jobs/it-and-development/coding/mermaid-expert.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Mesh Memory](../jobs/it-and-development/knowledge-management/mesh-memory.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Metasploit Framework](../jobs/it-and-development/security-and-compliance/metasploit-framework.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Meteora DLMM Pool Screener](../jobs/finance/data-analysis/meteora-dlmm-pool-screener.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/meteora-dlmm-pool-screening) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Micro Saas Launcher](../jobs/product-development/productivity/micro-saas-launcher.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Microservices Patterns](../jobs/it-and-development/coding/microservices-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Microsoft Azure Webjobs Extensions Authentication Events Dotnet](../jobs/it-and-development/coding/microsoft-azure-webjobs-extensions-authentication-events-dotnet.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -993,10 +1117,13 @@
 | [Mobile Games](../jobs/it-and-development/generative-code/mobile-games.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Mobile Security Coder](../jobs/it-and-development/coding/mobile-security-coder.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Mock Hunter](../jobs/it-and-development/data-analysis/mock-hunter.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Model Registry Governance](../jobs/it-and-development/generative-ai-and-llm/model-registry-governance.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/model-registry-governance) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Model Supply Chain Security](../jobs/it-and-development/security-and-compliance/model-supply-chain-security.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/model-supply-chain-security) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Modellix](../jobs/creatives/generative-art/modellix.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Modern Javascript Patterns](../jobs/it-and-development/coding/modern-javascript-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Molykit](../jobs/it-and-development/coding/molykit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Monday Automation](../jobs/operations/productivity/monday-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [MongoDB Administrator](../jobs/it-and-development/cloud-and-devops/mongodb-administrator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/mongodb) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Monochromatic Ui](../jobs/creatives/design/monochromatic-ui.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Monopoly](../jobs/it-and-development/cloud-and-devops/monopoly.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Monorepo Architect](../jobs/it-and-development/coding/monorepo-architect.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1007,6 +1134,7 @@
 | [Monte Carlo Validation Notebook](../jobs/it-and-development/data-analysis/monte-carlo-validation-notebook.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Moodle External Api Development](../jobs/it-and-development/coding/moodle-external-api-development.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Moyu](../jobs/it-and-development/coding/moyu.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [MRMS Mosaic Access](../jobs/science-and-research/data-analysis/mrms-mosaic-access.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/nexrad-mosaic-access) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Mtls Configuration](../jobs/it-and-development/security-and-compliance/mtls-configuration.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Muapi Media](../jobs/creatives/generative-art/muapi-media.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Multi Advisor](../jobs/executives-and-strategy/productivity/multi-advisor.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1018,6 +1146,7 @@
 | [Multi Platform Apps Multi Platform](../jobs/it-and-development/coding/multi-platform-apps-multi-platform.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Multi Source Search](../jobs/science-and-research/research/multi-source-search.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Multi-Agent Performance Optimizer](../jobs/it-and-development/cloud-and-devops/agent-orchestration-multi-agent-optimize.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Multi-Tenant LLM Hosting](../jobs/it-and-development/generative-ai-and-llm/multi-tenant-llm-hosting.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/multi-tenant-llm-hosting) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Multiplayer](../jobs/it-and-development/coding/multiplayer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [N8n Code Javascript](../jobs/it-and-development/generative-code/n8n-code-javascript.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [N8n Code Python](../jobs/it-and-development/coding/n8n-code-python.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1034,13 +1163,19 @@
 | [Network Engineer](../jobs/it-and-development/cloud-and-devops/network-engineer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Neumorphism](../jobs/creatives/design/neumorphism.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [New Rails Project](../jobs/it-and-development/coding/new-rails-project.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [New Relic Observability Setup](../jobs/it-and-development/cloud-and-devops/new-relic-observability-setup.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/new-relic) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [News Sentiment Engine](../jobs/marketing/data-analysis/news-sentiment-engine.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [NEXRAD Mosaic Builder](../jobs/science-and-research/data-analysis/nexrad-mosaic-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/nexrad-mosaic-construction) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [NEXRAD Product Access](../jobs/science-and-research/data-analysis/nexrad-product-access.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/nexrad-product-access) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [NEXRAD Radar Plotter](../jobs/science-and-research/data-analysis/nexrad-radar-plotter.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/nexrad-radar-visualization) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Nextjs App Router Patterns](../jobs/it-and-development/coding/nextjs-app-router-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Nextjs Best Practices](../jobs/it-and-development/coding/nextjs-best-practices.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Nextjs Seo Indexing](../jobs/it-and-development/coding/nextjs-seo-indexing.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Nextjs Supabase Auth](../jobs/it-and-development/coding/nextjs-supabase-auth.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [NFS Storage Setup](../jobs/it-and-development/cloud-and-devops/nfs-storage-setup.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/nfs-storage) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Nft Standards](../jobs/it-and-development/generative-code/nft-standards.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Niche Intelligence Dossier](../jobs/science-and-research/research/niche-intelligence-dossier.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [NOAA Radar Satellite Fetcher](../jobs/science-and-research/cloud-and-devops/noaa-radar-satellite-fetcher.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/noaa-radar-satellite-fetching) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Nodejs Backend Patterns](../jobs/it-and-development/coding/nodejs-backend-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Nodejs Best Practices](../jobs/it-and-development/coding/nodejs-best-practices.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Nosql Expert](../jobs/it-and-development/data-analysis/nosql-expert.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1050,6 +1185,7 @@
 | [Notion Template Business](../jobs/creatives/productivity/notion-template-business.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Nutrition Analyzer](../jobs/healthcare/data-analysis/nutrition-analyzer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Nx Workspace Patterns](../jobs/it-and-development/cloud-and-devops/nx-workspace-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Object Storage Administrator](../jobs/it-and-development/cloud-and-devops/object-storage-administrator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/object-storage) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Objection Preemptor](../jobs/marketing/marketing-and-growth/objection-preemptor.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Observability Engineer](../jobs/it-and-development/cloud-and-devops/observability-engineer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Observability Monitoring Monitor Setup](../jobs/it-and-development/cloud-and-devops/observability-monitoring-monitor-setup.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1085,11 +1221,16 @@
 | [Onboarding Cro](../jobs/product-development/productivity/onboarding-cro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Onboarding Psychologist](../jobs/product-development/research/onboarding-psychologist.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [One Drive Automation](../jobs/operations/office-tools/one-drive-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [OneRoster CSV Validator](../jobs/it-and-development/security-and-compliance/oneroster-csv-validator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/oneroster-csv-validator) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ontoly Software Graph](../jobs/it-and-development/coding/ontoly-software-graph.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Opal or Obsidian UI Builder](../jobs/creatives/design/opal-or-obsidian-ui-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Open Dynamic Workflows](../jobs/it-and-development/coding/open-dynamic-workflows.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Openapi Spec Generation](../jobs/it-and-development/cloud-and-devops/openapi-spec-generation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [OpenClaw Deployment Hardening](../jobs/it-and-development/cloud-and-devops/openclaw-deployment-hardening.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/openclaw-deployment-hardening) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Openclaw Github Repo Commander](../jobs/it-and-development/coding/openclaw-github-repo-commander.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [OpenClaw Security Hardening](../jobs/it-and-development/security-and-compliance/openclaw-security-hardening.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/openclaw-security-hardening) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [OpenShift Cluster Operations](../jobs/it-and-development/cloud-and-devops/openshift-cluster-operations.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/openshift) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [OpenTofu Migration](../jobs/it-and-development/cloud-and-devops/opentofu-migration.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/opentofu-migration) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Optim Agent](../jobs/it-and-development/coding/optim-agent.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Options Flow Analyzer](../jobs/finance/data-analysis/options-flow-analyzer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Oral Health Analyzer](../jobs/healthcare/data-analysis/oral-health-analyzer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1135,13 +1276,16 @@
 | [Pitch Psychologist](../jobs/marketing/marketing-and-growth/pitch-psychologist.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Plaid Fintech](../jobs/it-and-development/coding/plaid-fintech.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Plan Writing](../jobs/management/productivity/plan-writing.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [PlanetScale Schema Operator](../jobs/it-and-development/cloud-and-devops/planetscale-schema-operator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/planetscale) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Planning With Files](../jobs/management/productivity/planning-with-files.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Playwright](../jobs/it-and-development/coding/playwright.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Playwright Java](../jobs/it-and-development/coding/playwright-java.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Plotly](../jobs/it-and-development/data-analysis/plotly.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Podcast Generation](../jobs/creatives/text-to-speech/podcast-generation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Podman Container Operations](../jobs/it-and-development/cloud-and-devops/podman-container-operations.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/podman) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Poka Yoke](../jobs/it-and-development/coding/poka-yoke.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Polars](../jobs/it-and-development/data-analysis/polars.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Policy as Code Enforcement](../jobs/it-and-development/security-and-compliance/policy-as-code-enforcement.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/policy-as-code) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Polis Protocol](../jobs/it-and-development/generative-ai-and-llm/polis-protocol.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Popup Cro](../jobs/marketing/marketing-and-growth/popup-cro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Posix Shell Pro](../jobs/it-and-development/coding/posix-shell-pro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1178,14 +1322,18 @@
 | [Progressive Web App](../jobs/it-and-development/generative-code/progressive-web-app.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Project Development](../jobs/it-and-development/generative-ai-and-llm/project-development.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Project Guidelines Example](../jobs/it-and-development/coding/cc-skill-project-guidelines-example.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Project Reconnaissance Report](../jobs/it-and-development/research/project-reconnaissance-report.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/understand-project-yylo) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Project State Governor](../jobs/management/knowledge-management/project-state-governor.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Project Template Audit](../jobs/it-and-development/research/project-skill-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Projection Patterns](../jobs/it-and-development/coding/projection-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Prometheus Configuration](../jobs/it-and-development/cloud-and-devops/prometheus-configuration.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Prometheus Monitoring Setup](../jobs/it-and-development/cloud-and-devops/prometheus-monitoring-setup.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/prometheus-grafana) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Prompt Archive Verifier](../jobs/legal/generative-ai-and-llm/prompt-archive-verifier.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/system-prompt-lookup) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Prompt Caching](../jobs/it-and-development/generative-ai-and-llm/prompt-caching.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Prompt Engineer](../jobs/it-and-development/prompt-engineering/prompt-engineer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Prompt Engineering](../jobs/it-and-development/prompt-engineering/prompt-engineering.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Prompt Engineering Patterns](../jobs/it-and-development/prompt-engineering/prompt-engineering-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Prompt Injection Defense Review](../jobs/it-and-development/security-and-compliance/prompt-injection-defense-review.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/prompt-injection-defense) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Prompt Library](../jobs/writers/prompt-engineering/prompt-library.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Protect Mcp Governance](../jobs/it-and-development/security-and-compliance/protect-mcp-governance.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Protocol Reverse Engineering](../jobs/it-and-development/security-and-compliance/protocol-reverse-engineering.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1208,15 +1356,20 @@
 | [Quant Analyst](../jobs/finance/data-analysis/quant-analyst.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Quinn](../jobs/it-and-development/coding/quinn.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Quit Sponsor](../jobs/healthcare/self-improvement/quit-sponsor.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Radar Satellite Weather Analyst](../jobs/science-and-research/data-analysis/radar-satellite-weather-analyst.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/radar-satellite-analysis) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Radix Ui Design System](../jobs/creatives/design/radix-ui-design-system.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Rag Engineer](../jobs/it-and-development/generative-ai-and-llm/rag-engineer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Rag Implementation](../jobs/it-and-development/generative-ai-and-llm/rag-implementation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [RAG Infrastructure Builder](../jobs/it-and-development/generative-ai-and-llm/rag-infrastructure-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/rag-infrastructure) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [RAG Quality Evaluator](../jobs/it-and-development/generative-ai-and-llm/rag-quality-evaluator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/rag-observability-evals) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [RDS Database Operator](../jobs/it-and-development/cloud-and-devops/rds-database-operator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/aws-rds) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Re Create](../jobs/it-and-development/coding/re-create.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [React Best Practices](../jobs/it-and-development/coding/react-best-practices.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [React Component Performance](../jobs/it-and-development/coding/react-component-performance.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [React Flow Architect](../jobs/it-and-development/coding/react-flow-architect.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [React Flow Node Ts](../jobs/it-and-development/coding/react-flow-node-ts.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [React Modernization](../jobs/it-and-development/coding/react-modernization.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [React Native Animation Builder](../jobs/it-and-development/coding/react-native-animation-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/expo-animation) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [React Native Architecture](../jobs/it-and-development/coding/react-native-architecture.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [React Nextjs Development](../jobs/it-and-development/coding/react-nextjs-development.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [React Patterns](../jobs/it-and-development/coding/react-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1231,18 +1384,26 @@
 | [Red Team Tools](../jobs/it-and-development/security-and-compliance/red-team-tools.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Reddit Automation](../jobs/marketing/social-media/reddit-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Redesign Existing Projects](../jobs/it-and-development/design/redesign-existing-projects.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Redis Operations Assistant](../jobs/it-and-development/cloud-and-devops/redis-operations-assistant.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/redis) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Reference Builder](../jobs/it-and-development/writing-and-content/reference-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Referral Program](../jobs/marketing/marketing-and-growth/referral-program.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Rehabilitation Analyzer](../jobs/healthcare/data-analysis/rehabilitation-analyzer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Remote Gpu Trainer](../jobs/it-and-development/cloud-and-devops/remote-gpu-trainer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Remotion](../jobs/creatives/generative-video/remotion.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Remotion Best Practices](../jobs/it-and-development/generative-code/remotion-best-practices.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Remotion Docs Lookup](../jobs/it-and-development/research/remotion-docs-lookup.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/remotion-docs) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Remotion Interactivity Editor](../jobs/it-and-development/coding/remotion-interactivity-editor.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/remotion-interactivity) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Remotion Video Builder](../jobs/creatives/generative-code/remotion-video-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/remotion-create) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Remotion Video Renderer](../jobs/creatives/generative-video/remotion-video-renderer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/remotion-render) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Render Automation](../jobs/it-and-development/cloud-and-devops/render-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Reproducible Dev Environments](../jobs/it-and-development/cloud-and-devops/reproducible-dev-environments.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/devcontainers-nix) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Requesting Code Review](../jobs/it-and-development/coding/requesting-code-review.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Research Prompt](../jobs/science-and-research/research/research-prompt.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Resumable Implementation Contracts](../jobs/it-and-development/knowledge-management/resumable-implementation-contracts.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/resumable-implementation-contracts) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Retro Design](../jobs/creatives/design/retro-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Retro Futurism](../jobs/creatives/design/retro-futurism.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Reverse Engineer](../jobs/it-and-development/security-and-compliance/reverse-engineer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Reverse Proxy Configurator](../jobs/it-and-development/cloud-and-devops/reverse-proxy-configurator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/reverse-proxy) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Review Animations](../jobs/it-and-development/generative-code/review-animations.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Review Multi Agent Orchestration](../jobs/it-and-development/coding/review-multi-agent-orchestration.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Rex](../jobs/product-development/research/rex.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1261,10 +1422,13 @@
 | [Runapi Cli](../jobs/creatives/generative-art/runapi-cli.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Runaway Guard](../jobs/it-and-development/cloud-and-devops/runaway-guard.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Rust Async Patterns](../jobs/it-and-development/coding/rust-async-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Rust Idiom Reviewer](../jobs/it-and-development/coding/rust-idiom-reviewer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/super-code/rust) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Rust Pro](../jobs/it-and-development/coding/rust-pro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [S3 Bucket Operations](../jobs/it-and-development/cloud-and-devops/s3-bucket-operations.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/aws-s3) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [SaaS Monetization Strategist](../jobs/product-development/marketing-and-growth/monetization.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Saas Multi Tenant](../jobs/it-and-development/coding/saas-multi-tenant.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Saas Mvp Launcher](../jobs/product-development/generative-code/saas-mvp-launcher.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [SaaS Security Posture](../jobs/it-and-development/security-and-compliance/saas-security-posture.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/saas-security-posture) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Saga Orchestration](../jobs/it-and-development/cloud-and-devops/saga-orchestration.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Sales Automator](../jobs/sales/marketing-and-growth/sales-automator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Salesforce Automation](../jobs/sales/sales-and-negotiation/salesforce-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1292,6 +1456,7 @@
 | [Secrets Management](../jobs/it-and-development/cloud-and-devops/secrets-management.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Security Audit](../jobs/it-and-development/security-and-compliance/security-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Security Auditor](../jobs/it-and-development/security-and-compliance/security-auditor.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Security Automation Pipeline](../jobs/it-and-development/security-and-compliance/security-automation-pipeline.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/security-automation) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Security Bluebook Builder](../jobs/it-and-development/security-and-compliance/security-bluebook-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Security Checklist](../jobs/it-and-development/security-and-compliance/security-checklist.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Security Compliance Compliance Check](../jobs/it-and-development/security-and-compliance/security-compliance-compliance-check.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1302,6 +1467,7 @@
 | [Security Scanning Security Sast](../jobs/it-and-development/security-and-compliance/security-scanning-security-sast.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Segment Automation](../jobs/it-and-development/coding/segment-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Segment Cdp](../jobs/it-and-development/data-analysis/segment-cdp.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Semantic Release Versioning](../jobs/it-and-development/cloud-and-devops/semantic-release-versioning.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/semantic-versioning) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Semgrep Rule Creator](../jobs/it-and-development/coding/semgrep-rule-creator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Semgrep Rule Variant Creator](../jobs/it-and-development/coding/semgrep-rule-variant-creator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Sendblue Api](../jobs/it-and-development/coding/sendblue-api.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1319,6 +1485,7 @@
 | [Seo Aeo Landing Page Writer](../jobs/marketing/writing-and-content/seo-aeo-landing-page-writer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Seo Aeo Meta Description Generator](../jobs/marketing/marketing-and-growth/seo-aeo-meta-description-generator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Seo Aeo Schema Generator](../jobs/it-and-development/coding/seo-aeo-schema-generator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [SEO and AEO Growth Orchestrator](../jobs/marketing/marketing-and-growth/seo-and-aeo-growth-orchestrator.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/seo-aeo-orchestrator) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Seo Audit](../jobs/marketing/marketing-and-growth/seo-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Seo Authority Builder](../jobs/marketing/marketing-and-growth/seo-authority-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Seo Cannibalization Detector](../jobs/marketing/marketing-and-growth/seo-cannibalization-detector.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1334,6 +1501,7 @@
 | [Seo Snippet Hunter](../jobs/marketing/writing-and-content/seo-snippet-hunter.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Seo Structure Architect](../jobs/marketing/marketing-and-growth/seo-structure-architect.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Sequence Psychologist](../jobs/marketing/marketing-and-growth/sequence-psychologist.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Serply Sourced Search](../jobs/writers/research/serply-sourced-search.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/serply-search-mcp) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Server Management](../jobs/it-and-development/cloud-and-devops/server-management.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Service Mesh Expert](../jobs/it-and-development/cloud-and-devops/service-mesh-expert.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Service Mesh Observability](../jobs/it-and-development/cloud-and-devops/service-mesh-observability.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1341,8 +1509,10 @@
 | [Setup Matt Pocock Templates](../jobs/it-and-development/cloud-and-devops/setup-matt-pocock-skills.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Sexual Health Analyzer](../jobs/healthcare/data-analysis/sexual-health-analyzer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Shader Programming Glsl](../jobs/it-and-development/generative-code/shader-programming-glsl.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Shadow API Version Hunter](../jobs/it-and-development/security-and-compliance/shadow-api-version-hunter.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/hunt-shadow-api) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Sharp Coder](../jobs/it-and-development/coding/sharp-coder.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Sharp Edges](../jobs/it-and-development/coding/sharp-edges.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Shelf Edge Price Sync](../jobs/operations/cloud-and-devops/shelf-edge-price-sync.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/esl-price-sync) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Shellcheck Configuration](../jobs/it-and-development/coding/shellcheck-configuration.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Shodan Reconnaissance](../jobs/it-and-development/security-and-compliance/shodan-reconnaissance.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Shopify Apps](../jobs/it-and-development/coding/shopify-apps.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1362,10 +1532,14 @@
 | [Sleep Analyzer](../jobs/healthcare/self-improvement/sleep-analyzer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Slideops](../jobs/it-and-development/coding/slideops.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Slo Implementation](../jobs/it-and-development/cloud-and-devops/slo-implementation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Smart Contract Audit](../jobs/it-and-development/security-and-compliance/smart-contract-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/web3-audit) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Smart Git Automation](../jobs/it-and-development/cloud-and-devops/smart-git-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Smart Money Tracker](../jobs/finance/research/smart-money-tracker.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/traderspy-smart-money) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Smtp Penetration Testing](../jobs/it-and-development/security-and-compliance/smtp-penetration-testing.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Snowflake Development](../jobs/it-and-development/data-analysis/snowflake-development.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [SOC 2 Evidence Tracker](../jobs/it-and-development/security-and-compliance/soc-2-evidence-tracker.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/soc2-compliance) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Social Content](../jobs/marketing/social-media/social-content.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Social Evidence Researcher](../jobs/marketing/research/social-evidence-researcher.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/jev-social) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Social Metadata Hardening](../jobs/marketing/marketing-and-growth/social-metadata-hardening.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Social Orchestrator](../jobs/marketing/social-media/social-orchestrator.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Social Post Writer Seo](../jobs/marketing/social-media/social-post-writer-seo.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1374,6 +1548,7 @@
 | [Soft Pastel](../jobs/creatives/design/soft-pastel.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Software Architecture](../jobs/it-and-development/coding/software-architecture.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Solidity Security](../jobs/it-and-development/coding/solidity-security.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [SOPS Secrets Encryption](../jobs/it-and-development/cloud-and-devops/sops-secrets-encryption.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/sops-encryption) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Spark Optimization](../jobs/it-and-development/coding/spark-optimization.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Spatial Computing Ui](../jobs/it-and-development/design/spatial-computing-ui.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Spatial Design](../jobs/it-and-development/design/spatial-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1391,6 +1566,7 @@
 | [Squirrel](../jobs/it-and-development/coding/squirrel.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [SRED Project Organizer](../jobs/operations/research/sred-project-organizer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Sred Work Summary](../jobs/operations/productivity/sred-work-summary.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [SSH Configuration Planner](../jobs/it-and-development/cloud-and-devops/ssh-configuration-planner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/ssh-configuration) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ssh Penetration Testing](../jobs/it-and-development/security-and-compliance/ssh-penetration-testing.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Sshepherd](../jobs/it-and-development/cloud-and-devops/sshepherd.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Stability AI Image Bot](../jobs/creatives/generative-art/stability-ai.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1399,6 +1575,7 @@
 | [Startup Business Analyst Financial Projections](../jobs/finance/data-analysis/startup-business-analyst-financial-projections.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Startup Business Analyst Market Opportunity](../jobs/executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Startup Financial Modeling](../jobs/finance/data-analysis/startup-financial-modeling.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Startup IT Troubleshooting](../jobs/it-and-development/support-and-community/startup-it-troubleshooting.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/startup-it-troubleshooting) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Startup Metrics Framework](../jobs/executives-and-strategy/data-analysis/startup-metrics-framework.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Statsmodels](../jobs/science-and-research/data-analysis/statsmodels.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Steve Jobs Advisor](../jobs/creatives/design/steve-jobs.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1426,6 +1603,7 @@
 | [Swiss Design](../jobs/creatives/design/swiss-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Synthwave](../jobs/creatives/design/synthwave.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Systematic Debugging](../jobs/it-and-development/coding/systematic-debugging.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Systemd Service Manager](../jobs/it-and-development/cloud-and-devops/systemd-service-manager.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/systemd-services) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Systems Programming Rust Project](../jobs/it-and-development/coding/systems-programming-rust-project.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Tailwind Design System](../jobs/it-and-development/coding/tailwind-design-system.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Tailwind Patterns](../jobs/it-and-development/coding/tailwind-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1494,6 +1672,7 @@
 | [Tiktok Automation](../jobs/marketing/social-media/tiktok-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Tile Design](../jobs/it-and-development/design/tile-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Time Ledger](../jobs/operations/productivity/time-ledger.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [TLS Certificate Manager](../jobs/it-and-development/cloud-and-devops/tls-certificate-manager.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/ssl-tls-management) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Tmux](../jobs/it-and-development/cloud-and-devops/tmux.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [To Issues](../jobs/product-development/productivity/to-issues.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Todoist Automation](../jobs/operations/productivity/todoist-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1517,6 +1696,7 @@
 | [Twitter Automation](../jobs/marketing/social-media/twitter-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Typescript Advanced Types](../jobs/it-and-development/coding/typescript-advanced-types.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Typescript Expert](../jobs/it-and-development/coding/typescript-expert.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [TypeScript Idiom Reviewer](../jobs/it-and-development/coding/typescript-idiom-reviewer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/super-code/typescript) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Typescript Pro](../jobs/it-and-development/coding/typescript-pro.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Typography First](../jobs/it-and-development/generative-code/typography-first.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ui A11y](../jobs/it-and-development/coding/ui-a11y.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1576,8 +1756,15 @@
 | [Warehouse](../jobs/it-and-development/data-analysis/warehouse.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Warren Buffett](../jobs/education/teaching-and-tutoring/warren-buffett.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Wcag Audit Patterns](../jobs/it-and-development/coding/wcag-audit-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Weather Data Lifecycle](../jobs/it-and-development/cloud-and-devops/weather-data-lifecycle.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/weather-data-lifecycle-management) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Weather Data Provenance](../jobs/science-and-research/security-and-compliance/weather-data-provenance.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/weather-data-reproducibility) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Weather Model Data Fetcher](../jobs/science-and-research/data-analysis/weather-model-data-fetcher.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/weather-model-data-fetching) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Weather Model Run Resolver](../jobs/it-and-development/generative-ai-and-llm/weather-model-run-resolver.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/weather-model-run-discovery) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Weather Observation Fetcher](../jobs/science-and-research/data-analysis/weather-observation-fetcher.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/weather-observation-fetching) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Weather Pipeline Performance Diagnosis](../jobs/it-and-development/cloud-and-devops/weather-pipeline-performance-diagnosis.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/weather-pipeline-performance-diagnosis) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Weaviate](../jobs/it-and-development/data-analysis/weaviate.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Weaviate Cookbooks](../jobs/it-and-development/generative-ai-and-llm/weaviate-cookbooks.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Web Application Firewall Setup](../jobs/it-and-development/security-and-compliance/web-application-firewall-setup.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/waf-setup) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Web Artifacts Builder](../jobs/it-and-development/generative-code/web-artifacts-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Web Design Guidelines](../jobs/it-and-development/design/web-design-guidelines.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Web Games](../jobs/it-and-development/generative-code/web-games.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1605,6 +1792,7 @@
 | [Wiki Researcher](../jobs/it-and-development/research/wiki-researcher.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Wiki Vitepress](../jobs/it-and-development/coding/wiki-vitepress.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Windows Privilege Escalation](../jobs/it-and-development/security-and-compliance/windows-privilege-escalation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Windows Server Hardening](../jobs/it-and-development/security-and-compliance/windows-server-hardening.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/windows-hardening) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Windows Shell Reliability](../jobs/it-and-development/coding/windows-shell-reliability.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Wireshark Analysis](../jobs/it-and-development/data-analysis/wireshark-analysis.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Woo Guard](../jobs/it-and-development/coding/woo-guard.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1624,12 +1812,14 @@
 | [Writer](../jobs/operations/office-tools/writer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Writing Essentials](../jobs/it-and-development/coding/writing-skills.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Writing Great Templates](../jobs/it-and-development/prompt-engineering/writing-great-skills.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Writing Guidelines Reviewer](../jobs/writers/writing-and-content/writing-guidelines-reviewer.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/writing-guidelines) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Writing Plans](../jobs/it-and-development/coding/writing-plans.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [X Twitter Scraper](../jobs/operations/data-analysis/x-twitter-scraper.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [X402 Express Wrapper](../jobs/it-and-development/coding/x402-express-wrapper.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Xiaohongshu Content Strategist](../jobs/marketing/social-media/xiaohongshu-content-strategist.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Xlsx Official](../jobs/finance/data-analysis/xlsx-official.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Xss Html Injection](../jobs/it-and-development/security-and-compliance/xss-html-injection.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [XSS Vulnerability Hunter](../jobs/it-and-development/security-and-compliance/xss-vulnerability-hunter.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/hunt-xss) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Xvary Stock Research](../jobs/finance/data-analysis/xvary-stock-research.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Y2k Design](../jobs/creatives/design/y2k-design.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Yann LeCun Debate](../jobs/education/teaching-and-tutoring/yann-lecun-debate.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -1645,8 +1835,12 @@
 | [Youtube Seo Optimizer](../jobs/marketing/marketing-and-growth/youtube-seo-optimizer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Youtube Summarizer](../jobs/education/research/youtube-summarizer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Youtube Transcript](../jobs/operations/research/youtube-transcript.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [YYLO Task Loop Runner](../jobs/it-and-development/coding/yylo-task-loop-runner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/ralph-loop-yylo) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [YYLO Workflow Ledger](../jobs/it-and-development/knowledge-management/yylo-workflow-ledger.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/workflow-yylo) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Zapier Make Patterns](../jobs/it-and-development/cloud-and-devops/zapier-make-patterns.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Zendesk Automation](../jobs/customer-support/support-and-community/zendesk-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Zero Trust Access Planner](../jobs/it-and-development/cloud-and-devops/zero-trust-access-planner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/cloudflare-zero-trust) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Zero-Downtime Deployment Planner](../jobs/it-and-development/cloud-and-devops/zero-downtime-deployment-planner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/blue-green-deploy) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Zeroize Audit](../jobs/it-and-development/security-and-compliance/zeroize-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Zipai Optimizer](../jobs/it-and-development/prompt-engineering/zipai-optimizer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Zod Validation Expert](../jobs/it-and-development/coding/zod-validation-expert.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |

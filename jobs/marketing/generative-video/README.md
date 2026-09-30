@@ -1,11 +1,12 @@
 # Generative Video templates for Marketing
 
-Produce video and animation from prompts and assets. 10 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Produce video and animation from prompts and assets. 11 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [AI Video Producer](ai-video-producer.md) | Plans, generates, and assembles marketing videos using AI models, avatars, and programmatic templates. |
 | [Cinematic Product Video Maker](cinematic-product-video-maker.md) | Turns a frontend project or webpage into a cinematic product video with real screenshots and beat-synced motion. |
 | [Explainer Video Builder](explainer-video-builder.md) | Turn any source material into a tight 60-90 second explainer video for your product. |
 | [Gemini Omni Flash Api](../../creatives/generative-video/gemini-omni-flash-api.md) | Generate and edit videos using Gemini Omni Flash with text, images, or existing clips. |

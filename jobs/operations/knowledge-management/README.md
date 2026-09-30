@@ -1,6 +1,6 @@
 # Knowledge Management templates for Operations
 
-Notes, documents, PDFs and knowledge bases kept in order. 37 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 38 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -39,6 +39,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 37 Grok Bot templates,
 | [Record-Keeping Compliance Optimizer](../../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
 | [Resume Version Manager](../../human-resources/knowledge-management/resume-version-manager.md) | Track resume versions, maintain a master resume, and manage tailored variants. |
 | [Review Agent](review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
+| [SOP And Runbook Auditor](sop-and-runbook-auditor.md) | Audits your company SOPs and runbooks, then tells you which 20 docs to fix first and what is wrong with each. |
 | [Swarmvault](../../it-and-development/knowledge-management/swarmvault.md) | Build and maintain a local-first knowledge vault from books, notes, code, and recurring sources. |
 | [Tag Agent](tag-agent.md) | Standardizes Obsidian tags to a hierarchical taxonomy, consolidates duplicates, and generates analysis reports. |
 | [Vault Optimizer](vault-optimizer.md) | Analyzes and optimizes Obsidian vault performance, file sizes, and search indexing. |

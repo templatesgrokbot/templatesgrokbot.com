@@ -1,6 +1,6 @@
 # Security & Compliance templates for Product Development
 
-Authorised security testing, audits and regulatory work. 25 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 26 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Authorised security testing, audits and regulatory work. 25 Grok Bot templates, 
 | [Backend Security Coder](../../it-and-development/security-and-compliance/backend-security-coder.md) | Secure backend coding expert for input validation, authentication, and API security. |
 | [Fda Consultant Specialist](../../it-and-development/security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
 | [Packaging Compliance Assistant](packaging-compliance-assistant.md) | Turns packaging regulations into clear, actionable compliance steps for your products. |
+| [Pre-Launch Ship Gate](../../it-and-development/security-and-compliance/pre-launch-ship-gate.md) | Audits a codebase before launch and blocks deployment until critical issues are fixed. |
 | [Privacy By Design](../../it-and-development/security-and-compliance/privacy-by-design.md) | Build apps with built-in privacy protections from the start. |
 | [Process Safety Risk Assessor](process-safety-risk-assessor.md) | Turns process data into hazard insights, risk assessments, and safety actions for process engineers. |
 | [Production Audit](../../it-and-development/security-and-compliance/production-audit.md) | Audits deployed repos for production-readiness gaps across security, infra, and UX. |

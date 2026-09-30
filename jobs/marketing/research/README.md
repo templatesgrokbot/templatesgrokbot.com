@@ -1,6 +1,6 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 77 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 84 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Find sources, compare evidence and summarise what is known. 77 Grok Bot template
 | [AI News finding Bot](../../science-and-research/research/ai-news-finding-bot.md) | Finds and summarizes AI news from trusted sources daily. |
 | [Apify Ecommerce](../../it-and-development/research/apify-ecommerce.md) | Extract product data, prices, reviews, and sellers from e-commerce sites via Apify. |
 | [Apify Market Research](apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
+| [Brand Mention Authority Scanner](brand-mention-authority-scanner.md) | Scans where your brand is mentioned across AI-indexed platforms and scores its authority. |
 | [Brand Perception Study Assistant](../../management/research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Brightdata Local Search](../../science-and-research/research/brightdata-local-search.md) | Run local web searches via Bright Data SERP API with query expansion and reranking. |
 | [Business Unit Market Scout](../../management/research/business-unit-market-scout.md) | Tracks market trends and competitors for business unit decisions. |
@@ -17,6 +18,8 @@ Find sources, compare evidence and summarise what is known. 77 Grok Bot template
 | [Competitive Analyst](competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
 | [Competitive Brief](marketing-competitive-brief.md) | Compare five competitors on messaging, visuals, pricing signals, and open market niches. |
 | [Competitive Intelligence Analyst](../../executives-and-strategy/research/competitive-intelligence-analyst.md) | Monitors competitors and market trends to produce structured intelligence reports. |
+| [Competitive Intelligence Tracker](competitive-intelligence-tracker.md) | Tracks competitors and turns their moves into battlecards, positioning briefs and roadmap inputs. |
+| [Competitive Teardown Analyst](competitive-teardown-analyst.md) | Turns competitor pricing, reviews, job posts and SEO signals into a scored teardown with an action plan. |
 | [Competitor Analysis](competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
 | [Competitor Intelligence Analyst](../../management/research/competitor-intelligence-analyst.md) | Tracks competitors' moves and turns them into brand strategy recommendations. |
 | [Competitor Move Strategist](../../executives-and-strategy/research/competitor-move-strategist.md) | Tracks competitors and turns their moves into strategic recommendations for you. |
@@ -48,8 +51,10 @@ Find sources, compare evidence and summarise what is known. 77 Grok Bot template
 | [Market Research and Analysis Assistant](../../sales/research/market-research-and-analysis-assistant.md) | Market research and analysis assistant for digital marketing managers. |
 | [Market Research Insight Assistant](../../executives-and-strategy/research/market-research-insight-assistant.md) | Turns market research data into actionable insights for marketing leaders. |
 | [Market Research Insights Assistant](../../executives-and-strategy/research/market-research-insights-assistant.md) | Turns market research data into strategic insights for marketing decisions. |
+| [Market Research Methodologist](market-research-methodologist.md) | Sizes markets, plans survey samples, and scores segments with method and assumptions shown. |
 | [Market Research Reports](market-research-reports.md) | Generates 50+ page consulting-grade market research reports with LaTeX formatting, visuals, and strategic frameworks. |
 | [Market Research Strategist](../../executives-and-strategy/research/market-research-strategist.md) | Turns market data into strategic insights for COO decisions. |
+| [Market Research Synthesizer](market-research-synthesizer.md) | Turns raw market research, interviews, and notes into themes, pain points, triggers, and strategic recommendations. |
 | [Market Researcher](market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
 | [Market Scout](market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
 | [Market Trend Analyst](../../management/research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
@@ -72,6 +77,8 @@ Find sources, compare evidence and summarise what is known. 77 Grok Bot template
 | [Seo Dataforseo](seo-dataforseo.md) | Fetch live SERPs, keyword metrics, backlinks, and competitor data via DataForSEO. |
 | [Seo Geo](seo-geo.md) | Analyze content visibility and optimization for AI search systems like ChatGPT, Perplexity, and Google AI Overviews. |
 | [Seo Images](seo-images.md) | Audit image SEO, alt text, sizes, formats, and lazy loading for web pages. |
+| [Serply Sourced Search](../../writers/research/serply-sourced-search.md) | Searches Google, Bing, News and Scholar through Serply and answers with cited sources. |
+| [Social Evidence Researcher](social-evidence-researcher.md) | Researches public Instagram, TikTok and LinkedIn posts and returns source-linked evidence reports. |
 | [Social Media Market Research Analyst](../../sales/research/social-media-market-research-analyst.md) | Turns social media data into market research insights and strategy for sales and marketing teams. |
 | [Startup Business Analyst Market Opportunity](../../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
 | [Stock Photo Finder](../../creatives/research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |

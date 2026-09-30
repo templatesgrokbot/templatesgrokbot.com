@@ -1,6 +1,6 @@
 # Coding templates for Marketing
 
-Write, review, test and debug software. 14 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 15 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Write, review, test and debug software. 14 Grok Bot templates, 1 of them filed i
 | [Core Web Vitals](../../it-and-development/coding/core-web-vitals.md) | Analyzes and fixes LCP, INP, and CLS to improve page experience and search ranking. |
 | [Fixing Metadata](../../it-and-development/coding/fixing-metadata.md) | Audit and fix HTML metadata for SEO, social cards, and indexing. |
 | [Frontend Seo](../../it-and-development/coding/frontend-seo.md) | Portable, framework-agnostic SEO system for React and React Native-for-web frontends. |
+| [Markdown To WeChat HTML](markdown-to-wechat-html.md) | Converts Markdown files into styled, WeChat-ready HTML with themes, diagrams and citations. |
 | [Nextjs Seo Indexing](../../it-and-development/coding/nextjs-seo-indexing.md) | Fix SEO indexing issues and crawl budget problems in Next.js apps. |
 | [Roier Seo](../../it-and-development/coding/roier-seo.md) | Audits websites for SEO, performance, and accessibility issues and auto-fixes them in the codebase. |
 | [Schema Markup](../../it-and-development/coding/schema-markup.md) | Implement, validate, and optimize schema.org structured data for rich results. |

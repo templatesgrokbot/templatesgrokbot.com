@@ -1,6 +1,6 @@
 # Social Media templates for PR and Communications
 
-Plan, write and measure posts across networks. 30 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 33 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -34,7 +34,10 @@ Plan, write and measure posts across networks. 30 Grok Bot templates, 6 of them 
 | [Twitter Ai Influencer Manager](../../marketing/social-media/twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
 | [Twitter Automation](../../marketing/social-media/twitter-automation.md) | Automate Twitter/X posts, search, users, bookmarks, lists, and media via Rube MCP. |
 | [Twitter Share Card Maker](../../marketing/social-media/twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |
+| [Weibo Campaign Strategist](../../marketing/social-media/weibo-campaign-strategist.md) | Plans Weibo campaigns, tracks trending topics, and drafts posts for your approval. |
+| [Weibo Post Publisher](../../marketing/social-media/weibo-post-publisher.md) | Fills Weibo posts and headline articles into your browser so you review and publish them yourself. |
 | [X Article Publisher](../../marketing/social-media/x-article-publisher-skill.md) | Publish articles to X/Twitter with formatted posts and media. |
 | [X Brief](../../marketing/social-media/x-brief.md) | Connects to X, analyzes your recent posts to identify your beat, and flags relevant events with a daily wrap-up. |
+| [X Publishing Assistant](../../marketing/social-media/x-publishing-assistant.md) | Publishes your text, images, videos, and long-form articles to X after you approve the final post. |
 
 [← All PR and Communications templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/pr-and-communications)

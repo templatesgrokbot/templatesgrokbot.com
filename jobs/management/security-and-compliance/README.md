@@ -1,6 +1,6 @@
 # Security & Compliance templates for Management
 
-Authorised security testing, audits and regulatory work. 44 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 45 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Authorised security testing, audits and regulatory work. 44 Grok Bot templates, 
 | [Environmental Impact Assessment Assistant](environmental-impact-assessment-assistant.md) | Environmental impact assessments and compliance for plant managers, from data to reports. |
 | [Ethical Compliance Assessment Assistant](../../legal/security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
 | [Ethical Compliance Monitor](../../legal/security-and-compliance/ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
+| [FedRAMP Compliance Tracker](../../it-and-development/security-and-compliance/fedramp-compliance-tracker.md) | Tracks FedRAMP control implementation, POA&M milestones, and continuous monitoring evidence for a federal cloud service. |
 | [Google Cloud Waf Security](../../it-and-development/security-and-compliance/google-cloud-waf-security.md) | Evaluates Google Cloud workloads against the Well-Architected Framework security pillar and gives actionable recommendations. |
 | [Health and Safety Compliance Assistant](../../science-and-research/security-and-compliance/health-and-safety-compliance-assistant.md) | Manages lab safety compliance: training, waste, equipment, incidents, audits, and more. |
 | [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |

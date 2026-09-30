@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 115 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 118 Grok Bot templates, 64 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -76,12 +76,14 @@ Find sources, compare evidence and summarise what is known. 115 Grok Bot templat
 | [Perplexity](../../science-and-research/research/perplexity.md) | Searches the web and answers questions using Perplexity AI. |
 | [Pi Web Search](pi-web-search.md) | Web search and fetch for Pi Agents using pi-web-access package. |
 | [Prior Art Analysis Assistant](../../legal/research/prior-art-analysis-assistant.md) | Streamlines prior art search, analysis, and reporting for patent agents. |
+| [Project Reconnaissance Report](project-reconnaissance-report.md) | Reads a codebase and its task records to report current behavior, dependencies, and the smallest useful validation loop before any change is… |
 | [Project Template Audit](project-skill-audit.md) | Audit project workflows and recommend capability updates or additions from session evidence. |
 | [Pubchem Database](../../science-and-research/research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Pyhealth](../../healthcare/research/pyhealth.md) | Build and deploy clinical ML models for EHR data, mortality prediction, and drug recommendation. |
 | [Qms Audit Expert](../../operations/research/qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
 | [Query Clarifier](../../science-and-research/research/query-clarifier.md) | Analyzes research queries for clarity and decides if clarification is needed before research starts. |
 | [Railway Docs](railway-docs.md) | Fetch Railway documentation to answer questions about features, usage, and pricing. |
+| [Remotion Docs Lookup](remotion-docs-lookup.md) | Finds and reads current Remotion documentation so answers cite the real API instead of memory. |
 | [Research Engineer](research-engineer.md) | Bridges theoretical computer science and high-performance implementation with absolute scientific rigor. |
 | [Research Lookup](../../science-and-research/research/research-lookup.md) | Looks up current research using Perplexity Sonar models via OpenRouter, selecting the best model based on query complexity. Returns citations. Never i |
 | [Research Technical Spike](research-technical-spike.md) | Exhaustively research and validate technical spike documents through systematic investigation. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
@@ -106,6 +108,7 @@ Find sources, compare evidence and summarise what is known. 115 Grok Bot templat
 | [Technology Trend Intelligence Assistant](../../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Technology Trends Analyst](../../executives-and-strategy/research/technology-trends-analyst.md) | Tracks and forecasts technology trends for an EVP of IT. |
 | [Threat Intelligence](threat-intelligence.md) | Enrich IOCs and profile threats from public sources with verified evidence. |
+| [Tool Evaluation Advisor](tool-evaluation-advisor.md) | Evaluates and compares business tools on evidence, cost, and fit, and returns a scored recommendation. |
 | [Tools Page Seo Optimizer](../../marketing/research/tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |
 | [Url Context Validator](url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
 | [Usability Testing Assistant](../../creatives/research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |

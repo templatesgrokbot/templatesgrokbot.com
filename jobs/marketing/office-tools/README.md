@@ -1,16 +1,20 @@
 # Office Tools templates for Marketing
 
-Spreadsheets, documents, slides, email and calendars. 6 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Spreadsheets, documents, slides, email and calendars. 10 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Document Generator](document-generator.md) | Turns your data and outlines into polished PDF, PPTX, DOCX and XLSX files with consistent branding. |
+| [Document Template Filler](../../legal/office-tools/document-template-filler.md) | Fills your document templates with data to produce personalized files in bulk. |
+| [GEO Report PDF Builder](geo-report-pdf-builder.md) | Turns a GEO audit report into a polished, print-ready PDF with a branded cover and colour-coded scores. |
 | [Impress](../../operations/office-tools/impress.md) | Create, edit, and convert presentations using LibreOffice Impress. |
 | [Nanobanana Ppt Templates](../../operations/office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
 | [Notion Ops Connector](../../operations/office-tools/notion-ops-connector.md) | Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl. |
 | [PowerPoint Presentations](../../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
 | [Pptx Deck Creation](pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
 | [Pptx Official](../../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
+| [Presentation Deck Builder](../../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

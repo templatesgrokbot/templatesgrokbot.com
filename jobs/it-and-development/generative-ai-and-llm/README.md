@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 219 Grok Bot templates, 199 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 251 Grok Bot templates, 231 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,15 +9,22 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [Advanced Evaluation](advanced-evaluation.md) | Build reliable LLM-as-judge evaluation pipelines with bias mitigation and rubric generation. |
 | [Agent Development](agent-development.md) | Guide users in creating structured Claude Code plugin agents |
 | [Agent Evaluation](agent-evaluation.md) | Designs and runs versioned tests to catch agent failures before production. |
+| [Agent Instruction Auditor](agent-instruction-auditor.md) | Audits named agent instruction files and prompts for ambiguity, conflicts, and schema gaps, reporting finding codes and locations. |
 | [Agent Memory Systems](agent-memory-systems.md) | Design layered memory architectures for persistent agent systems |
 | [Agent Messaging](agent-messaging.md) | Send and receive cryptographically signed messages between AI agents using AMP. No external dependencies needed for basic messaging. Install the AMP C |
 | [Agent Orchestrator](agent-orchestrator.md) | Automatically orchestrates ecosystem capabilities via scan, match, and multi-capability workflow. |
+| [Agent Permission Gate](agent-permission-gate.md) | Gates every unattended coding-agent tool call through layered policy checks and single-use approvals. |
+| [Agent Result Ranker](agent-result-ranker.md) | Ranks completed agent results for a session and names a winner. |
 | [Agent Tool Builder](agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
+| [Agent Tool Design Review](agent-tool-design-review.md) | Designs and audits agent tool sets so agents pick the right tool and recover from failures. |
 | [Agent Tool Schema Builder](agent-tool-builder-2.md) | Design and build tools for AI agents with clear schemas and descriptions. |
 | [Agents Autogpt](agents-autogpt.md) | Build and deploy continuous autonomous agents using a visual workflow builder. |
 | [Agents Crewai](agents-crewai.md) | Orchestrates teams of specialized AI agents to collaborate on complex tasks. |
 | [Agents Langchain](agents-langchain.md) | Build LLM applications with agents, chains, and RAG pipelines. No prototyping boilerplate. No provider lock-in. No manual memory management. Just work |
+| [AI Agent Architect](ai-agent-architect.md) | Designs AI agent architectures with tools, memory, and multi-step reasoning for your use case. |
+| [AI Agent Development Workflow](ai-agent-development-workflow.md) | Designs, builds and evaluates AI agents, multi-agent systems and orchestration workflows. |
 | [Ai Agents Architect](ai-agents-architect.md) | Designs and builds autonomous AI agents with safe tool use and memory. |
+| [AI Engine Foundations Auditor](ai-engine-foundations-auditor.md) | Audits and builds the machine-readable infrastructure that lets AI crawlers find, parse, and act on your site. |
 | [Ai Engineer](ai-engineer.md) | Designs production AI systems from classical ML to LLM apps, with RAG and agents. |
 | [Ai Engineering Toolkit](ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
 | [Ai Ml](ai-ml.md) | Guide AI/ML workflow from design to observability including LLM apps, RAG, agents, and pipelines. |
@@ -32,6 +39,8 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [Atomic Chat Connector](atomic-chat-connector.md) | Connects a chat assistant to local AI models running in the Atomic Chat desktop app via an OpenAI-compatible API. |
 | [Autonomous Agent Patterns](autonomous-agent-patterns.md) | Explain and provide code examples for autonomous coding agent design patterns. |
 | [Autonomous Agents](autonomous-agents.md) | Design constrained agents that earn autonomy through proven step-by-step reliability. |
+| [Autonomous Optimization Architect](autonomous-optimization-architect.md) | Shadow-tests AI models on your real traffic and routes to the cheapest one that still passes your quality bar. |
+| [Autoresearch Experiment Setup](autoresearch-experiment-setup.md) | Sets up a new autoresearch experiment by collecting its domain, target file, eval command, metric, direction and evaluator. |
 | [Aws Agentic Ai](aws-agentic-ai.md) | Deploy and manage AI agents at scale using AWS Bedrock AgentCore services. |
 | [Azure Ai Agents Persistent Java](azure-ai-agents-persistent-java.md) | Manage persistent AI agents with threads, messages, runs, and tools via Java SDK. |
 | [Azure Ai Contentsafety Py](azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
@@ -46,6 +55,7 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [Bdistill Behavioral Xray](bdistill-behavioral-xray.md) | Probe your own behavioral patterns across 6 dimensions and generate a visual HTML report. |
 | [Blockrun](blockrun.md) | Routes requests to external AI models when you lack capabilities like image generation or real-time X data. |
 | [Call Center AI Integrator](../../customer-support/generative-ai-and-llm/call-center-ai-integrator.md) | Integrates AI into call center systems, trains models, monitors performance, and automates workflows. |
+| [Caveman Compression Mode](caveman-compression-mode.md) | Rewrites your replies in terse caveman style, keeping every technical detail and cutting filler. |
 | [Channel Greeter](channel-greeter.md) | Greets new channels and introduces your capabilities without overwhelming them. |
 | [Channel Wiring Manager](channel-wiring-manager.md) | Wires messaging channels to agent groups and manages their isolation levels. |
 | [Chatbot Integration Designer](chatbot-integration-designer.md) | Designs, builds, and refines chatbots for websites, from conversation flows to multilingual support. |
@@ -64,6 +74,7 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [Conversation Memory](conversation-memory.md) | Store, retrieve, and consolidate user-specific memories across sessions for conversational AI. No sharing between users. No raw conversation storage. |
 | [Crewai](crewai.md) | Designs collaborative AI agent teams with CrewAI framework |
 | [Daily](daily.md) | Build real-time voice and multimodal AI agents with Pipecat. |
+| [Data Remediation Engineer](data-remediation-engineer.md) | Intercepts anomalous data rows, clusters them semantically, and generates auditable local-AI fix logic with zero data loss. |
 | [Delegating To Agents](delegating-to-agents.md) | Delegate bounded work to other AI agents with full context and progress checks. |
 | [Dial Number Adder](dial-number-adder.md) | Adds another phone number to an existing Dial channel for a NanoClaw install. |
 | [Dial Tool Installer](dial-tool-installer.md) | Grants chosen agents a real phone number for SMS and AI voice calls. |
@@ -75,6 +86,7 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [E-commerce Chatbot Developer](../../management/generative-ai-and-llm/e-commerce-chatbot-developer.md) | Builds, trains, tests, and maintains customer service chatbots for e-commerce stores. |
 | [Educational Chatbot Builder](../../education/generative-ai-and-llm/educational-chatbot-builder.md) | Builds and improves educational chatbots for eLearning platforms. |
 | [Ejentum Reasoning Harness](ejentum-reasoning-harness.md) | Cognitive harnesses for reasoning, code, anti-deception, and memory. |
+| [Email Thread Intelligence](email-thread-intelligence.md) | Turns raw email threads into clean, structured context for AI agents and automation. |
 | [Embedding Strategies](embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
 | [Emerging Techniques Knowledge Distillation](emerging-techniques-knowledge-distillation.md) | Compress large language models by distilling knowledge from a teacher to a smaller student model. |
 | [Emerging Techniques Long Context](emerging-techniques-long-context.md) | Extends transformer context windows using RoPE, YaRN, ALiBi, and position interpolation. |
@@ -104,11 +116,13 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [GrokBot Factory](grokbot-factory.md) | Builds Grok Bots from template lists, clusters lanes, and outputs a CSV catalog. |
 | [Hf Mcp](hf-mcp.md) | Search Hugging Face Hub, run GPU jobs, and use Gradio Spaces as tools. |
 | [Hugging Face Community Evals](hugging-face-community-evals.md) | Run local GPU evals of Hugging Face Hub models with inspect-ai or lighteval. |
+| [Hugging Face Hub Operator](hugging-face-hub-operator.md) | Runs Hugging Face Hub tasks for you: downloads, uploads, buckets, datasets, collections and discussions. |
 | [Hugging Face Model Trainer](hugging-face-model-trainer.md) | Train or fine-tune language and vision models on Hugging Face Jobs with TRL or Unsloth. |
 | [Hugging Face Vision Trainer](hugging-face-vision-trainer.md) | Train vision models on Hugging Face cloud GPUs and save to Hub. |
 | [Huggingface Best](huggingface-best.md) | Finds top HuggingFace models for a task by querying official leaderboards and filtering by device constraints. |
 | [Huggingface Local Models](huggingface-local-models.md) | Select and run GGUF models locally with llama.cpp on CPU, Metal, CUDA, or ROCm. |
 | [Huggingface Zerogpu](huggingface-zerogpu.md) | Build and deploy Gradio AI demos on Hugging Face ZeroGPU hardware. |
+| [Identity Graph Operator](identity-graph-operator.md) | Resolves records to canonical entities so every agent gets the same answer for who an entity is. |
 | [Inference Cost Auditor](inference-cost-auditor.md) | Audits codebases for LLM calls that are really classifications and prices a swap to a cheaper model. |
 | [Inference Serving Llama Cpp](inference-serving-llama-cpp.md) | Runs LLM inference on CPU, Apple Silicon, and non-NVIDIA GPUs using GGUF models. |
 | [Inference Serving Sglang](inference-serving-sglang.md) | Serve LLMs with structured outputs and prefix caching for 5× faster inference. |
@@ -116,6 +130,7 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [Inference Serving Vllm](inference-serving-vllm.md) | Deploys and tunes vLLM servers for high-throughput LLM inference with quantization and monitoring. |
 | [IT Automation Solutions Architect](it-automation-solutions-architect.md) | Designs and implements AI-driven IT automation solutions for consultants. |
 | [IT Support Chatbot Builder](it-support-chatbot-builder.md) | Builds and maintains AI chatbots and helpdesk workflows for IT support teams. |
+| [Judgment Step Router](judgment-step-router.md) | Routes yes/no, pick-one and risk questions about a state to a judgment model instead of generating text. |
 | [Lambda Lang](lambda-lang.md) | A compact agent-to-agent language for structured multi-agent messaging. |
 | [Langchain Architecture](langchain-architecture.md) | Build LLM apps with LangChain agents, chains, memory, and tools. |
 | [Langfuse](langfuse.md) | Instrument LLM apps with Langfuse tracing, evaluation, and prompt management. |
@@ -125,11 +140,15 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [Llm Application Dev Ai Assistant](llm-application-dev-ai-assistant.md) | Design and build production-ready AI assistants with natural language understanding. |
 | [Llm Application Dev Langchain Agent](llm-application-dev-langchain-agent.md) | Build production-grade LangChain/LangGraph agents with async patterns, RAG, and observability. |
 | [Llm Architect](llm-architect.md) | Designs production LLM systems: serving, fine-tuning, RAG, and multi-model orchestration with measurable performance and cost targets. |
+| [LLM Cost Optimizer](llm-cost-optimizer.md) | Finds where your LLM API spend goes and cuts it without hurting output quality. |
 | [Llm Council](llm-council.md) | Run a council of open-weight LLMs that deliberate and synthesize a final answer via Fireworks AI. |
 | [Llm Evaluation](llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
+| [LLM Fine-Tuning Planner](llm-fine-tuning-planner.md) | Plans and runs LLM fine-tuning jobs with QLoRA, LoRA, or full training, and reports exact results. |
+| [LLM Gateway Operations](llm-gateway-operations.md) | Routes LLM traffic through one endpoint with budgets, caching, and failover. |
 | [Llm Ops](llm-ops.md) | Designs and operates production RAG pipelines, embeddings, vector DBs, and cost-efficient LLM systems. |
 | [Llm Redteam Specialist](llm-redteam-specialist.md) | Red-team deployed LLMs for jailbreak, injection, and safety evidence. |
 | [Local Llm Expert](local-llm-expert.md) | Pick, quantize, and run open-weight LLMs on your own hardware without cloud APIs. |
+| [Local LLM Server Setup](local-llm-server-setup.md) | Sets up and maintains a Mac mini as an always-on local LLM server with remote access and monitoring. |
 | [Loop Library](loop-library.md) | Find, adapt, or design bounded AI feedback loops with explicit checks and stop rules. |
 | [Loopy](loopy.md) | Discover, craft, audit, and publish bounded AI-agent loops from engineering work. |
 | [LoRA QLoRA Configurator](lora-qlora-configurator.md) | Configures LoRA/QLoRA supervised fine-tuning with validated hyperparameters. |
@@ -137,6 +156,7 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [Mcp Builder Ms](mcp-builder-ms.md) | Build MCP servers that integrate external APIs or services for LLMs. |
 | [Mcp Developer](mcp-developer.md) | Build, debug, and publish MCP servers and tools for AI agent integration. |
 | [Mcp Integration Engineer](mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
+| [MCP Server Scout](mcp-server-scout.md) | Finds and recommends MCP servers for a task, then helps you connect the ones you approve. |
 | [Mcp Testing Engineer](mcp-testing-engineer.md) | Test MCP servers for protocol compliance, security, and performance. |
 | [MemU Memory Installer](memu-memory-installer.md) | Installs or removes memU memory integration for your AI agent. |
 | [Mercury Mcp](mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
@@ -148,8 +168,14 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [Model Architecture Nanogpt](../../education/generative-ai-and-llm/model-architecture-nanogpt.md) | Trains and samples from a minimalist GPT implementation for learning transformer architecture. |
 | [Model Architecture Rwkv](../../science-and-research/generative-ai-and-llm/model-architecture-rwkv.md) | Explains RWKV architecture and helps you run it for long-context tasks. |
 | [Model Evaluator](model-evaluator.md) | Benchmarks AI models to pick the best for your task, budget, and latency needs. |
+| [Model Registry Governance](model-registry-governance.md) | Keeps a governed model registry with metadata standards, approval gates, and lifecycle rules. |
 | [Multi Agent Architect](multi-agent-architect.md) | Design and debug production multi-agent systems with LangGraph, LangChain, and DeepAgents. |
 | [Multi Agent Patterns](multi-agent-patterns.md) | Design multi-agent systems with supervisor, swarm, or hierarchical patterns for context isolation. |
+| [Multi-Agent Competition Runner](multi-agent-competition-runner.md) | Runs a multi-agent competition end to end and merges the winner after your approval. |
+| [Multi-Agent System Designer](multi-agent-system-designer.md) | Designs multi-agent architectures, generates validated tool schemas, and audits agent run logs for bottlenecks. |
+| [Multi-Agent Workflow Author](multi-agent-workflow-author.md) | Turns a repeatable multi-step task into a validated multi-agent workflow script you can run and resume. |
+| [Multi-Agent Workflow Designer](multi-agent-workflow-designer.md) | Designs multi-agent workflows with clear patterns, handoff contracts, and failure handling. |
+| [Multi-Tenant LLM Hosting](multi-tenant-llm-hosting.md) | Designs and reviews multi-tenant LLM hosting platforms with isolation, quotas, billing and noisy-neighbor controls. |
 | [Multimodal Blip 2](../../science-and-research/generative-ai-and-llm/multimodal-blip-2.md) | Generates captions, answers visual questions, and retrieves image-text matches using BLIP-2. |
 | [Multimodal Clip](multimodal-clip.md) | Classify images and match text to images without training data. |
 | [Multimodal Llava](../../science-and-research/generative-ai-and-llm/multimodal-llava.md) | Analyze images through conversational question answering and description. Requires a GPU with at least 14 GB VRAM for the 7B model. You will load a LL |
@@ -170,6 +196,7 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [Optimization Gptq](optimization-gptq.md) | Quantize large language models to 4-bit with minimal accuracy loss for deployment on consumer GPUs. |
 | [Optimization Hqq](optimization-hqq.md) | Quantize LLMs to 4/3/2-bit without calibration data, fast and memory-efficient. |
 | [Orchestrate](orchestrate.md) | Coordinate focused subagents on substantial work and integrate their verified results. |
+| [Parallel Attempt Coordinator](parallel-attempt-coordinator.md) | Runs several independent attempts at one task in parallel and hands back the best one. |
 | [Pi Custom Model](pi-custom-model.md) | Register custom Pi Agent model slugs so saved OpenRouter variants resolve correctly. |
 | [Plugin Quality Interpreter](plugin-quality-interpreter.md) | Scores plugin quality across ten dimensions and explains how to improve it. |
 | [Polis Protocol](polis-protocol.md) | Coordinate multi-vendor AI agents as a self-improving team with learning routing and amendable rules. |
@@ -185,11 +212,14 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [Project Development](project-development.md) | Evaluate task-model fit, design pipeline architectures, and iterate with LLM agents. |
 | [Prompt Caching](prompt-caching.md) | Analyzes LLM prompts and responses to recommend caching strategies that reduce costs and latency. |
 | [Prompt Engineering Outlines](prompt-engineering-outlines.md) | Guarantee valid JSON, XML, or code structure from local LLMs using Outlines. |
+| [Prompt Governance](prompt-governance.md) | Version, evaluate and safely promote production prompts with a registry, golden datasets and rollback. |
 | [Pufferlib](pufferlib.md) | Trains RL agents and builds custom environments with high-performance parallel simulation. |
 | [Pydantic Ai](pydantic-ai.md) | Build type-safe Python AI agents with validated outputs and tool use. |
 | [Quantized Export](quantized-export.md) | Export promoted checkpoints into the right deployment format and prove they still work. |
 | [Rag Engineer](rag-engineer.md) | Design and optimize RAG pipelines for accurate document retrieval and generation. |
 | [Rag Implementation](rag-implementation.md) | Designs and optimizes RAG pipelines for document retrieval and generation. |
+| [RAG Infrastructure Builder](rag-infrastructure-builder.md) | Builds and runs a retrieval-augmented generation stack over your documents, from ingestion to grounded answers. |
+| [RAG Quality Evaluator](rag-quality-evaluator.md) | Measures retrieval and answer quality for a RAG system and reports regressions with sources. |
 | [Recallmax](recallmax.md) | Injects 500K-1M clean tokens and compresses 14-turn history into 800 tokens. |
 | [SaaS Replacement Planner](saas-replacement-planner.md) | Analyzes your SaaS stack and builds a cost-saving replacement plan with AI agents. |
 | [Safety Alignment Constitutional Ai](../../science-and-research/generative-ai-and-llm/safety-alignment-constitutional-ai.md) | Trains language models to be harmless via self-critique and AI feedback, without human labels. |
@@ -222,8 +252,10 @@ Work with language models, agents and their plumbing. 219 Grok Bot templates, 19
 | [Vision-Language SFT Adapter](vision-language-sft-adapter.md) | Designs and validates adapter configs for supervised fine-tuning of vision-language models. |
 | [Voice Agents](voice-agents.md) | Design voice agent architectures with sub-800ms latency for natural conversation. |
 | [Voice Ai Development](voice-ai-development.md) | Design and build production-ready real-time voice AI pipelines with low-latency streaming. |
+| [Weather Model Run Resolver](weather-model-run-resolver.md) | Finds the newest complete weather model run and its exact objects before any download. |
 | [Weaviate Cookbooks](weaviate-cookbooks.md) | Scaffold Weaviate AI apps from official cookbook blueprints for RAG, agentic RAG, data exploration, and more. |
 | [WeChat Channel Setup](wechat-channel-setup.md) | Connects your personal WeChat account to your agent via official Tencent API, no webhooks or paid tokens. |
 | [WhatsApp Channel Setup](whatsapp-channel-setup.md) | Adds a WhatsApp channel to your assistant via QR or pairing code. |
+| [Winning Branch Merge](winning-branch-merge.md) | Merges the winning agent branch into base, archives the rest as tags, and cleans up worktrees. |
 
 [← All IT and Development templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/it-and-development)

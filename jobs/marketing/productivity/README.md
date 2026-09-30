@@ -1,6 +1,6 @@
 # Productivity templates for Marketing
 
-Plan, prioritise and clear the recurring admin. 12 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 14 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,9 +14,11 @@ Plan, prioritise and clear the recurring admin. 12 Grok Bot templates, 2 of them
 | [Onboarding Cro](../../product-development/productivity/onboarding-cro.md) | Audits and optimizes user onboarding to reduce time-to-value and increase activation rates. |
 | [Postmark Automation](postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |
 | [Power User Cultivation](../../product-development/productivity/power-user-cultivation.md) | Identify engaged developers and turn them into advocates and contributors. |
+| [Prioritization Framework Advisor](../../product-development/productivity/prioritization-framework-advisor.md) | Picks the right prioritization framework and scores your options with it. |
 | [Raffle Winner Picker](raffle-winner-picker.md) | Picks random winners from lists, spreadsheets, or Google Sheets for giveaways and contests. |
 | [Revops](../../operations/productivity/revops.md) | Design and optimize revenue operations, lead lifecycle, scoring, routing, and CRM automation. |
 | [Slack Automation](../../operations/productivity/slack-automation.md) | Sends Slack messages, searches conversations, and manages channels with user approval. |
 | [Telegram Automation](../../operations/productivity/telegram-automation.md) | Automate Telegram messaging, chat management, and bot commands via MCP tools. |
+| [WooCommerce Store Operations](../../operations/productivity/woocommerce-store-operations.md) | Runs your WooCommerce store's orders, stock, customers and campaigns, and reports the numbers. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

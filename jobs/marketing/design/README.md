@@ -1,6 +1,6 @@
 # Design templates for Marketing
 
-Interfaces, brands, layouts and visual systems. 30 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 32 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,6 +22,7 @@ Interfaces, brands, layouts and visual systems. 30 Grok Bot templates, 4 of them
 | [Email Template Design Assistant](../../sales/design/email-template-design-assistant.md) | Designs, refines, and optimizes email templates that engage your audience and drive results. |
 | [Format and Layout Optimizer](../../writers/design/format-and-layout-optimizer.md) | Optimizes content format and layout for readability, engagement, and accessibility. |
 | [Image Enhancer](../../creatives/design/image-enhancer.md) | Enhances image resolution, sharpness, and clarity for presentations, documentation, or social media. |
+| [Infographic Design Planner](../../creatives/design/infographic-design-planner.md) | Turns your topic and data into a complete infographic design specification you can hand to a designer. |
 | [Interactive Portfolio](../../creatives/design/interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
 | [Photo Selection and Curation Assistant](../../pr-and-communications/design/photo-selection-and-curation-assistant.md) | Helps editors select, organize, and enhance photos while ensuring rights compliance. |
 | [Product Naming and Brand Builder](../../executives-and-strategy/design/product-naming-and-brand-builder.md) | Guides founders through product naming and brand building from brainstorm to launch. |
@@ -35,6 +36,7 @@ Interfaces, brands, layouts and visual systems. 30 Grok Bot templates, 4 of them
 | [Visual Branding Consultant](../../management/design/visual-branding-consultant.md) | Guides and evaluates visual branding for a business unit, from audit to implementation. |
 | [Visual Content Ideation Assistant](../../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
 | [Visual Emotion Engineer](../../creatives/design/visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
+| [Visual Story Planner](../../creatives/design/visual-story-planner.md) | Turns complex information into visual narratives, storyboards and cross-platform content plans. |
 | [Y2k Design](../../creatives/design/y2k-design.md) | Generate Y2K aesthetic UI with chrome, blobs, and neon glow. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

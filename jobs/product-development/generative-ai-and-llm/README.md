@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for Product Development
 
-Work with language models, agents and their plumbing. 72 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 74 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -42,6 +42,7 @@ Work with language models, agents and their plumbing. 72 Grok Bot templates, 2 o
 | [Hugging Face Community Evals](../../it-and-development/generative-ai-and-llm/hugging-face-community-evals.md) | Run local GPU evals of Hugging Face Hub models with inspect-ai or lighteval. |
 | [Huggingface Zerogpu](../../it-and-development/generative-ai-and-llm/huggingface-zerogpu.md) | Build and deploy Gradio AI demos on Hugging Face ZeroGPU hardware. |
 | [Inference Serving Tensorrt Llm](../../it-and-development/generative-ai-and-llm/inference-serving-tensorrt-llm.md) | Optimizes LLM inference on NVIDIA GPUs for maximum throughput and lowest latency. |
+| [Intent Interviewer](intent-interviewer.md) | Interviews you one question at a time until your real intent is clear and confirmed. |
 | [Langchain Architecture](../../it-and-development/generative-ai-and-llm/langchain-architecture.md) | Build LLM apps with LangChain agents, chains, memory, and tools. |
 | [Langfuse](../../it-and-development/generative-ai-and-llm/langfuse.md) | Instrument LLM apps with Langfuse tracing, evaluation, and prompt management. |
 | [Langgraph](../../it-and-development/generative-ai-and-llm/langgraph.md) | Design stateful, multi-actor AI agents with LangGraph graphs, state, and persistence. |
@@ -66,6 +67,7 @@ Work with language models, agents and their plumbing. 72 Grok Bot templates, 2 o
 | [N8n Agents](../../it-and-development/generative-ai-and-llm/n8n-agents.md) | Design n8n AI agents, chains, classifiers, extractors, and structured-output flows. |
 | [Neon Ai Gateway](../../it-and-development/generative-ai-and-llm/neon-ai-gateway.md) | One Neon credential for frontier and open-source LLMs via branch-scoped gateway. |
 | [Odw](../../it-and-development/generative-ai-and-llm/odw.md) | Plan-first multi-agent workflows with parallel agents and adversarial verification via local daemon. |
+| [Product Work Router](product-work-router.md) | Routes product requests to the right procedure and hands back a finished artifact. |
 | [Project Development](../../it-and-development/generative-ai-and-llm/project-development.md) | Evaluate task-model fit, design pipeline architectures, and iterate with LLM agents. |
 | [Pydantic Ai](../../it-and-development/generative-ai-and-llm/pydantic-ai.md) | Build type-safe Python AI agents with validated outputs and tool use. |
 | [Safety Alignment Llamaguard](../../it-and-development/generative-ai-and-llm/safety-alignment-llamaguard.md) | Moderate LLM inputs and outputs against 6 safety categories with 94-95% accuracy. |

@@ -1,12 +1,13 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 455 Grok Bot templates, 440 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 534 Grok Bot templates, 519 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Accessibility Auditor](accessibility-auditor.md) | Audits websites for WCAG compliance and fixes accessibility issues. |
+| [Advanced Engineering Design Review](advanced-engineering-design-review.md) | Designs, reviews and hardens engineering systems, then hands back plans, audits and runbooks for approval. |
 | [Advanced Routing Configuration Assistant](advanced-routing-configuration-assistant.md) | Optimizes advanced routing configurations for network administrators. |
 | [Advanced Routing Protocol Assistant](advanced-routing-protocol-assistant.md) | Guides network engineers through advanced routing protocol configuration, troubleshooting, and optimization. |
 | [Agent Management](agent-management.md) | Manage AI agent lifecycle through the AI Maestro CLI. |
@@ -16,6 +17,7 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Agenttrace Session Audit](agenttrace-session-audit.md) | Audit local AI coding-agent sessions for cost, failures, latency, and health. |
 | [AI and ML Integration Advisor](../../executives-and-strategy/cloud-and-devops/ai-and-ml-integration-advisor.md) | Guides AI and ML integration across data, models, deployment, and monitoring for IT leadership. |
 | [AI Automation Implementation Advisor](ai-automation-implementation-advisor.md) | Guides AI and automation initiatives from assessment to maintenance for IT leaders. |
+| [AI Incident Responder](ai-incident-responder.md) | Runs AI incident response for LLM outages, quality drops, safety spikes and cost blowouts. |
 | [AI Integration Strategist](../../executives-and-strategy/cloud-and-devops/ai-integration-strategist.md) | Guides CIOs through AI and ML integration projects from data prep to deployment and monitoring. |
 | [AI ML Project Advisor](ai-ml-project-advisor.md) | Guides IT directors through the full AI and machine learning project lifecycle, from data prep to deployment and monitoring. |
 | [Algolia Search](algolia-search.md) | Implementation patterns, indexing strategies, and relevance tuning for Algolia search. |
@@ -28,11 +30,14 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Api Onboarding](api-onboarding.md) | Optimize developer onboarding to reduce time-to-first-API-call under 5 minutes. |
 | [Apify Actorization](apify-actorization.md) | Convert existing software into reusable serverless Apify Actors with Docker packaging and JSON I/O. No platform migration or tool installation advice. |
 | [App Deploy Agent](appdeploy.md) | Deploy web apps with backend APIs, database, and file storage to a public URL. |
+| [App Store Release Tracker](app-store-release-tracker.md) | Plans, verifies and tracks iOS and Android store releases through EAS without repeating finished steps. |
 | [Appium](appium-skill.md) | Generates production-grade Appium mobile automation scripts for Android and iOS. |
 | [Apple Container](apple-container.md) | Build, run, and manage OCI/Linux containers as lightweight VMs on Apple-silicon macOS. |
 | [Applicationinsights Web Ts](applicationinsights-web-ts.md) | Instrument browser apps with Application Insights JavaScript SDK for RUM |
 | [Arch](arch.md) | Creates comprehensive architecture diagrams and documentation for cloud-native systems. |
 | [Architecture Modernizer](architecture-modernizer.md) | Modernize legacy software architectures into scalable, maintainable systems. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Architecture Scaling Review](architecture-scaling-review.md) | Pressure-tests architecture and scaling plans with six CTO questions before you commit. |
+| [Atlassian Administration Console](atlassian-administration-console.md) | Runs Atlassian admin tasks — users, groups, permissions, SSO, apps — with a draft for your approval. |
 | [Aws Cdk Development](aws-cdk-development.md) | Build AWS infrastructure with CDK using TypeScript/Python, verified against live AWS docs. |
 | [Aws Cost Cleanup](aws-cost-cleanup.md) | Identify and remove unused AWS resources to reduce cloud costs. |
 | [Aws Cost Optimizer](aws-cost-optimizer.md) | Analyze AWS spending and recommend cost savings using CLI and Cost Explorer. |
@@ -42,6 +47,7 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Aws Serverless](aws-serverless.md) | Builds and deploys production-ready serverless applications on AWS using Lambda, API Gateway, DynamoDB, and SAM/CDK. |
 | [Aws Serverless Eda](aws-serverless-eda.md) | AWS serverless architecture guidance using Well-Architected Framework principles. |
 | [Aws Sst Development](aws-sst-development.md) | SST v4 (Ion) expert for managing AWS resources as code with the Pulumi-backed framework. |
+| [AWS VPC Network Builder](aws-vpc-network-builder.md) | Designs and builds AWS VPC networks with isolated subnet tiers, routing, and security groups. |
 | [Azd Deployment](azd-deployment.md) | Deploy containerized apps to Azure Container Apps with azd, Bicep, and managed identity. |
 | [Azure Ai Ml Py](azure-ai-ml-py.md) | Manage Azure ML workspaces, jobs, models, data, compute, and pipelines via SDK v2. |
 | [Azure Ai Projects Java](azure-ai-projects-java.md) | Manage Azure AI Foundry projects via Java SDK for connections, datasets, indexes, and evaluations. |
@@ -49,8 +55,10 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Azure Appconfiguration Java](azure-appconfiguration-java.md) | Centralized config management with key-values, feature flags, and snapshots. |
 | [Azure Appconfiguration Py](azure-appconfiguration-py.md) | Manage Azure App Config settings, feature flags, and snapshots via Python SDK. |
 | [Azure Appconfiguration Ts](azure-appconfiguration-ts.md) | Manage Azure App Configuration settings, feature flags, and snapshots with dynamic refresh. |
+| [Azure Audit Logging](azure-audit-logging.md) | Sets up and audits Azure Monitor, Activity Log and Log Analytics coverage for compliance and incident review. |
 | [Azure Communication Sms Java](azure-communication-sms-java.md) | Send SMS via Azure Communication Services with delivery reports and error handling. |
 | [Azure Compute Batch Java](azure-compute-batch-java.md) | Run HPC and parallel batch jobs on Azure with Java SDK |
+| [Azure Compute Manager](azure-compute-manager.md) | Plans and manages Azure virtual machines, scale sets, disks and images from chat. |
 | [Azure Containerregistry Py](azure-containerregistry-py.md) | Manage Azure container registries: list, inspect, delete repos, tags, manifests. |
 | [Azure Cosmos Ts](azure-cosmos-ts.md) | Perform CRUD, query, and bulk operations on Azure Cosmos DB documents. |
 | [Azure Eventhub Py](azure-eventhub-py.md) | Stream events into and out of Azure Event Hubs with Python, batching, and checkpointing. |
@@ -60,10 +68,13 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Azure Identity Rust](azure-identity-rust.md) | Authenticate Azure SDK clients using Microsoft Entra ID credentials. |
 | [Azure Identity Ts](azure-identity-ts.md) | Authenticate to Azure services using managed identity, service principals, or interactive flows. |
 | [Azure Infra Engineer](azure-infra-engineer.md) | Designs, deploys, and automates Azure infrastructure with Bicep, PowerShell, and Entra ID. |
+| [Azure Key Vault Manager](azure-key-vault-manager.md) | Manages Azure Key Vault secrets, keys, and certificates with RBAC and rotation policies. |
 | [Azure Keyvault Certificates Rust](azure-keyvault-certificates-rust.md) | Manage Azure Key Vault certificates with Rust SDK: create, import, get, update, delete, and list certificates. |
 | [Azure Keyvault Py](azure-keyvault-py.md) | Manage Azure Key Vault secrets, keys, and certificates via Python SDK. |
 | [Azure Keyvault Secrets Ts](azure-keyvault-secrets-ts.md) | Manage Azure Key Vault secrets and keys with SDK operations. |
+| [Azure Kubernetes Service Operator](azure-kubernetes-service-operator.md) | Plans, provisions and maintains Azure Kubernetes Service clusters and their node pools. |
 | [Azure Logic Apps Expert](azure-logic-apps-expert.md) | Guides development of Azure Logic Apps workflows using Workflow Definition Language. |
+| [Azure Managed Database Provisioner](azure-managed-database-provisioner.md) | Provisions and hardens Azure SQL Database, Elastic Pools, and Cosmos DB, with backups, geo-replication, and security. |
 | [Azure Maps Search Dotnet](azure-maps-search-dotnet.md) | Azure Maps SDK for .NET providing geocoding, routing, rendering, geolocation, and weather data. |
 | [Azure Mgmt Apicenter Py](azure-mgmt-apicenter-py.md) | Manage Azure API Center inventory, metadata, and governance via Python SDK. |
 | [Azure Mgmt Apimanagement Dotnet](azure-mgmt-apimanagement-dotnet.md) | Provision and manage Azure API Management resources via .NET SDK |
@@ -80,6 +91,7 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Azure Monitor Opentelemetry Py](azure-monitor-opentelemetry-py.md) | One-line Application Insights setup with OpenTelemetry auto-instrumentation for Python apps. |
 | [Azure Monitor Opentelemetry Ts](azure-monitor-opentelemetry-ts.md) | Auto-instrument Node.js apps with distributed tracing, metrics, and logs to Azure Monitor. |
 | [Azure Monitor Query Py](azure-monitor-query-py.md) | Query Azure Monitor logs and metrics using Python SDK. |
+| [Azure Network Architect](azure-network-architect.md) | Designs and reviews Azure VNets, NSGs, peering, private endpoints and firewall rules before anything is applied. |
 | [Azure Principal Architect](azure-principal-architect.md) | Provide Azure architecture guidance using Well-Architected Framework principles and Microsoft best practices. |
 | [Azure Resource Manager Cosmosdb Dotnet](azure-resource-manager-cosmosdb-dotnet.md) | Provision and manage Azure Cosmos DB resources via ARM SDK. |
 | [Azure Resource Manager Durabletask Dotnet](azure-resource-manager-durabletask-dotnet.md) | Provision and manage Azure Durable Task Scheduler resources via .NET SDK. |
@@ -96,19 +108,24 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Azure Storage File Share Py](azure-storage-file-share-py.md) | Manage Azure SMB file shares, directories, and files with Python SDK. |
 | [Azure Verified Modules Bicep](azure-verified-modules-bicep.md) | Create, update, or review Azure Bicep infrastructure using Azure Verified Modules. |
 | [Azure Verified Modules Terraform](azure-verified-modules-terraform.md) | Create, update, or review Azure infrastructure as code in Terraform using Azure Verified Modules. |
+| [Backup Recovery Planner](backup-recovery-planner.md) | Designs, schedules, and verifies backup and recovery plans for your data. |
 | [Bandwidth Management Assistant](bandwidth-management-assistant.md) | Analyzes network traffic and manages bandwidth for network administrators. |
 | [Bicep Implement](bicep-implement.md) | Creates Azure Bicep templates from user requirements. |
 | [Bicep Plan](bicep-plan.md) | Creates a machine-readable implementation plan for Azure Bicep IaC tasks. |
 | [Bitbucket Automation](bitbucket-automation.md) | Automate Bitbucket repos, PRs, branches, issues, and workspace management via MCP tools. |
+| [Block Storage Operations](block-storage-operations.md) | Plans and tracks block storage work: partitioning, LVM, EBS volumes, snapshots and RAID, with every change approved first. |
 | [C4 Architecture](c4-architecture.md) | Generate C4 model architecture diagrams as Mermaid markdown from codebase exploration. |
 | [C4 Container](c4-container.md) | Expert C4 Container-level documentation specialist for system deployment. |
 | [Cdk Patterns](cdk-patterns.md) | Build reusable AWS CDK constructs and production-grade infrastructure stacks with TypeScript, Python, or Java. No raw CloudFormation, Terraform, or on |
+| [CDN Delivery Setup](cdn-delivery-setup.md) | Sets up and tunes CDN caching, invalidation and security for your sites, with approval before anything goes live. |
+| [Change Management Coordinator](change-management-coordinator.md) | Runs your change management process: classifies changes, prepares CAB reviews, and tracks rollbacks. |
 | [Chaos Engineer](chaos-engineer.md) | Designs and runs controlled failure experiments to validate system resilience before incidents occur. |
 | [Ci Cd And Automation](ci-cd-and-automation.md) | Automates CI/CD pipeline setup with quality gates and deployment strategies. |
 | [CI Pipeline Assistant](ci-pipeline-assistant.md) | Guides QA testers through continuous integration tasks from test generation to deployment. |
 | [CI/CD Pipeline Assistant](ci-cd-pipeline-assistant.md) | Streamlines CI/CD pipelines with automation, monitoring, and deployment guidance. |
 | [Cicd Automation Workflow Automate](cicd-automation-workflow-automate.md) | Design CI/CD pipelines and GitHub Actions workflows to automate development and deployment. |
 | [Circleci Automation](circleci-automation.md) | Trigger and monitor CircleCI pipelines, workflows, jobs, artifacts, and test results via Rube MCP. |
+| [CircleCI Pipeline Builder](circleci-pipeline-builder.md) | Drafts and reviews CircleCI config.yml pipelines for build, test, and deploy workflows. |
 | [Claimable Postgres](claimable-postgres.md) | Provision instant temporary Postgres databases with no signup or credit card. |
 | [Claude In Chrome Troubleshooting](claude-in-chrome-troubleshooting.md) | Diagnose and fix Claude in Chrome MCP extension connectivity issues on macOS. |
 | [Claude Monitor](claude-monitor.md) | Diagnose slowness in Claude Code and the local system with CPU, RAM, disk, and network. |
@@ -129,25 +146,31 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Cloud Security Planning Assistant](cloud-security-planning-assistant.md) | Cloud security planning and response assistant for systems administrators. |
 | [Cloud Services Integration Guide](cloud-services-integration-guide.md) | Guides software developers through integrating cloud services into their applications. |
 | [Cloud Services Utilization Assistant](cloud-services-utilization-assistant.md) | Guides cloud service selection, setup, monitoring, cost, security, and integration for software engineers. |
+| [Cloud Simulator Runner](cloud-simulator-runner.md) | Runs your app on a cloud iOS simulator or Android emulator and drives it to verify changes. |
 | [Cloud Sql Basics](cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Cloud Strategy Advisor](cloud-strategy-advisor.md) | Guides IT directors through cloud strategy, from provider evaluation to governance and optimization. |
 | [Cloud Strategy Formulation Assistant](cloud-strategy-formulation-assistant.md) | Formulates and manages your organization's cloud strategy from readiness to governance. |
 | [Cloud Strategy Planner](cloud-strategy-planner.md) | Plans and governs your cloud strategy from provider choice to migration, cost, security, and operations. |
 | [Cloudflare Deploy](cloudflare-deploy.md) | Deploys apps and infrastructure to Cloudflare Workers, Pages, and related services. |
+| [Cloudflare R2 Storage Manager](cloudflare-r2-storage-manager.md) | Manages Cloudflare R2 buckets, objects, lifecycle rules, CORS, and signed URLs for low-egress storage. |
 | [Cloudformation Best Practices](cloudformation-best-practices.md) | Optimize and review CloudFormation templates for production-grade infrastructure. |
+| [CloudFormation Stack Deployer](cloudformation-stack-deployer.md) | Deploys and updates AWS CloudFormation stacks safely with change sets and drift detection. |
 | [Codebase Migration Planner](codebase-migration-planner.md) | Creates a file-by-file migration plan for an entire codebase. |
 | [Codex Profiles](codex-profiles.md) | Manage isolated Codex CLI and Desktop profiles for separate accounts and projects. |
 | [Cohesivity](cohesivity.md) | Provision databases, hosting, auth, and APIs for AI agents via one HTTP API. |
 | [Conductor Setup](conductor-setup.md) | Configure Rails projects for Conductor parallel coding agents with isolated ports and Redis. |
+| [Container Registry Operations](container-registry-operations.md) | Manages container images across ECR, ACR, GCR, GHCR, Docker Hub and self-hosted registries. |
 | [Container Session Troubleshooter](container-session-troubleshooter.md) | Diagnose containerized agent failures by tracing logs and session databases. |
 | [Continuous Integration Systems Assistant](continuous-integration-systems-assistant.md) | Guides CI pipeline setup and automation for software developers, from builds to deployment and monitoring. |
 | [Cost Optimization](cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
+| [Cross-Browser Test Runner](cross-browser-test-runner.md) | Runs your Playwright tests across browsers and devices on BrowserStack and reports the results. |
 | [Cto Advisor](cto-advisor.md) | Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy. |
 | [Data Backup Strategy Planner](data-backup-strategy-planner.md) | Designs, audits, and maintains your organization's data backup strategy end to end. |
 | [Data Center Network Assistant](data-center-network-assistant.md) | Guides data center network design, configuration, security, and optimization for network engineers. |
 | [Data Center Operations Assistant](data-center-operations-assistant.md) | Optimizes data center operations through monitoring, planning, and incident guidance. |
 | [Data Center Power Optimizer](data-center-power-optimizer.md) | Optimizes data center power usage, forecasting, and compliance for systems administrators. |
 | [Data Integration and Architecture Planner](../../executives-and-strategy/cloud-and-devops/data-integration-and-architecture-planner.md) | Plans and documents data integration, architecture, and governance for a Chief Digital Officer. No execution without approval. |
+| [Data Observability Router](data-observability-router.md) | Routes ambiguous data-quality requests to the right investigation or monitoring workflow. |
 | [Data Recovery Planning Assistant](data-recovery-planning-assistant.md) | Guides IT support through data recovery planning, tools, troubleshooting, and policy. |
 | [Data Recovery Strategy Assistant](data-recovery-strategy-assistant.md) | Assess, plan, test, and improve your data recovery strategy end to end. |
 | [Database](database.md) | Adds Railway database services (Postgres, Redis, MySQL, MongoDB) and provides connection variable references. |
@@ -164,6 +187,7 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Database Transaction Manager](database-transaction-manager.md) | Assists database administrators in managing, monitoring, and optimizing database transactions. |
 | [Datadog Automation](datadog-automation.md) | Automate Datadog monitoring, metrics, logs, monitors, dashboards, events, and downtimes via Rube MCP. |
 | [Datadog Cli](datadog-cli.md) | Searches Datadog logs and metrics to debug production issues and manage dashboards. |
+| [Datadog Observability Setup](datadog-observability-setup.md) | Sets up Datadog monitoring, tracing, dashboards and alerts for your infrastructure and apps. |
 | [Dbt Transformation Patterns](dbt-transformation-patterns.md) | Organize dbt models into staging, intermediate, and marts with tests, docs, and incremental builds. |
 | [DC Log Analyzer for Admins](dc-log-analyzer-for-admins.md) | Data center insights and operational guidance for network administrators. Analyzes logs, plans capacity, and drafts documentation. |
 | [Debug Buttercup](debug-buttercup.md) | Debug failures in the crs Kubernetes namespace by triaging pods, Redis, and cascading issues. |
@@ -193,9 +217,16 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Distributed Tracing](distributed-tracing.md) | Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices. |
 | [Distributed Training Deepspeed](distributed-training-deepspeed.md) | Guides users through configuring and optimizing DeepSpeed for distributed training. |
 | [Dnanexus Integration](dnanexus-integration.md) | Manage DNAnexus cloud genomics platform: build apps, run workflows, upload/download data, and automate pipelines with dxpy. |
+| [DNS Zone Manager](dns-zone-manager.md) | Configures and audits DNS zones, records, and email security across Route53, Cloudflare, and self-hosted DNS. |
+| [Docker Compose Stack Builder](docker-compose-stack-builder.md) | Writes and reviews Docker Compose stacks for multi-container apps and explains what each change does. |
 | [Docker Expert](docker-expert.md) | Analyzes Dockerfiles, hardens containers, and fixes orchestration issues for production. |
 | [Domain](domain.md) | Manage custom and Railway-provided domains for your Railway services. |
+| [eBPF Observability Engineer](ebpf-observability-engineer.md) | Traces kernel, syscall, and network activity with eBPF and reports what it finds. |
+| [EC2 Compute Manager](ec2-compute-manager.md) | Deploys and manages AWS EC2 instances, AMIs, and auto-scaling groups from chat. |
+| [ECS Fargate Deployer](ecs-fargate-deployer.md) | Deploys and operates containerized apps on AWS ECS and Fargate, from image push to autoscaling. |
+| [ELK Log Platform](elk-log-platform.md) | Deploys and maintains an ELK log pipeline, then reports errors and cluster health from it. |
 | [Email Systems](email-systems.md) | Design, debug, and optimize email deliverability and infrastructure. |
+| [Engineering Delivery Advisor](engineering-delivery-advisor.md) | Diagnoses engineering delivery throughput, hiring funnel leakage, team structure, and production discipline for startups. |
 | [Engineering Runbook](engineering-runbook.md) | One-page runbook for on-call engineers: alerts, dashboards, procedures, and incidents. No more digging through wikis during an outage. |
 | [Environment](environment.md) | Query, stage, and apply Railway environment configuration changes. |
 | [Error Coordinator](error-coordinator.md) | Coordinates error handling across distributed systems to prevent cascading failures and automate recovery. |
@@ -204,10 +235,15 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Examiner](examiner.md) | Logs system changes to reconstruct events when issues arise. |
 | [Expo Cicd Workflows](expo-cicd-workflows.md) | Generate and validate EAS CI/CD workflow YAML files for Expo projects. |
 | [Expo Dev Client](expo-dev-client.md) | Build Expo development clients for testing native code on devices. |
+| [Expo Web Hosting Deployer](expo-web-hosting-deployer.md) | Deploys your Expo web app and API routes to EAS Hosting and keeps the deploy honest. |
+| [Feature Flags Architect](feature-flags-architect.md) | Classifies, ships, ramps, and retires feature flags so they don't become permanent debt. |
 | [File Uploads](file-uploads.md) | Handle file uploads and cloud storage with presigned URLs, size limits, and magic-byte validation. |
 | [Firebase Basics](firebase-basics.md) | Sets up Firebase projects and configures CLI for mobile or web app development. |
 | [Framework Migration Deps Upgrade](framework-migration-deps-upgrade.md) | Safe, incremental dependency upgrades with rollback plans. |
+| [GCP Audit Log Setup](gcp-audit-log-setup.md) | Sets up GCP Cloud Audit Logs, routes them to BigQuery, Storage and Pub/Sub, and reports on activity. |
 | [Gcp Cloud Run](gcp-cloud-run.md) | Guides building and optimizing serverless apps on GCP Cloud Run and Functions. |
+| [GCP Compute Engine Manager](gcp-compute-engine-manager.md) | Provisions and manages Google Compute Engine VMs, templates, and managed instance groups. |
+| [GCP Network Architect](gcp-network-architect.md) | Designs and reviews GCP VPC networks, firewall rules, NAT, load balancers and private connectivity. |
 | [Geminiignore Finops](geminiignore-finops.md) | Build and maintain .geminiignore files to cut AI token costs and focus context on human-written code. |
 | [Gh Fix Ci](gh-fix-ci.md) | Inspect failing GitHub Actions checks, summarize logs, and fix after approval. |
 | [Gh Review Requests](gh-review-requests.md) | Fetch unread GitHub review requests for a specified team. |
@@ -228,6 +264,7 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Google Cloud Onboarding](google-cloud-onboarding.md) | Guides a developer through first-time Google Cloud setup and first resource deployment. |
 | [Google Cloud Waf Cost Optimization](google-cloud-waf-cost-optimization.md) | Evaluates Google Cloud workloads and generates cost optimization recommendations based on the Well-Architected Framework. |
 | [Google Cloud Waf Reliability](google-cloud-waf-reliability.md) | Evaluates Google Cloud workloads for reliability using the Well-Architected Framework. |
+| [GPU Kubernetes Operations](gpu-kubernetes-operations.md) | Keeps GPU Kubernetes clusters healthy, well-scheduled and cost-efficient for AI workloads. |
 | [Grafana Dashboards](grafana-dashboards.md) | Designs and manages production-ready Grafana dashboards for system observability. |
 | [Hardware Upgrade Advisor](hardware-upgrade-advisor.md) | Guides IT managers through hardware upgrade decisions from research to rollout. |
 | [Helm Chart Scaffolding](helm-chart-scaffolding.md) | Scaffolds Helm charts, validates templates, and reviews best practices for Kubernetes. |
@@ -238,6 +275,7 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Hybrid Cloud Architect](hybrid-cloud-architect.md) | Designs and manages hybrid multi-cloud infrastructure across AWS, Azure, GCP, and private clouds. |
 | [Hybrid Cloud Networking](hybrid-cloud-networking.md) | Configure secure hybrid cloud networking with VPN, Direct Connect, and ExpressRoute. |
 | [iMessage Channel Installer](imessage-channel-installer.md) | Adds iMessage to NanoClaw with local or hosted backend. |
+| [Incident Commander](incident-commander.md) | Runs your availability incidents from declaration to post-incident review with clear severity and timelines. |
 | [Incident Reporting and Analysis Assistant](../../customer-support/cloud-and-devops/incident-reporting-and-analysis-assistant.md) | Turns incident logs into reports, trends, and response plans for support teams. |
 | [Incident Reporting Assistant](incident-reporting-assistant.md) | Incident reporting assistant for IT support specialists, from triage to prevention. |
 | [Incident Responder](incident-responder.md) | Assess severity, stabilize systems, coordinate communication, and produce blameless post-incident reports. |
@@ -248,6 +286,7 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Incident Runbook Templates](../../operations/cloud-and-devops/incident-runbook-templates.md) | Generate incident response runbooks with detection, triage, and mitigation steps. |
 | [Infrastructure Assessment Advisor](infrastructure-assessment-advisor.md) | Assesses IT infrastructure across network, servers, storage, security, cloud, and more, delivering actionable reports. |
 | [Infrastructure Lambda Labs](infrastructure-lambda-labs.md) | Manages Lambda Labs GPU instances for ML training and inference. |
+| [Infrastructure Maintainer](infrastructure-maintainer.md) | Keeps your cloud infrastructure reliable, monitored, secure and cost-efficient. |
 | [Infrastructure Modal](infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [Infrastructure Optimization Advisor](infrastructure-optimization-advisor.md) | Analyzes infrastructure data and delivers optimization plans for IT leaders. |
 | [Infrastructure Skypilot](infrastructure-skypilot.md) | Orchestrates ML workloads across clouds with automatic cost optimization. |
@@ -259,6 +298,7 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [IP Subnetting Assistant](ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
 | [Iron Proxy Gateway Installer](iron-proxy-gateway-installer.md) | Installs and manages the Iron Proxy gateway with its official Iron Control console. |
 | [Istio Traffic Management](istio-traffic-management.md) | Configure Istio traffic management for production service mesh deployments. |
+| [IT Asset Inventory](it-asset-inventory.md) | Keeps a live inventory of your cloud and on-premise IT assets, with owners, tags and compliance gaps. |
 | [IT Director DR Plan Architect](it-director-dr-plan-architect.md) | Builds and maintains your disaster recovery plan, from risk assessment to testing and improvement. |
 | [IT Disaster Recovery Architect](it-disaster-recovery-architect.md) | Builds and maintains a complete disaster recovery plan for IT systems. |
 | [IT Disaster Recovery Blueprint](it-disaster-recovery-blueprint.md) | Disaster recovery planning assistant for IT support specialists. |
@@ -270,22 +310,32 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [It Manager Pro](../../management/cloud-and-devops/it-manager-pro.md) | Strategic IT leadership advisor bridging data, finance, and human-centric management. |
 | [It Operations](it-operations.md) | Manages IT infrastructure, monitoring, incident response, and service reliability for operations teams. |
 | [It Ops Orchestrator](it-ops-orchestrator.md) | Coordinates multi-domain IT operations by routing work to specialized agents and merging results. |
+| [IT Service Management](it-service-management.md) | Runs IT service management: incident triage, problem root-cause, change control, SLA and CMDB governance. |
 | [IT Stack Optimization Reports](it-stack-optimization-reports.md) | Evaluates and optimizes your organization's tech stack end to end. |
 | [IT Support Query Automation Assistant](it-support-query-automation-assistant.md) | Automates routine IT support queries, tickets, and system checks for IT support specialists. |
 | [IT Trend Adoption Assistant](it-trend-adoption-assistant.md) | Tracks emerging IT trends and guides their adoption from research to rollout. |
 | [Itil Expert](itil-expert.md) | Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management. |
+| [Jenkins Pipeline Builder](jenkins-pipeline-builder.md) | Writes and reviews Jenkins pipelines, agents, credentials and shared libraries for your repos. |
+| [Jira Workflow Steward](jira-workflow-steward.md) | Turns Jira tickets into traceable branches, commits, and review-ready pull requests. |
 | [K8s Manifest Generator](k8s-manifest-generator.md) | Generate production-ready Kubernetes manifests with best practices. |
 | [Knowledge Graph Dashboard Launcher](knowledge-graph-dashboard-launcher.md) | Launches a web dashboard to visualize your codebase's knowledge graph. |
 | [Kubernetes Architect](kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
 | [Kubernetes Deployment](kubernetes-deployment.md) | Deploy applications to Kubernetes with Helm, service mesh, and security. |
+| [Kubernetes Model Serving](kubernetes-model-serving.md) | Plans and reviews KServe and Triton model deployments on Kubernetes, with canary rollouts and autoscaling. |
+| [Kubernetes Operator Auditor](kubernetes-operator-auditor.md) | Designs, reviews and audits Kubernetes Operators and their CRDs against the reconcile-loop and capability-level rules. |
 | [Kubernetes Specialist](kubernetes-specialist.md) | Designs, deploys, and troubleshoots production Kubernetes clusters with security and performance focus. |
 | [Kubestellar Console](kubestellar-console.md) | Multi-cluster Kubernetes dashboard with AI-powered operations via MCP server and built-in agent capabilities. |
+| [Kustomize Overlay Builder](kustomize-overlay-builder.md) | Builds and reviews Kustomize overlays so Kubernetes configs stay consistent across environments. |
 | [Latchbio Integration](latchbio-integration.md) | Build and deploy bioinformatics workflows as serverless pipelines on the Latch platform. |
 | [Linkerd Patterns](linkerd-patterns.md) | Deploy and manage Linkerd service mesh on Kubernetes with production patterns. |
+| [Linux Performance Tuner](linux-performance-tuner.md) | Diagnoses Linux performance bottlenecks and tunes kernel, I/O, and CPU settings with measured before-and-after results. |
 | [Linux Troubleshooting](linux-troubleshooting.md) | Diagnose and resolve Linux system issues with structured troubleshooting phases. |
+| [LLM Inference Autoscaling](llm-inference-autoscaling.md) | Plans and reviews GPU-aware autoscaling for LLM inference clusters on Kubernetes. |
+| [LLM Platform Promotion](llm-platform-promotion.md) | Runs model promotion through evaluation gates, canary checks and rollback, with the evidence recorded. |
 | [Load Balancing Advisor](load-balancing-advisor.md) | Explains and plans load balancing techniques for network engineers. |
 | [Load Testing Specialist](load-testing-specialist.md) | Designs and executes load tests to find system bottlenecks and capacity limits. |
 | [Log Diagnostic Network Resolver](log-diagnostic-network-resolver.md) | Diagnoses and resolves network issues from logs and configs for IT support specialists. |
+| [Loki Log Pipeline](loki-log-pipeline.md) | Designs, deploys and queries a Grafana Loki log stack, then reports what the logs actually show. |
 | [M365 Admin](m365-admin.md) | Automates Microsoft 365 provisioning, auditing, and compliance across Exchange, Teams, SharePoint, and licensing. |
 | [M365 Agents Dotnet](m365-agents-dotnet.md) | Build multichannel agents for Microsoft 365, Teams, and Copilot Studio with .NET. |
 | [Mailtrap Sending Emails](mailtrap-sending-emails.md) | Configure Mailtrap live email sending via API, SMTP, or batch. |
@@ -295,14 +345,17 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Manifest](manifest.md) | Installs and configures the Manifest observability plugin for AI agents. |
 | [Matrix Channel Integrator](matrix-channel-integrator.md) | Adds Matrix chat channel integration to your NanoClaw setup via Chat SDK. |
 | [Mattermost Channel Connector](mattermost-channel-connector.md) | Connects your workspace to Mattermost chat channels through a secure bridge. |
+| [MCP Dependency Drift Audit](mcp-dependency-drift-audit.md) | Statically audits MCP configs for mutable npm package references before approval or CI. |
 | [Mcp Deployment Orchestrator](mcp-deployment-orchestrator.md) | Containerizes and deploys MCP servers to Kubernetes with security, monitoring, and autoscaling. |
 | [Metrics](metrics.md) | Queries Railway service metrics for CPU, memory, network, and disk usage. |
 | [Microservices Architect](microservices-architect.md) | Designs and evolves microservice architectures from monoliths to production-hardened distributed systems. Uses domain-driven design to identify servic |
+| [Migration Architect](migration-architect.md) | Plans zero-downtime migrations with compatibility checks and a rollback runbook for every phase. |
 | [Migration Completion Finisher](migration-completion-finisher.md) | Finish a NanoClaw v1 to v2 migration after the automated script runs. |
 | [Mise Configurator](mise-configurator.md) | Generate production-ready mise.toml configs for local dev and CI/CD. |
 | [Mlops Engineer](mlops-engineer.md) | Design and implement ML infrastructure with CI/CD, model versioning, and operational monitoring. |
 | [Modal](modal.md) | Runs Python code in serverless cloud containers with GPUs and autoscaling. |
 | [Model Architecture Torchtitan](model-architecture-torchtitan.md) | Pretrains large language models at scale using PyTorch-native torchtitan with 4D parallelism. |
+| [MongoDB Administrator](mongodb-administrator.md) | Administers MongoDB deployments: users, indexes, replica sets, backups and slow-query checks. |
 | [Monitoring Setup Guide](monitoring-setup-guide.md) | Guides systems administrators through setting up comprehensive IT monitoring systems. |
 | [Monitoring Specialist](monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
 | [Monopoly](monopoly.md) | Architect resilient, scalable backend systems with trade-off analysis and blueprints. No coding or deployment. |
@@ -338,8 +391,11 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Network Troubleshooting Assistant](network-troubleshooting-assistant.md) | Diagnose and resolve network issues with structured troubleshooting guidance and documentation support. |
 | [Network VLAN Architect](network-vlan-architect.md) | Plans, configures, and troubleshoots VLAN setups across your network. |
 | [New](new.md) | Creates Railway projects, services, and databases with proper configuration from GitHub or scaffolding. |
+| [New Relic Observability Setup](new-relic-observability-setup.md) | Sets up New Relic monitoring for your apps and hosts, then reports on what it finds. |
+| [NFS Storage Setup](nfs-storage-setup.md) | Sets up and tunes NFS file sharing between Linux servers and clients. |
 | [NoSQL Database Administrator Assistant](nosql-database-administrator-assistant.md) | Guides NoSQL database administrators through setup, optimization, security, and recovery. |
 | [Nx Workspace Patterns](nx-workspace-patterns.md) | Configure and optimize Nx monorepo workspaces with project boundaries and caching. |
+| [Object Storage Administrator](object-storage-administrator.md) | Configures and audits S3, GCS and MinIO buckets, policies, versioning and lifecycle rules. |
 | [Observability And Instrumentation](observability-and-instrumentation.md) | Instruments production code so behavior is visible and diagnosable via telemetry. |
 | [Observability Engineer](observability-engineer.md) | Designs and maintains production monitoring, logging, and tracing systems for reliability. |
 | [Observability Monitoring Monitor Setup](observability-monitoring-monitor-setup.md) | Design and deploy comprehensive monitoring stacks with metrics, logs, and traces. |
@@ -352,7 +408,11 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [OneCLI Gateway Proxy](onecli-gateway-proxy.md) | Makes authenticated API calls to external services through a credential-injecting proxy. |
 | [OneCLI Vault Initializer](onecli-vault-initializer.md) | Installs OneCLI, migrates .env credentials to the Agent Vault, and verifies setup. |
 | [Openapi Spec Generation](openapi-spec-generation.md) | Generate and maintain OpenAPI 3.1 specs from code or design-first. |
+| [OpenClaw Deployment Hardening](openclaw-deployment-hardening.md) | Adds security gates to OpenClaw build, deploy, and rollback workflows and verifies them after rollout. |
 | [OpenClaw Migration Guide](openclaw-migration-guide.md) | Guides you through migrating your OpenClaw setup to NanoClaw v2. |
+| [OpenShift Cluster Operations](openshift-cluster-operations.md) | Deploys and manages applications on Red Hat OpenShift clusters through the oc CLI. |
+| [OpenTofu Migration](opentofu-migration.md) | Migrates Terraform infrastructure-as-code to OpenTofu and updates the pipelines that run it. |
+| [Operational Runbook Generator](operational-runbook-generator.md) | Drafts and maintains operational runbooks for a service, covering deploy, incident, maintenance and rollback. |
 | [OS Scripting Troubleshooter](os-scripting.md) | Diagnose and fix OS and shell scripting issues across Linux, macOS, and Windows. |
 | [Pagerduty Automation](pagerduty-automation.md) | Automate PagerDuty incident, service, schedule, and escalation management via Rube MCP. |
 | [Pagerduty Incident Responder](pagerduty-incident-responder.md) | Responds to PagerDuty incidents by analyzing context, finding code changes, and suggesting fixes via GitHub PRs. |
@@ -362,8 +422,10 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Performance Optimization Assistant](../../customer-support/cloud-and-devops/performance-optimization-assistant.md) | Optimizes system performance through code, database, network, and resource analysis. |
 | [Performance Testing Assistant](performance-testing-assistant.md) | Assists QA testers with performance testing tasks from planning to reporting. |
 | [Pilot Protocol](pilot-protocol.md) | Give an AI agent a permanent network address, encrypted P2P messaging, and an installable app store via Pilot Protocol. |
+| [PlanetScale Schema Operator](planetscale-schema-operator.md) | Runs PlanetScale schema changes through branches and deploy requests, with approval before anything touches production. |
 | [Platform Engineer](platform-engineer.md) | Designs and builds internal developer platforms to reduce friction and accelerate delivery. |
 | [Platform Sre Kubernetes](platform-sre-kubernetes.md) | Manages production Kubernetes deployments with safe rollouts, rollbacks, and security defaults. |
+| [Podman Container Operations](podman-container-operations.md) | Manages containers with Podman, rootless and daemonless, from image to systemd service. |
 | [Postgres Pro](postgres-pro.md) | Optimizes PostgreSQL performance, designs replication, and troubleshoots database issues at scale. |
 | [Postgresql](postgresql.md) | Designs PostgreSQL schemas with data types, indexes, constraints, and partitioning. |
 | [Postgresql Dba](postgresql-dba.md) | Manage PostgreSQL databases: query, modify, backup, and monitor performance. |
@@ -375,24 +437,31 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Pre Ship Gate](pre-ship-gate.md) | Verifies production deploy by checking silent failures and confirming live revision. |
 | [Projects](projects.md) | Lists, switches, and configures Railway projects from the CLI. |
 | [Prometheus Configuration](prometheus-configuration.md) | Configure Prometheus for metric collection, scrape targets, recording rules, and alert rules. |
+| [Prometheus Monitoring Setup](prometheus-monitoring-setup.md) | Designs Prometheus metrics collection, PromQL queries, alert rules and Grafana dashboards for your systems. |
 | [Push Template To Github](push-skill-to-github.md) | Commit and push capability changes to the configured capabilities repo after review. |
 | [QoS Policy Designer](qos-policy-designer.md) | Designs and tunes QoS policies for network performance and user experience. |
 | [Rclone Cli](rclone-cli.md) | Terminal-based cloud file operations using rclone CLI. |
+| [RDS Database Operator](rds-database-operator.md) | Provisions and manages AWS RDS databases with backups, replicas, and monitoring. |
 | [Recovery Plan Builder for Analysts](recovery-plan-builder-for-analysts.md) | Builds and refines your disaster recovery plan from risk assessment to continuous improvement. |
 | [Redis Cli](redis-cli.md) | Redis CLI reference for querying, inspecting, and managing Redis from the command line. |
+| [Redis Operations Assistant](redis-operations-assistant.md) | Configures and operates Redis for caching, queues, rate limiting, and high availability. |
 | [Release Captain](release-captain.md) | Runs the release checklist and refuses to skip the step everyone always skips. |
 | [Remote Gpu Trainer](remote-gpu-trainer.md) | Deploy, monitor, and debug long GPU jobs on rented instances with safe teardown and resumable checkpoints. |
 | [Render Automation](render-automation.md) | Automate Render cloud operations: services, deployments, projects via Rube MCP. |
 | [Render Deploy](render-deploy.md) | Deploy applications to Render by analyzing codebases and generating Blueprints. |
+| [Reproducible Dev Environments](reproducible-dev-environments.md) | Designs reproducible dev environments with Dev Containers, Nix flakes and Devbox, then keeps them pinned. |
+| [Reverse Proxy Configurator](reverse-proxy-configurator.md) | Designs and reviews nginx and Traefik reverse proxy configs for TLS, routing, and rate limits. |
 | [Rootly Incident Responder](rootly-incident-responder.md) | Analyzes production incidents and recommends solutions using Rootly incident data. |
 | [Rote](rote.md) | Compiles proven agent templates into deterministic pipelines and serves them as MCP tools. |
 | [Rtk Proxy Installer](rtk-proxy-installer.md) | Installs and wires rtk token-compression proxy into agent containers for 60–90% token savings on dev commands. Returns verified savings reports. |
 | [Runaway Guard](runaway-guard.md) | Prevents runaway AI API costs with explicit per-run and per-day dollar caps. |
+| [S3 Bucket Operations](s3-bucket-operations.md) | Configures and hardens S3 buckets, policies, lifecycle rules, and replication on AWS. |
 | [Saga Orchestration](saga-orchestration.md) | Coordinate distributed transactions and long-running business processes with compensating actions. |
 | [Scalability Design Assistant](scalability-design-assistant.md) | Guides software developers through scalable system design and implementation. |
 | [Se Gitops Ci Specialist](se-gitops-ci-specialist.md) | Makes deployments boring and reliable by triaging failures, fixing pipelines, and enforcing GitOps standards. |
 | [Se System Architecture Reviewer](se-system-architecture-reviewer.md) | Reviews system architecture for security, scalability, and reliability using Well-Architected frameworks. |
 | [Secrets Management](secrets-management.md) | Manage CI/CD secrets with Vault, AWS, Azure, or GCP without hardcoding. |
+| [Semantic Release Versioning](semantic-release-versioning.md) | Decides the next version number from your commits and drafts the changelog entry for your approval. |
 | [Senior Devops](senior-devops.md) | Sets up CI/CD pipelines, scaffolds infrastructure as code, and manages cloud deployments across AWS, GCP, and Azure. |
 | [Sentry Automation](sentry-automation.md) | Automate Sentry error tracking, alerts, releases, and team monitoring via Rube MCP. |
 | [Server Management](server-management.md) | Guides server management decisions without running commands. |
@@ -404,10 +473,12 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Shipping And Launch](shipping-and-launch.md) | Safely deploy production changes with staged rollouts and rollback plans. |
 | [Slo Implementation](slo-implementation.md) | Define and implement SLIs, SLOs, and error budgets for service reliability. |
 | [Smart Git Automation](smart-git-automation.md) | Smart change detection, auto branch naming, and streamlined commit/PR workflow. |
+| [SOPS Secrets Encryption](sops-secrets-encryption.md) | Encrypts secrets in your config files with SOPS while keeping the structure readable. |
 | [Spark Environment Setup](spark-environment-setup.md) | Sets up and verifies a working ML environment on NVIDIA DGX Spark. |
 | [Spark Training Preflight](spark-training-preflight.md) | Preflight and diagnose the ten known failure modes for ML training on NVIDIA DGX Spark. |
 | [Square Automation](square-automation.md) | Automate Square payments, orders, invoices, and locations via Rube MCP. |
 | [Sre Engineer](sre-engineer.md) | Define SLOs, manage error budgets, and reduce toil for system reliability. |
+| [SSH Configuration Planner](ssh-configuration-planner.md) | Plans and reviews secure SSH server, client, key, bastion and tunnel configurations. |
 | [Sshepherd](sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
 | [Status](status.md) | Check Railway project status, deployments, and uptime for this directory. |
 | [Storage Infrastructure Strategist](storage-infrastructure-strategist.md) | Plan, optimize, and secure your data storage with expert guidance. |
@@ -419,6 +490,7 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [System Monitoring Assistant](system-monitoring-assistant.md) | Continuous system monitoring, alerting, and capacity planning for IT managers. |
 | [System Optimization Assistant](system-optimization-assistant.md) | Analyzes system data and recommends optimizations for IT support specialists. |
 | [System Upgrade Coordinator](../../customer-support/cloud-and-devops/system-upgrade-coordinator.md) | Plans, executes, and supports system upgrades with minimal disruption. |
+| [Systemd Service Manager](systemd-service-manager.md) | Drafts and manages systemd services, timers, sockets and resource limits, with approval before anything touches a host. |
 | [Technology Integration Coordinator](../../management/cloud-and-devops/technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |
 | [Templates](templates.md) | Search and deploy templates from Railway's marketplace. |
 | [Terraform](terraform.md) | Generates compliant Terraform code and manages HCP workspaces with registry lookups. |
@@ -429,6 +501,8 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [Terraform Specialist](terraform-specialist.md) | Designs and manages Terraform/OpenTofu infrastructure with secure state, modular code, and automated pipelines. |
 | [Terragrunt Expert](terragrunt-expert.md) | Orchestrates Terragrunt stacks, units, and dependencies for scalable multi-environment infrastructure. |
 | [Test Environment Setup Assistant](test-environment-setup-assistant.md) | Sets up, validates, documents, and maintains QA test environments on request. |
+| [Test Results Reporter](test-results-reporter.md) | Turns your test run results into a clear report and sends it where your team already looks. |
+| [TLS Certificate Manager](tls-certificate-manager.md) | Tracks SSL/TLS certificates, flags expiring ones, and drafts renewal and hardening plans for your approval. |
 | [Tmux](tmux.md) | Manage persistent terminal sessions, windows, and panes with tmux. |
 | [Trigger Dev](trigger-dev.md) | Builds and manages reliable background jobs and AI workflows using Trigger.dev. |
 | [Turborepo Caching](turborepo-caching.md) | Configure Turborepo caching for faster monorepo builds and CI/CD. |
@@ -452,14 +526,19 @@ Infrastructure, deployments, monitoring and incident response. 455 Grok Bot temp
 | [VPN Configuration and Management Assistant](vpn-configuration-and-management-assistant.md) | Configures, troubleshoots, secures, and optimizes VPNs with step-by-step guidance. |
 | [VPN Infrastructure Manager](vpn-infrastructure-manager.md) | Guides VPN setup, management, and security for network administrators. |
 | [Vps Server Management](vps-server-management.md) | Manage authorized VPS hosts and server-side agents via SSH and cautious operations workflows. |
+| [Weather Data Lifecycle](weather-data-lifecycle.md) | Keeps downloaded weather data for exactly as long as its consumer needs it, then cleans up. |
+| [Weather Pipeline Performance Diagnosis](weather-pipeline-performance-diagnosis.md) | Finds which stage of a weather-data workflow is slow, with measured evidence before any code changes. |
 | [Web Dev Cloud Integrator](web-dev-cloud-integrator.md) | Guides web developers through integrating cloud services into their applications. |
 | [Web Scraper](web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
+| [Webhook Integration Designer](webhook-integration-designer.md) | Designs, documents and debugs webhook integrations, with signed payloads, routing and retries. |
 | [WhatsApp Cloud API](whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |
 | [Windows Infra Admin](windows-infra-admin.md) | Automates safe Windows Server, AD, DNS, DHCP, and GPO changes with pre-flight validation and rollback. |
 | [Wireless Admin Network Optimizer](wireless-admin-network-optimizer.md) | Optimizes wireless networks through analysis, configuration, and security guidance. |
 | [Wireless Network Optimization Assistant](wireless-network-optimization-assistant.md) | Optimizes wireless networks through analysis, planning, and configuration recommendations. |
 | [Workflow Automation](workflow-automation.md) | Designs durable workflow automations that survive failures and scale reliably. |
 | [Zapier Make Patterns](zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
+| [Zero Trust Access Planner](zero-trust-access-planner.md) | Designs and audits Cloudflare Zero Trust access, tunnels, and DNS policies for internal apps. |
+| [Zero-Downtime Deployment Planner](zero-downtime-deployment-planner.md) | Plans and verifies zero-downtime deployments with blue-green, canary, and rolling strategies. |
 | [Zoom Automation](zoom-automation.md) | Automate Zoom meetings, webinars, recordings, and participant reports via Composio MCP. |
 
 [← All IT and Development templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/it-and-development)

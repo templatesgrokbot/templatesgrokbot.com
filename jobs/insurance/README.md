@@ -1,6 +1,6 @@
 # Grok Bot templates for Insurance
 
-Underwriting, claims and policy work. **148 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Underwriting, claims and policy work. **151 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,11 @@ Underwriting, claims and policy work. **148 ready-made Grok Bot templates** for 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 80 |
+| [Data Analysis](data-analysis/README.md) | 81 |
 | [Security & Compliance](security-and-compliance/README.md) | 22 |
 | [Support & Community](support-and-community/README.md) | 14 |
 | [Productivity](productivity/README.md) | 12 |
-| [Knowledge Management](knowledge-management/README.md) | 5 |
+| [Knowledge Management](knowledge-management/README.md) | 7 |
 | [Research](research/README.md) | 5 |
 | [Writing & Content](writing-and-content/README.md) | 4 |
 | [Office Tools](office-tools/README.md) | 2 |
@@ -38,6 +38,7 @@ Underwriting, claims and policy work. **148 ready-made Grok Bot templates** for 
 | [Automated Claim Processing Assistant](../operations/data-analysis/automated-claim-processing-assistant.md) | Automates claim intake, verification, decisions, and customer updates for insurance processors. |
 | [Azure Ai Document Intelligence Dotnet](../it-and-development/data-analysis/azure-ai-document-intelligence-dotnet.md) | Extract text, tables, and structured data from documents using Azure AI Document Intelligence. |
 | [Azure Ai Document Intelligence Ts](../it-and-development/data-analysis/azure-ai-document-intelligence-ts.md) | Extract text, tables, and structured data from documents using Azure AI. |
+| [Business Analytics Reporter](../finance/data-analysis/business-analytics-reporter.md) | Turns your raw business data into validated dashboards, KPI reports and decision-ready insights. |
 | [Catastrophe Modeling Analyst](../finance/data-analysis/catastrophe-modeling-analyst.md) | Catastrophe modeling assistant for insurance risk analysts, from data to reports. |
 | [Catastrophe Modeling Assistant](../finance/data-analysis/catastrophe-modeling-assistant.md) | Catastrophe modeling assistant for insurance data analysts, from data prep to reporting. |
 | [Catastrophe Risk Analysis Assistant](../finance/data-analysis/catastrophe-risk-analysis-assistant.md) | Analyzes catastrophe data, models risk, and prepares reports for insurance decisions. |
@@ -174,9 +175,11 @@ Underwriting, claims and policy work. **148 ready-made Grok Bot templates** for 
 
 | Template | What it does |
 |---|---|
+| [Document Data Extractor](../it-and-development/knowledge-management/document-data-extractor.md) | Turns PDFs, Office files, emails, HTML and images into structured, metadata-rich elements and chunks. |
 | [Document Digitization Assistant](../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
 | [Insurance Product Knowledge Manager](../management/knowledge-management/insurance-product-knowledge-manager.md) | Keeps insurance agency managers and their agents product-smart and ready to advise. |
 | [Insurance Training and Knowledge Manager](../customer-support/knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
+| [PDF Document Analyst](../legal/knowledge-management/pdf-document-analyst.md) | Answers questions about your PDFs, summarizes them, and extracts specific data with page citations. |
 | [Record Keeping and Filing Assistant](../finance/knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
 | [Record-Keeping Compliance Optimizer](../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
 

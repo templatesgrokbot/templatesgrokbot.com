@@ -1,11 +1,12 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 203 Grok Bot templates, 60 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 213 Grok Bot templates, 66 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [90-Day Execution Planner](90-day-execution-planner.md) | Turns an approved decision into a 90-day plan with weekly milestones, DRIs, and check-ins. |
 | [Acceptance Orchestrator](../../it-and-development/productivity/acceptance-orchestrator.md) | Drive coding tasks from issue intake to acceptance verification with minimal re-intervention. |
 | [Accint Commitments](accint-commitments.md) | Triage open promises and close them with honest verdicts via acc_act(runtime="outcome"). |
 | [Agent Organizer](agent-organizer.md) | Assembles and coordinates multi-agent teams for complex projects by matching capabilities to tasks. |
@@ -22,6 +23,8 @@ Plan, prioritise and clear the recurring admin. 203 Grok Bot templates, 60 of th
 | [Automation Opportunity Finder](automation-opportunity-finder.md) | Finds, plans, and tracks automation opportunities across your projects and operations. |
 | [Basecamp Automation](../../operations/productivity/basecamp-automation.md) | Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP. |
 | [Before You Build](../../product-development/productivity/before-you-build.md) | Pause before coding to check demand, alternatives, and switching costs. |
+| [Behavioral Nudge Engine](behavioral-nudge-engine.md) | Turns a long task queue into one small next step, delivered when and how you prefer. |
+| [Brain Dump Organizer](brain-dump-organizer.md) | Turns a messy brain dump into organized projects, tasks, connections, and concrete next offers. |
 | [Brainstorming](brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Brave Man](brave-man.md) | Runs a clarifying interview for new projects, then outputs a ready prompt.md for execution. |
 | [Build](../../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
@@ -79,6 +82,7 @@ Plan, prioritise and clear the recurring admin. 203 Grok Bot templates, 60 of th
 | [Hackathon Ai Strategist](hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [Hiring and Team Building Assistant](../../executives-and-strategy/productivity/hiring-and-team-building-assistant.md) | Handles hiring and team building tasks for founders, from job posts to performance reviews. |
 | [Hiring Scorecard Builder](../../human-resources/productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
+| [Honest Work Evaluator](honest-work-evaluator.md) | Scores completed work honestly on two axes and tracks your scores over time to catch inflation. |
 | [Hotel Crisis Management Planner](../../hospitality-and-events/productivity/hotel-crisis-management-planner.md) | Builds and maintains a hotel's crisis management plans, from risk assessment to post-crisis review. |
 | [Hotel Event Planning Assistant](../../hospitality-and-events/productivity/hotel-event-planning-assistant.md) | Plans and manages hotel events from venue selection to post-event feedback. |
 | [Hotel Maintenance Schedule Coordinator](../../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
@@ -107,6 +111,8 @@ Plan, prioritise and clear the recurring admin. 203 Grok Bot templates, 60 of th
 | [Kody](kody.md) | Coordinates priorities across people, projects, and assistants. |
 | [Lab Collaboration Coordinator](../../science-and-research/productivity/lab-collaboration-coordinator.md) | Coordinates lab communication, collaboration, and reporting for smooth team operations. |
 | [Laboratory Equipment Maintenance Scheduler](../../science-and-research/productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
+| [Ledger Task Manager](ledger-task-manager.md) | Create, track, and order ledger tasks with dependencies, and report exact state. |
+| [Ledger Task Planner](../../product-development/productivity/ledger-task-planner.md) | Turns a planning request into a concise requirement document and implementation-sized ledger tasks. |
 | [Linear](../../it-and-development/productivity/linear.md) | Read, create, and update Linear issues, projects, and team workflows. |
 | [Linear Automation](../../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
 | [Linear for Claude](../../product-development/productivity/linear-claude-skill.md) | Manage Linear issues, projects, and teams via API. |
@@ -138,6 +144,7 @@ Plan, prioritise and clear the recurring admin. 203 Grok Bot templates, 60 of th
 | [Planning With Files](planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
 | [Power User Cultivation](../../product-development/productivity/power-user-cultivation.md) | Identify engaged developers and turn them into advocates and contributors. |
 | [Prd](../../product-development/productivity/prd.md) | Synthesize conversation into PRD and publish to issue tracker. |
+| [Prioritization Framework Advisor](../../product-development/productivity/prioritization-framework-advisor.md) | Picks the right prioritization framework and scores your options with it. |
 | [Product Lifecycle Manager](../../operations/productivity/product-lifecycle-manager.md) | Manages product lifecycle data, forecasts, quality, compliance, suppliers, and launches for supply chain managers. |
 | [Product Manager](../../product-development/productivity/product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
 | [Product Risk Assessment Assistant](../../product-development/productivity/product-risk-assessment-assistant.md) | Identifies, evaluates, and communicates product risks with structured assessments and stakeholder-ready reports. |
@@ -172,12 +179,15 @@ Plan, prioritise and clear the recurring admin. 203 Grok Bot templates, 60 of th
 | [Sendblue Notify](../../it-and-development/productivity/sendblue-notify.md) | Text your phone when a long task finishes, via Sendblue iMessage notifications. No chatter, no spam. |
 | [Session Handoff](../../operations/productivity/session-handoff.md) | Creates and resumes handoff documents so fresh sessions continue work without losing context. |
 | [Speed](speed.md) | Launch RSVP speed reader with Spritz-style word-by-word display. |
+| [Sprint Planning Assistant](../../product-development/productivity/sprint-planning-assistant.md) | Plans a sprint from your backlog, capacity and velocity, with dependencies and risks called out. |
+| [Sprint Retrospective Facilitator](../../it-and-development/productivity/sprint-retrospective-facilitator.md) | Runs a structured sprint retrospective and returns prioritized action items with owners and deadlines. |
 | [Sred Work Summary](../../operations/productivity/sred-work-summary.md) | Collect a year of PRs, docs, and tickets into a grouped Notion doc for SRED. |
 | [Stakeholder Communication Manager](stakeholder-communication-manager.md) | Manages all stakeholder communication for project managers, from analysis to audits. |
 | [Stakeholder Communication Planner](stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
 | [Stakeholder Engagement Planner](stakeholder-engagement-planner.md) | Plans and runs stakeholder engagement for management consultants. |
 | [Strategic Planning Assistant](strategic-planning-assistant.md) | Turns market data and goals into a full strategic plan with risks, actions, and reviews. |
 | [Strategy Stakeholder Messenger](../../executives-and-strategy/productivity/strategy-stakeholder-messenger.md) | Manages all stakeholder communication for strategy managers, from updates to crisis messaging. |
+| [Studio Portfolio Producer](studio-portfolio-producer.md) | Tracks a creative studio's project portfolio, resource allocation and strategic risks in one place. |
 | [Supply Chain Sustainability Planner](../../operations/productivity/supply-chain-sustainability-planner.md) | Helps supply chain managers embed sustainability across operations, from supplier audits to green logistics. |
 | [Supply Chain Technology Integration Planner](../../operations/productivity/supply-chain-technology-integration-planner.md) | Plans and executes technology integration across your supply chain. |
 | [Sustainability Roadmap Builder](../../executives-and-strategy/productivity/sustainability-roadmap-builder.md) | Plans and tracks your organization's sustainability initiatives across energy, waste, water, and more. |

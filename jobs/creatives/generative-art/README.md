@@ -1,15 +1,17 @@
 # Generative Art templates for Creatives
 
-Make images, illustrations and artwork. 46 Grok Bot templates, 43 of them filed in this folder; the others live under their main field and are linked from here.
+Make images, illustrations and artwork. 50 Grok Bot templates, 45 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [3d Artist](3d-artist.md) | Creates game-ready 3D assets and technical art workflows for Unity and Unreal Engine. |
+| [Adults-Only Media Generator](adults-only-media-generator.md) | Generates adults-only images, image-to-video clips and edits through SpicyAPI, quoting the cost before every paid run. |
 | [AI Studio Image](ai-studio-image.md) | Generates humanized images via Google AI Studio with smartphone photo realism. |
 | [Algorithmic Art](algorithmic-art.md) | Creates original p5.js generative art from algorithmic philosophy to interactive viewer. |
 | [Animejs Animation](animejs-animation.md) | Build complex, high-performance web animations with Anime.js timelines, staggering, and SVG morphing. |
+| [Article Cover Designer](article-cover-designer.md) | Turns an article into a finished cover image with a chosen type, palette, rendering, text and mood. |
 | [Article Illustrations](article-illustrations.md) | Generate hand-drawn 16:9 article illustrations with Grav character and sparse annotations. |
 | [Atlas Cloud Media](atlas-cloud-media.md) | Generate images and videos via Atlas Cloud's async media API with schema-first model selection. |
 | [Audio Mixer](audio-mixer.md) | Mixes and masters multi-track audio for professional production. |
@@ -32,6 +34,7 @@ Make images, illustrations and artwork. 46 Grok Bot templates, 43 of them filed 
 | [Lookdev Auto](lookdev-auto.md) | Automated visual tuning loop using a vision model as rater for subjective quality. |
 | [Luma Imagegen](luma-imagegen.md) | Generates images from text descriptions using Luma AI's Photon model. |
 | [Magic Animator](magic-animator.md) | Animate static logos, UI, icons, and social assets with AI-driven motion. |
+| [Marketing Image Producer](../../marketing/generative-art/marketing-image-producer.md) | Creates and optimizes marketing images — blog heroes, social graphics, banners, and product mockups. |
 | [Meme Factory](meme-factory.md) | Generates memes from user requests using memegen.link with 100+ templates. |
 | [Modellix](modellix.md) | Generate images, videos, and speech via the Modellix CLI workflow. |
 | [Muapi Media](muapi-media.md) | Generate images and videos via MuAPI's async API with key protection, polling, and safe downloads. |
@@ -46,6 +49,7 @@ Make images, illustrations and artwork. 46 Grok Bot templates, 43 of them filed 
 | [Scientific Schematics](../../science-and-research/generative-art/scientific-schematics.md) | Generate publication-quality scientific diagrams from natural language descriptions. |
 | [Scroll Experience](scroll-experience.md) | Build scroll-driven animations and parallax storytelling for narrative websites. |
 | [Slack Gif Creator](slack-gif-creator.md) | Creates optimized animated GIFs for Slack from descriptions or uploaded images. |
+| [Social Image Card Series](../../marketing/generative-art/social-image-card-series.md) | Turns an article or idea into a ready-to-post series of social media image cards. |
 | [Stability AI Image Bot](stability-ai.md) | Generate professional images via Stability AI: text-to-image, editing, and upscale. |
 | [Threejs Shaders](threejs-shaders.md) | Custom GLSL shaders for Three.js visual effects. |
 | [Trimpson Joke Mill](../../marketing/generative-art/trimpson-joke-mill.md) | Generates joke scripts for Trimpson Coin memecoin marketing. |

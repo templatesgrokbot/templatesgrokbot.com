@@ -1,6 +1,6 @@
 # Research templates for Executives and Strategy
 
-Find sources, compare evidence and summarise what is known. 103 Grok Bot templates, 62 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 108 Grok Bot templates, 66 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Find sources, compare evidence and summarise what is known. 103 Grok Bot templat
 | [Axiom](axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
 | [Blockchain Integration Strategist](blockchain-integration-strategist.md) | Plans and executes blockchain integration for your organization, from readiness to rollout. |
 | [Boardroom Sustainability Strategist](boardroom-sustainability-strategist.md) | Turns sustainability strategy into researched plans, goals, and reports for Directors of Strategy. |
+| [Business Assumption Stress Test](business-assumption-stress-test.md) | Breaks a business assumption before the market does, and hands back a downside model and a hedge. |
 | [Business Development Insight Compass](business-development-insight-compass.md) | Analyzes markets, competitors, and customers to guide business development decisions. |
 | [Business Model Validation Assistant](business-model-validation-assistant.md) | Validates your business model with research, analysis, and iteration support. |
 | [CIO IT Strategy Advisor](cio-it-strategy-advisor.md) | Develops and guides your IT strategy from assessment to execution. |
@@ -58,6 +59,7 @@ Find sources, compare evidence and summarise what is known. 103 Grok Bot templat
 | [Go In Depth](../../science-and-research/research/go-in-depth.md) | Fan-out web searches, fetch sources, adversarially verify claims, and synthesize a cited report. |
 | [Hotel Competitor Intelligence Assistant](../../hospitality-and-events/research/hotel-competitor-intelligence-assistant.md) | Tracks competitor pricing, marketing, reviews, and performance to sharpen your hotel's strategy. |
 | [HR Policy Review Assistant](hr-policy-review-assistant.md) | Reviews HR policies, researches best practices, and drafts recommendations for the EVP of HR. |
+| [Hypothesis-Tested Entity Dossier](hypothesis-tested-entity-dossier.md) | Tests your hypothesis about a company, person, or nonprofit and returns a sourced dossier. |
 | [Ilya Sutskever Simulator](../../science-and-research/research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Infinite Gratitude](../../science-and-research/research/infinite-gratitude.md) | Orchestrates 10 parallel agents for deep multi-source research synthesis. |
 | [Innovation Strategy Analyst](innovation-strategy-analyst.md) | Turns market data and internal feedback into a prioritized innovation strategy for the EVP. |
@@ -68,6 +70,7 @@ Find sources, compare evidence and summarise what is known. 103 Grok Bot templat
 | [Kotler Macro Analyzer](kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
 | [M&A Opportunity Scout](m-a-opportunity-scout.md) | M&A opportunity scouting assistant for competitive intelligence analysts, from industry scans to integration planning. All in one place, no fluff. |
 | [M&A Strategic Analysis Assistant](m-a-strategic-analysis-assistant.md) | Streamlines M&A strategic analysis from market scan to post-merger review. |
+| [Macro Environment Analyst](macro-environment-analyst.md) | Maps the external forces around a market and turns them into ranked risks and opportunities. |
 | [Market Analysis Navigator](../../management/research/market-analysis-navigator.md) | Runs full market analysis for management consultants, from research to forecasting. |
 | [Market Entry Intelligence Analyst](market-entry-intelligence-analyst.md) | Analyzes markets, competitors, and risks to guide your market entry strategy. |
 | [Market Research Analyst](../../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
@@ -75,6 +78,7 @@ Find sources, compare evidence and summarise what is known. 103 Grok Bot templat
 | [Market Research Insights Assistant](market-research-insights-assistant.md) | Turns market research data into strategic insights for marketing decisions. |
 | [Market Research Reports](../../marketing/research/market-research-reports.md) | Generates 50+ page consulting-grade market research reports with LaTeX formatting, visuals, and strategic frameworks. |
 | [Market Research Strategist](market-research-strategist.md) | Turns market data into strategic insights for COO decisions. |
+| [Market Research Synthesizer](../../marketing/research/market-research-synthesizer.md) | Turns raw market research, interviews, and notes into themes, pain points, triggers, and strategic recommendations. |
 | [Market Researcher](../../marketing/research/market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
 | [Market Scout](../../marketing/research/market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
 | [Market Trend Analyst](../../management/research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
@@ -83,6 +87,7 @@ Find sources, compare evidence and summarise what is known. 103 Grok Bot templat
 | [Operations Risk Intel Scout](../../operations/research/operations-risk-intel-scout.md) | Competitive intelligence for Global Heads of Operations, from market scans to risk mitigation. |
 | [Partnership Pipeline Researcher](partnership-pipeline-researcher.md) | Finds and vets partners, events, and outreach for your business development pipeline. |
 | [Patent Strategy Analyst](patent-strategy-analyst.md) | Guides patent research, analysis, and strategy for innovation strategists. |
+| [Porter's Five Forces Analysis](porter-s-five-forces-analysis.md) | Rates an industry's competitive forces and turns them into strategic priorities. |
 | [Product Concept Testing Assistant](product-concept-testing-assistant.md) | Turns product concept feedback into clear insights for innovation decisions. |
 | [Product Feasibility Analyst](product-feasibility-analyst.md) | Guides product feasibility analysis from market research to final report. |
 | [Product Strategist](../../product-development/research/product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |

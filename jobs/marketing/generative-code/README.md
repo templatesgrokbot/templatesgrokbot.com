@@ -1,12 +1,13 @@
 # Generative Code templates for Marketing
 
-Scaffold apps, components and whole projects from a brief. 11 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 12 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [2slides Ppt Generator](2slides-ppt-generator.md) | Generate slides from text, documents, or reference images via the 2slides API. |
+| [Animated Landing Page Builder](animated-landing-page-builder.md) | Turns a product brief into a polished, animated single-page HTML landing page. |
 | [Frontend Slides Frontend Slides](../../creatives/generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
 | [Funnel Infographic Builder](funnel-infographic-builder.md) | 把 3-6 阶转化漏斗做成一张竖版信息图，一眼看清剩多少、漏多少。 |
 | [Gpt Taste](../../creatives/generative-code/gpt-taste.md) | Award-level GSAP frontend pages with AIDA structure and gapless bento grids. |

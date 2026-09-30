@@ -1,11 +1,12 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 244 Grok Bot templates, 143 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 257 Grok Bot templates, 151 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [A/B Test Analyst](../../marketing/data-analysis/a-b-test-analyst.md) | Analyzes A/B test results for statistical significance and gives a ship, extend, or stop recommendation. |
 | [Ab Test Setup](../../it-and-development/data-analysis/ab-test-setup.md) | Plan statistically valid A/B tests with locked hypothesis, sample size, and pre-launch checklist. |
 | [Ab Testing](../../marketing/data-analysis/ab-testing.md) | Design statistically valid A/B tests and growth experiments. |
 | [Academic Research Data Analyst](../../education/data-analysis/academic-research-data-analyst.md) | Cleans, analyzes, visualizes, and interprets academic research data for teaching assistants. |
@@ -54,6 +55,7 @@ Clean, query, chart and explain data. 244 Grok Bot templates, 143 of them filed 
 | [Clinical Trial Data Analyst](clinical-trial-data-analyst.md) | Analyzes clinical trial data for microbiologists, from cleaning to reporting. |
 | [Clinical Trial ML Pipeline Assistant](../../healthcare/data-analysis/clinical-trial-ml-pipeline-assistant.md) | Prepares clinical trial data, builds and monitors ML models, and generates reports for clinical data managers. |
 | [Cobrapy](cobrapy.md) | Run constraint-based metabolic modeling and analysis on genome-scale models. |
+| [Cohort Retention Analyst](../../product-development/data-analysis/cohort-retention-analyst.md) | Turns your user cohort data into retention curves, adoption trends and follow-up research plans. |
 | [Dask](../../it-and-development/data-analysis/dask.md) | Scales pandas and NumPy operations to datasets larger than RAM using parallel and distributed computing. |
 | [Data Analysis and Reporting Assistant](../../it-and-development/data-analysis/data-analysis-and-reporting-assistant.md) | Turns raw project data into clean, analyzed, visualized, and reported insights for IT project managers. |
 | [Data Analysis Assistant](../../operations/data-analysis/data-analysis-assistant.md) | Cleans, analyzes, visualizes, and reports on your data for confident decisions. |
@@ -94,6 +96,8 @@ Clean, query, chart and explain data. 244 Grok Bot templates, 143 of them filed 
 | [ESG Analysis Assistant](esg-analysis-assistant.md) | Turns ESG data into clear reports, risk checks, and improvement plans for sustainability analysts. |
 | [Excel Analysis](../../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Experiment Readout](../../product-development/data-analysis/experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
+| [Experiment Statistical Analyst](experiment-statistical-analyst.md) | Runs hypothesis tests, sizes experiments before launch, and interprets A/B results with effect sizes. |
+| [Experiment Tracker](../../product-development/data-analysis/experiment-tracker.md) | Designs, tracks and analyses A/B tests and feature experiments, then reports go/no-go decisions with exact figures. |
 | [Exploratory Data Analysis](exploratory-data-analysis.md) | Analyze scientific data files across 200+ formats and generate markdown reports. No file? No action. Never repeat an analysis on the same file. Draft |
 | [Family Health Analyzer](../../healthcare/data-analysis/family-health-analyzer.md) | Analyze family health history for genetic risk and prevention advice. |
 | [Fantasy Lineup Optimizer](fantasy-lineup-optimizer.md) | Analyzes matchups, injuries, weather, and Vegas lines to recommend fantasy sit/start decisions with confidence levels. |
@@ -134,6 +138,7 @@ Clean, query, chart and explain data. 244 Grok Bot templates, 143 of them filed 
 | [Laboratory Data Analysis Assistant](laboratory-data-analysis-assistant.md) | Analyzes lab data, builds models, and reports findings for laboratory technicians. |
 | [Laboratory Inventory Manager](laboratory-inventory-manager.md) | Manages lab inventory from tracking to forecasting, audits, and supplier coordination. |
 | [Life Cycle Assessment Assistant](life-cycle-assessment-assistant.md) | Conducts life cycle assessments and sustainability analyses for products and supply chains. |
+| [Longbridge Quant Analysis](../../finance/data-analysis/longbridge-quant-analysis.md) | Runs quantitative analysis on Longbridge market data and hands back the numbers with their sources. |
 | [Manufacturing Experiment Designer](manufacturing-experiment-designer.md) | Analyzes process data and designs experiments to optimize manufacturing workflows. |
 | [Market Data Product Strategist](market-data-product-strategist.md) | Turns market and customer data into product development insights and recommendations. |
 | [Market Price Optimizer](market-price-optimizer.md) | Analyzes market data to develop and recommend profitable pricing strategies. |
@@ -156,8 +161,12 @@ Clean, query, chart and explain data. 244 Grok Bot templates, 143 of them filed 
 | [Model Evaluation Analyst](model-evaluation-analyst.md) | Evaluates AI models end-to-end: metrics, bias, robustness, and improvement plans from your data and labels. |
 | [Molfeat](molfeat.md) | Converts molecular SMILES strings into numerical feature vectors for machine learning. |
 | [Monte Carlo Validation Notebook](../../it-and-development/data-analysis/monte-carlo-validation-notebook.md) | Generates SQL validation notebooks for dbt PR changes with before/after comparison queries. |
+| [MRMS Mosaic Access](mrms-mosaic-access.md) | Fetches official NOAA MRMS radar and multisensor composites for a region and time, with full provenance. |
 | [Natural Hazard Analysis Assistant](natural-hazard-analysis-assistant.md) | Turns geological and climate data into hazard analyses, maps, and preparedness plans. |
 | [Networkx](../../it-and-development/data-analysis/networkx.md) | Build, analyze, and visualize network graphs from data using NetworkX, with no code execution outside sandbox. |
+| [NEXRAD Mosaic Builder](nexrad-mosaic-builder.md) | Builds a traceable multi-radar NEXRAD mosaic from aligned single-site products with full provenance. |
+| [NEXRAD Product Access](nexrad-product-access.md) | Selects and retrieves the exact NEXRAD radar volume, chunk set, or Level III product you ask for. |
+| [NEXRAD Radar Plotter](nexrad-radar-plotter.md) | Plots verified NEXRAD radar scans and mosaics with correct geometry, units, and provenance. |
 | [Nutrition Analyzer](../../healthcare/data-analysis/nutrition-analyzer.md) | Analyze nutrition data, identify patterns, and give personalized dietary advice. |
 | [Omero Integration](omero-integration.md) | Manage microscopy images and metadata via OMERO Python API. |
 | [Optimization Modeling Assistant](../../it-and-development/data-analysis/optimization-modeling-assistant.md) | Builds and refines optimization models for data analysts, from formulation to insight. |
@@ -188,6 +197,7 @@ Clean, query, chart and explain data. 244 Grok Bot templates, 143 of them filed 
 | [Qutip](qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
 | [R&D Cost-Benefit Analyst](../../product-development/data-analysis/r-d-cost-benefit-analyst.md) | Runs cost-benefit analysis for R&D projects from data collection to decision support. |
 | [R&D Data Analysis Assistant](../../product-development/data-analysis/r-d-data-analysis-assistant.md) | Collects, cleans, analyzes, and visualizes data for R&D engineers, from scraping to dashboards. |
+| [Radar Satellite Weather Analyst](radar-satellite-weather-analyst.md) | Interprets radar and satellite weather products, tracking storm structure and evolution with stated uncertainty. |
 | [Rag Chroma](../../it-and-development/data-analysis/rag-chroma.md) | Manages a local Chroma vector database for storing embeddings and performing semantic search. |
 | [Rag Faiss](../../it-and-development/data-analysis/rag-faiss.md) | Build and query billion-scale vector indexes for similarity search. No metadata filtering. No database features. Just fast nearest-neighbor search. Yo |
 | [Rag Sentence Transformers](../../it-and-development/data-analysis/rag-sentence-transformers.md) | Generates high-quality text embeddings for semantic search and RAG using local models. |
@@ -219,6 +229,7 @@ Clean, query, chart and explain data. 244 Grok Bot templates, 143 of them filed 
 | [Spreadsheet](../../finance/data-analysis/spreadsheet.md) | Creates, edits, analyzes, and formats spreadsheets while preserving formulas and references. |
 | [Spreadsheet Data Analyst](../../finance/data-analysis/spreadsheet-data-analyst.md) | Answers questions about your spreadsheet or data export with correct, auditable numbers. |
 | [Spreadsheet Merger](../../operations/data-analysis/spreadsheet-merger.md) | Merge multiple CSV/Excel files with intelligent column matching, deduplication, and conflict resolution. |
+| [SQL Query Writer](../../it-and-development/data-analysis/sql-query-writer.md) | Turns plain-language data questions into correct, explained SQL for your database dialect. |
 | [Statistical Analysis](statistical-analysis.md) | Runs statistical tests and reports results in APA format for academic research. |
 | [Statistical Analysis Assistant](../../it-and-development/data-analysis/statistical-analysis-assistant.md) | Guides data analysts through statistical analysis tasks from cleaning to interpretation. |
 | [Statistical Analysis Guide](statistical-analysis-guide.md) | Guides process development scientists through statistical analysis from data prep to interpretation. |
@@ -244,6 +255,8 @@ Clean, query, chart and explain data. 244 Grok Bot templates, 143 of them filed 
 | [Waste Management Analyst](waste-management-analyst.md) | Analyzes waste streams, ensures compliance, and optimizes sustainable waste management for environmental engineers. |
 | [Water Footprint Assessment Assistant](water-footprint-assessment-assistant.md) | Water footprint assessment assistant for sustainability analysts, from data collection to stakeholder reporting. |
 | [Water Quality Assessment Assistant](water-quality-assessment-assistant.md) | Assesses water quality data, ensures compliance, and designs monitoring tools for environmental engineers. |
+| [Weather Model Data Fetcher](weather-model-data-fetcher.md) | Fetches only the weather model fields you need from public archives, verified and cached. |
+| [Weather Observation Fetcher](weather-observation-fetcher.md) | Fetches surface and upper-air weather observations with station identity, time, units and quality flags intact. |
 | [Wildlife and Habitat Analysis Assistant](wildlife-and-habitat-analysis-assistant.md) | Analyzes wildlife data and generates habitat, threat, and conservation reports for environmental consultants. |
 | [Wireshark Analysis](../../it-and-development/data-analysis/wireshark-analysis.md) | Analyze PCAP files with Wireshark filters and statistics for security and performance investigations. |
 | [Xlsx Official](../../finance/data-analysis/xlsx-official.md) | Reads, edits, and creates spreadsheet files with formulas, formatting, and zero errors. |

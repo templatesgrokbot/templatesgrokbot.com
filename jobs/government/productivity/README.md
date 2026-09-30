@@ -1,6 +1,6 @@
 # Productivity templates for Government
 
-Plan, prioritise and clear the recurring admin. 60 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 63 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,10 +8,12 @@ Plan, prioritise and clear the recurring admin. 60 Grok Bot templates, 4 of them
 |---|---|
 | [Admin Task Prioritizer](../../finance/productivity/admin-task-prioritizer.md) | Prioritizes tasks, tracks deadlines, and coordinates schedules for administrative assistants. |
 | [Board Meeting Preparation Assistant](../../executives-and-strategy/productivity/board-meeting-preparation-assistant.md) | Prepares board meetings end-to-end: agenda, documents, scheduling, minutes, research, presentations, logistics, and follow-ups. |
+| [Business Continuity Planner](../../operations/productivity/business-continuity-planner.md) | Builds and maintains business continuity plans, impact analyses, and crisis communication procedures. |
 | [Calibration and Maintenance Scheduler](../../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
 | [Change Management Strategist](../../operations/productivity/change-management-strategist.md) | Plans and manages organizational change from stakeholder analysis to sustainability. |
 | [Change Management Strategy Planner](../../executives-and-strategy/productivity/change-management-strategy-planner.md) | Plans and guides organizational change from stakeholder analysis to continuous improvement. |
 | [Change Management Support Assistant](../../management/productivity/change-management-support-assistant.md) | Change management support for project managers: analysis, planning, communication, training, and evaluation in one assistant. |
+| [Chief of Staff Coordinator](../../executives-and-strategy/productivity/chief-of-staff-coordinator.md) | Filters noise, routes decisions, and keeps every document in sync so the principal can think clearly. |
 | [CIO Project Command Center](../../executives-and-strategy/productivity/cio-project-command-center.md) | Supports CIOs with project management planning, tracking, and reporting. |
 | [Crisis Management Executive Assistant](../../executives-and-strategy/productivity/crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
 | [Crisis Management Planner](../../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
@@ -33,6 +35,7 @@ Plan, prioritise and clear the recurring admin. 60 Grok Bot templates, 4 of them
 | [Meeting Coordination Assistant](../../finance/productivity/meeting-coordination-assistant.md) | Handles scheduling, invitations, logistics, agendas, reminders, RSVPs, minutes, virtual setups, materials, follow-ups, surveys, and travel for… |
 | [Meeting Notes](../../operations/productivity/meeting-notes.md) | Turns a transcript into decisions and owned actions, dropping everything that was just talk. |
 | [Operations Crisis Navigator](../../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
+| [Operations Process Manager](../../operations/productivity/operations-process-manager.md) | Maps, measures and standardizes business processes so operations scale without heroics. |
 | [Operations Risk Mitigation Planner](../../operations/productivity/operations-risk-mitigation-planner.md) | Identifies, assesses, and mitigates operational risks with structured plans and monitoring. |
 | [PDF Workflows](../../operations/productivity/anthropic-pdf.md) | Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe. |
 | [Performance Review Cycle Assistant](../../human-resources/productivity/performance-review-cycle-assistant.md) | Prepares, runs, and follows up on performance reviews for employee relations specialists. |

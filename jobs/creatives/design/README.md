@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 183 Grok Bot templates, 133 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 188 Grok Bot templates, 137 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Interfaces, brands, layouts and visual systems. 183 Grok Bot templates, 133 of t
 | [Anthropic Frontend Design](../../it-and-development/design/anthropic-frontend-design.md) | Designs and codes distinctive, production-ready UI layouts with a committed visual direction. |
 | [Anti Ui Slop](anti-ui-slop.md) | Build product-specific UI from your design system, not generic patterns. |
 | [Antigravity Design Expert](antigravity-design-expert.md) | Build spatial, glassmorphic, motion-heavy web interfaces with GSAP and 3D CSS. |
+| [Apple HIG Auditor](apple-hig-auditor.md) | Audits and designs Apple-platform interfaces against the Human Interface Guidelines, including Liquid Glass. |
 | [AR Experience Design Assistant](../../product-development/design/ar-experience-design-assistant.md) | Turns AR research and ideas into tested, documented experience concepts for UX designers. |
 | [AR Learning Experience Designer](../../education/design/ar-learning-experience-designer.md) | Designs and refines AR learning experiences from research to assessment. |
 | [Aurora Ui](aurora-ui.md) | Build ethereal aurora UI with glowing orbs, glassmorphism, and slow drift. |
@@ -110,6 +111,7 @@ Interfaces, brands, layouts and visual systems. 183 Grok Bot templates, 133 of t
 | [Image Enhancer](image-enhancer.md) | Enhances image resolution, sharpness, and clarity for presentations, documentation, or social media. |
 | [imagegen-frontend-mobile](imagegen-frontend-mobile.md) | Generates realistic mobile app screen mockups for pitches and product previews. |
 | [Industrial Brutalist Ui](industrial-brutalist-ui.md) | Create raw industrial or tactical telemetry UIs with rigid grids and stark typography. |
+| [Infographic Design Planner](infographic-design-planner.md) | Turns your topic and data into a complete infographic design specification you can hand to a designer. |
 | [Interaction Design Assistant](interaction-design-assistant.md) | Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff. |
 | [Interactive Learning Tools Design Assistant](../../education/design/interactive-learning-tools-design-assistant.md) | Designs and builds interactive learning tools for eLearning developers. |
 | [Interactive Portfolio](interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
@@ -134,6 +136,7 @@ Interfaces, brands, layouts and visual systems. 183 Grok Bot templates, 133 of t
 | [Portfolio Review Assistant](portfolio-review-assistant.md) | Portfolio review assistant for photographers: selects, refines, organizes, and promotes work through feedback-driven improvements. |
 | [Pptx Posters](pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Premium Web Design](premium-web-design.md) | Generates award-quality React website components with unique, intentional design. |
+| [Presentation Visual Designer](presentation-visual-designer.md) | Turns your slide content into layout wireframes, visual specs and colour and type systems. |
 | [Print Preparation and Formats Assistant](print-preparation-and-formats-assistant.md) | Prepares print-ready files and guides designers through format, color, and proofing tasks. |
 | [Product Design Bot](product-design.md) | Creates visual systems, design tokens, and UX flows with Apple standards. |
 | [Product Inventor](product-inventor.md) | Invent digital products by combining design thinking, systems, and psychology. |
@@ -168,6 +171,7 @@ Interfaces, brands, layouts and visual systems. 183 Grok Bot templates, 133 of t
 | [Ui Ux Designer](ui-ux-designer.md) | Reviews UI/UX designs with research-backed critiques and accessibility compliance checks. |
 | [Ui Ux Pro Max](../../product-development/design/ui-ux-pro-max.md) | Generates complete UI/UX design systems from product descriptions using a searchable database of styles, palettes, and guidelines. |
 | [Ui Visual Validator](../../it-and-development/design/ui-visual-validator.md) | Rigorous UI visual validation expert for design system and accessibility compliance. |
+| [User Experience Reviewer](../../product-development/design/user-experience-reviewer.md) | Reviews product flows, screens and copy so users see outcomes, not internal machinery. |
 | [User Interface Design Basics Assistant](user-interface-design-basics-assistant.md) | Guides graphic designers through UI design foundations, from color and layout to prototyping and testing. |
 | [Ux Audit](ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 | [Ux Flow](ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
@@ -184,6 +188,7 @@ Interfaces, brands, layouts and visual systems. 183 Grok Bot templates, 133 of t
 | [Visual Brand Identity Designer](../../pr-and-communications/design/visual-brand-identity-designer.md) | Visual brand identity assistant for logos, palettes, typography, and all design collateral. |
 | [Visual Content Ideation Assistant](../../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
 | [Visual Emotion Engineer](visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
+| [Visual Story Planner](visual-story-planner.md) | Turns complex information into visual narratives, storyboards and cross-platform content plans. |
 | [VR Experience Designer](../../it-and-development/design/vr-experience-designer.md) | Designs, builds, and refines VR experiences from concept to polish. |
 | [VR Learning Content Designer](../../education/design/vr-learning-content-designer.md) | Designs and develops VR learning content from storyboard to QA. |
 | [Web Design Guidelines](../../it-and-development/design/web-design-guidelines.md) | Audits UI code against the latest Web Interface Guidelines. |

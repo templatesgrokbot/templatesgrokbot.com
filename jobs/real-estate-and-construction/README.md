@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **155 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **164 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,62 @@ Property, building and site work. **155 ready-made Grok Bot templates** for this
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 38 |
-| [Productivity](productivity/README.md) | 38 |
-| [Security & Compliance](security-and-compliance/README.md) | 27 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 17 |
+| [Productivity](productivity/README.md) | 40 |
+| [Data Analysis](data-analysis/README.md) | 39 |
+| [Security & Compliance](security-and-compliance/README.md) | 30 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 18 |
 | [Research](research/README.md) | 13 |
-| [Writing & Content](writing-and-content/README.md) | 7 |
+| [Writing & Content](writing-and-content/README.md) | 8 |
 | [Design](design/README.md) | 5 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 5 |
 | [Knowledge Management](knowledge-management/README.md) | 3 |
-| [Office Tools](office-tools/README.md) | 1 |
+| [Office Tools](office-tools/README.md) | 2 |
 | [Support & Community](support-and-community/README.md) | 1 |
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Accounts Payable Processor](../finance/productivity/accounts-payable-processor.md) | Processes vendor and contractor payments with duplicate checks, spend limits and a full audit trail. |
+| [Calibration and Maintenance Scheduler](../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
+| [Change Order Manager](productivity/change-order-manager.md) | Manages construction change orders from documentation to compliance and performance tracking. |
+| [Client Portfolio Manager](productivity/client-portfolio-manager.md) | Manages client portfolios, tracks communications, and generates insights for real estate brokers. |
+| [Construction Progress Monitor](productivity/construction-progress-monitor.md) | Tracks construction progress, budgets, risks, and reports for contractors. |
+| [Construction Project Planner](productivity/construction-project-planner.md) | Plans, schedules, and tracks construction projects from site assessment to completion. |
+| [Construction Workforce Allocator](productivity/construction-workforce-allocator.md) | Optimizes construction workforce scheduling, allocation, tracking, and development. |
+| [Electrification Project Planner](../science-and-research/productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
+| [Equipment Maintenance Program Builder](../operations/productivity/equipment-maintenance-program-builder.md) | Builds and runs a complete equipment maintenance program from inspection to compliance tracking. |
+| [Executive Project Guidance](../executives-and-strategy/productivity/executive-project-guidance.md) | Guides EVPs through project planning, risk, budgets, teams, and reporting. |
+| [Facility Operations Manager](../executives-and-strategy/productivity/facility-operations-manager.md) | Manage facility maintenance, vendors, space, energy, safety, and projects from one chat assistant. |
+| [Facility Operations Planner](../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
+| [Facility Ops Chat Manager](../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
+| [GM Collaboration Planner](../executives-and-strategy/productivity/gm-collaboration-planner.md) | Helps general managers plan, run, and improve team collaboration across meetings, projects, and conflict. |
+| [Home Ops](../operations/productivity/home-ops.md) | Keeps a maintenance schedule for your house so nothing expensive fails unannounced. |
+| [Hotel Maintenance Schedule Coordinator](../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
+| [Invoice Automation](../finance/productivity/invoice-automation.md) | Generates, sends, tracks, and reconciles invoices across your accounting platform. |
+| [Invoice Chaser](../finance/productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
+| [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
+| [Operations Risk Mitigation Planner](../operations/productivity/operations-risk-mitigation-planner.md) | Identifies, assesses, and mitigates operational risks with structured plans and monitoring. |
+| [Production Deadline Planner](../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
+| [Production Resource Allocation Planner](../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
+| [Project Budget Management Assistant](../management/productivity/project-budget-management-assistant.md) | Guides project managers through budget planning, monitoring, and adjustments. |
+| [Project Management Assistant](../executives-and-strategy/productivity/project-management-assistant.md) | Plans, tracks, and optimizes projects for managing directors. |
+| [Project Management Coordination Assistant](../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
+| [Project Management Efficiency Assistant](../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
+| [Project Management Support Assistant](../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
+| [Project Manager](../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
+| [Project Planning Assistant](../management/productivity/project-planning-assistant.md) | Assists project managers with planning, analysis, and documentation tasks. |
+| [Project Progress Tracker](../management/productivity/project-progress-tracker.md) | Tracks project progress, milestones, resources, issues, risks, docs, stakeholders, dependencies, performance, and budget. |
+| [Project Risk Assessment Assistant](../management/productivity/project-risk-assessment-assistant.md) | Guides project managers through risk identification, analysis, mitigation, and communication. |
+| [Project Time Manager](../management/productivity/project-time-manager.md) | Plans, prioritizes, and audits your project time to cut waste and hit deadlines. |
+| [Property Staging Planner](productivity/property-staging-planner.md) | Stages properties end-to-end with trends, checklists, content, and staging guidance. |
+| [Real Estate Time Efficiency Planner](productivity/real-estate-time-efficiency-planner.md) | Organizes your real estate schedule, priorities, and workflows to save time and boost productivity. |
+| [Real Estate Transaction Coordinator](productivity/real-estate-transaction-coordinator.md) | Organizes, tracks, and coordinates every real estate transaction from contract to closing. |
+| [Safety Training and Drill Coordinator](../healthcare/productivity/safety-training-and-drill-coordinator.md) | Coordinates safety training and drills for health and safety specialists, from scheduling to compliance tracking. |
+| [Stakeholder Communication Manager](../management/productivity/stakeholder-communication-manager.md) | Manages all stakeholder communication for project managers, from analysis to audits. |
+| [Stakeholder Communication Planner](../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
+| [Vendor Lifecycle Manager](../operations/productivity/vendor-lifecycle-manager.md) | Streamlines vendor evaluation from research to exit with structured analysis and approvals. |
+| [Virtual Tour Coordinator](productivity/virtual-tour-coordinator.md) | Manages virtual property tours from scheduling to follow-up, with personalized experiences and client feedback. |
 
 ## Data Analysis
 
@@ -35,6 +80,7 @@ Property, building and site work. **155 ready-made Grok Bot templates** for this
 | [Bid Analysis and Selection Assistant](../operations/data-analysis/bid-analysis-and-selection-assistant.md) | Analyzes bids, compares suppliers, and supports procurement decisions with data-driven insights. |
 | [Budget and Forecast Assistant](../operations/data-analysis/budget-and-forecast-assistant.md) | Prepares budgets, forecasts revenue and expenses, and monitors financial performance for operations leaders. |
 | [Budget Planning Assistant](../executives-and-strategy/data-analysis/budget-planning-assistant.md) | Prepares your budget plan from data gathering to final documentation. |
+| [Capital Investment Advisor](../finance/data-analysis/capital-investment-advisor.md) | Evaluates capital spending decisions with ROI, payback, NPV and IRR, and gives a clear recommendation. |
 | [Comparative Market Analysis Assistant](data-analysis/comparative-market-analysis-assistant.md) | Builds complete comparative market analysis reports and pricing strategies for real estate brokers. |
 | [Construction Budget Estimator](data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Construction Risk Assessment Assistant](data-analysis/construction-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates construction project risks with AI-driven insights. |
@@ -66,49 +112,6 @@ Property, building and site work. **155 ready-made Grok Bot templates** for this
 | [Safety Hazard Risk Mapper](../operations/data-analysis/safety-hazard-risk-mapper.md) | Analyzes safety data, identifies hazards, and produces risk assessments for safety engineers. |
 | [Subcontractor Evaluation Assistant](data-analysis/subcontractor-evaluation-assistant.md) | Evaluates and selects subcontractors for construction projects through structured assessments. |
 
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Calibration and Maintenance Scheduler](../operations/productivity/calibration-and-maintenance-scheduler.md) | Plans, tracks, and documents equipment calibration and maintenance schedules. |
-| [Change Order Manager](productivity/change-order-manager.md) | Manages construction change orders from documentation to compliance and performance tracking. |
-| [Client Portfolio Manager](productivity/client-portfolio-manager.md) | Manages client portfolios, tracks communications, and generates insights for real estate brokers. |
-| [Construction Progress Monitor](productivity/construction-progress-monitor.md) | Tracks construction progress, budgets, risks, and reports for contractors. |
-| [Construction Project Planner](productivity/construction-project-planner.md) | Plans, schedules, and tracks construction projects from site assessment to completion. |
-| [Construction Workforce Allocator](productivity/construction-workforce-allocator.md) | Optimizes construction workforce scheduling, allocation, tracking, and development. |
-| [Electrification Project Planner](../science-and-research/productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
-| [Equipment Maintenance Program Builder](../operations/productivity/equipment-maintenance-program-builder.md) | Builds and runs a complete equipment maintenance program from inspection to compliance tracking. |
-| [Executive Project Guidance](../executives-and-strategy/productivity/executive-project-guidance.md) | Guides EVPs through project planning, risk, budgets, teams, and reporting. |
-| [Facility Operations Manager](../executives-and-strategy/productivity/facility-operations-manager.md) | Manage facility maintenance, vendors, space, energy, safety, and projects from one chat assistant. |
-| [Facility Operations Planner](../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
-| [Facility Ops Chat Manager](../operations/productivity/facility-ops-chat-manager.md) | Plan and manage facility operations from maintenance to sustainability in one chat. |
-| [GM Collaboration Planner](../executives-and-strategy/productivity/gm-collaboration-planner.md) | Helps general managers plan, run, and improve team collaboration across meetings, projects, and conflict. |
-| [Home Ops](../operations/productivity/home-ops.md) | Keeps a maintenance schedule for your house so nothing expensive fails unannounced. |
-| [Hotel Maintenance Schedule Coordinator](../hospitality-and-events/productivity/hotel-maintenance-schedule-coordinator.md) | Coordinates all hotel maintenance scheduling, from equipment to vendors, with predictive insights. |
-| [Invoice Chaser](../finance/productivity/invoice-chaser.md) | Tracks unpaid invoices and writes the follow-up that gets you paid without burning the client. |
-| [Operations Risk Assessment Guide](../operations/productivity/operations-risk-assessment-guide.md) | Guides operations managers through risk assessment, mitigation, and monitoring. |
-| [Operations Risk Mitigation Planner](../operations/productivity/operations-risk-mitigation-planner.md) | Identifies, assesses, and mitigates operational risks with structured plans and monitoring. |
-| [Production Deadline Planner](../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
-| [Production Resource Allocation Planner](../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |
-| [Project Budget Management Assistant](../management/productivity/project-budget-management-assistant.md) | Guides project managers through budget planning, monitoring, and adjustments. |
-| [Project Management Assistant](../executives-and-strategy/productivity/project-management-assistant.md) | Plans, tracks, and optimizes projects for managing directors. |
-| [Project Management Coordination Assistant](../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
-| [Project Management Efficiency Assistant](../operations/productivity/project-management-efficiency-assistant.md) | Streamlines project management for global operations heads with AI-driven analysis and reporting. |
-| [Project Management Support Assistant](../operations/productivity/project-management-support-assistant.md) | Plans, tracks, and reports on projects from schedule to budget to stakeholders. |
-| [Project Manager](../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
-| [Project Planning Assistant](../management/productivity/project-planning-assistant.md) | Assists project managers with planning, analysis, and documentation tasks. |
-| [Project Progress Tracker](../management/productivity/project-progress-tracker.md) | Tracks project progress, milestones, resources, issues, risks, docs, stakeholders, dependencies, performance, and budget. |
-| [Project Risk Assessment Assistant](../management/productivity/project-risk-assessment-assistant.md) | Guides project managers through risk identification, analysis, mitigation, and communication. |
-| [Project Time Manager](../management/productivity/project-time-manager.md) | Plans, prioritizes, and audits your project time to cut waste and hit deadlines. |
-| [Property Staging Planner](productivity/property-staging-planner.md) | Stages properties end-to-end with trends, checklists, content, and staging guidance. |
-| [Real Estate Time Efficiency Planner](productivity/real-estate-time-efficiency-planner.md) | Organizes your real estate schedule, priorities, and workflows to save time and boost productivity. |
-| [Real Estate Transaction Coordinator](productivity/real-estate-transaction-coordinator.md) | Organizes, tracks, and coordinates every real estate transaction from contract to closing. |
-| [Safety Training and Drill Coordinator](../healthcare/productivity/safety-training-and-drill-coordinator.md) | Coordinates safety training and drills for health and safety specialists, from scheduling to compliance tracking. |
-| [Stakeholder Communication Manager](../management/productivity/stakeholder-communication-manager.md) | Manages all stakeholder communication for project managers, from analysis to audits. |
-| [Stakeholder Communication Planner](../management/productivity/stakeholder-communication-planner.md) | Builds stakeholder communication plans, templates, and schedules for senior managers. |
-| [Vendor Lifecycle Manager](../operations/productivity/vendor-lifecycle-manager.md) | Streamlines vendor evaluation from research to exit with structured analysis and approvals. |
-| [Virtual Tour Coordinator](productivity/virtual-tour-coordinator.md) | Manages virtual property tours from scheduling to follow-up, with personalized experiences and client feedback. |
-
 ## Security & Compliance
 
 | Template | What it does |
@@ -121,11 +124,13 @@ Property, building and site work. **155 ready-made Grok Bot templates** for this
 | [Contractor Safety Oversight Assistant](../healthcare/security-and-compliance/contractor-safety-oversight-assistant.md) | Oversees contractor safety oversight: training, audits, risk, compliance, and improvement. |
 | [EHS Safety Assistant](../operations/security-and-compliance/ehs-safety-assistant.md) | Handles EHS hazard checks, training, compliance, and incident analysis for safety engineers. |
 | [Emergency Response Planner](../operations/security-and-compliance/emergency-response-planner.md) | Emergency response planning assistant for safety engineers, from risk assessment to post-emergency review. |
+| [EOL Resistor Calculator](security-and-compliance/eol-resistor-calculator.md) | Sizes and validates end-of-line resistor loops for hardwired intrusion alarm zones. |
 | [Hazard Drill Compliance Builder](../healthcare/security-and-compliance/hazard-drill-compliance-builder.md) | Emergency response planning assistant for health and safety specialists — from hazard ID to drills and compliance. |
 | [Hazard Identification Assistant](../operations/security-and-compliance/hazard-identification-assistant.md) | Turns workplace data and documents into hazard identifications, risk assessments, and safety actions. |
 | [Health & Safety Compliance Assistant](../operations/security-and-compliance/health-safety-compliance-assistant.md) | Helps Heads of Operations run health and safety compliance: inspections, policies, training, risk, audits, incidents, and reporting. |
 | [Health and Safety Policy Assistant](../healthcare/security-and-compliance/health-and-safety-policy-assistant.md) | Develops, reviews, and improves health and safety policies for your workplace. |
 | [Incident Investigation Support Specialist](../healthcare/security-and-compliance/incident-investigation-support-specialist.md) | Streamlines incident investigations from witness statements to final reports and policy. |
+| [Legal Document Review](../legal/security-and-compliance/legal-document-review.md) | Reviews contracts and legal documents, flags risky clauses, and compares versions for attorney sign-off. |
 | [Occupational Health and Safety Assistant](../operations/security-and-compliance/occupational-health-and-safety-assistant.md) | Manages occupational health and safety tasks from risk assessment to compliance and wellness programs. |
 | [Operations Risk Assessment Planner](../operations/security-and-compliance/operations-risk-assessment-planner.md) | Identifies, analyzes, prioritizes, and plans mitigation for operational risks, from supply chain to compliance, with prepared monitoring and… |
 | [PPE Management Assistant](../healthcare/security-and-compliance/ppe-management-assistant.md) | Manages PPE inventory, selection, training, compliance, and records for workplace safety. |
@@ -139,6 +144,7 @@ Property, building and site work. **155 ready-made Grok Bot templates** for this
 | [Safety Compliance Planner](../operations/security-and-compliance/safety-compliance-planner.md) | Turns safety standards into checklists, training, and audit plans for quality control inspectors. |
 | [Safety Protocol Development Assistant](../operations/security-and-compliance/safety-protocol-development-assistant.md) | Develops, reviews, and updates workplace safety protocols from research to training. |
 | [Safety Risk Assessment Copilot](../healthcare/security-and-compliance/safety-risk-assessment-copilot.md) | Comprehensive risk assessment assistant for health and safety specialists, from hazard ID to compliance and training. |
+| [Structural Design Checker](security-and-compliance/structural-design-checker.md) | Checks structural and geotechnical designs against the governing code and reports the numbers. |
 | [Workplace Safety Audit Copilot](../government/security-and-compliance/workplace-safety-audit-copilot.md) | Keeps your workplace compliant with health and safety rules, from policies to audits. |
 
 ## Sales & Negotiation
@@ -153,6 +159,7 @@ Property, building and site work. **155 ready-made Grok Bot templates** for this
 | [Personalized Sales Strategy Assistant](../sales/sales-and-negotiation/personalized-sales-strategy-assistant.md) | Personalized sales strategies from customer data to tailored pitches and follow-ups. |
 | [Real Estate Negotiation Prep](sales-and-negotiation/real-estate-negotiation-prep.md) | Prepares real estate brokers for negotiations with market data, strategy, and documentation. |
 | [Real Estate Networking Partner](sales-and-negotiation/real-estate-networking-partner.md) | Finds events, partners, and contacts; drafts outreach; and builds your real estate network. |
+| [Real Estate Transaction Guide](sales-and-negotiation/real-estate-transaction-guide.md) | Guides buyers and sellers through search, listing, offers, and closing with documented market analysis. |
 | [Sales Call Script Builder](../sales/sales-and-negotiation/sales-call-script-builder.md) | Builds and refines personalized sales call scripts that engage and convert. |
 | [Sales Script Builder](../sales/sales-and-negotiation/sales-script-builder.md) | Crafts and refines sales scripts for sales managers, from research to follow-up. |
 | [Supplier Negotiation Assistant](../operations/sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
@@ -190,6 +197,7 @@ Property, building and site work. **155 ready-made Grok Bot templates** for this
 | [Construction Specification Assistant](writing-and-content/construction-specification-assistant.md) | Drafts, checks, and explains technical specs for construction projects. |
 | [Contract Redliner](../legal/writing-and-content/contract-redliner.md) | Reads contracts and produces redline suggestions with replacement language and negotiation points. |
 | [Custom Clause Generator](../legal/writing-and-content/custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
+| [DALI Bus Commissioner](writing-and-content/dali-bus-commissioner.md) | Plans and documents DALI and DALI-2 bus commissioning, from short-address assignment to DT8 color setup. |
 | [Property Listing Description Assistant](writing-and-content/property-listing-description-assistant.md) | Crafts compelling, optimized property listings that attract the right buyers and close faster. |
 | [Safety Culture Program Builder](../operations/writing-and-content/safety-culture-program-builder.md) | Builds and runs your safety culture program, from training to campaigns to metrics. |
 
@@ -226,6 +234,7 @@ Property, building and site work. **155 ready-made Grok Bot templates** for this
 | Template | What it does |
 |---|---|
 | [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
+| [Invoice Generator](../finance/office-tools/invoice-generator.md) | Turns your billing details into a clean, itemized PDF invoice with correct totals. |
 
 ## Support & Community
 

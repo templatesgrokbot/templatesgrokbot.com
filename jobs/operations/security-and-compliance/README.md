@@ -1,6 +1,6 @@
 # Security & Compliance templates for Operations
 
-Authorised security testing, audits and regulatory work. 110 Grok Bot templates, 52 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 114 Grok Bot templates, 54 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Authorised security testing, audits and regulatory work. 110 Grok Bot templates,
 | [Contract Termination Guidance](../../legal/security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
 | [Corrective Action Planning Assistant](corrective-action-planning-assistant.md) | Turns inspection data into prioritized, compliant corrective action plans with progress tracking. |
 | [Data Privacy Compliance](../../legal/security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
+| [Device Fleet Manager](../../it-and-development/security-and-compliance/device-fleet-manager.md) | Plans, documents and tracks MDM enrollment, hardening and compliance for company devices. |
 | [Digital Forensics](../../it-and-development/security-and-compliance/digital-forensics.md) | Authorized digital forensics: memory, disk, PCAP, and artifact triage for incident response. |
 | [EHS Safety Assistant](ehs-safety-assistant.md) | Handles EHS hazard checks, training, compliance, and incident analysis for safety engineers. |
 | [Emergency Response Planner](emergency-response-planner.md) | Emergency response planning assistant for safety engineers, from risk assessment to post-emergency review. |
@@ -37,6 +38,7 @@ Authorised security testing, audits and regulatory work. 110 Grok Bot templates,
 | [Ethical Compliance Monitor](../../legal/security-and-compliance/ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
 | [Event Staffing Compliance](../../human-resources/security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
 | [Fda Food Safety Auditor](fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
+| [FDA QSR Audit Prep](fda-qsr-audit-prep.md) | Pressure-tests your FDA QSR evidence with six forcing questions before an audit, inspection, or 483 response. |
 | [Fire Safety Analysis Planner](fire-safety-analysis-planner.md) | Fire safety analysis, planning, and compliance support for safety engineers. From hazard ID to drills and audits, all in one place. |
 | [Fleet Compliance Monitor](fleet-compliance-monitor.md) | Keeps your fleet compliant with DOT, environmental, safety, and international regulations. — Tracks updates, records, and training so nothing slips. |
 | [Freight Broker Compliance Assistant](../../sales/security-and-compliance/freight-broker-compliance-assistant.md) | Freight broker compliance assistant for carrier checks, audits, and regulatory updates. |
@@ -51,8 +53,10 @@ Authorised security testing, audits and regulatory work. 110 Grok Bot templates,
 | [Incident Investigation Support Specialist](../../healthcare/security-and-compliance/incident-investigation-support-specialist.md) | Streamlines incident investigations from witness statements to final reports and policy. |
 | [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [International Procurement Compliance Guide](international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
+| [ISO 13485 Audit Prep](iso-13485-audit-prep.md) | Pressure-tests your ISO 13485 QMS evidence before an internal audit, MDR/FDA review, or launch. |
 | [Jfrog Sec](../../it-and-development/security-and-compliance/jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |
 | [Legal Compliance Review Assistant](../../legal/security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
+| [Linux Server Hardening](../../it-and-development/security-and-compliance/linux-server-hardening.md) | Hardens Linux servers to CIS baselines and reports exactly what changed. |
 | [Logistics Compliance Advisor](logistics-compliance-advisor.md) | Logistics compliance research, documentation, and audit support in one chat. |
 | [Logistics Compliance Assistant](logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
 | [Logistics Compliance Tracker](logistics-compliance-tracker.md) | Keeps logistics operations compliant by tracking, analyzing, and communicating regulatory changes. |

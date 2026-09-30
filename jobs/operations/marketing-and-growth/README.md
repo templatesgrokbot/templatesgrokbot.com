@@ -1,14 +1,16 @@
 # Marketing & Growth templates for Operations
 
-Campaigns, ads, conversion and launch plans. 17 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 20 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Activecampaign Automation](../../marketing/marketing-and-growth/activecampaign-automation.md) | Automate ActiveCampaign contacts, tags, lists, automations, and tasks via Rube MCP. |
+| [China E-Commerce Operator](../../marketing/marketing-and-growth/china-e-commerce-operator.md) | Runs and reports China e-commerce store operations across Taobao, Tmall, Pinduoduo, JD and Douyin. |
 | [Churn Prevention](../../marketing/marketing-and-growth/churn-prevention.md) | Reduce voluntary and involuntary churn with cancel flows, save offers, and dunning strategies. |
 | [Convertkit Automation](../../marketing/marketing-and-growth/convertkit-automation.md) | Automate ConvertKit subscriber, tag, and broadcast management via Rube MCP. |
+| [Cross-Border E-Commerce Strategist](cross-border-e-commerce-strategist.md) | Plans and audits cross-border e-commerce operations across marketplaces, logistics, compliance, and localization. |
 | [Digital Marketing Strategy Formulator](../../management/marketing-and-growth/digital-marketing-strategy-formulator.md) | Formulates data-driven digital marketing strategies from market research to performance reporting. |
 | [E-commerce Launch Strategist](../../management/marketing-and-growth/e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
 | [Email Campaign Performance Analyst](../../management/marketing-and-growth/email-campaign-performance-analyst.md) | Analyzes email campaign performance and returns actionable insights for e-commerce managers. |
@@ -23,5 +25,6 @@ Campaigns, ads, conversion and launch plans. 17 Grok Bot templates, 1 of them fi
 | [Seo Sitemap](../../marketing/marketing-and-growth/seo-sitemap.md) | Analyze or generate XML sitemaps with validation and quality checks. |
 | [Site Architecture](../../marketing/marketing-and-growth/site-architecture.md) | Plan and restructure website hierarchy, navigation, URL patterns, and internal linking. |
 | [Social Metadata Hardening](../../marketing/marketing-and-growth/social-metadata-hardening.md) | Fix social sharing previews so URLs render as rich cards on all platforms. |
+| [WeCom Private Domain Operator](../../marketing/marketing-and-growth/wecom-private-domain-operator.md) | Builds and runs a WeCom private-domain operation with segmented groups, lifecycle outreach and funnel tracking. |
 
 [← All Operations templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/operations)

@@ -1,6 +1,6 @@
 # Productivity templates for Hospitality and Events
 
-Plan, prioritise and clear the recurring admin. 39 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 42 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Plan, prioritise and clear the recurring admin. 39 Grok Bot templates, 6 of them
 | [Crisis Management Operations Assistant](../../operations/productivity/crisis-management-operations-assistant.md) | Prepares, coordinates, and reviews crisis management for operations managers. |
 | [Crisis Management Planner](../../management/productivity/crisis-management-planner.md) | Plans and prepares crisis management for service managers. |
 | [Crisis Management Planning Assistant](../../operations/productivity/crisis-management-planning-assistant.md) | Builds and maintains your crisis management plans, protocols, and training. |
+| [Email Triage Classifier](../../executives-and-strategy/productivity/email-triage-classifier.md) | Sorts your inbox by category, priority and required action, and tells you what to do first. |
 | [Emergency Preparedness Assistant](../../customer-support/productivity/emergency-preparedness-assistant.md) | Prepares emergency plans, contacts, supplies, and drills for your workplace. |
 | [Employee Scheduling Optimizer](../../operations/productivity/employee-scheduling-optimizer.md) | Turns employee availability, strengths, and business data into fair, compliant schedules. |
 | [Equipment Maintenance Program Builder](../../operations/productivity/equipment-maintenance-program-builder.md) | Builds and runs a complete equipment maintenance program from inspection to compliance tracking. |
@@ -18,6 +19,7 @@ Plan, prioritise and clear the recurring admin. 39 Grok Bot templates, 6 of them
 | [Event Planning and Management Assistant](../../pr-and-communications/productivity/event-planning-and-management-assistant.md) | Plans, promotes, and runs your events from venue to post-event report. |
 | [Event Staffing Ordering](../../operations/productivity/event-staffing-ordering.md) | Order W-2 compliant event staff across 300+ US/Canadian markets via TempGuru. |
 | [Executive Event Orchestrator](../../executives-and-strategy/productivity/executive-event-orchestrator.md) | Plans, promotes, and runs events from budget to post-event follow-up. |
+| [Expense Report Builder](../../finance/productivity/expense-report-builder.md) | Turns your receipts and transactions into categorized expense reports ready for reimbursement or tax prep. |
 | [Expense Tracking Manager](../../finance/productivity/expense-tracking-manager.md) | Tracks, verifies, and reports expenses with receipts, budgets, and policy checks. |
 | [Facility Operations Manager](../../executives-and-strategy/productivity/facility-operations-manager.md) | Manage facility maintenance, vendors, space, energy, safety, and projects from one chat assistant. |
 | [Facility Operations Planner](../../operations/productivity/facility-operations-planner.md) | Plans and runs facility maintenance, vendors, space, security, energy, waste, emergencies, budgets, and compliance. |
@@ -32,6 +34,7 @@ Plan, prioritise and clear the recurring admin. 39 Grok Bot templates, 6 of them
 | [Itinerary Optimizer](itinerary-optimizer.md) | Optimizes multi-stop trips with realistic timing, reservations, and buffer time. |
 | [Meal Prep](../../operations/productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Operations Crisis Navigator](../../operations/productivity/operations-crisis-navigator.md) | Plans and guides crisis response, from risk assessment to recovery. |
+| [Operations Process Manager](../../operations/productivity/operations-process-manager.md) | Maps, measures and standardizes business processes so operations scale without heroics. |
 | [Pharma Event Planning Assistant](../../sales/productivity/pharma-event-planning-assistant.md) | Plans, promotes, and manages pharmaceutical events and conferences end-to-end. |
 | [Production Deadline Planner](../../operations/productivity/production-deadline-planner.md) | Plans, prioritizes, tracks, and communicates production deadlines to keep projects on time. |
 | [Production Resource Allocation Planner](../../operations/productivity/production-resource-allocation-planner.md) | Optimizes production resource allocation across equipment, staff, budget, materials, space, and time. |

@@ -1,6 +1,6 @@
 # Design templates for PR and Communications
 
-Interfaces, brands, layouts and visual systems. 7 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 9 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,9 @@ Interfaces, brands, layouts and visual systems. 7 Grok Bot templates, 3 of them 
 | [Brand Guidelines](../../marketing/design/brand-guidelines.md) | Apply brand colors, typography, and tone to user-facing content and artifacts. |
 | [Editorial Layout Design Assistant](editorial-layout-design-assistant.md) | Design layout and typography suggestions for editors, from fonts to responsive grids. |
 | [Format and Layout Optimizer](../../writers/design/format-and-layout-optimizer.md) | Optimizes content format and layout for readability, engagement, and accessibility. |
+| [Infographic Design Planner](../../creatives/design/infographic-design-planner.md) | Turns your topic and data into a complete infographic design specification you can hand to a designer. |
 | [Photo Selection and Curation Assistant](photo-selection-and-curation-assistant.md) | Helps editors select, organize, and enhance photos while ensuring rights compliance. |
 | [Visual Brand Identity Designer](visual-brand-identity-designer.md) | Visual brand identity assistant for logos, palettes, typography, and all design collateral. |
+| [Visual Story Planner](../../creatives/design/visual-story-planner.md) | Turns complex information into visual narratives, storyboards and cross-platform content plans. |
 
 [← All PR and Communications templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/pr-and-communications)

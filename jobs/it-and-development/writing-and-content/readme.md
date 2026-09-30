@@ -1,6 +1,6 @@
 # Writing & Content templates for IT and Development
 
-Plan, write and edit articles, copy and documentation. 50 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 52 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -44,6 +44,7 @@ Plan, write and edit articles, copy and documentation. 50 Grok Bot templates, 33
 | [Se Technical Writer](se-technical-writer.md) | Transforms complex technical concepts into clear, engaging developer documentation and educational content. |
 | [SEO Content Refresh Planner](seo-content-refresh-planner.md) | Refreshes and updates your website content for SEO and engagement. |
 | [SEO Content Strategy Planner](seo-content-strategy-planner.md) | Plans and optimizes SEO content from research to performance tracking. |
+| [Shipping Documentation Set](shipping-documentation-set.md) | Builds the documentation set that makes an AI-built app reviewable before it ships. |
 | [Software Documentation Assistant](software-documentation-assistant.md) | Documentation assistant for software developers creating clear, consistent code and user docs. |
 | [System Requirements Analysis Assistant](system-requirements-analysis-assistant.md) | Turns raw stakeholder input into clear, validated system requirements for systems analysts. |
 | [Systems Documentation Assistant](systems-documentation-assistant.md) | Turns system admin notes into clear, structured documentation and reports. |
@@ -55,6 +56,7 @@ Plan, write and edit articles, copy and documentation. 50 Grok Bot templates, 33
 | [Unslop](../../writers/writing-and-content/unslop.md) | Post-process AI text through unslop CLI to strip AI writing patterns before publishing. |
 | [Unslop File](../../writers/writing-and-content/unslop-file.md) | Rewrite memory files to sound human-written while preserving code, URLs, and headings exactly. |
 | [Website Content Manager](website-content-manager.md) | Manages your website's content lifecycle from planning to promotion and analytics. |
+| [Weekly Status Reporter](../../management/writing-and-content/weekly-status-reporter.md) | Turns your week's notes into a clean status report for the audience you name. |
 | [Wiki Page Writer](wiki-page-writer.md) | Generate technical documentation pages with code-traced depth and Mermaid diagrams. |
 
 [← All IT and Development templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/it-and-development)
