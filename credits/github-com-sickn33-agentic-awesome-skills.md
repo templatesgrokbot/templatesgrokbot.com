@@ -1,6 +1,6 @@
 # Credits: github.com/sickn33/agentic-awesome-skills
 
-1,843 TemplatesGrokBot templates are adapted from work published at [github.com/sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+1,845 TemplatesGrokBot templates are adapted from work published at [github.com/sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -485,6 +485,7 @@
 | [Confluence Automation](../jobs/operations/knowledge-management/confluence-automation.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Connection Auth Rules Builder](../jobs/it-and-development/coding/connection-auth-rules-builder.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/connection-auth-rules) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Constant Time Analysis](../jobs/it-and-development/security-and-compliance/constant-time-analysis.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Constraint Quality Bar](../jobs/it-and-development/writing-and-content/constraint-quality-bar.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/constraint-driven-development) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Container Image Scanner](../jobs/it-and-development/security-and-compliance/container-image-scanner.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/container-scanning) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Container Registry Operations](../jobs/it-and-development/cloud-and-devops/container-registry-operations.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/container-registries) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Container Security Hardening](../jobs/it-and-development/security-and-compliance/container-security-hardening.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
@@ -588,6 +589,7 @@
 | [Defi Protocol Templates](../jobs/it-and-development/generative-code/defi-protocol-templates.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Delegating To Agents](../jobs/it-and-development/generative-ai-and-llm/delegating-to-agents.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Dep](../jobs/it-and-development/cloud-and-devops/dep.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Dependency Drift Reporter](../jobs/it-and-development/coding/dependency-drift-reporter.md) | [original](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/since-cutoff) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Dependency Management Deps Audit](../jobs/it-and-development/coding/dependency-management-deps-audit.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Dependency Upgrade](../jobs/it-and-development/coding/dependency-upgrade.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Deployment Engineer](../jobs/it-and-development/cloud-and-devops/deployment-engineer.md) | [original](https://github.com/sickn33/agentic-awesome-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |

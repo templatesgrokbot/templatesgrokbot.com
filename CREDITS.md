@@ -1,14 +1,14 @@
 # Credits
 
-3,881 of the 7,103 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
+3,884 of the 7,106 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
 
 Every adapted template also names its original (`adapted_from`) and its license (`source_license`) in its front matter, and links back here at the end of the file.
 
 | Source | Templates | License | Details |
 |---|---:|---|---|
-| [github.com/sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 1,843 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-sickn33-agentic-awesome-skills.md) |
+| [github.com/sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 1,845 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-sickn33-agentic-awesome-skills.md) |
 | [aitmpl.com](https://www.aitmpl.com) | 817 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md), [Apache-2.0](LICENSES/Apache-2.0.md) | [list](credits/aitmpl-com.md) |
-| [github.com/bestagentkits/agency-skills](https://github.com/bestagentkits/agency-skills) | 304 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-bestagentkits-agency-skills.md) |
+| [github.com/bestagentkits/agency-skills](https://github.com/bestagentkits/agency-skills) | 305 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-bestagentkits-agency-skills.md) |
 | [github.com/OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) | 116 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-onewave-ai-claude-skills.md) |
 | [github.com/elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 65 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-elementalsouls-claude-bughunter.md) |
 | [collectivebrain.de](https://collectivebrain.de) | 61 | [see the original](LICENSES/README.md) | [list](credits/collectivebrain-de.md) |

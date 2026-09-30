@@ -1,6 +1,6 @@
 # Writing & Content templates for IT and Development
 
-Plan, write and edit articles, copy and documentation. 52 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 53 Grok Bot templates, 35 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Plan, write and edit articles, copy and documentation. 52 Grok Bot templates, 34
 | [Api Documenter](api-documenter.md) | Creates OpenAPI specs, interactive portals, and code examples for APIs. |
 | [App Store Changelog](app-store-changelog.md) | Generate App Store release notes from git history since the last tag. |
 | [Changelog Updates](changelog-updates.md) | Write release notes and changelogs developers actually read, with clear versioning and breaking-change flags. |
+| [Constraint Quality Bar](constraint-quality-bar.md) | Writes your project's quality bar as a CONSTRAINTS.md file with numbers, so agents can't quietly lower it. |
 | [Dev To Hashnode](../../marketing/writing-and-content/dev-to-hashnode.md) | Publish and cross-post developer content to Dev.to and Hashnode. |
 | [Developer Advocacy](../../marketing/writing-and-content/developer-advocacy.md) | Prep conference talks, live demos, podcast pitches, and public builds with structured checklists and templates. |
 | [Devrel Content](../../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |

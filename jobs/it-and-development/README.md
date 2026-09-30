@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **3,292 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **3,295 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Engineers, DevOps, security and IT teams. **3,292 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Coding](coding/README.md) | 1,093 |
+| [Coding](coding/README.md) | 1,095 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 534 |
 | [Security & Compliance](security-and-compliance/README.md) | 379 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 251 |
@@ -21,7 +21,7 @@ Engineers, DevOps, security and IT teams. **3,292 ready-made Grok Bot templates*
 | [Design](design/README.md) | 113 |
 | [Generative Code](generative-code/README.md) | 98 |
 | [Knowledge Management](knowledge-management/README.md) | 66 |
-| [Writing & Content](writing-and-content/README.md) | 52 |
+| [Writing & Content](writing-and-content/README.md) | 53 |
 | [Prompt Engineering](prompt-engineering/README.md) | 37 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 36 |
 | [Support & Community](support-and-community/README.md) | 32 |
@@ -50,7 +50,7 @@ Engineers, DevOps, security and IT teams. **3,292 ready-made Grok Bot templates*
 | [Powershell Windows](coding/powershell-windows.md) | Provides PowerShell patterns, operator syntax, error handling, and pitfalls for Windows scripting. |
 | [Tdd Orchestrator](coding/tdd-orchestrator.md) | Enforces red-green-refactor cycles and coordinates multi-agent TDD workflows across software projects. |
 
-[All 1,093 Coding templates →](coding/README.md)
+[All 1,095 Coding templates →](coding/README.md)
 
 ## Cloud & DevOps
 
@@ -200,7 +200,7 @@ Engineers, DevOps, security and IT teams. **3,292 ready-made Grok Bot templates*
 | [Resume Bullet Writer](../human-resources/writing-and-content/resume-bullet-writer.md) | Transform weak resume bullets into achievement-focused statements with metrics and impact. |
 | [Software Documentation Assistant](writing-and-content/software-documentation-assistant.md) | Documentation assistant for software developers creating clear, consistent code and user docs. |
 
-[All 52 Writing & Content templates →](writing-and-content/README.md)
+[All 53 Writing & Content templates →](writing-and-content/README.md)
 
 ## Prompt Engineering
 

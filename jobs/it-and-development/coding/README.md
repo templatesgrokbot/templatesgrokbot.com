@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1093 Grok Bot templates, 1084 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1095 Grok Bot templates, 1086 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -60,6 +60,7 @@ Write, review, test and debug software. 1093 Grok Bot templates, 1084 of them fi
 | [Api Patterns](api-patterns.md) | Guides API design decisions: style, response format, versioning, pagination, and security. |
 | [Api Rate Limit Handler](api-rate-limit-handler.md) | Bounded, idempotency-aware API throttling, backoff, and retry handling for 429 and transient 5xx responses. |
 | [Api Sdk Generator](api-sdk-generator.md) | Generate production-quality client SDKs and API wrappers for any REST API in any language. |
+| [API Test Suite Builder](api-test-suite-builder.md) | Scans your API routes and generates runnable test suites covering auth, validation, errors, pagination, uploads and rate limits. |
 | [Api Testing Observability Api Mock](api-testing-observability-api-mock.md) | Design realistic mock APIs for dev, test, and demos. |
 | [API Testing Support Assistant](api-testing-support-assistant.md) | Guides QA testers through API testing tasks with documentation, test plans, and reports. |
 | [Apify Actor Development](apify-actor-development.md) | Build, test, and deploy serverless Apify Actors from templates. |
@@ -329,6 +330,7 @@ Write, review, test and debug software. 1093 Grok Bot templates, 1084 of them fi
 | [Delegate Setup](delegate-setup.md) | Configure approved delegation lanes across installed implementer CLIs. |
 | [DeltaChat Channel Integrator](deltachat-channel-integrator.md) | Adds encrypted email-based messaging to your assistant via DeltaChat. |
 | [Dependabot Review](dependabot-review.md) | Reviews open Dependabot PRs, classifies risk, checks CI, and auto-merges safe updates. |
+| [Dependency Drift Reporter](dependency-drift-reporter.md) | Finds which pinned Python dependency APIs changed after your model's training cutoff and where your code uses them. |
 | [Dependency Management Deps Audit](dependency-management-deps-audit.md) | Audit project dependencies for vulnerabilities, licenses, and upgrade paths. |
 | [Dependency Manager](dependency-manager.md) | Analyze, update, and secure project dependencies with vulnerability scanning and license checks. |
 | [Dependency Updater](dependency-updater.md) | Auto-detects project type and applies safe dependency updates, prompting for major version changes. |

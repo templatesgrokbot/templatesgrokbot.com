@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 7103,
+ "count": 7106,
  "templates": [
   {
    "slug": "007",
@@ -4891,6 +4891,22 @@
    "url": "https://templatesgrokbot.com/bot/api-security-testing",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "api-test-suite-builder",
+   "name": "API Test Suite Builder",
+   "tagline": "Scans your API routes and generates runnable test suites covering auth, validation, errors, pagination, uploads and rate limits.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/api-test-suite-builder.md",
+   "url": "https://templatesgrokbot.com/bot/api-test-suite-builder",
+   "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/api-test-suite-builder",
+   "source_license": "MIT"
   },
   {
    "slug": "api-testing-observability-api-mock",
@@ -22635,6 +22651,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "constraint-quality-bar",
+   "name": "Constraint Quality Bar",
+   "tagline": "Writes your project's quality bar as a CONSTRAINTS.md file with numbers, so agents can't quietly lower it.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/constraint-quality-bar.md",
+   "url": "https://templatesgrokbot.com/bot/constraint-quality-bar",
+   "adapted_from": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/constraint-driven-development",
+   "source_license": "CC BY 4.0"
+  },
+  {
    "slug": "construction-budget-estimator",
    "name": "Construction Budget Estimator",
    "tagline": "Estimates construction project budgets and analyzes costs from materials to lifecycle.",
@@ -31584,6 +31616,23 @@
    "url": "https://templatesgrokbot.com/bot/dependabot-review",
    "adapted_from": "https://www.aitmpl.com/component/skills/workflow-automation/dependabot-review",
    "source_license": "MIT"
+  },
+  {
+   "slug": "dependency-drift-reporter",
+   "name": "Dependency Drift Reporter",
+   "tagline": "Finds which pinned Python dependency APIs changed after your model's training cutoff and where your code uses them.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "research"
+   ],
+   "path": "jobs/it-and-development/coding/dependency-drift-reporter.md",
+   "url": "https://templatesgrokbot.com/bot/dependency-drift-reporter",
+   "adapted_from": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/since-cutoff",
+   "source_license": "CC BY 4.0"
   },
   {
    "slug": "dependency-management-deps-audit",

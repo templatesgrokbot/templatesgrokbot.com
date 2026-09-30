@@ -1,6 +1,6 @@
 # Credits: github.com/bestagentkits/agency-skills
 
-304 TemplatesGrokBot templates are adapted from work published at [github.com/bestagentkits/agency-skills](https://github.com/bestagentkits/agency-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+305 TemplatesGrokBot templates are adapted from work published at [github.com/bestagentkits/agency-skills](https://github.com/bestagentkits/agency-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -23,6 +23,7 @@
 | [AIMS Audit Interrogator](../jobs/legal/security-and-compliance/aims-audit-interrogator.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/aims-audit) | [MIT](../LICENSES/MIT.md) |
 | [Animated Landing Page Builder](../jobs/marketing/generative-code/animated-landing-page-builder.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/landing) | [MIT](../LICENSES/MIT.md) |
 | [Ansoff Growth Matrix](../jobs/executives-and-strategy/marketing-and-growth/ansoff-growth-matrix.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/pm-skills/ansoff-matrix) | [MIT](../LICENSES/MIT.md) |
+| [API Test Suite Builder](../jobs/it-and-development/coding/api-test-suite-builder.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/api-test-suite-builder) | [MIT](../LICENSES/MIT.md) |
 | [Apple HIG Auditor](../jobs/creatives/design/apple-hig-auditor.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/apple-hig-expert) | [MIT](../LICENSES/MIT.md) |
 | [Architecture Scaling Review](../jobs/it-and-development/cloud-and-devops/architecture-scaling-review.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/cto-review) | [MIT](../LICENSES/MIT.md) |
 | [Article Cover Designer](../jobs/creatives/generative-art/article-cover-designer.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/baoyu-skills/baoyu-cover-image) | [MIT](../LICENSES/MIT.md) |
