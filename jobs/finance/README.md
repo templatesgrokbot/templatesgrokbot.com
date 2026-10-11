@@ -33,13 +33,13 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 | Template | What it does |
 |---|---|
 | [Offer Comparison Analyzer](../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
-| [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
+| [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Excel Analysis](data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Auction Market Analyst](data-analysis/auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |
-| [Risk Metrics Calculation](data-analysis/risk-metrics-calculation.md) | Calculate portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown. |
 | [CFO Tax Planning Assistant](data-analysis/cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
-| [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
+| [School Budget Analysis Assistant](../education/data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
+| [Aws Cost Operations](../operations/data-analysis/aws-cost-operations.md) | Optimize AWS costs, monitor usage, and audit activity with MCP tools. |
 
 [All 307 Data Analysis templates →](data-analysis/README.md)
 
@@ -53,8 +53,8 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 | [Audit Support Assistant](security-and-compliance/audit-support-assistant.md) | Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports. |
 | [Regulatory Compliance Analyst](security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
 | [Technology Risk Assessment Assistant](security-and-compliance/technology-risk-assessment-assistant.md) | Assesses technology risks across infrastructure, vendors, data, and emerging tech for insurance risk analysts. |
-| [Accounting Compliance Review Copilot](security-and-compliance/accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: reviews records, audits, reports, and keeps you current on regulations. |
 | [Compliance Report Generator](security-and-compliance/compliance-report-generator.md) | Automates financial reporting from data extraction to compliance and distribution. |
+| [Accounting Compliance Review Copilot](security-and-compliance/accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: reviews records, audits, reports, and keeps you current on regulations. |
 
 [All 41 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -97,8 +97,8 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 | [Presentation Preparation Assistant](office-tools/presentation-preparation-assistant.md) | Prepares complete presentations for administrative assistants in finance, from research to follow-up. |
 | [Excel Automation](office-tools/excel-automation.md) | Automates live Excel workbooks and reports through xlwings, with every write and export approved first. |
 | [Calc](../operations/office-tools/calc.md) | Create, convert, and automate spreadsheets with LibreOffice Calc. |
-| [Odoo Accounting Setup](../operations/office-tools/odoo-accounting-setup.md) | Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation. |
 | [Googlesheets Automation](../operations/office-tools/googlesheets-automation.md) | Read, write, format, filter, and manage Google Sheets via Rube MCP. |
+| [Odoo Accounting Setup](../operations/office-tools/odoo-accounting-setup.md) | Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation. |
 | [Document Preparation and Formatting Assistant](office-tools/document-preparation-and-formatting-assistant.md) | Prepares, formats, and polishes all business documents for administrative assistants. |
 
 [All 18 Office Tools templates →](office-tools/README.md)
@@ -107,8 +107,8 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 
 | Template | What it does |
 |---|---|
-| [Warren Buffett](../education/teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
 | [Tax Software Utilization Guide](teaching-and-tutoring/tax-software-utilization-guide.md) | Guides tax analysts through every stage of tax software use, from setup to e-filing. |
+| [Warren Buffett](../education/teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
 | [Financial Training Assistant](teaching-and-tutoring/financial-training-assistant.md) | Explains finance concepts, builds models, analyzes statements, and supports financial decisions. |
 | [Real Estate Tax Advisory Assistant](teaching-and-tutoring/real-estate-tax-advisory-assistant.md) | Real estate tax guidance for analysts: classification, appeals, deductions, and planning. |
 | [Tax Training and Education Assistant](teaching-and-tutoring/tax-training-and-education-assistant.md) | Delivers tax training, research, and compliance guidance for tax analysts. |
@@ -140,11 +140,11 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 | [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
 | [Investment Memo Writer](writing-and-content/investment-memo-writer.md) | Drafts structured investment memorandums from the deal facts and diligence you provide. |
 | [Finance ESG Report Builder](writing-and-content/finance-esg-report-builder.md) | Turns sustainability data into reports, insights, and stakeholder-ready narratives. |
-| [Stakeholder Financial Communications Assistant](../executives-and-strategy/writing-and-content/stakeholder-financial-communications-assistant.md) | Drafts and coordinates all stakeholder financial communications for a VP of Finance. |
 | [Doc Chaser Lite](../operations/writing-and-content/doc-chaser-lite.md) | Drafts one friendly document-request email for a tax client from a brief and practice profile. |
+| [Stakeholder Financial Communications Assistant](../executives-and-strategy/writing-and-content/stakeholder-financial-communications-assistant.md) | Drafts and coordinates all stakeholder financial communications for a VP of Finance. |
 | [Sustainability Reporting Assistant](writing-and-content/sustainability-reporting-assistant.md) | Guides accountants through every stage of sustainability reporting, from data to disclosure. |
-| [Sustainability Report Builder](../science-and-research/writing-and-content/sustainability-report-builder.md) | Turns ESG data into accurate, compliant sustainability reports for analysts. |
 | [Stakeholder Communications Architect](writing-and-content/stakeholder-communications-architect.md) | Builds and manages stakeholder communication templates and plans for finance leaders. |
+| [Sustainability Report Builder](../science-and-research/writing-and-content/sustainability-report-builder.md) | Turns ESG data into accurate, compliant sustainability reports for analysts. |
 
 ## Cloud & DevOps
 

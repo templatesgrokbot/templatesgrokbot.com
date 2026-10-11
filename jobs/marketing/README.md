@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **926 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **951 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,11 @@ Campaigns, SEO, content and growth. **926 ready-made Grok Bot templates** for th
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 375 |
-| [Data Analysis](data-analysis/README.md) | 139 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 391 |
+| [Data Analysis](data-analysis/README.md) | 141 |
 | [Writing & Content](writing-and-content/README.md) | 91 |
+| [Social Media](social-media/README.md) | 87 |
 | [Research](research/README.md) | 84 |
-| [Social Media](social-media/README.md) | 80 |
 | [Design](design/README.md) | 32 |
 | [Generative Art](generative-art/README.md) | 24 |
 | [Coding](coding/README.md) | 15 |
@@ -41,16 +41,16 @@ Campaigns, SEO, content and growth. **926 ready-made Grok Bot templates** for th
 
 | Template | What it does |
 |---|---|
-| [Launch Strategy](marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
+| [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [Copywriting Psychologist](marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
-| [Plan Internal Linking](marketing-and-growth/interne-verlinkung.md) | Delivers a copy-paste-ready internal link plan with exact anchor text and placement for every row. |
+| [Launch Strategy](marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
 | [Social Metadata Hardening](marketing-and-growth/social-metadata-hardening.md) | Fix social sharing previews so URLs render as rich cards on all platforms. |
 | [Brand Review](marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
 | [Seo Fundamentals](marketing-and-growth/seo-fundamentals.md) | Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles. |
 | [Optimize Your Brand SERP](marketing-and-growth/brand-serp-optimierung.md) | Audits your brand's Google SERP and prescribes the five highest-impact fixes to improve it. |
-| [Seo Hreflang](marketing-and-growth/seo-hreflang.md) | Validate and generate hreflang tags for international SEO. |
+| [Github Presence](marketing-and-growth/github-presence.md) | Optimize GitHub profiles, READMEs, and project discoverability. |
 
-[All 375 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 391 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Data Analysis
 
@@ -60,12 +60,12 @@ Campaigns, SEO, content and growth. **926 ready-made Grok Bot templates** for th
 | [Ad Campaign Analyzer](data-analysis/ad-campaign-analyzer.md) | Analyze cross-channel ad data, quantify uncertainty, and propose evidence-labeled budget tests. |
 | [Talivia Agent Kit](data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Podcast Content Analyzer](../operations/data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
-| [Hasdata](../it-and-development/data-analysis/hasdata.md) | Extract public web data via HasData APIs for scraping, SERPs, and structured sources. |
 | [Analytics Product](data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
 | [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
+| [Hasdata](../it-and-development/data-analysis/hasdata.md) | Extract public web data via HasData APIs for scraping, SERPs, and structured sources. |
 | [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 
-[All 139 Data Analysis templates →](data-analysis/README.md)
+[All 141 Data Analysis templates →](data-analysis/README.md)
 
 ## Writing & Content
 
@@ -76,26 +76,11 @@ Campaigns, SEO, content and growth. **926 ready-made Grok Bot templates** for th
 | [Seo Content Writer](../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Blog Writing Guide](writing-and-content/blog-writing-guide.md) | Draft and edit Sentry blog posts with a senior-engineer voice, technical depth, and zero marketing fluff. |
 | [Seo Aeo Landing Page Writer](writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
-| [Seo Content Refresher](writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
 | [Seo Content Auditor](writing-and-content/seo-content-auditor.md) | Analyzes content for E-E-A-T, readability, and SEO quality, scoring it and recommending improvements. |
+| [Seo Content Refresher](writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
 | [Wordpress Centric High Seo Optimized Blogwriting](writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
 
 [All 91 Writing & Content templates →](writing-and-content/README.md)
-
-## Research
-
-| Template | What it does |
-|---|---|
-| [Ux Researcher](../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
-| [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
-| [Customer Research](research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
-| [Kotler Macro Analyzer](../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
-| [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
-| [Discover Brand Materials](research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
-| [Url Context Validator](../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
-| [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
-
-[All 84 Research templates →](research/README.md)
 
 ## Social Media
 
@@ -107,10 +92,25 @@ Campaigns, SEO, content and growth. **926 ready-made Grok Bot templates** for th
 | [Content Command Center](../pr-and-communications/social-media/content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
 | [Youtube Automation](social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 | [Social Media Strategy Optimizer](../sales/social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
+| [Xiaohongshu Content Strategist](social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
 | [Xiaohongshu Card Deck Generator](social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
-| [Presence Audit Optimizer](../pr-and-communications/social-media/presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |
 
-[All 80 Social Media templates →](social-media/README.md)
+[All 87 Social Media templates →](social-media/README.md)
+
+## Research
+
+| Template | What it does |
+|---|---|
+| [Ux Researcher](../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
+| [Discover Brand Materials](research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
+| [Kotler Macro Analyzer](../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
+| [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
+| [Customer Research](research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
+| [Url Context Validator](../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
+| [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
+
+[All 84 Research templates →](research/README.md)
 
 ## Design
 
@@ -119,8 +119,8 @@ Campaigns, SEO, content and growth. **926 ready-made Grok Bot templates** for th
 | [Brandkit](../creatives/design/brandkit.md) | Builds a complete brand board with logo concepts, color palette, typography, and mockups from a short briefing. |
 | [Creative Portfolio Resume](../creatives/design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
 | [Visual Emotion Engineer](../creatives/design/visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
-| [Visual Content Ideation Assistant](../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
 | [UX Enhancement Analyst](../sales/design/ux-enhancement-analyst.md) | Enhances user experience across web and mobile through feedback, testing, and optimization. |
+| [Visual Content Ideation Assistant](../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
 | [Brand Guidelines Anthropic](../creatives/design/brand-guidelines-anthropic.md) | Applies Anthropic brand colors and typography to existing artifacts. |
 | [Vaporwave](../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Product Naming and Brand Builder](../executives-and-strategy/design/product-naming-and-brand-builder.md) | Guides founders through product naming and brand building from brainstorm to launch. |
@@ -136,9 +136,9 @@ Campaigns, SEO, content and growth. **926 ready-made Grok Bot templates** for th
 | [Fal Generate](../creatives/generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [AI Studio Image](../creatives/generative-art/ai-studio-image.md) | Generates humanized images via Google AI Studio with smartphone photo realism. |
 | [Modellix](../creatives/generative-art/modellix.md) | Generate images, videos, and speech via the Modellix CLI workflow. |
-| [Generate Image](../creatives/generative-art/generate-image.md) | Generates or edits images using AI models for photos, illustrations, and visual assets. |
 | [Image Generator](../creatives/generative-art/image-generator.md) | Generate and edit images using Gemini's Nano Banana Pro model. |
 | [Generate Nanobanana](../creatives/generative-art/generate-nanobanana.md) | Generate and edit images/video via Gemini models with cost approval and reference-image support. |
+| [Generate Image](../creatives/generative-art/generate-image.md) | Generates or edits images using AI models for photos, illustrations, and visual assets. |
 
 [All 24 Generative Art templates →](generative-art/README.md)
 
@@ -149,8 +149,8 @@ Campaigns, SEO, content and growth. **926 ready-made Grok Bot templates** for th
 | [Wordpress](../it-and-development/coding/wordpress.md) | Build and secure WordPress sites with themes, plugins, WooCommerce, and 7.0 features. |
 | [Segment Automation](../it-and-development/coding/segment-automation.md) | Automate Segment CDP operations: track, identify, group, page, alias, and batch events. |
 | [Seo Technical](coding/seo-technical.md) | Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, and JavaScript rendering. |
-| [Url Link Extractor](../it-and-development/coding/url-link-extractor.md) | Scans website codebases to extract and catalog all URLs and links. |
 | [Seo Aeo Schema Generator](../it-and-development/coding/seo-aeo-schema-generator.md) | Generates valid JSON-LD schema for 10 types with rich result validation. |
+| [Url Link Extractor](../it-and-development/coding/url-link-extractor.md) | Scans website codebases to extract and catalog all URLs and links. |
 | [Wordpress Master](../it-and-development/coding/wordpress-master.md) | Architect, optimize, and troubleshoot WordPress sites from custom themes to enterprise multisite platforms. |
 | [Nextjs Seo Indexing](../it-and-development/coding/nextjs-seo-indexing.md) | Fix SEO indexing issues and crawl budget problems in Next.js apps. |
 | [Core Web Vitals](../it-and-development/coding/core-web-vitals.md) | Analyzes and fixes LCP, INP, and CLS to improve page experience and search ranking. |
@@ -178,8 +178,8 @@ Campaigns, SEO, content and growth. **926 ready-made Grok Bot templates** for th
 |---|---|
 | [Frontend Slides Frontend Slides](../creatives/generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
 | [Website Builder (Landing Page Component System)](generative-code/website-builder.md) | Builds landing pages from a component library and saves them as WordPress drafts. |
-| [Landing Page Generator](generative-code/landing-page-generator.md) | Generates conversion-optimized Next.js landing pages from a product description. |
 | [Gpt Taste](../creatives/generative-code/gpt-taste.md) | Award-level GSAP frontend pages with AIDA structure and gapless bento grids. |
+| [Landing Page Generator](generative-code/landing-page-generator.md) | Generates conversion-optimized Next.js landing pages from a product description. |
 | [Structured Data Implementation Assistant](../it-and-development/generative-code/structured-data-implementation-assistant.md) | Guides SEO specialists through structured data implementation, from schema selection to monitoring. |
 | [Animated Landing Page Builder](generative-code/animated-landing-page-builder.md) | Turns a product brief into a polished, animated single-page HTML landing page. |
 | [Screenshots](generative-code/screenshots.md) | Generate HiDPI marketing screenshots of your app using Playwright. |
@@ -213,7 +213,7 @@ Campaigns, SEO, content and growth. **926 ready-made Grok Bot templates** for th
 | [Explainer Video Builder](generative-video/explainer-video-builder.md) | Turn any source material into a tight 60-90 second explainer video for your product. |
 | [AI Video Producer](generative-video/ai-video-producer.md) | Plans, generates, and assembles marketing videos using AI models, avatars, and programmatic templates. |
 | [Sora](../creatives/generative-video/sora.md) | Generates and manages Sora video clips via OpenAI's API using a bundled CLI. |
-| [Testimonial Video Builder](generative-video/testimonial-video-builder.md) | Turn real customer reviews into polished social-proof videos with HyperFrames. |
+| [Riffkit](../creatives/generative-video/riffkit.md) | Transform a winning TikTok's formula into your own branded short video in 9 languages. |
 
 [All 11 Generative Video templates →](generative-video/README.md)
 
@@ -271,8 +271,8 @@ Campaigns, SEO, content and growth. **926 ready-made Grok Bot templates** for th
 | Template | What it does |
 |---|---|
 | [Website Localization Planner](../it-and-development/translation/website-localization-planner.md) | Localizes websites for global audiences: translation, culture, SEO, compliance, and more. |
-| [Multi-Channel Insurance Communication Assistant](../customer-support/translation/multi-channel-insurance-communication-assistant.md) | Handles multi-channel insurance customer communication with drafting, translation, and insights. |
 | [Humanize Chinese](../writers/translation/humanize-chinese.md) | Detect and rewrite AI-like Chinese text to sound natural, reduce AIGC, or match a target style. |
+| [Multi-Channel Insurance Communication Assistant](../customer-support/translation/multi-channel-insurance-communication-assistant.md) | Handles multi-channel insurance customer communication with drafting, translation, and insights. |
 
 ## Cloud & DevOps
 

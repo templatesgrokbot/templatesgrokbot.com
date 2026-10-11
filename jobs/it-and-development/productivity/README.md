@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 142 Grok Bot templates, 63 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 143 Grok Bot templates, 63 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, prioritise and clear the recurring admin. 142 Grok Bot templates, 63 of th
 | [Anti Sleep](anti-sleep.md) | Keep a Mac awake with caffeinate during long builds, downloads, or automation runs. |
 | [Antigravity Workflows](../../management/productivity/antigravity-workflows.md) | Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints. |
 | [Apple Shortcuts Automation](apple-shortcuts-automation.md) | Runs your Apple Shortcuts and manages Reminders, Notes and Calendar entries on request. |
+| [Atlassian Project Manager](../../management/productivity/atlassian-project-manager.md) | Manages Jira and Confluence via MCP: queries, updates, and automation. |
 | [Atlassian Requirements to Jira](../../product-development/productivity/atlassian-requirements-to-jira.md) | Parse requirements documents and create Jira epics and user stories with duplicate detection and approval workflow. |
 | [Basecamp Automation](../../operations/productivity/basecamp-automation.md) | Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP. |
 | [Billing Automation](../../operations/productivity/billing-automation.md) | Implement automated billing, invoicing, and payment recovery for SaaS subscriptions. |

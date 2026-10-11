@@ -1,11 +1,12 @@
 # Credits: github.com/coreyhaines31/marketingskills
 
-21 TemplatesGrokBot templates are adapted from work published at [github.com/coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+22 TemplatesGrokBot templates are adapted from work published at [github.com/coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
 | [Ab Testing](../jobs/marketing/data-analysis/ab-testing.md) | [original](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-testing) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Ad Creative](../jobs/marketing/marketing-and-growth/ad-creative.md) | [original](https://github.com/coreyhaines31/marketingskills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [AI Citation Optimizer](../jobs/marketing/marketing-and-growth/ai-citation-optimizer.md) | [original](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ai-seo) | [MIT](../LICENSES/MIT.md) |
 | [Analytics](../jobs/marketing/data-analysis/analytics.md) | [original](https://github.com/coreyhaines31/marketingskills/tree/main/skills/analytics) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Churn Prevention](../jobs/marketing/marketing-and-growth/churn-prevention.md) | [original](https://github.com/coreyhaines31/marketingskills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Co Marketing](../jobs/marketing/marketing-and-growth/co-marketing.md) | [original](https://github.com/coreyhaines31/marketingskills/tree/main/skills/co-marketing) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |

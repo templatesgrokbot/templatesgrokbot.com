@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 375 Grok Bot templates, 171 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 391 Grok Bot templates, 186 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,16 @@ Campaigns, ads, conversion and launch plans. 375 Grok Bot templates, 171 of them
 | [Ad Copy Generator](../../management/marketing-and-growth/ad-copy-generator.md) | Generates, refines, and optimizes ad copy for marketing campaigns. |
 | [Ad Copy Lab](ad-copy-lab.md) | Writes ad variants that test one different idea each, so the results mean something. |
 | [Ad Creative](ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
+| [Ad Integration Verifier](ad-integration-verifier.md) | Discovers, connects, and verifies paid-ad integrations and their actual capabilities. |
 | [Advertising Campaign Optimizer](../../executives-and-strategy/marketing-and-growth/advertising-campaign-optimizer.md) | Optimizes advertising campaigns from audience analysis to budget allocation and performance tracking. |
 | [Affiliate Marketing Content Planner](../../writers/marketing-and-growth/affiliate-marketing-content-planner.md) | Plan, create, and optimize affiliate content that converts, with research and performance insights. |
 | [Affiliate Marketing Optimizer](../../executives-and-strategy/marketing-and-growth/affiliate-marketing-optimizer.md) | Optimizes affiliate marketing campaigns from keyword research to performance reporting. |
 | [Affiliate Program Planner](affiliate-program-planner.md) | Plans affiliate programs with commission, recruitment, enablement and tracking rules. |
+| [AI Citation Optimizer](ai-citation-optimizer.md) | Optimizes content to be cited by AI search engines and assistants. |
 | [AI Citation Strategist](ai-citation-strategist.md) | Audits how often AI assistants cite your brand and delivers prioritized content fixes to close competitor gaps. |
 | [AI Marketing Team](ai-marketing-team.md) | Runs campaign ideas through three marketing roles to catch blind spots before launch. |
 | [Alternatives Pages](alternatives-pages.md) | Create honest, high-converting competitor comparison pages for developer tools. |
+| [Amazon Ads Planner](amazon-ads-planner.md) | Plan and review Amazon Ads with margin-aware ACoS and search-term guardrails. |
 | [Apify Influencer Discovery](apify-influencer-discovery.md) | Find and evaluate influencers for brand partnerships across Instagram, Facebook, YouTube, and TikTok. |
 | [App Store Optimization](app-store-optimization.md) | Research, optimize, and track mobile app performance on both app stores. |
 | [Audience Engagement Strategist](../../creatives/marketing-and-growth/audience-engagement-strategist.md) | Turns audience data into engagement strategies and interactive video content for video editors. |
@@ -54,6 +57,7 @@ Campaigns, ads, conversion and launch plans. 375 Grok Bot templates, 171 of them
 | [Campaign ROI Orchestrator](../../executives-and-strategy/marketing-and-growth/campaign-roi-orchestrator.md) | Plans, runs, and optimizes influencer partnerships from discovery to ROI. |
 | [CDO Marketing Strategy Builder](../../executives-and-strategy/marketing-and-growth/cdo-marketing-strategy-builder.md) | Builds and runs a complete digital marketing strategy from research to reporting. |
 | [Channel Mix Budget Allocator](../../executives-and-strategy/marketing-and-growth/channel-mix-budget-allocator.md) | Optimizes marketing budget allocation across channels, campaigns, and segments using data analysis. |
+| [ChatGPT Ads Experiment Planner](chatgpt-ads-experiment-planner.md) | Plans and reviews ChatGPT Ads experiments without assuming platform access. |
 | [China E-Commerce Operator](china-e-commerce-operator.md) | Runs and reports China e-commerce store operations across Taobao, Tmall, Pinduoduo, JD and Douyin. |
 | [China Market Localization Strategist](china-market-localization-strategist.md) | Turns China platform trend signals into executable go-to-market plans with priorities and content templates. |
 | [Churn Prevention](churn-prevention.md) | Reduce voluntary and involuntary churn with cancel flows, save offers, and dunning strategies. |
@@ -155,6 +159,10 @@ Campaigns, ads, conversion and launch plans. 375 Grok Bot templates, 171 of them
 | [Global Market Expansion Planner](../../executives-and-strategy/marketing-and-growth/global-market-expansion-planner.md) | Expands your brand into global markets with research, localization, and strategy. |
 | [Global Marketing Campaign Architect](../../executives-and-strategy/marketing-and-growth/global-marketing-campaign-architect.md) | Turns marketing data and briefs into campaigns, content, and insights for a global head of marketing. |
 | [Global Marketing Event Orchestrator](../../executives-and-strategy/marketing-and-growth/global-marketing-event-orchestrator.md) | Plans, promotes, and manages global marketing events from research to post-event analysis. |
+| [Google Ads Asset Planner](google-ads-asset-planner.md) | Plan, validate, and safely publish Google Ads assets from approved business evidence. |
+| [Google Ads Auditor](google-ads-auditor.md) | Audits Google Ads account health and sets up business context for downstream work. |
+| [Google Ads Optimizer](google-ads-optimizer.md) | Operates, diagnoses, and optimizes Google Ads accounts with evidence-based recommendations. |
+| [Growth Analytics Optimizer](growth-analytics-optimizer.md) | Track, analyze, and optimize your projects' growth with AI-driven analytics. |
 | [Growth Engine](growth-engine.md) | Growth engine for digital products with growth hacking, SEO, and viral loops. |
 | [Guest Blogging Manager](../../writers/marketing-and-growth/guest-blogging-manager.md) | Finds guest blogging targets, pitches, writes, tracks, and promotes posts to grow your blog's reach. |
 | [Headline Psychologist](headline-psychologist.md) | Engineer headlines that create curiosity gaps and trigger attention without clickbait. |
@@ -178,10 +186,12 @@ Campaigns, ads, conversion and launch plans. 375 Grok Bot templates, 171 of them
 | [Journey Insight Mapper](../../sales/marketing-and-growth/journey-insight-mapper.md) | Maps customer journeys from data to insight, turning touchpoints into action. |
 | [Journey Map Content Builder](../../pr-and-communications/marketing-and-growth/journey-map-content-builder.md) | Maps and improves customer journeys from data to content. |
 | [Keyword Extractor](keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
+| [Keyword Research Planner](keyword-research-planner.md) | Turns a seed topic into a ranked keyword plan with real Google volume, CPC, intent, and difficulty. |
 | [Keyword Research with Topic Clusters](keyword-recherche-cluster.md) | Finds keywords your site can win with current authority and groups them into topic clusters. |
 | [Keyword Strategy Planner](keyword-strategy-planner.md) | Turns a keyword CSV into a prioritized content and SEO strategy with intent mapping. |
 | [Klaviyo Automation](klaviyo-automation.md) | Automate Klaviyo email/SMS campaign management, inspection, and monitoring. |
 | [Kuaishou Growth Strategist](kuaishou-growth-strategist.md) | Plans Kuaishou short-video and live commerce growth built on 老铁 trust and repeat buying. |
+| [Landing Page Auditor](landing-page-auditor.md) | Scores and diagnoses Google Ads landing pages to find and fix conversion leaks. |
 | [Launch Campaign Orchestrator](../../executives-and-strategy/marketing-and-growth/launch-campaign-orchestrator.md) | Plans and executes product launches from market research to post-launch follow-up. |
 | [Launch Plan Architect](../../executives-and-strategy/marketing-and-growth/launch-plan-architect.md) | Plans and executes product launches from market research to post-launch follow-up. |
 | [Launch Plan Architect for BizDev](../../executives-and-strategy/marketing-and-growth/launch-plan-architect-for-bizdev.md) | Plans and executes product launches from market research to post-launch review. |
@@ -191,6 +201,7 @@ Campaigns, ads, conversion and launch plans. 375 Grok Bot templates, 171 of them
 | [Lead Magnets](lead-magnets.md) | Plan lead magnets that capture emails and convert subscribers. |
 | [Legal Marketing and Research Assistant](../../legal/marketing-and-growth/legal-marketing-and-research-assistant.md) | Legal marketing and research assistant for legal assistants. |
 | [Link Building Strategist](../../it-and-development/marketing-and-growth/link-building-strategist.md) | Finds and secures backlink opportunities for SEO specialists. |
+| [LinkedIn Ads Operator](linkedin-ads-operator.md) | Audits and safely operates your connected LinkedIn Ads accounts. |
 | [List-to-Lifecycle Email Architect](../../executives-and-strategy/marketing-and-growth/list-to-lifecycle-email-architect.md) | Plans, writes, and optimizes your email marketing from segmentation to re-engagement. |
 | [Livestream Commerce Coach](livestream-commerce-coach.md) | Trains livestream hosts and runs live room operations with scripts, product sequencing, traffic and data reviews. |
 | [Local Legal Seo Audit](local-legal-seo-audit.md) | Audit and improve local SEO for law firms, attorneys, and legal professionals. |
@@ -234,6 +245,7 @@ Campaigns, ads, conversion and launch plans. 375 Grok Bot templates, 171 of them
 | [Marketing Strategy Pmm](marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Marketing VP Competitive Intel](../../executives-and-strategy/marketing-and-growth/marketing-vp-competitive-intel.md) | Competitive intelligence and strategy support for marketing VPs. |
 | [Marketing VP Journey Mapper](../../executives-and-strategy/marketing-and-growth/marketing-vp-journey-mapper.md) | Maps customer journeys from data to strategy for marketing VPs. |
+| [Meta Ads Auditor](meta-ads-auditor.md) | Audits Meta Ads account health and sets up business context for fixes. |
 | [Mobile Email Optimizer](../../sales/marketing-and-growth/mobile-email-optimizer.md) | Optimizes email campaigns for mobile devices to boost readability, engagement, and conversions. |
 | [Mobile SEO Optimization Assistant](../../it-and-development/marketing-and-growth/mobile-seo-optimization-assistant.md) | Optimizes mobile websites for search, speed, UX, and local visibility. |
 | [Newsletter Strategy Planner](newsletter-strategy-planner.md) | Designs a newsletter's promise, recurring sections, cadence, per-issue CTA and growth loop. |
@@ -246,7 +258,9 @@ Campaigns, ads, conversion and launch plans. 375 Grok Bot templates, 171 of them
 | [Optimize Your Brand SERP](brand-serp-optimierung.md) | Audits your brand's Google SERP and prescribes the five highest-impact fixes to improve it. |
 | [Page Cro](page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Paid Ads](paid-ads.md) | Plan, draft, and optimize paid ad campaigns across platforms to hit target CPA and ROAS. |
+| [Paid Ads Guide](../../customer-support/marketing-and-growth/paid-ads-guide.md) | Explains NotFair's paid-ads capabilities, connections, and boundaries from official docs. |
 | [Paid Media Auditor](paid-media-auditor.md) | Audits paid media accounts and returns prioritized fixes with projected impact. |
+| [Paid Media Reviewer](paid-media-reviewer.md) | Read-only paid-media performance reviews with evidence-based insights and recommendations. |
 | [Paid Media Tracking Specialist](paid-media-tracking-specialist.md) | Builds and audits conversion tracking so every ad dollar is measured correctly. |
 | [Paid Social Strategist](paid-social-strategist.md) | Designs full-funnel paid social programs across Meta, LinkedIn, TikTok, Pinterest, X and Snapchat with platform-native creative and audiences. |
 | [Patient Recruitment Campaign Planner](../../healthcare/marketing-and-growth/patient-recruitment-campaign-planner.md) | Plans and drafts patient recruitment campaigns for clinical trials. |
@@ -283,6 +297,7 @@ Campaigns, ads, conversion and launch plans. 375 Grok Bot templates, 171 of them
 | [Reader Engagement Planner](../../writers/marketing-and-growth/reader-engagement-planner.md) | Plans and drafts reader engagement activities for bloggers, from quizzes to events. |
 | [Real Estate Lead Generator](../../real-estate-and-construction/marketing-and-growth/real-estate-lead-generator.md) | Generates and nurtures real estate leads through content, outreach, and data analysis. |
 | [Real Estate Marketing Planner](../../real-estate-and-construction/marketing-and-growth/real-estate-marketing-planner.md) | Plan and produce real estate marketing content, campaigns, and brand assets. |
+| [Reddit Ads Auditor](reddit-ads-auditor.md) | Audits and safely operates connected Reddit Ads accounts through the NotFair MCP. |
 | [Referral Program](referral-program.md) | Designs and optimizes referral and affiliate programs to turn customers into growth engines. |
 | [Reputation Management Monitor](../../pr-and-communications/marketing-and-growth/reputation-management-monitor.md) | Monitors brand sentiment, manages crises, and builds reputation strategies from social and review data. |
 | [Retail Digital Marketing Optimizer](../../management/marketing-and-growth/retail-digital-marketing-optimizer.md) | Optimizes digital marketing for retail managers: content, social, email, ads, and analytics. |
@@ -305,6 +320,7 @@ Campaigns, ads, conversion and launch plans. 375 Grok Bot templates, 171 of them
 | [Sendgrid Automation](sendgrid-automation.md) | Automate SendGrid campaigns, contacts, senders, and analytics via Composio toolkit, with approval required for any send. |
 | [Seo](seo.md) | Optimize content for AI search citations across ChatGPT, Perplexity, Gemini, and Google AI Overviews. |
 | [SEO / GEO / AEO Website Audit](seo-geo-aeo-audit.md) | Audits any website across SEO, GEO, and AEO visibility layers with scores and prioritized actions. |
+| [SEO Ads Overlap Finder](seo-ads-overlap-finder.md) | Finds queries where you pay for clicks you already rank for organically. |
 | [Seo Aeo Content Cluster](seo-aeo-content-cluster.md) | Builds a topical authority map with pillar page, cluster articles, internal links, and AEO gap analysis. |
 | [Seo Aeo Content Quality Auditor](seo-aeo-content-quality-auditor.md) | Audit any page or post for SEO and AEO, get scored reports and fix lists. |
 | [Seo Aeo Internal Linking](seo-aeo-internal-linking.md) | Maps internal link opportunities with anchor text, orphan detection, and cannibalization checks. |

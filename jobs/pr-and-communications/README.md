@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **241 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **243 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Press, internal comms and reputation. **241 ready-made Grok Bot templates** for 
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 63 |
 | [Writing & Content](writing-and-content/README.md) | 60 |
-| [Social Media](social-media/README.md) | 33 |
+| [Social Media](social-media/README.md) | 35 |
 | [Data Analysis](data-analysis/README.md) | 24 |
 | [Productivity](productivity/README.md) | 20 |
 | [Research](research/README.md) | 18 |
@@ -172,6 +172,8 @@ Press, internal comms and reputation. **241 ready-made Grok Bot templates** for 
 | [Instagram Manager](../marketing/social-media/instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
 | [Linkedin Automation](../marketing/social-media/linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
 | [Linkedin Content Generator](../marketing/social-media/linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
+| [LinkedIn Content Manager](../marketing/social-media/linkedin-content-manager.md) | Plan, draft, audit, and publish LinkedIn posts and comments with approval. |
+| [LinkedIn Reply Drafter](../marketing/social-media/linkedin-reply-drafter.md) | Drafts replies to LinkedIn comments or sweeps an entire thread for batch replies. |
 | [PR Social Media Cycle Partner](social-media/pr-social-media-cycle-partner.md) | Social media strategy partner for PR specialists—research, plan, create, track, and optimize content. |
 | [Presence Audit Optimizer](social-media/presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |
 | [Reputation Monitoring Assistant](social-media/reputation-monitoring-assistant.md) | Monitors and analyzes online reputation across platforms for PR specialists. |

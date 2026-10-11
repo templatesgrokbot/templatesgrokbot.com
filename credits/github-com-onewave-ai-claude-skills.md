@@ -1,6 +1,6 @@
 # Credits: github.com/OneWave-AI/claude-skills
 
-116 TemplatesGrokBot templates are adapted from work published at [github.com/OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+117 TemplatesGrokBot templates are adapted from work published at [github.com/OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -33,6 +33,7 @@
 | [Deal Review Coach](../jobs/sales/sales-and-negotiation/deal-review-coach.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/deal-review-framework) | [MIT](../LICENSES/MIT.md) |
 | [Deal Room Risk Analyst](../jobs/finance/data-analysis/deal-room-risk-analyst.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/cowork-deal-room) | [MIT](../LICENSES/MIT.md) |
 | [Deck Export Repair](../jobs/creatives/office-tools/deck-export-repair.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/design-export-repair) | [MIT](../LICENSES/MIT.md) |
+| [Devil's Advocate](../jobs/executives-and-strategy/marketing-and-growth/devil-s-advocate.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/devils-advocate) | [MIT](../LICENSES/MIT.md) |
 | [Employee Handbook Builder](../jobs/human-resources/writing-and-content/employee-handbook-builder.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/employee-handbook-builder) | [MIT](../LICENSES/MIT.md) |
 | [Executive Dashboard Generator](../jobs/executives-and-strategy/data-analysis/executive-dashboard-generator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/executive-dashboard-generator) | [MIT](../LICENSES/MIT.md) |
 | [Expense Folder Auditor](../jobs/operations/data-analysis/expense-folder-auditor.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/cowork-expense-audit) | [MIT](../LICENSES/MIT.md) |

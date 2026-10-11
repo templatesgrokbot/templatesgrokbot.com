@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1095 Grok Bot templates, 1086 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1099 Grok Bot templates, 1090 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -224,6 +224,7 @@ Write, review, test and debug software. 1095 Grok Bot templates, 1086 of them fi
 | [Code Debugging Assistant](code-debugging-assistant.md) | Debug code, inspect errors, and optimize performance through guided debugging assistance. |
 | [Code Documentation Doc Generate](code-documentation-doc-generate.md) | Generate API docs, architecture diagrams, and user guides from code. |
 | [Code Explorer](code-explorer.md) | Trace and document how a codebase feature works from entry to storage. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Code Health Scanner](code-health-scanner.md) | Scans codebase for dead code, tech debt, outdated dependencies, and quality issues. |
 | [Code Polish](code-polish.md) | Professionalize code comments and perform safe, non-semantic cleanup without altering logic or behavior. |
 | [Code Refactoring Assistant](code-refactoring-assistant.md) | Refactors your codebase for clarity, performance, and maintainability on demand. |
 | [Code Refactoring Context Restore](code-refactoring-context-restore.md) | Resume interrupted code work by validating saved context against current checkout. |
@@ -420,6 +421,7 @@ Write, review, test and debug software. 1095 Grok Bot templates, 1086 of them fi
 | [Expo Ui Jetpack Compose](expo-ui-jetpack-compose.md) | Integrate Jetpack Compose UI into Expo SDK 55 apps using @expo/ui/jetpack-compose. |
 | [Expo Ui Swift Ui](expo-ui-swift-ui.md) | Use SwiftUI Views and modifiers in Expo SDK 55 apps. |
 | [Faf Context](faf-context.md) | Quickly get your project to 100% AI-readiness by auto-detecting stack and filling only what you know. |
+| [FastAPI API Architect](fastapi-api-architect.md) | Build production-grade async FastAPI APIs with Pydantic V2, JWT auth, and SQLAlchemy. |
 | [Fastapi Endpoint](fastapi-endpoint.md) | Plans and builds production-ready FastAPI endpoints with async SQLAlchemy, Pydantic v2, auth, and tests. |
 | [Fastapi Pro](fastapi-pro.md) | Async FastAPI design with SQLAlchemy 2.0 and Pydantic V2 — no code generation, no deployment. |
 | [Fastapi Router Py](fastapi-router-py.md) | Generate FastAPI routers with auth, models, and status codes. |
@@ -841,6 +843,7 @@ Write, review, test and debug software. 1095 Grok Bot templates, 1086 of them fi
 | [Responsive Layout Builder](responsive-layout-builder.md) | Build responsive layouts with CSS Grid, Flexbox, and container queries. |
 | [Reverse Engineering](reverse-engineering.md) | Reverse-engineer binaries with GDB, Frida, angr, Unicorn, Qiling, and anti-analysis countermeasures. |
 | [Review And Simplify Changes](review-and-simplify-changes.md) | Review git diffs for code quality and apply safe fixes |
+| [Review Findings Fixer](review-findings-fixer.md) | Fixes QA review findings and prepares fixes for re-verification. |
 | [Review Multi Agent Orchestration](review-multi-agent-orchestration.md) | Review multi-agent orchestration designs for task boundaries, state, and failure safety before implementation. |
 | [Review Swarm](review-swarm.md) | Parallel read-only multi-agent review of git diffs for regressions, security, reliability, and coverage gaps. |
 | [Risk-Based Testing Prioritizer](risk-based-testing-prioritizer.md) | Prioritizes and executes risk-based testing for QA testers. |
@@ -982,6 +985,7 @@ Write, review, test and debug software. 1095 Grok Bot templates, 1086 of them fi
 | [Temporal Golang Pro](temporal-golang-pro.md) | Build durable distributed systems with Temporal Go SDK — deterministic workflows, mTLS, and advanced patterns. |
 | [Temporal Python Pro](temporal-python-pro.md) | Build durable Python workflows with Temporal SDK — design, test, deploy. |
 | [Temporal Python Testing](temporal-python-testing.md) | Testing strategies for Temporal Python workflows using pytest |
+| [Terminal App Verifier](terminal-app-verifier.md) | Records and verifies terminal app behavior with video evidence. |
 | [Terraform Aws Modules](terraform-aws-modules.md) | Design reusable Terraform modules for AWS with state management and HCL best practices. |
 | [Terraform Azure Implement](terraform-azure-implement.md) | Creates and reviews Azure Terraform code from planning files or user requests. |
 | [Test Automation Framework Advisor](test-automation-framework-advisor.md) | QA automation framework advisor: research, select, implement, and maintain your test automation stack. |

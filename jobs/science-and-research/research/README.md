@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 211 Grok Bot templates, 163 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 212 Grok Bot templates, 164 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,7 @@ Find sources, compare evidence and summarise what is known. 211 Grok Bot templat
 | [Apple Notes Search](../../operations/research/apple-notes-search.md) | Semantic + keyword search and connection-discovery across your own Apple Notes. |
 | [Arboreto](arboreto.md) | Infer gene regulatory networks from gene expression data using GRNBoost2 or GENIE3. |
 | [Auto Research](auto-research.md) | Research uncertain questions via web or ChatGPT with user approval before implementation. |
+| [Autonomous Research Manager](autonomous-research-manager.md) | Manages autonomous research projects from literature review to published paper. |
 | [Axiom](../../executives-and-strategy/research/axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
 | [Bdistill Knowledge Extraction](bdistill-knowledge-extraction.md) | Extract structured, quality-scored domain knowledge from AI models without API keys. No training data generation. |
 | [Biochemical Literature Review Assistant](biochemical-literature-review-assistant.md) | Guides biochemists through literature reviews from search to synthesis. |

@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 534 Grok Bot templates, 519 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 536 Grok Bot templates, 521 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -394,6 +394,7 @@ Infrastructure, deployments, monitoring and incident response. 534 Grok Bot temp
 | [New Relic Observability Setup](new-relic-observability-setup.md) | Sets up New Relic monitoring for your apps and hosts, then reports on what it finds. |
 | [NFS Storage Setup](nfs-storage-setup.md) | Sets up and tunes NFS file sharing between Linux servers and clients. |
 | [NoSQL Database Administrator Assistant](nosql-database-administrator-assistant.md) | Guides NoSQL database administrators through setup, optimization, security, and recovery. |
+| [NotFair Plugin Upgrader](notfair-plugin-upgrader.md) | Upgrades the NotFair plugin to the latest version and shows what's new. |
 | [Nx Workspace Patterns](nx-workspace-patterns.md) | Configure and optimize Nx monorepo workspaces with project boundaries and caching. |
 | [Object Storage Administrator](object-storage-administrator.md) | Configures and audits S3, GCS and MinIO buckets, policies, versioning and lifecycle rules. |
 | [Observability And Instrumentation](observability-and-instrumentation.md) | Instruments production code so behavior is visible and diagnosable via telemetry. |
@@ -456,6 +457,7 @@ Infrastructure, deployments, monitoring and incident response. 534 Grok Bot temp
 | [Rtk Proxy Installer](rtk-proxy-installer.md) | Installs and wires rtk token-compression proxy into agent containers for 60–90% token savings on dev commands. Returns verified savings reports. |
 | [Runaway Guard](runaway-guard.md) | Prevents runaway AI API costs with explicit per-run and per-day dollar caps. |
 | [S3 Bucket Operations](s3-bucket-operations.md) | Configures and hardens S3 buckets, policies, lifecycle rules, and replication on AWS. |
+| [S3 Storage Configurator](s3-storage-configurator.md) | Configures Django file storage on AWS S3 with django-storages and boto3. |
 | [Saga Orchestration](saga-orchestration.md) | Coordinate distributed transactions and long-running business processes with compensating actions. |
 | [Scalability Design Assistant](scalability-design-assistant.md) | Guides software developers through scalable system design and implementation. |
 | [Se Gitops Ci Specialist](se-gitops-ci-specialist.md) | Makes deployments boring and reliable by triaging failures, fixing pipelines, and enforcing GitOps standards. |

@@ -1,6 +1,6 @@
 # Marketing & Growth templates for IT and Development
 
-Campaigns, ads, conversion and launch plans. 36 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 37 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,7 @@ Campaigns, ads, conversion and launch plans. 36 Grok Bot templates, 17 of them f
 | [Generate Schema Markup](../../marketing/marketing-and-growth/schema-markup-generator.md) | Generates valid JSON-LD schema markup for a single page based on its visible content. |
 | [Geo Fundamentals](../../marketing/marketing-and-growth/geo-fundamentals.md) | Audits content for citation by AI search engines like ChatGPT, Claude, and Perplexity. |
 | [Github Presence](../../marketing/marketing-and-growth/github-presence.md) | Optimize GitHub profiles, READMEs, and project discoverability. |
+| [Growth Analytics Optimizer](../../marketing/marketing-and-growth/growth-analytics-optimizer.md) | Track, analyze, and optimize your projects' growth with AI-driven analytics. |
 | [Indexing Audit](../../marketing/marketing-and-growth/indexierungs-audit.md) | Audits every URL in your index and prescribes the exact directive to keep, deindex, consolidate, or add it. |
 | [International SEO Strategist](international-seo-strategist.md) | Plans and executes international SEO campaigns across markets, from keywords to reporting. |
 | [Link Building Strategist](link-building-strategist.md) | Finds and secures backlink opportunities for SEO specialists. |

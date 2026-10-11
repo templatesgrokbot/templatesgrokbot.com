@@ -1,6 +1,6 @@
 # Productivity templates for Product Development
 
-Plan, prioritise and clear the recurring admin. 88 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 89 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Plan, prioritise and clear the recurring admin. 88 Grok Bot templates, 39 of the
 | [Alex](../../management/productivity/alex.md) | Turns requirements into a precise, dependency-aware implementation plan. |
 | [Asana Automation](../../operations/productivity/asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
 | [Assumption Prioritizer](assumption-prioritizer.md) | Triage a list of assumptions with an Impact × Risk matrix and get a targeted experiment for each. |
+| [Atlassian Project Manager](../../management/productivity/atlassian-project-manager.md) | Manages Jira and Confluence via MCP: queries, updates, and automation. |
 | [Atlassian Requirements to Jira](atlassian-requirements-to-jira.md) | Parse requirements documents and create Jira epics and user stories with duplicate detection and approval workflow. |
 | [Auri Core](auri-core.md) | Voice assistant product strategy and roadmap assistant for Auri (Alexa + Claude). |
 | [Backlog Item Writer](backlog-item-writer.md) | Turns a feature into independent, valuable, testable backlog items in Why-What-Acceptance format. |

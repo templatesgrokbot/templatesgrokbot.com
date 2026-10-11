@@ -1,6 +1,6 @@
 # Social Media templates for Creatives
 
-Plan, write and measure posts across networks. 22 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 24 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,8 @@ Plan, write and measure posts across networks. 22 Grok Bot templates, 2 of them 
 | [Instagram Automation](../../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [Instagram Manager](../../marketing/social-media/instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
 | [Linkedin Content Generator](../../marketing/social-media/linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
+| [LinkedIn Content Repurposer](../../marketing/social-media/linkedin-content-repurposer.md) | Turns your existing tweets, videos, or blogs into native LinkedIn posts that perform. |
+| [LinkedIn Hook Analyzer](../../marketing/social-media/linkedin-hook-analyzer.md) | Analyze any viral LinkedIn post URL and get its hook formula, structure, and a blank template. |
 | [Linkedin Post Writer](../../marketing/social-media/linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
 | [Photographer Social Media Planner](photographer-social-media-planner.md) | Plan, post, and grow your photography brand on social media with AI assistance. |
 | [Social Content](../../marketing/social-media/social-content.md) | Creates, schedules, and optimizes content across LinkedIn, Twitter/X, Instagram, TikTok, and Facebook. |

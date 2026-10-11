@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Product Development
 
-Campaigns, ads, conversion and launch plans. 41 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 43 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,7 @@ Campaigns, ads, conversion and launch plans. 41 Grok Bot templates, 8 of them fi
 | [Customer Persona Builder](../../management/marketing-and-growth/customer-persona-builder.md) | Builds and refines customer personas from research to presentation for marketing managers. |
 | [Developer Audience Context](../../marketing/marketing-and-growth/developer-audience-context.md) | Maintain a living document that captures your target developer audience for consistent marketing. |
 | [Developer Listening](../../marketing/marketing-and-growth/developer-listening.md) | Monitor developer conversations across GitHub, Hacker News, Reddit, and more. |
+| [Devil's Advocate](../../executives-and-strategy/marketing-and-growth/devil-s-advocate.md) | Argues the strongest honest case against your decision, plan, or belief, then hands it back. |
 | [Docs As Marketing](../../marketing/marketing-and-growth/docs-as-marketing.md) | Turn developer docs into a marketing channel that attracts, converts, and retains users. |
 | [Domain Name Brainstormer](../../marketing/marketing-and-growth/domain-name-brainstormer.md) | Generates creative domain name ideas for your project and checks availability across multiple TLDs. |
 | [E-commerce Launch Strategist](../../management/marketing-and-growth/e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
@@ -24,6 +25,7 @@ Campaigns, ads, conversion and launch plans. 41 Grok Bot templates, 8 of them fi
 | [Form Cro](../../marketing/marketing-and-growth/form-cro.md) | Audit and optimize non-signup forms to maximize completion rates. |
 | [Free Tier Strategy](free-tier-strategy.md) | Design free tiers that developers love and that convert to paid naturally. |
 | [Free Tool Strategy](../../marketing/marketing-and-growth/free-tool-strategy.md) | Plan and evaluate free tools for lead gen, SEO, and brand awareness. |
+| [Growth Analytics Optimizer](../../marketing/marketing-and-growth/growth-analytics-optimizer.md) | Track, analyze, and optimize your projects' growth with AI-driven analytics. |
 | [Growth Engine](../../marketing/marketing-and-growth/growth-engine.md) | Growth engine for digital products with growth hacking, SEO, and viral loops. |
 | [Launch Plan Orchestrator](../../executives-and-strategy/marketing-and-growth/launch-plan-orchestrator.md) | Plans and executes product launches from market research to performance tracking. |
 | [Launch Pre-Mortem](launch-pre-mortem.md) | Runs a pre-mortem on your launch plan and sorts real risks from noise. |

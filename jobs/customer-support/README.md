@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **191 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **192 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Answering, routing and resolving customer requests. **191 ready-made Grok Bot te
 | [Research](research/README.md) | 3 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
 | [Social Media](social-media/README.md) | 1 |
@@ -280,6 +281,12 @@ Answering, routing and resolving customer requests. **191 ready-made Grok Bot te
 |---|---|
 | [Customer Training Content Developer](teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
 | [Marlin Bed Leveling Calibration](teaching-and-tutoring/marlin-bed-leveling-calibration.md) | Calibrates Marlin 2.x bed leveling and writes the G-code that keeps the mesh active during prints. |
+
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Paid Ads Guide](marketing-and-growth/paid-ads-guide.md) | Explains NotFair's paid-ads capabilities, connections, and boundaries from official docs. |
 
 ## Office Tools
 

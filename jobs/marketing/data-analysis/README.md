@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 139 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 141 Grok Bot templates, 36 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Clean, query, chart and explain data. 139 Grok Bot templates, 34 of them filed i
 | [Apify Lead Generation](../../sales/data-analysis/apify-lead-generation.md) | Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors. |
 | [Apify Trend Analysis](apify-trend-analysis.md) | Track emerging trends across social media and Google Trends to inform content strategy. |
 | [Audience Compass Strategist](../../pr-and-communications/data-analysis/audience-compass-strategist.md) | Analyzes audience data to sharpen communication strategy and engagement. |
+| [Backlink Profile Analyzer](backlink-profile-analyzer.md) | Analyzes any domain's backlink profile and compares it to a competitor. |
 | [Behavioral Data Strategist](../../executives-and-strategy/data-analysis/behavioral-data-strategist.md) | Analyzes consumer behavior data to deliver strategic marketing insights and campaign recommendations. |
 | [Blog Analytics Interpreter](../../writers/data-analysis/blog-analytics-interpreter.md) | Turns your blog and marketing data into clear, actionable insights for better decisions. |
 | [Blog Audience Insight Analyst](../../writers/data-analysis/blog-audience-insight-analyst.md) | Analyze your blog audience and tailor content with data-driven insights. |
@@ -125,6 +126,7 @@ Clean, query, chart and explain data. 139 Grok Bot templates, 34 of them filed i
 | [Product Positioning Insights Analyst](../../executives-and-strategy/data-analysis/product-positioning-insights-analyst.md) | Turns market and competitor data into product positioning insights and recommendations. |
 | [Promotional Effectiveness Analyst](../../management/data-analysis/promotional-effectiveness-analyst.md) | Analyzes promotional effectiveness from sales, feedback, and competitor data to recommend improvements and optimize budget. |
 | [Quarterly Business Review Builder](quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
+| [Rank Movement Tracker](rank-movement-tracker.md) | Track ranking changes between any two periods using real Search Console data. |
 | [Reddit Thread Analyzer](reddit-thread-analyzer.md) | Analyze Reddit threads for sentiment, key arguments, and community consensus. |
 | [Segment Blueprint for Analysts](../../it-and-development/data-analysis/segment-blueprint-for-analysts.md) | Guides business analysts through customer segmentation from data to action. |
 | [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |

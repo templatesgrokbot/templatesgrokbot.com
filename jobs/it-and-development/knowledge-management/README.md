@@ -1,6 +1,6 @@
 # Knowledge Management templates for IT and Development
 
-Notes, documents, PDFs and knowledge bases kept in order. 66 Grok Bot templates, 48 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 67 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -62,6 +62,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 66 Grok Bot templates,
 | [Review Agent](../../operations/knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
 | [Rule Promotion Assistant](rule-promotion-assistant.md) | Turns a repeatedly observed working pattern into a permanent, enforced project rule. |
 | [Session Collaboration Record](session-collaboration-record.md) | Records what you decided and what the AI contributed in a coding session, with evidence. |
+| [Session Memory Committer](session-memory-committer.md) | Commits your session to durable vault memory and prepares a clean resume point. |
 | [Swarmvault](swarmvault.md) | Build and maintain a local-first knowledge vault from books, notes, code, and recurring sources. |
 | [Tag Agent](../../operations/knowledge-management/tag-agent.md) | Standardizes Obsidian tags to a hierarchical taxonomy, consolidates duplicates, and generates analysis reports. |
 | [Tree Ring Memory](tree-ring-memory.md) | Local-first agent memory lifecycle: recall, evidence, audit, forget without transcript dumping. |

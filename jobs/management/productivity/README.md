@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 213 Grok Bot templates, 66 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 214 Grok Bot templates, 67 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, prioritise and clear the recurring admin. 213 Grok Bot templates, 66 of th
 | [Alfred](alfred.md) | Designs and governs your Grok Bot organization to keep it useful and maintainable. |
 | [Antigravity Workflows](antigravity-workflows.md) | Orchestrate multi-step SaaS, security, AI, QA, or DDD workflows with verified checkpoints. |
 | [Asana Automation](../../operations/productivity/asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
+| [Atlassian Project Manager](atlassian-project-manager.md) | Manages Jira and Confluence via MCP: queries, updates, and automation. |
 | [Atlassian Requirements to Jira](../../product-development/productivity/atlassian-requirements-to-jira.md) | Parse requirements documents and create Jira epics and user stories with duplicate detection and approval workflow. |
 | [Auri Core](../../product-development/productivity/auri-core.md) | Voice assistant product strategy and roadmap assistant for Auri (Alexa + Claude). |
 | [Automation Opportunity Finder](automation-opportunity-finder.md) | Finds, plans, and tracks automation opportunities across your projects and operations. |

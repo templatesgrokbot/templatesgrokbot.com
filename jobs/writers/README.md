@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **266 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **268 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,11 @@ Authors, copywriters, editors and journalists. **266 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 131 |
+| [Writing & Content](writing-and-content/README.md) | 132 |
 | [Research](research/README.md) | 37 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 28 |
 | [Data Analysis](data-analysis/README.md) | 10 |
-| [Social Media](social-media/README.md) | 9 |
+| [Social Media](social-media/README.md) | 10 |
 | [Design](design/README.md) | 8 |
 | [Office Tools](office-tools/README.md) | 8 |
 | [Knowledge Management](knowledge-management/README.md) | 6 |
@@ -96,6 +96,7 @@ Authors, copywriters, editors and journalists. **266 ready-made Grok Bot templat
 | [Humanizer](writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Interactive Content Ideas Generator](writing-and-content/interactive-content-ideas-generator.md) | Generates and designs interactive content ideas for writers and creators. |
 | [Legal Document Drafter](../legal/writing-and-content/legal-document-drafter.md) | Drafts, reviews, and researches legal documents for lawyers. |
+| [LinkedIn Story Interviewer](writing-and-content/linkedin-story-interviewer.md) | Interviews you to build a lasting Story Bank of concrete material for your posts. |
 | [Logline and Synopsis Crafter](writing-and-content/logline-and-synopsis-crafter.md) | Turns your story ideas into polished loglines and synopses ready for pitching. |
 | [Long Novel Deconstructor](writing-and-content/long-novel-deconstructor.md) | 深度拆解长篇网文，产出可复用的写作框架与节奏地图。 |
 | [Long-Form Story Writer](writing-and-content/long-form-story-writer.md) | Plans and writes long web novels from premise to chapters, with structure-first control. |
@@ -266,6 +267,7 @@ Authors, copywriters, editors and journalists. **266 ready-made Grok Bot templat
 |---|---|
 | [Blog Social Media Integrator](social-media/blog-social-media-integrator.md) | Plan, publish, and grow your blog's social media presence across platforms from one chat. |
 | [Brand Voice and Messaging Assistant](../marketing/social-media/brand-voice-and-messaging-assistant.md) | Crafts and keeps your brand's voice consistent across social media, from captions to strategy. |
+| [LinkedIn Hook Analyzer](../marketing/social-media/linkedin-hook-analyzer.md) | Analyze any viral LinkedIn post URL and get its hook formula, structure, and a blank template. |
 | [Linkedin Post Writer](../marketing/social-media/linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
 | [Social Media Content Creator](social-media/social-media-content-creator.md) | Drafts, plans, and optimizes your social media content from research to reporting. |
 | [Social Media Content Planner](../pr-and-communications/social-media/social-media-content-planner.md) | Plans, creates, and optimizes social media content calendars and campaigns for editors. |

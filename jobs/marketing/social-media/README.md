@@ -1,6 +1,6 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 80 Grok Bot templates, 63 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 87 Grok Bot templates, 69 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -29,10 +29,17 @@ Plan, write and measure posts across networks. 80 Grok Bot templates, 63 of them
 | [instagram connector liker follower commenter](instagram-connector-liker-follower-commenter.md) | Automate Instagram engagement: like, follow, and comment on public posts from a signed-in browser. |
 | [Instagram Content Curator](instagram-content-curator.md) | Plans Instagram content, tracks performance against targets, and drafts posts for your approval. |
 | [Instagram Manager](instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
+| [LinkedIn Advocacy Program Manager](linkedin-advocacy-program-manager.md) | Launch and run a LinkedIn employee advocacy program for your team. |
 | [Linkedin Automation](linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
 | [Linkedin Cli](linkedin-cli.md) | Automate LinkedIn tasks like profile fetching, messaging, and posting via CLI. |
+| [LinkedIn Comment Drafter](linkedin-comment-drafter.md) | Drafts LinkedIn comments or reshare posts from a URL in your voice, then publishes on approval. |
 | [Linkedin Content Generator](linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
+| [LinkedIn Content Manager](linkedin-content-manager.md) | Plan, draft, audit, and publish LinkedIn posts and comments with approval. |
+| [LinkedIn Content Repurposer](linkedin-content-repurposer.md) | Turns your existing tweets, videos, or blogs into native LinkedIn posts that perform. |
+| [LinkedIn Engager Analyzer](../../sales/social-media/linkedin-engager-analyzer.md) | Pulls who liked or commented on your LinkedIn posts and segments them by ICP fit. |
+| [LinkedIn Hook Analyzer](linkedin-hook-analyzer.md) | Analyze any viral LinkedIn post URL and get its hook formula, structure, and a blank template. |
 | [Linkedin Post Writer](linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
+| [LinkedIn Reply Drafter](linkedin-reply-drafter.md) | Drafts replies to LinkedIn comments or sweeps an entire thread for batch replies. |
 | [Photographer Social Media Planner](../../creatives/social-media/photographer-social-media-planner.md) | Plan, post, and grow your photography brand on social media with AI assistance. |
 | [Platform Strategy Developer](platform-strategy-developer.md) | Develops platform-specific social media strategies from content to ads to analytics. |
 | [Presence Audit Optimizer](../../pr-and-communications/social-media/presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |

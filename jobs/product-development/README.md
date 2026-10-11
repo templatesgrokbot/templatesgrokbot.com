@@ -1,6 +1,6 @@
 # Grok Bot templates for Product Development
 
-Product managers and the teams that ship. **1,104 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Product managers and the teams that ship. **1,109 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,14 +13,14 @@ Product managers and the teams that ship. **1,104 ready-made Grok Bot templates*
 |---|---:|
 | [Coding](coding/README.md) | 400 |
 | [Design](design/README.md) | 101 |
-| [Productivity](productivity/README.md) | 88 |
+| [Productivity](productivity/README.md) | 89 |
 | [Data Analysis](data-analysis/README.md) | 83 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 74 |
 | [Research](research/README.md) | 71 |
 | [Generative Code](generative-code/README.md) | 66 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 53 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 41 |
-| [Writing & Content](writing-and-content/README.md) | 30 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 43 |
+| [Writing & Content](writing-and-content/README.md) | 32 |
 | [Security & Compliance](security-and-compliance/README.md) | 26 |
 | [Prompt Engineering](prompt-engineering/README.md) | 23 |
 | [Knowledge Management](knowledge-management/README.md) | 17 |
@@ -40,11 +40,11 @@ Product managers and the teams that ship. **1,104 ready-made Grok Bot templates*
 | [Screenshot Interaction Analyzer](../it-and-development/coding/screenshot-interaction-analyzer.md) | Analyzes UI screenshots to map every clickable element, input, and navigation path. |
 | [Poka Yoke](../it-and-development/coding/poka-yoke.md) | Redesign work so mistakes cannot become defects, without relying on human memory. |
 | [Tdd Orchestrator](../it-and-development/coding/tdd-orchestrator.md) | Enforces red-green-refactor cycles and coordinates multi-agent TDD workflows across software projects. |
-| [Neon Database Architect](../it-and-development/coding/neon-database-architect.md) | Designs and optimizes Neon serverless database schemas and queries. |
-| [Fp Ts React](../it-and-development/coding/fp-ts-react.md) | Practical fp-ts patterns for React apps: state, forms, data fetching. |
-| [Filesystem Context](../it-and-development/coding/filesystem-context.md) | Manage context via filesystem: offload, retrieve, and persist agent state on demand. |
 | [Legacy Modernizer](../it-and-development/coding/legacy-modernizer.md) | Plan and execute safe, incremental migrations of legacy systems to modern architectures. |
-| [Opencode Delegate](../it-and-development/coding/opencode-delegate.md) | Hand bounded coding tasks to the OpenCode CLI, review diffs, and commit yourself. |
+| [Fp Ts React](../it-and-development/coding/fp-ts-react.md) | Practical fp-ts patterns for React apps: state, forms, data fetching. |
+| [Web3 Testing](../it-and-development/coding/web3-testing.md) | Write and run unit, integration, fuzz, and gas tests for Solidity smart contracts. |
+| [Filesystem Context](../it-and-development/coding/filesystem-context.md) | Manage context via filesystem: offload, retrieve, and persist agent state on demand. |
+| [Neon Database Architect](../it-and-development/coding/neon-database-architect.md) | Designs and optimizes Neon serverless database schemas and queries. |
 
 [All 400 Coding templates →](coding/README.md)
 
@@ -53,12 +53,12 @@ Product managers and the teams that ship. **1,104 ready-made Grok Bot templates*
 | Template | What it does |
 |---|---|
 | [Sci Fi Interface](../creatives/design/sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
-| [Uxui Principles](../creatives/design/uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
 | [Neumorphism](../creatives/design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
-| [Spatial Computing Ui](../it-and-development/design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
-| [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
+| [Uxui Principles](../creatives/design/uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
 | [High End Visual Design](../creatives/design/high-end-visual-design.md) | Awwwards-tier UI architecture and motion design for premium, agency-grade interfaces. |
-| [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
+| [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
+| [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
+| [Spatial Computing Ui](../it-and-development/design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
 | [Ui Ux Designer](../creatives/design/ui-ux-designer.md) | Reviews UI/UX designs with research-backed critiques and accessibility compliance checks. |
 
 [All 101 Design templates →](design/README.md)
@@ -76,7 +76,7 @@ Product managers and the teams that ship. **1,104 ready-made Grok Bot templates*
 | [Hackathon Ai Strategist](../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
 | [To Issues](productivity/to-issues.md) | Break a plan into independently-grabbable issues using vertical slices. |
 
-[All 88 Productivity templates →](productivity/README.md)
+[All 89 Productivity templates →](productivity/README.md)
 
 ## Data Analysis
 
@@ -87,8 +87,8 @@ Product managers and the teams that ship. **1,104 ready-made Grok Bot templates*
 | [Database Design](../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
 | [User Feedback Insight Assistant](data-analysis/user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
 | [Zinc Database](../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |
-| [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
 | [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
+| [Process Optimization Analyst](data-analysis/process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
 | [Process Efficiency Analyst](data-analysis/process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
 
 [All 83 Data Analysis templates →](data-analysis/README.md)
@@ -99,12 +99,12 @@ Product managers and the teams that ship. **1,104 ready-made Grok Bot templates*
 |---|---|
 | [Microsoft Agent Framework Python](../it-and-development/generative-ai-and-llm/microsoft-agent-framework-python.md) | Create and maintain Python AI agents using Microsoft Agent Framework. Always check latest docs first. Interview once for project details. Keep state o |
 | [Llm Evaluation](../it-and-development/generative-ai-and-llm/llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
+| [Llm Council](../it-and-development/generative-ai-and-llm/llm-council.md) | Run a council of open-weight LLMs that deliberate and synthesize a final answer via Fireworks AI. |
 | [Embedding Strategies](../it-and-development/generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
 | [Ai Engineering Toolkit](../it-and-development/generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
-| [Llm Council](../it-and-development/generative-ai-and-llm/llm-council.md) | Run a council of open-weight LLMs that deliberate and synthesize a final answer via Fireworks AI. |
-| [Crewai](../it-and-development/generative-ai-and-llm/crewai.md) | Designs collaborative AI agent teams with CrewAI framework |
-| [Model Evaluator](../it-and-development/generative-ai-and-llm/model-evaluator.md) | Benchmarks AI models to pick the best for your task, budget, and latency needs. |
+| [Mcp Integration Engineer](../it-and-development/generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
 | [Agent Tool Builder](../it-and-development/generative-ai-and-llm/agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
+| [Crewai](../it-and-development/generative-ai-and-llm/crewai.md) | Designs collaborative AI agent teams with CrewAI framework |
 
 [All 74 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
@@ -114,9 +114,9 @@ Product managers and the teams that ship. **1,104 ready-made Grok Bot templates*
 |---|---|
 | [Ux Researcher](../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
 | [Mcp Registry Navigator](../it-and-development/research/mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
+| [Task Researcher](../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 | [Customer Research](../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
-| [Task Researcher](../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 | [Rex](research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [Lightning Architecture Review](../it-and-development/research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 | [Wiki Researcher](../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
@@ -130,11 +130,11 @@ Product managers and the teams that ship. **1,104 ready-made Grok Bot templates*
 | [Backend To Frontend Handoff Docs](../it-and-development/generative-code/backend-to-frontend-handoff-docs.md) | Generate API handoff docs for frontend developers from completed backend code. |
 | [Web Games](../it-and-development/generative-code/web-games.md) | Select frameworks and optimize performance for browser-based games. |
 | [Threejs Animation](../creatives/generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
-| [Angular](../it-and-development/generative-code/angular.md) | Modern Angular v20+ expert: Signals, Standalone Components, Zoneless, SSR/Hydration. |
 | [Figma](../it-and-development/generative-code/figma.md) | Fetches Figma designs and translates them into production code. |
+| [Angular](../it-and-development/generative-code/angular.md) | Modern Angular v20+ expert: Signals, Standalone Components, Zoneless, SSR/Hydration. |
 | [Use Dom](../it-and-development/generative-code/use-dom.md) | Run web code in a webview on native and as-is on web, incrementally migrating web code to Expo. |
+| [Magic Ui Generator](../creatives/generative-code/magic-ui-generator.md) | Generate, compare, and integrate production-ready UI component variations using Magic by 21st.dev. |
 | [Game Design](../creatives/generative-code/game-design.md) | Design game loops, documents, and progression systems. |
-| [Threejs Fundamentals](../creatives/generative-code/threejs-fundamentals.md) | Set up Three.js scenes, cameras, renderers, and object hierarchies. |
 
 [All 66 Generative Code templates →](generative-code/README.md)
 
@@ -149,7 +149,7 @@ Product managers and the teams that ship. **1,104 ready-made Grok Bot templates*
 | [Azure Appconfiguration Java](../it-and-development/cloud-and-devops/azure-appconfiguration-java.md) | Centralized config management with key-values, feature flags, and snapshots. |
 | [Deployment Procedures](../it-and-development/cloud-and-devops/deployment-procedures.md) | Guides safe production deployments with rollback planning and verification. |
 | [Release Captain](../it-and-development/cloud-and-devops/release-captain.md) | Runs the release checklist and refuses to skip the step everyone always skips. |
-| [Agents V2 Py](../it-and-development/cloud-and-devops/agents-v2-py.md) | Provision container-based hosted agents in Azure AI Foundry using the Python SDK. |
+| [Github Actions Expert](../it-and-development/cloud-and-devops/github-actions-expert.md) | Designs and secures GitHub Actions workflows with least privilege and supply-chain safety. |
 
 [All 53 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
@@ -166,22 +166,22 @@ Product managers and the teams that ship. **1,104 ready-made Grok Bot templates*
 | [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
 | [Product Ideation Assistant](../executives-and-strategy/marketing-and-growth/product-ideation-assistant.md) | Turns raw product ideas into validated, prioritized concepts with market-ready details. |
 
-[All 41 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 43 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Writing & Content
 
 | Template | What it does |
 |---|---|
 | [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
-| [Seo Content Refresher](../marketing/writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
 | [Documentation Templates](../it-and-development/writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
+| [Seo Content Refresher](../marketing/writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
 | [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
 | [PM Stakeholder Comms Kit](writing-and-content/pm-stakeholder-comms-kit.md) | Drafts, summarizes, and plans all stakeholder communications for product managers. |
 | [Technical Documentation Assistant](writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
 | [Doc Co-Authoring Workflow](../writers/writing-and-content/doc-coauthoring.md) | Guides users through co-authoring docs with context, refinement, and reader testing. |
 | [App Store Changelog](../it-and-development/writing-and-content/app-store-changelog.md) | Generate App Store release notes from git history since the last tag. |
 
-[All 30 Writing & Content templates →](writing-and-content/README.md)
+[All 32 Writing & Content templates →](writing-and-content/README.md)
 
 ## Security & Compliance
 
@@ -234,12 +234,12 @@ Product managers and the teams that ship. **1,104 ready-made Grok Bot templates*
 |---|---|
 | [Comfyui Gateway](../it-and-development/generative-art/comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |
 | [Fal Generate](../creatives/generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
-| [Game Audio](../creatives/generative-art/game-audio.md) | Guide game audio design: sound, music integration, adaptive systems. |
 | [Rayden Use](../creatives/generative-art/rayden-use.md) | Build and maintain Rayden UI components and screens in Figma with design token enforcement. |
+| [Game Audio](../creatives/generative-art/game-audio.md) | Guide game audio design: sound, music integration, adaptive systems. |
 | [Patentfig](../creatives/generative-art/patentfig.md) | Generate patent-office-compliant figures from text or images via the PatentFig API. |
 | [Idea Darwin](../creatives/generative-art/idea-darwin.md) | Evolve rough ideas through competitive rounds to surface strongest concepts. |
 | [Lookdev Auto](../creatives/generative-art/lookdev-auto.md) | Automated visual tuning loop using a vision model as rater for subjective quality. |
-| [Threejs Shaders](../creatives/generative-art/threejs-shaders.md) | Custom GLSL shaders for Three.js visual effects. |
+| [Vizcom](../creatives/generative-art/vizcom.md) | Turn sketches into photorealistic 3D renders of physical products. |
 
 [All 9 Generative Art templates →](generative-art/README.md)
 
@@ -251,8 +251,8 @@ Product managers and the teams that ship. **1,104 ready-made Grok Bot templates*
 | [Lesson Generator](../education/teaching-and-tutoring/lesson-generator.md) | Build compact multi-lesson courses with navigation, quizzes, and flashcards. |
 | [Ship Learn Next](../education/teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Pitch Rehearsal](../education/teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
-| [Agile Project Manager Advisor](../management/teaching-and-tutoring/agile-project-manager-advisor.md) | Guides project managers through Agile practices, planning, tracking, and team collaboration. |
 | [Process Engineer Training Developer](teaching-and-tutoring/process-engineer-training-developer.md) | Builds and manages training and educational resources for process engineers. |
+| [Agile Project Manager Advisor](../management/teaching-and-tutoring/agile-project-manager-advisor.md) | Guides project managers through Agile practices, planning, tracking, and team collaboration. |
 | [Technology Integration Assistant](teaching-and-tutoring/technology-integration-assistant.md) | Guides packaging engineers through technology integration from material selection to smart packaging. |
 | [Software Lifecycle Advisor](../it-and-development/teaching-and-tutoring/software-lifecycle-advisor.md) | Guides technology managers through the software development lifecycle with AI-driven advice. |
 

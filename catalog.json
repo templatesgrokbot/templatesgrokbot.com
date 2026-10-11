@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 7106,
+ "count": 7157,
  "templates": [
   {
    "slug": "007",
@@ -945,6 +945,22 @@
    "url": "https://templatesgrokbot.com/bot/ad-creative",
    "adapted_from": "https://github.com/coreyhaines31/marketingskills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "ad-integration-verifier",
+   "name": "Ad Integration Verifier",
+   "tagline": "Discovers, connects, and verifies paid-ad integrations and their actual capabilities.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/ad-integration-verifier.md",
+   "url": "https://templatesgrokbot.com/bot/ad-integration-verifier",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-integrations",
+   "source_license": "MIT"
   },
   {
    "slug": "ad-security-reviewer",
@@ -2565,6 +2581,23 @@
    "url": "https://templatesgrokbot.com/bot/ai-automation-implementation-advisor"
   },
   {
+   "slug": "ai-citation-optimizer",
+   "name": "AI Citation Optimizer",
+   "tagline": "Optimizes content to be cited by AI search engines and assistants.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/ai-citation-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/ai-citation-optimizer",
+   "adapted_from": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/ai-seo",
+   "source_license": "MIT"
+  },
+  {
    "slug": "ai-citation-strategist",
    "name": "AI Citation Strategist",
    "tagline": "Audits how often AI assistants cite your brand and delivers prioritized content fixes to close competitor gaps.",
@@ -3517,6 +3550,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "amazon-ads-planner",
+   "name": "Amazon Ads Planner",
+   "tagline": "Plan and review Amazon Ads with margin-aware ACoS and search-term guardrails.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/amazon-ads-planner.md",
+   "url": "https://templatesgrokbot.com/bot/amazon-ads-planner",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-amazon",
+   "source_license": "MIT"
+  },
+  {
    "slug": "amazon-alexa",
    "name": "Amazon Alexa",
    "tagline": "Integrate Amazon Alexa with Claude to build voice capabilities and AWS backend services.",
@@ -4378,6 +4428,23 @@
    "url": "https://templatesgrokbot.com/bot/anti-ui-slop",
    "adapted_from": "https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "anti-forensics-operator",
+   "name": "Anti-Forensics Operator",
+   "tagline": "Manages anti-forensics for authorized red team engagements, clearing and manipulating evidence.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/anti-forensics-operator.md",
+   "url": "https://templatesgrokbot.com/bot/anti-forensics-operator",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/forensics/offensive-anti-forensics",
+   "source_license": "MIT"
   },
   {
    "slug": "antibiotic-resistance-research-assistant",
@@ -6073,6 +6140,25 @@
    "source_license": "MIT"
   },
   {
+   "slug": "atlassian-project-manager",
+   "name": "Atlassian Project Manager",
+   "tagline": "Manages Jira and Confluence via MCP: queries, updates, and automation.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "it-and-development",
+    "product-development"
+   ],
+   "topics": [
+    "productivity",
+    "knowledge-management"
+   ],
+   "path": "jobs/management/productivity/atlassian-project-manager.md",
+   "url": "https://templatesgrokbot.com/bot/atlassian-project-manager",
+   "adapted_from": "https://github.com/Jeffallan/claude-skills/tree/main/skills/atlassian-mcp",
+   "source_license": "MIT"
+  },
+  {
    "slug": "atlassian-requirements-to-jira",
    "name": "Atlassian Requirements to Jira",
    "tagline": "Parse requirements documents and create Jira epics and user stories with duplicate detection and approval workflow.",
@@ -6861,6 +6947,24 @@
    "path": "jobs/it-and-development/generative-ai-and-llm/autonomous-optimization-architect.md",
    "url": "https://templatesgrokbot.com/bot/autonomous-optimization-architect",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/engineering/engineering-autonomous-optimization-architect",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "autonomous-research-manager",
+   "name": "Autonomous Research Manager",
+   "tagline": "Manages autonomous research projects from literature review to published paper.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/research/autonomous-research-manager.md",
+   "url": "https://templatesgrokbot.com/bot/autonomous-research-manager",
+   "adapted_from": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/0-autoresearch-skill",
    "source_license": "MIT"
   },
   {
@@ -9939,6 +10043,23 @@
    "path": "jobs/it-and-development/generative-code/backend-to-frontend-handoff-docs.md",
    "url": "https://templatesgrokbot.com/bot/backend-to-frontend-handoff-docs",
    "adapted_from": "https://www.aitmpl.com/component/skills/enterprise-communication/backend-to-frontend-handoff-docs",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "backlink-profile-analyzer",
+   "name": "Backlink Profile Analyzer",
+   "tagline": "Analyzes any domain's backlink profile and compares it to a competitor.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/marketing/data-analysis/backlink-profile-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/backlink-profile-analyzer",
+   "adapted_from": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills/tree/main/skills/backlink-check",
    "source_license": "MIT"
   },
   {
@@ -13225,6 +13346,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "bug-identification-assistant",
+   "name": "Bug Identification Assistant",
+   "tagline": "Find vulnerabilities in software through code review, dynamic analysis, and fuzzing.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/bug-identification-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/bug-identification-assistant",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/fuzzing/offensive-bug-identification",
+   "source_license": "MIT"
+  },
+  {
    "slug": "bug-repro",
    "name": "Bug Repro",
    "tagline": "Takes a vague bug report and works it into a minimal reproduction with an actual failing test.",
@@ -15857,6 +15994,22 @@
    ],
    "path": "jobs/it-and-development/generative-ai-and-llm/chatbot-integration-designer.md",
    "url": "https://templatesgrokbot.com/bot/chatbot-integration-designer"
+  },
+  {
+   "slug": "chatgpt-ads-experiment-planner",
+   "name": "ChatGPT Ads Experiment Planner",
+   "tagline": "Plans and reviews ChatGPT Ads experiments without assuming platform access.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/chatgpt-ads-experiment-planner.md",
+   "url": "https://templatesgrokbot.com/bot/chatgpt-ads-experiment-planner",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-chatgpt",
+   "source_license": "MIT"
   },
   {
    "slug": "check-identity-pack",
@@ -19255,6 +19408,23 @@
    "path": "jobs/it-and-development/coding/code-explorer.md",
    "url": "https://templatesgrokbot.com/bot/code-explorer",
    "adapted_from": "https://www.aitmpl.com/component/agents/development-team/code-explorer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "code-health-scanner",
+   "name": "Code Health Scanner",
+   "tagline": "Scans codebase for dead code, tech debt, outdated dependencies, and quality issues.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/coding/code-health-scanner.md",
+   "url": "https://templatesgrokbot.com/bot/code-health-scanner",
+   "adapted_from": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/agent-triforce/skills/code-health",
    "source_license": "MIT"
   },
   {
@@ -26374,6 +26544,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "crypto-attack-analyst",
+   "name": "Crypto Attack Analyst",
+   "tagline": "Identifies and exploits cryptographic implementation weaknesses in applications.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/crypto-attack-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/crypto-attack-analyst",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/crypto/offensive-crypto-attacks",
+   "source_license": "MIT"
+  },
+  {
    "slug": "crypto-bd-agent",
    "name": "Crypto Bd Agent",
    "tagline": "Autonomous token discovery, scoring, and outreach for crypto exchange listings.",
@@ -32738,6 +32924,23 @@
    "path": "jobs/it-and-development/coding/devil.md",
    "url": "https://templatesgrokbot.com/bot/devil",
    "adapted_from": "https://www.aitmpl.com/component/skills/productivity/devil",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "devil-s-advocate",
+   "name": "Devil's Advocate",
+   "tagline": "Argues the strongest honest case against your decision, plan, or belief, then hands it back.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy",
+    "product-development"
+   ],
+   "topics": [
+    "marketing-and-growth"
+   ],
+   "path": "jobs/executives-and-strategy/marketing-and-growth/devil-s-advocate.md",
+   "url": "https://templatesgrokbot.com/bot/devil-s-advocate",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/devils-advocate",
    "source_license": "MIT"
   },
   {
@@ -41584,6 +41787,25 @@
    "source_license": "MIT"
   },
   {
+   "slug": "exploit-development-guide",
+   "name": "Exploit Development Guide",
+   "tagline": "Guides exploit development from bug identification to reliable weaponization.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring",
+    "coding",
+    "research"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/exploit-development-guide.md",
+   "url": "https://templatesgrokbot.com/bot/exploit-development-guide",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/exploit-dev/offensive-exploit-development",
+   "source_license": "MIT"
+  },
+  {
    "slug": "exploratory-data-analysis",
    "name": "Exploratory Data Analysis",
    "tagline": "Analyze scientific data files across 200+ formats and generate markdown reports. No file? No action. Never repeat an analysis on the same file. Draft ",
@@ -42333,6 +42555,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "fastapi-api-architect",
+   "name": "FastAPI API Architect",
+   "tagline": "Build production-grade async FastAPI APIs with Pydantic V2, JWT auth, and SQLAlchemy.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "teaching-and-tutoring",
+    "generative-code"
+   ],
+   "path": "jobs/it-and-development/coding/fastapi-api-architect.md",
+   "url": "https://templatesgrokbot.com/bot/fastapi-api-architect",
+   "adapted_from": "https://github.com/Jeffallan/claude-skills/tree/main/skills/fastapi-expert",
+   "source_license": "MIT"
+  },
+  {
    "slug": "fastapi-endpoint",
    "name": "Fastapi Endpoint",
    "tagline": "Plans and builds production-ready FastAPI endpoints with async SQLAlchemy, Pydantic v2, auth, and tests.",
@@ -42614,6 +42854,22 @@
    ],
    "path": "jobs/product-development/productivity/feature-prioritization-assistant.md",
    "url": "https://templatesgrokbot.com/bot/feature-prioritization-assistant"
+  },
+  {
+   "slug": "feature-spec-writer",
+   "name": "Feature Spec Writer",
+   "tagline": "Turns a feature idea into a complete spec with acceptance criteria, scope, and risks.",
+   "category": "engineering",
+   "jobs": [
+    "product-development"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/product-development/writing-and-content/feature-spec-writer.md",
+   "url": "https://templatesgrokbot.com/bot/feature-spec-writer",
+   "adapted_from": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/agent-triforce/skills/feature-spec",
+   "source_license": "MIT"
   },
   {
    "slug": "feature-tracking",
@@ -46792,6 +47048,23 @@
    "url": "https://templatesgrokbot.com/bot/future-scenario-builder"
   },
   {
+   "slug": "fuzzing-campaign-guide",
+   "name": "Fuzzing Campaign Guide",
+   "tagline": "Guides fuzzing campaigns to find and triage vulnerabilities in software.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/fuzzing-campaign-guide.md",
+   "url": "https://templatesgrokbot.com/bot/fuzzing-campaign-guide",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/fuzzing/offensive-fuzzing-course",
+   "source_license": "MIT"
+  },
+  {
    "slug": "game-accessibility-features-planner",
    "name": "Game Accessibility Features Planner",
    "tagline": "Guides game developers through implementing accessibility features for inclusive player experiences.",
@@ -49473,6 +49746,57 @@
    "source_license": "MIT"
   },
   {
+   "slug": "google-ads-asset-planner",
+   "name": "Google Ads Asset Planner",
+   "tagline": "Plan, validate, and safely publish Google Ads assets from approved business evidence.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/google-ads-asset-planner.md",
+   "url": "https://templatesgrokbot.com/bot/google-ads-asset-planner",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/google-ads/assets",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "google-ads-auditor",
+   "name": "Google Ads Auditor",
+   "tagline": "Audits Google Ads account health and sets up business context for downstream work.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/google-ads-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/google-ads-auditor",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/google-ads/audit",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "google-ads-optimizer",
+   "name": "Google Ads Optimizer",
+   "tagline": "Operates, diagnoses, and optimizes Google Ads accounts with evidence-based recommendations.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/google-ads-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/google-ads-optimizer",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/google-ads/manage",
+   "source_license": "MIT"
+  },
+  {
    "slug": "google-ads-analyzer",
    "name": "Google Ads Performance Analyzer",
    "tagline": "Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations.",
@@ -50430,6 +50754,25 @@
    "path": "jobs/it-and-development/knowledge-management/grounded-vault-keeper.md",
    "url": "https://templatesgrokbot.com/bot/grounded-vault-keeper",
    "adapted_from": "https://github.com/wshobson/agents/tree/main/plugins/documentation-standards/skills/grounded-vault",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "growth-analytics-optimizer",
+   "name": "Growth Analytics Optimizer",
+   "tagline": "Track, analyze, and optimize your projects' growth with AI-driven analytics.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "product-development",
+    "it-and-development"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/growth-analytics-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/growth-analytics-optimizer",
+   "adapted_from": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/agent-analytics",
    "source_license": "MIT"
   },
   {
@@ -60134,6 +60477,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "keyword-research-planner",
+   "name": "Keyword Research Planner",
+   "tagline": "Turns a seed topic into a ranked keyword plan with real Google volume, CPC, intent, and difficulty.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/keyword-research-planner.md",
+   "url": "https://templatesgrokbot.com/bot/keyword-research-planner",
+   "adapted_from": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills/tree/main/skills/keyword-research",
+   "source_license": "MIT"
+  },
+  {
    "slug": "keyword-recherche-cluster",
    "name": "Keyword Research with Topic Clusters",
    "tagline": "Finds keywords your site can win with current authority and groups them into topic clusters.",
@@ -60551,6 +60912,23 @@
    "url": "https://templatesgrokbot.com/bot/kubernetes-architect",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "kubernetes-attack-simulator",
+   "name": "Kubernetes Attack Simulator",
+   "tagline": "Assess Kubernetes cluster security by simulating attacks from a compromised pod.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/kubernetes-attack-simulator.md",
+   "url": "https://templatesgrokbot.com/bot/kubernetes-attack-simulator",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/container/offensive-k8s-attacks",
+   "source_license": "MIT"
   },
   {
    "slug": "kubernetes-deployment",
@@ -61119,6 +61497,23 @@
    "path": "jobs/science-and-research/research/lamindb.md",
    "url": "https://templatesgrokbot.com/bot/lamindb",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/lamindb",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "landing-page-auditor",
+   "name": "Landing Page Auditor",
+   "tagline": "Scores and diagnoses Google Ads landing pages to find and fix conversion leaks.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/landing-page-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/landing-page-auditor",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/google-ads/landing",
    "source_license": "MIT"
   },
   {
@@ -62874,6 +63269,43 @@
    "url": "https://templatesgrokbot.com/bot/link-building-strategist"
   },
   {
+   "slug": "linkedin-ads-operator",
+   "name": "LinkedIn Ads Operator",
+   "tagline": "Audits and safely operates your connected LinkedIn Ads accounts.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/linkedin-ads-operator.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-ads-operator",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-linkedin",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "linkedin-advocacy-program-manager",
+   "name": "LinkedIn Advocacy Program Manager",
+   "tagline": "Launch and run a LinkedIn employee advocacy program for your team.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "teaching-and-tutoring",
+    "data-analysis",
+    "office-tools"
+   ],
+   "path": "jobs/marketing/social-media/linkedin-advocacy-program-manager.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-advocacy-program-manager",
+   "adapted_from": "https://github.com/sergebulaev/linkedin-skills/tree/main/.codex-marketplace/linkedin-skills/skills/linkedin-employee-advocacy",
+   "source_license": "MIT"
+  },
+  {
    "slug": "linkedin-automation",
    "name": "Linkedin Automation",
    "tagline": "Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP.",
@@ -62912,6 +63344,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "linkedin-comment-drafter",
+   "name": "LinkedIn Comment Drafter",
+   "tagline": "Drafts LinkedIn comments or reshare posts from a URL in your voice, then publishes on approval.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "writing-and-content",
+    "voice-modulation"
+   ],
+   "path": "jobs/marketing/social-media/linkedin-comment-drafter.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-comment-drafter",
+   "adapted_from": "https://github.com/sergebulaev/linkedin-skills/tree/main/.codex-marketplace/linkedin-skills/skills/linkedin-comment-drafter",
+   "source_license": "MIT"
+  },
+  {
    "slug": "linkedin-content-generator",
    "name": "Linkedin Content Generator",
    "tagline": "Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche.",
@@ -62931,6 +63381,80 @@
    "url": "https://templatesgrokbot.com/bot/linkedin-content-generator",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "linkedin-content-manager",
+   "name": "LinkedIn Content Manager",
+   "tagline": "Plan, draft, audit, and publish LinkedIn posts and comments with approval.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "social-media",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/marketing/social-media/linkedin-content-manager.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-content-manager",
+   "adapted_from": "https://github.com/sergebulaev/linkedin-skills/tree/main/.codex-marketplace/linkedin-skills",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "linkedin-content-repurposer",
+   "name": "LinkedIn Content Repurposer",
+   "tagline": "Turns your existing tweets, videos, or blogs into native LinkedIn posts that perform.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "creatives"
+   ],
+   "topics": [
+    "social-media",
+    "writing-and-content"
+   ],
+   "path": "jobs/marketing/social-media/linkedin-content-repurposer.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-content-repurposer",
+   "adapted_from": "https://github.com/sergebulaev/linkedin-skills/tree/main/.codex-marketplace/linkedin-skills/skills/linkedin-repurposer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "linkedin-engager-analyzer",
+   "name": "LinkedIn Engager Analyzer",
+   "tagline": "Pulls who liked or commented on your LinkedIn posts and segments them by ICP fit.",
+   "category": "marketing",
+   "jobs": [
+    "sales",
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/social-media/linkedin-engager-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-engager-analyzer",
+   "adapted_from": "https://github.com/sergebulaev/linkedin-skills/tree/main/.codex-marketplace/linkedin-skills/skills/linkedin-engager-analytics",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "linkedin-hook-analyzer",
+   "name": "LinkedIn Hook Analyzer",
+   "tagline": "Analyze any viral LinkedIn post URL and get its hook formula, structure, and a blank template.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "writers",
+    "creatives"
+   ],
+   "topics": [
+    "social-media",
+    "writing-and-content"
+   ],
+   "path": "jobs/marketing/social-media/linkedin-hook-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-hook-analyzer",
+   "adapted_from": "https://github.com/sergebulaev/linkedin-skills/tree/main/.codex-marketplace/linkedin-skills/skills/linkedin-hook-extractor",
+   "source_license": "MIT"
   },
   {
    "slug": "linkedin-post-writer",
@@ -62971,6 +63495,61 @@
    "url": "https://templatesgrokbot.com/bot/linkedin-profile-optimizer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "linkedin-reply-drafter",
+   "name": "LinkedIn Reply Drafter",
+   "tagline": "Drafts replies to LinkedIn comments or sweeps an entire thread for batch replies.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "social-media",
+    "writing-and-content",
+    "support-and-community",
+    "productivity"
+   ],
+   "path": "jobs/marketing/social-media/linkedin-reply-drafter.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-reply-drafter",
+   "adapted_from": "https://github.com/sergebulaev/linkedin-skills/tree/main/.codex-marketplace/linkedin-skills/skills/linkedin-reply-handler",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "linkedin-story-interviewer",
+   "name": "LinkedIn Story Interviewer",
+   "tagline": "Interviews you to build a lasting Story Bank of concrete material for your posts.",
+   "category": "marketing",
+   "jobs": [
+    "writers"
+   ],
+   "topics": [
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/writers/writing-and-content/linkedin-story-interviewer.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-story-interviewer",
+   "adapted_from": "https://github.com/sergebulaev/linkedin-skills/tree/main/.codex-marketplace/linkedin-skills/skills/linkedin-interviewer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "linkedin-thread-monitor",
+   "name": "LinkedIn Thread Monitor",
+   "tagline": "Tracks your LinkedIn comments for author replies and flags the best window to respond.",
+   "category": "marketing",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "social-media",
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/sales/social-media/linkedin-thread-monitor.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-thread-monitor",
+   "adapted_from": "https://github.com/sergebulaev/linkedin-skills/tree/main/.codex-marketplace/linkedin-skills/skills/linkedin-thread-monitor",
+   "source_license": "MIT"
   },
   {
    "slug": "linkerd-patterns",
@@ -69550,6 +70129,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "meta-ads-auditor",
+   "name": "Meta Ads Auditor",
+   "tagline": "Audits Meta Ads account health and sets up business context for fixes.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/meta-ads-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/meta-ads-auditor",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/meta-ads/audit",
+   "source_license": "MIT"
+  },
+  {
    "slug": "meta-agentic-project-scaffold",
    "name": "Meta Agentic Project Scaffold",
    "tagline": "Scaffolds a project by fetching and organizing Copilot prompts from a GitHub repo.",
@@ -70105,6 +70701,22 @@
    "url": "https://templatesgrokbot.com/bot/mise-configurator",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "mitigation-bypass-planner",
+   "name": "Mitigation Bypass Planner",
+   "tagline": "Assesses target hardening and catalogs exploit mitigation bypass techniques.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/mitigation-bypass-planner.md",
+   "url": "https://templatesgrokbot.com/bot/mitigation-bypass-planner",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/exploit-dev/offensive-mitigations",
+   "source_license": "MIT"
   },
   {
    "slug": "mixpanel-automation",
@@ -74282,6 +74894,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "notfair-plugin-upgrader",
+   "name": "NotFair Plugin Upgrader",
+   "tagline": "Upgrades the NotFair plugin to the latest version and shows what's new.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/notfair-plugin-upgrader.md",
+   "url": "https://templatesgrokbot.com/bot/notfair-plugin-upgrader",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/notfair-upgrade-skill",
+   "source_license": "MIT"
+  },
+  {
    "slug": "notion-automation",
    "name": "Notion Automation",
    "tagline": "Automate Notion pages, databases, blocks, comments, and users via Rube MCP.",
@@ -75438,6 +76067,24 @@
    "url": "https://templatesgrokbot.com/bot/odw",
    "adapted_from": "https://github.com/Suraj1235/open-dynamic-workflows/tree/main/packages/antigravity-adapter/skills/odw",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "offensive-fuzzing-campaign-manager",
+   "name": "Offensive Fuzzing Campaign Manager",
+   "tagline": "Plan and run fuzz campaigns against any target, from file parsers to kernels.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/offensive-fuzzing-campaign-manager.md",
+   "url": "https://templatesgrokbot.com/bot/offensive-fuzzing-campaign-manager",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/fuzzing/offensive-fuzzing",
+   "source_license": "MIT"
   },
   {
    "slug": "offer-comparison-analyzer",
@@ -77922,6 +78569,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "paid-ads-guide",
+   "name": "Paid Ads Guide",
+   "tagline": "Explains NotFair's paid-ads capabilities, connections, and boundaries from official docs.",
+   "category": "marketing",
+   "jobs": [
+    "customer-support",
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth"
+   ],
+   "path": "jobs/customer-support/marketing-and-growth/paid-ads-guide.md",
+   "url": "https://templatesgrokbot.com/bot/paid-ads-guide",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-guide",
+   "source_license": "MIT"
+  },
+  {
    "slug": "paid-media-auditor",
    "name": "Paid Media Auditor",
    "tagline": "Audits paid media accounts and returns prioritized fixes with projected impact.",
@@ -77936,6 +78600,24 @@
    "path": "jobs/marketing/marketing-and-growth/paid-media-auditor.md",
    "url": "https://templatesgrokbot.com/bot/paid-media-auditor",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/paid-media/paid-media-auditor",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "paid-media-reviewer",
+   "name": "Paid Media Reviewer",
+   "tagline": "Read-only paid-media performance reviews with evidence-based insights and recommendations.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/paid-media-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/paid-media-reviewer",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-review",
    "source_license": "MIT"
   },
   {
@@ -80877,6 +81559,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "pipeline-orchestrator",
+   "name": "Pipeline Orchestrator",
+   "tagline": "Coordinates a multi-agent pipeline that turns requirements into committed code.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "generative-code",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/pipeline-orchestrator.md",
+   "url": "https://templatesgrokbot.com/bot/pipeline-orchestrator",
+   "adapted_from": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/agents-uc-taskmanager/skills/sdd-pipeline",
+   "source_license": "MIT"
+  },
+  {
    "slug": "pitch-preparation-assistant",
    "name": "Pitch Preparation Assistant",
    "tagline": "Prepares business development pitches from research to follow-up, with drafts awaiting your approval. No hype, no filler.",
@@ -81452,6 +82152,23 @@
    "path": "jobs/it-and-development/productivity/plugin-structure.md",
    "url": "https://templatesgrokbot.com/bot/plugin-structure",
    "adapted_from": "https://www.aitmpl.com/component/skills/development/plugin-structure",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "pm-resume-reviewer",
+   "name": "PM Resume Reviewer",
+   "tagline": "Reviews PM resumes against 10 best practices and tailors them for job applications.",
+   "category": "operations",
+   "jobs": [
+    "product-development"
+   ],
+   "topics": [
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/product-development/writing-and-content/pm-resume-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/pm-resume-reviewer",
+   "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/pm-skills/review-resume",
    "source_license": "MIT"
   },
   {
@@ -89269,6 +89986,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "rank-movement-tracker",
+   "name": "Rank Movement Tracker",
+   "tagline": "Track ranking changes between any two periods using real Search Console data.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/data-analysis/rank-movement-tracker.md",
+   "url": "https://templatesgrokbot.com/bot/rank-movement-tracker",
+   "adapted_from": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills/tree/main/skills/rank-tracking",
+   "source_license": "MIT"
+  },
+  {
    "slug": "rapid-prototype-builder",
    "name": "Rapid Prototype Builder",
    "tagline": "Turns a product idea into a testable prototype plan with feedback and analytics built in.",
@@ -90605,6 +91338,24 @@
    "url": "https://templatesgrokbot.com/bot/red-team-tools",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "reddit-ads-auditor",
+   "name": "Reddit Ads Auditor",
+   "tagline": "Audits and safely operates connected Reddit Ads accounts through the NotFair MCP.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "security-and-compliance",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/reddit-ads-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/reddit-ads-auditor",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-reddit",
+   "source_license": "MIT"
   },
   {
    "slug": "reddit-automation",
@@ -93283,6 +94034,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "review-findings-fixer",
+   "name": "Review Findings Fixer",
+   "tagline": "Fixes QA review findings and prepares fixes for re-verification.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/review-findings-fixer.md",
+   "url": "https://templatesgrokbot.com/bot/review-findings-fixer",
+   "adapted_from": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/agent-triforce/skills/review-findings",
+   "source_license": "MIT"
+  },
+  {
    "slug": "review-multi-agent-orchestration",
    "name": "Review Multi Agent Orchestration",
    "tagline": "Review multi-agent orchestration designs for task boundaries, state, and failure safety before implementation.",
@@ -94460,6 +95227,24 @@
    "url": "https://templatesgrokbot.com/bot/s3-bucket-operations",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/aws-s3",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "s3-storage-configurator",
+   "name": "S3 Storage Configurator",
+   "tagline": "Configures Django file storage on AWS S3 with django-storages and boto3.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "teaching-and-tutoring",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/s3-storage-configurator.md",
+   "url": "https://templatesgrokbot.com/bot/s3-storage-configurator",
+   "adapted_from": "https://github.com/Jeffallan/claude-skills/tree/main/skills/django-storages-s3",
+   "source_license": "MIT"
   },
   {
    "slug": "saas-demo-script-writer",
@@ -99198,6 +99983,23 @@
    "adapted_from": "https://collectivebrain.de/en/skills/seo-geo-aeo-audit/"
   },
   {
+   "slug": "seo-ads-overlap-finder",
+   "name": "SEO Ads Overlap Finder",
+   "tagline": "Finds queries where you pay for clicks you already rank for organically.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/seo-ads-overlap-finder.md",
+   "url": "https://templatesgrokbot.com/bot/seo-ads-overlap-finder",
+   "adapted_from": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills/tree/main/skills/seo-vs-ads",
+   "source_license": "MIT"
+  },
+  {
    "slug": "seo-aeo-blog-writer",
    "name": "Seo Aeo Blog Writer",
    "tagline": "Write structured blog posts optimized for SEO ranking and AI extraction.",
@@ -100543,6 +101345,22 @@
    "path": "jobs/it-and-development/generative-ai-and-llm/session-health-monitor.md",
    "url": "https://templatesgrokbot.com/bot/session-health-monitor",
    "adapted_from": "https://github.com/wshobson/agents/tree/main/plugins/skill-forge-essentials/skills/session-guard",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "session-memory-committer",
+   "name": "Session Memory Committer",
+   "tagline": "Commits your session to durable vault memory and prepares a clean resume point.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/knowledge-management/session-memory-committer.md",
+   "url": "https://templatesgrokbot.com/bot/session-memory-committer",
+   "adapted_from": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/aigent-os/skills/close",
    "source_license": "MIT"
   },
   {
@@ -111288,6 +112106,23 @@
    "url": "https://templatesgrokbot.com/bot/term-sheet-reader"
   },
   {
+   "slug": "terminal-app-verifier",
+   "name": "Terminal App Verifier",
+   "tagline": "Records and verifies terminal app behavior with video evidence.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "video-editing"
+   ],
+   "path": "jobs/it-and-development/coding/terminal-app-verifier.md",
+   "url": "https://templatesgrokbot.com/bot/terminal-app-verifier",
+   "adapted_from": "https://github.com/zenbu-labs/terminal-browser/tree/main/.claude/skills/verify",
+   "source_license": "MIT"
+  },
+  {
    "slug": "terraform",
    "name": "Terraform",
    "tagline": "Generates compliant Terraform code and manages HCP workspaces with registry lookups.",
@@ -112636,6 +113471,24 @@
    "url": "https://templatesgrokbot.com/bot/to-issues",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "toctou-race-exploiter",
+   "name": "TOCTOU Race Exploiter",
+   "tagline": "Exploit TOCTOU race conditions across filesystem, kernel, web, and containers.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/toctou-race-exploiter.md",
+   "url": "https://templatesgrokbot.com/bot/toctou-race-exploiter",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/exploit-dev/offensive-toctou",
+   "source_license": "MIT"
   },
   {
    "slug": "todoist-automation",
@@ -118981,6 +119834,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "vulnerability-class-guide",
+   "name": "Vulnerability Class Guide",
+   "tagline": "Guided curriculum for learning and teaching core vulnerability classes with real-world CVE case studies.",
+   "category": "education",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "self-improvement"
+   ],
+   "path": "jobs/it-and-development/teaching-and-tutoring/vulnerability-class-guide.md",
+   "url": "https://templatesgrokbot.com/bot/vulnerability-class-guide",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/fuzzing/offensive-vuln-classes",
+   "source_license": "MIT"
+  },
+  {
    "slug": "vulnerability-management-analyst",
    "name": "Vulnerability Management Analyst",
    "tagline": "Analyzes, prioritizes, and reports on vulnerabilities to strengthen your security posture.",
@@ -121094,6 +121964,24 @@
    "url": "https://templatesgrokbot.com/bot/wordpress-woocommerce-development",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "work-pipeline-trigger",
+   "name": "Work Pipeline Trigger",
+   "tagline": "Triggers a structured work pipeline when a request starts with a [] tag.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "coding",
+    "generative-code"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/work-pipeline-trigger.md",
+   "url": "https://templatesgrokbot.com/bot/work-pipeline-trigger",
+   "adapted_from": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/agents-uc-taskmanager/skills/work-pipeline",
+   "source_license": "MIT"
   },
   {
    "slug": "workflow-automation",

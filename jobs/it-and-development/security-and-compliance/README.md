@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 379 Grok Bot templates, 365 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 388 Grok Bot templates, 374 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,6 +26,7 @@ Authorised security testing, audits and regulatory work. 379 Grok Bot templates,
 | [Analyst Risk Mitigation Companion](analyst-risk-mitigation-companion.md) | Guides cybersecurity analysts through risk assessment, mitigation, and compliance tasks. |
 | [Android APK Red Team Pipeline](android-apk-red-team-pipeline.md) | Maps an authorized Android APK red-team engagement from app inventory through static analysis findings. |
 | [Anti Reversing Techniques](anti-reversing-techniques.md) | Analyze anti-debugging and obfuscation in binaries with written authorization only. |
+| [Anti-Forensics Operator](anti-forensics-operator.md) | Manages anti-forensics for authorized red team engagements, clearing and manipulating evidence. |
 | [Api Fuzzing Bug Bounty](api-fuzzing-bug-bounty.md) | Guide bug bounty hunters to fuzz REST, SOAP, and GraphQL APIs for vulnerabilities. |
 | [Api Security](api-security.md) | Authorized security assessment of REST, GraphQL, WebSocket, and SOAP APIs. |
 | [Api Security Audit](api-security-audit.md) | Audits REST APIs for security vulnerabilities and compliance gaps. |
@@ -53,6 +54,7 @@ Authorised security testing, audits and regulatory work. 379 Grok Bot templates,
 | [Brute Force Hunter](brute-force-hunter.md) | Hunts missing or weak rate limiting, brute force, and user enumeration in web apps. |
 | [Bug Bounty Report Writer](bug-bounty-report-writer.md) | Write impact-first bug bounty reports for H1, Bugcrowd, Intigriti, and Immunefi. |
 | [Bug Bounty Workflow Guide](bug-bounty-workflow-guide.md) | Guided bug bounty hunting from recon to validated report. |
+| [Bug Identification Assistant](bug-identification-assistant.md) | Find vulnerabilities in software through code review, dynamic analysis, and fuzzing. |
 | [Bugcrowd Submission Assistant](bugcrowd-submission-assistant.md) | Files Bugcrowd submissions with VRT fallback, severity overrides, and OOS rebuttals. |
 | [Bumblebee](bumblebee.md) | Run read-only supply-chain scans for compromised packages and extensions on macOS/Linux. |
 | [Burp Suite Testing](burp-suite-testing.md) | Guide web app security testing with Burp Suite proxy, repeater, and scanner. |
@@ -85,6 +87,7 @@ Authorised security testing, audits and regulatory work. 379 Grok Bot templates,
 | [CORS Misconfiguration Hunter](cors-misconfiguration-hunter.md) | Tests CORS configurations for credentialed cross-origin read flaws and reports only browser-provable findings. |
 | [Cra Vulnerability Obligations](cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
 | [Cred Omega](cred-omega.md) | Enterprise credential and secret lifecycle management engine. |
+| [Crypto Attack Analyst](crypto-attack-analyst.md) | Identifies and exploits cryptographic implementation weaknesses in applications. |
 | [CSRF Vulnerability Hunter](csrf-vulnerability-hunter.md) | Hunts CSRF vulnerabilities in authorized targets and reports confirmed findings with proof. |
 | [Cyber Audit](cyber-audit.md) | Read-only local exposure checks for CVEs & advisories with structured markdown reports. |
 | [Cyber Threat Intelligence Assistant](cyber-threat-intelligence-assistant.md) | Profiles threat actors, analyzes malware, assesses risks, and drafts security reports for cybersecurity analysts. |
@@ -125,6 +128,7 @@ Authorised security testing, audits and regulatory work. 379 Grok Bot templates,
 | [Evidence Redaction Assistant](evidence-redaction-assistant.md) | Redacts cookies and PII from bug-bounty evidence before you submit it. |
 | [EVP Cyber Risk Briefing](../../executives-and-strategy/security-and-compliance/evp-cyber-risk-briefing.md) | Cybersecurity risk assessment assistant for an EVP of IT, covering scanning, policy, compliance, and reporting. |
 | [Exception Leak Hunter](exception-leak-hunter.md) | Hunt verbose error leaks and fail-open behavior in input-accepting endpoints. |
+| [Exploit Development Guide](exploit-development-guide.md) | Guides exploit development from bug identification to reliable weaponization. |
 | [External Attack Surface Recon](external-attack-surface-recon.md) | Maps an authorized organization's external attack surface and reports findings with graded confidence. |
 | [Fda Consultant Specialist](fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
 | [Fda Medtech Compliance Auditor](../../legal/security-and-compliance/fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |
@@ -141,6 +145,7 @@ Authorised security testing, audits and regulatory work. 379 Grok Bot templates,
 | [Frontend Mobile Security Xss Scan](frontend-mobile-security-xss-scan.md) | Scan React, Vue, Angular & JS frontends for XSS injection points. |
 | [Frontend Security Coder](frontend-security-coder.md) | Secure frontend coding expert for XSS prevention, CSP, and client-side security patterns. |
 | [Fsi Compliance Checker](fsi-compliance-checker.md) | Maps code changes to PCI-DSS v4.0 and MAS TRM controls with actionable remediation. |
+| [Fuzzing Campaign Guide](fuzzing-campaign-guide.md) | Guides fuzzing campaigns to find and triage vulnerabilities in software. |
 | [Gdpr Data Handling](gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
 | [Gha Security Review](gha-security-review.md) | Find exploitable vulnerabilities in GitHub Actions workflows with concrete attack paths. |
 | [Google Cloud Waf Security](google-cloud-waf-security.md) | Evaluates Google Cloud workloads against the Well-Architected Framework security pillar and gives actionable recommendations. |
@@ -178,6 +183,7 @@ Authorised security testing, audits and regulatory work. 379 Grok Bot templates,
 | [JWT Forgery Tester](jwt-forgery-tester.md) | Tests JWT verifiers for forgery flaws during authorized security assessments and reports the proof. |
 | [JWT Security Auditor](jwt-security-auditor.md) | Audits JWT-based authentication for bypass and implementation flaws. |
 | [K8s Security Policies](k8s-security-policies.md) | Implement defense-in-depth Kubernetes security with network policies, RBAC, and pod standards. |
+| [Kubernetes Attack Simulator](kubernetes-attack-simulator.md) | Assess Kubernetes cluster security by simulating attacks from a compromised pod. |
 | [Kubernetes Security Hunter](kubernetes-security-hunter.md) | Hunt Kubernetes and Docker misconfigurations for RCE and credential disclosure. |
 | [LDAP Injection Hunter](ldap-injection-hunter.md) | Hunt LDAP and XPath injection vulnerabilities in web applications. |
 | [License Compliance Auditor](license-compliance-auditor.md) | Manages software licenses from inventory to compliance, renewals, and cost optimization. |
@@ -199,6 +205,7 @@ Authorised security testing, audits and regulatory work. 379 Grok Bot templates,
 | [MFA Bypass Hunter](mfa-bypass-hunter.md) | Hunts MFA/2FA bypasses across 7 patterns and chains them toward account takeover. |
 | [Mid-Engagement IR Detector](mid-engagement-ir-detector.md) | Detects and reports security-state changes during authorized red-team engagements. |
 | [Misc Vulnerability Hunter](misc-vulnerability-hunter.md) | Finds misc vulnerabilities in web apps from bug bounty patterns. |
+| [Mitigation Bypass Planner](mitigation-bypass-planner.md) | Assesses target hardening and catalogs exploit mitigation bypass techniques. |
 | [Mobile Reverse](mobile-reverse.md) | Authorized Android/iOS app reverse engineering and security testing per OWASP MASTG. |
 | [Model Supply Chain Security](model-supply-chain-security.md) | Verifies model artifacts are signed, scanned, and attested before they are promoted. |
 | [Mtls Configuration](mtls-configuration.md) | Configure mutual TLS for zero-trust service-to-service communication. |
@@ -216,6 +223,7 @@ Authorised security testing, audits and regulatory work. 379 Grok Bot templates,
 | [NoSQL Injection Hunter](nosql-injection-hunter.md) | Finds and validates NoSQL injection flaws in MongoDB, CouchDB, Redis, and Elasticsearch. |
 | [NTLM Info Disclosure Hunter](ntlm-info-disclosure-hunter.md) | Hunt NTLM info disclosure on internet-reachable IIS/SharePoint/Exchange. |
 | [OAuth Security Auditor](oauth-security-auditor.md) | Guides authorized OAuth 2.0 penetration tests with a structured attack checklist. |
+| [Offensive Fuzzing Campaign Manager](offensive-fuzzing-campaign-manager.md) | Plan and run fuzz campaigns against any target, from file parsers to kernels. |
 | [Okta Attack Chain](okta-attack-chain.md) | Recon and test Okta-as-IdP authentication for authorized red-team engagements. |
 | [OneRoster CSV Validator](oneroster-csv-validator.md) | Pre-flight checks OneRoster CSV roster bundles for referential integrity and spec compliance before SIS ingestion. |
 | [Open Redirect Hunter](open-redirect-hunter.md) | Hunt and validate open redirects, then chain them to OAuth theft or SSRF for high-impact findings. |
@@ -354,6 +362,7 @@ Authorised security testing, audits and regulatory work. 379 Grok Bot templates,
 | [Threat Mitigation Mapping](threat-mitigation-mapping.md) | Map threats to security controls for prioritized remediation and coverage validation. |
 | [Threat Modeling Expert](threat-modeling-expert.md) | Analyze system architecture to identify threats and recommend mitigations. |
 | [TLS DNS Hunter](tls-dns-hunter.md) | Hunt and triage TLS/SSL and DNS misconfigurations for bug bounty reports. |
+| [TOCTOU Race Exploiter](toctou-race-exploiter.md) | Exploit TOCTOU race conditions across filesystem, kernel, web, and containers. |
 | [Top Web Vulnerabilities](top-web-vulnerabilities.md) | Reference the top 100 web vulnerabilities by category for assessment and remediation. No scanning or testing. Authorized use only. Educational referen |
 | [Triage Validator](triage-validator.md) | Validates bug bounty findings before you write any report. |
 | [User Access and Permissions Manager](user-access-and-permissions-manager.md) | Manages user access, permissions, and audits for systems administrators. |

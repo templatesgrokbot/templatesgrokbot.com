@@ -1,6 +1,6 @@
 # Credits: github.com/bestagentkits/agency-skills
 
-305 TemplatesGrokBot templates are adapted from work published at [github.com/bestagentkits/agency-skills](https://github.com/bestagentkits/agency-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+306 TemplatesGrokBot templates are adapted from work published at [github.com/bestagentkits/agency-skills](https://github.com/bestagentkits/agency-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -211,6 +211,7 @@
 | [Playwright Test Reviewer](../jobs/it-and-development/coding/playwright-test-reviewer.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/review) | [MIT](../LICENSES/MIT.md) |
 | [Playwright Test Setup](../jobs/it-and-development/coding/playwright-test-setup.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/init) | [MIT](../LICENSES/MIT.md) |
 | [Playwright Test Suite Builder](../jobs/it-and-development/coding/playwright-test-suite-builder.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/playwright-pro) | [MIT](../LICENSES/MIT.md) |
+| [PM Resume Reviewer](../jobs/product-development/writing-and-content/pm-resume-reviewer.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/pm-skills/review-resume) | [MIT](../LICENSES/MIT.md) |
 | [Podcast Growth Strategist](../jobs/marketing/marketing-and-growth/podcast-growth-strategist.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/marketing/marketing-global-podcast-strategist) | [MIT](../LICENSES/MIT.md) |
 | [Podcast Strategy Operator](../jobs/marketing/marketing-and-growth/podcast-strategy-operator.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/marketing/marketing-podcast-strategist) | [MIT](../LICENSES/MIT.md) |
 | [Porter's Five Forces Analysis](../jobs/executives-and-strategy/research/porter-s-five-forces-analysis.md) | [original](https://github.com/bestagentkits/agency-skills/tree/main/skills/pm-skills/porters-five-forces) | [MIT](../LICENSES/MIT.md) |

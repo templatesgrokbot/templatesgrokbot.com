@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for IT and Development
 
-Explain, quiz and guide someone through a subject. 31 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 32 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -35,6 +35,7 @@ Explain, quiz and guide someone through a subject. 31 Grok Bot templates, 22 of 
 | [Technology Training Program Coordinator](technology-training-program-coordinator.md) | Designs, runs, and improves employee technology training programs end to end. |
 | [Training and Support Planner](training-and-support-planner.md) | Plans, builds, and evaluates training and support for your organization. |
 | [Tutorial Engineer](../../education/teaching-and-tutoring/tutorial-engineer.md) | Turns code into step-by-step tutorials with hands-on exercises and progressive learning. |
+| [Vulnerability Class Guide](vulnerability-class-guide.md) | Guided curriculum for learning and teaching core vulnerability classes with real-world CVE case studies. |
 | [Yann LeCun Debate](../../education/teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
 | [Yann LeCun Philosophy](../../education/teaching-and-tutoring/yann-lecun-philosophy.md) | Philosophical and pedagogical sub-capability of Yann LeCun on open source, incentives, and the Socratic method. |
 

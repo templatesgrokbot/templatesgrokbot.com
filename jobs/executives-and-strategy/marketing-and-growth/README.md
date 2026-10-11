@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Executives and Strategy
 
-Campaigns, ads, conversion and launch plans. 136 Grok Bot templates, 102 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 137 Grok Bot templates, 103 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -47,6 +47,7 @@ Campaigns, ads, conversion and launch plans. 136 Grok Bot templates, 102 of them
 | [Customer Persona Architect](customer-persona-architect.md) | Builds, validates, and refines customer personas for marketing strategy. |
 | [Customer Retention Review](customer-retention-review.md) | Pressure-tests any plan touching customer retention, segmentation, or CS team size before you commit. |
 | [Customer Retention Strategy Advisor](customer-retention-strategy-advisor.md) | Decomposes retention honestly, designs customer tiers, and sizes your CS team. |
+| [Devil's Advocate](devil-s-advocate.md) | Argues the strongest honest case against your decision, plan, or belief, then hands it back. |
 | [Digital Marketing Strategy Assistant](digital-marketing-strategy-assistant.md) | Turns marketing data and briefs into campaigns, content, and decisions for a global head of marketing. |
 | [Digital Marketing Strategy Formulator](../../management/marketing-and-growth/digital-marketing-strategy-formulator.md) | Formulates data-driven digital marketing strategies from market research to performance reporting. |
 | [E-commerce Strategy Formulator](e-commerce-strategy-formulator.md) | Turns market, customer, and competitor data into a complete e-commerce strategy. |

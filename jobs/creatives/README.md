@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **563 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **565 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,8 +17,8 @@ Designers, artists and content creators. **563 ready-made Grok Bot templates** f
 | [Generative Code](generative-code/README.md) | 47 |
 | [Coding](coding/README.md) | 37 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 26 |
+| [Social Media](social-media/README.md) | 24 |
 | [Video Editing](video-editing/README.md) | 23 |
-| [Social Media](social-media/README.md) | 22 |
 | [Research](research/README.md) | 20 |
 | [Office Tools](office-tools/README.md) | 14 |
 | [Generative Video](generative-video/README.md) | 13 |
@@ -41,14 +41,14 @@ Designers, artists and content creators. **563 ready-made Grok Bot templates** f
 
 | Template | What it does |
 |---|---|
+| [Brandkit](design/brandkit.md) | Builds a complete brand board with logo concepts, color palette, typography, and mockups from a short briefing. |
 | [Pptx Posters](design/pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Sci Fi Interface](design/sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
-| [Brandkit](design/brandkit.md) | Builds a complete brand board with logo concepts, color palette, typography, and mockups from a short briefing. |
 | [Bento Ui](design/bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
-| [Uxui Principles](design/uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
 | [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
+| [Uxui Principles](design/uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
+| [High End Visual Design](design/high-end-visual-design.md) | Awwwards-tier UI architecture and motion design for premium, agency-grade interfaces. |
 | [Hig Technologies](design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
-| [Gradient Design](design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 
 [All 188 Design templates →](design/README.md)
 
@@ -59,9 +59,9 @@ Designers, artists and content creators. **563 ready-made Grok Bot templates** f
 | [Podcast Metadata Specialist](../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
 | [Seo Content Writer](../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Seo Aeo Landing Page Writer](../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
-| [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
 | [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
+| [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Content Creation](../marketing/writing-and-content/marketing-content-creation.md) | Draft channel-specific marketing content that is SEO-aware and free of buzzwords. |
 
@@ -76,8 +76,8 @@ Designers, artists and content creators. **563 ready-made Grok Bot templates** f
 | [Slack Gif Creator](generative-art/slack-gif-creator.md) | Creates optimized animated GIFs for Slack from descriptions or uploaded images. |
 | [Daily Gift](generative-art/daily-gift.md) | Decides if a gift is needed today, then creates a personalized H5, image, or video artifact. No guessing, no filler. |
 | [Audio Mixer](generative-art/audio-mixer.md) | Mixes and masters multi-track audio for professional production. |
-| [Fal Generate](generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [Scroll Experience](generative-art/scroll-experience.md) | Build scroll-driven animations and parallax storytelling for narrative websites. |
+| [Fal Generate](generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [Fal Image Edit](generative-art/fal-image-edit.md) | Edits images with style transfer and object removal, pending your approval before any output is sent. |
 
 [All 50 Generative Art templates →](generative-art/README.md)
@@ -86,13 +86,13 @@ Designers, artists and content creators. **563 ready-made Grok Bot templates** f
 
 | Template | What it does |
 |---|---|
-| [Threejs Animation](generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
 | [Makepad Font](../it-and-development/generative-code/makepad-font.md) | Configure and render text in Makepad using SDF fonts, layouter, and DSL. |
+| [Threejs Animation](generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
 | [Figma](../it-and-development/generative-code/figma.md) | Fetches Figma designs and translates them into production code. |
 | [Threejs Postprocessing](generative-code/threejs-postprocessing.md) | Add screen-space effects like bloom, DOF, and color grading in Three.js. |
+| [Magic Ui Generator](generative-code/magic-ui-generator.md) | Generate, compare, and integrate production-ready UI component variations using Magic by 21st.dev. |
 | [Game Design](generative-code/game-design.md) | Design game loops, documents, and progression systems. |
 | [Threejs Fundamentals](generative-code/threejs-fundamentals.md) | Set up Three.js scenes, cameras, renderers, and object hierarchies. |
-| [Magic Ui Generator](generative-code/magic-ui-generator.md) | Generate, compare, and integrate production-ready UI component variations using Magic by 21st.dev. |
 | [Frontend Slides Frontend Slides](generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
 
 [All 47 Generative Code templates →](generative-code/README.md)
@@ -120,12 +120,27 @@ Designers, artists and content creators. **563 ready-made Grok Bot templates** f
 | [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
 | [Popup Cro](../marketing/marketing-and-growth/popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
 | [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
+| [Content Creation and Curation Planner](../executives-and-strategy/marketing-and-growth/content-creation-and-curation-planner.md) | Plans, creates, optimizes, and curates marketing content across channels. |
 | [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
 | [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
-| [Content Creation and Curation Planner](../executives-and-strategy/marketing-and-growth/content-creation-and-curation-planner.md) | Plans, creates, optimizes, and curates marketing content across channels. |
-| [Identity Mirror](../marketing/marketing-and-growth/identity-mirror.md) | Mirror audience identity to make brand messages feel personally resonant. |
+| [Video SEO Optimizer](marketing-and-growth/video-seo-optimizer.md) | Optimizes video SEO: keywords, titles, descriptions, tags, transcripts, thumbnails, metadata, competitors, sitemaps, embedding, and platform… |
 
 [All 26 Marketing & Growth templates →](marketing-and-growth/README.md)
+
+## Social Media
+
+| Template | What it does |
+|---|---|
+| [Socialclaw](../marketing/social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
+| [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
+| [Youtube Automation](../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
+| [Xiaohongshu Content Strategist](../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
+| [Xiaohongshu Card Deck Generator](../marketing/social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
+| [Visual Storytelling Campaign Planner](../marketing/social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
+| [Social Content Scheduling Planner](../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
+| [Social Post Writer Seo](../marketing/social-media/social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |
+
+[All 24 Social Media templates →](social-media/README.md)
 
 ## Video Editing
 
@@ -142,21 +157,6 @@ Designers, artists and content creators. **563 ready-made Grok Bot templates** f
 
 [All 23 Video Editing templates →](video-editing/README.md)
 
-## Social Media
-
-| Template | What it does |
-|---|---|
-| [Socialclaw](../marketing/social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
-| [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
-| [Youtube Automation](../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
-| [Xiaohongshu Card Deck Generator](../marketing/social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
-| [Visual Storytelling Campaign Planner](../marketing/social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
-| [Xiaohongshu Content Strategist](../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
-| [Social Content Scheduling Planner](../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
-| [Social Post Writer Seo](../marketing/social-media/social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |
-
-[All 22 Social Media templates →](social-media/README.md)
-
 ## Research
 
 | Template | What it does |
@@ -166,8 +166,8 @@ Designers, artists and content creators. **563 ready-made Grok Bot templates** f
 | [Photography Gear Advisor](research/photography-gear-advisor.md) | Personalized photography gear recommendations based on your shooting style and needs. |
 | [Competitor UX Analyst](../product-development/research/competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
 | [User Research Synthesis](../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
-| [Historical Music Research Assistant](research/historical-music-research-assistant.md) | Research historical music and apply it to authentic film scores. |
 | [Location Scout Planner](research/location-scout-planner.md) | Finds, vets, and plans photo shoot locations with research and logistics. |
+| [Historical Music Research Assistant](research/historical-music-research-assistant.md) | Research historical music and apply it to authentic film scores. |
 | [Film Music Theme Developer](research/film-music-theme-developer.md) | Develops film music themes from genre research to production-ready scores. |
 
 [All 20 Research templates →](research/README.md)
@@ -181,8 +181,8 @@ Designers, artists and content creators. **563 ready-made Grok Bot templates** f
 | [PPTX Reference Analyzer](office-tools/pptx-reference-analyzer.md) | Analyzes reference PPTX decks for structure, theme, and design evidence without modifying them. |
 | [Pptx Deck Creation](../marketing/office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
 | [Presentation Deck Builder](../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
-| [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
 | [Markdown Slide Builder](../education/office-tools/markdown-slide-builder.md) | Turns your Markdown notes into themed Marp slide decks exported to PDF, PPTX, or HTML. |
+| [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
 | [Template Deck Builder](office-tools/template-deck-builder.md) | Builds and edits PowerPoint decks bound to your company template with consulting-grade storyline and visual QA. |
 
 [All 14 Office Tools templates →](office-tools/README.md)
@@ -211,8 +211,8 @@ Designers, artists and content creators. **563 ready-made Grok Bot templates** f
 | [Digital Scoring Guide](teaching-and-tutoring/digital-scoring-guide.md) | Guides film composers through every stage of digital music production, from sound design to mastering. |
 | [Film Score Emotional Analyst](teaching-and-tutoring/film-score-emotional-analyst.md) | Analyzes film music's emotional impact to help composers craft resonant scores. |
 | [Photo Editing Guidance Assistant](teaching-and-tutoring/photo-editing-guidance-assistant.md) | Guides photographers through editing tasks, from color correction to creative effects. |
-| [Photography Techniques Advisor](teaching-and-tutoring/photography-techniques-advisor.md) | Get tailored photography guidance for composition, lighting, settings, and post-processing. |
 | [Photography Post-Processing Guide](teaching-and-tutoring/photography-post-processing-guide.md) | Guides photographers through post-processing techniques, from color correction to composite imaging. |
+| [Photography Techniques Advisor](teaching-and-tutoring/photography-techniques-advisor.md) | Get tailored photography guidance for composition, lighting, settings, and post-processing. |
 | [Music Copyright Navigator](teaching-and-tutoring/music-copyright-navigator.md) | Guides vocal artists and songwriters through music copyright law, licensing, and royalties. |
 
 [All 13 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)

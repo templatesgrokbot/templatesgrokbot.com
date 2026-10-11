@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **797 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **798 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Team leads and project managers. **797 ready-made Grok Bot templates** for this 
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 217 |
-| [Productivity](productivity/README.md) | 213 |
+| [Productivity](productivity/README.md) | 214 |
 | [Research](research/README.md) | 68 |
 | [Coding](coding/README.md) | 48 |
 | [Security & Compliance](security-and-compliance/README.md) | 45 |
@@ -38,11 +38,11 @@ Team leads and project managers. **797 ready-made Grok Bot templates** for this 
 | [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
 | [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Inventory Demand Planning](../operations/data-analysis/inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
-| [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Forecast Accuracy Review](../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
-| [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
-| [Risk Mitigation Plan Builder](../operations/data-analysis/risk-mitigation-plan-builder.md) | Identifies, assesses, and mitigates supply chain risks with data-driven insights and structured plans. |
+| [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+| [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
+| [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 
 [All 217 Data Analysis templates →](data-analysis/README.md)
 
@@ -52,14 +52,14 @@ Team leads and project managers. **797 ready-made Grok Bot templates** for this 
 |---|---|
 | [Doordash Group Orders](../operations/productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
 | [Game Changing Features](../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
-| [Meal Prep](../operations/productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Linear Automation](../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
+| [Meal Prep](../operations/productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Diary](../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Brainstorming](productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
-| [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
+| [Se Product Manager Advisor](../product-development/productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
 
-[All 213 Productivity templates →](productivity/README.md)
+[All 214 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -71,7 +71,7 @@ Team leads and project managers. **797 ready-made Grok Bot templates** for this 
 | [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Brand Perception Study Assistant](research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
-| [Research Analyst](../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
+| [Supplier Diversification Planner](research/supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
 | [User Research Synthesis](../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
 
 [All 68 Research templates →](research/README.md)
@@ -87,7 +87,7 @@ Team leads and project managers. **797 ready-made Grok Bot templates** for this 
 | [Workflow Patterns](../it-and-development/coding/workflow-patterns.md) | Guide for implementing tasks with TDD workflow, phase checkpoints, and git commits. |
 | [Backend Development Feature Development](../it-and-development/coding/backend-development-feature-development.md) | Orchestrate backend feature development from requirements to deployment across teams and services. |
 | [Omp Delegate](../it-and-development/coding/omp-delegate.md) | Orchestrate bounded coding tasks via Oh My Pi, then review and commit yourself. |
-| [Multi Agent Task Orchestrator](../it-and-development/coding/multi-agent-task-orchestrator.md) | Route tasks to specialized AI agents with anti-duplication and quality gates. |
+| [Grilling](../it-and-development/coding/grilling.md) | Stress-test a plan or design through relentless, one-at-a-time questioning. |
 
 [All 48 Coding templates →](coding/README.md)
 
@@ -101,8 +101,8 @@ Team leads and project managers. **797 ready-made Grok Bot templates** for this 
 | [Chemical Compliance Assistant](../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
 | [Compliance and Regulatory Assistant](security-and-compliance/compliance-and-regulatory-assistant.md) | Guides project managers through compliance research, documentation, audits, training, and regulatory updates. |
 | [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
-| [Construction Quality Control Assistant](../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
 | [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
+| [Construction Quality Control Assistant](../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
 
 [All 45 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -112,8 +112,8 @@ Team leads and project managers. **797 ready-made Grok Bot templates** for this 
 |---|---|
 | [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
-| [Campaign Plan](../marketing/marketing-and-growth/marketing-campaign-plan.md) | Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu |
 | [Seo Optimizer](../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
+| [Campaign Plan](../marketing/marketing-and-growth/marketing-campaign-plan.md) | Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu |
 | [Personalized Marketing Strategist](marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
 | [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
 | [Pricing Strategy Formulation Assistant](marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
@@ -162,7 +162,7 @@ Team leads and project managers. **797 ready-made Grok Bot templates** for this 
 | [Adr Generator](../it-and-development/knowledge-management/adr-generator.md) | Formalizes technical decisions into structured Architectural Decision Records. |
 | [Data Storage and Management Assistant](../science-and-research/knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
 | [Notion Knowledge Capture](../operations/knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
-| [Capa Officer](../operations/knowledge-management/capa-officer.md) | Manage CAPA records from initiation to closure, tracking root cause analysis and effectiveness verification. |
+| [Context Management Context Save](../it-and-development/knowledge-management/context-management-context-save.md) | Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks. |
 
 [All 23 Knowledge Management templates →](knowledge-management/README.md)
 
@@ -176,8 +176,8 @@ Team leads and project managers. **797 ready-made Grok Bot templates** for this 
 | [Deal Review Coach](../sales/sales-and-negotiation/deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
 | [Supplier Relationship Manager](sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
 | [GEO Prospect Pipeline](../sales/sales-and-negotiation/geo-prospect-pipeline.md) | Tracks GEO agency prospects and clients through the sales pipeline with audits and revenue forecasts. |
-| [Sales Call Optimizer](../sales/sales-and-negotiation/sales-call-optimizer.md) | Optimizes sales calls from preparation to follow-up with AI-driven insights and coaching. |
 | [Supplier Diversity Program Assistant](sales-and-negotiation/supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
+| [Sales Call Optimizer](../sales/sales-and-negotiation/sales-call-optimizer.md) | Optimizes sales calls from preparation to follow-up with AI-driven insights and coaching. |
 
 [All 16 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
@@ -189,8 +189,8 @@ Team leads and project managers. **797 ready-made Grok Bot templates** for this 
 | [Google Slides Automation](../operations/office-tools/google-slides-automation.md) | Create, read, and modify Google Slides presentations via CLI scripts. |
 | [Nanobanana Ppt Templates](../operations/office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
 | [Notion Ops Connector](../operations/office-tools/notion-ops-connector.md) | Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl. |
-| [Google Sheets Automation](../operations/office-tools/google-sheets-automation.md) | Read and write Google Sheets data with OAuth authentication. |
 | [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
+| [Google Sheets Automation](../operations/office-tools/google-sheets-automation.md) | Read and write Google Sheets data with OAuth authentication. |
 | [Pptx Deck Creation](../marketing/office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
 | [Presentation Deck Builder](office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
 
@@ -200,8 +200,8 @@ Team leads and project managers. **797 ready-made Grok Bot templates** for this 
 
 | Template | What it does |
 |---|---|
-| [Claims Training Developer](teaching-and-tutoring/claims-training-developer.md) | Builds and tracks staff training for insurance claims teams. |
 | [Training Program Designer](teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
+| [Claims Training Developer](teaching-and-tutoring/claims-training-developer.md) | Builds and tracks staff training for insurance claims teams. |
 | [Ship Learn Next](../education/teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Crossframe Teach](../education/teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |
 | [Pitch Rehearsal](../education/teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
@@ -250,8 +250,8 @@ Team leads and project managers. **797 ready-made Grok Bot templates** for this 
 | [Command Center Ui](../it-and-development/design/command-center-ui.md) | Generate dark-themed monitoring UI code for NOCs and global maps. |
 | [C4 Context](../product-development/design/c4-context.md) | Creates C4 system context diagrams, personas, user journeys, and external dependencies. |
 | [Design Orchestration](../creatives/design/design-orchestration.md) | Routes design work through brainstorming, review, and execution readiness checks. |
-| [Visual Brand Identity Reviewer](design/visual-brand-identity-reviewer.md) | Reviews and improves your brand's visual identity across all touchpoints. |
 | [Visual Branding Consultant](design/visual-branding-consultant.md) | Guides and evaluates visual branding for a business unit, from audit to implementation. |
+| [Visual Brand Identity Reviewer](design/visual-brand-identity-reviewer.md) | Reviews and improves your brand's visual identity across all touchpoints. |
 | [Site Layout Planner](../real-estate-and-construction/design/site-layout-planner.md) | Optimizes construction site layouts and utilization for contractors. |
 
 [All 9 Design templates →](design/README.md)

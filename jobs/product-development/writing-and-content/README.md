@@ -1,6 +1,6 @@
 # Writing & Content templates for Product Development
 
-Plan, write and edit articles, copy and documentation. 30 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 32 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,9 +18,11 @@ Plan, write and edit articles, copy and documentation. 30 Grok Bot templates, 9 
 | [Documentation Templates](../../it-and-development/writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
 | [Executive Decision Memo](../../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
 | [Feature Announcement Writer](../../marketing/writing-and-content/feature-announcement-writer.md) | Turns a product update into clear announcements for email, in-app, changelog, social and launch pages. |
+| [Feature Spec Writer](feature-spec-writer.md) | Turns a feature idea into a complete spec with acceptance criteria, scope, and risks. |
 | [Interview Style Doc Building](../../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
 | [Outcome Roadmap Rewriter](outcome-roadmap-rewriter.md) | Rewrites feature-based roadmaps as measurable outcome statements tied to strategy. |
 | [Patent Document Drafter](../../legal/writing-and-content/patent-document-drafter.md) | Drafts and manages patent documents, from applications to litigation support, for patent agents. |
+| [PM Resume Reviewer](pm-resume-reviewer.md) | Reviews PM resumes against 10 best practices and tailors them for job applications. |
 | [PM Stakeholder Comms Kit](pm-stakeholder-comms-kit.md) | Drafts, summarizes, and plans all stakeholder communications for product managers. |
 | [Portfolio Case Study Writer](../../creatives/writing-and-content/portfolio-case-study-writer.md) | Transforms resume bullets into detailed portfolio case studies with context, action, and outcome. |
 | [PRD Single Pager](prd-single-pager.md) | Turns a product idea into a one-page PRD with problem, metrics, scope, stories, design, rollout, and open questions. |

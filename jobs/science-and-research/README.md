@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **695 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **696 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Scientists, analysts and academic researchers. **695 ready-made Grok Bot templat
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 257 |
-| [Research](research/README.md) | 211 |
+| [Research](research/README.md) | 212 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 70 |
 | [Coding](coding/README.md) | 40 |
 | [Security & Compliance](security-and-compliance/README.md) | 36 |
@@ -40,9 +40,9 @@ Scientists, analysts and academic researchers. **695 ready-made Grok Bot templat
 | [Kusto Assistant](../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
 | [Mlops Tensorboard](data-analysis/mlops-tensorboard.md) | Visualize training metrics, debug models, and compare experiments with TensorBoard. |
 | [Plotly](../it-and-development/data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
-| [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
 | [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
 | [Polars](../it-and-development/data-analysis/polars.md) | High-performance DataFrame operations using Polars with lazy evaluation and parallel execution. |
+| [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
 | [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 
 [All 257 Data Analysis templates →](data-analysis/README.md)
@@ -53,14 +53,14 @@ Scientists, analysts and academic researchers. **695 ready-made Grok Bot templat
 |---|---|
 | [Labarchive Integration](research/labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
 | [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
-| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
+| [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
-| [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
+| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
+| [Falsify](research/falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
 | [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
-| [Task Researcher](../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
 
-[All 211 Research templates →](research/README.md)
+[All 212 Research templates →](research/README.md)
 
 ## Generative AI and LLM
 
@@ -73,7 +73,7 @@ Scientists, analysts and academic researchers. **695 ready-made Grok Bot templat
 | [Optimization Hqq](../it-and-development/generative-ai-and-llm/optimization-hqq.md) | Quantize LLMs to 4/3/2-bit without calibration data, fast and memory-efficient. |
 | [Huggingface Local Models](../it-and-development/generative-ai-and-llm/huggingface-local-models.md) | Select and run GGUF models locally with llama.cpp on CPU, Metal, CUDA, or ROCm. |
 | [Post Training Verl](../it-and-development/generative-ai-and-llm/post-training-verl.md) | Guides reinforcement learning post-training of LLMs using the verl library. |
-| [Nlp Engineer](../it-and-development/generative-ai-and-llm/nlp-engineer.md) | Builds production NLP pipelines for classification, extraction, translation, and sentiment analysis. |
+| [Fine Tuning Axolotl](generative-ai-and-llm/fine-tuning-axolotl.md) | Guides fine-tuning LLMs with Axolotl: configs, training methods, and debugging. |
 
 [All 70 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
@@ -84,10 +84,10 @@ Scientists, analysts and academic researchers. **695 ready-made Grok Bot templat
 | [Distributed Training Pytorch Lightning](../it-and-development/coding/distributed-training-pytorch-lightning.md) | Converts PyTorch code into Lightning modules and trains them with automatic distributed scaling. |
 | [Binary Analysis Patterns](../it-and-development/coding/binary-analysis-patterns.md) | Analyze compiled binaries, assembly code, and reconstruct program logic. |
 | [Qiskit](../it-and-development/coding/qiskit.md) | Build, optimize, and run quantum circuits on simulators or IBM Quantum hardware. |
-| [Sql Pro](../it-and-development/coding/sql-pro.md) | Optimize SQL queries, design schemas, and tune performance for cloud-native and hybrid databases. |
 | [Claude D3.js](../it-and-development/coding/claude-d3js-skill.md) | Create custom interactive D3.js visualizations for any JavaScript environment. |
+| [Sql Pro](../it-and-development/coding/sql-pro.md) | Optimize SQL queries, design schemas, and tune performance for cloud-native and hybrid databases. |
 | [Pennylane](../it-and-development/coding/pennylane.md) | Build and train quantum circuits with automatic differentiation across simulators and hardware. |
-| [Pytorch Lightning](../it-and-development/coding/pytorch-lightning.md) | Organize PyTorch code into LightningModules and configure Trainers for scalable neural network training. |
+| [Pylabrobot](../it-and-development/coding/pylabrobot.md) | Controls lab robots and equipment from Python scripts. |
 | [Huggingface Lora Space Builder](../it-and-development/coding/huggingface-lora-space-builder.md) | Build and publish a Gradio demo on Hugging Face Spaces for a user-provided LoRA. |
 
 [All 40 Coding templates →](coding/README.md)
@@ -126,8 +126,8 @@ Scientists, analysts and academic researchers. **695 ready-made Grok Bot templat
 
 | Template | What it does |
 |---|---|
-| [Huggingface Spaces](../it-and-development/cloud-and-devops/huggingface-spaces.md) | Build, deploy, and maintain ML apps on Hugging Face Spaces with Gradio, Docker, or Static SDKs. |
 | [Azure Ai Ml Py](../it-and-development/cloud-and-devops/azure-ai-ml-py.md) | Manage Azure ML workspaces, jobs, models, data, compute, and pipelines via SDK v2. |
+| [Huggingface Spaces](../it-and-development/cloud-and-devops/huggingface-spaces.md) | Build, deploy, and maintain ML apps on Hugging Face Spaces with Gradio, Docker, or Static SDKs. |
 | [Web Scraper](../it-and-development/cloud-and-devops/web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
 | [Remote Gpu Trainer](../it-and-development/cloud-and-devops/remote-gpu-trainer.md) | Deploy, monitor, and debug long GPU jobs on rented instances with safe teardown and resumable checkpoints. |
 | [Azure Ai Projects Java](../it-and-development/cloud-and-devops/azure-ai-projects-java.md) | Manage Azure AI Foundry projects via Java SDK for connections, datasets, indexes, and evaluations. |
@@ -143,9 +143,9 @@ Scientists, analysts and academic researchers. **695 ready-made Grok Bot templat
 |---|---|
 | [Laboratory Equipment Maintenance Scheduler](productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
 | [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
-| [Lab Stock Forecast Alerts](productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
-| [Lab Supply Chain Manager](productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |
 | [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Lab Supply Chain Manager](productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |
+| [Lab Stock Forecast Alerts](productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
 | [Geological Fieldwork Planner](productivity/geological-fieldwork-planner.md) | Plans geological fieldwork from site research to permits, logistics, and safety. |
 | [Process Development Time Optimizer](productivity/process-development-time-optimizer.md) | Plans and tracks a process development scientist's day to cut wasted time. |
 | [Experiment Planning Assistant](productivity/experiment-planning-assistant.md) | Plans experiments from literature to approval, with budget, risk, and team coordination. |
