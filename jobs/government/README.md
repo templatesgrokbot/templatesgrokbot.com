@@ -37,10 +37,10 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | [Security Audit](../it-and-development/security-and-compliance/security-audit.md) | Guides structured security audits for web apps, APIs, and infrastructure with checklists and reporting. |
 | [Security Auditor](../it-and-development/security-and-compliance/security-auditor.md) | Conducts systematic security audits, compliance assessments, and risk evaluations across systems and processes. |
 | [Incident Reporting Navigator](../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
-| [Aws Iam Best Practices](../it-and-development/security-and-compliance/aws-iam-best-practices.md) | Audit and harden AWS IAM policies to enforce least privilege and security best practices. |
 | [Read Only Auditor](../it-and-development/security-and-compliance/read-only-auditor.md) | Audits code for security issues without making any changes. |
+| [Aws Iam Best Practices](../it-and-development/security-and-compliance/aws-iam-best-practices.md) | Audit and harden AWS IAM policies to enforce least privilege and security best practices. |
+| [Hazardous Material Management Assistant](../operations/security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
 | [Api Security Audit](../it-and-development/security-and-compliance/api-security-audit.md) | Audits REST APIs for security vulnerabilities and compliance gaps. |
-| [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 
 [All 174 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -49,13 +49,13 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | Template | What it does |
 |---|---|
 | [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
-| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Senior Data Scientist](../science-and-research/data-analysis/senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
+| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Continuous Improvement Analyst](../operations/data-analysis/continuous-improvement-analyst.md) | Turns operational data and feedback into improvement actions and tracks their impact. |
 | [Data Insights Strategist](../executives-and-strategy/data-analysis/data-insights-strategist.md) | Turns raw data into forecasts, segments, and stories for executive decisions. |
-| [Climate Impact Study Assistant](../science-and-research/data-analysis/climate-impact-study-assistant.md) | Turns climate data and policy into impact studies, risk assessments, and adaptation plans. |
+| [Transportation Risk Manager](data-analysis/transportation-risk-manager.md) | Identifies, mitigates, and monitors transportation risks with data-driven insights and plans. |
 
 [All 128 Data Analysis templates →](data-analysis/README.md)
 
@@ -65,12 +65,12 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 |---|---|
 | [Learning Culture Builder](../education/productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
 | [Training Program Advisor](../human-resources/productivity/training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |
-| [PDF Workflows](../operations/productivity/anthropic-pdf.md) | Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe. |
 | [Strategic Planning Guide](../executives-and-strategy/productivity/strategic-planning-guide.md) | Guides executive directors through the full strategic planning cycle, from vision to review. |
+| [PDF Workflows](../operations/productivity/anthropic-pdf.md) | Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe. |
 | [Disaster Response Transportation Planner](productivity/disaster-response-transportation-planner.md) | Disaster response planning for transportation managers: assess risks, allocate resources, coordinate, and recover. |
 | [Strategic Goal Setting Assistant](../executives-and-strategy/productivity/strategic-goal-setting-assistant.md) | Turns your vision into aligned, measurable goals with plans, KPIs, and reviews. |
-| [IT Delivery Planner](../it-and-development/productivity/it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
 | [Strategic IT Planning Assistant](../it-and-development/productivity/strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
+| [Crisis Management Executive Assistant](../executives-and-strategy/productivity/crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
 
 [All 63 Productivity templates →](productivity/README.md)
 
@@ -84,8 +84,8 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | [Survey Research Assistant](../science-and-research/research/survey-research-assistant.md) | Builds, distributes, analyzes, and reports surveys for research studies. |
 | [Research Analyst](../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
 | [Environmental Policy Analyst](../science-and-research/research/environmental-policy-analyst.md) | Environmental policy analysis and stakeholder engagement for sustainability analysts. |
-| [Crossframe Structural Diagnosis](../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
 | [E-Procurement Solutions Exploration Assistant](../operations/research/e-procurement-solutions-exploration-assistant.md) | Researches and evaluates e-procurement solutions to support your selection decisions. |
+| [Crossframe Structural Diagnosis](../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
 
 [All 50 Research templates →](research/README.md)
 
@@ -94,12 +94,12 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | Template | What it does |
 |---|---|
 | [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
-| [Technical Manual Writing Assistant](../writers/writing-and-content/technical-manual-writing-assistant.md) | Draft, structure, and refine technical manuals from research to final review. |
 | [Technical Proposal Assistant](../writers/writing-and-content/technical-proposal-assistant.md) | Drafts, refines, and manages technical proposals from research to archive. |
+| [Technical Manual Writing Assistant](../writers/writing-and-content/technical-manual-writing-assistant.md) | Draft, structure, and refine technical manuals from research to final review. |
 | [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
 | [Stakeholder Communication Coordinator](../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
-| [Legislative Drafting Assistant](writing-and-content/legislative-drafting-assistant.md) | Drafts, reviews, and analyzes legislation for policy makers. |
 | [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
+| [Legislative Drafting Assistant](writing-and-content/legislative-drafting-assistant.md) | Drafts, reviews, and analyzes legislation for policy makers. |
 | [Systems Documentation Assistant](../it-and-development/writing-and-content/systems-documentation-assistant.md) | Turns system admin notes into clear, structured documentation and reports. |
 
 [All 36 Writing & Content templates →](writing-and-content/README.md)
@@ -201,8 +201,8 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | Template | What it does |
 |---|---|
 | [Public Relations](../pr-and-communications/marketing-and-growth/public-relations.md) | Help you earn press coverage through journalist pitching and media strategy. |
-| [Crisis Communication Strategist](../pr-and-communications/marketing-and-growth/crisis-communication-strategist.md) | Builds and runs your crisis communication strategy, from monitoring to recovery. |
 | [Stakeholder Communication Strategist](../pr-and-communications/marketing-and-growth/stakeholder-communication-strategist.md) | Builds and runs your stakeholder communication strategy from analysis to evaluation. |
+| [Crisis Communication Strategist](../pr-and-communications/marketing-and-growth/crisis-communication-strategist.md) | Builds and runs your crisis communication strategy, from monitoring to recovery. |
 
 ## Support & Community
 

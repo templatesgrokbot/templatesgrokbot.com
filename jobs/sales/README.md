@@ -37,8 +37,8 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 | [Sales Methodology Implementer](sales-and-negotiation/sales-methodology-implementer.md) | Implements proven sales methodologies (MEDDIC, BANT, Sandler, Challenger, SPIN) across your team. |
 | [Proposal Customization Assistant](sales-and-negotiation/proposal-customization-assistant.md) | Customizes sales proposals to fit each client's needs and brand. |
 | [Pharma Health Economics Insight](sales-and-negotiation/pharma-health-economics-insight.md) | Turns health economics data into sales-ready insights for pharmaceutical reps. |
-| [Territory Planning Optimizer](sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
 | [Deal Momentum Analyzer](sales-and-negotiation/deal-momentum-analyzer.md) | Score deal velocity and predict close probability from engagement patterns. |
+| [Territory Planning Optimizer](sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
 | [Client Communication Assistant](../real-estate-and-construction/sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
 | [Sales Incentive Plan Designer](sales-and-negotiation/sales-incentive-plan-designer.md) | Designs and manages sales incentive plans from data analysis to rollout. |
 
@@ -50,12 +50,12 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 |---|---|
 | [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
-| [Page Cro](../marketing/marketing-and-growth/page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
+| [Page Cro](../marketing/marketing-and-growth/page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Cro](../marketing/marketing-and-growth/cro.md) | Analyze marketing pages and forms to improve conversion rates with actionable recommendations. |
 | [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Pitch Psychologist](../marketing/marketing-and-growth/pitch-psychologist.md) | Structure sales pitches using psychological sequencing to build desire before solution. |
-| [Competitor Alternatives](../marketing/marketing-and-growth/competitor-alternatives.md) | Build SEO-optimized competitor comparison and alternative pages that help buyers decide. |
+| [Email Campaign Developer](marketing-and-growth/email-campaign-developer.md) | Plan, create, and optimize email campaigns from segmentation to compliance. |
 
 [All 107 Marketing & Growth templates →](marketing-and-growth/README.md)
 
@@ -65,8 +65,8 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 |---|---|
 | [Google Ads Performance Analyzer](../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
-| [Champion Identifier](data-analysis/champion-identifier.md) | Identify the internal champion most likely to advocate for your solution at a target account. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+| [Champion Identifier](data-analysis/champion-identifier.md) | Identify the internal champion most likely to advocate for your solution at a target account. |
 | [Supplier Market Trend Tracker](../management/data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
 | [Pharma Feedback Collector](data-analysis/pharma-feedback-collector.md) | Collects, analyzes, and reports product feedback from healthcare professionals and patients. |
 | [E-commerce Pricing Optimizer](../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
@@ -80,9 +80,9 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 |---|---|
 | [Crypto Bd Agent](research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Salary Negotiation Prep](../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
+| [Persona Workshop Facilitator](../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Deepapi](../operations/research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
-| [Persona Workshop Facilitator](../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Apify Market Research](../marketing/research/apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
 | [Partnership Pipeline Researcher](../executives-and-strategy/research/partnership-pipeline-researcher.md) | Finds and vets partners, events, and outreach for your business development pipeline. |
@@ -114,8 +114,8 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 | [Freight Risk Assessment Assistant](security-and-compliance/freight-risk-assessment-assistant.md) | Freight broker risk management assistant for vetting, contracts, claims, compliance, and planning. |
 | [Security Risk Assessment Planner](security-and-compliance/security-risk-assessment-planner.md) | Risk assessment and mitigation assistant for Chief Sales Officers, turning security data into actionable plans and reports. No hype, just the work. |
 | [Freight Broker Compliance Assistant](security-and-compliance/freight-broker-compliance-assistant.md) | Freight broker compliance assistant for carrier checks, audits, and regulatory updates. |
-| [Cybersecurity Consultation Assistant](security-and-compliance/cybersecurity-consultation-assistant.md) | Cybersecurity consultation assistant for CSOs: assess risks, build policies, plan responses, and more. |
 | [Pharma Compliance Assistant](security-and-compliance/pharma-compliance-assistant.md) | Keeps pharmaceutical sales compliant with regulations, audits, and reporting. |
+| [Cybersecurity Consultation Assistant](security-and-compliance/cybersecurity-consultation-assistant.md) | Cybersecurity consultation assistant for CSOs: assess risks, build policies, plan responses, and more. |
 
 [All 10 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -166,11 +166,11 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 
 | Template | What it does |
 |---|---|
-| [BD Executive Presentation Architect](../executives-and-strategy/office-tools/bd-executive-presentation-architect.md) | Prepares polished, audience-tailored presentations for business development leaders. |
 | [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
+| [BD Executive Presentation Architect](../executives-and-strategy/office-tools/bd-executive-presentation-architect.md) | Prepares polished, audience-tailored presentations for business development leaders. |
 | [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
-| [Sales Report Distributor](office-tools/sales-report-distributor.md) | Sends each sales rep their territory report on schedule and logs every delivery. |
 | [Product Presentation Enhancer](office-tools/product-presentation-enhancer.md) | Elevates product presentations for sales VPs with AI-driven content, design, and engagement tools. |
+| [Sales Report Distributor](office-tools/sales-report-distributor.md) | Sends each sales rep their territory report on schedule and logs every delivery. |
 | [CSO Stakeholder Comms Assistant](office-tools/cso-stakeholder-comms-assistant.md) | Handles stakeholder communication tasks from scheduling to analytics for a Chief Sales Officer. |
 
 ## Support & Community

@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 7157,
+ "count": 7167,
  "templates": [
   {
    "slug": "007",
@@ -12820,6 +12820,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "broken-link-reporter",
+   "name": "Broken Link Reporter",
+   "tagline": "Scans a website for broken links and reports fixes.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/broken-link-reporter.md",
+   "url": "https://templatesgrokbot.com/bot/broken-link-reporter",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/seo/broken-link-checker",
+   "source_license": "MIT"
+  },
+  {
    "slug": "brooks-audit",
    "name": "Brooks Audit",
    "tagline": "Audits module dependencies, layering, and structural decay using classic engineering rules.",
@@ -13985,6 +14002,23 @@
    "url": "https://templatesgrokbot.com/bot/c-idiom-reviewer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/super-code/csharp",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "c2-framework-deployer",
+   "name": "C2 Framework Deployer",
+   "tagline": "Deploys and configures C2 frameworks for authorized red team operations.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/c2-framework-deployer.md",
+   "url": "https://templatesgrokbot.com/bot/c2-framework-deployer",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/forensics/offensive-c2-frameworks",
+   "source_license": "MIT"
   },
   {
    "slug": "c4-architecture",
@@ -23189,6 +23223,23 @@
    "path": "jobs/sales/research/contact-hunter.md",
    "url": "https://templatesgrokbot.com/bot/contact-hunter",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/contact-hunter",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "container-escape-specialist",
+   "name": "Container Escape Specialist",
+   "tagline": "Systematically escape containers to reach the host OS during authorized engagements.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/container-escape-specialist.md",
+   "url": "https://templatesgrokbot.com/bot/container-escape-specialist",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/container/offensive-container-escape",
    "source_license": "MIT"
   },
   {
@@ -36042,6 +36093,23 @@
    ],
    "path": "jobs/it-and-development/marketing-and-growth/e-commerce-seo-assistant.md",
    "url": "https://templatesgrokbot.com/bot/e-commerce-seo-assistant"
+  },
+  {
+   "slug": "e-commerce-seo-auditor",
+   "name": "E-commerce SEO Auditor",
+   "tagline": "Audits e-commerce sites for crawl budget, duplicate pages, and missing rich results, then returns a prioritized fix plan.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/e-commerce-seo-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/e-commerce-seo-auditor",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/seo/ecommerce-seo",
+   "source_license": "MIT"
   },
   {
    "slug": "e-commerce-strategy-formulator",
@@ -60437,6 +60505,25 @@
    "source_license": "MIT"
   },
   {
+   "slug": "keylogger-architecture-analyst",
+   "name": "Keylogger Architecture Analyst",
+   "tagline": "Analyzes keylogger architecture and detection indicators for defensive research.",
+   "category": "research",
+   "jobs": [
+    "it-and-development",
+    "science-and-research"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring",
+    "research"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/keylogger-architecture-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/keylogger-architecture-analyst",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/infrastructure/offensive-keylogger-arch",
+   "source_license": "MIT"
+  },
+  {
    "slug": "keynote-style-deck-builder",
    "name": "Keynote Style Deck Builder",
    "tagline": "Create Apple Keynote-style slide decks from plain text outlines.",
@@ -73552,6 +73639,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "network-attack-simulator",
+   "name": "Network Attack Simulator",
+   "tagline": "Conducts authorized Layer 2/3 network attack simulations to test internal security.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/network-attack-simulator.md",
+   "url": "https://templatesgrokbot.com/bot/network-attack-simulator",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/network/offensive-network-attacks",
+   "source_license": "MIT"
+  },
+  {
    "slug": "network-automation-script-generator",
    "name": "Network Automation Script Generator",
    "tagline": "Automates network admin tasks from config to compliance with script generation and monitoring.",
@@ -76087,6 +76191,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "offensive-shellcode-developer",
+   "name": "Offensive Shellcode Developer",
+   "tagline": "Develops custom shellcode for authorized offensive security engagements.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/offensive-shellcode-developer.md",
+   "url": "https://templatesgrokbot.com/bot/offensive-shellcode-developer",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/infrastructure/offensive-shellcode",
+   "source_license": "MIT"
+  },
+  {
    "slug": "offer-comparison-analyzer",
    "name": "Offer Comparison Analyzer",
    "tagline": "Compare job offers side-by-side with total compensation analysis.",
@@ -78583,6 +78705,22 @@
    "path": "jobs/customer-support/marketing-and-growth/paid-ads-guide.md",
    "url": "https://templatesgrokbot.com/bot/paid-ads-guide",
    "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-guide",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "paid-ads-setup",
+   "name": "Paid Ads Setup",
+   "tagline": "Connects paid-ad accounts and captures reusable campaign context for safe ad work.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/paid-ads-setup.md",
+   "url": "https://templatesgrokbot.com/bot/paid-ads-setup",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-setup",
    "source_license": "MIT"
   },
   {
@@ -113242,6 +113380,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "tiktok-ads-auditor",
+   "name": "TikTok Ads Auditor",
+   "tagline": "Audits, diagnoses, and safely operates connected TikTok Ads accounts.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/tiktok-ads-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/tiktok-ads-auditor",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-tiktok",
+   "source_license": "MIT"
+  },
+  {
    "slug": "tiktok-automation",
    "name": "Tiktok Automation",
    "tagline": "Upload, publish, and manage TikTok videos and photos via Composio's TikTok toolkit.",
@@ -122550,6 +122705,23 @@
    "path": "jobs/it-and-development/prompt-engineering/writing-rules.md",
    "url": "https://templatesgrokbot.com/bot/writing-rules",
    "adapted_from": "https://www.aitmpl.com/component/skills/productivity/writing-rules",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "x-ads-auditor",
+   "name": "X Ads Auditor",
+   "tagline": "Audits, diagnoses, and safely operates connected X Ads accounts.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/x-ads-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/x-ads-auditor",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-x",
    "source_license": "MIT"
   },
   {

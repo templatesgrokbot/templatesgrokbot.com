@@ -37,12 +37,12 @@ Team leads and project managers. **798 ready-made Grok Bot templates** for this 
 |---|---|
 | [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
 | [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
-| [Inventory Demand Planning](../operations/data-analysis/inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
 | [Forecast Accuracy Review](../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
+| [Inventory Demand Planning](../operations/data-analysis/inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
-| [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
+| [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 
 [All 217 Data Analysis templates →](data-analysis/README.md)
 
@@ -56,8 +56,8 @@ Team leads and project managers. **798 ready-made Grok Bot templates** for this 
 | [Meal Prep](../operations/productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Diary](../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Brainstorming](productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
-| [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Se Product Manager Advisor](../product-development/productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
+| [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 
 [All 214 Productivity templates →](productivity/README.md)
 
@@ -69,8 +69,8 @@ Team leads and project managers. **798 ready-made Grok Bot templates** for this 
 | [Research Orchestrator](../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
 | [Rex](../product-development/research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
-| [Brand Perception Study Assistant](research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
+| [Brand Perception Study Assistant](research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Supplier Diversification Planner](research/supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
 | [User Research Synthesis](../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
 
@@ -84,10 +84,10 @@ Team leads and project managers. **798 ready-made Grok Bot templates** for this 
 | [Git Pr Workflows Git Workflow](../it-and-development/coding/git-pr-workflows-git-workflow.md) | Move completed changes through validation into a pull request or guarded merge. |
 | [Strategic Compact](../it-and-development/coding/cc-skill-strategic-compact.md) | Condenses a codebase into a strategic summary for development planning. |
 | [Standup Writer](../it-and-development/coding/standup-writer.md) | Turns yesterday's commits, PRs, and tickets into a standup update you can paste without editing. |
-| [Workflow Patterns](../it-and-development/coding/workflow-patterns.md) | Guide for implementing tasks with TDD workflow, phase checkpoints, and git commits. |
 | [Backend Development Feature Development](../it-and-development/coding/backend-development-feature-development.md) | Orchestrate backend feature development from requirements to deployment across teams and services. |
+| [Workflow Patterns](../it-and-development/coding/workflow-patterns.md) | Guide for implementing tasks with TDD workflow, phase checkpoints, and git commits. |
 | [Omp Delegate](../it-and-development/coding/omp-delegate.md) | Orchestrate bounded coding tasks via Oh My Pi, then review and commit yourself. |
-| [Grilling](../it-and-development/coding/grilling.md) | Stress-test a plan or design through relentless, one-at-a-time questioning. |
+| [Blueprint Mode](../it-and-development/coding/blueprint-mode.md) | Executes structured coding workflows with strict correctness and maintainability. |
 
 [All 48 Coding templates →](coding/README.md)
 
@@ -97,8 +97,8 @@ Team leads and project managers. **798 ready-made Grok Bot templates** for this 
 |---|---|
 | [Cra Vulnerability Obligations](../it-and-development/security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
 | [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
-| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Chemical Compliance Assistant](../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
+| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Compliance and Regulatory Assistant](security-and-compliance/compliance-and-regulatory-assistant.md) | Guides project managers through compliance research, documentation, audits, training, and regulatory updates. |
 | [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
 | [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
@@ -111,13 +111,13 @@ Team leads and project managers. **798 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
-| [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
-| [Seo Optimizer](../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
 | [Campaign Plan](../marketing/marketing-and-growth/marketing-campaign-plan.md) | Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu |
+| [Seo Optimizer](../marketing/marketing-and-growth/seo-optimizer.md) | Optimizes website content and technical setup to improve organic search rankings. |
+| [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Personalized Marketing Strategist](marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
 | [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
 | [Pricing Strategy Formulation Assistant](marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
-| [Content Strategy Planner](marketing-and-growth/content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
+| [Content Marketer](../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
 
 [All 43 Marketing & Growth templates →](marketing-and-growth/README.md)
 
@@ -129,8 +129,8 @@ Team leads and project managers. **798 ready-made Grok Bot templates** for this 
 | [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Interview Style Doc Building](writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
 | [Internal Comms Drafter](../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
-| [Guest Experience Enhancer](../hospitality-and-events/writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
 | [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
+| [Guest Experience Enhancer](../hospitality-and-events/writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
 | [Cv Generator](../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [PM Stakeholder Comms Kit](../product-development/writing-and-content/pm-stakeholder-comms-kit.md) | Drafts, summarizes, and plans all stakeholder communications for product managers. |
 
@@ -250,8 +250,8 @@ Team leads and project managers. **798 ready-made Grok Bot templates** for this 
 | [Command Center Ui](../it-and-development/design/command-center-ui.md) | Generate dark-themed monitoring UI code for NOCs and global maps. |
 | [C4 Context](../product-development/design/c4-context.md) | Creates C4 system context diagrams, personas, user journeys, and external dependencies. |
 | [Design Orchestration](../creatives/design/design-orchestration.md) | Routes design work through brainstorming, review, and execution readiness checks. |
-| [Visual Branding Consultant](design/visual-branding-consultant.md) | Guides and evaluates visual branding for a business unit, from audit to implementation. |
 | [Visual Brand Identity Reviewer](design/visual-brand-identity-reviewer.md) | Reviews and improves your brand's visual identity across all touchpoints. |
+| [Visual Branding Consultant](design/visual-branding-consultant.md) | Guides and evaluates visual branding for a business unit, from audit to implementation. |
 | [Site Layout Planner](../real-estate-and-construction/design/site-layout-planner.md) | Optimizes construction site layouts and utilization for contractors. |
 
 [All 9 Design templates →](design/README.md)

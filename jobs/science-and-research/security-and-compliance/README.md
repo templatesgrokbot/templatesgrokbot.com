@@ -1,6 +1,6 @@
 # Security & Compliance templates for Science and Research
 
-Authorised security testing, audits and regulatory work. 36 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 37 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Authorised security testing, audits and regulatory work. 36 Grok Bot templates, 
 | [Ethical Compliance Guidance Assistant](ethical-compliance-guidance-assistant.md) | Guides ethical compliance in research with guidelines, training, audits, and reporting. |
 | [Forensic Evidence Examiner](../../it-and-development/security-and-compliance/forensic-evidence-examiner.md) | Forensic analysis assistant for cybersecurity analysts to examine evidence and generate reports. |
 | [Health and Safety Compliance Assistant](health-and-safety-compliance-assistant.md) | Manages lab safety compliance: training, waste, equipment, incidents, audits, and more. |
+| [Keylogger Architecture Analyst](../../it-and-development/security-and-compliance/keylogger-architecture-analyst.md) | Analyzes keylogger architecture and detection indicators for defensive research. |
 | [Lab Quality Control Assistant](lab-quality-control-assistant.md) | Your lab QA partner: analyze data, draft protocols, track compliance, improve processes. |
 | [Lab Safety Checklist Generator](lab-safety-checklist-generator.md) | Generates and verifies lab safety compliance checklists for laboratory technicians. |
 | [Laboratory Quality Control Assistant](laboratory-quality-control-assistant.md) | Manages lab quality control tasks from data analysis to audits and compliance. |

@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 391 Grok Bot templates, 186 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 396 Grok Bot templates, 191 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -48,6 +48,7 @@ Campaigns, ads, conversion and launch plans. 391 Grok Bot templates, 186 of them
 | [Brand Strategy Director](../../executives-and-strategy/marketing-and-growth/brand-strategy-director.md) | Brand and marketing strategy assistant for executive directors. |
 | [Brand Voice Guidelines Generator](brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Brevo Automation](brevo-automation.md) | Automate Brevo email campaigns, templates, and senders via Rube MCP. |
+| [Broken Link Reporter](broken-link-reporter.md) | Scans a website for broken links and reports fixes. |
 | [Campaign Automation Command Center](../../executives-and-strategy/marketing-and-growth/campaign-automation-command-center.md) | Automates your marketing campaigns, personalization, and analysis across channels. |
 | [Campaign Chat Insight Optimizer](../../pr-and-communications/marketing-and-growth/campaign-chat-insight-optimizer.md) | Analyzes campaign data and chat interactions to optimize marketing effectiveness. |
 | [Campaign Evaluation Analyst](../../management/marketing-and-growth/campaign-evaluation-analyst.md) | Evaluates marketing campaigns end-to-end and hands back actionable insights and reports. |
@@ -117,6 +118,7 @@ Campaigns, ads, conversion and launch plans. 391 Grok Bot templates, 186 of them
 | [E-commerce Launch Strategist](../../management/marketing-and-growth/e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
 | [E-commerce Optimization Assistant](../../it-and-development/marketing-and-growth/e-commerce-optimization-assistant.md) | Optimizes e-commerce websites for SEO, conversions, UX, performance, and personalization. |
 | [E-commerce SEO Assistant](../../it-and-development/marketing-and-growth/e-commerce-seo-assistant.md) | E-commerce SEO assistant for keyword research, on-page optimization, audits, and content. |
+| [E-commerce SEO Auditor](e-commerce-seo-auditor.md) | Audits e-commerce sites for crawl budget, duplicate pages, and missing rich results, then returns a prioritized fix plan. |
 | [Email A/B Testing Assistant](../../sales/marketing-and-growth/email-a-b-testing-assistant.md) | Designs, runs, and analyzes email A/B tests to boost engagement and conversions. |
 | [Email Campaign Automation Assistant](../../sales/marketing-and-growth/email-campaign-automation-assistant.md) | Builds, automates, and optimizes email campaigns with personalization, testing, and analytics. |
 | [Email Campaign Builder](email-campaign-builder.md) | Builds, sends, and optimizes email campaigns that engage subscribers and drive conversions. |
@@ -259,6 +261,7 @@ Campaigns, ads, conversion and launch plans. 391 Grok Bot templates, 186 of them
 | [Page Cro](page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Paid Ads](paid-ads.md) | Plan, draft, and optimize paid ad campaigns across platforms to hit target CPA and ROAS. |
 | [Paid Ads Guide](../../customer-support/marketing-and-growth/paid-ads-guide.md) | Explains NotFair's paid-ads capabilities, connections, and boundaries from official docs. |
+| [Paid Ads Setup](paid-ads-setup.md) | Connects paid-ad accounts and captures reusable campaign context for safe ad work. |
 | [Paid Media Auditor](paid-media-auditor.md) | Audits paid media accounts and returns prioritized fixes with projected impact. |
 | [Paid Media Reviewer](paid-media-reviewer.md) | Read-only paid-media performance reviews with evidence-based insights and recommendations. |
 | [Paid Media Tracking Specialist](paid-media-tracking-specialist.md) | Builds and audits conversion tracking so every ad dollar is measured correctly. |
@@ -373,6 +376,7 @@ Campaigns, ads, conversion and launch plans. 391 Grok Bot templates, 186 of them
 | [Subject Line Psychologist](subject-line-psychologist.md) | Craft email subject lines that earn opens through honest psychological triggers. |
 | [Subscriber Email Growth Planner](../../sales/marketing-and-growth/subscriber-email-growth-planner.md) | Plan, write, and optimize email campaigns that engage subscribers and drive conversions. |
 | [Testimonial Harvester](testimonial-harvester.md) | Turns customer feedback into ready-to-use testimonials and proof assets. |
+| [TikTok Ads Auditor](tiktok-ads-auditor.md) | Audits, diagnoses, and safely operates connected TikTok Ads accounts. |
 | [TikTok Growth Strategist](tiktok-growth-strategist.md) | Plans TikTok content, creator partnerships and ad tests, and reports the numbers behind them. |
 | [Trust Calibrator](trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
 | [UGC Campaign Planner](ugc-campaign-planner.md) | Plans, runs, and improves user-generated content campaigns for content marketing managers. |
@@ -395,6 +399,7 @@ Campaigns, ads, conversion and launch plans. 391 Grok Bot templates, 186 of them
 | [Wechat Official Account Strategist](wechat-official-account-strategist.md) | Grow WeChat Official Accounts with high-conversion content strategy and title formulas. |
 | [WeCom Private Domain Operator](wecom-private-domain-operator.md) | Builds and runs a WeCom private-domain operation with segmented groups, lifecycle outreach and funnel tracking. |
 | [Write SEO Articles](seo-artikel-schreiben.md) | Writes SEO articles that rank by analyzing live SERPs and matching search intent. |
+| [X Ads Auditor](x-ads-auditor.md) | Audits, diagnoses, and safely operates connected X Ads accounts. |
 | [Youtube Seo Optimizer](youtube-seo-optimizer.md) | Optimize YouTube and podcast metadata for search and discovery. |
 | [Zhihu Authority Strategist](zhihu-authority-strategist.md) | Builds Zhihu authority through expert answers, columns, and qualified lead tracking. |
 

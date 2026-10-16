@@ -1,6 +1,6 @@
 # Credits
 
-3,935 of the 7,157 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
+3,945 of the 7,167 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
 
 Every adapted template also names its original (`adapted_from`) and its license (`source_license`) in its front matter, and links back here at the end of the file.
 
@@ -23,10 +23,10 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 22 | [CC BY 4.0](LICENSES/CC-BY-4.0.md), [MIT](LICENSES/MIT.md) | [list](credits/github-com-coreyhaines31-marketingskills.md) |
 | [github.com/huggingface/skills](https://github.com/huggingface/skills) | 22 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-huggingface-skills.md) |
 | [github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 20 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-addyosmani-agent-skills.md) |
+| [github.com/nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) | 19 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-nowork-studio-notfair-plugin.md) |
+| [github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 19 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-snailsploit-claude-red.md) |
 | [github.com/amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) | 18 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-amelnagdy-delegate-skills.md) |
 | [github.com/bitjaru/styleseed](https://github.com/bitjaru/styleseed) | 15 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-bitjaru-styleseed.md) |
-| [github.com/nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) | 14 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-nowork-studio-notfair-plugin.md) |
-| [github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 14 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-snailsploit-claude-red.md) |
 | [github.com/AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 12 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-agricidaniel-claude-seo.md) |
 | [github.com/expo/skills](https://github.com/expo/skills) | 11 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-expo-skills.md) |
 | [github.com/Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) | 11 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-simon-he95-markstream-vue.md) |

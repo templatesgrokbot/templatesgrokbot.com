@@ -41,13 +41,13 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | Template | What it does |
 |---|---|
 | [Power Bi Performance Expert](../it-and-development/data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
+| [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
 | [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Podcast Content Analyzer](data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
-| [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
-| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Monte Carlo Performance Diagnosis](../it-and-development/data-analysis/monte-carlo-performance-diagnosis.md) | Diagnoses pipeline performance issues using Monte Carlo observability data. |
-| [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
+| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
+| [Postgres Readonly Queries](../it-and-development/data-analysis/postgres-readonly-queries.md) | Run safe read-only SQL against PostgreSQL with multi-connection support and write protection. |
 
 [All 459 Data Analysis templates →](data-analysis/README.md)
 
@@ -56,10 +56,10 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | Template | What it does |
 |---|---|
 | [Monitoring Specialist](../it-and-development/cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
-| [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Kubernetes Architect](../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
-| [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
+| [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Zapier Make Patterns](../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
+| [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 | [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
@@ -71,8 +71,8 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | Template | What it does |
 |---|---|
 | [Doordash Group Orders](productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
-| [Meal Prep](productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Spark](productivity/spark.md) | Guides new users through a short questionnaire, then automatically creates the bots and connectors they need. |
+| [Meal Prep](productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Markitdown](productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
 | [Obsidian Clipper Template Creator](productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
 | [Diary](productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
@@ -89,10 +89,10 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Jfrog Sec](../it-and-development/security-and-compliance/jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |
 | [Regulatory Affairs Head](security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
 | [Windows Ad](../it-and-development/security-and-compliance/windows-ad.md) | Run authorized Active Directory attacks: Kerberos, AD CS, BloodHound, NTLM relay. |
-| [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Hazardous Material Management Assistant](security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
-| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Chemical Compliance Assistant](../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
+| [Regulatory Compliance Guidance Assistant](../product-development/security-and-compliance/regulatory-compliance-guidance-assistant.md) | Guides process engineers through regulatory compliance research, documentation, reporting, training, audits, and risk management. |
 
 [All 114 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -102,8 +102,8 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 |---|---|
 | [Maxia](research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
 | [Discover Brand Materials](../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
-| [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Url Context Validator](../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
+| [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Research Orchestrator](../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
 | [Grant Finder](../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
 | [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
@@ -193,8 +193,8 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Resume Tailor](writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
 | [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
 | [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
-| [Custom Clause Generator](../legal/writing-and-content/custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
 | [Email Issue Fixer](writing-and-content/email-issue-fixer.md) | Proofread emails and strip tracking from links on request, preserving voice. |
+| [Custom Clause Generator](../legal/writing-and-content/custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
 | [Stakeholder Communication Coordinator](writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
 | [Process Documentation Assistant](writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [Safety Training Program Developer](writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
@@ -224,9 +224,9 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Mcp Integration Engineer](../it-and-development/generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
 | [Azure Ai Contentsafety Py](../it-and-development/generative-ai-and-llm/azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
 | [Polis Protocol](../it-and-development/generative-ai-and-llm/polis-protocol.md) | Coordinate multi-vendor AI agents as a self-improving team with learning routing and amendable rules. |
+| [Machine Learning Engineer](../it-and-development/generative-ai-and-llm/machine-learning-engineer.md) | Deploy and optimize ML models for production inference at scale. |
 | [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
 | [Delegating To Agents](../it-and-development/generative-ai-and-llm/delegating-to-agents.md) | Delegate bounded work to other AI agents with full context and progress checks. |
-| [Machine Learning Engineer](../it-and-development/generative-ai-and-llm/machine-learning-engineer.md) | Deploy and optimize ML models for production inference at scale. |
 | [Loopy](../it-and-development/generative-ai-and-llm/loopy.md) | Discover, craft, audit, and publish bounded AI-agent loops from engineering work. |
 
 [All 15 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
@@ -237,8 +237,8 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 |---|---|
 | [Multimodal Whisper](../it-and-development/speech-to-text/multimodal-whisper.md) | Transcribe audio to text using Whisper, supporting 99 languages and translation to English. |
 | [Document Structure Analyzer](../it-and-development/speech-to-text/document-structure-analyzer.md) | Analyzes document layouts and maps content hierarchy before OCR processing. |
-| [Audio Transcriber](speech-to-text/audio-transcriber.md) | Transcribe audio to Markdown with speaker IDs and summaries. |
 | [Transcribe](speech-to-text/transcribe.md) | Transcribes audio files to text with optional speaker labels. |
+| [Audio Transcriber](speech-to-text/audio-transcriber.md) | Transcribe audio to Markdown with speaker IDs and summaries. |
 | [Ocr Preprocessing Optimizer](../it-and-development/speech-to-text/ocr-preprocessing-optimizer.md) | Optimizes images for maximum OCR accuracy through preprocessing and enhancement. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Visual Analysis Ocr](../it-and-development/speech-to-text/visual-analysis-ocr.md) | Extracts text from images into markdown preserving structure and formatting. |
 | [Transcription Services Assistant](speech-to-text/transcription-services-assistant.md) | Turns audio and video files into accurate, formatted text for data entry specialists. |
@@ -255,8 +255,8 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Sticky Flowchart Builder](generative-code/sticky-flowchart-builder.md) | Turns a workflow into a whiteboard-style sticky note flowchart. |
 | [OrgScript Process Modeler](generative-code/orgscript-process-modeler.md) | Turns plain-language business processes into validated OrgScript models with diagrams and summaries. |
 | [Webflow Automation](../it-and-development/generative-code/webflow-automation.md) | Automate Webflow CMS, publishing, pages, assets, and ecommerce via Rube MCP. |
-| [Odoo Edi Connector](../it-and-development/generative-code/odoo-edi-connector.md) | Map EDI X12/EDIFACT to Odoo objects and automate B2B document flows. |
 | [Macos Spm App Packaging](../it-and-development/generative-code/macos-spm-app-packaging.md) | Scaffold, build, sign, and package SwiftPM macOS apps without Xcode. |
+| [Odoo Edi Connector](../it-and-development/generative-code/odoo-edi-connector.md) | Map EDI X12/EDIFACT to Odoo objects and automate B2B document flows. |
 | [2slides Ppt Generator](../marketing/generative-code/2slides-ppt-generator.md) | Generate slides from text, documents, or reference images via the 2slides API. |
 
 [All 9 Generative Code templates →](generative-code/README.md)
@@ -268,8 +268,8 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
 | [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
 | [Logistics Training Program Coordinator](teaching-and-tutoring/logistics-training-program-coordinator.md) | Builds and runs staff training programs for logistics teams, from needs assessment to evaluation. |
-| [Insurance Training Developer](teaching-and-tutoring/insurance-training-developer.md) | Build and manage the full training cycle for your insurance operations team. |
 | [Employee Training Program Coordinator](teaching-and-tutoring/employee-training-program-coordinator.md) | Designs, runs, and improves your team's training programs end to end. |
+| [Insurance Training Developer](teaching-and-tutoring/insurance-training-developer.md) | Build and manage the full training cycle for your insurance operations team. |
 | [Lean Process Improvement Assistant](teaching-and-tutoring/lean-process-improvement-assistant.md) | Guides process improvement analysts through Lean methodology tasks from data analysis to continuous improvement. |
 | [Driver Training Program Coordinator](teaching-and-tutoring/driver-training-program-coordinator.md) | Builds and tracks complete driver training programs for fleet safety and compliance. |
 | [Real-Time Tracking Setup Assistant](teaching-and-tutoring/real-time-tracking-setup-assistant.md) | Guides logistics coordinators through setting up and optimizing real-time tracking systems. |

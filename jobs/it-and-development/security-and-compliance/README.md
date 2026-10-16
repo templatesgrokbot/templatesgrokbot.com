@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 388 Grok Bot templates, 374 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 393 Grok Bot templates, 379 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -60,6 +60,7 @@ Authorised security testing, audits and regulatory work. 388 Grok Bot templates,
 | [Burp Suite Testing](burp-suite-testing.md) | Guide web app security testing with Burp Suite proxy, repeater, and scanner. |
 | [Burpsuite Project Parser](burpsuite-project-parser.md) | Extract and search Burp Suite project files from the command line. |
 | [Business Logic Hunter](business-logic-hunter.md) | Hunts business logic vulnerabilities in web apps, focusing on financial-impact cases. |
+| [C2 Framework Deployer](c2-framework-deployer.md) | Deploys and configures C2 frameworks for authorized red team operations. |
 | [Cache Poison Hunter](cache-poison-hunter.md) | Hunts cache poisoning and web cache deception vulnerabilities in CDN-fronted web applications. |
 | [CAPTCHA Bypass Hunter](captcha-bypass-hunter.md) | Tests web forms for CAPTCHA bypass vulnerabilities across six common patterns. |
 | [Case Review](case-review.md) | Audit reverse-engineering case packages for traceability and completeness before handoff. |
@@ -82,6 +83,7 @@ Authorised security testing, audits and regulatory work. 388 Grok Bot templates,
 | [Compliance Monitoring Analyst](compliance-monitoring-analyst.md) | Monitors compliance, prepares audits, and automates reporting for systems analysts. |
 | [Compliance Risk Management Assistant](compliance-risk-management-assistant.md) | Compliance and risk management assistant for IT consultants to assess, monitor, and mitigate risks. |
 | [Constant Time Analysis](constant-time-analysis.md) | Detect timing leaks in cryptographic code across 12 languages. |
+| [Container Escape Specialist](container-escape-specialist.md) | Systematically escape containers to reach the host OS during authorized engagements. |
 | [Container Image Scanner](container-image-scanner.md) | Scans container images for vulnerabilities and reports findings with severity and source. |
 | [Container Security Hardening](container-security-hardening.md) | Hardens container images and runtime against production threats. |
 | [CORS Misconfiguration Hunter](cors-misconfiguration-hunter.md) | Tests CORS configurations for credentialed cross-origin read flaws and reports only browser-provable findings. |
@@ -183,6 +185,7 @@ Authorised security testing, audits and regulatory work. 388 Grok Bot templates,
 | [JWT Forgery Tester](jwt-forgery-tester.md) | Tests JWT verifiers for forgery flaws during authorized security assessments and reports the proof. |
 | [JWT Security Auditor](jwt-security-auditor.md) | Audits JWT-based authentication for bypass and implementation flaws. |
 | [K8s Security Policies](k8s-security-policies.md) | Implement defense-in-depth Kubernetes security with network policies, RBAC, and pod standards. |
+| [Keylogger Architecture Analyst](keylogger-architecture-analyst.md) | Analyzes keylogger architecture and detection indicators for defensive research. |
 | [Kubernetes Attack Simulator](kubernetes-attack-simulator.md) | Assess Kubernetes cluster security by simulating attacks from a compromised pod. |
 | [Kubernetes Security Hunter](kubernetes-security-hunter.md) | Hunt Kubernetes and Docker misconfigurations for RCE and credential disclosure. |
 | [LDAP Injection Hunter](ldap-injection-hunter.md) | Hunt LDAP and XPath injection vulnerabilities in web applications. |
@@ -210,6 +213,7 @@ Authorised security testing, audits and regulatory work. 388 Grok Bot templates,
 | [Model Supply Chain Security](model-supply-chain-security.md) | Verifies model artifacts are signed, scanned, and attested before they are promoted. |
 | [Mtls Configuration](mtls-configuration.md) | Configure mutual TLS for zero-trust service-to-service communication. |
 | [Network 101](network-101.md) | Configure HTTP, HTTPS, SNMP, and SMB services in isolated lab environments for penetration testing practice. |
+| [Network Attack Simulator](network-attack-simulator.md) | Conducts authorized Layer 2/3 network attack simulations to test internal security. |
 | [Network Compliance Assistant](network-compliance-assistant.md) | Keeps your network compliant with regulations through policy, audits, and reporting. |
 | [Network Compliance Planner](network-compliance-planner.md) | Guides network engineers through compliance tasks with step-by-step plans and checks. |
 | [Network Policy Enforcement Assistant](network-policy-enforcement-assistant.md) | Drafts, implements, and monitors network policies for compliance and security. |
@@ -224,6 +228,7 @@ Authorised security testing, audits and regulatory work. 388 Grok Bot templates,
 | [NTLM Info Disclosure Hunter](ntlm-info-disclosure-hunter.md) | Hunt NTLM info disclosure on internet-reachable IIS/SharePoint/Exchange. |
 | [OAuth Security Auditor](oauth-security-auditor.md) | Guides authorized OAuth 2.0 penetration tests with a structured attack checklist. |
 | [Offensive Fuzzing Campaign Manager](offensive-fuzzing-campaign-manager.md) | Plan and run fuzz campaigns against any target, from file parsers to kernels. |
+| [Offensive Shellcode Developer](offensive-shellcode-developer.md) | Develops custom shellcode for authorized offensive security engagements. |
 | [Okta Attack Chain](okta-attack-chain.md) | Recon and test Okta-as-IdP authentication for authorized red-team engagements. |
 | [OneRoster CSV Validator](oneroster-csv-validator.md) | Pre-flight checks OneRoster CSV roster bundles for referential integrity and spec compliance before SIS ingestion. |
 | [Open Redirect Hunter](open-redirect-hunter.md) | Hunt and validate open redirects, then chain them to OAuth theft or SSRF for high-impact findings. |

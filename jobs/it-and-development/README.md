@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **3,316 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,7 +13,7 @@ Engineers, DevOps, security and IT teams. **3,316 ready-made Grok Bot templates*
 |---|---:|
 | [Coding](coding/README.md) | 1,099 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 536 |
-| [Security & Compliance](security-and-compliance/README.md) | 388 |
+| [Security & Compliance](security-and-compliance/README.md) | 393 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 253 |
 | [Data Analysis](data-analysis/README.md) | 240 |
 | [Productivity](productivity/README.md) | 143 |
@@ -43,12 +43,12 @@ Engineers, DevOps, security and IT teams. **3,316 ready-made Grok Bot templates*
 |---|---|
 | [Screenshot Interaction Analyzer](coding/screenshot-interaction-analyzer.md) | Analyzes UI screenshots to map every clickable element, input, and navigation path. |
 | [Api Integration Specialist](coding/api-integration-specialist.md) | Integrates third-party APIs with authentication, error handling, rate limiting, and retry logic. |
-| [Dependabot Review](coding/dependabot-review.md) | Reviews open Dependabot PRs, classifies risk, checks CI, and auto-merges safe updates. |
-| [Csharp Mcp Expert](coding/csharp-mcp-expert.md) | Build production-ready MCP servers in C# with expert guidance on SDK, DI, and best practices. |
 | [Code Review](coding/code-review.md) | Reviews pull requests for security, performance, and design following Sentry engineering practices. |
-| [Distributed Training Pytorch Lightning](coding/distributed-training-pytorch-lightning.md) | Converts PyTorch code into Lightning modules and trains them with automatic distributed scaling. |
+| [Csharp Mcp Expert](coding/csharp-mcp-expert.md) | Build production-ready MCP servers in C# with expert guidance on SDK, DI, and best practices. |
 | [Poka Yoke](coding/poka-yoke.md) | Redesign work so mistakes cannot become defects, without relying on human memory. |
-| [Code Simplifier](coding/code-simplifier.md) | Refines recently modified code for clarity and maintainability without changing behavior. |
+| [Dependabot Review](coding/dependabot-review.md) | Reviews open Dependabot PRs, classifies risk, checks CI, and auto-merges safe updates. |
+| [Distributed Training Pytorch Lightning](coding/distributed-training-pytorch-lightning.md) | Converts PyTorch code into Lightning modules and trains them with automatic distributed scaling. |
+| [Playwright E2E Builder](coding/playwright-e2e-builder.md) | Builds Playwright E2E test suites with Page Object Model and CI integration. |
 
 [All 1,099 Coding templates →](coding/README.md)
 
@@ -56,14 +56,14 @@ Engineers, DevOps, security and IT teams. **3,316 ready-made Grok Bot templates*
 
 | Template | What it does |
 |---|---|
+| [Gh Review Requests](cloud-and-devops/gh-review-requests.md) | Fetch unread GitHub review requests for a specified team. |
 | [Monitoring Specialist](cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
 | [Azure Saas Architect](cloud-and-devops/azure-saas-architect.md) | Design multitenant Azure SaaS architectures using Well-Architected principles. |
-| [Gh Review Requests](cloud-and-devops/gh-review-requests.md) | Fetch unread GitHub review requests for a specified team. |
-| [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Kubernetes Architect](cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
-| [Network Engineer](cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
-| [Upstash Redis](cloud-and-devops/upstash-redis.md) | Use Upstash Redis over HTTPS from serverless and edge runtimes. |
+| [Incident Response Incident Response](cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Zapier Make Patterns](cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
+| [Upstash Redis](cloud-and-devops/upstash-redis.md) | Use Upstash Redis over HTTPS from serverless and edge runtimes. |
+| [Network Engineer](cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 
 [All 536 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
@@ -73,14 +73,14 @@ Engineers, DevOps, security and IT teams. **3,316 ready-made Grok Bot templates*
 |---|---|
 | [Fda Consultant Specialist](security-and-compliance/fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
 | [Ethical Hacking Methodology](security-and-compliance/ethical-hacking-methodology.md) | Guide users through the five-stage ethical hacking lifecycle from recon to reporting for authorized testing. |
-| [Powershell Security Hardening](security-and-compliance/powershell-security-hardening.md) | Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie |
 | [Wordpress Penetration Testing](security-and-compliance/wordpress-penetration-testing.md) | Assess WordPress sites for vulnerabilities and enumerate users, themes, plugins. |
-| [Cra Vulnerability Obligations](security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
-| [Api Security Testing](security-and-compliance/api-security-testing.md) | Guided API security assessment for REST and GraphQL endpoints. |
+| [Powershell Security Hardening](security-and-compliance/powershell-security-hardening.md) | Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie |
 | [Smart Contract Auditor](security-and-compliance/smart-contract-auditor.md) | Audits smart contracts for vulnerabilities and produces severity-ranked reports with remediation guidance. |
-| [Frontend Mobile Security Xss Scan](security-and-compliance/frontend-mobile-security-xss-scan.md) | Scan React, Vue, Angular & JS frontends for XSS injection points. |
+| [Api Security Testing](security-and-compliance/api-security-testing.md) | Guided API security assessment for REST and GraphQL endpoints. |
+| [Cra Vulnerability Obligations](security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
+| [Differential Review](security-and-compliance/differential-review.md) | Security-focused code review for PRs, commits, and diffs. |
 
-[All 388 Security & Compliance templates →](security-and-compliance/README.md)
+[All 393 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Generative AI and LLM
 
@@ -90,10 +90,10 @@ Engineers, DevOps, security and IT teams. **3,316 ready-made Grok Bot templates*
 | [Emerging Techniques Knowledge Distillation](generative-ai-and-llm/emerging-techniques-knowledge-distillation.md) | Compress large language models by distilling knowledge from a teacher to a smaller student model. |
 | [Llm Ops](generative-ai-and-llm/llm-ops.md) | Designs and operates production RAG pipelines, embeddings, vector DBs, and cost-efficient LLM systems. |
 | [Llm Evaluation](generative-ai-and-llm/llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
-| [Llm Council](generative-ai-and-llm/llm-council.md) | Run a council of open-weight LLMs that deliberate and synthesize a final answer via Fireworks AI. |
-| [Embedding Strategies](generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
 | [Ai Engineering Toolkit](generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
+| [Embedding Strategies](generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
 | [Mcp Integration Engineer](generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
+| [Llm Council](generative-ai-and-llm/llm-council.md) | Run a council of open-weight LLMs that deliberate and synthesize a final answer via Fireworks AI. |
 
 [All 253 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
@@ -105,10 +105,10 @@ Engineers, DevOps, security and IT teams. **3,316 ready-made Grok Bot templates*
 | [Kusto Assistant](data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
 | [Ai Dev Jobs Mcp](data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Mlops Tensorboard](../science-and-research/data-analysis/mlops-tensorboard.md) | Visualize training metrics, debug models, and compare experiments with TensorBoard. |
-| [Power Bi Performance Expert](data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
 | [Plotly](data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
-| [Qutip](../science-and-research/data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
 | [Resume Ats Optimizer](../human-resources/data-analysis/resume-ats-optimizer.md) | Analyzes resumes for ATS compatibility and optimizes keyword match against job descriptions. |
+| [Power Bi Performance Expert](data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
+| [Qutip](../science-and-research/data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
 
 [All 240 Data Analysis templates →](data-analysis/README.md)
 
@@ -134,9 +134,9 @@ Engineers, DevOps, security and IT teams. **3,316 ready-made Grok Bot templates*
 | [Maxia](../operations/research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
 | [Pubchem Database](../science-and-research/research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Bioservices](../science-and-research/research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
-| [Mcp Registry Navigator](research/mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
 | [Notebooklm](../science-and-research/research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Task Researcher](research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
+| [Mcp Registry Navigator](research/mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
 | [Url Context Validator](research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
 | [Rex](../product-development/research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 
@@ -147,13 +147,13 @@ Engineers, DevOps, security and IT teams. **3,316 ready-made Grok Bot templates*
 | Template | What it does |
 |---|---|
 | [Bento Ui](../creatives/design/bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
-| [Neumorphism](../creatives/design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
-| [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [Gradient Design](../creatives/design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
+| [Neumorphism](../creatives/design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
-| [Spatial Computing Ui](design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
-| [Ui Pattern](../creatives/design/ui-pattern.md) | Generate a composed UI pattern from design system primitives. |
+| [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
+| [Ui Pattern](../creatives/design/ui-pattern.md) | Generate a composed UI pattern from design system primitives. |
+| [Spatial Computing Ui](design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
 
 [All 113 Design templates →](design/README.md)
 
@@ -161,13 +161,13 @@ Engineers, DevOps, security and IT teams. **3,316 ready-made Grok Bot templates*
 
 | Template | What it does |
 |---|---|
-| [Manim](../education/generative-code/manim.md) | Guides you in writing Manim Python code to create mathematical animations and educational videos. |
 | [Backend To Frontend Handoff Docs](generative-code/backend-to-frontend-handoff-docs.md) | Generate API handoff docs for frontend developers from completed backend code. |
+| [Manim](../education/generative-code/manim.md) | Guides you in writing Manim Python code to create mathematical animations and educational videos. |
 | [Web Games](generative-code/web-games.md) | Select frameworks and optimize performance for browser-based games. |
 | [Robius Event Action](generative-code/robius-event-action.md) | Event handling and action dispatch patterns for Makepad widgets in Rust. |
 | [Makepad Font](generative-code/makepad-font.md) | Configure and render text in Makepad using SDF fonts, layouter, and DSL. |
 | [Threejs Animation](../creatives/generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
-| [Figma](generative-code/figma.md) | Fetches Figma designs and translates them into production code. |
+| [Angular](generative-code/angular.md) | Modern Angular v20+ expert: Signals, Standalone Components, Zoneless, SSR/Hydration. |
 | [Threejs Postprocessing](../creatives/generative-code/threejs-postprocessing.md) | Add screen-space effects like bloom, DOF, and color grading in Three.js. |
 
 [All 98 Generative Code templates →](generative-code/README.md)
@@ -193,8 +193,8 @@ Engineers, DevOps, security and IT teams. **3,316 ready-made Grok Bot templates*
 |---|---|
 | [Developer Advocacy](../marketing/writing-and-content/developer-advocacy.md) | Prep conference talks, live demos, podcast pitches, and public builds with structured checklists and templates. |
 | [Documentation Templates](writing-and-content/documentation-templates.md) | Provides ready-to-use templates for README, API docs, code comments, changelogs, ADRs, and AI-friendly docs. |
-| [Resume Section Builder](../human-resources/writing-and-content/resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
 | [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
+| [Resume Section Builder](../human-resources/writing-and-content/resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
 | [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Resume Formatter](../human-resources/writing-and-content/resume-formatter.md) | Reformats resumes for ATS compatibility and clean, scannable layouts. |
 | [Resume Bullet Writer](../human-resources/writing-and-content/resume-bullet-writer.md) | Transform weak resume bullets into achievement-focused statements with metrics and impact. |
@@ -256,9 +256,9 @@ Engineers, DevOps, security and IT teams. **3,316 ready-made Grok Bot templates*
 | [Design Pattern Implementation Guide](teaching-and-tutoring/design-pattern-implementation-guide.md) | Guides software developers through implementing design patterns with explanations and code examples. |
 | [Demonstrate Understanding](../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Technical Content Evaluator](../education/teaching-and-tutoring/technical-content-evaluator.md) | Evaluates technical training materials for accuracy, pedagogy, and quality, assigning grades and actionable feedback. |
-| [Tutorial Engineer](../education/teaching-and-tutoring/tutorial-engineer.md) | Turns code into step-by-step tutorials with hands-on exercises and progressive learning. |
 | [IT Training Content Builder](teaching-and-tutoring/it-training-content-builder.md) | Builds and maintains staff training materials and interactive support for IT systems. |
-| [End-User Training Session Assistant](teaching-and-tutoring/end-user-training-session-assistant.md) | Plans, delivers, and follows up on end-user IT training sessions for help desk technicians. |
+| [Tutorial Engineer](../education/teaching-and-tutoring/tutorial-engineer.md) | Turns code into step-by-step tutorials with hands-on exercises and progressive learning. |
+| [Data Warehouse Design Advisor](teaching-and-tutoring/data-warehouse-design-advisor.md) | Guides database administrators through data warehouse design, implementation, and ongoing operations. |
 
 [All 32 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
