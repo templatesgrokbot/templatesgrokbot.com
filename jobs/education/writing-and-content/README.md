@@ -1,12 +1,13 @@
 # Writing & Content templates for Education
 
-Plan, write and edit articles, copy and documentation. 30 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 39 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Academic Cv Builder](academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
+| [Accessible Lesson Production](accessible-lesson-production.md) | Keeps captions, transcripts and alt text in sync with the latest approved lesson. |
 | [Classroom Management Planning Assistant](classroom-management-planning-assistant.md) | A headteacher's assistant for classroom management planning and communication. |
 | [Clinical Data Training Developer](../../healthcare/writing-and-content/clinical-data-training-developer.md) | Builds clinical data management training content, from modules to certification prep. |
 | [Cover Letter Generator](../../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
@@ -21,20 +22,28 @@ Plan, write and edit articles, copy and documentation. 30 Grok Bot templates, 12
 | [Microsoft Learn Contributor](microsoft-learn-contributor.md) | Guides contributors through writing and editing Microsoft Learn documentation to meet style and quality standards. |
 | [Parent Communication Assistant](parent-communication-assistant.md) | Drafts and manages parent-teacher communications for primary school teachers. |
 | [Parent Communication Drafter](parent-communication-drafter.md) | Drafts all parent communication for elementary teachers, from welcome letters to end-of-year reflections. |
+| [Parent Progress Update Writer](parent-progress-update-writer.md) | Drafts monthly progress updates for each music student's family, ready for your review and send. |
 | [Principal Parent Liaison](principal-parent-liaison.md) | Handles parent communication for school principals, from announcements to feedback. |
 | [Professional Proofreader](../../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 | [Quality Control Training Developer](../../operations/writing-and-content/quality-control-training-developer.md) | Builds quality control training materials from standards research to interactive modules. |
+| [Reading Text Leveler](reading-text-leveler.md) | Rewrites authentic texts to a target level while keeping the meaning and a glossary for words that must stay. |
+| [Report Card Comment Builder](report-card-comment-builder.md) | Drafts a specific, school-compliant report card comment for every student, ready for your approval. |
+| [Report Card Comment Consistency Checker](report-card-comment-consistency-checker.md) | Checks every report card comment against student data and flags repeats before you submit. |
 | [Research Grants](../../science-and-research/writing-and-content/research-grants.md) | Writes competitive research proposals for NSF, NIH, DOE, and DARPA with agency-specific formatting and review criteria. |
 | [Safety Training Developer](../../healthcare/writing-and-content/safety-training-developer.md) | Develops, updates, and localizes workplace safety training materials and assessments. |
 | [Safety Training Program Developer](../../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
 | [School Policy Advisor](school-policy-advisor.md) | Drafts, reviews, and refines school policies with research and stakeholder input. |
 | [School Policy Development Assistant](school-policy-development-assistant.md) | Develops, reviews, and communicates school policies with research and stakeholder input. |
+| [Speech Referral Evidence Builder](speech-referral-evidence-builder.md) | Collects dated speech observations and drafts a referral summary for teacher and director approval. |
+| [Submission Citation Check](submission-citation-check.md) | Checks every citation and reference in your draft before you submit it. |
 | [Training Content Development Assistant](../../human-resources/writing-and-content/training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
 | [Training Material Creator](../../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 | [Training Material Developer](../../human-resources/writing-and-content/training-material-developer.md) | Develops and maintains training course materials from research to final content. |
 | [Training Module Developer](../../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
+| [Transfer Credit Appeal Assistant](transfer-credit-appeal-assistant.md) | Drafts evidence-based transfer credit appeals for advisors, closing every gap in the file before submission. |
 | [Treatment Plans](../../healthcare/writing-and-content/treatment-plans.md) | Generate concise, evidence-based medical treatment plans in LaTeX/PDF format. |
 | [Venue Templates](venue-templates.md) | Provides LaTeX templates and formatting specs for journals, conferences, posters, and grants. |
+| [Weekly Parent Update Assistant](weekly-parent-update-assistant.md) | Drafts a verified weekly class update for families, ready for the teacher to send. |
 | [Writing Clearly And Concisely](../../writers/writing-and-content/writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |
 
 [← All Education templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/education)

@@ -1,11 +1,12 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 84 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 92 Grok Bot templates, 38 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Affiliate Program Competitor Benchmark](affiliate-program-competitor-benchmark.md) | Compares your affiliate program against competitors each quarter and drafts costed options for closing gaps. |
 | [AI News finding Bot](../../science-and-research/research/ai-news-finding-bot.md) | Finds and summarizes AI news from trusted sources daily. |
 | [Apify Ecommerce](../../it-and-development/research/apify-ecommerce.md) | Extract product data, prices, reviews, and sellers from e-commerce sites via Apify. |
 | [Apify Market Research](apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
@@ -21,8 +22,11 @@ Find sources, compare evidence and summarise what is known. 84 Grok Bot template
 | [Competitive Intelligence Tracker](competitive-intelligence-tracker.md) | Tracks competitors and turns their moves into battlecards, positioning briefs and roadmap inputs. |
 | [Competitive Teardown Analyst](competitive-teardown-analyst.md) | Turns competitor pricing, reviews, job posts and SEO signals into a scored teardown with an action plan. |
 | [Competitor Analysis](competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
+| [Competitor Channel Tracker](competitor-channel-tracker.md) | Tracks competitor partners, resellers and integrations monthly and reports verified changes for your approval. |
 | [Competitor Intelligence Analyst](../../management/research/competitor-intelligence-analyst.md) | Tracks competitors' moves and turns them into brand strategy recommendations. |
 | [Competitor Move Strategist](../../executives-and-strategy/research/competitor-move-strategist.md) | Tracks competitors and turns their moves into strategic recommendations for you. |
+| [Competitor Price Movement Report](competitor-price-movement-report.md) | Collects competitor prices weekly, matches products, and reports changes above your threshold. |
+| [Competitor Pricing Change Monitor](competitor-pricing-change-monitor.md) | Captures competitor pricing weekly, confirms real changes, and drafts alerts for your approval. |
 | [Competitor Profiling](competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Competitor Tracking](competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
 | [Competitor Website Analyst](../../it-and-development/research/competitor-website-analyst.md) | Tracks competitor websites and turns their strategies into actionable web development insights. |
@@ -57,6 +61,7 @@ Find sources, compare evidence and summarise what is known. 84 Grok Bot template
 | [Market Research Synthesizer](market-research-synthesizer.md) | Turns raw market research, interviews, and notes into themes, pain points, triggers, and strategic recommendations. |
 | [Market Researcher](market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
 | [Market Scout](market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
+| [Market Segment Mapper](market-segment-mapper.md) | Identifies 3-5 distinct customer segments with jobs-to-be-done, pain points, and product fit for your product. |
 | [Market Trend Analyst](../../management/research/market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
 | [Multi Source Searcher](../../science-and-research/research/multi-source-searcher.md) | Finds precise information across multiple sources using optimized search strategies and systematic retrieval. |
 | [Niche Intelligence Dossier](../../science-and-research/research/niche-intelligence-dossier.md) | Generates domain intelligence dossiers for specific niches, including regulations, UX, and industry stack. |
@@ -64,6 +69,7 @@ Find sources, compare evidence and summarise what is known. 84 Grok Bot template
 | [People Data](../../sales/research/people-data.md) | Research LinkedIn profiles and public business contacts via MCP. |
 | [Perplexity](../../science-and-research/research/perplexity.md) | Searches the web and answers questions using Perplexity AI. |
 | [Perplexity Search](../../science-and-research/research/perplexity-search.md) | Searches the web for current information and returns grounded answers with source citations. |
+| [Persona Evidence Refresh](persona-evidence-refresh.md) | Tests each persona claim against current CRM, support and survey data, then drafts evidence-backed revisions for your approval. |
 | [Persona Workshop Facilitator](persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Podcast Trend Scout](podcast-trend-scout.md) | Scouts 3-5 emerging tech topics weekly for The Build podcast episodes. |
 | [Product Development Insight Assistant](../../management/research/product-development-insight-assistant.md) | Guides market research managers through AI-powered product development insights. |
@@ -79,10 +85,12 @@ Find sources, compare evidence and summarise what is known. 84 Grok Bot template
 | [Seo Images](seo-images.md) | Audit image SEO, alt text, sizes, formats, and lazy loading for web pages. |
 | [Serply Sourced Search](../../writers/research/serply-sourced-search.md) | Searches Google, Bing, News and Scholar through Serply and answers with cited sources. |
 | [Social Evidence Researcher](social-evidence-researcher.md) | Researches public Instagram, TikTok and LinkedIn posts and returns source-linked evidence reports. |
+| [Social Listening Trend Brief](social-listening-trend-brief.md) | Turns weekly listening mentions into a short, verified trend brief for a research manager to approve. |
 | [Social Media Market Research Analyst](../../sales/research/social-media-market-research-analyst.md) | Turns social media data into market research insights and strategy for sales and marketing teams. |
 | [Startup Business Analyst Market Opportunity](../../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
 | [Stock Photo Finder](../../creatives/research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 | [Survey Design and Analysis Assistant](../../management/research/survey-design-and-analysis-assistant.md) | Designs, distributes, analyzes, and reports surveys for market research managers. |
+| [SWOT Evidence Refresh](swot-evidence-refresh.md) | Refreshes your SWOT each quarter, showing the evidence and status behind every item. |
 | [Tools Page Seo Optimizer](tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |
 | [Trend Analyst](trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Trend Scout for Bloggers](../../writers/research/trend-scout-for-bloggers.md) | Researches and analyzes trends for timely, insightful blog content. |

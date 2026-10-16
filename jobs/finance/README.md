@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **824 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,20 +11,20 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 307 |
-| [Security & Compliance](security-and-compliance/README.md) | 41 |
-| [Productivity](productivity/README.md) | 32 |
-| [Research](research/README.md) | 27 |
-| [Office Tools](office-tools/README.md) | 18 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
+| [Data Analysis](data-analysis/README.md) | 494 |
+| [Productivity](productivity/README.md) | 102 |
+| [Security & Compliance](security-and-compliance/README.md) | 79 |
+| [Research](research/README.md) | 46 |
+| [Office Tools](office-tools/README.md) | 41 |
+| [Writing & Content](writing-and-content/README.md) | 13 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 12 |
 | [Coding](coding/README.md) | 9 |
-| [Writing & Content](writing-and-content/README.md) | 8 |
+| [Knowledge Management](knowledge-management/README.md) | 8 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 8 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 4 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 3 |
 | [Support & Community](support-and-community/README.md) | 3 |
-| [Knowledge Management](knowledge-management/README.md) | 2 |
+| [Prompt Engineering](prompt-engineering/README.md) | 2 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
-| [Prompt Engineering](prompt-engineering/README.md) | 1 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
 | [Social Media](social-media/README.md) | 1 |
 
@@ -41,22 +41,7 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 | [CFO Tax Planning Assistant](data-analysis/cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
 | [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 
-[All 307 Data Analysis templates →](data-analysis/README.md)
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Regulatory Compliance Review Assistant](security-and-compliance/regulatory-compliance-review-assistant.md) | Regulatory compliance review and monitoring for insurance risk analysts. |
-| [Finance Audit Readiness Tracker](../executives-and-strategy/security-and-compliance/finance-audit-readiness-tracker.md) | Prepares your company for audits by organizing documents, analyzing data, and tracking readiness. |
-| [Business Risk Management Assistant](../executives-and-strategy/security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
-| [Audit Support Assistant](security-and-compliance/audit-support-assistant.md) | Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports. |
-| [Regulatory Compliance Analyst](security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
-| [Technology Risk Assessment Assistant](security-and-compliance/technology-risk-assessment-assistant.md) | Assesses technology risks across infrastructure, vendors, data, and emerging tech for insurance risk analysts. |
-| [Compliance Report Generator](security-and-compliance/compliance-report-generator.md) | Automates financial reporting from data extraction to compliance and distribution. |
-| [Accounting Compliance Review Copilot](security-and-compliance/accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: reviews records, audits, reports, and keeps you current on regulations. |
-
-[All 41 Security & Compliance templates →](security-and-compliance/README.md)
+[All 494 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -71,7 +56,22 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 | [Financial Planning Assistant](productivity/financial-planning-assistant.md) | Personal financial planning assistant for tax analysts covering budgets, investments, retirement, taxes, debt, insurance, education, estate, cash… |
 | [Expense Tracking Assistant](productivity/expense-tracking-assistant.md) | Manages expense tracking, reporting, budgets, and compliance for finance managers. |
 
-[All 32 Productivity templates →](productivity/README.md)
+[All 102 Productivity templates →](productivity/README.md)
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Regulatory Compliance Review Assistant](security-and-compliance/regulatory-compliance-review-assistant.md) | Regulatory compliance review and monitoring for insurance risk analysts. |
+| [Finance Audit Readiness Tracker](../executives-and-strategy/security-and-compliance/finance-audit-readiness-tracker.md) | Prepares your company for audits by organizing documents, analyzing data, and tracking readiness. |
+| [Business Risk Management Assistant](../executives-and-strategy/security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
+| [Audit Support Assistant](security-and-compliance/audit-support-assistant.md) | Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports. |
+| [Regulatory Compliance Analyst](security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
+| [Technology Risk Assessment Assistant](security-and-compliance/technology-risk-assessment-assistant.md) | Assesses technology risks across infrastructure, vendors, data, and emerging tech for insurance risk analysts. |
+| [Compliance Report Generator](security-and-compliance/compliance-report-generator.md) | Automates financial reporting from data extraction to compliance and distribution. |
+| [Accounting Compliance Review Copilot](security-and-compliance/accounting-compliance-review-copilot.md) | Compliance monitoring assistant for accountants: reviews records, audits, reports, and keeps you current on regulations. |
+
+[All 79 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Research
 
@@ -86,7 +86,7 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 | [Investment Research Analyst](research/investment-research-analyst.md) | Builds institutional-grade investment research with bull and bear cases, valuation, and exit triggers. |
 | [Smart Money Tracker](research/smart-money-tracker.md) | Tracks what top crypto futures traders hold on Binance, Hyperliquid, Bybit and OKX. |
 
-[All 27 Research templates →](research/README.md)
+[All 46 Research templates →](research/README.md)
 
 ## Office Tools
 
@@ -99,9 +99,24 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 | [Excel Automation](office-tools/excel-automation.md) | Automates live Excel workbooks and reports through xlwings, with every write and export approved first. |
 | [Odoo Accounting Setup](../operations/office-tools/odoo-accounting-setup.md) | Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation. |
 | [Googlesheets Automation](../operations/office-tools/googlesheets-automation.md) | Read, write, format, filter, and manage Google Sheets via Rube MCP. |
-| [Document Preparation and Formatting Assistant](office-tools/document-preparation-and-formatting-assistant.md) | Prepares, formats, and polishes all business documents for administrative assistants. |
+| [LP Quarterly Report Preparer](office-tools/lp-quarterly-report-preparer.md) | Drafts the quarterly LP report and ties every figure to the fund administrator's statements. |
 
-[All 18 Office Tools templates →](office-tools/README.md)
+[All 41 Office Tools templates →](office-tools/README.md)
+
+## Writing & Content
+
+| Template | What it does |
+|---|---|
+| [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
+| [Investment Memo Writer](writing-and-content/investment-memo-writer.md) | Drafts structured investment memorandums from the deal facts and diligence you provide. |
+| [Client Quarterly Review Letter Drafter](writing-and-content/client-quarterly-review-letter-drafter.md) | Drafts compliant quarterly client letters from final statements and house commentary, ready for manager approval. |
+| [Finance ESG Report Builder](writing-and-content/finance-esg-report-builder.md) | Turns sustainability data into reports, insights, and stakeholder-ready narratives. |
+| [Stakeholder Financial Communications Assistant](../executives-and-strategy/writing-and-content/stakeholder-financial-communications-assistant.md) | Drafts and coordinates all stakeholder financial communications for a VP of Finance. |
+| [Doc Chaser Lite](../operations/writing-and-content/doc-chaser-lite.md) | Drafts one friendly document-request email for a tax client from a brief and practice profile. |
+| [Sustainability Reporting Assistant](writing-and-content/sustainability-reporting-assistant.md) | Guides accountants through every stage of sustainability reporting, from data to disclosure. |
+| [Recommendation Documentation Assistant](writing-and-content/recommendation-documentation-assistant.md) | Drafts a complete, compliant record for every client recommendation an advisor makes. |
+
+[All 13 Writing & Content templates →](writing-and-content/README.md)
 
 ## Teaching & Tutoring
 
@@ -116,7 +131,7 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 | [Retirement Tax Planning Assistant](teaching-and-tutoring/retirement-tax-planning-assistant.md) | Retirement tax planning guidance for tax analysts, covering contributions, RMDs, conversions, withdrawals, and more. |
 | [Payroll Software Utilization Assistant](teaching-and-tutoring/payroll-software-utilization-assistant.md) | Guides payroll administrators through software setup, data handling, reporting, and compliance with approval gates. |
 
-[All 11 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+[All 12 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Coding
 
@@ -133,18 +148,31 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 
 [All 9 Coding templates →](coding/README.md)
 
-## Writing & Content
+## Knowledge Management
 
 | Template | What it does |
 |---|---|
-| [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
-| [Investment Memo Writer](writing-and-content/investment-memo-writer.md) | Drafts structured investment memorandums from the deal facts and diligence you provide. |
-| [Finance ESG Report Builder](writing-and-content/finance-esg-report-builder.md) | Turns sustainability data into reports, insights, and stakeholder-ready narratives. |
-| [Stakeholder Financial Communications Assistant](../executives-and-strategy/writing-and-content/stakeholder-financial-communications-assistant.md) | Drafts and coordinates all stakeholder financial communications for a VP of Finance. |
-| [Doc Chaser Lite](../operations/writing-and-content/doc-chaser-lite.md) | Drafts one friendly document-request email for a tax client from a brief and practice profile. |
-| [Sustainability Reporting Assistant](writing-and-content/sustainability-reporting-assistant.md) | Guides accountants through every stage of sustainability reporting, from data to disclosure. |
-| [Stakeholder Communications Architect](writing-and-content/stakeholder-communications-architect.md) | Builds and manages stakeholder communication templates and plans for finance leaders. |
-| [Sustainability Report Builder](../science-and-research/writing-and-content/sustainability-report-builder.md) | Turns ESG data into accurate, compliant sustainability reports for analysts. |
+| [Data Room Builder](knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
+| [Data Room Q&A Tracker](knowledge-management/data-room-q-a-tracker.md) | Logs every diligence question, drafts consistent answers, and escalates before due dates. |
+| [Audit File Preparation Register](knowledge-management/audit-file-preparation-register.md) | Builds and maintains the audit file checklist so every auditor request is tracked, filed and answered. |
+| [Fairness Opinion Binder Tie-Out](knowledge-management/fairness-opinion-binder-tie-out.md) | Assembles and ties out every fairness opinion analysis against the master model and board deck. |
+| [Credit File Preparation Assistant](knowledge-management/credit-file-preparation-assistant.md) | Keeps credit review files current by checking evidence dates and legal entities, then drafting targeted requests. |
+| [Record Keeping and Filing Assistant](knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
+| [Tax Provision Support File Builder](knowledge-management/tax-provision-support-file-builder.md) | Builds a tied-out, indexed support file for every provision item before audit. |
+| [Source Document Filing Register](knowledge-management/source-document-filing-register.md) | Builds and maintains an indexed register of supporting documents linked to the entries they support. |
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [M&A Deal Support Assistant](../executives-and-strategy/sales-and-negotiation/m-a-deal-support-assistant.md) | End-to-end M&A deal support: scouting, due diligence, valuation, negotiation, integration, and exit planning. |
+| [Debt Negotiation Planner](sales-and-negotiation/debt-negotiation-planner.md) | Analyzes debt, builds repayment plans, and guides negotiations for a company's finances. |
+| [Buyer Outreach Tracker](sales-and-negotiation/buyer-outreach-tracker.md) | Keeps the buyer list current and drafts follow-ups for overdue sale-process steps. |
+| [Account Closure Save Assistant](sales-and-negotiation/account-closure-save-assistant.md) | Flags at-risk account closures, drafts call plans, and tracks whether saved accounts stay open. |
+| [Deal Desk](sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
+| [Portfolio Introduction Matcher](sales-and-negotiation/portfolio-introduction-matcher.md) | Turns a founder's introduction request into a short, conflict-checked list for your approval. |
+| [Term Sheet Comparison Assistant](sales-and-negotiation/term-sheet-comparison-assistant.md) | Compares each new term sheet draft with your standard terms and the last version, showing what changed and what it costs. |
+| [Lender Bid Comparison Tracker](sales-and-negotiation/lender-bid-comparison-tracker.md) | Tracks every lender's term sheet into one ranked comparison table and drafts chasers for silent lenders. |
 
 ## Cloud & DevOps
 
@@ -155,14 +183,6 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 | [Odoo L10n Compliance](../operations/cloud-and-devops/odoo-l10n-compliance.md) | Configure Odoo localization and e-invoicing for country-specific tax compliance. |
 | [Square Automation](../it-and-development/cloud-and-devops/square-automation.md) | Automate Square payments, orders, invoices, and locations via Rube MCP. |
 
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [M&A Deal Support Assistant](../executives-and-strategy/sales-and-negotiation/m-a-deal-support-assistant.md) | End-to-end M&A deal support: scouting, due diligence, valuation, negotiation, integration, and exit planning. |
-| [Debt Negotiation Planner](sales-and-negotiation/debt-negotiation-planner.md) | Analyzes debt, builds repayment plans, and guides negotiations for a company's finances. |
-| [Deal Desk](sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
-
 ## Support & Community
 
 | Template | What it does |
@@ -171,24 +191,18 @@ Accounting, budgeting, analysis and risk. **469 ready-made Grok Bot templates** 
 | [Customer Service Support Assistant](support-and-community/customer-service-support-assistant.md) | Handles customer service tasks from inquiry to analysis for an administrative assistant. |
 | [Employee Benefits Administrator](support-and-community/employee-benefits-administrator.md) | Manages employee benefits enrollment, communication, compliance, and reporting for payroll administrators. |
 
-## Knowledge Management
+## Prompt Engineering
 
 | Template | What it does |
 |---|---|
-| [Data Room Builder](knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
-| [Record Keeping and Filing Assistant](knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
+| [Copyright Prompt Architect](prompt-engineering/copyright-prompt-architect.md) | Drafts precise AI prompts for copyright research, drafting, and protection workflows. |
+| [Prior-Year Carryover Check](prompt-engineering/prior-year-carryover-check.md) | Verifies every prior-year carryover rolls into the current return or has a written reason it did not. |
 
 ## Marketing & Growth
 
 | Template | What it does |
 |---|---|
 | [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
-
-## Prompt Engineering
-
-| Template | What it does |
-|---|---|
-| [Copyright Prompt Architect](prompt-engineering/copyright-prompt-architect.md) | Drafts precise AI prompts for copyright research, drafting, and protection workflows. |
 
 ## Self-Improvement
 

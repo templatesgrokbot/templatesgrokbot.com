@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Hospitality and Events
 
-Campaigns, ads, conversion and launch plans. 35 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 42 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,8 +19,10 @@ Campaigns, ads, conversion and launch plans. 35 Grok Bot templates, 2 of them fi
 | [Digital Marketing Strategy Builder](../../sales/marketing-and-growth/digital-marketing-strategy-builder.md) | Builds and refines your digital marketing strategy from research to reporting. |
 | [Email Marketing Campaign Assistant](../../pr-and-communications/marketing-and-growth/email-marketing-campaign-assistant.md) | Plans, writes, and analyzes email campaigns to lift engagement and ROI. |
 | [Email Sequence](../../marketing/marketing-and-growth/email-sequence.md) | Designs and optimizes email sequences that nurture leads and drive conversions. |
+| [Event Landing Page Pre-Launch Check](../../marketing/marketing-and-growth/event-landing-page-pre-launch-check.md) | Checks your event landing page and registration flow against the brief before you promote it. |
 | [Event Lifecycle Orchestrator](../../pr-and-communications/marketing-and-growth/event-lifecycle-orchestrator.md) | Plans, promotes, and evaluates your events from invitations to post-event analysis. |
 | [Event Promotion Planner](../../management/marketing-and-growth/event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
+| [Event Registration Pacing Tracker](../../marketing/marketing-and-growth/event-registration-pacing-tracker.md) | Monitors event registrations against a pacing curve and proposes approved actions to reach the goal. |
 | [Executing Marketing Campaigns](../../marketing/marketing-and-growth/executing-marketing-campaigns.md) | Plans, creates, and optimizes marketing campaigns across channels with measurable results. |
 | [Hotel Marketing Strategist](hotel-marketing-strategist.md) | Marketing strategy assistant for hotel managers, from research to campaign optimization. |
 | [Hotel Reputation Manager](hotel-reputation-manager.md) | Manages hotel online reputation from review monitoring to crisis response. |
@@ -30,16 +32,21 @@ Campaigns, ads, conversion and launch plans. 35 Grok Bot templates, 2 of them fi
 | [Marketing Content Ideation Assistant](../../executives-and-strategy/marketing-and-growth/marketing-content-ideation-assistant.md) | Generates and refines content ideas, outlines, and scripts for marketing campaigns. |
 | [Marketing Funnel Mapper](../../marketing/marketing-and-growth/marketing-funnel-mapper.md) | Maps your marketing funnel stage by stage, with the assets, KPIs and gaps for each. |
 | [Performance Email Campaign Builder](../../sales/marketing-and-growth/performance-email-campaign-builder.md) | Plans, writes, and refines email campaigns from segmentation to performance analysis. |
+| [Post-Event Lead Reconciliation](../../marketing/marketing-and-growth/post-event-lead-reconciliation.md) | Merges event lead sources into the CRM, routes hot leads, and reports results. |
 | [Pricing Strategy Developer](../../sales/marketing-and-growth/pricing-strategy-developer.md) | Develops and optimizes pricing strategies from market analysis to implementation and performance tracking. |
 | [Pricing Strategy Development Assistant](../../it-and-development/marketing-and-growth/pricing-strategy-development-assistant.md) | Develops and refines pricing strategies from market analysis to implementation for business analysts. |
 | [Pricing Strategy Formulation Assistant](../../management/marketing-and-growth/pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
+| [Registrant Communication Flow](../../marketing/marketing-and-growth/registrant-communication-flow.md) | Builds and sends approved registrant emails with correct times, links and venue details. |
 | [Reputation Management Monitor](../../pr-and-communications/marketing-and-growth/reputation-management-monitor.md) | Monitors brand sentiment, manages crises, and builds reputation strategies from social and review data. |
 | [Review Acquisition Planner](../../marketing/marketing-and-growth/review-acquisition-planner.md) | Plans when and how to ask customers for reviews, and how to respond to them. |
+| [Seasonal Listing Refresh](seasonal-listing-refresh.md) | Keeps vacation rental listings fresh and measures whether the changes help. |
 | [Segment Persona Campaign Builder](../../executives-and-strategy/marketing-and-growth/segment-persona-campaign-builder.md) | Turns customer data into segments, personas, and targeted marketing plans. |
 | [SEO Visibility Planner](../../executives-and-strategy/marketing-and-growth/seo-visibility-planner.md) | Turns your SEO goals into keyword lists, audits, and tracking plans for the marketing team. |
 | [Social Media Strategy Planner](../../management/marketing-and-growth/social-media-strategy-planner.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
+| [Speaker Content Collection](speaker-content-collection.md) | Collects speaker bios, photos and slides on time and in the right format. |
 | [Stakeholder Communication Strategist](../../pr-and-communications/marketing-and-growth/stakeholder-communication-strategist.md) | Builds and runs your stakeholder communication strategy from analysis to evaluation. |
 | [Strategy Lifecycle Content Copilot](../../sales/marketing-and-growth/strategy-lifecycle-content-copilot.md) | Builds and refines your content strategy from research to performance analysis. |
 | [Subscriber Email Growth Planner](../../sales/marketing-and-growth/subscriber-email-growth-planner.md) | Plan, write, and optimize email campaigns that engage subscribers and drive conversions. |
+| [Waitlist Capacity Release Assistant](waitlist-capacity-release-assistant.md) | Fills every event seat from the waitlist without exceeding venue capacity. |
 
 [← All Hospitality and Events templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/hospitality-and-events)

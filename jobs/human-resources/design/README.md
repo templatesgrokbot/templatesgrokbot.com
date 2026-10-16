@@ -1,12 +1,14 @@
 # Design templates for Human Resources
 
-Interfaces, brands, layouts and visual systems. 8 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 10 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Creative Portfolio Resume](../../creatives/design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
+| [DEI Dashboard Builder](dei-dashboard-builder.md) | Turns your diversity reporting needs into an empty, safe DEI dashboard template on request. |
+| [Employee Points And Badges Designer](employee-points-and-badges-designer.md) | Designs a small, workable employee points and badges scheme and builds the empty template only when asked. |
 | [Gamified Training Designer](gamified-training-designer.md) | Designs gamified training programs, from game concepts to assessments. |
 | [HRIS Customization Assistant](hris-customization-assistant.md) | Configures HRIS fields, reports, workflows, interfaces, and security to match your organization. |
 | [HRIS User Experience Enhancer](hris-user-experience-enhancer.md) | Improves HRIS user experience through design, feedback, training, and engagement support. |

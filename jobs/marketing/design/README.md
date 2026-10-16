@@ -1,6 +1,6 @@
 # Design templates for Marketing
 
-Interfaces, brands, layouts and visual systems. 32 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 33 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Interfaces, brands, layouts and visual systems. 32 Grok Bot templates, 4 of them
 | [Anthropic Brand Application](../../creatives/design/anthropic-brand-guidelines.md) | Applies Anthropic brand standards to artifacts: colors, typography, visual language. |
 | [Banner Design](banner-design.md) | Design banners for social media, ads, website heroes, creative assets, and print. |
 | [Brand](brand.md) | Keeps brand voice, visuals, and assets consistent across all your content. |
+| [Brand Asset Library Cleanup](brand-asset-library-cleanup.md) | Finds old, expired and off-brand assets in your library and public pages, then proposes replacements for your approval. |
 | [Brand Guidelines](brand-guidelines.md) | Apply brand colors, typography, and tone to user-facing content and artifacts. |
 | [Brand Guidelines Anthropic](../../creatives/design/brand-guidelines-anthropic.md) | Applies Anthropic brand colors and typography to existing artifacts. |
 | [Brand Guidelines Architect](../../executives-and-strategy/design/brand-guidelines-architect.md) | Builds and maintains your brand guidelines across all marketing materials and channels. |

@@ -1,11 +1,12 @@
 # Social Media templates for PR and Communications
 
-Plan, write and measure posts across networks. 35 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 40 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Brand Crisis Signal Monitor](brand-crisis-signal-monitor.md) | Watches social, review and news mentions hourly and alerts you to possible brand crises with a draft holding statement. |
 | [Brand Reputation Monitor](../../marketing/social-media/brand-reputation-monitor.md) | Monitors brand sentiment, trends, competitors, and crises on social media, delivering reports and alerts. |
 | [Brand Reputation Sentinel](../../sales/social-media/brand-reputation-sentinel.md) | Monitors and manages your brand's online reputation across platforms. |
 | [Content Calendar Organizer](../../marketing/social-media/content-calendar-organizer.md) | Plans and organizes your social media content calendar with research, creation, and scheduling support. |
@@ -14,15 +15,18 @@ Plan, write and measure posts across networks. 35 Grok Bot templates, 6 of them 
 | [Crisis Management Guide](../../marketing/social-media/crisis-management-guide.md) | Guides social media managers through every phase of a crisis, from monitoring to recovery. |
 | [Digital Crisis Management Assistant](../../sales/social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
 | [Executive Personal Brand Manager](../../executives-and-strategy/social-media/executive-personal-brand-manager.md) | Builds and protects your executive personal brand across all channels. |
+| [Impersonation Takedown Tracker](impersonation-takedown-tracker.md) | Finds fake brand accounts, files platform reports after your approval, and tracks each case to removal. |
 | [Instagram Automation](../../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [Instagram Manager](../../marketing/social-media/instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
 | [Linkedin Automation](../../marketing/social-media/linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
 | [Linkedin Content Generator](../../marketing/social-media/linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
 | [LinkedIn Content Manager](../../marketing/social-media/linkedin-content-manager.md) | Plan, draft, audit, and publish LinkedIn posts and comments with approval. |
 | [LinkedIn Reply Drafter](../../marketing/social-media/linkedin-reply-drafter.md) | Drafts replies to LinkedIn comments or sweeps an entire thread for batch replies. |
+| [Live Event Social Coverage](../../marketing/social-media/live-event-social-coverage.md) | Plans, tracks and drafts approved social posts for live event moments as the schedule shifts. |
 | [PR Social Media Cycle Partner](pr-social-media-cycle-partner.md) | Social media strategy partner for PR specialists—research, plan, create, track, and optimize content. |
 | [Presence Audit Optimizer](presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |
 | [Reputation Monitoring Assistant](reputation-monitoring-assistant.md) | Monitors and analyzes online reputation across platforms for PR specialists. |
+| [Scheduled Content Pause](scheduled-content-pause.md) | Pauses scheduled content during a crisis and restarts it only when approved. |
 | [Social Content](../../marketing/social-media/social-content.md) | Creates, schedules, and optimizes content across LinkedIn, Twitter/X, Instagram, TikTok, and Facebook. |
 | [Social Content Scheduling Planner](../../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
 | [Social Listening and Sentiment Analyst](../../marketing/social-media/social-listening-and-sentiment-analyst.md) | Turns social media chatter into actionable insights for your brand. |
@@ -33,6 +37,7 @@ Plan, write and measure posts across networks. 35 Grok Bot templates, 6 of them 
 | [Social Media Press Relations Assistant](social-media-press-relations-assistant.md) | Manages social media press relations: monitoring, outreach, content, and crisis response. |
 | [Social Media Trend Analyst](../../marketing/social-media/social-media-trend-analyst.md) | Tracks social media trends and turns them into reports, content, and campaign plans. |
 | [Social Orchestrator](../../marketing/social-media/social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |
+| [Trend Participation Vetter](../../marketing/social-media/trend-participation-vetter.md) | Vets a hashtag or trend's origin, meaning and risks before the brand joins it. |
 | [Twitter Ai Influencer Manager](../../marketing/social-media/twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
 | [Twitter Automation](../../marketing/social-media/twitter-automation.md) | Automate Twitter/X posts, search, users, bookmarks, lists, and media via Rube MCP. |
 | [Twitter Share Card Maker](../../marketing/social-media/twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |

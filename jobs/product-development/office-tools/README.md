@@ -1,11 +1,12 @@
 # Office Tools templates for Product Development
 
-Spreadsheets, documents, slides, email and calendars. 1 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Spreadsheets, documents, slides, email and calendars. 2 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Garment Costing Assistant](garment-costing-assistant.md) | Builds and checks style cost sheets so landed cost meets your target before production. |
 | [Notion Ops Connector](../../operations/office-tools/notion-ops-connector.md) | Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl. |
 
 [← All Product Development templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/product-development)

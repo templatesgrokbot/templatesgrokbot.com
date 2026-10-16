@@ -1,6 +1,6 @@
 # Research templates for Product Development
 
-Find sources, compare evidence and summarise what is known. 71 Grok Bot templates, 27 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 83 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,18 +10,26 @@ Find sources, compare evidence and summarise what is known. 71 Grok Bot template
 | [Agents Llamaindex](../../science-and-research/research/agents-llamaindex.md) | Ingests documents from 300+ sources and answers questions about them using RAG. |
 | [Apify Ecommerce](../../it-and-development/research/apify-ecommerce.md) | Extract product data, prices, reviews, and sellers from e-commerce sites via Apify. |
 | [Auto Research](../../science-and-research/research/auto-research.md) | Research uncertain questions via web or ChatGPT with user approval before implementation. |
+| [Chip Errata Impact Review](chip-errata-impact-review.md) | Reads new chip errata against your design and returns a checked workaround for each serious item. |
 | [Clarvia Aeo Check](../../it-and-development/research/clarvia-aeo-check.md) | Score any MCP server, API, or CLI for agent-readiness using Clarvia AEO. |
 | [Competitive Analyst](../../marketing/research/competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
 | [Competitor Analysis](../../marketing/research/competitor-analysis.md) | Research competitors with Browserbase discovery, enrichment, screenshots, matrices, and HTML reports. |
+| [Competitor Experience Benchmark](competitor-experience-benchmark.md) | Walks competitor task flows each quarter and reports what changed since the last benchmark. |
+| [Competitor Release Notes Teardown](competitor-release-notes-teardown.md) | Turns competitor release notes into verified feature matrix changes with evidence for each one. |
 | [Competitor Tracking](../../marketing/research/competitor-tracking.md) | Systematic competitor analysis for developer tools — track features, pricing, sentiment, and battlecards. No market entry strategy or product roadmap. |
 | [Competitor UX Analyst](competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
+| [Component Selection and BOM Assistant](component-selection-and-bom-assistant.md) | Turns your component requirements into a checked bill of materials with supply risks flagged. |
 | [Context7](../../it-and-development/research/context7.md) | Answers library and framework questions using only current official documentation. |
+| [Customer Discovery Interview Synthesizer](customer-discovery-interview-synthesizer.md) | Tracks customer interview evidence for or against each business hypothesis and drafts the next invitations. |
 | [Customer Interview Summarizer](customer-interview-summarizer.md) | Turns a customer interview transcript into a structured summary with jobs, satisfaction signals and action items. |
 | [Customer Psychographic Profiler](../../marketing/research/customer-psychographic-profiler.md) | Build deep psychographic profiles of target customers based on identity, needs, and fears. |
 | [Customer Research](../../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Deep Research Notebooklm](../../science-and-research/research/deep-research-notebooklm.md) | Runs structured multi-source research via NotebookLM and delivers formatted briefs with optional studio artifacts. |
+| [Design Research Participant Pool](design-research-participant-pool.md) | Books qualified, consenting participants from your existing pool before you recruit externally. |
 | [Entropy Box](../../it-and-development/research/entropy-box.md) | Compiles embodied-AI knowledge into grounded, source-linked implementation paths. |
 | [Equipment Selection Guide](equipment-selection-guide.md) | Guides process engineers through equipment selection with research, analysis, and compliance checks. |
+| [Feature Assumption Stress-Tester](feature-assumption-stress-tester.md) | Surfaces and ranks the risky assumptions behind a feature idea in an existing product. |
+| [Feedback Channel Mining Assistant](feedback-channel-mining-assistant.md) | Weekly usability themes from support tickets and reviews, with evidence and your approval. |
 | [Gepetto](gepetto.md) | Creates detailed, sectionized implementation plans through research, stakeholder interviews, and multi-LLM review. |
 | [Innovation Scouting Assistant](innovation-scouting-assistant.md) | Scouts technologies, trends, and partners to fuel your R&D innovation pipeline. |
 | [IP Management Assistant](../../legal/research/ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
@@ -53,11 +61,15 @@ Find sources, compare evidence and summarise what is known. 71 Grok Bot template
 | [Product Discovery Facilitator](product-discovery-facilitator.md) | Runs structured product discovery to validate opportunities and de-risk bets before you build. |
 | [Product Experiment Designer](product-experiment-designer.md) | Designs low-effort experiments to validate product assumptions before you build. |
 | [Product Feasibility Analyst](../../executives-and-strategy/research/product-feasibility-analyst.md) | Guides product feasibility analysis from market research to final report. |
+| [Product Research Method Planner](product-research-method-planner.md) | Plans product research with the right method, honest sample size, and evidence-backed insights. |
 | [Product Strategist](product-strategist.md) | Helps a Head of Product set strategy, align OKRs, and analyze markets. |
 | [Product Trend Brief Builder](product-trend-brief-builder.md) | Market trend analysis and reporting for product managers, from data collection to stakeholder-ready summaries. |
+| [Product Trend Researcher](product-trend-researcher.md) | Tracks emerging market trends and delivers sourced intelligence briefs for product strategy. |
 | [Research Brief Generator](../../science-and-research/research/research-brief-generator.md) | Transforms a research query into a structured brief with questions, keywords, and source preferences. |
+| [Research Request Backlog Triage](research-request-backlog-triage.md) | Turns a noisy research request queue into a prioritized plan with reuse, merges and reasons. |
 | [Rex](rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [Startup Business Analyst Market Opportunity](../../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Study Plan Feasibility Checker](study-plan-feasibility-checker.md) | Turns research questions into a study plan that fits the real deadline and budget. |
 | [Supplier Innovation Program Assistant](../../management/research/supplier-innovation-program-assistant.md) | Finds, evaluates, and nurtures supplier innovation with structured programs and tracking. |
 | [Survey Design and Analysis Assistant](../../management/research/survey-design-and-analysis-assistant.md) | Designs, distributes, analyzes, and reports surveys for market research managers. |
 | [Task Researcher](../../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |

@@ -1,6 +1,6 @@
 # Marketing & Growth templates for PR and Communications
 
-Campaigns, ads, conversion and launch plans. 63 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 68 Grok Bot templates, 27 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -33,6 +33,7 @@ Campaigns, ads, conversion and launch plans. 63 Grok Bot templates, 23 of them f
 | [Developer Listening](../../marketing/marketing-and-growth/developer-listening.md) | Monitor developer conversations across GitHub, Hacker News, Reddit, and more. |
 | [Digital Communication Trends Assistant](digital-communication-trends-assistant.md) | Tracks digital communication trends and builds audience engagement campaigns for communication managers. |
 | [Email Marketing Campaign Assistant](email-marketing-campaign-assistant.md) | Plans, writes, and analyzes email campaigns to lift engagement and ROI. |
+| [Embargo Management Tracker](embargo-management-tracker.md) | Tracks embargoed press releases, monitors for early coverage, and drafts outlet notes for your approval. |
 | [Employee Engagement Campaign Coordinator](employee-engagement-campaign-coordinator.md) | Plans and runs employee engagement campaigns, from surveys to events, with data-backed insights. |
 | [Event Lifecycle Orchestrator](event-lifecycle-orchestrator.md) | Plans, promotes, and evaluates your events from invitations to post-event analysis. |
 | [Event Promotion Planner](../../management/marketing-and-growth/event-promotion-planner.md) | Plans and creates event promotions across social, email, content, ads, and partnerships. |
@@ -51,10 +52,13 @@ Campaigns, ads, conversion and launch plans. 63 Grok Bot templates, 23 of them f
 | [Marketing Crisis Strategist](../../executives-and-strategy/marketing-and-growth/marketing-crisis-strategist.md) | Plans and prepares crisis management strategies, communications, and training for marketing leadership. |
 | [Marketing VP Crisis Response](../../executives-and-strategy/marketing-and-growth/marketing-vp-crisis-response.md) | Plans and executes crisis communication for marketing VPs, from scenario prep to live response support. |
 | [Media Relations Assistant](media-relations-assistant.md) | Builds media lists, drafts press materials, and tracks coverage for PR specialists. |
+| [Newsjacking Opportunity Screener](newsjacking-opportunity-screener.md) | Screens breaking news for brand relevance and risk, then drafts angles for your approval. |
 | [Open Source Marketing](../../marketing/marketing-and-growth/open-source-marketing.md) | Market open source projects authentically with GitHub optimization and community building. |
 | [Optimize Your Brand SERP](../../marketing/marketing-and-growth/brand-serp-optimierung.md) | Audits your brand's Google SERP and prescribes the five highest-impact fixes to improve it. |
 | [Perception Insight Strategist](../../executives-and-strategy/marketing-and-growth/perception-insight-strategist.md) | Analyzes brand perception from social, reviews, surveys, and media to guide strategy. |
+| [PR Embargo Package Checker](pr-embargo-package-checker.md) | Checks every embargoed asset against the approved schedule and blocks anything with an unclear release time. |
 | [Press Event Coordination Assistant](press-event-coordination-assistant.md) | Coordinates press event logistics, media outreach, and coverage from research to follow-up. |
+| [Product Launch Campaign Planner](../../marketing/marketing-and-growth/product-launch-campaign-planner.md) | Plans your product launch messaging, channel rollout, assets and post-launch follow-up. |
 | [Public Relations](public-relations.md) | Help you earn press coverage through journalist pitching and media strategy. |
 | [Reputation Management Monitor](reputation-management-monitor.md) | Monitors brand sentiment, manages crises, and builds reputation strategies from social and review data. |
 | [Seo](../../marketing/marketing-and-growth/seo.md) | Optimize content for AI search citations across ChatGPT, Perplexity, Gemini, and Google AI Overviews. |
@@ -65,6 +69,7 @@ Campaigns, ads, conversion and launch plans. 63 Grok Bot templates, 23 of them f
 | [Seo Podcast Optimizer](../../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
 | [Set Up a Backlink Campaign](../../marketing/marketing-and-growth/backlink-kampagne.md) | Plans a clean link campaign across five prospect categories and ships outreach mails with it. |
 | [Stakeholder Communication Strategist](stakeholder-communication-strategist.md) | Builds and runs your stakeholder communication strategy from analysis to evaluation. |
+| [Story Pitch Follow-Up Tracker](story-pitch-follow-up-tracker.md) | Tracks every pitch in a campaign and drafts one timely, new-angle follow-up for reporters who haven't replied. |
 | [Subject Line Psychologist](../../marketing/marketing-and-growth/subject-line-psychologist.md) | Craft email subject lines that earn opens through honest psychological triggers. |
 | [Trust Calibrator](../../marketing/marketing-and-growth/trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
 | [UTM Link Generator](../../marketing/marketing-and-growth/utm-link-generator.md) | Generates consistent UTM-tagged links and maintains a registry to prevent duplicates. |

@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Product Development
 
-Campaigns, ads, conversion and launch plans. 43 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 45 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Campaigns, ads, conversion and launch plans. 43 Grok Bot templates, 8 of them fi
 | [Free Tool Strategy](../../marketing/marketing-and-growth/free-tool-strategy.md) | Plan and evaluate free tools for lead gen, SEO, and brand awareness. |
 | [Growth Analytics Optimizer](../../marketing/marketing-and-growth/growth-analytics-optimizer.md) | Track, analyze, and optimize your projects' growth with AI-driven analytics. |
 | [Growth Engine](../../marketing/marketing-and-growth/growth-engine.md) | Growth engine for digital products with growth hacking, SEO, and viral loops. |
+| [JTBD Value Proposition Builder](jtbd-value-proposition-builder.md) | Turns your product and customer facts into a six-part value proposition and positioning statement. |
 | [Launch Plan Orchestrator](../../executives-and-strategy/marketing-and-growth/launch-plan-orchestrator.md) | Plans and executes product launches from market research to performance tracking. |
 | [Launch Pre-Mortem](launch-pre-mortem.md) | Runs a pre-mortem on your launch plan and sorts real risks from noise. |
 | [Launch Strategy](../../marketing/marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
@@ -34,6 +35,7 @@ Campaigns, ads, conversion and launch plans. 43 Grok Bot templates, 8 of them fi
 | [Lean Experiment Designer](lean-experiment-designer.md) | Turns a new product idea into XYZ hypotheses and low-effort pretotype experiments with clear success thresholds. |
 | [Marketing Ideas](../../marketing/marketing-and-growth/marketing-ideas.md) | Scores and prioritizes 140 marketing ideas for SaaS products by feasibility. |
 | [Marketing Strategy Pmm](../../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
+| [Onboarding Activation Optimizer](onboarding-activation-optimizer.md) | Finds your product's aha moment and designs the fastest path to it after signup. |
 | [Paywall Upgrade Cro](../../marketing/marketing-and-growth/paywall-upgrade-cro.md) | Audit in-app paywalls and upgrade screens to convert free users to paid subscribers. |
 | [Personalized Marketing Strategist](../../management/marketing-and-growth/personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
 | [Pricing](../../marketing/marketing-and-growth/pricing.md) | Design SaaS pricing tiers, value metrics, and monetization strategy based on customer willingness to pay. |

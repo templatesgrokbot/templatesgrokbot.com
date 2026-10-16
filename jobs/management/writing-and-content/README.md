@@ -1,6 +1,6 @@
 # Writing & Content templates for Management
 
-Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 29 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,10 +11,14 @@ Plan, write and edit articles, copy and documentation. 25 Grok Bot templates, 4 
 | [Call Script Optimization Assistant](../../customer-support/writing-and-content/call-script-optimization-assistant.md) | Optimizes call center scripts for clarity, empathy, compliance, and sales effectiveness. |
 | [Claims Dispute Evidence Kit](claims-dispute-evidence-kit.md) | Prepares evidence, drafts correspondence, and guides dispute resolution for insurance claims managers. |
 | [Communication Excellence Coach](../../marketing/writing-and-content/communication-excellence-coach.md) | Review drafts, calibrate tone, roleplay conversations, and improve presentations using proven frameworks. |
+| [Content Brief Assignment Assistant](../../marketing/writing-and-content/content-brief-assignment-assistant.md) | Turns an approved topic into a complete brief and a draft that fits it. |
+| [Creator Contract Terms Drafter](../../marketing/writing-and-content/creator-contract-terms-drafter.md) | Turns agreed creator deal terms into a complete, standard contract for manager and legal approval. |
 | [Cv Generator](../../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [Editorial Calendar Planner](../../marketing/writing-and-content/editorial-calendar-planner.md) | Plans your editorial calendar from topic research to performance tracking. |
 | [Executive Resume Writer](../../human-resources/writing-and-content/executive-resume-writer.md) | Write C-suite and VP-level resumes emphasizing strategic leadership and P&L impact. |
 | [Fleet Accident Response Planner](../../operations/writing-and-content/fleet-accident-response-planner.md) | Builds and maintains your fleet's accident response plans, templates, and procedures. |
+| [Funder Report Drafter](funder-report-drafter.md) | Drafts funder reports from approved material, checks format and definitions, and tracks due dates. |
+| [Grant Deliverable Evidence Reporter](../../science-and-research/writing-and-content/grant-deliverable-evidence-reporter.md) | Drafts grant milestone reports that state progress exactly as the evidence shows. |
 | [Guest Experience Enhancer](../../hospitality-and-events/writing-and-content/guest-experience-enhancer.md) | Enhances hotel guest experiences with personalized, real-time support and insights. |
 | [Internal Comms Anthropic](../../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Internal Comms Community](../../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |

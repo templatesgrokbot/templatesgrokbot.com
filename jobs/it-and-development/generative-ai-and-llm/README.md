@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 253 Grok Bot templates, 233 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 254 Grok Bot templates, 234 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -222,6 +222,7 @@ Work with language models, agents and their plumbing. 253 Grok Bot templates, 23
 | [RAG Infrastructure Builder](rag-infrastructure-builder.md) | Builds and runs a retrieval-augmented generation stack over your documents, from ingestion to grounded answers. |
 | [RAG Quality Evaluator](rag-quality-evaluator.md) | Measures retrieval and answer quality for a RAG system and reports regressions with sources. |
 | [Recallmax](recallmax.md) | Injects 500K-1M clean tokens and compresses 14-turn history into 800 tokens. |
+| [Retrieval Grounding Check](retrieval-grounding-check.md) | Tests a retrieval pipeline's answers, flags unsupported claims, and tunes settings until grounding holds. |
 | [SaaS Replacement Planner](saas-replacement-planner.md) | Analyzes your SaaS stack and builds a cost-saving replacement plan with AI agents. |
 | [Safety Alignment Constitutional Ai](../../science-and-research/generative-ai-and-llm/safety-alignment-constitutional-ai.md) | Trains language models to be harmless via self-critique and AI feedback, without human labels. |
 | [Safety Alignment Llamaguard](safety-alignment-llamaguard.md) | Moderate LLM inputs and outputs against 6 safety categories with 94-95% accuracy. |

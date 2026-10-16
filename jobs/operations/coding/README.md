@@ -1,6 +1,6 @@
 # Coding templates for Operations
 
-Write, review, test and debug software. 63 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 64 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -52,6 +52,7 @@ Write, review, test and debug software. 63 Grok Bot templates, 2 of them filed i
 | [Optim Agent](../../it-and-development/coding/optim-agent.md) | Guide agent-driven parameter optimization for configurable systems with measurable objectives. |
 | [Pakistan Payments Stack](../../it-and-development/coding/pakistan-payments-stack.md) | Design and implement PKR payment integrations for SaaS with JazzCash, Easypaisa, and bank rails. |
 | [Playwright](../../it-and-development/coding/playwright.md) | Drives a real browser from the terminal for navigation, form filling, screenshots, and data extraction. |
+| [PLC Logic Draft And Review](plc-logic-draft-and-review.md) | Drafts and reviews PLC logic against the operation sequence and safety interlocks. |
 | [Poka Yoke](../../it-and-development/coding/poka-yoke.md) | Redesign work so mistakes cannot become defects, without relying on human memory. |
 | [Posix Shell Pro](../../it-and-development/coding/posix-shell-pro.md) | Strict POSIX sh scripts that run on any Unix-like system without bash-isms. |
 | [Postman Newman Automation](../../it-and-development/coding/postman-newman-automation.md) | Generate Newman CLI commands, shell scripts, and Jenkins pipelines for Postman collections. |

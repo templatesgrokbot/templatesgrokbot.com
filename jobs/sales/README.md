@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,23 +11,24 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 
 | Kind of work | Templates |
 |---|---:|
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 118 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 107 |
-| [Data Analysis](data-analysis/README.md) | 97 |
-| [Research](research/README.md) | 34 |
-| [Writing & Content](writing-and-content/README.md) | 18 |
-| [Security & Compliance](security-and-compliance/README.md) | 10 |
-| [Productivity](productivity/README.md) | 9 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 209 |
+| [Data Analysis](data-analysis/README.md) | 115 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 108 |
+| [Research](research/README.md) | 39 |
+| [Productivity](productivity/README.md) | 26 |
+| [Writing & Content](writing-and-content/README.md) | 19 |
+| [Security & Compliance](security-and-compliance/README.md) | 13 |
 | [Social Media](social-media/README.md) | 9 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
+| [Support & Community](support-and-community/README.md) | 7 |
 | [Office Tools](office-tools/README.md) | 6 |
-| [Support & Community](support-and-community/README.md) | 6 |
+| [Knowledge Management](knowledge-management/README.md) | 5 |
 | [Design](design/README.md) | 4 |
-| [Knowledge Management](knowledge-management/README.md) | 4 |
 | [Coding](coding/README.md) | 3 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 2 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Video](generative-video/README.md) | 1 |
+| [Self-Improvement](self-improvement/README.md) | 1 |
 
 ## Sales & Negotiation
 
@@ -42,22 +43,7 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 | [Client Communication Assistant](../real-estate-and-construction/sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
 | [Sales Incentive Plan Designer](sales-and-negotiation/sales-incentive-plan-designer.md) | Designs and manages sales incentive plans from data analysis to rollout. |
 
-[All 118 Sales & Negotiation templates →](sales-and-negotiation/README.md)
-
-## Marketing & Growth
-
-| Template | What it does |
-|---|---|
-| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
-| [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
-| [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
-| [Page Cro](../marketing/marketing-and-growth/page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
-| [Cro](../marketing/marketing-and-growth/cro.md) | Analyze marketing pages and forms to improve conversion rates with actionable recommendations. |
-| [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
-| [Pitch Psychologist](../marketing/marketing-and-growth/pitch-psychologist.md) | Structure sales pitches using psychological sequencing to build desire before solution. |
-| [Email Campaign Developer](marketing-and-growth/email-campaign-developer.md) | Plan, create, and optimize email campaigns from segmentation to compliance. |
-
-[All 107 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 209 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Data Analysis
 
@@ -72,7 +58,22 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 | [E-commerce Pricing Optimizer](../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [Product Performance Review Assistant](data-analysis/product-performance-review-assistant.md) | Analyzes product performance data and delivers actionable insights for CSOs. |
 
-[All 97 Data Analysis templates →](data-analysis/README.md)
+[All 115 Data Analysis templates →](data-analysis/README.md)
+
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
+| [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
+| [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
+| [Page Cro](../marketing/marketing-and-growth/page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
+| [Cro](../marketing/marketing-and-growth/cro.md) | Analyze marketing pages and forms to improve conversion rates with actionable recommendations. |
+| [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
+| [Pitch Psychologist](../marketing/marketing-and-growth/pitch-psychologist.md) | Structure sales pitches using psychological sequencing to build desire before solution. |
+| [Email Campaign Developer](marketing-and-growth/email-campaign-developer.md) | Plan, create, and optimize email campaigns from segmentation to compliance. |
+
+[All 108 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Research
 
@@ -87,7 +88,22 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 | [Apify Market Research](../marketing/research/apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
 | [Partnership Pipeline Researcher](../executives-and-strategy/research/partnership-pipeline-researcher.md) | Finds and vets partners, events, and outreach for your business development pipeline. |
 
-[All 34 Research templates →](research/README.md)
+[All 39 Research templates →](research/README.md)
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Pipedrive Automation](../operations/productivity/pipedrive-automation.md) | Automate Pipedrive CRM deals, contacts, activities, and notes via Rube MCP. |
+| [Zoho Crm Automation](../operations/productivity/zoho-crm-automation.md) | Automate Zoho CRM record creation, search, update, and lead conversion via Rube MCP. |
+| [Real Estate Time Efficiency Planner](../real-estate-and-construction/productivity/real-estate-time-efficiency-planner.md) | Organizes your real estate schedule, priorities, and workflows to save time and boost productivity. |
+| [Email Triage Classifier](../executives-and-strategy/productivity/email-triage-classifier.md) | Sorts your inbox by category, priority and required action, and tells you what to do first. |
+| [Mortgage Pipeline Stall Detector](../real-estate-and-construction/productivity/mortgage-pipeline-stall-detector.md) | Checks every open loan file daily for stalls, finds who is blocking, and drafts the one message needed. |
+| [Revops](../operations/productivity/revops.md) | Design and optimize revenue operations, lead lifecycle, scoring, routing, and CRM automation. |
+| [Strategic Planning Facilitator](productivity/strategic-planning-facilitator.md) | Facilitates strategic planning for CSOs from goal setting to review. |
+| [Weekly HCP Call Planner](productivity/weekly-hcp-call-planner.md) | Builds a compliant weekly call plan that hits tier frequency targets and minimizes driving. |
+
+[All 26 Productivity templates →](productivity/README.md)
 
 ## Writing & Content
 
@@ -102,7 +118,7 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 | [Sales Enablement Content Crafter](writing-and-content/sales-enablement-content-crafter.md) | Builds and refreshes sales training content from research to assessments. |
 | [Marketing Content Creator](writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |
 
-[All 18 Writing & Content templates →](writing-and-content/README.md)
+[All 19 Writing & Content templates →](writing-and-content/README.md)
 
 ## Security & Compliance
 
@@ -113,26 +129,11 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 | [Risk Assessment Navigator](security-and-compliance/risk-assessment-navigator.md) | Guides business development managers through complete risk assessment, from identifying risks to building automated assessment tools. |
 | [Freight Risk Assessment Assistant](security-and-compliance/freight-risk-assessment-assistant.md) | Freight broker risk management assistant for vetting, contracts, claims, compliance, and planning. |
 | [Security Risk Assessment Planner](security-and-compliance/security-risk-assessment-planner.md) | Risk assessment and mitigation assistant for Chief Sales Officers, turning security data into actionable plans and reports. No hype, just the work. |
-| [Freight Broker Compliance Assistant](security-and-compliance/freight-broker-compliance-assistant.md) | Freight broker compliance assistant for carrier checks, audits, and regulatory updates. |
-| [Pharma Compliance Assistant](security-and-compliance/pharma-compliance-assistant.md) | Keeps pharmaceutical sales compliant with regulations, audits, and reporting. |
-| [Cybersecurity Consultation Assistant](security-and-compliance/cybersecurity-consultation-assistant.md) | Cybersecurity consultation assistant for CSOs: assess risks, build policies, plan responses, and more. |
+| [Field Adverse Event Intake](security-and-compliance/field-adverse-event-intake.md) | Turns your call notes and voice memos into on-time safety or quality reports. |
+| [Security Review Evidence Refresh](security-and-compliance/security-review-evidence-refresh.md) | Keeps your security evidence library current and your open questionnaires accurate. |
+| [Security Questionnaire Responder](security-and-compliance/security-questionnaire-responder.md) | Matches questionnaire questions to approved security answers, flags gaps, and drafts a consistent reply for your approval. |
 
-[All 10 Security & Compliance templates →](security-and-compliance/README.md)
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Pipedrive Automation](../operations/productivity/pipedrive-automation.md) | Automate Pipedrive CRM deals, contacts, activities, and notes via Rube MCP. |
-| [Zoho Crm Automation](../operations/productivity/zoho-crm-automation.md) | Automate Zoho CRM record creation, search, update, and lead conversion via Rube MCP. |
-| [Real Estate Time Efficiency Planner](../real-estate-and-construction/productivity/real-estate-time-efficiency-planner.md) | Organizes your real estate schedule, priorities, and workflows to save time and boost productivity. |
-| [Email Triage Classifier](../executives-and-strategy/productivity/email-triage-classifier.md) | Sorts your inbox by category, priority and required action, and tells you what to do first. |
-| [Revops](../operations/productivity/revops.md) | Design and optimize revenue operations, lead lifecycle, scoring, routing, and CRM automation. |
-| [Strategic Planning Facilitator](productivity/strategic-planning-facilitator.md) | Facilitates strategic planning for CSOs from goal setting to review. |
-| [Pharma Event Planning Assistant](productivity/pharma-event-planning-assistant.md) | Plans, promotes, and manages pharmaceutical events and conferences end-to-end. |
-| [Notion Meeting Intelligence](../management/productivity/notion-meeting-intelligence.md) | Prep meeting agendas and pre-reads using Notion context and Codex research. |
-
-[All 9 Productivity templates →](productivity/README.md)
+[All 13 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Social Media
 
@@ -162,6 +163,18 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 | [Sales Training Module Architect](../executives-and-strategy/teaching-and-tutoring/sales-training-module-architect.md) | Builds and maintains sales training modules that improve team performance. |
 | [Sales Training Program Architect](teaching-and-tutoring/sales-training-program-architect.md) | Builds and runs a complete sales training program from content to coaching to evaluation. |
 
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
+| [Patient Advocacy Support Coordinator](support-and-community/patient-advocacy-support-coordinator.md) | Coordinates patient support, education, and advocacy resources for pharmaceutical sales reps. |
+| [Personalized Insurance Service Assistant](../customer-support/support-and-community/personalized-insurance-service-assistant.md) | Personalized insurance service assistant for customer service representatives. |
+| [Post-Sale Service Assistant](support-and-community/post-sale-service-assistant.md) | Handles post-sale customer service tasks and prepares content for sales managers. |
+| [After-Sales Service Assistant](support-and-community/after-sales-service-assistant.md) | Handles after-sales service tasks: follow-ups, troubleshooting, feedback, and more. |
+| [Freight Broker Customer Communication Assistant](support-and-community/freight-broker-customer-communication-assistant.md) | Handles customer inquiries, quotes, updates, complaints, and education for freight brokerage clients. |
+| [Medical Information Request Router](support-and-community/medical-information-request-router.md) | Routes provider questions and side effect mentions from call notes to the right team on time. |
+
 ## Office Tools
 
 | Template | What it does |
@@ -173,16 +186,15 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 | [Sales Report Distributor](office-tools/sales-report-distributor.md) | Sends each sales rep their territory report on schedule and logs every delivery. |
 | [CSO Stakeholder Comms Assistant](office-tools/cso-stakeholder-comms-assistant.md) | Handles stakeholder communication tasks from scheduling to analytics for a Chief Sales Officer. |
 
-## Support & Community
+## Knowledge Management
 
 | Template | What it does |
 |---|---|
-| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
-| [Patient Advocacy Support Coordinator](support-and-community/patient-advocacy-support-coordinator.md) | Coordinates patient support, education, and advocacy resources for pharmaceutical sales reps. |
-| [Personalized Insurance Service Assistant](../customer-support/support-and-community/personalized-insurance-service-assistant.md) | Personalized insurance service assistant for customer service representatives. |
-| [Post-Sale Service Assistant](support-and-community/post-sale-service-assistant.md) | Handles post-sale customer service tasks and prepares content for sales managers. |
-| [After-Sales Service Assistant](support-and-community/after-sales-service-assistant.md) | Handles after-sales service tasks: follow-ups, troubleshooting, feedback, and more. |
-| [Freight Broker Customer Communication Assistant](support-and-community/freight-broker-customer-communication-assistant.md) | Handles customer inquiries, quotes, updates, complaints, and education for freight brokerage clients. |
+| [Sales Product Knowledge Base Builder](knowledge-management/sales-product-knowledge-base-builder.md) | Builds and maintains a complete product knowledge base for sales teams. |
+| [Product Knowledge Base Builder](knowledge-management/product-knowledge-base-builder.md) | Builds and maintains a complete product knowledge base for sales teams, from specs to scripts. |
+| [RFP Answer Evidence Assistant](knowledge-management/rfp-answer-evidence-assistant.md) | Maps RFP questions to current approved answers with valid evidence and drafts a sourced response. |
+| [Product Knowledge Builder](knowledge-management/product-knowledge-builder.md) | Builds and maintains your sales team's product knowledge with training, analysis, and market insight. |
+| [Freight Contract and Document Manager](knowledge-management/freight-contract-and-document-manager.md) | Manages freight contracts and documents from creation to renewal, keeping you compliant and audit-ready. |
 
 ## Design
 
@@ -192,15 +204,6 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 | [Interactive Portfolio](../creatives/design/interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
 | [Email Template Design Assistant](design/email-template-design-assistant.md) | Designs, refines, and optimizes email templates that engage your audience and drive results. |
 | [Brand Identity Architect](design/brand-identity-architect.md) | Builds and refines your brand identity from logo to guidelines. |
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Sales Product Knowledge Base Builder](knowledge-management/sales-product-knowledge-base-builder.md) | Builds and maintains a complete product knowledge base for sales teams. |
-| [Product Knowledge Base Builder](knowledge-management/product-knowledge-base-builder.md) | Builds and maintains a complete product knowledge base for sales teams, from specs to scripts. |
-| [Product Knowledge Builder](knowledge-management/product-knowledge-builder.md) | Builds and maintains your sales team's product knowledge with training, analysis, and market insight. |
-| [Freight Contract and Document Manager](knowledge-management/freight-contract-and-document-manager.md) | Manages freight contracts and documents from creation to renewal, keeping you compliant and audit-ready. |
 
 ## Coding
 
@@ -214,6 +217,7 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 
 | Template | What it does |
 |---|---|
+| [Reference Design Customizer](cloud-and-devops/reference-design-customizer.md) | Tailors a reference architecture diagram to a customer's stack and flags every unsupported piece. |
 | [Hubspot Integration](../it-and-development/cloud-and-devops/hubspot-integration.md) | Guide HubSpot CRM integration with OAuth, CRUD, batch, webhooks, and custom objects. |
 
 ## Generative AI and LLM
@@ -227,5 +231,11 @@ Prospecting, pipeline and closing. **436 ready-made Grok Bot templates** for thi
 | Template | What it does |
 |---|---|
 | [Sales Demo Builder](generative-video/sales-demo-builder.md) | Build personalized product-demo videos for specific prospects in HyperFrames. |
+
+## Self-Improvement
+
+| Template | What it does |
+|---|---|
+| [Loyalty Sign-Up Coach](self-improvement/loyalty-sign-up-coach.md) | Finds the weakest sign-up moments and suggests one change a week to raise the rate. |
 
 [← All job fields](../../README.md#browse-by-job) · [Sales on the website](https://templatesgrokbot.com/jobs/sales)

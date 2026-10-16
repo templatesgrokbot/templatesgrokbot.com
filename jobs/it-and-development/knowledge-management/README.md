@@ -1,6 +1,6 @@
 # Knowledge Management templates for IT and Development
 
-Notes, documents, PDFs and knowledge bases kept in order. 67 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 75 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 67 Grok Bot templates,
 | [Agent Memory Mcp](agent-memory-mcp.md) | Persistent, searchable memory bank that syncs with project documentation. |
 | [Agents Md](agents-md.md) | Create or audit AGENTS.md from repository evidence, preserving maintainer intent. |
 | [Anywrite](../../operations/knowledge-management/anywrite.md) | One binary, all 52 Anytype local API endpoints — objects, search, files, chat. |
+| [Architecture Decision Review Assistant](architecture-decision-review-assistant.md) | Reviews architecture proposals against standards and history, then records the board's decision. |
 | [Atlas Ledger](atlas-ledger.md) | Distills caught drift into WHEN/DON'T/INSTEAD clauses for Atlas.md. |
 | [Atlassian Template Manager](atlassian-template-manager.md) | Builds and maintains standard Jira and Confluence templates, blueprints and page layouts for your organisation. |
 | [Brain To Docs](brain-to-docs.md) | Interview users to extract project vision and decisions into README and ADR docs. |
@@ -28,12 +29,15 @@ Notes, documents, PDFs and knowledge bases kept in order. 67 Grok Bot templates,
 | [Context Driven Development](context-driven-development.md) | Manage project context as a living artifact for consistent AI and team alignment. |
 | [Context Management Context Restore](context-management-context-restore.md) | Restore project context from saved handoffs and current evidence. |
 | [Context Management Context Save](context-management-context-save.md) | Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks. |
+| [Data Catalog Freshness Keeper](data-catalog-freshness-keeper.md) | Keeps your data catalog matching the real databases, with owners and sensitivity tags current. |
+| [Digital Preservation File Check](digital-preservation-file-check.md) | Checks collection files for silent corruption, restores good copies, and lists what needs your decision. |
 | [Docs Search](docs-search.md) | Search auto-generated codebase docs for function signatures, API docs, class definitions, and code comments. |
 | [Document Data Extractor](document-data-extractor.md) | Turns PDFs, Office files, emails, HTML and images into structured, metadata-rich elements and chunks. |
 | [Document Structure Parser](document-structure-parser.md) | Turns PDFs, Word files and images into clean structured text, tables and figures. |
 | [Documentation And Adrs](documentation-and-adrs.md) | Records the why behind architectural decisions and code changes. |
 | [Domain Flow Extractor](domain-flow-extractor.md) | Extracts business domain knowledge from a codebase and generates an interactive domain flow graph. |
 | [Domain Modeling](domain-modeling.md) | Build and sharpen a project's domain model by resolving terminology, recording decisions, and cross-referencing code. |
+| [ERP Requirements Traceability](erp-requirements-traceability.md) | Traces every agreed ERP requirement to its configuration, passing test and sign-off. |
 | [Evidence Organization Assistant](../../legal/knowledge-management/evidence-organization-assistant.md) | Organizes, tracks, and prepares legal evidence for paralegals from collection to trial. |
 | [Feature Tracking](feature-tracking.md) | Maintain durable feature-level memory across AI coding sessions with lightweight Markdown tracks. |
 | [Grounded Vault Keeper](grounded-vault-keeper.md) | Maintain a Markdown knowledge store where every claim traces to an immutable source and pages get cheap staleness checks. |
@@ -41,12 +45,15 @@ Notes, documents, PDFs and knowledge bases kept in order. 67 Grok Bot templates,
 | [Hig Project Context](../../creatives/knowledge-management/hig-project-context.md) | Create or update a shared Apple design context document for HIG capabilities. |
 | [Ingest Youtube](../../operations/knowledge-management/ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
 | [Knowledge Base Article Assistant](knowledge-base-article-assistant.md) | Turns help desk know-how into clear, accurate knowledge base articles. |
+| [Knowledge Base Register Builder](knowledge-base-register-builder.md) | Designs a minimal knowledge base register and builds the CSV, SQL, JSON or Notion mapping you ask for. |
 | [Knowledge Graph Builder](knowledge-graph-builder.md) | Analyzes Karpathy-pattern LLM wikis and builds an interactive knowledge graph. |
 | [Ledger Artifact Records](ledger-artifact-records.md) | Captures and retrieves durable, immutable YYLO Ledger artifact records with provenance and retention. |
 | [Ledger Wiki Records](ledger-wiki-records.md) | Keeps durable project knowledge in YYLO Ledger wiki Records, searched before created and updated revision-safely. |
+| [Legacy Business Rule Extractor](legacy-business-rule-extractor.md) | Reads a legacy system and returns a tested catalog of its business rules with sources, owners and status. |
 | [Legal Knowledge Base Builder](../../legal/knowledge-management/legal-knowledge-base-builder.md) | Builds and maintains a legal knowledge base with research, drafting, and compliance support. |
 | [Lore](lore.md) | Manage a project's long-term memory as Markdown files in .lore/ for decisions, architecture, and conventions. Not a changelog or dev journal. Not trig |
 | [Maintain Codex Wiki](maintain-codex-wiki.md) | Maintain a review-first engineering wiki with provenance and citation-aware queries. |
+| [Memory Health Dashboard](memory-health-dashboard.md) | Reports how full and healthy your project memory is, with stale and duplicate checks. |
 | [Memory Search](memory-search.md) | Search conversation history and semantic memory to recall past discussions and decisions. |
 | [Mesh Memory](mesh-memory.md) | Self-hosted semantic memory for AI agents via MCP, saving and recalling worklogs, decisions, and notes by meaning. |
 | [Metadata Agent](../../operations/knowledge-management/metadata-agent.md) | Standardizes and maintains frontmatter metadata across an Obsidian vault. |
@@ -54,6 +61,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 67 Grok Bot templates,
 | [Network Documentation and Mapping Assistant](network-documentation-and-mapping-assistant.md) | Builds and maintains complete network documentation and diagrams from your data. |
 | [Obsidian Bases](../../operations/knowledge-management/obsidian-bases.md) | Create and edit Obsidian .base files with views, filters, formulas, and summaries. |
 | [Project Memory Keeper](project-memory-keeper.md) | Saves hard-won project knowledge to a persistent memory file so it is available at the start of every session. |
+| [Project Memory Keeper](project-memory-keeper-2.md) | Saves hard-won project facts to persistent memory so they survive every future session. |
 | [Project State Governor](../../management/knowledge-management/project-state-governor.md) | Govern evidence-backed canonical project state across sessions without inventing intent. |
 | [Quality Documentation Manager](../../operations/knowledge-management/quality-documentation-manager.md) | Manages document control, change control, and regulatory documentation compliance for medical device organizations. |
 | [Read All Adrs](read-all-adrs.md) | Read all ADR files in a project to understand architectural decisions. |

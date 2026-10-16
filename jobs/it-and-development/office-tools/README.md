@@ -1,6 +1,6 @@
 # Office Tools templates for IT and Development
 
-Spreadsheets, documents, slides, email and calendars. 21 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
+Spreadsheets, documents, slides, email and calendars. 25 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,7 +8,10 @@ Spreadsheets, documents, slides, email and calendars. 21 Grok Bot templates, 10 
 |---|---|
 | [Batch Document Processor](batch-document-processor.md) | Processes large batches of documents in parallel and reports exactly what succeeded or failed. |
 | [Box Automation](../../operations/office-tools/box-automation.md) | Automate Box file operations, search, folders, collaboration, and sign requests via Composio toolkit. |
+| [Company Email Account Register](company-email-account-register.md) | Builds and maintains one account register per person so provisioning and offboarding stay honest. |
+| [Confirmed Schema CSV Export](confirmed-schema-csv-export.md) | Turns a confirmed field list into a clean, empty UTF-8 CSV template for import or handoff. |
 | [Cyber Terminal Deck Generator](cyber-terminal-deck-generator.md) | Turns tool evaluations into a cyber-terminal styled deck. |
+| [Data Export Register Builder](data-export-register-builder.md) | Turns your export requests into a clean register, CSV, SQL, JSON Schema or Notion mapping on request. |
 | [Document Pipeline Builder](document-pipeline-builder.md) | Chains document operations into reusable pipelines that extract, transform, and produce finished files. |
 | [Docx Official](../../operations/office-tools/docx-official.md) | Create, read, edit, and manipulate .docx files with precise formatting and tracked changes. |
 | [File Format Converter](file-format-converter.md) | Converts files between 999 formats via ChangeThisFile, no signup needed. |
@@ -27,5 +30,6 @@ Spreadsheets, documents, slides, email and calendars. 21 Grok Bot templates, 10 
 | [PDF Compression Planner](pdf-compression-planner.md) | Plans and reports PDF compression so files shrink without losing the quality you need. |
 | [Pdf Fill Studio](../../operations/office-tools/pdf-fill-studio.md) | Fill any PDF locally with precise value placement, leaving signatures blank. |
 | [Slidev Deck Builder](slidev-deck-builder.md) | Turns your talk outline into Slidev markdown with code demos, diagrams and step animations. |
+| [Team Calendar Index Builder](team-calendar-index-builder.md) | Turns how you share events and leave into an empty calendar schema and ready-to-import templates. |
 
 [← All IT and Development templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/it-and-development)

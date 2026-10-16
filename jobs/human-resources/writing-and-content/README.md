@@ -1,12 +1,14 @@
 # Writing & Content templates for Human Resources
 
-Plan, write and edit articles, copy and documentation. 61 Grok Bot templates, 42 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 67 Grok Bot templates, 48 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Academic Cv Builder](../../education/writing-and-content/academic-cv-builder.md) | Formats CVs for academic positions including publications, grants, teaching, and research experience. |
+| [Application Quality Gate](application-quality-gate.md) | Checks each job application against the posting before it goes out. |
+| [Change Communication Readiness Planner](change-communication-readiness-planner.md) | Maps who is affected by a change and drafts the messages, senders and dates they need. |
 | [Company Culture Architect](company-culture-architect.md) | Turns company values into observable behaviors, measurable culture health, and rituals that scale. |
 | [Company Narrative Consistency](../../pr-and-communications/writing-and-content/company-narrative-consistency.md) | Keeps one company story consistent across employees, investors, customers, candidates and partners. |
 | [Compliance Communication Planner](../../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
@@ -37,18 +39,22 @@ Plan, write and edit articles, copy and documentation. 61 Grok Bot templates, 42
 | [HR Policy Drafting Assistant](hr-policy-drafting-assistant.md) | Drafts, refines, and aligns HR policies with regulations and best practices. |
 | [HR Policy Review and Development Assistant](hr-policy-review-and-development-assistant.md) | Drafts, reviews, and updates HR policies with compliance and best-practice guidance. |
 | [HRIS Training and Support Creator](hris-training-and-support-creator.md) | Builds training and support materials for your HRIS users, from manuals to webinars to FAQs. |
+| [Inclusive Job Posting Reviewer](inclusive-job-posting-reviewer.md) | Reviews draft job postings for exclusive language and inflated requirements, then tracks the applicant pool. |
 | [Internal Comms Anthropic](../../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Internal Comms Community](../../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Internal Comms Drafter](../../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
 | [Internal Communication Planner](../../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
 | [Interview Prep Generator](interview-prep-generator.md) | Turns a resume into STAR stories, practice questions, and talking points for interview prep. |
 | [Job Application Optimizer](job-application-optimizer.md) | Tailor resumes, cover letters, and interview prep to each job posting. |
+| [Job Description Consistency Reviewer](job-description-consistency-reviewer.md) | Aligns drafted job descriptions with the approved role framework before HR publishes them. |
 | [Job Description Optimizer](job-description-optimizer.md) | Optimizes job descriptions to attract the right candidates and improve hiring outcomes. |
 | [Job Post Writer](job-post-writer.md) | Writes honest, effective job posts that attract the right candidates for small businesses. |
 | [Linkedin Profile Optimizer](../../marketing/writing-and-content/linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |
 | [Offer Letter Drafter](offer-letter-drafter.md) | Drafts formal employment offer letters with compensation, terms, and an acceptance block for your review. |
 | [Organizational Culture Development Assistant](organizational-culture-development-assistant.md) | Designs and analyzes culture initiatives for global HR leaders. |
 | [Performance Review Template Architect](performance-review-template-architect.md) | Builds and updates performance review templates for HR VPs, from standard to specialized. |
+| [Policy Change Course Updater](policy-change-course-updater.md) | Updates courses and quizzes when a policy changes and lists who needs retraining. |
+| [Policy Language Inclusion Audit](policy-language-inclusion-audit.md) | Scans policies for exclusionary wording and drafts meaning-preserving edits for your approval. |
 | [Recruitment Operations Specialist](recruitment-operations-specialist.md) | Runs recruiting operations across Chinese hiring platforms, from JD writing to compliant offers. |
 | [Reference List Builder](reference-list-builder.md) | Formats professional reference lists and prepares reference materials for job applications. |
 | [Remote Work Policy and Engagement Assistant](remote-work-policy-and-engagement-assistant.md) | Builds and maintains remote work policies, guides, and support for HR managers. |

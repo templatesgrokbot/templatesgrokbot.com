@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **1,396 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **2,126 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,27 +11,27 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 459 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 226 |
-| [Productivity](productivity/README.md) | 202 |
-| [Security & Compliance](security-and-compliance/README.md) | 114 |
-| [Research](research/README.md) | 85 |
-| [Coding](coding/README.md) | 63 |
-| [Knowledge Management](knowledge-management/README.md) | 38 |
-| [Support & Community](support-and-community/README.md) | 34 |
-| [Office Tools](office-tools/README.md) | 30 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 30 |
-| [Writing & Content](writing-and-content/README.md) | 30 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 20 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 15 |
-| [Speech-To-Text](speech-to-text/README.md) | 10 |
+| [Data Analysis](data-analysis/README.md) | 644 |
+| [Productivity](productivity/README.md) | 537 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 241 |
+| [Security & Compliance](security-and-compliance/README.md) | 202 |
+| [Research](research/README.md) | 93 |
+| [Support & Community](support-and-community/README.md) | 67 |
+| [Coding](coding/README.md) | 64 |
+| [Knowledge Management](knowledge-management/README.md) | 55 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 44 |
+| [Office Tools](office-tools/README.md) | 43 |
+| [Writing & Content](writing-and-content/README.md) | 34 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 28 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 17 |
+| [Speech-To-Text](speech-to-text/README.md) | 11 |
 | [Generative Code](generative-code/README.md) | 9 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 9 |
 | [Design](design/README.md) | 7 |
-| [Social Media](social-media/README.md) | 4 |
+| [Prompt Engineering](prompt-engineering/README.md) | 5 |
+| [Social Media](social-media/README.md) | 5 |
+| [Translation](translation/README.md) | 4 |
 | [Video Editing](video-editing/README.md) | 4 |
-| [Translation](translation/README.md) | 3 |
-| [Prompt Engineering](prompt-engineering/README.md) | 2 |
 | [Generative Art](generative-art/README.md) | 1 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
 | [Text-To-Speech](text-to-speech/README.md) | 1 |
@@ -49,22 +49,7 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Postgres Readonly Queries](../it-and-development/data-analysis/postgres-readonly-queries.md) | Run safe read-only SQL against PostgreSQL with multi-connection support and write protection. |
 
-[All 459 Data Analysis templates →](data-analysis/README.md)
-
-## Cloud & DevOps
-
-| Template | What it does |
-|---|---|
-| [Monitoring Specialist](../it-and-development/cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
-| [Kubernetes Architect](../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
-| [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
-| [Zapier Make Patterns](../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
-| [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
-| [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
-| [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
-| [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
-
-[All 226 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 644 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -79,7 +64,22 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Bamboohr Automation](../human-resources/productivity/bamboohr-automation.md) | Automate BambooHR HR operations: employees, time-off, benefits, dependents, and updates. |
 
-[All 202 Productivity templates →](productivity/README.md)
+[All 537 Productivity templates →](productivity/README.md)
+
+## Cloud & DevOps
+
+| Template | What it does |
+|---|---|
+| [Monitoring Specialist](../it-and-development/cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
+| [Kubernetes Architect](../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
+| [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
+| [Zapier Make Patterns](../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
+| [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
+| [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
+| [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
+| [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
+
+[All 241 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Security & Compliance
 
@@ -94,7 +94,7 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Chemical Compliance Assistant](../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
 | [Regulatory Compliance Guidance Assistant](../product-development/security-and-compliance/regulatory-compliance-guidance-assistant.md) | Guides process engineers through regulatory compliance research, documentation, reporting, training, audits, and risk management. |
 
-[All 114 Security & Compliance templates →](security-and-compliance/README.md)
+[All 202 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Research
 
@@ -109,37 +109,7 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 | [Inventory Technology Integration Guide](research/inventory-technology-integration-guide.md) | Guides inventory specialists through technology integration for inventory control. |
 
-[All 85 Research templates →](research/README.md)
-
-## Coding
-
-| Template | What it does |
-|---|---|
-| [Poka Yoke](../it-and-development/coding/poka-yoke.md) | Redesign work so mistakes cannot become defects, without relying on human memory. |
-| [Customize Cowork Plugin](../it-and-development/coding/cowork-cowork-plugin-customizer.md) | Adapts an existing plugin to your organization's tools, wording, and workflows without forking the code. |
-| [Agent Self Scheduling](../it-and-development/coding/agent-self-scheduling.md) | Schedule AI agent runs with cron, loops, or external clocks while avoiding unsafe tight autonomous timers. |
-| [Using N8n Mcp Templates](../it-and-development/coding/using-n8n-mcp-skills.md) | Route n8n MCP workflow tasks to specialist guidance before acting. |
-| [Closed Loop Delivery](../it-and-development/coding/closed-loop-delivery.md) | Deliver code against acceptance criteria with minimal re-intervention across implementation, review, deploy, and runtime verification. |
-| [Launchdarkly Flag Cleanup](../it-and-development/coding/launchdarkly-flag-cleanup.md) | Safely automates LaunchDarkly feature flag removal by verifying readiness and preserving production behavior. |
-| [Seo Technical](../marketing/coding/seo-technical.md) | Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, and JavaScript rendering. |
-| [Azure Servicebus Dotnet](../it-and-development/coding/azure-servicebus-dotnet.md) | Send, receive, and settle messages using Azure Service Bus from .NET. |
-
-[All 63 Coding templates →](coding/README.md)
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Crossframe Casebook](knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
-| [Maintain Codex Wiki](../it-and-development/knowledge-management/maintain-codex-wiki.md) | Maintain a review-first engineering wiki with provenance and citation-aware queries. |
-| [Document Digitization Assistant](knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
-| [Content Curator](knowledge-management/content-curator.md) | Curates Obsidian vault content by detecting duplicates, stubs, and outdated notes. |
-| [Connection Agent](knowledge-management/connection-agent.md) | Analyzes an Obsidian vault to suggest links between notes and identify orphaned content. |
-| [Ingest Youtube](knowledge-management/ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
-| [Review Agent](knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
-| [Data Storage and Management Assistant](../science-and-research/knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
-
-[All 38 Knowledge Management templates →](knowledge-management/README.md)
+[All 93 Research templates →](research/README.md)
 
 ## Support & Community
 
@@ -154,22 +124,37 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
 | [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 
-[All 34 Support & Community templates →](support-and-community/README.md)
+[All 67 Support & Community templates →](support-and-community/README.md)
 
-## Office Tools
+## Coding
 
 | Template | What it does |
 |---|---|
-| [Excel Spreadsheets](office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
-| [Pdf Official](office-tools/pdf-official.md) | Process PDFs: merge, split, extract text/tables, create, OCR, watermark, encrypt, and fill forms. |
-| [Google Docs Automation](office-tools/google-docs-automation.md) | Create, read, search, and edit Google Docs via OAuth-authenticated scripts. |
-| [Google Slides Automation](office-tools/google-slides-automation.md) | Create, read, and modify Google Slides presentations via CLI scripts. |
-| [Pdf Fill Studio](office-tools/pdf-fill-studio.md) | Fill any PDF locally with precise value placement, leaving signatures blank. |
-| [Docusign Automation](office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
-| [Nanobanana Ppt Templates](office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
-| [Odoo Purchase Workflow](office-tools/odoo-purchase-workflow.md) | Guide Odoo Purchase: RFQ to PO, receipt, vendor bill, and 3-way matching. No subcontracting or EDI. No guessing. |
+| [Poka Yoke](../it-and-development/coding/poka-yoke.md) | Redesign work so mistakes cannot become defects, without relying on human memory. |
+| [Customize Cowork Plugin](../it-and-development/coding/cowork-cowork-plugin-customizer.md) | Adapts an existing plugin to your organization's tools, wording, and workflows without forking the code. |
+| [Agent Self Scheduling](../it-and-development/coding/agent-self-scheduling.md) | Schedule AI agent runs with cron, loops, or external clocks while avoiding unsafe tight autonomous timers. |
+| [Using N8n Mcp Templates](../it-and-development/coding/using-n8n-mcp-skills.md) | Route n8n MCP workflow tasks to specialist guidance before acting. |
+| [Closed Loop Delivery](../it-and-development/coding/closed-loop-delivery.md) | Deliver code against acceptance criteria with minimal re-intervention across implementation, review, deploy, and runtime verification. |
+| [Launchdarkly Flag Cleanup](../it-and-development/coding/launchdarkly-flag-cleanup.md) | Safely automates LaunchDarkly feature flag removal by verifying readiness and preserving production behavior. |
+| [Seo Technical](../marketing/coding/seo-technical.md) | Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, and JavaScript rendering. |
+| [Azure Servicebus Dotnet](../it-and-development/coding/azure-servicebus-dotnet.md) | Send, receive, and settle messages using Azure Service Bus from .NET. |
 
-[All 30 Office Tools templates →](office-tools/README.md)
+[All 64 Coding templates →](coding/README.md)
+
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Crossframe Casebook](knowledge-management/crossframe-casebook.md) | Turns case materials into anonymized, reusable casebook entries with mechanisms and indexes. |
+| [Maintain Codex Wiki](../it-and-development/knowledge-management/maintain-codex-wiki.md) | Maintain a review-first engineering wiki with provenance and citation-aware queries. |
+| [Document Digitization Assistant](knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
+| [Content Curator](knowledge-management/content-curator.md) | Curates Obsidian vault content by detecting duplicates, stubs, and outdated notes. |
+| [Connection Agent](knowledge-management/connection-agent.md) | Analyzes an Obsidian vault to suggest links between notes and identify orphaned content. |
+| [Ingest Youtube](knowledge-management/ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
+| [Review Agent](knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
+| [Data Storage and Management Assistant](../science-and-research/knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
+
+[All 55 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Sales & Negotiation
 
@@ -184,7 +169,22 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Supplier Relationship Manager](../management/sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
 | [Vendor Relationship Management Assistant](sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
 
-[All 30 Sales & Negotiation templates →](sales-and-negotiation/README.md)
+[All 44 Sales & Negotiation templates →](sales-and-negotiation/README.md)
+
+## Office Tools
+
+| Template | What it does |
+|---|---|
+| [Excel Spreadsheets](office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
+| [Pdf Official](office-tools/pdf-official.md) | Process PDFs: merge, split, extract text/tables, create, OCR, watermark, encrypt, and fill forms. |
+| [Google Docs Automation](office-tools/google-docs-automation.md) | Create, read, search, and edit Google Docs via OAuth-authenticated scripts. |
+| [Google Slides Automation](office-tools/google-slides-automation.md) | Create, read, and modify Google Slides presentations via CLI scripts. |
+| [Pdf Fill Studio](office-tools/pdf-fill-studio.md) | Fill any PDF locally with precise value placement, leaving signatures blank. |
+| [Docusign Automation](office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
+| [Nanobanana Ppt Templates](office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
+| [Odoo Purchase Workflow](office-tools/odoo-purchase-workflow.md) | Guide Odoo Purchase: RFQ to PO, receipt, vendor bill, and 3-way matching. No subcontracting or EDI. No guessing. |
+
+[All 43 Office Tools templates →](office-tools/README.md)
 
 ## Writing & Content
 
@@ -199,7 +199,7 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Process Documentation Assistant](writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [Safety Training Program Developer](writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
 
-[All 30 Writing & Content templates →](writing-and-content/README.md)
+[All 34 Writing & Content templates →](writing-and-content/README.md)
 
 ## Marketing & Growth
 
@@ -211,10 +211,10 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Site Architecture](../marketing/marketing-and-growth/site-architecture.md) | Plan and restructure website hierarchy, navigation, URL patterns, and internal linking. |
 | [Seo Drift](../marketing/marketing-and-growth/seo-drift.md) | Monitor a site's SEO state over time and surface ranking, indexation, metadata, canonical, robots, and schema regressions. |
 | [E-commerce Launch Strategist](../management/marketing-and-growth/e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
+| [Competitive Price Monitoring Assistant](marketing-and-growth/competitive-price-monitoring-assistant.md) | Checks competitor prices daily and suggests margin-safe repricing for your key products. |
 | [Klaviyo Automation](../marketing/marketing-and-growth/klaviyo-automation.md) | Automate Klaviyo email/SMS campaign management, inspection, and monitoring. |
-| [Churn Prevention](../marketing/marketing-and-growth/churn-prevention.md) | Reduce voluntary and involuntary churn with cancel flows, save offers, and dunning strategies. |
 
-[All 20 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 28 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Generative AI and LLM
 
@@ -229,7 +229,7 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Delegating To Agents](../it-and-development/generative-ai-and-llm/delegating-to-agents.md) | Delegate bounded work to other AI agents with full context and progress checks. |
 | [Loopy](../it-and-development/generative-ai-and-llm/loopy.md) | Discover, craft, audit, and publish bounded AI-agent loops from engineering work. |
 
-[All 15 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 17 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
 ## Speech-To-Text
 
@@ -244,7 +244,7 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Transcription Services Assistant](speech-to-text/transcription-services-assistant.md) | Turns audio and video files into accurate, formatted text for data entry specialists. |
 | [Azure Ai Transcription Py](../it-and-development/speech-to-text/azure-ai-transcription-py.md) | Transcribe audio to text in real time or batch using Azure AI. |
 
-[All 10 Speech-To-Text templates →](speech-to-text/README.md)
+[All 11 Speech-To-Text templates →](speech-to-text/README.md)
 
 ## Generative Code
 
@@ -270,9 +270,11 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Logistics Training Program Coordinator](teaching-and-tutoring/logistics-training-program-coordinator.md) | Builds and runs staff training programs for logistics teams, from needs assessment to evaluation. |
 | [Employee Training Program Coordinator](teaching-and-tutoring/employee-training-program-coordinator.md) | Designs, runs, and improves your team's training programs end to end. |
 | [Insurance Training Developer](teaching-and-tutoring/insurance-training-developer.md) | Build and manage the full training cycle for your insurance operations team. |
+| [Executive Scenario Tabletop](teaching-and-tutoring/executive-scenario-tabletop.md) | Runs leadership tabletop exercises that react realistically to the team's decisions and logs everything for the debrief. |
 | [Lean Process Improvement Assistant](teaching-and-tutoring/lean-process-improvement-assistant.md) | Guides process improvement analysts through Lean methodology tasks from data analysis to continuous improvement. |
 | [Driver Training Program Coordinator](teaching-and-tutoring/driver-training-program-coordinator.md) | Builds and tracks complete driver training programs for fleet safety and compliance. |
-| [Real-Time Tracking Setup Assistant](teaching-and-tutoring/real-time-tracking-setup-assistant.md) | Guides logistics coordinators through setting up and optimizing real-time tracking systems. |
+
+[All 9 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Design
 
@@ -286,6 +288,16 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Warehouse Flow Architect](design/warehouse-flow-architect.md) | Optimizes warehouse layouts for space, flow, safety, and future growth. |
 | [Site Layout Planner](../real-estate-and-construction/design/site-layout-planner.md) | Optimizes construction site layouts and utilization for contractors. |
 
+## Prompt Engineering
+
+| Template | What it does |
+|---|---|
+| [Template Builder](prompt-engineering/template-skill.md) | Replace with description of the template and when Claude should use it. |
+| [Rich Elicitation](prompt-engineering/rich-elicitation.md) | Asks targeted clarifying questions when a task has 2+ ambiguous dimensions with 3+ viable answers each. |
+| [Midwifery Caseload Capacity Checker](../healthcare/prompt-engineering/midwifery-caseload-capacity-checker.md) | Tells intake whether a due month has room before a new client is booked. |
+| [Pest Scouting Spray Decision](prompt-engineering/pest-scouting-spray-decision.md) | Turns scouting rounds into threshold-based spray decisions with legal, resistance-safe options. |
+| [Duty and Trade Agreement Eligibility](prompt-engineering/duty-and-trade-agreement-eligibility.md) | Calculates entry-line duty and taxes, claims trade agreement rates only with valid proof, and flags refunds. |
+
 ## Social Media
 
 | Template | What it does |
@@ -293,7 +305,17 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Youtube Automation](../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 | [Whatsapp Automation](../marketing/social-media/whatsapp-automation.md) | Automate WhatsApp Business messaging, templates, media, and contacts via Rube MCP. |
 | [Linkedin Cli](../marketing/social-media/linkedin-cli.md) | Automate LinkedIn tasks like profile fetching, messaging, and posting via CLI. |
+| [Live Post Compliance Monitor](../marketing/social-media/live-post-compliance-monitor.md) | Checks every contracted creator post daily and fixes or escalates changes before the brand finds out. |
 | [Reddit Automation](../marketing/social-media/reddit-automation.md) | Search, post, comment, and browse Reddit via Rube MCP. |
+
+## Translation
+
+| Template | What it does |
+|---|---|
+| [Azure AI Translation Bot](../it-and-development/translation/azure-ai-translation-ts.md) | Translate text and documents using Azure AI Translator SDKs. |
+| [Azure Ai Translation Document Py](translation/azure-ai-translation-document-py.md) | Batch-translate Word, PDF, Excel, and other documents via Azure AI Document Translation. |
+| [Translation Project Intake and Scope](translation/translation-project-intake-and-scope.md) | Turns each incoming translation request into a clear scope, a quote and a short list of questions. |
+| [Multilingual Claims Support Bot](translation/multilingual-claims-support-bot.md) | Multilingual insurance claims support: translate, communicate, and comply across languages. |
 
 ## Video Editing
 
@@ -303,21 +325,6 @@ Processes, logistics and the systems that run a business. **1,396 ready-made Gro
 | [Video Router](../creatives/video-editing/video-router.md) | Route video briefs to generate, compose, edit, or AUTO before production starts. |
 | [Social Media Clip Creator](../creatives/video-editing/social-media-clip-creator.md) | Transforms video content into platform-optimized clips with proper cropping, subtitles, thumbnails, and encoding. |
 | [Audio Quality Controller](../creatives/video-editing/audio-quality-controller.md) | Analyzes and enhances audio files to broadcast-quality standards with detailed reports. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
-
-## Translation
-
-| Template | What it does |
-|---|---|
-| [Azure AI Translation Bot](../it-and-development/translation/azure-ai-translation-ts.md) | Translate text and documents using Azure AI Translator SDKs. |
-| [Azure Ai Translation Document Py](translation/azure-ai-translation-document-py.md) | Batch-translate Word, PDF, Excel, and other documents via Azure AI Document Translation. |
-| [Multilingual Claims Support Bot](translation/multilingual-claims-support-bot.md) | Multilingual insurance claims support: translate, communicate, and comply across languages. |
-
-## Prompt Engineering
-
-| Template | What it does |
-|---|---|
-| [Template Builder](prompt-engineering/template-skill.md) | Replace with description of the template and when Claude should use it. |
-| [Rich Elicitation](prompt-engineering/rich-elicitation.md) | Asks targeted clarifying questions when a task has 2+ ambiguous dimensions with 3+ viable answers each. |
 
 ## Generative Art
 

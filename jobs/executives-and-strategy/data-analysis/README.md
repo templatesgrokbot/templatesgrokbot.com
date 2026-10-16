@@ -1,14 +1,16 @@
 # Data Analysis templates for Executives and Strategy
 
-Clean, query, chart and explain data. 266 Grok Bot templates, 168 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 281 Grok Bot templates, 174 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Agency Retainer Scorecard](../../marketing/data-analysis/agency-retainer-scorecard.md) | Holds your agency to contract scope and targets and gives you evidence for the renewal decision. |
 | [Ai Dev Jobs Mcp](../../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [AI Readiness Assessor](ai-readiness-assessor.md) | Assesses a business's AI readiness across six dimensions and produces a prioritized action report. |
 | [Analytics Product](../../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
+| [Annual Plan Reconciliation](../../sales/data-analysis/annual-plan-reconciliation.md) | Compares top-down targets with bottom-up forecasts, finds gaps, and tests options until the plan closes. |
 | [Behavioral Data Strategist](behavioral-data-strategist.md) | Analyzes consumer behavior data to deliver strategic marketing insights and campaign recommendations. |
 | [Benchmarking Analysis Assistant](../../management/data-analysis/benchmarking-analysis-assistant.md) | Benchmarking analysis assistant for management consultants, turning data into strategic insights and client-ready reports. |
 | [Board Deck Generator](board-deck-generator.md) | Generates professional board meeting presentation content with executive summary, financials, and strategic updates. |
@@ -19,6 +21,7 @@ Clean, query, chart and explain data. 266 Grok Bot templates, 168 of them filed 
 | [Budget Optimization Assistant for Policy Makers](../../government/data-analysis/budget-optimization-assistant-for-policy-makers.md) | Analyzes budget data to find savings, optimize allocation, and support policy decisions. |
 | [Budget Planning Assistant](budget-planning-assistant.md) | Prepares your budget plan from data gathering to final documentation. |
 | [Budget Preparation and Analysis Assistant](budget-preparation-and-analysis-assistant.md) | Prepares budgets, forecasts, and reports for the EVP of Finances. |
+| [Business Health Assessment Assistant](business-health-assessment-assistant.md) | Turns a client's questionnaire and documents into a fact-checked business health assessment with coaching priorities. |
 | [Business Strategy Analyst](../../management/data-analysis/business-strategy-analyst.md) | Turns market data and company inputs into strategic analysis, goals, and plans for management consultants. |
 | [Campaign Effectiveness Analyst](../../management/data-analysis/campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Campaign Insights Analyst](campaign-insights-analyst.md) | Analyzes campaign data to deliver actionable insights and optimization recommendations. |
@@ -65,6 +68,7 @@ Clean, query, chart and explain data. 266 Grok Bot templates, 168 of them filed 
 | [Currency Exchange Forecasting Assistant](../../finance/data-analysis/currency-exchange-forecasting-assistant.md) | Forecasts currency exchange rates and manages related risks for finance directors. |
 | [Currency Risk Management Assistant](currency-risk-management-assistant.md) | Manages currency and exchange risk for a VP of Finance from exposure analysis to compliance and reporting. |
 | [Currency Risk Manager](../../finance/data-analysis/currency-risk-manager.md) | Analyzes currency exposure, evaluates hedges, monitors markets, and reports to stakeholders. |
+| [Customer Complaint Root Cause Review](../../operations/data-analysis/customer-complaint-root-cause-review.md) | Turns a month of complaints into ranked operational root causes and draft fixes for your approval. |
 | [Customer Experience Insight Engine](customer-experience-insight-engine.md) | Analyzes customer data and designs AI-driven experiences to boost satisfaction and engagement. |
 | [Customer Experience Strategy Architect](customer-experience-strategy-architect.md) | Turns customer data into a complete experience strategy, from feedback to crisis planning. |
 | [Customer Feedback Insight Engine](../../sales/data-analysis/customer-feedback-insight-engine.md) | Turns customer feedback into actionable insights and response plans for sales leadership. |
@@ -84,6 +88,7 @@ Clean, query, chart and explain data. 266 Grok Bot templates, 168 of them filed 
 | [Deal Lifecycle Strategist](deal-lifecycle-strategist.md) | Streamlines M&A analysis from due diligence to post-merger monitoring. |
 | [Debt Management Strategist](debt-management-strategist.md) | Analyzes, plans, and monitors your company's debt portfolio, from refinancing to compliance. |
 | [Decision Post-Mortem Review](decision-post-mortem-review.md) | Scores an executed decision against its pre-committed success and kill criteria and revisits the recorded dissent. |
+| [Digital Benefits Portfolio Tracker](digital-benefits-portfolio-tracker.md) | Tracks each transformation initiative's promised benefits against its business case and drafts the steering summary. |
 | [Digital Marketing Trends Analyst](digital-marketing-trends-analyst.md) | Analyzes digital marketing data across channels to deliver actionable insights and trend forecasts. |
 | [Digital Performance Analytics Advisor](digital-performance-analytics-advisor.md) | Performance analytics companion for CDOs: from data gathering to reporting and optimization. |
 | [Director Productivity Insight](director-productivity-insight.md) | Analyzes employee productivity data and delivers actionable insights for managing directors. |
@@ -99,6 +104,7 @@ Clean, query, chart and explain data. 266 Grok Bot templates, 168 of them filed 
 | [EVP Financial Forecaster](evp-financial-forecaster.md) | Turns historical financial data into forecasts, budgets, and risk reports for an EVP of Finances. |
 | [EVP Sales Forecast Strategist](evp-sales-forecast-strategist.md) | Turns sales data into forecasts, scenarios, and insights for the EVP of Sales. |
 | [EVP Strategy Blueprint Builder](evp-strategy-blueprint-builder.md) | Turns market data, feedback, and performance figures into strategic plans, goals, and risk assessments for EVPs. |
+| [Executive Dashboard Anomaly Check](executive-dashboard-anomaly-check.md) | Checks dashboard jumps against source data and history so only real changes reach the leadership meeting. |
 | [Executive Dashboard Generator](executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Executive Feedback Summarizer](executive-feedback-summarizer.md) | Turns customer feedback into clear insights for executive decisions. |
 | [Executive Forecast Report Builder](../../management/data-analysis/executive-forecast-report-builder.md) | Turns financial data into forecasts, scenarios, and reports for senior management decisions. |
@@ -142,6 +148,7 @@ Clean, query, chart and explain data. 266 Grok Bot templates, 168 of them filed 
 | [HR Data Insights](hr-data-insights.md) | Turns your HR data into clear analytics and decisions for the executive team. |
 | [HR Data Insights and Automation](hr-data-insights-and-automation.md) | Analyzes HR data and automates processes from hiring to retention for an EVP of HR. |
 | [HR Decision Support](hr-decision-support.md) | Turn HR data into hiring, performance, and policy decisions for your organization. |
+| [Innovation Portfolio Metrics](innovation-portfolio-metrics.md) | Produces a source-checked portfolio view for each reporting cycle before board meetings. |
 | [Insurance Competitive Intelligence Assistant](../../management/data-analysis/insurance-competitive-intelligence-assistant.md) | Turns competitor data into actionable insurance market intelligence for agency managers. |
 | [Insurance Finance Reporting Assistant](../../management/data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 | [Inventory Operations Planner](inventory-operations-planner.md) | Tracks stock, forecasts demand, and plans replenishment to keep inventory lean and cash flowing. |
@@ -153,6 +160,7 @@ Clean, query, chart and explain data. 266 Grok Bot templates, 168 of them filed 
 | [IT Budget Planning Assistant](it-budget-planning-assistant.md) | Analyzes IT costs, forecasts spending, and prepares budget plans for approval. |
 | [IT Infrastructure Analysis Assistant](it-infrastructure-analysis-assistant.md) | Analyzes IT infrastructure data to surface risks, costs, and optimization opportunities. |
 | [Job Profitability Analyzer](../../finance/data-analysis/job-profitability-analyzer.md) | Ranks clients and jobs by true margin to show which work actually makes money. |
+| [Key Account Health Review](../../sales/data-analysis/key-account-health-review.md) | Scores top-account risk signals monthly and verifies that actions bring them back. |
 | [KPI Analysis and Forecasting Assistant](../../operations/data-analysis/kpi-analysis-and-forecasting-assistant.md) | Turns your KPI data into clear insights, forecasts, and action plans for operations decisions. |
 | [Kpi Dashboard Design](../../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
 | [Legal Analytics Assistant](../../legal/data-analysis/legal-analytics-assistant.md) | Turns legal documents and case data into clear insights, drafts, and risk assessments for lawyers. |
@@ -199,11 +207,13 @@ Clean, query, chart and explain data. 266 Grok Bot templates, 168 of them filed 
 | [Portfolio Analysis and Reporting Assistant](../../finance/data-analysis/portfolio-analysis-and-reporting-assistant.md) | Analyzes portfolios, optimizes allocation, monitors risk, and prepares reports for the global finance head. |
 | [Portfolio Digest](../../finance/data-analysis/portfolio-digest.md) | Summarises what moved in your holdings and why, without ever telling you what to buy. |
 | [Portfolio Insight Reports](../../finance/data-analysis/portfolio-insight-reports.md) | Analyzes markets, companies, and portfolios to deliver investment insights and reports. |
+| [Portfolio Runway Alert](portfolio-runway-alert.md) | Monthly runway check across portfolio companies, with flagged risks and drafted founder questions for partner approval. |
 | [Predictive Modeling and Forecasting Guide](predictive-modeling-and-forecasting-guide.md) | Guides CDOs through predictive modeling and forecasting from data prep to deployment. |
 | [Predictive Modeling Assistant](predictive-modeling-assistant.md) | Builds and maintains predictive models for competitive intelligence, from data to forecasts. |
 | [Pricing Strategy Analyst](../../management/data-analysis/pricing-strategy-analyst.md) | Analyzes pricing data and market signals to deliver actionable pricing strategy recommendations. |
 | [Pricing Strategy Optimizer](pricing-strategy-optimizer.md) | Analyzes market, customer, and cost data to optimize pricing strategies. |
 | [Product Fit Analysis Assistant](product-fit-analysis-assistant.md) | Turns market and customer data into product fit decisions for business development. |
+| [Product Metrics Weekly Anomaly Review](../../product-development/data-analysis/product-metrics-weekly-anomaly-review.md) | Pulls weekly product metrics, separates real anomalies from tracking errors, and drafts a review for your approval. |
 | [Product Performance Insights Assistant](../../sales/data-analysis/product-performance-insights-assistant.md) | Analyzes product performance data and delivers actionable sales insights for global heads of sales. |
 | [Product Performance Review Assistant](../../sales/data-analysis/product-performance-review-assistant.md) | Analyzes product performance data and delivers actionable insights for CSOs. |
 | [Product Portfolio Strategist](product-portfolio-strategist.md) | Analyzes your product portfolio and returns strategic recommendations for growth, pricing, and positioning. |
@@ -211,6 +221,8 @@ Clean, query, chart and explain data. 266 Grok Bot templates, 168 of them filed 
 | [Product Strategy Insights Assistant](product-strategy-insights-assistant.md) | Turns market, customer, and competitor data into product strategy insights for business development. |
 | [Public Opinion Analysis Assistant](../../government/data-analysis/public-opinion-analysis-assistant.md) | Turns public opinion data into clear insights for policy decisions. |
 | [Quarterly Finance Report](../../finance/data-analysis/quarterly-finance-report.md) | Generates a one-page quarterly finance report with KPIs, charts, and insights. |
+| [Quarterly Security Board Report](../../it-and-development/data-analysis/quarterly-security-board-report.md) | Builds a traceable quarterly security report for the board from agreed metrics, with plain-language narrative and charts. |
+| [Rep Attrition Risk Watch](../../sales/data-analysis/rep-attrition-risk-watch.md) | Flags rep attrition risk patterns, drafts a conversation plan, and tracks the outcome. |
 | [Retention Survey Architect](retention-survey-architect.md) | Designs retention strategies from surveys, turnover data, and employee feedback. |
 | [Risk Management Director Assistant](risk-management-director-assistant.md) | Identifies, assesses, and manages business risks with AI-driven insights and reporting. |
 | [Risk Management Strategist](risk-management-strategist.md) | Risk management strategist for EVPs, turning data into actionable risk intelligence and mitigation plans. |
@@ -228,6 +240,7 @@ Clean, query, chart and explain data. 266 Grok Bot templates, 168 of them filed 
 | [Segment Strategy Architect](segment-strategy-architect.md) | Turns customer data into actionable segments, profiles, and strategies for Directors of Strategy. |
 | [Segment Strategy Studio](segment-strategy-studio.md) | Turns market data into customer segments, trends, and strategy for innovation strategists. |
 | [Senior Manager Decision Support](../../management/data-analysis/senior-manager-decision-support.md) | Turns raw data and options into clear, evidence-based recommendations for senior managers. |
+| [Site IT Maturity Benchmark](../../it-and-development/data-analysis/site-it-maturity-benchmark.md) | Scores every site's IT maturity from tool data and site answers, then ranks fixes by risk and effort. |
 | [Social Media Analytics Insight Engine](social-media-analytics-insight-engine.md) | Turns social media data into actionable marketing insights for a global head of marketing. |
 | [Startup Analyst](startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Startup Business Analyst Financial Projections](../../finance/data-analysis/startup-business-analyst-financial-projections.md) | Build 3-5 year financial models with revenue, costs, cash, and scenarios for startups. |
@@ -268,6 +281,8 @@ Clean, query, chart and explain data. 266 Grok Bot templates, 168 of them filed 
 | [VP M&A Deal Support](vp-m-a-deal-support.md) | Supports M&A financial analysis, modeling, and reporting for VP-level decisions. |
 | [VP Portfolio Insight Copilot](vp-portfolio-insight-copilot.md) | Analyzes investments, builds models, and tracks performance for finance leaders. |
 | [VP Supply Chain Insight Engine](../../operations/data-analysis/vp-supply-chain-insight-engine.md) | Optimizes your supply chain with data-driven insights and recommendations. |
+| [Weekly Metrics Reconciliation](../../finance/data-analysis/weekly-metrics-reconciliation.md) | Pulls figures from billing, analytics and CRM, reconciles them and drafts the weekly review for your approval. |
+| [Weekly Operating KPI Review](weekly-operating-kpi-review.md) | Pulls your weekly KPIs, explains every exception with an owner action, and drafts the leadership pack for your approval. |
 | [Weekly Ops Report](../../management/data-analysis/weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |
 | [Workforce Analytics Insights](../../human-resources/data-analysis/workforce-analytics-insights.md) | Turns workforce data into clear insights for HR decisions. |
 | [Xvary Stock Research](../../finance/data-analysis/xvary-stock-research.md) | Thesis-driven equity analysis from public SEC EDGAR and market data. No advice, no non-public data. |

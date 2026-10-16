@@ -1,11 +1,13 @@
 # Knowledge Management templates for Insurance
 
-Notes, documents, PDFs and knowledge bases kept in order. 7 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 9 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Claim Evidence Timeline](claim-evidence-timeline.md) | Builds an adjuster-ready claim chronology where every event links to its source passage. |
+| [Claims Document Version Tracker](claims-document-version-tracker.md) | Builds an attributed version history of every claim document and flags unexplained changes for the adjuster. |
 | [Document Data Extractor](../../it-and-development/knowledge-management/document-data-extractor.md) | Turns PDFs, Office files, emails, HTML and images into structured, metadata-rich elements and chunks. |
 | [Document Digitization Assistant](../../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
 | [Insurance Product Knowledge Manager](../../management/knowledge-management/insurance-product-knowledge-manager.md) | Keeps insurance agency managers and their agents product-smart and ready to advise. |

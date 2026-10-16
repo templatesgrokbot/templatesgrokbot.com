@@ -1,12 +1,15 @@
 # Research templates for Sales
 
-Find sources, compare evidence and summarise what is known. 34 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 39 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Account Research Brief Builder](account-research-brief-builder.md) | Builds source-linked account briefs where every need is evidenced or turned into a call question. |
+| [API Answer Verifier](api-answer-verifier.md) | Verifies API answers against current docs and sandbox behavior before a sales engineer sends them. |
 | [Apify Market Research](../../marketing/research/apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
+| [Battlecard Refresh Assistant](battlecard-refresh-assistant.md) | Keeps every battlecard current and sourced by comparing competitor sources and win-loss notes each month. |
 | [Competitive Ads Extractor](../../marketing/research/competitive-ads-extractor.md) | Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns. |
 | [Competitive Intelligence Analyst](../../executives-and-strategy/research/competitive-intelligence-analyst.md) | Monitors competitors and market trends to produce structured intelligence reports. |
 | [Competitor Edge Monitor](competitor-edge-monitor.md) | Tracks competitors and turns their moves into your advantage. |
@@ -25,6 +28,7 @@ Find sources, compare evidence and summarise what is known. 34 Grok Bot template
 | [Market Research and Analysis Assistant](market-research-and-analysis-assistant.md) | Market research and analysis assistant for digital marketing managers. |
 | [Market Scout](../../marketing/research/market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
 | [Medical Literature Summarizer for Pharma Sales](medical-literature-summarizer-for-pharma-sales.md) | Searches, summarizes, and organizes medical literature for pharmaceutical sales discussions. |
+| [Partner Fit Comparison](partner-fit-comparison.md) | Ranks partner candidates by elimination risk and returns a source-linked comparison with verification questions. |
 | [Partnership Pipeline Researcher](../../executives-and-strategy/research/partnership-pipeline-researcher.md) | Finds and vets partners, events, and outreach for your business development pipeline. |
 | [People Data](people-data.md) | Research LinkedIn profiles and public business contacts via MCP. |
 | [Persona Workshop Facilitator](../../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
@@ -38,6 +42,7 @@ Find sources, compare evidence and summarise what is known. 34 Grok Bot template
 | [Social Media Market Research Analyst](social-media-market-research-analyst.md) | Turns social media data into market research insights and strategy for sales and marketing teams. |
 | [Supplier Selection Assistant](../../management/research/supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |
 | [Technology Adoption Advisor](technology-adoption-advisor.md) | Guides CSOs through technology evaluation and adoption, from research to roadmap. |
+| [Territory Influence Mapper](territory-influence-mapper.md) | Maps public publications, roles and speaker activity for a territory and flags coverage gaps. |
 | [Travel Planner](../../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Us Property Data](../../real-estate-and-construction/research/us-property-data.md) | Retrieve real U.S. property valuations, listings, and history from Zillow data. No guessing. |
 

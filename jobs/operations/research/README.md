@@ -1,6 +1,6 @@
 # Research templates for Operations
 
-Find sources, compare evidence and summarise what is known. 85 Grok Bot templates, 28 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 93 Grok Bot templates, 35 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,7 +8,9 @@ Find sources, compare evidence and summarise what is known. 85 Grok Bot template
 |---|---|
 | [Apple Notes Search](apple-notes-search.md) | Semantic + keyword search and connection-discovery across your own Apple Notes. |
 | [Axiom](../../executives-and-strategy/research/axiom.md) | Audit hidden assumptions in any decision, rank them by risk, and rebuild conclusions from verified premises. |
+| [Binding Ruling Classification Assistant](binding-ruling-classification-assistant.md) | Finds current binding rulings and past entries for similar goods and suggests a classification code for your approval. |
 | [Brightdata Local Search](../../science-and-research/research/brightdata-local-search.md) | Run local web searches via Bright Data SERP API with query expansion and reranking. |
+| [Carrier Damage Claim Assistant](carrier-damage-claim-assistant.md) | Turns damage reports into carrier claims or packaging design fixes, with your approval. |
 | [Case Brief Organizer for Litigators](../../legal/research/case-brief-organizer-for-litigators.md) | Summarizes, analyzes, and organizes case law for legal research and client support. |
 | [Case Law Research Assistant](../../legal/research/case-law-research-assistant.md) | Find, analyze, and organize case law for your legal research and memos. |
 | [Compliance Docket Analyst](../../legal/research/compliance-docket-analyst.md) | Regulatory filing assistant for compliance analysts: research, draft, validate, track, and submit compliant documents. |
@@ -51,6 +53,7 @@ Find sources, compare evidence and summarise what is known. 85 Grok Bot template
 | [Logistics Tech Stack Optimizer](logistics-tech-stack-optimizer.md) | Researches, integrates, and optimizes logistics technology systems end-to-end. |
 | [Market Researcher](../../marketing/research/market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
 | [Material Requirement Analyst](../../real-estate-and-construction/research/material-requirement-analyst.md) | Material analysis, cost, availability, compliance, and logistics for construction contractors. |
+| [Material Substitution Impact Checker](../../real-estate-and-construction/research/material-substitution-impact-checker.md) | Finds the cheapest, fastest substitute that still meets every hard requirement, then waits for your approval. |
 | [Maxia](maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
 | [Mdr 745 Specialist](mdr-745-specialist.md) | Guides medical device manufacturers through EU MDR 2017/745 compliance, from classification to post-market surveillance. |
 | [Moatmri](../../executives-and-strategy/research/moatmri.md) | Analyze AI disruption pressure across a business and produce a 90-day defensive action plan. |
@@ -60,18 +63,22 @@ Find sources, compare evidence and summarise what is known. 85 Grok Bot template
 | [Operations Risk Intel Scout](operations-risk-intel-scout.md) | Competitive intelligence for Global Heads of Operations, from market scans to risk mitigation. |
 | [Operations Tech Integration Guide](operations-tech-integration-guide.md) | Guides technology integration for operations, from evaluation to optimization. |
 | [Packaging Automation Advisor](../../product-development/research/packaging-automation-advisor.md) | Selects, optimizes, and troubleshoots packaging automation for engineers. |
+| [Parts Fitment Ordering Assistant](parts-fitment-ordering-assistant.md) | Orders the right part the first time by checking every part number against the VIN's factory build data. |
 | [Price Comparison Analyst](../../management/research/price-comparison-analyst.md) | Market research and price comparison assistant for purchasing managers. |
 | [Project Template Audit](../../it-and-development/research/project-skill-audit.md) | Audit project workflows and recommend capability updates or additions from session evidence. |
 | [Qms Audit Expert](qms-audit-expert.md) | Manages ISO 13485 audit programs, executes audits, and verifies corrective actions for medical device QMS. |
+| [Recall and Service Bulletin Check](recall-and-service-bulletin-check.md) | Checks open recalls and matching bulletins for a vehicle before repair work starts. |
 | [Regulatory Affairs Assistant](../../legal/research/regulatory-affairs-assistant.md) | Handles regulatory research, compliance tracking, reporting, audits, and training for legal assistants. |
 | [Regulatory Communication Assistant](../../legal/research/regulatory-communication-assistant.md) | Tracks, drafts, and reviews regulatory communications so compliance officers stay ahead. |
 | [Regulatory Filing Assistant](../../legal/research/regulatory-filing-assistant.md) | Prepares, checks, and tracks regulatory filings for paralegals. |
 | [Regulatory Research Assistant](../../legal/research/regulatory-research-assistant.md) | Tracks, interprets, and applies regulatory changes for compliance officers. |
 | [Regulatory Update Analyst](../../legal/research/regulatory-update-analyst.md) | Tracks regulatory changes, assesses impacts, and prepares compliance reports and training. |
+| [Repair Estimate Builder](repair-estimate-builder.md) | Builds a complete repair estimate from the procedure and flags missing parts before the customer sees it. |
 | [Research Coordinator](../../science-and-research/research/research-coordinator.md) | Plans and coordinates complex research tasks across multiple specialist researchers. |
 | [Research Operations Orchestrator](research-operations-orchestrator.md) | Plans, funds, scopes and synthesizes enterprise research across clinical, finance, market and product workstreams. |
 | [Research Orchestrator](../../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
 | [Screen Adverse Media](screen-adverse-media.md) | Screen people or organisations for adverse media, PEP status, and sanctions exposure. |
+| [Service Standard Evidence Reviewer](service-standard-evidence-reviewer.md) | Samples real work each month and reports which service standards were met, missed or unknown. |
 | [SRED Project Organizer](sred-project-organizer.md) | Organize prior-year work summaries into SRED-formatted project documents in Notion. |
 | [Supplier Dispute Resolution Framework Builder](../../management/research/supplier-dispute-resolution-framework-builder.md) | Builds and maintains a structured supplier dispute resolution framework from process design to training and feedback. |
 | [Supplier Diversification Planner](../../management/research/supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
@@ -79,6 +86,7 @@ Find sources, compare evidence and summarise what is known. 85 Grok Bot template
 | [Supplier Innovation Program Assistant](../../management/research/supplier-innovation-program-assistant.md) | Finds, evaluates, and nurtures supplier innovation with structured programs and tracking. |
 | [Supplier Relationship Builder](../../management/research/supplier-relationship-builder.md) | Builds and strengthens supplier relationships through structured communication, engagement, and partnership strategies. |
 | [Supplier Research and Analysis Assistant](supplier-research-and-analysis-assistant.md) | Finds, vets, and manages suppliers with data-backed analysis and clear recommendations. |
+| [Supplier Risk Monitor](supplier-risk-monitor.md) | Scans daily for supplier risk signals and drafts exposure notes for your approval. |
 | [Supplier Selection Assistant](../../management/research/supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |
 | [Supply Chain Collaboration Planner](supply-chain-collaboration-planner.md) | Finds and vets suppliers, drafts partner communications, and plans collaborative supply chain improvements. |
 | [Sustainable Procurement Advisor](sustainable-procurement-advisor.md) | Guides sustainable procurement decisions from supplier evaluation to circular economy implementation. |

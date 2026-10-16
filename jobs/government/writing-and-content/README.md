@@ -1,32 +1,43 @@
 # Writing & Content templates for Government
 
-Plan, write and edit articles, copy and documentation. 36 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 50 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Compliance Communication Planner](../../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
+| [Court Report Preparation Assistant](court-report-preparation-assistant.md) | Builds a court report where every statement traces to a source. |
 | [Crisis Communication Content Creator](../../pr-and-communications/writing-and-content/crisis-communication-content-creator.md) | Crisis content creator for communication managers, drafting and coordinating all crisis messaging. |
 | [Crisis Communication Planner](../../pr-and-communications/writing-and-content/crisis-communication-planner.md) | Prepares crisis communication plans, messages, and training for communication managers. |
 | [Employee Relations Policy Assistant](../../human-resources/writing-and-content/employee-relations-policy-assistant.md) | Develops, reviews, and communicates employee relations policies with research, drafting, and stakeholder support. |
 | [Employment Contract Templates](../../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
+| [EMS Incident Report Assistant](../../healthcare/writing-and-content/ems-incident-report-assistant.md) | Drafts factual EMS incident reports and tracks follow-up tasks for paramedics. |
 | [Environmental Policy Development Assistant](../../science-and-research/writing-and-content/environmental-policy-development-assistant.md) | Develops and refines environmental policy from research to public outreach. |
 | [Executive Communication Assistant](../../executives-and-strategy/writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
 | [Executive Decision Memo](../../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
 | [Executive Speech Writer](../../executives-and-strategy/writing-and-content/executive-speech-writer.md) | Crafts and polishes executive speeches from outline to delivery. |
+| [Field Inspection Daily Report](../../real-estate-and-construction/writing-and-content/field-inspection-daily-report.md) | Drafts your daily inspection report, checks tests against spec, and carries open nonconformances forward. |
+| [Grant Report Assembly Assistant](../../finance/writing-and-content/grant-report-assembly-assistant.md) | Drafts grant reports where every claimed amount is supported and within award terms. |
+| [Health Material Readability Reviewer](health-material-readability-reviewer.md) | Scores health materials for reading level, checks claims against current guidance, and drafts plain-language and translated versions for your… |
 | [HR Policy Review and Development Assistant](../../human-resources/writing-and-content/hr-policy-review-and-development-assistant.md) | Drafts, reviews, and updates HR policies with compliance and best-practice guidance. |
 | [Internal Communication Planner](../../pr-and-communications/writing-and-content/internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
 | [IT Policy Development Assistant](../../it-and-development/writing-and-content/it-policy-development-assistant.md) | Develops, reviews, and maintains IT policies from research to implementation. |
+| [Legislative Draft Consistency Check](../../legal/writing-and-content/legislative-draft-consistency-check.md) | Checks each new bill draft for broken references, undefined terms and conflicts with pending bills. |
 | [Legislative Drafting Assistant](legislative-drafting-assistant.md) | Drafts, reviews, and analyzes legislation for policy makers. |
 | [Media Crisis Drill Builder](../../pr-and-communications/writing-and-content/media-crisis-drill-builder.md) | Plans, tests, and updates crisis communication for media relations specialists. |
+| [Planning Board Staff Report Assembly](planning-board-staff-report-assembly.md) | Drafts complete planning board staff reports with every required finding tied to evidence, and stops when notice is late. |
+| [Policy Language Inclusion Audit](../../human-resources/writing-and-content/policy-language-inclusion-audit.md) | Scans policies for exclusionary wording and drafts meaning-preserving edits for your approval. |
 | [Policy Update Communications Assistant](../../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
 | [PR Communications Manager](../../pr-and-communications/writing-and-content/pr-communications-manager.md) | Drafts press releases, media pitches, and crisis statements for your approval before anything goes out. |
 | [PR Content Creator](../../pr-and-communications/writing-and-content/pr-content-creator.md) | Drafts and plans all your PR content, from press releases to crisis messaging. |
+| [Pro Se Filing Defect Review](../../legal/writing-and-content/pro-se-filing-defect-review.md) | Reviews self-represented filings, lists fixable defects, and drafts plain-language notices for court staff approval. |
 | [Process Documentation Assistant](../../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [Regulatory Training Material Developer](regulatory-training-material-developer.md) | Builds regulatory training materials from modules to assessments, grounded in current standards. |
 | [Safety Training Developer](../../healthcare/writing-and-content/safety-training-developer.md) | Develops, updates, and localizes workplace safety training materials and assessments. |
 | [SOP Writer](../../operations/writing-and-content/sop-writer.md) | Turns process walkthroughs into clean, consistent standard operating procedures. |
+| [Speech Q&A Preparation](../../pr-and-communications/writing-and-content/speech-q-a-preparation.md) | Builds a checked Q&A brief of likely and hostile questions for an upcoming speech. |
+| [Spokesperson Q&A Briefing](../../pr-and-communications/writing-and-content/spokesperson-q-a-briefing.md) | Builds a fact-checked briefing of hard questions and tested answers for an upcoming interview. |
 | [Stakeholder Communication Coordinator](../../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
 | [Stakeholder Communication Director](../../executives-and-strategy/writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
 | [Stakeholder Engagement Strategist](../../science-and-research/writing-and-content/stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
@@ -39,6 +50,9 @@ Plan, write and edit articles, copy and documentation. 36 Grok Bot templates, 3 
 | [Training Content Development Assistant](../../human-resources/writing-and-content/training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
 | [Training Material Creation Assistant](../../operations/writing-and-content/training-material-creation-assistant.md) | Creates and manages all training materials for operations teams from research to assessment. |
 | [Training Material Creator](../../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
+| [Visa Rule Change Rollout](visa-rule-change-rollout.md) | Turns a new visa instruction into consistent, tested updates to forms, web pages and staff guidance. |
+| [Warrant Application Packet Builder](warrant-application-packet-builder.md) | Compiles sourced, consistent facts into a court-format warrant packet for officer review. |
+| [Weather Message Consistency Checker](weather-message-consistency-checker.md) | Checks public weather messages against current guidance and drafts corrections for approval. |
 | [Website Content Manager](../../it-and-development/writing-and-content/website-content-manager.md) | Manages your website's content lifecycle from planning to promotion and analytics. |
 | [Weekly Status Reporter](../../management/writing-and-content/weekly-status-reporter.md) | Turns your week's notes into a clean status report for the audience you name. |
 | [Writing Clearly And Concisely](../../writers/writing-and-content/writing-clearly-and-concisely.md) | Edit prose for clarity and concision using Strunk's rules and avoid AI writing patterns. |

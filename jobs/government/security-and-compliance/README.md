@@ -1,6 +1,6 @@
 # Security & Compliance templates for Government
 
-Authorised security testing, audits and regulatory work. 174 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 243 Grok Bot templates, 37 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,28 +8,42 @@ Authorised security testing, audits and regulatory work. 174 Grok Bot templates,
 |---|---|
 | [007](../../it-and-development/security-and-compliance/007.md) | Security audit, hardening, threat modeling, and incident response for any project. |
 | [Access Review Coordinator](../../it-and-development/security-and-compliance/access-review-coordinator.md) | Runs periodic access reviews across your identity providers and reports who still has access. |
+| [Access Review Evidence Assistant](../../it-and-development/security-and-compliance/access-review-evidence-assistant.md) | Reconciles access against role rules, tracks owner decisions, and verifies remediation in the directory. |
 | [Accessibility Compliance Auditor](../../product-development/security-and-compliance/accessibility-compliance-auditor.md) | Audits and improves web accessibility for UX designers, from code review to compliance reports. |
 | [Accessibility Tester](../../it-and-development/security-and-compliance/accessibility-tester.md) | Test web and mobile apps for WCAG compliance and assistive technology support. |
 | [Accessibility Testing Guide](../../it-and-development/security-and-compliance/accessibility-testing-guide.md) | Guides QA managers through accessibility testing, from tools to audits and reporting. |
+| [Admin Access Register Builder](../../it-and-development/security-and-compliance/admin-access-register-builder.md) | Builds a register of who holds admin rights on each system, with backup admins and review dates. |
 | [Ai Ethics Advisor](../../it-and-development/security-and-compliance/ai-ethics-advisor.md) | Audits AI systems for bias, fairness, and regulatory compliance before deployment. |
 | [Akf Trust Metadata](../../it-and-development/security-and-compliance/akf-trust-metadata.md) | Stamp, inspect, and audit AI file provenance and trust metadata for compliance. |
+| [AML Alert Review Assistant](../../finance/security-and-compliance/aml-alert-review-assistant.md) | Reviews AML alerts, tests typologies, drafts SAR narratives, and queues filings for approval. |
 | [AML Compliance Assistant](../../legal/security-and-compliance/aml-compliance-assistant.md) | Assists compliance officers with AML risk assessment, monitoring, reporting, and regulatory compliance. |
 | [Analyst Risk Mitigation Companion](../../it-and-development/security-and-compliance/analyst-risk-mitigation-companion.md) | Guides cybersecurity analysts through risk assessment, mitigation, and compliance tasks. |
 | [Api Security Audit](../../it-and-development/security-and-compliance/api-security-audit.md) | Audits REST APIs for security vulnerabilities and compliance gaps. |
+| [Audit Committee Finding Tracker](../../finance/security-and-compliance/audit-committee-finding-tracker.md) | Tracks audit findings to evidence-backed closure and flags overdue or repeatedly moved dates for the committee. |
+| [Audit Finding Write-up Assistant](../../finance/security-and-compliance/audit-finding-write-up-assistant.md) | Turns control test results into evidence-backed, consistently-rated draft audit findings for your report. |
 | [Audit Logging Planner](../../it-and-development/security-and-compliance/audit-logging-planner.md) | Designs centralized audit logging, retention, and SIEM monitoring for compliance and security. |
 | [Audit Preparation Assistant](../../operations/security-and-compliance/audit-preparation-assistant.md) | Prepares audits for quality control inspectors by organizing documents, analyzing data, and generating reports. |
+| [Audit Program Drafter](../../finance/security-and-compliance/audit-program-drafter.md) | Turns an audit scope and framework into a complete, approved program of risks, controls and tests. |
 | [Audit Support Assistant](../../finance/security-and-compliance/audit-support-assistant.md) | Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports. |
 | [AWS Audit Logging](../../it-and-development/security-and-compliance/aws-audit-logging.md) | Sets up and monitors AWS CloudTrail audit logging across your accounts. |
 | [Aws Compliance Checker](../../it-and-development/security-and-compliance/aws-compliance-checker.md) | Automated compliance checks against CIS, PCI-DSS, HIPAA, and SOC 2 for AWS. |
 | [Aws Iam Best Practices](../../it-and-development/security-and-compliance/aws-iam-best-practices.md) | Audit and harden AWS IAM policies to enforce least privilege and security best practices. |
 | [Aws Security Audit](../../it-and-development/security-and-compliance/aws-security-audit.md) | Audit AWS security posture for misconfigurations and vulnerabilities. Report findings only. |
+| [Board Compliance Report Drafter](../../legal/security-and-compliance/board-compliance-report-drafter.md) | Drafts the quarterly board compliance report from source systems and waits for the CCO's approval. |
+| [Cable Distribution Checker](cable-distribution-checker.md) | Checks a report's distribution list against markings, topic rules and the current roster before it is sent. |
+| [Campaign Finance Filing Assistant](campaign-finance-filing-assistant.md) | Checks contributions and expenses against campaign finance rules and drafts a clean periodic report for the treasurer. |
+| [Change Management Sample Testing](../../finance/security-and-compliance/change-management-sample-testing.md) | Draws and tests a sample of changes, records exceptions, and drafts the audit conclusion for your approval. |
 | [CIS Benchmark Auditor](../../it-and-development/security-and-compliance/cis-benchmark-auditor.md) | Audits systems against CIS benchmarks and drafts remediation steps for your approval. |
+| [Claim Payment Payee Verifier](../../insurance/security-and-compliance/claim-payment-payee-verifier.md) | Validates approved claim payments against verified payee data and blocks any mismatch before money moves. |
 | [Cloud Security Advisor](../../it-and-development/security-and-compliance/cloud-security-advisor.md) | Cloud security advisor for audits, configurations, compliance, and incident readiness. No Grok. |
 | [Compliance and Regulatory Adherence Assistant](../../executives-and-strategy/security-and-compliance/compliance-and-regulatory-adherence-assistant.md) | Prepares audits, analyzes regulations, and drafts compliance materials for your organization. |
 | [Compliance and Regulatory Assistant](../../management/security-and-compliance/compliance-and-regulatory-assistant.md) | Guides project managers through compliance research, documentation, audits, training, and regulatory updates. |
 | [Compliance and Regulatory Updates Assistant](../../operations/security-and-compliance/compliance-and-regulatory-updates-assistant.md) | Tracks regulatory changes and keeps your compliance program current and audit-ready. |
 | [Compliance Audit Preparation Assistant](../../legal/security-and-compliance/compliance-audit-preparation-assistant.md) | Prepares compliance audits by organizing documents, assessing risks, and drafting required materials. |
 | [Compliance Auditor](../../it-and-development/security-and-compliance/compliance-auditor.md) | Audits compliance across GDPR, HIPAA, SOC 2, PCI DSS, and ISO frameworks. |
+| [Compliance Breach Investigation](../../legal/security-and-compliance/compliance-breach-investigation.md) | Runs a sourced breach investigation from allegation to closed case with tracked actions. |
+| [Compliance Control Evidence](../../it-and-development/security-and-compliance/compliance-control-evidence.md) | Keeps every compliance control's evidence collected, tested and audit-ready before the audit window. |
+| [Compliance Control Test Assistant](../../finance/security-and-compliance/compliance-control-test-assistant.md) | Selects risk-based control samples, tests evidence, and drafts findings for auditor approval. |
 | [Compliance Documentation Assistant](../../writers/security-and-compliance/compliance-documentation-assistant.md) | Drafts, reviews, updates, and audits compliance documents for technical writers. |
 | [Compliance Intel for RA Specialists](compliance-intel-for-ra-specialists.md) | Regulatory research and compliance support for Regulatory Affairs Specialists. |
 | [Compliance Monitoring Analyst](../../it-and-development/security-and-compliance/compliance-monitoring-analyst.md) | Monitors compliance, prepares audits, and automates reporting for systems analysts. |
@@ -41,8 +55,14 @@ Authorised security testing, audits and regulatory work. 174 Grok Bot templates,
 | [Compliance Training Manager](../../education/security-and-compliance/compliance-training-manager.md) | Manages compliance training from needs assessment to certification and reporting. |
 | [Compliance Training Oversight Assistant](../../human-resources/security-and-compliance/compliance-training-oversight-assistant.md) | Builds, tracks, and improves compliance training programs for HR specialists. |
 | [Compliance Training Update Assistant](../../human-resources/security-and-compliance/compliance-training-update-assistant.md) | Keeps compliance training current, engaging, and tailored to your organization's needs. |
+| [Condition of Approval Tracker](condition-of-approval-tracker.md) | Tracks approval conditions, finds compliance evidence, and drafts owner notices for your approval. |
+| [Consent Preference Sync](../../legal/security-and-compliance/consent-preference-sync.md) | Compares consent records across your systems, drafts corrections, and reports what still disagrees. |
+| [Contract Approval Gatekeeper](../../legal/security-and-compliance/contract-approval-gatekeeper.md) | Checks a large contract against policy and gives the executive a plain one-page summary before signing. |
 | [Contract Termination Guidance](../../legal/security-and-compliance/contract-termination-guidance.md) | Guides contract administrators through termination processes with clear steps, documents, and risk checks. |
+| [Control Testing Evidence Assistant](../../finance/security-and-compliance/control-testing-evidence-assistant.md) | Tests key controls on schedule, collects evidence, records exceptions, and retests after remediation. |
+| [Controlled Document Reference Checker](../../operations/security-and-compliance/controlled-document-reference-checker.md) | Checks controlled documents for stale references and invalid approvals, then drafts corrections for your review. |
 | [Corrective Action Planning Assistant](../../operations/security-and-compliance/corrective-action-planning-assistant.md) | Turns inspection data into prioritized, compliant corrective action plans with progress tracking. |
+| [Court Transcript Format Checker](../../legal/security-and-compliance/court-transcript-format-checker.md) | Checks a transcript against the target court's current format rules and lists every mismatch with its page. |
 | [Cyber Threat Intelligence Assistant](../../it-and-development/security-and-compliance/cyber-threat-intelligence-assistant.md) | Profiles threat actors, analyzes malware, assesses risks, and drafts security reports for cybersecurity analysts. |
 | [Cybersecurity Advisory Assistant](../../it-and-development/security-and-compliance/cybersecurity-advisory-assistant.md) | Cybersecurity advisor for IT managers: assessments, policies, training, incident plans, and monitoring. |
 | [Cybersecurity Assessment Guide](../../executives-and-strategy/security-and-compliance/cybersecurity-assessment-guide.md) | Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response. |
@@ -54,9 +74,20 @@ Authorised security testing, audits and regulatory work. 174 Grok Bot templates,
 | [Data Governance Strategist](../../executives-and-strategy/security-and-compliance/data-governance-strategist.md) | Data governance assistant for CDOs: classify, protect, and manage data assets. |
 | [Data Management Strategy Advisor](../../executives-and-strategy/security-and-compliance/data-management-strategy-advisor.md) | Guides CIOs through data management strategy, from classification to compliance. |
 | [Data Privacy Compliance](../../legal/security-and-compliance/data-privacy-compliance.md) | Guides data privacy compliance for GDPR, CCPA, HIPAA, and other regulations. |
+| [Data Protection Impact Assessment Coordinator](../../legal/security-and-compliance/data-protection-impact-assessment-coordinator.md) | Screens new projects for assessment need, drafts the DPIA and tracks it to sign-off. |
+| [Data Request Privacy Review](../../legal/security-and-compliance/data-request-privacy-review.md) | Checks each data extract against its stated purpose and proposes masking so no one can be identified. |
+| [Data Residency Compliance Check](../../it-and-development/security-and-compliance/data-residency-compliance-check.md) | Confirms every system's data, backups and copies sit in allowed regions, and verifies fixes from configuration. |
+| [Data Retention Deletion Scheduler](../../it-and-development/security-and-compliance/data-retention-deletion-scheduler.md) | Finds datasets past their retention limit, drafts deletion requests, and verifies deletion with proof. |
+| [Data Retention Purge Controller](../../it-and-development/security-and-compliance/data-retention-purge-controller.md) | Deletes records on schedule, protects held data, and records every purge with verified counts. |
+| [Data Sharing Agreement Compliance Checker](../../science-and-research/security-and-compliance/data-sharing-agreement-compliance-checker.md) | Checks analysis plans and outputs against a data sharing agreement before release. |
+| [Data Subject Request Fulfillment](../../legal/security-and-compliance/data-subject-request-fulfillment.md) | Logs, tracks and drafts lawful responses to data subject requests, and never sends without your approval. |
 | [Database Compliance Assistant](../../it-and-development/security-and-compliance/database-compliance-assistant.md) | Guides database administrators through compliance and regulatory requirements. |
+| [Development Application Code Review](development-application-code-review.md) | Checks development applications against zoning standards and drafts compliance tables and comment letters for planner sign-off. |
 | [Digital Forensics](../../it-and-development/security-and-compliance/digital-forensics.md) | Authorized digital forensics: memory, disk, PCAP, and artifact triage for incident response. |
+| [Diplomatic Shipment Clearance Tracker](diplomatic-shipment-clearance-tracker.md) | Tracks diplomatic shipments and vehicles from bill of lading to duty-free clearance, with every paper checked and every step recorded. |
 | [EHS Safety Assistant](../../operations/security-and-compliance/ehs-safety-assistant.md) | Handles EHS hazard checks, training, compliance, and incident analysis for safety engineers. |
+| [Embassy Warden Roster](embassy-warden-roster.md) | Keeps warden rosters and citizen contact lists current, with tested coverage in every area. |
+| [Emergency Order Renewal Review](emergency-order-renewal-review.md) | Reviews each active emergency order against its own criteria before its end date and drafts a recommendation for officials. |
 | [Emergency Response Planner](../../operations/security-and-compliance/emergency-response-planner.md) | Emergency response planning assistant for safety engineers, from risk assessment to post-emergency review. |
 | [Encryption and Data Protection Advisor](../../it-and-development/security-and-compliance/encryption-and-data-protection-advisor.md) | Guides cybersecurity analysts through encryption and data protection decisions and implementations. |
 | [Encryption Strategy Developer](../../it-and-development/security-and-compliance/encryption-strategy-developer.md) | Develops encryption strategies from standards research to training programs. |
@@ -65,20 +96,30 @@ Authorised security testing, audits and regulatory work. 174 Grok Bot templates,
 | [Ethical Compliance Assessment Assistant](../../legal/security-and-compliance/ethical-compliance-assessment-assistant.md) | Assesses ethical compliance, manages risks, and documents actions for compliance officers. |
 | [Ethical Compliance Guidance Assistant](../../science-and-research/security-and-compliance/ethical-compliance-guidance-assistant.md) | Guides ethical compliance in research with guidelines, training, audits, and reporting. |
 | [Ethical Compliance Monitor](../../legal/security-and-compliance/ethical-compliance-monitor.md) | Monitors ethical compliance, reviews policies, assesses risks, and prepares reports for compliance analysts. |
+| [Ethics Disclosure and Gift Compliance](ethics-disclosure-and-gift-compliance.md) | Collects gifts, trips and outside income, checks them against ethics rules, and drafts your disclosure before the deadline. |
+| [Ethics Report Case Tracker](../../human-resources/security-and-compliance/ethics-report-case-tracker.md) | Logs, triages and tracks every ethics report to an approved, conflict-free outcome. |
 | [EU AI Act Compliance Mapper](../../legal/security-and-compliance/eu-ai-act-compliance-mapper.md) | Classifies AI systems under the EU AI Act and maps the conformity and role obligations that follow. |
 | [Executive Risk Management Assistant](../../executives-and-strategy/security-and-compliance/executive-risk-management-assistant.md) | Assesses, plans, monitors, and reports risks for executive decision-making. |
 | [Fda Food Safety Auditor](../../operations/security-and-compliance/fda-food-safety-auditor.md) | Audits food safety plans against FSMA, HACCP, and PCQI standards. |
 | [Fda Medtech Compliance Auditor](../../legal/security-and-compliance/fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |
 | [FedRAMP Compliance Tracker](../../it-and-development/security-and-compliance/fedramp-compliance-tracker.md) | Tracks FedRAMP control implementation, POA&M milestones, and continuous monitoring evidence for a federal cloud service. |
 | [Finance Compliance Checklist Builder](../../finance/security-and-compliance/finance-compliance-checklist-builder.md) | Monitors regulatory changes, builds checklists, reviews policies, and prepares compliance reports and audits for finance teams. |
+| [Fire Protection Deficiency Follow-up](../../real-estate-and-construction/security-and-compliance/fire-protection-deficiency-follow-up.md) | Turns fire inspection deficiency lists into approved, evidence-backed closures on risk-based dates. |
 | [Gdpr Data Handling](../../it-and-development/security-and-compliance/gdpr-data-handling.md) | Guide GDPR-compliant data processing, consent, and subject requests. |
 | [Gdpr Dsgvo Expert](../../legal/security-and-compliance/gdpr-dsgvo-expert.md) | Advises on GDPR/DSGVO compliance, conducts privacy impact assessments, and audits data protection practices. |
+| [Gift and Hospitality Register](gift-and-hospitality-register.md) | Keeps your gift and hospitality register complete and flags items that need approval. |
+| [Gifts and Conflicts Register Review](../../legal/security-and-compliance/gifts-and-conflicts-register-review.md) | Checks every declared gift and conflict against real vendors and deals, flags overlaps, and clears or refers each one. |
 | [Global Regulatory Strategy Assistant](global-regulatory-strategy-assistant.md) | Global regulatory strategy assistant for Regulatory Affairs Specialists. |
+| [Government Data Publication Preflight](government-data-publication-preflight.md) | Validates open-data releases against the publication schema and stops on any disclosure risk. |
+| [Government Records Retention Review](government-records-retention-review.md) | Finds records missing classification evidence and proposes source-backed retention schedules for a records officer to decide. |
+| [Grant Proposal Compliance Checker](../../science-and-research/security-and-compliance/grant-proposal-compliance-checker.md) | Reads a funding call, checks your proposal package against every formal rule, and lists what would sink it. |
+| [Hardening Benchmark Drift Fixer](../../it-and-development/security-and-compliance/hardening-benchmark-drift-fixer.md) | Scans systems against a security benchmark, groups new failures by cause, and drafts fixes for approval. |
 | [Hazard Identification Assistant](../../operations/security-and-compliance/hazard-identification-assistant.md) | Turns workplace data and documents into hazard identifications, risk assessments, and safety actions. |
 | [Hazardous Material Management Assistant](../../operations/security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
 | [Health and Safety Policy Assistant](../../healthcare/security-and-compliance/health-and-safety-policy-assistant.md) | Develops, reviews, and improves health and safety policies for your workplace. |
 | [HIPAA Compliance Tracker](../../it-and-development/security-and-compliance/hipaa-compliance-tracker.md) | Tracks HIPAA security, privacy and breach duties for systems handling ePHI. |
 | [Incident Investigation Support Specialist](../../healthcare/security-and-compliance/incident-investigation-support-specialist.md) | Streamlines incident investigations from witness statements to final reports and policy. |
+| [Incident Report Completeness Checker](incident-report-completeness-checker.md) | Checks a police report against offense elements, CAD times, evidence and body camera logs before sign-off. |
 | [Incident Reporting Navigator](../../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
 | [Incident Response Analyst Playbook](../../it-and-development/security-and-compliance/incident-response-analyst-playbook.md) | Guides cybersecurity analysts through every step of incident response, from classification to post-mortem. |
 | [Incident Response Planning Assistant](../../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
@@ -86,45 +127,65 @@ Authorised security testing, audits and regulatory work. 174 Grok Bot templates,
 | [InfoSec Risk Register Bot](../../it-and-development/security-and-compliance/infosec-risk-register-bot.md) | Automates risk assessment workflows for information security analysts. |
 | [Infrastructure Audit Planner](../../it-and-development/security-and-compliance/infrastructure-audit-planner.md) | Conducts comprehensive IT infrastructure audits and delivers actionable reports. |
 | [Intent Versus Implementation Audit](../../it-and-development/security-and-compliance/intent-versus-implementation-audit.md) | Finds where a system's documented intent and its actual code enforcement disagree. |
+| [Internal Audit Schedule Assistant](../../operations/security-and-compliance/internal-audit-schedule-assistant.md) | Plans risk-based internal audits, tracks findings, and closes them only with evidence. |
 | [International Procurement Compliance Guide](../../operations/security-and-compliance/international-procurement-compliance-guide.md) | Guides procurement specialists through international guidelines, compliance, and supplier management. |
 | [IR Plan Builder for Security Teams](../../it-and-development/security-and-compliance/ir-plan-builder-for-security-teams.md) | Builds and maintains your incident response plan with threat analysis, training, and testing support. |
 | [IT Compliance and Governance Assistant](../../it-and-development/security-and-compliance/it-compliance-and-governance-assistant.md) | Tracks regulatory compliance across IT, drafts policies, and prepares audits for global IT leadership. |
 | [IT Compliance Assistant](../../it-and-development/security-and-compliance/it-compliance-assistant.md) | Guides IT compliance assessments, policies, monitoring, audits, and regulatory updates. |
 | [IT Governance Toolkit Builder](../../it-and-development/security-and-compliance/it-governance-toolkit-builder.md) | Builds and maintains the compliance and governance toolkit for your IT organization. |
 | [IT Policy and Compliance Assistant](../../it-and-development/security-and-compliance/it-policy-and-compliance-assistant.md) | Drafts and reviews IT policies, assessments, and plans to keep your organization compliant and secure. |
+| [IT Policy Annual Review](../../it-and-development/security-and-compliance/it-policy-annual-review.md) | Reviews each due IT policy against real configurations and frameworks, then drafts tracked changes for sign-off. |
+| [Judicial Conflict Screener](../../legal/security-and-compliance/judicial-conflict-screener.md) | Screens every party and filer on an assigned case for conflicts before the judge rules. |
 | [Labeling and Packaging Compliance Reviewer](labeling-and-packaging-compliance-reviewer.md) | Reviews product labels and packaging for regulatory compliance, accuracy, and consistency. |
 | [Legal Compliance Assistant](../../executives-and-strategy/security-and-compliance/legal-compliance-assistant.md) | Keeps your company compliant by handling policy, research, training, and reporting. |
+| [Legal Compliance Checker](../../legal/security-and-compliance/legal-compliance-checker.md) | Checks business operations, data handling, and content against privacy, contract, and regulatory rules. |
+| [Legal Compliance Register Builder](../../legal/security-and-compliance/legal-compliance-register-builder.md) | Turns compliance obligations into a register with owners, dates and evidence. |
 | [Legal Compliance Review Assistant](../../legal/security-and-compliance/legal-compliance-review-assistant.md) | Reviews legal documents and practices for compliance, drafts checklists and policies, and tracks regulatory changes. |
+| [Legal Document Anonymization](../../legal/security-and-compliance/legal-document-anonymization.md) | Redacts client identifiers from legal documents and delivers a clean, meaningful example copy. |
 | [Legal Document Review](../../legal/security-and-compliance/legal-document-review.md) | Reviews contracts and legal documents, flags risky clauses, and compares versions for attorney sign-off. |
 | [Legislative Impact Analyst](legislative-impact-analyst.md) | Analyzes legislative changes and guides compliance for regulatory affairs specialists. |
 | [Linux Server Hardening](../../it-and-development/security-and-compliance/linux-server-hardening.md) | Hardens Linux servers to CIS baselines and reports exactly what changed. |
+| [Lobbyist Meeting Log Assistant](lobbyist-meeting-log-assistant.md) | Compiles lobbyist and stakeholder meetings into a complete, disclosure-ready log for your approval. |
+| [Lockout Tagout Inspection Tracker](../../operations/security-and-compliance/lockout-tagout-inspection-tracker.md) | Keeps every lockout tagout procedure inspected within 12 months and every finding closed. |
 | [Malware Analyst](../../it-and-development/security-and-compliance/malware-analyst.md) | Defensive malware analysis: triage, static/dynamic analysis, IOC extraction, and reporting. |
 | [Network Compliance Assistant](../../it-and-development/security-and-compliance/network-compliance-assistant.md) | Keeps your network compliant with regulations through policy, audits, and reporting. |
 | [Network Policy Enforcement Assistant](../../it-and-development/security-and-compliance/network-policy-enforcement-assistant.md) | Drafts, implements, and monitors network policies for compliance and security. |
 | [Network Security Monitoring Assistant](../../it-and-development/security-and-compliance/network-security-monitoring-assistant.md) | Monitors network security by analyzing logs, detecting threats, and guiding incident response. |
 | [Occupational Health and Safety Assistant](../../operations/security-and-compliance/occupational-health-and-safety-assistant.md) | Manages occupational health and safety tasks from risk assessment to compliance and wellness programs. |
 | [Operations Risk Assessment Planner](../../operations/security-and-compliance/operations-risk-assessment-planner.md) | Identifies, analyzes, prioritizes, and plans mitigation for operational risks, from supply chain to compliance, with prepared monitoring and… |
+| [OSHA Injury Log Recordkeeping](../../operations/security-and-compliance/osha-injury-log-recordkeeping.md) | Turns each incident report into a documented recordability decision and a correct OSHA log entry within seven days. |
 | [Payroll Audit Support Assistant](../../finance/security-and-compliance/payroll-audit-support-assistant.md) | Supports payroll administrators in audit preparation, compliance checks, and corrective actions. |
 | [Payroll Compliance Guidance Assistant](../../finance/security-and-compliance/payroll-compliance-guidance-assistant.md) | Guides payroll administrators through compliance, audits, and regulatory updates. |
+| [Personal Data Breach Notification](../../legal/security-and-compliance/personal-data-breach-notification.md) | Assesses reported data breaches, tracks the 72-hour clock, and drafts regulator and individual notices for your approval. |
+| [Policy Attestation Chase](../../legal/security-and-compliance/policy-attestation-chase.md) | Chases annual policy attestations to completion and reports who is still outstanding. |
 | [Policy Compliance Drafting](../../it-and-development/security-and-compliance/policy-compliance-drafting.md) | Develops and maintains your organization's security policies, from risk assessment to incident response. |
 | [Policy Development and Review Assistant](policy-development-and-review-assistant.md) | Policy development and review assistant for regulatory affairs specialists. |
 | [Policy Development Support](../../legal/security-and-compliance/policy-development-support.md) | Develops, reviews, and manages compliant policies with data-driven support. |
+| [Policy Exception Register](../../it-and-development/security-and-compliance/policy-exception-register.md) | Logs, time-limits and reviews every policy exception with its controls verified. |
 | [Policy Rule Compliance Copilot](policy-rule-compliance-copilot.md) | Regulatory compliance review assistant for policy makers, from identifying rules to maintaining records. |
 | [Post-Market Surveillance Reporter](post-market-surveillance-reporter.md) | Post-market surveillance and reporting assistant for regulatory affairs specialists. |
 | [Powershell Security Hardening](../../it-and-development/security-and-compliance/powershell-security-hardening.md) | Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie |
+| [Prescriber Payment Reconciliation](../../finance/security-and-compliance/prescriber-payment-reconciliation.md) | Compares payment records to draft disclosure data each quarter and fixes mismatches before filing. |
+| [Processing Record Keeper](../../legal/security-and-compliance/processing-record-keeper.md) | Keeps your record of personal data processing accurate and current each review cycle. |
 | [Procurement Compliance Assistant](../../operations/security-and-compliance/procurement-compliance-assistant.md) | Keeps procurement compliant by tracking regulations, audits, reports, and vendor oversight. |
+| [Producer License Compliance Monitor](producer-license-compliance-monitor.md) | Checks every producer's license and CE status monthly and flags gaps before deadlines. |
 | [Product Compliance Verification Assistant](../../operations/security-and-compliance/product-compliance-verification-assistant.md) | Verifies product compliance across specs, materials, labeling, safety, environment, and regulations with documentation and audit support. |
 | [Production Compliance Auditor](../../operations/security-and-compliance/production-compliance-auditor.md) | Streamlines compliance monitoring, audits, training, and reporting for production coordinators. |
 | [Protected Disclosure Compass](../../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
+| [Public Health Disclosure Check](public-health-disclosure-check.md) | Checks draft public health tables for disclosure risks and prepares a suppression change log for approval. |
+| [Public Hearing Notice Compliance](public-hearing-notice-compliance.md) | Builds and checks a hearing notice package that meets every legal requirement, with proof of mailing and posting. |
+| [Public Records Request Assembly](public-records-request-assembly.md) | Searches approved repositories, deduplicates, flags protected content, and builds a review bundle for the records officer. |
 | [QC Compliance Report Builder](../../operations/security-and-compliance/qc-compliance-report-builder.md) | Monitors compliance data, generates reports, and prepares audit materials for quality control specialists. |
 | [Quality Audit Assistant](../../operations/security-and-compliance/quality-audit-assistant.md) | Quality audit assistant that analyzes data, checks compliance, and drafts reports for quality control specialists. |
 | [Read Only Auditor](../../it-and-development/security-and-compliance/read-only-auditor.md) | Audits code for security issues without making any changes. |
+| [Regulatory Change Impact Tracker](../../legal/security-and-compliance/regulatory-change-impact-tracker.md) | Scans regulators weekly and maps each relevant rule change to affected policies, controls and owners. |
 | [Regulatory Compliance Analyst](../../finance/security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
 | [Regulatory Compliance Monitor](../../operations/security-and-compliance/regulatory-compliance-monitor.md) | Tracks regulatory changes, audits compliance, and reports status for global operations. |
 | [Regulatory Compliance QA Assistant](../../it-and-development/security-and-compliance/regulatory-compliance-qa-assistant.md) | Automates regulatory compliance tasks for QA managers, from document review to audit prep. |
 | [Regulatory Document Preparation Assistant](regulatory-document-preparation-assistant.md) | Prepares, formats, reviews, and tracks regulatory documents for submission. |
 | [Regulatory Intelligence Monitor](regulatory-intelligence-monitor.md) | Monitors, analyzes, and reports regulatory changes for your industry. |
 | [Regulatory Liaison Assistant](regulatory-liaison-assistant.md) | Prepares, tracks, and communicates regulatory submissions and compliance for a Regulatory Affairs Specialist. |
+| [Regulatory Obligation Register](../../operations/security-and-compliance/regulatory-obligation-register.md) | Turns new regulator rules into owned, dated obligations with current evidence in one register. |
 | [Regulatory Permit Guide](regulatory-permit-guide.md) | Guides environmental regulation compliance, from permits to reporting, with tailored recommendations. |
 | [Regulatory Risk Management Assistant](regulatory-risk-management-assistant.md) | Identifies, assesses, and mitigates regulatory risks for compliance and product safety. |
 | [Regulatory Stakeholder Communication Assistant](regulatory-stakeholder-communication-assistant.md) | Streamlines regulatory stakeholder communication: updates, inquiries, training, feedback, and events. |
@@ -141,6 +202,7 @@ Authorised security testing, audits and regulatory work. 174 Grok Bot templates,
 | [Safety Risk Assessment Copilot](../../healthcare/security-and-compliance/safety-risk-assessment-copilot.md) | Comprehensive risk assessment assistant for health and safety specialists, from hazard ID to compliance and training. |
 | [Scanning Tools](../../it-and-development/security-and-compliance/scanning-tools.md) | Guide users through security scanning with Nmap, Nessus, Burp Suite, Aircrack-ng, and Prowler. |
 | [Screen Reader Testing](../../it-and-development/security-and-compliance/screen-reader-testing.md) | Guide for testing web apps with screen readers to validate accessibility. |
+| [Sealing Order Compliance Checker](../../legal/security-and-compliance/sealing-order-compliance-checker.md) | Reads sealing and redaction orders, flags protected terms in public files, and rechecks until every file is clear. |
 | [Security Architecture Consulting Assistant](../../it-and-development/security-and-compliance/security-architecture-consulting-assistant.md) | Guides security architecture consulting: risk, policy, compliance, design, and incident response. |
 | [Security Assessment Planner](../../it-and-development/security-and-compliance/security-assessment-planner.md) | Security assessment assistant for IT directors: scans, tests, reviews, and plans responses. |
 | [Security Audit](../../it-and-development/security-and-compliance/security-audit.md) | Guides structured security audits for web apps, APIs, and infrastructure with checklists and reporting. |
@@ -161,6 +223,8 @@ Authorised security testing, audits and regulatory work. 174 Grok Bot templates,
 | [Security Vulnerability Assessment Assistant](../../it-and-development/security-and-compliance/security-vulnerability-assessment-assistant.md) | Finds, assesses, and tracks security vulnerabilities across code, networks, and policies. |
 | [Service Compliance Risk Auditor](../../management/security-and-compliance/service-compliance-risk-auditor.md) | Monitors compliance, flags risks, and prepares reports and audits for service managers. |
 | [Software License Manager](../../it-and-development/security-and-compliance/software-license-manager.md) | Manages software licenses end-to-end: inventory, compliance, renewals, costs, and audits. |
+| [Specimen Permit Chain Checker](../../science-and-research/security-and-compliance/specimen-permit-chain-checker.md) | Checks every planned collection and shipment against its permits, paperwork and storage rules before anything moves. |
+| [Spill Reporting Threshold Assistant](spill-reporting-threshold-assistant.md) | Turns release facts into threshold checks, deadlines and approved notifications. |
 | [SysAdmin Compliance Documentation](../../it-and-development/security-and-compliance/sysadmin-compliance-documentation.md) | Compliance guidance and documentation support for systems administrators. |
 | [Systems Analyst Security Assistant](../../it-and-development/security-and-compliance/systems-analyst-security-assistant.md) | Security assessment assistant for systems analysts covering scans, reviews, and response planning. No hype, no emoji. |
 | [Tax Compliance Monitoring Assistant](../../finance/security-and-compliance/tax-compliance-monitoring-assistant.md) | Compliance monitoring assistant for tax analysts: reviews, validates, reports, and trains on tax compliance. No hype, no filler. |
@@ -171,14 +235,19 @@ Authorised security testing, audits and regulatory work. 174 Grok Bot templates,
 | [Transport Emissions Auditor](transport-emissions-auditor.md) | Turns transportation activity data into environmental impact assessments and compliance reports. |
 | [Transportation Compliance Assistant](transportation-compliance-assistant.md) | Keeps transportation compliance current, documented, and audit-ready. |
 | [Transportation Safety Protocol Builder](transportation-safety-protocol-builder.md) | Builds and maintains transportation safety protocols, training, and compliance systems. |
+| [Use-of-Force Review Packet Builder](use-of-force-review-packet-builder.md) | Builds complete use-of-force review packets with reconciled timelines and open questions before the deadline. |
 | [User Access and Permissions Manager](../../it-and-development/security-and-compliance/user-access-and-permissions-manager.md) | Manages user access, permissions, and audits for systems administrators. |
+| [Vendor Data Transfer Review](../../legal/security-and-compliance/vendor-data-transfer-review.md) | Reviews vendor data processing terms and transfer safeguards, then waits for your approval before data flows. |
 | [Vendor Security Assessment Assistant](../../it-and-development/security-and-compliance/vendor-security-assessment-assistant.md) | Assesses vendor security risks, compliance, and readiness for InfoSec analysts. |
 | [Verify Document](../../operations/security-and-compliance/verify-document.md) | Check PDFs and images for tampering signals before relying on them. |
 | [Vulnerability Management Analyst](../../it-and-development/security-and-compliance/vulnerability-management-analyst.md) | Analyzes, prioritizes, and reports on vulnerabilities to strengthen your security posture. |
 | [Vulnerability Management Assistant](../../it-and-development/security-and-compliance/vulnerability-management-assistant.md) | Vulnerability management assistant for cybersecurity analysts covering scan to report. |
+| [Vulnerability Remediation Tracker](../../it-and-development/security-and-compliance/vulnerability-remediation-tracker.md) | Turns scan findings into owned, deadline-tracked tickets and verifies fixes by rescan. |
 | [Website Accessibility Auditor](../../it-and-development/security-and-compliance/website-accessibility-auditor.md) | Makes your website accessible by auditing content, structure, and forms against WCAG standards. |
+| [Weekly Threat Relevance Brief](../../it-and-development/security-and-compliance/weekly-threat-relevance-brief.md) | Turns weekly advisories into a short brief of threats that actually apply to your environment. |
 | [Whistleblower Policy Manager](../../legal/security-and-compliance/whistleblower-policy-manager.md) | Manages whistleblower policies, reports, and investigations for compliance officers. |
 | [Windows Server Hardening](../../it-and-development/security-and-compliance/windows-server-hardening.md) | Hardens Windows servers to Microsoft and CIS baselines and reports what still fails. |
 | [Workplace Safety Audit Copilot](workplace-safety-audit-copilot.md) | Keeps your workplace compliant with health and safety rules, from policies to audits. |
+| [Zoning Amendment Consistency Checker](zoning-amendment-consistency-checker.md) | Finds conflicts and missing updates in a zoning amendment draft and drafts consistency findings for the staff report. |
 
 [← All Government templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/government)

@@ -1,6 +1,6 @@
 # Writing & Content templates for Executives and Strategy
 
-Plan, write and edit articles, copy and documentation. 23 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 24 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Plan, write and edit articles, copy and documentation. 23 Grok Bot templates, 20
 | [Investment Pitch Builder](investment-pitch-builder.md) | Prepares founders to craft, refine, and deliver compelling investor pitches. |
 | [Investor Update Writer](investor-update-writer.md) | Turns your KPIs, milestones, and financials into a polished investor update. |
 | [IT Strategy Development Assistant](it-strategy-development-assistant.md) | Develops and refines IT strategy from market analysis to implementation roadmaps. |
+| [Quarterly Board Product Update](../../product-development/writing-and-content/quarterly-board-product-update.md) | Drafts your quarterly board product section, checking every number and prior commitment against its source. |
 | [Remote Workforce Management Assistant](remote-workforce-management-assistant.md) | Manages remote workforce engagement, performance, policies, and support for HR leaders. |
 | [Stakeholder Communication Director](stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
 | [Stakeholder Financial Communications Assistant](stakeholder-financial-communications-assistant.md) | Drafts and coordinates all stakeholder financial communications for a VP of Finance. |

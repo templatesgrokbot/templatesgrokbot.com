@@ -1,12 +1,13 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 143 Grok Bot templates, 63 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 169 Grok Bot templates, 82 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Acceptance Orchestrator](acceptance-orchestrator.md) | Drive coding tasks from issue intake to acceptance verification with minimal re-intervention. |
+| [Accessibility Remediation Backlog](accessibility-remediation-backlog.md) | Turns accessibility audit findings into a ranked, owned backlog with verified fixes. |
 | [Accint Frames](accint-frames.md) | Drain acc's deliberation queue by resolving open brain frames via continue runtime calls. No logic lives here — just routing sugar over two MCP verbs. |
 | [Agent Organizer](../../management/productivity/agent-organizer.md) | Assembles and coordinates multi-agent teams for complex projects by matching capabilities to tasks. |
 | [Agent Squad](agent-squad.md) | Orchestrates a squad of specialized agents to manage software projects step by step. |
@@ -26,6 +27,8 @@ Plan, prioritise and clear the recurring admin. 143 Grok Bot templates, 63 of th
 | [Build](../../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Cal Com Automation](../../operations/productivity/cal-com-automation.md) | Automate Cal.com scheduling: bookings, availability, webhooks, and teams via Composio. |
 | [Calendly Automation](../../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
+| [Capacity Workload Planner](../../management/productivity/capacity-workload-planner.md) | Turns your team's weekly hours into a capacity plan that flags over-allocation before it hits delivery. |
+| [Ceremony Effectiveness Tracker](ceremony-effectiveness-tracker.md) | Measures whether your team's ceremonies are actually useful and tests small fixes when they drift. |
 | [Chieeeeefy](../../operations/productivity/chieeeeefy.md) | Manages calendar and email for a field engineer, converting timezones and protecting attention. (124 chars) No hype, no emoji. Rewritten: |
 | [Claude Win11 Speckit Update](claude-win11-speckit-update-skill.md) | Manage Windows 11 system settings and updates. |
 | [Coda Automation](../../operations/productivity/coda-automation.md) | Automate Coda docs, tables, formulas, permissions, and publishing via MCP. |
@@ -34,9 +37,11 @@ Plan, prioritise and clear the recurring admin. 143 Grok Bot templates, 63 of th
 | [Conductor New Track](../../management/productivity/conductor-new-track.md) | Create a new track with specification and phased implementation plan. |
 | [Conductor Status](../../management/productivity/conductor-status.md) | Show project status, active tracks, and next actions from Conductor files. |
 | [Cross-Functional Communication Coordinator](cross-functional-communication-coordinator.md) | Coordinates cross-team communication for QA managers: meetings, updates, feedback, and tools. |
+| [Cross-Team Dependency Tracker](cross-team-dependency-tracker.md) | Finds cross-team dependencies in the sprint backlog and flags the ones at risk early. |
 | [CTO IT Project Navigator](../../executives-and-strategy/productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Daily Meeting Update](daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Deadline Prep](../../management/productivity/deadline-prep.md) | Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you |
+| [Definition of Done Auditor](definition-of-done-auditor.md) | Checks every closed sprint item against the team's definition of done and reopens the ones with gaps. |
 | [Developer Signup Flow](../../product-development/productivity/developer-signup-flow.md) | Design frictionless developer signup flows with OAuth, instant API keys, and progressive profiling. |
 | [Diary](../../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Digital Transformation Initiative Assistant](digital-transformation-initiative-assistant.md) | Steers digital transformation initiatives from strategy to execution with data-driven insights and hands-on support. |
@@ -47,6 +52,7 @@ Plan, prioritise and clear the recurring admin. 143 Grok Bot templates, 63 of th
 | [Doordash Spend Guard](../../operations/productivity/doordash-spend-guard.md) | Enforces hard spending caps on DoorDash orders through a deterministic wrapper. |
 | [Dropbox Automation](../../operations/productivity/dropbox-automation.md) | Automate Dropbox file management, sharing, search, uploads, downloads, and folder operations. |
 | [Engineering Workflow Router](engineering-workflow-router.md) | Picks the right engineering workflow for each task and keeps the work honest. |
+| [Engineering Workflow Router](engineering-workflow-router-2.md) | Picks the right engineering workflow for a task and runs it step by step with verification gates. |
 | [File Organizer](../../operations/productivity/file-organizer.md) | Analyzes, deduplicates, and restructures your files into a logical folder hierarchy. |
 | [Frontend To Backend Requirements](frontend-to-backend-requirements.md) | Document frontend data needs for backend developers. |
 | [Git Pr Workflows Onboard](../../human-resources/productivity/git-pr-workflows-onboard.md) | Onboard new team members with structured plans from pre-arrival through 90 days. |
@@ -55,6 +61,8 @@ Plan, prioritise and clear the recurring admin. 143 Grok Bot templates, 63 of th
 | [Google Calendar Automation](../../management/productivity/google-calendar-automation.md) | Manage Google Calendar events for Workspace accounts via local scripts. |
 | [Google Drive Automation](../../operations/productivity/google-drive-automation.md) | Full read/write access to Google Drive with standalone OAuth. |
 | [Hackathon Ai Strategist](../../management/productivity/hackathon-ai-strategist.md) | Guides teams through hackathon strategy from ideation to pitch delivery. |
+| [Impediment Chase Assistant](impediment-chase-assistant.md) | Keeps every blocker owned, followed up and aged under the agreed limit. |
+| [Implementation Plan Dependency Planner](implementation-plan-dependency-planner.md) | Turns a won deal's design into a dependency-checked implementation plan with named owners and a critical path. |
 | [Innovation Cultivation Strategist](innovation-cultivation-strategist.md) | Turns innovation ideas into a managed pipeline for technology managers. |
 | [IT Conflict Navigator](it-conflict-navigator.md) | Guides IT project managers through conflict resolution, from analysis to action. |
 | [IT Delivery Planner](it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
@@ -74,19 +82,26 @@ Plan, prioritise and clear the recurring admin. 143 Grok Bot templates, 63 of th
 | [Linear](linear.md) | Read, create, and update Linear issues, projects, and team workflows. |
 | [Linear Automation](linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
 | [Linear for Claude](../../product-development/productivity/linear-claude-skill.md) | Manage Linear issues, projects, and teams via API. |
+| [Lost and Stale Asset Reconciliation](lost-and-stale-asset-reconciliation.md) | Reconciles your asset register with device check-ins and license assignments, then reclaims unused licenses safely. |
 | [Mac Storage Cleaner](mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
+| [Maintenance Window Coordinator](maintenance-window-coordinator.md) | Finds clash-free maintenance windows and drafts notices for approval. |
 | [Markdown Rendering](markdown-rendering.md) | Open Markdown files reliably in cmux panes without blank rendering. |
 | [Markitdown](../../operations/productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
 | [Microsoft Teams Automation](../../operations/productivity/microsoft-teams-automation.md) | Automate Microsoft Teams messaging, meetings, channels, and searches. |
+| [Mid-Sprint Goal Health Monitor](mid-sprint-goal-health-monitor.md) | Watches your sprint board daily and warns you early when the sprint goal is at risk. |
+| [Migration Prerequisite Verifier](migration-prerequisite-verifier.md) | Verifies every migration prerequisite with evidence before preparation starts, and never runs the migration. |
 | [Miro Automation](../../operations/productivity/miro-automation.md) | Automate Miro boards, items, sticky notes, frames, sharing, and connectors via Rube MCP. |
 | [Monday Automation](../../operations/productivity/monday-automation.md) | Automate Monday.com work management with board, item, column, group, and subitem operations via Rube MCP. |
 | [Multi Agent Brainstorming](../../product-development/productivity/multi-agent-brainstorming.md) | Simulate a structured peer-review process to validate designs and catch failure modes early. |
 | [New Bot](../../operations/productivity/new-bot.md) | This bot performs the exact function described in the source template. |
+| [New Team Member Onboarding](new-team-member-onboarding.md) | Builds and runs a two-week onboarding plan for each new teammate, clearing blockers daily. |
 | [Notion Automation](../../operations/productivity/notion-automation.md) | Automate Notion pages, databases, blocks, comments, and users via Rube MCP. |
 | [Obsidian Clipper Template Creator](../../operations/productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
 | [Odoo Manufacturing Advisor](../../operations/productivity/odoo-manufacturing-advisor.md) | Configure Odoo Manufacturing: BoMs, work centers, routings, MRP runs, and production order workflows. |
 | [Odoo Project Timesheet](../../operations/productivity/odoo-project-timesheet.md) | Configure Odoo projects, track billable time, and invoice from approved timesheets. |
+| [Offboarding Exit Tracker](../../human-resources/productivity/offboarding-exit-tracker.md) | Builds and runs a dated offboarding checklist so access, assets and final pay are never left open. |
 | [OKR Plan Generator](../../management/productivity/okr-plan-generator.md) | Generates structured OKR plans for teams following Google/Intel methodology. |
+| [One-to-One Follow-up Tracker](../../management/productivity/one-to-one-follow-up-tracker.md) | Turns agreed one-to-one follow-ups into a private shared agenda, carried forward until done. |
 | [Outlook Automation](../../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Parallel Feature Coordinator](parallel-feature-coordinator.md) | Coordinate parallel feature development with file ownership and conflict avoidance. |
 | [PDF Workflows](../../operations/productivity/anthropic-pdf.md) | Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe. |
@@ -94,9 +109,11 @@ Plan, prioritise and clear the recurring admin. 143 Grok Bot templates, 63 of th
 | [Plan Writing](../../management/productivity/plan-writing.md) | Breaks down multi-step work into clear, verifiable tasks and saves the plan as a markdown file. |
 | [Planning And Task Breakdown](../../management/productivity/planning-and-task-breakdown.md) | Breaks specs into ordered, verifiable tasks with acceptance criteria. |
 | [Planning With Files](../../management/productivity/planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
+| [Platform Limit and Cost Watch](platform-limit-and-cost-watch.md) | Watches no-code platform usage, projects limit dates, and tests lighter designs before you approve them. |
 | [Plugin Settings](plugin-settings.md) | Creates and reads per-project plugin config from .claude/plugin-name.local.md files with YAML frontmatter. |
 | [Plugin Structure](plugin-structure.md) | Scaffolds and explains Claude Code plugin structure, manifest, and component organization. |
 | [Postmark Automation](../../marketing/productivity/postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |
+| [Project Status and Risk Reporter](../../management/productivity/project-status-and-risk-reporter.md) | Gathers real project progress and drafts an evidence-based weekly status and risk report for your approval. |
 | [Project Supervisor Orchestrator](../../operations/productivity/project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
 | [QA Collaboration Workflow Assistant](qa-collaboration-workflow-assistant.md) | QA team collaboration and testing workflow assistant for QA managers. |
 | [QA Process Guide](qa-process-guide.md) | Guides IT project managers through quality assurance processes, from audits to test optimization. |
@@ -105,6 +122,7 @@ Plan, prioritise and clear the recurring admin. 143 Grok Bot templates, 63 of th
 | [Refine Issue](refine-issue.md) | Enriches GitHub issues with acceptance criteria, edge cases, and technical notes. |
 | [Regression Testing Strategist](regression-testing-strategist.md) | Regression testing strategist that plans, prioritizes, and analyzes software regression work. |
 | [Risk Analysis and Management Assistant](risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
+| [Roadmap Capacity Alignment](../../product-development/productivity/roadmap-capacity-alignment.md) | Turns quarterly roadmap items into a plan that fits real engineering capacity with dependencies in order. |
 | [Schedule Tasks](../../operations/productivity/anthropic-schedule.md) | Run recurring tasks automatically: a briefing every morning, a weekly plan every Monday, an inbox check every hour. |
 | [Screenshot](screenshot.md) | Captures desktop screenshots on macOS, Linux, or Windows when explicitly requested. |
 | [Scrum Master](../../management/productivity/scrum-master.md) | Facilitates agile teams, removes impediments, and drives continuous improvement through Scrum ceremonies. |
@@ -115,9 +133,13 @@ Plan, prioritise and clear the recurring admin. 143 Grok Bot templates, 63 of th
 | [Setup Help](setup-help.md) | Guide users through multi-step setup one action at a time. |
 | [Slack Automation](../../operations/productivity/slack-automation.md) | Sends Slack messages, searches conversations, and manages channels with user approval. |
 | [Software License Lifecycle Manager](software-license-lifecycle-manager.md) | Manages the full software license lifecycle for IT directors, from inventory to optimization. |
+| [Spec To Task Planner](../../management/productivity/spec-to-task-planner.md) | Turns a site specification into a developer-ready task list with acceptance criteria and no scope creep. |
 | [Sprint Planning Assistant](../../product-development/productivity/sprint-planning-assistant.md) | Plans a sprint from your backlog, capacity and velocity, with dependencies and risks called out. |
+| [Sprint Prioritization Planner](../../product-development/productivity/sprint-prioritization-planner.md) | Turns your backlog into a scored, capacity-checked sprint plan with risks and dependencies named. |
 | [Sprint Retrospective Facilitator](sprint-retrospective-facilitator.md) | Runs a structured sprint retrospective and returns prioritized action items with owners and deadlines. |
+| [Sprint Review Demo Readiness](sprint-review-demo-readiness.md) | Builds a sprint review agenda from only genuinely done work, with evidence and demo owners. |
 | [Sred Work Summary](../../operations/productivity/sred-work-summary.md) | Collect a year of PRs, docs, and tickets into a grouped Notion doc for SRED. |
+| [Stand-Up Focus Board Prep](stand-up-focus-board-prep.md) | Builds a short, evidence-based focus list of stuck tickets before each stand-up. |
 | [Strategic IT Planning Assistant](strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
 | [Stripe Automation](../../finance/productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [System Integration Planning Assistant](system-integration-planning-assistant.md) | Plans system integration projects from data mapping to continuous improvement for systems analysts. |
@@ -128,7 +150,9 @@ Plan, prioritise and clear the recurring admin. 143 Grok Bot templates, 63 of th
 | [Team Collaboration Standup Notes](../../management/productivity/team-collaboration-standup-notes.md) | Generate daily standup notes from commits, Jira, and calendar events. |
 | [Team Communication Enhancer](team-communication-enhancer.md) | Assesses, plans, and improves your team's communication with structured tools and strategies. |
 | [Tech Project Tracker](tech-project-tracker.md) | Manages project schedules, resources, risks, budgets, and team communication from planning to delivery. |
+| [Technical Debt Prioritization Planner](technical-debt-prioritization-planner.md) | Turns a messy debt list into a ranked, capacity-fitted plan tied to the roadmap. |
 | [Technology Change Management Planner](technology-change-management-planner.md) | Plans and manages technology changes from stakeholder analysis to post-implementation review. |
+| [Technology Debt Modernization Roadmap](technology-debt-modernization-roadmap.md) | Turns a legacy system inventory into a costed, dependency-safe retirement and replacement roadmap. |
 | [Technology Integration Planner](../../operations/productivity/technology-integration-planner.md) | Plans and manages technology integration projects from research to monitoring. |
 | [Technology Roadmap Architect](../../executives-and-strategy/productivity/technology-roadmap-architect.md) | Turns research, stakeholder input, and analysis into a complete, actionable IT technology roadmap. |
 | [Technology Roadmap Planner](../../product-development/productivity/technology-roadmap-planner.md) | Builds and maintains technology roadmaps for R&D engineers from market data to execution plans. |
@@ -143,9 +167,11 @@ Plan, prioritise and clear the recurring admin. 143 Grok Bot templates, 63 of th
 | [Transformation Roadmap Builder](transformation-roadmap-builder.md) | Plans and runs your digital transformation strategy from research to rollout to improvement. |
 | [Triage](triage.md) | Triage issues and PRs through a state machine to agent-ready briefs. |
 | [UAT Cycle Coordinator](uat-cycle-coordinator.md) | Plans, runs, and reports UAT cycles for QA managers. |
+| [Unused Dashboard Retirement](unused-dashboard-retirement.md) | Finds unused and duplicate dashboards, gets approval, and archives them safely. |
 | [VopixSounds](vopixsounds.md) | Plays sounds when Claude needs you or finishes a task so you can work in another window. |
 | [Workflow Automation Architect](../../product-development/productivity/workflow-automation-architect.md) | Automates process workflows from data extraction to compliance and reporting. |
 | [Workflow Orchestrator](../../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
+| [Working Agreement Drift Checker](working-agreement-drift-checker.md) | Checks your team's board and repo each week against its own working agreement and drafts a factual coaching note. |
 | [Wrike Automation](../../operations/productivity/wrike-automation.md) | Automate Wrike tasks, folders, projects, and assignments via Rube MCP. |
 | [Zapier Workflows](../../operations/productivity/zapier-workflows.md) | Manages and triggers your Zapier workflows and MCP tool orchestrations from chat. |
 | [Zoho Crm Automation](../../operations/productivity/zoho-crm-automation.md) | Automate Zoho CRM record creation, search, update, and lead conversion via Rube MCP. |

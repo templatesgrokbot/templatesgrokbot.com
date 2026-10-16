@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **762 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **853 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,20 +11,20 @@ Leaders making decisions from the whole picture. **762 ready-made Grok Bot templ
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 266 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 137 |
-| [Research](research/README.md) | 108 |
-| [Productivity](productivity/README.md) | 106 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 31 |
-| [Security & Compliance](security-and-compliance/README.md) | 29 |
-| [Writing & Content](writing-and-content/README.md) | 23 |
+| [Data Analysis](data-analysis/README.md) | 281 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 143 |
+| [Research](research/README.md) | 133 |
+| [Productivity](productivity/README.md) | 132 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 38 |
+| [Security & Compliance](security-and-compliance/README.md) | 32 |
+| [Writing & Content](writing-and-content/README.md) | 24 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 17 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 12 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 14 |
+| [Knowledge Management](knowledge-management/README.md) | 9 |
 | [Self-Improvement](self-improvement/README.md) | 7 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 6 |
 | [Social Media](social-media/README.md) | 5 |
 | [Design](design/README.md) | 4 |
-| [Knowledge Management](knowledge-management/README.md) | 3 |
 | [Office Tools](office-tools/README.md) | 3 |
 | [Prompt Engineering](prompt-engineering/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
@@ -44,7 +44,7 @@ Leaders making decisions from the whole picture. **762 ready-made Grok Bot templ
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 
-[All 266 Data Analysis templates →](data-analysis/README.md)
+[All 281 Data Analysis templates →](data-analysis/README.md)
 
 ## Marketing & Growth
 
@@ -59,7 +59,7 @@ Leaders making decisions from the whole picture. **762 ready-made Grok Bot templ
 | [Competitive Landscape](../marketing/marketing-and-growth/competitive-landscape.md) | Map competitors, find gaps, and craft defensible market positioning strategies. |
 | [Brand Voice Guidelines Generator](../marketing/marketing-and-growth/brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 
-[All 137 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 143 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Research
 
@@ -74,7 +74,7 @@ Leaders making decisions from the whole picture. **762 ready-made Grok Bot templ
 | [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 
-[All 108 Research templates →](research/README.md)
+[All 133 Research templates →](research/README.md)
 
 ## Productivity
 
@@ -89,7 +89,7 @@ Leaders making decisions from the whole picture. **762 ready-made Grok Bot templ
 | [CTO IT Project Navigator](productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Crisis Management Assistant](productivity/crisis-management-assistant.md) | Crisis management assistant for Managing Directors, covering assessment, communication, and recovery. |
 
-[All 106 Productivity templates →](productivity/README.md)
+[All 132 Productivity templates →](productivity/README.md)
 
 ## Sales & Negotiation
 
@@ -104,7 +104,7 @@ Leaders making decisions from the whole picture. **762 ready-made Grok Bot templ
 | [Global Sales Cross-Sell Upsell Planner](../sales/sales-and-negotiation/global-sales-cross-sell-upsell-planner.md) | Turns sales data into cross-sell and upsell actions for global sales leaders. |
 | [Vendor Management and Evaluation Assistant](../it-and-development/sales-and-negotiation/vendor-management-and-evaluation-assistant.md) | Manages vendor lifecycle from selection to performance improvement for IT leaders. |
 
-[All 31 Sales & Negotiation templates →](sales-and-negotiation/README.md)
+[All 38 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Security & Compliance
 
@@ -119,7 +119,7 @@ Leaders making decisions from the whole picture. **762 ready-made Grok Bot templ
 | [Data Privacy Compliance Guide](security-and-compliance/data-privacy-compliance-guide.md) | Guides CTOs through data privacy compliance, from policy review to breach response and audits. |
 | [Cybersecurity Strategy Developer](security-and-compliance/cybersecurity-strategy-developer.md) | Develops and manages your organization's cybersecurity strategy from risk assessment to incident response. |
 
-[All 29 Security & Compliance templates →](security-and-compliance/README.md)
+[All 32 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Writing & Content
 
@@ -134,7 +134,7 @@ Leaders making decisions from the whole picture. **762 ready-made Grok Bot templ
 | [Stakeholder Communication Director](writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
 | [Executive Communication Assistant](writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
 
-[All 23 Writing & Content templates →](writing-and-content/README.md)
+[All 24 Writing & Content templates →](writing-and-content/README.md)
 
 ## Cloud & DevOps
 
@@ -160,11 +160,26 @@ Leaders making decisions from the whole picture. **762 ready-made Grok Bot templ
 | [Data Strategy Review](generative-ai-and-llm/data-strategy-review.md) | Pressure-tests any data plan with six CDO questions before you commit budget, headcount or contracts. |
 | [Executive Agent Coordinator](generative-ai-and-llm/executive-agent-coordinator.md) | Coordinates cross-functional analysis between executive roles with strict loop and isolation rules. |
 | [Strategy Duel Referee](generative-ai-and-llm/strategy-duel-referee.md) | Runs turn-based strategy duels using game theory and the 36 Chinese stratagems, with a verdict and recommendation. |
+| [AI Opportunity Shortlist Builder](generative-ai-and-llm/ai-opportunity-shortlist-builder.md) | Interviews a client and returns a ranked, data-grounded shortlist of AI opportunities for approval. |
 | [C-Suite Advisory Router](generative-ai-and-llm/c-suite-advisory-router.md) | Routes your hardest company questions to the right C-suite advisor and keeps a decision record. |
 | [HR Digital Transformation Planner](generative-ai-and-llm/hr-digital-transformation-planner.md) | Digitizes HR operations from hiring to compliance with AI-assisted workflows. |
-| [AI Plan Review Board](generative-ai-and-llm/ai-plan-review-board.md) | Pressure-tests any AI plan with six hard questions before it ships, hires, or spends. |
 
-[All 12 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 14 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Decision Logger](knowledge-management/decision-logger.md) | Turns an approved board memo into a durable decision record with preserved dissent and a review date. |
+| [Conference Insight Router](knowledge-management/conference-insight-router.md) | Turns conference notes and badge scans into routed, checked insights owners act on. |
+| [Company Context Interview](knowledge-management/company-context-interview.md) | Interviews you once and keeps a durable company context file that every advisor reads before answering. |
+| [Executive Stakeholder Map Maintenance](knowledge-management/executive-stakeholder-map-maintenance.md) | Keeps your stakeholder map current and flags changes that affect your priorities. |
+| [Founder Context Interview](knowledge-management/founder-context-interview.md) | Interviews founders once to build a persistent company context file for advisory work. |
+| [Acquisition Diligence Request Tracker](knowledge-management/acquisition-diligence-request-tracker.md) | Reads new data-room documents and maps which diligence requests are answered, partly answered or contradicted. |
+| [Quarterly Risk Register Review](../operations/knowledge-management/quarterly-risk-register-review.md) | Brings the operational risk register up to date with cited evidence before the quarterly review. |
+| [Board Governance Register](knowledge-management/board-governance-register.md) | Turns board meetings, resolutions and actions into one tracked register with owners and due dates. |
+
+[All 9 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Self-Improvement
 
@@ -207,14 +222,6 @@ Leaders making decisions from the whole picture. **762 ready-made Grok Bot templ
 | [Software Architecture Design Assistant](design/software-architecture-design-assistant.md) | Designs and documents software architecture from requirements to deployment. |
 | [Steve Jobs Advisor](../creatives/design/steve-jobs.md) | Simulates Steve Jobs for product, design, and presentation advice. |
 | [Brand Guidelines Architect](design/brand-guidelines-architect.md) | Builds and maintains your brand guidelines across all marketing materials and channels. |
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Decision Logger](knowledge-management/decision-logger.md) | Turns an approved board memo into a durable decision record with preserved dissent and a review date. |
-| [Company Context Interview](knowledge-management/company-context-interview.md) | Interviews you once and keeps a durable company context file that every advisor reads before answering. |
-| [Founder Context Interview](knowledge-management/founder-context-interview.md) | Interviews founders once to build a persistent company context file for advisory work. |
 
 ## Office Tools
 

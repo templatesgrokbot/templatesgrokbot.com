@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 113 Grok Bot templates, 47 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 115 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -44,6 +44,7 @@ Interfaces, brands, layouts and visual systems. 113 Grok Bot templates, 47 of th
 | [Design System Starter](../../creatives/design/design-system-starter.md) | Generate design tokens, component specs, and accessibility guidelines for a consistent UI system. |
 | [Design Thinking](../../creatives/design/design-thinking.md) | Define frontend purpose, tone, and domain before coding. |
 | [Design Ux](design-ux.md) | Heuristic usability audit of interactive UIs against Nielsen's 10 and interaction add-ons. Scores live rendered artifact, not mockups. Fixes then re-a |
+| [Design-to-Build QA Assistant](design-to-build-qa-assistant.md) | Compares built screens on staging against approved design frames and reports differences before release. |
 | [Deterministic Design](../../creatives/design/deterministic-design.md) | Render UI, measure balance with math, and run a Nielsen usability audit. |
 | [DeviceFit Design Coach](devicefit-design-coach.md) | Responsive design suggestions for web developers to improve usability across devices. |
 | [Diagrammer](diagrammer.md) | Turns plain-English diagram requests into clean blueprint-style SVG files for docs and slides. |
@@ -113,6 +114,7 @@ Interfaces, brands, layouts and visual systems. 113 Grok Bot templates, 47 of th
 | [UX Enhancement Advisor](ux-enhancement-advisor.md) | Guides IT leaders through AI-assisted UX research, design, and enhancement projects. |
 | [Ux Flow](../../creatives/design/ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 | [UX Flow & Wireframer](../../product-development/design/ux-flow-wireframer.md) | Sketches user flows and low-fidelity wireframes as text layouts and Mermaid diagrams before visual design begins. |
+| [UX Foundation Architect](ux-foundation-architect.md) | Turns your project spec into a CSS design system, layout framework and UX structure developers can build on. |
 | [UX Prototyping Assistant](../../creatives/design/ux-prototyping-assistant.md) | Turns wireframes and prototypes into tested, documented designs ready for handoff. |
 | [Vercel Web Design Guidelines](../../creatives/design/vercel-web-design-guidelines.md) | Audits web UIs against 100+ heuristics for UX, layout, and accessibility, returning prioritized fixes. |
 | [Vibrant Maximalism](../../creatives/design/vibrant-maximalism.md) | Generate loud, clashing, dense web/app designs where every pixel carries pattern, color, and type. |

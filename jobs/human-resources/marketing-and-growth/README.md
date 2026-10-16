@@ -1,11 +1,12 @@
 # Marketing & Growth templates for Human Resources
 
-Campaigns, ads, conversion and launch plans. 5 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 6 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Candidate Talent Pool Builder](candidate-talent-pool-builder.md) | Designs and builds a consent-tracked candidate talent pool so rejected candidates can be re-engaged. |
 | [Employee Engagement Campaign Coordinator](../../pr-and-communications/marketing-and-growth/employee-engagement-campaign-coordinator.md) | Plans and runs employee engagement campaigns, from surveys to events, with data-backed insights. |
 | [Employer Branding Content Assistant](employer-branding-content-assistant.md) | Build and manage your employer brand across content, events, and campaigns. |
 | [Recruitment Strategy Planner](recruitment-strategy-planner.md) | Builds and refines your recruitment strategy with data-driven insights and ready-to-use materials. |

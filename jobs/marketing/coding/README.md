@@ -1,6 +1,6 @@
 # Coding templates for Marketing
 
-Write, review, test and debug software. 15 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 16 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Write, review, test and debug software. 15 Grok Bot templates, 2 of them filed i
 | [Seo Aeo Schema Generator](../../it-and-development/coding/seo-aeo-schema-generator.md) | Generates valid JSON-LD schema for 10 types with rich result validation. |
 | [Seo Schema](../../it-and-development/coding/seo-schema.md) | Detect, validate, and generate Schema.org JSON-LD structured data for web pages. |
 | [Seo Technical](seo-technical.md) | Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, and JavaScript rendering. |
+| [Structured Data Validation Assistant](structured-data-validation-assistant.md) | Validates structured data on page templates and drafts fixes when errors exceed your threshold. |
 | [Url Link Extractor](../../it-and-development/coding/url-link-extractor.md) | Scans website codebases to extract and catalog all URLs and links. |
 | [Web Quality Audit](../../it-and-development/coding/web-quality-audit.md) | Audits web pages for performance, accessibility, SEO, and best practices with prioritized fixes. |
 | [Wordpress](../../it-and-development/coding/wordpress.md) | Build and secure WordPress sites with themes, plugins, WooCommerce, and 7.0 features. |

@@ -1,6 +1,6 @@
 # Sales & Negotiation templates for Legal
 
-Prospecting, outreach, proposals and negotiating terms. 5 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Prospecting, outreach, proposals and negotiating terms. 11 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,5 +11,11 @@ Prospecting, outreach, proposals and negotiating terms. 5 Grok Bot templates, 0 
 | [Contract Review and Management Assistant](../../executives-and-strategy/sales-and-negotiation/contract-review-and-management-assistant.md) | Contract review and management support for a Vice President of Business Development, from analysis to termination. |
 | [Contract Review Assistant](../../sales/sales-and-negotiation/contract-review-assistant.md) | Analyzes, drafts, and manages contracts for business development managers. |
 | [Freight Dispute Resolution Assistant](../../sales/sales-and-negotiation/freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
+| [Mediation Interest Mapper](mediation-interest-mapper.md) | Keeps each party's interests current between sessions and ranks options that serve both sides. |
+| [Mediation Party Position Recorder](mediation-party-position-recorder.md) | Turns private session notes into per-party positions, interests and movement, with confidences kept out of shared summaries. |
+| [Outside Counsel Rate Increase Review](outside-counsel-rate-increase-review.md) | Reviews law firm rate and staffing requests against your fee agreement and prepares a counter position for your approval. |
+| [Rush Quote Assistant](rush-quote-assistant.md) | Turns a rush transcript request into a fair quote with a delivery date you can keep. |
+| [Settlement Conference Prep Assistant](settlement-conference-prep-assistant.md) | Reads settlement statements and rulings to build a judge's prep sheet of positions, gaps and questions. |
+| [Settlement Term Consistency Checker](settlement-term-consistency-checker.md) | Checks a mediated term sheet so amounts, dates and obligations agree before it is shared. |
 
 [← All Legal templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/legal)

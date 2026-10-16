@@ -1,6 +1,6 @@
 # Speech-To-Text templates for Operations
 
-Transcribe calls, meetings and recordings. 10 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Transcribe calls, meetings and recordings. 11 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Transcribe calls, meetings and recordings. 10 Grok Bot templates, 5 of them file
 | [Speech to text (transcriptions and captions)](speech-to-text-transcriptions-and-captions.md) | Transcribes audio and video into timed SRT caption files. |
 | [Transcribe](transcribe.md) | Transcribes audio files to text with optional speaker labels. |
 | [Transcription Services Assistant](transcription-services-assistant.md) | Turns audio and video files into accurate, formatted text for data entry specialists. |
+| [Transcription Verification Assistant](transcription-verification-assistant.md) | Finds and resolves errors in names, numbers and terms in machine transcripts, with your approval. |
 | [Visual Analysis Ocr](../../it-and-development/speech-to-text/visual-analysis-ocr.md) | Extracts text from images into markdown preserving structure and formatting. |
 
 [← All Operations templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/operations)

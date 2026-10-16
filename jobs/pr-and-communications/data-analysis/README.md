@@ -1,6 +1,6 @@
 # Data Analysis templates for PR and Communications
 
-Clean, query, chart and explain data. 24 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 28 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,12 +16,16 @@ Clean, query, chart and explain data. 24 Grok Bot templates, 11 of them filed in
 | [Brand Perception Insight Finder](../../science-and-research/data-analysis/brand-perception-insight-finder.md) | Analyzes brand perception from public and internal data to deliver actionable insights. |
 | [Communication Metrics Analyst](communication-metrics-analyst.md) | Tracks and analyzes corporate communication metrics across media, social, web, and internal channels. |
 | [Content Analytics Strategist](content-analytics-strategist.md) | Analyzes content performance, audience, and trends to guide your content strategy. |
+| [Crisis Recovery Sentiment Tracker](crisis-recovery-sentiment-tracker.md) | Tracks post-incident sentiment daily against a baseline and reports the recovery picture with causes. |
 | [Editor Audience Data Strategist](editor-audience-data-strategist.md) | Analyzes audience data to guide content strategy for editors. |
+| [Employee Announcement Rollout Tracker](employee-announcement-rollout-tracker.md) | Tracks announcement acknowledgment by audience group and drafts follow-ups for your approval. |
+| [Media Coverage Deduplication](media-coverage-deduplication.md) | Turns a month of coverage clips into deduplicated story counts with syndication notes and a reconciled summary. |
 | [Media Monitoring and Insights Assistant](media-monitoring-and-insights-assistant.md) | Monitors media, tracks trends, and reports insights for PR teams. |
 | [Media Monitoring Assistant](media-monitoring-assistant.md) | Audits crisis communication plans, media coverage, and team performance to strengthen crisis response. |
 | [Media Relations Reporting Assistant](media-relations-reporting-assistant.md) | Turns media coverage and social data into clear reports and insights for PR decisions. |
 | [Monitoring Media Trends Assistant](monitoring-media-trends-assistant.md) | Tracks media, news, and social signals to report trends and risks for PR teams. |
 | [News Sentiment Engine](../../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
+| [Post-Speech Reaction Review](post-speech-reaction-review.md) | Collects post-speech reaction, tags it to your key messages, and reports what landed. |
 | [PR Campaign Analytics Assistant](pr-campaign-analytics-assistant.md) | Turns PR campaign data into actionable insights, reports, and optimization recommendations. |
 | [PR Feedback Insight Engine](pr-feedback-insight-engine.md) | Turns feedback data into PR insights, reports, and early warnings. |
 | [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |

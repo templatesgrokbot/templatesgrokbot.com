@@ -1,6 +1,6 @@
 # Design templates for Product Development
 
-Interfaces, brands, layouts and visual systems. 101 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 113 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Interfaces, brands, layouts and visual systems. 101 Grok Bot templates, 19 of th
 | [3d Ui](../../it-and-development/design/3d-ui.md) | Guide for building 3D UI with depth, perspective, and interactive rotation. |
 | [Accessibility Compliance Accessibility Audit](../../creatives/design/accessibility-compliance-accessibility-audit.md) | Run WCAG audits, find barriers, and guide fixes for accessible digital products. |
 | [Accessibility Review (WCAG 2.1 AA)](../../it-and-development/design/design-accessibility-review.md) | Audits designs and pages for WCAG 2.1 AA accessibility compliance before launch. |
+| [Accessibility Session Prep](accessibility-session-prep.md) | Checks a prototype against each participant's assistive tools before the session and drafts the fixes and guide. |
 | [Anthropic Frontend Design](../../it-and-development/design/anthropic-frontend-design.md) | Designs and codes distinctive, production-ready UI layouts with a committed visual direction. |
 | [Antigravity Design Expert](../../creatives/design/antigravity-design-expert.md) | Build spatial, glassmorphic, motion-heavy web interfaces with GSAP and 3D CSS. |
 | [AR Experience Design Assistant](ar-experience-design-assistant.md) | Turns AR research and ideas into tested, documented experience concepts for UX designers. |
@@ -20,6 +21,7 @@ Interfaces, brands, layouts and visual systems. 101 Grok Bot templates, 19 of th
 | [Color Theory Design Assistant](../../creatives/design/color-theory-design-assistant.md) | Guides UX/UI designers through color theory, palettes, and accessibility. |
 | [Custom Packaging Design Assistant](custom-packaging-design-assistant.md) | Designs, tests, and sources custom packaging solutions for packaging engineers. |
 | [Data Dense Design](../../it-and-development/design/data-dense-design.md) | Build expert UIs with maximum data density like Bloomberg terminals or IDEs. |
+| [Design Brief Spec Gap Checker](design-brief-spec-gap-checker.md) | Compares a client brief with a draft spec, lists gaps and conflicts, and updates the spec as answers arrive. |
 | [Design Concept Development Assistant](../../creatives/design/design-concept-development-assistant.md) | Turns UX/UI design tasks into guided, documented workflows from research to presentation. |
 | [Design Critique](../../creatives/design/design-design-critique.md) | Gives structured, honest design feedback on usability, hierarchy, consistency, and accessibility. |
 | [Design Critique Coordinator](design-critique-coordinator.md) | Runs your design critique workflow from feedback questions to performance tracking. |
@@ -32,6 +34,8 @@ Interfaces, brands, layouts and visual systems. 101 Grok Bot templates, 19 of th
 | [Design System Companion](../../creatives/design/design-system-companion.md) | Builds and keeps your design system consistent, documented, and adopted. |
 | [Design System Starter](../../creatives/design/design-system-starter.md) | Generate design tokens, component specs, and accessibility guidelines for a consistent UI system. |
 | [Design Ux](../../it-and-development/design/design-ux.md) | Heuristic usability audit of interactive UIs against Nielsen's 10 and interaction add-ons. Scores live rendered artifact, not mockups. Fixes then re-a |
+| [Design-to-Build QA Assistant](../../it-and-development/design/design-to-build-qa-assistant.md) | Compares built screens on staging against approved design frames and reports differences before release. |
+| [Design-to-Engineering Handoff Package](design-to-engineering-handoff-package.md) | Assembles and checks a complete, consistent design handoff package for engineering. |
 | [Deterministic Design](../../creatives/design/deterministic-design.md) | Render UI, measure balance with math, and run a Nielsen usability audit. |
 | [Diagrammer](../../it-and-development/design/diagrammer.md) | Turns plain-English diagram requests into clean blueprint-style SVG files for docs and slides. |
 | [Draw Io](../../it-and-development/design/draw-io.md) | Creates, edits, and reviews draw.io diagrams from .drawio XML files. |
@@ -60,9 +64,11 @@ Interfaces, brands, layouts and visual systems. 101 Grok Bot templates, 19 of th
 | [Industrial Brutalist Ui](../../creatives/design/industrial-brutalist-ui.md) | Create raw industrial or tactical telemetry UIs with rigid grids and stark typography. |
 | [Interaction Design Assistant](../../creatives/design/interaction-design-assistant.md) | Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff. |
 | [Lookdev](../../creatives/design/lookdev.md) | Build interactive studios for tuning, editing, and annotating creative work by eye. |
+| [Material and Process Selection Assistant](material-and-process-selection-assistant.md) | Shortlists material and process pairs, checks design rules, and drafts a costed comparison for your decision. |
 | [Minimalism](../../creatives/design/minimalism.md) | Generate minimal layouts with extreme whitespace, strict typography, and no decoration. |
 | [Mobile Design](mobile-design.md) | Guide mobile-first design decisions for iOS and Android with platform conventions and touch psychology. |
 | [Neumorphism](../../creatives/design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
+| [No-Code Data Model Designer](no-code-data-model-designer.md) | Turns your app's screens and sample data into a sound data model before you build. |
 | [Opal or Obsidian UI Builder](../../creatives/design/opal-or-obsidian-ui-builder.md) | Builds parameterized opal or obsidian UI with OKLCH, WebGL/CSS fallback, and measured color reports. |
 | [Packaging Design Optimizer](packaging-design-optimizer.md) | Optimizes packaging designs for materials, cost, sustainability, compliance, and consumer appeal. |
 | [Packaging Innovation Assistant](packaging-innovation-assistant.md) | Turns consumer insights into packaging concepts that sell and satisfy. |
@@ -70,7 +76,12 @@ Interfaces, brands, layouts and visual systems. 101 Grok Bot templates, 19 of th
 | [Process Design Innovation Assistant](process-design-innovation-assistant.md) | Innovation partner for process engineers, turning data and ideas into better designs. |
 | [Product Design Bot](../../creatives/design/product-design.md) | Creates visual systems, design tokens, and UX flows with Apple standards. |
 | [Product Inventor](../../creatives/design/product-inventor.md) | Invent digital products by combining design thinking, systems, and psychology. |
+| [Product Metrics Dashboard Designer](product-metrics-dashboard-designer.md) | Designs a product metrics dashboard with a North Star, input metrics, health guardrails, and alert thresholds. |
+| [Production Sample Review Assistant](production-sample-review-assistant.md) | Reviews production samples against the approved design and drafts supplier feedback for your approval. |
+| [Prototype Test Round Assistant](prototype-test-round-assistant.md) | Turns each prototype round into a test plan, issue summary, and next-round change list. |
 | [Responsive Web Design Assistant](../../creatives/design/responsive-web-design-assistant.md) | Guides UX/UI designers through every stage of responsive web design, from setup to maintenance. |
+| [Retail Shelf Fit Check](retail-shelf-fit-check.md) | Checks a new pack size against retailer shelf, case and pallet limits and proposes the smallest fix. |
+| [Schematic Design Review](schematic-design-review.md) | Checks your schematic against every part's datasheet and reports findings before boards are ordered. |
 | [Sci Fi Interface](../../creatives/design/sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Screenshot Reviewer](../../operations/design/screenshot-reviewer.md) | Reviews task lists against screenshots for completeness, consistency, and quality. |
 | [Screenshot Synthesizer](screenshot-synthesizer.md) | Combines UI, interaction, and business analyses into a unified feature list and task breakdown. |
@@ -78,6 +89,7 @@ Interfaces, brands, layouts and visual systems. 101 Grok Bot templates, 19 of th
 | [Se Ux Ui Designer](../../creatives/design/se-ux-ui-designer.md) | Analyze user jobs, map journeys, and produce UX research artifacts for Figma designers. Identity: You are a UX research specialist that produces Jobs- |
 | [Spatial Computing Ui](../../it-and-development/design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
 | [Spatial Design](../../it-and-development/design/spatial-design.md) | Build environment-aware UIs with glass-like panels, dynamic lighting, and mixed reality aesthetics. |
+| [Spec Example Tester](spec-example-tester.md) | Turns a product spec draft into a versioned pack of concrete examples that test its rules. |
 | [Steve Jobs Advisor](../../creatives/design/steve-jobs.md) | Simulates Steve Jobs for product, design, and presentation advice. |
 | [Stitch Design Taste](../../creatives/design/stitch-design-taste.md) | Generate Google Stitch DESIGN.md files for premium, anti-generic UI systems. |
 | [Stitch Ui Design](../../creatives/design/stitch-ui-design.md) | Crafts precise Google Stitch prompts for high-quality UI designs, no code or deployment. |

@@ -1,15 +1,17 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 188 Grok Bot templates, 137 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 217 Grok Bot templates, 163 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Accessibility Compliance Accessibility Audit](accessibility-compliance-accessibility-audit.md) | Run WCAG audits, find barriers, and guide fixes for accessible digital products. |
+| [Accessible Alt Text and Reading Order](accessible-alt-text-and-reading-order.md) | Scans a deck or page for missing alt text and wrong reading order, drafts fixes, and retests until the checker passes. |
 | [Adaptive Music Systems Designer](adaptive-music-systems-designer.md) | Designs adaptive music systems that respond to player actions and game states for interactive media. |
 | [Animation and Motion Graphics Planner](animation-and-motion-graphics-planner.md) | Turns animation and motion graphics briefs into scripts, storyboards, and visual specs for video editors. |
 | [Anthropic Brand Application](anthropic-brand-guidelines.md) | Applies Anthropic brand standards to artifacts: colors, typography, visual language. |
+| [Anthropic Brand Styling Assistant](anthropic-brand-styling-assistant.md) | Applies Anthropic brand colors and typography to artifacts you explicitly want branded. |
 | [Anthropic Frontend Design](../../it-and-development/design/anthropic-frontend-design.md) | Designs and codes distinctive, production-ready UI layouts with a committed visual direction. |
 | [Anti Ui Slop](anti-ui-slop.md) | Build product-specific UI from your design system, not generic patterns. |
 | [Antigravity Design Expert](antigravity-design-expert.md) | Build spatial, glassmorphic, motion-heavy web interfaces with GSAP and 3D CSS. |
@@ -21,6 +23,8 @@ Interfaces, brands, layouts and visual systems. 188 Grok Bot templates, 137 of t
 | [Baseline Ui](baseline-ui.md) | Enforce an opinionated UI baseline to fix spacing, hierarchy, typography, and layout issues. |
 | [Bento Ui](bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
 | [Brand](../../marketing/design/brand.md) | Keeps brand voice, visuals, and assets consistent across all your content. |
+| [Brand Consistency Review](brand-consistency-review.md) | Checks submitted designs against brand guidelines and routes hard breaks and judgment calls to the right person. |
+| [Brand Design System Setup](brand-design-system-setup.md) | Captures your brand once and derives the shared tokens every document conversion uses. |
 | [Brand Guidelines](../../marketing/design/brand-guidelines.md) | Apply brand colors, typography, and tone to user-facing content and artifacts. |
 | [Brand Guidelines Anthropic](brand-guidelines-anthropic.md) | Applies Anthropic brand colors and typography to existing artifacts. |
 | [Brand Guidelines Community](brand-guidelines-community.md) | Applies Anthropic brand colors and typography to artifacts on request. |
@@ -30,6 +34,8 @@ Interfaces, brands, layouts and visual systems. 188 Grok Bot templates, 137 of t
 | [Brutalist Typography](brutalist-typography.md) | Generate brutalist typography with oversized system fonts, negative margins, and aggressive layout collisions. |
 | [Canvas Design](anthropic-canvas-design.md) | Create original PNG and PDF designs grounded in design philosophy. |
 | [Card Based Design](card-based-design.md) | Generate card-based UI layouts with responsive grids and encapsulated content containers. |
+| [Character Model Sheet Consistency Checker](character-model-sheet-consistency-checker.md) | Compares new frames and pages to the approved model sheet and reports every deviation with a crop. |
+| [Children's Book Spread Consistency Checker](children-s-book-spread-consistency-checker.md) | Checks each children's book spread against the manuscript and character sheet, and rechecks fixes. |
 | [Ckw Design](ckw-design.md) | Production-grade web UI design with spatial rigor and usability critique. |
 | [Claymorphism](../../it-and-development/design/claymorphism.md) | Generate soft 3D claymorphic UI elements with rounded shapes and tactile shadows. |
 | [Cli Ui Designer](cli-ui-designer.md) | Creates terminal-inspired web interfaces with authentic CLI aesthetics. |
@@ -38,6 +44,7 @@ Interfaces, brands, layouts and visual systems. 188 Grok Bot templates, 137 of t
 | [Color Palette Extractor](color-palette-extractor.md) | Extracts color palettes from images or sites and exports them in multiple formats. |
 | [Color Psychology Brand Palette Guide](color-psychology-brand-palette-guide.md) | Color theory guidance for graphic designers, from psychology to application. |
 | [Color Theory Design Assistant](color-theory-design-assistant.md) | Guides UX/UI designers through color theory, palettes, and accessibility. |
+| [Concept Review Round Assistant](concept-review-round-assistant.md) | Turns scattered concept review feedback into a brief-based direction recommendation. |
 | [Cover Art Concept Generator](cover-art-concept-generator.md) | Turns your song's mood into cover art concepts, from mood boards to final design directions. |
 | [Creative Concept Developer](creative-concept-developer.md) | Generates photographic concepts, mood boards, trends, techniques, and visual narratives. |
 | [Creative Portfolio Resume](creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
@@ -48,6 +55,7 @@ Interfaces, brands, layouts and visual systems. 188 Grok Bot templates, 137 of t
 | [Design Concept Development Assistant](design-concept-development-assistant.md) | Turns UX/UI design tasks into guided, documented workflows from research to presentation. |
 | [Design Critique](design-design-critique.md) | Gives structured, honest design feedback on usability, hierarchy, consistency, and accessibility. |
 | [Design Critique Coordinator](../../product-development/design/design-critique-coordinator.md) | Runs your design critique workflow from feedback questions to performance tracking. |
+| [Design Export Transparency Checker](design-export-transparency-checker.md) | Checks every exported size for clean transparent edges and fixes only the sizes that fail. |
 | [Design Handoff Spec](../../it-and-development/design/design-design-handoff.md) | Generate developer handoff specs from a design, covering tokens, props, states, and edge cases. |
 | [Design It](design-it.md) | Routes frontend design tasks to 48 specific UI styles with curated palettes. |
 | [Design Md](design-md.md) | Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files |
@@ -60,8 +68,11 @@ Interfaces, brands, layouts and visual systems. 188 Grok Bot templates, 137 of t
 | [Design System Companion](design-system-companion.md) | Builds and keeps your design system consistent, documented, and adopted. |
 | [Design System Starter](design-system-starter.md) | Generate design tokens, component specs, and accessibility guidelines for a consistent UI system. |
 | [Design Thinking](design-thinking.md) | Define frontend purpose, tone, and domain before coding. |
+| [Design Token Register](design-token-register.md) | Turns a business's colours, type and spacing into one contrast-tested token register. |
+| [Design Token Release Coordinator](design-token-release-coordinator.md) | Tracks every usage of a changed component, verifies the visuals, and drafts release notes for approval. |
 | [Design Trend Intelligence Assistant](design-trend-intelligence-assistant.md) | Tracks design trends and turns them into adaptable assets for your clients and portfolio. |
 | [Design Ux](../../it-and-development/design/design-ux.md) | Heuristic usability audit of interactive UIs against Nielsen's 10 and interaction add-ons. Scores live rendered artifact, not mockups. Fixes then re-a |
+| [Design-to-Build QA Assistant](../../it-and-development/design/design-to-build-qa-assistant.md) | Compares built screens on staging against approved design frames and reports differences before release. |
 | [Deterministic Design](deterministic-design.md) | Render UI, measure balance with math, and run a Nielsen usability audit. |
 | [Diagrammer](../../it-and-development/design/diagrammer.md) | Turns plain-English diagram requests into clean blueprint-style SVG files for docs and slides. |
 | [Digital Guide Preview](../../marketing/design/digital-guide-preview.md) | Turns your course content into a two-page ebook preview for lead magnets. |
@@ -76,9 +87,11 @@ Interfaces, brands, layouts and visual systems. 188 Grok Bot templates, 137 of t
 | [Environmental Art Concept Generator](../../it-and-development/design/environmental-art-concept-generator.md) | Helps game developers generate and refine environmental art concepts and nature-themed game ideas. |
 | [Ethical Design Accessibility Assistant](ethical-design-accessibility-assistant.md) | Guides ethical, accessible design and audits for graphic designers. |
 | [Ethical UX Design Advisor](../../product-development/design/ethical-ux-design-advisor.md) | Guides ethical UX design decisions, from privacy to inclusivity, for responsible products. |
+| [Event Collateral Proofing](event-collateral-proofing.md) | Compares print files against the latest event data and returns a precise correction list before printing. |
 | [Feedback Interpretation Assistant](feedback-interpretation-assistant.md) | Interprets client feedback, refines designs, and builds feedback tools for graphic designers. |
 | [Figma Automation](figma-automation.md) | Automate Figma file inspection, component extraction, token export, and image rendering via Rube MCP. |
 | [Figma Design Graph Builder](figma-design-graph-builder.md) | Analyzes Figma files and builds an interactive design knowledge graph. |
+| [Final Artwork Preflight](final-artwork-preflight.md) | Checks final print files against the output spec and approved copy before sign-off. |
 | [Flat Design](../../it-and-development/design/flat-design.md) | Generate UI code with zero shadows, sharp edges, and bold solid colors. |
 | [Flat Design 2](../../it-and-development/design/flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
 | [Font Pairing Suggester](font-pairing-suggester.md) | Recommends font pairings and Google Fonts alternatives with hierarchy examples. |
@@ -108,6 +121,9 @@ Interfaces, brands, layouts and visual systems. 188 Grok Bot templates, 137 of t
 | [Holographic Ui](../../it-and-development/design/holographic-ui.md) | Generate CSS, SwiftUI, or Flutter code for translucent, light-based holographic interfaces. |
 | [Iconsax Library](iconsax-library.md) | Iconsax provides premium icons and AI generation for cohesive, modern UI/UX design. |
 | [Ideation Session Facilitator](../../product-development/design/ideation-session-facilitator.md) | Runs your UX ideation and brainstorming sessions from agenda to follow-up. |
+| [Illustration Reference Coverage](illustration-reference-coverage.md) | Turns an illustration brief into a checklist and checks every draft against it. |
+| [Illustrator Reference Board Builder](illustrator-reference-board-builder.md) | Builds a sourced, on-brief reference board from your illustration brief and waits for your approval. |
+| [Image Crop Subject Protection](image-crop-subject-protection.md) | Generates and checks every required crop ratio so protected subjects stay fully visible. |
 | [Image Enhancer](image-enhancer.md) | Enhances image resolution, sharpness, and clarity for presentations, documentation, or social media. |
 | [imagegen-frontend-mobile](imagegen-frontend-mobile.md) | Generates realistic mobile app screen mockups for pitches and product previews. |
 | [Industrial Brutalist Ui](industrial-brutalist-ui.md) | Create raw industrial or tactical telemetry UIs with rigid grids and stark typography. |
@@ -115,12 +131,17 @@ Interfaces, brands, layouts and visual systems. 188 Grok Bot templates, 137 of t
 | [Interaction Design Assistant](interaction-design-assistant.md) | Helps UX/UI designers plan, test, and refine interactive interfaces from research to handoff. |
 | [Interactive Learning Tools Design Assistant](../../education/design/interactive-learning-tools-design-assistant.md) | Designs and builds interactive learning tools for eLearning developers. |
 | [Interactive Portfolio](interactive-portfolio.md) | Builds project portfolios that convert visitors into job leads or client inquiries. |
+| [Interface Design Reviewer](interface-design-reviewer.md) | Reviews an interface against opinionated UI constraints and returns an implementation-ready improvement plan. |
+| [Interior Design Brief Intake](interior-design-brief-intake.md) | Turns discovery call notes, questionnaires and photos into a complete, realistic brief by room. |
 | [Isometric Design](isometric-design.md) | Guides implementing isometric 3D views without vanishing points for web and apps. |
+| [Kinetic Type Readability Check](kinetic-type-readability-check.md) | Checks draft renders for text readability and reports failures with timecodes and fixes. |
 | [Landing Page Designer](landing-page-designer.md) | Turns brand answers into a deployable landing page, refined in chat. |
 | [Layout Composition Coach](layout-composition-coach.md) | Guides you through layout and composition techniques for stronger graphic design work. |
 | [Level Design Guidance Assistant](../../it-and-development/design/level-design-guidance-assistant.md) | Guides game level design from concept to polish, covering storytelling, pacing, puzzles, and player feedback. |
+| [Level Layout Playability Review](level-layout-playability-review.md) | Checks a level's layout for unreachable areas, gated items and difficulty spikes before playtest. |
 | [Lookdev](lookdev.md) | Build interactive studios for tuning, editing, and annotating creative work by eye. |
 | [Magazine Poster Designer](magazine-poster-designer.md) | Turns your content into a Sunday-paper style magazine poster. |
+| [Material and Process Selection Assistant](../../product-development/design/material-and-process-selection-assistant.md) | Shortlists material and process pairs, checks design rules, and drafts a costed comparison for your decision. |
 | [Material Design](../../it-and-development/design/material-design.md) | Implement Google's Material Design aesthetic for web and app interfaces. |
 | [Maximalism](../../it-and-development/design/maximalism.md) | Implement dense, ornate, grid-based maximalist UI for web and mobile. |
 | [Minimalism](minimalism.md) | Generate minimal layouts with extreme whitespace, strict typography, and no decoration. |
@@ -137,27 +158,35 @@ Interfaces, brands, layouts and visual systems. 188 Grok Bot templates, 137 of t
 | [Pptx Posters](pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Premium Web Design](premium-web-design.md) | Generates award-quality React website components with unique, intentional design. |
 | [Presentation Visual Designer](presentation-visual-designer.md) | Turns your slide content into layout wireframes, visual specs and colour and type systems. |
+| [Print Collateral Specifier](print-collateral-specifier.md) | Turns your brand identity into a print-ready collateral specification any printer can produce. |
 | [Print Preparation and Formats Assistant](print-preparation-and-formats-assistant.md) | Prepares print-ready files and guides designers through format, color, and proofing tasks. |
 | [Product Design Bot](product-design.md) | Creates visual systems, design tokens, and UX flows with Apple standards. |
 | [Product Inventor](product-inventor.md) | Invent digital products by combining design thinking, systems, and psychology. |
+| [Production Sample Review Assistant](../../product-development/design/production-sample-review-assistant.md) | Reviews production samples against the approved design and drafts supplier feedback for your approval. |
+| [Prototype State Coverage Reviewer](prototype-state-coverage-reviewer.md) | Finds missing error, timeout and empty states in a prototype and drafts recoverable versions for your review. |
 | [Radix Ui Design System](radix-ui-design-system.md) | Build accessible, unstyled React component libraries with Radix UI primitives. |
 | [Redesign Existing Projects](../../it-and-development/design/redesign-existing-projects.md) | Audit and upgrade existing UI with premium design fixes, no rewrites. |
 | [Responsive Web Design Assistant](responsive-web-design-assistant.md) | Guides UX/UI designers through every stage of responsive web design, from setup to maintenance. |
 | [Retro Design](retro-design.md) | Generate retro 60s-80s UI with warm muted colors, grain, and classic typography. |
 | [Retro Futurism](retro-futurism.md) | Generate retro-futurist UI with 1950s space-age aesthetics and atompunk vibes. |
+| [Room Fit Check Assistant](room-fit-check-assistant.md) | Checks whether chosen furniture clears the delivery route and fits the room, and finds alternatives when it does not. |
 | [Sci Fi Interface](sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Screenshot Ui Analyzer](screenshot-ui-analyzer.md) | Extracts all visible UI components, layout, and design patterns from screenshots. |
 | [Se Ux Ui Designer](se-ux-ui-designer.md) | Analyze user jobs, map journeys, and produce UX research artifacts for Figma designers. Identity: You are a UX research specialist that produces Jobs- |
 | [Social Carousel Designer](social-carousel-designer.md) | Turns a headline into a three-card social carousel with brand mark and numbering. |
+| [Social Graphic Resize Checker](social-graphic-resize-checker.md) | Resizes master artwork into platform sizes and verifies text, logos and file weight before delivery. |
 | [Social Media Graphics Designer](social-media-graphics-designer.md) | Designs complete social media graphics from templates to animations for graphic designers. |
 | [Soft Pastel](soft-pastel.md) | Implement soft pastel UI with desaturated colors, rounded edges, and airy spacing. |
 | [Sound Design Collaboration Advisor](sound-design-collaboration-advisor.md) | Helps film composers plan, create, and refine sound design across media projects. |
+| [Space Plan Clearance Check](space-plan-clearance-check.md) | Checks a drafted layout for real-world clearances and flags every failure with required and actual distances. |
 | [Steve Jobs Advisor](steve-jobs.md) | Simulates Steve Jobs for product, design, and presentation advice. |
 | [Stitch Design Taste](stitch-design-taste.md) | Generate Google Stitch DESIGN.md files for premium, anti-generic UI systems. |
 | [Stitch Ui Design](stitch-ui-design.md) | Crafts precise Google Stitch prompts for high-quality UI designs, no code or deployment. |
+| [Style Frame Alignment Director](style-frame-alignment-director.md) | Scores team artwork against approved style frames and keeps the shared board aligned. |
 | [Swiss Design](swiss-design.md) | Generate web/app layouts using strict grids, sans-serif type, and asymmetrical alignment. |
 | [Synthwave](synthwave.md) | Build 80s neon web and app interfaces with dark backgrounds, glowing grids, and synthwave aesthetics. |
 | [Theme Factory](theme-factory.md) | Generate or apply curated slide-deck themes with color scales, fonts, and WCAG AA contrast. |
+| [Theme Parity Checker](theme-parity-checker.md) | Captures every screen in each theme and size, finds contrast and theming failures, and files draft tickets after your approval. |
 | [Tile Design](../../it-and-development/design/tile-design.md) | Build sharp-cornered Metro UI tiles with horizontal scrolling and live data for web and mobile. |
 | [Typography Guidance Assistant](typography-guidance-assistant.md) | Guides graphic designers through every typography decision, from font choice to brand guidelines. |
 | [Typography UI Design Assistant](typography-ui-design-assistant.md) | Typography guidance and tools for UI designers, from font pairing to accessibility checks. |

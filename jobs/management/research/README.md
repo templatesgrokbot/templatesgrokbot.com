@@ -1,6 +1,6 @@
 # Research templates for Management
 
-Find sources, compare evidence and summarise what is known. 68 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 69 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -34,6 +34,7 @@ Find sources, compare evidence and summarise what is known. 68 Grok Bot template
 | [Market Research Analyst](../../marketing/research/market-research-analyst.md) | Delivers structured market intelligence and competitive analysis from public sources. |
 | [Market Researcher](../../marketing/research/market-researcher.md) | Analyzes markets, consumer behavior, and competitors to inform business strategy and market entry decisions. |
 | [Market Trend Analyst](market-trend-analyst.md) | Turns market data into trend insights and reports for market research managers. |
+| [Material Substitution Impact Checker](../../real-estate-and-construction/research/material-substitution-impact-checker.md) | Finds the cheapest, fastest substitute that still meets every hard requirement, then waits for your approval. |
 | [Moatmri](../../executives-and-strategy/research/moatmri.md) | Analyze AI disruption pressure across a business and produce a 90-day defensive action plan. |
 | [Multi Source Search](../../science-and-research/research/multi-source-search.md) | Cross-validate web research into a confidence-scored evidence ledger with source diversity. |
 | [Notion Research Documentation](../../operations/research/notion-research-documentation.md) | Researches your Notion workspace and produces cited briefs, comparisons, or reports. |

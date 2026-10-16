@@ -1,6 +1,6 @@
 # Generative Code templates for IT and Development
 
-Scaffold apps, components and whole projects from a brief. 98 Grok Bot templates, 83 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 103 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Scaffold apps, components and whole projects from a brief. 98 Grok Bot templates
 | [Andruia Template Smith](andruia-template-smith.md) | Design, write, and deploy new capabilities following the Diamond Standard. |
 | [Angular](angular.md) | Modern Angular v20+ expert: Signals, Standalone Components, Zoneless, SSR/Hydration. |
 | [Api Designer](api-designer.md) | Designs production-ready REST API contracts with OpenAPI specs, versioning, and protocol selection before backend implementation. |
+| [Apify Integration Builder](apify-integration-builder.md) | Designs and builds official Apify integrations for your product, from capability matrix to release checklist. |
 | [App Builder](app-builder.md) | Builds full-stack apps from natural language by selecting stacks and coordinating agents. |
 | [Azure Storage Queue Py](azure-storage-queue-py.md) | Manage Azure Queue Storage messages: send, receive, peek, update, delete. |
 | [Backend To Frontend Handoff Docs](backend-to-frontend-handoff-docs.md) | Generate API handoff docs for frontend developers from completed backend code. |
@@ -42,6 +43,7 @@ Scaffold apps, components and whole projects from a brief. 98 Grok Bot templates
 | [Hugging Face Gradio](hugging-face-gradio.md) | Build interactive web UIs and ML demos with Gradio in Python. |
 | [Hugging Face Tool Builder](hugging-face-tool-builder.md) | Build reusable CLI scripts for Hugging Face API with chaining and piping. |
 | [Json Canvas](../../creatives/generative-code/json-canvas.md) | Create and edit JSON Canvas .canvas files with nodes, edges, and groups. |
+| [JSON Schema Contract Builder](json-schema-contract-builder.md) | Turns a confirmed field list into a draft 2020-12 JSON Schema for an API or import contract. |
 | [Landing Page Generator](../../marketing/generative-code/landing-page-generator.md) | Generates conversion-optimized Next.js landing pages from a product description. |
 | [Loki Mode](loki-mode.md) | Takes a PRD and builds, tests, deploys, and iterates a full product with zero human intervention. |
 | [Macos Screen Recorder](macos-screen-recorder.md) | Record macOS screen with system audio from CLI, no extra drivers. |
@@ -52,6 +54,7 @@ Scaffold apps, components and whole projects from a brief. 98 Grok Bot templates
 | [Makepad Layout](makepad-layout.md) | Generate Makepad layout code with Walk, Align, Fit, Fill, flow, padding, and spacing. |
 | [Manage Templates](manage-skills.md) | Manage AI agent capabilities across 11 coding tools from the terminal. |
 | [Manim](../../education/generative-code/manim.md) | Guides you in writing Manim Python code to create mathematical animations and educational videos. |
+| [Markdown Deck Presenter](markdown-deck-presenter.md) | Turns a markdown deck into a single-file HTML presentation with keyboard navigation and presenter mode. |
 | [Mermaid Diagrams](mermaid-diagrams.md) | Creates software diagrams from text descriptions using Mermaid syntax. |
 | [Meta Agentic Project Scaffold](meta-agentic-project-scaffold.md) | Scaffolds a project by fetching and organizing Copilot prompts from a GitHub repo. |
 | [Mobile Games](mobile-games.md) | Mobile game development principles for touch, battery, and performance. |
@@ -63,6 +66,7 @@ Scaffold apps, components and whole projects from a brief. 98 Grok Bot templates
 | [Network Automation Script Generator](network-automation-script-generator.md) | Automates network admin tasks from config to compliance with script generation and monitoring. |
 | [Nft Standards](nft-standards.md) | Implement ERC-721 and ERC-1155 NFT contracts with metadata and advanced features. |
 | [Odoo Edi Connector](odoo-edi-connector.md) | Map EDI X12/EDIFACT to Odoo objects and automate B2B document flows. |
+| [OpenAPI to MCP Server Builder](openapi-to-mcp-server-builder.md) | Turns an OpenAPI contract into a validated MCP server scaffold in Python or TypeScript. |
 | [Pb Hooks](pb-hooks.md) | Generates PocketBase server-side JavaScript hooks from natural language descriptions. |
 | [Personal Tool Builder](personal-tool-builder.md) | Build custom tools that solve your own real problems, from scripts to products. |
 | [Postman Collection Generator](postman-collection-generator.md) | Generate import-ready Postman Collection v2.1 JSON from natural language API descriptions or cURL commands. |
@@ -85,6 +89,7 @@ Scaffold apps, components and whole projects from a brief. 98 Grok Bot templates
 | [Structured Data Implementation Assistant](structured-data-implementation-assistant.md) | Guides SEO specialists through structured data implementation, from schema selection to monitoring. |
 | [Subagent Driven Development](subagent-driven-development.md) | Execute implementation plans by dispatching a fresh subagent per task with two-stage review. |
 | [Technical Documentation Page Generator](technical-documentation-page-generator.md) | Generates a three-column technical documentation page with navigation, article body, and table of contents. |
+| [Text Diagram Builder](text-diagram-builder.md) | Turns your description of a process or system into ready-to-render Mermaid or PlantUML diagram code. |
 | [Three.js Essentials](threejs-skills.md) | Build 3D scenes and interactive WebGL experiences with Three.js. |
 | [Threejs Animation](../../creatives/generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
 | [Threejs Fundamentals](../../creatives/generative-code/threejs-fundamentals.md) | Set up Three.js scenes, cameras, renderers, and object hierarchies. |

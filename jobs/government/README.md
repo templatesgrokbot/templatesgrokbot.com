@@ -1,6 +1,6 @@
 # Grok Bot templates for Government
 
-Public services, policy and compliance. **525 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Public services, policy and compliance. **777 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,23 +11,23 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 174 |
-| [Data Analysis](data-analysis/README.md) | 128 |
-| [Productivity](productivity/README.md) | 63 |
-| [Research](research/README.md) | 50 |
-| [Writing & Content](writing-and-content/README.md) | 36 |
+| [Security & Compliance](security-and-compliance/README.md) | 243 |
+| [Data Analysis](data-analysis/README.md) | 177 |
+| [Productivity](productivity/README.md) | 131 |
+| [Research](research/README.md) | 75 |
+| [Writing & Content](writing-and-content/README.md) | 50 |
+| [Knowledge Management](knowledge-management/README.md) | 23 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 19 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
-| [Knowledge Management](knowledge-management/README.md) | 9 |
-| [Office Tools](office-tools/README.md) | 9 |
+| [Office Tools](office-tools/README.md) | 13 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 12 |
+| [Support & Community](support-and-community/README.md) | 9 |
 | [Coding](coding/README.md) | 8 |
 | [Design](design/README.md) | 5 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 4 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 5 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 3 |
-| [Support & Community](support-and-community/README.md) | 3 |
+| [Translation](translation/README.md) | 2 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
 | [Social Media](social-media/README.md) | 1 |
-| [Translation](translation/README.md) | 1 |
 
 ## Security & Compliance
 
@@ -42,7 +42,7 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | [Hazardous Material Management Assistant](../operations/security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
 | [Api Security Audit](../it-and-development/security-and-compliance/api-security-audit.md) | Audits REST APIs for security vulnerabilities and compliance gaps. |
 
-[All 174 Security & Compliance templates →](security-and-compliance/README.md)
+[All 243 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Data Analysis
 
@@ -57,7 +57,7 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | [Data Insights Strategist](../executives-and-strategy/data-analysis/data-insights-strategist.md) | Turns raw data into forecasts, segments, and stories for executive decisions. |
 | [Transportation Risk Manager](data-analysis/transportation-risk-manager.md) | Identifies, mitigates, and monitors transportation risks with data-driven insights and plans. |
 
-[All 128 Data Analysis templates →](data-analysis/README.md)
+[All 177 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -72,7 +72,7 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | [Strategic IT Planning Assistant](../it-and-development/productivity/strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
 | [Crisis Management Executive Assistant](../executives-and-strategy/productivity/crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
 
-[All 63 Productivity templates →](productivity/README.md)
+[All 131 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -87,7 +87,7 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | [E-Procurement Solutions Exploration Assistant](../operations/research/e-procurement-solutions-exploration-assistant.md) | Researches and evaluates e-procurement solutions to support your selection decisions. |
 | [Crossframe Structural Diagnosis](../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
 
-[All 50 Research templates →](research/README.md)
+[All 75 Research templates →](research/README.md)
 
 ## Writing & Content
 
@@ -102,7 +102,22 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | [Legislative Drafting Assistant](writing-and-content/legislative-drafting-assistant.md) | Drafts, reviews, and analyzes legislation for policy makers. |
 | [Systems Documentation Assistant](../it-and-development/writing-and-content/systems-documentation-assistant.md) | Turns system admin notes into clear, structured documentation and reports. |
 
-[All 36 Writing & Content templates →](writing-and-content/README.md)
+[All 50 Writing & Content templates →](writing-and-content/README.md)
+
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Document Digitization Assistant](../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
+| [Network Documentation and Mapping Assistant](../it-and-development/knowledge-management/network-documentation-and-mapping-assistant.md) | Builds and maintains complete network documentation and diagrams from your data. |
+| [Mitigation Commitments Register](knowledge-management/mitigation-commitments-register.md) | Turns approval commitments into a tracked register with owners, evidence and approved closures. |
+| [Council Agenda Evidence Checker](knowledge-management/council-agenda-evidence-checker.md) | Checks every council agenda item has its required, current, authorised documents before publication. |
+| [RFP Answer Evidence Assistant](../sales/knowledge-management/rfp-answer-evidence-assistant.md) | Maps RFP questions to current approved answers with valid evidence and drafts a sourced response. |
+| [Document Organization Assistant](../customer-support/knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
+| [Case File Organization Assistant](knowledge-management/case-file-organization-assistant.md) | Builds a complete, consistent case file for the prosecutor and routes missing items to the right officer. |
+| [Record Keeping and Filing Assistant](../finance/knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
+
+[All 23 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Cloud & DevOps
 
@@ -119,36 +134,6 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 
 [All 19 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Learning Path Architect for HR](../education/teaching-and-tutoring/learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
-| [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
-| [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
-| [Employee Training Program Developer](../human-resources/teaching-and-tutoring/employee-training-program-developer.md) | Plans, builds, and evaluates employee training programs from needs analysis to reporting. |
-| [Curriculum Development Assistant](../education/teaching-and-tutoring/curriculum-development-assistant.md) | Builds and refines training curricula from research to evaluation. |
-| [Crisis Training Program Designer](../human-resources/teaching-and-tutoring/crisis-training-program-designer.md) | Builds and runs crisis management training programs with simulations, communication guidance, and post-crisis learning. |
-| [Crisis Training Designer](../education/teaching-and-tutoring/crisis-training-designer.md) | Designs and runs crisis management training materials, simulations, and evaluations. |
-| [Interactive Training Module Designer](../human-resources/teaching-and-tutoring/interactive-training-module-designer.md) | Designs and builds interactive training modules with AI-generated content, scenarios, and assessments. |
-
-[All 11 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Document Digitization Assistant](../operations/knowledge-management/document-digitization-assistant.md) | Digitizes, extracts, organizes, and validates documents for accurate digital archives. |
-| [Network Documentation and Mapping Assistant](../it-and-development/knowledge-management/network-documentation-and-mapping-assistant.md) | Builds and maintains complete network documentation and diagrams from your data. |
-| [Document Organization Assistant](../customer-support/knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
-| [Record Keeping and Filing Assistant](../finance/knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
-| [Record-Keeping Compliance Optimizer](../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
-| [Contract Repository Manager](../legal/knowledge-management/contract-repository-manager.md) | Manages contracts: uploads, indexes, tracks versions/expirations, reports, and controls access. |
-| [PDF Document Analyst](../legal/knowledge-management/pdf-document-analyst.md) | Answers questions about your PDFs, summarizes them, and extracts specific data with page citations. |
-| [Document Data Extractor](../it-and-development/knowledge-management/document-data-extractor.md) | Turns PDFs, Office files, emails, HTML and images into structured, metadata-rich elements and chunks. |
-
-[All 9 Knowledge Management templates →](knowledge-management/README.md)
-
 ## Office Tools
 
 | Template | What it does |
@@ -158,11 +143,41 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
 | [Document Template Filler](../legal/office-tools/document-template-filler.md) | Fills your document templates with data to produce personalized files in bulk. |
 | [Writer](../operations/office-tools/writer.md) | Create, convert, and automate documents with LibreOffice Writer. |
+| [Motion Calendar Preparation](../legal/office-tools/motion-calendar-preparation.md) | Checks each motion's papers against local deadlines and drafts a one-page issue list for the judge. |
 | [Document Preparation and Formatting Assistant](../finance/office-tools/document-preparation-and-formatting-assistant.md) | Prepares, formats, and polishes all business documents for administrative assistants. |
 | [Office Productivity](../operations/office-tools/office-productivity.md) | Create, convert, and automate documents, spreadsheets, and presentations. |
-| [Document Generator](../marketing/office-tools/document-generator.md) | Turns your data and outlines into polished PDF, PPTX, DOCX and XLSX files with consistent branding. |
 
-[All 9 Office Tools templates →](office-tools/README.md)
+[All 13 Office Tools templates →](office-tools/README.md)
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Learning Path Architect for HR](../education/teaching-and-tutoring/learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
+| [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
+| [Compliance Training Program Developer](../legal/teaching-and-tutoring/compliance-training-program-developer.md) | Builds and maintains compliance training programs for compliance analysts. |
+| [Dispatcher Scenario Training](teaching-and-tutoring/dispatcher-scenario-training.md) | Builds anonymised dispatcher practice scenarios, plays the caller, scores against your checklist and raises difficulty only when earned. |
+| [Employee Training Program Developer](../human-resources/teaching-and-tutoring/employee-training-program-developer.md) | Plans, builds, and evaluates employee training programs from needs analysis to reporting. |
+| [Curriculum Development Assistant](../education/teaching-and-tutoring/curriculum-development-assistant.md) | Builds and refines training curricula from research to evaluation. |
+| [Crisis Training Program Designer](../human-resources/teaching-and-tutoring/crisis-training-program-designer.md) | Builds and runs crisis management training programs with simulations, communication guidance, and post-crisis learning. |
+| [Crisis Training Designer](../education/teaching-and-tutoring/crisis-training-designer.md) | Designs and runs crisis management training materials, simulations, and evaluations. |
+
+[All 12 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [User Account Lifecycle Assistant](../it-and-development/support-and-community/user-account-lifecycle-assistant.md) | Guides help desk technicians through every user account lifecycle task with verified steps and security checks. |
+| [Critical Incident Peer Support Follow-up](../healthcare/support-and-community/critical-incident-peer-support-follow-up.md) | Offers every crew member on a critical call peer support at set points, with a contact log only. |
+| [Patron Purchase Request Reviewer](support-and-community/patron-purchase-request-reviewer.md) | Reviews patron purchase requests and drafts consistent decisions and replies for librarian approval. |
+| [Wildlife Mortality Event Response](../science-and-research/support-and-community/wildlife-mortality-event-response.md) | Triages wildlife mortality reports, drafts sampling plans and notifications, and tracks cases to a result. |
+| [Community Outreach Planner](../pr-and-communications/support-and-community/community-outreach-planner.md) | Plans, drafts, and tracks community outreach for crisis communications managers. |
+| [Transport Customer Service Enhancer](support-and-community/transport-customer-service-enhancer.md) | Manages customer feedback, support, and service improvements for transportation managers. |
+| [Community Concern Follow-Up](support-and-community/community-concern-follow-up.md) | Tracks every community concern to an action and a measured result, then drafts the update for your approval. |
+| [Constituent Correspondence Triage](support-and-community/constituent-correspondence-triage.md) | Sorts constituent mail, drafts replies from approved positions, and holds everything for staff approval. |
+
+[All 9 Support & Community templates →](support-and-community/README.md)
 
 ## Coding
 
@@ -195,6 +210,7 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | [Vendor Lifecycle Orchestrator](../management/sales-and-negotiation/vendor-lifecycle-orchestrator.md) | Manages the full vendor lifecycle from sourcing to exit, with templates, checklists, and negotiation guidance. |
 | [Vendor Evaluation Manager](../operations/sales-and-negotiation/vendor-evaluation-manager.md) | Manages vendor evaluation from research to onboarding and performance tracking. |
 | [Contract Negotiation Strategist](../operations/sales-and-negotiation/contract-negotiation-strategist.md) | Prepares and guides procurement contract negotiations from research to final agreement. |
+| [Negotiation Brief Assembly](sales-and-negotiation/negotiation-brief-assembly.md) | Maps every draft paragraph to your position, red lines and fallback language before a negotiating round. |
 
 ## Marketing & Growth
 
@@ -204,13 +220,12 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | [Stakeholder Communication Strategist](../pr-and-communications/marketing-and-growth/stakeholder-communication-strategist.md) | Builds and runs your stakeholder communication strategy from analysis to evaluation. |
 | [Crisis Communication Strategist](../pr-and-communications/marketing-and-growth/crisis-communication-strategist.md) | Builds and runs your crisis communication strategy, from monitoring to recovery. |
 
-## Support & Community
+## Translation
 
 | Template | What it does |
 |---|---|
-| [User Account Lifecycle Assistant](../it-and-development/support-and-community/user-account-lifecycle-assistant.md) | Guides help desk technicians through every user account lifecycle task with verified steps and security checks. |
-| [Community Outreach Planner](../pr-and-communications/support-and-community/community-outreach-planner.md) | Plans, drafts, and tracks community outreach for crisis communications managers. |
-| [Transport Customer Service Enhancer](support-and-community/transport-customer-service-enhancer.md) | Manages customer feedback, support, and service improvements for transportation managers. |
+| [Reception Language Assistant](../customer-support/translation/reception-language-assistant.md) | Handles front-desk language needs: translation, interpretation, and inclusive communication. |
+| [Public Service Translation Review](translation/public-service-translation-review.md) | Checks translated public service text sentence by sentence so every eligibility condition survives. |
 
 ## Self-Improvement
 
@@ -223,11 +238,5 @@ Public services, policy and compliance. **525 ready-made Grok Bot templates** fo
 | Template | What it does |
 |---|---|
 | [Content Command Center](../pr-and-communications/social-media/content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
-
-## Translation
-
-| Template | What it does |
-|---|---|
-| [Reception Language Assistant](../customer-support/translation/reception-language-assistant.md) | Handles front-desk language needs: translation, interpretation, and inclusive communication. |
 
 [← All job fields](../../README.md#browse-by-job) · [Government on the website](https://templatesgrokbot.com/jobs/government)

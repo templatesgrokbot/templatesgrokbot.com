@@ -1,6 +1,6 @@
 # Writing & Content templates for IT and Development
 
-Plan, write and edit articles, copy and documentation. 53 Grok Bot templates, 35 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 54 Grok Bot templates, 36 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Plan, write and edit articles, copy and documentation. 53 Grok Bot templates, 35
 |---|---|
 | [API Documentation Assistant](api-documentation-assistant.md) | Drafts complete API documentation for website developers, from endpoints to troubleshooting. |
 | [Api Documentation Generator](api-documentation-generator.md) | Generates comprehensive API documentation from codebases including OpenAPI specs, developer guides, and code examples. |
+| [API Documentation Workflow](api-documentation-workflow.md) | Turns your API into an OpenAPI spec, developer guide, working code examples and a docs site. |
 | [Api Documenter](api-documenter.md) | Creates OpenAPI specs, interactive portals, and code examples for APIs. |
 | [App Store Changelog](app-store-changelog.md) | Generate App Store release notes from git history since the last tag. |
 | [Changelog Updates](changelog-updates.md) | Write release notes and changelogs developers actually read, with clear versioning and breaking-change flags. |

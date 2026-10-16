@@ -1,14 +1,19 @@
 # Office Tools templates for Creatives
 
-Spreadsheets, documents, slides, email and calendars. 14 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Spreadsheets, documents, slides, email and calendars. 22 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Actor Booking Conflict Keeper](actor-booking-conflict-keeper.md) | Keeps your holds, bookings and fittings clash-free and drafts the replies you approve. |
 | [Canvas Deck Builder](canvas-deck-builder.md) | 把内容排进锁死的 1920×1080 画布, 每页一个视觉重心, 不绑模板。 |
 | [Deck Export Repair](deck-export-repair.md) | Repairs broken AI-generated slide decks and PDFs, restoring clean text, fonts, and structure. |
+| [Deck Storyline Consistency Checker](deck-storyline-consistency-checker.md) | Checks that your deck's headlines tell one clear, supported story and proposes fixes. |
+| [Deck Version Merge Assistant](deck-version-merge-assistant.md) | Merges multiple edited copies of a deck into one, with conflicts resolved by you and no edits lost. |
+| [Freelance Animation Milestone Invoicer](freelance-animation-milestone-invoicer.md) | Drafts invoices for completed, approved animation milestones with evidence attached. |
 | [Freelance Invoice Drafter](../../finance/office-tools/freelance-invoice-drafter.md) | Turns your billing details into a complete, correctly calculated invoice ready to send. |
+| [Garment Costing Assistant](../../product-development/office-tools/garment-costing-assistant.md) | Builds and checks style cost sheets so landed cost meets your target before production. |
 | [Manifesto Deck Builder](manifesto-deck-builder.md) | Turns your outline into a bold color-block manifesto deck, word-for-word unchanged. |
 | [Markdown Slide Builder](../../education/office-tools/markdown-slide-builder.md) | Turns your Markdown notes into themed Marp slide decks exported to PDF, PPTX, or HTML. |
 | [Nanobanana Ppt Templates](../../operations/office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
@@ -18,6 +23,9 @@ Spreadsheets, documents, slides, email and calendars. 14 Grok Bot templates, 7 o
 | [PPTX Reference Analyzer](pptx-reference-analyzer.md) | Analyzes reference PPTX decks for structure, theme, and design evidence without modifying them. |
 | [Presentation Deck Builder](../../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
 | [Replit Slides Deck Builder](replit-slides-deck-builder.md) | Turn your content into a Replit Slides-style horizontal-swipe deck with one of eight themes. No mixing, no fuss. |
+| [Slide Deck Audience Fit Review](slide-deck-audience-fit-review.md) | Tests a deck outline against the audience, setting and time before design starts. |
+| [Slide Deck Revision Round](slide-deck-revision-round.md) | Closes each client revision round with every comment resolved or answered. |
+| [Slide Template Fit Checker](slide-template-fit-checker.md) | Tests a new master template on real decks and reports breakages before rollout. |
 | [Template Deck Builder](template-deck-builder.md) | Builds and edits PowerPoint decks bound to your company template with consulting-grade storyline and visual QA. |
 | [Visual Asset Placer](visual-asset-placer.md) | Selects and places approved visual assets in editable PPTX decks. |
 

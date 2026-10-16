@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 83 Grok Bot templates, 39 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 118 Grok Bot templates, 72 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,17 +8,24 @@ Clean, query, chart and explain data. 83 Grok Bot templates, 39 of them filed in
 |---|---|
 | [Ab Test Setup](../../it-and-development/data-analysis/ab-test-setup.md) | Plan statistically valid A/B tests with locked hypothesis, sample size, and pre-launch checklist. |
 | [Ab Testing](../../marketing/data-analysis/ab-testing.md) | Design statistically valid A/B tests and growth experiments. |
+| [Aircraft Load Margin Verifier](aircraft-load-margin-verifier.md) | Recomputes every margin of safety in your load and stress sheets and flags mismatches and low margins. |
 | [Amplitude Automation](../../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
 | [Analytics](../../marketing/data-analysis/analytics.md) | Set up, audit, and improve analytics tracking for actionable marketing and product insights. |
 | [Analytics Product](../../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
 | [Barrier Protection Analysis Assistant](barrier-protection-analysis-assistant.md) | Analyzes barrier materials, predicts shelf life, and optimizes packaging protection for engineers. |
+| [Beta Program Manager](beta-program-manager.md) | Tracks beta usage and feedback, drafts check-ins, and reports go or no-go against exit criteria. |
+| [BOM Cleanup Assistant](bom-cleanup-assistant.md) | Reconciles a BOM with the CAD model and part master, then gets it approved for release. |
+| [BOM Cost Rollup Assistant](bom-cost-rollup-assistant.md) | Rolls up unit cost at each planned volume after a design revision and flags options when it is over target. |
 | [Business Analyst](../../operations/data-analysis/business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
 | [CEO Feedback Action Planner](../../executives-and-strategy/data-analysis/ceo-feedback-action-planner.md) | Turns customer feedback into prioritized insights, trends, and action plans for your business. |
 | [Chat Export Need Miner](chat-export-need-miner.md) | Mines offline Telegram chat exports for quote-grounded unmet needs and product gaps. |
 | [Cohort Retention Analyst](cohort-retention-analyst.md) | Turns your user cohort data into retention curves, adoption trends and follow-up research plans. |
+| [Cohort Retention Report Builder](cohort-retention-report-builder.md) | Builds a reconciled monthly retention report by signup week and segment, ready for analyst review. |
+| [Component Obsolescence Watch](component-obsolescence-watch.md) | Monthly BOM lifecycle check that flags risky parts and proposes checked alternates or buy plans. |
 | [Customer Demographic Insight Engine](../../management/data-analysis/customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
 | [Customer Feedback Insight Analyst](../../management/data-analysis/customer-feedback-insight-analyst.md) | Turns customer feedback into clear insights, trends, and reports for marketing decisions. |
 | [Customer Journey Mapping Assistant](../../customer-support/data-analysis/customer-journey-mapping-assistant.md) | Maps customer journeys, finds pain points, and suggests improvements from your data. |
+| [Customer Request Ranker](customer-request-ranker.md) | Turns deal notes and lost-deal reasons into a monthly ranked customer request list for product. |
 | [Customer Segmentation Analyst](../../management/data-analysis/customer-segmentation-analyst.md) | Turns customer data into actionable segments and profiles for targeted marketing. |
 | [Customer Sentiment Analyst](../../management/data-analysis/customer-sentiment-analyst.md) | Analyzes customer sentiment across channels to guide e-commerce decisions. |
 | [Customer Technology Experience Assistant](../../it-and-development/data-analysis/customer-technology-experience-assistant.md) | Turns customer interaction data into actionable technology experience improvements. |
@@ -27,65 +34,93 @@ Clean, query, chart and explain data. 83 Grok Bot templates, 39 of them filed in
 | [Data Scientist](../../it-and-development/data-analysis/data-scientist.md) | Analyzes data, builds models, and delivers actionable business insights from complex datasets. |
 | [Database Design](../../it-and-development/data-analysis/database-design.md) | Designs schemas, selects databases and ORMs, and optimizes queries based on your context. |
 | [Demand Forecasting Analyst](../../management/data-analysis/demand-forecasting-analyst.md) | Forecasts product demand from market data, sentiment, and trends for market research managers. |
+| [Design Trade Study Assistant](design-trade-study-assistant.md) | Scores design options against your weights, tests whether the winner holds, and reports it for your approval. |
 | [Developer Churn](developer-churn.md) | Analyze developer churn and design retention strategies. |
+| [Drawing BOM Revision Checker](drawing-bom-revision-checker.md) | Checks drawings, BOMs and models for revision, part number and quantity mismatches before release. |
 | [E-commerce Recommendation Optimizer](../../management/data-analysis/e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
 | [E-commerce UX Improvement Assistant](../../management/data-analysis/e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
 | [eLearning Feedback Analyzer](../../education/data-analysis/elearning-feedback-analyzer.md) | Turns eLearning user feedback into categorized insights, prioritized fixes, and clear reports. |
 | [Energy Consumption Analyst](energy-consumption-analyst.md) | Analyzes energy data, forecasts usage, and recommends savings for process engineers. |
 | [Environmental Impact Analyst](environmental-impact-analyst.md) | Environmental impact analysis and sustainability recommendations for process engineers. |
 | [Experiment Readout](experiment-readout.md) | Turns A/B or product experiment data into a clear ship, stop, or iterate decision. |
+| [Experiment Sample Integrity Review](experiment-sample-integrity-review.md) | Validates experiment samples before analysis so conclusions rest on clean data. |
+| [Experiment Ship Follow-Up Analyst](experiment-ship-follow-up-analyst.md) | Tracks shipped experiment wins in production and flags early when the lift does not hold. |
 | [Experiment Tracker](experiment-tracker.md) | Designs, tracks and analyses A/B tests and feature experiments, then reports go/no-go decisions with exact figures. |
 | [Failure Analysis Assistant](failure-analysis-assistant.md) | Turns failure data into root causes, risks, and fixes for R&D engineers. |
+| [Fatigue And Wear Life Check](fatigue-and-wear-life-check.md) | Runs life calculations for every moving part and shows which ones meet the required life and safety factor. |
+| [Feature Adoption Review Assistant](feature-adoption-review-assistant.md) | Tracks a launched feature's adoption against its target and decides keep, improve, or retire. |
 | [Feedback Prioritization Compass](feedback-prioritization-compass.md) | Turns scattered customer feedback into clear, prioritized insights for product decisions. |
+| [Flight Test Anomaly Review](flight-test-anomaly-review.md) | Finds and reviews every anomaly in post-flight test data, with pilot notes and video linked. |
 | [Game Analytics Insight Assistant](../../it-and-development/data-analysis/game-analytics-insight-assistant.md) | Turns your game analytics into clear, actionable insights for better player experiences. |
+| [KPI Anomaly Investigation Assistant](kpi-anomaly-investigation-assistant.md) | Explains every unusual KPI move within hours, before it reaches the product team. |
+| [KPI Dashboard Metric Register](kpi-dashboard-metric-register.md) | Turns a dashboard decision into a small, sourced metric register you can actually maintain. |
 | [Lean Manufacturing Improvement Planner](lean-manufacturing-improvement-planner.md) | Lean manufacturing analysis and improvement planning for process engineers. |
 | [Manufacturing Cost Savings Finder](manufacturing-cost-savings-finder.md) | Finds and validates cost reduction opportunities across manufacturing operations. |
 | [Market Data Product Strategist](../../science-and-research/data-analysis/market-data-product-strategist.md) | Turns market and customer data into product development insights and recommendations. |
+| [Mass Budget Tracking Assistant](mass-budget-tracking-assistant.md) | Tracks weekly mass roll-ups and flags margin risks before they are lost. |
 | [Mixpanel Automation](../../it-and-development/data-analysis/mixpanel-automation.md) | Automate Mixpanel analytics: events, funnels, cohorts, profiles, and JQL queries via Rube MCP. |
 | [Mock Hunter](../../it-and-development/data-analysis/mock-hunter.md) | Audits live web pages to classify every visible value as real, mock, hardcoded, LLM, broken, or unknown. |
+| [New Item Performance Review](new-item-performance-review.md) | Reviews each new item at 6, 13 and 26 weeks and recommends keep, fix or delist with evidence. |
 | [Orca Replay](../../it-and-development/data-analysis/orca-replay.md) | Read, replay, and compare recorded agent runs to answer questions about past behavior without guessing. |
 | [Packaging Cost Reduction Analyst](packaging-cost-reduction-analyst.md) | Analyzes packaging costs and identifies savings across materials, design, suppliers, and processes. |
 | [Packaging Damage Prevention Analyst](packaging-damage-prevention-analyst.md) | Analyze packaging designs for damage prevention and recommend improvements. |
 | [Packaging Sustainability Assessment](packaging-sustainability-assessment.md) | Sustainability assessments and reporting for packaging engineers. |
 | [Post-Project Analysis Assistant](../../management/data-analysis/post-project-analysis-assistant.md) | Turns completed project data into a lessons-learned report and future-project recommendations. |
+| [Post-Release Outcome Review](post-release-outcome-review.md) | Tells you whether a release met its goal, using data it has verified first. |
 | [Posthog Automation](../../marketing/data-analysis/posthog-automation.md) | Automate PostHog analytics, feature flags, and project management via Rube MCP. |
+| [Power Budget Analyzer for Electrical Engineers](power-budget-analyzer-for-electrical-engineers.md) | Builds a power budget from datasheet currents and mode times, with options when targets are missed. |
 | [Predictive UX Behavior Analyst](predictive-ux-behavior-analyst.md) | Turns user behavior data into predictive insights and personalized UX actions. |
 | [Pricing Strategy Assistant](pricing-strategy-assistant.md) | Analyzes markets, segments customers, and builds pricing models to optimize your product pricing. |
+| [Private Label Opportunity Finder](private-label-opportunity-finder.md) | Finds private label candidates from sales data, tests margin and sourcing, and builds a shortlist. |
 | [Process Efficiency Analyst](process-efficiency-analyst.md) | Analyzes process data to find inefficiencies and propose improvements for process engineers. |
 | [Process Engineer Supply Chain Optimizer](process-engineer-supply-chain-optimizer.md) | Optimizes supply chains with data-driven forecasting, supplier, transportation, and process improvements. |
 | [Process Monitoring and Control Assistant](process-monitoring-and-control-assistant.md) | Monitors and optimizes your process with real-time data analysis and predictive insights. |
 | [Process Optimization Analyst](process-optimization-analyst.md) | Optimizes process workflows through simulation, analysis, and improvement planning. |
 | [Process Scaling Optimizer](process-scaling-optimizer.md) | Analyzes process data and models to optimize scaling, efficiency, and compliance. |
 | [Process Simulation Assistant](process-simulation-assistant.md) | Simulation and modeling assistant for process engineers, from data to optimization. |
+| [Product Analytics Event Contract](product-analytics-event-contract.md) | Keeps product analytics events matching the approved metric definitions after anomalies and releases. |
 | [Product Decision Agent](product-decision-agent.md) | Diagnose product problems and get actionable next decisions and actions |
 | [Product Feedback Aggregation Assistant](../../management/data-analysis/product-feedback-aggregation-assistant.md) | Turns scattered product feedback into prioritized insights and reports for senior managers. |
 | [Product Feedback Aggregator](../../management/data-analysis/product-feedback-aggregator.md) | Turns scattered customer feedback into prioritized, actionable product insights. |
 | [Product Feedback Insight Analyst](../../science-and-research/data-analysis/product-feedback-insight-analyst.md) | Turns customer feedback into clear insights and trend reports for product decisions. |
+| [Product Friction Review](product-friction-review.md) | Weekly friction points from funnel drops, user feedback and releases, with design ideas. |
 | [Product Leadership Advisor](product-leadership-advisor.md) | Turns product portfolio, PMF and org questions into decisions with named evidence. |
 | [Product Manager Toolkit](product-manager-toolkit.md) | Prioritize features, analyze interviews, and draft PRDs using structured frameworks. |
 | [Product Metrics Analyst](product-metrics-analyst.md) | Turns product metrics into clear insights, reports, and recommendations. |
+| [Product Metrics Weekly Anomaly Review](product-metrics-weekly-anomaly-review.md) | Pulls weekly product metrics, separates real anomalies from tracking errors, and drafts a review for your approval. |
 | [Product Performance Insights](../../it-and-development/data-analysis/product-performance-insights.md) | Turns your product data into clear insights, forecasts, and decisions for business growth. |
 | [Product Strategy Insights Assistant](../../executives-and-strategy/data-analysis/product-strategy-insights-assistant.md) | Turns market, customer, and competitor data into product strategy insights for business development. |
 | [Product Usage Analytics Assistant](../../customer-support/data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
 | [Production Scheduling](../../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
+| [Prototype Cost and Tooling Estimator](prototype-cost-and-tooling-estimator.md) | Builds a defensible prototype and tooling cost range from supplier quotes and past projects. |
 | [Prototype Testing Analysis Assistant](prototype-testing-analysis-assistant.md) | Analyzes prototype test data and generates reports for R&D engineers. |
 | [Prototype Testing and Feedback Assistant](prototype-testing-and-feedback-assistant.md) | Guides packaging engineers through prototype testing, feedback analysis, and design iteration. |
 | [Quality Control Data Analyst](quality-control-data-analyst.md) | Analyzes QC data and runs quality engineering analyses for process engineers. |
 | [R&D Cost-Benefit Analyst](r-d-cost-benefit-analyst.md) | Runs cost-benefit analysis for R&D projects from data collection to decision support. |
 | [R&D Data Analysis Assistant](r-d-data-analysis-assistant.md) | Collects, cleans, analyzes, and visualizes data for R&D engineers, from scraping to dashboards. |
+| [Reformulation Cost and Specification Change](reformulation-cost-and-specification-change.md) | Recalculates cost, label, allergen, claim and process effects for an ingredient swap, then drafts the specification change for your approval. |
 | [Reliability Maintenance Planner](reliability-maintenance-planner.md) | Analyzes equipment data to plan maintenance, optimize inventory, and improve reliability. |
 | [Risk Management Specialist](../../operations/data-analysis/risk-management-specialist.md) | Manages ISO 14971 risk management files for medical devices throughout the product lifecycle. |
 | [Screenshot Business Analyzer](../../operations/data-analysis/screenshot-business-analyzer.md) | Extracts business logic, functional modules, and data entities from UI screenshots. No code, just what the system does. No output if no screenshot pro |
 | [Shopify Review Triage](../../customer-support/data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
 | [Simpy](../../it-and-development/data-analysis/simpy.md) | Builds and runs discrete-event simulations of systems with queues, resources, and timed processes. |
 | [Simulation Model Development Assistant](simulation-model-development-assistant.md) | Simulation model development assistant for R&D engineers, from data to validation and reporting. |
+| [Size Grade Measurement Audit](size-grade-measurement-audit.md) | Builds a full graded measurement chart and checks every point until it passes. |
+| [Sprint Carry-Over Analyst](../../it-and-development/data-analysis/sprint-carry-over-analyst.md) | Finds the main cause of sprint carry-over and tests one fix at a time. |
+| [Sprint Metrics Report](../../it-and-development/data-analysis/sprint-metrics-report.md) | Turns messy sprint tracker data into clean, approved velocity and cycle-time summaries for the team and managers. |
 | [Startup Metrics Framework](../../executives-and-strategy/data-analysis/startup-metrics-framework.md) | Track and optimize startup KPIs from seed through Series A. |
+| [Sugar Reduction Reformulation](sugar-reduction-reformulation.md) | Proposes and revises reduced-sugar formulas until sweetness, texture, cost and label claims all pass. |
+| [Supplier First Article Review](supplier-first-article-review.md) | Checks a supplier's first article report against the drawing before the build proceeds. |
 | [Supply Chain Impact Analyst](supply-chain-impact-analyst.md) | Analyzes packaging supply chain impacts and recommends sustainable, cost-effective improvements. |
 | [Survey Insight Analyzer](../../executives-and-strategy/data-analysis/survey-insight-analyzer.md) | Turns raw survey responses into cleaned, analyzed, and visualized insights for founders. |
 | [SVP Product Market Analyst](../../executives-and-strategy/data-analysis/svp-product-market-analyst.md) | Turns market data into product decisions for senior product leaders. |
 | [Template Suggester](../../it-and-development/data-analysis/skill-suggester.md) | Mines prompt history for repeated workflows and suggests new reusable capabilities. |
+| [Test Data Anomaly Analysis](test-data-anomaly-analysis.md) | Checks test data for sensor faults and flags results that are truly out of spec. |
+| [Thermal Margin Verification](thermal-margin-verification.md) | Estimates and verifies thermal margin for every part before release. |
 | [User Feedback Insight Assistant](user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
+| [User Feedback Sentiment Analyst](user-feedback-sentiment-analyst.md) | Turns large feedback sets into segment profiles with sentiment scores and prioritised fixes. |
 | [User Segmentation Analysis](user-segmentation-analysis.md) | Turns user feedback into at least three distinct, evidence-backed behavioral segments. |
+| [UX Finding Triangulator](ux-finding-triangulator.md) | Checks each UX research finding against product analytics and labels it supported, partly supported or contradicted. |
 | [UX Insight Consultant](../../it-and-development/data-analysis/ux-insight-consultant.md) | Analyzes user data and feedback to improve UX across interfaces and channels. |
 | [Waste Management Optimization Assistant](waste-management-optimization-assistant.md) | Analyzes waste streams, ensures compliance, and optimizes waste management for process engineers. |
 | [Zinc Database](../../science-and-research/data-analysis/zinc-database.md) | Search 230M+ purchasable compounds by ID, SMILES, or similarity for drug discovery and virtual screening. No 3D downloads, no supplier queries, no ran |

@@ -1,11 +1,13 @@
 # Security & Compliance templates for Executives and Strategy
 
-Authorised security testing, audits and regulatory work. 29 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 32 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Blockchain Proposal Feasibility Screen](blockchain-proposal-feasibility-screen.md) | Screens blockchain proposals against trust, record and privacy criteria and recommends pilot or no. |
+| [Board Security Oversight Questioner](board-security-oversight-questioner.md) | Reads the quarterly security report and drafts the questions the board should ask management. |
 | [Business Risk Management Assistant](business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Compliance and Regulatory Adherence Assistant](compliance-and-regulatory-adherence-assistant.md) | Prepares audits, analyzes regulations, and drafts compliance materials for your organization. |
 | [Cybersecurity Assessment Guide](cybersecurity-assessment-guide.md) | Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response. |
@@ -27,6 +29,7 @@ Authorised security testing, audits and regulatory work. 29 Grok Bot templates, 
 | [Legal & Compliance Queries Assistant](legal-compliance-queries-assistant.md) | Guides founders through legal and compliance queries with practical, step-by-step assistance. No hype, no emoji. |
 | [Legal Compliance Assistant](legal-compliance-assistant.md) | Keeps your company compliant by handling policy, research, training, and reporting. |
 | [Quality Manager Qmr](../../operations/security-and-compliance/quality-manager-qmr.md) | Oversees quality system governance and regulatory compliance for HealthTech and MedTech companies. |
+| [Quarterly Cyber Risk Register Update](../../it-and-development/security-and-compliance/quarterly-cyber-risk-register-update.md) | Keeps your cyber risk register current, scored, and owned each quarter. |
 | [Regulatory Affairs Head](../../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
 | [Regulatory Compliance Navigator](regulatory-compliance-navigator.md) | Tracks regulatory changes, builds compliance programs, and prepares audit-ready documentation for your organization. |
 | [Regulatory Impact Intelligence Analyst](regulatory-impact-intelligence-analyst.md) | Tracks regulatory changes and turns them into risk, opportunity, and strategy intelligence. |

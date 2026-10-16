@@ -1,6 +1,6 @@
 # Writing & Content templates for PR and Communications
 
-Plan, write and edit articles, copy and documentation. 60 Grok Bot templates, 30 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 76 Grok Bot templates, 45 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Plan, write and edit articles, copy and documentation. 60 Grok Bot templates, 30
 | [Brand Guard](../../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 | [Brand Storytelling Assistant](brand-storytelling-assistant.md) | Crafts compelling brand stories across all channels and formats for marketing teams. |
 | [Brand Voice Enforcement](../../marketing/writing-and-content/brand-voice-enforcement.md) | Applies your brand guidelines to every email, pitch deck, and social post. |
+| [Channel Message Adapter](channel-message-adapter.md) | Turns one approved message into channel-ready versions that keep every mandatory fact. |
 | [Collaborative Writing Editor](collaborative-writing-editor.md) | Guides editors through every stage of collaborative writing projects, from brainstorming to finalization. |
 | [Communication Excellence Coach](../../marketing/writing-and-content/communication-excellence-coach.md) | Review drafts, calibrate tone, roleplay conversations, and improve presentations using proven frameworks. |
 | [Company Narrative Consistency](company-narrative-consistency.md) | Keeps one company story consistent across employees, investors, customers, candidates and partners. |
@@ -20,6 +21,7 @@ Plan, write and edit articles, copy and documentation. 60 Grok Bot templates, 30
 | [Content Idea Generator](../../writers/writing-and-content/content-idea-generator.md) | Generates content ideas, trends, keywords, and formats for writers. |
 | [Content Production Pipeline](../../marketing/writing-and-content/content-production-pipeline.md) | Takes a topic from blank page to publish-ready article, with research, drafting, and optimization. |
 | [Content Repurposing Assistant](../../writers/writing-and-content/content-repurposing-assistant.md) | Repurposes your existing content into fresh formats for wider reach and engagement. |
+| [Copy Approval Chain Tracker](../../writers/writing-and-content/copy-approval-chain-tracker.md) | Runs your copy through reviewers in order and locks one final version with a full approval log. |
 | [Copy Editing](../../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
 | [Copywriting Support Assistant](copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
 | [Crisis Communication Content Creator](crisis-communication-content-creator.md) | Crisis content creator for communication managers, drafting and coordinating all crisis messaging. |
@@ -29,17 +31,23 @@ Plan, write and edit articles, copy and documentation. 60 Grok Bot templates, 30
 | [Developer Advocacy](../../marketing/writing-and-content/developer-advocacy.md) | Prep conference talks, live demos, podcast pitches, and public builds with structured checklists and templates. |
 | [Digital Content Creation Workspace](digital-content-creation-workspace.md) | Turns research and ideas into polished, scheduled content across all digital platforms for PR specialists. |
 | [Drafting Content Assistant](../../writers/writing-and-content/drafting-content-assistant.md) | Drafts, refines, and optimizes your written content from research to final polish. |
+| [Earnings Call Q&A Prep](earnings-call-q-a-prep.md) | Builds a ranked Q&A book with checked answers for earnings calls. |
 | [Editorial Trend Analyst](editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
 | [Email Issue Fixer](../../operations/writing-and-content/email-issue-fixer.md) | Proofread emails and strip tracking from links on request, preserving voice. |
 | [Executive Communication Assistant](../../executives-and-strategy/writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
+| [Executive Message Alignment Check](executive-message-alignment-check.md) | Checks each leader's public wording against the approved message house and drafts fixes for your approval. |
 | [Executive Speech Writer](../../executives-and-strategy/writing-and-content/executive-speech-writer.md) | Crafts and polishes executive speeches from outline to delivery. |
 | [Executive Speechwriter](../../executives-and-strategy/writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
 | [Feature Announcement Writer](../../marketing/writing-and-content/feature-announcement-writer.md) | Turns a product update into clear announcements for email, in-app, changelog, social and launch pages. |
 | [Grammar And Flow Editor](../../writers/writing-and-content/grammar-and-flow-editor.md) | Finds grammar, logic, and flow errors in your draft and suggests targeted fixes without rewriting it. |
 | [Headline Crafting Assistant](headline-crafting-assistant.md) | Crafts and optimizes headlines for editors using research, testing, and performance data. |
+| [Internal Announcement Adaptation Assistant](internal-announcement-adaptation-assistant.md) | Turns one approved announcement into audience-specific versions that keep the same facts. |
+| [Internal Change Comms Lead](internal-change-comms-lead.md) | Draft and sequence internal change announcements for employees, not customers. |
 | [Internal Comms Anthropic](internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Internal Comms Community](internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Internal Comms Drafter](internal-comms.md) | Draft internal company messages in repeatable formats for review. |
+| [Internal Comms Drafter](internal-comms-drafter.md) | Drafts internal updates, newsletters, FAQs and incident notes from approved sources for your review. |
+| [Internal Comms Log Builder](internal-comms-log-builder.md) | Turns scattered company news into one owned, cadenced internal comms log. |
 | [Internal Communication Planner](internal-communication-planner.md) | Plans, drafts, and measures internal communications that keep employees informed and engaged. |
 | [Manuscript Evaluation Assistant](manuscript-evaluation-assistant.md) | Manuscript evaluation assistant for editors: assess quality, verify sources, and guide revisions. |
 | [Media Content Creation Assistant](media-content-creation-assistant.md) | Drafts and plans media content—press releases, posts, scripts, and more—for media relations specialists. |
@@ -47,18 +55,26 @@ Plan, write and edit articles, copy and documentation. 60 Grok Bot templates, 30
 | [Media Release Composer](media-release-composer.md) | Drafts, refines, and tracks media releases for PR specialists from research to follow-up. |
 | [Media Response Coordinator](media-response-coordinator.md) | Coordinates media inquiries, responses, and crisis communication for PR teams. |
 | [Newsletter Creation Assistant](newsletter-creation-assistant.md) | Builds and refines newsletters from research to distribution for PR specialists. |
+| [Partner Weather Briefing Assistant](partner-weather-briefing-assistant.md) | Builds partner-specific storm briefings from the official forecast and waits for your approval before anything is sent. |
 | [Patent Client Communication Assistant](../../legal/writing-and-content/patent-client-communication-assistant.md) | Handles client communication for patent agents, from intake to follow-up. |
 | [Policy Update Communications Assistant](../../customer-support/writing-and-content/policy-update-communications-assistant.md) | Drafts and coordinates all policy update communications across channels. |
+| [Post-Earnings Message Feedback Tracker](post-earnings-message-feedback-tracker.md) | Turns post-earnings feedback into a tracked list of messages that landed, mixed or missed, with script edits. |
 | [PR Communications Manager](pr-communications-manager.md) | Drafts press releases, media pitches, and crisis statements for your approval before anything goes out. |
 | [PR Content Creator](pr-content-creator.md) | Drafts and plans all your PR content, from press releases to crisis messaging. |
 | [PR Crisis Response Studio](pr-crisis-response-studio.md) | Crisis communication support for PR specialists: monitoring, messaging, and response guidance. |
 | [PR Speech Architect](pr-speech-architect.md) | Drafts, refines, and tailors speeches for any occasion, from product launches to crisis responses. |
+| [Pre-Speech News Watch](pre-speech-news-watch.md) | Watches the news before a speech and proposes edits so the draft still lands. |
 | [Press Conference Simulator](press-conference-simulator.md) | Generates authentic coach and player press conference responses for any sports scenario. |
+| [Press Release Writer](press-release-writer.md) | Turns your launch, milestone, or funding news into a media-ready press release. |
 | [Press Release Writer and Distributor](press-release-writer-and-distributor.md) | Drafts, distributes, and analyzes press releases for PR professionals. |
 | [Professional Proofreader](../../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
 | [Receptionist Communication Assistant](../../customer-support/writing-and-content/receptionist-communication-assistant.md) | Drafts and refines all visitor-facing communications for a receptionist. |
+| [Release Fact Check and Approval Router](release-fact-check-and-approval-router.md) | Checks every fact in a press release and routes each section to the right approver. |
 | [Reputation Management Assistant](reputation-management-assistant.md) | Reputation monitoring, response drafting, and crisis planning for media relations specialists. |
+| [Speech Adaptation Package](speech-adaptation-package.md) | Turns a delivered speech into press, social and transcript pieces that match what was actually said. |
+| [Speech Q&A Preparation](speech-q-a-preparation.md) | Builds a checked Q&A brief of likely and hostile questions for an upcoming speech. |
 | [Speech Writing Assistant](speech-writing-assistant.md) | Crafts, refines, and tailors speeches for public relations professionals. |
+| [Spokesperson Q&A Briefing](spokesperson-q-a-briefing.md) | Builds a fact-checked briefing of hard questions and tested answers for an upcoming interview. |
 | [Stakeholder Communication Assistant](stakeholder-communication-assistant.md) | Drafts, plans, and coordinates all stakeholder communications for PR specialists. |
 | [Stakeholder Communication Coordinator](../../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
 | [Stakeholder Communication Director](../../executives-and-strategy/writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |

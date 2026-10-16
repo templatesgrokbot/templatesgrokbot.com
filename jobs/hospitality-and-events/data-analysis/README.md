@@ -1,6 +1,6 @@
 # Data Analysis templates for Hospitality and Events
 
-Clean, query, chart and explain data. 54 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 65 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,8 @@ Clean, query, chart and explain data. 54 Grok Bot templates, 3 of them filed in 
 | [Customer Insights Analyst](../../management/data-analysis/customer-insights-analyst.md) | Turns customer data into actionable insights for strategy and engagement. |
 | [Customer Satisfaction Survey Assistant](../../management/data-analysis/customer-satisfaction-survey-assistant.md) | Designs, runs, and analyzes customer satisfaction surveys, turning feedback into action plans. |
 | [Dynamic Pricing Strategist](../../sales/data-analysis/dynamic-pricing-strategist.md) | Analyzes market data and adjusts prices dynamically to maximize revenue for sales managers. |
+| [Event Registration Duplicate Checker](event-registration-duplicate-checker.md) | Finds likely duplicate registrations each day and proposes reversible merges for your approval. |
+| [Event Staff Hours and Tip Payout](event-staff-hours-and-tip-payout.md) | Turns event clock data and tip policy into a checked payroll file you approve. |
 | [Facility Operations Insight Planner](../../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 | [Feedback Collection Assistant](../../customer-support/data-analysis/feedback-collection-assistant.md) | Collects, analyzes, and reports customer feedback for receptionists to improve service quality. |
 | [Feedback Compass for Managers](../../executives-and-strategy/data-analysis/feedback-compass-for-managers.md) | Turns customer feedback into actionable insights for general managers. |
@@ -30,16 +32,21 @@ Clean, query, chart and explain data. 54 Grok Bot templates, 3 of them filed in 
 | [Feedback Insight Interpreter](../../executives-and-strategy/data-analysis/feedback-insight-interpreter.md) | Analyzes customer feedback to deliver actionable insights for marketing strategy. |
 | [Feedback Insights for Ops](../../operations/data-analysis/feedback-insights-for-ops.md) | Turns customer feedback into actionable insights and responses for operations managers. |
 | [Financial Forecasting Navigator](../../executives-and-strategy/data-analysis/financial-forecasting-navigator.md) | Forecasts revenue, expenses, cash flow, and risks from your data, then checks actuals. |
+| [Guest Complaint Root Cause Fixer](guest-complaint-root-cause-fixer.md) | Turns repeat guest complaints into process fixes and proves whether they worked. |
 | [Hotel Energy Efficiency Analyst](hotel-energy-efficiency-analyst.md) | Analyzes hotel energy data to cut costs and meet sustainability goals. |
+| [Hotel Rate Parity Check](hotel-rate-parity-check.md) | Compares your room rates across every channel each day and proposes fixes for any drift. |
+| [Hotel Rate Sheet Consistency](hotel-rate-sheet-consistency.md) | Keeps every working rate sheet matching the approved rate rules and drafts the corrections for approval. |
 | [Hotel Revenue Optimizer](hotel-revenue-optimizer.md) | Optimizes hotel revenue through pricing, forecasting, and channel analysis. |
 | [Hotel Staff Scheduling Optimizer](hotel-staff-scheduling-optimizer.md) | Analyzes hotel data to build balanced staff schedules, reduce costs, and ensure compliance. |
 | [Inventory Analysis Optimizer](../../management/data-analysis/inventory-analysis-optimizer.md) | Analyzes inventory data to optimize stock levels, cut costs, and prevent stockouts for business unit managers. |
 | [Inventory Forecasting and Replenishment Planner](../../operations/data-analysis/inventory-forecasting-and-replenishment-planner.md) | Track, forecast, and optimize inventory with AI-assisted operations management. |
 | [Inventory Optimization Assistant](../../management/data-analysis/inventory-optimization-assistant.md) | Manages inventory levels, forecasts demand, and optimizes stock for service managers. |
 | [Journey Insight Optimizer](../../science-and-research/data-analysis/journey-insight-optimizer.md) | Analyzes customer data to map, optimize, and report on the customer journey. |
+| [Kitchen Waste Reduction](kitchen-waste-reduction.md) | Reads weekly waste logs, ranks causes by cost, and tests one approved change at a time. |
 | [KPI Analysis and Forecasting Assistant](../../operations/data-analysis/kpi-analysis-and-forecasting-assistant.md) | Turns your KPI data into clear insights, forecasts, and action plans for operations decisions. |
 | [Market Price Optimizer](../../science-and-research/data-analysis/market-price-optimizer.md) | Analyzes market data to develop and recommend profitable pricing strategies. |
 | [Marketing Analytics and Reporting Assistant](../../sales/data-analysis/marketing-analytics-and-reporting-assistant.md) | Turns your marketing data into clear reports, forecasts, and spend recommendations. |
+| [Menu Engineering Sales Mix](menu-engineering-sales-mix.md) | Classes every dish by popularity and margin, tests proposed changes, and reports what to do. |
 | [Operations Cost Analyst](../../operations/data-analysis/operations-cost-analyst.md) | Analyzes costs, forecasts trends, and recommends savings for operations leadership. |
 | [Operations Data Insights Assistant](../../operations/data-analysis/operations-data-insights-assistant.md) | Turns operational data into clear insights, forecasts, and recommendations for global operations leaders. |
 | [Operations Data Optimizer](../../operations/data-analysis/operations-data-optimizer.md) | Optimize operational processes with data-driven analysis and automation. |
@@ -60,5 +67,9 @@ Clean, query, chart and explain data. 54 Grok Bot templates, 3 of them filed in 
 | [Service Journey Optimizer](../../management/data-analysis/service-journey-optimizer.md) | Maps, analyzes, and optimizes customer journeys for service managers. |
 | [Service Quality Enhancement Assistant](../../management/data-analysis/service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |
 | [Team Performance Monitor](../../management/data-analysis/team-performance-monitor.md) | Turns team performance data into insights, reports, and action plans for service managers. |
+| [Tour Gratuity Reconciliation](../../finance/data-analysis/tour-gratuity-reconciliation.md) | Matches each tour's bookings, payments, tips and fees, then prepares the guide's payout for your approval. |
+| [Vendor Commission Reconciliation Tracker](../../finance/data-analysis/vendor-commission-reconciliation-tracker.md) | Checks vendor commission statements against your tour logs and drafts claims for what is unpaid. |
+| [Weekly Food Cost Variance Reporter](weekly-food-cost-variance-reporter.md) | Compares actual and theoretical food cost weekly, explains the gap, and drafts actions for your approval. |
+| [Weekly Plate Cost Tracker](weekly-plate-cost-tracker.md) | Know the true food cost of every dish each week, with spikes marked and changes left to you. |
 
 [← All Hospitality and Events templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/hospitality-and-events)

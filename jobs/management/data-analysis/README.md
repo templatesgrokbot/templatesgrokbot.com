@@ -1,6 +1,6 @@
 # Data Analysis templates for Management
 
-Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 258 Grok Bot templates, 106 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,12 +8,17 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 |---|---|
 | [Abc Xyz Segmentation](../../operations/data-analysis/abc-xyz-segmentation.md) | Segment SKUs by value and demand variability, assign planning policies, and reallocate planner attention. |
 | [Agency Performance Analyst](agency-performance-analyst.md) | Turns agency performance data into clear insights and recommendations for insurance managers. |
+| [Agency Staffing Spend Review](../../healthcare/data-analysis/agency-staffing-spend-review.md) | Matches agency shifts to real vacancies, checks invoices against contract rates, and finds cheaper staffing options. |
 | [Agent Evaluation Reporting](../../it-and-development/data-analysis/agent-evaluation-reporting.md) | Turn raw agent evaluation runs into decision-ready reports with explicit outcome categories and denominators. |
 | [Agent Performance Analysis Assistant](../../customer-support/data-analysis/agent-performance-analysis-assistant.md) | Analyzes call center agent performance and turns it into coaching, reports, and training plans. |
+| [Automation Candidate Scoring](../../operations/data-analysis/automation-candidate-scoring.md) | Scores manual tasks for automation value and feasibility, then ranks candidates and plans pilots for your approval. |
 | [Benchmarking Analysis Assistant](benchmarking-analysis-assistant.md) | Benchmarking analysis assistant for management consultants, turning data into strategic insights and client-ready reports. |
+| [Beta Program Manager](../../product-development/data-analysis/beta-program-manager.md) | Tracks beta usage and feedback, drafts check-ins, and reports go or no-go against exit criteria. |
 | [Brand Image Analyst](brand-image-analyst.md) | Analyzes brand image from social, reviews, and surveys to guide e-commerce strategy. |
 | [Brand Loyalty Insights Assistant](brand-loyalty-insights-assistant.md) | Analyzes brand loyalty data and delivers actionable insights for strategic brand management. |
 | [Brand Perception Analyst](brand-perception-analyst.md) | Analyzes brand perception from reviews, social media, and surveys to guide strategy. |
+| [Building Energy Anomaly Finder](../../real-estate-and-construction/data-analysis/building-energy-anomaly-finder.md) | Finds energy waste in your buildings and tracks it until use returns to baseline. |
+| [Bus-Factor Risk Tracker](../../it-and-development/data-analysis/bus-factor-risk-tracker.md) | Finds single-person dependencies in your codebase and tracks whether the risk actually falls. |
 | [Business Analyst](../../operations/data-analysis/business-analyst.md) | Analyzes business processes, gathers requirements, and identifies improvement opportunities for operational efficiency. |
 | [Business Intelligence Insights Assistant](../../it-and-development/data-analysis/business-intelligence-insights-assistant.md) | Turns your business data into clear insights, forecasts, and reports for smarter decisions. |
 | [Business Strategy Analyst](business-strategy-analyst.md) | Turns market data and company inputs into strategic analysis, goals, and plans for management consultants. |
@@ -21,11 +26,14 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [Call Center Journey Mapper](../../customer-support/data-analysis/call-center-journey-mapper.md) | Maps customer journeys from call center data to improve experience. |
 | [Call Center Performance Monitor](../../customer-support/data-analysis/call-center-performance-monitor.md) | Monitors call center metrics in real time, alerts on issues, and coaches agents. |
 | [Call Center Report Generator](../../customer-support/data-analysis/call-center-report-generator.md) | Builds, schedules, and analyzes call center reports from templates to compliance. |
+| [Call Handle Time Outlier Review](../../customer-support/data-analysis/call-handle-time-outlier-review.md) | Finds weekly handle time outliers, groups their likely causes, and drafts the right follow-up for approval. |
 | [Call Quality Monitoring Assistant](../../customer-support/data-analysis/call-quality-monitoring-assistant.md) | Analyzes call transcripts and quality data to evaluate agents and drive improvements for call center supervisors. |
 | [Call Sentiment Analyst](../../customer-support/data-analysis/call-sentiment-analyst.md) | Analyzes call sentiment to improve customer experience and agent performance. |
 | [Call Volume Forecaster](../../customer-support/data-analysis/call-volume-forecaster.md) | Analyzes call volume data to forecast demand, optimize staffing, and improve service levels. |
 | [Campaign Effectiveness Analyst](campaign-effectiveness-analyst.md) | Analyzes marketing campaign data to reveal what drives results and what to do next. |
 | [Carrier Relationship Management](../../operations/data-analysis/carrier-relationship-management.md) | Manage carrier portfolios, negotiate rates, and track performance with scorecards. |
+| [Change Adoption Pulse Tracker](change-adoption-pulse-tracker.md) | Measures post-launch adoption by team and drafts targeted fixes until targets are met. |
+| [Change Resistance Hotspot Finder](change-resistance-hotspot-finder.md) | Finds teams at risk of rejecting a change early and proposes targeted actions to lift adoption. |
 | [Claim Severity Assessment Assistant](claim-severity-assessment-assistant.md) | Assesses insurance claim severity from data to reporting, ready for manager approval. |
 | [Claims Cost Management Assistant](claims-cost-management-assistant.md) | Analyzes claims data, forecasts costs, flags fraud, and recommends savings strategies for insurance claims managers. |
 | [Claims Data Insights Assistant](claims-data-insights-assistant.md) | Analyzes claims data to uncover trends, fraud, and cost-saving opportunities for insurance claims managers. |
@@ -36,13 +44,19 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [Claims Insights Analyst](claims-insights-analyst.md) | Turns insurance claims data into clear reports, forecasts, and risk insights for claims managers. |
 | [Client Health Dashboard](../../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
 | [Cold Chain Logistics Optimizer](../../operations/data-analysis/cold-chain-logistics-optimizer.md) | Optimizes cold chain logistics: routes, packaging, inventory, compliance, suppliers, risks, and quality. |
+| [Community Health Report](community-health-report.md) | Explains monthly community health changes and their likely causes for leadership. |
+| [Complaint Root Cause Rollup](../../operations/data-analysis/complaint-root-cause-rollup.md) | Groups new complaints by theme, links each theme to the site and process step behind it, and drafts an owner for approval. |
 | [Compliance Monitoring Inspector](../../legal/data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
 | [Compliance Route Planner](../../operations/data-analysis/compliance-route-planner.md) | Optimizes delivery routes from data analysis to compliance for logistics managers. |
 | [Construction Budget Estimator](../../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
+| [Construction Cost Variance Reporter](../../real-estate-and-construction/data-analysis/construction-cost-variance-reporter.md) | Builds the monthly cost report by cost code with a tied-out forecast final cost and explained variances. |
 | [Construction Risk Assessment Assistant](../../real-estate-and-construction/data-analysis/construction-risk-assessment-assistant.md) | Identifies, analyzes, and mitigates construction project risks with AI-driven insights. |
 | [Consultant Segment Profiler](consultant-segment-profiler.md) | Customer segmentation assistant for management consultants to analyze, profile, and target customer segments. |
+| [Contact Tracing Capacity Planner](../../government/data-analysis/contact-tracing-capacity-planner.md) | Projects cases and contacts, compares them to tracing capacity, and drafts a priority and staffing plan for approval. |
 | [Contract Report Builder](../../legal/data-analysis/contract-report-builder.md) | Builds and runs automated contract reports from data to distribution. |
 | [Cost Reduction Analyst](cost-reduction-analyst.md) | Finds and validates cost reduction opportunities for service managers. |
+| [Creator Commission Reconciler](../../marketing/data-analysis/creator-commission-reconciler.md) | Reconciles creator code sales each week and drafts commission statements for your approval. |
+| [Crew Fatigue Hours Watch](../../healthcare/data-analysis/crew-fatigue-hours-watch.md) | Checks paramedic hours and rest each week, flags crews near limits, and proposes roster changes for approval. |
 | [CRM Data Interpretation Assistant](../../sales/data-analysis/crm-data-interpretation-assistant.md) | Turns CRM data into clear sales insights and forecasts for sales managers. |
 | [Cross-Docking Efficiency Assistant](../../operations/data-analysis/cross-docking-efficiency-assistant.md) | Streamlines cross-docking logistics from inventory tracking to continuous improvement. |
 | [Customer Demographic Insight Engine](customer-demographic-insight-engine.md) | Turns customer demographic data into segment insights, marketing plans, and growth actions for e-commerce managers. |
@@ -66,9 +80,11 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [Defect Root Cause Reports](../../operations/data-analysis/defect-root-cause-reports.md) | Analyzes quality control data, finds defects and root causes, and drafts improvement plans for operations managers. |
 | [Demand Forecasting Analyst](demand-forecasting-analyst.md) | Forecasts product demand from market data, sentiment, and trends for market research managers. |
 | [Demand Forecasting Assistant](demand-forecasting-assistant.md) | Demand forecasting assistant for purchasing managers, turning data into accurate forecasts and clear reports. |
+| [Design Consultant Bid Comparator](../../real-estate-and-construction/data-analysis/design-consultant-bid-comparator.md) | Compares design consultant proposals on one scope and fee basis before you award. |
 | [Developer Churn](../../product-development/data-analysis/developer-churn.md) | Analyze developer churn and design retention strategies. |
 | [Developer Growth Analysis](../../it-and-development/data-analysis/developer-growth-analysis.md) | Analyzes recent coding chats to identify growth areas and curates learning resources. |
 | [Director Productivity Insight](../../executives-and-strategy/data-analysis/director-productivity-insight.md) | Analyzes employee productivity data and delivers actionable insights for managing directors. |
+| [Dispatch Shift Performance Report](../../operations/data-analysis/dispatch-shift-performance-report.md) | Turns each dispatch shift's call records into an accurate, explained performance report for supervisor approval. |
 | [Driver Satisfaction Survey Assistant](../../operations/data-analysis/driver-satisfaction-survey-assistant.md) | Builds, runs, and analyzes driver satisfaction surveys to improve fleet operations. |
 | [E-commerce Fraud Detection Assistant](e-commerce-fraud-detection-assistant.md) | Analyzes transactions, builds rules, and manages alerts to detect and prevent e-commerce fraud. |
 | [E-commerce Pricing Optimizer](e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
@@ -78,6 +94,7 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [Employee Performance Analytics Assistant](employee-performance-analytics-assistant.md) | Turns employee performance data into analytics, reviews, dashboards, and improvement plans. |
 | [Energy Consumption Optimizer](../../operations/data-analysis/energy-consumption-optimizer.md) | Optimizes your facility's energy use through data analysis, recommendations, and reporting. |
 | [Energy Procurement](../../operations/data-analysis/energy-procurement.md) | Optimize electricity and gas procurement, tariffs, demand charges, and PPAs for multi-site commercial facilities. |
+| [Engineering Metrics Health Review](../../it-and-development/data-analysis/engineering-metrics-health-review.md) | Turns delivery metric shifts into approved, curiosity-framed questions for team leads. |
 | [Enterprise Portfolio Manager](enterprise-portfolio-manager.md) | Runs portfolio health, risk, and capacity analysis and drafts executive-ready project reports. |
 | [Executive Forecast Report Builder](executive-forecast-report-builder.md) | Turns financial data into forecasts, scenarios, and reports for senior management decisions. |
 | [Executive Market Trend Forecaster](executive-market-trend-forecaster.md) | Turns market data into trend insights, forecasts, and strategic recommendations for senior managers. |
@@ -90,12 +107,15 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [Feedback Prioritization Compass](../../product-development/data-analysis/feedback-prioritization-compass.md) | Turns scattered customer feedback into clear, prioritized insights for product decisions. |
 | [Financial Forecasting Assistant](financial-forecasting-assistant.md) | Turns your business unit's financial data into forecasts, reports, and risk insights. |
 | [Financial Modeling Consultant](financial-modeling-consultant.md) | Builds and analyzes financial models for management consulting decisions. |
+| [Fleet Driver Coaching Review](../../operations/data-analysis/fleet-driver-coaching-review.md) | Turns weekly telematics events into fair driver scores and coaching notes for your approval. |
 | [Fleet Performance Reporting Assistant](../../operations/data-analysis/fleet-performance-reporting-assistant.md) | Turns fleet data into performance reports, trend analyses, and improvement recommendations. |
 | [Fleet Route Optimizer](../../operations/data-analysis/fleet-route-optimizer.md) | Optimizes fleet routes, cuts fuel costs, and plans around traffic and regulations. |
 | [Fleet Tracking Coordinator](../../government/data-analysis/fleet-tracking-coordinator.md) | Real-time fleet tracking, route optimization, and incident response for transportation managers. |
 | [Forecast Accuracy Review](../../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 | [Freight Cost Analysis Assistant](../../operations/data-analysis/freight-cost-analysis-assistant.md) | Freight cost analysis and optimization for logistics managers, from data to recommendations. |
 | [GEO Monthly Delta Report](../../marketing/data-analysis/geo-monthly-delta-report.md) | Tracks month-over-month GEO score changes and writes the client progress report. |
+| [Guest Complaint Root Cause Fixer](../../hospitality-and-events/data-analysis/guest-complaint-root-cause-fixer.md) | Turns repeat guest complaints into process fixes and proves whether they worked. |
+| [Hiring Plan Budget Forecaster](../../it-and-development/data-analysis/hiring-plan-budget-forecaster.md) | Keeps your hiring plan and budget aligned with a forecast you can defend. |
 | [Hotel Staff Scheduling Optimizer](../../hospitality-and-events/data-analysis/hotel-staff-scheduling-optimizer.md) | Analyzes hotel data to build balanced staff schedules, reduce costs, and ensure compliance. |
 | [Influencer Partnership Analyst](influencer-partnership-analyst.md) | Analyzes influencer partnerships from discovery to ROI, with fraud checks and crisis plans. |
 | [Insurance Competitive Intelligence Assistant](insurance-competitive-intelligence-assistant.md) | Turns competitor data into actionable insurance market intelligence for agency managers. |
@@ -116,9 +136,13 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [IT Budget Scenario Planner](../../it-and-development/data-analysis/it-budget-scenario-planner.md) | Turns IT spending history and plans into forecasts, scenarios, and reports for budget decisions. |
 | [IT Cost Forecaster for Managers](../../it-and-development/data-analysis/it-cost-forecaster-for-managers.md) | Analyzes IT costs, forecasts, and optimizes budgets for technology managers. |
 | [IT Support Optimization Assistant](../../it-and-development/data-analysis/it-support-optimization-assistant.md) | Optimize global IT customer support through AI-driven analysis, automation, and proactive issue resolution. |
+| [IT Vendor SLA Scorecard](../../it-and-development/data-analysis/it-vendor-sla-scorecard.md) | Builds your own quarterly vendor SLA scorecard and calculates service credits before the review. |
 | [Job Description Analyzer](../../human-resources/data-analysis/job-description-analyzer.md) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. |
+| [Joint Business Plan Tracker](../../sales/data-analysis/joint-business-plan-tracker.md) | Tracks each quarter's joint plan goals against live data, explains misses and follows agreed actions. |
 | [Kpi Dashboard Design](kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
 | [Lab Data Analysis Assistant](../../science-and-research/data-analysis/lab-data-analysis-assistant.md) | Turns lab data into clear analyses, charts, and recommendations for lab managers. |
+| [Lane and Carrier Route Review](../../operations/data-analysis/lane-and-carrier-route-review.md) | Reviews freight lanes quarterly to cut cost per unit without breaking delivery windows. |
+| [Lead Source Quality Review](../../sales/data-analysis/lead-source-quality-review.md) | Ranks lead sources by revenue per dollar and recommends where to grow, fix, or cut budget. |
 | [Logistics Demand Forecaster](../../operations/data-analysis/logistics-demand-forecaster.md) | Turns sales data into demand forecasts, risk checks, and stakeholder reports for logistics managers. |
 | [Logistics Performance Metrics Analyzer](../../operations/data-analysis/logistics-performance-metrics-analyzer.md) | Turns your logistics performance data into clear insights and improvement actions. |
 | [Logistics Warehouse Space Planner](../../operations/data-analysis/logistics-warehouse-space-planner.md) | Optimizes warehouse layouts for space, flow, safety, and cost. |
@@ -128,8 +152,10 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [Market Trend Analyst for Purchasing](market-trend-analyst-for-purchasing.md) | Turns market data into purchasing decisions for procurement teams. |
 | [Market Trend Analyzer](market-trend-analyzer.md) | Analyzes market trends and data to guide e-commerce decisions. |
 | [Marketing Metrics Analyst](marketing-metrics-analyst.md) | Turns your marketing data into clear metrics, insights, and decisions. |
+| [Mass Budget Tracking Assistant](../../product-development/data-analysis/mass-budget-tracking-assistant.md) | Tracks weekly mass roll-ups and flags margin risks before they are lost. |
 | [Meeting Insights Analyzer](meeting-insights-analyzer.md) | Analyzes meeting transcripts to reveal your communication patterns and give actionable feedback. |
 | [Monte Carlo Monitoring Advisor](../../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
+| [Monthly Practice Revenue Review](../../healthcare/data-analysis/monthly-practice-revenue-review.md) | Turns monthly collections, aging and denial data into a one-page revenue leak summary with fixes. |
 | [Operational Efficiency Analyst](operational-efficiency-analyst.md) | Analyzes operations data to find inefficiencies and recommend improvements. |
 | [Operations Data Optimizer](../../operations/data-analysis/operations-data-optimizer.md) | Optimize operational processes with data-driven analysis and automation. |
 | [Operations Feedback Insight Builder](../../operations/data-analysis/operations-feedback-insight-builder.md) | Analyzes feedback, designs surveys, trains reps, monitors quality, and reports on customer service performance. |
@@ -139,6 +165,8 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [Operations QC Insight Partner](../../operations/data-analysis/operations-qc-insight-partner.md) | Quality control analysis assistant for operations managers. |
 | [Ops Bottleneck Finder](../../operations/data-analysis/ops-bottleneck-finder.md) | Analyzes operations data and processes to find bottlenecks, improve quality, and cut waste. |
 | [Otif Analysis](../../operations/data-analysis/otif-analysis.md) | Audit delivery OTIF from order data, find metric gaps, and pinpoint where lateness concentrates. |
+| [Partner Lead Distribution Review](../../sales/data-analysis/partner-lead-distribution-review.md) | Reviews how leads were routed to partners, simulates fairer rules on past leads, and rechecks results after an approved change. |
+| [Partner Quarterly Review Assistant](../../sales/data-analysis/partner-quarterly-review-assistant.md) | Pulls partner data each quarter, reconciles it, and drafts reviews with tracked actions for approval. |
 | [Performance Metrics Manager](performance-metrics-manager.md) | Turns employee performance data into evaluations, goals, feedback, and plans. |
 | [Pipeline Health Analyzer](../../sales/data-analysis/pipeline-health-analyzer.md) | Analyze pipeline health, flag stalled deals, forecast closes, and prescribe next actions. |
 | [Post-Project Analysis Assistant](post-project-analysis-assistant.md) | Turns completed project data into a lessons-learned report and future-project recommendations. |
@@ -157,17 +185,23 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [Production Scheduling](../../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
 | [Production Scheduling Optimizer](../../operations/data-analysis/production-scheduling-optimizer.md) | Builds, monitors, and optimizes production schedules from data and stakeholder input. |
 | [Project Analytics Operations Assistant](../../operations/data-analysis/project-analytics-operations-assistant.md) | Turns project data into forecasts, risk warnings, and dashboards for ops managers. |
+| [Project Closure Benefits Realization](project-closure-benefits-realization.md) | Tracks each promised project benefit after launch and reports what was delivered, late or lost. |
 | [Project Data Analysis Assistant](project-data-analysis-assistant.md) | Turns raw project data into analysis, insights, and decision-ready reports for project managers. |
 | [Project Management Insight Assistant](../../operations/data-analysis/project-management-insight-assistant.md) | Tracks project tasks, resources, risks, budgets, timelines, quality, and stakeholder communication for operations directors. |
 | [Promotional Effectiveness Analyst](promotional-effectiveness-analyst.md) | Analyzes promotional effectiveness from sales, feedback, and competitor data to recommend improvements and optimize budget. |
 | [Purchasing Budget and Cost Analyst](purchasing-budget-and-cost-analyst.md) | Budgeting and cost analysis assistant for purchasing managers, turning data into forecasts, savings, and decisions. No hype, just numbers. |
 | [QA Risk Management Assistant](../../it-and-development/data-analysis/qa-risk-management-assistant.md) | Identifies, assesses, and mitigates QA risks with data-driven insights and stakeholder-ready reports. |
 | [Quality Control Operations Assistant](../../operations/data-analysis/quality-control-operations-assistant.md) | Quality control assistant for operations managers: defect analysis, audits, and continuous improvement. |
+| [Quality Dispute and Calibration Assistant](../../customer-support/data-analysis/quality-dispute-and-calibration-assistant.md) | Resolves score disputes with quoted evidence and flags rubric items reviewers score inconsistently. |
 | [Quarterly Business Review Builder](../../marketing/data-analysis/quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
+| [Quarterly Plan Assumption Check](quarterly-plan-assumption-check.md) | Tests the assumptions behind your quarterly plan against current data and flags what has broken. |
 | [Real-Time Logistics Monitor](../../operations/data-analysis/real-time-logistics-monitor.md) | Real-time logistics monitoring and analysis for a logistics planner's operations. |
+| [Rehab Progress and Budget Tracker](../../real-estate-and-construction/data-analysis/rehab-progress-and-budget-tracker.md) | Compares contractor invoices and progress photos to your rehab budget and schedule, flagging overruns early. |
 | [Rehabilitation Analyzer](../../healthcare/data-analysis/rehabilitation-analyzer.md) | Analyze rehab training data, spot patterns, assess progress, and get personalized recommendations. |
 | [Rep Performance Scorecard](../../sales/data-analysis/rep-performance-scorecard.md) | Builds multi-dimensional rep performance scorecards with coaching priorities and peer benchmarks. |
 | [Resource Allocation Strategist](resource-allocation-strategist.md) | Analyzes resource data and proposes allocation strategies for project managers. |
+| [Resource Request Comparison](resource-request-comparison.md) | Turns mixed-unit resource requests into one comparable review for engineering managers. |
+| [Restoration Success Criteria Monitor](../../science-and-research/data-analysis/restoration-success-criteria-monitor.md) | Tracks permit success criteria each quarter and flags projected misses with approved actions. |
 | [Retail Inventory Optimizer](retail-inventory-optimizer.md) | Forecasts demand, optimizes stock, and prevents shrinkage for retail managers. |
 | [Retail Sales Trend Analyst](retail-sales-trend-analyst.md) | Turns retail sales data into trend insights, forecasts, and strategy recommendations. |
 | [Retail Sustainability Analyst](retail-sustainability-analyst.md) | Analyzes retail sustainability data and generates actionable recommendations for greener operations. |
@@ -178,6 +212,7 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [Route Optimization Assistant](../../operations/data-analysis/route-optimization-assistant.md) | Optimizes delivery routes, estimates times, cuts costs, and monitors fleet performance. |
 | [Route Optimization Planner](../../operations/data-analysis/route-optimization-planner.md) | Optimizes delivery routes, cuts costs, and flags risks for supply chain managers. |
 | [Safety Stock Review](../../operations/data-analysis/safety-stock-review.md) | Sizes or audits safety stock using the z*sigma*sqrt(LT) formula with empirical stress tests per variability class. |
+| [Sales Dashboard Consolidator](../../sales/data-analysis/sales-dashboard-consolidator.md) | Consolidates sales metrics into territory, rep, and pipeline dashboard reports from your latest data. |
 | [Sales Data Coach](../../sales/data-analysis/sales-data-coach.md) | Turns your sales data into performance insights, forecasts, and coaching for your team. |
 | [Sales Feedback Action Planner](../../sales/data-analysis/sales-feedback-action-planner.md) | Turns customer feedback into sales insights, trends, and actions. |
 | [Sales Feedback Insight Compass](../../sales/data-analysis/sales-feedback-insight-compass.md) | Turns customer feedback into actionable insights for sales strategy and product decisions. |
@@ -185,6 +220,7 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [Service Journey Optimizer](service-journey-optimizer.md) | Maps, analyzes, and optimizes customer journeys for service managers. |
 | [Service Quality Enhancement Assistant](service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |
 | [Shopify Review Triage](../../customer-support/data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
+| [Site Data Entry Lag Monitor](../../healthcare/data-analysis/site-data-entry-lag-monitor.md) | Finds clinical sites falling behind on data entry, drafts reminders, and tracks whether they improve. |
 | [Social Media Engagement Analyst](social-media-engagement-analyst.md) | Analyzes social media engagement to guide brand strategy and improve interaction. |
 | [Social Media Performance Analyst](social-media-performance-analyst.md) | Analyzes your social media performance and gives actionable insights for e-commerce growth. |
 | [Spend Analysis Assistant](../../legal/data-analysis/spend-analysis-assistant.md) | Turns your spend data into clear insights, reports, and recommendations for smarter contract decisions. |
@@ -212,6 +248,7 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [Team Composition Analysis](../../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Team Performance Monitor](team-performance-monitor.md) | Turns team performance data into insights, reports, and action plans for service managers. |
 | [Team Productivity Analysis Assistant](../../operations/data-analysis/team-productivity-analysis-assistant.md) | Analyzes team productivity data and turns it into actionable management decisions. |
+| [Technician Flat-Rate Time Reconciliation](../../operations/data-analysis/technician-flat-rate-time-reconciliation.md) | Reconciles billed, clocked and book time by job and flags the gaps that matter. |
 | [Trading Ledger](../../finance/data-analysis/trading-ledger.md) | Journal every trade's thesis, plan and emotion into your own Notion database, then grade decisions not P&L. |
 | [Transportation Cost-Benefit Analyst](../../government/data-analysis/transportation-cost-benefit-analyst.md) | Cost-benefit analysis for transportation decisions, from data to report. |
 | [Transportation File Analyzer](../../government/data-analysis/transportation-file-analyzer.md) | Manage transportation files and data analysis with AI-assisted workflows. |
@@ -220,8 +257,12 @@ Clean, query, chart and explain data. 217 Grok Bot templates, 97 of them filed i
 | [Transportation Risk Manager](../../government/data-analysis/transportation-risk-manager.md) | Identifies, mitigates, and monitors transportation risks with data-driven insights and plans. |
 | [Vendor Management Insights Assistant](../../it-and-development/data-analysis/vendor-management-insights-assistant.md) | Turns vendor data into performance, risk, contract, and cost insights for technology managers. |
 | [Vendor Performance Analyst](../../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+| [Volunteer Burnout Early Warning](volunteer-burnout-early-warning.md) | Spots overloaded core volunteers early and drafts a caring check-in for your approval. |
+| [Volunteer Impact Report Assistant](volunteer-impact-report-assistant.md) | Turns messy volunteer sign-in and self-logged hours into a confirmed monthly impact report. |
 | [Warehouse Automation Planner](../../operations/data-analysis/warehouse-automation-planner.md) | Optimizes automated warehouse operations from inventory to maintenance for logistics planners. |
 | [Warehouse Layout Optimizer](../../operations/data-analysis/warehouse-layout-optimizer.md) | Optimizes warehouse layouts for space, flow, and efficiency. |
+| [Weekly Category Sales Review](weekly-category-sales-review.md) | Turns weekly category data into a review that explains sales and margin changes and proposes actions. |
+| [Weekly OEE Loss Review](../../operations/data-analysis/weekly-oee-loss-review.md) | Turns the week's line data into a ranked loss review with a named owner for each. |
 | [Weekly Ops Report](weekly-ops-report.md) | Turn raw operational data into a weekly management report answering what changed, where concentrated, what needs a decision. |
 
 [← All Management templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/management)

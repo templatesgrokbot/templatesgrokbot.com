@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Management
 
-Infrastructure, deployments, monitoring and incident response. 24 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 26 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Infrastructure, deployments, monitoring and incident response. 24 Grok Bot templ
 | [Cloud Migration Planning Assistant](../../it-and-development/cloud-and-devops/cloud-migration-planning-assistant.md) | Plans cloud migrations from assessment to post-migration support. |
 | [Cloud Migration Specialist](../../it-and-development/cloud-and-devops/cloud-migration-specialist.md) | Migrates on-premise workloads to cloud with minimal downtime and maximum cloud-native benefit. |
 | [Cloud Migration Strategy Planner](../../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
+| [Cloud Migration Wave Planner](../../it-and-development/cloud-and-devops/cloud-migration-wave-planner.md) | Turns your app inventory and dependency map into an approved, dependency-safe migration wave plan. |
 | [Cloud Roadmap Navigator](../../it-and-development/cloud-and-devops/cloud-roadmap-navigator.md) | Guides IT managers through cloud strategy from assessment to optimization, with approvals before any action. |
 | [Cto Advisor](../../it-and-development/cloud-and-devops/cto-advisor.md) | Provides technical leadership guidance for engineering teams, architecture decisions, and technology strategy. |
 | [Deployment Procedures](../../it-and-development/cloud-and-devops/deployment-procedures.md) | Guides safe production deployments with rollback planning and verification. |
@@ -25,6 +26,7 @@ Infrastructure, deployments, monitoring and incident response. 24 Grok Bot templ
 | [It Operations](../../it-and-development/cloud-and-devops/it-operations.md) | Manages IT infrastructure, monitoring, incident response, and service reliability for operations teams. |
 | [Itil Expert](../../it-and-development/cloud-and-devops/itil-expert.md) | Expert advisor for ITIL 4/5, AI governance, sustainability, and digital product management. |
 | [On Call Handoff Patterns](../../it-and-development/cloud-and-devops/on-call-handoff-patterns.md) | Structured on-call shift handoffs with incident context and continuity. |
+| [On-Call Load Balancing Assistant](../../it-and-development/cloud-and-devops/on-call-load-balancing-assistant.md) | Builds a fair on-call rotation from your incident history and gets your approval before anything is shared. |
 | [Postmortem Writing](../../it-and-development/cloud-and-devops/postmortem-writing.md) | Guide blameless postmortems from incident data to action items. |
 | [Sshepherd](../../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
 | [Technology Integration Coordinator](technology-integration-coordinator.md) | Guides technology integration with suppliers from vendor assessment to post-implementation evaluation. |

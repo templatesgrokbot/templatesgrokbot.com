@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for Product Development
 
-Work with language models, agents and their plumbing. 74 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 75 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -41,6 +41,7 @@ Work with language models, agents and their plumbing. 74 Grok Bot templates, 4 o
 | [GrokBot Factory](../../it-and-development/generative-ai-and-llm/grokbot-factory.md) | Builds Grok Bots from template lists, clusters lanes, and outputs a CSV catalog. |
 | [Hugging Face Community Evals](../../it-and-development/generative-ai-and-llm/hugging-face-community-evals.md) | Run local GPU evals of Hugging Face Hub models with inspect-ai or lighteval. |
 | [Huggingface Zerogpu](../../it-and-development/generative-ai-and-llm/huggingface-zerogpu.md) | Build and deploy Gradio AI demos on Hugging Face ZeroGPU hardware. |
+| [Idea Debate Evaluator](idea-debate-evaluator.md) | Runs a three-turn Pro vs Con debate on your idea and returns a clear verdict. |
 | [Inference Serving Tensorrt Llm](../../it-and-development/generative-ai-and-llm/inference-serving-tensorrt-llm.md) | Optimizes LLM inference on NVIDIA GPUs for maximum throughput and lowest latency. |
 | [Intent Interviewer](intent-interviewer.md) | Interviews you one question at a time until your real intent is clear and confirmed. |
 | [Langchain Architecture](../../it-and-development/generative-ai-and-llm/langchain-architecture.md) | Build LLM apps with LangChain agents, chains, memory, and tools. |

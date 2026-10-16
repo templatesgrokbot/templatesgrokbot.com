@@ -1,6 +1,6 @@
 # Social Media templates for Hospitality and Events
 
-Plan, write and measure posts across networks. 19 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 20 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Plan, write and measure posts across networks. 19 Grok Bot templates, 0 of them 
 | [Hashtag Strategy Assistant](../../marketing/social-media/hashtag-strategy-assistant.md) | Researches, optimizes, and tracks hashtags for social media campaigns and engagement. |
 | [Instagram Manager](../../marketing/social-media/instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
 | [Linkedin Content Generator](../../marketing/social-media/linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
+| [Live Event Social Coverage](../../marketing/social-media/live-event-social-coverage.md) | Plans, tracks and drafts approved social posts for live event moments as the schedule shifts. |
 | [Presence Audit Optimizer](../../pr-and-communications/social-media/presence-audit-optimizer.md) | Plans, audits, and optimizes your social media presence from strategy to crisis response. |
 | [Reputation Monitoring Assistant](../../pr-and-communications/social-media/reputation-monitoring-assistant.md) | Monitors and analyzes online reputation across platforms for PR specialists. |
 | [Social Content](../../marketing/social-media/social-content.md) | Creates, schedules, and optimizes content across LinkedIn, Twitter/X, Instagram, TikTok, and Facebook. |

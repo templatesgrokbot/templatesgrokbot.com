@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Product Development
 
-Infrastructure, deployments, monitoring and incident response. 53 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 55 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,7 @@ Infrastructure, deployments, monitoring and incident response. 53 Grok Bot templ
 | [Codex Profiles](../../it-and-development/cloud-and-devops/codex-profiles.md) | Manage isolated Codex CLI and Desktop profiles for separate accounts and projects. |
 | [Cohesivity](../../it-and-development/cloud-and-devops/cohesivity.md) | Provision databases, hosting, auth, and APIs for AI agents via one HTTP API. |
 | [Conductor Setup](../../it-and-development/cloud-and-devops/conductor-setup.md) | Configure Rails projects for Conductor parallel coding agents with isolated ports and Redis. |
+| [Crash Rate Rollout Guard](../../it-and-development/cloud-and-devops/crash-rate-rollout-guard.md) | Checks each rollout stage against the last release and recommends pause, continue or rollback. |
 | [Deployment Procedures](../../it-and-development/cloud-and-devops/deployment-procedures.md) | Guides safe production deployments with rollback planning and verification. |
 | [Deprecation And Migration](../../it-and-development/cloud-and-devops/deprecation-and-migration.md) | Remove old systems and migrate users safely to new implementations. |
 | [Error Debugging Error Analysis](../../it-and-development/cloud-and-devops/error-debugging-error-analysis.md) | Analyze production incidents and debug distributed systems with systematic root-cause analysis. |
@@ -46,6 +47,7 @@ Infrastructure, deployments, monitoring and incident response. 53 Grok Bot templ
 | [Multi-Agent Performance Optimizer](../../it-and-development/cloud-and-devops/agent-orchestration-multi-agent-optimize.md) | Profile and optimize multi-agent systems for throughput, latency, and cost. |
 | [Neon Functions](../../it-and-development/cloud-and-devops/neon-functions.md) | Deploy long-running Node.js HTTP handlers next to your Neon Postgres database. |
 | [Openapi Spec Generation](../../it-and-development/cloud-and-devops/openapi-spec-generation.md) | Generate and maintain OpenAPI 3.1 specs from code or design-first. |
+| [Page Performance Regression Watch](../../it-and-development/cloud-and-devops/page-performance-regression-watch.md) | Keeps key pages within performance budgets after every release and every night. |
 | [Platform Engineer](../../it-and-development/cloud-and-devops/platform-engineer.md) | Designs and builds internal developer platforms to reduce friction and accelerate delivery. |
 | [Postgresql](../../it-and-development/cloud-and-devops/postgresql.md) | Designs PostgreSQL schemas with data types, indexes, constraints, and partitioning. |
 | [Postmortem Writing](../../it-and-development/cloud-and-devops/postmortem-writing.md) | Guide blameless postmortems from incident data to action items. |

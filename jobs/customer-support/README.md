@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **192 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **261 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,19 +11,19 @@ Answering, routing and resolving customer requests. **192 ready-made Grok Bot te
 
 | Kind of work | Templates |
 |---|---:|
-| [Support & Community](support-and-community/README.md) | 80 |
-| [Data Analysis](data-analysis/README.md) | 35 |
-| [Productivity](productivity/README.md) | 21 |
+| [Support & Community](support-and-community/README.md) | 128 |
+| [Data Analysis](data-analysis/README.md) | 37 |
+| [Productivity](productivity/README.md) | 30 |
+| [Knowledge Management](knowledge-management/README.md) | 16 |
 | [Writing & Content](writing-and-content/README.md) | 11 |
-| [Knowledge Management](knowledge-management/README.md) | 9 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 6 |
+| [Security & Compliance](security-and-compliance/README.md) | 6 |
 | [Coding](coding/README.md) | 5 |
 | [Translation](translation/README.md) | 5 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 4 |
-| [Security & Compliance](security-and-compliance/README.md) | 4 |
 | [Research](research/README.md) | 3 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 3 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
 | [Office Tools](office-tools/README.md) | 1 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
@@ -34,18 +34,32 @@ Answering, routing and resolving customer requests. **192 ready-made Grok Bot te
 
 | Template | What it does |
 |---|---|
+| [Account Setup Blocker Chaser](support-and-community/account-setup-blocker-chaser.md) | Finds customers stuck in setup and drafts the message that moves them forward. |
+| [Account Setup Verification](support-and-community/account-setup-verification.md) | Checks a customer's live account at each setup milestone and reports what is actually working. |
+| [After-Hours Message Router](support-and-community/after-hours-message-router.md) | Routes overnight voicemails, emails and form messages to the right person and confirms they were acknowledged. |
 | [After-Sales Service Assistant](../sales/support-and-community/after-sales-service-assistant.md) | Handles after-sales service tasks: follow-ups, troubleshooting, feedback, and more. |
 | [Agentphone](../operations/support-and-community/agentphone.md) | Manage phone numbers, voice agents, calls, and SMS via the AgentPhone API. |
+| [Ban Appeal Review Assistant](support-and-community/ban-appeal-review-assistant.md) | Reviews ban appeals against your guidelines and past cases, then drafts a recommendation for another moderator to decide. |
+| [Billing Dispute Reconstructor](support-and-community/billing-dispute-reconstructor.md) | Rebuilds the charge timeline for a disputed invoice and drafts the explanation for rep approval. |
 | [Call Center Crisis Supervisor](support-and-community/call-center-crisis-supervisor.md) | Helps call center supervisors manage crises from detection to post-crisis review. |
+| [Call Escalation Callback Tracker](support-and-community/call-escalation-callback-tracker.md) | Tracks every promised callback so escalations are called on time and logged. |
+| [Chargeback Evidence Builder](support-and-community/chargeback-evidence-builder.md) | Builds complete evidence packs for payment disputes and tracks them to the deadline. |
+| [Claim Status Update Assistant](../insurance/support-and-community/claim-status-update-assistant.md) | Drafts and sends rep-approved proactive status updates to customers on stale open claims. |
 | [Claims Processing Assistant](support-and-community/claims-processing-assistant.md) | Handles claim inquiries, document collection, status updates, and appeals for insurance customer service. |
 | [Client Communication Manager](../legal/support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
 | [Community Mod](../operations/support-and-community/community-mod.md) | Reads the queue against your written rules and escalates the calls a human should make. |
 | [Complaint Handling Assistant](support-and-community/complaint-handling-assistant.md) | Handles customer complaints from acknowledgment to resolution, with analytics and follow-up. |
+| [Complaint Pattern Escalation](support-and-community/complaint-pattern-escalation.md) | Groups repeated complaints by cause and turns them into one tracked escalation for the product team. |
 | [Contract Query Resolution Assistant](../legal/support-and-community/contract-query-resolution-assistant.md) | Resolves contract queries from triage to follow-up, tracking every step and reporting metrics. |
 | [Coverage Inquiry Assistant](support-and-community/coverage-inquiry-assistant.md) | Handles insurance coverage inquiries from verification to resolution for customer service reps. |
 | [Crisis Management Playbook Builder](support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
+| [Customer Complaint Escalation Assistant](support-and-community/customer-complaint-escalation-assistant.md) | Logs complaints, suggests policy-based resolutions, tracks follow-up, and escalates to managers when needed. |
+| [Customer Escalation War Room](support-and-community/customer-escalation-war-room.md) | Builds one verified escalation timeline, tracks every action to a checked result, and briefs you before each customer call. |
+| [Customer Export Troubleshooting](support-and-community/customer-export-troubleshooting.md) | Reproduces failed customer data exports, finds a permitted repair, and writes a tested recovery procedure for approval. |
+| [Customer Health Survey Follow-up](support-and-community/customer-health-survey-follow-up.md) | Replies to every low survey score and checks the issue was solved. |
 | [Customer Inquiry Response Assistant](support-and-community/customer-inquiry-response-assistant.md) | Drafts, translates, and tracks customer support replies across channels. |
 | [Customer Issue Resolution Assistant](support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
+| [Customer Message Triage Assistant](support-and-community/customer-message-triage-assistant.md) | Reads buyer messages, checks orders, drafts replies, and flags anything needing your approval. |
 | [Customer Onboarding Assistant](support-and-community/customer-onboarding-assistant.md) | Guides new insurance customers through onboarding with personalized, step-by-step support. |
 | [Customer Personalization Strategist](../executives-and-strategy/support-and-community/customer-personalization-strategist.md) | Personalizes every customer interaction from inquiry to loyalty for senior executives. |
 | [Customer Service Improvement Assistant](../operations/support-and-community/customer-service-improvement-assistant.md) | Analyzes logistics customer feedback and automates support workflows to improve satisfaction. |
@@ -55,55 +69,87 @@ Answering, routing and resolving customer requests. **192 ready-made Grok Bot te
 | [Customer Support](support-and-community/customer-support.md) | Resolves support tickets and creates help documentation from confirmed facts only. |
 | [Customer Support Assistant](support-and-community/customer-support-assistant.md) | Handles customer questions, tracks orders, recommends products, and escalates when needed. |
 | [Data Backup and Recovery Assistant](support-and-community/data-backup-and-recovery-assistant.md) | Guides users through data backup, recovery, and disaster planning to keep their data safe. |
+| [Device Compatibility Triage Assistant](../it-and-development/support-and-community/device-compatibility-triage-assistant.md) | Turns a hardware ticket into a compatibility-checked diagnostic path and an approval-ready packet. |
 | [Emergency Response Coordinator](support-and-community/emergency-response-coordinator.md) | Coordinates emergency response support for insurance policyholders from first contact to claim resolution. |
 | [Escalation Closure Copilot](support-and-community/escalation-closure-copilot.md) | Helps customer support reps handle escalations from identification to closure, with drafts, tracking, and insights. |
 | [Escalation Handling Assistant](support-and-community/escalation-handling-assistant.md) | Manages customer escalations from detection to resolution with structured procedures and insights. |
 | [Escalation Management Supervisor Assistant](support-and-community/escalation-management-supervisor-assistant.md) | Helps call center supervisors craft escalation guidelines, triage issues, and monitor performance. |
+| [Feature Request Closure Assistant](support-and-community/feature-request-closure-assistant.md) | Closes the loop with customers when their feature requests ship, merge, or are declined. |
 | [Feedback Loop Manager](../management/support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
 | [Freight Broker Customer Communication Assistant](../sales/support-and-community/freight-broker-customer-communication-assistant.md) | Handles customer inquiries, quotes, updates, complaints, and education for freight brokerage clients. |
 | [Freshdesk Automation](support-and-community/freshdesk-automation.md) | Automate Freshdesk ticket, contact, and company operations via Rube MCP. Always search tools first. Requires approval for any customer-facing action. |
 | [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
+| [Guest Complaint Recovery](../hospitality-and-events/support-and-community/guest-complaint-recovery.md) | Answers every guest complaint within a day and flags repeat issues for the weekly meeting. |
 | [Hardware and Software Configuration Assistant](../it-and-development/support-and-community/hardware-and-software-configuration-assistant.md) | Guides help desk technicians through hardware and software configuration tasks. |
 | [Hardware Support Assistant](support-and-community/hardware-support-assistant.md) | Guides hardware users through troubleshooting, setup, upgrades, and maintenance with clear steps. |
 | [Healthcare Patient Support](support-and-community/healthcare-patient-support.md) | Handles patient billing, insurance, appointment and complaint questions with empathy and clear escalation. |
 | [Help Desk Efficiency Director](../it-and-development/support-and-community/help-desk-efficiency-director.md) | Turns help desk tickets, chats, and metrics into faster resolutions and proactive IT support. |
+| [Help Desk Escalation Handoff](../it-and-development/support-and-community/help-desk-escalation-handoff.md) | Builds a complete escalation handoff package so the receiving team accepts it without asking for more. |
 | [Help Desk Escalation Router](../it-and-development/support-and-community/help-desk-escalation-router.md) | Routes help desk escalations to the right departments and tracks every handoff. |
 | [Help Desk Feedback Manager](../it-and-development/support-and-community/help-desk-feedback-manager.md) | Collects, analyzes, and implements user feedback for help desk improvements. |
 | [Help Desk Ticket Logger](../it-and-development/support-and-community/help-desk-ticket-logger.md) | Logs, triages, and escalates help desk tickets from user reports to resolution notes. |
 | [Helpdesk Automation](support-and-community/helpdesk-automation.md) | Browse helpdesk tickets, views, canned responses, and custom fields via Rube MCP. |
 | [Helpdesk Management Assistant](support-and-community/helpdesk-management-assistant.md) | Triages tickets, resolves common issues, and maintains helpdesk systems for technical support specialists. |
+| [Identity Document Quality Checker](support-and-community/identity-document-quality-checker.md) | Checks uploaded identity documents for readability and drafts precise resubmission requests for approval. |
 | [Initial Problem Assessment Assistant](../it-and-development/support-and-community/initial-problem-assessment-assistant.md) | Guides help desk technicians through initial problem assessment and resolution. |
+| [Insurance Claim Intake Completeness](../insurance/support-and-community/insurance-claim-intake-completeness.md) | Turns a reported claim into a complete, checked file for the adjuster, with every customer message approved by you. |
 | [Insurance Dispute Resolution Assistant](support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
 | [Insurance Payment Assistance Assistant](support-and-community/insurance-payment-assistance-assistant.md) | Handles insurance payment assistance: plans, extensions, reminders, processing, history, confirmations, and more. |
 | [Intercom Automation](support-and-community/intercom-automation.md) | Automate Intercom conversations, contacts, companies, and admins via Composio. |
+| [Known Issue Workaround Matcher](support-and-community/known-issue-workaround-matcher.md) | Matches support cases to documented known issues and drafts confirmed workarounds. |
+| [Learner Support Ticket Pattern](support-and-community/learner-support-ticket-pattern.md) | Groups support tickets by cause, proposes fixes, and tracks whether ticket volume falls. |
 | [Legal Intake Concierge](../legal/support-and-community/legal-intake-concierge.md) | Manages client communication for lawyers, from intake to follow-up, with approval gates. |
 | [Live Chat Support Assistant](support-and-community/live-chat-support-assistant.md) | Handles live chat support from triage to escalation so your customers get answers fast. |
 | [Logistics Customer Service Improver](../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
 | [Logistics Customer Service Optimizer](../operations/support-and-community/logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
 | [Loyalty Program Support Assistant](support-and-community/loyalty-program-support-assistant.md) | Loyalty program support assistant for customer service reps handling member queries and engagement. |
+| [Member Dispute Mediation](support-and-community/member-dispute-mediation.md) | Calm member disputes early with timelines, rule checks, and drafted messages for moderator approval. |
 | [Multilingual Support Planner](support-and-community/multilingual-support-planner.md) | Builds and runs multilingual support systems for call center supervisors. |
+| [Multilingual Ticket Clarifier](support-and-community/multilingual-ticket-clarifier.md) | Translates non-English support tickets, resolves ambiguous terms against evidence, and drafts a brief or a clarifying question for your approval. |
 | [Network Troubleshooting Guide](../it-and-development/support-and-community/network-troubleshooting-guide.md) | Network troubleshooting guide for help desk technicians, step by step. |
+| [New Customer Early Issue Triage](support-and-community/new-customer-early-issue-triage.md) | Watches new accounts' first 90 days, drafts replies, routes issues, and escalates anything stuck. |
 | [Order Management Support Assistant](support-and-community/order-management-support-assistant.md) | Handles customer order inquiries from status checks to refunds, with approval before any action. |
+| [Outage Surge Communication](support-and-community/outage-surge-communication.md) | Keeps agents and customers on one accurate message during a service outage. |
+| [Parent Concern Log and Response](support-and-community/parent-concern-log-and-response.md) | Logs parent concerns, checks them against playing-time policy and data, and drafts a reply for your approval. |
+| [Partner Escalation Tracker](support-and-community/partner-escalation-tracker.md) | Logs partner issues, routes them, chases updates, and closes on confirmation. |
 | [Personalized Customer Support Assistant](support-and-community/personalized-customer-support-assistant.md) | Personalized customer support assistant that handles inquiries, troubleshooting, and follow-ups end-to-end.​ |
 | [Personalized Insurance Service Assistant](support-and-community/personalized-insurance-service-assistant.md) | Personalized insurance service assistant for customer service representatives. |
 | [Policy Customization Assistant](support-and-community/policy-customization-assistant.md) | Guides insurance customers through customizing policies, from coverage options to claims assistance. |
 | [Policy Explanation Assistant](support-and-community/policy-explanation-assistant.md) | Explains insurance policies clearly and guides customers through coverage, claims, and renewals. |
+| [Policy Lapse Prevention](../insurance/support-and-community/policy-lapse-prevention.md) | Drafts and sends approved payment reminders so at-risk policies don't lapse. |
 | [Policy Renewal and Updates Assistant](support-and-community/policy-renewal-and-updates-assistant.md) | Handles policy renewals, updates, and customer inquiries for insurance service reps. |
 | [Post-Sale Service Assistant](../sales/support-and-community/post-sale-service-assistant.md) | Handles post-sale customer service tasks and prepares content for sales managers. |
+| [Product Issue Troubleshooter](support-and-community/product-issue-troubleshooter.md) | Guides retail associates through product fixes and routes unresolved issues to exchange, repair or claim. |
 | [Product Knowledge Assistant](support-and-community/product-knowledge-assistant.md) | Helps customer support reps answer product questions and build product knowledge resources. |
+| [Release Impact Support Planner](support-and-community/release-impact-support-planner.md) | Predicts which customers a release will affect and prepares support guidance before tickets arrive. |
+| [Remote Log Collection and Diagnosis](support-and-community/remote-log-collection-and-diagnosis.md) | Turns a stalled support case into a complete log set and a likely cause. |
 | [Remote Support Troubleshooter](support-and-community/remote-support-troubleshooter.md) | Guides remote technical support for connectivity, software, security, and performance issues. |
+| [Repeat Caller Callback Planner](support-and-community/repeat-caller-callback-planner.md) | Finds repeat callers, drafts the real fix callback, and confirms it held. |
 | [Retail Returns Specialist](support-and-community/retail-returns-specialist.md) | Processes retail returns, exchanges and refunds by policy while protecting margin and loyalty. |
 | [Return and Refund Support Assistant](support-and-community/return-and-refund-support-assistant.md) | Handles customer returns and refunds from start to finish, with policy checks and escalation when needed. |
 | [Returns Reverse Logistics](../operations/support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
+| [Saved Reply Audit Assistant](support-and-community/saved-reply-audit-assistant.md) | Audits saved replies against current help pages and drafts corrections for approval. |
 | [Security Support Guide](support-and-community/security-support-guide.md) | Guides users through security threats, fixes, and best practices step by step. |
+| [Service Call Triage Assistant](support-and-community/service-call-triage-assistant.md) | Reads customer problem descriptions, narrows likely causes, and prepares bookings for electricians. |
+| [SLA Breach Early Warning](support-and-community/sla-breach-early-warning.md) | Predicts which open tickets will breach their SLA and proposes safe reassignments and customer updates. |
+| [Social Inbox Triage Assistant](support-and-community/social-inbox-triage-assistant.md) | Sorts every new comment and DM, drafts replies, opens tickets, and routes crises to your manager. |
 | [Social Media Customer Service Coordinator](../marketing/support-and-community/social-media-customer-service-coordinator.md) | Coordinates social media customer service: responses, feedback, escalations, and crisis plans. |
+| [Social Support Escalation Handoff](support-and-community/social-support-escalation-handoff.md) | Moves customer problems from social media to support and closes the loop in public. |
 | [Software Installation Support Assistant](support-and-community/software-installation-support-assistant.md) | Guides software installs, configs, updates, and troubleshooting for support specialists. |
+| [Store Review Triage Assistant](support-and-community/store-review-triage-assistant.md) | Weekly store review themes linked to tracker tickets, with replies drafted for your approval. |
+| [Student Question Triage Assistant](support-and-community/student-question-triage-assistant.md) | Collects student questions, drafts replies from your lessons, and flags gaps and refunds for you. |
 | [Supply Chain Customer Service Assistant](../operations/support-and-community/supply-chain-customer-service-assistant.md) | Handles customer service for logistics planners: tracking, issues, docs, returns, feedback, and proactive supply chain communication. |
+| [Support Attachment Timeline Investigator](support-and-community/support-attachment-timeline-investigator.md) | Turns ticket screenshots, logs and HAR files into one timeline and one evidence-based next diagnostic step. |
 | [Support Automation Planner](support-and-community/support-automation-planner.md) | Automates repetitive support workflows, from ticket routing to reporting and knowledge base upkeep. |
+| [Support Backlog Aging Rescue](support-and-community/support-backlog-aging-rescue.md) | Ranks aging support tickets, drafts next steps, and reports what moved. |
 | [Support Crisis Comms Drafter](support-and-community/support-crisis-comms-drafter.md) | Drafts, updates, and evaluates crisis communication for customer support teams. |
 | [Support Crisis Prep Kit](support-and-community/support-crisis-prep-kit.md) | Plans and prepares crisis management materials for user support teams. |
 | [Support Desk Network Diagnostician](support-and-community/support-desk-network-diagnostician.md) | Diagnoses and resolves network issues for technical support specialists. |
 | [Support Feedback Compass](support-and-community/support-feedback-compass.md) | Collects, analyzes, and reports on customer feedback to guide support improvements. |
+| [Support Incident Correlator](../it-and-development/support-and-community/support-incident-correlator.md) | Groups related support tickets into one incident candidate with telemetry evidence. |
+| [Support Incident Follow-up Verifier](support-and-community/support-incident-follow-up-verifier.md) | Verifies each affected customer is actually fixed before their incident tickets are closed. |
+| [Support Promise Tracker](support-and-community/support-promise-tracker.md) | Tracks every promise made to customers until a completed receipt proves it was kept. |
+| [Support Queue Misclassification Reviewer](support-and-community/support-queue-misclassification-reviewer.md) | Reviews reassigned support tickets weekly, stages corrected labels, and proposes routing rules for your approval. |
 | [Support Reply Draft Studio](support-and-community/support-reply-draft-studio.md) | Drafts accurate customer support replies and guides for every inquiry type. |
 | [Support Triage](support-and-community/support-triage.md) | Reads the support queue, groups the duplicates, and surfaces the one bug behind twelve tickets. |
 | [Tech Integration Support Assistant](support-and-community/tech-integration-support-assistant.md) | Guides technical support specialists through every step of integrating new technologies. |
@@ -112,7 +158,9 @@ Answering, routing and resolving customer requests. **192 ready-made Grok Bot te
 | [Technical Support Troubleshooting Assistant](support-and-community/technical-support-troubleshooting-assistant.md) | Guides technical support specialists through troubleshooting, diagnostics, and resolution. |
 | [Transport Customer Service Enhancer](../government/support-and-community/transport-customer-service-enhancer.md) | Manages customer feedback, support, and service improvements for transportation managers. |
 | [Troubleshooting Guide Creator](support-and-community/troubleshooting-guide-creator.md) | Turns support knowledge into complete troubleshooting guides, scripts, and tools for your users.\n\n{\"tagline\":\"Turns support knowledge into… |
+| [Unanswered Question Router](support-and-community/unanswered-question-router.md) | Finds unanswered community questions, drafts replies, and escalates until every member gets an answer. |
 | [User Training and Support Assistant](support-and-community/user-training-and-support-assistant.md) | Guides users through setup, troubleshooting, and training while expanding your support knowledge base. |
+| [Warranty Evidence Collector](support-and-community/warranty-evidence-collector.md) | Builds a complete, consistent evidence packet for every warranty claim and drafts the next precise request. |
 | [Zendesk Automation](support-and-community/zendesk-automation.md) | Automate Zendesk ticket, user, and organization workflows with Rube MCP. |
 
 ## Data Analysis
@@ -124,6 +172,7 @@ Answering, routing and resolving customer requests. **192 ready-made Grok Bot te
 | [Call Center Journey Mapper](data-analysis/call-center-journey-mapper.md) | Maps customer journeys from call center data to improve experience. |
 | [Call Center Performance Monitor](data-analysis/call-center-performance-monitor.md) | Monitors call center metrics in real time, alerts on issues, and coaches agents. |
 | [Call Center Report Generator](data-analysis/call-center-report-generator.md) | Builds, schedules, and analyzes call center reports from templates to compliance. |
+| [Call Handle Time Outlier Review](data-analysis/call-handle-time-outlier-review.md) | Finds weekly handle time outliers, groups their likely causes, and drafts the right follow-up for approval. |
 | [Call Quality Monitoring Assistant](data-analysis/call-quality-monitoring-assistant.md) | Analyzes call transcripts and quality data to evaluate agents and drive improvements for call center supervisors. |
 | [Call Sentiment Analyst](data-analysis/call-sentiment-analyst.md) | Analyzes call sentiment to improve customer experience and agent performance. |
 | [Call Volume Forecaster](data-analysis/call-volume-forecaster.md) | Analyzes call volume data to forecast demand, optimize staffing, and improve service levels. |
@@ -148,6 +197,7 @@ Answering, routing and resolving customer requests. **192 ready-made Grok Bot te
 | [Insurance Risk Assessment Assistant](data-analysis/insurance-risk-assessment-assistant.md) | Guides insurance CSRs through risk assessment, from data collection to customer communication. |
 | [Premium Calculation Assistant](data-analysis/premium-calculation-assistant.md) | Handles insurance premium calculations from data collection to quotes and customer education. |
 | [Product Usage Analytics Assistant](data-analysis/product-usage-analytics-assistant.md) | Turns product usage data into churn risk, upsell leads, and adoption insights for customer success managers. |
+| [Quality Dispute and Calibration Assistant](data-analysis/quality-dispute-and-calibration-assistant.md) | Resolves score disputes with quoted evidence and flags rubric items reviewers score inconsistently. |
 | [Return Refund Optimizer](../management/data-analysis/return-refund-optimizer.md) | Optimizes e-commerce return and refund processes using data analysis and automation. |
 | [Sentiment Insight Compiler](data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [Service Quality Enhancement Assistant](../management/data-analysis/service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |
@@ -160,16 +210,24 @@ Answering, routing and resolving customer requests. **192 ready-made Grok Bot te
 | Template | What it does |
 |---|---|
 | [ADHD Response Formatter](productivity/adhd-response-formatter.md) | Shapes every reply so an ADHD reader can act on it immediately. |
+| [Adoption Milestone Tracking](productivity/adoption-milestone-tracking.md) | Weekly adoption tracking that flags accounts behind their expected path and proposes the next action. |
 | [Agent Retention Strategy Planner](productivity/agent-retention-strategy-planner.md) | Designs and implements retention strategies to keep call center agents engaged and loyal. |
 | [Cal Com Automation](../operations/productivity/cal-com-automation.md) | Automate Cal.com scheduling: bookings, availability, webhooks, and teams via Composio. |
 | [Calendly Automation](../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Call Center Scheduling Optimizer](productivity/call-center-scheduling-optimizer.md) | Optimizes call center shift planning, coverage, and compliance from staff data. |
 | [Call Handling Assistant](productivity/call-handling-assistant.md) | Handles incoming calls for receptionists: screens, routes, prioritizes, takes messages, and more. |
+| [Callback Queue Aging Supervisor](productivity/callback-queue-aging-supervisor.md) | Keeps every promised customer callback on time or gives it a documented new time. |
+| [Daily Entry Backlog Planner](../management/productivity/daily-entry-backlog-planner.md) | Turns the daily queue into a capacity-checked plan and flags what will slip before it does. |
 | [Decision Navigator](../management/productivity/decision-navigator.md) | Guide stuck users through branching questions to concrete next steps. |
+| [Dispatcher Call Review and Certification Tracker](productivity/dispatcher-call-review-and-certification-tracker.md) | Fair call reviews and certification renewals for every dispatcher, with evidence and supervisor approval. |
 | [Email Triage Classifier](../executives-and-strategy/productivity/email-triage-classifier.md) | Sorts your inbox by category, priority and required action, and tells you what to do first. |
 | [Emergency Preparedness Assistant](productivity/emergency-preparedness-assistant.md) | Prepares emergency plans, contacts, supplies, and drills for your workplace. |
 | [Event Coordination Assistant](productivity/event-coordination-assistant.md) | Plans and runs events from scheduling to post-event follow-up. |
+| [Follow-the-Sun Coverage Planner](productivity/follow-the-sun-coverage-planner.md) | Finds coverage gaps across regions and proposes a roster that meets response targets every hour. |
+| [How-To Ticket Training Planner](productivity/how-to-ticket-training-planner.md) | Turns how-to help desk tickets into a ranked training plan and checks whether it worked. |
+| [Intraday Staffing Adjuster](productivity/intraday-staffing-adjuster.md) | Keeps call center wait times near target by proposing staff moves for supervisor approval. |
 | [Inventory Tracking Assistant](productivity/inventory-tracking-assistant.md) | Tracks stock, orders, and suppliers; reports and forecasts to keep inventory accurate. |
+| [Missed Call Follow-Up Assistant](productivity/missed-call-follow-up-assistant.md) | Turns every missed call and voicemail into a same-day reply or a routed message. |
 | [Postmark Automation](../marketing/productivity/postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |
 | [Screenshot](../it-and-development/productivity/screenshot.md) | Captures desktop screenshots on macOS, Linux, or Windows when explicitly requested. |
 | [Setup Help](../it-and-development/productivity/setup-help.md) | Guide users through multi-step setup one action at a time. |
@@ -180,6 +238,28 @@ Answering, routing and resolving customer requests. **192 ready-made Grok Bot te
 | [Template Router](../operations/productivity/skill-router.md) | Interviews users and recommends the best installed capability for their goal. |
 | [Travel Arrangement Coordinator](productivity/travel-arrangement-coordinator.md) | Plans and books client travel from flights to insurance in one place. |
 | [Visitor Management Assistant](productivity/visitor-management-assistant.md) | Manages visitors from check-in to departure, automating communication and data collection. |
+| [Welcome Call Scheduler](productivity/welcome-call-scheduler.md) | Books and confirms welcome calls for new customers, with every message approved by you. |
+
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Document Organization Assistant](knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
+| [Front Desk Routing Review](knowledge-management/front-desk-routing-review.md) | Reviews call logs and directory to fix wrong and failed transfers before they cost goodwill. |
+| [Handoff](../it-and-development/knowledge-management/handoff.md) | Compacts a conversation into a handoff document for another agent. |
+| [Help Center Search Gap Fixer](knowledge-management/help-center-search-gap-fixer.md) | Turns failed help center searches into approved synonym fixes and new article outlines each month. |
+| [Inbox Triage Setup](knowledge-management/inbox-triage-setup.md) | Interviews you once to build the email triage knowledge base your inbox bot reads on every run. |
+| [Insurance Training and Knowledge Manager](knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
+| [Knowledge Base Article Assistant](../it-and-development/knowledge-management/knowledge-base-article-assistant.md) | Turns help desk know-how into clear, accurate knowledge base articles. |
+| [Knowledge Base Builder](knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
+| [Knowledge Base Expansion Assistant](knowledge-management/knowledge-base-expansion-assistant.md) | Expands and maintains your product knowledge base with researched, translated, and user-focused content. |
+| [Knowledge Base Maintenance Assistant](knowledge-management/knowledge-base-maintenance-assistant.md) | Maintains your knowledge base: creates, edits, categorizes, links, translates, and tracks articles for customer support. |
+| [Memory Search](../it-and-development/knowledge-management/memory-search.md) | Search conversation history and semantic memory to recall past discussions and decisions. |
+| [Policy Change Briefing Coordinator](knowledge-management/policy-change-briefing-coordinator.md) | Finds every macro and article carrying an old rule, drafts updates and a briefing, and checks tickets after the effective date. |
+| [Reference Desk Gap Analyst](knowledge-management/reference-desk-gap-analyst.md) | Turns the reference question log into a ranked list of guide, signage and training gaps. |
+| [Resolved Ticket to Knowledge Article](knowledge-management/resolved-ticket-to-knowledge-article.md) | Turns closed support tickets with proven fixes into tested, approved knowledge articles. |
+| [Script and Article Gap Closer](knowledge-management/script-and-article-gap-closer.md) | Finds the top script and article gaps from last month's calls, drafts fixes, and checks they reduce long calls and repeat contacts. |
+| [Support Knowledge Repair](knowledge-management/support-knowledge-repair.md) | Finds help articles agents keep correcting and drafts tested revisions for the knowledge-base owner to publish. |
 
 ## Writing & Content
 
@@ -197,20 +277,6 @@ Answering, routing and resolving customer requests. **192 ready-made Grok Bot te
 | [Technical Documentation Reviewer](writing-and-content/technical-documentation-reviewer.md) | Reviews and refines technical documentation for accuracy, clarity, and compliance. |
 | [Training Module Developer](writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
 
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Document Organization Assistant](knowledge-management/document-organization-assistant.md) | Organizes, secures, and retrieves office documents for receptionists. |
-| [Handoff](../it-and-development/knowledge-management/handoff.md) | Compacts a conversation into a handoff document for another agent. |
-| [Inbox Triage Setup](knowledge-management/inbox-triage-setup.md) | Interviews you once to build the email triage knowledge base your inbox bot reads on every run. |
-| [Insurance Training and Knowledge Manager](knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
-| [Knowledge Base Article Assistant](../it-and-development/knowledge-management/knowledge-base-article-assistant.md) | Turns help desk know-how into clear, accurate knowledge base articles. |
-| [Knowledge Base Builder](knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
-| [Knowledge Base Expansion Assistant](knowledge-management/knowledge-base-expansion-assistant.md) | Expands and maintains your product knowledge base with researched, translated, and user-focused content. |
-| [Knowledge Base Maintenance Assistant](knowledge-management/knowledge-base-maintenance-assistant.md) | Maintains your knowledge base: creates, edits, categorizes, links, translates, and tracks articles for customer support. |
-| [Memory Search](../it-and-development/knowledge-management/memory-search.md) | Search conversation history and semantic memory to recall past discussions and decisions. |
-
 ## Cloud & DevOps
 
 | Template | What it does |
@@ -221,6 +287,17 @@ Answering, routing and resolving customer requests. **192 ready-made Grok Bot te
 | [System Upgrade Coordinator](cloud-and-devops/system-upgrade-coordinator.md) | Plans, executes, and supports system upgrades with minimal disruption. |
 | [Using Neon](../it-and-development/cloud-and-devops/using-neon.md) | Answer Neon Serverless Postgres questions using official docs and guides. |
 | [WhatsApp Cloud API](../it-and-development/cloud-and-devops/whatsapp-cloud-api.md) | Professional integration with Meta's WhatsApp Business Cloud API: messages, templates, webhooks, and automation. |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Account Lockout Reset Verifier](../it-and-development/security-and-compliance/account-lockout-reset-verifier.md) | Verifies password reset and lockout requests against your rules before any reset happens. |
+| [Branch Complaint Deadline Manager](security-and-compliance/branch-complaint-deadline-manager.md) | Logs, classifies and tracks branch complaints to regulatory deadlines, drafting responses for your approval. |
+| [Compliance Monitoring Supervisor](security-and-compliance/compliance-monitoring-supervisor.md) | Monitors calls, documents, and metrics to keep call center operations compliant. |
+| [Compliance Query Resolution Assistant](../legal/security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
+| [Reception Confidentiality Assistant](security-and-compliance/reception-confidentiality-assistant.md) | Helps receptionists protect confidential information across calls, visitors, documents, and emails. |
+| [Regulatory Compliance Assistant](security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
 
 ## Coding
 
@@ -251,15 +328,6 @@ Answering, routing and resolving customer requests. **192 ready-made Grok Bot te
 | [E-commerce Chatbot Developer](../management/generative-ai-and-llm/e-commerce-chatbot-developer.md) | Builds, trains, tests, and maintains customer service chatbots for e-commerce stores. |
 | [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
 
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Compliance Monitoring Supervisor](security-and-compliance/compliance-monitoring-supervisor.md) | Monitors calls, documents, and metrics to keep call center operations compliant. |
-| [Compliance Query Resolution Assistant](../legal/security-and-compliance/compliance-query-resolution-assistant.md) | Resolves legal compliance queries, research, audits, and reports for compliance officers. |
-| [Reception Confidentiality Assistant](security-and-compliance/reception-confidentiality-assistant.md) | Helps receptionists protect confidential information across calls, visitors, documents, and emails. |
-| [Regulatory Compliance Assistant](security-and-compliance/regulatory-compliance-assistant.md) | Keeps insurance customer service compliant with regulations through drafting, training, reporting, and audits. |
-
 ## Research
 
 | Template | What it does |
@@ -268,19 +336,20 @@ Answering, routing and resolving customer requests. **192 ready-made Grok Bot te
 | [Logistics Exception Management](../operations/research/logistics-exception-management.md) | Resolve freight exceptions, delays, damages, and carrier disputes with structured workflows. |
 | [Online Dispute Resolution Assistant](../legal/research/online-dispute-resolution-assistant.md) | Assists lawyers with online dispute resolution tasks from case evaluation to settlement drafting. |
 
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Account Training Plan Builder](teaching-and-tutoring/account-training-plan-builder.md) | Builds a per-account training plan covering every purchased feature and role, then updates it from real questions. |
+| [Customer Training Content Developer](teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
+| [Marlin Bed Leveling Calibration](teaching-and-tutoring/marlin-bed-leveling-calibration.md) | Calibrates Marlin 2.x bed leveling and writes the G-code that keeps the mesh active during prints. |
+
 ## Sales & Negotiation
 
 | Template | What it does |
 |---|---|
 | [Cross-Sell Upsell Assistant](sales-and-negotiation/cross-sell-upsell-assistant.md) | Helps customer support reps craft personalized cross-sell and upsell recommendations and conversations. |
 | [Salesforce Automation](../sales/sales-and-negotiation/salesforce-automation.md) | Automate Salesforce CRM tasks: leads, contacts, accounts, opportunities, and SOQL queries. |
-
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Customer Training Content Developer](teaching-and-tutoring/customer-training-content-developer.md) | Training content development assistant for Customer Success Managers, from research to delivery. |
-| [Marlin Bed Leveling Calibration](teaching-and-tutoring/marlin-bed-leveling-calibration.md) | Calibrates Marlin 2.x bed leveling and writes the G-code that keeps the mesh active during prints. |
 
 ## Marketing & Growth
 

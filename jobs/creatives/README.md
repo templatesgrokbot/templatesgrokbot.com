@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **565 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **736 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,30 +11,31 @@ Designers, artists and content creators. **565 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 188 |
-| [Writing & Content](writing-and-content/README.md) | 63 |
+| [Design](design/README.md) | 217 |
+| [Writing & Content](writing-and-content/README.md) | 74 |
+| [Productivity](productivity/README.md) | 67 |
 | [Generative Art](generative-art/README.md) | 50 |
 | [Generative Code](generative-code/README.md) | 47 |
 | [Coding](coding/README.md) | 37 |
-| [Marketing & Growth](marketing-and-growth/README.md) | 26 |
-| [Social Media](social-media/README.md) | 24 |
-| [Video Editing](video-editing/README.md) | 23 |
-| [Research](research/README.md) | 20 |
-| [Office Tools](office-tools/README.md) | 14 |
+| [Video Editing](video-editing/README.md) | 34 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 29 |
+| [Research](research/README.md) | 27 |
+| [Social Media](social-media/README.md) | 25 |
+| [Office Tools](office-tools/README.md) | 22 |
+| [Data Analysis](data-analysis/README.md) | 20 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 15 |
 | [Generative Video](generative-video/README.md) | 13 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 13 |
-| [Data Analysis](data-analysis/README.md) | 11 |
-| [Productivity](productivity/README.md) | 8 |
-| [Self-Improvement](self-improvement/README.md) | 5 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 11 |
+| [Knowledge Management](knowledge-management/README.md) | 10 |
+| [Self-Improvement](self-improvement/README.md) | 7 |
+| [Text-To-Speech](text-to-speech/README.md) | 7 |
+| [Security & Compliance](security-and-compliance/README.md) | 6 |
 | [Prompt Engineering](prompt-engineering/README.md) | 4 |
-| [Text-To-Speech](text-to-speech/README.md) | 4 |
 | [Text-To-Video](text-to-video/README.md) | 4 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
-| [Knowledge Management](knowledge-management/README.md) | 3 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
-| [Security & Compliance](security-and-compliance/README.md) | 1 |
+| [Voice Modulation](voice-modulation/README.md) | 3 |
+| [Support & Community](support-and-community/README.md) | 2 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
-| [Support & Community](support-and-community/README.md) | 1 |
 | [Translation](translation/README.md) | 1 |
 
 ## Design
@@ -50,7 +51,7 @@ Designers, artists and content creators. **565 ready-made Grok Bot templates** f
 | [High End Visual Design](design/high-end-visual-design.md) | Awwwards-tier UI architecture and motion design for premium, agency-grade interfaces. |
 | [Uxui Principles](design/uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
 
-[All 188 Design templates →](design/README.md)
+[All 217 Design templates →](design/README.md)
 
 ## Writing & Content
 
@@ -65,7 +66,22 @@ Designers, artists and content creators. **565 ready-made Grok Bot templates** f
 | [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Video Script writer](writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
 
-[All 63 Writing & Content templates →](writing-and-content/README.md)
+[All 74 Writing & Content templates →](writing-and-content/README.md)
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Notion Template Business](productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
+| [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
+| [Live Recording Supervisor](productivity/live-recording-supervisor.md) | Supervises live recording sessions for film scores, from setup to post-production. |
+| [Royalty and Rights Manager](productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
+| [Brain Dump Organizer](../management/productivity/brain-dump-organizer.md) | Turns a messy brain dump into organized projects, tasks, connections, and concrete next offers. |
+| [Music Production Budget Planner](productivity/music-production-budget-planner.md) | Build and manage a realistic music production budget for film scoring projects. |
+| [Self-Tape Submission Assistant](productivity/self-tape-submission-assistant.md) | Renames, exports and uploads your self-tapes, verifies playback and submits before the deadline. |
+| [Artwork Shipping Prep](../operations/productivity/artwork-shipping-prep.md) | Builds a shipment plan with the right packing, paperwork, insurance and carrier for each artwork. |
+
+[All 67 Productivity templates →](productivity/README.md)
 
 ## Generative Art
 
@@ -112,36 +128,6 @@ Designers, artists and content creators. **565 ready-made Grok Bot templates** f
 
 [All 37 Coding templates →](coding/README.md)
 
-## Marketing & Growth
-
-| Template | What it does |
-|---|---|
-| [Brand Review](../marketing/marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
-| [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
-| [Popup Cro](../marketing/marketing-and-growth/popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
-| [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
-| [Content Creation and Curation Planner](../executives-and-strategy/marketing-and-growth/content-creation-and-curation-planner.md) | Plans, creates, optimizes, and curates marketing content across channels. |
-| [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
-| [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
-| [Content Repurposing Planner](../marketing/marketing-and-growth/content-repurposing-planner.md) | Repurpose existing content into fresh formats across platforms, from research to distribution. |
-
-[All 26 Marketing & Growth templates →](marketing-and-growth/README.md)
-
-## Social Media
-
-| Template | What it does |
-|---|---|
-| [Socialclaw](../marketing/social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
-| [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
-| [Youtube Automation](../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
-| [Xiaohongshu Card Deck Generator](../marketing/social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
-| [Xiaohongshu Content Strategist](../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
-| [Visual Storytelling Campaign Planner](../marketing/social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
-| [Social Content Scheduling Planner](../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
-| [Social Post Writer Seo](../marketing/social-media/social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |
-
-[All 24 Social Media templates →](social-media/README.md)
-
 ## Video Editing
 
 | Template | What it does |
@@ -155,7 +141,22 @@ Designers, artists and content creators. **565 ready-made Grok Bot templates** f
 | [Video Router](video-editing/video-router.md) | Route video briefs to generate, compose, edit, or AUTO before production starts. |
 | [Social Media Clip Creator](video-editing/social-media-clip-creator.md) | Transforms video content into platform-optimized clips with proper cropping, subtitles, thumbnails, and encoding. |
 
-[All 23 Video Editing templates →](video-editing/README.md)
+[All 34 Video Editing templates →](video-editing/README.md)
+
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Brand Review](../marketing/marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
+| [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
+| [Popup Cro](../marketing/marketing-and-growth/popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
+| [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
+| [Content Creation and Curation Planner](../executives-and-strategy/marketing-and-growth/content-creation-and-curation-planner.md) | Plans, creates, optimizes, and curates marketing content across channels. |
+| [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
+| [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
+| [Content Repurposing Planner](../marketing/marketing-and-growth/content-repurposing-planner.md) | Repurpose existing content into fresh formats across platforms, from research to distribution. |
+
+[All 29 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Research
 
@@ -170,7 +171,22 @@ Designers, artists and content creators. **565 ready-made Grok Bot templates** f
 | [Location Scout Planner](research/location-scout-planner.md) | Finds, vets, and plans photo shoot locations with research and logistics. |
 | [Film Music Theme Developer](research/film-music-theme-developer.md) | Develops film music themes from genre research to production-ready scores. |
 
-[All 20 Research templates →](research/README.md)
+[All 27 Research templates →](research/README.md)
+
+## Social Media
+
+| Template | What it does |
+|---|---|
+| [Socialclaw](../marketing/social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
+| [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
+| [Youtube Automation](../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
+| [Xiaohongshu Card Deck Generator](../marketing/social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
+| [Xiaohongshu Content Strategist](../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
+| [Visual Storytelling Campaign Planner](../marketing/social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
+| [Social Content Scheduling Planner](../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
+| [Social Post Writer Seo](../marketing/social-media/social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |
+
+[All 25 Social Media templates →](social-media/README.md)
 
 ## Office Tools
 
@@ -185,7 +201,37 @@ Designers, artists and content creators. **565 ready-made Grok Bot templates** f
 | [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
 | [Template Deck Builder](office-tools/template-deck-builder.md) | Builds and edits PowerPoint decks bound to your company template with consulting-grade storyline and visual QA. |
 
-[All 14 Office Tools templates →](office-tools/README.md)
+[All 22 Office Tools templates →](office-tools/README.md)
+
+## Data Analysis
+
+| Template | What it does |
+|---|---|
+| [User Feedback Insight Assistant](../product-development/data-analysis/user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
+| [Scientific Visualization](../science-and-research/data-analysis/scientific-visualization.md) | Create publication-ready scientific figures from data. |
+| [Kpi Dashboard Design](../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
+| [Trend Analysis Content Assistant](../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
+| [Music Market Trend Analyst](data-analysis/music-market-trend-analyst.md) | Tracks music market trends to guide your creative and career decisions. |
+| [Song Arrangement Energy Map](data-analysis/song-arrangement-energy-map.md) | Maps a track's energy per bar, flags flat and crowded stretches, and proposes arrangement changes. |
+| [Recurring Deck Data Refresh](data-analysis/recurring-deck-data-refresh.md) | Refreshes the charts in your recurring deck from new data and explains every unusual change. |
+| [Reference Mix Comparison](data-analysis/reference-mix-comparison.md) | Compares your mix to a reference and lists the biggest gaps with moves per bus. |
+
+[All 20 Data Analysis templates →](data-analysis/README.md)
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Animation Production Planner](teaching-and-tutoring/animation-production-planner.md) | Animation basics and production assistant for graphic designers creating animated content. |
+| [Film Score Orchestration Assistant](teaching-and-tutoring/film-score-orchestration-assistant.md) | Helps film composers orchestrate and arrange music for scenes, moods, and genres. |
+| [Digital Scoring Guide](teaching-and-tutoring/digital-scoring-guide.md) | Guides film composers through every stage of digital music production, from sound design to mastering. |
+| [Film Score Emotional Analyst](teaching-and-tutoring/film-score-emotional-analyst.md) | Analyzes film music's emotional impact to help composers craft resonant scores. |
+| [Photo Editing Guidance Assistant](teaching-and-tutoring/photo-editing-guidance-assistant.md) | Guides photographers through editing tasks, from color correction to creative effects. |
+| [Photography Post-Processing Guide](teaching-and-tutoring/photography-post-processing-guide.md) | Guides photographers through post-processing techniques, from color correction to composite imaging. |
+| [Photography Techniques Advisor](teaching-and-tutoring/photography-techniques-advisor.md) | Get tailored photography guidance for composition, lighting, settings, and post-processing. |
+| [Music Copyright Navigator](teaching-and-tutoring/music-copyright-navigator.md) | Guides vocal artists and songwriters through music copyright law, licensing, and royalties. |
+
+[All 15 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Generative Video
 
@@ -202,48 +248,35 @@ Designers, artists and content creators. **565 ready-made Grok Bot templates** f
 
 [All 13 Generative Video templates →](generative-video/README.md)
 
-## Teaching & Tutoring
+## Sales & Negotiation
 
 | Template | What it does |
 |---|---|
-| [Animation Production Planner](teaching-and-tutoring/animation-production-planner.md) | Animation basics and production assistant for graphic designers creating animated content. |
-| [Film Score Orchestration Assistant](teaching-and-tutoring/film-score-orchestration-assistant.md) | Helps film composers orchestrate and arrange music for scenes, moods, and genres. |
-| [Digital Scoring Guide](teaching-and-tutoring/digital-scoring-guide.md) | Guides film composers through every stage of digital music production, from sound design to mastering. |
-| [Film Score Emotional Analyst](teaching-and-tutoring/film-score-emotional-analyst.md) | Analyzes film music's emotional impact to help composers craft resonant scores. |
-| [Photo Editing Guidance Assistant](teaching-and-tutoring/photo-editing-guidance-assistant.md) | Guides photographers through editing tasks, from color correction to creative effects. |
-| [Photography Post-Processing Guide](teaching-and-tutoring/photography-post-processing-guide.md) | Guides photographers through post-processing techniques, from color correction to composite imaging. |
-| [Photography Techniques Advisor](teaching-and-tutoring/photography-techniques-advisor.md) | Get tailored photography guidance for composition, lighting, settings, and post-processing. |
-| [Music Copyright Navigator](teaching-and-tutoring/music-copyright-navigator.md) | Guides vocal artists and songwriters through music copyright law, licensing, and royalties. |
+| [Client Communication and Negotiation Assistant](sales-and-negotiation/client-communication-and-negotiation-assistant.md) | Manages client communication, negotiation, and project delivery for graphic designers. |
+| [Artwork Sales Follow-up Assistant](../sales/sales-and-negotiation/artwork-sales-follow-up-assistant.md) | Answers collector inquiries, drafts invoices and certificates, and tracks each sale to delivery. |
+| [Beat License Sales Ledger](sales-and-negotiation/beat-license-sales-ledger.md) | Tracks every beat sale against its license terms and payment, and catches exclusive conflicts before delivery. |
+| [Gig Booking Outreach Assistant](sales-and-negotiation/gig-booking-outreach-assistant.md) | Finds venues that fit your draw, drafts pitches, and tracks replies until your dates are booked. |
+| [Proposal Pricing Package Builder](sales-and-negotiation/proposal-pricing-package-builder.md) | Turns a client request into three fixed-price packages that meet your margin target. |
+| [Line Sheet and Buyer Order Assistant](../product-development/sales-and-negotiation/line-sheet-and-buyer-order-assistant.md) | Builds your line sheet, totals buyer orders, and flags styles under factory minimum. |
+| [Creative Project Quote Assistant](sales-and-negotiation/creative-project-quote-assistant.md) | Turns a client brief into a priced, scoped quote with your rates and margin checked before it goes out. |
+| [Image License Usage Monitor](sales-and-negotiation/image-license-usage-monitor.md) | Scans your portfolio monthly for unlicensed or expired image uses and drafts offers for your approval. |
 
-[All 13 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+[All 11 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
-## Data Analysis
-
-| Template | What it does |
-|---|---|
-| [User Feedback Insight Assistant](../product-development/data-analysis/user-feedback-insight-assistant.md) | Turns user feedback into prioritized, actionable UX insights for designers. |
-| [Scientific Visualization](../science-and-research/data-analysis/scientific-visualization.md) | Create publication-ready scientific figures from data. |
-| [Kpi Dashboard Design](../management/data-analysis/kpi-dashboard-design.md) | Design KPI dashboards that drive business decisions with proven patterns. |
-| [Trend Analysis Content Assistant](../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
-| [Music Market Trend Analyst](data-analysis/music-market-trend-analyst.md) | Tracks music market trends to guide your creative and career decisions. |
-| [Photography Image Analyst](data-analysis/photography-image-analyst.md) | Analyzes your photos and returns detailed reports on quality, composition, content, and more. |
-| [Predictive UX Behavior Analyst](../product-development/data-analysis/predictive-ux-behavior-analyst.md) | Turns user behavior data into predictive insights and personalized UX actions. |
-| [Spotify Playlist Curator](data-analysis/spotify-playlist-curator.md) | Controls Spotify playback, builds playlists, and curates music from audio features. |
-
-[All 11 Data Analysis templates →](data-analysis/README.md)
-
-## Productivity
+## Knowledge Management
 
 | Template | What it does |
 |---|---|
-| [Notion Template Business](productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
-| [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
-| [Live Recording Supervisor](productivity/live-recording-supervisor.md) | Supervises live recording sessions for film scores, from setup to post-production. |
-| [Royalty and Rights Manager](productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
-| [Brain Dump Organizer](../management/productivity/brain-dump-organizer.md) | Turns a messy brain dump into organized projects, tasks, connections, and concrete next offers. |
-| [Music Production Budget Planner](productivity/music-production-budget-planner.md) | Build and manage a realistic music production budget for film scoring projects. |
-| [Music Collaboration Coordinator](productivity/music-collaboration-coordinator.md) | Finds collaborators, plans projects, and prepares releases for vocal artists and songwriters. |
-| [Event Coverage Photographer Planner](productivity/event-coverage-photographer-planner.md) | Plans event photo coverage from shot lists to delivery, with backups and client updates. |
+| [Hig Project Context](knowledge-management/hig-project-context.md) | Create or update a shared Apple design context document for HIG capabilities. |
+| [Edition and Provenance Register](knowledge-management/edition-and-provenance-register.md) | Tracks each print's edition number and drafts a matching certificate of authenticity for your approval. |
+| [Photo Archive Keyword Cleanup](knowledge-management/photo-archive-keyword-cleanup.md) | Standardizes photo keywords, finds orphan files and missing backups, and reports what changed. |
+| [Design Doc Change Sync](../product-development/knowledge-management/design-doc-change-sync.md) | Keeps design docs, tickets and config in agreement after a design doc edit. |
+| [Client Revision Branch Keeper](knowledge-management/client-revision-branch-keeper.md) | Builds a new revision from the right approved version with every frozen element intact. |
+| [Video Archive Organizer](knowledge-management/video-archive-organizer.md) | Organizes your video archive with tags, metadata, summaries, and duplicate checks. |
+| [Digital Asset Management Organizer](knowledge-management/digital-asset-management-organizer.md) | Organize, tag, track, and manage digital assets with a complete DAM workflow assistant. |
+| [Design Decision Log Keeper](knowledge-management/design-decision-log-keeper.md) | Turns design discussions into a sourced decision log with owners, options and evidence. |
+
+[All 10 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Self-Improvement
 
@@ -252,8 +285,33 @@ Designers, artists and content creators. **565 ready-made Grok Bot templates** f
 | [Track Feedback Assistant](self-improvement/track-feedback-assistant.md) | Personalized feedback on your tracks, from vocals to production to career. |
 | [Vocal Health Companion](self-improvement/vocal-health-companion.md) | Daily vocal health guidance for singers and songwriters, from warm-ups to recovery. |
 | [Creative Block Companion for Vocal Artists](self-improvement/creative-block-companion-for-vocal-artists.md) | Creative partner for vocal artists and singer-songwriters to spark ideas, refine songs, and grow their craft. |
+| [Dialect Coaching Progress Tracker](self-improvement/dialect-coaching-progress-tracker.md) | Scores your dialect practice recordings against your target sounds and builds the next drill set around what still fails. |
+| [Practice Plan Progress Coach](self-improvement/practice-plan-progress-coach.md) | Builds a weekly practice plan from your goals and shows, then tracks whether each passage is actually improving. |
 | [Vocal Warm-Up Companion](self-improvement/vocal-warm-up-companion.md) | Creates and manages personalized vocal warm-up routines with feedback and progress tracking for singers. |
 | [Performance Review Assistant](self-improvement/performance-review-assistant.md) | Turns performance reviews into growth plans for vocal artists and singer-songwriters. |
+
+## Text-To-Speech
+
+| Template | What it does |
+|---|---|
+| [OpenRouter TTS](text-to-speech/openrouter-tts.md) | Convert text to MP3 voiceovers using OpenRouter, defaulting to Kokoro or switching to Grok Voice on request. |
+| [Speech](text-to-speech/speech.md) | Generate spoken audio from text for narration, voiceovers, prompts, or accessibility reads. |
+| [Fal Audio](text-to-speech/fal-audio.md) | Convert text to speech and transcribe audio using fal.ai models. |
+| [Voiceover Pickup Session](text-to-speech/voiceover-pickup-session.md) | Collects every pickup request, builds the session script, checks each new take against the original. |
+| [Audiobook Pronunciation List Builder](text-to-speech/audiobook-pronunciation-list-builder.md) | Builds a confirmed pronunciation list from your script and catches mispronounced names before delivery. |
+| [Podcast Generation](text-to-speech/podcast-generation.md) | Generate spoken audio from text using Azure OpenAI Realtime API. No editing or mixing. |
+| [Audiobook Pronunciation Prep Guide](text-to-speech/audiobook-pronunciation-prep-guide.md) | Builds a chapter-grouped pronunciation and character guide from your manuscript before recording starts. |
+
+## Security & Compliance
+
+| Template | What it does |
+|---|---|
+| [Accessibility Compliance Auditor](../product-development/security-and-compliance/accessibility-compliance-auditor.md) | Audits and improves web accessibility for UX designers, from code review to compliance reports. |
+| [Care Label Compliance Checker](../product-development/security-and-compliance/care-label-compliance-checker.md) | Turns your tech pack into label text and care instructions that pass every target market. |
+| [Content Rights and Image License Check](../marketing/security-and-compliance/content-rights-and-image-license-check.md) | Checks every image, quote and embedded asset in a draft for documented rights before you publish. |
+| [Model Release Usage Tracker](security-and-compliance/model-release-usage-tracker.md) | Checks every published image has a signed release covering its intended use. |
+| [Landscape Ordinance Compliance Checker](../real-estate-and-construction/security-and-compliance/landscape-ordinance-compliance-checker.md) | Checks your landscape plan against the local ordinance and drafts fixes before resubmission. |
+| [Music and Stock License Tracker](security-and-compliance/music-and-stock-license-tracker.md) | Checks every third-party asset in a project against its license and builds the client license sheet. |
 
 ## Prompt Engineering
 
@@ -263,15 +321,6 @@ Designers, artists and content creators. **565 ready-made Grok Bot templates** f
 | [AI Video Shot Planner](prompt-engineering/ai-video-shot-planner.md) | Turns a one-line video idea into a shot list and model-ready prompts, and diagnoses clips that failed. |
 | [Enhance Prompt](../it-and-development/prompt-engineering/enhance-prompt.md) | Turns vague UI ideas into structured, Stitch-optimized prompts with design system context. |
 | [Inclusive Visuals Specialist](prompt-engineering/inclusive-visuals-specialist.md) | Turns creative briefs into culturally accurate, dignified image and video prompts that resist AI bias. |
-
-## Text-To-Speech
-
-| Template | What it does |
-|---|---|
-| [OpenRouter TTS](text-to-speech/openrouter-tts.md) | Convert text to MP3 voiceovers using OpenRouter, defaulting to Kokoro or switching to Grok Voice on request. |
-| [Speech](text-to-speech/speech.md) | Generate spoken audio from text for narration, voiceovers, prompts, or accessibility reads. |
-| [Fal Audio](text-to-speech/fal-audio.md) | Convert text to speech and transcribe audio using fal.ai models. |
-| [Podcast Generation](text-to-speech/podcast-generation.md) | Generate spoken audio from text using Azure OpenAI Realtime API. No editing or mixing. |
 
 ## Text-To-Video
 
@@ -290,37 +339,26 @@ Designers, artists and content creators. **565 ready-made Grok Bot templates** f
 | [Ai Native Ui](../it-and-development/generative-ai-and-llm/ai-native-ui.md) | Generate conversational UI with adaptive layouts and generative aesthetics. |
 | [Mmx Cli](generative-ai-and-llm/mmx-cli.md) | Generate text, images, video, speech, and music via the MiniMax CLI. |
 
-## Knowledge Management
+## Voice Modulation
 
 | Template | What it does |
 |---|---|
-| [Hig Project Context](knowledge-management/hig-project-context.md) | Create or update a shared Apple design context document for HIG capabilities. |
-| [Video Archive Organizer](knowledge-management/video-archive-organizer.md) | Organizes your video archive with tags, metadata, summaries, and duplicate checks. |
-| [Digital Asset Management Organizer](knowledge-management/digital-asset-management-organizer.md) | Organize, tag, track, and manage digital assets with a complete DAM workflow assistant. |
-
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Client Communication and Negotiation Assistant](sales-and-negotiation/client-communication-and-negotiation-assistant.md) | Manages client communication, negotiation, and project delivery for graphic designers. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [Accessibility Compliance Auditor](../product-development/security-and-compliance/accessibility-compliance-auditor.md) | Audits and improves web accessibility for UX designers, from code review to compliance reports. |
-
-## Speech-To-Text
-
-| Template | What it does |
-|---|---|
-| [Speech to text (transcriptions and captions)](../operations/speech-to-text/speech-to-text-transcriptions-and-captions.md) | Transcribes audio and video into timed SRT caption files. |
+| [Voiceover Pronunciation Repair](voice-modulation/voiceover-pronunciation-repair.md) | Finds mispronounced names in localized audio and prepares timed pickup lines for the voice artist. |
+| [Vocal Session Take Log](voice-modulation/vocal-session-take-log.md) | Logs every vocal take, ranks the best per line, and flags weak lines while the singer is still in the studio. |
+| [Voiceover Delivery QC](voice-modulation/voiceover-delivery-qc.md) | Measures your voiceover files against the client spec and prepares a clean delivery for your approval. |
 
 ## Support & Community
 
 | Template | What it does |
 |---|---|
 | [Photography Tech Troubleshooter](support-and-community/photography-tech-troubleshooter.md) | Diagnose and fix camera, lighting, software, and workflow issues for photographers. |
+| [Listener Mail Triage](support-and-community/listener-mail-triage.md) | Sorts listener messages, checks corrections against sources, and queues questions for episodes. |
+
+## Speech-To-Text
+
+| Template | What it does |
+|---|---|
+| [Speech to text (transcriptions and captions)](../operations/speech-to-text/speech-to-text-transcriptions-and-captions.md) | Transcribes audio and video into timed SRT caption files. |
 
 ## Translation
 

@@ -1,6 +1,6 @@
 # Writing & Content templates for Operations
 
-Plan, write and edit articles, copy and documentation. 30 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 34 Grok Bot templates, 21 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,13 +10,16 @@ Plan, write and edit articles, copy and documentation. 30 Grok Bot templates, 18
 | [Compliance Communication Planner](../../legal/writing-and-content/compliance-communication-planner.md) | Plans, drafts, and evaluates all compliance communications for your organization. |
 | [Construction Safety Document Generator](construction-safety-document-generator.md) | Generates construction safety documents, checklists, and training materials from your site details. |
 | [Custom Clause Generator](../../legal/writing-and-content/custom-clause-generator.md) | Generates, reviews, and manages custom contract clauses for Contract Administrators. |
+| [Customer Migration Guide Writer](customer-migration-guide-writer.md) | Turns a customer's configuration export into a tailored migration preparation guide for product ops approval. |
 | [Cv Generator](../../human-resources/writing-and-content/cv-generator.md) | Generate ATS-optimized CVs from multiple sources for FlowCV, Canva, or Word. Outputs paste-ready text with flaw report. |
 | [Defect Identification Guide Builder](defect-identification-guide-builder.md) | Builds and maintains defect identification tools for quality control inspectors. |
 | [Doc Chaser Lite](doc-chaser-lite.md) | Drafts one friendly document-request email for a tax client from a brief and practice profile. |
 | [Email Composer](email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
 | [Email Issue Fixer](email-issue-fixer.md) | Proofread emails and strip tracking from links on request, preserving voice. |
 | [Employment Contract Templates](../../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
+| [Field Service Report Completeness](field-service-report-completeness.md) | Drafts and checks a complete service report before the technician leaves site. |
 | [Fleet Accident Response Planner](fleet-accident-response-planner.md) | Builds and maintains your fleet's accident response plans, templates, and procedures. |
+| [Guest Contributor Pipeline](../../writers/writing-and-content/guest-contributor-pipeline.md) | Tracks guest contributors from accepted pitch to a scheduled, on-brief piece before send day. |
 | [Interview Style Doc Building](../../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
 | [Lean Manufacturing Strategies Assistant](lean-manufacturing-strategies-assistant.md) | Lean production planning assistant for waste reduction, standardization, and continuous improvement. |
 | [Legal Advisor](../../legal/writing-and-content/legal-advisor.md) | Draft contracts, privacy policies, and compliance documents for tech businesses. |
@@ -36,5 +39,6 @@ Plan, write and edit articles, copy and documentation. 30 Grok Bot templates, 18
 | [Training Material Creation Assistant](training-material-creation-assistant.md) | Creates and manages all training materials for operations teams from research to assessment. |
 | [Training Material Creator](training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 | [Unslop File](../../writers/writing-and-content/unslop-file.md) | Rewrite memory files to sound human-written while preserving code, URLs, and headings exactly. |
+| [Warranty Claim Repair Order](warranty-claim-repair-order.md) | Drafts manufacturer-ready warranty repair order stories from technician notes and checks them against claim rules before your administrator approves. |
 
 [← All Operations templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/operations)

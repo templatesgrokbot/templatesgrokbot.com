@@ -1,6 +1,6 @@
 # Grok Bot templates for IT and Development
 
-Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Engineers, DevOps, security and IT teams. **3,576 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,26 +11,26 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Coding](coding/README.md) | 1,099 |
-| [Cloud & DevOps](cloud-and-devops/README.md) | 536 |
-| [Security & Compliance](security-and-compliance/README.md) | 393 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 253 |
-| [Data Analysis](data-analysis/README.md) | 240 |
-| [Productivity](productivity/README.md) | 143 |
-| [Research](research/README.md) | 118 |
-| [Design](design/README.md) | 113 |
-| [Generative Code](generative-code/README.md) | 98 |
-| [Knowledge Management](knowledge-management/README.md) | 67 |
-| [Writing & Content](writing-and-content/README.md) | 53 |
+| [Coding](coding/README.md) | 1,137 |
+| [Cloud & DevOps](cloud-and-devops/README.md) | 586 |
+| [Security & Compliance](security-and-compliance/README.md) | 447 |
+| [Data Analysis](data-analysis/README.md) | 269 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 254 |
+| [Productivity](productivity/README.md) | 169 |
+| [Research](research/README.md) | 121 |
+| [Design](design/README.md) | 115 |
+| [Generative Code](generative-code/README.md) | 103 |
+| [Knowledge Management](knowledge-management/README.md) | 75 |
+| [Prompt Engineering](prompt-engineering/README.md) | 54 |
+| [Writing & Content](writing-and-content/README.md) | 54 |
+| [Support & Community](support-and-community/README.md) | 45 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 37 |
-| [Prompt Engineering](prompt-engineering/README.md) | 37 |
-| [Support & Community](support-and-community/README.md) | 32 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 32 |
-| [Office Tools](office-tools/README.md) | 21 |
+| [Office Tools](office-tools/README.md) | 25 |
 | [Generative Art](generative-art/README.md) | 15 |
 | [Speech-To-Text](speech-to-text/README.md) | 10 |
-| [Translation](translation/README.md) | 6 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 5 |
+| [Translation](translation/README.md) | 8 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 7 |
 | [Self-Improvement](self-improvement/README.md) | 5 |
 | [Video Editing](video-editing/README.md) | 3 |
 | [Generative Video](generative-video/README.md) | 2 |
@@ -50,7 +50,7 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Distributed Training Pytorch Lightning](coding/distributed-training-pytorch-lightning.md) | Converts PyTorch code into Lightning modules and trains them with automatic distributed scaling. |
 | [Playwright E2E Builder](coding/playwright-e2e-builder.md) | Builds Playwright E2E test suites with Page Object Model and CI integration. |
 
-[All 1,099 Coding templates →](coding/README.md)
+[All 1,137 Coding templates →](coding/README.md)
 
 ## Cloud & DevOps
 
@@ -65,7 +65,7 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Upstash Redis](cloud-and-devops/upstash-redis.md) | Use Upstash Redis over HTTPS from serverless and edge runtimes. |
 | [Network Engineer](cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 
-[All 536 Cloud & DevOps templates →](cloud-and-devops/README.md)
+[All 586 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
 ## Security & Compliance
 
@@ -80,22 +80,7 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Cra Vulnerability Obligations](security-and-compliance/cra-vulnerability-obligations.md) | Maps a product to CRA vulnerability-handling and reporting duties using live regulation text and CVE intelligence. |
 | [Differential Review](security-and-compliance/differential-review.md) | Security-focused code review for PRs, commits, and diffs. |
 
-[All 393 Security & Compliance templates →](security-and-compliance/README.md)
-
-## Generative AI and LLM
-
-| Template | What it does |
-|---|---|
-| [Microsoft Agent Framework Python](generative-ai-and-llm/microsoft-agent-framework-python.md) | Create and maintain Python AI agents using Microsoft Agent Framework. Always check latest docs first. Interview once for project details. Keep state o |
-| [Emerging Techniques Knowledge Distillation](generative-ai-and-llm/emerging-techniques-knowledge-distillation.md) | Compress large language models by distilling knowledge from a teacher to a smaller student model. |
-| [Llm Ops](generative-ai-and-llm/llm-ops.md) | Designs and operates production RAG pipelines, embeddings, vector DBs, and cost-efficient LLM systems. |
-| [Llm Evaluation](generative-ai-and-llm/llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
-| [Ai Engineering Toolkit](generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
-| [Embedding Strategies](generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
-| [Mcp Integration Engineer](generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
-| [Llm Council](generative-ai-and-llm/llm-council.md) | Run a council of open-weight LLMs that deliberate and synthesize a final answer via Fireworks AI. |
-
-[All 253 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 447 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Data Analysis
 
@@ -110,7 +95,22 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Power Bi Performance Expert](data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
 | [Qutip](../science-and-research/data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
 
-[All 240 Data Analysis templates →](data-analysis/README.md)
+[All 269 Data Analysis templates →](data-analysis/README.md)
+
+## Generative AI and LLM
+
+| Template | What it does |
+|---|---|
+| [Microsoft Agent Framework Python](generative-ai-and-llm/microsoft-agent-framework-python.md) | Create and maintain Python AI agents using Microsoft Agent Framework. Always check latest docs first. Interview once for project details. Keep state o |
+| [Emerging Techniques Knowledge Distillation](generative-ai-and-llm/emerging-techniques-knowledge-distillation.md) | Compress large language models by distilling knowledge from a teacher to a smaller student model. |
+| [Llm Ops](generative-ai-and-llm/llm-ops.md) | Designs and operates production RAG pipelines, embeddings, vector DBs, and cost-efficient LLM systems. |
+| [Llm Evaluation](generative-ai-and-llm/llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
+| [Ai Engineering Toolkit](generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
+| [Embedding Strategies](generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
+| [Mcp Integration Engineer](generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
+| [Llm Council](generative-ai-and-llm/llm-council.md) | Run a council of open-weight LLMs that deliberate and synthesize a final answer via Fireworks AI. |
+
+[All 254 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
 ## Productivity
 
@@ -125,7 +125,7 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Planning With Files](../management/productivity/planning-with-files.md) | Manages complex tasks with persistent markdown planning files, tracking phases, findings, and progress. |
 
-[All 143 Productivity templates →](productivity/README.md)
+[All 169 Productivity templates →](productivity/README.md)
 
 ## Research
 
@@ -140,7 +140,7 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Url Context Validator](research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
 | [Rex](../product-development/research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 
-[All 118 Research templates →](research/README.md)
+[All 121 Research templates →](research/README.md)
 
 ## Design
 
@@ -155,7 +155,7 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Ui Pattern](../creatives/design/ui-pattern.md) | Generate a composed UI pattern from design system primitives. |
 | [Spatial Computing Ui](design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
 
-[All 113 Design templates →](design/README.md)
+[All 115 Design templates →](design/README.md)
 
 ## Generative Code
 
@@ -170,7 +170,7 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Angular](generative-code/angular.md) | Modern Angular v20+ expert: Signals, Standalone Components, Zoneless, SSR/Hydration. |
 | [Threejs Postprocessing](../creatives/generative-code/threejs-postprocessing.md) | Add screen-space effects like bloom, DOF, and color grading in Three.js. |
 
-[All 98 Generative Code templates →](generative-code/README.md)
+[All 103 Generative Code templates →](generative-code/README.md)
 
 ## Knowledge Management
 
@@ -185,7 +185,22 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Mesh Memory](knowledge-management/mesh-memory.md) | Self-hosted semantic memory for AI agents via MCP, saving and recalling worklogs, decisions, and notes by meaning. |
 | [Atlas Ledger](knowledge-management/atlas-ledger.md) | Distills caught drift into WHEN/DON'T/INSTEAD clauses for Atlas.md. |
 
-[All 67 Knowledge Management templates →](knowledge-management/README.md)
+[All 75 Knowledge Management templates →](knowledge-management/README.md)
+
+## Prompt Engineering
+
+| Template | What it does |
+|---|---|
+| [Prompt Engineering](prompt-engineering/prompt-engineering.md) | Design, test, and refine prompts for reliable LLM outputs. |
+| [Yao Meta Template](prompt-engineering/yao-meta-skill.md) | Turn workflows, prompts, and docs into reusable agent capabilities with evaluation and packaging. |
+| [Context Engineering](prompt-engineering/context-engineering.md) | Curates project context to maximize agent output quality and reduce hallucination. |
+| [Template Development](prompt-engineering/skill-development.md) | Create, edit, and evaluate templates for an AI runtime, with iterative improvement. |
+| [Prompt Engineering Instructor](prompt-engineering/prompt-engineering-instructor.md) | Guides developers in using Instructor to extract validated structured data from LLM responses. |
+| [Prompt Engineer](prompt-engineering/prompt-engineer.md) | Transforms vague user requests into structured, optimized prompts using proven frameworks. |
+| [Llm Prompt Optimizer](prompt-engineering/llm-prompt-optimizer.md) | Transform weak prompts into precision-engineered instructions for any LLM. |
+| [Fable Safe Prompt](prompt-engineering/fable-safe-prompt.md) | Rewrite prompts to bypass safety classifiers without changing intent or breaking policy. |
+
+[All 54 Prompt Engineering templates →](prompt-engineering/README.md)
 
 ## Writing & Content
 
@@ -200,7 +215,22 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Resume Bullet Writer](../human-resources/writing-and-content/resume-bullet-writer.md) | Transform weak resume bullets into achievement-focused statements with metrics and impact. |
 | [Software Documentation Assistant](writing-and-content/software-documentation-assistant.md) | Documentation assistant for software developers creating clear, consistent code and user docs. |
 
-[All 53 Writing & Content templates →](writing-and-content/README.md)
+[All 54 Writing & Content templates →](writing-and-content/README.md)
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Freshservice Automation](support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
+| [Community Building](../operations/support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
+| [Network Troubleshooting Guide](support-and-community/network-troubleshooting-guide.md) | Network troubleshooting guide for help desk technicians, step by step. |
+| [Initial Problem Assessment Assistant](support-and-community/initial-problem-assessment-assistant.md) | Guides help desk technicians through initial problem assessment and resolution. |
+| [Office Tech Troubleshooter](../finance/support-and-community/office-tech-troubleshooter.md) | Guides you through office tech fixes step by step, from printers to cloud storage. |
+| [Emergency Response Support Assistant](support-and-community/emergency-response-support-assistant.md) | Guides help desk technicians through emergency response and IT support tasks. |
+| [Remote Support Troubleshooter](../customer-support/support-and-community/remote-support-troubleshooter.md) | Guides remote technical support for connectivity, software, security, and performance issues. |
+| [Help Desk Ticket Logger](support-and-community/help-desk-ticket-logger.md) | Logs, triages, and escalates help desk tickets from user reports to resolution notes. |
+
+[All 45 Support & Community templates →](support-and-community/README.md)
 
 ## Marketing & Growth
 
@@ -216,36 +246,6 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Search Ai Optimization Expert](../marketing/marketing-and-growth/search-ai-optimization-expert.md) | Optimize websites and content for search engines, answer engines, and generative AI systems. |
 
 [All 37 Marketing & Growth templates →](marketing-and-growth/README.md)
-
-## Prompt Engineering
-
-| Template | What it does |
-|---|---|
-| [Prompt Engineering](prompt-engineering/prompt-engineering.md) | Design, test, and refine prompts for reliable LLM outputs. |
-| [Yao Meta Template](prompt-engineering/yao-meta-skill.md) | Turn workflows, prompts, and docs into reusable agent capabilities with evaluation and packaging. |
-| [Context Engineering](prompt-engineering/context-engineering.md) | Curates project context to maximize agent output quality and reduce hallucination. |
-| [Template Development](prompt-engineering/skill-development.md) | Create, edit, and evaluate templates for an AI runtime, with iterative improvement. |
-| [Prompt Engineering Instructor](prompt-engineering/prompt-engineering-instructor.md) | Guides developers in using Instructor to extract validated structured data from LLM responses. |
-| [Prompt Engineer](prompt-engineering/prompt-engineer.md) | Transforms vague user requests into structured, optimized prompts using proven frameworks. |
-| [Llm Prompt Optimizer](prompt-engineering/llm-prompt-optimizer.md) | Transform weak prompts into precision-engineered instructions for any LLM. |
-| [Fable Safe Prompt](prompt-engineering/fable-safe-prompt.md) | Rewrite prompts to bypass safety classifiers without changing intent or breaking policy. |
-
-[All 37 Prompt Engineering templates →](prompt-engineering/README.md)
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Freshservice Automation](support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
-| [Community Building](../operations/support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
-| [Network Troubleshooting Guide](support-and-community/network-troubleshooting-guide.md) | Network troubleshooting guide for help desk technicians, step by step. |
-| [Initial Problem Assessment Assistant](support-and-community/initial-problem-assessment-assistant.md) | Guides help desk technicians through initial problem assessment and resolution. |
-| [Office Tech Troubleshooter](../finance/support-and-community/office-tech-troubleshooter.md) | Guides you through office tech fixes step by step, from printers to cloud storage. |
-| [Emergency Response Support Assistant](support-and-community/emergency-response-support-assistant.md) | Guides help desk technicians through emergency response and IT support tasks. |
-| [Remote Support Troubleshooter](../customer-support/support-and-community/remote-support-troubleshooter.md) | Guides remote technical support for connectivity, software, security, and performance issues. |
-| [Help Desk Ticket Logger](support-and-community/help-desk-ticket-logger.md) | Logs, triages, and escalates help desk tickets from user reports to resolution notes. |
-
-[All 32 Support & Community templates →](support-and-community/README.md)
 
 ## Teaching & Tutoring
 
@@ -275,7 +275,7 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Googlesheets Automation](../operations/office-tools/googlesheets-automation.md) | Read, write, format, filter, and manage Google Sheets via Rube MCP. |
 | [Docx Official](../operations/office-tools/docx-official.md) | Create, read, edit, and manipulate .docx files with precise formatting and tracked changes. |
 
-[All 21 Office Tools templates →](office-tools/README.md)
+[All 25 Office Tools templates →](office-tools/README.md)
 
 ## Generative Art
 
@@ -317,6 +317,8 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 | [Azure Ai Translation Document Py](../operations/translation/azure-ai-translation-document-py.md) | Batch-translate Word, PDF, Excel, and other documents via Azure AI Document Translation. |
 | [Website Localization Planner](translation/website-localization-planner.md) | Localizes websites for global audiences: translation, culture, SEO, compliance, and more. |
 | [Localization QA Verifier](translation/localization-qa-verifier.md) | Localization QA bot that verifies language, layout, culture, legality, and media in localized software. |
+| [Localization Placeholder Repair](translation/localization-placeholder-repair.md) | Keeps localized strings' placeholders intact, repairs the safe ones, and flags the rest for review. |
+| [Translation Sync Coordinator](translation/translation-sync-coordinator.md) | Keeps every translated page in sync with its source, verified for text and rendering. |
 
 ## Sales & Negotiation
 
@@ -324,9 +326,11 @@ Engineers, DevOps, security and IT teams. **3,321 ready-made Grok Bot templates*
 |---|---|
 | [Vendor Management and Evaluation Assistant](sales-and-negotiation/vendor-management-and-evaluation-assistant.md) | Manages vendor lifecycle from selection to performance improvement for IT leaders. |
 | [Vendor Evaluation Navigator](sales-and-negotiation/vendor-evaluation-navigator.md) | Guides IT VPs through vendor evaluation, selection, and ongoing management. |
+| [Software Renewal Negotiation Prep](sales-and-negotiation/software-renewal-negotiation-prep.md) | Prepares a negotiation brief for each software renewal before its notice deadline. |
 | [Vendor Lifecycle Strategist](sales-and-negotiation/vendor-lifecycle-strategist.md) | Guides IT managers through the complete vendor evaluation lifecycle, from research to exit. |
 | [Sales Engineer](../sales/sales-and-negotiation/sales-engineer.md) | Design technical solutions and create proof-of-concept demos to close complex enterprise sales. |
 | [Vendor Onboarding Analyst](sales-and-negotiation/vendor-onboarding-analyst.md) | Manages vendor relationships from selection to onboarding, with analysis and reporting. |
+| [RFP Compliance Proposal Builder](sales-and-negotiation/rfp-compliance-proposal-builder.md) | Turns an RFP into a complete compliance matrix with evidence-backed answers for architect approval. |
 
 ## Self-Improvement
 

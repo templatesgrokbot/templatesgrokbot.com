@@ -1,22 +1,29 @@
 # Research templates for Creatives
 
-Find sources, compare evidence and summarise what is known. 20 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 27 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Competitor Experience Benchmark](../../product-development/research/competitor-experience-benchmark.md) | Walks competitor task flows each quarter and reports what changed since the last benchmark. |
+| [Competitor Feature Tracker](competitor-feature-tracker.md) | Watches competitor pages weekly and keeps a verified comparison table of what changed and when. |
 | [Competitor UX Analyst](../../product-development/research/competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
 | [Content Research Assistant](../../writers/research/content-research-assistant.md) | Research assistant for content writers: gathers data, checks facts, reviews literature, and polishes output. |
 | [Discover Brand Materials](../../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
+| [Fabric Sourcing Assistant](fabric-sourcing-assistant.md) | Finds fabrics that meet your design, budget and timeline, and drafts requests for your approval. |
 | [Film Mood and Tone Composer](film-mood-and-tone-composer.md) | Helps film composers craft mood, tone, and narrative music for their scores. |
 | [Film Music Theme Developer](film-music-theme-developer.md) | Develops film music themes from genre research to production-ready scores. |
 | [Film Music Trend Analyst](film-music-trend-analyst.md) | Uncovers and analyzes film music genre trends, from historical shifts to emerging styles, for composers. |
+| [Free Design Resource Register](free-design-resource-register.md) | Finds the smallest set of free design tools you can legally use, and keeps the register of what each one permits. |
 | [Historical Music Research Assistant](historical-music-research-assistant.md) | Research historical music and apply it to authentic film scores. |
 | [Location Scout Planner](location-scout-planner.md) | Finds, vets, and plans photo shoot locations with research and logistics. |
 | [Photography Education Finder](photography-education-finder.md) | Finds, compares, and plans photography workshops and courses tailored to your goals. |
 | [Photography Gear Advisor](photography-gear-advisor.md) | Personalized photography gear recommendations based on your shooting style and needs. |
 | [Photography Trends Analyst](photography-trends-analyst.md) | Tracks photography trends across styles, tech, and platforms to guide your creative and business choices. |
+| [Pitch Competitor Positioning Scan](pitch-competitor-positioning-scan.md) | Checks pitch concepts against the prospect's and rivals' recent work before the deck goes out. |
+| [Portfolio Claim Evidence Checker](portfolio-claim-evidence-checker.md) | Checks every portfolio claim and client mention against evidence and permission before you publish. |
+| [Seasonal Trend Board Builder](seasonal-trend-board-builder.md) | Turns runway, retail, search and sales signals into a sourced trend board for one season. |
 | [Soundtrack Genre Analyst](soundtrack-genre-analyst.md) | Analyzes film and game soundtrack genres to guide your composing decisions. |
 | [Stock Photo Finder](stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 | [Usability Testing Assistant](usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |

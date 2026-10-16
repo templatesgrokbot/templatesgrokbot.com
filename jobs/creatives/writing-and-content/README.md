@@ -1,6 +1,6 @@
 # Writing & Content templates for Creatives
 
-Plan, write and edit articles, copy and documentation. 63 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 74 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,7 @@ Plan, write and edit articles, copy and documentation. 63 Grok Bot templates, 13
 | [AI Copywriter](../../marketing/writing-and-content/ai-copywriter.md) | Writes marketing copy in Dan Koe's voice and runs every draft through Humanizer before delivery. |
 | [Audience Insight and Content Planner](../../writers/writing-and-content/audience-insight-and-content-planner.md) | Turns audience data into content plans that fit your readers. |
 | [Avoid Ai Writing](../../writers/writing-and-content/avoid-ai-writing.md) | Audit and rewrite text to remove 21 categories of AI writing patterns. |
+| [Back-Issue Repurposing Assistant](../../writers/writing-and-content/back-issue-repurposing-assistant.md) | Turns still-accurate back issues into ready drafts for other channels each month. |
 | [Beautiful Prose](../../writers/writing-and-content/beautiful-prose.md) | A style contract for clean, exact, forceful English prose without AI tics. |
 | [Blog Content Strategy Planner](../../writers/writing-and-content/blog-content-strategy-planner.md) | Plan, create, and optimize blog content with AI-driven research and strategy. |
 | [Blog Post Creation Assistant](../../writers/writing-and-content/blog-post-creation-assistant.md) | Guides bloggers from topic to published post with research, drafting, SEO, and editing. |
@@ -29,17 +30,21 @@ Plan, write and edit articles, copy and documentation. 63 Grok Bot templates, 13
 | [Copy Editing](../../marketing/writing-and-content/copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
 | [Copywriting](../../marketing/writing-and-content/copywriting.md) | Write conversion-focused marketing copy for landing pages and emails, with mandatory brief confirmation. |
 | [Copywriting Support Assistant](../../pr-and-communications/writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
+| [Design Copy Sync Assistant](../../writers/writing-and-content/design-copy-sync-assistant.md) | Keeps design files, the content system and the live product showing the same approved copy. |
 | [Design System Documentation Assistant](../../product-development/writing-and-content/design-system-documentation-assistant.md) | Turns your design system into clear, current, and consistent documentation your whole team can use. |
 | [Devrel Content](../../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Director Score Collaborator](director-score-collaborator.md) | Collaborates with directors to develop and refine film scores from ideas to final mix. |
 | [Drafting Content Assistant](../../writers/writing-and-content/drafting-content-assistant.md) | Drafts, refines, and optimizes your written content from research to final polish. |
 | [E-Learning Content Creator](../../education/writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
+| [Editorial Calendar Planner](../../marketing/writing-and-content/editorial-calendar-planner-for-bloggers.md) | Builds a monthly post calendar from real keyword demand, with no overlap across your archive. |
 | [Email Newsletter Writing Assistant](../../writers/writing-and-content/email-newsletter-writing-assistant.md) | Drafts, personalizes, and optimizes email newsletters from topic to performance analysis. |
+| [Error Copy Coverage Assistant](../../writers/writing-and-content/error-copy-coverage-assistant.md) | Finds every user-facing error without copy and drafts clear messages for your approval. |
 | [Film Script Scoring Analyst](film-script-scoring-analyst.md) | Analyzes film scripts to guide musical scoring with narrative and emotional insights. |
 | [Game Character Concept Generator](../../it-and-development/writing-and-content/game-character-concept-generator.md) | Turns game character ideas into fleshed-out concepts across genres and settings. |
 | [Game Story Development Assistant](../../it-and-development/writing-and-content/game-story-development-assistant.md) | Develops game stories, characters, and worlds with AI assistance. |
 | [Humanizer](../../writers/writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
 | [Interactive Content Ideas Generator](../../writers/writing-and-content/interactive-content-ideas-generator.md) | Generates and designs interactive content ideas for writers and creators. |
+| [Interface Copy Audit](../../writers/writing-and-content/interface-copy-audit.md) | Audits product interface strings against your style guide and drafts ranked fixes for approval. |
 | [Lyric Craft Assistant](lyric-craft-assistant.md) | Craft, refine, and adapt song lyrics with creative AI support. |
 | [Lyric Rhyme and Structure Assistant](lyric-rhyme-and-structure-assistant.md) | Helps vocal artists and songwriters craft rhymes, structure, and flow in their lyrics. |
 | [Magazine Blog Post Editor](../../writers/writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
@@ -52,15 +57,21 @@ Plan, write and edit articles, copy and documentation. 63 Grok Bot templates, 13
 | [Podcast Content Suite](../../marketing/writing-and-content/podcast-content-suite.md) | Turn podcast transcripts into a full content marketing suite: blog, social, newsletter, show notes, audiograms, and SEO. |
 | [Podcast Editor](podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |
 | [Podcast Metadata Specialist](../../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
+| [Portfolio Case Study Refresh](portfolio-case-study-refresh.md) | Turns finished design projects into complete, permitted, staging-tested case studies. |
 | [Portfolio Case Study Writer](portfolio-case-study-writer.md) | Transforms resume bullets into detailed portfolio case studies with context, action, and outcome. |
+| [Production Draft Lock and Revision Pages](production-draft-lock-and-revision-pages.md) | Compares a new draft to the locked script and builds correct revision pages for approval. |
 | [Recipe Rescuer](recipe-rescuer.md) | Adapts a recipe to what you actually have, and tells you when a substitution will not work. |
+| [Sample Fit Comment Writer](../../product-development/writing-and-content/sample-fit-comment-writer.md) | Turns fit-session notes and measurements into factory-ready fit comments for designer approval. |
+| [Script Breakdown for Actors](script-breakdown-for-actors.md) | Reads your full script and returns every character fact, scene beat and open question for the director. |
 | [Script Conflict Developer](../../writers/writing-and-content/script-conflict-developer.md) | Develops conflicts, resolutions, and dialogue for scripts across genres and settings. |
 | [Script Idea Generator](../../writers/writing-and-content/script-idea-generator.md) | Generates and refines script ideas from brainstorm to polished concept. |
+| [Script Timing Revision](script-timing-revision.md) | Trims a video script to fit its duration while keeping every mandatory point. |
 | [Seo Aeo Landing Page Writer](../../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [SEO Content Optimizer](../../writers/writing-and-content/seo-content-optimizer.md) | Optimizes content for search engines through keyword research, on-page fixes, and reporting. |
 | [Seo Content Writer](../../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Short Story Analyzer](../../writers/writing-and-content/short-story-analyzer.md) | 拆解短篇网文的故事核、结构与爆点，产出可复用的拆文报告。 |
 | [Sports Trivia Builder](sports-trivia-builder.md) | Generates sports trivia questions by sport, era, and difficulty with explanations. |
+| [Support Ticket Language Miner](../../writers/writing-and-content/support-ticket-language-miner.md) | Finds confusing product copy in support tickets, proposes fixes, and measures whether tickets drop. |
 | [Thread Writer](../../writers/writing-and-content/thread-writer.md) | Turns a long piece into an X thread that stands on its own instead of teasing a link. |
 | [Title and Headline Creation Assistant](../../writers/writing-and-content/title-and-headline-creation-assistant.md) | Generates and optimizes titles and headlines for content writers. |
 | [UX Content Strategy Planner](../../product-development/writing-and-content/ux-content-strategy-planner.md) | Builds and manages a complete content strategy for UX designers, from research to governance. |

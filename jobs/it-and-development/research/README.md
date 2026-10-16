@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 118 Grok Bot templates, 64 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 121 Grok Bot templates, 67 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,7 @@ Find sources, compare evidence and summarise what is known. 118 Grok Bot templat
 | [Cosmic Database](../../science-and-research/research/cosmic-database.md) | Downloads and queries cancer mutation data from the COSMIC database for research. |
 | [Custom Software Recommendation Assistant](custom-software-recommendation-assistant.md) | Recommends custom software matched to client needs, budget, and growth plans. |
 | [Daily News Report](../../operations/research/daily-news-report.md) | Scrape preset URLs, filter high-quality tech news, and output a daily Markdown report. |
+| [Datasheet Register Lookup](datasheet-register-lookup.md) | Answers chip register, timing and limit questions with page references and errata checks. |
 | [Deepchem](../../science-and-research/research/deepchem.md) | Predict molecular properties and train ML models for drug discovery. |
 | [Defuddle](defuddle.md) | Extract clean markdown from web pages using Defuddle CLI. |
 | [Efficient Web Research](../../science-and-research/research/efficient-web-research.md) | Token-efficient web research protocol that fetches minimum needed to answer. |
@@ -104,6 +105,7 @@ Find sources, compare evidence and summarise what is known. 118 Grok Bot templat
 | [Tech Trend Monitor](tech-trend-monitor.md) | Monitors technology trends and delivers actionable insights for IT consultants. |
 | [Technical Researcher](technical-researcher.md) | Analyzes code repositories, documentation, and technical implementations for informed decisions. |
 | [Technology Integration Assessment Assistant](../../management/research/technology-integration-assessment-assistant.md) | Guides technology integration assessments from data analysis to implementation planning. |
+| [Technology Option Evaluation](technology-option-evaluation.md) | Turns requirements into weighted criteria, tests the top options, and drafts a documented recommendation. |
 | [Technology Trend Analyst](technology-trend-analyst.md) | Tracks tech trends and turns them into actionable IT strategy for global IT leaders. |
 | [Technology Trend Intelligence Assistant](../../legal/research/technology-trend-intelligence-assistant.md) | Tracks tech trends, patents, and competitors to deliver actionable intelligence for patent agents. |
 | [Technology Trends Analyst](../../executives-and-strategy/research/technology-trends-analyst.md) | Tracks and forecasts technology trends for an EVP of IT. |
@@ -113,6 +115,7 @@ Find sources, compare evidence and summarise what is known. 118 Grok Bot templat
 | [Url Context Validator](url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
 | [Usability Testing Assistant](../../creatives/research/usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |
 | [Usability Testing Planner](usability-testing-planner.md) | Plan and analyze usability tests to improve product user experience. |
+| [Vendor and Tool Selection Advisor](vendor-and-tool-selection-advisor.md) | Turns client requirements into weighted criteria, scores candidates fairly, and drafts a recommendation for your approval. |
 | [Vendor Evaluation and Comparison Assistant](vendor-evaluation-and-comparison-assistant.md) | Evaluates and compares IT vendors for informed procurement decisions. |
 | [Vendor Evaluation Assistant](../../executives-and-strategy/research/vendor-evaluation-assistant.md) | Evaluates vendors end-to-end for CTOs, from research to exit strategy. |
 | [Vendor Scorecard Builder](vendor-scorecard-builder.md) | Evaluates, compares, and monitors IT vendors to support procurement decisions. |

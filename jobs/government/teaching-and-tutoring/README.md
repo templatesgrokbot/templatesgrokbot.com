@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Government
 
-Explain, quiz and guide someone through a subject. 11 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 12 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Explain, quiz and guide someone through a subject. 11 Grok Bot templates, 1 of t
 | [Crisis Training Designer](../../education/teaching-and-tutoring/crisis-training-designer.md) | Designs and runs crisis management training materials, simulations, and evaluations. |
 | [Crisis Training Program Designer](../../human-resources/teaching-and-tutoring/crisis-training-program-designer.md) | Builds and runs crisis management training programs with simulations, communication guidance, and post-crisis learning. |
 | [Curriculum Development Assistant](../../education/teaching-and-tutoring/curriculum-development-assistant.md) | Builds and refines training curricula from research to evaluation. |
+| [Dispatcher Scenario Training](dispatcher-scenario-training.md) | Builds anonymised dispatcher practice scenarios, plays the caller, scores against your checklist and raises difficulty only when earned. |
 | [Employee Training Program Developer](../../human-resources/teaching-and-tutoring/employee-training-program-developer.md) | Plans, builds, and evaluates employee training programs from needs analysis to reporting. |
 | [Interactive Training Module Designer](../../human-resources/teaching-and-tutoring/interactive-training-module-designer.md) | Designs and builds interactive training modules with AI-generated content, scenarios, and assessments. |
 | [Learning Path Architect for HR](../../education/teaching-and-tutoring/learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |

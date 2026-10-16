@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **1,158 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,28 +11,28 @@ Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for th
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 396 |
-| [Data Analysis](data-analysis/README.md) | 141 |
-| [Writing & Content](writing-and-content/README.md) | 91 |
-| [Social Media](social-media/README.md) | 87 |
-| [Research](research/README.md) | 84 |
-| [Design](design/README.md) | 32 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 498 |
+| [Data Analysis](data-analysis/README.md) | 163 |
+| [Writing & Content](writing-and-content/README.md) | 108 |
+| [Social Media](social-media/README.md) | 106 |
+| [Research](research/README.md) | 92 |
+| [Design](design/README.md) | 33 |
+| [Productivity](productivity/README.md) | 25 |
 | [Generative Art](generative-art/README.md) | 24 |
-| [Coding](coding/README.md) | 15 |
-| [Productivity](productivity/README.md) | 14 |
+| [Coding](coding/README.md) | 16 |
+| [Office Tools](office-tools/README.md) | 13 |
+| [Sales & Negotiation](sales-and-negotiation/README.md) | 13 |
 | [Generative Code](generative-code/README.md) | 12 |
-| [Sales & Negotiation](sales-and-negotiation/README.md) | 12 |
 | [Generative Video](generative-video/README.md) | 11 |
-| [Office Tools](office-tools/README.md) | 10 |
+| [Security & Compliance](security-and-compliance/README.md) | 10 |
+| [Support & Community](support-and-community/README.md) | 7 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 4 |
+| [Knowledge Management](knowledge-management/README.md) | 4 |
 | [Prompt Engineering](prompt-engineering/README.md) | 4 |
 | [Video Editing](video-editing/README.md) | 4 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
 | [Text-To-Speech](text-to-speech/README.md) | 3 |
 | [Translation](translation/README.md) | 3 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 2 |
-| [Security & Compliance](security-and-compliance/README.md) | 2 |
-| [Support & Community](support-and-community/README.md) | 2 |
-| [Knowledge Management](knowledge-management/README.md) | 1 |
 | [Speech-To-Text](speech-to-text/README.md) | 1 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 1 |
 | [Text-To-Video](text-to-video/README.md) | 1 |
@@ -50,7 +50,7 @@ Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for th
 | [Optimize Your Brand SERP](marketing-and-growth/brand-serp-optimierung.md) | Audits your brand's Google SERP and prescribes the five highest-impact fixes to improve it. |
 | [Seo Fundamentals](marketing-and-growth/seo-fundamentals.md) | Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles. |
 
-[All 396 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 498 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Data Analysis
 
@@ -65,7 +65,7 @@ Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for th
 | [Hasdata](../it-and-development/data-analysis/hasdata.md) | Extract public web data via HasData APIs for scraping, SERPs, and structured sources. |
 | [Analytics Product](data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
 
-[All 141 Data Analysis templates →](data-analysis/README.md)
+[All 163 Data Analysis templates →](data-analysis/README.md)
 
 ## Writing & Content
 
@@ -80,7 +80,7 @@ Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for th
 | [Seo Content Refresher](writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
 | [Brand Guard](writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 
-[All 91 Writing & Content templates →](writing-and-content/README.md)
+[All 108 Writing & Content templates →](writing-and-content/README.md)
 
 ## Social Media
 
@@ -95,7 +95,7 @@ Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for th
 | [Xiaohongshu Card Deck Generator](social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
 | [Xiaohongshu Content Strategist](social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
 
-[All 87 Social Media templates →](social-media/README.md)
+[All 106 Social Media templates →](social-media/README.md)
 
 ## Research
 
@@ -110,7 +110,7 @@ Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for th
 | [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
 | [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 
-[All 84 Research templates →](research/README.md)
+[All 92 Research templates →](research/README.md)
 
 ## Design
 
@@ -125,7 +125,22 @@ Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for th
 | [Vaporwave](../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Product Naming and Brand Builder](../executives-and-strategy/design/product-naming-and-brand-builder.md) | Guides founders through product naming and brand building from brainstorm to launch. |
 
-[All 32 Design templates →](design/README.md)
+[All 33 Design templates →](design/README.md)
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Notion Template Business](../creatives/productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
+| [Slack Automation](../operations/productivity/slack-automation.md) | Sends Slack messages, searches conversations, and manages channels with user approval. |
+| [Raffle Winner Picker](productivity/raffle-winner-picker.md) | Picks random winners from lists, spreadsheets, or Google Sheets for giveaways and contests. |
+| [Postmark Automation](productivity/postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |
+| [Onboarding](../product-development/productivity/onboarding.md) | Optimize post-signup onboarding to speed users to their aha moment and boost activation. |
+| [Discord Automation](../operations/productivity/discord-automation.md) | Automate Discord messages, roles, webhooks, and reactions via Rube MCP. |
+| [Power User Cultivation](../product-development/productivity/power-user-cultivation.md) | Identify engaged developers and turn them into advocates and contributors. |
+| [Matching Gift Follow-Up](productivity/matching-gift-follow-up.md) | Turns donor employers into matching gift submissions by drafting reminders and tracking each match to receipt. |
+
+[All 25 Productivity templates →](productivity/README.md)
 
 ## Generative Art
 
@@ -155,22 +170,37 @@ Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for th
 | [Nextjs Seo Indexing](../it-and-development/coding/nextjs-seo-indexing.md) | Fix SEO indexing issues and crawl budget problems in Next.js apps. |
 | [Core Web Vitals](../it-and-development/coding/core-web-vitals.md) | Analyzes and fixes LCP, INP, and CLS to improve page experience and search ranking. |
 
-[All 15 Coding templates →](coding/README.md)
+[All 16 Coding templates →](coding/README.md)
 
-## Productivity
+## Office Tools
 
 | Template | What it does |
 |---|---|
-| [Notion Template Business](../creatives/productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
-| [Slack Automation](../operations/productivity/slack-automation.md) | Sends Slack messages, searches conversations, and manages channels with user approval. |
-| [Raffle Winner Picker](productivity/raffle-winner-picker.md) | Picks random winners from lists, spreadsheets, or Google Sheets for giveaways and contests. |
-| [Postmark Automation](productivity/postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |
-| [Onboarding](../product-development/productivity/onboarding.md) | Optimize post-signup onboarding to speed users to their aha moment and boost activation. |
-| [Discord Automation](../operations/productivity/discord-automation.md) | Automate Discord messages, roles, webhooks, and reactions via Rube MCP. |
-| [Power User Cultivation](../product-development/productivity/power-user-cultivation.md) | Identify engaged developers and turn them into advocates and contributors. |
-| [Onboarding Cro](../product-development/productivity/onboarding-cro.md) | Audits and optimizes user onboarding to reduce time-to-value and increase activation rates. |
+| [Nanobanana Ppt Templates](../operations/office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
+| [Notion Ops Connector](../operations/office-tools/notion-ops-connector.md) | Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl. |
+| [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
+| [Pptx Deck Creation](office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
+| [Document Template Filler](../legal/office-tools/document-template-filler.md) | Fills your document templates with data to produce personalized files in bulk. |
+| [Presentation Deck Builder](../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
+| [GEO Report PDF Builder](office-tools/geo-report-pdf-builder.md) | Turns a GEO audit report into a polished, print-ready PDF with a branded cover and colour-coded scores. |
+| [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
 
-[All 14 Productivity templates →](productivity/README.md)
+[All 13 Office Tools templates →](office-tools/README.md)
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Brand Collaboration Opportunity Finder](../management/sales-and-negotiation/brand-collaboration-opportunity-finder.md) | Finds, evaluates, and manages brand collaboration opportunities for brand managers. |
+| [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
+| [John Wick](../sales/sales-and-negotiation/john-wick.md) | Finds the right decision-maker at a target company and gets you into their conversation. |
+| [Outbound Sales](../sales/sales-and-negotiation/outbound-sales.md) | Owns the full outbound prospecting pipeline so AEs can focus on closing. |
+| [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
+| [Sales Enablement](../sales/sales-and-negotiation/sales-enablement.md) | Create sales collateral that reps actually use to close deals. |
+| [Influencer Dealflow Manager](../executives-and-strategy/sales-and-negotiation/influencer-dealflow-manager.md) | End-to-end influencer partnership management: find, pitch, contract, track, and report. |
+| [Cold Outreach](../sales/sales-and-negotiation/cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
+
+[All 13 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Generative Code
 
@@ -187,21 +217,6 @@ Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for th
 
 [All 12 Generative Code templates →](generative-code/README.md)
 
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Brand Collaboration Opportunity Finder](../management/sales-and-negotiation/brand-collaboration-opportunity-finder.md) | Finds, evaluates, and manages brand collaboration opportunities for brand managers. |
-| [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
-| [John Wick](../sales/sales-and-negotiation/john-wick.md) | Finds the right decision-maker at a target company and gets you into their conversation. |
-| [Outbound Sales](../sales/sales-and-negotiation/outbound-sales.md) | Owns the full outbound prospecting pipeline so AEs can focus on closing. |
-| [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
-| [Sales Enablement](../sales/sales-and-negotiation/sales-enablement.md) | Create sales collateral that reps actually use to close deals. |
-| [Influencer Dealflow Manager](../executives-and-strategy/sales-and-negotiation/influencer-dealflow-manager.md) | End-to-end influencer partnership management: find, pitch, contract, track, and report. |
-| [Cold Outreach](../sales/sales-and-negotiation/cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
-
-[All 12 Sales & Negotiation templates →](sales-and-negotiation/README.md)
-
 ## Generative Video
 
 | Template | What it does |
@@ -217,20 +232,50 @@ Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for th
 
 [All 11 Generative Video templates →](generative-video/README.md)
 
-## Office Tools
+## Security & Compliance
 
 | Template | What it does |
 |---|---|
-| [Nanobanana Ppt Templates](../operations/office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
-| [Notion Ops Connector](../operations/office-tools/notion-ops-connector.md) | Reads and updates Notion databases for content plans, roadmaps, and wikis without duplicates or taxonomy sprawl. |
-| [Pptx Official](../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
-| [Pptx Deck Creation](office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
-| [Document Template Filler](../legal/office-tools/document-template-filler.md) | Fills your document templates with data to produce personalized files in bulk. |
-| [Presentation Deck Builder](../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
-| [GEO Report PDF Builder](office-tools/geo-report-pdf-builder.md) | Turns a GEO audit report into a polished, print-ready PDF with a branded cover and colour-coded scores. |
-| [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
+| [GDPR Email Compliance Assistant](../sales/security-and-compliance/gdpr-email-compliance-assistant.md) | Guides email marketers through GDPR compliance for campaigns, from audits to breach response. |
+| [Creative Asset Rights Expiry Checker](security-and-compliance/creative-asset-rights-expiry-checker.md) | Checks scheduled creative for expiring or out-of-territory licences and proposes compliant replacements. |
+| [Creator Exclusivity Conflict Monitor](security-and-compliance/creator-exclusivity-conflict-monitor.md) | Watches contracted creators for competitor promotions and prepares a fair first response. |
+| [Podcast Sponsor Ad Placement Audit](security-and-compliance/podcast-sponsor-ad-placement-audit.md) | Verifies each sponsor read actually ran where and when the contract required, and drafts fixes for gaps. |
+| [Creator Brand Safety Rescan](security-and-compliance/creator-brand-safety-rescan.md) | Rechecks active creators' public posts each month and brings real brand safety conflicts to you with evidence. |
+| [AI Crawler Access Audit](security-and-compliance/ai-crawler-access-audit.md) | Checks whether AI crawlers can reach your site and tells you exactly what to change. |
+| [Content Rights and Image License Check](security-and-compliance/content-rights-and-image-license-check.md) | Checks every image, quote and embedded asset in a draft for documented rights before you publish. |
+| [Affiliate Compliance Monitor](security-and-compliance/affiliate-compliance-monitor.md) | Finds affiliate rule breaks each week and drafts warnings for your approval. |
 
-[All 10 Office Tools templates →](office-tools/README.md)
+[All 10 Security & Compliance templates →](security-and-compliance/README.md)
+
+## Support & Community
+
+| Template | What it does |
+|---|---|
+| [Community Building](../operations/support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
+| [Community Champion Program Assistant](support-and-community/community-champion-program-assistant.md) | Finds and supports your community's most helpful members, and watches for burnout. |
+| [Member Feedback Theme Report](support-and-community/member-feedback-theme-report.md) | Turns member feedback into a monthly theme report for product and brand teams. |
+| [Affiliate Commission Dispute Resolver](support-and-community/affiliate-commission-dispute-resolver.md) | Resolves affiliate commission disputes with evidence and drafts the reply for your approval. |
+| [Social Media Customer Service Coordinator](support-and-community/social-media-customer-service-coordinator.md) | Coordinates social media customer service: responses, feedback, escalations, and crisis plans. |
+| [Member Spotlight Pipeline](support-and-community/member-spotlight-pipeline.md) | Finds fair, consented member spotlights each month and drafts them for your approval. |
+| [New Member Activation Assistant](support-and-community/new-member-activation-assistant.md) | Welcomes new community members, suggests a first step, and tracks activation within 14 days. |
+
+## Generative AI and LLM
+
+| Template | What it does |
+|---|---|
+| [Elon Musk](../creatives/generative-ai-and-llm/elon-musk.md) | Simulates Elon Musk with high-fidelity psychological and communication depth. |
+| [LLM Citation Optimizer](generative-ai-and-llm/llm-citation-optimizer.md) | Audits and optimizes your content to be cited by AI answer engines, and tracks every citation. |
+| [Mmx Cli](../creatives/generative-ai-and-llm/mmx-cli.md) | Generate text, images, video, speech, and music via the MiniMax CLI. |
+| [Agentic Search Optimizer](generative-ai-and-llm/agentic-search-optimizer.md) | Audits whether AI browsing agents can actually complete tasks on your site, then fixes what blocks them. |
+
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Knowledge Base Builder](../customer-support/knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
+| [Content Library Governance Audit](knowledge-management/content-library-governance-audit.md) | Quarterly audit of your published pages with a decided keep, update, merge or remove action for each. |
+| [Creative Archive Taxonomy Assistant](knowledge-management/creative-archive-taxonomy-assistant.md) | Tags and cleans a studio archive so the right, current asset ranks first in search. |
+| [Sales Collateral Staleness Audit](knowledge-management/sales-collateral-staleness-audit.md) | Audits sales enablement assets for stale claims, ranks them for update or retirement, and drafts corrections. |
 
 ## Prompt Engineering
 
@@ -249,14 +294,6 @@ Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for th
 | [Social Media Clip Creator](../creatives/video-editing/social-media-clip-creator.md) | Transforms video content into platform-optimized clips with proper cropping, subtitles, thumbnails, and encoding. |
 | [Video Editor](../creatives/video-editing/video-editor.md) | Edits video clips into professional sequences using FFmpeg commands. No previews, no GUI, just cuts and effects. You describe the edit; it writes the |
 | [Screenstudio Alt](../creatives/video-editing/screenstudio-alt.md) | Auto-speed idle, zoom on clicks, overlay keys & cursor, export vertical from CLI. |
-
-## Generative AI and LLM
-
-| Template | What it does |
-|---|---|
-| [Elon Musk](../creatives/generative-ai-and-llm/elon-musk.md) | Simulates Elon Musk with high-fidelity psychological and communication depth. |
-| [Mmx Cli](../creatives/generative-ai-and-llm/mmx-cli.md) | Generate text, images, video, speech, and music via the MiniMax CLI. |
-| [Agentic Search Optimizer](generative-ai-and-llm/agentic-search-optimizer.md) | Audits whether AI browsing agents can actually complete tasks on your site, then fixes what blocks them. |
 
 ## Text-To-Speech
 
@@ -280,26 +317,6 @@ Campaigns, SEO, content and growth. **956 ready-made Grok Bot templates** for th
 |---|---|
 | [Zoom Automation](../it-and-development/cloud-and-devops/zoom-automation.md) | Automate Zoom meetings, webinars, recordings, and participant reports via Composio MCP. |
 | [Hubspot Integration](../it-and-development/cloud-and-devops/hubspot-integration.md) | Guide HubSpot CRM integration with OAuth, CRUD, batch, webhooks, and custom objects. |
-
-## Security & Compliance
-
-| Template | What it does |
-|---|---|
-| [GDPR Email Compliance Assistant](../sales/security-and-compliance/gdpr-email-compliance-assistant.md) | Guides email marketers through GDPR compliance for campaigns, from audits to breach response. |
-| [AI Crawler Access Audit](security-and-compliance/ai-crawler-access-audit.md) | Checks whether AI crawlers can reach your site and tells you exactly what to change. |
-
-## Support & Community
-
-| Template | What it does |
-|---|---|
-| [Community Building](../operations/support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
-| [Social Media Customer Service Coordinator](support-and-community/social-media-customer-service-coordinator.md) | Coordinates social media customer service: responses, feedback, escalations, and crisis plans. |
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Knowledge Base Builder](../customer-support/knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
 
 ## Speech-To-Text
 

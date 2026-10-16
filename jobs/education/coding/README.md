@@ -1,11 +1,13 @@
 # Coding templates for Education
 
-Write, review, test and debug software. 6 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 8 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Assignment Submission Readiness Checker](assignment-submission-readiness-checker.md) | Checks your assignment against every stated requirement before you hand it in. |
+| [Code Review Self-Check](code-review-self-check.md) | Runs your assignment's tests, linter and rubric, then ranks what to fix first. |
 | [Code Tour](../../it-and-development/coding/code-tour.md) | Creates and maintains VSCode CodeTour files for guided codebase walkthroughs. |
 | [Developer Onboarding](../../it-and-development/coding/developer-onboarding.md) | Guide developers from signup to working code with optimized quickstarts and tutorials. |
 | [Fixing Accessibility](../../it-and-development/coding/fixing-accessibility.md) | Audit and fix HTML accessibility issues: ARIA, keyboard, focus, contrast, forms. |

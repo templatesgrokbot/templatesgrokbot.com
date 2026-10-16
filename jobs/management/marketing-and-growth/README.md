@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Management
 
-Campaigns, ads, conversion and launch plans. 43 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 49 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,7 +16,11 @@ Campaigns, ads, conversion and launch plans. 43 Grok Bot templates, 22 of them f
 | [Content Calendar Planner](../../marketing/marketing-and-growth/content-calendar-planner.md) | Turns your marketing goals into a realistic content calendar with themes, formats, and owners. |
 | [Content Marketer](../../marketing/marketing-and-growth/content-marketer.md) | Develop content strategies and create SEO-optimized content to drive engagement and conversions. |
 | [Content Strategy Planner](content-strategy-planner.md) | Builds and refines your content strategy from research to performance tracking. |
+| [Creator Campaign Performance Tracker](../../marketing/marketing-and-growth/creator-campaign-performance-tracker.md) | Collects weekly creator post stats with proof, calculates cost per result, and drafts an approval-ready report. |
 | [Creator Campaign Planner](../../marketing/marketing-and-growth/creator-campaign-planner.md) | Turns a campaign goal and budget into an execution-ready creator campaign plan. |
+| [Creator Outreach Follow-Up](../../marketing/marketing-and-growth/creator-outreach-follow-up.md) | Drafts, sends and tracks creator outreach, then sorts replies and hands rates to you. |
+| [Creator Renewal Scorecard](../../marketing/marketing-and-growth/creator-renewal-scorecard.md) | Scores every creator in a closed campaign and hands you a ranked renewal list with reasons. |
+| [Creator Rights Window Tracker](../../marketing/marketing-and-growth/creator-rights-window-tracker.md) | Tracks creator paid-usage windows and flags ads nearing license expiry. |
 | [Customer Persona Builder](customer-persona-builder.md) | Builds and refines customer personas from research to presentation for marketing managers. |
 | [Digital Marketing Strategy Formulator](digital-marketing-strategy-formulator.md) | Formulates data-driven digital marketing strategies from market research to performance reporting. |
 | [E-commerce Launch Strategist](e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
@@ -36,9 +40,11 @@ Campaigns, ads, conversion and launch plans. 43 Grok Bot templates, 22 of them f
 | [Marketing Strategy Pmm](../../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Patient Recruitment Campaign Planner](../../healthcare/marketing-and-growth/patient-recruitment-campaign-planner.md) | Plans and drafts patient recruitment campaigns for clinical trials. |
 | [Personalized Marketing Strategist](personalized-marketing-strategist.md) | Turns customer data into personalized marketing strategies for e-commerce managers. |
+| [Post-Campaign Creative Review](../../marketing/marketing-and-growth/post-campaign-creative-review.md) | Turns past campaign creative results into evidence-backed learnings for your playbook. |
 | [PPC Campaign Manager](../../sales/marketing-and-growth/ppc-campaign-manager.md) | Manages PPC campaigns from keyword research to performance reporting for better ROI. |
 | [Pricing Strategy Formulation Assistant](pricing-strategy-formulation-assistant.md) | Develops and optimizes pricing strategies from market data and customer insights. |
 | [Product Launch Planner](product-launch-planner.md) | Plans and executes product launches from market research to post-launch monitoring. |
+| [Product Launch Readiness](../../marketing/marketing-and-growth/product-launch-readiness.md) | Checks every launch asset for placeholders, broken links and sign-off, and reports what is truly ready. |
 | [Product Marketing](../../marketing/marketing-and-growth/product-marketing.md) | Build and maintain a product marketing context document from codebase or conversation. |
 | [Product Placement Optimizer](product-placement-optimizer.md) | Optimizes retail product placement using sales data, customer insights, and traffic patterns. |
 | [Retail Digital Marketing Optimizer](retail-digital-marketing-optimizer.md) | Optimizes digital marketing for retail managers: content, social, email, ads, and analytics. |

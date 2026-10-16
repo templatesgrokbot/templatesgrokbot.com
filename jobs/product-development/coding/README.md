@@ -1,12 +1,13 @@
 # Coding templates for Product Development
 
-Write, review, test and debug software. 400 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 402 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [2d Games](../../it-and-development/coding/2d-games.md) | Implement 2D game systems using sprites, tilemaps, physics, cameras, and genre patterns. |
+| [Acceptance Criteria Evidence Mapper](acceptance-criteria-evidence-mapper.md) | Maps every acceptance criterion to real evidence and flags the ones with none before you accept a story. |
 | [Address Comments](../../it-and-development/coding/address-comments.md) | Addresses pull request comments with minimal, tested changes. |
 | [Agent Framework Azure Ai Py](../../it-and-development/coding/agent-framework-azure-ai-py.md) | Build persistent agents on Azure AI Foundry with the Microsoft Agent Framework Python SDK. |
 | [Agent Harness Fault Injection](../../it-and-development/coding/agent-harness-fault-injection.md) | Deterministic fault injection to test agent workflow recovery before production. |
@@ -214,6 +215,7 @@ Write, review, test and debug software. 400 Grok Bot templates, 3 of them filed 
 | [Legacy Modernizer](../../it-and-development/coding/legacy-modernizer.md) | Plan and execute safe, incremental migrations of legacy systems to modern architectures. |
 | [Lightning Channel Factories](../../it-and-development/coding/lightning-channel-factories.md) | Technical reference for Lightning Network channel factories, multi-party channels, and LSP architectures. |
 | [Lingodotdev I18n](../../it-and-development/coding/lingodotdev-i18n.md) | Implements multi-language support in web apps using a step-by-step checklist. |
+| [Live Event Config Builder](live-event-config-builder.md) | Builds and tests live event configs for dates, rewards and drop rates, then waits for your approval to push. |
 | [Logic Fix All](../../it-and-development/coding/logic-fix-all.md) | Autonomous repo-wide logic audit: health, fix, verify, iterate until clean. |
 | [Loops Bot](../../it-and-development/coding/loops-bot.md) | Manages an engineering outer loop from goal definition to merge for any repository. |
 | [M365 Agents Py](../../it-and-development/coding/m365-agents-py.md) | Build multichannel enterprise agents for Teams, M365, and Copilot Studio with Python. |

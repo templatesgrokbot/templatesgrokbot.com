@@ -1,6 +1,6 @@
 # Writing & Content templates for Marketing
 
-Plan, write and edit articles, copy and documentation. 91 Grok Bot templates, 36 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 108 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,6 +11,7 @@ Plan, write and edit articles, copy and documentation. 91 Grok Bot templates, 36
 | [App Store Changelog](../../it-and-development/writing-and-content/app-store-changelog.md) | Generate App Store release notes from git history since the last tag. |
 | [Audience Insight and Content Planner](../../writers/writing-and-content/audience-insight-and-content-planner.md) | Turns audience data into content plans that fit your readers. |
 | [Avoid Ai Writing](../../writers/writing-and-content/avoid-ai-writing.md) | Audit and rewrite text to remove 21 categories of AI writing patterns. |
+| [Back-Issue Repurposing Assistant](../../writers/writing-and-content/back-issue-repurposing-assistant.md) | Turns still-accurate back issues into ready drafts for other channels each month. |
 | [Beautiful Prose](../../writers/writing-and-content/beautiful-prose.md) | A style contract for clean, exact, forceful English prose without AI tics. |
 | [Blog Content Strategy Planner](../../writers/writing-and-content/blog-content-strategy-planner.md) | Plan, create, and optimize blog content with AI-driven research and strategy. |
 | [Blog Post Creation Assistant](../../writers/writing-and-content/blog-post-creation-assistant.md) | Guides bloggers from topic to published post with research, drafting, SEO, and editing. |
@@ -21,21 +22,27 @@ Plan, write and edit articles, copy and documentation. 91 Grok Bot templates, 36
 | [Brand Storytelling Assistant](../../pr-and-communications/writing-and-content/brand-storytelling-assistant.md) | Crafts compelling brand stories across all channels and formats for marketing teams. |
 | [Brand Storytelling Content Assistant](brand-storytelling-content-assistant.md) | Turns your brand's story into a full content engine, from ideas to performance tracking. |
 | [Brand Voice Enforcement](brand-voice-enforcement.md) | Applies your brand guidelines to every email, pitch deck, and social post. |
+| [Case Study Evidence Checker](case-study-evidence-checker.md) | Traces every outcome in a case study draft to customer-approved evidence before anyone publishes it. |
 | [Cold Email](../../sales/writing-and-content/cold-email.md) | Write B2B cold emails and follow-up sequences that earn replies. |
 | [Communication Excellence Coach](communication-excellence-coach.md) | Review drafts, calibrate tone, roleplay conversations, and improve presentations using proven frameworks. |
 | [Company Narrative Consistency](../../pr-and-communications/writing-and-content/company-narrative-consistency.md) | Keeps one company story consistent across employees, investors, customers, candidates and partners. |
 | [Content Analysis and Optimization Assistant](../../pr-and-communications/writing-and-content/content-analysis-and-optimization-assistant.md) | Analyzes and optimizes content for engagement, SEO, and brand consistency. |
+| [Content Brief Assignment Assistant](content-brief-assignment-assistant.md) | Turns an approved topic into a complete brief and a draft that fits it. |
 | [Content Creation](marketing-content-creation.md) | Draft channel-specific marketing content that is SEO-aware and free of buzzwords. |
 | [Content Creator](content-creator.md) | Draft and review audience-specific content using brand examples and channel templates. |
 | [Content Editing Assistant](../../pr-and-communications/writing-and-content/content-editing-assistant.md) | Edits content for grammar, style, clarity, facts, and audience fit. |
 | [Content Idea Generator](../../writers/writing-and-content/content-idea-generator.md) | Generates content ideas, trends, keywords, and formats for writers. |
+| [Content Inventory Gap Auditor](content-inventory-gap-auditor.md) | Crawls your site, inventories every page, and proposes keep, update, merge or remove with an owner. |
 | [Content Optimizer](content-optimizer.md) | Rewrites your existing page copy for clarity, conversion, and search without replacing the offer. |
 | [Content Production Pipeline](content-production-pipeline.md) | Takes a topic from blank page to publish-ready article, with research, drafting, and optimization. |
 | [Content Repurposing Assistant](../../writers/writing-and-content/content-repurposing-assistant.md) | Repurposes your existing content into fresh formats for wider reach and engagement. |
 | [Content Research Writer](../../writers/writing-and-content/content-research-writer.md) | Research, outline, and refine written content while preserving the author's voice. |
+| [Copy Approval Chain Tracker](../../writers/writing-and-content/copy-approval-chain-tracker.md) | Runs your copy through reviewers in order and locks one final version with a full approval log. |
 | [Copy Editing](copy-editing.md) | Improve marketing copy through seven focused editing passes, preserving core message. |
 | [Copywriting](copywriting.md) | Write conversion-focused marketing copy for landing pages and emails, with mandatory brief confirmation. |
 | [Copywriting Support Assistant](../../pr-and-communications/writing-and-content/copywriting-support-assistant.md) | Drafts, refines, and optimizes all your copy with AI support from research to final edit. |
+| [Creative Brief Completeness Checker](creative-brief-completeness-checker.md) | Checks incoming creative briefs against your agency standard and drafts the one-page brief for approval. |
+| [Creator Contract Terms Drafter](creator-contract-terms-drafter.md) | Turns agreed creator deal terms into a complete, standard contract for manager and legal approval. |
 | [Crisis Content Manager](crisis-content-manager.md) | Plan, respond, and recover from crises with structured content and communication support. |
 | [Customer Case Study Writer](customer-case-study-writer.md) | Turns customer results into a structured, proof-driven case study with metrics and quotes. |
 | [Dev To Hashnode](dev-to-hashnode.md) | Publish and cross-post developer content to Dev.to and Hashnode. |
@@ -45,6 +52,7 @@ Plan, write and edit articles, copy and documentation. 91 Grok Bot templates, 36
 | [Digital Content Creation Workspace](../../pr-and-communications/writing-and-content/digital-content-creation-workspace.md) | Turns research and ideas into polished, scheduled content across all digital platforms for PR specialists. |
 | [Drafting Content Assistant](../../writers/writing-and-content/drafting-content-assistant.md) | Drafts, refines, and optimizes your written content from research to final polish. |
 | [Editorial Calendar Planner](editorial-calendar-planner.md) | Plans your editorial calendar from topic research to performance tracking. |
+| [Editorial Calendar Planner](editorial-calendar-planner-for-bloggers.md) | Builds a monthly post calendar from real keyword demand, with no overlap across your archive. |
 | [Editorial Trend Analyst](../../pr-and-communications/writing-and-content/editorial-trend-analyst.md) | Tracks trending topics and turns them into content plans for editors. |
 | [Elevator Pitch Developer](../../executives-and-strategy/writing-and-content/elevator-pitch-developer.md) | Crafts, refines, and tailors your elevator pitch for any audience or format. |
 | [Email Composer](../../operations/writing-and-content/email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
@@ -53,6 +61,7 @@ Plan, write and edit articles, copy and documentation. 91 Grok Bot templates, 36
 | [Founder Content Creation Assistant](../../executives-and-strategy/writing-and-content/founder-content-creation-assistant.md) | Turns your ideas into polished, SEO-ready content across all channels. |
 | [Founder Pitch Deck Coach](../../executives-and-strategy/writing-and-content/founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
 | [GEO Client Report Builder](geo-client-report-builder.md) | Turns GEO audit results into one client-ready report with scores, findings and prioritized actions. |
+| [GEO Content Quality Assessor](geo-content-quality-assessor.md) | Scores your pages on E-E-A-T and AI citability, then hands you a fix list. |
 | [Grammar And Flow Editor](../../writers/writing-and-content/grammar-and-flow-editor.md) | Finds grammar, logic, and flow errors in your draft and suggests targeted fixes without rewriting it. |
 | [Headline Crafting Assistant](../../pr-and-communications/writing-and-content/headline-crafting-assistant.md) | Crafts and optimizes headlines for editors using research, testing, and performance data. |
 | [Humanizer](../../writers/writing-and-content/humanizer.md) | Removes AI writing patterns and adds natural human voice to text. |
@@ -61,17 +70,25 @@ Plan, write and edit articles, copy and documentation. 91 Grok Bot templates, 36
 | [Magazine Blog Post Editor](../../writers/writing-and-content/magazine-blog-post-editor.md) | Turns notes into a polished magazine-style long-form blog post. |
 | [Marketing Content Creator](../../sales/writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |
 | [Marketing Content Polisher](../../sales/writing-and-content/marketing-content-polisher.md) | Plan, write, and polish marketing content across formats with AI assistance. |
+| [Marketing Newsletter Assembly](marketing-newsletter-assembly.md) | Builds a source-linked newsletter draft from your approved pool each cycle, ready for your approval. |
 | [Marp Slide](../../creatives/writing-and-content/marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
 | [Media Content Creation Assistant](../../pr-and-communications/writing-and-content/media-content-creation-assistant.md) | Drafts and plans media content—press releases, posts, scripts, and more—for media relations specialists. |
 | [Newsletter Content Creator](../../sales/writing-and-content/newsletter-content-creator.md) | Drafts, optimizes, and repurposes newsletter content from research to performance analysis. |
+| [Old Post Refresh Planner](old-post-refresh-planner.md) | Finds decaying posts, drafts evidence-based updates for editor approval, and tracks recovery. |
 | [Podcast Content Suite](podcast-content-suite.md) | Turn podcast transcripts into a full content marketing suite: blog, social, newsletter, show notes, audiograms, and SEO. |
 | [Podcast Editor](../../creatives/writing-and-content/podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |
 | [Podcast Metadata Specialist](podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
 | [Portfolio Case Study Writer](../../creatives/writing-and-content/portfolio-case-study-writer.md) | Transforms resume bullets into detailed portfolio case studies with context, action, and outcome. |
+| [Pre-Publish Post Checker](pre-publish-post-checker.md) | Checks a ready blog draft for technical and disclosure mistakes, fixes what it can in a copy, and waits for your approval before you publish. |
+| [Press Release Writer](../../pr-and-communications/writing-and-content/press-release-writer.md) | Turns your launch, milestone, or funding news into a media-ready press release. |
 | [Press Release Writer and Distributor](../../pr-and-communications/writing-and-content/press-release-writer-and-distributor.md) | Drafts, distributes, and analyzes press releases for PR professionals. |
+| [Pricing Page Consistency Checker](pricing-page-consistency-checker.md) | Checks pricing page drafts against the approved package matrix and drafts corrections for mismatches. |
 | [Pricing Page Copywriter](../../writers/writing-and-content/pricing-page-copywriter.md) | Rewrites pricing pages so plans are easy to compare and the right buyer self-selects. |
 | [Professional Proofreader](../../writers/writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
+| [Reader Pulse Survey Cycle](reader-pulse-survey-cycle.md) | Runs a segmented reader survey and turns the results into specific content decisions. |
+| [Reader Question Topic Miner](../../writers/writing-and-content/reader-question-topic-miner.md) | Turns reader questions from comments, replies and search into a ranked list of new posts and refreshes. |
 | [Resume Bullet Writer](../../human-resources/writing-and-content/resume-bullet-writer.md) | Transform weak resume bullets into achievement-focused statements with metrics and impact. |
+| [Retailer Listing Preflight](retailer-listing-preflight.md) | Prepares and rule-checks your book's retailer listings so you approve clean metadata before publishing. |
 | [Seo Aeo Blog Writer](seo-aeo-blog-writer.md) | Write structured blog posts optimized for SEO ranking and AI extraction. |
 | [Seo Aeo Landing Page Writer](seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [Seo Content](seo-content.md) | Audit content quality and E-E-A-T signals for SEO and AI citation readiness. |

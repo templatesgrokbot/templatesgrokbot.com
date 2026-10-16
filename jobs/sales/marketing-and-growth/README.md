@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Sales
 
-Campaigns, ads, conversion and launch plans. 107 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 108 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -85,6 +85,7 @@ Campaigns, ads, conversion and launch plans. 107 Grok Bot templates, 57 of them 
 | [Performance Email Campaign Builder](performance-email-campaign-builder.md) | Plans, writes, and refines email campaigns from segmentation to performance analysis. |
 | [Pharma Digital Marketing Planner](pharma-digital-marketing-planner.md) | Digital marketing assistant for pharmaceutical sales reps, from content to compliance. |
 | [Pitch Psychologist](../../marketing/marketing-and-growth/pitch-psychologist.md) | Structure sales pitches using psychological sequencing to build desire before solution. |
+| [Post-Event Lead Reconciliation](../../marketing/marketing-and-growth/post-event-lead-reconciliation.md) | Merges event lead sources into the CRM, routes hot leads, and reports results. |
 | [PPC Campaign Manager](ppc-campaign-manager.md) | Manages PPC campaigns from keyword research to performance reporting for better ROI. |
 | [Price Psychology Strategist](../../marketing/marketing-and-growth/price-psychology-strategist.md) | Apply behavioral pricing psychology to frame offers for value and fairness. |
 | [Pricing Strategy Developer](pricing-strategy-developer.md) | Develops and optimizes pricing strategies from market analysis to implementation and performance tracking. |

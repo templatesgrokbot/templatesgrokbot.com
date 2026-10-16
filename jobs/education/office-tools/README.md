@@ -1,6 +1,6 @@
 # Office Tools templates for Education
 
-Spreadsheets, documents, slides, email and calendars. 3 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Spreadsheets, documents, slides, email and calendars. 4 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Spreadsheets, documents, slides, email and calendars. 3 Grok Bot templates, 1 of
 |---|---|
 | [Markdown Slide Builder](markdown-slide-builder.md) | Turns your Markdown notes into themed Marp slide decks exported to PDF, PPTX, or HTML. |
 | [Presentation Deck Builder](../../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
+| [Student Referral Packet Builder](student-referral-packet-builder.md) | Assembles a complete, evidence-based student referral packet for the support team to act on. |
 | [Visual Asset Placer](../../creatives/office-tools/visual-asset-placer.md) | Selects and places approved visual assets in editable PPTX decks. |
 
 [← All Education templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/education)

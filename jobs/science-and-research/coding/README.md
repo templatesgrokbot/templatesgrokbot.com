@@ -1,6 +1,6 @@
 # Coding templates for Science and Research
 
-Write, review, test and debug software. 40 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 42 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -37,6 +37,8 @@ Write, review, test and debug software. 40 Grok Bot templates, 2 of them filed i
 | [Python Performance Optimization](../../it-and-development/coding/python-performance-optimization.md) | Profile and optimize Python code for speed and memory efficiency. |
 | [Pytorch Lightning](../../it-and-development/coding/pytorch-lightning.md) | Organize PyTorch code into LightningModules and configure Trainers for scalable neural network training. |
 | [Qiskit](../../it-and-development/coding/qiskit.md) | Build, optimize, and run quantum circuits on simulators or IBM Quantum hardware. |
+| [Reproducibility Bundle Builder](reproducibility-bundle-builder.md) | Builds and tests a reproduction bundle for a published analysis, stating any steps that cannot be reproduced. |
+| [Research Figure Reproduction Checker](research-figure-reproduction-checker.md) | Rebuilds a figure from its script and fixture, then verifies its values, labels and units match. |
 | [Reverse Engineering](../../it-and-development/coding/reverse-engineering.md) | Reverse-engineer binaries with GDB, Frida, angr, Unicorn, Qiling, and anti-analysis countermeasures. |
 | [Run Deep Swe](../../it-and-development/coding/run-deep-swe.md) | Run reproducible DeepSWE coding-agent benchmarks via OpenRouter and mini-swe-agent. |
 | [Senior Ml Engineer](../../it-and-development/coding/senior-ml-engineer.md) | Productionize ML models and build scalable MLOps systems. |

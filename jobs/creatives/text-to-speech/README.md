@@ -1,14 +1,17 @@
 # Text-To-Speech templates for Creatives
 
-Turn scripts into voiceovers and audio. 4 Grok Bot templates.
+Turn scripts into voiceovers and audio. 7 Grok Bot templates.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Audiobook Pronunciation List Builder](audiobook-pronunciation-list-builder.md) | Builds a confirmed pronunciation list from your script and catches mispronounced names before delivery. |
+| [Audiobook Pronunciation Prep Guide](audiobook-pronunciation-prep-guide.md) | Builds a chapter-grouped pronunciation and character guide from your manuscript before recording starts. |
 | [Fal Audio](fal-audio.md) | Convert text to speech and transcribe audio using fal.ai models. |
 | [OpenRouter TTS](openrouter-tts.md) | Convert text to MP3 voiceovers using OpenRouter, defaulting to Kokoro or switching to Grok Voice on request. |
 | [Podcast Generation](podcast-generation.md) | Generate spoken audio from text using Azure OpenAI Realtime API. No editing or mixing. |
 | [Speech](speech.md) | Generate spoken audio from text for narration, voiceovers, prompts, or accessibility reads. |
+| [Voiceover Pickup Session](voiceover-pickup-session.md) | Collects every pickup request, builds the session script, checks each new take against the original. |
 
 [← All Creatives templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/creatives)

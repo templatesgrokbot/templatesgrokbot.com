@@ -1,17 +1,20 @@
 # Data Analysis templates for Sales
 
-Clean, query, chart and explain data. 97 Grok Bot templates, 73 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 115 Grok Bot templates, 91 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Annual Plan Reconciliation](annual-plan-reconciliation.md) | Compares top-down targets with bottom-up forecasts, finds gaps, and tests options until the plan closes. |
 | [Apify Competitor Intelligence](../../marketing/data-analysis/apify-competitor-intelligence.md) | Extract competitor data from Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok. |
 | [Apify Lead Generation](apify-lead-generation.md) | Scrape leads from Google Maps, Instagram, TikTok, Facebook, YouTube, and Google Search via Apify Actors. |
 | [BDM Sales Forecast Strategist](bdm-sales-forecast-strategist.md) | Turns sales data into forecasts, targets, and strategies for Business Development Managers. |
 | [Bettoredge Value Finder](../../finance/data-analysis/bettoredge-value-finder.md) | Finds +EV betting opportunities on BettorEdge prediction markets using Kelly criterion and bankroll limits. |
+| [Board Sales Section Preparer](board-sales-section-preparer.md) | Builds the sales board section with numbers that match finance and every difference explained. |
 | [Buywhere Product Catalog](buywhere-product-catalog.md) | Guide AI agents through BuyWhere product search, price comparison, and deal discovery setup. |
 | [Champion Identifier](champion-identifier.md) | Identify the internal champion most likely to advocate for your solution at a target account. |
+| [Channel Sales Reconciliation](channel-sales-reconciliation.md) | Matches reseller reports to your orders and explains every difference before rebates are paid. |
 | [Churn Radar](churn-radar.md) | Watches account health signals and tells you which customers to call this week. |
 | [Client Feedback Insight Engine](client-feedback-insight-engine.md) | Turns client feedback into categorized, sentiment-scored insights with trend, churn, and competitive analysis for sales VPs. |
 | [Client Health Dashboard](../../customer-support/data-analysis/client-health-dashboard.md) | Generates a prioritized client health report with RAG status and recommended actions. |
@@ -48,8 +51,13 @@ Clean, query, chart and explain data. 97 Grok Bot templates, 73 of them filed in
 | [Global Sales Insight Drafts](global-sales-insight-drafts.md) | Turns sales data into forecasts, segment insights, and performance reports for global sales leadership. |
 | [Google Ads Performance Analyzer](../../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 | [Inventory and Stock Analysis Assistant](inventory-and-stock-analysis-assistant.md) | Turns inventory and stock data into forecasts, reorder plans, and performance reports for sales managers. |
+| [Job Search Funnel Review](job-search-funnel-review.md) | Reads your application log and recommends one data-backed change for next week's search. |
+| [Joint Business Plan Tracker](joint-business-plan-tracker.md) | Tracks each quarter's joint plan goals against live data, explains misses and follows agreed actions. |
+| [Key Account Health Review](key-account-health-review.md) | Scores top-account risk signals monthly and verifies that actions bring them back. |
 | [KPI Performance Analyst](kpi-performance-analyst.md) | Analyzes performance metrics and KPIs for business development managers, turning data into insights and reports. |
 | [Lead Scoring Strategist](lead-scoring-strategist.md) | Builds and refines lead scoring models, segments leads, and tracks performance for sales managers. |
+| [Lead Source Attribution Cleanup](lead-source-attribution-cleanup.md) | Fixes meeting source tags to match the first or most influential touch under your attribution rule. |
+| [Lead Source Quality Review](lead-source-quality-review.md) | Ranks lead sources by revenue per dollar and recommends where to grow, fix, or cut budget. |
 | [Licensing and Royalty Manager](../../legal/data-analysis/licensing-and-royalty-manager.md) | Manages patent licensing and royalty workflows for patent agents. |
 | [Market Research Sales Forecaster](../../science-and-research/data-analysis/market-research-sales-forecaster.md) | Turns sales data into forecasts and reports for market research analysts. |
 | [Market Trend Analyst for Technical Sales](market-trend-analyst-for-technical-sales.md) | Analyzes market trends, competitors, and customer sentiment to guide technical sales strategy. |
@@ -57,22 +65,30 @@ Clean, query, chart and explain data. 97 Grok Bot templates, 73 of them filed in
 | [Marketing Analytics and Reporting Assistant](marketing-analytics-and-reporting-assistant.md) | Turns your marketing data into clear reports, forecasts, and spend recommendations. |
 | [Marketing Data Analyst](marketing-data-analyst.md) | Turns marketing data into insights, reports, and dashboards for digital marketing managers. |
 | [Marketing Feedback Analyzer](marketing-feedback-analyzer.md) | Turns customer feedback into actionable insights for marketing strategies. |
+| [Partner Lead Distribution Review](partner-lead-distribution-review.md) | Reviews how leads were routed to partners, simulates fairer rules on past leads, and rechecks results after an approved change. |
+| [Partner Quarterly Review Assistant](partner-quarterly-review-assistant.md) | Pulls partner data each quarter, reconciles it, and drafts reviews with tracked actions for approval. |
 | [Pharma Feedback Collector](pharma-feedback-collector.md) | Collects, analyzes, and reports product feedback from healthcare professionals and patients. |
 | [Pharma Market Insight Assistant](pharma-market-insight-assistant.md) | Turns market data into actionable insights for pharmaceutical sales strategy. |
 | [Pharma Sales Forecasting Assistant](pharma-sales-forecasting-assistant.md) | Turns sales data into forecasts and plans for pharmaceutical sales reps. |
 | [Pipeline Forecast Compass](pipeline-forecast-compass.md) | Analyzes sales data and market signals to produce accurate, actionable sales forecasts. |
 | [Pipeline Forecast Navigator](../../executives-and-strategy/data-analysis/pipeline-forecast-navigator.md) | Turns sales data into forecasts, scenarios, and reports for business development decisions. |
 | [Pipeline Health Analyzer](pipeline-health-analyzer.md) | Analyze pipeline health, flag stalled deals, forecast closes, and prescribe next actions. |
+| [Prescriber Trend Weekly Review](prescriber-trend-weekly-review.md) | Flags the prescriber changes that matter each week and drafts call objectives for your approval. |
+| [Price Change Impact Modeler](price-change-impact-modeler.md) | Models a proposed price change across renewals and pipeline, then drafts the rollout plan for your approval. |
 | [Pricing Data Optimizer](pricing-data-optimizer.md) | Analyzes pricing data to optimize strategies for profitability and competitiveness. |
 | [Product Performance Insights Assistant](product-performance-insights-assistant.md) | Analyzes product performance data and delivers actionable sales insights for global heads of sales. |
 | [Product Performance Review Assistant](product-performance-review-assistant.md) | Analyzes product performance data and delivers actionable insights for CSOs. |
 | [Quarterly Sales Forecaster](quarterly-sales-forecaster.md) | Turns your sales data into forecasts, targets, and scenario plans for the quarter ahead. |
+| [Regional Review Pack Prep](regional-review-pack-prep.md) | Prepares a checked regional review pack with clear drivers for every miss. |
+| [Renewal Technical Health Check](renewal-technical-health-check.md) | Finds and fixes technical renewal risks early so customers see value before the contract date. |
+| [Rep Attrition Risk Watch](rep-attrition-risk-watch.md) | Flags rep attrition risk patterns, drafts a conversation plan, and tracks the outcome. |
 | [Rep Performance Scorecard](rep-performance-scorecard.md) | Builds multi-dimensional rep performance scorecards with coaching priorities and peer benchmarks. |
 | [Retail Sales Trend Analyst](../../management/data-analysis/retail-sales-trend-analyst.md) | Turns retail sales data into trend insights, forecasts, and strategy recommendations. |
 | [Revenue Pricing Advisor](revenue-pricing-advisor.md) | Analyzes pricing data and builds strategies to maximize revenue and competitive advantage. |
 | [Revenue Pricing Strategist](revenue-pricing-strategist.md) | Develops and optimizes pricing strategies from market data to revenue forecasts. |
 | [Sales Campaign Effectiveness Analyst](sales-campaign-effectiveness-analyst.md) | Analyzes sales datarolling across campaigns to surface what works and where to improve. |
 | [Sales Channel Optimization Analyst](sales-channel-optimization-analyst.md) | Optimizes sales channels with data-driven insights and strategic recommendations. |
+| [Sales Dashboard Consolidator](sales-dashboard-consolidator.md) | Consolidates sales metrics into territory, rep, and pipeline dashboard reports from your latest data. |
 | [Sales Data Coach](sales-data-coach.md) | Turns your sales data into performance insights, forecasts, and coaching for your team. |
 | [Sales Data Extraction](sales-data-extraction.md) | Watches your sales spreadsheets and extracts MTD, YTD and year-end metrics into a clean report. |
 | [Sales Data Insight Engine](sales-data-insight-engine.md) | Turns your sales data into forecasts, segments, and dashboards for smarter decisions. |
@@ -95,7 +111,9 @@ Clean, query, chart and explain data. 97 Grok Bot templates, 73 of them filed in
 | [Sales Strategy Trend Advisor](sales-strategy-trend-advisor.md) | Turns market data into trend insights, forecasts, and sales strategy recommendations. |
 | [Sales Strategy Trend Analyst](sales-strategy-trend-analyst.md) | Turns market data into trend insights, forecasts, and sales strategy recommendations. |
 | [Sales Team Performance Analyst](sales-team-performance-analyst.md) | Analyze sales team performance and drive strategy with data-backed insights and recommendations. |
+| [Sales Tool Adoption Review](sales-tool-adoption-review.md) | Reviews sales tool usage against licenses each month and drafts keep, reduce or cancel recommendations for your approval. |
 | [Sales Trend Forecaster](sales-trend-forecaster.md) | Turns market data into trend insights and forecasts for sales reps. |
+| [Sample Inventory Reconciliation](sample-inventory-reconciliation.md) | Reconciles drug sample records by lot each month and flags every gap before you submit. |
 | [Supplier Market Trend Tracker](../../management/data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
 | [Territory Sales Analyzer](territory-sales-analyzer.md) | Analyzes territory sales data to uncover insights and recommend strategies for CSOs. |
 | [Trading Risk Manager](../../finance/data-analysis/trading-risk-manager.md) | Calculates position sizes, R-multiples, and hedging strategies for retail traders using confirmed inputs. |

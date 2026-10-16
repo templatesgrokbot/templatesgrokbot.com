@@ -1,11 +1,12 @@
 # Marketing & Growth templates for Creatives
 
-Campaigns, ads, conversion and launch plans. 26 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 29 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Ad Copy Variant Compliance](../../marketing/marketing-and-growth/ad-copy-variant-compliance.md) | Drafts platform-ready ad variants from an approved core message and checks every one against limits, banned words, claims and disclaimers. |
 | [Ad Creative](../../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
 | [Audience Engagement Strategist](audience-engagement-strategist.md) | Turns audience data into engagement strategies and interactive video content for video editors. |
 | [Brand Review](../../marketing/marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
@@ -14,10 +15,12 @@ Campaigns, ads, conversion and launch plans. 26 Grok Bot templates, 7 of them fi
 | [Content Repurposing Planner](../../marketing/marketing-and-growth/content-repurposing-planner.md) | Repurpose existing content into fresh formats across platforms, from research to distribution. |
 | [Conversion Rate Optimization Assistant](../../product-development/marketing-and-growth/conversion-rate-optimization-assistant.md) | Analyzes user data and optimizes UX to lift conversion rates. |
 | [Domain Name Brainstormer](../../marketing/marketing-and-growth/domain-name-brainstormer.md) | Generates creative domain name ideas for your project and checks availability across multiple TLDs. |
+| [Email Campaign Copy QA](../../marketing/marketing-and-growth/email-campaign-copy-qa.md) | Renders your email for every segment, fixes technical errors, and flags wording issues before you approve it. |
 | [Emotional Arc Designer](../../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
 | [Identity Mirror](../../marketing/marketing-and-growth/identity-mirror.md) | Mirror audience identity to make brand messages feel personally resonant. |
 | [Keyword Extractor](../../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
 | [Marketing Content Ideation Assistant](../../executives-and-strategy/marketing-and-growth/marketing-content-ideation-assistant.md) | Generates and refines content ideas, outlines, and scripts for marketing campaigns. |
+| [Paid Ad Copy Generator](../../marketing/marketing-and-growth/paid-ad-copy-generator.md) | Writes platform-ready ad variants across distinct angles for paid campaigns. |
 | [Photography Business Strategy Planner](photography-business-strategy-planner.md) | Turns your photography business data into market strategy, pricing, and growth plans. |
 | [Playlist Placement Strategist](playlist-placement-strategist.md) | Playlist placement strategist for vocal artists and singer-songwriters seeking curator attention and streaming growth. |
 | [Popup Cro](../../marketing/marketing-and-growth/popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |

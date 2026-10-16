@@ -1,6 +1,6 @@
 # Writing & Content templates for Sales
 
-Plan, write and edit articles, copy and documentation. 18 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 19 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Plan, write and edit articles, copy and documentation. 18 Grok Bot templates, 14
 | [Cold Email](cold-email.md) | Write B2B cold emails and follow-up sequences that earn replies. |
 | [Cover Letter Generator](../../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Email Composer](../../operations/writing-and-content/email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
+| [Formulary Change Communicator](formulary-change-communicator.md) | Tells your offices about formulary changes in approved language, within a week. |
 | [Founder Pitch Deck Coach](../../executives-and-strategy/writing-and-content/founder-pitch-deck-coach.md) | Turns raw material or weak decks into a coherent investor pitch with slide plan and visual recommendations. |
 | [Freight Brokerage Training Developer](freight-brokerage-training-developer.md) | Builds and runs freight brokerage training programs from onboarding to ongoing development. |
 | [Linkedin Profile Optimizer](../../marketing/writing-and-content/linkedin-profile-optimizer.md) | Audits and rewrites LinkedIn profiles for recruiter visibility and authority. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **697 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **895 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,20 +11,20 @@ Scientists, analysts and academic researchers. **697 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 257 |
-| [Research](research/README.md) | 212 |
+| [Data Analysis](data-analysis/README.md) | 362 |
+| [Research](research/README.md) | 245 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 70 |
-| [Coding](coding/README.md) | 40 |
-| [Security & Compliance](security-and-compliance/README.md) | 37 |
-| [Writing & Content](writing-and-content/README.md) | 16 |
+| [Security & Compliance](security-and-compliance/README.md) | 50 |
+| [Coding](coding/README.md) | 42 |
+| [Productivity](productivity/README.md) | 41 |
+| [Writing & Content](writing-and-content/README.md) | 22 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 15 |
-| [Productivity](productivity/README.md) | 14 |
+| [Knowledge Management](knowledge-management/README.md) | 15 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
-| [Design](design/README.md) | 6 |
-| [Knowledge Management](knowledge-management/README.md) | 5 |
+| [Design](design/README.md) | 7 |
 | [Office Tools](office-tools/README.md) | 4 |
+| [Support & Community](support-and-community/README.md) | 3 |
 | [Self-Improvement](self-improvement/README.md) | 2 |
-| [Support & Community](support-and-community/README.md) | 2 |
 | [Generative Art](generative-art/README.md) | 1 |
 | [Generative Code](generative-code/README.md) | 1 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
@@ -45,7 +45,7 @@ Scientists, analysts and academic researchers. **697 ready-made Grok Bot templat
 | [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
 | [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 
-[All 257 Data Analysis templates →](data-analysis/README.md)
+[All 362 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
@@ -60,7 +60,7 @@ Scientists, analysts and academic researchers. **697 ready-made Grok Bot templat
 | [Falsify](research/falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
 | [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 
-[All 212 Research templates →](research/README.md)
+[All 245 Research templates →](research/README.md)
 
 ## Generative AI and LLM
 
@@ -77,21 +77,6 @@ Scientists, analysts and academic researchers. **697 ready-made Grok Bot templat
 
 [All 70 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
-## Coding
-
-| Template | What it does |
-|---|---|
-| [Distributed Training Pytorch Lightning](../it-and-development/coding/distributed-training-pytorch-lightning.md) | Converts PyTorch code into Lightning modules and trains them with automatic distributed scaling. |
-| [Binary Analysis Patterns](../it-and-development/coding/binary-analysis-patterns.md) | Analyze compiled binaries, assembly code, and reconstruct program logic. |
-| [Qiskit](../it-and-development/coding/qiskit.md) | Build, optimize, and run quantum circuits on simulators or IBM Quantum hardware. |
-| [Sql Pro](../it-and-development/coding/sql-pro.md) | Optimize SQL queries, design schemas, and tune performance for cloud-native and hybrid databases. |
-| [Claude D3.js](../it-and-development/coding/claude-d3js-skill.md) | Create custom interactive D3.js visualizations for any JavaScript environment. |
-| [Pennylane](../it-and-development/coding/pennylane.md) | Build and train quantum circuits with automatic differentiation across simulators and hardware. |
-| [Pylabrobot](../it-and-development/coding/pylabrobot.md) | Controls lab robots and equipment from Python scripts. |
-| [Pytorch Lightning](../it-and-development/coding/pytorch-lightning.md) | Organize PyTorch code into LightningModules and configure Trainers for scalable neural network training. |
-
-[All 40 Coding templates →](coding/README.md)
-
 ## Security & Compliance
 
 | Template | What it does |
@@ -105,7 +90,37 @@ Scientists, analysts and academic researchers. **697 ready-made Grok Bot templat
 | [Consultant Compliance Research](security-and-compliance/consultant-compliance-research.md) | Environmental compliance research, audits, permits, training, and reporting support for consultants. |
 | [Environmental Monitoring Manager](security-and-compliance/environmental-monitoring-manager.md) | Environmental monitoring assistant for laboratory managers, from data collection to compliance and audits. |
 
-[All 37 Security & Compliance templates →](security-and-compliance/README.md)
+[All 50 Security & Compliance templates →](security-and-compliance/README.md)
+
+## Coding
+
+| Template | What it does |
+|---|---|
+| [Distributed Training Pytorch Lightning](../it-and-development/coding/distributed-training-pytorch-lightning.md) | Converts PyTorch code into Lightning modules and trains them with automatic distributed scaling. |
+| [Binary Analysis Patterns](../it-and-development/coding/binary-analysis-patterns.md) | Analyze compiled binaries, assembly code, and reconstruct program logic. |
+| [Qiskit](../it-and-development/coding/qiskit.md) | Build, optimize, and run quantum circuits on simulators or IBM Quantum hardware. |
+| [Sql Pro](../it-and-development/coding/sql-pro.md) | Optimize SQL queries, design schemas, and tune performance for cloud-native and hybrid databases. |
+| [Claude D3.js](../it-and-development/coding/claude-d3js-skill.md) | Create custom interactive D3.js visualizations for any JavaScript environment. |
+| [Pennylane](../it-and-development/coding/pennylane.md) | Build and train quantum circuits with automatic differentiation across simulators and hardware. |
+| [Pylabrobot](../it-and-development/coding/pylabrobot.md) | Controls lab robots and equipment from Python scripts. |
+| [Pytorch Lightning](../it-and-development/coding/pytorch-lightning.md) | Organize PyTorch code into LightningModules and configure Trainers for scalable neural network training. |
+
+[All 42 Coding templates →](coding/README.md)
+
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Laboratory Equipment Maintenance Scheduler](productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
+| [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
+| [Lab Supply Chain Manager](productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |
+| [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Lab Stock Forecast Alerts](productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
+| [Geological Fieldwork Planner](productivity/geological-fieldwork-planner.md) | Plans geological fieldwork from site research to permits, logistics, and safety. |
+| [Process Development Time Optimizer](productivity/process-development-time-optimizer.md) | Plans and tracks a process development scientist's day to cut wasted time. |
+| [Experiment Planning Assistant](productivity/experiment-planning-assistant.md) | Plans experiments from literature to approval, with budget, risk, and team coordination. |
+
+[All 41 Productivity templates →](productivity/README.md)
 
 ## Writing & Content
 
@@ -120,7 +135,7 @@ Scientists, analysts and academic researchers. **697 ready-made Grok Bot templat
 | [Permit-Ready EIA Report Builder](writing-and-content/permit-ready-eia-report-builder.md) | Supports environmental consultants with impact assessments from data collection to permit-ready reports. |
 | [Grant Proposal Support Assistant](writing-and-content/grant-proposal-support-assistant.md) | Finds funding, drafts, budgets, reviews, and aligns grant proposals for research projects. |
 
-[All 16 Writing & Content templates →](writing-and-content/README.md)
+[All 22 Writing & Content templates →](writing-and-content/README.md)
 
 ## Cloud & DevOps
 
@@ -137,20 +152,20 @@ Scientists, analysts and academic researchers. **697 ready-made Grok Bot templat
 
 [All 15 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
-## Productivity
+## Knowledge Management
 
 | Template | What it does |
 |---|---|
-| [Laboratory Equipment Maintenance Scheduler](productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
-| [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
-| [Lab Supply Chain Manager](productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |
-| [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
-| [Lab Stock Forecast Alerts](productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
-| [Geological Fieldwork Planner](productivity/geological-fieldwork-planner.md) | Plans geological fieldwork from site research to permits, logistics, and safety. |
-| [Process Development Time Optimizer](productivity/process-development-time-optimizer.md) | Plans and tracks a process development scientist's day to cut wasted time. |
-| [Experiment Planning Assistant](productivity/experiment-planning-assistant.md) | Plans experiments from literature to approval, with budget, risk, and team coordination. |
+| [Compile Knowledge](../it-and-development/knowledge-management/compile-knowledge.md) | Compile durable, non-obvious findings into interlinked markdown knowledge files with an index. |
+| [Data Storage and Management Assistant](knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
+| [Laboratory SOP Manager](knowledge-management/laboratory-sop-manager.md) | Creates, reviews, and manages lab SOPs with version control and compliance checks. |
+| [Obsidian Second Brain Maintainer](knowledge-management/obsidian-second-brain-maintainer.md) | Ingests sources into a persistent Obsidian wiki, keeps entity and concept pages cross-referenced, and maintains a current synthesis. |
+| [Oral History Index Builder](knowledge-management/oral-history-index-builder.md) | Indexes interview transcripts with standardized names and flags passages that break consent terms. |
+| [Antibody Lot Validation Tracker](knowledge-management/antibody-lot-validation-tracker.md) | Keeps a validation record for every antibody lot and flags uses that are not validated. |
+| [Protocol Version Aligner](knowledge-management/protocol-version-aligner.md) | Keeps every working file citing the current approved protocol version, and routes procedure changes to the investigator. |
+| [Knowledge Network Steward](knowledge-management/knowledge-network-steward.md) | Turns your notes into an atomic, well-linked knowledge network and closes every task with a validation pass. |
 
-[All 14 Productivity templates →](productivity/README.md)
+[All 15 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Teaching & Tutoring
 
@@ -173,20 +188,11 @@ Scientists, analysts and academic researchers. **697 ready-made Grok Bot templat
 |---|---|
 | [Pptx Posters](../creatives/design/pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Scientific Slides](../education/design/scientific-slides.md) | Build slide decks and presentations for research talks. |
+| [Plate Layout Design Assistant](design/plate-layout-design-assistant.md) | Builds and checks a plate layout from your sample list and assay rules, ready for your approval. |
 | [Sustainable Design Advisor](design/sustainable-design-advisor.md) | Guides environmental engineers through eco-friendly design decisions and certifications. |
 | [Chemical Plant Design Assistant](design/chemical-plant-design-assistant.md) | Supports chemical engineers with plant design tasks from material selection to troubleshooting. |
 | [Green Infrastructure Planner](design/green-infrastructure-planner.md) | Plans green infrastructure projects from site analysis to community engagement. |
 | [Sustainable Building Design Assistant](design/sustainable-building-design-assistant.md) | Sustainable building design assistant for energy engineers, covering modeling, materials, and certifications. |
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Compile Knowledge](../it-and-development/knowledge-management/compile-knowledge.md) | Compile durable, non-obvious findings into interlinked markdown knowledge files with an index. |
-| [Data Storage and Management Assistant](knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
-| [Laboratory SOP Manager](knowledge-management/laboratory-sop-manager.md) | Creates, reviews, and manages lab SOPs with version control and compliance checks. |
-| [Knowledge Network Steward](knowledge-management/knowledge-network-steward.md) | Turns your notes into an atomic, well-linked knowledge network and closes every task with a validation pass. |
-| [PDF Document Analyst](../legal/knowledge-management/pdf-document-analyst.md) | Answers questions about your PDFs, summarizes them, and extracts specific data with page citations. |
 
 ## Office Tools
 
@@ -197,19 +203,20 @@ Scientists, analysts and academic researchers. **697 ready-made Grok Bot templat
 | [Swiss International Deck Builder](office-tools/swiss-international-deck-builder.md) | Turns your content into a strict Swiss International style HTML deck with locked layouts. |
 | [PDF Table Extractor](../finance/office-tools/pdf-table-extractor.md) | Extracts tables from PDFs into clean spreadsheets, checking accuracy and flagging anything doubtful. |
 
-## Self-Improvement
-
-| Template | What it does |
-|---|---|
-| [Anti Sycophancy](../it-and-development/self-improvement/anti-sycophancy.md) | Challenge user claims independently to reduce AI sycophancy. |
-| [Critical Thinking](../it-and-development/self-improvement/critical-thinking.md) | Challenge assumptions and probe reasoning to find the best solution. |
-
 ## Support & Community
 
 | Template | What it does |
 |---|---|
 | [Lab Equipment Troubleshooting Assistant](support-and-community/lab-equipment-troubleshooting-assistant.md) | Guides lab technicians through equipment troubleshooting, maintenance, and documentation. |
 | [Chemical Engineering Software Advisor](support-and-community/chemical-engineering-software-advisor.md) | Guides chemical engineers through software selection, troubleshooting, and optimization workflows. |
+| [Wildlife Mortality Event Response](support-and-community/wildlife-mortality-event-response.md) | Triages wildlife mortality reports, drafts sampling plans and notifications, and tracks cases to a result. |
+
+## Self-Improvement
+
+| Template | What it does |
+|---|---|
+| [Anti Sycophancy](../it-and-development/self-improvement/anti-sycophancy.md) | Challenge user claims independently to reduce AI sycophancy. |
+| [Critical Thinking](../it-and-development/self-improvement/critical-thinking.md) | Challenge assumptions and probe reasoning to find the best solution. |
 
 ## Generative Art
 
