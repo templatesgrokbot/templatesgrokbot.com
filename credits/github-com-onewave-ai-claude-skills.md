@@ -1,6 +1,6 @@
 # Credits: github.com/OneWave-AI/claude-skills
 
-117 TemplatesGrokBot templates are adapted from work published at [github.com/OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+118 TemplatesGrokBot templates are adapted from work published at [github.com/OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -43,6 +43,7 @@
 | [Financial Document Parser](../jobs/finance/data-analysis/financial-document-parser.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/financial-parser) | [MIT](../LICENSES/MIT.md) |
 | [Financial Goal Planner](../jobs/finance/self-improvement/financial-goal-planner.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/financial-goal-planner) | [MIT](../LICENSES/MIT.md) |
 | [Flashcard Generator](../jobs/education/teaching-and-tutoring/flashcard-generator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/flashcard-generator) | [MIT](../LICENSES/MIT.md) |
+| [Florida Water Planner](../jobs/hospitality-and-events/productivity/florida-water-planner.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/gillby-water) | [MIT](../LICENSES/MIT.md) |
 | [Font Pairing Suggester](../jobs/creatives/design/font-pairing-suggester.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/font-pairing-suggester) | [MIT](../LICENSES/MIT.md) |
 | [Game Recap Generator](../jobs/writers/writing-and-content/game-recap-generator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/game-recap-generator) | [MIT](../LICENSES/MIT.md) |
 | [Game Strategy Simulator](../jobs/executives-and-strategy/data-analysis/game-strategy-simulator.md) | [original](https://github.com/OneWave-AI/claude-skills/tree/main/game-strategy-simulator) | [MIT](../LICENSES/MIT.md) |

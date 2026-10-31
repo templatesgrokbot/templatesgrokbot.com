@@ -1,6 +1,6 @@
 # Grok Bot templates for Hospitality and Events
 
-Hotels, venues, travel and event teams. **311 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Hotels, venues, travel and event teams. **312 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Hotels, venues, travel and event teams. **311 ready-made Grok Bot templates** fo
 
 | Kind of work | Templates |
 |---|---:|
-| [Productivity](productivity/README.md) | 118 |
+| [Productivity](productivity/README.md) | 119 |
 | [Data Analysis](data-analysis/README.md) | 65 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 42 |
 | [Social Media](social-media/README.md) | 20 |
@@ -79,6 +79,7 @@ Hotels, venues, travel and event teams. **311 ready-made Grok Bot templates** fo
 | [Family Engagement Event Planner](productivity/family-engagement-event-planner.md) | Plans family events end to end, matching invitations, RSVPs, space, volunteers and materials to the headcount. |
 | [Fare Drop Rebooking Assistant](productivity/fare-drop-rebooking-assistant.md) | Finds price drops on sold trips and drafts rebooking plans for your approval. |
 | [Final Headcount Lock Assistant](productivity/final-headcount-lock-assistant.md) | Keeps catering orders, staffing and rentals matched to the final RSVP count without waste or shortages. |
+| [Florida Water Planner](productivity/florida-water-planner.md) | Plans Florida boating, fishing, paddling, surf and beach outings using live marine forecasts, tides and coastal tools. |
 | [Food Handler Certification Expiry Tracker](productivity/food-handler-certification-expiry-tracker.md) | Keeps every employee's food, allergen and alcohol certificates valid and filed before inspection. |
 | [Food Tour Dietary Matcher](productivity/food-tour-dietary-matcher.md) | Checks every guest's dietary needs against every tour stop and confirms a safe option before the tour. |
 | [Front Desk Daily Briefing](productivity/front-desk-daily-briefing.md) | Builds one accurate daily briefing for the receptionist and keeps it correct as the day changes. |

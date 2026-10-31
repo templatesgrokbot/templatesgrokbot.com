@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 447 Grok Bot templates, 432 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 458 Grok Bot templates, 443 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -56,6 +56,7 @@ Authorised security testing, audits and regulatory work. 447 Grok Bot templates,
 | [Azure Ai Contentsafety Ts](azure-ai-contentsafety-ts.md) | Analyze text and images for harmful content with customizable blocklists. |
 | [Azure Security Keyvault Keys Dotnet](azure-security-keyvault-keys-dotnet.md) | Manage Azure Key Vault keys: create, rotate, encrypt, decrypt, sign, and verify with .NET. |
 | [Backend Security Coder](backend-security-coder.md) | Secure backend coding expert for input validation, authentication, and API security. |
+| [BLE Security Assessor](ble-security-assessor.md) | Assesses Bluetooth Low Energy devices for pairing, authentication, and GATT vulnerabilities. |
 | [Broken Authentication](broken-authentication.md) | Guide systematic testing of authentication and session vulnerabilities. |
 | [Browser Extension Reverse](browser-extension-reverse.md) | Authorized reverse engineering of browser extensions for security research. |
 | [Brute Force Hunter](brute-force-hunter.md) | Hunts missing or weak rate limiting, brute force, and user enumeration in web apps. |
@@ -121,6 +122,7 @@ Authorised security testing, audits and regulatory work. 447 Grok Bot templates,
 | [Cybersecurity Trend Analyst](cybersecurity-trend-analyst.md) | Tracks cybersecurity trends and turns them into threat, risk, and policy guidance for your organization. |
 | [Data Access Request Reviewer](data-access-request-reviewer.md) | Reviews data access requests and quarterly grants, recommending approve, mask, or decline for the data owner. |
 | [Data Ethics and Privacy Assistant](data-ethics-and-privacy-assistant.md) | Guides data analysts in applying data ethics and privacy practices across their workflows. |
+| [Data Exfiltration Planner](data-exfiltration-planner.md) | Plans and guides authorized data exfiltration during red team engagements. |
 | [Data Flow Privacy Review](data-flow-privacy-review.md) | Maps a new feature's personal data flows and checks them against privacy rules before launch. |
 | [Data Governance Assistant](data-governance-assistant.md) | Data governance assistant that classifies, monitors, and audits data assets for compliance and quality. |
 | [Data Management Governance Assistant](data-management-governance-assistant.md) | Aides VPs of IT in data management tasks from classification to compliance. |
@@ -135,6 +137,7 @@ Authorised security testing, audits and regulatory work. 447 Grok Bot templates,
 | [Database Security](database-security.md) | Authorized database security assessment for PostgreSQL, MySQL, MSSQL, MongoDB, and Redis. |
 | [Database Security Assistant](database-security-assistant.md) | Guides database administrators through security measures, from access control to incident response. |
 | [DeFi Security Auditor](defi-security-auditor.md) | Smart contract security audit bot for DeFi bug hunting and target scoring. |
+| [Dependency Confusion Tester](dependency-confusion-tester.md) | Discover and safely demonstrate dependency confusion attacks across package ecosystems. |
 | [Dependency Vulnerability Scanner](dependency-vulnerability-scanner.md) | Scans your project dependencies for known vulnerabilities and reports what needs fixing. |
 | [Deserialization Vulnerability Hunter](deserialization-vulnerability-hunter.md) | Hunt for insecure deserialization vulnerabilities across Java, PHP, Python, .NET, Ruby, and JNDI. |
 | [Device Fleet Manager](device-fleet-manager.md) | Plans, documents and tracks MDM enrollment, hardening and compliance for company devices. |
@@ -158,6 +161,7 @@ Authorised security testing, audits and regulatory work. 447 Grok Bot templates,
 | [Exception Leak Hunter](exception-leak-hunter.md) | Hunt verbose error leaks and fail-open behavior in input-accepting endpoints. |
 | [Exploit Development Guide](exploit-development-guide.md) | Guides exploit development from bug identification to reliable weaponization. |
 | [External Attack Surface Recon](external-attack-surface-recon.md) | Maps an authorized organization's external attack surface and reports findings with graded confidence. |
+| [Fast Security Assessor](fast-security-assessor.md) | Runs a speed-optimized offensive security checklist for time-boxed assessments and CTF engagements. |
 | [Fda Consultant Specialist](fda-consultant-specialist.md) | Provides FDA regulatory pathway, QSR compliance, HIPAA, and cybersecurity guidance for medical device companies. |
 | [Fda Medtech Compliance Auditor](../../legal/security-and-compliance/fda-medtech-compliance-auditor.md) | Audit medical device software compliance against FDA and ISO standards. |
 | [FedRAMP Compliance Tracker](fedramp-compliance-tracker.md) | Tracks FedRAMP control implementation, POA&M milestones, and continuous monitoring evidence for a federal cloud service. |
@@ -181,6 +185,7 @@ Authorised security testing, audits and regulatory work. 447 Grok Bot templates,
 | [Gha Security Review](gha-security-review.md) | Find exploitable vulnerabilities in GitHub Actions workflows with concrete attack paths. |
 | [Google Cloud Waf Security](google-cloud-waf-security.md) | Evaluates Google Cloud workloads against the Well-Architected Framework security pillar and gives actionable recommendations. |
 | [Graphql Security Specialist](graphql-security-specialist.md) | Audits GraphQL APIs for vulnerabilities and implements authorization, query validation, and attack protection. |
+| [GraphQL Security Tester](graphql-security-tester.md) | Guides penetration tests of GraphQL APIs through discovery, schema extraction, and exploitation. |
 | [gRPC Security Auditor](grpc-security-auditor.md) | Hunt gRPC vulnerabilities: reflection, auth bypass, plaintext, DoS. |
 | [Hardening Benchmark Drift Fixer](hardening-benchmark-drift-fixer.md) | Scans systems against a security benchmark, groups new failures by cause, and drafts fixes for approval. |
 | [Hardware Security](hardware-security.md) | Authorized hardware security research: UART/JTAG discovery, debug-pad triage, and offline firmware analysis. Authorized use only. |
@@ -220,6 +225,7 @@ Authorised security testing, audits and regulatory work. 447 Grok Bot templates,
 | [Keylogger Architecture Analyst](keylogger-architecture-analyst.md) | Analyzes keylogger architecture and detection indicators for defensive research. |
 | [Kubernetes Attack Simulator](kubernetes-attack-simulator.md) | Assess Kubernetes cluster security by simulating attacks from a compromised pod. |
 | [Kubernetes Security Hunter](kubernetes-security-hunter.md) | Hunt Kubernetes and Docker misconfigurations for RCE and credential disclosure. |
+| [Lateral Movement Operator](lateral-movement-operator.md) | Executes authorized lateral movement across Windows networks using harvested credentials and protocol abuse. |
 | [LDAP Injection Hunter](ldap-injection-hunter.md) | Hunt LDAP and XPath injection vulnerabilities in web applications. |
 | [Leaked Credential Response](leaked-credential-response.md) | Matches leaked credentials to accounts, drafts resets, and verifies sessions are closed. |
 | [License Compliance Auditor](license-compliance-auditor.md) | Manages software licenses from inventory to compliance, renewals, and cost optimization. |
@@ -279,6 +285,7 @@ Authorised security testing, audits and regulatory work. 447 Grok Bot templates,
 | [Pentest Tools](pentest-tools.md) | Orchestrate 20+ penetration-testing tools through structured, authorized workflows. |
 | [Permission Manager](permission-manager.md) | Audit and configure opencode command and capability permissions safely. |
 | [Permission Set Sprawl Cleanup](permission-set-sprawl-cleanup.md) | Finds unused and overlapping Salesforce permission sets and proposes safe consolidation. |
+| [Persistence Planner](persistence-planner.md) | Plant and manage persistence mechanisms on Windows and Linux for authorized red team engagements. |
 | [Phishing Exercise Coordinator](phishing-exercise-coordinator.md) | Plans authorized phishing awareness exercises, checks them against your rules, and reports learning, not blame. |
 | [Phishing Report Triage](phishing-report-triage.md) | Classifies reported emails, finds malicious copies, and drafts containment for your approval. |
 | [Pipeline Exploitation Auditor](pipeline-exploitation-auditor.md) | Exploit CI/CD pipeline misconfigurations across GitHub Actions, Jenkins, GitLab CI, and Azure DevOps. |
@@ -385,6 +392,7 @@ Authorised security testing, audits and regulatory work. 447 Grok Bot templates,
 | [SOC 2 Evidence Tracker](soc-2-evidence-tracker.md) | Maps your controls to SOC 2 criteria, collects dated evidence, and tracks what is still missing. |
 | [SOC 2 Type II Readiness](soc-2-type-ii-readiness.md) | Pressure-tests your SOC 2 Type II readiness with six observation-period questions and a verdict. |
 | [Social Engineering Defense Planner](social-engineering-defense-planner.md) | Builds and runs social engineering defenses for cybersecurity analysts. |
+| [Social Engineering Red Team](social-engineering-red-team.md) | Plan and execute authorized social engineering engagements across voice, text, and physical vectors. |
 | [Software License Compliance Assistant](software-license-compliance-assistant.md) | Tracks, audits, and optimizes software licenses for compliance and cost savings. |
 | [Software License Inventory](software-license-inventory.md) | Builds a version-accurate licence inventory for every package in a release, and flags what needs review. |
 | [Software License Manager](software-license-manager.md) | Manages software licenses end-to-end: inventory, compliance, renewals, costs, and audits. |
@@ -397,11 +405,13 @@ Authorised security testing, audits and regulatory work. 447 Grok Bot templates,
 | [Src Hunter](src-hunter.md) | Five-phase bug-bounty hunting workflow with 19 attack playbooks and 305 structured payloads. |
 | [Ssh Penetration Testing](ssh-penetration-testing.md) | Audit SSH services for weak configs, credentials, and tunneling risks with step-by-step guidance. |
 | [SSRF Hunter](ssrf-hunter.md) | Hunts and confirms SSRF vulnerabilities on authorized targets with OOB validation. |
+| [SSRF Vulnerability Scanner](ssrf-vulnerability-scanner.md) | Finds and confirms Server-Side Request Forgery in web apps, with bypass and escalation steps. |
 | [SSTI Hunter](ssti-hunter.md) | Hunt server-side template injection and escalate to command execution across web apps. |
 | [Stackhawk Security Onboarding](stackhawk-security-onboarding.md) | Automatically set up StackHawk security testing for a repository with generated configuration and GitHub Actions workflow. |
 | [Stale Account Cleanup](stale-account-cleanup.md) | Finds unused accounts each month, checks dependencies, and proposes safe disables for your approval. |
 | [Stride Analysis Patterns](stride-analysis-patterns.md) | Systematic threat identification using STRIDE methodology for security analysis. |
 | [Subdomain Takeover Hunter](subdomain-takeover-hunter.md) | Hunt and verify subdomain takeover vulnerabilities with provider fingerprints. |
+| [Supply Chain Attack Simulator](supply-chain-attack-simulator.md) | Simulates software supply chain attacks for authorized red team engagements. |
 | [Supply Chain Guard](supply-chain-guard.md) | Scan project dependencies for known supply chain attacks and guide remediation. |
 | [Supply Chain Recon](supply-chain-recon.md) | Maps a target's public supply-chain attack surface for authorized recon. |
 | [Supply Chain Risk Auditor](supply-chain-risk-auditor.md) | Audits project dependencies for supply chain risk factors. |
@@ -432,6 +442,7 @@ Authorised security testing, audits and regulatory work. 447 Grok Bot templates,
 | [Vulnerability Management Assistant](vulnerability-management-assistant.md) | Vulnerability management assistant for cybersecurity analysts covering scan to report. |
 | [Vulnerability Remediation Tracker](vulnerability-remediation-tracker.md) | Turns scan findings into owned, deadline-tracked tickets and verifies fixes by rescan. |
 | [Vulnerability Scanner](vulnerability-scanner.md) | Scans codebases for vulnerabilities using OWASP 2025 and supply chain risk analysis with prioritized fixes. |
+| [WAF Bypass Assistant](waf-bypass-assistant.md) | Bypass WAF blocks during web app security tests using a structured evasion checklist. |
 | [Web Accessibility Compliance Assistant](web-accessibility-compliance-assistant.md) | Accessibility audits and fixes for web developers, from alt text to WCAG compliance. |
 | [Web Application Firewall Setup](web-application-firewall-setup.md) | Deploys and tunes web application firewalls to block OWASP Top 10 attacks without breaking legitimate traffic. |
 | [Web Security Guidance Assistant](web-security-guidance-assistant.md) | Guides web developers through secure coding, deployment, and compliance practices. |

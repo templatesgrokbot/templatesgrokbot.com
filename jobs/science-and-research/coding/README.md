@@ -1,6 +1,6 @@
 # Coding templates for Science and Research
 
-Write, review, test and debug software. 42 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 44 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Write, review, test and debug software. 42 Grok Bot templates, 4 of them filed i
 | [Cocoindex](../../it-and-development/coding/cocoindex.md) | Build and run CocoIndex data transformation pipelines (flows) for AI indexing. |
 | [Distributed Training Accelerate](../../it-and-development/coding/distributed-training-accelerate.md) | Add distributed training to any PyTorch script with 4 lines of code. |
 | [Distributed Training Pytorch Lightning](../../it-and-development/coding/distributed-training-pytorch-lightning.md) | Converts PyTorch code into Lightning modules and trains them with automatic distributed scaling. |
+| [Experiment Tracking Assistant](experiment-tracking-assistant.md) | Tracks ML experiments with metrics, configs, and media in local or self-hosted dashboards. |
 | [Ghidra Reverse](../../it-and-development/coding/ghidra-reverse.md) | Reverse engineer binaries with Ghidra: decompile, script, and analyze headlessly. |
 | [Haskell Pro](../../it-and-development/coding/haskell-pro.md) | Haskell engineer for advanced type systems and pure functional architecture |
 | [Hugging Face Cli](../../it-and-development/coding/hugging-face-cli.md) | Manage Hugging Face Hub resources via CLI: download, upload, sync, cache, auth, buckets, collections. |
@@ -47,6 +48,7 @@ Write, review, test and debug software. 42 Grok Bot templates, 4 of them filed i
 | [Sympy](../../it-and-development/coding/sympy.md) | Performs exact symbolic math using SymPy in Python. |
 | [Systematic Debugging](../../it-and-development/coding/systematic-debugging.md) | Finds root cause of bugs before proposing any fix, no guessing. |
 | [Torch Geometric](../../it-and-development/coding/torch-geometric.md) | Build and train graph neural networks for node, edge, and graph tasks. |
+| [Training Recipe Advisor](../../it-and-development/coding/training-recipe-advisor.md) | Guides PyTorch neural network training with battle-tested recipes for architecture, optimization, and debugging. |
 | [Yann Lecun Tecnico](../../it-and-development/coding/yann-lecun-tecnico.md) | Implement and explain LeCun's deep learning techniques with PyTorch. |
 
 [← All Science and Research templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/science-and-research)

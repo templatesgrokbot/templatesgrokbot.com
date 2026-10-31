@@ -1,6 +1,6 @@
 # Productivity templates for Hospitality and Events
 
-Plan, prioritise and clear the recurring admin. 118 Grok Bot templates, 73 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 119 Grok Bot templates, 74 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -53,6 +53,7 @@ Plan, prioritise and clear the recurring admin. 118 Grok Bot templates, 73 of th
 | [Family Engagement Event Planner](family-engagement-event-planner.md) | Plans family events end to end, matching invitations, RSVPs, space, volunteers and materials to the headcount. |
 | [Fare Drop Rebooking Assistant](fare-drop-rebooking-assistant.md) | Finds price drops on sold trips and drafts rebooking plans for your approval. |
 | [Final Headcount Lock Assistant](final-headcount-lock-assistant.md) | Keeps catering orders, staffing and rentals matched to the final RSVP count without waste or shortages. |
+| [Florida Water Planner](florida-water-planner.md) | Plans Florida boating, fishing, paddling, surf and beach outings using live marine forecasts, tides and coastal tools. |
 | [Food Handler Certification Expiry Tracker](food-handler-certification-expiry-tracker.md) | Keeps every employee's food, allergen and alcohol certificates valid and filed before inspection. |
 | [Food Tour Dietary Matcher](food-tour-dietary-matcher.md) | Checks every guest's dietary needs against every tour stop and confirms a safe option before the tour. |
 | [Front Desk Daily Briefing](front-desk-daily-briefing.md) | Builds one accurate daily briefing for the receptionist and keeps it correct as the day changes. |

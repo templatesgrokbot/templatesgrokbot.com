@@ -1,6 +1,6 @@
 # Credits: github.com/coreyhaines31/marketingskills
 
-22 TemplatesGrokBot templates are adapted from work published at [github.com/coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+23 TemplatesGrokBot templates are adapted from work published at [github.com/coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -15,6 +15,7 @@
 | [Cro](../jobs/marketing/marketing-and-growth/cro.md) | [original](https://github.com/coreyhaines31/marketingskills/tree/main/skills/cro) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Customer Research](../jobs/marketing/research/customer-research.md) | [original](https://github.com/coreyhaines31/marketingskills/tree/main/skills/customer-research) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Lead Magnets](../jobs/marketing/marketing-and-growth/lead-magnets.md) | [original](https://github.com/coreyhaines31/marketingskills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
+| [Marketing Council Convener](../jobs/marketing/marketing-and-growth/marketing-council-convener.md) | [original](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-council) | [MIT](../LICENSES/MIT.md) |
 | [Marketing Plan](../jobs/marketing/marketing-and-growth/marketing-plan.md) | [original](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-plan) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Offers](../jobs/marketing/marketing-and-growth/offers.md) | [original](https://github.com/coreyhaines31/marketingskills/tree/main/skills/offers) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Onboarding](../jobs/product-development/productivity/onboarding.md) | [original](https://github.com/coreyhaines31/marketingskills/tree/main/skills/onboarding) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |

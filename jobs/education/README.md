@@ -37,13 +37,13 @@ Teachers, trainers and students. **456 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Microsoft Study Mode](teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
-| [Lightning Factory Explainer](teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
 | [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
+| [Lightning Factory Explainer](teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
+| [Environmental Education Content Creator](../science-and-research/teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
 | [Question Generation Assistant](teaching-and-tutoring/question-generation-assistant.md) | Generates diverse questions for quizzes, exams, and classroom activities. |
 | [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Warren Buffett](teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
 | [Digital Teaching Tools Assistant](teaching-and-tutoring/digital-teaching-tools-assistant.md) | Helps primary teachers plan, run, and assess digital lessons with tools and resources. |
-| [Environmental Education Content Creator](../science-and-research/teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
 
 [All 172 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
@@ -57,8 +57,8 @@ Teachers, trainers and students. **456 ready-made Grok Bot templates** for this 
 | [Course Scheduling Assistant](productivity/course-scheduling-assistant.md) | Automates course scheduling, recommendations, and updates for teaching assistants. |
 | [Daily Elementary Classroom Manager](productivity/daily-elementary-classroom-manager.md) | Manages daily classroom routines, behavior, and parent communication for elementary teachers. |
 | [School Facility Coordinator](productivity/school-facility-coordinator.md) | Central hub for school facility management, from maintenance to emergency prep. |
+| [Instructor Lifecycle Manager](productivity/instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
 | [School Event Planning Assistant](productivity/school-event-planning-assistant.md) | Plans and coordinates school events from venue to follow-up. |
-| [Training Budget Optimizer](productivity/training-budget-optimizer.md) | Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators. |
 
 [All 93 Productivity templates →](productivity/README.md)
 
@@ -87,8 +87,8 @@ Teachers, trainers and students. **456 ready-made Grok Bot templates** for this 
 | [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
 | [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
 | [Parent Communication Drafter](writing-and-content/parent-communication-drafter.md) | Drafts all parent communication for elementary teachers, from welcome letters to end-of-year reflections. |
+| [Training Content Development Assistant](../human-resources/writing-and-content/training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
 | [Training Material Creator](../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
-| [Cover Letter Generator](../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 
 [All 39 Writing & Content templates →](writing-and-content/README.md)
 
@@ -159,8 +159,8 @@ Teachers, trainers and students. **456 ready-made Grok Bot templates** for this 
 | [Interview Coach](../human-resources/self-improvement/interview-coach.md) | Full job search coaching: JD decoding, mock interviews, transcript analysis, and comp negotiation. |
 | [Sleep Coach](../healthcare/self-improvement/sleep-coach.md) | Correlates what you did each day with how you slept and names the one habit to change. |
 | [Satori](self-improvement/satori.md) | A structured thinking partner blending psychology and philosophy for inner exploration. |
-| [Workout Program Designer](self-improvement/workout-program-designer.md) | Designs personalized workout plans by goal, with progressive overload and rest-day optimization. |
 | [Career Changer Translator](../human-resources/self-improvement/career-changer-translator.md) | Translates skills from one industry to another for career pivots. |
+| [Workout Program Designer](self-improvement/workout-program-designer.md) | Designs personalized workout plans by goal, with progressive overload and rest-day optimization. |
 | [Cohort Progress Coach Assistant](self-improvement/cohort-progress-coach-assistant.md) | Tracks each group member's pace and drafts the right check-in before anyone falls too far behind. |
 | [Plateau Investigation Assistant](../healthcare/self-improvement/plateau-investigation-assistant.md) | Finds the most likely cause of a client's progress plateau and proposes one change at a time. |
 | [Vocal Practice Progress Tracker](self-improvement/vocal-practice-progress-tracker.md) | Measures each practice take, tracks progress against your goals, and writes a weekly note for your coach. |

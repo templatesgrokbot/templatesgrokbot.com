@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 121 Grok Bot templates, 67 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 122 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -67,6 +67,7 @@ Find sources, compare evidence and summarise what is known. 121 Grok Bot templat
 | [Not Human Search Mcp](not-human-search-mcp.md) | Search 1,750+ AI-ready websites and verify MCP endpoints at runtime. |
 | [Notebooklm](../../science-and-research/research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Openai Docs](openai-docs.md) | Answers build questions about OpenAI products using official docs with citations. |
+| [OSINT Campaign Guide](osint-campaign-guide.md) | Guides systematic OSINT campaigns from target definition to reporting, with OpSec and analysis workflows. |
 | [Oss Hunter](oss-hunter.md) | Find high-impact, mergeable open source issues in trending repos. |
 | [Parallel Agents](parallel-agents.md) | Orchestrates multiple specialized agents for comprehensive code analysis. |
 | [Patent Application Drafting Assistant](../../legal/research/patent-application-drafting-assistant.md) | Drafts, reviews, and files patent applications with precision and compliance. |

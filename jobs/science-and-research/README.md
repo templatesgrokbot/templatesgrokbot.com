@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **895 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **899 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,11 +11,11 @@ Scientists, analysts and academic researchers. **895 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 362 |
+| [Data Analysis](data-analysis/README.md) | 363 |
 | [Research](research/README.md) | 245 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 70 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 71 |
 | [Security & Compliance](security-and-compliance/README.md) | 50 |
-| [Coding](coding/README.md) | 42 |
+| [Coding](coding/README.md) | 44 |
 | [Productivity](productivity/README.md) | 41 |
 | [Writing & Content](writing-and-content/README.md) | 22 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 15 |
@@ -38,27 +38,27 @@ Scientists, analysts and academic researchers. **895 ready-made Grok Bot templat
 |---|---|
 | [Wireshark Analysis](../it-and-development/data-analysis/wireshark-analysis.md) | Analyze PCAP files with Wireshark filters and statistics for security and performance investigations. |
 | [Kusto Assistant](../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
-| [Mlops Tensorboard](data-analysis/mlops-tensorboard.md) | Visualize training metrics, debug models, and compare experiments with TensorBoard. |
 | [Plotly](../it-and-development/data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
-| [Polars](../it-and-development/data-analysis/polars.md) | High-performance DataFrame operations using Polars with lazy evaluation and parallel execution. |
+| [Mlops Tensorboard](data-analysis/mlops-tensorboard.md) | Visualize training metrics, debug models, and compare experiments with TensorBoard. |
 | [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
+| [Polars](../it-and-development/data-analysis/polars.md) | High-performance DataFrame operations using Polars with lazy evaluation and parallel execution. |
 | [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 
-[All 362 Data Analysis templates →](data-analysis/README.md)
+[All 363 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
 | Template | What it does |
 |---|---|
 | [Labarchive Integration](research/labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
-| [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
 | [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
-| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
 | [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
-| [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
-| [Falsify](research/falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
 | [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
+| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
+| [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
+| [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
+| [Clinvar Database](research/clinvar-database.md) | Query ClinVar for variant clinical significance and pathogenicity classifications. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 
 [All 245 Research templates →](research/README.md)
 
@@ -66,16 +66,16 @@ Scientists, analysts and academic researchers. **895 ready-made Grok Bot templat
 
 | Template | What it does |
 |---|---|
-| [Emerging Techniques Knowledge Distillation](../it-and-development/generative-ai-and-llm/emerging-techniques-knowledge-distillation.md) | Compress large language models by distilling knowledge from a teacher to a smaller student model. |
 | [Llm Evaluation](../it-and-development/generative-ai-and-llm/llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
 | [Embedding Strategies](../it-and-development/generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
+| [Emerging Techniques Knowledge Distillation](../it-and-development/generative-ai-and-llm/emerging-techniques-knowledge-distillation.md) | Compress large language models by distilling knowledge from a teacher to a smaller student model. |
+| [Optimization Hqq](../it-and-development/generative-ai-and-llm/optimization-hqq.md) | Quantize LLMs to 4/3/2-bit without calibration data, fast and memory-efficient. |
 | [Emerging Techniques Model Pruning](generative-ai-and-llm/emerging-techniques-model-pruning.md) | Prunes LLMs to reduce size and accelerate inference without retraining. |
 | [Huggingface Local Models](../it-and-development/generative-ai-and-llm/huggingface-local-models.md) | Select and run GGUF models locally with llama.cpp on CPU, Metal, CUDA, or ROCm. |
-| [Optimization Hqq](../it-and-development/generative-ai-and-llm/optimization-hqq.md) | Quantize LLMs to 4/3/2-bit without calibration data, fast and memory-efficient. |
 | [Post Training Verl](../it-and-development/generative-ai-and-llm/post-training-verl.md) | Guides reinforcement learning post-training of LLMs using the verl library. |
 | [Langfuse](../it-and-development/generative-ai-and-llm/langfuse.md) | Instrument LLM apps with Langfuse tracing, evaluation, and prompt management. |
 
-[All 70 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 71 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
 ## Security & Compliance
 
@@ -85,10 +85,10 @@ Scientists, analysts and academic researchers. **895 ready-made Grok Bot templat
 | [Chemical Compliance Assistant](security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
 | [R&D Regulatory Navigator](../product-development/security-and-compliance/r-d-regulatory-navigator.md) | Regulatory compliance guidance for R&D engineers: research, interpret, document, monitor, audit, train. |
 | [Chemical Safety Documentation Assistant](security-and-compliance/chemical-safety-documentation-assistant.md) | Keeps lab chemical safety documents current and ready for review. |
-| [Laboratory Safety and Protocol Design Assistant](security-and-compliance/laboratory-safety-and-protocol-design-assistant.md) | Designs and maintains lab safety protocols, training, and compliance for microbiologists. |
 | [Chemical Safety Information Manager](security-and-compliance/chemical-safety-information-manager.md) | Manages chemical safety data, procedures, and compliance for biochemistry labs. |
+| [Laboratory Safety and Protocol Design Assistant](security-and-compliance/laboratory-safety-and-protocol-design-assistant.md) | Designs and maintains lab safety protocols, training, and compliance for microbiologists. |
 | [Consultant Compliance Research](security-and-compliance/consultant-compliance-research.md) | Environmental compliance research, audits, permits, training, and reporting support for consultants. |
-| [Environmental Monitoring Manager](security-and-compliance/environmental-monitoring-manager.md) | Environmental monitoring assistant for laboratory managers, from data collection to compliance and audits. |
+| [Biohazard Safety Protocol Assistant](security-and-compliance/biohazard-safety-protocol-assistant.md) | Biohazard management assistant for laboratory technicians: protocols, labels, training, and risk assessment. |
 
 [All 50 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -98,14 +98,14 @@ Scientists, analysts and academic researchers. **895 ready-made Grok Bot templat
 |---|---|
 | [Distributed Training Pytorch Lightning](../it-and-development/coding/distributed-training-pytorch-lightning.md) | Converts PyTorch code into Lightning modules and trains them with automatic distributed scaling. |
 | [Binary Analysis Patterns](../it-and-development/coding/binary-analysis-patterns.md) | Analyze compiled binaries, assembly code, and reconstruct program logic. |
-| [Qiskit](../it-and-development/coding/qiskit.md) | Build, optimize, and run quantum circuits on simulators or IBM Quantum hardware. |
 | [Sql Pro](../it-and-development/coding/sql-pro.md) | Optimize SQL queries, design schemas, and tune performance for cloud-native and hybrid databases. |
+| [Qiskit](../it-and-development/coding/qiskit.md) | Build, optimize, and run quantum circuits on simulators or IBM Quantum hardware. |
 | [Claude D3.js](../it-and-development/coding/claude-d3js-skill.md) | Create custom interactive D3.js visualizations for any JavaScript environment. |
 | [Pennylane](../it-and-development/coding/pennylane.md) | Build and train quantum circuits with automatic differentiation across simulators and hardware. |
-| [Pylabrobot](../it-and-development/coding/pylabrobot.md) | Controls lab robots and equipment from Python scripts. |
 | [Pytorch Lightning](../it-and-development/coding/pytorch-lightning.md) | Organize PyTorch code into LightningModules and configure Trainers for scalable neural network training. |
+| [Pylabrobot](../it-and-development/coding/pylabrobot.md) | Controls lab robots and equipment from Python scripts. |
 
-[All 42 Coding templates →](coding/README.md)
+[All 44 Coding templates →](coding/README.md)
 
 ## Productivity
 
@@ -131,8 +131,8 @@ Scientists, analysts and academic researchers. **895 ready-made Grok Bot templat
 | [Technical Documentation Assistant](../product-development/writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
 | [Scientific Writing](writing-and-content/scientific-writing.md) | Drafts full-paragraph scientific manuscripts using IMRAD structure with verified citations and figures. |
 | [Latex Paper Conversion](writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
-| [Stakeholder Engagement Strategist](writing-and-content/stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
 | [Permit-Ready EIA Report Builder](writing-and-content/permit-ready-eia-report-builder.md) | Supports environmental consultants with impact assessments from data collection to permit-ready reports. |
+| [Stakeholder Engagement Strategist](writing-and-content/stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
 | [Grant Proposal Support Assistant](writing-and-content/grant-proposal-support-assistant.md) | Finds funding, drafts, budgets, reviews, and aligns grant proposals for research projects. |
 
 [All 22 Writing & Content templates →](writing-and-content/README.md)
@@ -145,9 +145,9 @@ Scientists, analysts and academic researchers. **895 ready-made Grok Bot templat
 | [Huggingface Spaces](../it-and-development/cloud-and-devops/huggingface-spaces.md) | Build, deploy, and maintain ML apps on Hugging Face Spaces with Gradio, Docker, or Static SDKs. |
 | [Web Scraper](../it-and-development/cloud-and-devops/web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
 | [Remote Gpu Trainer](../it-and-development/cloud-and-devops/remote-gpu-trainer.md) | Deploy, monitor, and debug long GPU jobs on rented instances with safe teardown and resumable checkpoints. |
+| [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [Azure Ai Projects Java](../it-and-development/cloud-and-devops/azure-ai-projects-java.md) | Manage Azure AI Foundry projects via Java SDK for connections, datasets, indexes, and evaluations. |
 | [NOAA Radar Satellite Fetcher](cloud-and-devops/noaa-radar-satellite-fetcher.md) | Fetches NOAA NEXRAD radar and GOES satellite files by exact site, product, sector, and scan time. |
-| [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [Unified Memory Thermal Planner](../it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
 
 [All 15 Cloud & DevOps templates →](cloud-and-devops/README.md)

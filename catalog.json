@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 10464,
+ "count": 10494,
  "templates": [
   {
    "slug": "007",
@@ -2848,6 +2848,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "agent-evolution-optimizer",
+   "name": "Agent Evolution Optimizer",
+   "tagline": "Runs automated solve-observe-evolve loops to optimize any AI agent against a benchmark.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "prompt-engineering"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/agent-evolution-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/agent-evolution-optimizer",
+   "adapted_from": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/14-agents/a-evolve",
+   "source_license": "MIT"
+  },
+  {
    "slug": "agent-expert",
    "name": "Agent Expert",
    "tagline": "Designs and builds specialized Claude Code agents for the claude-code-templates system.",
@@ -3313,6 +3330,22 @@
    ],
    "path": "jobs/customer-support/productivity/agent-retention-strategy-planner.md",
    "url": "https://templatesgrokbot.com/bot/agent-retention-strategy-planner"
+  },
+  {
+   "slug": "agent-scope-interviewer",
+   "name": "Agent Scope Interviewer",
+   "tagline": "Interviews founders to scope a single-job agent and produces a build sheet.",
+   "category": "engineering",
+   "jobs": [
+    "product-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm"
+   ],
+   "path": "jobs/product-development/generative-ai-and-llm/agent-scope-interviewer.md",
+   "url": "https://templatesgrokbot.com/bot/agent-scope-interviewer",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/agent-launcher/skills/interview",
+   "source_license": "MIT"
   },
   {
    "slug": "agent-self-scheduling",
@@ -15121,6 +15154,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "ble-security-assessor",
+   "name": "BLE Security Assessor",
+   "tagline": "Assesses Bluetooth Low Energy devices for pairing, authentication, and GATT vulnerabilities.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/ble-security-assessor.md",
+   "url": "https://templatesgrokbot.com/bot/ble-security-assessor",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-bluetooth-ble",
+   "source_license": "MIT"
+  },
+  {
    "slug": "bleu",
    "name": "Bleu",
    "tagline": "Turns an idea into a complete, production-ready system plan before any code is written.",
@@ -16082,6 +16132,23 @@
    ],
    "path": "jobs/real-estate-and-construction/data-analysis/boundary-monument-recovery-log.md",
    "url": "https://templatesgrokbot.com/bot/boundary-monument-recovery-log"
+  },
+  {
+   "slug": "bounded-grade-iterate",
+   "name": "Bounded Grade Iterate",
+   "tagline": "Grades an agent against a rubric, iterates within a cap, and runs held-back evals.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "prompt-engineering"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/bounded-grade-iterate.md",
+   "url": "https://templatesgrokbot.com/bot/bounded-grade-iterate",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/agent-launcher/skills/grade-iterate",
+   "source_license": "MIT"
   },
   {
    "slug": "bounty-hunter",
@@ -18920,6 +18987,22 @@
    "path": "jobs/executives-and-strategy/generative-ai-and-llm/c-suite-advisory-router.md",
    "url": "https://templatesgrokbot.com/bot/c-suite-advisory-router",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/c-level-skills",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "c-suite-onboarding",
+   "name": "C-Suite Onboarding",
+   "tagline": "Guides founders through a structured onboarding interview to build a persistent company context file for all C-suite advisors.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/executives-and-strategy/knowledge-management/c-suite-onboarding.md",
+   "url": "https://templatesgrokbot.com/bot/c-suite-onboarding",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/cs-onboard",
    "source_license": "MIT"
   },
   {
@@ -29511,6 +29594,24 @@
    "url": "https://templatesgrokbot.com/bot/comp-package-benchmarker"
   },
   {
+   "slug": "company-architect",
+   "name": "Company Architect",
+   "tagline": "Guides founders through a 12-phase interview to build their company as a version-controlled markdown knowledge base.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "knowledge-management",
+    "marketing-and-growth",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/knowledge-management/company-architect.md",
+   "url": "https://templatesgrokbot.com/bot/company-architect",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/arquiteto-de-empresa/skills/arquiteto-de-empresa",
+   "source_license": "MIT"
+  },
+  {
    "slug": "company-context-engine",
    "name": "Company Context Engine",
    "tagline": "Keeps your company context current and strips sensitive details before anything leaves the chat.",
@@ -35242,6 +35343,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "cosmos-policy-evaluator",
+   "name": "Cosmos Policy Evaluator",
+   "tagline": "Evaluates NVIDIA Cosmos Policy on LIBERO and RoboCasa simulation benchmarks.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "generative-ai-and-llm",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/cosmos-policy-evaluator.md",
+   "url": "https://templatesgrokbot.com/bot/cosmos-policy-evaluator",
+   "adapted_from": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/18-multimodal/cosmos-policy",
+   "source_license": "MIT"
+  },
+  {
    "slug": "cost-optimization",
    "name": "Cost Optimization",
    "tagline": "Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies.",
@@ -39244,6 +39363,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "cursor-provider-installer",
+   "name": "Cursor Provider Installer",
+   "tagline": "Installs and configures Cursor as the agent provider for NanoClaw groups.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/cursor-provider-installer.md",
+   "url": "https://templatesgrokbot.com/bot/cursor-provider-installer",
+   "adapted_from": "https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-cursor",
+   "source_license": "MIT"
+  },
+  {
    "slug": "custom-agent-foundry",
    "name": "Custom Agent Foundry",
    "tagline": "Designs and creates VS Code custom agents with optimal configurations.",
@@ -41917,6 +42053,22 @@
    ],
    "path": "jobs/it-and-development/security-and-compliance/data-ethics-and-privacy-assistant.md",
    "url": "https://templatesgrokbot.com/bot/data-ethics-and-privacy-assistant"
+  },
+  {
+   "slug": "data-exfiltration-planner",
+   "name": "Data Exfiltration Planner",
+   "tagline": "Plans and guides authorized data exfiltration during red team engagements.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/data-exfiltration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/data-exfiltration-planner",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/post-exploitation/offensive-data-exfiltration",
+   "source_license": "MIT"
   },
   {
    "slug": "data-export-register-builder",
@@ -45356,6 +45508,24 @@
    "path": "jobs/it-and-development/coding/dependabot-review.md",
    "url": "https://templatesgrokbot.com/bot/dependabot-review",
    "adapted_from": "https://www.aitmpl.com/component/skills/workflow-automation/dependabot-review",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "dependency-confusion-tester",
+   "name": "Dependency Confusion Tester",
+   "tagline": "Discover and safely demonstrate dependency confusion attacks across package ecosystems.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring",
+    "research"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/dependency-confusion-tester.md",
+   "url": "https://templatesgrokbot.com/bot/dependency-confusion-tester",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/supply-chain/offensive-dependency-confusion",
    "source_license": "MIT"
   },
   {
@@ -59243,6 +59413,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "experiment-tracking-assistant",
+   "name": "Experiment Tracking Assistant",
+   "tagline": "Tracks ML experiments with metrics, configs, and media in local or self-hosted dashboards.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/science-and-research/coding/experiment-tracking-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/experiment-tracking-assistant",
+   "adapted_from": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/13-mlops/swanlab",
+   "source_license": "MIT"
+  },
+  {
    "slug": "experimental-design-planner",
    "name": "Experimental Design Planner",
    "tagline": "Designs and plans experiments from hypothesis to analysis for research associates.",
@@ -60542,6 +60729,22 @@
    ],
    "path": "jobs/operations/productivity/farm-machinery-service-planner.md",
    "url": "https://templatesgrokbot.com/bot/farm-machinery-service-planner"
+  },
+  {
+   "slug": "fast-security-assessor",
+   "name": "Fast Security Assessor",
+   "tagline": "Runs a speed-optimized offensive security checklist for time-boxed assessments and CTF engagements.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/fast-security-assessor.md",
+   "url": "https://templatesgrokbot.com/bot/fast-security-assessor",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/utility/offensive-fast-checking",
+   "source_license": "MIT"
   },
   {
    "slug": "fastapi-api-architect",
@@ -64192,6 +64395,23 @@
    "url": "https://templatesgrokbot.com/bot/floating-ui",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "florida-water-planner",
+   "name": "Florida Water Planner",
+   "tagline": "Plans Florida boating, fishing, paddling, surf and beach outings using live marine forecasts, tides and coastal tools.",
+   "category": "personal",
+   "jobs": [
+    "hospitality-and-events"
+   ],
+   "topics": [
+    "productivity",
+    "data-analysis"
+   ],
+   "path": "jobs/hospitality-and-events/productivity/florida-water-planner.md",
+   "url": "https://templatesgrokbot.com/bot/florida-water-planner",
+   "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/gillby-water",
+   "source_license": "MIT"
   },
   {
    "slug": "flowhunt-skill",
@@ -70800,6 +71020,23 @@
    "path": "jobs/it-and-development/security-and-compliance/graphql-security-specialist.md",
    "url": "https://templatesgrokbot.com/bot/graphql-security-specialist",
    "adapted_from": "https://www.aitmpl.com/component/agents/api-graphql/graphql-security-specialist",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "graphql-security-tester",
+   "name": "GraphQL Security Tester",
+   "tagline": "Guides penetration tests of GraphQL APIs through discovery, schema extraction, and exploitation.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/graphql-security-tester.md",
+   "url": "https://templatesgrokbot.com/bot/graphql-security-tester",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/web/offensive-graphql",
    "source_license": "MIT"
   },
   {
@@ -84841,6 +85078,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "knowledge-operations-auditor",
+   "name": "Knowledge Operations Auditor",
+   "tagline": "Author, validate, and clean up company SOPs and internal runbooks with deterministic checks.",
+   "category": "operations",
+   "jobs": [
+    "operations"
+   ],
+   "topics": [
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/operations/knowledge-management/knowledge-operations-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/knowledge-operations-auditor",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/knowledge-ops",
+   "source_license": "MIT"
+  },
+  {
    "slug": "knowledge-synthesizer",
    "name": "Knowledge Synthesizer",
    "tagline": "Extracts actionable patterns from agent interactions to enable organizational learning.",
@@ -86487,6 +86741,23 @@
    ],
    "path": "jobs/operations/support-and-community/late-shipment-exception-assistant.md",
    "url": "https://templatesgrokbot.com/bot/late-shipment-exception-assistant"
+  },
+  {
+   "slug": "lateral-movement-operator",
+   "name": "Lateral Movement Operator",
+   "tagline": "Executes authorized lateral movement across Windows networks using harvested credentials and protocol abuse.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/lateral-movement-operator.md",
+   "url": "https://templatesgrokbot.com/bot/lateral-movement-operator",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/post-exploitation/offensive-lateral-movement",
+   "source_license": "MIT"
   },
   {
    "slug": "latex-paper-conversion",
@@ -93283,6 +93554,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "managed-agent-lifecycle-orchestrator",
+   "name": "Managed Agent Lifecycle Orchestrator",
+   "tagline": "Builds, launches, grades, and schedules your managed agents in your Anthropic account.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "prompt-engineering"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/managed-agent-lifecycle-orchestrator.md",
+   "url": "https://templatesgrokbot.com/bot/managed-agent-lifecycle-orchestrator",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/agent-launcher/skills/agent-launcher-orchestrator",
+   "source_license": "MIT"
+  },
+  {
    "slug": "managed-service-handover-checker",
    "name": "Managed Service Handover Checker",
    "tagline": "Checks every handover checklist item against real evidence and chases the gaps until both sides sign off.",
@@ -94858,6 +95146,22 @@
    ],
    "path": "jobs/sales/marketing-and-growth/marketing-conversion-insight-drafts.md",
    "url": "https://templatesgrokbot.com/bot/marketing-conversion-insight-drafts"
+  },
+  {
+   "slug": "marketing-council-convener",
+   "name": "Marketing Council Convener",
+   "tagline": "Simulated board of legendary marketers giving conflicting takes and a synthesis for your marketing decisions.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/marketing-council-convener.md",
+   "url": "https://templatesgrokbot.com/bot/marketing-council-convener",
+   "adapted_from": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-council",
+   "source_license": "MIT"
   },
   {
    "slug": "marketing-crisis-strategist",
@@ -107219,6 +107523,25 @@
    "source_license": "MIT"
   },
   {
+   "slug": "openpi-fine-tuning",
+   "name": "OpenPI Fine-Tuning",
+   "tagline": "Fine-tune and serve OpenPI robot policies (pi0, pi0-fast, pi0.5) on custom datasets.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "science-and-research"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "teaching-and-tutoring",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/openpi-fine-tuning.md",
+   "url": "https://templatesgrokbot.com/bot/openpi-fine-tuning",
+   "adapted_from": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/18-multimodal/openpi",
+   "source_license": "MIT"
+  },
+  {
    "slug": "openrouter-tts",
    "name": "OpenRouter TTS",
    "tagline": "Convert text to MP3 voiceovers using OpenRouter, defaulting to Kokoro or switching to Grok Voice on request.",
@@ -108756,6 +109079,24 @@
    "url": "https://templatesgrokbot.com/bot/osha-injury-log-recordkeeping"
   },
   {
+   "slug": "osint-campaign-guide",
+   "name": "OSINT Campaign Guide",
+   "tagline": "Guides systematic OSINT campaigns from target definition to reporting, with OpSec and analysis workflows.",
+   "category": "research",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research",
+    "data-analysis",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/research/osint-campaign-guide.md",
+   "url": "https://templatesgrokbot.com/bot/osint-campaign-guide",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/recon/offensive-osint-methodology",
+   "source_license": "MIT"
+  },
+  {
    "slug": "oss-hunter",
    "name": "Oss Hunter",
    "tagline": "Find high-impact, mergeable open source issues in trending repos.",
@@ -109818,6 +110159,24 @@
    ],
    "path": "jobs/science-and-research/research/paleontological-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/paleontological-analysis-assistant"
+  },
+  {
+   "slug": "pandas-data-wrangler",
+   "name": "Pandas Data Wrangler",
+   "tagline": "Performs efficient pandas DataFrame operations for data analysis, manipulation, and transformation.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research",
+    "finance"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/science-and-research/data-analysis/pandas-data-wrangler.md",
+   "url": "https://templatesgrokbot.com/bot/pandas-data-wrangler",
+   "adapted_from": "https://github.com/Jeffallan/claude-skills/tree/main/skills/pandas-pro",
+   "source_license": "MIT"
   },
   {
    "slug": "paper-2-web",
@@ -113145,6 +113504,22 @@
    "path": "jobs/science-and-research/research/perplexity-search.md",
    "url": "https://templatesgrokbot.com/bot/perplexity-search",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/perplexity-search",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "persistence-planner",
+   "name": "Persistence Planner",
+   "tagline": "Plant and manage persistence mechanisms on Windows and Linux for authorized red team engagements.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/persistence-planner.md",
+   "url": "https://templatesgrokbot.com/bot/persistence-planner",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/post-exploitation/offensive-persistence",
    "source_license": "MIT"
   },
   {
@@ -123146,6 +123521,23 @@
    ],
    "path": "jobs/management/productivity/project-time-manager.md",
    "url": "https://templatesgrokbot.com/bot/project-time-manager"
+  },
+  {
+   "slug": "project-wrap-up",
+   "name": "Project Wrap-Up",
+   "tagline": "Close out a launched agent: recap what you own, refresh the overview page, and suggest next upgrades.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/project-wrap-up.md",
+   "url": "https://templatesgrokbot.com/bot/project-wrap-up",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/agent-launcher/skills/wrap-up",
+   "source_license": "MIT"
   },
   {
    "slug": "projection-patterns",
@@ -137450,6 +137842,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "salesforce-developer",
+   "name": "Salesforce Developer",
+   "tagline": "Develops and debugs Salesforce apps with Apex, LWC, and optimized SOQL.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "generative-code"
+   ],
+   "path": "jobs/it-and-development/coding/salesforce-developer.md",
+   "url": "https://templatesgrokbot.com/bot/salesforce-developer",
+   "adapted_from": "https://github.com/Jeffallan/claude-skills/tree/main/skills/salesforce-developer",
+   "source_license": "MIT"
+  },
+  {
    "slug": "salesforce-development",
    "name": "Salesforce Development",
    "tagline": "Generates Salesforce platform code following expert patterns and avoiding anti-patterns.",
@@ -145330,6 +145739,23 @@
    "url": "https://templatesgrokbot.com/bot/social-engineering-defense-planner"
   },
   {
+   "slug": "social-engineering-red-team",
+   "name": "Social Engineering Red Team",
+   "tagline": "Plan and execute authorized social engineering engagements across voice, text, and physical vectors.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "research"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/social-engineering-red-team.md",
+   "url": "https://templatesgrokbot.com/bot/social-engineering-red-team",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/social-engineering/offensive-social-engineering",
+   "source_license": "MIT"
+  },
+  {
    "slug": "social-evidence-researcher",
    "name": "Social Evidence Researcher",
    "tagline": "Researches public Instagram, TikTok and LinkedIn posts and returns source-linked evidence reports.",
@@ -148481,6 +148907,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "ssrf-vulnerability-scanner",
+   "name": "SSRF Vulnerability Scanner",
+   "tagline": "Finds and confirms Server-Side Request Forgery in web apps, with bypass and escalation steps.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/ssrf-vulnerability-scanner.md",
+   "url": "https://templatesgrokbot.com/bot/ssrf-vulnerability-scanner",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/web/offensive-ssrf",
+   "source_license": "MIT"
+  },
+  {
    "slug": "ssti-hunter",
    "name": "SSTI Hunter",
    "tagline": "Hunt server-side template injection and escalate to command execution across web apps.",
@@ -148664,6 +149107,23 @@
    ],
    "path": "jobs/management/productivity/stage-gate-governance-pack.md",
    "url": "https://templatesgrokbot.com/bot/stage-gate-governance-pack"
+  },
+  {
+   "slug": "stage-launch-orchestrator",
+   "name": "Stage Launch Orchestrator",
+   "tagline": "Launches a validated agent build with your own API key, safely and resumably.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/stage-launch-orchestrator.md",
+   "url": "https://templatesgrokbot.com/bot/stage-launch-orchestrator",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/agent-launcher/skills/stage-launch",
+   "source_license": "MIT"
   },
   {
    "slug": "stair-layout-code-checker",
@@ -152704,6 +153164,24 @@
    ],
    "path": "jobs/operations/data-analysis/supply-chain-analytics-assistant.md",
    "url": "https://templatesgrokbot.com/bot/supply-chain-analytics-assistant"
+  },
+  {
+   "slug": "supply-chain-attack-simulator",
+   "name": "Supply Chain Attack Simulator",
+   "tagline": "Simulates software supply chain attacks for authorized red team engagements.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/supply-chain-attack-simulator.md",
+   "url": "https://templatesgrokbot.com/bot/supply-chain-attack-simulator",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/supply-chain/offensive-supply-chain",
+   "source_license": "MIT"
   },
   {
    "slug": "supply-chain-benchmark-decoder",
@@ -161760,6 +162238,25 @@
    "url": "https://templatesgrokbot.com/bot/training-program-progression-assistant"
   },
   {
+   "slug": "training-recipe-advisor",
+   "name": "Training Recipe Advisor",
+   "tagline": "Guides PyTorch neural network training with battle-tested recipes for architecture, optimization, and debugging.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "science-and-research"
+   ],
+   "topics": [
+    "coding",
+    "generative-ai-and-llm",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/coding/training-recipe-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/training-recipe-advisor",
+   "adapted_from": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/10-optimization/ml-training-recipes",
+   "source_license": "MIT"
+  },
+  {
    "slug": "training-reimbursement-packet-assembler",
    "name": "Training Reimbursement Packet Assembler",
    "tagline": "Checks training reimbursement claims against policy and assembles complete packets for HR review.",
@@ -169434,6 +169931,22 @@
    "url": "https://templatesgrokbot.com/bot/vulnerability-scanner",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "waf-bypass-assistant",
+   "name": "WAF Bypass Assistant",
+   "tagline": "Bypass WAF blocks during web app security tests using a structured evasion checklist.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/waf-bypass-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/waf-bypass-assistant",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/web/offensive-waf-bypass",
+   "source_license": "MIT"
   },
   {
    "slug": "wage-garnishment-administrator",

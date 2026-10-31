@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **824 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **825 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Accounting, budgeting, analysis and risk. **824 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 494 |
+| [Data Analysis](data-analysis/README.md) | 495 |
 | [Productivity](productivity/README.md) | 102 |
 | [Security & Compliance](security-and-compliance/README.md) | 79 |
 | [Research](research/README.md) | 46 |
@@ -33,25 +33,25 @@ Accounting, budgeting, analysis and risk. **824 ready-made Grok Bot templates** 
 | Template | What it does |
 |---|---|
 | [Offer Comparison Analyzer](../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
-| [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
-| [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Excel Analysis](data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
+| [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
+| [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Auction Market Analyst](data-analysis/auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |
+| [Financial Forecasting and Analysis Assistant](../executives-and-strategy/data-analysis/financial-forecasting-and-analysis-assistant.md) | Turns financial data into forecasts, budgets, and scenario insights for a VP of Finance. |
 | [School Budget Analysis Assistant](../education/data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
-| [CFO Tax Planning Assistant](data-analysis/cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
 | [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 
-[All 494 Data Analysis templates →](data-analysis/README.md)
+[All 495 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
 | Template | What it does |
 |---|---|
-| [Stripe Automation](productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [Vendor Watch](../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
+| [Stripe Automation](productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [Credit Card Max](productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
-| [Meeting Coordination Assistant](productivity/meeting-coordination-assistant.md) | Handles scheduling, invitations, logistics, agendas, reminders, RSVPs, minutes, virtual setups, materials, follow-ups, surveys, and travel for… |
 | [Risk Analysis and Management Assistant](../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
+| [Meeting Coordination Assistant](productivity/meeting-coordination-assistant.md) | Handles scheduling, invitations, logistics, agendas, reminders, RSVPs, minutes, virtual setups, materials, follow-ups, surveys, and travel for… |
 | [Finance Event Orchestrator](productivity/finance-event-orchestrator.md) | Plans, coordinates, and tracks every detail of your events from venue to post-event feedback. |
 | [Financial Planning Assistant](productivity/financial-planning-assistant.md) | Personal financial planning assistant for tax analysts covering budgets, investments, retirement, taxes, debt, insurance, education, estate, cash… |
 | [Expense Tracking Assistant](productivity/expense-tracking-assistant.md) | Manages expense tracking, reporting, budgets, and compliance for finance managers. |
@@ -97,8 +97,8 @@ Accounting, budgeting, analysis and risk. **824 ready-made Grok Bot templates** 
 | [Presentation Preparation Assistant](office-tools/presentation-preparation-assistant.md) | Prepares complete presentations for administrative assistants in finance, from research to follow-up. |
 | [Calc](../operations/office-tools/calc.md) | Create, convert, and automate spreadsheets with LibreOffice Calc. |
 | [Excel Automation](office-tools/excel-automation.md) | Automates live Excel workbooks and reports through xlwings, with every write and export approved first. |
-| [Odoo Accounting Setup](../operations/office-tools/odoo-accounting-setup.md) | Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation. |
 | [Googlesheets Automation](../operations/office-tools/googlesheets-automation.md) | Read, write, format, filter, and manage Google Sheets via Rube MCP. |
+| [Odoo Accounting Setup](../operations/office-tools/odoo-accounting-setup.md) | Configure Odoo Accounting: chart of accounts, taxes, fiscal positions, payment terms, and reconciliation. |
 | [LP Quarterly Report Preparer](office-tools/lp-quarterly-report-preparer.md) | Drafts the quarterly LP report and ties every figure to the fund administrator's statements. |
 
 [All 41 Office Tools templates →](office-tools/README.md)
@@ -111,8 +111,8 @@ Accounting, budgeting, analysis and risk. **824 ready-made Grok Bot templates** 
 | [Investment Memo Writer](writing-and-content/investment-memo-writer.md) | Drafts structured investment memorandums from the deal facts and diligence you provide. |
 | [Client Quarterly Review Letter Drafter](writing-and-content/client-quarterly-review-letter-drafter.md) | Drafts compliant quarterly client letters from final statements and house commentary, ready for manager approval. |
 | [Finance ESG Report Builder](writing-and-content/finance-esg-report-builder.md) | Turns sustainability data into reports, insights, and stakeholder-ready narratives. |
-| [Stakeholder Financial Communications Assistant](../executives-and-strategy/writing-and-content/stakeholder-financial-communications-assistant.md) | Drafts and coordinates all stakeholder financial communications for a VP of Finance. |
 | [Doc Chaser Lite](../operations/writing-and-content/doc-chaser-lite.md) | Drafts one friendly document-request email for a tax client from a brief and practice profile. |
+| [Stakeholder Financial Communications Assistant](../executives-and-strategy/writing-and-content/stakeholder-financial-communications-assistant.md) | Drafts and coordinates all stakeholder financial communications for a VP of Finance. |
 | [Sustainability Reporting Assistant](writing-and-content/sustainability-reporting-assistant.md) | Guides accountants through every stage of sustainability reporting, from data to disclosure. |
 | [Recommendation Documentation Assistant](writing-and-content/recommendation-documentation-assistant.md) | Drafts a complete, compliant record for every client recommendation an advisor makes. |
 
@@ -154,8 +154,8 @@ Accounting, budgeting, analysis and risk. **824 ready-made Grok Bot templates** 
 |---|---|
 | [Data Room Builder](knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
 | [Data Room Q&A Tracker](knowledge-management/data-room-q-a-tracker.md) | Logs every diligence question, drafts consistent answers, and escalates before due dates. |
-| [Audit File Preparation Register](knowledge-management/audit-file-preparation-register.md) | Builds and maintains the audit file checklist so every auditor request is tracked, filed and answered. |
 | [Fairness Opinion Binder Tie-Out](knowledge-management/fairness-opinion-binder-tie-out.md) | Assembles and ties out every fairness opinion analysis against the master model and board deck. |
+| [Audit File Preparation Register](knowledge-management/audit-file-preparation-register.md) | Builds and maintains the audit file checklist so every auditor request is tracked, filed and answered. |
 | [Credit File Preparation Assistant](knowledge-management/credit-file-preparation-assistant.md) | Keeps credit review files current by checking evidence dates and legal entities, then drafting targeted requests. |
 | [Record Keeping and Filing Assistant](knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
 | [Tax Provision Support File Builder](knowledge-management/tax-provision-support-file-builder.md) | Builds a tied-out, indexed support file for every provision item before audit. |

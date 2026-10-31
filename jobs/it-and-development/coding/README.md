@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1137 Grok Bot templates, 1128 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1139 Grok Bot templates, 1130 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -898,6 +898,7 @@ Write, review, test and debug software. 1137 Grok Bot templates, 1128 of them fi
 | [Rust Mcp Expert](rust-mcp-expert.md) | Helps you build production-ready MCP servers in Rust using the rmcp SDK. |
 | [Rust Pro](rust-pro.md) | Design and optimize production Rust 1.75+ code with async, type safety, and performance. |
 | [Saas Multi Tenant](saas-multi-tenant.md) | Designs multi-tenant SaaS databases with RLS and tenant-scoped queries. |
+| [Salesforce Developer](salesforce-developer.md) | Develops and debugs Salesforce apps with Apex, LWC, and optimized SOQL. |
 | [Salesforce Development](salesforce-development.md) | Generates Salesforce platform code following expert patterns and avoiding anti-patterns. |
 | [Salesforce Expert](salesforce-expert.md) | Provides expert Salesforce platform guidance, code review, and architecture decisions. |
 | [Sankhya Dashboard Builder](sankhya-dashboard-builder.md) | Guide to patterns and best practices for Sankhya dashboards with JSP, Java, and SQL. |
@@ -1051,6 +1052,7 @@ Write, review, test and debug software. 1137 Grok Bot templates, 1128 of them fi
 | [Tool Use Guardian](tool-use-guardian.md) | Wraps tool calls to auto-retry failures, fix truncated JSON, and learn which tools are unreliable. |
 | [Tooling Engineer](tooling-engineer.md) | Builds and enhances developer tools like CLIs, code generators, and IDE extensions. |
 | [Torch Geometric](torch-geometric.md) | Build and train graph neural networks for node, edge, and graph tasks. |
+| [Training Recipe Advisor](training-recipe-advisor.md) | Guides PyTorch neural network training with battle-tested recipes for architecture, optimization, and debugging. |
 | [Trpc Fullstack](trpc-fullstack.md) | Build end-to-end type-safe APIs with tRPC routers, procedures, middleware, and subscriptions. |
 | [Twilio Communications](twilio-communications.md) | Send SMS, verify phone numbers, and build IVR systems using Twilio APIs with compliance and error handling. |
 | [Typescript Advanced Types](typescript-advanced-types.md) | Guide for mastering TypeScript's advanced type system and patterns. No code generation or runtime logic. |

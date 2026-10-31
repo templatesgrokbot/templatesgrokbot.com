@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for Product Development
 
-Work with language models, agents and their plumbing. 75 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 76 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Work with language models, agents and their plumbing. 75 Grok Bot templates, 5 o
 | [Agent Development](../../it-and-development/generative-ai-and-llm/agent-development.md) | Guide users in creating structured Claude Code plugin agents |
 | [Agent Evaluation](../../it-and-development/generative-ai-and-llm/agent-evaluation.md) | Designs and runs versioned tests to catch agent failures before production. |
 | [Agent Orchestrator](../../it-and-development/generative-ai-and-llm/agent-orchestrator.md) | Automatically orchestrates ecosystem capabilities via scan, match, and multi-capability workflow. |
+| [Agent Scope Interviewer](agent-scope-interviewer.md) | Interviews founders to scope a single-job agent and produces a build sheet. |
 | [Agent Tool Builder](../../it-and-development/generative-ai-and-llm/agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
 | [Ai Agents Architect](../../it-and-development/generative-ai-and-llm/ai-agents-architect.md) | Designs and builds autonomous AI agents with safe tool use and memory. |
 | [Ai Engineering Toolkit](../../it-and-development/generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |

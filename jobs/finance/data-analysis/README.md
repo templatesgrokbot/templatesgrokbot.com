@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 494 Grok Bot templates, 347 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 495 Grok Bot templates, 347 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -355,6 +355,7 @@ Clean, query, chart and explain data. 494 Grok Bot templates, 347 of them filed 
 | [Options Flow Analyzer](options-flow-analyzer.md) | Separates real options flow from lottery noise to prevent P/C ratio inversion. |
 | [Override and Fee Waiver Reviewer](override-and-fee-waiver-reviewer.md) | Reviews weekly override and fee waiver logs for unusual patterns and reports findings to the branch manager. |
 | [Owner Monthly Report Builder](owner-monthly-report-builder.md) | Builds monthly owner reports that tie to the bank with explained variances. |
+| [Pandas Data Wrangler](../../science-and-research/data-analysis/pandas-data-wrangler.md) | Performs efficient pandas DataFrame operations for data analysis, manipulation, and transformation. |
 | [Party Ledger Reconciliation](party-ledger-reconciliation.md) | Proves customer and supplier balances against statements and records the adjustments that clear differences. |
 | [Patent Valuation Analyst](../../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Pay Equity Benchmarker for Finance Managers](pay-equity-benchmarker-for-finance-managers.md) | Analyzes employee compensation data to benchmark, optimize, and ensure compliance. |

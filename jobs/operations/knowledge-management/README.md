@@ -1,6 +1,6 @@
 # Knowledge Management templates for Operations
 
-Notes, documents, PDFs and knowledge bases kept in order. 55 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 56 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 55 Grok Bot templates,
 | [Ingest Youtube](ingest-youtube.md) | Pull a YouTube transcript into a markdown vault as a queryable note. |
 | [Key Person Dependency Review](key-person-dependency-review.md) | Maps critical processes to backups and reports the gaps each quarter. |
 | [Knowledge Base Builder](../../customer-support/knowledge-management/knowledge-base-builder.md) | Builds and maintains your knowledge base and FAQ content from customer data. |
+| [Knowledge Operations Auditor](knowledge-operations-auditor.md) | Author, validate, and clean up company SOPs and internal runbooks with deterministic checks. |
 | [Legal Knowledge Base Builder](../../legal/knowledge-management/legal-knowledge-base-builder.md) | Builds and maintains a legal knowledge base with research, drafting, and compliance support. |
 | [Maintain Codex Wiki](../../it-and-development/knowledge-management/maintain-codex-wiki.md) | Maintain a review-first engineering wiki with provenance and citation-aware queries. |
 | [Matter Closure and Retention](../../legal/knowledge-management/matter-closure-and-retention.md) | Finds inactive matters, clears them against invoices and holds, and archives only what is approved. |

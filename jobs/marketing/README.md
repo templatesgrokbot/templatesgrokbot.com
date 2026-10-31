@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **1,158 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **1,159 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Campaigns, SEO, content and growth. **1,158 ready-made Grok Bot templates** for 
 
 | Kind of work | Templates |
 |---|---:|
-| [Marketing & Growth](marketing-and-growth/README.md) | 498 |
+| [Marketing & Growth](marketing-and-growth/README.md) | 499 |
 | [Data Analysis](data-analysis/README.md) | 163 |
 | [Writing & Content](writing-and-content/README.md) | 108 |
 | [Social Media](social-media/README.md) | 106 |
@@ -41,29 +41,29 @@ Campaigns, SEO, content and growth. **1,158 ready-made Grok Bot templates** for 
 
 | Template | What it does |
 |---|---|
-| [Launch Strategy](marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
 | [Brand Review](marketing-and-growth/marketing-brand-review.md) | Review content against brand voice, style, and legal guidelines before publishing. |
-| [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [Social Metadata Hardening](marketing-and-growth/social-metadata-hardening.md) | Fix social sharing previews so URLs render as rich cards on all platforms. |
 | [Copywriting Psychologist](marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
+| [Launch Strategy](marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
+| [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [Github Presence](marketing-and-growth/github-presence.md) | Optimize GitHub profiles, READMEs, and project discoverability. |
-| [Optimize Your Brand SERP](marketing-and-growth/brand-serp-optimierung.md) | Audits your brand's Google SERP and prescribes the five highest-impact fixes to improve it. |
-| [Seo Fundamentals](marketing-and-growth/seo-fundamentals.md) | Audits web content against E-E-A-T, Core Web Vitals, and technical SEO principles. |
+| [Plan Internal Linking](marketing-and-growth/interne-verlinkung.md) | Delivers a copy-paste-ready internal link plan with exact anchor text and placement for every row. |
+| [Seo Hreflang](marketing-and-growth/seo-hreflang.md) | Validate and generate hreflang tags for international SEO. |
 
-[All 498 Marketing & Growth templates →](marketing-and-growth/README.md)
+[All 499 Marketing & Growth templates →](marketing-and-growth/README.md)
 
 ## Data Analysis
 
 | Template | What it does |
 |---|---|
-| [Amplitude Automation](data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
 | [Ad Campaign Analyzer](data-analysis/ad-campaign-analyzer.md) | Analyze cross-channel ad data, quantify uncertainty, and propose evidence-labeled budget tests. |
+| [Amplitude Automation](data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
 | [Talivia Agent Kit](data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Podcast Content Analyzer](../operations/data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
+| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
-| [Google Ads Performance Analyzer](data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
-| [Hasdata](../it-and-development/data-analysis/hasdata.md) | Extract public web data via HasData APIs for scraping, SERPs, and structured sources. |
 | [Analytics Product](data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
+| [Google Ads Performance Analyzer](data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 
 [All 163 Data Analysis templates →](data-analysis/README.md)
 
@@ -75,8 +75,8 @@ Campaigns, SEO, content and growth. **1,158 ready-made Grok Bot templates** for 
 | [Developer Advocacy](writing-and-content/developer-advocacy.md) | Prep conference talks, live demos, podcast pitches, and public builds with structured checklists and templates. |
 | [Seo Content Writer](../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Blog Writing Guide](writing-and-content/blog-writing-guide.md) | Draft and edit Sentry blog posts with a senior-engineer voice, technical depth, and zero marketing fluff. |
-| [Seo Aeo Landing Page Writer](writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [Seo Content Auditor](writing-and-content/seo-content-auditor.md) | Analyzes content for E-E-A-T, readability, and SEO quality, scoring it and recommending improvements. |
+| [Seo Aeo Landing Page Writer](writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [Seo Content Refresher](writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
 | [Brand Guard](writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 
@@ -90,8 +90,8 @@ Campaigns, SEO, content and growth. **1,158 ready-made Grok Bot templates** for 
 | [Socialclaw](social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
 | [Instagram Automation](social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [Content Command Center](../pr-and-communications/social-media/content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
-| [Youtube Automation](social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 | [Social Media Strategy Optimizer](../sales/social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
+| [Youtube Automation](social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 | [Xiaohongshu Card Deck Generator](social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
 | [Xiaohongshu Content Strategist](social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
 
@@ -103,10 +103,10 @@ Campaigns, SEO, content and growth. **1,158 ready-made Grok Bot templates** for 
 |---|---|
 | [Ux Researcher](../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
 | [Discover Brand Materials](research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
-| [Kotler Macro Analyzer](../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
 | [Customer Research](research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
-| [Url Context Validator](../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
 | [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
+| [Kotler Macro Analyzer](../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
+| [Url Context Validator](../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
 | [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
 | [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 
@@ -122,8 +122,8 @@ Campaigns, SEO, content and growth. **1,158 ready-made Grok Bot templates** for 
 | [UX Enhancement Analyst](../sales/design/ux-enhancement-analyst.md) | Enhances user experience across web and mobile through feedback, testing, and optimization. |
 | [Brand Guidelines Anthropic](../creatives/design/brand-guidelines-anthropic.md) | Applies Anthropic brand colors and typography to existing artifacts. |
 | [Visual Content Ideation Assistant](../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
-| [Vaporwave](../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Product Naming and Brand Builder](../executives-and-strategy/design/product-naming-and-brand-builder.md) | Guides founders through product naming and brand building from brainstorm to launch. |
+| [Vaporwave](../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 
 [All 33 Design templates →](design/README.md)
 
@@ -138,7 +138,7 @@ Campaigns, SEO, content and growth. **1,158 ready-made Grok Bot templates** for 
 | [Onboarding](../product-development/productivity/onboarding.md) | Optimize post-signup onboarding to speed users to their aha moment and boost activation. |
 | [Discord Automation](../operations/productivity/discord-automation.md) | Automate Discord messages, roles, webhooks, and reactions via Rube MCP. |
 | [Power User Cultivation](../product-development/productivity/power-user-cultivation.md) | Identify engaged developers and turn them into advocates and contributors. |
-| [Matching Gift Follow-Up](productivity/matching-gift-follow-up.md) | Turns donor employers into matching gift submissions by drafting reminders and tracking each match to receipt. |
+| [Onboarding Cro](../product-development/productivity/onboarding-cro.md) | Audits and optimizes user onboarding to reduce time-to-value and increase activation rates. |
 
 [All 25 Productivity templates →](productivity/README.md)
 
@@ -151,9 +151,9 @@ Campaigns, SEO, content and growth. **1,158 ready-made Grok Bot templates** for 
 | [Fal Generate](../creatives/generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [AI Studio Image](../creatives/generative-art/ai-studio-image.md) | Generates humanized images via Google AI Studio with smartphone photo realism. |
 | [Modellix](../creatives/generative-art/modellix.md) | Generate images, videos, and speech via the Modellix CLI workflow. |
+| [Generate Image](../creatives/generative-art/generate-image.md) | Generates or edits images using AI models for photos, illustrations, and visual assets. |
 | [Image Generator](../creatives/generative-art/image-generator.md) | Generate and edit images using Gemini's Nano Banana Pro model. |
 | [Generate Nanobanana](../creatives/generative-art/generate-nanobanana.md) | Generate and edit images/video via Gemini models with cost approval and reference-image support. |
-| [Generate Image](../creatives/generative-art/generate-image.md) | Generates or edits images using AI models for photos, illustrations, and visual assets. |
 
 [All 24 Generative Art templates →](generative-art/README.md)
 
@@ -164,11 +164,11 @@ Campaigns, SEO, content and growth. **1,158 ready-made Grok Bot templates** for 
 | [Wordpress](../it-and-development/coding/wordpress.md) | Build and secure WordPress sites with themes, plugins, WooCommerce, and 7.0 features. |
 | [Segment Automation](../it-and-development/coding/segment-automation.md) | Automate Segment CDP operations: track, identify, group, page, alias, and batch events. |
 | [Seo Technical](coding/seo-technical.md) | Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, and JavaScript rendering. |
-| [Seo Aeo Schema Generator](../it-and-development/coding/seo-aeo-schema-generator.md) | Generates valid JSON-LD schema for 10 types with rich result validation. |
 | [Url Link Extractor](../it-and-development/coding/url-link-extractor.md) | Scans website codebases to extract and catalog all URLs and links. |
+| [Seo Aeo Schema Generator](../it-and-development/coding/seo-aeo-schema-generator.md) | Generates valid JSON-LD schema for 10 types with rich result validation. |
 | [Wordpress Master](../it-and-development/coding/wordpress-master.md) | Architect, optimize, and troubleshoot WordPress sites from custom themes to enterprise multisite platforms. |
-| [Nextjs Seo Indexing](../it-and-development/coding/nextjs-seo-indexing.md) | Fix SEO indexing issues and crawl budget problems in Next.js apps. |
 | [Core Web Vitals](../it-and-development/coding/core-web-vitals.md) | Analyzes and fixes LCP, INP, and CLS to improve page experience and search ranking. |
+| [Nextjs Seo Indexing](../it-and-development/coding/nextjs-seo-indexing.md) | Fix SEO indexing issues and crawl budget problems in Next.js apps. |
 
 [All 16 Coding templates →](coding/README.md)
 

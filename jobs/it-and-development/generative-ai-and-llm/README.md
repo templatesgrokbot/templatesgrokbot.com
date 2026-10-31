@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 254 Grok Bot templates, 234 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 261 Grok Bot templates, 241 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Work with language models, agents and their plumbing. 254 Grok Bot templates, 23
 | [Advanced Evaluation](advanced-evaluation.md) | Build reliable LLM-as-judge evaluation pipelines with bias mitigation and rubric generation. |
 | [Agent Development](agent-development.md) | Guide users in creating structured Claude Code plugin agents |
 | [Agent Evaluation](agent-evaluation.md) | Designs and runs versioned tests to catch agent failures before production. |
+| [Agent Evolution Optimizer](agent-evolution-optimizer.md) | Runs automated solve-observe-evolve loops to optimize any AI agent against a benchmark. |
 | [Agent Instruction Auditor](agent-instruction-auditor.md) | Audits named agent instruction files and prompts for ambiguity, conflicts, and schema gaps, reporting finding codes and locations. |
 | [Agent Memory Systems](agent-memory-systems.md) | Design layered memory architectures for persistent agent systems |
 | [Agent Messaging](agent-messaging.md) | Send and receive cryptographically signed messages between AI agents using AMP. No external dependencies needed for basic messaging. Install the AMP C |
@@ -54,6 +55,7 @@ Work with language models, agents and their plumbing. 254 Grok Bot templates, 23
 | [Bdi Mental States](bdi-mental-states.md) | Model agent mental states as beliefs, desires, and intentions using BDI ontology patterns. |
 | [Bdistill Behavioral Xray](bdistill-behavioral-xray.md) | Probe your own behavioral patterns across 6 dimensions and generate a visual HTML report. |
 | [Blockrun](blockrun.md) | Routes requests to external AI models when you lack capabilities like image generation or real-time X data. |
+| [Bounded Grade Iterate](bounded-grade-iterate.md) | Grades an agent against a rubric, iterates within a cap, and runs held-back evals. |
 | [Call Center AI Integrator](../../customer-support/generative-ai-and-llm/call-center-ai-integrator.md) | Integrates AI into call center systems, trains models, monitors performance, and automates workflows. |
 | [Caveman Compression Mode](caveman-compression-mode.md) | Rewrites your replies in terse caveman style, keeping every technical detail and cutting filler. |
 | [Channel Greeter](channel-greeter.md) | Greets new channels and introduces your capabilities without overwhelming them. |
@@ -73,6 +75,7 @@ Work with language models, agents and their plumbing. 254 Grok Bot templates, 23
 | [Context Window Management](context-window-management.md) | Manage LLM context windows by summarizing, trimming, and routing content to prevent token overflow. |
 | [Conversation Memory](conversation-memory.md) | Store, retrieve, and consolidate user-specific memories across sessions for conversational AI. No sharing between users. No raw conversation storage. |
 | [Crewai](crewai.md) | Designs collaborative AI agent teams with CrewAI framework |
+| [Cursor Provider Installer](cursor-provider-installer.md) | Installs and configures Cursor as the agent provider for NanoClaw groups. |
 | [Daily](daily.md) | Build real-time voice and multimodal AI agents with Pipecat. |
 | [Data Remediation Engineer](data-remediation-engineer.md) | Intercepts anomalous data rows, clusters them semantically, and generates auditable local-AI fix logic with zero data loss. |
 | [Delegating To Agents](delegating-to-agents.md) | Delegate bounded work to other AI agents with full context and progress checks. |
@@ -153,6 +156,7 @@ Work with language models, agents and their plumbing. 254 Grok Bot templates, 23
 | [Loopy](loopy.md) | Discover, craft, audit, and publish bounded AI-agent loops from engineering work. |
 | [LoRA QLoRA Configurator](lora-qlora-configurator.md) | Configures LoRA/QLoRA supervised fine-tuning with validated hyperparameters. |
 | [Machine Learning Engineer](machine-learning-engineer.md) | Deploy and optimize ML models for production inference at scale. |
+| [Managed Agent Lifecycle Orchestrator](managed-agent-lifecycle-orchestrator.md) | Builds, launches, grades, and schedules your managed agents in your Anthropic account. |
 | [Mcp Builder Ms](mcp-builder-ms.md) | Build MCP servers that integrate external APIs or services for LLMs. |
 | [Mcp Developer](mcp-developer.md) | Build, debug, and publish MCP servers and tools for AI agent integration. |
 | [Mcp Integration Engineer](mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
@@ -189,6 +193,7 @@ Work with language models, agents and their plumbing. 254 Grok Bot templates, 23
 | [Odw](odw.md) | Plan-first multi-agent workflows with parallel agents and adversarial verification via local daemon. |
 | [Ollama Integration Manager](ollama-integration-manager.md) | Connects the agent to local Ollama models for inference and optional model library management. |
 | [OpenCode Provider Installer](opencode-provider-installer.md) | Configures OpenCode as an agent provider for NanoClaw containers. |
+| [OpenPI Fine-Tuning](openpi-fine-tuning.md) | Fine-tune and serve OpenPI robot policies (pi0, pi0-fast, pi0.5) on custom datasets. |
 | [Optimization Awq](optimization-awq.md) | Quantizes large language models to 4-bit with minimal accuracy loss for faster inference on limited GPU memory. |
 | [Optimization Bitsandbytes](optimization-bitsandbytes.md) | Quantizes LLMs to 8-bit or 4-bit to cut memory use by 50-75% for fitting larger models or faster inference. |
 | [Optimization Flash Attention](optimization-flash-attention.md) | Optimizes transformer attention with Flash Attention for 2-4x speedup and 10-20x memory reduction on long sequences. |
@@ -211,6 +216,7 @@ Work with language models, agents and their plumbing. 254 Grok Bot templates, 23
 | [Post Training Trl Fine Tuning](post-training-trl-fine-tuning.md) | Fine-tune LLMs with reinforcement learning using TRL for alignment and preference optimization. |
 | [Post Training Verl](post-training-verl.md) | Guides reinforcement learning post-training of LLMs using the verl library. |
 | [Project Development](project-development.md) | Evaluate task-model fit, design pipeline architectures, and iterate with LLM agents. |
+| [Project Wrap-Up](project-wrap-up.md) | Close out a launched agent: recap what you own, refresh the overview page, and suggest next upgrades. |
 | [Prompt Caching](prompt-caching.md) | Analyzes LLM prompts and responses to recommend caching strategies that reduce costs and latency. |
 | [Prompt Engineering Outlines](prompt-engineering-outlines.md) | Guarantee valid JSON, XML, or code structure from local LLMs using Outlines. |
 | [Prompt Governance](prompt-governance.md) | Version, evaluate and safely promote production prompts with a registry, golden datasets and rollback. |
@@ -236,6 +242,7 @@ Work with language models, agents and their plumbing. 254 Grok Bot templates, 23
 | [Slack Agent Room Opener](slack-agent-room-opener.md) | Opens Slack group DMs where your bots talk to each other and to you, safely. |
 | [Slack Team Coordinator](slack-team-coordinator.md) | Manages Slack sibling agents: one room per team, introductions, and bot-to-bot limits. |
 | [Stable Baselines3](stable-baselines3.md) | Trains RL agents using Stable Baselines3 with custom environments and callbacks. No experimentation without approval. Reports exact metrics. Never sen |
+| [Stage Launch Orchestrator](stage-launch-orchestrator.md) | Launches a validated agent build with your own API key, safely and resumably. |
 | [Superpowers Lab](superpowers-lab.md) | Lab environment for Claude superpowers experiments and guided workflows. |
 | [Team Communication Coordinator](team-communication-coordinator.md) | Coordinates agent team messaging, plan approvals, and graceful shutdowns. |
 | [Template Issue](skill-issue.md) | Grade coding-agent capabilities A–F on activation, simulate prompt matching, and flag collision clusters. |

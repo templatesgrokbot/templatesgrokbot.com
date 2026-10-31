@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 362 Grok Bot templates, 245 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 363 Grok Bot templates, 246 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -231,6 +231,7 @@ Clean, query, chart and explain data. 362 Grok Bot templates, 245 of them filed 
 | [Open-Ended Response Coder](../../marketing/data-analysis/open-ended-response-coder.md) | Turns open-ended survey answers into an approved code frame, coded data and theme counts. |
 | [Optimization Modeling Assistant](../../it-and-development/data-analysis/optimization-modeling-assistant.md) | Builds and refines optimization models for data analysts, from formulation to insight. |
 | [Oral Health Analyzer](../../healthcare/data-analysis/oral-health-analyzer.md) | Analyze oral health data to identify risks and provide personalized care advice. |
+| [Pandas Data Wrangler](pandas-data-wrangler.md) | Performs efficient pandas DataFrame operations for data analysis, manipulation, and transformation. |
 | [Pathml](../../healthcare/data-analysis/pathml.md) | Analyze whole-slide pathology images and multiparametric imaging data. |
 | [Peer Review Replication Assistant](peer-review-replication-assistant.md) | Rebuild a paper's data and model, match its coefficients, and explain every difference with evidence. |
 | [Performance Analysis Assistant](../../it-and-development/data-analysis/performance-analysis-assistant.md) | Turns performance data into clear insights, forecasts, and actionable recommendations for systems analysts. |

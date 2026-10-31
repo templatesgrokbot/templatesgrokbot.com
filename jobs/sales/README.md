@@ -37,11 +37,11 @@ Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for thi
 | [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
 | [Sales Methodology Implementer](sales-and-negotiation/sales-methodology-implementer.md) | Implements proven sales methodologies (MEDDIC, BANT, Sandler, Challenger, SPIN) across your team. |
 | [Proposal Customization Assistant](sales-and-negotiation/proposal-customization-assistant.md) | Customizes sales proposals to fit each client's needs and brand. |
-| [Pharma Health Economics Insight](sales-and-negotiation/pharma-health-economics-insight.md) | Turns health economics data into sales-ready insights for pharmaceutical reps. |
 | [Deal Momentum Analyzer](sales-and-negotiation/deal-momentum-analyzer.md) | Score deal velocity and predict close probability from engagement patterns. |
-| [Territory Planning Optimizer](sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
+| [Pharma Health Economics Insight](sales-and-negotiation/pharma-health-economics-insight.md) | Turns health economics data into sales-ready insights for pharmaceutical reps. |
 | [Client Communication Assistant](../real-estate-and-construction/sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
-| [Sales Incentive Plan Designer](sales-and-negotiation/sales-incentive-plan-designer.md) | Designs and manages sales incentive plans from data analysis to rollout. |
+| [Territory Planning Optimizer](sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
+| [Freight Dispute Resolution Assistant](sales-and-negotiation/freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
 
 [All 209 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
@@ -64,8 +64,8 @@ Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for thi
 
 | Template | What it does |
 |---|---|
-| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
+| [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
 | [Page Cro](../marketing/marketing-and-growth/page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Cro](../marketing/marketing-and-growth/cro.md) | Analyze marketing pages and forms to improve conversion rates with actionable recommendations. |
@@ -81,12 +81,12 @@ Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for thi
 |---|---|
 | [Crypto Bd Agent](research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Salary Negotiation Prep](../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
+| [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
 | [Persona Workshop Facilitator](../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Deepapi](../operations/research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
-| [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
-| [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Apify Market Research](../marketing/research/apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
-| [Partnership Pipeline Researcher](../executives-and-strategy/research/partnership-pipeline-researcher.md) | Finds and vets partners, events, and outreach for your business development pipeline. |
+| [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
+| [Technology Adoption Advisor](research/technology-adoption-advisor.md) | Guides CSOs through technology evaluation and adoption, from research to roadmap. |
 
 [All 39 Research templates →](research/README.md)
 
@@ -116,7 +116,7 @@ Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for thi
 | [SaaS Demo Script Writer](writing-and-content/saas-demo-script-writer.md) | Turns product features into a demo script with a clear problem, workflow, payoff and next step. |
 | [Cover Letter Generator](../human-resources/writing-and-content/cover-letter-generator.md) | Generates personalized cover letters from a resume and job description. |
 | [Sales Enablement Content Crafter](writing-and-content/sales-enablement-content-crafter.md) | Builds and refreshes sales training content from research to assessments. |
-| [Marketing Content Creator](writing-and-content/marketing-content-creator.md) | Plans, writes, and repurposes marketing content across channels with AI assistance. |
+| [Email Composer](../operations/writing-and-content/email-composer.md) | Drafts professional emails for business, technical, and customer contexts. |
 
 [All 19 Writing & Content templates →](writing-and-content/README.md)
 
@@ -140,8 +140,8 @@ Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for thi
 | Template | What it does |
 |---|---|
 | [Social Media Strategy Optimizer](social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
-| [Whatsapp Automation](../marketing/social-media/whatsapp-automation.md) | Automate WhatsApp Business messaging, templates, media, and contacts via Rube MCP. |
 | [Digital Crisis Management Assistant](social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
+| [Whatsapp Automation](../marketing/social-media/whatsapp-automation.md) | Automate WhatsApp Business messaging, templates, media, and contacts via Rube MCP. |
 | [LinkedIn Engager Analyzer](social-media/linkedin-engager-analyzer.md) | Pulls who liked or commented on your LinkedIn posts and segments them by ICP fit. |
 | [LinkedIn Thread Monitor](social-media/linkedin-thread-monitor.md) | Tracks your LinkedIn comments for author replies and flags the best window to respond. |
 | [Linkedin Cli](../marketing/social-media/linkedin-cli.md) | Automate LinkedIn tasks like profile fetching, messaging, and posting via CLI. |
@@ -179,8 +179,8 @@ Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for thi
 
 | Template | What it does |
 |---|---|
-| [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
 | [BD Executive Presentation Architect](../executives-and-strategy/office-tools/bd-executive-presentation-architect.md) | Prepares polished, audience-tailored presentations for business development leaders. |
+| [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
 | [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
 | [Product Presentation Enhancer](office-tools/product-presentation-enhancer.md) | Elevates product presentations for sales VPs with AI-driven content, design, and engagement tools. |
 | [Sales Report Distributor](office-tools/sales-report-distributor.md) | Sends each sales rep their territory report on schedule and logs every delivery. |

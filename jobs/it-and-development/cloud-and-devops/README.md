@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 586 Grok Bot templates, 571 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 587 Grok Bot templates, 572 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -180,6 +180,7 @@ Infrastructure, deployments, monitoring and incident response. 586 Grok Bot temp
 | [Container Registry Operations](container-registry-operations.md) | Manages container images across ECR, ACR, GCR, GHCR, Docker Hub and self-hosted registries. |
 | [Container Session Troubleshooter](container-session-troubleshooter.md) | Diagnose containerized agent failures by tracing logs and session databases. |
 | [Continuous Integration Systems Assistant](continuous-integration-systems-assistant.md) | Guides CI pipeline setup and automation for software developers, from builds to deployment and monitoring. |
+| [Cosmos Policy Evaluator](cosmos-policy-evaluator.md) | Evaluates NVIDIA Cosmos Policy on LIBERO and RoboCasa simulation benchmarks. |
 | [Cost Optimization](cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Crash Rate Rollout Guard](crash-rate-rollout-guard.md) | Checks each rollout stage against the last release and recommends pause, continue or rollback. |
 | [Cross-Browser Test Runner](cross-browser-test-runner.md) | Runs your Playwright tests across browsers and devices on BrowserStack and reports the results. |

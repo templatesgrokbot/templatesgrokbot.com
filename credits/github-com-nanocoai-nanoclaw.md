@@ -1,6 +1,6 @@
 # Credits: github.com/nanocoai/nanoclaw
 
-45 TemplatesGrokBot templates are adapted from work published at [github.com/nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+46 TemplatesGrokBot templates are adapted from work published at [github.com/nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -10,6 +10,7 @@
 | [CLI Dashboard Setup](../jobs/it-and-development/cloud-and-devops/cli-dashboard-setup.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-clidash) | [MIT](../LICENSES/MIT.md) |
 | [Codex Provider Installer](../jobs/it-and-development/generative-ai-and-llm/codex-provider-installer.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-codex) | [MIT](../LICENSES/MIT.md) |
 | [Container Session Troubleshooter](../jobs/it-and-development/cloud-and-devops/container-session-troubleshooter.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/debug) | [MIT](../LICENSES/MIT.md) |
+| [Cursor Provider Installer](../jobs/it-and-development/generative-ai-and-llm/cursor-provider-installer.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-cursor) | [MIT](../LICENSES/MIT.md) |
 | [DeltaChat Channel Integrator](../jobs/it-and-development/coding/deltachat-channel-integrator.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-deltachat) | [MIT](../LICENSES/MIT.md) |
 | [Dial Number Adder](../jobs/it-and-development/generative-ai-and-llm/dial-number-adder.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-dial-number) | [MIT](../LICENSES/MIT.md) |
 | [Dial Tool Installer](../jobs/it-and-development/generative-ai-and-llm/dial-tool-installer.md) | [original](https://github.com/nanocoai/nanoclaw/tree/main/.claude/skills/add-dial-tool) | [MIT](../LICENSES/MIT.md) |

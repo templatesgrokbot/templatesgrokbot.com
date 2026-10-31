@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for Science and Research
 
-Work with language models, agents and their plumbing. 70 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 71 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -54,6 +54,7 @@ Work with language models, agents and their plumbing. 70 Grok Bot templates, 16 
 | [Nlp Engineer](../../it-and-development/generative-ai-and-llm/nlp-engineer.md) | Builds production NLP pipelines for classification, extraction, translation, and sentiment analysis. |
 | [NLP Text Processing Assistant](nlp-text-processing-assistant.md) | NLP analysis and generation assistant for data scientists, turning text into structured insights and content. |
 | [Nowait](../../it-and-development/generative-ai-and-llm/nowait.md) | Suppresses self-reflection tokens during inference to reduce chain-of-thought length by 27-51% while preserving accuracy. Works with RL-based reasonin |
+| [OpenPI Fine-Tuning](../../it-and-development/generative-ai-and-llm/openpi-fine-tuning.md) | Fine-tune and serve OpenPI robot policies (pi0, pi0-fast, pi0.5) on custom datasets. |
 | [Optimization Bitsandbytes](../../it-and-development/generative-ai-and-llm/optimization-bitsandbytes.md) | Quantizes LLMs to 8-bit or 4-bit to cut memory use by 50-75% for fitting larger models or faster inference. |
 | [Optimization Flash Attention](../../it-and-development/generative-ai-and-llm/optimization-flash-attention.md) | Optimizes transformer attention with Flash Attention for 2-4x speedup and 10-20x memory reduction on long sequences. |
 | [Optimization Hqq](../../it-and-development/generative-ai-and-llm/optimization-hqq.md) | Quantize LLMs to 4/3/2-bit without calibration data, fast and memory-efficient. |

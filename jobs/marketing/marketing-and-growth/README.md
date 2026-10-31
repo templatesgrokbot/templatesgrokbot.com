@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 498 Grok Bot templates, 291 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 499 Grok Bot templates, 292 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -298,6 +298,7 @@ Campaigns, ads, conversion and launch plans. 498 Grok Bot templates, 291 of them
 | [Marketing Content Ideation Assistant](../../executives-and-strategy/marketing-and-growth/marketing-content-ideation-assistant.md) | Generates and refines content ideas, outlines, and scripts for marketing campaigns. |
 | [Marketing Content Strategist](../../executives-and-strategy/marketing-and-growth/marketing-content-strategist.md) | Builds and refines your content strategy from research to performance analysis. |
 | [Marketing Conversion Insight Drafts](../../sales/marketing-and-growth/marketing-conversion-insight-drafts.md) | Analyzes conversion data and generates optimization recommendations for digital marketing managers. |
+| [Marketing Council Convener](marketing-council-convener.md) | Simulated board of legendary marketers giving conflicting takes and a synthesis for your marketing decisions. |
 | [Marketing Decision Framework](marketing-decision-framework.md) | Turns marketing questions into a verdict with the reasoning and the number that settles it. |
 | [Marketing Demand Acquisition](marketing-demand-acquisition.md) | Generates and optimizes multi-channel demand for B2B SaaS startups scaling internationally. |
 | [Marketing File Insight Analyst](../../executives-and-strategy/marketing-and-growth/marketing-file-insight-analyst.md) | Turns your uploaded files into tailored analyses and conversions for marketing decisions. |

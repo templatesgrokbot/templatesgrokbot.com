@@ -1,6 +1,6 @@
 # Knowledge Management templates for Executives and Strategy
 
-Notes, documents, PDFs and knowledge bases kept in order. 9 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 11 Grok Bot templates, 10 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,8 @@ Notes, documents, PDFs and knowledge bases kept in order. 9 Grok Bot templates, 
 | [Acquisition Diligence Request Tracker](acquisition-diligence-request-tracker.md) | Reads new data-room documents and maps which diligence requests are answered, partly answered or contradicted. |
 | [Board Governance Register](board-governance-register.md) | Turns board meetings, resolutions and actions into one tracked register with owners and due dates. |
 | [Board Pack Review Assistant](board-pack-review-assistant.md) | Reads your board pack against the last one and drafts page-referenced questions for you to choose from. |
+| [C-Suite Onboarding](c-suite-onboarding.md) | Guides founders through a structured onboarding interview to build a persistent company context file for all C-suite advisors. |
+| [Company Architect](company-architect.md) | Guides founders through a 12-phase interview to build their company as a version-controlled markdown knowledge base. |
 | [Company Context Interview](company-context-interview.md) | Interviews you once and keeps a durable company context file that every advisor reads before answering. |
 | [Conference Insight Router](conference-insight-router.md) | Turns conference notes and badge scans into routed, checked insights owners act on. |
 | [Decision Logger](decision-logger.md) | Turns an approved board memo into a durable decision record with preserved dissent and a review date. |
