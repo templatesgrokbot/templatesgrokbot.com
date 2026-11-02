@@ -66,8 +66,8 @@ Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for thi
 |---|---|
 | [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
 | [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
-| [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
 | [Page Cro](../marketing/marketing-and-growth/page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
+| [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
 | [Cro](../marketing/marketing-and-growth/cro.md) | Analyze marketing pages and forms to improve conversion rates with actionable recommendations. |
 | [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Pitch Psychologist](../marketing/marketing-and-growth/pitch-psychologist.md) | Structure sales pitches using psychological sequencing to build desire before solution. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **899 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **906 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,17 +12,17 @@ Scientists, analysts and academic researchers. **899 ready-made Grok Bot templat
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 363 |
-| [Research](research/README.md) | 245 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 71 |
+| [Research](research/README.md) | 247 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 73 |
 | [Security & Compliance](security-and-compliance/README.md) | 50 |
 | [Coding](coding/README.md) | 44 |
 | [Productivity](productivity/README.md) | 41 |
-| [Writing & Content](writing-and-content/README.md) | 22 |
+| [Writing & Content](writing-and-content/README.md) | 23 |
+| [Knowledge Management](knowledge-management/README.md) | 16 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 15 |
-| [Knowledge Management](knowledge-management/README.md) | 15 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
 | [Design](design/README.md) | 7 |
-| [Office Tools](office-tools/README.md) | 4 |
+| [Office Tools](office-tools/README.md) | 5 |
 | [Support & Community](support-and-community/README.md) | 3 |
 | [Self-Improvement](self-improvement/README.md) | 2 |
 | [Generative Art](generative-art/README.md) | 1 |
@@ -52,15 +52,15 @@ Scientists, analysts and academic researchers. **899 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Labarchive Integration](research/labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
+| [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
-| [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
+| [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
 | [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
 | [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
-| [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
 | [Clinvar Database](research/clinvar-database.md) | Query ClinVar for variant clinical significance and pathogenicity classifications. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 
-[All 245 Research templates →](research/README.md)
+[All 247 Research templates →](research/README.md)
 
 ## Generative AI and LLM
 
@@ -75,7 +75,7 @@ Scientists, analysts and academic researchers. **899 ready-made Grok Bot templat
 | [Post Training Verl](../it-and-development/generative-ai-and-llm/post-training-verl.md) | Guides reinforcement learning post-training of LLMs using the verl library. |
 | [Langfuse](../it-and-development/generative-ai-and-llm/langfuse.md) | Instrument LLM apps with Langfuse tracing, evaluation, and prompt management. |
 
-[All 71 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
+[All 73 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
 ## Security & Compliance
 
@@ -86,9 +86,9 @@ Scientists, analysts and academic researchers. **899 ready-made Grok Bot templat
 | [R&D Regulatory Navigator](../product-development/security-and-compliance/r-d-regulatory-navigator.md) | Regulatory compliance guidance for R&D engineers: research, interpret, document, monitor, audit, train. |
 | [Chemical Safety Documentation Assistant](security-and-compliance/chemical-safety-documentation-assistant.md) | Keeps lab chemical safety documents current and ready for review. |
 | [Chemical Safety Information Manager](security-and-compliance/chemical-safety-information-manager.md) | Manages chemical safety data, procedures, and compliance for biochemistry labs. |
-| [Laboratory Safety and Protocol Design Assistant](security-and-compliance/laboratory-safety-and-protocol-design-assistant.md) | Designs and maintains lab safety protocols, training, and compliance for microbiologists. |
 | [Consultant Compliance Research](security-and-compliance/consultant-compliance-research.md) | Environmental compliance research, audits, permits, training, and reporting support for consultants. |
-| [Biohazard Safety Protocol Assistant](security-and-compliance/biohazard-safety-protocol-assistant.md) | Biohazard management assistant for laboratory technicians: protocols, labels, training, and risk assessment. |
+| [Laboratory Safety and Protocol Design Assistant](security-and-compliance/laboratory-safety-and-protocol-design-assistant.md) | Designs and maintains lab safety protocols, training, and compliance for microbiologists. |
+| [Lab Safety Checklist Generator](security-and-compliance/lab-safety-checklist-generator.md) | Generates and verifies lab safety compliance checklists for laboratory technicians. |
 
 [All 50 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -99,11 +99,11 @@ Scientists, analysts and academic researchers. **899 ready-made Grok Bot templat
 | [Distributed Training Pytorch Lightning](../it-and-development/coding/distributed-training-pytorch-lightning.md) | Converts PyTorch code into Lightning modules and trains them with automatic distributed scaling. |
 | [Binary Analysis Patterns](../it-and-development/coding/binary-analysis-patterns.md) | Analyze compiled binaries, assembly code, and reconstruct program logic. |
 | [Sql Pro](../it-and-development/coding/sql-pro.md) | Optimize SQL queries, design schemas, and tune performance for cloud-native and hybrid databases. |
-| [Qiskit](../it-and-development/coding/qiskit.md) | Build, optimize, and run quantum circuits on simulators or IBM Quantum hardware. |
 | [Claude D3.js](../it-and-development/coding/claude-d3js-skill.md) | Create custom interactive D3.js visualizations for any JavaScript environment. |
+| [Qiskit](../it-and-development/coding/qiskit.md) | Build, optimize, and run quantum circuits on simulators or IBM Quantum hardware. |
 | [Pennylane](../it-and-development/coding/pennylane.md) | Build and train quantum circuits with automatic differentiation across simulators and hardware. |
-| [Pytorch Lightning](../it-and-development/coding/pytorch-lightning.md) | Organize PyTorch code into LightningModules and configure Trainers for scalable neural network training. |
 | [Pylabrobot](../it-and-development/coding/pylabrobot.md) | Controls lab robots and equipment from Python scripts. |
+| [Pytorch Lightning](../it-and-development/coding/pytorch-lightning.md) | Organize PyTorch code into LightningModules and configure Trainers for scalable neural network training. |
 
 [All 44 Coding templates →](coding/README.md)
 
@@ -131,11 +131,26 @@ Scientists, analysts and academic researchers. **899 ready-made Grok Bot templat
 | [Technical Documentation Assistant](../product-development/writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
 | [Scientific Writing](writing-and-content/scientific-writing.md) | Drafts full-paragraph scientific manuscripts using IMRAD structure with verified citations and figures. |
 | [Latex Paper Conversion](writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
-| [Permit-Ready EIA Report Builder](writing-and-content/permit-ready-eia-report-builder.md) | Supports environmental consultants with impact assessments from data collection to permit-ready reports. |
 | [Stakeholder Engagement Strategist](writing-and-content/stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
+| [Permit-Ready EIA Report Builder](writing-and-content/permit-ready-eia-report-builder.md) | Supports environmental consultants with impact assessments from data collection to permit-ready reports. |
 | [Grant Proposal Support Assistant](writing-and-content/grant-proposal-support-assistant.md) | Finds funding, drafts, budgets, reviews, and aligns grant proposals for research projects. |
 
-[All 22 Writing & Content templates →](writing-and-content/README.md)
+[All 23 Writing & Content templates →](writing-and-content/README.md)
+
+## Knowledge Management
+
+| Template | What it does |
+|---|---|
+| [Compile Knowledge](../it-and-development/knowledge-management/compile-knowledge.md) | Compile durable, non-obvious findings into interlinked markdown knowledge files with an index. |
+| [Data Storage and Management Assistant](knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
+| [Laboratory SOP Manager](knowledge-management/laboratory-sop-manager.md) | Creates, reviews, and manages lab SOPs with version control and compliance checks. |
+| [Obsidian Second Brain Maintainer](knowledge-management/obsidian-second-brain-maintainer.md) | Ingests sources into a persistent Obsidian wiki, keeps entity and concept pages cross-referenced, and maintains a current synthesis. |
+| [Oral History Index Builder](knowledge-management/oral-history-index-builder.md) | Indexes interview transcripts with standardized names and flags passages that break consent terms. |
+| [Antibody Lot Validation Tracker](knowledge-management/antibody-lot-validation-tracker.md) | Keeps a validation record for every antibody lot and flags uses that are not validated. |
+| [Protocol Version Aligner](knowledge-management/protocol-version-aligner.md) | Keeps every working file citing the current approved protocol version, and routes procedure changes to the investigator. |
+| [Knowledge Network Steward](knowledge-management/knowledge-network-steward.md) | Turns your notes into an atomic, well-linked knowledge network and closes every task with a validation pass. |
+
+[All 16 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Cloud & DevOps
 
@@ -151,21 +166,6 @@ Scientists, analysts and academic researchers. **899 ready-made Grok Bot templat
 | [Unified Memory Thermal Planner](../it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
 
 [All 15 Cloud & DevOps templates →](cloud-and-devops/README.md)
-
-## Knowledge Management
-
-| Template | What it does |
-|---|---|
-| [Compile Knowledge](../it-and-development/knowledge-management/compile-knowledge.md) | Compile durable, non-obvious findings into interlinked markdown knowledge files with an index. |
-| [Data Storage and Management Assistant](knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
-| [Laboratory SOP Manager](knowledge-management/laboratory-sop-manager.md) | Creates, reviews, and manages lab SOPs with version control and compliance checks. |
-| [Obsidian Second Brain Maintainer](knowledge-management/obsidian-second-brain-maintainer.md) | Ingests sources into a persistent Obsidian wiki, keeps entity and concept pages cross-referenced, and maintains a current synthesis. |
-| [Oral History Index Builder](knowledge-management/oral-history-index-builder.md) | Indexes interview transcripts with standardized names and flags passages that break consent terms. |
-| [Antibody Lot Validation Tracker](knowledge-management/antibody-lot-validation-tracker.md) | Keeps a validation record for every antibody lot and flags uses that are not validated. |
-| [Protocol Version Aligner](knowledge-management/protocol-version-aligner.md) | Keeps every working file citing the current approved protocol version, and routes procedure changes to the investigator. |
-| [Knowledge Network Steward](knowledge-management/knowledge-network-steward.md) | Turns your notes into an atomic, well-linked knowledge network and closes every task with a validation pass. |
-
-[All 15 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Teaching & Tutoring
 
@@ -202,6 +202,7 @@ Scientists, analysts and academic researchers. **899 ready-made Grok Bot templat
 | [Excel Automation](../finance/office-tools/excel-automation.md) | Automates live Excel workbooks and reports through xlwings, with every write and export approved first. |
 | [Swiss International Deck Builder](office-tools/swiss-international-deck-builder.md) | Turns your content into a strict Swiss International style HTML deck with locked layouts. |
 | [PDF Table Extractor](../finance/office-tools/pdf-table-extractor.md) | Extracts tables from PDFs into clean spreadsheets, checking accuracy and flagging anything doubtful. |
+| [Conference Talk Slides](office-tools/conference-talk-slides.md) | Turns a compiled research paper into conference slides with speaker notes and a talk script. |
 
 ## Support & Community
 

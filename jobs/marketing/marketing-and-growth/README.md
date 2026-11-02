@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 499 Grok Bot templates, 292 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 500 Grok Bot templates, 293 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -405,6 +405,7 @@ Campaigns, ads, conversion and launch plans. 499 Grok Bot templates, 292 of them
 | [Scarcity Urgency Psychologist](scarcity-urgency-psychologist.md) | Design genuine scarcity and urgency that motivates action without manipulation. |
 | [Search Ai Optimization Expert](search-ai-optimization-expert.md) | Optimize websites and content for search engines, answer engines, and generative AI systems. |
 | [Search Console Analysis: Find Quick Wins](search-console-analyse.md) | Finds quick SEO wins in your Google Search Console export with concrete URLs and fixes. |
+| [Search Experience Optimizer](search-experience-optimizer.md) | Audits the path from search result to on-page conversion and fixes what makes visitors bounce. |
 | [Search Ranking Fixer](../../sales/marketing-and-growth/search-ranking-fixer.md) | Optimizes your website's search ranking with keyword research, content, and technical fixes. |
 | [Seasonal Promotion Asset Pack](seasonal-promotion-asset-pack.md) | Builds and tests a promotion asset pack for each partner type, then waits for approval before sending. |
 | [Segment Growth Architect](../../executives-and-strategy/marketing-and-growth/segment-growth-architect.md) | Turns customer data into actionable market segments and growth strategies for business development. |

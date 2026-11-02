@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1139 Grok Bot templates, 1130 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1140 Grok Bot templates, 1131 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -1037,6 +1037,7 @@ Write, review, test and debug software. 1139 Grok Bot templates, 1130 of them fi
 | [Test Framework Migration](test-framework-migration-skill.md) | Migrates test scripts between Selenium, Playwright, Puppeteer, and Cypress with API mapping and lifecycle conversion. |
 | [Test Generator](test-generator.md) | Analyzes code changes and generates comprehensive test cases following project conventions. |
 | [Test Guard](test-guard.md) | Enforce universal testing rules on generated or changed test code before it ships. |
+| [Test Master](test-master.md) | Plans, writes, and reports on software tests across functional, performance, and security testing. |
 | [Test Runner](test-runner.md) | Runs your project's test suite, diagnoses failures, and suggests fixes until all tests pass. |
 | [Testing Patterns](testing-patterns.md) | Generates Jest unit tests with factories, mocks, and TDD workflow. |
 | [Testing Qa](testing-qa.md) | Comprehensive testing and QA workflow for production-ready software. |

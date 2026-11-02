@@ -1,6 +1,6 @@
 # Credits: github.com/nowork-studio/notfair-plugin
 
-19 TemplatesGrokBot templates are adapted from work published at [github.com/nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+20 TemplatesGrokBot templates are adapted from work published at [github.com/nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -21,6 +21,7 @@
 | [Paid Ads Setup](../jobs/marketing/marketing-and-growth/paid-ads-setup.md) | [original](https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-setup) | [MIT](../LICENSES/MIT.md) |
 | [Paid Media Reviewer](../jobs/marketing/marketing-and-growth/paid-media-reviewer.md) | [original](https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-review) | [MIT](../LICENSES/MIT.md) |
 | [Reddit Ads Auditor](../jobs/marketing/marketing-and-growth/reddit-ads-auditor.md) | [original](https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-reddit) | [MIT](../LICENSES/MIT.md) |
+| [Search Experience Optimizer](../jobs/marketing/marketing-and-growth/search-experience-optimizer.md) | [original](https://github.com/nowork-studio/notfair-plugin/tree/main/seo/sxo) | [MIT](../LICENSES/MIT.md) |
 | [TikTok Ads Auditor](../jobs/marketing/marketing-and-growth/tiktok-ads-auditor.md) | [original](https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-tiktok) | [MIT](../LICENSES/MIT.md) |
 | [X Ads Auditor](../jobs/marketing/marketing-and-growth/x-ads-auditor.md) | [original](https://github.com/nowork-studio/notfair-plugin/tree/main/paid-ads/paid-ads-x) | [MIT](../LICENSES/MIT.md) |
 

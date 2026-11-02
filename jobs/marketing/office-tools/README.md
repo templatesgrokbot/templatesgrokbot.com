@@ -1,6 +1,6 @@
 # Office Tools templates for Marketing
 
-Spreadsheets, documents, slides, email and calendars. 13 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
+Spreadsheets, documents, slides, email and calendars. 14 Grok Bot templates, 6 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,5 +19,6 @@ Spreadsheets, documents, slides, email and calendars. 13 Grok Bot templates, 5 o
 | [Pptx Deck Creation](pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
 | [Pptx Official](../../operations/office-tools/pptx-official.md) | Create, edit, and QA PowerPoint decks from templates or scratch with visual checks. |
 | [Presentation Deck Builder](../../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
+| [Slide Deck Generator](slide-deck-generator.md) | Turns your content into polished slide deck images for sharing. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

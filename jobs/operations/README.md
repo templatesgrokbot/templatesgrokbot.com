@@ -42,12 +42,12 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 |---|---|
 | [Power Bi Performance Expert](../it-and-development/data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
 | [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
-| [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Podcast Content Analyzer](data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
+| [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Monte Carlo Performance Diagnosis](../it-and-development/data-analysis/monte-carlo-performance-diagnosis.md) | Diagnoses pipeline performance issues using Monte Carlo observability data. |
-| [Forecast Accuracy Review](data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
+| [Forecast Accuracy Review](data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 
 [All 644 Data Analysis templates →](data-analysis/README.md)
 
@@ -70,14 +70,14 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 
 | Template | What it does |
 |---|---|
+| [Zapier Make Patterns](../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Kubernetes Architect](../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
 | [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
-| [Zapier Make Patterns](../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Monitoring Specialist](../it-and-development/cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
 | [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
 | [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
-| [Server Management](../it-and-development/cloud-and-devops/server-management.md) | Guides server management decisions without running commands. |
+| [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
 
 [All 241 Cloud & DevOps templates →](cloud-and-devops/README.md)
 
@@ -91,8 +91,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Hazardous Material Management Assistant](security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
 | [Regulatory Compliance Guidance Assistant](../product-development/security-and-compliance/regulatory-compliance-guidance-assistant.md) | Guides process engineers through regulatory compliance research, documentation, reporting, training, audits, and risk management. |
 | [Windows Ad](../it-and-development/security-and-compliance/windows-ad.md) | Run authorized Active Directory attacks: Kerberos, AD CS, BloodHound, NTLM relay. |
-| [Chemical Compliance Assistant](../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
 | [Logistics Compliance Tracker](security-and-compliance/logistics-compliance-tracker.md) | Keeps logistics operations compliant by tracking, analyzing, and communicating regulatory changes. |
+| [Chemical Compliance Assistant](../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
 
 [All 202 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -101,13 +101,13 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | Template | What it does |
 |---|---|
 | [Maxia](research/maxia.md) | Discover, buy, and sell AI agent services on the Solana marketplace. |
-| [Discover Brand Materials](../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
 | [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
+| [Discover Brand Materials](../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
 | [Url Context Validator](../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
 | [Research Orchestrator](../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
 | [Grant Finder](../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
-| [Inventory Technology Integration Guide](research/inventory-technology-integration-guide.md) | Guides inventory specialists through technology integration for inventory control. |
 | [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
+| [Inventory Technology Integration Guide](research/inventory-technology-integration-guide.md) | Guides inventory specialists through technology integration for inventory control. |
 
 [All 93 Research templates →](research/README.md)
 
@@ -117,8 +117,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 |---|---|
 | [Freshservice Automation](../it-and-development/support-and-community/freshservice-automation.md) | Automate Freshservice ITSM: create, update, search tickets and service requests. |
 | [Contract Query Resolution Assistant](../legal/support-and-community/contract-query-resolution-assistant.md) | Resolves contract queries from triage to follow-up, tracking every step and reporting metrics. |
-| [Community Building](support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
 | [Returns Reverse Logistics](support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
+| [Community Building](support-and-community/community-building.md) | Build and manage developer communities on Discord, Slack, or forums. |
 | [Insurance Dispute Resolution Assistant](../customer-support/support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
 | [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
 | [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
@@ -137,7 +137,7 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Launchdarkly Flag Cleanup](../it-and-development/coding/launchdarkly-flag-cleanup.md) | Safely automates LaunchDarkly feature flag removal by verifying readiness and preserving production behavior. |
 | [Closed Loop Delivery](../it-and-development/coding/closed-loop-delivery.md) | Deliver code against acceptance criteria with minimal re-intervention across implementation, review, deploy, and runtime verification. |
 | [Seo Technical](../marketing/coding/seo-technical.md) | Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, and JavaScript rendering. |
-| [Linux Shell Scripting](../it-and-development/coding/linux-shell-scripting.md) | Generates production-ready bash scripts for Linux system administration tasks. |
+| [Jq](../it-and-development/coding/jq.md) | Expert jq patterns for JSON querying, filtering, and shell pipeline integration. |
 
 [All 64 Coding templates →](coding/README.md)
 
@@ -221,8 +221,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | Template | What it does |
 |---|---|
 | [Llm Ops](../it-and-development/generative-ai-and-llm/llm-ops.md) | Designs and operates production RAG pipelines, embeddings, vector DBs, and cost-efficient LLM systems. |
-| [Mcp Integration Engineer](../it-and-development/generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
 | [Azure Ai Contentsafety Py](../it-and-development/generative-ai-and-llm/azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
+| [Mcp Integration Engineer](../it-and-development/generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
 | [Polis Protocol](../it-and-development/generative-ai-and-llm/polis-protocol.md) | Coordinate multi-vendor AI agents as a self-improving team with learning routing and amendable rules. |
 | [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
 | [Machine Learning Engineer](../it-and-development/generative-ai-and-llm/machine-learning-engineer.md) | Deploy and optimize ML models for production inference at scale. |
@@ -237,8 +237,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 |---|---|
 | [Multimodal Whisper](../it-and-development/speech-to-text/multimodal-whisper.md) | Transcribe audio to text using Whisper, supporting 99 languages and translation to English. |
 | [Document Structure Analyzer](../it-and-development/speech-to-text/document-structure-analyzer.md) | Analyzes document layouts and maps content hierarchy before OCR processing. |
-| [Transcribe](speech-to-text/transcribe.md) | Transcribes audio files to text with optional speaker labels. |
 | [Audio Transcriber](speech-to-text/audio-transcriber.md) | Transcribe audio to Markdown with speaker IDs and summaries. |
+| [Transcribe](speech-to-text/transcribe.md) | Transcribes audio files to text with optional speaker labels. |
 | [Ocr Preprocessing Optimizer](../it-and-development/speech-to-text/ocr-preprocessing-optimizer.md) | Optimizes images for maximum OCR accuracy through preprocessing and enhancement. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Visual Analysis Ocr](../it-and-development/speech-to-text/visual-analysis-ocr.md) | Extracts text from images into markdown preserving structure and formatting. |
 | [Transcription Services Assistant](speech-to-text/transcription-services-assistant.md) | Turns audio and video files into accurate, formatted text for data entry specialists. |

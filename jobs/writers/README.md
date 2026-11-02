@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **377 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **378 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,7 +18,7 @@ Authors, copywriters, editors and journalists. **377 ready-made Grok Bot templat
 | [Knowledge Management](knowledge-management/README.md) | 11 |
 | [Productivity](productivity/README.md) | 11 |
 | [Social Media](social-media/README.md) | 10 |
-| [Translation](translation/README.md) | 9 |
+| [Translation](translation/README.md) | 10 |
 | [Design](design/README.md) | 8 |
 | [Office Tools](office-tools/README.md) | 8 |
 | [Coding](coding/README.md) | 5 |
@@ -405,6 +405,7 @@ Authors, copywriters, editors and journalists. **377 ready-made Grok Bot templat
 | [Reviewer Edit Reconciliation](translation/reviewer-edit-reconciliation.md) | Merges two reviewers' edits on one translation into a single consistent version for your approval. |
 | [Source File Quality Check](translation/source-file-quality-check.md) | Finds and settles source file problems before translation begins. |
 | [Term Base Builder](translation/term-base-builder.md) | Extracts candidate terms from client source files and builds an approved, conflict-free term base for your project. |
+| [Translation Assistant](translation/translation-assistant.md) | Translates articles and documents between languages with quick, normal, and refined modes. |
 | [Translation Glossary Enforcer](translation/translation-glossary-enforcer.md) | Checks each finished batch against the client glossary and flags inconsistent or new terms. |
 | [Translation Memory Cleanup Assistant](translation/translation-memory-cleanup-assistant.md) | Finds and fixes the harmful errors in a translation memory, on a copy, with your approval. |
 | [Translation-Ready Source Check](translation/translation-ready-source-check.md) | Checks a source page for translation hazards and confirms it with a sample translation round. |

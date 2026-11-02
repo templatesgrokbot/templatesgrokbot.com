@@ -1,6 +1,6 @@
 # Grok Bot templates for Management
 
-Team leads and project managers. **1,018 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Team leads and project managers. **1,019 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Team leads and project managers. **1,018 ready-made Grok Bot templates** for thi
 
 | Kind of work | Templates |
 |---|---:|
-| [Productivity](productivity/README.md) | 339 |
+| [Productivity](productivity/README.md) | 340 |
 | [Data Analysis](data-analysis/README.md) | 258 |
 | [Research](research/README.md) | 69 |
 | [Security & Compliance](security-and-compliance/README.md) | 57 |
@@ -42,10 +42,10 @@ Team leads and project managers. **1,018 ready-made Grok Bot templates** for thi
 | [Linear Automation](../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
 | [Brainstorming](productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Se Product Manager Advisor](../product-development/productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
-| [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
+| [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 
-[All 339 Productivity templates →](productivity/README.md)
+[All 340 Productivity templates →](productivity/README.md)
 
 ## Data Analysis
 
@@ -57,8 +57,8 @@ Team leads and project managers. **1,018 ready-made Grok Bot templates** for thi
 | [Inventory Demand Planning](../operations/data-analysis/inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+| [Construction Budget Estimator](../real-estate-and-construction/data-analysis/construction-budget-estimator.md) | Estimates construction project budgets and analyzes costs from materials to lifecycle. |
 | [Insurance Finance Reporting Assistant](data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
-| [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
 
 [All 258 Data Analysis templates →](data-analysis/README.md)
 
@@ -130,8 +130,8 @@ Team leads and project managers. **1,018 ready-made Grok Bot templates** for thi
 | [Harvey Specter](../sales/sales-and-negotiation/harvey-specter.md) | Negotiates deals, renewals, and quotes to secure the best realistic price and terms for the owner. |
 | [Vendor Negotiation Assistant](../operations/sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
 | [Deal Review Coach](../sales/sales-and-negotiation/deal-review-coach.md) | Structured deal reviews with MEDDIC, BANT, risk scoring, and coaching. |
-| [Supplier Relationship Manager](sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
 | [GEO Prospect Pipeline](../sales/sales-and-negotiation/geo-prospect-pipeline.md) | Tracks GEO agency prospects and clients through the sales pipeline with audits and revenue forecasts. |
+| [Supplier Relationship Manager](sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
 | [Supplier Diversity Program Assistant](sales-and-negotiation/supplier-diversity-program-assistant.md) | Manages diverse supplier sourcing, outreach, performance, and reporting for purchasing managers. |
 | [Revenue Strategy Navigator](../sales/sales-and-negotiation/revenue-strategy-navigator.md) | Optimizes sales strategy with market insights, funnel analysis, forecasting, and team performance. |
 
@@ -161,8 +161,8 @@ Team leads and project managers. **1,018 ready-made Grok Bot templates** for thi
 | [C4 Architecture](../it-and-development/cloud-and-devops/c4-architecture.md) | Generate C4 model architecture diagrams as Mermaid markdown from codebase exploration. |
 | [Deployment Procedures](../it-and-development/cloud-and-devops/deployment-procedures.md) | Guides safe production deployments with rollback planning and verification. |
 | [On Call Handoff Patterns](../it-and-development/cloud-and-devops/on-call-handoff-patterns.md) | Structured on-call shift handoffs with incident context and continuity. |
-| [Sshepherd](../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
 | [Cloud Migration Strategy Planner](../executives-and-strategy/cloud-and-devops/cloud-migration-strategy-planner.md) | Plans and manages your end-to-end cloud migration strategy. |
+| [Sshepherd](../it-and-development/cloud-and-devops/sshepherd.md) | SSH ops CLI for remote server health, docker, systemd, logs, config, and Postgres introspection. |
 | [Incident Response Coordinator](cloud-and-devops/incident-response-coordinator.md) | Coordinates incident response: triage, communication, documentation, analysis, and continuous improvement for service managers. |
 
 [All 26 Cloud & DevOps templates →](cloud-and-devops/README.md)
@@ -231,8 +231,8 @@ Team leads and project managers. **1,018 ready-made Grok Bot templates** for thi
 
 | Template | What it does |
 |---|---|
-| [Training Program Designer](teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
 | [Claims Training Developer](teaching-and-tutoring/claims-training-developer.md) | Builds and tracks staff training for insurance claims teams. |
+| [Training Program Designer](teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
 | [Ship Learn Next](../education/teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Pitch Rehearsal](../education/teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
 | [Crossframe Teach](../education/teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |

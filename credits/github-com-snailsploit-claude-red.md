@@ -1,11 +1,12 @@
 # Credits: github.com/SnailSploit/Claude-Red
 
-31 TemplatesGrokBot templates are adapted from work published at [github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+40 TemplatesGrokBot templates are adapted from work published at [github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
 | [Anti-Forensics Operator](../jobs/it-and-development/security-and-compliance/anti-forensics-operator.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/forensics/offensive-anti-forensics) | [MIT](../LICENSES/MIT.md) |
 | [BLE Security Assessor](../jobs/it-and-development/security-and-compliance/ble-security-assessor.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-bluetooth-ble) | [MIT](../LICENSES/MIT.md) |
+| [Bluetooth Classic Assessor](../jobs/it-and-development/security-and-compliance/bluetooth-classic-assessor.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-bluetooth-classic) | [MIT](../LICENSES/MIT.md) |
 | [Bug Identification Assistant](../jobs/it-and-development/security-and-compliance/bug-identification-assistant.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/fuzzing/offensive-bug-identification) | [MIT](../LICENSES/MIT.md) |
 | [C2 Framework Deployer](../jobs/it-and-development/security-and-compliance/c2-framework-deployer.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/forensics/offensive-c2-frameworks) | [MIT](../LICENSES/MIT.md) |
 | [CI/CD Secrets Extractor](../jobs/it-and-development/security-and-compliance/ci-cd-secrets-extractor.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/cicd/offensive-cicd-secrets) | [MIT](../LICENSES/MIT.md) |
@@ -13,6 +14,7 @@
 | [Crypto Attack Analyst](../jobs/it-and-development/security-and-compliance/crypto-attack-analyst.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/crypto/offensive-crypto-attacks) | [MIT](../LICENSES/MIT.md) |
 | [Data Exfiltration Planner](../jobs/it-and-development/security-and-compliance/data-exfiltration-planner.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/post-exploitation/offensive-data-exfiltration) | [MIT](../LICENSES/MIT.md) |
 | [Dependency Confusion Tester](../jobs/it-and-development/security-and-compliance/dependency-confusion-tester.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/supply-chain/offensive-dependency-confusion) | [MIT](../LICENSES/MIT.md) |
+| [Enterprise Wi-Fi Attacker](../jobs/it-and-development/security-and-compliance/enterprise-wi-fi-attacker.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-wpa-enterprise) | [MIT](../LICENSES/MIT.md) |
 | [Exploit Development Guide](../jobs/it-and-development/security-and-compliance/exploit-development-guide.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/exploit-dev/offensive-exploit-development) | [MIT](../LICENSES/MIT.md) |
 | [Fast Security Assessor](../jobs/it-and-development/security-and-compliance/fast-security-assessor.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/utility/offensive-fast-checking) | [MIT](../LICENSES/MIT.md) |
 | [Fuzzing Campaign Guide](../jobs/it-and-development/security-and-compliance/fuzzing-campaign-guide.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/fuzzing/offensive-fuzzing-course) | [MIT](../LICENSES/MIT.md) |
@@ -21,12 +23,14 @@
 | [Keylogger Architecture Analyst](../jobs/it-and-development/security-and-compliance/keylogger-architecture-analyst.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/infrastructure/offensive-keylogger-arch) | [MIT](../LICENSES/MIT.md) |
 | [Kubernetes Attack Simulator](../jobs/it-and-development/security-and-compliance/kubernetes-attack-simulator.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/container/offensive-k8s-attacks) | [MIT](../LICENSES/MIT.md) |
 | [Lateral Movement Operator](../jobs/it-and-development/security-and-compliance/lateral-movement-operator.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/post-exploitation/offensive-lateral-movement) | [MIT](../LICENSES/MIT.md) |
+| [Mesh Network Assessor](../jobs/it-and-development/security-and-compliance/mesh-network-assessor.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-zigbee-thread-matter) | [MIT](../LICENSES/MIT.md) |
 | [Mitigation Bypass Planner](../jobs/it-and-development/security-and-compliance/mitigation-bypass-planner.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/exploit-dev/offensive-mitigations) | [MIT](../LICENSES/MIT.md) |
 | [Network Attack Simulator](../jobs/it-and-development/security-and-compliance/network-attack-simulator.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/network/offensive-network-attacks) | [MIT](../LICENSES/MIT.md) |
 | [OAuth Security Auditor](../jobs/it-and-development/security-and-compliance/oauth-security-auditor.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/auth/offensive-oauth) | [MIT](../LICENSES/MIT.md) |
 | [Offensive Fuzzing Campaign Manager](../jobs/it-and-development/security-and-compliance/offensive-fuzzing-campaign-manager.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/fuzzing/offensive-fuzzing) | [MIT](../LICENSES/MIT.md) |
 | [Offensive Shellcode Developer](../jobs/it-and-development/security-and-compliance/offensive-shellcode-developer.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/infrastructure/offensive-shellcode) | [MIT](../LICENSES/MIT.md) |
 | [OSINT Campaign Guide](../jobs/it-and-development/research/osint-campaign-guide.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/recon/offensive-osint-methodology) | [MIT](../LICENSES/MIT.md) |
+| [Parameter Pollution Tester](../jobs/it-and-development/security-and-compliance/parameter-pollution-tester.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/web/offensive-parameter-pollution) | [MIT](../LICENSES/MIT.md) |
 | [Persistence Planner](../jobs/it-and-development/security-and-compliance/persistence-planner.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/post-exploitation/offensive-persistence) | [MIT](../LICENSES/MIT.md) |
 | [Pipeline Exploitation Auditor](../jobs/it-and-development/security-and-compliance/pipeline-exploitation-auditor.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/cicd/offensive-cicd-pipeline) | [MIT](../LICENSES/MIT.md) |
 | [Social Engineering Red Team](../jobs/it-and-development/security-and-compliance/social-engineering-red-team.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/social-engineering/offensive-social-engineering) | [MIT](../LICENSES/MIT.md) |
@@ -35,5 +39,10 @@
 | [TOCTOU Race Exploiter](../jobs/it-and-development/security-and-compliance/toctou-race-exploiter.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/exploit-dev/offensive-toctou) | [MIT](../LICENSES/MIT.md) |
 | [Vulnerability Class Guide](../jobs/it-and-development/teaching-and-tutoring/vulnerability-class-guide.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/fuzzing/offensive-vuln-classes) | [MIT](../LICENSES/MIT.md) |
 | [WAF Bypass Assistant](../jobs/it-and-development/security-and-compliance/waf-bypass-assistant.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/web/offensive-waf-bypass) | [MIT](../LICENSES/MIT.md) |
+| [Wi-Fi Attack Assessor](../jobs/it-and-development/security-and-compliance/wi-fi-attack-assessor.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-krack-fragattacks) | [MIT](../LICENSES/MIT.md) |
+| [WPA PSK Cracker](../jobs/it-and-development/security-and-compliance/wpa-psk-cracker.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-wpa2-psk) | [MIT](../LICENSES/MIT.md) |
+| [WPA3 Security Assessor](../jobs/it-and-development/security-and-compliance/wpa3-security-assessor.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-wpa3-sae) | [MIT](../LICENSES/MIT.md) |
+| [WPS PIN Auditor](../jobs/it-and-development/security-and-compliance/wps-pin-auditor.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-wps) | [MIT](../LICENSES/MIT.md) |
+| [Z-Wave Security Assessor](../jobs/it-and-development/security-and-compliance/z-wave-security-assessor.md) | [original](https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-z-wave) | [MIT](../LICENSES/MIT.md) |
 
 [← All credits](../CREDITS.md)

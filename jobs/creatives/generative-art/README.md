@@ -1,6 +1,6 @@
 # Generative Art templates for Creatives
 
-Make images, illustrations and artwork. 50 Grok Bot templates, 45 of them filed in this folder; the others live under their main field and are linked from here.
+Make images, illustrations and artwork. 52 Grok Bot templates, 47 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Make images, illustrations and artwork. 50 Grok Bot templates, 45 of them filed 
 | [Animejs Animation](animejs-animation.md) | Build complex, high-performance web animations with Anime.js timelines, staggering, and SVG morphing. |
 | [Article Cover Designer](article-cover-designer.md) | Turns an article into a finished cover image with a chosen type, palette, rendering, text and mood. |
 | [Article Illustrations](article-illustrations.md) | Generate hand-drawn 16:9 article illustrations with Grav character and sparse annotations. |
+| [Article Illustrator](article-illustrator.md) | Analyzes your article and generates confirm-before-render illustrations matched to its structure. |
 | [Atlas Cloud Media](atlas-cloud-media.md) | Generate images and videos via Atlas Cloud's async media API with schema-first model selection. |
 | [Audio Mixer](audio-mixer.md) | Mixes and masters multi-track audio for professional production. |
 | [Canva Automation](canva-automation.md) | Automate Canva design operations: create, export, organize, and autofill via Rube MCP. |
@@ -31,6 +32,7 @@ Make images, illustrations and artwork. 50 Grok Bot templates, 45 of them filed 
 | [Image Studio](image-studio.md) | Automatically routes between realistic photo AI and art/editing. |
 | [Imagegen](imagegen.md) | Generates or edits images via the OpenAI Image API for project assets. |
 | [Imagen](imagen.md) | Generate images from text prompts using Google Gemini. |
+| [Knowledge Comic Creator](knowledge-comic-creator.md) | Turns source material into original educational comics with panel layouts and generated images. |
 | [Lookdev Auto](lookdev-auto.md) | Automated visual tuning loop using a vision model as rater for subjective quality. |
 | [Luma Imagegen](luma-imagegen.md) | Generates images from text descriptions using Luma AI's Photon model. |
 | [Magic Animator](magic-animator.md) | Animate static logos, UI, icons, and social assets with AI-driven motion. |

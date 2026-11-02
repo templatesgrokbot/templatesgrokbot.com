@@ -39,8 +39,8 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Incident Reporting Navigator](../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
 | [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
 | [Regulatory Compliance Review Assistant](../finance/security-and-compliance/regulatory-compliance-review-assistant.md) | Regulatory compliance review and monitoring for insurance risk analysts. |
-| [Protected Disclosure Compass](security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Incident Response Planning Assistant](security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Protected Disclosure Compass](security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Regulatory Liaison Assistant](../government/security-and-compliance/regulatory-liaison-assistant.md) | Prepares, tracks, and communicates regulatory submissions and compliance for a Regulatory Affairs Specialist. |
 
 [All 204 Security & Compliance templates →](security-and-compliance/README.md)
@@ -65,8 +65,8 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | Template | What it does |
 |---|---|
 | [Markitdown](../operations/productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
-| [Royalty and Rights Manager](../creatives/productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
 | [PDF Workflows](../operations/productivity/anthropic-pdf.md) | Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe. |
+| [Royalty and Rights Manager](../creatives/productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
 | [Inventor Disclosure Intake](productivity/inventor-disclosure-intake.md) | Reads inventor disclosures, finds the gaps, and drafts the questions and filing recommendation for your approval. |
 | [Refusal Reasons Analysis Planner](productivity/refusal-reasons-analysis-planner.md) | Turns a refusal letter into a ranked route plan with deadlines and evidence, ready for your approval. |
 | [Immigration Appeal Deadline Tracker](productivity/immigration-appeal-deadline-tracker.md) | Tracks every appeal deadline and warns you early when tasks slip, before you file. |
@@ -84,8 +84,8 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Deal Room Risk Analyst](../finance/data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
 | [Compliance Monitoring Inspector](data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
 | [AML Due Diligence Drafter](data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
-| [Pdf Processing Pro](../operations/data-analysis/pdf-processing-pro.md) | Extracts text, tables, and form data from PDFs with validation and batch processing. |
 | [E-Discovery Project Coordinator](data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
+| [Pdf Processing Pro](../operations/data-analysis/pdf-processing-pro.md) | Extracts text, tables, and form data from PDFs with validation and batch processing. |
 | [Azure Ai Document Intelligence Ts](../it-and-development/data-analysis/azure-ai-document-intelligence-ts.md) | Extract text, tables, and structured data from documents using Azure AI. |
 
 [All 35 Data Analysis templates →](data-analysis/README.md)

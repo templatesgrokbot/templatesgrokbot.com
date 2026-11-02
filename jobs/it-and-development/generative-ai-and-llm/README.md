@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 261 Grok Bot templates, 241 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 267 Grok Bot templates, 247 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,9 @@ Work with language models, agents and their plumbing. 261 Grok Bot templates, 24
 | [Agent Tool Builder](agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
 | [Agent Tool Design Review](agent-tool-design-review.md) | Designs and audits agent tool sets so agents pick the right tool and recover from failures. |
 | [Agent Tool Schema Builder](agent-tool-builder-2.md) | Design and build tools for AI agents with clear schemas and descriptions. |
+| [AgentHub Competition Runner](agenthub-competition-runner.md) | Runs an AgentHub competition end to end: init, baseline, spawn, eval, merge. |
+| [AgentHub Session Starter](agenthub-session-starter.md) | Starts an AgentHub competition session for your coding task with agents and evaluation. |
+| [AgentHub Status Reporter](agenthub-status-reporter.md) | Shows live status of AgentHub sessions: agents, branches, commits, and board updates. |
 | [Agents Autogpt](agents-autogpt.md) | Build and deploy continuous autonomous agents using a visual workflow builder. |
 | [Agents Crewai](agents-crewai.md) | Orchestrates teams of specialized AI agents to collaborate on complex tasks. |
 | [Agents Langchain](agents-langchain.md) | Build LLM applications with agents, chains, and RAG pipelines. No prototyping boilerplate. No provider lock-in. No manual memory management. Just work |
@@ -57,6 +60,7 @@ Work with language models, agents and their plumbing. 261 Grok Bot templates, 24
 | [Blockrun](blockrun.md) | Routes requests to external AI models when you lack capabilities like image generation or real-time X data. |
 | [Bounded Grade Iterate](bounded-grade-iterate.md) | Grades an agent against a rubric, iterates within a cap, and runs held-back evals. |
 | [Call Center AI Integrator](../../customer-support/generative-ai-and-llm/call-center-ai-integrator.md) | Integrates AI into call center systems, trains models, monitors performance, and automates workflows. |
+| [Capability Authoring Guide](capability-authoring-guide.md) | Guides you through authoring structured agent capabilities with validation and review. |
 | [Caveman Compression Mode](caveman-compression-mode.md) | Rewrites your replies in terse caveman style, keeping every technical detail and cutting filler. |
 | [Channel Greeter](channel-greeter.md) | Greets new channels and introduces your capabilities without overwhelming them. |
 | [Channel Wiring Manager](channel-wiring-manager.md) | Wires messaging channels to agent groups and manages their isolation levels. |
@@ -115,6 +119,7 @@ Work with language models, agents and their plumbing. 261 Grok Bot templates, 24
 | [Gemini Api Agent Platform](gemini-api-agent-platform.md) | Guides Gemini API usage on Agent Platform with the Gen AI SDK for enterprise applications. |
 | [Gemini Live Api Dev](gemini-live-api-dev.md) | Build real-time bidirectional streaming apps with the Gemini Live API over WebSockets. |
 | [GitHub Channel Integrator](github-channel-integrator.md) | Connects your chat agent to GitHub PR and issue comment threads. |
+| [Goal Verification Loop](goal-verification-loop.md) | Drives a goal to verified completion through a controlled task loop with retries and escalation. |
 | [Grill With Docs](grill-with-docs.md) | Interview-driven plan sharpening with ADR and glossary generation. |
 | [GrokBot Factory](grokbot-factory.md) | Builds Grok Bots from template lists, clusters lanes, and outputs a CSV catalog. |
 | [Hf Mcp](hf-mcp.md) | Search Hugging Face Hub, run GPU jobs, and use Gradio Spaces as tools. |
@@ -201,6 +206,7 @@ Work with language models, agents and their plumbing. 261 Grok Bot templates, 24
 | [Optimization Gptq](optimization-gptq.md) | Quantize large language models to 4-bit with minimal accuracy loss for deployment on consumer GPUs. |
 | [Optimization Hqq](optimization-hqq.md) | Quantize LLMs to 4/3/2-bit without calibration data, fast and memory-efficient. |
 | [Orchestrate](orchestrate.md) | Coordinate focused subagents on substantial work and integrate their verified results. |
+| [Parallel Agent Spawner](parallel-agent-spawner.md) | Launch parallel agents in isolated worktrees for a session. |
 | [Parallel Attempt Coordinator](parallel-attempt-coordinator.md) | Runs several independent attempts at one task in parallel and hands back the best one. |
 | [Pi Custom Model](pi-custom-model.md) | Register custom Pi Agent model slugs so saved OpenRouter variants resolve correctly. |
 | [Pipeline Orchestrator](pipeline-orchestrator.md) | Coordinates a multi-agent pipeline that turns requirements into committed code. |

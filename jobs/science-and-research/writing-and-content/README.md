@@ -1,6 +1,6 @@
 # Writing & Content templates for Science and Research
 
-Plan, write and edit articles, copy and documentation. 22 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 23 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Plan, write and edit articles, copy and documentation. 22 Grok Bot templates, 19
 | [Stakeholder Engagement Strategist](stakeholder-engagement-strategist.md) | Manages stakeholder engagement for sustainability initiatives from mapping to reporting. |
 | [Survey Question Repair Assistant](survey-question-repair-assistant.md) | Checks survey drafts for leading or double-barreled questions, rewrites them, and ensures every research topic stays covered. |
 | [Sustainability Report Builder](sustainability-report-builder.md) | Turns ESG data into accurate, compliant sustainability reports for analysts. |
+| [Systems Paper Structurer](systems-paper-structurer.md) | Structures 10-12 page systems papers for top venues with paragraph-level blueprints and checklists. |
 | [Technical Documentation Assistant](../../product-development/writing-and-content/technical-documentation-assistant.md) | Technical documentation assistant for R&D engineers: format, proofread, translate, summarize, and generate manuals and guides. |
 | [Technical Report Drafter](technical-report-drafter.md) | Turns experimental data and notes into polished, citation-ready technical reports for process development scientists. |
 | [Training Material Development Assistant](training-material-development-assistant.md) | Builds complete training materials for process development scientists, from research to final review. |

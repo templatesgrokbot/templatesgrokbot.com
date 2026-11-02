@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **736 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **738 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,7 @@ Designers, artists and content creators. **736 ready-made Grok Bot templates** f
 | [Design](design/README.md) | 217 |
 | [Writing & Content](writing-and-content/README.md) | 74 |
 | [Productivity](productivity/README.md) | 67 |
-| [Generative Art](generative-art/README.md) | 50 |
+| [Generative Art](generative-art/README.md) | 52 |
 | [Generative Code](generative-code/README.md) | 47 |
 | [Coding](coding/README.md) | 37 |
 | [Video Editing](video-editing/README.md) | 34 |
@@ -47,9 +47,9 @@ Designers, artists and content creators. **736 ready-made Grok Bot templates** f
 | [Pptx Posters](design/pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Ux Audit](design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 | [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
-| [Hig Components Search](design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
 | [Bento Ui](design/bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
-| [Gradient Design](design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
+| [Hig Components Search](design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
+| [Uxui Principles](design/uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
 
 [All 217 Design templates →](design/README.md)
 
@@ -60,8 +60,8 @@ Designers, artists and content creators. **736 ready-made Grok Bot templates** f
 | [Podcast Metadata Specialist](../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
 | [Seo Content Writer](../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Seo Aeo Landing Page Writer](../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
-| [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
+| [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
 | [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
 | [Video Script writer](writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
@@ -89,14 +89,14 @@ Designers, artists and content creators. **736 ready-made Grok Bot templates** f
 |---|---|
 | [Scientific Schematics](../science-and-research/generative-art/scientific-schematics.md) | Generate publication-quality scientific diagrams from natural language descriptions. |
 | [Slack Gif Creator](generative-art/slack-gif-creator.md) | Creates optimized animated GIFs for Slack from descriptions or uploaded images. |
-| [Comfyui Gateway](../it-and-development/generative-art/comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |
 | [Daily Gift](generative-art/daily-gift.md) | Decides if a gift is needed today, then creates a personalized H5, image, or video artifact. No guessing, no filler. |
+| [Comfyui Gateway](../it-and-development/generative-art/comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |
 | [Fal Generate](generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [Audio Mixer](generative-art/audio-mixer.md) | Mixes and masters multi-track audio for professional production. |
 | [Scroll Experience](generative-art/scroll-experience.md) | Build scroll-driven animations and parallax storytelling for narrative websites. |
 | [Rayden Use](generative-art/rayden-use.md) | Build and maintain Rayden UI components and screens in Figma with design token enforcement. |
 
-[All 50 Generative Art templates →](generative-art/README.md)
+[All 52 Generative Art templates →](generative-art/README.md)
 
 ## Generative Code
 
@@ -134,8 +134,8 @@ Designers, artists and content creators. **736 ready-made Grok Bot templates** f
 |---|---|
 | [Video Downloader](video-editing/video-downloader.md) | Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. |
 | [Videodb](video-editing/videodb.md) | Ingest, index, search, and edit video and audio with timestamps and alerts. |
-| [Royalty-Free Resource Finder](video-editing/royalty-free-resource-finder.md) | Finds and organizes royalty-free images, music, footage, fonts, graphics, and more for video projects. |
 | [Timestamp Precision Specialist](video-editing/timestamp-precision-specialist.md) | Extracts frame-accurate timestamps for clean podcast cuts using waveform and silence analysis. |
+| [Royalty-Free Resource Finder](video-editing/royalty-free-resource-finder.md) | Finds and organizes royalty-free images, music, footage, fonts, graphics, and more for video projects. |
 | [VideoDB Essentials](../it-and-development/video-editing/videodb-skills.md) | Upload, search, edit, transcribe, and stream video using the VideoDB SDK. No AI generation or real-time capture without explicit user request. |
 | [Podcast Clipper](video-editing/podcast-clipper.md) | Finds the clippable moments in a long recording and writes the captions for each. |
 | [Video Router](video-editing/video-router.md) | Route video briefs to generate, compose, edit, or AUTO before production starts. |
@@ -152,8 +152,8 @@ Designers, artists and content creators. **736 ready-made Grok Bot templates** f
 | [Popup Cro](../marketing/marketing-and-growth/popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
 | [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
 | [Content Creation and Curation Planner](../executives-and-strategy/marketing-and-growth/content-creation-and-curation-planner.md) | Plans, creates, optimizes, and curates marketing content across channels. |
-| [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
 | [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
+| [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
 | [Video SEO Optimizer](marketing-and-growth/video-seo-optimizer.md) | Optimizes video SEO: keywords, titles, descriptions, tags, transcripts, thumbnails, metadata, competitors, sitemaps, embedding, and platform… |
 
 [All 29 Marketing & Growth templates →](marketing-and-growth/README.md)
@@ -197,8 +197,8 @@ Designers, artists and content creators. **736 ready-made Grok Bot templates** f
 | [PPTX Reference Analyzer](office-tools/pptx-reference-analyzer.md) | Analyzes reference PPTX decks for structure, theme, and design evidence without modifying them. |
 | [Pptx Deck Creation](../marketing/office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
 | [Presentation Deck Builder](../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
-| [Markdown Slide Builder](../education/office-tools/markdown-slide-builder.md) | Turns your Markdown notes into themed Marp slide decks exported to PDF, PPTX, or HTML. |
 | [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
+| [Markdown Slide Builder](../education/office-tools/markdown-slide-builder.md) | Turns your Markdown notes into themed Marp slide decks exported to PDF, PPTX, or HTML. |
 | [Actor Booking Conflict Keeper](office-tools/actor-booking-conflict-keeper.md) | Keeps your holds, bookings and fittings clash-free and drafts the replies you approve. |
 
 [All 22 Office Tools templates →](office-tools/README.md)
@@ -237,8 +237,8 @@ Designers, artists and content creators. **736 ready-made Grok Bot templates** f
 
 | Template | What it does |
 |---|---|
-| [Heygen Best Practices](../it-and-development/generative-video/heygen-best-practices.md) | Provides HeyGen API best practices for creating AI avatar videos. |
 | [Gemini Omni Flash Api](generative-video/gemini-omni-flash-api.md) | Generate and edit videos using Gemini Omni Flash with text, images, or existing clips. |
+| [Heygen Best Practices](../it-and-development/generative-video/heygen-best-practices.md) | Provides HeyGen API best practices for creating AI avatar videos. |
 | [Remotion](generative-video/remotion.md) | Generate walkthrough videos from Stitch screens using Remotion with transitions and text overlays. |
 | [Generate Animated Videos Remotion](generative-video/generate-animated-videos-remotion.md) | Makes 9:16 motion-graphics shorts in Remotion from a scene catalog. |
 | [Explainer Video Builder](../marketing/generative-video/explainer-video-builder.md) | Turn any source material into a tight 60-90 second explainer video for your product. |
@@ -270,8 +270,8 @@ Designers, artists and content creators. **736 ready-made Grok Bot templates** f
 | [Hig Project Context](knowledge-management/hig-project-context.md) | Create or update a shared Apple design context document for HIG capabilities. |
 | [Edition and Provenance Register](knowledge-management/edition-and-provenance-register.md) | Tracks each print's edition number and drafts a matching certificate of authenticity for your approval. |
 | [Photo Archive Keyword Cleanup](knowledge-management/photo-archive-keyword-cleanup.md) | Standardizes photo keywords, finds orphan files and missing backups, and reports what changed. |
-| [Design Doc Change Sync](../product-development/knowledge-management/design-doc-change-sync.md) | Keeps design docs, tickets and config in agreement after a design doc edit. |
 | [Client Revision Branch Keeper](knowledge-management/client-revision-branch-keeper.md) | Builds a new revision from the right approved version with every frozen element intact. |
+| [Design Doc Change Sync](../product-development/knowledge-management/design-doc-change-sync.md) | Keeps design docs, tickets and config in agreement after a design doc edit. |
 | [Video Archive Organizer](knowledge-management/video-archive-organizer.md) | Organizes your video archive with tags, metadata, summaries, and duplicate checks. |
 | [Digital Asset Management Organizer](knowledge-management/digital-asset-management-organizer.md) | Organize, tag, track, and manage digital assets with a complete DAM workflow assistant. |
 | [Design Decision Log Keeper](knowledge-management/design-decision-log-keeper.md) | Turns design discussions into a sourced decision log with owners, options and evidence. |

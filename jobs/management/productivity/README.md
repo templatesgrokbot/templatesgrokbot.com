@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 339 Grok Bot templates, 112 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 340 Grok Bot templates, 113 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -337,6 +337,7 @@ Plan, prioritise and clear the recurring admin. 339 Grok Bot templates, 112 of t
 | [Weather Impact Planner](../../real-estate-and-construction/productivity/weather-impact-planner.md) | Keeps crews on weather-safe tasks by proposing schedule swaps before the forecast ruins a day. |
 | [Web Project Brainstorming](../../product-development/productivity/web-project-brainstorming.md) | Structured framework for brainstorming web project concepts, UX, styling, tech stack, and SEO. |
 | [Website Discovery Brief Gap](../../creatives/productivity/website-discovery-brief-gap.md) | Turns client intake answers and a site audit into a complete, approved project brief. |
+| [WeChat Group Digest](wechat-group-digest.md) | Summarizes WeChat group chats into a structured, digestible highlight report with optional roast version. |
 | [Weekly Labor Schedule Assistant](../../hospitality-and-events/productivity/weekly-labor-schedule-assistant.md) | Drafts a legal weekly crew schedule that covers peak hours within your labor target. |
 | [Weekly Portfolio Status Consolidator](weekly-portfolio-status-consolidator.md) | Turns weekly project reports and tool data into one approved portfolio report with exceptions first. |
 | [Workflow Automation Planner](../../operations/productivity/workflow-automation-planner.md) | Finds and implements workflow automation opportunities for operations managers. |

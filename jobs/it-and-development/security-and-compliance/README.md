@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 458 Grok Bot templates, 443 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 467 Grok Bot templates, 452 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -57,6 +57,7 @@ Authorised security testing, audits and regulatory work. 458 Grok Bot templates,
 | [Azure Security Keyvault Keys Dotnet](azure-security-keyvault-keys-dotnet.md) | Manage Azure Key Vault keys: create, rotate, encrypt, decrypt, sign, and verify with .NET. |
 | [Backend Security Coder](backend-security-coder.md) | Secure backend coding expert for input validation, authentication, and API security. |
 | [BLE Security Assessor](ble-security-assessor.md) | Assesses Bluetooth Low Energy devices for pairing, authentication, and GATT vulnerabilities. |
+| [Bluetooth Classic Assessor](bluetooth-classic-assessor.md) | Assess Bluetooth Classic devices for legacy attack exposure during authorized engagements. |
 | [Broken Authentication](broken-authentication.md) | Guide systematic testing of authentication and session vulnerabilities. |
 | [Browser Extension Reverse](browser-extension-reverse.md) | Authorized reverse engineering of browser extensions for security research. |
 | [Brute Force Hunter](brute-force-hunter.md) | Hunts missing or weak rate limiting, brute force, and user enumeration in web apps. |
@@ -153,6 +154,7 @@ Authorised security testing, audits and regulatory work. 458 Grok Bot templates,
 | [Encryption Strategy Developer](encryption-strategy-developer.md) | Develops encryption strategies from standards research to training programs. |
 | [Engagement Readiness Checklist](engagement-readiness-checklist.md) | Confirms every penetration testing engagement is authorised and safe before kickoff. |
 | [Engagement Scope Authorizer](engagement-scope-authorizer.md) | Verifies every penetration-test target is covered by signed authorization before testing begins. |
+| [Enterprise Wi-Fi Attacker](enterprise-wi-fi-attacker.md) | Attacks WPA/WPA2/WPA3-Enterprise (802.1X) networks to capture and crack credentials. |
 | [Environment Secrets Auditor](environment-secrets-auditor.md) | Audits repositories and environment files for leaked secrets and plans safe credential rotation. |
 | [Error Disclosure Hunter](error-disclosure-hunter.md) | Finds endpoints that leak stack traces or internal errors when handed unexpected input. |
 | [Ethical Hacking Methodology](ethical-hacking-methodology.md) | Guide users through the five-stage ethical hacking lifecycle from recon to reporting for authorized testing. |
@@ -243,6 +245,7 @@ Authorised security testing, audits and regulatory work. 458 Grok Bot templates,
 | [Mcp Security Auditor](mcp-security-auditor.md) | Audits MCP server security and enforces OAuth, RBAC, and compliance standards. |
 | [Meme Coin Auditor](meme-coin-auditor.md) | Audits meme coins and tokens for rug pull risks before you invest. |
 | [Memory Forensics](memory-forensics.md) | Acquire, analyze, and extract artifacts from memory dumps for incident response and malware analysis. |
+| [Mesh Network Assessor](mesh-network-assessor.md) | Assess and exploit Zigbee, Thread, and Matter smart-home mesh networks during authorized security engagements. |
 | [Metasploit Framework](metasploit-framework.md) | Guide penetration testing with Metasploit from reconnaissance to post-exploitation. |
 | [MFA Bypass Hunter](mfa-bypass-hunter.md) | Hunts MFA/2FA bypasses across 7 patterns and chains them toward account takeover. |
 | [Mid-Engagement IR Detector](mid-engagement-ir-detector.md) | Detects and reports security-state changes during authorized red-team engagements. |
@@ -275,6 +278,7 @@ Authorised security testing, audits and regulatory work. 458 Grok Bot templates,
 | [Ot Ics](ot-ics.md) | Authorized OT/ICS security assessment with passive-first evaluation. |
 | [Out-of-Scope Asset Alert](out-of-scope-asset-alert.md) | Watches live scan targets against the signed scope and flags anything doubtful before it is touched. |
 | [Overnight Repo Auditor](overnight-repo-auditor.md) | Runs a full codebase audit overnight and hands you a severity-rated report by morning. |
+| [Parameter Pollution Tester](parameter-pollution-tester.md) | Tests web apps for HTTP parameter pollution flaws and reports exploitable parsing gaps. |
 | [Password Reset Flaw Hunter](password-reset-flaw-hunter.md) | Finds and proves password reset and account recovery authentication flaws. |
 | [Patch Diff Exploit](patch-diff-exploit.md) | Diff vendor patches to locate vulnerability fixes and build N-day PoCs for authorized research. |
 | [Pci Compliance](../../finance/security-and-compliance/pci-compliance.md) | Guide PCI DSS compliance for secure payment processing and cardholder data handling. |
@@ -452,6 +456,7 @@ Authorised security testing, audits and regulatory work. 458 Grok Bot templates,
 | [WebSocket Security Auditor](websocket-security-auditor.md) | Hunt WebSocket vulnerabilities: CSWSH, weak auth, tampering, and smuggling. |
 | [Weekly Threat Relevance Brief](weekly-threat-relevance-brief.md) | Turns weekly advisories into a short brief of threats that actually apply to your environment. |
 | [Wg Code Sentinel](wg-code-sentinel.md) | Review code for security vulnerabilities and recommend fixes. |
+| [Wi-Fi Attack Assessor](wi-fi-attack-assessor.md) | Assess legacy Wi-Fi clients for KRACK and FragAttacks vulnerabilities. |
 | [Wifi Wireless](wifi-wireless.md) | Authorized Wi-Fi security assessment: capture, analyze, and report on wireless posture. Lab only. No unapproved deauth. No unapproved probing. |
 | [Windows Ad](windows-ad.md) | Run authorized Active Directory attacks: Kerberos, AD CS, BloodHound, NTLM relay. |
 | [Windows Privilege Escalation](windows-privilege-escalation.md) | Guide systematic Windows privilege escalation enumeration and exploitation. |
@@ -459,10 +464,14 @@ Authorised security testing, audits and regulatory work. 458 Grok Bot templates,
 | [Wordpress Penetration Testing](wordpress-penetration-testing.md) | Assess WordPress sites for vulnerabilities and enumerate users, themes, plugins. |
 | [Wp Guard](wp-guard.md) | Review WordPress plugins, themes, and blocks for security, i18n, and performance before shipping. |
 | [Wp Site Health Auditor](wp-site-health-auditor.md) | Turns WordPress Site Health reports into risk-tiered, backup-first fix plans with exact WP-CLI/PHP snippets. |
+| [WPA PSK Cracker](wpa-psk-cracker.md) | Cracks WPA/WPA2-PSK Wi-Fi passwords offline from captured handshakes or PMKIDs. |
+| [WPA3 Security Assessor](wpa3-security-assessor.md) | Assess and exploit WPA3/SAE wireless networks in authorized engagements. |
+| [WPS PIN Auditor](wps-pin-auditor.md) | Audits WPS-enabled routers for PIN vulnerabilities using Pixie Dust and online brute-force. |
 | [Xss Html Injection](xss-html-injection.md) | Test web apps for XSS and HTML injection with proof-of-concept payloads and severity reports. |
 | [XSS Vulnerability Hunter](xss-vulnerability-hunter.md) | Hunts XSS in authorized targets, proving each finding with a unique canary and out-of-band confirmation. |
 | [XXE Vulnerability Hunter](xxe-vulnerability-hunter.md) | Safely finds XXE vulnerabilities in web applications and reports exploitable entry points. |
 | [Yes Md](yes-md.md) | AI governance engine enforcing safety gates, evidence rules, and verified changes. |
+| [Z-Wave Security Assessor](z-wave-security-assessor.md) | Assess Z-Wave smart home security through sniffing, key analysis, and hub pivots. |
 | [Zeroize Audit](zeroize-audit.md) | Detects missing zeroization of secrets in C/C++/Rust code with compiler-evidence analysis. |
 
 [← All IT and Development templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/it-and-development)

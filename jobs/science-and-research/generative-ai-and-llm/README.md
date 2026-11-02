@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for Science and Research
 
-Work with language models, agents and their plumbing. 71 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 73 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -29,6 +29,7 @@ Work with language models, agents and their plumbing. 71 Grok Bot templates, 16 
 | [Evaluation Bigcode Evaluation Harness](evaluation-bigcode-evaluation-harness.md) | Evaluates code generation models on 15+ benchmarks with pass@k metrics. |
 | [Evaluation Lm Evaluation Harness](evaluation-lm-evaluation-harness.md) | Runs academic benchmarks (MMLU, GSM8K, HumanEval) on LLMs and reports exact scores. |
 | [Evaluation Nemo Evaluator](evaluation-nemo-evaluator.md) | Evaluates LLMs across 100+ benchmarks from 18+ harnesses with multi-backend execution. |
+| [Experiment Dashboard](experiment-dashboard.md) | Shows results, active loops, and progress for your autoresearch experiments. |
 | [Fine Tuning Axolotl](fine-tuning-axolotl.md) | Guides fine-tuning LLMs with Axolotl: configs, training methods, and debugging. |
 | [Fine Tuning Llama Factory](fine-tuning-llama-factory.md) | Guides fine-tuning of LLMs using LLaMA-Factory WebUI with no-code QLoRA and multimodal support. |
 | [Fine Tuning Peft](../../it-and-development/generative-ai-and-llm/fine-tuning-peft.md) | Fine-tune large language models with minimal GPU memory using PEFT adapters. |
@@ -76,6 +77,7 @@ Work with language models, agents and their plumbing. 71 Grok Bot templates, 16 
 | [Transformers](../../it-and-development/generative-ai-and-llm/transformers.md) | Loads and runs Hugging Face transformer models for inference and fine-tuning. |
 | [Trl Training](../../it-and-development/generative-ai-and-llm/trl-training.md) | Train and fine-tune transformer language models using TRL CLI commands. |
 | [Unsloth Finetuning](../../it-and-development/generative-ai-and-llm/unsloth-finetuning.md) | Fine-tune LLMs on a single consumer GPU with Unsloth Core: VRAM sizing, LoRA/QLoRA, GRPO/DPO, and GGUF export. |
+| [VLA Fine-Tuning Advisor](vla-fine-tuning-advisor.md) | Fine-tunes and evaluates OpenVLA-OFT robot VLA policies for simulation and real-world. |
 | [Yann LeCun Simulator](../../education/generative-ai-and-llm/yann-lecun-simulator.md) | Simulate Yann LeCun's views on AI, CNNs, and deep learning. |
 
 [← All Science and Research templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/science-and-research)

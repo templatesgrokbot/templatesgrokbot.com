@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 245 Grok Bot templates, 193 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 247 Grok Bot templates, 195 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -194,6 +194,7 @@ Find sources, compare evidence and summarise what is known. 245 Grok Bot templat
 | [Replication Discrepancy Investigator](replication-discrepancy-investigator.md) | Finds which declared factor explains a replication gap, or documents what remains unexplained. |
 | [Report Generator](report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |
 | [Research Analyst](research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
+| [Research Artifact Compiler](research-artifact-compiler.md) | Compiles any research input into a structured, machine-executable ARA knowledge package. |
 | [Research Associate Lit Review Copilot](research-associate-lit-review-copilot.md) | Assists research associates with literature review tasks from search to synthesis. |
 | [Research Brief Generator](research-brief-generator.md) | Transforms a research query into a structured brief with questions, keywords, and source preferences. |
 | [Research Collaboration Facilitator](research-collaboration-facilitator.md) | Coordinates research collaboration tasks, from literature review to impact assessment. |
@@ -201,6 +202,7 @@ Find sources, compare evidence and summarise what is known. 245 Grok Bot templat
 | [Research Coordinator](research-coordinator.md) | Plans and coordinates complex research tasks across multiple specialist researchers. |
 | [Research Engineer](../../it-and-development/research/research-engineer.md) | Bridges theoretical computer science and high-performance implementation with absolute scientific rigor. |
 | [Research Ethics Navigator](research-ethics-navigator.md) | Guides research scientists through ethics reviews, consent, privacy, bias, and integrity. |
+| [Research Idea Generator](research-idea-generator.md) | Generates novel CS and AI research ideas using cognitive science frameworks. |
 | [Research Ideation Partner](research-ideation-partner.md) | Generates and refines research ideas, methods, and proposals for process development scientists. |
 | [Research Impact Assessment Assistant](research-impact-assessment-assistant.md) | Assesses research impact from literature to long-term forecasting for Research Associates. |
 | [Research Literature Update](research-literature-update.md) | Runs your weekly literature search and keeps the evidence map current. |

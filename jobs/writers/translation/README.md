@@ -1,6 +1,6 @@
 # Translation templates for Writers
 
-Translate and localise text and media. 9 Grok Bot templates.
+Translate and localise text and media. 10 Grok Bot templates.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,6 +12,7 @@ Translate and localise text and media. 9 Grok Bot templates.
 | [Reviewer Edit Reconciliation](reviewer-edit-reconciliation.md) | Merges two reviewers' edits on one translation into a single consistent version for your approval. |
 | [Source File Quality Check](source-file-quality-check.md) | Finds and settles source file problems before translation begins. |
 | [Term Base Builder](term-base-builder.md) | Extracts candidate terms from client source files and builds an approved, conflict-free term base for your project. |
+| [Translation Assistant](translation-assistant.md) | Translates articles and documents between languages with quick, normal, and refined modes. |
 | [Translation Glossary Enforcer](translation-glossary-enforcer.md) | Checks each finished batch against the client glossary and flags inconsistent or new terms. |
 | [Translation Memory Cleanup Assistant](translation-memory-cleanup-assistant.md) | Finds and fixes the harmful errors in a translation memory, on a copy, with your approval. |
 | [Translation-Ready Source Check](translation-ready-source-check.md) | Checks a source page for translation hazards and confirms it with a sample translation round. |

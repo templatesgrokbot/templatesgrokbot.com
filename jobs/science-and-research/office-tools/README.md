@@ -1,11 +1,12 @@
 # Office Tools templates for Science and Research
 
-Spreadsheets, documents, slides, email and calendars. 4 Grok Bot templates, 1 of them filed in this folder; the others live under their main field and are linked from here.
+Spreadsheets, documents, slides, email and calendars. 5 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [Conference Talk Slides](conference-talk-slides.md) | Turns a compiled research paper into conference slides with speaker notes and a talk script. |
 | [Excel Automation](../../finance/office-tools/excel-automation.md) | Automates live Excel workbooks and reports through xlwings, with every write and export approved first. |
 | [Excel Spreadsheets](../../operations/office-tools/anthropic-xlsx.md) | Read and write Excel files with formulas, charts, and data cleaning. |
 | [PDF Table Extractor](../../finance/office-tools/pdf-table-extractor.md) | Extracts tables from PDFs into clean spreadsheets, checking accuracy and flagging anything doubtful. |

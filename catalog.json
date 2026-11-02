@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 10494,
+ "count": 10524,
  "templates": [
   {
    "slug": "007",
@@ -3491,6 +3491,54 @@
    "url": "https://templatesgrokbot.com/bot/agentfolio",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "agenthub-competition-runner",
+   "name": "AgentHub Competition Runner",
+   "tagline": "Runs an AgentHub competition end to end: init, baseline, spawn, eval, merge.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/agenthub-competition-runner.md",
+   "url": "https://templatesgrokbot.com/bot/agenthub-competition-runner",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/agenthub/skills/hub-run",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "agenthub-session-starter",
+   "name": "AgentHub Session Starter",
+   "tagline": "Starts an AgentHub competition session for your coding task with agents and evaluation.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/agenthub-session-starter.md",
+   "url": "https://templatesgrokbot.com/bot/agenthub-session-starter",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/agenthub/skills/hub-init",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "agenthub-status-reporter",
+   "name": "AgentHub Status Reporter",
+   "tagline": "Shows live status of AgentHub sessions: agents, branches, commits, and board updates.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/agenthub-status-reporter.md",
+   "url": "https://templatesgrokbot.com/bot/agenthub-status-reporter",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/agenthub/skills/hub-status",
+   "source_license": "MIT"
   },
   {
    "slug": "agentic-actions-auditor",
@@ -8166,6 +8214,23 @@
    "url": "https://templatesgrokbot.com/bot/article-illustrations",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "article-illustrator",
+   "name": "Article Illustrator",
+   "tagline": "Analyzes your article and generates confirm-before-render illustrations matched to its structure.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-art",
+    "design"
+   ],
+   "path": "jobs/creatives/generative-art/article-illustrator.md",
+   "url": "https://templatesgrokbot.com/bot/article-illustrator",
+   "adapted_from": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-article-illustrator",
+   "source_license": "MIT"
   },
   {
    "slug": "article-structure-revision",
@@ -15583,6 +15648,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "bluetooth-classic-assessor",
+   "name": "Bluetooth Classic Assessor",
+   "tagline": "Assess Bluetooth Classic devices for legacy attack exposure during authorized engagements.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/bluetooth-classic-assessor.md",
+   "url": "https://templatesgrokbot.com/bot/bluetooth-classic-assessor",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-bluetooth-classic",
+   "source_license": "MIT"
+  },
+  {
    "slug": "board-action-tracker",
    "name": "Board Action Tracker",
    "tagline": "Tracks board actions to closure, checking every completion claim against evidence.",
@@ -20240,6 +20322,23 @@
    "path": "jobs/operations/knowledge-management/capa-officer.md",
    "url": "https://templatesgrokbot.com/bot/capa-officer",
    "adapted_from": "https://www.aitmpl.com/component/skills/enterprise-communication/capa-officer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "capability-authoring-guide",
+   "name": "Capability Authoring Guide",
+   "tagline": "Guides you through authoring structured agent capabilities with validation and review.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/capability-authoring-guide.md",
+   "url": "https://templatesgrokbot.com/bot/capability-authoring-guide",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/write-a-skill/skills/write-a-skill",
    "source_license": "MIT"
   },
   {
@@ -32071,6 +32170,24 @@
    ],
    "path": "jobs/sales/sales-and-negotiation/conference-lead-follow-up.md",
    "url": "https://templatesgrokbot.com/bot/conference-lead-follow-up"
+  },
+  {
+   "slug": "conference-talk-slides",
+   "name": "Conference Talk Slides",
+   "tagline": "Turns a compiled research paper into conference slides with speaker notes and a talk script.",
+   "category": "education",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "office-tools",
+    "design",
+    "writing-and-content"
+   ],
+   "path": "jobs/science-and-research/office-tools/conference-talk-slides.md",
+   "url": "https://templatesgrokbot.com/bot/conference-talk-slides",
+   "adapted_from": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/20-ml-paper-writing/presenting-conference-talks",
+   "source_license": "MIT"
   },
   {
    "slug": "conference-target-list-planner",
@@ -55426,6 +55543,23 @@
    "url": "https://templatesgrokbot.com/bot/enterprise-risk-management-assistant"
   },
   {
+   "slug": "enterprise-wi-fi-attacker",
+   "name": "Enterprise Wi-Fi Attacker",
+   "tagline": "Attacks WPA/WPA2/WPA3-Enterprise (802.1X) networks to capture and crack credentials.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/enterprise-wi-fi-attacker.md",
+   "url": "https://templatesgrokbot.com/bot/enterprise-wi-fi-attacker",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-wpa-enterprise",
+   "source_license": "MIT"
+  },
+  {
    "slug": "entitlement-and-permit-tracker",
    "name": "Entitlement and Permit Tracker",
    "tagline": "Tracks zoning approvals, permits and conditions so nothing slips past a deadline.",
@@ -59279,6 +59413,23 @@
    ],
    "path": "jobs/finance/data-analysis/experience-studies-analyst.md",
    "url": "https://templatesgrokbot.com/bot/experience-studies-analyst"
+  },
+  {
+   "slug": "experiment-dashboard",
+   "name": "Experiment Dashboard",
+   "tagline": "Shows results, active loops, and progress for your autoresearch experiments.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "data-analysis"
+   ],
+   "path": "jobs/science-and-research/generative-ai-and-llm/experiment-dashboard.md",
+   "url": "https://templatesgrokbot.com/bot/experiment-dashboard",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/autoresearch-agent/skills/ar-status",
+   "source_license": "MIT"
   },
   {
    "slug": "experiment-design-planner",
@@ -69797,6 +69948,23 @@
    "url": "https://templatesgrokbot.com/bot/goal-loop",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "goal-verification-loop",
+   "name": "Goal Verification Loop",
+   "tagline": "Drives a goal to verified completion through a controlled task loop with retries and escalation.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/goal-verification-loop.md",
+   "url": "https://templatesgrokbot.com/bot/goal-verification-loop",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/agent-harness/skills/agent-harness",
+   "source_license": "MIT"
   },
   {
    "slug": "godot-4-migration",
@@ -85029,6 +85197,24 @@
    "url": "https://templatesgrokbot.com/bot/knowledge-base-register-builder"
   },
   {
+   "slug": "knowledge-comic-creator",
+   "name": "Knowledge Comic Creator",
+   "tagline": "Turns source material into original educational comics with panel layouts and generated images.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-art",
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/generative-art/knowledge-comic-creator.md",
+   "url": "https://templatesgrokbot.com/bot/knowledge-comic-creator",
+   "adapted_from": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-comic",
+   "source_license": "MIT"
+  },
+  {
    "slug": "knowledge-graph-builder",
    "name": "Knowledge Graph Builder",
    "tagline": "Analyzes Karpathy-pattern LLM wikis and builds an interactive knowledge graph.",
@@ -98288,6 +98474,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "mesh-network-assessor",
+   "name": "Mesh Network Assessor",
+   "tagline": "Assess and exploit Zigbee, Thread, and Matter smart-home mesh networks during authorized security engagements.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/mesh-network-assessor.md",
+   "url": "https://templatesgrokbot.com/bot/mesh-network-assessor",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-zigbee-thread-matter",
+   "source_license": "MIT"
+  },
+  {
    "slug": "message-inventory-auditor",
    "name": "Message Inventory Auditor",
    "tagline": "Builds one complete inventory of every automated message and flags conflicts for your approval.",
@@ -110230,6 +110433,22 @@
    "url": "https://templatesgrokbot.com/bot/par-level-ordering-assistant"
   },
   {
+   "slug": "parallel-agent-spawner",
+   "name": "Parallel Agent Spawner",
+   "tagline": "Launch parallel agents in isolated worktrees for a session.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/parallel-agent-spawner.md",
+   "url": "https://templatesgrokbot.com/bot/parallel-agent-spawner",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/agenthub/skills/spawn",
+   "source_license": "MIT"
+  },
+  {
    "slug": "parallel-agents",
    "name": "Parallel Agents",
    "tagline": "Orchestrates multiple specialized agents for comprehensive code analysis.",
@@ -110317,6 +110536,23 @@
    ],
    "path": "jobs/writers/research/parallel-web-research-assistant.md",
    "url": "https://templatesgrokbot.com/bot/parallel-web-research-assistant"
+  },
+  {
+   "slug": "parameter-pollution-tester",
+   "name": "Parameter Pollution Tester",
+   "tagline": "Tests web apps for HTTP parameter pollution flaws and reports exploitable parsing gaps.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/parameter-pollution-tester.md",
+   "url": "https://templatesgrokbot.com/bot/parameter-pollution-tester",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/web/offensive-parameter-pollution",
+   "source_license": "MIT"
   },
   {
    "slug": "parent-communication-assistant",
@@ -132188,6 +132424,23 @@
    "url": "https://templatesgrokbot.com/bot/research-and-reporting-assistant"
   },
   {
+   "slug": "research-artifact-compiler",
+   "name": "Research Artifact Compiler",
+   "tagline": "Compiles any research input into a structured, machine-executable ARA knowledge package.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/science-and-research/research/research-artifact-compiler.md",
+   "url": "https://templatesgrokbot.com/bot/research-artifact-compiler",
+   "adapted_from": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/22-agent-native-research-artifact/compiler",
+   "source_license": "MIT"
+  },
+  {
    "slug": "research-associate-lit-review-copilot",
    "name": "Research Associate Lit Review Copilot",
    "tagline": "Assists research associates with literature review tasks from search to synthesis.",
@@ -132384,6 +132637,23 @@
    "path": "jobs/science-and-research/writing-and-content/research-grants.md",
    "url": "https://templatesgrokbot.com/bot/research-grants",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/research-grants",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "research-idea-generator",
+   "name": "Research Idea Generator",
+   "tagline": "Generates novel CS and AI research ideas using cognitive science frameworks.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research",
+    "generative-ai-and-llm"
+   ],
+   "path": "jobs/science-and-research/research/research-idea-generator.md",
+   "url": "https://templatesgrokbot.com/bot/research-idea-generator",
+   "adapted_from": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/21-research-ideation/creative-thinking-for-research",
    "source_license": "MIT"
   },
   {
@@ -132591,6 +132861,22 @@
    "url": "https://templatesgrokbot.com/bot/research-prompt",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "research-provenance-recorder",
+   "name": "Research Provenance Recorder",
+   "tagline": "Records research decisions, experiments, and dead ends as a chat session epilogue, with provenance tags.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/science-and-research/knowledge-management/research-provenance-recorder.md",
+   "url": "https://templatesgrokbot.com/bot/research-provenance-recorder",
+   "adapted_from": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/22-agent-native-research-artifact/research-manager",
+   "source_license": "MIT"
   },
   {
    "slug": "research-recommendation-tracker",
@@ -139905,6 +140191,22 @@
    "adapted_from": "https://collectivebrain.de/en/skills/search-console-analyse/"
   },
   {
+   "slug": "search-experience-optimizer",
+   "name": "Search Experience Optimizer",
+   "tagline": "Audits the path from search result to on-page conversion and fixes what makes visitors bounce.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/search-experience-optimizer.md",
+   "url": "https://templatesgrokbot.com/bot/search-experience-optimizer",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/seo/sxo",
+   "source_license": "MIT"
+  },
+  {
    "slug": "search-ranking-drop-investigator",
    "name": "Search Ranking Drop Investigator",
    "tagline": "Finds the most likely cause of a ranking drop with evidence and proposes the fix.",
@@ -145215,6 +145517,25 @@
    ],
    "path": "jobs/creatives/office-tools/slide-deck-audience-fit-review.md",
    "url": "https://templatesgrokbot.com/bot/slide-deck-audience-fit-review"
+  },
+  {
+   "slug": "slide-deck-generator",
+   "name": "Slide Deck Generator",
+   "tagline": "Turns your content into polished slide deck images for sharing.",
+   "category": "creative",
+   "jobs": [
+    "marketing",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "office-tools",
+    "design",
+    "generative-art"
+   ],
+   "path": "jobs/marketing/office-tools/slide-deck-generator.md",
+   "url": "https://templatesgrokbot.com/bot/slide-deck-generator",
+   "adapted_from": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-slide-deck",
+   "source_license": "MIT"
   },
   {
    "slug": "slide-deck-revision-round",
@@ -155471,6 +155792,23 @@
    "url": "https://templatesgrokbot.com/bot/systems-documentation-assistant"
   },
   {
+   "slug": "systems-paper-structurer",
+   "name": "Systems Paper Structurer",
+   "tagline": "Structures 10-12 page systems papers for top venues with paragraph-level blueprints and checklists.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/science-and-research/writing-and-content/systems-paper-structurer.md",
+   "url": "https://templatesgrokbot.com/bot/systems-paper-structurer",
+   "adapted_from": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/20-ml-paper-writing/systems-paper-writing",
+   "source_license": "MIT"
+  },
+  {
    "slug": "systems-programming-rust-project",
    "name": "Systems Programming Rust Project",
    "tagline": "Scaffold production-ready Rust projects with cargo, modules, and tests.",
@@ -159760,6 +160098,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "test-master",
+   "name": "Test Master",
+   "tagline": "Plans, writes, and reports on software tests across functional, performance, and security testing.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/coding/test-master.md",
+   "url": "https://templatesgrokbot.com/bot/test-master",
+   "adapted_from": "https://github.com/Jeffallan/claude-skills/tree/main/skills/test-master",
+   "source_license": "MIT"
+  },
+  {
    "slug": "test-result-interpretation-assistant",
    "name": "Test Result Interpretation Assistant",
    "tagline": "Interprets lab test results, flags abnormalities, and drafts reports for laboratory technicians.",
@@ -162662,6 +163017,22 @@
    "url": "https://templatesgrokbot.com/bot/transition-effects-advisor"
   },
   {
+   "slug": "translation-assistant",
+   "name": "Translation Assistant",
+   "tagline": "Translates articles and documents between languages with quick, normal, and refined modes.",
+   "category": "education",
+   "jobs": [
+    "writers"
+   ],
+   "topics": [
+    "translation"
+   ],
+   "path": "jobs/writers/translation/translation-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/translation-assistant",
+   "adapted_from": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-translate",
+   "source_license": "MIT"
+  },
+  {
    "slug": "translation-certification-checker",
    "name": "Translation Certification Checker",
    "tagline": "Compares translations to originals and checks certification and apostille requirements before filing.",
@@ -164810,6 +165181,24 @@
    "path": "jobs/it-and-development/coding/unity-game-developer.md",
    "url": "https://templatesgrokbot.com/bot/unity-game-developer",
    "adapted_from": "https://www.aitmpl.com/component/agents/game-development/unity-game-developer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "universal-release-manager",
+   "name": "Universal Release Manager",
+   "tagline": "Automates version bumps and multi-language changelogs for any project type, then prepares GitHub releases.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/universal-release-manager.md",
+   "url": "https://templatesgrokbot.com/bot/universal-release-manager",
+   "adapted_from": "https://github.com/JimLiu/baoyu-skills/tree/main/.claude/skills/release-skills",
    "source_license": "MIT"
   },
   {
@@ -168928,6 +169317,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "vla-fine-tuning-advisor",
+   "name": "VLA Fine-Tuning Advisor",
+   "tagline": "Fine-tunes and evaluates OpenVLA-OFT robot VLA policies for simulation and real-world.",
+   "category": "engineering",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/science-and-research/generative-ai-and-llm/vla-fine-tuning-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/vla-fine-tuning-advisor",
+   "adapted_from": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/18-multimodal/openvla-oft",
+   "source_license": "MIT"
+  },
+  {
    "slug": "vlan-configuration-assistant",
    "name": "VLAN Configuration Assistant",
    "tagline": "Design, configure, troubleshoot, and document VLANs across your network.",
@@ -171406,6 +171813,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "wechat-group-digest",
+   "name": "WeChat Group Digest",
+   "tagline": "Summarizes WeChat group chats into a structured, digestible highlight report with optional roast version.",
+   "category": "research",
+   "jobs": [
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "writing-and-content"
+   ],
+   "path": "jobs/management/productivity/wechat-group-digest.md",
+   "url": "https://templatesgrokbot.com/bot/wechat-group-digest",
+   "adapted_from": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-wechat-summary",
+   "source_license": "MIT"
+  },
+  {
    "slug": "wechat-mini-program-developer",
    "name": "WeChat Mini Program Developer",
    "tagline": "Builds and reviews WeChat Mini Programs, from page structure to WeChat Pay and review compliance.",
@@ -172069,6 +172493,22 @@
    ],
    "path": "jobs/legal/security-and-compliance/whistleblower-policy-manager.md",
    "url": "https://templatesgrokbot.com/bot/whistleblower-policy-manager"
+  },
+  {
+   "slug": "wi-fi-attack-assessor",
+   "name": "Wi-Fi Attack Assessor",
+   "tagline": "Assess legacy Wi-Fi clients for KRACK and FragAttacks vulnerabilities.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/wi-fi-attack-assessor.md",
+   "url": "https://templatesgrokbot.com/bot/wi-fi-attack-assessor",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-krack-fragattacks",
+   "source_license": "MIT"
   },
   {
    "slug": "widget-based-design",
@@ -173333,6 +173773,57 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "wpa-psk-cracker",
+   "name": "WPA PSK Cracker",
+   "tagline": "Cracks WPA/WPA2-PSK Wi-Fi passwords offline from captured handshakes or PMKIDs.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/wpa-psk-cracker.md",
+   "url": "https://templatesgrokbot.com/bot/wpa-psk-cracker",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-wpa2-psk",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "wpa3-security-assessor",
+   "name": "WPA3 Security Assessor",
+   "tagline": "Assess and exploit WPA3/SAE wireless networks in authorized engagements.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/wpa3-security-assessor.md",
+   "url": "https://templatesgrokbot.com/bot/wpa3-security-assessor",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-wpa3-sae",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "wps-pin-auditor",
+   "name": "WPS PIN Auditor",
+   "tagline": "Audits WPS-enabled routers for PIN vulnerabilities using Pixie Dust and online brute-force.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/wps-pin-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/wps-pin-auditor",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-wps",
+   "source_license": "MIT"
+  },
+  {
    "slug": "wrike-automation",
    "name": "Wrike Automation",
    "tagline": "Automate Wrike tasks, folders, projects, and assignments via Rube MCP.",
@@ -174277,6 +174768,23 @@
    "url": "https://templatesgrokbot.com/bot/yylo-workflow-ledger",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/workflow-yylo",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "z-wave-security-assessor",
+   "name": "Z-Wave Security Assessor",
+   "tagline": "Assess Z-Wave smart home security through sniffing, key analysis, and hub pivots.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/z-wave-security-assessor.md",
+   "url": "https://templatesgrokbot.com/bot/z-wave-security-assessor",
+   "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-z-wave",
+   "source_license": "MIT"
   },
   {
    "slug": "zapier-make-patterns",

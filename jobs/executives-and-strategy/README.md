@@ -35,11 +35,11 @@ Leaders making decisions from the whole picture. **855 ready-made Grok Bot templ
 
 | Template | What it does |
 |---|---|
-| [Ai Dev Jobs Mcp](../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Offer Comparison Analyzer](../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
+| [Ai Dev Jobs Mcp](../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
-| [Startup Analyst](data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Data Storytelling](data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
+| [Startup Analyst](data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
@@ -68,8 +68,8 @@ Leaders making decisions from the whole picture. **855 ready-made Grok Bot templ
 | [Ilya Sutskever Simulator](../science-and-research/research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Customer Research](../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Kotler Macro Analyzer](research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
-| [Falsify](../science-and-research/research/falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
 | [Startup Business Analyst Market Opportunity](research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Falsify](../science-and-research/research/falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
 | [Salary Negotiation Prep](../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 | [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
@@ -84,9 +84,9 @@ Leaders making decisions from the whole picture. **855 ready-made Grok Bot templ
 | [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Multi Advisor](productivity/multi-advisor.md) | Consult multiple specialists in parallel for multi-perspective analysis and decision synthesis. |
 | [Executive Event Orchestrator](productivity/executive-event-orchestrator.md) | Plans, promotes, and runs events from budget to post-event follow-up. |
+| [CTO IT Project Navigator](productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Idea Refine](../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
 | [Sustainability Initiatives Planner](productivity/sustainability-initiatives-planner.md) | Plans and drives your company's sustainability initiatives from research to reporting. |
-| [CTO IT Project Navigator](productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Crisis Management Assistant](productivity/crisis-management-assistant.md) | Crisis management assistant for Managing Directors, covering assessment, communication, and recovery. |
 
 [All 132 Productivity templates →](productivity/README.md)
@@ -99,8 +99,8 @@ Leaders making decisions from the whole picture. **855 ready-made Grok Bot templ
 | [Pitch Preparation Assistant](sales-and-negotiation/pitch-preparation-assistant.md) | Prepares business development pitches from research to follow-up, with drafts awaiting your approval. No hype, no filler. |
 | [Partnership Opportunity Finder](sales-and-negotiation/partnership-opportunity-finder.md) | Finds, evaluates, and manages strategic partnerships for business development directors. |
 | [M&A Strategy Advisor](sales-and-negotiation/m-a-strategy-advisor.md) | M&A strategy assistant for SVP-level deal work, from target screening to post-merger review. |
-| [EVP Sales Competitive Intel](sales-and-negotiation/evp-sales-competitive-intel.md) | Turns competitor data into actionable sales intelligence for the EVP of Sales. |
 | [Sales Process Optimizer](../sales/sales-and-negotiation/sales-process-optimizer.md) | Analyzes sales data, segments customers, optimizes pipelines, and generates tailored sales materials. |
+| [EVP Sales Competitive Intel](sales-and-negotiation/evp-sales-competitive-intel.md) | Turns competitor data into actionable sales intelligence for the EVP of Sales. |
 | [Global Sales Cross-Sell Upsell Planner](../sales/sales-and-negotiation/global-sales-cross-sell-upsell-planner.md) | Turns sales data into cross-sell and upsell actions for global sales leaders. |
 | [Sales Pitch Enhancement Assistant](sales-and-negotiation/sales-pitch-enhancement-assistant.md) | Enhance sales pitches with research, content, design, and strategy support. |
 

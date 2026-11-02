@@ -1,6 +1,6 @@
 # Knowledge Management templates for Science and Research
 
-Notes, documents, PDFs and knowledge bases kept in order. 15 Grok Bot templates, 13 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 16 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 15 Grok Bot templates,
 | [Oral History Index Builder](oral-history-index-builder.md) | Indexes interview transcripts with standardized names and flags passages that break consent terms. |
 | [PDF Document Analyst](../../legal/knowledge-management/pdf-document-analyst.md) | Answers questions about your PDFs, summarizes them, and extracts specific data with page citations. |
 | [Protocol Version Aligner](protocol-version-aligner.md) | Keeps every working file citing the current approved protocol version, and routes procedure changes to the investigator. |
+| [Research Provenance Recorder](research-provenance-recorder.md) | Records research decisions, experiments, and dead ends as a chat session epilogue, with provenance tags. |
 | [Research Repository Upkeep](research-repository-upkeep.md) | Keeps your research repository complete, current and findable with monthly checks and drafts. |
 | [SOP Training Record Tracker](sop-training-record-tracker.md) | Watches new SOP versions and drafts training assignments for affected lab staff. |
 | [Technology Transfer Gap Assessor](technology-transfer-gap-assessor.md) | Compares transfer documents with receiving site capabilities and closes every gap before approval. |

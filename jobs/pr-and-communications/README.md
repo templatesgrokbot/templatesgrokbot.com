@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **315 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **316 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,7 +21,7 @@ Press, internal comms and reputation. **315 ready-made Grok Bot templates** for 
 | [Support & Community](support-and-community/README.md) | 8 |
 | [Knowledge Management](knowledge-management/README.md) | 7 |
 | [Security & Compliance](security-and-compliance/README.md) | 6 |
-| [Office Tools](office-tools/README.md) | 4 |
+| [Office Tools](office-tools/README.md) | 5 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 2 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
@@ -387,6 +387,7 @@ Press, internal comms and reputation. **315 ready-made Grok Bot templates** for 
 | [Document Generator](../marketing/office-tools/document-generator.md) | Turns your data and outlines into polished PDF, PPTX, DOCX and XLSX files with consistent branding. |
 | [Presentation Deck Builder](../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
 | [Quiet Period Disclosure Calendar](office-tools/quiet-period-disclosure-calendar.md) | Builds the blackout calendar and flags investor meetings that fall inside quiet periods. |
+| [Slide Deck Generator](../marketing/office-tools/slide-deck-generator.md) | Turns your content into polished slide deck images for sharing. |
 | [Word Document Creation](../operations/office-tools/anthropic-docx.md) | Generate formatted Word documents with TOC, headers, page numbers, and letterhead from structured input. |
 
 ## Teaching & Tutoring
