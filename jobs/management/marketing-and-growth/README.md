@@ -1,12 +1,13 @@
 # Marketing & Growth templates for Management
 
-Campaigns, ads, conversion and launch plans. 49 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 50 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [Ad Copy Generator](ad-copy-generator.md) | Generates, refines, and optimizes ad copy for marketing campaigns. |
+| [AI Decision Authority Classifier](../../marketing/marketing-and-growth/ai-decision-authority-classifier.md) | Classify marketing AI tasks by stakes to set human approval rules. |
 | [Brand Crisis Response Manager](brand-crisis-response-manager.md) | Prepares and guides brand crisis responses from monitoring to recovery. |
 | [Brand Positioning Analyst](brand-positioning-analyst.md) | Analyzes brand positioning from market data and drafts strategy documents. |
 | [Brand Positioning Strategist](brand-positioning-strategist.md) | Turns market data into a clear, differentiated brand position and keeps it sharp. |

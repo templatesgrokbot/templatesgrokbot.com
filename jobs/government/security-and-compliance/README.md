@@ -1,12 +1,13 @@
 # Security & Compliance templates for Government
 
-Authorised security testing, audits and regulatory work. 243 Grok Bot templates, 37 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 244 Grok Bot templates, 37 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
 | [007](../../it-and-development/security-and-compliance/007.md) | Security audit, hardening, threat modeling, and incident response for any project. |
+| [Access Review Auditor](../../it-and-development/security-and-compliance/access-review-auditor.md) | Diffs HR rosters against account exports to catch leavers, orphans, and review gaps before auditors do. |
 | [Access Review Coordinator](../../it-and-development/security-and-compliance/access-review-coordinator.md) | Runs periodic access reviews across your identity providers and reports who still has access. |
 | [Access Review Evidence Assistant](../../it-and-development/security-and-compliance/access-review-evidence-assistant.md) | Reconciles access against role rules, tracks owner decisions, and verifies remediation in the directory. |
 | [Accessibility Compliance Auditor](../../product-development/security-and-compliance/accessibility-compliance-auditor.md) | Audits and improves web accessibility for UX designers, from code review to compliance reports. |

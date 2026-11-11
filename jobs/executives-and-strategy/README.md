@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **855 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **857 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,7 +21,7 @@ Leaders making decisions from the whole picture. **855 ready-made Grok Bot templ
 | [Cloud & DevOps](cloud-and-devops/README.md) | 17 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 14 |
 | [Knowledge Management](knowledge-management/README.md) | 11 |
-| [Self-Improvement](self-improvement/README.md) | 7 |
+| [Self-Improvement](self-improvement/README.md) | 9 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 6 |
 | [Social Media](social-media/README.md) | 5 |
 | [Design](design/README.md) | 4 |
@@ -39,8 +39,8 @@ Leaders making decisions from the whole picture. **855 ready-made Grok Bot templ
 | [Ai Dev Jobs Mcp](../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Data Storytelling](data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
-| [Startup Analyst](data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
+| [Startup Analyst](data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 
@@ -84,10 +84,10 @@ Leaders making decisions from the whole picture. **855 ready-made Grok Bot templ
 | [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Multi Advisor](productivity/multi-advisor.md) | Consult multiple specialists in parallel for multi-perspective analysis and decision synthesis. |
 | [Executive Event Orchestrator](productivity/executive-event-orchestrator.md) | Plans, promotes, and runs events from budget to post-event follow-up. |
-| [CTO IT Project Navigator](productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
-| [Idea Refine](../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
 | [Sustainability Initiatives Planner](productivity/sustainability-initiatives-planner.md) | Plans and drives your company's sustainability initiatives from research to reporting. |
+| [Idea Refine](../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
 | [Crisis Management Assistant](productivity/crisis-management-assistant.md) | Crisis management assistant for Managing Directors, covering assessment, communication, and recovery. |
+| [CTO IT Project Navigator](productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 
 [All 132 Productivity templates →](productivity/README.md)
 
@@ -98,11 +98,11 @@ Leaders making decisions from the whole picture. **855 ready-made Grok Bot templ
 | [M&A Deal Support Assistant](sales-and-negotiation/m-a-deal-support-assistant.md) | End-to-end M&A deal support: scouting, due diligence, valuation, negotiation, integration, and exit planning. |
 | [Pitch Preparation Assistant](sales-and-negotiation/pitch-preparation-assistant.md) | Prepares business development pitches from research to follow-up, with drafts awaiting your approval. No hype, no filler. |
 | [Partnership Opportunity Finder](sales-and-negotiation/partnership-opportunity-finder.md) | Finds, evaluates, and manages strategic partnerships for business development directors. |
+| [EVP Sales Competitive Intel](sales-and-negotiation/evp-sales-competitive-intel.md) | Turns competitor data into actionable sales intelligence for the EVP of Sales. |
 | [M&A Strategy Advisor](sales-and-negotiation/m-a-strategy-advisor.md) | M&A strategy assistant for SVP-level deal work, from target screening to post-merger review. |
 | [Sales Process Optimizer](../sales/sales-and-negotiation/sales-process-optimizer.md) | Analyzes sales data, segments customers, optimizes pipelines, and generates tailored sales materials. |
-| [EVP Sales Competitive Intel](sales-and-negotiation/evp-sales-competitive-intel.md) | Turns competitor data into actionable sales intelligence for the EVP of Sales. |
+| [Vendor Management and Evaluation Assistant](../it-and-development/sales-and-negotiation/vendor-management-and-evaluation-assistant.md) | Manages vendor lifecycle from selection to performance improvement for IT leaders. |
 | [Global Sales Cross-Sell Upsell Planner](../sales/sales-and-negotiation/global-sales-cross-sell-upsell-planner.md) | Turns sales data into cross-sell and upsell actions for global sales leaders. |
-| [Sales Pitch Enhancement Assistant](sales-and-negotiation/sales-pitch-enhancement-assistant.md) | Enhance sales pitches with research, content, design, and strategy support. |
 
 [All 38 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
@@ -111,8 +111,8 @@ Leaders making decisions from the whole picture. **855 ready-made Grok Bot templ
 | Template | What it does |
 |---|---|
 | [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
-| [EVP Cyber Risk Briefing](security-and-compliance/evp-cyber-risk-briefing.md) | Cybersecurity risk assessment assistant for an EVP of IT, covering scanning, policy, compliance, and reporting. |
 | [Finance Audit Readiness Tracker](security-and-compliance/finance-audit-readiness-tracker.md) | Prepares your company for audits by organizing documents, analyzing data, and tracking readiness. |
+| [EVP Cyber Risk Briefing](security-and-compliance/evp-cyber-risk-briefing.md) | Cybersecurity risk assessment assistant for an EVP of IT, covering scanning, policy, compliance, and reporting. |
 | [Data Governance Strategist](security-and-compliance/data-governance-strategist.md) | Data governance assistant for CDOs: classify, protect, and manage data assets. |
 | [Business Risk Management Assistant](security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Legal Compliance Assistant](security-and-compliance/legal-compliance-assistant.md) | Keeps your company compliant by handling policy, research, training, and reporting. |
@@ -126,13 +126,13 @@ Leaders making decisions from the whole picture. **855 ready-made Grok Bot templ
 | Template | What it does |
 |---|---|
 | [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
-| [Executive Speechwriter](writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
 | [Executive Decision Memo](writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
+| [Executive Speechwriter](writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
 | [Conflict Resolution Strategies Assistant](writing-and-content/conflict-resolution-strategies-assistant.md) | Designs and guides conflict resolution programs, materials, and coaching for HR leaders. |
 | [Strategy VP Comms Studio](writing-and-content/strategy-vp-comms-studio.md) | Plans and executes stakeholder communication for strategy VPs. |
 | [Business Plan Builder](writing-and-content/business-plan-builder.md) | Builds complete business plans from market research to executive summary. |
-| [Stakeholder Communication Director](writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
 | [Executive Communication Assistant](writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
+| [Stakeholder Communication Director](writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
 
 [All 24 Writing & Content templates →](writing-and-content/README.md)
 
@@ -157,8 +157,8 @@ Leaders making decisions from the whole picture. **855 ready-made Grok Bot templ
 |---|---|
 | [Conversation Reflection Check](generative-ai-and-llm/conversation-reflection-check.md) | Pauses the conversation to reassess direction, assumptions and bias, then recommends continue, pivot or pause. |
 | [Simple App Idea Generator](../product-development/generative-ai-and-llm/simple-app-idea-generator.md) | Brainstorm app ideas through fun, interactive questioning until ready for specification. |
-| [Data Strategy Review](generative-ai-and-llm/data-strategy-review.md) | Pressure-tests any data plan with six CDO questions before you commit budget, headcount or contracts. |
 | [Executive Agent Coordinator](generative-ai-and-llm/executive-agent-coordinator.md) | Coordinates cross-functional analysis between executive roles with strict loop and isolation rules. |
+| [Data Strategy Review](generative-ai-and-llm/data-strategy-review.md) | Pressure-tests any data plan with six CDO questions before you commit budget, headcount or contracts. |
 | [Strategy Duel Referee](generative-ai-and-llm/strategy-duel-referee.md) | Runs turn-based strategy duels using game theory and the 36 Chinese stratagems, with a verdict and recommendation. |
 | [AI Opportunity Shortlist Builder](generative-ai-and-llm/ai-opportunity-shortlist-builder.md) | Interviews a client and returns a ranked, data-grounded shortlist of AI opportunities for approval. |
 | [HR Digital Transformation Planner](generative-ai-and-llm/hr-digital-transformation-planner.md) | Digitizes HR operations from hiring to compliance with AI-assisted workflows. |
@@ -192,6 +192,9 @@ Leaders making decisions from the whole picture. **855 ready-made Grok Bot templ
 | [Founder Leadership Coach](self-improvement/founder-leadership-coach.md) | Coaches founders through delegation, energy, calendar and leadership transitions as the company scales. |
 | [Morpheus](../management/self-improvement/morpheus.md) | Analyzes options and makes decisions when you are stuck between choices. |
 | [Hard Call Decision Framework](self-improvement/hard-call-decision-framework.md) | Works through painful, hard-to-reverse decisions and returns a clear recommendation with a communication plan. |
+| [Naval Perspective Advisor](self-improvement/naval-perspective-advisor.md) | 用Naval Ravikant的思维框架分析职业、财富与欲望问题。 |
+
+[All 9 Self-Improvement templates →](self-improvement/README.md)
 
 ## Teaching & Tutoring
 

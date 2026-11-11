@@ -41,7 +41,7 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Regulatory Compliance Review Assistant](../finance/security-and-compliance/regulatory-compliance-review-assistant.md) | Regulatory compliance review and monitoring for insurance risk analysts. |
 | [Incident Response Planning Assistant](security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Protected Disclosure Compass](security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
-| [Regulatory Liaison Assistant](../government/security-and-compliance/regulatory-liaison-assistant.md) | Prepares, tracks, and communicates regulatory submissions and compliance for a Regulatory Affairs Specialist. |
+| [Shipping Rule Compliance Drafts](../operations/security-and-compliance/shipping-rule-compliance-drafts.md) | Ensures shipping compliance by researching rules, drafting documents, and monitoring risks. |
 
 [All 204 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -53,10 +53,10 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Legal Auction Analyst](research/legal-auction-analyst.md) | Analyzes nullities, family homestead and fiduciary alienation in real estate auctions under the CPC and Law 9.514/97. |
 | [Uspto Database](research/uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |
 | [IP Management Assistant](research/ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
-| [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Lex](research/lex.md) | Ground legal drafting in verified government references across US, EU, and CA jurisdictions. |
+| [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Brazilian Legal Advisor](research/specialist-attorney.md) | Specialist attorney in all areas of Brazilian law. |
-| [Crossframe Debate](../education/research/crossframe-debate.md) | Analyze propositions, debate structures, and withdrawal conditions using CrossFrame. |
+| [Notion Research Documentation](../operations/research/notion-research-documentation.md) | Researches your Notion workspace and produces cited briefs, comparisons, or reports. |
 
 [All 88 Research templates →](research/README.md)
 
@@ -67,8 +67,8 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Markitdown](../operations/productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
 | [PDF Workflows](../operations/productivity/anthropic-pdf.md) | Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe. |
 | [Royalty and Rights Manager](../creatives/productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
-| [Inventor Disclosure Intake](productivity/inventor-disclosure-intake.md) | Reads inventor disclosures, finds the gaps, and drafts the questions and filing recommendation for your approval. |
 | [Refusal Reasons Analysis Planner](productivity/refusal-reasons-analysis-planner.md) | Turns a refusal letter into a ranked route plan with deadlines and evidence, ready for your approval. |
+| [Inventor Disclosure Intake](productivity/inventor-disclosure-intake.md) | Reads inventor disclosures, finds the gaps, and drafts the questions and filing recommendation for your approval. |
 | [Immigration Appeal Deadline Tracker](productivity/immigration-appeal-deadline-tracker.md) | Tracks every appeal deadline and warns you early when tasks slip, before you file. |
 | [Transcript Delivery Package Checker](productivity/transcript-delivery-package-checker.md) | Checks every court transcript delivery package against the order before it goes out. |
 | [Clerkship Application Tracker](productivity/clerkship-application-tracker.md) | Keeps every judicial clerkship application complete, correctly named and submitted on time. |
@@ -84,8 +84,8 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Deal Room Risk Analyst](../finance/data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
 | [Compliance Monitoring Inspector](data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
 | [AML Due Diligence Drafter](data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
-| [E-Discovery Project Coordinator](data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Pdf Processing Pro](../operations/data-analysis/pdf-processing-pro.md) | Extracts text, tables, and form data from PDFs with validation and batch processing. |
+| [E-Discovery Project Coordinator](data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Azure Ai Document Intelligence Ts](../it-and-development/data-analysis/azure-ai-document-intelligence-ts.md) | Extract text, tables, and structured data from documents using Azure AI. |
 
 [All 35 Data Analysis templates →](data-analysis/README.md)
@@ -131,7 +131,7 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Writer](../operations/office-tools/writer.md) | Create, convert, and automate documents with LibreOffice Writer. |
 | [PDF to Word Converter](office-tools/pdf-to-word-converter.md) | Converts PDF files into editable Word documents while preserving layout, tables, and images. |
 | [Docx Official](../operations/office-tools/docx-official.md) | Create, read, edit, and manipulate .docx files with precise formatting and tracked changes. |
-| [Defined-Term Consistency Reviewer](office-tools/defined-term-consistency-reviewer.md) | Finds defined-term drift in revised contracts and proposes only mechanical tracked changes. |
+| [Motion Calendar Preparation](office-tools/motion-calendar-preparation.md) | Checks each motion's papers against local deadlines and drafts a one-page issue list for the judge. |
 
 [All 24 Office Tools templates →](office-tools/README.md)
 

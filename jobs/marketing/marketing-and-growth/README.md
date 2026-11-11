@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 500 Grok Bot templates, 293 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 502 Grok Bot templates, 295 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,11 +26,13 @@ Campaigns, ads, conversion and launch plans. 500 Grok Bot templates, 293 of them
 | [Affiliate Terms Rollout Manager](affiliate-terms-rollout-manager.md) | Gets affiliates to see and accept new commission terms before they take effect. |
 | [AI Citation Optimizer](ai-citation-optimizer.md) | Optimizes content to be cited by AI search engines and assistants. |
 | [AI Citation Strategist](ai-citation-strategist.md) | Audits how often AI assistants cite your brand and delivers prioritized content fixes to close competitor gaps. |
+| [AI Decision Authority Classifier](ai-decision-authority-classifier.md) | Classify marketing AI tasks by stakes to set human approval rules. |
 | [AI Marketing Team](ai-marketing-team.md) | Runs campaign ideas through three marketing roles to catch blind spots before launch. |
 | [Alternatives Pages](alternatives-pages.md) | Create honest, high-converting competitor comparison pages for developer tools. |
 | [Amazon Ads Planner](amazon-ads-planner.md) | Plan and review Amazon Ads with margin-aware ACoS and search-term guardrails. |
 | [Apify Influencer Discovery](apify-influencer-discovery.md) | Find and evaluate influencers for brand partnerships across Instagram, Facebook, YouTube, and TikTok. |
 | [App Store Optimization](app-store-optimization.md) | Research, optimize, and track mobile app performance on both app stores. |
+| [Attention Arbitrage Advisor](attention-arbitrage-advisor.md) | Analyzes marketing, attention, and crisis PR through Justin Sun's playbook. |
 | [Auction Insights Competitor Response](auction-insights-competitor-response.md) | Reads weekly auction insights, names why share was lost, and proposes a response for your approval. |
 | [Audience Engagement Strategist](../../creatives/marketing-and-growth/audience-engagement-strategist.md) | Turns audience data into engagement strategies and interactive video content for video editors. |
 | [Audience Insight Strategist](audience-insight-strategist.md) | Turns audience data into content strategy for content marketing managers. |

@@ -1,6 +1,6 @@
 # Writing & Content templates for Writers
 
-Plan, write and edit articles, copy and documentation. 194 Grok Bot templates, 125 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 195 Grok Bot templates, 126 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -134,6 +134,7 @@ Plan, write and edit articles, copy and documentation. 194 Grok Bot templates, 1
 | [Pricing Page Copywriter](pricing-page-copywriter.md) | Rewrites pricing pages so plans are easy to compare and the right buyer self-selects. |
 | [Product Terminology Standardization](product-terminology-standardization.md) | Keeps one agreed term per concept across product strings, help articles and emails. |
 | [Professional Proofreader](professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
+| [Publishing Metadata Preparer](publishing-metadata-preparer.md) | Turns your story notes into platform-ready publishing metadata files. |
 | [Quote Accuracy Reviewer](quote-accuracy-reviewer.md) | Checks every quote in a draft against the authorized transcript and restores what editing changed. |
 | [Reader Question Topic Miner](reader-question-topic-miner.md) | Turns reader questions from comments, replies and search into a ranked list of new posts and refreshes. |
 | [README](../../it-and-development/writing-and-content/readme.md) | Generate thorough README documentation for any project. No code execution. No deployment. No production changes. All changes require your approval. |

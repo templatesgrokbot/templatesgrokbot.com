@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **825 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **826 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,8 +24,8 @@ Accounting, budgeting, analysis and risk. **825 ready-made Grok Bot templates** 
 | [Cloud & DevOps](cloud-and-devops/README.md) | 4 |
 | [Support & Community](support-and-community/README.md) | 3 |
 | [Prompt Engineering](prompt-engineering/README.md) | 2 |
+| [Self-Improvement](self-improvement/README.md) | 2 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 1 |
-| [Self-Improvement](self-improvement/README.md) | 1 |
 | [Social Media](social-media/README.md) | 1 |
 
 ## Data Analysis
@@ -34,12 +34,12 @@ Accounting, budgeting, analysis and risk. **825 ready-made Grok Bot templates** 
 |---|---|
 | [Offer Comparison Analyzer](../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
 | [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
-| [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Excel Analysis](data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
+| [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Auction Market Analyst](data-analysis/auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |
-| [Financial Forecasting and Analysis Assistant](../executives-and-strategy/data-analysis/financial-forecasting-and-analysis-assistant.md) | Turns financial data into forecasts, budgets, and scenario insights for a VP of Finance. |
-| [CFO Tax Planning Assistant](data-analysis/cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
 | [School Budget Analysis Assistant](../education/data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
+| [CFO Tax Planning Assistant](data-analysis/cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
+| [Financial Forecasting and Analysis Assistant](../executives-and-strategy/data-analysis/financial-forecasting-and-analysis-assistant.md) | Turns financial data into forecasts, budgets, and scenario insights for a VP of Finance. |
 
 [All 495 Data Analysis templates →](data-analysis/README.md)
 
@@ -47,13 +47,13 @@ Accounting, budgeting, analysis and risk. **825 ready-made Grok Bot templates** 
 
 | Template | What it does |
 |---|---|
-| [Stripe Automation](productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [Vendor Watch](../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
+| [Stripe Automation](productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [Credit Card Max](productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
 | [Risk Analysis and Management Assistant](../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Meeting Coordination Assistant](productivity/meeting-coordination-assistant.md) | Handles scheduling, invitations, logistics, agendas, reminders, RSVPs, minutes, virtual setups, materials, follow-ups, surveys, and travel for… |
-| [Finance Event Orchestrator](productivity/finance-event-orchestrator.md) | Plans, coordinates, and tracks every detail of your events from venue to post-event feedback. |
 | [Financial Planning Assistant](productivity/financial-planning-assistant.md) | Personal financial planning assistant for tax analysts covering budgets, investments, retirement, taxes, debt, insurance, education, estate, cash… |
+| [Finance Event Orchestrator](productivity/finance-event-orchestrator.md) | Plans, coordinates, and tracks every detail of your events from venue to post-event feedback. |
 | [Expense Tracking Assistant](productivity/expense-tracking-assistant.md) | Manages expense tracking, reporting, budgets, and compliance for finance managers. |
 
 [All 102 Productivity templates →](productivity/README.md)
@@ -64,8 +64,8 @@ Accounting, budgeting, analysis and risk. **825 ready-made Grok Bot templates** 
 |---|---|
 | [Regulatory Compliance Review Assistant](security-and-compliance/regulatory-compliance-review-assistant.md) | Regulatory compliance review and monitoring for insurance risk analysts. |
 | [Finance Audit Readiness Tracker](../executives-and-strategy/security-and-compliance/finance-audit-readiness-tracker.md) | Prepares your company for audits by organizing documents, analyzing data, and tracking readiness. |
-| [Business Risk Management Assistant](../executives-and-strategy/security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Audit Support Assistant](security-and-compliance/audit-support-assistant.md) | Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports. |
+| [Business Risk Management Assistant](../executives-and-strategy/security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Technology Risk Assessment Assistant](security-and-compliance/technology-risk-assessment-assistant.md) | Assesses technology risks across infrastructure, vendors, data, and emerging tech for insurance risk analysts. |
 | [Regulatory Compliance Analyst](security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
 | [Compliance Report Generator](security-and-compliance/compliance-report-generator.md) | Automates financial reporting from data extraction to compliance and distribution. |
@@ -83,7 +83,7 @@ Accounting, budgeting, analysis and risk. **825 ready-made Grok Bot templates** 
 | [Helium Mcp](../science-and-research/research/helium-mcp.md) | Search news with bias analysis, get balanced perspectives, and look up live stock/options data. |
 | [Tax Code Interpretation Assistant](research/tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |
 | [Term Sheet Reader](research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
-| [Investment Research Analyst](research/investment-research-analyst.md) | Builds institutional-grade investment research with bull and bear cases, valuation, and exit triggers. |
+| [Tax Strategy Formulation Assistant](research/tax-strategy-formulation-assistant.md) | Researches tax law, analyzes financial data, and designs tax-efficient strategies for your organization. |
 | [Smart Money Tracker](research/smart-money-tracker.md) | Tracks what top crypto futures traders hold on Binance, Hyperliquid, Bybit and OKX. |
 
 [All 46 Research templates →](research/README.md)
@@ -165,14 +165,14 @@ Accounting, budgeting, analysis and risk. **825 ready-made Grok Bot templates** 
 
 | Template | What it does |
 |---|---|
-| [M&A Deal Support Assistant](../executives-and-strategy/sales-and-negotiation/m-a-deal-support-assistant.md) | End-to-end M&A deal support: scouting, due diligence, valuation, negotiation, integration, and exit planning. |
 | [Debt Negotiation Planner](sales-and-negotiation/debt-negotiation-planner.md) | Analyzes debt, builds repayment plans, and guides negotiations for a company's finances. |
+| [M&A Deal Support Assistant](../executives-and-strategy/sales-and-negotiation/m-a-deal-support-assistant.md) | End-to-end M&A deal support: scouting, due diligence, valuation, negotiation, integration, and exit planning. |
 | [Buyer Outreach Tracker](sales-and-negotiation/buyer-outreach-tracker.md) | Keeps the buyer list current and drafts follow-ups for overdue sale-process steps. |
 | [Account Closure Save Assistant](sales-and-negotiation/account-closure-save-assistant.md) | Flags at-risk account closures, drafts call plans, and tracks whether saved accounts stay open. |
 | [Deal Desk](sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
 | [Portfolio Introduction Matcher](sales-and-negotiation/portfolio-introduction-matcher.md) | Turns a founder's introduction request into a short, conflict-checked list for your approval. |
-| [Term Sheet Comparison Assistant](sales-and-negotiation/term-sheet-comparison-assistant.md) | Compares each new term sheet draft with your standard terms and the last version, showing what changed and what it costs. |
 | [Lender Bid Comparison Tracker](sales-and-negotiation/lender-bid-comparison-tracker.md) | Tracks every lender's term sheet into one ranked comparison table and drafts chasers for silent lenders. |
+| [Term Sheet Comparison Assistant](sales-and-negotiation/term-sheet-comparison-assistant.md) | Compares each new term sheet draft with your standard terms and the last version, showing what changed and what it costs. |
 
 ## Cloud & DevOps
 
@@ -198,17 +198,18 @@ Accounting, budgeting, analysis and risk. **825 ready-made Grok Bot templates** 
 | [Copyright Prompt Architect](prompt-engineering/copyright-prompt-architect.md) | Drafts precise AI prompts for copyright research, drafting, and protection workflows. |
 | [Prior-Year Carryover Check](prompt-engineering/prior-year-carryover-check.md) | Verifies every prior-year carryover rolls into the current return or has a written reason it did not. |
 
-## Marketing & Growth
-
-| Template | What it does |
-|---|---|
-| [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
-
 ## Self-Improvement
 
 | Template | What it does |
 |---|---|
 | [Financial Goal Planner](self-improvement/financial-goal-planner.md) | Turns savings goals into timelines, monthly targets, and investment plans. |
+| [Munger Perspective Advisor](self-improvement/munger-perspective-advisor.md) | Applies Charlie Munger's thinking to your decisions: inversion, biases, incentives, and honest limits. |
+
+## Marketing & Growth
+
+| Template | What it does |
+|---|---|
+| [Startup Business Analyst Business Case](../executives-and-strategy/marketing-and-growth/startup-business-analyst-business-case.md) | Generate investor-ready business case documents for startup fundraising and strategic planning. |
 
 ## Social Media
 

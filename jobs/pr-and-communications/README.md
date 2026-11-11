@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **316 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **317 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Press, internal comms and reputation. **316 ready-made Grok Bot templates** for 
 | [Office Tools](office-tools/README.md) | 5 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 4 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 2 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 | [Translation](translation/README.md) | 1 |
 
@@ -405,6 +406,12 @@ Press, internal comms and reputation. **316 ready-made Grok Bot templates** for 
 |---|---|
 | [Business Incident Response Coordination](cloud-and-devops/business-incident-response-coordination.md) | Keeps one verified incident timeline, tracked actions and approved updates for public affairs teams. |
 | [Post-Crisis Review Builder](cloud-and-devops/post-crisis-review-builder.md) | Turns a closed incident into a verified timeline, gap analysis and draft plan changes. |
+
+## Generative AI and LLM
+
+| Template | What it does |
+|---|---|
+| [Trump Perspective Analyzer](generative-ai-and-llm/trump-perspective-analyzer.md) | Analyzes and predicts Donald Trump's decisions and expressions using his mental models. |
 
 ## Sales & Negotiation
 

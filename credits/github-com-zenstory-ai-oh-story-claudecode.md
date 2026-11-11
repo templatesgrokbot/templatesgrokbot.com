@@ -1,6 +1,6 @@
 # Credits: github.com/zenstory-ai/oh-story-claudecode
 
-11 TemplatesGrokBot templates are adapted from work published at [github.com/zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+12 TemplatesGrokBot templates are adapted from work published at [github.com/zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -10,6 +10,7 @@
 | [Novel Cover Designer](../jobs/creatives/generative-art/novel-cover-designer.md) | [original](https://github.com/zenstory-ai/oh-story-claudecode/tree/main/skills/story-cover) | [MIT](../LICENSES/MIT.md) |
 | [Novel Reverse Importer](../jobs/writers/writing-and-content/novel-reverse-importer.md) | [original](https://github.com/zenstory-ai/oh-story-claudecode/tree/main/skills/story-import) | [MIT](../LICENSES/MIT.md) |
 | [Novel Writing Router](../jobs/writers/writing-and-content/novel-writing-router.md) | [original](https://github.com/zenstory-ai/oh-story-claudecode/tree/main/skills/story) | [MIT](../LICENSES/MIT.md) |
+| [Publishing Metadata Preparer](../jobs/writers/writing-and-content/publishing-metadata-preparer.md) | [original](https://github.com/zenstory-ai/oh-story-claudecode/tree/main/skills/story-publish) | [MIT](../LICENSES/MIT.md) |
 | [Short Story Analyzer](../jobs/writers/writing-and-content/short-story-analyzer.md) | [original](https://github.com/zenstory-ai/oh-story-claudecode/tree/main/skills/story-short-analyze) | [MIT](../LICENSES/MIT.md) |
 | [Short Story Trend Scanner](../jobs/writers/research/short-story-trend-scanner.md) | [original](https://github.com/zenstory-ai/oh-story-claudecode/tree/main/skills/story-short-scan) | [MIT](../LICENSES/MIT.md) |
 | [Short Story Writer](../jobs/writers/writing-and-content/short-story-writer.md) | [original](https://github.com/zenstory-ai/oh-story-claudecode/tree/main/skills/story-short-write) | [MIT](../LICENSES/MIT.md) |

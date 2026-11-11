@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **906 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **908 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Scientists, analysts and academic researchers. **906 ready-made Grok Bot templat
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 363 |
-| [Research](research/README.md) | 247 |
+| [Research](research/README.md) | 248 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 73 |
 | [Security & Compliance](security-and-compliance/README.md) | 50 |
 | [Coding](coding/README.md) | 44 |
@@ -20,7 +20,7 @@ Scientists, analysts and academic researchers. **906 ready-made Grok Bot templat
 | [Writing & Content](writing-and-content/README.md) | 23 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 15 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 11 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 12 |
 | [Design](design/README.md) | 7 |
 | [Office Tools](office-tools/README.md) | 5 |
 | [Support & Community](support-and-community/README.md) | 3 |
@@ -38,12 +38,12 @@ Scientists, analysts and academic researchers. **906 ready-made Grok Bot templat
 |---|---|
 | [Wireshark Analysis](../it-and-development/data-analysis/wireshark-analysis.md) | Analyze PCAP files with Wireshark filters and statistics for security and performance investigations. |
 | [Kusto Assistant](../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
-| [Plotly](../it-and-development/data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
-| [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
 | [Mlops Tensorboard](data-analysis/mlops-tensorboard.md) | Visualize training metrics, debug models, and compare experiments with TensorBoard. |
+| [Plotly](../it-and-development/data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
-| [Polars](../it-and-development/data-analysis/polars.md) | High-performance DataFrame operations using Polars with lazy evaluation and parallel execution. |
+| [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
 | [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
+| [Polars](../it-and-development/data-analysis/polars.md) | High-performance DataFrame operations using Polars with lazy evaluation and parallel execution. |
 
 [All 363 Data Analysis templates →](data-analysis/README.md)
 
@@ -54,21 +54,21 @@ Scientists, analysts and academic researchers. **906 ready-made Grok Bot templat
 | [Labarchive Integration](research/labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
 | [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
+| [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
+| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
 | [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
-| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
-| [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
 | [Clinvar Database](research/clinvar-database.md) | Query ClinVar for variant clinical significance and pathogenicity classifications. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 
-[All 247 Research templates →](research/README.md)
+[All 248 Research templates →](research/README.md)
 
 ## Generative AI and LLM
 
 | Template | What it does |
 |---|---|
-| [Llm Evaluation](../it-and-development/generative-ai-and-llm/llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
-| [Embedding Strategies](../it-and-development/generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
 | [Emerging Techniques Knowledge Distillation](../it-and-development/generative-ai-and-llm/emerging-techniques-knowledge-distillation.md) | Compress large language models by distilling knowledge from a teacher to a smaller student model. |
+| [Embedding Strategies](../it-and-development/generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
+| [Llm Evaluation](../it-and-development/generative-ai-and-llm/llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
 | [Optimization Hqq](../it-and-development/generative-ai-and-llm/optimization-hqq.md) | Quantize LLMs to 4/3/2-bit without calibration data, fast and memory-efficient. |
 | [Emerging Techniques Model Pruning](generative-ai-and-llm/emerging-techniques-model-pruning.md) | Prunes LLMs to reduce size and accelerate inference without retraining. |
 | [Huggingface Local Models](../it-and-development/generative-ai-and-llm/huggingface-local-models.md) | Select and run GGUF models locally with llama.cpp on CPU, Metal, CUDA, or ROCm. |
@@ -160,8 +160,8 @@ Scientists, analysts and academic researchers. **906 ready-made Grok Bot templat
 | [Huggingface Spaces](../it-and-development/cloud-and-devops/huggingface-spaces.md) | Build, deploy, and maintain ML apps on Hugging Face Spaces with Gradio, Docker, or Static SDKs. |
 | [Web Scraper](../it-and-development/cloud-and-devops/web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
 | [Remote Gpu Trainer](../it-and-development/cloud-and-devops/remote-gpu-trainer.md) | Deploy, monitor, and debug long GPU jobs on rented instances with safe teardown and resumable checkpoints. |
-| [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [Azure Ai Projects Java](../it-and-development/cloud-and-devops/azure-ai-projects-java.md) | Manage Azure AI Foundry projects via Java SDK for connections, datasets, indexes, and evaluations. |
+| [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [NOAA Radar Satellite Fetcher](cloud-and-devops/noaa-radar-satellite-fetcher.md) | Fetches NOAA NEXRAD radar and GOES satellite files by exact site, product, sector, and scan time. |
 | [Unified Memory Thermal Planner](../it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
 
@@ -180,7 +180,7 @@ Scientists, analysts and academic researchers. **906 ready-made Grok Bot templat
 | [Yann LeCun Debate](../education/teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
 | [Reinforcement Learning Strategist](teaching-and-tutoring/reinforcement-learning-strategist.md) | Designs and explains reinforcement learning strategies for data scientists, from theory to applied systems. No hype, just the math and the build. |
 
-[All 11 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+[All 12 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Design
 

@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **738 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **745 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,14 +17,14 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 | [Generative Art](generative-art/README.md) | 52 |
 | [Generative Code](generative-code/README.md) | 47 |
 | [Coding](coding/README.md) | 37 |
-| [Video Editing](video-editing/README.md) | 34 |
+| [Video Editing](video-editing/README.md) | 37 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 29 |
 | [Research](research/README.md) | 27 |
 | [Social Media](social-media/README.md) | 25 |
 | [Office Tools](office-tools/README.md) | 22 |
 | [Data Analysis](data-analysis/README.md) | 20 |
+| [Generative Video](generative-video/README.md) | 17 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 15 |
-| [Generative Video](generative-video/README.md) | 13 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 11 |
 | [Knowledge Management](knowledge-management/README.md) | 10 |
 | [Self-Improvement](self-improvement/README.md) | 7 |
@@ -46,10 +46,10 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 | [Sci Fi Interface](design/sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Pptx Posters](design/pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Ux Audit](design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
-| [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
-| [Bento Ui](design/bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
 | [Hig Components Search](design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
-| [Uxui Principles](design/uxui-principles.md) | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI-assisted design and coding sessio |
+| [Gradient Design](design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
+| [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
+| [Se Ux Ui Designer](design/se-ux-ui-designer.md) | Analyze user jobs, map journeys, and produce UX research artifacts for Figma designers. Identity: You are a UX research specialist that produces Jobs- |
 
 [All 217 Design templates →](design/README.md)
 
@@ -60,8 +60,8 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 | [Podcast Metadata Specialist](../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
 | [Seo Content Writer](../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Seo Aeo Landing Page Writer](../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
-| [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 | [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
+| [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 | [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
 | [Video Script writer](writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
@@ -74,8 +74,8 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 |---|---|
 | [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Notion Template Business](productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
-| [Live Recording Supervisor](productivity/live-recording-supervisor.md) | Supervises live recording sessions for film scores, from setup to post-production. |
 | [Royalty and Rights Manager](productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
+| [Live Recording Supervisor](productivity/live-recording-supervisor.md) | Supervises live recording sessions for film scores, from setup to post-production. |
 | [Brain Dump Organizer](../management/productivity/brain-dump-organizer.md) | Turns a messy brain dump into organized projects, tasks, connections, and concrete next offers. |
 | [Music Production Budget Planner](productivity/music-production-budget-planner.md) | Build and manage a realistic music production budget for film scoring projects. |
 | [Self-Tape Submission Assistant](productivity/self-tape-submission-assistant.md) | Renames, exports and uploads your self-tapes, verifies playback and submits before the deadline. |
@@ -89,12 +89,12 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 |---|---|
 | [Scientific Schematics](../science-and-research/generative-art/scientific-schematics.md) | Generate publication-quality scientific diagrams from natural language descriptions. |
 | [Slack Gif Creator](generative-art/slack-gif-creator.md) | Creates optimized animated GIFs for Slack from descriptions or uploaded images. |
-| [Daily Gift](generative-art/daily-gift.md) | Decides if a gift is needed today, then creates a personalized H5, image, or video artifact. No guessing, no filler. |
 | [Comfyui Gateway](../it-and-development/generative-art/comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |
+| [Daily Gift](generative-art/daily-gift.md) | Decides if a gift is needed today, then creates a personalized H5, image, or video artifact. No guessing, no filler. |
 | [Fal Generate](generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [Audio Mixer](generative-art/audio-mixer.md) | Mixes and masters multi-track audio for professional production. |
 | [Scroll Experience](generative-art/scroll-experience.md) | Build scroll-driven animations and parallax storytelling for narrative websites. |
-| [Rayden Use](generative-art/rayden-use.md) | Build and maintain Rayden UI components and screens in Figma with design token enforcement. |
+| [Fal Image Edit](generative-art/fal-image-edit.md) | Edits images with style transfer and object removal, pending your approval before any output is sent. |
 
 [All 52 Generative Art templates →](generative-art/README.md)
 
@@ -103,8 +103,8 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 | Template | What it does |
 |---|---|
 | [Makepad Font](../it-and-development/generative-code/makepad-font.md) | Configure and render text in Makepad using SDF fonts, layouter, and DSL. |
-| [Threejs Animation](generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
 | [Threejs Postprocessing](generative-code/threejs-postprocessing.md) | Add screen-space effects like bloom, DOF, and color grading in Three.js. |
+| [Threejs Animation](generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
 | [Magic Ui Generator](generative-code/magic-ui-generator.md) | Generate, compare, and integrate production-ready UI component variations using Magic by 21st.dev. |
 | [Figma](../it-and-development/generative-code/figma.md) | Fetches Figma designs and translates them into production code. |
 | [Game Design](generative-code/game-design.md) | Design game loops, documents, and progression systems. |
@@ -120,8 +120,8 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 | [Unity Game Developer](../it-and-development/coding/unity-game-developer.md) | Build and optimize Unity games with C# scripting and cross-platform deployment. You are a Unity game developer expert with 8+ years of experience buil |
 | [Design Taste Frontend](../it-and-development/coding/design-taste-frontend.md) | Build high-agency frontend UI with strict design taste, calibrated color, and motion rules. |
 | [Threejs Textures](../it-and-development/coding/threejs-textures.md) | Load, configure, and optimize textures in Three.js for materials and environments. |
-| [Makepad Splash](../it-and-development/coding/makepad-splash.md) | Write and debug Splash scripts for dynamic UI and workflow automation in Makepad. |
 | [Mui](../it-and-development/coding/mui.md) | Generate Material-UI v7 components with sx prop styling, theme integration, and responsive patterns. |
+| [Makepad Splash](../it-and-development/coding/makepad-splash.md) | Write and debug Splash scripts for dynamic UI and workflow automation in Makepad. |
 | [Tailwind Design System](../it-and-development/coding/tailwind-design-system.md) | Build production-ready Tailwind CSS design systems with tokens, variants, and accessibility. |
 | [Swiftui Liquid Glass](../it-and-development/coding/swiftui-liquid-glass.md) | Implement or review SwiftUI Liquid Glass with correct APIs, fallbacks, and modifier order. |
 | [Layered Design](../it-and-development/coding/layered-design.md) | Build interfaces with overlapping, depth-layered content using CSS, SwiftUI, Flutter, or React Native. |
@@ -141,7 +141,7 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 | [Video Router](video-editing/video-router.md) | Route video briefs to generate, compose, edit, or AUTO before production starts. |
 | [Short Video Editing Coach](video-editing/short-video-editing-coach.md) | Coaches short-video editing decisions from shot choice through color, audio, subtitles and export. |
 
-[All 34 Video Editing templates →](video-editing/README.md)
+[All 37 Video Editing templates →](video-editing/README.md)
 
 ## Marketing & Growth
 
@@ -152,8 +152,8 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 | [Popup Cro](../marketing/marketing-and-growth/popup-cro.md) | Designs and optimizes popups, modals, and banners to convert visitors without annoying them. |
 | [Keyword Extractor](../marketing/marketing-and-growth/keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
 | [Content Creation and Curation Planner](../executives-and-strategy/marketing-and-growth/content-creation-and-curation-planner.md) | Plans, creates, optimizes, and curates marketing content across channels. |
-| [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
 | [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
+| [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
 | [Video SEO Optimizer](marketing-and-growth/video-seo-optimizer.md) | Optimizes video SEO: keywords, titles, descriptions, tags, transcripts, thumbnails, metadata, competitors, sitemaps, embedding, and platform… |
 
 [All 29 Marketing & Growth templates →](marketing-and-growth/README.md)
@@ -165,8 +165,8 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 | [Ux Researcher](research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
 | [Discover Brand Materials](../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
 | [Photography Gear Advisor](research/photography-gear-advisor.md) | Personalized photography gear recommendations based on your shooting style and needs. |
-| [Competitor UX Analyst](../product-development/research/competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
 | [User Research Synthesis](../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
+| [Competitor UX Analyst](../product-development/research/competitor-ux-analyst.md) | Turns competitor data into UX strategy insights for designers. |
 | [Location Scout Planner](research/location-scout-planner.md) | Finds, vets, and plans photo shoot locations with research and logistics. |
 | [Historical Music Research Assistant](research/historical-music-research-assistant.md) | Research historical music and apply it to authentic film scores. |
 | [Film Music Trend Analyst](research/film-music-trend-analyst.md) | Uncovers and analyzes film music genre trends, from historical shifts to emerging styles, for composers. |
@@ -197,8 +197,8 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 | [PPTX Reference Analyzer](office-tools/pptx-reference-analyzer.md) | Analyzes reference PPTX decks for structure, theme, and design evidence without modifying them. |
 | [Pptx Deck Creation](../marketing/office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
 | [Presentation Deck Builder](../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
-| [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
 | [Markdown Slide Builder](../education/office-tools/markdown-slide-builder.md) | Turns your Markdown notes into themed Marp slide decks exported to PDF, PPTX, or HTML. |
+| [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
 | [Actor Booking Conflict Keeper](office-tools/actor-booking-conflict-keeper.md) | Keeps your holds, bookings and fittings clash-free and drafts the replies you approve. |
 
 [All 22 Office Tools templates →](office-tools/README.md)
@@ -218,27 +218,12 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 
 [All 20 Data Analysis templates →](data-analysis/README.md)
 
-## Teaching & Tutoring
-
-| Template | What it does |
-|---|---|
-| [Animation Production Planner](teaching-and-tutoring/animation-production-planner.md) | Animation basics and production assistant for graphic designers creating animated content. |
-| [Digital Scoring Guide](teaching-and-tutoring/digital-scoring-guide.md) | Guides film composers through every stage of digital music production, from sound design to mastering. |
-| [Film Score Orchestration Assistant](teaching-and-tutoring/film-score-orchestration-assistant.md) | Helps film composers orchestrate and arrange music for scenes, moods, and genres. |
-| [Film Score Emotional Analyst](teaching-and-tutoring/film-score-emotional-analyst.md) | Analyzes film music's emotional impact to help composers craft resonant scores. |
-| [Photo Editing Guidance Assistant](teaching-and-tutoring/photo-editing-guidance-assistant.md) | Guides photographers through editing tasks, from color correction to creative effects. |
-| [Photography Post-Processing Guide](teaching-and-tutoring/photography-post-processing-guide.md) | Guides photographers through post-processing techniques, from color correction to composite imaging. |
-| [Photography Techniques Advisor](teaching-and-tutoring/photography-techniques-advisor.md) | Get tailored photography guidance for composition, lighting, settings, and post-processing. |
-| [VFX Concept Advisor](teaching-and-tutoring/vfx-concept-advisor.md) | Guides video editors through VFX techniques, from keying to CGI integration. |
-
-[All 15 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
-
 ## Generative Video
 
 | Template | What it does |
 |---|---|
-| [Gemini Omni Flash Api](generative-video/gemini-omni-flash-api.md) | Generate and edit videos using Gemini Omni Flash with text, images, or existing clips. |
 | [Heygen Best Practices](../it-and-development/generative-video/heygen-best-practices.md) | Provides HeyGen API best practices for creating AI avatar videos. |
+| [Gemini Omni Flash Api](generative-video/gemini-omni-flash-api.md) | Generate and edit videos using Gemini Omni Flash with text, images, or existing clips. |
 | [Remotion](generative-video/remotion.md) | Generate walkthrough videos from Stitch screens using Remotion with transitions and text overlays. |
 | [Generate Animated Videos Remotion](generative-video/generate-animated-videos-remotion.md) | Makes 9:16 motion-graphics shorts in Remotion from a scene catalog. |
 | [Explainer Video Builder](../marketing/generative-video/explainer-video-builder.md) | Turn any source material into a tight 60-90 second explainer video for your product. |
@@ -246,7 +231,22 @@ Designers, artists and content creators. **738 ready-made Grok Bot templates** f
 | [Beatra Video Studio](generative-video/beatra-video-studio.md) | Produces short AI video clips on Beatra with a cost card and your approval before every paid call. |
 | [Remotion Video Renderer](generative-video/remotion-video-renderer.md) | Renders Remotion compositions to video or still files with the right codec and pixel format. |
 
-[All 13 Generative Video templates →](generative-video/README.md)
+[All 17 Generative Video templates →](generative-video/README.md)
+
+## Teaching & Tutoring
+
+| Template | What it does |
+|---|---|
+| [Animation Production Planner](teaching-and-tutoring/animation-production-planner.md) | Animation basics and production assistant for graphic designers creating animated content. |
+| [Film Score Orchestration Assistant](teaching-and-tutoring/film-score-orchestration-assistant.md) | Helps film composers orchestrate and arrange music for scenes, moods, and genres. |
+| [Digital Scoring Guide](teaching-and-tutoring/digital-scoring-guide.md) | Guides film composers through every stage of digital music production, from sound design to mastering. |
+| [Film Score Emotional Analyst](teaching-and-tutoring/film-score-emotional-analyst.md) | Analyzes film music's emotional impact to help composers craft resonant scores. |
+| [Photo Editing Guidance Assistant](teaching-and-tutoring/photo-editing-guidance-assistant.md) | Guides photographers through editing tasks, from color correction to creative effects. |
+| [Photography Post-Processing Guide](teaching-and-tutoring/photography-post-processing-guide.md) | Guides photographers through post-processing techniques, from color correction to composite imaging. |
+| [Photography Techniques Advisor](teaching-and-tutoring/photography-techniques-advisor.md) | Get tailored photography guidance for composition, lighting, settings, and post-processing. |
+| [VFX Concept Advisor](teaching-and-tutoring/vfx-concept-advisor.md) | Guides video editors through VFX techniques, from keying to CGI integration. |
+
+[All 15 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Sales & Negotiation
 

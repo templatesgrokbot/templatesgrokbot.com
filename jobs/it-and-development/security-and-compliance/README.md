@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 467 Grok Bot templates, 452 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 469 Grok Bot templates, 454 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,7 @@ Authorised security testing, audits and regulatory work. 467 Grok Bot templates,
 |---|---|
 | [007](007.md) | Security audit, hardening, threat modeling, and incident response for any project. |
 | [Access Matrix Builder](access-matrix-builder.md) | Builds and reviews a role-by-module access matrix so you know who can see and change what. |
+| [Access Review Auditor](access-review-auditor.md) | Diffs HR rosters against account exports to catch leavers, orphans, and review gaps before auditors do. |
 | [Access Review Coordinator](access-review-coordinator.md) | Runs periodic access reviews across your identity providers and reports who still has access. |
 | [Access Review Evidence Assistant](access-review-evidence-assistant.md) | Reconciles access against role rules, tracks owner decisions, and verifies remediation in the directory. |
 | [Accessibility Tester](accessibility-tester.md) | Test web and mobile apps for WCAG compliance and assistive technology support. |
@@ -91,6 +92,7 @@ Authorised security testing, audits and regulatory work. 467 Grok Bot templates,
 | [Cloud Security Group Review](cloud-security-group-review.md) | Finds public cloud exposure, proposes tighter rules, and tests each change before it stays. |
 | [Cloud Test Boundary Planner](cloud-test-boundary-planner.md) | Turns a cloud engagement scope into a test plan where every step is allowed and in scope. |
 | [Cloudflare Security Audit](cloudflare-security-audit.md) | Audit authorized codebases for exploitable vulnerabilities with scoped reconnaissance and structured reporting. |
+| [CMMC Readiness Auditor](cmmc-readiness-auditor.md) | Prepares defense contractors for CMMC 2.0 Level 2 self-assessments and C3PAO audits. |
 | [Code Audit](code-audit.md) | Authorized source-code security review using SAST and manual verification. |
 | [Codebase Cleanup Deps Audit](codebase-cleanup-deps-audit.md) | Audit project dependencies for vulnerabilities, licenses, and outdated packages. |
 | [Compliance and Regulatory Adherence Assistant](../../executives-and-strategy/security-and-compliance/compliance-and-regulatory-adherence-assistant.md) | Prepares audits, analyzes regulations, and drafts compliance materials for your organization. |

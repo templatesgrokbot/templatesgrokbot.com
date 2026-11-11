@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 10524,
+ "count": 10554,
  "templates": [
   {
    "slug": "007",
@@ -585,6 +585,24 @@
    ],
    "path": "jobs/it-and-development/security-and-compliance/access-matrix-builder.md",
    "url": "https://templatesgrokbot.com/bot/access-matrix-builder"
+  },
+  {
+   "slug": "access-review-auditor",
+   "name": "Access Review Auditor",
+   "tagline": "Diffs HR rosters against account exports to catch leavers, orphans, and review gaps before auditors do.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development",
+    "government"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/access-review-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/access-review-auditor",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/access-lifecycle/skills/access-lifecycle",
+   "source_license": "MIT"
   },
   {
    "slug": "access-review-coordinator",
@@ -2223,6 +2241,23 @@
    "url": "https://templatesgrokbot.com/bot/adversarial-code-reviewer",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/adversarial-reviewer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "adversarial-document-reviewer",
+   "name": "Adversarial Document Reviewer",
+   "tagline": "Runs a multi-agent adversarial review loop to audit documents and apply approved fixes.",
+   "category": "operations",
+   "jobs": [
+    "writers"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "writing-and-content"
+   ],
+   "path": "jobs/writers/generative-ai-and-llm/adversarial-document-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/adversarial-document-reviewer",
+   "adapted_from": "https://github.com/google/elephant-goldfish-model/tree/main/distributions/claude/skills/egm-review-loop",
+   "source_license": "Apache-2.0"
   },
   {
    "slug": "adverse-event-reporting-timeline",
@@ -4149,6 +4184,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "ai-decision-authority-classifier",
+   "name": "AI Decision Authority Classifier",
+   "tagline": "Classify marketing AI tasks by stakes to set human approval rules.",
+   "category": "operations",
+   "jobs": [
+    "marketing",
+    "management"
+   ],
+   "topics": [
+    "marketing-and-growth"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/ai-decision-authority-classifier.md",
+   "url": "https://templatesgrokbot.com/bot/ai-decision-authority-classifier",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/skills/ai-decision-authority",
+   "source_license": "MIT"
+  },
+  {
    "slug": "ai-deployment-hardening-review",
    "name": "AI Deployment Hardening Review",
    "tagline": "Reviews an AI deployment against prompt injection, data leakage, model theft and supply chain risks.",
@@ -4850,6 +4902,23 @@
    ],
    "path": "jobs/science-and-research/data-analysis/air-quality-monitoring-assistant.md",
    "url": "https://templatesgrokbot.com/bot/air-quality-monitoring-assistant"
+  },
+  {
+   "slug": "airbnb-listing-detail-fetcher",
+   "name": "Airbnb Listing Detail Fetcher",
+   "tagline": "Fetches complete Airbnb listing details from a listing ID.",
+   "category": "research",
+   "jobs": [
+    "real-estate-and-construction"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "research"
+   ],
+   "path": "jobs/real-estate-and-construction/generative-ai-and-llm/airbnb-listing-detail-fetcher.md",
+   "url": "https://templatesgrokbot.com/bot/airbnb-listing-detail-fetcher",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/airbnb-listing-detail",
+   "source_license": "MIT"
   },
   {
    "slug": "aircraft-certification-matrix-updater",
@@ -8180,6 +8249,24 @@
    "url": "https://templatesgrokbot.com/bot/art-insurance-renewal-assistant"
   },
   {
+   "slug": "art-motion-director",
+   "name": "Art Motion Director",
+   "tagline": "Turns scripts and ideas into art-style animated videos with camera and style control.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-video",
+    "text-to-video",
+    "video-editing"
+   ],
+   "path": "jobs/creatives/generative-video/art-motion-director.md",
+   "url": "https://templatesgrokbot.com/bot/art-motion-director",
+   "adapted_from": "https://github.com/alchaincyf/huashu-art-motion",
+   "source_license": "MIT"
+  },
+  {
    "slug": "article-cover-designer",
    "name": "Article Cover Designer",
    "tagline": "Turns an article into a finished cover image with a chosen type, palette, rendering, text and mood.",
@@ -8935,6 +9022,22 @@
    ],
    "path": "jobs/hospitality-and-events/productivity/attendee-accessibility-request-coordinator.md",
    "url": "https://templatesgrokbot.com/bot/attendee-accessibility-request-coordinator"
+  },
+  {
+   "slug": "attention-arbitrage-advisor",
+   "name": "Attention Arbitrage Advisor",
+   "tagline": "Analyzes marketing, attention, and crisis PR through Justin Sun's playbook.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/attention-arbitrage-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/attention-arbitrage-advisor",
+   "adapted_from": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/sun-yuchen-perspective",
+   "source_license": "MIT"
   },
   {
    "slug": "auction-analyst-ai",
@@ -27159,6 +27262,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "cmmc-readiness-auditor",
+   "name": "CMMC Readiness Auditor",
+   "tagline": "Prepares defense contractors for CMMC 2.0 Level 2 self-assessments and C3PAO audits.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/cmmc-readiness-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/cmmc-readiness-auditor",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/cmmc-readiness/skills/cmmc-readiness",
+   "source_license": "MIT"
+  },
+  {
    "slug": "cmo-feedback-insight-engine",
    "name": "CMO Feedback Insight Engine",
    "tagline": "Turns customer feedback into actionable insights for CMOs.",
@@ -44884,6 +45003,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "deep-research-coordinator",
+   "name": "Deep Research Coordinator",
+   "tagline": "Runs rigorous, multi-source research projects with documented evidence and refreshable findings.",
+   "category": "research",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/science-and-research/research/deep-research-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/deep-research-coordinator",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/research/meta-research/skills/meta-research",
+   "source_license": "MIT"
+  },
+  {
    "slug": "deep-research-notebooklm",
    "name": "Deep Research Notebooklm",
    "tagline": "Runs structured multi-source research via NotebookLM and delivers formatted briefs with optional studio artifacts.",
@@ -46188,6 +46323,39 @@
    ],
    "path": "jobs/product-development/knowledge-management/design-doc-change-sync.md",
    "url": "https://templatesgrokbot.com/bot/design-doc-change-sync"
+  },
+  {
+   "slug": "design-document-reviewer",
+   "name": "Design Document Reviewer",
+   "tagline": "Runs a structured five-phase design document review with specialized reviewer personas.",
+   "category": "engineering",
+   "jobs": [
+    "product-development"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/product-development/design/design-document-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/design-document-reviewer",
+   "adapted_from": "https://github.com/google/elephant-goldfish-model/tree/main/distributions/claude/skills/egm-review",
+   "source_license": "Apache-2.0"
+  },
+  {
+   "slug": "design-drift-detector",
+   "name": "Design Drift Detector",
+   "tagline": "Finds where code has diverged from design documents and reports the differences.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "research"
+   ],
+   "path": "jobs/it-and-development/coding/design-drift-detector.md",
+   "url": "https://templatesgrokbot.com/bot/design-drift-detector",
+   "adapted_from": "https://github.com/google/elephant-goldfish-model/tree/main/distributions/claude/skills/egm-drift-report",
+   "source_license": "Apache-2.0"
   },
   {
    "slug": "design-export-transparency-checker",
@@ -61845,6 +62013,22 @@
    ],
    "path": "jobs/it-and-development/prompt-engineering/few-shot-example-selector.md",
    "url": "https://templatesgrokbot.com/bot/few-shot-example-selector"
+  },
+  {
+   "slug": "feynman-perspective-advisor",
+   "name": "Feynman Perspective Advisor",
+   "tagline": "用费曼的视角检验理解、识别货物崇拜、审视决策。",
+   "category": "education",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/science-and-research/teaching-and-tutoring/feynman-perspective-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/feynman-perspective-advisor",
+   "adapted_from": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/feynman-perspective",
+   "source_license": "MIT"
   },
   {
    "slug": "ff-e-schedule-procurement-tracker",
@@ -84791,6 +84975,23 @@
    "source_license": "Apache-2.0"
   },
   {
+   "slug": "karpathy-perspective-advisor",
+   "name": "Karpathy Perspective Advisor",
+   "tagline": "Analyze AI topics through Andrej Karpathy's engineering mindset and mental models.",
+   "category": "education",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/karpathy-perspective-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/karpathy-perspective-advisor",
+   "adapted_from": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/andrej-karpathy-perspective",
+   "source_license": "MIT"
+  },
+  {
    "slug": "kegg-database",
    "name": "Kegg Database",
    "tagline": "Query KEGG pathways, genes, compounds, and drugs via REST API for academic research.",
@@ -97704,6 +97905,22 @@
    "url": "https://templatesgrokbot.com/bot/medical-coding-assistant"
   },
   {
+   "slug": "medical-device-software-classifier",
+   "name": "Medical Device Software Classifier",
+   "tagline": "Classifies medical device software safety, checks lifecycle gaps, SOUP, traceability, and security.",
+   "category": "operations",
+   "jobs": [
+    "product-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/product-development/security-and-compliance/medical-device-software-classifier.md",
+   "url": "https://templatesgrokbot.com/bot/medical-device-software-classifier",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/medical-device-software/skills/medical-device-software",
+   "source_license": "MIT"
+  },
+  {
    "slug": "medical-equipment-maintenance-coordinator",
    "name": "Medical Equipment Maintenance Coordinator",
    "tagline": "Reconciles medical equipment maintenance schedules and keeps every certificate matched to its serial number.",
@@ -101100,6 +101317,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "motion-design-remix",
+   "name": "Motion Design Remix",
+   "tagline": "Adapts proven motion compositions to new copy while preserving timing and movement.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-video",
+    "design"
+   ],
+   "path": "jobs/creatives/generative-video/motion-design-remix.md",
+   "url": "https://templatesgrokbot.com/bot/motion-design-remix",
+   "adapted_from": "https://github.com/nexu-io/html-anything/tree/main/library/skills/motion-design-remix",
+   "source_license": "Apache-2.0"
+  },
+  {
    "slug": "motion-language-designer",
    "name": "Motion Language Designer",
    "tagline": "Designs a product's motion language and exports tokens, Framer Motion variants, and CSS.",
@@ -101115,6 +101349,56 @@
    "url": "https://templatesgrokbot.com/bot/motion-language-designer",
    "adapted_from": "https://github.com/OneWave-AI/claude-skills/tree/main/motion-language-designer",
    "source_license": "MIT"
+  },
+  {
+   "slug": "motion-production-executor",
+   "name": "Motion Production Executor",
+   "tagline": "Executes approved edits, replacements, previews, and exports in existing OpenMotion projects.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "video-editing"
+   ],
+   "path": "jobs/creatives/video-editing/motion-production-executor.md",
+   "url": "https://templatesgrokbot.com/bot/motion-production-executor",
+   "adapted_from": "https://github.com/nexu-io/html-anything/tree/main/skills/motion-production",
+   "source_license": "Apache-2.0"
+  },
+  {
+   "slug": "motion-recreate",
+   "name": "Motion Recreate",
+   "tagline": "Recreates a reference video as your own editable OpenMotion project.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-video",
+    "design"
+   ],
+   "path": "jobs/creatives/generative-video/motion-recreate.md",
+   "url": "https://templatesgrokbot.com/bot/motion-recreate",
+   "adapted_from": "https://github.com/nexu-io/html-anything/tree/main/skills/motion-recreate",
+   "source_license": "Apache-2.0"
+  },
+  {
+   "slug": "motion-template-rebuilder",
+   "name": "Motion Template Rebuilder",
+   "tagline": "Rebuild a reference Motion video as an editable, reusable template with source, assets, preview, and instructions.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "video-editing",
+    "coding"
+   ],
+   "path": "jobs/creatives/video-editing/motion-template-rebuilder.md",
+   "url": "https://templatesgrokbot.com/bot/motion-template-rebuilder",
+   "adapted_from": "https://github.com/nexu-io/html-anything/tree/main/skills/motion-video-to-template",
+   "source_license": "Apache-2.0"
   },
   {
    "slug": "mount-allowlist-manager",
@@ -101180,6 +101464,23 @@
    "url": "https://templatesgrokbot.com/bot/moyu",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "mrbeast-perspective-advisor",
+   "name": "MrBeast Perspective Advisor",
+   "tagline": "YouTube content optimization advice from MrBeast's perspective, driven by data.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/social-media/mrbeast-perspective-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/mrbeast-perspective-advisor",
+   "adapted_from": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/mrbeast-perspective",
+   "source_license": "MIT"
   },
   {
    "slug": "mrms-mosaic-access",
@@ -101977,6 +102278,22 @@
    "url": "https://templatesgrokbot.com/bot/multiplayer-systems-architect"
   },
   {
+   "slug": "munger-perspective-advisor",
+   "name": "Munger Perspective Advisor",
+   "tagline": "Applies Charlie Munger's thinking to your decisions: inversion, biases, incentives, and honest limits.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "self-improvement"
+   ],
+   "path": "jobs/finance/self-improvement/munger-perspective-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/munger-perspective-advisor",
+   "adapted_from": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/munger-perspective",
+   "source_license": "MIT"
+  },
+  {
    "slug": "music-and-stock-license-tracker",
    "name": "Music and Stock License Tracker",
    "tagline": "Checks every third-party asset in a project against its license and builds the client license sheet.",
@@ -102557,6 +102874,22 @@
    ],
    "path": "jobs/science-and-research/data-analysis/natural-hazard-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/natural-hazard-analysis-assistant"
+  },
+  {
+   "slug": "naval-perspective-advisor",
+   "name": "Naval Perspective Advisor",
+   "tagline": "用Naval Ravikant的思维框架分析职业、财富与欲望问题。",
+   "category": "personal",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "self-improvement"
+   ],
+   "path": "jobs/executives-and-strategy/self-improvement/naval-perspective-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/naval-perspective-advisor",
+   "adapted_from": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/naval-perspective",
+   "source_license": "MIT"
   },
   {
    "slug": "nda-drafter",
@@ -105396,6 +105729,22 @@
    "url": "https://templatesgrokbot.com/bot/nyt-frame-chart-maker",
    "adapted_from": "https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/frame-data-chart-nyt",
    "source_license": "Apache-2.0"
+  },
+  {
+   "slug": "oauth-failure-triage",
+   "name": "OAuth Failure Triage",
+   "tagline": "Classify OAuth connector failures before touching code.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/oauth-failure-triage.md",
+   "url": "https://templatesgrokbot.com/bot/oauth-failure-triage",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/skills/mcp-oauth-triage",
+   "source_license": "MIT"
   },
   {
    "slug": "oauth-security-auditor",
@@ -113793,6 +114142,22 @@
    "url": "https://templatesgrokbot.com/bot/persona-architect-for-founders"
   },
   {
+   "slug": "persona-distiller",
+   "name": "Persona Distiller",
+   "tagline": "Turns a person's real words and deeds into a runnable thinking framework.",
+   "category": "research",
+   "jobs": [
+    "writers"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/writers/research/persona-distiller.md",
+   "url": "https://templatesgrokbot.com/bot/persona-distiller",
+   "adapted_from": "https://github.com/alchaincyf/nuwa-skill",
+   "source_license": "MIT"
+  },
+  {
    "slug": "persona-evidence-refresh",
    "name": "Persona Evidence Refresh",
    "tagline": "Tests each persona claim against current CRM, support and survey data, then drafts evidence-backed revisions for your approval.",
@@ -119664,6 +120029,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "presenter-video-adapter",
+   "name": "Presenter Video Adapter",
+   "tagline": "Adapt presenter-led videos with reusable motion design recipes for listicles, workflows, and product walkthroughs.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "video-editing",
+    "design"
+   ],
+   "path": "jobs/creatives/video-editing/presenter-video-adapter.md",
+   "url": "https://templatesgrokbot.com/bot/presenter-video-adapter",
+   "adapted_from": "https://github.com/nexu-io/html-anything/tree/main/library/skills/presenter-story",
+   "source_license": "Apache-2.0"
+  },
+  {
    "slug": "press-asset-permission-checker",
    "name": "Press Asset Permission Checker",
    "tagline": "Builds press packs containing only assets whose documented rights match the intended use.",
@@ -125242,6 +125624,23 @@
    ],
    "path": "jobs/finance/research/public-target-filing-watch.md",
    "url": "https://templatesgrokbot.com/bot/public-target-filing-watch"
+  },
+  {
+   "slug": "publishing-metadata-preparer",
+   "name": "Publishing Metadata Preparer",
+   "tagline": "Turns your story notes into platform-ready publishing metadata files.",
+   "category": "operations",
+   "jobs": [
+    "writers"
+   ],
+   "topics": [
+    "writing-and-content",
+    "knowledge-management"
+   ],
+   "path": "jobs/writers/writing-and-content/publishing-metadata-preparer.md",
+   "url": "https://templatesgrokbot.com/bot/publishing-metadata-preparer",
+   "adapted_from": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/skills/story-publish",
+   "source_license": "MIT"
   },
   {
    "slug": "pubmed-database",
@@ -132193,6 +132592,22 @@
    "url": "https://templatesgrokbot.com/bot/reporting-and-documentation-assistant"
   },
   {
+   "slug": "repository-readme-bootstrapper",
+   "name": "Repository README Bootstrapper",
+   "tagline": "Generates and verifies EGM-compliant README.md files across a repository tree.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/writing-and-content/repository-readme-bootstrapper.md",
+   "url": "https://templatesgrokbot.com/bot/repository-readme-bootstrapper",
+   "adapted_from": "https://github.com/google/elephant-goldfish-model/tree/main/distributions/claude/skills/egm-bootstrap",
+   "source_license": "Apache-2.0"
+  },
+  {
    "slug": "reproducibility-bundle-builder",
    "name": "Reproducibility Bundle Builder",
    "tagline": "Builds and tests a reproduction bundle for a published analysis, stating any steps that cannot be reproduced.",
@@ -134368,6 +134783,22 @@
    "url": "https://templatesgrokbot.com/bot/review-multi-agent-orchestration",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "review-resolution-manager",
+   "name": "Review Resolution Manager",
+   "tagline": "Resolves code review findings by categorizing, proposing fixes, and managing approval.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/review-resolution-manager.md",
+   "url": "https://templatesgrokbot.com/bot/review-resolution-manager",
+   "adapted_from": "https://github.com/google/elephant-goldfish-model/tree/main/distributions/claude/skills/egm-resolve",
+   "source_license": "Apache-2.0"
   },
   {
    "slug": "review-response-writer",
@@ -159347,6 +159778,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "template-video-producer",
+   "name": "Template Video Producer",
+   "tagline": "Turns editable Motion templates into videos, preserving structure and motion.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-video",
+    "video-editing"
+   ],
+   "path": "jobs/creatives/generative-video/template-video-producer.md",
+   "url": "https://templatesgrokbot.com/bot/template-video-producer",
+   "adapted_from": "https://github.com/nexu-io/html-anything/tree/main/skills/motion-template-to-video",
+   "source_license": "Apache-2.0"
+  },
+  {
    "slug": "skill-writer",
    "name": "Template Writer",
    "tagline": "Author and refine agent capabilities using a structured research-to-publish workflow.",
@@ -163907,6 +164355,23 @@
    "url": "https://templatesgrokbot.com/bot/trpc-fullstack",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "trump-perspective-analyzer",
+   "name": "Trump Perspective Analyzer",
+   "tagline": "Analyzes and predicts Donald Trump's decisions and expressions using his mental models.",
+   "category": "research",
+   "jobs": [
+    "pr-and-communications"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "sales-and-negotiation"
+   ],
+   "path": "jobs/pr-and-communications/generative-ai-and-llm/trump-perspective-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/trump-perspective-analyzer",
+   "adapted_from": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/trump-perspective",
+   "source_license": "MIT"
   },
   {
    "slug": "trust-calibrator",
@@ -174928,6 +175393,42 @@
    "url": "https://templatesgrokbot.com/bot/zeroize-audit",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "zhang-xuefeng-perspective",
+   "name": "Zhang Xuefeng Perspective",
+   "tagline": "用张雪峰的视角分析教育、职业与阶层问题，先查数据再给判断。",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "prompt-engineering",
+    "research",
+    "data-analysis",
+    "self-improvement"
+   ],
+   "path": "jobs/education/prompt-engineering/zhang-xuefeng-perspective.md",
+   "url": "https://templatesgrokbot.com/bot/zhang-xuefeng-perspective",
+   "adapted_from": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/zhangxuefeng-perspective",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "zhang-yiming-perspective",
+   "name": "Zhang Yiming Perspective",
+   "tagline": "Analyzes products, organizations, and growth through Zhang Yiming's mental models.",
+   "category": "operations",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "self-improvement",
+    "marketing-and-growth"
+   ],
+   "path": "jobs/executives-and-strategy/self-improvement/zhang-yiming-perspective.md",
+   "url": "https://templatesgrokbot.com/bot/zhang-yiming-perspective",
+   "adapted_from": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/zhang-yiming-perspective",
+   "source_license": "MIT"
   },
   {
    "slug": "zhihu-authority-strategist",

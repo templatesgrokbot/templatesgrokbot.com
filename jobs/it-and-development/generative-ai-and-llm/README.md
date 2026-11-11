@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 267 Grok Bot templates, 247 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 268 Grok Bot templates, 248 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -139,6 +139,7 @@ Work with language models, agents and their plumbing. 267 Grok Bot templates, 24
 | [IT Automation Solutions Architect](it-automation-solutions-architect.md) | Designs and implements AI-driven IT automation solutions for consultants. |
 | [IT Support Chatbot Builder](it-support-chatbot-builder.md) | Builds and maintains AI chatbots and helpdesk workflows for IT support teams. |
 | [Judgment Step Router](judgment-step-router.md) | Routes yes/no, pick-one and risk questions about a state to a judgment model instead of generating text. |
+| [Karpathy Perspective Advisor](karpathy-perspective-advisor.md) | Analyze AI topics through Andrej Karpathy's engineering mindset and mental models. |
 | [Lambda Lang](lambda-lang.md) | A compact agent-to-agent language for structured multi-agent messaging. |
 | [Langchain Architecture](langchain-architecture.md) | Build LLM apps with LangChain agents, chains, memory, and tools. |
 | [Langfuse](langfuse.md) | Instrument LLM apps with Langfuse tracing, evaluation, and prompt management. |

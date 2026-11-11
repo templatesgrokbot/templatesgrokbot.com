@@ -1,6 +1,6 @@
 # Security & Compliance templates for Product Development
 
-Authorised security testing, audits and regulatory work. 42 Grok Bot templates, 22 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 43 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Authorised security testing, audits and regulatory work. 42 Grok Bot templates, 
 | [Hardware Compliance Pre-Check](hardware-compliance-pre-check.md) | Checks your design against the certification checklist and assembles the test-house pack before you submit. |
 | [Ingredient Market Approval Check](ingredient-market-approval-check.md) | Checks every formula ingredient against each target market's approved list and use limits. |
 | [Material Declaration Tracker](material-declaration-tracker.md) | Keeps every bill-of-materials component covered by a current, checked material declaration. |
+| [Medical Device Software Classifier](medical-device-software-classifier.md) | Classifies medical device software safety, checks lifecycle gaps, SOUP, traceability, and security. |
 | [Nutrition Label Calculation Assistant](nutrition-label-calculation-assistant.md) | Turns a formula into a compliant nutrition panel, ingredient list and allergen statement. |
 | [Packaging Artwork Change Control](packaging-artwork-change-control.md) | Checks packaging artwork against spec, collects every approval, and verifies the print proof before release. |
 | [Packaging Compliance Assistant](packaging-compliance-assistant.md) | Turns packaging regulations into clear, actionable compliance steps for your products. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **456 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **457 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,8 +26,8 @@ Teachers, trainers and students. **456 ready-made Grok Bot templates** for this 
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 3 |
 | [Translation](translation/README.md) | 3 |
 | [Generative Code](generative-code/README.md) | 2 |
+| [Prompt Engineering](prompt-engineering/README.md) | 2 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 1 |
-| [Prompt Engineering](prompt-engineering/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 | [Text-To-Video](text-to-video/README.md) | 1 |
 | [Video Editing](video-editing/README.md) | 1 |
@@ -39,11 +39,11 @@ Teachers, trainers and students. **456 ready-made Grok Bot templates** for this 
 | [Microsoft Study Mode](teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
 | [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Lightning Factory Explainer](teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
-| [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Environmental Education Content Creator](../science-and-research/teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
+| [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Question Generation Assistant](teaching-and-tutoring/question-generation-assistant.md) | Generates diverse questions for quizzes, exams, and classroom activities. |
 | [Warren Buffett](teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
-| [Role-Play Scenario Development Assistant](teaching-and-tutoring/role-play-scenario-development-assistant.md) | Builds realistic, objective-aligned role-play scenarios for training instructors and their trainees. |
+| [Elementary Fun Fact Activity Maker](teaching-and-tutoring/elementary-fun-fact-activity-maker.md) | Turns fun facts into ready-to-use classroom activities for elementary teachers. |
 
 [All 172 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
@@ -57,8 +57,8 @@ Teachers, trainers and students. **456 ready-made Grok Bot templates** for this 
 | [Course Scheduling Assistant](productivity/course-scheduling-assistant.md) | Automates course scheduling, recommendations, and updates for teaching assistants. |
 | [Daily Elementary Classroom Manager](productivity/daily-elementary-classroom-manager.md) | Manages daily classroom routines, behavior, and parent communication for elementary teachers. |
 | [School Facility Coordinator](productivity/school-facility-coordinator.md) | Central hub for school facility management, from maintenance to emergency prep. |
-| [Instructor Lifecycle Manager](productivity/instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
 | [School Event Planning Assistant](productivity/school-event-planning-assistant.md) | Plans and coordinates school events from venue to follow-up. |
+| [Instructor Lifecycle Manager](productivity/instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
 
 [All 93 Productivity templates →](productivity/README.md)
 
@@ -85,8 +85,8 @@ Teachers, trainers and students. **456 ready-made Grok Bot templates** for this 
 | [Safety Training Program Developer](../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
 | [Training Module Developer](../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
 | [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
-| [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
 | [Parent Communication Drafter](writing-and-content/parent-communication-drafter.md) | Drafts all parent communication for elementary teachers, from welcome letters to end-of-year reflections. |
+| [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
 | [Training Content Development Assistant](../human-resources/writing-and-content/training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
 | [Training Material Creator](../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
 
@@ -159,8 +159,8 @@ Teachers, trainers and students. **456 ready-made Grok Bot templates** for this 
 | [Interview Coach](../human-resources/self-improvement/interview-coach.md) | Full job search coaching: JD decoding, mock interviews, transcript analysis, and comp negotiation. |
 | [Sleep Coach](../healthcare/self-improvement/sleep-coach.md) | Correlates what you did each day with how you slept and names the one habit to change. |
 | [Satori](self-improvement/satori.md) | A structured thinking partner blending psychology and philosophy for inner exploration. |
-| [Workout Program Designer](self-improvement/workout-program-designer.md) | Designs personalized workout plans by goal, with progressive overload and rest-day optimization. |
 | [Career Changer Translator](../human-resources/self-improvement/career-changer-translator.md) | Translates skills from one industry to another for career pivots. |
+| [Workout Program Designer](self-improvement/workout-program-designer.md) | Designs personalized workout plans by goal, with progressive overload and rest-day optimization. |
 | [Cohort Progress Coach Assistant](self-improvement/cohort-progress-coach-assistant.md) | Tracks each group member's pace and drafts the right check-in before anyone falls too far behind. |
 | [Plateau Investigation Assistant](../healthcare/self-improvement/plateau-investigation-assistant.md) | Finds the most likely cause of a client's progress plateau and proposes one change at a time. |
 | [Vocal Practice Progress Tracker](self-improvement/vocal-practice-progress-tracker.md) | Measures each practice take, tracks progress against your goals, and writes a weekly note for your coach. |
@@ -223,17 +223,18 @@ Teachers, trainers and students. **456 ready-made Grok Bot templates** for this 
 | [Manim](generative-code/manim.md) | Guides you in writing Manim Python code to create mathematical animations and educational videos. |
 | [Reveal.js Presentation Builder](generative-code/reveal-js-presentation-builder.md) | Turns your outline into a complete reveal.js HTML slide deck you can open in a browser. |
 
-## Cloud & DevOps
-
-| Template | What it does |
-|---|---|
-| [IP Subnetting Assistant](../it-and-development/cloud-and-devops/ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
-
 ## Prompt Engineering
 
 | Template | What it does |
 |---|---|
 | [Prompt Engineering Instructor](../it-and-development/prompt-engineering/prompt-engineering-instructor.md) | Guides developers in using Instructor to extract validated structured data from LLM responses. |
+| [Zhang Xuefeng Perspective](prompt-engineering/zhang-xuefeng-perspective.md) | 用张雪峰的视角分析教育、职业与阶层问题，先查数据再给判断。 |
+
+## Cloud & DevOps
+
+| Template | What it does |
+|---|---|
+| [IP Subnetting Assistant](../it-and-development/cloud-and-devops/ip-subnetting-assistant.md) | Handles IP addressing and subnetting calculations, planning, documentation, and training for network engineers. |
 
 ## Sales & Negotiation
 

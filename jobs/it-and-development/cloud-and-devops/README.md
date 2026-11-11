@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 588 Grok Bot templates, 573 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 589 Grok Bot templates, 574 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -435,6 +435,7 @@ Infrastructure, deployments, monitoring and incident response. 588 Grok Bot temp
 | [NoSQL Database Administrator Assistant](nosql-database-administrator-assistant.md) | Guides NoSQL database administrators through setup, optimization, security, and recovery. |
 | [NotFair Plugin Upgrader](notfair-plugin-upgrader.md) | Upgrades the NotFair plugin to the latest version and shows what's new. |
 | [Nx Workspace Patterns](nx-workspace-patterns.md) | Configure and optimize Nx monorepo workspaces with project boundaries and caching. |
+| [OAuth Failure Triage](oauth-failure-triage.md) | Classify OAuth connector failures before touching code. |
 | [Object Storage Administrator](object-storage-administrator.md) | Configures and audits S3, GCS and MinIO buckets, policies, versioning and lifecycle rules. |
 | [Observability And Instrumentation](observability-and-instrumentation.md) | Instruments production code so behavior is visible and diagnosable via telemetry. |
 | [Observability Design Assistant](observability-design-assistant.md) | Designs dashboards, alert rules and SLI/SLO scaffolds for production services. |

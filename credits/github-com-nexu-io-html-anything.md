@@ -1,6 +1,6 @@
 # Credits: github.com/nexu-io/html-anything
 
-43 TemplatesGrokBot templates are adapted from work published at [github.com/nexu-io/html-anything](https://github.com/nexu-io/html-anything). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+49 TemplatesGrokBot templates are adapted from work published at [github.com/nexu-io/html-anything](https://github.com/nexu-io/html-anything). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -30,9 +30,14 @@
 | [Magazine Poster Designer](../jobs/creatives/design/magazine-poster-designer.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/magazine-poster) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [Manifesto Deck Builder](../jobs/creatives/office-tools/manifesto-deck-builder.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/deck-ljg-present) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [Modern Minimal Resume Builder](../jobs/human-resources/office-tools/modern-minimal-resume-builder.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/resume-modern) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
+| [Motion Design Remix](../jobs/creatives/generative-video/motion-design-remix.md) | [original](https://github.com/nexu-io/html-anything/tree/main/library/skills/motion-design-remix) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
+| [Motion Production Executor](../jobs/creatives/video-editing/motion-production-executor.md) | [original](https://github.com/nexu-io/html-anything/tree/main/skills/motion-production) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
+| [Motion Recreate](../jobs/creatives/generative-video/motion-recreate.md) | [original](https://github.com/nexu-io/html-anything/tree/main/skills/motion-recreate) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
+| [Motion Template Rebuilder](../jobs/creatives/video-editing/motion-template-rebuilder.md) | [original](https://github.com/nexu-io/html-anything/tree/main/skills/motion-video-to-template) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [NYT Frame Chart Maker](../jobs/writers/generative-code/nyt-frame-chart-maker.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/frame-data-chart-nyt) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [Pixel Animation Frame Maker](../jobs/creatives/generative-code/pixel-animation-frame-maker.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/sprite-animation) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [PRD Single Pager](../jobs/product-development/writing-and-content/prd-single-pager.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/pm-spec) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
+| [Presenter Video Adapter](../jobs/creatives/video-editing/presenter-video-adapter.md) | [original](https://github.com/nexu-io/html-anything/tree/main/library/skills/presenter-story) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [Product Launch Email Builder](../jobs/marketing/generative-code/product-launch-email-builder.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/email-marketing) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [Quarterly Finance Report](../jobs/finance/data-analysis/quarterly-finance-report.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/finance-report) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [Reddit Post Card Generator](../jobs/creatives/generative-art/reddit-post-card-generator.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/social-reddit-card) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
@@ -43,6 +48,7 @@
 | [Swiss International Deck Builder](../jobs/science-and-research/office-tools/swiss-international-deck-builder.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/deck-swiss-international) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [Team Dashboard Builder](../jobs/management/generative-code/team-dashboard-builder.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/flowai-team-dashboard) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [Technical Documentation Page Generator](../jobs/it-and-development/generative-code/technical-documentation-page-generator.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/docs-page) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
+| [Template Video Producer](../jobs/creatives/generative-video/template-video-producer.md) | [original](https://github.com/nexu-io/html-anything/tree/main/skills/motion-template-to-video) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [Twitter Share Card Maker](../jobs/marketing/social-media/twitter-share-card-maker.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/card-twitter) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [VFX Text Cursor Generator](../jobs/creatives/generative-code/vfx-text-cursor-generator.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/vfx-text-cursor) | [Apache-2.0](../LICENSES/Apache-2.0.md) |
 | [Video Frame Generator](../jobs/creatives/text-to-video/video-frame-generator.md) | [original](https://github.com/nexu-io/html-anything/tree/main/next/src/lib/templates/skills/video-hyperframes) | [Apache-2.0](../LICENSES/Apache-2.0.md) |

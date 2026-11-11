@@ -1,6 +1,6 @@
 # Grok Bot templates for Real Estate and Construction
 
-Property, building and site work. **396 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Property, building and site work. **397 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Property, building and site work. **396 ready-made Grok Bot templates** for this
 | [Support & Community](support-and-community/README.md) | 3 |
 | [Prompt Engineering](prompt-engineering/README.md) | 2 |
 | [Coding](coding/README.md) | 1 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 
 ## Productivity
 
@@ -485,5 +486,11 @@ Property, building and site work. **396 ready-made Grok Bot templates** for this
 | Template | What it does |
 |---|---|
 | [Load Calculation and Panel Schedule Assistant](coding/load-calculation-and-panel-schedule-assistant.md) | Runs code-based load calculations and drafts panel schedules for planned electrical work. |
+
+## Generative AI and LLM
+
+| Template | What it does |
+|---|---|
+| [Airbnb Listing Detail Fetcher](generative-ai-and-llm/airbnb-listing-detail-fetcher.md) | Fetches complete Airbnb listing details from a listing ID. |
 
 [← All job fields](../../README.md#browse-by-job) · [Real Estate and Construction on the website](https://templatesgrokbot.com/jobs/real-estate-and-construction)

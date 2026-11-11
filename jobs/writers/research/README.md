@@ -1,6 +1,6 @@
 # Research templates for Writers
 
-Find sources, compare evidence and summarise what is known. 53 Grok Bot templates, 25 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 54 Grok Bot templates, 26 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -39,6 +39,7 @@ Find sources, compare evidence and summarise what is known. 53 Grok Bot template
 | [Parallel Web Research Assistant](parallel-web-research-assistant.md) | Searches the public web with Parallel and answers with linked, verified sources. |
 | [Perplexity](../../science-and-research/research/perplexity.md) | Searches the web and answers questions using Perplexity AI. |
 | [Perplexity Search](../../science-and-research/research/perplexity-search.md) | Searches the web for current information and returns grounded answers with source citations. |
+| [Persona Distiller](persona-distiller.md) | Turns a person's real words and deeds into a runnable thinking framework. |
 | [Podcast Trend Scout](../../marketing/research/podcast-trend-scout.md) | Scouts 3-5 emerging tech topics weekly for The Build podcast episodes. |
 | [Reading Pile](../../science-and-research/research/reading-pile.md) | Works through your saved-articles backlog and tells you which three are worth your time. |
 | [Report Generator](../../science-and-research/research/report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |

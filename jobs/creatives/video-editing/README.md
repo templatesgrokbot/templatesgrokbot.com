@@ -1,6 +1,6 @@
 # Video Editing templates for Creatives
 
-Cut, caption and polish video. 34 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
+Cut, caption and polish video. 37 Grok Bot templates, 36 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,7 +18,10 @@ Cut, caption and polish video. 34 Grok Bot templates, 33 of them filed in this f
 | [Highlight Reel Scripter](highlight-reel-scripter.md) | Creates shot lists and platform-specific cuts for sports highlight videos. |
 | [Interactive Video Elements Planner](interactive-video-elements-planner.md) | Plans and scripts interactive video elements that boost viewer engagement. |
 | [Interview Release Checker](interview-release-checker.md) | Checks every interviewee has a valid release and every quote matches the transcript. |
+| [Motion Production Executor](motion-production-executor.md) | Executes approved edits, replacements, previews, and exports in existing OpenMotion projects. |
+| [Motion Template Rebuilder](motion-template-rebuilder.md) | Rebuild a reference Motion video as an editable, reusable template with source, assets, preview, and instructions. |
 | [Podcast Clipper](podcast-clipper.md) | Finds the clippable moments in a long recording and writes the captions for each. |
+| [Presenter Video Adapter](presenter-video-adapter.md) | Adapt presenter-led videos with reusable motion design recipes for listicles, workflows, and product walkthroughs. |
 | [Rough Cut Assembly Planner](rough-cut-assembly-planner.md) | Turns transcripts and a script outline into a draft assembly list with takes, in and out points, and gap notes. |
 | [Royalty-Free Resource Finder](royalty-free-resource-finder.md) | Finds and organizes royalty-free images, music, footage, fonts, graphics, and more for video projects. |
 | [Screenstudio Alt](screenstudio-alt.md) | Auto-speed idle, zoom on clicks, overlay keys & cursor, export vertical from CLI. |

@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1140 Grok Bot templates, 1131 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1142 Grok Bot templates, 1133 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -350,6 +350,7 @@ Write, review, test and debug software. 1140 Grok Bot templates, 1131 of them fi
 | [Dependency Upgrade](dependency-upgrade.md) | Plan and execute major dependency upgrades with compatibility checks and staged rollouts. |
 | [Dependency Upgrade Rehearsal](dependency-upgrade-rehearsal.md) | Rehearses dependency upgrades on a branch, compares tests to baseline, and hands you a reviewed patch. |
 | [Deployment Validation Config Validate](deployment-validation-config-validate.md) | Validate and test application configurations for correctness and security. |
+| [Design Drift Detector](design-drift-detector.md) | Finds where code has diverged from design documents and reports the differences. |
 | [Design Taste Frontend](design-taste-frontend.md) | Build high-agency frontend UI with strict design taste, calibrated color, and motion rules. |
 | [Deslop](deslop.md) | Removes AI-generated code slop from a branch by checking the diff against main and fixing style inconsistencies. |
 | [Devcontainer Setup](devcontainer-setup.md) | Generates devcontainer configs with Claude Code and language tooling. |
@@ -878,6 +879,7 @@ Write, review, test and debug software. 1140 Grok Bot templates, 1131 of them fi
 | [Review And Simplify Changes](review-and-simplify-changes.md) | Review git diffs for code quality and apply safe fixes |
 | [Review Findings Fixer](review-findings-fixer.md) | Fixes QA review findings and prepares fixes for re-verification. |
 | [Review Multi Agent Orchestration](review-multi-agent-orchestration.md) | Review multi-agent orchestration designs for task boundaries, state, and failure safety before implementation. |
+| [Review Resolution Manager](review-resolution-manager.md) | Resolves code review findings by categorizing, proposing fixes, and managing approval. |
 | [Review Swarm](review-swarm.md) | Parallel read-only multi-agent review of git diffs for regressions, security, reliability, and coverage gaps. |
 | [Risk-Based Testing Prioritizer](risk-based-testing-prioritizer.md) | Prioritizes and executes risk-based testing for QA testers. |
 | [Robius App Architecture](robius-app-architecture.md) | Structure Makepad apps with async backend integration using Robius patterns. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **378 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **381 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,8 +11,8 @@ Authors, copywriters, editors and journalists. **378 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Writing & Content](writing-and-content/README.md) | 194 |
-| [Research](research/README.md) | 53 |
+| [Writing & Content](writing-and-content/README.md) | 195 |
+| [Research](research/README.md) | 54 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 34 |
 | [Data Analysis](data-analysis/README.md) | 12 |
 | [Knowledge Management](knowledge-management/README.md) | 11 |
@@ -25,9 +25,9 @@ Authors, copywriters, editors and journalists. **378 ready-made Grok Bot templat
 | [Security & Compliance](security-and-compliance/README.md) | 5 |
 | [Generative Code](generative-code/README.md) | 3 |
 | [Speech-To-Text](speech-to-text/README.md) | 3 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Text-To-Speech](text-to-speech/README.md) | 2 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 1 |
 | [Generative Art](generative-art/README.md) | 1 |
 | [Prompt Engineering](prompt-engineering/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
@@ -167,6 +167,7 @@ Authors, copywriters, editors and journalists. **378 ready-made Grok Bot templat
 | [Pricing Page Copywriter](writing-and-content/pricing-page-copywriter.md) | Rewrites pricing pages so plans are easy to compare and the right buyer self-selects. |
 | [Product Terminology Standardization](writing-and-content/product-terminology-standardization.md) | Keeps one agreed term per concept across product strings, help articles and emails. |
 | [Professional Proofreader](writing-and-content/professional-proofreader.md) | Proofread text and documents to publication-ready quality while preserving the author's voice. |
+| [Publishing Metadata Preparer](writing-and-content/publishing-metadata-preparer.md) | Turns your story notes into platform-ready publishing metadata files. |
 | [Quote Accuracy Reviewer](writing-and-content/quote-accuracy-reviewer.md) | Checks every quote in a draft against the authorized transcript and restores what editing changed. |
 | [Reader Question Topic Miner](writing-and-content/reader-question-topic-miner.md) | Turns reader questions from comments, replies and search into a ranked list of new posts and refreshes. |
 | [README](../it-and-development/writing-and-content/readme.md) | Generate thorough README documentation for any project. No code execution. No deployment. No production changes. All changes require your approval. |
@@ -271,6 +272,7 @@ Authors, copywriters, editors and journalists. **378 ready-made Grok Bot templat
 | [Parallel Web Research Assistant](research/parallel-web-research-assistant.md) | Searches the public web with Parallel and answers with linked, verified sources. |
 | [Perplexity](../science-and-research/research/perplexity.md) | Searches the web and answers questions using Perplexity AI. |
 | [Perplexity Search](../science-and-research/research/perplexity-search.md) | Searches the web for current information and returns grounded answers with source citations. |
+| [Persona Distiller](research/persona-distiller.md) | Turns a person's real words and deeds into a runnable thinking framework. |
 | [Podcast Trend Scout](../marketing/research/podcast-trend-scout.md) | Scouts 3-5 emerging tech topics weekly for The Build podcast episodes. |
 | [Reading Pile](../science-and-research/research/reading-pile.md) | Works through your saved-articles backlog and tells you which three are worth your time. |
 | [Report Generator](../science-and-research/research/report-generator.md) | Transforms synthesized research findings into a comprehensive, well-structured final report. |
@@ -472,6 +474,13 @@ Authors, copywriters, editors and journalists. **378 ready-made Grok Bot templat
 | [Podcast Transcriber](../operations/speech-to-text/podcast-transcriber.md) | Transcribe audio files with speaker labels and precise timestamps. |
 | [Transcribe](../operations/speech-to-text/transcribe.md) | Transcribes audio files to text with optional speaker labels. |
 
+## Generative AI and LLM
+
+| Template | What it does |
+|---|---|
+| [Adversarial Document Reviewer](generative-ai-and-llm/adversarial-document-reviewer.md) | Runs a multi-agent adversarial review loop to audit documents and apply approved fixes. |
+| [Elon Musk](../creatives/generative-ai-and-llm/elon-musk.md) | Simulates Elon Musk with high-fidelity psychological and communication depth. |
+
 ## Teaching & Tutoring
 
 | Template | What it does |
@@ -485,12 +494,6 @@ Authors, copywriters, editors and journalists. **378 ready-made Grok Bot templat
 |---|---|
 | [Podcast Generation](../creatives/text-to-speech/podcast-generation.md) | Generate spoken audio from text using Azure OpenAI Realtime API. No editing or mixing. |
 | [Speech](../creatives/text-to-speech/speech.md) | Generate spoken audio from text for narration, voiceovers, prompts, or accessibility reads. |
-
-## Generative AI and LLM
-
-| Template | What it does |
-|---|---|
-| [Elon Musk](../creatives/generative-ai-and-llm/elon-musk.md) | Simulates Elon Musk with high-fidelity psychological and communication depth. |
 
 ## Generative Art
 

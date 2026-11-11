@@ -1,6 +1,6 @@
 # Research templates for Science and Research
 
-Find sources, compare evidence and summarise what is known. 247 Grok Bot templates, 195 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 248 Grok Bot templates, 196 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -65,6 +65,7 @@ Find sources, compare evidence and summarise what is known. 247 Grok Bot templat
 | [Culture Contamination Investigator](culture-contamination-investigator.md) | Traces contamination in cultures to its most likely source and confirms it with tests. |
 | [Datamol](datamol.md) | Standardizes, analyzes, and clusters molecular datasets for drug discovery workflows. |
 | [Deep Research](deep-research.md) | Plans, searches, reads, and synthesizes cited research reports on any topic. |
+| [Deep Research Coordinator](deep-research-coordinator.md) | Runs rigorous, multi-source research projects with documented evidence and refreshable findings. |
 | [Deep Research Notebooklm](deep-research-notebooklm.md) | Runs structured multi-source research via NotebookLM and delivers formatted briefs with optional studio artifacts. |
 | [Deepchem](deepchem.md) | Predict molecular properties and train ML models for drug discovery. |
 | [Deeptools](deeptools.md) | Converts BAM files to normalized coverage tracks and generates QC metrics and visualizations for NGS experiments. |

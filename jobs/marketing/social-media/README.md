@@ -1,6 +1,6 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 106 Grok Bot templates, 87 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 107 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -48,6 +48,7 @@ Plan, write and measure posts across networks. 106 Grok Bot templates, 87 of the
 | [Live Event Social Coverage](live-event-social-coverage.md) | Plans, tracks and drafts approved social posts for live event moments as the schedule shifts. |
 | [Live Post Compliance Monitor](live-post-compliance-monitor.md) | Checks every contracted creator post daily and fixes or escalates changes before the brand finds out. |
 | [Monthly Competitor Social Benchmark](monthly-competitor-social-benchmark.md) | Runs a monthly competitor social benchmark and drafts three test ideas for your approval. |
+| [MrBeast Perspective Advisor](mrbeast-perspective-advisor.md) | YouTube content optimization advice from MrBeast's perspective, driven by data. |
 | [Photographer Social Media Planner](../../creatives/social-media/photographer-social-media-planner.md) | Plan, post, and grow your photography brand on social media with AI assistance. |
 | [Platform Strategy Developer](platform-strategy-developer.md) | Develops platform-specific social media strategies from content to ads to analytics. |
 | [Post Scheduling Preflight](post-scheduling-preflight.md) | Checks every scheduled post for technical and brand issues before it goes live. |
