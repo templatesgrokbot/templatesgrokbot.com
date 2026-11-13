@@ -1,6 +1,6 @@
 # Credits: github.com/alirezarezvani/claude-skills
 
-22 TemplatesGrokBot templates are adapted from work published at [github.com/alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+25 TemplatesGrokBot templates are adapted from work published at [github.com/alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -13,9 +13,12 @@
 | [Bounded Grade Iterate](../jobs/it-and-development/generative-ai-and-llm/bounded-grade-iterate.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/agent-launcher/skills/grade-iterate) | [MIT](../LICENSES/MIT.md) |
 | [C-Suite Onboarding](../jobs/executives-and-strategy/knowledge-management/c-suite-onboarding.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/cs-onboard) | [MIT](../LICENSES/MIT.md) |
 | [Capability Authoring Guide](../jobs/it-and-development/generative-ai-and-llm/capability-authoring-guide.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/write-a-skill/skills/write-a-skill) | [MIT](../LICENSES/MIT.md) |
+| [Cinematic Shot Compiler](../jobs/creatives/prompt-engineering/cinematic-shot-compiler.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/skills/cinematic-shot-prompting) | [MIT](../LICENSES/MIT.md) |
 | [CMMC Readiness Auditor](../jobs/it-and-development/security-and-compliance/cmmc-readiness-auditor.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/cmmc-readiness/skills/cmmc-readiness) | [MIT](../LICENSES/MIT.md) |
 | [Company Architect](../jobs/executives-and-strategy/knowledge-management/company-architect.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/arquiteto-de-empresa/skills/arquiteto-de-empresa) | [MIT](../LICENSES/MIT.md) |
+| [Deep Learning Study Companion](../jobs/science-and-research/teaching-and-tutoring/deep-learning-study-companion.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/deep-learning-book/skills/deep-learning-book) | [MIT](../LICENSES/MIT.md) |
 | [Deep Research Coordinator](../jobs/science-and-research/research/deep-research-coordinator.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/research/meta-research/skills/meta-research) | [MIT](../LICENSES/MIT.md) |
+| [Embedded IoT Mentor](../jobs/it-and-development/teaching-and-tutoring/embedded-iot-mentor.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/skills/embedded-iot-mentor) | [MIT](../LICENSES/MIT.md) |
 | [Experiment Dashboard](../jobs/science-and-research/generative-ai-and-llm/experiment-dashboard.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/autoresearch-agent/skills/ar-status) | [MIT](../LICENSES/MIT.md) |
 | [Goal Verification Loop](../jobs/it-and-development/generative-ai-and-llm/goal-verification-loop.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/agent-harness/skills/agent-harness) | [MIT](../LICENSES/MIT.md) |
 | [Knowledge Operations Auditor](../jobs/operations/knowledge-management/knowledge-operations-auditor.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/knowledge-ops) | [MIT](../LICENSES/MIT.md) |

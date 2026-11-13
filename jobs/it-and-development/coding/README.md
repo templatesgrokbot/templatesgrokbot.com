@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1142 Grok Bot templates, 1133 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1145 Grok Bot templates, 1136 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -165,6 +165,7 @@ Write, review, test and debug software. 1142 Grok Bot templates, 1133 of them fi
 | [Bevy ECS Expert](bevy-ecs-expert.md) | Guide to building high-performance game logic with Bevy's ECS in Rust. |
 | [Binary Analysis Patterns](binary-analysis-patterns.md) | Analyze compiled binaries, assembly code, and reconstruct program logic. |
 | [Binary Diff](binary-diff.md) | Migrate binary symbols across versions without PDBs using LLM-based diffing. |
+| [Blast Radius Analyzer](blast-radius-analyzer.md) | Find what a change could break elsewhere before it ships, and prove the one fact it's safe because of. |
 | [Bleu](bleu.md) | Turns an idea into a complete, production-ready system plan before any code is written. |
 | [Blockchain Developer](blockchain-developer.md) | Build, audit, and optimize smart contracts and decentralized applications with Solidity and Web3. |
 | [Blockchain Integration Engineer Assistant](blockchain-integration-engineer-assistant.md) | Blockchain integration assistant for software engineers: research, design, implement, and secure blockchain solutions. |
@@ -418,6 +419,7 @@ Write, review, test and debug software. 1142 Grok Bot templates, 1133 of them fi
 | [Error Diagnostics Smart Debug](error-diagnostics-smart-debug.md) | Diagnose and fix software errors using AI-assisted debugging and observability data. |
 | [Error Handling Patterns](error-handling-patterns.md) | Apply error-handling patterns to build resilient applications. |
 | [Error Resolver](error-resolver.md) | Diagnose and resolve errors using first-principle analysis and replay recorded solutions. |
+| [Etsy Category Scraper](etsy-category-scraper.md) | Scrapes public Etsy category pages into structured product listings. |
 | [Eval Diff Scorer](eval-diff-scorer.md) | Scores an eval diff against a fixed rubric and appends a row to results.csv. |
 | [Event Sourcing Architect](event-sourcing-architect.md) | Designs event-sourced systems with CQRS, projections, and sagas for audit trails and temporal queries. |
 | [Event Store Design](event-store-design.md) | Design and implement event stores for event-sourced systems with PostgreSQL, Kafka, or EventStoreDB. |
@@ -682,6 +684,7 @@ Write, review, test and debug software. 1142 Grok Bot templates, 1133 of them fi
 | [Migration Guide Builder](migration-guide-builder.md) | Extracts your customizations into a replayable guide and upgrades cleanly without merge conflicts. |
 | [Minecraft Bukkit Pro](minecraft-bukkit-pro.md) | Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. |
 | [Minimal Change Engineer](minimal-change-engineer.md) | Delivers the smallest diff that fixes exactly what was asked, and nothing more. |
+| [Mistake Class Hardener](mistake-class-hardener.md) | Find repeated agent mistakes in a repo and make each one impossible to repeat. |
 | [Ml Pipeline Workflow](ml-pipeline-workflow.md) | End-to-end MLOps pipeline orchestration from data prep to model deployment and monitoring. |
 | [ML Workflow Integrator](ml-workflow-integrator.md) | Guides ML project workflows from feature engineering to deployment and monitoring. |
 | [Mobile App Developer](mobile-app-developer.md) | Builds and optimizes native and cross-platform iOS/Android apps with performance and UX focus. |

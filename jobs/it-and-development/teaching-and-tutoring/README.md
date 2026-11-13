@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for IT and Development
 
-Explain, quiz and guide someone through a subject. 32 Grok Bot templates, 23 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 33 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,6 +13,7 @@ Explain, quiz and guide someone through a subject. 32 Grok Bot templates, 23 of 
 | [Demonstrate Understanding](../../education/teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 | [Design Pattern Guide](design-pattern-guide.md) | Explains, implements, and selects software design patterns for your projects. |
 | [Design Pattern Implementation Guide](design-pattern-implementation-guide.md) | Guides software developers through implementing design patterns with explanations and code examples. |
+| [Embedded IoT Mentor](embedded-iot-mentor.md) | Guides embedded and IoT projects from idea to working breadboard MVP. |
 | [End-User Training Session Assistant](end-user-training-session-assistant.md) | Plans, delivers, and follows up on end-user IT training sessions for help desk technicians. |
 | [French Consulting Market Navigator](french-consulting-market-navigator.md) | Navigate French ESN/SI freelance rates, margins, and payment realities with concrete numbers. |
 | [Game Accessibility Features Planner](game-accessibility-features-planner.md) | Guides game developers through implementing accessibility features for inclusive player experiences. |

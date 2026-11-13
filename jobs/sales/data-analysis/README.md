@@ -1,6 +1,6 @@
 # Data Analysis templates for Sales
 
-Clean, query, chart and explain data. 115 Grok Bot templates, 91 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 116 Grok Bot templates, 92 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -36,6 +36,7 @@ Clean, query, chart and explain data. 115 Grok Bot templates, 91 of them filed i
 | [Customer Success Manager](../../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
 | [Dynamic Pricing Strategist](dynamic-pricing-strategist.md) | Analyzes market data and adjusts prices dynamically to maximize revenue for sales managers. |
 | [E-commerce Pricing Optimizer](../../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
+| [eBay Listing Extractor](ebay-listing-extractor.md) | Extracts product listings and pagination state from any eBay search or category page URL. |
 | [Email Marketing Analytics Assistant](email-marketing-analytics-assistant.md) | Turns your email campaign data into clear insights and reports. |
 | [EVP Sales Forecast Strategist](../../executives-and-strategy/data-analysis/evp-sales-forecast-strategist.md) | Turns sales data into forecasts, scenarios, and insights for the EVP of Sales. |
 | [Feedback to Sales Actions](feedback-to-sales-actions.md) | Turns customer feedback into clear insights and actions for sales and marketing. |

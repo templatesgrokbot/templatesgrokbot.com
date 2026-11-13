@@ -1,6 +1,6 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 92 Grok Bot templates, 38 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 98 Grok Bot templates, 44 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -8,6 +8,10 @@ Find sources, compare evidence and summarise what is known. 92 Grok Bot template
 |---|---|
 | [Affiliate Program Competitor Benchmark](affiliate-program-competitor-benchmark.md) | Compares your affiliate program against competitors each quarter and drafts costed options for closing gaps. |
 | [AI News finding Bot](../../science-and-research/research/ai-news-finding-bot.md) | Finds and summarizes AI news from trusted sources daily. |
+| [Amazon Alexa Q&A Collector](amazon-alexa-q-a-collector.md) | Automates Q&A with Amazon's Alexa/Rufus shopping assistant and collects structured responses. |
+| [Amazon ASIN Lookup](amazon-asin-lookup.md) | Fetches structured Amazon product details from an ASIN via the BrowserAct API. |
+| [Amazon Product Extractor](amazon-product-extractor.md) | Extracts structured Amazon product listings for market research and price tracking. |
+| [Amazon Product Search](amazon-product-search.md) | Extracts structured Amazon product data from search results for market research and monitoring. |
 | [Apify Ecommerce](../../it-and-development/research/apify-ecommerce.md) | Extract product data, prices, reviews, and sellers from e-commerce sites via Apify. |
 | [Apify Market Research](apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
 | [Brand Mention Authority Scanner](brand-mention-authority-scanner.md) | Scans where your brand is mentioned across AI-indexed platforms and scores its authority. |
@@ -39,6 +43,7 @@ Find sources, compare evidence and summarise what is known. 92 Grok Bot template
 | [Deep Research Notebooklm](../../science-and-research/research/deep-research-notebooklm.md) | Runs structured multi-source research via NotebookLM and delivers formatted briefs with optional studio artifacts. |
 | [Deepapi](../../operations/research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 | [Discover Brand Materials](brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
+| [Etsy Keyword Search](etsy-keyword-search.md) | Scrapes public Etsy search results by keyword, returning paginated product listings with key details. |
 | [Fact Check X Complete](../../science-and-research/research/fact-check-x-complete.md) | Compare AI answer claims, verify citations against primary sources, and produce an evidence-linked fact-check report. |
 | [Fact Checker](../../writers/research/fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
 | [Gemini Deep Research](../../science-and-research/research/gemini-deep-research.md) | Autonomous multi-step research with cited reports via Google Gemini. |
@@ -91,6 +96,7 @@ Find sources, compare evidence and summarise what is known. 92 Grok Bot template
 | [Stock Photo Finder](../../creatives/research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 | [Survey Design and Analysis Assistant](../../management/research/survey-design-and-analysis-assistant.md) | Designs, distributes, analyzes, and reports surveys for market research managers. |
 | [SWOT Evidence Refresh](swot-evidence-refresh.md) | Refreshes your SWOT each quarter, showing the evidence and status behind every item. |
+| [Taobao Keyword Search](taobao-keyword-search.md) | Search Taobao and Tmall by keyword and return product listings with prices, shops, and sales. |
 | [Tools Page Seo Optimizer](tools-page-seo-optimizer.md) | Fix duplicate tool pages with unique meta, headings, and internal links. |
 | [Trend Analyst](trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Trend Scout for Bloggers](../../writers/research/trend-scout-for-bloggers.md) | Researches and analyzes trends for timely, insightful blog content. |

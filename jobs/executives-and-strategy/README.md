@@ -1,6 +1,6 @@
 # Grok Bot templates for Executives and Strategy
 
-Leaders making decisions from the whole picture. **857 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Leaders making decisions from the whole picture. **858 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,7 +26,7 @@ Leaders making decisions from the whole picture. **857 ready-made Grok Bot templ
 | [Social Media](social-media/README.md) | 5 |
 | [Design](design/README.md) | 4 |
 | [Office Tools](office-tools/README.md) | 3 |
-| [Prompt Engineering](prompt-engineering/README.md) | 2 |
+| [Prompt Engineering](prompt-engineering/README.md) | 3 |
 | [Coding](coding/README.md) | 1 |
 | [Generative Code](generative-code/README.md) | 1 |
 | [Support & Community](support-and-community/README.md) | 1 |
@@ -57,7 +57,7 @@ Leaders making decisions from the whole picture. **857 ready-made Grok Bot templ
 | [Campaign Plan](../marketing/marketing-and-growth/marketing-campaign-plan.md) | Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu |
 | [Brand Voice Guidelines Generator](../marketing/marketing-and-growth/brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Pricing](../marketing/marketing-and-growth/pricing.md) | Design SaaS pricing tiers, value metrics, and monetization strategy based on customer willingness to pay. |
-| [Competitive Landscape](../marketing/marketing-and-growth/competitive-landscape.md) | Map competitors, find gaps, and craft defensible market positioning strategies. |
+| [Trust Calibrator](../marketing/marketing-and-growth/trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
 
 [All 143 Marketing & Growth templates →](marketing-and-growth/README.md)
 
@@ -86,8 +86,8 @@ Leaders making decisions from the whole picture. **857 ready-made Grok Bot templ
 | [Executive Event Orchestrator](productivity/executive-event-orchestrator.md) | Plans, promotes, and runs events from budget to post-event follow-up. |
 | [Sustainability Initiatives Planner](productivity/sustainability-initiatives-planner.md) | Plans and drives your company's sustainability initiatives from research to reporting. |
 | [Idea Refine](../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
-| [Crisis Management Assistant](productivity/crisis-management-assistant.md) | Crisis management assistant for Managing Directors, covering assessment, communication, and recovery. |
 | [CTO IT Project Navigator](productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
+| [Crisis Management Assistant](productivity/crisis-management-assistant.md) | Crisis management assistant for Managing Directors, covering assessment, communication, and recovery. |
 
 [All 132 Productivity templates →](productivity/README.md)
 
@@ -131,8 +131,8 @@ Leaders making decisions from the whole picture. **857 ready-made Grok Bot templ
 | [Conflict Resolution Strategies Assistant](writing-and-content/conflict-resolution-strategies-assistant.md) | Designs and guides conflict resolution programs, materials, and coaching for HR leaders. |
 | [Strategy VP Comms Studio](writing-and-content/strategy-vp-comms-studio.md) | Plans and executes stakeholder communication for strategy VPs. |
 | [Business Plan Builder](writing-and-content/business-plan-builder.md) | Builds complete business plans from market research to executive summary. |
-| [Executive Communication Assistant](writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
 | [Stakeholder Communication Director](writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
+| [Executive Communication Assistant](writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
 
 [All 24 Writing & Content templates →](writing-and-content/README.md)
 
@@ -240,6 +240,7 @@ Leaders making decisions from the whole picture. **857 ready-made Grok Bot templ
 |---|---|
 | [Copyright Prompt Strategist](prompt-engineering/copyright-prompt-strategist.md) | Turns your copyright questions into clear, actionable AI prompts and strategies. |
 | [Marketing Prompt Crafter](prompt-engineering/marketing-prompt-crafter.md) | Turns your marketing topics into clear, actionable AI prompts. |
+| [Paul Graham Perspective](prompt-engineering/paul-graham-perspective.md) | Adopts Paul Graham's thinking framework to analyze startups, writing, products, and life choices. |
 
 ## Coding
 

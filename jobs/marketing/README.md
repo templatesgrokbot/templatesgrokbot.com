@@ -1,6 +1,6 @@
 # Grok Bot templates for Marketing
 
-Campaigns, SEO, content and growth. **1,164 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Campaigns, SEO, content and growth. **1,180 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,10 +12,10 @@ Campaigns, SEO, content and growth. **1,164 ready-made Grok Bot templates** for 
 | Kind of work | Templates |
 |---|---:|
 | [Marketing & Growth](marketing-and-growth/README.md) | 502 |
-| [Data Analysis](data-analysis/README.md) | 163 |
+| [Data Analysis](data-analysis/README.md) | 173 |
 | [Writing & Content](writing-and-content/README.md) | 108 |
 | [Social Media](social-media/README.md) | 107 |
-| [Research](research/README.md) | 92 |
+| [Research](research/README.md) | 98 |
 | [Design](design/README.md) | 33 |
 | [Productivity](productivity/README.md) | 25 |
 | [Generative Art](generative-art/README.md) | 24 |
@@ -60,12 +60,12 @@ Campaigns, SEO, content and growth. **1,164 ready-made Grok Bot templates** for 
 | [Amplitude Automation](data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
 | [Podcast Content Analyzer](../operations/data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
 | [Talivia Agent Kit](data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
-| [Google Ads Performance Analyzer](data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 | [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
-| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
+| [Google Ads Performance Analyzer](data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 | [Analytics Product](data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
+| [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 
-[All 163 Data Analysis templates →](data-analysis/README.md)
+[All 173 Data Analysis templates →](data-analysis/README.md)
 
 ## Writing & Content
 
@@ -78,7 +78,7 @@ Campaigns, SEO, content and growth. **1,164 ready-made Grok Bot templates** for 
 | [Blog Writing Guide](writing-and-content/blog-writing-guide.md) | Draft and edit Sentry blog posts with a senior-engineer voice, technical depth, and zero marketing fluff. |
 | [Seo Aeo Landing Page Writer](writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [Seo Content Refresher](writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
-| [Brand Guard](writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
+| [Devrel Content](writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 
 [All 108 Writing & Content templates →](writing-and-content/README.md)
 
@@ -90,10 +90,10 @@ Campaigns, SEO, content and growth. **1,164 ready-made Grok Bot templates** for 
 | [Socialclaw](social-media/socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
 | [Instagram Automation](social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [Content Command Center](../pr-and-communications/social-media/content-command-center.md) | Plans, creates, and manages social media content with data-driven insights and crisis-ready responses. |
-| [Youtube Automation](social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 | [Social Media Strategy Optimizer](../sales/social-media/social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
-| [Xiaohongshu Card Deck Generator](social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
+| [Youtube Automation](social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 | [Xiaohongshu Content Strategist](social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
+| [Xiaohongshu Card Deck Generator](social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
 
 [All 107 Social Media templates →](social-media/README.md)
 
@@ -110,7 +110,7 @@ Campaigns, SEO, content and growth. **1,164 ready-made Grok Bot templates** for 
 | [Url Context Validator](../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
 | [Trend Analyst](research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 
-[All 92 Research templates →](research/README.md)
+[All 98 Research templates →](research/README.md)
 
 ## Design
 
@@ -119,11 +119,11 @@ Campaigns, SEO, content and growth. **1,164 ready-made Grok Bot templates** for 
 | [Brandkit](../creatives/design/brandkit.md) | Builds a complete brand board with logo concepts, color palette, typography, and mockups from a short briefing. |
 | [Creative Portfolio Resume](../creatives/design/creative-portfolio-resume.md) | Builds creative resumes that balance visual design with ATS compatibility. |
 | [Visual Emotion Engineer](../creatives/design/visual-emotion-engineer.md) | Map colors, typography, spacing, and imagery to specific emotions and conversion goals. |
-| [UX Enhancement Analyst](../sales/design/ux-enhancement-analyst.md) | Enhances user experience across web and mobile through feedback, testing, and optimization. |
 | [Brand Guidelines Anthropic](../creatives/design/brand-guidelines-anthropic.md) | Applies Anthropic brand colors and typography to existing artifacts. |
+| [UX Enhancement Analyst](../sales/design/ux-enhancement-analyst.md) | Enhances user experience across web and mobile through feedback, testing, and optimization. |
 | [Visual Content Ideation Assistant](../management/design/visual-content-ideation-assistant.md) | Generates and refines visual content ideas and design concepts for marketing campaigns. |
-| [Vaporwave](../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 | [Product Naming and Brand Builder](../executives-and-strategy/design/product-naming-and-brand-builder.md) | Guides founders through product naming and brand building from brainstorm to launch. |
+| [Vaporwave](../creatives/design/vaporwave.md) | Generate UI mockups with 90s OS motifs, pastel neon colors, and surreal retro aesthetics. |
 
 [All 33 Design templates →](design/README.md)
 
@@ -151,9 +151,9 @@ Campaigns, SEO, content and growth. **1,164 ready-made Grok Bot templates** for 
 | [Fal Generate](../creatives/generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [AI Studio Image](../creatives/generative-art/ai-studio-image.md) | Generates humanized images via Google AI Studio with smartphone photo realism. |
 | [Generate Image](../creatives/generative-art/generate-image.md) | Generates or edits images using AI models for photos, illustrations, and visual assets. |
-| [Modellix](../creatives/generative-art/modellix.md) | Generate images, videos, and speech via the Modellix CLI workflow. |
 | [Image Generator](../creatives/generative-art/image-generator.md) | Generate and edit images using Gemini's Nano Banana Pro model. |
 | [Generate Nanobanana](../creatives/generative-art/generate-nanobanana.md) | Generate and edit images/video via Gemini models with cost approval and reference-image support. |
+| [Modellix](../creatives/generative-art/modellix.md) | Generate images, videos, and speech via the Modellix CLI workflow. |
 
 [All 24 Generative Art templates →](generative-art/README.md)
 
@@ -227,7 +227,7 @@ Campaigns, SEO, content and growth. **1,164 ready-made Grok Bot templates** for 
 | [Local Promo Video Builder](generative-video/local-promo-video-builder.md) | Build short promo videos for local businesses from their photos and details. |
 | [Explainer Video Builder](generative-video/explainer-video-builder.md) | Turn any source material into a tight 60-90 second explainer video for your product. |
 | [AI Video Producer](generative-video/ai-video-producer.md) | Plans, generates, and assembles marketing videos using AI models, avatars, and programmatic templates. |
-| [Testimonial Video Builder](generative-video/testimonial-video-builder.md) | Turn real customer reviews into polished social-proof videos with HyperFrames. |
+| [Sora](../creatives/generative-video/sora.md) | Generates and manages Sora video clips via OpenAI's API using a bundled CLI. |
 | [Riffkit](../creatives/generative-video/riffkit.md) | Transform a winning TikTok's formula into your own branded short video in 9 languages. |
 
 [All 11 Generative Video templates →](generative-video/README.md)

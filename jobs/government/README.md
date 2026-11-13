@@ -39,8 +39,8 @@ Public services, policy and compliance. **778 ready-made Grok Bot templates** fo
 | [Incident Reporting Navigator](../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
 | [Read Only Auditor](../it-and-development/security-and-compliance/read-only-auditor.md) | Audits code for security issues without making any changes. |
 | [Aws Iam Best Practices](../it-and-development/security-and-compliance/aws-iam-best-practices.md) | Audit and harden AWS IAM policies to enforce least privilege and security best practices. |
-| [Api Security Audit](../it-and-development/security-and-compliance/api-security-audit.md) | Audits REST APIs for security vulnerabilities and compliance gaps. |
 | [Hazardous Material Management Assistant](../operations/security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
+| [Api Security Audit](../it-and-development/security-and-compliance/api-security-audit.md) | Audits REST APIs for security vulnerabilities and compliance gaps. |
 
 [All 244 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -53,8 +53,8 @@ Public services, policy and compliance. **778 ready-made Grok Bot templates** fo
 | [Senior Data Scientist](../science-and-research/data-analysis/senior-data-scientist.md) | Design experiments, build predictive models, and perform causal analysis from your data. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
-| [Data Insights Strategist](../executives-and-strategy/data-analysis/data-insights-strategist.md) | Turns raw data into forecasts, segments, and stories for executive decisions. |
 | [Continuous Improvement Analyst](../operations/data-analysis/continuous-improvement-analyst.md) | Turns operational data and feedback into improvement actions and tracks their impact. |
+| [Data Insights Strategist](../executives-and-strategy/data-analysis/data-insights-strategist.md) | Turns raw data into forecasts, segments, and stories for executive decisions. |
 | [Transportation Risk Manager](data-analysis/transportation-risk-manager.md) | Identifies, mitigates, and monitors transportation risks with data-driven insights and plans. |
 
 [All 177 Data Analysis templates →](data-analysis/README.md)
@@ -70,7 +70,7 @@ Public services, policy and compliance. **778 ready-made Grok Bot templates** fo
 | [Strategic Goal Setting Assistant](../executives-and-strategy/productivity/strategic-goal-setting-assistant.md) | Turns your vision into aligned, measurable goals with plans, KPIs, and reviews. |
 | [Strategic Planning Guide](../executives-and-strategy/productivity/strategic-planning-guide.md) | Guides executive directors through the full strategic planning cycle, from vision to review. |
 | [Strategic IT Planning Assistant](../it-and-development/productivity/strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
-| [Crisis Management Executive Assistant](../executives-and-strategy/productivity/crisis-management-executive-assistant.md) | Builds and runs your crisis management playbook from planning to recovery. |
+| [IT Delivery Planner](../it-and-development/productivity/it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
 
 [All 131 Productivity templates →](productivity/README.md)
 
@@ -85,7 +85,7 @@ Public services, policy and compliance. **778 ready-made Grok Bot templates** fo
 | [Research Analyst](../science-and-research/research/research-analyst.md) | Conducts comprehensive multi-source research and synthesizes findings into actionable reports with trend analysis. |
 | [E-Procurement Solutions Exploration Assistant](../operations/research/e-procurement-solutions-exploration-assistant.md) | Researches and evaluates e-procurement solutions to support your selection decisions. |
 | [Environmental Policy Analyst](../science-and-research/research/environmental-policy-analyst.md) | Environmental policy analysis and stakeholder engagement for sustainability analysts. |
-| [Tax Code Interpretation Assistant](../finance/research/tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |
+| [Crossframe Structural Diagnosis](../executives-and-strategy/research/crossframe.md) | Chinese-canonical structural diagnosis for complex relationships, organizations, and public disputes. |
 
 [All 75 Research templates →](research/README.md)
 
@@ -95,12 +95,12 @@ Public services, policy and compliance. **778 ready-made Grok Bot templates** fo
 |---|---|
 | [Employment Contract Templates](../human-resources/writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Executive Decision Memo](../executives-and-strategy/writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
-| [Technical Proposal Assistant](../writers/writing-and-content/technical-proposal-assistant.md) | Drafts, refines, and manages technical proposals from research to archive. |
-| [Stakeholder Communication Coordinator](../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
 | [Technical Manual Writing Assistant](../writers/writing-and-content/technical-manual-writing-assistant.md) | Draft, structure, and refine technical manuals from research to final review. |
+| [Stakeholder Communication Coordinator](../operations/writing-and-content/stakeholder-communication-coordinator.md) | Coordinates stakeholder communication for operations managers: updates, meetings, feedback, and engagement plans. |
+| [Technical Proposal Assistant](../writers/writing-and-content/technical-proposal-assistant.md) | Drafts, refines, and manages technical proposals from research to archive. |
 | [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [Legislative Drafting Assistant](writing-and-content/legislative-drafting-assistant.md) | Drafts, reviews, and analyzes legislation for policy makers. |
-| [Systems Documentation Assistant](../it-and-development/writing-and-content/systems-documentation-assistant.md) | Turns system admin notes into clear, structured documentation and reports. |
+| [IT Policy Development Assistant](../it-and-development/writing-and-content/it-policy-development-assistant.md) | Develops, reviews, and maintains IT policies from research to implementation. |
 
 [All 50 Writing & Content templates →](writing-and-content/README.md)
 
@@ -130,7 +130,7 @@ Public services, policy and compliance. **778 ready-made Grok Bot templates** fo
 | [Accessibility Auditor](../it-and-development/cloud-and-devops/accessibility-auditor.md) | Audits websites for WCAG compliance and fixes accessibility issues. |
 | [VPN Infrastructure Manager](../it-and-development/cloud-and-devops/vpn-infrastructure-manager.md) | Guides VPN setup, management, and security for network administrators. |
 | [Network DR Plan Builder](../it-and-development/cloud-and-devops/network-dr-plan-builder.md) | Builds and maintains your network disaster recovery plan from risk assessment to continuous improvement. |
-| [GCP Audit Log Setup](../it-and-development/cloud-and-devops/gcp-audit-log-setup.md) | Sets up GCP Cloud Audit Logs, routes them to BigQuery, Storage and Pub/Sub, and reports on activity. |
+| [Data Backup Strategy Planner](../it-and-development/cloud-and-devops/data-backup-strategy-planner.md) | Designs, audits, and maintains your organization's data backup strategy end to end. |
 
 [All 19 Cloud & DevOps templates →](cloud-and-devops/README.md)
 

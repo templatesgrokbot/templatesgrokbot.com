@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **826 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **827 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,7 @@ Accounting, budgeting, analysis and risk. **826 ready-made Grok Bot templates** 
 | [Data Analysis](data-analysis/README.md) | 495 |
 | [Productivity](productivity/README.md) | 102 |
 | [Security & Compliance](security-and-compliance/README.md) | 79 |
-| [Research](research/README.md) | 46 |
+| [Research](research/README.md) | 47 |
 | [Office Tools](office-tools/README.md) | 41 |
 | [Writing & Content](writing-and-content/README.md) | 13 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 12 |
@@ -38,8 +38,8 @@ Accounting, budgeting, analysis and risk. **826 ready-made Grok Bot templates** 
 | [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Auction Market Analyst](data-analysis/auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |
 | [School Budget Analysis Assistant](../education/data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
-| [CFO Tax Planning Assistant](data-analysis/cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
 | [Financial Forecasting and Analysis Assistant](../executives-and-strategy/data-analysis/financial-forecasting-and-analysis-assistant.md) | Turns financial data into forecasts, budgets, and scenario insights for a VP of Finance. |
+| [CFO Tax Planning Assistant](data-analysis/cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
 
 [All 495 Data Analysis templates →](data-analysis/README.md)
 
@@ -47,13 +47,13 @@ Accounting, budgeting, analysis and risk. **826 ready-made Grok Bot templates** 
 
 | Template | What it does |
 |---|---|
-| [Vendor Watch](../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
 | [Stripe Automation](productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
+| [Vendor Watch](../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
 | [Credit Card Max](productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
 | [Risk Analysis and Management Assistant](../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Meeting Coordination Assistant](productivity/meeting-coordination-assistant.md) | Handles scheduling, invitations, logistics, agendas, reminders, RSVPs, minutes, virtual setups, materials, follow-ups, surveys, and travel for… |
-| [Financial Planning Assistant](productivity/financial-planning-assistant.md) | Personal financial planning assistant for tax analysts covering budgets, investments, retirement, taxes, debt, insurance, education, estate, cash… |
 | [Finance Event Orchestrator](productivity/finance-event-orchestrator.md) | Plans, coordinates, and tracks every detail of your events from venue to post-event feedback. |
+| [Financial Planning Assistant](productivity/financial-planning-assistant.md) | Personal financial planning assistant for tax analysts covering budgets, investments, retirement, taxes, debt, insurance, education, estate, cash… |
 | [Expense Tracking Assistant](productivity/expense-tracking-assistant.md) | Manages expense tracking, reporting, budgets, and compliance for finance managers. |
 
 [All 102 Productivity templates →](productivity/README.md)
@@ -86,7 +86,7 @@ Accounting, budgeting, analysis and risk. **826 ready-made Grok Bot templates** 
 | [Tax Strategy Formulation Assistant](research/tax-strategy-formulation-assistant.md) | Researches tax law, analyzes financial data, and designs tax-efficient strategies for your organization. |
 | [Smart Money Tracker](research/smart-money-tracker.md) | Tracks what top crypto futures traders hold on Binance, Hyperliquid, Bybit and OKX. |
 
-[All 46 Research templates →](research/README.md)
+[All 47 Research templates →](research/README.md)
 
 ## Office Tools
 
@@ -165,14 +165,14 @@ Accounting, budgeting, analysis and risk. **826 ready-made Grok Bot templates** 
 
 | Template | What it does |
 |---|---|
-| [Debt Negotiation Planner](sales-and-negotiation/debt-negotiation-planner.md) | Analyzes debt, builds repayment plans, and guides negotiations for a company's finances. |
 | [M&A Deal Support Assistant](../executives-and-strategy/sales-and-negotiation/m-a-deal-support-assistant.md) | End-to-end M&A deal support: scouting, due diligence, valuation, negotiation, integration, and exit planning. |
+| [Debt Negotiation Planner](sales-and-negotiation/debt-negotiation-planner.md) | Analyzes debt, builds repayment plans, and guides negotiations for a company's finances. |
 | [Buyer Outreach Tracker](sales-and-negotiation/buyer-outreach-tracker.md) | Keeps the buyer list current and drafts follow-ups for overdue sale-process steps. |
 | [Account Closure Save Assistant](sales-and-negotiation/account-closure-save-assistant.md) | Flags at-risk account closures, drafts call plans, and tracks whether saved accounts stay open. |
 | [Deal Desk](sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
 | [Portfolio Introduction Matcher](sales-and-negotiation/portfolio-introduction-matcher.md) | Turns a founder's introduction request into a short, conflict-checked list for your approval. |
-| [Lender Bid Comparison Tracker](sales-and-negotiation/lender-bid-comparison-tracker.md) | Tracks every lender's term sheet into one ranked comparison table and drafts chasers for silent lenders. |
 | [Term Sheet Comparison Assistant](sales-and-negotiation/term-sheet-comparison-assistant.md) | Compares each new term sheet draft with your standard terms and the last version, showing what changed and what it costs. |
+| [Lender Bid Comparison Tracker](sales-and-negotiation/lender-bid-comparison-tracker.md) | Tracks every lender's term sheet into one ranked comparison table and drafts chasers for silent lenders. |
 
 ## Cloud & DevOps
 

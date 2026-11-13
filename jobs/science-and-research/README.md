@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **908 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **909 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,7 +20,7 @@ Scientists, analysts and academic researchers. **908 ready-made Grok Bot templat
 | [Writing & Content](writing-and-content/README.md) | 23 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 15 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 12 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 13 |
 | [Design](design/README.md) | 7 |
 | [Office Tools](office-tools/README.md) | 5 |
 | [Support & Community](support-and-community/README.md) | 3 |
@@ -52,8 +52,8 @@ Scientists, analysts and academic researchers. **908 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Labarchive Integration](research/labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
-| [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
+| [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
 | [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
 | [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
@@ -112,9 +112,9 @@ Scientists, analysts and academic researchers. **908 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Laboratory Equipment Maintenance Scheduler](productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
-| [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
-| [Lab Supply Chain Manager](productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |
 | [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Lab Supply Chain Manager](productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |
+| [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Lab Stock Forecast Alerts](productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
 | [Geological Fieldwork Planner](productivity/geological-fieldwork-planner.md) | Plans geological fieldwork from site research to permits, logistics, and safety. |
 | [Process Development Time Optimizer](productivity/process-development-time-optimizer.md) | Plans and tracks a process development scientist's day to cut wasted time. |
@@ -177,10 +177,10 @@ Scientists, analysts and academic researchers. **908 ready-made Grok Bot templat
 | [Geoffrey Hinton](../education/teaching-and-tutoring/geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
 | [Laboratory Training and Onboarding Assistant](teaching-and-tutoring/laboratory-training-and-onboarding-assistant.md) | Designs and manages lab training and onboarding from materials to evaluation. |
 | [Machine Learning Project Advisor](../it-and-development/teaching-and-tutoring/machine-learning-project-advisor.md) | Guides data analysts through machine learning projects from preprocessing to deployment. |
+| [Deep Learning Study Companion](teaching-and-tutoring/deep-learning-study-companion.md) | Study companion and working knowledge base for the Deep Learning textbook, with current advice and tools. |
 | [Yann LeCun Debate](../education/teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
-| [Reinforcement Learning Strategist](teaching-and-tutoring/reinforcement-learning-strategist.md) | Designs and explains reinforcement learning strategies for data scientists, from theory to applied systems. No hype, just the math and the build. |
 
-[All 12 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+[All 13 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Design
 

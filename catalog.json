@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 10554,
+ "count": 10584,
  "templates": [
   {
    "slug": "007",
@@ -4921,6 +4921,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "airbnb-listing-extractor",
+   "name": "Airbnb Listing Extractor",
+   "tagline": "Extracts Airbnb search results into structured listing data with pagination.",
+   "category": "research",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/data-analysis/airbnb-listing-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/airbnb-listing-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/airbnb-search-listing",
+   "source_license": "MIT"
+  },
+  {
    "slug": "aircraft-certification-matrix-updater",
    "name": "Aircraft Certification Matrix Updater",
    "tagline": "Weekly aircraft certification compliance matrix updates with evidence links and gap lists.",
@@ -5314,6 +5331,157 @@
    "url": "https://templatesgrokbot.com/bot/amazon-alexa",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "amazon-alexa-q-a-collector",
+   "name": "Amazon Alexa Q&A Collector",
+   "tagline": "Automates Q&A with Amazon's Alexa/Rufus shopping assistant and collects structured responses.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "research",
+    "productivity"
+   ],
+   "path": "jobs/marketing/research/amazon-alexa-q-a-collector.md",
+   "url": "https://templatesgrokbot.com/bot/amazon-alexa-q-a-collector",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/amazon-alexa-qa",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "amazon-asin-lookup",
+   "name": "Amazon ASIN Lookup",
+   "tagline": "Fetches structured Amazon product details from an ASIN via the BrowserAct API.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/marketing/research/amazon-asin-lookup.md",
+   "url": "https://templatesgrokbot.com/bot/amazon-asin-lookup",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/amazon-asin-lookup-api-skill",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "amazon-bestseller-rank-extractor",
+   "name": "Amazon Bestseller Rank Extractor",
+   "tagline": "Extracts ranked product lists from Amazon Best Sellers pages with category and pagination details.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/amazon-bestseller-rank-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/amazon-bestseller-rank-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/amazon-bestseller-listing",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "amazon-buy-box-monitor",
+   "name": "Amazon Buy Box Monitor",
+   "tagline": "Monitors Amazon buy box ownership, prices, and seller ratings via ASIN.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/marketing/data-analysis/amazon-buy-box-monitor.md",
+   "url": "https://templatesgrokbot.com/bot/amazon-buy-box-monitor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/amazon-buy-box-monitor-api-skill",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "amazon-competitor-analyzer",
+   "name": "Amazon Competitor Analyzer",
+   "tagline": "Analyzes Amazon competitor products from ASINs to reveal market gaps and strategic insights.",
+   "category": "research",
+   "jobs": [
+    "marketing",
+    "product-development"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/marketing/data-analysis/amazon-competitor-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/amazon-competitor-analyzer",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/amazon-competitor-analyzer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "amazon-listing-extractor",
+   "name": "Amazon Listing Extractor",
+   "tagline": "Extracts product listings and pagination from any Amazon search or category page.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/amazon-listing-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/amazon-listing-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/amazon-search-listing",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "amazon-product-extractor",
+   "name": "Amazon Product Extractor",
+   "tagline": "Extracts structured Amazon product listings for market research and price tracking.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/marketing/research/amazon-product-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/amazon-product-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/amazon-product-api-skill",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "amazon-product-search",
+   "name": "Amazon Product Search",
+   "tagline": "Extracts structured Amazon product data from search results for market research and monitoring.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/marketing/research/amazon-product-search.md",
+   "url": "https://templatesgrokbot.com/bot/amazon-product-search",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/amazon-product-search-api-skill",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "amazon-review-extractor",
+   "name": "Amazon Review Extractor",
+   "tagline": "Extracts structured Amazon product reviews by ASIN for analysis and monitoring.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/amazon-review-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/amazon-review-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/amazon-reviews-api-skill",
+   "source_license": "MIT"
   },
   {
    "slug": "amazon-seller-operations",
@@ -14272,6 +14440,22 @@
    "url": "https://templatesgrokbot.com/bot/benchmark-peer-set-builder"
   },
   {
+   "slug": "benchmark-verifier",
+   "name": "Benchmark Verifier",
+   "tagline": "Vets performance measurements before you report or act on them.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/data-analysis/benchmark-verifier.md",
+   "url": "https://templatesgrokbot.com/bot/benchmark-verifier",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/benchmark-checklist",
+   "source_license": "MIT"
+  },
+  {
    "slug": "benchmarking-analysis-assistant",
    "name": "Benchmarking Analysis Assistant",
    "tagline": "Benchmarking analysis assistant for management consultants, turning data into strategic insights and client-ready reports.",
@@ -15320,6 +15504,23 @@
    "url": "https://templatesgrokbot.com/bot/bitbucket-automation",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "blast-radius-analyzer",
+   "name": "Blast Radius Analyzer",
+   "tagline": "Find what a change could break elsewhere before it ships, and prove the one fact it's safe because of.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/coding/blast-radius-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/blast-radius-analyzer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/blast-radius",
+   "source_license": "MIT"
   },
   {
    "slug": "ble-security-assessor",
@@ -23578,6 +23779,22 @@
    "url": "https://templatesgrokbot.com/bot/cinematic-product-video-maker",
    "adapted_from": "https://github.com/Vincentwei1021/video-shotcraft",
    "source_license": "Apache-2.0"
+  },
+  {
+   "slug": "cinematic-shot-compiler",
+   "name": "Cinematic Shot Compiler",
+   "tagline": "Turns narrative shot ideas into precise camera motion specs for AI video generators.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "prompt-engineering"
+   ],
+   "path": "jobs/creatives/prompt-engineering/cinematic-shot-compiler.md",
+   "url": "https://templatesgrokbot.com/bot/cinematic-shot-compiler",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/skills/cinematic-shot-prompting",
+   "source_license": "MIT"
   },
   {
    "slug": "cio-it-strategy-advisor",
@@ -44982,6 +45199,23 @@
    "url": "https://templatesgrokbot.com/bot/declined-proposal-resubmission-planner"
   },
   {
+   "slug": "deep-learning-study-companion",
+   "name": "Deep Learning Study Companion",
+   "tagline": "Study companion and working knowledge base for the Deep Learning textbook, with current advice and tools.",
+   "category": "education",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "knowledge-management"
+   ],
+   "path": "jobs/science-and-research/teaching-and-tutoring/deep-learning-study-companion.md",
+   "url": "https://templatesgrokbot.com/bot/deep-learning-study-companion",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/deep-learning-book/skills/deep-learning-book",
+   "source_license": "MIT"
+  },
+  {
    "slug": "deep-research",
    "name": "Deep Research",
    "tagline": "Plans, searches, reads, and synthesizes cited research reports on any topic.",
@@ -51910,6 +52144,56 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "ebay-item-detail-extractor",
+   "name": "EBay Item Detail Extractor",
+   "tagline": "Extracts full detail JSON from any open eBay item URL for enrichment, monitoring, or research.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/marketing/data-analysis/ebay-item-detail-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/ebay-item-detail-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/ebay-item-detail",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "ebay-listing-extractor",
+   "name": "eBay Listing Extractor",
+   "tagline": "Extracts product listings and pagination state from any eBay search or category page URL.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/sales/data-analysis/ebay-listing-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/ebay-listing-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/ebay-search-listing",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "ebay-sold-listings-finder",
+   "name": "eBay Sold Listings Finder",
+   "tagline": "Fetches real sold eBay listings with prices, dates, and details across 8 marketplaces.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/sales/research/ebay-sold-listings-finder.md",
+   "url": "https://templatesgrokbot.com/bot/ebay-sold-listings-finder",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/ebay-sold-listings-search",
+   "source_license": "MIT"
+  },
+  {
    "slug": "ebpf-observability-engineer",
    "name": "eBPF Observability Engineer",
    "tagline": "Traces kernel, syscall, and network activity with eBPF and reports what it finds.",
@@ -53631,6 +53915,22 @@
    ],
    "path": "jobs/government/security-and-compliance/embassy-warden-roster.md",
    "url": "https://templatesgrokbot.com/bot/embassy-warden-roster"
+  },
+  {
+   "slug": "embedded-iot-mentor",
+   "name": "Embedded IoT Mentor",
+   "tagline": "Guides embedded and IoT projects from idea to working breadboard MVP.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/teaching-and-tutoring/embedded-iot-mentor.md",
+   "url": "https://templatesgrokbot.com/bot/embedded-iot-mentor",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/skills/embedded-iot-mentor",
+   "source_license": "MIT"
   },
   {
    "slug": "embedded-systems",
@@ -57153,6 +57453,55 @@
    ],
    "path": "jobs/science-and-research/security-and-compliance/ethics-submission-tracker.md",
    "url": "https://templatesgrokbot.com/bot/ethics-submission-tracker"
+  },
+  {
+   "slug": "etsy-category-scraper",
+   "name": "Etsy Category Scraper",
+   "tagline": "Scrapes public Etsy category pages into structured product listings.",
+   "category": "research",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/etsy-category-scraper.md",
+   "url": "https://templatesgrokbot.com/bot/etsy-category-scraper",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/etsy-category-listing",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "etsy-keyword-search",
+   "name": "Etsy Keyword Search",
+   "tagline": "Scrapes public Etsy search results by keyword, returning paginated product listings with key details.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/marketing/research/etsy-keyword-search.md",
+   "url": "https://templatesgrokbot.com/bot/etsy-keyword-search",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/etsy-keyword-search",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "etsy-shop-catalog",
+   "name": "Etsy Shop Catalog",
+   "tagline": "Collects an Etsy shop's product listings page by page with prices, ratings, and badges.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/etsy-shop-catalog.md",
+   "url": "https://templatesgrokbot.com/bot/etsy-shop-catalog",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/etsy-shop-catalog",
+   "source_license": "MIT"
   },
   {
    "slug": "eu-ai-act-compliance-mapper",
@@ -70269,6 +70618,22 @@
    ],
    "path": "jobs/it-and-development/prompt-engineering/golden-test-set-maintainer.md",
    "url": "https://templatesgrokbot.com/bot/golden-test-set-maintainer"
+  },
+  {
+   "slug": "goofish-listing-searcher",
+   "name": "Goofish Listing Searcher",
+   "tagline": "Searches Goofish (闲鱼) for second-hand items and returns structured listings.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/sales/research/goofish-listing-searcher.md",
+   "url": "https://templatesgrokbot.com/bot/goofish-listing-searcher",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/goofish-search-list",
+   "source_license": "MIT"
   },
   {
    "slug": "google-ads-asset-planner",
@@ -99519,6 +99884,23 @@
    "url": "https://templatesgrokbot.com/bot/mission-goals-progress-tracker"
   },
   {
+   "slug": "mistake-class-hardener",
+   "name": "Mistake Class Hardener",
+   "tagline": "Find repeated agent mistakes in a repo and make each one impossible to repeat.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "research"
+   ],
+   "path": "jobs/it-and-development/coding/mistake-class-hardener.md",
+   "url": "https://templatesgrokbot.com/bot/mistake-class-hardener",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/correct",
+   "source_license": "MIT"
+  },
+  {
    "slug": "mitigation-bypass-planner",
    "name": "Mitigation Bypass Planner",
    "tagline": "Assesses target hardening and catalogs exploit mitigation bypass techniques.",
@@ -112227,6 +112609,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "paul-graham-perspective",
+   "name": "Paul Graham Perspective",
+   "tagline": "Adopts Paul Graham's thinking framework to analyze startups, writing, products, and life choices.",
+   "category": "creative",
+   "jobs": [
+    "executives-and-strategy"
+   ],
+   "topics": [
+    "prompt-engineering",
+    "self-improvement",
+    "writing-and-content"
+   ],
+   "path": "jobs/executives-and-strategy/prompt-engineering/paul-graham-perspective.md",
+   "url": "https://templatesgrokbot.com/bot/paul-graham-perspective",
+   "adapted_from": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/paul-graham-perspective",
+   "source_license": "MIT"
+  },
+  {
    "slug": "pay-equity-analysis-assistant",
    "name": "Pay Equity Analysis Assistant",
    "tagline": "Guides pay equity analyses from data collection to monitoring and reporting.",
@@ -114238,6 +114638,22 @@
    "path": "jobs/human-resources/self-improvement/personal-growth-mentor.md",
    "url": "https://templatesgrokbot.com/bot/personal-growth-mentor",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/specialized/personal-growth-mentor",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "personal-mode-crafter",
+   "name": "Personal Mode Crafter",
+   "tagline": "Turns your working style into a reusable mode template for agents to follow.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "prompt-engineering"
+   ],
+   "path": "jobs/it-and-development/prompt-engineering/personal-mode-crafter.md",
+   "url": "https://templatesgrokbot.com/bot/personal-mode-crafter",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/automate-me",
    "source_license": "MIT"
   },
   {
@@ -142020,6 +142436,23 @@
    "url": "https://templatesgrokbot.com/bot/self-tape-submission-assistant"
   },
   {
+   "slug": "seller-profile-extractor",
+   "name": "Seller Profile Extractor",
+   "tagline": "Extracts seller profile data from marketplace seller pages.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/marketing/data-analysis/seller-profile-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/seller-profile-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/ecommerce-seller-info",
+   "source_license": "MIT"
+  },
+  {
    "slug": "semantic-code-graph-builder",
    "name": "Semantic Code Graph Builder",
    "tagline": "Builds and maintains a unified semantic code graph from multiple language servers.",
@@ -156361,6 +156794,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "taleb-perspective-advisor",
+   "name": "Taleb Perspective Advisor",
+   "tagline": "Analyzes decisions and narratives through Nassim Taleb's antifragility, tail risk, and skin-in-the-game lens.",
+   "category": "research",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/finance/research/taleb-perspective-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/taleb-perspective-advisor",
+   "adapted_from": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/taleb-perspective",
+   "source_license": "MIT"
+  },
+  {
    "slug": "talent-acquisition-strategist",
    "name": "Talent Acquisition Strategist",
    "tagline": "Streamlines talent acquisition from sourcing to onboarding with AI-driven insights and personalized engagement.",
@@ -156594,6 +157043,56 @@
    "url": "https://templatesgrokbot.com/bot/tanstack-query-expert",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "taobao-keyword-search",
+   "name": "Taobao Keyword Search",
+   "tagline": "Search Taobao and Tmall by keyword and return product listings with prices, shops, and sales.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/marketing/research/taobao-keyword-search.md",
+   "url": "https://templatesgrokbot.com/bot/taobao-keyword-search",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/taobao-keyword-search",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "taobao-product-detail-fetcher",
+   "name": "Taobao Product Detail Fetcher",
+   "tagline": "Fetch full product details from Taobao or Tmall by item ID.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/taobao-product-detail-fetcher.md",
+   "url": "https://templatesgrokbot.com/bot/taobao-product-detail-fetcher",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/taobao-product-detail",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "taobao-shop-catalog-browser",
+   "name": "Taobao Shop Catalog Browser",
+   "tagline": "Browse a Taobao or Tmall shop's product catalog by shop ID, returning paginated listings with item IDs and titles.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/taobao-shop-catalog-browser.md",
+   "url": "https://templatesgrokbot.com/bot/taobao-shop-catalog-browser",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/taobao-shop-catalog",
+   "source_license": "MIT"
   },
   {
    "slug": "target-account-qualifier",

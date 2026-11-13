@@ -1,6 +1,6 @@
 # Research templates for Finance
 
-Find sources, compare evidence and summarise what is known. 46 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 47 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -44,6 +44,7 @@ Find sources, compare evidence and summarise what is known. 46 Grok Bot template
 | [Supplier Risk Monitor](../../operations/research/supplier-risk-monitor.md) | Scans daily for supplier risk signals and drafts exposure notes for your approval. |
 | [Sustainability Report Claim Evidence Checker](sustainability-report-claim-evidence-checker.md) | Traces every figure and claim in a sustainability report draft to evidence, or flags it for removal. |
 | [Sustainable Investment Research Assistant](../../science-and-research/research/sustainable-investment-research-assistant.md) | Sustainable investment research assistant for sustainability analysts. |
+| [Taleb Perspective Advisor](taleb-perspective-advisor.md) | Analyzes decisions and narratives through Nassim Taleb's antifragility, tail risk, and skin-in-the-game lens. |
 | [Tax Code Interpretation Assistant](tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |
 | [Tax Dispute Case Assistant](tax-dispute-case-assistant.md) | Prepares tax dispute cases, from research to hearings, with drafts and strategy. |
 | [Tax Position Memo Support](tax-position-memo-support.md) | Drafts tax position memo sections with current authorities and contrary authority addressed. |

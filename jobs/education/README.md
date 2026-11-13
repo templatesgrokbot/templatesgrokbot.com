@@ -37,8 +37,8 @@ Teachers, trainers and students. **457 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Microsoft Study Mode](teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
-| [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Lightning Factory Explainer](teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
+| [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Environmental Education Content Creator](../science-and-research/teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
 | [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Question Generation Assistant](teaching-and-tutoring/question-generation-assistant.md) | Generates diverse questions for quizzes, exams, and classroom activities. |
@@ -51,8 +51,8 @@ Teachers, trainers and students. **457 ready-made Grok Bot templates** for this 
 
 | Template | What it does |
 |---|---|
-| [Learning Culture Builder](productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
 | [Teacher Feedback Coordinator](productivity/teacher-feedback-coordinator.md) | Turn teacher feedback into clear actions, reports, and professional growth plans. |
+| [Learning Culture Builder](productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
 | [Claude Speed Reader](productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
 | [Course Scheduling Assistant](productivity/course-scheduling-assistant.md) | Automates course scheduling, recommendations, and updates for teaching assistants. |
 | [Daily Elementary Classroom Manager](productivity/daily-elementary-classroom-manager.md) | Manages daily classroom routines, behavior, and parent communication for elementary teachers. |
@@ -82,8 +82,8 @@ Teachers, trainers and students. **457 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Crossframe Critical](../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
-| [Safety Training Program Developer](../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
 | [Training Module Developer](../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
+| [Safety Training Program Developer](../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
 | [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
 | [Parent Communication Drafter](writing-and-content/parent-communication-drafter.md) | Drafts all parent communication for elementary teachers, from welcome letters to end-of-year reflections. |
 | [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
@@ -96,8 +96,8 @@ Teachers, trainers and students. **457 ready-made Grok Bot templates** for this 
 
 | Template | What it does |
 |---|---|
-| [AI Courses Bot](research/ai-courses-bot.md) | Curates and recommends AI courses based on your learning goals. |
 | [Academic Researcher](../science-and-research/research/academic-researcher.md) | Searches scholarly databases, analyzes papers, and writes structured findings to a markdown file. |
+| [AI Courses Bot](research/ai-courses-bot.md) | Curates and recommends AI courses based on your learning goals. |
 | [Youtube Notetaker](research/youtube-notetaker.md) | Turn YouTube talks into local markdown study notes with slides and transcripts. |
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Research Prompt](../science-and-research/research/research-prompt.md) | Turn vague research needs into one precise deep-research prompt with context and output criteria. |
@@ -114,8 +114,8 @@ Teachers, trainers and students. **457 ready-made Grok Bot templates** for this 
 | [Pptx Posters](../creatives/design/pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Visual Learning Materials Creator](design/visual-learning-materials-creator.md) | Turns lesson concepts into visual learning materials across formats for headteachers. |
 | [Scientific Slides](design/scientific-slides.md) | Build slide decks and presentations for research talks. |
-| [Virtual Training Design Assistant](design/virtual-training-design-assistant.md) | Designs and improves virtual training environments for instructors. |
 | [Gamified Learning Designer](design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
+| [Virtual Training Design Assistant](design/virtual-training-design-assistant.md) | Designs and improves virtual training environments for instructors. |
 | [Mobile Learning App Designer](design/mobile-learning-app-designer.md) | Designs and refines mobile learning apps with AI-assisted content, features, and user experience guidance. |
 | [Classroom Decoration Planner](design/classroom-decoration-planner.md) | Generates classroom decoration ideas and plans for primary school teachers. |
 | [Classroom Visual Aids Designer](design/classroom-visual-aids-designer.md) | Designs clear, engaging visual aids for secondary school lessons. |
@@ -159,8 +159,8 @@ Teachers, trainers and students. **457 ready-made Grok Bot templates** for this 
 | [Interview Coach](../human-resources/self-improvement/interview-coach.md) | Full job search coaching: JD decoding, mock interviews, transcript analysis, and comp negotiation. |
 | [Sleep Coach](../healthcare/self-improvement/sleep-coach.md) | Correlates what you did each day with how you slept and names the one habit to change. |
 | [Satori](self-improvement/satori.md) | A structured thinking partner blending psychology and philosophy for inner exploration. |
-| [Career Changer Translator](../human-resources/self-improvement/career-changer-translator.md) | Translates skills from one industry to another for career pivots. |
 | [Workout Program Designer](self-improvement/workout-program-designer.md) | Designs personalized workout plans by goal, with progressive overload and rest-day optimization. |
+| [Career Changer Translator](../human-resources/self-improvement/career-changer-translator.md) | Translates skills from one industry to another for career pivots. |
 | [Cohort Progress Coach Assistant](self-improvement/cohort-progress-coach-assistant.md) | Tracks each group member's pace and drafts the right check-in before anyone falls too far behind. |
 | [Plateau Investigation Assistant](../healthcare/self-improvement/plateau-investigation-assistant.md) | Finds the most likely cause of a client's progress plateau and proposes one change at a time. |
 | [Vocal Practice Progress Tracker](self-improvement/vocal-practice-progress-tracker.md) | Measures each practice take, tracks progress against your goals, and writes a weekly note for your coach. |

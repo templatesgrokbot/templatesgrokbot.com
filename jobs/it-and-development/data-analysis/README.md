@@ -1,6 +1,6 @@
 # Data Analysis templates for IT and Development
 
-Clean, query, chart and explain data. 269 Grok Bot templates, 201 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 271 Grok Bot templates, 203 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,7 @@ Clean, query, chart and explain data. 269 Grok Bot templates, 201 of them filed 
 | [Adhx](../../marketing/data-analysis/adhx.md) | Fetch any X/Twitter post as clean JSON text, author info, and engagement data |
 | [Agent Evaluation Reporting](agent-evaluation-reporting.md) | Turn raw agent evaluation runs into decision-ready reports with explicit outcome categories and denominators. |
 | [Ai Dev Jobs Mcp](ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
+| [Airbnb Listing Extractor](airbnb-listing-extractor.md) | Extracts Airbnb search results into structured listing data with pagination. |
 | [Alpha Vantage](../../finance/data-analysis/alpha-vantage.md) | Fetch 20+ years of equities, forex, crypto, commodities, and economic data via Alpha Vantage API. |
 | [Analyst Market Trend Forecaster](analyst-market-trend-forecaster.md) | Market trend analysis assistant for business analysts, turning data into insights and forecasts. No hype, just analysis. |
 | [Analytics Tracking](analytics-tracking.md) | Set up, audit, and improve analytics tracking for reliable decision data. |
@@ -27,6 +28,7 @@ Clean, query, chart and explain data. 269 Grok Bot templates, 201 of them filed 
 | [Azure Search Documents Py](azure-search-documents-py.md) | Search, index, and enrich documents with Azure AI Search SDK for Python. |
 | [Backtesting Frameworks](../../finance/data-analysis/backtesting-frameworks.md) | Build robust backtesting systems with realistic cost models and walk-forward analysis. |
 | [Base](base.md) | Create and manage ODB databases with forms, reports, and SQL queries. |
+| [Benchmark Verifier](benchmark-verifier.md) | Vets performance measurements before you report or act on them. |
 | [BI Measure Builder](bi-measure-builder.md) | Writes, explains, debugs, and optimizes BI calculations across Power BI, Tableau, and Looker. |
 | [Big Data Analysis Strategist](big-data-analysis-strategist.md) | Guides big data analysis from preprocessing to governance, turning raw data into decisions. |
 | [Bigquery Basics](bigquery-basics.md) | Manages BigQuery datasets, tables, jobs, and runs SQL queries for data analysis. |

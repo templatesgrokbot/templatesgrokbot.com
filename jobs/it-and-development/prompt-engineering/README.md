@@ -1,6 +1,6 @@
 # Prompt Engineering templates for IT and Development
 
-Write, test and improve prompts and instructions. 54 Grok Bot templates, 52 of them filed in this folder; the others live under their main field and are linked from here.
+Write, test and improve prompts and instructions. 55 Grok Bot templates, 53 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Write, test and improve prompts and instructions. 54 Grok Bot templates, 52 of t
 | [Makepad Dsl](makepad-dsl.md) | Turn any open-source agent playbook into a reusable Grok Bot template for the public catalog. You don't write the playbook; you extract its structure |
 | [Model Upgrade Prompt Migration](model-upgrade-prompt-migration.md) | Tests every production prompt on a new model and returns a migration plan with per-prompt results. |
 | [Output Quality Grading Assistant](output-quality-grading-assistant.md) | Grades batches of outputs against your rubric and checks its own reliability first. |
+| [Personal Mode Crafter](personal-mode-crafter.md) | Turns your working style into a reusable mode template for agents to follow. |
 | [Prompt Bias Probe](prompt-bias-probe.md) | Tests a prompt with matched input pairs, then drafts fairness fixes for your review. |
 | [Prompt Builder](prompt-builder.md) | Engineers and validates high-quality prompts through research, testing, and iterative improvement. |
 | [Prompt Conflict Auditor](prompt-conflict-auditor.md) | Audits a system prompt for rule collisions, tests which rule wins, and drafts a rewrite for your approval. |

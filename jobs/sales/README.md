@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **579 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,9 +12,9 @@ Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for thi
 | Kind of work | Templates |
 |---|---:|
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 209 |
-| [Data Analysis](data-analysis/README.md) | 115 |
+| [Data Analysis](data-analysis/README.md) | 116 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 108 |
-| [Research](research/README.md) | 39 |
+| [Research](research/README.md) | 41 |
 | [Productivity](productivity/README.md) | 26 |
 | [Writing & Content](writing-and-content/README.md) | 19 |
 | [Security & Compliance](security-and-compliance/README.md) | 13 |
@@ -40,8 +40,8 @@ Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for thi
 | [Pharma Health Economics Insight](sales-and-negotiation/pharma-health-economics-insight.md) | Turns health economics data into sales-ready insights for pharmaceutical reps. |
 | [Client Communication Assistant](../real-estate-and-construction/sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
 | [Proposal Customization Assistant](sales-and-negotiation/proposal-customization-assistant.md) | Customizes sales proposals to fit each client's needs and brand. |
-| [Freight Dispute Resolution Assistant](sales-and-negotiation/freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
 | [Territory Planning Optimizer](sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
+| [Freight Dispute Resolution Assistant](sales-and-negotiation/freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
 
 [All 209 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
@@ -58,7 +58,7 @@ Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for thi
 | [E-commerce Pricing Optimizer](../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [Product Performance Review Assistant](data-analysis/product-performance-review-assistant.md) | Analyzes product performance data and delivers actionable insights for CSOs. |
 
-[All 115 Data Analysis templates →](data-analysis/README.md)
+[All 116 Data Analysis templates →](data-analysis/README.md)
 
 ## Marketing & Growth
 
@@ -88,7 +88,7 @@ Prospecting, pipeline and closing. **576 ready-made Grok Bot templates** for thi
 | [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Technology Adoption Advisor](research/technology-adoption-advisor.md) | Guides CSOs through technology evaluation and adoption, from research to roadmap. |
 
-[All 39 Research templates →](research/README.md)
+[All 41 Research templates →](research/README.md)
 
 ## Productivity
 

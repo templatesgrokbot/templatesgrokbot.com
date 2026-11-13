@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 163 Grok Bot templates, 58 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 173 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,11 @@ Clean, query, chart and explain data. 163 Grok Bot templates, 58 of them filed i
 | [Affiliate Tier Review Assistant](affiliate-tier-review-assistant.md) | Reviews affiliate tiers each quarter and drafts change notes for your approval. |
 | [Affiliate Tracking Health Monitor](affiliate-tracking-health-monitor.md) | Finds affiliate tracking breaks within a day and drafts fixes before commissions are lost. |
 | [Agency Retainer Scorecard](agency-retainer-scorecard.md) | Holds your agency to contract scope and targets and gives you evidence for the renewal decision. |
+| [Amazon Bestseller Rank Extractor](amazon-bestseller-rank-extractor.md) | Extracts ranked product lists from Amazon Best Sellers pages with category and pagination details. |
+| [Amazon Buy Box Monitor](amazon-buy-box-monitor.md) | Monitors Amazon buy box ownership, prices, and seller ratings via ASIN. |
+| [Amazon Competitor Analyzer](amazon-competitor-analyzer.md) | Analyzes Amazon competitor products from ASINs to reveal market gaps and strategic insights. |
+| [Amazon Listing Extractor](amazon-listing-extractor.md) | Extracts product listings and pagination from any Amazon search or category page. |
+| [Amazon Review Extractor](amazon-review-extractor.md) | Extracts structured Amazon product reviews by ASIN for analysis and monitoring. |
 | [Amplitude Automation](amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
 | [Analyst Market Trend Forecaster](../../it-and-development/data-analysis/analyst-market-trend-forecaster.md) | Market trend analysis assistant for business analysts, turning data into insights and forecasts. No hype, just analysis. |
 | [Analytics](analytics.md) | Set up, audit, and improve analytics tracking for actionable marketing and product insights. |
@@ -88,8 +93,10 @@ Clean, query, chart and explain data. 163 Grok Bot templates, 58 of them filed i
 | [E-commerce Pricing Optimizer](../../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [E-commerce Recommendation Optimizer](../../management/data-analysis/e-commerce-recommendation-optimizer.md) | Builds and tunes personalized product recommendations for your e-commerce store. |
 | [E-commerce UX Improvement Assistant](../../management/data-analysis/e-commerce-ux-improvement-assistant.md) | Analyzes e-commerce user data and builds personalized, friction-free website experiences. |
+| [EBay Item Detail Extractor](ebay-item-detail-extractor.md) | Extracts full detail JSON from any open eBay item URL for enrichment, monitoring, or research. |
 | [Economic Impact Analysis Assistant](../../science-and-research/data-analysis/economic-impact-analysis-assistant.md) | Economic impact analysis for market research analysts, from data to report. |
 | [Email Marketing Analytics Assistant](../../sales/data-analysis/email-marketing-analytics-assistant.md) | Turns your email campaign data into clear insights and reports. |
+| [Etsy Shop Catalog](etsy-shop-catalog.md) | Collects an Etsy shop's product listings page by page with prices, ratings, and badges. |
 | [Excel Analysis](../../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
 | [Executive Social Media Intelligence](../../executives-and-strategy/data-analysis/executive-social-media-intelligence.md) | Turns social media data into actionable marketing insights for the Global Head of Marketing. |
@@ -150,6 +157,7 @@ Clean, query, chart and explain data. 163 Grok Bot templates, 58 of them filed i
 | [Reddit Thread Analyzer](reddit-thread-analyzer.md) | Analyze Reddit threads for sentiment, key arguments, and community consensus. |
 | [Search Ranking Drop Investigator](search-ranking-drop-investigator.md) | Finds the most likely cause of a ranking drop with evidence and proposes the fix. |
 | [Segment Blueprint for Analysts](../../it-and-development/data-analysis/segment-blueprint-for-analysts.md) | Guides business analysts through customer segmentation from data to action. |
+| [Seller Profile Extractor](seller-profile-extractor.md) | Extracts seller profile data from marketplace seller pages. |
 | [Sentiment Insight Compiler](../../customer-support/data-analysis/sentiment-insight-compiler.md) | Analyzes customer feedback, social media, and reviews to reveal sentiment, churn risks, and growth opportunities. |
 | [SEO Analytics and Reporting Assistant](../../it-and-development/data-analysis/seo-analytics-and-reporting-assistant.md) | Analyzes SEO data and generates reports and insights for SEO specialists. |
 | [Social Engagement Insights Analyst](social-engagement-insights-analyst.md) | Turns your social media engagement data into actionable strategy insights and campaign recommendations. |
@@ -164,6 +172,8 @@ Clean, query, chart and explain data. 163 Grok Bot templates, 58 of them filed i
 | [Streaming Performance Review](streaming-performance-review.md) | Turns weekly streaming numbers into up to three actions grounded in real listening data. |
 | [Supply Chain Impact Assessor](../../management/data-analysis/supply-chain-impact-assessor.md) | Turns supply chain data into impact assessments and recommendations for market research managers. |
 | [Talivia Agent Kit](talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
+| [Taobao Product Detail Fetcher](taobao-product-detail-fetcher.md) | Fetch full product details from Taobao or Tmall by item ID. |
+| [Taobao Shop Catalog Browser](taobao-shop-catalog-browser.md) | Browse a Taobao or Tmall shop's product catalog by shop ID, returning paginated listings with item IDs and titles. |
 | [Trend Analysis Content Assistant](../../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
 | [Web Analytics Insight Assistant](../../it-and-development/data-analysis/web-analytics-insight-assistant.md) | Turns your web analytics data into clear insights and actionable recommendations. |
 | [Web Analytics Monitoring Assistant](../../sales/data-analysis/web-analytics-monitoring-assistant.md) | Turns your web analytics data into clear insights and actions for better marketing decisions. |

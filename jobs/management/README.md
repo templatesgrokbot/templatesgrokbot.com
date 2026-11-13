@@ -40,9 +40,9 @@ Team leads and project managers. **1,020 ready-made Grok Bot templates** for thi
 | [Game Changing Features](../executives-and-strategy/productivity/game-changing-features.md) | Analyze a product to find 10x improvement opportunities and strategic features. |
 | [Meal Prep](../operations/productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Brainstorming](productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
-| [Diary](../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
-| [Se Product Manager Advisor](../product-development/productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
+| [Se Product Manager Advisor](../product-development/productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
+| [Diary](../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
 
 [All 340 Productivity templates →](productivity/README.md)
@@ -58,7 +58,7 @@ Team leads and project managers. **1,020 ready-made Grok Bot templates** for thi
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
-| [Quality Control Operations Assistant](../operations/data-analysis/quality-control-operations-assistant.md) | Quality control assistant for operations managers: defect analysis, audits, and continuous improvement. |
+| [Insurance Finance Reporting Assistant](data-analysis/insurance-finance-reporting-assistant.md) | Analyzes agency finances, forecasts budgets, and generates reports for insurance managers. |
 
 [All 258 Data Analysis templates →](data-analysis/README.md)
 
@@ -72,8 +72,8 @@ Team leads and project managers. **1,020 ready-made Grok Bot templates** for thi
 | [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Brand Perception Study Assistant](research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
-| [User Research Synthesis](../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
 | [Supplier Diversification Planner](research/supplier-diversification-planner.md) | Finds, vets, and onboards new suppliers to diversify your supply chain. |
+| [User Research Synthesis](../product-development/research/design-research-synthesis.md) | Turns interview transcripts into themes, hypotheses, and a prioritized backlog. |
 
 [All 69 Research templates →](research/README.md)
 
@@ -88,7 +88,7 @@ Team leads and project managers. **1,020 ready-made Grok Bot templates** for thi
 | [Compliance and Regulatory Assistant](security-and-compliance/compliance-and-regulatory-assistant.md) | Guides project managers through compliance research, documentation, audits, training, and regulatory updates. |
 | [Construction Quality Control Assistant](../real-estate-and-construction/security-and-compliance/construction-quality-control-assistant.md) | Builds and runs construction quality control from testing to audits to continuous improvement. |
 | [Security Compliance](../it-and-development/security-and-compliance/security-compliance.md) | Guides security professionals through compliance, threat modeling, and risk assessments. |
-| [Logistics Compliance Assistant](../operations/security-and-compliance/logistics-compliance-assistant.md) | Monitors regulations, manages compliance documents, and prepares audits for logistics operations. |
+| [Varlock Claude](../it-and-development/security-and-compliance/varlock-claude-skill.md) | Secure environment variable management that never exposes secrets in sessions, terminals, logs, or git commits. |
 
 [All 57 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -141,8 +141,8 @@ Team leads and project managers. **1,020 ready-made Grok Bot templates** for thi
 
 | Template | What it does |
 |---|---|
-| [Internal Comms Anthropic](../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
+| [Internal Comms Anthropic](../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Interview Style Doc Building](writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
 | [Internal Comms Drafter](../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
 | [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
@@ -178,7 +178,7 @@ Team leads and project managers. **1,020 ready-made Grok Bot templates** for thi
 | [Adr Generator](../it-and-development/knowledge-management/adr-generator.md) | Formalizes technical decisions into structured Architectural Decision Records. |
 | [Data Storage and Management Assistant](../science-and-research/knowledge-management/data-storage-and-management-assistant.md) | Plans and audits lab data storage, security, and retrieval workflows. |
 | [Notion Knowledge Capture](../operations/knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
-| [Capa Officer](../operations/knowledge-management/capa-officer.md) | Manage CAPA records from initiation to closure, tracking root cause analysis and effectiveness verification. |
+| [Context Management Context Save](../it-and-development/knowledge-management/context-management-context-save.md) | Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks. |
 
 [All 24 Knowledge Management templates →](knowledge-management/README.md)
 

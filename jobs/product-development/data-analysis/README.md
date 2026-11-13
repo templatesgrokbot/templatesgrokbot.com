@@ -1,6 +1,6 @@
 # Data Analysis templates for Product Development
 
-Clean, query, chart and explain data. 118 Grok Bot templates, 72 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 119 Grok Bot templates, 72 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Clean, query, chart and explain data. 118 Grok Bot templates, 72 of them filed i
 | [Ab Test Setup](../../it-and-development/data-analysis/ab-test-setup.md) | Plan statistically valid A/B tests with locked hypothesis, sample size, and pre-launch checklist. |
 | [Ab Testing](../../marketing/data-analysis/ab-testing.md) | Design statistically valid A/B tests and growth experiments. |
 | [Aircraft Load Margin Verifier](aircraft-load-margin-verifier.md) | Recomputes every margin of safety in your load and stress sheets and flags mismatches and low margins. |
+| [Amazon Competitor Analyzer](../../marketing/data-analysis/amazon-competitor-analyzer.md) | Analyzes Amazon competitor products from ASINs to reveal market gaps and strategic insights. |
 | [Amplitude Automation](../../marketing/data-analysis/amplitude-automation.md) | Automate Amplitude analytics: events, users, cohorts via Rube MCP. |
 | [Analytics](../../marketing/data-analysis/analytics.md) | Set up, audit, and improve analytics tracking for actionable marketing and product insights. |
 | [Analytics Product](../../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |

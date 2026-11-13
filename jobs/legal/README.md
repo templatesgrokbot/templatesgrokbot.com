@@ -56,7 +56,7 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Lex](research/lex.md) | Ground legal drafting in verified government references across US, EU, and CA jurisdictions. |
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Brazilian Legal Advisor](research/specialist-attorney.md) | Specialist attorney in all areas of Brazilian law. |
-| [Notion Research Documentation](../operations/research/notion-research-documentation.md) | Researches your Notion workspace and produces cited briefs, comparisons, or reports. |
+| [Crossframe Debate](../education/research/crossframe-debate.md) | Analyze propositions, debate structures, and withdrawal conditions using CrossFrame. |
 
 [All 88 Research templates →](research/README.md)
 
@@ -171,8 +171,8 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Insurance Dispute Resolution Assistant](../customer-support/support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
 | [Legal Intake Concierge](support-and-community/legal-intake-concierge.md) | Manages client communication for lawyers, from intake to follow-up, with approval gates. |
 | [Client Communication Manager](support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
-| [Legal Takedown Request Handler](support-and-community/legal-takedown-request-handler.md) | Tracks legal takedown requests against deadlines and prepares case files for human decisions. |
 | [Legal Matter Intake Router](support-and-community/legal-matter-intake-router.md) | Routes each legal request to the right specialist with the details they need. |
+| [Legal Takedown Request Handler](support-and-community/legal-takedown-request-handler.md) | Tracks legal takedown requests against deadlines and prepares case files for human decisions. |
 | [Platform Policy Change Impact](support-and-community/platform-policy-change-impact.md) | Keeps community rules aligned with platform policy updates and drafts revisions for your approval. |
 
 ## Speech-To-Text

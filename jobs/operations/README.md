@@ -47,7 +47,7 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Monte Carlo Performance Diagnosis](../it-and-development/data-analysis/monte-carlo-performance-diagnosis.md) | Diagnoses pipeline performance issues using Monte Carlo observability data. |
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
-| [Forecast Accuracy Review](data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
+| [Postgres Readonly Queries](../it-and-development/data-analysis/postgres-readonly-queries.md) | Run safe read-only SQL against PostgreSQL with multi-connection support and write protection. |
 
 [All 644 Data Analysis templates →](data-analysis/README.md)
 
@@ -60,8 +60,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Markitdown](productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
 | [Meal Prep](productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Obsidian Clipper Template Creator](productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
-| [Diary](productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
+| [Diary](productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 
 [All 537 Productivity templates →](productivity/README.md)
@@ -73,8 +73,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Zapier Make Patterns](../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Kubernetes Architect](../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
 | [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
-| [Monitoring Specialist](../it-and-development/cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
 | [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
+| [Monitoring Specialist](../it-and-development/cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
 | [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
 | [Makepad Deployment](../it-and-development/cloud-and-devops/makepad-deployment.md) | Package Makepad apps for desktop, mobile, web, and CI/CD releases. |
@@ -89,9 +89,9 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Jfrog Sec](../it-and-development/security-and-compliance/jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |
 | [Regulatory Affairs Head](security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
 | [Hazardous Material Management Assistant](security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
-| [Windows Ad](../it-and-development/security-and-compliance/windows-ad.md) | Run authorized Active Directory attacks: Kerberos, AD CS, BloodHound, NTLM relay. |
 | [Regulatory Compliance Guidance Assistant](../product-development/security-and-compliance/regulatory-compliance-guidance-assistant.md) | Guides process engineers through regulatory compliance research, documentation, reporting, training, audits, and risk management. |
 | [Chemical Compliance Assistant](../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
+| [Windows Ad](../it-and-development/security-and-compliance/windows-ad.md) | Run authorized Active Directory attacks: Kerberos, AD CS, BloodHound, NTLM relay. |
 | [Logistics Compliance Tracker](security-and-compliance/logistics-compliance-tracker.md) | Keeps logistics operations compliant by tracking, analyzing, and communicating regulatory changes. |
 
 [All 202 Security & Compliance templates →](security-and-compliance/README.md)
@@ -107,7 +107,7 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Research Orchestrator](../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
 | [Grant Finder](../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
 | [Inventory Technology Integration Guide](research/inventory-technology-integration-guide.md) | Guides inventory specialists through technology integration for inventory control. |
-| [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
+| [IP Management Assistant](../legal/research/ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
 
 [All 93 Research templates →](research/README.md)
 
@@ -121,8 +121,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Returns Reverse Logistics](support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
 | [Insurance Dispute Resolution Assistant](../customer-support/support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
 | [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
-| [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
 | [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
+| [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
 
 [All 67 Support & Community templates →](support-and-community/README.md)
 
@@ -180,8 +180,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Google Docs Automation](office-tools/google-docs-automation.md) | Create, read, search, and edit Google Docs via OAuth-authenticated scripts. |
 | [Google Slides Automation](office-tools/google-slides-automation.md) | Create, read, and modify Google Slides presentations via CLI scripts. |
 | [Pdf Fill Studio](office-tools/pdf-fill-studio.md) | Fill any PDF locally with precise value placement, leaving signatures blank. |
-| [Docusign Automation](office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
 | [Nanobanana Ppt Templates](office-tools/nanobanana-ppt-skills.md) | Generate PowerPoint decks from documents with styled images using AI. |
+| [Docusign Automation](office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
 | [Odoo Purchase Workflow](office-tools/odoo-purchase-workflow.md) | Guide Odoo Purchase: RFQ to PO, receipt, vendor bill, and 3-way matching. No subcontracting or EDI. No guessing. |
 
 [All 43 Office Tools templates →](office-tools/README.md)
@@ -221,8 +221,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | Template | What it does |
 |---|---|
 | [Llm Ops](../it-and-development/generative-ai-and-llm/llm-ops.md) | Designs and operates production RAG pipelines, embeddings, vector DBs, and cost-efficient LLM systems. |
-| [Azure Ai Contentsafety Py](../it-and-development/generative-ai-and-llm/azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
 | [Mcp Integration Engineer](../it-and-development/generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
+| [Azure Ai Contentsafety Py](../it-and-development/generative-ai-and-llm/azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
 | [Polis Protocol](../it-and-development/generative-ai-and-llm/polis-protocol.md) | Coordinate multi-vendor AI agents as a self-improving team with learning routing and amendable rules. |
 | [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
 | [Machine Learning Engineer](../it-and-development/generative-ai-and-llm/machine-learning-engineer.md) | Deploy and optimize ML models for production inference at scale. |
@@ -284,8 +284,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Command Center Ui](../it-and-development/design/command-center-ui.md) | Generate dark-themed monitoring UI code for NOCs and global maps. |
 | [Screenshot Reviewer](design/screenshot-reviewer.md) | Reviews task lists against screenshots for completeness, consistency, and quality. |
 | [Process Design Innovation Assistant](../product-development/design/process-design-innovation-assistant.md) | Innovation partner for process engineers, turning data and ideas into better designs. |
-| [Warehouse Flow Architect](design/warehouse-flow-architect.md) | Optimizes warehouse layouts for space, flow, safety, and future growth. |
 | [Chemical Plant Design Assistant](../science-and-research/design/chemical-plant-design-assistant.md) | Supports chemical engineers with plant design tasks from material selection to troubleshooting. |
+| [Warehouse Flow Architect](design/warehouse-flow-architect.md) | Optimizes warehouse layouts for space, flow, safety, and future growth. |
 | [Site Layout Planner](../real-estate-and-construction/design/site-layout-planner.md) | Optimizes construction site layouts and utilization for contractors. |
 
 ## Prompt Engineering

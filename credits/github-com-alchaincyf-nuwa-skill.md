@@ -1,6 +1,6 @@
 # Credits: github.com/alchaincyf/nuwa-skill
 
-10 TemplatesGrokBot templates are adapted from work published at [github.com/alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+12 TemplatesGrokBot templates are adapted from work published at [github.com/alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -10,7 +10,9 @@
 | [MrBeast Perspective Advisor](../jobs/marketing/social-media/mrbeast-perspective-advisor.md) | [original](https://github.com/alchaincyf/nuwa-skill/tree/main/examples/mrbeast-perspective) | [MIT](../LICENSES/MIT.md) |
 | [Munger Perspective Advisor](../jobs/finance/self-improvement/munger-perspective-advisor.md) | [original](https://github.com/alchaincyf/nuwa-skill/tree/main/examples/munger-perspective) | [MIT](../LICENSES/MIT.md) |
 | [Naval Perspective Advisor](../jobs/executives-and-strategy/self-improvement/naval-perspective-advisor.md) | [original](https://github.com/alchaincyf/nuwa-skill/tree/main/examples/naval-perspective) | [MIT](../LICENSES/MIT.md) |
+| [Paul Graham Perspective](../jobs/executives-and-strategy/prompt-engineering/paul-graham-perspective.md) | [original](https://github.com/alchaincyf/nuwa-skill/tree/main/examples/paul-graham-perspective) | [MIT](../LICENSES/MIT.md) |
 | [Persona Distiller](../jobs/writers/research/persona-distiller.md) | [original](https://github.com/alchaincyf/nuwa-skill) | [MIT](../LICENSES/MIT.md) |
+| [Taleb Perspective Advisor](../jobs/finance/research/taleb-perspective-advisor.md) | [original](https://github.com/alchaincyf/nuwa-skill/tree/main/examples/taleb-perspective) | [MIT](../LICENSES/MIT.md) |
 | [Trump Perspective Analyzer](../jobs/pr-and-communications/generative-ai-and-llm/trump-perspective-analyzer.md) | [original](https://github.com/alchaincyf/nuwa-skill/tree/main/examples/trump-perspective) | [MIT](../LICENSES/MIT.md) |
 | [Zhang Xuefeng Perspective](../jobs/education/prompt-engineering/zhang-xuefeng-perspective.md) | [original](https://github.com/alchaincyf/nuwa-skill/tree/main/examples/zhangxuefeng-perspective) | [MIT](../LICENSES/MIT.md) |
 | [Zhang Yiming Perspective](../jobs/executives-and-strategy/self-improvement/zhang-yiming-perspective.md) | [original](https://github.com/alchaincyf/nuwa-skill/tree/main/examples/zhang-yiming-perspective) | [MIT](../LICENSES/MIT.md) |

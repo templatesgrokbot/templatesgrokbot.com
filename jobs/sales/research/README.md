@@ -1,6 +1,6 @@
 # Research templates for Sales
 
-Find sources, compare evidence and summarise what is known. 39 Grok Bot templates, 24 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 41 Grok Bot templates, 26 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,9 +21,11 @@ Find sources, compare evidence and summarise what is known. 39 Grok Bot template
 | [CSO Competitor Intel Briefs](cso-competitor-intel-briefs.md) | Turns competitor data into strategic sales intelligence for CSOs. |
 | [Customer Psychographic Profiler](../../marketing/research/customer-psychographic-profiler.md) | Build deep psychographic profiles of target customers based on identity, needs, and fears. |
 | [Deepapi](../../operations/research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
+| [eBay Sold Listings Finder](ebay-sold-listings-finder.md) | Fetches real sold eBay listings with prices, dates, and details across 8 marketplaces. |
 | [Find Matching Tenders](find-matching-tenders.md) | Find and rank live AU/NZ government tenders matching a company's capabilities. |
 | [Freight Market Research Assistant](freight-market-research-assistant.md) | Market research for freight brokers: trends, competitors, pricing, routes, regulations, and more. |
 | [Freight Technology Integration Planner](freight-technology-integration-planner.md) | Plans and guides technology integration for freight brokerage operations. |
+| [Goofish Listing Searcher](goofish-listing-searcher.md) | Searches Goofish (闲鱼) for second-hand items and returns structured listings. |
 | [Market Research Analyst for CSOs](market-research-analyst-for-csos.md) | Market research analysis for Chief Sales Officers: competitor, customer, trend, pricing, and opportunity insights. |
 | [Market Research and Analysis Assistant](market-research-and-analysis-assistant.md) | Market research and analysis assistant for digital marketing managers. |
 | [Market Scout](../../marketing/research/market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
