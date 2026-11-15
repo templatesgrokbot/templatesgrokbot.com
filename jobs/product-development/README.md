@@ -41,10 +41,10 @@ Product managers and the teams that ship. **1,240 ready-made Grok Bot templates*
 | [Poka Yoke](../it-and-development/coding/poka-yoke.md) | Redesign work so mistakes cannot become defects, without relying on human memory. |
 | [Legacy Modernizer](../it-and-development/coding/legacy-modernizer.md) | Plan and execute safe, incremental migrations of legacy systems to modern architectures. |
 | [Fp Ts React](../it-and-development/coding/fp-ts-react.md) | Practical fp-ts patterns for React apps: state, forms, data fetching. |
-| [Zod Validation Expert](../it-and-development/coding/zod-validation-expert.md) | Build type-safe Zod schemas and validation logic for TypeScript projects — parsing, custom errors, refinements, type inference, and integration with R |
-| [Neon Database Architect](../it-and-development/coding/neon-database-architect.md) | Designs and optimizes Neon serverless database schemas and queries. |
 | [Performance Profiling](../it-and-development/coding/performance-profiling.md) | Profiles web performance, measures Core Web Vitals, and recommends optimizations. |
 | [Tdd Orchestrator](../it-and-development/coding/tdd-orchestrator.md) | Enforces red-green-refactor cycles and coordinates multi-agent TDD workflows across software projects. |
+| [Zod Validation Expert](../it-and-development/coding/zod-validation-expert.md) | Build type-safe Zod schemas and validation logic for TypeScript projects — parsing, custom errors, refinements, type inference, and integration with R |
+| [Filesystem Context](../it-and-development/coding/filesystem-context.md) | Manage context via filesystem: offload, retrieve, and persist agent state on demand. |
 
 [All 402 Coding templates →](coding/README.md)
 
@@ -85,10 +85,10 @@ Product managers and the teams that ship. **1,240 ready-made Grok Bot templates*
 | [Sci Fi Interface](../creatives/design/sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Spatial Computing Ui](../it-and-development/design/spatial-computing-ui.md) | Generate spatial computing UI with glass materials and 3D z-space hierarchy. |
 | [Ux Audit](../creatives/design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
-| [Neumorphism](../creatives/design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Hig Components Search](../creatives/design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
-| [Se Ux Ui Designer](../creatives/design/se-ux-ui-designer.md) | Analyze user jobs, map journeys, and produce UX research artifacts for Figma designers. Identity: You are a UX research specialist that produces Jobs- |
+| [Neumorphism](../creatives/design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Hig Technologies](../creatives/design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
+| [Se Ux Ui Designer](../creatives/design/se-ux-ui-designer.md) | Analyze user jobs, map journeys, and produce UX research artifacts for Figma designers. Identity: You are a UX research specialist that produces Jobs- |
 | [High End Visual Design](../creatives/design/high-end-visual-design.md) | Awwwards-tier UI architecture and motion design for premium, agency-grade interfaces. |
 
 [All 114 Design templates →](design/README.md)
@@ -100,9 +100,9 @@ Product managers and the teams that ship. **1,240 ready-made Grok Bot templates*
 | [Ux Researcher](../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
 | [Customer Research](../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
-| [Mcp Registry Navigator](../it-and-development/research/mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
-| [Rex](research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
 | [Task Researcher](../it-and-development/research/task-researcher.md) | Researches tasks deeply and documents findings in ./.copilot-tracking/research/. |
+| [Rex](research/rex.md) | Translates vague user intent into precise, unambiguous specifications and requirements. |
+| [Mcp Registry Navigator](../it-and-development/research/mcp-registry-navigator.md) | Discovers, evaluates, and configures MCP servers from registries. |
 | [Lightning Architecture Review](../it-and-development/research/lightning-architecture-review.md) | Review Lightning protocol designs, compare channel factories, and assess L2 scaling tradeoffs. |
 | [Wiki Researcher](../it-and-development/research/wiki-researcher.md) | Trace code paths and architecture with evidence-based depth. |
 
@@ -116,9 +116,9 @@ Product managers and the teams that ship. **1,240 ready-made Grok Bot templates*
 | [Embedding Strategies](../it-and-development/generative-ai-and-llm/embedding-strategies.md) | Select, optimize, and deploy embedding models for vector search. |
 | [Llm Evaluation](../it-and-development/generative-ai-and-llm/llm-evaluation.md) | Design and run systematic LLM evaluations with metrics, human review, and A/B testing. |
 | [Ai Engineering Toolkit](../it-and-development/generative-ai-and-llm/ai-engineering-toolkit.md) | 6 structured AI engineering workflows for prompt, RAG, security, and product evaluation. |
+| [Mcp Integration Engineer](../it-and-development/generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
 | [Langchain Architecture](../it-and-development/generative-ai-and-llm/langchain-architecture.md) | Build LLM apps with LangChain agents, chains, memory, and tools. |
 | [Agent Tool Builder](../it-and-development/generative-ai-and-llm/agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
-| [Mcp Integration Engineer](../it-and-development/generative-ai-and-llm/mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
 | [Crewai](../it-and-development/generative-ai-and-llm/crewai.md) | Designs collaborative AI agent teams with CrewAI framework |
 
 [All 76 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
@@ -133,8 +133,8 @@ Product managers and the teams that ship. **1,240 ready-made Grok Bot templates*
 | [Angular](../it-and-development/generative-code/angular.md) | Modern Angular v20+ expert: Signals, Standalone Components, Zoneless, SSR/Hydration. |
 | [Magic Ui Generator](../creatives/generative-code/magic-ui-generator.md) | Generate, compare, and integrate production-ready UI component variations using Magic by 21st.dev. |
 | [Figma](../it-and-development/generative-code/figma.md) | Fetches Figma designs and translates them into production code. |
+| [Game Design](../creatives/generative-code/game-design.md) | Design game loops, documents, and progression systems. |
 | [Use Dom](../it-and-development/generative-code/use-dom.md) | Run web code in a webview on native and as-is on web, incrementally migrating web code to Expo. |
-| [Threejs Fundamentals](../creatives/generative-code/threejs-fundamentals.md) | Set up Three.js scenes, cameras, renderers, and object hierarchies. |
 
 [All 66 Generative Code templates →](generative-code/README.md)
 

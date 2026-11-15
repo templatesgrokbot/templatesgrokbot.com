@@ -114,8 +114,8 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Legislative Drafting Assistant](../government/writing-and-content/legislative-drafting-assistant.md) | Drafts, reviews, and analyzes legislation for policy makers. |
 | [Contract And Proposal Writer](writing-and-content/contract-and-proposal-writer.md) | Drafts jurisdiction-aware contracts, proposals, SOWs, NDAs and MSAs for client engagements. |
 | [Privacy Policy Drafter](writing-and-content/privacy-policy-drafter.md) | Drafts a plain-language privacy policy with legal-review flags and compliance notes. |
-| [Contract Redliner](writing-and-content/contract-redliner.md) | Reads contracts and produces redline suggestions with replacement language and negotiation points. |
 | [Legislative Draft Consistency Check](writing-and-content/legislative-draft-consistency-check.md) | Checks each new bill draft for broken references, undefined terms and conflicts with pending bills. |
+| [Contract Redliner](writing-and-content/contract-redliner.md) | Reads contracts and produces redline suggestions with replacement language and negotiation points. |
 | [NDA Drafting Assistant](writing-and-content/nda-drafting-assistant.md) | Drafts one-way or mutual NDAs from your situation, jurisdiction and confidentiality terms. |
 
 [All 29 Writing & Content templates →](writing-and-content/README.md)
@@ -142,8 +142,8 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Freight Dispute Resolution Assistant](../sales/sales-and-negotiation/freight-dispute-resolution-assistant.md) | Resolve freight disputes from contract research to settlement documentation in one workflow. |
 | [Contract Review Assistant](../sales/sales-and-negotiation/contract-review-assistant.md) | Analyzes, drafts, and manages contracts for business development managers. |
 | [Contract Negotiation Assistant](../operations/sales-and-negotiation/contract-negotiation-assistant.md) | Streamlines contract negotiations for supply chain managers from analysis to documentation. |
-| [Mediation Party Position Recorder](sales-and-negotiation/mediation-party-position-recorder.md) | Turns private session notes into per-party positions, interests and movement, with confidences kept out of shared summaries. |
 | [Rush Quote Assistant](sales-and-negotiation/rush-quote-assistant.md) | Turns a rush transcript request into a fair quote with a delivery date you can keep. |
+| [Mediation Party Position Recorder](sales-and-negotiation/mediation-party-position-recorder.md) | Turns private session notes into per-party positions, interests and movement, with confidences kept out of shared summaries. |
 | [Settlement Conference Prep Assistant](sales-and-negotiation/settlement-conference-prep-assistant.md) | Reads settlement statements and rulings to build a judge's prep sheet of positions, gaps and questions. |
 | [Mediation Interest Mapper](sales-and-negotiation/mediation-interest-mapper.md) | Keeps each party's interests current between sessions and ranks options that serve both sides. |
 | [Contract Negotiation Strategist](../operations/sales-and-negotiation/contract-negotiation-strategist.md) | Prepares and guides procurement contract negotiations from research to final agreement. |

@@ -1,6 +1,6 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 107 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 110 Grok Bot templates, 91 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -25,6 +25,8 @@ Plan, write and measure posts across networks. 107 Grok Bot templates, 88 of the
 | [Digital Crisis Management Assistant](../../sales/social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
 | [Evergreen Content Recycling](evergreen-content-recycling.md) | Refills your content calendar with proven evergreen posts, fact-checked and spaced, with your approval on every batch. |
 | [EVP Social Media Command Center](../../executives-and-strategy/social-media/evp-social-media-command-center.md) | Plans, creates, and optimizes your social media strategy from calendar to crisis. |
+| [Facebook Group Post Scraper](facebook-group-post-scraper.md) | Scrapes posts from a Facebook group and returns structured metadata as JSON. |
+| [Facebook Posts Scraper](facebook-posts-scraper.md) | Extract posts, reactions, and media from public Facebook pages and profiles. |
 | [Finance Social Media Manager](../../finance/social-media/finance-social-media-manager.md) | Manages your social media content, engagement, analytics, and trends from one chat. |
 | [Hashtag Strategy Assistant](hashtag-strategy-assistant.md) | Researches, optimizes, and tracks hashtags for social media campaigns and engagement. |
 | [Influencer Collaboration Planner](influencer-collaboration-planner.md) | Plans and runs influencer collaborations from discovery to performance review. |
@@ -73,6 +75,7 @@ Plan, write and measure posts across networks. 107 Grok Bot templates, 88 of the
 | [Social Media Copywriter](social-media-copywriter.md) | Turns podcast episodes into platform-native social posts for The Build Podcast. Interview once per episode, never repeats. Drafts only. Reports exact |
 | [Social Media Insights Director](../../executives-and-strategy/social-media/social-media-insights-director.md) | Turns social media data into strategic marketing insights for directors. |
 | [Social Media Management Assistant](../../sales/social-media/social-media-management-assistant.md) | Plans, creates, and manages social media content and engagement for digital marketing managers. |
+| [Social Media Profile Finder](social-media-profile-finder.md) | Finds social media profiles for people or brands across major platforms. |
 | [Social Media Reporting Assistant](social-media-reporting-assistant.md) | Turns social media data into clear reports, insights, and strategy recommendations. |
 | [Social Media Sales Intelligence](../../sales/social-media/social-media-sales-intelligence.md) | Turns social media chatter into sales intelligence: competitors, trends, sentiment, influencers, and campaign impact. |
 | [Social Media SEO Optimizer](social-media-seo-optimizer.md) | Optimizes social media content for search engines and tracks SEO performance. |

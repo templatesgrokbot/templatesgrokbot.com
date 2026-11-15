@@ -1,6 +1,6 @@
 # Research templates for PR and Communications
 
-Find sources, compare evidence and summarise what is known. 28 Grok Bot templates, 14 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 31 Grok Bot templates, 16 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Find sources, compare evidence and summarise what is known. 28 Grok Bot template
 | [Discover Brand Materials](../../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
 | [Editorial Fact-Check Assistant](editorial-fact-check-assistant.md) | Verifies facts, sources, and claims in your content before publication. |
 | [Fact Checker](../../writers/research/fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
+| [Google News Monitor](google-news-monitor.md) | Fetches structured Google News results for your keywords and time range. |
 | [Guest Outreach Coordinator](../../marketing/research/guest-outreach-coordinator.md) | Identifies, contacts, and manages podcast guests for tech shows. |
 | [Last30days](../../marketing/research/last30days.md) | Research any topic from the last 30 days on Reddit, X, and the web. |
 | [Market Scout](../../marketing/research/market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
@@ -30,9 +31,11 @@ Find sources, compare evidence and summarise what is known. 28 Grok Bot template
 | [Rumor and Misinformation Manager](rumor-and-misinformation-manager.md) | Tracks, debunks, and counters rumors and misinformation for crisis communications teams. |
 | [Search Reputation Watch](search-reputation-watch.md) | Watches your brand's weekly search results and drafts responses to harmful or outdated pages. |
 | [Search Specialist](../../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
+| [Social Profile Finder](../../marketing/research/social-profile-finder.md) | Finds social media profiles for a person or brand via Google search. |
 | [Speaking Request Intake Briefing](speaking-request-intake-briefing.md) | Turns a speaking invitation into a complete, verified brief before any drafting starts. |
 | [Spokesperson Brief Evidence Checker](spokesperson-brief-evidence-checker.md) | Matches every talking point in a spokesperson brief to current, approved evidence before the interview. |
 | [Stock Photo Finder](../../creatives/research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 | [Town Hall Question Triage](town-hall-question-triage.md) | Turns hundreds of town hall questions into themed, sourced drafts for leader approval. |
+| [Trustpilot Profile Lookup](trustpilot-profile-lookup.md) | Look up a company's Trustpilot profile from its domain. |
 
 [← All PR and Communications templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/pr-and-communications)

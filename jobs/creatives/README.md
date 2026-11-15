@@ -45,11 +45,11 @@ Designers, artists and content creators. **746 ready-made Grok Bot templates** f
 | [Brandkit](design/brandkit.md) | Builds a complete brand board with logo concepts, color palette, typography, and mockups from a short briefing. |
 | [Sci Fi Interface](design/sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Pptx Posters](design/pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
-| [Ux Audit](design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
-| [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Gradient Design](design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
+| [Ux Audit](design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 | [Hig Components Search](design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
-| [Bento Ui](design/bento-ui.md) | Generate modular grid card layouts with Apple-like bento box aesthetics. |
+| [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
+| [Ui Pattern](design/ui-pattern.md) | Generate a composed UI pattern from design system primitives. |
 
 [All 217 Design templates →](design/README.md)
 
@@ -91,8 +91,8 @@ Designers, artists and content creators. **746 ready-made Grok Bot templates** f
 | [Slack Gif Creator](generative-art/slack-gif-creator.md) | Creates optimized animated GIFs for Slack from descriptions or uploaded images. |
 | [Comfyui Gateway](../it-and-development/generative-art/comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |
 | [Daily Gift](generative-art/daily-gift.md) | Decides if a gift is needed today, then creates a personalized H5, image, or video artifact. No guessing, no filler. |
-| [Fal Generate](generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [Audio Mixer](generative-art/audio-mixer.md) | Mixes and masters multi-track audio for professional production. |
+| [Fal Generate](generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [Scroll Experience](generative-art/scroll-experience.md) | Build scroll-driven animations and parallax storytelling for narrative websites. |
 | [Fal Image Edit](generative-art/fal-image-edit.md) | Edits images with style transfer and object removal, pending your approval before any output is sent. |
 
@@ -103,12 +103,12 @@ Designers, artists and content creators. **746 ready-made Grok Bot templates** f
 | Template | What it does |
 |---|---|
 | [Makepad Font](../it-and-development/generative-code/makepad-font.md) | Configure and render text in Makepad using SDF fonts, layouter, and DSL. |
-| [Threejs Postprocessing](generative-code/threejs-postprocessing.md) | Add screen-space effects like bloom, DOF, and color grading in Three.js. |
 | [Threejs Animation](generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
+| [Threejs Postprocessing](generative-code/threejs-postprocessing.md) | Add screen-space effects like bloom, DOF, and color grading in Three.js. |
 | [Magic Ui Generator](generative-code/magic-ui-generator.md) | Generate, compare, and integrate production-ready UI component variations using Magic by 21st.dev. |
 | [Figma](../it-and-development/generative-code/figma.md) | Fetches Figma designs and translates them into production code. |
-| [Threejs Fundamentals](generative-code/threejs-fundamentals.md) | Set up Three.js scenes, cameras, renderers, and object hierarchies. |
 | [Game Design](generative-code/game-design.md) | Design game loops, documents, and progression systems. |
+| [Threejs Fundamentals](generative-code/threejs-fundamentals.md) | Set up Three.js scenes, cameras, renderers, and object hierarchies. |
 | [Frontend Slides Frontend Slides](generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
 
 [All 47 Generative Code templates →](generative-code/README.md)
@@ -154,7 +154,7 @@ Designers, artists and content creators. **746 ready-made Grok Bot templates** f
 | [Content Creation and Curation Planner](../executives-and-strategy/marketing-and-growth/content-creation-and-curation-planner.md) | Plans, creates, optimizes, and curates marketing content across channels. |
 | [Emotional Arc Designer](../marketing/marketing-and-growth/emotional-arc-designer.md) | Map a customer's emotional journey from entry to action across content or flows. |
 | [Seo Podcast Optimizer](../marketing/marketing-and-growth/seo-podcast-optimizer.md) | Creates SEO-friendly titles, meta descriptions, and keywords for podcast episodes. |
-| [Video SEO Optimizer](marketing-and-growth/video-seo-optimizer.md) | Optimizes video SEO: keywords, titles, descriptions, tags, transcripts, thumbnails, metadata, competitors, sitemaps, embedding, and platform… |
+| [Domain Name Brainstormer](../marketing/marketing-and-growth/domain-name-brainstormer.md) | Generates creative domain name ideas for your project and checks availability across multiple TLDs. |
 
 [All 29 Marketing & Growth templates →](marketing-and-growth/README.md)
 
@@ -197,8 +197,8 @@ Designers, artists and content creators. **746 ready-made Grok Bot templates** f
 | [PPTX Reference Analyzer](office-tools/pptx-reference-analyzer.md) | Analyzes reference PPTX decks for structure, theme, and design evidence without modifying them. |
 | [Pptx Deck Creation](../marketing/office-tools/pptx-deck-creation.md) | Create editable PPTX decks with narrative planning and explicit layout specs. |
 | [Presentation Deck Builder](../management/office-tools/presentation-deck-builder.md) | Turns a topic or rough notes into a complete, structured presentation in Marp markdown. |
-| [Markdown Slide Builder](../education/office-tools/markdown-slide-builder.md) | Turns your Markdown notes into themed Marp slide decks exported to PDF, PPTX, or HTML. |
 | [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
+| [Markdown Slide Builder](../education/office-tools/markdown-slide-builder.md) | Turns your Markdown notes into themed Marp slide decks exported to PDF, PPTX, or HTML. |
 | [Actor Booking Conflict Keeper](office-tools/actor-booking-conflict-keeper.md) | Keeps your holds, bookings and fittings clash-free and drafts the replies you approve. |
 
 [All 22 Office Tools templates →](office-tools/README.md)

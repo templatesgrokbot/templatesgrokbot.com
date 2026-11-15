@@ -1,6 +1,6 @@
 # Credits
 
-4,065 of the 10,584 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
+4,095 of the 10,614 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
 
 Every adapted template also names its original (`adapted_from`) and its license (`source_license`) in its front matter, and links back here at the end of the file.
 
@@ -16,13 +16,13 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 49 | [Apache-2.0](LICENSES/Apache-2.0.md) | [list](credits/github-com-nexu-io-html-anything.md) |
 | [github.com/nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 46 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-nanocoai-nanoclaw.md) |
 | [github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 43 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-zhaoxuya520-reverse-skill.md) |
+| [github.com/browser-act/skills](https://github.com/browser-act/skills) | 40 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-browser-act-skills.md) |
 | [github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 40 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-snailsploit-claude-red.md) |
 | [github.com/wshobson/agents](https://github.com/wshobson/agents) | 33 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-wshobson-agents.md) |
-| [github.com/alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 25 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-alirezarezvani-claude-skills.md) |
+| [github.com/alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 31 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-alirezarezvani-claude-skills.md) |
 | [github.com/whyashthakker/agent-skills-marketing](https://github.com/whyashthakker/agent-skills-marketing) | 25 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-whyashthakker-agent-skills-marketing.md) |
 | [github.com/jonathimer/devmarketing-skills](https://github.com/jonathimer/devmarketing-skills) | 24 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-jonathimer-devmarketing-skills.md) |
 | [github.com/LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 24 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-lambdatest-agent-skills.md) |
-| [github.com/browser-act/skills](https://github.com/browser-act/skills) | 23 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-browser-act-skills.md) |
 | [github.com/coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 23 | [CC BY 4.0](LICENSES/CC-BY-4.0.md), [MIT](LICENSES/MIT.md) | [list](credits/github-com-coreyhaines31-marketingskills.md) |
 | [github.com/huggingface/skills](https://github.com/huggingface/skills) | 22 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-huggingface-skills.md) |
 | [github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 20 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-addyosmani-agent-skills.md) |
@@ -34,6 +34,7 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 12 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-orchestra-research-ai-research-skills.md) |
 | [github.com/zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 12 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-zenstory-ai-oh-story-claudecode.md) |
 | [github.com/expo/skills](https://github.com/expo/skills) | 11 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-expo-skills.md) |
+| [github.com/michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | 11 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-michael-denyer-pstack-claude.md) |
 | [github.com/Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) | 11 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-simon-he95-markstream-vue.md) |
 | [github.com/sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) | 9 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-sergebulaev-linkedin-skills.md) |
 | [github.com/ai-evos/agent-skills](https://github.com/ai-evos/agent-skills) | 8 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-ai-evos-agent-skills.md) |
@@ -61,7 +62,6 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 5 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-yusufkaraaslan-skill-seekers.md) |
 | [github.com/chaunsin/agent-skills](https://github.com/chaunsin/agent-skills) | 4 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-chaunsin-agent-skills.md) |
 | [github.com/google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) | 4 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-google-gemini-gemini-skills.md) |
-| [github.com/michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | 4 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-michael-denyer-pstack-claude.md) |
 | [github.com/microsoft/skills](https://github.com/microsoft/skills) | 4 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-microsoft-skills.md) |
 | [github.com/Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | 4 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-ryze-ai-adgent-open-seo-mcp-skills.md) |
 | [docs.dbos.dev](https://docs.dbos.dev) | 3 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/docs-dbos-dev.md) |

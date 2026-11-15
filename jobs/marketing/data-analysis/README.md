@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 173 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 176 Grok Bot templates, 71 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -96,6 +96,7 @@ Clean, query, chart and explain data. 173 Grok Bot templates, 68 of them filed i
 | [EBay Item Detail Extractor](ebay-item-detail-extractor.md) | Extracts full detail JSON from any open eBay item URL for enrichment, monitoring, or research. |
 | [Economic Impact Analysis Assistant](../../science-and-research/data-analysis/economic-impact-analysis-assistant.md) | Economic impact analysis for market research analysts, from data to report. |
 | [Email Marketing Analytics Assistant](../../sales/data-analysis/email-marketing-analytics-assistant.md) | Turns your email campaign data into clear insights and reports. |
+| [Etsy Product Detail Extractor](etsy-product-detail-extractor.md) | Extracts full product details from a single Etsy listing URL. |
 | [Etsy Shop Catalog](etsy-shop-catalog.md) | Collects an Etsy shop's product listings page by page with prices, ratings, and badges. |
 | [Excel Analysis](../../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Executive Dashboard Generator](../../executives-and-strategy/data-analysis/executive-dashboard-generator.md) | Turns raw data into executive-ready reports with insights and recommendations. |
@@ -175,6 +176,8 @@ Clean, query, chart and explain data. 173 Grok Bot templates, 68 of them filed i
 | [Taobao Product Detail Fetcher](taobao-product-detail-fetcher.md) | Fetch full product details from Taobao or Tmall by item ID. |
 | [Taobao Shop Catalog Browser](taobao-shop-catalog-browser.md) | Browse a Taobao or Tmall shop's product catalog by shop ID, returning paginated listings with item IDs and titles. |
 | [Trend Analysis Content Assistant](../../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
+| [Walmart Keyword Search](walmart-keyword-search.md) | Extracts structured product listings from Walmart search results by keyword and page. |
+| [Walmart Review Extractor](walmart-review-extractor.md) | Extracts paginated customer reviews from Walmart product pages. |
 | [Web Analytics Insight Assistant](../../it-and-development/data-analysis/web-analytics-insight-assistant.md) | Turns your web analytics data into clear insights and actionable recommendations. |
 | [Web Analytics Monitoring Assistant](../../sales/data-analysis/web-analytics-monitoring-assistant.md) | Turns your web analytics data into clear insights and actions for better marketing decisions. |
 | [Website Analytics Optimizer](../../sales/data-analysis/website-analytics-optimizer.md) | Analyzes website data and delivers optimization recommendations for digital marketing specialists. |

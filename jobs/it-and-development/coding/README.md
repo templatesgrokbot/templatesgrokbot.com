@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1145 Grok Bot templates, 1136 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1150 Grok Bot templates, 1141 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Write, review, test and debug software. 1145 Grok Bot templates, 1136 of them fi
 | [Address Github Comments](address-github-comments.md) | Address GitHub PR review comments with gh CLI after user approval. |
 | [Advanced SQL Advisor for DBAs](advanced-sql-advisor-for-dbas.md) | SQL advisor for DBAs: optimize, design, and secure databases with expert guidance. |
 | [Adversarial Code Reviewer](adversarial-code-reviewer.md) | Reviews recent code changes through three hostile reviewer personas and returns a merge verdict. |
+| [Adversarial Review Runner](adversarial-review-runner.md) | Adversarial review that proves findings with runs before reporting. |
 | [Aem Frontend Specialist](aem-frontend-specialist.md) | Builds AEM components from Figma designs using HTL, Tailwind CSS, and design tokens. |
 | [Agent Framework Azure Ai Py](agent-framework-azure-ai-py.md) | Build persistent agents on Azure AI Foundry with the Microsoft Agent Framework Python SDK. |
 | [Agent Harness Fault Injection](agent-harness-fault-injection.md) | Deterministic fault injection to test agent workflow recovery before production. |
@@ -270,6 +271,7 @@ Write, review, test and debug software. 1145 Grok Bot templates, 1136 of them fi
 | [Command Creator](command-creator.md) | Creates reusable slash commands for Claude Code from user workflows. |
 | [Command Development](command-development.md) | Creates and manages slash commands for Claude Code from markdown templates. |
 | [Command Expert](command-expert.md) | Designs and implements CLI commands for the claude-code-templates system. |
+| [Comment Cleaner](comment-cleaner.md) | Reviews and removes code comments, fixes accepted findings, and offers encodings for constraints. |
 | [Commit](commit.md) | Formats git commits with Sentry conventions and issue references. |
 | [Commit Guardian](commit-guardian.md) | Runs 10 automated checks before every git commit and blocks if any fail. |
 | [Commit Smart](commit-smart.md) | Analyze staged git changes and write semantic conventional commits with context. |
@@ -684,6 +686,7 @@ Write, review, test and debug software. 1145 Grok Bot templates, 1136 of them fi
 | [Migration Guide Builder](migration-guide-builder.md) | Extracts your customizations into a replayable guide and upgrades cleanly without merge conflicts. |
 | [Minecraft Bukkit Pro](minecraft-bukkit-pro.md) | Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. |
 | [Minimal Change Engineer](minimal-change-engineer.md) | Delivers the smallest diff that fixes exactly what was asked, and nothing more. |
+| [Minimalist Coder](minimalist-coder.md) | Writes the least code needed to solve a problem, avoiding over-engineering. |
 | [Mistake Class Hardener](mistake-class-hardener.md) | Find repeated agent mistakes in a repo and make each one impossible to repeat. |
 | [Ml Pipeline Workflow](ml-pipeline-workflow.md) | End-to-end MLOps pipeline orchestration from data prep to model deployment and monitoring. |
 | [ML Workflow Integrator](ml-workflow-integrator.md) | Guides ML project workflows from feature engineering to deployment and monitoring. |
@@ -807,6 +810,7 @@ Write, review, test and debug software. 1145 Grok Bot templates, 1136 of them fi
 | [Powershell Ui Architect](powershell-ui-architect.md) | Designs desktop GUIs and terminal UIs for PowerShell automation tools with clean separation of concerns. |
 | [Powershell Windows](powershell-windows.md) | Provides PowerShell patterns, operator syntax, error handling, and pitfalls for Windows scripting. |
 | [Pr Merge Champion](pr-merge-champion.md) | Prepare pull requests for fast approval with clean diffs and self-reviews. |
+| [PR Reviewability Preparer](pr-reviewability-preparer.md) | Prepares pull requests for review by cleaning history, improving descriptions, and adding guidance. |
 | [Premium Web Implementation](premium-web-implementation.md) | Implements premium Laravel, Livewire and FluxUI interfaces from an approved task list. |
 | [Principal Software Engineer](principal-software-engineer.md) | Provide principal-level software engineering guidance with focus on engineering excellence, technical leadership, and pragmatic implementation. |
 | [Product Testing Assistant](../../operations/coding/product-testing-assistant.md) | Generates, runs, and reports product tests, tracking defects and ensuring quality. |
@@ -1149,6 +1153,7 @@ Write, review, test and debug software. 1145 Grok Bot templates, 1136 of them fi
 | [Yeet](yeet.md) | Stage, commit, push, and open a draft GitHub pull request in one flow. |
 | [YYLO Task Loop Runner](yylo-task-loop-runner.md) | Takes one assigned YYLO Ledger task through the validated loop to a queued, review-ready commit. |
 | [Zcode Delegate](zcode-delegate.md) | Hand bounded coding tasks to ZCode CLI, review diffs, and commit. |
+| [Zero-Hallucination Coder](zero-hallucination-coder.md) | A disciplined coding partner that grounds code in verified structure, avoiding hallucinated APIs and unnecessary code. |
 | [Zod Validation Expert](zod-validation-expert.md) | Build type-safe Zod schemas and validation logic for TypeScript projects — parsing, custom errors, refinements, type inference, and integration with R |
 | [Zustand Store Ts](zustand-store-ts.md) | Generates Zustand stores with TypeScript types and subscribeWithSelector middleware. |
 

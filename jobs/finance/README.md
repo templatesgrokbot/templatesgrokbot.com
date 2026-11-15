@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **827 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **828 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Accounting, budgeting, analysis and risk. **827 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 495 |
+| [Data Analysis](data-analysis/README.md) | 496 |
 | [Productivity](productivity/README.md) | 102 |
 | [Security & Compliance](security-and-compliance/README.md) | 79 |
 | [Research](research/README.md) | 47 |
@@ -41,7 +41,7 @@ Accounting, budgeting, analysis and risk. **827 ready-made Grok Bot templates** 
 | [Financial Forecasting and Analysis Assistant](../executives-and-strategy/data-analysis/financial-forecasting-and-analysis-assistant.md) | Turns financial data into forecasts, budgets, and scenario insights for a VP of Finance. |
 | [CFO Tax Planning Assistant](data-analysis/cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
 
-[All 495 Data Analysis templates →](data-analysis/README.md)
+[All 496 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -52,8 +52,8 @@ Accounting, budgeting, analysis and risk. **827 ready-made Grok Bot templates** 
 | [Credit Card Max](productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
 | [Risk Analysis and Management Assistant](../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Meeting Coordination Assistant](productivity/meeting-coordination-assistant.md) | Handles scheduling, invitations, logistics, agendas, reminders, RSVPs, minutes, virtual setups, materials, follow-ups, surveys, and travel for… |
-| [Finance Event Orchestrator](productivity/finance-event-orchestrator.md) | Plans, coordinates, and tracks every detail of your events from venue to post-event feedback. |
 | [Financial Planning Assistant](productivity/financial-planning-assistant.md) | Personal financial planning assistant for tax analysts covering budgets, investments, retirement, taxes, debt, insurance, education, estate, cash… |
+| [Finance Event Orchestrator](productivity/finance-event-orchestrator.md) | Plans, coordinates, and tracks every detail of your events from venue to post-event feedback. |
 | [Expense Tracking Assistant](productivity/expense-tracking-assistant.md) | Manages expense tracking, reporting, budgets, and compliance for finance managers. |
 
 [All 102 Productivity templates →](productivity/README.md)
@@ -69,7 +69,7 @@ Accounting, budgeting, analysis and risk. **827 ready-made Grok Bot templates** 
 | [Technology Risk Assessment Assistant](security-and-compliance/technology-risk-assessment-assistant.md) | Assesses technology risks across infrastructure, vendors, data, and emerging tech for insurance risk analysts. |
 | [Regulatory Compliance Analyst](security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
 | [Compliance Report Generator](security-and-compliance/compliance-report-generator.md) | Automates financial reporting from data extraction to compliance and distribution. |
-| [Year-End Payroll Reconciliation Assistant](security-and-compliance/year-end-payroll-reconciliation-assistant.md) | Reconciles year-end payroll data, verifies compliance, and prepares tax forms and reports. |
+| [Risk Assessment Assistant](security-and-compliance/risk-assessment-assistant.md) | Identifies, evaluates, and documents financial risks with mitigation strategies for accountants. |
 
 [All 79 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -141,8 +141,8 @@ Accounting, budgeting, analysis and risk. **827 ready-made Grok Bot templates** 
 | [Fintech Engineer](../it-and-development/coding/fintech-engineer.md) | Builds secure, compliant payment systems and financial integrations with 100% transaction accuracy. |
 | [Stripe Integration](../it-and-development/coding/stripe-integration.md) | Implement Stripe payments, subscriptions, webhooks and refunds with verified server-side authorization. |
 | [X402 Express Wrapper](../it-and-development/coding/x402-express-wrapper.md) | Monetize APIs and MCP servers with USDC micropayments via x402 middleware. |
-| [Pakistan Payments Stack](../it-and-development/coding/pakistan-payments-stack.md) | Design and implement PKR payment integrations for SaaS with JazzCash, Easypaisa, and bank rails. |
 | [Plaid Fintech](../it-and-development/coding/plaid-fintech.md) | Guide Plaid API integration: Link tokens, transactions sync, identity, ACH, webhooks. |
+| [Pakistan Payments Stack](../it-and-development/coding/pakistan-payments-stack.md) | Design and implement PKR payment integrations for SaaS with JazzCash, Easypaisa, and bank rails. |
 | [Emblemai Crypto Wallet](coding/emblemai-crypto-wallet.md) | Manage crypto wallets across 7 blockchains via EmblemAI Agent Hustle API. |
 | [Payment Integration](../it-and-development/coding/payment-integration.md) | Design and secure payment systems with PCI compliance and fraud prevention. |
 

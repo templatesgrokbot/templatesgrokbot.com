@@ -1,6 +1,6 @@
 # Data Analysis templates for Writers
 
-Clean, query, chart and explain data. 12 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 13 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Clean, query, chart and explain data. 12 Grok Bot templates, 7 of them filed in 
 | [Long-Form Web Novel Trend Scanner](long-form-web-novel-trend-scanner.md) | 分析起点、番茄、晋江等平台排行榜，提炼长篇网文市场趋势与热门题材。 |
 | [News Sentiment Engine](../../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 | [Technical Writer Data Insights](technical-writer-data-insights.md) | Turns raw data into clear insights, visuals, and reports for technical writers. |
+| [Text Analysis Transformer](text-analysis-transformer.md) | Analyzes text files for word and character statistics and applies basic transformations on demand. |
 | [Trend Analysis Content Assistant](trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
 
 [← All Writers templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/writers)

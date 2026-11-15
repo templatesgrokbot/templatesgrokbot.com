@@ -1,6 +1,6 @@
 # Research templates for Sales
 
-Find sources, compare evidence and summarise what is known. 41 Grok Bot templates, 26 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 43 Grok Bot templates, 27 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -10,6 +10,7 @@ Find sources, compare evidence and summarise what is known. 41 Grok Bot template
 | [API Answer Verifier](api-answer-verifier.md) | Verifies API answers against current docs and sandbox behavior before a sales engineer sends them. |
 | [Apify Market Research](../../marketing/research/apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
 | [Battlecard Refresh Assistant](battlecard-refresh-assistant.md) | Keeps every battlecard current and sourced by comparing competitor sources and win-loss notes each month. |
+| [Business Contact Extractor](business-contact-extractor.md) | Finds a company's official website and social media profiles from a name or URL. |
 | [Competitive Ads Extractor](../../marketing/research/competitive-ads-extractor.md) | Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns. |
 | [Competitive Intelligence Analyst](../../executives-and-strategy/research/competitive-intelligence-analyst.md) | Monitors competitors and market trends to produce structured intelligence reports. |
 | [Competitor Edge Monitor](competitor-edge-monitor.md) | Tracks competitors and turns their moves into your advantage. |
@@ -42,6 +43,7 @@ Find sources, compare evidence and summarise what is known. 41 Grok Bot template
 | [Sales Rival Radar](sales-rival-radar.md) | Tracks competitors and turns market data into sales strategy for sales managers. |
 | [Seo Dataforseo](../../marketing/research/seo-dataforseo.md) | Fetch live SERPs, keyword metrics, backlinks, and competitor data via DataForSEO. |
 | [Social Media Market Research Analyst](social-media-market-research-analyst.md) | Turns social media data into market research insights and strategy for sales and marketing teams. |
+| [Social Profile Finder](../../marketing/research/social-profile-finder.md) | Finds social media profiles for a person or brand via Google search. |
 | [Supplier Selection Assistant](../../management/research/supplier-selection-assistant.md) | Helps Supplier Relationship Managers research, evaluate, and manage suppliers from selection to exit. |
 | [Technology Adoption Advisor](technology-adoption-advisor.md) | Guides CSOs through technology evaluation and adoption, from research to roadmap. |
 | [Territory Influence Mapper](territory-influence-mapper.md) | Maps public publications, roles and speaker activity for a territory and flags coverage gaps. |

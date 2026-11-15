@@ -1,6 +1,6 @@
 # Knowledge Management templates for Management
 
-Notes, documents, PDFs and knowledge bases kept in order. 24 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 25 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,6 +22,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 24 Grok Bot templates,
 | [Insurance Product Knowledge Manager](insurance-product-knowledge-manager.md) | Keeps insurance agency managers and their agents product-smart and ready to advise. |
 | [Insurance Training and Knowledge Manager](../../customer-support/knowledge-management/insurance-training-and-knowledge-manager.md) | Training and knowledge management assistant for insurance customer service teams. |
 | [Lessons Learned Capture and Reuse](lessons-learned-capture-and-reuse.md) | Captures project lessons at close and turns them into checks for new project plans. |
+| [Memory Keeper](memory-keeper.md) | Explicitly save important knowledge to memory with timestamp and context. |
 | [Notion Knowledge Capture](../../operations/knowledge-management/notion-knowledge-capture.md) | Capture conversations and decisions into structured Notion pages. |
 | [Obsidian Bases](../../operations/knowledge-management/obsidian-bases.md) | Create and edit Obsidian .base files with views, filters, formulas, and summaries. |
 | [Project State Governor](project-state-governor.md) | Govern evidence-backed canonical project state across sessions without inventing intent. |

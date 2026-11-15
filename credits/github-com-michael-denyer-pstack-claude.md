@@ -1,12 +1,19 @@
 # Credits: github.com/michael-denyer/pstack-claude
 
-4 TemplatesGrokBot templates are adapted from work published at [github.com/michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+11 TemplatesGrokBot templates are adapted from work published at [github.com/michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
+| [Adversarial Review Runner](../jobs/it-and-development/coding/adversarial-review-runner.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/interrogate) | [MIT](../LICENSES/MIT.md) |
+| [Auditable Playbook Designer](../jobs/operations/productivity/auditable-playbook-designer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/figure-it-out) | [MIT](../LICENSES/MIT.md) |
 | [Benchmark Verifier](../jobs/it-and-development/data-analysis/benchmark-verifier.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/benchmark-checklist) | [MIT](../LICENSES/MIT.md) |
 | [Blast Radius Analyzer](../jobs/it-and-development/coding/blast-radius-analyzer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/blast-radius) | [MIT](../LICENSES/MIT.md) |
+| [Chat Catch-Up](../jobs/it-and-development/productivity/chat-catch-up.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/ketchup) | [MIT](../LICENSES/MIT.md) |
+| [Comment Cleaner](../jobs/it-and-development/coding/comment-cleaner.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/no-comments) | [MIT](../LICENSES/MIT.md) |
+| [Ketchup Video Briefing](../jobs/it-and-development/generative-video/ketchup-video-briefing.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/ketchup-video) | [MIT](../LICENSES/MIT.md) |
 | [Mistake Class Hardener](../jobs/it-and-development/coding/mistake-class-hardener.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/correct) | [MIT](../LICENSES/MIT.md) |
 | [Personal Mode Crafter](../jobs/it-and-development/prompt-engineering/personal-mode-crafter.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/automate-me) | [MIT](../LICENSES/MIT.md) |
+| [PR Reviewability Preparer](../jobs/it-and-development/coding/pr-reviewability-preparer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/make-pr-easy-to-review) | [MIT](../LICENSES/MIT.md) |
+| [Pull Request Feedback Summarizer](../jobs/it-and-development/productivity/pull-request-feedback-summarizer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/get-pr-comments) | [MIT](../LICENSES/MIT.md) |
 
 [← All credits](../CREDITS.md)

@@ -1,6 +1,6 @@
 # Social Media templates for Sales
 
-Plan, write and measure posts across networks. 9 Grok Bot templates, 7 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 10 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,5 +15,6 @@ Plan, write and measure posts across networks. 9 Grok Bot templates, 7 of them f
 | [Social Media Sales Intelligence](social-media-sales-intelligence.md) | Turns social media chatter into sales intelligence: competitors, trends, sentiment, influencers, and campaign impact. |
 | [Social Media Strategy Optimizer](social-media-strategy-optimizer.md) | Plans, creates, and optimizes your social media strategy from research to reporting. |
 | [Whatsapp Automation](../../marketing/social-media/whatsapp-automation.md) | Automate WhatsApp Business messaging, templates, media, and contacts via Rube MCP. |
+| [YouTube Channel Contact Extractor](youtube-channel-contact-extractor.md) | Extracts a YouTube channel's business email and About metadata from a channel ID, handle, or URL. |
 
 [← All Sales templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/sales)

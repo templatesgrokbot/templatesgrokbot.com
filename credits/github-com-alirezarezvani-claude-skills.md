@@ -1,6 +1,6 @@
 # Credits: github.com/alirezarezvani/claude-skills
 
-25 TemplatesGrokBot templates are adapted from work published at [github.com/alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+31 TemplatesGrokBot templates are adapted from work published at [github.com/alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -18,16 +18,22 @@
 | [Company Architect](../jobs/executives-and-strategy/knowledge-management/company-architect.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/arquiteto-de-empresa/skills/arquiteto-de-empresa) | [MIT](../LICENSES/MIT.md) |
 | [Deep Learning Study Companion](../jobs/science-and-research/teaching-and-tutoring/deep-learning-study-companion.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/deep-learning-book/skills/deep-learning-book) | [MIT](../LICENSES/MIT.md) |
 | [Deep Research Coordinator](../jobs/science-and-research/research/deep-research-coordinator.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/research/meta-research/skills/meta-research) | [MIT](../LICENSES/MIT.md) |
+| [Deep RL Guide](../jobs/science-and-research/teaching-and-tutoring/deep-rl-guide.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/spinning-up-deep-rl/skills/spinning-up-deep-rl) | [MIT](../LICENSES/MIT.md) |
 | [Embedded IoT Mentor](../jobs/it-and-development/teaching-and-tutoring/embedded-iot-mentor.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/skills/embedded-iot-mentor) | [MIT](../LICENSES/MIT.md) |
 | [Experiment Dashboard](../jobs/science-and-research/generative-ai-and-llm/experiment-dashboard.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/autoresearch-agent/skills/ar-status) | [MIT](../LICENSES/MIT.md) |
 | [Goal Verification Loop](../jobs/it-and-development/generative-ai-and-llm/goal-verification-loop.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/agent-harness/skills/agent-harness) | [MIT](../LICENSES/MIT.md) |
 | [Knowledge Operations Auditor](../jobs/operations/knowledge-management/knowledge-operations-auditor.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/knowledge-ops) | [MIT](../LICENSES/MIT.md) |
 | [Managed Agent Lifecycle Orchestrator](../jobs/it-and-development/generative-ai-and-llm/managed-agent-lifecycle-orchestrator.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/agent-launcher/skills/agent-launcher-orchestrator) | [MIT](../LICENSES/MIT.md) |
 | [Medical Device Software Classifier](../jobs/product-development/security-and-compliance/medical-device-software-classifier.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/medical-device-software/skills/medical-device-software) | [MIT](../LICENSES/MIT.md) |
+| [Memory Keeper](../jobs/management/knowledge-management/memory-keeper.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/self-improving-agent/skills/remember) | [MIT](../LICENSES/MIT.md) |
+| [Minimalist Coder](../jobs/it-and-development/coding/minimalist-coder.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/minimalist) | [MIT](../LICENSES/MIT.md) |
 | [OAuth Failure Triage](../jobs/it-and-development/cloud-and-devops/oauth-failure-triage.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/skills/mcp-oauth-triage) | [MIT](../LICENSES/MIT.md) |
 | [Parallel Agent Spawner](../jobs/it-and-development/generative-ai-and-llm/parallel-agent-spawner.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/agenthub/skills/spawn) | [MIT](../LICENSES/MIT.md) |
+| [Passive Deal Screener](../jobs/finance/data-analysis/passive-deal-screener.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/finance/skills/passive-deal-screener) | [MIT](../LICENSES/MIT.md) |
 | [Project Wrap-Up](../jobs/it-and-development/generative-ai-and-llm/project-wrap-up.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/agent-launcher/skills/wrap-up) | [MIT](../LICENSES/MIT.md) |
 | [Senior Frontend](../jobs/it-and-development/coding/senior-frontend.md) | [original](https://github.com/alirezarezvani/claude-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Stage Launch Orchestrator](../jobs/it-and-development/generative-ai-and-llm/stage-launch-orchestrator.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/agent-launcher/skills/stage-launch) | [MIT](../LICENSES/MIT.md) |
+| [Text Analysis Transformer](../jobs/writers/data-analysis/text-analysis-transformer.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/skills/skill-tester/assets/sample-skill) | [MIT](../LICENSES/MIT.md) |
+| [Zero-Hallucination Coder](../jobs/it-and-development/coding/zero-hallucination-coder.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/zero-hallucination-coder/skills/zero-hallucination-coder) | [MIT](../LICENSES/MIT.md) |
 
 [← All credits](../CREDITS.md)

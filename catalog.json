@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 10584,
+ "count": 10614,
  "templates": [
   {
    "slug": "007",
@@ -2258,6 +2258,22 @@
    "url": "https://templatesgrokbot.com/bot/adversarial-document-reviewer",
    "adapted_from": "https://github.com/google/elephant-goldfish-model/tree/main/distributions/claude/skills/egm-review-loop",
    "source_license": "Apache-2.0"
+  },
+  {
+   "slug": "adversarial-review-runner",
+   "name": "Adversarial Review Runner",
+   "tagline": "Adversarial review that proves findings with runs before reporting.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/adversarial-review-runner.md",
+   "url": "https://templatesgrokbot.com/bot/adversarial-review-runner",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/interrogate",
+   "source_license": "MIT"
   },
   {
    "slug": "adverse-event-reporting-timeline",
@@ -9796,6 +9812,23 @@
    "url": "https://templatesgrokbot.com/bot/audit-skills",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "auditable-playbook-designer",
+   "name": "Auditable Playbook Designer",
+   "tagline": "Designs an auditable playbook for complex tasks with no existing procedure.",
+   "category": "operations",
+   "jobs": [
+    "operations"
+   ],
+   "topics": [
+    "productivity",
+    "research"
+   ],
+   "path": "jobs/operations/productivity/auditable-playbook-designer.md",
+   "url": "https://templatesgrokbot.com/bot/auditable-playbook-designer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/figure-it-out",
+   "source_license": "MIT"
   },
   {
    "slug": "audition-callback-tracker",
@@ -18885,6 +18918,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "business-contact-extractor",
+   "name": "Business Contact Extractor",
+   "tagline": "Finds a company's official website and social media profiles from a name or URL.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/sales/research/business-contact-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/business-contact-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/lead-generation/business-contact-social-links-skill",
+   "source_license": "MIT"
+  },
+  {
    "slug": "business-continuity-planner",
    "name": "Business Continuity Planner",
    "tagline": "Builds and maintains business continuity plans, impact analyses, and crisis communication procedures.",
@@ -22867,6 +22916,22 @@
    ],
    "path": "jobs/it-and-development/data-analysis/chart-whisperer-for-analysts.md",
    "url": "https://templatesgrokbot.com/bot/chart-whisperer-for-analysts"
+  },
+  {
+   "slug": "chat-catch-up",
+   "name": "Chat Catch-Up",
+   "tagline": "Catch up on what changed in this chat and list every decision waiting on you.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/productivity/chat-catch-up.md",
+   "url": "https://templatesgrokbot.com/bot/chat-catch-up",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/ketchup",
+   "source_license": "MIT"
   },
   {
    "slug": "chat-export-need-miner",
@@ -29462,6 +29527,22 @@
    "url": "https://templatesgrokbot.com/bot/commandcode-delegate",
    "adapted_from": "https://github.com/amElnagdy/delegate-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "comment-cleaner",
+   "name": "Comment Cleaner",
+   "tagline": "Reviews and removes code comments, fixes accepted findings, and offers encodings for constraints.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/comment-cleaner.md",
+   "url": "https://templatesgrokbot.com/bot/comment-cleaner",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/no-comments",
+   "source_license": "MIT"
   },
   {
    "slug": "comment-moderation-assistant",
@@ -45274,6 +45355,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "deep-rl-guide",
+   "name": "Deep RL Guide",
+   "tagline": "Guides you through deep RL theory, algorithms, and rigorous experiments.",
+   "category": "education",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "coding"
+   ],
+   "path": "jobs/science-and-research/teaching-and-tutoring/deep-rl-guide.md",
+   "url": "https://templatesgrokbot.com/bot/deep-rl-guide",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/spinning-up-deep-rl/skills/spinning-up-deep-rl",
+   "source_license": "MIT"
+  },
+  {
    "slug": "deepapi",
    "name": "Deepapi",
    "tagline": "Scrape, research, and email via DeepAPI with explicit credentials and approval.",
@@ -57487,6 +57585,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "etsy-product-detail-extractor",
+   "name": "Etsy Product Detail Extractor",
+   "tagline": "Extracts full product details from a single Etsy listing URL.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "coding"
+   ],
+   "path": "jobs/marketing/data-analysis/etsy-product-detail-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/etsy-product-detail-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/etsy-product-detail",
+   "source_license": "MIT"
+  },
+  {
    "slug": "etsy-shop-catalog",
    "name": "Etsy Shop Catalog",
    "tagline": "Collects an Etsy shop's product listings page by page with prices, ratings, and badges.",
@@ -60721,6 +60836,39 @@
    ],
    "path": "jobs/product-development/productivity/fabric-swatch-approval-tracker.md",
    "url": "https://templatesgrokbot.com/bot/fabric-swatch-approval-tracker"
+  },
+  {
+   "slug": "facebook-group-post-scraper",
+   "name": "Facebook Group Post Scraper",
+   "tagline": "Scrapes posts from a Facebook group and returns structured metadata as JSON.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "coding"
+   ],
+   "path": "jobs/marketing/social-media/facebook-group-post-scraper.md",
+   "url": "https://templatesgrokbot.com/bot/facebook-group-post-scraper",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/facebook-groups-scrape-posts",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "facebook-posts-scraper",
+   "name": "Facebook Posts Scraper",
+   "tagline": "Extract posts, reactions, and media from public Facebook pages and profiles.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/facebook-posts-scraper.md",
+   "url": "https://templatesgrokbot.com/bot/facebook-posts-scraper",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/facebook-page-profile-posts",
+   "source_license": "MIT"
   },
   {
    "slug": "facilities-move-tracker",
@@ -69571,6 +69719,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "github-contributor-finder",
+   "name": "GitHub Contributor Finder",
+   "tagline": "Find GitHub projects and contributor contact details by keywords, stars, and update date.",
+   "category": "research",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/it-and-development/research/github-contributor-finder.md",
+   "url": "https://templatesgrokbot.com/bot/github-contributor-finder",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/lead-generation/github-project-contributor-finder-api-skill",
+   "source_license": "MIT"
+  },
+  {
    "slug": "github-issue-creator",
    "name": "Github Issue Creator",
    "tagline": "Transform messy bug input into clean, developer-ready GitHub issues.",
@@ -70953,6 +71117,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "google-image-data-extractor",
+   "name": "Google Image Data Extractor",
+   "tagline": "Pulls structured image metadata from Google Images by keyword, country, and language.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/marketing/research/google-image-data-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/google-image-data-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/search-research/google-image-api-skill",
+   "source_license": "MIT"
+  },
+  {
    "slug": "google-maps-lead-scraper",
    "name": "Google Maps Lead Scraper",
    "tagline": "Turn a lead request into a validated Google Maps crawl and help you work with the results.",
@@ -70968,6 +71148,23 @@
    "path": "jobs/sales/coding/google-maps-lead-scraper.md",
    "url": "https://templatesgrokbot.com/bot/google-maps-lead-scraper",
    "adapted_from": "https://github.com/gosom/google-maps-scraper/tree/main/skills/google-maps-scraper",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "google-news-monitor",
+   "name": "Google News Monitor",
+   "tagline": "Fetches structured Google News results for your keywords and time range.",
+   "category": "research",
+   "jobs": [
+    "pr-and-communications",
+    "marketing"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/pr-and-communications/research/google-news-monitor.md",
+   "url": "https://templatesgrokbot.com/bot/google-news-monitor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/search-research/google-news-api-skill",
    "source_license": "MIT"
   },
   {
@@ -78146,6 +78343,23 @@
    "url": "https://templatesgrokbot.com/bot/incremental-implementation",
    "adapted_from": "https://github.com/addyosmani/agent-skills/tree/main/skills/incremental-implementation",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "indeed-job-extractor",
+   "name": "Indeed Job Extractor",
+   "tagline": "Pulls structured job listings from Indeed by keyword, location, and country.",
+   "category": "research",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "research",
+    "productivity"
+   ],
+   "path": "jobs/human-resources/research/indeed-job-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/indeed-job-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/lead-generation/indeed-job-search",
+   "source_license": "MIT"
   },
   {
    "slug": "index-strategy-advisor",
@@ -85373,6 +85587,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "ketchup-video-briefing",
+   "name": "Ketchup Video Briefing",
+   "tagline": "Catch you up on what happened with a short subtitled video of slides.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-video",
+    "video-editing",
+    "text-to-video"
+   ],
+   "path": "jobs/it-and-development/generative-video/ketchup-video-briefing.md",
+   "url": "https://templatesgrokbot.com/bot/ketchup-video-briefing",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/ketchup-video",
+   "source_license": "MIT"
+  },
+  {
    "slug": "key-account-executive-check-in",
    "name": "Key Account Executive Check-in",
    "tagline": "Keeps every top account inside your contact limit with prepared briefs and tracked follow-ups.",
@@ -90326,6 +90558,23 @@
    "path": "jobs/marketing/social-media/linkedin-hook-analyzer.md",
    "url": "https://templatesgrokbot.com/bot/linkedin-hook-analyzer",
    "adapted_from": "https://github.com/sergebulaev/linkedin-skills/tree/main/.codex-marketplace/linkedin-skills/skills/linkedin-hook-extractor",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "linkedin-job-finder",
+   "name": "LinkedIn Job Finder",
+   "tagline": "Search LinkedIn jobs with filters and extract full job details for your job hunt.",
+   "category": "research",
+   "jobs": [
+    "human-resources"
+   ],
+   "topics": [
+    "productivity",
+    "research"
+   ],
+   "path": "jobs/human-resources/productivity/linkedin-job-finder.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-job-finder",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/lead-generation/linkedin-jobs-search",
    "source_license": "MIT"
   },
   {
@@ -98809,6 +99058,22 @@
    "url": "https://templatesgrokbot.com/bot/memory-health-dashboard"
   },
   {
+   "slug": "memory-keeper",
+   "name": "Memory Keeper",
+   "tagline": "Explicitly save important knowledge to memory with timestamp and context.",
+   "category": "operations",
+   "jobs": [
+    "management"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/management/knowledge-management/memory-keeper.md",
+   "url": "https://templatesgrokbot.com/bot/memory-keeper",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/self-improving-agent/skills/remember",
+   "source_license": "MIT"
+  },
+  {
    "slug": "memory-safety-patterns",
    "name": "Memory Safety Patterns",
    "tagline": "Guide memory-safe programming with RAII, ownership, and resource management patterns.",
@@ -99715,6 +99980,22 @@
    "url": "https://templatesgrokbot.com/bot/minimalism",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "minimalist-coder",
+   "name": "Minimalist Coder",
+   "tagline": "Writes the least code needed to solve a problem, avoiding over-engineering.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/minimalist-coder.md",
+   "url": "https://templatesgrokbot.com/bot/minimalist-coder",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/minimalist",
+   "source_license": "MIT"
   },
   {
    "slug": "minimalist-ui",
@@ -111852,6 +112133,22 @@
    "url": "https://templatesgrokbot.com/bot/passed-deal-revisit-tracker"
   },
   {
+   "slug": "passive-deal-screener",
+   "name": "Passive Deal Screener",
+   "tagline": "Screens private investment deals from a passive LP perspective, stress-tests returns, and flags risks.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/passive-deal-screener.md",
+   "url": "https://templatesgrokbot.com/bot/passive-deal-screener",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/finance/skills/passive-deal-screener",
+   "source_license": "MIT"
+  },
+  {
    "slug": "password-reset-flaw-hunter",
    "name": "Password Reset Flaw Hunter",
    "tagline": "Finds and proves password reset and account recovery authentication flaws.",
@@ -119422,6 +119719,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "pr-reviewability-preparer",
+   "name": "PR Reviewability Preparer",
+   "tagline": "Prepares pull requests for review by cleaning history, improving descriptions, and adding guidance.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/coding/pr-reviewability-preparer.md",
+   "url": "https://templatesgrokbot.com/bot/pr-reviewability-preparer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/make-pr-easy-to-review",
+   "source_license": "MIT"
+  },
+  {
    "slug": "pr-social-media-cycle-partner",
    "name": "PR Social Media Cycle Partner",
    "tagline": "Social media strategy partner for PR specialists—research, plan, create, track, and optimize content.",
@@ -122484,6 +122799,23 @@
    ],
    "path": "jobs/product-development/productivity/product-gap-escalation-tracker.md",
    "url": "https://templatesgrokbot.com/bot/product-gap-escalation-tracker"
+  },
+  {
+   "slug": "product-hunt-launch-extractor",
+   "name": "Product Hunt Launch Extractor",
+   "tagline": "Extracts Product Hunt launch data with maker profiles and website contact info.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/sales/data-analysis/product-hunt-launch-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/product-hunt-launch-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/lead-generation/producthunt-launches",
+   "source_license": "MIT"
   },
   {
    "slug": "product-idea-brainstormer",
@@ -126093,6 +126425,22 @@
    "path": "jobs/it-and-development/generative-ai-and-llm/pufferlib.md",
    "url": "https://templatesgrokbot.com/bot/pufferlib",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/pufferlib",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "pull-request-feedback-summarizer",
+   "name": "Pull Request Feedback Summarizer",
+   "tagline": "Summarizes pull request feedback into a prioritized action list.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/productivity/pull-request-feedback-summarizer.md",
+   "url": "https://templatesgrokbot.com/bot/pull-request-feedback-summarizer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/get-pr-comments",
    "source_license": "MIT"
   },
   {
@@ -147428,6 +147776,23 @@
    "url": "https://templatesgrokbot.com/bot/social-media-press-relations-assistant"
   },
   {
+   "slug": "social-media-profile-finder",
+   "name": "Social Media Profile Finder",
+   "tagline": "Finds social media profiles for people or brands across major platforms.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/marketing/social-media/social-media-profile-finder.md",
+   "url": "https://templatesgrokbot.com/bot/social-media-profile-finder",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/lead-generation/social-media-finder-skill",
+   "source_license": "MIT"
+  },
+  {
    "slug": "social-media-recruitment-planner",
    "name": "Social Media Recruitment Planner",
    "tagline": "Plans, runs, and tracks your social media recruiting from posts to hires.",
@@ -147674,6 +148039,24 @@
    ],
    "path": "jobs/marketing/social-media/social-profile-consistency-audit.md",
    "url": "https://templatesgrokbot.com/bot/social-profile-consistency-audit"
+  },
+  {
+   "slug": "social-profile-finder",
+   "name": "Social Profile Finder",
+   "tagline": "Finds social media profiles for a person or brand via Google search.",
+   "category": "research",
+   "jobs": [
+    "marketing",
+    "sales",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/marketing/research/social-profile-finder.md",
+   "url": "https://templatesgrokbot.com/bot/social-profile-finder",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/lead-generation/google-social-media-finder",
+   "source_license": "MIT"
   },
   {
    "slug": "social-proof-architect",
@@ -161261,6 +161644,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "text-analysis-transformer",
+   "name": "Text Analysis Transformer",
+   "tagline": "Analyzes text files for word and character statistics and applies basic transformations on demand.",
+   "category": "engineering",
+   "jobs": [
+    "writers"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/writers/data-analysis/text-analysis-transformer.md",
+   "url": "https://templatesgrokbot.com/bot/text-analysis-transformer",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/skills/skill-tester/assets/sample-skill",
+   "source_license": "MIT"
+  },
+  {
    "slug": "text-comparison-validator",
    "name": "Text Comparison Validator",
    "tagline": "Compares extracted text to a reference file and reports all discrepancies.",
@@ -164891,6 +165291,22 @@
    "url": "https://templatesgrokbot.com/bot/trust-calibrator",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "trustpilot-profile-lookup",
+   "name": "Trustpilot Profile Lookup",
+   "tagline": "Look up a company's Trustpilot profile from its domain.",
+   "category": "research",
+   "jobs": [
+    "pr-and-communications"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/pr-and-communications/research/trustpilot-profile-lookup.md",
+   "url": "https://templatesgrokbot.com/bot/trustpilot-profile-lookup",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/lead-generation/trustpilot-company-info",
+   "source_license": "MIT"
   },
   {
    "slug": "tryout-roster-evaluation",
@@ -171369,6 +171785,40 @@
    "url": "https://templatesgrokbot.com/bot/waiver-and-health-screening-renewal"
   },
   {
+   "slug": "walmart-keyword-search",
+   "name": "Walmart Keyword Search",
+   "tagline": "Extracts structured product listings from Walmart search results by keyword and page.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/walmart-keyword-search.md",
+   "url": "https://templatesgrokbot.com/bot/walmart-keyword-search",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/walmart-keyword-search",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "walmart-review-extractor",
+   "name": "Walmart Review Extractor",
+   "tagline": "Extracts paginated customer reviews from Walmart product pages.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/walmart-review-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/walmart-review-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/walmart-product-reviews",
+   "source_license": "MIT"
+  },
+  {
    "slug": "warehouse",
    "name": "Warehouse",
    "tagline": "Plan and review read-only warehouse analysis with explicit scope and validation checks. No schema guessing or write operations. Hand off admin, pipeli",
@@ -172676,6 +173126,22 @@
    ],
    "path": "jobs/it-and-development/data-analysis/website-data-visualization-assistant.md",
    "url": "https://templatesgrokbot.com/bot/website-data-visualization-assistant"
+  },
+  {
+   "slug": "website-deep-crawler",
+   "name": "Website Deep Crawler",
+   "tagline": "Deep-crawl websites into clean per-page text, markdown, and metadata.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/marketing/research/website-deep-crawler.md",
+   "url": "https://templatesgrokbot.com/bot/website-deep-crawler",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/search-research/webcrawler-deep-crawl",
+   "source_license": "MIT"
   },
   {
    "slug": "website-discovery-brief-gap",
@@ -175605,6 +176071,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "youtube-channel-contact-extractor",
+   "name": "YouTube Channel Contact Extractor",
+   "tagline": "Extracts a YouTube channel's business email and About metadata from a channel ID, handle, or URL.",
+   "category": "research",
+   "jobs": [
+    "sales"
+   ],
+   "topics": [
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/sales/social-media/youtube-channel-contact-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/youtube-channel-contact-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/lead-generation/youtube-channel-business-email",
+   "source_license": "MIT"
+  },
+  {
    "slug": "youtube-full",
    "name": "Youtube Full",
    "tagline": "Fetch YouTube transcripts, search videos, browse channels, and extract playlists via TranscriptAPI.",
@@ -175875,6 +176358,23 @@
    "url": "https://templatesgrokbot.com/bot/zero-downtime-deployment-planner",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/blue-green-deploy",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "zero-hallucination-coder",
+   "name": "Zero-Hallucination Coder",
+   "tagline": "A disciplined coding partner that grounds code in verified structure, avoiding hallucinated APIs and unnecessary code.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "generative-code"
+   ],
+   "path": "jobs/it-and-development/coding/zero-hallucination-coder.md",
+   "url": "https://templatesgrokbot.com/bot/zero-hallucination-coder",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/zero-hallucination-coder/skills/zero-hallucination-coder",
+   "source_license": "MIT"
   },
   {
    "slug": "zeroize-audit",

@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 169 Grok Bot templates, 82 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 171 Grok Bot templates, 84 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -29,6 +29,7 @@ Plan, prioritise and clear the recurring admin. 169 Grok Bot templates, 82 of th
 | [Calendly Automation](../../operations/productivity/calendly-automation.md) | Automate Calendly scheduling, event listing, invitee tracking, and organization admin via Rube MCP. |
 | [Capacity Workload Planner](../../management/productivity/capacity-workload-planner.md) | Turns your team's weekly hours into a capacity plan that flags over-allocation before it hits delivery. |
 | [Ceremony Effectiveness Tracker](ceremony-effectiveness-tracker.md) | Measures whether your team's ceremonies are actually useful and tests small fixes when they drift. |
+| [Chat Catch-Up](chat-catch-up.md) | Catch up on what changed in this chat and list every decision waiting on you. |
 | [Chieeeeefy](../../operations/productivity/chieeeeefy.md) | Manages calendar and email for a field engineer, converting timezones and protecting attention. (124 chars) No hype, no emoji. Rewritten: |
 | [Claude Win11 Speckit Update](claude-win11-speckit-update-skill.md) | Manage Windows 11 system settings and updates. |
 | [Coda Automation](../../operations/productivity/coda-automation.md) | Automate Coda docs, tables, formulas, permissions, and publishing via MCP. |
@@ -115,6 +116,7 @@ Plan, prioritise and clear the recurring admin. 169 Grok Bot templates, 82 of th
 | [Postmark Automation](../../marketing/productivity/postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |
 | [Project Status and Risk Reporter](../../management/productivity/project-status-and-risk-reporter.md) | Gathers real project progress and drafts an evidence-based weekly status and risk report for your approval. |
 | [Project Supervisor Orchestrator](../../operations/productivity/project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
+| [Pull Request Feedback Summarizer](pull-request-feedback-summarizer.md) | Summarizes pull request feedback into a prioritized action list. |
 | [QA Collaboration Workflow Assistant](qa-collaboration-workflow-assistant.md) | QA team collaboration and testing workflow assistant for QA managers. |
 | [QA Process Guide](qa-process-guide.md) | Guides IT project managers through quality assurance processes, from audits to test optimization. |
 | [QA Process Improvement Planner](qa-process-improvement-planner.md) | Optimize QA processes with AI-driven analysis, automation, and reporting. |

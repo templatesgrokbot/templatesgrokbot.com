@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 122 Grok Bot templates, 68 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 123 Grok Bot templates, 69 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -41,6 +41,7 @@ Find sources, compare evidence and summarise what is known. 122 Grok Bot templat
 | [Geniml](../../science-and-research/research/geniml.md) | Trains machine learning models on genomic interval data from BED files for region and cell embeddings. |
 | [Gepetto](../../product-development/research/gepetto.md) | Creates detailed, sectionized implementation plans through research, stakeholder interviews, and multi-LLM review. |
 | [Get Available Resources](get-available-resources.md) | Detects system resources and recommends optimal computational strategies for scientific tasks. |
+| [GitHub Contributor Finder](github-contributor-finder.md) | Find GitHub projects and contributor contact details by keywords, stars, and update date. |
 | [Global Chat Agent Discovery](global-chat-agent-discovery.md) | Search 18K+ MCP servers and AI agents across 6+ registries from one directory. |
 | [Hardware Selection Assistant](hardware-selection-assistant.md) | Hardware selection assistant for IT support specialists, from research to recommendations. |
 | [Hasdata Cli](hasdata-cli.md) | CLI tool for real-time web data: search, scrape, ecommerce, travel, local business. |

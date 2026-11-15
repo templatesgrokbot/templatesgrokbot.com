@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 495 Grok Bot templates, 347 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 496 Grok Bot templates, 348 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -357,6 +357,7 @@ Clean, query, chart and explain data. 495 Grok Bot templates, 347 of them filed 
 | [Owner Monthly Report Builder](owner-monthly-report-builder.md) | Builds monthly owner reports that tie to the bank with explained variances. |
 | [Pandas Data Wrangler](../../science-and-research/data-analysis/pandas-data-wrangler.md) | Performs efficient pandas DataFrame operations for data analysis, manipulation, and transformation. |
 | [Party Ledger Reconciliation](party-ledger-reconciliation.md) | Proves customer and supplier balances against statements and records the adjustments that clear differences. |
+| [Passive Deal Screener](passive-deal-screener.md) | Screens private investment deals from a passive LP perspective, stress-tests returns, and flags risks. |
 | [Patent Valuation Analyst](../../legal/data-analysis/patent-valuation-analyst.md) | Assists patent agents with prior art, market, portfolio, and valuation analyses. |
 | [Pay Equity Benchmarker for Finance Managers](pay-equity-benchmarker-for-finance-managers.md) | Analyzes employee compensation data to benchmark, optimize, and ensure compliance. |
 | [Payer Denial Trend Analyst](../../healthcare/data-analysis/payer-denial-trend-analyst.md) | Finds why denials repeat, proposes fixes, and proves whether they worked. |

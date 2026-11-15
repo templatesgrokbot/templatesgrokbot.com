@@ -1,6 +1,6 @@
 # Grok Bot templates for Operations
 
-Processes, logistics and the systems that run a business. **2,127 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Processes, logistics and the systems that run a business. **2,128 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | Kind of work | Templates |
 |---|---:|
 | [Data Analysis](data-analysis/README.md) | 644 |
-| [Productivity](productivity/README.md) | 537 |
+| [Productivity](productivity/README.md) | 538 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 241 |
 | [Security & Compliance](security-and-compliance/README.md) | 202 |
 | [Research](research/README.md) | 93 |
@@ -41,8 +41,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | Template | What it does |
 |---|---|
 | [Power Bi Performance Expert](../it-and-development/data-analysis/power-bi-performance-expert.md) | Optimizes Power BI model, report, and query performance using Microsoft best practices. |
-| [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
 | [Podcast Content Analyzer](data-analysis/podcast-content-analyzer.md) | Analyzes podcast transcripts to find viral moments, chapters, keywords, and engagement scores. |
+| [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
 | [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Monte Carlo Performance Diagnosis](../it-and-development/data-analysis/monte-carlo-performance-diagnosis.md) | Diagnoses pipeline performance issues using Monte Carlo observability data. |
@@ -60,11 +60,11 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Markitdown](productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
 | [Meal Prep](productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Obsidian Clipper Template Creator](productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
-| [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Diary](productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
+| [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Mac Storage Cleaner](../it-and-development/productivity/mac-storage-cleaner.md) | Safely reclaim disk space on a Mac by measuring first, deleting only pure caches, and making everything else reversible. |
 
-[All 537 Productivity templates →](productivity/README.md)
+[All 538 Productivity templates →](productivity/README.md)
 
 ## Cloud & DevOps
 
@@ -72,8 +72,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 |---|---|
 | [Zapier Make Patterns](../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Kubernetes Architect](../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
-| [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
+| [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Monitoring Specialist](../it-and-development/cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
 | [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
@@ -107,7 +107,7 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Research Orchestrator](../science-and-research/research/research-orchestrator.md) | Coordinates multi-phase research projects from query clarification through final report generation. |
 | [Grant Finder](../science-and-research/research/grant-finder.md) | Finds grants you are actually eligible for and tracks every deadline backwards from submission. |
 | [Inventory Technology Integration Guide](research/inventory-technology-integration-guide.md) | Guides inventory specialists through technology integration for inventory control. |
-| [IP Management Assistant](../legal/research/ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
+| [Deepapi](research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
 
 [All 93 Research templates →](research/README.md)
 
@@ -121,8 +121,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Returns Reverse Logistics](support-and-community/returns-reverse-logistics.md) | Manage the full product return lifecycle with inspection, disposition, and fraud detection. |
 | [Insurance Dispute Resolution Assistant](../customer-support/support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
 | [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
-| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 | [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
+| [Customer Success Response Manager](../customer-support/support-and-community/customer-success-response-manager.md) | Handles customer conversations, support, and retention for Customer Success Managers. |
 
 [All 67 Support & Community templates →](support-and-community/README.md)
 
@@ -162,12 +162,12 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 |---|---|
 | [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
 | [Territory Planning Optimizer](../sales/sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
-| [Vendor Negotiation Assistant](sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
 | [CRM Workflow Automation](../sales/sales-and-negotiation/crm-workflow-automation.md) | Automates CRM lead capture, deal-stage tasks, and multi-CRM contact sync with approval before anything sends. |
+| [Vendor Negotiation Assistant](sales-and-negotiation/vendor-negotiation-assistant.md) | Manages vendor negotiations from research to renewal with data-driven insights and approvals. |
 | [Supplier Negotiation Assistant](sales-and-negotiation/supplier-negotiation-assistant.md) | Negotiation support for Heads of Operations: supplier research, RFP, bids, contracts, pricing, terms, risk, and relationship management. |
 | [Vendor Management Assistant](sales-and-negotiation/vendor-management-assistant.md) | Manages vendor evaluation, selection, negotiation, performance, risk, and development for supply chain analysts. |
-| [Supplier Relationship Manager](../management/sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
 | [Vendor Relationship Management Assistant](sales-and-negotiation/vendor-relationship-management-assistant.md) | Manages vendor relationships from performance tracking to contract and risk oversight. |
+| [Supplier Relationship Manager](../management/sales-and-negotiation/supplier-relationship-manager.md) | Manages supplier relationships from evaluation to recognition for purchasing managers. |
 
 [All 44 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
@@ -211,8 +211,8 @@ Processes, logistics and the systems that run a business. **2,127 ready-made Gro
 | [Site Architecture](../marketing/marketing-and-growth/site-architecture.md) | Plan and restructure website hierarchy, navigation, URL patterns, and internal linking. |
 | [Seo Drift](../marketing/marketing-and-growth/seo-drift.md) | Monitor a site's SEO state over time and surface ranking, indexation, metadata, canonical, robots, and schema regressions. |
 | [E-commerce Launch Strategist](../management/marketing-and-growth/e-commerce-launch-strategist.md) | Plans and executes e-commerce product launches with data-driven strategy and content. |
-| [Competitive Price Monitoring Assistant](marketing-and-growth/competitive-price-monitoring-assistant.md) | Checks competitor prices daily and suggests margin-safe repricing for your key products. |
 | [Klaviyo Automation](../marketing/marketing-and-growth/klaviyo-automation.md) | Automate Klaviyo email/SMS campaign management, inspection, and monitoring. |
+| [Competitive Price Monitoring Assistant](marketing-and-growth/competitive-price-monitoring-assistant.md) | Checks competitor prices daily and suggests margin-safe repricing for your key products. |
 
 [All 28 Marketing & Growth templates →](marketing-and-growth/README.md)
 

@@ -55,7 +55,7 @@ Public services, policy and compliance. **778 ready-made Grok Bot templates** fo
 | [Vendor Proposal Comparator](../operations/data-analysis/vendor-proposal-comparator.md) | Turns vendor quotes and SOWs into a normalized comparison matrix with TCO and negotiation prep. |
 | [Continuous Improvement Analyst](../operations/data-analysis/continuous-improvement-analyst.md) | Turns operational data and feedback into improvement actions and tracks their impact. |
 | [Data Insights Strategist](../executives-and-strategy/data-analysis/data-insights-strategist.md) | Turns raw data into forecasts, segments, and stories for executive decisions. |
-| [Transportation Risk Manager](data-analysis/transportation-risk-manager.md) | Identifies, mitigates, and monitors transportation risks with data-driven insights and plans. |
+| [Pay Equity Analysis Assistant](../human-resources/data-analysis/pay-equity-analysis-assistant.md) | Guides pay equity analyses from data collection to monitoring and reporting. |
 
 [All 177 Data Analysis templates →](data-analysis/README.md)
 
@@ -70,7 +70,7 @@ Public services, policy and compliance. **778 ready-made Grok Bot templates** fo
 | [Strategic Goal Setting Assistant](../executives-and-strategy/productivity/strategic-goal-setting-assistant.md) | Turns your vision into aligned, measurable goals with plans, KPIs, and reviews. |
 | [Strategic Planning Guide](../executives-and-strategy/productivity/strategic-planning-guide.md) | Guides executive directors through the full strategic planning cycle, from vision to review. |
 | [Strategic IT Planning Assistant](../it-and-development/productivity/strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |
-| [IT Delivery Planner](../it-and-development/productivity/it-delivery-planner.md) | Plan, track, and close IT projects with structured AI assistance. |
+| [Hiring Scorecard Builder](../human-resources/productivity/hiring-scorecard-builder.md) | Builds structured, bias-reducing hiring scorecards for any role. |
 
 [All 131 Productivity templates →](productivity/README.md)
 
@@ -100,7 +100,7 @@ Public services, policy and compliance. **778 ready-made Grok Bot templates** fo
 | [Technical Proposal Assistant](../writers/writing-and-content/technical-proposal-assistant.md) | Drafts, refines, and manages technical proposals from research to archive. |
 | [Process Documentation Assistant](../operations/writing-and-content/process-documentation-assistant.md) | Turns your processes into clear manuals, maps, and training materials. |
 | [Legislative Drafting Assistant](writing-and-content/legislative-drafting-assistant.md) | Drafts, reviews, and analyzes legislation for policy makers. |
-| [IT Policy Development Assistant](../it-and-development/writing-and-content/it-policy-development-assistant.md) | Develops, reviews, and maintains IT policies from research to implementation. |
+| [Systems Documentation Assistant](../it-and-development/writing-and-content/systems-documentation-assistant.md) | Turns system admin notes into clear, structured documentation and reports. |
 
 [All 50 Writing & Content templates →](writing-and-content/README.md)
 

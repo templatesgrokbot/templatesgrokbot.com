@@ -41,9 +41,9 @@ Teachers, trainers and students. **457 ready-made Grok Bot templates** for this 
 | [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Environmental Education Content Creator](../science-and-research/teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
 | [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
-| [Question Generation Assistant](teaching-and-tutoring/question-generation-assistant.md) | Generates diverse questions for quizzes, exams, and classroom activities. |
 | [Warren Buffett](teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
-| [Elementary Fun Fact Activity Maker](teaching-and-tutoring/elementary-fun-fact-activity-maker.md) | Turns fun facts into ready-to-use classroom activities for elementary teachers. |
+| [Question Generation Assistant](teaching-and-tutoring/question-generation-assistant.md) | Generates diverse questions for quizzes, exams, and classroom activities. |
+| [Digital Teaching Tools Assistant](teaching-and-tutoring/digital-teaching-tools-assistant.md) | Helps primary teachers plan, run, and assess digital lessons with tools and resources. |
 
 [All 172 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
@@ -82,8 +82,8 @@ Teachers, trainers and students. **457 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Crossframe Critical](../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
-| [Training Module Developer](../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
 | [Safety Training Program Developer](../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
+| [Training Module Developer](../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
 | [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
 | [Parent Communication Drafter](writing-and-content/parent-communication-drafter.md) | Drafts all parent communication for elementary teachers, from welcome letters to end-of-year reflections. |
 | [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |

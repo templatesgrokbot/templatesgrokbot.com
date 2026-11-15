@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **909 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **910 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -20,7 +20,7 @@ Scientists, analysts and academic researchers. **909 ready-made Grok Bot templat
 | [Writing & Content](writing-and-content/README.md) | 23 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 15 |
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 13 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 14 |
 | [Design](design/README.md) | 7 |
 | [Office Tools](office-tools/README.md) | 5 |
 | [Support & Community](support-and-community/README.md) | 3 |
@@ -43,7 +43,7 @@ Scientists, analysts and academic researchers. **909 ready-made Grok Bot templat
 | [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
 | [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
 | [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
-| [Polars](../it-and-development/data-analysis/polars.md) | High-performance DataFrame operations using Polars with lazy evaluation and parallel execution. |
+| [Rdkit](data-analysis/rdkit.md) | Performs molecular analysis and manipulation for cheminformatics research. |
 
 [All 363 Data Analysis templates →](data-analysis/README.md)
 
@@ -73,7 +73,7 @@ Scientists, analysts and academic researchers. **909 ready-made Grok Bot templat
 | [Emerging Techniques Model Pruning](generative-ai-and-llm/emerging-techniques-model-pruning.md) | Prunes LLMs to reduce size and accelerate inference without retraining. |
 | [Huggingface Local Models](../it-and-development/generative-ai-and-llm/huggingface-local-models.md) | Select and run GGUF models locally with llama.cpp on CPU, Metal, CUDA, or ROCm. |
 | [Post Training Verl](../it-and-development/generative-ai-and-llm/post-training-verl.md) | Guides reinforcement learning post-training of LLMs using the verl library. |
-| [Langfuse](../it-and-development/generative-ai-and-llm/langfuse.md) | Instrument LLM apps with Langfuse tracing, evaluation, and prompt management. |
+| [Nlp Engineer](../it-and-development/generative-ai-and-llm/nlp-engineer.md) | Builds production NLP pipelines for classification, extraction, translation, and sentiment analysis. |
 
 [All 73 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
@@ -180,7 +180,7 @@ Scientists, analysts and academic researchers. **909 ready-made Grok Bot templat
 | [Deep Learning Study Companion](teaching-and-tutoring/deep-learning-study-companion.md) | Study companion and working knowledge base for the Deep Learning textbook, with current advice and tools. |
 | [Yann LeCun Debate](../education/teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
 
-[All 13 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+[All 14 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Design
 

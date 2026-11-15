@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **317 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **320 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,8 +15,8 @@ Press, internal comms and reputation. **317 ready-made Grok Bot templates** for 
 | [Marketing & Growth](marketing-and-growth/README.md) | 68 |
 | [Social Media](social-media/README.md) | 40 |
 | [Productivity](productivity/README.md) | 33 |
+| [Research](research/README.md) | 31 |
 | [Data Analysis](data-analysis/README.md) | 28 |
-| [Research](research/README.md) | 28 |
 | [Design](design/README.md) | 9 |
 | [Support & Community](support-and-community/README.md) | 8 |
 | [Knowledge Management](knowledge-management/README.md) | 7 |
@@ -265,6 +265,42 @@ Press, internal comms and reputation. **317 ready-made Grok Bot templates** for 
 | [Stakeholder Map Planner](../management/productivity/stakeholder-map-planner.md) | Builds a power/interest stakeholder map and a tailored communication plan for your initiative. |
 | [Town Hall Commitment Tracker](productivity/town-hall-commitment-tracker.md) | Turns town hall promises into owned, dated commitments and tracks the published answers. |
 
+## Research
+
+| Template | What it does |
+|---|---|
+| [Brand Mention Authority Scanner](../marketing/research/brand-mention-authority-scanner.md) | Scans where your brand is mentioned across AI-indexed platforms and scores its authority. |
+| [Brand Perception Study Assistant](../management/research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
+| [Competitive Ads Extractor](../marketing/research/competitive-ads-extractor.md) | Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns. |
+| [Competitive Analysis Analyst](research/competitive-analysis-analyst.md) | Turns competitor data into strategic insights to outmaneuver rivals. |
+| [Competitive Analyst](../marketing/research/competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
+| [Contact Hunter](../sales/research/contact-hunter.md) | Finds and verifies public contact details for people and companies. |
+| [Crisis Information Verification](research/crisis-information-verification.md) | Separates confirmed facts from claims during an incident and drafts statements only from approved facts. |
+| [Daily News Report](../operations/research/daily-news-report.md) | Scrape preset URLs, filter high-quality tech news, and output a daily Markdown report. |
+| [Discover Brand Materials](../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
+| [Editorial Fact-Check Assistant](research/editorial-fact-check-assistant.md) | Verifies facts, sources, and claims in your content before publication. |
+| [Fact Checker](../writers/research/fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
+| [Google News Monitor](research/google-news-monitor.md) | Fetches structured Google News results for your keywords and time range. |
+| [Guest Outreach Coordinator](../marketing/research/guest-outreach-coordinator.md) | Identifies, contacts, and manages podcast guests for tech shows. |
+| [Last30days](../marketing/research/last30days.md) | Research any topic from the last 30 days on Reddit, X, and the web. |
+| [Market Scout](../marketing/research/market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
+| [Media Correction Evidence Assistant](research/media-correction-evidence-assistant.md) | Checks flagged coverage for provable factual errors and drafts narrow, evidence-backed correction requests. |
+| [Media List Builder](research/media-list-builder.md) | Builds and maintains targeted media lists for PR outreach campaigns. |
+| [Past Statements Consistency Checker](research/past-statements-consistency-checker.md) | Checks every draft speech claim against the leader's past record and flags contradictions. |
+| [Podcast Trend Scout](../marketing/research/podcast-trend-scout.md) | Scouts 3-5 emerging tech topics weekly for The Build podcast episodes. |
+| [Press Inquiry Coordination](research/press-inquiry-coordination.md) | Turns journalist questions into source-linked draft responses and routes the rest to owners before deadline. |
+| [Press Kit Freshness Audit](research/press-kit-freshness-audit.md) | Verifies every item in your press kit against current sources before it is published. |
+| [Public Statement Fact Check](research/public-statement-fact-check.md) | Checks every factual claim in a public statement against official sources before it goes out. |
+| [Rumor and Misinformation Manager](research/rumor-and-misinformation-manager.md) | Tracks, debunks, and counters rumors and misinformation for crisis communications teams. |
+| [Search Reputation Watch](research/search-reputation-watch.md) | Watches your brand's weekly search results and drafts responses to harmful or outdated pages. |
+| [Search Specialist](../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
+| [Social Profile Finder](../marketing/research/social-profile-finder.md) | Finds social media profiles for a person or brand via Google search. |
+| [Speaking Request Intake Briefing](research/speaking-request-intake-briefing.md) | Turns a speaking invitation into a complete, verified brief before any drafting starts. |
+| [Spokesperson Brief Evidence Checker](research/spokesperson-brief-evidence-checker.md) | Matches every talking point in a spokesperson brief to current, approved evidence before the interview. |
+| [Stock Photo Finder](../creatives/research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
+| [Town Hall Question Triage](research/town-hall-question-triage.md) | Turns hundreds of town hall questions into themed, sourced drafts for leader approval. |
+| [Trustpilot Profile Lookup](research/trustpilot-profile-lookup.md) | Look up a company's Trustpilot profile from its domain. |
+
 ## Data Analysis
 
 | Template | What it does |
@@ -297,39 +333,6 @@ Press, internal comms and reputation. **317 ready-made Grok Bot templates** for 
 | [Social Media Insights Analyst](../it-and-development/data-analysis/social-media-insights-analyst.md) | Analyzes social media data to deliver insights, trends, and optimization strategies for business analysts. |
 | [Social Pulse Insight Scout](../science-and-research/data-analysis/social-pulse-insight-scout.md) | Analyzes social media data to reveal trends, sentiment, and influencers for market research. |
 | [Trend Analysis Content Assistant](../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
-
-## Research
-
-| Template | What it does |
-|---|---|
-| [Brand Mention Authority Scanner](../marketing/research/brand-mention-authority-scanner.md) | Scans where your brand is mentioned across AI-indexed platforms and scores its authority. |
-| [Brand Perception Study Assistant](../management/research/brand-perception-study-assistant.md) | Turns customer feedback into brand perception insights and reports for market research managers. |
-| [Competitive Ads Extractor](../marketing/research/competitive-ads-extractor.md) | Extracts competitor ads from ad libraries and analyzes their messaging, creative, and patterns. |
-| [Competitive Analysis Analyst](research/competitive-analysis-analyst.md) | Turns competitor data into strategic insights to outmaneuver rivals. |
-| [Competitive Analyst](../marketing/research/competitive-analyst.md) | Analyzes competitors and benchmarks market positioning to guide strategic decisions. |
-| [Contact Hunter](../sales/research/contact-hunter.md) | Finds and verifies public contact details for people and companies. |
-| [Crisis Information Verification](research/crisis-information-verification.md) | Separates confirmed facts from claims during an incident and drafts statements only from approved facts. |
-| [Daily News Report](../operations/research/daily-news-report.md) | Scrape preset URLs, filter high-quality tech news, and output a daily Markdown report. |
-| [Discover Brand Materials](../marketing/research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
-| [Editorial Fact-Check Assistant](research/editorial-fact-check-assistant.md) | Verifies facts, sources, and claims in your content before publication. |
-| [Fact Checker](../writers/research/fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
-| [Guest Outreach Coordinator](../marketing/research/guest-outreach-coordinator.md) | Identifies, contacts, and manages podcast guests for tech shows. |
-| [Last30days](../marketing/research/last30days.md) | Research any topic from the last 30 days on Reddit, X, and the web. |
-| [Market Scout](../marketing/research/market-scout.md) | Watches a named set of competitors and reports only what actually changed since last week. |
-| [Media Correction Evidence Assistant](research/media-correction-evidence-assistant.md) | Checks flagged coverage for provable factual errors and drafts narrow, evidence-backed correction requests. |
-| [Media List Builder](research/media-list-builder.md) | Builds and maintains targeted media lists for PR outreach campaigns. |
-| [Past Statements Consistency Checker](research/past-statements-consistency-checker.md) | Checks every draft speech claim against the leader's past record and flags contradictions. |
-| [Podcast Trend Scout](../marketing/research/podcast-trend-scout.md) | Scouts 3-5 emerging tech topics weekly for The Build podcast episodes. |
-| [Press Inquiry Coordination](research/press-inquiry-coordination.md) | Turns journalist questions into source-linked draft responses and routes the rest to owners before deadline. |
-| [Press Kit Freshness Audit](research/press-kit-freshness-audit.md) | Verifies every item in your press kit against current sources before it is published. |
-| [Public Statement Fact Check](research/public-statement-fact-check.md) | Checks every factual claim in a public statement against official sources before it goes out. |
-| [Rumor and Misinformation Manager](research/rumor-and-misinformation-manager.md) | Tracks, debunks, and counters rumors and misinformation for crisis communications teams. |
-| [Search Reputation Watch](research/search-reputation-watch.md) | Watches your brand's weekly search results and drafts responses to harmful or outdated pages. |
-| [Search Specialist](../science-and-research/research/search-specialist.md) | Conducts deep web research with multi-source verification and structured reporting. |
-| [Speaking Request Intake Briefing](research/speaking-request-intake-briefing.md) | Turns a speaking invitation into a complete, verified brief before any drafting starts. |
-| [Spokesperson Brief Evidence Checker](research/spokesperson-brief-evidence-checker.md) | Matches every talking point in a spokesperson brief to current, approved evidence before the interview. |
-| [Stock Photo Finder](../creatives/research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
-| [Town Hall Question Triage](research/town-hall-question-triage.md) | Turns hundreds of town hall questions into themed, sourced drafts for leader approval. |
 
 ## Design
 

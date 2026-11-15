@@ -1,6 +1,6 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 98 Grok Bot templates, 44 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 102 Grok Bot templates, 47 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -47,6 +47,8 @@ Find sources, compare evidence and summarise what is known. 98 Grok Bot template
 | [Fact Check X Complete](../../science-and-research/research/fact-check-x-complete.md) | Compare AI answer claims, verify citations against primary sources, and produce an evidence-linked fact-check report. |
 | [Fact Checker](../../writers/research/fact-checker.md) | Verifies claims and assesses source credibility across all content types. |
 | [Gemini Deep Research](../../science-and-research/research/gemini-deep-research.md) | Autonomous multi-step research with cited reports via Google Gemini. |
+| [Google Image Data Extractor](google-image-data-extractor.md) | Pulls structured image metadata from Google Images by keyword, country, and language. |
+| [Google News Monitor](../../pr-and-communications/research/google-news-monitor.md) | Fetches structured Google News results for your keywords and time range. |
 | [Guest Outreach Coordinator](guest-outreach-coordinator.md) | Identifies, contacts, and manages podcast guests for tech shows. |
 | [Hotel Competitor Intelligence Assistant](../../hospitality-and-events/research/hotel-competitor-intelligence-assistant.md) | Tracks competitor pricing, marketing, reviews, and performance to sharpen your hotel's strategy. |
 | [Indexing Issue Auditor](../../it-and-development/research/indexing-issue-auditor.md) | Scan and fix crawl, indexing, and site architecture issues. |
@@ -92,6 +94,7 @@ Find sources, compare evidence and summarise what is known. 98 Grok Bot template
 | [Social Evidence Researcher](social-evidence-researcher.md) | Researches public Instagram, TikTok and LinkedIn posts and returns source-linked evidence reports. |
 | [Social Listening Trend Brief](social-listening-trend-brief.md) | Turns weekly listening mentions into a short, verified trend brief for a research manager to approve. |
 | [Social Media Market Research Analyst](../../sales/research/social-media-market-research-analyst.md) | Turns social media data into market research insights and strategy for sales and marketing teams. |
+| [Social Profile Finder](social-profile-finder.md) | Finds social media profiles for a person or brand via Google search. |
 | [Startup Business Analyst Market Opportunity](../../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
 | [Stock Photo Finder](../../creatives/research/stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 | [Survey Design and Analysis Assistant](../../management/research/survey-design-and-analysis-assistant.md) | Designs, distributes, analyzes, and reports surveys for market research managers. |
@@ -104,5 +107,6 @@ Find sources, compare evidence and summarise what is known. 98 Grok Bot template
 | [Ux Researcher](../../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
 | [Ux Researcher Designer](../../product-development/research/ux-researcher-designer.md) | Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships. |
 | [Web Media Getter](../../creatives/research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
+| [Website Deep Crawler](website-deep-crawler.md) | Deep-crawl websites into clean per-page text, markdown, and metadata. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

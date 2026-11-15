@@ -1,6 +1,6 @@
 # Productivity templates for Operations
 
-Plan, prioritise and clear the recurring admin. 537 Grok Bot templates, 258 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 538 Grok Bot templates, 259 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,6 +26,7 @@ Plan, prioritise and clear the recurring admin. 537 Grok Bot templates, 258 of t
 | [Asana Automation](asana-automation.md) | Automate Asana tasks, projects, sections, teams, and workspaces via Rube MCP. |
 | [Atlassian Requirements to Jira](../../product-development/productivity/atlassian-requirements-to-jira.md) | Parse requirements documents and create Jira epics and user stories with duplicate detection and approval workflow. |
 | [Attendee Accessibility Request Coordinator](../../hospitality-and-events/productivity/attendee-accessibility-request-coordinator.md) | Turns attendee accessibility, dietary and language requests into confirmed answers before the event. |
+| [Auditable Playbook Designer](auditable-playbook-designer.md) | Designs an auditable playbook for complex tasks with no existing procedure. |
 | [Automation Opportunity Finder](../../management/productivity/automation-opportunity-finder.md) | Finds, plans, and tracks automation opportunities across your projects and operations. |
 | [Backlog Aging Planner](backlog-aging-planner.md) | Ages open production orders, finds each cause, and gets every old order an owner and a next step. |
 | [Backward Prep Timeline Planner](../../hospitality-and-events/productivity/backward-prep-timeline-planner.md) | Builds a conflict-free kitchen prep timeline backward from service, ready for chef approval. |

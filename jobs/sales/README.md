@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **579 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **583 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,13 +12,13 @@ Prospecting, pipeline and closing. **579 ready-made Grok Bot templates** for thi
 | Kind of work | Templates |
 |---|---:|
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 209 |
-| [Data Analysis](data-analysis/README.md) | 116 |
+| [Data Analysis](data-analysis/README.md) | 117 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 108 |
-| [Research](research/README.md) | 41 |
+| [Research](research/README.md) | 43 |
 | [Productivity](productivity/README.md) | 26 |
 | [Writing & Content](writing-and-content/README.md) | 19 |
 | [Security & Compliance](security-and-compliance/README.md) | 13 |
-| [Social Media](social-media/README.md) | 9 |
+| [Social Media](social-media/README.md) | 10 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
 | [Support & Community](support-and-community/README.md) | 7 |
 | [Office Tools](office-tools/README.md) | 6 |
@@ -58,7 +58,7 @@ Prospecting, pipeline and closing. **579 ready-made Grok Bot templates** for thi
 | [E-commerce Pricing Optimizer](../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
 | [Product Performance Review Assistant](data-analysis/product-performance-review-assistant.md) | Analyzes product performance data and delivers actionable insights for CSOs. |
 
-[All 116 Data Analysis templates →](data-analysis/README.md)
+[All 117 Data Analysis templates →](data-analysis/README.md)
 
 ## Marketing & Growth
 
@@ -66,8 +66,8 @@ Prospecting, pipeline and closing. **579 ready-made Grok Bot templates** for thi
 |---|---|
 | [Copywriting Psychologist](../marketing/marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
 | [Seo Specialist](../marketing/marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
-| [Page Cro](../marketing/marketing-and-growth/page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Ad Creative](../marketing/marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
+| [Page Cro](../marketing/marketing-and-growth/page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Cro](../marketing/marketing-and-growth/cro.md) | Analyze marketing pages and forms to improve conversion rates with actionable recommendations. |
 | [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Pitch Psychologist](../marketing/marketing-and-growth/pitch-psychologist.md) | Structure sales pitches using psychological sequencing to build desire before solution. |
@@ -82,13 +82,13 @@ Prospecting, pipeline and closing. **579 ready-made Grok Bot templates** for thi
 | [Crypto Bd Agent](research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Salary Negotiation Prep](../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
-| [Persona Workshop Facilitator](../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Deepapi](../operations/research/deepapi.md) | Scrape, research, and email via DeepAPI with explicit credentials and approval. |
+| [Persona Workshop Facilitator](../marketing/research/persona-workshop-facilitator.md) | Derives evidence-based B2B personas from CRM notes, interviews, and research data. |
 | [Apify Market Research](../marketing/research/apify-market-research.md) | Extract and analyze market data from maps, social, travel, and review platforms via Apify. |
 | [Travel Planner](../operations/research/travel-planner.md) | A travel planning assistant that generates day-by-day itineraries, three budget tiers, and real-time transport and accommodation suggestions. |
 | [Technology Adoption Advisor](research/technology-adoption-advisor.md) | Guides CSOs through technology evaluation and adoption, from research to roadmap. |
 
-[All 41 Research templates →](research/README.md)
+[All 43 Research templates →](research/README.md)
 
 ## Productivity
 
@@ -148,7 +148,7 @@ Prospecting, pipeline and closing. **579 ready-made Grok Bot templates** for thi
 | [Social Media Management Assistant](social-media/social-media-management-assistant.md) | Plans, creates, and manages social media content and engagement for digital marketing managers. |
 | [Brand Reputation Sentinel](social-media/brand-reputation-sentinel.md) | Monitors and manages your brand's online reputation across platforms. |
 
-[All 9 Social Media templates →](social-media/README.md)
+[All 10 Social Media templates →](social-media/README.md)
 
 ## Teaching & Tutoring
 

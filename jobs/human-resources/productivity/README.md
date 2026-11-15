@@ -1,6 +1,6 @@
 # Productivity templates for Human Resources
 
-Plan, prioritise and clear the recurring admin. 168 Grok Bot templates, 141 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 169 Grok Bot templates, 142 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -93,6 +93,7 @@ Plan, prioritise and clear the recurring admin. 168 Grok Bot templates, 141 of t
 | [Leave of Absence Coordinator](leave-of-absence-coordinator.md) | Runs each employee leave from request to return, tracking forms, pay and coverage in one case view. |
 | [Leave Premium Tracker](leave-premium-tracker.md) | Tracks leave premiums, sends payment instructions, and escalates before grace periods end. |
 | [Leave Register Builder](leave-register-builder.md) | Turns your leave process into a clean register with approvals, balances and handover. |
+| [LinkedIn Job Finder](linkedin-job-finder.md) | Search LinkedIn jobs with filters and extract full job details for your job hunt. |
 | [LMS Management Assistant](lms-management-assistant.md) | Manages and optimizes your LMS, from setup to analytics, with clear guidance and approvals. |
 | [Manager Coaching Follow-up](manager-coaching-follow-up.md) | Tracks whether coaching actions were completed and whether the original team issue returns. |
 | [Manager Reinforcement Nudge](manager-reinforcement-nudge.md) | Builds and runs a four-week post-workshop follow-up plan for each manager, with trainer approval on every nudge. |

@@ -1,6 +1,6 @@
 # Data Analysis templates for Sales
 
-Clean, query, chart and explain data. 116 Grok Bot templates, 92 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 117 Grok Bot templates, 93 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -77,6 +77,7 @@ Clean, query, chart and explain data. 116 Grok Bot templates, 92 of them filed i
 | [Prescriber Trend Weekly Review](prescriber-trend-weekly-review.md) | Flags the prescriber changes that matter each week and drafts call objectives for your approval. |
 | [Price Change Impact Modeler](price-change-impact-modeler.md) | Models a proposed price change across renewals and pipeline, then drafts the rollout plan for your approval. |
 | [Pricing Data Optimizer](pricing-data-optimizer.md) | Analyzes pricing data to optimize strategies for profitability and competitiveness. |
+| [Product Hunt Launch Extractor](product-hunt-launch-extractor.md) | Extracts Product Hunt launch data with maker profiles and website contact info. |
 | [Product Performance Insights Assistant](product-performance-insights-assistant.md) | Analyzes product performance data and delivers actionable sales insights for global heads of sales. |
 | [Product Performance Review Assistant](product-performance-review-assistant.md) | Analyzes product performance data and delivers actionable insights for CSOs. |
 | [Quarterly Sales Forecaster](quarterly-sales-forecaster.md) | Turns your sales data into forecasts, targets, and scenario plans for the quarter ahead. |

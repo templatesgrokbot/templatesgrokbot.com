@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **381 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **382 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,7 +14,7 @@ Authors, copywriters, editors and journalists. **381 ready-made Grok Bot templat
 | [Writing & Content](writing-and-content/README.md) | 195 |
 | [Research](research/README.md) | 54 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 34 |
-| [Data Analysis](data-analysis/README.md) | 12 |
+| [Data Analysis](data-analysis/README.md) | 13 |
 | [Knowledge Management](knowledge-management/README.md) | 11 |
 | [Productivity](productivity/README.md) | 11 |
 | [Social Media](social-media/README.md) | 10 |
@@ -348,6 +348,7 @@ Authors, copywriters, editors and journalists. **381 ready-made Grok Bot templat
 | [Long-Form Web Novel Trend Scanner](data-analysis/long-form-web-novel-trend-scanner.md) | 分析起点、番茄、晋江等平台排行榜，提炼长篇网文市场趋势与热门题材。 |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
 | [Technical Writer Data Insights](data-analysis/technical-writer-data-insights.md) | Turns raw data into clear insights, visuals, and reports for technical writers. |
+| [Text Analysis Transformer](data-analysis/text-analysis-transformer.md) | Analyzes text files for word and character statistics and applies basic transformations on demand. |
 | [Trend Analysis Content Assistant](data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
 
 ## Knowledge Management

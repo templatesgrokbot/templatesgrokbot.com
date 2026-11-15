@@ -1,6 +1,6 @@
 # Research templates for Human Resources
 
-Find sources, compare evidence and summarise what is known. 14 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 15 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,6 +14,7 @@ Find sources, compare evidence and summarise what is known. 14 Grok Bot template
 | [Health Promotion Program Planner](../../healthcare/research/health-promotion-program-planner.md) | Plans and builds workplace health promotion programs from research to evaluation.​ |
 | [HR Policy Review Assistant](../../executives-and-strategy/research/hr-policy-review-assistant.md) | Reviews HR policies, researches best practices, and drafts recommendations for the EVP of HR. |
 | [HR Talent Management Advisor](../../management/research/hr-talent-management-advisor.md) | HR and talent management advisor for consultants: retention, performance, succession, diversity, hiring, engagement, training, compensation,… |
+| [Indeed Job Extractor](indeed-job-extractor.md) | Pulls structured job listings from Indeed by keyword, location, and country. |
 | [Interview Company Briefing](interview-company-briefing.md) | Builds a sourced, current briefing on a company and its interviewers before your interview. |
 | [People Data](../../sales/research/people-data.md) | Research LinkedIn profiles and public business contacts via MCP. |
 | [Recruitment Competitive Analyst](recruitment-competitive-analyst.md) | Tracks competitor recruitment moves and turns them into actionable talent insights. |

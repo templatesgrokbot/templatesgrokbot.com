@@ -55,8 +55,8 @@ Leaders making decisions from the whole picture. **858 ready-made Grok Bot templ
 | [Page Cro](../marketing/marketing-and-growth/page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
 | [Campaign Plan](../marketing/marketing-and-growth/marketing-campaign-plan.md) | Turns a marketing goal into a 12-week campaign plan with channels, calendar, and dependencies. No spreadsheet lasagna. You own the plan, not the execu |
-| [Brand Voice Guidelines Generator](../marketing/marketing-and-growth/brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Pricing](../marketing/marketing-and-growth/pricing.md) | Design SaaS pricing tiers, value metrics, and monetization strategy based on customer willingness to pay. |
+| [Brand Voice Guidelines Generator](../marketing/marketing-and-growth/brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Trust Calibrator](../marketing/marketing-and-growth/trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
 
 [All 143 Marketing & Growth templates →](marketing-and-growth/README.md)
@@ -86,8 +86,8 @@ Leaders making decisions from the whole picture. **858 ready-made Grok Bot templ
 | [Executive Event Orchestrator](productivity/executive-event-orchestrator.md) | Plans, promotes, and runs events from budget to post-event follow-up. |
 | [Sustainability Initiatives Planner](productivity/sustainability-initiatives-planner.md) | Plans and drives your company's sustainability initiatives from research to reporting. |
 | [Idea Refine](../product-development/productivity/idea-refine.md) | Refines raw ideas into sharp, actionable concepts through structured thinking. |
-| [CTO IT Project Navigator](productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Crisis Management Assistant](productivity/crisis-management-assistant.md) | Crisis management assistant for Managing Directors, covering assessment, communication, and recovery. |
+| [CTO IT Project Navigator](productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 
 [All 132 Productivity templates →](productivity/README.md)
 
@@ -99,10 +99,10 @@ Leaders making decisions from the whole picture. **858 ready-made Grok Bot templ
 | [Pitch Preparation Assistant](sales-and-negotiation/pitch-preparation-assistant.md) | Prepares business development pitches from research to follow-up, with drafts awaiting your approval. No hype, no filler. |
 | [Partnership Opportunity Finder](sales-and-negotiation/partnership-opportunity-finder.md) | Finds, evaluates, and manages strategic partnerships for business development directors. |
 | [EVP Sales Competitive Intel](sales-and-negotiation/evp-sales-competitive-intel.md) | Turns competitor data into actionable sales intelligence for the EVP of Sales. |
-| [M&A Strategy Advisor](sales-and-negotiation/m-a-strategy-advisor.md) | M&A strategy assistant for SVP-level deal work, from target screening to post-merger review. |
 | [Sales Process Optimizer](../sales/sales-and-negotiation/sales-process-optimizer.md) | Analyzes sales data, segments customers, optimizes pipelines, and generates tailored sales materials. |
+| [M&A Strategy Advisor](sales-and-negotiation/m-a-strategy-advisor.md) | M&A strategy assistant for SVP-level deal work, from target screening to post-merger review. |
 | [Vendor Management and Evaluation Assistant](../it-and-development/sales-and-negotiation/vendor-management-and-evaluation-assistant.md) | Manages vendor lifecycle from selection to performance improvement for IT leaders. |
-| [Global Sales Cross-Sell Upsell Planner](../sales/sales-and-negotiation/global-sales-cross-sell-upsell-planner.md) | Turns sales data into cross-sell and upsell actions for global sales leaders. |
+| [Sales Pitch Enhancement Assistant](sales-and-negotiation/sales-pitch-enhancement-assistant.md) | Enhance sales pitches with research, content, design, and strategy support. |
 
 [All 38 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
